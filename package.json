@@ -6,7 +6,7 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "deploy": "nuxt generate && aws s3 sync ./dist/ s3://pias --delete --exclude '.*'",
+    "deploy": "nuxt generate; aws s3 sync ./dist/ s3://pias --delete --exclude '.*';aws cloudfront create-invalidation --distribution-id E20JX3UOOUCLYC",
     "generate": "nuxt generate",
     "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
     "lint": "yarn lint:js",
