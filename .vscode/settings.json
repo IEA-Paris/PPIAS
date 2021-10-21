@@ -1,14 +1,9 @@
 {
- 
+  "i18n-ally.localesPaths": ["i18n/"],
   "eslint.enable": true,
   "debug.node.autoAttach": "off",
-  "eslint.workingDirectories": [
-    "app/backend/functions",
-    "bo/backend/functions",
-    "apex/functions",
-    "apex/lib"
-  ],
+  "eslint.workingDirectories": ["app/backend/functions", "bo/backend/functions", "apex/functions", "apex/lib"],
   "jest.rootPath": "apex/",
   "jest.pathToConfig": "jest.config.js",
-  "jest.disabledWorkspaceFolders": ["functions/test/"],
+  "jest.disabledWorkspaceFolders": ["functions/test/"]
 }

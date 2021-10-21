@@ -76,7 +76,10 @@ export default {
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
-  components: true,
+  components: {
+    loader: true,
+    dirs: [{ path: '~/components', pathPrefix: false }],
+  },
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
@@ -107,7 +110,7 @@ export default {
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
     // https://github.com/nuxt-community/i18n-module
-    'nuxt-i18n',
+    '@nuxtjs/i18n',
     // https://sitemap.nuxtjs.org/
     '@nuxtjs/sitemap',
     // https://github.com/nuxt-community/robots-module

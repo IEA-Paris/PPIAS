@@ -1,5 +1,5 @@
 <template>
-  <div class="page-title text-center my-12">
+  <div class="page-title text-center mb-12">
     {{ $t(text) }}
   </div>
 </template>

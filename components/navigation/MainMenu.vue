@@ -33,60 +33,26 @@
         <!-- MAIN MENU -->
         <v-col cols="12" md="4">
           <v-divider style="border-color: white"></v-divider>
-          <!-- INSTITUTE -->
+          <!-- HOME -->
           <v-list dark color="black">
-            <v-list-group :value="$route.name && $route.name.startsWith('institute') ? true : false">
-              <template #activator>
-                <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">{{ $t('institute') }}</v-list-item-title>
-              </template>
-              <v-list-item
-                v-for="(item, i) in institute"
-                :key="i"
-                nuxt
-                :to="item.path"
-                class="ml-3"
-                @click="open = false"
-              >
-                <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6" v-text="$t(item.text)"></v-list-item-title>
-              </v-list-item>
-            </v-list-group>
-            <v-divider></v-divider>
-            <!-- RESEARCH -->
-            <v-list-group :value="$route.name && $route.name.startsWith('research') ? true : false">
-              <template #activator>
-                <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">{{ $t('research') }}</v-list-item-title>
-              </template>
-              <v-list-item
-                v-for="(item, i) in research"
-                :key="i"
-                nuxt
-                :to="item.path"
-                class="ml-3"
-                @click="open = false"
-              >
-                <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6" v-text="$t(item.text)"></v-list-item-title>
-              </v-list-item>
-            </v-list-group>
-            <v-divider></v-divider>
-            <!-- EVENTS -->
-            <v-list-item :to="localePath('/events')" @click="open = false">
-              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">{{ $t('events') }}</v-list-item-title>
+            <v-list-item :to="localePath('/')" @click="open = false">
+              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">{{ $t('home') }}</v-list-item-title>
             </v-list-item>
             <v-divider></v-divider>
-            <!-- LIBRARY -->
-            <v-list-item :to="localePath('/library')" @click="open = false">
-              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">{{ $t('library') }}</v-list-item-title>
+            <!-- MEDIA -->
+            <v-list-item :to="localePath('/media')" @click="open = false">
+              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">{{ $t('media') }}</v-list-item-title>
             </v-list-item>
             <v-divider></v-divider>
-            <!-- APPLY -->
-            <v-list-group :value="$route.name && $route.name.startsWith('apply') ? true : false">
-              <template #activator>
-                <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">{{ $t('apply') }}</v-list-item-title>
-              </template>
-              <v-list-item v-for="(item, i) in apply" :key="i" nuxt :to="item.path" class="ml-3" @click="open = false">
-                <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6" v-text="$t(item.text)"></v-list-item-title>
-              </v-list-item>
-            </v-list-group>
+            <!-- ARTICLES -->
+            <v-list-item :to="localePath('/articles')" @click="open = false">
+              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">{{ $t('articles') }}</v-list-item-title>
+            </v-list-item>
+            <v-divider></v-divider>
+            <!-- AUTHORS -->
+            <v-list-item :to="localePath('/authors')" @click="open = false">
+              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">{{ $t('authors') }}</v-list-item-title>
+            </v-list-item>
           </v-list>
         </v-col>
         <!-- SOCIAL ICONS -->

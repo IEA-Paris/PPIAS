@@ -2,3 +2,145 @@
 //
 // The variables you want to modify
 // $font-size-root: 20px;
+$fortnightly-font-size: 16;
+$fortnightly-heading-font-style: italic;
+$fortnightly-primary-color: #6b38fb;
+// Preset variables
+$body-font-family: 'Open Sans', sans-serif;
+$border-radius-root: 0;
+$btn-font-weight: 700;
+$heading-font-family: 'Bodoni Moda', sans-serif;
+$headings: (
+  'h1': (
+    'font-family': $heading-font-family,
+    'letter-spacing': initial,
+    'size': #{96 / $fortnightly-font-size}rem,
+    'weight': 900,
+  ),
+  'h2': (
+    'font-family': $body-font-family,
+    'letter-spacing': initial,
+    'size': #{60 / $fortnightly-font-size}rem,
+    'weight': 300,
+  ),
+  'h3': (
+    'font-family': $heading-font-family,
+    'letter-spacing': initial,
+    'size': #{48 / $fortnightly-font-size}rem,
+    'weight': 900,
+  ),
+  'h4': (
+    'font-family': $body-font-family,
+    'letter-spacing': initial,
+    'size': #{34 / $fortnightly-font-size}rem,
+    'weight': 400,
+  ),
+  'h5': (
+    'font-family': $body-font-family,
+    'letter-spacing': initial,
+    'size': #{24 / $fortnightly-font-size}rem,
+    'weight': 400,
+  ),
+  'h6': (
+    'font-family': $heading-font-family,
+    'letter-spacing': initial,
+    'size': #{20 / $fortnightly-font-size}rem,
+    'weight': 700,
+  ),
+  'subtitle-1': (
+    'font-family': $body-font-family,
+    'letter-spacing': initial,
+    'size': #{16 / $fortnightly-font-size}rem,
+    'weight': 500,
+  ),
+  'subtitle-2': (
+    'font-family': $heading-font-family,
+    'letter-spacing': initial,
+    'size': #{14 / $fortnightly-font-size}rem,
+    'weight': 500,
+  ),
+  'body-1': (
+    'font-family': $heading-font-family,
+    'letter-spacing': initial,
+    'size': #{16 / $fortnightly-font-size}rem,
+    'weight': 400,
+  ),
+  'body-2': (
+    'font-family': $body-font-family,
+    'letter-spacing': initial,
+    'size': #{14 / $fortnightly-font-size}rem,
+    'weight': 400,
+  ),
+  'caption': (
+    'font-family': $heading-font-family,
+    'letter-spacing': initial,
+    'size': #{12 / $fortnightly-font-size}rem,
+    'weight': 400,
+  ),
+  'overline': (
+    'font-family': $body-font-family,
+    'letter-spacing': initial,
+    'size': #{10 / $fortnightly-font-size}rem,
+    'weight': 700,
+  ),
+);
+$icon-outlined-border-width: 2px;
+$material-light: (
+  'app-bar': #ffffff,
+  'background': #ffffff,
+  'chips': #ffffff,
+);
+$stepper-elevation: 0;
+.theme--light .display-4,
+.display-2,
+.title,
+.caption {
+  font-style: $fortnightly-heading-font-style;
+}
+.v-btn.v-btn--contained,
+.v-card {
+  box-shadow: none;
+}
+.v-chip.v-chip {
+  border-radius: 0;
+  border-style: solid;
+  border-width: thin;
+}
+.v-stepper.v-stepper--vertical .v-stepper__content {
+  border-left-color: transparent !important;
+  margin-bottom: 16px;
+  padding-bottom: 0;
+} /* 
+.section-title {
+  display: inline-block;
+  color: #343434;
+  transition: color 250ms, text-shadow 250ms;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 1);
+
+  position: relative;
+  z-index: 0;
+
+  &::after {
+    position: absolute;
+    z-index: -1;
+    bottom: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    content: '';
+    width: 100%;
+    height: 3px;
+    background-color: #343434;
+    transition: all 250ms;
+  }
+
+  &:hover {
+    color: white;
+    text-shadow: 0px 1px 0px rgba(0, 0, 0, 1);
+
+    &::after {
+      height: 105%;
+      width: 105%;
+    }
+  }
+} */

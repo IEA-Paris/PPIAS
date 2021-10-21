@@ -1,0 +1,155 @@
+schema {
+  query: Query
+  mutation: Mutation
+}
+
+type Event {
+  name: String
+  description: String
+  date: String
+  type: Int
+  total_slots: Int
+  available_slots: Int
+  slots: [Slot]
+  delay: Int
+  place: Place
+  url: String
+  image: String
+}
+type EventList {
+  events: [Event]
+  total: Int
+}
+type Place {
+  name: String
+  address: String
+  url: String
+  id: String
+}
+type Slot {
+  firstname: String
+  lastname: String
+  email: AWSEmail!
+  entity: Entity_sm
+  lang: String
+}
+type App {
+  description: String
+  id: String
+  logo: String
+  name: String
+  url: String
+  state: Int
+}
+type Entity_sm {
+  name: String
+  id: Int
+  description: String
+  logo: String
+  place: Place
+}
+
+type UserList {
+  total: Int
+  users: [User]
+}
+
+type Mutation {
+  blockUser(id: String): Boolean
+  changePassword(key: String, password: String, recaptcha: String): TokenAndUser
+  deleteAccount: Boolean
+  forgotPassword(email: AWSEmail, recaptcha: String): Boolean
+  inviteUser(options: UserInput): Boolean
+  updateUser(options: UpdateUserInput): User
+  upsertApp(options: UpsertAppInput): Boolean
+  upsertEvent(options: UpsertEventInput): Boolean
+}
+type Query {
+  getPresignedUploadUrl(type: String): String
+  getUser: User
+  listApps: [App]
+  listEvents(filters: ListEventsInput): EventList
+  listUsers(filters: ListUsersInput): UserList
+  login(email: AWSEmail, password: String): Token
+}
+type Person {
+  country: Int
+  entity: Entity_sm
+  firstname: String
+  lastname: String
+  position: String
+  image: String
+  references: [String]
+  presentation: String
+  twitter: String
+  linkedin: String
+  wikipedia: String
+}
+type Token {
+  accessToken: String
+}
+
+type TokenAndUser {
+  accessToken: String
+  user: User
+}
+type User {
+  apps: [Int]
+  createdAt: String
+  email: AWSEmail!
+  person: Person
+  role: Int
+  settings: Settings
+  status: Int
+}
+type Settings {
+  lang: String
+}
+input UserInput {
+  apps: [String]
+  country: Int
+  email: AWSEmail!
+  entity: String
+  firstname: String!
+  lastname: String!
+  position: String
+  role: Int!
+}
+input UpsertAppInput {
+  admin: String
+  description: String
+  id: String
+  logo: String
+  name: String
+  url: String
+  state: Int
+}
+input UpdateUserInput {
+  app: [String]
+  id: String
+  person: PersonInput
+  role: Int
+  settings: SettingsInput
+  status: Int
+}
+
+input UpsertAppInput {
+  description: String
+  id: String
+  logo: String
+  name: String
+  url: String
+  state: Int
+}
+input ListEventsInput {
+  options: ListInput
+}
+input ListUsersInput {
+  options: ListInput
+}
+input ListInput {
+  limit: Int
+  skip: Int
+  sort: [String]
+  search: String
+}

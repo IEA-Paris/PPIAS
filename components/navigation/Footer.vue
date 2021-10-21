@@ -101,7 +101,7 @@
               </v-tooltip>
             </v-col>
             <v-col cols="12" align="center">
-              <span class="overline">&copy; {{ new Date().getFullYear() }} {{ $t('ias-paris') }}</span>
+              <span class="overline">&copy; {{ new Date().getFullYear() }} {{ $t('paris-ias') }}</span>
               <v-btn text x-small dark>{{ $t('tos') }}</v-btn>
               <v-btn text x-small dark>{{ $t('privacy') }}</v-btn>
             </v-col>

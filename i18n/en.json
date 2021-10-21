@@ -40,5 +40,10 @@
   "event": "Event",
   "news": "News",
   "resource": "Resource",
-  "subscribe": "Subscribe"
+  "subscribe": "Subscribe",
+  "home": "Home",
+  "authors": "Authors",
+  "media": "Media",
+  "articles": "Articles",
+  "paris-ias": "PARIS IAS"
 }
