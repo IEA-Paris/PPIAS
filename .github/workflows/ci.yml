@@ -59,3 +59,5 @@ jobs:
           aws-region: eu-west-1
       - name: Deploy to S3
         run: yarn run deploy
+        env:
+          DEEPL_KEY: ${{ secrets.DEEPL_KEY }}

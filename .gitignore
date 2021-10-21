@@ -97,5 +97,3 @@ dist/
 
 #Npm
 yarn.lock
-
-/config.js
