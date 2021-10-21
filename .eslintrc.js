@@ -34,7 +34,7 @@ module.exports = {
     SPA: false,
     nodeRequire: false,
   },
-  plugins: ['vuejs-accessibility', 'yaml', 'markdown', 'prettier', 'vue'],
+  plugins: ['vuejs-accessibility', 'yaml', 'markdown', 'prettier', 'vue', 'jest'],
   // add your custom rules here
   rules: {
     'vue/component-name-in-template-casing': ['error', 'PascalCase'],

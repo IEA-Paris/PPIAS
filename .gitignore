@@ -98,4 +98,4 @@ dist/
 #Npm
 yarn.lock
 
-config.js
+/config.js
