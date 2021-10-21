@@ -22,6 +22,7 @@ module.exports = {
     'plugin:vue/recommended',
     'plugin:yaml/recommended',
     'plugin:markdown/recommended',
+    'plugin:jest/recommended',
   ],
   globals: {
     $nuxt: true,

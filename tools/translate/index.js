@@ -26,22 +26,19 @@ const dom = new jsdom.JSDOM()
 languages.forEach((lang) => {
   // process all json files
   folders.forEach((folder) => {
-    const options = commandLineArgs(optionDefinitions)
-    let data
-    let moc
-    let model
-    data = fs.readFileSync(path.resolve(folder + 'en.json'))
-    moc = JSON.parse(data)
+    // const options = commandLineArgs(optionDefinitions)
+    const data = fs.readFileSync(path.resolve(folder + 'en.json'))
+    const moc = JSON.parse(data)
 
-    dataOut = fs.readFileSync(path.resolve(folder + lang + '.json'))
-    model = JSON.parse(dataOut)
+    const dataOut = fs.readFileSync(path.resolve(folder + lang + '.json'))
+    const model = JSON.parse(dataOut)
 
     let numberOfCall = 0
     let numOfCallResolved = 0
     let skipped = 0
     let bar
 
-    translateObj = (params, target, outputLang, callback) => {
+    const translateObj = (params, target, outputLang, callback) => {
       _.forIn(params, (value, key) => {
         if (_.isObject(value)) {
           translateObj(value, target[key], outputLang, callback)
@@ -107,8 +104,8 @@ languages.forEach((lang) => {
   })
   // process all *.md files
 
-  glob(path.resolve('../../app/frontend/content/en') + '/**/*.md', {}, (err, files) => {
-    files.forEach(async (file) => {
+  glob(path.resolve('../../app/frontend/content/en') + '/**/*.md', {}, (files) => {
+    files.forEach((file) => {
       setTimeout(() => {
         // check if the lang counterpart of the file exist
         const path = file.replace('content/en', 'content/' + lang)
