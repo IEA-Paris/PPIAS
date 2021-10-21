@@ -21,11 +21,11 @@ const folders = [
   /* TO BE COMPLETED */
 ]
 const languages = ['fr', 'de', 'el', 'es', 'it', 'ja', 'nl', 'pt', 'ru', 'zh'] /* TO BE MODIFIED */
-converter = new showdown.Converter()
+const converterInstance = new showdown.Converter()
 const dom = new jsdom.JSDOM()
 languages.forEach((lang) => {
-  /*  // process all json files
-  folders.forEach(folder => {
+  // process all json files
+  folders.forEach((folder) => {
     const options = commandLineArgs(optionDefinitions)
     let data
     let moc
@@ -48,18 +48,16 @@ languages.forEach((lang) => {
         } else {
           numberOfCall++ // count for number of call
           setTimeout(() => {
-            if (!(target && target[key] && target[key].length)) { // is it already translated?
+            if (!(target && target[key] && target[key].length)) {
+              // is it already translated?
               const queryParams = {
-                auth_key:config.modules.deepl.key,
+                auth_key: config.modules.deepl.key,
                 text: value,
                 target_lang: lang,
                 split_sentences: '0',
               }
               axios
-                .post(
-                  'https://api.deepl.com/v2/translate',
-                  querystring.stringify(queryParams)
-                )
+                .post('https://api.deepl.com/v2/translate', querystring.stringify(queryParams))
                 .then((res) => {
                   if (!bar) {
                     bar = new ProgressBar('translating [:bar] :percent :etas', {
@@ -82,7 +80,8 @@ languages.forEach((lang) => {
                 .catch((e) => {
                   callback(e, null)
                 })
-            } else { // already translated, just skip
+            } else {
+              // already translated, just skip
               skipped++
               params[key] = target[key]
               numOfCallResolved++ // count for number of callback
@@ -93,7 +92,7 @@ languages.forEach((lang) => {
             console.log('Item: ' + numberOfCall + '/' + numOfCallResolved)
           }, numberOfCall * 100) // avoid the api call limit
         }
-      });
+      })
     }
     translateObj(moc, model, lang, (err, result) => {
       if (err) {
@@ -105,7 +104,7 @@ languages.forEach((lang) => {
         console.log('result: ', result)
       }
     })
-  }) */
+  })
   // process all *.md files
 
   glob(path.resolve('../../app/frontend/content/en') + '/**/*.md', {}, (err, files) => {
@@ -145,7 +144,7 @@ languages.forEach((lang) => {
             }
           }
           if (shouldTranslate) {
-            const xhtml = converter.makeHtml(content)
+            const xhtml = converterInstance.makeHtml(content)
             const queryParams = {
               auth_key: config.modules.deepl.key,
               text: xhtml,
@@ -171,7 +170,7 @@ languages.forEach((lang) => {
               title = titleRes.data.translations[0].text
             }
 
-            const body = converter.makeMarkdown(res.data.translations[0].text, dom.window.document)
+            const body = converterInstance.makeMarkdown(res.data.translations[0].text, dom.window.document)
             delete target.data.title
             delete target.data.version
             // todo, print the rest of target data in the target frontmatter

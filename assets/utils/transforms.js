@@ -2,7 +2,7 @@ import stopWords from './stopWords'
 
 export const getKey = (id, key) => {
   let selector
-  switch (key) {
+  /*   switch (key) {
     case 'field':
       selector = fields
       break
@@ -26,7 +26,7 @@ export const getKey = (id, key) => {
       break
     default:
       break
-  }
+  } */
   return selector.find((item) => item.value === id).text
 }
 
