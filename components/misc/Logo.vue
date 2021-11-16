@@ -1,5 +1,5 @@
 <template>
-  <div class="main-title ml-7">
+  <div class="main-title ml-10">
     <!--     <v-avatar
       class="mr-3 mb-3 ml-10"
       tile
@@ -23,7 +23,7 @@
     <br />
     <span style="color: #757575">Paris</span>
     <br />
-    Institute of
+    Institute for
     <br />
     Advanced
     <br />

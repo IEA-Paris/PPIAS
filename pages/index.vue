@@ -1,5 +1,6 @@
 <template>
   <div v-scroll="onScroll">
+    <IssueSwitcher></IssueSwitcher>
     <Section title="latest" />
     <Section title="events" alt />
     <Section title="research" />
@@ -8,11 +9,12 @@
 </template>
 <script>
 export default {
-  async asyncData({ $content, params }) {
-    const article = await $content('hello').fetch()
-
+  async asyncData({ $content, params, route }) {
+    const issue = await $content('issues')
+      .where({ number: route?.query?.issue || 0, published: true })
+      .fetch()
     return {
-      article,
+      issue,
     }
   },
   data() {
