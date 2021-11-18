@@ -11,6 +11,8 @@ sections:
   label: Articles
   create: all
   match: "**/*"
+  templates:
+  - article
 - type: directory
   path: content/issues
   label: Issues
