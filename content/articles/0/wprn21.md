@@ -27,7 +27,7 @@ author_s_:
 url: ''
 
 ---
-The Final Day of ICA4 began with two thought-provoking lectures from [**Shimon Ullman **](https://www.intercontinental-academia.org/mentors#ullman "Shimon Ullman")and [**_Zaven Paré_**](https://www.intercontinental-academia.org/mentors#pare "Zaven Pare"), discussing **how humans extract information from complex scenes** and **the peculiar nature of the relationship between humans and robots**. Pare then revealed a provocative example of **an existing robot that is addressed to isolation in a contemporary urban environment**.
+The Final Day of ICA4 began with two thought-provoking lectures from [__Shimon Ullman **__](https://www.intercontinental-academia.org/mentors#ullman "Shimon Ullman")**and** [_Zaven Paré_**](https://www.intercontinental-academia.org/mentors#pare "Zaven Pare"), discussing **how humans extract information from complex scenes** and **the peculiar nature of the relationship between humans and robots**. Pare then revealed a provocative example of **an existing robot that is addressed to isolation in a contemporary urban environment**.
 
 [The Fellows](https://www.intercontinental-academia.org/fellows "Fellows") then took a break to explore the **3D virtual campus of the** [**Paris IAS**](https://www.paris-iea.fr/en/ "Paris IAS"), called **Teemew Campus Alpha**, in which **lounges**, **public seminar rooms**, **private meeting rooms** and **workshops** are accessible to ICA4 Fellows and Mentors. Each Academia member possesses an avatar, created from his/her own image, which is then used to navigate through the **IAS cyber campus**.
 
