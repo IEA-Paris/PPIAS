@@ -43,37 +43,34 @@ fields:
   config:
     required: false
   label: Picture copyright
-- name: presentation
-  type: textarea
-  default: ''
-  config:
-    required: true
-    wysiwyg: false
-    schema:
-      format: markdown
-    min: 25
-    max: 2000
-  label: Presentation
-  description: Avoid titles and institutions unless it is a former position.
-- name: linkedin
-  type: text
-  config:
-    required: false
-  label: Linkedin
-  description: URL of the LinkedIn public profile page
-- name: twitter
-  type: text
-  config:
-    required: false
-  label: Twitter
-- name: wikipedia
-  type: text
-  config:
-    required: false
-  label: Wikipedia
-- name: website
-  type: text
-  config:
-    required: false
-  label: Website
-  description: URL of the personnal website or page on institution
+- name: social_channels
+  type: field_group
+  config: {}
+  fields:
+  - name: website
+    type: text
+    config:
+      required: false
+    label: Website
+    description: Personal website
+  - name: wikipedia
+    type: text
+    config:
+      required: false
+    label: Wikipedia
+  - name: linkedin
+    type: text
+    config:
+      required: false
+    label: Linkedin
+  - name: twitter
+    type: text
+    config:
+      required: false
+    label: Twitter
+  - name: instagram
+    type: text
+    config:
+      required: false
+    label: Instagram
+  label: Social channels
