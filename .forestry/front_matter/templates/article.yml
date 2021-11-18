@@ -1,4 +1,45 @@
 ---
 label: Article
 hide_body: false
-fields: []
+fields:
+- name: article_title
+  type: text
+  config:
+    required: true
+    min: 5
+    max: 250
+  label: Article Title
+- name: issue
+  type: select
+  default: []
+  config:
+    required: true
+    options: []
+    source:
+      type: pages
+      section: issues
+      file: 
+      path: 
+  label: Issue
+- name: published
+  type: boolean
+  label: Published
+- name: pinned
+  type: boolean
+  label: Pinned
+  description: Pinned articles will stay on top (only the last one by date)
+- name: date
+  type: datetime
+  label: Date
+  description: Seen as the publication date on the article
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: url
+  type: text
+  config:
+    required: false
+  label: URL
