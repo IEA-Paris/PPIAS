@@ -78,3 +78,5 @@ fields:
       path: 
   label: Type
   description: The type of the article
+pages:
+- content/articles/0/wprn21.md
