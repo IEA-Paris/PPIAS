@@ -26,16 +26,16 @@ sections:
   path: content/pages/about.md
   label: About Us
 - type: document
-  path: content/pages/pressroom
+  path: content/pages/pressroom.md
   label: Press Room
 - type: document
-  path: content/pages/privacy
+  path: content/pages/privacy.md
   label: Privacy Policy
 - type: document
-  path: content/pages/support
+  path: content/pages/support.md
   label: Support Us
 - type: document
-  path: content/pages/tos
+  path: content/pages/tos.md
   label: Terms of use
 upload_dir: static
 public_path: ''
