@@ -49,7 +49,7 @@ fields:
     time_format: 
     display_utc: false
   default: now
-- name: author_s_
+- name: authors
   type: blocks
   label: Author(s)
   template_types:
