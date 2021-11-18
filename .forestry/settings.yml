@@ -20,6 +20,8 @@ sections:
   match: "**/*"
   templates:
   - issue
+- type: heading
+  label: Website
 - type: document
   path: content/pages/about
   label: About Us
