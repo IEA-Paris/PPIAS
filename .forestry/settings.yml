@@ -12,8 +12,24 @@ sections:
 - type: heading
   label: Website
 - type: document
-  path: content/about
-  label: About
+  path: content/pages/about
+  label: About Us
+  match: "**/*"
+- type: document
+  path: content/pages/pressroom
+  label: Press Room
+  match: "**/*"
+- type: document
+  path: content/pages/privacy
+  label: Privacy Policy
+  match: "**/*"
+- type: document
+  path: content/pages/support
+  label: Support Us
+  match: "**/*"
+- type: document
+  path: content/pages/tos
+  label: Terms of use
   match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
