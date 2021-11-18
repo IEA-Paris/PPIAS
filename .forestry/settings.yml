@@ -18,6 +18,8 @@ sections:
   label: Issues
   create: all
   match: "**/*"
+  templates:
+  - issue
 - type: heading
   label: Website
 - type: document
