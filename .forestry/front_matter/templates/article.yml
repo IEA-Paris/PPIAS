@@ -1,4 +1,80 @@
 ---
 label: Article
 hide_body: false
-fields: []
+fields:
+- name: article_title
+  type: text
+  config:
+    required: true
+    min: 5
+    max: 250
+  label: Article Title
+- name: issue
+  type: select
+  default: []
+  config:
+    required: true
+    options: []
+    source:
+      type: pages
+      section: issues
+      file: 
+      path: 
+  label: Issue
+- name: picture
+  type: file
+  config:
+    maxSize: 64
+  label: Picture
+  description: Picture used as thumbnail and article splash
+- name: picture_copyright
+  type: text
+  config:
+    required: false
+  label: Picture copyright
+- name: published
+  type: boolean
+  label: Published
+- name: pinned
+  type: boolean
+  label: Pinned
+  description: Pinned articles will stay on top (only the last one by date)
+- name: date
+  type: datetime
+  label: Date
+  description: Seen as the publication date on the article
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: author_s_
+  type: blocks
+  label: Author(s)
+  template_types:
+  - author
+  config:
+    min: 
+    max: 
+- name: url
+  type: text
+  config:
+    required: false
+  label: URL
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Editorial
+    - Fellow corner
+    - Our picks
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type
+  description: The type of the article

@@ -1,0 +1,24 @@
+---
+label: Issue
+hide_body: false
+fields:
+- name: name_of_the_issue
+  type: text
+  config:
+    required: true
+  label: Name of the issue
+- name: cover
+  type: file
+  config:
+    maxSize: 64
+  label: Cover
+- name: date
+  type: datetime
+  label: Date
+  description: Release date of the issue
+  config:
+    required: true
+    date_format: MM/YYYY
+    time_format: 
+    display_utc: false
+  default: now

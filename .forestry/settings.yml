@@ -11,13 +11,15 @@ sections:
   label: Articles
   create: all
   match: "**/*"
+  templates:
+  - article
 - type: directory
   path: content/issues
   label: Issues
   create: all
   match: "**/*"
-- type: heading
-  label: Website
+  templates:
+  - issue
 - type: document
   path: content/pages/about
   label: About Us
