@@ -39,14 +39,14 @@
               <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">{{ $t('home') }}</v-list-item-title>
             </v-list-item>
             <v-divider></v-divider>
-            <!-- MEDIA -->
-            <v-list-item :to="localePath('/media')" @click="open = false">
-              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">{{ $t('media') }}</v-list-item-title>
-            </v-list-item>
-            <v-divider></v-divider>
             <!-- ARTICLES -->
             <v-list-item :to="localePath('/articles')" @click="open = false">
               <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">{{ $t('articles') }}</v-list-item-title>
+            </v-list-item>
+            <v-divider></v-divider>
+            <!-- MEDIA -->
+            <v-list-item :to="localePath('/media')" @click="open = false">
+              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">{{ $t('media') }}</v-list-item-title>
             </v-list-item>
             <v-divider></v-divider>
             <!-- AUTHORS -->
