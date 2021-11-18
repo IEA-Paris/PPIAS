@@ -23,8 +23,6 @@ sections:
 - type: document
   path: content/pages/about
   label: About Us
-- type: heading
-  label: Website
 - type: document
   path: content/pages/pressroom
   label: Press Room
