@@ -33,10 +33,10 @@ sections:
 - type: document
   path: content/pages/tos
   label: Terms of use
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: static
+public_path: ''
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   install_dependencies_command: npm install
