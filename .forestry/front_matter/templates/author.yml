@@ -1,4 +1,79 @@
 ---
 label: Author
 hide_body: false
-fields: []
+fields:
+- name: firstname
+  type: text
+  config:
+    required: true
+  label: Firstname
+- name: lastname
+  type: text
+  config:
+    required: true
+  label: Lastname
+- name: titles_and_institutions
+  type: field_group_list
+  fields:
+  - name: titles
+    type: list
+    config:
+      use_select: false
+      min: 
+      max: 
+    label: Titles
+  - name: institution
+    type: text
+    config:
+      required: false
+    label: Institution
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Titles and institutions
+- name: picture
+  type: text
+  config:
+    required: false
+  label: PIcture
+  description: URL of the picture
+- name: picture_copyright
+  type: text
+  config:
+    required: false
+  label: Picture copyright
+- name: presentation
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+    min: 25
+    max: 2000
+  label: Presentation
+  description: Avoid titles and institutions unless it is a former position.
+- name: linkedin
+  type: text
+  config:
+    required: false
+  label: Linkedin
+  description: URL of the LinkedIn public profile page
+- name: twitter
+  type: text
+  config:
+    required: false
+  label: Twitter
+- name: wikipedia
+  type: text
+  config:
+    required: false
+  label: Wikipedia
+- name: website
+  type: text
+  config:
+    required: false
+  label: Website
+  description: URL of the personnal website or page on institution
