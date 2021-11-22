@@ -1,12 +1,20 @@
-name: ci
+name: infra
 
 on:
+  workflow_dispatch:
+    inputs:
+      foo:
+        description: ''
+        required: false
+        default: 'bar'
+
   push:
     branches:
       - main
       - master
     paths:
       - 'infra/**'
+      - '.github/workflows/infra.yml'
 
 env:
   AWS_REGION: 'eu-west-3' # paris
@@ -24,22 +32,22 @@ jobs:
       - name: Checkout 🛎
         uses: actions/checkout@master
 
-    - name: 'AWS Creds'
-      run: |
-        mkdir -p ~/.aws/
-        cat << EOF > ~/.aws/credentials
-        [prod]
-        aws_access_key_id = ${{ secrets.AWS_ACCESS_KEY_ID }}
-        aws_secret_access_key = ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        EOF
+      - name: 'AWS Creds'
+        run: |
+          mkdir -p ~/.aws/
+          cat << EOF > ~/.aws/credentials
+          [prod]
+          aws_access_key_id = ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws_secret_access_key = ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          EOF
 
-        cat << EOF > ~/.aws/config
-        [profile prod]
-        region = ${{ secrets.AWS_REGION }}
-        EOF
-      env:
-        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          cat << EOF > ~/.aws/config
+          [profile prod]
+          region = ${{ secrets.AWS_REGION }}
+          EOF
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
       - name: Setup Terragrunt
         uses: autero1/action-terragrunt@v0.1.0
@@ -51,17 +59,12 @@ jobs:
       - name: 'Setup Terraform'
         uses: hashicorp/setup-terraform@v1
         with:
-          terraform_version: 1.0.11 
+          terraform_version: 1.0.11
         env:
           ACTIONS_ALLOW_UNSECURE_COMMANDS: true
 
-
       - name: 'Apply Terragrunt'
-        id: apply 
-        run: cd infra/live/prod && terragrunt apply-all --terragrunt-non-interactive
+        id: apply
+        run: cd infra/live/prod && terragrunt run-all apply --terragrunt-non-interactive
         env:
           AWS_PROFILE: 'prod'
-
-      - run: echo ${{ steps.apply.outputs.stdout }}
-      - run: echo ${{ steps.apply.outputs.stderr }}
-      - run: echo ${{ steps.apply.outputs.exitcode }}

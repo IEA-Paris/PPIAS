@@ -1,13 +1,14 @@
 name: ci
 
 on:
+  workflow_dispatch:
+    inputs:
+      foo:
+        description: ''
+        required: false
+        default: 'bar'
+
   push:
-    branches:
-      - main
-      - master
-    paths:
-      - '!infra/**'
-  pull_request:
     branches:
       - main
       - master
@@ -15,42 +16,6 @@ on:
       - '!infra/**'
 
 jobs:
-  infra:
-    runs-on: ${{ matrix.os }}
-
-    strategy:
-      matrix:
-        os: [ubuntu-latest]
-        node: [14]
-
-    steps:
-      - name: Checkout 🛎
-        uses: actions/checkout@master
-
-      - name: Setup Terragrunt
-        uses: autero1/action-terragrunt@v0.1.0
-        with:
-          terragrunt_version: 0.35.12
-        env:
-          ACTIONS_ALLOW_UNSECURE_COMMANDS: true
-
-      - name: 'Setup Terraform'
-        uses: hashicorp/setup-terraform@v1
-        with:
-          terraform_version: 1.0.11 
-        env:
-          ACTIONS_ALLOW_UNSECURE_COMMANDS: true
-
-
-      - run: cd infra/live/prod && terragrunt apply-all --terragrunt-non-interactive
-
-      - id: plan
-        run: terraform plan -no-color
-
-      - run: echo ${{ steps.plan.outputs.stdout }}
-      - run: echo ${{ steps.plan.outputs.stderr }}
-      - run: echo ${{ steps.plan.outputs.exitcode }}
-
   ci:
     runs-on: ${{ matrix.os }}
 
