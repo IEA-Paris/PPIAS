@@ -79,7 +79,7 @@ jobs:
       - name: Invalidate Cloudfront Cache
         uses: chetan/invalidate-cloudfront-action@v2
         env:
-          DISTRIBUTION: 'd5o191ehoul73.cloudfront.net' #TODO: fetch from tf
+          DISTRIBUTION: 'E20JX3UOOUCLYC' #TODO: fetch from tf
           PATHS: '/*'
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
