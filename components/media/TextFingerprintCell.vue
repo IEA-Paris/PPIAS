@@ -1,5 +1,5 @@
 <template>
-  <g :class="isHeading ? 'is-heading' : '' + isHermeneutic ? 'is-hl' : '' + 'type-' + type">
+  <g :class="isHeading ? 'is-heading' : '' + isMedia ? 'is-hl' : '' + 'type-' + type">
     <line :x1="ox" :y1="oy" :x2="cx" :y2="cy" />
     <circle class="origin" :cx="ox" :cy="oy" :r="1" />
     <circle v-if="isHeading" class="heading-placeholder" :cx="ox" :cy="oy" :r="5" />
@@ -19,42 +19,42 @@ export default {
   props: {
     type: {
       type: String,
-      required: true,
+      required: false,
       default: 'markdown',
     },
     theta: {
       type: Number,
-      required: true,
+      required: false,
       default: 0,
     },
     originRadius: {
       type: Number,
-      required: true,
+      required: false,
       default: 100,
     },
     offsetRadius: {
       type: Number,
-      required: true,
+      required: false,
       default: 10,
     },
     circleRadius: {
       type: Number,
-      required: true,
+      required: false,
       default: 2.5,
     },
     refsRadius: {
       type: Number,
-      required: true,
+      required: false,
       default: 0,
     },
     isHeading: {
       type: Boolean,
-      required: true,
+      required: false,
       default: false,
     },
-    isHermeneutic: {
+    isMedia: {
       type: Boolean,
-      required: true,
+      required: false,
       default: false,
     },
   },
@@ -63,11 +63,11 @@ export default {
       cosTheta: Math.cos(this.theta),
       sinTheta: Math.sin(this.theta),
       // position in x,y of the center of the small circle representing the Cell
-      cx: this.cosTheta * (this.offsetRadius + this.originRadius),
-      cy: this.sinTheta * (this.offsetRadius + this.originRadius),
+      cx: Math.cos(this.theta) * (this.offsetRadius + this.originRadius),
+      cy: Math.sin(this.theta) * (this.offsetRadius + this.originRadius),
       // coordinates in x y of the origin
-      ox: this.cosTheta * this.originRadius,
-      oy: this.sinTheta * this.originRadius,
+      ox: Math.cos(this.theta) * this.originRadius,
+      oy: Math.sin(this.theta) * this.originRadius,
     }
   },
 }

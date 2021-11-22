@@ -21,7 +21,10 @@
     </v-avatar> -->
     Proceedings of the
     <br />
-    <span style="color: #757575">Paris</span>
+    <span style="color: #757575">
+      Paris
+      <v-icon>mdi-chevron-down</v-icon>
+    </span>
     <br />
     Institute for
     <br />

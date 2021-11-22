@@ -7,37 +7,46 @@ picture: ''
 picture_copyright: ''
 published: true
 pinned: false
-author_s_:
-- template: author
-  firstname: Antoine
-  lastname: Cordelois
-  titles_and_institutions:
-  - titles:
-    - CTO
-    - Developer
-    institution: PARIS IAS
-  picture: https://www.paris-iea.fr/images/equipe/26466/_thumb3/img-20210712-wa0004.jpg
-  social_channels:
-    linkedin: www.linkedin.com/in/antoine-cordelois
-    website: ''
-    wikipedia: ''
-    twitter: ''
-    instagram: ''
-  picture_copyright: ''
+authors:
+  - template: author
+    firstname: Antoine
+    lastname: Cordelois
+    titles_and_institutions:
+      - titles:
+          - CTO
+          - Developer
+        institution: PARIS IAS
+    picture: https://www.paris-iea.fr/images/equipe/26466/_thumb3/img-20210712-wa0004.jpg
+    social_channels:
+      linkedin: www.linkedin.com/in/antoine-cordelois
+      website: ''
+      wikipedia: ''
+      twitter: ''
+      instagram: ''
+    picture_copyright: ''
 url: ''
-
 ---
-The Final Day of ICA4 began with two thought-provoking lectures from [__Shimon Ullman **__](https://www.intercontinental-academia.org/mentors#ullman "Shimon Ullman")**and** [_Zaven Paré_**](https://www.intercontinental-academia.org/mentors#pare "Zaven Pare"), discussing **how humans extract information from complex scenes** and **the peculiar nature of the relationship between humans and robots**. Pare then revealed a provocative example of **an existing robot that is addressed to isolation in a contemporary urban environment**.
 
-[The Fellows](https://www.intercontinental-academia.org/fellows "Fellows") then took a break to explore the **3D virtual campus of the** [**Paris IAS**](https://www.paris-iea.fr/en/ "Paris IAS"), called **Teemew Campus Alpha**, in which **lounges**, **public seminar rooms**, **private meeting rooms** and **workshops** are accessible to ICA4 Fellows and Mentors. Each Academia member possesses an avatar, created from his/her own image, which is then used to navigate through the **IAS cyber campus**.
+## the good, the bad, and the awful
+
+The Final Day of ICA4 began with two thought-provoking lectures from [**Shimon Ullman **](https://www.intercontinental-academia.org/mentors#ullman 'Shimon Ullman')**and** [_Zaven Paré_\*\*](https://www.intercontinental-academia.org/mentors#pare 'Zaven Pare'), discussing **how humans extract information from complex scenes** and **the peculiar nature of the relationship between humans and robots**. Pare then revealed a provocative example of **an existing robot that is addressed to isolation in a contemporary urban environment**.@Cordelois-2120
+
+<!--more-->
+
+- testing
+- the
+- bullet
+- list
+
+[The Fellows](https://www.intercontinental-academia.org/fellows 'Fellows') then took a break to explore the **3D virtual campus of the** [**Paris IAS**](https://www.paris-iea.fr/en/ 'Paris IAS'), called **Teemew Campus Alpha**, in which **lounges**, **public seminar rooms**, **private meeting rooms** and **workshops** are accessible to ICA4 Fellows and Mentors. Each Academia member possesses an avatar, created from his/her own image, which is then used to navigate through the **IAS cyber campus** [@Cordelois_2021].
 
 The Fellows then discussed their follow-up tasks and next step(s). The first session of ICA4 in Paris was then wrapped up with a presentation from, this time, the Fellows! They highlighted some **questions to explore further**, **ideas for research papers**, **an interdisciplinary manifesto for Artificial Intelligence** and finally, they **reflected on the key takeaways from the entire event**.
 
-The intellectually intense series of events was finally concluded with some cocktails at the Paris IAS, marking the very beginning of **a series of scientific adventures which are yet to come**, as the ICA4 Fellows continue to collectively explore some seemingly never-ending questions through combining various perspectives on [**Intelligence and Artificial Intelligence**](https://www.intercontinental-academia.org/about/ica4 "Concept"), ultimately **discovering and shaping how such complex matters should, and will be, embedded within societies...**
+The intellectually intense series of events was finally concluded with some cocktails at the Paris IAS, marking the very beginning of **a series of scientific adventures which are yet to come**, as the ICA4 Fellows continue to collectively explore some seemingly never-ending questions through combining various perspectives on [**Intelligence and Artificial Intelligence**](https://www.intercontinental-academia.org/about/ica4 'Concept'), ultimately **discovering and shaping how such complex matters should, and will be, embedded within societies...**
 
-**The top-down and bottom-up in visual processing**
+## The top-down and bottom-up in visual processing
 
-Presented by [**_Shimon Ullman_**](https://www.intercontinental-academia.org/mentors#ullman "Shimon Ullman")
+Presented by [**_Shimon Ullman_**](https://www.intercontinental-academia.org/mentors#ullman 'Shimon Ullman')
 
 A major question in visual processing is **how humans extract information from complex scenes**. Images often tell us a story! Extracting such a narrative from a complex scene is a sophisticated task. There is a great deal of **cultural and situational knowledge** that serves as the background for directing attentional and visual processing resources.
 
@@ -49,16 +58,16 @@ A major challenge is a **combinatorial generalisation**. The same structure can 
 
 There is a broader set of questions on modelling and understanding. Humans have a very high-level understanding of a concept like “drinking” that is very hard to imagine arising from a purely bottom-up model. More data, even massive amounts of data, might not be sufficient without some higher-order structure.
 
-Upon completion of the presentation, [ICA4 Fellows](https://www.intercontinental-academia.org/fellows "Fellows") then asked questions related to how images are embedded in actions and within cultural contexts, the relationship between ontologies and bottom-up networks, and visual processing in non-humans and how that informs our thinking on the role of abstract reasoning in visual processing.
+Upon completion of the presentation, [ICA4 Fellows](https://www.intercontinental-academia.org/fellows 'Fellows') then asked questions related to how images are embedded in actions and within cultural contexts, the relationship between ontologies and bottom-up networks, and visual processing in non-humans and how that informs our thinking on the role of abstract reasoning in visual processing.
 
-**The role of the robot in society**
+## The role of the robot in society
 
-Presented by [**_Zaven Paré_**](https://www.intercontinental-academia.org/mentors#pare "Zaven Pare")
+Presented by [**_Zaven Paré_**](https://www.intercontinental-academia.org/mentors#pare 'Zaven Pare')
 
-**Art** can tell us something about society and technology. **Once robots are embedded in contexts, they take on new characteristics** – even if they are manufactured to be the “same,” they are changed by their environments. Different robots serve different functions in different societies. **An important potential role for robots is to respond to isolation**. Robots in deep sea and space are examples of how these systems can generate human-artificial interaction in conditions of isolation. [**The Gatebox product**](https://www.gatebox.ai/en/ "Gatebox") is a provocative example of **an existing robot that is addressed to isolation in a contemporary urban environment**.
+**Art** can tell us something about society and technology. **Once robots are embedded in contexts, they take on new characteristics** – even if they are manufactured to be the “same,” they are changed by their environments. Different robots serve different functions in different societies. **An important potential role for robots is to respond to isolation**. Robots in deep sea and space are examples of how these systems can generate human-artificial interaction in conditions of isolation. [**The Gatebox product**](https://www.gatebox.ai/en/ 'Gatebox') is a provocative example of **an existing robot that is addressed to isolation in a contemporary urban environment**.
 
-Scribe: [_Mike Livermore_](https://www.intercontinental-academia.org/fellows#livermore "Mike Livermore")
+Scribe: [_Mike Livermore_](https://www.intercontinental-academia.org/fellows#livermore 'Mike Livermore')
 
-Chair: [_Alex Cayco Gajic_](https://www.intercontinental-academia.org/fellows#cayco-gajic "Alex Cayco Gajic")
+Chair: [_Alex Cayco Gajic_](https://www.intercontinental-academia.org/fellows#cayco-gajic 'Alex Cayco Gajic')
 
 The fellows then discussed questions related to the importance of isolation, what it means for a robot to offer companionship and the social meaning of different anthropic forms being projected onto robots...

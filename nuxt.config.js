@@ -1,5 +1,5 @@
 import config from './config.js'
-
+import addCountMap from './tools/content/addCountMap.js'
 export default {
   env: { config },
   // Target: https://go.nuxtjs.dev/config-target
@@ -197,7 +197,8 @@ export default {
   },
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
-
+  // Content hooks
+  ...addCountMap,
   loading: {
     color: config.theme.themes.loading,
     height: '5px',

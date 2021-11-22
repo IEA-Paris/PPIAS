@@ -1,7 +1,7 @@
 <template>
   <div>
-    <PageTitle text="events" />
-    <Section title="latest" />
+    <PageTitle text="articles" />
+    <ArticleList />
   </div>
 </template>
 <script>
