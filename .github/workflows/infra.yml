@@ -1,0 +1,50 @@
+name: ci
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'infra/**'
+
+env:
+  AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+  AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+  AWS_REGION: 'eu-west-3' # paris
+
+jobs:
+  infra:
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+        node: [14]
+
+    steps:
+      - name: Checkout 🛎
+        uses: actions/checkout@master
+
+      - name: Setup Terragrunt
+        uses: autero1/action-terragrunt@v0.1.0
+        with:
+          terragrunt_version: 0.35.12
+        env:
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+
+      - name: 'Setup Terraform'
+        uses: hashicorp/setup-terraform@v1
+        with:
+          terraform_version: 1.0.11 
+        env:
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+
+
+      - name: 'Apply Terragrunt'
+        id: apply 
+        run: cd infra/live/prod && terragrunt apply-all --terragrunt-non-interactive
+
+      - run: echo ${{ steps.apply.outputs.stdout }}
+      - run: echo ${{ steps.apply.outputs.stderr }}
+      - run: echo ${{ steps.apply.outputs.exitcode }}
