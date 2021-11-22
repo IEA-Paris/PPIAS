@@ -9,8 +9,6 @@ on:
       - 'infra/**'
 
 env:
-  AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-  AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
   AWS_REGION: 'eu-west-3' # paris
 
 jobs:
@@ -25,6 +23,23 @@ jobs:
     steps:
       - name: Checkout 🛎
         uses: actions/checkout@master
+
+    - name: 'AWS Creds'
+      run: |
+        mkdir -p ~/.aws/
+        cat << EOF > ~/.aws/credentials
+        [prod]
+        aws_access_key_id = ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws_secret_access_key = ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        EOF
+
+        cat << EOF > ~/.aws/config
+        [profile prod]
+        region = ${{ secrets.AWS_REGION }}
+        EOF
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
       - name: Setup Terragrunt
         uses: autero1/action-terragrunt@v0.1.0
@@ -44,6 +59,8 @@ jobs:
       - name: 'Apply Terragrunt'
         id: apply 
         run: cd infra/live/prod && terragrunt apply-all --terragrunt-non-interactive
+        env:
+          AWS_PROFILE: 'prod'
 
       - run: echo ${{ steps.apply.outputs.stdout }}
       - run: echo ${{ steps.apply.outputs.stderr }}
