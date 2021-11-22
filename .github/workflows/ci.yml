@@ -1,14 +1,20 @@
 name: ci
 
 on:
+  workflow_dispatch:
+    inputs:
+      foo:
+        description: ''
+        required: false
+        default: 'bar'
+
   push:
     branches:
       - main
       - master
-  pull_request:
-    branches:
-      - main
-      - master
+    paths:
+      - '!infra/**'
+      - '.github/workflows/ci.yml'
 
 jobs:
   ci:
@@ -28,6 +34,9 @@ jobs:
         with:
           node-version: ${{ matrix.node }}
           check-latest: true
+
+
+
 
       - name: Get yarn cache directory path 🛠
         id: yarn-cache-dir-path
@@ -61,8 +70,17 @@ jobs:
         with:
           args: --acl public-read --follow-symlinks --delete
         env:
-          AWS_S3_BUCKET: pias
+          AWS_S3_BUCKET: pias #TODO: fetch from tf
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: 'eu-west-1' # optional: defaults to us-east-1
           SOURCE_DIR: 'dist'
+
+      - name: Invalidate Cloudfront Cache
+        uses: chetan/invalidate-cloudfront-action@v2
+        env:
+          DISTRIBUTION: 'E20JX3UOOUCLYC' #TODO: fetch from tf
+          PATHS: '/*'
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: 'us-east-1'
