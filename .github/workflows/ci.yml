@@ -12,9 +12,8 @@ on:
     branches:
       - main
       - master
-    paths:
-      - '!infra/**'
-      - '.github/workflows/ci.yml'
+    paths-ignore:
+      - 'infra/**'
 
 jobs:
   ci:
