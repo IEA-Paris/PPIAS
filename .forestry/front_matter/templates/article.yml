@@ -39,6 +39,25 @@ fields:
   type: boolean
   label: Pinned
   description: Pinned articles will stay on top (only the last one by date)
+- name: category
+  type: select
+  default: News
+  config:
+    required: true
+    options:
+    - Article
+    - News
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Category
+  description: If "Article" is selected, a DOI will be generated. Reserved for publications.
+- name: keywords
+  type: tag_list
+  default: []
+  label: Keywords
 - name: date
   type: datetime
   label: Date
@@ -62,21 +81,11 @@ fields:
   config:
     required: false
   label: URL
-- name: type
-  type: select
-  default: []
+- name: bibliography
+  type: file
   config:
-    required: false
-    options:
-    - Editorial
-    - Fellow corner
-    - Our picks
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Type
-  description: The type of the article
+    maxSize: 64
+  label: Bibliography
+  description: Insert a *.bib file here
 pages:
 - content/articles/0/wprn21.md
