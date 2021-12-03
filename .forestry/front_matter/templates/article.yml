@@ -7,7 +7,7 @@ fields:
   config:
     required: true
     min: 5
-    max: 250
+    max: 100
   label: Article Title
 - name: issue
   type: select
