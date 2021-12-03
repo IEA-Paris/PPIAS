@@ -58,6 +58,12 @@ fields:
     config:
       required: false
     label: Wikipedia
+  - name: orcid_id
+    type: text
+    config:
+      required: false
+    label: Orcid ID
+    description: 'Add only the ORCID ID, not the URL: e.g. <strong>0000-0003-1715-2919</strong>'
   - name: linkedin
     type: text
     config:
@@ -73,4 +79,22 @@ fields:
     config:
       required: false
     label: Instagram
+  - name: google_scholar
+    type: text
+    config:
+      required: false
+    label: Google scholar
+    description: e.g. <a href="https://scholar.google.com/citations?user=awGy3asAAAAJ&amp;hl=fr&amp;oi=ao"
+      title="https://scholar.google.com/citations?user=awGy3asAAAAJ&amp;hl=fr&amp;oi=ao"
+      target="_blank">https://scholar.google.com/citations?user=awGy3asAAAAJ&amp;hl=fr&amp;oi=ao</a>
+  - name: researchgate
+    type: text
+    config:
+      required: false
+    label: ResearchGate
+  - name: mendeley
+    type: text
+    config:
+      required: false
+    label: Mendeley
   label: Social channels
