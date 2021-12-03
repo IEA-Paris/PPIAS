@@ -13,7 +13,7 @@ fields:
   type: select
   default: []
   config:
-    required: true
+    required: false
     options: []
     source:
       type: pages
@@ -76,11 +76,6 @@ fields:
   config:
     min: 
     max: 
-- name: url
-  type: text
-  config:
-    required: false
-  label: URL
 - name: bibliography
   type: file
   config:
