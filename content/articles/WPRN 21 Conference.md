@@ -2,13 +2,14 @@
 issue: content/issues/10-12-2021.md
 category: Article
 keywords: []
-date: 2021-12-06T15:34:39Z
+date: 2021-12-06T15:34:39.000+00:00
 article_title: WPRN 21 Conference
 picture: ''
 picture_copyright: ''
 published: false
 pinned: false
-authors: []
+authors:
+- content/authors/@Lahlou_2021.md
 bibliography: ''
 
 ---
