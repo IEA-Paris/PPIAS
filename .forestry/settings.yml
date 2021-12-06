@@ -14,6 +14,13 @@ sections:
   templates:
   - article
 - type: directory
+  path: content/authors
+  label: Authors
+  create: all
+  match: "**/*"
+  templates:
+  - author
+- type: directory
   path: content/issues
   label: Issues
   create: all
