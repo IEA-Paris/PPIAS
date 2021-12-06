@@ -13,8 +13,8 @@ fields:
   type: list
   config:
     use_select: true
-    min: 1
-    max: 20
+    min: 
+    max: 
     source:
       type: pages
       section: authors
