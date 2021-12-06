@@ -98,3 +98,5 @@ fields:
       required: false
     label: Mendeley
   label: Social channels
+pages:
+- content/authors/@Lahlou_2021.md
