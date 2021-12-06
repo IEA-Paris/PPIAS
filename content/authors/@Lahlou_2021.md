@@ -10,13 +10,13 @@ picture: ''
 picture_copyright: ''
 social_channels:
   website: ''
-  wikipedia: ''
-  orcid_id: ''
+  wikipedia: https://en.wikipedia.org/wiki/Saadi_Lahlou
+  orcid_id: 0000-0002-9070-5009
   linkedin: ''
   twitter: ''
   instagram: ''
   google_scholar: ''
-  researchgate: ''
+  researchgate: https://www.researchgate.net/profile/Saadi-Lahlou
   mendeley: ''
 
 ---
