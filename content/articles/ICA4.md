@@ -78,3 +78,16 @@ Before leaving for cocktails and welcome speeches in the chambers of Paris IAS, 
   The session began with introducing the concept of singularity and defining it as a tipping point: a change of state that can lead to the collapse of a system. In an attempt to define Ethical AI, examples such as Transhumanism (ideas of transcending the limitations of a mortal body through information sharing) were discussed. Furthermore, the illusion that AI knows humans better than humans know themselves was elaborated, ultimately concluding by mentioning the existence of a possibility for human beings to both profit or suffer from an AI system depending on how it is applied.
 
   "The future needs wisdom”: an urgent need to institutionalise context-sensitivity, rather than creating a standardised system to control AI, was discussed and collectively developed. This lead to further debates regarding the concentration of technology advancement and its deteriorating impact on inequality. Thus, a global agreement is necessary to control AI, although it is currently almost impossible to obtain! Therefore, we should educate AI as a child of humanity that can grow to contribute to society. AI research is undertaken at such a massive scale that it requires global efforts which go beyond a single country. Scientists are paid by society, and their curiosity-led work should return to society as a whole…
+
+   
+  2. **Day 2: "In** **AI we** **trust"...or not!**
+
+![](https://lh4.googleusercontent.com/0-dYD2PKA2ALZYDs2ZxilSutlxMpYOyGlXclyyWGqxIlU3dXW3jYTo8Pasd2fZSGrYT7s3icasKBxcZP882lZb_Zfdj82OJZpLNY3Pno7QyZDCtvJSBKvLurPC140KqW7Q =602x293)
+
+The ICA4 continued onto the second day, through which three seminars took place with mentors who had joined the first session in Paris from around the world!
+
+The first lecture was by[ _Robert Aumann_](https://www.intercontinental-academia.org/mentors#aumann "Robert Aumann"), a Nobel prize laureate, who focused on the convoluted concept of consciousness and its counterparts.
+
+This was followed by a lecture from[ _Karen Yeung_](https://www.intercontinental-academia.org/mentors#yeung "Karen Yeung"), who offered a rather critical point of view on the prevalence of AI, as well as some of its surrounding myths and misconceptions. She then went on to explain how responsibility should be re-defined to consider the unintended impact(s) of AI in human societies.
+
+Finally,[_Raouf Boucekkine _](https://www.intercontinental-academia.org/about/ica4#boucekkine "Raouf Boucekkine")took the fellows for an exploration into the world of economics and finance, using the concept of equilibrium as an example to illustrate the difference between disciplines: mainstream economics VS. statistical physics!
