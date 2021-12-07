@@ -95,11 +95,15 @@ fields:
     maxSize: 64
   label: Bibliography
   description: Insert a *.bib file here
-- name: article_author
-  type: text
+- name: redactor
+  type: list
   config:
-    required: false
-  label: Article Author
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: simple
+  label: Redactor(s)
   showOnly:
     field: category
     value: News
