@@ -36,12 +36,20 @@ fields:
   config:
     maxSize: 64
   label: Picture
-  description: Picture used as thumbnail and article splash
+  description: Picture used as thumbnail and article splash. Not used if a youtube
+    ID is provided as thumbnail below.
 - name: picture_copyright
   type: text
   config:
     required: false
   label: Picture copyright
+- name: yt
+  type: text
+  config:
+    required: false
+  label: Youtube thumbnail
+  description: Add the ID of the youtube video you want it as a thumbnail &amp; article
+    splash. Leave empty if you want a regular thumbnail
 - name: published
   type: boolean
   label: Published
