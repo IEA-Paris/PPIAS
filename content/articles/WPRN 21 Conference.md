@@ -12,6 +12,7 @@ authors:
 - content/authors/@Gubert_2021.md
 - content/authors/@Lahlou_2021.md
 bibliography: ''
+yt: ''
 
 ---
 At a time when the world is facing a major health challenge, the Natural and Life Sciences are mobilized to find vaccines and remedies. At the same time, the Social Sciences and Humanities have moved to the forefront to help our societies face the lockdown and the wave of socio-economic crisis that follows. This mobilization, because it is unprecedented, needs new resources to coordinate, and new formats to build reflexivity to learn from our successes and our mistakes in view of the next crises. The World Pandemic Research Network (WPRN) contributes to meeting these needs through its platform wprn.org.
@@ -50,3 +51,5 @@ The paper panels focused on 6 research hotspots:
 * _Emotions & Coping during Crisis_
 
 Recordings of all presentations can be found in the [WPRN Playlist](https://www.youtube.com/playlist?list=PLLv_k1nsHewlD-pB7BCWsiQnNvb_NhPpO "WPRN Playlist"), and the full program is accessible [here](https://wprn.org/conference/ "WPRN Program").
+
+[https://www.youtube.com/watch?v=uVWyG3wZgD4&list=PLLv_k1nsHewlD-pB7BCWsiQnNvb_NhPpO](https://www.youtube.com/watch?v=uVWyG3wZgD4&list=PLLv_k1nsHewlD-pB7BCWsiQnNvb_NhPpO "Teaser WPRN Conference")
