@@ -19,6 +19,9 @@ fields:
       type: pages
       section: authors
   label: Author(s)
+  showOnly:
+    field: category
+    value: Article
 - name: issue
   type: select
   default: []
@@ -92,6 +95,14 @@ fields:
     maxSize: 64
   label: Bibliography
   description: Insert a *.bib file here
+- name: article_author
+  type: text
+  config:
+    required: false
+  label: Article Author
+  showOnly:
+    field: category
+    value: News
 pages:
 - content/articles/0/wprn21.md
 - content/articles/ICA4.md
