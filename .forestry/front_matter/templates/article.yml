@@ -95,14 +95,18 @@ fields:
     maxSize: 64
   label: Bibliography
   description: Insert a *.bib file here
-- name: redactor
-  type: list
+- name: redactors
+  type: field_group_list
+  fields:
+  - name: redactor
+    type: include
+    config: {}
+    template: author
+    label: Redactor
   config:
-    use_select: true
     min: 
     max: 
-    source:
-      type: simple
+    labelField: 
   label: Redactor(s)
   showOnly:
     field: category
