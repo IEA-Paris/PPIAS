@@ -41,9 +41,15 @@ The 4th edition of the ICA explores the complementarities between artificial int
 
 The first session, hosted by Paris Institute for Advanced Study (Paris IAS), includes an intense 10-days of scientific sessions, discussion forums as well as scientific exchanges with ENS-Paris Saclay, Sorbonne Center for Artificial Intelligence and Ecole Normale Supérieure.
 
-1. Day 1: "The future needs wisdom!”
+![](https://lh4.googleusercontent.com/Fu3P3brFSI8nb5ZQ15tR79S-uWB2TPo5drENasTMjJYf1cJrQCx7Yi34pCASrArkB84PveC-fGHng-_ySiqP1F7-0_WlrGnsEF0sfdRau1TxpOEIducIj98FrvEDAaWf3Q =602x448)
 
-* **Perception, prediction, and pleasure: What can music teach us about neurocognition/intelligence?**
+Each day at the[ Paris IAS](https://www.paris-iea.fr/en/ "Paris IEA"),[ ICA4 Fellows](https://www.intercontinental-academia.org/fellows "ICA4 Fellows") meet with their[ Mentors](https://www.intercontinental-academia.org/mentors "ICA4 Mentors") for a closed 3-hour seminar, during which two mentors launch the discussion with a presentation. Upon completion of the seminar, the Fellows then meet for 45 minutes to list the key takeaways and ideas that have emerged from the discussion, followed by a collective brainstorming session  . This ensures that the output of collective intelligence is collected, formatted and capitalised.
+
+The other half of the day is left free for participants to reflect on the scientific discussions    in small groups. Such discussions are occasionally complemented by lectures from the[ **Chairs**](https://www.intercontinental-academia.org/about/ica4 "ICA4 Chairs").
+
+1. **Day 1: "The future needs wisdom!”**
+
+* Perception, prediction, and pleasure: What can music teach us about neurocognition/intelligence?
 
   Presented by[ **_Robert Zatorre_**](https://www.intercontinental-academia.org/mentors#zatorre "Robert Zatorre")
 
@@ -52,12 +58,12 @@ The first session, hosted by Paris Institute for Advanced Study (Paris IAS), inc
   Moreover, results of the relation between connectivity of the auditory cortex with the striatum and several behavioural results were presented (e.g. related to amusia, music-specific anhedonia). Dynamic causal modelling and predictive coding frameworks have been presented as possible explanations of the relationship between learning and reward in music. Predictions make the rewards evolve from a biological event to the expectation of the event.
 
   Through the post-seminar collective discussions, the relevance of **affective experience** (pleasure and fear) in learning was emphasised. Discussions concluded with a rather open-ended question, leaving ICA4 Fellows wondering about whether or not AI should have a similar system for learning, and how should the reward and punishment be differentiated?" Maybe AI does not need to understand or experience human emotions; it just needs to behave like a human by capturing the features of a dataset that correctly describes the behaviour...
-* **High Energy Physics: Successes, Challenges and Magic**
+* High Energy Physics: Successes, Challenges and Magic
 
   Presented by[ **_Eliezer Rabinovici_**](https://www.intercontinental-academia.org/about/ica4/#rabinovici "Eliezer Rabinovici")
 
   It was discussed that observing natural phenomena can motivate scientific enquiry and drive us to understand the unknown. Moreover, equations are a way to increase predictability. However, a single, compact and reductionist explanation for all phenomena in the universe may not necessarily exist. The scientific method requires that results are reproducible. The correspondence principle requires that new theories can explain all phenomena for which a preceding theory was valid. To understand a phenomenon, one has to identify the relevant players and determine the correct explanation scale.
-* **In AI We Trust: Power, illusion and control of predictive algorithms**
+* In AI We Trust: Power, illusion and control of predictive algorithms
 
   Presented by[ **_Helga Nowotny_**](http://helga-nowotny.eu "Helga Nowotny")
 
