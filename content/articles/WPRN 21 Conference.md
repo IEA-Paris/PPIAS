@@ -8,9 +8,7 @@ picture: ''
 picture_copyright: ''
 published: false
 pinned: false
-authors:
-- content/authors/@Gubert_2021.md
-- content/authors/@Lahlou_2021.md
+authors: []
 bibliography: ''
 yt: ''
 article_author: ''
