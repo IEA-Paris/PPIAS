@@ -1,6 +1,6 @@
 ---
 issue: content/issues/10-12-2021.md
-category: News
+category: Article
 keywords: []
 date: 2021-12-06T15:34:39.000+00:00
 article_title: WPRN 21 Conference
@@ -13,6 +13,9 @@ authors:
 - content/authors/@Lahlou_2021.md
 bibliography: ''
 yt: ''
+article_author: ''
+redactor: []
+redactors: []
 
 ---
 At a time when the world is facing a major health challenge, the Natural and Life Sciences are mobilized to find vaccines and remedies. At the same time, the Social Sciences and Humanities have moved to the forefront to help our societies face the lockdown and the wave of socio-economic crisis that follows. This mobilization, because it is unprecedented, needs new resources to coordinate, and new formats to build reflexivity to learn from our successes and our mistakes in view of the next crises. The World Pandemic Research Network (WPRN) contributes to meeting these needs through its platform wprn.org.
