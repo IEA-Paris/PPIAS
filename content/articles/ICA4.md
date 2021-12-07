@@ -1,6 +1,6 @@
 ---
 issue: content/issues/10-12-2021.md
-category: Article
+category: News
 keywords: []
 date: 2021-12-07T12:54:42Z
 article_title: 8 Days at ICA 4 First session in Paris
@@ -11,6 +11,22 @@ yt: ''
 published: false
 pinned: false
 bibliography: ''
+redactors:
+- firstname: 'Atrina '
+  lastname: Oraee
+  titles_and_institutions: []
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
 
 ---
 The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe.
@@ -29,24 +45,21 @@ The first session, hosted by Paris Institute for Advanced Study (Paris IAS), inc
 
 * **Perception, prediction, and pleasure: What can music teach us about neurocognition/intelligence?**
 
-  Presented by[ **_Robert Zatorre_**](https://www.intercontinental-academia.org/mentors#zatorre)
+  Presented by[ **_Robert Zatorre_**](https://www.intercontinental-academia.org/mentors#zatorre "Robert Zatorre")
 
   It was stated during the seminar that the brain represents the properties of the environment and guides behaviour through evaluation and reward. Aesthetic pleasure can be defined as the phylogenetically older system that is centred on the striatum.
 
   Moreover, results of the relation between connectivity of the auditory cortex with the striatum and several behavioural results were presented (e.g. related to amusia, music-specific anhedonia). Dynamic causal modelling and predictive coding frameworks have been presented as possible explanations of the relationship between learning and reward in music. Predictions make the rewards evolve from a biological event to the expectation of the event.
 
   Through the post-seminar collective discussions, the relevance of **affective experience** (pleasure and fear) in learning was emphasised. Discussions concluded with a rather open-ended question, leaving ICA4 Fellows wondering about whether or not AI should have a similar system for learning, and how should the reward and punishment be differentiated?" Maybe AI does not need to understand or experience human emotions; it just needs to behave like a human by capturing the features of a dataset that correctly describes the behaviour...
-
 * **High Energy Physics: Successes, Challenges and Magic**
 
-  Presented by[ **_Eliezer Rabinovici_**](https://www.intercontinental-academia.org/about/ica4/#rabinovici)
+  Presented by[ **_Eliezer Rabinovici_**](https://www.intercontinental-academia.org/about/ica4/#rabinovici "Eliezer Rabinovici")
 
   It was discussed that observing natural phenomena can motivate scientific enquiry and drive us to understand the unknown. Moreover, equations are a way to increase predictability. However, a single, compact and reductionist explanation for all phenomena in the universe may not necessarily exist. The scientific method requires that results are reproducible. The correspondence principle requires that new theories can explain all phenomena for which a preceding theory was valid. To understand a phenomenon, one has to identify the relevant players and determine the correct explanation scale.
-
-
 * **In AI We Trust: Power, illusion and control of predictive algorithms**
 
-  Presented by[ **_Helga Nowotny_**](http://helga-nowotny.eu)
+  Presented by[ **_Helga Nowotny_**](http://helga-nowotny.eu "Helga Nowotny")
 
   The session began with introducing the concept of singularity and defining it as a tipping point: a change of state that can lead to the collapse of a system. In an attempt to define Ethical AI, examples such as Transhumanism (ideas of transcending the limitations of a mortal body through information sharing) were discussed. Furthermore, the illusion that AI knows humans better than humans know themselves was elaborated, ultimately concluding by mentioning the existence of a possibility for human beings to both profit or suffer from an AI system depending on how it is applied.
 
