@@ -13,12 +13,12 @@ picture_copyright: ''
 social_channels:
   website: ''
   wikipedia: ''
-  orcid_id: ''
-  linkedin: ''
+  orcid_id: '0000-0003-1730-7423 '
+  linkedin: https://www.linkedin.com/in/robert-zatorre-615b6825/
   twitter: ''
   instagram: ''
-  google_scholar: ''
-  researchgate: ''
+  google_scholar: https://scholar.google.ca/citations?user=7PAd3Z0AAAAJ&hl=en
+  researchgate: https://www.researchgate.net/profile/Robert-Zatorre
   mendeley: ''
 
 ---
