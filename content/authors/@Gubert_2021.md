@@ -4,6 +4,9 @@ lastname: Gubert
 titles_and_institutions:
 - titles:
   - Director of research
+  institution: IRD
+- titles:
+  - Director of research
   - Vice President
   institution: FMSH
 picture: ''
