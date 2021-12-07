@@ -49,4 +49,4 @@ The paper panels focused on 6 research hotspots:
 * _Local Contexts & Policy_
 * _Emotions & Coping during Crisis_
 
-  Recordings of all presentations can be found in the [WPRN Playlist](https://www.youtube.com/playlist?list=PLLv_k1nsHewlD-pB7BCWsiQnNvb_NhPpO "WPRN Playlist"), and the full program is accessible [here](https://wprn.org/conference/ "WPRN 21 Program").
+Recordings of all presentations can be found in the [WPRN Playlist](https://www.youtube.com/playlist?list=PLLv_k1nsHewlD-pB7BCWsiQnNvb_NhPpO "WPRN Playlist"), and the full program is accessible [here](https://wprn.org/conference/ "WPRN Program").
