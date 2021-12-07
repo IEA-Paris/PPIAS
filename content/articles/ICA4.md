@@ -49,6 +49,14 @@ The other half of the day is left free for participants to reflect on the scient
 
 1. **Day 1: "The future needs wisdom!”**
 
+![](https://lh6.googleusercontent.com/yr6tstZ7PeffbJRW79vbbe03lxh7NfO5KtxbgkOY1DNKHYwyCFd4iGuYjhVU5s-ovCLSu99EovHca6DDH-dd9FxyeYfEmH4Z6hzvZThtrqwPSWLYqeWfLglR3tPSvkDzgQ =602x383)
+
+The very first lecture of ICA4 - Session 1 came from[ _Robert Zatorre_](https://www.intercontinental-academia.org/mentors#zatorre "Robert Zatorre") who took us into the fascinating world of music while explaining the relationship between perception, predictions, and pleasure!
+
+This was followed by another lecture that introduced a rather different perspective on AI and was presented by[ _Eliezer Rabinovici_](https://www.intercontinental-academia.org/about/ica4/#rabinovici "Eliezer Rabinovici")_._ The lecture mostly explored the complexities of scientific enquiries and methods in the context of AI.
+
+Before leaving for cocktails and welcome speeches in the chambers of Paris IAS, a final lecture was given by[_Helga Nowotny_](http://helga-nowotny.eu "Helga Nowotny"), who emphasised an urgent need for establishing a context-sensitive AI control system.
+
 * Perception, prediction, and pleasure: What can music teach us about neurocognition/intelligence?
 
   Presented by[ **_Robert Zatorre_**](https://www.intercontinental-academia.org/mentors#zatorre "Robert Zatorre")
@@ -57,7 +65,7 @@ The other half of the day is left free for participants to reflect on the scient
 
   Moreover, results of the relation between connectivity of the auditory cortex with the striatum and several behavioural results were presented (e.g. related to amusia, music-specific anhedonia). Dynamic causal modelling and predictive coding frameworks have been presented as possible explanations of the relationship between learning and reward in music. Predictions make the rewards evolve from a biological event to the expectation of the event.
 
-  Through the post-seminar collective discussions, the relevance of **affective experience** (pleasure and fear) in learning was emphasised. Discussions concluded with a rather open-ended question, leaving ICA4 Fellows wondering about whether or not AI should have a similar system for learning, and how should the reward and punishment be differentiated?" Maybe AI does not need to understand or experience human emotions; it just needs to behave like a human by capturing the features of a dataset that correctly describes the behaviour...
+  Through the post-seminar collective discussions, the relevance of affective experience (pleasure and fear) in learning was emphasised. Discussions concluded with a rather open-ended question, leaving ICA4 Fellows wondering about whether or not AI should have a similar system for learning, and how should the reward and punishment be differentiated?" Maybe AI does not need to understand or experience human emotions; it just needs to behave like a human by capturing the features of a dataset that correctly describes the behaviour...
 * High Energy Physics: Successes, Challenges and Magic
 
   Presented by[ **_Eliezer Rabinovici_**](https://www.intercontinental-academia.org/about/ica4/#rabinovici "Eliezer Rabinovici")
