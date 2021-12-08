@@ -40,8 +40,8 @@
       {{ count + ' articles available' }}
     </div>
     <TagFilter />
-    <template v-if="pinnedPost">
-      <Article :item="pinnedPost" :search="searchString" raised />
+    <template v-if="pinnedItem">
+      <Article :item="pinnedItem" :search="searchString" raised />
     </template>
 
     <ArticleItem
@@ -69,7 +69,7 @@ export default {
     return {
       searchString: this.$route.query.search || '',
       results: [],
-      pinnedPost: false,
+      pinnedItem: false,
       articles: [],
       pages: 1,
       current: this.$route.query.page || 1,
@@ -82,12 +82,12 @@ export default {
       console.log('rst: ', rst)
       this.count = rst.count
       this.pages = rst.pages
-      this.pinnedPost = rst.pinnedPost
+      this.pinnedItem = rst.pinnedItem
       this.articles = rst.articles
     } else {
       this.count = 0
       this.pages = 1
-      this.pinnedPost = false
+      this.pinnedItem = false
       this.articles = []
     }
   },
@@ -98,12 +98,12 @@ export default {
       if (rst) {
         this.count = rst.count
         this.pages = rst.pages
-        this.pinnedPost = rst.pinnedPost
+        this.pinnedItem = rst.pinnedItem
         this.articles = rst.articles
       } else {
         this.count = 0
         this.pages = 1
-        this.pinnedPost = false
+        this.pinnedItem = false
         this.articles = []
       }
     },
@@ -112,12 +112,12 @@ export default {
       if (rst) {
         this.count = rst.count
         this.pages = rst.pages
-        this.pinnedPost = rst.pinnedPost
+        this.pinnedItem = rst.pinnedItem
         this.articles = rst.articles
       } else {
         this.count = 0
         this.pages = 1
-        this.pinnedPost = false
+        this.pinnedItem = false
         this.articles = []
       }
     },
@@ -128,12 +128,12 @@ export default {
       if (rst) {
         this.count = rst.count
         this.pages = rst.pages
-        this.pinnedPost = rst.pinnedPost
+        this.pinnedItem = rst.pinnedItem
         this.articles = rst.articles
       } else {
         this.count = 0
         this.pages = 1
-        this.pinnedPost = false
+        this.pinnedItem = false
         this.articles = []
       }
     },

@@ -51,7 +51,9 @@ export default {
     return {}
   },
   computed: {},
-  mounted() {},
+  mounted() {
+    console.log('toc', this.toc)
+  },
   updated() {
     console.log(this.$route)
   },

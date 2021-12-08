@@ -36,6 +36,8 @@ redactors:
     mendeley: ''
 
 ---
+## Introduction
+
 The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe.
 
 The ICA was established in 2016 through the University-Based Institutes for Advanced Study (UBIAS) coalition, which has 44 member institutes around the world.
@@ -48,15 +50,15 @@ The 4th edition of the ICA explores the complementarities between artificial int
 
 The first session, hosted by Paris Institute for Advanced Study (Paris IAS), includes an intense 10-days of scientific sessions, discussion forums as well as scientific exchanges with ENS-Paris Saclay, Sorbonne Center for Artificial Intelligence and Ecole Normale Supérieure.
 
-![](https://lh4.googleusercontent.com/Fu3P3brFSI8nb5ZQ15tR79S-uWB2TPo5drENasTMjJYf1cJrQCx7Yi34pCASrArkB84PveC-fGHng-_ySiqP1F7-0_WlrGnsEF0sfdRau1TxpOEIducIj98FrvEDAaWf3Q =602x448)
+![](<https://lh4.googleusercontent.com/Fu3P3brFSI8nb5ZQ15tR79S-uWB2TPo5drENasTMjJYf1cJrQCx7Yi34pCASrArkB84PveC-fGHng-_ySiqP1F7-0_WlrGnsEF0sfdRau1TxpOEIducIj98FrvEDAaWf3Q> =602x448)
 
 Each day at the[ Paris IAS](https://www.paris-iea.fr/en/ "Paris IEA"),[ ICA4 Fellows](https://www.intercontinental-academia.org/fellows "ICA4 Fellows") meet with their[ Mentors](https://www.intercontinental-academia.org/mentors "ICA4 Mentors") for a closed 3-hour seminar, during which two mentors launch the discussion with a presentation. Upon completion of the seminar, the Fellows then meet for 45 minutes to list the key takeaways and ideas that have emerged from the discussion, followed by a collective brainstorming session  . This ensures that the output of collective intelligence is collected, formatted and capitalised.
 
 The other half of the day is left free for participants to reflect on the scientific discussions    in small groups. Such discussions are occasionally complemented by lectures from the[ **Chairs**](https://www.intercontinental-academia.org/about/ica4 "ICA4 Chairs").
 
-1. **Day 1: "The future needs wisdom!”**
+## Day 1: "The future needs wisdom!”
 
-![](https://lh6.googleusercontent.com/yr6tstZ7PeffbJRW79vbbe03lxh7NfO5KtxbgkOY1DNKHYwyCFd4iGuYjhVU5s-ovCLSu99EovHca6DDH-dd9FxyeYfEmH4Z6hzvZThtrqwPSWLYqeWfLglR3tPSvkDzgQ =602x383)
+![](<https://lh6.googleusercontent.com/yr6tstZ7PeffbJRW79vbbe03lxh7NfO5KtxbgkOY1DNKHYwyCFd4iGuYjhVU5s-ovCLSu99EovHca6DDH-dd9FxyeYfEmH4Z6hzvZThtrqwPSWLYqeWfLglR3tPSvkDzgQ> =602x383)
 
 The very first lecture of ICA4 - Session 1 came from[ _Robert Zatorre_](https://www.intercontinental-academia.org/mentors#zatorre "Robert Zatorre") who took us into the fascinating world of music while explaining the relationship between perception, predictions, and pleasure!
 
@@ -64,7 +66,7 @@ This was followed by another lecture that introduced a rather different perspect
 
 Before leaving for cocktails and welcome speeches in the chambers of Paris IAS, a final lecture was given by[_Helga Nowotny_](http://helga-nowotny.eu "Helga Nowotny"), who emphasised an urgent need for establishing a context-sensitive AI control system.
 
-* Perception, prediction, and pleasure: What can music teach us about neurocognition/intelligence?
+### Perception, prediction, and pleasure: What can music teach us about neurocognition/intelligence?
 
   Presented by[ **_Robert Zatorre_**](https://www.intercontinental-academia.org/mentors#zatorre "Robert Zatorre")
 
@@ -73,12 +75,14 @@ Before leaving for cocktails and welcome speeches in the chambers of Paris IAS, 
   Moreover, results of the relation between connectivity of the auditory cortex with the striatum and several behavioural results were presented (e.g. related to amusia, music-specific anhedonia). Dynamic causal modelling and predictive coding frameworks have been presented as possible explanations of the relationship between learning and reward in music. Predictions make the rewards evolve from a biological event to the expectation of the event.
 
   Through the post-seminar collective discussions, the relevance of affective experience (pleasure and fear) in learning was emphasised. Discussions concluded with a rather open-ended question, leaving ICA4 Fellows wondering about whether or not AI should have a similar system for learning, and how should the reward and punishment be differentiated?" Maybe AI does not need to understand or experience human emotions; it just needs to behave like a human by capturing the features of a dataset that correctly describes the behaviour...
-* High Energy Physics: Successes, Challenges and Magic
+
+### High Energy Physics: Successes, Challenges and Magic
 
   Presented by[ **_Eliezer Rabinovici_**](https://www.intercontinental-academia.org/about/ica4/#rabinovici "Eliezer Rabinovici")
 
   It was discussed that observing natural phenomena can motivate scientific enquiry and drive us to understand the unknown. Moreover, equations are a way to increase predictability. However, a single, compact and reductionist explanation for all phenomena in the universe may not necessarily exist. The scientific method requires that results are reproducible. The correspondence principle requires that new theories can explain all phenomena for which a preceding theory was valid. To understand a phenomenon, one has to identify the relevant players and determine the correct explanation scale.
-* In AI We Trust: Power, illusion and control of predictive algorithms
+
+### In AI We Trust: Power, illusion and control of predictive algorithms
 
   Presented by[ **_Helga Nowotny_**](http://helga-nowotny.eu "Helga Nowotny")
 
@@ -86,10 +90,9 @@ Before leaving for cocktails and welcome speeches in the chambers of Paris IAS, 
 
   "The future needs wisdom”: an urgent need to institutionalise context-sensitivity, rather than creating a standardised system to control AI, was discussed and collectively developed. This lead to further debates regarding the concentration of technology advancement and its deteriorating impact on inequality. Thus, a global agreement is necessary to control AI, although it is currently almost impossible to obtain! Therefore, we should educate AI as a child of humanity that can grow to contribute to society. AI research is undertaken at such a massive scale that it requires global efforts which go beyond a single country. Scientists are paid by society, and their curiosity-led work should return to society as a whole…
 
-   
-  2. **Day 2: "In** **AI we** **trust"...or not!**
+## Day 2: "In****AI we****trust"...or not!**
 
-![](https://lh4.googleusercontent.com/0-dYD2PKA2ALZYDs2ZxilSutlxMpYOyGlXclyyWGqxIlU3dXW3jYTo8Pasd2fZSGrYT7s3icasKBxcZP882lZb_Zfdj82OJZpLNY3Pno7QyZDCtvJSBKvLurPC140KqW7Q =602x293)
+![](<https://lh4.googleusercontent.com/0-dYD2PKA2ALZYDs2ZxilSutlxMpYOyGlXclyyWGqxIlU3dXW3jYTo8Pasd2fZSGrYT7s3icasKBxcZP882lZb_Zfdj82OJZpLNY3Pno7QyZDCtvJSBKvLurPC140KqW7Q> =602x293)
 
 The ICA4 continued onto the second day, through which three seminars took place with mentors who had joined the first session in Paris from around the world!
 
@@ -101,7 +104,7 @@ Finally,[_Raouf Boucekkine _](https://www.intercontinental-academia.org/about/ic
 
 * Why Consciousness?
 
-  Presented by[ **_Robert Aumann_**](https://www.intercontinental-academia.org/mentors#aumann)
+  Presented by[Robert Aumann](https://www.intercontinental-academia.org/mentors#aumann)
 
   Essentially, the seminar was focused on the purpose which consciousness serves. Consciousness was defined as the ability to do the following:
   * Perceive
@@ -111,10 +114,9 @@ Finally,[_Raouf Boucekkine _](https://www.intercontinental-academia.org/about/ic
 
   Of all the above, perceiving, thinking/intending, and carrying out intentions may be done by machines. However, feelings and emotions belong exclusively to human beings. In such a context, it may be argued that the evolutionary function of consciousness is to enable the operation of emotions. This being said, we currently have no idea about how does consciousness work. Although considerable progress has been made in AI, Artificial Emotions (AE) has remained rather untouched.
 
-
 * Myths and misunderstandings about responsibility for the unintended impact of AI
 
-  Presented by[ **_Karen Yeung_**](https://www.intercontinental-academia.org/mentors#yeung)
+  Presented by[Karen Yeung](https://www.intercontinental-academia.org/mentors#yeung)
 
   The talk mostly focused on responsibility for the unintended impact of Artificial Intelligence, based on the presenter's Council of Europe study. It was argued that Machine Learning's (ML) capacity to enable task automation and machine "autonomy" raise important questions about responsibility. Thus, responsibility-relevant attributes of ML were identified, for which an illustration is the data-driven profiling of individuals, and other ML applications, which may hold adverse impacts on human rights, on both individual and collective levels.
 
@@ -133,16 +135,15 @@ Finally,[_Raouf Boucekkine _](https://www.intercontinental-academia.org/about/ic
   * Need for more interdisciplinary research
   * Application of the fundamental principle of reciprocity so as not to allow those who develop and run our advanced digital technologies and systems to increase and exercise their power without responsibility.
 
-
 * Data science and deep learning vs theory: two examples from economics and finance
 
   Presented by[ **_Raouf Boucekkine_**](https://www.intercontinental-academia.org/about/ica4#boucekkine "Raouf Boucekkine")
 
   The session included discussions on Data Science, Machine Learning (ML), and some relevant theories in the field of economics and finance that share common disciplines. Certain examples from macroeconomics, in which characteristics of the underlying mechanisms for complex systems are of great interest, were then discussed in more detail. In such context, a misunderstanding between different disciplines was highlighted: the concept of equilibrium is of great significance in mainstream macroeconomics, whereas this is not the case for statistical physics (e.g., the "equilibrium" bias outside the econ area, discussed by Bonneuil & Boucekkine (2020)). Finally, the use of various methods and approaches, such as DSGE (Dynamic Stochastic General Equilibrium), ABM (Agent-Based Modeling), and Neural Network-Based methods, in the field of macroeconomics were discussed.
 
-3. **Day 3: "What you do FOR people, you do TO people, so do it WITH people!"**
+## Day 3: "What you do FOR people, you do TO people, so do it WITH people!"**
 
-![](https://lh6.googleusercontent.com/mcsCvmIeP9vLbpp6Ghvm1SDu7jLWRQUAZ-Hp-zqyXdyxY0G3TleQ2EdnIUoaXuORY9LwMraoeRMfwpfrCn4RVI8Uws1S2bWc7jtcG4HMLXL5kYVDQ7Yz_OVS7kMsBxgMFg =602x451)
+![](<https://lh6.googleusercontent.com/mcsCvmIeP9vLbpp6Ghvm1SDu7jLWRQUAZ-Hp-zqyXdyxY0G3TleQ2EdnIUoaXuORY9LwMraoeRMfwpfrCn4RVI8Uws1S2bWc7jtcG4HMLXL5kYVDQ7Yz_OVS7kMsBxgMFg> =602x451)
 
 Day 3 of the first session of ICA4 continued in Paris IAS, where the Fellows sat through three more scientific seminars, followed by discussions and brainstorming sessions.
 
@@ -152,7 +153,7 @@ The day kicked off by a framework proposed by[ _Saadi Lahlou_](https://www.inter
 
 Finally, Toshio Fukuda revealed the Moonshot project: a society where humans and robots live together in 2050 !
 
-* Distributed Intelligence & Distributed Agency
+### Distributed Intelligence & Distributed Agency
 
   Presented by[ **_Saadi Lahlou_**](https://www.intercontinental-academia.org/about/ica4#lahlou "Saadi Lahlou")
 
@@ -166,7 +167,7 @@ Finally, Toshio Fukuda revealed the Moonshot project: a society where humans and
 
   To conclude, ICA4 Fellows were left with some questions as food for thought. For each activity, do we want to augment existing agents with more agency? If so, which ones? Humans? Material objects? Social system? New agents? Who learns what? What values do we want to foster? What do we want AI for must be addressed for each activity, starting from the activity and discussed?
 
-* Perspective on Artificial Intelligence research from studies on Agency, self-recognition and social cognition in animals
+### Perspective on Artificial Intelligence research from studies on Agency, self-recognition and social cognition in animals
 
   Presented by[ **_William Hopkins_**](https://www.intercontinental-academia.org/mentors#hopkins "William Hopkins")
 
@@ -178,8 +179,7 @@ Finally, Toshio Fukuda revealed the Moonshot project: a society where humans and
 
   However, is it language? There is very little evidence for declarative production (e.g., turn on the TV, give me an onion) in communication signals by primates and other animals. The other question is: are social stimuli rewarding? For chimpanzees, yes. Experiment: touch one button to see other chimpanzees or another button to see random animals. The chimp chose to press the button to see other chimps. Thus, the role of reward guides the learning and behaviour of animals. Although animal cognition is often used to explain animal behaviour, most can be explained by an associative learning mechanism.
 
-
-* AI and Robots for Future: The Moon Shot Project
+### AI and Robots for Future: The Moon Shot Project
 
   Presented by[ **_Toshio Fukuda_**](https://www.intercontinental-academia.org/mentors#fukuda "Toshio Fukuda")
 
@@ -187,20 +187,19 @@ Finally, Toshio Fukuda revealed the Moonshot project: a society where humans and
 
   Moreover, AI+Robot+IoT (Internet of Things), the use of robots in mega-trend (energy, urbanisation, food, ageing, global warming, robot, and AI) were discussed. This was followed by further discussions on autonomous cars, which may be safer than human drivers, mixed reality, the Eve project (a transparent body that simulates the human body), cyborg technology (fusion of robot and animal), and multiple robots (communication among robots).
 
-4. **Day 4: A visit to The University of Paris-Saclay**
+## Day 4: A visit to The University of Paris-Saclay**
 
-![](https://lh6.googleusercontent.com/NlgQpGHaBLRystLQsRXAbmAklsdIPADYo2m2139yVcZ4-zzpizb3wV2JZt231Ei1_LKcE10ENUndEKh6G8APDMxkjlHUFiQ_eN9eDjj-Pw6qEoONXtNSNyGxe1sEsn6APg =602x451)
+![](<https://lh6.googleusercontent.com/NlgQpGHaBLRystLQsRXAbmAklsdIPADYo2m2139yVcZ4-zzpizb3wV2JZt231Ei1_LKcE10ENUndEKh6G8APDMxkjlHUFiQ_eN9eDjj-Pw6qEoONXtNSNyGxe1sEsn6APg> =602x451)
 
 The Fellows embarked on their first scientific trip for ICA4 and were hosted by[ **Ecole Normale Superieure de Paris-Saclay**](http://ens-paris-saclay.fr/en "ENS Paris Saclay") throughout Day 4. The sessions at Saclay included two thought-provoking talks by[ _Xiao-Jing Wang_](https://www.intercontinental-academia.org/mentors/#wang "Xiao-Jing Wang") and[ **_Jay McClelland_**](https://www.intercontinental-academia.org/mentors/#mcclelland "Jay McClelland"), both of which touched upon the principles underlying cognitive behaviours, as well as the difference between human and machine intelligence. These were followed by a symposium on AI at University Paris-Saclay. The symposium was followed by a half-day event with multiple workshops in which ICA4 mentors discussed major advances and issues surrounding AI with other world-class researchers such as[ **_Stanislas Dehaene_**](https://www.college-de-france.fr/site/en-stanislas-dehaene/index.htm "Stanislas Dehaene"). Finally, the intellectually intense day came to an end with a talk in which[ **_Zaven Paré_**](https://www.intercontinental-academia.org/mentors/#pare "Zaven Paré") raised important questions regarding how we will interact with AI algorithms and intelligent robotics in the decades to come…
 
-* Efforts to understand the computational principles underlying cognition
+### Efforts to understand the computational principles underlying cognition
 
   Presented by[ **_Xiao-Jing Wang_**](https://www.intercontinental-academia.org/mentors#wang "Xiao-Jing Wang")
 
   Deep neural networks, despite their recent success, differ from human cognition because they have no internal mental life - instead, they act as complex, nonlinear input-output functions. In humans, the prefrontal cortex (PFC) is known to be crucial for cognitive functions such as working memory, decision making, and executive function. An early avenue of this research involved understanding how persistent neural activity may underlie working memory by sustaining stimulus information in the brain after the sensory cue has disappeared. Such persistence is linked to recurrent connectivity, which is lacking in most deep networks. Wang described his previous research using spiking networks and tools from dynamical systems to understand the attractor dynamics behind this form of memory. In the second half of the talk, he showcased his more recent work which uses recurrent neural networks (RNNs) as a form of a model organism to probe how the PFC may perform multiple cognitive tasks simultaneously. These RNNs can then be used to address questions such as whether the PFC encodes cognitive building blocks in a compositional manner, similar to the psychological concepts of schema.
 
-
-* A different distinction between human intelligence and AI...
+### A different distinction between human intelligence and AI
 
   Presented by[ **_James McClelland_**](https://www.intercontinental-academia.org/mentors#mcclelland "James McClelland")
 

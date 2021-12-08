@@ -1,5 +1,5 @@
 <template>
-  <v-app-bar id="main-app-bar" color="white" clipped flat app hide-on-scroll height="160">
+  <v-app-bar id="main-app-bar" color="white" clipped flat app hide-on-scroll height="200">
     <div class="d-flex flex-column flex-grow-1">
       <div class="d-flex flex-grow-1">
         <Logo color="#FFF" />

@@ -4,17 +4,19 @@ export default async (cat, $content, query, search, deep) => {
   const perPage = 5
 
   const tags = query.tags ? JSON.parse(query.tags) : []
-  const pipeline = { published: true }
+  const pipeline = {
+    /* published: true  */
+  }
   if (tags.length) pipeline.tags = { $containsAny: tags }
   const count = await $content(cat, { deep }).search(search).where(pipeline).only([]).fetch()
 
-  const totalArticles = count.length
+  const totalItems = count.length
 
   // use Math.ceil to round up to the nearest whole number
-  const lastPage = Math.ceil(totalArticles / perPage)
+  const lastPage = Math.ceil(totalItems / perPage)
 
   // use the % (modulus) operator to get a whole remainder
-  const lastPageCount = totalArticles % perPage
+  const lastPageCount = totalItems % perPage
 
   const skipNumber = () => {
     if (+currentPage === 1) {
@@ -22,14 +24,14 @@ export default async (cat, $content, query, search, deep) => {
     }
     if (+currentPage === lastPage) {
       if (lastPageCount === 0) {
-        return totalArticles - perPage
+        return totalItems - perPage
       }
 
-      return totalArticles - lastPageCount
+      return totalItems - lastPageCount
     }
     return (currentPage - 1) * perPage
   }
-  let articles, pinnedPost
+  let items, pinnedItem
   if (currentPage === 1) {
     const rawPosts = await $content(cat, { deep })
       .search(search)
@@ -39,33 +41,33 @@ export default async (cat, $content, query, search, deep) => {
       .skip(skipNumber())
       .fetch()
 
-    pinnedPost = await $content(cat, { deep })
+    pinnedItem = await $content(cat, { deep })
       .search(search)
       .where({ ...pipeline, pinned: true })
       .sortBy('date', 'desc')
       .limit(1)
       .fetch()
 
-    articles = pinnedPost ? rawPosts.filter((item) => item.slug !== pinnedPost[0]?.slug) : rawPosts
+    items = pinnedItem ? rawPosts.filter((item) => item.slug !== pinnedItem[0]?.slug) : rawPosts
   } else {
-    articles = await $content(cat, { deep })
+    items = await $content(cat, { deep })
       .where(pipeline)
       .search(search)
       .sortBy('date', 'desc')
       .limit(perPage)
       .skip(skipNumber())
       .fetch()
-    pinnedPost = false
+    pinnedItem = false
   }
 
-  if (currentPage === 0 || !articles.length) {
+  if (currentPage === 0 || !items.length) {
     return
   }
 
   return {
-    count: totalArticles,
-    pages: lastPage,
-    pinnedPost: pinnedPost.length ? pinnedPost[0] : false,
-    articles,
+    total: totalItems,
+    numberOfPages: lastPage,
+    pinnedItem: pinnedItem.length ? pinnedItem[0] : false,
+    items,
   }
 }

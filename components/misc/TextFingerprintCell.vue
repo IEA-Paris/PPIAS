@@ -35,7 +35,7 @@ export default {
     offsetRadius: {
       type: Number,
       required: false,
-      default: 10,
+      default: 15,
     },
     circleRadius: {
       type: Number,
