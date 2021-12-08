@@ -1,5 +1,5 @@
 <template>
-  <div class="page-title text-center mb-12">
+  <div class="page-title text-center" :class="$store.state.scrolled ? 'mb-12' : 'mb-6'">
     {{ $t(text) }}
   </div>
 </template>

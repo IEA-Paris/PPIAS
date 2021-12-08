@@ -179,7 +179,7 @@ ${body}
 `
             fs.writeFile(path, newDoc, function (err) {
               if (err) return console.log(err)
-              console.log(`Succefully translated the file ${sourceFile} info ${lang}`)
+              console.log(`Successfully translated the file ${sourceFile} info ${lang}`)
             })
           }
         })

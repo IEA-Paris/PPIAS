@@ -35,15 +35,8 @@ export default {
       },
     },
   },
-  mounted() {
-    console.log('moutned')
-  },
-  beforeCreate() {
-    console.log('bf create')
-  },
-  created() {
-    console.log('created')
-    console.log('this.$attrs: ', this.$attrs)
-  },
+  mounted() {},
+  beforeCreate() {},
+  created() {},
 }
 </script>

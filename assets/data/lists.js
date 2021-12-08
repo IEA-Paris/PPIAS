@@ -25,4 +25,6 @@ export default {
       items: ['draft', 'published'],
     },
   },
+  media: {},
+  authors: {},
 }

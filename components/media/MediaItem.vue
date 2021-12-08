@@ -1,8 +1,5 @@
 <template>
-  <div>
-    <PageTitle text="media" />
-    <List type="media" :layout="{ cols: 12, md: 6, nogutters: false, fluid: true }"></List>
-  </div>
+  <div></div>
 </template>
 <script>
 export default {

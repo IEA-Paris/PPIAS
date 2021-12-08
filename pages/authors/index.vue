@@ -1,7 +1,8 @@
 <template>
-  <div>
+  <PageContainer>
     <PageTitle text="authors" />
-  </div>
+    <List type="authors" :layout="{ cols: 12, md: 6, nogutters: false, fluid: true }"></List>
+  </PageContainer>
 </template>
 <script>
 export default {

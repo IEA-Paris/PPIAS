@@ -1,12 +1,15 @@
 <template>
-  <div>
-    <PageTitle text="media" />
-    <List type="media" :layout="{ cols: 12, md: 6, nogutters: false, fluid: true }"></List>
-  </div>
+  <div class="text-h6">{{ $t(item) }}</div>
 </template>
 <script>
 export default {
-  props: {},
+  props: {
+    item: {
+      type: String,
+      required: true,
+      default: '',
+    },
+  },
   data() {
     return {}
   },

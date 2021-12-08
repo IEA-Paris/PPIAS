@@ -3,14 +3,16 @@
     v-model="selected"
     v-bind="$attrs"
     menu-props="offset-y"
-    @click:clear="$router.push({ ...$route.query, query: { [filter]: undefined } })"
+    :loading="loading"
+    single-line
+    @click:clear="$emit('clear')"
   ></v-select>
 </template>
 
 <script>
 export default {
   props: {
-    filter: {
+    item: {
       type: String,
       required: true,
       default: '',
@@ -20,6 +22,11 @@ export default {
       default: '',
       required: true,
     },
+    loading: {
+      type: Boolean,
+      default: true,
+      required: true,
+    },
   },
   data() {
     return {}
@@ -27,23 +34,17 @@ export default {
   computed: {
     selected: {
       get() {
-        return this.$store.state.list.filters[this.filter]
+        return this.selected
       },
 
       set(value) {
-        return this.$store.commit('list/update', { [this.filter]: value })
+        // set on parent
+        this.selected = value
       },
     },
   },
-  mounted() {
-    console.log('moutned')
-  },
-  beforeCreate() {
-    console.log('bf create')
-  },
-  created() {
-    console.log('created')
-    console.log('this.$attrs: ', this.$attrs)
-  },
+  mounted() {},
+  beforeCreate() {},
+  created() {},
 }
 </script>

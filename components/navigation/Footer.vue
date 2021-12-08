@@ -40,22 +40,22 @@
             </v-col>
             <v-col cols="12" sm="4">
               <v-list flat color="transparent" dense>
-                <v-list-item :to="localePath('/about')" @click="open = false">
+                <v-list-item :to="localePath('/about')" nuxt @click="open = false">
                   <v-list-item-content>
                     <v-list-item-title class="text-uppercase text-button" v-text="$t('about')"></v-list-item-title>
                   </v-list-item-content>
                 </v-list-item>
-                <v-list-item :to="localePath('/contact')" @click="open = false">
+                <v-list-item :to="localePath('/contact')" nuxt @click="open = false">
                   <v-list-item-content>
                     <v-list-item-title class="text-uppercase text-button" v-text="$t('contact')"></v-list-item-title>
                   </v-list-item-content>
                 </v-list-item>
-                <v-list-item :to="localePath('/pressroom')" @click="open = false">
+                <v-list-item :to="localePath('/pressroom')" nuxt @click="open = false">
                   <v-list-item-content>
                     <v-list-item-title class="text-uppercase text-button" v-text="$t('pressroom')"></v-list-item-title>
                   </v-list-item-content>
                 </v-list-item>
-                <v-list-item :to="localePath('/support')" @click="open = false">
+                <v-list-item :to="localePath('/support')" nuxt @click="open = false">
                   <v-list-item-content>
                     <v-list-item-title class="text-uppercase text-button" v-text="$t('support')"></v-list-item-title>
                   </v-list-item-content>
@@ -102,8 +102,8 @@
             </v-col>
             <v-col cols="12" align="center">
               <span class="overline">&copy; {{ new Date().getFullYear() }} {{ $t('paris-ias') }}</span>
-              <v-btn text x-small dark>{{ $t('tos') }}</v-btn>
-              <v-btn text x-small dark>{{ $t('privacy') }}</v-btn>
+              <v-btn text x-small nuxt dark :to="localePath('/terms_of_service')">{{ $t('tos') }}</v-btn>
+              <v-btn text x-small nuxt dark :to="localePath('/privacy_policy')">{{ $t('privacy') }}</v-btn>
             </v-col>
           </v-row>
         </v-col>

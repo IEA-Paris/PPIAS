@@ -1,7 +1,7 @@
 <template>
   <div>
     <PageTitle text="articles" />
-    <ArticleList />
+    <List type="articles" :layout="{ cols: 12, md: 6, nogutters: false, fluid: true }"></List>
   </div>
 </template>
 <script>

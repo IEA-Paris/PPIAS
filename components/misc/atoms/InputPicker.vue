@@ -3,7 +3,7 @@
     v-model="selected"
     v-bind="$attrs"
     menu-props="offset-y"
-    @click:clear="filter ? $router.push({ ...$route.query, query: { [filter]: undefined } }) : ''"
+    @click:clear="$router.push({ ...$route.query, query: { [filter]: undefined } })"
   ></v-select>
 </template>
 
@@ -12,7 +12,7 @@ export default {
   props: {
     filter: {
       type: String,
-      required: false,
+      required: true,
       default: '',
     },
     type: {
@@ -31,21 +31,16 @@ export default {
       },
 
       set(value) {
-        return this.filter
-          ? this.$store.commit('list/update', { [this.filter]: value })
-          : this.$store.commit('form/update', { [this.type]: value })
+        return this.$store.dispatch('form/update', {
+          type: this.type,
+          itemId: this.$route.params.id,
+          values: { [this.item]: value },
+        })
       },
     },
   },
-  mounted() {
-    console.log('moutned')
-  },
-  beforeCreate() {
-    console.log('bf create')
-  },
-  created() {
-    console.log('created')
-    console.log('this.$attrs: ', this.$attrs)
-  },
+  mounted() {},
+  beforeCreate() {},
+  created() {},
 }
 </script>

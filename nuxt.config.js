@@ -1,5 +1,5 @@
 import config from './config.js'
-import addCountMap from './tools/content/addCountMap.js'
+import contentHooks from './tools/content'
 export default {
   env: { config },
   // Target: https://go.nuxtjs.dev/config-target
@@ -96,6 +96,8 @@ export default {
     // https://ackee.nuxtjs.org/
     '@nuxtjs/ackee',
     '@nuxtjs/composition-api/module',
+    // https://github.com/ch99q/nuxt-pdf
+    'nuxt-pdf',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -198,7 +200,7 @@ export default {
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
   // Content hooks
-  ...addCountMap,
+  ...contentHooks,
   loading: {
     color: config.theme.themes.loading,
     height: '5px',
@@ -315,6 +317,108 @@ export default {
         },
       },
     },
+  },
+  pdf: {
+    /*
+     * Output folder for generated pdf.
+     */
+    dir: 'static',
+
+    /*
+     * Function options for page.pdf([options])
+     * Read more: https://pptr.dev/#?product=Puppeteer&version=v2.0.0&show=api-pagepdfoptions
+     */
+    pdf: {
+      // Change the format of the pdfs.
+      format: 'A4', // This is optional
+      printBackground: true, // Include background in pdf.
+    },
+
+    /*
+     * Function options for page.setViewport([options])
+     * Read more: https://pptr.dev/#?product=Puppeteer&version=v2.0.0&show=api-pagesetviewportviewport
+     */
+    viewport: {
+      // override the default viewport
+      width: 1280,
+      height: 800,
+    },
+
+    /*
+     * Enable i18n support.
+     */
+    i18n: false,
+
+    /*
+     * Add options to the puppeteer launch.
+     * Read more: https://pptr.dev/#?product=Puppeteer&version=v2.0.0&show=api-puppeteerlaunchoptions
+     */
+    /*     puppeteer: {
+      // Puppeteer options here... E.g. env: {}
+    }, */
+
+    /*
+     * PDF Meta configuration. (inspired by vue-meta)
+     */
+    meta: {
+      title: '%s',
+      titleTemplate: 'PIAS ─ %s',
+
+      author: 'Antoine Cordelois',
+      subject: 'Example',
+
+      producer: 'Example Inc.',
+
+      // Control the date the file is created.
+      creationDate: new Date(),
+
+      keywords: ['pdf', 'nuxt'],
+    },
+
+    /*
+     * PDF generation routes. (expanding nuxt.generate)
+     */
+    routes: [
+      {
+        // Output file inside output folder.
+        /*  file: "downloads/documentation.pdf", */
+
+        // Route to content that should be converted into pdf.
+        route: 'articles',
+
+        // Default option is to remove the route after generation so it is not accessible
+        keep: false, // defaults to false
+
+        // Specifify language for pdf. (Only when i18n is enabled!)
+        locale: 'da',
+
+        // Override global meta with individual meta for each pdf.
+        meta: {
+          title: 'Home',
+        },
+        pdf: {
+          // route specific pdf options
+          landscape: true, // Include background in pdf.
+        },
+        viewport: {
+          // route specific viewport
+          width: 1280,
+          height: 800,
+        },
+      },
+      {
+        // Output: static/downloads/documentation-vue.pdf
+        file: 'articles/documentation-vue.pdf',
+
+        // Will generate route https://localhost:3000/docs/vue
+        route: 'articles/_slug',
+
+        // Title will be Documentation - Vue
+        meta: {
+          title: 'Vue',
+        },
+      },
+    ],
   },
   /*
    ** Page Layout transition

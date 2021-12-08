@@ -5,9 +5,8 @@
   </v-card>
 </template>
 <script>
-import TextFingerprint from '../media/TextFingerprint.vue'
 export default {
-  components: { TextFingerprint },
+  components: {},
   props: {
     article: {
       required: true,
@@ -16,7 +15,7 @@ export default {
   },
   data() {
     return {
-      cells: this.article.body.children.map((child, index) => {
+      cells: this.article?.body?.children.map((child, index) => {
         return {
           ...child,
           countChars: this.article.countMap[index],

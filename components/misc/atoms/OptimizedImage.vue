@@ -79,8 +79,6 @@ export default {
   display: flex;
   flex-direction: column;
   z-index: 2;
-  padding-bottom: 2rem;
-  padding-right: 1.9rem;
   justify-content: space-between;
 }
 .top {
@@ -116,7 +114,7 @@ export default {
 }
 #caption-content {
   font-size: 1.2rem;
-  line-height: 2.2rem;
+  line-height: 1.6rem;
   text-decoration: none;
   text-shadow: 1px 1px 0 alpha(white, 0.6);
   padding: 12px;
@@ -138,7 +136,9 @@ export default {
 .overlay:hover #caption-author {
 }
 #caption-date {
-  padding: 4px;
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
   color: black;
   background-image: linear-gradient(to left, white 100%, black 100%);
   font-size: 1.2rem;

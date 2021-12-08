@@ -1,7 +1,7 @@
 ---
 issue: content/issues/10-12-2021.md
-date: 2021-12-09T09:26:55Z
-article_title: The WPRN21 conference
+date: 2021-12-10T09:26:55Z
+article_title: The first article of the PIAS series is out, by Paris IAS
 picture: ''
 picture_copyright: ''
 published: true

@@ -1,16 +1,22 @@
 <template>
   <v-data-iterator
-    :loading="!!$apolloData.loading"
-    :items="($apolloData.data.list && $apolloData.data.list.items) || []"
+    :loading="loading"
+    :items="items"
     :footer-props="{ itemsPerPageOptions: [5, 10, 20, 50, 100] }"
-    :server-items-length="$apolloData.data.list && $apolloData.data.list.total"
-    :items-per-page.sync="itemsPerPage"
+    :server-items-length="total"
     :options.sync="options"
+    :search="search"
     hide-default-footer
     @update:page="$vuetify.goTo(0)"
   >
     <template #header>
-      <Header :type="type" :fluid="layout.fluid" :nogutters="layout.nogutters" />
+      <Header
+        :loading="loading"
+        :type="type"
+        :fluid="layout.fluid"
+        :nogutters="layout.nogutters"
+        :add-button="addButton"
+      />
     </template>
     <template #loading>
       <v-progress-linear indeterminate rounded height="6"></v-progress-linear>
@@ -41,8 +47,6 @@
         </v-row>
       </v-container>
     </template>
-
-    <style lang="scss"></style>
 
     <template #no-data>
       <div width="100%">
@@ -76,33 +80,62 @@
         </div>
       </template>
     </template>
+    <template #footer>
+      <v-container :fluid="layout.fluid">
+        <v-row :no-gutters="layout.nogutters" justify="center" align="center">
+          <span class="grey--text">{{ $t('items-per-page') }}</span>
+          <v-menu offset-y>
+            <template #activator="{ on, attrs }">
+              <v-btn dark text color="primary" class="ml-2" v-bind="attrs" v-on="on">
+                {{ options.itemsPerPage }}
+                <v-icon>mdi-chevron-down</v-icon>
+              </v-btn>
+            </template>
+            <v-list>
+              <v-list-item
+                v-for="(number, index) in itemsPerPageArray"
+                :key="index"
+                @click="$store.commit('list/updateItemsPerPage', number)"
+              >
+                <v-list-item-title>{{ number }}</v-list-item-title>
+              </v-list-item>
+            </v-list>
+          </v-menu>
+
+          <v-spacer></v-spacer>
+
+          <span class="mr-4 grey--text">
+            {{
+              $t('page-current-of-total', {
+                current: options.page,
+                total: total,
+              })
+            }}
+          </span>
+          <div v-if="numberOfPages > 1" class="text-center">
+            <v-btn icon class="mr-1" :disabled="options.page === 1" @click="page -= 1">
+              <v-icon>mdi-chevron-left</v-icon>
+            </v-btn>
+            <v-btn icon class="ml-1" :disabled="options.page >= numberOfPages" @click="page += 1">
+              <v-icon>mdi-chevron-right</v-icon>
+            </v-btn>
+          </div>
+        </v-row>
+      </v-container>
+    </template>
   </v-data-iterator>
 </template>
 <script>
 export default {
-  apollo: {
-    list: {
-      prefetch: true,
-      query() {
-        return this.gql
-      },
-      variables() {
-        return { options: this.options }
-      },
-      update(data) {
-        this.$store.commit('list/update', { items: data[Object.keys(data)[0]] })
-        return data[Object.keys(data)[0]]
-      },
-    },
-  },
   props: {
+    addBtn: {
+      type: Boolean,
+      required: false,
+      default: false,
+    },
     type: {
       type: String,
       default: '',
-      required: true,
-    },
-    gql: {
-      type: Object,
       required: true,
     },
     layout: {
@@ -118,38 +151,34 @@ export default {
   },
   data() {
     return {
-      search: null,
-      sort: null,
+      search: this.$route.query.search || '',
       filter: {},
-      sortDesc: false,
-      page: 1,
-      itemsPerPage: 4,
-      sortBy: 'name',
-      keys: ['Name', 'Calories', 'Fat', 'Carbs', 'Protein', 'Sodium', 'Calcium', 'Iron'],
+      itemsPerPageArray: [4, 8, 12],
       options: {
         itemsPerPage: 10,
-        page: 1,
+        page: this.$route.query.page || 1,
         sortBy: [],
         sortDesc: [true],
       },
+      numberOfPages: 0,
+      total: 0,
+      items: [],
+      loading: true,
     }
   },
-  computed: {
-    numberOfPages() {
-      return Math.ceil(this.$apolloData?.data.list.total / this.itemsPerPage)
-    },
-  },
+  computed: {},
   watch: {
-    options(v) {
-      this.$store.dispatch('list/search', {
-        limit: v.itemsPerPage,
-        skip: (v.page - 1) * v.itemsPerPage,
-      })
+    '$route.query': {
+      handler(item, old) {
+        /*  this.$apollo.queries?.list?.refresh() */
+      },
+      immediate: true,
     },
   },
+  watchQuery: true,
 
   created() {},
-
+  updated() {},
   methods: {},
 }
 </script>

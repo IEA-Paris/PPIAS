@@ -1,6 +1,6 @@
 <template>
   <PageContainer>
-    <PageTitle text="contact" />
+    <PageTitle text="privacy" />
     <v-row justify="center">
       <v-col cols="12" md="8" lg="6" xl="5">
         <nuxt-content :document="page" />
@@ -12,7 +12,7 @@
 export default {
   props: {},
   async asyncData({ $content }) {
-    const page = await $content('pages/contact').fetch()
+    const page = await $content('pages/privacy').fetch()
     return {
       page,
     }

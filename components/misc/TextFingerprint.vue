@@ -33,7 +33,7 @@
               r={radius}
             />
           ) : null} -->
-      <circle :cx="0" :cy="0" stroke="var(--secondary)" fill="transparent" :r="baseRadius" />
+      <circle :cx="0" :cy="0" stroke="var(--secondary)" fill="transparent" :r="radius" />
       <TextFingerprintCell
         v-for="(cell, index) in cells"
         :key="index"
@@ -117,11 +117,6 @@ export default {
   },
   mounted() {
     console.log('cells', this.cells)
-    this.radius = ((this.size / 2 - this.margin) * 2) / 3
-    // value radius, this give us extra safety margin.
-    this.maxNumCharsRadius = this.radius / 2
-    this.maxNumRefsRadius = 5
-    this.angleD = (Math.PI * 2) / (this.cells.length + 1)
   },
   methods: {
     // this is the scale function linked to the total numbers of characters in a cell.
