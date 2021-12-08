@@ -1,7 +1,6 @@
 <template>
   <div>
-    <div class="main-title ml-10">
-Proceedings of the</div>
+    <div class="main-title ml-10">Proceedings of the</div>
     <v-select
       v-model="current"
       :items="items"
