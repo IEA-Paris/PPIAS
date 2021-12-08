@@ -1,6 +1,6 @@
 ---
 issue: content/issues/10-12-2021.md
-category: Article
+category: News
 keywords: []
 date: 2021-12-06T15:34:39.000+00:00
 article_title: WPRN 21 Conference
