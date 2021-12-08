@@ -98,8 +98,3 @@ fields:
       required: false
     label: Mendeley
   label: Social channels
-pages:
-- content/authors/@Gubert_2021.md
-- content/authors/@Lahlou_2021.md
-- content/authors/@Zatorre_2021.md
-- content/authors/Helga Nowotny.md
