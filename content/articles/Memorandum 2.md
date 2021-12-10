@@ -4,7 +4,7 @@ category: Article
 keywords: []
 date: 2021-12-09T14:13:46Z
 article_title: 'Tracking for Covid 19: An experimental method more  than a «miracle»
-  solution - Memorandum 2'
+  solution '
 authors: []
 picture: "/images.jpeg"
 picture_copyright: ''
