@@ -42,7 +42,7 @@ So, while extensive research has focused on the technical potential of tracking 
 
 ## Tracking tools seem relatively well accepted by citizens when guarantees are provided for the protection of personal data
 
-To be effective, tracking applications must be used on a massive scale. As the coercive measure of mandatory use is not popular in Europe, a significant consent of the population is necessary. Although citizens are in favour of the applications (59% of French people said they were in favour of StopCovid when it was launched, their choice to install them depends on a large number of factors.
+To be effective, tracking applications must be used on a massive scale. As the coercive measure of mandatory use is not popular in Europe, a significant consent of the population is necessary. Although citizens are in favour of the applications (59% of [French people](https://www.francebleu.fr/infos/politique/sondage-stop-covid-une-majorite-de-francais-inquiets-de-l-utilisation-de-leurs-donnees-par-l-1589445489 "France Bleu") said they were in favour of StopCovid when it was launched, their choice to install them depends on a large number of factors.
 
 A large literature, mainly American and available on the WPRN database, has examined in detail the characteristics that tracking applications must have in order to gain the greatest approval. Centralized data collection and the guarantee of private and anonymized data appear to be the priority of the majority of citizens in order to grant their consent. The status of the actor (state or private Tech actor) does not seem to have any influence.
 
