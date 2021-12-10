@@ -1,7 +1,14 @@
 ---
 issue: content/issues/10-12-2021.md
 category: Article
-keywords: []
+keywords:
+- 'Artificial Intelligence '
+- 'Public Health '
+- Democracy, Civil Society, Governance
+- 'Risks, Crisis Management '
+- Public Policy, Evaluation, Impact
+- 'Innovation, R&D '
+- Human Behaviours, Social Relations
 date: 2021-12-09T14:13:46Z
 article_title: 'Tracking for Covid 19: An experimental method more  than a «miracle»
   solution '
@@ -19,17 +26,17 @@ redactors: []
 
 Tracking refers here to the use of digital systems to identify or track an individual. In the context of the coronavirus pandemic, tracking, through its ability to find individuals likely to have been contaminated in order to isolate or test them, has emerged as one of the methods that can fight against the spread of the virus.
 
-Tracking applications, which are listed and analysed here, were first used in Asia (China, Korea, Singapore, Taiwan) and then in the West, in France via the government application “StopCovid”, giving rise to a wide-ranging debate.
+Tracking applications, which are listed and analysed [here](https://www.technologyreview.com/2020/05/07/1000961/launching-mittr-covid-tracing-tracker/ "Covid Tracing Tracker"), were first used in Asia (China, Korea, Singapore, Taiwan) and then in the West, in France via the government application “StopCovid”, giving rise to a wide-ranging debate.
 
 The World Pandemic Research Network’s database points to several issues raised by research. Four themes appear to be central to the analyses of researchers: the degree of efficiency of tracking applications; the level of acceptance of tracking by the population; the risk for the protection of personal data; the trade-offs that public authorities must makeon digital technology (sovereignty and surveillance).
 
 ## Effectiveness is controversial and will have to be assessed by future studies
 
-Technological surveillance tools are increasingly used for public health purposes and telephone tracking has already been used in the context of disasters or epidemics, as this article, avaible on the WPRN database reminds us. Thus, the development of applications
+Technological surveillance tools are increasingly used for public health purposes and telephone tracking has already been used in the context of disasters or epidemics, as this article, avaible on the [WPRN database](https://wprn.org/item/442852 "WPRN/442852") reminds us. Thus, the development of applications
 
-in the context of the pandemic has been driven by the enthusiasm of part of the scientific community.However, there is debate about their effectiveness and no consensus has emerged on the issue. Initiale studies suggest that a large percentage of users in the population (70 or 80%) is necessary for applications to be effective.
+in the context of the pandemic has been driven by the enthusiasm of part of the scientific community. However, there is debate about their effectiveness and no consensus has emerged on the issue. Initiale [studies](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30074-7/fulltext "The Lancet") suggest that a large percentage of users in the population (70 or 80%) is necessary for applications to be effective.
 
-However, no country has reached such a threshold, due to technical limitations (insufficient share of the population equipped with mobile phones or wishing to leave Bluetooth, etc.) or lack of enthusiasm of citizens. Some medical studies also point out that such tracking could only be really useful at the beginning of an epidemic. While the results seem positive in the Korean case, it would seem hasty to draw relevant lessons for Europe, as data collection is carried out there in the framework of a very intrusive surveillance systeme based on the cross-referencing of geolocation, police, banking and telecommunications data, and it is difficult to isolate the contribution of tracking alone in the management of the pandemic.
+However, no country has reached such a threshold, due to [technical limitations](https://booksandideas.net/Tracing-Apps-to-Fight-Covid-19.html "Books & ideas") (insufficient share of the population equipped with mobile phones or wishing to leave Bluetooth, etc.) or lack of enthusiasm of citizens. Some medical [studies](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095133 "Plos one") also point out that such tracking could only be really useful at the beginning of an epidemic. While the results seem positive in the Korean case, it would seem hasty to draw relevant lessons for Europe, as data collection is carried out there in the framework of a very intrusive surveillance systeme based on the cross-referencing of geolocation, police, banking and telecommunications data, and it is difficult to isolate the contribution of tracking alone in the management of the pandemic.
 
 So, while extensive research has focused on the technical potential of tracking to combat the pandemic, as well as its potential limitations. Studies are now needed to evaluate the effectiveness of this method with significant feedback and to propose ways to improve it.
 
