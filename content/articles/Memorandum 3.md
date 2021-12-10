@@ -3,7 +3,7 @@ issue: content/issues/10-12-2021.md
 category: Article
 keywords: []
 date: 2021-12-09T16:57:27Z
-article_title: Impact of Covid 19 on students - Memorandum 3
+article_title: Impact of Covid 19 on students
 authors: []
 picture: ''
 picture_copyright: ''
@@ -18,13 +18,13 @@ redactors: []
 
 The social distancing measures taken by the authorities in response to Covid 19 have had major economic and psychological consequences on the population. In particular, students were subject to major disruption.
 
-Social science research has shown that students constitute a fragile social category, more prone to anxiety than the rest of the population and thus particularly exposed during major upheavals such as the Covid 19 epidemic (1). Several studies carried out or in progress highlight the impact of measures against Covid 19, in particular containment, on the mental health of students (2). More studies should now focus on the medium- and long-term consequences for students, in particular the consequences of educational changes at university and the economic and social consequences of the current crisis (3).
+Social science research has shown that students constitute a fragile social category, more prone to anxiety than the rest of the population and thus particularly exposed during major upheavals such as the Covid 19 epidemic. Several studies carried out or in progress highlight the impact of measures against Covid 19, in particular containment, on the mental health of students. More studies should now focus on the medium- and long-term consequences for students, in particular the consequences of educational changes at university and the economic and social consequences of the current crisis.
 
 ## Students: a social category particularly prone to mental health problems and external stressors.
 
-The mental health of students has been the subject of considerable research. As this study in the World Pandemic Research Network database shows students are more prone to mental health problems than the general population. In particular, 1 in 4 students have symptoms of depression and 1 in 10 have suicidal thoughts. Several stress factors have been put forward to explain this phenomenon: academic competition with their peers, the need to adjust to new geographical and social environments, uncertainty about the future or financial insecurity for some of them.
+The mental health of students has been the subject of considerable research. As this study in the World Pandemic Research Network database shows [students](https://link.springer.com/article/10.1007/s10902-016-9736-y "Springer") are more prone to mental health problems than the general population. In particular, 1 in 4 students have symptoms of [depression](https://psycnet.apa.org/record/2012-11011-011 "APA - Psycnet") and 1 in 10 have suicidal thoughts. Several stress factors have been put forward to explain this phenomenon: academic competition with their peers, the need to adjust to new geographical and social environments, uncertainty about the future or financial insecurity for some of them.
 
-In addition to these elements, research has shown the impact that external events can have on mental health. The SARS epidemic in 2003, for example, is estimated to have had a very negative impact on the mental health of the population in Hong Kong. Thus the coronavirus epidemic and the measures taken by the authorities to respond to it may constitute an additional stressor on a population already more prone to anxiety than average and requiring special attention.
+In addition to these elements, research has shown the impact that external events can have on mental health. The [SARS epidemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3298267/ "Pubmed") in 2003, for example, is estimated to have had a very negative impact on the mental health of the population in Hong Kong. Thus the coronavirus epidemic and the measures taken by the authorities to respond to it may constitute an additional stressor on a population already more prone to anxiety than average and requiring special attention.
 
 ## Early studies point to a complex link between Covid 19 and student mental health
 
@@ -36,9 +36,7 @@ Students perceived negative but also positive changes in the situation. The majo
 
 The findings of the study encourage the authorities to implement better support focused on the most isolated students. Universities are encouraged to develop more study groups, mentoring and psychological counselling. Preventive measures to monitor students should also be put in place beforehand during periods when an external stress factor is identified, as also recommended by a psychiatry study assessing with more hindsight the psychological impact on Chinese students.
 
-These studies are need to be completed. They focus on the early period of confinement, but the mental health of the students requires long-term monitoring. Several ongoing studies in the WPRN database should provide a more global understanding of the phenomenon. In particular, this large study which will analyse the consequences of Covid 19 on the mental health of students in 27 countries, this study which focuses on the this study which looks
-
-at the prevalence of mental health disorders in France, and this American study which aims to evaluate the impact of environmental modifications and Covid 19 on the well-being of students.
+These studies are need to be completed. They focus on the early period of confinement, but the mental health of the students requires long-term monitoring. Several ongoing studies in the WPRN database should provide a more global understanding of the phenomenon. In particular, this large study which will analyse the consequences of Covid 19 on the mental health of students in 27 countries, this study which focuses on the this study which looks at the prevalence of mental health disorders in France, and this American study which aims to evaluate the impact of environmental modifications and Covid 19 on the well-being of students.
 
 ## The medium- and long-term consequences for students, including educational disruption at the university and the economic consequences of the crisis created by Covid 19 require further study.
 
