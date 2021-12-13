@@ -1,29 +1,32 @@
 <template>
-  <div>
-    <div class="main-title ml-10">Proceedings of the</div>
-    <v-select
-      v-model="current"
-      :items="items"
-      hide-details
-      solo
-      flat
-      min-height="30"
-      height="30"
-      class="ml-7 domain-select fit"
-      :menu-props="{ bottom: true, offsetY: true }"
-    >
-      <template #selection="{ item }">
-        <span class="main-title">
-          {{ item }}
-        </span>
-      </template>
-    </v-select>
-    <div class="main-title ml-10">
-      Institute for
-      <br />
-      Advanced
-      <br />
-      Study
+  <div class="d-flex">
+    <v-img class="ml-10 mr-2" src="/icon.png" max-height="150" max-width="150" contain></v-img>
+    <div>
+      <div class="main-title ml-3">Proceedings of the</div>
+      <v-select
+        v-model="current"
+        :items="items"
+        hide-details
+        solo
+        flat
+        min-height="30"
+        height="30"
+        class="domain-select fit"
+        :menu-props="{ bottom: true, offsetY: true }"
+      >
+        <template #selection="{ item }">
+          <span class="main-title">
+            {{ item }}
+          </span>
+        </template>
+      </v-select>
+      <div class="main-title ml-3">
+        Institute for
+        <br />
+        Advanced
+        <br />
+        Study
+      </div>
     </div>
   </div>
 </template>
