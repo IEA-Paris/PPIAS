@@ -2,7 +2,9 @@
   <v-app>
     <TopBar />
     <v-main style="padding-bottom: 5rem">
-      <Nuxt />
+      <v-container fluid>
+        <Nuxt />
+      </v-container>
     </v-main>
     <Footer />
   </v-app>

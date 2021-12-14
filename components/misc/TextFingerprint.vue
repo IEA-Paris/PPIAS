@@ -42,7 +42,7 @@
         :circle-radius="2.5"
         :offset-radius="
           // if isMedia, inWard, if is heading is 0
-          cell.isMedia ? scaleNumChars() * -1 : scaleNumChars()
+          cell.isMedia ? scaleNumChars(cell.countChars) * -1 : scaleNumChars(cell.countChars)
         "
         :refs-radius="cell.countRefs ? scaleNumRefs() : 0"
         :is-heading="cell.isHeading"
@@ -105,7 +105,7 @@ export default {
         // .exponent(1)
         // with powerscale, exponent 0.25
         .exponent(0.25)
-        .domain((this.stats && this.stats.extentChars) || [0, 1])
+        .domain((this.stats && this.stats.countChars) || [0, 1])
         .range([0, this.maxNumCharsRadius]),
       scaleNumRefs: scalePow() // linear, commented out
         // .exponent(1)

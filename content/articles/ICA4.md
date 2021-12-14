@@ -90,7 +90,7 @@ Before leaving for cocktails and welcome speeches in the chambers of Paris IAS, 
 
   "The future needs wisdom”: an urgent need to institutionalise context-sensitivity, rather than creating a standardised system to control AI, was discussed and collectively developed. This lead to further debates regarding the concentration of technology advancement and its deteriorating impact on inequality. Thus, a global agreement is necessary to control AI, although it is currently almost impossible to obtain! Therefore, we should educate AI as a child of humanity that can grow to contribute to society. AI research is undertaken at such a massive scale that it requires global efforts which go beyond a single country. Scientists are paid by society, and their curiosity-led work should return to society as a whole…
 
-## Day 2: "In****AI we****trust"...or not!**
+## Day 2: "In AI we trust"...or not!**
 
 ![](<https://lh4.googleusercontent.com/0-dYD2PKA2ALZYDs2ZxilSutlxMpYOyGlXclyyWGqxIlU3dXW3jYTo8Pasd2fZSGrYT7s3icasKBxcZP882lZb_Zfdj82OJZpLNY3Pno7QyZDCtvJSBKvLurPC140KqW7Q> =602x293)
 
@@ -114,7 +114,7 @@ Finally,[_Raouf Boucekkine _](https://www.intercontinental-academia.org/about/ic
 
   Of all the above, perceiving, thinking/intending, and carrying out intentions may be done by machines. However, feelings and emotions belong exclusively to human beings. In such a context, it may be argued that the evolutionary function of consciousness is to enable the operation of emotions. This being said, we currently have no idea about how does consciousness work. Although considerable progress has been made in AI, Artificial Emotions (AE) has remained rather untouched.
 
-* Myths and misunderstandings about responsibility for the unintended impact of AI
+### Myths and misunderstandings about responsibility for the unintended impact of AI
 
   Presented by[Karen Yeung](https://www.intercontinental-academia.org/mentors#yeung)
 
@@ -135,13 +135,13 @@ Finally,[_Raouf Boucekkine _](https://www.intercontinental-academia.org/about/ic
   * Need for more interdisciplinary research
   * Application of the fundamental principle of reciprocity so as not to allow those who develop and run our advanced digital technologies and systems to increase and exercise their power without responsibility.
 
-* Data science and deep learning vs theory: two examples from economics and finance
+###  Data science and deep learning vs theory: two examples from economics and finance
 
   Presented by[ **_Raouf Boucekkine_**](https://www.intercontinental-academia.org/about/ica4#boucekkine "Raouf Boucekkine")
 
   The session included discussions on Data Science, Machine Learning (ML), and some relevant theories in the field of economics and finance that share common disciplines. Certain examples from macroeconomics, in which characteristics of the underlying mechanisms for complex systems are of great interest, were then discussed in more detail. In such context, a misunderstanding between different disciplines was highlighted: the concept of equilibrium is of great significance in mainstream macroeconomics, whereas this is not the case for statistical physics (e.g., the "equilibrium" bias outside the econ area, discussed by Bonneuil & Boucekkine (2020)). Finally, the use of various methods and approaches, such as DSGE (Dynamic Stochastic General Equilibrium), ABM (Agent-Based Modeling), and Neural Network-Based methods, in the field of macroeconomics were discussed.
 
-## Day 3: "What you do FOR people, you do TO people, so do it WITH people!"**
+## Day 3: "What you do FOR people, you do TO people, so do it WITH people!"
 
 ![](<https://lh6.googleusercontent.com/mcsCvmIeP9vLbpp6Ghvm1SDu7jLWRQUAZ-Hp-zqyXdyxY0G3TleQ2EdnIUoaXuORY9LwMraoeRMfwpfrCn4RVI8Uws1S2bWc7jtcG4HMLXL5kYVDQ7Yz_OVS7kMsBxgMFg> =602x451)
 

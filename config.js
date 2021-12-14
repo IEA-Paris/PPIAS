@@ -96,6 +96,7 @@ export default {
     fonts: {
       families: {
         Petrona: [500, 700],
+        'Open Sans': [500, 700],
       },
     },
   },
