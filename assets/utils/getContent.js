@@ -1,11 +1,13 @@
+import filtersRaw from '~/assets/data/filters'
+
 export default async (cat, $content, query, search, deep) => {
   const currentPage = parseInt(query.page) || 1
-
+  const filters = filtersRaw[cat]
   const perPage = 5
 
   const tags = query.tags ? JSON.parse(query.tags) : []
   const pipeline = {
-    /* published: true  */
+    ...filters,
   }
   if (tags.length) pipeline.tags = { $containsAny: tags }
   const count = await $content(cat, { deep }).search(search).where(pipeline).only([]).fetch()

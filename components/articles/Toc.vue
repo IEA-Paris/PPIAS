@@ -1,6 +1,8 @@
 <template>
   <aside>
-    <div v-show="title" class="text-h6 mb-3" transition="scale-transition">{{ title }}</div>
+    <span v-show="title" class="text-h6 my-3" transition="scale-transition">
+      {{ title }}
+    </span>
     <v-timeline align-top dense reverse class="toc">
       <v-timeline-item
         v-for="link of toc"
@@ -15,20 +17,30 @@
           :color="link.id === activeToc ? 'primary' : 'grey'"
           nuxt
           :to="`#${link.id}`"
-          @click="$vuetify.goTo('#' + link.id) && $router.replace({ hash: '#' + link.id })"
-          @keyup.enter="$vuetify.goTo('#' + link.id) && $router.replace({ hash: '#' + link.id })"
+          @click="$vuetify.goTo('#' + link.id, { offset: 100 }) && $router.replace({ hash: '#' + link.id })"
+          @keyup.enter="$vuetify.goTo('#' + link.id, { offset: 100 }) && $router.replace({ hash: '#' + link.id })"
         >
           {{ link.text }}
         </a>
         <template #icon>
           <v-avatar
             small
-            @click="$vuetify.goTo('#' + link.id) && $router.replace({ hash: '#' + link.id })"
-            @keyup.enter="$vuetify.goTo('#' + link.id) && $router.replace({ hash: '#' + link.id })"
+            style="cursor: pointer"
+            @click="$vuetify.goTo('#' + link.id, { offset: 100 }) && $router.replace({ hash: '#' + link.id })"
+            @keyup.enter="$vuetify.goTo('#' + link.id, { offset: 100 }) && $router.replace({ hash: '#' + link.id })"
           ></v-avatar>
         </template>
       </v-timeline-item>
     </v-timeline>
+    <v-tooltip bottom>
+      <template #activator="{ on, attrs }">
+        <v-btn text outlined class="justify-self-center mt-6" v-bind="attrs" v-on="on">
+          <v-icon left>mdi-download</v-icon>
+          PDF version
+        </v-btn>
+      </template>
+      <span>{{ $t('download-this-article-as-a-pdf-file') }}</span>
+    </v-tooltip>
   </aside>
 </template>
 <script>
@@ -79,9 +91,10 @@ export default {
 
 aside {
   position: sticky;
-  top: 256px;
+  top: 0;
   width: inherit;
   left: 250;
+  margin-left: 25px;
   align-self: start;
   overflow: hidden;
   margin: 25px;

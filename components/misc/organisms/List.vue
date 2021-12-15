@@ -176,9 +176,8 @@ export default {
   },
   async fetch() {
     const rst = await getContent(this.type, this.$content, this.$route.query, this.search, false)
-    console.log(rst)
+
     if (rst) {
-      console.log('rst: ', rst)
       this.total = rst.total
       this.numberOfPages = rst.numberOfPages
       this.pinnedItem = rst.pinnedItem

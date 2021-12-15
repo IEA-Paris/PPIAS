@@ -2,51 +2,40 @@
   <v-row class="transition-swing flex-row-reverse">
     <v-col :cols="toc ? 9 : 12" class="transition-swing">
       <div :id="(item.anchor && item.anchor.toLowerCase()) || item.post_title" flat v-bind="$attrs" class="mx-6">
-        <v-tooltip bottom>
-          <template #activator="{ on, attrs }">
-            <v-btn small depressed text icon v-bind="attrs" @click="toc = !toc" v-on="on">
-              <v-icon>{{ toc ? 'mdi-chevron-left-box' : 'mdi-chevron-right-box' }}</v-icon>
-            </v-btn>
-          </template>
-          <span>{{ $t('show-hide-the-left-panel') }}</span>
-        </v-tooltip>
-        <v-tooltip bottom>
-          <template #activator="{ on, attrs }">
-            <v-btn
-              text
-              icon
-              v-bind="attrs"
-              :href="'/articles/' + item.slug"
-              target="_blank"
-              :title="item.post_title"
-              small
-              class="float-right"
-              v-on="on"
-            >
-              <v-icon>mdi-open-in-new</v-icon>
-            </v-btn>
-          </template>
-          <span>Open in a new tab</span>
-        </v-tooltip>
-        <v-card-subtitle class="pb-0">
-          <v-tooltip bottom>
-            <template #activator="{ on, attrs }">
-              <v-icon v-bind="attrs" v-on="on">mdi-pin</v-icon>
-            </template>
-            <span>This post is pinned</span>
-          </v-tooltip>
-          {{
-            new Date(item.date).toLocaleDateString('EN', {
-              timezone: 'UTC',
-            })
-          }}
-          <!--  +    ' - ' +
-        new Date(item.date).toLocaleTimeString('EN', {
-          hour: '2-digit',
-          minute: '2-digit',
-          timezone: 'UTC', 
-      })-->
-        </v-card-subtitle>
+        <div class="sidebtn">
+          <div class="d-flex align-center py-3">
+            <v-tooltip bottom>
+              <template #activator="{ on, attrs }">
+                <v-btn outlined v-bind="attrs" class="" @click="toc = !toc" v-on="on">
+                  <v-icon>{{ toc ? 'mdi-chevron-left' : 'mdi-chevron-right' }}</v-icon>
+                </v-btn>
+              </template>
+              <span v-html="toc ? $t('hide-the-left-panel') : $t('show-the-left-panel')"></span>
+            </v-tooltip>
+            <span v-if="!toc && !title" class="transition-swing text-h6 ml-6">
+              {{ item.article_title }}
+            </span>
+            <v-tooltip bottom>
+              <template #activator="{ on, attrs }">
+                <v-btn
+                  text
+                  icon
+                  v-bind="attrs"
+                  :href="'/articles/' + item.slug"
+                  target="_blank"
+                  :title="item.post_title"
+                  small
+                  class="ml-auto"
+                  v-on="on"
+                >
+                  <v-icon>mdi-open-in-new</v-icon>
+                </v-btn>
+              </template>
+              <span>Open in a new tab</span>
+            </v-tooltip>
+          </div>
+        </div>
+
         <!--         <v-card-title>
           <span class="text-h4" v-html="highlight(item.article_title, $route.query.search)"></span>
         </v-card-title> -->
@@ -88,7 +77,7 @@
               Read&nbsp;more
             </b>
           </p>
-          <nuxt-content v-show="$route.name !== 'blog' || show || !item.description" :document="wrapContent(item)" />
+          <nuxt-content v-show="$route.name !== 'blog' || show || !item.description" :document="item" />
           <template v-if="item.authors.length">
             <div class="mb-3 px-3 font-italic">
               By
@@ -103,14 +92,35 @@
           </template>
           <SoundCloud v-for="(track, index2) in item.audio" :key="index2" :src="track" />
         </v-card-text>
+
+        <v-card-subtitle class="pb-0">
+          <v-tooltip bottom>
+            <template #activator="{ on, attrs }">
+              <v-icon v-bind="attrs" v-on="on">mdi-pin</v-icon>
+            </template>
+            <span>This post is pinned</span>
+          </v-tooltip>
+          {{
+            new Date(item.date).toLocaleDateString('EN', {
+              timezone: 'UTC',
+            })
+          }}
+          <!--  +    ' - ' +
+        new Date(item.date).toLocaleTimeString('EN', {
+          hour: '2-digit',
+          minute: '2-digit',
+          timezone: 'UTC', 
+      })-->
+        </v-card-subtitle>
       </div>
     </v-col>
-    <v-col v-show="toc" :cols="toc ? 3 : auto" class="transition-swing">
+    <v-col v-show="toc" :cols="toc ? 3 : 1" class="transition-swing">
       <Toc
         v-if="item.toc.length"
         :toc="item.toc"
         :active-toc="currentlyActiveToc"
         :title="title ? false : item.article_title"
+        @close="toc = false"
       />
     </v-col>
   </v-row>
@@ -138,6 +148,7 @@ export default {
         root: this.$refs.nuxtContent,
         threshold: 0,
       },
+      sheet: false,
     }
   },
   computed: {
@@ -173,53 +184,6 @@ export default {
   },
   updated() {},
   methods: {
-    wrapContent(item) {
-      let count = 0
-      console.log(item.body.children)
-      return {
-        ...item,
-        body: {
-          ...item.body,
-          children: item.body.children.map((child, index) => {
-            console.log('child: ', child)
-            if (child.value !== '\n') {
-              count++
-              return {
-                type: 'element',
-                tag: 'div',
-                props: { class: 'node d-flex' },
-                children: [
-                  {
-                    type: 'element',
-                    tag: 'a',
-                    props: {
-                      class:
-                        'text-right index mr-3 ' + [' mt-8', ' mt-6', 'mt-3'][['h2', 'h3', 'p'].indexOf(child.tag)] ||
-                        '',
-                      id: count,
-                      href: '#' + count,
-                      // TODO addd vuetify goTo instead of link
-                    },
-                    children: [{ type: 'text', value: count }],
-                  },
-                  {
-                    type: 'element',
-                    tag: 'div',
-                    props: {
-                      class: '',
-                    },
-                    processed: true,
-                    children: [child],
-                  },
-                ],
-              }
-            } else {
-              return child
-            }
-          }),
-        },
-      }
-    },
     truncateString(str = '') {
       return truncateString(str, 250)
     },
@@ -242,6 +206,9 @@ export default {
 }
 </script>
 <style lang="scss">
+.youtube {
+  width: 100%;
+}
 .nuxt-content p {
   color: rgba(0, 0, 0, 0.6);
   font-size: 0.875rem !important;
@@ -250,16 +217,27 @@ export default {
   letter-spacing: 0.0071428571em !important;
 }
 .node .index {
-  opacity: 45%;
+  color: rgba(0, 0, 0, 0.2);
   text-decoration: none;
-  color: black;
 }
 .node:hover .index {
-  opacity: 100%;
+  color: black;
+}
+.sidebtn {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 4;
+  margin-bottom: 1rem;
+  align-self: flex-start;
 }
 // nuxt content styles
+
+// nuxt content styles
+
 .nuxt-content h2 {
   font-weight: 500;
+  line-height: 2.4rem;
   font-size: 30px;
   padding-bottom: 0.3rem;
   margin-bottom: 1em;
@@ -292,6 +270,7 @@ export default {
 }
 
 .nuxt-content ul {
+  color: rgba(0, 0, 0, 0.6);
   font-size: 14px;
   margin-bottom: 30px;
   word-spacing: 2px;

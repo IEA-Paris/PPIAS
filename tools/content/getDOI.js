@@ -1,5 +1,5 @@
 export default async (document) => {
-  if (document.slug === 'wprn21323') {
+  if (document?.slug === 'wprn21323') {
     /*       console.log('document: ', document) */
     const Zenodo = require('../lib/ZenodoConnector')
     const zenodo = new Zenodo({
@@ -33,7 +33,6 @@ export default async (document) => {
           }),
         },
       })
-      console.log('entry: ', entry)
       zenodo.files
         .upload({
           bucketId: entry.data.links.bucket.split('/')[entry.data.links.bucket.split('/').length - 1],
@@ -57,4 +56,5 @@ export default async (document) => {
     // make DOI only if the document is published & has no DOI yet & needs a DOI
     /*    if (document.published && !document.DOI && document.needDOI) { */
   }
+  return document
 }

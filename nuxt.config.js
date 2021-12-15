@@ -92,7 +92,7 @@ export default {
     '@nuxtjs/style-resources',
     '@nuxt/image',
     // https://github.com/nuxt-community/html-validator-module#readme
-    '@nuxtjs/html-validator',
+    /*     '@nuxtjs/html-validator', */
     // https://ackee.nuxtjs.org/
     '@nuxtjs/ackee',
     '@nuxtjs/composition-api/module',

@@ -1,8 +1,8 @@
 <template>
-  <div class="d-flex">
-    <v-img class="ml-10 mr-2" src="/icon.png" max-height="150" max-width="150" contain></v-img>
+  <div class="d-flex" @click="$router.push(localePath('/'))" @keyup.enter="$router.push(localePath('/'))">
+    <v-img class="ml-10 mr-2" src="/icon.png" max-height="150" max-width="150" contain style="cursor: pointer"></v-img>
     <div>
-      <div class="main-title ml-3">Proceedings of the</div>
+      <div class="main-title ml-3">Proceedings&nbsp;of&nbsp;the</div>
       <v-select
         v-model="current"
         :items="items"
@@ -15,7 +15,7 @@
         :menu-props="{ bottom: true, offsetY: true }"
       >
         <template #selection="{ item }">
-          <span class="main-title">
+          <span class="main-title-select">
             {{ item }}
           </span>
         </template>
@@ -41,13 +41,20 @@ export default {
 }
 </script>
 <style>
+.main-title-select,
 .main-title {
-  max-width: 25vw;
+  max-width: 25rem;
   font-size: 1.8rem;
   line-height: 1;
-  font-weight: 900;
+  font-weight: 700;
   font-family: 'Bodoni Moda';
   display: inline-flex;
+}
+.main-title {
+  color: black;
+}
+.main-title-select {
+  color: #757575 !important;
 }
 .domain-select {
   max-width: fit-content;

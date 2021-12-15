@@ -2,24 +2,17 @@
   <v-row justify="center">
     <v-col cols="12" md="12" lg="10" xl="10">
       <v-card>
-        <v-btn v-intersect="onIntersect" text small>
+        <v-btn v-intersect="onIntersect" plain text nuxt :to="localePath('/articles')">
           <v-icon left>mdi-chevron-left</v-icon>
           {{ $t('back') }}
         </v-btn>
-        <PageTitle :text="item[0].article_title" class="pa-6" />
-        <v-tabs background-color="transparent" color="black" class="mb-6" grow>
+        <PageTitle :text="item[0] && item[0].article_title" class="pa-6" />
+
+        <v-tabs background-color="transparent" color="black" class="mb-6" right>
           <v-tab nuxt :to="localePath('/articles/' + $route.params.slug)">Article</v-tab>
-          <v-tab nuxt :to="localePath('/articles/' + $route.params.slug + '/media')">Media</v-tab>
-          <v-tab nuxt :to="localePath('/articles/' + $route.params.slug + '/authors')">Author(s)</v-tab>
+          <v-tab @click="$router.replace({ query: { ...query, tab: 'Media' } })">Media</v-tab>
+          <v-tab @click="$router.replace({ query: { ...query, tab: 'Authors' } })">Author(s)</v-tab>
         </v-tabs>
-        <!-- 
-    <v-tabs-items v-model="tab">
-      <v-tab-item v-for="item in items" :key="item">
-        <v-card color="basil" flat>
-          <v-card-text>{{ text }}</v-card-text>
-        </v-card>
-      </v-tab-item>
-    </v-tabs-items> -->
 
         <Article v-if="item.length" :item="item[0]" :title="show"></Article>
       </v-card>
@@ -28,22 +21,28 @@
 </template>
 <script>
 export default {
+  beforeRouteUpdate(to, from, next) {
+    console.log('TOOOOOOOOOOO: ', to)
+    // react to route changes...
+    next()
+  },
   props: {},
   async asyncData({ $content, params }) {
-    console.log(params.slug.replace('%20', ' '))
+    console.log(params.slug)
     const item = await $content('articles')
       .where({
-        slug: params.slug.replace('%20', ' '),
+        slug: params.slug,
       })
       .fetch()
-    console.log(item)
+
     return {
       item,
     }
   },
   data() {
     return {
-      show: false,
+      show: true,
+      tab: 0,
     }
   },
   computed: {},

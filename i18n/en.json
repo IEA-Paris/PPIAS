@@ -49,5 +49,7 @@
   "see-all-issues": "See all issues",
   "no-issue-available": "No issue available",
   "back": "back",
-  "show-hide-the-left-panel": "Show/hide the left panel"
+  "show-the-left-panel": "Show the left panel",
+  "hide-the-left-panel": "Hide the left panel",
+  "download-this-article-as-a-pdf-file": "Download this article as a PDF file"
 }
