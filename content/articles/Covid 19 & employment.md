@@ -8,7 +8,7 @@ keywords:
 - Public Health
 - Human Behaviours, Social Relations
 - 'Work, Welfare, Social protection '
-date: 2021-12-15T14:51:09Z
+date: 2020-08-31T22:00:00Z
 article_title: 'Covid 19 and employment upheavals: worried employees'
 authors: []
 picture: ''
