@@ -112,6 +112,7 @@ fields:
     field: category
     value: News
 pages:
+- content/articles/Covid 19 & employment.md
 - content/articles/ICA4.md
 - content/articles/Memorandum 1.md
 - content/articles/Memorandum 2.md

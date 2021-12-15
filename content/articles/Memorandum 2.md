@@ -12,7 +12,7 @@ keywords:
   - Stopcovid
   - 'police '
   - "\tprivacy"
-date: 2021-12-09T14:13:46Z
+date: 2020-05-31T22:00:00Z
 article_title: 'Tracking for Covid 19: An experimental method more  than a «miracle»
   solution '
 authors: []
