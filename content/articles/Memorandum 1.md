@@ -11,7 +11,7 @@ keywords:
 - 'Human Behaviours, Social Relations '
 - Risks, Crisis Management
 - Public Policy
-date: 2021-12-09T10:55:27Z
+date: 2020-04-30T22:00:00Z
 article_title: Concern for others  is a better argument to foster social distancing
 authors: []
 picture: "/atm-social-distancing-1600x800-1.jpg"
