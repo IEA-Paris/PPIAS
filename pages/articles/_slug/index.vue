@@ -2,9 +2,8 @@
   <ArticleContainer :item="item[0]">
     <div v-intersect="onIntersect"></div>
     <Article v-if="item.length" :item="item[0]" :title="show"></Article>
-    <v-bottom-sheet v-model="note">
-      <v-sheet class="text-center">
-        <v-btn class="mt-6" text color="red" @click="sheet = !sheet">close</v-btn>
+    <v-bottom-sheet v-model="showNote" hide-overlay>
+      <v-sheet class="text-center d-flex flex-grow-1" color="red">
         <div class="py-3">{{ note }}</div>
       </v-sheet>
     </v-bottom-sheet>
@@ -14,9 +13,12 @@
 export default {
   beforeRouteUpdate(to, from, next) {
     if (to.hash && to.hash.substring(1).startsWith('fn')) {
-      console.log('to.hash: ', to)
-      console.log('this.$refs: ', this.$refs)
-      this.note = this.$refs[to.hash.substring(1)].innerHTML
+      console.log('to.hash.substring(4): ', to.hash.substring(4))
+      this.note = this.item[0].footnotes[+to.hash.substring(4) - 1]
+      this.showNote = true
+      console.log('this.item[0]: ', this.item[0])
+      console.log(' this.note: ', this.note)
+
       next(from.path)
     } else {
       next()
@@ -36,6 +38,7 @@ export default {
   },
   data() {
     return {
+      showNote: false,
       show: false,
       tab: 0,
       note: false,

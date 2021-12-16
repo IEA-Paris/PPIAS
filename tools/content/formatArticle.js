@@ -1,7 +1,7 @@
 export default (document, database) => {
   if (document.category === 'Article') {
     let count = 0
-
+    document.footnotes = []
     document.body.children = document.body.children.map((child, index) => {
       /*       console.log('child: ', child) */
       if (child.value !== '\n') {
@@ -12,7 +12,7 @@ export default (document, database) => {
             .children.map((footnote) => {
               console.log('footnote: ', footnote)
               if (footnote.tag === 'li') {
-                footnote.props.ref = footnote.props.id
+                document.footnotes.push(footnote.children[0].value)
               }
               return true
             })
