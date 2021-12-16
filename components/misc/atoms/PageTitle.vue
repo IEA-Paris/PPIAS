@@ -22,6 +22,7 @@ export default {
 <style lang="scss">
 .page-title {
   font-family: 'Bodonis Moda';
-  font-size: 4rem;
+  font-size: 4rem !important;
+  font-weight: 700 !important;
 }
 </style>

@@ -6,6 +6,24 @@ export default (document, database) => {
       /*       console.log('child: ', child) */
       if (child.value !== '\n') {
         count++
+        if (child?.props?.className && child?.props?.className.length && child?.props?.className[0] === 'footnotes') {
+          child.children
+            .find((node) => node.tag === 'ol')
+            .children.map((footnote) => {
+              console.log('footnote: ', footnote)
+              if (footnote.tag === 'li') {
+                footnote.props.ref = footnote.props.id
+              }
+              return true
+            })
+          console.log('child: ', child)
+          return {
+            type: 'element',
+            tag: 'div',
+            props: { class: 'node d-flex' },
+            children: [child],
+          }
+        }
         return {
           type: 'element',
           tag: 'div',
@@ -32,7 +50,6 @@ export default (document, database) => {
               props: {
                 class: [' ', ' ', '', '', 'youtube'][['h2', 'h3', 'p', 'ul', 'youtube'].indexOf(child.tag)],
               },
-              processed: true,
               children: [child],
             },
           ],

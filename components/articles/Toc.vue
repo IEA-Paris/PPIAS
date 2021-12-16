@@ -1,8 +1,8 @@
 <template>
   <aside>
-    <span v-show="title" class="text-h6 my-3" transition="scale-transition">
+    <div v-show="title" class="text-h6 my-3 mb-6 shadow" transition="scale-transition">
       {{ title }}
-    </span>
+    </div>
     <v-timeline align-top dense reverse class="toc">
       <v-timeline-item
         v-for="link of toc"
@@ -34,7 +34,7 @@
     </v-timeline>
     <v-tooltip bottom>
       <template #activator="{ on, attrs }">
-        <v-btn text outlined class="justify-self-center mt-6" v-bind="attrs" v-on="on">
+        <v-btn text outlined class="justify-self-center my-6" v-bind="attrs" v-on="on">
           <v-icon left>mdi-download</v-icon>
           PDF version
         </v-btn>
@@ -66,12 +66,8 @@ export default {
     return {}
   },
   computed: {},
-  mounted() {
-    console.log('toc', this.toc)
-  },
-  updated() {
-    console.log(this.$route)
-  },
+  mounted() {},
+  updated() {},
   methods: {},
 }
 </script>
@@ -91,13 +87,13 @@ export default {
 
 aside {
   position: sticky;
-  top: 0;
+  top: 10px;
   width: inherit;
   left: 250;
   margin-left: 25px;
   align-self: start;
-  overflow: hidden;
-  margin: 25px;
+  max-height: 100vh;
+  overflow-y: scroll;
 }
 .toc-item:hover .v-timeline-item__body a {
   color: black !important;

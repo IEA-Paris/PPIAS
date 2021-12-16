@@ -2,11 +2,14 @@
   <v-row class="transition-swing flex-row-reverse">
     <v-col :cols="toc ? 9 : 12" class="transition-swing">
       <div :id="(item.anchor && item.anchor.toLowerCase()) || item.post_title" flat v-bind="$attrs" class="mx-6">
-        <div class="sidebtn">
-          <div class="d-flex align-center py-3">
+        <div class="sidebtn" :class="title ? '' : 'shadow'">
+          <div class="d-flex align-center pt-3 pb-1">
             <v-tooltip bottom>
               <template #activator="{ on, attrs }">
-                <v-btn outlined v-bind="attrs" class="" @click="toc = !toc" v-on="on">
+                <v-btn tile text v-bind="attrs" class="pa-7" @click="toc = !toc" v-on="on">
+                  <v-expand-transition>
+                    <span v-show="title && !toc">Menu</span>
+                  </v-expand-transition>
                   <v-icon>{{ toc ? 'mdi-chevron-left' : 'mdi-chevron-right' }}</v-icon>
                 </v-btn>
               </template>
@@ -15,17 +18,21 @@
             <span v-if="!toc && !title" class="transition-swing text-h6 ml-6">
               {{ item.article_title }}
             </span>
+            <Search />
+            <ZenArticle :item="item" />
+
             <v-tooltip bottom>
               <template #activator="{ on, attrs }">
                 <v-btn
                   text
-                  icon
+                  class="py-7 px-6"
+                  tile
                   v-bind="attrs"
+                  nuxt
                   :href="'/articles/' + item.slug"
                   target="_blank"
                   :title="item.post_title"
                   small
-                  class="ml-auto"
                   v-on="on"
                 >
                   <v-icon>mdi-open-in-new</v-icon>
@@ -126,8 +133,10 @@
   </v-row>
 </template>
 <script>
+import ZenArticle from './ZenArticle.vue'
 import truncateString from '~/assets/utils/truncate'
 export default {
+  components: { ZenArticle },
   props: {
     item: {
       type: Object,
@@ -164,6 +173,7 @@ export default {
     },
   },
   mounted() {
+    console.log(this.item.body.children)
     this.observer = new IntersectionObserver((entries) => {
       entries.forEach((entry) => {
         const id = entry.target.getAttribute('id')
@@ -172,7 +182,6 @@ export default {
         }
       })
     }, this.observerOptions)
-
     // Track all sections that have an `id` applied
     document.querySelectorAll('.nuxt-content h2[id], .nuxt-content h3[id]').forEach((section) => {
       //, .nuxt-content p[id]
@@ -228,98 +237,18 @@ export default {
   top: 0;
   background-color: white;
   z-index: 4;
-  margin-bottom: 1rem;
   align-self: flex-start;
+  margin-left: -1.5rem;
+  margin-right: -1.5rem;
+}
+.sidebtn.shadow {
+  -webkit-box-shadow: 0 4px 6px -6px #222;
+  -moz-box-shadow: 0 4px 6px -6px #222;
+  box-shadow: 0 4px 6px -6px #222;
+}
+.footnotes {
+  color: red;
+  display: none;
 }
 // nuxt content styles
-
-// nuxt content styles
-
-.nuxt-content h2 {
-  font-weight: 500;
-  line-height: 2.4rem;
-  font-size: 30px;
-  padding-bottom: 0.3rem;
-  margin-bottom: 1em;
-  margin-top: 2rem;
-}
-.nuxt-content h3 {
-  font-weight: 400;
-  margin-top: 1.5rem;
-  font-size: 22px;
-}
-
-.nuxt-content p {
-  font-size: 16px;
-  margin-bottom: 15px;
-  margin-top: 10px;
-  word-spacing: 2px;
-  line-height: 32px;
-}
-
-.nuxt-content p code,
-.nuxt-content h2 code,
-.nuxt-content h3 code {
-  color: #476582;
-  padding: 0.25rem 0.5rem;
-  margin: 0;
-  font-size: 0.85em;
-  background-color: rgba(27, 31, 35, 0.05);
-  border-radius: 3px;
-  font-family: Consolas, Lato Mono, monospace;
-}
-
-.nuxt-content ul {
-  color: rgba(0, 0, 0, 0.6);
-  font-size: 14px;
-  margin-bottom: 30px;
-  word-spacing: 2px;
-  line-height: 32px;
-  display: block;
-  list-style-type: disc;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  padding-inline-start: 40px;
-}
-.nuxt-content li {
-}
-.v-application code {
-  all: initial;
-  all: unset;
-}
-
-.v-application a {
-  text-decoration: none;
-}
-
-.nuxt-content-highlight {
-  font-family: Consolas;
-  font-size: 16px;
-  position: relative;
-  z-index: 1;
-  border-radius: 6px;
-}
-
-.nuxt-content-highlight > .filename {
-  font-family: Lato;
-  right: 0;
-  top: 0;
-  position: absolute;
-  margin-right: 0.8rem;
-  font-size: 0.8rem;
-  color: rgba(203, 213, 224, 1);
-  font-weight: 300;
-  z-index: 10;
-  margin-top: 0.5rem;
-}
-
-.nuxt-content pre {
-  position: static;
-  border-radius: 6px;
-  font-family: Consolas;
-  font-size: 16px;
-  padding: 20px;
-}
 </style>

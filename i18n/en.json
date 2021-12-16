@@ -51,5 +51,7 @@
   "back": "back",
   "show-the-left-panel": "Show the left panel",
   "hide-the-left-panel": "Hide the left panel",
-  "download-this-article-as-a-pdf-file": "Download this article as a PDF file"
+  "download-this-article-as-a-pdf-file": "Download this article as a PDF file",
+  "close": "Close",
+  "exit-zen-mode": "Exit zen mode"
 }

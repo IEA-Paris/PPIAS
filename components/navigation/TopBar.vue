@@ -1,5 +1,5 @@
 <template>
-  <v-toolbar id="main-app-bar" color="white" clipped flat height="190" app>
+  <v-toolbar id="main-app-bar" color="white" clipped flat height="190">
     <div class="d-flex flex-grow-1 justify-space-between">
       <Logo color="#FFF" class="" />
       <!-- <LanguageSwitcher /> -->
@@ -39,6 +39,7 @@ export default {
 #main-app-bar {
   border-top: solid 0.8rem #000 !important;
   padding-bottom: 2.5rem;
+  margin-bottom: 2rem;
 }
 
 #main-app-bar.v-app-bar--is-scrolled {

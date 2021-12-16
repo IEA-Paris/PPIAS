@@ -16,7 +16,7 @@
       >
         <template #selection="{ item }">
           <span class="main-title-select">
-            {{ item }}
+            {{ item.replace(' ', '&nbsp;') }}
           </span>
         </template>
       </v-select>
@@ -35,7 +35,21 @@ export default {
   data() {
     return {
       current: 'Paris',
-      items: ['Berlin', 'Boston', 'Hongkong', 'Jerusalem', 'London', 'Madrid', 'Olso', 'Paris', 'Prague', 'Rome'],
+      items: [
+        'Berlin',
+        'Boston',
+        'Hongkong',
+        'Vancouver',
+        'Sydney',
+        'Belo Horizonte',
+        'Jerusalem',
+        'London',
+        'Madrid',
+        'Oslo',
+        'Paris',
+        'Prague',
+        'Rome',
+      ].sort(),
     }
   },
 }

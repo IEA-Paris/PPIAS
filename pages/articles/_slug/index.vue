@@ -1,34 +1,29 @@
 <template>
-  <v-row justify="center">
-    <v-col cols="12" md="12" lg="10" xl="10">
-      <v-card>
-        <v-btn v-intersect="onIntersect" plain text nuxt :to="localePath('/articles')">
-          <v-icon left>mdi-chevron-left</v-icon>
-          {{ $t('back') }}
-        </v-btn>
-        <PageTitle :text="item[0] && item[0].article_title" class="pa-6" />
-
-        <v-tabs background-color="transparent" color="black" class="mb-6" right>
-          <v-tab nuxt :to="localePath('/articles/' + $route.params.slug)">Article</v-tab>
-          <v-tab @click="$router.replace({ query: { ...query, tab: 'Media' } })">Media</v-tab>
-          <v-tab @click="$router.replace({ query: { ...query, tab: 'Authors' } })">Author(s)</v-tab>
-        </v-tabs>
-
-        <Article v-if="item.length" :item="item[0]" :title="show"></Article>
-      </v-card>
-    </v-col>
-  </v-row>
+  <ArticleContainer :item="item[0]">
+    <div v-intersect="onIntersect"></div>
+    <Article v-if="item.length" :item="item[0]" :title="show"></Article>
+    <v-bottom-sheet v-model="note">
+      <v-sheet class="text-center">
+        <v-btn class="mt-6" text color="red" @click="sheet = !sheet">close</v-btn>
+        <div class="py-3">{{ note }}</div>
+      </v-sheet>
+    </v-bottom-sheet>
+  </ArticleContainer>
 </template>
 <script>
 export default {
   beforeRouteUpdate(to, from, next) {
-    console.log('TOOOOOOOOOOO: ', to)
-    // react to route changes...
-    next()
+    if (to.hash && to.hash.substring(1).startsWith('fn')) {
+      console.log('to.hash: ', to)
+      console.log('this.$refs: ', this.$refs)
+      this.note = this.$refs[to.hash.substring(1)].innerHTML
+      next(from.path)
+    } else {
+      next()
+    }
   },
   props: {},
   async asyncData({ $content, params }) {
-    console.log(params.slug)
     const item = await $content('articles')
       .where({
         slug: params.slug,
@@ -41,8 +36,10 @@ export default {
   },
   data() {
     return {
-      show: true,
+      show: false,
       tab: 0,
+      note: false,
+      loop: false,
     }
   },
   computed: {},
