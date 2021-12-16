@@ -1,7 +1,18 @@
 ---
 issue: content/issues/10-12-2021.md
 category: Article
-keywords: []
+keywords:
+- 'Human Behaviours, Social Relations '
+- 'Inequalities, Poverty, Development '
+- 'Equality & Diversity Studies '
+- Work, Welfare, Social protection
+- 'Consumption and Production Patterns '
+- Public Policy, Evaluation, Impact
+- 'Firms, Markets, Finance '
+- 'Agriculture, Alimentation '
+- 'Agriculture, Alimentation '
+- 'Big Data, Artificial Intelligence '
+- 'Education '
 date: 2021-02-14T23:00:00Z
 article_title: 'Economy, housing, education: inequalities reinforced by the Covid
   pandemic-19'
