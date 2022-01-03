@@ -14,7 +14,7 @@ picture_copyright: ''
 yt: 'https://www.youtube.com/watch?v=PhbL0Ch6ndY '
 published: false
 pinned: false
-bibliography: ''
+bibliography: "/anystyle.bib"
 redactors: []
 
 ---
