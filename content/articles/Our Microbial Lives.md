@@ -10,7 +10,7 @@ date: 2022-01-03T11:06:26Z
 article_title: Our Microbial Lives
 authors:
 - content/authors/Victoria Lee.md
-picture: ''
+picture: "/1-cell_to_cell.jpg"
 picture_copyright: ''
 yt: 'https://www.youtube.com/watch?v=PhbL0Ch6ndY '
 published: false
