@@ -2,10 +2,10 @@
   <v-footer app dark color="black" style="position: relative">
     <v-container>
       <v-row justify="center" no-gutters>
-        <v-col cols="12" lg="10">
-          <nuxt-link :to="localePath('/')" style="transition: all 500ms ease 0s" @click.native="$vuetify.goTo(0)">
+        <v-col cols="12" lg="10" class="mt-6">
+          <!--    <nuxt-link :to="localePath('/')" style="transition: all 500ms ease 0s" @click.native="$vuetify.goTo(0)">
             <v-img src="/logo_text_alt.svg" contain width="200" class="my-6"></v-img>
-          </nuxt-link>
+          </nuxt-link> -->
           <v-row justify="center">
             <v-col cols="12" sm="4">
               <div class="text-body-2 my-6">
@@ -75,8 +75,9 @@
                   dense
                   large
                   height="44"
-                ></v-text-field>
-                <v-btn outlined large>{{ $t('subscribe') }}</v-btn>
+                >
+                  <v-btn outlined large>{{ $t('subscribe') }}</v-btn>
+                </v-text-field>
               </div>
             </v-col>
             <v-col cols="12" align="center">

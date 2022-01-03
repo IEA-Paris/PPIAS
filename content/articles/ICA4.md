@@ -1,7 +1,7 @@
 ---
 issue: content/issues/10-12-2021.md
 category: Article
-keywords:
+tags:
   - Artificial Intelligence
   - Data science
   - Deep learning
@@ -11,14 +11,14 @@ keywords:
   - Robots
 date: 2021-12-07T12:54:42Z
 article_title: 8 Days at ICA 4 First session in Paris
-authors: []
 picture: ''
 picture_copyright: ''
 yt: ''
+doi: '169059797'
 published: true
 pinned: false
-bibliography: ''
-redactors:
+bibliography: 'test.json'
+authors:
   - firstname: 'Atrina '
     lastname: Oraee
     titles_and_institutions: []
@@ -36,15 +36,22 @@ redactors:
       mendeley: ''
 ---
 
+The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].
+
+
+The ICA was established in 2016 through the University-Based Institutes for Advanced Study (UBIAS) coalition, which has 44 member institutes around the world. ([Cordelois 2020](#fn-cordelois_2020))
+
+<!--more-->
+
 ## Introduction
 
 The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe[^1].
 
-The ICA was established in 2016 through the University-Based Institutes for Advanced Study (UBIAS) coalition, which has 44 member institutes around the world.
+The ICA was established in 2016 through the University-Based Institutes for Advanced Study (UBIAS) coalition, which has 44 member institutes around the world. ([Cordelois 2020](#fn-cordelois_2020))
 
 During each edition of Intercontinental Academia, participants get together in three sessions over the course of one year.
 
-Previous editions of ICA have focused on "Time", "Human Dignity" and "Laws: Rigidity and Dynamics".
+Previous editions of ICA have focused on "Time", "Human Dignity" and "Laws: Rigidity and Dynamics"[^2].
 
 The 4th edition of the ICA explores the complementarities between artificial intelligence and neuro/cognitive-science and the tremendous challenges and opportunities they raise for humanity. Fellows and mentors initially met online and in cyberspace, and now in presence in Paris, from October 18 to 27. They shall meet again in cyberspace in the next few months and then finally, in Belo Horizonte in Brazil next June.
 
@@ -207,3 +214,5 @@ Upon completion of the talks by ICA4 Mentors, Paris-Saclay hosted a half-day eve
 Finally, the intellectually intense day came to an end with a talk in which [_Zaven Paré_](https://www.intercontinental-academia.org/mentors/#pare 'Zaven Paré') discussed his artistic works based on electronic marionettes and his collaborations with robotics specialists in Japan. Paré’s conception of automaton-centred theatre enchants audiences while challenging our tendency towards anthropomorphisation. This raises important questions regarding how we will interact with AI algorithms and intelligent robotics in the decades to come...
 
 [^1]: This is the first footnote.
+[^2]: Finally, the intellectually intense day came to an end with a talk in which Zaven Paré discussed his artistic works based on electronic marionettes and his collaborations with robotics specialists in Japan. Paré’s conception of automaton-centred theatre enchants audiences while challenging our tendency towards anthropomorphisation. This raises important questions regarding how we will interact with AI algorithms and intelligent robotics in the decades to come.
+[^cordelois_2020]: How are can it be to make the ideal publication website? Cordelois, Antoine - 2022 - Nature.

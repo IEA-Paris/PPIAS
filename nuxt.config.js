@@ -198,7 +198,16 @@ export default {
     quiet: true,
   },
   // Content module configuration: https://go.nuxtjs.dev/config-content
-  content: {},
+  content: {
+    basePlugins: [
+      'remark-squeeze-paragraphs',
+      'remark-slug',
+      'remark-autolink-headings',
+      'remark-external-links',
+      'remark-footnotes',
+      'remark-bibliography',
+    ],
+  },
   // Content hooks
   ...contentHooks,
   loading: {

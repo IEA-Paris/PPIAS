@@ -1,6 +1,6 @@
 <template>
   <v-card nuxt :to="'/articles/' + item.slug" max-width="250" class="d-flex align-center flex-column">
-    <TextFingerprint :cells="cells" :stats="stats" :size="100"></TextFingerprint>
+    <TextFingerprint :cells="cells" :stats="stats" :size="300"></TextFingerprint>
     <v-card-title>{{ item.article_title }}</v-card-title>
   </v-card>
 </template>
@@ -24,13 +24,13 @@ export default {
       }),
       stats: {
         countRefs: Math.floor(this.item.countRefs.length / 2),
-        countLines: this.item.countMap.length,
+        countLines: this.item.countMap?.length,
         countChars: this.item.countMap.reduce((partialSum, a) => partialSum + a, 0),
         countContributors: 3,
         countHeadings: this.item?.toc?.length,
         countMediaCells: 2,
         countCodeCells: 10,
-        countCells: this.item?.children?.length,
+        countCells: this.item.body.children.length,
         extentChars: [Math.min(...this.item.countMap), Math.max(...this.item.countMap)],
         extentRefs: [Math.min(...this.item.countRefs), Math.max(...this.item.countRefs)],
       },
@@ -38,16 +38,7 @@ export default {
   },
   computed: {},
   mounted() {
-    console.log(
-      'gdt',
-      this.item.body.children
-        .flatMap(({ type, value }) => {
-          return { type, value }
-        })
-        .filter(({ type }) => type === 'text')
-        .map((item) => item.value)
-        .reduce((a, b) => a + b),
-    )
+    console.log('ARTICLE', this.item)
   },
   methods: {},
 }

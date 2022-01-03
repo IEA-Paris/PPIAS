@@ -34,32 +34,33 @@
             />
           ) : null} -->
       <circle :cx="0" :cy="0" stroke="var(--secondary)" fill="transparent" :r="radius" />
-      <TextFingerprintCell
-        v-for="(cell, index) in cells"
-        :key="index"
-        :theta="index * angleD - Math.PI / 2"
-        :origin-radius="radius"
-        :circle-radius="2.5"
-        :offset-radius="
-          // if isMedia, inWard, if is heading is 0
-          cell.isMedia ? scaleNumChars(cell.countChars) * -1 : scaleNumChars(cell.countChars)
-        "
-        :refs-radius="cell.countRefs ? scaleNumRefs() : 0"
-        :is-heading="cell.isHeading"
-        :is-media="cell.isMedia"
-        :is-metadata="cell.isMetadata"
-        :is-figure="cell.isFigure"
-        :is-table="cell.isTable"
-        :type="cell.type"
-        :idx="index"
-        :debug="debug"
-      />
+      <template v-for="(cell, index) in cells">
+        <TextFingerprintCell
+          v-if="cell.value !== '\n'"
+          :key="index"
+          :theta="index * angleD - Math.PI / 2"
+          :origin-radius="radius"
+          :circle-radius="scaleNumChars(cell.countChars) / 10"
+          :offset-radius="
+            // if isMedia, inWard, if is heading is 0
+            cell.isMedia ? scaleNumChars(cell.countChars) * -1 : scaleNumChars(cell.countChars) * 1
+          "
+          :refs-radius="cell.countRefs ? scaleNumRefs(cell.countRefs) : 0"
+          :is-heading="cell.isHeading"
+          :is-media="cell.isMedia"
+          :is-metadata="cell.isMetadata"
+          :is-figure="cell.isFigure"
+          :is-table="cell.isTable"
+          :type="cell.type"
+          :idx="index"
+          :debug="debug"
+        />
+      </template>
     </g>
   </svg>
 </template>
 <script>
 import { scalePow } from 'd3-scale'
-
 // export component
 export default {
   props: {
@@ -86,7 +87,7 @@ export default {
     margin: {
       required: false,
       type: Number,
-      default: 20,
+      default: 28,
     },
     variant: {
       required: false,
@@ -98,30 +99,33 @@ export default {
     return {
       radius: ((this.size / 2 - this.margin) * 2) / 3,
       // value radius, this give us extra safety margin.
-      maxNumCharsRadius: this.radius / 2,
+      maxNumCharsRadius: ((this.size / 2 - this.margin) * 2) / 3 / 2,
       maxNumRefsRadius: 5,
       angleD: (Math.PI * 2) / (this.cells.length + 1),
-      scaleNumChars: scalePow() // linear, commented out
-        // .exponent(1)
-        // with powerscale, exponent 0.25
-        .exponent(0.25)
-        .domain((this.stats && this.stats.countChars) || [0, 1])
-        .range([0, this.maxNumCharsRadius]),
-      scaleNumRefs: scalePow() // linear, commented out
-        // .exponent(1)
-        // with powerscale, exponent 0.25
-        .exponent(0.25)
-        .domain((this.stats && this.stats.extentChars) || [0, 1])
-        .range([0, this.maxNumCharsRadius]),
     }
   },
   mounted() {
-    console.log('cells', this.cells)
+    console.log('cells', this.scaleNumChars(this.cells[2].countChars))
   },
   methods: {
-    // this is the scale function linked to the total numbers of characters in a cell.
-    // th scaled value is a number comprised between 0 and baseRadius
-    // according to the number of characters
+    scaleNumChars(n) {
+      const pow = scalePow() // linear, commented out
+        // .exponent(1)
+        // with powerscale, exponent 0.25
+        .domain(this.stats.extentChars || [0, 1])
+        .range([0, this.maxNumCharsRadius])
+        .exponent(0.25)
+      return pow(n)
+    },
+    scaleNumRefs(n) {
+      const pow = scalePow() // linear, commented out
+        // .exponent(1)
+        // with powerscale, exponent 0.25
+        .domain(this.stats.extentChars || [0, 1])
+        .range([0, this.maxNumCharsRadius])
+        .exponent(0.25)
+      return pow(n)
+    },
   },
 }
 </script>

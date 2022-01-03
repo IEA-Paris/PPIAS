@@ -2,8 +2,8 @@
   <v-row class="transition-swing flex-row-reverse">
     <v-col :cols="toc ? 9 : 12" class="transition-swing">
       <div :id="(item.anchor && item.anchor.toLowerCase()) || item.post_title" flat v-bind="$attrs" class="mx-6">
-        <div class="sidebtn" :class="title ? '' : 'shadow'">
-          <div class="d-flex align-center pt-3 pb-1">
+        <div class="sidebtn">
+          <div class="d-flex align-center pt-3 pb-1 shadower" :class="title ? '' : 'shadow'">
             <v-tooltip bottom>
               <template #activator="{ on, attrs }">
                 <v-btn tile text v-bind="attrs" class="pa-7" @click="toc = !toc" v-on="on">
@@ -18,37 +18,15 @@
             <span v-if="!toc && !title" class="transition-swing text-h6 ml-6">
               {{ item.article_title }}
             </span>
-            <Search />
+            <v-spacer></v-spacer>
+            <!--  <Search /> -->
             <ZenArticle :item="item" />
-
-            <v-tooltip bottom>
-              <template #activator="{ on, attrs }">
-                <v-btn
-                  text
-                  class="py-7 px-6"
-                  tile
-                  v-bind="attrs"
-                  nuxt
-                  :href="'/articles/' + item.slug"
-                  target="_blank"
-                  :title="item.post_title"
-                  small
-                  v-on="on"
-                >
-                  <v-icon>mdi-open-in-new</v-icon>
-                </v-btn>
-              </template>
-              <span>Open in a new tab</span>
-            </v-tooltip>
           </div>
         </div>
 
         <!--         <v-card-title>
           <span class="text-h4" v-html="highlight(item.article_title, $route.query.search)"></span>
         </v-card-title> -->
-        <div class="px-3">
-          <Tag v-for="(tag, index2) in sortedTags" :key="index2" :tag="tag" class="ma-1"></Tag>
-        </div>
 
         <v-card-text>
           <YoutubeEmbed v-if="item.youtube_video_id" :yt="item.youtube_video_id" class="mb-9 ml-3"></YoutubeEmbed>
@@ -84,19 +62,7 @@
               Read&nbsp;more
             </b>
           </p>
-          <nuxt-content v-show="$route.name !== 'blog' || show || !item.description" :document="item" />
-          <template v-if="item.authors.length">
-            <div class="mb-3 px-3 font-italic">
-              By
-              <template v-if="item.authors.length === 2">
-                {{ item.authors[0].name + ' and ' + item.authors[1].name }}
-              </template>
-              <span v-for="(author, index2) in item.authors" v-else :key="index2">
-                {{ author.name }}
-                <template v-if="index2 < item.authors.length - 1">,&nbsp;</template>
-              </span>
-            </div>
-          </template>
+          <nuxt-content :document="item" style="max-width: 650px" />
           <SoundCloud v-for="(track, index2) in item.audio" :key="index2" :src="track" />
         </v-card-text>
 
@@ -133,10 +99,8 @@
   </v-row>
 </template>
 <script>
-import ZenArticle from './ZenArticle.vue'
 import truncateString from '~/assets/utils/truncate'
 export default {
-  components: { ZenArticle },
   props: {
     item: {
       type: Object,
@@ -160,20 +124,9 @@ export default {
       sheet: false,
     }
   },
-  computed: {
-    sortedTags() {
-      return this.$route.query?.tags?.length
-        ? this.item.tags.reduce((acc, tag) => {
-            if (this.$route.query.tags && this.$route.query.tags.includes(JSON.stringify(tag))) {
-              return [tag, ...acc]
-            }
-            return [...acc, tag]
-          }, [])
-        : this.item.tags
-    },
-  },
+  computed: {},
   mounted() {
-    console.log(this.item.body.children)
+    console.log(this.item)
     this.observer = new IntersectionObserver((entries) => {
       entries.forEach((entry) => {
         const id = entry.target.getAttribute('id')
@@ -240,11 +193,13 @@ export default {
   align-self: flex-start;
   margin-left: -1.5rem;
   margin-right: -1.5rem;
+  overflow: hidden;
+  padding-bottom: 10px;
 }
-.sidebtn.shadow {
-  -webkit-box-shadow: 0 4px 6px -6px #222;
-  -moz-box-shadow: 0 4px 6px -6px #222;
-  box-shadow: 0 4px 6px -6px #222;
+.sidebtn .shadower.shadow {
+  -moz-box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
 }
 .footnotes {
   color: red;

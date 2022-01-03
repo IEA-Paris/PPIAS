@@ -2,11 +2,20 @@
   <ArticleContainer :item="item[0]">
     <div v-intersect="onIntersect"></div>
     <Article v-if="item.length" :item="item[0]" :title="show"></Article>
-    <v-bottom-sheet v-model="showNote" hide-overlay>
-      <v-sheet class="text-center d-flex flex-grow-1" color="red">
-        <div class="py-3">{{ note }}</div>
-      </v-sheet>
-    </v-bottom-sheet>
+    <v-snackbar v-model="showNote" multi-line timeout="-1" outlined style="mt-0" class="note-snack">
+      <div class="d-flex" align="end">
+        <b class="mb-2">Footnote {{ noteIndex }}</b>
+        <v-tooltip bottom>
+          <template #activator="{ on, attrs }">
+            <v-btn small icon v-bind="attrs" class="ml-auto" v-on="on" @click="hideSnack">
+              <v-icon>mdi-close</v-icon>
+            </v-btn>
+          </template>
+          <span>close</span>
+        </v-tooltip>
+      </div>
+      <div class="mt-2" v-html="note"></div>
+    </v-snackbar>
   </ArticleContainer>
 </template>
 <script>
@@ -16,9 +25,10 @@ export default {
       console.log('to.hash.substring(4): ', to.hash.substring(4))
       this.note = this.item[0].footnotes[+to.hash.substring(4) - 1]
       this.showNote = true
+      this.noteIndex = +to.hash.substring(4)
       console.log('this.item[0]: ', this.item[0])
       console.log(' this.note: ', this.note)
-
+      window.addEventListener('scroll', this.hideSnack)
       next(from.path)
     } else {
       next()
@@ -38,6 +48,7 @@ export default {
   },
   data() {
     return {
+      noteIndex: 1,
       showNote: false,
       show: false,
       tab: 0,
@@ -53,7 +64,15 @@ export default {
       // is located here: https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
       this.show = entries[0].isIntersecting
     },
+    hideSnack() {
+      this.showNote = false
+      window.removeEventListener('scroll', this.hideSnack)
+    },
   },
 }
 </script>
-<style lang="scss"></style>
+<style lang="scss">
+.note-snack .v-snack__content {
+  padding-right: 0;
+}
+</style>

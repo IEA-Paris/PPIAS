@@ -1,6 +1,11 @@
 <template>
-  <div class="page-title text-center" :class="$store.state.scrolled ? 'mb-12' : 'mb-6'">
-    {{ $t(text) }}
+  <div class="d-flex align-center flex-column">
+    <div class="page-title" :class="$store.state.scrolled ? 'mb-12' : 'mb-6'">
+      {{ $t(text) }}
+    </div>
+    <!--     <v-divider style="width: 120px"></v-divider>
+    <v-divider style="width: 120px" class="mt-1"></v-divider> -->
+    <div class="text-body-1 mt-3"><slot></slot></div>
   </div>
 </template>
 <script>
@@ -22,7 +27,7 @@ export default {
 <style lang="scss">
 .page-title {
   font-family: 'Bodonis Moda';
-  font-size: 4rem !important;
-  font-weight: 700 !important;
+  font-size: 3rem !important;
+  font-weight: 500 !important;
 }
 </style>
