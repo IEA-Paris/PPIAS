@@ -8,8 +8,8 @@ keywords:
 - Public Health
 - Human Behaviours, Social Relations
 - 'Work, Welfare, Social protection '
-date: 2020-08-31T22:00:00Z
-article_title: 'Covid 19 and employment upheavals: worried employees'
+date: 2020-08-31T22:00:00.000+00:00
+article_title: 'Memorandum 5 '
 authors: []
 picture: ''
 picture_copyright: ''
