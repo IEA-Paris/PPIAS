@@ -2,36 +2,50 @@
 issue: content/issues/10-12-2021.md
 category: Article
 keywords:
-- 'Public Health '
-- 'Leisure, Tourism '
-- 'Human Behaviours, Social Relations '
-- 'Environmental change, Ecology '
-- Cities, Mobility, Urban Planning
-- Democracy, Civil Society, Governance
-- 'Agriculture, Alimentation '
-- 'Public Discourse, Rhetorics, Communication '
-- 'Public Policy, Evaluation, Impact '
-- Consumption and Production Patterns
-- 'Inequalities, Poverty, Development '
-- Environmental Studies
-- Health and well-being
-- Urban nature
-- wildland recreation
-- outcomes
-- personal development
-- " outdoor recreation"
+  - 'Public Health '
+  - 'Leisure, Tourism '
+  - 'Human Behaviours, Social Relations '
+  - 'Environmental change, Ecology '
+  - Cities, Mobility, Urban Planning
+  - Democracy, Civil Society, Governance
+  - 'Agriculture, Alimentation '
+  - 'Public Discourse, Rhetorics, Communication '
+  - 'Public Policy, Evaluation, Impact '
+  - Consumption and Production Patterns
+  - 'Inequalities, Poverty, Development '
+  - Environmental Studies
+  - Health and well-being
+  - Urban nature
+  - wildland recreation
+  - outcomes
+  - personal development
+  - ' outdoor recreation'
 date: 2020-12-31T23:00:00Z
 article_title: 'Covid-19 and environment: citizens in search of proximity with nature'
-authors: []
 picture: ''
 picture_copyright: ''
 yt: ''
 published: false
 pinned: false
 bibliography: ''
-redactors: []
-
+authors:
+  - firstname: 'Atrina '
+    lastname: Oraee
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
 ---
+
 # Covid-19 and environment: citizens in search of proximity with nature - Memorandum 9
 
 The measures taken by governments to limit the spread of Covid-19, particularly containment, have restricted the opportunities for people to access nature. These restrictions have affected individuals and put at the heart of the debate the role of the link to nature for mental and physical well-being. Beyond this, the pandemic and containment have led to changes in the perceptions of time and space : part of the population is questioning its relationship with its surroundings and its way of life. According to researcher [Anne Caroline Prévot](https://usbeketrica.com/fr/article/le-confinement-pourrait-nous-rapprocher-de-la-nature), containment could thus bring us closer to nature. Are we heading towards major upheavals in terms of urban planning, food, or leisure practices? Will the pandemic profoundly transform the relationship between individuals and their environment in a more ecological perspective?
@@ -44,7 +58,7 @@ Confinement has led part of the population to become aware of the benefits of th
 
 ### _Free access to nature called into question by health measures_
 
-During the first confinement in France and in several countries, the possibilities of access to nature were totally closed (urban parks, forests, beaches, mountains, etc.). These restrictions caused a feeling of lack among part of the population. This lack may have generated an awareness because there is an increase in the expression of the need to connect with nature. According to a [YouGov survey](https://docs.cdn.yougov.com/8o6yrvtw18/Results%20for%20YouGov%20FR%20(Nature%20et%20%C3%A9vasion)%20128%2018.6.2020.pdf) conducted on June 17 and 18 on 1000 respondents representative of the population, 67% of French people feel that they have missed nature during the confinement and 67% that they intend to enjoy this nature during the summer. Major protests and petitions had taken place during the first confinement to ask for the reopening of natural spaces, which shows that the ban was difficult to implement. In the United States, a University of Pennsylvania study available on WPRN measured changes in outdoor activity practices at the height of the pandemic. The 1,000 respondents consulted in 3 phases were regular practitioners of outdoor activities. The study found a sharp decline in nature-related activities that primarily affected urban dwellers. Moreover, half of the respondents believe that the pandemic will change their leisure experiences in the long term. The change most frequently cited is a more frequent use of local natural areas.
+During the first confinement in France and in several countries, the possibilities of access to nature were totally closed (urban parks, forests, beaches, mountains, etc.). These restrictions caused a feeling of lack among part of the population. This lack may have generated an awareness because there is an increase in the expression of the need to connect with nature. According to a [YouGov survey](<https://docs.cdn.yougov.com/8o6yrvtw18/Results%20for%20YouGov%20FR%20(Nature%20et%20%C3%A9vasion)%20128%2018.6.2020.pdf>) conducted on June 17 and 18 on 1000 respondents representative of the population, 67% of French people feel that they have missed nature during the confinement and 67% that they intend to enjoy this nature during the summer. Major protests and petitions had taken place during the first confinement to ask for the reopening of natural spaces, which shows that the ban was difficult to implement. In the United States, a University of Pennsylvania study available on WPRN measured changes in outdoor activity practices at the height of the pandemic. The 1,000 respondents consulted in 3 phases were regular practitioners of outdoor activities. The study found a sharp decline in nature-related activities that primarily affected urban dwellers. Moreover, half of the respondents believe that the pandemic will change their leisure experiences in the long term. The change most frequently cited is a more frequent use of local natural areas.
 
 Symmetrically, when access to nature was possible, it was strongly favored. In the Nordic countries, confinement was less strict, and access to nature was encouraged. A study of the city of Oslo surveyed on WPRN measured the rate of use of natural areas using mobile and Google location data. It shows that the use of nature has increased considerably during confinement. It has increased almost fourfold compared to the average of the previous three years for the same period. People going out into nature every day accounted for almost one sixth of Oslo’s population. The more remote and wilderness trails were, the more people used them. For the authors, this over-use is explained by the fact that nature provides a refuge from the stress created by the crisis. They also hypothesize that the practice of leisure activities in the wilderness, allowing social distancing, played an important role in the fight against the spread of the virus. Similar results were found in Sweden, as summarized in this [study](https://osf.io/3wx5a/).
 

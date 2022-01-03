@@ -30,21 +30,50 @@
         </v-container>
       </template>
       <template #default="props">
-        <v-container :fluid="layout.fluid">
-          <v-row :no-gutters="layout.nogutters" justify="center" class="transition-swing mt-6">
-            <component
-              :is="type.charAt(0).toUpperCase() + type.slice(1) + 'Item'"
-              v-for="item in props.items"
-              :key="item.id"
-              :item="item"
-              v-bind="$attrs"
-              :cols="layout.cols"
-              :xs="layout.xs"
-              :sm="layout.sm"
-              :md="layout.md"
-              :ld="layout.ld"
-              :xl="layout.xl"
-            ></component>
+        <v-container
+          v-scroll="onScroll"
+          class="transition-swing"
+          :fluid="!$store.state.scrolled"
+          :class="{ 'py-0': !$store.state.scrolled }"
+        >
+          <v-row
+            v-for="section in Math.ceil(options.itemsPerPage / 3)"
+            :key="section"
+            class="transition-swing"
+            :no-gutters="!$store.state.scrolled"
+            :class="[$store.state.scrolled ? '' : 'mx-12', { 'mt-6': section === 1 }]"
+          >
+            <v-col cols="12" md="6" lg="8" class="transition-swing" :order="section % 2 ? 'first' : 'last'">
+              <component
+                :is="type.charAt(0).toUpperCase() + type.slice(1) + 'Item'"
+                v-if="props.items[(section - 1) * 3]"
+                :item="props.items[(section - 1) * 3]"
+                v-bind="$attrs"
+                :scroll="$store.state.scrolled"
+              ></component>
+            </v-col>
+            <v-col cols="12" md="6" lg="4">
+              <v-row :no-gutters="!$store.state.scrolled">
+                <v-col cols="12" class="transition-swing">
+                  <component
+                    :is="type.charAt(0).toUpperCase() + type.slice(1) + 'Item'"
+                    v-if="props.items[(section - 1) * 3 + 1]"
+                    :item="props.items[(section - 1) * 3 + 1]"
+                    v-bind="$attrs"
+                    :scroll="$store.state.scrolled"
+                  ></component>
+                </v-col>
+                <v-col cols="12" class="transition-swing">
+                  <component
+                    :is="type.charAt(0).toUpperCase() + type.slice(1) + 'Item'"
+                    v-if="props.items[(section - 1) * 3 + 2]"
+                    :item="props.items[(section - 1) * 3 + 2]"
+                    v-bind="$attrs"
+                    :scroll="$store.state.scrolled"
+                  ></component>
+                </v-col>
+              </v-row>
+            </v-col>
           </v-row>
         </v-container>
       </template>
@@ -161,9 +190,9 @@ export default {
     return {
       search: this.$route.query.search || '',
       filter: {},
-      itemsPerPageArray: [4, 8, 12],
+      itemsPerPageArray: [9, 15, 21],
       options: {
-        itemsPerPage: 10,
+        itemsPerPage: 9,
         page: this.$route.query.page || 1,
         sortBy: [],
         sortDesc: [true],
@@ -197,7 +226,11 @@ export default {
 
   created() {},
   updated() {},
-  methods: {},
+  methods: {
+    onScroll() {
+      this.$store.commit('setScrolled')
+    },
+  },
 }
 </script>
 <style lang="scss"></style>

@@ -7,6 +7,7 @@
     to="/"
   >
     <OptimizedImage
+      v-if="item.image"
       :src="item.image"
       :expanded="scroll"
       :class="{ expanded: scroll }"
@@ -23,6 +24,7 @@
         {{ item.date }}
       </template>
     </OptimizedImage>
+    <TextFingerprint v-else :cells="cells" :stats="stats" :size="size"></TextFingerprint>
   </v-card>
 </template>
 <script>
@@ -40,25 +42,43 @@ export default {
       default: false,
     },
     item: {
-      default: () => {
-        const rnd = Math.floor(Math.random() * (100 + 1))
-        return {
-          image: 'https://picsum.photos/seed/' + Math.floor(Math.random() * 10) + 1 + '/600/400',
-          title: quotes[rnd].quote,
-          author: quotes[rnd].author,
-          tags: [tags[1], tags[0]],
-          date: 'Tue 8, May 22',
-        }
-      },
+      required: true,
       type: Object,
     },
   },
   data() {
     return {
       quotes,
+      size: 250,
+      cells: this.item?.body?.children.map((child, index) => {
+        return {
+          ...child,
+          countChars: this.item.countMap[index],
+          countRefs: Math.floor(this.item.countRefs[index]),
+        }
+      }),
+      stats: {
+        countRefs: Math.floor(this.item.countRefs.length / 2),
+        countLines: this.item.countMap?.length,
+        countChars: this.item.countMap.reduce((partialSum, a) => partialSum + a, 0),
+        countContributors: 3,
+        countHeadings: this.item?.toc?.length,
+        countMediaCells: 2,
+        countCodeCells: 10,
+        countCells: this.item.body.children.length,
+        extentChars: [Math.min(...this.item.countMap), Math.max(...this.item.countMap)],
+        extentRefs: [Math.min(...this.item.countRefs), Math.max(...this.item.countRefs)],
+      },
     }
   },
-  methods: {},
+  methods: {
+    matchWidth() {
+      const widthString = this.$refs
+      console.log('widthString: ', widthString)
+      this.size = widthString
+      this.$set(this.$refs.articleBox, 'width', widthString)
+    },
+  },
 }
 </script>
 <style></style>

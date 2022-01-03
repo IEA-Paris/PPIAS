@@ -2,28 +2,42 @@
 issue: content/issues/10-12-2021.md
 category: Article
 keywords:
-- 'Equality & Diversity Studies '
-- Human Behaviours, Social Relations
-- 'Inequalities, Poverty, Development '
-- 'Work, Welfare, Social protection '
-- 'Public Health '
-- 'Big Data, Artificial Intelligence '
-- 'Public Policy, Evaluation, Impact '
-- 'Dataset, Data Mining '
-- 'Policy Document '
+  - 'Equality & Diversity Studies '
+  - Human Behaviours, Social Relations
+  - 'Inequalities, Poverty, Development '
+  - 'Work, Welfare, Social protection '
+  - 'Public Health '
+  - 'Big Data, Artificial Intelligence '
+  - 'Public Policy, Evaluation, Impact '
+  - 'Dataset, Data Mining '
+  - 'Policy Document '
 date: 2020-09-30T22:00:00Z
 article_title: 'Gendered Responses and Marked Inequalities: The Pandemic as a Revealer
   of Gender Injustice'
-authors: []
 picture: ''
 picture_copyright: ''
 yt: ''
 published: false
 pinned: false
 bibliography: ''
-redactors: []
-
+authors:
+  - firstname: 'Atrina '
+    lastname: Oraee
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
 ---
+
 # Gendered Responses and Marked Inequalities: The Pandemic as a Revealer of Gender Injustice - Memorandum 6
 
 Gender inequalities are structuring in our society: unequal pay, unequal distribution of household chores and family life, and violence against women remain major social facts. The field of gender studies has become increasingly important in the academic

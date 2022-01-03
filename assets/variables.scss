@@ -91,6 +91,10 @@ $material-light: (
   'chips': #ffffff,
 );
 $stepper-elevation: 0;
+
+.v-card__title {
+  word-break: normal;
+}
 .theme--light .display-4,
 .display-2,
 .title,

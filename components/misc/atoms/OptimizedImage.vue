@@ -146,6 +146,6 @@ export default {
   text-shadow: 1px 1px 0 alpha(black, 0.6);
 }
 .expanded .v-image {
-  padding-top: 24px !important;
+  padding-top: 12px !important;
 }
 </style>

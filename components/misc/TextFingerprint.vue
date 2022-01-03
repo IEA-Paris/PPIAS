@@ -1,12 +1,43 @@
 <template>
-  <svg
-    :class="'ArticleFingerprint d-absolute' + variant"
-    xmlns="http://www.w3.org/2000/svg"
-    :width="size"
-    :height="size"
-  >
-    <g :transform="'translate(' + size / 2 + ', ' + size / 2 + ')'">
-      <!--      {debug ? ( // outer circle (narrative layer)
+  <div class="frame">
+    <div class="overlay">
+      <div class="top">
+        <div class="d-flex">
+          <!--     <template v-for="(tag, index) in tags"> -->
+          <v-chip color="green" label class="white--text">
+            {{ $t('article') }}
+          </v-chip>
+          <!--           </template> -->
+        </div>
+        <span id="caption-content">
+          <slot name="caption"></slot>
+          <br />
+        </span>
+        <div id="caption-author">
+          <slot name="author"></slot>
+          <div></div>
+        </div>
+      </div>
+      <div v-if="tags.find((tag) => tag.text === 'event')" class="bottom">
+        <span id="caption-date">
+          <slot name="date"></slot>
+        </span>
+      </div>
+    </div>
+    <svg
+      :class="'article-fingerprint d-flex' + variant"
+      xmlns="http://www.w3.org/2000/svg"
+      :width="size"
+      :height="size"
+    >
+      <rect id="overlay" width="100%" height="100%" fill="url(#g1)" />
+      <!--  handled by parent component css  
+       <linearGradient id="g1" x1="1" y1="1" x2="0">
+        <stop stop-color="#2d3436" />
+        <stop offset=".74" stop-color="#000000" />
+      </linearGradient> -->
+      <g :transform="'translate(' + size / 2 + ', ' + size / 2 + ')'">
+        <!--      {debug ? ( // outer circle (narrative layer)
             <circle
               cx={0}
               cy={0}
@@ -33,37 +64,58 @@
               r={radius}
             />
           ) : null} -->
-      <circle :cx="0" :cy="0" stroke="var(--secondary)" fill="transparent" :r="radius" />
-      <template v-for="(cell, index) in cells">
-        <TextFingerprintCell
-          v-if="cell.value !== '\n'"
-          :key="index"
-          :theta="index * angleD - Math.PI / 2"
-          :origin-radius="radius"
-          :circle-radius="scaleNumChars(cell.countChars) / 10"
-          :offset-radius="
-            // if isMedia, inWard, if is heading is 0
-            cell.isMedia ? scaleNumChars(cell.countChars) * -1 : scaleNumChars(cell.countChars) * 1
-          "
-          :refs-radius="cell.countRefs ? scaleNumRefs(cell.countRefs) : 0"
-          :is-heading="cell.isHeading"
-          :is-media="cell.isMedia"
-          :is-metadata="cell.isMetadata"
-          :is-figure="cell.isFigure"
-          :is-table="cell.isTable"
-          :type="cell.type"
-          :idx="index"
-          :debug="debug"
-        />
-      </template>
-    </g>
-  </svg>
+        <circle fill="url(#bgGradient)" :cx="0" :cy="0" :r="radius" />
+        <template v-for="(cell, index) in cells">
+          <TextFingerprintCell
+            v-if="cell.value !== '\n'"
+            :key="index"
+            :index="index"
+            :theta="index * angleD - Math.PI / 2"
+            :origin-radius="radius"
+            :circle-radius="scaleNumChars(cell.countChars) / 10"
+            :offset-radius="
+              // if isMedia, inWard, if is heading is 0
+              cell.isHeading
+                ? scaleNumChars(cell.countChars) * -1
+                : cell.isMedia
+                ? scaleNumChars()
+                : scaleNumChars(cell.countChars) * 1
+            "
+            :refs-radius="cell.countRefs ? scaleNumRefs(cell.countRefs) : 0"
+            :is-heading="cell.isHeading"
+            :is-media="cell.isMedia"
+            :is-metadata="cell.isMetadata"
+            :is-figure="cell.isFigure"
+            :is-table="cell.isTable"
+            :type="cell.type"
+            :idx="index"
+            :debug="debug"
+            :radius="radius"
+          />
+        </template>
+      </g>
+    </svg>
+  </div>
 </template>
 <script>
 import { scalePow } from 'd3-scale'
 // export component
 export default {
   props: {
+    ratio: { type: Number, default: 16 / 9 },
+    height: { type: [Number, String], default: 500 },
+    src: {
+      type: String,
+      default: '/img/header-bg.jpg',
+    },
+    tags: {
+      type: Array,
+      required: true,
+    },
+    expanded: {
+      type: Boolean,
+      default: false,
+    },
     stats: {
       required: false,
       type: Object,
@@ -104,11 +156,9 @@ export default {
       angleD: (Math.PI * 2) / (this.cells.length + 1),
     }
   },
-  mounted() {
-    console.log('cells', this.scaleNumChars(this.cells[2].countChars))
-  },
+  mounted() {},
   methods: {
-    scaleNumChars(n) {
+    scaleNumChars(n = this.maxNumCharsRadius / 2) {
       const pow = scalePow() // linear, commented out
         // .exponent(1)
         // with powerscale, exponent 0.25
@@ -129,4 +179,97 @@ export default {
   },
 }
 </script>
-<style lang="scss"></style>
+
+<style>
+.frame {
+  overflow: hidden;
+  margin: 1rem;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  z-index: 2;
+  justify-content: space-between;
+}
+.top {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  text-align: right;
+}
+
+.v-image {
+  -webkit-transition: all 0.6s ease-in-out;
+  transition: all 0.6s ease-in-out;
+  z-index: 1;
+}
+.overlay:hover + .v-image {
+  -ms-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  transform: scale(1.1);
+  opacity: 0.6;
+}
+#caption-content,
+#caption-author,
+#caption-date {
+  background-position: 0;
+  background-size: 200%;
+  transition: all 0.6s ease-in;
+  text-align: right;
+  text-decoration: none;
+  max-width: 66%;
+}
+#caption-content {
+  font-size: 1.2rem;
+  line-height: 1.6rem;
+  text-decoration: none;
+  text-shadow: 1px 1px 0 alpha(white, 0.6);
+  padding: 12px;
+  color: black;
+  background-image: linear-gradient(to left, white 100%, black 100%);
+  text-transform: uppercase;
+}
+#caption-author {
+  padding: 4px;
+  color: white;
+  background-image: linear-gradient(to left, black 100%, white 100%);
+  line-height: 2.2rem;
+  font-weight: 600;
+  text-shadow: 1px 1px 0 alpha(black, 0.6);
+}
+.overlay:hover #caption-content {
+  /*   line-height: 2.2rem;
+  font-size: 1.3rem; */
+}
+.overlay:hover #caption-author {
+}
+#caption-date {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  color: black;
+  background-image: linear-gradient(to left, white 100%, black 100%);
+  font-size: 1.2rem;
+  line-height: 2.2rem;
+  text-shadow: 1px 1px 0 alpha(black, 0.6);
+}
+.expanded .v-image {
+  padding-top: 12px !important;
+}
+#caption-author:after {
+  content: '';
+  width: 60px;
+  height: 2px;
+  background: rgb(76, 175, 80);
+  z-index: 3;
+  display: flex;
+}
+</style>

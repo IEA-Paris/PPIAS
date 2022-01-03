@@ -1,7 +1,7 @@
 ---
 issue: content/issues/10-12-2021.md
 category: Article
-keywords:
+tags:
   - 'Artificial Intelligence '
   - 'Public Health '
   - Democracy, Civil Society, Governance
@@ -15,14 +15,28 @@ keywords:
 date: 2020-05-31T22:00:00Z
 article_title: 'Tracking for Covid 19: An experimental method more  than a «miracle»
   solution '
-authors: []
 picture: '/images.jpeg'
 picture_copyright: ''
 yt: ''
-published: false
+published: true
 pinned: false
 bibliography: ''
-redactors: []
+authors:
+  - firstname: 'Atrina '
+    lastname: Oraee
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
 ---
 
 Tracking refers here to the use of digital systems to identify or track an individual. In the context of the coronavirus pandemic, tracking, through its ability to find individuals likely to have been contaminated in order to isolate or test them, has emerged as one of the methods that can fight against the spread of the virus.

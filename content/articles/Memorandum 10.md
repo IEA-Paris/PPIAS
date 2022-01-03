@@ -2,33 +2,47 @@
 issue: content/issues/10-12-2021.md
 category: Article
 keywords:
-- Agriculture
-- Food environments
-- Food security
-- Nutrition
-- " Rural development"
-- Sustainable development
-- Cities, Mobility, Urban Planning
-- 'Human Behaviours, Social Relations '
-- 'Environmental change, Ecology '
-- 'Public Policy, Evaluation, Impact '
-- 'Public Discourse, Rhetorics, Communication '
-- 'Risks, Crisis Management '
-- 'Religions and Worldviews '
-- Consumption and Production Patterns
-- Work, Welfare, Social protection
+  - Agriculture
+  - Food environments
+  - Food security
+  - Nutrition
+  - ' Rural development'
+  - Sustainable development
+  - Cities, Mobility, Urban Planning
+  - 'Human Behaviours, Social Relations '
+  - 'Environmental change, Ecology '
+  - 'Public Policy, Evaluation, Impact '
+  - 'Public Discourse, Rhetorics, Communication '
+  - 'Risks, Crisis Management '
+  - 'Religions and Worldviews '
+  - Consumption and Production Patterns
+  - Work, Welfare, Social protection
 date: 2021-01-31T23:00:00Z
 article_title: 'COVID-19 and food: the search for food security at the heart of households'
-authors: []
 picture: ''
 picture_copyright: ''
 yt: ''
 published: false
 pinned: false
 bibliography: ''
-redactors: []
-
+authors:
+  - firstname: 'Atrina '
+    lastname: Oraee
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
 ---
+
 # COVID-19 and food: the search for food security at the heart of households - Memorandum 10
 
 The image of empty supermarket shelves is one of those that will remain from the announcement of the first containment. The Europeans practiced the «Hamsterkauf» as named by the German speakers: they stocked up on hamsters. This rush on food supplies, especially rice and pasta, shows that even before thinking about the disease, for many people, the first thing they worried about was the risk of running out of food. A striking phenomenon at the center of affluent societies. Food stores were suddenly highlighted as «essential» and food with it. In times of confinement, it becomes central again: one can no longer delegate it or forget its role, as is often the case in the West, due to its easy access and urban lifestyles. The major role of food is exacerbated : setting the rhythm of a daily time that stretches to infinity, regulating emotions, at the center of constrained social interactions and anxieties about the risk of food insecurity.
@@ -59,7 +73,7 @@ Food has become a key element in the emotional health of the respondents, throug
 
 ## An explosion in the demand for food aid
 
-In France, many households «plunged» below the food distress line, through loss of income or increased expenses (for example, for families whose children had free access to the canteen). The CNRS survey underlines that this is evidence of a massive influx of people who have until now managed to feed themselves without outside help, and that these people are new audiences for food aid organizations. A study conducted at Princeton University, listed on WPRN, reveals that the number of applications to the U.S. food voucher program has also soared (for example, they have increased fivefold in Vermont). Between April and June, as a result of the pandemic, more than half of those already in the program reported skipping meals and relying on relatives or associations to eat. 
+In France, many households «plunged» below the food distress line, through loss of income or increased expenses (for example, for families whose children had free access to the canteen). The CNRS survey underlines that this is evidence of a massive influx of people who have until now managed to feed themselves without outside help, and that these people are new audiences for food aid organizations. A study conducted at Princeton University, listed on WPRN, reveals that the number of applications to the U.S. food voucher program has also soared (for example, they have increased fivefold in Vermont). Between April and June, as a result of the pandemic, more than half of those already in the program reported skipping meals and relying on relatives or associations to eat.
 
 Worldwide, the figures are even more alarming. According to the [UN report](https://www.fao.org/policy-support/tools-and-publications/resources-details/fr/c/1287907/) The impact of COVID-19 on food security and nutrition, between February and June 2020, measures introduced to curb the spread of COVID-19 may already have pushed up to 45 million people into acute food insecurity, the majority of them in South and Southeast Asia (33 million), and most of the rest in sub-Saharan Africa. In India, in the first four weeks after the announcement of the containment, poor households lost 88% of their average weekly income compared to the previous year, and had to reduce meal portions and consume less food (study conducted by Virginia Tech, listed on the WPRN.) Central Africa, already affected by droughts, has seen its production fall as a result of measures imposed to contain the spread of the virus. The UN report highlights the dramatic impact that the crisis could have on global food security.
 

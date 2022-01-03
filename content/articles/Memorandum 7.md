@@ -2,27 +2,41 @@
 issue: content/issues/10-12-2021.md
 category: Article
 keywords:
-- Big Data, Artificial Intelligence
-- 'Equality & Diversity Studies '
-- 'Human Behaviours, Social Relations '
-- 'Public Discourse, Rhetorics, Communication '
-- Public Health
-- 'Culture and The Arts '
-- 'Innovation, R&D '
-- 'Violence, Criminality, Security '
-- Risks, Crisis Management
+  - Big Data, Artificial Intelligence
+  - 'Equality & Diversity Studies '
+  - 'Human Behaviours, Social Relations '
+  - 'Public Discourse, Rhetorics, Communication '
+  - Public Health
+  - 'Culture and The Arts '
+  - 'Innovation, R&D '
+  - 'Violence, Criminality, Security '
+  - Risks, Crisis Management
 date: 2020-10-31T23:00:00Z
 article_title: Covid 19 and the media
-authors: []
 picture: ''
 picture_copyright: ''
 yt: ''
 published: false
 pinned: false
 bibliography: ''
-redactors: []
-
+authors:
+  - firstname: 'Atrina '
+    lastname: Oraee
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
 ---
+
 # Covid 19 and the media: the reinforced impact of traditional media does not prevent the spread of false information - Memorandum 7
 
 During the Covid 19 pandemic, the media was the main relay of information and had a strong impact on the perception of the crisis by citizens, on the acceptance of sanitary measures or on the propagation of conspiracy theories or false information. The Covid

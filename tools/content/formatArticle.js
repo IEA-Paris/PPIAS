@@ -27,6 +27,8 @@ export default (document, database) => {
         return {
           type: 'element',
           tag: 'div',
+          isHeading: ['h2', 'h3'].includes(child.tag),
+          isMedia: ['youtube'].includes(child.tag),
           props: { class: 'node d-flex' },
           children: [
             {
