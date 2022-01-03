@@ -5,8 +5,6 @@ titles_and_institutions:
 - titles:
   - Assistant Professor
   institution: Ohio University - College of Arts and Sciences
-- titles: []
-  institution: ''
 picture: ''
 picture_copyright: ''
 social_channels:
