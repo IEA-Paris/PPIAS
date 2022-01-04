@@ -120,5 +120,6 @@
   "name": "Name",
   "tags": "Tags",
   "timezone": "Timezone",
-  "description": "Description"
+  "description": "Description",
+  "filters": "Filters"
 }

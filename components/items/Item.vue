@@ -73,7 +73,7 @@ export default {
   },
   methods: {
     matchWidth() {
-      const widthString = this.$refs
+      const widthString = this.$refs.articleBox.clientWidth + 'px'
       console.log('widthString: ', widthString)
       this.size = widthString
       this.$set(this.$refs.articleBox, 'width', widthString)

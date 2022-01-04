@@ -28,7 +28,7 @@
     />
 
     <path
-      :id="'circlePath' + theta"
+      :id="'circlePath' + Math.round((theta + index + offsetRadius) * 1000)"
       :d="
         'M' +
         cx +
@@ -44,7 +44,7 @@
 
     <circle :r="circleRadius">
       <animateMotion dur="3s" repeatCount="indefinite">
-        <mpath :xlink:href="'#circlePath' + theta" />
+        <mpath :xlink:href="'#circlePath' + Math.round((theta + index + offsetRadius) * 1000)" />
       </animateMotion>
     </circle>
   </g>

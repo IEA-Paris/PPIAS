@@ -21,8 +21,38 @@ published: true
 pinned: false
 bibliography: ''
 authors:
-  - firstname: 'Atrina '
+  - firstname: Atrina
     lastname: Oraee
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+  - firstname: David
+    lastname: Bowie
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+  - firstname: Freddy
+    lastname: Mercury
     titles_and_institutions: []
     picture: ''
     picture_copyright: ''

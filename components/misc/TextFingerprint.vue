@@ -18,7 +18,7 @@
           <div></div>
         </div>
       </div>
-      <div v-if="tags.find((tag) => tag.text === 'event')" class="bottom">
+      <div class="bottom">
         <span id="caption-date">
           <slot name="date"></slot>
         </span>

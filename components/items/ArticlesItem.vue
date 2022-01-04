@@ -24,8 +24,24 @@
       </template>
       <template #author>
         <div>
-          {{ item.authors[0].lastname + ', ' + item.authors[0].firstname }}
-          <template v-if="item.authors.length > 1">&amp;Al</template>
+          <template v-if="item.authors.length === 2">
+            {{
+              item.authors[0].lastname +
+              ',&nbsp;' +
+              item.authors[0].firstname +
+              '&nbsp;and ' +
+              item.authors[1].lastname +
+              ',&nbsp;' +
+              item.authors[1].firstname
+            }}
+          </template>
+          <span v-for="(author, index2) in item.authors" v-else :key="index2">
+            <template v-if="index2 < 2">
+              <template v-if="index2 < 2">{{ author.lastname + ', ' + author.firstname }}</template>
+              <template v-if="item.authors.length > 1 && index2 === 0">,&nbsp;</template>
+              <template v-if="index2 === 1 && item.authors.length > 2">et&nbsp;al.</template>
+            </template>
+          </span>
         </div>
       </template>
       <template #date>
@@ -78,7 +94,12 @@ export default {
   },
   computed: {},
   mounted() {
-    console.log('ARTICLE')
+    console.log(
+      'ARTICLE',
+      new Date(this.item.date).toLocaleDateString('EN', {
+        timezone: 'UTC',
+      }),
+    )
     /*   this.matchWidth() */
   },
   methods: {

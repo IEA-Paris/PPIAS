@@ -1,5 +1,5 @@
 <template>
-  <v-toolbar id="main-app-bar" color="white" clipped flat height="190">
+  <v-toolbar id="main-app-bar" color="white" clipped flat height="140">
     <div class="d-flex flex-grow-1 justify-space-between">
       <Logo color="#FFF" class="" />
       <!-- <LanguageSwitcher /> -->

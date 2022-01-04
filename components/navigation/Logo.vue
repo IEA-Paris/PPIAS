@@ -1,9 +1,10 @@
 <template>
   <div class="d-flex" @click="$router.push(localePath('/'))" @keyup.enter="$router.push(localePath('/'))">
-    <v-img class="ml-10 mr-2" src="/icon.png" max-height="150" max-width="150" contain style="cursor: pointer"></v-img>
+    <v-img class="ml-10 mr-2" src="/icon.png" contain max-height="120" max-width="120" style="cursor: pointer"></v-img>
     <div>
-      <div class="main-title ml-3">Proceedings&nbsp;of&nbsp;the</div>
-      <v-select
+      <div class="main-title ml-3">
+        Proceedings&nbsp;of&nbsp;the
+        <!--       <v-select
         v-model="current"
         :items="items"
         hide-details
@@ -19,9 +20,9 @@
             {{ item.replace(' ', '&nbsp;') }}
           </span>
         </template>
-      </v-select>
-      <div class="main-title ml-3">
-        Institute for
+      </v-select> -->
+        <br />
+        Institutes for
         <br />
         Advanced
         <br />
