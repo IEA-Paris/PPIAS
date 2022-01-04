@@ -26,8 +26,7 @@ fields:
     labelField: lastname
   label: Author(s)
   showOnly:
-    field: issue
-    value: News
+    value: true
 - name: abstract
   type: textarea
   default: ''
