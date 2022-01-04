@@ -2,23 +2,23 @@
 issue: content/issues/10-12-2021.md
 category: Article
 keywords:
-  - 'Human Behaviours, Social Relations '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Violence, Criminality, Security '
-  - 'Work, Welfare, Social protection '
-  - 'Religions and Worldviews '
-  - Firms, Markets, Finance
-  - 'Dataset, Data Mining '
-  - 'Qualitative analysis '
-  - 'Democracy, Civil Society, Governance '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Public Health '
-  - Risks, Crisis Management
-  - 'International Relations and Co-operation '
-  - 'Inequalities, Poverty, Development '
-  - Equality & Diversity Studies
-date: 2020-11-30T23:00:00Z
-article_title: Covid 19 and Politics
+- 'Human Behaviours, Social Relations '
+- 'Public Discourse, Rhetorics, Communication '
+- 'Violence, Criminality, Security '
+- 'Work, Welfare, Social protection '
+- 'Religions and Worldviews '
+- Firms, Markets, Finance
+- 'Dataset, Data Mining '
+- 'Qualitative analysis '
+- 'Democracy, Civil Society, Governance '
+- 'Public Policy, Evaluation, Impact '
+- 'Public Health '
+- Risks, Crisis Management
+- 'International Relations and Co-operation '
+- 'Inequalities, Poverty, Development '
+- Equality & Diversity Studies
+date: 2020-11-30T23:00:00.000+00:00
+article_title: 'Covid 19 and Politics '
 picture: ''
 picture_copyright: ''
 yt: ''
@@ -26,23 +26,28 @@ published: false
 pinned: false
 bibliography: ''
 authors:
-  - firstname: 'Atrina '
-    lastname: Oraee
-    titles_and_institutions: []
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
----
+- firstname: 'Victor '
+  lastname: Gallonnier
+  titles_and_institutions: []
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+abstract: ''
+category_1: contet/categories/WPRN - 21.md
+category_2: ''
+highlight: false
 
+---
 # Covid 19 and Politics: The contrasting influence of political rhetoric on perceptions of the pandemic - Memorandum 8
 
 Governments have responded to the pandemic with an arsenal of public policies certainly never before deployed on this scale in peacetime. To justify these measures (social distancing, confinement, etc.), the political figures in power have developed a variety of political rhetoric. What arguments have been put forward the most? By what means of communication? How were they received by voters? What role did partisan cleavages play in the perception of discourse and in the application of measures proposed by decision-makers? Several studies in the WPRN database analyze the political rhetoric developed during the pandemic and its central role in citizens’ perception of the dangerousness of the virus and their compliance with health measures.
@@ -53,7 +58,7 @@ Politicians used all the means of communication at their disposal to reach the p
 
 ### _The rise of new media_
 
-In addition to the traditional media (speeches or televised interventions), social networks have been strongly used. A study by a Czech university listed on WPRN highlights the central role of Twitter in the communication of political figures. The study, which analyzes more than 50,000 tweets from 143 heads of state, shows that 65% of the leaders of UN member states have tweeted about the pandemic, confirming the installation of Twitter as a central communication medium for politicians. The subject was by far the most covered by politicians during the period and political personalities have strongly gained in audience on the social network (+15% for several European leaders such as Giuseppe Conte or Boris Johnson).
+In addition to the traditional media (speeches or televised interventions), social networks have been strongly used. A [study](https://wprn.org/item/456552 "WPRN/456552") by a Czech university listed on WPRN highlights the central role of Twitter in the communication of political figures. The study, which analyzes more than 50,000 tweets from 143 heads of state, shows that 65% of the leaders of UN member states have tweeted about the pandemic, confirming the installation of Twitter as a central communication medium for politicians. The subject was by far the most covered by politicians during the period and political personalities have strongly gained in audience on the social network (+15% for several European leaders such as Giuseppe Conte or Boris Johnson).
 
 A study from the University of Leuven available on WPRN shows that politicians are strongly challenged on Twitter, making the social network a privileged tool for dialogue between citizens and politicians. If social networks seem to be at the center of interactions, all means of communication have been mobilized to inform about the pandemic. For example,a study available on WPRN reminds us that in South Korea and Taiwan, the government has used means of communication such as SMS to reach the population in real time. The launch of a WHO information service via WhatsApp is welcomed by the study and could inspire governments and politicians.
 
