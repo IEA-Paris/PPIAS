@@ -98,6 +98,21 @@ fields:
       required: false
     label: Mendeley
   label: Social channels
+- name: reference
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: authors
+      file: 
+      path: 
+  label: Reference
+  description: This will be used to distinguish between homonyms. Facultative field.
+    If not provided, orcid (if available) or firstname + lastname will be used to
+    match articles authors against a unique person.
 pages:
 - content/authors/Gallonnier.md
 - content/authors/Louchart.md
