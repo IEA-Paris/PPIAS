@@ -11,7 +11,13 @@ date: 2021-09-30T15:58:28Z
 published: false
 article_title: The demography of COVID-19 deaths
 authors: []
-abstract: 'Presentation video '
+abstract: "Presentation video for the WPRN21 conference - WPRN-445752\nSince the start
+  of the pandemic, statistical offices in many countries have been publishing daily
+  estimates of COVID-19 deaths. This project collects material from national reports
+  and databases presenting these numbers and publishes it in a freely accessible and
+  duly documented international database on COVID-19 mortality. The aim is to provide
+  researchers and non-specialists with tools to rigorously assess the accuracy of
+  COVID-19 death counts for international comparisons of the pandemic. \n"
 picture: ''
 picture_copyright: ''
 yt: QqunHRbkBUo&list=PLLv_k1nsHewlD-pB7BCWsiQnNvb_NhPpO&index=23&t=8s
