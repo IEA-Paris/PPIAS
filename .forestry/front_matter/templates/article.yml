@@ -35,7 +35,7 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-    min: 45
+    min: 0
     max: 1500
   label: Abstract
 - name: issue
