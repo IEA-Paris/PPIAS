@@ -22,6 +22,16 @@ fields:
   showOnly:
     field: category
     value: Article
+- name: abstract
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+    min: 45
+  label: Abstract
 - name: issue
   type: select
   default: []
