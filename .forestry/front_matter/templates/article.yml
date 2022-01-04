@@ -2,6 +2,9 @@
 label: Article
 hide_body: false
 fields:
+- name: published
+  type: boolean
+  label: Published
 - name: article_title
   type: text
   config:
@@ -9,11 +12,27 @@ fields:
     min: 5
     max: 100
   label: Article Title
+- name: authors
+  type: field_group_list
+  fields:
+  - name: author
+    type: include
+    config: {}
+    template: author
+    label: Author
+  config:
+    min: 
+    max: 
+    labelField: lastname
+  label: Author(s)
+  showOnly:
+    field: issue
+    value: News
 - name: abstract
   type: textarea
   default: ''
   config:
-    required: true
+    required: false
     wysiwyg: false
     schema:
       format: markdown
@@ -51,28 +70,10 @@ fields:
   label: Youtube thumbnail
   description: Add the ID of the youtube video you want it as a thumbnail &amp; article
     splash. Leave empty if you want a regular thumbnail
-- name: published
+- name: highlight
   type: boolean
-  label: Published
-- name: pinned
-  type: boolean
-  label: Pinned
-  description: Pinned articles will stay on top (only the last one by date)
-- name: category
-  type: select
-  default: News
-  config:
-    required: true
-    options:
-    - Article
-    - News
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Category
-  description: If "Article" is selected, a DOI will be generated. Reserved for publications.
+  label: Highlighted
+  description: Will try to use the best slots to display highlighted articles
 - name: keywords
   type: tag_list
   default: []
@@ -92,23 +93,7 @@ fields:
   config:
     maxSize: 64
   label: Bibliography
-  description: Insert a *.bib file here
-- name: authors
-  type: field_group_list
-  fields:
-  - name: author
-    type: include
-    config: {}
-    template: author
-    label: Author
-  config:
-    min: 
-    max: 
-    labelField: lastname
-  label: Author(s)
-  showOnly:
-    field: issue
-    value: News
+  description: Insert a *.json file here
 pages:
 - content/articles/Covid 19 & employment.md
 - content/articles/ICA4.md
