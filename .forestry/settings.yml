@@ -21,6 +21,13 @@ sections:
   templates:
   - author
 - type: directory
+  path: contet/categories
+  label: Categories
+  create: all
+  match: "**/*"
+  templates:
+  - category
+- type: directory
   path: content/issues
   label: Issues
   create: all
