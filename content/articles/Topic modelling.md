@@ -32,7 +32,9 @@ authors:
   picture: ''
   picture_copyright: ''
   reference: ''
-abstract: ''
+abstract: |-
+  Presentation video for the WPRN21 conference - WPRN-439951
+  The Institute for Comparative Research in Human and Social Sciences has initiated a new project to conduct social analysis of the COVID-19 new coronavirus impact on society. The purpose of this study is to examine how content about the global coronavirus (COVID-19) outbreak changed in the Japanese information environment through a comparison of the topics that were prevalent in traditional media and social media.
 picture: ''
 picture_copyright: ''
 yt: lo45kaXwtyg&list=PLLv_k1nsHewlD-pB7BCWsiQnNvb_NhPpO&index=13
