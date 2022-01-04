@@ -8,7 +8,7 @@ keywords:
 - 'Report '
 - social media
 - traditional media
-date: 2022-01-04T16:32:37Z
+date: 2021-09-28T15:32:37Z
 published: false
 article_title: Topic modelling of COVID-19 Content in Japanese newspaper and Twitter
   -January to April 2020
