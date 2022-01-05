@@ -2,54 +2,60 @@
 issue: content/issues/10-12-2021.md
 category: Article
 tags:
-  - 'Public Health '
-  - 'Leisure, Tourism '
-  - 'Human Behaviours, Social Relations '
-  - 'Environmental change, Ecology '
-  - Cities, Mobility, Urban Planning
-  - Democracy, Civil Society, Governance
-  - 'Agriculture, Alimentation '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Public Policy, Evaluation, Impact '
-  - Consumption and Production Patterns
-  - 'Inequalities, Poverty, Development '
-  - Environmental Studies
-  - Health and well-being
-  - Urban nature
-  - wildland recreation
-  - outcomes
-  - personal development
-  - ' outdoor recreation'
-date: 2020-12-31T23:00:00Z
+- 'Public Health '
+- 'Leisure, Tourism '
+- 'Human Behaviours, Social Relations '
+- 'Environmental change, Ecology '
+- Cities, Mobility, Urban Planning
+- Democracy, Civil Society, Governance
+- 'Agriculture, Alimentation '
+- 'Public Discourse, Rhetorics, Communication '
+- 'Public Policy, Evaluation, Impact '
+- Consumption and Production Patterns
+- 'Inequalities, Poverty, Development '
+- Environmental Studies
+- Health and well-being
+- Urban nature
+- wildland recreation
+- outcomes
+- personal development
+- " outdoor recreation"
+date: 2020-12-31T23:00:00.000+00:00
 article_title: 'Covid-19 and environment: citizens in search of proximity with nature'
 picture: ''
 picture_copyright: ''
 yt: ''
 published: true
 category1:
-  - color: green
-    text: Article
+- color: green
+  text: Article
 pinned: false
 highlight: false
 bibliography: ''
 authors:
-  - firstname: 'Atrina '
-    lastname: Oraee
-    titles_and_institutions: []
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
----
+- firstname: 'Atrina '
+  lastname: Oraee
+  titles_and_institutions: []
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+abstract: ''
+category_1: content/categories/wprn.md
+category_2: ''
+keywords: []
+language: ''
 
+---
 # Covid-19 and environment: citizens in search of proximity with nature - Memorandum 9
 
 The measures taken by governments to limit the spread of Covid-19, particularly containment, have restricted the opportunities for people to access nature. These restrictions have affected individuals and put at the heart of the debate the role of the link to nature for mental and physical well-being. Beyond this, the pandemic and containment have led to changes in the perceptions of time and space : part of the population is questioning its relationship with its surroundings and its way of life. According to researcher [Anne Caroline Prévot](https://usbeketrica.com/fr/article/le-confinement-pourrait-nous-rapprocher-de-la-nature), containment could thus bring us closer to nature. Are we heading towards major upheavals in terms of urban planning, food, or leisure practices? Will the pandemic profoundly transform the relationship between individuals and their environment in a more ecological perspective?
