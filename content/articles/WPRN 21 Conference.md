@@ -8,8 +8,8 @@ picture: ''
 picture_copyright: ''
 published: true
 category1:
-  - color: green
-    text: Article
+- color: green
+  text: Article
 pinned: false
 highlight: false
 bibliography: ''
@@ -17,38 +17,45 @@ yt: ''
 article_author: ''
 redactor: []
 authors:
-  - firstname: 'Atrina '
-    lastname: Oraee
-    titles_and_institutions: []
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-  - firstname: 'Atrina '
-    lastname: Oraee
-    titles_and_institutions: []
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
----
+- firstname: 'Atrina '
+  lastname: Oraee
+  titles_and_institutions: []
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- firstname: 'Atrina '
+  lastname: Oraee
+  titles_and_institutions: []
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+abstract: ''
+category_1: content/categories/ICA.md
+category_2: ''
+keywords: []
+language: ''
 
+---
 At a time when the world is facing a major health challenge, the Natural and Life Sciences are mobilized to find vaccines and remedies. At the same time, the Social Sciences and Humanities have moved to the forefront to help our societies face the lockdown and the wave of socio-economic crisis that follows. This mobilization, because it is unprecedented, needs new resources to coordinate, and new formats to build reflexivity to learn from our successes and our mistakes in view of the next crises. The World Pandemic Research Network (WPRN) contributes to meeting these needs through its platform wprn.org.
 
 WPRN offers an infrastructure serving research communities based on both crowdsourcing and the mobilization of distributed referent expertise. It documents in real time what is being done in the world. It allows everyone to record their resources (research projects, calls for proposals, surveys, seminars, etc.), and to know who is doing what and where, and to get in touch with the relevant projects.
