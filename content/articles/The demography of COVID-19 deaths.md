@@ -1,5 +1,5 @@
 ---
-category_1: contet/categories/WPRN - 21.md
+category_1: content/categories/WPRN21.md
 category_2: []
 issue: content/issues/10-12-2021.md
 keywords:
@@ -7,7 +7,7 @@ keywords:
 - 'Report '
 - 'Policy Document '
 - Press article
-date: 2021-09-30T15:58:28Z
+date: 2021-09-30T15:58:28.000+00:00
 published: false
 article_title: The demography of COVID-19 deaths
 authors:
@@ -42,6 +42,7 @@ picture_copyright: ''
 yt: QqunHRbkBUo&list=PLLv_k1nsHewlD-pB7BCWsiQnNvb_NhPpO&index=23&t=8s
 highlight: false
 bibliography: ''
+language: ''
 
 ---
 AN OPEN ACCESS PLATFORM TO INTERNATIONAL DATA AND METADATA ON COVID-19 DEATHS 
