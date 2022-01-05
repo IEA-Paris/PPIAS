@@ -50,7 +50,7 @@ authors:
     mendeley: ''
   reference: ''
 abstract: ''
-category_1: content/categories/ICA.md
+category_1: content/categories/WPRN21.md
 category_2: ''
 keywords: []
 language: ''
