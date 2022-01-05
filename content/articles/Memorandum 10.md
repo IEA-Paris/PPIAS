@@ -2,51 +2,57 @@
 issue: content/issues/10-12-2021.md
 category: Article
 tags:
-  - Agriculture
-  - Food environments
-  - Food security
-  - Nutrition
-  - ' Rural development'
-  - Sustainable development
-  - Cities, Mobility, Urban Planning
-  - 'Human Behaviours, Social Relations '
-  - 'Environmental change, Ecology '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Risks, Crisis Management '
-  - 'Religions and Worldviews '
-  - Consumption and Production Patterns
-  - Work, Welfare, Social protection
-date: 2021-01-31T23:00:00Z
+- Agriculture
+- Food environments
+- Food security
+- Nutrition
+- " Rural development"
+- Sustainable development
+- Cities, Mobility, Urban Planning
+- 'Human Behaviours, Social Relations '
+- 'Environmental change, Ecology '
+- 'Public Policy, Evaluation, Impact '
+- 'Public Discourse, Rhetorics, Communication '
+- 'Risks, Crisis Management '
+- 'Religions and Worldviews '
+- Consumption and Production Patterns
+- Work, Welfare, Social protection
+date: 2021-01-31T23:00:00.000+00:00
 article_title: 'COVID-19 and food: the search for food security at the heart of households'
 picture: ''
 picture_copyright: ''
 yt: ''
 published: true
 category1:
-  - color: green
-    text: Article
+- color: green
+  text: Article
 pinned: false
 highlight: false
 bibliography: ''
 authors:
-  - firstname: 'Atrina '
-    lastname: Oraee
-    titles_and_institutions: []
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
----
+- firstname: 'Atrina '
+  lastname: Oraee
+  titles_and_institutions: []
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+abstract: ''
+category_1: content/categories/wprn.md
+category_2: ''
+keywords: []
+language: ''
 
+---
 # COVID-19 and food: the search for food security at the heart of households - Memorandum 10
 
 The image of empty supermarket shelves is one of those that will remain from the announcement of the first containment. The Europeans practiced the «Hamsterkauf» as named by the German speakers: they stocked up on hamsters. This rush on food supplies, especially rice and pasta, shows that even before thinking about the disease, for many people, the first thing they worried about was the risk of running out of food. A striking phenomenon at the center of affluent societies. Food stores were suddenly highlighted as «essential» and food with it. In times of confinement, it becomes central again: one can no longer delegate it or forget its role, as is often the case in the West, due to its easy access and urban lifestyles. The major role of food is exacerbated : setting the rhythm of a daily time that stretches to infinity, regulating emotions, at the center of constrained social interactions and anxieties about the risk of food insecurity.
