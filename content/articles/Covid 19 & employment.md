@@ -1,43 +1,65 @@
 ---
 issue: content/issues/10-12-2021.md
-category: Article
+category: News
 tags:
-  - 'Big Data, Artificial Intelligence '
-  - Consumption and Production Patterns
-  - Firms, Markets, Finance
-  - Public Health
-  - Human Behaviours, Social Relations
-  - 'Work, Welfare, Social protection '
+- 'Big Data, Artificial Intelligence '
+- Consumption and Production Patterns
+- Firms, Markets, Finance
+- Public Health
+- Human Behaviours, Social Relations
+- 'Work, Welfare, Social protection '
 date: 2020-08-31T22:00:00Z
 article_title: 'Covid 19 and employment upheavals: worried employees'
 picture: ''
 picture_copyright: ''
 yt: ''
 published: true
-category1:
-  - color: green
-    text: Article
 pinned: false
-highlight: false
 bibliography: ''
 authors:
-  - firstname: 'Atrina '
-    lastname: Oraee
-    titles_and_institutions: []
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
----
+- firstname: 'Atrina '
+  lastname: Oraee
+  titles_and_institutions: []
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+abstract: ''
+keywords: []
+redactors:
+- firstname: ''
+  lastname: ''
+  titles_and_institutions: []
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+category_1: content/categories/WPRN21.md
+category_2: ''
+highlight: false
+language: ''
+category1:
+- color: green
+  text: Article
 
+---
 ## Covid 19 and employment upheavals: worried employees - Memorandum 5
 
 The Covid 19 pandemic and the measures taken to limit its spread (containment, social distancing) have led to a recession and a major economic crisis. The economic data show significant job losses. The [Insee Emploi-Chômage](https://infodujour.fr/wp-content/uploads/2020/09/note-de-conjoncture-8-setembre-2020.pdf) note published on September 8th notes 715,000 salaried jobs lost in France in the first half of this year. Against this backdrop, employees are deeply concerned about their professional future and the risk of job loss.
