@@ -11,7 +11,8 @@
           author.firstname
             .match(/(\b\S)?/g)
             .join('')
-            .toUpperCase()
+            .toUpperCase() +
+          '.'
         }}
         <template v-if="index === 0 && authors.length === 2">{{ $t('and') }}</template>
         <template v-if="index < 2 && authors.length > 2">,&nbsp;</template>

@@ -3,12 +3,9 @@
     <div class="overlay">
       <div class="top">
         <div class="d-flex">
-          <!--     <template v-for="(tag, index) in tags"> -->
-          <v-chip color="green" label class="white--text">
-            {{ $t('article') }}
-          </v-chip>
-          <!--           </template> -->
+          <slot name="categories"></slot>
         </div>
+
         <span id="caption-content">
           <slot name="caption"></slot>
           <br />
@@ -105,20 +102,6 @@ import { scalePow } from 'd3-scale'
 // export component
 export default {
   props: {
-    ratio: { type: Number, default: 16 / 9 },
-    height: { type: [Number, String], default: 500 },
-    src: {
-      type: String,
-      default: '/img/header-bg.jpg',
-    },
-    tags: {
-      type: Array,
-      required: true,
-    },
-    expanded: {
-      type: Boolean,
-      default: false,
-    },
     stats: {
       required: false,
       type: Object,
@@ -142,7 +125,9 @@ export default {
     margin: {
       required: false,
       type: Number,
-      default: 28,
+      default() {
+        return (this.size / 100) * 20
+      },
     },
     variant: {
       required: false,
@@ -152,11 +137,6 @@ export default {
   },
   data() {
     return {
-      active: false,
-      finishing: false,
-      maxDelay: 400, // 0.4s
-      animationDuration: 3000,
-      minimumAnimationDuration: 1000,
       radius: ((this.size / 2 - this.margin) * 2) / 3,
       // value radius, this give us extra safety margin.
       maxNumCharsRadius: ((this.size / 2 - this.margin) * 2) / 3 / 2,
@@ -166,30 +146,6 @@ export default {
   },
   mounted() {},
   methods: {
-    finishedAnimation(evt) {
-      // event will be triggered for each element being animatied in the container.
-      //
-      if (this.finishing) {
-        return
-      }
-      this.finishing = true
-      setTimeout(
-        () => {
-          this.active = false
-          this.finishing = false
-        },
-        // to properly calculate the delay needed since first event
-        // we need to total animation duration
-        // the smallest animation duration, of the sub elements
-        // and if there is a positive delay, we need the max from all sub elements.
-        this.animationDuration - this.minimumAnimationDuration + this.maxDelay,
-      )
-    },
-    trigger() {
-      if (!this.active) {
-        this.active = true
-      }
-    },
     scaleNumChars(n = this.maxNumCharsRadius / 2) {
       const pow = scalePow() // linear, commented out
         // .exponent(1)
@@ -212,11 +168,12 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 .frame {
+  background: linear-gradient(315deg, #2d3436 0%, #000000 74%);
   overflow: hidden;
-  margin: 1rem;
 }
+
 .overlay {
   position: absolute;
   top: 0;
@@ -235,19 +192,61 @@ export default {
   justify-content: flex-start;
   text-align: right;
 }
-
-.v-image {
-  -webkit-transition: all 0.6s ease-in-out;
-  transition: all 0.6s ease-in-out;
-  z-index: 1;
+.article-fingerprint {
+  transform-box: fill-box;
+  transform-origin: center;
+  overflow: visible;
 }
-.overlay:hover + .v-image {
-  -ms-transform: scale(1.1);
-  -moz-transform: scale(1.1);
-  -webkit-transform: scale(1.1);
-  -o-transform: scale(1.1);
-  transform: scale(1.1);
-  opacity: 0.6;
+
+@-webkit-keyframes breathing {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+
+  40% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+  55% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+@keyframes breathing {
+  0% {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+
+  40% {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+  55% {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+.overlay:hover + .article-fingerprint {
+  -webkit-animation: breathing 5s ease-out infinite normal;
+  animation: breathing 5s ease-out infinite normal;
 }
 #caption-content,
 #caption-author,
@@ -260,7 +259,7 @@ export default {
   max-width: 66%;
 }
 #caption-content {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.6rem;
   text-decoration: none;
   text-shadow: 1px 1px 0 alpha(white, 0.6);
@@ -277,24 +276,16 @@ export default {
   font-weight: 600;
   text-shadow: 1px 1px 0 alpha(black, 0.6);
 }
-.overlay:hover #caption-content {
-  /*   line-height: 2.2rem;
-  font-size: 1.3rem; */
-}
-.overlay:hover #caption-author {
-}
+
 #caption-date {
   position: absolute;
   bottom: 10px;
   left: 10px;
   color: black;
   background-image: linear-gradient(to left, white 100%, black 100%);
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 2.2rem;
   text-shadow: 1px 1px 0 alpha(black, 0.6);
-}
-.expanded .v-image {
-  padding-top: 12px !important;
 }
 #caption-author:after {
   content: '';

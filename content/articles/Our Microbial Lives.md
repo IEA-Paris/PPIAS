@@ -29,14 +29,17 @@ authors:
       mendeley: ''
 picture: '/1-cell_to_cell.jpg'
 picture_copyright: ''
-yt: 'https://www.youtube.com/watch?v=PhbL0Ch6ndY '
+yt: 'PhbL0Ch6ndY'
 published: true
+category1:
+  - color: green
+    text: Article
 pinned: false
 highlight: false
 bibliography: '/anystyle.bib'
 ---
 
-# "Our Microbial Lives: A Forum Against Eradication", May 27, 2021, Paris Institute for Advanced Study
+## "Our Microbial Lives: A Forum Against Eradication", May 27, 2021, Paris Institute for Advanced Study
 
 In what has been called our “biological age,” the sciences of the living reframe constantly what it means to be human. And within it, we stand on the edge of a transformation that some believe to be the most significant revolution in biology since evolution: the gradual discovery that we live inherently microbial lives. A growing body of evidence since the beginning of the twenty-first century reveals that the microbes who vastly outnumber our cells on earth not only coexist with us, but play fundamental roles in the origin, development, and survival of our human selves, as well as of all animals, plants, and the entire biosphere. It is a conceptual shift that promises to touch virtually every aspect of the way we live, from medicine to agriculture to biodiversity conservation. If there were ever a time to put to rest the myth that we may win total control of the microbial world with technologies of eradication alone, the time is now.
 

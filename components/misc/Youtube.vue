@@ -4,14 +4,18 @@
       <iframe
         ref="ytPlayer"
         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%"
-        :src="isIntersecting ? 'https://www.youtube.com/embed/' + yt : ''"
+        :src="
+          isIntersecting
+            ? 'https://www.youtube.com/embed/' + yt + (autoplay ? '?autoplay=1&controls=0&mute=1' : '')
+            : ''
+        "
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
-        :title="'youtube player ' + yt"
+        :title="caption"
       ></iframe>
     </div>
-    <div class="text-caption">{{ caption }}</div>
+    <div v-if="caption" class="text-caption">{{ caption }}</div>
   </div>
 </template>
 <script>
@@ -21,9 +25,17 @@ export default {
       type: String,
       default: '',
     },
+    nocontrols: {
+      type: Boolean,
+      default: false,
+    },
     caption: {
       type: String,
       default: '',
+    },
+    autoplay: {
+      type: Boolean,
+      default: false,
     },
   },
   data() {

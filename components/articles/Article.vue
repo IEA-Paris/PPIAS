@@ -28,7 +28,7 @@
           <span class="text-h4" v-html="highlight(item.article_title, $route.query.search)"></span>
         </v-card-title> -->
 
-        <v-card-text>
+        <v-card-text :class="toc ? 'justify-start' : 'justify-center'" class="d-flex">
           <YoutubeEmbed v-if="item.youtube_video_id" :yt="item.youtube_video_id" class="mb-9 ml-3"></YoutubeEmbed>
           <OptimizedImage
             v-if="item.images && item.images.length === 1"
@@ -50,20 +50,7 @@
           </div>
 
           <small v-if="item.copyright" class="muted caption">&copy; {{ item.copyright }}</small>
-          <p v-if="item.description && $route.name === 'blog' && !show">
-            {{ item.description }} &nbsp;
-            <b
-              v-if="item.description && $route.name === 'blog'"
-              class="primary--text text-decoration-underline"
-              style="cursor: pointer"
-              @click="show = !show"
-              @keyup.enter.space="show = !show"
-            >
-              Read&nbsp;more
-            </b>
-          </p>
           <nuxt-content :document="item" style="max-width: 650px" />
-          <SoundCloud v-for="(track, index2) in item.audio" :key="index2" :src="track" />
         </v-card-text>
 
         <v-card-subtitle class="pb-0">

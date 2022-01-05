@@ -16,11 +16,15 @@ picture_copyright: ''
 yt: ''
 doi: '169059797'
 published: true
+category1:
+  - color: green
+    text: Article
 pinned: false
 highlight: true
 bibliography: 'test.json'
+abstract: 'gergsgsergesrqg esrges rgerg esrg ersg esrgerg erg esrg esrgers '
 authors:
-  - firstname: 'Atrina '
+  - firstname: 'Atrina'
     lastname: Oraee
     titles_and_institutions: []
     picture: ''
@@ -35,8 +39,38 @@ authors:
       google_scholar: ''
       researchgate: ''
       mendeley: ''
-  - firstname: 'Atrina '
-    lastname: Oraee
+  - firstname: 'Bowie'
+    lastname: David
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+  - firstname: 'Freddy'
+    lastname: Mercury
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+  - firstname: 'Albert'
+    lastname: Einstein
     titles_and_institutions: []
     picture: ''
     picture_copyright: ''

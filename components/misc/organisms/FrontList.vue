@@ -39,7 +39,7 @@
             v-scroll="onScroll"
             class="transition-swing"
             :fluid="!$store.state.scrolled"
-            :class="{ 'py-0': !$store.state.scrolled }"
+            :class="{ 'py-0': !$store.state.scrolled, 'pl-0': filter }"
           >
             <v-row
               v-for="section in Math.ceil(options.itemsPerPage / 3)"

@@ -1,62 +1,6 @@
 <template>
   <g :class="(isHeading ? 'is-heading' : '') + (isMedia ? 'is-hl' : '') + 'type-' + type">
-    <line :x1="ox" :y1="oy" :stroke="isHeading ? 'white' : '#FFFFF0'">
-      <animateTransform
-        id="pause"
-        begin="expandAnim.end"
-        dur="3s"
-        type="translate"
-        attributeType="XML"
-        attributeName="transform"
-        repeatCount="indefinite"
-      />
-      <animateTransform
-        id="pause2"
-        begin="pause.end"
-        dur="3s"
-        type="translate"
-        attributeType="XML"
-        attributeName="transform"
-        repeatCount="indefinite"
-      />
-      <animate
-        id="expandAnim"
-        attributeName="x2"
-        :from="cx"
-        :to="cosTheta * (offsetRadius + originRadius + (isHeading ? -10 : 10))"
-        dur="3s"
-        begin="0; pause.end"
-        repeatCount="indefinite"
-      />
-      <animate
-        fill="freeze"
-        attributeName="y2"
-        :from="cy"
-        :to="sinTheta * (offsetRadius + originRadius + (isHeading ? -10 : 10))"
-        dur="3s"
-        begin="0; pause.end"
-        repeatCount="indefinite"
-      />
-      <animate
-        id="collapseAnim"
-        attributeName="x2"
-        fill="freeze"
-        :from="cosTheta * (offsetRadius + originRadius + (isHeading ? -10 : 10))"
-        :to="cx"
-        dur="3s"
-        begin="3; expandAnim.end"
-        repeatCount="indefinite"
-      />
-      <animate
-        attributeName="y2"
-        fill="freeze"
-        :from="sinTheta * (offsetRadius + originRadius + (isHeading ? -10 : 10))"
-        :to="cy"
-        dur="3s"
-        begin="3; expandAnim.end"
-        repeatCount="indefinite"
-      />
-    </line>
+    <line :x1="ox" :y1="oy" :x2="cx" :y2="cy" :stroke="isHeading ? 'white' : '#FFFFF0'"></line>
     <circle class="origin" :cx="ox" :cy="oy" :r="1" />
     <circle v-if="isHeading" class="heading-placeholder" :cx="ox" :cy="oy" :r="3" />
     <circle
@@ -68,29 +12,7 @@
       :r="refsRadius"
     />
 
-    <path
-      :id="'circlePath' + Math.round((theta + index + offsetRadius) * 1000)"
-      :d="
-        'M' +
-        cx +
-        ',' +
-        cy +
-        ' L' +
-        cosTheta * (offsetRadius + originRadius + (isHeading ? -10 : 10)) +
-        ',' +
-        sinTheta * (offsetRadius + originRadius + (isHeading ? -10 : 10)) +
-        ' L' +
-        cx +
-        ',' +
-        cy
-      "
-      fill="none"
-    />
-    <circle :r="circleRadius">
-      <animateMotion dur="6s" repeatCount="indefinite" fill="freeze">
-        <mpath :xlink:href="'#circlePath' + Math.round((theta + index + offsetRadius) * 1000)" />
-      </animateMotion>
-    </circle>
+    <circle :cx="cx" :cy="cy" :r="circleRadius"></circle>
   </g>
 </template>
 <script>

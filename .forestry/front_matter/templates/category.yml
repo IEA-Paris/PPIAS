@@ -1,0 +1,18 @@
+---
+label: Category
+hide_body: false
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+  description: Will be used in every language
+- name: color
+  type: color
+  label: Color
+  config:
+    required: false
+    color_format: Hex
+pages:
+- contet/categories/WPRN - 21.md

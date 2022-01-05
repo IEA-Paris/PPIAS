@@ -1,29 +1,39 @@
 <template>
   <v-card
+    v-show="ready"
     id="articleBox"
     ref="articleBox"
     :width="$vuetify.breakpoint.mdAndUp ? '' : '100%'"
-    :height="bestHeight"
-    class="d-flex flex-column align-center justify-center"
+    height="100%"
+    class="d-flex flex-column align-center justify-center transition-swing"
     raised
-    min-height="100px"
+    min-height="300px"
     nuxt
-    :to="'/articles/' + item.slug"
+    :to="localePath('/articles/' + item.slug)"
   >
     <TextFingerprint
+      v-if="ready && !(item.yt || item.image)"
       :cells="cells"
       :stats="stats"
       :size="size"
       :src="item.image"
       :expanded="scroll"
       :class="{ expanded: scroll }"
-      :tags="item.tags"
     >
+      <template #categories>
+        <v-chip :color="item.category1.color" label class="white--text">
+          {{ item.category1.text }}
+        </v-chip>
+        <v-chip v-if="item.category2" :color="item.category2.color" label class="white--text">
+          {{ item.category2.text }}
+        </v-chip>
+      </template>
       <template #caption>
         {{ item.article_title }}
       </template>
       <template #author>
         <ArticleAuthorsString :authors="item.authors" />
+        <div class="underline" :style="'background-color:' + item.category1.color"></div>
       </template>
       <template #date>
         {{
@@ -33,6 +43,30 @@
         }}
       </template>
     </TextFingerprint>
+    <YoutubeThumbnail v-if="item.yt && item.yt.length" :item="item">
+      <template #categories>
+        <v-chip :color="item.category1.color" label class="white--text">
+          {{ item.category1.text }}
+        </v-chip>
+        <v-chip v-if="item.category2" :color="item.category2.color" label class="white--text">
+          {{ item.category2.text }}
+        </v-chip>
+      </template>
+      <template #caption>
+        {{ item.article_title }}
+      </template>
+      <template #author>
+        <ArticleAuthorsString :authors="item.authors" />
+        <div class="underline" :style="'background-color:' + item.category1.color"></div>
+      </template>
+      <template #date>
+        {{
+          new Date(item.date).toLocaleDateString('EN', {
+            timezone: 'UTC',
+          })
+        }}
+      </template>
+    </YoutubeThumbnail>
   </v-card>
 </template>
 <script>
@@ -49,7 +83,7 @@ export default {
   },
   data() {
     return {
-      bestHeight: '100%',
+      ready: false,
       size: 250,
       cells: this.item?.body?.children.map((child, index) => {
         return {
@@ -74,42 +108,25 @@ export default {
   },
   computed: {},
   mounted() {
-    console.log(
-      'ARTICLE',
-      new Date(this.item.date).toLocaleDateString('EN', {
-        timezone: 'UTC',
-      }),
-    )
-    /*   this.matchWidth() */
+    this.resizeItem()
   },
   methods: {
-    matchWidth() {
-      const width = this.$refs.articleBox.$el.clientWidth + 'px'
+    resizeItem() {
+      const width = this.$refs.articleBox.$el.clientWidth
+      const height = this.$refs.articleBox.$el.clientHeight
+      const smallest = Math.min(...[width, height])
       console.log('widthString: ', width)
       console.log(
         'Math.min([this.$refs.articleBox.$el.clientWidth, this.$refs.articleBox.$el.clientHeight]): ',
-        Math.min(...[this.$refs.articleBox.$el.clientWidth, this.$refs.articleBox.$el.clientHeight]),
+        Math.min(...[width, height]),
       )
-      if (this.item.pinned && this.$vuetify.breakpoint.mdAndUp) {
-        // we go for 16/ 8 ratio
 
-        this.size = this.$refs.articleBox.$el.clientWidth < 250 ? this.$refs.articleBox.$el.clientWidth : 250
-      } else if (Math.min([this.$refs.articleBox.$el.clientWidth, this.$refs.articleBox.$el.clientHeight]) < 250) {
-        console.log(
-          'Math.min([this.$refs.articleBox.$el.clientWidth, this.$refs.articleBox.$el.clientHeight]): ',
-          Math.min([this.$refs.articleBox.$el.clientWidth, this.$refs.articleBox.$el.clientHeight]),
-        )
-        this.size = Math.min([this.$refs.articleBox.$el.clientWidth, this.$refs.articleBox.$el.clientHeight])
-      }
-      this.size = this.$refs.articleBox.$el.clientWidth < 250 ? this.$refs.articleBox.$el.clientWidth : 250
-      this.isReady = true
+      this.size = Math.min(...[smallest - 10, 500])
+      console.log('this.size : ', this.size)
+      this.ready = true
       /*    this.$set(this.$refs.articleBox, 'width', widthString) */
     },
   },
 }
 </script>
-<style lang="scss">
-#articleBox {
-  background: linear-gradient(315deg, #2d3436 0%, #000000 74%);
-}
-</style>
+<style lang="scss"></style>

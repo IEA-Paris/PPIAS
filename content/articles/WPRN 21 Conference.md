@@ -7,6 +7,9 @@ article_title: WPRN 21 Conference
 picture: ''
 picture_copyright: ''
 published: true
+category1:
+  - color: green
+    text: Article
 pinned: false
 highlight: false
 bibliography: ''

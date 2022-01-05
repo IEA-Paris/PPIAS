@@ -3,11 +3,12 @@
     <v-col cols="12" md="12" lg="10" xl="10">
       <v-card>
         <div class="d-flex">
-          <v-btn plain text nuxt :to="localePath('/')" small>
+          <v-btn tile text nuxt :to="localePath('/')" small class="py-7">
             <v-icon left>mdi-chevron-left</v-icon>
             {{ $t('back') }}
           </v-btn>
           <v-spacer></v-spacer>
+          <CiteModal :item="item" />
           <v-tooltip bottom>
             <template #activator="{ on, attrs }">
               <v-btn
@@ -31,7 +32,7 @@
         <PageTitle :text="item.article_title" class="pa-6">
           <template v-if="item.authors.length">
             <v-btn
-              large
+              x-large
               text
               class="mb-3 px-3 font-italic"
               style="text-transform: none !important"
@@ -44,10 +45,12 @@
         </PageTitle>
 
         <v-tabs :value="$route.path" background-color="transparent" color="black" class="mb-6" grow>
-          <v-tab exact nuxt :to="localePath('/articles/' + $route.params.slug + '/about')">About</v-tab>
-          <v-tab exact nuxt :to="localePath('/articles/' + $route.params.slug)">Article</v-tab>
-          <v-tab exact nuxt :to="localePath('/articles/' + $route.params.slug + '/media')">Media</v-tab>
-          <v-tab exact nuxt :to="localePath('/articles/' + $route.params.slug + '/authors')">Author(s)</v-tab>
+          <v-tab exact nuxt :to="localePath('/articles/' + $route.params.slug + '/about')">{{ $t('about-0') }}</v-tab>
+          <v-tab exact nuxt :to="localePath('/articles/' + $route.params.slug)">{{ $t('article') }}</v-tab>
+          <v-tab exact nuxt :to="localePath('/articles/' + $route.params.slug + '/media')">{{ $t('media') }}</v-tab>
+          <v-tab exact nuxt :to="localePath('/articles/' + $route.params.slug + '/authors')">
+            {{ $tc('author_s', item.authors.length) }}
+          </v-tab>
         </v-tabs>
         <slot></slot>
       </v-card>
