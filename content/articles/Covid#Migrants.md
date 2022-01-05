@@ -1,11 +1,11 @@
 ---
 category_1: contet/categories/WPRN - 21.md
-category_2: []
+category_2: content/categories/WPRN21.md
 issue: content/issues/10-12-2021.md
 keywords:
 - 'Public Discourse, Rhetorics, Communication '
 - Migrations and Diasporas
-date: 2021-08-17T22:00:00Z
+date: 2021-08-17T22:00:00.000+00:00
 published: false
 article_title: 'Covid#Migrants : Tweeting on Migrants in the Covid-19 Context'
 authors:
@@ -36,6 +36,7 @@ picture_copyright: ''
 yt: 1Xu6gI-7PIs&list=PLLv_k1nsHewlD-pB7BCWsiQnNvb_NhPpO&index=32
 highlight: false
 bibliography: ''
+language: ''
 
 ---
 ## Covid#Migrants
