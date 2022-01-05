@@ -2,18 +2,18 @@
 issue: content/issues/10-12-2021.md
 category: Article
 tags:
-  - 'Human Behaviours, Social Relations '
-  - 'Inequalities, Poverty, Development '
-  - 'Equality & Diversity Studies '
-  - Work, Welfare, Social protection
-  - 'Consumption and Production Patterns '
-  - Public Policy, Evaluation, Impact
-  - 'Firms, Markets, Finance '
-  - 'Agriculture, Alimentation '
-  - 'Agriculture, Alimentation '
-  - 'Big Data, Artificial Intelligence '
-  - 'Education '
-date: 2021-02-14T23:00:00Z
+- 'Human Behaviours, Social Relations '
+- 'Inequalities, Poverty, Development '
+- 'Equality & Diversity Studies '
+- Work, Welfare, Social protection
+- 'Consumption and Production Patterns '
+- Public Policy, Evaluation, Impact
+- 'Firms, Markets, Finance '
+- 'Agriculture, Alimentation '
+- 'Agriculture, Alimentation '
+- 'Big Data, Artificial Intelligence '
+- 'Education '
+date: 2021-02-14T23:00:00.000+00:00
 article_title: 'Economy, housing, education: inequalities reinforced by the Covid
   pandemic-19'
 picture: ''
@@ -21,29 +21,35 @@ picture_copyright: ''
 yt: ''
 published: true
 category1:
-  - color: green
-    text: Article
+- color: green
+  text: Article
 pinned: false
 highlight: true
 bibliography: ''
 authors:
-  - firstname: 'Atrina '
-    lastname: Oraee
-    titles_and_institutions: []
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
----
+- firstname: 'Atrina '
+  lastname: Oraee
+  titles_and_institutions: []
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+abstract: ''
+category_1: content/categories/wprn.md
+category_2: ''
+keywords: []
+language: ''
 
+---
 # Economy, housing, education: inequalities reinforced by the Covid pandemic-19 - Memorandum 11
 
 The Covid-19 pandemic has led to an economic crisis with strong social consequences. The main findings show an increase in inequalities and an increase in poverty. The poorest countries had fewer public resources to cope with this exogenous shock and their economies were particularly weakened. Within developed countries, the most vulnerable people were the most affected, while the richest people had little or no impact. The consequences of the pandemic affect people’s lives in many ways and inequalities are visible in different areas: income, employment, housing, education. These inequalities are intergenerational, gendered, social and economic.
