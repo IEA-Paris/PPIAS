@@ -119,6 +119,31 @@ fields:
     maxSize: 64
   label: Bibliography
   description: Insert a *.json file here
+- name: language
+  type: select
+  default: English
+  config:
+    required: false
+    options:
+    - English
+    - French
+    - German
+    - Italian
+    - Portuguese
+    - Dutch
+    - Russian
+    - Chinese
+    - Japanese
+    - Greek
+    - Spanish
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Language (facultative)
+  description: The language of the article content (be it media or text).Fallback
+    on english
 pages:
 - content/articles/Covid 19 & employment.md
 - content/articles/Covid#Migrants.md
