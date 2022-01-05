@@ -1,5 +1,5 @@
 <template>
-  <h2 class="my-6 d-block w-100">
+  <div class="my-6 d-block w-100">
     <div v-intersect="onIntersect" style="position: relative; padding-bottom: 56.25%; height: 0">
       <iframe
         ref="ytPlayer"
@@ -12,7 +12,7 @@
       ></iframe>
     </div>
     <div class="text-caption">{{ caption }}</div>
-  </h2>
+  </div>
 </template>
 <script>
 export default {

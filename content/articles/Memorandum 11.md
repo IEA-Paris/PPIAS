@@ -1,7 +1,7 @@
 ---
 issue: content/issues/10-12-2021.md
 category: Article
-keywords:
+tags:
   - 'Human Behaviours, Social Relations '
   - 'Inequalities, Poverty, Development '
   - 'Equality & Diversity Studies '
@@ -19,8 +19,9 @@ article_title: 'Economy, housing, education: inequalities reinforced by the Covi
 picture: ''
 picture_copyright: ''
 yt: ''
-published: false
+published: true
 pinned: false
+highlight: true
 bibliography: ''
 authors:
   - firstname: 'Atrina '

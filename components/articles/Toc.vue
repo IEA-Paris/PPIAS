@@ -18,6 +18,7 @@
           :class="[
             link.id === activeToc ? '' : 'text--secondary',
             link.depth === 2 ? ' font-weight-bold' : ' font-weight-regular',
+            { 'font-italic': link.isMedia },
           ]"
           :color="link.id === activeToc ? 'primary' : 'grey'"
           nuxt
@@ -33,7 +34,8 @@
             @click="$vuetify.goTo('#' + link.id, { offset: 100 }) && $router.replace({ hash: '#' + link.id })"
             @keyup.enter="$vuetify.goTo('#' + link.id, { offset: 100 }) && $router.replace({ hash: '#' + link.id })"
           >
-            <!--   <v-icon color="white" :small="link.depth !== 2">mdi-pencil</v-icon> -->
+            <v-icon v-if="link.isMedia" color="white" x-small>mdi-play</v-icon>
+            <!--   <v-icon  :small="link.depth !== 2">mdi-pencil</v-icon> -->
           </v-avatar>
         </template>
       </v-timeline-item>

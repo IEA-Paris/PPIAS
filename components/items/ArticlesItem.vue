@@ -23,26 +23,7 @@
         {{ item.article_title }}
       </template>
       <template #author>
-        <div>
-          <template v-if="item.authors.length === 2">
-            {{
-              item.authors[0].lastname +
-              ',&nbsp;' +
-              item.authors[0].firstname +
-              '&nbsp;and ' +
-              item.authors[1].lastname +
-              ',&nbsp;' +
-              item.authors[1].firstname
-            }}
-          </template>
-          <span v-for="(author, index2) in item.authors" v-else :key="index2">
-            <template v-if="index2 < 2">
-              <template v-if="index2 < 2">{{ author.lastname + ', ' + author.firstname }}</template>
-              <template v-if="item.authors.length > 1 && index2 === 0">,&nbsp;</template>
-              <template v-if="index2 === 1 && item.authors.length > 2">et&nbsp;al.</template>
-            </template>
-          </span>
-        </div>
+        <ArticleAuthorsString :authors="item.authors" />
       </template>
       <template #date>
         {{
@@ -56,7 +37,6 @@
 </template>
 <script>
 export default {
-  components: {},
   props: {
     scroll: {
       type: Boolean,
@@ -79,9 +59,9 @@ export default {
         }
       }),
       stats: {
-        countRefs: Math.floor(this.item.countRefs.length / 2),
-        countLines: this.item.countMap?.length,
-        countChars: this.item.countMap.reduce((partialSum, a) => partialSum + a, 0),
+        countRefs: Math.floor(this.item?.countRefs?.length / 2),
+        countLines: this.item?.countMap?.length,
+        countChars: this.item?.countMap.reduce((partialSum, a) => partialSum + a, 0),
         countContributors: 3,
         countHeadings: this.item?.toc?.length,
         countMediaCells: 2,

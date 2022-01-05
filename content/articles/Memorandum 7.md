@@ -1,7 +1,7 @@
 ---
 issue: content/issues/10-12-2021.md
 category: Article
-keywords:
+tags:
   - Big Data, Artificial Intelligence
   - 'Equality & Diversity Studies '
   - 'Human Behaviours, Social Relations '
@@ -16,7 +16,7 @@ article_title: Covid 19 and the media
 picture: ''
 picture_copyright: ''
 yt: ''
-published: false
+published: true
 pinned: false
 bibliography: ''
 authors:

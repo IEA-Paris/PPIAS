@@ -47,7 +47,10 @@ export const formatDate = (timestamp, withTime) => {
 
   return formatedDate
 }
-
+export const formatAuthors = (str) => {
+  if (!str) return []
+  else return str.split(' ').filter((item) => item.length > 1 && !stopWords.includes(item))
+}
 export const formatSearch = (str) => {
   if (!str) return []
   else return str.split(' ').filter((item) => item.length > 1 && !stopWords.includes(item))

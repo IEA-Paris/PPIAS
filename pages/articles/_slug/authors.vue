@@ -1,13 +1,7 @@
 <template>
   <ArticleContainer :item="item[0]">
     <div v-intersect="onIntersect"></div>
-    <Article v-if="item.length" :item="item[0]" :title="show"></Article>
-    <v-bottom-sheet v-model="note">
-      <v-sheet class="text-center" height="200px">
-        <v-btn class="mt-6" text color="red" @click="sheet = !sheet">close</v-btn>
-        <div class="py-3">{{ note }}</div>
-      </v-sheet>
-    </v-bottom-sheet>
+    <ArticleAuthors v-if="item.length" :item="item[0]" :title="show"></ArticleAuthors>
   </ArticleContainer>
 </template>
 <script>

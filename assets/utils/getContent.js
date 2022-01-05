@@ -1,9 +1,8 @@
 import filtersRaw from '~/assets/data/filters'
 
-export default async (cat, $content, query, search, deep) => {
+export default async (cat, $content, query, search, deep, mobile = false, perPage = 9) => {
   const currentPage = parseInt(query.page) || 1
   const filters = filtersRaw[cat]
-  const perPage = 5
 
   const tags = query.tags ? JSON.parse(query.tags) : []
   const pipeline = {
@@ -62,10 +61,43 @@ export default async (cat, $content, query, search, deep) => {
     pinnedItem = false
   }
 
+  // sort the highlighted items
   if (currentPage === 0 || !items.length) {
     return
   }
+  console.log('mobile: ', mobile)
+  console.log('items: ', typeof items)
 
+  // on mobile highlight slots are the first ones
+  if (mobile) {
+    items = items.sort((a, b) => b.highlight - a.highlight)
+  } else {
+    // on md highlight slots are on a 1/5/6 pattern
+    const availableSlots = perPage / 3
+    console.log('availableSlots:', availableSlots)
+    const highlightedItems = items.filter((item) => item.highlight)
+    console.log('highlightedItems: ', highlightedItems.length)
+    const slotedHighlightedItems = highlightedItems.slice(0, availableSlots)
+    console.log('slotedHighlightedItems:', slotedHighlightedItems.length)
+    const regularItems = [...highlightedItems.slice(availableSlots), ...items.filter((item) => !item.highlight)]
+    console.log('regularItems:', regularItems.length)
+
+    const sortedItems = []
+    slotedHighlightedItems.forEach((element, index) => {
+      sortedItems.push(element)
+      sortedItems.push(...regularItems.splice(index * 2, 2))
+    })
+    sortedItems.push(...regularItems)
+    items = sortedItems
+  }
+  console.log(
+    'items2: ',
+    items.map((item) => item.article_title),
+  )
+  console.log(
+    'highlights: ',
+    items.filter((item) => item.highlight).map((item) => item.article_title),
+  )
   return {
     total: totalItems,
     numberOfPages: lastPage,

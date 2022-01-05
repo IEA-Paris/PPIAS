@@ -29,6 +29,9 @@
       xmlns="http://www.w3.org/2000/svg"
       :width="size"
       :height="size"
+      @mouseenter="trigger()"
+      @animationend="finishedAnimation($event)"
+      @focusin="trigger()"
     >
       <rect id="overlay" width="100%" height="100%" fill="url(#g1)" />
       <!--  handled by parent component css  
@@ -149,6 +152,11 @@ export default {
   },
   data() {
     return {
+      active: false,
+      finishing: false,
+      maxDelay: 400, // 0.4s
+      animationDuration: 3000,
+      minimumAnimationDuration: 1000,
       radius: ((this.size / 2 - this.margin) * 2) / 3,
       // value radius, this give us extra safety margin.
       maxNumCharsRadius: ((this.size / 2 - this.margin) * 2) / 3 / 2,
@@ -158,6 +166,30 @@ export default {
   },
   mounted() {},
   methods: {
+    finishedAnimation(evt) {
+      // event will be triggered for each element being animatied in the container.
+      //
+      if (this.finishing) {
+        return
+      }
+      this.finishing = true
+      setTimeout(
+        () => {
+          this.active = false
+          this.finishing = false
+        },
+        // to properly calculate the delay needed since first event
+        // we need to total animation duration
+        // the smallest animation duration, of the sub elements
+        // and if there is a positive delay, we need the max from all sub elements.
+        this.animationDuration - this.minimumAnimationDuration + this.maxDelay,
+      )
+    },
+    trigger() {
+      if (!this.active) {
+        this.active = true
+      }
+    },
     scaleNumChars(n = this.maxNumCharsRadius / 2) {
       const pow = scalePow() // linear, commented out
         // .exponent(1)

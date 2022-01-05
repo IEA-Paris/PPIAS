@@ -1,7 +1,7 @@
 ---
 issue: content/issues/10-12-2021.md
 category: Article
-keywords:
+tags:
   - 'Equality & Diversity Studies '
   - Human Behaviours, Social Relations
   - 'Inequalities, Poverty, Development '
@@ -17,7 +17,7 @@ article_title: 'Gendered Responses and Marked Inequalities: The Pandemic as a Re
 picture: ''
 picture_copyright: ''
 yt: ''
-published: false
+published: true
 pinned: false
 bibliography: ''
 authors:

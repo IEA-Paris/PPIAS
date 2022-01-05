@@ -15,6 +15,7 @@ picture_copyright: ''
 yt: ''
 published: true
 pinned: false
+highlight: false
 bibliography: ''
 authors:
   - firstname: 'Atrina '

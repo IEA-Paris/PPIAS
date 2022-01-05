@@ -19,7 +19,7 @@ article_title: Impact of Covid 19 on students
 picture: ''
 picture_copyright: ''
 yt: ''
-published: false
+published: true
 pinned: false
 bibliography: ''
 authors:

@@ -1,7 +1,7 @@
 ---
 issue: content/issues/10-12-2021.md
 category: Article
-keywords:
+tags:
   - Agriculture
   - Food environments
   - Food security
@@ -22,8 +22,9 @@ article_title: 'COVID-19 and food: the search for food security at the heart of 
 picture: ''
 picture_copyright: ''
 yt: ''
-published: false
+published: true
 pinned: false
+highlight: false
 bibliography: ''
 authors:
   - firstname: 'Atrina '

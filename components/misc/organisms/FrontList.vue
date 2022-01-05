@@ -6,9 +6,6 @@
           <v-tooltip bottom>
             <template #activator="{ on, attrs }">
               <v-btn tile outlined text v-bind="attrs" class="pa-7" @click="filter = !filter" v-on="on">
-                <v-expand-transition>
-                  <span v-show="title && !filter">Menu</span>
-                </v-expand-transition>
                 <v-icon :left="!filter">{{ filter ? 'mdi-chevron-left' : 'mdi-chevron-right' }}</v-icon>
                 {{ filter ? '' : $t('filters') }}
               </v-btn>
@@ -49,7 +46,10 @@
               :key="section"
               class="transition-swing"
               :no-gutters="!$store.state.scrolled"
-              :class="[$store.state.scrolled ? '' : 'mx-12', { 'mt-6': section === 1 }]"
+              :class="[
+                $store.state.scrolled ? '' : $vuetify.breakpoint.mobile ? 'mx-2' : 'mx-6',
+                { 'mt-6': section === 1 },
+              ]"
             >
               <v-col cols="12" md="6" lg="8" class="transition-swing" :order="section % 2 ? 'first' : 'last'">
                 <component
@@ -167,6 +167,7 @@
       <div class="overline">
         <v-icon x-small>mdi-filter</v-icon>
         {{ $t('filters') }}
+        <!-- <Filters :type="type" :loading="loading" /> -->
       </div>
     </v-col>
   </v-row>
@@ -203,10 +204,10 @@ export default {
   },
   data() {
     return {
-      hover: false,
+      mobile: this.$vuetify.breakpoint.mobile,
       search: this.$route.query.search || '',
       filter: false,
-      itemsPerPageArray: [9, 15, 21],
+      itemsPerPageArray: [9, 12, 16],
       options: {
         itemsPerPage: 9,
         page: this.$route.query.page || 1,
@@ -220,7 +221,17 @@ export default {
     }
   },
   async fetch() {
-    const rst = await getContent(this.type, this.$content, this.$route.query, this.search, false)
+    // TODO: FIX > looks like mobile is not detected correctly
+    console.log('bkpoint', this.mobile)
+    const rst = await getContent(
+      this.type,
+      this.$content,
+      this.$route.query,
+      this.search,
+      false,
+      this.mobile,
+      this.options.itemsPerPage,
+    )
 
     if (rst) {
       this.total = rst.total
@@ -237,6 +248,7 @@ export default {
   computed: {},
 
   watchQuery() {
+    this.mobile = this.$vuetify.breakpoint.mobile
     this.fetch()
   },
 

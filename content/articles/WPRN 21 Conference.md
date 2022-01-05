@@ -1,14 +1,14 @@
 ---
 issue: content/issues/10-12-2021.md
 category: Article
-keywords: []
+tags: []
 date: 2021-12-06T15:34:39.000+00:00
 article_title: WPRN 21 Conference
 picture: ''
 picture_copyright: ''
 published: true
 pinned: false
-authors: []
+highlight: false
 bibliography: ''
 yt: ''
 article_author: ''

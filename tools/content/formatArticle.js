@@ -2,6 +2,8 @@ export default (document, database) => {
   if (document.category === 'Article') {
     let count = 0
     document.footnotes = []
+    document.media = []
+    const toc2 = []
     document.body.children = document.body.children.map((child, index) => {
       /*       console.log('child: ', child) */
       if (child.value !== '\n') {
@@ -10,19 +12,34 @@ export default (document, database) => {
           child.children
             .find((node) => node.tag === 'ol')
             .children.map((footnote) => {
-              console.log('footnote: ', footnote)
               if (footnote.tag === 'li') {
                 document.footnotes.push(footnote.children[0].value)
               }
               return true
             })
-          console.log('child: ', child)
           return {
             type: 'element',
             tag: 'div',
             props: { class: 'node d-flex' },
             children: [child],
           }
+        }
+        // make the upgraded toc
+        const flag = ['h2', 'h3', 'youtube'].indexOf(child.tag)
+        if (flag >= 0) {
+          toc2.push({
+            depth: flag + 2,
+            id: child.props.id || 'youtube_' + index,
+            text: document.toc.find((item) => item.id === child.props.id)?.text || child.props.caption,
+            isMedia: flag === 2,
+          })
+        }
+        if (flag === 2) {
+          document.media.push({
+            type: 'youtube',
+            id: child.props.yt,
+            caption: child.props.caption,
+          })
         }
         return {
           type: 'element',
@@ -46,6 +63,20 @@ export default (document, database) => {
               },
               children: [{ type: 'text', value: count }],
             },
+            ...(flag === 2
+              ? [
+                  {
+                    type: 'element',
+                    tag: 'h2',
+                    props: {
+                      class: '',
+                      id: 'youtube_' + index,
+                      // TODO addd vuetify goTo instead of link
+                    },
+                    children: [{ type: 'text', value: ' ' }],
+                  },
+                ]
+              : []),
             {
               type: 'element',
               tag: 'div',
@@ -60,6 +91,8 @@ export default (document, database) => {
         return child
       }
     })
+    // replace legacy toc
+    document.toc = toc2
     return document
   }
   return document

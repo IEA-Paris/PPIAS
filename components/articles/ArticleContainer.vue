@@ -30,24 +30,16 @@
         </div>
         <PageTitle :text="item.article_title" class="pa-6">
           <template v-if="item.authors.length">
-            <div class="mb-3 px-3 font-italic">
-              By
-              <template v-if="item.authors.length === 2">
-                {{
-                  item.authors[0].lastname +
-                  ', ' +
-                  item.authors[0].firstname +
-                  ' and ' +
-                  item.authors[1].lastname +
-                  ', ' +
-                  item.authors[1].firstname
-                }}
-              </template>
-              <span v-for="(author, index2) in item.authors" v-else :key="index2">
-                {{ author.lastname + ', ' + author.firstname }}
-                <template v-if="index2 < item.authors.length - 1">,&nbsp;</template>
-              </span>
-            </div>
+            <v-btn
+              large
+              text
+              class="mb-3 px-3 font-italic"
+              style="text-transform: none !important"
+              nuxt
+              :to="'/articles/' + item.slug + '/authors'"
+            >
+              <ArticleAuthorsString :authors="item.authors" />
+            </v-btn>
           </template>
         </PageTitle>
 

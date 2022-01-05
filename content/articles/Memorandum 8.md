@@ -1,7 +1,7 @@
 ---
 issue: content/issues/10-12-2021.md
 category: Article
-keywords:
+tags:
   - 'Human Behaviours, Social Relations '
   - 'Public Discourse, Rhetorics, Communication '
   - 'Violence, Criminality, Security '
@@ -22,8 +22,9 @@ article_title: Covid 19 and Politics
 picture: ''
 picture_copyright: ''
 yt: ''
-published: false
+published: true
 pinned: false
+highlight: false
 bibliography: ''
 authors:
   - firstname: 'Atrina '

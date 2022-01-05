@@ -1,7 +1,7 @@
 ---
 issue: content/issues/10-12-2021.md
 category: Article
-keywords:
+tags:
   - 'Public Health '
   - 'Leisure, Tourism '
   - 'Human Behaviours, Social Relations '
@@ -25,8 +25,9 @@ article_title: 'Covid-19 and environment: citizens in search of proximity with n
 picture: ''
 picture_copyright: ''
 yt: ''
-published: false
+published: true
 pinned: false
+highlight: false
 bibliography: ''
 authors:
   - firstname: 'Atrina '
