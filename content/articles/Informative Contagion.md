@@ -1,9 +1,9 @@
 ---
-category_1: contet/categories/WPRN - 21.md
+category_1: content/categories/WPRN21.md
 category_2: []
 issue: content/issues/10-12-2021.md
 keywords: []
-date: 2021-07-25T14:53:39Z
+date: 2021-07-25T14:53:39.000+00:00
 published: false
 article_title: 'Informative Contagion : The Coronavirus in Italian journalism'
 authors:
@@ -31,6 +31,7 @@ picture_copyright: ''
 yt: CfKbrSymTLI&list=PLLv_k1nsHewlD-pB7BCWsiQnNvb_NhPpO&index=40
 highlight: false
 bibliography: ''
+language: ''
 
 ---
 The spreading of new Coronavirus in addition to becoming a global phenomenon, following the declaration of a pandemic state, has generated excessive access to information, phenomenon named “Infodemia” (Cinelli et al., 2020). The general purpose of the exploratory study is to investigate how the coronavirus situation is described from the journalistic communication. Starting from La Repubblica online, as a reference journalistic magazine, the study assumes that if the circulation of information helps to create a social representation of the phenomenon, the excessive accessibility to sources of information (infodemia) can be modulated by the “how” the phenomenon is described by the journalists. The methodology proposed is quanti-qualitative (mixed method). A Content Analysis (Mayring, 2004) with the SketchEngine software (Thomas, 2016) is carried out first. In support, a Diatextual Analysis (Papapicco & Mininni, 2019) was carried out. The results show the presence of the contrast vision about COVID-19 situation in Italy.
