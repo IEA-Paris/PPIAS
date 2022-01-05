@@ -43,5 +43,6 @@ fields:
     title="https://vuetifyjs.com/en/styles/colors/#material-colors" target="_blank">https://vuetifyjs.com/en/styles/colors/#material-colors</a>
     for reference<br>
 pages:
+- content/categories/ICA.md
 - content/categories/fellows.md
 - content/categories/wprn.md
