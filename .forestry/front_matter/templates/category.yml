@@ -9,10 +9,41 @@ fields:
   label: Name
   description: Will be used in every language
 - name: color
-  type: color
-  label: Color
+  type: select
+  default: []
   config:
-    required: false
-    color_format: Hex
+    required: true
+    options:
+    - green
+    - light-blue
+    - teal
+    - red
+    - pink
+    - purple
+    - deep-purple
+    - indigo
+    - blue
+    - cyan
+    - light-green
+    - lime
+    - amber
+    - orange
+    - deep-orange
+    - brown
+    - blue-grey
+    - grey
+    - black
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Color
+  description: See <a href="https://vuetifyjs.com/en/styles/colors/#material-colors"
+    title="https://vuetifyjs.com/en/styles/colors/#material-colors" target="_blank">https://vuetifyjs.com/en/styles/colors/#material-colors</a>
+    for reference<br>
 pages:
-- contet/categories/WPRN - 21.md
+- content/categories/ICA.md
+- content/categories/WPRN21.md
+- content/categories/fellows.md
+- content/categories/wprn.md
