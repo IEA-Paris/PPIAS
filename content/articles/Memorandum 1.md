@@ -2,45 +2,51 @@
 issue: content/issues/10-12-2021.md
 category: Article
 tags:
-  - covid-19
-  - coronavirus
-  - socialnorms
-  - decision-making
-  - Infection likelihood perception
-  - Public Health
-  - 'Human Behaviours, Social Relations '
-  - Risks, Crisis Management
-  - Public Policy
-date: 2020-04-30T22:00:00Z
+- covid-19
+- coronavirus
+- socialnorms
+- decision-making
+- Infection likelihood perception
+- Public Health
+- 'Human Behaviours, Social Relations '
+- Risks, Crisis Management
+- Public Policy
+date: 2020-04-30T22:00:00.000+00:00
 article_title: Concern for others  is a better argument to foster social distancing
-picture: '/atm-social-distancing-1600x800-1.jpg'
+picture: "/atm-social-distancing-1600x800-1.jpg"
 picture_copyright: ''
 yt: ''
 published: true
 category1:
-  - color: green
-    text: Article
+- color: green
+  text: Article
 pinned: false
 highlight: true
 bibliography: ''
 authors:
-  - firstname: 'Atrina '
-    lastname: Oraee
-    titles_and_institutions: []
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
----
+- firstname: 'Atrina '
+  lastname: Oraee
+  titles_and_institutions: []
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+abstract: ''
+category_1: content/categories/wprn.md
+category_2: ''
+keywords: []
+language: ''
 
+---
 ## Concern for others is a better argument to foster social distancing - Memorandum 1 WPRN database
 
 Social psychology studies typically focus on social norms to understand, anticipate and  
