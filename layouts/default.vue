@@ -1,13 +1,15 @@
 <template>
   <v-app>
-    <TopBar />
-    <PlaceHolder></PlaceHolder>
-    <v-main style="padding-bottom: 5rem">
-      <v-container fluid>
-        <Nuxt />
-      </v-container>
-    </v-main>
-    <Footer />
+    <PlaceHolder v-if="isProd && mdp !== 'ieaftw'" @submit="mdp = $event"></PlaceHolder>
+    <template v-else>
+      <TopBar />
+      <v-main style="padding-bottom: 5rem">
+        <v-container fluid>
+          <Nuxt />
+        </v-container>
+      </v-main>
+      <Footer />
+    </template>
   </v-app>
 </template>
 
@@ -15,7 +17,10 @@
 export default {
   scrollToTop: true,
   data() {
-    return {}
+    return {
+      mdp: '',
+      isProd: process.env.NODE_ENV === 'production',
+    }
   },
   mounted() {
     /*  this.$nuxt.$loading.finish = function () {
