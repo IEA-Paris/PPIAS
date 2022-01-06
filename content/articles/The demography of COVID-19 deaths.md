@@ -42,7 +42,7 @@ picture_copyright: ''
 yt: QqunHRbkBUo&list=PLLv_k1nsHewlD-pB7BCWsiQnNvb_NhPpO&index=23&t=8s
 highlight: false
 bibliography: ''
-language: ''
+language: English
 
 ---
 AN OPEN ACCESS PLATFORM TO INTERNATIONAL DATA AND METADATA ON COVID-19 DEATHS 
