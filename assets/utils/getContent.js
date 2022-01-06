@@ -123,11 +123,11 @@ export default async (cat, $content, query, search, deep, mobile = false, perPag
   items = await Promise.all(
     items.map(async (item) => {
       if (item.category_1)
-        item.category_1 = await $content('/' + item.category_1.split('/').slice(1).join('/').split('.')[0])
+        item.category_1 = await $content(item.category_1.split('/').slice(1).join('/').split('.')[0])
           .only(['name', 'color'])
           .fetch()
       if (item.category_2)
-        item.category_2 = await $content('/' + item.category_2.split('/').slice(1).join('/').split('.')[0])
+        item.category_2 = await $content(item.category_2.split('/').slice(1).join('/').split('.')[0])
           .only(['name', 'color'])
           .fetch()
       return item
