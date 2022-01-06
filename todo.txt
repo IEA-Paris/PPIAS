@@ -1,0 +1,6 @@
+- media page with filters
+- filters frontpage
+- rich text footnote
+- bibliography
+- check footnote
+- 

@@ -14,6 +14,14 @@
           </v-tooltip>
         </div>
       </div>
+      <span class="mr-4 grey--text">
+        {{
+          $t('page-current-of-total', {
+            current: options.page,
+            total: numberOfPages,
+          })
+        }}
+      </span>
       <v-data-iterator
         :loading="loading"
         :items="items"
@@ -51,7 +59,13 @@
                 { 'mt-6': section === 1 },
               ]"
             >
-              <v-col cols="12" md="6" lg="8" class="transition-swing" :order="section % 2 ? 'first' : 'last'">
+              <v-col
+                cols="12"
+                md="6"
+                lg="8"
+                class="transition-swing"
+                :order="section % 2 ? 'first' : props.items[(section - 1) * 3 + 1] ? 'last' : 'first'"
+              >
                 <component
                   :is="type.charAt(0).toUpperCase() + type.slice(1) + 'Item'"
                   v-if="props.items[(section - 1) * 3]"
@@ -119,45 +133,40 @@
           </template>
         </template>
         <template #footer>
-          <v-container :fluid="layout.fluid">
+          <v-container>
             <v-row :no-gutters="layout.nogutters" justify="center" align="center">
-              <span class="grey--text">{{ $t('items-per-page') }}</span>
-              <v-menu offset-y>
-                <template #activator="{ on, attrs }">
-                  <v-btn dark text color="primary" class="ml-2" v-bind="attrs" v-on="on">
-                    {{ options.itemsPerPage }}
-                    <v-icon>mdi-chevron-down</v-icon>
-                  </v-btn>
-                </template>
-                <v-list>
-                  <v-list-item
-                    v-for="(number, index) in itemsPerPageArray"
-                    :key="index"
-                    @click="$store.commit('list/updateItemsPerPage', number)"
-                  >
-                    <v-list-item-title>{{ number }}</v-list-item-title>
-                  </v-list-item>
-                </v-list>
-              </v-menu>
+              <div class="ml-3 d-flex align-center">
+                <span class="grey--text pr-3">{{ $t('items-per-page') }}</span>
+                <v-select
+                  v-model="options.itemsPerPage"
+                  class="perPageSelect"
+                  text
+                  :items="itemsPerPageArray"
+                  hide-details
+                ></v-select>
+              </div>
 
+              <v-spacer></v-spacer>
+
+              <div v-if="numberOfPages > 1" class="text-center">
+                <v-pagination
+                  :total-visible="5"
+                  :v-model="options.page"
+                  :value="+$route.query.page || 1"
+                  :length="numberOfPages"
+                  @input="updatePage($event)"
+                ></v-pagination>
+              </div>
               <v-spacer></v-spacer>
 
               <span class="mr-4 grey--text">
                 {{
                   $t('page-current-of-total', {
                     current: options.page,
-                    total: total,
+                    total: numberOfPages,
                   })
                 }}
               </span>
-              <div v-if="numberOfPages > 1" class="text-center">
-                <v-btn icon class="mr-1" :disabled="options.page === 1" @click="page -= 1">
-                  <v-icon>mdi-chevron-left</v-icon>
-                </v-btn>
-                <v-btn icon class="ml-1" :disabled="options.page >= numberOfPages" @click="page += 1">
-                  <v-icon>mdi-chevron-right</v-icon>
-                </v-btn>
-              </div>
             </v-row>
           </v-container>
         </template>
@@ -223,6 +232,7 @@ export default {
   async fetch() {
     // TODO: FIX > looks like mobile is not detected correctly
     console.log('bkpoint', this.mobile)
+    if (!this.$route.query.search) this.search = null
     const rst = await getContent(
       this.type,
       this.$content,
@@ -246,17 +256,22 @@ export default {
     }
   },
   computed: {},
-
-  watchQuery() {
-    this.mobile = this.$vuetify.breakpoint.mobile
-    this.fetch()
+  watch: {
+    '$route.query': '$fetch',
   },
-
+  watchQuery: true,
   created() {},
   updated() {},
   methods: {
     onScroll() {
       this.$store.commit('setScrolled')
+    },
+    async updatePage(page) {
+      console.log('QURRY UPDATED', page)
+      await this.$router.push({
+        query: { ...this.$route.query, page },
+      })
+      this.options.page = +page
     },
   },
 }
@@ -275,5 +290,10 @@ export default {
 }
 .filter-column {
   outline: 1px dotted ButtonText;
+}
+.perPageSelect {
+  max-width: 52px;
+  margin-top: 0;
+  padding-top: 0;
 }
 </style>

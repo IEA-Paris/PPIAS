@@ -1,6 +1,7 @@
 <template>
   <v-app>
     <TopBar />
+    <PlaceHolder></PlaceHolder>
     <v-main style="padding-bottom: 5rem">
       <v-container fluid>
         <Nuxt />
@@ -12,7 +13,6 @@
 
 <script>
 export default {
-  components: {},
   scrollToTop: true,
   data() {
     return {}

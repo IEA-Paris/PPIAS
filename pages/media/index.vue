@@ -1,7 +1,7 @@
 <template>
   <div>
     <PageTitle text="media" />
-    <List type="media" :layout="{ cols: 12, md: 6, nogutters: false, fluid: true }"></List>
+    <FrontList type="media" :layout="{ cols: 12, md: 6, nogutters: false, fluid: true }"></FrontList>
   </div>
 </template>
 <script>

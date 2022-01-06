@@ -287,12 +287,4 @@ export default {
   line-height: 2.2rem;
   text-shadow: 1px 1px 0 alpha(black, 0.6);
 }
-#caption-author:after {
-  content: '';
-  width: 60px;
-  height: 2px;
-  background: rgb(76, 175, 80);
-  z-index: 3;
-  display: flex;
-}
 </style>

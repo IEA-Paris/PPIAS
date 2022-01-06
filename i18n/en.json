@@ -149,5 +149,7 @@
   "publication-date": "Publication date",
   "cite-or-export": "Cite or export",
   "about-0": "About",
-  "author_s": "author | author | authors"
+  "author_s": "author | author | authors",
+  "no-author-found-matching-this-article": "No author found matching this article",
+  "this-article-doesnt-contain-any-media": "This article doesn't contain any media"
 }

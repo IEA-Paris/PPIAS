@@ -1,5 +1,8 @@
 <template>
   <div class="ma-6">
+    <div v-if="!item.media || !item.media.length" class="headline pa-12 text-center">
+      {{ $t('this-article-doesnt-contain-any-media') }}
+    </div>
     <div v-for="(media, index) in item.media" :key="index" class="pb-6">
       <div class="text-h5">{{ media.caption }}</div>
       <Youtube v-if="media.type === 'youtube'" :yt="media.id"></Youtube>

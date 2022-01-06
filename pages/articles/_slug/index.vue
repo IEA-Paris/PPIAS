@@ -1,6 +1,7 @@
 <template>
   <ArticleContainer :item="item[0]">
     <div v-intersect="onIntersect"></div>
+    <Youtube v-if="item[0] && item[0].yt && item[0].yt.length" :yt="item[0].yt"></Youtube>
     <Article v-if="item.length" :item="item[0]" :title="show"></Article>
     <v-snackbar v-model="showNote" multi-line timeout="-1" outlined style="mt-0" class="note-snack">
       <div class="d-flex" align="end">
@@ -41,7 +42,9 @@ export default {
         slug: params.slug,
       })
       .fetch()
-
+    item.category_1 = await $content('/' + item[0].category_1.split('/').slice(1).join('/').split('.')[0]).fetch()
+    if (item.category_2)
+      item.category_2 = await $content('/' + item[0].category_2.split('/').slice(1).join('/').split('.')[0]).fetch()
     return {
       item,
     }

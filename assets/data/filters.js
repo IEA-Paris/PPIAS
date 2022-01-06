@@ -1,6 +1,11 @@
 export default {
   articles: {
     published: true,
-    category: 'Article',
+  },
+  authors: {},
+  media: {
+    media: {
+      $exists: true,
+    },
   },
 }

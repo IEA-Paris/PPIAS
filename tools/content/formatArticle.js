@@ -1,11 +1,18 @@
 export default (document, database) => {
-  if (document.category === 'Article') {
+  if (document.dir === '/articles' && document.published) {
     let count = 0
+    console.log(document.article_title)
     document.footnotes = []
     document.media = []
     const toc2 = []
+    if (document.yt) {
+      document.media.push({
+        type: 'youtube',
+        id: document.yt,
+        caption: document.article_title,
+      })
+    }
     document.body.children = document.body.children.map((child, index) => {
-      /*       console.log('child: ', child) */
       if (child.value !== '\n') {
         count++
         if (child?.props?.className && child?.props?.className.length && child?.props?.className[0] === 'footnotes') {

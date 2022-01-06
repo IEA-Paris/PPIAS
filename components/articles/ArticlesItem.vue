@@ -17,54 +17,48 @@
       :stats="stats"
       :size="size"
       :src="item.image"
-      :expanded="scroll"
-      :class="{ expanded: scroll }"
     >
       <template #categories>
-        <v-chip :color="item.category1.color" label class="white--text">
-          {{ item.category1.text }}
-        </v-chip>
-        <v-chip v-if="item.category2" :color="item.category2.color" label class="white--text">
-          {{ item.category2.text }}
-        </v-chip>
+        <ArticleCategories :item="item" />
       </template>
       <template #caption>
         {{ item.article_title }}
       </template>
       <template #author>
         <ArticleAuthorsString :authors="item.authors" />
-        <div class="underline" :style="'background-color:' + item.category1.color"></div>
+        <v-sheet :color="item.category_1.color" class="underline"></v-sheet>
       </template>
       <template #date>
-        {{
-          new Date(item.date).toLocaleDateString('EN', {
-            timezone: 'UTC',
-          })
-        }}
+        <div class="d-flex">
+          <v-sheet :color="item.category_1.color" class="sideline"></v-sheet>
+          {{
+            new Date(item.date).toLocaleDateString('EN', {
+              timezone: 'UTC',
+            })
+          }}
+        </div>
       </template>
     </TextFingerprint>
     <YoutubeThumbnail v-if="item.yt && item.yt.length" :item="item">
       <template #categories>
-        <v-chip :color="item.category1.color" label class="white--text">
-          {{ item.category1.text }}
-        </v-chip>
-        <v-chip v-if="item.category2" :color="item.category2.color" label class="white--text">
-          {{ item.category2.text }}
-        </v-chip>
+        <ArticleCategories :item="item" />
       </template>
       <template #caption>
         {{ item.article_title }}
       </template>
       <template #author>
         <ArticleAuthorsString :authors="item.authors" />
-        <div class="underline" :style="'background-color:' + item.category1.color"></div>
+        <v-sheet :color="item.category_1.color" class="underline"></v-sheet>
       </template>
       <template #date>
-        {{
-          new Date(item.date).toLocaleDateString('EN', {
-            timezone: 'UTC',
-          })
-        }}
+        <div class="d-flex">
+          <v-sheet :color="item.category_1.color" class="sideline"></v-sheet>
+          {{
+            new Date(item.date).toLocaleDateString('EN', {
+              timezone: 'UTC',
+            })
+          }}
+        </div>
       </template>
     </YoutubeThumbnail>
   </v-card>
@@ -72,10 +66,6 @@
 <script>
 export default {
   props: {
-    scroll: {
-      type: Boolean,
-      default: false,
-    },
     item: {
       required: true,
       type: Object,
@@ -120,7 +110,6 @@ export default {
         'Math.min([this.$refs.articleBox.$el.clientWidth, this.$refs.articleBox.$el.clientHeight]): ',
         Math.min(...[width, height]),
       )
-
       this.size = Math.min(...[smallest - 10, 500])
       console.log('this.size : ', this.size)
       this.ready = true
@@ -129,4 +118,14 @@ export default {
   },
 }
 </script>
-<style lang="scss"></style>
+<style lang="scss">
+.underline {
+  height: 3px;
+  width: 33%;
+}
+.sideline {
+  height: 2.2rem;
+  width: 3px;
+  margin-right: 0.4rem;
+}
+</style>

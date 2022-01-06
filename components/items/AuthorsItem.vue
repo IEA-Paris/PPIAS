@@ -1,99 +1,43 @@
 <template>
-  <v-row class="mt-12 mx-6" :class="{ 'mx:6': $vuetify.breakpoint.mdAndUp }">
-    <v-col
-      v-if="$vuetify.breakpoint.mdAndUp"
-      cols="3"
-      col-md-offset="1"
-      justify="center"
-      align="center"
-      class="d-flex flex-column align-center"
-    >
-      <v-avatar size="160" class="mb-3">
-        <img v-if="item.image" alt="Avatar" :src="item.image" />
-        <v-icon
-          v-else
-          class="white--text headline"
-          :style="'background-color:' + $vuetify.theme.themes.light.primary + '; font-style: normal;'"
-        >
-          {{ item.firstname[0] + item.lastname[0] }}
-        </v-icon>
-      </v-avatar>
-      <div class="flex-row justify-center">
-        <v-tooltip v-if="item.wikipedia" bottom>
+  <v-col v-bind="$attrs">
+    <v-card nuxt :to="localePath('/articles/' + item.slug + '/authors')">
+      <v-card-title>{{ item.firstname + ' ' + item.lastname }}</v-card-title>
+      <v-card-actions>
+        <v-tooltip v-for="social in getSocials(item)" :key="social.link" bottom>
           <template #activator="{ on, attrs }">
-            <v-btn icon text v-bind="attrs" :href="item.wikipedia" target="_blank" v-on="on">
-              <v-icon>mdi-wikipedia</v-icon>
+            <v-btn
+              v-bind="attrs"
+              :key="social.link"
+              icon
+              text
+              :href="social.link"
+              target="_blank"
+              v-on="on"
+              @click.stop
+            >
+              <v-icon>{{ social.icon }}</v-icon>
             </v-btn>
           </template>
-          <span>Check the Wikipedia page of the {{ mentor ? 'mentor' : 'fellow' }}</span>
+          <span>{{ social.tooltip }}</span>
         </v-tooltip>
-        <v-tooltip v-if="item.linkedin" bottom>
-          <template #activator="{ on, attrs }">
-            <v-btn icon text v-bind="attrs" :href="item.linkedin" target="_blank" v-on="on">
-              <v-icon>mdi-linkedin</v-icon>
-            </v-btn>
-          </template>
-          <span>Get in touch on Linkedin</span>
-        </v-tooltip>
-        <v-tooltip v-if="item.twitter" bottom>
-          <template #activator="{ on, attrs }">
-            <v-btn icon text v-bind="attrs" :href="item.twitter" target="_blank" v-on="on">
-              <v-icon>mdi-twitter</v-icon>
-            </v-btn>
-          </template>
-          <span>Follow this {{ mentor ? 'mentor' : 'fellow' }} on Twitter</span>
-        </v-tooltip>
-        <v-tooltip v-if="item.website" bottom>
-          <template #activator="{ on, attrs }">
-            <v-btn icon text v-bind="attrs" :href="item.website" target="_blank" v-on="on">
-              <v-icon>mdi-link-variant</v-icon>
-            </v-btn>
-          </template>
-          <span>Check this {{ mentor ? 'mentor' : 'fellow' }} personal website</span>
-        </v-tooltip>
-      </div>
-    </v-col>
-    <v-col cols="12" md="8">
-      <div class="text-h5 font-weight-black" v-html="highlight(item.firstname + ' ' + item.lastname, search)"></div>
-      <div class="text-h6 mb-3" v-html="highlight(item.title_and_institution, search)"></div>
-      <div v-if="$vuetify.breakpoint.smAndDown" class="flex-row justify-center mb-6">
-        <template v-for="social in getSocials(item)">
-          <v-tooltip :key="social.link" bottom>
-            <template #activator="{ on, attrs }">
-              <v-btn icon text v-bind="attrs" :href="social.link" target="_blank" v-on="on">
-                <v-icon>{{ social.icon }}</v-icon>
-              </v-btn>
-            </template>
-            <span>{{ social.tooltip }}</span>
-          </v-tooltip>
-        </template>
-        <template v-if="item.podcast">
-          <v-btn color="primary" target="_blank" :href="item.podcast" class="white--text">
-            <v-icon left>mdi-play-circle</v-icon>
-            Podcast
-          </v-btn>
-        </template>
-      </div>
-      <p v-html="highlight(item.presentation, search)"></p>
-      <small v-if="item.copyright" class="muted caption">Image of &copy; {{ item.copyright }}</small>
-      <v-expansion-panels v-if="mentor" class="mt-6">
-        <v-expansion-panel>
-          <v-expansion-panel-header>References</v-expansion-panel-header>
-          <v-expansion-panel-content>
-            <nuxt-content :document="item" />
-          </v-expansion-panel-content>
-        </v-expansion-panel>
-      </v-expansion-panels>
-    </v-col>
-  </v-row>
+      </v-card-actions>
+    </v-card>
+
+    <!--    <p v-html="highlight(item.presentation, search)"></p> -->
+    <!--     <small v-if="item.copyright" class="muted caption">Image of &copy; {{ item.copyright }}</small> -->
+    <!--     <v-expansion-panels v-if="mentor" class="mt-6">
+      <v-expansion-panel>
+        <v-expansion-panel-header>References</v-expansion-panel-header>
+        <v-expansion-panel-content>
+          <nuxt-content :document="item" />
+        </v-expansion-panel-content>
+      </v-expansion-panel>
+    </v-expansion-panels> -->
+  </v-col>
 </template>
 <script>
 export default {
   props: {
-    mentor: {
-      type: Boolean,
-      default: false,
-    },
     item: {
       type: Object,
       default: () => {},
@@ -117,30 +61,63 @@ export default {
     },
     getSocials(item) {
       const socials = []
-      if (item.website)
+      if (item.social_channels.website)
         socials.push({
-          link: item.website,
+          link: item.social_channels.website,
           icon: 'mdi-link-variant',
-          tooltip: 'Visit this ' + (this.mentor ? 'mentor' : 'fellow') + ' website',
+          tooltip: 'Visit this author website',
         })
-      if (item.wikipedia)
+      if (item.social_channels.wikipedia)
         socials.push({
-          link: item.wikipedia,
+          link: item.social_channels.wikipedia,
           icon: 'mdi-wikipedia',
-          tooltip: 'Check the Wikipedia page of the ' + (this.mentor ? 'mentor' : 'fellow'),
+          tooltip: 'Check the Wikipedia page of the author',
         })
-      if (item.linkedin)
+      if (item.social_channels.orcid)
         socials.push({
-          link: item.linkedin,
+          link: item.social_channels.orcid,
+          icon: 'mdi-account',
+          tooltip: 'Visit the author Orcid page',
+        })
+      if (item.social_channels.google_scholar)
+        socials.push({
+          link: item.social_channels.google_scholar,
+          icon: 'mdi-link-variant',
+          tooltip: 'Visit the author Google Scholar page',
+        })
+      if (item.social_channels.mendeley)
+        socials.push({
+          link: item.social_channels.mendeley,
+          icon: 'mdi-link-variant',
+          tooltip: 'Visit the author Mendeley page',
+        })
+      if (item.social_channels.researchgate)
+        socials.push({
+          link: item.social_channels.researchgate,
+          icon: 'mdi-link-variant',
+          tooltip: 'Visit the author Researchgate page',
+        })
+
+      if (item.social_channels.linkedin)
+        socials.push({
+          link: item.social_channels.linkedin,
           icon: 'mdi-linkedin',
           tooltip: 'Get in touch on Linkedin',
         })
-      if (item.twitter)
+      if (item.social_channels.twitter)
         socials.push({
-          link: item.twitter,
+          link: item.social_channels.twitter,
           icon: 'mdi-twitter',
-          tooltip: 'Follow this ' + (this.mentor ? 'mentor' : 'fellow') + ' on Twitter',
+          tooltip: 'Follow this author on Twitter',
         })
+
+      if (item.social_channels.instagram)
+        socials.push({
+          link: item.social_channels.instagram,
+          icon: 'mdi-instagram',
+          tooltip: 'Visit the author Instagram page',
+        })
+
       return socials
     },
   },

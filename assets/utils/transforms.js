@@ -29,7 +29,12 @@ export const getKey = (id, key) => {
   } */
   return selector.find((item) => item.value === id).text
 }
-
+export const groupBy = (xs, key) => {
+  return xs.reduce(function (rv, x) {
+    ;(rv[x[key]] = rv[x[key]] || []).push(x)
+    return rv
+  }, {})
+}
 export const formatDate = (timestamp, withTime) => {
   const date = new Date(timestamp * 1000)
   if (isNaN(date)) return 'Invalid date'
