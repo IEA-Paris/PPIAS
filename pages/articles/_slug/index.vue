@@ -42,9 +42,9 @@ export default {
         slug: params.slug,
       })
       .fetch()
-    item.category_1 = await $content('/' + item[0].category_1.split('/').slice(1).join('/').split('.')[0]).fetch()
+    item.category_1 = await $content(item[0].category_1.split('/').slice(1).join('/').split('.')[0]).fetch()
     if (item.category_2)
-      item.category_2 = await $content('/' + item[0].category_2.split('/').slice(1).join('/').split('.')[0]).fetch()
+      item.category_2 = await $content(item[0].category_2.split('/').slice(1).join('/').split('.')[0]).fetch()
     return {
       item,
     }

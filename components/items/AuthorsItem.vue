@@ -82,19 +82,19 @@ export default {
       if (item.social_channels.google_scholar)
         socials.push({
           link: item.social_channels.google_scholar,
-          icon: 'mdi-link-variant',
+          icon: 'mdi-google',
           tooltip: 'Visit the author Google Scholar page',
         })
       if (item.social_channels.mendeley)
         socials.push({
           link: item.social_channels.mendeley,
-          icon: 'mdi-link-variant',
+          icon: 'mdi-school',
           tooltip: 'Visit the author Mendeley page',
         })
       if (item.social_channels.researchgate)
         socials.push({
           link: item.social_channels.researchgate,
-          icon: 'mdi-link-variant',
+          icon: 'mdi-flask',
           tooltip: 'Visit the author Researchgate page',
         })
 
