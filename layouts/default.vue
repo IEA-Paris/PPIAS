@@ -1,15 +1,15 @@
 <template>
   <v-app>
-    <PlaceHolder v-if="isProd || mdp !== 'ieaftw'" @submit="mdp = $event"></PlaceHolder>
-    <template v-else>
-      <TopBar />
-      <v-main style="padding-bottom: 5rem">
-        <v-container fluid>
-          <Nuxt />
-        </v-container>
-      </v-main>
-      <Footer />
-    </template>
+    <!--     <PlaceHolder v-if="isProd || mdp !== 'ieaftw'" @submit="mdp = $event"></PlaceHolder>
+    <template v-else> -->
+    <TopBar />
+    <v-main style="padding-bottom: 5rem">
+      <v-container fluid>
+        <Nuxt />
+      </v-container>
+    </v-main>
+    <Footer />
+    <!--    </template> -->
   </v-app>
 </template>
 
