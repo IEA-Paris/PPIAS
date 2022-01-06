@@ -67,7 +67,7 @@ WPRN also benefited form the generous support of the French ministry for Higher 
 
 With over 1,000 registered research projects and initiatives, the online platform of the World Pandemic Research Network is the first tool enabling the community working on the on the human, economic, and societal impacts of Covid-19 to showcase, access and discuss projects.
 
-# WPRN 21 Conference in Paris
+## WPRN 21 Conference in Paris
 
 \#WPRN21 conference goes one step further to encourage collective intelligence and foster interactivity. It is the first international forum bringing together researchers and practitioners from all areas of expertise and backgrounds working on the impacts of Covid-19, giving them the opportunity to present ongoing projects, share and disseminate insights and results, and to make connections for future collaboration.
 
