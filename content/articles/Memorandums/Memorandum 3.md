@@ -1,19 +1,18 @@
 ---
 issue: content/issues/10-12-2021.md
-category: Article
 tags:
-- Students
-- Stress
-- Depression
-- " mental health"
-- Education
-- Public Health
-- 'Social protection '
-- 'Social Relations '
-- Human Behaviours
-- Public Policy, Evaluation, Impact
-- Equality & Diversity Studies
-- Psychological
+  - Students
+  - Stress
+  - Depression
+  - ' mental health'
+  - Education
+  - Public Health
+  - 'Social protection '
+  - 'Social Relations '
+  - Human Behaviours
+  - Public Policy, Evaluation, Impact
+  - Equality & Diversity Studies
+  - Psychological
 date: 2020-06-30T22:00:00.000+00:00
 article_title: Impact of Covid 19 on students
 picture: ''
@@ -21,35 +20,35 @@ picture_copyright: ''
 yt: ''
 published: true
 category1:
-- color: green
-  text: Article
+  - color: green
+    text: Article
 pinned: false
 bibliography: ''
 authors:
-- firstname: 'Atrina '
-  lastname: Oraee
-  titles_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
+  - firstname: 'Atrina '
+    lastname: Oraee
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
 abstract: ''
 category_1: content/categories/wprn.md
 category_2: ''
 highlight: false
 keywords: []
 language: ''
-
 ---
+
 # Impact of Covid 19 on students - Memorandum 3
 
 The social distancing measures taken by the authorities in response to Covid 19 have had major economic and psychological consequences on the population. In particular, students were subject to major disruption.

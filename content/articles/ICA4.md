@@ -1,6 +1,5 @@
 ---
 issue: content/issues/10-12-2021.md
-category: Article
 keywords:
   - Artificial Intelligence
   - Data science

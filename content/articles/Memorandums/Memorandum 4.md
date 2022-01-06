@@ -1,17 +1,16 @@
 ---
 issue: content/issues/10-12-2021.md
-category: Article
 tags:
-- 'Human Behaviours, Social Relations '
-- 'Public Policy, Evaluation, Impact '
-- 'Risks, Crisis Management '
-- 'Culture and The Arts '
-- 'Digital Humanities '
-- 'Work, Welfare, Social protection '
-- 'Violence, Criminality, Security '
-- 'Public Health '
-- 'Inequalities, Poverty, Development '
-- 'Innovation, R&D '
+  - 'Human Behaviours, Social Relations '
+  - 'Public Policy, Evaluation, Impact '
+  - 'Risks, Crisis Management '
+  - 'Culture and The Arts '
+  - 'Digital Humanities '
+  - 'Work, Welfare, Social protection '
+  - 'Violence, Criminality, Security '
+  - 'Public Health '
+  - 'Inequalities, Poverty, Development '
+  - 'Innovation, R&D '
 date: 2020-07-31T22:00:00.000+00:00
 article_title: 'Teleworking  '
 picture: ''
@@ -19,67 +18,67 @@ picture_copyright: ''
 yt: ''
 published: true
 category1:
-- color: green
-  text: Article
+  - color: green
+    text: Article
 pinned: false
 highlight: false
 bibliography: ''
 authors:
-- firstname: Atrina
-  lastname: Oraee
-  titles_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: David
-  lastname: Bowie
-  titles_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: Freddy
-  lastname: Mercury
-  titles_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
+  - firstname: Atrina
+    lastname: Oraee
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: David
+    lastname: Bowie
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: Freddy
+    lastname: Mercury
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
 abstract: ''
 category_1: content/categories/wprn.md
 category_2: ''
 keywords: []
 language: ''
-
 ---
+
 ## Teleworking: a better quality of life for the employee but risks of isolation and of losing contact with the employer - Memorandum 4
 
 The social distancing and health protection measures taken in response to the Covid 19 pandemic have led companies to make massive use of teleworking. According to a study by the French Ministry of Labor, one employee in four teleworked during the confinement in France, two out of three of whom had not experimented with this practice, according to a study conducted by the CGT trade union. Many workers, mostly managers, thus began to work remotely for part of the week or the entire week, a practice that is causing debate as to the relevance of its generalization in the future.

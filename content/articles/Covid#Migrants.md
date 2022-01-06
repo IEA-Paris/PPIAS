@@ -1,5 +1,5 @@
 ---
-category_1: contet/categories/WPRN - 21.md
+category_1: content/categories/WPRN.md
 category_2: content/categories/WPRN21.md
 issue: content/issues/10-12-2021.md
 keywords:

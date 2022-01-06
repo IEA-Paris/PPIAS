@@ -1,6 +1,5 @@
 ---
 issue: content/issues/10-12-2021.md
-category: Article
 tags:
   - 'Human Behaviours, Social Relations '
   - 'Inequalities, Poverty, Development '

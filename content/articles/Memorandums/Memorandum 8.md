@@ -1,22 +1,21 @@
 ---
 issue: content/issues/10-12-2021.md
-category: Article
 tags:
-- 'Human Behaviours, Social Relations '
-- 'Public Discourse, Rhetorics, Communication '
-- 'Violence, Criminality, Security '
-- 'Work, Welfare, Social protection '
-- 'Religions and Worldviews '
-- Firms, Markets, Finance
-- 'Dataset, Data Mining '
-- 'Qualitative analysis '
-- 'Democracy, Civil Society, Governance '
-- 'Public Policy, Evaluation, Impact '
-- 'Public Health '
-- Risks, Crisis Management
-- 'International Relations and Co-operation '
-- 'Inequalities, Poverty, Development '
-- Equality & Diversity Studies
+  - 'Human Behaviours, Social Relations '
+  - 'Public Discourse, Rhetorics, Communication '
+  - 'Violence, Criminality, Security '
+  - 'Work, Welfare, Social protection '
+  - 'Religions and Worldviews '
+  - Firms, Markets, Finance
+  - 'Dataset, Data Mining '
+  - 'Qualitative analysis '
+  - 'Democracy, Civil Society, Governance '
+  - 'Public Policy, Evaluation, Impact '
+  - 'Public Health '
+  - Risks, Crisis Management
+  - 'International Relations and Co-operation '
+  - 'Inequalities, Poverty, Development '
+  - Equality & Diversity Studies
 date: 2020-11-30T23:00:00.000+00:00
 article_title: 'Covid 19 and Politics '
 picture: ''
@@ -24,35 +23,35 @@ picture_copyright: ''
 yt: ''
 published: true
 category1:
-- color: green
-  text: Article
+  - color: green
+    text: Article
 pinned: false
 highlight: false
 bibliography: ''
 authors:
-- firstname: 'Victor '
-  lastname: Gallonnier
-  titles_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
+  - firstname: 'Victor '
+    lastname: Gallonnier
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
 abstract: ''
 category_1: content/categories/wprn.md
 category_2: ''
 keywords: []
 language: ''
-
 ---
+
 # Covid 19 and Politics: The contrasting influence of political rhetoric on perceptions of the pandemic - Memorandum 8
 
 Governments have responded to the pandemic with an arsenal of public policies certainly never before deployed on this scale in peacetime. To justify these measures (social distancing, confinement, etc.), the political figures in power have developed a variety of political rhetoric. What arguments have been put forward the most? By what means of communication? How were they received by voters? What role did partisan cleavages play in the perception of discourse and in the application of measures proposed by decision-makers? Several studies in the WPRN database analyze the political rhetoric developed during the pandemic and its central role in citizens’ perception of the dangerousness of the virus and their compliance with health measures.

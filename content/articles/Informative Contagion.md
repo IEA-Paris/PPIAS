@@ -1,6 +1,6 @@
 ---
 category_1: content/categories/WPRN21.md
-category_2: []
+category_2: ''
 issue: content/issues/10-12-2021.md
 keywords: []
 date: 2021-07-25T14:53:39.000+00:00
