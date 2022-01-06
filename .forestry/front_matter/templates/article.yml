@@ -10,7 +10,7 @@ fields:
   config:
     required: true
     min: 5
-    max: 100
+    max: 200
   label: Article Title
 - name: authors
   type: field_group_list
