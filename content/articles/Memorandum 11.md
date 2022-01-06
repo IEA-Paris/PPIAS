@@ -47,7 +47,7 @@ keywords: []
 language: ''
 ---
 
-# Economy, housing, education: inequalities reinforced by the Covid pandemic-19 - Memorandum 11
+## Economy, housing, education: inequalities reinforced by the Covid pandemic-19 - Memorandum 11
 
 The Covid-19 pandemic has led to an economic crisis with strong social consequences. The main findings show an increase in inequalities and an increase in poverty. The poorest countries had fewer public resources to cope with this exogenous shock and their economies were particularly weakened. Within developed countries, the most vulnerable people were the most affected, while the richest people had little or no impact. The consequences of the pandemic affect people’s lives in many ways and inequalities are visible in different areas: income, employment, housing, education. These inequalities are intergenerational, gendered, social and economic.
 

@@ -11,14 +11,13 @@ keywords:
   - Robots
 date: 2021-12-07T12:54:42.000+00:00
 article_title: 8 Days at ICA 4 First session in Paris
-authors: []
 picture: ''
 picture_copyright: ''
 yt: ''
 published: true
 pinned: false
 bibliography: '/test.bib'
-redactors:
+authors:
   - firstname: 'Atrina '
     lastname: Oraee
     titles_and_institutions: []
