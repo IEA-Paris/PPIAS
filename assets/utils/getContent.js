@@ -42,9 +42,7 @@ export default async (cat, $content, query, search, deep, mobile = false, perPag
             }
           })
           .flat()
-          .filter((item) => item !== undefined)
-
-  console.log('count: ', count)
+          .filter((item, index, self) => item !== undefined)
 
   // merge authors
   if (cat === 'authors') {
@@ -53,11 +51,11 @@ export default async (cat, $content, query, search, deep, mobile = false, perPag
       ;(rv[x.social_channels.orcid] = rv[x.social_channels.orcid] || []).push(x)
       return rv
     }, {})
-    console.log('sortedItems: ', sortedItems)
+    /*  console.log('sortedItems: ', sortedItems) */
   }
   const totalItems = count.length
 
-  console.log('totalItems: ', totalItems)
+  /*   console.log('totalItems: ', totalItems) */
 
   // use Math.ceil to round up to the nearest whole number
   const lastPage = Math.ceil(totalItems / perPage)

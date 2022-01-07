@@ -18,13 +18,13 @@ export default {
   lang: {
     default: 'en',
     locales: [
-      {
+      /*       {
         code: 'fr',
         iso: 'fr-FR',
         name: 'French',
         file: 'fr.json',
         dir: 'ltr',
-      },
+      }, */
       {
         code: 'en',
         iso: 'en-US',

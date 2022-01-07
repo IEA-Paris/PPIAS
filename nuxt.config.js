@@ -70,6 +70,7 @@ export default {
     { src: '~plugin/i18n-config.js' },
     { src: '~/plugin/vuetify-theme', mode: 'client' },
     /*  { src: '~/plugin/apollo-config', mode: 'client' }, */
+    { src: '~/plugin/vue-youtube', mode: 'client' },
     '~/plugin/jsonld',
     { src: '~/plugin/vuex-persist', ssr: false },
   ],
@@ -237,7 +238,7 @@ export default {
     icons: [],
   },
   styleResources: {
-    scss: ['./assets/*.scss'],
+    scss: ['./assets/*.scss', './node_modules/lite-youtube-embed/src/lite-yt-embed.css'],
   },
   // https://i18n.nuxtjs.org/
   i18n: {

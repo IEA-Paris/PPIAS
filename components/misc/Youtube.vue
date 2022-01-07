@@ -1,7 +1,20 @@
 <template>
   <div class="my-6 d-block w-100">
-    <div v-intersect="onIntersect" style="position: relative; padding-bottom: 56.25%; height: 0">
-      <iframe
+    <div
+      style="position: relative; padding-bottom: 56.25%; height: 0"
+      @focus="handleEvent('playVideo')"
+      @mouseenter="handleEvent('playVideo')"
+      @mouseleave="handleEvent('pauseVideo')"
+      @blur="handleEvent('pauseVideo')"
+    >
+      <lite-youtube
+        id="ytPlayer"
+        ref="ytPlayer"
+        :videoid="yt"
+        :playlabel="caption"
+        params="controls=0&modestbranding=2&rel=0&enablejsapi=1"
+      ></lite-youtube>
+      <!--       <iframe
         ref="ytPlayer"
         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%"
         :src="
@@ -13,7 +26,8 @@
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
         :title="caption"
-      ></iframe>
+      >
+</iframe> -->
     </div>
     <div v-if="caption" class="text-caption">{{ caption }}</div>
   </div>
@@ -46,11 +60,15 @@ export default {
 
   mounted() {},
   methods: {
-    onIntersect(entries, observer) {
-      // More information about these options
-      // is located here: https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
-      this.isIntersecting = entries[0].isIntersecting
+    handleEvent(event) {
+      console.log('event: ', this.$refs.ytPlayer)
+      /*  await this.$refs.ytPlayer[event]() */
     },
   },
 }
 </script>
+<style lang="scss">
+lite-youtube {
+  max-width: none !important;
+}
+</style>

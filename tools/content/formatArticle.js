@@ -1,7 +1,7 @@
 export default (document, database) => {
   if (document.dir === '/articles' && document.published) {
     let count = 0
-    console.log(document.article_title)
+    /*  console.log(document.article_title) */
     document.footnotes = []
     document.media = []
     const toc2 = []
@@ -42,11 +42,12 @@ export default (document, database) => {
           })
         }
         if (flag === 2) {
-          document.media.push({
-            type: 'youtube',
-            id: child.props.yt,
-            caption: child.props.caption,
-          })
+          if (!document.media.find((item) => item.id === child.props.yt))
+            document.media.push({
+              type: 'youtube',
+              id: child.props.yt,
+              caption: child.props.caption,
+            })
         }
         return {
           type: 'element',

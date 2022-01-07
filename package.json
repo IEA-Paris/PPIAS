@@ -27,6 +27,7 @@
     "d3": "^7.1.1",
     "d3-array": "^3.1.1",
     "d3-scale": "^4.0.2",
+    "lite-youtube-embed": "^0.2.0",
     "nuxt": "^2.15.7",
     "puppeteer": "^11.0.0",
     "remark-bibliography": "^1.0.0",
@@ -77,5 +78,8 @@
     "prettier": "^2.2.1",
     "vue-eslint-parser": "^7.0.0",
     "vue-jest": "^3.0.4"
+  },
+  "rules": {
+    "no-console": "off"
   }
 }
