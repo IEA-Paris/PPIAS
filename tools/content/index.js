@@ -1,3 +1,4 @@
+/* eslint-disable no-useless-escape */
 import path from 'path'
 import fs from 'fs'
 import addCountMap from './addCountMap'
