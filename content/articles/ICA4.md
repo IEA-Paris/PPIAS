@@ -1,13 +1,13 @@
 ---
 issue: content/issues/10-12-2021.md
 keywords:
-  - Artificial Intelligence
-  - Data science
-  - Deep learning
-  - Responsability
-  - Algorithms
-  - Language
-  - Robots
+- Artificial Intelligence
+- Data science
+- Deep learning
+- Responsability
+- Algorithms
+- Language
+- Robots
 date: 2021-12-07T12:54:42.000+00:00
 article_title: 8 Days at ICA 4 First session in Paris
 picture: ''
@@ -15,42 +15,43 @@ picture_copyright: ''
 yt: ''
 published: true
 pinned: false
-bibliography: '/test.bib'
+bibliography: "/test.bib"
 authors:
-  - firstname: 'Atrina '
-    lastname: Oraee
-    titles_and_institutions: []
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
+- firstname: 'Atrina '
+  lastname: Oraee
+  titles_and_institutions: []
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: content/authors/orae.md
 abstract: ''
 category_1: content/categories/ICA.md
 category_2: ''
 highlight: false
 language: ''
 tags:
-  - Artificial Intelligence
-  - Data science
-  - Deep learning
-  - Responsability
-  - Algorithms
-  - Language
-  - Robots
+- Artificial Intelligence
+- Data science
+- Deep learning
+- Responsability
+- Algorithms
+- Language
+- Robots
 doi: '169059797'
 category1:
-  - color: green
-    text: Article
----
+- color: green
+  text: Article
 
+---
 ## Introduction
 
 The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe\[^1\].
