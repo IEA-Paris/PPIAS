@@ -145,21 +145,4 @@ fields:
   description: The language of the article content (be it media or text).Fallback
     on english
 pages:
-- content/articles/Covid 19 & employment.md
-- content/articles/Covid#Migrants.md
 - content/articles/ICA4.md
-- content/articles/Informative Contagion.md
-- content/articles/Memorandum 1.md
-- content/articles/Memorandum 10.md
-- content/articles/Memorandum 11.md
-- content/articles/Memorandum 2.md
-- content/articles/Memorandum 3.md
-- content/articles/Memorandum 4.md
-- content/articles/Memorandum 6.md
-- content/articles/Memorandum 7.md
-- content/articles/Memorandum 8.md
-- content/articles/Memorandum 9.md
-- content/articles/Our Microbial Lives.md
-- content/articles/The demography of COVID-19 deaths.md
-- content/articles/Topic modelling.md
-- content/articles/WPRN 21 Conference.md
