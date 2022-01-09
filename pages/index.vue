@@ -5,13 +5,16 @@
   </div>
 </template>
 <script>
+import testef from '~/assets/utils/test'
 export default {
   props: {},
   data() {
     return {}
   },
   computed: {},
-  mounted() {},
+  mounted() {
+    testef(this.$content)
+  },
   methods: {},
 }
 </script>
