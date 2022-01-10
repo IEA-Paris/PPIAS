@@ -3,33 +3,33 @@ category_1: content/categories/WPRN21.md
 category_2: ''
 issue: content/issues/10-12-2021.md
 keywords:
-  - 'Dataset, Data Mining '
-  - 'Report '
-  - 'Policy Document '
-  - Press article
-date: 2022-01-10T23:00:00Z
-published: true
+- 'Dataset, Data Mining '
+- 'Report '
+- 'Policy Document '
+- Press article
+date: 2022-01-10T23:00:00.000+00:00
+published: false
 article_title: The demography of COVID-19 deaths
 authors:
-  - firstname: 'Arianna '
-    lastname: Caporali
-    titles_and_institutions:
-      - titles:
-          - Ingénieure de recherche
-        institution: INED (France)
-    social_channels:
-      linkedin: https://fr.linkedin.com/in/arianna-caporali-0a7aa056
-      researchgate: https://www.researchgate.net/profile/Arianna-Caporali
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      mendeley: ''
-    picture: ''
-    picture_copyright: ''
-    reference: ''
+- firstname: 'Arianna '
+  lastname: Caporali
+  titles_and_institutions:
+  - titles:
+    - Ingénieure de recherche
+    institution: INED (France)
+  social_channels:
+    linkedin: https://fr.linkedin.com/in/arianna-caporali-0a7aa056
+    researchgate: https://www.researchgate.net/profile/Arianna-Caporali
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    mendeley: ''
+  picture: ''
+  picture_copyright: ''
+  reference: ''
 abstract: "Presentation video for the WPRN21 conference - WPRN-445752\nSince the start
   of the pandemic, statistical offices in many countries have been publishing daily
   estimates of COVID-19 deaths. This project collects material from national reports
@@ -43,8 +43,8 @@ yt: QqunHRbkBUo
 highlight: false
 bibliography: ''
 language: English
----
 
+---
 AN OPEN ACCESS PLATFORM TO INTERNATIONAL DATA AND METADATA ON COVID-19 DEATHS
 
 AIM. Since the start of the pandemic, statistical offices in many countries have been publishing daily estimates of COVID-19 deaths. This project collects material from national reports and databases presenting these numbers and publishes it in a freely accessible and duly documented international database on COVID-19 mortality. The aim is to provide researchers and non-specialists with tools to rigorously assess the accuracy of COVID-19 death counts for international comparisons of the pandemic.
