@@ -30,7 +30,11 @@
     </template>
     <template #default="props">
       <v-container :fluid="layout.fluid">
-        <v-row :no-gutters="layout.nogutters" justify="center" class="transition-swing mt-6">
+        <v-row
+          :no-gutters="layout.nogutters"
+          justify="center"
+          class="transition-swing mt-6"
+        >
           <component
             :is="type.charAt(0).toUpperCase() + type.slice(1) + 'Item'"
             v-for="item in props.items"
@@ -86,7 +90,14 @@
           <span class="grey--text">{{ $t('items-per-page') }}</span>
           <v-menu offset-y>
             <template #activator="{ on, attrs }">
-              <v-btn dark text color="primary" class="ml-2" v-bind="attrs" v-on="on">
+              <v-btn
+                dark
+                text
+                color="primary"
+                class="ml-2"
+                v-bind="attrs"
+                v-on="on"
+              >
                 {{ options.itemsPerPage }}
                 <v-icon>mdi-chevron-down</v-icon>
               </v-btn>
@@ -113,10 +124,20 @@
             }}
           </span>
           <div v-if="numberOfPages > 1" class="text-center">
-            <v-btn icon class="mr-1" :disabled="options.page === 1" @click="options.page -= 1">
+            <v-btn
+              icon
+              class="mr-1"
+              :disabled="options.page === 1"
+              @click="options.page -= 1"
+            >
               <v-icon>mdi-chevron-left</v-icon>
             </v-btn>
-            <v-btn icon class="ml-1" :disabled="options.page >= numberOfPages" @click="options.page += 1">
+            <v-btn
+              icon
+              class="ml-1"
+              :disabled="options.page >= numberOfPages"
+              @click="options.page += 1"
+            >
               <v-icon>mdi-chevron-right</v-icon>
             </v-btn>
           </div>
@@ -173,13 +194,19 @@ export default {
     }
   },
   async fetch() {
-    const rst = await getContent(this.type, this.$content, this.$route.query, this.search, false)
+    const rst = await getContent(
+      this.type,
+      this.$content,
+      this.$route.query,
+      this.search,
+      true
+    )
 
     if (rst) {
       this.total = rst.total
       this.numberOfPages = rst.numberOfPages
       this.pinnedItem = rst.pinnedItem
-      this.items = rst.items
+      this.items = rst.items.reverse()
     } else {
       this.total = 0
       this.numberOfPages = 1

@@ -1,9 +1,19 @@
 <template>
   <div>
-    <v-chip v-if="item.category_1" :color="item.category_1.color" label class="white--text">
+    <v-chip
+      v-if="item.category_1"
+      :color="item.category_1.color"
+      label
+      class="white--text"
+    >
       {{ item.category_1.name }}
     </v-chip>
-    <v-chip v-if="item.category_2" :color="item.category2.color" label class="white--text">
+    <v-chip
+      v-if="item.category_2"
+      :color="item.category_2.color"
+      label
+      class="white--text"
+    >
       {{ item.category_2.name }}
     </v-chip>
   </div>

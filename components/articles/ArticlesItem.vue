@@ -85,18 +85,30 @@ export default {
       stats: {
         countRefs: Math.floor(this.item?.countRefs?.length / 2),
         countLines: this.item?.countMap?.length,
-        countChars: this.item?.countMap.reduce((partialSum, a) => partialSum + a, 0),
+        countChars: this.item?.countMap.reduce(
+          (partialSum, a) => partialSum + a,
+          0
+        ),
         countContributors: 3,
         countHeadings: this.item?.toc?.length,
         countMediaCells: 2,
         countCodeCells: 10,
         countCells: this.item.body.children.length,
-        extentChars: [Math.min(...this.item.countMap), Math.max(...this.item.countMap)],
-        extentRefs: [Math.min(...this.item.countRefs), Math.max(...this.item.countRefs)],
+        extentChars: [
+          Math.min(...this.item.countMap),
+          Math.max(...this.item.countMap),
+        ],
+        extentRefs: [
+          Math.min(...this.item.countRefs),
+          Math.max(...this.item.countRefs),
+        ],
       },
     }
   },
   computed: {},
+  created() {
+    console.log('item', this.item)
+  },
   mounted() {
     this.resizeItem()
   },
@@ -105,13 +117,9 @@ export default {
       const width = this.$refs.articleBox.$el.clientWidth
       const height = this.$refs.articleBox.$el.clientHeight
       const smallest = Math.min(...[width, height])
-      console.log('widthString: ', width)
-      console.log(
-        'Math.min([this.$refs.articleBox.$el.clientWidth, this.$refs.articleBox.$el.clientHeight]): ',
-        Math.min(...[width, height]),
-      )
+
       this.size = Math.min(...[smallest - 10, 500])
-      console.log('this.size : ', this.size)
+
       this.ready = true
       /*    this.$set(this.$refs.articleBox, 'width', widthString) */
     },

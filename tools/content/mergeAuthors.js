@@ -144,7 +144,6 @@ export default async (content) => {
   authorsDocs = [...authorsDocs, ...secondPass.second]
 
   // TODO diff and selectively CRUD
-  // TODO handle body
 
   // create the folder structure or delete all the previous author files
   for (const folder of 'abcdefghijklmnopqrstuvwxyz') {
@@ -171,6 +170,7 @@ export default async (content) => {
       'toc',
       'description',
       'title',
+      'text',
     ]
     const filteredDoc = Object.fromEntries(
       Object.entries(doc).filter(([k]) => !fieldsToDelete.includes(k))
@@ -180,12 +180,13 @@ export default async (content) => {
       doc.lastname.trim().toLowerCase() + '.md'
     )
     console.log('filePath: ', filePath)
-    fsExtra.ensureFile(filePath, (err) => {
-      console.log(err) // => null
-    })
 
     fs.writeFileSync(
-      filePath,
+      './content/authors/' +
+        doc.lastname.trim().toLowerCase()[0] +
+        '/' +
+        doc.lastname.trim().toLowerCase() +
+        '.md',
       `---
 ${dump(filteredDoc)}
 ---

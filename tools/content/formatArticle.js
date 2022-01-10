@@ -1,5 +1,5 @@
 export default (document, database) => {
-  if (document.dir === '/articles' && document.published) {
+  if (document.dir.startsWith('/articles') && document.published) {
     let count = 0
     /*  console.log(document.article_title) */
     document.footnotes = []
@@ -15,7 +15,11 @@ export default (document, database) => {
     document.body.children = document.body.children.map((child, index) => {
       if (child.value !== '\n') {
         count++
-        if (child?.props?.className && child?.props?.className.length && child?.props?.className[0] === 'footnotes') {
+        if (
+          child?.props?.className &&
+          child?.props?.className.length &&
+          child?.props?.className[0] === 'footnotes'
+        ) {
           child.children
             .find((node) => node.tag === 'ol')
             .children.map((footnote) => {
@@ -37,7 +41,9 @@ export default (document, database) => {
           toc2.push({
             depth: flag + 2,
             id: child.props.id || 'youtube_' + index,
-            text: document.toc.find((item) => item.id === child.props.id)?.text || child.props.caption,
+            text:
+              document.toc.find((item) => item.id === child.props.id)?.text ||
+              child.props.caption,
             isMedia: flag === 2,
           })
         }
@@ -89,7 +95,9 @@ export default (document, database) => {
               type: 'element',
               tag: 'div',
               props: {
-                class: [' ', ' ', '', '', 'youtube'][['h2', 'h3', 'p', 'ul', 'youtube'].indexOf(child.tag)],
+                class: [' ', ' ', '', '', 'youtube'][
+                  ['h2', 'h3', 'p', 'ul', 'youtube'].indexOf(child.tag)
+                ],
               },
               children: [child],
             },

@@ -16,9 +16,6 @@ picture: '/atm-social-distancing-1600x800-1.jpg'
 picture_copyright: ''
 yt: ''
 published: true
-category1:
-  - color: green
-    text: Article
 pinned: false
 highlight: true
 bibliography: ''

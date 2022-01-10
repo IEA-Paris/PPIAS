@@ -11,7 +11,8 @@ keywords:
   - 'Dataset, Data Mining '
   - 'Policy Document '
 date: 2020-09-30T22:00:00.000+00:00
-article_title: 'Gendered Responses and Marked Inequalities: The Pandemic as a Revealer
+article_title:
+  'Gendered Responses and Marked Inequalities: The Pandemic as a Revealer
   of Gender Injustice'
 picture: ''
 picture_copyright: ''

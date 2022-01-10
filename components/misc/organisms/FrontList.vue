@@ -5,12 +5,26 @@
         <div class="d-flex align-center">
           <v-tooltip bottom>
             <template #activator="{ on, attrs }">
-              <v-btn tile outlined text v-bind="attrs" class="pa-7" @click="filter = !filter" v-on="on">
-                <v-icon :left="!filter">{{ filter ? 'mdi-chevron-left' : 'mdi-chevron-right' }}</v-icon>
+              <v-btn
+                tile
+                outlined
+                text
+                v-bind="attrs"
+                class="pa-7"
+                @click="filter = !filter"
+                v-on="on"
+              >
+                <v-icon :left="!filter">
+                  {{ filter ? 'mdi-chevron-left' : 'mdi-chevron-right' }}
+                </v-icon>
                 {{ filter ? '' : $t('filters') }}
               </v-btn>
             </template>
-            <span v-html="filter ? $t('hide-the-left-panel') : $t('show-the-left-panel')"></span>
+            <span
+              v-html="
+                filter ? $t('hide-the-left-panel') : $t('show-the-left-panel')
+              "
+            ></span>
           </v-tooltip>
         </div>
       </div>
@@ -33,7 +47,11 @@
         @update:page="$vuetify.goTo(0)"
       >
         <template #loading>
-          <v-progress-linear indeterminate rounded height="6"></v-progress-linear>
+          <v-progress-linear
+            indeterminate
+            rounded
+            height="6"
+          ></v-progress-linear>
           <v-container style="height: 400px">
             <v-row class="fill-height" align-content="center" justify="center">
               <v-col align="center" cols="12">
@@ -55,7 +73,11 @@
               class="transition-swing"
               :no-gutters="!$store.state.scrolled"
               :class="[
-                $store.state.scrolled ? '' : $vuetify.breakpoint.mobile ? 'mx-2' : 'mx-6',
+                $store.state.scrolled
+                  ? ''
+                  : $vuetify.breakpoint.mobile
+                  ? 'mx-2'
+                  : 'mx-6',
                 { 'mt-6': section === 1 },
               ]"
             >
@@ -64,7 +86,13 @@
                 md="6"
                 lg="8"
                 class="transition-swing"
-                :order="section % 2 ? 'first' : props.items[(section - 1) * 3 + 1] ? 'last' : 'first'"
+                :order="
+                  section % 2
+                    ? 'first'
+                    : props.items[(section - 1) * 3 + 1]
+                    ? 'last'
+                    : 'first'
+                "
               >
                 <component
                   :is="type.charAt(0).toUpperCase() + type.slice(1) + 'Item'"
@@ -78,7 +106,9 @@
                 <v-row :no-gutters="!$store.state.scrolled">
                   <v-col cols="12" class="transition-swing">
                     <component
-                      :is="type.charAt(0).toUpperCase() + type.slice(1) + 'Item'"
+                      :is="
+                        type.charAt(0).toUpperCase() + type.slice(1) + 'Item'
+                      "
                       v-if="props.items[(section - 1) * 3 + 1]"
                       :item="props.items[(section - 1) * 3 + 1]"
                       v-bind="$attrs"
@@ -87,7 +117,9 @@
                   </v-col>
                   <v-col cols="12" class="transition-swing">
                     <component
-                      :is="type.charAt(0).toUpperCase() + type.slice(1) + 'Item'"
+                      :is="
+                        type.charAt(0).toUpperCase() + type.slice(1) + 'Item'
+                      "
                       v-if="props.items[(section - 1) * 3 + 2]"
                       :item="props.items[(section - 1) * 3 + 2]"
                       v-bind="$attrs"
@@ -134,7 +166,11 @@
         </template>
         <template #footer>
           <v-container>
-            <v-row :no-gutters="layout.nogutters" justify="center" align="center">
+            <v-row
+              :no-gutters="layout.nogutters"
+              justify="center"
+              align="center"
+            >
               <div class="ml-3 d-flex align-center">
                 <span class="grey--text pr-3">{{ $t('items-per-page') }}</span>
                 <v-select
@@ -172,7 +208,11 @@
         </template>
       </v-data-iterator>
     </v-col>
-    <v-col v-show="filter" :cols="filter ? 2 : 1" class="transition-swing filter-column">
+    <v-col
+      v-show="filter"
+      :cols="filter ? 2 : 1"
+      class="transition-swing filter-column"
+    >
       <div class="overline">
         <v-icon x-small>mdi-filter</v-icon>
         {{ $t('filters') }}
@@ -230,7 +270,7 @@ export default {
     }
   },
   async fetch() {
-    // TODO: FIX > looks like mobile is not detected correctly
+    // TODO: FIX/INVEsTIGUATE> looks like mobile is not detected correctly
     console.log('bkpoint', this.mobile)
     if (!this.$route.query.search) this.search = null
     const rst = await getContent(
@@ -238,9 +278,9 @@ export default {
       this.$content,
       this.$route.query,
       this.search,
-      false,
+      true,
       this.mobile,
-      this.options.itemsPerPage,
+      this.options.itemsPerPage
     )
 
     if (rst) {

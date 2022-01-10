@@ -13,7 +13,8 @@ tags:
   - 'Big Data, Artificial Intelligence '
   - 'Education '
 date: 2021-02-14T23:00:00.000+00:00
-article_title: 'Economy, housing, education: inequalities reinforced by the Covid
+article_title:
+  'Economy, housing, education: inequalities reinforced by the Covid
   pandemic-19'
 picture: ''
 picture_copyright: ''

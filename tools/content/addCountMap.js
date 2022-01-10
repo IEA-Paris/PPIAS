@@ -19,7 +19,7 @@ export default (document) => {
   // we assume it is markdown
   /*     if (document.extension === '.md') { */
   // generate count & stats for the graph thumbnails
-  if (document.dir === '/articles' && document.published) {
+  if (document.dir.startsWith('/articles') && document.published) {
     const countMap = []
     const countRefs = []
     document.body.children.forEach((child) => {

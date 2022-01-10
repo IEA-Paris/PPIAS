@@ -24,7 +24,12 @@
         {{ item.date }}
       </template>
     </OptimizedImage>
-    <TextFingerprint v-else :cells="cells" :stats="stats" :size="size"></TextFingerprint>
+    <TextFingerprint
+      v-else
+      :cells="cells"
+      :stats="stats"
+      :size="size"
+    ></TextFingerprint>
   </v-card>
 </template>
 <script>
@@ -60,21 +65,30 @@ export default {
       stats: {
         countRefs: Math.floor(this.item.countRefs.length / 2),
         countLines: this.item.countMap?.length,
-        countChars: this.item.countMap.reduce((partialSum, a) => partialSum + a, 0),
+        countChars: this.item.countMap.reduce(
+          (partialSum, a) => partialSum + a,
+          0
+        ),
         countContributors: 3,
         countHeadings: this.item?.toc?.length,
         countMediaCells: 2,
         countCodeCells: 10,
         countCells: this.item.body.children.length,
-        extentChars: [Math.min(...this.item.countMap), Math.max(...this.item.countMap)],
-        extentRefs: [Math.min(...this.item.countRefs), Math.max(...this.item.countRefs)],
+        extentChars: [
+          Math.min(...this.item.countMap),
+          Math.max(...this.item.countMap),
+        ],
+        extentRefs: [
+          Math.min(...this.item.countRefs),
+          Math.max(...this.item.countRefs),
+        ],
       },
     }
   },
   methods: {
     matchWidth() {
       const widthString = this.$refs.articleBox.clientWidth + 'px'
-      console.log('widthString: ', widthString)
+
       this.size = widthString
       this.$set(this.$refs.articleBox, 'width', widthString)
     },

@@ -19,9 +19,6 @@ picture: ''
 picture_copyright: ''
 yt: ''
 published: true
-category1:
-  - color: green
-    text: Article
 pinned: false
 bibliography: ''
 authors:
