@@ -8,6 +8,24 @@ language: English
 published: false
 article_title: News & Media Coverage
 authors:
+- firstname: 'Concetta (University of Bari "Aldo Moro") '
+  lastname: Papapicco
+  titles_and_institutions:
+  - titles: []
+    institution: University of Bari "Aldo Moro", Italy
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
 - firstname: " Angeliki"
   lastname: Monnier
   titles_and_institutions:
