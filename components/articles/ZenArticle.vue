@@ -1,5 +1,12 @@
 <template>
-  <v-dialog v-model="zen" fullscreen hide-overlay eager scrollable transition="dialog-bottom-transition">
+  <v-dialog
+    v-model="zen"
+    fullscreen
+    hide-overlay
+    eager
+    scrollable
+    transition="dialog-bottom-transition"
+  >
     <template #activator="{ on: dialog, attrs }">
       <v-tooltip bottom>
         <template #activator="{ on: tooltip }">
@@ -20,11 +27,23 @@
       </v-tooltip>
     </template>
 
-    <div ref="zenpanel" class="zenpanel d-flex flex-row fade-in" style="background-color: white">
+    <div
+      ref="zenpanel"
+      class="zenpanel d-flex flex-row fade-in"
+      style="background-color: white"
+    >
       <div>
         <v-tooltip bottom>
           <template #activator="{ on, attrs }">
-            <v-btn class="pa-7 ml-3 mt-4 closebtn" v-bind="attrs" tile icon large v-on="on" @click="toogleZen()">
+            <v-btn
+              class="pa-7 ml-3 mt-4 closebtn"
+              v-bind="attrs"
+              tile
+              icon
+              large
+              v-on="on"
+              @click="toogleZen()"
+            >
               <v-icon large>mdi-close</v-icon>
             </v-btn>
           </template>
@@ -32,10 +51,16 @@
         </v-tooltip>
       </div>
 
-      <div class="d-flex flex-grow-1 justify-center" style="background-color: white">
+      <div
+        class="d-flex flex-grow-1 justify-center"
+        style="background-color: white"
+      >
         <v-card flat align="center">
           <PageTitle :text="item.article_title" class="pa-6 article-title" />
-          <v-card-text ref="zenreader" class="d-flex zenreader text-justify justify-self-center">
+          <v-card-text
+            ref="zenreader"
+            class="d-flex zenreader text-justify justify-self-center"
+          >
             <nuxt-content :document="item" />
           </v-card-text>
         </v-card>

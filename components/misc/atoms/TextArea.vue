@@ -1,5 +1,10 @@
 <template v-slot:activator="{ on, attrs }">
-  <v-textarea v-model="val" v-bind="$attrs" :loading="$apollo.loading" type="text" />
+  <v-textarea
+    v-model="val"
+    v-bind="$attrs"
+    :loading="$apollo.loading"
+    type="text"
+  />
 </template>
 
 <script>
@@ -34,7 +39,9 @@ export default {
     val: {
       get() {
         console.log('this.item: ', this.item)
-        return !this.$route.params.id ? this.$store.state.list[this.item] : this.$store.state.form[this.item]
+        return !this.$route.params.id
+          ? this.$store.state.list[this.item]
+          : this.$store.state.form[this.item]
       },
       set(value) {
         this.debouncedInput(value)

@@ -1,5 +1,10 @@
 <template>
-  <v-autocomplete v-model="values" v-bind="$attrs" menu-props="offset-y" chips></v-autocomplete>
+  <v-autocomplete
+    v-model="values"
+    v-bind="$attrs"
+    menu-props="offset-y"
+    chips
+  ></v-autocomplete>
 </template>
 
 <script>

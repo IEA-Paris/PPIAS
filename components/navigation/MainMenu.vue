@@ -2,29 +2,53 @@
   <v-dialog v-model="open" fullscreen hide-overlay transition="none">
     <!-- CLOSE BTN -->
     <template #activator="{ on, attrs }">
-      <v-btn v-bind="attrs" icon x-large class="ma-2" tile v-on="on"><v-icon>mdi-menu</v-icon></v-btn>
+      <v-btn v-bind="attrs" icon x-large class="ma-2" tile v-on="on">
+        <v-icon>mdi-menu</v-icon>
+      </v-btn>
     </template>
     <!-- APP BAR WITH LOGO -->
     <v-card dark color="black">
-      <v-app-bar color="transparent" clipped flat hide-on-scroll :height="!$store.state.scrolled ? '180' : '120'">
+      <v-app-bar
+        color="transparent"
+        clipped
+        flat
+        hide-on-scroll
+        :height="!$store.state.scrolled ? '180' : '120'"
+      >
         <div class="d-flex flex-column flex-grow-1">
           <div class="d-flex flex-grow-1 align-center">
             <Logo color="#FFF" />
             <v-spacer></v-spacer>
-            <v-btn icon x-large class="ma-2 mr-4 mb-4" @click="open = false"><v-icon>mdi-close</v-icon></v-btn>
+            <v-btn icon x-large class="ma-2 mr-4 mb-4" @click="open = false">
+              <v-icon>mdi-close</v-icon>
+            </v-btn>
           </div>
         </div>
       </v-app-bar>
       <v-row class="ml-2">
-        <v-col cols="12" md="4" :order="$vuetify.breakpoint.smAndDown ? 'last' : 'first'">
+        <v-col
+          cols="12"
+          md="4"
+          :order="$vuetify.breakpoint.smAndDown ? 'last' : 'first'"
+        >
           <!-- SMALL PAGES LINKS (FOOTER) -->
           <div :class="{ 'ml-6': $vuetify.breakpoint.mdAndUp }">
             <v-divider style="border-color: white"></v-divider>
             <v-list dark color="black">
-              <v-list-item v-for="(item, i) in footer" :key="i" :to="item.path" @click="open = false">
+              <v-list-item
+                v-for="(item, i) in footer"
+                :key="i"
+                :to="item.path"
+                @click="open = false"
+              >
                 <v-list-item-content>
-                  <v-list-item-title class="text-uppercase text-button mb-6" v-text="$t(item.text)"></v-list-item-title>
-                  <v-divider v-if="i < Object.keys(footer).length - 1"></v-divider>
+                  <v-list-item-title
+                    class="text-uppercase text-button mb-6"
+                    v-text="$t(item.text)"
+                  ></v-list-item-title>
+                  <v-divider
+                    v-if="i < Object.keys(footer).length - 1"
+                  ></v-divider>
                 </v-list-item-content>
               </v-list-item>
             </v-list>
@@ -36,22 +60,30 @@
           <!-- HOME -->
           <v-list dark color="black">
             <v-list-item :to="localePath('/')" @click="open = false">
-              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">{{ $t('home') }}</v-list-item-title>
+              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">
+                {{ $t('home') }}
+              </v-list-item-title>
             </v-list-item>
             <v-divider></v-divider>
             <!-- ARTICLES -->
             <v-list-item :to="localePath('/articles')" @click="open = false">
-              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">{{ $t('articles') }}</v-list-item-title>
+              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">
+                {{ $t('articles') }}
+              </v-list-item-title>
             </v-list-item>
             <v-divider></v-divider>
             <!-- MEDIA -->
             <v-list-item :to="localePath('/media')" @click="open = false">
-              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">{{ $t('media') }}</v-list-item-title>
+              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">
+                {{ $t('media') }}
+              </v-list-item-title>
             </v-list-item>
             <v-divider></v-divider>
             <!-- AUTHORS -->
             <v-list-item :to="localePath('/authors')" @click="open = false">
-              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">{{ $t('authors') }}</v-list-item-title>
+              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">
+                {{ $t('authors') }}
+              </v-list-item-title>
             </v-list-item>
           </v-list>
         </v-col>

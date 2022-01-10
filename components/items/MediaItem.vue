@@ -10,7 +10,10 @@
     nuxt
     :to="localePath('/articles/' + item.slug + '/media')"
   >
-    <YoutubeThumbnail v-if="item.id && item.id.length" :item="{ ...item, yt: item.id }">
+    <YoutubeThumbnail
+      v-if="item.id && item.id.length"
+      :item="{ ...item, yt: item.id }"
+    >
       <template #categories>
         <ArticleCategories :item="item" />
       </template>

@@ -5,7 +5,11 @@
     :fluid="!$store.state.scrolled"
     :class="{ 'py-0': !$store.state.scrolled }"
   >
-    <v-row class="transition-swing" :no-gutters="!$store.state.scrolled" :class="$store.state.scrolled ? '' : 'mx-12'">
+    <v-row
+      class="transition-swing"
+      :no-gutters="!$store.state.scrolled"
+      :class="$store.state.scrolled ? '' : 'mx-12'"
+    >
       <v-col class="transition-swing" cols="12">
         <slot></slot>
       </v-col>

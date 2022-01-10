@@ -1,15 +1,25 @@
 <template>
   <v-dialog v-model="open" fullscreen hide-overlay>
     <template #activator="{ on, attrs }">
-      <v-btn v-bind="attrs" icon x-large class="ma-2" tile v-on="on"><v-icon>mdi-magnify</v-icon></v-btn>
+      <v-btn v-bind="attrs" icon x-large class="ma-2" tile v-on="on">
+        <v-icon>mdi-magnify</v-icon>
+      </v-btn>
     </template>
     <v-card dark color="black">
-      <v-app-bar color="transparent" clipped flat hide-on-scroll :height="!$store.state.scrolled ? '180' : '120'">
+      <v-app-bar
+        color="transparent"
+        clipped
+        flat
+        hide-on-scroll
+        :height="!$store.state.scrolled ? '180' : '120'"
+      >
         <div class="d-flex flex-column flex-grow-1">
           <div class="d-flex flex-grow-1 align-center">
             <Logo color="#FFF" />
             <v-spacer></v-spacer>
-            <v-btn icon x-large class="ma-2 mr-4 mb-4" @click="open = false"><v-icon>mdi-close</v-icon></v-btn>
+            <v-btn icon x-large class="ma-2 mr-4 mb-4" @click="open = false">
+              <v-icon>mdi-close</v-icon>
+            </v-btn>
           </div>
         </div>
       </v-app-bar>

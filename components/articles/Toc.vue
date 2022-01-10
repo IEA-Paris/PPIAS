@@ -1,6 +1,10 @@
 <template>
   <aside>
-    <div v-show="title" class="text-h6 mt-3 mb-6 mr-4 shadow" transition="scale-transition">
+    <div
+      v-show="title"
+      class="text-h6 mt-3 mb-6 mr-4 shadow"
+      transition="scale-transition"
+    >
       {{ title }}
     </div>
     <v-timeline align-top dense reverse class="toc">
@@ -23,16 +27,28 @@
           :color="link.id === activeToc ? 'primary' : 'grey'"
           nuxt
           :to="`#${link.id}`"
-          @click="$vuetify.goTo('#' + link.id, { offset: 100 }) && $router.replace({ hash: '#' + link.id })"
-          @keyup.enter="$vuetify.goTo('#' + link.id, { offset: 100 }) && $router.replace({ hash: '#' + link.id })"
+          @click="
+            $vuetify.goTo('#' + link.id, { offset: 100 }) &&
+              $router.replace({ hash: '#' + link.id })
+          "
+          @keyup.enter="
+            $vuetify.goTo('#' + link.id, { offset: 100 }) &&
+              $router.replace({ hash: '#' + link.id })
+          "
         >
           {{ link.text }}
         </a>
         <template #icon>
           <v-avatar
             style="cursor: pointer"
-            @click="$vuetify.goTo('#' + link.id, { offset: 100 }) && $router.replace({ hash: '#' + link.id })"
-            @keyup.enter="$vuetify.goTo('#' + link.id, { offset: 100 }) && $router.replace({ hash: '#' + link.id })"
+            @click="
+              $vuetify.goTo('#' + link.id, { offset: 100 }) &&
+                $router.replace({ hash: '#' + link.id })
+            "
+            @keyup.enter="
+              $vuetify.goTo('#' + link.id, { offset: 100 }) &&
+                $router.replace({ hash: '#' + link.id })
+            "
           >
             <v-icon v-if="link.isMedia" color="white" x-small>mdi-play</v-icon>
             <!--   <v-icon  :small="link.depth !== 2">mdi-pencil</v-icon> -->
@@ -42,7 +58,13 @@
     </v-timeline>
     <v-tooltip bottom>
       <template #activator="{ on, attrs }">
-        <v-btn text outlined class="justify-self-center my-6" v-bind="attrs" v-on="on">
+        <v-btn
+          text
+          outlined
+          class="justify-self-center my-6"
+          v-bind="attrs"
+          v-on="on"
+        >
           <v-icon left>mdi-download</v-icon>
           PDF version
         </v-btn>

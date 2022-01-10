@@ -39,7 +39,10 @@ export default {
         return this.gql
       },
       variables() {
-        return { appId: this.$store.state.apps.current.name.toLowerCase(), itemId: this.$route?.params?.id }
+        return {
+          appId: this.$store.state.apps.current.name.toLowerCase(),
+          itemId: this.$route?.params?.id,
+        }
       },
       update(data) {
         const rst = data[Object.keys(data)[0]]
@@ -89,13 +92,17 @@ export default {
       console.log('this.tab: ', this.tab)
       console.log('this.type: ', this.type) */
 
-      const itemRawRules = this.tab ? forms[this.type][this.tab][input]?.rules : forms[this.type][input]?.rules
+      const itemRawRules = this.tab
+        ? forms[this.type][this.tab][input]?.rules
+        : forms[this.type][input]?.rules
       /*      console.log('itemRawRules: ', itemRawRules) */
       const rules = itemRawRules
         ? Object.keys(itemRawRules).flatMap((rule) => {
             /*     console.log('rule: ', rule) */
             if (itemRawRules[rule]) {
-              return itemRawRules[rule] === true ? rulesSet[rule](this) : rulesSet[rule](this)(itemRawRules[rule])
+              return itemRawRules[rule] === true
+                ? rulesSet[rule](this)
+                : rulesSet[rule](this)(itemRawRules[rule])
             }
             return true
           })

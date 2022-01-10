@@ -1,7 +1,9 @@
 <template>
   <v-chip
     v-bind="$attrs"
-    :outlined="!($route.query.tags && $route.query.tags.includes(JSON.stringify(tag)))"
+    :outlined="
+      !($route.query.tags && $route.query.tags.includes(JSON.stringify(tag)))
+    "
     @click="updateTag()"
   >
     {{ tag }}
@@ -23,7 +25,9 @@ export default {
   },
   methods: {
     updateTag() {
-      const tags = this.$route?.query?.tags ? JSON.parse(this.$route?.query?.tags) : []
+      const tags = this.$route?.query?.tags
+        ? JSON.parse(this.$route?.query?.tags)
+        : []
 
       if (tags?.includes(this.tag)) {
         tags.splice(tags.indexOf(this.tag), 1)

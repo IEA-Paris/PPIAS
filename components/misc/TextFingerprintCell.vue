@@ -1,8 +1,27 @@
 <template>
-  <g :class="(isHeading ? 'is-heading' : '') + (isMedia ? 'is-hl' : '') + 'type-' + type">
-    <line :x1="ox" :y1="oy" :x2="cx" :y2="cy" :stroke="isHeading ? 'white' : '#FFFFF0'"></line>
+  <g
+    :class="
+      (isHeading ? 'is-heading' : '') +
+      (isMedia ? 'is-hl' : '') +
+      'type-' +
+      type
+    "
+  >
+    <line
+      :x1="ox"
+      :y1="oy"
+      :x2="cx"
+      :y2="cy"
+      :stroke="isHeading ? 'white' : '#FFFFF0'"
+    ></line>
     <circle class="origin" :cx="ox" :cy="oy" :r="1" />
-    <circle v-if="isHeading" class="heading-placeholder" :cx="ox" :cy="oy" :r="3" />
+    <circle
+      v-if="isHeading"
+      class="heading-placeholder"
+      :cx="ox"
+      :cy="oy"
+      :r="3"
+    />
     <circle
       v-if="refsRadius"
       class="refs"

@@ -8,7 +8,12 @@
     min-width="290px"
   >
     <template #activator="{ on }">
-      <v-text-field :value="formatted" readonly v-bind="$attrs" v-on="on"></v-text-field>
+      <v-text-field
+        :value="formatted"
+        readonly
+        v-bind="$attrs"
+        v-on="on"
+      ></v-text-field>
     </template>
     <v-date-picker
       v-model="selected"
@@ -16,7 +21,9 @@
       show-current
       v-bind="$attrs"
       @input="menu = false"
-      @click:clear="$router.push({ ...$route.query, query: { [item]: undefined } })"
+      @click:clear="
+        $router.push({ ...$route.query, query: { [item]: undefined } })
+      "
     ></v-date-picker>
   </v-menu>
 </template>
@@ -46,10 +53,16 @@ export default {
       get() {
         console.log(
           '!this.$route.params.id ? this.$store.state.list[this.item] : this.$store.state.form[this.item]: ',
-          formatDate(!this.$route.params.id ? this.$store.state.list[this.item] : this.$store.state.form[this.item]),
+          formatDate(
+            !this.$route.params.id
+              ? this.$store.state.list[this.item]
+              : this.$store.state.form[this.item]
+          )
         )
         return formatDate(
-          !this.$route.params.id ? this.$store.state.list[this.item] : this.$store.state.form[this.item],
+          !this.$route.params.id
+            ? this.$store.state.list[this.item]
+            : this.$store.state.form[this.item]
         )
       },
 
@@ -69,10 +82,18 @@ export default {
       console.log('this.selected: ', this.selected)
       console.log(
         'formatDate(this.selected): ',
-        formatDate(!this.$route.params.id ? this.$store.state.list[this.item] : this.$store.state.form[this.item]),
+        formatDate(
+          !this.$route.params.id
+            ? this.$store.state.list[this.item]
+            : this.$store.state.form[this.item]
+        )
       )
       return this.selected
-        ? formatDate(!this.$route.params.id ? this.$store.state.list[this.item] : this.$store.state.form[this.item])
+        ? formatDate(
+            !this.$route.params.id
+              ? this.$store.state.list[this.item]
+              : this.$store.state.form[this.item]
+          )
         : ''
     },
   },

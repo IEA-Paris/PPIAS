@@ -54,11 +54,17 @@ export const formatDate = (timestamp, withTime) => {
 }
 export const formatAuthors = (str) => {
   if (!str) return []
-  else return str.split(' ').filter((item) => item.length > 1 && !stopWords.includes(item))
+  else
+    return str
+      .split(' ')
+      .filter((item) => item.length > 1 && !stopWords.includes(item))
 }
 export const formatSearch = (str) => {
   if (!str) return []
-  else return str.split(' ').filter((item) => item.length > 1 && !stopWords.includes(item))
+  else
+    return str
+      .split(' ')
+      .filter((item) => item.length > 1 && !stopWords.includes(item))
 }
 
 export const capitalize = (value) => {
@@ -71,7 +77,14 @@ export const dateToText = (date) => {
 }
 
 export const truncate = (text, stop, link, url) => {
-  return text.slice(0, stop) + (stop < text.length ? (url ? '... <a href="' + url + '">' + link + '</a>' : '...') : '')
+  return (
+    text.slice(0, stop) +
+    (stop < text.length
+      ? url
+        ? '... <a href="' + url + '">' + link + '</a>'
+        : '...'
+      : '')
+  )
 }
 
 export const highlightAndTruncate = (stop, word, query, url, link) => {
@@ -101,7 +114,8 @@ export const highlightAndTruncate = (stop, word, query, url, link) => {
               word = '...' + word.substring(word.length - stop, word.length)
             } else {
               // if not, we shift the string to its start
-              word = '...' + word.substring(firstIndex - 5, stop - 5 + firstIndex)
+              word =
+                '...' + word.substring(firstIndex - 5, stop - 5 + firstIndex)
             }
           } else {
             word = word.slice(0, stop)
@@ -113,7 +127,11 @@ export const highlightAndTruncate = (stop, word, query, url, link) => {
         query.forEach((element) => {
           const check = new RegExp(element, 'ig')
           word = word.replace(check, function (matchedText, a, b) {
-            return '<strong style="color: darkslategray;background-color: yellow;">' + matchedText + '</strong>'
+            return (
+              '<strong style="color: darkslategray;background-color: yellow;">' +
+              matchedText +
+              '</strong>'
+            )
           })
         })
       }
@@ -128,7 +146,11 @@ export const highlight = (word, query) => {
   query.forEach((element) => {
     const check = new RegExp(element, 'ig')
     word = word.replace(check, function (matchedText, a, b) {
-      return '<strong style="color: darkslategray;background-color: yellow;">' + matchedText + '</strong>'
+      return (
+        '<strong style="color: darkslategray;background-color: yellow;">' +
+        matchedText +
+        '</strong>'
+      )
     })
   })
   return word

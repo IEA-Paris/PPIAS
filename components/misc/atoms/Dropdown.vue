@@ -3,7 +3,9 @@
     v-model="selected"
     v-bind="$attrs"
     menu-props="offset-y"
-    @click:clear="$router.push({ ...$route.query, query: { [filter]: undefined } })"
+    @click:clear="
+      $router.push({ ...$route.query, query: { [filter]: undefined } })
+    "
   ></v-select>
 </template>
 <script>

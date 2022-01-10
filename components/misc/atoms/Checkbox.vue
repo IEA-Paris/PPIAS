@@ -1,5 +1,10 @@
 <template>
-  <v-select v-model="selected" :items="[]" v-bind="$attrs" :label="filter"></v-select>
+  <v-select
+    v-model="selected"
+    :items="[]"
+    v-bind="$attrs"
+    :label="filter"
+  ></v-select>
 </template>
 <script>
 export default {

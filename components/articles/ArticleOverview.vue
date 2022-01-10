@@ -27,14 +27,20 @@
       <div class="mb-6">
         <template v-if="item.abstract && item.abstract.length">
           {{ item.abstract }}
-          <nuxt-link :to="localePath('/articles/' + $route.params.slug)">Read&nbsp;more</nuxt-link>
+          <nuxt-link :to="localePath('/articles/' + $route.params.slug)">
+            Read&nbsp;more
+          </nuxt-link>
         </template>
         <template v-else>
           {{ $t('no-abstract-provided-for-this-article') }}
         </template>
       </div>
       <div class="overline">{{ $t('language') }}</div>
-      <div class="mb-6">&nbsp;{{ $t('this-article-is-in', { lang: $t(item.language || 'english') }) }}</div>
+      <div class="mb-6">
+        &nbsp;{{
+          $t('this-article-is-in', { lang: $t(item.language || 'english') })
+        }}
+      </div>
     </v-col>
   </v-row>
 </template>
@@ -53,7 +59,10 @@ export default {
     sortedTags() {
       return this.$route.query?.tags?.length
         ? this.item.tags.reduce((acc, tag) => {
-            if (this.$route.query.tags && this.$route.query.tags.includes(JSON.stringify(tag))) {
+            if (
+              this.$route.query.tags &&
+              this.$route.query.tags.includes(JSON.stringify(tag))
+            ) {
               return [tag, ...acc]
             }
             return [...acc, tag]

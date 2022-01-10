@@ -1,6 +1,17 @@
 <template>
-  <div class="d-flex" @click="$router.push(localePath('/'))" @keyup.enter="$router.push(localePath('/'))">
-    <v-img class="ml-10 mr-2" src="/icon.png" contain max-height="120" max-width="120" style="cursor: pointer"></v-img>
+  <div
+    class="d-flex"
+    @click="$router.push(localePath('/'))"
+    @keyup.enter="$router.push(localePath('/'))"
+  >
+    <v-img
+      class="ml-10 mr-2"
+      src="/icon.png"
+      contain
+      max-height="120"
+      max-width="120"
+      style="cursor: pointer"
+    ></v-img>
     <div>
       <div class="main-title ml-3">
         Proceedings&nbsp;of&nbsp;the

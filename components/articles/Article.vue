@@ -1,19 +1,40 @@
 <template>
   <v-row class="transition-swing flex-row-reverse">
     <v-col :cols="toc ? 9 : 12" class="transition-swing">
-      <div :id="(item.anchor && item.anchor.toLowerCase()) || item.post_title" flat v-bind="$attrs" class="mx-6">
+      <div
+        :id="(item.anchor && item.anchor.toLowerCase()) || item.post_title"
+        flat
+        v-bind="$attrs"
+        class="mx-6"
+      >
         <div class="sidebtn">
-          <div class="d-flex align-center pt-3 pb-1 shadower" :class="title ? '' : 'shadow'">
+          <div
+            class="d-flex align-center pt-3 pb-1 shadower"
+            :class="title ? '' : 'shadow'"
+          >
             <v-tooltip bottom>
               <template #activator="{ on, attrs }">
-                <v-btn tile text v-bind="attrs" class="pa-7" @click="toc = !toc" v-on="on">
+                <v-btn
+                  tile
+                  text
+                  v-bind="attrs"
+                  class="pa-7"
+                  @click="toc = !toc"
+                  v-on="on"
+                >
                   <v-expand-transition>
                     <span v-show="title && !toc">Menu</span>
                   </v-expand-transition>
-                  <v-icon>{{ toc ? 'mdi-chevron-left' : 'mdi-chevron-right' }}</v-icon>
+                  <v-icon>
+                    {{ toc ? 'mdi-chevron-left' : 'mdi-chevron-right' }}
+                  </v-icon>
                 </v-btn>
               </template>
-              <span v-html="toc ? $t('hide-the-left-panel') : $t('show-the-left-panel')"></span>
+              <span
+                v-html="
+                  toc ? $t('hide-the-left-panel') : $t('show-the-left-panel')
+                "
+              ></span>
             </v-tooltip>
             <span v-if="!toc && !title" class="transition-swing text-h6 ml-6">
               {{ item.article_title }}
@@ -28,15 +49,25 @@
           <span class="text-h4" v-html="highlight(item.article_title, $route.query.search)"></span>
         </v-card-title> -->
 
-        <v-card-text :class="toc ? 'justify-start' : 'justify-center'" class="d-flex">
-          <YoutubeEmbed v-if="item.youtube_video_id" :yt="item.youtube_video_id" class="mb-9 ml-3"></YoutubeEmbed>
+        <v-card-text
+          :class="toc ? 'justify-start' : 'justify-center'"
+          class="d-flex"
+        >
+          <YoutubeEmbed
+            v-if="item.youtube_video_id"
+            :yt="item.youtube_video_id"
+            class="mb-9 ml-3"
+          ></YoutubeEmbed>
           <OptimizedImage
             v-if="item.images && item.images.length === 1"
             :src="item.images[0]"
             class="my-3"
           ></OptimizedImage>
           <div v-if="item.images && item.images.length > 1" class="pb-8 pt-3">
-            <v-carousel :height="$vuetify.breakpoint.mdAndUp ? '600' : '300'" cycle>
+            <v-carousel
+              :height="$vuetify.breakpoint.mdAndUp ? '600' : '300'"
+              cycle
+            >
               <v-carousel-item
                 v-for="image in item.images"
                 :key="image"
@@ -49,7 +80,9 @@
             </v-carousel>
           </div>
 
-          <small v-if="item.copyright" class="muted caption">&copy; {{ item.copyright }}</small>
+          <small v-if="item.copyright" class="muted caption"
+            >&copy; {{ item.copyright }}</small
+          >
           <nuxt-content :document="item" style="max-width: 650px" />
         </v-card-text>
 
@@ -123,10 +156,12 @@ export default {
       })
     }, this.observerOptions)
     // Track all sections that have an `id` applied
-    document.querySelectorAll('.nuxt-content h2[id], .nuxt-content h3[id]').forEach((section) => {
-      //, .nuxt-content p[id]
-      this.observer.observe(section)
-    })
+    document
+      .querySelectorAll('.nuxt-content h2[id], .nuxt-content h3[id]')
+      .forEach((section) => {
+        //, .nuxt-content p[id]
+        this.observer.observe(section)
+      })
   },
   beforeDestroy() {
     this.observer.disconnect()
@@ -139,7 +174,11 @@ export default {
     highlight: (word = '', query) => {
       const check = new RegExp(query, 'ig')
       return word.replace(check, function (matchedText, a, b) {
-        return '<strong style="color: darkslategray;background-color: yellow;">' + matchedText + '</strong>'
+        return (
+          '<strong style="color: darkslategray;background-color: yellow;">' +
+          matchedText +
+          '</strong>'
+        )
       })
     },
     _srcset(src) {

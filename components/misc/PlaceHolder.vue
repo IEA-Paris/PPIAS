@@ -8,7 +8,10 @@
       <v-card>
         <v-card-title class="headline">Website in progress</v-card-title>
 
-        <v-card-text>We are working on this website. It is not ready yet for its prime day :-)</v-card-text>
+        <v-card-text>
+          We are working on this website. It is not ready yet for its prime day
+          :-)
+        </v-card-text>
         <v-text-field v-model="textInput" @keyup.enter="close()"></v-text-field>
         <v-divider></v-divider>
       </v-card>

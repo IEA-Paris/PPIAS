@@ -16,7 +16,9 @@
                 +33(0)1 56 81 00 52
                 <br />
                 <v-icon left>mdi-email</v-icon>
-                <a mailto="information@paris-iea.fr">information@paris-iea.fr</a>
+                <a mailto="information@paris-iea.fr"
+                  >information@paris-iea.fr</a
+                >
               </div>
               <iframe
                 title="openstreetmap"
@@ -29,10 +31,14 @@
                 src="https://www.openstreetmap.org/export/embed.html?bbox=2.356580793857575%2C48.850586483414915%2C2.361644804477692%2C48.85278204589751&amp;layer=mapnik&amp;marker=48.851684276691216%2C2.359112799167633"
                 style="border: 1px solid black"
                 @click="
-                  $router.go('https://www.openstreetmap.org/?mlat=48.85168&amp;mlon=2.35911#map=19/48.85168/2.35911')
+                  $router.go(
+                    'https://www.openstreetmap.org/?mlat=48.85168&amp;mlon=2.35911#map=19/48.85168/2.35911'
+                  )
                 "
                 @keyup.enter="
-                  $router.go('https://www.openstreetmap.org/?mlat=48.85168&amp;mlon=2.35911#map=19/48.85168/2.35911')
+                  $router.go(
+                    'https://www.openstreetmap.org/?mlat=48.85168&amp;mlon=2.35911#map=19/48.85168/2.35911'
+                  )
                 "
               ></iframe>
               <br />
@@ -40,30 +46,60 @@
             </v-col>
             <v-col cols="12" sm="4">
               <v-list flat color="transparent" dense>
-                <v-list-item :to="localePath('/about')" nuxt @click="open = false">
+                <v-list-item
+                  :to="localePath('/about')"
+                  nuxt
+                  @click="open = false"
+                >
                   <v-list-item-content>
-                    <v-list-item-title class="text-uppercase text-button" v-text="$t('about')"></v-list-item-title>
+                    <v-list-item-title
+                      class="text-uppercase text-button"
+                      v-text="$t('about')"
+                    ></v-list-item-title>
                   </v-list-item-content>
                 </v-list-item>
-                <v-list-item :to="localePath('/contact')" nuxt @click="open = false">
+                <v-list-item
+                  :to="localePath('/contact')"
+                  nuxt
+                  @click="open = false"
+                >
                   <v-list-item-content>
-                    <v-list-item-title class="text-uppercase text-button" v-text="$t('contact')"></v-list-item-title>
+                    <v-list-item-title
+                      class="text-uppercase text-button"
+                      v-text="$t('contact')"
+                    ></v-list-item-title>
                   </v-list-item-content>
                 </v-list-item>
-                <v-list-item :to="localePath('/pressroom')" nuxt @click="open = false">
+                <v-list-item
+                  :to="localePath('/pressroom')"
+                  nuxt
+                  @click="open = false"
+                >
                   <v-list-item-content>
-                    <v-list-item-title class="text-uppercase text-button" v-text="$t('pressroom')"></v-list-item-title>
+                    <v-list-item-title
+                      class="text-uppercase text-button"
+                      v-text="$t('pressroom')"
+                    ></v-list-item-title>
                   </v-list-item-content>
                 </v-list-item>
-                <v-list-item :to="localePath('/support')" nuxt @click="open = false">
+                <v-list-item
+                  :to="localePath('/support')"
+                  nuxt
+                  @click="open = false"
+                >
                   <v-list-item-content>
-                    <v-list-item-title class="text-uppercase text-button" v-text="$t('support')"></v-list-item-title>
+                    <v-list-item-title
+                      class="text-uppercase text-button"
+                      v-text="$t('support')"
+                    ></v-list-item-title>
                   </v-list-item-content>
                 </v-list-item>
               </v-list>
             </v-col>
             <v-col cols="12" sm="4">
-              <div class="overline">{{ $t('subscribe-to-our-newsletter') }}</div>
+              <div class="overline">
+                {{ $t('subscribe-to-our-newsletter') }}
+              </div>
 
               <div class="d-flex">
                 <v-text-field
@@ -102,9 +138,22 @@
               </v-tooltip>
             </v-col>
             <v-col cols="12" align="center">
-              <span class="overline">&copy; {{ new Date().getFullYear() }} {{ $t('paris-ias') }}</span>
-              <v-btn text x-small nuxt dark :to="localePath('/terms_of_service')">{{ $t('tos') }}</v-btn>
-              <v-btn text x-small nuxt dark :to="localePath('/privacy_policy')">{{ $t('privacy') }}</v-btn>
+              <span class="overline"
+                >&copy; {{ new Date().getFullYear() }}
+                {{ $t('paris-ias') }}</span
+              >
+              <v-btn
+                text
+                x-small
+                nuxt
+                dark
+                :to="localePath('/terms_of_service')"
+              >
+                {{ $t('tos') }}
+              </v-btn>
+              <v-btn text x-small nuxt dark :to="localePath('/privacy_policy')">
+                {{ $t('privacy') }}
+              </v-btn>
             </v-col>
           </v-row>
         </v-col>

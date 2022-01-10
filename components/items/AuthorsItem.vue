@@ -56,7 +56,11 @@ export default {
     highlight: (word = '', query) => {
       const check = new RegExp(query, 'ig')
       return word.replace(check, function (matchedText, a, b) {
-        return '<strong style="color: darkslategray;background-color: yellow;">' + matchedText + '</strong>'
+        return (
+          '<strong style="color: darkslategray;background-color: yellow;">' +
+          matchedText +
+          '</strong>'
+        )
       })
     },
     getSocials(item) {

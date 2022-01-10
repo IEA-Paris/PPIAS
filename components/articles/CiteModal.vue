@@ -42,8 +42,14 @@
         <v-card-title>{{ $t('cite-this-article') }}</v-card-title>
 
         <v-card-text>
-          <div v-for="(format, index) in citeFormats" :key="index" class="d-flex mb-6">
-            <div class="text-subtitle-2 black--text mt-1">{{ format.type }}</div>
+          <div
+            v-for="(format, index) in citeFormats"
+            :key="index"
+            class="d-flex mb-6"
+          >
+            <div class="text-subtitle-2 black--text mt-1">
+              {{ format.type }}
+            </div>
             <div class="flex-grow-1 mx-6">{{ format.text }}</div>
             <div>
               <v-tooltip bottom>
@@ -92,7 +98,9 @@ export default {
         {
           type: 'ISO 690',
           text:
-            this.item.authors.map((author) => author.lastname + ' ' + author.firstname).join(', ') +
+            this.item.authors
+              .map((author) => author.lastname + ' ' + author.firstname)
+              .join(', ') +
             ', ' +
             this.item.article_title +
             ', PIAS, ' +
@@ -107,7 +115,9 @@ export default {
         {
           type: 'MLA',
           text:
-            this.item.authors.map((author) => author.lastname + ' ' + author.firstname).join(', ') +
+            this.item.authors
+              .map((author) => author.lastname + ' ' + author.firstname)
+              .join(', ') +
             ', ' +
             this.item.article_title +
             ', PIAS, ' +
@@ -122,7 +132,9 @@ export default {
         {
           type: 'APA',
           text:
-            this.item.authors.map((author) => author.lastname + ' ' + author.firstname).join(', ') +
+            this.item.authors
+              .map((author) => author.lastname + ' ' + author.firstname)
+              .join(', ') +
             ', ' +
             this.item.article_title +
             ', PIAS, ' +

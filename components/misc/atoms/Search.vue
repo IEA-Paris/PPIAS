@@ -35,7 +35,10 @@
         :color="$vuetify.theme.themes.light.primary"
         hide-details
         clearable
-        @keyup="$emit('search', searchString) && $router.push({ query: { ...$route.query, search: searchString } })"
+        @keyup="
+          $emit('search', searchString) &&
+            $router.push({ query: { ...$route.query, search: searchString } })
+        "
         @keydown.esc.prevent="
           expand = false
           $emit('esc')
@@ -54,7 +57,10 @@
 export default {
   props: {},
   data() {
-    return { expand: this.$route.query.search, searchString: this.$route.query.search || '' }
+    return {
+      expand: this.$route.query.search,
+      searchString: this.$route.query.search || '',
+    }
   },
   computed: {},
   watch: {

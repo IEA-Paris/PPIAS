@@ -18,28 +18,44 @@
         </v-list-item-title>
       </v-list-item>
       <v-list-item @click="$store.commit('setLogo', 0)">
-        <v-list-item-title class="text-uppercase text-button">Logo texte</v-list-item-title>
+        <v-list-item-title class="text-uppercase text-button">
+          Logo texte
+        </v-list-item-title>
       </v-list-item>
       <v-list-item @click="$store.commit('setLogo', 1)">
-        <v-list-item-title class="text-uppercase text-button">Logo original</v-list-item-title>
+        <v-list-item-title class="text-uppercase text-button">
+          Logo original
+        </v-list-item-title>
       </v-list-item>
       <v-list-item @click="$store.commit('setLogo', 2)">
-        <v-list-item-title class="text-uppercase text-button">Logo Blanc sur noir</v-list-item-title>
+        <v-list-item-title class="text-uppercase text-button">
+          Logo Blanc sur noir
+        </v-list-item-title>
       </v-list-item>
       <v-list-item @click="$store.commit('setLogo', 3)">
-        <v-list-item-title class="text-uppercase text-button">Logo Noir sur blanc</v-list-item-title>
+        <v-list-item-title class="text-uppercase text-button">
+          Logo Noir sur blanc
+        </v-list-item-title>
       </v-list-item>
       <v-list-item @click="$store.commit('setLogo', 4)">
-        <v-list-item-title class="text-uppercase text-button">Logo Pont &amp; Texte</v-list-item-title>
+        <v-list-item-title class="text-uppercase text-button">
+          Logo Pont &amp; Texte
+        </v-list-item-title>
       </v-list-item>
       <v-list-item @click="$store.commit('setLogo', 5)">
-        <v-list-item-title class="text-uppercase text-button">Sans texte / Logo Blanc/Noir</v-list-item-title>
+        <v-list-item-title class="text-uppercase text-button">
+          Sans texte / Logo Blanc/Noir
+        </v-list-item-title>
       </v-list-item>
       <v-list-item @click="$store.commit('setLogo', 6)">
-        <v-list-item-title class="text-uppercase text-button">Sans texte / Logo original</v-list-item-title>
+        <v-list-item-title class="text-uppercase text-button">
+          Sans texte / Logo original
+        </v-list-item-title>
       </v-list-item>
       <v-list-item @click="$store.commit('setLogo', 7)">
-        <v-list-item-title class="text-uppercase text-button">Sans texte / Logo original</v-list-item-title>
+        <v-list-item-title class="text-uppercase text-button">
+          Sans texte / Logo original
+        </v-list-item-title>
       </v-list-item>
     </v-list>
   </v-menu>

@@ -7,7 +7,9 @@
       @search="searchString = $event"
       @esc="searchString = ''"
     ></TitleBlock> -->
-    <template v-if="searchString || ($route.query.tags && $route.query.tags.length)">
+    <template
+      v-if="searchString || ($route.query.tags && $route.query.tags.length)"
+    >
       <div v-if="count > 0" class="overline mb-3">
         Searching
         <template v-if="$route.query.tags && $route.query.tags.length">
@@ -18,7 +20,13 @@
         -
         {{ count }}
         {{ count > 1 ? 'results' : 'result' }} -
-        <v-btn color="primary" class="pl-1" small text @click="$router.replace({ query: null })">
+        <v-btn
+          color="primary"
+          class="pl-1"
+          small
+          text
+          @click="$router.replace({ query: null })"
+        >
           Cancel my search
         </v-btn>
       </div>
@@ -29,9 +37,15 @@
             "{{ searchString }}"
             <b v-if="$route.query.tags && $route.query.tags.length">and</b>
           </template>
-          <template v-if="$route.query.tags && $route.query.tags.length">your tags</template>
+          <template v-if="$route.query.tags && $route.query.tags.length">
+            your tags
+          </template>
         </div>
-        <v-btn outlined class="mt-3" @click="searchString = '' && $router.replace({ query: null })">
+        <v-btn
+          outlined
+          class="mt-3"
+          @click="searchString = '' && $router.replace({ query: null })"
+        >
           Cancel my search
         </v-btn>
       </div>
@@ -77,7 +91,13 @@ export default {
     }
   },
   async fetch() {
-    const rst = await getContent('media', this.$content, this.$route.query, this.searchString || null, true)
+    const rst = await getContent(
+      'media',
+      this.$content,
+      this.$route.query,
+      this.searchString || null,
+      true
+    )
     if (rst) {
       console.log('rst: ', rst)
       this.count = rst.count
@@ -93,7 +113,13 @@ export default {
   },
   watch: {
     async current() {
-      const rst = await getContent('media', this.$content, this.$route.query, this.searchString || null, true)
+      const rst = await getContent(
+        'media',
+        this.$content,
+        this.$route.query,
+        this.searchString || null,
+        true
+      )
 
       if (rst) {
         this.count = rst.count
@@ -108,7 +134,13 @@ export default {
       }
     },
     async searchString(searchString) {
-      const rst = await getContent('media', this.$content, this.$route.query, searchString || null, true)
+      const rst = await getContent(
+        'media',
+        this.$content,
+        this.$route.query,
+        searchString || null,
+        true
+      )
       if (rst) {
         this.count = rst.count
         this.pages = rst.pages
@@ -123,7 +155,13 @@ export default {
     },
     async '$route.query'(query) {
       if (!query.search) this.searchString = null
-      const rst = await getContent('media', this.$content, this.$route.query, this.searchString || null, true)
+      const rst = await getContent(
+        'media',
+        this.$content,
+        this.$route.query,
+        this.searchString || null,
+        true
+      )
 
       if (rst) {
         this.count = rst.count

@@ -17,7 +17,10 @@
               :end="new Date(new Date().setDate(new Date().getDate() + 1))"
               inline-template
             >
-              <google-calendar id="google-calendar" style="color: inherit; text-decoration: none">
+              <google-calendar
+                id="google-calendar"
+                style="color: inherit; text-decoration: none"
+              >
                 Add to Google calendar
               </google-calendar>
             </AddToCalendar>
@@ -31,7 +34,10 @@
               :end="new Date(new Date().setDate(new Date().getDate() + 1))"
               inline-template
             >
-              <microsoft-calendar id="microsoft-calendar" style="color: inherit; text-decoration: none">
+              <microsoft-calendar
+                id="microsoft-calendar"
+                style="color: inherit; text-decoration: none"
+              >
                 Add to Microsoft live calendar
               </microsoft-calendar>
             </AddToCalendar>
@@ -45,7 +51,10 @@
               :end="new Date(new Date().setDate(new Date().getDate() + 1))"
               inline-template
             >
-              <office365-calendar id="office365-calendar" style="color: inherit; text-decoration: none">
+              <office365-calendar
+                id="office365-calendar"
+                style="color: inherit; text-decoration: none"
+              >
                 Add to Office365 outlook
               </office365-calendar>
             </AddToCalendar>

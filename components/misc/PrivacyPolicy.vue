@@ -2,7 +2,9 @@
   <div class="text-center">
     <v-dialog v-model="dialog" width="500">
       <template #activator="{ on, attrs }">
-        <v-btn color="white" text v-bind="attrs" v-on="on">Privacy Policy</v-btn>
+        <v-btn color="white" text v-bind="attrs" v-on="on">
+          Privacy Policy
+        </v-btn>
       </template>
 
       <v-card>

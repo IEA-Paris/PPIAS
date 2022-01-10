@@ -90,7 +90,11 @@ export default {
   text-shadow: 1px 1px 0 alpha(white, 0.6);
   padding: 12px;
   color: black;
-  background-image: linear-gradient(to left, rgba(255, 255, 255, 0.95) 100%, black 100%);
+  background-image: linear-gradient(
+    to left,
+    rgba(255, 255, 255, 0.95) 100%,
+    black 100%
+  );
   text-transform: uppercase;
 }
 #caption-author {
