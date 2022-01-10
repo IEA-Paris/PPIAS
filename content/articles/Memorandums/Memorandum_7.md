@@ -59,7 +59,7 @@ During the Covid 19 pandemic, the media was the main relay of information and ha
 
 The studies in the WPRN database provide several important keys to understanding the role of the media during the pandemic.
 
-Media coverage of the coronavirus has been considerable, and citizens have favoured traditional media to inform themselves about the pandemic (1). The reliability of information provided by the media has been uneven, and the strong audience of «legitimate» media has not prevented the development of conspiracy theories and misinformation (2)
+Media coverage of the coronavirus has been considerable, and citizens have favoured traditional media to inform themselves about the pandemic. The reliability of information provided by the media has been uneven, and the strong audience of «legitimate» media has not prevented the development of conspiracy theories and misinformation.
 
 ### Strengthened legitimacy of traditional media in a news context largely dominated by the health crisis
 
