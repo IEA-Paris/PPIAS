@@ -8,7 +8,7 @@ language: English
 published: false
 article_title: News & Media Coverage
 authors:
-- firstname: 'Concetta (University of Bari "Aldo Moro") '
+- firstname: Concetta
   lastname: Papapicco
   titles_and_institutions:
   - titles: []
