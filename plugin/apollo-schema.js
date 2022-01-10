@@ -23,7 +23,9 @@ export default class ApolloScheme {
   }
 
   setToken(tokenValue) {
-    return this.$apolloHelpers.onLogin(tokenValue).then(() => this.$auth.setToken(this._name, tokenValue))
+    return this.$apolloHelpers
+      .onLogin(tokenValue)
+      .then(() => this.$auth.setToken(this._name, tokenValue))
   }
 
   setUser(user) {
@@ -35,7 +37,9 @@ export default class ApolloScheme {
   }
 
   check() {
-    const status = !!this.$auth.getToken(this._name) && this.$auth.getToken(this._name) !== this._name
+    const status =
+      !!this.$auth.getToken(this._name) &&
+      this.$auth.getToken(this._name) !== this._name
     return status
   }
 

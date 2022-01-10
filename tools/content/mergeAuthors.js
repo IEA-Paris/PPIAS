@@ -1,6 +1,5 @@
 import path from 'path'
 import fs from 'fs'
-import { Buffer } from 'buffer'
 import { dump } from 'js-yaml'
 import fsExtra from 'fs-extra'
 import parseMD from 'parse-md'

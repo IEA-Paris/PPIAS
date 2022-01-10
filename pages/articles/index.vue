@@ -1,7 +1,10 @@
 <template>
   <div>
     <PageTitle text="articles" />
-    <FrontList type="articles" :layout="{ cols: 12, md: 6, nogutters: false, fluid: true }"></FrontList>
+    <FrontList
+      type="articles"
+      :layout="{ cols: 12, md: 6, nogutters: false, fluid: true }"
+    ></FrontList>
   </div>
 </template>
 <script>

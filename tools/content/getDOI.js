@@ -35,7 +35,10 @@ export default async (document) => {
       })
       zenodo.files
         .upload({
-          bucketId: entry.data.links.bucket.split('/')[entry.data.links.bucket.split('/').length - 1],
+          bucketId:
+            entry.data.links.bucket.split('/')[
+              entry.data.links.bucket.split('/').length - 1
+            ],
           filename: 'test.pdf',
           data: file,
         })
@@ -45,7 +48,7 @@ export default async (document) => {
           },
           (err) => {
             console.log('Error while uploading file :', err)
-          },
+          }
         )
     } catch (error) {
       console.log('error: ', error)

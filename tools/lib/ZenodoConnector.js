@@ -22,8 +22,8 @@ function getAxios(options) {
         maxContentLength: Infinity,
         maxBodyLength: Infinity,
       },
-      options,
-    ),
+      options
+    )
   )
 }
 
@@ -47,12 +47,21 @@ class ZenodoApi {
   get depositions() {
     return (
       this[kSublevel].depositions ||
-      (this[kSublevel].depositions = new ZenodoApiDepositions(this[kBaseUrl], this[kBaseHeaders]))
+      (this[kSublevel].depositions = new ZenodoApiDepositions(
+        this[kBaseUrl],
+        this[kBaseHeaders]
+      ))
     )
   }
 
   get files() {
-    return this[kSublevel].files || (this[kSublevel].files = new ZenodoApiFiles(this[kBaseUrl], this[kBaseHeaders]))
+    return (
+      this[kSublevel].files ||
+      (this[kSublevel].files = new ZenodoApiFiles(
+        this[kBaseUrl],
+        this[kBaseHeaders]
+      ))
+    )
   }
 }
 
@@ -130,7 +139,12 @@ class ZenodoApiFiles {
   }
 
   upload(options = {}) {
-    const { deposition, filename, contentType = 'application/octet-stream', data } = options
+    const {
+      deposition,
+      filename,
+      contentType = 'application/octet-stream',
+      data,
+    } = options
     const bucketId = deposition ? getBucketId(deposition) : options.bucketId
     return this[kRequest].put(`/${bucketId}/${filename}`, data, {
       headers: {

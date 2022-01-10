@@ -7,11 +7,13 @@ export default {
     'Public initiative to publish and share in one single place the list of all research initiatives and surveys about the current pandemic of Covid-19 coronavirus.',
   description:
     'Public initiative to publish and share in one single place the list of all research initiatives and surveys about the current pandemic of Covid-19 coronavirus. (TEST)',
-  splash_title: 'Societal impacts and aftermath of Covid-19:<br> A global searchable directory',
+  splash_title:
+    'Societal impacts and aftermath of Covid-19:<br> A global searchable directory',
   item_sg: 'Project',
   item_pl: 'Projects',
   recaptcha: '6Lc_xuUUAAAAALwowUq0cC0wFtFnZ2NCi3UH4i1j',
-  graphqlEndpoint: 'https://mz3e6z5nlngvdls3zh3possona.appsync-api.eu-west-2.amazonaws.com/graphql',
+  graphqlEndpoint:
+    'https://mz3e6z5nlngvdls3zh3possona.appsync-api.eu-west-2.amazonaws.com/graphql',
   graphqlApiKey: 'da2-eb5bkfhsvbdz3mexfykmkwjka4',
   keywords: 'boilerplate, vuejs, nuxt, vuetify, vuex',
   url: 'https://wprn.org',

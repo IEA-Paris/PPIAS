@@ -1,7 +1,11 @@
 <template>
   <ArticleContainer :item="item[0]">
     <div v-intersect="onIntersect"></div>
-    <ArticleMedia v-if="item.length" :item="item[0]" :title="show"></ArticleMedia>
+    <ArticleMedia
+      v-if="item.length"
+      :item="item[0]"
+      :title="show"
+    ></ArticleMedia>
   </ArticleContainer>
 </template>
 <script>

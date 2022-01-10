@@ -238,7 +238,10 @@ export default {
     icons: [],
   },
   styleResources: {
-    scss: ['./assets/*.scss', './node_modules/lite-youtube-embed/src/lite-yt-embed.css'],
+    scss: [
+      './assets/*.scss',
+      './node_modules/lite-youtube-embed/src/lite-yt-embed.css',
+    ],
   },
   // https://i18n.nuxtjs.org/
   i18n: {
