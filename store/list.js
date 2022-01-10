@@ -30,12 +30,22 @@ export const mutations = {
   update(state, filters) {
     console.log('filters: ', filters)
     const queries = Object.fromEntries(
-      Object.entries(filters).map(([key, val]) => [key, val ? JSON.stringify(val) : undefined]),
+      Object.entries(filters).map(([key, val]) => [
+        key,
+        val ? JSON.stringify(val) : undefined,
+      ])
     )
     delete queries.items
     console.log('queries.length: ', queries)
-    console.log('this.app.router.currentRoute.query.length: ', this.app.router.currentRoute.query)
-    if (process.client && (Object.keys(this.app.router.currentRoute.query).length || Object.keys(queries).length)) {
+    console.log(
+      'this.app.router.currentRoute.query.length: ',
+      this.app.router.currentRoute.query
+    )
+    if (
+      process.client &&
+      (Object.keys(this.app.router.currentRoute.query).length ||
+        Object.keys(queries).length)
+    ) {
       console.log('  this.app.router: ', this.app.router)
       this.app.router.push({
         path: this.app.router.currentRoute.path,
@@ -56,13 +66,17 @@ export const mutations = {
   nextPage(state, value) {
     if (state.page + 1 <= Math.ceil(state.total / state.itemsPerPage)) {
       state.page += 1
-      this.app.router.push({ query: { ...this.app.router.currentRoute.query, page: state.page } })
+      this.app.router.push({
+        query: { ...this.app.router.currentRoute.query, page: state.page },
+      })
     }
   },
   formerPage(state, value) {
     if (state.page - 1 >= 1) {
       state.page -= 1
-      this.app.router.push({ query: { ...this.app.router.currentRoute.query, page: state.page } })
+      this.app.router.push({
+        query: { ...this.app.router.currentRoute.query, page: state.page },
+      })
     }
   },
   updateItemsPerPage(state, value) {
