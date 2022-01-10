@@ -6,8 +6,8 @@ import formatArticle from './formatArticle'
 import mergeAuthors from './mergeAuthors'
 export default {
   hooks: {
-    'content:ready': async () => {
-      await mergeAuthors()
+    'content:ready': async (content) => {
+      await mergeAuthors(content)
     },
     'content:file:beforeInsert': (document, database) => {
       document = {

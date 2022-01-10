@@ -44,15 +44,6 @@ export default async (cat, $content, query, search, deep, mobile = false, perPag
           .flat()
           .filter((item, index, self) => item !== undefined)
 
-  // merge authors
-  if (cat === 'authors') {
-    // first we merge those with the same orcid
-    const sortedItems = count.reduce(function (rv, x) {
-      ;(rv[x.social_channels.orcid] = rv[x.social_channels.orcid] || []).push(x)
-      return rv
-    }, {})
-    /*  console.log('sortedItems: ', sortedItems) */
-  }
   const totalItems = count.length
 
   /*   console.log('totalItems: ', totalItems) */

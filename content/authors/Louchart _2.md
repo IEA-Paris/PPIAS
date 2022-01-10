@@ -1,5 +1,5 @@
----
-firstname: " Aurélie "
+slug: Louchart
+firstname: ' Aurélie '
 lastname: 'Louchart '
 titles_and_institutions: []
 picture: ''
@@ -14,5 +14,14 @@ social_channels:
   google_scholar: ''
   researchgate: ''
   mendeley: ''
-
----
+toc: []
+body:
+  type: root
+  children: []
+dir: /authors
+path: /authors/Louchart
+extension: .md
+createdAt: '2022-01-03T10:54:29.087Z'
+updatedAt: '2022-01-03T10:54:29.087Z'
+countMap: []
+countRefs: []
