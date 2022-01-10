@@ -8,6 +8,24 @@ language: English
 published: false
 article_title: News & Media Coverage
 authors:
+- lastname: 'Caporali '
+  firstname: Arianna
+  titles_and_institutions:
+  - titles: []
+    institution: Institut national d'études démographiques (INED), France
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
 - firstname: " Muneo "
   lastname: Kaigo
   titles_and_institutions:
