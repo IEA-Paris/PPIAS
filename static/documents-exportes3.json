@@ -1,0 +1,107 @@
+[
+	{
+		"id": "http://zotero.org/groups/4044370/items/7PRY2HL7",
+		"type": "article-journal",
+		"abstract": "This paper studies long economic series to assess the long-lasting effects of pandemics. We analyze if periods that cover pandemics have a change in trend and persistence in growth, and in level and persistence in unemployment. We find that there is an upward trend in the persistence level of growth across centuries. In particular, shocks originated by pandemics in recent times seem to have a permanent effect on growth. Moreover, our results show that the unemployment rate increases and becomes more persistent after a pandemic. In this regard, our findings support the design and implementation of timely counter-cyclical policies to soften the shock of the pandemic.",
+		"container-title": "Econometrics",
+		"DOI": "10.3390/econometrics8030037",
+		"issue": "3",
+		"language": "en",
+		"note": "number: 3\npublisher: Multidisciplinary Digital Publishing Institute",
+		"page": "37",
+		"source": "www.mdpi.com",
+		"title": "Long-Lasting Economic Effects of Pandemics:Evidence on Growth and Unemployment",
+		"title-short": "Long-Lasting Economic Effects of Pandemics",
+		"URL": "https://www.mdpi.com/2225-1146/8/3/37",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Rodríguez-Caballero",
+				"given": "C. Vladimir"
+			},
+			{
+				"family": "Vera-Valdés",
+				"given": "J. Eduardo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4044370/items/MJFCU5WD",
+		"type": "webpage",
+		"title": "The persistence of financial volatility after COVID-19 - ScienceDirect",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1544612321001379",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4044370/items/FCHEP48T",
+		"type": "webpage",
+		"title": "Full article: The political risk factors of COVID-19",
+		"URL": "https://www.tandfonline.com/doi/full/10.1080/02692171.2020.1866973",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4044370/items/PPYHT7IE",
+		"type": "article-journal",
+		"abstract": "This paper tests if air pollution serves as a carrier for SARS-CoV-2 by measuring the effect of daily exposure to air pollution on its spread by panel data models that incorporates a possible commonality between municipalities. We show that the contemporary exposure to particle matter is not the main driver behind the increasing number of cases and deaths in the Mexico City Metropolitan Area. Remarkably, we also find that the cross-dependence between municipalities in the Mexican region is highly correlated to public mobility, which plays the leading role behind the rhythm of contagion. Our findings are particularly revealing given that the Mexico City Metropolitan Area did not experience a decrease in air pollution during COVID-19 induced lockdowns.",
+		"container-title": "Econometrics",
+		"DOI": "10.3390/econometrics9040037",
+		"ISSN": "2225-1146",
+		"issue": "4",
+		"page": "1-17",
+		"source": "Aalborg University's Research Portal",
+		"title": "Air Pollution and Mobility, What Carries COVID-19?",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Rodríguez Caballero",
+				"given": "Carlos Vladimir"
+			},
+			{
+				"family": "Vera-Valdés",
+				"given": "J. Eduardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					11
+				]
+			]
+		}
+	}
+]
