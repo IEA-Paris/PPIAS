@@ -8,6 +8,24 @@ language: English
 published: false
 article_title: News & Media Coverage
 authors:
+- firstname: " Muneo "
+  lastname: Kaigo
+  titles_and_institutions:
+  - titles: []
+    institution: University of Tsukuba, Japan
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
 - firstname: Concetta
   lastname: Papapicco
   titles_and_institutions:
