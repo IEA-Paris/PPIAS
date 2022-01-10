@@ -30,6 +30,7 @@
     "js-yaml": "^4.1.0",
     "lite-youtube-embed": "^0.2.0",
     "nuxt": "^2.15.7",
+    "parse-md": "^3.0.3",
     "puppeteer": "^11.0.0",
     "remark-bibliography": "^1.0.0",
     "request": "^2.88.2",

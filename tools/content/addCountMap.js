@@ -5,11 +5,13 @@ export default (document) => {
         if (type === 'text') {
           if (element.type === type) {
             count += element.value === '\n' ? 0 : element.value.length
-          } else if (element?.children.length) count = getCount(element, count, type)
+          } else if (element?.children.length)
+            count = getCount(element, count, type)
         } else if (type === 'link') {
           if (element.tag === 'a') {
             count += 1
-          } else if (element?.children.length) count = getCount(element, count, type)
+          } else if (element?.children.length)
+            count = getCount(element, count, type)
         }
       })
     return count
@@ -17,14 +19,16 @@ export default (document) => {
   // we assume it is markdown
   /*     if (document.extension === '.md') { */
   // generate count & stats for the graph thumbnails
-
-  const countMap = []
-  const countRefs = []
-  document.body.children.forEach((child) => {
-    countMap.push(getCount(child, 0, 'text'))
-    countRefs.push(getCount((child, 0, 'link')))
-  })
-  document.countMap = countMap
-  document.countRefs = countRefs
+  if (document.dir === '/articles' && document.published) {
+    const countMap = []
+    const countRefs = []
+    document.body.children.forEach((child) => {
+      countMap.push(getCount(child, 0, 'text'))
+      countRefs.push(getCount((child, 0, 'link')))
+    })
+    document.countMap = countMap
+    document.countRefs = countRefs
+    return document
+  }
   return document
 }

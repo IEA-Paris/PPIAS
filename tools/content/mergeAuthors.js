@@ -3,6 +3,7 @@ import fs from 'fs'
 import { Buffer } from 'buffer'
 import { dump } from 'js-yaml'
 import fsExtra from 'fs-extra'
+import parseMD from 'parse-md'
 /**
  * Performs a deep merge of objects and returns new object. Does not modify
  * objects (immutable) and merges arrays via concatenation.
@@ -97,9 +98,8 @@ const filterAndMerge = (first, second) => {
     }
     return true
   })
-  // finally remove the authors document that match no article
+  // remove the authors document that match no article
   second = second.filter((author) => !author.reference)
-
   return { first, second }
 }
 
@@ -125,7 +125,15 @@ export default async (content) => {
       })
     )
     .flat()
-
+  // include the document body from the original document to avoid a round trip md <> JSON AST
+  authorsDocs = authorsDocs.map((doc) => {
+    const fileContents = fs.readFileSync('content' + doc.path + '.md', 'utf8')
+    const { metadata, content } = parseMD(fileContents)
+    return {
+      ...doc,
+      text: content || false,
+    }
+  })
   const firstPass = filterAndMerge(articleAuthors, authorsDocs)
   articleAuthors = firstPass.first
   authorsDocs = firstPass.second
@@ -139,24 +147,49 @@ export default async (content) => {
   // TODO handle body
 
   // create the folder structure or delete all the previous author files
-  'abcdefghijklmnopqrstuvwxyz'.split().forEach((folder) => {
-    if (!fs.existsSync('content/authors/' + folder)) {
-      fs.mkdirSync(folder, { recursive: true })
+  for (const folder of 'abcdefghijklmnopqrstuvwxyz') {
+    const folderPath = path.resolve('content/authors/' + folder)
+    if (!fs.existsSync(folderPath)) {
+      fs.mkdirSync(folderPath, { recursive: true })
+      console.log('make folder: ', 'content/authors/' + folder)
     } else {
-      fsExtra.emptyDirSync('content/authors/' + folder)
+      console.log('empty folder: ', 'content/authors/' + folder)
+      fsExtra.emptyDirSync(folderPath)
     }
-  })
+  }
+
   // create the new ones
   authorsDocs.forEach((doc, index) => {
-    const filePath = path.join(
-      'content/authors/' + doc.lastname.trim()[0].toLowerCase(),
-      doc.lastname + '_' + index + '.md'
+    // only keep relevant fields in the stored document
+    const fieldsToDelete = [
+      'slug',
+      'body',
+      'dir',
+      'path',
+      'extension',
+      'updatedAt',
+      'toc',
+      'description',
+      'title',
+    ]
+    const filteredDoc = Object.fromEntries(
+      Object.entries(doc).filter(([k]) => !fieldsToDelete.includes(k))
     )
+    const filePath = path.join(
+      'content/authors/' + doc.lastname.trim().toLowerCase()[0],
+      doc.lastname.trim().toLowerCase() + '.md'
+    )
+    console.log('filePath: ', filePath)
+    fsExtra.ensureFile(filePath, (err) => {
+      console.log(err) // => null
+    })
+
     fs.writeFileSync(
       filePath,
       `---
-${dump(doc)}
----`
+${dump(filteredDoc)}
+---
+${doc.text ? doc.text : ''}`
     )
   })
 }
