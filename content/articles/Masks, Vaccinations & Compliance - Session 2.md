@@ -11,7 +11,7 @@ keywords:
 - 'Quantitative survey '
 date: 2021-12-09T12:00:03Z
 language: English
-published: false
+published: true
 article_title: 'Masks, Vaccinations and Compliance '
 authors:
 - lastname: Lisi
