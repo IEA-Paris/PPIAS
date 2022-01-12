@@ -38,6 +38,7 @@ articles:
   - /articles/Memorandums/Memorandum_3
   - /articles/Memorandums/Memorandum_4
   - /articles/Memorandums/Memorandum_9
+  - /articles/Memorandums/memorandum_2
 createdAt: '2022-01-10T13:54:22.946Z'
 reference: ''
 
