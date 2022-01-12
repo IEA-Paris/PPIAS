@@ -57,16 +57,9 @@
         <!-- MAIN MENU -->
         <v-col cols="12" md="4">
           <v-divider style="border-color: white"></v-divider>
-          <!-- HOME -->
+          <!-- HOME/ARTICLES -->
           <v-list dark color="black">
             <v-list-item :to="localePath('/')" @click="open = false">
-              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">
-                {{ $t('home') }}
-              </v-list-item-title>
-            </v-list-item>
-            <v-divider></v-divider>
-            <!-- ARTICLES -->
-            <v-list-item :to="localePath('/articles')" @click="open = false">
               <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">
                 {{ $t('articles') }}
               </v-list-item-title>

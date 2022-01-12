@@ -1,6 +1,5 @@
 <template>
   <v-card
-    v-show="ready"
     id="articleBox"
     ref="articleBox"
     :width="$vuetify.breakpoint.mdAndUp ? '' : '100%'"
@@ -26,11 +25,19 @@
       </template>
       <template #author>
         <ArticleAuthorsString :authors="item.authors" />
-        <v-sheet :color="item.category_1.color" class="underline"></v-sheet>
+        <v-sheet
+          v-if="item.category_1 && item.category_1.length"
+          :color="item.category_1.color"
+          class="underline"
+        ></v-sheet>
       </template>
       <template #date>
         <div class="d-flex">
-          <v-sheet :color="item.category_1.color" class="sideline"></v-sheet>
+          <v-sheet
+            v-if="item.category_1 && item.category_1.length"
+            :color="item.category_1.color"
+            class="sideline"
+          ></v-sheet>
           {{
             new Date(item.date).toLocaleDateString('EN', {
               timezone: 'UTC',

@@ -1,136 +1,137 @@
 ---
 category_1: content/categories/WPRN21.md
-category_2: []
+
 issue: []
 keywords:
-- Work, Welfare, Social protection
-- Environmental change, Ecology
-- 'Human Behaviours, Social Relations '
-- 'Public Discourse, Rhetorics, Communication '
-- 'Public Health '
-- 'Quantitative survey '
+  - Work, Welfare, Social protection
+  - Environmental change, Ecology
+  - 'Human Behaviours, Social Relations '
+  - 'Public Discourse, Rhetorics, Communication '
+  - 'Public Health '
+  - 'Quantitative survey '
 date: 2021-12-09T12:00:03Z
 language: English
 published: true
 article_title: 'Masks, Vaccinations and Compliance '
 authors:
-- lastname: Lisi
-  firstname: Matteo P.
-  titles_and_institutions:
-  - titles: []
-    institution: Department Of Psychology, Sapienza University Of Rome, Italy
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: Kothari
-  firstname: Ammina
-  titles_and_institutions:
-  - titles: []
-    institution: University Of Rhode Island, USA
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: Olah
-  firstname: Andrew R.
-  titles_and_institutions:
-  - titles: []
-    institution: The Junkin Group, LLC, USA
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: " Ervas"
-  firstname: Francesca
-  titles_and_institutions:
-  - titles: []
-    institution: University of Cagliari
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: 'Calbi '
-  titles_and_institutions:
-  - titles: []
-    institution: Department Of Medicine And Surgery, Unit Of Neuroscience, University
-      Of Parma, Parma, Italy
-  firstname: Marta
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: Kurian Puliyeli
-  firstname: Dyuthi
-  titles_and_institutions:
-  - titles: []
-    institution: Symbiosis Law School Pune, Symbiosis International University, India
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
+  - lastname: Lisi
+    firstname: Matteo P.
+    titles_and_institutions:
+      - titles: []
+        institution: Department Of Psychology, Sapienza University Of Rome, Italy
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: Kothari
+    firstname: Ammina
+    titles_and_institutions:
+      - titles: []
+        institution: University Of Rhode Island, USA
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: Olah
+    firstname: Andrew R.
+    titles_and_institutions:
+      - titles: []
+        institution: The Junkin Group, LLC, USA
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: ' Ervas'
+    firstname: Francesca
+    titles_and_institutions:
+      - titles: []
+        institution: University of Cagliari
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: 'Calbi '
+    titles_and_institutions:
+      - titles: []
+        institution:
+          Department Of Medicine And Surgery, Unit Of Neuroscience, University
+          Of Parma, Parma, Italy
+    firstname: Marta
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: Kurian Puliyeli
+    firstname: Dyuthi
+    titles_and_institutions:
+      - titles: []
+        institution: Symbiosis Law School Pune, Symbiosis International University, India
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
 abstract: ''
 picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
 bibliography: ''
-
 ---
+
 ## Masks, Vaccinations and Compliance : Session 2
 
 2nd Q&A session on the theme "Masks, Vaccinations and Compliance" based on 6 projects registered on the WPRN database.
@@ -151,7 +152,7 @@ The COVID-19 pandemic has dramatically changed the nature of our social interact
 
 3. [Metaphors for vaccination and defeasible reasoning](https://wprn.org/item/439252)
 
-Metaphor can be a useful device to grasp an unknown concept by using a known concept (@Lakoff-Johnson_1980) (@Bowdle-Gentner_2005), thus explaining a phenomenon, illness, which otherwise might remain unintelligible to patients. However, metaphor also frames the experience of illness, providing a specific perspective to interpret both the disease and its development (@Hauser-Schwartz_2015) (@Semino et al._2018). Exposure to metaphorical framing may modify how people reason about a specific problem (@Thibodeau-Borodisky_2011), also in the case of metaphors used for vaccination (@Scherer et al._2014). However, no empirical study on the effects of metaphor for vaccination in defeasible conditions was conducted and it would be important in the current COVID-19 outbreak. Background : The first assumption is that a metaphor can be explicitly meant to better understand an argument (@Steen_2010). The second assumption is that diagnostic reasoning in the case of vaccination is a non-monotonic process (@Salis-Ervas_2020). Different from standard deductive reasoning, certain premises may indeed be rebutting defeasors, liable to make the conclusion a bad one, or undercutting defeasors, liable to make the other premises bad (to draw certain conclusions).
+Metaphor can be a useful device to grasp an unknown concept by using a known concept (@Lakoff-Johnson_1980) (@Bowdle-Gentner_2005), thus explaining a phenomenon, illness, which otherwise might remain unintelligible to patients. However, metaphor also frames the experience of illness, providing a specific perspective to interpret both the disease and its development (@Hauser-Schwartz_2015) (@Semino et al.\_2018). Exposure to metaphorical framing may modify how people reason about a specific problem (@Thibodeau-Borodisky_2011), also in the case of metaphors used for vaccination (@Scherer et al.\_2014). However, no empirical study on the effects of metaphor for vaccination in defeasible conditions was conducted and it would be important in the current COVID-19 outbreak. Background : The first assumption is that a metaphor can be explicitly meant to better understand an argument (@Steen_2010). The second assumption is that diagnostic reasoning in the case of vaccination is a non-monotonic process (@Salis-Ervas_2020). Different from standard deductive reasoning, certain premises may indeed be rebutting defeasors, liable to make the conclusion a bad one, or undercutting defeasors, liable to make the other premises bad (to draw certain conclusions).
 
 <Youtube yt="7qwyKAHmLCo" caption ="Metaphors for vaccination and defeasible reasoning_WPRN-439252"></Youtube>
 

@@ -1,102 +1,103 @@
 ---
 category_1: content/categories/WPRN21.md
-category_2: []
+
 issue: content/issues/10-12-2021.md
 keywords:
-- 'Public Discourse, Rhetorics, Communication '
-- 'Migrations and Diasporas '
-- 'Culture and The Arts '
-- Digital Humanities
-- Human Behaviours, Social Relations
-- 'Dataset, Data Mining '
-- 'Quantitative survey '
-- 'Policy Document '
+  - 'Public Discourse, Rhetorics, Communication '
+  - 'Migrations and Diasporas '
+  - 'Culture and The Arts '
+  - Digital Humanities
+  - Human Behaviours, Social Relations
+  - 'Dataset, Data Mining '
+  - 'Quantitative survey '
+  - 'Policy Document '
 date: 2021-12-09T10:30:42.000+00:00
 language: English
 published: false
 article_title: News and Media Coverage
 authors:
-- lastname: 'Caporali '
-  firstname: Arianna
-  titles_and_institutions:
-  - titles: []
-    institution: Institut national d'études démographiques (INED), France
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: " Muneo "
-  lastname: Kaigo
-  titles_and_institutions:
-  - titles: []
-    institution: University of Tsukuba, Japan
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: Concetta
-  lastname: Papapicco
-  titles_and_institutions:
-  - titles: []
-    institution: University of Bari "Aldo Moro", Italy
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: " Angeliki"
-  lastname: Monnier
-  titles_and_institutions:
-  - titles: []
-    institution: Université de Lorraine, Crem, France
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-abstract: First Q&A session on the theme " News & Media Coverage " based on 4 projects
+  - lastname: 'Caporali '
+    firstname: Arianna
+    titles_and_institutions:
+      - titles: []
+        institution: Institut national d'études démographiques (INED), France
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: ' Muneo '
+    lastname: Kaigo
+    titles_and_institutions:
+      - titles: []
+        institution: University of Tsukuba, Japan
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: Concetta
+    lastname: Papapicco
+    titles_and_institutions:
+      - titles: []
+        institution: University of Bari "Aldo Moro", Italy
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: ' Angeliki'
+    lastname: Monnier
+    titles_and_institutions:
+      - titles: []
+        institution: Université de Lorraine, Crem, France
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+abstract:
+  First Q&A session on the theme " News & Media Coverage " based on 4 projects
   registered on the WPRN database.
 picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
 bibliography: ''
-
 ---
+
 ## News and Media Coverage - Session 1
 
 This first Q&A session is based on 4 projects registered on the WPRN database.

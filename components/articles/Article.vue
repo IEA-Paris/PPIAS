@@ -45,24 +45,25 @@
           </div>
         </div>
 
-        <!--         <v-card-title>
-          <span class="text-h4" v-html="highlight(item.article_title, $route.query.search)"></span>
-        </v-card-title> -->
-
         <v-card-text
           :class="toc ? 'justify-start' : 'justify-center'"
-          class="d-flex"
+          class="d-flex flex-column"
         >
-          <YoutubeEmbed
-            v-if="item.youtube_video_id"
-            :yt="item.youtube_video_id"
-            class="mb-9 ml-3"
-          ></YoutubeEmbed>
-          <OptimizedImage
-            v-if="item.images && item.images.length === 1"
-            :src="item.images[0]"
-            class="my-3"
-          ></OptimizedImage>
+          <v-row>
+            <v-col cols="12">
+              <Youtube
+                v-if="item.yt && item.yt.length"
+                :yt="item.yt"
+                class="mb-9 ml-3"
+              ></Youtube>
+              <OptimizedImage
+                v-else-if="item.images && item.images.length === 1"
+                :src="item.images[0]"
+                class="my-3"
+              ></OptimizedImage>
+            </v-col>
+          </v-row>
+
           <div v-if="item.images && item.images.length > 1" class="pb-8 pt-3">
             <v-carousel
               :height="$vuetify.breakpoint.mdAndUp ? '600' : '300'"
@@ -142,6 +143,35 @@ export default {
         threshold: 0,
       },
       sheet: false,
+      size: 250,
+      cells: this.item?.body?.children.map((child, index) => {
+        return {
+          ...child,
+          countChars: this.item.countMap[index],
+          countRefs: Math.floor(this.item.countRefs[index]),
+        }
+      }),
+      stats: {
+        countRefs: Math.floor(this.item?.countRefs?.length / 2),
+        countLines: this.item?.countMap?.length,
+        countChars: this.item?.countMap.reduce(
+          (partialSum, a) => partialSum + a,
+          0
+        ),
+        countContributors: 3,
+        countHeadings: this.item?.toc?.length,
+        countMediaCells: 2,
+        countCodeCells: 10,
+        countCells: this.item.body.children.length,
+        extentChars: [
+          Math.min(...this.item.countMap),
+          Math.max(...this.item.countMap),
+        ],
+        extentRefs: [
+          Math.min(...this.item.countRefs),
+          Math.max(...this.item.countRefs),
+        ],
+      },
     }
   },
   computed: {},

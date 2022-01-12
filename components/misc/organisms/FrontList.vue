@@ -188,6 +188,7 @@
                 <v-pagination
                   :total-visible="5"
                   :v-model="options.page"
+                  color="black"
                   :value="+$route.query.page || 1"
                   :length="numberOfPages"
                   @input="updatePage($event)"

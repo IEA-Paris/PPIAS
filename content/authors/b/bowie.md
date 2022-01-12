@@ -1,6 +1,6 @@
 ---
-firstname: 'Victor '
-lastname: Gallonnier
+firstname: David
+lastname: Bowie
 titles_and_institutions: []
 picture: ''
 picture_copyright: ''
@@ -14,10 +14,9 @@ social_channels:
   google_scholar: ''
   researchgate: ''
   mendeley: ''
-createdAt: '2022-01-10T10:45:35.922Z'
 reference: ''
 articles:
-  - /articles/Memorandums/Memorandum_7
-  - /articles/Memorandums/Memorandum_8
+  - /articles/Memorandums/Memorandum_4
+createdAt: '2022-01-12T13:08:19.024Z'
 
 ---

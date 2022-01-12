@@ -64,8 +64,9 @@ export default {
   },
   computed: {},
   watch: {
-    '$route.query.search'(search) {
-      if (!search) this.searchString = null
+    '$route.query.search'(newQuery, oldQuery) {
+      console.log('search from input: ', newQuery)
+      if (!newQuery) this.searchString = null
     },
   },
   created() {

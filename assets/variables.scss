@@ -114,7 +114,21 @@ $stepper-elevation: 0;
   border-left-color: transparent !important;
   margin-bottom: 16px;
   padding-bottom: 0;
-} /* 
+}
+// FF print fix
+@media print {
+  .application {
+    display: block !important;
+  }
+  .application--wrap {
+    display: block !important;
+  }
+  .content--wrap {
+    display: block !important;
+  }
+}
+
+/* 
 .section-title {
   display: inline-block;
   color: #343434;

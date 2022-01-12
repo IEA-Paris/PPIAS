@@ -9,9 +9,7 @@ export default async (
   mobile = false,
   perPage = 9
 ) => {
-  console.log('cat: ', cat)
   const currentPage = parseInt(query.page) || 1
-  console.log('currentPage: ', currentPage)
 
   const filters = filtersRaw[cat]
 
@@ -19,47 +17,17 @@ export default async (
   const pipeline = {
     ...filters,
   }
-  console.log('pipeline: ', ['articles', 'authors'].includes(cat))
-  if (tags.length) pipeline.tags = { $containsAny: tags }
-  const count = ['articles', 'authors'].includes(cat)
-    ? await $content(cat, { deep })
-        .search(search)
-        .where(pipeline)
-        .only('[]')
-        .fetch()
-    : (
-        await $content('articles', { deep })
-          .search(search)
-          .only([
-            ...(cat === 'authors' ? ['authors'] : []),
-            ...(cat === 'media' ? ['media'] : []),
-            ...(cat === 'media' ? ['category_1'] : []),
-            ...(cat === 'media' ? ['category_2'] : []),
-            ...(cat === 'media' ? ['highlight'] : []),
-            ...(cat === 'media' ? ['date'] : []),
-            'slug',
-          ])
-          .fetch()
-      )
-        .filter((item) => item[cat] && item[cat].length)
-        .map((i) => {
-          return {
-            slug: i.slug,
-            ...i[cat]['0'],
-            ...(cat === 'media' && { date: i.date }),
-            ...(cat === 'media' && { category_1: i.category_1 }),
-            ...(cat === 'media' && { category_2: i.category_2 }),
-            ...(cat === 'media' && { highlight: i.highlight }),
-          }
-        })
-        .flat()
-        .filter((item, index, self) => item !== undefined)
-  /*   console.log('count: ', count)
-   */
-  const totalItems = count.length
-  console.log('totalItems: ', totalItems)
 
-  /*   console.log('totalItems: ', totalItems) */
+  if (tags.length) pipeline.tags = { $containsAny: tags }
+  const count = await $content(cat, { deep })
+    .search(search)
+    .where(pipeline)
+    .only('[]')
+    .fetch()
+
+  console.log('count: ', count)
+
+  const totalItems = count.length
 
   // use Math.ceil to round up to the nearest whole number
   const lastPage = Math.ceil(totalItems / perPage)
@@ -80,7 +48,7 @@ export default async (
     }
     return (currentPage - 1) * perPage
   }
-  console.log(skipNumber())
+
   // pinned logic (removed)
   /* let items, pinnedItem
   if (currentPage === 1) {
@@ -104,15 +72,14 @@ export default async (
 
     items = pinnedItem ? rawItems.filter((item) => item.slug !== pinnedItem[0]?.slug) : rawItems
   } else { */
-  let items = ['articles', 'authors'].includes(cat)
-    ? await $content(cat, { deep })
-        .where(pipeline)
-        .search(search)
-        .sortBy('date', 'desc')
-        .limit(perPage)
-        .skip(skipNumber())
-        .fetch()
-    : count
+  let items = await $content(cat, { deep })
+    .where(pipeline)
+    .search(search)
+    .sortBy('date', 'desc')
+    .limit(perPage)
+    .skip(skipNumber())
+    .fetch()
+
   const pinnedItem = false
   /* } */
 
@@ -147,16 +114,15 @@ export default async (
   } else {
     // on md highlight slots are on a 1/5/6 pattern
     const availableSlots = perPage / 3
-    console.log('availableSlots:', availableSlots)
+
     const highlightedItems = items.filter((item) => item.highlight)
-    console.log('highlightedItems: ', highlightedItems.length)
+
     const slotedHighlightedItems = highlightedItems.slice(0, availableSlots)
-    console.log('slotedHighlightedItems:', slotedHighlightedItems.length)
+
     const regularItems = [
       ...highlightedItems.slice(availableSlots),
       ...items.filter((item) => !item.highlight),
     ]
-    console.log('regularItems:', regularItems.length)
 
     const sortedItems = []
     slotedHighlightedItems.forEach((element, index) => {

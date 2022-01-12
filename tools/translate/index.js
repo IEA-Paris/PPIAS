@@ -22,7 +22,6 @@ const folders = [
 ]
 const languages = [
   'fr',
-  'de',
   'el',
   'es',
   'it',

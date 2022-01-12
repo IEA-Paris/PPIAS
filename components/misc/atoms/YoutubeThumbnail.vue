@@ -7,7 +7,6 @@
         </div>
         <span id="caption-content">
           <slot name="caption"></slot>
-          <br />
         </span>
         <div id="caption-author">
           <slot name="author"></slot>

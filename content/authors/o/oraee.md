@@ -31,6 +31,13 @@ articles:
   - /articles/Covid_19_&_employment
   - /articles/WPRN21_Conference
   - /articles/Covid_19_and_employment
+  - /articles/Memorandums/Concern_for_others
+  - /articles/Memorandums/Memorandum_10
+  - /articles/Memorandums/Memorandum_11
+  - /articles/Memorandums/Memorandum_2
+  - /articles/Memorandums/Memorandum_3
+  - /articles/Memorandums/Memorandum_4
+  - /articles/Memorandums/Memorandum_9
 createdAt: '2022-01-10T13:54:22.946Z'
 reference: ''
 

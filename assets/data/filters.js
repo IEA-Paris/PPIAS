@@ -3,9 +3,5 @@ export default {
     published: true,
   },
   authors: {},
-  media: {
-    media: {
-      $exists: true,
-    },
-  },
+  media: {},
 }

@@ -208,6 +208,12 @@ export default {
       'remark-footnotes',
       'remark-bibliography',
     ],
+    fullTextSearchFields: [
+      'lastname',
+      'article_title',
+      'caption',
+      'institution',
+    ],
   },
   // Content hooks
   ...contentHooks,

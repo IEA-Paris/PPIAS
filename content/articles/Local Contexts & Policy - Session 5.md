@@ -1,168 +1,170 @@
 ---
 category_1: content/categories/WPRN21.md
-category_2: []
+
 issue: content/issues/10-12-2021.md
 keywords:
-- 'Dataset, Data Mining '
-- 'Quantitative survey '
-- 'Qualitative analysis '
-- Case Study
-- 'Public Health '
-- 'Democracy, Civil Society, Governance '
-- " Digital Humanities "
-- Education
-- 'Equality & Diversity Studies '
-- 'Human Behaviours, Social Relations '
-- 'Public Discourse, Rhetorics, Communication '
-- 'Inequalities, Poverty, Development '
-- 'Simulation / Modeling '
-- 'Violence, Criminality, Security '
-- 'Work, Welfare, Social protection '
-- 'Public Policy, Evaluation, Impact  '
-- Culture and The Arts
-- 'Cities, Mobility, Urban Planning '
-- 'Risks, Crisis Management '
+  - 'Dataset, Data Mining '
+  - 'Quantitative survey '
+  - 'Qualitative analysis '
+  - Case Study
+  - 'Public Health '
+  - 'Democracy, Civil Society, Governance '
+  - ' Digital Humanities '
+  - Education
+  - 'Equality & Diversity Studies '
+  - 'Human Behaviours, Social Relations '
+  - 'Public Discourse, Rhetorics, Communication '
+  - 'Inequalities, Poverty, Development '
+  - 'Simulation / Modeling '
+  - 'Violence, Criminality, Security '
+  - 'Work, Welfare, Social protection '
+  - 'Public Policy, Evaluation, Impact  '
+  - Culture and The Arts
+  - 'Cities, Mobility, Urban Planning '
+  - 'Risks, Crisis Management '
 date: 2021-12-10T13:00:31Z
 language: English
 published: false
 article_title: 'Local Contexts and Policy '
 authors:
-- lastname: " Pintus"
-  firstname: " Patrick"
-  titles_and_institutions:
-  - titles: []
-    institution: CNRS And Aix-Marseille University, France
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: " Starominski-Uehara"
-  firstname: Marvin
-  titles_and_institutions:
-  - titles: []
-    institution: School of Humanities of Behavioural Sciences, Singapore University
-      of Social Sciences, Singapore
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: " Shiwanee "
-  lastname: Shree Pant
-  titles_and_institutions:
-  - titles: []
-    institution: National Law College, Nepal
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: Alvarez
-  firstname: Elizabeth
-  titles_and_institutions:
-  - titles: []
-    institution: McMaster University, Canada
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: " Lord "
-  firstname: 'Phil '
-  titles_and_institutions:
-  - titles: []
-    institution: Bora Laskin Faculty Of Law, Lakehead University, Canada
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: Byrd
-  firstname: Nick
-  titles_and_institutions:
-  - titles: []
-    institution: Steven’s Institute Of Technology, USA
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: " Ling"
-  firstname: 'Gabriel Hoh Teck '
-  titles_and_institutions:
-  - titles: []
-    institution: Universiti Teknologi Malaysia, Malaysia
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-abstract: 5th Q&A session on the theme "Local Contexts and Policy " based on 8 projects
+  - lastname: ' Pintus'
+    firstname: ' Patrick'
+    titles_and_institutions:
+      - titles: []
+        institution: CNRS And Aix-Marseille University, France
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: ' Starominski-Uehara'
+    firstname: Marvin
+    titles_and_institutions:
+      - titles: []
+        institution:
+          School of Humanities of Behavioural Sciences, Singapore University
+          of Social Sciences, Singapore
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: ' Shiwanee '
+    lastname: Shree Pant
+    titles_and_institutions:
+      - titles: []
+        institution: National Law College, Nepal
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: Alvarez
+    firstname: Elizabeth
+    titles_and_institutions:
+      - titles: []
+        institution: McMaster University, Canada
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: ' Lord '
+    firstname: 'Phil '
+    titles_and_institutions:
+      - titles: []
+        institution: Bora Laskin Faculty Of Law, Lakehead University, Canada
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: Byrd
+    firstname: Nick
+    titles_and_institutions:
+      - titles: []
+        institution: Steven’s Institute Of Technology, USA
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: ' Ling'
+    firstname: 'Gabriel Hoh Teck '
+    titles_and_institutions:
+      - titles: []
+        institution: Universiti Teknologi Malaysia, Malaysia
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+abstract:
+  5th Q&A session on the theme "Local Contexts and Policy " based on 8 projects
   registered on the WPRN database
 picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
 bibliography: ''
-
 ---
+
 ## Local Contexts & Policy - Session 5
 
 This Q&A session on the theme "Local Contexts and Policy " is based on 8 projects registered on the WPRN database.
@@ -201,7 +203,7 @@ In the absence of a vaccine or treatments, governments have social or physical d
 
 6. [The Surge of Domestic Violence during the COVID-19 Pandemic](https://wprn.org/item/481552)
 
-Domestic violence is a violation of human rights where a person is abused by a partner or someone close to them. The COVID-19 pandemic has caused a lot of mental distress and escalated the number of cases. This research aims to investigate what causes the surge in domestic violence and what can be done to stop it.  Based on secondary online sources and a review of international journals and papers on domestic violence, its causes and impacts. This qualitative research was carried out to see what causes the surge in domestic violence, especially in times of disaster. Analysis of the research demonstrated that the disruption in normalcy caused by disasters and the mental distress that follows might develop into violence. The research indicates that disruption of social and protective networks, and decreased access to services can exacerbate the risk of violence at home. On this basis, it is recommended that a safe and supportive environment is created for the victims of domestic violence. Further research is needed to identify what can be done to prevent domestic violence and protect the victims. Keywords: disaster, disruption in normalcy, risk of violence.
+Domestic violence is a violation of human rights where a person is abused by a partner or someone close to them. The COVID-19 pandemic has caused a lot of mental distress and escalated the number of cases. This research aims to investigate what causes the surge in domestic violence and what can be done to stop it. Based on secondary online sources and a review of international journals and papers on domestic violence, its causes and impacts. This qualitative research was carried out to see what causes the surge in domestic violence, especially in times of disaster. Analysis of the research demonstrated that the disruption in normalcy caused by disasters and the mental distress that follows might develop into violence. The research indicates that disruption of social and protective networks, and decreased access to services can exacerbate the risk of violence at home. On this basis, it is recommended that a safe and supportive environment is created for the victims of domestic violence. Further research is needed to identify what can be done to prevent domestic violence and protect the victims. Keywords: disaster, disruption in normalcy, risk of violence.
 
 <Youtube yt="W4_umd9Lk7U" caption ="The Surge of Domestic Violence during the COVID-19 Pandemic #WPRN21"></Youtube>
 

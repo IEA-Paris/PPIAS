@@ -17,7 +17,7 @@ tags:
   - 'Inequalities, Poverty, Development '
   - Equality & Diversity Studies
 date: 2020-11-30T23:00:00.000+00:00
-article_title: 'Covid 19 and Politics '
+article_title: 'Covid 19 and Politics'
 picture: ''
 picture_copyright: ''
 yt: ''

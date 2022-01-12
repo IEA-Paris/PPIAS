@@ -1,10 +1,7 @@
 <template>
   <ArticleContainer :item="item[0]">
     <div v-intersect="onIntersect"></div>
-    <Youtube
-      v-if="item[0] && item[0].yt && item[0].yt.length"
-      :yt="item[0].yt"
-    ></Youtube>
+
     <Article v-if="item.length" :item="item[0]" :title="show"></Article>
     <v-snackbar
       v-model="showNote"
@@ -41,7 +38,7 @@ export default {
   beforeRouteUpdate(to, from, next) {
     if (to.hash && to.hash.substring(1).startsWith('fn')) {
       console.log('to.hash.substring(4): ', to.hash.substring(4))
-      this.note = this.item[0].footnotes[+to.hash.substring(4) - 1]
+      this.note = this.item[0]?.footnotes[+to.hash.substring(4) - 1]
       this.showNote = true
       this.noteIndex = +to.hash.substring(4)
       console.log('this.item[0]: ', this.item[0])
@@ -54,17 +51,19 @@ export default {
   },
   props: {},
   async asyncData({ $content, params }) {
-    const item = await $content('articles')
+    console.log('params.slug: ', params.slug)
+    const item = await $content('articles', { deep: true })
       .where({
         slug: params.slug,
       })
       .fetch()
+    console.log('item: ', item)
     item.category_1 = await $content(
-      item[0].category_1.split('/').slice(1).join('/').split('.')[0]
+      item[0]?.category_1.split('/').slice(1).join('/').split('.')[0] || false
     ).fetch()
     if (item.category_2)
       item.category_2 = await $content(
-        item[0].category_2.split('/').slice(1).join('/').split('.')[0]
+        item[0]?.category_2.split('/').slice(1).join('/').split('.')[0] || false
       ).fetch()
     return {
       item,

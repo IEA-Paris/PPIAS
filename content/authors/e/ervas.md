@@ -1,7 +1,10 @@
 ---
-firstname: 'Victor '
-lastname: Gallonnier
-titles_and_institutions: []
+lastname: ' Ervas'
+firstname: Francesca
+titles_and_institutions:
+  '0':
+    titles: []
+    institution: University of Cagliari
 picture: ''
 picture_copyright: ''
 social_channels:
@@ -14,10 +17,9 @@ social_channels:
   google_scholar: ''
   researchgate: ''
   mendeley: ''
-createdAt: '2022-01-10T10:45:35.922Z'
 reference: ''
 articles:
-  - /articles/Memorandums/Memorandum_7
-  - /articles/Memorandums/Memorandum_8
+  - /articles/Masks, Vaccinations & Compliance - Session 2
+createdAt: '2022-01-10T18:37:55.983Z'
 
 ---
