@@ -84,7 +84,11 @@
           <small v-if="item.copyright" class="muted caption"
             >&copy; {{ item.copyright }}</small
           >
-          <nuxt-content :document="item" style="max-width: 650px" />
+          <nuxt-content
+            :document="item"
+            style="max-width: 650px"
+            class="page a4"
+          />
         </v-card-text>
 
         <v-card-subtitle class="pb-0">

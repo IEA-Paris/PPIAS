@@ -27,9 +27,9 @@
       </v-tooltip>
     </template>
 
-    <div
+    <article
       ref="zenpanel"
-      class="zenpanel d-flex flex-row fade-in"
+      class="zenpanel d-flex flex-row fade-in page a4"
       style="background-color: white"
     >
       <div>
@@ -65,7 +65,7 @@
           </v-card-text>
         </v-card>
       </div>
-    </div>
+    </article>
   </v-dialog>
 </template>
 <script>
