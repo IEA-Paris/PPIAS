@@ -1,4 +1,5 @@
 ---
+article_slug: Education & Marginalised Communities - Session 4
 type: youtube
 id: XXXX
 caption: Q&A session - Education & Marginalised Communities

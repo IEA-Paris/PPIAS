@@ -8,7 +8,7 @@
     raised
     min-height="300px"
     nuxt
-    :to="localePath('/articles/' + item.slug + '/media')"
+    :to="localePath('/articles/' + item.article_slug + '/media')"
   >
     <YoutubeThumbnail
       v-if="item.id && item.id.length"

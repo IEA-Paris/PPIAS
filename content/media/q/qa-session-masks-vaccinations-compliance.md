@@ -1,4 +1,5 @@
 ---
+article_slug: Masks, Vaccinations & Compliance - Session 2
 type: youtube
 id: XXXXX
 caption: Q&A session - Masks, Vaccinations & Compliance

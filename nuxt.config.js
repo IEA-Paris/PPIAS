@@ -11,7 +11,12 @@ export default {
   head: {
     titleTemplate: `%s - ${config.title}`,
     title: config.title,
-
+    script: [
+      {
+        src: 'https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver',
+        body: true,
+      },
+    ],
     meta: [
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { name: 'format-detection', content: 'telephone=no' },
@@ -202,10 +207,10 @@ export default {
   content: {
     basePlugins: [
       'remark-squeeze-paragraphs',
-      'remark-slug',
-      'remark-autolink-headings',
-      'remark-external-links',
-      'remark-footnotes',
+      'rehype-slug',
+      'rehype-autolink-headings',
+      'rehype-external-links',
+      'remark-gfm',
       'remark-bibliography',
     ],
     fullTextSearchFields: [

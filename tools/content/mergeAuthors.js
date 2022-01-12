@@ -95,6 +95,5 @@ export default async (content) => {
 
   authorsDocs = [...authorsDocs, ...secondPass.second]
 
-  // TODO diff and selectively CRUD
   insertDocuments(authorsDocs, 'authors', 'lastname')
 }

@@ -87,6 +87,7 @@ export default async (
   if (currentPage === 0 || !items.length) {
     return
   }
+  // TODO put in the build scripts @tool/content
   // fetch the item categories
   if (['articles', 'media'].includes(cat)) {
     items = await Promise.all(

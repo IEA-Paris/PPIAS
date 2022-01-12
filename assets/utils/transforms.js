@@ -52,12 +52,40 @@ export const formatDate = (timestamp, withTime) => {
 
   return formatedDate
 }
-export const formatAuthors = (str) => {
-  if (!str) return []
-  else
-    return str
-      .split(' ')
-      .filter((item) => item.length > 1 && !stopWords.includes(item))
+export const formatAuthors = (authors = false, $t) => {
+  const format = (author) => {
+    return (
+      author.lastname.replace(' ', '&nbsp;').trim() +
+      ',&nbsp;' +
+      author.firstname
+        .replace('.', '')
+        .trim()
+        .match(/(\b\S)?/g)
+        .join('')
+        .toUpperCase() +
+      '.'
+    )
+  }
+  console.log('format(authors[0]): ', format(authors[0]))
+  if (!authors) return ''
+
+  if (authors.length === 1) return format(authors[0])
+
+  if (authors.length === 2) {
+    return format(authors[0]) + $t('and') + format(authors[1])
+  }
+  if (authors.length === 3) {
+    return authors.map((author) => format(author)).join(',&nbsp;')
+  }
+  if (authors.length > 3) {
+    return authors
+      .slice(0, 4)
+      .map((author, index) => {
+        if (index === 3) return 'et&nbsp;al.'
+        return format(author)
+      })
+      .join(',&nbsp;')
+  }
 }
 export const formatSearch = (str) => {
   if (!str) return []

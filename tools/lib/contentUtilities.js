@@ -49,6 +49,7 @@ export const mergeDeep = (...objects) => {
   }, {})
 }
 export const insertDocuments = (data, cat, filenameFlag) => {
+  // TODO diff and selectively CRUD
   // create the folder structure or delete all the previous author files
   for (const folder of 'abcdefghijklmnopqrstuvwxyz') {
     const folderPath = path.resolve('content/' + cat + '/' + folder)

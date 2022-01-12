@@ -176,9 +176,10 @@
                 <v-select
                   v-model="options.itemsPerPage"
                   class="perPageSelect"
-                  text
+                  solo
                   :items="itemsPerPageArray"
                   hide-details
+                  @change="updatePage(1)"
                 ></v-select>
               </div>
 
@@ -256,7 +257,7 @@ export default {
     return {
       mobile: this.$vuetify.breakpoint.mobile,
       search: this.$route.query.search || '',
-      filter: false,
+      panel: false,
       itemsPerPageArray: [9, 12, 16],
       options: {
         itemsPerPage: 9,

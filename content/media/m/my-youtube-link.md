@@ -1,4 +1,5 @@
 ---
+article_slug: ICA4
 type: youtube
 id: 44Vnvcsd4ME
 caption: My youtube link
