@@ -46,7 +46,9 @@ export default async (document) => {
           function (response) {
             zenodo.depositions.publish({ id: entry.data.id })
           },
-          (err) => {}
+          (err) => {
+            console.log('err: ', err)
+          }
         )
     } catch (error) {}
     /*
