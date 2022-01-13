@@ -73,7 +73,7 @@ highlight: false
 bibliography: ''
 
 ---
-## Connaissance des microbes et de la fermentation dans le développement durable 
+## Connaissance des microbes et de la fermentation dans le développement durable
 
 Dans notre évolution biologique, les microbes ont été recrutés pour nous aider à digérer, à ressentir la satiété, à mettre en réserve, à nous protéger de leur présence, à réguler le fonctionnement du système immunitaire et à participer à la maturation du système nerveux.
 
@@ -81,4 +81,4 @@ Cette évolution conceptuelle selon laquelle nous avons recruté une aide microb
 
 Qui produit les connaissances en microbiologie fromagère et quelles en sont les spécificités ? Quelles ont été les grandes phases de développement de cette microbiologie ? Telles sont les questions auxquelles des réponses pourront être proposées lors de table ronde.
 
-Video Youtube
+Video Youtube (de 22 min à 1h57min)
