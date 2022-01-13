@@ -5,7 +5,7 @@ issue: content/issues/10-12-2021.md
 keywords: []
 date: 2021-05-27T08:00:16Z
 language: French
-published: false
+published: true
 article_title: 'Our Microbial Lives : A Forum Against Eradication'
 authors:
 - titles_and_institutions:
