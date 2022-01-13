@@ -6,7 +6,7 @@ keywords: []
 date: 2021-05-27T13:00:08Z
 language: French
 published: false
-article_title: Our Microbial Lives
+article_title: 'Our Microbial Lives : A Forum Against Eradication'
 authors:
 - firstname: Nicolas  (INRAE)
   lastname: Fortané
@@ -65,7 +65,7 @@ authors:
   picture_copyright: ''
   reference: ''
 abstract: |-
-  Table-ronde forum Our Microbial Lives
+  Table-ronde du forum Our Microbial Lives
   Écologies microbiennes dans les corps humains et animaux
 picture: ''
 picture_copyright: ''
