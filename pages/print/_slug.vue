@@ -37,10 +37,12 @@
 export default {
   beforeRouteUpdate(to, from, next) {
     if (to.hash && to.hash.substring(1).startsWith('fn')) {
+      console.log('to.hash.substring(4): ', to.hash.substring(4))
       this.note = this.item[0]?.footnotes[+to.hash.substring(4) - 1]
       this.showNote = true
       this.noteIndex = +to.hash.substring(4)
-
+      console.log('this.item[0]: ', this.item[0])
+      console.log(' this.note: ', this.note)
       window.addEventListener('scroll', this.hideSnack)
       next(from.path)
     } else {
@@ -49,12 +51,13 @@ export default {
   },
   props: {},
   async asyncData({ $content, params }) {
+    console.log('params.slug: ', params.slug)
     const item = await $content('articles', { deep: true })
       .where({
         slug: params.slug,
       })
       .fetch()
-
+    console.log('item: ', item)
     item.category_1 = await $content(
       item[0]?.category_1.split('/').slice(1).join('/').split('.')[0] || false
     ).fetch()

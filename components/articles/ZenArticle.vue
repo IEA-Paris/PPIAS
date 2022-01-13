@@ -86,7 +86,6 @@ export default {
   mounted() {},
   methods: {
     toogleZen() {
-      console.log('this.$refs: ', this.$refs)
       if (this.zen) {
         if (document.exitFullscreen) {
           document.exitFullscreen()

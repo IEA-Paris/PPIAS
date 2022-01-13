@@ -55,9 +55,7 @@ export const insertDocuments = (data, cat, filenameFlag) => {
     const folderPath = path.resolve('content/' + cat + '/' + folder)
     if (!fs.existsSync(folderPath)) {
       fs.mkdirSync(folderPath, { recursive: true })
-      console.log('make folder: ', 'content/' + cat + '/' + folder)
     } else {
-      console.log('empty folder: ', 'content/' + cat + '/' + folder)
       fsExtra.emptyDirSync(folderPath)
     }
   }
@@ -82,9 +80,7 @@ export const insertDocuments = (data, cat, filenameFlag) => {
     )
     const fileName = slugify(doc[filenameFlag].trim()) + '.md'
 
-    console.log('fileName: ', fileName)
     const filePath = path.join('content/' + cat + '/' + fileName[0], fileName)
-    console.log('filePath: ', filePath)
 
     fs.writeFileSync(
       './content/' + cat + '/' + fileName[0] + '/' + fileName,

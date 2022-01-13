@@ -1,7 +1,7 @@
 export default (document, database) => {
   if (document.dir.startsWith('/articles') && document.published) {
     let count = 0
-    /*  console.log(document.article_title) */
+    /*   */
     document.footnotes = []
     document.media = []
     const toc2 = []

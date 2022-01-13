@@ -35,9 +35,7 @@ export default {
     }
   },
   computed: {},
-  mounted() {
-    console.log(this.$route.name)
-  },
+  mounted() {},
 }
 </script>
 <style lang="scss">

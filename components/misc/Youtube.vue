@@ -61,7 +61,6 @@ export default {
   mounted() {},
   methods: {
     handleEvent(event) {
-      console.log('event: ', this.$refs.ytPlayer)
       /*  await this.$refs.ytPlayer[event]() */
     },
   },

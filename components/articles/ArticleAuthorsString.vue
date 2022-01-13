@@ -1,5 +1,5 @@
 <template>
-  <div v-html="formatAuthorsProxy()"></div>
+  <div class="authors" v-html="formatAuthorsProxy()"></div>
 </template>
 <script>
 import { formatAuthors } from '~/assets/utils/transforms'
@@ -17,13 +17,14 @@ export default {
   mounted() {},
   methods: {
     formatAuthorsProxy() {
-      console.log(
-        'formatAuthors(this.authors, this.$i18n): ',
-        formatAuthors(this.authors, this.$i18n)
-      )
       return formatAuthors(this.authors, this.$i18n)
     },
   },
 }
 </script>
-<style lang="scss"></style>
+<style lang="scss">
+.authors {
+  word-wrap: normal;
+  line-break: normal;
+}
+</style>

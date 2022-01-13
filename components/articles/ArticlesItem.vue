@@ -11,9 +11,8 @@
     :to="localePath('/articles/' + item.slug)"
   >
     <TextFingerprint
-      v-if="ready && !(item.yt || item.image)"
-      :cells="cells"
-      :stats="stats"
+      v-if="!(item.yt || item.image)"
+      :item="item"
       :size="size"
       :src="item.image"
     >
@@ -79,55 +78,29 @@ export default {
     },
   },
   data() {
-    return {
-      ready: false,
-      size: 250,
-      cells: this.item?.body?.children.map((child, index) => {
-        return {
-          ...child,
-          countChars: this.item.countMap[index],
-          countRefs: Math.floor(this.item.countRefs[index]),
-        }
-      }),
-      stats: {
-        countRefs: Math.floor(this.item?.countRefs?.length / 2),
-        countLines: this.item?.countMap?.length,
-        countChars: this.item?.countMap.reduce(
-          (partialSum, a) => partialSum + a,
-          0
-        ),
-        countContributors: 3,
-        countHeadings: this.item?.toc?.length,
-        countMediaCells: 2,
-        countCodeCells: 10,
-        countCells: this.item.body.children.length,
-        extentChars: [
-          Math.min(...this.item.countMap),
-          Math.max(...this.item.countMap),
-        ],
-        extentRefs: [
-          Math.min(...this.item.countRefs),
-          Math.max(...this.item.countRefs),
-        ],
-      },
-    }
+    return {}
   },
-  computed: {},
-  created() {
-    console.log('item', this.item)
+  computed: {
+    size() {
+      console.log(
+        'this.$vuetify.breakpoint.name: ',
+        this.$vuetify.breakpoint.name + this.resizeItem()
+      )
+      switch (this.$vuetify.breakpoint.name) {
+        default:
+          return this.resizeItem()
+      }
+    },
   },
-  mounted() {
-    this.resizeItem()
-  },
+  created() {},
+  mounted() {},
   methods: {
     resizeItem() {
-      const width = this.$refs.articleBox.$el.clientWidth
-      const height = this.$refs.articleBox.$el.clientHeight
-      const smallest = Math.min(...[width, height])
+      const width = this.$refs?.articleBox?.$el.clientWidth
+      const height = this.$refs?.articleBox?.$el.clientHeight
+      const smallest = Math.min(...[width, height]) || 250
+      return Math.min(...[smallest - 10, 400])
 
-      this.size = Math.min(...[smallest - 10, 500])
-
-      this.ready = true
       /*    this.$set(this.$refs.articleBox, 'width', widthString) */
     },
   },

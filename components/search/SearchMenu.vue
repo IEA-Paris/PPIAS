@@ -1,5 +1,5 @@
 <template>
-  <v-dialog v-model="open" fullscreen hide-overlay>
+  <v-dialog v-model="open" fullscreen hide-overla overflowed>
     <template #activator="{ on, attrs }">
       <v-btn v-bind="attrs" icon x-large class="ma-2" tile v-on="on">
         <v-icon>mdi-magnify</v-icon>
@@ -52,13 +52,22 @@
                 <template v-for="(item, index) in results.articles">
                   <v-list-item-group
                     v-if="results.articles.length"
-                    :key="index"
+                    :key="item.article_title + index"
                     color="primary"
                     template
                   >
-                    <v-list-item>
-                      <v-list-item-icon>
-                        <v-icon>mdi-items</v-icon>
+                    <v-list-item
+                      nuxt
+                      :to="localePath('/articles/' + item.slug)"
+                      @click="open = false"
+                    >
+                      <v-list-item-icon class="graphIcon">
+                        <TextFingerprint
+                          v-if="!(item.yt || item.image)"
+                          :item="item"
+                          :size="250"
+                        >
+                        </TextFingerprint>
                       </v-list-item-icon>
                       <v-list-item-content>
                         <v-list-item-title>
@@ -75,13 +84,19 @@
                 <template v-for="(item, index) in results.media">
                   <v-list-item-group
                     v-if="results.media.length"
-                    :key="index"
+                    :key="item.caption + index"
                     color="primary"
                     template
                   >
-                    <v-list-item>
+                    <v-list-item
+                      nuxt
+                      :to="
+                        localePath('/articles/' + item.article_slug + '/media')
+                      "
+                      @click="open = false"
+                    >
                       <v-list-item-icon>
-                        <v-icon>mdi-media</v-icon>
+                        <v-icon>mdi-play-circle-outline</v-icon>
                       </v-list-item-icon>
                       <v-list-item-content>
                         <v-list-item-title>
@@ -104,7 +119,7 @@
                   >
                     <v-list-item>
                       <v-list-item-icon>
-                        <v-icon>mdi-items</v-icon>
+                        <v-icon>mdi-account-outline</v-icon>
                       </v-list-item-icon>
                       <v-list-item-content>
                         <v-list-item-title>
@@ -131,8 +146,10 @@
   </v-dialog>
 </template>
 <script>
+import TextFingerprint from '../misc/TextFingerprint.vue'
 import searchContent from '~/assets/utils/searchContent'
 export default {
+  components: { TextFingerprint },
   props: {},
   data() {
     return {
@@ -149,7 +166,6 @@ export default {
       },
       async set(newValue) {
         this.loading = true
-        console.log('newValue: ', newValue)
         if (!newValue) {
           this.$router.push({
             query: { ...this.$route.query, search: undefined },
@@ -171,7 +187,6 @@ export default {
             authors: resultsRaw[2] || [],
           }
         }
-
         this.loading = false
       },
     },
@@ -190,7 +205,6 @@ export default {
         this.$refs?.searchInput?.focus()
       })
     },
-
     clear() {
       this.$router.push({ query: { ...this.$route.query, search: undefined } })
     },
@@ -216,5 +230,8 @@ $input-font-size: 48px;
 .search label[for] {
   height: 120px;
   font-size: 48pt;
+}
+.graphIcon {
+  max-width: 50px;
 }
 </style>

@@ -1,6 +1,17 @@
 <template>
-  <v-row class="transition-swing flex-row-reverse">
-    <v-col :cols="filter ? 10 : 12" class="transition-swing pt-0">
+  <v-row
+    class="transition-swing flex-row-reverse d-flex"
+    :fluid="filter"
+    :class="{ 'justify-center': $vuetify.breakpoint.lgAndUp }"
+  >
+    <v-col
+      :cols="filter ? 10 : 12"
+      :xl="filter ? 8 : 10"
+      :lg="filter ? 9 : 11"
+      :md="filter ? 9 : 12"
+      :sm="filter ? 7 : 12"
+      class="transition-swing pt-0"
+    >
       <div class="sidebtn">
         <div class="d-flex align-center">
           <v-tooltip bottom>
@@ -83,8 +94,10 @@
             >
               <v-col
                 cols="12"
+                :sm="filter ? 12 : 6"
                 md="6"
                 lg="8"
+                xl="6"
                 class="transition-swing"
                 :order="
                   section % 2
@@ -102,7 +115,7 @@
                   :scroll="$store.state.scrolled"
                 ></component>
               </v-col>
-              <v-col cols="12" md="6" lg="4">
+              <v-col cols="12" :sm="filter ? 12 : 6" md="6" lg="4" xl="6">
                 <v-row :no-gutters="!$store.state.scrolled">
                   <v-col cols="12" class="transition-swing">
                     <component
@@ -177,6 +190,7 @@
                   v-model="options.itemsPerPage"
                   class="perPageSelect"
                   solo
+                  flat
                   :items="itemsPerPageArray"
                   hide-details
                   @change="updatePage(1)"
@@ -213,6 +227,10 @@
     <v-col
       v-show="filter"
       :cols="filter ? 2 : 1"
+      :xl="filter ? 2 : 1"
+      :lg="filter ? 3 : 1"
+      :md="filter ? 3 : 1"
+      :sm="filter ? 5 : 1"
       class="transition-swing filter-column"
     >
       <div class="overline">
@@ -257,7 +275,7 @@ export default {
     return {
       mobile: this.$vuetify.breakpoint.mobile,
       search: this.$route.query.search || '',
-      panel: false,
+      filter: false,
       itemsPerPageArray: [9, 12, 16],
       options: {
         itemsPerPage: 9,
@@ -273,7 +291,6 @@ export default {
   },
   async fetch() {
     // TODO: FIX/INVEsTIGUATE> looks like mobile is not detected correctly
-    console.log('bkpoint', this.mobile)
     if (!this.$route.query.search) this.search = null
     const rst = await getContent(
       this.type,
@@ -300,6 +317,7 @@ export default {
   computed: {},
   watch: {
     '$route.query': '$fetch',
+    'options.itemsPerPage': '$fetch',
   },
   watchQuery: true,
   created() {},
@@ -309,7 +327,6 @@ export default {
       this.$store.commit('setScrolled')
     },
     async updatePage(page) {
-      console.log('QURRY UPDATED', page)
       await this.$router.push({
         query: { ...this.$route.query, page },
       })
@@ -334,7 +351,7 @@ export default {
   outline: 1px dotted ButtonText;
 }
 .perPageSelect {
-  max-width: 52px;
+  max-width: 72px;
   margin-top: 0;
   padding-top: 0;
 }

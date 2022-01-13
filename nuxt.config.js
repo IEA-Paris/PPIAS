@@ -408,13 +408,13 @@ export default {
         /*  file: "downloads/documentation.pdf", */
 
         // Route to content that should be converted into pdf.
-        route: 'articles',
+        route: 'articles/',
 
         // Default option is to remove the route after generation so it is not accessible
-        keep: false, // defaults to false
+        keep: true, // defaults to false
 
         // Specifify language for pdf. (Only when i18n is enabled!)
-        locale: 'da',
+        /*   locale: 'da', */
 
         // Override global meta with individual meta for each pdf.
         meta: {
@@ -422,25 +422,23 @@ export default {
         },
         pdf: {
           // route specific pdf options
-          landscape: true, // Include background in pdf.
+          /*      landscape: true, // Include background in pdf */
         },
         viewport: {
           // route specific viewport
-          width: 1280,
-          height: 800,
+          /*       width: 1280,
+          height: 800, */
         },
       },
       {
         // Output: static/downloads/documentation-vue.pdf
-        file: 'articles/documentation-vue.pdf',
-
+        /*         file: 'articles/documentation-vue.pdf', */
         // Will generate route https://localhost:3000/docs/vue
-        route: 'articles/_slug',
-
-        // Title will be Documentation - Vue
+        /*        route: 'articles/_slug', */
+        /*    // Title will be Documentation - Vue
         meta: {
           title: 'Vue',
-        },
+        }, */
       },
     ],
   },

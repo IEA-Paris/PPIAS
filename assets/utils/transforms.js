@@ -63,10 +63,9 @@ export const formatAuthors = (authors = false, $t) => {
         .match(/(\b\S)?/g)
         .join('')
         .toUpperCase() +
-      '.'
+      '.&nbsp;'
     )
   }
-  console.log('format(authors[0]): ', format(authors[0]))
   if (!authors) return ''
 
   if (authors.length === 1) return format(authors[0])
@@ -75,7 +74,7 @@ export const formatAuthors = (authors = false, $t) => {
     return format(authors[0]) + $t('and') + format(authors[1])
   }
   if (authors.length === 3) {
-    return authors.map((author) => format(author)).join(',&nbsp;')
+    return authors.map((author) => format(author)).join(', ')
   }
   if (authors.length > 3) {
     return authors
@@ -84,7 +83,7 @@ export const formatAuthors = (authors = false, $t) => {
         if (index === 3) return 'et&nbsp;al.'
         return format(author)
       })
-      .join(',&nbsp;')
+      .join(', ')
   }
 }
 export const formatSearch = (str) => {

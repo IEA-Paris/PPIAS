@@ -1,6 +1,10 @@
 <template>
-  <v-row class="transition-swing flex-row-reverse">
-    <v-col :cols="panel ? 10 : 12" class="transition-swing pt-0">
+  <v-row class="transition-swing flex-row-reverse justify-center">
+    <v-col
+      :cols="panel ? 10 : 12"
+      :xl="panel ? 8 : 10"
+      class="transition-swing pt-0"
+    >
       <div class="sidebtn">
         <div class="d-flex align-center">
           <v-tooltip bottom>
@@ -120,7 +124,7 @@
                 class="ma-3"
                 @click="
                   $router.push({ query: {} })
-                  page = 1
+                  options.page = 1
                 "
               >
                 <v-icon left>mdi-refresh</v-icon>
@@ -144,6 +148,7 @@
                   text
                   :items="itemsPerPageArray"
                   hide-details
+                  @change="updatePage(1)"
                 ></v-select>
               </div>
 
@@ -226,7 +231,6 @@ export default {
   },
   async fetch() {
     // TODO: FIX/INVEsTIGUATE> looks like mobile is not detected correctly
-    console.log('bkpoint', this.mobile)
     if (!this.$route.query.search) this.search = null
     const rst = await getContent(
       this.type,
@@ -252,7 +256,8 @@ export default {
   },
   computed: {},
   watch: {
-    '$route.query': '$fetch',
+    '$route.query.search': '$fetch',
+    options: '$fetch',
   },
   watchQuery: true,
   created() {},
@@ -285,10 +290,5 @@ export default {
 }
 .filter-column {
   outline: 1px dotted ButtonText;
-}
-.perPageSelect {
-  max-width: 52px;
-  margin-top: 0;
-  padding-top: 0;
 }
 </style>

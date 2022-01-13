@@ -7,7 +7,7 @@
 export default {
   props: {},
   async asyncData({ $content, params }) {
-    const item = await $content('articles')
+    const item = await $content('articles', { deep: true })
       .where({
         slug: params.slug,
       })

@@ -10,19 +10,6 @@
 </template>
 <script>
 export default {
-  beforeRouteUpdate(to, from, next) {
-    if (to.hash && to.hash.substring(1).startsWith('fn') && !this.loop) {
-      console.log('to.hash: ', to.hash)
-      this.loop = true
-      this.$router.replace({ hash: undefined })
-      console.log('this.$(to.hash): ', document.getElementById(to.hash))
-      this.note = this.$(to.hash).innerHtml
-      next()
-    } else {
-      this.loop = false
-    }
-    // react to route changes...
-  },
   props: {},
   async asyncData({ $content, params }) {
     const item = await $content('articles', { deep: true })

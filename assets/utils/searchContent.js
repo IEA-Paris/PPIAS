@@ -1,13 +1,11 @@
 import filtersRaw from '~/assets/data/filters'
 export default async ($content, search) => {
-  console.log('ok')
   let result = {}
 
   result = await Promise.all([
     $content('articles', { deep: true })
       .search(search)
       .where(filtersRaw.articles)
-      .only(['slug', 'article_title'])
       .limit(5)
       .fetch(),
     $content('media', { deep: true })

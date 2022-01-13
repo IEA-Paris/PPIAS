@@ -1,6 +1,6 @@
 export default async (document) => {
   if (document?.slug === 'wprn21323') {
-    /*       console.log('document: ', document) */
+    /*        */
     const Zenodo = require('../lib/ZenodoConnector')
     const zenodo = new Zenodo({
       host: 'sandbox.zenodo.org',
@@ -46,13 +46,9 @@ export default async (document) => {
           function (response) {
             zenodo.depositions.publish({ id: entry.data.id })
           },
-          (err) => {
-            console.log('Error while uploading file :', err)
-          }
+          (err) => {}
         )
-    } catch (error) {
-      console.log('error: ', error)
-    }
+    } catch (error) {}
     /*
          if (document.extension === '.md') { */
     // we assume it is markdown

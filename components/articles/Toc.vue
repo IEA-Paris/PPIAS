@@ -96,9 +96,7 @@ export default {
     return {}
   },
   computed: {},
-  mounted() {
-    console.log(this.toc)
-  },
+  mounted() {},
   updated() {},
   methods: {},
 }

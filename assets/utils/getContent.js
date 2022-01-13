@@ -2,6 +2,7 @@ import filtersRaw from '~/assets/data/filters'
 import groupBy from '~/assets/utils/transforms'
 export default async (
   cat,
+
   $content,
   query,
   search,
@@ -10,7 +11,7 @@ export default async (
   perPage = 9
 ) => {
   const currentPage = parseInt(query.page) || 1
-
+  console.log('args', cat, query, search, deep, mobile, perPage)
   const filters = filtersRaw[cat]
 
   const tags = query.tags ? JSON.parse(query.tags) : []
@@ -24,8 +25,6 @@ export default async (
     .where(pipeline)
     .only('[]')
     .fetch()
-
-  console.log('count: ', count)
 
   const totalItems = count.length
 

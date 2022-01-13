@@ -10,15 +10,6 @@
 </template>
 <script>
 export default {
-  beforeRouteUpdate(to, from, next) {
-    if (to.hash && to.hash.substring(1).startsWith('fn')) {
-      console.log('to.hash: ', to)
-      next(from.path)
-    } else {
-      next()
-    }
-    // react to route changes...
-  },
   props: {},
   async asyncData({ $content, params }) {
     const item = await $content('articles', { deep: true })

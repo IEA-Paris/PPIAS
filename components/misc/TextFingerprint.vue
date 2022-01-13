@@ -24,11 +24,7 @@
     <svg
       :class="'article-fingerprint d-flex' + variant"
       xmlns="http://www.w3.org/2000/svg"
-      :width="size"
-      :height="size"
-      @mouseenter="trigger()"
-      @animationend="finishedAnimation($event)"
-      @focusin="trigger()"
+      :viewBox="'-' + size / 2 + ' -' + size / 2 + ' ' + size + ' ' + size"
     >
       <rect id="overlay" width="100%" height="100%" fill="url(#g1)" />
       <!--  handled by parent component css  
@@ -36,7 +32,7 @@
         <stop stop-color="#2d3436" />
         <stop offset=".74" stop-color="#000000" />
       </linearGradient> -->
-      <g :transform="'translate(' + size / 2 + ', ' + size / 2 + ')'">
+      <g>
         <!--      {debug ? ( // outer circle (narrative layer)
             <circle
               cx={0}
@@ -102,15 +98,10 @@ import { scalePow } from 'd3-scale'
 // export component
 export default {
   props: {
-    stats: {
+    item: {
       required: false,
       type: Object,
       default: () => {},
-    },
-    cells: {
-      required: true,
-      type: Array,
-      default: () => [],
     },
     size: {
       required: false,
@@ -137,11 +128,39 @@ export default {
   },
   data() {
     return {
+      cells: this.item?.body?.children.map((child, index) => {
+        return {
+          ...child,
+          countChars: this.item.countMap[index],
+          countRefs: Math.floor(this.item.countRefs[index]),
+        }
+      }),
+      stats: {
+        countRefs: Math.floor(this.item?.countRefs?.length / 2),
+        countLines: this.item?.countMap?.length,
+        countChars: this.item?.countMap.reduce(
+          (partialSum, a) => partialSum + a,
+          0
+        ),
+        countContributors: 3,
+        countHeadings: this.item?.toc?.length,
+        countMediaCells: 2,
+        countCodeCells: 10,
+        countCells: this.item.body.children.length,
+        extentChars: [
+          Math.min(...this.item.countMap),
+          Math.max(...this.item.countMap),
+        ],
+        extentRefs: [
+          Math.min(...this.item.countRefs),
+          Math.max(...this.item.countRefs),
+        ],
+      },
       radius: ((this.size / 2 - this.margin) * 2) / 3,
       // value radius, this give us extra safety margin.
       maxNumCharsRadius: ((this.size / 2 - this.margin) * 2) / 3 / 2,
       maxNumRefsRadius: 5,
-      angleD: (Math.PI * 2) / (this.cells.length + 1),
+      angleD: (Math.PI * 2) / (this.item?.body?.children.length + 1),
     }
   },
   mounted() {},

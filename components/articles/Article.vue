@@ -46,7 +46,7 @@
         </div>
 
         <v-card-text
-          :class="toc ? 'justify-start' : 'justify-center'"
+          :class="toc ? 'align-start' : 'align-center'"
           class="d-flex flex-column"
         >
           <v-row>
@@ -147,40 +147,10 @@ export default {
         threshold: 0,
       },
       sheet: false,
-      size: 250,
-      cells: this.item?.body?.children.map((child, index) => {
-        return {
-          ...child,
-          countChars: this.item.countMap[index],
-          countRefs: Math.floor(this.item.countRefs[index]),
-        }
-      }),
-      stats: {
-        countRefs: Math.floor(this.item?.countRefs?.length / 2),
-        countLines: this.item?.countMap?.length,
-        countChars: this.item?.countMap.reduce(
-          (partialSum, a) => partialSum + a,
-          0
-        ),
-        countContributors: 3,
-        countHeadings: this.item?.toc?.length,
-        countMediaCells: 2,
-        countCodeCells: 10,
-        countCells: this.item.body.children.length,
-        extentChars: [
-          Math.min(...this.item.countMap),
-          Math.max(...this.item.countMap),
-        ],
-        extentRefs: [
-          Math.min(...this.item.countRefs),
-          Math.max(...this.item.countRefs),
-        ],
-      },
     }
   },
   computed: {},
   mounted() {
-    console.log(this.item)
     this.observer = new IntersectionObserver((entries) => {
       entries.forEach((entry) => {
         const id = entry.target.getAttribute('id')

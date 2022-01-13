@@ -9,7 +9,6 @@ export default async (content) => {
   )
     .filter((item) => item.media && item.media.length)
     .map((item, index) => {
-      console.log('slug > ', item.slug)
       return {
         article_slug: item.slug,
         ...item.media['0'],
@@ -22,7 +21,6 @@ export default async (content) => {
     .flat()
     .filter((item, index, self) => item !== undefined)
   // TODO remove duplicate media ID (?)
-  console.log('media: ', media)
 
   insertDocuments(media, 'media', 'caption')
 }
