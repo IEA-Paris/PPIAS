@@ -6,7 +6,7 @@ keywords: []
 date: 2021-05-27T14:40:37Z
 language: French
 published: false
-article_title: Our Microbial Lives
+article_title: 'Our Microbial Lives : A Forum Against Eradication'
 authors:
 - firstname: 'Michel '
   lastname: Morange
@@ -28,7 +28,7 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: Clôture forum Our Microbial Lives
+abstract: Clôture du forum Our Microbial Lives
 picture: ''
 picture_copyright: ''
 yt: ''
