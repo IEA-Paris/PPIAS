@@ -5,7 +5,7 @@ tags:
 - History of Science and Medicine
 - Online conference
 - Microbes
-date: 2022-01-03T11:06:26.000+00:00
+date: 2021-05-27T07:30:26Z
 article_title: 'Our Microbial Lives : A Forum Against Eradication'
 authors:
 - firstname: 'Victoria '
