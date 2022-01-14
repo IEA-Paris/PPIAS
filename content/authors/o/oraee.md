@@ -39,6 +39,16 @@ articles:
   - /articles/Memorandums/Memorandum_4
   - /articles/Memorandums/Memorandum_9
   - /articles/Memorandums/memorandum_2
+  - Covid_19_and_employment
+  - WPRN21_Conference
+  - ICA4
+  - Concern_for_others
+  - Memorandum_11
+  - Memorandum_10
+  - Memorandum_4
+  - Memorandum_3
+  - memorandum_2
+  - Memorandum_9
 createdAt: '2022-01-10T13:54:22.946Z'
 reference: ''
 

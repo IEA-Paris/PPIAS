@@ -1,4 +1,25 @@
 export default {
+  articles: {
+    filter: {
+      search: {
+        type: 'TextInput',
+        rules: {},
+        label: 'Search',
+      },
+      categories: {
+        type: 'TextInput',
+        rules: {},
+        label: 'Search',
+      },
+      author: {
+        type: 'Autocomplete',
+        rules: {},
+        label: 'tags',
+        hint: 'x-tags-max',
+      },
+    },
+    sort: {},
+  },
   events: {
     details: {
       general: {

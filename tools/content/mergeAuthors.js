@@ -70,9 +70,10 @@ export default async (content) => {
   let articleAuthors = articles
     .map((article) =>
       article.authors.map((author) => {
+        console.log('article.slug: ', article.path)
         return {
           ...author,
-          articles: [article.path],
+          articles: [article.slug],
         }
       })
     )

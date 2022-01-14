@@ -152,5 +152,7 @@
   "author_s": "author | author | authors",
   "no-author-found-matching-this-article": "No author found matching this article",
   "this-article-doesnt-contain-any-media": "This article doesn't contain any media",
-  "summary": "Summary"
+  "summary": "Summary",
+  "articles-from-this-author": "Articles from this author",
+  "author-links": "Author links"
 }

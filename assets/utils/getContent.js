@@ -1,4 +1,5 @@
 import filtersRaw from '~/assets/data/filters'
+import sortsRaw from '~/assets/data/sorts'
 import groupBy from '~/assets/utils/transforms'
 export default async (
   cat,
@@ -13,6 +14,7 @@ export default async (
   const currentPage = parseInt(query.page) || 1
   console.log('args', cat, query, search, deep, mobile, perPage)
   const filters = filtersRaw[cat]
+  const sorts = sortsRaw[cat]
 
   const tags = query.tags ? JSON.parse(query.tags) : []
   const pipeline = {
@@ -74,7 +76,7 @@ export default async (
   let items = await $content(cat, { deep })
     .where(pipeline)
     .search(search)
-    .sortBy('date', 'desc')
+    .sortBy(sorts)
     .limit(perPage)
     .skip(skipNumber())
     .fetch()

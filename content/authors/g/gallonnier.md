@@ -19,5 +19,7 @@ reference: ''
 articles:
   - /articles/Memorandums/Memorandum_7
   - /articles/Memorandums/Memorandum_8
+  - Memorandum_7
+  - Memorandum_8
 
 ---
