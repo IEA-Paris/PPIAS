@@ -1,143 +1,142 @@
 ---
 category_1: content/categories/WPRN21.md
-
 issue: content/issues/10-12-2021.md
 keywords:
-  - 'Quantitative survey '
-  - 'Qualitative analysis '
-  - 'Dataset, Data Mining '
-  - Education
-  - Equality & Diversity Studies
-  - 'Human Behaviours, Social Relations '
-  - 'Inequalities, Poverty, Development '
-  - 'Public Health '
-  - 'Risks, Crisis Management '
-  - Case Study
-  - Policy Document
-  - 'Migrations and Diasporas '
-date: 2021-12-10T12:00:04Z
+- 'Quantitative survey '
+- 'Qualitative analysis '
+- 'Dataset, Data Mining '
+- Education
+- Equality & Diversity Studies
+- 'Human Behaviours, Social Relations '
+- 'Inequalities, Poverty, Development '
+- 'Public Health '
+- 'Risks, Crisis Management '
+- Case Study
+- Policy Document
+- 'Migrations and Diasporas '
+date: 2021-12-10T12:00:04.000+00:00
 language: English
 published: true
 article_title: 'Education and Marginalised Communities '
 authors:
-  - lastname: De Gruchy
-    firstname: Thea
-    titles_and_institutions:
-      - titles: []
-        institution: University Of The Witwatersrand, South Africa
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: Bhattacharya
-    firstname: Aruna
-    titles_and_institutions:
-      - titles: []
-        institution: Azim Premji University, India
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: 'Kubenz '
-    firstname: 'Vera '
-    titles_and_institutions:
-      - titles: []
-        institution: University Of Birmingham, United Kingdom
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: Moscaritolo
-    firstname: Alice
-    titles_and_institutions:
-      - titles: []
-        institution: GIS BECO, Université de Toulouse, France
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: ' Paradowski '
-    firstname: Michał B.
-    titles_and_institutions:
-      - titles: []
-        institution: Institute of Applied Linguistics, University of Warsaw, Poland
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: ' Canovan'
-    firstname: 'Cherry '
-    titles_and_institutions:
-      - titles: []
-        institution: University Of Central Lancashire, United Kingdom
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-abstract:
-  4th Q&A session on the theme "Education & Marginalised Communities " based
+- lastname: De Gruchy
+  firstname: Thea
+  titles_and_institutions:
+  - titles: []
+    institution: University Of The Witwatersrand, South Africa
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: Bhattacharya
+  firstname: Aruna
+  titles_and_institutions:
+  - titles: []
+    institution: Azim Premji University, India
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: 'Kubenz '
+  firstname: 'Vera '
+  titles_and_institutions:
+  - titles: []
+    institution: University Of Birmingham, United Kingdom
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: Moscaritolo
+  firstname: Alice
+  titles_and_institutions:
+  - titles: []
+    institution: GIS BECO, Université de Toulouse, France
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: " Paradowski "
+  firstname: Michał B.
+  titles_and_institutions:
+  - titles: []
+    institution: Institute of Applied Linguistics, University of Warsaw, Poland
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: " Canovan"
+  firstname: 'Cherry '
+  titles_and_institutions:
+  - titles: []
+    institution: University Of Central Lancashire, United Kingdom
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+abstract: 4th Q&A session on the theme "Education & Marginalised Communities " based
   on 6 projects registered on WPRN database
 picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
 bibliography: ''
----
+category_2: ''
 
+---
 ## Education and Marginalised Communities - Session 4
 
 4th Q&A session on the theme "Education and Marginalised Communities" based on 6 projects registered on the WPRN database.
