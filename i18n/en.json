@@ -154,5 +154,6 @@
   "this-article-doesnt-contain-any-media": "This article doesn't contain any media",
   "summary": "Summary",
   "articles-from-this-author": "Articles from this author",
-  "author-links": "Author links"
+  "author-links": "Author links",
+  "see-all-results-articlescount": "See all ({0})"
 }

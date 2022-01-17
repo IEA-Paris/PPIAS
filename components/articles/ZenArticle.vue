@@ -11,6 +11,7 @@
       <v-tooltip bottom>
         <template #activator="{ on: tooltip }">
           <v-btn
+            v-if="!print"
             text
             class="py-7 px-6"
             tile
@@ -36,6 +37,7 @@
         <v-tooltip bottom>
           <template #activator="{ on, attrs }">
             <v-btn
+              v-if="!print"
               class="pa-7 ml-3 mt-4 closebtn"
               v-bind="attrs"
               tile
@@ -75,10 +77,15 @@ export default {
       type: Object,
       default: () => {},
     },
+    print: {
+      type: Boolean,
+      default: false,
+      required: false,
+    },
   },
   data() {
     return {
-      zen: false,
+      zen: this.print,
     }
   },
   computed: {},

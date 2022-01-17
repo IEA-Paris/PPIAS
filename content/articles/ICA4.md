@@ -62,7 +62,7 @@ category1:
 
 ## Introduction
 
-The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe\[^1\].
+The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe [^1].
 
 The ICA was established in 2016 through the University-Based Institutes for Advanced Study (UBIAS) coalition, (@cordelois_how_2020) which has 44 member institutes around the world.
 

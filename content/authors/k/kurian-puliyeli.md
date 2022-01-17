@@ -1,26 +1,24 @@
 ---
-lastname: Kurian Puliyeli
+articles:
+  - Masks, Vaccinations & Compliance - Session 2
+createdAt: '2022-01-14T16:39:17.952Z'
 firstname: Dyuthi
-titles_and_institutions:
-  '0':
-    titles: []
-    institution: Symbiosis Law School Pune, Symbiosis International University, India
+lastname: Kurian Puliyeli
 picture: ''
 picture_copyright: ''
+reference: ''
 social_channels:
+  google_scholar: ''
+  instagram: ''
+  linkedin: ''
+  mendeley: ''
+  orcid_id: ''
+  researchgate: ''
+  twitter: ''
   website: ''
   wikipedia: ''
-  orcid_id: ''
-  linkedin: ''
-  twitter: ''
-  instagram: ''
-  google_scholar: ''
-  researchgate: ''
-  mendeley: ''
-reference: ''
-articles:
-  - /articles/Masks, Vaccinations & Compliance - Session 2
-  - Masks, Vaccinations & Compliance - Session 2
-createdAt: '2022-01-10T18:37:55.987Z'
+titles_and_institutions:
+  - institution: Symbiosis Law School Pune, Symbiosis International University, India
+    titles: []
 
 ---

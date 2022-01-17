@@ -18,15 +18,20 @@ export const mergeDeep = (...objects) => {
       const pVal = prev[key]
       const oVal = obj[key]
       if (obj[key] !== undefined || prev[key] !== undefined) {
-        if (prev[key] === undefined) prev[key] = obj[key]
+        if (prev[key] === undefined) prev[key] = oVal
+        // if we deal with an array
         if (Array.isArray(pVal) && Array.isArray(oVal)) {
+          // check its items type
           if (
             (pVal[0] && typeof pVal[0] === 'object') ||
             (oVal[0] && typeof oVal[0] === 'object')
           ) {
+            // if object, recursive call
             prev[key] = mergeDeep(pVal, oVal)
           } else {
+            // if not we concat
             const newArr = [...pVal.concat(...oVal)]
+            // and deduplicate
             prev[key] = newArr.filter((value, index) => {
               const _value = JSON.stringify(value)
               return (
@@ -37,11 +42,13 @@ export const mergeDeep = (...objects) => {
               )
             })
           }
+          // if object, recursive call
         } else if (isObject(pVal) && isObject(oVal)) {
           prev[key] = mergeDeep(pVal, oVal)
-        } else {
+          // if string and the base is not set
+        } else if (typeof oVal === 'string' && !prev[key].length && oVal.length)
           prev[key] = oVal
-        }
+        // TODO handle cases where we wanna add the different values instead of replacing
       }
     })
 
@@ -80,12 +87,10 @@ export const insertDocuments = (data, cat, filenameFlag) => {
     )
     const fileName = slugify(doc[filenameFlag].trim()) + '.md'
 
-    const filePath = path.join('content/' + cat + '/' + fileName[0], fileName)
-
     fs.writeFileSync(
       './content/' + cat + '/' + fileName[0] + '/' + fileName,
       `---
-${dump(filteredDoc)}
+${dump(filteredDoc, { noRefs: true, sortKeys: true })}
 ---
 ${doc.text ? doc.text : ''}`
     )

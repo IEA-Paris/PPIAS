@@ -178,16 +178,14 @@
       <div class="overline">
         <v-icon x-small>mdi-filter</v-icon>
         {{ $t('filters') }}
-        <!-- <Filters :type="type" :loading="loading" /> -->
+        <Filters :type="type" :loading="loading" />
       </div>
     </v-col>
   </v-row>
 </template>
 <script>
-import RegularList from '../molecules/RegularList.vue'
 import getContent from '~/assets/utils/getContent'
 export default {
-  components: { RegularList },
   props: {
     addBtn: {
       type: Boolean,
@@ -275,9 +273,7 @@ export default {
     'options.itemsPerPage': '$fetch',
   },
   watchQuery: true,
-  mounted() {
-    console.log('PROP', this)
-  },
+  mounted() {},
   updated() {},
   methods: {
     async updatePage(page) {

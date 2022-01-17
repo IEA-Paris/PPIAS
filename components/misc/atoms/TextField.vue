@@ -2,17 +2,17 @@
   <v-text-field
     v-model.trim="val"
     v-bind="$attrs"
-    :placeholder="type === 'search' ? $t('search') : ''"
-    :prepend-inner-icon="type === 'search' ? 'mdi-magnify' : ''"
+    :placeholder="item === 'search' ? $t('search') : ''"
+    :prepend-inner-icon="item === 'search' ? 'mdi-magnify' : ''"
     single-line
-    :loading="$apollo.loading"
-    @click:clear="$store.commit('list/update', { [item]: undefined })"
+    :loading="$nuxt.loading"
+    @click:clear="
+      $router.push({ query: { ...$route.query, [item]: undefined } })
+    "
   />
 </template>
 
 <script>
-import debounce from '~/assets/utils/debounce'
-
 export default {
   props: {
     type: {
@@ -27,28 +27,18 @@ export default {
     },
   },
   data() {
-    return {
-      debouncedInput: debounce(function (value) {
-        ;['search'].includes(this.item) // TODO use a shared object for filters declarations
-          ? this.$store.commit('list/update', { [this.item]: value })
-          : this.$store.dispatch('form/update', {
-              type: this.type,
-              itemId: this.$route.params.id,
-              values: { [this.item]: value },
-            })
-      }, 200),
-    }
+    return {}
   },
 
   computed: {
     val: {
       get() {
-        return !this.$route.params.id
-          ? this.$store.state.list[this.item]
-          : this.$store.state.form[this.item]
+        return this.$route.params[this.item]
       },
       set(value) {
-        this.debouncedInput(value)
+        this.$router.replace({
+          query: { ...this.$route.query, [this.item]: value },
+        })
       },
     },
   },

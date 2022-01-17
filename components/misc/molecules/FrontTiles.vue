@@ -6,7 +6,7 @@
     :class="{ 'py-0': !$store.state.scrolled, 'pl-0': filter }"
   >
     <v-row
-      v-for="section in sections"
+      v-for="section in Math.min(sections, Math.ceil(data.items.length / 3))"
       :key="section"
       class="transition-swing"
       :no-gutters="!$store.state.scrolled"
@@ -37,8 +37,9 @@
         <component
           :is="type.charAt(0).toUpperCase() + type.slice(1) + 'Item'"
           v-if="data.items[(section - 1) * 3]"
-          :item="data.items[(section - 1) * 3]"
+          :item="{ ...data.items[(section - 1) * 3], highlighted: true }"
           v-bind="$attrs"
+          highlighted
           :scroll="$store.state.scrolled"
         ></component>
       </v-col>
@@ -50,6 +51,7 @@
               v-if="data.items[(section - 1) * 3 + 1]"
               :item="data.items[(section - 1) * 3 + 1]"
               v-bind="$attrs"
+              class="h500"
               :scroll="$store.state.scrolled"
             ></component>
           </v-col>
@@ -58,6 +60,7 @@
               :is="type.charAt(0).toUpperCase() + type.slice(1) + 'Item'"
               v-if="data.items[(section - 1) * 3 + 2]"
               :item="data.items[(section - 1) * 3 + 2]"
+              class="h500"
               v-bind="$attrs"
               :scroll="$store.state.scrolled"
             ></component>
@@ -103,4 +106,8 @@ export default {
   },
 }
 </script>
-<style lang="scss"></style>
+<style lang="scss">
+.h500 {
+  max-height: 500;
+}
+</style>

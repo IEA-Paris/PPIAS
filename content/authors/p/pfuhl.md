@@ -1,24 +1,24 @@
 ---
-lastname: Pfuhl
-firstname: Gerit
-titles_and_institutions:
-  '0':
-    titles: []
-    institution: UiT The Arctic University of Norway, Norway
-picture: ''
-picture_copyright: ''
-social_channels:
-  website: ''
-  wikipedia: ''
-  orcid_id: ''
-  linkedin: ''
-  twitter: ''
-  instagram: ''
-  google_scholar: ''
-  researchgate: ''
-  mendeley: ''
-reference: ''
 articles:
   - Emotions and Coping During Crisis - Session 6
+createdAt: '2022-01-14T16:39:17.952Z'
+firstname: Gerit
+lastname: Pfuhl
+picture: ''
+picture_copyright: ''
+reference: ''
+social_channels:
+  google_scholar: ''
+  instagram: ''
+  linkedin: ''
+  mendeley: ''
+  orcid_id: ''
+  researchgate: ''
+  twitter: ''
+  website: ''
+  wikipedia: ''
+titles_and_institutions:
+  - institution: UiT The Arctic University of Norway, Norway
+    titles: []
 
 ---

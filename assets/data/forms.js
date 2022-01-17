@@ -14,8 +14,7 @@ export default {
       author: {
         type: 'Autocomplete',
         rules: {},
-        label: 'tags',
-        hint: 'x-tags-max',
+        label: 'authors',
       },
     },
     sort: {},

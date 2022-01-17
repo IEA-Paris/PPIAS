@@ -81,6 +81,7 @@
 export default {
   props: {},
   async asyncData({ $content, params }) {
+    console.log('params.slug: ', params.slug)
     const item = (
       await $content('authors', { deep: true })
         .where({
@@ -88,7 +89,6 @@ export default {
         })
         .fetch()
     )[0]
-    console.log('item: ', item)
     const articles = item?.articles?.length
       ? await $content('articles', { deep: true })
           .where({
@@ -96,7 +96,6 @@ export default {
           })
           .fetch()
       : []
-    console.log('articles: ', articles)
     return {
       item,
       articles,

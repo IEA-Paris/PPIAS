@@ -267,7 +267,6 @@ export default {
       this.$store.commit('setScrolled')
     },
     async updatePage(page) {
-      console.log('QURRY UPDATED', page)
       await this.$router.push({
         query: { ...this.$route.query, page },
       })

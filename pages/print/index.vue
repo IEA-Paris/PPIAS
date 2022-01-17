@@ -1,18 +1,10 @@
 <template>
   <div>
-    <PageTitle text="media" />
-    <ListLeftPanel
-      type="media"
-      tiles
+    <PageTitle text="articles" />
+    <FrontList
+      type="articles"
       :layout="{ cols: 12, md: 6, nogutters: false, fluid: true }"
-      :pagination="{
-        itemsPerPage: 9,
-        page: 1,
-        sortBy: [],
-        sortDesc: [true],
-        itemsPerPageArray: [9, 16, 30],
-      }"
-    ></ListLeftPanel>
+    ></FrontList>
   </div>
 </template>
 <script>

@@ -23,4 +23,5 @@ export default async (content) => {
   // TODO remove duplicate media ID (?)
 
   insertDocuments(media, 'media', 'caption')
+  return true
 }

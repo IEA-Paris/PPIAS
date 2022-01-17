@@ -1,30 +1,29 @@
 ---
-firstname: Saadi
-lastname: ' Lahlou'
-titles_and_institutions:
-  '0':
-    titles:
-      - Chair in Social Psychology
-    institution: London School Of Economics, United Kingdom
-  '1':
-    titles: []
-    institution: Paris Institute of advanced study
-picture: ''
-picture_copyright: ''
-social_channels:
-  website: ''
-  wikipedia: ''
-  orcid_id: ''
-  linkedin: ''
-  twitter: ''
-  instagram: ''
-  google_scholar: ''
-  researchgate: ''
-  mendeley: ''
-createdAt: '2022-01-10T10:45:35.930Z'
-reference: ''
 articles:
   - Emotions and Coping During Crisis - Session 6
+createdAt: '2022-01-14T16:39:17.952Z'
+firstname: Saadi
+lastname: ' Lahlou'
+picture: ''
+picture_copyright: ''
+reference: ''
+social_channels:
+  google_scholar: https://scholar.google.com/citations?user=awGy3asAAAAJ&hl=fr&oi=ao
+  instagram: ''
+  linkedin: https://uk.linkedin.com/in/saadi-lahlou-98bab0b
+  mendeley: ''
+  orcid_id: 0000-0002-9070-5009
+  researchgate: https://www.researchgate.net/profile/Saadi-Lahlou
+  twitter: ''
+  website: ''
+  wikipedia: https://en.wikipedia.org/wiki/Saadi_Lahlou
+titles_and_institutions:
+  - institution: London School Of Economics, United Kingdom
+    titles:
+      - Chair in Social Psychology
+  - institution: Paris Institute of advanced study
+    titles:
+      - Director
 
 ---
 

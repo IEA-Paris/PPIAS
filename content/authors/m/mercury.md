@@ -1,23 +1,23 @@
 ---
+articles:
+  - Memorandum_4
+createdAt: '2022-01-14T16:39:17.956Z'
 firstname: Freddy
 lastname: Mercury
-titles_and_institutions: []
 picture: ''
 picture_copyright: ''
+reference: ''
 social_channels:
+  google_scholar: ''
+  instagram: ''
+  linkedin: ''
+  mendeley: ''
+  orcid_id: ''
+  researchgate: ''
+  twitter: ''
   website: ''
   wikipedia: ''
-  orcid_id: ''
-  linkedin: ''
-  twitter: ''
-  instagram: ''
-  google_scholar: ''
-  researchgate: ''
-  mendeley: ''
-reference: ''
-articles:
-  - /articles/Memorandums/Memorandum_4
-  - Memorandum_4
-createdAt: '2022-01-12T13:08:19.024Z'
+titles_and_institutions:
+  - []
 
 ---

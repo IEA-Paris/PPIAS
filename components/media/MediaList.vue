@@ -99,7 +99,6 @@ export default {
       true
     )
     if (rst) {
-      console.log('rst: ', rst)
       this.count = rst.count
       this.pages = rst.pages
       this.pinnedItem = rst.pinnedItem

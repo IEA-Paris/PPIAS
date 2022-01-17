@@ -13,13 +13,11 @@ module.exports = {
   extends: [
     '@nuxtjs',
     'prettier',
-    'plugin:prettier/recommended',
-    'plugin:nuxt/recommended',
     'plugin:vue/recommended',
+    'plugin:nuxt/recommended',
     'eslint:recommended',
     'plugin:prettier/recommended',
     'plugin:vuejs-accessibility/recommended',
-    'plugin:vue/recommended',
     'plugin:yaml/recommended',
     'plugin:markdown/recommended',
     'plugin:jest/recommended',
@@ -35,11 +33,11 @@ module.exports = {
     nodeRequire: false,
   },
   plugins: [
+    'vue',
     'vuejs-accessibility',
     'yaml',
     'markdown',
     'prettier',
-    'vue',
     'jest',
   ],
   // add your custom rules here

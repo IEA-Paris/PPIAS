@@ -51,7 +51,7 @@ const filterAndMerge = (first, second) => {
     return true
   })
   // remove the authors document that match no article
-  second = second.filter((author) => !author.reference)
+  /* second = second.filter((author) => !author.reference) */
   return { first, second }
 }
 
@@ -70,7 +70,6 @@ export default async (content) => {
   let articleAuthors = articles
     .map((article) =>
       article.authors.map((author) => {
-        console.log('article.slug: ', article.path)
         return {
           ...author,
           articles: [article.slug],
@@ -81,7 +80,7 @@ export default async (content) => {
   // include the document body from the original document to avoid a round trip md <> JSON AST
   authorsDocs = authorsDocs.map((doc) => {
     const fileContents = fs.readFileSync('content' + doc.path + '.md', 'utf8')
-    const { metadata, content } = parseMD(fileContents)
+    const { content } = parseMD(fileContents)
     return {
       ...doc,
       text: content || false,
@@ -95,6 +94,17 @@ export default async (content) => {
   articleAuthors = secondPass.first
 
   authorsDocs = [...authorsDocs, ...secondPass.second]
-
+  // replace the titles and institutions array of object by an array of arrays
+  authorsDocs = authorsDocs.map((item) => {
+    return {
+      ...item,
+      titles_and_institutions: Object.keys(item.titles_and_institutions).map(
+        (el) => {
+          return item.titles_and_institutions[el]
+        }
+      ),
+    }
+  })
   insertDocuments(authorsDocs, 'authors', 'lastname')
+  return true
 }

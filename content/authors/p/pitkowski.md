@@ -1,24 +1,24 @@
 ---
-titles_and_institutions:
-  '0':
-    titles: []
-    institution: Fromageries BEL, France
-lastname: Pitkowski
-social_channels:
-  researchgate: https://www.researchgate.net/profile/Anne-Pitkowski
-  linkedin: https://fr.linkedin.com/in/anne-pitkowski-95a2a697
-  website: ''
-  wikipedia: ''
-  orcid_id: ''
-  twitter: ''
-  instagram: ''
-  google_scholar: ''
-  mendeley: ''
+articles:
+  - Our Microbial Lives - table-ronde 1
+createdAt: '2022-01-14T16:39:17.952Z'
 firstname: 'Anne '
+lastname: Pitkowski
 picture: ''
 picture_copyright: ''
 reference: ''
-articles:
-  - Our Microbial Lives - table-ronde 1
+social_channels:
+  google_scholar: ''
+  instagram: ''
+  linkedin: https://fr.linkedin.com/in/anne-pitkowski-95a2a697
+  mendeley: ''
+  orcid_id: ''
+  researchgate: https://www.researchgate.net/profile/Anne-Pitkowski
+  twitter: ''
+  website: ''
+  wikipedia: ''
+titles_and_institutions:
+  - institution: Fromageries BEL, France
+    titles: []
 
 ---

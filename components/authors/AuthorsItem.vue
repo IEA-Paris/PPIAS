@@ -31,9 +31,7 @@ export default {
     return {}
   },
   computed: {},
-  created() {
-    console.log('index', this.index)
-  },
+  created() {},
   methods: {
     highlight: (word = '', query) => {
       const check = new RegExp(query, 'ig')

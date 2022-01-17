@@ -1,27 +1,25 @@
 ---
-lastname: ' Olah'
+articles:
+  - Emotions and Coping During Crisis - Session 6
+  - Masks, Vaccinations & Compliance - Session 2
+createdAt: '2022-01-14T16:39:17.952Z'
 firstname: Andrew R.
-titles_and_institutions:
-  '0':
-    titles: []
-    institution: The Junkin Group, LLC, USA
+lastname: ' Olah'
 picture: ''
 picture_copyright: ''
+reference: ''
 social_channels:
+  google_scholar: ''
+  instagram: ''
+  linkedin: ''
+  mendeley: ''
+  orcid_id: ''
+  researchgate: ''
+  twitter: ''
   website: ''
   wikipedia: ''
-  orcid_id: ''
-  linkedin: ''
-  twitter: ''
-  instagram: ''
-  google_scholar: ''
-  researchgate: ''
-  mendeley: ''
-reference: ''
-articles:
-  - /articles/Masks, Vaccinations & Compliance - Session 2
-  - Masks, Vaccinations & Compliance - Session 2
-  - Emotions and Coping During Crisis - Session 6
-createdAt: '2022-01-10T18:37:55.983Z'
+titles_and_institutions:
+  - institution: The Junkin Group, LLC, USA
+    titles: []
 
 ---

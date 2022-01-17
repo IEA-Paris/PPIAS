@@ -18,7 +18,7 @@
   </div>
 </template>
 <script>
-import filters from '~/assets/data/lists'
+import data from '~/assets/data/lists'
 export default {
   props: {
     type: {
@@ -34,7 +34,8 @@ export default {
   },
   data() {
     return {
-      filters: filters[this.type],
+      filters: data[this.type].filter,
+      sorters: data[this.type].sort,
     }
   },
   computed: {},

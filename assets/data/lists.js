@@ -1,16 +1,23 @@
 export default {
-  mailing: {
-    search: {
-      type: 'Search',
+  articles: {
+    filter: {
+      search: {
+        type: 'TextField',
+        rules: {},
+        label: 'Search',
+      } /* 
+      categories: {
+        type: 'TextInput',
+        rules: {},
+        label: 'Search',
+      },
+      author: {
+        type: 'Autocomplete',
+        rules: {},
+        label: 'authors',
+      }, */,
     },
-    test: {
-      type: 'Select',
-      items: ['date'],
-    },
-    state: {
-      type: 'Select',
-      items: ['draft', 'sent'],
-    },
+    sort: {},
   },
   events: {
     search: {

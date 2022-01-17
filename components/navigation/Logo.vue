@@ -12,10 +12,10 @@
       max-width="120"
       style="cursor: pointer"
     ></v-img>
-    <div>
+    <!--  <div>
       <div class="main-title ml-3">
         Proceedings&nbsp;of&nbsp;the
-        <!--       <v-select
+       <v-select
         v-model="current"
         :items="items"
         hide-details
@@ -31,7 +31,7 @@
             {{ item.replace(' ', '&nbsp;') }}
           </span>
         </template>
-      </v-select> -->
+      </v-select> 
         <br />
         Institutes for
         <br />
@@ -39,7 +39,7 @@
         <br />
         Study
       </div>
-    </div>
+    </div> -->
   </div>
 </template>
 <script>

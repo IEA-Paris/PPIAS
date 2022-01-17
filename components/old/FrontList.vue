@@ -112,6 +112,7 @@
                   v-if="props.items[(section - 1) * 3]"
                   :item="props.items[(section - 1) * 3]"
                   v-bind="$attrs"
+                  highlighted
                   :scroll="$store.state.scrolled"
                 ></component>
               </v-col>

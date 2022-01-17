@@ -2,44 +2,57 @@
   <div class="frame">
     <div class="overlay">
       <div class="top">
-        <div class="d-flex">
+        <div v-if="hasContent('categories')" class="d-flex">
           <slot name="categories"></slot>
         </div>
 
-        <span id="caption-content">
+        <span v-if="hasContent('caption')" id="caption-content">
           <slot name="caption"></slot>
           <br />
         </span>
-        <div id="caption-author">
+        <div v-if="hasContent('author')" id="caption-author">
           <slot name="author"></slot>
           <div></div>
         </div>
       </div>
-      <div class="bottom">
+      <div v-if="hasContent('date')" class="bottom">
         <span id="caption-date">
           <slot name="date"></slot>
         </span>
       </div>
     </div>
-    <template slot="default"> </template>
+    <slot name="content"></slot>
   </div>
 </template>
 <script>
 // export component
 export default {
-  props: {},
+  props: {
+    media: {
+      required: false,
+      type: Boolean,
+      default: false,
+    },
+  },
   data() {
     return {}
   },
   mounted() {},
-  methods: {},
+  methods: {
+    hasContent(slot) {
+      return !!this.$slots[slot]
+    },
+  },
 }
 </script>
 
 <style scoped>
 .frame {
-  background: linear-gradient(315deg, #2d3436 0%, #000000 74%);
   overflow: hidden;
+  display: flex;
+  flex: 1;
+  width: 100%;
+  align-items: center;
 }
 
 .overlay {

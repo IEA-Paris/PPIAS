@@ -2,6 +2,10 @@ import config from './config.js'
 import contentHooks from './tools/content'
 export default {
   env: { config },
+  server: {
+    port: 3000, // par défaut: 3000
+    host: '0.0.0.0', // par défaut: localhost
+  },
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
   generate: {
@@ -9,8 +13,8 @@ export default {
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: `%s - ${config.title}`,
-    title: config.title,
+    titleTemplate: `%s - ${config.full_name}`,
+    title: config.name,
     script: [
       {
         src: 'https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver',
@@ -31,7 +35,7 @@ export default {
       },
       {
         itemprop: 'name',
-        content: `${config.name} • ${config.shortDescription}`,
+        content: `${config.name} • ${config.description}`,
       },
       {
         itemprop: 'description',
@@ -61,10 +65,6 @@ export default {
       },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
-  },
-  server: {
-    port: 3000, // par défaut: 3000
-    host: '0.0.0.0', // par défaut: localhost
   },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: ['@mdi/font/css/materialdesignicons.min.css'],
@@ -408,10 +408,10 @@ export default {
         /*  file: "downloads/documentation.pdf", */
 
         // Route to content that should be converted into pdf.
-        route: 'articles/',
-
+        route: '/print/_slug',
+        file: '*.pdf',
         // Default option is to remove the route after generation so it is not accessible
-        keep: true, // defaults to false
+        keep: false, // defaults to false
 
         // Specifify language for pdf. (Only when i18n is enabled!)
         /*   locale: 'da', */
@@ -420,25 +420,6 @@ export default {
         meta: {
           title: 'Home',
         },
-        pdf: {
-          // route specific pdf options
-          /*      landscape: true, // Include background in pdf */
-        },
-        viewport: {
-          // route specific viewport
-          /*       width: 1280,
-          height: 800, */
-        },
-      },
-      {
-        // Output: static/downloads/documentation-vue.pdf
-        /*         file: 'articles/documentation-vue.pdf', */
-        // Will generate route https://localhost:3000/docs/vue
-        /*        route: 'articles/_slug', */
-        /*    // Title will be Documentation - Vue
-        meta: {
-          title: 'Vue',
-        }, */
       },
     ],
   },

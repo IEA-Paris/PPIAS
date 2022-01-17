@@ -1,11 +1,11 @@
 <template>
-  <v-dialog v-model="open" fullscreen hide-overla overflowed>
+  <v-dialog v-model="$route.query.global" fullscreen hide-overlay overflowed>
     <template #activator="{ on, attrs }">
       <v-btn v-bind="attrs" icon x-large class="ma-2" tile v-on="on">
         <v-icon>mdi-magnify</v-icon>
       </v-btn>
     </template>
-    <v-card dark color="black">
+    <v-card dark color="rgba(0, 0, 0, 0.97)">
       <v-app-bar
         color="transparent"
         clipped
@@ -17,7 +17,17 @@
           <div class="d-flex flex-grow-1 align-center">
             <Logo color="#FFF" />
             <v-spacer></v-spacer>
-            <v-btn icon x-large class="ma-2 mr-4 mb-4" @click="open = false">
+            <v-btn
+              icon
+              text
+              x-large
+              class="ma-2 mr-4 mb-4"
+              @click="
+                $router.push({
+                  query: { ...$route.query, global: undefined },
+                })
+              "
+            >
               <v-icon>mdi-close</v-icon>
             </v-btn>
           </div>
@@ -48,7 +58,37 @@
 
             <v-list color="transparent">
               <template v-if="results.articles && results.articles.length">
-                <v-subheader>{{ $t('articles') }}</v-subheader>
+                <v-subheader class="pr-0">
+                  <v-tooltip bottom>
+                    <template #activator="{ on, attrs }">
+                      <v-icon v-bind="attrs" small v-on="on">
+                        mdi-help-circle
+                      </v-icon>
+                    </template>
+                    <span
+                      >The article search is based on their text, title,
+                      authors'&nbsp;lastname or institutions</span
+                    > </v-tooltip
+                  >&nbsp; {{ $t('articles') }} <v-spacer></v-spacer
+                  ><v-btn
+                    v-if="results.articlesCount > 3"
+                    small
+                    text
+                    nuxt
+                    :to="localePath('/?search=' + searchStringRaw)"
+                    @click="
+                      $router.push({
+                        query: { ...$route.query, global: false },
+                      })
+                    "
+                  >
+                    {{
+                      $t('see-all-results-articlescount', [
+                        results.articlesCount,
+                      ])
+                    }}
+                  </v-btn>
+                </v-subheader>
                 <template v-for="(item, index) in results.articles">
                   <v-list-item-group
                     v-if="results.articles.length"
@@ -56,31 +96,48 @@
                     color="primary"
                     template
                   >
-                    <v-list-item
-                      nuxt
-                      :to="localePath('/articles/' + item.slug)"
-                      @click="open = false"
-                    >
-                      <v-list-item-icon class="graphIcon">
-                        <TextFingerprint
-                          v-if="!(item.yt || item.image)"
-                          :item="item"
-                          :size="250"
-                        >
-                        </TextFingerprint>
-                      </v-list-item-icon>
-                      <v-list-item-content>
-                        <v-list-item-title>
-                          {{ item.article_title }}
-                        </v-list-item-title>
-                        <v-list-item-subtitle>subTitle</v-list-item-subtitle>
-                      </v-list-item-content>
-                    </v-list-item>
+                    <ArticleSeachItem
+                      :item="item"
+                      @close="
+                        $router.push({
+                          query: { ...$route.query, global: false },
+                        })
+                      "
+                    ></ArticleSeachItem>
                   </v-list-item-group>
                 </template>
               </template>
               <template v-if="results.media && results.media.length">
-                <v-subheader>{{ $t('media') }}</v-subheader>
+                <v-divider></v-divider>
+                <v-subheader>
+                  <v-tooltip bottom>
+                    <template #activator="{ on, attrs }">
+                      <v-icon v-bind="attrs" small v-on="on">
+                        mdi-help-circle
+                      </v-icon>
+                    </template>
+                    <span
+                      >The media search is based on their title and the title of
+                      the article they belong to</span
+                    > </v-tooltip
+                  >&nbsp; {{ $t('media') }}<v-spacer></v-spacer
+                  ><v-btn
+                    v-if="results.mediaCount > 3"
+                    small
+                    text
+                    nuxt
+                    :to="localePath('/media?search=' + searchStringRaw)"
+                    @click="
+                      $router.push({
+                        query: { ...$route.query, global: false },
+                      })
+                    "
+                  >
+                    {{
+                      $t('see-all-results-articlescount', [results.mediaCount])
+                    }}
+                  </v-btn>
+                </v-subheader>
                 <template v-for="(item, index) in results.media">
                   <v-list-item-group
                     v-if="results.media.length"
@@ -88,28 +145,50 @@
                     color="primary"
                     template
                   >
-                    <v-list-item
-                      nuxt
-                      :to="
-                        localePath('/articles/' + item.article_slug + '/media')
+                    <MediaSearchItem
+                      :item="item"
+                      @close="
+                        $router.push({
+                          query: { ...$route.query, global: false },
+                        })
                       "
-                      @click="open = false"
-                    >
-                      <v-list-item-icon>
-                        <v-icon>mdi-play-circle-outline</v-icon>
-                      </v-list-item-icon>
-                      <v-list-item-content>
-                        <v-list-item-title>
-                          {{ item.caption }}
-                        </v-list-item-title>
-                        <v-list-item-subtitle>subTitle</v-list-item-subtitle>
-                      </v-list-item-content>
-                    </v-list-item>
+                    ></MediaSearchItem>
                   </v-list-item-group>
                 </template>
               </template>
               <template v-if="results.authors && results.authors.length">
-                <v-subheader>{{ $t('authors') }}</v-subheader>
+                <v-divider></v-divider>
+                <v-subheader>
+                  <v-tooltip bottom>
+                    <template #activator="{ on, attrs }">
+                      <v-icon v-bind="attrs" small v-on="on">
+                        mdi-help-circle
+                      </v-icon>
+                    </template>
+                    <span
+                      >The author search is based on their lastname, titles or
+                      institutions</span
+                    > </v-tooltip
+                  >&nbsp;{{ $t('authors') }}<v-spacer></v-spacer
+                  ><v-btn
+                    v-if="results.authorsCount > 3"
+                    small
+                    text
+                    nuxt
+                    :to="localePath('/authors?search=' + searchStringRaw)"
+                    @click="
+                      $router.push({
+                        query: { ...$route.query, global: false },
+                      })
+                    "
+                  >
+                    {{
+                      $t('see-all-results-articlescount', [
+                        results.authorsCount,
+                      ])
+                    }}
+                  </v-btn>
+                </v-subheader>
                 <template v-for="(item, index) in results.authors">
                   <v-list-item-group
                     v-if="results.authors.length"
@@ -117,17 +196,14 @@
                     color="primary"
                     template
                   >
-                    <v-list-item>
-                      <v-list-item-icon>
-                        <v-icon>mdi-account-outline</v-icon>
-                      </v-list-item-icon>
-                      <v-list-item-content>
-                        <v-list-item-title>
-                          {{ item.firstname + ' ' + item.lastname }}
-                        </v-list-item-title>
-                        <v-list-item-subtitle>subTitle</v-list-item-subtitle>
-                      </v-list-item-content>
-                    </v-list-item>
+                    <AuthorSearchItem
+                      :item="item"
+                      @close="
+                        $router.push({
+                          query: { ...$route.query, global: false },
+                        })
+                      "
+                    ></AuthorSearchItem>
                   </v-list-item-group>
                 </template>
               </template>
@@ -146,14 +222,13 @@
   </v-dialog>
 </template>
 <script>
-import TextFingerprint from '../misc/TextFingerprint.vue'
+import AuthorSearchItem from './AuthorSearchItem.vue'
 import searchContent from '~/assets/utils/searchContent'
 export default {
-  components: { TextFingerprint },
+  components: { AuthorSearchItem },
   props: {},
   data() {
     return {
-      open: this.$route.query.search,
       searchStringRaw: this.$route.query.search || '',
       loading: false,
       results: [],
@@ -174,6 +249,9 @@ export default {
             articles: [],
             media: [],
             authors: [],
+            articlesCount: 0,
+            mediaCount: 0,
+            authorsCount: 0,
           }
         } else {
           this.searchStringRaw = newValue
@@ -185,6 +263,9 @@ export default {
             articles: resultsRaw[0] || [],
             media: resultsRaw[1] || [],
             authors: resultsRaw[2] || [],
+            articlesCount: resultsRaw[3].length || 0,
+            mediaCount: resultsRaw[4].length || 0,
+            authorsCount: resultsRaw[5].length || 0,
           }
         }
         this.loading = false
@@ -230,8 +311,5 @@ $input-font-size: 48px;
 .search label[for] {
   height: 120px;
   font-size: 48pt;
-}
-.graphIcon {
-  max-width: 50px;
 }
 </style>

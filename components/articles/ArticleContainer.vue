@@ -29,7 +29,7 @@
             <span>Open in a new tab</span>
           </v-tooltip>
         </div>
-        <PageTitle :text="item.article_title" class="pa-6">
+        <PageTitle :text="item.article_title" class="pa-6 ml-3">
           <template v-if="item.authors.length">
             <v-btn
               x-large

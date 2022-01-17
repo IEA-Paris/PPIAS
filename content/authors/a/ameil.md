@@ -1,24 +1,24 @@
 ---
-lastname: ' Ameil '
-firstname: Joseph
-titles_and_institutions:
-  '0':
-    titles: []
-    institution: McMaster University, Canada
-picture: ''
-picture_copyright: ''
-social_channels:
-  website: ''
-  wikipedia: ''
-  orcid_id: ''
-  linkedin: ''
-  twitter: ''
-  instagram: ''
-  google_scholar: ''
-  researchgate: ''
-  mendeley: ''
-reference: ''
 articles:
   - Emotions and Coping During Crisis - Session 6
+createdAt: '2022-01-14T07:53:57.636Z'
+firstname: Joseph
+lastname: ' Ameil '
+picture: ''
+picture_copyright: ''
+reference: ''
+social_channels:
+  google_scholar: ''
+  instagram: ''
+  linkedin: ''
+  mendeley: ''
+  orcid_id: ''
+  researchgate: ''
+  twitter: ''
+  website: ''
+  wikipedia: ''
+titles_and_institutions:
+  - institution: McMaster University, Canada
+    titles: []
 
 ---

@@ -1,12 +1,11 @@
 <template>
   <v-card
-    id="articleBox"
     ref="articleBox"
     :width="$vuetify.breakpoint.mdAndUp ? '' : '100%'"
     height="100%"
-    class="d-flex flex-column align-center justify-center transition-swing"
-    raised
-    min-height="300px"
+    class="box d-flex flex-column align-center justify-center transition-swing"
+    min-height="250px"
+    :max-height="highlighted ? '' : '500px'"
     nuxt
     :to="localePath('/articles/' + item.slug)"
   >
@@ -76,16 +75,17 @@ export default {
       required: true,
       type: Object,
     },
+    highlighted: {
+      required: false,
+      type: Boolean,
+      default: false,
+    },
   },
   data() {
     return {}
   },
   computed: {
     size() {
-      console.log(
-        'this.$vuetify.breakpoint.name: ',
-        this.$vuetify.breakpoint.name + this.resizeItem()
-      )
       switch (this.$vuetify.breakpoint.name) {
         default:
           return this.resizeItem()
@@ -107,6 +107,9 @@ export default {
 }
 </script>
 <style lang="scss">
+.box {
+  background: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+}
 .underline {
   height: 3px;
   width: 33%;

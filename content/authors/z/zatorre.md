@@ -1,26 +1,26 @@
 ---
+createdAt: '2022-01-10T10:45:35.930Z'
 firstname: 'Robert '
 lastname: Zatorre
-titles_and_institutions:
-  - titles:
-      - co-founder
-    institution: international laboratory for Brain, Music, and Sound research (BRAMS)
-  - titles:
-      - Professor
-    institution: McGill University
 picture: ''
 picture_copyright: ''
 social_channels:
+  google_scholar: https://scholar.google.ca/citations?user=7PAd3Z0AAAAJ&hl=en
+  instagram: ''
+  linkedin: https://www.linkedin.com/in/robert-zatorre-615b6825/
+  mendeley: ''
+  orcid_id: '0000-0003-1730-7423 '
+  researchgate: https://www.researchgate.net/profile/Robert-Zatorre
+  twitter: ''
   website: ''
   wikipedia: ''
-  orcid_id: '0000-0003-1730-7423 '
-  linkedin: https://www.linkedin.com/in/robert-zatorre-615b6825/
-  twitter: ''
-  instagram: ''
-  google_scholar: https://scholar.google.ca/citations?user=7PAd3Z0AAAAJ&hl=en
-  researchgate: https://www.researchgate.net/profile/Robert-Zatorre
-  mendeley: ''
-createdAt: '2022-01-10T10:45:35.930Z'
+titles_and_institutions:
+  - institution: international laboratory for Brain, Music, and Sound research (BRAMS)
+    titles:
+      - co-founder
+  - institution: McGill University
+    titles:
+      - Professor
 
 ---
 
