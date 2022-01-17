@@ -1,6 +1,7 @@
 ---
 articles:
   - Session 3 - Economic & Financial Impacts
+createdAt: '2022-01-17T14:32:20.295Z'
 firstname: J. Eduardo
 lastname: ' Vera-Valdés'
 picture: ''

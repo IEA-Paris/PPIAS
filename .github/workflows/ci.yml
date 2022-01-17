@@ -34,9 +34,6 @@ jobs:
           node-version: ${{ matrix.node }}
           check-latest: true
 
-
-
-
       - name: Get yarn cache directory path 🛠
         id: yarn-cache-dir-path
         run: echo "::set-output name=dir::$(yarn cache dir)"
@@ -63,6 +60,15 @@ jobs:
         run: yarn run generate
         env:
           DEEPL_KEY: ${{ secrets.DEEPL_KEY }}
+
+      - name: Checkout
+        uses: actions/checkout@v2.4.0
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "auto-generated content"
+          git push
 
       - name: Deploy to S3
         uses: jakejarvis/s3-sync-action@master

@@ -3,175 +3,177 @@ category_1: content/categories/WPRN21.md
 category_2: []
 issue: content/issues/10-12-2021.md
 keywords:
-- 'Dataset, Data Mining '
-- 'Quantitative survey '
-- 'Qualitative analysis '
-- Case Study
-- 'Public Health '
-- 'Democracy, Civil Society, Governance '
-- " Digital Humanities "
-- Education
-- 'Equality & Diversity Studies '
-- 'Human Behaviours, Social Relations '
-- 'Public Discourse, Rhetorics, Communication '
-- 'Inequalities, Poverty, Development '
-- 'Simulation / Modeling '
-- 'Violence, Criminality, Security '
-- 'Work, Welfare, Social protection '
-- 'Public Policy, Evaluation, Impact  '
-- Culture and The Arts
-- 'Cities, Mobility, Urban Planning '
-- 'Risks, Crisis Management '
+  - 'Dataset, Data Mining '
+  - 'Quantitative survey '
+  - 'Qualitative analysis '
+  - Case Study
+  - 'Public Health '
+  - 'Democracy, Civil Society, Governance '
+  - ' Digital Humanities '
+  - Education
+  - 'Equality & Diversity Studies '
+  - 'Human Behaviours, Social Relations '
+  - 'Public Discourse, Rhetorics, Communication '
+  - 'Inequalities, Poverty, Development '
+  - 'Simulation / Modeling '
+  - 'Violence, Criminality, Security '
+  - 'Work, Welfare, Social protection '
+  - 'Public Policy, Evaluation, Impact  '
+  - Culture and The Arts
+  - 'Cities, Mobility, Urban Planning '
+  - 'Risks, Crisis Management '
 date: 2021-12-10T13:00:31Z
 language: English
-published: false
+published: true
 article_title: 'Local Contexts and Policy '
 authors:
-- lastname: " Pintus"
-  firstname: " Patrick"
-  titles_and_institutions:
-  - titles: []
-    institution: CNRS And Aix-Marseille University, France
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: " Starominski-Uehara"
-  firstname: Marvin
-  titles_and_institutions:
-  - titles: []
-    institution: School of Humanities of Behavioural Sciences, Singapore University
-      of Social Sciences, Singapore
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: " Shiwanee "
-  lastname: Shree Pant
-  titles_and_institutions:
-  - titles: []
-    institution: National Law College, Nepal
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: Alvarez
-  firstname: Elizabeth
-  titles_and_institutions:
-  - titles: []
-    institution: McMaster University, Canada
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: " Lord "
-  firstname: 'Phil '
-  titles_and_institutions:
-  - titles: []
-    institution: Bora Laskin Faculty Of Law, Lakehead University, Canada
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: Byrd
-  firstname: Nick
-  titles_and_institutions:
-  - titles: []
-    institution: Steven’s Institute Of Technology, USA
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: " Ling"
-  firstname: 'Gabriel Hoh Teck '
-  titles_and_institutions:
-  - titles: []
-    institution: Universiti Teknologi Malaysia, Malaysia
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-abstract: 5th Q&A session on the theme "Local Contexts and Policy " based on 8 projects
-  registered on the WPRN database
+  - lastname: ' Pintus'
+    firstname: ' Patrick'
+    titles_and_institutions:
+      - titles: []
+        institution: CNRS And Aix-Marseille University, France
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: ' Starominski-Uehara'
+    firstname: Marvin
+    titles_and_institutions:
+      - titles: []
+        institution:
+          School of Humanities of Behavioural Sciences, Singapore University
+          of Social Sciences, Singapore
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: ' Shiwanee '
+    lastname: Shree Pant
+    titles_and_institutions:
+      - titles: []
+        institution: National Law College, Nepal
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: Alvarez
+    firstname: Elizabeth
+    titles_and_institutions:
+      - titles: []
+        institution: McMaster University, Canada
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: ' Lord '
+    firstname: 'Phil '
+    titles_and_institutions:
+      - titles: []
+        institution: Bora Laskin Faculty Of Law, Lakehead University, Canada
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: Byrd
+    firstname: Nick
+    titles_and_institutions:
+      - titles: []
+        institution: Steven’s Institute Of Technology, USA
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: ' Ling'
+    firstname: 'Gabriel Hoh Teck '
+    titles_and_institutions:
+      - titles: []
+        institution: Universiti Teknologi Malaysia, Malaysia
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+abstract:
+  5th Q&A session on the theme "Local Contexts and Policy " based on 8 projects
+  registered o1. n the WPRN database
 picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
 bibliography: ''
-
 ---
+
 ## Local Contexts & Policy - Session 5
 
 This Q&A session on the theme "Local Contexts and Policy " is based on 8 projects registered on the WPRN database.
 
 <Youtube yt="XXXX" caption ="Q&A session - Local Contexts and Policy "></Youtube>
 
-1. [Factors Influencing Asia Pacific Countries’ Success Level in Curbing COVID 19](https://wprn.org/item/406852)
+### [1. Factors Influencing Asia Pacific Countries’ Success Level in Curbing COVID 19](https://wprn.org/item/406852)
 
-Through the diagnostic social–ecological system (SES) framework, this review paper aimed to investigate what and how the multifaceted social, physical, and governance factors affected the success level of seven selected Asia-Pacific countries (namely, South Korea, Japan, Malaysia, Singapore, Vietnam, Indonesia, and New Zealand) in combatting COVID-19. Drawing on statistical data from the Our World In Data website, we measured the COVID-19 severity or abatement success level of the countries on the basis of cumulative positive cases, average daily cases, and mortality rates for the period of 1 February 2020 to 30 June 2020. A qualitative content analysis using three codes, i.e., present (P), partially present (PP), and absent (A) for each SES attribute, as well as score calculation and rank ordering for government response effectiveness and the abatement success level across the countries, was undertaken. The results show that Vietnam (ranked first) and New Zealand (ranked second), with a high presence of attributes/design principles contributing to high-level government stringency and health and containment indices, successfully controlled the virus, while Indonesia (ranked seventh) and Japan (ranked sixth), associated with the low presence of design principles, were deemed least successful. Two lessons can be drawn: (i) having high number of P for SES attributes does not always mean a panacea for the pandemic; however, it would be detrimental to a country if it lacked them severely, and (ii) some attributes (mostly from the governance factor) may carry higher weightage towards explaining the success level.
+Through the diagnostic social–ecological system (SES) framework, this review paper aimed to investigate what and how the multifaceted social, physical, and governance factors affected the success level of seven selected Asia-Pacific countries (namely, South Korea, Japan, Malaysia, Singapore, Vietnam, Indonesia, and New Zealand) in combatting COVID-19. Drawing on statistical data from the Our World In Data website, we measured the COVID-19 severity or abatement success level of the countries on the basis of cumulative positive cases, average daily cases, and mortality ra1. tes for the period of 1 February 2020 to 30 June 2020. A qualitative content analysis using three codes, i.e., present (P), partially present (PP), and absent (A) for each SES attribute, as well as score calculation and rank ordering for government response effectiveness and the abatement success level across the countries, was undertaken. The results show that Vietnam (ranked first) and New Zealand (ranked second), with a high presence of attributes/design principles contributing to high-level government stringency and health and containment indices, successfully controlled the virus, while Indonesia (ranked seventh) and Japan (ranked sixth), associated with the low presence of design principles, were deemed least successful. Two lessons can be drawn: (i) having high number of P for SES attributes does not always mean a panacea for the pandemic; however, it would be detrimental to a country if it lacked them severely, and (ii) some attributes (mostly from the governance factor) may carry higher weightage towards explaining the success level.
 
 <Youtube yt="v5nil2mx7tw" caption ="Factors Influencing Asia Pacific Countries’ Success Level in Curbing COVID 19 #WPRN21"></Youtube>
 
@@ -201,7 +203,7 @@ In the absence of a vaccine or treatments, governments have social or physical d
 
 1. [The Surge of Domestic Violence during the COVID-19 Pandemic](https://wprn.org/item/481552)
 
-Domestic violence is a violation of human rights where a person is abused by a partner or someone close to them. The COVID-19 pandemic has caused a lot of mental distress and escalated the number of cases. This research aims to investigate what causes the surge in domestic violence and what can be done to stop it.  Based on secondary online sources and a review of international journals and papers on domestic violence, its causes and impacts. This qualitative research was carried out to see what causes the surge in domestic violence, especially in times of disaster. Analysis of the research demonstrated that the disruption in normalcy caused by disasters and the mental distress that follows might develop into violence. The research indicates that disruption of social and protective networks, and decreased access to services can exacerbate the risk of violence at home. On this basis, it is recommended that a safe and supportive environment is created for the victims of domestic violence. Further research is needed to identify what can be done to prevent domestic violence and protect the victims. Keywords: disaster, disruption in normalcy, risk of violence.
+Domestic violence is a violation of human rights where a person is abused by a partner or someone close to them. The COVID-19 pandemic has caused a lot of mental distress and escalated the number of cases. This research aims to investigate what causes the surge in domestic violence and what can be done to stop it. Based on secondary online sources and a review of international journals and papers on domestic violence, its causes and impacts. This qualitative research was carried out to see what causes the surge in domestic violence, especially in times of disaster. Analysis of the research demonstrated that the disruption in normalcy caused by disasters and the mental distress that follows might develop into violence. The research indicates that disruption of social and protective networks, and decreased access to services can exacerbate the risk of violence at home. On this basis, it is recommended that a safe and supportive environment is created for the victims of domestic violence. Further research is needed to identify what can be done to prevent domestic violence and protect the victims. Keywords: disaster, disruption in normalcy, risk of violence.
 
 <Youtube yt="W4_umd9Lk7U" caption ="The Surge of Domestic Violence during the COVID-19 Pandemic #WPRN21"></Youtube>
 
