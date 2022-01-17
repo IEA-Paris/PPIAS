@@ -22,7 +22,7 @@ keywords:
 - 'Human Behaviours, Social Relations '
 date: 2021-05-01T22:00:12Z
 language: English
-published: false
+published: true
 article_title: What measures are actually effective in fighting COVID-19 ?
 authors:
 - firstname: 'Aurélie  '
