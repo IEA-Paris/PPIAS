@@ -2,122 +2,122 @@
 category_1: content/categories/WPRN21.md
 issue: content/issues/10-12-2021.md
 keywords:
-  - ' Policy, Evaluation, Impact '
-  - 'Risks, Crisis Management '
-  - 'Environmental change, Ecology '
-  - 'Equality & Diversity Studies '
-  - Public Health
-  - 'Work, Welfare, Social protection '
-  - 'Human Behaviours, Social Relations '
-  - Firms, Markets, Finance
-  - 'Qualitative analysis '
-  - Simulation / Modeling
-  - Policy Document
+- " Policy, Evaluation, Impact "
+- 'Risks, Crisis Management '
+- 'Environmental change, Ecology '
+- 'Equality & Diversity Studies '
+- Public Health
+- 'Work, Welfare, Social protection '
+- 'Human Behaviours, Social Relations '
+- Firms, Markets, Finance
+- 'Qualitative analysis '
+- Simulation / Modeling
+- Policy Document
 date: 2021-12-09T13:00:09.000+00:00
 language: English
-published: false
+published: true
 article_title: Economic and Financial Impacts
 authors:
-  - lastname: Smart
-    firstname: 'Jenny '
-    titles_and_institutions:
-      - titles: []
-        institution: International Food Policy Research Institute (IFPRI), USA
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: ' Levy '
-    firstname: Gal
-    titles_and_institutions:
-      - titles: []
-        institution: The Open University Of Israel, Israel
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: ' Lampropoulos'
-    firstname: ' Ioannis Ch.'
-    titles_and_institutions:
-      - titles: []
-        institution: University Of Patras, Greece
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: 'Tijdens  '
-    firstname: Kea
-    titles_and_institutions:
-      - titles: []
-        institution: WageIndicator Foundation/University of Amsterdam, Netherlands
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: ' Vera-Valdés'
-    firstname: J. Eduardo
-    titles_and_institutions:
-      - titles: []
-        institution: Aalborg University, Denmark
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-abstract:
-  3rd Q&A on the theme " Economic and Financial Impacts " based on 5 projects
+- lastname: Smart
+  firstname: 'Jenny '
+  titles_and_institutions:
+  - titles: []
+    institution: International Food Policy Research Institute (IFPRI), USA
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: " Levy "
+  firstname: Gal
+  titles_and_institutions:
+  - titles: []
+    institution: The Open University Of Israel, Israel
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: " Lampropoulos"
+  firstname: " Ioannis Ch."
+  titles_and_institutions:
+  - titles: []
+    institution: University Of Patras, Greece
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: 'Tijdens  '
+  firstname: Kea
+  titles_and_institutions:
+  - titles: []
+    institution: WageIndicator Foundation/University of Amsterdam, Netherlands
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: " Vera-Valdés"
+  firstname: J. Eduardo
+  titles_and_institutions:
+  - titles: []
+    institution: Aalborg University, Denmark
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+abstract: 3rd Q&A on the theme " Economic and Financial Impacts " based on 5 projects
   registered on the WPRN database.
 picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: '/documents-exportes3.json'
----
+bibliography: "/documents-exportes3.json"
+category_2: ''
 
+---
 ## Economic and Financial Impacts : Session 3
 
 This Q&A session "Economic and Financial Impacts" is based on 5 projects registered on WPRN database.
