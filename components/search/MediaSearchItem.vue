@@ -19,15 +19,15 @@ export default {
   props: {
     item: {
       required: true,
-      type: Object
-    }
+      type: Object,
+    },
   },
-  data () {
+  data() {
     return {}
   },
   computed: {},
-  mounted () {},
-  methods: {}
+  mounted() {},
+  methods: {},
 }
 </script>
 <style lang="scss"></style>
