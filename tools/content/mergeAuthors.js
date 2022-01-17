@@ -11,24 +11,33 @@ const filterAndMerge = (first, second) => {
           doc.path ===
           author.reference.split('/').slice(1).join('/').split('.')[0]
       )
-      // if so we merge them and remove the related articleAuthor
-      second[referencedDocIndex] = mergeDeep(second[referencedDocIndex], author)
+      if (author.lastname === 'Galonnier')
+        // if so we merge them and remove the related articleAuthor
+        second[referencedDocIndex] = mergeDeep(
+          second[referencedDocIndex],
+          author
+        )
       return false
     }
     return true
   })
 
   first = first.filter((author) => {
-    // does it have an orcid?
-    if (author.social_channels.orcid) {
-      // is it matching an existing doc?
-      const referencedDocIndex = second.findIndex(
-        (doc) => author.social_channels.orcid === doc.social_channels.orcid
-      )
-      // if so we merge them and remove the related articleAuthor
-      second[referencedDocIndex] = mergeDeep(second[referencedDocIndex], author)
-      return false
-    }
+    if (!author.social_channels)
+      if (author?.social_channels?.orcid_id) {
+        // does it have an orcid?
+        // is it matching an existing doc?
+        const referencedDocIndex = second.findIndex(
+          (doc) =>
+            author.social_channels.orcid_id === doc.social_channels.orcid_id
+        )
+        // if so we merge them and remove the related articleAuthor
+        second[referencedDocIndex] = mergeDeep(
+          second[referencedDocIndex],
+          author
+        )
+        return false
+      }
     return true
   })
 
@@ -96,13 +105,14 @@ export default async (content) => {
   authorsDocs = [...authorsDocs, ...secondPass.second]
   // replace the titles and institutions array of object by an array of arrays
   authorsDocs = authorsDocs.map((item) => {
+    if (!item.titles_and_institutions) console.log('item: ', item)
     return {
       ...item,
-      titles_and_institutions: Object.keys(item.titles_and_institutions).map(
-        (el) => {
+      titles_and_institutions:
+        item.titles_and_institutions &&
+        Object.keys(item.titles_and_institutions).map((el) => {
           return item.titles_and_institutions[el]
-        }
-      ),
+        }),
     }
   })
   insertDocuments(authorsDocs, 'authors', 'lastname')
