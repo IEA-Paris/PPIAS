@@ -22,9 +22,9 @@ keywords:
 - Culture and The Arts
 - 'Cities, Mobility, Urban Planning '
 - 'Risks, Crisis Management '
-date: 2021-12-10T13:00:31Z
+date: 2021-12-10T13:00:31.000+00:00
 language: English
-published: false
+published: true
 article_title: 'Local Contexts and Policy '
 authors:
 - lastname: " Pintus"
