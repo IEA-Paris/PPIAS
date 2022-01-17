@@ -124,7 +124,7 @@ This Q&A session "Economic and Financial Impacts" is based on 5 projects registe
 
 <Youtube yt=XXXX" caption ="Q&A sessions - Economic & Financial Impacts"></Youtube>
 
-1. [The Economic and Financial Repercussions of COVID-19](https://wprn.org/item/535752)
+### 1. [The Economic and Financial Repercussions of COVID-19](https://wprn.org/item/535752)
 
 The project uses a broad range of methods and data worldwide to analyze the effects of the COVID-19 pandemic on the overall economy and the financial sector.
 
@@ -132,25 +132,25 @@ The analysis can be subdivided in: _ Using long time series, we analyze the long
 
 <Youtube yt="v6V_9BMQXNc" caption ="WPRN-535752-JEduardoVeraValdes-Economic and Financial Repercussions of COVID-19"></Youtube>
 
-2. [Survey of Living and Working in Coronavirus Times](https://wprn.org/item/417152)
+### 2. [Survey of Living and Working in Coronavirus Times](https://wprn.org/item/417152)
 
-The Coronavirus pandemic has a worldwide impact. The health of many inhabitants is at stake, but the world of work is also heavily affected. Statistics of the World Health Organisation and national related institutions provide overviews of developments in the health situation. However, for work-related issues monitoring instruments are lacking. Given its global online infrastructure, [WageIndicator](https://wageindicator.org/ 'WageIndecator') is to a certain extent able to provide such monitoring. Due to time and budgetary constraints, it is not possible to undertake a representative global survey through samples drawn from national populations. However WageIndicator's technical web infrastructure allows to undertake a volunteer web-survey in. Thus, we have developed a global, continuous, multilingual, multi-country web-survey with questions such as: • Is your work affected by the Corona crisis? • Are precautionary measures taken at your workplace? • Do you have to work from home? • Has your workload increased/decreased? • Have you lost your job/work/assignments? On March 30, 2020, WageIndicator officially launched the survey through press releases and a range of social media activities. Its partners supported the launch by using their own channels. The web survey is available for 143 countries with in total 38 languages.
+The Coronavirus pandemic has a worldwide impact. The health of many inhabitants is at stake, but the world of work is also heavily affected. Statistics of the World Health Organisation and national related institutions provide overviews of developments in the health situation. However, for work-related issues monitoring instruments are lacking. Given its global online infrastructure, [WageIndicator](https://wageindicator.org/ "WageIndecator") is to a certain extent able to provide such monitoring. Due to time and budgetary constraints, it is not possible to undertake a representative global survey through samples drawn from national populations. However WageIndicator's technical web infrastructure allows to undertake a volunteer web-survey in. Thus, we have developed a global, continuous, multilingual, multi-country web-survey with questions such as: • Is your work affected by the Corona crisis? • Are precautionary measures taken at your workplace? • Do you have to work from home? • Has your workload increased/decreased? • Have you lost your job/work/assignments? On March 30, 2020, WageIndicator officially launched the survey through press releases and a range of social media activities. Its partners supported the launch by using their own channels. The web survey is available for 143 countries with in total 38 languages.
 
 <Youtube yt="PrLnfyCIZ2w" caption ="Survey of Living and Working in Coronavirus Times - WageIndicator.org"></Youtube>
 
-3. [The Impact of Covid-19 on Distance Supermarket Sales](https://wprn.org/item/547052)
+### 3. [The Impact of Covid-19 on Distance Supermarket Sales](https://wprn.org/item/547052)
 
 The study aims to investigate the change in the habits of Super Market consumers regarding the realization of purchases from a distance, after the announcement of the measures for the protection of the citizens from the Coronavirus disease (COVID-19). Specifically, the article examines the attitude### of Greek Super Market consumers towards distance shopping (on line or telephone sales), before and during the pandemic. The choice of this country is important given that the Super Market online stores in Greece are under development and the appearance of COVID-19 is expected to expand the sales channels (multichannel distribution) directly affecting the profitability of the specific sector. From the processing of the questionnaires of 230 customers who were asked before and during the pandemic, it emerged that a sharp change in social ### living conditions can significantly affect the selected consumer market channel.
 
 <Youtube yt="TYJvdWlftyA"></Youtube>
 
-4. [Through Covid-19 while Poor](https://wprn.org/item/544952)
+### 4. [Through Covid-19 while Poor](https://wprn.org/item/544952)
 
 In this project we - a collaborative team comprised of researchers and activists - are set to document and study how people who experience persistent poverty live through the pandemic. We set up a self-documenting tool in Hebrew and Arabic and recruited volunteers, mostly women but also men, to share their mundane experience of living under the condition of lockdown, isolation, and against the backdrop of the rolling back of the (welfare) state. In this project, we allow those who experience poverty to speak in their own voice, but also at their own discretion (without being confined to the schedule of an interviewer) on how their lives look like in these stressful times. Thus far we have entries from about a dozen participants, some have started documented their life already during the first lockdown in April 2020. This project is unique in yet another way. Not only that it is based on the idea that "the poor must speak for themselves", but it also sees those who experience poverty as equal participants in generating knowledge about poverty. Thus, two of the research team are activists who themselves have experienced life in poverty. Hence, from the very set up of the research to the analysis of the data, their invaluable knowledge, and acquaintance with other people who live in poverty, form an integral part of the research. Preliminary findings from our project reveal the various ways in which people who experience poverty cope with the crisis of Covid-19, but also how the persisting predicament of poverty impacts their lives within or without a state of crisis. We believe that self-documentation is a tool that still needs to be put to greater use, especially with people who experience poverty. Therefore we will be more than happy to find collaborators who would like to expand this tool and method to other places and to engage with us in collaborative research on life in poverty.
 
 <Youtube yt="9-js7zqo-6I" caption ="Through Covid-19 While Poor - Short presentation of an ongoing project on living in poverty during Covid-19"></Youtube>
 
-5. [COVID-19: Measuring Impacts and Prioritizing Policies for Recovery](https://wprn.org/item/546652)
+### 5. [COVID-19: Measuring Impacts and Prioritizing Policies for Recovery](https://wprn.org/item/546652)
 
 Working at national and sector levels, the program is (a) assessing the exposure of national food systems to COVID-19 shocks; (b) identifying vulnerable population groups, including poor men and women; and (c) recommending policies to mitigate risks to food security, poverty, and diet quality.
 

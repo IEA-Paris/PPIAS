@@ -3,9 +3,9 @@ category_1: content/categories/fellows.md
 category_2: []
 issue: content/issues/10-12-2021.md
 keywords: []
-date: 2021-05-27T13:00:08Z
+date: 2021-05-27T13:00:08.000+00:00
 language: French
-published: false
+published: true
 article_title: 'Our Microbial Lives : A Forum Against Eradication'
 authors:
 - firstname: Nicolas  (INRAE)
