@@ -130,6 +130,7 @@ module.exports = async function PDF(moduleOptions) {
 
   const getUrl = (path, locale) => {
     const chunk = routeMap.find(
+      // eslint-disable-next-line eqeqeq
       (route) => route.path == path.split('?')[0].split('#')[0]
     )
 
@@ -143,6 +144,7 @@ module.exports = async function PDF(moduleOptions) {
       )
 
     const routes = routeMap.filter(
+      // eslint-disable-next-line eqeqeq
       (route) => route.chunkName == chunk.chunkName
     )
 
