@@ -111,7 +111,6 @@ export default async (content) => {
   authorsDocs = [...authorsDocs, ...secondPass.second]
   // replace the titles and institutions array of object by an array of arrays
   authorsDocs = authorsDocs.map((item) => {
-    if (!item.titles_and_institutions) console.log('item: ', item)
     return {
       ...item,
       titles_and_institutions:
