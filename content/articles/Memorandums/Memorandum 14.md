@@ -38,7 +38,15 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: ''
+abstract: 'Determining when a scientific discipline is ready to inform policy is a
+  difficult task and, depending on the issues at stake, the criteria for determining
+  whether the knowledge is robust enough to do so can vary. Against this backdrop,
+  a study at the London School of Economics found that more and more governments are
+  turning to science to inform public policy. In times of crisis, this need for insight
+  - however imperfect - is exceptionally pressing. Yet evidence-based policymaking
+  is even more difficult when there is little data and little time to gather it. During
+  the COVID-19 pandemic, the scientific community was called upon to contribute to
+  the rapid understanding and treatment of the crisis, at the risk of working in haste. '
 picture: ''
 picture_copyright: ''
 yt: ''
@@ -48,7 +56,7 @@ bibliography: "/6113ed81ffbf7c813cd17b32_christian-lue-a9qwxqw55kw-unsplash.jpg"
 ---
 ## Science in public debate in times of crisis
 
-Determining when a scientific discipline is ready to inform policy is a difficult task and, depending on the issues at stake, the criteria for determining whether the knowledge is robust enough to do so can vary. Against this backdrop, a [study](https://wprn.org/item/458152) at the London School of Economics found that more and more governments are turning to science to inform [public policy](https://www.oecd.org/gov/regulatory-policy/behavioural-insights-and-public-policy-9789264270480-en.htm). In times of crisis, this need for insight - however imperfect - is exceptionally pressing. Yet evidence-based policymaking is even more difficult when there is little data and little time to gather it. During the COVID-19 pandemic, the scientific community was called upon to contribute to the rapid understanding and treatment of the crisis, at the risk of working in haste. Faced with this perilous exercise, what pitfalls did it fall into? Under what conditions can research usefully inform public debate and help political decision-making? Many avenues for reflection are outlined by studies referenced on the World Pandemic Research Network (WPRN).
+Determining when a scientific discipline is ready to inform policy is a difficult task and, depending on the issues at stake, the criteria for determining whether the knowledge is robust enough to do so can vary. Against this backdrop, a study at the London School of Economics found that more and more governments are turning to science to inform public policy. In times of crisis, this need for insight - however imperfect - is exceptionally pressing. Yet evidence-based policymaking is even more difficult when there is little data and little time to gather it. During the COVID-19 pandemic, the scientific community was called upon to contribute to the rapid understanding and treatment of the crisis, at the risk of working in haste. Faced with this perilous exercise, what pitfalls did it fall into? Under what conditions can research usefully inform public debate and help political decision-making? Many avenues for reflection are outlined by studies referenced on the World Pandemic Research Network (WPRN).
 
 ### Research under pressure: less rigorous studies ?
 
@@ -56,7 +64,7 @@ In a fascinating article on the shortcomings of research acceleration ([availabl
 
 Grieser also points out that 18% of life scientists switched their research focus during the pandemic to a topic related to COVID-19. He points out that unintentional redundancy in research wastes resources, and that this ‘migration’ of scientists may have affected the quality of studies. Indeed, since newcomers have little or no experience in coronavirus research, the quality of their work is often lower than that of specialists. According to his sources, while in February 2020 most pre-publications on coronaviruses were valuable contributions, by the end of May 2020 only one in 50 pre-publications was really strong. Thus, attempts to increase the speed of research sometimes prove counterproductive: false leads and weaker foundations generate waste of researchers’ time. More broadly, Grieser’s theory is that the enormous public attention on COVID-19 may have slowed down coronavirus research through “inappropriate redirection of research efforts”.
 
-###     Assessing in a hurry
+### Assessing in a hurry
 
 While scientists have always spent time reviewing their peers’ work, according to Grieser’s study, the number of hours now spent doing so is unprecedented. During the pandemic, the scientific community devoted a lot of energy to refuting low-quality research to prevent it from becoming misinformation. Where once a low-quality paper was ignored or reviewed by no more than two researchers, now several dozen researchers can focus on it. In an emergency, this is the solution that has been found to prevent policymakers or the media from picking up on erroneous or misleading pre-publications again, as was the case with hydroxychloroquine (which derailed the search for a treatment for COVID-19 with hundreds of clinical trials on it due to political interest - and despite inconclusive preliminary results). There are other options for managing this risk while freeing up valuable time for more useful research activities.
 
