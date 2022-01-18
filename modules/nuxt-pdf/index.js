@@ -181,16 +181,14 @@ module.exports = async function PDF(moduleOptions) {
     try {
       if (buildArgs.generated) {
         console.log('nuxt-pdf: Starting nuxt instance p')
-        const { loadNuxt, build } = require('nuxt')
+        const { loadNuxt } = require('nuxt')
 
         // Check if we need to run Nuxt in development mode
         const isDev = process.env.NODE_ENV !== 'production'
 
         // Get a ready to use Nuxt instance
         const nuxt = await loadNuxt(isDev ? 'dev' : 'start')
-        console.log('nuxt: ', nuxt)
         listener = await nuxt.server.listen()
-        console.log('listener: ', listener)
       }
 
       url = listener.url
@@ -201,7 +199,6 @@ module.exports = async function PDF(moduleOptions) {
     }
 
     const routes = await promisifyRoute(options.routes || [])
-    console.log('routes: ', routes)
 
     for (let i = 0; i < routes.length; i++) {
       const route = routes[i]
