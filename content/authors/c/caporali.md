@@ -1,7 +1,7 @@
 ---
 articles:
   - News_Media_Coverage_Session_1
-createdAt: '2022-01-18T07:50:50.568Z'
+createdAt: '2022-01-17T18:18:56.536Z'
 firstname: Arianna
 lastname: 'Caporali '
 picture: ''
@@ -20,5 +20,4 @@ social_channels:
 titles_and_institutions:
   - institution: Institut national d'études démographiques (INED), France
     titles: []
-
 ---

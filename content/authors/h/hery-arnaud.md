@@ -1,7 +1,7 @@
 ---
 articles:
   - Our Microbial Lives - table-ronde 3
-createdAt: '2022-01-18T07:50:50.568Z'
+createdAt: '2022-01-17T18:18:56.540Z'
 firstname: 'Geneviève '
 lastname: Héry-Arnaud
 picture: ''
@@ -22,5 +22,4 @@ titles_and_institutions:
     titles: []
   - institution: Université de Bretagne Occidentale, France
     titles: []
-
 ---

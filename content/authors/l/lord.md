@@ -1,7 +1,7 @@
 ---
 articles:
   - Local Contexts & Policy - Session 5
-createdAt: '2022-01-18T07:50:50.564Z'
+createdAt: '2022-01-17T18:18:56.536Z'
 firstname: 'Phil '
 lastname: ' Lord '
 picture: ''
@@ -20,5 +20,4 @@ social_channels:
 titles_and_institutions:
   - institution: Bora Laskin Faculty Of Law, Lakehead University, Canada
     titles: []
-
 ---
