@@ -68,7 +68,8 @@ export const writePrintRoutes = (articles) => {
   // second we generate the pdf routes and data
   fs.writeFileSync(
     './pages/print/routes.js',
-    '/* eslint-disable prettier/prettier */export default ' +
+    `/* eslint-disable prettier/prettier */
+export default ` +
       JSON.stringify(
         articles.map((article) => {
           return {
