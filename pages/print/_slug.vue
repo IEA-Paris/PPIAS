@@ -1,8 +1,12 @@
 <template>
-  <ZenArticle :item="item" print />
+  <article class="printpanel page" style="background-color: white">
+    <div class="page-title">{{ item.article_title }}</div>
+    <nuxt-content :document="item" class="d-block" />
+  </article>
 </template>
 <script>
 export default {
+  layout: 'print',
   props: {},
   async asyncData({ $content, params }) {
     const item = (
@@ -12,35 +16,24 @@ export default {
         })
         .fetch()
     )[0]
-    if (item) {
-      if (item.category_1 && item.category_1?.length) {
-        item.category_1 = await $content(
-          item?.category_1.split('/').slice(1).join('/').split('.')[0] || false
-        ).fetch()
-      }
-      if (item.category_2 && item.category_2?.length) {
-        item.category_2 = await $content(
-          item?.category_2.split('/').slice(1).join('/').split('.')[0] || false
-        ).fetch()
-      }
-    }
     return {
       item,
     }
   },
   data() {
-    return {
-      noteIndex: 1,
-      showNote: false,
-      show: false,
-      tab: 0,
-      note: false,
-      loop: false,
-    }
+    return {}
   },
   computed: {},
   mounted() {},
   methods: {},
 }
 </script>
-<style lang="scss"></style>
+<style lang="scss">
+.printpanel,
+.page {
+  padding: 10vh 15vw;
+}
+.printpanel .index {
+  display: none;
+}
+</style>

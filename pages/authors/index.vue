@@ -1,6 +1,6 @@
 <template>
   <PageContainer>
-    <PageTitle text="authors" />
+    <PageTitle :text="$t('authors')" />
     <ListLeftPanel
       type="authors"
       :layout="{ cols: 12, md: 6, nogutters: false, fluid: true }"

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <PageTitle text="articles" />
+    <PageTitle :text="$t('articles')" />
     <ListLeftPanel
       type="articles"
       tiles

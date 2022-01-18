@@ -1,6 +1,10 @@
 import fs from 'fs'
 import parseMD from 'parse-md'
-import { mergeDeep, insertDocuments } from '../lib/contentUtilities'
+import {
+  mergeDeep,
+  insertDocuments,
+  writePrintRoutes,
+} from '../lib/contentUtilities'
 const filterAndMerge = (first, second) => {
   first = first.filter((author) => {
     // does it have a reference?
@@ -73,8 +77,10 @@ export default async (content) => {
   // and all the authors defined in the articles frontmatter
   const articles = await $content('articles', { deep: true })
     .where({ published: true })
-    .only(['slug', 'path', 'authors'])
+    .only(['slug', 'path', 'authors', 'article_title'])
     .fetch()
+  // we use this opportunity to get the dynamic routes for pdf-printing all the articles
+  writePrintRoutes(articles)
   // extract the authors from articles with backlink
   let articleAuthors = articles
     .map((article) =>

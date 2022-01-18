@@ -1,6 +1,6 @@
 <template>
   <PageContainer>
-    <PageTitle text="contact" />
+    <PageTitle :text="$t('contact')" />
     <v-row justify="center">
       <v-col cols="12" md="8" lg="6" xl="5">
         <nuxt-content :document="page" />

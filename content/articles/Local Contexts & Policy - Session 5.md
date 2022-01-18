@@ -171,15 +171,7 @@ This Q&A session on the theme "Local Contexts and Policy " is based on 8 project
 
 <Youtube yt="XXXX" caption ="Q&A session - Local Contexts and Policy "></Youtube>
 
-<<<<<<< HEAD
-
-### [1. Factors Influencing Asia Pacific Countries’ Success Level in Curbing COVID 19](https://wprn.org/item/406852)
-
-=======
-
 ### 1. [Factors Influencing Asia Pacific Countries’ Success Level in Curbing COVID 19](https://wprn.org/item/406852)
-
-> > > > > > > 5bb7bfa720976f5ca637888fe197111c89056d07
 
 Through the diagnostic social–ecological system (SES) framework, this review paper aimed to investigate what and how the multifaceted social, physical, and governance factors affected the success level of seven selected Asia-Pacific countries (namely, South Korea, Japan, Malaysia, Singapore, Vietnam, Indonesia, and New Zealand) in combatting COVID-19. Drawing on statistical data from the Our World In Data website, we measured the COVID-19 severity or abatement success level of the countries on the basis of cumulative positive cases, average daily cases, and mortality ra1. tes for the period of 1 February 2020 to 30 June 2020. A qualitative content analysis using three codes, i.e., present (P), partially present (PP), and absent (A) for each SES attribute, as well as score calculation and rank ordering for government response effectiveness and the abatement success level across the countries, was undertaken. The results show that Vietnam (ranked first) and New Zealand (ranked second), with a high presence of attributes/design principles contributing to high-level government stringency and health and containment indices, successfully controlled the virus, while Indonesia (ranked seventh) and Japan (ranked sixth), associated with the low presence of design principles, were deemed least successful. Two lessons can be drawn: (i) having high number of P for SES attributes does not always mean a panacea for the pandemic; however, it would be detrimental to a country if it lacked them severely, and (ii) some attributes (mostly from the governance factor) may carry higher weightage towards explaining the success level.
 

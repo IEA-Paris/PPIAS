@@ -1,6 +1,6 @@
 <template>
   <div>
-    <PageTitle text="articles" />
+    <PageTitle :text="$t('articles')" />
     <FrontList
       type="articles"
       :layout="{ cols: 12, md: 6, nogutters: false, fluid: true }"

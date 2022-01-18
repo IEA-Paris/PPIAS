@@ -3,6 +3,7 @@ import fs from 'fs'
 import { dump } from 'js-yaml'
 import fsExtra from 'fs-extra'
 import slugify from '../../assets/utils/slugify'
+import { formatAuthors } from '../../assets/utils/transforms'
 /**
  * Performs a deep merge of objects and returns new object. Does not modify
  * objects (immutable) and merges arrays via concatenation.
@@ -54,6 +55,49 @@ export const mergeDeep = (...objects) => {
 
     return prev
   }, {})
+}
+
+export const writePrintRoutes = (articles) => {
+  /*   // first, we clean existing files
+  const targetFolder = path.resolve('static/pdfs')
+  if (!fs.existsSync(targetFolder)) {
+    fs.mkdirSync(targetFolder, { recursive: true })
+  } else {
+    fsExtra.emptyDirSync(targetFolder)
+  } */
+  // second we generate the pdf routes and data
+  fs.writeFileSync(
+    './pages/print/routes.js',
+    'export default ' +
+      JSON.stringify(
+        articles.map((article) => {
+          return {
+            // Route to content that should be converted into pdf.
+            route: '/print/' + article.slug,
+            file: article.slug + '.pdf',
+            // Default option is to remove the route after generation so it is not accessible
+            keep: false, // defaults to false
+            // Specifify language for pdf. (Only when i18n is enabled!)
+            /*   locale: 'da', */
+            // Override global meta with individual meta for each pdf.
+            // TODO complete and change produced depending on the journal
+            meta: {
+              title: article.article_title,
+
+              author: formatAuthors(article.authors).replace('&nbsp;', ' '),
+
+              producer:
+                'PPIAS - Proceeding of Paris Institution for Advanced Study',
+
+              // Control the date the file is created.
+              creationDate: article.createdAt,
+
+              keywords: article.tags || [],
+            },
+          }
+        })
+      )
+  )
 }
 export const insertDocuments = (data, cat, filenameFlag) => {
   // TODO diff and selectively CRUD

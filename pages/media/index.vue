@@ -1,6 +1,6 @@
 <template>
   <div>
-    <PageTitle text="media" />
+    <PageTitle :text="$t('media')" />
     <ListLeftPanel
       type="media"
       tiles

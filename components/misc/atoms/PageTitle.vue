@@ -1,7 +1,7 @@
 <template>
   <div class="d-flex align-center flex-column">
     <div class="page-title" :class="$store.state.scrolled ? 'mb-9' : 'mb-6'">
-      {{ $t(text) }}
+      {{ text }}
     </div>
     <!--     <v-divider style="width: 120px"></v-divider>
     <v-divider style="width: 120px" class="mt-1"></v-divider> -->

@@ -127,7 +127,22 @@ $stepper-elevation: 0;
     display: block !important;
   }
 }
+@media print {
+  body,
+  .printpanel {
+    overflow: visible !important;
+    height: auto !important;
+  }
+  body {
+    margin: 25mm 25mm 25mm 25mm !important;
+  }
+  @page {
+    size: auto; /* auto is the initial value */
 
+    /* this affects the margin in the printer settings */
+    margin: 25mm 25mm 25mm 25mm;
+  }
+}
 /* 
 .section-title {
   display: inline-block;
