@@ -316,10 +316,19 @@ module.exports = async function PDF(moduleOptions) {
     }
   }
 
-  this.nuxt.hook('generate:done', async ({ builder }) => {
-    await build({
-      generated: true,
+  if (process.env.NODE_ENV !== 'production') {
+    this.nuxt.hook('build:compiled', async ({ name }) => {
+      if (name !== 'server') return
+      await build({
+        generated: false,
+      })
     })
-  })
+  } else {
+    this.nuxt.hook('generate:done', async ({ builder }) => {
+      await build({
+        generated: true,
+      })
+    })
+  }
   return true
 }
