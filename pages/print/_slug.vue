@@ -1,6 +1,10 @@
 <template>
   <article class="printpanel page" style="background-color: white">
     <div class="page-title">{{ item.article_title }}</div>
+    <div v-if="item.abstract && item.abstract.length" class="overline mt-12">
+      {{ $t('abstract') }}
+    </div>
+    <div class="abstract">{{ item.abstract }}</div>
     <nuxt-content :document="item" class="d-block" />
   </article>
 </template>
