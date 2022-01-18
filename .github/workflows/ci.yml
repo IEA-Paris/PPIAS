@@ -82,9 +82,6 @@ jobs:
               set -e
               echo "No changes since last run"
           fi
-          git commit -m "[skip ci] auto-generated content"
-          git status
-          git push
 
       - name: Deploy to S3 🚀🚀🚀
         uses: jakejarvis/s3-sync-action@master
