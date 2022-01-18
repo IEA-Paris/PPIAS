@@ -41,7 +41,9 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: ''
+abstract: 'Virus eradication or control strategy, timing, toughness and type of measures:
+  what works and why? On the World Pandemic Research Network, several studies provide
+  preliminary answers.'
 picture: "/hands-with-latex-gloves-holding-a-globe-with-a-face-mask-anna-shvets.jpg"
 picture_copyright: ''
 yt: ''
