@@ -70,10 +70,10 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          echo git status
           git add .
           set +e 
-          git status | grep modified
-          if [ $? -eq 0 ]
+          if git status | grep -q modified
           then
               set -e
               git commit -m "[skip ci] auto-generated content"
