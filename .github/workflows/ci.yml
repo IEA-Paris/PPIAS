@@ -57,7 +57,7 @@ jobs:
         #  run: yarn test
 
       - name: Generate & bundle🤞
-        run: yarn run build && yarn run generate
+        run: yarn generate
         env:
           DEEPL_KEY: ${{ secrets.DEEPL_KEY }}
 
