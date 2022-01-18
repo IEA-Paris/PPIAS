@@ -72,6 +72,7 @@ jobs:
           git config user.email github-actions@github.com
           git add .
           git commit -m "[skip ci] auto-generated content"
+          git status
           git push
 
       - name: Deploy to S3 🚀🚀🚀

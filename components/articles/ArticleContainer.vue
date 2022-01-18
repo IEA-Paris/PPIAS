@@ -8,6 +8,25 @@
             {{ $t('back') }}
           </v-btn>
           <v-spacer></v-spacer>
+          <v-tooltip bottom>
+            <template #activator="{ on, attrs }">
+              <v-btn
+                text
+                class="py-7"
+                tile
+                v-bind="attrs"
+                nuxt
+                :href="'/pdfs/' + item.slug + '.pdf'"
+                target="_blank"
+                :title="item.post_title"
+                small
+                v-on="on"
+              >
+                <v-icon>mdi-download</v-icon>
+              </v-btn>
+            </template>
+            <span>{{ $t('download-this-article-as-a-pdf-file') }}</span>
+          </v-tooltip>
           <CiteModal :item="item" />
           <v-tooltip bottom>
             <template #activator="{ on, attrs }">

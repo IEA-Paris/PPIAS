@@ -63,6 +63,10 @@
           outlined
           class="justify-self-center my-6"
           v-bind="attrs"
+          :href="'/pdfs/' + $route.params.slug + '.pdf'"
+          nuxt
+          target="_blank"
+          :title="title"
           v-on="on"
         >
           <v-icon left>mdi-download</v-icon>
