@@ -11,6 +11,7 @@
           <v-tooltip bottom>
             <template #activator="{ on, attrs }">
               <v-btn
+                v-if="item"
                 text
                 class="py-7"
                 tile
@@ -28,51 +29,56 @@
             <span>Open in a new tab</span>
           </v-tooltip>
         </div>
-        <PageTitle :text="item.firstname + ' ' + item.lastname" class="pa-6">
-          <template v-if="getSocials(item).length">
-            <v-tooltip
-              v-for="social in getSocials(item)"
-              :key="social.link"
-              bottom
-            >
-              <template #activator="{ on, attrs }">
-                <v-btn
-                  v-bind="attrs"
-                  :key="social.link"
-                  icon
-                  text
-                  :href="social.link"
-                  target="_blank"
-                  v-on="on"
-                  @click.stop
-                >
-                  <v-icon>{{ social.icon }}</v-icon>
-                </v-btn>
-              </template>
-              <span>{{ social.tooltip }}</span>
-            </v-tooltip>
-          </template>
-        </PageTitle>
-        <v-card-text>
-          <div class="d-flex justify-center">
-            <nuxt-content
-              :document="item"
-              style="max-width: 650px"
-              class="page a4"
-            />
-          </div>
-
-          <template v-if="articles.length">
-            <div class="text-h5 ma-6">
-              {{ $t('articles-from-this-author') }}
-              <v-divider></v-divider>
+        <template v-if="item">
+          <PageTitle :text="item.firstname + ' ' + item.lastname" class="pa-6">
+            <template v-if="getSocials(item).length">
+              <v-tooltip
+                v-for="social in getSocials(item)"
+                :key="social.link"
+                bottom
+              >
+                <template #activator="{ on, attrs }">
+                  <v-btn
+                    v-bind="attrs"
+                    :key="social.link"
+                    icon
+                    text
+                    :href="social.link"
+                    target="_blank"
+                    v-on="on"
+                    @click.stop
+                  >
+                    <v-icon>{{ social.icon }}</v-icon>
+                  </v-btn>
+                </template>
+                <span>{{ social.tooltip }}</span>
+              </v-tooltip>
+            </template>
+          </PageTitle>
+          <v-card-text>
+            <div class="d-flex justify-center">
+              <nuxt-content
+                :document="item"
+                style="max-width: 650px"
+                class="page a4"
+              />
             </div>
-            <RegularList
-              :data="{ items: articles }"
-              type="articles"
-            ></RegularList>
-          </template>
-        </v-card-text>
+
+            <template v-if="articles.length">
+              <div class="text-h5 ma-6">
+                {{ $t('articles-from-this-author') }}
+                <v-divider></v-divider>
+              </div>
+              <RegularList
+                :data="{ items: articles }"
+                type="articles"
+              ></RegularList>
+            </template>
+          </v-card-text>
+        </template>
+        <div v-else>
+          {{ $t('author-unavailable') }}
+        </div>
       </v-card>
     </v-col>
   </v-row>

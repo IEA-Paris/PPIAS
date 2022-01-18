@@ -155,5 +155,6 @@
   "summary": "Summary",
   "articles-from-this-author": "Articles from this author",
   "author-links": "Author links",
-  "see-all-results-articlescount": "See all ({0})"
+  "see-all-results-articlescount": "See all ({0})",
+  "author-unavailable": "Author unavailable"
 }
