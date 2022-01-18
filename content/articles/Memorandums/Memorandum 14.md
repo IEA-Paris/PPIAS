@@ -38,7 +38,7 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: 'Determining when a scientific discipline is ready to inform policy is a
+abstract: "Determining when a scientific discipline is ready to inform policy is a
   difficult task and, depending on the issues at stake, the criteria for determining
   whether the knowledge is robust enough to do so can vary. Against this backdrop,
   a study at the London School of Economics found that more and more governments are
@@ -46,7 +46,8 @@ abstract: 'Determining when a scientific discipline is ready to inform policy is
   - however imperfect - is exceptionally pressing. Yet evidence-based policymaking
   is even more difficult when there is little data and little time to gather it. During
   the COVID-19 pandemic, the scientific community was called upon to contribute to
-  the rapid understanding and treatment of the crisis, at the risk of working in haste. '
+  the rapid understanding and treatment of the crisis, at the risk of working in haste.
+  \nMemorandum 14 : overview of the studies and projects registered on WPRN database"
 picture: ''
 picture_copyright: ''
 yt: ''
