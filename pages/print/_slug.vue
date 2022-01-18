@@ -1,5 +1,5 @@
 <template>
-  <article class="printpanel page" style="background-color: white">
+  <article class="printpanel page a4" style="background-color: white">
     <div class="page-title">{{ item.article_title }}</div>
     <div v-if="item.abstract && item.abstract.length" class="overline mt-12">
       {{ $t('abstract') }}

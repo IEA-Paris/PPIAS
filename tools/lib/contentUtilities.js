@@ -75,7 +75,7 @@ export default ` +
           return {
             // Route to content that should be converted into pdf.
             route: '/print/' + article.slug,
-            file: '/pdfs/' + article.slug + '.pdf',
+            file: 'pdfs/' + article.slug + '.pdf',
             // Default option is to remove the route after generation so it is not accessible
             keep: false, // defaults to false
             // Specifify language for pdf. (Only when i18n is enabled!)
@@ -94,6 +94,7 @@ export default ` +
               creationDate: article.createdAt,
 
               keywords: article.tags || [],
+              language: article.language || 'en',
             },
           }
         })

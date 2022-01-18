@@ -265,6 +265,7 @@ module.exports = async function PDF(moduleOptions) {
         document.setProducer(meta.producer || '')
         document.setCreationDate(meta.creationDate || new Date())
         document.setKeywords(meta.keywords || [])
+        document.setLanguage(meta.language || [])
 
         const file = path.resolve(
           buildArgs.generated ? 'dist' : options.dir,
@@ -315,18 +316,10 @@ module.exports = async function PDF(moduleOptions) {
     }
   }
 
-  if (process.env.NODE_ENV !== 'production') {
-    this.nuxt.hook('build:compiled', async ({ name }) => {
-      if (name !== 'server') return
-      await build({
-        generated: false,
-      })
+  this.nuxt.hook('generate:done', async ({ builder }) => {
+    await build({
+      generated: true,
     })
-  } else {
-    this.nuxt.hook('generate:done', async ({ builder }) => {
-      await build({
-        generated: true,
-      })
-    })
-  }
+  })
+  return true
 }
