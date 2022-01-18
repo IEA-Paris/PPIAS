@@ -180,7 +180,7 @@ export default {
     '@nuxtjs/ackee',
     '@nuxtjs/composition-api/module',
     // https://github.com/ch99q/nuxt-pdf
-    'nuxt-pdf',
+    '~/modules/nuxt-pdf',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules

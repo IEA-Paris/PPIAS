@@ -43,6 +43,7 @@
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.7",
+    "pdf-lib": "^1.10.0",
     "@nuxt/image": "^0.4.13",
     "@nuxtjs/eslint-config": "^6.0.0",
     "@nuxtjs/eslint-module": "^3.0.2",
@@ -76,8 +77,8 @@
     "nuxt-compress": "^5.0.0",
     "nuxt-content-highlight": "^0.1.10",
     "nuxt-jsonld": "^1.4.10",
-    "nuxt-pdf": "^2.0.1",
     "prettier": "^2.2.1",
+    "chalk": "^4.1.0",
     "vue-eslint-parser": "^7.0.0",
     "vue-jest": "^3.0.4"
   },
