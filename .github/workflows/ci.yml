@@ -70,7 +70,6 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          echo git status
           git add .
           set +e 
           if git status | grep -q modified
