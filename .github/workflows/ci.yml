@@ -71,6 +71,17 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
+          set +e 
+          git status | grep modified
+          if [ $? -eq 0 ]
+          then
+              set -e
+              git commit -m "[skip ci] auto-generated content"
+              git push
+          else
+              set -e
+              echo "No changes since last run"
+          fi
           git commit -m "[skip ci] auto-generated content"
           git status
           git push
