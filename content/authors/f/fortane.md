@@ -20,4 +20,5 @@ social_channels:
 titles_and_institutions:
   - institution: INRAE, France
     titles: []
+
 ---

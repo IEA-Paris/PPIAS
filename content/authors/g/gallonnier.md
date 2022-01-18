@@ -2,6 +2,7 @@
 articles:
   - Memorandum_8
   - Memorandum_7
+  - Memorandum_11
 createdAt: '2022-01-14T16:39:17.956Z'
 firstname: 'Victor  '
 lastname: 'Gallonnier '

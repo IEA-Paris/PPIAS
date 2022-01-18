@@ -1,6 +1,8 @@
+import EventEmitter from 'events'
 import config from './config.js'
 import contentHooks from './tools/content'
-import printRoutes from './pages/print/routes'
+import printRoutes from './assets/data/routes'
+EventEmitter.defaultMaxListeners = 20
 export default {
   env: { config },
   server: {

@@ -20,4 +20,5 @@ social_channels:
 titles_and_institutions:
   - institution: Université de Lorraine, Crem, France
     titles: []
+
 ---

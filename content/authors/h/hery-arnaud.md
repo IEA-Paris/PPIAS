@@ -22,4 +22,5 @@ titles_and_institutions:
     titles: []
   - institution: Université de Bretagne Occidentale, France
     titles: []
+
 ---
