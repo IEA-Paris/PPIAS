@@ -20,7 +20,7 @@ keywords:
 - 'Violence, Criminality, Security '
 - 'Work, Welfare, Social protection '
 - 'Human Behaviours, Social Relations '
-date: 2021-05-01T22:00:12Z
+date: 2021-05-01T22:00:12.000+00:00
 language: English
 published: true
 article_title: What measures are actually effective in fighting COVID-19 ?
@@ -41,8 +41,10 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: ''
-picture: ''
+abstract: |-
+  Virus eradication or control strategy, timing, toughness and type of measures: what works and why? On the World Pandemic Research Network, several studies provide preliminary answers.
+  Memorandum 12 : overview of the studies and projects registered on WPRN database
+picture: "/hands-with-latex-gloves-holding-a-globe-with-a-face-mask-anna-shvets.jpg"
 picture_copyright: ''
 yt: ''
 highlight: false

@@ -1,11 +1,26 @@
 ---
 category_1: content/categories/wprn.md
 category_2: []
-issue: []
-keywords: []
-date: 2021-08-31T22:00:35Z
+issue: content/issues/10-12-2021.md
+keywords:
+- 'Consumption and Production Patterns '
+- 'Democracy, Civil Society, Governance '
+- 'Public Health '
+- 'Religions and Worldviews '
+- 'Human Behaviours, Social Relations '
+- 'Risks, Crisis Management '
+- 'Digital Humanities '
+- 'Public Policy, Evaluation, Impact '
+- 'Equality & Diversity Studies '
+- 'Quantitative survey '
+- 'Qualitative analysis '
+- 'Public Discourse, Rhetorics, Communication '
+- 'Dataset, Data Mining '
+- 'Simulation / Modeling '
+- 'Innovation, R&D '
+date: 2021-08-31T22:00:35.000+00:00
 language: English
-published: false
+published: true
 article_title: Vaccination Resistance
 authors:
 - firstname: 'Aurélie  '
@@ -24,17 +39,25 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: ''
+abstract: "People who are reluctant to vaccinate have often been portrayed in the
+  media as conspiracy theorists. Is this an anecdotal phenomenon ? A stable correlation
+  ?\nResearch in the humanities and social sciences has looked into this question,
+  as well as into the broader relationship with vaccination : do undecided people
+  change their minds over time? What policies are likely to turn them off ? Is the
+  obligation to present a document proving vaccination to access collective spaces
+  or cultural activities an effective way to encourage vaccination? What is driving
+  the change in vaccine mistrust ? \nMemorandum 13 : overview of the studies and projects
+  registered on WPRN database\n"
 picture: "/1f96806f-d2b5-44b3-ac16-323501831870.jpeg"
 picture_copyright: ''
 yt: ''
-highlight: false
+highlight: true
 bibliography: ''
 
 ---
 ## Vaccination Resistance
 
-People who are reluctant to vaccinate have often been portrayed in the media as conspiracy theorists. Is this an anecdotal phenomenon? A stable correlation? Research in the humanities and social sciences has looked into this question, as well as into the broader relationship with vaccination: do undecided people change their minds over time? What policies are likely to turn them off? Is the obligation to present a document proving vaccination to access collective spaces or cultural activities an effective way to encourage vaccination? What is driving the change in vaccine mistrust ?
+People who are reluctant to vaccinate have often been portrayed in the media as conspiracy theorists. Is this an anecdotal phenomenon? A stable correlation? Research in the humanities and social sciences has looked into this question, as well as into the broader relationship with vaccination : do undecided people change their minds over time ? What policies are likely to turn them off ? Is the obligation to present a document proving vaccination to access collective spaces or cultural activities an effective way to encourage vaccination? What is driving the change in vaccine mistrust ?
 
 ### Conspiracy mentality correlated with anti-vaccine positions
 
@@ -42,7 +65,7 @@ Several studies in the WPRN database examine the relationship between conspiracy
 
 ### When conspiracies have no connection with the vaccine...
 
-A conspiracy theory about the origin of the virus should not necessarily affect vaccination intention: if one believes that the virus was created by the Chinese government, one may think it is dangerous and want to protect oneself with a vaccine. Yet the [Serbia](https://wprn.org/item/441452) and [France ](https://wprn.org/item/410052)studies highlight that even when conspiracy beliefs are unrelated to the vaccine, reluctance to be vaccinated against COVID-19 increases. In the French survey, none of the conspiracies studied referred to the dangers of vaccines: «The French government is using the pandemic to keep important reforms quiet»; «Manufacturers will use the pandemic to justify higher prices and make profits»; «COVID-19 is a bacteriological weapon used by the Chinese Communist Party to create panic in the West», etc. 
+A conspiracy theory about the origin of the virus should not necessarily affect vaccination intention: if one believes that the virus was created by the Chinese government, one may think it is dangerous and want to protect oneself with a vaccine. Yet the [Serbia](https://wprn.org/item/441452) and [France ](https://wprn.org/item/410052)studies highlight that even when conspiracy beliefs are unrelated to the vaccine, reluctance to be vaccinated against COVID-19 increases. In the French survey, none of the conspiracies studied referred to the dangers of vaccines: «The French government is using the pandemic to keep important reforms quiet»; «Manufacturers will use the pandemic to justify higher prices and make profits»; «COVID-19 is a bacteriological weapon used by the Chinese Communist Party to create panic in the West», etc.
 
 The more respondents believed in these conspiracies, the less likely they were to have a positive attitude toward vaccination. Previous studies had already found that adherence to «classic» conspiracy beliefs unrelated to vaccination (JFK assassination, moon landing, etc.) was associated with negative attitudes toward vaccines. According to the researchers from the University of Belgrade, a conspiratorial mindset, i.e. a propensity to subscribe to theories that attribute responsibility for societal phenomena to malicious actors, may lead to the belief that key information is systematically hidden from the general public and excluded from the official discourse (origin of the pandemic, harmfulness of vaccines, etc.)
 
@@ -73,3 +96,15 @@ The Motivation Barometer shows that ethical communication is beneficial in many 
 ### Health pass to encourage vaccination ?
 
 Conversely, the use of material rewards (gifts, tax breaks, vaccination passports with privileges, etc.) undermines the value of the social incentive and further alienates vaccine sceptics, as they are perceived as pressure. However, this effect would not be felt if, in the same message, a negative PCR test is presented as a truly equivalent alternative to vaccination. The [barometer](https://wprn.org/item/528752) also notes the importance of linking the use of a health pass to COVID alert thresholds. On the one hand, this emphasizes the temporary nature of the measure: if the numbers improve, the pass will be removed. On the other hand, the use of thresholds shows that this is a tool to avoid overloading hospitals and to ensure the healthof the population, not to restrict freedom or to convince reluctant people to get vaccinated.
+
+### Give the undecided some time
+
+Another report from the Motivation Barometer tells us that giving people time to think about vaccination is a tool that should not be neglected. Over time, the majority of those who are hesitant become pro-vaccination: 79% of Belgians who had doubts about vaccination in April 2021 were vaccinated by June 2021. And over the months, almost none of the undecideds developed a negative attitude towards vaccination.
+
+### How to reduce the impact of conspiracy beliefs ?
+
+As for conspiracy holdouts, the [study](https://wprn.org/item/410052) conducted at the Université de la Côte d’Azur points out that exposure to anti-conspiracy arguments before and after exposure to conspiracy theories can restore vaccination intention. It also points to previous [research](https://www.tandfonline.com/doi/abs/10.1080/10410236.2020.1751384?journalCode=hhth20) that found that pre-existing knowledge about the HPV vaccine negated the impact of exposure to antivax conspiracy theories on vaccination intentions. Proactive outreach initiatives before the public is exposed to misinformation are therefore relevant.The Cameroon [study](https://wprn.org/item/512852) also recommends building capacity to detect conspiracy theories (civic education in schools, television programs), valuing local scientific knowledge, and promoting «truth-telling» among politicians: informing citizens about situations of uncertainty, financial or scientific challenges, and publicly admitting shortcomings.
+
+### A wealth of research
+
+Many other dimensions related to the pandemic and the vaccine are dissected by research referenced on the WPRN platform: The impact of Astra Zeneca vaccine side effects on vaccination [intentions](https://wprn.org/item/521852) (none in the UK, but a drop in vaccination intentions in Germany, France, Spain and Italy), the fact that a vote in favor of Brexit does not predict a [specific stance](https://wprn.org/item/477652) on vaccination, or that in the US, more frequent social media consumption seems to increase reluctance to get vaccinated... One can also find in the WPRN database a [tracker](https://wprn.org/item/408452) of treatments and vaccines against COVID-19 being developed on the planet proposed by Stanford University, or an [algorithm](https://wprn.org/item/400752) developed by Duke University to rationally allocate vaccines (its efficiency is 30 to 80% higher than the scenario where vaccines are randomly distributed). Research on the ethics surrounding the vaccine is also prominent, with, for example, [studies](https://wprn.org/item/483352) questioning legal regulation and intellectual property issues or the [deliberate infection](https://wprn.org/item/438952) of volunteers with COVID-19 for research.
