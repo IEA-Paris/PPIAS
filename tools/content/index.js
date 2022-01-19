@@ -14,7 +14,6 @@ export default {
     'content:file:beforeInsert': (document, database) => {
       document = {
         ...addCountMap(document),
-        ...getDOI(document),
         ...formatArticle(document, database),
       }
     },

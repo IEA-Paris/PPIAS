@@ -104,9 +104,6 @@ module.exports = async function PDF(moduleOptions) {
   }
 
   this.nuxt.hook('listen', (_, router) => (url = router.url.toString()))
-  this.nuxt.hook('build:compile', () => {
-    routeMap = require(path.resolve(this.options.buildDir, 'routes.json'))
-  })
 
   /*
    * Extending the generated routes with pdf requested routes.
@@ -175,23 +172,22 @@ module.exports = async function PDF(moduleOptions) {
     return uri
   }
 
-  async function build(buildArgs) {
+  async function builder(buildArgs) {
     let nuxt
     let listener
+    console.log('STARTING BUILDER')
     try {
       if (buildArgs.generated) {
         console.log('nuxt-pdf: Starting nuxt instance p')
-        const { loadNuxt } = require('nuxt')
+        const { loadNuxt, build } = require('nuxt')
 
         // Check if we need to run Nuxt in development mode
         const isDev = process.env.NODE_ENV !== 'production'
 
         // Get a ready to use Nuxt instance
-        const nuxt = await loadNuxt(isDev ? 'dev' : 'start')
-        listener = await nuxt.server.listen()
+        const nuxt = await loadNuxt({ for: 'start' })
+        await nuxt.listen(3000)
       }
-
-      url = listener.url
     } catch (e) {
       console.error(
         "nuxt-pdf: If this is part of npm run generate be sure to run 'npm run build first'"
@@ -211,20 +207,9 @@ module.exports = async function PDF(moduleOptions) {
       try {
         // Merge route meta with defaults from config.
         const meta = Object.assign({}, options.meta, route.meta)
-
-        const browser = await puppeteer.launch(
-          Object.assign(
-            {
-              headless: true,
-            },
-            options.puppeteer
-          )
+        const page = await nuxt.renderAndGetWindow(
+          `${url.replace(/\/$/, '')}${route.route}`
         )
-
-        const page = await browser.newPage()
-        await page.goto(`${url.replace(/\/$/, '')}${route.route}`, {
-          waitUntil: 'networkidle2',
-        })
 
         if (options.viewport || route.viewport) {
           page.setViewport(
@@ -312,7 +297,6 @@ module.exports = async function PDF(moduleOptions) {
           )
         }
         await page.close()
-        await browser.close()
       } catch (e) {
         console.log(
           `${chalk.red('𐄂')} Failed to generated PDF ${i + 1}:${
@@ -326,17 +310,24 @@ module.exports = async function PDF(moduleOptions) {
       await listener.close()
     }
   }
+  console.log(
+    'process.env.NODE_ENV !== production ',
+    process.env.NODE_ENV !== 'production'
+  )
+  console.log('this: ', this.generate)
+  /* console.log('this: ', this.options.target) */
 
   if (process.env.NODE_ENV !== 'production') {
-    this.nuxt.hook('build:compiled', async ({ name }) => {
+    this.nuxt.hook('generate:distCopied', async ({ name }) => {
       if (name !== 'server') return
-      await build({
+      await builder({
         generated: false,
+        static: this.options.target === 'static',
       })
     })
   } else {
-    this.nuxt.hook('generate:done', async ({ builder }) => {
-      await build({
+    this.nuxt.hook('generate:done', async () => {
+      await builder({
         generated: true,
       })
     })

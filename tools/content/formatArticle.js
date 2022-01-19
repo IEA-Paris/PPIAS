@@ -1,5 +1,10 @@
+import getDOI from './getDOI'
+
 export default (document, database) => {
   if (document.dir.startsWith('/articles') && document.published) {
+    // let's make the DOI if it is not available
+    // TODO move elsewhere and include it to the author document backling rewrite
+    /*  if (!document.doi || !document.doi.length) document.doi = getDOI(document) */
     let count = 0
     /*   */
     document.footnotes = []

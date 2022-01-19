@@ -13,6 +13,7 @@
       v-if="!(item.yt || item.image)"
       :item="item"
       :size="size"
+      :margin="10"
       :src="item.image"
     >
       <template #categories>
@@ -109,6 +110,7 @@ export default {
 <style lang="scss">
 .box {
   background: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+  overflow: hidden;
 }
 .underline {
   height: 3px;

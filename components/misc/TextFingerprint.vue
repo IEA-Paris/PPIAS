@@ -14,7 +14,8 @@
     </template>
     <template #content>
       <svg
-        :class="'article-fingerprint d-flex' + variant"
+        class="article-fingerprint d-flex"
+        :class="{ item: hasContent('author') }"
         xmlns="http://www.w3.org/2000/svg"
         :viewBox="'-' + size / 2 + ' -' + size / 2 + ' ' + size + ' ' + size"
       >
@@ -188,7 +189,43 @@ export default {
   transform-box: fill-box;
   transform-origin: center;
 }
+.article-fingerprint.item {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 150%;
+  height: 200%;
+  -webkit-animation-name: spin;
+  -webkit-animation-duration: 180s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: spin;
+  -moz-animation-duration: 180s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+  -ms-animation-name: spin;
+  -ms-animation-duration: 180s;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+  animation-name: spin;
+  animation-duration: 180s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+.overlay:not(:hover) + .article-fingerprint.item {
+  -webkit-animation-play-state: paused;
+  -moz-animation-play-state: paused;
+  -o-animation-play-state: paused;
+  animation-play-state: paused;
+}
 
+.overlay:hover + .article-fingerprint.item {
+  -webkit-animation-play-state: running;
+  -moz-animation-play-state: running;
+  -o-animation-play-state: running;
+  animation-play-state: running;
+}
+/* 
 @-webkit-keyframes breathing {
   0% {
     -webkit-transform: scale(1);
@@ -225,13 +262,48 @@ export default {
   55% {
     -webkit-transform: scale(1.1);
     -ms-transform: scale(1.1);
-    transform: scale(1.1);
+    transform: scale(1.1); * 2
   }
 
   100% {
     -webkit-transform: scale(1);
     -ms-transform: scale(1);
     transform: scale(1);
+  }
+} */
+@-ms-keyframes spin {
+  from {
+    -ms-transform: rotate(0deg);
+  }
+  to {
+    -ms-transform: rotate(360deg);
+  }
+}
+
+@-moz-keyframes spin {
+  from {
+    -moz-transform: rotate(0deg);
+  }
+  to {
+    -moz-transform: rotate(360deg);
+  }
+}
+
+@-webkit-keyframes spin {
+  from {
+    -webkit-transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
   }
 }
 </style>

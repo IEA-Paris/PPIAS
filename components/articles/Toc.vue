@@ -130,6 +130,7 @@ aside {
   max-height: 100vh;
   overflow-y: scroll;
   overflow-x: hidden;
+  scrollbar-width: thin;
 }
 .toc-item:hover .v-timeline-item__body a {
   color: black !important;
