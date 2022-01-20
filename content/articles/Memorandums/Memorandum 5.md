@@ -6,6 +6,9 @@ keywords:
 - 'Public Health '
 - 'Work, Welfare, Social protection '
 - 'Human Behaviours, Social Relations '
+- 'Big Data, Artificial Intelligence '
+- 'Consumption and Production Patterns '
+- 'Firms, Markets, Finance '
 date: 2020-08-31T22:00:26Z
 language: English
 published: false
@@ -51,4 +54,4 @@ The fear of not finding a job is also significant, with one person in two expres
 
 The fear of losing one’s job appears to be stronger among the more «vulnerable» groups. The authors of the Ghent University study note concerns about greater job loss among migrant workers and older workers. Unemployed people also see things more negatively. Likewise, the fear of missing a promotion increases significantly among the temporarily unemployed, while it is low among civil servants. People with temporary contracts in the private sector are much more worried about losing income than others. Young people express more fear of feeling less motivated to work.
 
-The differences are also marked in terms of gender. A study from the University of Exeter in the United Kingdom surveyed on WPRN on the gender impacts of the Covid 19 pandemic found among those surveyed that women were twice as likely as men to have been affected by job loss. Women also express more anxiety than men about the impacts of the coronavirus. These stronger effects on women have been confirmed by several studies. Finally, the effects are marked according to occupational sector. Indeed, it is logically in the sectors most affected by the pandemic, such as tourism, that employees express the most anxiety about their future careers. While the coronavirus kills more men than women, its impact on society has served to highlight and even accentuate inequalities that disadvantage women.
+The differences are also marked in terms of gender. A [study](https://wprn.org/item/472352 "wprn 472352") from the University of Exeter in the United Kingdom surveyed on WPRN on the gender impacts of the Covid 19 pandemic found among those surveyed that women were twice as likely as men to have been affected by job loss. Women also express more anxiety than men about the impacts of the coronavirus. These stronger effects on women have been confirmed by several studies. Finally, the effects are marked according to occupational sector. Indeed, it is logically in the sectors most affected by the pandemic, such as tourism, that employees express the most anxiety about their future careers. While the coronavirus kills more men than women, its impact on society has served to highlight and even accentuate inequalities that disadvantage women.
