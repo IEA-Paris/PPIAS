@@ -69,7 +69,7 @@ abstract: |-
   Écologies microbiennes dans les corps humains et animaux
 picture: ''
 picture_copyright: ''
-yt: ''
+yt: mAEoGVjHjUQ
 highlight: false
 bibliography: ''
 
@@ -86,4 +86,4 @@ Les antibiotiques sont essentiels, car sans elles, les progrès de la médecine 
 
 Allons-nous vers la fin du paradigme de l’éradication des bactéries ? En dépit du rôle de la médecine vétérinaire et de la santé animale dans l’antibio-résistance, d’une réduction massive de l’usage des antibiotiques en élevage et d’une transformation des savoirs et des pratiques de la médecine vétérinaire vers des pratiques alternatives à l’antibiothérapie, le paradigme biosécuritaire (de l’éradication) reste dominant, en réponse à la pathogénicité des bactéries et aux maladies animales.
 
-Video Youtube (de 3h36min à 5h 08min)
+<Youtube yt="mAEoGVjHjUQ" caption ="Écologies microbiennes dans les corps humains et animaux"></Youtube>
