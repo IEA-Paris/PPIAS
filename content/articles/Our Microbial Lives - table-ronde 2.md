@@ -5,7 +5,7 @@ issue: content/issues/10-12-2021.md
 keywords: []
 date: 2021-05-27T11:00:08.000+00:00
 language: French
-published: false
+published: true
 article_title: 'Our Microbial Lives : A Forum Against Eradication'
 authors:
 - firstname: 'Sabine '
