@@ -3,7 +3,7 @@ category_1: content/categories/fellows.md
 category_2: []
 issue: content/issues/10-12-2021.md
 keywords: []
-date: 2021-05-27T11:00:08Z
+date: 2021-05-27T11:00:08.000+00:00
 language: French
 published: false
 article_title: 'Our Microbial Lives : A Forum Against Eradication'
@@ -67,7 +67,7 @@ abstract: |-
   "Nouvelles perspectives sur la diversité microbienne dans l'alimentation et la santé"
 picture: ''
 picture_copyright: ''
-yt: ''
+yt: 87MEaKh26g0
 highlight: false
 bibliography: ''
 
@@ -84,4 +84,4 @@ Les préoccupations des parents relatives à la santé immunitaire du jeune enfa
 
 Le renforcement du système immunitaire de leur enfant est donc une préoccupation importante pour les parents. Il est fortement lié à la notion de défense et de capacité à lutter contre des maladies, mêmes si les marqueurs d’une bonne immunité sont diversifiés entre les pays. L’alimentation reste un élément important du renforcement immunitaire. Les « bonnes bactéries » sont évoquées, mais par une minorité de parents.
 
-Vidéo Youtube (de 1h57 min à 3h36min)
+<Youtube yt="87MEaKh26g0" caption ="Nouvelles perspectives sur la diversité microbienne dans l'alimentation et la santé"></Youtube>
