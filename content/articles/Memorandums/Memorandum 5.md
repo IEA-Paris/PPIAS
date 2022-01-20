@@ -2,7 +2,10 @@
 category_1: content/categories/wprn.md
 category_2: []
 issue: content/issues/10-12-2021.md
-keywords: []
+keywords:
+- 'Public Health '
+- 'Work, Welfare, Social protection '
+- 'Human Behaviours, Social Relations '
 date: 2020-08-31T22:00:26Z
 language: English
 published: false
@@ -42,9 +45,9 @@ The studies highlight a significant concern among employees regarding the risk o
 
 ### Employees express strong concerns about the risk of job loss, job stagnation and wage regression, a fear that is all the more strongly felt when employees belong to a «vulnerable» group
 
-A study by the University of Ghent, available on WPRN conducted at the end of March and based on a representative panel of Belgian employees, highlights the worries related to employment that affect employees. More than one out of five respondents indicate that they are afraid of losing their job as a result of the crisis. And one in seven think they will lose their job by the end of the year. These data are consistent with those expressed by other surveys. In France, in a [survey](https://www.glassdoor.fr/blog/covid-enquete-peur-perte-emploi/) of 1,000 people conducted in April by Censuswide for the Glassdoor recruitment platform, 39% of respondents feared losing their jobs or experiencing a drop in salary. Fear of missing out on career opportunities is also significant. In the Ghent University study, more than one in four respondents expressed concern about missing out on a promotion they would have received had the crisis not occurred. One person in two expresses fear of a pay cut and one in three believes that the pandemic will have a significant impact on their career.
+A [study](https://wprn.org/item/460952 "wprn 460952") by the University of Ghent, available on WPRN conducted at the end of March and based on a representative panel of Belgian employees, highlights the worries related to employment that affect employees. More than one out of five respondents indicate that they are afraid of losing their job as a result of the crisis. And one in seven think they will lose their job by the end of the year. These data are consistent with those expressed by other surveys. In France, in a [survey](https://www.glassdoor.fr/blog/covid-enquete-peur-perte-emploi/) of 1,000 people conducted in April by Censuswide for the Glassdoor recruitment platform, 39% of respondents feared losing their jobs or experiencing a drop in salary. Fear of missing out on career opportunities is also significant. In the Ghent University study, more than one in four respondents expressed concern about missing out on a promotion they would have received had the crisis not occurred. One person in two expresses fear of a pay cut and one in three believes that the pandemic will have a significant impact on their career.
 
-The fear of not finding a job is also significant, with one person in two expressing concern that Covid 19 will have a significant impact on job vacancies. A University of Florida study listed on WPRN highlights this concern in another way. The study assessed unemployment or fear of unemployment in the United States from the Google searches of Internet users. It shows that an increase in the search on the Covid in a state directly leads to an increase in the search for unemployment on the search engine.
+The fear of not finding a job is also significant, with one person in two expressing concern that Covid 19 will have a significant impact on job vacancies. A University of Florida [study](https://wprn.org/item/446152 "wprn 446152") listed on WPRN highlights this concern in another way. The study assessed unemployment or fear of unemployment in the United States from the Google searches of Internet users. It shows that an increase in the search on the Covid in a state directly leads to an increase in the search for unemployment on the search engine.
 
 The fear of losing one’s job appears to be stronger among the more «vulnerable» groups. The authors of the Ghent University study note concerns about greater job loss among migrant workers and older workers. Unemployed people also see things more negatively. Likewise, the fear of missing a promotion increases significantly among the temporarily unemployed, while it is low among civil servants. People with temporary contracts in the private sector are much more worried about losing income than others. Young people express more fear of feeling less motivated to work.
 
