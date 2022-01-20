@@ -5,7 +5,7 @@ issue: content/issues/10-12-2021.md
 keywords: []
 date: 2021-12-10T14:00:13Z
 language: English
-published: false
+published: true
 article_title: In Science We Should Trust (controlling for the Social Desirability
   Bias)
 authors:
