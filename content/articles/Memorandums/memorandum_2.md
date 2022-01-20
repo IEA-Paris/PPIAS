@@ -23,11 +23,22 @@ bibliography: ''
 authors:
 - firstname: 'Victor '
   lastname: 'Galonnier '
-abstract: ''
+abstract: |-
+  Tracking refers here to the use of digital systems to identify or track an individual. In the context of the coronavirus pandemic, tracking, through its ability to find individuals likely to have been contaminated in order to isolate or test them, has emerged as one of the methods that can fight against the spread of the virus. Tracking applications, which are listed and analysed here, were first used in Asia (China, Korea, Singapore, Taiwan) and then in the West, in France via the government application “StopCovid”, giving rise to a wide-ranging debate.
+  Memorandum 2 : overview of the studies and projects registered on WPRN database
 category_1: content/categories/wprn.md
 category_2: ''
 highlight: false
-keywords: []
+keywords:
+- 'Big Data, Artificial Intelligence '
+- 'Democracy, Civil Society, Governance '
+- 'Innovation, R&D '
+- 'Public Health '
+- 'Human Behaviours, Social Relations '
+- 'Public Policy, Evaluation, Impact '
+- 'Risks, Crisis Management '
+- StopCovid
+- Tracing Apps
 language: English
 
 ---
@@ -63,13 +74,13 @@ In France, solid technical guarantees have been put forward concerning StopCovid
 
 Although health data are particularly [sensitive](https://theconversation.com/sortir-de-la-pandemie-mais-au-prix-de-quels-renoncements-ethiques-et-juridiques-134928 "The Coversation"), the risk of breaching the privacy of personal data seems less important in anti-Covid applications than in applications already massively used daily by the population. However, their presence puts the digital dependency of our societies on the political and media agenda. Indeed, these applications are part of a more global context of increased[ digitization](https://theconversation.com/donnees-de-sante-larbre-stopcovid-qui-cache-la-foret-health-data-hub-138852 "The Conversation") of the health sector.
 
-Many researchers are expressing their points of view and some point out the infringements on individual liberties particularly through the merging of different databases, which is likely to increase with the development of technological surveillance tools in more and more sectors.
+Many researchers are expressing their points of view and some point out the infringements on individual [liberties](https://theconversation.com/donnees-de-sante-larbre-stopcovid-qui-cache-la-foret-health-data-hub-138852 "The conversation") particularly through the merging of different [databases](https://laviedesidees.fr/Tracages-et-fusions.html "Vie des idées"), which is likely to increase with the development of technological surveillance tools in more and more sectors.
 
 A trend in international research in recent years has focused on the links between digital and surveillance society. In this sense and that of several recently published fora, studies could be carried out to assess citizens’ perceptions of the use of technology for control or surveillance purposes.
 
 ### Communities and states must carry out an exercise of proportionality between, on the one hand, the potential of technological solutions and, on the other hand, the protection of their sovereignty and the guarantee of the individual freedoms of their citizens.
 
-The involvement of the major Tech companies (GAFAM) in the production of these applications is very important. This article, wich can be consulted on WPRN underlines that although some studies consider that the tracking technologies proposed by the GAFAMs offer better guarantees of respect for privacy or are more efficient than those proposed by the public authorities, other studies point out the risk of infringing the sovereignty of States and communities through increased dependence on these companies and through the delegation of missions of first-rate public services to private actors. Work showing the long-term multidimensional impacts of a dependence on Tech actors, updated in the context of the pandemic, would offer interesting avenues of reflection for public authorities.
+The involvement of the major Tech companies (GAFAM) in the production of these applications is very important. This [article](https://wprn.org/item/442852 "wprn 442852"), wich can be consulted on WPRN underlines that although some studies consider that the tracking technologies proposed by the GAFAMs offer better guarantees of respect for privacy or are more efficient than those proposed by the public authorities, other studies point out the risk of infringing the sovereignty of States and communities through increased dependence on these companies and through the delegation of missions of first-rate public services to private actors. Work showing the long-term multidimensional impacts of a dependence on Tech actors, updated in the context of the pandemic, would offer interesting avenues of reflection for public authorities.
 
 The «Smart City» has significant potential to innovate and find ways to combat the pandemic and those to come. However, many researchers urge public authorities to remain extremely cautious. The urgency of a crisis should not lead to « technological [solutionism](https://www.revuepolitique.fr/stopcovid-une-application-problematique-sur-le-plan-ethique-et-politique/ "Revue politique") » by abandoning careful study of the consequences, including long-term consequences, of the use of surveillance tools on society. Similarly, the experimental potential of technological tools in the fight against the pandemic should not distract the attention of public authorities from the priority to be given to methods that have proved their worth: stock of masks, medical equipment and tests.
 
