@@ -3,7 +3,7 @@ category_1: content/categories/fellows.md
 category_2: []
 issue: content/issues/10-12-2021.md
 keywords: []
-date: 2021-05-27T08:00:16Z
+date: 2021-05-27T08:00:16.000+00:00
 language: French
 published: true
 article_title: 'Our Microbial Lives : A Forum Against Eradication'
@@ -68,7 +68,7 @@ abstract: |-
   "Connaissance des microbes et de la fermentation dans le développement durable"
 picture: ''
 picture_copyright: ''
-yt: ''
+yt: wcDK7AbXkpo
 highlight: false
 bibliography: ''
 
@@ -81,4 +81,4 @@ Cette évolution conceptuelle selon laquelle nous avons recruté une aide microb
 
 Qui produit les connaissances en microbiologie fromagère et quelles en sont les spécificités ? Quelles ont été les grandes phases de développement de cette microbiologie ? Telles sont les questions auxquelles des réponses pourront être proposées lors de table ronde.
 
-Video Youtube (de 22 min à 1h57min)
+<Youtube yt="wcDK7AbXkpo" caption ="Connaissance des microbes et de la fermentation dans le développement durable"></Youtube>
