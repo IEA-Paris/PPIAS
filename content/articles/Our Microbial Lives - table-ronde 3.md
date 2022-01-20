@@ -66,7 +66,7 @@ authors:
   reference: ''
 abstract: |-
   Table-ronde du forum Our Microbial Lives
-  Écologies microbiennes dans les corps humains et animaux
+  "Écologies microbiennes dans les corps humains et animaux"
 picture: ''
 picture_copyright: ''
 yt: mAEoGVjHjUQ
