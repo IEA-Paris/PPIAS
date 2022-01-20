@@ -122,7 +122,8 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: ''
+abstract: 2nd Q&A session on the theme "Masks, Vaccinations and Compliance" based
+  on 6 projects registered on WPRN database
 picture: ''
 picture_copyright: ''
 yt: ''
