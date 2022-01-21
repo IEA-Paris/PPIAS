@@ -1,5 +1,5 @@
 <template>
-  <v-dialog v-model="$route.query.global" fullscreen hide-overlay overflowed>
+  <v-dialog v-model="open" fullscreen hide-overlay overflowed>
     <template #activator="{ on, attrs }">
       <v-btn v-bind="attrs" icon x-large class="ma-2" tile v-on="on">
         <v-icon>mdi-magnify</v-icon>
@@ -21,12 +21,9 @@
               icon
               text
               x-large
+              tile
               class="ma-2 mr-4 mb-4"
-              @click="
-                $router.push({
-                  query: { ...$route.query, global: undefined },
-                })
-              "
+              @click="clear()"
             >
               <v-icon>mdi-close</v-icon>
             </v-btn>
@@ -46,6 +43,7 @@
               id="search"
               ref="searchInput"
               v-model="searchString"
+              v-intersect="onIntersect"
               name="search"
               hide-details
               clearable
@@ -53,7 +51,7 @@
               prepend-inner-icon="mdi-magnify"
               class="search"
               @keydown.esc.prevent="clear()"
-              @click:clear="clear()"
+              @click:clear="searchString = ''"
             ></v-text-field>
 
             <v-list color="transparent">
@@ -65,10 +63,11 @@
                         mdi-help-circle
                       </v-icon>
                     </template>
-                    <span
-                      >The article search is based on their text, title,
-                      authors'&nbsp;lastname or institutions</span
-                    > </v-tooltip
+                    <span>{{
+                      $t(
+                        'the-article-search-is-based-on-their-text-title-and-authors-and-nbsp-lastname-or-institutions'
+                      )
+                    }}</span> </v-tooltip
                   >&nbsp; {{ $t('articles') }} <v-spacer></v-spacer
                   ><v-btn
                     v-if="results.articlesCount > 3"
@@ -76,11 +75,7 @@
                     text
                     nuxt
                     :to="localePath('/?search=' + searchStringRaw)"
-                    @click="
-                      $router.push({
-                        query: { ...$route.query, global: false },
-                      })
-                    "
+                    @click="open = false"
                   >
                     {{
                       $t('see-all-results-articlescount', [
@@ -96,14 +91,10 @@
                     color="primary"
                     template
                   >
-                    <ArticleSeachItem
+                    <ArticleSearchItem
                       :item="item"
-                      @close="
-                        $router.push({
-                          query: { ...$route.query, global: false },
-                        })
-                      "
-                    ></ArticleSeachItem>
+                      @close="clear()"
+                    ></ArticleSearchItem>
                   </v-list-item-group>
                 </template>
               </template>
@@ -116,10 +107,11 @@
                         mdi-help-circle
                       </v-icon>
                     </template>
-                    <span
-                      >The media search is based on their title and the title of
-                      the article they belong to</span
-                    > </v-tooltip
+                    <span>{{
+                      $t(
+                        'the-media-search-is-based-on-their-title-and-the-title-of-the-article-they-belong-to'
+                      )
+                    }}</span> </v-tooltip
                   >&nbsp; {{ $t('media') }}<v-spacer></v-spacer
                   ><v-btn
                     v-if="results.mediaCount > 3"
@@ -127,11 +119,7 @@
                     text
                     nuxt
                     :to="localePath('/media?search=' + searchStringRaw)"
-                    @click="
-                      $router.push({
-                        query: { ...$route.query, global: false },
-                      })
-                    "
+                    @click="open = false"
                   >
                     {{
                       $t('see-all-results-articlescount', [results.mediaCount])
@@ -147,11 +135,7 @@
                   >
                     <MediaSearchItem
                       :item="item"
-                      @close="
-                        $router.push({
-                          query: { ...$route.query, global: false },
-                        })
-                      "
+                      @close="clear()"
                     ></MediaSearchItem>
                   </v-list-item-group>
                 </template>
@@ -165,10 +149,11 @@
                         mdi-help-circle
                       </v-icon>
                     </template>
-                    <span
-                      >The author search is based on their lastname, titles or
-                      institutions</span
-                    > </v-tooltip
+                    <span>{{
+                      $t(
+                        'the-author-search-is-based-on-their-lastname-titles-or-institutions'
+                      )
+                    }}</span> </v-tooltip
                   >&nbsp;{{ $t('authors') }}<v-spacer></v-spacer
                   ><v-btn
                     v-if="results.authorsCount > 3"
@@ -176,11 +161,7 @@
                     text
                     nuxt
                     :to="localePath('/authors?search=' + searchStringRaw)"
-                    @click="
-                      $router.push({
-                        query: { ...$route.query, global: false },
-                      })
-                    "
+                    @click="open = false"
                   >
                     {{
                       $t('see-all-results-articlescount', [
@@ -198,11 +179,7 @@
                   >
                     <AuthorSearchItem
                       :item="item"
-                      @close="
-                        $router.push({
-                          query: { ...$route.query, global: false },
-                        })
-                      "
+                      @close="clear()"
                     ></AuthorSearchItem>
                   </v-list-item-group>
                 </template>
@@ -232,6 +209,8 @@ export default {
       searchStringRaw: this.$route.query.search || '',
       loading: false,
       results: [],
+      open: this.searchString,
+      shouldFocus: false,
     }
   },
   computed: {
@@ -280,14 +259,27 @@ export default {
   },
   methods: {
     focusSearch() {
+      console.log('focusSearch: ')
       // Focus the component, but we have to wait
       // so that it will be showing first.
       this.$nextTick(() => {
+        console.log('nextTick: ')
+        console.log('this.$refs?.searchInput: ', this.$refs?.searchInput)
         this.$refs?.searchInput?.focus()
       })
     },
     clear() {
+      this.open = false
+      this.shouldFocus = false
       this.$router.push({ query: { ...this.$route.query, search: undefined } })
+    },
+    onIntersect(entries, observer) {
+      // More information about these options
+      // is located here: https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
+      if (!this.shouldFocus && entries[0].isIntersecting) {
+        this.shouldFocus = entries[0].isIntersecting
+        this.$refs?.searchInput?.focus()
+      }
     },
   },
 }

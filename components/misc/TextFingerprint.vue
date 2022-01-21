@@ -212,6 +212,20 @@ export default {
   animation-iteration-count: infinite;
   animation-timing-function: linear;
 }
+
+.overlay:before {
+  content: '';
+  position: absolute;
+  background: inherit;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  box-shadow: inset 0 0 2000px rgba(255, 255, 255, 0.5);
+  filter: blur(10px);
+  margin: -20px;
+}
 .overlay:not(:hover) + .article-fingerprint.item {
   -webkit-animation-play-state: paused;
   -moz-animation-play-state: paused;

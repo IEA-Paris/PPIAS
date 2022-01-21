@@ -11,6 +11,7 @@ export default {
   },
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+  ssr: 'true',
   generate: {
     fallback: true,
   },
@@ -95,7 +96,7 @@ export default {
       {
         vmid: 'og:title',
         property: 'og:title',
-        content: 'Test title',
+        content: config.name,
         template: (chunk) => `Article - ${chunk}`, // or as string template: '%s - My page'
       },
     ],

@@ -7,11 +7,14 @@
       {{ $t('no-author-found-matching-this-article') }}
     </div>
     <div v-for="(author, index) in item.authors" :key="index" class="pb-6">
-      <AuthorsItem :item="author"></AuthorsItem>
+      <AuthorsItem
+        :item="{ ...author, slug: slugify(author.lastname) }"
+      ></AuthorsItem>
     </div>
   </div>
 </template>
 <script>
+import slugify from '~/assets/utils/slugify'
 export default {
   props: {
     item: {
@@ -24,7 +27,11 @@ export default {
   },
   computed: {},
   mounted() {},
-  methods: {},
+  methods: {
+    slugify(str) {
+      return slugify(str)
+    },
+  },
 }
 </script>
 <style lang="scss"></style>

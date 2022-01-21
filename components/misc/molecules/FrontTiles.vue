@@ -16,7 +16,7 @@
           : $vuetify.breakpoint.mobile
           ? 'mx-2'
           : 'mx-6',
-        { 'mt-6': section === 1 },
+        ,
       ]"
     >
       <v-col
@@ -25,6 +25,7 @@
         md="6"
         lg="8"
         xl="6"
+        :class="{ 'pt-1 pr-1': !$store.state.scrolled }"
         class="transition-swing"
         :order="
           section % 2
@@ -43,9 +44,13 @@
           :scroll="$store.state.scrolled"
         ></component>
       </v-col>
-      <v-col cols="12" :sm="filter ? 12 : 6" md="6" lg="4" xl="6">
+      <v-col cols="12" :sm="filter ? 12 : 6" md="6" lg="4" xl="6" class="">
         <v-row :no-gutters="!$store.state.scrolled">
-          <v-col cols="12" class="transition-swing">
+          <v-col
+            cols="12"
+            class="transition-swing"
+            :class="{ 'pt-1': !$store.state.scrolled }"
+          >
             <component
               :is="type.charAt(0).toUpperCase() + type.slice(1) + 'Item'"
               v-if="data.items[(section - 1) * 3 + 1]"
@@ -55,7 +60,11 @@
               :scroll="$store.state.scrolled"
             ></component>
           </v-col>
-          <v-col cols="12" class="transition-swing">
+          <v-col
+            cols="12"
+            class="transition-swing"
+            :class="{ 'pt-1': !$store.state.scrolled }"
+          >
             <component
               :is="type.charAt(0).toUpperCase() + type.slice(1) + 'Item'"
               v-if="data.items[(section - 1) * 3 + 2]"

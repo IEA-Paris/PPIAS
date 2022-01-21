@@ -193,7 +193,7 @@ module.exports = async function PDF(moduleOptions) {
 
       url = listener.url
     } catch (e) {
-      console.error(
+      console.log(
         "nuxt-pdf: If this is part of npm run generate be sure to run 'npm run build first'"
       )
     }

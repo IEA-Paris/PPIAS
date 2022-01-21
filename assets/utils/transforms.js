@@ -53,15 +53,21 @@ export const formatDate = (timestamp, withTime) => {
   return formatedDate
 }
 export const formatAuthors = (authors = false, $t) => {
+  console.log('t: ', typeof $t)
+  console.log(typeof $t === 'undefined')
   const format = (author) => {
     return (
       author.lastname.replace(' ', '&nbsp;').trim() +
       ',&nbsp;' +
       author.firstname
-        .replace('.', '')
         .trim()
-        .match(/(\b\S)?/g)
-        .join('')
+        .replace(/[^A-Za-z0-9À-ÿ ]/gi, '') // taking care of accented characters as well
+        .replace(/ +/gi, ' ') // replace multiple spaces to one
+        .split(/ /) // break the name into parts
+        .reduce((acc, item) => acc + item[0], '') // assemble an abbreviation from the parts
+        .concat(author.firstname.substr(1)) // what if the name consist only one part
+        .concat(author.firstname) // what if the name is only one character
+        .substr(0, 1) // get the first two characters an initials
         .toUpperCase() +
       '.&nbsp;'
     )
@@ -71,7 +77,12 @@ export const formatAuthors = (authors = false, $t) => {
   if (authors.length === 1) return format(authors[0])
 
   if (authors.length === 2) {
-    return format(authors[0]) + $t('and') + format(authors[1])
+    return (
+      format(authors[0]) +
+      // fallback on english for pdfs (only case where $t is called as undefined)
+      (typeof $t === 'undefined' ? ' and ' : $t('and')) +
+      format(authors[1])
+    )
   }
   if (authors.length === 3) {
     return authors.map((author) => format(author)).join(', ')

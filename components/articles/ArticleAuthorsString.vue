@@ -17,7 +17,7 @@ export default {
   mounted() {},
   methods: {
     formatAuthorsProxy() {
-      return formatAuthors(this.authors, this.$i18n)
+      return formatAuthors(this.authors, this.$i18n.$t)
     },
   },
 }

@@ -1,19 +1,8 @@
 <template>
-  <v-row
-    class="transition-swing flex-row-reverse d-flex"
-    :fluid="filter"
-    :class="{ 'justify-center': $vuetify.breakpoint.lgAndUp }"
-  >
-    <v-col
-      :cols="filter ? 10 : 12"
-      :xl="filter ? 8 : 10"
-      :lg="filter ? 9 : 11"
-      :md="filter ? 9 : 12"
-      :sm="filter ? 7 : 12"
-      class="transition-swing pt-0"
-    >
-      <div class="sidebtn">
-        <div class="d-flex align-center">
+  <div>
+    <v-row no-gutters class="mt-n12">
+      <v-col cols="12" class="d-flex">
+        <div class="sidebtn">
           <v-tooltip bottom>
             <template #activator="{ on, attrs }">
               <v-btn
@@ -38,150 +27,208 @@
             ></span>
           </v-tooltip>
         </div>
-      </div>
-      <span class="mr-4 grey--text">
-        {{
-          $t('page-current-of-total', {
-            current: options.page,
-            total: numberOfPages,
-          })
-        }}
-      </span>
-      <v-data-iterator
-        :loading="loading"
-        :items="items"
-        :footer-props="{ itemsPerPageOptions: [5, 10, 20, 50, 100] }"
-        :server-items-length="total"
-        :options.sync="options"
-        :search="search"
-        hide-default-footer
-        @update:page="$vuetify.goTo(0)"
+      </v-col>
+    </v-row>
+    <v-row
+      class="transition-swing flex-row-reverse d-flex"
+      :fluid="filter"
+      :class="{ 'justify-center': $vuetify.breakpoint.lgAndUp }"
+    >
+      <v-col
+        :cols="filter ? 10 : 12"
+        :xl="filter ? 8 : 10"
+        :lg="filter ? 9 : 11"
+        :md="filter ? 9 : 12"
+        :sm="filter ? 7 : 12"
+        class="transition-swing pt-0"
       >
-        <template #loading>
-          <v-progress-linear
-            indeterminate
-            rounded
-            height="6"
-          ></v-progress-linear>
-          <v-container style="height: 400px">
-            <v-row class="fill-height" align-content="center" justify="center">
-              <v-col align="center" cols="12">
-                <v-img src="/loading.gif" height="250" width="250"></v-img>
-              </v-col>
-            </v-row>
-          </v-container>
-        </template>
-        <template #default="props">
-          <FrontTiles
-            v-if="tiles"
-            :data="props"
-            :filter="filter"
-            :sections="Math.ceil(options.itemsPerPage / 3)"
-            :type="type"
-          ></FrontTiles>
-          <RegularList
-            v-else
-            :data="props"
-            :filter="filter"
-            :type="type"
-          ></RegularList>
-        </template>
+        <v-data-iterator
+          :loading="loading"
+          :items="items"
+          :footer-props="{ itemsPerPageOptions: [5, 10, 20, 50, 100] }"
+          :server-items-length="total"
+          :options.sync="options"
+          :search="search"
+          hide-default-footer
+          @update:page="$vuetify.goTo(0)"
+        >
+          <template #header>
+            <v-container
+              class="transition-swing py-0"
+              :fluid="!$store.state.scrolled"
+              :class="{ '': !$store.state.scrolled, 'pl-0': filter }"
+            >
+              <v-row
+                class="transition-swing"
+                :no-gutters="!$store.state.scrolled"
+                :class="[
+                  $store.state.scrolled
+                    ? 'mb-0'
+                    : $vuetify.breakpoint.mobile
+                    ? 'mx-2 '
+                    : 'mx-6 ',
+                  ,
+                ]"
+              >
+                <v-col cols="12 ">
+                  <div class="mr-4 text-subtitle-1 grey--text">
+                    <template>
+                      <div></div>
+                    </template>
+                    {{
+                      $t('page-current-of-total', {
+                        current: options.page,
+                        total: numberOfPages,
+                      })
+                    }}
+                    ({{ $tc('total-articles', total) }})
+                  </div>
+                  <TextField
+                    :type="type"
+                    item="search"
+                    class="transition-swing"
+                    solo
+                    flat
+                    outlined
+                    hide-details
+                  ></TextField></v-col></v-row
+            ></v-container>
+          </template>
+          <template #loading>
+            <v-progress-linear
+              indeterminate
+              rounded
+              height="6"
+            ></v-progress-linear>
+            <v-container style="height: 400px">
+              <v-row
+                class="fill-height"
+                align-content="center"
+                justify="center"
+              >
+                <v-col align="center" cols="12">
+                  <v-img src="/loading.gif" height="250" width="250"></v-img>
+                </v-col>
+              </v-row>
+            </v-container>
+          </template>
+          <template #default="props">
+            <FrontTiles
+              v-if="tiles"
+              :data="props"
+              :filter="filter"
+              :sections="Math.ceil(options.itemsPerPage / 3)"
+              :type="type"
+            ></FrontTiles>
+            <RegularList
+              v-else
+              :data="props"
+              :filter="filter"
+              :type="type"
+            ></RegularList>
+          </template>
 
-        <template #no-data>
-          <div width="100%">
-            {{ $t('no-result-found') }}
-          </div>
-        </template>
-        <template #no-result>
-          <template v-if="!activeFiltersCounter">
-            <div class="my-3" width="100%">
+          <template #no-data>
+            <div width="100%">
               {{ $t('no-result-found') }}
             </div>
           </template>
-          <template v-else>
-            <div width="100%">
-              {{ $t('no-result-matching-your-filters') }}
-              <br />
-              <v-btn
-                v-if="activeFiltersCounter"
-                outlined
-                small
-                color="white"
-                class="ma-3"
-                @click="
-                  $router.push({ query: {} })
-                  updatePage(1)
-                "
-              >
-                <v-icon left>mdi-refresh</v-icon>
-                {{ $t('reset-filters') }}
-              </v-btn>
-            </div>
+          <template #no-result>
+            <template v-if="!activeFiltersCounter">
+              <div class="my-3" width="100%">
+                {{ $t('no-result-found') }}
+              </div>
+            </template>
+            <template v-else>
+              <div width="100%">
+                {{ $t('no-result-matching-your-filters') }}
+                <br />
+                <v-btn
+                  v-if="activeFiltersCounter"
+                  outlined
+                  small
+                  color="white"
+                  class="ma-3"
+                  @click="
+                    $router.push({ query: {} })
+                    updatePage(1)
+                  "
+                >
+                  <v-icon left>mdi-refresh</v-icon>
+                  {{ $t('reset-filters') }}
+                </v-btn>
+              </div>
+            </template>
           </template>
-        </template>
-        <template #footer>
-          <v-container>
-            <v-row
-              :no-gutters="layout.nogutters"
-              justify="center"
-              align="center"
-            >
-              <div class="ml-3 d-flex align-center">
-                <span class="grey--text pr-3">{{ $t('items-per-page') }}</span>
-                <v-select
-                  v-model="options.itemsPerPage"
-                  class="perPageSelect"
-                  solo
-                  flat
-                  :items="options.itemsPerPageArray"
-                  hide-details
-                  @change="updatePage(1)"
-                ></v-select>
-              </div>
+          <template #footer>
+            <v-container>
+              <v-row
+                :no-gutters="layout.nogutters"
+                justify="center"
+                align="center"
+              >
+                <v-sheet class="d-flex align-center">
+                  <span class="grey--text px-3">{{
+                    $t('items-per-page')
+                  }}</span>
+                  <v-select
+                    v-model="options.itemsPerPage"
+                    class="perPageSelect"
+                    solo
+                    outlined
+                    flat
+                    dense
+                    :items="options.itemsPerPageArray"
+                    hide-details
+                    @change="updatePage(1)"
+                  ></v-select>
+                </v-sheet>
 
-              <v-spacer></v-spacer>
+                <v-spacer></v-spacer>
 
-              <div v-if="numberOfPages > 1" class="text-center">
-                <v-pagination
-                  :total-visible="5"
-                  :v-model="options.page"
-                  color="black"
-                  :value="+$route.query.page || 1"
-                  :length="numberOfPages"
-                  @input="updatePage($event)"
-                ></v-pagination>
-              </div>
-              <v-spacer></v-spacer>
+                <div v-if="numberOfPages > 1" class="text-center">
+                  <v-pagination
+                    total-visible="5"
+                    :v-model="options.page"
+                    color="black"
+                    large
+                    :value="+$route.query.page || 1"
+                    :length="numberOfPages"
+                    @input="updatePage($event)"
+                  ></v-pagination>
+                </div>
+                <v-spacer></v-spacer>
 
-              <span class="mr-4 grey--text">
-                {{
-                  $t('page-current-of-total', {
-                    current: options.page,
-                    total: numberOfPages,
-                  })
-                }}
-              </span>
-            </v-row>
-          </v-container>
-        </template>
-      </v-data-iterator>
-    </v-col>
-    <v-col
-      v-show="filter"
-      :cols="filter ? 2 : 1"
-      :xl="filter ? 2 : 1"
-      :lg="filter ? 3 : 1"
-      :md="filter ? 3 : 1"
-      :sm="filter ? 5 : 1"
-      class="transition-swing filter-column"
-    >
-      <div class="overline">
-        <v-icon x-small>mdi-filter</v-icon>
-        {{ $t('filters') }}
-        <Filters :type="type" :loading="loading" />
-      </div>
-    </v-col>
-  </v-row>
+                <span class="mr-4 grey--text">
+                  {{
+                    $t('page-current-of-total', {
+                      current: options.page,
+                      total: numberOfPages,
+                    })
+                  }}
+                </span>
+              </v-row>
+            </v-container>
+          </template>
+        </v-data-iterator>
+      </v-col>
+      <v-col
+        v-show="filter"
+        :cols="filter ? 2 : 1"
+        :xl="filter ? 2 : 1"
+        :lg="filter ? 3 : 1"
+        :md="filter ? 3 : 1"
+        :sm="filter ? 5 : 1"
+        class="transition-swing filter-column"
+      >
+        <div class="overline">
+          <v-icon x-small>mdi-filter</v-icon>
+          {{ $t('filters') }}
+          <Filters :type="type" :loading="loading" />
+        </div>
+      </v-col>
+    </v-row>
+  </div>
 </template>
 <script>
 import getContent from '~/assets/utils/getContent'
@@ -301,7 +348,6 @@ export default {
   outline: 1px dotted ButtonText;
 }
 .perPageSelect {
-  max-width: 72px;
   margin-top: 0;
   padding-top: 0;
 }
