@@ -51,14 +51,4 @@ export default {
   methods: {},
 }
 </script>
-<style lang="scss">
-.underline {
-  height: 3px;
-  width: 33%;
-}
-.sideline {
-  height: 2.2rem;
-  width: 3px;
-  margin-right: 0.4rem;
-}
-</style>
+<style lang="scss"></style>

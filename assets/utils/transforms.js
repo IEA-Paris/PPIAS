@@ -53,8 +53,6 @@ export const formatDate = (timestamp, withTime) => {
   return formatedDate
 }
 export const formatAuthors = (authors = false, $t) => {
-  console.log('t: ', typeof $t)
-  console.log(typeof $t === 'undefined')
   const format = (author) => {
     return (
       author.lastname.replace(' ', '&nbsp;').trim() +
@@ -80,6 +78,7 @@ export const formatAuthors = (authors = false, $t) => {
     return (
       format(authors[0]) +
       // fallback on english for pdfs (only case where $t is called as undefined)
+      // TODO: double check it works once we go for multilingual
       (typeof $t === 'undefined' ? ' and ' : $t('and')) +
       format(authors[1])
     )

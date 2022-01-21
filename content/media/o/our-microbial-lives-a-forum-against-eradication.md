@@ -1,11 +1,11 @@
 ---
-article_slug: Our Microbial Lives - table-ronde 2
+article_slug: Our Microbial Lives - table-ronde 3
 caption: 'Our Microbial Lives : A Forum Against Eradication'
 category_1: content/categories/fellows.md
 category_2: []
-date: '2021-05-27T11:00:08.000Z'
+date: '2021-05-27T13:00:08.000Z'
 highlight: false
-id: 87MEaKh26g0
+id: mAEoGVjHjUQ
 type: youtube
 
 ---

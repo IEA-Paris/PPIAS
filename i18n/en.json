@@ -157,7 +157,9 @@
   "author-links": "Author links",
   "see-all-results-articlescount": "See all ({0})",
   "author-unavailable": "Author unavailable",
-  "total-articles": "No result | {count} result | {count} results",
+  "total-articles": "No article found | {count} article found | {count} articles found",
+  "total-media": "No media found | {count} media found | {count} medias found",
+  "total-authors": "No author found | {count} author found | {count} authors found",
   "the-article-search-is-based-on-their-text-title-and-authors-and-nbsp-lastname-or-institutions": "The article search is based on their text, title, and authors'&nbsp;lastname or institutions",
   "the-media-search-is-based-on-their-title-and-the-title-of-the-article-they-belong-to": "The media search is based on their title and the title of the article they belong to.",
   "the-author-search-is-based-on-their-lastname-titles-or-institutions": "The author search is based on their lastname, titles or institutions"

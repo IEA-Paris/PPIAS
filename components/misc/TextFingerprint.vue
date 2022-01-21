@@ -211,21 +211,16 @@ export default {
   animation-duration: 180s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease;
 }
 
-.overlay:before {
-  content: '';
-  position: absolute;
-  background: inherit;
-  z-index: -1;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  box-shadow: inset 0 0 2000px rgba(255, 255, 255, 0.5);
-  filter: blur(10px);
-  margin: -20px;
+/* .overlay:not(:hover) + .article-fingerprint.item {
+  filter: blur(4px);
 }
+.overlay:hover + .article-fingerprint.item + svg {
+  filter: blur(0px);
+} */
 .overlay:not(:hover) + .article-fingerprint.item {
   -webkit-animation-play-state: paused;
   -moz-animation-play-state: paused;

@@ -43,12 +43,11 @@
         class="transition-swing pt-0"
       >
         <v-data-iterator
-          :loading="loading"
+          :loading="$nuxt.loading"
           :items="items"
           :footer-props="{ itemsPerPageOptions: [5, 10, 20, 50, 100] }"
           :server-items-length="total"
           :options.sync="options"
-          :search="search"
           hide-default-footer
           @update:page="$vuetify.goTo(0)"
         >
@@ -72,27 +71,40 @@
               >
                 <v-col cols="12 ">
                   <div class="mr-4 text-subtitle-1 grey--text">
-                    <template>
-                      <div></div>
+                    <template v-if="$route.query && $route.query.search">
+                      Searching for "{{ $route.query && $route.query.search }}"
                     </template>
                     {{
+                      $tc('total-' + type, total) +
+                      ' - ' +
                       $t('page-current-of-total', {
                         current: options.page,
                         total: numberOfPages,
                       })
                     }}
-                    ({{ $tc('total-articles', total) }})
                   </div>
-                  <TextField
-                    :type="type"
-                    item="search"
+                  <v-text-field
+                    v-model="search"
+                    :placeholder="$t('search')"
+                    prepend-inner-icon="mdi-magnify"
+                    single-line
+                    :loading="$nuxt.loading"
                     class="transition-swing"
-                    solo
-                    flat
                     outlined
                     hide-details
-                  ></TextField></v-col></v-row
-            ></v-container>
+                    :dense="$vuetify.breakpoint.smAndDown"
+                    :disabled="$nuxt.loading"
+                    clearable
+                    style="min-width: 150px"
+                    @click:clear="search = null"
+                  >
+                    <template v-if="!search" #label>
+                      <div class="searchLabel">{{ $t('search') }}</div>
+                    </template></v-text-field
+                  ></v-col
+                ></v-row
+              ></v-container
+            >
           </template>
           <template #loading>
             <v-progress-linear
@@ -219,7 +231,7 @@
         :lg="filter ? 3 : 1"
         :md="filter ? 3 : 1"
         :sm="filter ? 5 : 1"
-        class="transition-swing filter-column"
+        class="transition-swing filter-column pt-0"
       >
         <div class="overline">
           <v-icon x-small>mdi-filter</v-icon>
@@ -231,6 +243,7 @@
   </div>
 </template>
 <script>
+import debounce from '~/assets/utils/debounce'
 import getContent from '~/assets/utils/getContent'
 export default {
   props: {
@@ -281,40 +294,58 @@ export default {
   data() {
     return {
       mobile: this.$vuetify.breakpoint.mobile,
-      search: this.$route.query.search || '',
       filter: false,
       options: this.pagination,
       numberOfPages: 0,
       total: 0,
       items: [],
       loading: false,
+      rawSearch: this.$route?.query?.search || '',
     }
   },
   async fetch() {
     // TODO: FIX/INVEsTIGUATE> looks like mobile is not detected correctly
-    if (!this.$route.query.search) this.search = null
-    const rst = await getContent(
-      this.type,
-      this.$content,
-      this.$route.query,
-      this.search,
-      true,
-      this.mobile,
-      this.options.itemsPerPage
-    )
-    if (rst) {
-      this.total = rst.total
-      this.numberOfPages = rst.numberOfPages
-      this.pinnedItem = rst.pinnedItem
-      this.items = rst.items
-    } else {
-      this.total = 0
-      this.numberOfPages = 1
-      this.pinnedItem = false
-      this.items = []
+    if (!this.$route.query.search) {
+      this.search = null
+    } else if (!this.loading) {
+      this.loading = true
+      const rst = await getContent(
+        this.type,
+        this.$content,
+        this.$route.query,
+        this.search,
+        true,
+        this.mobile,
+        this.options.itemsPerPage
+      )
+      console.log('rst: ', rst)
+      if (rst) {
+        this.total = rst.total
+        this.numberOfPages = rst.numberOfPages
+        this.pinnedItem = rst.pinnedItem
+        this.items = rst.items
+      } else {
+        this.total = 0
+        this.numberOfPages = 1
+        this.pinnedItem = false
+        this.items = []
+      }
+      this.loading = false
     }
   },
-  computed: {},
+  computed: {
+    search: {
+      get() {
+        return this.rawSearch
+      },
+      set(value) {
+        this.$router.replace({
+          query: { ...this.$route.query, search: value },
+        })
+        this.rawSearch = value
+      },
+    },
+  },
   watch: {
     '$route.query': '$fetch',
     'options.itemsPerPage': '$fetch',
@@ -350,5 +381,10 @@ export default {
 .perPageSelect {
   margin-top: 0;
   padding-top: 0;
+}
+.searchLabel {
+  text-transform: uppercase !important;
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.6) !important;
 }
 </style>

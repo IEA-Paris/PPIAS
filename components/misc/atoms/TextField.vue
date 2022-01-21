@@ -9,7 +9,14 @@
     @click:clear="
       $router.push({ query: { ...$route.query, [item]: undefined } })
     "
-  />
+  >
+    <template
+      v-if="item === 'search' && !($route.query && $route.query.search)"
+      #label
+    >
+      <div class="searchLabel">{{ $t('search') }}</div>
+    </template></v-text-field
+  >
 </template>
 
 <script>
@@ -44,3 +51,4 @@ export default {
   },
 }
 </script>
+<style lang="scss"></style>

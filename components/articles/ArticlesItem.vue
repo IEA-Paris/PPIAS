@@ -25,15 +25,15 @@
       <template #author>
         <ArticleAuthorsString :authors="item.authors" />
         <v-sheet
-          v-if="item.category_1 && item.category_1.length"
+          v-if="item.category_1 && item.category_1.name"
+          class="underline-color"
           :color="item.category_1.color"
-          class="underline"
         ></v-sheet>
       </template>
       <template #date>
         <div class="d-flex">
           <v-sheet
-            v-if="item.category_1 && item.category_1.length"
+            v-if="item.category_1 && item.category_1.name"
             :color="item.category_1.color"
             class="sideline"
           ></v-sheet>
@@ -112,13 +112,14 @@ export default {
   background: linear-gradient(315deg, #2d3436 0%, #000000 74%);
   overflow: hidden;
 }
-.underline {
-  height: 3px;
+.underline-color {
+  height: 2px;
   width: 33%;
+  z-index: 100;
 }
 .sideline {
   height: 2.2rem;
-  width: 3px;
+  width: 4px;
   margin-right: 0.4rem;
 }
 </style>
