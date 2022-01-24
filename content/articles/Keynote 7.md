@@ -3,9 +3,9 @@ category_1: content/categories/WPRN21.md
 category_2: []
 issue: content/issues/10-12-2021.md
 keywords: []
-date: 2021-12-10T10:30:19Z
+date: 2021-12-10T10:30:19.000+00:00
 language: English
-published: false
+published: true
 article_title: Emotional responses to the pandemic through the lens of text data
 authors:
 - firstname: 'Bennett '
@@ -31,7 +31,7 @@ authors:
 abstract: Keynote 7 WPRN21 Conference
 picture: ''
 picture_copyright: ''
-yt: ''
+yt: iFabYJBx8ls
 highlight: false
 bibliography: ''
 
@@ -40,4 +40,4 @@ bibliography: ''
 
 Keynote 7 WPRN21 Conference
 
-<Youtube yt="XXXXX" caption ="Keynote 7"></Youtube>
+<Youtube yt="iFabYJBx8ls" caption ="Bennett Kleinberg: Emotional responses to the pandemic through the lens of text data"></Youtube>
