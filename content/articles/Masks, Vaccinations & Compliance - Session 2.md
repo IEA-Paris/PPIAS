@@ -126,7 +126,7 @@ abstract: 2nd Q&A session on the theme "Masks, Vaccinations and Compliance" base
   on 6 projects registered on WPRN database
 picture: ''
 picture_copyright: ''
-yt: ''
+yt: sdN3mZeQOgg
 highlight: false
 bibliography: ''
 category_2: ''
@@ -136,7 +136,7 @@ category_2: ''
 
 2nd Q&A session on the theme "Masks, Vaccinations and Compliance" based on 6 projects registered on the WPRN database.
 
-<Youtube yt="XXXXX"  caption ="Q&A session - Masks, Vaccinations & Compliance"></Youtube>
+<Youtube yt="sdN3mZeQOgg"  caption ="Q&A session - Masks, Vaccinations & Compliance"></Youtube>
 
 ### 1. [You See Me, You See Me Not–Masked Effects on An Environment Tangled in COVID-19](https://wprn.org/item/512752)
 
