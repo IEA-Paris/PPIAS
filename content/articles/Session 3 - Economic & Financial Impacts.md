@@ -112,7 +112,7 @@ abstract: 3rd Q&A on the theme " Economic and Financial Impacts " based on 5 pro
   registered on the WPRN database.
 picture: ''
 picture_copyright: ''
-yt: ''
+yt: rylGri1EtXY
 highlight: false
 bibliography: "/documents-exportes3.json"
 category_2: ''
@@ -122,7 +122,7 @@ category_2: ''
 
 This Q&A session "Economic and Financial Impacts" is based on 5 projects registered on WPRN database.
 
-<Youtube yt=XXXX" caption ="Q&A sessions - Economic & Financial Impacts"></Youtube>
+<Youtube yt="rylGri1EtXY" caption ="Q&A sessions - Economic & Financial Impacts"></Youtube>
 
 ### 1. [The Economic and Financial Repercussions of COVID-19](https://wprn.org/item/535752)
 
