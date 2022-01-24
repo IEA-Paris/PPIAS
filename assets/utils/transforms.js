@@ -52,7 +52,7 @@ export const formatDate = (timestamp, withTime) => {
 
   return formatedDate
 }
-export const formatAuthors = (authors = false, $t) => {
+export const formatAuthors = (authors = false, $t, full = false) => {
   const format = (author) => {
     return (
       author.lastname.replace(' ', '&nbsp;').trim() +
@@ -83,7 +83,7 @@ export const formatAuthors = (authors = false, $t) => {
       format(authors[1])
     )
   }
-  if (authors.length === 3) {
+  if (authors.length === 3 || full) {
     return authors.map((author) => format(author)).join(', ')
   }
   if (authors.length > 3) {

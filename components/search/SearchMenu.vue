@@ -57,18 +57,8 @@
             <v-list color="transparent">
               <template v-if="results.articles && results.articles.length">
                 <v-subheader class="pr-0">
-                  <v-tooltip bottom>
-                    <template #activator="{ on, attrs }">
-                      <v-icon v-bind="attrs" small v-on="on">
-                        mdi-help-circle
-                      </v-icon>
-                    </template>
-                    <span>{{
-                      $t(
-                        'the-article-search-is-based-on-their-text-title-and-authors-and-nbsp-lastname-or-institutions'
-                      )
-                    }}</span> </v-tooltip
-                  >&nbsp; {{ $t('articles') }} <v-spacer></v-spacer
+                  <ArticlesSearchHint></ArticlesSearchHint>&nbsp;
+                  {{ $t('articles') }} <v-spacer></v-spacer
                   ><v-btn
                     v-if="results.articlesCount > 3"
                     small
@@ -101,18 +91,8 @@
               <template v-if="results.media && results.media.length">
                 <v-divider></v-divider>
                 <v-subheader>
-                  <v-tooltip bottom>
-                    <template #activator="{ on, attrs }">
-                      <v-icon v-bind="attrs" small v-on="on">
-                        mdi-help-circle
-                      </v-icon>
-                    </template>
-                    <span>{{
-                      $t(
-                        'the-media-search-is-based-on-their-title-and-the-title-of-the-article-they-belong-to'
-                      )
-                    }}</span> </v-tooltip
-                  >&nbsp; {{ $t('media') }}<v-spacer></v-spacer
+                  <MediaSearchHint></MediaSearchHint> &nbsp; {{ $t('media')
+                  }}<v-spacer></v-spacer
                   ><v-btn
                     v-if="results.mediaCount > 3"
                     small
@@ -143,18 +123,8 @@
               <template v-if="results.authors && results.authors.length">
                 <v-divider></v-divider>
                 <v-subheader>
-                  <v-tooltip bottom>
-                    <template #activator="{ on, attrs }">
-                      <v-icon v-bind="attrs" small v-on="on">
-                        mdi-help-circle
-                      </v-icon>
-                    </template>
-                    <span>{{
-                      $t(
-                        'the-author-search-is-based-on-their-lastname-titles-or-institutions'
-                      )
-                    }}</span> </v-tooltip
-                  >&nbsp;{{ $t('authors') }}<v-spacer></v-spacer
+                  <AuthorsSearchHint></AuthorsSearchHint>&nbsp;{{ $t('authors')
+                  }}<v-spacer></v-spacer
                   ><v-btn
                     v-if="results.authorsCount > 3"
                     small
@@ -177,10 +147,10 @@
                     color="primary"
                     template
                   >
-                    <AuthorSearchItem
+                    <AuthorsSearchItem
                       :item="item"
                       @close="clear()"
-                    ></AuthorSearchItem>
+                    ></AuthorsSearchItem>
                   </v-list-item-group>
                 </template>
               </template>
@@ -199,10 +169,9 @@
   </v-dialog>
 </template>
 <script>
-import AuthorSearchItem from './AuthorSearchItem.vue'
 import searchContent from '~/assets/utils/searchContent'
+
 export default {
-  components: { AuthorSearchItem },
   props: {},
   data() {
     return {
@@ -221,6 +190,7 @@ export default {
       async set(newValue) {
         this.loading = true
         if (!newValue) {
+          console.log('pushin no new val')
           this.$router.push({
             query: { ...this.$route.query, search: undefined },
           })
@@ -259,12 +229,9 @@ export default {
   },
   methods: {
     focusSearch() {
-      console.log('focusSearch: ')
       // Focus the component, but we have to wait
       // so that it will be showing first.
       this.$nextTick(() => {
-        console.log('nextTick: ')
-        console.log('this.$refs?.searchInput: ', this.$refs?.searchInput)
         this.$refs?.searchInput?.focus()
       })
     },
@@ -276,8 +243,8 @@ export default {
     onIntersect(entries, observer) {
       // More information about these options
       // is located here: https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
-      if (!this.shouldFocus && entries[0].isIntersecting) {
-        this.shouldFocus = entries[0].isIntersecting
+      this.shouldFocus = entries[0].isIntersecting
+      if (this.shouldFocus) {
         this.$refs?.searchInput?.focus()
       }
     },

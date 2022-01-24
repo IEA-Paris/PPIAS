@@ -82,6 +82,14 @@
                         total: numberOfPages,
                       })
                     }}
+                    <component
+                      :is="
+                        type.charAt(0).toUpperCase() +
+                        type.slice(1) +
+                        'SearchHint'
+                      "
+                      outline
+                    ></component>
                   </div>
                   <v-text-field
                     v-model="search"
@@ -96,7 +104,7 @@
                     :disabled="$nuxt.loading"
                     clearable
                     style="min-width: 150px"
-                    @click:clear="search = null"
+                    @click:clear.once="search = false"
                   >
                     <template v-if="!search" #label>
                       <div class="searchLabel">{{ $t('search') }}</div>
@@ -162,7 +170,7 @@
                   color="white"
                   class="ma-3"
                   @click="
-                    $router.push({ query: {} })
+                    $router.push({ query: undefined })
                     updatePage(1)
                   "
                 >
@@ -198,7 +206,7 @@
 
                 <v-spacer></v-spacer>
 
-                <div v-if="numberOfPages > 1" class="text-center">
+                <div v-if="numberOfPages > 1">
                   <v-pagination
                     total-visible="5"
                     :v-model="options.page"
@@ -236,14 +244,13 @@
         <div class="overline">
           <v-icon x-small>mdi-filter</v-icon>
           {{ $t('filters') }}
-          <Filters :type="type" :loading="loading" />
+          <Filters :type="type" :loading="$nuxt.loading" />
         </div>
       </v-col>
     </v-row>
   </div>
 </template>
 <script>
-import debounce from '~/assets/utils/debounce'
 import getContent from '~/assets/utils/getContent'
 export default {
   props: {
@@ -299,16 +306,15 @@ export default {
       numberOfPages: 0,
       total: 0,
       items: [],
-      loading: false,
       rawSearch: this.$route?.query?.search || '',
     }
   },
   async fetch() {
+    console.log('fetch')
+    console.log(typeof this.$route.query.search)
     // TODO: FIX/INVEsTIGUATE> looks like mobile is not detected correctly
-    if (!this.$route.query.search) {
-      this.search = null
-    } else if (!this.loading) {
-      this.loading = true
+
+    if (!this.$nuxt.loading) {
       const rst = await getContent(
         this.type,
         this.$content,
@@ -318,7 +324,6 @@ export default {
         this.mobile,
         this.options.itemsPerPage
       )
-      console.log('rst: ', rst)
       if (rst) {
         this.total = rst.total
         this.numberOfPages = rst.numberOfPages
@@ -330,7 +335,6 @@ export default {
         this.pinnedItem = false
         this.items = []
       }
-      this.loading = false
     }
   },
   computed: {
@@ -339,10 +343,16 @@ export default {
         return this.rawSearch
       },
       set(value) {
-        this.$router.replace({
-          query: { ...this.$route.query, search: value },
-        })
-        this.rawSearch = value
+        if (value) {
+          this.$router.replace({
+            query: { ...this.$route.query, search: value },
+          })
+          this.rawSearch = value
+        } else {
+          this.$router.replace({
+            query: { ...this.$route.query, search: undefined },
+          })
+        }
       },
     },
   },
@@ -351,7 +361,9 @@ export default {
     'options.itemsPerPage': '$fetch',
   },
   watchQuery: true,
-  mounted() {},
+  mounted() {
+    this.$fetch()
+  },
   updated() {},
   methods: {
     async updatePage(page) {
@@ -379,6 +391,7 @@ export default {
   outline: 1px dotted ButtonText;
 }
 .perPageSelect {
+  max-width: 90px;
   margin-top: 0;
   padding-top: 0;
 }
