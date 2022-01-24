@@ -3,9 +3,9 @@ category_1: content/categories/WPRN21.md
 category_2: []
 issue: content/issues/10-12-2021.md
 keywords: []
-date: 2021-12-09T14:30:47Z
+date: 2021-12-09T14:30:47.000+00:00
 language: English
-published: false
+published: true
 article_title: The impact of COVID on SMEs in China based on multiple rounds of surveys
   before and after the shock
 authors:
@@ -30,7 +30,7 @@ authors:
 abstract: Keynote 2 WPRN21 Conference
 picture: ''
 picture_copyright: ''
-yt: ''
+yt: b0ifnRXmwag
 highlight: false
 bibliography: ''
 
@@ -39,4 +39,4 @@ bibliography: ''
 
 Keynote 2 WPRN21 Conference
 
-<Youtube yt="XXXXX" caption ="Keynote 2"></Youtube>
+<Youtube yt="b0ifnRXmwag" caption ="Xiaobo Zhang: The impact of COVID on SMEs in China based on multiple rounds"></Youtube>
