@@ -131,7 +131,7 @@ abstract: 4th Q&A session on the theme "Education & Marginalised Communities " b
   on 6 projects registered on WPRN database
 picture: ''
 picture_copyright: ''
-yt: ''
+yt: nskJV6c0vEU
 highlight: false
 bibliography: ''
 category_2: ''
@@ -141,7 +141,7 @@ category_2: ''
 
 4th Q&A session on the theme "Education and Marginalised Communities" based on 6 projects registered on the WPRN database.
 
-<Youtube yt="XXXX" caption ="Q&A session - Education & Marginalised Communities"></Youtube>
+<Youtube yt="nskJV6c0vEU" caption ="Q&A session - Education & Marginalised Communities"></Youtube>
 
 ### 1. [The impact on Primary Science of the UK’s C-19 school closures](https://wprn.org/item/537352)
 

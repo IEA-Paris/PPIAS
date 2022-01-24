@@ -3,9 +3,9 @@ category_1: content/categories/WPRN21.md
 category_2: []
 issue: content/issues/10-12-2021.md
 keywords: []
-date: 2021-12-09T09:00:24Z
+date: 2021-12-09T09:00:24.000+00:00
 language: English
-published: false
+published: true
 article_title: 'Economic epidemiology put to the test of the Covid-19 crisis: some
   emerging ideas and approaches'
 authors:
@@ -32,7 +32,7 @@ authors:
 abstract: Keynote 1 WPRN21 Conference
 picture: ''
 picture_copyright: ''
-yt: ''
+yt: EtpubPswH2M
 highlight: false
 bibliography: ''
 
@@ -41,4 +41,4 @@ bibliography: ''
 
 Keynote 1 WPRN21 Conference
 
-<Youtube yt="xxxxxx" caption ="Keynote 1"></Youtube>
+<Youtube yt="EtpubPswH2M" caption ="Raouf Boucekkine: Economic epidemiology put to the test of the Covid-19 crisis"></Youtube>

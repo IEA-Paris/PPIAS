@@ -3,9 +3,9 @@ category_1: content/categories/WPRN21.md
 category_2: []
 issue: content/issues/10-12-2021.md
 keywords: []
-date: 2021-12-09T16:00:04Z
+date: 2021-12-09T16:00:04.000+00:00
 language: English
-published: false
+published: true
 article_title: 'Social Cohesion, Inequality, and the Pandemic: Lessons from Brazil'
 authors:
 - firstname: 'Elisa '
@@ -29,7 +29,7 @@ authors:
 abstract: Keynote 5 WPRN21 Conference
 picture: ''
 picture_copyright: ''
-yt: ''
+yt: DlM3vzlQ37Y
 highlight: false
 bibliography: ''
 
@@ -38,4 +38,4 @@ bibliography: ''
 
 Keynote 5 WPRN21 Conference
 
-<Youtube yt="XXXXX" caption ="Keynote 5"></Youtube>
+<Youtube yt="DlM3vzlQ37Y" caption ="Elisa Reis: Social Cohesion, Inequality, and the Pandemic: Lessons from Brazil"></Youtube>

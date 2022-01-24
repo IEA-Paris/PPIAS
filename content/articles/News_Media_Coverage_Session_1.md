@@ -91,7 +91,7 @@ abstract: First Q&A session on the theme " News & Media Coverage " based on 4 pr
   registered on the WPRN database.
 picture: ''
 picture_copyright: ''
-yt: ''
+yt: YQ3cIqOOn_g
 highlight: false
 bibliography: ''
 
@@ -100,7 +100,7 @@ bibliography: ''
 
 This first Q&A session is based on 4 projects registered on the WPRN database.
 
-<Youtube yt="xxxxx" caption ="Q&A session News & Media Coverage"></Youtube>
+<Youtube yt="YQ3cIqOOn_g" caption ="Q&A session News & Media Coverage"></Youtube>
 
 ### 1. [Covid#Migrants: Tweeting on Migrants in the Covid-19 Context](https://wprn.org/item/415352)
 

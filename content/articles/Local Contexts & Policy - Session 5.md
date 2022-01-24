@@ -158,7 +158,7 @@ abstract: 5th Q&A session on the theme "Local Contexts and Policy " based on 8 p
   registered on the WPRN database
 picture: ''
 picture_copyright: ''
-yt: ''
+yt: 5cyz4IOmbAs
 highlight: false
 bibliography: ''
 
@@ -167,7 +167,7 @@ bibliography: ''
 
 This Q&A session on the theme "Local Contexts and Policy " is based on 8 projects registered on the WPRN database.
 
-<Youtube yt="XXXX" caption ="Q&A session - Local Contexts and Policy "></Youtube>
+<Youtube yt="5cyz4IOmbAs" caption ="Q&A session - Local Contexts and Policy "></Youtube>
 
 ### 1. [Factors Influencing Asia Pacific Countries’ Success Level in Curbing COVID 19](https://wprn.org/item/406852)
 

@@ -3,9 +3,9 @@ category_1: content/categories/WPRN21.md
 category_2: []
 issue: content/issues/10-12-2021.md
 keywords: []
-date: 2021-12-10T10:00:40Z
+date: 2021-12-10T10:00:40.000+00:00
 language: English
-published: false
+published: true
 article_title: Trading off lives and livelihoods in an ethical way, considering the
   apparent clash of interests between generations
 authors:
@@ -30,7 +30,7 @@ authors:
 abstract: Keynote 6 WPRN21 Conference
 picture: ''
 picture_copyright: ''
-yt: ''
+yt: ST40fXLMsv4
 highlight: false
 bibliography: ''
 
@@ -39,4 +39,4 @@ bibliography: ''
 
 Keynote 6 WPRN21 Conference
 
-<Youtube yt="XXXXX" caption ="Keynote 6"></Youtube>
+<Youtube yt="ST40fXLMsv4" caption ="Marc Fleurbaey: Trading off lives and livelihoods in an ethical way"></Youtube>
