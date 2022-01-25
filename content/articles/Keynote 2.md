@@ -2,7 +2,14 @@
 category_1: content/categories/WPRN21.md
 category_2: []
 issue: content/issues/10-12-2021.md
-keywords: []
+keywords:
+- " Macroeconomics"
+- Small business
+- 'Firms, Markets, Finance '
+- 'Quantitative survey '
+- 'Public Health '
+- Innovation, R&D
+- 'Work, Welfare, Social protection '
 date: 2021-12-09T14:30:47.000+00:00
 language: English
 published: true
@@ -27,16 +34,17 @@ authors:
   picture: ''
   picture_copyright: ''
   reference: ''
-abstract: Keynote 2 WPRN21 Conference
+abstract: Keynote  presentation by Xiaobo Zhang during the WPRN21 conference in Paris
+  on December 9th 2021
 picture: ''
 picture_copyright: ''
 yt: b0ifnRXmwag
 highlight: false
-bibliography: ''
+bibliography: "/documents-exportes_keynote2.bib"
 
 ---
 ## The impact of COVID on SMEs in China based on multiple rounds of surveys before and after the shock
 
-Keynote 2 WPRN21 Conference
+Keynote presentation by Xiaobo Zhang during the WPRN21 conference in Paris on December 9th 2021
 
 <Youtube yt="b0ifnRXmwag" caption ="Xiaobo Zhang: The impact of COVID on SMEs in China based on multiple rounds"></Youtube>
