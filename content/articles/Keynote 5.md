@@ -26,7 +26,8 @@ authors:
   picture: ''
   picture_copyright: ''
   reference: ''
-abstract: Keynote 5 WPRN21 Conference
+abstract: Keynote  presentation by Elisa Reis during the WPRN21 conference in Paris
+  on December 9th 2021
 picture: ''
 picture_copyright: ''
 yt: DlM3vzlQ37Y
@@ -36,6 +37,6 @@ bibliography: ''
 ---
 ## Social Cohesion, Inequality, and the Pandemic: Lessons from Brazil
 
-Keynote 5 WPRN21 Conference
+Keynote  presentation by Elisa Reis during the WPRN21 conference in Paris on December 9th 2021
 
 <Youtube yt="DlM3vzlQ37Y" caption ="Elisa Reis: Social Cohesion, Inequality, and the Pandemic: Lessons from Brazil"></Youtube>
