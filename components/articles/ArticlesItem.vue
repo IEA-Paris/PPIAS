@@ -9,13 +9,56 @@
     nuxt
     :to="localePath('/articles/' + item.slug)"
   >
-    <TextFingerprint
-      v-if="!(item.yt || item.image)"
+    <YoutubeThumbnail v-if="item.yt && item.yt.length" :item="item">
+      <template #categories>
+        <ArticleCategories :item="item" />
+      </template>
+      <template #caption>
+        {{ item.article_title }}
+      </template>
+      <template #author>
+        <ArticleAuthorsString :authors="item.authors" />
+        <v-sheet :color="item.category_1.color" class="underline"></v-sheet>
+      </template>
+      <template #date>
+        <div class="d-flex">
+          <v-sheet :color="item.category_1.color" class="sideline"></v-sheet>
+          {{
+            new Date(item.date).toLocaleDateString('EN', {
+              timezone: 'UTC',
+            })
+          }}
+        </div>
+      </template>
+    </YoutubeThumbnail>
+    <PictureItem
+      v-else-if="item.picture && item.picture.length"
       :item="item"
       :size="size"
-      :margin="10"
-      :src="item.image"
+      :src="item.picture"
     >
+      <template #categories>
+        <ArticleCategories :item="item" />
+      </template>
+      <template #caption>
+        {{ item.article_title }}
+      </template>
+      <template #author>
+        <ArticleAuthorsString :authors="item.authors" />
+        <v-sheet :color="item.category_1.color" class="underline"></v-sheet>
+      </template>
+      <template #date>
+        <div class="d-flex">
+          <v-sheet :color="item.category_1.color" class="sideline"></v-sheet>
+          {{
+            new Date(item.date).toLocaleDateString('EN', {
+              timezone: 'UTC',
+            })
+          }}
+        </div>
+      </template></PictureItem
+    >
+    <TextFingerprint v-else :item="item" :size="size" :margin="10">
       <template #categories>
         <ArticleCategories :item="item" />
       </template>
@@ -45,28 +88,6 @@
         </div>
       </template>
     </TextFingerprint>
-    <YoutubeThumbnail v-if="item.yt && item.yt.length" :item="item">
-      <template #categories>
-        <ArticleCategories :item="item" />
-      </template>
-      <template #caption>
-        {{ item.article_title }}
-      </template>
-      <template #author>
-        <ArticleAuthorsString :authors="item.authors" />
-        <v-sheet :color="item.category_1.color" class="underline"></v-sheet>
-      </template>
-      <template #date>
-        <div class="d-flex">
-          <v-sheet :color="item.category_1.color" class="sideline"></v-sheet>
-          {{
-            new Date(item.date).toLocaleDateString('EN', {
-              timezone: 'UTC',
-            })
-          }}
-        </div>
-      </template>
-    </YoutubeThumbnail>
   </v-card>
 </template>
 <script>
@@ -93,7 +114,9 @@ export default {
       }
     },
   },
-  created() {},
+  created() {
+    console.log('item', this.item.article_title)
+  },
   mounted() {},
   methods: {
     resizeItem() {
@@ -101,7 +124,6 @@ export default {
       const height = this.$refs?.articleBox?.$el.clientHeight
       const smallest = Math.min(...[width, height]) || 250
       return Math.min(...[smallest - 10, 400])
-
       /*    this.$set(this.$refs.articleBox, 'width', widthString) */
     },
   },

@@ -1,4 +1,6 @@
 export default (document) => {
+  const chalk = require('chalk')
+
   const getCount = (item, count = 0, type) => {
     item.children &&
       item.children.forEach((element) => {
@@ -28,6 +30,7 @@ export default (document) => {
     })
     document.countMap = countMap
     document.countRefs = countRefs
+    console.log(`${chalk.green('✔')}  Generated stats for ${document.slug}`)
     return document
   }
   return document

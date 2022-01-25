@@ -1,6 +1,5 @@
-import getDOI from './getDOI'
-
 export default (document, database) => {
+  const chalk = require('chalk')
   if (document.dir.startsWith('/articles') && document.published) {
     // let's make the DOI if it is not available
     // TODO move elsewhere and include it to the author document backling rewrite
@@ -114,6 +113,7 @@ export default (document, database) => {
     })
     // replace legacy toc
     document.toc = toc2
+    console.log(`${chalk.green('✔')}  Formatted article ${document.slug}`)
     return document
   }
   return document

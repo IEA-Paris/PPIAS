@@ -7,18 +7,17 @@
       hide-details
       :dense="$vuetify.breakpoint.smAndDown"
       :disabled="loading"
-      :items="filter.items && filter.items.map((item) => $t(item))"
+      :items="filter.items().map((item) => $t(item))"
       clearable
       :label="$t(name.replace(/([a-z])([A-Z])/g, '$1-$2').toLowerCase())"
       outlined
-      :item="name"
       :type="type"
       style="min-width: 150px"
     />
   </div>
 </template>
 <script>
-import data from '~/assets/data/lists'
+import data from '~/assets/generated/filters'
 export default {
   props: {
     type: {

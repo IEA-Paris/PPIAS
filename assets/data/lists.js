@@ -1,10 +1,13 @@
 export default {
   articles: {
     filter: {
-      search: {
-        type: 'TextField',
+      year: {
+        type: 'Select',
         rules: {},
-        label: 'Search',
+        label: 'year',
+        items: (articles) => {
+          return articles.map((article) => new Date(article.date).getFullYear())
+        },
       } /* 
       categories: {
         type: 'TextInput',

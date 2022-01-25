@@ -1,37 +1,11 @@
 <template>
-  <div class="frame">
-    <div class="overlay">
-      <div class="top">
-        <div class="d-flex">
-          <template v-for="(tag, index) in tags">
-            <v-chip :key="index" :color="tag.color" label>
-              {{ $t(tag.text) }}
-            </v-chip>
-          </template>
-        </div>
-        <span id="caption-content">
-          <slot name="caption"></slot>
-          <br />
-        </span>
-        <span id="caption-author">
-          <slot name="author"></slot>
-        </span>
-      </div>
-      <div v-if="tags.find((tag) => tag.text === 'event')" class="bottom">
-        <span id="caption-date">
-          <slot name="date"></slot>
-        </span>
-      </div>
-    </div>
-    <v-img
-      :aspect-ratio="ratio"
-      :lazy-src="$img(src, { width: 10, quality: 70 })"
-      :src="$img(src, { height, quality: 70 })"
-      :srcset="_srcset.srcset"
-      :sizes="_srcset.size"
-      :class="{ expanded: expanded }"
-    ></v-img>
-  </div>
+  <v-img
+    :aspect-ratio="ratio"
+    :lazy-src="$img(src, { width: 10, quality: 70 })"
+    :src="$img(src, { height, quality: 70 })"
+    :srcset="_srcset.srcset"
+    :sizes="_srcset.size"
+  ></v-img>
 </template>
 <script>
 export default {
@@ -41,14 +15,6 @@ export default {
     src: {
       type: String,
       default: '/img/header-bg.jpg',
-    },
-    tags: {
-      type: Array,
-      required: true,
-    },
-    expanded: {
-      type: Boolean,
-      default: false,
     },
   },
   computed: {

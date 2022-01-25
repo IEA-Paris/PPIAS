@@ -1,6 +1,7 @@
 ---
 articles:
   - Emotions and Coping During Crisis - Session 6
+  - Keynote 7
 createdAt: '2022-01-14T16:39:17.956Z'
 firstname: Bennett
 lastname: ' Kleinberg '
@@ -8,12 +9,12 @@ picture: ''
 picture_copyright: ''
 reference: ''
 social_channels:
-  google_scholar: ''
+  google_scholar: https://scholar.google.nl/citations?user=Ms2d7OsAAAAJ&hl=en
   instagram: ''
-  linkedin: ''
+  linkedin: https://nl.linkedin.com/in/barkleinberg
   mendeley: ''
-  orcid_id: ''
-  researchgate: ''
+  orcid_id: '0000-0003-1658-9086 '
+  researchgate: https://www.researchgate.net/profile/Bennett-Kleinberg
   twitter: ''
   website: ''
   wikipedia: ''

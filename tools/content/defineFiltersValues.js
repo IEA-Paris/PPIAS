@@ -3,4 +3,6 @@
 // Tags
 // language
 
-export default async () => {}
+export default async () => {
+  const chalk = require('chalk')
+}

@@ -2,8 +2,9 @@
   <v-select
     v-model="selected"
     v-bind="$attrs"
+    multiple
     menu-props="offset-y"
-    :loading="loading"
+    :loading="$nuxt.loading"
     single-line
     @click:clear="$emit('clear')"
   ></v-select>

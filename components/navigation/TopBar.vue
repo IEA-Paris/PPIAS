@@ -1,5 +1,12 @@
 <template>
-  <v-toolbar id="main-app-bar" color="white" clipped flat height="140">
+  <v-toolbar
+    id="main-app-bar"
+    color="white"
+    clipped
+    flat
+    height="140"
+    :class="{ loading: !$nuxt.loading }"
+  >
     <div class="d-flex flex-grow-1 justify-space-between">
       <Logo color="#FFF" class="" />
       <!-- <LanguageSwitcher /> -->
@@ -40,11 +47,15 @@ export default {
 </script>
 <style lang="scss">
 #main-app-bar {
-  border-top: solid 0.8rem #000 !important;
   padding-bottom: 2.5rem;
   margin-bottom: 2rem;
 }
-
+#main-app-bar.loading {
+  padding-top: 0.8rem !important;
+}
+#main-app-bar:not(.loading) {
+  border-top: solid 0.8rem #000 !important;
+}
 #main-app-bar.v-app-bar--is-scrolled {
   border-top: solid 0.4rem #000 !important;
 }

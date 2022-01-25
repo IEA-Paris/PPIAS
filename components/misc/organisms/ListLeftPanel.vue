@@ -104,7 +104,6 @@
                     :disabled="$nuxt.loading"
                     clearable
                     style="min-width: 150px"
-                    @click:clear.once="search = false"
                   >
                     <template v-if="!search" #label>
                       <div class="searchLabel">{{ $t('search') }}</div>

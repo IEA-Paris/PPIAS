@@ -4,6 +4,8 @@ import {
   mergeDeep,
   insertDocuments,
   writePrintRoutes,
+  makeFiltersData,
+  includeCategories,
 } from '../lib/contentUtilities'
 const filterAndMerge = (first, second) => {
   first = first.filter((author) => {
@@ -69,6 +71,7 @@ const filterAndMerge = (first, second) => {
 }
 
 export default async (content) => {
+  const chalk = require('chalk')
   const { $content } = require('@nuxt/content')
 
   // fetch all authors documents
@@ -81,6 +84,7 @@ export default async (content) => {
     .fetch()
   // we use this opportunity to get the dynamic routes for pdf-printing all the articles
   writePrintRoutes(articles)
+
   // extract the authors from articles with backlink
   let articleAuthors = articles
     .map((article) =>
@@ -120,6 +124,13 @@ export default async (content) => {
         }),
     }
   })
+
+  // we use this opportunity to extract all the filters data so that it is not computed on run time
+  makeFiltersData(articles)
+  console.log(`${chalk.green('✔')}  Generated filters data`)
+
   insertDocuments(authorsDocs, 'authors', 'lastname')
+  console.log(`${chalk.green('✔')}  Inserted new author documents`)
+
   return true
 }

@@ -56,6 +56,53 @@ export const mergeDeep = (...objects) => {
     return prev
   }, {})
 }
+export const makeFiltersData = (articles, authors) => {
+  const filters = {}
+  // year filter
+  filters.years = articles.map((article) =>
+    new Date(article.date).getFullYear()
+  )
+  /* Too much items to expect - also covered by FTS
+  // author filters
+  filters.authors = articles.map((article) =>
+    articles.map(
+      (article) => article?.authors.map((author) => author.lastname) || []
+    )
+  )
+  // institution filters
+  filters.authors = articles.map((article) =>
+    articles.map(
+      (article) =>
+        article?.authors.map((author) =>
+          author.titles_and_institutions.map((item) => item.institution)
+        ) || []
+    )
+  ) */
+  // language filters
+  filters.lang = articles.map((article) => article.lang)
+
+  // Keyword filters
+  filters.tags = articles.map((article) => article.tags)
+
+  // category filters
+  filters.category = articles.map((article) => [
+    ...(article.category1 ? [article.category_1] : []),
+    ...(article.category2 ? [article.category_2] : []),
+  ])
+  fs.writeFileSync(
+    './assets/generated/filters.js',
+    `
+const filters = ${JSON.stringify(filters)}
+export default {
+  articles: filters,
+  media: filters,
+  authors: {
+    year: filters.year,
+    lang: filters.lang
+  }
+}`
+  )
+}
 
 export const writePrintRoutes = (articles) => {
   /*   // first, we clean existing files
