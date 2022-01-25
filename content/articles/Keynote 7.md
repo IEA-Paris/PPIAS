@@ -28,7 +28,8 @@ authors:
   picture: ''
   picture_copyright: ''
   reference: ''
-abstract: Keynote 7 WPRN21 Conference
+abstract: Keynote  presentation by Bennett Kleinberg during the WPRN21 conference
+  in Paris on December 10th 2021
 picture: ''
 picture_copyright: ''
 yt: iFabYJBx8ls
@@ -38,6 +39,6 @@ bibliography: ''
 ---
 ## Emotional responses to the pandemic through the lens of text data
 
-Keynote 7 WPRN21 Conference
+Keynote  presentation by Bennett Kleinberg during the WPRN21 conference in Paris on December 10th 2021
 
 <Youtube yt="iFabYJBx8ls" caption ="Bennett Kleinberg: Emotional responses to the pandemic through the lens of text data"></Youtube>
