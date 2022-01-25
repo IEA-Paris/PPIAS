@@ -3,7 +3,7 @@ category_1: content/categories/WPRN21.md
 category_2: []
 issue: content/issues/10-12-2021.md
 keywords: []
-date: 2021-12-10T14:00:13Z
+date: 2021-12-10T14:00:13.000+00:00
 language: English
 published: true
 article_title: In Science We Should Trust (controlling for the Social Desirability
@@ -45,16 +45,17 @@ authors:
   picture: ''
   picture_copyright: ''
   reference: ''
-abstract: Keynote 8 WPRN21 Conference
+abstract: Keynote  presentation by Enrique Fatas and Paulius Yamin during the WPRN21
+  conference in Paris on December 10th 2021
 picture: ''
 picture_copyright: ''
-yt: ''
+yt: IxE1RFZSJZk
 highlight: false
 bibliography: "/documents-exportes4.json"
 
 ---
 ## In Science We Should Trust (controlling for the Social Desirability Bias)
 
-Keynote 8 WPRN21 Conference
+Keynote  presentation by Enrique Fatas and Paulius Yamin during the WPRN21 conference in Paris on December 10th 2021
 
-<Youtube yt="XXXXX" caption ="Keynote 8"></Youtube>
+<Youtube yt="IxE1RFZSJZk" caption ="Keynote 8 : In Science We Should Trust (controlling for the Social Desirability Bias) by Enrique Fatas"></Youtube>
