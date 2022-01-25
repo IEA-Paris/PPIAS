@@ -211,7 +211,7 @@ abstract: 6th Q&A session on the theme "Emotions and Coping During Crisis  " bas
   on 10 projects registered on the WPRN database
 picture: ''
 picture_copyright: ''
-yt: ''
+yt: gG_XMS4xThY
 highlight: false
 bibliography: ''
 
@@ -220,7 +220,7 @@ bibliography: ''
 
 This Q&A session on the theme "Local Contexts and PolicyEmotions " is based on 10 projects registered on the WPRN database
 
-<Youtube yt="XXXX" caption="Q&A session - Emotions and Coping During Crisis"></Youtube>
+<Youtube yt="gG_XMS4xThY" caption="Q&A session - Emotions and Coping During Crisis"></Youtube>
 
 ### 1. [Humor Styles Predict Emotional and Behavioral Responses to COVID-19](https://wprn.org/item/535052)
 
