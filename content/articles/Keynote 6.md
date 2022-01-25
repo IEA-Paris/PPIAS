@@ -27,7 +27,8 @@ authors:
   picture: ''
   picture_copyright: ''
   reference: ''
-abstract: Keynote 6 WPRN21 Conference
+abstract: Keynote  presentation by Marc Fleurbaey during the WPRN21 conference in
+  Paris on December 10th 2021
 picture: ''
 picture_copyright: ''
 yt: ST40fXLMsv4
@@ -37,6 +38,6 @@ bibliography: ''
 ---
 ## Trading off lives and livelihoods in an ethical way, considering the apparent clash of interests between generations
 
-Keynote 6 WPRN21 Conference
+Keynote  presentation by Marc Fleurbaey during the WPRN21 conference in Paris on December 10th 2021
 
 <Youtube yt="ST40fXLMsv4" caption ="Marc Fleurbaey: Trading off lives and livelihoods in an ethical way"></Youtube>
