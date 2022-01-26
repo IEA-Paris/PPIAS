@@ -1,6 +1,6 @@
 export default async (document) => {
   /*        */
-  if (document.slug === 'Covid_19_and_employment') {
+  /* if (document.slug === 'Covid_19_and_employment') {
     const Zenodo = require('../lib/ZenodoConnector')
     const zenodo = new Zenodo({
       host: 'sandbox.zenodo.org',
@@ -66,9 +66,10 @@ export default async (document) => {
     }
     /*
          if (document.extension === '.md') { */
-    // we assume it is markdown
-    // make DOI only if the document is published & has no DOI yet & needs a DOI
-    /*    if (document.published && !document.DOI && document.needDOI) { */
+  // we assume it is markdown
+  // make DOI only if the document is published & has no DOI yet & needs a DOI
+  /*    if (document.published && !document.DOI && document.needDOI) { 
     return document
-  }
+  } */
+  return document
 }
