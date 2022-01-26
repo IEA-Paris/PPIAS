@@ -147,10 +147,10 @@
                     color="primary"
                     template
                   >
-                    <AuthorsSearchItem
+                    <AuthorSearchItem
                       :item="item"
                       @close="clear()"
-                    ></AuthorsSearchItem>
+                    ></AuthorSearchItem>
                   </v-list-item-group>
                 </template>
               </template>

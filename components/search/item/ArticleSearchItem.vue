@@ -5,15 +5,18 @@
     class="pl-0"
     @click="$emit('close')"
   >
-    <v-list-item-icon class="graphIcon">
-      <TextFingerprint
-        v-if="!(item.yt || item.image)"
+    <v-list-item-avatar tile :class="{ graphIcon: !(item.yt || item.picture) }">
+      <YoutubeThumbnail v-if="item.yt && item.yt.length" :item="item">
+      </YoutubeThumbnail>
+      <PictureItem
+        v-else-if="item.picture && item.picture.length"
         :item="item"
-        :size="200"
-        :margin="20"
+        :src="item.picture"
       >
+      </PictureItem>
+      <TextFingerprint v-else :item="item" :size="100" :margin="20">
       </TextFingerprint>
-    </v-list-item-icon>
+    </v-list-item-avatar>
     <v-list-item-content>
       <v-list-item-title>
         {{ item.article_title }}
@@ -44,6 +47,6 @@ export default {
 .graphIcon {
   display: flex;
   max-width: 90px;
-  margin: 0 !important;
+  background-color: black;
 }
 </style>

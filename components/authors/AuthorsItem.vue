@@ -26,6 +26,10 @@ export default {
       type: Number,
       default: 0,
     },
+    extended: {
+      type: Boolean,
+      default: false,
+    },
   },
   data() {
     return {}

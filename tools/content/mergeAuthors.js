@@ -79,7 +79,17 @@ export default async (content) => {
   // and all the authors defined in the articles frontmatter
   const articles = await $content('articles', { deep: true })
     .where({ published: true })
-    .only(['slug', 'path', 'authors', 'article_title'])
+    .only([
+      'slug',
+      'path',
+      'authors',
+      'language',
+      'article_title',
+      'date',
+      'tags',
+      'category_1',
+      'category_2',
+    ])
     .fetch()
   // we use this opportunity to get the dynamic routes for pdf-printing all the articles
   writePrintRoutes(articles)

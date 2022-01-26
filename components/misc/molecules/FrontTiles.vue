@@ -21,8 +21,7 @@
     >
       <v-col
         cols="12"
-        :sm="filter ? 12 : 6"
-        md="6"
+        :md="filter ? 12 : 6"
         lg="8"
         xl="6"
         :class="{ 'pt-1 pr-1': !$store.state.scrolled }"
@@ -44,7 +43,7 @@
           :scroll="$store.state.scrolled"
         ></component>
       </v-col>
-      <v-col cols="12" :sm="filter ? 12 : 6" md="6" lg="4" xl="6" class="">
+      <v-col cols="12" :md="filter ? 12 : 6" lg="4" xl="6" class="">
         <v-row :no-gutters="!$store.state.scrolled">
           <v-col
             cols="12"

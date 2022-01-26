@@ -1,4 +1,4 @@
-export default async (document) => {
+export default /* async */ (document) => {
   /*        */
   /* if (document.slug === 'Covid_19_and_employment') {
     const Zenodo = require('../lib/ZenodoConnector')

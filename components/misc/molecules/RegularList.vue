@@ -6,7 +6,8 @@
     :class="{ 'py-0': !$store.state.scrolled, 'pl-0': filter }"
   >
     <v-row
-      class="transition-swing justify-center"
+      v-bind="$attrs"
+      class="transition-swing"
       :no-gutters="!$store.state.scrolled"
       :class="[
         $store.state.scrolled
@@ -17,12 +18,12 @@
       ]"
     >
       <template v-if="$vuetify.breakpoint.mdAndUp">
-        <v-col cols="12" sm="6" md="5" lg="4" class="transition-swing">
+        <v-col cols="12" sm="6" lg="4" class="transition-swing">
           <component
             :is="type.charAt(0).toUpperCase() + type.slice(1) + 'Item'"
             v-for="(item, index) in data.items.filter(
               (item, index) =>
-                !!($vuetify.breakpoint.lgAndUp ? index % 3 === 0 : !(index % 2))
+                !!($vuetify.breakpoint.mdAndUp ? index % 3 === 0 : !(index % 2))
             )"
             :key="index"
             :index="index"
@@ -30,12 +31,12 @@
             :scroll="$store.state.scrolled"
           ></component>
         </v-col>
-        <v-col cols="12" sm="6" md="5" lg="4" class="transition-swing">
+        <v-col cols="12" sm="6" lg="4" class="transition-swing">
           <component
             :is="type.charAt(0).toUpperCase() + type.slice(1) + 'Item'"
             v-for="(item, index) in data.items.filter(
               (item, index) =>
-                !!($vuetify.breakpoint.lgAndUp
+                !!($vuetify.breakpoint.mdAndUp
                   ? (index - 1) % 3 === 0
                   : index % 2)
             )"
@@ -46,10 +47,9 @@
           ></component>
         </v-col>
         <v-col
-          v-if="$vuetify.breakpoint.lgAndUp"
+          v-if="$vuetify.breakpoint.mdAndUp"
           cols="12"
           sm="6"
-          md="5"
           lg="4"
           class="transition-swing"
         >

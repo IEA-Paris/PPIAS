@@ -40,6 +40,7 @@ module.exports = {
     'prettier',
     'jest',
   ],
+  ignorePatterns: ['./assets/generated'],
   // add your custom rules here
   rules: {
     'vue/component-name-in-template-casing': ['error', 'PascalCase'],

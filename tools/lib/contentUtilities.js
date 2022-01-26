@@ -57,11 +57,13 @@ export const mergeDeep = (...objects) => {
   }, {})
 }
 export const makeFiltersData = (articles, authors) => {
+  console.log('articles: ', articles)
   const filters = {}
+
   // year filter
-  filters.years = articles.map((article) =>
-    new Date(article.date).getFullYear()
-  )
+  filters.years = [
+    ...new Set(articles.map((article) => article.date.substring(0, 4))),
+  ].filter((item) => !(item === null || item === ''))
   /* Too much items to expect - also covered by FTS
   // author filters
   filters.authors = articles.map((article) =>
@@ -79,19 +81,30 @@ export const makeFiltersData = (articles, authors) => {
     )
   ) */
   // language filters
-  filters.lang = articles.map((article) => article.lang)
+  filters.language = [
+    ...new Set(articles.map((article) => article.language)),
+  ].filter((item) => !(item === null || item === ''))
 
   // Keyword filters
-  filters.tags = articles.map((article) => article.tags)
+  filters.tags = [
+    ...new Set(articles.map((article) => article.tags).flat()),
+  ].filter((item) => item)
 
   // category filters
-  filters.category = articles.map((article) => [
-    ...(article.category1 ? [article.category_1] : []),
-    ...(article.category2 ? [article.category_2] : []),
-  ])
+  filters.category = [
+    ...new Set(
+      articles
+        .map((article) => [
+          ...(article.category_1 ? [article.category_1] : []),
+          ...(article.category_2 ? [article.category_2] : []),
+        ])
+        .flat()
+    ),
+  ].filter((item) => !(item === null || item === '' || !item.length))
   fs.writeFileSync(
     './assets/generated/filters.js',
     `
+/* eslint-disable prettier/prettier */
 const filters = ${JSON.stringify(filters)}
 export default {
   articles: filters,

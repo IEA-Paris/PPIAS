@@ -101,3 +101,7 @@ yarn.lock
 #Terraform
 .terraform/
 .terragrunt-cache/
+
+# custom generated files
+static/pdfs
+assets/generated

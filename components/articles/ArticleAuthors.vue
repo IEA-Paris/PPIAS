@@ -9,6 +9,7 @@
     <div v-for="(author, index) in item.authors" :key="index" class="pb-6">
       <AuthorsItem
         :item="{ ...author, slug: slugify(author.lastname) }"
+        extended
       ></AuthorsItem>
     </div>
   </div>

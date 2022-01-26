@@ -3,6 +3,7 @@ articles:
   - Memorandum_8
   - Memorandum_7
   - Memorandum_11
+  - Covid_19_and_employment
 createdAt: '2022-01-14T16:39:17.956Z'
 firstname: 'Victor  '
 lastname: 'Gallonnier '

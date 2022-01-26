@@ -13,13 +13,7 @@
       <slot name="date"></slot>
     </template>
     <template #content>
-      <OptimizedImage
-        v-if="item.picture && item.picture.length"
-        :src="item.picture"
-        class="my-3"
-      ></OptimizedImage>
       <svg
-        v-else
         class="article-fingerprint d-flex"
         :class="{ item: hasContent('author') }"
         xmlns="http://www.w3.org/2000/svg"
