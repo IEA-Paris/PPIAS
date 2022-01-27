@@ -1,6 +1,6 @@
 ---
 category_1: content/categories/WPRN21.md
-issue: []
+issue: content/issues/10-12-2021.md
 keywords:
 - Work, Welfare, Social protection
 - Environmental change, Ecology
