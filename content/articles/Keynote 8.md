@@ -2,7 +2,15 @@
 category_1: content/categories/WPRN21.md
 category_2: []
 issue: content/issues/10-12-2021.md
-keywords: []
+keywords:
+- 'Public Discourse, Rhetorics, Communication '
+- Public Health
+- 'Risks, Crisis Management '
+- 'Public Policy, Evaluation, Impact '
+- 'Human Behaviours, Social Relations '
+- social dilemma
+- " social norm "
+- globalization
 date: 2021-12-10T14:00:13.000+00:00
 language: English
 published: true
@@ -51,7 +59,7 @@ picture: ''
 picture_copyright: ''
 yt: IxE1RFZSJZk
 highlight: false
-bibliography: "/documents-exportes4.json"
+bibliography: "/documents-exportes_keynote8.bib"
 
 ---
 ## In Science We Should Trust (controlling for the Social Desirability Bias)
