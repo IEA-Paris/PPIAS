@@ -2,7 +2,12 @@
 category_1: content/categories/WPRN21.md
 category_2: []
 issue: content/issues/10-12-2021.md
-keywords: []
+keywords:
+- 'Equality & Diversity Studies '
+- Public Health
+- 'Work, Welfare, Social protection '
+- 'Inequalities, Poverty, Development '
+- 'Public Policy, Evaluation, Impact '
 date: 2021-12-10T10:00:40.000+00:00
 language: English
 published: true
@@ -33,7 +38,7 @@ picture: ''
 picture_copyright: ''
 yt: ST40fXLMsv4
 highlight: false
-bibliography: ''
+bibliography: "/documents-exportes_keynote6.bib"
 
 ---
 ## Trading off lives and livelihoods in an ethical way, considering the apparent clash of interests between generations
