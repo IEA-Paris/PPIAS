@@ -57,7 +57,6 @@ export const mergeDeep = (...objects) => {
   }, {})
 }
 export const makeFiltersData = (articles, authors) => {
-  console.log('articles: ', articles)
   const filters = {}
 
   // year filter
