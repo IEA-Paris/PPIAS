@@ -2,7 +2,7 @@
 articles:
   - Our Microbial Lives - table-ronde 3
 createdAt: '2022-01-17T18:18:56.540Z'
-firstname: Nicolas  (INRAE)
+firstname: Nicolas
 lastname: Fortané
 picture: ''
 picture_copyright: ''
@@ -20,5 +20,4 @@ social_channels:
 titles_and_institutions:
   - institution: INRAE, France
     titles: []
-
 ---

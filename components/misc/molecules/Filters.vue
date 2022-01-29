@@ -1,20 +1,37 @@
 <template>
-  <div class="d-flex flex-grow-1">
+  <aside class="d-sticky">
+    <v-expansion-panel>
+      <v-btn
+        v-show="
+          Object.keys($route.query).filter((item) => item !== 'page').length
+        "
+        outlined
+        x-large
+        block
+        @click="
+          $router.push({
+            query: null,
+          })
+        "
+        ><v-icon left>mdi-autorenew</v-icon
+        >{{ $t('reset-your-search-filters') }}</v-btn
+      >
+    </v-expansion-panel>
     <component
-      :is="filter.type"
-      v-for="(filter, name) in filters"
-      :key="name + filter.type"
+      :is="filters[filter].type"
+      v-for="(filter, name) in Object.keys(filters)"
+      :key="name + type + filter"
       hide-details
       :dense="$vuetify.breakpoint.smAndDown"
-      :disabled="loading"
-      :items="filter.items().map((item) => $t(item))"
+      :items="filters[filter].items.map((item) => $t(item))"
       clearable
-      :label="$t(name.replace(/([a-z])([A-Z])/g, '$1-$2').toLowerCase())"
+      :label="$t(filter)"
       outlined
-      :type="type"
+      :type="filter"
       style="min-width: 150px"
+      class="my-3"
     />
-  </div>
+  </aside>
 </template>
 <script>
 import data from '~/assets/generated/filters'
@@ -25,20 +42,15 @@ export default {
       default: '',
       required: true,
     },
-    loading: {
-      type: Boolean,
-      default: false,
-      required: true,
-    },
   },
   data() {
     return {
-      filters: data[this.type].filter,
+      filters: data[this.type].filters,
       sorters: data[this.type].sort,
     }
   },
   computed: {},
-  mounted() {},
+  created() {},
   methods: {},
 }
 </script>

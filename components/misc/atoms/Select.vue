@@ -5,47 +5,64 @@
     multiple
     menu-props="offset-y"
     :loading="$nuxt.loading"
-    single-line
-    @click:clear="$emit('clear')"
+  >
+    <template #selection="{ item, index }">
+      <SelectionSlot :label="false" :item="item" :index="index" /> </template
   ></v-select>
 </template>
 
 <script>
 export default {
   props: {
-    item: {
-      type: String,
-      required: true,
-      default: '',
-    },
     type: {
       type: String,
       default: '',
       required: true,
     },
-    loading: {
-      type: Boolean,
-      default: true,
-      required: true,
-    },
   },
   data() {
-    return {}
+    return {
+      selectedRaw: [],
+    }
   },
+
   computed: {
     selected: {
       get() {
-        return this.selected
+        return this.selectedRaw
       },
 
       set(value) {
         // set on parent
-        this.selected = value
+        this.$router.replace({
+          query: {
+            ...this.$route.query,
+            [this.type]:
+              value && value.length ? JSON.stringify(value) : undefined,
+          },
+        })
+        this.selectedRaw = value
+        console.log('QIUE')
       },
     },
   },
-  mounted() {},
+  watch: {
+    '$route.query'() {
+      if (this.$route.query[this.type]) {
+        this.selectedRaw = JSON.parse(this.$route.query[this.type])
+      } else {
+        this.selectedRaw = []
+      }
+    },
+  },
+
+  created() {
+    if (this.$route.query[this.type]) {
+      this.selectedRaw = JSON.parse(this.$route.query[this.type])
+    } else {
+      this.selectedRaw = []
+    }
+  },
   beforeCreate() {},
-  created() {},
 }
 </script>

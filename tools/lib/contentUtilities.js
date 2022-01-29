@@ -60,9 +60,12 @@ export const makeFiltersData = (articles, authors) => {
   const filters = {}
 
   // year filter
-  filters.years = [
-    ...new Set(articles.map((article) => article.date.substring(0, 4))),
-  ].filter((item) => !(item === null || item === ''))
+  filters.years = {
+    type: 'Select',
+    items: [
+      ...new Set(articles.map((article) => article.date.substring(0, 4))),
+    ].filter((item) => !(item === null || item === '')),
+  }
   /* Too much items to expect - also covered by FTS
   // author filters
   filters.authors = articles.map((article) =>
@@ -80,37 +83,56 @@ export const makeFiltersData = (articles, authors) => {
     )
   ) */
   // language filters
-  filters.language = [
-    ...new Set(articles.map((article) => article.language)),
-  ].filter((item) => !(item === null || item === ''))
+  filters.language = {
+    type: 'Select',
+    items: [...new Set(articles.map((article) => article.language))].filter(
+      (item) => !(item === null || item === '')
+    ),
+  }
 
   // Keyword filters
-  filters.tags = [
-    ...new Set(articles.map((article) => article.tags).flat()),
-  ].filter((item) => item)
+  filters.tags = {
+    type: 'Autocomplete',
+    items: [...new Set(articles.map((article) => article.tags).flat())].filter(
+      (item) => item
+    ),
+  }
 
   // category filters
-  filters.category = [
-    ...new Set(
-      articles
-        .map((article) => [
-          ...(article.category_1 ? [article.category_1] : []),
-          ...(article.category_2 ? [article.category_2] : []),
-        ])
-        .flat()
-    ),
-  ].filter((item) => !(item === null || item === '' || !item.length))
+  filters.category = {
+    type: 'Autocomplete',
+    items: [
+      ...new Set(
+        articles
+          .map((article) => [
+            ...(article.category_1 ? [article.category_1] : []),
+            ...(article.category_2 ? [article.category_2] : []),
+          ])
+          .flat()
+      ),
+    ].filter((item) => !(item === null || item === '' || !item.length)),
+  }
   fs.writeFileSync(
     './assets/generated/filters.js',
     `
 /* eslint-disable prettier/prettier */
 const filters = ${JSON.stringify(filters)}
 export default {
-  articles: filters,
-  media: filters,
+  articles: {
+    filters,
+    sort:{}
+
+  },
+  media: {
+    filters,
+    sort:{}
+  },
   authors: {
-    year: filters.year,
-    lang: filters.lang
+    filters: {
+    years: filters.years,
+    language: filters.language
+    },
+    sort:{}
   }
 }`
   )
@@ -126,7 +148,7 @@ export const writePrintRoutes = (articles) => {
   } */
   // second we generate the pdf routes and data
   fs.writeFileSync(
-    './assets/data/routes.js',
+    './assets/generated/routes.js',
     `/* eslint-disable prettier/prettier */
 export default ` +
       JSON.stringify(

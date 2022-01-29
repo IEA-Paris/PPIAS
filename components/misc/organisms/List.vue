@@ -288,6 +288,5 @@ export default {
   padding-bottom: 10px;
 }
 .filter-column {
-  outline: 1px dotted ButtonText;
 }
 </style>

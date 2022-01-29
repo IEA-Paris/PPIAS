@@ -83,7 +83,7 @@
                   >
                     <ArticleSearchItem
                       :item="item"
-                      @close="clear()"
+                      @close="open = false"
                     ></ArticleSearchItem>
                   </v-list-item-group>
                 </template>
@@ -115,7 +115,7 @@
                   >
                     <MediaSearchItem
                       :item="item"
-                      @close="clear()"
+                      @close="open = false"
                     ></MediaSearchItem>
                   </v-list-item-group>
                 </template>
@@ -149,7 +149,7 @@
                   >
                     <AuthorSearchItem
                       :item="item"
-                      @close="clear()"
+                      @close="open = false"
                     ></AuthorSearchItem>
                   </v-list-item-group>
                 </template>
@@ -180,6 +180,7 @@ export default {
       results: [],
       open: this.searchString,
       shouldFocus: false,
+      base: this.$route.path,
     }
   },
   computed: {
@@ -204,7 +205,7 @@ export default {
           }
         } else {
           this.searchStringRaw = newValue
-          this.$router.push({
+          this.$router.replace({
             query: { ...this.$route.query, search: newValue },
           })
           const resultsRaw = await searchContent(this.$content, newValue)
@@ -236,9 +237,15 @@ export default {
       })
     },
     clear() {
-      this.open = false
-      this.shouldFocus = false
-      this.$router.push({ query: { ...this.$route.query, search: undefined } })
+      console.log('this.base: ', this.base)
+      console.log('this.$route.name : ', this.$route.path)
+      if (this.$route.name !== this.base) {
+        this.shouldFocus = false
+        this.open = false
+        this.$router.push({
+          query: { ...this.$route.query, search: undefined },
+        })
+      }
     },
     onIntersect(entries, observer) {
       // More information about these options

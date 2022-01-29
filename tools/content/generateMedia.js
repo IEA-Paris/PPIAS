@@ -16,6 +16,8 @@ export default async (content) => {
         category_1: item.category_1,
         category_2: item.category_2,
         highlight: item.highlight,
+        language: item.language,
+        tags: item.tags,
       }
     })
     .flat()

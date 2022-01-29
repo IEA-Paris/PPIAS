@@ -74,6 +74,15 @@
                     <template v-if="$route.query && $route.query.search">
                       Searching for "{{ $route.query && $route.query.search }}"
                     </template>
+                    <template v-if="activeFilters"
+                      >{{ $t('with-activefilters-filters', [activeFilters]) }}
+                    </template>
+                    <template
+                      v-if="
+                        activeFilters || ($route.query && $route.query.search)
+                      "
+                      >-
+                    </template>
                     {{
                       $tc('total-' + type, total) +
                       ' - ' +
@@ -240,11 +249,7 @@
         :sm="filter ? 5 : 1"
         class="transition-swing filter-column pt-0"
       >
-        <div class="overline">
-          <v-icon x-small>mdi-filter</v-icon>
-          {{ $t('filters') }}
-          <Filters :type="type" :loading="$nuxt.loading" />
-        </div>
+        <Filters :type="type" class="mt-8" />
       </v-col>
     </v-row>
   </div>
@@ -300,7 +305,9 @@ export default {
   data() {
     return {
       mobile: this.$vuetify.breakpoint.mobile,
-      filter: false,
+      filter:
+        Object.keys(this.$route?.query).filter((item) => item !== 'page')
+          .length > 0,
       options: this.pagination,
       numberOfPages: 0,
       total: 0,
@@ -310,15 +317,14 @@ export default {
   },
   async fetch() {
     console.log('fetch')
-    console.log(typeof this.$route.query.search)
     // TODO: FIX/INVEsTIGUATE> looks like mobile is not detected correctly
-
+    this.rawSearch = this.$route.query.search
     if (!this.$nuxt.loading) {
       const rst = await getContent(
         this.type,
         this.$content,
         this.$route.query,
-        this.search,
+        this.$route.query.search,
         true,
         this.mobile,
         this.options.itemsPerPage
@@ -354,12 +360,22 @@ export default {
         }
       },
     },
+    activeFilters() {
+      console.log(
+        'Object.keys(this.$route.query): ',
+        Object.keys(this.$route.query)
+      )
+      return Object.keys(this.$route.query).filter(
+        (item) =>
+          !['page', 'sort', 'search'].includes(item) ||
+          this.$route.query[item] !== undefined
+      ).length
+    },
   },
   watch: {
     '$route.query': '$fetch',
-    'options.itemsPerPage': '$fetch',
+    options: '$fetch',
   },
-  watchQuery: true,
   mounted() {
     this.$fetch()
   },
@@ -387,7 +403,7 @@ export default {
   padding-bottom: 10px;
 }
 .filter-column {
-  outline: 1px dotted ButtonText;
+  /*  outline: 1px dotted ButtonText; */
 }
 .perPageSelect {
   max-width: 90px;

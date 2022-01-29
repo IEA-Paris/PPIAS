@@ -6,6 +6,7 @@ category_2: []
 date: '2021-05-27T13:00:08.000Z'
 highlight: false
 id: mAEoGVjHjUQ
+language: French
 type: youtube
 
 ---

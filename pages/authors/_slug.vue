@@ -8,6 +8,7 @@
       v-bind="$attrs"
       class="transition-swing"
       :no-gutters="!$store.state.scrolled"
+      justify="center"
       :class="[
         $store.state.scrolled
           ? ''

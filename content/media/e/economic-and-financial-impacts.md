@@ -6,6 +6,7 @@ category_2: ''
 date: '2021-12-09T13:00:09.000Z'
 highlight: false
 id: rylGri1EtXY
+language: English
 type: youtube
 
 ---

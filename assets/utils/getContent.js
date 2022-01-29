@@ -6,7 +6,7 @@ export default async (
 
   $content,
   query,
-  search,
+  search = false,
   deep,
   mobile = false,
   perPage = 9
@@ -15,13 +15,45 @@ export default async (
   console.log('args', cat, query, search, deep, mobile, perPage)
   const filters = filtersRaw[cat]
   const sorts = sortsRaw[cat]
-
-  const tags = query.tags ? JSON.parse(query.tags) : []
+  if (search === undefined) search = ''
   const pipeline = {
     ...filters,
   }
+  Object.keys(query).forEach((filter) => {
+    console.log('typeof filter: ', query[filter])
+    if (query[filter]?.length && !['page', 'search'].includes(filter)) {
+      const val = JSON.parse(query[filter])
+      console.log('val: ', val)
+      // check if we are matching against an array value
+      if (['tags'].includes(filter)) {
+        pipeline[filter] = { $containsAny: val }
+        // years to date special case
+        // TODO make a fancy feature to limit the gte lt
+      } else if (filter === 'years') {
+        console.log('year: ', new Date(+val[0] + 1, 0))
+        if (val.length > 1) {
+          pipeline.$or = val.map((year) => {
+            return {
+              date: {
+                $regex: year,
+              },
+            }
+          })
+        } else {
+          pipeline.date = { $regex: val[0] }
+        }
+      } else {
+        pipeline[filter] =
+          val.length > 1
+            ? {
+                $in: val,
+              }
+            : val[0]
+      }
+    }
+  })
+  console.log('pipeline: ', pipeline)
 
-  if (tags.length) pipeline.tags = { $containsAny: tags }
   const count = await $content(cat, { deep })
     .search(search)
     .where(pipeline)
@@ -29,6 +61,7 @@ export default async (
     .fetch()
 
   const totalItems = count.length
+  console.log('totalItems: ', totalItems)
 
   // use Math.ceil to round up to the nearest whole number
   const lastPage = Math.ceil(totalItems / perPage)

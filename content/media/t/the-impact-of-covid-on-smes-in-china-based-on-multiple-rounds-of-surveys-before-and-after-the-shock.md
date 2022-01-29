@@ -8,6 +8,7 @@ category_2: []
 date: '2021-12-09T14:30:47.000Z'
 highlight: false
 id: b0ifnRXmwag
+language: English
 type: youtube
 
 ---

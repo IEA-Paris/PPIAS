@@ -18,7 +18,7 @@
       ]"
     >
       <template v-if="$vuetify.breakpoint.mdAndUp">
-        <v-col cols="12" sm="6" lg="4" class="transition-swing">
+        <v-col cols="12" sm="6" md="4" class="transition-swing">
           <component
             :is="type.charAt(0).toUpperCase() + type.slice(1) + 'Item'"
             v-for="(item, index) in data.items.filter(
@@ -31,7 +31,7 @@
             :scroll="$store.state.scrolled"
           ></component>
         </v-col>
-        <v-col cols="12" sm="6" lg="4" class="transition-swing">
+        <v-col cols="12" sm="6" md="4" class="transition-swing">
           <component
             :is="type.charAt(0).toUpperCase() + type.slice(1) + 'Item'"
             v-for="(item, index) in data.items.filter(
@@ -50,7 +50,7 @@
           v-if="$vuetify.breakpoint.mdAndUp"
           cols="12"
           sm="6"
-          lg="4"
+          md="4"
           class="transition-swing"
         >
           <component

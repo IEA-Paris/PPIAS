@@ -6,6 +6,7 @@ category_2: []
 date: '2021-12-10T15:00:38.000Z'
 highlight: false
 id: gG_XMS4xThY
+language: English
 type: youtube
 
 ---

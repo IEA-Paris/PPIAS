@@ -348,9 +348,6 @@ export default {
   overflow: hidden;
   padding-bottom: 10px;
 }
-.filter-column {
-  outline: 1px dotted ButtonText;
-}
 .perPageSelect {
   max-width: 72px;
   margin-top: 0;

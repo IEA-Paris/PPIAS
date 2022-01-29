@@ -1,20 +1,19 @@
 <template>
   <v-autocomplete
-    v-model="values"
+    v-model="selected"
     v-bind="$attrs"
+    multiple
     menu-props="offset-y"
-    chips
+    :loading="$nuxt.loading"
+  >
+    <template #selection="{ item, index }">
+      <SelectionSlot :label="false" :item="item" :index="index" /> </template
   ></v-autocomplete>
 </template>
 
 <script>
 export default {
   props: {
-    item: {
-      type: String,
-      required: false,
-      default: '',
-    },
     type: {
       type: String,
       default: '',
@@ -22,21 +21,48 @@ export default {
     },
   },
   data() {
-    return {}
+    return {
+      selectedRaw: [],
+    }
   },
+
   computed: {
-    values: {
+    selected: {
       get() {
-        return this.$store.state.form[this.item]
+        return this.selectedRaw
       },
 
       set(value) {
-        return this.$store.commit('form/updateStore', { [this.type]: value })
+        // set on parent
+        this.$router.replace({
+          query: {
+            ...this.$route.query,
+            [this.type]:
+              value && value.length ? JSON.stringify(value) : undefined,
+          },
+        })
+        this.selectedRaw = value
+        console.log('QIUE')
       },
     },
   },
-  mounted() {},
+  watch: {
+    '$route.query'() {
+      if (this.$route.query[this.type]) {
+        this.selectedRaw = JSON.parse(this.$route.query[this.type])
+      } else {
+        this.selectedRaw = []
+      }
+    },
+  },
+
+  created() {
+    if (this.$route.query[this.type]) {
+      this.selectedRaw = JSON.parse(this.$route.query[this.type])
+    } else {
+      this.selectedRaw = []
+    }
+  },
   beforeCreate() {},
-  created() {},
 }
 </script>

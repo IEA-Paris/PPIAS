@@ -8,6 +8,7 @@ category_2: []
 date: '2021-12-10T10:00:40.000Z'
 highlight: false
 id: ST40fXLMsv4
+language: English
 type: youtube
 
 ---

@@ -11,7 +11,7 @@ export default async ($content, search) => {
     $content('media', { deep: true })
       .search(search)
       .where(filtersRaw.media)
-      .only(['slug', 'caption'])
+      .only(['caption', 'article_slug'])
       .limit(3)
       .fetch(),
     $content('authors', { deep: true })
