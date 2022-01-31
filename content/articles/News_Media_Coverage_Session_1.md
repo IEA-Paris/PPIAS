@@ -87,8 +87,8 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: '"Media and Coverage" Q&A session at the WPRN 21 conference in Paris on
-  December 9, 2021 based on 4 projects registered in the WPRN database.'
+abstract: '"News and Media Coverage" Q&A session at the WPRN 21 conference in Paris
+  on December 9, 2021 based on 4 projects registered in the WPRN database.'
 picture: ''
 picture_copyright: ''
 yt: YQ3cIqOOn_g
@@ -98,7 +98,7 @@ bibliography: "/documents-exportes_q-a1bib.bib"
 ---
 ## News and Media Coverage - Session 1
 
-This first Q&A session "News and Media coverage" during WPRN 21 conference in Paris on December 9 is based on 4 projects registered on the WPRN database.
+This first Q&A session "News and Media coverage" during WPRN 21 conference in Paris on December 9, 2021 is based on 4 projects registered on the WPRN database.
 
 <Youtube yt="YQ3cIqOOn_g" caption ="Q&A session News & Media Coverage"></Youtube>
 
