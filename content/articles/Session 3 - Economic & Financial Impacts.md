@@ -108,8 +108,8 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: 3rd Q&A on the theme " Economic and Financial Impacts " based on 5 projects
-  registered on the WPRN database.
+abstract: ' " Economic and Financial Impacts "  Q&A session at the WPRN 21 conference
+  in Paris on December 9th 2021 based on 5 projects registered on the WPRN database.'
 picture: ''
 picture_copyright: ''
 yt: rylGri1EtXY
@@ -120,7 +120,7 @@ category_2: ''
 ---
 ## Economic and Financial Impacts : Session 3
 
-This Q&A session "Economic and Financial Impacts" is based on 5 projects registered on WPRN database.
+This Q&A session "Economic and Financial Impacts" during WPRN21 conference in Paris on December 9th 2021 is based on 5 projects registered on WPRN database.
 
 <Youtube yt="rylGri1EtXY" caption ="Q&A sessions - Economic & Financial Impacts"></Youtube>
 
