@@ -122,19 +122,21 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: 2nd Q&A session on the theme "Masks, Vaccinations and Compliance" based
-  on 6 projects registered on WPRN database
+abstract: ' "Masks, Vaccinations and Compliance" Q&A session at the WPRN 21 conference
+  in Paris on December 9th 2021 based on 6 projects registered in the WPRN database.
+
+  '
 picture: ''
 picture_copyright: ''
 yt: sdN3mZeQOgg
 highlight: false
-bibliography: ''
+bibliography: "/documents-exportes_q-a2.bib"
 category_2: ''
 
 ---
 ## Masks, Vaccinations and Compliance : Session 2
 
-2nd Q&A session on the theme "Masks, Vaccinations and Compliance" based on 6 projects registered on the WPRN database.
+The 2nd Q&A session  "Masks, Vaccinations and Compliance" during WPRN21 conference in Paris on December 9th 2021 is based on 6 projects registered on the WPRN database.
 
 <Youtube yt="sdN3mZeQOgg"  caption ="Q&A session - Masks, Vaccinations & Compliance"></Youtube>
 
