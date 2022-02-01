@@ -1,4 +1,6 @@
 ---
+articles:
+  - WPRN21_Conference
 createdAt: '2022-01-10T10:45:35.926Z'
 firstname: Flore
 lastname: Gubert

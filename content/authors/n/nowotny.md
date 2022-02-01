@@ -1,9 +1,12 @@
 ---
+articles:
+  - Closing Panel-WPRN21
 createdAt: '2022-01-10T10:45:35.930Z'
 firstname: 'Helga '
 lastname: Nowotny
 picture: ''
 picture_copyright: ''
+reference: ''
 social_channels:
   google_scholar: ''
   instagram: ''
