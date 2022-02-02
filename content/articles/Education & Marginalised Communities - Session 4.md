@@ -116,7 +116,7 @@ picture: ''
 picture_copyright: ''
 yt: nskJV6c0vEU
 highlight: false
-bibliography: ''
+bibliography: "/documents-exportes_q-a4.bib"
 category_2: ''
 
 ---
