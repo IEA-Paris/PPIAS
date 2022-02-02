@@ -114,7 +114,7 @@ picture: ''
 picture_copyright: ''
 yt: rylGri1EtXY
 highlight: false
-bibliography: "/documents-exportes3.json"
+bibliography: "/documents-exportes_q-a3.bib"
 category_2: ''
 
 ---
