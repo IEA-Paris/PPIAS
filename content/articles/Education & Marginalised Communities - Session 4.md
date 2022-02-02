@@ -127,8 +127,9 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: 4th Q&A session on the theme "Education & Marginalised Communities " based
-  on 6 projects registered on WPRN database
+abstract: ' Q&A session on "Education & Marginalised Communities "  at the WPRN 21
+  conference in Paris on December 10th 2021 based on 6 projects registered in WPRN
+  database'
 picture: ''
 picture_copyright: ''
 yt: nskJV6c0vEU
@@ -139,7 +140,7 @@ category_2: ''
 ---
 ## Education and Marginalised Communities - Session 4
 
-4th Q&A session on the theme "Education and Marginalised Communities" based on 6 projects registered on the WPRN database.
+This Q&A session on the theme "Education and Marginalised Communities" during the WPRN 21 conference in Paris on December 10th 2021 is based on 6 projects registered in the WPRN database.
 
 <Youtube yt="nskJV6c0vEU" caption ="Q&A session - Education & Marginalised Communities"></Youtube>
 
