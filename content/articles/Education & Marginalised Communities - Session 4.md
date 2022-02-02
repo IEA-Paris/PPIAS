@@ -109,24 +109,6 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-- lastname: " Canovan"
-  firstname: 'Cherry '
-  titles_and_institutions:
-  - titles: []
-    institution: University Of Central Lancashire, United Kingdom
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
 abstract: ' Q&A session on "Education & Marginalised Communities "  at the WPRN 21
   conference in Paris on December 10th 2021 based on 6 projects registered in WPRN
   database'
