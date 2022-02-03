@@ -154,18 +154,18 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: 5th Q&A session on the theme "Local Contexts and Policy " based on 8 projects
-  registered on the WPRN database
+abstract: ' Q&A on "Local Contexts and Policy " at the WPRN 21 conference in Paris
+  on December 10th 2021 based on 8 projects registered in the WPRN database'
 picture: ''
 picture_copyright: ''
 yt: 5cyz4IOmbAs
 highlight: false
-bibliography: ''
+bibliography: "/documents-exportes_q-a5.bib"
 
 ---
 ## Local Contexts & Policy - Session 5
 
-This Q&A session on the theme "Local Contexts and Policy " is based on 8 projects registered on the WPRN database.
+This Q&A session on the theme "Local Contexts and Policy " during the WPRN 21 conference in Paris on December 10th 2021 is based on 8 projects registered in the WPRN database.
 
 <Youtube yt="5cyz4IOmbAs" caption ="Q&A session - Local Contexts and Policy "></Youtube>
 
