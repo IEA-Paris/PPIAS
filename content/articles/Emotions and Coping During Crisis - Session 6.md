@@ -207,18 +207,18 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: 6th Q&A session on the theme "Emotions and Coping During Crisis  " based
-  on 10 projects registered on the WPRN database
+abstract: Q&A session on  "Emotions and Coping During Crisis "  at the WPRN 21 conference
+  in Paris on December 10th 2021 based on 10 projects registered on the WPRN database
 picture: ''
 picture_copyright: ''
 yt: gG_XMS4xThY
 highlight: false
-bibliography: ''
+bibliography: "/documents-exportes_q-a6.bib"
 
 ---
 ## Emotions and Coping During Crisis - Session 6
 
-This Q&A session on the theme "Local Contexts and PolicyEmotions " is based on 10 projects registered on the WPRN database
+This Q&A session on the theme "Local Contexts and PolicyEmotions " during the WPRN 21 conference in Paris on December 10th 2021 is based on 10 projects registered on the WPRN database
 
 <Youtube yt="gG_XMS4xThY" caption="Q&A session - Emotions and Coping During Crisis"></Youtube>
 
