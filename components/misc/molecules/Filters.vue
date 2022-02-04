@@ -1,6 +1,6 @@
 <template>
   <aside class="d-sticky">
-    <v-expansion-panel>
+    <v-expand-transition>
       <v-btn
         v-show="
           Object.keys($route.query).filter((item) => item !== 'page').length
@@ -16,7 +16,7 @@
         ><v-icon left>mdi-autorenew</v-icon
         >{{ $t('reset-your-search-filters') }}</v-btn
       >
-    </v-expansion-panel>
+    </v-expand-transition>
     <component
       :is="filters[filter].type"
       v-for="(filter, name) in Object.keys(filters)"

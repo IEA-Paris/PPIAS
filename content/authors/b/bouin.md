@@ -1,6 +1,7 @@
 ---
 articles:
   - Closing Panel-WPRN21
+createdAt: '2022-02-01T15:13:30.061Z'
 firstname: 'Olivier '
 lastname: Bouin
 picture: ''

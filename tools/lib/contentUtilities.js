@@ -114,8 +114,7 @@ export const makeFiltersData = (articles, authors) => {
   }
   fs.writeFileSync(
     './assets/generated/filters.js',
-    `
-/* eslint-disable prettier/prettier */
+    `/* eslint-disable prettier/prettier */
 const filters = ${JSON.stringify(filters)}
 export default {
   articles: {
