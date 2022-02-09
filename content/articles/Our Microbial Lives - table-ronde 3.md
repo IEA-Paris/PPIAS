@@ -8,62 +8,62 @@ language: French
 published: true
 article_title: 'Our Microbial Lives : A Forum Against Eradication'
 authors:
-  - firstname: Nicolas
-    lastname: Fortané
-    titles_and_institutions:
-      - titles: []
-        institution: INRAE, France
-    social_channels:
-      researchgate: https://www.researchgate.net/profile/Nicolas-Fortane
-      google_scholar: https://scholar.google.com/citations?user=iJD2TRkAAAAJ&hl=fr
-      orcid_id: '0000-0001-6479-5808 '
-      website: ''
-      wikipedia: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      mendeley: ''
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-  - firstname: 'Thierry '
-    lastname: Naas
-    titles_and_institutions:
-      - titles: []
-        institution: Hôpital Bicêtre APHP, France
-    social_channels:
-      google_scholar: https://scholar.google.fr/citations?user=OKtfJd0AAAAJ&hl=fr
-      researchgate: https://www.researchgate.net/profile/Thierry-Naas
-      orcid_id: '0000-0001-9937-9572 '
-      website: ''
-      wikipedia: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      mendeley: ''
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-  - firstname: 'Geneviève '
-    lastname: Héry-Arnaud
-    titles_and_institutions:
-      - titles: []
-        institution: CHRU de Brest, France
-      - titles: []
-        institution: Université de Bretagne Occidentale, France
-    social_channels:
-      linkedin: https://fr.linkedin.com/in/genevi%C3%A8ve-h%C3%A9ry-arnaud-aa695314a
-      orcid_id: 0000-0002-2089-3825
-      researchgate: https://www.researchgate.net/profile/Genevieve-Hery-Arnaud
-      google_scholar: https://scholar.google.fr/citations?user=LGlzo5QAAAAJ&hl=fr
-      website: ''
-      wikipedia: ''
-      twitter: ''
-      instagram: ''
-      mendeley: ''
-    picture: ''
-    picture_copyright: ''
-    reference: ''
+- firstname: Nicolas
+  lastname: Fortané
+  titles_and_institutions:
+  - titles: []
+    institution: INRAE, France
+  social_channels:
+    researchgate: https://www.researchgate.net/profile/Nicolas-Fortane
+    google_scholar: https://scholar.google.com/citations?user=iJD2TRkAAAAJ&hl=fr
+    orcid_id: '0000-0001-6479-5808 '
+    website: ''
+    wikipedia: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    mendeley: ''
+  picture: ''
+  picture_copyright: ''
+  reference: ''
+- firstname: 'Thierry '
+  lastname: Naas
+  titles_and_institutions:
+  - titles: []
+    institution: Hôpital Bicêtre APHP, France
+  social_channels:
+    google_scholar: https://scholar.google.fr/citations?user=OKtfJd0AAAAJ&hl=fr
+    researchgate: https://www.researchgate.net/profile/Thierry-Naas
+    orcid_id: '0000-0001-9937-9572 '
+    website: ''
+    wikipedia: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    mendeley: ''
+  picture: ''
+  picture_copyright: ''
+  reference: ''
+- firstname: 'Geneviève '
+  lastname: Héry-Arnaud
+  titles_and_institutions:
+  - titles: []
+    institution: CHRU de Brest, France
+  - titles: []
+    institution: Université de Bretagne Occidentale, France
+  social_channels:
+    linkedin: https://fr.linkedin.com/in/genevi%C3%A8ve-h%C3%A9ry-arnaud-aa695314a
+    orcid_id: 0000-0002-2089-3825
+    researchgate: https://www.researchgate.net/profile/Genevieve-Hery-Arnaud
+    google_scholar: https://scholar.google.fr/citations?user=LGlzo5QAAAAJ&hl=fr
+    website: ''
+    wikipedia: ''
+    twitter: ''
+    instagram: ''
+    mendeley: ''
+  picture: ''
+  picture_copyright: ''
+  reference: ''
 abstract: |-
   Table-ronde du forum Our Microbial Lives
   "Écologies microbiennes dans les corps humains et animaux"
@@ -72,11 +72,11 @@ picture_copyright: ''
 yt: mAEoGVjHjUQ
 highlight: false
 bibliography: ''
----
 
+---
 ## Écologies microbiennes dans les corps humains et animaux
 
-On assiste à un changement de paradigme au 21ème siècle : si le 19ème et le 20ème siècles avaient une vision très négative des microbes et les envisageaient sous le prisme de l’éradication, les évolutions technologiques nous montrent désormais que certains microbes « nous veulent du bien ». Le caractère bénéfique des bactéries est une vision nouvelle pour les microbiologistes médicaux.
+On assiste à un changement de paradigme au 21ème siècle : si le 19ème et le 20ème siècles avaient une vision très négative des microbes et les envisageaient sous le prisme de l’éradication, les évolutions technologiques nous montrent désormais que certains microbes « nous veulent du bien ». Le caractère bénéfique des bactéries est une vision nouvelle pour les microbiologistes médicaux. 
 
 Cette vision de l’homme microbien va jusqu’à celle de l’homme symbiotique, et l’anatomie humaine a été redécoupée grâce aux nouvelles technologies de séquençage. La co-évolution entre _Homo sapiens_ et les bactéries commensales est telle que l’on décrit des organes dans l’organe : on parle de communautés microbiennes et d’écosystèmes.
 

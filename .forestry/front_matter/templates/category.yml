@@ -6,7 +6,7 @@ fields:
   type: text
   config:
     required: false
-  label: Name
+  label: Title
   description: Will be used in every language
 - name: color
   type: select
