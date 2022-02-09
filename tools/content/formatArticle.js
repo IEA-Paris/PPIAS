@@ -113,7 +113,7 @@ export default (document, database) => {
     })
     // replace legacy toc
     document.toc = toc2
-    console.log(`${chalk.green('✔')}  Formatted article ${document.slug}`)
+    /*     console.log(`${chalk.green('✔')}  Formatted article ${document.slug}`) */
     return document
   }
   return document

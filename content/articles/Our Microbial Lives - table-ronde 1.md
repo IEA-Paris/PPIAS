@@ -1,5 +1,5 @@
 ---
-category_1: content/categories/fellows.md
+category_1: content/categories/Fellows.md
 category_2: []
 issue: content/issues/10-12-2021.md
 keywords: []
@@ -8,61 +8,62 @@ language: French
 published: true
 article_title: 'Our Microbial Lives : A Forum Against Eradication'
 authors:
-- titles_and_institutions:
-  - titles: []
-    institution: Fromageries BEL, France
-  lastname: Pitkowski
-  social_channels:
-    researchgate: https://www.researchgate.net/profile/Anne-Pitkowski
-    linkedin: https://fr.linkedin.com/in/anne-pitkowski-95a2a697
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    mendeley: ''
-  firstname: 'Anne '
-  picture: ''
-  picture_copyright: ''
-  reference: ''
-- lastname: Tancoigne
-  titles_and_institutions:
-  - titles: []
-    institution: 'Université de Lausanne, Switzerland '
-  social_channels:
-    website: https://www.etancoigne.fr/
-    google_scholar: https://scholar.google.fr/citations?user=21W9xTQAAAAJ&hl=fr
-    researchgate: https://www.researchgate.net/profile/Elise-Tancoigne
-    orcid_id: 0000-0002-4168-4352
-    wikipedia: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    mendeley: ''
-  firstname: Élise
-  picture: ''
-  picture_copyright: ''
-  reference: ''
-- lastname: Selosse
-  firstname: 'Marc-André '
-  titles_and_institutions:
-  - titles: []
-    institution: Institut de Systématique, Évolution, Biodiversité, Muséum national
-      d'Histoire naturelle, France
-  social_channels:
-    wikipedia: https://fr.wikipedia.org/wiki/Marc-Andr%C3%A9_Selosse
-    orcid_id: '0000-0003-3471-9067 '
-    researchgate: https://www.researchgate.net/profile/Marc-Selosse
-    website: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    mendeley: ''
-  picture: ''
-  picture_copyright: ''
-  reference: ''
+  - titles_and_institutions:
+      - titles: []
+        institution: Fromageries BEL, France
+    lastname: Pitkowski
+    social_channels:
+      researchgate: https://www.researchgate.net/profile/Anne-Pitkowski
+      linkedin: https://fr.linkedin.com/in/anne-pitkowski-95a2a697
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      mendeley: ''
+    firstname: 'Anne '
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+  - lastname: Tancoigne
+    titles_and_institutions:
+      - titles: []
+        institution: 'Université de Lausanne, Switzerland '
+    social_channels:
+      website: https://www.etancoigne.fr/
+      google_scholar: https://scholar.google.fr/citations?user=21W9xTQAAAAJ&hl=fr
+      researchgate: https://www.researchgate.net/profile/Elise-Tancoigne
+      orcid_id: 0000-0002-4168-4352
+      wikipedia: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      mendeley: ''
+    firstname: Élise
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+  - lastname: Selosse
+    firstname: 'Marc-André '
+    titles_and_institutions:
+      - titles: []
+        institution:
+          Institut de Systématique, Évolution, Biodiversité, Muséum national
+          d'Histoire naturelle, France
+    social_channels:
+      wikipedia: https://fr.wikipedia.org/wiki/Marc-Andr%C3%A9_Selosse
+      orcid_id: '0000-0003-3471-9067 '
+      researchgate: https://www.researchgate.net/profile/Marc-Selosse
+      website: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      mendeley: ''
+    picture: ''
+    picture_copyright: ''
+    reference: ''
 abstract: |-
   Table-ronde du forum Our Microbial Lives.
   "Connaissance des microbes et de la fermentation dans le développement durable"
@@ -71,8 +72,8 @@ picture_copyright: ''
 yt: wcDK7AbXkpo
 highlight: false
 bibliography: ''
-
 ---
+
 ## Connaissance des microbes et de la fermentation dans le développement durable
 
 Dans notre évolution biologique, les microbes ont été recrutés pour nous aider à digérer, à ressentir la satiété, à mettre en réserve, à nous protéger de leur présence, à réguler le fonctionnement du système immunitaire et à participer à la maturation du système nerveux.

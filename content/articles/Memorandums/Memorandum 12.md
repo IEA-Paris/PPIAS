@@ -1,57 +1,57 @@
 ---
-category_1: content/categories/wprn.md
+category_1: content/categories/WPRN.md
 category_2: []
 issue: content/issues/10-12-2021.md
 keywords:
-- 'Simulation / Modeling '
-- Democracy, Civil Society, Governance
-- 'Environmental change, Ecology '
-- Public Health
-- 'Public Policy, Evaluation, Impact '
-- Risks, Crisis Management
-- 'Policy Document '
-- 'Big Data, Artificial Intelligence '
-- 'Democracy, Civil Society, Governance '
-- 'International Relations and Co-operation '
-- 'Public Discourse, Rhetorics, Communication '
-- Cities, Mobility, Urban Planning
-- 'Education '
-- 'Equality & Diversity Studies '
-- 'Violence, Criminality, Security '
-- 'Work, Welfare, Social protection '
-- 'Human Behaviours, Social Relations '
+  - 'Simulation / Modeling '
+  - Democracy, Civil Society, Governance
+  - 'Environmental change, Ecology '
+  - Public Health
+  - 'Public Policy, Evaluation, Impact '
+  - Risks, Crisis Management
+  - 'Policy Document '
+  - 'Big Data, Artificial Intelligence '
+  - 'Democracy, Civil Society, Governance '
+  - 'International Relations and Co-operation '
+  - 'Public Discourse, Rhetorics, Communication '
+  - Cities, Mobility, Urban Planning
+  - 'Education '
+  - 'Equality & Diversity Studies '
+  - 'Violence, Criminality, Security '
+  - 'Work, Welfare, Social protection '
+  - 'Human Behaviours, Social Relations '
 date: 2021-05-01T22:00:12.000+00:00
 language: English
 published: true
 article_title: What measures are actually effective in fighting COVID-19 ?
 authors:
-- firstname: 'Aurélie  '
-  lastname: Louchart
-  titles_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
+  - firstname: 'Aurélie  '
+    lastname: Louchart
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
 abstract: |-
   Virus eradication or control strategy, timing, toughness and type of measures: what works and why? On the World Pandemic Research Network, several studies provide preliminary answers.
   Memorandum 12 : overview of the studies and projects registered on WPRN database
-picture: "/hands-with-latex-gloves-holding-a-globe-with-a-face-mask-anna-shvets.jpg"
+picture: '/hands-with-latex-gloves-holding-a-globe-with-a-face-mask-anna-shvets.jpg'
 picture_copyright: ''
 yt: ''
 highlight: false
 bibliography: ''
-
 ---
-## What measures are actually effective in fighting COVID-19 ? 
+
+## What measures are actually effective in fighting COVID-19 ?
 
 “Those who argue that lockdown measures were not necessary and that, without them, the final number of deaths would not be much different from those of a strong seasonal flu are wrong”, explains Marc Fleurbaey, who has developed, with a team from Princeton University, a tool simulating the evolution of the pandemic according to the implemented measures (downloadable on [WPRN](https://wprn.org/item/414252)). This simulator indicates that in the United Kingdom, total mortality would differ by a factor of nearly five with or without lockdown. In France, this factor is between ten and twenty. Virus eradication or control strategy, timing, toughness and type of measures: what works and why? On the [World Pandemic Research Network](https://wprn.org/), several studies provide preliminary answers.
 
@@ -77,7 +77,7 @@ The [CoronaNet research project](https://wprn.org/item/418152), led by researche
 
 ### Evaluating the effectiveness of a measure: a headache.
 
-Determining the impact of a measure is particularly difficult: several measures are often taken simultaneously and the sequence of implementation is crucial previous measures taken, in what order, stage of the pandemic, etc.). The application of the same measure may, moreover, vary from one country to another. Both the United Kingdom and France imposed lockdowns, but on the French side a certificate was required to leave one’s home, whereas no document was required in England. In Madrid, at the time of the curfew in April 2021, the streets were still crowded: 45 minutes of tolerance seemed to be allowed to go home; in Canada, guards could patrol up to two hours before the curfew to ask people to leave the parks. The degree of the population’compliance with a measure has a crucial impact on its effectiveness. However, this is a parameter that is rarely measured by researchers. Results may also be biased by variations in testing and reporting policies between countries. For example, most states include exclusively confirmed COVID-19- related deaths in their statistics, however some, such as Belgium, also include suspected cases. 
+Determining the impact of a measure is particularly difficult: several measures are often taken simultaneously and the sequence of implementation is crucial previous measures taken, in what order, stage of the pandemic, etc.). The application of the same measure may, moreover, vary from one country to another. Both the United Kingdom and France imposed lockdowns, but on the French side a certificate was required to leave one’s home, whereas no document was required in England. In Madrid, at the time of the curfew in April 2021, the streets were still crowded: 45 minutes of tolerance seemed to be allowed to go home; in Canada, guards could patrol up to two hours before the curfew to ask people to leave the parks. The degree of the population’compliance with a measure has a crucial impact on its effectiveness. However, this is a parameter that is rarely measured by researchers. Results may also be biased by variations in testing and reporting policies between countries. For example, most states include exclusively confirmed COVID-19- related deaths in their statistics, however some, such as Belgium, also include suspected cases.
 
 The effectiveness of many measures also depends on the local context. The [study](https://www.nature.com/articles/s41562-020-01009-0) published in Nature Human Behaviour tells us that social distancing measures and travel restrictions have high entropy (effectiveness varies considerably across countries), in contrary to testing and contact cases finding. The Princeton University [study](https://wprn.org/item/414252) points out that the demographic structure of the population and its general health status may also influence the lethality of the virus. On WPRN, several [meta-analyses](https://wprn.org/item/418152) conclude that a policy that is effective in one setting may be ineffective in another due to a variety of factors.
 

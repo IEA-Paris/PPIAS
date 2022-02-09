@@ -30,6 +30,7 @@
     "d3-scale": "^4.0.2",
     "js-yaml": "^4.1.0",
     "lite-youtube-embed": "^0.2.0",
+    "nodegit": "^0.27.0",
     "nuxt": "^2.15.7",
     "parse-md": "^3.0.3",
     "puppeteer": "^11.0.0",

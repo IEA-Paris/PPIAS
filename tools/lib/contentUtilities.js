@@ -2,8 +2,55 @@ import path from 'path'
 import fs from 'fs'
 import { dump } from 'js-yaml'
 import fsExtra from 'fs-extra'
+import { Repository, Tree, Diff } from 'nodegit'
 import slugify from '../../assets/utils/slugify'
 import { formatAuthors } from '../../assets/utils/transforms'
+
+export const getStagedChanges = async () => {
+  const emptyTree = '4b825dc642cb6eb9a060e54bf8d69288fbee4904'
+  const repo = await Repository.open(path.resolve('./.git'))
+
+  const head = await repo.getHeadCommit()
+  if (!head) {
+    return []
+  }
+  const tree = await (head ? head.getTree() : Tree.lookup(repo, emptyTree))
+  const diff = await Diff.treeToIndex(repo, tree, null)
+  const patches = await diff.patches()
+  /*   console.log(patches.map((patch) => patch.newFile().path())) */
+}
+async function print() {
+  const repo = await Repository.open(path.resolve('./.git'))
+  const diff = await Diff.indexToWorkdir(repo, null, {
+    flags:
+      Diff.OPTION.SHOW_UNTRACKED_CONTENT | Diff.OPTION.RECURSE_UNTRACKED_DIRS,
+  })
+
+  // you can't simple log diff here, it logs as empty object
+  // console.log(diff); // -> {}
+
+  diff.patches().then((patches) => {
+    patches.forEach((patch) => {
+      patch.hunks().then((hunks) => {
+        hunks.forEach((hunk) => {
+          hunk.lines().then((lines) => {
+            /*        console.log('diff', patch.oldFile().path(), patch.newFile().path())
+            console.log(hunk.header().trim()) */
+            lines.forEach((line) => {
+              /*      console.log(
+                String.fromCharCode(line.origin()) + line.content().trim()
+              ) */
+            })
+          })
+        })
+      })
+    })
+  })
+
+  return diff
+}
+
+print().catch((err) => console.error(err))
 /**
  * Performs a deep merge of objects and returns new object. Does not modify
  * objects (immutable) and merges arrays via concatenation.
@@ -56,88 +103,8 @@ export const mergeDeep = (...objects) => {
     return prev
   }, {})
 }
-export const makeFiltersData = (articles, authors) => {
-  const filters = {}
 
-  // year filter
-  filters.years = {
-    type: 'Select',
-    items: [
-      ...new Set(articles.map((article) => article.date.substring(0, 4))),
-    ].filter((item) => !(item === null || item === '')),
-  }
-  /* Too much items to expect - also covered by FTS
-  // author filters
-  filters.authors = articles.map((article) =>
-    articles.map(
-      (article) => article?.authors.map((author) => author.lastname) || []
-    )
-  )
-  // institution filters
-  filters.authors = articles.map((article) =>
-    articles.map(
-      (article) =>
-        article?.authors.map((author) =>
-          author.titles_and_institutions.map((item) => item.institution)
-        ) || []
-    )
-  ) */
-  // language filters
-  filters.language = {
-    type: 'Select',
-    items: [...new Set(articles.map((article) => article.language))].filter(
-      (item) => !(item === null || item === '')
-    ),
-  }
-
-  // Keyword filters
-  filters.tags = {
-    type: 'Autocomplete',
-    items: [...new Set(articles.map((article) => article.tags).flat())].filter(
-      (item) => item
-    ),
-  }
-
-  // category filters
-  filters.category = {
-    type: 'Autocomplete',
-    items: [
-      ...new Set(
-        articles
-          .map((article) => [
-            ...(article.category_1 ? [article.category_1] : []),
-            ...(article.category_2 ? [article.category_2] : []),
-          ])
-          .flat()
-      ),
-    ].filter((item) => !(item === null || item === '' || !item.length)),
-  }
-  fs.writeFileSync(
-    './assets/generated/filters.js',
-    `/* eslint-disable prettier/prettier */
-const filters = ${JSON.stringify(filters)}
-export default {
-  articles: {
-    filters,
-    sort:{}
-
-  },
-  media: {
-    filters,
-    sort:{}
-  },
-  authors: {
-    filters: {
-    years: filters.years,
-    language: filters.language
-    },
-    sort:{}
-  }
-}`
-  )
-}
-
-export const writePrintRoutes = (articles) => {
+export const writePrintRoutes = async () => {
   /*   // first, we clean existing files
   const targetFolder = path.resolve('static/pdfs')
   if (!fs.existsSync(targetFolder)) {
@@ -145,41 +112,45 @@ export const writePrintRoutes = (articles) => {
   } else {
     fsExtra.emptyDirSync(targetFolder)
   } */
-  // second we generate the pdf routes and data
+  console.log('writePrintRoutes')
+  /*   //  we generate the pdf routes and data
+  getStagedChanges()
   fs.writeFileSync(
     './assets/generated/routes.js',
-    `/* eslint-disable prettier/prettier */
+    `/* eslint-disable prettier/prettier 
 export default ` +
-      JSON.stringify(
-        articles.map((article) => {
-          return {
-            // Route to content that should be converted into pdf.
-            route: '/print/' + article.slug,
-            file: 'pdfs/' + article.slug + '.pdf',
-            // Default option is to remove the route after generation so it is not accessible
-            keep: false, // defaults to false
-            // Specifify language for pdf. (Only when i18n is enabled!)
-            /*   locale: 'da', */
-            // Override global meta with individual meta for each pdf.
-            // TODO complete and change produced depending on the journal
-            meta: {
-              title: article.article_title,
+      JSON.stringify( */
+  const { $content } = require('@nuxt/content')
+  const articles = await $content('articles').fetch()
+  return articles.map((article) => {
+    // if the file has been changed
+    return {
+      // Route to content that should be converted into pdf.
+      route: '/print/' + article.slug,
+      file: 'pdfs/' + article.slug + '.pdf',
+      // Default option is to remove the route after generation so it is not accessible
+      keep: false, // defaults to false
+      // Specifify language for pdf. (Only when i18n is enabled!)
+      /*   locale: 'da', */
+      // Override global meta with individual meta for each pdf.
+      // TODO complete and change produced depending on the journal
+      meta: {
+        title: article.article_title,
 
-              author: formatAuthors(article.authors).replace('&nbsp;', ' '),
+        author: formatAuthors(article.authors).replace('&nbsp;', ' '),
 
-              producer:
-                'PPIAS - Proceeding of Paris Institution for Advanced Study',
+        producer: 'PPIAS - Proceeding of Paris Institution for Advanced Study',
 
-              // Control the date the file is created.
-              creationDate: article.createdAt,
+        // Control the date the file is created.
+        creationDate: article.createdAt,
 
-              keywords: article.tags || [],
-              language: article.language || 'en',
-            },
-          }
-        })
-      )
-  )
+        keywords: article.tags || [],
+        language: article.language || 'en',
+      },
+    }
+  })
+  /*     )
+  ) */
 }
 export const insertDocuments = (data, cat, filenameFlag) => {
   // TODO diff and selectively CRUD

@@ -1,5 +1,5 @@
 ---
-category_1: content/categories/fellows.md
+category_1: content/categories/Fellows.md
 category_2: []
 issue: content/issues/10-12-2021.md
 keywords: []
@@ -8,60 +8,60 @@ language: French
 published: true
 article_title: 'Our Microbial Lives : A Forum Against Eradication'
 authors:
-- firstname: 'Sabine '
-  lastname: Boesen Mariani
-  titles_and_institutions:
-  - titles: []
-    institution: Danone Nutricia Utrecht, Netherlands
-  social_channels:
-    researchgate: https://www.researchgate.net/profile/Sabine-Boesen-Mariani
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    mendeley: ''
-  picture: ''
-  picture_copyright: ''
-  reference: ''
-- firstname: 'Jeanne '
-  lastname: Ropars
-  titles_and_institutions:
-  - titles: []
-    institution: Laboratoire ESE, Université Paris-Saclay, France
-  social_channels:
-    google_scholar: https://scholar.google.fr/citations?user=FuLX2sUAAAAJ&hl=fr
-    orcid_id: '0000-0002-3740-9673 '
-    researchgate: https://www.researchgate.net/profile/Jeanne-Ropars
-    website: ''
-    wikipedia: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    mendeley: ''
-  picture: ''
-  picture_copyright: ''
-  reference: ''
-- firstname: 'Geneviève '
-  lastname: Teil
-  titles_and_institutions:
-  - titles: []
-    institution: INRA, France
-  social_channels:
-    researchgate: https://www.researchgate.net/profile/Genevieve-Teil
-    linkedin: https://fr.linkedin.com/in/genevieve-teil-29aa066
-    orcid_id: '0000-0002-5536-5459 '
-    website: ''
-    wikipedia: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    mendeley: ''
-  picture: ''
-  picture_copyright: ''
-  reference: ''
+  - firstname: 'Sabine '
+    lastname: Boesen Mariani
+    titles_and_institutions:
+      - titles: []
+        institution: Danone Nutricia Utrecht, Netherlands
+    social_channels:
+      researchgate: https://www.researchgate.net/profile/Sabine-Boesen-Mariani
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      mendeley: ''
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+  - firstname: 'Jeanne '
+    lastname: Ropars
+    titles_and_institutions:
+      - titles: []
+        institution: Laboratoire ESE, Université Paris-Saclay, France
+    social_channels:
+      google_scholar: https://scholar.google.fr/citations?user=FuLX2sUAAAAJ&hl=fr
+      orcid_id: '0000-0002-3740-9673 '
+      researchgate: https://www.researchgate.net/profile/Jeanne-Ropars
+      website: ''
+      wikipedia: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      mendeley: ''
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+  - firstname: 'Geneviève '
+    lastname: Teil
+    titles_and_institutions:
+      - titles: []
+        institution: INRA, France
+    social_channels:
+      researchgate: https://www.researchgate.net/profile/Genevieve-Teil
+      linkedin: https://fr.linkedin.com/in/genevieve-teil-29aa066
+      orcid_id: '0000-0002-5536-5459 '
+      website: ''
+      wikipedia: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      mendeley: ''
+    picture: ''
+    picture_copyright: ''
+    reference: ''
 abstract: |-
   Table-ronde du forum Our Microbial Lives
   "Nouvelles perspectives sur la diversité microbienne dans l'alimentation et la santé"
@@ -70,8 +70,8 @@ picture_copyright: ''
 yt: 87MEaKh26g0
 highlight: false
 bibliography: ''
-
 ---
+
 ## Nouvelles perspectives sur la diversité microbienne dans l'alimentation et la santé
 
 En 1867, Louis Pasteur montre que le chauffage du lait tue les microbes, dont ceux permettant de faire du fromage. Ces difficultés vont susciter une controverse sur l’intérêt de cette technique. Le Professeur Mazé s’attache à améliorer la qualité des fromages et propose d’ensemencer les laits chauffés avec des ferments sélectionnés et cultivés dans un milieu contrôlé. Il isolera en 1924 des moisissures de la croûte de fromages à croûte lavée.

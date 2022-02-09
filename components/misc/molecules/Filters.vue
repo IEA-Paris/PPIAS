@@ -2,9 +2,7 @@
   <aside class="d-sticky">
     <v-expand-transition>
       <v-btn
-        v-show="
-          Object.keys($route.query).filter((item) => item !== 'page').length
-        "
+        v-show="showReset"
         outlined
         x-large
         block
@@ -49,7 +47,12 @@ export default {
       sorters: data[this.type].sort,
     }
   },
-  computed: {},
+  computed: {
+    showReset() {
+      return Object.keys(this.$route.query).filter((item) => item !== 'page')
+        .length
+    },
+  },
   created() {},
   methods: {},
 }

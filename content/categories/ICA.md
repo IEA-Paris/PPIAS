@@ -1,5 +1,4 @@
 ---
 color: orange
-name: ICA
-
+title: ICA
 ---

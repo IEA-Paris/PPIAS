@@ -75,7 +75,7 @@ export default async (content) => {
 
   // fetch all authors documents
   let authorsDocs = await $content('authors', { deep: true }).fetch()
-
+  const categories = await $content('categories', { deep: true }).fetch()
   // and all the authors defined in the articles frontmatter
   const articles = await $content('articles', { deep: true })
     .where({ published: true })
@@ -133,10 +133,6 @@ export default async (content) => {
         }),
     }
   })
-
-  // we use this opportunity to extract all the filters data so that it is not computed on run time
-  makeFiltersData(articles)
-  console.log(`${chalk.green('✔')}  Generated filters data`)
 
   insertDocuments(authorsDocs, 'authors', 'lastname')
   console.log(`${chalk.green('✔')}  Inserted new author documents`)

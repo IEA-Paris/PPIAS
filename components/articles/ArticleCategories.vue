@@ -1,20 +1,20 @@
 <template>
   <div>
     <v-chip
-      v-if="item.category_1 && item.category_1.name"
+      v-if="item.category_1 && item.category_1.path"
       :color="item.category_1.color"
       label
       class="white--text"
     >
-      {{ item.category_1.name }}
+      {{ item.category_1.path.slice(12) }}
     </v-chip>
     <v-chip
-      v-if="item.category_2 && item.category_2.name"
+      v-if="item.category_2 && item.category_2.path"
       :color="item.category_2.color"
       label
       class="white--text"
     >
-      {{ item.category_2.name }}
+      {{ item.category_2.path.slice(12) }}
     </v-chip>
   </div>
 </template>

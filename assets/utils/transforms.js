@@ -56,7 +56,7 @@ export const formatAuthors = (authors = false, $t, full = false) => {
   const format = (author) => {
     return (
       author.lastname.replace(' ', '&nbsp;').trim() +
-      ',&nbsp;' +
+      '&nbsp;' +
       author.firstname
         .trim()
         .replace(/[^A-Za-z0-9À-ÿ ]/gi, '') // taking care of accented characters as well

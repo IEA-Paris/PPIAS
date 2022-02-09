@@ -68,7 +68,7 @@
       <template #author>
         <ArticleAuthorsString :authors="item.authors" />
         <v-sheet
-          v-if="item.category_1 && item.category_1.name"
+          v-if="item.category_1 && item.category_1.title"
           class="underline-color"
           :color="item.category_1.color"
         ></v-sheet>
@@ -76,7 +76,7 @@
       <template #date>
         <div class="d-flex">
           <v-sheet
-            v-if="item.category_1 && item.category_1.name"
+            v-if="item.category_1 && item.category_1.title"
             :color="item.category_1.color"
             class="sideline"
           ></v-sheet>

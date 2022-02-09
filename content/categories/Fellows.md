@@ -1,5 +1,4 @@
 ---
 color: green
-name: Fellows
-
+title: Fellows
 ---

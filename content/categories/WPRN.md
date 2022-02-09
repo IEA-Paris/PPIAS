@@ -1,5 +1,4 @@
 ---
 color: blue
-name: WPRN
-
+title: WPRN
 ---

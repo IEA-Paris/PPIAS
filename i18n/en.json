@@ -166,5 +166,6 @@
   "titles-and-institutions": "Titles and Institutions",
   "years": "Year",
   "reset-your-search-filters": "Reset search",
-  "with-activefilters-filters": "with {0} filters"
+  "with-activefilters-filters": "with {0} filters",
+  "category": "Collection"
 }

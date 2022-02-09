@@ -5,3 +5,76 @@
 - prerendered text fingerprint svgs
 - 
 - 
+Site Web IEA - 09/02/2022
+
+Objectifs de la réunion
+- Confirmer Acquis
+- Assurer qu'on est tous à jour
+- Compléter le scope
+- Définir la composition editoriale principale et secondaire
+Ce dont on ne parle toujours pas
+- Charte graphique en général
+- logo
+- couleurs
+- polices
+
+Objectifs du site
+- Vitrine IEA (positionnement et activité)
+- Valorisation Fellows
+- Calendrier évènements
+- Valorsation partenaires
+- wiki
+- Base de ressource
+- Point de contact
+Acquis
+- Objets principaux (people, resource, event)
+- Carte du site => quels points ouverts?
+- B&W?
+- Elements PIAS
+
+Services (apex) - priorités
+- Event
+- Newsletter
+- Mailings auto
+- Form Fellows
+- CMS participatif (translations, wiki)
+- Annotation
+
+Préambule technique
+- Viewports (XS, XM, MD, LG, XL)
+- Composants
+- Vues
+
+Page d’accueil
+- Option verticale
+- Option riche
+- Elements facultatifs/alternatifs mobile
+Structure page annexe
+
+Typologie pages (annexe alt, wiki, leaf)
+
+Autres
+- RGPD & mailing VS Welcome science
+- Calendrier prévisionnel
+- Travail editorial => abous us, scientific policy, pages/wiki candidature fellows, tos/privacy policy
+
+Iframe Partenaire
+
+
+
+Extra:
+
+Les amis de l’IEA (alumnii)
+
+Discussion logo
+
+Discussion CMS (fonctionnalités, issue tracker)
+
+
+
+
+
+
+
+
+

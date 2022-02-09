@@ -1,61 +1,61 @@
 ---
 issue: content/issues/10-12-2021.md
 tags:
-- Big Data, Artificial Intelligence
-- 'Equality & Diversity Studies '
-- 'Human Behaviours, Social Relations '
-- 'Public Discourse, Rhetorics, Communication '
-- Public Health
-- 'Culture and The Arts '
-- 'Innovation, R&D '
-- 'Violence, Criminality, Security '
-- Risks, Crisis Management
+  - Big Data, Artificial Intelligence
+  - 'Equality & Diversity Studies '
+  - 'Human Behaviours, Social Relations '
+  - 'Public Discourse, Rhetorics, Communication '
+  - Public Health
+  - 'Culture and The Arts '
+  - 'Innovation, R&D '
+  - 'Violence, Criminality, Security '
+  - Risks, Crisis Management
 date: 2020-11-01T22:00:00Z
 article_title: Covid 19 and the media
-picture: "/reforme_postage_portage_presse.png"
-picture_copyright: "©Unclesam - stock.adobe.com"
+picture: '/reforme_postage_portage_presse.png'
+picture_copyright: '©Unclesam - stock.adobe.com'
 yt: ''
 published: true
 pinned: false
 bibliography: ''
 authors:
-- firstname: 'Victor  '
-  lastname: 'Galonnier '
-  social_channels:
-    linkedin: https://fr.linkedin.com/in/victorgalonnier
-    twitter: ''
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  titles_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  reference: ''
+  - firstname: 'Victor  '
+    lastname: 'Galonnier '
+    social_channels:
+      linkedin: https://fr.linkedin.com/in/victorgalonnier
+      twitter: ''
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    reference: ''
 abstract: |-
   During the Covid 19 pandemic, the media was the main relay of information and had a strong impact on the perception of the crisis by citizens, on the acceptance of sanitary measures or on the propagation of conspiracy theories or false information. The Covid 19 major crisis is taking place in a context where the media world has undergone profound upheavals in the last decade, with the so-called traditional media (television, radio, press) being increasingly challenged by online media and social networks, which has led to a transformation of the citizens’ relationship to information.
   Memorandum 7 : overview of the studies and projects registered on WPRN database
-category_1: content/categories/wprn.md
-category_2: content/categories/wprn.md
+category_1: content/categories/WPRN.md
+category_2: content/categories/WPRN.md
 highlight: false
 keywords:
-- Big Data, Artificial Intelligence
-- 'Equality & Diversity Studies '
-- Human Behaviours, Social Relations
-- 'Public Discourse, Rhetorics, Communication '
-- 'Democracy, Civil Society, Governance '
-- Consumption and Production Patterns
-- 'Public Health '
-- Culture and The Arts
-- " Innovation, R&D "
-- 'Violence, Criminality, Security '
-- 'Risks, Crisis Management '
+  - Big Data, Artificial Intelligence
+  - 'Equality & Diversity Studies '
+  - Human Behaviours, Social Relations
+  - 'Public Discourse, Rhetorics, Communication '
+  - 'Democracy, Civil Society, Governance '
+  - Consumption and Production Patterns
+  - 'Public Health '
+  - Culture and The Arts
+  - ' Innovation, R&D '
+  - 'Violence, Criminality, Security '
+  - 'Risks, Crisis Management '
 language: English
-
 ---
+
 ## Covid 19 and the media: the reinforced impact of traditional media does not prevent the spread of false information
 
 During the Covid 19 pandemic, the media was the main relay of information and had a strong impact on the perception of the crisis by citizens, on the acceptance of sanitary measures or on the propagation of conspiracy theories or false information. The Covid19 major crisis is taking place in a context where the media world has undergone profound upheavals in the last decade, with the so-called traditional media (television, radio, press) being increasingly challenged by online media and social networks, which has led to a transformation of the citizens’ relationship to information.

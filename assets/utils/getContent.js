@@ -1,6 +1,5 @@
 import filtersRaw from '~/assets/data/filters'
 import sortsRaw from '~/assets/data/sorts'
-import groupBy from '~/assets/utils/transforms'
 export default async (
   cat,
 
@@ -19,6 +18,7 @@ export default async (
   const pipeline = {
     ...filters,
   }
+  pipeline.$or = []
   Object.keys(query).forEach((filter) => {
     console.log('typeof filter: ', query[filter])
     if (query[filter]?.length && !['page', 'search'].includes(filter)) {
@@ -32,16 +32,43 @@ export default async (
       } else if (filter === 'years') {
         console.log('year: ', new Date(+val[0] + 1, 0))
         if (val.length > 1) {
-          pipeline.$or = val.map((year) => {
-            return {
-              date: {
-                $regex: year,
-              },
-            }
-          })
+          pipeline.$or.push(
+            val.map((year) => {
+              return {
+                date: {
+                  $regex: year,
+                },
+              }
+            })
+          )
         } else {
           pipeline.date = { $regex: val[0] }
         }
+      } else if (filter === 'category') {
+        pipeline.$or.push(
+          ...[
+            {
+              category_1:
+                val.length > 1
+                  ? {
+                      $in: val.map(
+                        (item) => 'content/categories/' + item + '.md'
+                      ),
+                    }
+                  : 'content/categories/' + val[0] + '.md',
+            },
+            {
+              category_2:
+                val.length > 1
+                  ? {
+                      $in: val.map(
+                        (item) => 'content/categories/' + item + '.md'
+                      ),
+                    }
+                  : 'content/categories/' + val[0] + '.md',
+            },
+          ]
+        )
       } else {
         pipeline[filter] =
           val.length > 1
@@ -52,8 +79,12 @@ export default async (
       }
     }
   })
+  if (!pipeline.$or.length) {
+    delete pipeline.$or
+  } else {
+    pipeline.$or = pipeline.$or.flat()
+  }
   console.log('pipeline: ', pipeline)
-
   const count = await $content(cat, { deep })
     .search(search)
     .where(pipeline)
@@ -134,7 +165,7 @@ export default async (
             .fetch()
         if (item.category_2 && item.category_2.length)
           item.category_2 = await $content(
-            item.category_2.split('/').slice(1).join('/').split('.')[0]
+            item.category_2.split('/').slice(1).join('/').split('.')[0] // TODO fix (or keep) this shameful display of bad string manipulation. One slice could do it no?
           )
             .only(['name', 'color'])
             .fetch()

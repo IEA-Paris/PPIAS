@@ -30,7 +30,7 @@ export default (document) => {
     })
     document.countMap = countMap
     document.countRefs = countRefs
-    console.log(`${chalk.green('✔')}  Generated stats for ${document.slug}`)
+    /*     console.log(`${chalk.green('✔')}  Generated stats for ${document.slug}`) */
     return document
   }
   return document

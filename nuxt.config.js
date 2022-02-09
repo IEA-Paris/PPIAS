@@ -1,7 +1,7 @@
 import EventEmitter from 'events'
 import config from './config.js'
 import contentHooks from './tools/content'
-import printRoutes from './assets/generated/routes'
+import { writePrintRoutes } from './tools/lib/contentUtilities.js'
 EventEmitter.defaultMaxListeners = 20
 export default {
   env: { config },
@@ -470,7 +470,7 @@ export default {
     /*
      * PDF generation routes. (expanding nuxt.generate)
      */
-    routes: printRoutes,
+    routes: async () => await writePrintRoutes(),
   },
   /*
    ** Page Layout transition

@@ -202,11 +202,11 @@ module.exports = async function PDF(moduleOptions) {
 
     for (let i = 0; i < routes.length; i++) {
       const route = routes[i]
-      console.log(
+      /*      console.log(
         chalk.cyan('↻') +
           ` Generating PDF ${i + 1}:${routes.length} at route ` +
           route.route
-      )
+      ) */
 
       try {
         // Merge route meta with defaults from config.
@@ -263,7 +263,7 @@ module.exports = async function PDF(moduleOptions) {
         document.setAuthor(meta.author || '')
         document.setSubject(meta.subject || '')
         document.setProducer(meta.producer || '')
-        document.setCreationDate(meta.creationDate || new Date())
+        document.setCreationDate(new Date(meta.creationDate) || new Date())
         document.setKeywords(meta.keywords || [])
         document.setLanguage(meta.language || '')
 
