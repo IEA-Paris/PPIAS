@@ -4,7 +4,6 @@ import {
   mergeDeep,
   insertDocuments,
   writePrintRoutes,
-  makeFiltersData,
 } from '../lib/contentUtilities'
 const filterAndMerge = (first, second) => {
   first = first.filter((author) => {
