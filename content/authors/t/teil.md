@@ -1,6 +1,6 @@
 ---
 articles:
-  - Our Microbial Lives - table-ronde 2
+- Our Microbial Lives - table-ronde 2
 createdAt: '2022-01-21T10:23:03.810Z'
 firstname: 'Geneviève '
 lastname: Teil
@@ -18,7 +18,8 @@ social_channels:
   website: ''
   wikipedia: ''
 titles_and_institutions:
-  - institution: INRA, France
-    titles: []
+- institution: INRA, France
+  titles: []
 
 ---
+Geneviève Teil est chercheuse en sociologie à l'INRA. Elle s'intéresse aux questions de la circulation marchande des produits de qualité, du goût des consommateurs, et des prescriptions relatives à la consommation.
