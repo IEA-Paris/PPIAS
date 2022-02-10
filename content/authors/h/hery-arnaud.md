@@ -24,4 +24,4 @@ titles_and_institutions:
   titles: []
 
 ---
-Geneviève Hery-Arnaud est Professeur des Universités-Praticien Hospitalier à l'Université de Bretagne Occidentale, Centre Hospitalier Régional Universitaire de Brest-NSERM UMR 1078, Axe Microbiota-Unité de Bactériologie
+Geneviève Hery-Arnaud est Professeure des Universités-Praticien Hospitalier à l'Université de Bretagne Occidentale, Centre Hospitalier Régional Universitaire de Brest-NSERM UMR 1078, Axe Microbiota-Unité de Bactériologie
