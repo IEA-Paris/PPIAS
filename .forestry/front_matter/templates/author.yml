@@ -115,6 +115,3 @@ fields:
     match articles authors against a unique person.
 pages:
 - content/authors/Aghion.md
-- content/authors/a/Aumann.md
-- content/authors/c/Copeland.md
-- content/authors/r/Rabinovici.md
