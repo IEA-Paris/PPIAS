@@ -71,7 +71,7 @@ picture: ''
 picture_copyright: ''
 yt: mAEoGVjHjUQ
 highlight: false
-bibliography: ''
+bibliography: "/documents-exportes_tb3_lee.bib"
 
 ---
 ## Écologies microbiennes dans les corps humains et animaux
