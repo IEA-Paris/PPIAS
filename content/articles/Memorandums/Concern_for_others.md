@@ -18,7 +18,7 @@ yt: ''
 published: true
 pinned: false
 highlight: true
-bibliography: ''
+bibliography: "/documents-exportes_memo1.bib"
 authors:
 - firstname: Victor
   lastname: Galonnier
