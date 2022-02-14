@@ -19,7 +19,7 @@ picture_copyright: ''
 yt: ''
 published: true
 pinned: false
-bibliography: ''
+bibliography: "/documents-exportes_memo2.bib"
 authors:
 - firstname: 'Victor '
   lastname: 'Galonnier '
