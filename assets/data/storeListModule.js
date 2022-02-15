@@ -20,6 +20,7 @@ export const baseState = {
   numberOfPages: 0,
   itemsPerPage: 9,
   itemsPerPageArray: [9, 12, 16],
+  filtersCount: 0,
 }
 export const baseMutations = {
   setSearch(state, search) {
@@ -55,6 +56,20 @@ export const baseMutations = {
     console.log('filters: ', filters)
     state.filters[Object.keys(filters)[0]] = filters[Object.keys(filters)[0]]
   },
+  setFiltersCount(state) {
+    const filters = state.filters
+    state.filtersCount = Object.keys(filters)
+      // remove empty values
+      .filter(
+        (filter) =>
+          (typeof filters[filter] === 'boolean' &&
+            filters[filter] !== null &&
+            filters[filter] !== undefined) ||
+          (Array.isArray(filters[filter]) && filters[filter].length) ||
+          (typeof filters[filter] === 'object' &&
+            Object.keys(filters[filter]).length)
+      ).length
+  },
 }
 export const baseActions = {
   async updateFilters({ dispatch, commit, state }, value) {
@@ -84,14 +99,8 @@ export const baseActions = {
       // default filters
       ...filtersRaw[state.type],
     }
-    const query = {
-      ...(state.search && state.search),
-      ...(state.page > 1 && { page: state.page }),
-      ...(state.sortBy?.length && { sortBy: state.sortBy }),
-      ...((state.sortDesc?.length > 1 || state.sortDesc[0] === false) && {
-        sortDesc: state.sortDesc,
-      }),
-    }
+    const query = {}
+
     pipeline.$or = []
     console.log('filtersRaw[type]: ', filtersRaw[state.type])
     console.log(' state.filters: ', state.filters)
@@ -216,7 +225,20 @@ export const baseActions = {
       .limit(state.itemsPerPage)
       .skip(skipNumber())
       .fetch()
-
+    // update route
+    this.$router.replace({
+      query: {
+        ...(state.search && { search: state.search }),
+        ...(state.page > 1 && { page: state.page }),
+        ...(state.sortBy?.length && { sortBy: state.sortBy }),
+        ...((state.sortDesc?.length > 1 || state.sortDesc[0] === false) && {
+          sortDesc: state.sortDesc,
+        }),
+        ...(Object.keys(filters)?.length && {
+          filters: JSON.stringify(query.filters),
+        }),
+      },
+    })
     const pinnedItem = false
     // fetch the item categories
     if (['articles', 'media'].includes(state.type)) {
@@ -264,6 +286,7 @@ export const baseActions = {
       })
       sortedItems.push(...regularItems)
       console.log('sortedItems: ', sortedItems)
+      commit('setFiltersCount')
       commit('setItems', {
         items: sortedItems,
         total: totalItems,
@@ -271,4 +294,7 @@ export const baseActions = {
       })
     }
   },
+}
+export const baseGetters = {
+  filtersCount: (state) => {},
 }

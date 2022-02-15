@@ -3,13 +3,10 @@
     <template #activator="{ on: menu, attrs }">
       <v-tooltip bottom>
         <template #activator="{ on: tooltip }">
-          <v-btn
-            color="primary"
-            dark
-            v-bind="attrs"
-            v-on="{ ...tooltip, ...menu }"
-          >
-            Dropdown w/ Tooltip
+          <v-btn icon v-bind="attrs" v-on="{ ...tooltip, ...menu }">
+            <v-icon
+              ><!-- mdi-{{ ['', ''][('sort', 'views')].indexOf(type) }} --></v-icon
+            >
           </v-btn>
         </template>
         <span>Im A ToolTip</span>
@@ -17,12 +14,16 @@
     </template>
     <v-list>
       <v-list-item v-for="(item, index) in items" :key="index">
-        <v-list-item-title>{{ item.title }}</v-list-item-title>
+        <v-list-item-icon>
+          <v-icon>mdi-{{ item.icon }}</v-icon>
+        </v-list-item-icon>
+        <v-list-item-title>{{ item.text }}</v-list-item-title>
       </v-list-item>
     </v-list>
   </v-menu>
 </template>
 <script>
+import { sort } from '~/assets/data/lists'
 export default {
   props: {
     type: {
@@ -30,17 +31,21 @@ export default {
       default: '',
       required: true,
     },
-    items: {
-      type: Array,
-      default: () => [],
-      required: false,
+    menuType: {
+      type: String,
+      default: '',
+      required: true,
     },
   },
   data() {
-    return {}
+    return {
+      items: sort,
+    }
   },
   computed: {},
-  mounted() {},
+  mounted() {
+    console.log('sort: ', sort)
+  },
   methods: {},
 }
 </script>

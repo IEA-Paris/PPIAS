@@ -26,62 +26,8 @@
           </v-tooltip>
         </div>
         <v-spacer></v-spacer>
-        <!--  <IconMenu :type="sort"></IconMenu
-        > --><!--
-        <v-select
-          class="flex-grow-0"
-          no-data-text=""
-          solo
-          flat
-          append-icon="mdi-sort"
-          icon
-          x-large
-          tile
-          width="56"
-        >
-          <v-icon>mdi-view-list</v-icon>
-        </v-select>
-
-        <v-select
-          class="flex-grow-0"
-          no-data-text=""
-          solo
-          flat
-          append-icon="mdi-sort"
-          icon
-          x-large
-          tile
-          width="56"
-        >
-          <v-icon>mdi-view-quilt</v-icon>
-        </v-select>
-        <v-select
-          class="flex-grow-0"
-          no-data-text=""
-          solo
-          flat
-          append-icon="mdi-sort"
-          icon
-          x-large
-          tile
-          width="56"
-        >
-          <v-icon>mdi-text-long</v-icon>
-        </v-select>
-        <v-select
-          class="flex-grow-0"
-          no-data-text=""
-          solo
-          flat
-          append-icon="mdi-sort"
-          icon
-          x-large
-          tile
-          width="56"
-        >
-          <v-icon>mdi-sort</v-icon>
-        </v-select>
-        -->
+        <SortMenu :type="type"></SortMenu>
+        <!--   <IconMenu menu-type="view" :type="type"></IconMenu> -->
       </v-col>
     </v-row>
     <v-row
@@ -315,6 +261,7 @@
   </div>
 </template>
 <script>
+import { mapGetters } from 'vuex'
 export default {
   props: {
     addBtn: {
@@ -363,7 +310,7 @@ export default {
   },
   data() {
     return {
-      filter: this.$store.getters.filtersCount(this.type) > 0,
+      filter: Object.keys(this.$route.query) > 0,
     }
   },
   async fetch({ params, store: { dispatch, getters } }) {
@@ -435,7 +382,7 @@ export default {
       return this.$store.state[this.type].sortDesc
     },
     filtersCount() {
-      return this.$store.getters.filtersCount(this.type)
+      return this.$store.state[this.type].filtersCount
     },
     items() {
       return this.$store.state[this.type].items

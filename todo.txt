@@ -1,9 +1,12 @@
-- filters articles/media/authors,- search items
+
 - rich text footnote
 - bibliography
 - prerendered text fingerprint svgs
-- 
-- 
+- multicolor item categories
+- filters text label truncated
+- controls on youtube player
+- replace yt thumbnail by thumbnail
+
 Site Web IEA - 09/02/2022
 
 Objectifs de la réunion
