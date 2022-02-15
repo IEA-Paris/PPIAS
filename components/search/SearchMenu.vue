@@ -175,7 +175,6 @@ export default {
   props: {},
   data() {
     return {
-      searchStringRaw: this.$route.query.search || '',
       loading: false,
       results: [],
       open: this.searchString,
@@ -189,36 +188,34 @@ export default {
         return this.searchStringRaw
       },
       async set(newValue) {
-        this.loading = true
-        if (!newValue) {
-          console.log('pushin no new val')
-          this.$router.push({
-            query: { ...this.$route.query, search: undefined },
-          })
-          this.results = {
-            articles: [],
-            media: [],
-            authors: [],
-            articlesCount: 0,
-            mediaCount: 0,
-            authorsCount: 0,
-          }
-        } else {
-          this.searchStringRaw = newValue
-          this.$router.replace({
-            query: { ...this.$route.query, search: newValue },
-          })
-          const resultsRaw = await searchContent(this.$content, newValue)
-          this.results = {
-            articles: resultsRaw[0] || [],
-            media: resultsRaw[1] || [],
-            authors: resultsRaw[2] || [],
-            articlesCount: resultsRaw[3].length || 0,
-            mediaCount: resultsRaw[4].length || 0,
-            authorsCount: resultsRaw[5].length || 0,
+        if (!this.$wait.any) {
+          if (!newValue) {
+            console.log('pushin no new val')
+
+            this.results = {
+              articles: [],
+              media: [],
+              authors: [],
+              articlesCount: 0,
+              mediaCount: 0,
+              authorsCount: 0,
+            }
+          } else {
+            this.searchStringRaw = newValue
+            this.$router.replace({
+              query: { ...this.$route.query, search: newValue },
+            })
+            const resultsRaw = await searchContent(this.$content, newValue)
+            this.results = {
+              articles: resultsRaw[0] || [],
+              media: resultsRaw[1] || [],
+              authors: resultsRaw[2] || [],
+              articlesCount: resultsRaw[3].length || 0,
+              mediaCount: resultsRaw[4].length || 0,
+              authorsCount: resultsRaw[5].length || 0,
+            }
           }
         }
-        this.loading = false
       },
     },
   },
@@ -239,13 +236,11 @@ export default {
     clear() {
       console.log('this.base: ', this.base)
       console.log('this.$route.name : ', this.$route.path)
-      if (this.$route.name !== this.base) {
-        this.shouldFocus = false
-        this.open = false
-        this.$router.push({
-          query: { ...this.$route.query, search: undefined },
-        })
-      }
+      this.shouldFocus = false
+      this.open = false
+      this.$router.push({
+        query: { ...this.$route.query, search: undefined },
+      })
     },
     onIntersect(entries, observer) {
       // More information about these options

@@ -125,7 +125,7 @@ export default {
       cells: this.item?.body?.children.map((child, index) => {
         return {
           ...child,
-          countChars: this.item.countMap[index],
+          countChars: this.item?.countMap[index],
           countRefs: Math.floor(this.item.countRefs[index]),
         }
       }),
@@ -142,8 +142,8 @@ export default {
         countCodeCells: 10,
         countCells: this.item.body.children.length,
         extentChars: [
-          Math.min(...this.item.countMap),
-          Math.max(...this.item.countMap),
+          Math.min(...this.item?.countMap),
+          Math.max(...this.item?.countMap),
         ],
         extentRefs: [
           Math.min(...this.item.countRefs),

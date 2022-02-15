@@ -205,6 +205,8 @@ export default {
     '@nuxtjs/sentry',
     // https://github.com/nuxt-community/apollo-module
     /*  '@nuxtjs/apollo', */
+    // https://github.com/f/vue-wait
+    ['vue-wait/nuxt', { useVuex: true }],
   ],
   // XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
   // MODULES CONFIGURATIONS
@@ -283,21 +285,23 @@ export default {
   },
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {
-    basePlugins: [
+    /*     basePlugins: [
       'remark-squeeze-paragraphs',
       'rehype-slug',
       'rehype-autolink-headings',
       'rehype-external-links',
       'remark-gfm',
       'remark-bibliography',
-    ],
+    ], */
     fullTextSearchFields: [
       'lastname',
+      'authors.$.lastname',
       'article_title',
       'caption',
       'institution',
     ],
   },
+
   // Content hooks
   ...contentHooks,
   loading: {

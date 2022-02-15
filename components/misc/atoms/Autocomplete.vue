@@ -4,10 +4,14 @@
     v-bind="$attrs"
     multiple
     menu-props="offset-y"
-    :loading="$nuxt.loading"
+    :loading="$wait.any"
   >
-    <template #selection="{ item, index }">
-      <SelectionSlot :label="false" :item="item" :index="index" /> </template
+    <template #selection="{ index }">
+      <SelectionSlot
+        :label="false"
+        :items="selected"
+        :index="index"
+      /> </template
   ></v-autocomplete>
 </template>
 
@@ -19,50 +23,32 @@ export default {
       default: '',
       required: true,
     },
+    filter: {
+      type: String,
+      default: '',
+      required: true,
+    },
   },
   data() {
-    return {
-      selectedRaw: [],
-    }
+    return {}
   },
 
   computed: {
     selected: {
       get() {
-        return this.selectedRaw
+        console.log('this.$store.: ', this.$store.state)
+        return this.$store.state[this.type].filters[this.filter]
       },
-
       set(value) {
-        // set on parent
-        this.$router.replace({
-          query: {
-            ...this.$route.query,
-            [this.type]:
-              value && value.length ? JSON.stringify(value) : undefined,
-          },
+        this.$store.dispatch(this.type + '/updateFilters', {
+          [this.filter]: value,
         })
-        this.selectedRaw = value
-        console.log('QIUE')
       },
     },
   },
-  watch: {
-    '$route.query'() {
-      if (this.$route.query[this.type]) {
-        this.selectedRaw = JSON.parse(this.$route.query[this.type])
-      } else {
-        this.selectedRaw = []
-      }
-    },
-  },
 
-  created() {
-    if (this.$route.query[this.type]) {
-      this.selectedRaw = JSON.parse(this.$route.query[this.type])
-    } else {
-      this.selectedRaw = []
-    }
-  },
+  created() {},
   beforeCreate() {},
 }
 </script>
+<style scoped></style>

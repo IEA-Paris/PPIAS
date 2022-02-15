@@ -85,6 +85,9 @@ export default {
     data: {
       required: true,
       type: Object,
+      default: () => {
+        return { items: [], total: 0 }
+      },
     },
     filter: {
       required: false,
@@ -106,7 +109,9 @@ export default {
     return {}
   },
   computed: {},
-  mounted() {},
+  created() {
+    console.log('data', this.data)
+  },
   methods: {
     onScroll() {
       this.$store.commit('setScrolled')
@@ -119,3 +124,4 @@ export default {
   max-height: 500;
 }
 </style>
+,

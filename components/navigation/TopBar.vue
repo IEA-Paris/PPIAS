@@ -5,7 +5,7 @@
     clipped
     flat
     height="140"
-    :class="{ loading: !$nuxt.loading }"
+    :class="{ loading: !$wait.any }"
   >
     <div class="d-flex flex-grow-1 justify-space-between">
       <Logo color="#FFF" class="" />

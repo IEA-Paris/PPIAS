@@ -29,6 +29,7 @@
             :index="index"
             :item="item"
             :scroll="$store.state.scrolled"
+            class="ml-0"
           ></component>
         </v-col>
         <v-col cols="12" sm="6" md="4" class="transition-swing">

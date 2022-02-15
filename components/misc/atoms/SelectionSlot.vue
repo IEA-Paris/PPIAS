@@ -3,10 +3,14 @@
     <v-chip v-if="index < maxItems" outlined label>
       <span>{{ text }}</span>
     </v-chip>
-    <span v-if="index === maxItems" class="caption"
-      >&nbsp;(+{{ selection.length - maxItems }}
-      {{ $tc('misc.other', selection.length - maxItems) }})</span
-    >
+    <v-tooltip v-if="index === maxItems" bottom>
+      <template #activator="{ on, attrs }">
+        <span class="caption" v-bind="attrs" v-on="on"
+          >&nbsp;( {{ $t('pls-x-more', [items.length - maxItems]) }})</span
+        >
+      </template>
+      <span>{{ remainingItems }}</span>
+    </v-tooltip>
   </div>
 </template>
 
@@ -14,11 +18,7 @@
 import truncate from '~/assets/utils/truncate'
 export default {
   props: {
-    item: {
-      type: [Object, String],
-      default: () => ({}),
-    },
-    selection: {
+    items: {
       type: Array,
       default: () => [],
     },
@@ -35,9 +35,26 @@ export default {
   computed: {
     text() {
       return truncate(
-        typeof this.item === 'object' ? this.item.text : this.item,
+        typeof this.items[this.index] === 'object'
+          ? this.items[this.index].text
+          : this.items[this.index],
         18
       )
+    },
+    remainingItems() {
+      console.log(
+        'this.items',
+        this.items
+          .slice(this.maxItems)
+          .map((item) =>
+            truncate(typeof item === 'object' ? item.text : item, 18)
+          )
+          .join(', ')
+      )
+      return this.items
+        .slice(this.maxItems)
+        .map((item) => (typeof item === 'object' ? item.text : item), 18)
+        .join(', ')
     },
   },
 }

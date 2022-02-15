@@ -2,10 +2,9 @@
   <v-list-item
     nuxt
     :to="localePath('/articles/' + item.slug)"
-    class="pl-0"
     @click="$emit('close')"
   >
-    <v-list-item-avatar tile :class="{ graphIcon: !(item.yt || item.picture) }">
+    <v-list-item-avatar tile>
       <YoutubeThumbnail v-if="item.yt && item.yt.length" :item="item">
       </YoutubeThumbnail>
       <PictureItem

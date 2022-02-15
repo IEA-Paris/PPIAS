@@ -5,7 +5,7 @@
     @click="$emit('close')"
   >
     <v-list-item-icon>
-      <v-icon x-large class="ml-2">mdi-account-outline</v-icon>
+      <v-icon x-large>mdi-account-outline</v-icon>
     </v-list-item-icon>
     <v-list-item-content>
       <v-list-item-title>

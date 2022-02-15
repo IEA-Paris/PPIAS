@@ -166,6 +166,17 @@
   "titles-and-institutions": "Titles and Institutions",
   "years": "Year",
   "reset-your-search-filters": "Reset search",
-  "with-activefilters-filters": "with {0} filters",
-  "category": "Collection"
+  "with-activefilters-filters": "with no filters | with {count} filter | with {count} filters",
+  "category": "Collection",
+  "searching-for-string": "Searching for \"{0}\"",
+  "searching": "Searching",
+  "show-filters": "Show filters",
+  "hide-filters": "Hide filters",
+  "by-date-oldest-first": "By date, oldest first",
+  "by-date-most-recent-first": "By date, most recent first",
+  "by-name-from-z-to-a": "By name, from Z to A",
+  "by-name-from-a-to-z": "By name, from A to Z",
+  "tiles": "Tiles",
+  "list": "List",
+  "pls-x-more": "+ {0} more"
 }

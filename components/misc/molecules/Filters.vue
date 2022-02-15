@@ -1,34 +1,42 @@
 <template>
-  <aside class="d-sticky">
-    <v-expand-transition>
-      <v-btn
-        v-show="showReset"
+  <aside
+    class="d-sticky transition-swing"
+    :class="{ 'pr-6': $store.state.scrolled }"
+  >
+    <div class="mt-3">
+      <v-expand-transition>
+        <v-btn
+          v-show="showReset"
+          outlined
+          x-large
+          block
+          height="56"
+          @click="
+            $router.push({
+              query: null,
+            })
+          "
+          ><v-icon left>mdi-autorenew</v-icon
+          >{{ $t('reset-your-search-filters') }}</v-btn
+        >
+      </v-expand-transition>
+      <component
+        :is="filters[filter].type"
+        v-for="(filter, name) in Object.keys(filters)"
+        :key="name + type + filter"
+        hide-details
+        :dense="$vuetify.breakpoint.smAndDown"
+        :items="filters[filter].items.map((item) => $t(item))"
+        clearable
+        :label="$t(filter)"
+        min-height="56"
         outlined
-        x-large
-        block
-        @click="
-          $router.push({
-            query: null,
-          })
-        "
-        ><v-icon left>mdi-autorenew</v-icon
-        >{{ $t('reset-your-search-filters') }}</v-btn
-      >
-    </v-expand-transition>
-    <component
-      :is="filters[filter].type"
-      v-for="(filter, name) in Object.keys(filters)"
-      :key="name + type + filter"
-      hide-details
-      :dense="$vuetify.breakpoint.smAndDown"
-      :items="filters[filter].items.map((item) => $t(item))"
-      clearable
-      :label="$t(filter)"
-      outlined
-      :type="filter"
-      style="min-width: 150px"
-      class="my-3"
-    />
+        :type="type"
+        :filter="filter"
+        style="min-width: 150px"
+        :class="!showReset && name === 0 ? 'mb-3' : 'my-3'"
+      />
+    </div>
   </aside>
 </template>
 <script>
@@ -49,8 +57,7 @@ export default {
   },
   computed: {
     showReset() {
-      return Object.keys(this.$route.query).filter((item) => item !== 'page')
-        .length
+      return this.$store.state[this.type].filtersCount
     },
   },
   created() {},

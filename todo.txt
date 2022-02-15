@@ -1,5 +1,4 @@
-- filters articles/media/authors
-- search items
+- filters articles/media/authors,- search items
 - rich text footnote
 - bibliography
 - prerendered text fingerprint svgs
@@ -78,3 +77,6 @@ Discussion CMS (fonctionnalités, issue tracker)
 
 
 
+https://hubs.mozilla.com/avatars/Pux55mS,https://hubs.mozilla.com/avatars/UOifbTu,https://hubs.mozilla.com/avatars/HD26gdG,https://hubs.mozilla.com/avatars/MuNoCkD,https://hubs.mozilla.com/avatars/6kw0DUZ,https://hubs.mozilla.com/avatars/lyRRhnU,https://hubs.mozilla.com/avatars/ew6z5cb,https://hubs.mozilla.com/avatars/n7rAK41,https://hubs.mozilla.com/avatars/h3TUomL,https://hubs.mozilla.com/avatars/hlVzuc6,https://hubs.mozilla.com/avatars/U1Wu4fp,https://hubs.mozilla.com/avatars/n79yQpv,https://hubs.mozilla.com/avatars/dHckldI,https://hubs.mozilla.com/avatars/93fQAIj,https://hubs.mozilla.com/avatars/eER05Ce,https://hubs.mozilla.com/avatars/V8q9ylF,https://hubs.mozilla.com/avatars/b21D1o5,https://hubs.mozilla.com/avatars/qykdx8t,https://hubs.mozilla.com/avatars/6I9k4nL,https://hubs.mozilla.com/avatars/NJTZN7T,https://hubs.mozilla.com/avatars/hkTNrsv,https://hubs.mozilla.com/avatars/u1ItxwM,https://hubs.mozilla.com/avatars/rWo6iyb
+
+https://hubs.mozilla.com/scenes/gZrvwOn/conference-room-a,https://hubs.mozilla.com/scenes/OTVs5sA/outdoor-dome,https://hubs.mozilla.com/scenes/iEREbA6/gallery,https://hubs.mozilla.com/scenes/TWIcd4u/wideopenspace1,https://hubs.mozilla.com/scenes/uf5tEaI/meetingroom,https://hubs.mozilla.com/scenes/qRKdi0G/outdoor-meetup,https://hubs.mozilla.com/scenes/WQkxlrr/a-classy-game-room

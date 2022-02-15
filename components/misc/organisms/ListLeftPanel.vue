@@ -15,18 +15,73 @@
                 v-on="on"
               >
                 <v-icon :left="!filter">
-                  {{ filter ? 'mdi-chevron-left' : 'mdi-chevron-right' }}
+                  {{ filter ? 'mdi-chevron-left' : 'mdi-filter' }}
                 </v-icon>
                 {{ filter ? '' : $t('filters') }}
               </v-btn>
             </template>
             <span
-              v-html="
-                filter ? $t('hide-the-left-panel') : $t('show-the-left-panel')
-              "
+              v-html="filter ? $t('hide-filters') : $t('show-filters')"
             ></span>
           </v-tooltip>
         </div>
+        <v-spacer></v-spacer>
+        <!--  <IconMenu :type="sort"></IconMenu
+        > --><!--
+        <v-select
+          class="flex-grow-0"
+          no-data-text=""
+          solo
+          flat
+          append-icon="mdi-sort"
+          icon
+          x-large
+          tile
+          width="56"
+        >
+          <v-icon>mdi-view-list</v-icon>
+        </v-select>
+
+        <v-select
+          class="flex-grow-0"
+          no-data-text=""
+          solo
+          flat
+          append-icon="mdi-sort"
+          icon
+          x-large
+          tile
+          width="56"
+        >
+          <v-icon>mdi-view-quilt</v-icon>
+        </v-select>
+        <v-select
+          class="flex-grow-0"
+          no-data-text=""
+          solo
+          flat
+          append-icon="mdi-sort"
+          icon
+          x-large
+          tile
+          width="56"
+        >
+          <v-icon>mdi-text-long</v-icon>
+        </v-select>
+        <v-select
+          class="flex-grow-0"
+          no-data-text=""
+          solo
+          flat
+          append-icon="mdi-sort"
+          icon
+          x-large
+          tile
+          width="56"
+        >
+          <v-icon>mdi-sort</v-icon>
+        </v-select>
+        -->
       </v-col>
     </v-row>
     <v-row
@@ -43,13 +98,13 @@
         class="transition-swing pt-0"
       >
         <v-data-iterator
-          :loading="$nuxt.loading"
+          :loading="$wait.any"
           :items="items"
           :footer-props="{ itemsPerPageOptions: [5, 10, 20, 50, 100] }"
-          :server-items-length="total"
-          :options.sync="options"
+          :page="page"
           hide-default-footer
-          @update:page="$vuetify.goTo(0)"
+          :options="options"
+          :dense="$vuetify.breakpoint.mdAndDown"
         >
           <template #header>
             <v-container
@@ -71,23 +126,21 @@
               >
                 <v-col cols="12 ">
                   <div class="mr-4 text-subtitle-1 grey--text">
-                    <template v-if="$route.query && $route.query.search">
-                      Searching for "{{ $route.query && $route.query.search }}"
+                    <template v-if="filtersCount && !(search && search.length)">
+                      {{ $t('searching') }}
                     </template>
-                    <template v-if="activeFilters"
-                      >{{ $t('with-activefilters-filters', [activeFilters]) }}
+                    <template v-if="search">
+                      {{ $t('searching-for-string', [search]) }}
                     </template>
-                    <template
-                      v-if="
-                        activeFilters || ($route.query && $route.query.search)
-                      "
-                      >-
+                    <template v-if="filtersCount"
+                      >{{ $tc('with-activefilters-filters', [filtersCount]) }}
                     </template>
+                    <template v-if="filtersCount || search">- </template>
                     {{
                       $tc('total-' + type, total) +
                       ' - ' +
                       $t('page-current-of-total', {
-                        current: options.page,
+                        current: page,
                         total: numberOfPages,
                       })
                     }}
@@ -105,12 +158,12 @@
                     :placeholder="$t('search')"
                     prepend-inner-icon="mdi-magnify"
                     single-line
-                    :loading="$nuxt.loading"
-                    class="transition-swing"
+                    :loading="$wait.any"
+                    class="transition-swing mt-3"
                     outlined
                     hide-details
                     :dense="$vuetify.breakpoint.smAndDown"
-                    :disabled="$nuxt.loading"
+                    :disabled="$wait.any"
                     clearable
                     style="min-width: 150px"
                   >
@@ -145,7 +198,7 @@
               v-if="tiles"
               :data="props"
               :filter="filter"
-              :sections="Math.ceil(options.itemsPerPage / 3)"
+              :sections="Math.ceil(itemsPerPage / 3)"
               :type="type"
             ></FrontTiles>
             <RegularList
@@ -157,30 +210,31 @@
           </template>
 
           <template #no-data>
-            <div width="100%">
+            <div width="100%" class="my-6 ml-6">
               {{ $t('no-result-found') }}
             </div>
           </template>
           <template #no-result>
-            <template v-if="!activeFiltersCounter">
-              <div class="my-3" width="100%">
+            <template v-if="!filtersCount">
+              <div class="my-6 ml-6" width="100%">
                 {{ $t('no-result-found') }}
               </div>
             </template>
             <template v-else>
-              <div width="100%">
+              <div
+                width="100%"
+                :class="{ 'ml-6': !$store.state.scrolled }"
+                class="my-6"
+              >
                 {{ $t('no-result-matching-your-filters') }}
                 <br />
                 <v-btn
-                  v-if="activeFiltersCounter"
+                  v-if="filtersCount"
                   outlined
                   small
                   color="white"
                   class="ma-3"
-                  @click="
-                    $router.push({ query: undefined })
-                    updatePage(1)
-                  "
+                  @click="$store.dispatch(type + '/updatePage', 1)"
                 >
                   <v-icon left>mdi-refresh</v-icon>
                   {{ $t('reset-filters') }}
@@ -196,19 +250,20 @@
                 align="center"
               >
                 <v-sheet class="d-flex align-center">
-                  <span class="grey--text px-3">{{
-                    $t('items-per-page')
-                  }}</span>
+                  <span
+                    class="grey--text pr-3"
+                    :class="{ 'ml-6': !$store.state.scrolled }"
+                    >{{ $t('items-per-page') }}</span
+                  >
                   <v-select
-                    v-model="options.itemsPerPage"
+                    v-model="itemsPerPage"
                     class="perPageSelect"
                     solo
                     outlined
                     flat
                     dense
-                    :items="options.itemsPerPageArray"
+                    :items="$store.state[type].itemsPerPageArray"
                     hide-details
-                    @change="updatePage(1)"
                   ></v-select>
                 </v-sheet>
 
@@ -216,21 +271,26 @@
 
                 <div v-if="numberOfPages > 1">
                   <v-pagination
-                    total-visible="5"
-                    :v-model="options.page"
+                    :total-visible="5"
                     color="black"
                     large
-                    :value="+$route.query.page || 1"
+                    :value="page || 1"
                     :length="numberOfPages"
-                    @input="updatePage($event)"
+                    @input="
+                      $store.dispatch(type + '/updatePage', $event) &&
+                        $vuetify.goTo(0)
+                    "
                   ></v-pagination>
                 </div>
                 <v-spacer></v-spacer>
 
-                <span class="mr-4 grey--text">
+                <span
+                  class="grey--text"
+                  :class="$store.state.scrolled ? 'mr-4' : 'mr-10'"
+                >
                   {{
                     $t('page-current-of-total', {
-                      current: options.page,
+                      current: page,
                       total: numberOfPages,
                     })
                   }}
@@ -247,15 +307,14 @@
         :lg="filter ? 3 : 1"
         :md="filter ? 3 : 1"
         :sm="filter ? 5 : 1"
-        class="transition-swing filter-column pt-0"
+        class="transition-swing pt-0"
       >
-        <Filters :type="type" class="mt-8" />
+        <Filters :type="type" class="mt-7 w-100" />
       </v-col>
     </v-row>
   </div>
 </template>
 <script>
-import getContent from '~/assets/utils/getContent'
 export default {
   props: {
     addBtn: {
@@ -304,89 +363,95 @@ export default {
   },
   data() {
     return {
-      mobile: this.$vuetify.breakpoint.mobile,
-      filter:
-        Object.keys(this.$route?.query).filter((item) => item !== 'page')
-          .length > 0,
-      options: this.pagination,
-      numberOfPages: 0,
-      total: 0,
-      items: [],
-      rawSearch: this.$route?.query?.search || '',
+      filter: this.$store.getters.filtersCount(this.type) > 0,
     }
   },
-  async fetch() {
-    console.log('fetch')
-    // TODO: FIX/INVEsTIGUATE> looks like mobile is not detected correctly
-    this.rawSearch = this.$route.query.search
-    if (!this.$nuxt.loading) {
-      const rst = await getContent(
-        this.type,
-        this.$content,
-        this.$route.query,
-        this.$route.query.search,
-        true,
-        this.mobile,
-        this.options.itemsPerPage
-      )
-      if (rst) {
-        this.total = rst.total
-        this.numberOfPages = rst.numberOfPages
-        this.pinnedItem = rst.pinnedItem
-        this.items = rst.items
-      } else {
-        this.total = 0
-        this.numberOfPages = 1
-        this.pinnedItem = false
-        this.items = []
-      }
-    }
+  async fetch({ params, store: { dispatch, getters } }) {
+    console.log('fetch', this.type)
+    await dispatch(this.type + '/update')
   },
   computed: {
+    itemsPerPage: {
+      get() {
+        return this.$store.state[this.type].itemsPerPage
+      },
+      async set(v) {
+        console.log('this.type: ', this.type)
+        await this.$store.dispatch(this.type + '/updateItemsPerPage', v)
+        this.$vuetify.goTo(0)
+      },
+    },
     search: {
       get() {
-        return this.rawSearch
+        return this.$store.state[this.type].search
       },
-      set(value) {
-        if (value) {
-          this.$router.replace({
-            query: { ...this.$route.query, search: value },
-          })
-          this.rawSearch = value
-        } else {
-          this.$router.replace({
-            query: { ...this.$route.query, search: undefined },
-          })
+      async set(v) {
+        console.log('this.type: ', this.type)
+        await this.$store.dispatch(this.type + '/updateSearch', v)
+        this.$vuetify.goTo(0)
+      },
+    },
+    display: {
+      get() {
+        return this.$store.state[this.type].display
+      },
+      async set(v) {
+        await this.$store.dispatch(this.type + '/update', { display: v })
+        this.$vuetify.goTo(0)
+      },
+    },
+    total() {
+      console.log('this.type: ', this.type)
+
+      console.log(
+        'this.$store.state[this.type].total: ',
+        this.$store.state[this.type].type
+      )
+      return this.$store.state[this.type].total
+    },
+    options: {
+      get() {
+        return {
+          itemsPerPage: this.$store.state[this.type].itemsPerPage,
+          page: this.$store.state[this.type].page,
+          sortBy: this.$store.state[this.type].sortBy,
+          sortDesc: this.$store.state[this.type].sortDesc,
         }
       },
+      set(v) {
+        this.$vuetify.goTo(0)
+      },
     },
-    activeFilters() {
-      console.log(
-        'Object.keys(this.$route.query): ',
-        Object.keys(this.$route.query)
-      )
-      return Object.keys(this.$route.query).filter(
-        (item) =>
-          !['page', 'sort', 'search'].includes(item) ||
-          this.$route.query[item] !== undefined
-      ).length
+    numberOfPages() {
+      return this.$store.state[this.type].numberOfPages
+    },
+    page() {
+      return this.$store.state[this.type].page
+    },
+    sortBy() {
+      return this.$store.state[this.type].sortBy
+    },
+    sortDesc() {
+      return this.$store.state[this.type].sortDesc
+    },
+    filtersCount() {
+      return this.$store.getters.filtersCount(this.type)
+    },
+    items() {
+      return this.$store.state[this.type].items
     },
   },
-  watch: {
-    '$route.query': '$fetch',
-    options: '$fetch',
-  },
-  mounted() {
-    this.$fetch()
+  async mounted() {
+    await this.$store.dispatch(this.type + '/update')
   },
   updated() {},
   methods: {
-    async updatePage(page) {
+    /*     async updatePage(page) {
       await this.$router.push({
         query: { ...this.$route.query, page },
       })
       this.options.page = +page
-    },
+    }, */
   },
 }
 </script>
@@ -401,9 +466,6 @@ export default {
   margin-right: -1.5rem;
   overflow: hidden;
   padding-bottom: 10px;
-}
-.filter-column {
-  /*  outline: 1px dotted ButtonText; */
 }
 .perPageSelect {
   max-width: 90px;

@@ -35,20 +35,6 @@
         :color="$vuetify.theme.themes.light.primary"
         hide-details
         clearable
-        @keyup="
-          $emit('search', searchString) &&
-            $router.push({ query: { ...$route.query, search: searchString } })
-        "
-        @keydown.esc.prevent="
-          expand = false
-          $emit('esc')
-          $router.push({ query: { ...$route.query, search: undefined } })
-        "
-        @click:clear="
-          expand = false
-          $emit('esc')
-          $router.push({ query: { ...$route.query, search: undefined } })
-        "
       />
     </v-expand-x-transition>
   </div>
@@ -57,24 +43,23 @@
 export default {
   props: {},
   data() {
-    return {
-      expand: this.$route.query.search,
-      searchString: this.$route.query.search || '',
-    }
+    return {}
   },
-  computed: {},
-  watch: {
-    '$route.query.search'(newQuery, oldQuery) {
-      console.log('search from input: ', newQuery)
-      if (!newQuery) this.searchString = null
+  computed: {
+    searchString: {
+      get() {
+        return this.$store.state[this.type].search
+      },
+      set(value) {
+        this.$store.dispatch(this.type + '/updateSearch', value)
+      },
+    },
+    expand() {
+      return this.searchString.length > 0
     },
   },
-  created() {
-    if (this.$route.query.search) {
-      this.expand = true
-      this.searchString = this.$route.query.search
-    }
-  },
+  watch: {},
+  created() {},
   mounted() {},
   methods: {
     showInput() {

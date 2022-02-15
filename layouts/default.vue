@@ -22,7 +22,7 @@ export default {
       isProd: process.env.NODE_ENV === 'production',
     }
   },
-  mounted() {
+  created() {
     /*  this.$nuxt.$loading.finish = function () {
       this.clear()
       this.pause()
