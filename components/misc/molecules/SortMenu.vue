@@ -12,14 +12,14 @@
             v-on="{ ...tooltip, ...menu }"
           >
             <v-icon
-              >mdi-{{
+              >mdi-sort<!-- {{
                 Object.keys(items).find((item) => {
                   return (
                     items[item].value[0] === $store.state[type].sortBy &&
                     items[item].value[1] === $store.state[type].sortDesc
                   )
                 }).icon
-              }}</v-icon
+              }} --></v-icon
             >
           </v-btn>
         </template>
