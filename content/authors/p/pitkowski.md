@@ -1,6 +1,6 @@
 ---
 articles:
-  - Our Microbial Lives - table-ronde 1
+- Our Microbial Lives - table-ronde 1
 createdAt: '2022-01-14T16:39:17.952Z'
 firstname: 'Anne '
 lastname: Pitkowski
@@ -18,7 +18,8 @@ social_channels:
   website: ''
   wikipedia: ''
 titles_and_institutions:
-  - institution: Fromageries BEL, France
-    titles: []
+- institution: Fromageries BEL, France
+  titles: []
 
 ---
+Anne Pitkowski est directrice de recherche et open innovation dans le groupe Bel

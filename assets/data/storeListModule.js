@@ -56,6 +56,11 @@ export const baseMutations = {
     console.log('filters: ', filters)
     state.filters[Object.keys(filters)[0]] = filters[Object.keys(filters)[0]]
   },
+  setSort(state, values) {
+    console.log('values: ', values)
+    state.sortBy = [values[0]]
+    state.sortDesc = [values[1]]
+  },
   setFiltersCount(state) {
     const filters = state.filters
     state.filtersCount = Object.keys(filters)
@@ -72,6 +77,10 @@ export const baseMutations = {
   },
 }
 export const baseActions = {
+  async updateSort({ dispatch, commit, state }, value) {
+    commit('setSort', value)
+    await dispatch('update')
+  },
   async updateFilters({ dispatch, commit, state }, value) {
     commit('setFilters', value)
     await dispatch('update')
@@ -99,7 +108,7 @@ export const baseActions = {
       // default filters
       ...filtersRaw[state.type],
     }
-    const query = {}
+    const queryFilters = {}
 
     pipeline.$or = []
     console.log('filtersRaw[type]: ', filtersRaw[state.type])
@@ -122,8 +131,7 @@ export const baseActions = {
         return
       }
       // update route query
-      if (!query?.filters) query.filters = {}
-      query.filters[filter] = filters[filter]
+      queryFilters[filter] = filters[filter]
       const val = filters[filter]
       // convert filters into mongo-like loki query & push in the pipeline
       if (
@@ -182,7 +190,7 @@ export const baseActions = {
       }
     })
     console.log('pipeline: ', pipeline)
-    console.log('query: ', query)
+    console.log('queryFilters: ', queryFilters)
     if (!pipeline.$or.length) {
       delete pipeline.$or
     } else {
@@ -216,29 +224,40 @@ export const baseActions = {
       }
       return (state.page - 1) * state.itemsPerPage
     }
-    console.log('skipNumber(): ', skipNumber())
+    console.log('skipNumber(): ', {
+      [state.sortBy[0] || 'date']: state.sortDesc[0] ? 'desc' : 'asc',
+    })
 
     let items = await this.$content(state.type, { deep: true })
       .where(pipeline)
       .search(state.search)
-      .sortBy(state.sortBy)
+      .sortBy({
+        [state.sortBy[0] || 'date']: state.sortDesc[0] || 'desc',
+      })
       .limit(state.itemsPerPage)
       .skip(skipNumber())
       .fetch()
     // update route
-    this.$router.replace({
-      query: {
-        ...(state.search && { search: state.search }),
-        ...(state.page > 1 && { page: state.page }),
-        ...(state.sortBy?.length && { sortBy: state.sortBy }),
-        ...((state.sortDesc?.length > 1 || state.sortDesc[0] === false) && {
-          sortDesc: state.sortDesc,
-        }),
-        ...(Object.keys(filters)?.length && {
-          filters: JSON.stringify(query.filters),
-        }),
-      },
-    })
+    const query = {
+      ...(state.search && { search: state.search }),
+      ...(state.page > 1 && { page: state.page }),
+      ...(state.sortBy?.length && { sortBy: state.sortBy[0] }),
+      ...(state.sortDesc?.length > 1 && {
+        sortDesc: state.sortDesc,
+      }),
+      ...(Object.keys(filters)?.length && {
+        filters: JSON.stringify(queryFilters),
+      }),
+    }
+    console.log('query: ', query)
+    if (
+      JSON.stringify(this.$router.currentRoute.query) !== JSON.stringify(query)
+    ) {
+      this.$router.replace({
+        query,
+      })
+    }
+
     const pinnedItem = false
     // fetch the item categories
     if (['articles', 'media'].includes(state.type)) {

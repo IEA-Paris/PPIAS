@@ -26,6 +26,7 @@
           </v-tooltip>
         </div>
         <v-spacer></v-spacer>
+        <ViewMenu :type="type"></ViewMenu>
         <SortMenu :type="type"></SortMenu>
         <!--   <IconMenu menu-type="view" :type="type"></IconMenu> -->
       </v-col>
@@ -379,7 +380,9 @@ export default {
       return this.$store.state[this.type].sortBy
     },
     sortDesc() {
-      return this.$store.state[this.type].sortDesc
+      return this.$store.state[this.type].sortDesc[0] !== 'asc'
+        ? [false]
+        : [true]
     },
     filtersCount() {
       return this.$store.state[this.type].filtersCount

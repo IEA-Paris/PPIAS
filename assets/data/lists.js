@@ -24,18 +24,22 @@ export default {
       nameasc: {
         icon: 'sort-alphabetical-ascending',
         text: 'by-name-from-a-to-z',
+        value: ['article_title', 'asc'],
       },
       namedesc: {
         icon: 'sort-alphabetical-descending',
         text: 'by-name-from-z-to-a',
+        value: ['article_title', 'desc'],
       },
       dateasc: {
         icon: 'sort-calendar-ascending',
         text: 'by-date-most-recent-first',
+        value: ['date', 'asc'],
       },
       datedesc: {
         icon: 'sort-calendar-descending',
         text: 'by-date-oldest-first',
+        value: ['date', 'desc'],
       },
     },
     views: [
