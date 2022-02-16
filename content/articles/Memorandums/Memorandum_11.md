@@ -1,49 +1,48 @@
 ---
 issue: content/issues/10-12-2021.md
 tags:
-  - 'Human Behaviours, Social Relations '
-  - 'Inequalities, Poverty, Development '
-  - 'Equality & Diversity Studies '
-  - Work, Welfare, Social protection
-  - 'Consumption and Production Patterns '
-  - Public Policy, Evaluation, Impact
-  - 'Firms, Markets, Finance '
-  - 'Agriculture, Alimentation '
-  - 'Agriculture, Alimentation '
-  - 'Big Data, Artificial Intelligence '
-  - 'Education '
+- 'Human Behaviours, Social Relations '
+- 'Inequalities, Poverty, Development '
+- 'Equality & Diversity Studies '
+- Work, Welfare, Social protection
+- 'Consumption and Production Patterns '
+- Public Policy, Evaluation, Impact
+- 'Firms, Markets, Finance '
+- 'Agriculture, Alimentation '
+- 'Agriculture, Alimentation '
+- 'Big Data, Artificial Intelligence '
+- 'Education '
 date: 2021-01-31T23:00:00.000+00:00
-article_title:
-  'Economy, housing, education: inequalities reinforced by the Covid
+article_title: 'Economy, housing, education: inequalities reinforced by the Covid
   pandemic-19'
-picture: '/engin-akyurt-_hn4zngxh5w-unsplash-1-1.jpg'
+picture: "/engin-akyurt-_hn4zngxh5w-unsplash-1-1.jpg"
 picture_copyright: ''
 yt: ''
 published: true
 pinned: false
 highlight: false
-bibliography: ''
+bibliography: "/my-collection_memo11.bib"
 authors:
-  - firstname: 'Victor '
-    lastname: Galonnier
+- firstname: 'Victor '
+  lastname: Galonnier
 abstract: |-
   The Covid-19 pandemic has led to an economic crisis with strong social consequences. The main findings show an increase in inequalities and an increase in poverty. The poorest countries had fewer public resources to cope with this exogenous shock and their economies were particularly weakened. Within developed countries, the most vulnerable people were the most affected, while the richest people had little or no impact. The consequences of the pandemic affect people’s lives in many ways and inequalities are visible in different areas: income, employment, housing, education. These inequalities are intergenerational, gendered, social and economic.
   Memorandum 11 : overview of the studies and projects registered on WPRN database
 category_1: content/categories/WPRN.md
 category_2: ''
 keywords:
-  - Human Behaviours, Social Relations
-  - 'Inequalities, Poverty, Development '
-  - Equality & Diversity Studies
-  - Work, Welfare, Social protection
-  - Public Policy, Evaluation, Impact
-  - 'Case Study '
-  - Agriculture, Alimentation
-  - 'Big Data, Artificial Intelligence '
-  - 'Education '
+- Human Behaviours, Social Relations
+- 'Inequalities, Poverty, Development '
+- Equality & Diversity Studies
+- Work, Welfare, Social protection
+- Public Policy, Evaluation, Impact
+- 'Case Study '
+- Agriculture, Alimentation
+- 'Big Data, Artificial Intelligence '
+- 'Education '
 language: English
----
 
+---
 ## Economy, housing, education: inequalities reinforced by the Covid pandemic-19
 
 The Covid-19 pandemic has led to an economic crisis with strong social consequences. The main findings show an increase in inequalities and an increase in poverty. The poorest countries had fewer public resources to cope with this exogenous shock and their economies were particularly weakened. Within developed countries, the most vulnerable people were the most affected, while the richest people had little or no impact. The consequences of the pandemic affect people’s lives in many ways and inequalities are visible in different areas: income, employment, housing, education. These inequalities are intergenerational, gendered, social and economic.
