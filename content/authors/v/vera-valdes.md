@@ -1,9 +1,9 @@
 ---
 articles:
-- Session 3 - Economic & Financial Impacts
+  - Session 3 - Economic & Financial Impacts
 createdAt: '2022-01-17T14:32:20.295Z'
 firstname: J. Eduardo
-lastname: " Vera-Valdés"
+lastname: ' Vera-Valdés'
 picture: ''
 picture_copyright: ''
 reference: ''
@@ -18,8 +18,8 @@ social_channels:
   website: ''
   wikipedia: ''
 titles_and_institutions:
-- institution: Aalborg University, Denmark
-  titles: []
+  - institution: Aalborg University, Denmark
+    titles: []
 
 ---
 

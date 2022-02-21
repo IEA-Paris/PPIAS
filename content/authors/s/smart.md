@@ -1,6 +1,6 @@
 ---
 articles:
-- Session 3 - Economic & Financial Impacts
+  - Session 3 - Economic & Financial Impacts
 createdAt: '2022-01-17T14:32:20.295Z'
 firstname: 'Jenny '
 lastname: Smart
@@ -18,8 +18,8 @@ social_channels:
   website: ''
   wikipedia: ''
 titles_and_institutions:
-- institution: International Food Policy Research Institute (IFPRI), USA
-  titles: []
+  - institution: International Food Policy Research Institute (IFPRI), USA
+    titles: []
 
 ---
 Jenny (Cairns) Smart has been an analyst with IFPRI since 2016 and has over eight years of post-Masters research experience. She was also a Flagship Manager for the IFPRI-led CGIAR collaborative research program on policies, institutions and markets (PIM) from 2019 to 2021. Since 2012, she has designed and supervised the implementation of several large and complex household-level agricultural surveys in Mozambique, and has performed the cleaning, organization and analysis of several types of cross-sectional, panel and price datasets collected from these surveys, existing national accounts and other sources.

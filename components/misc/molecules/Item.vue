@@ -6,18 +6,18 @@
           <slot name="categories"></slot>
         </div>
 
-        <span v-if="hasContent('caption')" id="caption-content">
-          <div class="ma-3">
+        <span v-if="hasContent('caption')" class="caption-content-frame">
+          <div class="caption-content ma-3">
             <slot name="caption"></slot>
           </div>
         </span>
-        <div v-if="hasContent('author')" id="caption-author">
+        <div v-if="hasContent('author')" class="caption-author">
           <slot name="author"></slot>
           <div></div>
         </div>
       </div>
       <div v-if="hasContent('date')" class="bottom">
-        <span id="caption-date">
+        <span class="caption-date">
           <slot name="date"></slot>
         </span>
       </div>
@@ -80,9 +80,9 @@ export default {
   -webkit-animation: breathing 5s ease-out infinite normal;
   animation: breathing 5s ease-out infinite normal;
 } */
-#caption-content,
-#caption-author,
-#caption-date {
+.caption-content,
+.caption-author,
+.caption-date {
   background-position: 0;
   background-size: 200%;
   transition: all 0.6s ease-in;
@@ -90,7 +90,7 @@ export default {
   text-decoration: none;
   max-width: 66%;
 }
-#caption-content {
+.caption-content {
   font-size: 1.25rem;
   line-height: 1.7rem;
   text-decoration: none;
@@ -104,7 +104,10 @@ export default {
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
-#caption-author {
+.caption-content-frame {
+  overflow: hidden;
+}
+.caption-author {
   padding: 4px;
   color: white;
   background-image: linear-gradient(to left, black 100%, white 100%);
@@ -113,7 +116,7 @@ export default {
   text-shadow: 1px 1px 0 alpha(black, 0.6);
 }
 
-#caption-date {
+.caption-date {
   position: absolute;
   bottom: 10px;
   left: 10px;
