@@ -1,27 +1,6 @@
 import filtersRaw from '~/assets/data/filters'
-export const baseState = {
-  type: 'articles',
-  items: [],
-  display: 0,
-  views: [],
-  total: 0,
-  filters: {
-    years: [],
-    category: [],
-    tags: [],
-    language: [],
-  },
-  skip: 0,
-  limit: 20,
-  search: '',
-  page: 1,
-  sortBy: [],
-  sortDesc: [true],
-  numberOfPages: 0,
-  itemsPerPage: 9,
-  itemsPerPageArray: [9, 12, 16],
-  filtersCount: 0,
-}
+import lists from '~/assets/data/lists'
+
 export const baseMutations = {
   setSearch(state, search) {
     state.search = search
@@ -30,13 +9,11 @@ export const baseMutations = {
     state.items = values.items
     state.total = values.total
     state.numberOfPages = values.numberOfPages
-    console.log('state2: ', state)
   },
   setItemsPerPage(state, value) {
     state.itemsPerPage = value
   },
   setPage(state, page) {
-    console.log('state: ', state)
     state.page = page
     if (page) {
       if (page <= Math.ceil(state.total / state.itemsPerPage)) {
@@ -59,11 +36,15 @@ export const baseMutations = {
   setSort(state, values) {
     console.log('values: ', values)
     state.sortBy = [values[0]]
-    state.sortDesc = [values[1]]
+    state.sortDesc = [values[1] === 'desc']
+  },
+  setView(state, value) {
+    console.log('value: ', value)
+    state.view = value
   },
   setFiltersCount(state) {
     const filters = state.filters
-    state.filtersCount = Object.keys(filters)
+    const filtersCount = Object.keys(filters)
       // remove empty values
       .filter(
         (filter) =>
@@ -74,11 +55,27 @@ export const baseMutations = {
           (typeof filters[filter] === 'object' &&
             Object.keys(filters[filter]).length)
       ).length
+    console.log('filtersCount: ', filtersCount)
+    state.filtersCount = filtersCount
+  },
+  setBlankState(state) {
+    console.log('RESET STATE')
+    state.filters = { years: [], category: [], tags: [], language: [] }
   },
 }
 export const baseActions = {
+  async resetState({ dispatch, commit, state }, value) {
+    commit('setBlankState')
+    commit('setPage', 1)
+    await dispatch('update')
+  },
   async updateSort({ dispatch, commit, state }, value) {
     commit('setSort', value)
+    commit('setPage', 1)
+    await dispatch('update')
+  },
+  async updateView({ dispatch, commit, state }, value) {
+    commit('setView', value)
     await dispatch('update')
   },
   async updateFilters({ dispatch, commit, state }, value) {
@@ -87,7 +84,6 @@ export const baseActions = {
   },
   async updateItemsPerPage({ dispatch, commit, state }, value) {
     commit('setPage', 1)
-    console.log('setItemsPerPage: ', value)
     commit('setItemsPerPage', value)
     await dispatch('update')
   },
@@ -97,13 +93,10 @@ export const baseActions = {
     await dispatch('update')
   },
   async updateSearch({ dispatch, commit, state }, search) {
-    console.log('search: ', search)
     commit('setSearch', search)
     await dispatch('update')
   },
-  async update({ dispatch, commit, state }, value = {}) {
-    console.log('type: ', state.type)
-    console.log('search', state.search)
+  async update({ dispatch, commit, state, getters }, value = {}) {
     const pipeline = {
       // default filters
       ...filtersRaw[state.type],
@@ -112,7 +105,6 @@ export const baseActions = {
 
     pipeline.$or = []
     console.log('filtersRaw[type]: ', filtersRaw[state.type])
-    console.log(' state.filters: ', state.filters)
     const filters = state.filters
 
     Object.keys(filters).forEach((filter) => {
@@ -138,7 +130,6 @@ export const baseActions = {
         filters[filter] ||
         (Array.isArray(filters[filter]) && filters[filter].length)
       ) {
-        console.log('val: ', val)
         // check if we are matching against an array value
         if (['tags'].includes(filter)) {
           pipeline[filter] = { $containsAny: val }
@@ -147,7 +138,6 @@ export const baseActions = {
         } else if (['language'].includes(filter)) {
           pipeline.language = { $in: val }
         } else if (filter === 'years') {
-          console.log('year: ', new Date(+val[0] + 1, 0))
           if (val.length > 1) {
             pipeline.$or.push(
               val.map((year) => {
@@ -189,8 +179,6 @@ export const baseActions = {
         }
       }
     })
-    console.log('pipeline: ', pipeline)
-    console.log('queryFilters: ', queryFilters)
     if (!pipeline.$or.length) {
       delete pipeline.$or
     } else {
@@ -224,32 +212,48 @@ export const baseActions = {
       }
       return (state.page - 1) * state.itemsPerPage
     }
-    console.log('skipNumber(): ', {
-      [state.sortBy[0] || 'date']: state.sortDesc[0] ? 'desc' : 'asc',
-    })
+    console.log(
+      'sort(): ',
+      state.sortBy[0],
+      state.sortDesc[0] || getters.defaultSort.value[1] ? 'desc' : 'asc'
+    )
 
     let items = await this.$content(state.type, { deep: true })
-      .where(pipeline)
       .search(state.search)
-      .sortBy({
-        [state.sortBy[0] || 'date']: state.sortDesc[0] || 'desc',
-      })
-      .limit(state.itemsPerPage)
+      .where(pipeline)
+      .sortBy(state.sortBy[0], state.sortDesc[0] ? 'desc' : 'asc')
       .skip(skipNumber())
+      .limit(state.itemsPerPage)
       .fetch()
+    console.log(items.map((item) => item.date))
     // update route
     const query = {
       ...(state.search && { search: state.search }),
-      ...(state.page > 1 && { page: state.page }),
-      ...(state.sortBy?.length && { sortBy: state.sortBy[0] }),
-      ...(state.sortDesc?.length > 1 && {
-        sortDesc: state.sortDesc,
-      }),
+      ...(state.page > 1 && { page: state.page.toString() }),
+      ...(state.sortBy?.length &&
+        state.sortBy[0] !== getters.defaultSort.value[0] && {
+          sortBy: state.sortBy[0],
+        }),
+      ...(state.sortDesc?.length &&
+        (state.sortDesc[0] ? 'desc' : 'asc') !==
+          getters.defaultSort.value[1] && {
+          sortDesc:
+            state.sortDesc[0] || getters.defaultSort.value[1] === 'desc',
+        }),
+      ...(state.view &&
+        state.view !== getters.defaultView.name && { view: state.view }),
       ...(Object.keys(filters)?.length && {
         filters: JSON.stringify(queryFilters),
       }),
     }
-    console.log('query: ', query)
+    const sortObject = (obj) => Object.fromEntries(Object.entries(obj).sort())
+    console.log('query: ', JSON.stringify(query))
+    console.log('query12: ', JSON.stringify(this.$router.currentRoute.query))
+    console.log(
+      'should replace',
+      JSON.stringify(sortObject(this.$router.currentRoute.query)) !==
+        JSON.stringify(sortObject(query))
+    )
     if (
       JSON.stringify(this.$router.currentRoute.query) !== JSON.stringify(query)
     ) {
@@ -271,7 +275,8 @@ export const baseActions = {
               .fetch()
           if (item.category_2 && item.category_2.length)
             item.category_2 = await this.$content(
-              item.category_2.split('/').slice(1).join('/').split('.')[0] // TODO fix (or keep) this shameful display of bad string manipulation. One slice could do it no?
+              // TODO fix (or keep as a lesson) this shameful display of bad string manipulation. One slice could do it, no?
+              item.category_2.split('/').slice(1).join('/').split('.')[0]
             )
               .only(['name', 'color'])
               .fetch()
@@ -279,12 +284,35 @@ export const baseActions = {
         })
       )
     }
-
-    // on mobile highlight slots are the first ones
-    if (window.$nuxt.$root.$vuetify.breakpoint.mobile) {
+    console.log('length', items.length)
+    /*     const isDesc = state.sortDesc[0] || getters.defaultSort.value[1]
+    const sorter = state.sortBy[0] || getters.defaultSort.value[0]
+    console.log('sorter: ', sorter)
+    items = items.sort(
+      (a, b) =>
+        (isDesc ? a[sorter] : b[sorter]) - (isDesc ? b[sorter] : a[sorter])
+    ) */
+    commit('setFiltersCount')
+    commit('setItems', {
+      items,
+      total: totalItems,
+      numberOfPages: lastPage,
+    })
+    /* HIGHLIGHT MECHANISM (disabled until reassessment of its usefulness & relevance
+    //TODO deal with that ) 
+    // on mobile or list view, highlight slots are the first ones
+    if (
+      window.$nuxt.$root.$vuetify.breakpoint.mobile ||
+      ['list', 'text'].includes(state.view)
+    ) {
       items = items.sort((a, b) => b.highlight - a.highlight)
-      console.log('sortedItems: ', items)
-      commit('update', items)
+      console.log('length2', items.length)
+      commit('setFiltersCount')
+      commit('setItems', {
+        items,
+        total: totalItems,
+        numberOfPages: lastPage,
+      })
     } else {
       // on md highlight slots are on a 1/5/6 pattern
       const availableSlots = state.itemsPerPage / 3
@@ -304,16 +332,30 @@ export const baseActions = {
         sortedItems.push(...regularItems.splice(index * 2, 2))
       })
       sortedItems.push(...regularItems)
-      console.log('sortedItems: ', sortedItems)
       commit('setFiltersCount')
       commit('setItems', {
         items: sortedItems,
         total: totalItems,
         numberOfPages: lastPage,
       })
-    }
+    } */
   },
 }
 export const baseGetters = {
   filtersCount: (state) => {},
+  defaultView: (state) => {
+    return lists[state.type].views[
+      Object.keys(lists[state.type].views).find(
+        (item) => lists[state.type].views[item].default === true
+      )
+    ]
+  },
+
+  defaultSort: (state) => {
+    return lists[state.type].sort[
+      Object.keys(lists[state.type].sort).find(
+        (item) => lists[state.type].sort[item].default === true
+      )
+    ]
+  },
 }

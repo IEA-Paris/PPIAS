@@ -5,6 +5,7 @@
       :color="item.category_1.color"
       label
       class="white--text"
+      v-bind="$attrs"
     >
       {{ item.category_1.path.slice(12) }}
     </v-chip>
@@ -13,6 +14,7 @@
       :color="item.category_2.color"
       label
       class="white--text"
+      v-bind="$attrs"
     >
       {{ item.category_2.path.slice(12) }}
     </v-chip>

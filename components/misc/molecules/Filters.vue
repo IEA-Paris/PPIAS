@@ -11,11 +11,7 @@
           x-large
           block
           height="56"
-          @click="
-            $router.push({
-              query: null,
-            })
-          "
+          @click="$store.dispatch(type + '/resetState')"
           ><v-icon left>mdi-autorenew</v-icon
           >{{ $t('reset-your-search-filters') }}</v-btn
         >

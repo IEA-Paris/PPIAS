@@ -6,9 +6,10 @@
           <slot name="categories"></slot>
         </div>
 
-        <span v-if="hasContent('caption')" id="caption-content">
-          <slot name="caption"></slot>
-          <br />
+        <span v-if="hasContent('caption')">
+          <div id="caption-content" class="ma-3">
+            <slot name="caption"></slot>
+          </div>
         </span>
         <div v-if="hasContent('author')" id="caption-author">
           <slot name="author"></slot>
@@ -50,6 +51,7 @@ export default {
 .frame {
   overflow: hidden;
   display: flex;
+  position: relative;
   flex: 1;
   width: 100%;
   align-items: center;
@@ -89,14 +91,18 @@ export default {
   max-width: 66%;
 }
 #caption-content {
-  font-size: 1.1rem;
-  line-height: 1.6rem;
+  font-size: 1.25rem;
+  line-height: 1.7rem;
   text-decoration: none;
   text-shadow: 1px 1px 0 alpha(white, 0.6);
-  padding: 12px;
+  padding: 8px;
   color: black;
   background-image: linear-gradient(to left, white 100%, black 100%);
   text-transform: uppercase;
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 #caption-author {
   padding: 4px;

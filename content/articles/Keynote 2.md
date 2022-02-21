@@ -43,7 +43,6 @@ highlight: false
 bibliography: "/documents-exportes_keynote2.bib"
 
 ---
-## The impact of COVID on SMEs in China based on multiple rounds of surveys before and after the shock
 
 Keynote presentation by Xiaobo Zhang during the WPRN21 conference in Paris on December 9th 2021
 

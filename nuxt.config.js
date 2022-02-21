@@ -102,7 +102,7 @@ export default {
     ],
     // Each item in the array maps to a newly-created <link> element,
     // where object properties map to attributes.
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    /*    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }], */
     // Each key:value maps to the equivalent attribute:value of the <body> element.
     // Example output: <body bar="baz">Foo Bar</body>
     /*    bodyAttrs: {

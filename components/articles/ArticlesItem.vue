@@ -114,9 +114,7 @@ export default {
       }
     },
   },
-  created() {
-    console.log('item', this.item.article_title)
-  },
+  created() {},
   mounted() {},
   methods: {
     resizeItem() {

@@ -1,6 +1,6 @@
 ---
 articles:
-- Our Microbial Lives - table-ronde 1
+  - Our Microbial Lives - table-ronde 1
 createdAt: '2022-01-14T16:39:17.952Z'
 firstname: 'Marc-André '
 lastname: Selosse
@@ -18,9 +18,10 @@ social_channels:
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Marc-Andr%C3%A9_Selosse
 titles_and_institutions:
-- institution: Institut de Systématique, Évolution, Biodiversité, Muséum national
-    d'Histoire naturelle, France
-  titles: []
+  - institution: >-
+      Institut de Systématique, Évolution, Biodiversité, Muséum national
+      d'Histoire naturelle, France
+    titles: []
 
 ---
 Marc-André Selosse est Professeur des universités, responsable de l'équipe de recherche Interactions et évolution végétale et fongique, Institut de systématique, évolution, biodiversité (ISYEB, UMR 7205), Muséum national d’histoire naturelle, Paris

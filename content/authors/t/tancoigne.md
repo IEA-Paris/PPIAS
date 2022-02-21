@@ -1,6 +1,6 @@
 ---
 articles:
-- Our Microbial Lives - table-ronde 1
+  - Our Microbial Lives - table-ronde 1
 createdAt: '2022-01-14T16:39:17.952Z'
 firstname: Élise
 lastname: Tancoigne
@@ -18,8 +18,8 @@ social_channels:
   website: https://www.etancoigne.fr/
   wikipedia: ''
 titles_and_institutions:
-- institution: 'Université de Lausanne, Switzerland '
-  titles: []
+  - institution: 'Université de Lausanne, Switzerland '
+    titles: []
 
 ---
 Elise Tancoigne est chercheuse à l’Université de Lausanne, chercheuse associée à l'IFPO (Institut Français du Proche-Orient), Amman (Jordanie). Qualifiée en section 72. 'Épistémologie, histoire des sciences et des techniques' du CNU. Membre du Comité d'ACIDUL (Association du Corps Intermédiaire De l'Université de Lausanne).

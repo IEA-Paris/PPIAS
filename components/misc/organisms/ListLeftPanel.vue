@@ -102,7 +102,7 @@
                   </div>
                   <v-text-field
                     v-model="search"
-                    :placeholder="$t('search')"
+                    :placeholder="$t('search-type', [$t(type)])"
                     prepend-inner-icon="mdi-magnify"
                     single-line
                     :loading="$wait.any"
@@ -115,7 +115,9 @@
                     style="min-width: 150px"
                   >
                     <template v-if="!search" #label>
-                      <div class="searchLabel">{{ $t('search') }}</div>
+                      <div class="searchLabel">
+                        {{ $t('search-type', [$t(type)]) }}
+                      </div>
                     </template></v-text-field
                   ></v-col
                 ></v-row
@@ -142,12 +144,18 @@
           </template>
           <template #default="props">
             <FrontTiles
-              v-if="tiles"
+              v-if="view === 'tiles'"
               :data="props"
               :filter="filter"
               :sections="Math.ceil(itemsPerPage / 3)"
               :type="type"
             ></FrontTiles>
+            <list-items
+              v-else-if="view === 'list'"
+              :data="props"
+              :filter="filter"
+              :type="type"
+            ></list-items>
             <RegularList
               v-else
               :data="props"
@@ -181,7 +189,7 @@
                   small
                   color="white"
                   class="ma-3"
-                  @click="$store.dispatch(type + '/updatePage', 1)"
+                  @click="$store.dispatch(type + '/resetState')"
                 >
                   <v-icon left>mdi-refresh</v-icon>
                   {{ $t('reset-filters') }}
@@ -262,15 +270,9 @@
   </div>
 </template>
 <script>
-import { mapGetters } from 'vuex'
 export default {
   props: {
     addBtn: {
-      type: Boolean,
-      required: false,
-      default: false,
-    },
-    tiles: {
       type: Boolean,
       required: false,
       default: false,
@@ -311,51 +313,24 @@ export default {
   },
   data() {
     return {
-      filter: Object.keys(this.$route.query) > 0,
+      filter: this.$store.state[this.type].filtersCount > 0,
     }
   },
   async fetch({ params, store: { dispatch, getters } }) {
-    console.log('fetch', this.type)
     await dispatch(this.type + '/update')
   },
   computed: {
+    view() {
+      return this.$store.state[this.type].view
+    },
     itemsPerPage: {
       get() {
         return this.$store.state[this.type].itemsPerPage
       },
       async set(v) {
-        console.log('this.type: ', this.type)
         await this.$store.dispatch(this.type + '/updateItemsPerPage', v)
         this.$vuetify.goTo(0)
       },
-    },
-    search: {
-      get() {
-        return this.$store.state[this.type].search
-      },
-      async set(v) {
-        console.log('this.type: ', this.type)
-        await this.$store.dispatch(this.type + '/updateSearch', v)
-        this.$vuetify.goTo(0)
-      },
-    },
-    display: {
-      get() {
-        return this.$store.state[this.type].display
-      },
-      async set(v) {
-        await this.$store.dispatch(this.type + '/update', { display: v })
-        this.$vuetify.goTo(0)
-      },
-    },
-    total() {
-      console.log('this.type: ', this.type)
-
-      console.log(
-        'this.$store.state[this.type].total: ',
-        this.$store.state[this.type].type
-      )
-      return this.$store.state[this.type].total
     },
     options: {
       get() {
@@ -370,6 +345,28 @@ export default {
         this.$vuetify.goTo(0)
       },
     },
+    search: {
+      get() {
+        return this.$store.state[this.type].search
+      },
+      async set(v) {
+        await this.$store.dispatch(this.type + '/updateSearch', v)
+        this.$vuetify.goTo(0)
+      },
+    },
+    display: {
+      get() {
+        return this.$store.state[this.type].display
+      },
+      async set(v) {
+        await this.$store.dispatch(this.type + '/update', { display: v })
+        this.$vuetify.goTo(0)
+      },
+    },
+    total() {
+      return this.$store.state[this.type].total
+    },
+
     numberOfPages() {
       return this.$store.state[this.type].numberOfPages
     },

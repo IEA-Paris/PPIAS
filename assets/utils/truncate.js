@@ -1,4 +1,4 @@
-export default (str, num) => {
+export default (str = '', num) => {
   if (str.length <= num) {
     return str
   }

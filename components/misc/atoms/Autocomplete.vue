@@ -6,11 +6,12 @@
     menu-props="offset-y"
     :loading="$wait.any"
   >
-    <template #selection="{ index }">
+    <template #selection="{ item, index }">
       <SelectionSlot
         :label="false"
         :items="selected"
         :index="index"
+        :item="item"
       /> </template
   ></v-autocomplete>
 </template>
@@ -36,8 +37,7 @@ export default {
   computed: {
     selected: {
       get() {
-        console.log('this.$store.: ', this.$store.state)
-        return this.$store.state[this.type].filters[this.filter]
+        return this.$store.state[this.type].filters[this.filter] || []
       },
       set(value) {
         this.$store.dispatch(this.type + '/updateFilters', {

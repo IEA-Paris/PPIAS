@@ -23,7 +23,7 @@
               x-large
               tile
               class="ma-2 mr-4 mb-4"
-              @click="clear()"
+              @click="open = false"
             >
               <v-icon>mdi-close</v-icon>
             </v-btn>
@@ -234,13 +234,9 @@ export default {
       })
     },
     clear() {
-      console.log('this.base: ', this.base)
-      console.log('this.$route.name : ', this.$route.path)
       this.shouldFocus = false
       this.open = false
-      this.$router.push({
-        query: { ...this.$route.query, search: undefined },
-      })
+      this.$store.dispatch(this.type + '/updateSearch', undefined)
     },
     onIntersect(entries, observer) {
       // More information about these options

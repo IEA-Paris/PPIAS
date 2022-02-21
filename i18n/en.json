@@ -178,5 +178,12 @@
   "by-name-from-a-to-z": "By title, from A to Z",
   "tiles": "Tiles",
   "list": "List",
-  "pls-x-more": "+ {0} more"
+  "pls-x-more": "+ {0} more",
+  "view-mode": "View mode: ",
+  "sort-mode": "Sort mode: ",
+  "view-tiles": "Quilted",
+  "view-text": "Text",
+  "view-list": "List",
+  "search-type": "Search {0}",
+  "no-other-mode-available": "No other mode available"
 }

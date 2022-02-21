@@ -51,14 +51,6 @@ export default {
   computed: {
     selected: {
       get() {
-        console.log(
-          '!this.$route.params.id ? this.$store.state.list[this.item] : this.$store.state.form[this.item]: ',
-          formatDate(
-            !this.$route.params.id
-              ? this.$store.state.list[this.item]
-              : this.$store.state.form[this.item]
-          )
-        )
         return formatDate(
           !this.$route.params.id
             ? this.$store.state.list[this.item]

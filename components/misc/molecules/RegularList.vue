@@ -6,7 +6,6 @@
     :class="{ 'py-0': !$store.state.scrolled, 'pl-0': filter }"
   >
     <v-row
-      v-bind="$attrs"
       class="transition-swing"
       :no-gutters="!$store.state.scrolled"
       :class="[

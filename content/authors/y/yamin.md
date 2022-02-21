@@ -1,10 +1,10 @@
 ---
 articles:
-- Emotions and Coping During Crisis - Session 6
-- Keynote 8
+  - Emotions and Coping During Crisis - Session 6
+  - Keynote 8
 createdAt: '2022-01-14T16:39:17.956Z'
 firstname: Paulius
-lastname: " Yamin "
+lastname: ' Yamin '
 picture: ''
 picture_copyright: ''
 reference: ''
@@ -19,11 +19,11 @@ social_channels:
   website: https://pauliusyamin.com/
   wikipedia: ''
 titles_and_institutions:
-- institution: London School of Economics and Political Science, United Kingdom
-  titles: []
-- institution: University of Pennsylvania, USA
-  titles:
-  - ''
+  - institution: London School of Economics and Political Science, United Kingdom
+    titles: []
+  - institution: University of Pennsylvania, USA
+    titles:
+      - ''
 
 ---
 Paulius is an alumnus of the PhD programme at the Department of Psychological and Behavioural Science, and is the current Managing Director of the Center for Social Norms and Behavioral Dynamics at the University of Pennsylvania.

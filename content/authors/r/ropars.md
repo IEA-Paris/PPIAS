@@ -1,6 +1,6 @@
 ---
 articles:
-- Our Microbial Lives - table-ronde 2
+  - Our Microbial Lives - table-ronde 2
 createdAt: '2022-01-21T10:23:03.810Z'
 firstname: 'Jeanne '
 lastname: Ropars
@@ -18,8 +18,8 @@ social_channels:
   website: ''
   wikipedia: ''
 titles_and_institutions:
-- institution: Laboratoire ESE, Université Paris-Saclay, France
-  titles: []
+  - institution: Laboratoire ESE, Université Paris-Saclay, France
+    titles: []
 
 ---
 Jeanne Ropars est chargée de Recherche au laboratoire Écologie, Systématique, Évolution à l'Université Paris-Saclay, France

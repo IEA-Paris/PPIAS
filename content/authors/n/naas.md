@@ -1,6 +1,6 @@
 ---
 articles:
-- Our Microbial Lives - table-ronde 3
+  - Our Microbial Lives - table-ronde 3
 createdAt: '2022-01-17T18:18:56.540Z'
 firstname: 'Thierry '
 lastname: Naas
@@ -18,9 +18,10 @@ social_channels:
   website: ''
   wikipedia: ''
 titles_and_institutions:
-- institution: Université Paris-Saclay, France
-- institution: Hôpital Bicêtre APHP, France
-  titles: []
+  - institution: Université Paris-Saclay, France
+    titles: []
+  - institution: Hôpital Bicêtre APHP, France
+    titles: []
 
 ---
 Thierry Naas est Professeur associé en microbiologie médicale à l'Hôpital Bicêtre APHP et Université Paris-Saclay

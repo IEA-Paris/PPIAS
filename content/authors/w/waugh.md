@@ -1,6 +1,6 @@
 ---
 articles:
-- Emotions and Coping During Crisis - Session 6
+  - Emotions and Coping During Crisis - Session 6
 createdAt: '2022-01-14T16:39:17.956Z'
 firstname: Christian
 lastname: 'Waugh '
@@ -18,8 +18,8 @@ social_channels:
   website: ''
   wikipedia: ''
 titles_and_institutions:
-- institution: Wake Forest University, USA
-  titles: []
+  - institution: Wake Forest University, USA
+    titles: []
 
 ---
 Dr Christian Waugh is currently an Associate Professor of Psychology at Wake Forest University. He received his PhD in Social Psychology and Cognitive Neuroscience from the University of Michigan where he worked with Dr. Barbara Fredrickson on the role of positive emotions in social cognition and resilience. After receiving his PhD, he did a postdoctoral fellowship at Stanford University with Ian Gotlib where he investigated the psychophysiology and neurobiology of stress in at-risk populations.

@@ -30,31 +30,25 @@ export default {
       type: Number,
       default: 3,
     },
+    item: {
+      type: [Object, String],
+      default: () => ({}),
+    },
   },
 
   computed: {
     text() {
-      return truncate(
-        typeof this.items[this.index] === 'object'
-          ? this.items[this.index].text
-          : this.items[this.index],
-        18
-      )
+      console.log('this.item: ', this.item)
+      const str = typeof this.item === 'object' ? this.item.text : this.item
+      return str.length > 18 ? truncate(str, 18) : str
     },
     remainingItems() {
-      console.log(
-        'this.items',
+      return (
         this.items
           .slice(this.maxItems)
-          .map((item) =>
-            truncate(typeof item === 'object' ? item.text : item, 18)
-          )
-          .join(', ')
+          .map((item) => (typeof item === 'object' ? item.text : item), 18)
+          .join(', ') || []
       )
-      return this.items
-        .slice(this.maxItems)
-        .map((item) => (typeof item === 'object' ? item.text : item), 18)
-        .join(', ')
     },
   },
 }

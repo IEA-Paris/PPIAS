@@ -5,11 +5,6 @@ export default [
     icon: 'linkedin',
   },
   {
-    url: 'https://www.instagram.com/futurpositif/',
-    text: 'instagram',
-    icon: 'instagram',
-  },
-  {
     url: 'https://www.youtube.com/channel/UCguKalm3EVILMvkvoNXkANg/featured',
     text: 'youtube',
     icon: 'youtube',
