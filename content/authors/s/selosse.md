@@ -24,4 +24,6 @@ titles_and_institutions:
     titles: []
 
 ---
-Marc-André Selosse est Professeur des universités, responsable de l'équipe de recherche Interactions et évolution végétale et fongique, Institut de systématique, évolution, biodiversité (ISYEB, UMR 7205), Muséum national d’histoire naturelle, Paris
+Marc-André Selosse est Professeur des universités, responsable de l'équipe de recherche Interactions et évolution végétale et fongique, Institut de systématique, évolution, biodiversité (ISYEB, UMR 7205), Muséum national d’histoire naturelle, Paris.
+
+Sa recherche est centrée sur l’interaction mycorhizienne, une symbiose entre les racines de plus de 90% des plantes et des champignons du sol. J’utilise des méthodes issues de la biologie moléculaire pour étudier les populations microbiennes et les communautés mycorhiziennes, qui sont largement dominées par des espèces non cultivables.
