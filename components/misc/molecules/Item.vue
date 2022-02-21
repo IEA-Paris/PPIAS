@@ -6,8 +6,8 @@
           <slot name="categories"></slot>
         </div>
 
-        <span v-if="hasContent('caption')">
-          <div id="caption-content" class="ma-3">
+        <span v-if="hasContent('caption')" id="caption-content">
+          <div class="ma-3">
             <slot name="caption"></slot>
           </div>
         </span>
