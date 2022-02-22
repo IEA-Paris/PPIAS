@@ -6,8 +6,8 @@
           <slot name="categories"></slot>
         </div>
 
-        <span v-if="hasContent('caption')" class="caption-content-frame">
-          <div class="caption-content ma-3">
+        <span v-if="hasContent('caption')" class="caption-content">
+          <div class="my-6 px-3 caption-content-frame">
             <slot name="caption"></slot>
           </div>
         </span>
@@ -95,7 +95,6 @@ export default {
   line-height: 1.7rem;
   text-decoration: none;
   text-shadow: 1px 1px 0 alpha(white, 0.6);
-  padding: 8px;
   color: black;
   background-image: linear-gradient(to left, white 100%, black 100%);
   text-transform: uppercase;
@@ -103,6 +102,7 @@ export default {
   -webkit-line-clamp: 5;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  text-align: right;
 }
 .caption-content-frame {
   overflow: hidden;
