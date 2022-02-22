@@ -155,7 +155,7 @@ export default {
     /*  { src: '~/plugin/apollo-config', mode: 'client' }, */
     { src: '~/plugin/vue-youtube', mode: 'client' },
     '~/plugin/jsonld',
-    { src: '~/plugin/vuex-persist', ssr: false },
+    /*    { src: '~/plugin/vuex-persist', ssr: false }, */
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components

@@ -1,8 +1,16 @@
 ---
 articles:
   - Our Microbial Lives - table-ronde 3
+categories:
+  - content/categories/Fellows.md
+  - []
+category:
+  - content/categories/Fellows.md
+  - []
 createdAt: '2022-01-17T18:18:56.540Z'
 firstname: Nicolas
+language:
+  - French
 lastname: Fortané
 picture: ''
 picture_copyright: ''
@@ -20,6 +28,8 @@ social_channels:
 titles_and_institutions:
   - institution: INRAE, France
     titles: []
+years:
+  - '2021'
 
 ---
 Nicolas Fortané est chargé de recherche en sociologie à INRAE (IRISSO, Université Paris-Dauphine) et actuellement chercheur associé à la London School of Hygiene and Tropical Medicine où il collabore avec la AMIS team et le AMR Centre. Il travaille sur les politiques publiques de santé animale et la profession vétérinaire, plus particulièrement sur la régulation du médicament vétérinaire.

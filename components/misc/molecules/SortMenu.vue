@@ -58,7 +58,6 @@ export default {
   },
   computed: {
     current() {
-      console.log('SORT', lists[this.type].sort)
       const current =
         this.items[
           Object.keys(this.items).find((item) => {

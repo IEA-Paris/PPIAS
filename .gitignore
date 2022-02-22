@@ -104,6 +104,8 @@ yarn.lock
 
 # custom generated files
 static/pdfs
+content/authors/*
+content/media/*
 
 #local history vscode plugin (aka life-saver)
 .history/

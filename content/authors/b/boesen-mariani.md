@@ -1,8 +1,16 @@
 ---
 articles:
   - Our Microbial Lives - table-ronde 2
+categories:
+  - content/categories/Fellows.md
+  - []
+category:
+  - content/categories/Fellows.md
+  - []
 createdAt: '2022-01-21T10:23:03.810Z'
 firstname: 'Sabine '
+language:
+  - French
 lastname: Boesen Mariani
 picture: ''
 picture_copyright: ''
@@ -20,6 +28,8 @@ social_channels:
 titles_and_institutions:
   - institution: User Experience (UX) Pediatrics, Danone Nutricia Utrecht, Netherlands
     titles: []
+years:
+  - '2021'
 
 ---
 Sabine Boesen Mariani was Senior Team Leader - User Experience (UX) Pediatrics at Danone Nutricia Research, Utrecht

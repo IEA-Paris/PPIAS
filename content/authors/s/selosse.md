@@ -1,8 +1,16 @@
 ---
 articles:
   - Our Microbial Lives - table-ronde 1
+categories:
+  - content/categories/Fellows.md
+  - []
+category:
+  - content/categories/Fellows.md
+  - []
 createdAt: '2022-01-14T16:39:17.952Z'
 firstname: 'Marc-André '
+language:
+  - French
 lastname: Selosse
 picture: ''
 picture_copyright: ''
@@ -22,6 +30,8 @@ titles_and_institutions:
       Institut de Systématique, Évolution, Biodiversité, Muséum national
       d'Histoire naturelle, France
     titles: []
+years:
+  - '2021'
 
 ---
 Marc-André Selosse est Professeur des universités, responsable de l'équipe de recherche Interactions et évolution végétale et fongique, Institut de systématique, évolution, biodiversité (ISYEB, UMR 7205), Muséum national d’histoire naturelle, Paris.

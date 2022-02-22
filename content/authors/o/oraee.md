@@ -22,8 +22,18 @@ articles:
   - memorandum_2
   - Memorandum_9
   - ICA4
+categories:
+  - content/categories/WPRN21.md
+  - content/categories/WPRN.md
+  - content/categories/ICA.md
+category:
+  - content/categories/WPRN21.md
+  - content/categories/WPRN.md
+  - content/categories/ICA.md
 createdAt: '2022-01-10T13:54:22.946Z'
 firstname: 'Atrina '
+language:
+  - ''
 lastname: Oraee
 picture: ''
 picture_copyright: ''
@@ -38,6 +48,14 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - Artificial Intelligence
+  - Data science
+  - Deep learning
+  - Responsability
+  - Algorithms
+  - Language
+  - Robots
 titles_and_institutions:
   - institution: international laboratory for Brain, Music, and Sound research (BRAMS)
     titles:
@@ -48,5 +66,7 @@ titles_and_institutions:
   - institution: IAS PARIS
     titles:
       - writer
+years:
+  - '2021'
 
 ---

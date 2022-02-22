@@ -100,6 +100,13 @@ export default async (content) => {
         return {
           ...author,
           articles: [article.slug],
+          tags: article.tags,
+          years: [article.date.substring(0, 4)],
+          category: [
+            ...(article.category_1 ? [article.category_1] : []),
+            ...(article.category_2 ? [article.category_2] : []),
+          ],
+          language: [article.language],
         }
       })
     )

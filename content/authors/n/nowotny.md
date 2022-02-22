@@ -1,8 +1,16 @@
 ---
 articles:
   - Closing Panel-WPRN21
+categories:
+  - content/categories/WPRN21.md
+  - []
+category:
+  - content/categories/WPRN21.md
+  - []
 createdAt: '2022-01-10T10:45:35.930Z'
 firstname: 'Helga '
+language:
+  - English
 lastname: Nowotny
 picture: ''
 picture_copyright: ''
@@ -24,5 +32,7 @@ titles_and_institutions:
   - institution: ERC - European Research Council
     titles:
       - President (2010-2013) and Founding Members (2007)
+years:
+  - '2021'
 
 ---

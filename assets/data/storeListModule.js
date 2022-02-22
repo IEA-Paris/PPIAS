@@ -61,6 +61,7 @@ export const baseMutations = {
   setBlankState(state) {
     console.log('RESET STATE')
     state.filters = { years: [], category: [], tags: [], language: [] }
+    state.search = null
   },
 }
 export const baseActions = {
@@ -136,21 +137,7 @@ export const baseActions = {
           // years to date special case
           // TODO make a fancy feature to limit the gte lt
         } else if (['language'].includes(filter)) {
-          pipeline.language = { $in: val }
-        } else if (filter === 'years') {
-          if (val.length > 1) {
-            pipeline.$or.push(
-              val.map((year) => {
-                return {
-                  date: {
-                    $regex: year,
-                  },
-                }
-              })
-            )
-          } else {
-            pipeline.date = { $regex: val[0] }
-          }
+          pipeline.language = { $containsAny: val }
         } else if (filter === 'category') {
           pipeline.$or.push(
             ...[
@@ -176,6 +163,10 @@ export const baseActions = {
               },
             ]
           )
+        } else if (filter === 'years') {
+          pipeline[filter] = { $containsAny: val }
+        } else {
+          pipeline[filter] = Array.isArray(val) ? val[0] : val
         }
       }
     })
@@ -225,7 +216,6 @@ export const baseActions = {
       .skip(skipNumber())
       .limit(state.itemsPerPage)
       .fetch()
-    console.log(items.map((item) => item.date))
     // update route
     const query = {
       ...(state.search && { search: state.search }),
@@ -237,8 +227,9 @@ export const baseActions = {
       ...(state.sortDesc?.length &&
         (state.sortDesc[0] ? 'desc' : 'asc') !==
           getters.defaultSort.value[1] && {
-          sortDesc:
-            state.sortDesc[0] || getters.defaultSort.value[1] === 'desc',
+          sortDesc: !!(
+            state.sortDesc[0] || getters.defaultSort.value[1] === 'desc'
+          ),
         }),
       ...(state.view &&
         state.view !== getters.defaultView.name && { view: state.view }),

@@ -2,8 +2,16 @@
 articles:
   - Emotions and Coping During Crisis - Session 6
   - Keynote 7
+categories:
+  - content/categories/WPRN21.md
+  - []
+category:
+  - content/categories/WPRN21.md
+  - []
 createdAt: '2022-01-14T16:39:17.956Z'
 firstname: Bennett
+language:
+  - English
 lastname: ' Kleinberg '
 picture: ''
 picture_copyright: ''
@@ -23,5 +31,7 @@ titles_and_institutions:
     titles: []
   - institution: Tilburg University, Netherlands
     titles: []
+years:
+  - '2021'
 
 ---

@@ -1,8 +1,16 @@
 ---
 articles:
   - Our Microbial Lives - table-ronde 3
+categories:
+  - content/categories/Fellows.md
+  - []
+category:
+  - content/categories/Fellows.md
+  - []
 createdAt: '2022-01-17T18:18:56.540Z'
 firstname: 'Thierry '
+language:
+  - French
 lastname: Naas
 picture: ''
 picture_copyright: ''
@@ -22,6 +30,8 @@ titles_and_institutions:
     titles: []
   - institution: Hôpital Bicêtre APHP, France
     titles: []
+years:
+  - '2021'
 
 ---
 Thierry Naas est Professeur associé en microbiologie médicale à l'Hôpital Bicêtre APHP et Université Paris-Saclay

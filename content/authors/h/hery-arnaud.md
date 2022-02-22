@@ -1,8 +1,16 @@
 ---
 articles:
   - Our Microbial Lives - table-ronde 3
+categories:
+  - content/categories/Fellows.md
+  - []
+category:
+  - content/categories/Fellows.md
+  - []
 createdAt: '2022-01-17T18:18:56.540Z'
 firstname: 'Geneviève '
+language:
+  - French
 lastname: Héry-Arnaud
 picture: ''
 picture_copyright: ''
@@ -22,6 +30,8 @@ titles_and_institutions:
     titles: []
   - institution: Université de Bretagne Occidentale, France
     titles: []
+years:
+  - '2021'
 
 ---
 Geneviève Hery-Arnaud est Professeure des Universités-Praticien Hospitalier à l'Université de Bretagne Occidentale, Centre Hospitalier Régional Universitaire de Brest-NSERM UMR 1078, Axe Microbiota-Unité de Bactériologie

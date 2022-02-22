@@ -1,8 +1,16 @@
 ---
 articles:
   - Keynote 6
+categories:
+  - content/categories/WPRN21.md
+  - []
+category:
+  - content/categories/WPRN21.md
+  - []
 createdAt: '2022-01-24T15:20:42.230Z'
 firstname: 'Marc '
+language:
+  - English
 lastname: Fleurbaey
 picture: ''
 picture_copyright: ''
@@ -20,5 +28,7 @@ social_channels:
 titles_and_institutions:
   - institution: Paris School of Economics, France
     titles: []
+years:
+  - '2021'
 
 ---

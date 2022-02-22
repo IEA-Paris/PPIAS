@@ -1,8 +1,16 @@
 ---
 articles:
   - Our Microbial Lives - clôture
+categories:
+  - content/categories/Fellows.md
+  - []
+category:
+  - content/categories/Fellows.md
+  - []
 createdAt: '2022-01-21T10:23:03.810Z'
 firstname: 'Michel '
+language:
+  - French
 lastname: Morange
 picture: ''
 picture_copyright: ''
@@ -22,6 +30,8 @@ titles_and_institutions:
     titles: []
   - institution: Université Pierre-et-Marie-Curie, France
     titles: []
+years:
+  - '2021'
 
 ---
 Michel Morange est biologiste, historien et philosophe des sciences. Professeur de biologie à l’École normale supérieure, Paris et à Sorbonne université, Paris. Membre de la République des savoirs : lettres, sciences, philosophie (RNSR, USR 3608), École normale supérieure, Paris.

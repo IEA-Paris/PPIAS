@@ -2,8 +2,19 @@
 articles:
   - WPRN21_Conference
   - Closing Panel-WPRN21
+categories:
+  - content/categories/WPRN21.md
+  - []
+  - content/categories/WPRN.md
+category:
+  - content/categories/WPRN21.md
+  - []
+  - content/categories/WPRN.md
 createdAt: '2022-02-01T15:13:30.061Z'
 firstname: 'Maxi '
+language:
+  - English
+  - ''
 lastname: Heitmayer
 picture: ''
 picture_copyright: ''
@@ -19,7 +30,10 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: The London School of Economics and Political Science, United Kingdom
+years:
+  - '2021'
 
 ---

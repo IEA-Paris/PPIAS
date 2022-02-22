@@ -1,8 +1,16 @@
 ---
 articles:
   - WPRN21_Conference
+categories:
+  - content/categories/WPRN21.md
+  - content/categories/WPRN.md
+category:
+  - content/categories/WPRN21.md
+  - content/categories/WPRN.md
 createdAt: '2022-01-10T10:45:35.926Z'
 firstname: Flore
+language:
+  - ''
 lastname: Gubert
 picture: ''
 picture_copyright: ''
@@ -16,6 +24,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: IRD
     titles:
@@ -24,6 +33,8 @@ titles_and_institutions:
     titles:
       - Director of research
       - Vice President
+years:
+  - '2021'
 
 ---
 

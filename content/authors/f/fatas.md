@@ -1,8 +1,16 @@
 ---
 articles:
   - Keynote 8
+categories:
+  - content/categories/WPRN21.md
+  - []
+category:
+  - content/categories/WPRN21.md
+  - []
 createdAt: '2022-01-21T10:23:03.810Z'
 firstname: 'Enrique '
+language:
+  - English
 lastname: Fatas
 picture: ''
 picture_copyright: ''
@@ -20,5 +28,7 @@ social_channels:
 titles_and_institutions:
   - institution: University of Pennsylvania, USA
     titles: []
+years:
+  - '2021'
 
 ---

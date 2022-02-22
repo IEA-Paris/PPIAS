@@ -4,8 +4,21 @@ articles:
   - Closing Panel-WPRN21
   - WPRN21_Conference
   - Our_Microbial_Lives
+categories:
+  - content/categories/WPRN21.md
+  - []
+  - content/categories/Fellows.md
+  - content/categories/WPRN.md
+category:
+  - content/categories/WPRN21.md
+  - []
+  - content/categories/Fellows.md
+  - content/categories/WPRN.md
 createdAt: '2022-01-14T16:39:17.952Z'
 firstname: Saadi
+language:
+  - English
+  - ''
 lastname: ' Lahlou'
 picture: ''
 picture_copyright: ''
@@ -20,6 +33,11 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: https://en.wikipedia.org/wiki/Saadi_Lahlou
+tags:
+  - History of Science, Technology and Medicine
+  - History of Science and Medicine
+  - Online conference
+  - Microbes
 titles_and_institutions:
   - institution: London School Of Economics, United Kingdom
     titles:
@@ -27,6 +45,8 @@ titles_and_institutions:
   - institution: Paris Institute of advanced study
     titles:
       - Director
+years:
+  - '2021'
 
 ---
 
