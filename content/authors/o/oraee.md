@@ -31,7 +31,7 @@ category:
   - content/categories/WPRN.md
   - content/categories/ICA.md
 createdAt: '2022-01-10T13:54:22.946Z'
-firstname: 'Atrina '
+firstname: Atrina
 language:
   - ''
 lastname: Oraee

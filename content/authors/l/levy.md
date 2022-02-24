@@ -3,7 +3,7 @@ articles:
   - Session 3 - Economic & Financial Impacts
 createdAt: '2022-01-17T14:32:20.295Z'
 firstname: Gal
-lastname: ' Levy '
+lastname: 'Levy '
 picture: ''
 picture_copyright: ''
 reference: ''

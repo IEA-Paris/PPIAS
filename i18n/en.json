@@ -185,5 +185,6 @@
   "view-text": "Text",
   "view-list": "List",
   "search-type": "Search {0}",
-  "no-other-mode-available": "No other mode available"
+  "no-other-mode-available": "No other mode available",
+  "collections": "Collections"
 }

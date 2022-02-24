@@ -61,17 +61,6 @@ export default {
       const current =
         this.items[
           Object.keys(this.items).find((item) => {
-            console.log(
-              'this.$store.state[this.type].sortBy[0]?: ',
-              this.$store.state[this.type].sortBy[0]
-            )
-
-            console.log(
-              '2 ',
-              this.$store.state[this.type].sortBy[0]
-                ? this.$store.state[this.type].sortBy[0]
-                : this.defaultSort.value[0]
-            )
             return (
               this.items[item].value.join('') ===
               (this.$store.state[this.type].sortBy[0] ||
@@ -81,7 +70,6 @@ export default {
           })
         ] || this.items[Object.keys(this.items).find((item) => item.default)]
 
-      console.log('current: ', current)
       return current
     },
   },

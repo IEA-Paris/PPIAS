@@ -49,22 +49,17 @@
           :class="toc ? 'align-start' : 'align-center'"
           class="d-flex flex-column"
         >
-          <v-row>
-            <v-col cols="12">
-              <Youtube
-                v-if="item.yt && item.yt.length"
-                :yt="item.yt"
-                class="mb-9 ml-3"
-              ></Youtube>
-              <OptimizedImage
-                v-else-if="item.images && item.images.length === 1"
-                :src="item.images[0]"
-                class="my-3"
-              ></OptimizedImage>
-            </v-col>
-          </v-row>
+          <div
+            v-if="item.abstract && item.abstract.length"
+            class="abstract-panel text-caption"
+          >
+            <div class="overline mt-n1 ml-n1 text-grey">
+              {{ $t('abstract') }}
+            </div>
+            {{ item.abstract }}
+          </div>
 
-          <div v-if="item.images && item.images.length > 1" class="pb-8 pt-3">
+          <!--           <div v-if="item.images && item.images.length > 1" class="pb-8 pt-3">
             <v-carousel
               :height="$vuetify.breakpoint.mdAndUp ? '600' : '300'"
               cycle
@@ -79,7 +74,7 @@
                 :sizes="_srcset(image).size"
               ></v-carousel-item>
             </v-carousel>
-          </div>
+          </div> -->
 
           <small v-if="item.copyright" class="muted caption"
             >&copy; {{ item.copyright }}</small
@@ -92,12 +87,12 @@
         </v-card-text>
 
         <v-card-subtitle class="pb-0">
-          <v-tooltip bottom>
+          <!--      <v-tooltip bottom>
             <template #activator="{ on, attrs }">
               <v-icon v-bind="attrs" v-on="on">mdi-pin</v-icon>
             </template>
             <span>This post is pinned</span>
-          </v-tooltip>
+          </v-tooltip> -->
           {{
             new Date(item.date).toLocaleDateString('EN', {
               timezone: 'UTC',
@@ -234,6 +229,15 @@ export default {
 .footnotes {
   color: red;
   display: none;
+}
+.abstract-panel {
+  border: 1px black solid;
+  margin: 1em;
+  padding-bottom: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  width: 100%;
+  max-width: 650px;
 }
 // nuxt content styles
 </style>

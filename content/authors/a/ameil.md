@@ -3,7 +3,7 @@ articles:
   - Emotions and Coping During Crisis - Session 6
 createdAt: '2022-01-14T07:53:57.636Z'
 firstname: Joseph
-lastname: ' Ameil '
+lastname: Ameil
 picture: ''
 picture_copyright: ''
 reference: ''

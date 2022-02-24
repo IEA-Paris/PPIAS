@@ -8,7 +8,7 @@ category:
   - content/categories/WPRN21.md
   - []
 createdAt: '2022-01-24T15:20:42.230Z'
-firstname: 'Marc '
+firstname: Marc
 language:
   - English
 lastname: Fleurbaey
@@ -20,7 +20,7 @@ social_channels:
   instagram: ''
   linkedin: ''
   mendeley: ''
-  orcid_id: '0000-0002-5342-8065 '
+  orcid_id: 0000-0002-5342-8065
   researchgate: https://www.researchgate.net/profile/Marc-Fleurbaey
   twitter: ''
   website: ''

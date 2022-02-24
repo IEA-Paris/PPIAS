@@ -3,7 +3,7 @@ articles:
   - Masks, Vaccinations & Compliance - Session 2
 createdAt: '2022-01-14T16:39:17.952Z'
 firstname: Francesca
-lastname: ' Ervas'
+lastname: Ervas
 picture: ''
 picture_copyright: ''
 reference: ''

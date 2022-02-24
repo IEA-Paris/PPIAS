@@ -11,7 +11,6 @@ const defaultView =
       (item) => lists.articles.views[item].default === true
     )
   ]
-console.log('defaultView: ', defaultView)
 const defaultSort = [
   lists.articles.sort[
     Object.keys(lists.articles.sort).find(

@@ -53,12 +53,12 @@
             <v-btn
               x-large
               text
-              class="mb-3 px-3 font-italic"
-              style="text-transform: none !important"
+              class="mb-3 px-3 font-italic authorsBtn"
+              style=""
               nuxt
               :to="'/articles/' + item.slug + '/authors'"
             >
-              <ArticleAuthorsString :authors="item.authors" />
+              <ArticleAuthorsString :authors="item.authors" full />
             </v-btn>
           </template>
         </PageTitle>
@@ -116,4 +116,15 @@ export default {
   methods: {},
 }
 </script>
-<style lang="scss"></style>
+<style lang="scss">
+.authorsBtn {
+  text-transform: none !important;
+}
+.authorsBtn .v-btn__content {
+  width: 500px;
+  max-width: 100vw;
+  line-height: 1.8rem;
+  text-align: center;
+  white-space: normal;
+}
+</style>

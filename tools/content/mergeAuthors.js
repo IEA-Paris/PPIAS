@@ -92,7 +92,6 @@ export default async (content) => {
     .fetch()
   // we use this opportunity to get the dynamic routes for pdf-printing all the articles
   writePrintRoutes(articles)
-
   // extract the authors from articles with backlink
   let articleAuthors = articles
     .map((article) =>
@@ -128,7 +127,7 @@ export default async (content) => {
   articleAuthors = secondPass.first
 
   authorsDocs = [...authorsDocs, ...secondPass.second]
-  // replace the titles and institutions array of object by an array of arrays
+  // replace the titles and institutions array of object by an array of arrays (prismjs related?)
   authorsDocs = authorsDocs.map((item) => {
     return {
       ...item,
@@ -139,7 +138,20 @@ export default async (content) => {
         }),
     }
   })
-
+  // Make a csv formated export to copy paste//UTILS
+  /*   let csvString = 'firstname; lastname; articles... \n'
+  authorsDocs.map((author) => {
+    csvString =
+      csvString +
+      `${author.firstname};${author.lastname}; ${
+        author.articles
+          ? author.articles.map((article) => article + ';\n;;')
+          : ';\n'
+      }\n`
+    return true
+  }) 
+  console.log(csvString)
+  */
   insertDocuments(authorsDocs, 'authors', 'lastname')
   console.log(`${chalk.green('✔')}  Inserted new author documents`)
 

@@ -7,10 +7,10 @@
       {{ $t('no-author-found-matching-this-article') }}
     </div>
     <div v-for="(author, index) in item.authors" :key="index" class="pb-6">
-      <AuthorsItem
+      <People
         :item="{ ...author, slug: slugify(author.lastname) }"
         extended
-      ></AuthorsItem>
+      ></People>
     </div>
   </div>
 </template>

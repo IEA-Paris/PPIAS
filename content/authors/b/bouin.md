@@ -8,7 +8,7 @@ category:
   - content/categories/WPRN21.md
   - []
 createdAt: '2022-02-01T15:13:30.061Z'
-firstname: 'Olivier '
+firstname: Olivier
 language:
   - English
 lastname: Bouin

@@ -12,7 +12,7 @@ createdAt: '2022-01-14T16:39:17.956Z'
 firstname: Bennett
 language:
   - English
-lastname: ' Kleinberg '
+lastname: Kleinberg
 picture: ''
 picture_copyright: ''
 reference: ''
@@ -21,7 +21,7 @@ social_channels:
   instagram: ''
   linkedin: https://nl.linkedin.com/in/barkleinberg
   mendeley: ''
-  orcid_id: '0000-0003-1658-9086 '
+  orcid_id: 0000-0003-1658-9086
   researchgate: https://www.researchgate.net/profile/Bennett-Kleinberg
   twitter: ''
   website: ''

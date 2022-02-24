@@ -55,7 +55,7 @@ authors:
       mendeley: ''
     reference: ''
   - lastname: 'Lampropoulos'
-    firstname: ' Ioannis Ch.'
+    firstname: 'Ioannis Ch.'
     titles_and_institutions:
       - titles: []
         institution: University Of Patras, Greece

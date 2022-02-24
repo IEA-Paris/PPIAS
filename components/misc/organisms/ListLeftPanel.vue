@@ -371,7 +371,7 @@ export default {
       return this.$store.state[this.type].numberOfPages
     },
     page() {
-      return this.$store.state[this.type].page
+      return +this.$store.state[this.type].page
     },
     sortBy() {
       return this.$store.state[this.type].sortBy
@@ -389,9 +389,17 @@ export default {
     },
   },
   async mounted() {
+    console.log('MOUNTED')
+    this.$store.commit(this.type + '/loadRouteQuery')
+    this.filter =
+      this.$store.state[this.type].filtersCount > 0 ||
+      (this.$route.query.filters &&
+        Object.keys(this.$route.query.filters).length > 0) ||
+      this.$route.query?.search?.length > 0
+
     await this.$store.dispatch(this.type + '/update')
   },
-  updated() {},
+  async updated() {},
   methods: {
     /*     async updatePage(page) {
       await this.$router.push({

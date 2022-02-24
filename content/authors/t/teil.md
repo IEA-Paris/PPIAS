@@ -8,7 +8,7 @@ category:
   - content/categories/Fellows.md
   - []
 createdAt: '2022-01-21T10:23:03.810Z'
-firstname: 'Geneviève '
+firstname: Geneviève
 language:
   - French
 lastname: Teil
@@ -20,7 +20,7 @@ social_channels:
   instagram: ''
   linkedin: https://fr.linkedin.com/in/genevieve-teil-29aa066
   mendeley: ''
-  orcid_id: '0000-0002-5536-5459 '
+  orcid_id: 0000-0002-5536-5459
   researchgate: https://www.researchgate.net/profile/Genevieve-Teil
   twitter: ''
   website: ''

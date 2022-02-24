@@ -20,7 +20,7 @@ social_channels:
   instagram: ''
   linkedin: https://fr.linkedin.com/in/nicolas-fortan%C3%A9-44a155146
   mendeley: ''
-  orcid_id: '0000-0001-6479-5808 '
+  orcid_id: 0000-0001-6479-5808
   researchgate: https://www.researchgate.net/profile/Nicolas-Fortane
   twitter: ''
   website: ''

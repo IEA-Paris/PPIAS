@@ -2,6 +2,28 @@ import filtersRaw from '~/assets/data/filters'
 import lists from '~/assets/data/lists'
 
 export const baseMutations = {
+  loadRouteQuery(state) {
+    const query = this.app.router.currentRoute.query
+    let pristine = true
+    console.log('query: ', query)
+    if (query.search) {
+      state.search = query.search
+      pristine = false
+    }
+    if (query.filters) {
+      pristine = false
+      const filters = JSON.parse(query.filters)
+      Object.keys(filters).forEach((filter) => {
+        state.filters[filter] = filters[filter]
+      })
+    }
+
+    if (query.page) state.page = query.page
+    if (query.sortBy) state.sortBy = query.sortBy
+    if (query.sortDesc) state.sortDesc = query.sortDesc
+    if (!pristine) state.page = 1
+    console.log('state: ', state)
+  },
   setSearch(state, search) {
     state.search = search
   },
@@ -81,6 +103,7 @@ export const baseActions = {
   },
   async updateFilters({ dispatch, commit, state }, value) {
     commit('setFilters', value)
+    commit('setPage', 1)
     await dispatch('update')
   },
   async updateItemsPerPage({ dispatch, commit, state }, value) {
@@ -164,7 +187,12 @@ export const baseActions = {
             ]
           )
         } else if (filter === 'years') {
-          pipeline[filter] = { $containsAny: val }
+          const yearsToInt = val.map((i) => +i)
+          if (['articles', 'media'].includes(state.type)) {
+            pipeline[filter] = { $in: yearsToInt }
+          } else {
+            pipeline[filter] = { $containsAny: yearsToInt }
+          }
         } else {
           pipeline[filter] = Array.isArray(val) ? val[0] : val
         }
@@ -217,6 +245,7 @@ export const baseActions = {
       .limit(state.itemsPerPage)
       .fetch()
     // update route
+    console.log('items: ', items)
     const query = {
       ...(state.search && { search: state.search }),
       ...(state.page > 1 && { page: state.page.toString() }),

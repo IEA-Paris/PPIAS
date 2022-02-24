@@ -11,7 +11,7 @@ category:
   - []
   - content/categories/WPRN.md
 createdAt: '2022-02-01T15:13:30.061Z'
-firstname: 'Maxi '
+firstname: Maxi
 language:
   - English
   - ''

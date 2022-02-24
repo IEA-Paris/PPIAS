@@ -8,7 +8,7 @@ category:
   - content/categories/WPRN21.md
   - []
 createdAt: '2022-01-24T15:20:42.230Z'
-firstname: 'Ted '
+firstname: Ted
 language:
   - English
 lastname: Loch-Temzelides
@@ -20,7 +20,7 @@ social_channels:
   instagram: ''
   linkedin: https://www.linkedin.com/in/ted-loch-temzelides-49158a43
   mendeley: ''
-  orcid_id: '0000-0001-8339-6722 '
+  orcid_id: 0000-0001-8339-6722
   researchgate: ''
   twitter: https://twitter.com/tedloch?lang=fr
   website: ''

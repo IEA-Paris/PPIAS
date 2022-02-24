@@ -8,7 +8,7 @@ category:
   - content/categories/Fellows.md
   - []
 createdAt: '2022-01-14T16:39:17.952Z'
-firstname: 'Marc-André '
+firstname: Marc-André
 language:
   - French
 lastname: Selosse
@@ -20,7 +20,7 @@ social_channels:
   instagram: ''
   linkedin: ''
   mendeley: ''
-  orcid_id: '0000-0003-3471-9067 '
+  orcid_id: 0000-0003-3471-9067
   researchgate: https://www.researchgate.net/profile/Marc-Selosse
   twitter: ''
   website: ''

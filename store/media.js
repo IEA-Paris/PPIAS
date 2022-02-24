@@ -11,7 +11,6 @@ const defaultView =
       (item) => lists.media.views[item].default === true
     )
   ]
-console.log('defaultView: ', defaultView)
 const defaultSort = [
   lists.media.sort[
     Object.keys(lists.media.sort).find(

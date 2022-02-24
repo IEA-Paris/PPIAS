@@ -28,7 +28,7 @@ published: false
 article_title: 'Local Contexts and Policy '
 authors:
   - lastname: 'Pintus'
-    firstname: ' Patrick'
+    firstname: 'Patrick'
     titles_and_institutions:
       - titles: []
         institution: CNRS And Aix-Marseille University, France
@@ -65,7 +65,7 @@ authors:
       researchgate: ''
       mendeley: ''
     reference: ''
-  - firstname: ' Shiwanee '
+  - firstname: 'Shiwanee '
     lastname: Shree Pant
     titles_and_institutions:
       - titles: []

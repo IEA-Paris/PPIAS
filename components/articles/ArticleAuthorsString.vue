@@ -9,6 +9,11 @@ export default {
       required: true,
       type: Array,
     },
+    full: {
+      required: false,
+      type: Boolean,
+      default: false,
+    },
   },
   data() {
     return {}
@@ -17,7 +22,7 @@ export default {
   mounted() {},
   methods: {
     formatAuthorsProxy() {
-      return formatAuthors(this.authors, this.$i18n.$t)
+      return formatAuthors(this.authors, this.$i18n.$t, this.full)
     },
   },
 }

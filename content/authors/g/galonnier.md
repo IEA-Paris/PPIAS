@@ -14,11 +14,11 @@ categories:
 category:
   - content/categories/WPRN.md
 createdAt: '2022-02-10T15:25:07.660Z'
-firstname: 'Victor '
+firstname: Victor
 language:
   - English
   - ''
-lastname: 'Galonnier '
+lastname: Galonnier
 picture: ''
 picture_copyright: ''
 reference: ''

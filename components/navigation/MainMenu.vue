@@ -1,6 +1,6 @@
 <template>
   <v-dialog v-model="open" fullscreen hide-overlay transition="none">
-    <!-- CLOSE BTN -->
+    <!-- ACTIVATOR BTN -->
     <template #activator="{ on, attrs }">
       <v-btn v-bind="attrs" icon x-large class="ma-2" tile v-on="on">
         <v-icon>mdi-menu</v-icon>
@@ -8,18 +8,25 @@
     </template>
     <!-- APP BAR WITH LOGO -->
     <v-card dark color="black">
-      <v-app-bar
-        color="transparent"
-        clipped
-        flat
-        hide-on-scroll
-        :height="!$store.state.scrolled ? '180' : '120'"
-      >
+      <v-app-bar color="transparent" clipped flat hide-on-scroll height="180">
         <div class="d-flex flex-column flex-grow-1">
-          <div class="d-flex flex-grow-1 align-center">
-            <Logo color="#FFF" />
+          <div class="d-flex flex-grow-1 align-start">
+            <v-img
+              class="ml-10 mr-2"
+              src="/icon_dark.png"
+              contain
+              max-height="120"
+              max-width="120"
+              style="cursor: pointer"
+            ></v-img>
             <v-spacer></v-spacer>
-            <v-btn icon x-large class="ma-2 mr-4 mb-4" @click="open = false">
+            <v-btn
+              icon
+              x-large
+              class="ma-2 mr-4 mb-4"
+              tile
+              @click="open = false"
+            >
               <v-icon>mdi-close</v-icon>
             </v-btn>
           </div>

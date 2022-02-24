@@ -3,7 +3,7 @@ articles:
   - Local Contexts & Policy - Session 5
 createdAt: '2022-01-17T18:18:56.528Z'
 firstname: Marvin
-lastname: ' Starominski-Uehara'
+lastname: Starominski-Uehara
 picture: ''
 picture_copyright: ''
 reference: ''

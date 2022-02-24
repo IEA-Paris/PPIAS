@@ -25,9 +25,20 @@ export default {
 }
 </script>
 <style lang="scss">
+@import '~vuetify/src/styles/settings/_variables';
 .page-title {
   font-family: 'Bodonis Moda';
   font-size: 3rem !important;
   font-weight: 500 !important;
+}
+@media #{map-get($display-breakpoints, 'sm-only')} {
+  .page-title {
+    font-size: 2rem !important;
+  }
+}
+@media #{map-get($display-breakpoints, 'xs-only')} {
+  .page-title {
+    font-size: 1.8rem !important;
+  }
 }
 </style>

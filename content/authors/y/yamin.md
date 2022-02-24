@@ -12,7 +12,7 @@ createdAt: '2022-01-14T16:39:17.956Z'
 firstname: Paulius
 language:
   - English
-lastname: ' Yamin '
+lastname: Yamin
 picture: ''
 picture_copyright: ''
 reference: ''
@@ -21,7 +21,7 @@ social_channels:
   instagram: ''
   linkedin: https://www.linkedin.com/in/pauliusyamin
   mendeley: ''
-  orcid_id: '0000-0003-1736-8728 '
+  orcid_id: 0000-0003-1736-8728
   researchgate: ''
   twitter: https://twitter.com/pauliusyamin
   website: https://pauliusyamin.com/

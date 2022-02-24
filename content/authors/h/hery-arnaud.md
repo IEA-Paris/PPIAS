@@ -8,7 +8,7 @@ category:
   - content/categories/Fellows.md
   - []
 createdAt: '2022-01-17T18:18:56.540Z'
-firstname: 'Geneviève '
+firstname: Geneviève
 language:
   - French
 lastname: Héry-Arnaud

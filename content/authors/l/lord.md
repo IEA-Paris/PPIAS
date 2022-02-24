@@ -3,7 +3,7 @@ articles:
   - Local Contexts & Policy - Session 5
 createdAt: '2022-01-17T18:18:56.536Z'
 firstname: 'Phil '
-lastname: ' Lord '
+lastname: 'Lord '
 picture: ''
 picture_copyright: ''
 reference: ''

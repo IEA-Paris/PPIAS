@@ -101,12 +101,9 @@
       <div :id="slugifyItem(item.lastname)" class="anchor"></div>
       <div
         class="text-h5 font-weight-black"
-        v-html="highlight(item.firstname + ' ' + item.lastname, search)"
+        v-html="item.firstname + ' ' + item.lastname"
       ></div>
-      <div
-        class="text-h6 mb-3"
-        v-html="highlight(item.title_and_institution, search)"
-      ></div>
+      <div class="text-h6 mb-3" v-html="item.title_and_institution"></div>
       <div
         v-if="$vuetify.breakpoint.smAndDown"
         class="flex-row justify-center mb-6"
@@ -138,32 +135,13 @@
           </v-btn>
         </template>
       </div>
-      <p v-html="highlight(item.presentation, search)"></p>
-      <template v-if="podcast && $vuetify.breakpoint.mdAndUp">
-        <v-btn
-          outlined
-          class="mb-3"
-          nuxt
-          :href="'https://www.intercontinental-academia.org/blog/' + podcast"
-        >
-          <v-icon left>mdi-play-circle</v-icon>
-          Podcast
-        </v-btn>
-      </template>
+      <p v-html="item.presentation"></p>
+
       <div>
         <small v-if="item.copyright" class="muted caption"
           >Image of &copy; {{ item.copyright }}</small
         >
       </div>
-
-      <v-expansion-panels v-if="mentor" class="mt-6">
-        <v-expansion-panel>
-          <v-expansion-panel-header>References</v-expansion-panel-header>
-          <v-expansion-panel-content>
-            <nuxt-content :document="item" />
-          </v-expansion-panel-content>
-        </v-expansion-panel>
-      </v-expansion-panels>
     </v-col>
   </v-row>
 </template>
@@ -179,29 +157,11 @@ export default {
       type: Object,
       default: () => {},
     },
-    search: {
-      type: String,
-      default: '',
-    },
   },
   data() {
-    return {
-      podcast: false,
-    }
+    return {}
   },
-  async fetch() {
-    if (this.item.podcast) {
-      const rst = await this.$content('Blog')
-        .where({
-          path: this.item.podcast
-            .substring(0, this.item.podcast.length - 3)
-            .substring(7),
-        })
-        .only('slug')
-        .fetch()
-      this.podcast = rst && rst.length ? rst[0].slug : false
-    }
-  },
+  async fetch() {},
   computed: {},
   mounted() {},
   methods: {

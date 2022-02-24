@@ -95,11 +95,22 @@ export const mergeDeep = (...objects) => {
           prev[key] = mergeDeep(pVal, oVal)
           // if string and the base is not set
         } else if (typeof oVal === 'string' && !prev[key].length && oVal.length)
-          prev[key] = oVal
+          prev[key] = oVal.trim()
+        // if string and both are set (conflict) // TODO decide on a conflict default strategy
+        else if (
+          typeof oVal === 'string' &&
+          prev[key].length &&
+          oVal.length &&
+          prev[key].trim() !== oVal.trim()
+        ) {
+          prev[key] = pVal.trim() // just to cleanup the existing string from spaces
+
+          console.log(`CONFLICTED INFO: ${prev[key]} VS ${oVal} in ${key}`)
+        } else if (typeof prev[key] === 'string') prev[key] = prev[key].trim()
+
         // TODO handle cases where we wanna add the different values instead of replacing
       }
     })
-
     return prev
   }, {})
 }

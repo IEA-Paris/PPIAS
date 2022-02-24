@@ -8,7 +8,7 @@ category:
   - content/categories/Fellows.md
   - []
 createdAt: '2022-01-17T18:18:56.540Z'
-firstname: 'Thierry '
+firstname: Thierry
 language:
   - French
 lastname: Naas
@@ -20,7 +20,7 @@ social_channels:
   instagram: ''
   linkedin: https://fr.linkedin.com/in/thierry-naas-05934b20
   mendeley: ''
-  orcid_id: '0000-0001-9937-9572 '
+  orcid_id: 0000-0001-9937-9572
   researchgate: https://www.researchgate.net/profile/Thierry-Naas
   twitter: ''
   website: ''

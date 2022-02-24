@@ -8,7 +8,7 @@ category:
   - content/categories/Fellows.md
   - []
 createdAt: '2022-01-21T10:23:03.810Z'
-firstname: 'Jeanne '
+firstname: Jeanne
 language:
   - French
 lastname: Ropars
@@ -20,7 +20,7 @@ social_channels:
   instagram: ''
   linkedin: https://fr.linkedin.com/in/jeanne-ropars-811281139
   mendeley: ''
-  orcid_id: '0000-0002-3740-9673 '
+  orcid_id: 0000-0002-3740-9673
   researchgate: https://www.researchgate.net/profile/Jeanne-Ropars
   twitter: ''
   website: ''

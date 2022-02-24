@@ -98,7 +98,6 @@
                   <template v-if="articles.length">
                     <div class="text-h5 my-6">
                       {{ $t('articles-from-this-author') }}
-                      <v-divider></v-divider>
                     </div>
                     <ArticleSearchItem
                       v-for="(article, index) in articles"
@@ -126,7 +125,6 @@ export default {
   components: { ArticleSearchItem },
   props: {},
   async asyncData({ $content, params }) {
-    console.log('params.slug: ', params.slug)
     const item = (
       await $content('authors', { deep: true })
         .where({
@@ -134,10 +132,11 @@ export default {
         })
         .fetch()
     )[0]
+    console.log('item: ', item)
     const articles = item?.articles?.length
       ? await $content('articles', { deep: true })
           .where({
-            path: { $in: item.articles },
+            slug: { $in: item.articles },
           })
           .fetch()
       : []
@@ -235,9 +234,7 @@ export default {
       socials: [],
     }
   },
-  computed: {
-    getSocials: () => {},
-  },
+  computed: {},
   mounted() {},
   methods: {},
 }

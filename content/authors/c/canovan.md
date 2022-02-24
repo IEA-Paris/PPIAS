@@ -3,7 +3,7 @@ articles:
   - Education & Marginalised Communities - Session 4
 createdAt: '2022-01-14T16:39:17.948Z'
 firstname: 'Cherry '
-lastname: ' Canovan'
+lastname: Canovan
 picture: ''
 picture_copyright: ''
 reference: ''

@@ -1,5 +1,4 @@
 import {
-  baseState,
   baseMutations,
   baseActions,
   baseGetters,
@@ -11,7 +10,6 @@ const defaultView =
       (item) => lists.authors.views[item].default === true
     )
   ]
-console.log('defaultView: ', defaultView)
 const defaultSort = [
   lists.authors.sort[
     Object.keys(lists.authors.sort).find(

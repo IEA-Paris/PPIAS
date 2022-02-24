@@ -2,6 +2,8 @@ export default {
   articles: {
     published: true,
   },
-  authors: {},
+  authors: {
+    articles: true,
+  },
   media: {},
 }

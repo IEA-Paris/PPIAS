@@ -83,8 +83,8 @@
         </div>
         <v-divider vertical class="mr-6 ml-3"></v-divider>
         <div>
-          {{ item.abstract }} <br />
-          <v-btn class="mt-6" tile outlined>Read more</v-btn>
+          <div class="article-abstract">{{ item.abstract }}</div>
+          <v-btn class="mt-6 d-block" tile outlined>Read more</v-btn>
         </div>
       </div>
     </v-card>
@@ -110,14 +110,14 @@ export default {
 <style lang="scss">
 .list-image {
   display: flex;
-  min-width: 25%;
-  max-width: 400px;
-  background-color: black;
+  min-width: 200px;
+  width: 200px;
+  background-color: black !important;
 }
 .article-title {
   font-size: 1.4rem !important;
   display: -webkit-box;
-  width: 260px;
+  width: 320px;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
@@ -127,6 +127,12 @@ export default {
   display: -webkit-box;
   width: 220px;
   -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.article-abstract {
+  display: -webkit-box;
+  -webkit-line-clamp: 6;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
