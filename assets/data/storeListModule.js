@@ -1,6 +1,6 @@
+import Vue from 'vue'
 import filtersRaw from '~/assets/data/filters'
 import lists from '~/assets/data/lists'
-
 export const baseMutations = {
   loadRouteQuery(state) {
     const query = this.app.router.currentRoute.query
@@ -14,7 +14,7 @@ export const baseMutations = {
       pristine = false
       const filters = JSON.parse(query.filters)
       Object.keys(filters).forEach((filter) => {
-        state.filters[filter] = filters[filter]
+        Vue.set(state.filters, filter, filters[filter])
       })
     }
 
@@ -22,7 +22,6 @@ export const baseMutations = {
     if (query.sortBy) state.sortBy = query.sortBy
     if (query.sortDesc) state.sortDesc = query.sortDesc
     if (!pristine) state.page = 1
-    console.log('state: ', state)
   },
   setSearch(state, search) {
     state.search = search
@@ -286,19 +285,19 @@ export const baseActions = {
     // fetch the item categories
     if (['articles', 'media'].includes(state.type)) {
       items = await Promise.all(
-        items.map(async (item) => {
+        await items.map(async (item) => {
           if (item.category_1 && item.category_1.length)
             item.category_1 = await this.$content(
               item.category_1.split('/').slice(1).join('/').split('.')[0]
             )
-              .only(['name', 'color'])
+              .only(['title', 'color'])
               .fetch()
           if (item.category_2 && item.category_2.length)
             item.category_2 = await this.$content(
               // TODO fix (or keep as a lesson) this shameful display of bad string manipulation. One slice could do it, no?
               item.category_2.split('/').slice(1).join('/').split('.')[0]
             )
-              .only(['name', 'color'])
+              .only(['title', 'color'])
               .fetch()
           return item
         })

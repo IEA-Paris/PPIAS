@@ -399,7 +399,9 @@ export default {
 
     await this.$store.dispatch(this.type + '/update')
   },
-  async updated() {},
+  updated() {
+    this.$store.commit(this.type + '/loadRouteQuery')
+  },
   methods: {
     /*     async updatePage(page) {
       await this.$router.push({

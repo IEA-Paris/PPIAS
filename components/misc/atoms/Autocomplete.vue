@@ -37,7 +37,7 @@ export default {
   computed: {
     selected: {
       get() {
-        return this.$store.state[this.type].filters[this.filter] || []
+        return this.$store.state[this.type].filters[this.filter]
       },
       set(value) {
         this.$store.dispatch(this.type + '/updateFilters', {
@@ -46,7 +46,7 @@ export default {
       },
     },
   },
-
+  watchQuery: true,
   created() {},
   beforeCreate() {},
 }

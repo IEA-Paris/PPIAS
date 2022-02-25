@@ -140,6 +140,6 @@ export default {
 .sideline {
   height: 2.2rem;
   width: 4px;
-  margin-right: 0.4rem;
+  padding-right: 0.4rem;
 }
 </style>

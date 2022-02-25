@@ -42,6 +42,7 @@ export default {
         body: true,
       },
     ],
+
     // Nuxt.js lets you define all default <meta> tags for your application inside nuxt.config.js. Define them using the same head property:
     // Each item in the array maps to a newly-created <meta> element, where object properties map to attributes.
     // Example output:

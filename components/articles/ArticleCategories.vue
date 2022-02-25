@@ -1,24 +1,26 @@
 <template>
-  <div>
-    <v-chip
-      v-if="item.category_1 && item.category_1.path"
-      :color="item.category_1.color"
-      label
-      class="white--text"
-      v-bind="$attrs"
-    >
-      {{ item.category_1.path.slice(12) }}
-    </v-chip>
-    <v-chip
-      v-if="item.category_2 && item.category_2.path"
-      :color="item.category_2.color"
-      label
-      class="white--text"
-      v-bind="$attrs"
-    >
-      {{ item.category_2.path.slice(12) }}
-    </v-chip>
-  </div>
+  <client-only>
+    <div>
+      <v-chip
+        v-if="item.category_1 && item.category_1.title"
+        :color="item.category_1.color"
+        label
+        class="white--text"
+        v-bind="$attrs"
+      >
+        {{ item.category_1.title }}
+      </v-chip>
+      <v-chip
+        v-if="item.category_2 && item.category_2.title"
+        :color="item.category_2.color"
+        label
+        class="white--text"
+        v-bind="$attrs"
+      >
+        {{ item.category_2.title }}
+      </v-chip>
+    </div>
+  </client-only>
 </template>
 <script>
 export default {
@@ -32,7 +34,9 @@ export default {
     return {}
   },
   computed: {},
-  mounted() {},
+  mounted() {
+    console.log('CREATED', this.item)
+  },
   methods: {},
 }
 </script>

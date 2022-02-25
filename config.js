@@ -1,6 +1,7 @@
 import colors from 'vuetify/es5/util/colors'
 
 export default {
+  env: { NODE_ENV: 'dev' },
   name: 'PIAS',
   full_name: 'Proceedings of the Paris Institute for Advanced Study', // set to false if there is none
   subtitle: 'Open source publishing platform for open science.',

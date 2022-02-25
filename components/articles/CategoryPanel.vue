@@ -4,7 +4,7 @@
     class="pa-3 mt-3"
     :style="'border-left:' + cat.color + ' 4px solid;'"
     nuxt
-    :to="path"
+    @click="$router.push(path)"
   >
     <v-card-title>{{ cat.title }}</v-card-title>
     <v-card-actions v-if="total > 1">
@@ -40,7 +40,7 @@ export default {
         .where({ title: this.item.slice(19, -3) })
         .fetch()
     )[0]
-    console.log('this.cat: ', this.cat)
+
     this.total = (
       await this.$content('articles', { deep: true })
         .where({
@@ -53,14 +53,9 @@ export default {
         .fetch()
     ).length
 
-    console.log('this.localePath ', this.localePath('/'))
-
     this.path = `${this.localePath('/')}?filters=%7B%22category%22%3A%5B%22${
       this.cat.title
     }%22%5D%7D`
-    console.log('this.item.slice(19, -3): ', this.item.slice(19, -3))
-    console.log('this.item.path: ', 'content' + this.cat.path + '.md')
-    console.log(' this.total: ', this.total)
   },
   computed: {},
   mounted() {

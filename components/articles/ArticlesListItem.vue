@@ -3,7 +3,7 @@
     <v-card
       nuxt
       :to="localePath('/articles/' + item.slug)"
-      class="d-flex py-6"
+      class="pa-6 d-flex"
       flat
     >
       <div class="list-image d-flex">
@@ -67,10 +67,10 @@
         </TextFingerprint>
       </div>
       <div class="ml-6 my-3 d-flex mt-n2">
-        <div>
+        <div class="article-title">
           <v-tooltip bottom>
             <template #activator="{ on, attrs }">
-              <div class="article-title text-h6" v-bind="attrs" v-on="on">
+              <div class="text-h6" v-bind="attrs" v-on="on">
                 {{ item.article_title }}
               </div>
             </template>
@@ -81,6 +81,7 @@
             class="text-p mt-3 article-authors"
           />
         </div>
+
         <v-divider vertical class="mr-6 ml-3"></v-divider>
         <div>
           <div class="article-abstract">{{ item.abstract }}</div>
@@ -118,6 +119,7 @@ export default {
   font-size: 1.4rem !important;
   display: -webkit-box;
   width: 320px;
+  min-width: 320px;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
