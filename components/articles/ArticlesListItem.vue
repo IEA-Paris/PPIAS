@@ -70,7 +70,7 @@
         <div class="article-title">
           <v-tooltip bottom>
             <template #activator="{ on, attrs }">
-              <div class="text-h6" v-bind="attrs" v-on="on">
+              <div class="text-h6 article-title" v-bind="attrs" v-on="on">
                 {{ item.article_title }}
               </div>
             </template>
