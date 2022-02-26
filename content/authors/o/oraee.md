@@ -26,6 +26,8 @@ categories:
   - content/categories/WPRN21.md
   - content/categories/WPRN.md
   - content/categories/ICA.md
+  - content/categories/WPRN.md
+  - content/categories/ICA.md
 category:
   - content/categories/WPRN21.md
   - content/categories/WPRN.md

@@ -38,7 +38,6 @@ export default {
 
   computed: {
     text() {
-      console.log('this.item: ', this.item)
       const str = typeof this.item === 'object' ? this.item.text : this.item
       return str.length > 18 ? truncate(str, 18) : str
     },

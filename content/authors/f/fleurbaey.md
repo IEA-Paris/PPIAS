@@ -6,7 +6,6 @@ categories:
   - []
 category:
   - content/categories/WPRN21.md
-  - []
 createdAt: '2022-01-24T15:20:42.230Z'
 firstname: Marc
 language:

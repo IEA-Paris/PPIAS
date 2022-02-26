@@ -6,23 +6,23 @@
       </v-btn>
     </template>
     <v-card dark color="rgba(0, 0, 0, 0.97)">
-      <v-app-bar
-        color="transparent"
-        clipped
-        flat
-        hide-on-scroll
-        :height="!$store.state.scrolled ? '180' : '120'"
-      >
+      <v-app-bar color="transparent" clipped flat hide-on-scroll height="180">
         <div class="d-flex flex-column flex-grow-1">
-          <div class="d-flex flex-grow-1 align-center">
-            <Logo color="#FFF" />
+          <div class="d-flex flex-grow-1 align-start">
+            <v-img
+              class="ml-10 mr-2"
+              src="/icon_dark.png"
+              contain
+              max-height="120"
+              max-width="120"
+              style="cursor: pointer"
+            ></v-img>
             <v-spacer></v-spacer>
             <v-btn
               icon
-              text
               x-large
-              tile
               class="ma-2 mr-4 mb-4"
+              tile
               @click="open = false"
             >
               <v-icon>mdi-close</v-icon>
@@ -77,7 +77,7 @@
                 <template v-for="(item, index) in results.articles">
                   <v-list-item-group
                     v-if="results.articles.length"
-                    :key="item.article_title + index"
+                    :key="index + 'articles'"
                     color="primary"
                     template
                   >
@@ -109,7 +109,7 @@
                 <template v-for="(item, index) in results.media">
                   <v-list-item-group
                     v-if="results.media.length"
-                    :key="item.caption + index"
+                    :key="index + 'media'"
                     color="primary"
                     template
                   >
@@ -143,7 +143,7 @@
                 <template v-for="(item, index) in results.authors">
                   <v-list-item-group
                     v-if="results.authors.length"
-                    :key="index"
+                    :key="index + 'authors'"
                     color="primary"
                     template
                   >

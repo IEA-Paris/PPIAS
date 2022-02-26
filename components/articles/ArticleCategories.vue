@@ -34,9 +34,7 @@ export default {
     return {}
   },
   computed: {},
-  mounted() {
-    console.log('CREATED', this.item)
-  },
+  mounted() {},
   methods: {},
 }
 </script>

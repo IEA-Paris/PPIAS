@@ -46,7 +46,6 @@ export default {
       },
       update(data) {
         const rst = data[Object.keys(data)[0]]
-        console.log('data: ', rst)
         this.$store.commit('form/updateStore', rst)
         return rst
       },

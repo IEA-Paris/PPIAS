@@ -9,7 +9,6 @@ categories:
   - []
 category:
   - content/categories/WPRN.md
-  - []
 createdAt: '2022-01-17T14:32:20.295Z'
 firstname: Aurélie
 language:

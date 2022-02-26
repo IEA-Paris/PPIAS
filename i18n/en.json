@@ -186,5 +186,8 @@
   "view-list": "List",
   "search-type": "Search {0}",
   "no-other-mode-available": "No other mode available",
-  "collections": "Collections"
+  "collections": "Collections",
+  "view-results": "View results",
+  "select-a-view": "Select a view",
+  "sort-the-type-by": "Sort the {0}..."
 }

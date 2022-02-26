@@ -59,10 +59,9 @@ export default {
       },
 
       set(value) {
-        console.log('value: ', value)
         /*
         value = Math.floor(Date.parse(new Date(value).getTime() / 1000))
-        console.log('value: ', value) */
+         */
         return this.$store.dispatch('form/update', {
           type: this.type,
           itemId: this.$route.params.id,
@@ -71,7 +70,6 @@ export default {
       },
     },
     formatted() {
-      console.log('this.selected: ', this.selected)
       console.log(
         'formatDate(this.selected): ',
         formatDate(

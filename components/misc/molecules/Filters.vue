@@ -11,7 +11,7 @@
           x-large
           block
           height="56"
-          @click="$store.dispatch(type + '/resetState')"
+          @click="$store.dispatch(type + '/resetState') && $emit('close')"
           ><v-icon left>mdi-autorenew</v-icon
           >{{ $t('reset-your-search-filters') }}</v-btn
         >
@@ -21,7 +21,7 @@
         v-for="(filter, name) in Object.keys(filters)"
         :key="name + type + filter"
         hide-details
-        :dense="$vuetify.breakpoint.smAndDown"
+        :dense="$vuetify.breakpoint.sm"
         :items="filters[filter].items.map((item) => $t(item))"
         clearable
         :label="$t(filter)"

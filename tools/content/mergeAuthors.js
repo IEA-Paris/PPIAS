@@ -104,7 +104,7 @@ export default async (content) => {
           category: [
             ...(article.category_1 ? [article.category_1] : []),
             ...(article.category_2 ? [article.category_2] : []),
-          ],
+          ].flat(),
           language: [article.language],
         }
       })

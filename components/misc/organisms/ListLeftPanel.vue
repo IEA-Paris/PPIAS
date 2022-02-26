@@ -1,43 +1,53 @@
 <template>
-  <div>
-    <v-row no-gutters class="mt-n12">
-      <v-col cols="12" class="d-flex">
-        <div class="sidebtn">
-          <v-tooltip bottom>
-            <template #activator="{ on, attrs }">
-              <v-btn
-                tile
-                outlined
-                text
-                v-bind="attrs"
-                class="pa-7"
-                @click="filter = !filter"
-                v-on="on"
-              >
-                <v-icon :left="!filter">
-                  {{ filter ? 'mdi-chevron-left' : 'mdi-filter' }}
-                </v-icon>
-                {{ filter ? '' : $t('filters') }}
-              </v-btn>
-            </template>
-            <span
-              v-html="filter ? $t('hide-filters') : $t('show-filters')"
-            ></span>
-          </v-tooltip>
-        </div>
-        <v-spacer></v-spacer>
-        <ViewMenu :type="type"></ViewMenu>
-        <SortMenu :type="type"></SortMenu>
-        <!--   <IconMenu menu-type="view" :type="type"></IconMenu> -->
-      </v-col>
-    </v-row>
+  <div class="d-flex flex-column">
+    <FiltersDialog
+      v-if="$vuetify.breakpoint.xs"
+      v-model="filter"
+      :type="type"
+      :filter-count="filtersCount"
+    />
+    <div
+      v-if="$vuetify.breakpoint.smAndUp"
+      :class="{ sidebtn: !filter }"
+      class="d-inline-flex"
+    >
+      <v-tooltip bottom>
+        <template #activator="{ on, attrs }">
+          <v-btn
+            tile
+            outlined
+            text
+            v-bind="attrs"
+            class="pa-7"
+            @click="filter = !filter"
+            v-on="on"
+          >
+            <v-icon :left="!filter">
+              {{ filter ? 'mdi-chevron-left' : 'mdi-filter' }}
+            </v-icon>
+            {{ filter ? '' : $t('filters') }}
+          </v-btn>
+        </template>
+        <span v-html="filter ? $t('hide-filters') : $t('show-filters')"></span>
+      </v-tooltip>
+    </div>
+    <div class="d-inline-flex">
+      <v-spacer></v-spacer>
+      <ViewMenu :type="type"></ViewMenu>
+      <SortMenu :type="type"></SortMenu>
+    </div>
+
+    <!--   <IconMenu menu-type="view" :type="type"></IconMenu> -->
     <v-row
-      class="transition-swing flex-row-reverse d-flex"
+      class="transition-swing d-flex"
       :fluid="filter"
-      :class="{ 'justify-center': $vuetify.breakpoint.lgAndUp }"
+      :class="{
+        'justify-center': $vuetify.breakpoint.lgAndUp,
+        'flex-row-reverse': $vuetify.breakpoint.smAndUp,
+      }"
     >
       <v-col
-        :cols="filter ? 10 : 12"
+        cols="12"
         :xl="filter ? 8 : 10"
         :lg="filter ? 9 : 11"
         :md="filter ? 9 : 12"
@@ -52,16 +62,21 @@
           hide-default-footer
           :options="options"
           :dense="$vuetify.breakpoint.mdAndDown"
+          @update:page="$vuetify.goTo(0)"
         >
           <template #header>
             <v-container
               class="transition-swing py-0"
               :fluid="!$store.state.scrolled"
-              :class="{ '': !$store.state.scrolled, 'pl-0': filter }"
+              :class="{
+                '': !$store.state.scrolled,
+                'pl-0': filter,
+                'pr-0': $vuetify.breakpoint.xs,
+              }"
             >
               <v-row
                 class="transition-swing"
-                :no-gutters="!$store.state.scrolled"
+                :no-gutters="!$store.state.scrolled || $vuetify.breakpoint.xs"
                 :class="[
                   $store.state.scrolled
                     ? 'mb-0'
@@ -101,7 +116,7 @@
                     ></component>
                   </div>
                   <v-text-field
-                    v-model="search"
+                    v-model.trim="search"
                     :placeholder="$t('search-type', [$t(type)])"
                     prepend-inner-icon="mdi-magnify"
                     single-line
@@ -256,7 +271,7 @@
         </v-data-iterator>
       </v-col>
       <v-col
-        v-show="filter"
+        v-if="$vuetify.breakpoint.smAndUp && filter"
         :cols="filter ? 2 : 1"
         :xl="filter ? 2 : 1"
         :lg="filter ? 3 : 1"
@@ -270,6 +285,7 @@
   </div>
 </template>
 <script>
+import debounce from '~/assets/utils/debounce'
 export default {
   props: {
     addBtn: {
@@ -314,6 +330,10 @@ export default {
   data() {
     return {
       filter: this.$store.state[this.type].filtersCount > 0,
+      debouncedSearch: debounce(function (v) {
+        this.$store.dispatch(this.type + '/updateSearch', v)
+        this.$vuetify.goTo(0)
+      }, 200),
     }
   },
   async fetch({ params, store: { dispatch, getters } }) {
@@ -349,9 +369,8 @@ export default {
       get() {
         return this.$store.state[this.type].search
       },
-      async set(v) {
-        await this.$store.dispatch(this.type + '/updateSearch', v)
-        this.$vuetify.goTo(0)
+      set(v) {
+        this.debouncedSearch(v)
       },
     },
     display: {
@@ -399,9 +418,7 @@ export default {
 
     await this.$store.dispatch(this.type + '/update')
   },
-  updated() {
-    this.$store.commit(this.type + '/loadRouteQuery')
-  },
+  updated() {},
   methods: {
     /*     async updatePage(page) {
       await this.$router.push({
@@ -415,6 +432,10 @@ export default {
 <style lang="scss">
 .sidebtn {
   position: sticky;
+  display: block;
+  align-self: flex-start;
+  top: 0;
+  overflow-y: auto;
   top: 0;
   background-color: white;
   z-index: 4;

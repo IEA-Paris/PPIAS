@@ -3,7 +3,7 @@ export default {
     published: true,
   },
   authors: {
-    articles: true,
+    articles: { $type: 'array' },
   },
   media: {},
 }

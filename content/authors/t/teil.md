@@ -6,7 +6,6 @@ categories:
   - []
 category:
   - content/categories/Fellows.md
-  - []
 createdAt: '2022-01-21T10:23:03.810Z'
 firstname: Geneviève
 language:

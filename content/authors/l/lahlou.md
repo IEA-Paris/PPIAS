@@ -9,9 +9,10 @@ categories:
   - []
   - content/categories/Fellows.md
   - content/categories/WPRN.md
+  - content/categories/Fellows.md
+  - content/categories/WPRN.md
 category:
   - content/categories/WPRN21.md
-  - []
   - content/categories/Fellows.md
   - content/categories/WPRN.md
 createdAt: '2022-01-14T16:39:17.952Z'

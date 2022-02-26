@@ -7,7 +7,11 @@
             <v-img src="/logo_text_alt.svg" contain width="200" class="my-6"></v-img>
           </nuxt-link> -->
           <v-row justify="center">
-            <v-col cols="12" sm="4">
+            <v-col
+              cols="12"
+              sm="4"
+              :order="$vuetify.breakpoint.smAndDown ? 'last' : ''"
+            >
               <div class="text-body-2 my-6">
                 <v-icon left>mdi-map-marker</v-icon>
                 17, Quai d'Anjou 75004 PARIS - FRANCE
@@ -46,11 +50,7 @@
             </v-col>
             <v-col cols="12" sm="4">
               <v-list flat color="transparent" dense>
-                <v-list-item
-                  :to="localePath('/about')"
-                  nuxt
-                  @click="open = false"
-                >
+                <v-list-item :to="localePath('/about')" nuxt>
                   <v-list-item-content>
                     <v-list-item-title
                       class="text-uppercase text-button"
@@ -96,7 +96,11 @@
                 </v-list-item>
               </v-list>
             </v-col>
-            <v-col cols="12" sm="4">
+            <v-col
+              cols="12"
+              sm="4"
+              :order="$vuetify.breakpoint.smAndDown ? 'first' : ''"
+            >
               <div class="overline">
                 {{ $t('subscribe-to-our-newsletter') }}
               </div>
@@ -116,6 +120,8 @@
                 </v-text-field>
               </div>
             </v-col>
+          </v-row>
+          <v-row justify="center" no-gutters class="mt-3">
             <v-col cols="12" align="center">
               <v-tooltip v-for="(item, index) in social" :key="index" top>
                 <template #activator="{ on }">

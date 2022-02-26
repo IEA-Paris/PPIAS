@@ -38,7 +38,6 @@ export default {
   computed: {
     val: {
       get() {
-        console.log('this.item: ', this.item)
         return !this.$route.params.id
           ? this.$store.state.list[this.item]
           : this.$store.state.form[this.item]

@@ -8,7 +8,10 @@
             tile
             icon
             v-bind="attrs"
-            class="mr-3"
+            :class="{
+              'mr-3': $vuetify.breakpoint.smAndUp,
+              'mt-3': $vuetify.breakpoint.xs,
+            }"
             v-on="{ ...tooltip, ...menu }"
           >
             <v-icon> mdi-{{ current.icon || defaultSort.icon }}</v-icon>
@@ -20,6 +23,7 @@
       </v-tooltip>
     </template>
     <v-list>
+      <v-subheader>{{ $t('sort-the-type-by', [$t(type)]) }} </v-subheader>
       <template v-for="(item, index) in items">
         <v-list-item
           v-if="item.text !== current.text"

@@ -6,7 +6,6 @@ categories:
   - []
 category:
   - content/categories/Fellows.md
-  - []
 createdAt: '2022-01-14T16:39:17.952Z'
 firstname: Anne
 language:

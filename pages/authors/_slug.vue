@@ -132,7 +132,6 @@ export default {
         })
         .fetch()
     )[0]
-    console.log('item: ', item)
     const articles = item?.articles?.length
       ? await $content('articles', { deep: true })
           .where({

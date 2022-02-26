@@ -47,7 +47,9 @@ export default {
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
+@import '~vuetify/src/styles/settings/_variables';
+
 .frame {
   overflow: hidden;
   display: flex;
@@ -90,11 +92,17 @@ export default {
   text-decoration: none;
   max-width: 66%;
 }
+
+@media #{map-get($display-breakpoints, 'sm-and-down')} {
+  .caption-content {
+    max-width: 86%;
+  }
+}
 .caption-content {
   font-size: 1.25rem;
   line-height: 1.7rem;
   text-decoration: none;
-  text-shadow: 1px 1px 0 alpha(white, 0.6);
+  text-shadow: 1px 1px 0 alpha(rgba(255, 255, 255, 0.6));
   color: black;
   background-image: linear-gradient(to left, white 100%, black 100%);
   text-transform: uppercase;
@@ -113,7 +121,7 @@ export default {
   background-image: linear-gradient(to left, black 100%, white 100%);
   line-height: 2.2rem;
   font-weight: 600;
-  text-shadow: 1px 1px 0 alpha(black, 0.6);
+  text-shadow: 1px 1px 0 alpha(rgba(0, 0, 0, 0.6));
 }
 
 .caption-date {
@@ -124,6 +132,6 @@ export default {
   background-image: linear-gradient(to left, white 100%, black 100%);
   font-size: 1.1rem;
   line-height: 2.2rem;
-  text-shadow: 1px 1px 0 alpha(black, 0.6);
+  text-shadow: 1px 1px 0 alpha(rgba(0, 0, 0, 0.6));
 }
 </style>

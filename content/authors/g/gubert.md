@@ -4,6 +4,7 @@ articles:
 categories:
   - content/categories/WPRN21.md
   - content/categories/WPRN.md
+  - content/categories/WPRN.md
 category:
   - content/categories/WPRN21.md
   - content/categories/WPRN.md

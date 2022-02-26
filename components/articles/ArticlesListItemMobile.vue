@@ -2,11 +2,11 @@
   <v-list-item
     nuxt
     :to="localePath('/articles/' + item.slug)"
-    class="my-6 d-flex align-start pl-0 pt-3"
+    class="my-6 d-flex align-start pl-0 pt-3 ml-1"
     flat
   >
     <v-list-item-avatar
-      v-if="$vuetify.breakpoint.smAndUp"
+      v-if="$vuetify.breakpoint.mdAndUp || ($vuetify.breakpoint.sm && !filter)"
       x-large
       tile
       min-width="25%"
@@ -62,16 +62,22 @@
         </template>
       </TextFingerprint>
     </v-list-item-avatar>
-    <div class="">
+    <div class="d-flex flex-column">
       <div
         class="d-inline-flex article-mobile-title"
-        :class="$vuetify.breakpoint.xs ? ' small' : ''"
+        :class="
+          $vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)
+            ? ' small'
+            : ''
+        "
       >
         <v-tooltip bottom>
           <template #activator="{ on, attrs }">
             <div v-bind="attrs" v-on="on">
               <ArticleCategories
-                v-if="$vuetify.breakpoint.xs"
+                v-if="
+                  $vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)
+                "
                 :item="item"
                 class="pr-2 d-inline-flex"
                 small
@@ -83,7 +89,9 @@
         </v-tooltip>
       </div>
       <v-list-item-subtitle class="mt-3 d-inline-flex">
-        <template v-if="$vuetify.breakpoint.xs">
+        <template
+          v-if="$vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)"
+        >
           {{
             new Date(item.date).toLocaleDateString('EN', {
               timezone: 'UTC',
@@ -102,6 +110,11 @@ export default {
     item: {
       required: true,
       type: Object,
+    },
+    filter: {
+      required: false,
+      type: Boolean,
+      default: false,
     },
   },
   data() {

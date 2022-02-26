@@ -1,11 +1,22 @@
 <template>
   <div
     class="d-flex"
-    @click="$router.push(localePath('/'))"
-    @keyup.enter="$router.push(localePath('/'))"
+    @click="
+      $store.dispatch('articles/resetState') &&
+        $store.dispatch('media/resetState') &&
+        $store.dispatch('authors/resetState')
+    "
+    @keyup.enter="
+      $store.dispatch('articles/resetState') &&
+        $store.dispatch('media/resetState') &&
+        $store.dispatch('authors/resetState')
+    "
   >
     <v-img
-      class="ml-10 mr-2"
+      class="mr-2"
+      :class="{
+        'ml-6': $vuetify.breakpoint.smAndUp,
+      }"
       src="/icon.png"
       contain
       max-height="120"

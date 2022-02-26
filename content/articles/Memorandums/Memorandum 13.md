@@ -55,7 +55,6 @@ highlight: true
 bibliography: "/documents-exportes_memo13.bib"
 
 ---
-## Vaccination Resistance
 
 People who are reluctant to vaccinate have often been portrayed in the media as conspiracy theorists. Is this an anecdotal phenomenon? A stable correlation? Research in the humanities and social sciences has looked into this question, as well as into the broader relationship with vaccination : do undecided people change their minds over time ? What policies are likely to turn them off ? Is the obligation to present a document proving vaccination to access collective spaces or cultural activities an effective way to encourage vaccination? What is driving the change in vaccine mistrust ?
 

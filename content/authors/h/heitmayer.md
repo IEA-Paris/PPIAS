@@ -6,9 +6,9 @@ categories:
   - content/categories/WPRN21.md
   - []
   - content/categories/WPRN.md
+  - content/categories/WPRN.md
 category:
   - content/categories/WPRN21.md
-  - []
   - content/categories/WPRN.md
 createdAt: '2022-02-01T15:13:30.061Z'
 firstname: Maxi

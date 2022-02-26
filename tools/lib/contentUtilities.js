@@ -132,7 +132,7 @@ export const writePrintRoutes = async () => {
 export default ` +
       JSON.stringify( */
   const { $content } = require('@nuxt/content')
-  const articles = await $content('articles').fetch()
+  const articles = await $content('articles', { deep: true }).fetch()
   return articles.map((article) => {
     // if the file has been changed
     return {

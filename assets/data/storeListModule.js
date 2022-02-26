@@ -1,11 +1,11 @@
 import Vue from 'vue'
 import filtersRaw from '~/assets/data/filters'
 import lists from '~/assets/data/lists'
+
 export const baseMutations = {
   loadRouteQuery(state) {
     const query = this.app.router.currentRoute.query
     let pristine = true
-    console.log('query: ', query)
     if (query.search) {
       state.search = query.search
       pristine = false
@@ -17,11 +17,17 @@ export const baseMutations = {
         Vue.set(state.filters, filter, filters[filter])
       })
     }
+    console.log('LOAD ROUTE QUREYR')
 
-    if (query.page) state.page = query.page
-    if (query.sortBy) state.sortBy = query.sortBy
-    if (query.sortDesc) state.sortDesc = query.sortDesc
-    if (!pristine) state.page = 1
+    if (query.view) Vue.set(state, 'view', query.view)
+    if (query.page) {
+      Vue.set(state, 'page', query.page)
+    } else {
+      Vue.set(state, 'page', 1)
+    }
+    if (query.sortBy) Vue.set(state, 'sortBy', query.sortBy)
+    console.log('query.sortDesc: ', query.sortDesc)
+    if (query.sortDesc) Vue.set(state, 'sortDesc', query.sortDesc)
   },
   setSearch(state, search) {
     state.search = search
@@ -35,32 +41,22 @@ export const baseMutations = {
     state.itemsPerPage = value
   },
   setPage(state, page) {
-    state.page = page
-    if (page) {
-      if (page <= Math.ceil(state.total / state.itemsPerPage)) {
-        if (state.page > 1) {
-          this.app.router.push({
-            query: { ...this.app.router.currentRoute.query, page: state.page },
-          })
-        } else {
-          this.app.router.push({
-            query: { ...this.app.router.currentRoute.query, page: undefined },
-          })
-        }
-      }
-    }
+    console.log('page: ', page)
+    Vue.set(state, 'page', page)
+    console.log('state.apge', state.page)
   },
   setFilters(state, filters) {
-    console.log('filters: ', filters)
-    state.filters[Object.keys(filters)[0]] = filters[Object.keys(filters)[0]]
+    Vue.set(
+      state.filters,
+      Object.keys(filters)[0],
+      filters[Object.keys(filters)[0]]
+    )
   },
   setSort(state, values) {
-    console.log('values: ', values)
     state.sortBy = [values[0]]
     state.sortDesc = [values[1] === 'desc']
   },
   setView(state, value) {
-    console.log('value: ', value)
     state.view = value
   },
   setFiltersCount(state) {
@@ -76,13 +72,34 @@ export const baseMutations = {
           (typeof filters[filter] === 'object' &&
             Object.keys(filters[filter]).length)
       ).length
-    console.log('filtersCount: ', filtersCount)
     state.filtersCount = filtersCount
   },
   setBlankState(state) {
     console.log('RESET STATE')
-    state.filters = { years: [], category: [], tags: [], language: [] }
-    state.search = null
+    const defaultView =
+      lists[state.type].views[
+        Object.keys(lists[state.type].views).find(
+          (item) => lists[state.type].views[item].default === true
+        )
+      ]
+    const defaultSort = [
+      lists[state.type].sort[
+        Object.keys(lists[state.type].sort).find(
+          (item) => lists[state.type].sort[item].default === true
+        )
+      ],
+    ]
+    Vue.set(state, 'filters', {
+      years: [],
+      category: [],
+      tags: [],
+      language: [],
+    })
+
+    Vue.set(state, 'search', '')
+    Vue.set(state, 'view', defaultView.name)
+    Vue.set(state, 'sortBy', [defaultSort[0].value[0]])
+    Vue.set(state, 'sortDesc', [defaultSort[0].value[1]] === 'desc')
   },
 }
 export const baseActions = {
@@ -111,7 +128,6 @@ export const baseActions = {
     await dispatch('update')
   },
   async updatePage({ dispatch, commit, state }, page) {
-    console.log('page: ', page)
     commit('setPage', page)
     await dispatch('update')
   },
@@ -125,9 +141,8 @@ export const baseActions = {
       ...filtersRaw[state.type],
     }
     const queryFilters = {}
-
+    console.log('state', state)
     pipeline.$or = []
-    console.log('filtersRaw[type]: ', filtersRaw[state.type])
     const filters = state.filters
 
     Object.keys(filters).forEach((filter) => {
@@ -228,25 +243,21 @@ export const baseActions = {
 
         return totalItems - lastPageCount
       }
-      return (state.page - 1) * state.itemsPerPage
+      return (+state.page - 1) * state.itemsPerPage
     }
-    console.log(
-      'sort(): ',
-      state.sortBy[0],
-      state.sortDesc[0] || getters.defaultSort.value[1] ? 'desc' : 'asc'
-    )
+    console.log('pipeline: ', pipeline)
 
     let items = await this.$content(state.type, { deep: true })
-      .search(state.search)
       .where(pipeline)
+      .search(state.search)
       .sortBy(state.sortBy[0], state.sortDesc[0] ? 'desc' : 'asc')
       .skip(skipNumber())
       .limit(state.itemsPerPage)
       .fetch()
     // update route
-    console.log('items: ', items)
     const query = {
-      ...(state.search && { search: state.search }),
+      ...(state.search &&
+        typeof state.search !== 'undefined' && { search: state.search }),
       ...(state.page > 1 && { page: state.page.toString() }),
       ...(state.sortBy?.length &&
         state.sortBy[0] !== getters.defaultSort.value[0] && {
@@ -267,7 +278,14 @@ export const baseActions = {
     }
     const sortObject = (obj) => Object.fromEntries(Object.entries(obj).sort())
     console.log('query: ', JSON.stringify(query))
-    console.log('query12: ', JSON.stringify(this.$router.currentRoute.query))
+    console.log(
+      'query12: ',
+      JSON.stringify(this.$router.currentRoute.query).replace('"true"', 'true')
+    )
+
+    Object.keys(query).forEach((key) =>
+      query[key] === undefined ? delete query[key] : {}
+    )
     console.log(
       'should replace',
       JSON.stringify(sortObject(this.$router.currentRoute.query)) !==
@@ -303,7 +321,7 @@ export const baseActions = {
         })
       )
     }
-    console.log('length', items.length)
+    console.log('items: ', items)
     /*     const isDesc = state.sortDesc[0] || getters.defaultSort.value[1]
     const sorter = state.sortBy[0] || getters.defaultSort.value[0]
     console.log('sorter: ', sorter)

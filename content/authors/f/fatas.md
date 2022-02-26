@@ -6,7 +6,6 @@ categories:
   - []
 category:
   - content/categories/WPRN21.md
-  - []
 createdAt: '2022-01-21T10:23:03.810Z'
 firstname: Enrique
 language:

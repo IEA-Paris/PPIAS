@@ -46,7 +46,6 @@ export default {
       },
     },
   },
-  watchQuery: true,
 
   created() {},
   beforeCreate() {},
