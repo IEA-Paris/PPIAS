@@ -73,11 +73,11 @@
         <span class="overline"
           >&copy; {{ new Date().getFullYear() }} {{ $t('paris-ias') }}</span
         >
-        - {{ item.article_title }} by <span v-html="formatedAuthors"></span>
-        <v-spacer></v-spacer>
+        - {{ item.article_title }} by <span v-html="formatedAuthors"></span> -
+        Page
+        <span class="page-number"></span>
       </small>
     </footer>
-    <div class="page-number"></div>
   </article>
 </template>
 <script>
@@ -128,8 +128,28 @@ export default {
   margin-bottom: 15px;
   margin-top: 10px;
   word-spacing: 2px;
-  line-height: 26px !important;
+  line-height: 30px !important;
   text-align: justify;
+}
+.nuxt-content.article-body h2 {
+  font-size: 45px !important;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-top: 60px;
+  word-spacing: 2px;
+  line-height: 55px !important;
+}
+.nuxt-content.article-body h3 {
+  font-size: 36px !important;
+  line-height: 40px !important;
+  margin-bottom: 30px;
+  margin-top: 60px;
+}
+.nuxt-content.article-body h4 {
+  font-size: 24px !important;
+  line-height: 30px !important;
+  margin-bottom: 30px;
+  margin-top: 30px;
 }
 .article-authors {
   padding: 1em 0em;
@@ -147,7 +167,7 @@ export default {
   color: rgb(37, 37, 37);
 }
 @page {
-  margin: 2cm 4cm 2cm 1cm;
+  margin: 2cm 4cm 0cm 1cm;
 }
 
 @media print {
