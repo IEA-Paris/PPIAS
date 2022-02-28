@@ -4,12 +4,14 @@
     @click="
       $store.dispatch('articles/resetState') &&
         $store.dispatch('media/resetState') &&
-        $store.dispatch('authors/resetState')
+        $store.dispatch('authors/resetState') &&
+        $router.push(localePath('/'))
     "
     @keyup.enter="
       $store.dispatch('articles/resetState') &&
         $store.dispatch('media/resetState') &&
-        $store.dispatch('authors/resetState')
+        $store.dispatch('authors/resetState') &&
+        $router.push(localePath('/'))
     "
   >
     <v-img
