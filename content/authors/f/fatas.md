@@ -1,15 +1,15 @@
 ---
 articles:
-  - Keynote 8
+- Keynote 8
 categories:
-  - content/categories/WPRN21.md
-  - []
+- content/categories/WPRN21.md
+- []
 category:
-  - content/categories/WPRN21.md
+- content/categories/WPRN21.md
 createdAt: '2022-01-21T10:23:03.810Z'
 firstname: Enrique
 language:
-  - English
+- English
 lastname: Fatas
 picture: ''
 picture_copyright: ''
@@ -19,17 +19,18 @@ social_channels:
   instagram: ''
   linkedin: https://www.linkedin.com/in/enrique-fatas-a838338
   mendeley: ''
-  orcid_id: ''
+  orcid_id: 0000-0002-0603-2156
   researchgate: ''
   twitter: https://twitter.com/enriquefatas?lang=fr
-  website: ''
+  website: https://sites.google.com/view/enriquefatas/
   wikipedia: ''
 titles_and_institutions:
-  - institution: University of Pennsylvania, USA
-    titles: []
+- institution: University of Pennsylvania, USA
+  titles: []
 years:
-  - '2021'
-  - null
-  - 2021
+- '2021'
+- 
+- 2021
 
 ---
+Enrique Fatas is a Distinguished Fellow from Loughborough University in Loughborough, England. He is Professor at the Center for Social Norms and Behavioral Dynamics at the University of Pennsylvania. His research focuses on the behavioral determinants of institutional performance and the behavioral consequences of political conflict using an interdisciplinary approach.
