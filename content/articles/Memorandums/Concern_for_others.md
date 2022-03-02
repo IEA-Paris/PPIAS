@@ -37,7 +37,6 @@ keywords:
 language: English
 
 ---
-## Concern for others is a better argument to foster social distancing
 
 Social psychology studies typically focus on social norms to understand, anticipate and  
 influence the behaviours of individuals and groups (to simplify: «others do it, so do it too»).  
