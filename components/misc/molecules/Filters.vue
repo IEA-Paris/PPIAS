@@ -1,21 +1,28 @@
 <template>
   <aside
     class="d-sticky transition-swing"
-    :class="{ 'pr-6': $store.state.scrolled }"
+    :class="{ 'pr-6': $store.state.scrolled && !$vuetify.breakpoint.xs }"
   >
     <div class="mt-3">
-      <v-expand-transition>
-        <v-btn
-          v-show="showReset"
-          outlined
-          x-large
-          block
-          height="56"
-          @click="$store.dispatch(type + '/resetState') && $emit('close')"
-          ><v-icon left>mdi-autorenew</v-icon
-          >{{ $t('reset-your-search-filters') }}</v-btn
-        >
-      </v-expand-transition>
+      <v-btn
+        v-if="showReset"
+        outlined
+        x-large
+        block
+        height="56"
+        @click="$store.dispatch(type + '/resetState') && $emit('close')"
+        ><v-icon left>mdi-autorenew</v-icon
+        >{{ $t('reset-your-search-filters') }}</v-btn
+      >
+      <v-sheet
+        v-else
+        height="56"
+        block
+        class="text-h6 overline text-center mb-3 d-flex align-center justify-center darkgrey--text"
+      >
+        {{ $t('filters') }}
+      </v-sheet>
+
       <component
         :is="filters[filter].type"
         v-for="(filter, name) in Object.keys(filters)"

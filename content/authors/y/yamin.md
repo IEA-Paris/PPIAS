@@ -33,6 +33,8 @@ titles_and_institutions:
       - ''
 years:
   - '2021'
+  - null
+  - 2021
 
 ---
 Paulius is an alumnus of the PhD programme at the Department of Psychological and Behavioural Science, and is the current Managing Director of the Center for Social Norms and Behavioral Dynamics at the University of Pennsylvania.

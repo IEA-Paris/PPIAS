@@ -219,7 +219,7 @@
                 justify="center"
                 align="center"
               >
-                <v-sheet class="d-flex align-center">
+                <v-col align-content-start align-start justify-start>
                   <span
                     class="grey--text pr-3"
                     :class="{ 'ml-6': !$store.state.scrolled }"
@@ -235,12 +235,14 @@
                     :items="$store.state[type].itemsPerPageArray"
                     hide-details
                   ></v-select>
-                </v-sheet>
-
-                <v-spacer></v-spacer>
-
-                <div v-if="numberOfPages > 1">
-                  <v-pagination
+                </v-col>
+                <v-col align-content-start align-start justify-start> </v-col>
+                <v-col
+                  v-if="numberOfPages > 1"
+                  align-content-start
+                  align-start
+                  justify-start
+                  ><v-pagination
                     :total-visible="5"
                     color="black"
                     large
@@ -251,20 +253,20 @@
                         $vuetify.goTo(0)
                     "
                   ></v-pagination>
-                </div>
-                <v-spacer></v-spacer>
-
-                <span
-                  class="grey--text"
-                  :class="$store.state.scrolled ? 'mr-4' : 'mr-10'"
-                >
-                  {{
-                    $t('page-current-of-total', {
-                      current: page,
-                      total: numberOfPages,
-                    })
-                  }}
-                </span>
+                </v-col>
+                <v-col align-content-start align-start justify-start
+                  ><span
+                    class="grey--text"
+                    :class="$store.state.scrolled ? 'mr-4' : 'mr-10'"
+                  >
+                    {{
+                      $t('page-current-of-total', {
+                        current: page,
+                        total: numberOfPages,
+                      })
+                    }}
+                  </span>
+                </v-col>
               </v-row>
             </v-container>
           </template>

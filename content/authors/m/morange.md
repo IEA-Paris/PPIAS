@@ -31,6 +31,8 @@ titles_and_institutions:
     titles: []
 years:
   - '2021'
+  - null
+  - 2021
 
 ---
 Michel Morange est biologiste, historien et philosophe des sciences. Professeur de biologie à l’École normale supérieure, Paris et à Sorbonne université, Paris. Membre de la République des savoirs : lettres, sciences, philosophie (RNSR, USR 3608), École normale supérieure, Paris.

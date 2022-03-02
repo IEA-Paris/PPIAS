@@ -37,5 +37,7 @@ titles_and_institutions:
   - []
 years:
   - '2020'
+  - null
+  - 2020
 
 ---

@@ -10,7 +10,10 @@
         <div class="d-flex flex-column flex-grow-1">
           <div class="d-flex flex-grow-1 align-start">
             <v-img
-              class="ml-10 mr-2"
+              class="mr-2"
+              :class="{
+                'ml-6': $vuetify.breakpoint.smAndUp,
+              }"
               src="/icon_dark.png"
               contain
               max-height="120"

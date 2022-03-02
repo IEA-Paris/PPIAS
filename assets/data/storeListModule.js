@@ -53,6 +53,7 @@ export const baseMutations = {
     )
   },
   setSort(state, values) {
+    console.log('values: ', values)
     state.sortBy = [values[0]]
     state.sortDesc = [values[1] === 'desc']
   },
@@ -89,6 +90,7 @@ export const baseMutations = {
         )
       ],
     ]
+    console.log('defaultSort: ', defaultSort)
     Vue.set(state, 'filters', {
       years: [],
       category: [],

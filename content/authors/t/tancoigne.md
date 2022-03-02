@@ -29,6 +29,8 @@ titles_and_institutions:
     titles: []
 years:
   - '2021'
+  - null
+  - 2021
 
 ---
 Elise Tancoigne est chercheuse à l’Université de Lausanne, chercheuse associée à l'IFPO (Institut Français du Proche-Orient), Amman (Jordanie). Qualifiée en section 72. 'Épistémologie, histoire des sciences et des techniques' du CNU. Membre du Comité d'ACIDUL (Association du Corps Intermédiaire De l'Université de Lausanne).

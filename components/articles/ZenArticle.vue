@@ -115,7 +115,7 @@ export default {
   },
 }
 </script>
-<style>
+<style scoped>
 .zenreader,
 .article-title {
   max-width: 650px;

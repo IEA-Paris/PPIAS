@@ -36,6 +36,8 @@ titles_and_institutions:
       - Vice President
 years:
   - '2021'
+  - null
+  - 2021
 
 ---
 Flore Gubert is Vice President of the FMSH. An economist and director of research at the IRD since 2001, she is also a research associate at the Paris School of Economics and a Research Fellow at the IZA Institute of Labor Economics and the Institut convergence Migrations. Flore Gubert was successively Deputy Director of the Development and Globalization Laboratory and Director of the Department of Societies and Globalization at IRD, a position she held for five years until September 1 of this year. Flore Gubert is also scientific coordinator of the European Expert Network on International Cooperation and Development and member of the European Development Research Network (EUDN).

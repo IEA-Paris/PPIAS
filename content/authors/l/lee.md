@@ -34,6 +34,8 @@ titles_and_institutions:
       - Assistant Professor
 years:
   - '2021'
+  - null
+  - 2021
 
 ---
 Victoria Lee is an assistant professor in the History Department, College of Arts and Sciences, Ohio University . She is a historian of modern science and technology, with a focus on the role of Japan in the 20th and 21st centuries.

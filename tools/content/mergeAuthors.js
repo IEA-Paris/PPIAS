@@ -86,6 +86,7 @@ export default async (content) => {
       'article_title',
       'date',
       'tags',
+      'years',
       'category_1',
       'category_2',
     ])
@@ -100,7 +101,7 @@ export default async (content) => {
           ...author,
           articles: [article.slug],
           tags: article.tags,
-          years: [article.date.substring(0, 4)],
+          years: [article.years],
           category: [
             ...(article.category_1 ? [article.category_1] : []),
             ...(article.category_2 ? [article.category_2] : []),

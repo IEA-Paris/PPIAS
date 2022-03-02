@@ -189,5 +189,6 @@
   "collections": "Collections",
   "view-results": "View results",
   "select-a-view": "Select a view",
-  "sort-the-type-by": "Sort the {0}..."
+  "sort-the-type-by": "Sort the {0}...",
+  "this-article-is-available-online-at-env-name-articles-item-slug": "This article is available online at {0}/articles/{1}"
 }

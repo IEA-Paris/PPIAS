@@ -29,6 +29,8 @@ titles_and_institutions:
     titles: []
 years:
   - '2021'
+  - null
+  - 2021
 
 ---
 Geneviève Teil est chercheuse en sociologie à l'INRA. Elle s'intéresse aux questions de la circulation marchande des produits de qualité, du goût des consommateurs, et des prescriptions relatives à la consommation.

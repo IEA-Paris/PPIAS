@@ -96,6 +96,21 @@ export const formatAuthors = (authors = false, $t, full = false) => {
       .join(', ')
   }
 }
+export const formatTitleAndInstitutions = (obj) => {
+  console.log('obj: ', obj)
+  if (!obj || !obj.length || obj) return ''
+  return obj
+    .map((institution) =>
+      institution.institution
+        ? institution.institution +
+          ' - ' +
+          (institution.titles && institution.titles.length)
+          ? institution.titles.join(', ')
+          : ''
+        : ''
+    )
+    .join(', ')
+}
 export const formatSearch = (str) => {
   if (!str) return []
   else

@@ -29,6 +29,8 @@ titles_and_institutions:
     titles: []
 years:
   - '2021'
+  - null
+  - 2021
 
 ---
 Anne Pitkowski est directrice de recherche et open innovation dans le groupe Bel

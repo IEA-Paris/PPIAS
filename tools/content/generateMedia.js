@@ -18,6 +18,7 @@ export default async (content) => {
         highlight: item.highlight,
         language: item.language,
         tags: item.tags,
+        years: item.years,
       }
     })
     .flat()

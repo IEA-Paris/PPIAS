@@ -73,7 +73,13 @@
         <span class="overline"
           >&copy; {{ new Date().getFullYear() }} {{ $t('paris-ias') }}</span
         >
-        - {{ item.article_title }} by <span v-html="formatedAuthors"></span> -
+        - {{ item.article_title }} by <span v-html="formatedAuthors"></span> -.
+        {{
+          $t(
+            'this-article-is-available-online-at-env-name-articles-item-slug',
+            [item.article_title, item.slug]
+          )
+        }}
         Page
         <span class="page-number"></span>
       </small>
@@ -208,8 +214,8 @@ header {
 .footer-divider {
   margin-bottom: 0.5cm;
 }
-.footer-text {
-}
+/* .footer-text {
+} */
 .page-number:after {
   text-align: right;
   counter-increment: page;
