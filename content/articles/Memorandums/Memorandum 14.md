@@ -3,43 +3,42 @@ category_1: content/categories/WPRN.md
 category_2: []
 issue: content/issues/10-12-2021.md
 keywords:
-  - 'Agriculture, Alimentation '
-  - Aging, Demography
-  - Big Data, Artificial Intelligence
-  - Consumption and Production Patterns
-  - 'Democracy, Civil Society, Governance '
-  - 'Environmental change, Ecology '
-  - 'Equality & Diversity Studies '
-  - 'Human Behaviours, Social Relations '
-  - 'Innovation, R&D '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Risks, Crisis Management '
-  - 'Public Health '
-  - 'Public Policy, Evaluation, Impact '
-  - 'International Relations and Co-operation '
+- 'Agriculture, Alimentation '
+- Aging, Demography
+- Big Data, Artificial Intelligence
+- Consumption and Production Patterns
+- 'Democracy, Civil Society, Governance '
+- 'Environmental change, Ecology '
+- 'Equality & Diversity Studies '
+- 'Human Behaviours, Social Relations '
+- 'Innovation, R&D '
+- 'Public Discourse, Rhetorics, Communication '
+- 'Risks, Crisis Management '
+- 'Public Health '
+- 'Public Policy, Evaluation, Impact '
+- 'International Relations and Co-operation '
 date: 2021-12-31T23:00:31.000+00:00
 language: English
 published: true
 article_title: Science in public debate in times of crisis
 authors:
-  - firstname: 'Aurélie '
-    lastname: Louchart
-    titles_and_institutions: []
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-abstract:
-  "Determining when a scientific discipline is ready to inform policy is a
+- firstname: 'Aurélie '
+  lastname: Louchart
+  titles_and_institutions: []
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+abstract: "Determining when a scientific discipline is ready to inform policy is a
   difficult task and, depending on the issues at stake, the criteria for determining
   whether the knowledge is robust enough to do so can vary. Against this backdrop,
   a study at the London School of Economics found that more and more governments are
@@ -49,14 +48,13 @@ abstract:
   the COVID-19 pandemic, the scientific community was called upon to contribute to
   the rapid understanding and treatment of the crisis, at the risk of working in haste.
   \nMemorandum 14 : overview of the studies and projects registered on WPRN database"
-picture: '/6113ed81ffbf7c813cd17b32_christian-lue-a9qwxqw55kw-unsplash.jpg'
+picture: "/6113ed81ffbf7c813cd17b32_christian-lue-a9qwxqw55kw-unsplash.jpg"
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: '/documents-exportes_memo14.bib'
----
+bibliography: "/documents-exportes_memo14.bib"
 
-## Science in public debate in times of crisis
+---
 
 Determining when a scientific discipline is ready to inform policy is a difficult task and, depending on the issues at stake, the criteria for determining whether the knowledge is robust enough to do so can vary. Against this backdrop, a study at the London School of Economics found that more and more governments are turning to science to inform public policy. In times of crisis, this need for insight - however imperfect - is exceptionally pressing. Yet evidence-based policymaking is even more difficult when there is little data and little time to gather it. During the COVID-19 pandemic, the scientific community was called upon to contribute to the rapid understanding and treatment of the crisis, at the risk of working in haste. Faced with this perilous exercise, what pitfalls did it fall into? Under what conditions can research usefully inform public debate and help political decision-making? Many avenues for reflection are outlined by studies referenced on the World Pandemic Research Network (WPRN).
 
