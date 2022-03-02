@@ -44,7 +44,6 @@ category1:
   text: Article
 
 ---
-## Gendered Responses and Marked Inequalities: The Pandemic as a Revealer of Gender Injustice
 
 Gender inequalities are structuring in our society: unequal pay, unequal distribution of household chores and family life, and violence against women remain major social facts. The field of gender studies has become increasingly important in the academic sphere. Numerous analyses have attempted to evaluate the consequences of the Covid 19 pandemic through a gender lens, showing for example a more important role for women in family work during confinement, a greater exposure of «typically» female occupations to the pandemic or an increase in domestic violence.
 
