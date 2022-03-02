@@ -5,7 +5,9 @@ fields:
 - name: name
   type: text
   config:
-    required: false
+    required: true
+    min: 2
+    max: 8
   label: Title
   description: Will be used in every language
 - name: color
