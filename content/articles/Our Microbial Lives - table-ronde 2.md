@@ -2,7 +2,11 @@
 category_1: content/categories/Fellows.md
 category_2: []
 issue: content/issues/10-12-2021.md
-keywords: []
+keywords:
+- History of Science
+- Medicine
+- Microbe
+- Technology and Medicine
 date: 2021-05-27T11:00:08.000+00:00
 language: French
 published: true
