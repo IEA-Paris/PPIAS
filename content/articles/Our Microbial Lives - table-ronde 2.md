@@ -1,6 +1,6 @@
 ---
 category_1: content/categories/Fellows.md
-category_2: []
+category_2: content/categories/OML.md
 issue: content/issues/10-12-2021.md
 keywords:
 - History of Science
