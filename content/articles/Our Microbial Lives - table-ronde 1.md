@@ -9,6 +9,24 @@ published: true
 article_title: Connaissance des microbes et de la fermentation dans le développement
   durable
 authors:
+- firstname: Nicolas
+  lastname: Fortané
+  titles_and_institutions:
+  - titles: []
+    institution: INRAE, France
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
 - titles_and_institutions:
   - titles: []
     institution: Fromageries BEL, France
