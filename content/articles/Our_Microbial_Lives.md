@@ -39,10 +39,13 @@ category1:
 pinned: false
 highlight: false
 bibliography: "/anystyle.bib"
-abstract: Introduction du forum "Our Microbial Lives"
+abstract: 'Introduction du forum "Our Microbial Lives: A Forum Against Eradication",  May
+  27, 2021, Paris Institute for Advanced Study'
 category_1: content/categories/Fellows.md
 category_2: ''
-keywords: []
+keywords:
+- Microbes
+- Health
 language: English
 
 ---
