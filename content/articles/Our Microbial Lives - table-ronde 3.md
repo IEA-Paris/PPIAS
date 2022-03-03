@@ -82,9 +82,8 @@ authors:
   picture: ''
   picture_copyright: ''
   reference: ''
-abstract: 'Table-ronde 3 du forum "Our Microbial Lives"
-
-  '
+abstract: 'Table-ronde 3 du forum "Our Microbial Lives: A Forum Against Eradication",  May
+  27, 2021, Paris Institute for Advanced Study'
 picture: ''
 picture_copyright: ''
 yt: mAEoGVjHjUQ
