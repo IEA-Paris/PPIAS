@@ -82,9 +82,8 @@ authors:
   picture: ''
   picture_copyright: ''
   reference: ''
-abstract: |-
-  Table-ronde du forum Our Microbial Lives.
-  "Connaissance des microbes et de la fermentation dans le développement durable"
+abstract: 'Table-ronde 1 du forum "Our Microbial Lives: A Forum Against Eradication",  May
+  27, 2021, Paris Institute for Advanced Study'
 picture: ''
 picture_copyright: ''
 yt: wcDK7AbXkpo

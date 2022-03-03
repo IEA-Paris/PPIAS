@@ -81,9 +81,8 @@ authors:
   picture: ''
   picture_copyright: ''
   reference: ''
-abstract: |-
-  Table-ronde 2 du forum Our Microbial Lives
-  "Nouvelles perspectives sur la diversité microbienne dans l'alimentation et la santé"
+abstract: 'Table-ronde 2 du forum "Our Microbial Lives: A Forum Against Eradication",  May
+  27, 2021, Paris Institute for Advanced Study'
 picture: ''
 picture_copyright: ''
 yt: 87MEaKh26g0
