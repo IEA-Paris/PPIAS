@@ -8,6 +8,24 @@ language: French
 published: true
 article_title: Écologies microbiennes dans les corps humains et animaux
 authors:
+- firstname: 'Pierre-Olivier '
+  lastname: Méthot
+  titles_and_institutions:
+  - titles: []
+    institution: Université de Laval, Canada
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
 - firstname: Nicolas
   lastname: Fortané
   titles_and_institutions:
