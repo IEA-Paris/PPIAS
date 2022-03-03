@@ -28,7 +28,8 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: Clôture du forum "Our Microbial Lives"
+abstract: 'Clôture du forum "Our Microbial Lives: A Forum Against Eradication",  May
+  27, 2021, Paris Institute for Advanced Study"'
 picture: ''
 picture_copyright: ''
 yt: O49KmBbOyZM
