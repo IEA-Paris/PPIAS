@@ -24,8 +24,11 @@
         <div class="d-flex">
           <v-sheet :color="item.category_1.color" class="sideline"></v-sheet>
           {{
-            new Date(item.date).toLocaleDateString('EN', {
-              timezone: 'UTC',
+            new Date(item.date).toLocaleDateString('en-GB', {
+              // you can use undefined as first argument
+              year: 'numeric',
+              month: '2-digit',
+              day: '2-digit',
             })
           }}
         </div>

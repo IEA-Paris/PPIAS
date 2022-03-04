@@ -9,9 +9,9 @@ export default async () => {
   // year filter
   filters.years = {
     type: 'Select',
-    items: [
-      ...new Set(articles.map((article) => article.date.substring(0, 4))),
-    ].filter((item) => !(item === null || item === '')),
+    items: [...new Set(articles.map((article) => article.years))].filter(
+      (item) => !(item === null || item === '')
+    ),
   }
   /* Too much items to expect - also covered by FTS
     // author filters
@@ -36,7 +36,13 @@ export default async () => {
       (item) => !(item === null || item === '')
     ),
   }
-
+  // issue filters
+  filters.issue = {
+    type: 'Select',
+    items: [...new Set(articles.map((article) => article.issue))].filter(
+      (item) => !(item === null || item === '')
+    ),
+  }
   // Keyword filters
   filters.tags = {
     type: 'Autocomplete',

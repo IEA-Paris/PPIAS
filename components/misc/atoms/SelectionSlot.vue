@@ -31,7 +31,7 @@ export default {
       default: 3,
     },
     item: {
-      type: [Object, String],
+      type: [Object, String, Number],
       default: () => ({}),
     },
   },

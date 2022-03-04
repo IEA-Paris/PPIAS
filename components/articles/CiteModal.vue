@@ -104,8 +104,11 @@ export default {
             ', ' +
             this.item.article_title +
             ', PIAS, ' +
-            new Date(this.item.date).toLocaleDateString('EN', {
-              timezone: 'UTC',
+            new Date(this.item.date).toLocaleDateString('en-GB', {
+              // you can use undefined as first argument
+              year: 'numeric',
+              month: '2-digit',
+              day: '2-digit',
             }) +
             ', DOI:' +
             this.item.doi +
@@ -121,8 +124,11 @@ export default {
             ', ' +
             this.item.article_title +
             ', PIAS, ' +
-            new Date(this.item.date).toLocaleDateString('EN', {
-              timezone: 'UTC',
+            new Date(this.item.date).toLocaleDateString('en-GB', {
+              // you can use undefined as first argument
+              year: 'numeric',
+              month: '2-digit',
+              day: '2-digit',
             }) +
             ', DOI:' +
             this.item.doi +
@@ -138,8 +144,11 @@ export default {
             ', ' +
             this.item.article_title +
             ', PIAS, ' +
-            new Date(this.item.date).toLocaleDateString('EN', {
-              timezone: 'UTC',
+            new Date(this.item.date).toLocaleDateString('en-GB', {
+              // you can use undefined as first argument
+              year: 'numeric',
+              month: '2-digit',
+              day: '2-digit',
             }) +
             ', DOI:' +
             this.item.doi +

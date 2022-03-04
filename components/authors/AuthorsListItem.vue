@@ -1,20 +1,19 @@
 <template>
   <v-card nuxt :to="localePath('/authors/' + item.slug)">
-    <v-row class="mt-12" :class="{ 'mx:6': $vuetify.breakpoint.mdAndUp }">
+    <v-row class="mt-6" no-gutters>
       <v-col
         v-if="$vuetify.breakpoint.mdAndUp"
         cols="3"
+        lg="2"
         col-md-offset="1"
-        justify="center"
-        align="center"
-        class="d-flex flex-column align-center"
+        class="d-flex flex-column py-6 align-center"
       >
-        <v-avatar size="160" class="mb-3">
+        <v-avatar :size="$vuetify.breakpoint.xl ? '180' : '120'" class="mb-3">
           <OptimizedImage
             v-if="item.image"
             alt="Avatar"
             :src="item.image"
-            height="160"
+            :height="$vuetify.breakpoint.xl ? '180' : '120'"
             :ratio="1"
           />
           <v-icon v-else class="white--text headline author-picture">{{
@@ -40,10 +39,10 @@
           </v-tooltip>
         </div>
       </v-col>
-      <v-col cols="12" md="8" class="mx-3">
+      <v-col cols="12" md="8" class="mx-3 py-6">
         <div :id="slugifyItem(item.lastname)" class="anchor"></div>
         <div
-          class="text-h4"
+          :class="$vuetify.breakpoint.xl ? 'text-h4' : 'text-h5'"
           v-html="highlight(item.firstname + ' ' + item.lastname, search)"
         ></div>
         <div

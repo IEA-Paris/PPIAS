@@ -9,7 +9,6 @@
             icon
             v-bind="attrs"
             :class="{
-              'mr-3': $vuetify.breakpoint.smAndUp,
               'mt-3': $vuetify.breakpoint.xs,
             }"
             v-on="{ ...tooltip, ...menu }"

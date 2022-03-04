@@ -2,7 +2,8 @@
   <v-list-item
     nuxt
     :to="localePath('/articles/' + item.slug)"
-    class="my-6 d-flex align-start pl-0 pt-3 ml-1"
+    class="mb-6 d-flex align-start pl-0"
+    :class="index > 0 ? '' : ''"
     flat
   >
     <v-list-item-avatar
@@ -62,39 +63,33 @@
         </template>
       </TextFingerprint>
     </v-list-item-avatar>
-    <div class="d-flex flex-column">
+    <div>
       <div
-        class="d-inline-flex article-mobile-title"
+        class="article-mobile-title"
         :class="
           $vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)
             ? ' small'
             : ''
         "
       >
-        <v-tooltip bottom>
-          <template #activator="{ on, attrs }">
-            <div v-bind="attrs" v-on="on">
-              <ArticleCategories
-                v-if="
-                  $vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)
-                "
-                :item="item"
-                class="pr-2 d-inline-flex"
-                small
-              />
-              {{ item.article_title }}
-            </div>
-          </template>
-          <span v-html="item.article_title"></span>
-        </v-tooltip>
+        <ArticleCategories
+          v-if="$vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)"
+          :item="item"
+          class="pr-2"
+          small
+        />
+        {{ item.article_title }}
       </div>
       <v-list-item-subtitle class="mt-3 d-inline-flex">
         <template
           v-if="$vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)"
         >
           {{
-            new Date(item.date).toLocaleDateString('EN', {
-              timezone: 'UTC',
+            new Date(item.date).toLocaleDateString('en-GB', {
+              // you can use undefined as first argument
+              year: 'numeric',
+              month: '2-digit',
+              day: '2-digit',
             })
           }}
           -
@@ -115,6 +110,10 @@ export default {
       required: false,
       type: Boolean,
       default: false,
+    },
+    index: {
+      required: true,
+      type: Number,
     },
   },
   data() {

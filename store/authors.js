@@ -1,8 +1,3 @@
-import {
-  baseMutations,
-  baseActions,
-  baseGetters,
-} from '~/assets/data/storeListModule'
 import lists from '~/assets/data/lists'
 const defaultView =
   lists.authors.views[
@@ -40,9 +35,3 @@ export const state = () => ({
   itemsPerPageArray: lists.authors.perPage.options,
   filtersCount: 0,
 })
-
-export const mutations = {
-  ...baseMutations,
-}
-export const actions = { ...baseActions }
-export const getters = { ...baseGetters }

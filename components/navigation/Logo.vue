@@ -2,23 +2,21 @@
   <div
     class="d-flex"
     @click="
-      $store.dispatch('articles/resetState') &&
-        $store.dispatch('media/resetState') &&
-        $store.dispatch('authors/resetState') &&
+      $store.dispatch('resetState', 'articles') &&
+        $store.dispatch('resetState', 'media') &&
+        $store.dispatch('resetState', 'authors') &&
         $router.push(localePath('/'))
     "
     @keyup.enter="
-      $store.dispatch('articles/resetState') &&
-        $store.dispatch('media/resetState') &&
-        $store.dispatch('authors/resetState') &&
+      $store.dispatch('resetState', 'articles') &&
+        $store.dispatch('resetState', 'media') &&
+        $store.dispatch('resetState', 'authors') &&
         $router.push(localePath('/'))
     "
   >
     <v-img
       class="mr-2"
-      :class="{
-        'ml-6': $vuetify.breakpoint.smAndUp,
-      }"
+      :class="$vuetify.breakpoint.smAndUp ? 'ml-6' : 'ml-3'"
       src="/icon.png"
       contain
       max-height="120"

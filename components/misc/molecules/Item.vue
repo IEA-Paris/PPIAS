@@ -130,7 +130,7 @@ export default {
   left: 10px;
   color: black;
   background-image: linear-gradient(to left, white 100%, black 100%);
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   line-height: 2.2rem;
   text-shadow: 1px 1px 0 alpha(rgba(0, 0, 0, 0.6));
 }

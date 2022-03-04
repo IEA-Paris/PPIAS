@@ -1,9 +1,10 @@
 <template>
-  <div>
+  <div class="transition-swing">
     <v-card
       nuxt
       :to="localePath('/articles/' + item.slug)"
-      class="pa-6 d-flex"
+      class="d-flex transition-swing"
+      :class="[$store.state.scrolled ? 'py-3' : 'py-1']"
       flat
     >
       <div class="list-image d-flex">
@@ -18,8 +19,11 @@
                 class="sideline"
               ></v-sheet>
               {{
-                new Date(item.date).toLocaleDateString('EN', {
-                  timezone: 'UTC',
+                new Date(item.date).toLocaleDateString('en-GB', {
+                  // you can use undefined as first argument
+                  year: 'numeric',
+                  month: '2-digit',
+                  day: '2-digit',
                 })
               }}
             </div>
@@ -40,8 +44,11 @@
                 class="sideline"
               ></v-sheet>
               {{
-                new Date(item.date).toLocaleDateString('EN', {
-                  timezone: 'UTC',
+                new Date(item.date).toLocaleDateString('en-GB', {
+                  // you can use undefined as first argument
+                  year: 'numeric',
+                  month: '2-digit',
+                  day: '2-digit',
                 })
               }}
             </div>
@@ -58,17 +65,21 @@
                 class="sideline"
               ></v-sheet>
               {{
-                new Date(item.date).toLocaleDateString('EN', {
-                  timezone: 'UTC',
+                new Date(item.date).toLocaleDateString('en-GB', {
+                  // you can use undefined as first argument
+                  year: 'numeric',
+                  month: '2-digit',
+                  day: '2-digit',
                 })
               }}
             </div>
           </template>
         </TextFingerprint>
       </div>
-      <div class="ml-6 my-3 d-flex mt-n2">
+      <div class="ml-6 my-3 d-flex" :class="index > 0 ? 'mt-n1' : ' mt-0'">
         <div class="article-title">
-          <v-tooltip bottom>
+          <v-tooltip bottom :disabled="item.article_title.length < 85">
+            <!-- eslint-disable-next-line vue/no-unused-vars -->
             <template #activator="{ on, attrs }">
               <div class="text-h6 article-title" v-bind="attrs" v-on="on">
                 {{ item.article_title }}
@@ -81,7 +92,6 @@
             class="text-p mt-3 article-authors"
           />
         </div>
-
         <v-divider vertical class="mr-6 ml-3"></v-divider>
         <div>
           <div class="article-abstract">{{ item.abstract }}</div>
@@ -98,6 +108,10 @@ export default {
     item: {
       required: true,
       type: Object,
+    },
+    index: {
+      required: true,
+      type: Number,
     },
   },
   data() {

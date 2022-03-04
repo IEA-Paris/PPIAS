@@ -3,21 +3,14 @@
     v-scroll="onScroll"
     class="transition-swing"
     :fluid="!$store.state.scrolled"
-    :class="{ 'py-0': !$store.state.scrolled, 'pl-0': filter }"
+    :class="({ 'pl-0': filter }, $store.state.scrolled ? 'pt-6' : 'px-0 pt-0')"
   >
     <v-row
       v-for="section in Math.min(sections, Math.ceil(data.items.length / 3))"
       :key="section"
       class="transition-swing"
       :no-gutters="!$store.state.scrolled"
-      :class="[
-        $store.state.scrolled
-          ? ''
-          : $vuetify.breakpoint.mobile
-          ? 'mx-2'
-          : 'mx-6',
-        ,
-      ]"
+      :class="$store.state.scrolled ? '' : 'mx-3'"
     >
       <v-col
         cols="12"

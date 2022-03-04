@@ -1,9 +1,3 @@
-import {
-  baseState,
-  baseMutations,
-  baseActions,
-  baseGetters,
-} from '~/assets/data/storeListModule'
 import lists from '~/assets/data/lists'
 const defaultView =
   lists.media.views[
@@ -41,9 +35,3 @@ export const state = () => ({
   itemsPerPageArray: lists.media.perPage.options,
   filtersCount: 0,
 })
-
-export const mutations = {
-  ...baseMutations,
-}
-export const actions = { ...baseActions }
-export const getters = { ...baseGetters }

@@ -1,26 +1,21 @@
 <template>
   <v-container
     v-scroll="onScroll"
-    class="transition-swing"
+    class="transition-swing pt-0"
+    :class="$store.state.scrolled ? 'mt-n4' : 'mt-n2'"
     :fluid="!$store.state.scrolled"
-    :class="{ 'py-0': !$store.state.scrolled, 'pl-0': filter }"
   >
     <v-row
       class="transition-swing"
       justify="center"
       :no-gutters="!$store.state.scrolled"
-      :class="[
-        $store.state.scrolled
-          ? ''
-          : $vuetify.breakpoint.mobile
-          ? 'mx-1'
-          : 'mx-6',
-        ,
-      ]"
     >
       <v-col
         cols="12"
-        :class="{ 'pt-1 pr-1': !$store.state.scrolled }"
+        :class="{
+          'pt-0 pr-1': !$store.state.scrolled,
+          'px-0': $vuetify.breakpoint.xs,
+        }"
         class="transition-swing"
       >
         <v-list two-lines>
@@ -32,6 +27,7 @@
               v-for="(item, index) in data.items"
               v-bind="$attrs"
               :key="index"
+              :index="index"
               :item="item"
               highlighted
               :scroll="$store.state.scrolled"
@@ -44,6 +40,7 @@
             v-else
             v-bind="$attrs"
             :key="index"
+            :index="index"
             :item="item"
             highlighted
             :scroll="$store.state.scrolled"

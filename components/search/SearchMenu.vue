@@ -239,7 +239,7 @@ export default {
     clear() {
       this.shouldFocus = false
       this.open = false
-      this.$store.dispatch(this.type + '/updateSearch', undefined)
+      this.$store.dispatch('updateSearch', undefined, this.type)
     },
     onIntersect(entries, observer) {
       // More information about these options

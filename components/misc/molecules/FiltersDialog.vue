@@ -62,14 +62,19 @@
             lg="6"
             class="d-flex justify-center flex-column"
           >
-            <PageTitle :text="$t('filters')"></PageTitle>
             <Filters
               :type="type"
               class="mt-7 mr-6 ml-0"
               @close="open = false"
             />
 
-            <v-btn x-large tile outlined class="" @click="open = false">
+            <v-btn
+              x-large
+              tile
+              outlined
+              class="mr-1 mt-1"
+              @click="open = false"
+            >
               {{ $t('view-results') }}
             </v-btn>
           </v-col>

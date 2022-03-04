@@ -1,45 +1,42 @@
 <template>
-  <aside
-    class="d-sticky transition-swing"
-    :class="{ 'pr-6': $store.state.scrolled && !$vuetify.breakpoint.xs }"
-  >
-    <div class="mt-3">
-      <v-btn
-        v-if="showReset"
-        outlined
-        x-large
-        block
-        height="56"
-        @click="$store.dispatch(type + '/resetState') && $emit('close')"
-        ><v-icon left>mdi-autorenew</v-icon
-        >{{ $t('reset-your-search-filters') }}</v-btn
-      >
-      <v-sheet
-        v-else
-        height="56"
-        block
-        class="text-h6 overline text-center mb-3 d-flex align-center justify-center darkgrey--text"
-      >
-        {{ $t('filters') }}
-      </v-sheet>
+  <aside class="transition-swing">
+    <v-btn
+      v-if="showReset"
+      outlined
+      x-large
+      block
+      :height="$vuetify.breakpoint.sm ? '40' : '56'"
+      @click="$store.dispatch('resetState', type) && $emit('close')"
+      ><v-icon left>mdi-autorenew</v-icon
+      >{{ $t('reset-your-search-filters') }}</v-btn
+    >
+    <v-sheet
+      v-else
+      :height="$vuetify.breakpoint.sm ? '40' : '56'"
+      block
+      class="search-label"
+    >
+      <v-icon small color="black" left>mdi-filter</v-icon>
+      {{ $t('filters') }}
+    </v-sheet>
 
-      <component
-        :is="filters[filter].type"
-        v-for="(filter, name) in Object.keys(filters)"
-        :key="name + type + filter"
-        hide-details
-        :dense="$vuetify.breakpoint.sm"
-        :items="filters[filter].items.map((item) => $t(item))"
-        clearable
-        :label="$t(filter)"
-        min-height="56"
-        outlined
-        :type="type"
-        :filter="filter"
-        style="min-width: 150px"
-        :class="!showReset && name === 0 ? 'mb-3' : 'my-3'"
-      />
-    </div>
+    <component
+      :is="filters[filter].type"
+      v-for="(filter, name) in Object.keys(filters)"
+      :key="name + type + filter"
+      hide-details
+      :dense="$vuetify.breakpoint.sm"
+      :items="filters[filter].items.map((item) => $t(item))"
+      clearable
+      :label="$t(filter)"
+      min-height="56"
+      outlined
+      :type="type"
+      :filter="filter"
+      style="min-width: 150px"
+      class="transition-swing"
+      :class="$store.state.scrolled ? 'mt-7' : 'mt-1 '"
+    />
   </aside>
 </template>
 <script>
@@ -67,4 +64,27 @@ export default {
   methods: {},
 }
 </script>
-<style lang="scss"></style>
+<style lang="scss">
+aside {
+  position: sticky;
+  top: 10px;
+  width: 100%;
+  left: 250;
+  align-self: start;
+  max-height: 100vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  scrollbar-width: thin;
+}
+.search-label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  color: #666666;
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.6);
+  font-family: 'Open sans', sans-serif;
+  font-size: 16px;
+}
+</style>
