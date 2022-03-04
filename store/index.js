@@ -57,19 +57,19 @@ export const mutations = {
     Vue.set(state[type], 'page', page)
     console.log('state[type].apge', state[type].page)
   },
-  setFilters(state, filters, type) {
+  setFilters(state, { filters, type }) {
     Vue.set(
       state[type].filters,
       Object.keys(filters)[0],
       filters[Object.keys(filters)[0]]
     )
   },
-  setSort(state, values, type) {
+  setSort(state, { values, type }) {
     console.log('values: ', values)
     state[type].sortBy = [values[0]]
     state[type].sortDesc = [values[1] === 'desc']
   },
-  setView(state, value, type) {
+  setView(state, { value, type }) {
     state[type].view = value
   },
   setFiltersCount(state, type) {
@@ -127,16 +127,16 @@ export const actions = {
     await dispatch('update', type)
   },
   async updateSort({ dispatch, commit, state }, { value, type }) {
-    commit('setSort', value, type)
+    commit('setSort', { value, type })
     commit('setPage', { page: 1, type })
     await dispatch('update', type)
   },
   async updateView({ dispatch, commit, state }, { value, type }) {
-    commit('setView', value, type)
+    commit('setView', { value, type })
     await dispatch('update', type)
   },
   async updateFilters({ dispatch, commit, state }, { value, type }) {
-    commit('setFilters', value, type)
+    commit('setFilters', { value, type })
     commit('setPage', { page: 1, type })
     await dispatch('update', type)
   },

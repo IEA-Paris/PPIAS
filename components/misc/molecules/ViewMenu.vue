@@ -81,7 +81,7 @@ export default {
   mounted() {},
   methods: {
     async updateView(value) {
-      await this.$store.dispatch(this.type + '/updateView', value)
+      await this.$store.dispatch('updateView', { value, type: this.type })
     },
   },
 }
