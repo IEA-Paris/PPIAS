@@ -17,7 +17,7 @@ pinned: false
 bibliography: "/documents-exportes_memo5.bib"
 authors:
 - firstname: 'Victor '
-  lastname: 'Gallonnier '
+  lastname: 'Galonnier '
 abstract: |-
   The Covid 19 pandemic and the measures taken to limit its spread (containment, social distancing) have led to a recession and a major economic crisis. The economic data show significant job losses. The Insee Emploi-Chômage note published on September 8th notes 715,000 salaried jobs lost in France in the first half of this year. Against this backdrop, employees are deeply concerned about their professional future and the risk of job loss.
   Memorandum 5 : overview of the studies and projects registered on WPRN database
@@ -36,7 +36,6 @@ highlight: false
 language: English
 
 ---
-## Covid 19 and employment upheavals: worried employees
 
 The Covid 19 pandemic and the measures taken to limit its spread (containment, social distancing) have led to a recession and a major economic crisis. The economic data show significant job losses. The [Insee Emploi-Chômage](https://infodujour.fr/wp-content/uploads/2020/09/note-de-conjoncture-8-setembre-2020.pdf) note published on September 8th notes 715,000 salaried jobs lost in France in the first half of this year. Against this backdrop, employees are deeply concerned about their professional future and the risk of job loss.
 

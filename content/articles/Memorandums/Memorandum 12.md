@@ -51,7 +51,6 @@ highlight: false
 bibliography: "/documents-exportes_memo12.bib"
 
 ---
-## What measures are actually effective in fighting COVID-19 ?
 
 “Those who argue that lockdown measures were not necessary and that, without them, the final number of deaths would not be much different from those of a strong seasonal flu are wrong”, explains Marc Fleurbaey, who has developed, with a team from Princeton University, a tool simulating the evolution of the pandemic according to the implemented measures (downloadable on [WPRN](https://wprn.org/item/414252)). This simulator indicates that in the United Kingdom, total mortality would differ by a factor of nearly five with or without lockdown. In France, this factor is between ten and twenty. Virus eradication or control strategy, timing, toughness and type of measures: what works and why? On the [World Pandemic Research Network](https://wprn.org/), several studies provide preliminary answers.
 

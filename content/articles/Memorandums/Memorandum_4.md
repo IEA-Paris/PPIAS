@@ -41,7 +41,6 @@ keywords:
 language: ''
 
 ---
-## Teleworking: a better quality of life for the employee but risks of isolation and of losing contact with the employer
 
 The social distancing and health protection measures taken in response to the Covid 19 pandemic have led companies to make massive use of teleworking. According to a [study](https://dares.travail-emploi.gouv.fr/sites/default/files/pdf/dares_acemo_covid19_synthese_17-04-2020.pdf "DARES") by the French Ministry of Labor, one employee in four teleworked during the confinement in France, two out of three of whom had not experimented with this practice, according to a [study](https://luttevirale.fr/wp-content/uploads/2020/05/RAPPORT-ENQUETE-UGICT-CGT-ss-embargo-V2.pdf "CGT") conducted by the CGT trade union. Many workers, mostly managers, thus began to work remotely for part of the week or the entire week, a practice that is causing debate as to the relevance of its generalization in the future.
 

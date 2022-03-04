@@ -11,7 +11,8 @@ tags:
 - 'Violence, Criminality, Security '
 - Risks, Crisis Management
 date: 2020-11-01T22:00:00.000+00:00
-article_title: Covid 19 and the media
+article_title: 'Covid 19 and the media : : the reinforced impact of traditional media
+  does not prevent the spread of false information'
 picture: "/reforme_postage_portage_presse.png"
 picture_copyright: "©Unclesam - stock.adobe.com"
 yt: ''
@@ -56,7 +57,6 @@ keywords:
 language: English
 
 ---
-## Covid 19 and the media: the reinforced impact of traditional media does not prevent the spread of false information
 
 During the Covid 19 pandemic, the media was the main relay of information and had a strong impact on the perception of the crisis by citizens, on the acceptance of sanitary measures or on the propagation of conspiracy theories or false information. The Covid19 major crisis is taking place in a context where the media world has undergone profound upheavals in the last decade, with the so-called traditional media (television, radio, press) being increasingly challenged by online media and social networks, which has led to a transformation of the citizens’ relationship to information.
 

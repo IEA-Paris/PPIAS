@@ -1,13 +1,36 @@
 ---
 category_1: content/categories/Fellows.md
-category_2: []
+category_2: content/categories/OML.md
 issue: content/issues/10-12-2021.md
-keywords: []
+keywords:
+- History of Science
+- Medicine
+- Microbe
+- Technology and Medicine
 date: 2021-05-27T11:00:08.000+00:00
 language: French
 published: true
-article_title: 'Our Microbial Lives : A Forum Against Eradication'
+article_title: Nouvelles perspectives sur la diversité microbienne dans l'alimentation
+  et la santé
 authors:
+- firstname: Elise
+  lastname: Tancoigne
+  titles_and_institutions:
+  - titles: []
+    institution: Université de Lausanne, Suisse
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
 - firstname: 'Sabine '
   lastname: Boesen Mariani
   titles_and_institutions:
@@ -62,9 +85,8 @@ authors:
   picture: ''
   picture_copyright: ''
   reference: ''
-abstract: |-
-  Table-ronde du forum Our Microbial Lives
-  "Nouvelles perspectives sur la diversité microbienne dans l'alimentation et la santé"
+abstract: 'Table-ronde 2 du forum "Our Microbial Lives: A Forum Against Eradication",  May
+  27, 2021, Paris Institute for Advanced Study'
 picture: ''
 picture_copyright: ''
 yt: 87MEaKh26g0
@@ -72,7 +94,7 @@ highlight: false
 bibliography: "/documents-exportes_tb2_lee.bib"
 
 ---
-## Nouvelles perspectives sur la diversité microbienne dans l'alimentation et la santé
+## Table ronde 2 du forum "Our Microbial Lives"
 
 En 1867, Louis Pasteur montre que le chauffage du lait tue les microbes, dont ceux permettant de faire du fromage. Ces difficultés vont susciter une controverse sur l’intérêt de cette technique. Le Professeur Mazé s’attache à améliorer la qualité des fromages et propose d’ensemencer les laits chauffés avec des ferments sélectionnés et cultivés dans un milieu contrôlé. Il isolera en 1924 des moisissures de la croûte de fromages à croûte lavée.
 
@@ -82,6 +104,6 @@ Qu’est-ce qu’un bon fromage ? Les critères sont dictés par le consommateur
 
 Les préoccupations des parents relatives à la santé immunitaire du jeune enfant sont fortes et sont exacerbées par le contexte pandémique actuel. Une étude a été menée auprès d’une trentaine de familles dans les différents pays. Quels que soient les pays, les croyances des parents sont fortement axées autour de la défense du corps contre les pathogènes, de la capacité de résilience, de la capacité à « traverser les saisons ».
 
-Le renforcement du système immunitaire de leur enfant est donc une préoccupation importante pour les parents. Il est fortement lié à la notion de défense et de capacité à lutter contre des maladies, mêmes si les marqueurs d’une bonne immunité sont diversifiés entre les pays. L’alimentation reste un élément important du renforcement immunitaire. Les « bonnes bactéries » sont évoquées, mais par une minorité de parents.
+Le renforcement du système immunitaire de leur enfant est donc une préoccupation importante pour les parents. Il est fortement lié à la notion de défense et de capacité à lutter contre des maladies, mêmes si les marqueurs d’une bonne immunité sont diversifiés entre les pays. L’alimentation reste un élément important du renforcement immunitaire. Les « bonnes bactéries » sont évoquées, mais par une minorité de parents. Ces questions sont débattues lors de la table-ronde réunissant Geneviève Teil (INRAE), Jeanne Ropars (Université Paris-Saclay) et Sabine Boesen Mariani (Danone Nutricia Research), modérée par Elise Tancoigne (Université de Lausanne).
 
 <Youtube yt="87MEaKh26g0" caption ="Nouvelles perspectives sur la diversité microbienne dans l'alimentation et la santé"></Youtube>

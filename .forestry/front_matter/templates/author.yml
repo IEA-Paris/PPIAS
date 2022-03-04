@@ -114,4 +114,4 @@ fields:
     If not provided, orcid (if available) or firstname + lastname will be used to
     match articles authors against a unique person.
 pages:
-- content/authors/Aghion.md
+- content/authors/m/methot.md

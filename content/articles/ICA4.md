@@ -42,11 +42,18 @@ authors:
     - writer
     institution: IAS PARIS
   reference: ''
-abstract: ''
+abstract: 'This 4th edition of the ICA hosted by the Paris Institute for Advanced
+  Studies (Paris IAS) from October 18 to 27, 2021, explores fundamental interdisciplinary
+  issues at the intersection of cognitive science, neuroscience and artificial intelligence.
+  Decisive advances have been made over the last decades in the analysis of brain
+  activity and its behavioral counterparts, as well as in information processing sciences.
+  The complementarities between neuroscience/cognitive science and artificial intelligence
+  allow us to explore synergies and raise ethical questions between these disciplines,
+  which present considerable challenges and opportunities for the progress of society. '
 category_1: content/categories/ICA.md
 category_2: ''
 highlight: false
-language: ''
+language: English
 tags:
 - Artificial Intelligence
 - Data science
@@ -63,9 +70,9 @@ category1:
 ---
 ## Introduction
 
-The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe \[^1\].
+The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe.
 
-The ICA was established in 2016 through the University-Based Institutes for Advanced Study (UBIAS) coalition, (@cordelois_how_2020) which has 44 member institutes around the world.
+The ICA was established in 2016 through the University-Based Institutes for Advanced Study (UBIAS) coalition which has 44 member institutes around the world.
 
 During each edition of Intercontinental Academia, participants get together in three sessions over the course of one year.
 
@@ -229,5 +236,3 @@ While the latter (in particular machine learning algorithms) learns from statist
 Upon completion of the talks by ICA4 Mentors, Paris-Saclay hosted a half-day event with multiple workshops in which ICA4 mentors and Paris-Saclay researchers discussed major advances and issues surrounding AI.[ _Stanislas Dehaene_](https://www.college-de-france.fr/site/en-stanislas-dehaene/index.htm "Stanislas Dehaene") presented a series of fMRI, MEG, and behavioural evidence that humans use symbolic and recursive strategies on prediction tasks with complex sequences, as compared with monkeys which seem to use a picture-based strategy. In a session focusing on AI and ethics,[ _Paola Tubaro_](https://databigandsmall.com "Paola Tubaro") revealed the hidden human workers who provide the hand-labelled training data for products such as Siri. This is due to companies and corporations needing a cheap workforce in the same language, ultimately reproducing historic colonial patterns.
 
 Finally, the intellectually intense day came to an end with a talk in which [_Zaven Paré_](https://www.intercontinental-academia.org/mentors/#pare "Zaven Paré") discussed his artistic works based on electronic marionettes and his collaborations with robotics specialists in Japan. Paré’s conception of automaton-centred theatre enchants audiences while challenging our tendency towards anthropomorphisation. This raises important questions regarding how we will interact with AI algorithms and intelligent robotics in the decades to come...
-
-\[^1\]: This is the first footnote.
