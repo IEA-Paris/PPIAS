@@ -105,7 +105,7 @@ export default {
   methods: {},
 }
 </script>
-<style lang="scss" scoped>
+<style>
 /* .container {
   display: flex;
   justify-content: space-around;

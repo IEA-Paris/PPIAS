@@ -6,7 +6,7 @@ category_2: ''
 date: '2021-12-07T12:54:42.000Z'
 highlight: false
 id: 44Vnvcsd4ME
-language: ''
+language: English
 tags:
   - Artificial Intelligence
   - Data science

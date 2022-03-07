@@ -78,8 +78,8 @@ export default {
   },
   mounted() {},
   methods: {
-    async updateSort(values) {
-      await this.$store.dispatch('updateSort', { values, type: this.type })
+    async updateSort(value) {
+      await this.$store.dispatch('updateSort', { value, type: this.type })
     },
   },
 }

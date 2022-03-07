@@ -64,10 +64,10 @@ export const mutations = {
       filters[Object.keys(filters)[0]]
     )
   },
-  setSort(state, { values, type }) {
-    console.log('values: ', values)
-    state[type].sortBy = [values[0]]
-    state[type].sortDesc = [values[1] === 'desc']
+  setSort(state, { value, type }) {
+    console.log('values: ', value)
+    state[type].sortBy = [value[0]]
+    state[type].sortDesc = [value[1] === 'desc']
   },
   setView(state, { value, type }) {
     state[type].view = value
