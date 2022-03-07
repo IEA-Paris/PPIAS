@@ -90,7 +90,7 @@ export const mutations = {
     state[type].filtersCount = filtersCount
   },
   setBlankState(state, type) {
-    console.log('RESET STATE')
+    console.log('RESET STATE', type)
     const defaultView =
       lists[type].views[
         Object.keys(lists[type].views).find(
@@ -105,17 +105,17 @@ export const mutations = {
       ],
     ]
     console.log('defaultSort: ', defaultSort)
-    Vue.set(state, 'filters', {
+    Vue.set(state[type], 'filters', {
       years: [],
       category: [],
       tags: [],
       language: [],
     })
 
-    Vue.set(state, 'search', '')
-    Vue.set(state, 'view', defaultView.name)
-    Vue.set(state, 'sortBy', [defaultSort[0].value[0]])
-    Vue.set(state, 'sortDesc', [defaultSort[0].value[1]] === 'desc')
+    Vue.set(state[type], 'search', '')
+    Vue.set(state[type], 'view', defaultView.name)
+    Vue.set(state[type], 'sortBy', [defaultSort[0].value[0]])
+    Vue.set(state[type], 'sortDesc', [defaultSort[0].value[1]] === 'desc')
   },
 }
 
