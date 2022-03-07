@@ -40,12 +40,14 @@ export default {
         return this.$store.state[this.type].filters[this.filter]
       },
       set(value) {
-        this.$store.dispatch(this.type + '/updateFilters', {
-          [this.filter]: value,
+        this.$store.dispatch('updateFilters', {
+          filters: { [this.filter]: value },
+          type: this.type,
         })
       },
     },
   },
+
   created() {},
   beforeCreate() {},
 }

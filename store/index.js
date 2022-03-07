@@ -135,8 +135,8 @@ export const actions = {
     commit('setView', { value, type })
     await dispatch('update', type)
   },
-  async updateFilters({ dispatch, commit, state }, { value, type }) {
-    commit('setFilters', { value, type })
+  async updateFilters({ dispatch, commit, state }, { filters, type }) {
+    commit('setFilters', { filters, type })
     commit('setPage', { page: 1, type })
     await dispatch('update', type)
   },
