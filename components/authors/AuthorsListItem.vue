@@ -1,42 +1,35 @@
 <template>
-  <v-card nuxt :to="localePath('/authors/' + item.slug)">
-    <v-row class="mt-6" no-gutters>
+  <v-card nuxt :to="localePath('/authors/' + item.slug)" flat>
+    <v-row class="mt-6" no-gutters justify="center">
       <v-col
         v-if="$vuetify.breakpoint.mdAndUp"
         cols="3"
         lg="2"
-        col-md-offset="1"
-        class="d-flex flex-column py-6 align-center"
+        class="d-flex align-end flex-column"
       >
-        <v-avatar :size="$vuetify.breakpoint.xl ? '180' : '120'" class="mb-3">
-          <OptimizedImage
-            v-if="item.image"
-            alt="Avatar"
-            :src="item.image"
-            :height="$vuetify.breakpoint.xl ? '180' : '120'"
-            :ratio="1"
-          />
-          <v-icon v-else class="white--text headline author-picture">{{
-            item.firstname[0] + item.lastname[0]
-          }}</v-icon>
-        </v-avatar>
-        <div class="flex-row justify-center">
-          <v-tooltip v-for="social in socials" :key="social.link" bottom>
-            <template #activator="{ on, attrs }">
-              <v-btn
-                text
-                icon
-                v-bind="attrs"
-                :href="social.link"
-                target="_blank"
-                v-on="on"
-                @click.stop
-              >
-                <v-icon>{{ social.icon }}</v-icon></v-btn
-              >
-            </template>
-            <span>{{ social.tooltip }} </span>
-          </v-tooltip>
+        <div class="d-flex align-center flex-column">
+          <v-avatar
+            :size="$vuetify.breakpoint.xl ? '180' : '120'"
+            class="mt-6 mx-6 mb-1"
+            tile
+          >
+            <OptimizedImage
+              v-if="item.image"
+              alt="Avatar"
+              :src="item.image"
+              :height="$vuetify.breakpoint.xl ? '180' : '120'"
+              :ratio="1"
+            />
+            <v-icon v-else class="white--text headline author-picture">{{
+              item.firstname[0] + item.lastname[0]
+            }}</v-icon>
+          </v-avatar>
+          <div
+            class="flex-row justify-center text-center mb-3"
+            style="max-width: 120px"
+          >
+            <AuthorSocials :socials="socials"></AuthorSocials>
+          </div>
         </div>
       </v-col>
       <v-col cols="12" md="8" class="mx-3 py-6">
@@ -46,29 +39,14 @@
           v-html="highlight(item.firstname + ' ' + item.lastname, search)"
         ></div>
         <div
-          class="text-h6 mb-3"
+          class="text-subtitle-2 mb-1"
           v-html="highlight(getTitlesAndInstitutions(item), search)"
         ></div>
         <div
           v-if="$vuetify.breakpoint.smAndDown"
-          class="flex-row justify-center mb-6"
+          class="flex-row justify-center align-center mb-6"
         >
-          <v-tooltip v-for="social in socials" :key="social.link" bottom>
-            <template #activator="{ on, attrs }">
-              <v-btn
-                text
-                icon
-                color="primary"
-                v-bind="attrs"
-                :href="social.link"
-                target="_blank"
-                v-on="on"
-              >
-                <v-icon>{{ social.icon }}</v-icon></v-btn
-              >
-            </template>
-            <span>{{ social.tooltip }} </span>
-          </v-tooltip>
+          <AuthorSocials :socials="socials"></AuthorSocials>
         </div>
         <div class="author-exerpt">
           <nuxt-content :document="item" />
@@ -78,6 +56,7 @@
         >
       </v-col>
     </v-row>
+    <v-divider></v-divider>
   </v-card>
 </template>
 <script>
@@ -190,6 +169,16 @@ export default {
       return slugify(item)
     },
     getTitlesAndInstitutions(item) {
+      console.log(
+        'item?.titles_and_institutions?.length: ',
+        item?.titles_and_institutions?.length
+      )
+      console.log(
+        'item?.titles_and_institutions?.length',
+        item?.titles_and_institutions?.length
+          ? formatTitleAndInstitutions(item.titles_and_institutions)
+          : ''
+      )
       return item?.titles_and_institutions?.length
         ? formatTitleAndInstitutions(item.titles_and_institutions)
         : ''
@@ -218,7 +207,7 @@ export default {
   overflow: hidden;
 }
 .author-picture {
-  background: linear-gradient(to right, #040404, #000000, #656565);
+  background: black;
   font-style: normal;
 }
 div.anchor {

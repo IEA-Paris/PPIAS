@@ -21,8 +21,7 @@
         {{ item.caption }}
       </template>
       <template #date>
-        <div class="d-flex">
-          <v-sheet :color="item.category_1.color" class="sideline"></v-sheet>
+        <div class="d-flex mx-1">
           {{
             new Date(item.date).toLocaleDateString('en-GB', {
               // you can use undefined as first argument

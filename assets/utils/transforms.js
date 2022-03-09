@@ -98,15 +98,14 @@ export const formatAuthors = (authors = false, $t, full = false) => {
 }
 export const formatTitleAndInstitutions = (obj) => {
   console.log('obj: ', obj)
-  if (!obj || !obj.length || obj) return ''
+  if (!obj || !obj.length) return ''
   return obj
     .map((institution) =>
       institution.institution
         ? institution.institution +
-          ' - ' +
-          (institution.titles && institution.titles.length)
-          ? institution.titles.join(', ')
-          : ''
+          (institution.titles && institution.titles.length
+            ? ' - ' + institution.titles.join(', ')
+            : '')
         : ''
     )
     .join(', ')

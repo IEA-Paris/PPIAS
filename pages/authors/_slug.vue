@@ -61,27 +61,7 @@
                   class="pa-6"
                 >
                   <template v-if="socials.length">
-                    <v-tooltip
-                      v-for="social in socials"
-                      :key="social.link"
-                      bottom
-                    >
-                      <template #activator="{ on, attrs }">
-                        <v-btn
-                          v-bind="attrs"
-                          :key="social.link"
-                          icon
-                          text
-                          :href="social.link"
-                          target="_blank"
-                          v-on="on"
-                          @click.stop
-                        >
-                          <v-icon>{{ social.icon }}</v-icon>
-                        </v-btn>
-                      </template>
-                      <span>{{ social.tooltip }}</span>
-                    </v-tooltip>
+                    <AuthorSocials :socials="socials"></AuthorSocials>
                   </template>
                 </PageTitle>
                 <v-card-text>
