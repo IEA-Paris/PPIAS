@@ -27,6 +27,13 @@ fields:
   label: Author(s)
   showOnly:
     value: true
+- name: custom_pdf
+  type: file
+  config:
+    maxSize: 64
+  label: Custom PDF
+  description: If used, the usual PDF will <strong>not </strong>be generated (ad the
+    file provided will be used instead)
 - name: abstract
   type: textarea
   default: ''
@@ -123,7 +130,7 @@ fields:
   type: select
   default: English
   config:
-    required: false
+    required: true
     options:
     - English
     - French
@@ -141,7 +148,7 @@ fields:
       section: 
       file: 
       path: 
-  label: Language (facultative)
+  label: Language
   description: The language of the article content (be it media or text).Fallback
     on english
 pages:
