@@ -22,6 +22,7 @@ export default {
       isProd: process.env.NODE_ENV === 'production',
     }
   },
+
   created() {
     /*  this.$nuxt.$loading.finish = function () {
       this.clear()

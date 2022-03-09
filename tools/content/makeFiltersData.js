@@ -10,7 +10,7 @@ export default async () => {
   filters.years = {
     type: 'Select',
     items: [...new Set(articles.map((article) => article.years))].filter(
-      (item) => !(item === null || item === '')
+      (item) => item !== null && item !== '' && item
     ),
   }
   /* Too much items to expect - also covered by FTS
@@ -33,14 +33,14 @@ export default async () => {
   filters.language = {
     type: 'Select',
     items: [...new Set(articles.map((article) => article.language))].filter(
-      (item) => !(item === null || item === '')
+      (item) => item !== null && item !== ''
     ),
   }
   // issue filters
   filters.issue = {
     type: 'Select',
     items: [...new Set(articles.map((article) => article.issue))].filter(
-      (item) => !(item === null || item === '')
+      (item) => item !== null && item !== ''
     ),
   }
   // Keyword filters

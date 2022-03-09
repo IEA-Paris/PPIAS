@@ -52,7 +52,7 @@ export default {
     speed: 0.05,
   },
   theme: {
-    loading: '#2196f3',
+    loading: 'red',
     dark: false,
     themes: {
       light: {

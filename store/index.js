@@ -5,11 +5,15 @@ import lists from '~/assets/data/lists'
 export const state = () => ({
   scrolled: process.browser ? window.pageYOffset > 0 : false,
   logo: 0,
+  loading: true,
 })
 
 export const mutations = {
   setLogo(state, value) {
     state.logo = value
+  },
+  setLoading(state, value) {
+    state.loading = value
   },
   setScrolled(state) {
     if (process.browser) {
@@ -156,6 +160,9 @@ export const actions = {
   },
   async update({ dispatch, commit, state, getters, rootState }, type) {
     console.log('UPDATE type: ', type)
+    console.log('STORE ON')
+    commit('setLoading', true)
+
     const pipeline = {
       // default filters
       ...filtersRaw[type],
@@ -381,6 +388,9 @@ export const actions = {
       numberOfPages: lastPage,
       type,
     })
+    console.log('STORE OFF')
+    commit('setLoading', false)
+
     /* HIGHLIGHT MECHANISM (disabled until reassessment of its usefulness & relevance
     //TODO deal with that ) 
     // on mobile or list view, highlight slots are the first ones

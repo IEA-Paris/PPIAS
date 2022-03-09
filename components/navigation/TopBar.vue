@@ -5,7 +5,7 @@
     clipped
     flat
     height="140"
-    :class="{ loading: !$wait.any }"
+    :class="{ loading: $nuxt.loading }"
   >
     <div class="d-flex flex-grow-1 justify-space-between">
       <Logo color="#FFF" class="" />
@@ -50,13 +50,13 @@ export default {
   padding-bottom: 2.5rem;
   margin-bottom: 2rem;
 }
-#main-app-bar.loading {
-  padding-top: 0.8rem !important;
-}
-#main-app-bar:not(.loading) {
-  border-top: solid 0.8rem #000 !important;
+/* #main-app-bar.loading {
+  border-top: none;
+} */
+/* #main-app-bar:not(.loading) {
+  border-top: solid 0.3rem #000 !important;
 }
 #main-app-bar.v-app-bar--is-scrolled {
-  border-top: solid 0.4rem #000 !important;
-}
+  border-top: solid 0.3rem #000 !important;
+} */
 </style>

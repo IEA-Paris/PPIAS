@@ -207,7 +207,7 @@ export default {
     // https://github.com/nuxt-community/apollo-module
     /*  '@nuxtjs/apollo', */
     // https://github.com/f/vue-wait
-    ['vue-wait/nuxt', { useVuex: true }],
+    /*   ['vue-wait/nuxt', { useVuex: true }], */
   ],
   // XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
   // MODULES CONFIGURATIONS
@@ -309,12 +309,12 @@ export default {
     color: config.theme.themes.loading,
     height: '5px',
   },
-  // Customize the loading indicator (https://nuxtjs.org/api/configuration-loading-indicator)
+  /*   // Customize the loading indicator (https://nuxtjs.org/api/configuration-loading-indicator)
   loadingIndicator: {
     name: '~/assets/loader.html',
     color: config.theme.themes.light.primary,
     background: config.theme.themes.light.secondary,
-  },
+  }, */
   googleFonts: {
     families: config.modules.fonts.families,
     download: true,

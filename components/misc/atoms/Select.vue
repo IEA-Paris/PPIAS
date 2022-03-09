@@ -4,7 +4,7 @@
     v-bind="$attrs"
     multiple
     menu-props="offset-y"
-    :loading="$wait.any"
+    :loading="$nuxt.loading || $store.state.loading"
   >
     <template #selection="{ item, index }">
       <SelectionSlot

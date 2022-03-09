@@ -95,13 +95,14 @@
                 :placeholder="$t('search-type', [$t(type)])"
                 prepend-inner-icon="mdi-magnify"
                 single-line
-                :loading="$wait.any"
+                color="black"
+                :loading="$nuxt.loading || $store.state.loading"
                 class="transition-swing"
                 :class="{ 'mt-3': $store.state.scrolled }"
                 outlined
                 hide-details
                 :dense="$vuetify.breakpoint.smAndDown"
-                :disabled="$wait.any"
+                :disabled="$nuxt.loading || $store.state.loading"
                 clearable
                 style="min-width: 150px"
               >
@@ -388,6 +389,7 @@ export default {
   },
   async mounted() {
     console.log('MOUNTED')
+
     this.$store.commit('loadRouteQuery', this.type)
     this.filter =
       this.$store.state[this.type].filtersCount > 0 ||
