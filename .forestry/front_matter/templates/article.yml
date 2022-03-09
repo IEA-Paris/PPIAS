@@ -36,7 +36,7 @@ fields:
     schema:
       format: markdown
     min: 12
-    max: 3000
+    max: 1000
   label: Abstract
 - name: category_1
   type: select
