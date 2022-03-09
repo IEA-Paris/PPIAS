@@ -191,7 +191,7 @@ export default {
         return this.searchStringRaw
       },
       async set(newValue) {
-        if (!this.$wait.any) {
+        if (!this.$store.state.loading && !this.$nuxt.loading) {
           if (!newValue) {
             console.log('pushin no new val')
 

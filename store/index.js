@@ -162,7 +162,14 @@ export const actions = {
     console.log('UPDATE type: ', type)
     console.log('STORE OFF')
     commit('setLoading', true)
-
+    console.log('window.$nuxt.$root: ', window.$nuxt.$root.dev)
+    if (
+      process.client &&
+      Object.keys(window.$nuxt.$root.$loading).length &&
+      process.env.NODE_ENV === 'production'
+    ) {
+      window.$nuxt.$root.$loading.start()
+    }
     const pipeline = {
       // default filters
       ...filtersRaw[type],
@@ -390,7 +397,18 @@ export const actions = {
     })
     console.log('STORE OFF')
     commit('setLoading', false)
-
+    console.log(
+      'Object.keys(window.$nuxt.$root.$loading): ',
+      Object.keys(window.$nuxt.$root.$loading)
+    )
+    if (
+      process.client &&
+      Object.keys(window.$nuxt.$root.$loading).length &&
+      window.$nuxt.$root.$loading &&
+      process.env.NODE_ENV === 'production'
+    ) {
+      window.$nuxt.$root.$loading.stop()
+    }
     /* HIGHLIGHT MECHANISM (disabled until reassessment of its usefulness & relevance
     //TODO deal with that ) 
     // on mobile or list view, highlight slots are the first ones

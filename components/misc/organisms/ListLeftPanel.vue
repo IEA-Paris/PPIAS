@@ -21,7 +21,8 @@
             <v-icon :left="!filter" :large="filter">
               {{ filter ? 'mdi-chevron-left' : 'mdi-filter' }}
             </v-icon>
-            {{ filter ? '' : $t('filters') }} {{ $vuetify.breakpoint.name }}
+            {{ filter ? '' : $t('filters') }}
+            <!-- {{ $vuetify.breakpoint.name }} -->
           </v-btn>
         </template>
         <span v-html="filter ? $t('hide-filters') : $t('show-filters')"></span>

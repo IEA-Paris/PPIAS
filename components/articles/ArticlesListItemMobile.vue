@@ -27,15 +27,11 @@
         height="100%"
       >
         <YoutubeThumbnail v-if="item.yt && item.yt.length" :item="item">
-          <template #categories>
+          <!--       <template #categories>
             <ArticleCategories :item="item" />
-          </template>
+          </template> -->
           <template #date>
-            <div class="d-flex">
-              <v-sheet
-                :color="item.category_1.color"
-                class="sideline"
-              ></v-sheet>
+            <div class="d-flex px-1">
               {{
                 new Date(item.date).toLocaleDateString('EN', {
                   timezone: 'UTC',
@@ -49,15 +45,11 @@
           :item="item"
           :src="item.picture"
         >
-          <template #categories>
+          <!--      <template #categories>
             <ArticleCategories :item="item" />
-          </template>
+          </template> -->
           <template #date>
-            <div class="d-flex">
-              <v-sheet
-                :color="item.category_1.color"
-                class="sideline"
-              ></v-sheet>
+            <div class="d-flex px-1">
               {{
                 new Date(item.date).toLocaleDateString('EN', {
                   timezone: 'UTC',
@@ -67,15 +59,11 @@
           </template>
         </PictureItem>
         <TextFingerprint v-else :item="item" :size="300" :margin="20">
-          <template #categories>
+          <!--         <template #categories>
             <ArticleCategories :item="item" />
-          </template>
+          </template> -->
           <template #date>
-            <div class="d-flex">
-              <v-sheet
-                :color="item.category_1.color"
-                class="sideline"
-              ></v-sheet>
+            <div class="d-flex px-1">
               {{
                 new Date(item.date).toLocaleDateString('EN', {
                   timezone: 'UTC',
@@ -116,7 +104,10 @@
             }}
             -
           </template>
-          <ArticleAuthorsString :authors="item.authors" class=""
+          <ArticleAuthorsString
+            v-if="item.authors"
+            :authors="item.authors"
+            class=""
         /></v-list-item-subtitle>
       </div>
     </v-list-item>

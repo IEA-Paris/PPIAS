@@ -5,6 +5,7 @@ import { writePrintRoutes } from './tools/lib/contentUtilities.js'
 EventEmitter.defaultMaxListeners = 20
 export default {
   env: { config },
+  dev: false,
   server: {
     port: 3000, // par défaut: 3000
     host: '0.0.0.0', // par défaut: localhost
@@ -306,7 +307,7 @@ export default {
   // Content hooks
   ...contentHooks,
   loading: {
-    color: config.theme.themes.loading,
+    color: 'black',
     height: '5px',
   },
   /*   // Customize the loading indicator (https://nuxtjs.org/api/configuration-loading-indicator)

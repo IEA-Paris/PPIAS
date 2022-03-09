@@ -23,14 +23,15 @@ export default {
     }
   },
 
-  created() {
-    /*  this.$nuxt.$loading.finish = function () {
+  mounted() {
+    this.$nuxt.$loading.finish = function () {
       this.clear()
       this.pause()
       return this
     }
-    this.$nextTick(() => {
+    /*     this.$nextTick(() => {
       this.$nuxt.$loading.start()
+      setTimeout(() => this.$nuxt.$loading.finish(), 500)
     }) */
   },
   updated() {

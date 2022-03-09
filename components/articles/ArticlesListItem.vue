@@ -106,6 +106,7 @@
             <span v-html="item.article_title"></span>
           </v-tooltip>
           <ArticleAuthorsString
+            v-if="item.authors"
             :authors="item.authors"
             class="text-p mt-3 article-authors"
           />

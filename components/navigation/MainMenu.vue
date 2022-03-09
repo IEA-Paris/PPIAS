@@ -8,7 +8,7 @@
     </template>
     <!-- APP BAR WITH LOGO -->
     <v-card dark color="black">
-      <v-app-bar color="transparent" clipped flat hide-on-scroll height="180">
+      <v-app-bar color="transparent" clipped flat hide-on-scroll height="140">
         <div class="d-flex flex-column flex-grow-1">
           <div class="d-flex flex-grow-1 align-start">
             <v-img
@@ -35,7 +35,7 @@
           </div>
         </div>
       </v-app-bar>
-      <v-row class="ml-2">
+      <v-row class="ml-2 mt-6">
         <v-col
           cols="12"
           md="4"

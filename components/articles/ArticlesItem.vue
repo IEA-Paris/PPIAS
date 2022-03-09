@@ -17,7 +17,7 @@
         {{ item.article_title }}
       </template>
       <template #author>
-        <ArticleAuthorsString :authors="item.authors" />
+        <ArticleAuthorsString v-if="item.authors" :authors="item.authors" />
       </template>
       <template #date>
         <div class="d-flex px-1">
@@ -45,7 +45,7 @@
         {{ item.article_title }}
       </template>
       <template #author>
-        <ArticleAuthorsString :authors="item.authors" />
+        <ArticleAuthorsString v-if="item.authors" :authors="item.authors" />
       </template>
       <template #date>
         <div class="d-flex px-1">
@@ -68,7 +68,7 @@
         {{ item.article_title }}
       </template>
       <template #author>
-        <ArticleAuthorsString :authors="item.authors" />
+        <ArticleAuthorsString v-if="item.authors" :authors="item.authors" />
       </template>
       <template #date>
         <div class="d-flex px-1">
