@@ -2,12 +2,12 @@
   <div class="frame">
     <div class="overlay">
       <div class="top">
-        <div v-if="hasContent('categories')" class="d-flex">
+        <!--       <div v-if="hasContent('categories')" class="d-flex">
           <slot name="categories"></slot>
-        </div>
+        </div> -->
 
         <span v-if="hasContent('caption')" class="caption-content">
-          <div class="my-6 px-3 caption-content-frame">
+          <div class="my-4 px-3 caption-content-frame">
             <slot name="caption"></slot>
           </div>
         </span>
@@ -107,10 +107,11 @@ export default {
   background-image: linear-gradient(to left, white 100%, black 100%);
   text-transform: uppercase;
   display: -webkit-box;
-  -webkit-line-clamp: 5;
+  -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-align: right;
+  margin-top: 30px;
 }
 .caption-content-frame {
   overflow: hidden;

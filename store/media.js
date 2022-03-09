@@ -15,7 +15,7 @@ const defaultSort = [
 
 export const state = () => ({
   type: 'media',
-  items: [],
+  items: [{}, {}, {}, {}, {}, {}],
   total: 0,
   filters: {
     years: [],

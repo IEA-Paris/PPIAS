@@ -1,103 +1,126 @@
 <template>
-  <v-list-item
-    nuxt
-    :to="localePath('/articles/' + item.slug)"
-    class="mb-6 d-flex align-start pl-0"
-    :class="index > 0 ? '' : ''"
-    flat
-  >
-    <v-list-item-avatar
-      v-if="$vuetify.breakpoint.mdAndUp || ($vuetify.breakpoint.sm && !filter)"
-      x-large
+  <div>
+    <v-skeleton-loader
+      v-if="$store.state.loading && index % 2"
+      :type="
+        $vuetify.breakpoint.sm && !filter
+          ? 'list-item-avatar-three-line'
+          : 'list-item-three-line'
+      "
       tile
-      min-width="25%"
-      height="100%"
+    ></v-skeleton-loader>
+    <v-list-item
+      v-else
+      nuxt
+      :to="localePath('/articles/' + item.slug)"
+      class="mb-6 d-flex align-start pl-0"
+      :class="index > 0 ? '' : ''"
+      flat
     >
-      <YoutubeThumbnail v-if="item.yt && item.yt.length" :item="item">
-        <template #categories>
-          <ArticleCategories :item="item" />
-        </template>
-        <template #date>
-          <div class="d-flex">
-            <v-sheet :color="item.category_1.color" class="sideline"></v-sheet>
-            {{
-              new Date(item.date).toLocaleDateString('EN', {
-                timezone: 'UTC',
-              })
-            }}
-          </div>
-        </template>
-      </YoutubeThumbnail>
-      <PictureItem
-        v-else-if="item.picture && item.picture.length"
-        :item="item"
-        :src="item.picture"
-      >
-        <template #categories>
-          <ArticleCategories :item="item" />
-        </template>
-        <template #date>
-          <div class="d-flex">
-            <v-sheet :color="item.category_1.color" class="sideline"></v-sheet>
-            {{
-              new Date(item.date).toLocaleDateString('EN', {
-                timezone: 'UTC',
-              })
-            }}
-          </div>
-        </template>
-      </PictureItem>
-      <TextFingerprint v-else :item="item" :size="300" :margin="20">
-        <template #categories>
-          <ArticleCategories :item="item" />
-        </template>
-        <template #date>
-          <div class="d-flex">
-            <v-sheet :color="item.category_1.color" class="sideline"></v-sheet>
-            {{
-              new Date(item.date).toLocaleDateString('EN', {
-                timezone: 'UTC',
-              })
-            }}
-          </div>
-        </template>
-      </TextFingerprint>
-    </v-list-item-avatar>
-    <div>
-      <div
-        class="article-mobile-title"
-        :class="
-          $vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)
-            ? ' small'
-            : ''
+      <v-list-item-avatar
+        v-if="
+          $vuetify.breakpoint.mdAndUp || ($vuetify.breakpoint.sm && !filter)
         "
+        x-large
+        tile
+        min-width="25%"
+        height="100%"
       >
-        <ArticleCategories
-          v-if="$vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)"
+        <YoutubeThumbnail v-if="item.yt && item.yt.length" :item="item">
+          <template #categories>
+            <ArticleCategories :item="item" />
+          </template>
+          <template #date>
+            <div class="d-flex">
+              <v-sheet
+                :color="item.category_1.color"
+                class="sideline"
+              ></v-sheet>
+              {{
+                new Date(item.date).toLocaleDateString('EN', {
+                  timezone: 'UTC',
+                })
+              }}
+            </div>
+          </template>
+        </YoutubeThumbnail>
+        <PictureItem
+          v-else-if="item.picture && item.picture.length"
           :item="item"
-          class="pr-2"
-          small
-        />
-        {{ item.article_title }}
-      </div>
-      <v-list-item-subtitle class="mt-3 d-inline-flex">
-        <template
-          v-if="$vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)"
+          :src="item.picture"
         >
-          {{
-            new Date(item.date).toLocaleDateString('en-GB', {
-              // you can use undefined as first argument
-              year: 'numeric',
-              month: '2-digit',
-              day: '2-digit',
-            })
-          }}
-          -
-        </template>
-        <ArticleAuthorsString :authors="item.authors" class=""
-      /></v-list-item-subtitle>
-    </div>
-  </v-list-item>
+          <template #categories>
+            <ArticleCategories :item="item" />
+          </template>
+          <template #date>
+            <div class="d-flex">
+              <v-sheet
+                :color="item.category_1.color"
+                class="sideline"
+              ></v-sheet>
+              {{
+                new Date(item.date).toLocaleDateString('EN', {
+                  timezone: 'UTC',
+                })
+              }}
+            </div>
+          </template>
+        </PictureItem>
+        <TextFingerprint v-else :item="item" :size="300" :margin="20">
+          <template #categories>
+            <ArticleCategories :item="item" />
+          </template>
+          <template #date>
+            <div class="d-flex">
+              <v-sheet
+                :color="item.category_1.color"
+                class="sideline"
+              ></v-sheet>
+              {{
+                new Date(item.date).toLocaleDateString('EN', {
+                  timezone: 'UTC',
+                })
+              }}
+            </div>
+          </template>
+        </TextFingerprint>
+      </v-list-item-avatar>
+      <div>
+        <div
+          class="article-mobile-title"
+          :class="
+            $vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)
+              ? ' small'
+              : ''
+          "
+        >
+          <ArticleCategories
+            v-if="$vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)"
+            :item="item"
+            class="pr-2"
+            small
+          />
+          {{ item.article_title }}
+        </div>
+        <v-list-item-subtitle class="mt-3 d-inline-flex">
+          <template
+            v-if="$vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)"
+          >
+            {{
+              new Date(item.date).toLocaleDateString('en-GB', {
+                // you can use undefined as first argument
+                year: 'numeric',
+                month: '2-digit',
+                day: '2-digit',
+              })
+            }}
+            -
+          </template>
+          <ArticleAuthorsString :authors="item.authors" class=""
+        /></v-list-item-subtitle>
+      </div>
+    </v-list-item>
+  </div>
 </template>
 <script>
 export default {

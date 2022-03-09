@@ -160,7 +160,7 @@ export const actions = {
   },
   async update({ dispatch, commit, state, getters, rootState }, type) {
     console.log('UPDATE type: ', type)
-    console.log('STORE ON')
+    console.log('STORE OFF')
     commit('setLoading', true)
 
     const pipeline = {

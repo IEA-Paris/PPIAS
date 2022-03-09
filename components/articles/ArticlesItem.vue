@@ -10,19 +10,17 @@
     :to="localePath('/articles/' + item.slug)"
   >
     <YoutubeThumbnail v-if="item.yt && item.yt.length" :item="item">
-      <template #categories>
+      <!--      <template #categories>
         <ArticleCategories :item="item" />
-      </template>
-      <template #caption>
+      </template> -->
+      <template #caption class="mt-3">
         {{ item.article_title }}
       </template>
       <template #author>
         <ArticleAuthorsString :authors="item.authors" />
-        <v-sheet :color="item.category_1.color" class="underline"></v-sheet>
       </template>
       <template #date>
-        <div class="d-flex">
-          <v-sheet :color="item.category_1.color" class="sideline"></v-sheet>
+        <div class="d-flex px-1">
           {{
             new Date(item.date).toLocaleDateString('en-GB', {
               // you can use undefined as first argument
@@ -40,19 +38,17 @@
       :size="size"
       :src="item.picture"
     >
-      <template #categories>
+      <!--       <template #categories>
         <ArticleCategories :item="item" />
-      </template>
+      </template> -->
       <template #caption>
         {{ item.article_title }}
       </template>
       <template #author>
         <ArticleAuthorsString :authors="item.authors" />
-        <v-sheet :color="item.category_1.color" class="underline"></v-sheet>
       </template>
       <template #date>
-        <div class="d-flex">
-          <v-sheet :color="item.category_1.color" class="sideline"></v-sheet>
+        <div class="d-flex px-1">
           {{
             new Date(item.date).toLocaleDateString('en-GB', {
               // you can use undefined as first argument
@@ -65,27 +61,17 @@
       </template></PictureItem
     >
     <TextFingerprint v-else :item="item" :size="size" :margin="10">
-      <template #categories>
+      <!--      <template #categories>
         <ArticleCategories :item="item" />
-      </template>
+      </template> -->
       <template #caption>
         {{ item.article_title }}
       </template>
       <template #author>
         <ArticleAuthorsString :authors="item.authors" />
-        <v-sheet
-          v-if="item.category_1 && item.category_1.title"
-          class="underline-color"
-          :color="item.category_1.color"
-        ></v-sheet>
       </template>
       <template #date>
-        <div class="d-flex">
-          <v-sheet
-            v-if="item.category_1 && item.category_1.title"
-            :color="item.category_1.color"
-            class="sideline"
-          ></v-sheet>
+        <div class="d-flex px-1">
           {{
             new Date(item.date).toLocaleDateString('en-GB', {
               // you can use undefined as first argument

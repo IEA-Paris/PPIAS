@@ -1,6 +1,36 @@
 <template>
   <div class="transition-swing">
     <v-card
+      v-if="$store.state.loading"
+      class="d-flex transition-swing"
+      :class="[$store.state.scrolled ? 'py-3' : 'py-1']"
+      flat
+    >
+      <v-skeleton-loader type="image" width="200"></v-skeleton-loader>
+      <div
+        class="ml-6 my-3 d-flex flex-grow-1"
+        :class="index > 0 ? 'mt-n1' : ' mt-0'"
+      >
+        <div class="article-title">
+          <v-skeleton-loader
+            type="heading"
+            width="100%"
+            class="my-3"
+          ></v-skeleton-loader>
+          <v-skeleton-loader type="text" max-width="50%"></v-skeleton-loader>
+        </div>
+        <v-divider vertical class="mr-6 ml-3"></v-divider>
+        <div class="d-flex flex-grow-1">
+          <v-skeleton-loader
+            type="paragraph, button"
+            class="mt-3"
+            width="100%"
+          ></v-skeleton-loader>
+        </div>
+      </div>
+    </v-card>
+    <v-card
+      v-else
       nuxt
       :to="localePath('/articles/' + item.slug)"
       class="d-flex transition-swing"
@@ -9,15 +39,11 @@
     >
       <div class="list-image d-flex">
         <YoutubeThumbnail v-if="item.yt && item.yt.length" :item="item">
-          <template #categories>
+          <!-- <template #categories>
             <ArticleCategories :item="item" />
-          </template>
+          </template> -->
           <template #date>
-            <div class="d-flex">
-              <v-sheet
-                :color="item.category_1.color"
-                class="sideline"
-              ></v-sheet>
+            <div class="d-flex px-1">
               {{
                 new Date(item.date).toLocaleDateString('en-GB', {
                   // you can use undefined as first argument
@@ -34,15 +60,11 @@
           :item="item"
           :src="item.picture"
         >
-          <template #categories>
+          <!--       <template #categories>
             <ArticleCategories :item="item" />
-          </template>
+          </template> -->
           <template #date>
-            <div class="d-flex">
-              <v-sheet
-                :color="item.category_1.color"
-                class="sideline"
-              ></v-sheet>
+            <div class="d-flex px-1">
               {{
                 new Date(item.date).toLocaleDateString('en-GB', {
                   // you can use undefined as first argument
@@ -55,15 +77,11 @@
           </template>
         </PictureItem>
         <TextFingerprint v-else :item="item" :size="300" :margin="20">
-          <template #categories>
+          <!--          <template #categories>
             <ArticleCategories :item="item" />
-          </template>
+          </template> -->
           <template #date>
-            <div class="d-flex">
-              <v-sheet
-                :color="item.category_1.color"
-                class="sideline"
-              ></v-sheet>
+            <div class="d-flex px-1">
               {{
                 new Date(item.date).toLocaleDateString('en-GB', {
                   // you can use undefined as first argument

@@ -15,7 +15,7 @@ const defaultSort = [
 
 export const state = () => ({
   type: 'authors',
-  items: [],
+  items: [{}, {}, {}, {}, {}, {}],
   total: 0,
   filters: {
     years: [],

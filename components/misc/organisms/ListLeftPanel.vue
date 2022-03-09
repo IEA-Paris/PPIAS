@@ -21,7 +21,7 @@
             <v-icon :left="!filter" :large="filter">
               {{ filter ? 'mdi-chevron-left' : 'mdi-filter' }}
             </v-icon>
-            {{ filter ? '' : $t('filters') }}
+            {{ filter ? '' : $t('filters') }} {{ $vuetify.breakpoint.name }}
           </v-btn>
         </template>
         <span v-html="filter ? $t('hide-filters') : $t('show-filters')"></span>
@@ -102,7 +102,6 @@
                 outlined
                 hide-details
                 :dense="$vuetify.breakpoint.smAndDown"
-                :disabled="$nuxt.loading || $store.state.loading"
                 clearable
                 style="min-width: 150px"
               >
@@ -305,7 +304,7 @@ export default {
           return scrolled ? 'pt-13 pr-3' : 'pt-11 pr-0'
 
         case 'md':
-          return scrolled ? 'pt-14 pr-3' : 'pt-11 pr-0'
+          return scrolled ? 'pt-14 pr-5' : 'pt-11 pr-0'
 
         case 'lg':
           return scrolled ? 'pt-11 pr-2' : 'pt-8 pr-0'

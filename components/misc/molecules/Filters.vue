@@ -14,7 +14,7 @@
       v-else
       :height="$vuetify.breakpoint.sm ? '40' : '56'"
       block
-      class="search-label"
+      class="search-label mt-1"
     >
       <v-icon small color="black" left>mdi-filter</v-icon>
       {{ $t('filters') }}
@@ -33,9 +33,10 @@
       outlined
       :type="type"
       :filter="filter"
+      color="black"
       style="min-width: 150px"
-      class="transition-swing"
-      :class="$store.state.scrolled ? 'mt-7' : 'mt-1 '"
+      class="transition-swing pb-1"
+      :class="$store.state.scrolled ? 'mt-6' : 'mt-0'"
     />
   </aside>
 </template>
