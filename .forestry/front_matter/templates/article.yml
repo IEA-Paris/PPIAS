@@ -151,6 +151,13 @@ fields:
   label: Language
   description: The language of the article content (be it media or text).Fallback
     on english
+- name: discipline
+  type: field_group_list
+  config:
+    min: 1
+    max: 4
+    labelField: 
+  label: Discipline(s)
 pages:
 - content/articles/Closing Panel-WPRN21.md
 - content/articles/Education & Marginalised Communities - Session 4.md
