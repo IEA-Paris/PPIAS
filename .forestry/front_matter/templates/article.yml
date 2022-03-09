@@ -27,6 +27,13 @@ fields:
   label: Author(s)
   showOnly:
     value: true
+- name: custom_pdf
+  type: file
+  config:
+    maxSize: 64
+  label: Custom PDF
+  description: If used, the usual PDF will <strong>not </strong>be generated (ad the
+    file provided will be used instead)
 - name: abstract
   type: textarea
   default: ''
@@ -36,7 +43,7 @@ fields:
     schema:
       format: markdown
     min: 12
-    max: 3000
+    max: 1000
   label: Abstract
 - name: category_1
   type: select
@@ -123,7 +130,7 @@ fields:
   type: select
   default: English
   config:
-    required: false
+    required: true
     options:
     - English
     - French
@@ -141,9 +148,16 @@ fields:
       section: 
       file: 
       path: 
-  label: Language (facultative)
+  label: Language
   description: The language of the article content (be it media or text).Fallback
     on english
+- name: discipline
+  type: field_group_list
+  config:
+    min: 1
+    max: 4
+    labelField: 
+  label: Discipline(s)
 pages:
 - content/articles/Closing Panel-WPRN21.md
 - content/articles/Education & Marginalised Communities - Session 4.md
