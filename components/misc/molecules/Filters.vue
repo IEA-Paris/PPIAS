@@ -36,7 +36,15 @@
       color="black"
       style="min-width: 150px"
       class="transition-swing pb-1"
-      :class="$store.state.scrolled ? 'mt-6' : 'mt-0'"
+      :class="
+        $store.state.scrolled
+          ? 'mt-6'
+          : $store.state[type].filters &&
+            $store.state[type].filters[filter] &&
+            $store.state[type].filters[filter].length
+          ? 'mt-1'
+          : 'mt-0'
+      "
     />
   </aside>
 </template>
@@ -62,6 +70,9 @@ export default {
     },
   },
   created() {},
+  mounted() {
+    console.log('fitler', this.$store.state[this.type].filters[this.name])
+  },
   methods: {},
 }
 </script>

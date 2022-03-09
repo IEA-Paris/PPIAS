@@ -1,7 +1,7 @@
 <template>
   <v-container
     v-scroll="onScroll"
-    class="transition-swing"
+    class="transition-swing ml-0"
     :fluid="!$store.state.scrolled"
     :class="({ 'pl-0': filter }, $store.state.scrolled ? 'pt-6' : 'px-0 pt-0')"
   >

@@ -1,63 +1,65 @@
 <template>
-  <v-card nuxt :to="localePath('/authors/' + item.slug)" flat>
-    <v-row class="mt-6" no-gutters justify="center">
-      <v-col
-        v-if="$vuetify.breakpoint.mdAndUp"
-        cols="3"
-        lg="2"
-        class="d-flex align-end flex-column"
-      >
-        <div class="d-flex align-center flex-column">
-          <v-avatar
-            :size="$vuetify.breakpoint.xl ? '180' : '120'"
-            class="mt-6 mx-6 mb-1"
-            tile
-          >
-            <OptimizedImage
-              v-if="item.image"
-              alt="Avatar"
-              :src="item.image"
-              :height="$vuetify.breakpoint.xl ? '180' : '120'"
-              :ratio="1"
-            />
-            <v-icon v-else class="white--text headline author-picture">{{
-              item.firstname[0] + item.lastname[0]
-            }}</v-icon>
-          </v-avatar>
+  <div class="transition-swing">
+    <v-card nuxt :to="localePath('/authors/' + item.slug)" flat>
+      <v-row class="mt-6" no-gutters>
+        <v-col
+          v-if="$vuetify.breakpoint.mdAndUp"
+          cols="3"
+          lg="2"
+          class="d-flex align-end flex-column"
+        >
+          <div class="d-flex align-center flex-column">
+            <v-avatar
+              :size="$vuetify.breakpoint.xl ? '180' : '120'"
+              class="mt-6 mx-6 mb-1"
+              tile
+            >
+              <OptimizedImage
+                v-if="item.image"
+                alt="Avatar"
+                :src="item.image"
+                :height="$vuetify.breakpoint.xl ? '180' : '120'"
+                :ratio="1"
+              />
+              <v-icon v-else class="white--text headline author-picture">{{
+                item.firstname[0] + item.lastname[0]
+              }}</v-icon>
+            </v-avatar>
+            <div
+              class="flex-row justify-center text-center mb-3"
+              style="max-width: 120px"
+            >
+              <AuthorSocials :socials="socials"></AuthorSocials>
+            </div>
+          </div>
+        </v-col>
+        <v-col cols="12" md="8" class="mx-3 py-6">
+          <div :id="slugifyItem(item.lastname)" class="anchor"></div>
           <div
-            class="flex-row justify-center text-center mb-3"
-            style="max-width: 120px"
+            :class="$vuetify.breakpoint.xl ? 'text-h4' : 'text-h5'"
+            v-html="highlight(item.firstname + ' ' + item.lastname, search)"
+          ></div>
+          <div
+            class="text-subtitle-2 mb-1"
+            v-html="highlight(getTitlesAndInstitutions(item), search)"
+          ></div>
+          <div
+            v-if="$vuetify.breakpoint.smAndDown"
+            class="flex-row justify-center align-center mb-6"
           >
             <AuthorSocials :socials="socials"></AuthorSocials>
           </div>
-        </div>
-      </v-col>
-      <v-col cols="12" md="8" class="mx-3 py-6">
-        <div :id="slugifyItem(item.lastname)" class="anchor"></div>
-        <div
-          :class="$vuetify.breakpoint.xl ? 'text-h4' : 'text-h5'"
-          v-html="highlight(item.firstname + ' ' + item.lastname, search)"
-        ></div>
-        <div
-          class="text-subtitle-2 mb-1"
-          v-html="highlight(getTitlesAndInstitutions(item), search)"
-        ></div>
-        <div
-          v-if="$vuetify.breakpoint.smAndDown"
-          class="flex-row justify-center align-center mb-6"
-        >
-          <AuthorSocials :socials="socials"></AuthorSocials>
-        </div>
-        <div class="author-exerpt">
-          <nuxt-content :document="item" />
-        </div>
-        <small v-if="item.copyright" class="muted caption"
-          >Image of &copy; {{ item.copyright }}</small
-        >
-      </v-col>
-    </v-row>
-    <v-divider></v-divider>
-  </v-card>
+          <div class="author-exerpt">
+            <nuxt-content :document="item" />
+          </div>
+          <small v-if="item.copyright" class="muted caption"
+            >Image of &copy; {{ item.copyright }}</small
+          >
+        </v-col>
+      </v-row>
+      <v-divider></v-divider>
+    </v-card>
+  </div>
 </template>
 <script>
 import slugify from '~/assets/utils/slugify'

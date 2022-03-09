@@ -82,15 +82,15 @@
               : ''
           "
         >
-          <ArticleCategories
+          <!--          <ArticleCategories
             v-if="$vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)"
             :item="item"
             class="pr-2"
             small
-          />
+          /> -->
           {{ item.article_title }}
         </div>
-        <v-list-item-subtitle class="mt-3 d-inline-flex">
+        <v-list-item-subtitle class="mt-2 d-inline-flex text-subtitle-1">
           <template
             v-if="$vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)"
           >
@@ -144,5 +144,6 @@ export default {
 }
 .article-mobile-title {
   font-size: 1.3rem;
+  margin-top: 0.1rem;
 }
 </style>

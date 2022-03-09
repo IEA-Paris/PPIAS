@@ -45,11 +45,11 @@
         :lg="filter ? 9 : 11"
         :md="filter ? 9 : 12"
         :sm="filter ? 7 : 12"
-        class="transition-swing pt-0"
+        class="transition-swing pt-0 text-left"
         :class="{ 'pl-0': !$store.state.scrolled || $vuetify.breakpoint.xs }"
       >
         <v-container
-          class="transition-swing pt-0"
+          class="transition-swing pt-0 ml-0"
           :fluid="!$store.state.scrolled"
           :class="{
             'px-0 mb-3': $store.state.scrolled && $vuetify.breakpoint.xs,

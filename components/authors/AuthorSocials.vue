@@ -9,6 +9,7 @@
           v-bind="attrs"
           :href="social.link"
           target="_blank"
+          tile
           v-on="on"
         >
           <v-icon>{{ social.icon }}</v-icon></v-btn
@@ -22,7 +23,7 @@
 export default {
   props: {
     socials: {
-      type: Object,
+      type: [Object, Array],
       required: true,
       default: () => {},
     },
