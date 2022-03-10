@@ -74,6 +74,15 @@
           <v-spacer></v-spacer>
           <v-btn color="primary" text @click="dialog = false">Close</v-btn>
         </v-card-actions>
+        <v-overlay absolute>
+          <v-btn dark tile @click="dialog = false"
+            ><v-icon>mdi-close</v-icon></v-btn
+          >
+          <v-sheet dark class="pa-12 text-h6 d-flex justify-center flex-column">
+            <v-icon x-large class="pa-6">mdi-account-hard-hat</v-icon
+            >{{ $t('this-part-is-still-under-construction') }}
+          </v-sheet>
+        </v-overlay>
       </v-card>
     </v-dialog>
   </div>

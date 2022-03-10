@@ -1,6 +1,9 @@
 <template>
   <v-row class="transition-swing flex-row-reverse">
-    <v-col :cols="toc ? 9 : 12" class="transition-swing">
+    <v-col
+      :cols="toc && !$vuetify.breakpoint.smAndDown ? 9 : 12"
+      class="transition-swing"
+    >
       <div
         :id="(item.anchor && item.anchor.toLowerCase()) || item.post_title"
         flat
@@ -110,12 +113,18 @@
         </v-card-subtitle>
       </div>
     </v-col>
-    <v-col v-show="toc" :cols="toc ? 3 : 1" class="transition-swing">
+    <v-col
+      v-show="toc"
+      v-if="$vuetify.breakpoint.mdAndUp"
+      :cols="toc ? 3 : 1"
+      class="transition-swing"
+    >
       <Toc
         v-if="item.toc.length"
         :toc="item.toc"
         :active-toc="currentlyActiveToc"
         :title="title ? false : item.article_title"
+        :custom-pdf="item.custom_pdf"
         @close="toc = false"
       />
     </v-col>

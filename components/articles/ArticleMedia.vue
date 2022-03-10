@@ -13,7 +13,9 @@
       justify="center"
     >
       <v-col cols="12" md="10" lg="8" xl="6">
-        <div class="text-h5">{{ media.caption }}</div>
+        <div v-if="media.caption !== item.article_title" class="text-h5">
+          {{ media.caption }}
+        </div>
         <Youtube
           v-if="media.type === 'youtube'"
           :yt="media.id"

@@ -33,25 +33,27 @@
       class="zenpanel d-flex flex-row fade-in page a4"
       style="background-color: white"
     >
-      <div>
-        <v-tooltip bottom>
-          <template #activator="{ on, attrs }">
-            <v-btn
-              v-if="!print"
-              class="pa-7 ml-3 mt-4 closebtn"
-              v-bind="attrs"
-              tile
-              icon
-              large
-              v-on="on"
-              @click="toogleZen()"
-            >
-              <v-icon large>mdi-close</v-icon>
-            </v-btn>
-          </template>
-          <span>{{ $t('exit-zen-mode') }}</span>
-        </v-tooltip>
-      </div>
+      <v-tooltip bottom>
+        <template #activator="{ on, attrs }">
+          <v-btn
+            v-if="!print"
+            class="pa-7 ml-3 mt-4 closebtn"
+            v-bind="attrs"
+            tile
+            icon
+            large
+            fab
+            fixed
+            top
+            left
+            v-on="on"
+            @click="toogleZen()"
+          >
+            <v-icon large>mdi-close</v-icon>
+          </v-btn>
+        </template>
+        <span>{{ $t('exit-zen-mode') }}</span>
+      </v-tooltip>
 
       <div
         class="d-flex flex-grow-1 justify-center"
@@ -65,6 +67,13 @@
           >
             <nuxt-content :document="item" />
           </v-card-text>
+          <v-card-actions class="mb-12">
+            <v-spacer></v-spacer>
+            <v-btn tile outlined @click="toogleZen()">
+              <v-icon left color="black">mdi-exit-to-app</v-icon>
+              {{ $t('exit-zen-mode') }}</v-btn
+            >
+          </v-card-actions>
         </v-card>
       </div>
     </article>

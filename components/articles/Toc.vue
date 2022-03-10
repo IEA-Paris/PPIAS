@@ -1,5 +1,5 @@
 <template>
-  <aside>
+  <aside class="toc">
     <div
       v-show="title"
       class="text-h6 mt-3 mb-6 mr-4 shadow"
@@ -63,7 +63,7 @@
           outlined
           class="justify-self-center my-6"
           v-bind="attrs"
-          :href="'/pdfs/' + $route.params.slug + '.pdf'"
+          :href="customPdf ? customPdf : '/pdfs/' + $route.params.slug + '.pdf'"
           nuxt
           target="_blank"
           :title="title"
@@ -95,6 +95,11 @@ export default {
       required: true,
       default: '',
     },
+    customPdf: {
+      type: [Boolean, String],
+      required: true,
+      default: '',
+    },
   },
   data() {
     return {}
@@ -105,7 +110,7 @@ export default {
   methods: {},
 }
 </script>
-<style scoped>
+<style>
 /* .container {
   display: flex;
   justify-content: space-around;
@@ -119,7 +124,7 @@ export default {
   top: 4em;
 } */
 
-aside {
+aside.toc {
   position: sticky;
   top: 10px;
   width: inherit;

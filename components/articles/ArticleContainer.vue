@@ -16,7 +16,11 @@
                 tile
                 v-bind="attrs"
                 nuxt
-                :href="'/pdfs/' + item.slug + '.pdf'"
+                :href="
+                  item.custom_pdf
+                    ? item.custom_pdf
+                    : '/pdfs/' + item.slug + '.pdf'
+                "
                 target="_blank"
                 :title="item.post_title"
                 small

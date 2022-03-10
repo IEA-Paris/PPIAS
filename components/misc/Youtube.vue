@@ -12,7 +12,10 @@
         ref="ytPlayer"
         :videoid="yt"
         :playlabel="caption"
-        params="controls=0&modestbranding=2&rel=0&enablejsapi=1"
+        :params="
+          (nocontrols ? 'controls=0&' : '') +
+          'modestbranding=2&rel=0&enablejsapi=1'
+        "
       ></lite-youtube>
       <!--       <iframe
         ref="ytPlayer"
