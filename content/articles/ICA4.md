@@ -66,6 +66,9 @@ doi: '169059797'
 category1:
 - color: green
   text: Article
+custom_pdf: "/pdfs/ICA4.pdf"
+discipline:
+- {}
 
 ---
 ## Introduction
