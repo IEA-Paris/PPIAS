@@ -3,7 +3,7 @@
     <!-- ACTIVATOR BTN -->
     <template #activator="{ on, attrs }">
       <v-btn v-bind="attrs" icon x-large class="ma-2" tile v-on="on">
-        <v-icon>mdi-menu</v-icon>
+        <v-icon color="black">mdi-menu</v-icon>
       </v-btn>
     </template>
     <!-- APP BAR WITH LOGO -->

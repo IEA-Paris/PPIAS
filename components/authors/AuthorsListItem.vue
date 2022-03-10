@@ -77,7 +77,6 @@ export default {
   },
   data() {
     return {
-      podcast: false,
       socials: [
         ...(this.item.social_channels.website
           ? [
@@ -199,7 +198,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 .author-exerpt {
   max-width: 650px;
   height: 80px;

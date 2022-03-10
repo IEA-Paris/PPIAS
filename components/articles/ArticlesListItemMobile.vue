@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-skeleton-loader
-      v-if="$store.state.loading && index % 2"
+      v-if="$store.state.loading"
       :type="
         $vuetify.breakpoint.sm && !filter
           ? 'list-item-avatar-three-line'
@@ -75,7 +75,7 @@
       </v-list-item-avatar>
       <div>
         <div
-          class="article-mobile-title"
+          class="text-h6 article-mobile-title"
           :class="
             $vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)
               ? ' small'

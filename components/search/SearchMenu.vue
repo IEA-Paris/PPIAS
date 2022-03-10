@@ -2,7 +2,7 @@
   <v-dialog v-model="open" fullscreen hide-overlay overflowed>
     <template #activator="{ on, attrs }">
       <v-btn v-bind="attrs" icon x-large class="ma-2" tile v-on="on">
-        <v-icon>mdi-magnify</v-icon>
+        <v-icon color="black">mdi-magnify</v-icon>
       </v-btn>
     </template>
     <v-card dark color="rgba(0, 0, 0, 0.97)">

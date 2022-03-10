@@ -97,7 +97,6 @@ export const formatAuthors = (authors = false, $t, full = false) => {
   }
 }
 export const formatTitleAndInstitutions = (obj) => {
-  console.log('obj: ', obj)
   if (!obj || !obj.length) return ''
   return obj
     .map((institution) =>
