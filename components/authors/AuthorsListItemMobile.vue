@@ -53,10 +53,9 @@
         <div :id="slugifyItem(item.lastname)" class="anchor"></div>
         <div v-html="highlightWord(item.firstname + ' ' + item.lastname)"></div>
         <v-list-item-subtitle class="mt-2 d-inline-flex text-subtitle-1">
-          <div
-            class="text-subtitle-2 mb-1"
-            v-html="highlightWord(getTitlesAndInstitutions(item))"
-          ></div>
+          <div class="text-subtitle-2 mb-1">
+            <span v-html="highlightWord(getTitlesAndInstitutions(item))"></span>
+          </div>
         </v-list-item-subtitle>
       </div>
     </v-list-item>

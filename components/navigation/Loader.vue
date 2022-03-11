@@ -92,7 +92,7 @@ export default {
   -webkit-animation-name: top;
   animation-name: top;
 }
-@keyframes top {
+@keyframes bottom {
   25% {
     width: 0;
   }
@@ -112,7 +112,7 @@ export default {
     width: 0;
   }
 }
-@-webkit-keyframes top {
+@-webkit-keyframes bottom {
   25% {
     width: 0;
   }
@@ -140,7 +140,7 @@ export default {
   -webkit-animation-name: bottom;
   animation-name: bottom;
 }
-@keyframes bottom {
+@keyframes top {
   0% {
     width: 0;
   }
@@ -161,7 +161,7 @@ export default {
   75% {
   }
 }
-@-webkit-keyframes bottom {
+@-webkit-keyframes top {
   0% {
     width: 0;
   }
@@ -190,7 +190,7 @@ export default {
   -webkit-animation-name: left;
   animation-name: left;
 }
-@keyframes left {
+@keyframes right {
   12% {
     height: 0;
   }
@@ -212,7 +212,7 @@ export default {
   }
 }
 
-@-webkit-keyframes left {
+@-webkit-keyframes right {
   12% {
     height: 0;
   }
@@ -240,7 +240,7 @@ export default {
   -webkit-animation-name: right;
   animation-name: right;
 }
-@keyframes right {
+@keyframes left {
   38% {
     height: 0;
   }
@@ -260,7 +260,7 @@ export default {
     height: 0;
   }
 }
-@-webkit-keyframes right {
+@-webkit-keyframes left {
   38% {
     height: 0;
   }

@@ -57,6 +57,10 @@ export default {
         name: 'tiles',
         icon: 'view-quilt',
       },
+      {
+        name: 'issues',
+        icon: 'view-carousel',
+      },
     ],
   },
   media: {

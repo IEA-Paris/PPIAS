@@ -87,7 +87,7 @@ highlight: false
 bibliography: ''
 
 ---
-## Closing Panel - Moving the discussion forward - lessons learned and next steps
+
 
 Closing Panel  by Helga Nowotny (ETH Zurich), Saadi Lahlou (Paris Institute of Advanced Studies, London School of Economics and Political Science), Olivier Bouin (Network for French Institutes of Advanced Study, European Alliance for SSH) et Maxi Heitmayer (London School of Economics and Political Science, University College London).
 

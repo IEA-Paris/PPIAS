@@ -62,6 +62,8 @@ export const mutations = {
     console.log('state[type].apge', state[type].page)
   },
   setFilters(state, { filters, type }) {
+    if (filters[Object.keys(filters)[0]].length)
+      state[type].loading.push(Object.keys(filters)[0])
     Vue.set(
       state[type].filters,
       Object.keys(filters)[0],
@@ -120,6 +122,9 @@ export const mutations = {
     Vue.set(state[type], 'view', defaultView.name)
     Vue.set(state[type], 'sortBy', [defaultSort[0].value[0]])
     Vue.set(state[type], 'sortDesc', [defaultSort[0].value[1]] === 'desc')
+  },
+  setBlankFilterLoad(state, type) {
+    Vue.set(state[type], 'loading', [])
   },
 }
 
@@ -282,14 +287,18 @@ export const actions = {
     }
     console.log('skipNumber: ', skipNumber())
     console.log('pipeline: ', pipeline)
-
+    const sortArray =
+      rootState[type].view === 'issues'
+        ? [
+            rootState[type].sortBy[0],
+            rootState[type].sortDesc[0] ? 'desc' : 'asc',
+          ]
+        : ['issue', rootState[type].sortDesc[0] ? 'desc' : 'asc']
+    console.log('sortArray: ', sortArray)
     let items = await this.$content(type, { deep: true })
       .where(pipeline)
       .search(rootState[type].search)
-      .sortBy(
-        rootState[type].sortBy[0],
-        rootState[type].sortDesc[0] ? 'desc' : 'asc'
-      )
+      .sortBy(...sortArray)
       .skip(skipNumber())
       .limit(rootState[type].itemsPerPage)
       .fetch()
@@ -337,10 +346,6 @@ export const actions = {
     }
     const sortObject = (obj) => Object.fromEntries(Object.entries(obj).sort())
     console.log('query: ', JSON.stringify(query))
-    console.log(
-      'query12: ',
-      JSON.stringify(this.$router.currentRoute.query).replace('"true"', 'true')
-    )
 
     Object.keys(query).forEach((key) =>
       query[key] === undefined ? delete query[key] : {}
@@ -358,7 +363,6 @@ export const actions = {
       })
     }
 
-    const pinnedItem = false
     // fetch the item categories
     if (['articles', 'media'].includes(type)) {
       items = await Promise.all(
@@ -389,18 +393,15 @@ export const actions = {
         (isDesc ? a[sorter] : b[sorter]) - (isDesc ? b[sorter] : a[sorter])
     ) */
     commit('setFiltersCount', type)
+    commit('setBlankFilterLoad', type)
     commit('setItems', {
       items,
       total: totalItems,
       numberOfPages: lastPage,
       type,
     })
-    console.log('STORE OFF')
     commit('setLoading', false)
-    console.log(
-      'Object.keys(window.$nuxt.$root.$loading): ',
-      Object.keys(window.$nuxt.$root.$loading)
-    )
+
     if (
       process.client &&
       Object.keys(window.$nuxt.$root.$loading).length &&

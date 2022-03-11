@@ -12,9 +12,9 @@
         <div class="d-flex flex-column flex-grow-1">
           <div class="d-flex flex-grow-1 align-start">
             <v-img
-              class="mr-2"
+              class="mr-2 logo-container-white"
               :class="{
-                'ml-6': $vuetify.breakpoint.smAndUp,
+                'ml-5': $vuetify.breakpoint.smAndUp,
               }"
               src="/logo_w.png"
               contain
@@ -172,6 +172,9 @@ export default {
   margin-top: 1rem;
   margin-bottom: 1.8rem;
   margin-left: 2.4rem;
+}
+.logo-container-white {
+  border: 4px white solid;
 }
 .menu-logo-1 {
   font-size: 6rem;

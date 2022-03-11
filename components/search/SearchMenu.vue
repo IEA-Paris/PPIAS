@@ -6,13 +6,13 @@
       </v-btn>
     </template>
     <v-card dark color="rgba(0, 0, 0, 0.97)">
-      <v-app-bar color="transparent" clipped flat hide-on-scroll height="180">
+      <v-app-bar color="transparent" clipped flat hide-on-scroll height="140">
         <div class="d-flex flex-column flex-grow-1">
           <div class="d-flex flex-grow-1 align-start">
             <v-img
-              class="mr-2"
+              class="mr-2 logo-container-white"
               :class="{
-                'ml-6': $vuetify.breakpoint.smAndUp,
+                'ml-4': $vuetify.breakpoint.smAndUp,
               }"
               src="/logo_w.png"
               contain
@@ -183,6 +183,7 @@ export default {
       open: this.searchString,
       shouldFocus: false,
       base: this.$route.path,
+      searchStringRaw: '',
     }
   },
   computed: {
@@ -205,9 +206,7 @@ export default {
             }
           } else {
             this.searchStringRaw = newValue
-            this.$router.replace({
-              query: { ...this.$route.query, search: newValue },
-            })
+
             const resultsRaw = await searchContent(this.$content, newValue)
             this.results = {
               articles: resultsRaw[0] || [],
@@ -239,7 +238,6 @@ export default {
     clear() {
       this.shouldFocus = false
       this.open = false
-      this.$store.dispatch('updateSearch', undefined, this.type)
     },
     onIntersect(entries, observer) {
       // More information about these options
@@ -254,6 +252,9 @@ export default {
 </script>
 <style scoped lang="scss">
 $input-font-size: 48px;
+.logo-container-white {
+  border: 4px white solid;
+}
 .menu-logo {
   transition-duration: 0.2s;
   transition-timing-function: ease-in-out;

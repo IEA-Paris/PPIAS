@@ -10,7 +10,7 @@
         v-bind="$attrs"
         class="mx-6"
       >
-        <div class="sidebtn">
+        <div class="article sidebtn">
           <div
             class="d-flex align-center pt-3 pb-1 shadower"
             :class="title ? '' : 'shadow'"
@@ -208,7 +208,7 @@ export default {
 .node:hover .index {
   color: black;
 }
-.sidebtn {
+.article.sidebtn {
   position: sticky;
   top: 0;
   background-color: white;
@@ -219,7 +219,7 @@ export default {
   overflow: hidden;
   padding-bottom: 10px;
 }
-.sidebtn .shadower.shadow {
+.article.sidebtn .shadower.shadow {
   -moz-box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
   -webkit-box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);

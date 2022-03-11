@@ -14,7 +14,7 @@
             outlined
             text
             v-bind="attrs"
-            class="pa-7"
+            class="pa-7 mb-0"
             @click="filter = !filter"
             v-on="on"
           >
@@ -28,14 +28,9 @@
         <span v-html="filter ? $t('hide-filters') : $t('show-filters')"></span>
       </v-tooltip>
     </div>
-    <template v-if="items.length === 0" &&!store.state.loading>
-      <div width="100%" class="my-6 ml-6">
-        <Loader></Loader>
-      </div>
-    </template>
+
     <!--   <IconMenu menu-type="view" :type="type"></IconMenu> -->
     <v-row
-      v-else
       class="transition-swing d-flex"
       :fluid="filter"
       :class="{
@@ -140,13 +135,23 @@
           :filter="filter"
           :type="type"
         ></list-items>
+        <DisplayByIssue
+          v-else-if="view === 'issues'"
+          :data="{ items, total }"
+          :filter="filter"
+          :type="type"
+        ></DisplayByIssue>
         <RegularList
           v-else
           :data="{ items, total }"
           :filter="filter"
           :type="type"
         ></RegularList>
-
+        <template v-if="items.length === 0 && $store.state.loading">
+          <div width="100%" class="my-6 ml-6">
+            <Loader></Loader>
+          </div>
+        </template>
         <!-- TODO update for equivalent after removing datatable -->
         <template v-if="items.length === 0" &&!$store.state.loading>
           <template v-if="!filtersCount">
@@ -163,11 +168,8 @@
               {{ $t('no-result-matching-your-filters') }}
               <br />
               <v-btn
-                v-if="filtersCount"
                 outlined
-                small
-                color="white"
-                class="ma-3"
+                class="my-6"
                 @click="$store.dispatch('resetState', type)"
               >
                 <v-icon left>mdi-refresh</v-icon>
@@ -194,6 +196,7 @@
     </v-row>
 
     <v-container
+      v-if="!$store.state.loading"
       class="footer-pagination d-flex"
       :class="
         $vuetify.breakpoint.smAndDown
@@ -401,7 +404,8 @@ export default {
   margin-left: -1.5rem;
   margin-right: -1.5rem;
   overflow: hidden;
-  padding-bottom: 10px;
+  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 .perPageSelect {
   max-width: 90px;

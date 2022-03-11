@@ -43,8 +43,29 @@ export default async () => {
       (item) => item !== null && item !== ''
     ),
   }
+  // Discipline filters
+  filters.discipline = {
+    type: 'Autocomplete',
+    items: [
+      ...new Set(articles.map((article) => article.disciplines).flat()),
+    ].filter((item) => item),
+  }
+  // Thematics filters
+  filters.thematic = {
+    type: 'Autocomplete',
+    items: [
+      ...new Set(articles.map((article) => article.thematics).flat()),
+    ].filter((item) => item),
+  }
+  // Types filters
+  filters.type = {
+    type: 'Autocomplete',
+    items: [...new Set(articles.map((article) => article.types).flat())].filter(
+      (item) => item
+    ),
+  }
   // Keyword filters
-  filters.tags = {
+  filters.tag = {
     type: 'Autocomplete',
     items: [...new Set(articles.map((article) => article.tags).flat())].filter(
       (item) => item
@@ -63,7 +84,7 @@ export default async () => {
       ),
     ].filter((item) => item),
   }
-  // category filters
+  /*   // category filters
   filters.category = {
     type: 'Autocomplete',
     items: [
@@ -77,7 +98,7 @@ export default async () => {
           .filter((item) => item.length)
       ),
     ],
-  }
+  } */
   fs.writeFileSync(
     './assets/generated/filters.js',
     `/* eslint-disable prettier/prettier */

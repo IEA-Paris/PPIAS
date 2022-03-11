@@ -1,11 +1,5 @@
 <template>
-  <v-select
-    v-model="selected"
-    v-bind="$attrs"
-    multiple
-    menu-props="offset-y"
-    :loading="$nuxt.loading || $store.state.loading"
-  >
+  <v-select v-model="selected" v-bind="$attrs" multiple menu-props="offset-y">
     <template #selection="{ item, index }">
       <SelectionSlot
         :label="false"

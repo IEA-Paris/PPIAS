@@ -16,7 +16,7 @@
   >
     <v-img
       class="mr-2 logo-container"
-      :class="$vuetify.breakpoint.smAndUp ? 'ml-6' : 'ml-3'"
+      :class="$vuetify.breakpoint.smAndUp ? 'ml-4' : 'ml-2'"
       src="/logo_b.png"
       contain
       max-height="120"

@@ -23,6 +23,7 @@
     <component
       :is="filters[filter].type"
       v-for="(filter, name) in Object.keys(filters)"
+      v-show="name < 3 || expanded"
       :key="name + type + filter"
       hide-details
       :dense="$vuetify.breakpoint.sm"
@@ -31,6 +32,7 @@
       :label="$t(filter)"
       min-height="56"
       outlined
+      :loading="$store.state[type].loading.includes(filter)"
       :type="type"
       :filter="filter"
       color="black"
@@ -46,6 +48,12 @@
           : 'mt-0'
       "
     />
+    <v-btn text tile class="ml-n3" small @click="expanded = !expanded">
+      <v-icon left>{{
+        expanded ? 'mdi-chevron-up' : 'mdi-chevron-down'
+      }}</v-icon
+      >{{ expanded ? $t('less-filters') : $t('see-more-filters') }}</v-btn
+    >
   </aside>
 </template>
 <script>
@@ -62,6 +70,7 @@ export default {
     return {
       filters: data[this.type].filters,
       sorters: data[this.type].sort,
+      expanded: false,
     }
   },
   computed: {
@@ -84,9 +93,8 @@ aside {
   left: 250;
   align-self: start;
   max-height: 100vh;
-  overflow-y: scroll;
+  overflow-y: auto;
   overflow-x: hidden;
-  scrollbar-width: thin;
 }
 .search-label {
   display: flex;

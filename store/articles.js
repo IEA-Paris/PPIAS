@@ -23,6 +23,7 @@ export const state = () => ({
     tags: [],
     language: [],
   },
+  loading: [],
   skip: 0,
   limit: lists.articles.perPage.default,
   search: '',
