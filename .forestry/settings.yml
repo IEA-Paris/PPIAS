@@ -56,6 +56,47 @@ sections:
 - type: document
   path: i18n/en.json
   label: English
+- type: document
+  path: i18n/fr.json
+  label: French
+  match: "**/*"
+- type: heading
+  label: Unused translations
+- type: document
+  path: i18n/zh.json
+  label: Chinese
+  match: "**/*"
+- type: document
+  path: i18n/nl.json
+  label: Dutch
+  match: "**/*"
+- type: document
+  path: i18n/de.json
+  label: German
+  match: "**/*"
+- type: document
+  path: i18n/el.json
+  label: Greek
+  match: "**/*"
+- type: document
+  path: i18n/it.json
+  label: Italian
+  match: "**/*"
+- type: document
+  path: i18n/ja.json
+  label: Japanese
+  match: "**/*"
+- type: document
+  path: i18n/pt.json
+  label: Portuguese
+  match: "**/*"
+- type: document
+  path: i18n/ru.json
+  label: Russian
+  match: "**/*"
+- type: document
+  path: i18n/es.json
+  label: Spanish
   match: "**/*"
 upload_dir: static
 public_path: ''
