@@ -158,6 +158,19 @@ fields:
     max: 4
     labelField: 
   label: Discipline(s)
+  fields:
+  - name: category
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: documents
+        section: english
+        file: i18n/en.json
+        path: rules
+    label: Category
 pages:
 - content/articles/Closing Panel-WPRN21.md
 - content/articles/Education & Marginalised Communities - Session 4.md
