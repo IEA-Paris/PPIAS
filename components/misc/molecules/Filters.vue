@@ -44,8 +44,8 @@
           : $store.state[type].filters &&
             $store.state[type].filters[filter] &&
             $store.state[type].filters[filter].length
-          ? 'mt-1'
-          : 'mt-0'
+          ? 'mt-1 mr-1'
+          : 'mt-0 mr-1'
       "
     />
     <v-btn text tile class="ml-n3" small @click="expanded = !expanded">
@@ -95,6 +95,7 @@ aside {
   max-height: 100vh;
   overflow-y: auto;
   overflow-x: hidden;
+  text-align: right;
 }
 .search-label {
   display: flex;
