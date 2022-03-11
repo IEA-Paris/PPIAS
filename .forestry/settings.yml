@@ -51,6 +51,12 @@ sections:
 - type: document
   path: content/pages/tos.md
   label: Terms of use
+- type: heading
+  label: Translations
+- type: document
+  path: i18n/en.json
+  label: English
+  match: "**/*"
 upload_dir: static
 public_path: ''
 front_matter_path: ''
