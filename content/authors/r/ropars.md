@@ -8,6 +8,12 @@ category:
   - content/categories/Fellows.md
   - content/categories/OML.md
 createdAt: '2022-01-21T10:23:03.810Z'
+exerpt: >-
+  Jeanne Ropars est chargée de Recherche au laboratoire Écologie, Systématique,
+  Évolution à l'Université Paris-Saclay, France. Ses recherches portent sur les
+  mécanismes de l’évolution et de l’adaptation, incluant les transferts
+  horizontaux de gènes, la reproduction sexuée, les flux de gènes et la
+  diversité génétique.
 firstname: Jeanne
 language:
   - French

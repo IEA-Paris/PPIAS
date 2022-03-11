@@ -7,6 +7,12 @@ categories:
 category:
   - content/categories/WPRN21.md
 createdAt: '2022-02-01T15:13:30.061Z'
+exerpt: >-
+  Among other academic responsibilities, member of the Scientific Committee of
+  the Fondazione Feltrinelli (Milan, Italy), of the Institute for Advanced Study
+  in Humanities (Edinburgh, United Kingdom), of the Center for Advanced Study –
+  Southern and Eastern Europe (Rijeka, Croatia) and of the Austrian Presidential
+  Conference for Social Sciences and Hu
 firstname: Olivier
 language:
   - English

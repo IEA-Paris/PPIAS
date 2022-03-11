@@ -8,6 +8,9 @@ category:
   - content/categories/Fellows.md
   - content/categories/OML.md
 createdAt: '2022-01-14T16:39:17.952Z'
+exerpt: >-
+  Anne Pitkowski est directrice de recherche et open innovation dans le groupe
+  Bel
 firstname: Anne
 language:
   - French

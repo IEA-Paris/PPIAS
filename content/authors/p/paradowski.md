@@ -2,6 +2,13 @@
 articles:
   - Education & Marginalised Communities - Session 4
 createdAt: '2022-01-14T16:39:17.948Z'
+exerpt: >-
+
+  Michał B. Paradowski is an associate professor and teacher trainer at the
+  Institute of Applied Linguistics, University of Warsaw. His interests include
+  second and third language acquisition research, foreign language teaching,
+  multilingualism and bilingual education, translanguaging, English as a lingua
+  franca, Study Abroad, social network analysi
 firstname: Michał B.
 lastname: 'Paradowski '
 picture: ''

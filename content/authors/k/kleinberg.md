@@ -8,6 +8,12 @@ categories:
 category:
   - content/categories/WPRN21.md
 createdAt: '2022-01-14T16:39:17.956Z'
+exerpt: >-
+  Bennett Kleinberg is an Assistant Professor at the Department of Methodology
+  and Statistics at Tilburg University and an Honorary Associate Professor at
+  the Department of Security and Crime Science at University College London. His
+  research interests are between the behavioural (and social) sciences and
+  natural language processing. Some projects ar
 firstname: Bennett
 language:
   - English

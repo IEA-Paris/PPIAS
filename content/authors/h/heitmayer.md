@@ -11,6 +11,12 @@ category:
   - content/categories/WPRN21.md
   - content/categories/WPRN.md
 createdAt: '2022-02-01T15:13:30.061Z'
+exerpt: >-
+  Maxi Heitmayer is a Social Psychologist working on the situated use of
+  technologies and especially smartphones. His research is based on the use of
+  digital video ethnography techniques (SEBE) to study how users interact with
+  their devices in naturally occurring contexts, which routines and behavioural
+  patterns they have developed, and how this infl
 firstname: Maxi
 language:
   - English

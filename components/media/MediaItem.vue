@@ -18,8 +18,8 @@
         <ArticleCategories :item="item" />
       </template>
       <template #caption>
-        {{ item.caption }}
-      </template>
+        <span v-html="highlightWord(item.caption)"></span
+      ></template>
       <template #date>
         <div class="d-flex mx-1">
           {{
@@ -36,6 +36,7 @@
   </v-card>
 </template>
 <script>
+import { highlight } from '~/assets/utils/transforms'
 export default {
   props: {
     item: {
@@ -50,7 +51,13 @@ export default {
   },
   computed: {},
   mounted() {},
-  methods: {},
+  methods: {
+    highlightWord(word = '') {
+      return this.$store.state.media.search
+        ? highlight(word, this.$store.state.media.search || '')
+        : word
+    },
+  },
 }
 </script>
 <style lang="scss"></style>

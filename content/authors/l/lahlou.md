@@ -17,6 +17,12 @@ category:
   - content/categories/WPRN.md
   - content/categories/OML.md
 createdAt: '2022-01-14T16:39:17.952Z'
+exerpt: >-
+  Professor Saadi Lahlou is chair in Social Psychology at the London School of
+  Economics and Political Science and Director of the Paris Institute for
+  Advanced Study. He has a multi-disciplinary background (statistics, economics,
+  human biology, ethology and ecology, psychology and cognitive sccience). He
+  directed the Consumer Research Department at C
 firstname: Saadi
 language:
   - English

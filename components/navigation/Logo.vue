@@ -15,9 +15,9 @@
     "
   >
     <v-img
-      class="mr-2"
+      class="mr-2 logo-container"
       :class="$vuetify.breakpoint.smAndUp ? 'ml-6' : 'ml-3'"
-      src="/icon.png"
+      src="/logo_b.png"
       contain
       max-height="120"
       max-width="120"
@@ -78,6 +78,9 @@ export default {
 }
 </script>
 <style>
+.logo-container {
+  border: 4px black solid;
+}
 .main-title-select,
 .main-title {
   max-width: 25rem;

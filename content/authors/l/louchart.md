@@ -10,6 +10,12 @@ categories:
 category:
   - content/categories/WPRN.md
 createdAt: '2022-01-17T14:32:20.295Z'
+exerpt: >-
+  Diplômée d’une école de journalisme et d’un master de sciences politiques,
+  ancienne collaboratrice parlementaire, Aurélie Louchart coordonne la
+  publication d'un réseau de recherche en sciences humaines et sociale et a mis
+  au centre de son travail et de ses activités citoyennes la vulgarisation de
+  sujets complexes.
 firstname: Aurélie
 language:
   - English

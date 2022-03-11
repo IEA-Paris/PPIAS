@@ -2,6 +2,7 @@
 articles:
   - News_Media_Coverage_Session_1
 createdAt: '2022-01-17T18:18:56.540Z'
+exerpt: ''
 firstname: Angeliki
 lastname: Monnier
 picture: ''

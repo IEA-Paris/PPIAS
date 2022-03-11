@@ -1,5 +1,11 @@
 ---
 createdAt: '2022-02-09T13:11:22.536Z'
+exerpt: >-
+  Philippe Aghion is an expert in the economics of growth and in contract
+  theory. His Schumpeterian Growth paradigm, which he developed together with
+  Peter Howitt, has been used to analyze the design of growth policies and the
+  role of the state in economic growth. Among other prestigious awards and
+  honors, he has been awarded the Yrjo Jahnsson Award 
 firstname: 'Philippe '
 lastname: Aghion
 picture: ''

@@ -28,9 +28,14 @@
         <span v-html="filter ? $t('hide-filters') : $t('show-filters')"></span>
       </v-tooltip>
     </div>
-
+    <template v-if="items.length === 0" &&!store.state.loading>
+      <div width="100%" class="my-6 ml-6">
+        <Loader></Loader>
+      </div>
+    </template>
     <!--   <IconMenu menu-type="view" :type="type"></IconMenu> -->
     <v-row
+      v-else
       class="transition-swing d-flex"
       :fluid="filter"
       :class="{
@@ -45,11 +50,13 @@
         :lg="filter ? 9 : 11"
         :md="filter ? 9 : 12"
         :sm="filter ? 7 : 12"
-        class="transition-swing pt-0 text-left"
-        :class="{ 'pl-0': !$store.state.scrolled || $vuetify.breakpoint.xs }"
+        class="transition-swing pt-0"
+        :class="{
+          'pl-0': filter || $vuetify.breakpoint.xs,
+        }"
       >
         <v-container
-          class="transition-swing pt-0 ml-0"
+          class="transition-swing pt-0"
           :fluid="!$store.state.scrolled"
           :class="{
             'px-0 mb-3': $store.state.scrolled && $vuetify.breakpoint.xs,
@@ -75,6 +82,10 @@
                 <template v-if="filtersCount"
                   >{{ $tc('with-activefilters-filters', [filtersCount]) }}
                 </template>
+                <!--  TODO add sort & view info -->
+                <!--            <template v-if="sortBy">
+                  Sorted by {{$t(sortBy[0])}} ()
+               </template> -->
                 <template v-if="filtersCount || search">- </template>
                 {{
                   $tc('total-' + type, total) +
@@ -115,50 +126,29 @@
             ></v-row
           ></v-container
         >
-        <template v-if="$nuxt.loading">
-          <v-progress-linear
-            indeterminate
-            rounded
-            height="6"
-          ></v-progress-linear>
-          <v-container style="height: 400px">
-            <v-row class="fill-height" align-content="center" justify="center">
-              <v-col align="center" cols="12">
-                <v-img src="/loading.gif" height="250" width="250"></v-img>
-              </v-col>
-            </v-row>
-          </v-container>
-        </template>
 
-        <template v-else>
-          <FrontTiles
-            v-if="view === 'tiles'"
-            :data="{ items, total }"
-            :filter="filter"
-            :sections="Math.ceil(itemsPerPage / 3)"
-            :type="type"
-          ></FrontTiles>
-          <list-items
-            v-else-if="view === 'list'"
-            :data="{ items, total }"
-            :filter="filter"
-            :type="type"
-          ></list-items>
-          <RegularList
-            v-else
-            :data="{ items, total }"
-            :filter="filter"
-            :type="type"
-          ></RegularList>
-        </template>
+        <FrontTiles
+          v-if="view === 'tiles'"
+          :data="{ items, total }"
+          :filter="filter"
+          :sections="Math.ceil(itemsPerPage / 3)"
+          :type="type"
+        ></FrontTiles>
+        <list-items
+          v-else-if="view === 'list'"
+          :data="{ items, total }"
+          :filter="filter"
+          :type="type"
+        ></list-items>
+        <RegularList
+          v-else
+          :data="{ items, total }"
+          :filter="filter"
+          :type="type"
+        ></RegularList>
 
-        <template v-if="items.length === 0">
-          <div width="100%" class="my-6 ml-6">
-            {{ $t('no-result-found') }}
-          </div>
-        </template>
         <!-- TODO update for equivalent after removing datatable -->
-        <template #no-result>
+        <template v-if="items.length === 0" &&!$store.state.loading>
           <template v-if="!filtersCount">
             <div class="my-6 ml-6" width="100%">
               {{ $t('no-result-found') }}
@@ -329,19 +319,6 @@ export default {
           value: v,
           type: this.type,
         })
-        this.$vuetify.goTo(0)
-      },
-    },
-    options: {
-      get() {
-        return {
-          itemsPerPage: this.$store.state[this.type].itemsPerPage,
-          page: this.$store.state[this.type].page,
-          sortBy: this.$store.state[this.type].sortBy,
-          sortDesc: this.$store.state[this.type].sortDesc,
-        }
-      },
-      set(v) {
         this.$vuetify.goTo(0)
       },
     },

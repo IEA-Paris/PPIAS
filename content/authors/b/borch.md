@@ -2,6 +2,7 @@
 articles:
   - Emotions and Coping During Crisis - Session 6
 createdAt: '2022-01-14T16:39:17.952Z'
+exerpt: ''
 firstname: Kristin Benjaminsen
 lastname: 'Borch '
 picture: ''

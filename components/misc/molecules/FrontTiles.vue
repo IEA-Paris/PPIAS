@@ -1,9 +1,11 @@
 <template>
   <v-container
     v-scroll="onScroll"
-    class="transition-swing ml-0"
+    class="transition-swing"
     :fluid="!$store.state.scrolled"
-    :class="({ 'pl-0': filter }, $store.state.scrolled ? 'pt-6' : 'px-0 pt-0')"
+    :class="
+      ({ 'pl-0 ml-0': filter }, $store.state.scrolled ? 'pt-6' : 'px-0 pt-0')
+    "
   >
     <v-row
       v-for="section in Math.min(sections, Math.ceil(data.items.length / 3))"

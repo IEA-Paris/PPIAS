@@ -7,6 +7,12 @@ categories:
 category:
   - content/categories/WPRN21.md
 createdAt: '2022-01-24T15:20:42.230Z'
+exerpt: >-
+  Zhang Xiaobo is a distinguished chair professor of economics at the Guanghua
+  School of Management, Peking University, and a senior fellow of IFPRI. His
+  research fields include development economics, agricultural economics,
+  industrial organization, and the Chinese economy. He received the Sun Yefang
+  Prize for Economics Research in China (the most pr
 firstname: Xiaobo
 language:
   - English

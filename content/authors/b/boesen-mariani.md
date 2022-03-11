@@ -8,6 +8,9 @@ category:
   - content/categories/Fellows.md
   - content/categories/OML.md
 createdAt: '2022-01-21T10:23:03.810Z'
+exerpt: >-
+  Sabine Boesen Mariani was Senior Team Leader - User Experience (UX) Pediatrics
+  at Danone Nutricia Research, Utrecht
 firstname: Sabine
 language:
   - French

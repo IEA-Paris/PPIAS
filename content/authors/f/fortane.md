@@ -9,6 +9,12 @@ category:
   - content/categories/Fellows.md
   - content/categories/OML.md
 createdAt: '2022-01-17T18:18:56.540Z'
+exerpt: >-
+  Nicolas Fortané est chargé de recherche en sociologie à INRAE (IRISSO,
+  Université Paris-Dauphine) et actuellement chercheur associé à la London
+  School of Hygiene and Tropical Medicine où il collabore avec la AMIS team et
+  le AMR Centre. Il travaille sur les politiques publiques de santé animale et
+  la profession vétérinaire, plus particulièrement sur
 firstname: Nicolas
 language:
   - French

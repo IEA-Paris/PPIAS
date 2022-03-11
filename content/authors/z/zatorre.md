@@ -1,5 +1,12 @@
 ---
 createdAt: '2022-01-10T10:45:35.930Z'
+exerpt: >-
+
+  Robert Zatorre is a cognitive neuroscientist who is an expert in auditory
+  cognition, focusing on human understanding of speech and music. He has worked
+  on many, if not all, aspects of human auditory processing using modern
+  brain-imaging techniques like functional and structural MRI, MEG and EEG, and
+  brain stimulation techniques, together with cogn
 firstname: 'Robert '
 lastname: Zatorre
 picture: ''

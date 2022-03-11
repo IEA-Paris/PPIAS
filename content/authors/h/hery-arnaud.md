@@ -8,6 +8,11 @@ category:
   - content/categories/Fellows.md
   - content/categories/OML.md
 createdAt: '2022-01-17T18:18:56.540Z'
+exerpt: >-
+  Geneviève Hery-Arnaud est Professeure des Universités à l'Université de
+  Bretagne Occidentale, et praticienne hospitalière au Centre Hospitalier
+  Régional Universitaire de Brest-NSERM UMR 1078, Axe Microbiota-Unité de
+  Bactériologie.
 firstname: Geneviève
 language:
   - French

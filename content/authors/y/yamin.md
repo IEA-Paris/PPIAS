@@ -8,6 +8,14 @@ categories:
 category:
   - content/categories/WPRN21.md
 createdAt: '2022-01-14T16:39:17.956Z'
+exerpt: >-
+  Paulius is an alumnus of the PhD programme at the Department of Psychological
+  and Behavioural Science, and is the current Managing Director of the Center
+  for Social Norms and Behavioral Dynamics at the University of Pennsylvania.
+
+
+  Paulius also co-founded and acted as Managing Partner of the Behavioural Lab
+  LT (Lithuania), an international network o
 firstname: Paulius
 language:
   - English

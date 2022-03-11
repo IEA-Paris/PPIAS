@@ -8,6 +8,12 @@ category:
   - content/categories/Fellows.md
   - content/categories/OML.md
 createdAt: '2022-01-17T18:18:56.540Z'
+exerpt: >-
+  Thierry Naas est directeur du Centre National de Recherche de l'APHP associé
+  résistance aux antibiotiques : Entérobactéries productrices de carbapénèmases.
+  Il est aussi directeur de l'équipe de recherche dédiée à l'étude des
+  mécanismes de résistance aux antibiotiques de l'Université de Paris-Saclay et
+  Maître de conférence praticien hospitalier en b
 firstname: Thierry
 language:
   - French

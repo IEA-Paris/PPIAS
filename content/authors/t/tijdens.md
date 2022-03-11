@@ -2,6 +2,12 @@
 articles:
   - Session 3 - Economic & Financial Impacts
 createdAt: '2022-01-17T14:32:20.295Z'
+exerpt: >-
+  Dr. Kea Tijdens is a Research Coordinator at AIAS/University of Amsterdam and
+  a Professor of Women’s Work at the Department of Sociology, Erasmus University
+  Rotterdam. She studied Sociology and Psychology at Groningen University, and
+  obtained her PhD in Sociology in 1989. She is the scientific coordinator
+  WageIndicator and a member of Webdatanet, I
 firstname: Kea
 lastname: 'Tijdens  '
 picture: ''

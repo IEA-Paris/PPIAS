@@ -8,6 +8,10 @@ category:
   - content/categories/Fellows.md
   - content/categories/OML.md
 createdAt: '2022-01-21T10:23:03.810Z'
+exerpt: >-
+  Geneviève Teil est chercheuse en sociologie à l'INRA. Elle s'intéresse aux
+  questions de la circulation marchande des produits de qualité, du goût des
+  consommateurs, et des prescriptions relatives à la consommation.
 firstname: Geneviève
 language:
   - French

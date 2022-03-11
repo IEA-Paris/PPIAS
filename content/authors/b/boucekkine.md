@@ -7,6 +7,12 @@ categories:
 category:
   - content/categories/WPRN21.md
 createdAt: '2022-01-24T15:20:42.230Z'
+exerpt: >-
+  Raouf Boucekkine is Professor of economics and finance at Rennes School of
+  Business, on leave from Aix-Marseille School of Economics, where he has been
+  based since 2011. He has been elected fellow of the Econometric Society in
+  2020, and he is honorary senior fellow of the Institut Universitaire de
+  France, being nominated senior member in 2014. Raou
 firstname: Raouf
 language:
   - English

@@ -1,7 +1,7 @@
 <template>
   <div class="frame">
     <div class="overlay">
-      <div class="top">
+      <div class="top-item">
         <!--       <div v-if="hasContent('categories')" class="d-flex">
           <slot name="categories"></slot>
         </div> -->
@@ -16,7 +16,7 @@
           <div></div>
         </div>
       </div>
-      <div v-if="hasContent('date')" class="bottom">
+      <div v-if="hasContent('date')" class="bottom-item">
         <span class="caption-date">
           <slot name="date"></slot>
         </span>
@@ -70,7 +70,7 @@ export default {
   z-index: 2;
   justify-content: space-between;
 }
-.top {
+.top-item {
   display: flex;
   flex-direction: column;
   align-items: flex-end;

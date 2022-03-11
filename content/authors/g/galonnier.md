@@ -16,6 +16,11 @@ category:
   - content/categories/WPRN.md
   - content/categories/WPRN21.md
 createdAt: '2022-02-10T15:25:07.660Z'
+exerpt: >-
+  Après un master de politiques publiques, spécialité administration publique à
+  Sciences Po, Victor Galonnier a été chargé de mission en économie circulaire
+  au Ministère de la Transition écologique et solidaire, France. Il rédige des
+  notes de recherche à destination des décideurs publics.
 firstname: Victor
 language:
   - English

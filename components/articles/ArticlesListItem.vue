@@ -99,9 +99,12 @@
           <v-tooltip bottom :disabled="item.article_title.length < 85">
             <!-- eslint-disable-next-line vue/no-unused-vars -->
             <template #activator="{ on, attrs }">
-              <div class="text-h6 article-title" v-bind="attrs" v-on="on">
-                {{ item.article_title }}
-              </div>
+              <div
+                class="text-h6 article-title"
+                v-bind="attrs"
+                v-on="on"
+                v-html="highlightWord(item.article_title)"
+              ></div>
             </template>
             <span v-html="item.article_title"></span>
           </v-tooltip>
@@ -113,8 +116,13 @@
         </div>
         <v-divider vertical class="mr-6 ml-3"></v-divider>
         <div>
-          <div class="article-abstract">{{ item.abstract }}</div>
-          <v-btn class="mt-6 d-block" tile outlined>Read more</v-btn>
+          <div
+            class="article-abstract"
+            v-html="highlightWord(item.abstract)"
+          ></div>
+          <v-btn class="mt-6 d-block" tile outlined>{{
+            $t('read-more')
+          }}</v-btn>
         </div>
       </div>
     </v-card>
@@ -122,6 +130,7 @@
   </div>
 </template>
 <script>
+import { highlight } from '~/assets/utils/transforms'
 export default {
   props: {
     item: {
@@ -138,7 +147,13 @@ export default {
   },
   computed: {},
   mounted() {},
-  methods: {},
+  methods: {
+    highlightWord(word = '', query) {
+      return this.$store.state.articles.search
+        ? highlight(word, this.$store.state.articles.search || '')
+        : word
+    },
+  },
 }
 </script>
 <style lang="scss">

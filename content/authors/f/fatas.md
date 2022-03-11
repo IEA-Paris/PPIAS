@@ -7,6 +7,12 @@ categories:
 category:
   - content/categories/WPRN21.md
 createdAt: '2022-01-21T10:23:03.810Z'
+exerpt: >-
+  Enrique Fatas is a Distinguished Fellow from Loughborough University in
+  Loughborough, England. He is Professor at the Center for Social Norms and
+  Behavioral Dynamics at the University of Pennsylvania. His research focuses on
+  the behavioral determinants of institutional performance and the behavioral
+  consequences of political conflict using an inter
 firstname: Enrique
 language:
   - English

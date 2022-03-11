@@ -1,5 +1,11 @@
 ---
 createdAt: '2022-02-09T13:11:22.540Z'
+exerpt: >-
+  Jack Copeland’s expertise lies in cognitive science, mathematical logic, and
+  philosophy of computation. In 2020 he was awarded the Te Apārangi Humanities
+  Aronui Medal ‘for research into the foundations, philosophy and history of
+  computing’. The citation for the American Philosophical Association’s Barwise
+  Prize, awarded in 2017, describes him as ‘t
 firstname: 'Jack '
 lastname: Copeland
 picture: ''

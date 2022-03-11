@@ -2,6 +2,12 @@
 articles:
   - Emotions and Coping During Crisis - Session 6
 createdAt: '2022-01-14T16:39:17.956Z'
+exerpt: >-
+  Dr Christian Waugh is currently an Associate Professor of Psychology at Wake
+  Forest University. He received his PhD in Social Psychology and Cognitive
+  Neuroscience from the University of Michigan where he worked with Dr. Barbara
+  Fredrickson on the role of positive emotions in social cognition and
+  resilience. After receiving his PhD, he did a postdo
 firstname: Christian
 lastname: 'Waugh '
 picture: ''

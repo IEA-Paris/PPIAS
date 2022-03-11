@@ -2,6 +2,7 @@
 articles:
   - Local Contexts & Policy - Session 5
 createdAt: '2022-01-17T18:18:56.536Z'
+exerpt: ''
 firstname: 'Gabriel Hoh Teck '
 lastname: Ling
 picture: ''

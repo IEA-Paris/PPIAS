@@ -1,8 +1,8 @@
 <template>
   <v-container
     v-scroll="onScroll"
-    class="transition-swing pt-0 ml-0"
-    :class="$store.state.scrolled ? 'mt-n4' : 'mt-n2'"
+    class="transition-swing pt-0"
+    :class="[$store.state.scrolled ? 'mt-n4' : 'mt-n2', { 'ml-0': filter }]"
     :fluid="!$store.state.scrolled"
   >
     <v-row class="transition-swing" :no-gutters="!$store.state.scrolled">

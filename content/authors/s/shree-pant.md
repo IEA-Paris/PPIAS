@@ -2,6 +2,7 @@
 articles:
   - Local Contexts & Policy - Session 5
 createdAt: '2022-01-17T18:18:56.528Z'
+exerpt: ''
 firstname: 'Shiwanee '
 lastname: Shree Pant
 picture: ''

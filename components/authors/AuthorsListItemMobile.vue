@@ -51,13 +51,11 @@
             small
           /> -->
         <div :id="slugifyItem(item.lastname)" class="anchor"></div>
-        <div
-          v-html="highlight(item.firstname + ' ' + item.lastname, search)"
-        ></div>
+        <div v-html="highlightWord(item.firstname + ' ' + item.lastname)"></div>
         <v-list-item-subtitle class="mt-2 d-inline-flex text-subtitle-1">
           <div
             class="text-subtitle-2 mb-1"
-            v-html="highlight(getTitlesAndInstitutions(item), search)"
+            v-html="highlightWord(getTitlesAndInstitutions(item))"
           ></div>
         </v-list-item-subtitle>
       </div>
@@ -66,7 +64,10 @@
 </template>
 <script>
 import slugify from '~/assets/utils/slugify'
-import { formatTitleAndInstitutions } from '~/assets/utils/transforms'
+import {
+  formatTitleAndInstitutions,
+  highlight,
+} from '~/assets/utils/transforms'
 
 export default {
   props: {
@@ -83,10 +84,6 @@ export default {
       required: true,
       type: Number,
     },
-    search: {
-      type: String,
-      default: '',
-    },
   },
   data() {
     return {}
@@ -98,29 +95,14 @@ export default {
       return slugify(item)
     },
     getTitlesAndInstitutions(item) {
-      console.log(
-        'item?.titles_and_institutions?.length: ',
-        item?.titles_and_institutions?.length
-      )
-      console.log(
-        'item?.titles_and_institutions?.length',
-        item?.titles_and_institutions?.length
-          ? formatTitleAndInstitutions(item.titles_and_institutions)
-          : ''
-      )
       return item?.titles_and_institutions?.length
         ? formatTitleAndInstitutions(item.titles_and_institutions)
         : ''
     },
-    highlight: (word = '', query) => {
-      const check = new RegExp(query, 'ig')
-      return word.replace(check, function (matchedText, a, b) {
-        return (
-          '<strong style="color: darkslategray;background-color: yellow;">' +
-          matchedText +
-          '</strong>'
-        )
-      })
+    highlightWord(word = '', query) {
+      return this.$store.state.authors.search
+        ? highlight(word, this.$store.state.authors.search || '')
+        : word
     },
   },
 }

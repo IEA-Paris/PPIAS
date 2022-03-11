@@ -191,5 +191,7 @@
   "select-a-view": "Select a view",
   "sort-the-type-by": "Sort the {0}...",
   "this-article-is-available-online-at-env-name-articles-item-slug": "This article is available online at {0}/articles/{1}",
-  "this-part-is-still-under-construction": "This part is still under construction."
+  "this-part-is-still-under-construction": "This part is still under construction.",
+  "read-more": "Read more",
+  "loading": "Loading"
 }

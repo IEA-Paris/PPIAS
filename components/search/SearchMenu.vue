@@ -14,7 +14,7 @@
               :class="{
                 'ml-6': $vuetify.breakpoint.smAndUp,
               }"
-              src="/icon_dark.png"
+              src="/logo_w.png"
               contain
               max-height="120"
               max-width="120"

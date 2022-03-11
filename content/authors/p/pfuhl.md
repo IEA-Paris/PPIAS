@@ -2,6 +2,12 @@
 articles:
   - Emotions and Coping During Crisis - Session 6
 createdAt: '2022-01-14T16:39:17.952Z'
+exerpt: >-
+  Gerit Pfuhl  is Associate Professor in Cognitive Sciences at UiT, The Arctic
+  University of Norway. She received a grant from the Norwegian research council
+  to investigate aberrant decision making along the autism-psychosis continuum.
+  That is, her research interest is in (ir)rationality and decision-making under
+  uncertainty. In her lab a variety of 
 firstname: Gerit
 lastname: Pfuhl
 picture: ''

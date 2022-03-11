@@ -131,7 +131,6 @@
   </v-row>
 </template>
 <script>
-import truncateString from '~/assets/utils/truncate'
 export default {
   props: {
     item: {
@@ -179,19 +178,6 @@ export default {
   },
   updated() {},
   methods: {
-    truncateString(str = '') {
-      return truncateString(str, 250)
-    },
-    highlight: (word = '', query) => {
-      const check = new RegExp(query, 'ig')
-      return word.replace(check, function (matchedText, a, b) {
-        return (
-          '<strong style="color: darkslategray;background-color: yellow;">' +
-          matchedText +
-          '</strong>'
-        )
-      })
-    },
     _srcset(src) {
       return this.$img.getSizes(src, {
         sizes: 'xs:100vw sm:100vw md:100vw lg:100vw xl:100vw',

@@ -7,6 +7,12 @@ categories:
 category:
   - content/categories/WPRN21.md
 createdAt: '2022-01-24T15:20:42.230Z'
+exerpt: >-
+  Marc Fleurbaey is Research Director at National Centre for Scientific Research
+  (CNRS) and Professor at Paris School of Economics. Previously, he was Robert
+  E. Kuenne Professor in Economics and Humanistic Studies at Princeton
+  University (Woodrow Wilson School and Center for Human Values) and member of
+  the Collège d’Etudes Mondiales (Paris FMSH). He 
 firstname: Marc
 language:
   - English

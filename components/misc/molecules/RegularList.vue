@@ -3,7 +3,11 @@
     v-scroll="onScroll"
     class="transition-swing mb-12"
     :fluid="!$store.state.scrolled"
-    :class="{ 'py-0': !$store.state.scrolled, 'pl-0': filter }"
+    :class="{
+      'py-0': !$store.state.scrolled,
+      'pl-0': filter,
+      'mt-6': $store.state.loading,
+    }"
   >
     <v-row
       class="transition-swing"

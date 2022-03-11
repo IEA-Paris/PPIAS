@@ -192,16 +192,20 @@ export const highlightAndTruncate = (stop, word, query, url, link) => {
   } catch (error) {}
 }
 
-export const highlight = (word, query) => {
-  query.forEach((element) => {
-    const check = new RegExp(element, 'ig')
-    word = word.replace(check, function (matchedText, a, b) {
-      return (
-        '<strong style="color: darkslategray;background-color: yellow;">' +
-        matchedText +
-        '</strong>'
-      )
-    })
+export const highlight = (word, query = '') => {
+  // TODO replace hard coded colors/lengths by config variables
+  const stopwords = ['this']
+
+  const tokens = query.split(/\W+/).filter(function (token) {
+    token = token.toLowerCase()
+    return token.length >= 2 && !stopwords.includes(token)
+  })
+  tokens.forEach((token) => {
+    const regex = new RegExp(token, 'gi')
+    word = word.replaceAll(
+      regex,
+      '<strong style="color: white;background-color: black;">$&</strong>'
+    )
   })
   return word
 }

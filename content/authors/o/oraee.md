@@ -33,6 +33,12 @@ category:
   - content/categories/WPRN.md
   - content/categories/ICA.md
 createdAt: '2022-01-10T13:54:22.946Z'
+exerpt: >-
+  Atrina Oraee is a PhD student in the Department of Psychological and
+  Behavioural Science (PBS) at the London School of Economics and Political
+  Science. Her research is based on the use of digital video ethnography
+  techniques (SEBE) to study how human beings experience judement and
+  decision-making in naturally occurring contexts. She is the Graduate
 firstname: Atrina
 language:
   - ''

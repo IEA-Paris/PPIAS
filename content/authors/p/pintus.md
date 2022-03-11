@@ -2,6 +2,13 @@
 articles:
   - Local Contexts & Policy - Session 5
 createdAt: '2022-01-17T18:18:56.528Z'
+exerpt: >-
+
+  Patrick Pintus est directeur scientifique au CNRS-INSHS, professeur à
+  Aix-Marseille Université. Il a obtenu son doctorat à l’EHESS. Il a travaillé à
+  UCLA, Washington University (St Louis), à la Banque fédérale de réserve de
+  Saint-Louis et à l’Université de Constance. La plupart de ses travaux
+  académiques portent sur les attentes en macroéconomie, 
 firstname: Patrick
 lastname: Pintus
 picture: ''

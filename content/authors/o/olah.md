@@ -3,6 +3,7 @@ articles:
   - Emotions and Coping During Crisis - Session 6
   - Masks, Vaccinations & Compliance - Session 2
 createdAt: '2022-01-14T16:39:17.952Z'
+exerpt: ''
 firstname: Andrew R.
 lastname: Olah
 picture: ''

@@ -130,8 +130,10 @@ export default async (content) => {
   authorsDocs = [...authorsDocs, ...secondPass.second]
   // replace the titles and institutions array of object by an array of arrays (prismjs related?)
   authorsDocs = authorsDocs.map((item) => {
+    console.log('item: ', item.text)
     return {
       ...item,
+      exerpt: item.text?.length ? item.text.slice(0, 350) : '',
       titles_and_institutions:
         item.titles_and_institutions &&
         Object.keys(item.titles_and_institutions).map((el) => {

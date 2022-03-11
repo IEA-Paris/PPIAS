@@ -7,6 +7,12 @@ categories:
 category:
   - content/categories/WPRN21.md
 createdAt: '2022-01-24T15:20:42.230Z'
+exerpt: >-
+  Ted Loch-Temzelides, Ph.D., is the George and Cynthia Mitchell Professor in
+  Sustainable Development at the Department of Economics and a James A. Baker
+  III Institute for Public Policy Center for Energy Studies Scholar at Rice
+  University. His research interests include the energy transition towards a
+  sustainable economy, conservation agreements, glo
 firstname: Ted
 language:
   - English

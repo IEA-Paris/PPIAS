@@ -1,7 +1,17 @@
 <template>
   <div class="transition-swing">
-    <v-card nuxt :to="localePath('/authors/' + item.slug)" flat>
-      <v-row class="mt-6" no-gutters>
+    <div v-if="$store.state.loading">
+      <v-skeleton-loader
+        :class="index > 0 ? 'mt-6' : 'mt-12'"
+        tile
+        size="160"
+        max-width="1000"
+        type="list-item-avatar-three-line"
+      ></v-skeleton-loader>
+      <v-divider></v-divider>
+    </div>
+    <v-card v-else nuxt :to="localePath('/authors/' + item.slug)" flat>
+      <v-row :class="{ 'mt-6': index > 0 }" no-gutters>
         <v-col
           v-if="$vuetify.breakpoint.mdAndUp"
           cols="3"
@@ -37,11 +47,11 @@
           <div :id="slugifyItem(item.lastname)" class="anchor"></div>
           <div
             :class="$vuetify.breakpoint.xl ? 'text-h4' : 'text-h5'"
-            v-html="highlight(item.firstname + ' ' + item.lastname, search)"
+            v-html="highlightWord(item.firstname + ' ' + item.lastname)"
           ></div>
           <div
             class="text-subtitle-2 mb-1"
-            v-html="highlight(getTitlesAndInstitutions(item), search)"
+            v-html="highlightWord(getTitlesAndInstitutions(item))"
           ></div>
           <div
             v-if="$vuetify.breakpoint.smAndDown"
@@ -49,9 +59,10 @@
           >
             <AuthorSocials :socials="socials"></AuthorSocials>
           </div>
-          <div class="author-exerpt">
-            <nuxt-content :document="item" />
-          </div>
+          <div
+            class="author-exerpt text-subtitle-1"
+            v-html="highlightWord(item.exerpt)"
+          ></div>
           <small v-if="item.copyright" class="muted caption"
             >Image of &copy; {{ item.copyright }}</small
           >
@@ -63,16 +74,19 @@
 </template>
 <script>
 import slugify from '~/assets/utils/slugify'
-import { formatTitleAndInstitutions } from '~/assets/utils/transforms'
+import {
+  formatTitleAndInstitutions,
+  highlight,
+} from '~/assets/utils/transforms'
 export default {
   props: {
     item: {
       type: Object,
       default: () => {},
     },
-    search: {
-      type: String,
-      default: '',
+    index: {
+      required: true,
+      type: Number,
     },
   },
   data() {
@@ -170,29 +184,14 @@ export default {
       return slugify(item)
     },
     getTitlesAndInstitutions(item) {
-      console.log(
-        'item?.titles_and_institutions?.length: ',
-        item?.titles_and_institutions?.length
-      )
-      console.log(
-        'item?.titles_and_institutions?.length',
-        item?.titles_and_institutions?.length
-          ? formatTitleAndInstitutions(item.titles_and_institutions)
-          : ''
-      )
       return item?.titles_and_institutions?.length
         ? formatTitleAndInstitutions(item.titles_and_institutions)
         : ''
     },
-    highlight: (word = '', query) => {
-      const check = new RegExp(query, 'ig')
-      return word.replace(check, function (matchedText, a, b) {
-        return (
-          '<strong style="color: darkslategray;background-color: yellow;">' +
-          matchedText +
-          '</strong>'
-        )
-      })
+    highlightWord(word = '') {
+      return this.$store.state.authors.search
+        ? highlight(word, this.$store.state.authors.search || '')
+        : word
     },
   },
 }
@@ -216,5 +215,10 @@ div.anchor {
   position: relative;
   top: -100px;
   visibility: hidden;
+}
+.v-skeleton-loader__avatar {
+  height: 120px !important;
+  width: 120px !important;
+  margin-left: 15px;
 }
 </style>

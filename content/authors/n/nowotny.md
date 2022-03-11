@@ -7,6 +7,7 @@ categories:
 category:
   - content/categories/WPRN21.md
 createdAt: '2022-01-10T10:45:35.930Z'
+exerpt: ''
 firstname: Helga
 language:
   - English

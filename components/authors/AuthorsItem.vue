@@ -1,17 +1,25 @@
 <template>
-  <v-hover v-slot="{ hover }">
-    <v-card
-      :elevation="hover ? 2 : 0"
-      flat
-      nuxt
-      :to="localePath('/authors/' + item.slug)"
-      class="text-h5 ma-2 pa-2"
-    >
-      {{ item.firstname + ' ' + item.lastname }}
-    </v-card>
-  </v-hover>
+  <div>
+    <v-skeleton-loader
+      v-if="$store.state.loading"
+      type="heading"
+      :height="40"
+    ></v-skeleton-loader>
+    <v-hover v-else v-slot="{ hover }">
+      <v-card
+        :elevation="hover ? 2 : 0"
+        flat
+        nuxt
+        :to="localePath('/authors/' + item.slug)"
+        class="text-h5 ma-2 pa-2"
+        v-html="highlightWord(item.firstname + ' ' + item.lastname)"
+      >
+      </v-card>
+    </v-hover>
+  </div>
 </template>
 <script>
+import { highlight } from '~/assets/utils/transforms'
 export default {
   props: {
     item: {
@@ -37,15 +45,10 @@ export default {
   computed: {},
   created() {},
   methods: {
-    highlight: (word = '', query) => {
-      const check = new RegExp(query, 'ig')
-      return word.replace(check, function (matchedText, a, b) {
-        return (
-          '<strong style="color: darkslategray;background-color: yellow;">' +
-          matchedText +
-          '</strong>'
-        )
-      })
+    highlightWord(word = '') {
+      return this.$store.state.authors.search
+        ? highlight(word, this.$store.state.authors.search || '')
+        : word
     },
   },
 }

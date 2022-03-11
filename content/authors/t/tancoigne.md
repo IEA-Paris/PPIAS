@@ -4,6 +4,7 @@ articles:
 category:
   - content/categories/Fellows.md
   - content/categories/OML.md
+exerpt: ''
 firstname: Élise
 language:
   - French

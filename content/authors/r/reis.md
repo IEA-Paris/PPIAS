@@ -7,6 +7,12 @@ categories:
 category:
   - content/categories/WPRN21.md
 createdAt: '2022-01-24T15:20:42.230Z'
+exerpt: >-
+  Elisa Reis is Prof. of Political Sociology at the Federal U. of Rio de Janeiro
+  (UFRJ). She obtained her BA (sociology) and MA (political science) in Brazil
+  and her PhD (political science) from MIT. She has been visiting professor at
+  several universities including UC San Diego, Columbia U., MIT, and the Ludwig
+  Maximilian Universität, Munich. She cha
 firstname: Elisa
 language:
   - English
