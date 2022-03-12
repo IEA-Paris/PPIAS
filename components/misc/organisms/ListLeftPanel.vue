@@ -56,6 +56,7 @@
           :class="{
             'px-0 mb-3': $store.state.scrolled && $vuetify.breakpoint.xs,
             'pb-0': $vuetify.breakpoint.smAndUp,
+            'ml-0': filter,
           }"
         >
           <v-row

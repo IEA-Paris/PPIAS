@@ -5,6 +5,7 @@
     :src="$img(src, { height, quality: 70 })"
     :srcset="_srcset.srcset"
     :sizes="_srcset.size"
+    v-bind="$attrs"
   ></v-img>
 </template>
 <script>

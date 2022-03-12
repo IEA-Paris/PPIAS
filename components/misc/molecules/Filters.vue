@@ -102,7 +102,6 @@ aside {
   align-items: center;
   justify-content: center;
   text-transform: uppercase;
-  color: #666666;
   font-weight: 700;
   color: rgba(0, 0, 0, 0.6);
   font-family: 'Open sans', sans-serif;

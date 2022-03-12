@@ -60,7 +60,10 @@
         style="background-color: white"
       >
         <v-card flat align="center">
-          <PageTitle :text="item.article_title" class="pa-6 article-title" />
+          <PageTitle
+            :text="item.article_title"
+            class="pa-6 article-title w-100"
+          />
           <v-card-text
             ref="zenreader"
             class="d-flex zenreader text-justify justify-self-center"

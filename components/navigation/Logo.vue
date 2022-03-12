@@ -1,6 +1,6 @@
 <template>
   <div
-    class="d-flex"
+    class="d-flex logo-container"
     @click="
       $store.dispatch('resetState', 'articles') &&
         $store.dispatch('resetState', 'media') &&
@@ -15,12 +15,10 @@
     "
   >
     <v-img
-      class="mr-2 logo-container"
-      :class="$vuetify.breakpoint.smAndUp ? 'ml-4' : 'ml-2'"
       src="/logo_b.png"
       contain
-      max-height="120"
-      max-width="120"
+      :lazy-src="$img('/logo_b.png', { width: 10, quality: 70 })"
+      alt="Avatar"
       style="cursor: pointer"
     ></v-img>
     <!--  <div>
@@ -80,6 +78,8 @@ export default {
 <style>
 .logo-container {
   border: 4px black solid;
+  width: 120px;
+  height: 120px;
 }
 .main-title-select,
 .main-title {
