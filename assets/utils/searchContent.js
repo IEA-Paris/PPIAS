@@ -36,6 +36,6 @@ export default async ($content, search) => {
       .only('[]')
       .fetch(),
   ])
-  console.log('result: ', result)
+  console.log('search result: ', result)
   return result
 }

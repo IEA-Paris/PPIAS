@@ -79,9 +79,7 @@ export default {
     },
   },
   created() {},
-  mounted() {
-    console.log('fitler', this.$store.state[this.type].filters[this.name])
-  },
+  mounted() {},
   methods: {},
 }
 </script>

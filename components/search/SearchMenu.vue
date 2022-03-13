@@ -194,8 +194,6 @@ export default {
       async set(newValue) {
         if (!this.$store.state.loading && !this.$nuxt.loading) {
           if (!newValue) {
-            console.log('pushin no new val')
-
             this.results = {
               articles: [],
               media: [],

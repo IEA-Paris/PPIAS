@@ -70,7 +70,6 @@
     "graphql-tag": "^2.10.3",
     "jest": "^27.0.5",
     "js-yaml": "^4.1.0",
-    "nodegit": "^0.27.0",
     "nuxt-compress": "^5.0.0",
     "nuxt-content-highlight": "^0.1.10",
     "nuxt-jsonld": "^1.4.10",

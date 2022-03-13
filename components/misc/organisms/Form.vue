@@ -86,11 +86,6 @@ export default {
   mounted() {},
   methods: {
     itemRules(input) {
-      /*       console.log('input: ', input)
-      console.log('inputs: ', this.inputs)
-      console.log('this.tab: ', this.tab)
-      console.log('this.type: ', this.type) */
-
       const itemRawRules = this.tab
         ? forms[this.type][this.tab][input]?.rules
         : forms[this.type][input]?.rules

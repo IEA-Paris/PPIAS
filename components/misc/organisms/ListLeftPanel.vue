@@ -138,7 +138,7 @@
         ></list-items>
         <DisplayByIssue
           v-else-if="view === 'issues'"
-          :data="{ items, total }"
+          :data="{ items, total, issues }"
           :filter="filter"
           :type="type"
         ></DisplayByIssue>
@@ -367,10 +367,11 @@ export default {
     items() {
       return this.$store.state[this.type].items
     },
+    issues() {
+      return this.$store.state[this.type].issues
+    },
   },
   async mounted() {
-    console.log('MOUNTED')
-
     this.$store.commit('loadRouteQuery', this.type)
     this.filter =
       this.$store.state[this.type].filtersCount > 0 ||

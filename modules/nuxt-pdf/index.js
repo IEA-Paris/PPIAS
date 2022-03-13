@@ -206,7 +206,7 @@ module.exports = async function PDF(moduleOptions) {
     let listener
     try {
       if (buildArgs.generated) {
-        console.log('nuxt-pdf: Starting nuxt instance p')
+        console.log('nuxt-pdf: Starting nuxt instance ')
         const { loadNuxt } = require('nuxt')
 
         // Check if we need to run Nuxt in development mode

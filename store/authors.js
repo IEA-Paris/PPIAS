@@ -30,7 +30,7 @@ export const state = () => ({
   page: 1,
   view: defaultView.name,
   sortBy: [defaultSort[0].value[0]],
-  sortDesc: [defaultSort[0].value[1] === 'desc'],
+  sortDesc: defaultSort[0].value[1] === 'desc',
   numberOfPages: 0,
   itemsPerPage: lists.authors.perPage.default,
   itemsPerPageArray: lists.authors.perPage.options,

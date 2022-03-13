@@ -69,7 +69,7 @@ export default {
                 this.items[item].value.join('') ===
                 (this.$store.state[this.type].sortBy[0] ||
                   this.defaultSort.value[0]) +
-                  (this.$store.state[this.type].sortDesc[0] ? 'desc' : 'asc')
+                  (this.$store.state[this.type].sortDesc ? 'desc' : 'asc')
               )
             })
           ] || this.items[Object.keys(this.items).find((item) => item.default)]

@@ -2,11 +2,11 @@ import path from 'path'
 import fs from 'fs'
 import { dump } from 'js-yaml'
 import fsExtra from 'fs-extra'
-import { Repository, Tree, Diff } from 'nodegit'
+/* import { Repository, Tree, Diff } from 'nodegit' */
 import slugify from '../../assets/utils/slugify'
 import { formatAuthors } from '../../assets/utils/transforms'
 
-export const getStagedChanges = async () => {
+/* export const getStagedChanges = async () => {
   const emptyTree = '4b825dc642cb6eb9a060e54bf8d69288fbee4904'
   const repo = await Repository.open(path.resolve('./.git'))
 
@@ -17,8 +17,8 @@ export const getStagedChanges = async () => {
   const tree = await (head ? head.getTree() : Tree.lookup(repo, emptyTree))
   const diff = await Diff.treeToIndex(repo, tree, null)
   const patches = await diff.patches()
-  /*   console.log(patches.map((patch) => patch.newFile().path())) */
-}
+   console.log(patches.map((patch) => patch.newFile().path())) 
+} 
 async function print() {
   const repo = await Repository.open(path.resolve('./.git'))
   const diff = await Diff.indexToWorkdir(repo, null, {
@@ -34,12 +34,12 @@ async function print() {
       patch.hunks().then((hunks) => {
         hunks.forEach((hunk) => {
           hunk.lines().then((lines) => {
-            /*        console.log('diff', patch.oldFile().path(), patch.newFile().path())
-            console.log(hunk.header().trim()) */
+                    console.log('diff', patch.oldFile().path(), patch.newFile().path())
+            console.log(hunk.header().trim()) 
             lines.forEach((line) => {
-              /*      console.log(
+                    console.log(
                 String.fromCharCode(line.origin()) + line.content().trim()
-              ) */
+              ) 
             })
           })
         })
@@ -50,7 +50,7 @@ async function print() {
   return diff
 }
 
-print().catch((err) => console.error(err))
+print().catch((err) => console.error(err)) */
 /**
  * Performs a deep merge of objects and returns new object. Does not modify
  * objects (immutable) and merges arrays via concatenation.
@@ -134,7 +134,8 @@ export default ` +
   const { $content } = require('@nuxt/content')
   // TODO : replace {published:true} with dynamic filters from import
   const articles = await $content('articles', { deep: true })
-    .where({ published: true })
+    // TODO check that custom_PDF is correctly evaluated
+    .where({ published: true, custom_pdf: true })
     .fetch()
   return articles.map((article) => {
     // if the file has been changed

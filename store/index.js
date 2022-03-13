@@ -32,7 +32,6 @@ export const mutations = {
         Vue.set(state[type].filters, filter, filters[filter])
       })
     }
-    console.log('LOAD ROUTE QUREYR')
 
     if (query.view) Vue.set(state[type], 'view', query.view)
     if (query.page) {
@@ -40,7 +39,6 @@ export const mutations = {
     } else {
       Vue.set(state[type], 'page', 1)
     }
-    console.log(' query.sortBy: ', query.sortBy)
 
     const defaultSort = [
       lists[type].sort[
@@ -49,23 +47,18 @@ export const mutations = {
         )
       ],
     ]
-    console.log('query.sortBy: ', query.sortBy)
-    if (query.sortBy) Vue.set(state[type], 'sortBy', query.sortBy)
-    console.log('query.sortDesc: ', query.sortDesc)
-    console.log('defaultSort[1]: ', defaultSort[0].value[1])
-    if (query.sortDesc !== undefined)
-      Vue.set(
-        state[type],
-        'sortDesc',
-        query.sortDesc || defaultSort[0].value[1] === 'desc'
-      )
-    console.log('state[type]: ', state[type].sortDesc)
+    if (query.sortBy) Vue.set(state[type], 'sortBy', [query.sortBy])
+
+    if (typeof query.sortDesc !== 'undefined') {
+      Vue.set(state[type], 'sortDesc', !!(query.sortDesc === 'true'))
+    } else {
+      Vue.set(state[type], 'sortDesc', !!(defaultSort[0].value[1] === 'desc'))
+    }
   },
   setSearch(state, { search, type }) {
     state[type].search = search
   },
   setItems(state, { type, ...values }) {
-    console.log('type: ', type)
     state[type].items = values.items
     state[type].total = values.total
     state[type].numberOfPages = values.numberOfPages
@@ -74,9 +67,7 @@ export const mutations = {
     state[type].itemsPerPage = value
   },
   setPage(state, { page, type }) {
-    console.log('page: ', page, type)
     Vue.set(state[type], 'page', page)
-    console.log('state[type].apge', state[type].page)
   },
   setFilters(state, { filters, type }) {
     if (filters[Object.keys(filters)[0]].length)
@@ -88,16 +79,13 @@ export const mutations = {
     )
   },
   setSort(state, { value, type }) {
-    console.log('values: ', value)
     state[type].sortBy = [value[0]]
-    state[type].sortDesc = [value[1] === 'desc']
+    state[type].sortDesc = value[1] === 'desc'
   },
   setView(state, { value, type }) {
     state[type].view = value
   },
   setFiltersCount(state, type) {
-    console.log('rootState: ', state)
-    console.log('type: ', type)
     const filters = state[type].filters
     const filtersCount = Object.keys(filters)
       // remove empty values
@@ -127,7 +115,6 @@ export const mutations = {
         )
       ],
     ]
-    console.log('defaultSort: ', defaultSort)
     Vue.set(state[type], 'filters', {
       years: [],
       category: [],
@@ -138,7 +125,7 @@ export const mutations = {
     Vue.set(state[type], 'search', '')
     Vue.set(state[type], 'view', defaultView.name)
     Vue.set(state[type], 'sortBy', [defaultSort[0].value[0]])
-    Vue.set(state[type], 'sortDesc', [defaultSort[0].value[1]] === 'desc')
+    Vue.set(state[type], 'sortDesc', defaultSort[0].value[1] === 'desc')
   },
   setBlankFilterLoad(state, type) {
     Vue.set(state[type], 'loading', [])
@@ -224,7 +211,7 @@ export const actions = {
         (Array.isArray(filters[filter]) && filters[filter].length)
       ) {
         // check if we are matching against an array value
-        if (['tags'].includes(filter)) {
+        if (['tags', 'thematic', 'discipline', 'type'].includes(filter)) {
           pipeline[filter] = { $containsAny: val }
           // years to date special case
           // TODO make a fancy feature to limit the gte lt
@@ -306,11 +293,8 @@ export const actions = {
     console.log('pipeline: ', pipeline)
     const sortArray =
       rootState[type].view === 'issues'
-        ? ['issue', rootState[type].sortDesc[0] ? 'desc' : 'asc']
-        : [
-            rootState[type].sortBy[0],
-            rootState[type].sortDesc[0] ? 'desc' : 'asc',
-          ]
+        ? ['issue', rootState[type].sortDesc ? 'desc' : 'asc']
+        : [rootState[type].sortBy[0], rootState[type].sortDesc ? 'desc' : 'asc']
     console.log('sortArray: ', sortArray)
     let items = await this.$content(type, { deep: true })
       .where(pipeline)
@@ -346,12 +330,10 @@ export const actions = {
         rootState[type].sortBy[0] !== defaultSort.value[0] && {
           sortBy: rootState[type].sortBy[0],
         }),
-      ...(rootState[type].sortDesc?.length &&
-        (rootState[type].sortDesc[0] ? 'desc' : 'asc') !==
+      ...(typeof rootState[type].sortDesc !== 'undefined' &&
+        (rootState[type].sortDesc ? 'desc' : 'asc') !==
           defaultSort.value[1] && {
-          sortDesc: !!(
-            rootState[type].sortDesc[0] || defaultSort.value[1] === 'desc'
-          ),
+          sortDesc: !!rootState[type].sortDesc,
         }),
       ...(rootState[type].view &&
         rootState[type].view !== defaultView.name && {
@@ -365,16 +347,25 @@ export const actions = {
     console.log('query: ', JSON.stringify(query))
 
     Object.keys(query).forEach((key) =>
-      query[key] === undefined ? delete query[key] : {}
+      query[key] === undefined
+        ? delete query[key]
+        : // convert boolean to string
+        typeof query[key] === 'boolean'
+        ? query[key] === query[key].toString()
+        : {}
     )
+    console.log(JSON.stringify(sortObject(query)))
+    console.log(JSON.stringify(sortObject(this.$router.currentRoute.query)))
     console.log(
       'should replace',
       JSON.stringify(sortObject(this.$router.currentRoute.query)) !==
         JSON.stringify(sortObject(query))
     )
     if (
-      JSON.stringify(this.$router.currentRoute.query) !== JSON.stringify(query)
+      JSON.stringify(this.$router.currentRoute.query) !==
+      JSON.stringify(sortObject(query))
     ) {
+      // TODO fix these damn false positives (lead: see if pre-resolving the route before replacing it is possible/relevant or come up with another way to compare query & store)
       this.$router.replace({
         query,
       })
