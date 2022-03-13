@@ -34,15 +34,32 @@ export const mutations = {
     }
     console.log('LOAD ROUTE QUREYR')
 
-    if (query.view) Vue.set(state, 'view', query.view)
+    if (query.view) Vue.set(state[type], 'view', query.view)
     if (query.page) {
-      Vue.set(state, 'page', query.page)
+      Vue.set(state[type], 'page', query.page)
     } else {
-      Vue.set(state, 'page', 1)
+      Vue.set(state[type], 'page', 1)
     }
-    if (query.sortBy) Vue.set(state, 'sortBy', query.sortBy)
+    console.log(' query.sortBy: ', query.sortBy)
+
+    const defaultSort = [
+      lists[type].sort[
+        Object.keys(lists[type].sort).find(
+          (item) => lists[type].sort[item].default === true
+        )
+      ],
+    ]
+    console.log('query.sortBy: ', query.sortBy)
+    if (query.sortBy) Vue.set(state[type], 'sortBy', query.sortBy)
     console.log('query.sortDesc: ', query.sortDesc)
-    if (query.sortDesc) Vue.set(state, 'sortDesc', query.sortDesc)
+    console.log('defaultSort[1]: ', defaultSort[0].value[1])
+    if (query.sortDesc !== undefined)
+      Vue.set(
+        state[type],
+        'sortDesc',
+        query.sortDesc || defaultSort[0].value[1] === 'desc'
+      )
+    console.log('state[type]: ', state[type].sortDesc)
   },
   setSearch(state, { search, type }) {
     state[type].search = search

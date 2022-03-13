@@ -44,7 +44,7 @@ export default {
   props: {
     type: {
       type: String,
-      default: '',
+      default: 'articles',
       required: true,
     },
   },
@@ -61,19 +61,23 @@ export default {
   },
   computed: {
     current() {
-      const current =
-        this.items[
-          Object.keys(this.items).find((item) => {
-            return (
-              this.items[item].value.join('') ===
-              (this.$store.state[this.type].sortBy[0] ||
-                this.defaultSort.value[0]) +
-                (this.$store.state[this.type].sortDesc[0] ? 'desc' : 'asc')
-            )
-          })
-        ] || this.items[Object.keys(this.items).find((item) => item.default)]
-
-      return current
+      try {
+        const current =
+          this.items[
+            Object.keys(this.items).find((item) => {
+              return (
+                this.items[item].value.join('') ===
+                (this.$store.state[this.type].sortBy[0] ||
+                  this.defaultSort.value[0]) +
+                  (this.$store.state[this.type].sortDesc[0] ? 'desc' : 'asc')
+              )
+            })
+          ] || this.items[Object.keys(this.items).find((item) => item.default)]
+        return current
+      } catch (error) {
+        console.log('error: ', error)
+        return this.items[Object.keys(this.items).find((item) => item.default)]
+      }
     },
   },
   mounted() {},
