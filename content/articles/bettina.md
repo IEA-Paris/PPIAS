@@ -6,7 +6,7 @@ keywords: []
 date: 2022-03-14T13:38:55Z
 language: English
 disciplines: ''
-published: false
+published: true
 article_title: Stockolm + 50
 authors:
 - firstname: Bettina
