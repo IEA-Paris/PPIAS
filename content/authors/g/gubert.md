@@ -20,6 +20,7 @@ issue:
   - content/issues/10-12-2021.md
 language:
   - ''
+  - English
 lastname: Gubert
 picture: ''
 picture_copyright: ''

@@ -179,7 +179,7 @@ export default {
 .menu-logo-1 {
   font-size: 6rem;
   font-weight: 700;
-  font-family: 'Petrona';
+  font-family: 'Bodoni Moda';
   letter-spacing: 0.2px;
 }
 .menu-logo-2 {
@@ -197,7 +197,7 @@ export default {
 .v-app-bar--is-scrolled .menu-logo-1 {
   font-size: 3rem !important;
   font-weight: 700;
-  font-family: 'Petrona';
+  font-family: 'Bodoni Moda';
   letter-spacing: 0.2px;
 }
 .v-app-bar--is-scrolled .menu-logo-2 {

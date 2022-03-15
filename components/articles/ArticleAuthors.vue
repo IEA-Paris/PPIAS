@@ -10,6 +10,7 @@
       <AuthorsListItem
         :item="{ ...author, slug: slugify(author.lastname) }"
         extended
+        :index="index"
       ></AuthorsListItem>
     </div>
   </div>

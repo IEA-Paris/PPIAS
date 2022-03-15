@@ -4,8 +4,7 @@ export default async () => {
   const { $content } = require('@nuxt/content')
   // TODO add .only() to limit the data fetched
   const articles = await $content('articles').fetch()
-  const categories = await $content('categories').fetch()
-  console.log('categories: ', categories)
+  const issues = await $content('issues').fetch()
   // year filter
   filters.years = {
     type: 'Select',

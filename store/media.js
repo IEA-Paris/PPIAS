@@ -19,9 +19,12 @@ export const state = () => ({
   total: 0,
   filters: {
     years: [],
-    category: [],
+    issue: [],
     tags: [],
     language: [],
+    thematic: [],
+    discipline: [],
+    type: [],
   },
   loading: [],
   skip: 0,

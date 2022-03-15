@@ -17,7 +17,7 @@
     <v-img
       src="/logo_b.png"
       contain
-      :lazy-src="$img('/logo_b.png', { width: 10, quality: 70 })"
+      :lazy-src="$img('/logo_b.png', { width: 30, quality: 70 })"
       alt="Avatar"
       style="cursor: pointer"
     ></v-img>
@@ -87,7 +87,7 @@ export default {
   font-size: 1.8rem;
   line-height: 1;
   font-weight: 700;
-  font-family: 'Petrona';
+  font-family: 'Bodoni Moda';
   display: inline-flex;
 }
 .main-title {
@@ -107,7 +107,7 @@ export default {
   background: transparent !important;
 }
 .domain-select .v-list-item__content {
-  font-family: 'Petrona' !important;
+  font-family: 'Bodoni Moda' !important;
   font-weight: 900;
   line-height: 1 !important;
 }

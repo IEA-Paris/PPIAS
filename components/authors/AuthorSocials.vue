@@ -10,6 +10,7 @@
           :href="social.link"
           target="_blank"
           tile
+          @click.stop
           v-on="on"
         >
           <v-icon>{{ social.icon }}</v-icon></v-btn

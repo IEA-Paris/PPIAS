@@ -115,11 +115,15 @@ export const mutations = {
         )
       ],
     ]
+    // TODO make dynamic based on an ~/assets located file
     Vue.set(state[type], 'filters', {
       years: [],
-      category: [],
+      issue: [],
       tags: [],
       language: [],
+      thematic: [],
+      discipline: [],
+      type: [],
     })
 
     Vue.set(state[type], 'search', '')
@@ -217,7 +221,7 @@ export const actions = {
           // TODO make a fancy feature to limit the gte lt
         } else if (['language'].includes(filter)) {
           pipeline.language = { $containsAny: val }
-        } else if (filter === 'category') {
+        } else if (filter === 'issue') {
           pipeline.push({
             issue:
               val.length > 1
@@ -358,13 +362,15 @@ export const actions = {
     // fetch the item categories
     if (['articles', 'media'].includes(type)) {
       items = await Promise.all(
-        await items.map(async (item) => {
-          if (item.issue && item.issue.length)
-            item.issue = await this.$content(
+        await items.map((item) => {
+          if (item.issue && item.issue.length) {
+            console.log(item.issue)
+            /*           item.issue = await this.$content(
               item.issue.split('/').slice(1).join('/').split('.')[0] // TODO fix (cmon)
             )
               .only(['title', 'color'])
-              .fetch()
+              .fetch() */
+          }
           return item
         })
       )

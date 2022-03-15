@@ -95,12 +95,12 @@
         </TextFingerprint>
       </div>
       <div class="ml-6 my-3 d-flex" :class="index > 0 ? 'mt-n1' : ' mt-0'">
-        <div class="article-title">
+        <div class="">
           <v-tooltip bottom :disabled="item.article_title.length < 85">
             <!-- eslint-disable-next-line vue/no-unused-vars -->
             <template #activator="{ on, attrs }">
               <div
-                class="text-h6 article-title"
+                class="article-title"
                 v-bind="attrs"
                 v-on="on"
                 v-html="highlightWord(item.article_title)"
@@ -168,10 +168,11 @@ export default {
   display: -webkit-box;
   width: 320px;
   min-width: 320px;
-  font-family: 'Petrona';
+  font-family: 'Bodoni Moda';
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  font-weight: 600;
 }
 .article-authors {
   font-size: 1rem !important;

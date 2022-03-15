@@ -1,7 +1,9 @@
 <template>
   <v-row class="transition-swing flex-row-reverse">
     <v-col
-      :cols="toc && !$vuetify.breakpoint.smAndDown ? 9 : 12"
+      :cols="
+        item.toc && item.toc.length && $vuetify.breakpoint.mdAndUp ? 9 : 12
+      "
       class="transition-swing"
     >
       <div
@@ -15,7 +17,10 @@
             class="d-flex align-center pt-3 pb-1 shadower"
             :class="title ? '' : 'shadow'"
           >
-            <v-tooltip bottom>
+            <v-tooltip
+              v-if="item.toc && item.toc.length && $vuetify.breakpoint.mdAndUp"
+              bottom
+            >
               <template #activator="{ on, attrs }">
                 <v-btn
                   tile
@@ -115,7 +120,7 @@
     </v-col>
     <v-col
       v-show="toc"
-      v-if="$vuetify.breakpoint.mdAndUp"
+      v-if="$vuetify.breakpoint.mdAndUp && item.toc && item.toc.length"
       :cols="toc ? 3 : 1"
       class="transition-swing"
     >

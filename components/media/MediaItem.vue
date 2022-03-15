@@ -14,9 +14,9 @@
       v-if="item.id && item.id.length"
       :item="{ ...item, yt: item.id }"
     >
-      <template #categories>
+      <!--       <template #categories>
         <ArticleCategories :item="item" />
-      </template>
+      </template> -->
       <template #caption>
         <span v-html="highlightWord(item.caption)"></span
       ></template>

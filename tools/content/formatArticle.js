@@ -8,7 +8,6 @@ export default (document, database) => {
     /*   */
     document.footnotes = []
     document.media = []
-    console.log('document.date : ')
     document.years =
       (document.date && document.date.getFullYear()) ||
       new Date().now().getFullYear()

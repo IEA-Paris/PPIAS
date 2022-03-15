@@ -55,9 +55,9 @@ export default {
       })
       .fetch()
 
-    item.issue = await $content(
+    /*     item.issue = await $content(
       item[0]?.issue.split('/').slice(1).join('/').split('.')[0] || false // TODO shameful => fix
-    ).fetch()
+    ).fetch() */
 
     return {
       item,

@@ -1,5 +1,5 @@
 /* eslint-disable no-useless-escape */
-import includeCategories from './includeCategories'
+/* import includeCategories from './includeCategories' */
 import addCountMap from './addCountMap'
 import getDOI from './getDOI'
 import formatArticle from './formatArticle'
@@ -20,7 +20,7 @@ export default {
       document = {
         ...addCountMap(document),
         ...formatArticle(document, database),
-        ...includeCategories(document, database),
+        /*         ...includeCategories(document, database), */
         ...getDOI(document),
       }
     },

@@ -74,7 +74,7 @@ export default async (content) => {
 
   // fetch all authors documents
   let authorsDocs = await $content('authors', { deep: true }).fetch()
-  const categories = await $content('categories', { deep: true }).fetch()
+  const issues = await $content('issues', { deep: true }).fetch()
   // and all the authors defined in the articles frontmatter
   const articles = await $content('articles', { deep: true })
     .where({ published: true })
@@ -126,7 +126,6 @@ export default async (content) => {
   authorsDocs = [...authorsDocs, ...secondPass.second]
   // replace the titles and institutions array of object by an array of arrays (prismjs related?)
   authorsDocs = authorsDocs.map((item) => {
-    console.log('item: ', item.text)
     return {
       ...item,
       exerpt: item.text?.length ? item.text.slice(0, 350) : '',

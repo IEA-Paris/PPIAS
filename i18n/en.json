@@ -464,7 +464,6 @@
   "years": "Year",
   "reset-your-search-filters": "Reset search",
   "with-activefilters-filters": "with no filters | with {count} filter | with {count} filters",
-  "category": "Collection",
   "searching-for-string": "Searching for \"{0}\"",
   "searching": "Searching",
   "show-filters": "Show filters",

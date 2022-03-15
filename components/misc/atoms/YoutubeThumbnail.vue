@@ -1,8 +1,8 @@
 <template>
   <Item style="background-color: black">
-    <template #categories>
+    <!--     <template #categories>
       <slot name="categories"></slot>
-    </template>
+    </template> -->
     <template #caption>
       <slot name="caption"></slot>
     </template>
