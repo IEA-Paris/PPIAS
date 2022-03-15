@@ -16,7 +16,7 @@ keywords:
 date: 2021-12-09T13:00:09.000+00:00
 language: English
 published: false
-article_title: 'Economic and Financial Impacts : Session 3'
+article_title: Economic and Financial Impacts - Session 3
 authors:
 - lastname: Smart
   firstname: 'Jenny '
