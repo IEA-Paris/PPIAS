@@ -15,6 +15,8 @@ exerpt: >-
   horizontaux de gènes, la reproduction sexuée, les flux de gènes et la
   diversité génétique.
 firstname: Jeanne
+issue:
+  - content/issues/10-12-2021.md
 language:
   - French
 lastname: Ropars

@@ -17,6 +17,8 @@ exerpt: >-
   Paulius also co-founded and acted as Managing Partner of the Behavioural Lab
   LT (Lithuania), an international network o
 firstname: Paulius
+issue:
+  - content/issues/10-12-2021.md
 language:
   - English
 lastname: Yamin

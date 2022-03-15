@@ -14,6 +14,8 @@ exerpt: >-
   Régional Universitaire de Brest-NSERM UMR 1078, Axe Microbiota-Unité de
   Bactériologie.
 firstname: Geneviève
+issue:
+  - content/issues/10-12-2021.md
 language:
   - French
 lastname: Héry-Arnaud

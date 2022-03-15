@@ -14,6 +14,8 @@ exerpt: >-
   University (Woodrow Wilson School and Center for Human Values) and member of
   the Collège d’Etudes Mondiales (Paris FMSH). He 
 firstname: Marc
+issue:
+  - content/issues/10-12-2021.md
 language:
   - English
 lastname: Fleurbaey

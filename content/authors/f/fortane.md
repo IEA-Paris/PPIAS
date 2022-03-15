@@ -16,6 +16,8 @@ exerpt: >-
   le AMR Centre. Il travaille sur les politiques publiques de santé animale et
   la profession vétérinaire, plus particulièrement sur
 firstname: Nicolas
+issue:
+  - content/issues/10-12-2021.md
 language:
   - French
 lastname: Fortané

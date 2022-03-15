@@ -218,30 +218,14 @@ export const actions = {
         } else if (['language'].includes(filter)) {
           pipeline.language = { $containsAny: val }
         } else if (filter === 'category') {
-          pipeline.$or.push(
-            ...[
-              {
-                category_1:
-                  val.length > 1
-                    ? {
-                        $in: val.map(
-                          (item) => 'content/categories/' + item + '.md'
-                        ),
-                      }
-                    : 'content/categories/' + val[0] + '.md',
-              },
-              {
-                category_2:
-                  val.length > 1
-                    ? {
-                        $in: val.map(
-                          (item) => 'content/categories/' + item + '.md'
-                        ),
-                      }
-                    : 'content/categories/' + val[0] + '.md',
-              },
-            ]
-          )
+          pipeline.push({
+            issue:
+              val.length > 1
+                ? {
+                    $in: val.map((item) => 'content/issues/' + item + '.md'),
+                  }
+                : 'content/issues/' + val[0] + '.md',
+          })
         } else if (filter === 'years') {
           const yearsToInt = val.map((i) => +i)
           if (['articles', 'media'].includes(type)) {
@@ -375,16 +359,9 @@ export const actions = {
     if (['articles', 'media'].includes(type)) {
       items = await Promise.all(
         await items.map(async (item) => {
-          if (item.category_1 && item.category_1.length)
-            item.category_1 = await this.$content(
-              item.category_1.split('/').slice(1).join('/').split('.')[0]
-            )
-              .only(['title', 'color'])
-              .fetch()
-          if (item.category_2 && item.category_2.length)
-            item.category_2 = await this.$content(
-              // TODO fix (or keep as a lesson) this shameful display of bad string manipulation. One slice could do it, no?
-              item.category_2.split('/').slice(1).join('/').split('.')[0]
+          if (item.issue && item.issue.length)
+            item.issue = await this.$content(
+              item.issue.split('/').slice(1).join('/').split('.')[0] // TODO fix (cmon)
             )
               .only(['title', 'color'])
               .fetch()
@@ -392,7 +369,6 @@ export const actions = {
         })
       )
     }
-    console.log('items: ', items)
     /*     const isDesc = rootState[type].sortDesc[0] || defaultSort.value[1]
     const sorter = rootState[type].sortBy[0] || defaultSort.value[0]
     console.log('sorter: ', sorter)

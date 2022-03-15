@@ -168,6 +168,7 @@ export default {
   display: -webkit-box;
   width: 320px;
   min-width: 320px;
+  font-family: 'Petrona';
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;

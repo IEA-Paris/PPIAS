@@ -14,6 +14,8 @@ exerpt: >-
   University. His research interests include the energy transition towards a
   sustainable economy, conservation agreements, glo
 firstname: Ted
+issue:
+  - content/issues/10-12-2021.md
 language:
   - English
 lastname: Loch-Temzelides

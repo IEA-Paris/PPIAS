@@ -6,6 +6,6 @@ export default {
     { text: 'support', path: '/support' },
     { text: 'pressroom', path: '/pressroom' },
     { text: 'privacy_policy', path: '/privacy_policy' },
-    { text: 'tos', path: '/tos' },
+    { text: 'tos', path: '/terms_of_service' },
   ],
 }

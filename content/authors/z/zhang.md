@@ -14,6 +14,8 @@ exerpt: >-
   industrial organization, and the Chinese economy. He received the Sun Yefang
   Prize for Economics Research in China (the most pr
 firstname: Xiaobo
+issue:
+  - content/issues/10-12-2021.md
 language:
   - English
 lastname: Zhang

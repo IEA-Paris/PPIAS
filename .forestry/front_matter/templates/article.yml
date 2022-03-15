@@ -45,32 +45,6 @@ fields:
     min: 12
     max: 1000
   label: Abstract
-- name: category_1
-  type: select
-  default: []
-  config:
-    required: true
-    options: []
-    source:
-      type: pages
-      section: categories
-      file: 
-      path: 
-  label: Category 1
-  description: Will be displayed first
-- name: category_2
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: categories
-      file: 
-      path: 
-  label: Category 2
-  description: Will be displayed second (facultative)
 - name: issue
   type: select
   default: []

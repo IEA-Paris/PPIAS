@@ -1,11 +1,10 @@
 ---
 articles:
   - Our Microbial Lives - table-ronde 2
-category:
-  - content/categories/Fellows.md
-  - content/categories/OML.md
 exerpt: ''
 firstname: Elise
+issue:
+  - content/issues/10-12-2021.md
 language:
   - French
 lastname: Tancoigne

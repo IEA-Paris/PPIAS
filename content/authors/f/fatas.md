@@ -14,6 +14,8 @@ exerpt: >-
   the behavioral determinants of institutional performance and the behavioral
   consequences of political conflict using an inter
 firstname: Enrique
+issue:
+  - content/issues/10-12-2021.md
 language:
   - English
 lastname: Fatas

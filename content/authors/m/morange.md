@@ -14,6 +14,8 @@ exerpt: >-
   université, Paris. Membre de la République des savoirs : lettres, sciences,
   philosophie (RNSR, USR 3608), École normale supérieure, Paris.
 firstname: Michel
+issue:
+  - content/issues/10-12-2021.md
 language:
   - French
 lastname: Morange

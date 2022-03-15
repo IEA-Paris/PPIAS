@@ -2,11 +2,11 @@
   <v-card
     outlined
     class="pa-3 mt-3"
-    :style="'border-left:' + cat.color + ' 4px solid;'"
+    :style="'border-left:' + issue.color + ' 4px solid;'"
     nuxt
     @click="$router.push(path)"
   >
-    <v-card-title>{{ cat.title }}</v-card-title>
+    <v-card-title>{{ issue.title }}</v-card-title>
     <v-card-actions v-if="total > 1">
       <v-spacer></v-spacer>
       <v-btn x-large tile outlined>
@@ -27,7 +27,7 @@ export default {
   data() {
     return {
       total: 0,
-      cat: {
+      issue: {
         title: '',
         color: 'white',
       },
@@ -35,26 +35,21 @@ export default {
     }
   },
   async fetch() {
-    this.cat = (
-      await this.$content('categories')
+    this.issue = (
+      await this.$content('issues')
         .where({ title: this.item.slice(19, -3) })
         .fetch()
     )[0]
 
     this.total = (
       await this.$content('articles', { deep: true })
-        .where({
-          $or: [
-            { category_1: { $eq: 'content' + this.cat.path + '.md' } },
-            { category_2: { $eq: 'content' + this.cat.path + '.md' } },
-          ],
-        })
+        .where({ issue: { $eq: 'content' + this.issue.path + '.md' } })
         .only([])
         .fetch()
     ).length
 
-    this.path = `${this.localePath('/')}?filters=%7B%22category%22%3A%5B%22${
-      this.cat.title
+    this.path = `${this.localePath('/')}?filters=%7B%issue%22%3A%5B%22${
+      this.issue.title
     }%22%5D%7D`
   },
   computed: {},

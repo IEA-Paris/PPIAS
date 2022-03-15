@@ -16,6 +16,8 @@ exerpt: >-
   Economics and the Institut convergence Migrations. Flore Gubert was
   successively Deputy Director of the Development and Globali
 firstname: Flore
+issue:
+  - content/issues/10-12-2021.md
 language:
   - ''
 lastname: Gubert

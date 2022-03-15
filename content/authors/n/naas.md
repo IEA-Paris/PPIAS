@@ -15,6 +15,8 @@ exerpt: >-
   mécanismes de résistance aux antibiotiques de l'Université de Paris-Saclay et
   Maître de conférence praticien hospitalier en b
 firstname: Thierry
+issue:
+  - content/issues/10-12-2021.md
 language:
   - French
 lastname: Naas

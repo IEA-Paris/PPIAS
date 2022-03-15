@@ -9,6 +9,8 @@ category:
 createdAt: '2022-01-10T10:45:35.930Z'
 exerpt: ''
 firstname: Helga
+issue:
+  - content/issues/10-12-2021.md
 language:
   - English
 lastname: Nowotny

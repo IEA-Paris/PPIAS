@@ -40,6 +40,8 @@ exerpt: >-
   techniques (SEBE) to study how human beings experience judement and
   decision-making in naturally occurring contexts. She is the Graduate
 firstname: Atrina
+issue:
+  - content/issues/10-12-2021.md
 language:
   - ''
   - English

@@ -13,6 +13,8 @@ exerpt: >-
   questions de la circulation marchande des produits de qualité, du goût des
   consommateurs, et des prescriptions relatives à la consommation.
 firstname: Geneviève
+issue:
+  - content/issues/10-12-2021.md
 language:
   - French
 lastname: Teil

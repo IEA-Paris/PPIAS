@@ -15,6 +15,8 @@ exerpt: >-
   research interests are between the behavioural (and social) sciences and
   natural language processing. Some projects ar
 firstname: Bennett
+issue:
+  - content/issues/10-12-2021.md
 language:
   - English
 lastname: Kleinberg

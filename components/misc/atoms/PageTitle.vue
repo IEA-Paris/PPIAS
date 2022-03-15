@@ -27,7 +27,7 @@ export default {
 <style lang="scss">
 @import '~vuetify/src/styles/settings/_variables';
 .page-title {
-  font-family: 'Bodonis Moda';
+  font-family: 'Petrona';
   font-size: 3rem !important;
   font-weight: 500 !important;
 }

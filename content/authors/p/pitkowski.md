@@ -12,6 +12,8 @@ exerpt: >-
   Anne Pitkowski est directrice de recherche et open innovation dans le groupe
   Bel
 firstname: Anne
+issue:
+  - content/issues/10-12-2021.md
 language:
   - French
 lastname: Pitkowski

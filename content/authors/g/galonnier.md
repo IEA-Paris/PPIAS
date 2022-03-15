@@ -22,6 +22,8 @@ exerpt: >-
   au Ministère de la Transition écologique et solidaire, France. Il rédige des
   notes de recherche à destination des décideurs publics.
 firstname: Victor
+issue:
+  - content/issues/10-12-2021.md
 language:
   - English
   - ''

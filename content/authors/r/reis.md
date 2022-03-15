@@ -14,6 +14,8 @@ exerpt: >-
   several universities including UC San Diego, Columbia U., MIT, and the Ludwig
   Maximilian Universität, Munich. She cha
 firstname: Elisa
+issue:
+  - content/issues/10-12-2021.md
 language:
   - English
 lastname: Reis

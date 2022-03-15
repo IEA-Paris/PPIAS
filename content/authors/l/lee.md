@@ -12,6 +12,8 @@ exerpt: >-
   Arts and Sciences, Ohio University . She is a historian of modern science and
   technology, with a focus on the role of Japan in the 20th and 21st centuries.
 firstname: Victoria
+issue:
+  - content/issues/10-12-2021.md
 language:
   - English
 lastname: Lee

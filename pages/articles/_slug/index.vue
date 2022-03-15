@@ -55,13 +55,10 @@ export default {
       })
       .fetch()
 
-    item.category_1 = await $content(
-      item[0]?.category_1.split('/').slice(1).join('/').split('.')[0] || false
+    item.issue = await $content(
+      item[0]?.issue.split('/').slice(1).join('/').split('.')[0] || false // TODO shameful => fix
     ).fetch()
-    if (item.category_2)
-      item.category_2 = await $content(
-        item[0]?.category_2.split('/').slice(1).join('/').split('.')[0] || false
-      ).fetch()
+
     return {
       item,
     }

@@ -24,6 +24,8 @@ exerpt: >-
   human biology, ethology and ecology, psychology and cognitive sccience). He
   directed the Consumer Research Department at C
 firstname: Saadi
+issue:
+  - content/issues/10-12-2021.md
 language:
   - English
   - ''

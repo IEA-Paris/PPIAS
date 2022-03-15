@@ -41,21 +41,10 @@
           $t('this-article-is-in', { lang: $t(item.language || 'english') })
         }}
       </div>
-      <div class="overline">{{ $t('collections') }}</div>
+      <div class="overline">Issue</div>
       <v-row>
-        <v-col
-          v-if="item.category_1 && item.category_1.length"
-          cols="12"
-          sm="6"
-        >
-          <CategoryPanel :item="item.category_1"></CategoryPanel>
-        </v-col>
-        <v-col
-          v-if="item.category_2 && item.category_2.length"
-          cols="12"
-          sm="6"
-        >
-          <CategoryPanel :item="item.category_2"></CategoryPanel>
+        <v-col v-if="item.issue && item.issue.length" cols="12" sm="6">
+          <IssuePanel :item="item.issue"></IssuePanel>
         </v-col>
       </v-row>
     </v-col>

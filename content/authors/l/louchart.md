@@ -17,6 +17,8 @@ exerpt: >-
   au centre de son travail et de ses activités citoyennes la vulgarisation de
   sujets complexes.
 firstname: Aurélie
+issue:
+  - content/issues/10-12-2021.md
 language:
   - English
 lastname: Louchart

@@ -87,7 +87,7 @@ export default {
   font-size: 1.8rem;
   line-height: 1;
   font-weight: 700;
-  font-family: 'Bodoni Moda';
+  font-family: 'Petrona';
   display: inline-flex;
 }
 .main-title {
@@ -107,7 +107,7 @@ export default {
   background: transparent !important;
 }
 .domain-select .v-list-item__content {
-  font-family: 'Bodoni Moda' !important;
+  font-family: 'Petrona' !important;
   font-weight: 900;
   line-height: 1 !important;
 }

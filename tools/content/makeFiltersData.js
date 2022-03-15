@@ -84,21 +84,7 @@ export default async () => {
       ),
     ].filter((item) => item),
   }
-  /*   // category filters
-  filters.category = {
-    type: 'Autocomplete',
-    items: [
-      ...new Set(
-        articles
-          .map((article) => [
-            ...(article.category_1 ? [article.category_1.slice(19, -3)] : []),
-            ...(article.category_2 ? [article.category_2.slice(19, -3)] : []),
-          ])
-          .flat()
-          .filter((item) => item.length)
-      ),
-    ],
-  } */
+
   fs.writeFileSync(
     './assets/generated/filters.js',
     `/* eslint-disable prettier/prettier */

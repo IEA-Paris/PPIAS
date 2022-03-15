@@ -14,6 +14,8 @@ exerpt: >-
   2020, and he is honorary senior fellow of the Institut Universitaire de
   France, being nominated senior member in 2014. Raou
 firstname: Raouf
+issue:
+  - content/issues/10-12-2021.md
 language:
   - English
 lastname: Boucekkine

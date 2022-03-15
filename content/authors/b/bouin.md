@@ -14,6 +14,8 @@ exerpt: >-
   Southern and Eastern Europe (Rijeka, Croatia) and of the Austrian Presidential
   Conference for Social Sciences and Hu
 firstname: Olivier
+issue:
+  - content/issues/10-12-2021.md
 language:
   - English
 lastname: Bouin

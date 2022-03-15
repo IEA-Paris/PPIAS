@@ -18,6 +18,8 @@ exerpt: >-
   their devices in naturally occurring contexts, which routines and behavioural
   patterns they have developed, and how this infl
 firstname: Maxi
+issue:
+  - content/issues/10-12-2021.md
 language:
   - English
   - ''

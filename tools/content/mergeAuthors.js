@@ -87,8 +87,7 @@ export default async (content) => {
       'date',
       'tags',
       'years',
-      'category_1',
-      'category_2',
+      'issue',
     ])
     .fetch()
   // we use this opportunity to get the dynamic routes for pdf-printing all the articles
@@ -102,10 +101,7 @@ export default async (content) => {
           articles: [article.slug],
           tags: article.tags,
           years: [article.years],
-          category: [
-            ...(article.category_1 ? [article.category_1] : []),
-            ...(article.category_2 ? [article.category_2] : []),
-          ].flat(),
+          issue: [...(article.issue ? [article.issue] : [])].flat(),
           language: [article.language],
         }
       })

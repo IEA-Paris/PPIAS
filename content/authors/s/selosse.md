@@ -18,6 +18,8 @@ exerpt: >-
   Sa recherche est centrée sur l’interaction mycorhizienne, une symbiose entre
   les racines de plus de
 firstname: Marc-André
+issue:
+  - content/issues/10-12-2021.md
 language:
   - French
 lastname: Selosse
