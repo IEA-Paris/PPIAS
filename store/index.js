@@ -394,7 +394,6 @@ export const actions = {
 
     if (
       process.client &&
-      Object.keys(window.$nuxt.$root.$loading).length &&
       window.$nuxt.$root.$loading &&
       process.env.NODE_ENV === 'production'
     ) {
