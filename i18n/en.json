@@ -483,6 +483,7 @@
   "view-issues": "By issue",
   "discipline": "Discipline",
   "thematic": "Thematic",
+  "issue": "Issue",
   "type": "Type",
   "tag": "Tag",
   "search-type": "Search {0}",
@@ -496,5 +497,7 @@
   "read-more": "Read more",
   "loading": "Loading",
   "see-more-filters": "See more filters",
-  "less-filters": "Less filters"
+  "less-filters": "Less filters",
+  "latest-issue": "Latest issue",
+  "featured-articles": "Featured articles"
 }

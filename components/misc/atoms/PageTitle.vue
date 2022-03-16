@@ -30,15 +30,18 @@ export default {
   font-family: 'Bodoni Moda';
   font-size: 3rem !important;
   font-weight: 500 !important;
+  max-width: 50%;
 }
 @media #{map-get($display-breakpoints, 'sm-only')} {
   .page-title {
     font-size: 2rem !important;
+    max-width: 100%;
   }
 }
 @media #{map-get($display-breakpoints, 'xs-only')} {
   .page-title {
     font-size: 1.8rem !important;
+    max-width: 100%;
   }
 }
 </style>

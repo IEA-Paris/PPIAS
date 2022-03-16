@@ -1,6 +1,6 @@
 export default {
   footer: [
-    { text: 'about', path: '/about' },
+    { text: 'about', path: '/' },
     { text: 'contact', path: '/contact' },
     { text: 'newsletter', path: '/newsletter' },
     { text: 'support', path: '/support' },

@@ -50,7 +50,7 @@
             </v-col>
             <v-col cols="12" sm="4">
               <v-list flat color="transparent" dense>
-                <v-list-item :to="localePath('/about')" nuxt>
+                <v-list-item :to="localePath('/')" nuxt>
                   <v-list-item-content>
                     <v-list-item-title
                       class="text-uppercase text-button"
