@@ -133,7 +133,7 @@ aside.toc {
   margin-left: 25px;
   align-self: start;
   max-height: 100vh;
-  overflow-y: scroll;
+  overflow-y: auto;
   overflow-x: hidden;
   scrollbar-width: thin;
 }
