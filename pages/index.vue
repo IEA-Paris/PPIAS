@@ -47,17 +47,19 @@ export default {
   font-family: 'Bodoni Moda';
   font-size: 3rem !important;
   font-weight: 500 !important;
+  line-height: 3.5rem;
+  max-width: 100%;
 }
 @media #{map-get($display-breakpoints, 'sm-only')} {
   .main-title {
-    font-size: 2rem !important;
-    max-width: 100%;
+    font-size: 2.4rem !important;
+    line-height: 3rem;
   }
 }
 @media #{map-get($display-breakpoints, 'xs-only')} {
   .main-title {
-    font-size: 1.8rem !important;
-    max-width: 100%;
+    font-size: 2rem !important;
+    line-height: 2.5rem;
   }
 }
 </style>
