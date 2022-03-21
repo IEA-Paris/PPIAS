@@ -15,6 +15,7 @@
         <!--   Latest issue -->
         <div class="text-h6">{{ $t('latest-issue') }}</div>
         <v-divider></v-divider>
+        <em class="py-4 d-block">Coming soon &hellip;</em>
       </v-col>
     </v-row>
     <v-row justify="center">
@@ -22,6 +23,7 @@
         <!--  Featured articles -->
         <div class="text-h6">{{ $t('featured-articles') }}</div>
         <v-divider></v-divider>
+        <em class="py-4 d-block">Coming soon &hellip;</em>
       </v-col>
     </v-row>
   </PageContainer>

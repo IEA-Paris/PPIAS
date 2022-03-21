@@ -175,14 +175,14 @@ export const actions = {
     console.log('UPDATE type: ', type)
     console.log('STORE OFF')
     commit('setLoading', true)
-    console.log('window.$nuxt.$root: ', window.$nuxt.$root.dev)
-    if (
+    // TODO re-enable when it works as intended once deployed
+    /*     if (
       process.client &&
       Object.keys(window.$nuxt.$root.$loading).length &&
       process.env.NODE_ENV === 'production'
     ) {
       window.$nuxt.$root.$loading.start()
-    }
+    } */
     const pipeline = {
       // default filters
       ...filtersRaw[type],
@@ -260,7 +260,6 @@ export const actions = {
     // use Math.ceil to round up to the nearest whole number
     const lastPage = Math.ceil(totalItems / rootState[type].itemsPerPage)
     console.log('lastPage: ', lastPage)
-    console.log('rootState[type].page: ', rootState[type].page)
 
     // use the % (modulus) operator to get a whole remainder
     const lastPageCount = totalItems % rootState[type].itemsPerPage
@@ -397,7 +396,8 @@ export const actions = {
       window.$nuxt.$root.$loading &&
       process.env.NODE_ENV === 'production'
     ) {
-      window.$nuxt.$root.$loading.stop()
+      // TODO wheck and find out why the object below is not available in some cases when deployed
+      /*  window.$nuxt.$root.$loading.stop() */
     }
     /* HIGHLIGHT MECHANISM (disabled until reassessment of its usefulness & relevance
     //TODO deal with that ) 
