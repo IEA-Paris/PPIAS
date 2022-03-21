@@ -31,7 +31,7 @@ resource "aws_s3_bucket_policy" "this" {
 
 resource "aws_cloudfront_distribution" "this" {
     aliases                        = [
-        "paris.pias.science",
+        "pias.science",
     ]
     enabled                        = true
     http_version                   = "http2"
@@ -76,8 +76,8 @@ resource "aws_cloudfront_distribution" "this" {
     origin {
         connection_attempts = 3
         connection_timeout  = 10
-        domain_name         = "ppias.s3-website.eu-west-3.amazonaws.com"
-        origin_id           = "ppias.s3.eu-west-3.amazonaws.com"
+        domain_name         = "pias.s3-website.eu-west-3.amazonaws.com"
+        origin_id           = "pias.s3.eu-west-3.amazonaws.com"
 
         custom_origin_config {
             http_port                = 80
@@ -109,13 +109,13 @@ resource "aws_cloudfront_distribution" "this" {
 }
 
 resource "aws_s3_bucket" "this" {
-    bucket                      = "ppias"
+    bucket                      = "pias"
     hosted_zone_id              = "Z3R1K369G5AVDG"
     request_payer               = "BucketOwner"
     tags                        = {}
     tags_all                    = {}
     website_domain              = "s3-website.eu-west-3.amazonaws.com"
-    website_endpoint            = "ppias.s3-website.eu-west-3.amazonaws.com"
+    website_endpoint            = "pias.s3-website.eu-west-3.amazonaws.com"
 
     versioning {
         enabled    = false
