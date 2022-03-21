@@ -31,7 +31,7 @@ resource "aws_s3_bucket_policy" "this" {
 
 resource "aws_cloudfront_distribution" "this" {
     aliases                        = [
-        "pias.science",
+        "ppias.science",
     ]
     enabled                        = true
     http_version                   = "http2"
@@ -56,7 +56,7 @@ resource "aws_cloudfront_distribution" "this" {
         max_ttl                = 31536000
         min_ttl                = 0
         smooth_streaming       = false
-        target_origin_id       = "ppias.s3.eu-west-3.amazonaws.com"
+        target_origin_id       = "pppias.s3.eu-west-3.amazonaws.com"
         trusted_key_groups     = []
         trusted_signers        = []
         viewer_protocol_policy = "redirect-to-https"
@@ -76,8 +76,8 @@ resource "aws_cloudfront_distribution" "this" {
     origin {
         connection_attempts = 3
         connection_timeout  = 10
-        domain_name         = "pias.s3-website.eu-west-3.amazonaws.com"
-        origin_id           = "pias.s3.eu-west-3.amazonaws.com"
+        domain_name         = "ppias.s3-website.eu-west-3.amazonaws.com"
+        origin_id           = "ppias.s3.eu-west-3.amazonaws.com"
 
         custom_origin_config {
             http_port                = 80
@@ -109,13 +109,13 @@ resource "aws_cloudfront_distribution" "this" {
 }
 
 resource "aws_s3_bucket" "this" {
-    bucket                      = "pias"
+    bucket                      = "ppias"
     hosted_zone_id              = "Z3R1K369G5AVDG"
     request_payer               = "BucketOwner"
     tags                        = {}
     tags_all                    = {}
     website_domain              = "s3-website.eu-west-3.amazonaws.com"
-    website_endpoint            = "pias.s3-website.eu-west-3.amazonaws.com"
+    website_endpoint            = "ppias.s3-website.eu-west-3.amazonaws.com"
 
     versioning {
         enabled    = false
