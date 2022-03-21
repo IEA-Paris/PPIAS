@@ -56,7 +56,7 @@ resource "aws_cloudfront_distribution" "this" {
         max_ttl                = 31536000
         min_ttl                = 0
         smooth_streaming       = false
-        target_origin_id       = "pppias.s3.eu-west-3.amazonaws.com"
+        target_origin_id       = "ppias.s3.eu-west-3.amazonaws.com"
         trusted_key_groups     = []
         trusted_signers        = []
         viewer_protocol_policy = "redirect-to-https"
