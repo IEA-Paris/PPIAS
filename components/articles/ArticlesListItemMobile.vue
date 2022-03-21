@@ -81,6 +81,7 @@
               ? ' small'
               : ''
           "
+          v-html="highlightWord(item.article_title)"
         >
           <!--          <ArticleCategories
             v-if="$vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)"
@@ -88,7 +89,6 @@
             class="pr-2"
             small
           /> -->
-          {{ item.article_title }}
         </div>
         <v-list-item-subtitle class="mt-2 d-inline-flex text-subtitle-1">
           <template
@@ -114,6 +114,7 @@
   </div>
 </template>
 <script>
+import { highlight } from '~/assets/utils/transforms'
 export default {
   props: {
     item: {
@@ -135,7 +136,13 @@ export default {
   },
   computed: {},
   mounted() {},
-  methods: {},
+  methods: {
+    highlightWord(word = '', query) {
+      return this.$store.state.articles.search
+        ? highlight(word, this.$store.state.articles.search || '')
+        : word
+    },
+  },
 }
 </script>
 <style lang="scss" scoped>

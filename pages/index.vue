@@ -1,8 +1,12 @@
 <template>
   <PageContainer>
     <v-row justify="center">
-      <PageTitle :text="$config.full_name" />
       <v-col cols="12" md="8" lg="6" xl="5">
+        <div
+          class="main-title"
+          :class="$store.state.scrolled ? 'mb-9' : 'mb-6'"
+          v-html="$config.full_name"
+        ></div>
         <nuxt-content :document="page" />
       </v-col>
     </v-row>
@@ -37,4 +41,23 @@ export default {
   methods: {},
 }
 </script>
-<style lang="scss"></style>
+<style lang="scss">
+@import '~vuetify/src/styles/settings/_variables';
+.main-title {
+  font-family: 'Bodoni Moda';
+  font-size: 3rem !important;
+  font-weight: 500 !important;
+}
+@media #{map-get($display-breakpoints, 'sm-only')} {
+  .main-title {
+    font-size: 2rem !important;
+    max-width: 100%;
+  }
+}
+@media #{map-get($display-breakpoints, 'xs-only')} {
+  .main-title {
+    font-size: 1.8rem !important;
+    max-width: 100%;
+  }
+}
+</style>
