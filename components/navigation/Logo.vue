@@ -14,13 +14,13 @@
         $router.push(localePath('/'))
     "
   >
-    <v-img
+    <nuxt-img
       src="/logo_b.png"
       contain
-      :lazy-src="$img('/logo_b.png', { width: 30, quality: 70 })"
+      preload
       alt="Avatar"
       style="cursor: pointer"
-    ></v-img>
+    ></nuxt-img>
     <!--  <div>
       <div class="main-title ml-3">
         Proceedings&nbsp;of&nbsp;the

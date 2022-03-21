@@ -14,12 +14,14 @@
       <v-col cols="12" md="8" lg="6" xl="5">
         <!--   Latest issue -->
         <div class="text-h6">{{ $t('latest-issue') }}</div>
+        <v-divider></v-divider>
       </v-col>
     </v-row>
     <v-row justify="center">
       <v-col cols="12" md="8" lg="6" xl="5">
         <!--  Featured articles -->
         <div class="text-h6">{{ $t('featured-articles') }}</div>
+        <v-divider></v-divider>
       </v-col>
     </v-row>
   </PageContainer>
