@@ -113,19 +113,7 @@ resource "aws_cloudfront_distribution" "this" {
 resource "aws_s3_bucket" "this" {
     bucket                      = "ppias"
     hosted_zone_id              = "Z3R1K369G5AVDG"
-    request_payer               = "BucketOwner"
     tags                        = {}
     tags_all                    = {}
-    website_domain              = "s3-website.eu-west-3.amazonaws.com"
     website_endpoint            = "ppias.s3-website.eu-west-3.amazonaws.com"
-    acl    = "private"
-    versioning {
-        enabled    = false
-        mfa_delete = false
-    }
-
-    website {
-        error_document = "error.html"
-        index_document = "index.html"
-    }
 }
