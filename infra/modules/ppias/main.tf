@@ -30,9 +30,9 @@ resource "aws_s3_bucket_policy" "this" {
 
 
 resource "aws_cloudfront_distribution" "this" {
-    aliases                        = [
+/*     aliases                        = [
         "paris.pias.science",
-    ]
+    ] */
     enabled                        = true
     http_version                   = "http2"
     is_ipv6_enabled                = true
