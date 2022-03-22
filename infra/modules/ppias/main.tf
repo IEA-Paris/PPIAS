@@ -115,5 +115,4 @@ resource "aws_s3_bucket" "this" {
     hosted_zone_id              = "Z3R1K369G5AVDG"
     tags                        = {}
     tags_all                    = {}
-    website_endpoint            = "ppias.s3-website.eu-west-3.amazonaws.com"
 }
