@@ -41,19 +41,21 @@ resource "aws_cloudfront_distribution" "this" {
     tags                           = {}
     tags_all                       = {}
     wait_for_deployment            = true
+    default_root_object            = "index.html" 
 
     default_cache_behavior {
         allowed_methods        = [
             "GET",
             "HEAD",
+            "OPTIONS",
         ]
         cached_methods         = [
             "GET",
             "HEAD",
         ]
         compress               = true
-        default_ttl            = 86400
-        max_ttl                = 31536000
+        default_ttl            = 3600
+        max_ttl                = 86400
         min_ttl                = 0
         smooth_streaming       = false
         target_origin_id       = "ppias.s3.eu-west-3.amazonaws.com"
@@ -116,7 +118,7 @@ resource "aws_s3_bucket" "this" {
     tags_all                    = {}
     website_domain              = "s3-website.eu-west-3.amazonaws.com"
     website_endpoint            = "ppias.s3-website.eu-west-3.amazonaws.com"
-
+    acl    = "private"
     versioning {
         enabled    = false
         mfa_delete = false
