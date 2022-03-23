@@ -1,6 +1,6 @@
 ---
 category_1: content/categories/WPRN21.md
-issue: content/issues/10-12-2021.md
+issue: content/issues/WPRN21.md
 keywords:
 - 'Public Discourse, Rhetorics, Communication '
 - 'Migrations and Diasporas '
@@ -87,8 +87,8 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: Q&A session on "News and Media Coverage"  at the WPRN 21 conference in Paris
-  on December 9th 2021 based on 4 projects registered in the WPRN database.
+abstract: Q&A session on the theme "News and Media coverage" during WPRN21 conference
+  in Paris on December 9th 2021
 picture: ''
 picture_copyright: ''
 yt: YQ3cIqOOn_g
@@ -96,7 +96,6 @@ highlight: false
 bibliography: "/documents-exportes_q-a1bib.bib"
 
 ---
-## News and Media Coverage - Session 1
 
 This Q&A session on the theme "News and Media coverage" during WPRN 21 conference in Paris on December 9th 2021 is based on 4 projects registered in the WPRN database.
 
