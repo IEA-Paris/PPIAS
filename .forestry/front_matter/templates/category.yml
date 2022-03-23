@@ -44,8 +44,3 @@ fields:
   description: See <a href="https://vuetifyjs.com/en/styles/colors/#material-colors"
     title="https://vuetifyjs.com/en/styles/colors/#material-colors" target="_blank">https://vuetifyjs.com/en/styles/colors/#material-colors</a>
     for reference<br>
-pages:
-- content/categories/Fellows.md
-- content/categories/ICA.md
-- content/categories/OML.md
-- content/categories/WPRN21.md

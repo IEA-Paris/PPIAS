@@ -1,5 +1,5 @@
 ---
-issue: content/issues/10-12-2021.md
+issue: content/issues/WPRN21.md
 tags: []
 date: 2021-12-09T09:30:39.000+00:00
 article_title: WPRN 21 Conference
