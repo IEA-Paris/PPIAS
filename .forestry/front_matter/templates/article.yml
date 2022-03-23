@@ -43,7 +43,7 @@ fields:
     schema:
       format: markdown
     min: 12
-    max: 1000
+    max: 1500
   label: Abstract
 - name: issue
   type: select
