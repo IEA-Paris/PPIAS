@@ -211,6 +211,5 @@ ${doc.text ? doc.text : ''}`
 }
 export const generateDisciplines = () => {
   // TODO make selective depending on website settings
-
   disciplines.forEach((area) => {})
 }
