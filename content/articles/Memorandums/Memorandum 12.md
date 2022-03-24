@@ -1,55 +1,54 @@
 ---
 category_1: content/categories/WPRN.md
 category_2: []
-issue: content/issues/10-12-2021.md
+issue: content/issues/WPRN21.md
 keywords:
-- 'Simulation / Modeling '
-- Democracy, Civil Society, Governance
-- 'Environmental change, Ecology '
-- Public Health
-- 'Public Policy, Evaluation, Impact '
-- Risks, Crisis Management
-- 'Policy Document '
-- 'Big Data, Artificial Intelligence '
-- 'Democracy, Civil Society, Governance '
-- 'International Relations and Co-operation '
-- 'Public Discourse, Rhetorics, Communication '
-- Cities, Mobility, Urban Planning
-- 'Education '
-- 'Equality & Diversity Studies '
-- 'Violence, Criminality, Security '
-- 'Work, Welfare, Social protection '
-- 'Human Behaviours, Social Relations '
+  - 'Simulation / Modeling '
+  - Democracy, Civil Society, Governance
+  - 'Environmental change, Ecology '
+  - Public Health
+  - 'Public Policy, Evaluation, Impact '
+  - Risks, Crisis Management
+  - 'Policy Document '
+  - 'Big Data, Artificial Intelligence '
+  - 'Democracy, Civil Society, Governance '
+  - 'International Relations and Co-operation '
+  - 'Public Discourse, Rhetorics, Communication '
+  - Cities, Mobility, Urban Planning
+  - 'Education '
+  - 'Equality & Diversity Studies '
+  - 'Violence, Criminality, Security '
+  - 'Work, Welfare, Social protection '
+  - 'Human Behaviours, Social Relations '
 date: 2021-05-01T22:00:12.000+00:00
 language: English
 published: true
 article_title: What measures are actually effective in fighting COVID-19 ?
 authors:
-- firstname: 'Aurélie  '
-  lastname: Louchart
-  titles_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
+  - firstname: 'Aurélie  '
+    lastname: Louchart
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
 abstract: |-
   Virus eradication or control strategy, timing, toughness and type of measures: what works and why? On the World Pandemic Research Network, several studies provide preliminary answers.
   Memorandum 12 : overview of the studies and projects registered on WPRN database
-picture: "/hands-with-latex-gloves-holding-a-globe-with-a-face-mask-anna-shvets.jpg"
+picture: '/hands-with-latex-gloves-holding-a-globe-with-a-face-mask-anna-shvets.jpg'
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: "/documents-exportes_memo12.bib"
-
+bibliography: '/documents-exportes_memo12.bib'
 ---
 
 “Those who argue that lockdown measures were not necessary and that, without them, the final number of deaths would not be much different from those of a strong seasonal flu are wrong”, explains Marc Fleurbaey, who has developed, with a team from Princeton University, a tool simulating the evolution of the pandemic according to the implemented measures (downloadable on [WPRN](https://wprn.org/item/414252)). This simulator indicates that in the United Kingdom, total mortality would differ by a factor of nearly five with or without lockdown. In France, this factor is between ten and twenty. Virus eradication or control strategy, timing, toughness and type of measures: what works and why? On the [World Pandemic Research Network](https://wprn.org/), several studies provide preliminary answers.

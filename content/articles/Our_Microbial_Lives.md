@@ -1,54 +1,55 @@
 ---
-issue: content/issues/10-12-2021.md
+issue: content/issues/WPRN21.md
 tags:
-- History of Science, Technology and Medicine
-- History of Science and Medicine
-- Online conference
-- Microbes
+  - History of Science, Technology and Medicine
+  - History of Science and Medicine
+  - Online conference
+  - Microbes
 date: 2021-05-27T07:30:26.000+00:00
 article_title: 'Our Microbial Lives : A Forum Against Eradication'
 authors:
-- firstname: Saadi
-  lastname: Lahlou
-- firstname: 'Victoria '
-  lastname: Lee
-  titles_and_institutions:
-  - titles:
-    - Assistant Professor
-    institution: Ohio University - College of Arts and Sciences
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: https://www.linkedin.com/in/microbehistory
-    twitter: https://twitter.com/microbehistory
-    instagram: ''
-    google_scholar: https://scholar.google.com/citations?user=P13ZUHQAAAAJ&hl=en
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-picture: "/1-cell_to_cell.jpg"
+  - firstname: Saadi
+    lastname: Lahlou
+  - firstname: 'Victoria '
+    lastname: Lee
+    titles_and_institutions:
+      - titles:
+          - Assistant Professor
+        institution: Ohio University - College of Arts and Sciences
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: https://www.linkedin.com/in/microbehistory
+      twitter: https://twitter.com/microbehistory
+      instagram: ''
+      google_scholar: https://scholar.google.com/citations?user=P13ZUHQAAAAJ&hl=en
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+picture: '/1-cell_to_cell.jpg'
 picture_copyright: ''
 yt: ''
 published: true
 category1:
-- color: green
-  text: Article
+  - color: green
+    text: Article
 pinned: false
 highlight: false
-bibliography: "/anystyle.bib"
-abstract: 'Introduction du forum "Our Microbial Lives: A Forum Against Eradication",  May
+bibliography: '/anystyle.bib'
+abstract:
+  'Introduction du forum "Our Microbial Lives: A Forum Against Eradication",  May
   27, 2021, Paris Institute for Advanced Study'
 category_1: content/categories/Fellows.md
 category_2: content/categories/OML.md
 keywords:
-- Microbes
-- Health
+  - Microbes
+  - Health
 language: English
-
 ---
+
 ## "Our Microbial Lives: A Forum Against Eradication", May 27, 2021, Paris Institute for Advanced Study
 
 ### Introduction

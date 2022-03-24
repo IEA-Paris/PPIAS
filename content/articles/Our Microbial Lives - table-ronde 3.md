@@ -1,101 +1,102 @@
 ---
 category_1: content/categories/Fellows.md
 category_2: content/categories/OML.md
-issue: content/issues/10-12-2021.md
+issue: content/issues/WPRN21.md
 keywords:
-- History of Science
-- Medicine
-- Technology and Medicine
-- Microbes
-- Antibiotics
+  - History of Science
+  - Medicine
+  - Technology and Medicine
+  - Microbes
+  - Antibiotics
 date: 2021-05-27T13:00:08.000+00:00
 language: French
 published: true
 article_title: Écologies microbiennes dans les corps humains et animaux
 authors:
-- firstname: 'Pierre-Olivier '
-  lastname: Méthot
-  titles_and_institutions:
-  - titles: []
-    institution: Université de Laval, Canada
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: Nicolas
-  lastname: Fortané
-  titles_and_institutions:
-  - titles: []
-    institution: INRAE, France
-  social_channels:
-    researchgate: https://www.researchgate.net/profile/Nicolas-Fortane
-    google_scholar: https://scholar.google.com/citations?user=iJD2TRkAAAAJ&hl=fr
-    orcid_id: '0000-0001-6479-5808 '
-    website: ''
-    wikipedia: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    mendeley: ''
-  picture: ''
-  picture_copyright: ''
-  reference: ''
-- firstname: 'Thierry '
-  lastname: Naas
-  titles_and_institutions:
-  - titles: []
-    institution: Hôpital Bicêtre APHP, France
-  social_channels:
-    google_scholar: https://scholar.google.fr/citations?user=OKtfJd0AAAAJ&hl=fr
-    researchgate: https://www.researchgate.net/profile/Thierry-Naas
-    orcid_id: '0000-0001-9937-9572 '
-    website: ''
-    wikipedia: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    mendeley: ''
-  picture: ''
-  picture_copyright: ''
-  reference: ''
-- firstname: 'Geneviève '
-  lastname: Héry-Arnaud
-  titles_and_institutions:
-  - titles: []
-    institution: CHRU de Brest, France
-  - titles: []
-    institution: Université de Bretagne Occidentale, France
-  social_channels:
-    linkedin: https://fr.linkedin.com/in/genevi%C3%A8ve-h%C3%A9ry-arnaud-aa695314a
-    orcid_id: 0000-0002-2089-3825
-    researchgate: https://www.researchgate.net/profile/Genevieve-Hery-Arnaud
-    google_scholar: https://scholar.google.fr/citations?user=LGlzo5QAAAAJ&hl=fr
-    website: ''
-    wikipedia: ''
-    twitter: ''
-    instagram: ''
-    mendeley: ''
-  picture: ''
-  picture_copyright: ''
-  reference: ''
-abstract: 'Table-ronde 3 du forum "Our Microbial Lives: A Forum Against Eradication",  May
+  - firstname: 'Pierre-Olivier '
+    lastname: Méthot
+    titles_and_institutions:
+      - titles: []
+        institution: Université de Laval, Canada
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: Nicolas
+    lastname: Fortané
+    titles_and_institutions:
+      - titles: []
+        institution: INRAE, France
+    social_channels:
+      researchgate: https://www.researchgate.net/profile/Nicolas-Fortane
+      google_scholar: https://scholar.google.com/citations?user=iJD2TRkAAAAJ&hl=fr
+      orcid_id: '0000-0001-6479-5808 '
+      website: ''
+      wikipedia: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      mendeley: ''
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+  - firstname: 'Thierry '
+    lastname: Naas
+    titles_and_institutions:
+      - titles: []
+        institution: Hôpital Bicêtre APHP, France
+    social_channels:
+      google_scholar: https://scholar.google.fr/citations?user=OKtfJd0AAAAJ&hl=fr
+      researchgate: https://www.researchgate.net/profile/Thierry-Naas
+      orcid_id: '0000-0001-9937-9572 '
+      website: ''
+      wikipedia: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      mendeley: ''
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+  - firstname: 'Geneviève '
+    lastname: Héry-Arnaud
+    titles_and_institutions:
+      - titles: []
+        institution: CHRU de Brest, France
+      - titles: []
+        institution: Université de Bretagne Occidentale, France
+    social_channels:
+      linkedin: https://fr.linkedin.com/in/genevi%C3%A8ve-h%C3%A9ry-arnaud-aa695314a
+      orcid_id: 0000-0002-2089-3825
+      researchgate: https://www.researchgate.net/profile/Genevieve-Hery-Arnaud
+      google_scholar: https://scholar.google.fr/citations?user=LGlzo5QAAAAJ&hl=fr
+      website: ''
+      wikipedia: ''
+      twitter: ''
+      instagram: ''
+      mendeley: ''
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+abstract:
+  'Table-ronde 3 du forum "Our Microbial Lives: A Forum Against Eradication",  May
   27, 2021, Paris Institute for Advanced Study'
 picture: ''
 picture_copyright: ''
 yt: mAEoGVjHjUQ
 highlight: false
-bibliography: "/documents-exportes_tb3_lee.bib"
-
+bibliography: '/documents-exportes_tb3_lee.bib'
 ---
+
 ## Table-ronde 3 du forum "Our Microbial Lives"
 
 On assiste à un changement de paradigme au 21ème siècle : si le 19ème et le 20ème siècles avaient une vision très négative des microbes et les envisageaient sous le prisme de l’éradication, les évolutions technologiques nous montrent désormais que certains microbes « nous veulent du bien ». Le caractère bénéfique des bactéries est une vision nouvelle pour les microbiologistes médicaux.

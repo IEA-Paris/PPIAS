@@ -6,7 +6,7 @@ caption: >-
 date: '2021-12-09T09:00:24.000Z'
 highlight: false
 id: EtpubPswH2M
-issue: content/issues/10-12-2021.md
+issue: content/issues/WPRN21.md
 language: English
 type: youtube
 years: 2021

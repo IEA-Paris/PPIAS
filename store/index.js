@@ -222,14 +222,12 @@ export const actions = {
         } else if (['language'].includes(filter)) {
           pipeline.language = { $containsAny: val }
         } else if (filter === 'issue') {
-          pipeline.push({
-            issue:
-              val.length > 1
-                ? {
-                    $in: val.map((item) => 'content/issues/' + item + '.md'),
-                  }
-                : 'content/issues/' + val[0] + '.md',
-          })
+          pipeline.issue =
+            val.length > 1
+              ? {
+                  $in: val.map((item) => 'content/issues/' + item + '.md'),
+                }
+              : 'content/issues/' + val[0] + '.md'
         } else if (filter === 'years') {
           const yearsToInt = val.map((i) => +i)
           if (['articles', 'media'].includes(type)) {

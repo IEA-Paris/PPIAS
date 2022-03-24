@@ -38,10 +38,27 @@ export default async () => {
   // issue filters
   filters.issue = {
     type: 'Select',
-    items: [...new Set(articles.map((article) => article.issue))].filter(
-      (item) => item !== null && item !== ''
-    ),
+    items: [
+      ...new Set(
+        articles.map((article) => {
+          console.log('article: ', article.article_title)
+          console.log(
+            'issue',
+            issues.find((issue) => {
+              return issue.path === article.issue.slice(7, -3)
+            })
+          )
+          return (
+            issues.find((issue) => {
+              return issue.path === article.issue.slice(7, -3)
+            }).slug || []
+          )
+        })
+      ),
+    ].filter((item) => item !== null && item !== ''),
   }
+  console.log('filters.issue: ', filters.issue)
+
   // Discipline filters
   filters.discipline = {
     type: 'Autocomplete',

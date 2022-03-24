@@ -11,6 +11,7 @@ exerpt: ''
 firstname: Helga
 issue:
   - content/issues/10-12-2021.md
+  - content/issues/WPRN21.md
 language:
   - English
 lastname: Nowotny

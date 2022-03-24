@@ -1,7 +1,7 @@
 ---
 category_1: content/categories/WPRN.md
 category_2: content/categories/WPRN21.md
-issue: content/issues/10-12-2021.md
+issue: content/issues/WPRN21.md
 keywords:
   - 'Public Discourse, Rhetorics, Communication '
   - Migrations and Diasporas

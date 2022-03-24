@@ -1,6 +1,6 @@
 ---
 category_1: content/categories/WPRN21.md
-issue: content/issues/10-12-2021.md
+issue: content/issues/WPRN21.md
 keywords:
   - 'Quantitative survey '
   - 'Qualitative analysis '

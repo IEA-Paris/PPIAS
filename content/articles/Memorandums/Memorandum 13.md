@@ -1,45 +1,46 @@
 ---
 category_1: content/categories/WPRN.md
 category_2: []
-issue: content/issues/10-12-2021.md
+issue: content/issues/WPRN21.md
 keywords:
-- 'Consumption and Production Patterns '
-- 'Democracy, Civil Society, Governance '
-- 'Public Health '
-- 'Religions and Worldviews '
-- 'Human Behaviours, Social Relations '
-- 'Risks, Crisis Management '
-- 'Digital Humanities '
-- 'Public Policy, Evaluation, Impact '
-- 'Equality & Diversity Studies '
-- 'Quantitative survey '
-- 'Qualitative analysis '
-- 'Public Discourse, Rhetorics, Communication '
-- 'Dataset, Data Mining '
-- 'Simulation / Modeling '
-- 'Innovation, R&D '
+  - 'Consumption and Production Patterns '
+  - 'Democracy, Civil Society, Governance '
+  - 'Public Health '
+  - 'Religions and Worldviews '
+  - 'Human Behaviours, Social Relations '
+  - 'Risks, Crisis Management '
+  - 'Digital Humanities '
+  - 'Public Policy, Evaluation, Impact '
+  - 'Equality & Diversity Studies '
+  - 'Quantitative survey '
+  - 'Qualitative analysis '
+  - 'Public Discourse, Rhetorics, Communication '
+  - 'Dataset, Data Mining '
+  - 'Simulation / Modeling '
+  - 'Innovation, R&D '
 date: 2021-08-31T22:00:35.000+00:00
 language: English
 published: true
 article_title: Vaccination Resistance
 authors:
-- firstname: 'Aurélie  '
-  lastname: Louchart
-  titles_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-abstract: "People who are reluctant to vaccinate have often been portrayed in the
+  - firstname: 'Aurélie  '
+    lastname: Louchart
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+abstract:
+  "People who are reluctant to vaccinate have often been portrayed in the
   media as conspiracy theorists. Is this an anecdotal phenomenon ? A stable correlation
   ?\nResearch in the humanities and social sciences has looked into this question,
   as well as into the broader relationship with vaccination : do undecided people
@@ -48,12 +49,11 @@ abstract: "People who are reluctant to vaccinate have often been portrayed in th
   or cultural activities an effective way to encourage vaccination? What is driving
   the change in vaccine mistrust ? \nMemorandum 13 : overview of the studies and projects
   registered on WPRN database\n"
-picture: "/1f96806f-d2b5-44b3-ac16-323501831870.jpeg"
+picture: '/1f96806f-d2b5-44b3-ac16-323501831870.jpeg'
 picture_copyright: ''
 yt: ''
 highlight: true
-bibliography: "/documents-exportes_memo13.bib"
-
+bibliography: '/documents-exportes_memo13.bib'
 ---
 
 People who are reluctant to vaccinate have often been portrayed in the media as conspiracy theorists. Is this an anecdotal phenomenon? A stable correlation? Research in the humanities and social sciences has looked into this question, as well as into the broader relationship with vaccination : do undecided people change their minds over time ? What policies are likely to turn them off ? Is the obligation to present a document proving vaccination to access collective spaces or cultural activities an effective way to encourage vaccination? What is driving the change in vaccine mistrust ?

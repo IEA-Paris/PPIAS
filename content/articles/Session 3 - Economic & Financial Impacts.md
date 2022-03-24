@@ -1,124 +1,124 @@
 ---
 category_1: content/categories/WPRN21.md
-issue: content/issues/10-12-2021.md
+issue: content/issues/WPRN21.md
 keywords:
-- " Policy, Evaluation, Impact "
-- 'Risks, Crisis Management '
-- 'Environmental change, Ecology '
-- 'Equality & Diversity Studies '
-- Public Health
-- 'Work, Welfare, Social protection '
-- 'Human Behaviours, Social Relations '
-- Firms, Markets, Finance
-- 'Qualitative analysis '
-- Simulation / Modeling
-- Policy Document
+  - ' Policy, Evaluation, Impact '
+  - 'Risks, Crisis Management '
+  - 'Environmental change, Ecology '
+  - 'Equality & Diversity Studies '
+  - Public Health
+  - 'Work, Welfare, Social protection '
+  - 'Human Behaviours, Social Relations '
+  - Firms, Markets, Finance
+  - 'Qualitative analysis '
+  - Simulation / Modeling
+  - Policy Document
 date: 2021-12-09T13:00:09.000+00:00
 language: English
 published: false
 article_title: Economic and Financial Impacts - Session 3
 authors:
-- lastname: Smart
-  firstname: 'Jenny '
-  titles_and_institutions:
-  - titles: []
-    institution: International Food Policy Research Institute (IFPRI), USA
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: 'Levy '
-  firstname: Gal
-  titles_and_institutions:
-  - titles: []
-    institution: The Open University Of Israel, Israel
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: Lampropoulos
-  firstname: Ioannis Ch.
-  titles_and_institutions:
-  - titles: []
-    institution: University Of Patras, Greece
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: 'Tijdens  '
-  firstname: Kea
-  titles_and_institutions:
-  - titles: []
-    institution: WageIndicator Foundation/University of Amsterdam, Netherlands
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: Vera-Valdés
-  firstname: J. Eduardo
-  titles_and_institutions:
-  - titles: []
-    institution: Aalborg University, Denmark
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-abstract: Q&A session on  " Economic and Financial Impacts "   at the WPRN 21 conference
+  - lastname: Smart
+    firstname: 'Jenny '
+    titles_and_institutions:
+      - titles: []
+        institution: International Food Policy Research Institute (IFPRI), USA
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: 'Levy '
+    firstname: Gal
+    titles_and_institutions:
+      - titles: []
+        institution: The Open University Of Israel, Israel
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: Lampropoulos
+    firstname: Ioannis Ch.
+    titles_and_institutions:
+      - titles: []
+        institution: University Of Patras, Greece
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: 'Tijdens  '
+    firstname: Kea
+    titles_and_institutions:
+      - titles: []
+        institution: WageIndicator Foundation/University of Amsterdam, Netherlands
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: Vera-Valdés
+    firstname: J. Eduardo
+    titles_and_institutions:
+      - titles: []
+        institution: Aalborg University, Denmark
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+abstract:
+  Q&A session on  " Economic and Financial Impacts "   at the WPRN 21 conference
   in Paris on December 9th 2021 based on 5 projects registered in the WPRN database.
 picture: ''
 picture_copyright: ''
 yt: rylGri1EtXY
 highlight: false
-bibliography: "/documents-exportes_q-a3.bib"
+bibliography: '/documents-exportes_q-a3.bib'
 category_2: ''
 custom_pdf: ''
 disciplines: ''
-
 ---
 
 This Q&A session on the theme "Economic and Financial Impacts" during WPRN21 conference in Paris on December 9th 2021 is based on 5 projects registered in WPRN database.
@@ -135,7 +135,7 @@ The analysis can be subdivided in: _ Using long time series, we analyze the long
 
 ### 2. [Survey of Living and Working in Coronavirus Times](https://wprn.org/item/417152)
 
-The Coronavirus pandemic has a worldwide impact. The health of many inhabitants is at stake, but the world of work is also heavily affected. Statistics of the World Health Organisation and national related institutions provide overviews of developments in the health situation. However, for work-related issues monitoring instruments are lacking. Given its global online infrastructure, [WageIndicator](https://wageindicator.org/ "WageIndecator") is to a certain extent able to provide such monitoring. Due to time and budgetary constraints, it is not possible to undertake a representative global survey through samples drawn from national populations. However WageIndicator's technical web infrastructure allows to undertake a volunteer web-survey in. Thus, we have developed a global, continuous, multilingual, multi-country web-survey with questions such as: • Is your work affected by the Corona crisis? • Are precautionary measures taken at your workplace? • Do you have to work from home? • Has your workload increased/decreased? • Have you lost your job/work/assignments? On March 30, 2020, WageIndicator officially launched the survey through press releases and a range of social media activities. Its partners supported the launch by using their own channels. The web survey is available for 143 countries with in total 38 languages.
+The Coronavirus pandemic has a worldwide impact. The health of many inhabitants is at stake, but the world of work is also heavily affected. Statistics of the World Health Organisation and national related institutions provide overviews of developments in the health situation. However, for work-related issues monitoring instruments are lacking. Given its global online infrastructure, [WageIndicator](https://wageindicator.org/ 'WageIndecator') is to a certain extent able to provide such monitoring. Due to time and budgetary constraints, it is not possible to undertake a representative global survey through samples drawn from national populations. However WageIndicator's technical web infrastructure allows to undertake a volunteer web-survey in. Thus, we have developed a global, continuous, multilingual, multi-country web-survey with questions such as: • Is your work affected by the Corona crisis? • Are precautionary measures taken at your workplace? • Do you have to work from home? • Has your workload increased/decreased? • Have you lost your job/work/assignments? On March 30, 2020, WageIndicator officially launched the survey through press releases and a range of social media activities. Its partners supported the launch by using their own channels. The web survey is available for 143 countries with in total 38 languages.
 
 <Youtube yt="PrLnfyCIZ2w" caption ="Survey of Living and Working in Coronavirus Times - WageIndicator.org"></Youtube>
 
