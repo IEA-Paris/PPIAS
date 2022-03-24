@@ -3,222 +3,236 @@ category_1: content/categories/WPRN21.md
 category_2: []
 issue: content/issues/WPRN21.md
 keywords:
-  - Human Behaviours, Social Relations
-  - 'Public Health '
-  - 'Work, Welfare, Social protection '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Qualitative analysis '
-  - Public Health
-  - 'Consumption and Production Patterns '
-  - 'Democracy, Civil Society, Governance '
-  - 'Environmental change, Ecology '
-  - Public Policy, Evaluation, Impact
-  - 'Risks, Crisis Management '
-  - 'Violence, Criminality, Security '
-  - 'Inequalities, Poverty, Development '
+- Human Behaviours, Social Relations
+- 'Public Health '
+- 'Work, Welfare, Social protection '
+- 'Public Discourse, Rhetorics, Communication '
+- 'Qualitative analysis '
+- Public Health
+- 'Consumption and Production Patterns '
+- 'Democracy, Civil Society, Governance '
+- 'Environmental change, Ecology '
+- Public Policy, Evaluation, Impact
+- 'Risks, Crisis Management '
+- 'Violence, Criminality, Security '
+- 'Inequalities, Poverty, Development '
 date: 2021-12-10T15:00:38.000+00:00
 language: English
 published: false
-article_title: 'Emotions and Coping During Crisis '
+article_title: Emotions and Coping During Crisis - Q&A session
 authors:
-  - lastname: 'Glover'
-    firstname: Marewa
-    titles_and_institutions:
-      - titles: []
-        institution:
-          'Centre Of Research Excellence: Indigenous Sovereignty & Smoking,
-          New Zealand'
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: 'Lahlou'
-    firstname: Saadi
-    titles_and_institutions:
-      - titles: []
-        institution: London School Of Economics, United Kingdom
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: Pfuhl
-    firstname: Gerit
-    titles_and_institutions:
-      - titles: []
-        institution: UiT The Arctic University of Norway, Norway
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: 'Borch '
-    firstname: Kristin Benjaminsen
-    titles_and_institutions:
-      - titles: []
-        institution: UiT The Arctic University Of Norway, Norway
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: 'Waugh '
-    firstname: Christian
-    titles_and_institutions:
-      - titles: []
-        institution: Wake Forest University, USA
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: 'Yamin '
-    firstname: Paulius
-    titles_and_institutions:
-      - titles: []
-        institution: London School of Economics and Political Science, United Kingdom
-      - titles:
-          - ''
-        institution: University of Pennsylvania, USA
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: Bicchieri
-    firstname: Cristina
-    titles_and_institutions:
-      - titles: []
-        institution: University of Pennsylvania, USA
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: 'Ameil '
-    firstname: Joseph
-    titles_and_institutions:
-      - titles: []
-        institution: McMaster University, Canada
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: 'Kleinberg '
-    firstname: Bennett
-    titles_and_institutions:
-      - titles: []
-        institution: University College London, United Kingdom
-      - titles: []
-        institution: Tilburg University, Netherlands
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: 'Olah'
-    firstname: Andrew R.
-    titles_and_institutions:
-      - titles: []
-        institution: The Junkin Group, LLC, USA
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-abstract:
-  Q&A session on  "Emotions and Coping During Crisis "  at the WPRN 21 conference
-  in Paris on December 10th 2021 based on 10 projects registered on the WPRN database
+- lastname: Glover
+  firstname: Marewa
+  titles_and_institutions:
+  - titles: []
+    institution: 'Centre Of Research Excellence: Indigenous Sovereignty & Smoking,
+      New Zealand'
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: Lahlou
+  firstname: Saadi
+  titles_and_institutions:
+  - titles: []
+    institution: London School Of Economics, United Kingdom
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: Pfuhl
+  firstname: Gerit
+  titles_and_institutions:
+  - titles: []
+    institution: UiT The Arctic University of Norway, Norway
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: 'Borch '
+  firstname: Kristin Benjaminsen
+  titles_and_institutions:
+  - titles: []
+    institution: UiT The Arctic University Of Norway, Norway
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: 'Waugh '
+  firstname: Christian
+  titles_and_institutions:
+  - titles: []
+    institution: Wake Forest University, USA
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: 'Yamin '
+  firstname: Paulius
+  titles_and_institutions:
+  - titles: []
+    institution: London School of Economics and Political Science, United Kingdom
+  - titles:
+    - ''
+    institution: University of Pennsylvania, USA
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: Bicchieri
+  firstname: Cristina
+  titles_and_institutions:
+  - titles: []
+    institution: University of Pennsylvania, USA
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: 'Ameil '
+  firstname: Joseph
+  titles_and_institutions:
+  - titles: []
+    institution: McMaster University, Canada
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: 'Kleinberg '
+  firstname: Bennett
+  titles_and_institutions:
+  - titles: []
+    institution: University College London, United Kingdom
+  - titles: []
+    institution: Tilburg University, Netherlands
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: Olah
+  firstname: Andrew R.
+  titles_and_institutions:
+  - titles: []
+    institution: The Junkin Group, LLC, USA
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+abstract: How do people cope with crises, especially with those of global proportions
+  like the Covid-19 Pandemic? Researchers around the globe have set out to document
+  how individuals and communities responded to the unprecedented challenges the Pandemic
+  posed for them. In this session, we have discussed empirical observations on how
+  people around the globe coped with the Pandemic. Contributions have highlighted
+  differences between genders, countries, and communities. We have further heard how
+  some people prefer to engage in self-help practices and engage with problems in
+  challenging times, and others preferred to disengage and seek distraction. The diverse
+  contributions in this session also covered the full spectrum of human emotions in
+  the context of crisis, from humour that can help individuals deal with adverse situations,
+  over worries and stress about risk and uncertainty, to grief and dealing with loss
+  in times where opportunities for shared physical presence are limited. The return
+  to placing the individual and her subjective experience at the centre of scientific
+  attention in this crisis can be viewed as a positive development overall. It is
+  now important to continue to further our understanding of how people cope with adversity
+  in exceptional circumstances to be better prepared for future crises the world may
+  encounter.
 picture: ''
 picture_copyright: ''
 yt: gG_XMS4xThY
 highlight: false
-bibliography: '/documents-exportes_q-a6.bib'
----
+bibliography: "/documents-exportes_q-a6.bib"
+custom_pdf: ''
+disciplines: ''
 
-## Emotions and Coping During Crisis - Session 6
+---
 
 This Q&A session on the theme "Local Contexts and PolicyEmotions " during the WPRN 21 conference in Paris on December 10th 2021 is based on 10 projects registered on the WPRN database
 
@@ -256,7 +270,7 @@ As the health and economic impact of Coronavirus Disease (COVID-19) expands glob
 
 ### 6. [The Crisis Coping and Sustainability (CCS) Study - Lithuania](https://wprn.org/item/427152)
 
-The CCS study is using an online questionnaire to assess the impact and mechanisms that individuals use to cope with the quarantine measures adopted in different countries in the COVID-19 crisis. The study explores the relationship between people´s stress reactions, coping mechanisms and their perceptions and intentions related to sustainability. Our goal is to inform actionable insights and recommendations for public, private and third sector institutions to reduce the negative psychological and social impacts of the COVID-19 and other future crises. The CCS questionnaire is an adaptation of the Crisis Coping Assessment Questionnaire (CCAQ) (@Lahlou et al.\_2020) [https://wprn.org/item/413152](https://wprn.org/item/413152 'https://wprn.org/item/413152'). While the CSS uses most items of the CCAQ, it also assesses the perceived impact of the crisis on three aspects that are essential for society’s capacity to adapt to changing conditions and be sustainable over time according to research in social sustainability (@Missimer & Broman_2017) : mutual trust, self-organization and a sense of common meaning.
+The CCS study is using an online questionnaire to assess the impact and mechanisms that individuals use to cope with the quarantine measures adopted in different countries in the COVID-19 crisis. The study explores the relationship between people´s stress reactions, coping mechanisms and their perceptions and intentions related to sustainability. Our goal is to inform actionable insights and recommendations for public, private and third sector institutions to reduce the negative psychological and social impacts of the COVID-19 and other future crises. The CCS questionnaire is an adaptation of the Crisis Coping Assessment Questionnaire (CCAQ) (@Lahlou et al._2020) [https://wprn.org/item/413152](https://wprn.org/item/413152 "https://wprn.org/item/413152"). While the CSS uses most items of the CCAQ, it also assesses the perceived impact of the crisis on three aspects that are essential for society’s capacity to adapt to changing conditions and be sustainable over time according to research in social sustainability (@Missimer & Broman_2017) : mutual trust, self-organization and a sense of common meaning.
 
 <Youtube yt="s8HQEYOq9Uk" caption="The Crisis Coping and Sustainability (CCS) Study - Lithuania"></Youtube>
 
