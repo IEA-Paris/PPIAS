@@ -5,6 +5,7 @@ import fsExtra from 'fs-extra'
 /* import { Repository, Tree, Diff } from 'nodegit' */
 import slugify from '../../assets/utils/slugify'
 import { formatAuthors } from '../../assets/utils/transforms'
+import disciplines from '../../assets/data/disciplines'
 
 /* export const getStagedChanges = async () => {
   const emptyTree = '4b825dc642cb6eb9a060e54bf8d69288fbee4904'
