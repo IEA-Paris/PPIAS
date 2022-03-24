@@ -13,7 +13,7 @@ keywords:
 date: 2021-12-09T10:30:42.000+00:00
 language: English
 published: false
-article_title: News and Media Coverage
+article_title: News and Media Coverage - Q&A session
 authors:
 - lastname: 'Caporali '
   firstname: Arianna
@@ -87,8 +87,23 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: Q&A session on the theme "News and Media coverage" during WPRN21 conference
-  in Paris on December 9th 2021
+abstract: Perhaps the most immediate and intimate way people around the globe have
+  been ‘in touch’ with the Covid-19 Pandemic has been through the media. While life
+  almost came to a standstill outside of our homes when one country after the other
+  entered into lockdown, the pace of media reporting and discussions on the internet
+  picked up dramatically. In this session, we have discussed differences in narratives
+  between traditional print and digital media, as well as between different countries
+  (France, Italy, and Japan) and observed quite striking differences in the information
+  that different groups received throughout the Pandemic. We have also discussed the
+  two most frequent statistics the media discourse engaged with, infections and deaths,
+  and how these were recorded and counted. This highlights the importance of a diligent
+  common way of record-keeping for crises of this scale, in order to be able to mount
+  a unified and global response for future events. We have, finally, discussed how
+  the pandemic interacted with another crisis that was overshadowed by Covid-19, that
+  is, refugees and migration, and how vulnerable groups were disproportionately affected
+  and sometimes even blamed for some of the problems the crisis caused. The media
+  played a key role in how people experienced and understood the Covid-19 Pandemic,
+  and the lessons from this session will prove informative for future crises to come.
 picture: ''
 picture_copyright: ''
 yt: YQ3cIqOOn_g
@@ -96,7 +111,6 @@ highlight: false
 bibliography: "/documents-exportes_q-a1bib.bib"
 
 ---
-
 This Q&A session on the theme "News and Media coverage" during WPRN 21 conference in Paris on December 9th 2021 is based on 4 projects registered in the WPRN database.
 
 <Youtube yt="YQ3cIqOOn_g" caption ="Q&A session News & Media Coverage"></Youtube>
