@@ -3,170 +3,168 @@ category_1: content/categories/WPRN21.md
 category_2: []
 issue: content/issues/WPRN21.md
 keywords:
-  - 'Dataset, Data Mining '
-  - 'Quantitative survey '
-  - 'Qualitative analysis '
-  - Case Study
-  - 'Public Health '
-  - 'Democracy, Civil Society, Governance '
-  - ' Digital Humanities '
-  - Education
-  - 'Equality & Diversity Studies '
-  - 'Human Behaviours, Social Relations '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Inequalities, Poverty, Development '
-  - 'Simulation / Modeling '
-  - 'Violence, Criminality, Security '
-  - 'Work, Welfare, Social protection '
-  - 'Public Policy, Evaluation, Impact  '
-  - Culture and The Arts
-  - 'Cities, Mobility, Urban Planning '
-  - 'Risks, Crisis Management '
+- 'Dataset, Data Mining '
+- 'Quantitative survey '
+- 'Qualitative analysis '
+- Case Study
+- 'Public Health '
+- 'Democracy, Civil Society, Governance '
+- " Digital Humanities "
+- Education
+- 'Equality & Diversity Studies '
+- 'Human Behaviours, Social Relations '
+- 'Public Discourse, Rhetorics, Communication '
+- 'Inequalities, Poverty, Development '
+- 'Simulation / Modeling '
+- 'Violence, Criminality, Security '
+- 'Work, Welfare, Social protection '
+- 'Public Policy, Evaluation, Impact  '
+- Culture and The Arts
+- 'Cities, Mobility, Urban Planning '
+- 'Risks, Crisis Management '
 date: 2021-12-10T13:00:31.000+00:00
 language: English
 published: false
-article_title: Local Contexts and Policy - Session 5
+article_title: Local Contexts and Policy - Q&A session
 authors:
-  - lastname: Pintus
-    firstname: Patrick
-    titles_and_institutions:
-      - titles: []
-        institution: CNRS And Aix-Marseille University, France
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: Starominski-Uehara
-    firstname: Marvin
-    titles_and_institutions:
-      - titles: []
-        institution:
-          School of Humanities of Behavioural Sciences, Singapore University
-          of Social Sciences, Singapore
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: 'Shiwanee '
-    lastname: Shree Pant
-    titles_and_institutions:
-      - titles: []
-        institution: National Law College, Nepal
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: Alvarez
-    firstname: Elizabeth
-    titles_and_institutions:
-      - titles: []
-        institution: McMaster University, Canada
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: 'Lord '
-    firstname: 'Phil '
-    titles_and_institutions:
-      - titles: []
-        institution: Bora Laskin Faculty Of Law, Lakehead University, Canada
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: Byrd
-    firstname: Nick
-    titles_and_institutions:
-      - titles: []
-        institution: Steven’s Institute Of Technology, USA
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: Ling
-    firstname: 'Gabriel Hoh Teck '
-    titles_and_institutions:
-      - titles: []
-        institution: Universiti Teknologi Malaysia, Malaysia
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-abstract:
-  ' Q&A on "Local Contexts and Policy " at the WPRN 21 conference in Paris
+- lastname: Pintus
+  firstname: Patrick
+  titles_and_institutions:
+  - titles: []
+    institution: CNRS And Aix-Marseille University, France
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: Starominski-Uehara
+  firstname: Marvin
+  titles_and_institutions:
+  - titles: []
+    institution: School of Humanities of Behavioural Sciences, Singapore University
+      of Social Sciences, Singapore
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- firstname: 'Shiwanee '
+  lastname: Shree Pant
+  titles_and_institutions:
+  - titles: []
+    institution: National Law College, Nepal
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: Alvarez
+  firstname: Elizabeth
+  titles_and_institutions:
+  - titles: []
+    institution: McMaster University, Canada
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: 'Lord '
+  firstname: 'Phil '
+  titles_and_institutions:
+  - titles: []
+    institution: Bora Laskin Faculty Of Law, Lakehead University, Canada
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: Byrd
+  firstname: Nick
+  titles_and_institutions:
+  - titles: []
+    institution: Steven’s Institute Of Technology, USA
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: Ling
+  firstname: 'Gabriel Hoh Teck '
+  titles_and_institutions:
+  - titles: []
+    institution: Universiti Teknologi Malaysia, Malaysia
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+abstract: ' Q&A on "Local Contexts and Policy " at the WPRN 21 conference in Paris
   on December 10th 2021 based on 8 projects registered in the WPRN database'
 picture: ''
 picture_copyright: ''
 yt: 5cyz4IOmbAs
 highlight: false
-bibliography: '/documents-exportes_q-a5.bib'
+bibliography: "/documents-exportes_q-a5.bib"
 custom_pdf: ''
 disciplines: ''
----
 
+---
 This Q&A session on the theme "Local Contexts and Policy " during the WPRN 21 conference in Paris on December 10th 2021 is based on 8 projects registered in the WPRN database.
 
 <Youtube yt="5cyz4IOmbAs" caption ="Q&A session - Local Contexts and Policy "></Youtube>
