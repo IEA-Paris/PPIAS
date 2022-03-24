@@ -109,9 +109,23 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: ' Q&A session on "Education & Marginalised Communities "  at the WPRN 21
-  conference in Paris on December 10th 2021 based on 6 projects registered in WPRN
-  database'
+abstract: 'In periods of crises and especially during a pandemic, the young, people
+  with disabilities, the homeless, or migrants appear even weaker and disproportionately
+  exposed to risks. Covid-19 is no exception, and it quickly affected fragile and
+  marginalized populations at a large scale. Especially salient since the first weeks
+  was the impact of health measures and particularly lockdowns on school education:
+  how to maintain some kind of continuity in teaching? What skills and online tools
+  were mobilized to pursue education by other means? How did parents deal with home
+  schooling while literally experimenting teleworking? In this session, we studied
+  how contents of teaching were affected, with the example of the UK, what factors
+  facilitated or on the contrary made the shift to online teaching more difficult,
+  and how different social groups and types of households coped with home-schooling.
+  On the basis of varied methodological approaches, we also discussed the impact of
+  the pandemic on more specifically disadvantaged populations. Two studies were presented
+  which try to understand the particularities of marginalized Indian communities and
+  Southern African migrants’ experiences of the crisis. Propositions were also made
+  to better take into account and mitigate the overwhelmingly negative consequences
+  of the crisis for disabled people. '
 picture: ''
 picture_copyright: ''
 yt: nskJV6c0vEU

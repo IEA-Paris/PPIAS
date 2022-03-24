@@ -154,8 +154,24 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: ' Q&A on "Local Contexts and Policy " at the WPRN 21 conference in Paris
-  on December 10th 2021 based on 8 projects registered in the WPRN database'
+abstract: " The Covid-19 pandemic had very differentiated impacts on the countries
+  and the populations it affected around the globe. Aspects of geography, culture,
+  economics but also governance or preparedness made a strong difference in the ways
+  nations were hit by the health crisis and how it translated in other sectoral crises.
+  In addition, local policies (health measures, support for the economy, etc.) varied
+  greatly giving an impression of a myriad of individual cases with distinct reactions
+  and coping capacities in face of the global challenge. In this session we discussed
+  the various structural factors influencing Asia Pacific countries’ ability to curb
+  the pandemic, including population density, which is not often investigated. More
+  circumstantial aspects were also analyzed. Regarding health aspects specifically,
+  the authorities’ communication strategies or testing policies were monitored, to
+  show what worked and what did not. In terms of economic policy, the effectiveness
+  of direct public support to businesses in North America was questioned, and possible
+  alternative approaches suggested. Finally, this session was also an occasion to
+  present innovative tools and guidelines for better public decision-making, related
+  to times of crisis in general or to the Covid situation in particular, with for
+  instance a proposition to adopt new indicators, such as the “Acceleration index”,
+  to monitor with great precision the evolution of pandemics."
 picture: ''
 picture_copyright: ''
 yt: 5cyz4IOmbAs
