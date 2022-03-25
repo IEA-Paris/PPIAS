@@ -10,7 +10,14 @@ resource "aws_cloudfront_origin_access_identity" "this" {}
 
 data "aws_iam_policy_document" "this" {
   statement {
-    actions = ["s3:GetObject"]
+    actions = [      
+        "s3:PutObject",
+        "s3:PutObjectAcl",
+        "s3:GetObject",
+        "s3:GetObjectAcl",
+        "s3:DeleteObject",
+        "s3:ListMultipartUploadParts",
+        "s3:AbortMultipartUpload"]
     principals {
       type        = "AWS"
       identifiers = [aws_cloudfront_origin_access_identity.this.iam_arn]
