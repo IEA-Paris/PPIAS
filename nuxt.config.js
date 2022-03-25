@@ -12,7 +12,11 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
   ssr: true,
-
+  generate: {
+    page(page) {
+      page.path = page.path.replace(/html$/, '...')
+    }
+  }
   /* Global page headers: https://go.nuxtjs.dev/config-head
   
   Headers of the page
