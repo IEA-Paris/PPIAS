@@ -1,5 +1,4 @@
 ---
-active: true
 articles:
   - Closing Panel-WPRN21
 categories:

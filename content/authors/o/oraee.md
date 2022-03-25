@@ -1,5 +1,4 @@
 ---
-active: true
 articles:
   - /articles/ICA4
   - /articles/Covid_19_&_employment

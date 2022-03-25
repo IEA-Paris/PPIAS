@@ -1,5 +1,4 @@
 ---
-active: true
 articles:
   - WPRN21_Conference
 categories:

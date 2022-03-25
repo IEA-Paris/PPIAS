@@ -1,5 +1,4 @@
 ---
-active: true
 articles:
   - Emotions and Coping During Crisis - Session 6
   - Keynote 8

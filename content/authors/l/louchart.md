@@ -1,5 +1,4 @@
 ---
-active: true
 articles:
   - Memorandum 12
   - Memorandum 14

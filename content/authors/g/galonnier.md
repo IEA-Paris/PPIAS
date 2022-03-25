@@ -1,5 +1,4 @@
 ---
-active: true
 articles:
   - memorandum_2
   - Concern_for_others
