@@ -1,6 +1,6 @@
 ---
 issue: content/issues/WPRN21.md
-tags:
+tag:
   - 'Public Health '
   - 'Leisure, Tourism '
   - 'Human Behaviours, Social Relations '

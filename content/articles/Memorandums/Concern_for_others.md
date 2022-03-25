@@ -1,6 +1,6 @@
 ---
 issue: content/issues/WPRN21.md
-tags:
+tag:
   - covid-19
   - coronavirus
   - socialnorms

@@ -30,7 +30,7 @@ highlight: false
 category_1: content/categories/WPRN.md
 category_2: content/categories/WPRN.md
 language: English
-tags:
+tag:
   - 'Equality & Diversity Studies '
   - Human Behaviours, Social Relations
   - 'Inequalities, Poverty, Development '

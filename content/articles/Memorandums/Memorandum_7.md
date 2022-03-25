@@ -1,6 +1,6 @@
 ---
 issue: content/issues/WPRN21.md
-tags:
+tag:
   - Big Data, Artificial Intelligence
   - 'Equality & Diversity Studies '
   - 'Human Behaviours, Social Relations '

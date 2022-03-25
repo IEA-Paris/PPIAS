@@ -3,7 +3,14 @@
     <v-col cols="12" md="12" lg="10" xl="10">
       <v-card>
         <div class="d-flex">
-          <v-btn tile text nuxt :to="localePath('/')" small class="py-7">
+          <v-btn
+            tile
+            text
+            nuxt
+            :to="localePath('/articles')"
+            small
+            class="py-7"
+          >
             <v-icon left>mdi-chevron-left</v-icon>
             {{ $t('back') }}
           </v-btn>

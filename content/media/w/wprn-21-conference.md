@@ -6,7 +6,6 @@ highlight: false
 id: ULeeaCclxW0
 issue: content/issues/WPRN21.md
 language: English
-tags: []
 type: youtube
 years: 2021
 

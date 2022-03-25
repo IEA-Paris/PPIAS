@@ -136,8 +136,12 @@ export default ` +
   // TODO : replace {published:true} with dynamic filters from import
   const articles = await $content('articles', { deep: true })
     // TODO check that custom_PDF is correctly evaluated
-    .where({ published: true, custom_pdf: true })
+    .where({ published: true /* ,custom_pdf: false  */ })
     .fetch()
+  console.log(
+    'articles: ',
+    articles.map((item) => item.article_title)
+  )
   return articles.map((article) => {
     // if the file has been changed
     return {

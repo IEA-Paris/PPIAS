@@ -215,7 +215,7 @@ export const actions = {
         (Array.isArray(filters[filter]) && filters[filter].length)
       ) {
         // check if we are matching against an array value
-        if (['tags', 'thematic', 'discipline', 'type'].includes(filter)) {
+        if (['tag', 'thematic', 'discipline', 'type'].includes(filter)) {
           pipeline[filter] = { $containsAny: val }
           // years to date special case
           // TODO make a fancy feature to limit the gte lt

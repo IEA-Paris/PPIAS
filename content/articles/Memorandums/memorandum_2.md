@@ -1,6 +1,6 @@
 ---
 issue: content/issues/WPRN21.md
-tags:
+tag:
   - 'Artificial Intelligence '
   - 'Public Health '
   - Democracy, Civil Society, Governance

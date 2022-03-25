@@ -1,6 +1,6 @@
 ---
 issue: content/issues/WPRN21.md
-tags:
+tag:
   - 'Big Data, Artificial Intelligence '
   - Consumption and Production Patterns
   - Firms, Markets, Finance

@@ -4,14 +4,16 @@ export default async () => {
   const filters = {}
   const { $content } = require('@nuxt/content')
   // TODO add .only() to limit the data fetched
-  const articles = await $content('articles').fetch()
-  const issues = await $content('issues').fetch()
+  const articles = await $content('articles', { deep: true })
+    .where({ published: true })
+    .fetch()
+  const issues = await $content('issues', { deep: true }).fetch()
   // year filter
   filters.years = {
     type: 'Select',
-    items: [...new Set(articles.map((article) => article.years))].filter(
-      (item) => item !== null && item !== '' && item
-    ),
+    items: [...new Set(articles.map((article) => article.years))]
+      .filter((item) => item !== null && item !== '' && item)
+      .sort((a, b) => a - b),
   }
   /* Too much items to expect - also covered by FTS
     // author filters
@@ -32,9 +34,9 @@ export default async () => {
   // language filters
   filters.language = {
     type: 'Select',
-    items: [...new Set(articles.map((article) => article.language))].filter(
-      (item) => item !== null && item !== ''
-    ),
+    items: [...new Set(articles.map((article) => article.language))]
+      .filter((item) => item !== null && item !== '')
+      .sort((a, b) => a - b),
   }
   // issue filters
   filters.issue = {
@@ -49,37 +51,39 @@ export default async () => {
           )
         })
       ),
-    ].filter((item) => item !== null && item !== ''),
+    ]
+      .filter((item) => item !== null && item !== '')
+      .sort((a, b) => a - b),
   }
   console.log('filters.issue: ', filters.issue)
 
   // Discipline filters
   filters.discipline = {
     type: 'Autocomplete',
-    items: [
-      ...new Set(articles.map((article) => article.disciplines).flat()),
-    ].filter((item) => item),
+    items: [...new Set(articles.map((article) => article.disciplines).flat())]
+      .filter((item) => item)
+      .sort((a, b) => a - b),
   }
   // Thematics filters
   filters.thematic = {
     type: 'Autocomplete',
-    items: [
-      ...new Set(articles.map((article) => article.thematics).flat()),
-    ].filter((item) => item),
+    items: [...new Set(articles.map((article) => article.thematics).flat())]
+      .filter((item) => item)
+      .sort((a, b) => a - b),
   }
   // Types filters
   filters.type = {
     type: 'Autocomplete',
-    items: [...new Set(articles.map((article) => article.types).flat())].filter(
-      (item) => item
-    ),
+    items: [...new Set(articles.map((article) => article.types).flat())]
+      .filter((item) => item)
+      .sort((a, b) => a - b),
   }
   // Keyword filters
   filters.tag = {
     type: 'Autocomplete',
-    items: [...new Set(articles.map((article) => article.tags).flat())].filter(
-      (item) => item
-    ),
+    items: [...new Set(articles.map((article) => article.tag).flat())]
+      .filter((item) => item)
+      .sort((a, b) => a - b),
   }
   // Media keyword filters
   const mediaTags = {
@@ -92,7 +96,9 @@ export default async () => {
           })
           .flat()
       ),
-    ].filter((item) => item),
+    ]
+      .filter((item) => item)
+      .sort((a, b) => a - b),
   }
 
   fs.writeFileSync(

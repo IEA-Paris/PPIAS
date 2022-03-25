@@ -13,9 +13,6 @@
           <div class="d-flex flex-grow-1 align-start">
             <v-img
               class="mr-2 logo-container-white"
-              :class="{
-                'ml-5': $vuetify.breakpoint.smAndUp,
-              }"
               src="/logo_w.png"
               contain
               max-height="120"

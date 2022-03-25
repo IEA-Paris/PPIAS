@@ -48,7 +48,14 @@
           : 'mt-0 mr-1'
       "
     />
-    <v-btn text tile class="ml-n3" small @click="expanded = !expanded">
+    <v-btn
+      v-if="Object.keys(filters).length > 2"
+      text
+      tile
+      class="ml-n3"
+      small
+      @click="expanded = !expanded"
+    >
       <v-icon left>{{
         expanded ? 'mdi-chevron-up' : 'mdi-chevron-down'
       }}</v-icon

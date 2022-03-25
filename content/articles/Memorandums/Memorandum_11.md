@@ -1,6 +1,6 @@
 ---
 issue: content/issues/WPRN21.md
-tags:
+tag:
   - 'Human Behaviours, Social Relations '
   - 'Inequalities, Poverty, Development '
   - 'Equality & Diversity Studies '

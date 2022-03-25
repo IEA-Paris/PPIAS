@@ -1,6 +1,6 @@
 ---
 issue: content/issues/WPRN21.md
-tags:
+tag:
   - 'Human Behaviours, Social Relations '
   - 'Public Policy, Evaluation, Impact '
   - 'Risks, Crisis Management '

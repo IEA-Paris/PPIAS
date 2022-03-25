@@ -1,7 +1,18 @@
 <template>
-  <article class="printpanel page a3" style="background-color: white">
+  <article class="printpanel page a4" style="background-color: white">
     <header>
-      <Logo></Logo>
+      <nuxt-img
+        src="/logo_b.png"
+        contain
+        preload
+        alt="Avatar"
+        style="
+          cursor: pointer;
+          width: 120px;
+          height: 120px;
+          border: 3px solid black;
+        "
+      ></nuxt-img>
     </header>
 
     <table class="paging">
@@ -127,7 +138,8 @@ export default {
   display: none !important;
 }
 .nuxt-content.article-body {
-  margin: 0 3vw;
+  margin: 0 0mm 0 0mm;
+  overflow: visible;
 }
 .nuxt-content.article-body p {
   font-size: 24px !important;
@@ -139,7 +151,6 @@ export default {
 }
 .nuxt-content.article-body h2 {
   font-size: 45px !important;
-  margin-top: 30px;
   margin-bottom: 30px;
   margin-top: 60px;
   word-spacing: 2px;
@@ -159,6 +170,7 @@ export default {
 }
 .article-authors {
   padding: 1em 0em;
+  font-size: 1.3rem;
   font-family: 'Open sans', sans-serif;
 }
 .article-abstract {
@@ -181,7 +193,7 @@ export default {
     height: 1in;
   }
   table.paging thead td {
-    height: 1.5in;
+    height: 2in;
   }
 }
 .article-abstract-frame {

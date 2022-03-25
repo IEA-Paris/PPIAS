@@ -6,11 +6,6 @@ highlight: false
 id: 6YGE_p-TxFY
 issue: content/issues/WPRN21.md
 language: English
-tags:
-  - History of Science, Technology and Medicine
-  - History of Science and Medicine
-  - Online conference
-  - Microbes
 type: youtube
 years: 2021
 

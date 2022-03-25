@@ -1,6 +1,6 @@
 ---
 issue: content/issues/WPRN21.md
-tags:
+tag:
   - History of Science, Technology and Medicine
   - History of Science and Medicine
   - Online conference

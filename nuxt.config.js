@@ -15,8 +15,8 @@ export default {
   generate: {
     page(page) {
       page.path = page.path.replace(/html$/, '...')
-    }
-  }
+    },
+  },
   /* Global page headers: https://go.nuxtjs.dev/config-head
   
   Headers of the page
