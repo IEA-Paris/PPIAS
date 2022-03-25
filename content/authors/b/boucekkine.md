@@ -1,4 +1,5 @@
 ---
+active: true
 articles:
   - Keynote 1
 categories:

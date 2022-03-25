@@ -5,17 +5,14 @@ import { writePrintRoutes } from './tools/lib/contentUtilities.js'
 EventEmitter.defaultMaxListeners = 20
 export default {
   env: { config },
-  dev: false,
   server: {
     port: 3000, // par défaut: 3000
     host: '0.0.0.0', // par défaut: localhost
   },
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
-  ssr: 'true',
-  generate: {
-    fallback: true,
-  },
+  ssr: true,
+
   /* Global page headers: https://go.nuxtjs.dev/config-head
   
   Headers of the page

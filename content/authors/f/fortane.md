@@ -1,4 +1,5 @@
 ---
+active: true
 articles:
   - Our Microbial Lives - table-ronde 3
   - Our Microbial Lives - table-ronde 1
