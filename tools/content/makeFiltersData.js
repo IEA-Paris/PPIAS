@@ -1,4 +1,5 @@
 import fs from 'fs'
+import disciplines from '../../assets/data/disciplines'
 export default async () => {
   const filters = {}
   const { $content } = require('@nuxt/content')
@@ -41,17 +42,10 @@ export default async () => {
     items: [
       ...new Set(
         articles.map((article) => {
-          console.log('article: ', article.article_title)
-          console.log(
-            'issue',
-            issues.find((issue) => {
-              return issue.path === article.issue.slice(7, -3)
-            })
-          )
           return (
             issues.find((issue) => {
               return issue.path === article.issue.slice(7, -3)
-            }).slug || []
+            })?.slug || null
           )
         })
       ),
@@ -113,7 +107,7 @@ export default async () => {
   
     },
     media: {
-      filters: {... filters, tags: mediaTags},
+      filters: {... filters, tag: mediaTags},
       sort:{}
     },
     authors: {

@@ -88,8 +88,10 @@ export default async (content) => {
       'tags',
       'years',
       'issue',
+      'published',
     ])
     .fetch()
+
   // we use this opportunity to get the dynamic routes for pdf-printing all the articles
   writePrintRoutes(articles)
   // extract the authors from articles with backlink
@@ -124,10 +126,17 @@ export default async (content) => {
   articleAuthors = secondPass.first
 
   authorsDocs = [...authorsDocs, ...secondPass.second]
-  // replace the titles and institutions array of object by an array of arrays (prismjs related?)
   authorsDocs = authorsDocs.map((item) => {
+    // replace the titles and institutions array of object by an array of arrays (prismjs related?)
     return {
       ...item,
+      // check that authors have at least one published paper
+      active: !!articles.find(
+        (article) =>
+          item.articles &&
+          item.articles?.includes(article.slug) &&
+          article.published
+      ),
       exerpt: item.text?.length ? item.text.slice(0, 350) : '',
       titles_and_institutions:
         item.titles_and_institutions &&
