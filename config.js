@@ -77,10 +77,10 @@ export default {
   },
   modules: {
     sentry: {
-      dsn: 'https://99ea2f822861419f86c278964ceeffbc@sentry.paris-ias.io/11',
+      dsn: 'https://a329c0ed448543d098d4c1956b6bffb4@sentry.paris-ias.io/13',
     },
     ackee: {
-      domain: 'e4284059-0038-4c3a-aa5b-de83db391c0a',
+      domain: '0406b6c9-6dfc-44de-bb13-83bc0607cb14',
       server: 'https://ackee.paris-ias.io/',
     },
     image: {
