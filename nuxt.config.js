@@ -449,8 +449,8 @@ export default {
      */
     viewport: {
       // override the default viewport
-      width: 1280,
-      height: 800,
+      width: 790,
+      height: 1200,
     },
 
     /*

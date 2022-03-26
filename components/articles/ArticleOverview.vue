@@ -64,7 +64,7 @@ export default {
   computed: {
     sortedTags() {
       return this.$route.query?.tags?.length
-        ? this.item.tags.reduce((acc, tag) => {
+        ? this.item.tag.reduce((acc, tag) => {
             if (
               this.$route.query.tags &&
               this.$route.query.tags.includes(JSON.stringify(tag))
@@ -73,7 +73,7 @@ export default {
             }
             return [...acc, tag]
           }, [])
-        : this.item.tags
+        : this.item.tag
     },
   },
   mounted() {},

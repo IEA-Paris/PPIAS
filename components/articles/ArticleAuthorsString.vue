@@ -2,7 +2,7 @@
   <div class="authors" v-html="formatAuthorsProxy()"></div>
 </template>
 <script>
-import { formatAuthors } from '~/assets/utils/transforms'
+import { formatAuthors, highlight } from '~/assets/utils/transforms'
 export default {
   props: {
     authors: {
@@ -22,7 +22,10 @@ export default {
   mounted() {},
   methods: {
     formatAuthorsProxy() {
-      return formatAuthors(this.authors, this.$i18n.$t, this.full)
+      return highlight(
+        formatAuthors(this.authors, this.$i18n.$t, this.full),
+        this.$store.state.articles.search || ''
+      )
     },
   },
 }

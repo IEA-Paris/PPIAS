@@ -30,7 +30,7 @@ export default {
       Array.from(
         rst
           // get only the tags
-          .flatMap((post) => post.tags)
+          .flatMap((post) => post.tag)
           // count them
           .reduce((acc, e) => acc.set(e, (acc.get(e) || 0) + 1), new Map())
       )

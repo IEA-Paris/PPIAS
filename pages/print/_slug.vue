@@ -39,12 +39,12 @@
                 })
               }}
             </div>
-            <template v-if="item.tags && item.tags.length">
+            <template v-if="item.tag && item.tag.length">
               <div class="article-label mt-6 mb-3">{{ $t('keywords') }}</div>
 
               <div class="mb-6">
                 <Tag
-                  v-for="(tag, index2) in item.tags"
+                  v-for="(tag, index2) in item.tag"
                   :key="index2"
                   small
                   :tag="tag"
@@ -52,7 +52,6 @@
                 ></Tag>
               </div>
             </template>
-            <v-divider class="py-3"></v-divider>
             <div
               v-if="item.abstract && item.abstract.length"
               class="article-label mt-12 mb-4"
@@ -138,7 +137,7 @@ export default {
   display: none !important;
 }
 .nuxt-content.article-body {
-  margin: 0 0mm 0 0mm;
+  margin: 0 5mm 0 0mm;
   overflow: visible;
 }
 .nuxt-content.article-body p {
@@ -193,7 +192,7 @@ export default {
     height: 1in;
   }
   table.paging thead td {
-    height: 2in;
+    height: 1.8in;
   }
 }
 .article-abstract-frame {

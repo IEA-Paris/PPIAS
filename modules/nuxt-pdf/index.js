@@ -1,4 +1,4 @@
-/* This module is originally bases on a work licenced as follows
+/* This module is originally based on a work licenced as follows
 ================
 The MIT License (MIT)
 
