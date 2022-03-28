@@ -10,21 +10,22 @@ export const state = () => ({
 
 export const mutations = {
   setLogo(state, value) {
+    Vue.set(state, 'logo', value)
     state.logo = value
   },
   setLoading(state, value) {
-    state.loading = value
+    Vue.set(state, 'loading', value)
   },
   setScrolled(state) {
     if (process.browser) {
-      state.scrolled = window.pageYOffset > 0
+      Vue.set(state, 'scrolled', window.pageYOffset > 0)
     }
   },
 
   loadRouteQuery(state, type, rootState) {
     const query = this.app.router.currentRoute.query
     if (query.search) {
-      state[type].search = query.search
+      Vue.set(state[type], 'search', query.search)
     }
     if (query.filters) {
       const filters = JSON.parse(query.filters)
@@ -56,12 +57,12 @@ export const mutations = {
     }
   },
   setSearch(state, { search, type }) {
-    state[type].search = search
+    Vue.set(state[type], 'search', search)
   },
   setItems(state, { type, ...values }) {
-    state[type].items = values.items
-    state[type].total = values.total
-    state[type].numberOfPages = values.numberOfPages
+    Vue.set(state[type], 'items', values.items)
+    Vue.set(state[type], 'total', values.total)
+    Vue.set(state[type], 'numberOfPages', values.numberOfPages)
   },
   setItemsPerPage(state, { value, type }) {
     state[type].itemsPerPage = value

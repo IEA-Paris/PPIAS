@@ -1,15 +1,21 @@
 <template>
   <aside class="transition-swing">
-    <v-btn
+    <div
       v-if="showReset"
-      outlined
-      x-large
-      block
-      :height="$vuetify.breakpoint.sm ? '40' : '56'"
-      @click="$store.dispatch('resetState', type) && $emit('close')"
-      ><v-icon left>mdi-autorenew</v-icon
-      >{{ $t('reset-your-search-filters') }}</v-btn
+      :class="$store.state.scrolled ? 'mr-0' : 'mr-1'"
+      class="w-100 transition-swing mb-1"
     >
+      <v-btn
+        outlined
+        x-large
+        block
+        :height="$vuetify.breakpoint.sm ? '40' : '56'"
+        @click="$store.dispatch('resetState', type) && $emit('close')"
+        ><v-icon left>mdi-autorenew</v-icon
+        >{{ $t('reset-your-search-filters') }}</v-btn
+      >
+    </div>
+
     <v-sheet
       v-else
       :height="$vuetify.breakpoint.sm ? '40' : '56'"

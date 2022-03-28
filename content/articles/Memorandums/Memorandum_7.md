@@ -12,7 +12,7 @@ tag:
   - Risks, Crisis Management
 date: 2020-11-01T22:00:00.000+00:00
 article_title:
-  'Covid 19 and the media : : the reinforced impact of traditional media
+  'Covid 19 and the media : the reinforced impact of traditional media
   does not prevent the spread of false information'
 picture: '/reforme_postage_portage_presse.png'
 picture_copyright: '©Unclesam - stock.adobe.com'

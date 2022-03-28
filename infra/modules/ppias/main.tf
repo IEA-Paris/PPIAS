@@ -41,7 +41,8 @@ resource "aws_cloudfront_distribution" "this" {
     tags                           = {}
     tags_all                       = {}
     wait_for_deployment            = true
-    default_root_object            = "index.html" 
+    default_root_object            = "index.html"
+    aliases                        = ["paris.pias.science"]
 
     default_cache_behavior {
         allowed_methods        = [
