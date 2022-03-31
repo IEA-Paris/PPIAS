@@ -14,6 +14,12 @@ resource "aws_ssm_parameter" "cloudfront_distribution_id" {
   value = aws_cloudfront_distribution.this.id
 }
 
+resource "aws_ssm_parameter" "s3_bucket_name" {
+  name  = "/${var.name}/s3/name"
+  type  = "String"
+  value = aws_s3_bucket.this.bucket
+}
+
 
 resource "aws_cloudfront_origin_access_identity" "this" {}
 
