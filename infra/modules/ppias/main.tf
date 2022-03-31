@@ -1,16 +1,15 @@
 provider "aws" {
   region  = var.region
-  profile = "prod"
 }
 
 #resource "aws_acm_certificate" "this" {}
 
 locals {
-  bucket_name = env == "prod" ? name : "${env}-${name}"
+  bucket_name = var.env == "prod" ? var.name : "${var.env}-${var.name}"
 }
 
 resource "aws_ssm_parameter" "cloudfront_distribution_id" {
-  name  = "/${name}/cloudfront/id"
+  name  = "/${var.name}/cloudfront/id"
   type  = "String"
   value = aws_cloudfront_distribution.this.id
 }
@@ -52,7 +51,7 @@ resource "aws_cloudfront_distribution" "this" {
   tags_all            = {}
   wait_for_deployment = true
   default_root_object = "index.html"
-  aliases             = env == "prod" ? ["paris.pias.science"] : []
+  aliases             = var.env == "prod" ? ["paris.pias.science"] : []
 
   default_cache_behavior {
     allowed_methods = [
@@ -69,7 +68,7 @@ resource "aws_cloudfront_distribution" "this" {
     max_ttl                = 86400
     min_ttl                = 0
     smooth_streaming       = false
-    target_origin_id       = "${local.bucket_name}.s3.eu-west-3.amazonaws.com"
+    target_origin_id       = "${local.bucket_name}.s3.${var.region}.amazonaws.com"
     trusted_key_groups     = []
     trusted_signers        = []
     viewer_protocol_policy = "redirect-to-https"
@@ -89,8 +88,8 @@ resource "aws_cloudfront_distribution" "this" {
   origin {
     connection_attempts = 3
     connection_timeout  = 10
-    domain_name         = "ppias.s3-website.eu-west-3.amazonaws.com"
-    origin_id           = "ppias.s3.eu-west-3.amazonaws.com"
+    domain_name         = "${local.bucket_name}.s3-website.${var.region}.amazonaws.com"
+    origin_id           = "${local.bucket_name}.s3.${var.region}.amazonaws.com"
 
     custom_origin_config {
       http_port                = 80
@@ -114,9 +113,10 @@ resource "aws_cloudfront_distribution" "this" {
   }
 
   viewer_certificate {
-    acm_certificate_arn            = env == "prod" ? "arn:aws:acm:us-east-1:720928668014:certificate/35951fda-9368-462a-8c57-afe5c7556d41" : null
-    cloudfront_default_certificate = false
+    acm_certificate_arn            = var.env == "prod" ? "arn:aws:acm:us-east-1:720928668014:certificate/35951fda-9368-462a-8c57-afe5c7556d41" : null
+    cloudfront_default_certificate = var.env == "prod" ? false : true
     minimum_protocol_version       = "TLSv1.2_2021"
     ssl_support_method             = "sni-only"
   }
+
 }
