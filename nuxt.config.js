@@ -16,6 +16,9 @@ export default {
     async routes() {
       const { $content } = require('@nuxt/content')
       const files = await Promise.all([
+        '/articles',
+        '/media',
+        '/authors',
         ...(
           await $content('articles', { deep: true }).only(['slug']).fetch()
         ).map((file) => '/articles/' + file.slug),
