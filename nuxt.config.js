@@ -13,11 +13,25 @@ export default {
   target: 'static',
   ssr: true,
   generate: {
-    page(page) {
-      page.path = page.path.replace(/html$/, '...')
+    async routes() {
+      const { $content } = require('@nuxt/content')
+      const files = await Promise.all([
+        ...(
+          await $content('articles', { deep: true }).only(['slug']).fetch()
+        ).map((file) => '/articles/' + file.slug),
+        ...(
+          await $content('media', { deep: true }).only(['slug']).fetch()
+        ).map((file) => '/media/' + file.slug),
+        ...(
+          await $content('authors', { deep: true }).only(['slug']).fetch()
+        ).map((file) => '/authors/' + file.slug),
+      ])
+      console.log('files: ', files)
+
+      return files
     },
   },
-  /* Global page headers: https://go.nuxtjs.dev/config-head
+  /* Global page headers: https://go.nuxtjs.dev/c onfig-head
   
   Headers of the page
     - Nuxt.js uses vue-meta to update the headers and html attributes of your application.

@@ -131,6 +131,7 @@ module.exports = async function PDF(moduleOptions) {
 
   this.nuxt.hook('listen', (_, router) => (url = router.url.toString()))
   this.nuxt.hook('build:compile', () => {
+    console.log('routeMap: ', routeMap)
     routeMap = require(path.resolve(this.options.buildDir, 'routes.json'))
   })
 

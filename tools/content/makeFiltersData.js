@@ -55,7 +55,6 @@ export default async () => {
       .filter((item) => item !== null && item !== '')
       .sort((a, b) => a - b),
   }
-  console.log('filters.issue: ', filters.issue)
 
   // Discipline filters
   filters.discipline = {
