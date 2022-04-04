@@ -33,8 +33,9 @@ export default {
         ...(
           await $content('authors', { deep: true }).only(['slug']).fetch()
         ).map((file) => '/authors/' + file.slug),
+        /*   await $content('issues', { deep: true }).only(['slug']).fetch()
+        ).map((file) => '/issues/' + file.slug), */
       ])
-      console.log('files: ', files)
 
       return files
     },

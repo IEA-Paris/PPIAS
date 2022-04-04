@@ -1,5 +1,8 @@
 <template>
-  <v-row class="transition-swing flex-row-reverse justify-center">
+  <v-row
+    class="transition-swing flex-row-reverse justify-center"
+    :no-gutters="!toc"
+  >
     <v-col
       :cols="
         item.toc && item.toc.length && toc && $vuetify.breakpoint.mdAndUp

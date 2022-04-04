@@ -22,8 +22,13 @@
           </div>
         </v-expansion-panel-header>
         <v-divider></v-divider>
-        <v-expansion-panel-content>
-          <Article v-if="item.length" :item="item[0]" :title="show"></Article>
+        <v-expansion-panel-content class="px-0">
+          <Article
+            v-if="item.length"
+            class="px-0"
+            :item="item[0]"
+            :title="show"
+          ></Article>
         </v-expansion-panel-content>
       </v-expansion-panel>
     </v-expansion-panels>
@@ -60,6 +65,7 @@
 <script>
 export default {
   beforeRouteUpdate(to, from, next) {
+    console.log('to.hash: ', to.hash)
     if (to.hash && to.hash.substring(1).startsWith('fn')) {
       this.note = this.item[0]?.footnotes[+to.hash.substring(4) - 1]
       this.showNote = true
@@ -67,6 +73,9 @@ export default {
 
       window.addEventListener('scroll', this.hideSnack)
       next(from.path)
+    } else if (to.hash && to.hash === '#authors' && !this.panels.includes(0)) {
+      this.panels.push(0)
+      next()
     } else {
       next()
     }
@@ -95,7 +104,7 @@ export default {
       tab: 0,
       note: false,
       loop: false,
-      panels: [1],
+      panels: this.$route.hash === '#authors' ? [0, 1] : [1],
     }
   },
   computed: {},

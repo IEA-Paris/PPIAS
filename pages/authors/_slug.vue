@@ -20,15 +20,7 @@
       <v-col cols="12" md="12" lg="10" xl="10">
         <v-card>
           <div class="d-flex">
-            <v-btn
-              tile
-              text
-              nuxt
-              :to="localePath('/authors')"
-              small
-              exact
-              class="py-7"
-            >
+            <v-btn tile text nuxt small exact class="py-7" @click="goBack">
               <v-icon left>mdi-chevron-left</v-icon>
               {{ $t('back') }}
             </v-btn>
@@ -216,7 +208,11 @@ export default {
   },
   computed: {},
   mounted() {},
-  methods: {},
+  methods: {
+    goBack() {
+      this.$router.go(-1)
+    },
+  },
 }
 </script>
 <style lang="scss"></style>

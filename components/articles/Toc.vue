@@ -63,7 +63,11 @@
           outlined
           class="justify-self-center my-6"
           v-bind="attrs"
-          :href="customPdf ? customPdf : '/pdfs/' + $route.params.slug + '.pdf'"
+          :href="
+            customPdf && customPdf.length
+              ? customPdf
+              : '/pdfs/' + $route.params.slug + '.pdf'
+          "
           nuxt
           target="_blank"
           :title="title"

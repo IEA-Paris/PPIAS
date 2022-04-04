@@ -46,7 +46,7 @@ export default async () => {
         articles.map((article) => {
           return (
             issues.find((issue) => {
-              return issue.path === article.issue.slice(7, -3)
+              return article.issue && issue.path === article.issue.slice(7, -3)
             })?.slug || null
           )
         })

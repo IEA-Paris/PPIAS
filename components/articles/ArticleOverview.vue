@@ -4,7 +4,7 @@
       <CiteModal :item="item" text></CiteModal>
 
       <DoiBadge :doi="item.doi"></DoiBadge>
-      <div class="overline mt-6">
+      <div id="authors" class="overline mt-6">
         {{ $tc('author_s', item.authors.length) }}
       </div>
       <ArticleAuthors :item="item"></ArticleAuthors>
