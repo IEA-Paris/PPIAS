@@ -1,8 +1,32 @@
 <template>
   <ArticleContainer :item="item[0]">
     <div v-intersect="onIntersect"></div>
-
-    <Article v-if="item.length" :item="item[0]" :title="show"></Article>
+    <v-expansion-panels v-model="panels" flat tile accordion hover multiple>
+      <v-expansion-panel>
+        <v-divider></v-divider>
+        <v-expansion-panel-header color="rgb(249, 249, 249)">
+          <div class="article_cat">
+            {{ $t('summary') }}
+          </div>
+        </v-expansion-panel-header>
+        <v-divider></v-divider>
+        <v-expansion-panel-content>
+          <ArticleOverview v-if="item.length" :item="item[0]"></ArticleOverview>
+        </v-expansion-panel-content>
+      </v-expansion-panel>
+      <v-expansion-panel>
+        <v-divider></v-divider>
+        <v-expansion-panel-header color="rgb(249, 249, 249)">
+          <div class="article_cat">
+            {{ $t('article') }}
+          </div>
+        </v-expansion-panel-header>
+        <v-divider></v-divider>
+        <v-expansion-panel-content>
+          <Article v-if="item.length" :item="item[0]" :title="show"></Article>
+        </v-expansion-panel-content>
+      </v-expansion-panel>
+    </v-expansion-panels>
     <v-snackbar
       v-model="showNote"
       multi-line
@@ -71,10 +95,13 @@ export default {
       tab: 0,
       note: false,
       loop: false,
+      panels: [1],
     }
   },
   computed: {},
-  mounted() {},
+  mounted() {
+    this.$store.commit('setLoading', false)
+  },
   methods: {
     onIntersect(entries, observer) {
       // More information about these options
@@ -91,5 +118,9 @@ export default {
 <style lang="scss">
 .note-snack .v-snack__content {
   padding-right: 0;
+}
+.article_cat {
+  text-transform: uppercase;
+  font-weight: bold;
 }
 </style>

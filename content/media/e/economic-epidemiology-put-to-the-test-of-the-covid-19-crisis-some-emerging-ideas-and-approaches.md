@@ -6,6 +6,7 @@ caption: >-
 date: '2021-12-09T09:00:24.000Z'
 highlight: false
 id: EtpubPswH2M
+index: 0
 issue: content/issues/WPRN21.md
 language: English
 type: youtube

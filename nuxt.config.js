@@ -13,6 +13,11 @@ export default {
   target: 'static',
   ssr: true,
   generate: {
+    // TODO double-check that it is necessary to decalre routes:
+    // somehow the integrated crawler doesn't do the job of matching dynamic routes.
+    // I see 2 possible reasons and probably missed some other ones:
+    // 1 - it is a store related issue > when the route slug is fetched from store, the crawler doesn't wait for it.
+    // 2 - the pdf generation module is tempering with the routes generation, thus preventing the crawler from doing its job
     async routes() {
       const { $content } = require('@nuxt/content')
       const files = await Promise.all([
@@ -358,7 +363,7 @@ export default {
   },
   // https://i18n.nuxtjs.org/
   i18n: {
-    langDir: 'i18n/',
+    langDir: 'translations/',
     locales: config.lang.locales,
     defaultLocale: config.lang.default,
     strategy: 'no_prefix',
@@ -472,6 +477,7 @@ export default {
 
     /*
      * Enable i18n support.
+    // TODO: reactivate
      */
     i18n: false,
 

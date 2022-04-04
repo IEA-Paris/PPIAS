@@ -26,6 +26,7 @@
               nuxt
               :to="localePath('/authors')"
               small
+              exact
               class="py-7"
             >
               <v-icon left>mdi-chevron-left</v-icon>

@@ -4,7 +4,6 @@
       <nuxt-img
         src="/logo_b.png"
         contain
-        preload
         alt="Avatar"
         style="
           cursor: pointer;

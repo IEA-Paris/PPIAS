@@ -4,7 +4,7 @@
     :to="localePath('/articles/' + item.slug)"
     @click="$emit('close')"
   >
-    <v-list-item-avatar tile>
+    <v-list-item-avatar tile class="mr-8">
       <YoutubeThumbnail v-if="item.yt && item.yt.length" :item="item">
       </YoutubeThumbnail>
       <PictureItem
@@ -17,7 +17,7 @@
       </TextFingerprint>
     </v-list-item-avatar>
     <v-list-item-content>
-      <v-list-item-title>
+      <v-list-item-title class="text-h6">
         {{ item.article_title }}
       </v-list-item-title>
       <v-list-item-subtitle>
@@ -45,7 +45,7 @@ export default {
 <style lang="scss">
 .graphIcon {
   display: flex;
-  max-width: 90px;
+  max-width: 120px;
   background-color: black;
 }
 </style>

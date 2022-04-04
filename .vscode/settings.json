@@ -1,5 +1,4 @@
 {
-  "i18n-ally.localesPaths": ["i18n/"],
   "eslint.enable": true,
   "debug.node.autoAttach": "off",
   "jest.rootPath": "apex/",

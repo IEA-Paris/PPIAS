@@ -80,11 +80,11 @@ export const mutations = {
     )
   },
   setSort(state, { value, type }) {
-    state[type].sortBy = [value[0]]
-    state[type].sortDesc = value[1] === 'desc'
+    Vue.set(state[type], 'sortBy', [value[0]])
+    Vue.set(state[type], 'sortDesc', value[1] === 'desc')
   },
   setView(state, { value, type }) {
-    state[type].view = value
+    Vue.set(state[type], 'view', value)
   },
   setFiltersCount(state, type) {
     const filters = state[type].filters
@@ -99,7 +99,7 @@ export const mutations = {
           (typeof filters[filter] === 'object' &&
             Object.keys(filters[filter]).length)
       ).length
-    state[type].filtersCount = filtersCount
+    Vue.set(state[type], 'filtersCount', filtersCount)
   },
   setBlankState(state, type) {
     console.log('RESET STATE', type)

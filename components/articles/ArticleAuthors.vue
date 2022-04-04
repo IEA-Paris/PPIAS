@@ -1,29 +1,32 @@
 <template>
-  <div class="ma-6">
+  <div class="">
     <div
       v-if="!item.authors || !item.authors.length"
       class="headline pa-12 text-center"
     >
       {{ $t('no-author-found-matching-this-article') }}
     </div>
-    <div v-for="(author, index) in item.authors" :key="index" class="pb-6">
-      <AuthorsListItem
+    <div v-for="(author, index) in item.authors" :key="index">
+      <AuthorSearchItem
         :item="{ ...author, slug: slugify(author.lastname) }"
         extended
         :index="index"
-      ></AuthorsListItem>
+      ></AuthorSearchItem>
     </div>
   </div>
 </template>
 <script>
-import AuthorsListItem from '../authors/AuthorsListItem.vue'
 import slugify from '~/assets/utils/slugify'
 export default {
-  components: { AuthorsListItem },
   props: {
     item: {
       type: Object,
       default: () => {},
+    },
+    titles: {
+      type: Boolean,
+      default: false,
+      required: false,
     },
   },
   data() {

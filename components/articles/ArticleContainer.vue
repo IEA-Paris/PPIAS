@@ -9,6 +9,7 @@
             nuxt
             :to="localePath('/articles')"
             small
+            exact
             class="py-7"
           >
             <v-icon left>mdi-chevron-left</v-icon>
@@ -74,38 +75,6 @@
           </template>
         </PageTitle>
 
-        <v-tabs
-          :value="$route.path"
-          background-color="transparent"
-          color="black"
-          class="mb-6"
-          grow
-        >
-          <v-tab
-            exact
-            nuxt
-            :to="localePath('/articles/' + $route.params.slug + '/summary')"
-          >
-            {{ $t('summary') }}
-          </v-tab>
-          <v-tab exact nuxt :to="localePath('/articles/' + $route.params.slug)">
-            {{ $t('article') }}
-          </v-tab>
-          <v-tab
-            exact
-            nuxt
-            :to="localePath('/articles/' + $route.params.slug + '/media')"
-          >
-            {{ $t('media') }}
-          </v-tab>
-          <v-tab
-            exact
-            nuxt
-            :to="localePath('/articles/' + $route.params.slug + '/authors')"
-          >
-            {{ $tc('author_s', item.authors.length) }}
-          </v-tab>
-        </v-tabs>
         <slot></slot>
       </v-card>
     </v-col>

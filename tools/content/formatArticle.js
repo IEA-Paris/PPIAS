@@ -14,6 +14,7 @@ export default (document, database) => {
     const toc2 = []
     if (document.yt) {
       document.media.push({
+        index: 0,
         type: 'youtube',
         id: document.yt,
         caption: document.article_title,
@@ -47,7 +48,7 @@ export default (document, database) => {
         if (flag >= 0) {
           toc2.push({
             depth: flag + 2,
-            id: child.props.id || 'youtube_' + index,
+            id: child.props.id || 'youtube_' + document.media.length,
             text:
               document.toc.find((item) => item.id === child.props.id)?.text ||
               child.props.caption,
@@ -58,7 +59,7 @@ export default (document, database) => {
           if (!document.media.find((item) => item.id === child.props.yt))
             document.media.push({
               type: 'youtube',
-              id: child.props.yt,
+              index: document.media.length - (document.yt ? 1 : 0),
               caption: child.props.caption,
             })
         }
@@ -91,7 +92,9 @@ export default (document, database) => {
                     tag: 'h2',
                     props: {
                       class: '',
-                      id: 'youtube_' + index,
+                      id:
+                        'youtube_' +
+                        (document.media.length - (document.yt ? 1 : 0)),
                       // TODO addd vuetify goTo instead of link
                     },
                     children: [{ type: 'text', value: ' ' }],

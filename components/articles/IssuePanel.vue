@@ -35,6 +35,7 @@ export default {
     }
   },
   async fetch() {
+    // TODO rationalize
     console.log('this.item.slice(14, -3): ', this.item.slice(14, -3))
     this.issue = (
       await this.$content('issues')
@@ -44,7 +45,10 @@ export default {
 
     this.total = (
       await this.$content('articles', { deep: true })
-        .where({ issue: { $eq: 'content' + this.issue.path + '.md' } })
+        .where({
+          issue: { $eq: 'content' + this.issue.path + '.md' },
+          published: true,
+        })
         .only([])
         .fetch()
     ).length

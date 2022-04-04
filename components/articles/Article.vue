@@ -1,8 +1,10 @@
 <template>
-  <v-row class="transition-swing flex-row-reverse">
+  <v-row class="transition-swing flex-row-reverse justify-center">
     <v-col
       :cols="
-        item.toc && item.toc.length && $vuetify.breakpoint.mdAndUp ? 9 : 12
+        item.toc && item.toc.length && toc && $vuetify.breakpoint.mdAndUp
+          ? 9
+          : 12
       "
       class="transition-swing"
     >
@@ -31,7 +33,9 @@
                   v-on="on"
                 >
                   <v-expand-transition>
-                    <span v-show="title && !toc">Menu</span>
+                    <span v-show="title && !toc">{{
+                      $t('table-of-content')
+                    }}</span>
                   </v-expand-transition>
                   <v-icon>
                     {{ toc ? 'mdi-chevron-left' : 'mdi-chevron-right' }}

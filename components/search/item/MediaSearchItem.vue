@@ -1,7 +1,9 @@
 <template>
   <v-list-item
     nuxt
-    :to="localePath('/articles/' + item.article_slug + '/media')"
+    :to="
+      localePath('/articles/' + item.article_slug + '#youtube_' + item.index)
+    "
     @click="$emit('close')"
   >
     <v-list-item-icon>
