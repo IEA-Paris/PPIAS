@@ -3,6 +3,7 @@
     class="transition-swing flex-row-reverse justify-center"
     :no-gutters="!toc"
   >
+    <TocDialog v-if="$vuetify.breakpoint.xs" v-model="toc" />
     <v-col
       :cols="
         item.toc && item.toc.length && toc && $vuetify.breakpoint.mdAndUp
@@ -23,7 +24,7 @@
             :class="title ? '' : 'shadow'"
           >
             <v-tooltip
-              v-if="item.toc && item.toc.length && $vuetify.breakpoint.mdAndUp"
+              v-if="item.toc && item.toc.length && $vuetify.breakpoint.smAndUp"
               bottom
             >
               <template #activator="{ on, attrs }">

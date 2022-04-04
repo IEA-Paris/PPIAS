@@ -14,6 +14,7 @@
   >
     <YoutubeThumbnail
       v-if="item.id && item.id.length"
+      :key="item.id"
       :item="{ ...item, yt: item.id }"
     >
       <!--       <template #categories>

@@ -21,11 +21,26 @@
           class="d-flex menu"
           transition="v-expand-transition"
         >
-          <v-btn text nuxt :to="localePath('/articles')">{{
-            $t('articles')
-          }}</v-btn>
-          <v-btn text nuxt :to="localePath('/media')">{{ $t('media') }}</v-btn>
-          <v-btn text nuxt :to="localePath('/authors')">
+          <v-btn
+            text
+            nuxt
+            :to="localePath('/articles')"
+            @click="handleClick('article')"
+            >{{ $t('articles') }}</v-btn
+          >
+          <v-btn
+            text
+            nuxt
+            :to="localePath('/media')"
+            @click="handleClick('media')"
+            >{{ $t('media') }}</v-btn
+          >
+          <v-btn
+            text
+            nuxt
+            :to="localePath('/authors')"
+            @click="handleClick('authors')"
+          >
             {{ $t('authors') }}
           </v-btn>
         </div>
@@ -45,6 +60,12 @@ export default {
   },
   computed: {},
   mounted() {},
+  methods: {
+    handleClick(type) {
+      if (this.$route.name.startsWith(type))
+        this.$store.dispatch('resetState', type)
+    },
+  },
 }
 </script>
 <style lang="scss">

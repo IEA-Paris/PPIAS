@@ -41,6 +41,7 @@ export default {
     yt: {
       type: String,
       default: '',
+      required: true,
     },
     nocontrols: {
       type: Boolean,
