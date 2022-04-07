@@ -1,12 +1,12 @@
 ---
-issue: []
+issue: content/issues/WPRN21.md
 keywords:
 - COVID-19
 - Public Policy
 - Employment
 - Employment Insurance
 - Universal Basic Income
-date: 2022-03-24T15:10:20Z
+date: 2022-03-24T15:10:20.000+00:00
 language: English
 disciplines: ''
 published: false
@@ -40,12 +40,12 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: ''
+bibliography: "/documents-exportes_rn1.bib"
 
 ---
-In April of 2020, my co-author and I did what I assume most sane people also did while subject to stay-at-home orders: we wrote a full-length law review article on government responses to the COVID-19 pandemic (Lord & Saad, 2020). We drew from constantly changing, sometimes obscure, government websites. Programs were revised as quickly as they were announced and rolled out. We wrote our initial draft in just under two weeks, and we had to revise significant portions of it almost immediately, and subsequently when we received feedback from peer reviewers. Although we aggressively disseminated our draft on research repositories, the final, paginated version was only printed a full year later.
+In April of 2020, my co-author and I did what I assume most sane people also did while subject to stay-at-home orders: we wrote a full-length law review article on government responses to the COVID-19 pandemic (@lord_tackling_2020). We drew from constantly changing, sometimes obscure, government websites. Programs were revised as quickly as they were announced and rolled out. We wrote our initial draft in just under two weeks, and we had to revise significant portions of it almost immediately, and subsequently when we received feedback from peer reviewers. Although we aggressively disseminated our draft on research repositories, the final, paginated version was only printed a full year later.
 
-I describe these circumstances to emphasise the challenges researchers faced in providing crucial input regarding pandemic responses. These challenges created significant barriers to research generation and dissemination, especially for early-career and pre-tenure academics, and yet more so for women and other historically marginalised groups (@Lord_2021; @Blundell et al._2020; @Immel et al._2022). These groups disproportionately bore the impact of the pandemic.
+I describe these circumstances to emphasise the challenges researchers faced in providing crucial input regarding pandemic responses. These challenges created significant barriers to research generation and dissemination, especially for early-career and pre-tenure academics, and yet more so for women and other historically marginalised groups (@lord_covid_2021; @blundell_covid_2020; @immel_the_2022). These groups disproportionately bore the impact of the pandemic.
 
 As a (privileged) aspiring scholar, I tried to do my small part by quickly writing an article, knowing that it would likely never be published in traditional fora. The fact that it was is a testimony to the flexibility and support of the peer reviewers and student editors who had to fulfil their mandates with highly unusual (and unreasonable) promptness. More broadly, many other scholars heeded the call to serve and produced important and timely research regarding the COVID-19 pandemic (@Pericàs et al._2020; @Takagi_2020), often at a significant personal or professional cost.
 
