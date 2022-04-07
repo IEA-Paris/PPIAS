@@ -46,6 +46,10 @@ resource "aws_s3_bucket_policy" "this" {
 
 resource "aws_s3_bucket_website_configuration" "this" {
   bucket = aws_s3_bucket.this.bucket
+
+  index_document {
+    suffix = "index.html"
+  }
 }
 
 resource "aws_cloudfront_distribution" "this" {
