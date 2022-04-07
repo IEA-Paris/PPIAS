@@ -11,9 +11,13 @@ on:
   push:
     branches:
       - main
-      - master
+      - develop
     paths-ignore:
       - 'infra/**'
+
+env:
+  ENV: ${{ github.ref == 'refs/heads/main' && 'prod' || 'dev' }}
+  AWS_REGION: 'eu-west-3' # paris
 
 jobs:
   ci:
@@ -82,22 +86,32 @@ jobs:
               echo "No changes since last run"
           fi
 
+      - uses: "aws-actions/configure-aws-credentials@v1"
+        with:
+          aws-access-key-id: ${{ env.ENV == 'prod' && secrets.AWS_ACCESS_KEY_ID ||  secrets.AWS_ACCESS_KEY_ID_DEV }}
+          aws-secret-access-key: ${{ env.ENV == 'prod' && secrets.AWS_SECRET_ACCESS_KEY || secrets.AWS_SECRET_ACCESS_KEY_DEV }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - uses: "marvinpinto/action-inject-ssm-secrets@latest"
+        with:
+          ssm_parameter: "/ppias/cloudfront/id"
+          env_variable_name: "ssm_cloudfront_id"
+
+      - uses: "marvinpinto/action-inject-ssm-secrets@latest"
+        with:
+          ssm_parameter: "/ppias/s3/name"
+          env_variable_name: "ssm_s3_name"
+
       - name: Deploy to S3 🚀🚀🚀
         uses: jakejarvis/s3-sync-action@master
         with:
           args: --acl public-read --follow-symlinks --delete
         env:
-          AWS_S3_BUCKET: ppias #TODO: fetch from tf
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_REGION: 'eu-west-3' # optional: defaults to us-east-1
+          AWS_S3_BUCKET: ${{ env.SSM_S3_NAME }}
           SOURCE_DIR: 'dist'
 
       - name: Invalidate Cloudfront Cache
         uses: chetan/invalidate-cloudfront-action@v2
         env:
-          DISTRIBUTION: 'E4XXPE62GI1B3' #TODO: fetch from tf
+          DISTRIBUTION: ${{ env.SSM_CLOUDFRONT_ID }}
           PATHS: '/*'
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_REGION: 'us-east-1'
