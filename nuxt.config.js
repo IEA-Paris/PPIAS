@@ -25,11 +25,13 @@ export default {
         '/media',
         '/authors',
         ...(
-          await $content('articles', { deep: true }).only(['slug']).fetch()
+          await $content('articles', { deep: true, published: true })
+            .only(['slug'])
+            .fetch()
         ).map((file) => '/articles/' + file.slug),
-        ...(
+        /*       ...(
           await $content('media', { deep: true }).only(['slug']).fetch()
-        ).map((file) => '/media/' + file.slug),
+        ).map((file) => '/media/' + file.article_slug), */
         ...(
           await $content('authors', { deep: true }).only(['slug']).fetch()
         ).map((file) => '/authors/' + file.slug),
