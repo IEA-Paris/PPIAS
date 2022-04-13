@@ -4,7 +4,7 @@
       <v-list-item
         v-for="ref in item.bibliography"
         :key="ref.id"
-        :to="ref.link ? '#blbb' + ref.id : ''"
+        :to="ref.link ? '#blbb-' + ref.id : ''"
         nuxt
       >
         <v-list-item-content :id="ref.id" v-html="ref[style]">

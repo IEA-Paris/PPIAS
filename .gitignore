@@ -103,7 +103,7 @@ yarn.lock
 .terragrunt-cache/
 
 # custom generated files
-static/pdfs
+#static/pdfs
 content/authors/*
 content/media/*
 

@@ -116,7 +116,12 @@ export default {
   },
   computed: {},
   async updated() {
-    if (!this.scrolling && !this.intersected['toc_' + this.activeToc]) {
+    console.log('UPDATED')
+    if (
+      this.activeToc &&
+      !this.scrolling &&
+      !this.intersected['toc_' + this.activeToc]
+    ) {
       const currentRef = '#toc_' + this.activeToc
       this.scrolling = true
       await this.$vuetify.goTo(currentRef, {

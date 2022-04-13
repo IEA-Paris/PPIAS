@@ -55,32 +55,37 @@
 export default {
   beforeRouteUpdate(to, from, next) {
     console.log('to.hash: ', to.hash)
-    if (to.hash && to.hash.substring(1).startsWith('fn')) {
+    if (to.hash && to.hash.startsWith('#fn-')) {
       this.footnote = true
       this.note = this.item[0]?.footnotes[+to.hash.substring(4) - 1].value
       this.showNote = true
       this.noteIndex = +to.hash.substring(4)
-
       window.addEventListener('scroll', this.hideSnack)
+      next(from)
+    } else if (to.hash && to.hash.startsWith('#bb-')) {
+      console.log(
+        'this.$config.modules.bibliography.defaultStyle: ',
+        this.$config.modules.bibliography.defaultStyle
+      )
+      console.log('to.hash.substring(3): ', to.hash.substring(4))
+
+      this.note = this.item[0].bibliography.find(
+        (item) => item.id === to.hash.substring(4)
+      )[this.$store.state.articles.style]
+      console.log('this.note: ', this.note)
+      if (this.note) {
+        this.footnote = false
+        this.$nextTick(() => {
+          this.showNote = true
+        })
+        window.addEventListener('scroll', this.hideSnack())
+        next(from)
+      }
       next(from.path)
     } else if (to.hash && to.hash.substring(1).startsWith('blfn')) {
       this.$vuetify.goTo(to.hash.replace('#blfn', '#fn'), { offset: 100 })
     } else if (to.hash && to.hash.substring(1).startsWith('blbb')) {
       this.$vuetify.goTo(to.hash.replace('#blbb', '#bb'), { offset: 100 })
-    } else if (to.hash && to.hash.substring(1).startsWith('bb')) {
-      this.footnote = false
-      console.log(
-        'this.$config.modules.bibliography.defaultStyle: ',
-        this.$config.modules.bibliography.defaultStyle
-      )
-      this.note = this.item[0].bibliography.find(
-        (item) => item.id === to.hash.substring(3)
-      )?.APA
-
-      this.showNote = true
-      this.noteIndex = +to.hash.substring(3)
-      window.addEventListener('scroll', this.hideSnack)
-      next(from.path)
     } else if (to.hash && to.hash === '#authors' && !this.panels.includes(0)) {
       this.panels.push(0)
       next()
@@ -127,6 +132,7 @@ export default {
       this.show = entries[0].isIntersecting
     },
     hideSnack() {
+      console.log('DIS SNACK')
       this.showNote = false
       window.removeEventListener('scroll', this.hideSnack)
     },

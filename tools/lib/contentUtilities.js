@@ -246,7 +246,7 @@ export const insertReferences = (node, biblio) => {
             {
               type: 'element',
               tag: 'a',
-              props: { id: 'bb' + ref.id, href: '#bb' + ref.id },
+              props: { id: 'bb-' + ref.id, href: '#bb-' + ref.id },
               children: [
                 {
                   type: 'text',

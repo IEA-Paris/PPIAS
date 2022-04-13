@@ -19,11 +19,15 @@ export default (document, database) => {
           return {
             ...item,
             // TODO update with dynamic lang & add more formats, dynamic default format: https://citation.js.org/api/0.3/tutorial-output_plugins_csl.html
-            citation: new Citation(item).format('citation', {
-              format: 'html',
-              template: 'apa',
-              lang: 'en-US',
-            }),
+            citation: new Citation(item)
+              .format('citation', {
+                format: 'text',
+                template: 'apa',
+                lang: 'en-US',
+              })
+              // To remove the parentheses
+              // TODO come up with a better way
+              .slice(1, -1),
             APA: new Citation(item).format('bibliography', {
               format: 'html',
               template: 'apa',
