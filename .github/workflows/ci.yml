@@ -68,21 +68,10 @@ jobs:
           ORCID_SANDBOX_SECRET_KEY_ID: ${{secrets.ORCID_SANDBOX_SECRET_KEY_ID}}
 
       - name: Retro push generated content 🧙‍♂️
-        run: git config user.name github-actions
+         run: |
           git config user.email github-actions@github.com
-          git add .
-          git commit -m "[skip ci] auto-generated content"
-          git push
-
-      - name: Prepare to merge the generated content
-        uses: actions/checkout@v2.4.0
-        with:
-          clean: 'false'
-
-      - name: Retro push generated content 🧙‍♂️
-        run: git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
+          git add content
+          git add -f static/pdfs
           git commit -m "[skip ci] auto-generated content"
           git push
 
