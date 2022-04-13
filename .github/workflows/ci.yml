@@ -60,23 +60,25 @@ jobs:
         #- name: Run tests 🧪
         #  run: yarn test
 
-      - name: Generate & bundle 🤞
+      - name: Generate & bundle🤞
         run: yarn build && yarn generate
         env:
           DEEPL_KEY: ${{ secrets.DEEPL_KEY }}
           ORCID_ID: ${{secrets.ORCID_SANDBOX_ID}}
           ORCID_SANDBOX_SECRET_KEY_ID: ${{secrets.ORCID_SANDBOX_SECRET_KEY_ID}}
 
-      - name: Prepare to merge the generated content 🧙‍♂️
+      - name: Prepare to merge the generated content
         uses: actions/checkout@v2.4.0
         with:
           clean: 'false'
-        run: |
-          git config user.name github-actions
+
+      - name: Retro push generated content 🧙‍♂️
+        run: git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
           git commit -m "[skip ci] auto-generated content"
           git push
+
       - uses: 'aws-actions/configure-aws-credentials@v1'
         with:
           aws-access-key-id: ${{ env.ENV == 'prod' && secrets.AWS_ACCESS_KEY_ID ||  secrets.AWS_ACCESS_KEY_ID_DEV }}
