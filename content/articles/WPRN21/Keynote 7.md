@@ -41,7 +41,7 @@ picture: ''
 picture_copyright: ''
 yt: iFabYJBx8ls
 highlight: false
-bibliography: '/documents-exportes_keynote7.bib'
+bibliography: '/bibliography/documents-exportes_keynote7.bib'
 ---
 
 ## Emotional responses to the pandemic through the lens of text data

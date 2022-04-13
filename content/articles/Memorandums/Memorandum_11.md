@@ -22,7 +22,7 @@ yt: ''
 published: true
 pinned: false
 highlight: false
-bibliography: '/my-collection_memo11.bib'
+bibliography: '/bibliography/my-collection_memo11.bib'
 authors:
   - firstname: 'Victor '
     lastname: Galonnier

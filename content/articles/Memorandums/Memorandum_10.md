@@ -27,7 +27,7 @@ category1:
     text: Article
 pinned: false
 highlight: false
-bibliography: '/documents-exportes_memo10.bib'
+bibliography: '/bibliography/documents-exportes_memo10.bib'
 authors:
   - firstname: 'Aurélie '
     lastname: 'Louchart '

@@ -14,7 +14,7 @@ picture_copyright: ''
 yt: ''
 published: true
 pinned: false
-bibliography: '/test.bib'
+bibliography: '/bibliography/test.bib'
 authors:
   - firstname: 'Atrina '
     lastname: Oraee
@@ -75,9 +75,9 @@ discipline:
 
 The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe.
 
-The ICA was established in 2016 through the University-Based Institutes for Advanced Study (UBIAS) coalition which has 44 member institutes around the world.
+The ICA was established in 2016 through the University-Based Institutes for Advanced Study (UBIAS) coalition which has 44 member institutes around the world (@cordelois_how_2020).
 
-During each edition of Intercontinental Academia, participants get together in three sessions over the course of one year.
+During each edition of Intercontinental Academia, participants get together in three sessions over the course of one year [^1].
 
 Previous editions of ICA have focused on "Time", "Human Dignity" and "Laws: Rigidity and Dynamics".
 
@@ -127,7 +127,7 @@ The ICA4 continued onto the second day, through which three seminars took place 
 
 The first lecture was by[ _Robert Aumann_](https://www.intercontinental-academia.org/mentors#aumann 'Robert Aumann'), a Nobel prize laureate, who focused on the convoluted concept of consciousness and its counterparts.
 
-This was followed by a lecture from[ _Karen Yeung_](https://www.intercontinental-academia.org/mentors#yeung 'Karen Yeung'), who offered a rather critical point of view on the prevalence of AI, as well as some of its surrounding myths and misconceptions. She then went on to explain how responsibility should be re-defined to consider the unintended impact(s) of AI in human societies.
+This was followed by a lecture from [ _Karen Yeung_](https://www.intercontinental-academia.org/mentors#yeung 'Karen Yeung'), who offered a rather critical point of view on the prevalence of AI, as well as some of its surrounding myths and misconceptions. She then went on to explain how responsibility should be re-defined to consider the unintended impact(s) of AI in human societies.
 
 Finally,[_Raouf Boucekkine _](https://www.intercontinental-academia.org/about/ica4#boucekkine 'Raouf Boucekkine')took the fellows for an exploration into the world of economics and finance, using the concept of equilibrium as an example to illustrate the difference between disciplines: mainstream economics VS. statistical physics!
 
@@ -146,7 +146,7 @@ Finally,[_Raouf Boucekkine _](https://www.intercontinental-academia.org/about/ic
 
 ### Myths and misunderstandings about responsibility for the unintended impact of AI
 
-Presented by[Karen Yeung](https://www.intercontinental-academia.org/mentors#yeung)
+Presented by [Karen Yeung](https://www.intercontinental-academia.org/mentors#yeung)
 
 The talk mostly focused on responsibility for the unintended impact of Artificial Intelligence, based on the presenter's Council of Europe study. It was argued that Machine Learning's (ML) capacity to enable task automation and machine "autonomy" raise important questions about responsibility. Thus, responsibility-relevant attributes of ML were identified, for which an illustration is the data-driven profiling of individuals, and other ML applications, which may hold adverse impacts on human rights, on both individual and collective levels.
 
@@ -185,7 +185,7 @@ Finally, Toshio Fukuda revealed the Moonshot project: a society where humans and
 
 ### Distributed Intelligence & Distributed Agency
 
-Presented by[ **_Saadi Lahlou_**](https://www.intercontinental-academia.org/about/ica4#lahlou 'Saadi Lahlou')
+Presented by [ **_Saadi Lahlou_**](https://www.intercontinental-academia.org/about/ica4#lahlou 'Saadi Lahlou')
 
 We want intelligence to perform relevantly adapted actions that change the situation in which we are for the better. To design intelligence, we must first understand the nature of the actual activity. In this sense, the behaviour was defined as what people do, seen from the outside. In other words, behaviour remains an external description of objective phenomena. This is while activity is how people subjectively perceive their action and how they see it from their own perspective.
 
@@ -199,7 +199,7 @@ To conclude, ICA4 Fellows were left with some questions as food for thought. For
 
 ### Perspective on Artificial Intelligence research from studies on Agency, self-recognition and social cognition in animals
 
-Presented by[ **_William Hopkins_**](https://www.intercontinental-academia.org/mentors#hopkins 'William Hopkins')
+Presented by [ **_William Hopkins_**](https://www.intercontinental-academia.org/mentors#hopkins 'William Hopkins')
 
 The session began by discussing humans constructed concepts to reflect intellectual abilities in various domains of cognitive functions. In this sense, we use tests like the WAIS or Stanford Binet to quantify and scale performance to standards for specific age classes. These tests rely heavily on language. There are many approaches to developing fair tests of cognition between species with different sensory and motor capabilities. It began with Darwin and Furness. Then, George Romanes (1884) focused on animal intelligence and later on, Kohler (1925) on insight learning. Within the same field, Robert Yerkes (1916) worked on “The mental life of monkeys and apes: a study of ideational behavior”. Yerkes later developed the IQ test used by the army in WW1 (army alpha test).
 
@@ -211,7 +211,7 @@ However, is it language? There is very little evidence for declarative productio
 
 ### AI and Robots for Future: The Moon Shot Project
 
-Presented by[ **_Toshio Fukuda_**](https://www.intercontinental-academia.org/mentors#fukuda 'Toshio Fukuda')
+Presented by [ **_Toshio Fukuda_**](https://www.intercontinental-academia.org/mentors#fukuda 'Toshio Fukuda')
 
 Robots are avatars that pop up to help when humans need them. There is an information and physical interaction between robots and humans. Toshio showed several multi-scale robots, e.g., monkey-type robots, multi-locomotion, intelligent cane, etc. One of these robots is the Brachiator I-III. Brachiation is a form of long-armed ape locomotion. It uses dynamics of the pendulum, under-actuated mechanical system, variable constraint system, machine learning, AI, reinforce learning, soft computing (fuzzy, genetic algorithm). Regarding multi-locomotion types, in many cases, one creature has multiple types of locomotion in order to improve its mobility. The motivation of their study is to develop a robot mechanism and a control architecture that can achieve multiple locomotions. Hybrid computational intelligence, i.e., AI and brain interface were also commented upon by the speaker while showing a series of related videos. An example of such videos illustrated the Boston dynamics atlas and others: three robots dancing and jumping which was quite impressive!
 
@@ -238,3 +238,5 @@ While the latter (in particular machine learning algorithms) learns from statist
 Upon completion of the talks by ICA4 Mentors, Paris-Saclay hosted a half-day event with multiple workshops in which ICA4 mentors and Paris-Saclay researchers discussed major advances and issues surrounding AI.[ _Stanislas Dehaene_](https://www.college-de-france.fr/site/en-stanislas-dehaene/index.htm 'Stanislas Dehaene') presented a series of fMRI, MEG, and behavioural evidence that humans use symbolic and recursive strategies on prediction tasks with complex sequences, as compared with monkeys which seem to use a picture-based strategy. In a session focusing on AI and ethics,[ _Paola Tubaro_](https://databigandsmall.com 'Paola Tubaro') revealed the hidden human workers who provide the hand-labelled training data for products such as Siri. This is due to companies and corporations needing a cheap workforce in the same language, ultimately reproducing historic colonial patterns.
 
 Finally, the intellectually intense day came to an end with a talk in which [_Zaven Paré_](https://www.intercontinental-academia.org/mentors/#pare 'Zaven Paré') discussed his artistic works based on electronic marionettes and his collaborations with robotics specialists in Japan. Paré’s conception of automaton-centred theatre enchants audiences while challenging our tendency towards anthropomorphisation. This raises important questions regarding how we will interact with AI algorithms and intelligent robotics in the decades to come...
+
+[^1]: This is the footnote everyone always dreamed about. It is lengthy yet not that much. It is plain good.

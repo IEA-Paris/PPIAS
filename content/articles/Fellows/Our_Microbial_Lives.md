@@ -38,7 +38,7 @@ category1:
     text: Article
 pinned: false
 highlight: false
-bibliography: '/anystyle.bib'
+bibliography: '/bibliography/anystyle.bib'
 abstract:
   'Introduction du forum "Our Microbial Lives: A Forum Against Eradication",  May
   27, 2021, Paris Institute for Advanced Study'

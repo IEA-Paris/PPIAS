@@ -38,7 +38,7 @@ picture: ''
 picture_copyright: ''
 yt: pIFgorYnIlM
 highlight: false
-bibliography: '/documents-exportes_keynote3.bib'
+bibliography: '/bibliography/documents-exportes_keynote3.bib'
 ---
 
 ## COVID‑19 and the value of safe transport in the United States

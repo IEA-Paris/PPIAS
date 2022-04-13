@@ -116,7 +116,7 @@ $stepper-elevation: 0;
   padding-bottom: 0;
 }
 // FF print fix
-@media print {
+/* @media print {
   .application {
     display: block !important;
   }
@@ -126,7 +126,7 @@ $stepper-elevation: 0;
   .content--wrap {
     display: block !important;
   }
-}
+} */
 @media print {
   body,
   .printpanel {
@@ -134,13 +134,13 @@ $stepper-elevation: 0;
     height: auto !important;
   }
   body {
-    margin: 25mm 25mm 25mm 25mm !important;
+    margin: 15mm 15mm 15mm 25mm !important;
   }
   @page {
     size: auto; /* auto is the initial value */
 
     /* this affects the margin in the printer settings */
-    margin: 25mm 25mm 25mm 25mm;
+    margin: 15mm 0mm 15mm 25mm;
   }
 }
 /* 

@@ -67,7 +67,7 @@
         >
           <div
             v-if="item.abstract && item.abstract.length"
-            class="abstract-panel text-caption"
+            class="abstract-panel"
           >
             <div class="overline mt-n1 ml-n1 text-grey">
               {{ $t('abstract') }}
@@ -100,6 +100,23 @@
             style="max-width: 650px"
             class="page a4"
           />
+          <div
+            v-if="item.bibliography && item.bibliography.length"
+            class="bibliography-panel"
+          >
+            <div id="bibliography" class="text-h4 mt-3 d-flex">
+              {{ $t('bibliography') }}
+              <v-spacer></v-spacer>
+              <BibliographyStyleMenu></BibliographyStyleMenu>
+            </div>
+            <ArticleBibliography :item="item"></ArticleBibliography>
+          </div>
+          <template v-if="item.footnotes && item.footnotes.length">
+            <div id="footnotes" class="text-h4 mt-3">
+              {{ $t('footnotes') }}
+            </div>
+            <ArticleFootnotes :item="item"></ArticleFootnotes>
+          </template>
         </v-card-text>
 
         <v-card-subtitle class="pb-0">
@@ -158,7 +175,6 @@ export default {
   data() {
     return {
       toc: true,
-      show: false,
       currentlyActiveToc: '',
       observer: null,
       observerOptions: {
@@ -180,7 +196,9 @@ export default {
     }, this.observerOptions)
     // Track all sections that have an `id` applied
     document
-      .querySelectorAll('.nuxt-content h2[id], .nuxt-content h3[id]')
+      .querySelectorAll(
+        '.nuxt-content h2[id], .nuxt-content h3[id], #bibliography, #footnotes'
+      )
       .forEach((section) => {
         //, .nuxt-content p[id]
         this.observer.observe(section)
@@ -248,6 +266,14 @@ export default {
   padding-left: 1em;
   padding-right: 1em;
   width: 100%;
+  max-width: 650px;
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.25rem;
+  letter-spacing: initial !important;
+  font-family: 'Bodoni Moda', sans-serif !important;
+}
+.bibliography-panel {
   max-width: 650px;
 }
 // nuxt content styles

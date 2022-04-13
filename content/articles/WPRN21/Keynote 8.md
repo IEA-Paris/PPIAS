@@ -61,7 +61,7 @@ picture: ''
 picture_copyright: ''
 yt: IxE1RFZSJZk
 highlight: false
-bibliography: '/documents-exportes_keynote8.bib'
+bibliography: '/bibliography/documents-exportes_keynote8.bib'
 ---
 
 ## In Science We Should Trust (controlling for the Social Desirability Bias)

@@ -39,7 +39,7 @@ picture: ''
 picture_copyright: ''
 yt: EtpubPswH2M
 highlight: false
-bibliography: '/documents-exportes_keynote1.bib'
+bibliography: '/bibliography/documents-exportes_keynote1.bib'
 ---
 
 ## Economic epidemiology put to the test of the Covid-19 crisis: some emerging ideas and approaches.

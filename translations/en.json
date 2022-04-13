@@ -500,5 +500,12 @@
   "less-filters": "Less filters",
   "latest-issue": "Latest issue",
   "featured-articles": "Featured articles",
-  "table-of-content": "Table of Content"
+  "table-of-content": "Table of Content",
+  "bibliography": "Bibliography",
+  "footnotes": "Footnotes",
+  "bibliographical-style": "Bibliographical style",
+  "bibliographical-style-0": "Bibliographical style :",
+  "apa": "APA",
+  "vancouver": "Vancouver",
+  "harvard1": "Harvard"
 }

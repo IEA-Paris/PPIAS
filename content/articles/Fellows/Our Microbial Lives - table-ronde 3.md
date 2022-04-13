@@ -94,7 +94,7 @@ picture: ''
 picture_copyright: ''
 yt: mAEoGVjHjUQ
 highlight: false
-bibliography: '/documents-exportes_tb3_lee.bib'
+bibliography: '/bibliography/documents-exportes_tb3_lee.bib'
 ---
 
 ## Table-ronde 3 du forum "Our Microbial Lives"

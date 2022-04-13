@@ -42,7 +42,7 @@ picture: ''
 picture_copyright: ''
 yt: b0ifnRXmwag
 highlight: false
-bibliography: '/documents-exportes_keynote2.bib'
+bibliography: '/bibliography/documents-exportes_keynote2.bib'
 ---
 
 Keynote presentation by Xiaobo Zhang during the WPRN21 conference in Paris on December 9th 2021

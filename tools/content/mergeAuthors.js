@@ -94,6 +94,7 @@ export default async (content) => {
 
   // we use this opportunity to get the dynamic routes for pdf-printing all the articles
   writePrintRoutes(articles)
+
   // extract the authors from articles with backlink
   let articleAuthors = articles
     .map((article) =>

@@ -1,5 +1,6 @@
 export default {
   articles: {
+    styles: ['APA' /* 'vancouver' , */, 'harvard1'],
     perPage: {
       options: [9, 12, 16],
       default: 9,

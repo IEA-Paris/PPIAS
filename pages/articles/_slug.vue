@@ -22,7 +22,7 @@
           </div>
         </v-expansion-panel-header>
         <v-divider></v-divider>
-        <v-expansion-panel-content class="px-0">
+        <v-expansion-panel-content class="article-panel">
           <Article
             v-if="item.length"
             class="px-0"
@@ -41,22 +41,11 @@
       class="note-snack"
     >
       <div class="d-flex" align="end">
-        <b class="mb-2">Footnote {{ noteIndex }}</b>
-        <v-tooltip bottom>
-          <template #activator="{ on, attrs }">
-            <v-btn
-              small
-              icon
-              v-bind="attrs"
-              class="ml-auto"
-              v-on="on"
-              @click="hideSnack"
-            >
-              <v-icon>mdi-close</v-icon>
-            </v-btn>
-          </template>
-          <span>close</span>
-        </v-tooltip>
+        <b v-if="footnote" class="mb-2">Footnote {{ noteIndex }}</b>
+
+        <v-btn small icon class="ml-auto" @click="hideSnack">
+          <v-icon>mdi-close</v-icon>
+        </v-btn>
       </div>
       <div class="mt-2" v-html="note"></div>
     </v-snackbar>
@@ -67,10 +56,29 @@ export default {
   beforeRouteUpdate(to, from, next) {
     console.log('to.hash: ', to.hash)
     if (to.hash && to.hash.substring(1).startsWith('fn')) {
-      this.note = this.item[0]?.footnotes[+to.hash.substring(4) - 1]
+      this.footnote = true
+      this.note = this.item[0]?.footnotes[+to.hash.substring(4) - 1].value
       this.showNote = true
       this.noteIndex = +to.hash.substring(4)
 
+      window.addEventListener('scroll', this.hideSnack)
+      next(from.path)
+    } else if (to.hash && to.hash.substring(1).startsWith('blfn')) {
+      this.$vuetify.goTo(to.hash.replace('#blfn', '#fn'), { offset: 100 })
+    } else if (to.hash && to.hash.substring(1).startsWith('blbb')) {
+      this.$vuetify.goTo(to.hash.replace('#blbb', '#bb'), { offset: 100 })
+    } else if (to.hash && to.hash.substring(1).startsWith('bb')) {
+      this.footnote = false
+      console.log(
+        'this.$config.modules.bibliography.defaultStyle: ',
+        this.$config.modules.bibliography.defaultStyle
+      )
+      this.note = this.item[0].bibliography.find(
+        (item) => item.id === to.hash.substring(3)
+      )?.APA
+
+      this.showNote = true
+      this.noteIndex = +to.hash.substring(3)
       window.addEventListener('scroll', this.hideSnack)
       next(from.path)
     } else if (to.hash && to.hash === '#authors' && !this.panels.includes(0)) {
@@ -98,6 +106,7 @@ export default {
   },
   data() {
     return {
+      footnote: true,
       noteIndex: 1,
       showNote: false,
       show: false,
@@ -131,5 +140,10 @@ export default {
 .article_cat {
   text-transform: uppercase;
   font-weight: bold;
+}
+.article-panel {
+}
+.article-panel .v-expansion-panel-content__wrap {
+  padding-right: 0;
 }
 </style>

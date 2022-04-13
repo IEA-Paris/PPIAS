@@ -135,6 +135,10 @@ export const mutations = {
   setBlankFilterLoad(state, type) {
     Vue.set(state[type], 'loading', [])
   },
+  setStyle(state, style) {
+    console.log('style: ', style)
+    Vue.set(state.articles, 'style', style)
+  },
 }
 
 // ACTIONS

@@ -40,7 +40,7 @@ picture: ''
 picture_copyright: ''
 yt: ST40fXLMsv4
 highlight: false
-bibliography: '/documents-exportes_keynote6.bib'
+bibliography: '/bibliography/documents-exportes_keynote6.bib'
 ---
 
 ## Trading off lives and livelihoods in an ethical way, considering the apparent clash of interests between generations

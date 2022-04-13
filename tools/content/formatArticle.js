@@ -1,8 +1,53 @@
+import { env } from 'process'
+import Citation from 'citation-js'
+import { insertReferences } from '../lib/contentUtilities'
+const fs = require('fs')
+
 export default (document, database) => {
   const chalk = require('chalk')
   if (document.dir.startsWith('/articles') && document.published) {
+    // and generate bibliography if required
+    if (document.bibliography?.length) {
+      try {
+        const data = fs.readFileSync(
+          './static/' + document.bibliography,
+          'utf8'
+        )
+        // TODO handle other formats for biblio such as json
+        const cites = new Citation(data)
+        document.bibliography = cites.data.map((item) => {
+          return {
+            ...item,
+            // TODO update with dynamic lang & add more formats, dynamic default format: https://citation.js.org/api/0.3/tutorial-output_plugins_csl.html
+            citation: new Citation(item).format('citation', {
+              format: 'html',
+              template: 'apa',
+              lang: 'en-US',
+            }),
+            APA: new Citation(item).format('bibliography', {
+              format: 'html',
+              template: 'apa',
+              lang: 'en-US',
+            }),
+            vancouver: new Citation(item).format('bibliography', {
+              format: 'html',
+              template: 'vancouver',
+              lang: 'en-US',
+            }),
+            harvard1: new Citation(item).format('bibliography', {
+              format: 'html',
+              template: 'harvard1',
+              lang: 'en-US',
+            }),
+          }
+        })
+      } catch (err) {
+        console.error(err)
+      }
+    }
+
     // let's make the DOI if it is not available
-    // TODO move elsewhere and include it to the author document backling rewrite
+    // TODO move elsewhere and include it to the author document backlink rewrite
     /*  if (!document.doi || !document.doi.length) document.doi = getDOI(document) */
     let count = 0
     /*   */
@@ -32,7 +77,11 @@ export default (document, database) => {
             .find((node) => node.tag === 'ol')
             .children.map((footnote) => {
               if (footnote.tag === 'li') {
-                document.footnotes.push(footnote.children[0].value)
+                document.footnotes.push({
+                  // TODO offset backlink on Y axis
+                  backlink: footnote.children[1].props.href,
+                  value: footnote.children[0].value,
+                })
               }
               return true
             })
@@ -109,17 +158,52 @@ export default (document, database) => {
                   ['h2', 'h3', 'p', 'ul', 'youtube'].indexOf(child.tag)
                 ],
               },
-              children: [child],
+              // insert Bibliographical references
+              children: [
+                document.bibliography?.length
+                  ? insertReferences(child, document.bibliography)
+                  : child,
+              ],
             },
           ],
         }
       } else {
-        return child
+        // insert Bibliographical references
+        return document.bibliography?.length
+          ? insertReferences(child, document.bibliography)
+          : child
       }
     })
+    // insert Bibliographical references
+
     // replace legacy toc
-    document.toc = toc2
+    document.toc = [
+      ...toc2,
+
+      ...(document?.bibliography?.length
+        ? [
+            {
+              depth: 2,
+              id: 'bibliography',
+              text: 'bibliography',
+              isMedia: false,
+            },
+          ]
+        : []),
+
+      ...(document?.footnotes?.length
+        ? [
+            {
+              depth: 2,
+              id: 'footnotes',
+              text: 'footnotes',
+              isMedia: false,
+            },
+          ]
+        : []),
+    ]
     /*     console.log(`${chalk.green('✔')}  Formatted article ${document.slug}`) */
+
     return document
   }
   return document

@@ -19,7 +19,7 @@ picture_copyright: '©Unclesam - stock.adobe.com'
 yt: ''
 published: true
 pinned: false
-bibliography: '/documents-exportes_memo7.bib'
+bibliography: '/bibliography/documents-exportes_memo7.bib'
 authors:
   - firstname: 'Victor  '
     lastname: 'Galonnier '

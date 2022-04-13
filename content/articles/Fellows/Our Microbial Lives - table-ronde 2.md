@@ -93,7 +93,7 @@ picture: ''
 picture_copyright: ''
 yt: 87MEaKh26g0
 highlight: false
-bibliography: '/documents-exportes_tb2_lee.bib'
+bibliography: '/bibliography/documents-exportes_tb2_lee.bib'
 ---
 
 ## Table ronde 2 du forum "Our Microbial Lives"

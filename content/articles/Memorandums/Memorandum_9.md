@@ -30,7 +30,7 @@ category1:
     text: Article
 pinned: false
 highlight: false
-bibliography: '/documents-exportes_memo9.bib'
+bibliography: '/bibliography/documents-exportes_memo9.bib'
 authors:
   - firstname: 'Victor '
     lastname: Galonnier

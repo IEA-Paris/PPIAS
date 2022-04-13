@@ -14,7 +14,7 @@ picture_copyright: ''
 yt: ''
 published: true
 pinned: false
-bibliography: '/documents-exportes_memo5.bib'
+bibliography: '/bibliography/documents-exportes_memo5.bib'
 authors:
   - firstname: 'Victor '
     lastname: 'Galonnier '

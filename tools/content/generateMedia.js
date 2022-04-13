@@ -2,11 +2,11 @@ import { mergeDeep, insertDocuments } from '../lib/contentUtilities'
 export default async (content) => {
   const { $content } = require('@nuxt/content')
   // TODO filter fields using .only(['field'])
-  const media = (
-    await $content('articles', { deep: true })
-      .where({ published: true })
-      .fetch()
-  )
+  console.log('generating media')
+  let media = await $content('articles', { deep: true })
+    .where({ published: true })
+    .fetch()
+  media = media
     .filter((item) => item.media && item.media.length)
     .map((item, index) => {
       return {
@@ -25,5 +25,4 @@ export default async (content) => {
   // TODO remove duplicate media ID (?)
 
   insertDocuments(media, 'media', 'caption')
-  return true
 }

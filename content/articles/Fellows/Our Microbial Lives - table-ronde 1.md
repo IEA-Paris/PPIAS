@@ -95,7 +95,7 @@ picture: ''
 picture_copyright: ''
 yt: wcDK7AbXkpo
 highlight: false
-bibliography: '/documents-exportes_tb1_lee.bib'
+bibliography: '/bibliography/documents-exportes_tb1_lee.bib'
 ---
 
 ## Table-ronde 1 du forum "Our Microbial Lives"

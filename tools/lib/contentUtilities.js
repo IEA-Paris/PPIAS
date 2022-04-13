@@ -1,5 +1,9 @@
+/* eslint-disable no-useless-escape */
+/* eslint-disable prettier/prettier */
+/* eslint-disable prefer-regex-literals */
 import path from 'path'
 import fs from 'fs'
+import Citation from 'citation-js'
 import { dump } from 'js-yaml'
 import fsExtra from 'fs-extra'
 /* import { Repository, Tree, Diff } from 'nodegit' */
@@ -213,4 +217,66 @@ ${doc.text ? doc.text : ''}`
 export const generateDisciplines = () => {
   // TODO make selective depending on website settings
   disciplines.forEach((area) => {})
+}
+
+export const insertReferences = (node, biblio) => {
+  const replaceReference = (node) => {
+    console.log('REPLACE REFERENCES')
+
+    // only match citation keys (@author_title_year)
+    // 'author' 'title' above refer to the first word of these only
+    const referenceRegex = new RegExp(/@\w+_\w+_\d{4}/, 'i')
+    const matches = node.value.match(referenceRegex)
+    // do we have references to replace?
+    if (matches !== null) {
+      for (let index = 0; index < matches.length; index++) {
+        const element = matches[index]
+        // find the related reference
+        const ref = biblio.find(
+          (item) => item.id === element.toLowerCase().substring(1)
+        )
+        ref.link = true
+        // edit the node to include the link
+        node = {
+          type: 'element',
+          tag: 'span',
+          props: { class: 'node' },
+          children: [
+            { type: 'text', value: node.value.split(element)[0] },
+            {
+              type: 'element',
+              tag: 'a',
+              props: { id: 'bb' + ref.id, href: '#bb' + ref.id },
+              children: [
+                {
+                  type: 'text',
+                  value: ref.citation,
+                },
+              ],
+            },
+            replaceReference({
+              type: 'text',
+              value: node.value.split(element)[1],
+            }),
+          ],
+        }
+      }
+    }
+    /*   if (
+      biblio?.length &&
+      biblio[0].citationKey === 'cordelois_how_2020' &&
+      node.value?.length > 3
+    ) {
+      console.log('node: ', node)
+    } */
+    return node
+  }
+  if (node.type === 'text') {
+    node = replaceReference(node)
+  } else if (node?.children?.length > 0) {
+    node.children = node.children.map((child) =>
+      insertReferences(child, biblio)
+    )
+  }
+  return node
 }

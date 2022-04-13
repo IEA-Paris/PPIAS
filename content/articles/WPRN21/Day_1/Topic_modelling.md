@@ -41,7 +41,7 @@ picture: ''
 picture_copyright: ''
 yt: lo45kaXwtyg
 highlight: false
-bibliography: '/documents-exportes.json'
+bibliography: '/bibliography/documents-exportes.json'
 language: ''
 ---
 

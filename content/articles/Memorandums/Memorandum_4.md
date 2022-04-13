@@ -21,7 +21,7 @@ yt: ''
 published: true
 pinned: false
 highlight: false
-bibliography: '/documents-exportes_memo4.bib'
+bibliography: '/bibliography/documents-exportes_memo4.bib'
 authors:
   - firstname: 'Victor '
     lastname: 'Galonnier '

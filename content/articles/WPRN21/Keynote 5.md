@@ -38,7 +38,7 @@ picture: ''
 picture_copyright: ''
 yt: DlM3vzlQ37Y
 highlight: false
-bibliography: '/documents-exportes_keynote5.bib'
+bibliography: '/bibliography/documents-exportes_keynote5.bib'
 ---
 
 ## Social Cohesion, Inequality, and the Pandemic: Lessons from Brazil

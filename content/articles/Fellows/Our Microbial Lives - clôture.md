@@ -35,7 +35,7 @@ picture: ''
 picture_copyright: ''
 yt: O49KmBbOyZM
 highlight: false
-bibliography: '/documents-exportes_cloture_lee.bib'
+bibliography: '/bibliography/documents-exportes_cloture_lee.bib'
 ---
 
 Le titre de ce forum a soulevé plusieurs questions : Il s’agit d’un combat contre une vision naïve de ce que sont les microbes pathogènes. Dans ce nouveau paysage, restera-t-il une place pour des éradications, qui peuvent conserver un certain sens ? Quelle est la place laissée à la vaccination dans cette nouvelle vision ? D’un point de vue biologique, la vaccination oriente la réponse du système immunitaire vers telle cible. Aujourd'hui, on s’interroge sur le fait que les vaccinations pourraient former le système immunitaire contre certaines cibles aux dépens d’autres cibles plus utiles. La vaccination devra être resituée dans ce cadre du monde microbien.

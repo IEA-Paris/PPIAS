@@ -99,5 +99,8 @@ export default {
         'Open Sans': [500, 700],
       },
     },
+    bibliography: {
+      defaultStyle: 'APA',
+    },
   },
 }

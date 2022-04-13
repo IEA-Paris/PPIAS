@@ -1,5 +1,5 @@
 <template>
-  <aside class="toc">
+  <aside id="toc" class="toc">
     <div
       v-show="title"
       class="text-h6 mt-3 mb-6 mr-4 shadow"
@@ -11,6 +11,7 @@
       <v-timeline-item
         v-for="(link, index) of toc"
         :key="link.id"
+        :ref="'toc_' + activeToc"
         :small="link.depth !== 2"
         class="pb-0 toc-item"
         :class="link.depth === 2 && index > 0 ? ' mt-6' : ''"
@@ -18,6 +19,8 @@
       >
         <!--   TODO add space -->
         <a
+          :id="'toc_' + link.id"
+          v-intersect="onIntersect"
           class="text-overline py-1"
           :class="[
             link.id === activeToc ? '' : 'text--secondary',
@@ -96,7 +99,7 @@ export default {
     },
     activeToc: {
       type: String,
-      required: true,
+      required: false,
       default: '',
     },
     customPdf: {
@@ -106,12 +109,30 @@ export default {
     },
   },
   data() {
-    return {}
+    return {
+      scrolling: false,
+      intersected: {},
+    }
   },
   computed: {},
+  async updated() {
+    if (!this.scrolling && !this.intersected['toc_' + this.activeToc]) {
+      const currentRef = '#toc_' + this.activeToc
+      this.scrolling = true
+      await this.$vuetify.goTo(currentRef, {
+        container: '#toc',
+        offset: 100,
+        easing: 'easeInOutQuint',
+      })
+      this.scrolling = false
+    }
+  },
   mounted() {},
-  updated() {},
-  methods: {},
+  methods: {
+    onIntersect(entries, observer) {
+      this.intersected[entries[0].target.id] = entries[0].isIntersecting
+    },
+  },
 }
 </script>
 <style>
@@ -140,6 +161,7 @@ aside.toc {
   overflow-y: auto;
   overflow-x: hidden;
   scrollbar-width: thin;
+  scroll-snap-type: y;
 }
 .toc-item:hover .v-timeline-item__body a {
   color: black !important;
@@ -176,5 +198,13 @@ aside.toc {
 .v-timeline-item {
   display: flex;
   align-items: center;
+}
+@supports (scroll-snap-type: y mandatory) {
+  aside.toc {
+    scroll-snap-type: y;
+  }
+  .v-timeline-item {
+    scroll-snap-align: center;
+  }
 }
 </style>

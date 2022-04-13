@@ -191,8 +191,22 @@ export const highlightAndTruncate = (stop, word, query, url, link) => {
     return word
   } catch (error) {}
 }
-
-export const highlight = (word, query = '') => {
+export const formatBiblioAPA7th = (item, name, self = true) => {
+  return (
+    item.entryTags.author +
+    '. ' +
+    item.entryTags.year +
+    '. ' +
+    // eslint-disable-next-line no-useless-escape
+    item.entryTags.title.replace(/[\{\}']+/gi, '') +
+    ' <i>' +
+    (self ? name : item.entryTags.journal) +
+    '.' +
+    (item.entryTags.doi ? ' DOI: ' + item.entryTags.doi : '') +
+    '</i>'
+  )
+}
+export const highlight = (word, query = '', light = false) => {
   // TODO replace hard coded colors/lengths by config variables
   const stopwords = ['this']
 
@@ -204,7 +218,11 @@ export const highlight = (word, query = '') => {
     const regex = new RegExp(token, 'gi')
     word = word.replaceAll(
       regex,
-      '<strong style="color: white;background-color: black;">$&</strong>'
+      '<strong style="color: ' + light
+        ? 'black'
+        : 'white' + ';background-color:' + light
+        ? 'white'
+        : 'black' + ' ;">$&</strong>'
     )
   })
   return word

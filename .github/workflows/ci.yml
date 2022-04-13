@@ -60,6 +60,8 @@ jobs:
         run: yarn build && yarn generate
         env:
           DEEPL_KEY: ${{ secrets.DEEPL_KEY }}
+          ORCID_ID: ${{secrets.ORCID_SANDBOX_ID}}
+          ORCID_SANDBOX_SECRET_KEY_ID: ${{secrets.ORCID_SANDBOX_SECRET_KEY_ID}}
 
       - name: Prepare to merge the generated content
         uses: actions/checkout@v2.4.0

@@ -25,6 +25,7 @@ export const state = () => ({
     discipline: [],
     type: [],
   },
+  style: 'APA',
   loading: [],
   skip: 0,
   limit: lists.articles.perPage.default,

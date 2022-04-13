@@ -1,8 +1,8 @@
 <template>
-  <article class="printpanel page a4" style="background-color: white">
+  <article class="printpanel page pdf" style="background-color: white">
     <header>
-      <nuxt-img
-        src="/logo_b.png"
+      <v-img
+        src="/ppias.svg"
         contain
         alt="Avatar"
         style="
@@ -11,7 +11,7 @@
           height: 120px;
           border: 3px solid black;
         "
-      ></nuxt-img>
+      ></v-img>
     </header>
 
     <table class="paging">
@@ -45,7 +45,7 @@
                 <Tag
                   v-for="(tag, index2) in item.tag"
                   :key="index2"
-                  small
+                  large
                   :tag="tag"
                   :class="index2 === 0 ? 'my-1 mr-1' : 'ma-1'"
                 ></Tag>
@@ -65,7 +65,25 @@
                 {{ item.abstract }}
               </div>
             </div>
-            <nuxt-content :document="item" class="d-block article-body" />
+            <nuxt-content :document="item" class="article-body" />
+            <div
+              v-if="item.bibliography && item.bibliography.length"
+              class="bibliography-panel"
+            >
+              <div id="bibliography" class="mt-3 d-flex">
+                {{ $t('bibliography') }}
+              </div>
+              <ArticleBibliography :item="item"></ArticleBibliography>
+            </div>
+            <template v-if="item.footnotes && item.footnotes.length">
+              <div id="footnotes" class="mt-3">
+                {{ $t('footnotes') }}
+              </div>
+              <ArticleFootnotes
+                :item="item"
+                class="footnotes-panel"
+              ></ArticleFootnotes>
+            </template>
           </td>
         </tr>
       </tbody>
@@ -128,6 +146,10 @@ export default {
 }
 </script>
 <style lang="scss">
+article.printpanel {
+  width: 210mm !important;
+  border-top: 10px solid red !important;
+}
 .page-title {
   margin-top: 0 !important;
   padding-top: 0 !important;
@@ -135,19 +157,26 @@ export default {
 .index {
   display: none !important;
 }
-.nuxt-content.article-body {
-  margin: 0 5mm 0 0mm;
-  overflow: visible;
+td {
+  border-top: 15px solid blue !important;
+  max-width: 100% !important;
+  margin-right: 80px !important;
 }
-.nuxt-content.article-body p {
+.nuxt-content.article-body p,
+.nuxt-content.article-body ul li,
+.csl-bib-body,
+.footnotes-panel {
   font-size: 24px !important;
   margin-bottom: 15px;
   margin-top: 10px;
   word-spacing: 2px;
   line-height: 30px !important;
   text-align: justify;
+  max-width: 100% !important;
 }
-.nuxt-content.article-body h2 {
+.nuxt-content.article-body h2,
+#bibliography,
+#footnotes {
   font-size: 45px !important;
   margin-bottom: 30px;
   margin-top: 60px;
@@ -192,6 +221,7 @@ export default {
   }
   table.paging thead td {
     height: 1.8in;
+    width: 100%;
   }
 }
 .article-abstract-frame {
@@ -241,5 +271,9 @@ header {
   footer {
     bottom: 0;
   }
+}
+.footnotes {
+  color: red;
+  display: none;
 }
 </style>

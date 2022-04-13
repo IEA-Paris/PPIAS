@@ -20,7 +20,7 @@ picture_copyright: ''
 yt: ''
 published: true
 pinned: false
-bibliography: '/documents-exportes_memo3.bib'
+bibliography: '/bibliography/documents-exportes_memo3.bib'
 authors:
   - firstname: 'Victor '
     lastname: 'Galonnier '
