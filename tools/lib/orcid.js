@@ -1,4 +1,4 @@
-/* Rationale:
+/* /* Rationale:
 If author has an ORCID, we fetch the related public Record 
 If author has none, we search for firstname/lastname/institution and automatch if there is only one result (with confirmation by the author during th enrolment micro-service phase)
  */
@@ -6,6 +6,7 @@ If author has none, we search for firstname/lastname/institution and automatch i
 /**
  * Taken showhere from a basis Created by michaelcrabb on 05/03/2017. WIP//TODO complete rewriting/refactoring
  */
+/*
 const axios = require('axios')
 
 const defaultOptions = {
@@ -63,8 +64,7 @@ class OrcidApi {
       params: options,
     })
   }
-
-  get token() {
+   get token() {
     return (
       this[kSublevel].depositions ||
       (this[kSublevel].token = new OrcidApiDepositions(
@@ -72,7 +72,7 @@ class OrcidApi {
         this[kBaseHeaders]
       ))
     )
-  }
+  } 
 
   get files() {
     return (
@@ -365,3 +365,4 @@ function getFundingInformation(putcode, orcidID, elementID) {
     })
 }
 module.exports = OrcidApi
+ */
