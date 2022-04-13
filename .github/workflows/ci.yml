@@ -68,11 +68,11 @@ jobs:
           ORCID_SANDBOX_SECRET_KEY_ID: ${{secrets.ORCID_SANDBOX_SECRET_KEY_ID}}
 
       - name: Retro push generated content 🧙‍♂️
-         run: |
+        run: |
           git config user.email github-actions@github.com
           git add content
           git add -f static/pdfs
-          git commit -m "[skip ci] auto-generated content"
+          git commit -a -m "[skip ci] auto-generated content"
           git push
 
       - uses: 'aws-actions/configure-aws-credentials@v1'
