@@ -148,7 +148,6 @@ export default {
 <style lang="scss">
 article.printpanel {
   width: 210mm !important;
-  border-top: 10px solid red !important;
 }
 .page-title {
   margin-top: 0 !important;
@@ -158,7 +157,6 @@ article.printpanel {
   display: none !important;
 }
 td {
-  border-top: 15px solid blue !important;
   max-width: 100% !important;
   margin-right: 80px !important;
 }
