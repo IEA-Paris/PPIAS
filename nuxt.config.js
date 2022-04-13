@@ -462,7 +462,7 @@ export default {
      */
     pdf: {
       // Change the format of the pdfs.
-      format: 'A4', // This is optional
+      format: 'A3', // This is optional
       printBackground: true, // Include background in pdf.
     },
 

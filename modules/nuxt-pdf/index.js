@@ -263,6 +263,16 @@ module.exports = async function PDF(moduleOptions) {
             )
           )
         }
+        /*  console.log(
+          'OPTIONS',
+          Object.assign(
+            {},
+            {
+              ...options.pdf,
+              ...route.pdf,
+            }
+          )
+        ) */
         // Generate pdf based on dom content. (result by bytes)
         const bytes = await page.pdf(
           Object.assign(

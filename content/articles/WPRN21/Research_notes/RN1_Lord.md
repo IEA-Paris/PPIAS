@@ -1,11 +1,11 @@
 ---
 issue: content/issues/WPRN21.md
 keywords:
-- COVID-19
-- Public Policy
-- Employment
-- Employment Insurance
-- Universal Basic Income
+  - COVID-19
+  - Public Policy
+  - Employment
+  - Employment Insurance
+  - Universal Basic Income
 date: 2022-03-24T15:10:20.000+00:00
 language: English
 disciplines: ''
@@ -41,7 +41,6 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-<<<<<<< HEAD:content/articles/WPRN21/Research_notes/RN1_Lord.md
 bibliography: ''
 ---
 
