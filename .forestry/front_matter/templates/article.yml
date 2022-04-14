@@ -138,27 +138,11 @@ fields:
       path: rules
   label: Disciplines
 pages:
-- content/articles/Closing Panel-WPRN21.md
-- content/articles/Education & Marginalised Communities - Session 4.md
-- content/articles/Emotions and Coping During Crisis - Session 6.md
 - content/articles/ICA4.md
-- content/articles/Keynote 1.md
-- content/articles/Keynote 2.md
-- content/articles/Keynote 3.md
-- content/articles/Keynote 4.md
-- content/articles/Keynote 5.md
-- content/articles/Keynote 6.md
-- content/articles/Keynote 7.md
-- content/articles/Keynote 8.md
-- content/articles/Local Contexts & Policy - Session 5.md
-- content/articles/Masks, Vaccinations & Compliance - Session 2.md
 - content/articles/Memorandums/Memorandum 12.md
 - content/articles/Memorandums/Memorandum 13.md
 - content/articles/Memorandums/Memorandum 14.md
-- content/articles/Our Microbial Lives - clôture.md
-- content/articles/Our Microbial Lives - table-ronde 1.md
-- content/articles/Our Microbial Lives - table-ronde 2.md
-- content/articles/Our Microbial Lives - table-ronde 3.md
-- content/articles/RN1_Lord.md
-- content/articles/Session 3 - Economic & Financial Impacts.md
+- content/articles/WPRN21/Research_notes/RN3_Papapicco.md
+- content/articles/WPRN21/Research_notes/RN4_Ervas.md
+- content/articles/WPRN21/Research_notes/RN5_Moscaritolo.md
 - content/articles/rn2_omoyakaigo.md
