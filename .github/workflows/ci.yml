@@ -73,16 +73,8 @@ jobs:
           git config --global user.email "username@users.noreply.github.com"
           git add content
           git add -f static/pdfs
-          set +e 
-          if git status | grep -q modified
-          then
-              set -e
-              git commit -m "[skip ci] auto-generated content"
-              git push
-          else
-              set -e
-              echo "No changes since last run"
-          fi
+          echo `git commit -m "[skip ci] auto-generated content"`
+          echo `git push`
 
       - uses: 'aws-actions/configure-aws-credentials@v1'
         with:
