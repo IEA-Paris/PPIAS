@@ -138,7 +138,13 @@
         ></list-items>
         <DisplayByIssue
           v-else-if="view === 'issues'"
-          :data="{ items, total, issues }"
+          :data="{
+            items,
+            total,
+            issues: new Set(
+              items.map((item) => item.issue && item.issue.slice(15, -3))
+            ),
+          }"
           :filter="filter"
           :type="type"
         ></DisplayByIssue>
@@ -366,9 +372,6 @@ export default {
     },
     items() {
       return this.$store.state[this.type].items
-    },
-    issues() {
-      return this.$store.state[this.type].issues
     },
   },
   async mounted() {

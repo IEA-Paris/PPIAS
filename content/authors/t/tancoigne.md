@@ -5,7 +5,7 @@ articles:
 exerpt: ''
 firstname: Elise
 issue:
-  - content/issues/WPRN21.md
+  - content/issues/OML.md
 language:
   - French
 lastname: Tancoigne

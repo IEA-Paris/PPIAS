@@ -1,5 +1,5 @@
 ---
-issue: content/issues/WPRN21.md
+issue: content/issues/WPRN.md
 tag:
   - 'Human Behaviours, Social Relations '
   - 'Public Policy, Evaluation, Impact '
@@ -28,8 +28,7 @@ authors:
 abstract: |-
   The social distancing and health protection measures taken in response to the Covid 19 pandemic have led companies to make massive use of teleworking. According to a study by the French Ministry of Labor, one employee in four teleworked during the confinement in France, two out of three of whom had not experimented with this practice, according to a study conducted by the CGT trade union. Many workers, mostly managers, thus began to work remotely for part of the week or the entire week, a practice that is causing debate as to the relevance of its generalization in the future.
   Memorandum 4 : overview of the studies and projects registered on WPRN database
-category_1: content/categories/WPRN.md
-category_2: ''
+
 keywords:
   - 'Work, Welfare, Social protection '
   - Public Policy, Evaluation, Impact

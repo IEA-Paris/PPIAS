@@ -1,5 +1,5 @@
 ---
-issue: content/issues/WPRN21.md
+issue: content/issues/WPRN.md
 tag:
   - 'Artificial Intelligence '
   - 'Public Health '
@@ -27,8 +27,7 @@ authors:
 abstract: |-
   Tracking refers here to the use of digital systems to identify or track an individual. In the context of the coronavirus pandemic, tracking, through its ability to find individuals likely to have been contaminated in order to isolate or test them, has emerged as one of the methods that can fight against the spread of the virus. Tracking applications, which are listed and analysed here, were first used in Asia (China, Korea, Singapore, Taiwan) and then in the West, in France via the government application “StopCovid”, giving rise to a wide-ranging debate.
   Memorandum 2 : overview of the studies and projects registered on WPRN database
-category_1: content/categories/WPRN.md
-category_2: ''
+
 highlight: false
 keywords:
   - 'Big Data, Artificial Intelligence '

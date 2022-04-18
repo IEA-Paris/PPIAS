@@ -1,6 +1,4 @@
 ---
-category_1: content/categories/WPRN.md
-category_2: content/categories/WPRN21.md
 issue: content/issues/WPRN21.md
 keywords:
   - 'Public Discourse, Rhetorics, Communication '

@@ -1,5 +1,5 @@
 ---
-issue: content/issues/WPRN21.md
+issue: content/issues/OML.md
 tag:
   - History of Science, Technology and Medicine
   - History of Science and Medicine
@@ -42,8 +42,7 @@ bibliography: '/bibliography/anystyle.bib'
 abstract:
   'Introduction du forum "Our Microbial Lives: A Forum Against Eradication",  May
   27, 2021, Paris Institute for Advanced Study'
-category_1: content/categories/Fellows.md
-category_2: content/categories/OML.md
+
 keywords:
   - Microbes
   - Health

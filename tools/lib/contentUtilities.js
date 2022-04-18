@@ -221,8 +221,6 @@ export const generateDisciplines = () => {
 
 export const insertReferences = (node, biblio) => {
   const replaceReference = (node) => {
-    console.log('REPLACE REFERENCES')
-
     // only match citation keys (@author_title_year)
     // 'author' 'title' above refer to the first word of these only
     const referenceRegex = new RegExp(/@\w+_\w+_\d{4}/, 'i')

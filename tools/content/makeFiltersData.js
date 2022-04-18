@@ -7,7 +7,9 @@ export default async () => {
   const articles = await $content('articles', { deep: true })
     .where({ published: true })
     .fetch()
-  const issues = await $content('issues', { deep: true }).fetch()
+  const issues = await $content('issues', { deep: true })
+    .sortBy('date', 'desc')
+    .fetch()
   // year filter
   filters.years = {
     type: 'Select',
@@ -38,23 +40,20 @@ export default async () => {
       .filter((item) => item !== null && item !== '')
       .sort((a, b) => a - b),
   }
-  // issue filters
+  // issue filters (pruned, sorted by date desc)
   filters.issue = {
     type: 'Select',
-    items: [
-      ...new Set(
-        articles.map((article) => {
-          return (
-            issues.find((issue) => {
-              return article.issue && issue.path === article.issue.slice(7, -3)
-            })?.slug || null
-          )
-        })
-      ),
-    ]
-      .filter((item) => item !== null && item !== '')
-      .sort((a, b) => a - b),
+    items: issues
+      .filter(
+        (issue) =>
+          articles.find((article) => {
+            return article.issue && issue.path === article.issue.slice(7, -3)
+          })?.slug || null
+      )
+      .map((item) => item.slug)
+      .filter((item) => item !== null && item !== ''),
   }
+  console.log(' filters.issue: ', filters.issue)
 
   // Discipline filters
   filters.discipline = {

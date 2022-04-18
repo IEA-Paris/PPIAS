@@ -50,8 +50,8 @@ abstract:
   The complementarities between neuroscience/cognitive science and artificial intelligence
   allow us to explore synergies and raise ethical questions between these disciplines,
   which present considerable challenges and opportunities for the progress of society. '
-category_1: content/categories/ICA.md
-category_2: ''
+
+issue: content/issues/ICA.md
 highlight: false
 language: English
 tag:

@@ -283,13 +283,19 @@ export const actions = {
     console.log('pipeline: ', pipeline)
     const sortArray =
       rootState[type].view === 'issues'
-        ? ['issue', rootState[type].sortDesc ? 'desc' : 'asc']
+        ? [
+            'issueIndex',
+            rootState[type].sortDesc ? 'asc' : 'desc',
+            'date',
+            rootState[type].sortDesc ? 'asc' : 'desc',
+          ]
         : [rootState[type].sortBy[0], rootState[type].sortDesc ? 'desc' : 'asc']
     console.log('sortArray: ', sortArray)
     let items = await this.$content(type, { deep: true })
       .where(pipeline)
       .search(rootState[type].search)
       .sortBy(sortArray[0], sortArray[1])
+      .sortBy(sortArray[2], sortArray[3])
       .skip(skipNumber())
       .limit(rootState[type].itemsPerPage)
       .fetch()

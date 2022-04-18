@@ -1,12 +1,13 @@
 import { env } from 'process'
 import Citation from 'citation-js'
 import { insertReferences } from '../lib/contentUtilities'
+import filters from '../../assets/generated/filters'
 const fs = require('fs')
 
-export default (document, database) => {
+export default async (document, database) => {
   const chalk = require('chalk')
   if (document.dir.startsWith('/articles') && document.published) {
-    // and generate bibliography if required
+    // generate bibliography if required
     if (document.bibliography?.length) {
       try {
         const data = fs.readFileSync(
@@ -55,6 +56,14 @@ export default (document, database) => {
     /*  if (!document.doi || !document.doi.length) document.doi = getDOI(document) */
     let count = 0
     /*   */
+    console.log('filters: ', filters.articles.filters.issue)
+    console.log('document.issue.slice(15, -3): ', document.issue.slice(15, -3))
+    // we use the issue filter (already sorted by date) to set an index for the fetch of the view by issue
+    document.issueIndex = document.issue?.length
+      ? filters.articles.filters.issue.items.indexOf(
+          document.issue.slice(15, -3)
+        )
+      : -1
     document.footnotes = []
     document.media = []
     document.years =

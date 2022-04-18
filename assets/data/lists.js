@@ -60,7 +60,7 @@ export default {
       },
       {
         name: 'issues',
-        icon: 'view-carousel',
+        icon: 'view-day',
       },
     ],
   },

@@ -1,5 +1,5 @@
 ---
-issue: content/issues/WPRN21.md
+issue: content/issues/WPRN.md
 tag:
   - covid-19
   - coronavirus
@@ -26,8 +26,7 @@ abstract: |-
   Social psychology studies typically focus on social norms to understand, anticipate and influence the behaviours of individuals and groups (to simplify: «others do it, so do it too»). While norms can be produced by groups themselves, it is primarily institutions (often governments) that prescribe desired behaviours.
   In the case of the Covid-19 pandemic, the authorities asked for unusual instructions that contradicted generally valued behaviours: isolation and social distancing rather than social activities and rituals (going out, consumption, physical contact).
   Memorandum 1 : overview of the studies and projects registered on WPRN database
-category_1: content/categories/WPRN.md
-category_2: ''
+
 keywords:
   - Human Behaviours, Social Relations
   - 'Public Health '

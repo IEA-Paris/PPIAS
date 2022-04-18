@@ -1,46 +1,101 @@
 <template>
-  <v-sheet class="mx-auto" elevation="8" max-width="800">
-    <v-slide-group v-model="model" class="pa-4" show-arrows>
-      <v-slide-item v-for="n in 15" :key="n" v-slot="{ active, toggle }">
-        <v-card
-          :color="active ? 'primary' : 'grey lighten-1'"
-          class="ma-4"
-          height="200"
-          width="100"
-          @click="toggle"
-        >
-          <v-row class="fill-height" align="center" justify="center">
-            <v-scale-transition>
-              <v-icon
-                v-if="active"
-                color="white"
-                size="48"
-                v-text="'mdi-close-circle-outline'"
-              ></v-icon>
-            </v-scale-transition>
-          </v-row>
-        </v-card>
-      </v-slide-item>
-    </v-slide-group>
-
-    <v-expand-transition>
-      <v-sheet v-if="model != null" height="200" tile>
-        <v-row class="fill-height" align="center" justify="center">
-          <h3 class="text-h6">Selected {{ model }}</h3>
-        </v-row>
-      </v-sheet>
-    </v-expand-transition>
-  </v-sheet>
+  <v-container
+    v-scroll="onScroll"
+    class="transition-swing"
+    :fluid="!$store.state.scrolled"
+    :class="
+      ({ 'pl-0 ml-0': filter }, $store.state.scrolled ? 'pt-6' : 'px-0 pt-0')
+    "
+  >
+    <v-row
+      v-for="(issue, index) in data.issues"
+      :key="index"
+      class="transition-swing pt-4"
+      :no-gutters="!$store.state.scrolled"
+      :class="$store.state.scrolled ? '' : 'mx-3'"
+    >
+      <v-col cols="12" class="text-h5">
+        {{ issue }}
+        <div class="text-overline text-muted">some random date</div>
+        <v-divider></v-divider>
+      </v-col>
+      <v-col
+        v-for="item in getItemsPerIssue(issue)"
+        :key="item.slug"
+        cols="12"
+        :class="{ 'pt-1 pr-1': !$store.state.scrolled }"
+        class="transition-swing"
+      >
+        <template v-if="$vuetify.breakpoint.smAndDown">
+          <component
+            :is="
+              type.charAt(0).toUpperCase() + type.slice(1) + 'ListItemMobile'
+            "
+            v-bind="$attrs"
+            :key="index"
+            :index="index"
+            :item="item"
+            highlighted
+            :scroll="$store.state.scrolled"
+            :filter="filter"
+          ></component>
+        </template>
+        <component
+          :is="type.charAt(0).toUpperCase() + type.slice(1) + 'ListItem'"
+          v-else
+          v-bind="$attrs"
+          :key="index"
+          :index="index"
+          :item="item"
+          highlighted
+          :scroll="$store.state.scrolled"
+        ></component>
+      </v-col>
+    </v-row>
+  </v-container>
 </template>
+
 <script>
 export default {
-  props: {},
+  props: {
+    data: {
+      required: true,
+      type: Object,
+      default: () => {
+        return { items: [], total: 0 }
+      },
+    },
+    filter: {
+      required: false,
+      type: Boolean,
+      default: false,
+    },
+    type: {
+      type: String,
+      default: '',
+      required: true,
+    },
+  },
   data() {
-    return { model: null }
+    return {}
   },
   computed: {},
-  mounted() {},
-  methods: {},
+  created() {},
+  methods: {
+    onScroll() {
+      this.$store.commit('setScrolled')
+    },
+    getItemsPerIssue(issue) {
+      return this.data.items.filter(
+        (item) => item.issue.slice(15, -3) === issue
+      )
+    },
+  },
 }
 </script>
-<style lang="scss"></style>
+<style lang="scss">
+.h500 {
+  max-height: 500;
+}
+</style>
+,

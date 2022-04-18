@@ -1,5 +1,5 @@
 ---
-issue: content/issues/WPRN21.md
+issue: content/issues/WPRN.md
 tag:
   - Agriculture
   - Food environments
@@ -34,8 +34,7 @@ authors:
 abstract: |-
   The image of empty supermarket shelves is one of those that will remain from the announcement of the first containment. The Europeans practiced the «Hamsterkauf» as named by the German speakers: they stocked up on hamsters. This rush on food supplies, especially rice and pasta, shows that even before thinking about the disease, for many people, the first thing they worried about was the risk of running out of food. A striking phenomenon at the center of affluent societies. Food stores were suddenly highlighted as «essential» and food with it. In times of confinement, it becomes central again: one can no longer delegate it or forget its role, as is often the case in the West, due to its easy access and urban lifestyles.
   Memorandum 10 : overview of the studies and projects registered on WPRN database
-category_1: content/categories/WPRN.md
-category_2: ''
+
 keywords:
   - 'Agriculture, Alimentation '
   - 'Environmental change, Ecology '

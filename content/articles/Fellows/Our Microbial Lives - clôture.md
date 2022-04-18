@@ -1,7 +1,5 @@
 ---
-category_1: content/categories/Fellows.md
-category_2: content/categories/OML.md
-issue: content/issues/WPRN21.md
+issue: content/issues/OML.md
 keywords: []
 date: 2021-05-27T14:40:37.000+00:00
 language: French

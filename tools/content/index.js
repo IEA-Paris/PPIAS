@@ -16,10 +16,10 @@ export default {
         await makeFiltersData(),
       ])
     },
-    'content:file:beforeInsert': (document, database) => {
+    'content:file:beforeInsert': async (document, database) => {
       document = {
         ...addCountMap(document),
-        ...formatArticle(document, database),
+        ...(await formatArticle(document, database)),
         /*         ...includeCategories(document, database), */
         ...getDOI(document),
       }

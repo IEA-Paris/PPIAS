@@ -1,114 +1,114 @@
 ---
-category_1: content/categories/WPRN21.md
 issue: content/issues/WPRN21.md
 keywords:
-- " Policy, Evaluation, Impact "
-- 'Risks, Crisis Management '
-- 'Environmental change, Ecology '
-- 'Equality & Diversity Studies '
-- Public Health
-- 'Work, Welfare, Social protection '
-- 'Human Behaviours, Social Relations '
-- Firms, Markets, Finance
-- 'Qualitative analysis '
-- Simulation / Modeling
-- Policy Document
+  - ' Policy, Evaluation, Impact '
+  - 'Risks, Crisis Management '
+  - 'Environmental change, Ecology '
+  - 'Equality & Diversity Studies '
+  - Public Health
+  - 'Work, Welfare, Social protection '
+  - 'Human Behaviours, Social Relations '
+  - Firms, Markets, Finance
+  - 'Qualitative analysis '
+  - Simulation / Modeling
+  - Policy Document
 date: 2021-12-09T13:00:09.000+00:00
 language: English
 published: false
 article_title: Economic and Financial Impacts - Q&A session
 authors:
-- lastname: Smart
-  firstname: 'Jenny '
-  titles_and_institutions:
-  - titles: []
-    institution: International Food Policy Research Institute (IFPRI), USA
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: 'Levy '
-  firstname: Gal
-  titles_and_institutions:
-  - titles: []
-    institution: The Open University Of Israel, Israel
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: Lampropoulos
-  firstname: Ioannis Ch.
-  titles_and_institutions:
-  - titles: []
-    institution: University Of Patras, Greece
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: 'Tijdens  '
-  firstname: Kea
-  titles_and_institutions:
-  - titles: []
-    institution: WageIndicator Foundation/University of Amsterdam, Netherlands
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: Vera-Valdés
-  firstname: J. Eduardo
-  titles_and_institutions:
-  - titles: []
-    institution: Aalborg University, Denmark
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-abstract: COVID-19 is not only a global pandemic and public health crisis; it has
+  - lastname: Smart
+    firstname: 'Jenny '
+    titles_and_institutions:
+      - titles: []
+        institution: International Food Policy Research Institute (IFPRI), USA
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: 'Levy '
+    firstname: Gal
+    titles_and_institutions:
+      - titles: []
+        institution: The Open University Of Israel, Israel
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: Lampropoulos
+    firstname: Ioannis Ch.
+    titles_and_institutions:
+      - titles: []
+        institution: University Of Patras, Greece
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: 'Tijdens  '
+    firstname: Kea
+    titles_and_institutions:
+      - titles: []
+        institution: WageIndicator Foundation/University of Amsterdam, Netherlands
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: Vera-Valdés
+    firstname: J. Eduardo
+    titles_and_institutions:
+      - titles: []
+        institution: Aalborg University, Denmark
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+abstract:
+  COVID-19 is not only a global pandemic and public health crisis; it has
   also affected the global economy and financial markets. Researchers from around
   the globe gathered in this panel to discuss such impacts of the recent pandemic.
   The session began by exploring subjective experiences of living and working in such
@@ -130,12 +130,12 @@ picture: ''
 picture_copyright: ''
 yt: rylGri1EtXY
 highlight: false
-bibliography: "/documents-exportes_q-a3.bib"
-category_2: ''
+bibliography: '/documents-exportes_q-a3.bib'
+
 custom_pdf: ''
 disciplines: ''
-
 ---
+
 This Q&A session on the theme "Economic and Financial Impacts" during WPRN21 conference in Paris on December 9th 2021 is based on 5 projects registered in WPRN database.
 
 <Youtube yt="rylGri1EtXY" caption ="Q&A sessions - Economic & Financial Impacts"></Youtube>

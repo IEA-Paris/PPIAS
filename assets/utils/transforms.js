@@ -218,11 +218,11 @@ export const highlight = (word, query = '', light = false) => {
     const regex = new RegExp(token, 'gi')
     word = word.replaceAll(
       regex,
-      '<strong style="color: ' + light
-        ? 'black'
-        : 'white' + ';background-color:' + light
-        ? 'white'
-        : 'black' + ' ;">$&</strong>'
+      '<strong style="color:' +
+        (light ? 'black' : 'white') +
+        ';background-color:' +
+        (light ? 'white' : 'black') +
+        ';">$&</strong>'
     )
   })
   return word

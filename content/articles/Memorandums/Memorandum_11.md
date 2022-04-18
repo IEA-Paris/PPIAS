@@ -1,5 +1,5 @@
 ---
-issue: content/issues/WPRN21.md
+issue: content/issues/WPRN.md
 tag:
   - 'Human Behaviours, Social Relations '
   - 'Inequalities, Poverty, Development '
@@ -29,8 +29,7 @@ authors:
 abstract: |-
   The Covid-19 pandemic has led to an economic crisis with strong social consequences. The main findings show an increase in inequalities and an increase in poverty. The poorest countries had fewer public resources to cope with this exogenous shock and their economies were particularly weakened. Within developed countries, the most vulnerable people were the most affected, while the richest people had little or no impact. The consequences of the pandemic affect people’s lives in many ways and inequalities are visible in different areas: income, employment, housing, education. These inequalities are intergenerational, gendered, social and economic.
   Memorandum 11 : overview of the studies and projects registered on WPRN database
-category_1: content/categories/WPRN.md
-category_2: ''
+
 keywords:
   - Human Behaviours, Social Relations
   - 'Inequalities, Poverty, Development '

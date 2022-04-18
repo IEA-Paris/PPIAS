@@ -1,5 +1,5 @@
 ---
-issue: content/issues/WPRN21.md
+issue: content/issues/WPRN.md
 tag:
   - 'Big Data, Artificial Intelligence '
   - Consumption and Production Patterns
@@ -30,8 +30,7 @@ keywords:
   - 'Firms, Markets, Finance '
   - 'Equality & Diversity Studies '
   - 'Inequalities, Poverty, Development '
-category_1: content/categories/WPRN21.md
-category_2: ''
+
 highlight: false
 language: English
 ---

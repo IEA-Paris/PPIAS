@@ -1,128 +1,129 @@
 ---
-category_1: content/categories/WPRN21.md
 issue: content/issues/WPRN21.md
 keywords:
-- Work, Welfare, Social protection
-- Environmental change, Ecology
-- 'Human Behaviours, Social Relations '
-- 'Public Discourse, Rhetorics, Communication '
-- 'Public Health '
-- 'Quantitative survey '
+  - Work, Welfare, Social protection
+  - Environmental change, Ecology
+  - 'Human Behaviours, Social Relations '
+  - 'Public Discourse, Rhetorics, Communication '
+  - 'Public Health '
+  - 'Quantitative survey '
 date: 2021-12-09T12:00:03.000+00:00
 language: English
 published: false
 article_title: Masks, Vaccinations and Compliance - Q&A session
 authors:
-- lastname: Lisi
-  firstname: Matteo P.
-  titles_and_institutions:
-  - titles: []
-    institution: Department Of Psychology, Sapienza University Of Rome, Italy
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: Kothari
-  firstname: Ammina
-  titles_and_institutions:
-  - titles: []
-    institution: University Of Rhode Island, USA
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: Olah
-  firstname: Andrew R.
-  titles_and_institutions:
-  - titles: []
-    institution: The Junkin Group, LLC, USA
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: Ervas
-  firstname: Francesca
-  titles_and_institutions:
-  - titles: []
-    institution: University of Cagliari
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: 'Calbi '
-  titles_and_institutions:
-  - titles: []
-    institution: Department Of Medicine And Surgery, Unit Of Neuroscience, University
-      Of Parma, Parma, Italy
-  firstname: Marta
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- lastname: Kurian Puliyeli
-  firstname: Dyuthi
-  titles_and_institutions:
-  - titles: []
-    institution: Symbiosis Law School Pune, Symbiosis International University, India
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-abstract: Face Masks are probably the most iconic visual representation of the Covid-19
+  - lastname: Lisi
+    firstname: Matteo P.
+    titles_and_institutions:
+      - titles: []
+        institution: Department Of Psychology, Sapienza University Of Rome, Italy
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: Kothari
+    firstname: Ammina
+    titles_and_institutions:
+      - titles: []
+        institution: University Of Rhode Island, USA
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: Olah
+    firstname: Andrew R.
+    titles_and_institutions:
+      - titles: []
+        institution: The Junkin Group, LLC, USA
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: Ervas
+    firstname: Francesca
+    titles_and_institutions:
+      - titles: []
+        institution: University of Cagliari
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: 'Calbi '
+    titles_and_institutions:
+      - titles: []
+        institution:
+          Department Of Medicine And Surgery, Unit Of Neuroscience, University
+          Of Parma, Parma, Italy
+    firstname: Marta
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - lastname: Kurian Puliyeli
+    firstname: Dyuthi
+    titles_and_institutions:
+      - titles: []
+        institution: Symbiosis Law School Pune, Symbiosis International University, India
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+abstract:
+  Face Masks are probably the most iconic visual representation of the Covid-19
   Pandemic. While the world was physically distancing, masks made this distance visible
   and provided a constant reminder of the new rules we were subject to. Masks, and
   arguably even more so the vaccine, also are objects of contestation and led to inequalities
@@ -143,12 +144,12 @@ picture: ''
 picture_copyright: ''
 yt: sdN3mZeQOgg
 highlight: false
-bibliography: "/documents-exportes_q-a2.bib"
-category_2: ''
+bibliography: '/documents-exportes_q-a2.bib'
+
 custom_pdf: ''
 disciplines: ''
-
 ---
+
 The Q&A session on the theme "Masks, Vaccinations and Compliance" during WPRN21 conference in Paris on December 9th 2021 is based on 6 projects registered in the WPRN database.
 
 <Youtube yt="sdN3mZeQOgg"  caption ="Q&A session - Masks, Vaccinations & Compliance"></Youtube>

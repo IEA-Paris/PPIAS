@@ -1,5 +1,5 @@
 ---
-issue: content/issues/WPRN21.md
+issue: content/issues/WPRN.md
 tag:
   - 'Human Behaviours, Social Relations '
   - 'Public Discourse, Rhetorics, Communication '
@@ -50,8 +50,7 @@ authors:
 abstract: |-
   Governments have responded to the pandemic with an arsenal of public policies certainly never before deployed on this scale in peacetime. To justify these measures (social distancing, confinement, etc.), the political figures in power have developed a variety of political rhetoric. What arguments have been put forward the most? By what means of communication? How were they received by voters? What role did partisan cleavages play in the perception of discourse and in the application of measures proposed by decision-makers?
   Memorandum 8 : overview of the studies and projects registered on WPRN database
-category_1: content/categories/WPRN.md
-category_2: ''
+
 keywords:
   - 'Democracy, Civil Society, Governance '
   - 'Public Discourse, Rhetorics, Communication '

@@ -1,5 +1,5 @@
 ---
-issue: content/issues/WPRN21.md
+issue: content/issues/WPRN.md
 tag:
   - Big Data, Artificial Intelligence
   - 'Equality & Diversity Studies '
@@ -40,8 +40,7 @@ authors:
 abstract: |-
   During the Covid 19 pandemic, the media was the main relay of information and had a strong impact on the perception of the crisis by citizens, on the acceptance of sanitary measures or on the propagation of conspiracy theories or false information. The Covid 19 major crisis is taking place in a context where the media world has undergone profound upheavals in the last decade, with the so-called traditional media (television, radio, press) being increasingly challenged by online media and social networks, which has led to a transformation of the citizens’ relationship to information.
   Memorandum 7 : overview of the studies and projects registered on WPRN database
-category_1: content/categories/WPRN.md
-category_2: content/categories/WPRN.md
+
 highlight: false
 keywords:
   - Big Data, Artificial Intelligence

@@ -1,5 +1,5 @@
 ---
-issue: content/issues/WPRN21.md
+issue: content/issues/WPRN.md
 tag:
   - Students
   - Stress
@@ -27,8 +27,7 @@ authors:
 abstract: |-
   The social distancing measures taken by the authorities in response to Covid 19 have had major economic and psychological consequences on the population. In particular, students were subject to major disruption. Social science research has shown that students constitute a fragile social category, more prone to anxiety than the rest of the population and thus particularly exposed during major upheavals such as the Covid 19 epidemic.
   Memorandum 3 : overview of the studies and projects registered on WPRN database
-category_1: content/categories/WPRN.md
-category_2: ''
+
 highlight: false
 keywords:
   - 'Human Behaviours, Social Relations '

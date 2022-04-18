@@ -1,6 +1,4 @@
 ---
-category_1: content/categories/WPRN21.md
-category_2: []
 issue: content/issues/WPRN21.md
 keywords:
   - 'Public Health '

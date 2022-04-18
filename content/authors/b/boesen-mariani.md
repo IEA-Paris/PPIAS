@@ -16,6 +16,7 @@ firstname: Sabine
 issue:
   - content/issues/10-12-2021.md
   - content/issues/WPRN21.md
+  - content/issues/OML.md
 language:
   - French
 lastname: Boesen Mariani

@@ -1,7 +1,5 @@
 ---
-category_1: content/categories/Fellows.md
-category_2: content/categories/OML.md
-issue: content/issues/WPRN21.md
+issue: content/issues/OML.md
 keywords:
   - History of Science
   - Microbes

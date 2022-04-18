@@ -1,5 +1,5 @@
 ---
-issue: content/issues/WPRN21.md
+issue: content/issues/WPRN.md
 keywords:
   - 'Equality & Diversity Studies '
   - Human Behaviours, Social Relations
@@ -27,8 +27,6 @@ abstract: |-
   Gender inequalities are structuring in our society: unequal pay, unequal distribution of household chores and family life, and violence against women remain major social facts. The field of gender studies has become increasingly important in the academic sphere. Numerous analyses have attempted to evaluate the consequences of the Covid 19 pandemic through a gender lens, showing for example a more important role for women in family work during confinement, a greater exposure of «typically» female occupations to the pandemic or an increase in domestic violence.
   Memorandum 6 : overview of the studies and projects registered on WPRN database
 highlight: false
-category_1: content/categories/WPRN.md
-category_2: content/categories/WPRN.md
 language: English
 tag:
   - 'Equality & Diversity Studies '

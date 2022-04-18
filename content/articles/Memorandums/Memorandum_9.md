@@ -1,5 +1,5 @@
 ---
-issue: content/issues/WPRN21.md
+issue: content/issues/WPRN.md
 tag:
   - 'Public Health '
   - 'Leisure, Tourism '
@@ -37,8 +37,7 @@ authors:
 abstract: |-
   The measures taken by governments to limit the spread of Covid-19, particularly containment, have restricted the opportunities for people to access nature. These restrictions have affected individuals and put at the heart of the debate the role of the link to nature for mental and physical well-being. Beyond this, the pandemic and containment have led to changes in the perceptions of time and space : part of the population is questioning its relationship with its surroundings and its way of life.
   Memorandum 9 : overview of the studies and projects registered on WPRN database.
-category_1: content/categories/WPRN.md
-category_2: ''
+
 keywords:
   - 'Leisure, Tourism '
   - 'Public Health '

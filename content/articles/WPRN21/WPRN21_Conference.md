@@ -61,8 +61,7 @@ abstract:
   shared their insights and lessons learned from the pandemic in 9 Keynote presentations,
   as well as 6 topic panels comprising 39 research papers.The welcome conference opens
   the 2 days of WPRN21.
-category_1: content/categories/WPRN21.md
-category_2: content/categories/WPRN.md
+
 keywords: []
 language: English
 ---
