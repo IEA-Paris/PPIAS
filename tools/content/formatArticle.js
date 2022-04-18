@@ -4,7 +4,7 @@ import { insertReferences } from '../lib/contentUtilities'
 import filters from '../../assets/generated/filters'
 const fs = require('fs')
 
-export default async (document, database) => {
+export default (document, database) => {
   const chalk = require('chalk')
   if (document.dir.startsWith('/articles') && document.published) {
     // generate bibliography if required
@@ -56,8 +56,6 @@ export default async (document, database) => {
     /*  if (!document.doi || !document.doi.length) document.doi = getDOI(document) */
     let count = 0
     /*   */
-    console.log('filters: ', filters.articles.filters.issue)
-    console.log('document.issue.slice(15, -3): ', document.issue.slice(15, -3))
     // we use the issue filter (already sorted by date) to set an index for the fetch of the view by issue
     document.issueIndex = document.issue?.length
       ? filters.articles.filters.issue.items.indexOf(

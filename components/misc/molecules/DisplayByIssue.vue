@@ -4,7 +4,7 @@
     class="transition-swing"
     :fluid="!$store.state.scrolled"
     :class="
-      ({ 'pl-0 ml-0': filter }, $store.state.scrolled ? 'pt-6' : 'px-0 pt-0')
+      ({ 'pl-3 ml-0': filter }, $store.state.scrolled ? 'pt-6' : 'px-0 pt-0')
     "
   >
     <v-row
