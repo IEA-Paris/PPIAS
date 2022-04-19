@@ -104,7 +104,7 @@
             v-if="item.bibliography && item.bibliography.length"
             class="bibliography-panel"
           >
-            <div id="bibliography" class="text-h4 mt-3 d-flex">
+            <div id="bibliography" class="text-h4 mt-3 ml-3 d-flex">
               {{ $t('bibliography') }}
               <v-spacer></v-spacer>
               <BibliographyStyleMenu></BibliographyStyleMenu>
@@ -112,7 +112,7 @@
             <ArticleBibliography :item="item"></ArticleBibliography>
           </div>
           <template v-if="item.footnotes && item.footnotes.length">
-            <div id="footnotes" class="text-h4 mt-3">
+            <div id="footnotes" class="text-h4 mt-3 ml-3">
               {{ $t('footnotes') }}
             </div>
             <ArticleFootnotes :item="item"></ArticleFootnotes>
@@ -275,6 +275,7 @@ export default {
 }
 .bibliography-panel {
   max-width: 650px;
+  margin-left: 0.9em;
 }
 // nuxt content styles
 </style>
