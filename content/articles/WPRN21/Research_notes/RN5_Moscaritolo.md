@@ -6,10 +6,10 @@ keywords:
   - Lockdown
   - Parenting
   - Home schooling
-date: 2022-04-13T21:10:47Z
+date: 2022-04-13T21:10:47.000+00:00
 language: English
 disciplines: ''
-published: false
+published: true
 article_title:
   Parenting and home schooling in diverse family settings with young
   children during the first COVID-19 lockdown in France

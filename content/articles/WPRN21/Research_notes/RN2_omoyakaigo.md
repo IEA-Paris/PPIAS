@@ -6,7 +6,7 @@ keywords:
   - Topicmodels
   - Infodemic
   - COVID-19
-date: 2022-04-11T13:53:04Z
+date: 2022-04-11T13:53:04.000+00:00
 language: English
 disciplines: ''
 published: true
@@ -98,7 +98,12 @@ TABLE
 
 Table 1 describes the number of newspaper articles and Twitter tweets collected for this study. For the analysis, this study used R statistical analysis software.
 
+<<<<<<< HEAD:content/articles/WPRN21/Research_notes/RN2_omoyakaigo.md
 For text mining, the quantitative analysis of textual data package (quanteda) was used for creating a corpus and this study employed topic modelling for automatic coding of content (@benoit_quanteda:\_2018;@catalinac_quantitative_2019).
+=======
+For text mining, the quantitative analysis of textual data package (quanteda) was used for creating a corpus and this study employed topic modelling for automatic coding of content (@benoit_quanteda:\_2018; @catalinac_quantitative_2019).
+
+> > > > > > > fb0298a06dc671273a027179c5498181a47a4098:content/articles/rn2_omoyakaigo.md
 
 ## 4. SUMMARY OF RESULTS
 
