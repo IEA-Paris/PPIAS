@@ -10,14 +10,12 @@
         <nuxt-content :document="page" />
       </v-col>
     </v-row>
-    <v-row justify="center">
-      <v-col cols="12" md="8" lg="6" xl="5">
-        <!--   Latest issue -->
-        <div class="text-h6">{{ $t('latest-issue') }}</div>
-        <v-divider></v-divider>
-        <em class="py-4 d-block">Coming soon &hellip;</em>
-      </v-col>
-    </v-row>
+
+    <LatestIssue
+      :issue="latestIssue"
+      :articles="latestIssueArticles"
+    ></LatestIssue>
+
     <v-row justify="center">
       <v-col cols="12" md="8" lg="6" xl="5">
         <!--  Featured articles -->
@@ -29,12 +27,42 @@
   </PageContainer>
 </template>
 <script>
+import LatestIssue from '~/components/issues/LatestIssue.vue'
 export default {
+  components: { LatestIssue },
   props: {},
-  async asyncData({ $content }) {
+  async asyncData({ $content, store }) {
     const page = await $content('pages/about').fetch()
+    const latestIssue = (
+      await $content('issues', { deep: true })
+        .sortBy('date', 'desc')
+        .limit(1)
+        .fetch()
+    )[0]
+    const latestIssueArticles = await $content('articles', { deep: true })
+      .where({ issue: { $regex: latestIssue.path } })
+      .sortBy('date')
+      .limit(4)
+      .fetch()
+    console.log('latestIssue: ', latestIssue)
+    console.log('latestIssueArticles: ', latestIssueArticles)
+    const featuredArticles = await $content('articles', { deep: true })
+      .where({ highlight: true })
+      .sortBy('date')
+      .limit(4)
+      .fetch()
+    console.log('featuredArticles: ', featuredArticles)
+    store.commit('setLoading', false) /* commit('setItems', {
+      items: latestIssueArticles,
+      total: latestIssueArticles.length,
+      numberOfPages: 1,
+      type: 'articles', 
+    }) */
     return {
       page,
+      featuredArticles,
+      latestIssueArticles,
+      latestIssue,
     }
   },
   data() {

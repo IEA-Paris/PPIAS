@@ -13,6 +13,7 @@
         itemsPerPageArray: [9, 16, 30],
       }"
     ></ListLeftPanel>
+    <ResetFiltersSnackBar />
   </div>
 </template>
 <script>

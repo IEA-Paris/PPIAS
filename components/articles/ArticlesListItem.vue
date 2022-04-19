@@ -76,7 +76,12 @@
             </div>
           </template>
         </PictureItem>
-        <TextFingerprint v-else :item="item" :size="300" :margin="20">
+        <TextFingerprint
+          v-else-if="item.countMap && item.countMap.length"
+          :item="item"
+          :size="300"
+          :margin="20"
+        >
           <!--          <template #categories>
             <ArticleCategories :item="item" />
           </template> -->
@@ -114,16 +119,18 @@
             class="text-p mt-3 article-authors"
           />
         </div>
-        <v-divider vertical class="mr-6 ml-3"></v-divider>
-        <div>
-          <div
-            class="article-abstract"
-            v-html="highlightWord(item.abstract)"
-          ></div>
-          <v-btn class="mt-6 d-block" tile outlined>{{
-            $t('read-more')
-          }}</v-btn>
-        </div>
+        <template v-if="excerpt">
+          <v-divider vertical class="mr-6 ml-3"></v-divider>
+          <div>
+            <div
+              class="article-abstract"
+              v-html="highlightWord(item.abstract)"
+            ></div>
+            <v-btn class="mt-6 d-block" tile outlined>{{
+              $t('read-more')
+            }}</v-btn>
+          </div>
+        </template>
       </div>
     </v-card>
     <v-divider></v-divider>
@@ -141,12 +148,19 @@ export default {
       required: true,
       type: Number,
     },
+    excerpt: {
+      required: false,
+      type: Boolean,
+      default: true,
+    },
   },
   data() {
     return {}
   },
   computed: {},
-  mounted() {},
+  created() {
+    console.log('item: ', this.item)
+  },
   methods: {
     highlightWord(word = '', query) {
       return this.$store.state.articles.search

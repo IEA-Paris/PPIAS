@@ -1,63 +1,68 @@
 ---
 issue: content/issues/WPRN21.md
 keywords:
-- Single-parent families
-- Shared residence
-- Lockdown
-- Parenting
-- Home schooling
+  - Single-parent families
+  - Shared residence
+  - Lockdown
+  - Parenting
+  - Home schooling
 date: 2022-04-13T21:10:47Z
 language: English
 disciplines: ''
 published: false
-article_title: Parenting and home schooling in diverse family settings with young
+article_title:
+  Parenting and home schooling in diverse family settings with young
   children during the first COVID-19 lockdown in France
 authors:
-- firstname: 'Amalia '
-  lastname: Martinez
-  titles_and_institutions:
-  - titles: []
-    institution: Group for research and Analyses in Population health (GAP), IUCT
-      Oncopole, France
-  - titles: []
-    institution: Center of Epidemiology and Research in POPulation health (CERPOP),
-      Inserm, Toulouse III Paul Sabatier University, France
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: 'Alice '
-  lastname: Moscaritolo
-  titles_and_institutions:
-  - titles: []
-    institution: Baby Early childhood in COntexts scientific interest grouping (BECO),
-      France
-  - titles: []
-    institution: EFTS, Toulouse Jean-Jaurès University, France
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
+  - firstname: 'Amalia '
+    lastname: Martinez
+    titles_and_institutions:
+      - titles: []
+        institution:
+          Group for research and Analyses in Population health (GAP), IUCT
+          Oncopole, France
+      - titles: []
+        institution:
+          Center of Epidemiology and Research in POPulation health (CERPOP),
+          Inserm, Toulouse III Paul Sabatier University, France
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: 'Alice '
+    lastname: Moscaritolo
+    titles_and_institutions:
+      - titles: []
+        institution:
+          Baby Early childhood in COntexts scientific interest grouping (BECO),
+          France
+      - titles: []
+        institution: EFTS, Toulouse Jean-Jaurès University, France
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
 custom_pdf: ''
-abstract: During the COVID-19 sanitary crisis, the particular constraints faced by
+abstract:
+  During the COVID-19 sanitary crisis, the particular constraints faced by
   French single-parent families and households with children in shared residence can
   be analysed as additional burdens whilst parenting young children and dealing with
   home schooling during lockdown. Elements for implementing targeted measures are
@@ -66,16 +71,16 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: "/documents-exportes_rn5.bib"
-
+bibliography: '/bibliography/documents-exportes_rn5.bib'
 ---
+
 ## 1. INTRODUCTION
 
-The COV-JEUNENFANT(^1) (COVID-Young Child) interdisciplinary project aims to better understand the lived experiences of families with young children (0-6) during the first lockdown in France. Particular attention was paid to the unequal constraints in diverse family settings and their effects on parenting and home schooling. In 2018, single-parent families accounted for 21% of the French [households](https://www.insee.fr/fr/statistiques/4285341 "Insee"). One third was living below the poverty line (@haut_les_2014). 3.4% of French children are formally living in dual [residence](https://www.insee.fr/fr/statistiques/5227614#titre-bloc-1 "INSEE_2020"). Assuming that socio-economic insecurity for the former and circulation between homes for the latter were factors potentially amplifying the negative effects of the COVID-19 health crisis restrictions, we intended to look into the daily lives of these particular family configurations coping with educating and caring for young children during the pandemic.
+The COV-JEUNENFANT[^1] (COVID-Young Child) interdisciplinary project aims to better understand the lived experiences of families with young children (0-6) during the first lockdown in France. Particular attention was paid to the unequal constraints in diverse family settings and their effects on parenting and home schooling. In 2018, single-parent families accounted for 21% of the French [households](https://www.insee.fr/fr/statistiques/4285341 'Insee'). One third was living below the poverty line (@haut_les_2014). 3.4% of French children are formally living in dual [residence](https://www.insee.fr/fr/statistiques/5227614#titre-bloc-1 'INSEE_2020'). Assuming that socio-economic insecurity for the former and circulation between homes for the latter were factors potentially amplifying the negative effects of the COVID-19 health crisis restrictions, we intended to look into the daily lives of these particular family configurations coping with educating and caring for young children during the pandemic.
 
 ## 2. METHODOLOGY
 
-An online questionnaire (^2) collected data from a population of 490 families residing in France with at least one child up to six years old. Analyses on two sub-populations are presented here: 36 single-parent families (^3) (SPF) (32 mothers and 4 fathers, 7% of our study population) and 19 families with children in shared residence (SR) (13 mothers and 6 fathers, 4%). Compared to the French national rate, the smaller proportion of SPF in our population may be due to the time lag between the birth of a child and marital separations. Our SR sample is close to, if not above, the national rate of children living in dual residence. Bivariate analyses (chi2 and Fisher's exact test*, significance threshold of 0.05) and qualitative analysis (continuous thematisation of three free-expression items) were performed.
+An online questionnaire [^2] collected data from a population of 490 families residing in France with at least one child up to six years old. Analyses on two sub-populations are presented here: 36 single-parent families [^3] (SPF) (32 mothers and 4 fathers, 7% of our study population) and 19 families with children in shared residence (SR) (13 mothers and 6 fathers, 4%). Compared to the French national rate, the smaller proportion of SPF in our population may be due to the time lag between the birth of a child and marital separations. Our SR sample is close to, if not above, the national rate of children living in dual residence. Bivariate analyses (chi2 and Fisher's exact test\*, significance threshold of 0.05) and qualitative analysis (continuous thematisation of three free-expression items) were performed.
 
 ## 3. FACING LOCKDOWN FROM A VULNERABLE STANDPOINT
 
@@ -119,8 +124,8 @@ Measures supporting parenting as well as homeschooling during sanitary crises sh
 
 We thank the COV-JEUNENFANT sponsors (National Research Agency, CNAF, Regional Council of Occitania, Departmental Council of Haute Garonne, CAF 31) and the families participating in the study. No conflict of interest.
 
-(^1) : COV-JEUNENFANT Consortium members: Zaouche Gaudron, C., (Ed.), Basson, J.-C., Bouilhac, C., Claudet, I., Collomb, N., Delpierre, C., Dupuy, A., Gaborit, E., Glorieux, I., Katkoff, V., Kelly-Irving, M., Larrosa, V., Marchand, P., Mennesson, C., Moscaritolo, A., Pinel-Jacquemin, S., Ratinaud, P., Renard, J., Willig. T.-N.
+[^1] : COV-JEUNENFANT Consortium members: Zaouche Gaudron, C., (Ed.), Basson, J.-C., Bouilhac, C., Claudet, I., Collomb, N., Delpierre, C., Dupuy, A., Gaborit, E., Glorieux, I., Katkoff, V., Kelly-Irving, M., Larrosa, V., Marchand, P., Mennesson, C., Moscaritolo, A., Pinel-Jacquemin, S., Ratinaud, P., Renard, J., Willig. T.-N.
 
-(^2) : 69 items, on a dedicated website from April 28 to May 29, 2020. A few questionnaires were completed after the end of the lockdown in France (official dates: March 17 to May 11, 2020).
+[^2] : 69 items, on a dedicated website from April 28 to May 29, 2020. A few questionnaires were completed after the end of the lockdown in France (official dates: March 17 to May 11, 2020).
 
-(^3) : This specific sub-population is the subject of a publication within the COV-JEUNENFANT project (@moscaritolo_vécu_2021).
+[^3] : This specific sub-population is the subject of a publication within the COV-JEUNENFANT project (@moscaritolo_vécu_2021).

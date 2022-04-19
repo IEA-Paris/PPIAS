@@ -6,6 +6,7 @@ export const state = () => ({
   scrolled: process.browser ? window.pageYOffset > 0 : false,
   logo: 0,
   loading: true,
+  resetFilters: false,
 })
 
 export const mutations = {
@@ -102,6 +103,8 @@ export const mutations = {
     Vue.set(state[type], 'filtersCount', filtersCount)
   },
   setBlankState(state, type) {
+    Vue.set(state, 'resetFilters', true)
+
     console.log('RESET STATE', type)
     const defaultView =
       lists[type].views[
@@ -131,6 +134,7 @@ export const mutations = {
     Vue.set(state[type], 'view', defaultView.name)
     Vue.set(state[type], 'sortBy', [defaultSort[0].value[0]])
     Vue.set(state[type], 'sortDesc', defaultSort[0].value[1] === 'desc')
+    Vue.set(state, 'resetFilters', false)
   },
   setBlankFilterLoad(state, type) {
     Vue.set(state[type], 'loading', [])

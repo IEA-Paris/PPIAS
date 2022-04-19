@@ -58,7 +58,12 @@
             </div>
           </template>
         </PictureItem>
-        <TextFingerprint v-else :item="item" :size="300" :margin="20">
+        <TextFingerprint
+          v-else-if="item.countMap && item.countMap.length"
+          :item="item"
+          :size="300"
+          :margin="20"
+        >
           <!--         <template #categories>
             <ArticleCategories :item="item" />
           </template> -->

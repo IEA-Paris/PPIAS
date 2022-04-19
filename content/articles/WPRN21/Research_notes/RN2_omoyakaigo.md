@@ -1,58 +1,62 @@
 ---
 issue: content/issues/WPRN21.md
 keywords:
-- Newspapers
-- Twitter
-- Topicmodels
-- Infodemic
-- COVID-19
+  - Newspapers
+  - Twitter
+  - Topicmodels
+  - Infodemic
+  - COVID-19
 date: 2022-04-11T13:53:04Z
 language: English
 disciplines: ''
-published: false
-article_title: 'Dissatisfaction and alternative information in the early stages of
+published: true
+article_title:
+  'Dissatisfaction and alternative information in the early stages of
   the Covid-19 pandemic: Comparing contents in Japanese newspapers with Twitter'
 authors:
-- firstname: Muneo
-  lastname: KAIGO
-  titles_and_institutions:
-  - titles: []
-    institution: Faculty of Humanities and Social Sciences, University of Tsukuba,
-      Japan
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: Yuka
-  lastname: OMOYA
-  titles_and_institutions:
-  - titles: []
-    institution: Graduate School of Humanities and Social Sciences, University of
-      Tsukuba, Japan
-  social_channels:
-    researchgate: https://www.researchgate.net/profile/Yuka-Omoya
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    mendeley: ''
-  picture: ''
-  picture_copyright: ''
-  reference: ''
+  - firstname: Muneo
+    lastname: KAIGO
+    titles_and_institutions:
+      - titles: []
+        institution:
+          Faculty of Humanities and Social Sciences, University of Tsukuba,
+          Japan
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: Yuka
+    lastname: OMOYA
+    titles_and_institutions:
+      - titles: []
+        institution:
+          Graduate School of Humanities and Social Sciences, University of
+          Tsukuba, Japan
+    social_channels:
+      researchgate: https://www.researchgate.net/profile/Yuka-Omoya
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      mendeley: ''
+    picture: ''
+    picture_copyright: ''
+    reference: ''
 custom_pdf: ''
-abstract: The purpose of this study is to examine the way mediated content about the
+abstract:
+  The purpose of this study is to examine the way mediated content about the
   novel coronavirus (COVID-19) outbreak fluctuated in the Japanese information environment
   from January – April 2020. This will be made possible through collecting data and
   making comparisons of the topics that were prevalent in traditional media and social
@@ -67,15 +71,15 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: "/documents-exportes_rn2.bib"
+bibliography: '/bibliography/documents-exportes_rn2.bib'
 title: RN2_OmoyaKaigo
-
 ---
+
 ## 1. INTRODUCTION
 
 Accompanying the COVID-19 outbreak and lack of accurate information related to this virus, many sources of information were providing various stories or topics in Japan. At the early stage of the outbreak people were aggressively seeking new information because of the uncertainty about the virus. This was creating anxiety and building further suspicion and fear. With so many different channels of information available in the current world, one is less likely to be dependent on a single source of information.
 
-From previous studies (@kaigo_social_2012; @mishima_public_2010), our assumptions were: topics that were relevant to governmental issues were more often found in mass media, rather than social media and topics that were relevant to families and individuals were more often found in social media, rather than mass media. Therefore, this study investigated how the topics of information regarding COVID-19 in traditional and social media differed and how the topics in relation to COVID-19 of traditional and social media users changed before and after the WHO pandemic declaration in 2020 (@world health organization_novel_2020).
+From previous studies (@kaigo_social_2012; @mishima_public_2010), our assumptions were: topics that were relevant to governmental issues were more often found in mass media, rather than social media and topics that were relevant to families and individuals were more often found in social media, rather than mass media. Therefore, this study investigated how the topics of information regarding COVID-19 in traditional and social media differed and how the topics in relation to COVID-19 of traditional and social media users changed before and after the WHO pandemic declaration in 2020 (@world_health_organization_novel_2020).
 
 ## 2. PURPOSE OF THE STUDY
 
@@ -90,16 +94,11 @@ RQ2: How did the topics in relation to COVID-19 of newspapers and Twitter users 
 Newspaper articles were collected from the Asahi, Yomiuri, and Mainichi Shimbun. For the analysis of the social media discourse about the coronavirus, this study collected Twitter data from the Twitter Application Program Interface (API). This study extracted the tweets with the hashtag “#koronauirusu (coronavirus)” at seven-day intervals from February 6, 2020, to April 10, 2020. The term “coronavirus” is commonly used than “COVID-19” in Japan, so to avoid redundant data collection, this study employed data collection using this hashtag to avoid overlapping duplication of data.
 
 **Table 1. _Total Data Collected for this study._**
-
-                     | Before pandemic declaration| After pandemic declaration | 
-
-| Newspaper articles | 4,537                      | 6,416                      |
-
-| Tweets             | 88,161                     | 83,835                     |
+TABLE
 
 Table 1 describes the number of newspaper articles and Twitter tweets collected for this study. For the analysis, this study used R statistical analysis software.
 
-For text mining, the quantitative analysis of textual data package (quanteda) was used for creating a corpus and this study employed topic modelling for automatic coding of content (@benoit_quanteda_ 2018; @catalinac_quantitative_2019).
+For text mining, the quantitative analysis of textual data package (quanteda) was used for creating a corpus and this study employed topic modelling for automatic coding of content (@benoit_quanteda:\_2018;@catalinac_quantitative_2019).
 
 ## 4. SUMMARY OF RESULTS
 
@@ -107,31 +106,31 @@ The research results found that the reporting policies requiring verifiable fact
 
 **Table 2. _Newspaper topics (topic models analysis results)._**
 
-Before pandemic declaration	　	After pandemic declaration
-1\.Industry		                 1.Economy
-2\.Japanese government reaction	 2.Social impact
-3\.Economy		                 3.State of emergency
-4\.International situation	     4.Tokyo Olympic Games
-5\.Social impact		         5.International situation
-6\.Tokyo Olympic Games	         6.Entertainment
-7\.Suspend schools		         7.Japanese government reaction
-8\.Diamond Princess cruise ship	 8.Closure of stores
-9\.Situation in China	　	    9.Situation in US & Europe
+Before pandemic declaration 　 After pandemic declaration
+1\.Industry 1.Economy
+2\.Japanese government reaction 2.Social impact
+3\.Economy 3.State of emergency
+4\.International situation 4.Tokyo Olympic Games
+5\.Social impact 5.International situation
+6\.Tokyo Olympic Games 6.Entertainment
+7\.Suspend schools 7.Japanese government reaction
+8\.Diamond Princess cruise ship 8.Closure of stores
+9\.Situation in China 　 9.Situation in US & Europe
 
 During the same time, information exchange on Twitter was procuring a complex array of information, with rumors and fake news accompanying verified facts in the early stages of the pandemic.
 
 **Table 3. _Twitter topics (topicmodels analysis results)._**
 
-Before pandemic declaration	　	   After pandemic declaration
-1\.International situation	        1.Prefectural governor requests
-2\.Cancellation of events	        2.Hopes of an end
-3\.Rumors (1)		                3.Tokyo lockdown
-4\.Medical		                    4.Medical collapse
-5\.Rumors (2)		                5.Medical supplies
-6\.Tested positive		            6.Media news
-7\.Criticism on government	        7.Stimulus payment
-8\.Diamond Princess cruise ship	    8.Entertainment
-9\.Medical activity of Defense Force	9.Celebrities
+Before pandemic declaration 　 After pandemic declaration
+1\.International situation 1.Prefectural governor requests
+2\.Cancellation of events 2.Hopes of an end
+3\.Rumors (1) 3.Tokyo lockdown
+4\.Medical 4.Medical collapse
+5\.Rumors (2) 5.Medical supplies
+6\.Tested positive 6.Media news
+7\.Criticism on government 7.Stimulus payment
+8\.Diamond Princess cruise ship 8.Entertainment
+9\.Medical activity of Defense Force 9.Celebrities
 
 ## 5. DISCUSSION
 

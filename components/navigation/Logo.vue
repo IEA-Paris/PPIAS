@@ -2,16 +2,16 @@
   <div
     class="d-flex logo-container"
     @click="
-      $store.dispatch('resetState', 'articles') &&
+      $router.push(localePath('/')) &&
+        $store.dispatch('resetState', 'articles') &&
         $store.dispatch('resetState', 'media') &&
-        $store.dispatch('resetState', 'authors') &&
-        $router.push(localePath('/'))
+        $store.dispatch('resetState', 'authors')
     "
     @keyup.enter="
-      $store.dispatch('resetState', 'articles') &&
+      $router.push(localePath('/')) &&
+        $store.dispatch('resetState', 'articles') &&
         $store.dispatch('resetState', 'media') &&
-        $store.dispatch('resetState', 'authors') &&
-        $router.push(localePath('/'))
+        $store.dispatch('resetState', 'authors')
     "
   >
     <nuxt-img
