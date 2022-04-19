@@ -1,6 +1,9 @@
 import { env } from 'process'
 import Citation from 'citation-js'
-import { insertReferences } from '../lib/contentUtilities'
+import {
+  insertReferences,
+  replaceReferenceInString,
+} from '../lib/contentUtilities'
 import filters from '../../assets/generated/filters'
 const fs = require('fs')
 
@@ -91,17 +94,10 @@ export default (document, database) => {
                 document.footnotes.push({
                   // TODO offset backlink on Y axis
                   backlink: footnote.children[1].props.href,
-                  value: insertReferences(
-                    {
-                      type: 'element',
-                      tag: 'span',
-                      props: { class: 'node' },
-                      children: [
-                        { type: 'text', value: footnote.children[0].value },
-                      ],
-                    },
+                  value: replaceReferenceInString(
+                    footnote.children[0].value,
                     document.bibliography
-                  ).children[0].value,
+                  ),
                 })
               }
               return true

@@ -53,7 +53,6 @@ export default async () => {
       .map((item) => item.slug)
       .filter((item) => item !== null && item !== ''),
   }
-  console.log(' filters.issue: ', filters.issue)
 
   // Discipline filters
   filters.discipline = {

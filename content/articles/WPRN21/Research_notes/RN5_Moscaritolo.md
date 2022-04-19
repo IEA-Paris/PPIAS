@@ -76,7 +76,7 @@ bibliography: '/bibliography/documents-exportes_rn5.bib'
 
 ## 1. INTRODUCTION
 
-The COV-JEUNENFANT[^1] (COVID-Young Child) interdisciplinary project aims to better understand the lived experiences of families with young children (0-6) during the first lockdown in France. Particular attention was paid to the unequal constraints in diverse family settings and their effects on parenting and home schooling. In 2018, single-parent families accounted for 21% of the French [households](https://www.insee.fr/fr/statistiques/4285341 'Insee'). One third was living below the poverty line (@haut_les_2014). 3.4% of French children are formally living in dual [residence](https://www.insee.fr/fr/statistiques/5227614#titre-bloc-1 'INSEE_2020'). Assuming that socio-economic insecurity for the former and circulation between homes for the latter were factors potentially amplifying the negative effects of the COVID-19 health crisis restrictions, we intended to look into the daily lives of these particular family configurations coping with educating and caring for young children during the pandemic.
+The COV-JEUNENFANT[^1] (COVID-Young Child) interdisciplinary project aims to better understand the lived experiences of families with young children (0-6) during the first lockdown in France. Particular attention was paid to the unequal constraints in diverse family settings and their effects on parenting and home schooling. In 2018, single-parent families accounted for 21% of the French [households](https://www.insee.fr/fr/statistiques/4285341 'Insee'). One third was living below the poverty line (@haut_conseil_de_la_famille_les_2014). 3.4% of French children are formally living in dual [residence](https://www.insee.fr/fr/statistiques/5227614#titre-bloc-1 'INSEE_2020'). Assuming that socio-economic insecurity for the former and circulation between homes for the latter were factors potentially amplifying the negative effects of the COVID-19 health crisis restrictions, we intended to look into the daily lives of these particular family configurations coping with educating and caring for young children during the pandemic.
 
 ## 2. METHODOLOGY
 
@@ -112,13 +112,13 @@ In the SPF sample, home schooling was more often mentioned as “complicated” 
 
 ## 5. RISK FACTORS AND PREVENTIVE MESURES
 
-SPF experienced the greatest reduction in exchange of community services during the first French lockdown (Lambert et al., 2020). Reinforced parent-child relationships may have been a resource to counter the deficit in support from social and family networks SPF usually rely on, also for childcare. Nevertheless, greater perceived pression and need for guidance in setting rules should be taken into account for future supportive actions, since single parenthood, motherhood and care for young children predicted greater parental burnout during the first lockdown (@marchetti_parenting_2020). Higher risks of psychological distress among children in SPF were also described (@monnier_children_2021).
+SPF experienced the greatest reduction in exchange of community services during the first French lockdown (Lambert et al., 2020). Reinforced parent-child relationships may have been a resource to counter the deficit in support from social and family networks SPF usually rely on, also for childcare. Nevertheless, greater perceived pression and need for guidance in setting rules should be taken into account for future supportive actions, since single parenthood, motherhood and care for young children predicted greater parental burnout during the first lockdown (@marchetti_parenting-related_2020). Higher risks of psychological distress among children in SPF were also described (@monnier_childrens_2021).
 
 Reduced living space concerned both SPF and SR samples, the latter having to cope with their share of child care whilst more often working (and telecommuting), and less often living with a confined partner.
 
 Partners of respondents with children in SR seemed to be more supportive with homeschooling, even if the gender ratio could be a bias (6 male SR respondents, p = 0.007), and missing data possibly shows no involvement from some partners, or a lack of communication on school issues between ex-partners.
 
-Measures supporting parenting as well as homeschooling during sanitary crises should be tailored for other family settings with young children than the “average household” too often referred to (@bessière_penser_2020). Further research on larger samples would be helpful to get deeper insight of the tendencies sketched out here.
+Measures supporting parenting as well as homeschooling during sanitary crises should be tailored for other family settings with young children than the “average household” too often referred to (@bessiere_penser_2020). Further research on larger samples would be helpful to get deeper insight of the tendencies sketched out here.
 
 ## ACKNOWLEDGEMENTS
 
@@ -126,4 +126,4 @@ We thank the COV-JEUNENFANT sponsors (National Research Agency, CNAF, Regional C
 
 [^1]: COV-JEUNENFANT Consortium members: Zaouche Gaudron, C., (Ed.), Basson, J.-C., Bouilhac, C., Claudet, I., Collomb, N., Delpierre, C., Dupuy, A., Gaborit, E., Glorieux, I., Katkoff, V., Kelly-Irving, M., Larrosa, V., Marchand, P., Mennesson, C., Moscaritolo, A., Pinel-Jacquemin, S., Ratinaud, P., Renard, J., Willig. T.-N.
 [^2]: 69 items, on a dedicated website from April 28 to May 29, 2020. A few questionnaires were completed after the end of the lockdown in France (official dates: March 17 to May 11, 2020).
-[^3]: This specific sub-population is the subject of a publication within the COV-JEUNENFANT project (@moscaritolo_vécu_2021).
+[^3]: This specific sub-population is the subject of a publication within the COV-JEUNENFANT project (@moscaritolo_vecu_2021).

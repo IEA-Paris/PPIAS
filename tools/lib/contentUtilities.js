@@ -218,17 +218,17 @@ export const generateDisciplines = () => {
   // TODO make selective depending on website settings
   disciplines.forEach((area) => {})
 }
-
+// eslint-disable-next-line no-misleading-character-class
+const referenceRegex = new RegExp(
+  // eslint-disable-next-line no-misleading-character-class
+  /@[\w-' '陳大文łŁőŐűŰZàáâäãåąčćęèéêëėįìíîïłńòóôöõøùúûüųūÿýżźçčšžÀÁÂÄÃÅĄĆČĖĘÈÉÊËÌÍÎÏĮŁŃÒÓÔÖÕØÙÚÛÜŲŪŸÝŻŹßÇŒÆČŠŽ.âê都道府県Федерацииআবাসযোগ্য জমির걸쳐 있는:!\/,?.;*$=()\\&-'"&²¹`#\[\]\{\}\%\#\$\^\~\&\_]+_[\w-' '陳大文łŁőŐűŰZàáâäãåąčćęèéêëėįìíîïłńòóôöõøùúûüųūÿýżźçčšžÀÁÂÄÃÅĄĆČĖĘÈÉÊËÌÍÎÏĮŁŃÒÓÔÖÕØÙÚÛÜŲŪŸÝŻŹßÇŒÆČŠŽ.âê都道府県Федерацииআবাসযোগ্য জমির걸쳐 있는:!\/,?.;*$=()\\&-'"&²¹`#\[\]\{\}\%\#\$\^\~\&\_]+_\d{4}/,
+  'i'
+)
 export const insertReferences = (node, biblio) => {
   const replaceReference = (node) => {
     // only match citation keys (@author_title_year)
     // 'author' 'title' above refer to the first word of these only
-    // eslint-disable-next-line no-misleading-character-class
-    const referenceRegex = new RegExp(
-      // eslint-disable-next-line no-misleading-character-class
-      /@[\w-' '陳大文łŁőŐűŰZàáâäãåąčćęèéêëėįìíîïłńòóôöõøùúûüųūÿýżźçčšžÀÁÂÄÃÅĄĆČĖĘÈÉÊËÌÍÎÏĮŁŃÒÓÔÖÕØÙÚÛÜŲŪŸÝŻŹßÇŒÆČŠŽ.âê都道府県Федерацииআবাসযোগ্য জমির걸쳐 있는:!\/,?.;*$=()\\&-'"&²¹`#\[\]\{\}\%\#\$\^\~\&\_]+_[\w-' '陳大文łŁőŐűŰZàáâäãåąčćęèéêëėįìíîïłńòóôöõøùúûüųūÿýżźçčšžÀÁÂÄÃÅĄĆČĖĘÈÉÊËÌÍÎÏĮŁŃÒÓÔÖÕØÙÚÛÜŲŪŸÝŻŹßÇŒÆČŠŽ.âê都道府県Федерацииআবাসযোগ্য জমির걸쳐 있는:!\/,?.;*$=()\\&-'"&²¹`#\[\]\{\}\%\#\$\^\~\&\_]+_\d{4}/,
-      'i'
-    )
+
     const matches = node.value.match(referenceRegex)
     // do we have references to replace?
     if (matches !== null) {
@@ -286,4 +286,27 @@ export const insertReferences = (node, biblio) => {
     )
   }
   return node
+}
+export const replaceReferenceInString = (text, biblio) => {
+  const matches = text.match(referenceRegex)
+  if (matches !== null) {
+    for (let index = 0; index < matches.length; index++) {
+      const element = matches[index]
+      // find the related reference
+      const ref = biblio.find(
+        (item) => item.id === element.toLowerCase().substring(1)
+      )
+      if (!ref) {
+        console.log('REFERENCE NOT FOUND IN BIB FILE: ', element)
+        continue
+      }
+      ref.link = true
+      // edit the node to include the link
+      text = text.replace(
+        element,
+        `<a id="bb-${ref.id}" href="#bb-${ref.id}" onclick="event.stopPropagation();">${ref.citation}</a>`
+      )
+    }
+  }
+  return text
 }

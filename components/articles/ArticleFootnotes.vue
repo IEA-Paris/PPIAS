@@ -9,8 +9,8 @@
       <v-list-item-content>
         <span
           ><b>{{ index + 1 }}</b
-          >: {{ footnote.value }}</span
-        >
+          >: <span v-html="footnote.value"></span
+        ></span>
       </v-list-item-content>
     </v-list-item>
   </v-list>
