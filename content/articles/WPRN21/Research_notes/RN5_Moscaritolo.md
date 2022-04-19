@@ -124,8 +124,6 @@ Measures supporting parenting as well as homeschooling during sanitary crises sh
 
 We thank the COV-JEUNENFANT sponsors (National Research Agency, CNAF, Regional Council of Occitania, Departmental Council of Haute Garonne, CAF 31) and the families participating in the study. No conflict of interest.
 
-[^1] : COV-JEUNENFANT Consortium members: Zaouche Gaudron, C., (Ed.), Basson, J.-C., Bouilhac, C., Claudet, I., Collomb, N., Delpierre, C., Dupuy, A., Gaborit, E., Glorieux, I., Katkoff, V., Kelly-Irving, M., Larrosa, V., Marchand, P., Mennesson, C., Moscaritolo, A., Pinel-Jacquemin, S., Ratinaud, P., Renard, J., Willig. T.-N.
-
-[^2] : 69 items, on a dedicated website from April 28 to May 29, 2020. A few questionnaires were completed after the end of the lockdown in France (official dates: March 17 to May 11, 2020).
-
-[^3] : This specific sub-population is the subject of a publication within the COV-JEUNENFANT project (@moscaritolo_vécu_2021).
+[^1]: COV-JEUNENFANT Consortium members: Zaouche Gaudron, C., (Ed.), Basson, J.-C., Bouilhac, C., Claudet, I., Collomb, N., Delpierre, C., Dupuy, A., Gaborit, E., Glorieux, I., Katkoff, V., Kelly-Irving, M., Larrosa, V., Marchand, P., Mennesson, C., Moscaritolo, A., Pinel-Jacquemin, S., Ratinaud, P., Renard, J., Willig. T.-N.
+[^2]: 69 items, on a dedicated website from April 28 to May 29, 2020. A few questionnaires were completed after the end of the lockdown in France (official dates: March 17 to May 11, 2020).
+[^3]: This specific sub-population is the subject of a publication within the COV-JEUNENFANT project (@moscaritolo_vécu_2021).

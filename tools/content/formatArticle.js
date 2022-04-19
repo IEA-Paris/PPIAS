@@ -91,7 +91,17 @@ export default (document, database) => {
                 document.footnotes.push({
                   // TODO offset backlink on Y axis
                   backlink: footnote.children[1].props.href,
-                  value: footnote.children[0].value,
+                  value: insertReferences(
+                    {
+                      type: 'element',
+                      tag: 'span',
+                      props: { class: 'node' },
+                      children: [
+                        { type: 'text', value: footnote.children[0].value },
+                      ],
+                    },
+                    document.bibliography
+                  ).children[0].value,
                 })
               }
               return true

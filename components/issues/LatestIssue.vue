@@ -7,7 +7,7 @@
       </div>
       <v-divider></v-divider>
       <v-sheet class="mx-auto" max-width="800" flat>
-        <div class="text-h6">{{ issue.title }}</div>
+        <div class="text-h6 mb-6">{{ issue.title }}</div>
         <ArticlesListItemMobile
           v-for="(article, index) in articles.slice(0, 4)"
           v-bind="$attrs"

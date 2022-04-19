@@ -42,7 +42,6 @@ export default {
     const latestIssueArticles = await $content('articles', { deep: true })
       .where({ issue: { $regex: latestIssue.path } })
       .sortBy('date')
-      .limit(4)
       .fetch()
     console.log('latestIssue: ', latestIssue)
     console.log('latestIssueArticles: ', latestIssueArticles)
