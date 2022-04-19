@@ -99,7 +99,7 @@ Newspaper articles were collected from the Asahi, Yomiuri, and Mainichi Shimbun.
 
 Table 1 describes the number of newspaper articles and Twitter tweets collected for this study. For the analysis, this study used R statistical analysis software.
 
-For text mining, the quantitative analysis of textual data package (quanteda) was used for creating a corpus and this study employed topic modelling for automatic coding of content (@benoit_quanteda_ 2018; @catalinac_quantitative_2019).
+For text mining, the quantitative analysis of textual data package (quanteda) was used for creating a corpus and this study employed topic modelling for automatic coding of content (@benoit_quanteda:_2018; @catalinac_quantitative_2019).
 
 ## 4. SUMMARY OF RESULTS
 
