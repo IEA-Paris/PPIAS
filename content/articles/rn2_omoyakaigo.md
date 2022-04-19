@@ -6,10 +6,10 @@ keywords:
 - Topicmodels
 - Infodemic
 - COVID-19
-date: 2022-04-11T13:53:04Z
+date: 2022-04-11T13:53:04.000+00:00
 language: English
 disciplines: ''
-published: false
+published: true
 article_title: 'Dissatisfaction and alternative information in the early stages of
   the Covid-19 pandemic: Comparing contents in Japanese newspapers with Twitter'
 authors:
