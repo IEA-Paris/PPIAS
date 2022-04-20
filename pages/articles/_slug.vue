@@ -11,7 +11,7 @@
         </v-expansion-panel-header>
         <v-divider></v-divider>
         <v-expansion-panel-content>
-          <ArticleOverview v-if="item.length" :item="item[0]"></ArticleOverview>
+          <ArticleSummary v-if="item.length" :item="item[0]"></ArticleSummary>
         </v-expansion-panel-content>
       </v-expansion-panel>
       <v-expansion-panel>
@@ -54,7 +54,7 @@
 <script>
 export default {
   beforeRouteUpdate(to, from, next) {
-    console.log('to.hash: ', to.hash)
+    /*  console.log('to.hash: ', to.hash) */
     if (to.hash && to.hash.startsWith('#fn-')) {
       this.footnote = true
       this.note = this.item[0]?.footnotes[+to.hash.substring(4) - 1].value
@@ -63,16 +63,9 @@ export default {
       window.addEventListener('scroll', this.hideSnack)
       next(from)
     } else if (to.hash && to.hash.startsWith('#bb-')) {
-      console.log(
-        'this.$config.modules.bibliography.defaultStyle: ',
-        this.$config.modules.bibliography.defaultStyle
-      )
-      console.log('to.hash.substring(3): ', to.hash.substring(4))
-
       this.note = this.item[0].bibliography.find(
         (item) => item.id === to.hash.substring(4)
       )[this.$store.state.articles.style]
-      console.log('this.note: ', this.note)
       if (this.note) {
         this.footnote = false
         this.$nextTick(() => {
@@ -132,7 +125,6 @@ export default {
       this.show = entries[0].isIntersecting
     },
     hideSnack() {
-      console.log('DIS SNACK')
       this.showNote = false
       window.removeEventListener('scroll', this.hideSnack)
     },

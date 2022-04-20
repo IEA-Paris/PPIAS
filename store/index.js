@@ -25,6 +25,7 @@ export const mutations = {
 
   loadRouteQuery(state, type, rootState) {
     const query = this.app.router.currentRoute.query
+    console.log('query: ', query)
     if (query.search) {
       Vue.set(state[type], 'search', query.search)
     }
@@ -140,7 +141,6 @@ export const mutations = {
     Vue.set(state[type], 'loading', [])
   },
   setStyle(state, style) {
-    console.log('style: ', style)
     Vue.set(state.articles, 'style', style)
   },
 }
@@ -181,8 +181,6 @@ export const actions = {
     await dispatch('update', type)
   },
   async update({ dispatch, commit, state, getters, rootState }, type) {
-    console.log('UPDATE type: ', type)
-    console.log('STORE OFF')
     commit('setLoading', true)
     // TODO re-enable when it works as intended once deployed
     /*     if (
@@ -283,7 +281,6 @@ export const actions = {
       }
       return (+rootState[type].page - 1) * rootState[type].itemsPerPage
     }
-    console.log('skipNumber: ', skipNumber())
     console.log('pipeline: ', pipeline)
     const sortArray =
       rootState[type].view === 'issues'
@@ -295,7 +292,7 @@ export const actions = {
           ]
         : [rootState[type].sortBy[0], rootState[type].sortDesc ? 'desc' : 'asc']
     console.log('sortArray: ', sortArray)
-    let items = await this.$content(type, { deep: true })
+    const items = await this.$content(type, { deep: true })
       .where(pipeline)
       .search(rootState[type].search)
       .sortBy(sortArray[0], sortArray[1])
@@ -344,7 +341,6 @@ export const actions = {
       }),
     }
     const sortObject = (obj) => Object.fromEntries(Object.entries(obj).sort())
-    console.log('query: ', JSON.stringify(query))
 
     Object.keys(query).forEach((key) =>
       query[key] === undefined
@@ -354,8 +350,6 @@ export const actions = {
         ? query[key] === query[key].toString()
         : {}
     )
-    console.log(JSON.stringify(sortObject(query)))
-    console.log(JSON.stringify(sortObject(this.$router.currentRoute.query)))
     console.log(
       'should replace',
       JSON.stringify(sortObject(this.$router.currentRoute.query)) !==
@@ -372,21 +366,20 @@ export const actions = {
     }
 
     // fetch the item categories
-    if (['articles', 'media'].includes(type)) {
+    /*     if (['articles', 'media'].includes(type)) {
       items = await Promise.all(
         await items.map((item) => {
           if (item.issue && item.issue.length) {
-            console.log(item.issue)
             /*           item.issue = await this.$content(
               item.issue.split('/').slice(1).join('/').split('.')[0] // TODO fix (cmon)
             )
               .only(['title', 'color'])
-              .fetch() */
+              .fetch() 
           }
           return item
         })
       )
-    }
+    } */
     /*     const isDesc = rootState[type].sortDesc[0] || defaultSort.value[1]
     const sorter = rootState[type].sortBy[0] || defaultSort.value[0]
     console.log('sorter: ', sorter)

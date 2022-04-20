@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
+    "mock": "yarn build && yarn generate && yarn start",
     "start": "nuxt start",
     "deploy": "nuxt generate; aws s3 sync ./dist/ s3://ppias --delete --exclude '.*';aws cloudfront create-invalidation --distribution-id __invalidation-batch * E20JX3UOOUCLYC",
     "generate": "nuxt generate",

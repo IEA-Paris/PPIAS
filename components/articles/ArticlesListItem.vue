@@ -158,9 +158,7 @@ export default {
     return {}
   },
   computed: {},
-  created() {
-    console.log('item: ', this.item)
-  },
+  created() {},
   methods: {
     highlightWord(word = '', query) {
       return this.$store.state.articles.search

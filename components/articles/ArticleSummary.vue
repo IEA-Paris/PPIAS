@@ -32,9 +32,6 @@
       <div class="mb-6">
         <template v-if="item.abstract && item.abstract.length">
           {{ item.abstract }}
-          <nuxt-link :to="localePath('/articles/' + $route.params.slug)">
-            Read&nbsp;more
-          </nuxt-link>
         </template>
         <template v-else>
           {{ $t('no-abstract-provided-for-this-article') }}

@@ -70,14 +70,6 @@ export default {
       },
     },
     formatted() {
-      console.log(
-        'formatDate(this.selected): ',
-        formatDate(
-          !this.$route.params.id
-            ? this.$store.state.list[this.item]
-            : this.$store.state.form[this.item]
-        )
-      )
       return this.selected
         ? formatDate(
             !this.$route.params.id

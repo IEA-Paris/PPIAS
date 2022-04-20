@@ -116,7 +116,6 @@ export default {
   },
   computed: {},
   async updated() {
-    console.log('UPDATED')
     if (
       this.activeToc &&
       !this.scrolling &&

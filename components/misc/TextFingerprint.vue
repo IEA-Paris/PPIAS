@@ -188,6 +188,7 @@ export default {
 .article-fingerprint {
   transform-box: fill-box;
   transform-origin: center;
+  background-color: black;
 }
 .article-fingerprint.item {
   position: absolute;

@@ -21,15 +21,20 @@
         <!--  Featured articles -->
         <div class="text-h6">{{ $t('featured-articles') }}</div>
         <v-divider></v-divider>
-        <em class="py-4 d-block">Coming soon &hellip;</em>
+        <ArticlesListItemMobile
+          v-for="(article, index) in featuredArticles"
+          v-bind="$attrs"
+          :key="index"
+          :index="index"
+          :item="article"
+          :scroll="$store.state.scrolled"
+        ></ArticlesListItemMobile>
       </v-col>
     </v-row>
   </PageContainer>
 </template>
 <script>
-import LatestIssue from '~/components/issues/LatestIssue.vue'
 export default {
-  components: { LatestIssue },
   props: {},
   async asyncData({ $content, store }) {
     const page = await $content('pages/about').fetch()
@@ -40,17 +45,14 @@ export default {
         .fetch()
     )[0]
     const latestIssueArticles = await $content('articles', { deep: true })
-      .where({ issue: { $regex: latestIssue.path } })
-      .sortBy('date')
+      .where({ issue: { $regex: latestIssue.path }, published: true })
+      .sortBy('date', 'desc')
       .fetch()
-    console.log('latestIssue: ', latestIssue)
-    console.log('latestIssueArticles: ', latestIssueArticles)
     const featuredArticles = await $content('articles', { deep: true })
-      .where({ highlight: true })
-      .sortBy('date')
-      .limit(4)
+      .where({ highlight: true, published: true })
+      .sortBy('date', 'desc')
+      .limit(3)
       .fetch()
-    console.log('featuredArticles: ', featuredArticles)
     store.commit('setLoading', false) /* commit('setItems', {
       items: latestIssueArticles,
       total: latestIssueArticles.length,

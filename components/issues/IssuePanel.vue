@@ -36,7 +36,6 @@ export default {
   },
   async fetch() {
     // TODO rationalize
-    console.log('this.item.slice(14, -3): ', this.item.slice(14, -3))
     this.issue = (
       await this.$content('issues', { deep: true })
         .where({ title: this.item.slice(15, -3) })
