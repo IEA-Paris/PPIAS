@@ -29,20 +29,20 @@ jobs:
         node: [14]
 
     steps:
-      - name:  🛎 Checkout
+      - name: 🛎 Checkout
         uses: actions/checkout@master
 
-      - name: 🏗 Setup node env 
+      - name: 🏗 Setup node env
         uses: actions/setup-node@v2.1.5
         with:
           node-version: ${{ matrix.node }}
           check-latest: true
 
-      - name: 🛠 Get yarn cache directory path 
+      - name: 🛠 Get yarn cache directory path
         id: yarn-cache-dir-path
         run: echo "::set-output name=dir::$(yarn cache dir)"
 
-      - name: 📦 Cache node_modules 
+      - name: 📦 Cache node_modules
         uses: actions/cache@v2.1.4
         id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
         with:
@@ -60,14 +60,14 @@ jobs:
         #- name: Run tests 🧪
         #  run: yarn test
 
-      - name: 🤞 Generate & bundle 
+      - name: 🤞 Generate & bundle
         run: yarn build && yarn generate
         env:
           DEEPL_KEY: ${{ secrets.DEEPL_KEY }}
           ORCID_ID: ${{secrets.ORCID_SANDBOX_ID}}
           ORCID_SANDBOX_SECRET_KEY_ID: ${{secrets.ORCID_SANDBOX_SECRET_KEY_ID}}
 
-      - name: :arrow_heading_up: Retro push generated content 🧙‍♂️ 
+      - name: ⤴️ Retro push generated content 🧙‍♂️
         run: |
           git config --global user.name "CI"
           git config --global user.email "username@users.noreply.github.com"
@@ -77,21 +77,21 @@ jobs:
           echo `git status`
           echo `git push`
 
-      - name: :shushing_face: Setting up AWS credentials
+      - name: 🤫 Setting up AWS credentials
         uses: 'aws-actions/configure-aws-credentials@v1'
         with:
           aws-access-key-id: ${{ env.ENV == 'prod' && secrets.AWS_ACCESS_KEY_ID ||  secrets.AWS_ACCESS_KEY_ID_DEV }}
           aws-secret-access-key: ${{ env.ENV == 'prod' && secrets.AWS_SECRET_ACCESS_KEY || secrets.AWS_SECRET_ACCESS_KEY_DEV }}
           aws-region: ${{ env.AWS_REGION }}
 
-      - name: :shushing_face: Getting cloudfront secrets
-        uses: 'marvinpinto/action-inject-ssm-secrets@latest' 
+      - name: 🤫 Getting cloudfront secrets
+        uses: 'marvinpinto/action-inject-ssm-secrets@latest'
         with:
           ssm_parameter: '/ppias/cloudfront/id'
           env_variable_name: 'ssm_cloudfront_id'
 
-      - name: :shushing_face: Getting S3 secrets
-        uses: :shushing_face: 'marvinpinto/action-inject-ssm-secrets@latest' 
+      - name: 🤫 Getting S3 secrets
+        uses: 'marvinpinto/action-inject-ssm-secrets@latest'
         with:
           ssm_parameter: '/ppias/s3/name'
           env_variable_name: 'ssm_s3_name'
@@ -104,7 +104,7 @@ jobs:
           AWS_S3_BUCKET: ${{ env.SSM_S3_NAME }}
           SOURCE_DIR: 'dist'
 
-      - name: :arrows_clockwise: Invalidate Cloudfront Cache 
+      - name: 🔃 Invalidate Cloudfront Cache
         uses: chetan/invalidate-cloudfront-action@v2
         env:
           DISTRIBUTION: ${{ env.SSM_CLOUDFRONT_ID }}
