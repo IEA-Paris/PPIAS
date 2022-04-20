@@ -74,6 +74,7 @@ jobs:
           git add content
           git add -f static/pdfs
           echo `git commit -m "[skip ci] auto-generated content"`
+          echo `git status`
           echo `git push`
 
       - name: :shushing_face: Setting up AWS credentials
