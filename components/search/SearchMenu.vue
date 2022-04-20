@@ -64,7 +64,7 @@
                     small
                     text
                     nuxt
-                    :to="localePath('/?search=' + searchStringRaw)"
+                    :to="localePath('/articles?search=' + searchStringRaw)"
                     @click="open = false"
                   >
                     {{
