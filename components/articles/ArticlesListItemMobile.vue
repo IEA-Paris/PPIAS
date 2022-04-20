@@ -13,8 +13,8 @@
       v-else
       nuxt
       :to="localePath('/articles/' + item.slug)"
-      class="mb-6 d-flex align-start pl-0"
-      :class="index > 0 ? '' : ''"
+      class="d-flex align-start pl-0"
+      :class="(index > 0 ? '' : '', { 'mt-5': $vuetify.breakpoint.smAndDown })"
       flat
     >
       <v-list-item-avatar
@@ -23,7 +23,8 @@
         "
         x-large
         tile
-        min-width="25%"
+        :min-width="$vuetify.breakpoint.lgAndUp ? '15%' : '20%'"
+        :max-width="$vuetify.breakpoint.lgAndUp ? '10%' : '20%'"
         height="100%"
       >
         <YoutubeThumbnail v-if="item.yt && item.yt.length" :item="item">

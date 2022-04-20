@@ -1,37 +1,44 @@
 <template>
-  <PageContainer>
-    <v-row justify="center">
-      <v-col cols="12" md="8" lg="6" xl="5">
-        <div
-          class="main-title"
-          :class="$store.state.scrolled ? 'mb-9' : 'mb-6'"
-          v-html="$config.full_name"
-        ></div>
-        <nuxt-content :document="page" />
-      </v-col>
-    </v-row>
+  <v-container
+    class="transition-swing"
+    :fluid="!$store.state.scrolled"
+    :class="{ 'py-0': !$store.state.scrolled }"
+  >
+    <v-row class="transition-swing">
+      <v-col class="transition-swing" cols="12">
+        <v-row justify="center">
+          <v-col cols="12" md="8" lg="6" xl="5">
+            <div
+              class="main-title"
+              :class="$store.state.scrolled ? 'mb-9' : 'mb-6'"
+              v-html="$config.full_name"
+            ></div>
+            <nuxt-content :document="page" />
+          </v-col>
+        </v-row>
 
-    <LatestIssue
-      :issue="latestIssue"
-      :articles="latestIssueArticles"
-    ></LatestIssue>
+        <LatestIssue
+          :issue="latestIssue"
+          :articles="latestIssueArticles"
+        ></LatestIssue>
 
-    <v-row justify="center">
-      <v-col cols="12" md="8" lg="6" xl="5">
-        <!--  Featured articles -->
-        <div class="text-h6">{{ $t('featured-articles') }}</div>
-        <v-divider></v-divider>
-        <ArticlesListItemMobile
-          v-for="(article, index) in featuredArticles"
-          v-bind="$attrs"
-          :key="index"
-          :index="index"
-          :item="article"
-          :scroll="$store.state.scrolled"
-        ></ArticlesListItemMobile>
-      </v-col>
-    </v-row>
-  </PageContainer>
+        <v-row justify="center">
+          <v-col cols="12" md="8" lg="6" xl="5">
+            <!--  Featured articles -->
+            <div class="text-h6">{{ $t('featured-articles') }}</div>
+            <v-divider></v-divider>
+            <ArticlesListItemMobile
+              v-for="(article, index) in featuredArticles"
+              v-bind="$attrs"
+              :key="index"
+              :index="index"
+              :item="article"
+              :scroll="$store.state.scrolled"
+            ></ArticlesListItemMobile>
+          </v-col>
+        </v-row> </v-col
+    ></v-row>
+  </v-container>
 </template>
 <script>
 export default {

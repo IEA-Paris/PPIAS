@@ -93,9 +93,7 @@
   >
 </template>
 <script>
-import ArticleSearchItem from '~/components/search/item/ArticleSearchItem.vue'
 export default {
-  components: { ArticleSearchItem },
   props: {},
   async asyncData({ $content, params }) {
     const item = (

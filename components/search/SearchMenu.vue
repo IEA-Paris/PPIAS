@@ -64,8 +64,7 @@
                     small
                     text
                     nuxt
-                    :to="localePath('/articles?search=' + searchStringRaw)"
-                    @click="open = false"
+                    @click="seeAll('articles')"
                   >
                     {{
                       $t('see-all-results-articlescount', [
@@ -98,8 +97,7 @@
                     small
                     text
                     nuxt
-                    :to="localePath('/media?search=' + searchStringRaw)"
-                    @click="open = false"
+                    @click="seeAll('media')"
                   >
                     {{
                       $t('see-all-results-articlescount', [results.mediaCount])
@@ -130,8 +128,7 @@
                     small
                     text
                     nuxt
-                    :to="localePath('/authors?search=' + searchStringRaw)"
-                    @click="open = false"
+                    @click="seeAll('authors')"
                   >
                     {{
                       $t('see-all-results-articlescount', [
@@ -223,6 +220,17 @@ export default {
     this.focusSearch()
   },
   methods: {
+    seeAll(name) {
+      this.open = false
+      this.$router.go(
+        this.localePath({
+          name,
+          query: {
+            search: this.searchStringRaw,
+          },
+        })
+      )
+    },
     focusSearch() {
       // Focus the component, but we have to wait
       // so that it will be showing first.
