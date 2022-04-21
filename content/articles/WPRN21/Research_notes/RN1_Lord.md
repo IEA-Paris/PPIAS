@@ -40,7 +40,7 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: "/documents-exportes_rn1.bib"
+bibliography: "/documents-exportes_rn1bib.bib"
 
 ---
 In April of 2020, my co-author and I did what I assume most sane people also did while subject to stay-at-home orders: we wrote a full-length law review article on government responses to the COVID-19 pandemic (@lord_tackling_2020). We drew from constantly changing, sometimes obscure, government websites. Programs were revised as quickly as they were announced and rolled out. We wrote our initial draft in just under two weeks, and we had to revise significant portions of it almost immediately, and subsequently when we received feedback from peer reviewers. Although we aggressively disseminated our draft on research repositories, the final, paginated version was only printed a full year later.
