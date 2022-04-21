@@ -1,93 +1,92 @@
 ---
 issue: content/issues/WPRN21.md
 keywords:
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Migrations and Diasporas '
-  - 'Culture and The Arts '
-  - Digital Humanities
-  - Human Behaviours, Social Relations
-  - 'Dataset, Data Mining '
-  - 'Quantitative survey '
-  - 'Policy Document '
+- 'Public Discourse, Rhetorics, Communication '
+- 'Migrations and Diasporas '
+- 'Culture and The Arts '
+- Digital Humanities
+- Human Behaviours, Social Relations
+- 'Dataset, Data Mining '
+- 'Quantitative survey '
+- 'Policy Document '
 date: 2021-12-09T10:30:42.000+00:00
 language: English
 published: false
 article_title: News and Media Coverage - Q&A session
 authors:
-  - lastname: 'Caporali '
-    firstname: Arianna
-    titles_and_institutions:
-      - titles: []
-        institution: Institut national d'études démographiques (INED), France
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: ' Muneo '
-    lastname: Kaigo
-    titles_and_institutions:
-      - titles: []
-        institution: University of Tsukuba, Japan
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: Concetta
-    lastname: Papapicco
-    titles_and_institutions:
-      - titles: []
-        institution: University of Bari "Aldo Moro", Italy
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: ' Angeliki'
-    lastname: Monnier
-    titles_and_institutions:
-      - titles: []
-        institution: Université de Lorraine, Crem, France
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-abstract:
-  Perhaps the most immediate and intimate way people around the globe have
+- lastname: 'Caporali '
+  firstname: Arianna
+  titles_and_institutions:
+  - titles: []
+    institution: Institut national d'études démographiques (INED), France
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- firstname: " Muneo "
+  lastname: Kaigo
+  titles_and_institutions:
+  - titles: []
+    institution: University of Tsukuba, Japan
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- firstname: Concetta
+  lastname: Papapicco
+  titles_and_institutions:
+  - titles: []
+    institution: University of Bari "Aldo Moro", Italy
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- firstname: " Angeliki"
+  lastname: Monnier
+  titles_and_institutions:
+  - titles: []
+    institution: Université de Lorraine, Crem, France
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+abstract: Perhaps the most immediate and intimate way people around the globe have
   been ‘in touch’ with the Covid-19 Pandemic has been through the media. While life
   almost came to a standstill outside of our homes when one country after the other
   entered into lockdown, the pace of media reporting and discussions on the internet
@@ -108,9 +107,9 @@ picture: ''
 picture_copyright: ''
 yt: YQ3cIqOOn_g
 highlight: false
-bibliography: '/documents-exportes_q-a1bib.bib'
----
+bibliography: "/documents-exportes_q-a1bib.bib"
 
+---
 This Q&A session on the theme "News and Media coverage" during WPRN 21 conference in Paris on December 9th 2021 is based on 4 projects registered in the WPRN database.
 
 <Youtube yt="YQ3cIqOOn_g" caption ="Q&A session News & Media Coverage"></Youtube>
@@ -127,7 +126,7 @@ The spreading of new Coronavirus in addition to becoming a global phenomenon, fo
 
 <Youtube yt="CfKbrSymTLI" caption ="Informative Contagion: The Coronavirus in Italian journalism_WPRN-469352 Project"></Youtube>
 
-### 3. Topic modelling of COVID-19 Content in Japanese newspaper and Twitter -January to April 2020
+### 3. [Topic modelling of COVID-19 Content in Japanese newspaper and Twitter -January to April 2020](https://wprn.org/item/439952)
 
 The purpose of this study is to examine how content about the global coronavirus (COVID-19) outbreak changed in the Japanese information environment through a comparison of the topics that were prevalent in traditional media and social media. The paper investigated how the topics of information regarding the novel coronavirus (COVID-19) in newspapers and Twitter differed, how the topics in relation to COVID-19 of newspapers and Twitter users changed before and after the WHO pandemic declaration, with the assumptions that topics that are relevant to the central government of Japan are more often found in newspapers, rather than Twitter and topics that are relevant to Japanese families and individuals are more often found in Twitter, rather than newspapers. A total of 10953 newspaper articles and 171,996 tweets before and after the pandemic declaration by the WHO.
 
