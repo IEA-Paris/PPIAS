@@ -9,7 +9,7 @@ keywords:
 date: 2022-03-24T15:10:20.000+00:00
 language: English
 disciplines: ''
-published: false
+published: true
 article_title: 'Tackling the COVID-19 pandemic : Lessons learned and paths forward'
 authors:
 - firstname: 'Phil '
