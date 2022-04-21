@@ -38,7 +38,7 @@ export default {
     // TODO rationalize
     this.issue = (
       await this.$content('issues', { deep: true })
-        .where({ title: this.item.slice(15, -3) })
+        .where({ slug: this.item.slice(15, -3) })
         .fetch()
     )[0]
 
@@ -54,7 +54,7 @@ export default {
     // 192.168.0.50:3000/articles?filters=%257B%25issue%2522%253A%255B%2522WPRN21%2522%255D%257D
     this.path = `${this.localePath(
       '/articles'
-    )}?view=issues&filters={"issue"%3A["${this.issue.title}"]}`
+    )}?view=issues&filters={"issue"%3A["${this.issue.slug}"]}`
   },
   computed: {},
   mounted() {

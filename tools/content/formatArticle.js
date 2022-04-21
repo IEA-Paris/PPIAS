@@ -125,7 +125,9 @@ export default (document, database) => {
           if (!document.media.find((item) => item.id === child.props.yt))
             document.media.push({
               type: 'youtube',
-              index: document.media.length - (document.yt ? 1 : 0),
+              index:
+                document.media.length -
+                (document.yt && document.yt !== child.props.yt ? 0 : 1),
               caption: child.props.caption,
             })
         }
@@ -160,8 +162,11 @@ export default (document, database) => {
                       class: '',
                       id:
                         'youtube_' +
-                        (document.media.length - (document.yt ? 1 : 0)),
-                      // TODO addd vuetify goTo instead of link
+                        (document.media.length -
+                          (document.yt && document.yt !== child.props.yt
+                            ? 0
+                            : 1)),
+                      // TODO addd vuetify goTo instead of link?
                     },
                     children: [{ type: 'text', value: ' ' }],
                   },

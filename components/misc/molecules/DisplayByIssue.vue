@@ -14,9 +14,18 @@
       :no-gutters="!$store.state.scrolled"
       :class="$store.state.scrolled ? '' : 'mx-3'"
     >
-      <v-col cols="12" class="text-h5">
-        {{ issue }}
-        <div class="text-overline text-muted">some random date</div>
+      <v-col cols="12" class="mt-6">
+        <div class="d-flex">
+          <div class="issue-label">
+            {{ issue }}
+          </div>
+          <v-spacer></v-spacer>
+          <v-btn text :to="path">{{
+            $t('see-all-results-articlescount', [
+              getItemsPerIssue(issue).length,
+            ])
+          }}</v-btn>
+        </div>
         <v-divider></v-divider>
       </v-col>
       <v-col
@@ -96,6 +105,13 @@ export default {
 <style lang="scss">
 .h500 {
   max-height: 500;
+}
+.issue-label {
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 2.5rem;
+  letter-spacing: initial;
+  font-family: 'Bodoni Moda', sans-serif !important;
 }
 </style>
 ,

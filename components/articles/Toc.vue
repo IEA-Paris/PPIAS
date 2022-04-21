@@ -116,19 +116,23 @@ export default {
   },
   computed: {},
   async updated() {
-    if (
-      this.activeToc &&
-      !this.scrolling &&
-      !this.intersected['toc_' + this.activeToc]
-    ) {
-      const currentRef = '#toc_' + this.activeToc
-      this.scrolling = true
-      await this.$vuetify.goTo(currentRef, {
-        container: '#toc',
-        offset: 100,
-        easing: 'easeInOutQuint',
-      })
-      this.scrolling = false
+    try {
+      if (
+        this.activeToc &&
+        !this.scrolling &&
+        !this.intersected['toc_' + this.activeToc]
+      ) {
+        const currentRef = '#toc_' + this.activeToc
+        this.scrolling = true
+        await this.$vuetify.goTo(currentRef, {
+          container: '#toc',
+          offset: 100,
+          easing: 'easeInOutQuint',
+        })
+        this.scrolling = false
+      }
+    } catch (error) {
+      console.log('error: ', error)
     }
   },
   mounted() {},

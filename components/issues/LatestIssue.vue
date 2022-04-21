@@ -1,6 +1,6 @@
 <template>
   <v-row justify="center">
-    <v-col cols="12" md="8" lg="6" xl="5">
+    <v-col cols="12" md="8" lg="6" xl="6">
       <!--   Latest issue -->
       <div class="text-h6 grey--text text--darken-2">
         {{ $t('latest-issue') }}

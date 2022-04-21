@@ -7,10 +7,10 @@
     <v-row class="transition-swing">
       <v-col class="transition-swing" cols="12">
         <v-row justify="center">
-          <v-col cols="12" md="8" lg="6" xl="5">
+          <v-col cols="12" md="8" lg="6" xl="6">
             <div
               class="main-title"
-              :class="$store.state.scrolled ? 'mb-9' : 'mb-6'"
+              :class="$store.state.scrolled ? 'mb-16' : 'mb-8'"
               v-html="$config.full_name"
             ></div>
             <nuxt-content :document="page" />
@@ -23,7 +23,7 @@
         ></LatestIssue>
 
         <v-row justify="center">
-          <v-col cols="12" md="8" lg="6" xl="5">
+          <v-col cols="12" md="8" lg="6" xl="6">
             <!--  Featured articles -->
             <div class="text-h6">{{ $t('featured-articles') }}</div>
             <v-divider></v-divider>
