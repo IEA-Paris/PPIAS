@@ -49,41 +49,43 @@
           <v-row justify="center">
             <v-col cols="12" sm="10" md="8" lg="7" xl="6">
               <div v-if="item">
-                <PageTitle
-                  :text="item.firstname + ' ' + item.lastname"
-                  class="pa-6"
-                >
-                  <template v-if="socials.length">
-                    <AuthorSocials :socials="socials"></AuthorSocials>
-                  </template>
-                </PageTitle>
+                <div class="d-flex align-center flex-column">
+                  <div class="overline">Issue</div>
+                  <v-divider></v-divider>
+                  <div
+                    class="page-title"
+                    :class="$store.state.scrolled ? 'mb-9' : 'mb-6'"
+                  >
+                    {{ item.title }}
+                  </div>
+                  <!--     <v-divider style="width: 120px"></v-divider>
+    <v-divider style="width: 120px" class="mt-1"></v-divider> -->
+                </div>
                 <v-card-text>
-                  <nuxt-content :document="item" style="max-width: 650px" />
-                  <AuthorTitles
-                    v-if="
-                      item.titles_and_institutions &&
-                      item.titles_and_institutions.length
-                    "
-                    width="650"
-                    :item="item"
-                    class="justify-self-start"
-                  ></AuthorTitles>
+                  <nuxt-content
+                    v-if="item.body.children && item.body.children.length"
+                    :document="item"
+                    style="max-width: 650px"
+                  />
+                  <div v-else>
+                    {{ $t('no-editorial-available-for-this-issue') }}
+                  </div>
                   <template v-if="articles.length">
                     <div class="text-h5 my-6">
-                      {{ $t('articles-from-this-author') }}
+                      {{ $t('articles-from-this-issue') }}
                     </div>
-                    <ArticleSearchItem
+                    <ArticlesListItemMobile
                       v-for="(article, index) in articles"
                       :key="index"
                       :index="index"
                       :item="article"
                       :scroll="$store.state.scrolled"
-                    ></ArticleSearchItem>
+                    ></ArticlesListItemMobile>
                   </template>
                 </v-card-text>
               </div>
               <div v-else>
-                {{ $t('author-unavailable') }}
+                {{ $t('no-article-found-in-this-issue') }}
               </div>
             </v-col>
           </v-row>
@@ -95,21 +97,22 @@
 <script>
 export default {
   props: {},
-  async asyncData({ $content, params }) {
+  async asyncData({ $content, params, store }) {
     const item = (
-      await $content('authors', { deep: true })
+      await $content('issues', { deep: true })
         .where({
           slug: params.slug,
         })
         .fetch()
     )[0]
-    const articles = item?.articles?.length
-      ? await $content('articles', { deep: true })
-          .where({
-            slug: { $in: item.articles },
-          })
-          .fetch()
-      : []
+    console.log(' item.path ', 'content' + item.path + '.md')
+    const articles = await $content('articles', { deep: true })
+      .where({
+        issue: { $eq: 'content' + item.path + '.md' },
+        published: true,
+      })
+      .fetch()
+    store.commit('setLoading', false)
 
     return {
       item,

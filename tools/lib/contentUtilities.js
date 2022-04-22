@@ -109,7 +109,7 @@ export const mergeDeep = (...objects) => {
           prev[key].trim() !== oVal.trim()
         ) {
           prev[key] = pVal.trim() // just to cleanup the existing string from spaces
-
+          // TODO write it in a file somewhere to use it in CMS
           console.log(`CONFLICTED INFO: ${prev[key]} VS ${oVal} in ${key}`)
         } else if (typeof prev[key] === 'string') prev[key] = prev[key].trim()
 
@@ -239,6 +239,7 @@ export const insertReferences = (node, biblio) => {
           (item) => item.id === element.toLowerCase().substring(1)
         )
         if (!ref) {
+          // TODO write it in a file somewhere to use it in CMS
           console.log('REFERENCE NOT FOUND IN BIB FILE: ', element)
           continue
         }

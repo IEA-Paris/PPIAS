@@ -508,5 +508,10 @@
   "apa": "APA",
   "vancouver": "Vancouver",
   "harvard1": "Harvard",
-  "resetting-the-filters-and-hellip": "Resetting the filters &hellip"
+  "resetting-the-filters-and-hellip": "Resetting the filters &hellip",
+  "articles-from-this-issue": "Articles from this issue",
+  "no-article-found-in-this-issue": "No article found in this issue",
+  "see-the-complete-issue": "See the complete issue",
+  "no-editorial-available-for-this-issue": "No editorial available for this issue",
+  "show-the-table-of-content": "Show the table of content"
 }

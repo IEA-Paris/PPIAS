@@ -47,7 +47,7 @@
             </v-tooltip>
           </div>
           <v-row justify="center">
-            <v-col cols="12" sm="10" md="8" lg="7" xl="6">
+            <v-col cols="12" sm="10" md="8" lg="7">
               <div v-if="item">
                 <PageTitle
                   :text="item.firstname + ' ' + item.lastname"
@@ -58,7 +58,7 @@
                   </template>
                 </PageTitle>
                 <v-card-text>
-                  <nuxt-content :document="item" style="max-width: 650px" />
+                  <nuxt-content :document="item" />
                   <AuthorTitles
                     v-if="
                       item.titles_and_institutions &&

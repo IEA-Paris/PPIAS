@@ -16,6 +16,7 @@
         class="pb-0 toc-item"
         :class="link.depth === 2 && index > 0 ? ' mt-6' : ''"
         :color="link.id === activeToc ? 'primary' : 'grey'"
+        @click="$emit('clickItem')"
       >
         <!--   TODO add space -->
         <a
@@ -23,7 +24,7 @@
           v-intersect="onIntersect"
           class="text-overline py-1"
           :class="[
-            link.id === activeToc ? '' : 'text--secondary',
+            link.id === activeToc ? '' : 'grey--text',
             link.depth === 2 ? ' font-weight-bold' : ' font-weight-regular',
             { 'font-italic': link.isMedia },
           ]"
@@ -32,11 +33,13 @@
           :to="`#${link.id}`"
           @click="
             $vuetify.goTo('#' + link.id, { offset: 100 }) &&
-              $router.replace({ hash: '#' + link.id })
+              $router.replace({ hash: '#' + link.id }) &&
+              $emit('clickItem')
           "
           @keyup.enter="
             $vuetify.goTo('#' + link.id, { offset: 100 }) &&
-              $router.replace({ hash: '#' + link.id })
+              $router.replace({ hash: '#' + link.id }) &&
+              $emit('clickItem')
           "
         >
           {{ link.text }}
@@ -46,11 +49,13 @@
             style="cursor: pointer"
             @click="
               $vuetify.goTo('#' + link.id, { offset: 100 }) &&
-                $router.replace({ hash: '#' + link.id })
+                $router.replace({ hash: '#' + link.id }) &&
+                $emit('clickItem')
             "
             @keyup.enter="
               $vuetify.goTo('#' + link.id, { offset: 100 }) &&
-                $router.replace({ hash: '#' + link.id })
+                $router.replace({ hash: '#' + link.id }) &&
+                $emit('clickItem')
             "
           >
             <v-icon v-if="link.isMedia" color="white" x-small>mdi-play</v-icon>
@@ -143,7 +148,8 @@ export default {
   },
 }
 </script>
-<style>
+<style lang="scss">
+@import '~vuetify/src/styles/settings/_variables';
 /* .container {
   display: flex;
   justify-content: space-around;
@@ -206,6 +212,19 @@ aside.toc {
 .v-timeline-item {
   display: flex;
   align-items: center;
+}
+@media #{map-get($display-breakpoints, 'xs-only')} {
+  aside.toc {
+    margin-left: 0;
+    padding-right: 15px;
+  }
+
+  .toc-item:hover .v-timeline-item__body a {
+    color: white !important;
+  }
+  .toc-item:hover .v-timeline-item__inner-dot {
+    background-color: white !important;
+  }
 }
 @supports (scroll-snap-type: y mandatory) {
   aside.toc {

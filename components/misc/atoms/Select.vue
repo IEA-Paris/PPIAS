@@ -1,5 +1,11 @@
 <template>
-  <v-select v-model="selected" v-bind="$attrs" multiple menu-props="offset-y">
+  <v-select
+    v-bind="$attrs"
+    :ref="type + filter"
+    v-model="selected"
+    v-scroll="blur"
+    menu-props="offset-y"
+  >
     <template #selection="{ item, index }">
       <SelectionSlot
         :label="false"
@@ -41,9 +47,14 @@ export default {
       },
     },
   },
-
   created() {},
   beforeCreate() {},
+  methods: {
+    blur() {
+      console.log('BLUR')
+      this.$refs[this.type + this.filter].blur()
+    },
+  },
 }
 </script>
 <style scoped></style>

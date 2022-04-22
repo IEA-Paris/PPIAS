@@ -132,6 +132,13 @@ export default {
 }
 </script>
 <style lang="scss">
+@import '~vuetify/src/styles/settings/_variables';
+
+@media #{map-get($display-breakpoints, 'xs-only')} {
+  .article-panel .v-expansion-panel-content__wrap {
+    padding-left: 0;
+  }
+}
 .note-snack .v-snack__content {
   padding-right: 0;
 }

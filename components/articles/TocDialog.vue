@@ -14,19 +14,10 @@
             class="mobile-filter-btn"
             v-on="{ ...tooltip, ...menu }"
           >
-            <v-badge
-              bordered
-              :content="filtersCount.toString()"
-              bottom
-              overlap
-              tile
-              color="black"
-            >
-              <v-icon>mdi-filter</v-icon></v-badge
-            >
+            <v-icon>mdi-format-list-group</v-icon>
           </v-btn>
         </template>
-        <span>{{ $t('show-filters') }}</span>
+        <span>{{ $t('show-the-table-of-content') }}</span>
       </v-tooltip>
     </template>
     <v-card dark color="rgba(0, 0, 0, 0.97)">
@@ -54,32 +45,20 @@
           </div>
         </div>
       </v-app-bar>
-      <v-container fill-height>
-        <v-row align="center" justify="center">
-          <v-col
-            cols="12"
-            md="9"
-            lg="6"
-            class="d-flex justify-center flex-column"
-          >
-            <Filters
-              :type="type"
-              class="mt-7 mr-6 ml-0"
-              @close="open = false"
-            />
-
-            <v-btn
-              x-large
-              tile
-              outlined
-              class="mr-1 mt-1"
-              @click="open = false"
-            >
-              {{ $t('view-results') }}
-            </v-btn>
-          </v-col>
-        </v-row>
-      </v-container>
+      <v-row align="center" justify="center">
+        <v-col cols="12" md="9" lg="6" class="">
+          <Toc
+            v-if="item.toc.length"
+            max-width="100%"
+            :toc="item.toc"
+            :active-toc="currentlyActiveToc"
+            :title="title ? false : item.article_title"
+            :custom-pdf="item.custom_pdf"
+            @close="open = false"
+            @clickItem="open = false"
+          />
+        </v-col>
+      </v-row>
     </v-card>
   </v-dialog>
 </template>
@@ -90,6 +69,30 @@ export default {
       type: String,
       required: false,
       default: 'articles',
+    },
+    currentlyActiveToc: {
+      type: String,
+      required: false,
+      default: 'articles',
+    },
+    item: {
+      type: Object,
+      default: () => {},
+    },
+    toc: {
+      type: Array,
+      required: true,
+      default: () => [],
+    },
+    title: {
+      type: [Boolean, String],
+      required: false,
+      default: false,
+    },
+    customPdf: {
+      type: [Boolean, String],
+      required: true,
+      default: '',
     },
   },
   data() {

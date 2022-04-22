@@ -1,6 +1,10 @@
 <template>
   <v-row class="transition-swing flex-row-reverse">
-    <v-col cols="12" class="transition-swing pa-12">
+    <v-col
+      cols="12"
+      class="transition-swing"
+      :class="$vuetify.breakpoint.xs ? ' pa-2' : 'pa-12'"
+    >
       <CiteModal :item="item" text></CiteModal>
 
       <DoiBadge :doi="item.doi"></DoiBadge>

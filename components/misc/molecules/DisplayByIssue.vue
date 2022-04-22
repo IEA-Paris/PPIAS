@@ -20,11 +20,9 @@
             {{ issue }}
           </div>
           <v-spacer></v-spacer>
-          <v-btn text :to="path">{{
-            $t('see-all-results-articlescount', [
-              getItemsPerIssue(issue).length,
-            ])
-          }}</v-btn>
+          <v-btn text :to="localePath('/issue/' + issue)">
+            {{ $t('see-the-complete-issue') }}
+          </v-btn>
         </div>
         <v-divider></v-divider>
       </v-col>

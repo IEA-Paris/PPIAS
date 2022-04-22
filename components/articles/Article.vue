@@ -1,9 +1,18 @@
 <template>
   <v-row
     class="transition-swing flex-row-reverse justify-center"
-    :no-gutters="!toc"
+    :no-gutters="!toc || $vuetify.breakpoint.xs"
   >
-    <TocDialog v-if="$vuetify.breakpoint.xs" v-model="toc" />
+    <TocDialog
+      v-if="item.toc.length"
+      v-model="toc"
+      :item="item"
+      :currently-active-toc="currentlyActiveToc"
+      :toc="item.toc"
+      :title="title ? false : item.article_title"
+      :custom-pdf="item.custom_pdf"
+      @close="toc = false"
+    />
     <v-col
       :cols="
         item.toc && item.toc.length && toc && $vuetify.breakpoint.mdAndUp
@@ -16,7 +25,7 @@
         :id="(item.anchor && item.anchor.toLowerCase()) || item.post_title"
         flat
         v-bind="$attrs"
-        class="mx-6"
+        :class="$vuetify.breakpoint.smAndUp ? 'mx-6' : 'mx-0'"
       >
         <div class="article sidebtn">
           <div
@@ -64,6 +73,7 @@
         <v-card-text
           :class="toc ? 'align-start' : 'align-center'"
           class="d-flex flex-column"
+          :flat="$vuetify.breakpoint.xs"
         >
           <div
             v-if="item.abstract && item.abstract.length"
@@ -104,7 +114,11 @@
             v-if="item.bibliography && item.bibliography.length"
             class="bibliography-panel"
           >
-            <div id="bibliography" class="text-h4 mt-3 ml-3 d-flex">
+            <div
+              id="bibliography"
+              class="text-h4 mt-3 d-flex"
+              :class="$vuetify.breakpoint.xs ? 'ml-0' : 'ml-3'"
+            >
               {{ $t('bibliography') }}
               <v-spacer></v-spacer>
               <BibliographyStyleMenu></BibliographyStyleMenu>
@@ -222,6 +236,8 @@ export default {
 }
 </script>
 <style lang="scss">
+@import '~vuetify/src/styles/settings/_variables';
+
 .youtube {
   width: 100%;
 }
@@ -277,5 +293,15 @@ export default {
   max-width: 650px;
   margin-left: 0.9em;
 }
+@media #{map-get($display-breakpoints, 'xs-only')} {
+  .node.d-flex a {
+    display: none;
+  }
+  .bibliography-panel,
+  .abstract-panel {
+    margin-left: 0;
+  }
+}
+
 // nuxt content styles
 </style>
