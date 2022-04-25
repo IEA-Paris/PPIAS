@@ -23,7 +23,7 @@ authors:
   social_channels:
     website: ''
     wikipedia: ''
-    orcid_id: ''
+    orcid_id: 0000-0002-1542-7619
     linkedin: ''
     twitter: ''
     instagram: ''
