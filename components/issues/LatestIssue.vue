@@ -19,7 +19,7 @@
       <!--eslint-disable-next-line vue/no-parsing-error eslint-disable-next-line vue/attribute-hyphenation-->
       <div class="d-flex">
         <v-spacer></v-spacer>
-        <v-btn text :to="localePath('/issue/' + issue)">{{
+        <v-btn text :to="localePath('/issue/' + issue.slug)">{{
           $t('see-all-results-articlescount', [articles.length])
         }}</v-btn>
       </div>

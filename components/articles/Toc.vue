@@ -16,7 +16,6 @@
         class="pb-0 toc-item"
         :class="link.depth === 2 && index > 0 ? ' mt-6' : ''"
         :color="link.id === activeToc ? 'primary' : 'grey'"
-        @click="$emit('clickItem')"
       >
         <!--   TODO add space -->
         <a
@@ -31,32 +30,16 @@
           :color="link.id === activeToc ? 'primary' : 'grey'"
           nuxt
           :to="`#${link.id}`"
-          @click="
-            $vuetify.goTo('#' + link.id, { offset: 100 }) &&
-              $router.replace({ hash: '#' + link.id }) &&
-              $emit('clickItem')
-          "
-          @keyup.enter="
-            $vuetify.goTo('#' + link.id, { offset: 100 }) &&
-              $router.replace({ hash: '#' + link.id }) &&
-              $emit('clickItem')
-          "
+          @click="moveTo(link.id)"
+          @keyup.enter="moveTo(link.id)"
         >
           {{ link.text }}
         </a>
         <template #icon>
           <v-avatar
             style="cursor: pointer"
-            @click="
-              $vuetify.goTo('#' + link.id, { offset: 100 }) &&
-                $router.replace({ hash: '#' + link.id }) &&
-                $emit('clickItem')
-            "
-            @keyup.enter="
-              $vuetify.goTo('#' + link.id, { offset: 100 }) &&
-                $router.replace({ hash: '#' + link.id }) &&
-                $emit('clickItem')
-            "
+            @click="moveTo(link.id)"
+            @keyup.enter="moveTo(link.id)"
           >
             <v-icon v-if="link.isMedia" color="white" x-small>mdi-play</v-icon>
             <!--   <v-icon  :small="link.depth !== 2">mdi-pencil</v-icon> -->
@@ -144,6 +127,13 @@ export default {
   methods: {
     onIntersect(entries, observer) {
       this.intersected[entries[0].target.id] = entries[0].isIntersecting
+    },
+    moveTo(selector) {
+      this.$nextTick(() => {
+        this.$vuetify.goTo('#' + selector, { offset: 100 })
+        this.$router.replace({ hash: '#' + selector })
+        this.$emit('clickItem')
+      })
     },
   },
 }

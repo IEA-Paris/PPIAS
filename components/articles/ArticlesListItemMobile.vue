@@ -23,8 +23,7 @@
         "
         x-large
         tile
-        :min-width="$vuetify.breakpoint.lgAndUp ? '15%' : '20%'"
-        :max-width="$vuetify.breakpoint.lgAndUp ? '10%' : '20%'"
+        :min-width="$vuetify.breakpoint.lgAndUp ? '20%' : '20%'"
         height="100%"
       >
         <YoutubeThumbnail v-if="item.yt && item.yt.length" :item="item">

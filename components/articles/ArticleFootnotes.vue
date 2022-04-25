@@ -1,5 +1,5 @@
 <template>
-  <v-list two-line>
+  <v-list two-line max-width="650px">
     <v-list-item
       v-for="(footnote, index) in item.footnotes"
       :key="index"

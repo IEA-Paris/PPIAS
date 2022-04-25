@@ -1,10 +1,10 @@
 <template>
   <v-row
     class="transition-swing flex-row-reverse justify-center"
-    :no-gutters="!toc || $vuetify.breakpoint.xs"
+    :no-gutters="!toc || $vuetify.breakpoint.smAndDown"
   >
     <TocDialog
-      v-if="item.toc.length"
+      v-if="item.toc.length && $vuetify.breakpoint.smAndDown"
       v-model="toc"
       :item="item"
       :currently-active-toc="currentlyActiveToc"
@@ -33,7 +33,7 @@
             :class="title ? '' : 'shadow'"
           >
             <v-tooltip
-              v-if="item.toc && item.toc.length && $vuetify.breakpoint.smAndUp"
+              v-if="item.toc && item.toc.length && $vuetify.breakpoint.mdAndUp"
               bottom
             >
               <template #activator="{ on, attrs }">

@@ -50,7 +50,7 @@
             <v-col cols="12" sm="10" md="8" lg="7" xl="6">
               <div v-if="item">
                 <div class="d-flex align-center flex-column">
-                  <div class="overline">Issue</div>
+                  <div class="overline">{{ $t('issue') }}</div>
                   <v-divider></v-divider>
                   <div
                     class="page-title"
@@ -58,6 +58,19 @@
                   >
                     {{ item.title }}
                   </div>
+                  <div class="overline mb-6">
+                    {{
+                      $t('publication-date-0', [
+                        new Date(item.date).toLocaleDateString('en-GB', {
+                          // you can use undefined as first argument
+                          year: 'numeric',
+                          month: '2-digit',
+                          day: '2-digit',
+                        }),
+                      ])
+                    }}
+                  </div>
+
                   <!--     <v-divider style="width: 120px"></v-divider>
     <v-divider style="width: 120px" class="mt-1"></v-divider> -->
                 </div>

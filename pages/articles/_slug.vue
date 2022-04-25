@@ -54,7 +54,7 @@
 <script>
 export default {
   beforeRouteUpdate(to, from, next) {
-    /*  console.log('to.hash: ', to.hash) */
+    console.log('to.hash: ', to.hash)
     if (to.hash && to.hash.startsWith('#fn-')) {
       this.footnote = true
       this.note = this.item[0]?.footnotes[+to.hash.substring(4) - 1].value

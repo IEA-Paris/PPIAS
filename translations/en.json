@@ -513,5 +513,6 @@
   "no-article-found-in-this-issue": "No article found in this issue",
   "see-the-complete-issue": "See the complete issue",
   "no-editorial-available-for-this-issue": "No editorial available for this issue",
-  "show-the-table-of-content": "Show the table of content"
+  "show-the-table-of-content": "Show the table of content",
+  "publication-date-0": "Publication date: {0}"
 }
