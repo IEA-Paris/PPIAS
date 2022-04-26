@@ -8,4 +8,4 @@ The research projects carried out at the Institute, beyond their international a
 
 Each year, the Institute's residents and partner institutions organize about a hundred colloquia and conferences on its premises, on fundamental research topics or in response to major societal problems.
 
-These Proceedings of the Paris Institute for Advanced Study (PIAS) present the colloquia and conference cycles in the form of selective publications, often accompanied by videos or podcasts of the meetings.
+These Proceedings of the Paris Institute for Advanced Study (Paris IAS) present the colloquia and conference cycles in the form of selective publications, often accompanied by videos or podcasts of the meetings.
