@@ -14,7 +14,7 @@ article_title: 'Dissatisfaction and alternative information in the early stages 
   the Covid-19 pandemic: Comparing contents in Japanese newspapers with Twitter'
 authors:
 - firstname: Muneo
-  lastname: KAIGO
+  lastname: Kaigo
   titles_and_institutions:
   - titles: []
     institution: Faculty of Humanities and Social Sciences, University of Tsukuba,
@@ -33,7 +33,7 @@ authors:
     mendeley: ''
   reference: ''
 - firstname: Yuka
-  lastname: OMOYA
+  lastname: Omoya
   titles_and_institutions:
   - titles: []
     institution: Graduate School of Humanities and Social Sciences, University of
