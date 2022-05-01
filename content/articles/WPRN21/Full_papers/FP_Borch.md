@@ -9,7 +9,7 @@ keywords:
 date: 2022-05-01T21:18:35Z
 language: English
 disciplines: ''
-published: false
+published: true
 article_title: 'Mental health self-help apps for coping with COVID-19 : Lessons learnt'
 authors:
 - firstname: 'Gerit '
