@@ -9,7 +9,7 @@ keywords:
 date: 2022-05-01T16:10:47Z
 language: English
 disciplines: ''
-published: false
+published: true
 article_title: 'Risk Perceptions, Trust in Health Authorities and Socio-Demographics
   Predict Intent to Get Vaccinated Against COVID-19: Evidence from 23 Countries'
 authors:
