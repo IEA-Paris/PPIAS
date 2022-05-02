@@ -286,10 +286,10 @@ ${doc.text ? doc.text : ''}`
     )
   })
 }
-export const generateDisciplines = () => {
+/* export const generateDisciplines = () => {
   // TODO make selective depending on website settings
   disciplines.forEach((area) => {})
-}
+} */
 // eslint-disable-next-line no-misleading-character-class
 const referenceRegex = new RegExp(
   // eslint-disable-next-line no-misleading-character-class
