@@ -54,7 +54,7 @@ export const formatDate = (timestamp, withTime) => {
 }
 export const formatAuthors = (authors = false, $t, full = false) => {
   const format = (author) => {
-    return (
+    const name =
       author.lastname.replace(' ', '&nbsp;').trim() +
       '&nbsp;' +
       author.firstname
@@ -68,7 +68,24 @@ export const formatAuthors = (authors = false, $t, full = false) => {
         .substr(0, 1) // get the first two characters an initials
         .toUpperCase() +
       '.&nbsp;'
-    )
+    const institution =
+      (author?.titleAndInstitutions &&
+        author?.titleAndInstitutions[0] &&
+        author.titleAndInstitutions[0]?.institution) ||
+      ''
+    return full && institution.length
+      ? ` <v-tooltip bottom>
+    <template v-slot:activator="{ on, attrs }">
+      <span
+        v-bind="attrs"
+        v-on="on"
+      >${name}</span>
+    </template>
+    <span>${institution}</span>
+  </v-tooltip>`
+      : institution.length
+      ? `${name} (${institution})`
+      : name
   }
   if (!authors) return ''
 

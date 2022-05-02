@@ -3,14 +3,87 @@
 /* eslint-disable prefer-regex-literals */
 import path from 'path'
 import fs from 'fs'
-import Citation from 'citation-js'
 import { dump } from 'js-yaml'
 import fsExtra from 'fs-extra'
 /* import { Repository, Tree, Diff } from 'nodegit' */
+import parseMD from 'parse-md'
 import slugify from '../../assets/utils/slugify'
 import { formatAuthors } from '../../assets/utils/transforms'
-import disciplines from '../../assets/data/disciplines'
-
+/* export const printWikipediaDisciplines = () => {
+  const result = disciplines
+  const replaceUl = (node) => {
+    if (
+      node.children &&
+      node.children[0] &&
+      node.children[0].tag === 'ul' &&
+      node.children[0].children.length
+    ) {
+      console.log('REMOVED UL', node.children[0].tag === 'ul')
+      node.children = [
+        ...node.children[0].children,
+        ...(node.children &&
+        Array.isArray(node.children) &&
+        node.children.length > 1
+          ? node.children.shift()
+          : []),
+      ]
+    }
+    if (
+      node.children &&
+      node.children[0] &&
+      node.children[0].tag === 'ul' &&
+      node.children[0].children.length
+    ) {
+      replaceUl(node)
+    }
+    return node
+  }
+  const processNode = (node) => {
+    try {
+      // handle description
+      if (node.description?.children?.length) {
+        let description = `
+      <p>
+      `
+        node.description.children.forEach((descriptionChild) => {
+          if (descriptionChild.type === 'text')
+            description += descriptionChild.value
+          if (descriptionChild.tag === 'a')
+            description += `<a href="https://en.wikipedia.org/wiki/${descriptionChild.href}" target="_blank">${descriptionChild.value}</a>`
+          if (descriptionChild.tag === 'em')
+            description += `<br><b>${descriptionChild?.children
+              .map((i) => processNode(i))
+              .join()}</b>`
+        })
+        node.description = description + '</p>'
+      }
+      replaceUl()
+      if (node.outline?.length) {
+        node.outline = 'https://en.wikipedia.org/wiki/' + node.outline
+      }
+      if (node.children) {
+        node.children.forEach((child) => {
+          child = processNode(child)
+          /*  if () 
+        })
+      }
+      return node
+      // is it a category?
+    } catch (error) {
+      console.log('error: ', error)
+      console.log('node.children: ', node.value)
+      return node
+    }
+  }
+  disciplines.forEach((item) => {
+    processNode(item)
+    item = processNode(item)
+  })
+  fs.writeFileSync('result.js', JSON.stringify(result))
+  // start with h2 nodes
+ const headers2 = 
+  return content 
+} */
 /* export const getStagedChanges = async () => {
   const emptyTree = '4b825dc642cb6eb9a060e54bf8d69288fbee4904'
   const repo = await Repository.open(path.resolve('./.git'))

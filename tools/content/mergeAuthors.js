@@ -5,6 +5,7 @@ import {
   insertDocuments,
   writePrintRoutes,
 } from '../lib/contentUtilities'
+
 const filterAndMerge = (first, second) => {
   first = first.filter((author) => {
     // does it have a reference?

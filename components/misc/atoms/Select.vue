@@ -5,6 +5,7 @@
     v-model="selected"
     v-scroll="blur"
     menu-props="offset-y"
+    :multiple="multiple"
   >
     <template #selection="{ item, index }">
       <SelectionSlot
@@ -28,6 +29,10 @@ export default {
       type: String,
       default: '',
       required: true,
+    },
+    multiple: {
+      type: Boolean,
+      default: true,
     },
   },
   data() {

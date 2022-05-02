@@ -6,7 +6,6 @@ import formatArticle from './formatArticle'
 import mergeAuthors from './mergeAuthors'
 import generateMedia from './generateMedia'
 import makeFiltersData from './makeFiltersData'
-
 export default {
   hooks: {
     'content:ready': async (content) => {

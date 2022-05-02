@@ -1,5 +1,4 @@
 import fs from 'fs'
-import disciplines from '../../assets/data/disciplines'
 export default async () => {
   const filters = {}
   const { $content } = require('@nuxt/content')
