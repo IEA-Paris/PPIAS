@@ -1,3 +1,5 @@
+/* eslint-disable prettier/prettier */
+
 export default [
   {
     level: 1,
