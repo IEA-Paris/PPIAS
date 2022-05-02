@@ -6,7 +6,6 @@ import fs from 'fs'
 import { dump } from 'js-yaml'
 import fsExtra from 'fs-extra'
 /* import { Repository, Tree, Diff } from 'nodegit' */
-import parseMD from 'parse-md'
 import slugify from '../../assets/utils/slugify'
 import { formatAuthors } from '../../assets/utils/transforms'
 /* export const printWikipediaDisciplines = () => {
