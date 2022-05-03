@@ -39,7 +39,7 @@ abstract: 'The image of empty supermarket shelves is one of those that will rema
   social interactions, and anxieties about the risk of food insecurity. On the World
   Pandemic Research Network database, various studies dug into how the pandemic has
   shaken our relationship with food.'
-picture: ''
+picture: "/covid19-food.jpeg"
 picture_copyright: ''
 yt: ''
 highlight: false
