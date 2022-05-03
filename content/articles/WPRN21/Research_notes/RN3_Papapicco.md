@@ -9,7 +9,7 @@ keywords:
 date: 2022-04-13T16:37:49.000+00:00
 language: English
 disciplines: ''
-published: false
+published: true
 article_title: 'Informative Contagion: The Coronavirus (COVID 19) in Italian journalism'
 authors:
 - firstname: 'Concetta '
