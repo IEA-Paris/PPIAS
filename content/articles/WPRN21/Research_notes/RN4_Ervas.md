@@ -7,7 +7,7 @@ keywords:
 date: 2022-04-13T20:05:34.000+00:00
 language: English
 disciplines: ''
-published: false
+published: true
 article_title: Metaphors for vaccination and defeasible reasoning
 authors:
 - firstname: 'Rachele '
