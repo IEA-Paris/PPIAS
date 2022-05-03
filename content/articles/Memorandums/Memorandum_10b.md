@@ -4,7 +4,7 @@ keywords: []
 date: 2021-01-03T09:15:10Z
 language: English
 disciplines: ''
-published: false
+published: true
 article_title: 'COVID-19 and Food -  Food Security: A Major Concern for Households'
 authors:
 - firstname: 'Aurélie '
