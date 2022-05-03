@@ -21,7 +21,7 @@ keywords:
 date: 2021-05-01T22:00:12.000+00:00
 language: English
 published: true
-article_title: What measures are actually effective in fighting COVID-19 ?
+article_title: What Measures are Truly Effective in Fighting COVID-19 ?
 authors:
 - firstname: 'Aurélie  '
   lastname: Louchart
