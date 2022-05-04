@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: admin
 webhook_url: 
 sections:
+- type: document
+  path: assets/data/disciplinesWikipedia.js
+  label: Disciplines
+  match: "**/*"
+  read_only: true
 - type: heading
   label: Content
 - type: directory
