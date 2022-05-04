@@ -1,10 +1,15 @@
-export default /* async */ (document) => {
-  /*        */
-  /* if (document.slug === 'Covid_19_and_employment') {
+export default async (document) => {
+  if (
+    document.dir.startsWith('/articles') &&
+    document.published &&
+    document.needDOI &&
+    document.ffs &&
+    !document.DOI
+  ) {
     const Zenodo = require('../lib/ZenodoConnector')
     const zenodo = new Zenodo({
       host: 'sandbox.zenodo.org',
-      token: 'rVFGQ8YsPuP3xIl02UB48HgPhKTkzloOYdsrYYpQWCrJKV4p4nIKIGLjgTRn',
+      token: 'OrxfOwmCHDcUrchiaLzqDAqYu0pIMZ96YR88NH0a754LgbIkeixMMTc3rXcK',
       protocol: 'https',
     })
     const fs = require('fs').promises
@@ -19,7 +24,7 @@ export default /* async */ (document) => {
         upload_type: 'publication',
         description: document.abstract || 'No description provided',
         publication_type: 'article',
-        keywords: document.tags || [],
+        ...(document.tags && { keywords: document.tags }),
         // TODO references: add .bib file extract
         // TODO conference_url: TO BE COMPLETED
         language: document.language || 'eng',
@@ -28,14 +33,19 @@ export default /* async */ (document) => {
           'EN',
           {
             timezone: 'UTC',
+            year: 'numeric',
+            month: '2-digit',
+            day: '2-digit',
           }
         ),
+        access_right: 'open',
         title: document.article_title,
         creators: document.authors.map((item) => {
           // TODO include all title & institution info
           return {
             name: item.lastname + ', ' + item.firstname,
-            ...(item.titles_and_institutions[0] &&
+            ...(item.titles_and_institutions &&
+              item.titles_and_institutions[0] &&
               item.titles_and_institutions[0].institution && {
                 affiliation: item.titles_and_institutions[0].institution,
               }),
@@ -44,9 +54,9 @@ export default /* async */ (document) => {
         }),
       }
       console.log('metadata: ', metadata)
-      const entry = await zenodo.depositions.create({
-        metadata,
-      })
+
+      const entry = await zenodo.depositions.create(metadata)
+      console.log(`deposition created for ${document.article_title} `)
 
       await zenodo.files.upload({
         bucketId:
@@ -64,12 +74,9 @@ export default /* async */ (document) => {
     } catch (error) {
       console.log('error: ', error)
     }
-    /*
-         if (document.extension === '.md') { */
-  // we assume it is markdown
-  // make DOI only if the document is published & has no DOI yet & needs a DOI
-  /*    if (document.published && !document.DOI && document.needDOI) { 
+
+    // we assume it is markdown
+    // make DOI only if the document is published & has no DOI yet & needs a DOI
     return document
-  } */
-  return document
+  }
 }

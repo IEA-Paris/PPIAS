@@ -5,6 +5,7 @@ keywords:
   - public policies
 date: 2021-12-09T09:00:24.000+00:00
 language: English
+doi: '169059797'
 published: true
 article_title:
   'Economic epidemiology put to the test of the Covid-19 crisis: some

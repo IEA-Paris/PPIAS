@@ -3,6 +3,7 @@ issue: content/issues/WPRN21.md
 keywords: []
 date: 2021-12-10T17:00:16.000+00:00
 language: English
+doi: '169059797'
 published: true
 article_title:
   Closing Panel - Moving the discussion forward - lessons learned and

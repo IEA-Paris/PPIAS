@@ -10,6 +10,7 @@ keywords:
   - 'Work, Welfare, Social protection '
 date: 2021-12-09T14:30:47.000+00:00
 language: English
+doi: '169059797'
 published: true
 article_title:
   The impact of COVID on SMEs in China based on multiple rounds of surveys

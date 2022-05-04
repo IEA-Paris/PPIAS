@@ -28,6 +28,7 @@ abstract: |-
   Memorandum 6 : overview of the studies and projects registered on WPRN database
 highlight: false
 language: English
+doi: '169059797'
 tag:
   - 'Equality & Diversity Studies '
   - Human Behaviours, Social Relations

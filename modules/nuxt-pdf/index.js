@@ -204,6 +204,7 @@ module.exports = async function PDF(moduleOptions) {
   async function build(buildArgs) {
     let nuxt
     let listener
+    let browser = null
     try {
       if (buildArgs.generated) {
         console.log('nuxt-pdf: Starting nuxt instance ')
@@ -238,7 +239,7 @@ module.exports = async function PDF(moduleOptions) {
         // Merge route meta with defaults from config.
         const meta = Object.assign({}, options.meta, route.meta)
 
-        const browser = await puppeteer.launch(
+        browser = await puppeteer.launch(
           Object.assign(
             {
               headless: true,
@@ -355,6 +356,10 @@ module.exports = async function PDF(moduleOptions) {
             routes.length
           } at route ${route.route} error: ${e.message}`
         )
+      } finally {
+        if (browser !== null) {
+          await browser.close()
+        }
       }
     }
 

@@ -16,6 +16,7 @@ keywords:
   - 'Inequalities, Poverty, Development '
 date: 2021-12-10T15:00:38.000+00:00
 language: English
+doi: '169059797'
 published: false
 article_title: Emotions and Coping During Crisis - Q&A session
 authors:

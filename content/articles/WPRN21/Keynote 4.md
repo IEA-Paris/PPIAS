@@ -3,6 +3,7 @@ issue: content/issues/WPRN21.md
 keywords: []
 date: 2021-12-09T15:30:41Z
 language: English
+doi: '169059797'
 published: false
 article_title:
   'Optimal combination of epidemic control policies: lessons from an

@@ -1,57 +1,58 @@
 ---
 issue: content/issues/WPRN.md
 keywords:
-- Agriculture, Alimentation
-- " Environmental change, Ecology"
-- 'Human Behaviours, Social Relations '
-- Public Discourse, Rhetorics, Communication
-- Public Policy, Evaluation, Impact
-- Cities, Mobility, Urban Planning
-- " Consumption and Production Patterns"
-- " Democracy, Civil Society, Governance"
-- " Firms, Markets, Finance"
-- " Equality & Diversity Studies"
-- 'Public Health '
-- 'Risks, Crisis Management '
-- Migrations and Diasporas
-- " Work, Welfare, Social protection"
-- Inequalities, Poverty, Development
+  - Agriculture, Alimentation
+  - ' Environmental change, Ecology'
+  - 'Human Behaviours, Social Relations '
+  - Public Discourse, Rhetorics, Communication
+  - Public Policy, Evaluation, Impact
+  - Cities, Mobility, Urban Planning
+  - ' Consumption and Production Patterns'
+  - ' Democracy, Civil Society, Governance'
+  - ' Firms, Markets, Finance'
+  - ' Equality & Diversity Studies'
+  - 'Public Health '
+  - 'Risks, Crisis Management '
+  - Migrations and Diasporas
+  - ' Work, Welfare, Social protection'
+  - Inequalities, Poverty, Development
 date: 2021-01-03T09:15:10.000+00:00
 language: English
+doi: '169059797'
 disciplines: ''
 published: true
 article_title: 'COVID-19 and Food -  Food Security: A Major Concern for Households'
 authors:
-- firstname: 'Aurélie '
-  lastname: 'Louchart '
-  titles_and_institutions:
-  - titles: []
-    institution: Paris Institute for Advanced Study, France
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
+  - firstname: 'Aurélie '
+    lastname: 'Louchart '
+    titles_and_institutions:
+      - titles: []
+        institution: Paris Institute for Advanced Study, France
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
 custom_pdf: ''
 abstract: |-
   The image of empty supermarket shelves is one of those that will remain from the announcement of the first lockdown. The Europeans practiced the «Hamsterkauf» as dubbed by the German speakers: they stocked up like hamsters. This rush on food supplies, especially rice and pasta, shows that the first worry was not the disease but the risk of running out of food: a striking phenomenon in affluent societies. During lockdowns, food stores were tagged «essential.» Food’s centrality returned to the forefront: one could no longer delegate its management or forget its role (as is often the case in the West because of its easy access and urban lifestyles). The primary functions of food were exacerbated: setting the rhythm of a daily time that stretched to infinity, regulating emotions, being at the center of constrained social interactions, and anxieties about the risk of food insecurity. On the World Pandemic Research Network database, various studies dug into how the pandemic has shaken our relationship with food.
   Memorandum 10 : overview of the studies and projects registered on WPRN database
   This article was originally published in French.
-picture: "/covid19-food.jpeg"
+picture: '/covid19-food.jpeg'
 picture_copyright: ''
 yt: ''
 highlight: false
 bibliography: ''
-
 ---
+
 ## All bakers?
 
 In France, baking at home, «making its own bread» in particular, has been a striking social fact resulting in a relative shortage of flour and yeast in shops during the first lockdown. According to [the CNRS survey “Manger au temps du coronavirus](https://wprn.org/item/419752)” listed on WPRN, it is surprising given the continued openness of bakeries and supermarkets, and it cannot be reduced to the goal of limiting social interaction during shopping. Beyond “the pleasure of the table” (fresh bread and pastries are emblematic), the researchers hypothesize that the lockdown triggered re-identification dynamics around gestures and products that are powerfully symbolic of cultural and social ties. Moreover, as Abdu Gnaba, author of [“Anthropologie des mangeurs de pain,”](https://www.editions-harmattan.fr/index.asp?navig=catalogue&obj=livre&no=33719) explains: «We are going through a crisis. Sanitary, that’s for sure, but also an identity crisis. We find ourselves cut off from the world and our habits from one day to the next. In our culture, bread is reassuring and stable. To lack bread is synonymous with terror (...) There is also a strong link between bread and autonomy. It is the first food that babies eat in perfect autonomy or the one that older children can buy alone. »
@@ -85,24 +86,24 @@ As the CNRS points out in its research [“Manger au temps du coronavirus,”](h
 ## This memorandum is based on resources from the World Pandemic Research Network.
 
 Maréchal, Gilles. “Manger au temps du coronavirus”,  
- [https://wprn.org/item/419752](https://wprn.org/item/419752 "https://wprn.org/item/419752")   
+ [https://wprn.org/item/419752](https://wprn.org/item/419752 'https://wprn.org/item/419752')  
  This TerrAlim-CNRS survey addresses the effects, questions, and solutions regarding the relations between the COVID19 epidemic and food systems. Its first phase is based on nearly 800 testimonials collected from March 16 to June 11, 2020. Short term, it aims at gathering and disseminating facts, data, and know-how about the reactions to the crisis. On a medium-long period, its goal is to raise, formalize and engage participatory research-action processes on the identified topics. The team gathers academic researchers, associations working on food systems, locals associations, and social economy enterprises.
 
-MacMillan, Tom. «UK food behaviour and attitudes YouGov poll.» [https://wprn.org/item/412052](https://wprn.org/item/412052 "https://wprn.org/item/412052")  
+MacMillan, Tom. «UK food behaviour and attitudes YouGov poll.» [https://wprn.org/item/412052](https://wprn.org/item/412052 'https://wprn.org/item/412052')  
  Led by the Food, Farming and Countryside Commission, in collaboration with the Food Foundation, this YouGov survey asked about 4,000 British citizens about reported changes in food behavior after about two weeks of lockdown and their hopes for after the pandemic was over. The finding is that only 9% of respondents wanted everything to return to how it was before the outbreak was widely reported in the UK.
 
-Millard, Jeremy. «Our relationship with food during the covid-19 pandemic. [https://wprn.org/item/422252](https://wprn.org/item/422252 "https://wprn.org/item/422252")   
+Millard, Jeremy. «Our relationship with food during the covid-19 pandemic. [https://wprn.org/item/422252](https://wprn.org/item/422252 'https://wprn.org/item/422252')  
  During the first wave of the COVID-19 pandemic, the European Food-Covid-19 network of food experts and researchers launched an online survey to gather initial information on how households have changed how they obtain, prepare and consume food. The data collected also covers behavioural changes resulting from variations in national lockdowns and other restrictions - such as physical closures of workplaces, canteens, restaurants, schools, and childcare institutions; changes in the frequency of household food purchases; individuals’ perception of risks linked to COVID19; income losses due to the pandemic and socio-demographic factors. Approximately 8,000 valid responses were obtained, with most national surveys using quota sampling to ensure that samples were generally representative of national populations.
 
 Maria Clara Gaspar, Marta Ruiz, Arantza Begueria, Sarah Anadon, Amanda Barba y Cristina Larrea-Killinger «Comer en tiempos de confinamiento: gestión de la alimentación, disciplina y placer» in Fradejas-Garcia, Ignacio. «Etnografías de la pandemia por coronavirus».
 
- [https://wprn.org/item/464452](https://wprn.org/item/464452 "https://wprn.org/item/464452")  
+[https://wprn.org/item/464452](https://wprn.org/item/464452 'https://wprn.org/item/464452')  
  A special issue of the journal analyzing the pandemic’s social dimensions. Published in July 2020, it includes sixteen peer-reviewed articles based on empirical anthropological research in Spain, Italy, Morocco, Mexico, Argentina, Colombia, and Ecuador. The methodology used is mainly qualitative (interviews, online/offline ethnography, etc.) and combines with quantitative methods (online surveys) to develop mixed methods. The article cited in this note, «Comer en tiempos de confinamiento: gestión de la alimentación, disciplina y placer,» aims to analyze the lockdown experience caused by the state of emergency in Spain through the dietary practices and representations of adult women living in urban areas of Catalonia. The majority of them are women with higher education and professional experience who did not stop working at the time of lockdown.
 
 Enriquez, Diana. «Covid-19’s Socio-Economic Impact on Low-Income Benefit Recipients: Early Evidence from Tracking Surveys.  
- [https://wprn.org/item/466652](https://wprn.org/item/466652 "https://wprn.org/item/466652")  
+ [https://wprn.org/item/466652](https://wprn.org/item/466652 'https://wprn.org/item/466652')  
  This research at Princeton University aims to understand the incidence of COVID-19-induced hardships among low-income/benefits-eligible households during the early months of the crisis. Five repeated online surveys of SNAP recipients measured perceived and realized housing insecurity, food scarcity, new debt accrual, and recent job loss. Food insecurity and debt accrual grew more prevalent between April to June 2020, and job losses compounded. Although the magnitude of racial differences varies across indicators and data sources, black respondents fared consistently worse than non-Hispanic whites in both survey data sets, and Latinx respondents fared worse than whites in the Household Pulse Survey. These results provide early systematic evidence on the impact of the COVID-19 crisis on poor Americans and racial disparities therein.
 
 Gupta, Anubhab; Zhu, Heng; Doan, Miki Khanh & Al. «Economic Impacts of the COVID-19 Lockdown on the Poor».  
- [https://wprn.org/item/476552](https://wprn.org/item/476552 "https://wprn.org/item/476552")  
+ [https://wprn.org/item/476552](https://wprn.org/item/476552 'https://wprn.org/item/476552')  
  In India, the lockdown affected 1.3 billion people. Before the pandemic, this Virginia Tech study was already tracking the weekly financial activities of a sample of poor households in rural India for over a year. Using this unique high-frequency weekly data and supplementing it with phone-call surveys conducted on the same households for four weeks after the lockdown announcement, the study econometrically estimates the impacts of the lockdown on the poorest Indian households.

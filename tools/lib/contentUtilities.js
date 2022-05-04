@@ -296,6 +296,28 @@ const referenceRegex = new RegExp(
   /@[\w-' '陳大文łŁőŐűŰZàáâäãåąčćęèéêëėįìíîïłńòóôöõøùúûüųūÿýżźçčšžÀÁÂÄÃÅĄĆČĖĘÈÉÊËÌÍÎÏĮŁŃÒÓÔÖÕØÙÚÛÜŲŪŸÝŻŹßÇŒÆČŠŽ.âê都道府県Федерацииআবাসযোগ্য জমির걸쳐 있는:!\/,?.;*$=()\\&-'"&²¹`#\[\]\{\}\%\#\$\^\~\&\_]+_[\w-' '陳大文łŁőŐűŰZàáâäãåąčćęèéêëėįìíîïłńòóôöõøùúûüųūÿýżźçčšžÀÁÂÄÃÅĄĆČĖĘÈÉÊËÌÍÎÏĮŁŃÒÓÔÖÕØÙÚÛÜŲŪŸÝŻŹßÇŒÆČŠŽ.âê都道府県Федерацииআবাসযোগ্য জমির걸쳐 있는:!\/,?.;*$=()\\&-'"&²¹`#\[\]\{\}\%\#\$\^\~\&\_]+_\d{4}/,
   'i'
 )
+export const insertReferencesInAbstract = (text, biblio) => {
+  const matches = text.match(referenceRegex)
+  if (matches !== null) {
+    const element = matches[0]
+    // find the related reference
+    const ref = biblio.find(
+      (item) => item.id === element.toLowerCase().substring(1)
+    )
+    if (!ref) {
+      // TODO write it in a file somewhere to use it in CMS
+      console.log('REFERENCE NOT FOUND IN BIB FILE: ', element)
+    } else {
+      text = insertReferencesInAbstract(
+        text.replace(element, ref.citation),
+        biblio
+      )
+    }
+    // edit the node to include the link
+    return text
+  }
+  return text
+}
 export const insertReferences = (node, biblio) => {
   try {
     const replaceReference = (node) => {
@@ -305,17 +327,15 @@ export const insertReferences = (node, biblio) => {
       const matches = node.value.match(referenceRegex)
       // do we have references to replace?
       if (matches !== null) {
-        for (let index = 0; index < matches.length; index++) {
-          const element = matches[index]
-          // find the related reference
-          const ref = biblio.find(
-            (item) => item.id === element.toLowerCase().substring(1)
-          )
-          if (!ref) {
-            // TODO write it in a file somewhere to use it in CMS
-            console.log('REFERENCE NOT FOUND IN BIB FILE: ', element)
-            continue
-          }
+        const element = matches[0]
+        // find the related reference
+        const ref = biblio.find(
+          (item) => item.id === element.toLowerCase().substring(1)
+        )
+        if (!ref) {
+          // TODO write it in a file somewhere to use it in CMS
+          console.log('REFERENCE NOT FOUND IN BIB FILE: ', element)
+        } else {
           ref.link = true
           // edit the node to include the link
           node = {
@@ -335,21 +355,15 @@ export const insertReferences = (node, biblio) => {
                   },
                 ],
               },
-              replaceReference({
-                type: 'text',
-                value: node.value.split(element)[1],
-              }),
+              node.value.split(element).slice(1).join(element) &&
+                replaceReference({
+                  type: 'text',
+                  value: node.value.split(element).slice(1).join(element),
+                }),
             ],
           }
         }
       }
-      /*   if (
-        biblio?.length &&
-        biblio[0].citationKey === 'cordelois_how_2020' &&
-        node.value?.length > 3
-      ) {
-        console.log('node: ', node)
-      } */
       return node
     }
     if (node.type === 'text') {

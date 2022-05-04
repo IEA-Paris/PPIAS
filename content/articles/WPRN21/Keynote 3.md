@@ -7,7 +7,9 @@ keywords:
   - 'Public Policy, Evaluation, Impact '
   - 'Big Data, Artificial Intelligence '
 date: 2021-12-09T15:00:25.000+00:00
+needDOI: true
 language: English
+doi: '169059797'
 published: true
 article_title: COVID‑19 and the value of safe transport in the United States
 authors:

@@ -1,13 +1,10 @@
 <template>
-  <v-card
-    outlined
-    class="pa-3 mt-3"
-    :style="'border-left:' + issue.color + ' 4px solid;'"
-    nuxt
-    @click="$router.push(path)"
-  >
+  <v-card outlined class="px-3 pb-3" nuxt @click="$router.push(path)">
     <v-card-title>{{ issue.title }}</v-card-title>
-    <v-card-actions v-if="total > 1">
+    <v-card-content v-if="issue.body.children.length">
+      <nuxt-content :document="issue" />
+    </v-card-content>
+    <v-card-actions v-if="total > 1 && !$route.name.startsWith('print')">
       <v-spacer></v-spacer>
       <v-btn x-large tile outlined>
         {{ $t('see-all-results-articlescount', [total]) }}</v-btn

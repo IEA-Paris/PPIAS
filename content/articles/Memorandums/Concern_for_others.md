@@ -34,6 +34,7 @@ keywords:
   - 'Risks, Crisis Management '
   - Social and Personality Psychology
 language: English
+doi: '169059797'
 ---
 
 Social psychology studies typically focus on social norms to understand, anticipate and  

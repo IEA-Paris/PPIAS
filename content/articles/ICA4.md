@@ -54,6 +54,7 @@ abstract:
 issue: content/issues/ICA.md
 highlight: false
 language: English
+doi: '169059797'
 tag:
   - Artificial Intelligence
   - Data science
@@ -62,7 +63,6 @@ tag:
   - Algorithms
   - Language
   - Robots
-doi: '169059797'
 category1:
   - color: green
     text: Article

@@ -8,6 +8,7 @@ keywords:
   - 'Public Policy, Evaluation, Impact '
 date: 2021-12-10T10:00:40.000+00:00
 language: English
+doi: '169059797'
 published: true
 article_title:
   Trading off lives and livelihoods in an ethical way, considering the

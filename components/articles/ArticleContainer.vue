@@ -64,7 +64,6 @@
             class="text-body-1 mt-3 d-flex align-left"
           >
             <v-divider></v-divider>
-            <div class="overline">{{ $t('authors') }}</div>
             <v-btn
               x-large
               text
@@ -72,8 +71,8 @@
               style=""
               nuxt
               :to="'/articles/' + item.slug + '#authors'"
+              v-html="formatAuthorsProxy()"
             >
-              <ArticleAuthorsString :authors="item.authors" full />
             </v-btn>
           </template>
           <!--     <v-divider style="width: 120px"></v-divider>
@@ -86,6 +85,7 @@
   </v-row>
 </template>
 <script>
+import { formatAuthors, highlight } from '~/assets/utils/transforms'
 export default {
   props: {
     item: {
@@ -101,6 +101,12 @@ export default {
   methods: {
     goBack() {
       this.$router.go(-1)
+    },
+    formatAuthorsProxy() {
+      return highlight(
+        formatAuthors(this.item.authors, this.$i18n.$t, false),
+        this.$store.state.articles.search || ''
+      )
     },
   },
 }

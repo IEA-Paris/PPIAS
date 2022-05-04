@@ -67,6 +67,7 @@ keywords:
   - International Relations and Co-operation
   - 'Inequalities, Poverty, Development '
 language: English
+doi: '169059797'
 ---
 
 Governments have responded to the pandemic with an arsenal of public policies certainly never before deployed on this scale in peacetime. To justify these measures (social distancing, confinement, etc.), the political figures in power have developed a variety of political rhetoric. What arguments have been put forward the most? By what means of communication? How were they received by voters? What role did partisan cleavages play in the perception of discourse and in the application of measures proposed by decision-makers? Several studies in the WPRN database analyze the political rhetoric developed during the pandemic and its central role in citizens’ perception of the dangerousness of the virus and their compliance with health measures.

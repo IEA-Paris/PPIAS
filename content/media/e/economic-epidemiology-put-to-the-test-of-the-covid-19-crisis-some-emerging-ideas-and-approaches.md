@@ -9,8 +9,8 @@ id: EtpubPswH2M
 index: 0
 issue: content/issues/WPRN21.md
 language: English
+doi: '169059797'
 picture: ''
 type: youtube
 years: 2021
-
 ---

@@ -22,6 +22,7 @@ keywords:
   - 'Risks, Crisis Management '
 date: 2021-12-10T13:00:31.000+00:00
 language: English
+doi: '169059797'
 published: false
 article_title: Local Contexts and Policy - Q&A session
 authors:

@@ -8,6 +8,7 @@ keywords:
   - Universal Basic Income
 date: 2022-03-24T15:10:20.000+00:00
 language: English
+doi: '169059797'
 disciplines: ''
 published: true
 article_title: 'Tackling the COVID-19 pandemic : Lessons learned and paths forward'

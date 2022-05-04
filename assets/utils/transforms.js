@@ -52,39 +52,38 @@ export const formatDate = (timestamp, withTime) => {
 
   return formatedDate
 }
-export const formatAuthors = (authors = false, $t, full = false) => {
+export const formatAuthors = (
+  authors = false,
+  $t,
+  full = false,
+  initials = true
+) => {
   const format = (author) => {
     const name =
       author.lastname.replace(' ', '&nbsp;').trim() +
-      '&nbsp;' +
-      author.firstname
-        .trim()
-        .replace(/[^A-Za-z0-9À-ÿ ]/gi, '') // taking care of accented characters as well
-        .replace(/ +/gi, ' ') // replace multiple spaces to one
-        .split(/ /) // break the name into parts
-        .reduce((acc, item) => acc + item[0], '') // assemble an abbreviation from the parts
-        .concat(author.firstname.substr(1)) // what if the name consist only one part
-        .concat(author.firstname) // what if the name is only one character
-        .substr(0, 1) // get the first two characters an initials
-        .toUpperCase() +
-      '.&nbsp;'
+      (initials ? '&nbsp;' : ',&nbsp;') +
+      (initials
+        ? author.firstname
+            .trim()
+            .replace(/[^A-Za-z0-9À-ÿ ]/gi, '') // taking care of accented characters as well
+            .replace(/ +/gi, ' ') // replace multiple spaces to one
+            .split(/ /) // break the name into parts
+            .reduce((acc, item) => acc + item[0], '') // assemble an abbreviation from the parts
+            .concat(author.firstname.substr(1)) // what if the name consist only one part
+            .concat(author.firstname) // what if the name is only one character
+            .substr(0, 1) // get the first two characters an initials
+            .toUpperCase()
+        : author.firstname) +
+      (initials ? '.&nbsp;' : '')
     const institution =
-      (author?.titleAndInstitutions &&
-        author?.titleAndInstitutions[0] &&
-        author.titleAndInstitutions[0]?.institution) ||
+      (author?.titles_and_institutions &&
+        author?.titles_and_institutions[0] &&
+        author.titles_and_institutions[0]?.institution) ||
       ''
     return full && institution.length
-      ? ` <v-tooltip bottom>
-    <template v-slot:activator="{ on, attrs }">
-      <span
-        v-bind="attrs"
-        v-on="on"
-      >${name}</span>
-    </template>
-    <span>${institution}</span>
-  </v-tooltip>`
-      : institution.length
-      ? `${name} (${institution})`
+      ? name +
+          ` - <i>${institution}</i>
+ `
       : name
   }
   if (!authors) return ''

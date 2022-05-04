@@ -3,6 +3,7 @@ import Citation from 'citation-js'
 import {
   insertReferences,
   replaceReferenceInString,
+  insertReferencesInAbstract,
 } from '../lib/contentUtilities'
 import filters from '../../assets/generated/filters'
 const fs = require('fs')
@@ -22,17 +23,52 @@ export default (document, database) => {
           './static/' + document.bibliography,
           'utf8'
         )
+
         // TODO handle other formats for biblio such as json
         const cites = new Citation(data)
         const styles = ['apa', 'vanvouver', 'harvard1']
         const date = new Date(document.createdAt).toLocaleDateString('EN', {
           timezone: 'UTC',
         })
+
+        document.bibliography = cites.data.map((item) => {
+          return {
+            ...item,
+            // TODO update with dynamic lang & add more formats, dynamic default format: https://citation.js.org/api/0.3/tutorial-output_plugins_csl.html
+            citation: new Citation(item)
+              .format('citation', {
+                format: 'text',
+                template: 'apa',
+                lang: 'en-US',
+              })
+              // To remove the parentheses
+              // TODO come up with a better way
+              .slice(1, -1),
+            APA: new Citation(item).format('bibliography', {
+              format: 'html',
+              template: 'apa',
+              lang: 'en-US',
+            }),
+            vancouver: new Citation(item).format('bibliography', {
+              format: 'html',
+              template: 'vancouver',
+              lang: 'en-US',
+            }),
+            harvard1: new Citation(item).format('bibliography', {
+              format: 'html',
+              template: 'harvard1',
+              lang: 'en-US',
+            }),
+          }
+        })
+        document.abstract = insertReferencesInAbstract(
+          document.abstract,
+          document.bibliography
+        )
         // make a CSL-json like object
         const docData = {
-          abstract:
-            insertReferences(document.abstract, document.bibliography) ||
-            'No description provided',
+          abstract: document.abstract,
+
           type: 'article-journal',
           keywords: document.tags || [],
           // TODO references: add .bib file extract
@@ -75,37 +111,6 @@ export default (document, database) => {
             lang: 'en-US',
           })
           return obj
-        })
-        console.log('document.toCite: ', document.toCite)
-        document.bibliography = cites.data.map((item) => {
-          return {
-            ...item,
-            // TODO update with dynamic lang & add more formats, dynamic default format: https://citation.js.org/api/0.3/tutorial-output_plugins_csl.html
-            citation: new Citation(item)
-              .format('citation', {
-                format: 'text',
-                template: 'apa',
-                lang: 'en-US',
-              })
-              // To remove the parentheses
-              // TODO come up with a better way
-              .slice(1, -1),
-            APA: new Citation(item).format('bibliography', {
-              format: 'html',
-              template: 'apa',
-              lang: 'en-US',
-            }),
-            vancouver: new Citation(item).format('bibliography', {
-              format: 'html',
-              template: 'vancouver',
-              lang: 'en-US',
-            }),
-            harvard1: new Citation(item).format('bibliography', {
-              format: 'html',
-              template: 'harvard1',
-              lang: 'en-US',
-            }),
-          }
         })
       } catch (err) {
         console.error(err)

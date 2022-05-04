@@ -53,6 +53,7 @@ keywords:
   - 'Inequalities, Poverty, Development '
   - wildland recreation
 language: English
+doi: '169059797'
 ---
 
 The measures taken by governments to limit the spread of Covid-19, particularly containment, have restricted the opportunities for people to access nature. These restrictions have affected individuals and put at the heart of the debate the role of the link to nature for mental and physical well-being. Beyond this, the pandemic and containment have led to changes in the perceptions of time and space : part of the population is questioning its relationship with its surroundings and its way of life. According to researcher [Anne Caroline Prévot](https://usbeketrica.com/fr/article/le-confinement-pourrait-nous-rapprocher-de-la-nature), containment could thus bring us closer to nature. Are we heading towards major upheavals in terms of urban planning, food, or leisure practices? Will the pandemic profoundly transform the relationship between individuals and their environment in a more ecological perspective?

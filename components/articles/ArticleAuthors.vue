@@ -6,7 +6,7 @@
     >
       {{ $t('no-author-found-matching-this-article') }}
     </div>
-    <v-list dense>
+    <v-list>
       <ArticleAuthorItem
         v-for="(author, index) in item.authors"
         :key="index"

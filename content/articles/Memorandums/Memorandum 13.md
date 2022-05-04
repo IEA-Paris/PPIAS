@@ -1,43 +1,45 @@
 ---
 issue: content/issues/WPRN.md
 keywords:
-- 'Consumption and Production Patterns '
-- 'Democracy, Civil Society, Governance '
-- 'Public Health '
-- 'Religions and Worldviews '
-- 'Human Behaviours, Social Relations '
-- 'Risks, Crisis Management '
-- 'Digital Humanities '
-- 'Public Policy, Evaluation, Impact '
-- 'Equality & Diversity Studies '
-- 'Quantitative survey '
-- 'Qualitative analysis '
-- 'Public Discourse, Rhetorics, Communication '
-- 'Dataset, Data Mining '
-- 'Simulation / Modeling '
-- 'Innovation, R&D '
+  - 'Consumption and Production Patterns '
+  - 'Democracy, Civil Society, Governance '
+  - 'Public Health '
+  - 'Religions and Worldviews '
+  - 'Human Behaviours, Social Relations '
+  - 'Risks, Crisis Management '
+  - 'Digital Humanities '
+  - 'Public Policy, Evaluation, Impact '
+  - 'Equality & Diversity Studies '
+  - 'Quantitative survey '
+  - 'Qualitative analysis '
+  - 'Public Discourse, Rhetorics, Communication '
+  - 'Dataset, Data Mining '
+  - 'Simulation / Modeling '
+  - 'Innovation, R&D '
 date: 2021-08-31T22:00:35.000+00:00
 language: English
+doi: '169059797'
 published: true
 article_title: COVID-19 Vaccination Resistance
 authors:
-- firstname: 'Aurélie  '
-  lastname: Louchart
-  titles_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-abstract: "People who are reluctant to vaccinate have often been portrayed  as conspiracists
+  - firstname: 'Aurélie  '
+    lastname: Louchart
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+abstract:
+  "People who are reluctant to vaccinate have often been portrayed  as conspiracists
   in the media. Is this an anecdotal evidence ? A stable correlation ?\nResearch in
   the humanities and social sciences has looked into this question. It has also studied
   how people relate to Covid-19 vaccination: do undecided people change their minds
@@ -46,15 +48,15 @@ abstract: "People who are reluctant to vaccinate have often been portrayed  as c
   nudge vaccine uptake? What makes vaccine mistrust fade away? \nMemorandum 13 : overview
   of the studies and projects registered on WPRN database\nThis article was originally
   published in French."
-picture: "/1f96806f-d2b5-44b3-ac16-323501831870.jpeg"
+picture: '/1f96806f-d2b5-44b3-ac16-323501831870.jpeg'
 picture_copyright: ''
 yt: ''
 highlight: true
-bibliography: "/bibliography/documents-exportes_memo13.bib"
+bibliography: '/bibliography/documents-exportes_memo13.bib'
 custom_pdf: ''
 disciplines: ''
-
 ---
+
 People who are reluctant to vaccinate have often been portrayed as conspiracists in the media. Is this anecdotal evidence? A stable correlation? Research in humanities and social sciences has looked into this question. It has also studied how people relate to Covid-19 vaccination: do undecided people change their minds over time? What policies are likely to drive them away from vaccination? Is the obligation to show a vaccination certificate to access public spaces effective to nudge vaccine uptake? What makes vaccine mistrust fade away?
 
 ### Conspiracy mentality correlated with anti-vaccine positions
@@ -77,7 +79,7 @@ In some cases, a prior distrust of vaccination for non-conspiratorial reasons (r
 
 ### The majority of reluctant people are concerned about vaccine safety
 
-Indeed, a [study](https://wprn.org/item/489852) conducted by the University of Southern California tells us that only 6% of people who are reluctant to be vaccinated against COVID-19  have this inclination because of antivax positions. What is the main reason explaining vaccine hesitation? Doubts about the safety of the vaccine. Half of the respondents who were reluctant to be vaccinated indicated that they were concerned that the COVID-19 vaccine was not safe (40% of «maybes», 68% of refusals). This U.S. population-based study also observes that other reasons for distrusting or rejecting the vaccine vary by group: fear that the vaccine is too expensive for 24% of racialized respondents and 16% of whites; carelessness about SARS-Cov-2 among 27% of white respondents versus 14% of racialized people.
+Indeed, a [study](https://wprn.org/item/489852) conducted by the University of Southern California tells us that only 6% of people who are reluctant to be vaccinated against COVID-19 have this inclination because of antivax positions. What is the main reason explaining vaccine hesitation? Doubts about the safety of the vaccine. Half of the respondents who were reluctant to be vaccinated indicated that they were concerned that the COVID-19 vaccine was not safe (40% of «maybes», 68% of refusals). This U.S. population-based study also observes that other reasons for distrusting or rejecting the vaccine vary by group: fear that the vaccine is too expensive for 24% of racialized respondents and 16% of whites; carelessness about SARS-Cov-2 among 27% of white respondents versus 14% of racialized people.
 
 ### Inform without persuading
 
@@ -111,45 +113,45 @@ Many other vaccines and pandemic related to issues are investigated by research 
 
 This memorandum is based on resources from the World Pandemic Research Network.
 
-Daniel Allington, Siobhan McAndrew, “Conspiracism, anti-vaccination attitudes and hesitancy regarding a future COVID-19 vaccine” [https://wprn.org/item/477652](https://wprn.org/item/477652 "https://wprn.org/item/477652")  
+Daniel Allington, Siobhan McAndrew, “Conspiracism, anti-vaccination attitudes and hesitancy regarding a future COVID-19 vaccine” [https://wprn.org/item/477652](https://wprn.org/item/477652 'https://wprn.org/item/477652')  
 A qualitative survey on the effect of social media consumption on perceptions of the seriousness of the pandemic, conspiracism, and intentions towards a future vaccine. It was conducted by King’s College London and the University of Bristol on a panel of 2,800 British and American respondents.
 
-Paul Bertin, “Predicting and correcting the influence of COVID-19 and pro- chloroquine conspiracy theories on COVID-19 vaccination intentions” [https://wprn.org/item/410052](https://wprn.org/item/410052 "https://wprn.org/item/410052")  
+Paul Bertin, “Predicting and correcting the influence of COVID-19 and pro- chloroquine conspiracy theories on COVID-19 vaccination intentions” [https://wprn.org/item/410052](https://wprn.org/item/410052 'https://wprn.org/item/410052')  
 This research conducted by the Université de la Côte d’Azur explored whether conspiracy theories about COVID-19 and pro-chloroquine theories could influence vaccination intention. In a forthcoming part of the study, it will experimentally test two means to reduce beliefs in these conspiracy theories to restore vaccination intention.
 
-David Comerford, “Repeated cross-section tracking UK vaccine hesitancy in response to news on risks” [https://wprn.org/item/521852](https://wprn.org/item/521852 "https://wprn.org/item/521852")  
+David Comerford, “Repeated cross-section tracking UK vaccine hesitancy in response to news on risks” [https://wprn.org/item/521852](https://wprn.org/item/521852 'https://wprn.org/item/521852')  
 This cross-sectional survey by researchers at the University of Stirling examines the vaccination intentions of a representative sample of UK residents before and after several countries suspended the use of the AstraZeneca vaccine (due to blood clot deaths). Their data shows no decrease in vaccination intentions in the UK.
 
 Mark Findlay “COVID-19 Vaccine Research, Development, Regulation and Access”  
- [https://wprn.org/item/483352](https://wprn.org/item/483352 "https://wprn.org/item/483352")  
+ [https://wprn.org/item/483352](https://wprn.org/item/483352 'https://wprn.org/item/483352')  
 This brief review conducted at Singapore Management University looks at the COVID-19 vaccine through the lens of intellectual property regimes. Will substantial intellectual property rights be to blame if access to the vaccine is restricted?
 
-Aram Grigoryan, «Effective, Fair and Equitable Pandemic Rationing” [https://wprn.org/item/400752](https://wprn.org/item/400752 "https://wprn.org/item/400752")  
+Aram Grigoryan, «Effective, Fair and Equitable Pandemic Rationing” [https://wprn.org/item/400752](https://wprn.org/item/400752 'https://wprn.org/item/400752')  
 Duke University offers algorithms that optimize vaccine allocation to make it as fair, equitable, and efficient as possible. Simulations show that the efficiency gains from optimization are substantial. It answers the question «who gets what vaccine?» and not just «who gets a vaccine?»
 
 Nicolas Duquette,“Heard immunity: effective persuasion for a future COVID-19 vaccine”  
- [https://wprn.org/item/489852](https://wprn.org/item/489852 "https://wprn.org/item/489852")  
+ [https://wprn.org/item/489852](https://wprn.org/item/489852 'https://wprn.org/item/489852')  
 The University of Southern California survey found that vaccination intentions varied widely by ethnicity: 75% of Asian, 54.5% of white, 52% of mixed race, and 48% of Latino respondents expressed an intention to vaccinate, compared to only 25% of black and 19% of American Indian respondents. Among respondents other than white, the intention to vaccinate is over 50% higher when the message emphasizes protecting others (rather than oneself).
 
-Felix Rebitschek, Mirjam Jenny, Christoph Wilhelm & Al., “HC-RKI Fact Boxes” [https://wprn.org/item/528452](https://wprn.org/item/528452 "https://wprn.org/item/528452")  
+Felix Rebitschek, Mirjam Jenny, Christoph Wilhelm & Al., “HC-RKI Fact Boxes” [https://wprn.org/item/528452](https://wprn.org/item/528452 'https://wprn.org/item/528452')  
 Applying the Harding Center’s research on transparent risk communication, these researchers from the University of Potsdam, the Robert Koch Institute, and the Max Planck Institute created fact boxes on the potential benefits and harms of mRNA-based vaccines against COVID-19.
 
 Adair Richards, “Ethical Guidelines for Deliberately Infecting Volunteers with COVID-19.”  
- [https://wprn.org/item/438952](https://wprn.org/item/438952 "https://wprn.org/item/438952")  
+ [https://wprn.org/item/438952](https://wprn.org/item/438952 'https://wprn.org/item/438952')  
 This article explores the ethical dimensions of human trials in developing vaccines or treatments for COVID-19. It discusses five potential objections: the risk of harm to participants, the risk that the research does not result in a usable vaccine, that it may be impossible for a person to truly give free and informed consent, the fact that such experiments may damage the reputation of research, and that such experiments may be the start of a slippery slope.
 
 Mahama Tawat, “Fake News and the COVID-19 Pandemic. A Study of Practices and Sociopolitical Implications in Cameroon”  
- [https://wprn.org/item/512852](https://wprn.org/item/512852 "https://wprn.org/item/512852")  
+ [https://wprn.org/item/512852](https://wprn.org/item/512852 'https://wprn.org/item/512852')  
  Using Cameroon as a case study, this article from the University of Montpellier examines «fake news» and its micro and macro socio-political implications for the vaccination campaign. Policy recommendations on the scientific, communication, and socio-political levels are provided.
 
 Joachim Waterschoot, Maarten Vansteenkiste, Sofie Morbée, “The Motivation barometer”  
- [https://wprn.org/item/528752](https://wprn.org/item/528752 "https://wprn.org/item/528752")  
+ [https://wprn.org/item/528752](https://wprn.org/item/528752 'https://wprn.org/item/528752')  
 The «Motivation Barometer» is a large-scale study monitoring the Belgian population’s motivation to adhere to anti-covid measures and their psychological well-being. Data has been collected from over 200,000 participants in the Flemish and Wallonian regions, with more than one year of daily and weekly measurements. Scientific articles and reports are published regularly based on the results. The project is conducted by the Developmental Psychology Research Group of Ghent University.
 
-Jack Zeng, Jason Pham, Jia Liu & Al. “Curated web tracker of global development of treatments and vaccines for COVID-19” [https://wprn.org/item/408452](https://wprn.org/item/408452 "https://wprn.org/item/408452")  
+Jack Zeng, Jason Pham, Jia Liu & Al. “Curated web tracker of global development of treatments and vaccines for COVID-19” [https://wprn.org/item/408452](https://wprn.org/item/408452 'https://wprn.org/item/408452')  
 Stanford University provides a tracker of COVID-19 treatments and vaccines in development. It gives progressive levels (raw clinical trials, drug and vaccine leads...) that can help decision-makers coordinate their efforts. Data come from clinicaltrials.gov, pubmed.gov, and drugbank.ca, among others. As of September 2021, it lists 331 treatments in clinical trials, 62 vaccines in clinical trials, and 5 FDA-approved vaccines.
 
-Iris Zezelj, «Irrational beliefs differentially predict adherence to guidelines and pseudoscientific practices during the COVID-19 pandemic» [https://wprn.org/item/441452](https://wprn.org/item/441452 "https://wprn.org/item/441452")  
-Researchers from the University of Belgrade examine whether irrational beliefs (conspiracy theory, overestimation of COVID-19 knowledge, type I cognitive error bias, and cognitive intuition) predict adherence to anti-COVID-19 measures, and pseudoscientific practices, and vaccine intention. 
+Iris Zezelj, «Irrational beliefs differentially predict adherence to guidelines and pseudoscientific practices during the COVID-19 pandemic» [https://wprn.org/item/441452](https://wprn.org/item/441452 'https://wprn.org/item/441452')  
+Researchers from the University of Belgrade examine whether irrational beliefs (conspiracy theory, overestimation of COVID-19 knowledge, type I cognitive error bias, and cognitive intuition) predict adherence to anti-COVID-19 measures, and pseudoscientific practices, and vaccine intention.
 
-Another Serbian study on this topic is also available on WPRN: Jasna Milosevic Dordevic, «Links between conspiracy beliefs, vaccine knowledge, and trust: Anti-vaccine behavior of Serbian adults» [https://wprn.org/item/535152.](https://wprn.org/item/535152. "https://wprn.org/item/535152.")
+Another Serbian study on this topic is also available on WPRN: Jasna Milosevic Dordevic, «Links between conspiracy beliefs, vaccine knowledge, and trust: Anti-vaccine behavior of Serbian adults» [https://wprn.org/item/535152.](https://wprn.org/item/535152. 'https://wprn.org/item/535152.')

@@ -8,6 +8,7 @@ keywords:
   - 'Public Policy, Evaluation, Impact '
 date: 2021-12-09T16:00:04.000+00:00
 language: English
+doi: '169059797'
 published: true
 article_title: 'Social Cohesion, Inequality, and the Pandemic: Lessons from Brazil'
 authors:

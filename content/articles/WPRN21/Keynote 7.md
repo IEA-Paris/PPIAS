@@ -9,6 +9,7 @@ keywords:
   - Language
 date: 2021-12-10T10:30:19.000+00:00
 language: English
+doi: '169059797'
 published: true
 article_title: Emotional responses to the pandemic through the lens of text data
 authors:
