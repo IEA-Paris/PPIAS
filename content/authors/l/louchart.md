@@ -1,26 +1,10 @@
 ---
 active: true
 articles:
-  - Memorandum 12
   - Memorandum 14
-  - Memorandum 13
-  - Memorandum_10
-categories:
-  - content/categories/WPRN.md
-  - []
-category:
-  - content/categories/WPRN.md
-createdAt: '2022-01-17T14:32:20.295Z'
-exerpt: >-
-  Diplômée d’une école de journalisme et d’un master de sciences politiques,
-  ancienne collaboratrice parlementaire, Aurélie Louchart coordonne la
-  publication d'un réseau de recherche en sciences humaines et sociale et a mis
-  au centre de son travail et de ses activités citoyennes la vulgarisation de
-  sujets complexes.
-firstname: Aurélie
+exerpt: ''
+firstname: 'Aurélie '
 issue:
-  - content/issues/10-12-2021.md
-  - content/issues/WPRN21.md
   - content/issues/WPRN.md
 language:
   - English
@@ -38,29 +22,8 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-tags:
-  - Agriculture
-  - Food environments
-  - Food security
-  - Nutrition
-  - ' Rural development'
-  - Sustainable development
-  - Cities, Mobility, Urban Planning
-  - 'Human Behaviours, Social Relations '
-  - 'Environmental change, Ecology '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Risks, Crisis Management '
-  - 'Religions and Worldviews '
-  - Consumption and Production Patterns
-  - Work, Welfare, Social protection
-titles_and_institutions:
-  - institution: IEA de Paris, France
+titles_and_institutions: []
 years:
-  - '2021'
-  - null
   - 2021
-  - 2022
 
 ---
-Diplômée d’une école de journalisme et d’un master de sciences politiques, ancienne collaboratrice parlementaire, Aurélie Louchart coordonne la publication d'un réseau de recherche en sciences humaines et sociale et a mis au centre de son travail et de ses activités citoyennes la vulgarisation de sujets complexes.

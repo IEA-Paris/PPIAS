@@ -6,7 +6,7 @@ keywords:
 - risk perception
 - social trust
 - socio-demographics
-date: 2022-05-01T16:10:47Z
+date: 2022-05-01T16:10:47.000+00:00
 language: English
 disciplines: ''
 published: true
@@ -103,7 +103,7 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: ''
+bibliography: "/documents-exportes_fp2.bib"
 
 ---
 ## 1. INTRODUCTION
