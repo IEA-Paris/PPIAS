@@ -6,8 +6,8 @@ highlight: false
 index: -1
 issue: content/issues/OML.md
 language: English
-doi: '169059797'
 picture: /1-cell_to_cell.jpg
 type: youtube
 years: 2021
+
 ---
