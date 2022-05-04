@@ -88,6 +88,13 @@ sections:
 - type: document
   path: translations/es.json
   label: Spanish
+- type: heading
+  label: Other
+- type: document
+  path: assets/data/disciplinesWikipedia.js
+  label: Disciplines
+  match: "**/*"
+  read_only: true
 upload_dir: static
 public_path: ''
 front_matter_path: ''
