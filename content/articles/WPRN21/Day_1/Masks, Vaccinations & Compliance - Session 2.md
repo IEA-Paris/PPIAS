@@ -144,7 +144,7 @@ picture: ''
 picture_copyright: ''
 yt: sdN3mZeQOgg
 highlight: false
-bibliography: '/documents-exportes_q-a2.bib'
+bibliography: '/bibliography/documents-exportes_q-a2.bib'
 
 custom_pdf: ''
 disciplines: ''

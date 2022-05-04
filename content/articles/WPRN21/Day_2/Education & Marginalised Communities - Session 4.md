@@ -130,7 +130,7 @@ picture: ''
 picture_copyright: ''
 yt: nskJV6c0vEU
 highlight: false
-bibliography: '/documents-exportes_q-a4.bib'
+bibliography: '/bibliography/documents-exportes_q-a4.bib'
 
 custom_pdf: ''
 disciplines: ''

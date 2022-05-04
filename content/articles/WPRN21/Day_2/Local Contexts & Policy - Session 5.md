@@ -176,7 +176,7 @@ picture: ''
 picture_copyright: ''
 yt: 5cyz4IOmbAs
 highlight: false
-bibliography: '/documents-exportes_q-a5.bib'
+bibliography: '/bibliography/documents-exportes_q-a5.bib'
 custom_pdf: ''
 disciplines: ''
 ---

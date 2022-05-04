@@ -52,8 +52,19 @@
             <span>Open in a new tab</span>
           </v-tooltip>
         </div>
-        <PageTitle :text="item.article_title" class="pa-6 ml-3">
-          <template v-if="item.authors.length">
+        <div class="d-flex align-center flex-column">
+          <div
+            class="page-title"
+            :class="$store.state.scrolled ? 'mb-9' : 'mb-6'"
+          >
+            {{ item.article_title }}
+          </div>
+          <template
+            v-if="item.authors.length"
+            class="text-body-1 mt-3 d-flex align-left"
+          >
+            <v-divider></v-divider>
+            <div class="overline">{{ $t('authors') }}</div>
             <v-btn
               x-large
               text
@@ -65,7 +76,9 @@
               <ArticleAuthorsString :authors="item.authors" full />
             </v-btn>
           </template>
-        </PageTitle>
+          <!--     <v-divider style="width: 120px"></v-divider>
+    <v-divider style="width: 120px" class="mt-1"></v-divider> -->
+        </div>
 
         <slot></slot>
       </v-card>

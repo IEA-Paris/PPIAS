@@ -1,37 +1,38 @@
 ---
 issue: content/issues/WPRN21.md
 keywords:
-- COVID-19
-- Public Policy
-- Employment
-- Employment Insurance
-- Universal Basic Income
+  - COVID-19
+  - Public Policy
+  - Employment
+  - Employment Insurance
+  - Universal Basic Income
 date: 2022-03-24T15:10:20.000+00:00
 language: English
 disciplines: ''
 published: true
 article_title: 'Tackling the COVID-19 pandemic : Lessons learned and paths forward'
 authors:
-- firstname: 'Phil '
-  lastname: Lord
-  titles_and_institutions:
-  - titles: []
-    institution: Bora Laskin Faculty of Law, Lakehead University
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
+  - firstname: 'Phil '
+    lastname: Lord
+    titles_and_institutions:
+      - titles: []
+        institution: Bora Laskin Faculty of Law, Lakehead University
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
 custom_pdf: ''
-abstract: This Research Note draws upon the paper I presented at the conference, published
+abstract:
+  This Research Note draws upon the paper I presented at the conference, published
   in the Manitoba Law Journal, to consider the persisting issues governments face
   as they continue to respond to the COVID-19 pandemic. It critically assesses the
   development of the responses discussed in our article, as well as the recommendations
@@ -40,9 +41,9 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: "/documents-exportes_rn1bib.bib"
-
+bibliography: '/bibliography/documents-exportes_rn1bib.bib'
 ---
+
 In April of 2020, my co-author and I did what I assume most sane people also did while subject to stay-at-home orders: we wrote a full-length law review article on government responses to the COVID-19 pandemic (@lord_tackling_2020). We drew from constantly changing, sometimes obscure, government websites. Programs were revised as quickly as they were announced and rolled out. We wrote our initial draft in just under two weeks, and we had to revise significant portions of it almost immediately, and subsequently when we received feedback from peer reviewers. Although we aggressively disseminated our draft on research repositories, the final, paginated version was only printed a full year later.
 
 I describe these circumstances to emphasise the challenges researchers faced in providing crucial input regarding pandemic responses. These challenges created significant barriers to research generation and dissemination, especially for early-career and pre-tenure academics, and yet more so for women and other historically marginalised groups (@lord_covid-19_2021; @blundell_covid-19_2020; @immel_unequal_2022). These groups disproportionately bore the impact of the pandemic.

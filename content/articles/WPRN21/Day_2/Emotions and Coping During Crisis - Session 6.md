@@ -228,7 +228,7 @@ picture: ''
 picture_copyright: ''
 yt: gG_XMS4xThY
 highlight: false
-bibliography: '/documents-exportes_q-a6.bib'
+bibliography: '/bibliography/documents-exportes_q-a6.bib'
 custom_pdf: ''
 disciplines: ''
 ---

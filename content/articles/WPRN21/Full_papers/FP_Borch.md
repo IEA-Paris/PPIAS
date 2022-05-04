@@ -1,114 +1,115 @@
 ---
 issue: content/issues/WPRN21.md
 keywords:
-- efficacy e-health
-- isolation
-- mental health apps
-- smartphone interventions
-- student wellbeing
+  - efficacy e-health
+  - isolation
+  - mental health apps
+  - smartphone interventions
+  - student wellbeing
 date: 2022-05-01T21:18:35Z
 language: English
 disciplines: ''
 published: true
 article_title: 'Mental health self-help apps for coping with COVID-19 : Lessons learnt'
 authors:
-- firstname: 'Gerit '
-  lastname: Pfuhl
-  titles_and_institutions:
-  - titles: []
-    institution: UiT, The Arctic University of Norway, Norway
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: 'Katrine Jonna '
-  lastname: Diab
-  titles_and_institutions:
-  - titles: []
-    institution: UiT, The Arctic University of Norway, Norway
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: 'Sarah '
-  lastname: Cook
-  titles_and_institutions:
-  - titles: []
-    institution: Imperial College London, United Kingdom
-  - titles:
-    - ''
-    institution: London School of Hygiene & Tropical Medicine, United Kingdom
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: 'Sunday Oluwafemi '
-  lastname: Oyeyemi
-  titles_and_institutions:
-  - titles: []
-    institution: UiT, The Arctic University of Norway, Norway
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: 'Kristin Benjaminsen '
-  lastname: Borch
-  titles_and_institutions:
-  - titles: []
-    institution: ''
-  - titles: []
-    institution: UiT, The Arctic University of Norway, Norway
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
+  - firstname: 'Gerit '
+    lastname: Pfuhl
+    titles_and_institutions:
+      - titles: []
+        institution: UiT, The Arctic University of Norway, Norway
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: 'Katrine Jonna '
+    lastname: Diab
+    titles_and_institutions:
+      - titles: []
+        institution: UiT, The Arctic University of Norway, Norway
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: 'Sarah '
+    lastname: Cook
+    titles_and_institutions:
+      - titles: []
+        institution: Imperial College London, United Kingdom
+      - titles:
+          - ''
+        institution: London School of Hygiene & Tropical Medicine, United Kingdom
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: 'Sunday Oluwafemi '
+    lastname: Oyeyemi
+    titles_and_institutions:
+      - titles: []
+        institution: UiT, The Arctic University of Norway, Norway
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: 'Kristin Benjaminsen '
+    lastname: Borch
+    titles_and_institutions:
+      - titles: []
+        institution: ''
+      - titles: []
+        institution: UiT, The Arctic University of Norway, Norway
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
 custom_pdf: ''
-abstract: 'The current worldwide COVID-19 pandemic situation increases feelings of
+abstract:
+  'The current worldwide COVID-19 pandemic situation increases feelings of
   isolation and worry. The increase in mental problems during a pandemic unveils the
   already limited capacity of therapists and clinics. Preliminary evidence indicates
   that smartphone-based interventions could complement face-to-face therapies. However,
@@ -127,9 +128,9 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: "/documents-exportes_fp3.bib"
-
+bibliography: '/bibliography/documents-exportes_fp3.bib'
 ---
+
 ## 1. INTRODUCTION
 
 Depressive symptoms are common among students (@knapstad_studentenes_2018), with many individuals remaining untreated (@kazdin_addressing_2017). The worldwide COVID-19 pandemic situation increases feelings of isolation and worry (@maekelae_perceived_2020). The increase in mental problems during a pandemic unveils the already limited capacity of therapists and clinics. Furthermore, geographical restrictions and factors related to the individuals in need of help (e.g., fear of stigmatisation, restricted mobility because of physical conditions or apathy can delay treatment (@kohn_treatment_2004; @mohr_perceived_2010).
@@ -154,7 +155,7 @@ Study participants were university students at UiT, The Arctic University of Nor
 
 ![](/fp_32.png)
 
-Figure 1: Mental self-help apps provided to study participants; Top row: Screenshot of how the MCT & More app (recently renamed as COGITO) was presented in the Google Play Store, English version shown (download link:[ ](https://play.google.com/store/apps/details?id=de.uke.cogitoapp&hl=en&gl=US)[https://play.google.com/store/apps/details?id=de.uke.cogitoapp&hl=en&gl=US](https://play.google.com/store/apps/details?id=de.uke.cogitoapp&hl=en&gl=US "https://play.google.com/store/apps/details?id=de.uke.cogitoapp&hl=en&gl=US")). Bottom row: screenshot of the SMART app (SMART stands for Stress mastering activities for robustness training), Norwegian version shown (download link:[ ](https://play.google.com/store/apps/details?id=no.automagi.smart.v2)[https://play.google.com/store/apps/details?id=no.automagi.smart.v2](https://play.google.com/store/apps/details?id=no.automagi.smart.v2 "https://play.google.com/store/apps/details?id=no.automagi.smart.v2")).
+Figure 1: Mental self-help apps provided to study participants; Top row: Screenshot of how the MCT & More app (recently renamed as COGITO) was presented in the Google Play Store, English version shown (download link:[ ](https://play.google.com/store/apps/details?id=de.uke.cogitoapp&hl=en&gl=US)[https://play.google.com/store/apps/details?id=de.uke.cogitoapp&hl=en&gl=US](https://play.google.com/store/apps/details?id=de.uke.cogitoapp&hl=en&gl=US 'https://play.google.com/store/apps/details?id=de.uke.cogitoapp&hl=en&gl=US')). Bottom row: screenshot of the SMART app (SMART stands for Stress mastering activities for robustness training), Norwegian version shown (download link:[ ](https://play.google.com/store/apps/details?id=no.automagi.smart.v2)[https://play.google.com/store/apps/details?id=no.automagi.smart.v2](https://play.google.com/store/apps/details?id=no.automagi.smart.v2 'https://play.google.com/store/apps/details?id=no.automagi.smart.v2')).
 
 ### 2.1 Intervention
 

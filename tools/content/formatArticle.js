@@ -10,6 +10,11 @@ const fs = require('fs')
 export default (document, database) => {
   const chalk = require('chalk')
   if (document.dir.startsWith('/articles') && document.published) {
+    document.issueIndex = document.issue?.length
+      ? filters.articles.filters.issue.items.indexOf(
+          document.issue.slice(15, -3)
+        )
+      : -1
     // generate bibliography if required
     if (document.bibliography?.length) {
       try {
@@ -19,6 +24,59 @@ export default (document, database) => {
         )
         // TODO handle other formats for biblio such as json
         const cites = new Citation(data)
+        const styles = ['apa', 'vanvouver', 'harvard1']
+        const date = new Date(document.createdAt).toLocaleDateString('EN', {
+          timezone: 'UTC',
+        })
+        // make a CSL-json like object
+        const docData = {
+          abstract:
+            insertReferences(document.abstract, document.bibliography) ||
+            'No description provided',
+          type: 'article-journal',
+          keywords: document.tags || [],
+          // TODO references: add .bib file extract
+          // TODO conference_url: TO BE COMPLETED
+          language: document.language || 'en',
+          ISSN: env?.config?.ISSN || false, // TODO replace by value from config file
+          URL: 'https://paris.pias.science/articles/' + document.slug, // TODO replace URL by value from config file
+          'container-title':
+            'Proceedings of the Paris Institute for Advanced Study', // TODO update for other platforms
+          volume: document.issueIndex,
+          DOI: document.doi || false,
+          accessed: {
+            'date-parts': [new Date().toISOString()],
+          },
+          issued: {
+            'date-parts': [date],
+          },
+          month: new Date(document.createdAt).toLocaleString('en-US', {
+            month: 'short',
+          }),
+          year: new Date(document.createdAt).getFullYear(),
+          title: document.article_title,
+          author: document.authors.map((item) => {
+            // TODO include all title & institution info
+            return {
+              name: item.lastname + ', ' + item.firstname,
+              ...(item.titles_and_institutions &&
+                item.titles_and_institutions[0] &&
+                item.titles_and_institutions[0].institution && {
+                  affiliation: item.titles_and_institutions[0].institution,
+                }),
+              ...(item?.orcid_id && { orcid: item?.orcid_id }),
+            }
+          }),
+        }
+        document.toCite = styles.map((style) => {
+          const obj = new Citation(docData).format('bibliography', {
+            format: 'text',
+            template: style,
+            lang: 'en-US',
+          })
+          return obj
+        })
+        console.log('document.toCite: ', document.toCite)
         document.bibliography = cites.data.map((item) => {
           return {
             ...item,
@@ -60,11 +118,7 @@ export default (document, database) => {
     let count = 0
     /*   */
     // we use the issue filter (already sorted by date) to set an index for the fetch of the view by issue
-    document.issueIndex = document.issue?.length
-      ? filters.articles.filters.issue.items.indexOf(
-          document.issue.slice(15, -3)
-        )
-      : -1
+
     document.footnotes = []
     document.media = []
     document.years =
@@ -196,7 +250,6 @@ export default (document, database) => {
           : child
       }
     })
-    // insert Bibliographical references
 
     // replace legacy toc
     document.toc = [

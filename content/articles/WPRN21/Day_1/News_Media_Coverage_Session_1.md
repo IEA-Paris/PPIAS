@@ -1,92 +1,93 @@
 ---
 issue: content/issues/WPRN21.md
 keywords:
-- 'Public Discourse, Rhetorics, Communication '
-- 'Migrations and Diasporas '
-- 'Culture and The Arts '
-- Digital Humanities
-- Human Behaviours, Social Relations
-- 'Dataset, Data Mining '
-- 'Quantitative survey '
-- 'Policy Document '
+  - 'Public Discourse, Rhetorics, Communication '
+  - 'Migrations and Diasporas '
+  - 'Culture and The Arts '
+  - Digital Humanities
+  - Human Behaviours, Social Relations
+  - 'Dataset, Data Mining '
+  - 'Quantitative survey '
+  - 'Policy Document '
 date: 2021-12-09T10:30:42.000+00:00
 language: English
 published: false
 article_title: News and Media Coverage - Q&A session
 authors:
-- lastname: 'Caporali '
-  firstname: Arianna
-  titles_and_institutions:
-  - titles: []
-    institution: Institut national d'études démographiques (INED), France
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: " Muneo "
-  lastname: Kaigo
-  titles_and_institutions:
-  - titles: []
-    institution: University of Tsukuba, Japan
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: Concetta
-  lastname: Papapicco
-  titles_and_institutions:
-  - titles: []
-    institution: University of Bari "Aldo Moro", Italy
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: " Angeliki"
-  lastname: Monnier
-  titles_and_institutions:
-  - titles: []
-    institution: Université de Lorraine, Crem, France
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-abstract: Perhaps the most immediate and intimate way people around the globe have
+  - lastname: 'Caporali '
+    firstname: Arianna
+    titles_and_institutions:
+      - titles: []
+        institution: Institut national d'études démographiques (INED), France
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: ' Muneo '
+    lastname: Kaigo
+    titles_and_institutions:
+      - titles: []
+        institution: University of Tsukuba, Japan
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: Concetta
+    lastname: Papapicco
+    titles_and_institutions:
+      - titles: []
+        institution: University of Bari "Aldo Moro", Italy
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: ' Angeliki'
+    lastname: Monnier
+    titles_and_institutions:
+      - titles: []
+        institution: Université de Lorraine, Crem, France
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+abstract:
+  Perhaps the most immediate and intimate way people around the globe have
   been ‘in touch’ with the Covid-19 Pandemic has been through the media. While life
   almost came to a standstill outside of our homes when one country after the other
   entered into lockdown, the pace of media reporting and discussions on the internet
@@ -107,9 +108,9 @@ picture: ''
 picture_copyright: ''
 yt: YQ3cIqOOn_g
 highlight: false
-bibliography: "/documents-exportes_q-a1bib.bib"
-
+bibliography: '/bibliography/documents-exportes_q-a1bib.bib'
 ---
+
 This Q&A session on the theme "News and Media coverage" during WPRN 21 conference in Paris on December 9th 2021 is based on 4 projects registered in the WPRN database.
 
 <Youtube yt="YQ3cIqOOn_g" caption ="Q&A session News & Media Coverage"></Youtube>
