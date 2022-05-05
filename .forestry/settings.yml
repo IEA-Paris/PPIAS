@@ -93,7 +93,6 @@ sections:
 - type: document
   path: assets/data/disciplinesWikipedia.js
   label: Disciplines
-  match: "**/*"
   read_only: true
 upload_dir: static
 public_path: ''
