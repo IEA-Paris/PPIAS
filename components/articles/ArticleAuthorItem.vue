@@ -8,7 +8,15 @@
       <v-icon>mdi-account-outline</v-icon>
     </v-list-item-icon>
     <v-list-item-content>
-      <v-list-item-title v-html="formatAuthorsProxy()"> </v-list-item-title>
+      <v-list-item-title>
+        <AuthorOrcidIdBadge
+          v-if="item.social_channels.orcid_id"
+          :orcid="item.social_channels.orcid_id"
+        ></AuthorOrcidIdBadge>
+        <span v-html="formatAuthorsProxy()[0]"></span>
+      </v-list-item-title>
+      <v-list-item-subtitle v-html="formatAuthorsProxy()[1]">
+      </v-list-item-subtitle>
     </v-list-item-content>
   </v-list-item>
 </template>
@@ -30,10 +38,19 @@ export default {
   methods: {
     formatAuthorsProxy() {
       // TODO move the institution in v-list-subtitle
-      return highlight(
-        formatAuthors([this.item], this.$i18n.$t, true, false),
-        this.$store.state.articles.search || ''
-      )
+      return [
+        highlight(
+          formatAuthors([this.item], this.$i18n.$t, false, false),
+          this.$store.state.articles.search || ''
+        ),
+        highlight(
+          (this.item?.titles_and_institutions &&
+            this.item?.titles_and_institutions[0] &&
+            this.item.titles_and_institutions[0]?.institution) ||
+            '',
+          this.$store.state.articles.search || ''
+        ),
+      ]
     },
   },
 }

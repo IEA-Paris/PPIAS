@@ -7,12 +7,10 @@ export default {
   subtitle: 'Open source publishing platform for open science.',
   description: 'Open source publishing platform for open science.',
   splash_title: 'Open source publishing platform for open science.',
-  item_sg: 'Article',
-  item_pl: 'Articles',
   recaptcha: '6Lc_xuUUAAAAALwowUq0cC0wFtFnZ2NCi3UH4i1j',
-  graphqlEndpoint:
-    'https://mz3e6z5nlngvdls3zh3possona.appsync-api.eu-west-2.amazonaws.com/graphql',
-  graphqlApiKey: 'da2-eb5bkfhsvbdz3mexfykmkwjka4',
+  // graphqlEndpoint:
+  //   'https://mz3e6z5nlngvdls3zh3possona.appsync-api.eu-west-2.amazonaws.com/graphql',
+  // graphqlApiKey: 'da2-eb5bkfhsvbdz3mexfykmkwjka4',
   keywords: 'open source, open science, science, vuejs, nuxt, vuetify, vuex',
   url: 'https://paris.pias.science',
   lang: {
@@ -33,23 +31,6 @@ export default {
         dir: 'ltr',
       },
     ],
-  },
-  features: {
-    theme: true,
-    referents: true,
-    publicAlerts: true,
-    projectAlerts: true,
-  },
-  splash: {
-    colour1: '#2196f3',
-    colour2: '#144DDB',
-    count: 3,
-    dy: 0.05,
-    offset: 0.5,
-    opacity: 0.4,
-    peak: 4,
-    scale: 0.11,
-    speed: 0.05,
   },
   theme: {
     loading: 'red',
@@ -74,6 +55,9 @@ export default {
         success: colors.green.accent3,
       },
     },
+  },
+  identifier: {
+    ISSN: 'fgergsrg re',
   },
   modules: {
     sentry: {
@@ -101,6 +85,7 @@ export default {
     },
     bibliography: {
       defaultStyle: 'APA',
+      styles: [],
     },
   },
 }

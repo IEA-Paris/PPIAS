@@ -1,7 +1,9 @@
 <template>
   <v-card outlined class="px-3 pb-3" nuxt @click="$router.push(path)">
     <v-card-title>{{ issue.title }}</v-card-title>
-    <v-card-content v-if="issue.body.children.length">
+    <v-card-content
+      v-if="issue.body && issue.body.children && issue.body.children.length"
+    >
       <nuxt-content :document="issue" />
     </v-card-content>
     <v-card-actions v-if="total > 1 && !$route.name.startsWith('print')">

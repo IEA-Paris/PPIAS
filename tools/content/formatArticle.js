@@ -69,17 +69,26 @@ export default (document, database) => {
         const docData = {
           abstract: document.abstract,
 
-          type: 'article-journal',
+          type: 'article',
           keywords: document.tags || [],
           // TODO references: add .bib file extract
           // TODO conference_url: TO BE COMPLETED
           language: document.language || 'en',
-          ISSN: env?.config?.ISSN || false, // TODO replace by value from config file
-          URL: 'https://paris.pias.science/articles/' + document.slug, // TODO replace URL by value from config file
-          'container-title':
-            'Proceedings of the Paris Institute for Advanced Study', // TODO update for other platforms
-          volume: document.issueIndex,
-          DOI: document.doi || false,
+          journal: {
+            name: 'Proceedings of the Paris Institute for Advanced Study',
+            volume: document.issueIndex,
+            identifier: [
+              {
+                id: env?.config?.ISSN || false, // TODO replace by value from config file,
+                type: 'issn',
+              },
+            ],
+          },
+          // TODO update for other platforms
+          identifier: [{ type: 'doi', id: document.doi }],
+          link: [
+            { url: 'https://paris.pias.science/articles/' + document.slug },
+          ], // TODO make from dyynamic platform name
           accessed: {
             'date-parts': [new Date().toISOString()],
           },
@@ -95,6 +104,9 @@ export default (document, database) => {
             // TODO include all title & institution info
             return {
               name: item.lastname + ', ' + item.firstname,
+              firstname: item.firstname,
+              lastname: item.lastname,
+              id: item.lastname,
               ...(item.titles_and_institutions &&
                 item.titles_and_institutions[0] &&
                 item.titles_and_institutions[0].institution && {
@@ -103,15 +115,25 @@ export default (document, database) => {
               ...(item?.orcid_id && { orcid: item?.orcid_id }),
             }
           }),
+          license: [
+            {
+              type: 'copyheart',
+              url: 'http://copyheart.org/manifesto/',
+              description: 'A great license',
+              jurisdiction: 'universal',
+            },
+          ],
         }
-        document.toCite = styles.map((style) => {
-          const obj = new Citation(docData).format('bibliography', {
-            format: 'text',
-            template: style,
-            lang: 'en-US',
+        document.toCite = styles
+          .map((style) => {
+            const obj = new Citation(docData).format('bibliography', {
+              format: 'text',
+              template: style,
+              lang: 'en-US',
+            })
+            return { [style]: obj }
           })
-          return obj
-        })
+          .reduce((rst, tick) => Object.assign(rst, tick), {})
       } catch (err) {
         console.error(err)
       }

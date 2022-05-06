@@ -74,6 +74,8 @@
               v-html="formatAuthorsProxy()"
             >
             </v-btn>
+            <v-divider></v-divider
+            ><ArticleCiteWidget :to-cite="item.toCite"></ArticleCiteWidget>
           </template>
           <!--     <v-divider style="width: 120px"></v-divider>
     <v-divider style="width: 120px" class="mt-1"></v-divider> -->

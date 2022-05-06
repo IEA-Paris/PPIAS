@@ -4,10 +4,9 @@
       <v-tooltip bottom>
         <template #activator="{ on: tooltip }">
           <v-btn
-            x-large
             tile
             icon
-            v-bind="attrs"
+            v-bind="{ ...attrs, ...$attrs }"
             :class="{
               'mt-3': $vuetify.breakpoint.xs,
             }"
@@ -25,11 +24,15 @@
     </template>
     <v-list>
       <v-subheader>{{ $t('bibliographical-style-0') }} </v-subheader>
-      <template v-for="(item, index) in items">
-        <v-list-item :key="index" @click="$store.commit('setStyle', item)">
-          <v-list-item-title>{{ $t(item) }}</v-list-item-title>
-        </v-list-item>
-      </template>
+      <v-list-item
+        v-for="(item, index) in items"
+        :key="index"
+        :value="item"
+        :class="{ 'font-weight-bold': $store.state.articles.style === item }"
+        @click="$store.commit('setStyle', item)"
+      >
+        <v-list-item-title>{{ $t(item) }}</v-list-item-title>
+      </v-list-item>
     </v-list>
   </v-menu>
 </template>

@@ -515,5 +515,9 @@
   "no-editorial-available-for-this-issue": "No editorial available for this issue",
   "show-the-table-of-content": "Show the table of content",
   "publication-date-0": "Publication date: {0}",
-  "themes": "Themes"
+  "themes": "Themes",
+  "copy-to-clipboard": "Copy to clipboard",
+  "misc": {
+    "copyToClipboard": "Copy to clipboard"
+  }
 }
