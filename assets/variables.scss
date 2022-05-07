@@ -1,8 +1,12 @@
 // Ref: https://github.com/nuxt-community/vuetify-module#customvariables
 //
-html,
-body {
-  overflow-x: hidden;
+@import '~vuetify/src/styles/settings/_variables';
+
+@media #{map-get($display-breakpoints, 'xs-only')} {
+  html,
+  body {
+    overflow-x: hidden;
+  }
 }
 // The variables you want to modify
 // $font-size-root: 20px;
