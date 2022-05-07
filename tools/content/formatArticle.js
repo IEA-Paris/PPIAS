@@ -17,20 +17,19 @@ export default (document, database) => {
         )
       : -1
     // generate bibliography if required
-    if (document.bibliography?.length) {
-      try {
+    try {
+      // TODO handle other formats for biblio such as json
+      const styles = ['apa', 'vanvouver', 'harvard1']
+      const date = new Date(document.createdAt).toLocaleDateString('EN', {
+        timezone: 'UTC',
+      })
+      let cites
+      if (document.bibliography?.length) {
         const data = fs.readFileSync(
           './static/' + document.bibliography,
           'utf8'
         )
-
-        // TODO handle other formats for biblio such as json
-        const cites = new Citation(data)
-        const styles = ['apa', 'vanvouver', 'harvard1']
-        const date = new Date(document.createdAt).toLocaleDateString('EN', {
-          timezone: 'UTC',
-        })
-
+        cites = new Citation(data)
         document.bibliography = cites.data.map((item) => {
           return {
             ...item,
@@ -61,82 +60,95 @@ export default (document, database) => {
             }),
           }
         })
-        document.abstract = insertReferencesInAbstract(
-          document.abstract,
-          document.bibliography
-        )
-        // make a CSL-json like object
-        const docData = {
-          abstract: document.abstract,
+      }
 
-          type: 'article',
-          keywords: document.tags || [],
-          // TODO references: add .bib file extract
-          // TODO conference_url: TO BE COMPLETED
-          language: document.language || 'en',
-          journal: {
-            name: 'Proceedings of the Paris Institute for Advanced Study',
-            volume: document.issueIndex,
-            identifier: [
-              {
-                id: env?.config?.ISSN || false, // TODO replace by value from config file,
-                type: 'issn',
-              },
-            ],
-          },
-          // TODO update for other platforms
-          identifier: [{ type: 'doi', id: document.doi }],
-          link: [
-            { url: 'https://paris.pias.science/articles/' + document.slug },
-          ], // TODO make from dyynamic platform name
-          accessed: {
-            'date-parts': [new Date().toISOString()],
-          },
-          issued: {
-            'date-parts': [date],
-          },
-          month: new Date(document.createdAt).toLocaleString('en-US', {
-            month: 'short',
-          }),
-          year: new Date(document.createdAt).getFullYear(),
-          title: document.article_title,
-          author: document.authors.map((item) => {
-            // TODO include all title & institution info
-            return {
-              name: item.lastname + ', ' + item.firstname,
-              firstname: item.firstname,
-              lastname: item.lastname,
-              id: item.lastname,
-              ...(item.titles_and_institutions &&
-                item.titles_and_institutions[0] &&
-                item.titles_and_institutions[0].institution && {
-                  affiliation: item.titles_and_institutions[0].institution,
-                }),
-              ...(item?.orcid_id && { orcid: item?.orcid_id }),
-            }
-          }),
-          license: [
+      document.abstract = insertReferencesInAbstract(
+        document.abstract,
+        document.bibliography
+      )
+      // make a CSL-json like object
+      const docData = {
+        abstract: document.abstract,
+        address: 'PARIS', // TODO update with other IAS/journals city
+        type: 'article',
+        keywords: document.tags || [],
+        // TODO references: add .bib file extract
+        reference: cites ? cites.data : [],
+        // TODO conference_url: TO BE COMPLETED
+        language: document.language || 'en',
+        journal: {
+          name: 'Proceedings of the Paris Institute for Advanced Study',
+          issue: document.issueIndex,
+          volume: document.issueIndex,
+          identifier: [
             {
-              type: 'copyheart',
-              url: 'http://copyheart.org/manifesto/',
-              description: 'A great license',
-              jurisdiction: 'universal',
+              id: env?.config?.ISSN || false, // TODO replace by value from config file,
+              type: 'issn',
             },
           ],
-        }
-        document.toCite = styles
-          .map((style) => {
-            const obj = new Citation(docData).format('bibliography', {
-              format: 'text',
-              template: style,
-              lang: 'en-US',
-            })
-            return { [style]: obj }
-          })
-          .reduce((rst, tick) => Object.assign(rst, tick), {})
-      } catch (err) {
-        console.error(err)
+        },
+        // TODO update for other platforms
+        identifier: [
+          {
+            type: 'DOI',
+            id: document.doi,
+            url: 'http://dx.doi.org/' + document.doi,
+          },
+        ],
+        link: [{ url: 'https://paris.pias.science/articles/' + document.slug }], // TODO make from dyynamic platform name
+        accessed: {
+          'date-parts': [new Date().toISOString()],
+        },
+        issued: {
+          'date-parts': [date],
+        },
+        month: new Date(document.createdAt).toLocaleString('en-US', {
+          month: 'short',
+        }),
+        year: new Date(document.createdAt).getFullYear(),
+        title: document.article_title,
+        author: document.authors.map((item) => {
+          // TODO include all title & institution info
+          return {
+            name: item.lastname + ', ' + item.firstname,
+            firstname: item.firstname,
+            lastname: item.lastname,
+            id: item.lastname,
+            ...(item.titles_and_institutions &&
+              item.titles_and_institutions[0] &&
+              item.titles_and_institutions[0].institution && {
+                affiliation: item.titles_and_institutions[0].institution,
+              }),
+            ...(item?.orcid_id && { orcid: item?.orcid_id }),
+          }
+        }),
+        license: [
+          {
+            type: 'copyheart',
+            url: 'http://copyheart.org/manifesto/',
+            description: 'A great license',
+            jurisdiction: 'universal',
+          },
+        ],
       }
+
+      document.toCite = styles
+        .map((style) => {
+          const obj = new Citation(docData).format('bibliography', {
+            format: 'text',
+            template: style,
+            lang: 'en-US',
+          })
+          return { [style]: obj }
+        })
+        .reduce((rst, tick) => Object.assign(rst, tick), {})
+      if (
+        document.article_title ===
+        'Closing Panel - Moving the discussion forward - lessons learned and next steps'
+      )
+        console.log('document.toCite: ', document.toCite)
+    } catch (err) {
+      console.error(err)
     }
 
     // let's make the DOI if it is not available

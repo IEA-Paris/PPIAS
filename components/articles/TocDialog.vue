@@ -45,8 +45,13 @@
           </div>
         </div>
       </v-app-bar>
-      <v-row align="center" justify="center">
-        <v-col cols="12" md="9" lg="6" class="">
+      <v-row align="center" justify="end">
+        <v-col
+          cols="12"
+          md="9"
+          lg="6"
+          :class="$vuetify.breakpoint.smAndUp ? 'mr-12' : ''"
+        >
           <Toc
             v-if="item.toc.length"
             max-width="100%"
