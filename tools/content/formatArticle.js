@@ -135,7 +135,7 @@ export default (document, database) => {
       document.toCite = styles
         .map((style) => {
           const obj = new Citation(docData).format('bibliography', {
-            format: 'text',
+            format: 'html',
             template: style,
             lang: 'en-US',
           })

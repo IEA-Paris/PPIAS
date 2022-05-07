@@ -1,14 +1,16 @@
 <template>
   <v-card class="pa-3 mt-3 ml-4" flat>
     <v-row no-gutters>
-      <v-col class="align-self-center">
+      <v-col cols="auto" class="mr-3">
         <v-icon small>mdi-format-quote-close</v-icon>
+      </v-col>
+      <v-col class="">
         <span
-          class="cite-text text-caption pr-3"
+          class="cite-text text-caption pr-3 d-inline"
           v-html="toCite[style === 'APA' ? 'apa' : style]"
         ></span>
       </v-col>
-      <v-col cols="auto" class="align-self-center mx-auto text-centered">
+      <v-col cols="auto" class="">
         <v-tooltip top>
           <template #activator="{ on }">
             <v-btn label small icon v-on="on" @click="copyToClipBoard()">
@@ -43,17 +45,11 @@ export default {
   methods: {
     async copyToClipBoard() {
       try {
-        console.log(
-          'this.toCite',
-          this.toCite[this.style === 'APA' ? 'apa' : this.style]
-        )
-        if (navigator && navigator.clipboard && navigator.clipboard.writeText)
-          console.log(
-            'this.toCite',
-            this.toCite[this.style === 'APA' ? 'apa' : this.style]
-          )
         await navigator.clipboard.writeText(
-          this.toCite[this.style === 'APA' ? 'apa' : this.style]
+          this.toCite[this.style === 'APA' ? 'apa' : this.style].replace(
+            /(<([^>]+)>)/gi,
+            ''
+          )
         )
       } catch (error) {
         console.log('error: ', error)
