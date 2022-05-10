@@ -69,34 +69,44 @@
                 <SortMenu :type="type"></SortMenu>
               </div>
               <div class="mr-4 text-subtitle-1 grey--text">
-                <template v-if="filtersCount && !(search && search.length)">
-                  {{ $t('searching') }}
-                </template>
-                <template v-if="search">
-                  {{ $t('searching-for-string', [search]) }}
-                </template>
-                <template v-if="filtersCount"
-                  >{{ $tc('with-activefilters-filters', [filtersCount]) }}
-                </template>
-                <!--  TODO add sort & view info -->
-                <!--            <template v-if="sortBy">
+                <v-skeleton-loader
+                  v-if="$store.state.loading"
+                  max-width="300"
+                  class="mb-1"
+                  type="text"
+                ></v-skeleton-loader>
+                <template v-else>
+                  <template v-if="filtersCount && !(search && search.length)">
+                    {{ $t('searching') }}
+                  </template>
+                  <template v-if="search">
+                    {{ $t('searching-for-string', [search]) }}
+                  </template>
+                  <template v-if="filtersCount"
+                    >{{ $tc('with-activefilters-filters', [filtersCount]) }}
+                  </template>
+                  <!--  TODO add sort & view info -->
+                  <!--            <template v-if="sortBy">
                   Sorted by {{$t(sortBy[0])}} ()
                </template> -->
-                <template v-if="filtersCount || search">- </template>
-                {{
-                  $tc('total-' + type, total) +
-                  ' - ' +
-                  $t('page-current-of-total', {
-                    current: page,
-                    total: numberOfPages,
-                  })
-                }}
-                <component
-                  :is="
-                    type.charAt(0).toUpperCase() + type.slice(1) + 'SearchHint'
-                  "
-                  outline
-                ></component>
+                  <template v-if="filtersCount || search">- </template>
+                  {{
+                    $tc('total-' + type, total) +
+                    ' - ' +
+                    $t('page-current-of-total', {
+                      current: page,
+                      total: numberOfPages,
+                    })
+                  }}
+                  <component
+                    :is="
+                      type.charAt(0).toUpperCase() +
+                      type.slice(1) +
+                      'SearchHint'
+                    "
+                    outline
+                  ></component>
+                </template>
               </div>
               <v-text-field
                 v-model.trim="search"

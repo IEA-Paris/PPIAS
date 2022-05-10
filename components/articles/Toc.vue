@@ -73,6 +73,8 @@
   </aside>
 </template>
 <script>
+import { nextTick } from 'process'
+
 export default {
   props: {
     toc: {
@@ -112,7 +114,8 @@ export default {
       ) {
         const currentRef = '#toc_' + this.activeToc
         this.scrolling = true
-        await this.$vuetify.goTo(currentRef, {
+
+        await this.$vuetify.goTo(CSS.escape(currentRef), {
           container: '#toc',
           offset: 100,
           easing: 'easeInOutQuint',
@@ -130,9 +133,13 @@ export default {
     },
     moveTo(selector) {
       this.$nextTick(() => {
-        this.$vuetify.goTo('#' + selector, { offset: 100 })
-        this.$router.replace({ hash: '#' + selector })
-        this.$emit('clickItem')
+        try {
+          this.$vuetify.goTo('#' + CSS.escape(selector), { offset: 100 })
+          this.$router.replace({ hash: '#' + CSS.escape(selector) })
+          this.$emit('clickItem', selector)
+        } catch (error) {
+          console.log('error: ', error)
+        }
       })
     },
   },

@@ -16,7 +16,6 @@ export default (document, database) => {
           document.issue.slice(15, -3)
         )
       : -1
-    // generate bibliography if required
     try {
       // TODO handle other formats for biblio such as json
       const styles = ['apa', 'vanvouver', 'harvard1']
@@ -24,6 +23,7 @@ export default (document, database) => {
         timezone: 'UTC',
       })
       let cites
+      // generate bibliography if required
       if (document.bibliography?.length) {
         const data = fs.readFileSync(
           './static/' + document.bibliography,
@@ -41,7 +41,7 @@ export default (document, database) => {
                 lang: 'en-US',
               })
               // To remove the parentheses
-              // TODO come up with a better way
+              // TODO come up with a better way (mb a CSL template w/out parenthesis)
               .slice(1, -1),
             APA: new Citation(item).format('bibliography', {
               format: 'html',
@@ -66,7 +66,7 @@ export default (document, database) => {
         document.abstract,
         document.bibliography
       )
-      // make a CSL-json like object
+      // make a json like object
       const docData = {
         abstract: document.abstract,
         address: 'PARIS', // TODO update with other IAS/journals city
@@ -142,11 +142,6 @@ export default (document, database) => {
           return { [style]: obj }
         })
         .reduce((rst, tick) => Object.assign(rst, tick), {})
-      if (
-        document.article_title ===
-        'Closing Panel - Moving the discussion forward - lessons learned and next steps'
-      )
-        console.log('document.toCite: ', document.toCite)
     } catch (err) {
       console.error(err)
     }
@@ -203,8 +198,13 @@ export default (document, database) => {
           }
         }
         // make the upgraded toc
-        const flag = ['h2', 'h3', 'youtube'].indexOf(child.tag)
-        if (flag >= 0) {
+        if (
+          document.article_title ===
+          'Mental health self-help apps for coping with COVID-19 : Lessons learnt'
+        )
+          console.log(child.tag)
+        const flag = ['h2', 'h3', 'youtube', 'img'].indexOf(child.tag)
+        if (flag >= 0 && flag < 3) {
           toc2.push({
             depth: flag + 2,
             id: child.props.id || 'youtube_' + document.media.length,
@@ -214,6 +214,7 @@ export default (document, database) => {
             isMedia: flag === 2,
           })
         }
+        // it's a youtube video
         if (flag === 2) {
           if (!document.media.find((item) => item.id === child.props.yt))
             document.media.push({
@@ -224,11 +225,20 @@ export default (document, database) => {
               caption: child.props.caption,
             })
         }
+        // it's an image
+        if (flag === 3) {
+          console.log('child: ', child)
+          document.images.push({
+            url: child.props.src,
+            title: child.props.title,
+          })
+        }
         return {
           type: 'element',
           tag: 'div',
           isHeading: ['h2', 'h3'].includes(child.tag),
           isMedia: ['youtube'].includes(child.tag),
+          isImage: ['img'].includes(child.tag),
           props: { class: 'node d-flex' },
           children: [
             {
@@ -269,8 +279,8 @@ export default (document, database) => {
               type: 'element',
               tag: 'div',
               props: {
-                class: [' ', ' ', '', '', 'youtube'][
-                  ['h2', 'h3', 'p', 'ul', 'youtube'].indexOf(child.tag)
+                class: [' ', ' ', '', '', 'youtube', ''][
+                  ['h2', 'h3', 'p', 'ul', 'youtube', 'img'].indexOf(child.tag)
                 ],
               },
               // insert Bibliographical references

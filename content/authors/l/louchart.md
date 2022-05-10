@@ -1,9 +1,9 @@
 ---
 active: true
 articles:
-  - Memorandum 13
+  - Memorandum 14
 exerpt: ''
-firstname: 'Aurélie  '
+firstname: 'Aurélie '
 issue:
   - content/issues/WPRN.md
 language:
@@ -24,6 +24,6 @@ social_channels:
   wikipedia: ''
 titles_and_institutions: []
 years:
-  - 2021
+  - 2022
 
 ---

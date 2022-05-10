@@ -11,7 +11,7 @@
       <v-divider></v-divider>
     </div>
     <v-card v-else nuxt :to="localePath('/authors/' + item.slug)" flat>
-      <v-row :class="{ 'mt-6': index > 0 }" no-gutters>
+      <v-row :class="{ 'mt-6': index > 0 }" class="ml-3" no-gutters>
         <v-col
           v-if="$vuetify.breakpoint.mdAndUp"
           cols="3"

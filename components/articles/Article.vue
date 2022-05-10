@@ -170,6 +170,7 @@
         :title="title ? false : item.article_title"
         :custom-pdf="item.custom_pdf"
         @close="toc = false"
+        @click="currentlyActiveToc = $event"
       />
     </v-col>
   </v-row>
@@ -204,6 +205,7 @@ export default {
       entries.forEach((entry) => {
         const id = entry.target.getAttribute('id')
         if (entry.isIntersecting) {
+          console.log('intersecting', id)
           this.currentlyActiveToc = id
         }
       })
