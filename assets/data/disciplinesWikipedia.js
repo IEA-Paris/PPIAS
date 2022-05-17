@@ -12,6 +12,7 @@ export default [
         level: 2,
         id: 'anthropology',
         value: 'Anthropology',
+        code: 0,
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/Anthropology" target="_blank">Anthropology</a> and <a href="https://en.wikipedia.org/wiki/Outline_of_anthropology" target="_blank">Outline of anthropology</a></p>',
         children: [
@@ -339,6 +340,7 @@ export default [
         level: 2,
         id: 'history',
         value: 'History',
+        code: 9,
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/History" target="_blank">History</a> and <a href="https://en.wikipedia.org/wiki/undefined" target="_blank">Branches of history</a></p>',
         children: [
@@ -514,6 +516,7 @@ export default [
         level: 2,
         id: 'linguistics-and-languages',
         value: 'Linguistics and languages',
+        code: 12,
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/undefined" target="_blank">Linguistics</a> and <a href="https://en.wikipedia.org/wiki/Outline_of_linguistics" target="_blank">Outline of linguistics</a>See also: <a href="https://en.wikipedia.org/wiki/Language" target="_blank">Language</a></p>',
         children: [
@@ -585,6 +588,7 @@ export default [
         level: 2,
         id: 'philosophy',
         value: 'Philosophy',
+        code: 14,
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/Philosophy" target="_blank">Philosophy</a> and <a href="https://en.wikipedia.org/wiki/Outline_of_philosophy" target="_blank">Outline of philosophy</a></p>',
         children: [
@@ -819,6 +823,7 @@ export default [
         level: 2,
         id: 'religion',
         value: 'Religion',
+        code: 17,
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/Religion" target="_blank">Religion</a>, <a href="https://en.wikipedia.org/wiki/Religious_studies" target="_blank">Religious studies</a>, and <a href="https://en.wikipedia.org/wiki/Outline_of_religion" target="_blank">Outline of religion</a>See also: <a href="https://en.wikipedia.org/wiki/List_of_religions_and_spiritual_traditions" target="_blank">List of religions and spiritual traditions</a></p>',
         children: [
@@ -1004,6 +1009,7 @@ export default [
             level: 3,
             id: 'literature',
             value: 'Literature',
+            code: 10,
             description:
               '<p>Main articles: <a href="https://en.wikipedia.org/wiki/Literature" target="_blank">Literature</a> and <a href="https://en.wikipedia.org/wiki/Outline_of_literature" target="_blank">Outline of literature</a></p>',
             children: [
@@ -1304,6 +1310,7 @@ export default [
         level: 2,
         id: 'economics',
         value: 'Economics',
+        code: 5,
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/Economics" target="_blank">Economics</a> and <a href="https://en.wikipedia.org/wiki/Outline_of_economics" target="_blank">Outline of economics</a></p>',
         children: [
@@ -1628,6 +1635,7 @@ export default [
             level: 3,
             id: 'gender-and-sexuality-studies',
             value: 'Gender and sexuality studies',
+            code: 7,
             description:
               '<p>Main article: <a href="https://en.wikipedia.org/wiki/Gender_studies" target="_blank">Gender studies</a></p>',
             children: [
@@ -1749,6 +1757,7 @@ export default [
         level: 2,
         id: 'political-science',
         value: 'Political science',
+        code: 15,
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/Politics" target="_blank">Politics</a>, <a href="https://en.wikipedia.org/wiki/Political_science" target="_blank">Political science</a>, and <a href="https://en.wikipedia.org/wiki/Outline_of_political_science" target="_blank">Outline of political science</a></p>',
         children: [
@@ -1808,6 +1817,7 @@ export default [
         level: 2,
         id: 'psychology',
         value: 'Psychology',
+        code: 16,
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/Psychology" target="_blank">Psychology</a>, <a href="https://en.wikipedia.org/wiki/Outline_of_psychology" target="_blank">Outline of psychology</a>, and <a href="https://en.wikipedia.org/wiki/List_of_psychology_disciplines" target="_blank">List of psychology disciplines</a>See also: <a href="https://en.wikipedia.org/wiki/undefined" target="_blank">Branches of psychology</a>, <a href="https://en.wikipedia.org/wiki/Cognitive_science" target="_blank">Cognitive science</a>, <a href="https://en.wikipedia.org/wiki/Affective_science" target="_blank">Affective science</a>, and <a href="https://en.wikipedia.org/wiki/Behavioural_sciences" target="_blank">Behavioural sciences</a></p>',
         children: [
@@ -1933,6 +1943,7 @@ export default [
         level: 2,
         id: 'sociology',
         value: 'Sociology',
+        code: 18,
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/Sociology" target="_blank">Sociology</a> and <a href="https://en.wikipedia.org/wiki/Outline_of_sociology" target="_blank">Outline of sociology</a></p>',
         children: [
@@ -1996,6 +2007,7 @@ export default [
           {
             href: 'Demography',
             value: 'Demography',
+            code: 3,
             related: [{ href: 'Population', value: 'Population' }],
           },
           { href: 'Digital_sociology', value: 'Digital sociology' },
@@ -2255,6 +2267,7 @@ export default [
         level: 2,
         id: 'biology',
         value: 'Biology',
+        code: 20,
         description:
           '<p>Main article: <a href="https://en.wikipedia.org/wiki/List_of_life_sciences" target="_blank">List of life sciences</a>See also: <a href="https://en.wikipedia.org/wiki/Biology" target="_blank">Biology</a> and <a href="https://en.wikipedia.org/wiki/Outline_of_biology" target="_blank">Outline of biology</a></p>',
         children: [
@@ -2525,6 +2538,7 @@ export default [
         level: 2,
         id: 'chemistry',
         value: 'Chemistry',
+        code: 21,
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/Chemistry" target="_blank">Chemistry</a> and <a href="https://en.wikipedia.org/wiki/Outline_of_chemistry" target="_blank">Outline of chemistry</a><br><b>[object Object],[object Object]</b></p>',
         children: [
@@ -2617,6 +2631,7 @@ export default [
         level: 2,
         id: 'earth-sciences',
         value: 'Earth sciences',
+        code: 23,
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/Earth_science" target="_blank">Earth science</a> and <a href="https://en.wikipedia.org/wiki/Outline_of_earth_science" target="_blank">Outline of earth science</a><br><b>[object Object],[object Object]</b></p>',
         children: [
@@ -2627,6 +2642,7 @@ export default [
           { href: 'Geobiology', value: 'Geobiology' },
           { href: 'Geodesy', value: 'Geodesy' },
           {
+            code: 8,
             href: 'Geography',
             value: 'Geography',
             outline: 'Outline_of_geography',
@@ -3339,6 +3355,7 @@ export default [
         level: 2,
         id: 'computer-sciences',
         value: 'Computer sciences',
+        code: 22,
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/Computer_science" target="_blank">Computer science</a> and <a href="https://en.wikipedia.org/wiki/Outline_of_computer_science" target="_blank">Outline of computer science</a>See also: <a href="https://en.wikipedia.org/wiki/ACM_Computing_Classification_System" target="_blank">ACM Computing Classification System</a><br><b>[object Object],[object Object]</b></p>',
         children: [
@@ -3558,6 +3575,7 @@ export default [
               {
                 href: 'Information_technology',
                 value: 'Information technology',
+                code: 27,
               },
               {
                 href: 'Knowledge_management',
@@ -3814,6 +3832,7 @@ export default [
         level: 2,
         id: 'mathematics',
         value: 'Mathematics',
+        code: 28,
         children: [
           {
             level: 3,
@@ -4265,7 +4284,9 @@ export default [
                   {
                     href: 'Biostatistics',
                     value: 'Biostatistics',
-                    children: [{ href: 'Epidemiology', value: 'Epidemiology' }],
+                    children: [
+                      { href: 'Epidemiology', value: 'Epidemiology', code: 26 },
+                    ],
                   },
                   {
                     href: 'Multivariate_analysis',
@@ -4316,6 +4337,7 @@ export default [
         level: 2,
         id: 'systems-science',
         value: 'Systems science',
+        code: 30,
         description:
           '<p>Main article: <a href="https://en.wikipedia.org/wiki/Systems_science" target="_blank">Systems science</a></p>',
         children: [
@@ -4534,6 +4556,7 @@ export default [
         level: 2,
         id: 'architecture-and-design',
         value: 'Architecture and design',
+        code: 4,
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/Architecture" target="_blank">Architecture</a>, <a href="https://en.wikipedia.org/wiki/Outline_of_architecture" target="_blank">Outline of architecture</a>, <a href="https://en.wikipedia.org/wiki/Design" target="_blank">Design</a>, <a href="https://en.wikipedia.org/wiki/Outline_of_design" target="_blank">Outline of design</a>, and <a href="https://en.wikipedia.org/wiki/Applied_arts" target="_blank">Applied arts</a></p>',
         children: [
@@ -4789,6 +4812,7 @@ export default [
         level: 2,
         id: 'education',
         value: 'Education',
+        code: 6,
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/Education" target="_blank">Education</a> and <a href="https://en.wikipedia.org/wiki/Outline_of_education" target="_blank">Outline of education</a></p>',
         children: [
@@ -4880,6 +4904,7 @@ export default [
         level: 2,
         id: 'engineering-and-technology',
         value: 'Engineering and technology',
+        code: 25,
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/Engineering" target="_blank">Engineering</a>, <a href="https://en.wikipedia.org/wiki/Outline_of_engineering" target="_blank">Outline of engineering</a>, <a href="https://en.wikipedia.org/wiki/Engineering_education" target="_blank">Engineering education</a>, <a href="https://en.wikipedia.org/wiki/Technology" target="_blank">Technology</a>, <a href="https://en.wikipedia.org/wiki/Outline_of_technology" target="_blank">Outline of technology</a>, and <a href="https://en.wikipedia.org/wiki/Technology_education" target="_blank">Technology education</a>See also: <a href="https://en.wikipedia.org/wiki/List_of_engineering_branches" target="_blank">List of engineering branches</a></p>',
         children: [
@@ -5139,6 +5164,7 @@ export default [
         level: 2,
         id: 'environmental-studies-and-forestry',
         value: 'Environmental studies and forestry',
+        code: 24,
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/Environmental_studies" target="_blank">Environmental studies</a>, <a href="https://en.wikipedia.org/wiki/Outline_of_environmental_studies" target="_blank">Outline of environmental studies</a>, and <a href="https://en.wikipedia.org/wiki/Forestry" target="_blank">Forestry</a></p>',
         children: [
@@ -5306,6 +5332,7 @@ export default [
       {
         level: 2,
         id: 'journalism-media-studies-and-communication',
+        code: 2,
         value: 'Journalism, media studies and communication',
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/Journalism" target="_blank">Journalism</a>, <a href="https://en.wikipedia.org/wiki/Media_studies" target="_blank">Media studies</a>, <a href="https://en.wikipedia.org/wiki/Communication" target="_blank">Communication</a>, <a href="https://en.wikipedia.org/wiki/Communication_studies" target="_blank">Communication studies</a>, and <a href="https://en.wikipedia.org/wiki/Outline_of_communication" target="_blank">Outline of communication</a></p>',
@@ -5427,6 +5454,7 @@ export default [
         level: 2,
         id: 'law',
         value: 'Law',
+        code: 11,
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/Law" target="_blank">Law</a> and <a href="https://en.wikipedia.org/wiki/Outline_of_law" target="_blank">Outline of law</a></p>',
         children: [
@@ -5700,6 +5728,7 @@ export default [
         level: 2,
         id: 'medicine',
         value: 'Medicine',
+        code: 29,
         description:
           '<p>Main articles: <a href="https://en.wikipedia.org/wiki/Medicine" target="_blank">Medicine</a>, <a href="https://en.wikipedia.org/wiki/Healthcare_science" target="_blank">Healthcare science</a>, <a href="https://en.wikipedia.org/wiki/Outline_of_health_sciences" target="_blank">Outline of health sciences</a>, and <a href="https://en.wikipedia.org/wiki/Biomedical_sciences" target="_blank">Biomedical sciences</a>See also: <a href="https://en.wikipedia.org/wiki/Outline_of_medicine" target="_blank">Outline of medicine</a> and <a href="https://en.wikipedia.org/wiki/Branches_of_medicine" target="_blank">Branches of medicine</a></p>',
         children: [
@@ -6199,6 +6228,7 @@ export default [
         level: 2,
         id: 'public-administration',
         value: 'Public administration',
+        code: 13,
         description:
           '<p>Main article: <a href="https://en.wikipedia.org/wiki/Public_administration" target="_blank">Public administration</a></p>',
         children: [
