@@ -93,7 +93,7 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: ''
+bibliography: "/documents-exportes_fp4.bib"
 doi: ''
 
 ---
