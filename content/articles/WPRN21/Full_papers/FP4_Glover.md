@@ -9,7 +9,7 @@ date: 2022-05-29T21:49:20Z
 language: English
 disciplines: ''
 needDOI: true
-published: false
+published: true
 article_title: 'Methodological difficulties of conducting cross-country quantitative
   research early in the COVID-19 pandemic: surveying changes in tobacco, alcohol and
   other substance use'
