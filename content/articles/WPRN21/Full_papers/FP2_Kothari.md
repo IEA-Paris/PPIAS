@@ -104,7 +104,7 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: "/documents-exportes_fp2.bib"
+bibliography: "/documents-exportes_fp2bis.bib"
 needDOI: false
 
 ---
