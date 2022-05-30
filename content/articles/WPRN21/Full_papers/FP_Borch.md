@@ -128,7 +128,7 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: "/bibliography/documents-exportes_fp3.bib"
+bibliography: "/documents-exportes_fp3b.bib"
 needDOI: false
 
 ---
