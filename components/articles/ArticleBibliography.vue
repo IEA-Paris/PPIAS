@@ -2,7 +2,7 @@
   <div>
     <v-list two-line>
       <v-list-item
-        v-for="ref in item.bibliography"
+        v-for="ref in bibliography"
         :key="ref.id"
         :to="ref.link ? '#blbb-' + ref.id : ''"
         nuxt
@@ -31,6 +31,11 @@ export default {
   computed: {
     style() {
       return this.$store.state.articles.style
+    },
+    bibliography() {
+      return this.item.bibliography
+        .slice()
+        .sort((a, b) => a[this.style].localeCompare(b[this.style]))
     },
   },
   mounted() {},
