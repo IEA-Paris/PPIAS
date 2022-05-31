@@ -1,4 +1,10 @@
 /* eslint-disable prettier/prettier */
+/* - create thematics & types object
+- iterate & fetch translations
+- produce lang files
+- create export service
+
+*/
 
 export default [
   {
@@ -4323,7 +4329,7 @@ export default [
                     ],
                   },
                   {
-                    href: 'Survey_(statistics)',
+                    href: 'Survey_methodology',
                     title: 'Survey (statistics)',
                     value: 'Survey methodology',
                   },

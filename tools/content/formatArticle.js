@@ -198,11 +198,7 @@ export default (document, database) => {
           }
         }
         // make the upgraded toc
-        if (
-          document.article_title ===
-          'Mental health self-help apps for coping with COVID-19 : Lessons learnt'
-        )
-          console.log(child.tag)
+
         const flag = ['h2', 'h3', 'youtube', 'img'].indexOf(child.tag)
         if (flag >= 0 && flag < 3) {
           toc2.push({
@@ -227,7 +223,6 @@ export default (document, database) => {
         }
         // it's an image
         if (flag === 3) {
-          console.log('child: ', child)
           document.images.push({
             url: child.props.src,
             title: child.props.title,

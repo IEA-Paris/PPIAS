@@ -1,5 +1,6 @@
 /* eslint-disable no-useless-escape */
 /* import includeCategories from './includeCategories' */
+import { makeStuff } from '../lib/WikipediaUtils'
 import addCountMap from './addCountMap'
 import getDOI from './getDOI'
 import formatArticle from './formatArticle'
@@ -13,6 +14,7 @@ export default {
         await generateMedia(content),
         await mergeAuthors(content),
         await makeFiltersData(),
+        /*   await makeStuff(), */
       ])
     },
     'content:file:beforeInsert': async (document, database) => {
