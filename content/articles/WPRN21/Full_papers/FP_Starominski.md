@@ -44,7 +44,7 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: "/bibliography/documents-exportes_fp1bib.bib"
+bibliography: "/documents-exportes_fp1.bib"
 needDOI: false
 
 ---
