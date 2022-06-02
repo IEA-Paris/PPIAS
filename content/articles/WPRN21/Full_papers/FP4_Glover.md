@@ -5,7 +5,7 @@ keywords:
 - research method
 - survey
 - pandemic preparedness
-date: 2022-05-29T21:49:20Z
+date: 2022-05-29T21:49:20.000+00:00
 language: English
 disciplines: ''
 needDOI: true
@@ -117,7 +117,7 @@ This paper discusses some of the methodological and operational challenges encou
 
 ### 2.1 Conceptualizing A Survey In Response To A Pandemic
 
-That natural and human-initiated disasters increase stress (@alexander_natural_1993) and can have negative effects on a range of social and health behaviors (@khanna_natural_2020) was established in the literature prior to the COVID-19 pandemic. After the 2010-2011 Christchurch earthquakes in NZ, 24% of ex-smokers relapsed to smoking and 34% of current smokers increased their smoking behavior (@erskine_smoking_2013). Substance use also increased (@phibbs_nga_2015). Within 10–20 months after Japan’s 9.0 earthquake in 2011, 11% quit smoking, yet 1.4% who never smoked started smoking (@nakano_associations_2018). The 9/11 terrorist attack on New York in 2001 was also associated with increased substance use (Dynes, 2002; Neria et al., 2008; Updegraff, 2008). Economic crises had been found to increase trends in alcohol consumption (@moskalewicz_evolution_2019).
+That natural and human-initiated disasters increase stress (@alexander_natural_1993) and can have negative effects on a range of social and health behaviors (@khanna_natural_2020) was established in the literature prior to the COVID-19 pandemic. After the 2010-2011 Christchurch earthquakes in NZ, 24% of ex-smokers relapsed to smoking and 34% of current smokers increased their smoking behavior (@erskine_smoking_2013). Substance use also increased (@phibbs_nga_2015). Within 10–20 months after Japan’s 9.0 earthquake in 2011, 11% quit smoking, yet 1.4% who never smoked started smoking (@nakano_associations_2018). The 9/11 terrorist attack on New York in 2001 was also associated with increased substance use (@dynes_importance_2002; @neria_post-traumatic_2008; @updegraff_searching_2008). Economic crises had been found to increase trends in alcohol consumption (@moskalewicz_evolution_2019).
 
 The trauma or psychological adaptation associated with the COVID-19 pandemic was widely expected to trigger increased alcohol, tobacco, and other substance consumption, and increased prevalence as people relapsed or initiated use to relieve stress, anxiety, and grief. A gap in the literature was how people cope with substance use withdrawals during the period of a disaster. Determining the immediate effects of pandemic-related grief, trauma, and negative effects of lockdown early in the pandemic could usefully inform pandemic preparedness for primary health, drug and alcohol services.
 
