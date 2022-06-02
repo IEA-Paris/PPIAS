@@ -128,7 +128,7 @@ That can be linked to what is and is not feasible in Brasil (compared to China, 
 
 Arnot, M., Brandl, E., Campbell, O. L. K., Chen, Y., Du, J., Dyble, M., . . . Zhang, H. (2020). How evolutionary behavioural sciences can help us understand behaviour in a pandemic. _Evolution, Medicine, and Public Health, 2020_(1), 264-278. doi:[10.1093/emph/eoaa038](http://dx.doi.org/10.1093/emph/eoaa038)
 
-Weber, E. U. (2006). Experience-Based and Description-Based Perceptions of Long-Term Risk: Why Global Warming does not Scare us (Yet). _Climatic Change, 77_(1), 103-120. doi:[10.1007/s10584-006-9060-3](http://dx.doi.org/10.1007/s10584-006-9060-3)[ISTEX](https://api.istex.fr/document/F8C052C39246B26C81CEEEC254CC694B054CB0A9/fulltext/pdf?sid=istex-browser-addon)ISTEXISTEXISTEX
+Weber, E. U. (2006). Experience-Based and Description-Based Perceptions of Long-Term Risk: Why Global Warming does not Scare us (Yet). _Climatic Change, 77_(1), 103-120. doi:[10.1007/s10584-006-9060-3](http://dx.doi.org/10.1007/s10584-006-9060-3)
 
 Marais K., Dulac N., Leveson N. (2004). Beyond normal accidents and high reliability organizations: The need for an alternative approach to safety in complex systems, ESD Symposium 2004.
 
