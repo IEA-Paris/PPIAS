@@ -1,41 +1,39 @@
 ---
 issue: content/issues/WPRN21.md
 keywords:
-  - ' crisis management'
-  - decision making
-  - public administration
-  - covid-19
-  - Brazil
+- " crisis management"
+- decision making
+- public administration
+- covid-19
+- Brazil
 date: 2022-04-25T14:22:51.000+00:00
 language: English
-doi: '169059797'
+doi: "169059797"
 disciplines: ''
 published: true
-article_title:
-  'Governance in Crisis: Institutionalizing Reflective Report to Guide
+article_title: 'Governance in Crisis: Institutionalizing Reflective Report to Guide
   Decision Making Under Uncertainty'
 authors:
-  - firstname: Marvin
-    lastname: Starominski-Uehara
-    titles_and_institutions:
-      - titles: []
-        institution: Temple University, Japan
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid_id: 0000-0002-1542-7619
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
+- firstname: Marvin
+  lastname: Starominski-Uehara
+  titles_and_institutions:
+  - titles: []
+    institution: Temple University, Japan
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid_id: 0000-0002-1542-7619
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
 custom_pdf: ''
-abstract:
-  This paper proposes a communication method to improve decision and policymaking
+abstract: This paper proposes a communication method to improve decision and policymaking
   under uncertain scenarios. The motivation for elaborating such a method is the absence
   of clarity and prioritization criteria in considerations made by the Brazilian federal
   government during the ongoing response to the epidemic of COVID-19 in the country.
@@ -46,10 +44,10 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: '/documents-exportes_fp1.bib'
+bibliography: "/documents-exportes_fp1.bib"
 needDOI: false
----
 
+---
 ## 1. INTRODUCTION
 
 Neither science nor politics alone will make Brazil win its war against COVID-19. The current Minister of Health, who supposedly (@benites_mandetta_2020) argues in favor of science, failed to prevent rapid and high rates of community transmission of the novel coronavirus across the country. The elected president is mainly concerned about political survival (@reuters_bolsonaro_2020). The Minister of Health needs to acknowledge fundamental containment and mitigation limitations the country faces in this pandemic. The president must admit that many challenges imposed by this virus will not be addressed by intuition or simply replicating foreign policies. The current national debate between evidence-based policy and anecdata will only prolong the exit to this unprecedented crisis (@ansell_pragmatic_2017; @pinheiro-machado_coronavirus_2020). On the one hand, the recency of and uncertainty (that is, unknown probabilities and outcomes) around this pathogen makes tackling it uniquely from a traditional scientific standpoint less effective (@aguilera_there_2020; @lunn_using_2020). On the other hand, the chances of prescribing a course of action that has not been sufficiently scrutinized could pose great health risks to those seeking treatment and quickly backfire (@jiang_dont_2020; @godin_swedens_2020). In this context, this article argues that erratic institutions can incrementally (@feitsma_rationalized_2018, p. 9) improve governance during crises (@zeitlin_extending_2015, p. 9) by institutionalizing a straightforward reflective report format (@sen_reflective_2010), verbal or written, among policy advisors. The expectation is that the incorporation of a methodology that favors critical thinking will help decision makers draw a more accurate picture of concerted actions to address wicked problems (@cabannes_revisiting_2018; @head_wicked_2008; @pinto_beyond_2018).
@@ -72,9 +70,9 @@ The clash observed in Brazil illustrates to a certain extent the academic debate
 
 In the context of crisis management, this long-standing academic debate tends to become even more heated. In the context of the US, which has now the largest number of infections to the novel coronavirus and deaths to COVID-19 worldwide, the president and its main scientific advisor cannot agree over which direction the country is heading to (@haffajee_thinking_2020; @washington_post_trump_2020). This is because time is of the essence. Crises are extraordinary situations that demand immediate response with minimum, incomplete or no information whatsoever (@moynihan_learning_2008). In these moments, decision makers are elevated to a position that society looks up for coherent explanations and coordinated actions to reduce their anxiety over the effects of the unfolding event in their routines (@boin_politics_2016; @lazzarini_leviathan_2020).
 
-It is not only limited time that decision makers are constrained by. They are also unable to process every piece of critical information that is given to them on a daily, or even hourly, basis (@james*leading_2010). This makes them resort to cognitive mechanisms that help them effortlessly organize and prioritize thoughts and interests (@kahneman_maps_2003). Values and beliefs shaped by decision makers' experiences are the variables that set in motion \_where* and _how_ each piece of information stacks up (@abers_practical_2013; @clandinin_narrative_2013; @codato_nova_2015; @gauchat_political_2015; @walsh_science_2018). Humans, in general, seek comfort in messages that confirm our idiosyncrasies (@cook_human_2008). We try our best to avoid the psychological stress that conflicting information has on challenging our prior set of beliefs forcing us to review and shift preconceived courses of action (@brehm_explorations_1962). Public authorities tend to cognitively react to avoid penalizing their beliefs just as most people do (@carnielli_tyranny_2008).
+It is not only limited time that decision makers are constrained by. They are also unable to process every piece of critical information that is given to them on a daily, or even hourly, basis (@james_leading_2010). This makes them resort to cognitive mechanisms that help them effortlessly organize and prioritize thoughts and interests (@kahneman_maps_2003). Values and beliefs shaped by decision makers' experiences are the variables that set in motion _where_ and _how_ each piece of information stacks up (@abers_practical_2013; @clandinin_narrative_2013; @codato_nova_2015; @gauchat_political_2015; @walsh_science_2018). Humans, in general, seek comfort in messages that confirm our idiosyncrasies (@cook_human_2008). We try our best to avoid the psychological stress that conflicting information has on challenging our prior set of beliefs forcing us to review and shift preconceived courses of action (@brehm_explorations_1962). Public authorities tend to cognitively react to avoid penalizing their beliefs just as most people do (@carnielli_tyranny_2008).
 
-Nevertheless, national leaders live under the public eye. They are not allowed to err as frequently as normal people do (@flyvbjerg_underestimating_2002). They must find ways to enhance their decision-making processes (@willems_politicization_2016). Consulting with experts from different fields about a particular issue during critical times can certainly help them in this endeavor (@alexiadou_commitment_2019). They could also momentarily gather a limited number of advisors that are thoughtful in their proposals and able to communicate effectively (@davidson_storytelling_2017; @walsh_science_2018) to provide them with daily updates and recommendations. This deliberative process, however, can quickly become time consuming and unproductive (@scolobig_public_2016). Thus, a structure guiding advisors to share opinions and help the decision maker easily grasp a myriad of viewpoints is highly desirable.
+Nevertheless, national leaders live under the public eye. They are not allowed to err as frequently as normal people do (@flyvbjerg_underestimating_2002). They must find ways to enhance their decision-making processes (@willems__2016). Consulting with experts from different fields about a particular issue during critical times can certainly help them in this endeavor (@alexiadou_commitment_2019). They could also momentarily gather a limited number of advisors that are thoughtful in their proposals and able to communicate effectively (@davidson_storytelling_2017; @walsh_science_2018) to provide them with daily updates and recommendations. This deliberative process, however, can quickly become time consuming and unproductive (@scolobig_public_2016). Thus, a structure guiding advisors to share opinions and help the decision maker easily grasp a myriad of viewpoints is highly desirable.
 
 Reflective reports help advisors incorporate elements of critical thinking into their communication with the decision maker. Leaders often look for resourceful analysis (@koh_bureaucratic_2017). In the deliberative process proposed in this study, advisors are not expected to debate with other advisors (@martin_behind_2000). They are, instead, expected to outline their opinion in the most concise and simplest form (@clemson_crisis_2013). While actively listening to each advisor, leaders should pay less attention to the argument itself than to assumptions, examples and generalizations advisors put forth. For instance, if a comparative example is brought up to substantiate an argument, leaders should ask themselves whether such comparison is valid in the first place. Also, anecdotal evidence can indeed be a sign of an emerging problem or solution (@parnell_contribution_2020). However, it is the rationality, especially scientific, supporting the significance of an outlier and the trade-offs that it ensues that must be carefully considered by the decision maker (@rosenthal_crises_1997).
 
@@ -92,7 +90,7 @@ The length of each report varies in terms of the number of advisors and time con
 
 ## 5. LIMITATIONS
 
-Reflective reports in the context of decision making under uncertainty present limitations. The first one has to do with the ability of advisors to translate complexity into compelling narratives without missing key facts. Advisors may also excessively simplify their interpretation of reality for the sake of clarity (@feitsma*rationalized_2018). The second limitation has to do with gatekeeping (@dargent_technocracy_2015, p. 112). National leaders must ensure that an \_ad \_hoc* committee is not only composed of well-known experts in each field, but it also gives opportunity for thoughtful communicators to share heterodox ways of thinking (@land_threshold_2010; @ogbunu_dont_2020) and suggest unexpected courses of action (@filgueiras_governance_2019, p. 9). The third limitation has to do with the cognitive ability of decision makers. Leaders need to be aware of their biases and blind spots (@edwards_early_2016). Self-awareness allows decision makers to prioritize what it is in the interest of the public good rather than their own or their group. The last limitation assumes that each advisor's recommendation enjoys the same weight in the final decision. However, it is expected that leaders would be more inclined to consider recommendations that corroborate their preexisting values and beliefs (@buckley_technocrats_2017, p. 4) or be more acquiescent to advisors that had some leverage on their past decisions.
+Reflective reports in the context of decision making under uncertainty present limitations. The first one has to do with the ability of advisors to translate complexity into compelling narratives without missing key facts. Advisors may also excessively simplify their interpretation of reality for the sake of clarity (@feitsma_rationalized_2018). The second limitation has to do with gatekeeping (@dargent_technocracy_2015, p. 112). National leaders must ensure that an _ad _hoc_ committee is not only composed of well-known experts in each field, but it also gives opportunity for thoughtful communicators to share heterodox ways of thinking (@land_threshold_2010; @ogbunu_dont_2020) and suggest unexpected courses of action (@filgueiras_governance_2019, p. 9). The third limitation has to do with the cognitive ability of decision makers. Leaders need to be aware of their biases and blind spots (@edwards_early_2016). Self-awareness allows decision makers to prioritize what it is in the interest of the public good rather than their own or their group. The last limitation assumes that each advisor's recommendation enjoys the same weight in the final decision. However, it is expected that leaders would be more inclined to consider recommendations that corroborate their preexisting values and beliefs (@buckley_technocrats_2017, p. 4) or be more acquiescent to advisors that had some leverage on their past decisions.
 
 ## 6. CONCLUSION
 
@@ -116,7 +114,7 @@ Thank you for the opportunity to review this paper. I look forward to reading th
 
 \- I recommend to establish early on that a pandemic is a time where decisions have to be made on little evidence. It is thus necessary to be transparent about uncertainty (papers addressing that (there are many more): e.g.
 
-Moon, M. J. (2020). Fighting COVID-19 with Agility, Transparency, and Participation: Wicked Policy Problems and New Governance Challenges. _Public Administration Review, 80_(4), 651-656. doi:[https://doi.org/10.1111/puar.13214;](https://doi.org/10.1111/puar.13214; 'https://doi.org/10.1111/puar.13214;')
+Moon, M. J. (2020). Fighting COVID-19 with Agility, Transparency, and Participation: Wicked Policy Problems and New Governance Challenges. _Public Administration Review, 80_(4), 651-656. doi:[https://doi.org/10.1111/puar.13214;](https://doi.org/10.1111/puar.13214; "https://doi.org/10.1111/puar.13214;")
 
 van der Bles, A. M., van der Linden, S., Freeman, A. L. J., & Spiegelhalter, D. J. (2020). The effects of communicating uncertainty on public trust in facts and numbers. _Proceedings of the National Academy of Sciences, 117_(14), 7672. doi:[10.1073/pnas.1913678117](http://dx.doi.org/10.1073/pnas.1913678117)
 
@@ -130,7 +128,7 @@ That can be linked to what is and is not feasible in Brasil (compared to China, 
 
 Arnot, M., Brandl, E., Campbell, O. L. K., Chen, Y., Du, J., Dyble, M., . . . Zhang, H. (2020). How evolutionary behavioural sciences can help us understand behaviour in a pandemic. _Evolution, Medicine, and Public Health, 2020_(1), 264-278. doi:[10.1093/emph/eoaa038](http://dx.doi.org/10.1093/emph/eoaa038)
 
-Weber, E. U. (2006). Experience-Based and Description-Based Perceptions of Long-Term Risk: Why Global Warming does not Scare us (Yet). _Climatic Change, 77_(1), 103-120. doi:[10.1007/s10584-006-9060-3](http://dx.doi.org/10.1007/s10584-006-9060-3)[ISTEX](https://api.istex.fr/document/F8C052C39246B26C81CEEEC254CC694B054CB0A9/fulltext/pdf?sid=istex-browser-addon)ISTEXISTEX
+Weber, E. U. (2006). Experience-Based and Description-Based Perceptions of Long-Term Risk: Why Global Warming does not Scare us (Yet). _Climatic Change, 77_(1), 103-120. doi:[10.1007/s10584-006-9060-3](http://dx.doi.org/10.1007/s10584-006-9060-3)[ISTEX](https://api.istex.fr/document/F8C052C39246B26C81CEEEC254CC694B054CB0A9/fulltext/pdf?sid=istex-browser-addon)ISTEXISTEXISTEX
 
 Marais K., Dulac N., Leveson N. (2004). Beyond normal accidents and high reliability organizations: The need for an alternative approach to safety in complex systems, ESD Symposium 2004.
 
