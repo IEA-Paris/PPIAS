@@ -1,49 +1,48 @@
 ---
 issue: content/issues/WPRN.md
 keywords:
-  - 'Equality & Diversity Studies '
-  - Human Behaviours, Social Relations
-  - 'Inequalities, Poverty, Development '
-  - 'Work, Welfare, Social protection '
-  - 'Public Health '
-  - 'Big Data, Artificial Intelligence '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Dataset, Data Mining '
-  - 'Policy Document '
+- 'Equality & Diversity Studies '
+- Human Behaviours, Social Relations
+- 'Inequalities, Poverty, Development '
+- 'Work, Welfare, Social protection '
+- 'Public Health '
+- 'Big Data, Artificial Intelligence '
+- 'Public Policy, Evaluation, Impact '
+- 'Dataset, Data Mining '
+- 'Policy Document '
 date: 2020-08-31T22:00:00.000+00:00
-article_title:
-  'Gendered Responses and Marked Inequalities: The Pandemic as a Revealer
+article_title: 'Gendered Responses and Marked Inequalities: The Pandemic as a Revealer
   of Gender Injustice'
-picture: '/jeshoots-com-__zmnefoi3k-unsplash-1024x683.jpg'
+picture: "/jeshoots-com-__zmnefoi3k-unsplash-1024x683.jpg"
 picture_copyright: ''
 yt: ''
-published: true
+published: false
 pinned: false
 bibliography: ''
 authors:
-  - firstname: 'Victor '
-    lastname: Galonnier
+- firstname: 'Victor '
+  lastname: Galonnier
 abstract: |-
   Gender inequalities are structuring in our society: unequal pay, unequal distribution of household chores and family life, and violence against women remain major social facts. The field of gender studies has become increasingly important in the academic sphere. Numerous analyses have attempted to evaluate the consequences of the Covid 19 pandemic through a gender lens, showing for example a more important role for women in family work during confinement, a greater exposure of «typically» female occupations to the pandemic or an increase in domestic violence.
   Memorandum 6 : overview of the studies and projects registered on WPRN database
 highlight: false
 language: English
-doi: '169059797'
+doi: "169059797"
 tag:
-  - 'Equality & Diversity Studies '
-  - Human Behaviours, Social Relations
-  - 'Inequalities, Poverty, Development '
-  - 'Work, Welfare, Social protection '
-  - 'Public Health '
-  - 'Big Data, Artificial Intelligence '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Dataset, Data Mining '
-  - 'Policy Document '
+- 'Equality & Diversity Studies '
+- Human Behaviours, Social Relations
+- 'Inequalities, Poverty, Development '
+- 'Work, Welfare, Social protection '
+- 'Public Health '
+- 'Big Data, Artificial Intelligence '
+- 'Public Policy, Evaluation, Impact '
+- 'Dataset, Data Mining '
+- 'Policy Document '
 category1:
-  - color: green
-    text: Article
----
+- color: green
+  text: Article
 
+---
 Gender inequalities are structuring in our society: unequal pay, unequal distribution of household chores and family life, and violence against women remain major social facts. The field of gender studies has become increasingly important in the academic sphere. Numerous analyses have attempted to evaluate the consequences of the Covid 19 pandemic through a gender lens, showing for example a more important role for women in family work during confinement, a greater exposure of «typically» female occupations to the pandemic or an increase in domestic violence.
 
 The studies reviewed by WPRN shed new light on the subject, with several studies having the particular interest of focusing on individuals’ perceptions of the situation according to their gender.
