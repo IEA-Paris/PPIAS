@@ -1,24 +1,24 @@
 ---
 issue: content/issues/WPRN.md
 tag:
-  - 'Public Health '
-  - 'Leisure, Tourism '
-  - 'Human Behaviours, Social Relations '
-  - 'Environmental change, Ecology '
-  - Cities, Mobility, Urban Planning
-  - Democracy, Civil Society, Governance
-  - 'Agriculture, Alimentation '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Public Policy, Evaluation, Impact '
-  - Consumption and Production Patterns
-  - 'Inequalities, Poverty, Development '
-  - Environmental Studies
-  - Health and well-being
-  - Urban nature
-  - wildland recreation
-  - outcomes
-  - personal development
-  - ' outdoor recreation'
+- 'Public Health '
+- 'Leisure, Tourism '
+- 'Human Behaviours, Social Relations '
+- 'Environmental change, Ecology '
+- Cities, Mobility, Urban Planning
+- Democracy, Civil Society, Governance
+- 'Agriculture, Alimentation '
+- 'Public Discourse, Rhetorics, Communication '
+- 'Public Policy, Evaluation, Impact '
+- Consumption and Production Patterns
+- 'Inequalities, Poverty, Development '
+- Environmental Studies
+- Health and well-being
+- Urban nature
+- wildland recreation
+- outcomes
+- personal development
+- " outdoor recreation"
 date: 2020-11-30T23:00:00.000+00:00
 article_title: 'Covid-19 and environment: citizens in search of proximity with nature'
 picture: ''
@@ -26,36 +26,36 @@ picture_copyright: ''
 yt: ''
 published: true
 category1:
-  - color: green
-    text: Article
+- color: green
+  text: Article
 pinned: false
 highlight: false
-bibliography: '/bibliography/documents-exportes_memo9.bib'
+bibliography: "/bibliography/documents-exportes_memo9.bib"
 authors:
-  - firstname: 'Victor '
-    lastname: Galonnier
+- firstname: 'Victor '
+  lastname: Galonnier
 abstract: |-
   The measures taken by governments to limit the spread of Covid-19, particularly containment, have restricted the opportunities for people to access nature. These restrictions have affected individuals and put at the heart of the debate the role of the link to nature for mental and physical well-being. Beyond this, the pandemic and containment have led to changes in the perceptions of time and space : part of the population is questioning its relationship with its surroundings and its way of life.
   Memorandum 9 : overview of the studies and projects registered on WPRN database.
-
 keywords:
-  - 'Leisure, Tourism '
-  - 'Public Health '
-  - 'Human Behaviours, Social Relations '
-  - 'Environmental change, Ecology '
-  - 'Cities, Mobility, Urban Planning '
-  - Medicine and Health Sciences
-  - Consumption and Production Patterns
-  - 'Democracy, Civil Society, Governance '
-  - 'Agriculture, Alimentation '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Inequalities, Poverty, Development '
-  - wildland recreation
+- 'Leisure, Tourism '
+- 'Public Health '
+- 'Human Behaviours, Social Relations '
+- 'Environmental change, Ecology '
+- 'Cities, Mobility, Urban Planning '
+- Medicine and Health Sciences
+- Consumption and Production Patterns
+- 'Democracy, Civil Society, Governance '
+- 'Agriculture, Alimentation '
+- 'Public Discourse, Rhetorics, Communication '
+- 'Public Policy, Evaluation, Impact '
+- 'Inequalities, Poverty, Development '
+- wildland recreation
 language: English
-doi: '169059797'
----
+doi: "169059797"
+custom_pdf: "/environnement_adam-neumann-riqff4jaxm0-unsplash.jpg"
 
+---
 The measures taken by governments to limit the spread of Covid-19, particularly containment, have restricted the opportunities for people to access nature. These restrictions have affected individuals and put at the heart of the debate the role of the link to nature for mental and physical well-being. Beyond this, the pandemic and containment have led to changes in the perceptions of time and space : part of the population is questioning its relationship with its surroundings and its way of life. According to researcher [Anne Caroline Prévot](https://usbeketrica.com/fr/article/le-confinement-pourrait-nous-rapprocher-de-la-nature), containment could thus bring us closer to nature. Are we heading towards major upheavals in terms of urban planning, food, or leisure practices? Will the pandemic profoundly transform the relationship between individuals and their environment in a more ecological perspective?
 
 Several searches in the WPRN database offer interesting avenues for reflection and useful recommendations for public authorities.
