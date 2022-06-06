@@ -5,10 +5,23 @@ page_title: privacy-policy
 
 ## Legal Notice
 
-Consultation of this site is subject to the terms and conditions set out below. By consulting the pages of this site, you agree to respect these terms and conditions.
+Site editor and contact : 
 
-Site editor and contact : Institut d’études avancées de Paris -17, quai d’Anjou, 75004 Paris -  
-Téléphone : + 33 (0)1 56 81 00 52 - Email : Publications@paris-iea.fr.
+Institut d’études avancées de Paris
+
+17 quai d’Anjou, 75004 Paris. FRANCE
+
+Tel. +33 (0)1 56 81 00 52
+
+Email : publications@paris-iea.fr
+
+Editor-In-Chief : Saadi Lahlou
+
+PPIAS- _Proceedings of the Paris Institute for advanced study_
+
+ISSN :
+
+Consultation of this site is subject to the terms and conditions set out below. By consulting the pages of this site, you agree to respect these terms and conditions.
 
 ## Data policy
 
