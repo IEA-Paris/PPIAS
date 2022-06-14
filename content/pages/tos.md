@@ -4,7 +4,7 @@ page_title: tos
 ---
 ## Copyrights
 
-The PPIAS website is operated by The Paris Institute for Advanced Study. Content on the PIAS website is provided for general and research purposes only. The Paris Institute for Advanced Study accepts no responsibility for losses arising from reliance on information contained on the PIAS website, or other sites that we may link to from time to time. In particular, The Paris Institute for Advanced Study accepts no responsibility for losses arising from re-use of content on the PPIAS website without conducting your own due diligence.
+The PPIAS website is operated by The Paris Institute for Advanced Study. Content on the PPIAS website is provided for general and research purposes only. The Paris Institute for Advanced Study accepts no responsibility for losses arising from reliance on information contained on the PIAS website, or other sites that we may link to from time to time. In particular, The Paris Institute for Advanced Study accepts no responsibility for losses arising from re-use of content on the PPIAS website without conducting your own due diligence.
 
 Unless otherwise stated, content on the PPIAS website is © The Paris Institute for Advanced Study and is licensed under a Creative Commons Attribution 4.0 International (CC-BY 4.0) licence.
 
