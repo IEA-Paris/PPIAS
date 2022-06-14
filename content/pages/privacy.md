@@ -2,10 +2,9 @@
 page_title: privacy-policy
 
 ---
-
 ## Legal Notice
 
-Site editor and contact : 
+Site editor and contact :
 
 Institut d’études avancées de Paris
 
@@ -18,8 +17,6 @@ Email : publications@paris-iea.fr
 Editor-In-Chief : Saadi Lahlou
 
 PPIAS- _Proceedings of the Paris Institute for advanced study_
-
-ISSN :
 
 Consultation of this site is subject to the terms and conditions set out below. By consulting the pages of this site, you agree to respect these terms and conditions.
 
