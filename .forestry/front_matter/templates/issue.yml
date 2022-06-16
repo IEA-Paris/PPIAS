@@ -22,3 +22,5 @@ fields:
     time_format: 
     display_utc: false
   default: now
+pages:
+- content/issues/HCERES.md
