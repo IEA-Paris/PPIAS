@@ -519,5 +519,6 @@
   "copy-to-clipboard": "Copy to clipboard",
   "misc": {
     "copyToClipboard": "Copy to clipboard"
-  }
+  },
+  "no-bibliography-available-for-this-article": "No bibliography available for this article"
 }

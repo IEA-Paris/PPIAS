@@ -56,7 +56,7 @@
                     class="page-title"
                     :class="$store.state.scrolled ? 'mb-9' : 'mb-6'"
                   >
-                    {{ item.title }}
+                    {{ item.name_of_the_issue || item.title }}
                   </div>
                   <div class="overline mb-6">
                     {{

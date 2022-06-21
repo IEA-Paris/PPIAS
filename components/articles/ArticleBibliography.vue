@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-list two-line>
+    <v-list v-if="bibliography" two-line>
       <v-list-item
         v-for="ref in bibliography"
         :key="ref.id"
@@ -11,6 +11,7 @@
         <v-list-item-content :id="ref.id" v-html="ref[style]">
         </v-list-item-content></v-list-item
     ></v-list>
+    <span v-else>{{ $t('no-bibliography-available-for-this-article') }}</span>
   </div>
 </template>
 <script>
@@ -33,9 +34,12 @@ export default {
       return this.$store.state.articles.style
     },
     bibliography() {
-      return this.item.bibliography
-        .slice()
-        .sort((a, b) => a[this.style].localeCompare(b[this.style]))
+      return (
+        this.item.bibliography?.length &&
+        this.item.bibliography
+          .slice()
+          .sort((a, b) => a[this.style].localeCompare(b[this.style]))
+      )
     },
   },
   mounted() {},
