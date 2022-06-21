@@ -152,7 +152,6 @@ fields:
     field: needDOI
     value: false
 pages:
-- content/articles/1.1.3 G. Slvertsen.md
 - content/articles/HCERES/1.1.4_Williams.md
 - content/articles/ICA4.md
 - content/articles/Memorandums/Memorandum 12.md
