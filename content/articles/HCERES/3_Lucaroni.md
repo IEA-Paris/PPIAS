@@ -5,7 +5,7 @@ date: 2022-05-17T07:30:48Z
 language: English
 disciplines: ''
 needDOI: true
-published: false
+published: true
 article_title: Integration of Social Sciences and Humanities in the EU funding programmes
   for research and innovation
 authors:
