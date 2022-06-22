@@ -29,12 +29,9 @@ authors:
     mendeley: ''
   reference: ''
 custom_pdf: ''
-abstract: |2+
-   It is a much wider and longer tradition of knowledge production than modern
-  science itself and the more or less standardised editorial product that accompanies its
-  development, e.g. the peer-reviewed scientific journal. Coming from a deep and diverse
-  tradition, scholarly books are various in terms of editorial form (you have the monograph, the edited book, the editions, the textbook to take a few examples), but also regarding the way they are evaluated, even how they are read and discussed. The example of the Histories reminds us that scholarly books are not only read, cited and reused by scholars but also by a much larger audience. All these aspects must be considered when discussing the place and the role of the book in the evaluation of SSH.
-  Today, the discussion is influenced by several factors that are clearly perceived as challenges for the future of the book. Let me try to present them as a matter of introduction to our session.
+abstract: |+
+  Coming from a deep and diverse tradition, scholarly books are various in terms of editorial form (you have the monograph, the edited book, the editions, the textbook to take a few examples), but also regarding the way they are evaluated, even how they are read and discussed. The example of the Histories reminds us that scholarly books are not only read, cited and reused by scholars but also by a much larger audience. All these aspects must be considered when discussing the place and the role of the book in the evaluation of SSH.
+   Colloquium Evaluation of Social Sciences and Humanities in Europe Paris IAS, 16-17 May 2022 - Session 1 "Books in SSH research"
 
 picture: ''
 picture_copyright: ''
