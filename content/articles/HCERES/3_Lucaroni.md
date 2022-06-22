@@ -1,7 +1,7 @@
 ---
 issue: content/issues/HCERES.md
 keywords: []
-date: 2022-05-17T07:30:48Z
+date: 2022-05-17T07:30:48.000+00:00
 language: English
 disciplines: ''
 needDOI: true
@@ -55,8 +55,8 @@ Grant agreements stemming from successful applications to SSH-flagged topics are
 
 Since the previous Framework Programme Horizon 2020 (2014-2020) and with help of the NET4SOCIETY4 Coordination and support action \[^2\], the European Commission has a comprehensive methodology for assessing the integration of SSH. To monitor the development of this cross-cutting issue, various dimensions are examined, such as the budget going to SSH partners, qualitative aspects, performance of disciplines and sectors involved, as well as which countries are represented as participants and coordinators. The _5th Monitoring Report on projects funded in 2018 under the Horizon 2020 programme_ \[^3\] is publicly available and a new edition is currently being prepared.
 
-\[^1\] The list of the SSH disciplines, as understood in the EU Framework Programmes for Research and Innovation is adapted from the UNESCO International Standard Classification of Education and includes sociology, psychology, economics, law, political science, public and business administration, demography, anthropology (except physical anthropology), geography (except physical geography), peace and conflict studies, human rights, education science, journalism and communication, cultural studies, religion, linguistics, literature, cultural studies, history, archaeology, philosophy, ethics, arts and crafts.
+\[^1\]: The list of the SSH disciplines, as understood in the EU Framework Programmes for Research and Innovation is adapted from the UNESCO International Standard Classification of Education and includes sociology, psychology, economics, law, political science, public and business administration, demography, anthropology (except physical anthropology), geography (except physical geography), peace and conflict studies, human rights, education science, journalism and communication, cultural studies, religion, linguistics, literature, cultural studies, history, archaeology, philosophy, ethics, arts and crafts.
 
-\[^2\] [https://cordis.europa.eu/project/id/649180](https://cordis.europa.eu/project/id/649180 "https://cordis.europa.eu/project/id/649180")
+\[^2\]: [https://cordis.europa.eu/project/id/649180](https://cordis.europa.eu/project/id/649180 "https://cordis.europa.eu/project/id/649180")
 
-\[^3\] [https://ec.europa.eu/info/publications/integration-social-sciences-and-humanities-horizon-2020_en](https://ec.europa.eu/info/publications/integration-social-sciences-and-humanities-horizon-2020_en "https://ec.europa.eu/info/publications/integration-social-sciences-and-humanities-horizon-2020_en")
+\[^3\]: [https://ec.europa.eu/info/publications/integration-social-sciences-and-humanities-horizon-2020_en](https://ec.europa.eu/info/publications/integration-social-sciences-and-humanities-horizon-2020_en "https://ec.europa.eu/info/publications/integration-social-sciences-and-humanities-horizon-2020_en")
