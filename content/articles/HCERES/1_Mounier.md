@@ -5,7 +5,7 @@ date: 2022-05-16T19:45:50.000+00:00
 language: English
 disciplines: ''
 needDOI: true
-published: false
+published: true
 article_title: 'The book in the humanities and social sciences: a moving beacon'
 authors:
 - firstname: 'Pierre '
