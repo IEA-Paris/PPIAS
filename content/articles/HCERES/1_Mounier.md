@@ -12,7 +12,7 @@ authors:
   lastname: Mounier
   titles_and_institutions:
   - titles: []
-    institution: OpenEdition EHESS– Operas – OpenEdition - DOAB, France
+    institution: OpenEdition, France
   - titles: []
     institution: OPERAS Research Infrastructure, France
   picture: ''
