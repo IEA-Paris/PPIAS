@@ -1,46 +1,47 @@
 ---
 issue: content/issues/WPRN.md
 keywords:
-- 'Simulation / Modeling '
-- Democracy, Civil Society, Governance
-- 'Environmental change, Ecology '
-- Public Health
-- 'Public Policy, Evaluation, Impact '
-- Risks, Crisis Management
-- 'Policy Document '
-- 'Big Data, Artificial Intelligence '
-- 'Democracy, Civil Society, Governance '
-- 'International Relations and Co-operation '
-- 'Public Discourse, Rhetorics, Communication '
-- Cities, Mobility, Urban Planning
-- 'Education '
-- 'Equality & Diversity Studies '
-- 'Violence, Criminality, Security '
-- 'Work, Welfare, Social protection '
-- 'Human Behaviours, Social Relations '
+  - 'Simulation / Modeling '
+  - Democracy, Civil Society, Governance
+  - 'Environmental change, Ecology '
+  - Public Health
+  - 'Public Policy, Evaluation, Impact '
+  - Risks, Crisis Management
+  - 'Policy Document '
+  - 'Big Data, Artificial Intelligence '
+  - 'Democracy, Civil Society, Governance '
+  - 'International Relations and Co-operation '
+  - 'Public Discourse, Rhetorics, Communication '
+  - Cities, Mobility, Urban Planning
+  - 'Education '
+  - 'Equality & Diversity Studies '
+  - 'Violence, Criminality, Security '
+  - 'Work, Welfare, Social protection '
+  - 'Human Behaviours, Social Relations '
 date: 2021-05-01T22:00:12.000+00:00
 language: English
-doi: "169059797"
+doi: '169059797'
 published: true
 article_title: What Measures are Truly Effective in Fighting COVID-19 ?
 authors:
-- firstname: 'Aurélie  '
-  lastname: Louchart
-  titles_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-abstract: "“Those who argue that lockdown measures were not necessary and that, without
+  - firstname: 'Aurélie  '
+    lastname: Louchart
+    titles_and_institutions: []
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+abstract:
+  "“Those who argue that lockdown measures were not necessary and that, without
   them, the final number of deaths would not be much different from those of a strong
   seasonal flu are wrong,” explains Marc Fleurbaey, who has developed with a team
   from Princeton University, a tool simulating the evolution of the pandemic in the
@@ -53,21 +54,21 @@ abstract: "“Those who argue that lockdown measures were not necessary and that
   several studies provide preliminary answers. \nMemorandum 12 : overview of the studies
   and projects registered on WPRN database\nThis article was originally published
   in French."
-picture: "/hands-with-latex-gloves-holding-a-globe-with-a-face-mask-anna-shvets.jpg"
+picture: '/hands-with-latex-gloves-holding-a-globe-with-a-face-mask-anna-shvets.jpg'
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: "/bibliography/documents-exportes_memo12.bib"
+bibliography: '/bibliography/documents-exportes_memo12.bib'
 custom_pdf: ''
 disciplines: ''
 needDOI: false
-
 ---
+
 “Those who argue that lockdown measures were not necessary and that, without them, the final number of deaths would not be much different from those of a strong seasonal flu are wrong”, explains Marc Fleurbaey, who has developed, with a team from Princeton University, a tool simulating the evolution of the pandemic according to the implemented measures (downloadable on [WPRN](https://wprn.org/item/414252)). This simulator indicates that in the United Kingdom, total mortality would differ by a factor of nearly five with or without lockdown. In France, this factor is between ten and twenty. Virus eradication or control strategy, timing, toughness and type of measures: what works and why? On the [World Pandemic Research Network](https://wprn.org/), several studies provide preliminary answers.
 
 ### Lockdown is very effective in the early stages of the pandemic.
 
-According to the [Princeton simulator](https://wprn.org/item/414252), if a virus eradication strategy is implemented before the 20th week of the pandemic, it saves many more lives than a control strategy \[^1\]. It usually does so at a lower economic cost. But for this strategy to work, it must be firm, come early (ideally, the tenth week) and last long enough. Most countries which have succeeded in eradicating the virus (such as Vietnam, New Zealand or South Korea) adopted very early a lockdown policy coupled with testing and contact tracing in order to break the transmission chain of the virus. Once the virus has spread widely, lockdown is no longer so effective and the eradication strategy requires longer and repeated lockdown episodes: the socio-economic costs are then higher for less effectiveness.
+According to the [Princeton simulator](https://wprn.org/item/414252), if a virus eradication strategy is implemented before the 20th week of the pandemic, it saves many more lives than a control strategy [^1]. It usually does so at a lower economic cost. But for this strategy to work, it must be firm, come early (ideally, the tenth week) and last long enough. Most countries which have succeeded in eradicating the virus (such as Vietnam, New Zealand or South Korea) adopted very early a lockdown policy coupled with testing and contact tracing in order to break the transmission chain of the virus. Once the virus has spread widely, lockdown is no longer so effective and the eradication strategy requires longer and repeated lockdown episodes: the socio-economic costs are then higher for less effectiveness.
 
 ### An eradication strategy challenging to implement reality.
 
@@ -75,7 +76,7 @@ On WPRN, [Princeton University researches](https://wprn.org/item/414252) point o
 
 ### Softer measures can be more effective
 
-A [study](https://www.nature.com/articles/s41562-020-01009-0) published in _Nature Human Behaviour_ shows that to stop the spread of the virus, an appropriate combination of less disruptive and less costly measures than lockdown can be as - or even more - effective than lockdown. Sequence and timing are crucial. These results are confirmed through 226 countries, three databases and four independent methods. In terms of effectiveness, the greatest consensus surrounds closing or restricting access to places where people congregate for extended periods ( shops, bars, schools, etc.). Cancelling small gatherings decreases the ΔRt \[^2\] virus reproduction rate between -0.22 and -0.35, and closing educational institutions decreases it from -0.15 to -0.21. Several less intrusive measures are also highly effective, including land border restrictions (ΔRt between -0.057 and -0.23) or communication about risks (ΔRt between -0.18 and -0.28: communicating the importance of social distancing is only marginally less effective than legislating it).
+A [study](https://www.nature.com/articles/s41562-020-01009-0) published in _Nature Human Behaviour_ shows that to stop the spread of the virus, an appropriate combination of less disruptive and less costly measures than lockdown can be as - or even more - effective than lockdown. Sequence and timing are crucial. These results are confirmed through 226 countries, three databases and four independent methods. In terms of effectiveness, the greatest consensus surrounds closing or restricting access to places where people congregate for extended periods ( shops, bars, schools, etc.). Cancelling small gatherings decreases the ΔRt [^2] virus reproduction rate between -0.22 and -0.35, and closing educational institutions decreases it from -0.15 to -0.21. Several less intrusive measures are also highly effective, including land border restrictions (ΔRt between -0.057 and -0.23) or communication about risks (ΔRt between -0.18 and -0.28: communicating the importance of social distancing is only marginally less effective than legislating it).
 
 ### Economic support has a health impact
 
@@ -103,21 +104,20 @@ Suppose we divide the world into countries where the number of deaths is higher 
 
 This memorandum is based on resources from the World Pandemic Research Network.
 
-Fleurbaey et al., “COVID policy simulator.” [https://wprn.org/item/414252](https://wprn.org/item/414252 "https://wprn.org/item/414252")  
+Fleurbaey et al., “COVID policy simulator.” [https://wprn.org/item/414252](https://wprn.org/item/414252 'https://wprn.org/item/414252')  
 This tool simulates the evolution of the pandemic in the absence of intervention, as well as under policies reducing contact between people or implementing broad testing to identify infectious people early. It also provides a monetary value of the fatalities, using the Value of Statistical Life approach commonly used to assess safety measures. Everyone is free to use it either by modifying political assumptions, the model, and parameters or by changing the equations and introducing new policy instruments. The results spreadsheets provide the possibility to compare different scenarios.
 
-Alemanno, “Taming COVID-19 by Regulation” [https://wprn.org/item/445552](https://wprn.org/item/445552 "https://wprn.org/item/445552")  
+Alemanno, “Taming COVID-19 by Regulation” [https://wprn.org/item/445552](https://wprn.org/item/445552 'https://wprn.org/item/445552')  
 Special Issue of the European Journal of Risk Regulation dedicated to COVID-19. Researchers from the University of Cambridge provide a first analysis of “the surprisingly uncoordinated, at times unscientific, response to an essentially foreseeable event like a novel coronavirus in a geopolitically shattered world.”
 
-Cheng, “CoronaNet COVID-19 Government Response Event Dataset” [https://wprn.org/item/418152](https://wprn.org/item/418152 "https://wprn.org/item/418152")  
+Cheng, “CoronaNet COVID-19 Government Response Event Dataset” [https://wprn.org/item/418152](https://wprn.org/item/418152 'https://wprn.org/item/418152')  
 Led by researchers from the Technical University of Munich, New York University Abu Dhabi, and Yale University, the CoronaNet research project has compiled more than 30,000 policies in response to COVID-19 in more than 190 countries.
 
-Haug et al., “Ranking the effectiveness of worldwide COVID-19 government interventions.” [https://doi.org/10.1038/s41562-020-01009-0](https://doi.org/10.1038/s41562-020-01009-0 "https://doi.org/10.1038/s41562-020-01009-0")  
+Haug et al., “Ranking the effectiveness of worldwide COVID-19 government interventions.” [https://doi.org/10.1038/s41562-020-01009-0](https://doi.org/10.1038/s41562-020-01009-0 'https://doi.org/10.1038/s41562-020-01009-0')  
 This study quantifies the impact of 6,068 non-pharmaceutical interventions (NPIs) implemented in 79 territories on the effective reproduction number, _Rt_, of COVID-19. Its modeling approach combines four computational techniques merging statistical, inference, and artificial intelligence tools. Its findings are validated with two external datasets recording 42,151 additional NPIs from 226 countries. It concludes that less disruptive and less costly NPIs can be as effective as more intrusive and drastic NPIs (e.g., a national lockdown).
 
-"COVID-19 government response tracker", [https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker "https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker")  
+"COVID-19 government response tracker", [https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker 'https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker')  
 This tool aims to track and compare policy responses to the COVID-19 outbreak. It contains a database from over 180 countries, with 20 indicators (school closures, travel restrictions, etc.). This data also feeds an “opening risk index,” which aims to help countries understand whether it is prudent to relax measures.
 
-\[^1\]  Elimination involves a strict lockdown for as long as it takes for the virus to disappear. Control limits lockdown measures to periods when the number of deaths exceeds a certain threshold (1000 per day in the United States).
-
-\[^2\]  Rt = the average number of secondary cases caused by an infected person
+[^1]: Elimination involves a strict lockdown for as long as it takes for the virus to disappear. Control limits lockdown measures to periods when the number of deaths exceeds a certain threshold (1000 per day in the United States).
+[^2]: Rt = the average number of secondary cases caused by an infected person

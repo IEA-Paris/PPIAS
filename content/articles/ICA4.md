@@ -77,7 +77,7 @@ The Intercontinental Academia (ICA) creates a global network of future research 
 
 The ICA was established in 2016 through the University-Based Institutes for Advanced Study (UBIAS) coalition which has 44 member institutes around the world (@cordelois_how_2020).
 
-During each edition of Intercontinental Academia, participants get together in three sessions over the course of one year [^1].
+During each edition of Intercontinental Academia, participants get together in three sessions over the course of one year.
 
 Previous editions of ICA have focused on "Time", "Human Dignity" and "Laws: Rigidity and Dynamics".
 
@@ -115,7 +115,7 @@ It was discussed that observing natural phenomena can motivate scientific enquir
 
 ### In AI We Trust: Power, illusion and control of predictive algorithms
 
-Presented by[ **_Helga Nowotny_**](http://helga-nowotny.eu 'Helga Nowotny')
+Presented by [**_Helga Nowotny_**](http://helga-nowotny.eu 'Helga Nowotny')
 
 The session began with introducing the concept of singularity and defining it as a tipping point: a change of state that can lead to the collapse of a system. In an attempt to define Ethical AI, examples such as Transhumanism (ideas of transcending the limitations of a mortal body through information sharing) were discussed. Furthermore, the illusion that AI knows humans better than humans know themselves was elaborated, ultimately concluding by mentioning the existence of a possibility for human beings to both profit or suffer from an AI system depending on how it is applied.
 
@@ -125,11 +125,11 @@ The session began with introducing the concept of singularity and defining it as
 
 The ICA4 continued onto the second day, through which three seminars took place with mentors who had joined the first session in Paris from around the world!
 
-The first lecture was by[ _Robert Aumann_](https://www.intercontinental-academia.org/mentors#aumann 'Robert Aumann'), a Nobel prize laureate, who focused on the convoluted concept of consciousness and its counterparts.
+The first lecture was by [_Robert Aumann_](https://www.intercontinental-academia.org/mentors#aumann 'Robert Aumann'), a Nobel prize laureate, who focused on the convoluted concept of consciousness and its counterparts.
 
-This was followed by a lecture from [ _Karen Yeung_](https://www.intercontinental-academia.org/mentors#yeung 'Karen Yeung'), who offered a rather critical point of view on the prevalence of AI, as well as some of its surrounding myths and misconceptions. She then went on to explain how responsibility should be re-defined to consider the unintended impact(s) of AI in human societies.
+This was followed by a lecture from [_Karen Yeung_](https://www.intercontinental-academia.org/mentors#yeung 'Karen Yeung'), who offered a rather critical point of view on the prevalence of AI, as well as some of its surrounding myths and misconceptions. She then went on to explain how responsibility should be re-defined to consider the unintended impact(s) of AI in human societies.
 
-Finally,[_Raouf Boucekkine _](https://www.intercontinental-academia.org/about/ica4#boucekkine 'Raouf Boucekkine')took the fellows for an exploration into the world of economics and finance, using the concept of equilibrium as an example to illustrate the difference between disciplines: mainstream economics VS. statistical physics!
+Finally, [_Raouf Boucekkine_](https://www.intercontinental-academia.org/about/ica4#boucekkine 'Raouf Boucekkine') took the fellows for an exploration into the world of economics and finance, using the concept of equilibrium as an example to illustrate the difference between disciplines: mainstream economics VS. statistical physics!
 
 - Why Consciousness?
 
@@ -238,5 +238,3 @@ While the latter (in particular machine learning algorithms) learns from statist
 Upon completion of the talks by ICA4 Mentors, Paris-Saclay hosted a half-day event with multiple workshops in which ICA4 mentors and Paris-Saclay researchers discussed major advances and issues surrounding AI.[ _Stanislas Dehaene_](https://www.college-de-france.fr/site/en-stanislas-dehaene/index.htm 'Stanislas Dehaene') presented a series of fMRI, MEG, and behavioural evidence that humans use symbolic and recursive strategies on prediction tasks with complex sequences, as compared with monkeys which seem to use a picture-based strategy. In a session focusing on AI and ethics,[ _Paola Tubaro_](https://databigandsmall.com 'Paola Tubaro') revealed the hidden human workers who provide the hand-labelled training data for products such as Siri. This is due to companies and corporations needing a cheap workforce in the same language, ultimately reproducing historic colonial patterns.
 
 Finally, the intellectually intense day came to an end with a talk in which [_Zaven Paré_](https://www.intercontinental-academia.org/mentors/#pare 'Zaven Paré') discussed his artistic works based on electronic marionettes and his collaborations with robotics specialists in Japan. Paré’s conception of automaton-centred theatre enchants audiences while challenging our tendency towards anthropomorphisation. This raises important questions regarding how we will interact with AI algorithms and intelligent robotics in the decades to come...
-
-[^1]: This is the footnote everyone always dreamed about. It is lengthy yet not that much. It is plain good.
