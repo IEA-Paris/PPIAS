@@ -24,12 +24,12 @@
       "path": "[[workspace]]/content/themes"
     },
     {
-      "title": "c",
-      "path": "[[workspace]]/content/media/c"
+      "title": "media",
+      "path": "[[workspace]]/content/media"
     },
     {
-      "title": "a",
-      "path": "[[workspace]]/content/authors/a"
+      "title": "authors",
+      "path": "[[workspace]]/content/authors"
     }
   ]
 }
