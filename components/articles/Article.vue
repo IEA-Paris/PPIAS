@@ -126,20 +126,15 @@
             <ArticleBibliography :item="item"></ArticleBibliography>
           </div>
           <template v-if="item.footnotes && item.footnotes.length">
-            <div id="footnotes" class="text-h4 mt-3 ml-3">
+            <div
+              id="footnotes"
+              class="text-h4 mt-3 ml-3"
+              :class="$vuetify.breakpoint.xs ? 'ml-0' : 'ml-3'"
+            >
               {{ $t('footnotes') }}
             </div>
             <ArticleFootnotes :item="item"></ArticleFootnotes>
           </template>
-        </v-card-text>
-
-        <v-card-subtitle class="pb-0">
-          <!--      <v-tooltip bottom>
-            <template #activator="{ on, attrs }">
-              <v-icon v-bind="attrs" v-on="on">mdi-pin</v-icon>
-            </template>
-            <span>This post is pinned</span>
-          </v-tooltip> -->
           {{
             new Date(item.date).toLocaleDateString('en-GB', {
               // you can use undefined as first argument
@@ -148,13 +143,7 @@
               day: '2-digit',
             })
           }}
-          <!--  +    ' - ' +
-        new Date(item.date).toLocaleTimeString('EN', {
-          hour: '2-digit',
-          minute: '2-digit',
-          timezone: 'UTC', 
-      })-->
-        </v-card-subtitle>
+        </v-card-text>
       </div>
     </v-col>
     <v-col
@@ -189,7 +178,7 @@ export default {
   },
   data() {
     return {
-      toc: true,
+      toc: this.item.toc.length,
       currentlyActiveToc: '',
       observer: null,
       observerOptions: {

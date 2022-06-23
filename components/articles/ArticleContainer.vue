@@ -59,24 +59,27 @@
           >
             {{ item.article_title }}
           </div>
-          <template
-            v-if="item.authors.length"
-            class="text-body-1 mt-3 d-flex align-left"
-          >
-            <v-divider></v-divider>
-            <v-btn
-              x-large
-              text
-              class="mb-3 px-3 font-italic authorsBtn"
-              style=""
-              nuxt
-              :to="'/articles/' + item.slug + '#authors'"
-              v-html="formatAuthorsProxy()"
+          <client-only>
+            <template
+              v-if="item.authors.length"
+              class="text-body-1 mt-3 d-flex align-left"
             >
-            </v-btn>
-            <v-divider></v-divider
-            ><ArticleCiteWidget :to-cite="item.toCite"></ArticleCiteWidget>
-          </template>
+              <v-divider></v-divider>
+              <v-btn
+                x-large
+                text
+                class="mb-3 px-3 font-italic authorsBtn"
+                style=""
+                nuxt
+                :to="'/articles/' + item.slug + '#authors'"
+                v-html="formatAuthorsProxy()"
+              >
+              </v-btn>
+              <v-divider></v-divider
+              ><ArticleCiteWidget
+                :to-cite="item.toCite"
+              ></ArticleCiteWidget> </template
+          ></client-only>
           <!--     <v-divider style="width: 120px"></v-divider>
     <v-divider style="width: 120px" class="mt-1"></v-divider> -->
         </div>
