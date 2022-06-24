@@ -4,7 +4,7 @@ keywords: []
 date: 2022-06-24T13:51:12.000+00:00
 language: French
 disciplines: ''
-needDOI: false
+needDOI: true
 published: true
 article_title: Vers une approche européenne de l’évaluation scientifique en sciences
   de l’homme et de la société
