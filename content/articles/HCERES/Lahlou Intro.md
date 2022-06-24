@@ -1,7 +1,7 @@
 ---
 issue: content/issues/HCERES.md
 keywords: []
-date: 2022-06-24T13:51:12Z
+date: 2022-06-24T13:51:12.000+00:00
 language: French
 disciplines: ''
 needDOI: false
@@ -44,6 +44,6 @@ C’est pourquoi l’initiative du Haut Conseil de l’évaluation de la recherc
 
 Nous sommes heureux que le Hcéres ait choisi l’Institut d’études avancées de Paris pour accueillir ces débats. L’IEA de Paris est un lieu d’intelligence collective, international et interdisciplinaire. Il accueille les grands esprits et crée les conditions pour que de la discussion émergent collégialement des idées nouvelles.
 
-Une fois de plus, l’intelligence collective a été productive, rapidement : les conclusions moissonnées le jour même par le groupe de travail des animateurs de sessions paraissent le mois suivant. Cette réactivité, à mettre au crédit de l’Hcéres, et notamment de Jacques Dubucs qui a monté ce Colloque, nous rappelle que la science, pour servir la société, doit savoir travailler dans le temps court et collaboratif en même temps que dans les temps long et individuel -qui restent indispensables.
+Une fois de plus, l’intelligence collective a été productive, rapidement : les conclusions moissonnées le jour même par le groupe de travail des animateurs de sessions paraissent le mois suivant. Cette réactivité, à mettre au crédit de l’Hcéres, et notamment de Jacques Dubucs qui a monté ce Colloque, nous rappelle que la science, pour servir la société, doit savoir travailler dans le temps court et collaboratif en même temps que dans le temps long (individuel et collectif) -qui reste indispensable.
 
 Ces actes partagent non seulement les communications et les réflexions des experts sur ce thème, mais aussi une liste de recommandations concrètes, dont certaines sont originales et ont pris naissance lors de ce colloque. Le sujet reste ouvert, mais il progresse. Bonne lecture de ces actes, qui sont un jalon de plus dans le dans le cheminement vers un écosystème de la recherche, de l’enseignement supérieur et de l’innovation européen plus collégial, plus efficace, plus créatif, plus à même d’éclairer nos sociétés dans les grandes transitions qui commencent.
