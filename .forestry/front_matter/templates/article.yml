@@ -152,6 +152,7 @@ fields:
     field: needDOI
     value: false
 pages:
+- content/articles/HCERES/1.1.1_Gimenez.md
 - content/articles/HCERES/1.1.4_Williams.md
 - content/articles/HCERES/1.1_int_Galleron.md
 - content/articles/HCERES/1_Mounier.md
