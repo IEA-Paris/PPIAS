@@ -1,7 +1,7 @@
 ---
 issue: content/issues/HCERES.md
 keywords: []
-date: 2022-05-16T07:45:12Z
+date: 2022-05-16T07:45:12.000+00:00
 language: French
 disciplines: ''
 needDOI: true
@@ -25,8 +25,9 @@ authors:
     mendeley: ''
   reference: ''
 custom_pdf: ''
-abstract: Introduction aux actes du Colloque "L'évaluation des Sciences humaines et
-  sociales en Europe"  16 et 17 mai 2022, Hcéres et IEA de Paris.
+abstract: Introduction à la session "Les livres dans la recherche SHS" du Colloque
+  "L'évaluation des Sciences humaines et sociales en Europe"  16 et 17 mai 2022, Hcéres
+  et IEA de Paris.
 picture: ''
 picture_copyright: ''
 yt: ''
