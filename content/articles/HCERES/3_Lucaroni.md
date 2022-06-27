@@ -29,7 +29,8 @@ authors:
   reference: ''
 custom_pdf: ''
 abstract: Colloquium Evaluation of Social Sciences and Humanities in Europe Paris
-  IAS, 16-17 May 2022 - Session 3 “The participation of SSH to European research”
+  IAS, 16-17 May 2022 - Session 3 “The participation of SSH to European research”,
+  keynote
 picture: ''
 picture_copyright: ''
 yt: ''
