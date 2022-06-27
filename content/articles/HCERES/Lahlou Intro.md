@@ -1,11 +1,7 @@
 ---
 issue: content/issues/HCERES.md
 keywords: []
-<<<<<<< HEAD
-date: 2022-05-16T19:40:50.000+00:00
-=======
 date: 2022-05-16T07:45:12Z
->>>>>>> 200fe9e999c5f4c314d32cb05865f9d34c80c912
 language: French
 disciplines: ''
 needDOI: true
@@ -49,12 +45,6 @@ Nous sommes heureux que le Hcéres ait choisi l’Institut d’études avancées
 
 Cette session porte sur l'évaluation des ouvrages en SHS. La compétition accrue dans le domaine scientifique a amené une prolifération des publications, et celle-ci a été préjudiciable aux ouvrages, qui se produisent moins vite et pourtant ne comptent pas plus, voire moins, dans la métrique de citations. Il y a ici une analogie à faire avec la dérive fisherienne en biologie (fisherian runaway, décrite par le biologiste Ronald Fisher). La sélection naturelle favorise les individus qui ont un avantage reproductif, leurs caractères devenant finalement majoritaires dans la population considérée. Or, si on pense en général aux capacités d'adaptation à l'environnement comme avantage sélectif  (par exemple, courir vite), une grande capacité de reproduction joue également. C'est ce qui explique que le Paon (genres _Pavo_, _Afropavo_) aie une si queue colorée si grande et spectaculaire. Bien que celle-ci le gêne pour voler et en fasse une proie facile, lors des parades elle attitre les femelles. Les mâles qui ont de longues et belles plumes attirent plus les femelles et se reproduisent plus (sélection sexuelle): on a donc une espèce moins efficace au total, mais qui continue à se reproduire. Les femelles ont d'ailleurs intérêt à choisir les mâles avec les plus belles plumes puisque leurs fils hériteront du même avantage sélectif ("sexy son hypothesis"). Sans vouloir pousser l'analogie trop loin, on comprend que les auteurs de publications scientifiques qui ont une stratégie permettant d'être beaucoup cités (stratégie de reproduction maximale) domineront la littérature tant que le système de sélection sera basé sur ce critère. Or, on l'a vu, les ouvrages sont désavantagés dans cette compétition: plus longs à écrire, plus difficiles à publier, plus difficiles d'accès, plus longs à lire et donc mécaniquement moins cités. Or, dans les SHS en particulier, la monographie est un élément essentiel pour le travail de fond; par ailleurs certains travaux (notamment les méthodes qualitatives qui nécessitent une description longue des contenus empiriques) se prêtent mal à la forme courte. Comment éviter la dérive fisherienne dans les mécanismes de sélection scientifique, et en particulier lors de l'évaluation? Et comment mieux prendre en compte la diversité des productions, que la numérisation a multipliée (blogs, vidéos, etc.) C'est ce que cette table ronde a examiné, en partant du cas du livre.
 
-<<<<<<< HEAD
-Ces actes partagent non seulement les communications et les réflexions des experts sur ce thème, mais aussi une liste de recommandations concrètes, dont certaines sont originales et ont pris naissance lors de ce colloque. Le sujet reste ouvert, mais il progresse.
-
-Bonne lecture de ces actes, qui sont un jalon de plus dans le dans le cheminement vers un écosystème de la recherche, de l’enseignement supérieur et de l’innovation européen plus collégial, plus efficace, plus créatif, plus à même d’éclairer nos sociétés dans les grandes transitions qui commencent.
-=======
-Une fois de plus, l’intelligence collective a été productive, rapidement : les conclusions moissonnées le jour même par le groupe de travail des animateurs de sessions sont parues le mois suivant. Cette réactivité, à mettre au crédit de l’Hcéres, et notamment de Jacques Dubucs qui a monté ce Colloque, nous rappelle que la science, pour servir la société, doit savoir travailler dans le temps court et collaboratif en même temps que dans le temps long (individuel et collectif) -qui reste indispensable. 
+Une fois de plus, l’intelligence collective a été productive, rapidement : les conclusions moissonnées le jour même par le groupe de travail des animateurs de sessions sont parues le mois suivant. Cette réactivité, à mettre au crédit de l’Hcéres, et notamment de Jacques Dubucs qui a monté ce Colloque, nous rappelle que la science, pour servir la société, doit savoir travailler dans le temps court et collaboratif en même temps que dans le temps long (individuel et collectif) -qui reste indispensable.
 
 En ce qui concerne le livre, la première des recommandations issue du colloque appelle, précisément, à prendre en compte la diversité des productions, et à en faciliter l'accès en accès ouvert. Mais les communications qui suivent vont bien au delà de cette simple recommandation.
->>>>>>> 200fe9e999c5f4c314d32cb05865f9d34c80c912
