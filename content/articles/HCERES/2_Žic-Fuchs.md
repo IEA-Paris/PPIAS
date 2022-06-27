@@ -1,7 +1,7 @@
 ---
 issue: content/issues/HCERES.md
 keywords: []
-date: 2022-05-16T00:00:57.000+00:00
+date: 2022-05-16T12:00:57Z
 language: English
 disciplines: ''
 needDOI: true
