@@ -54,7 +54,7 @@ export default {
     )[0]
     const latestIssueArticles = await $content('articles', { deep: true })
       .where({ issue: { $regex: latestIssue.path }, published: true })
-      .sortBy('date', 'desc')
+      .sortBy('date', 'asc')
       .fetch()
     const featuredArticles = await $content('articles', { deep: true })
       .where({ highlight: true, published: true })

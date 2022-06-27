@@ -34,7 +34,7 @@
                   tile
                   v-bind="attrs"
                   nuxt
-                  :href="'/authors/' + item.slug"
+                  :href="'/issue/' + item.slug"
                   target="_blank"
                   :title="item.post_title"
                   small
