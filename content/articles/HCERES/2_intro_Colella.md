@@ -6,7 +6,7 @@ language: English
 disciplines: ''
 needDOI: true
 published: true
-article_title: Introductory words to the session on plurilinguism
+article_title: Introductory words to the discussion on plurilinguism
 authors:
 - firstname: 'Silvana '
   lastname: Colella
