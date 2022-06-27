@@ -1,12 +1,12 @@
 ---
 issue: content/issues/HCERES.md
 keywords: []
-date: 2022-05-16T12:00:14Z
+date: 2022-05-16T12:00:14.000+00:00
 language: English
 disciplines: ''
 needDOI: true
 published: true
-article_title: Introductory words
+article_title: Introductory words to the session on plurilinguism
 authors:
 - firstname: 'Silvana '
   lastname: Colella
