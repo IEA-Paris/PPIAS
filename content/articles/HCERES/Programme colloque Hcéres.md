@@ -7,7 +7,8 @@ disciplines: ''
 needDOI: false
 published: true
 article_title: Programme du Colloque "Évaluation des Sciences humaines et sociales
-  en Europe" organisé à l’Institut d'Etudes Avancées de Paris les 16 et 17 mai 2022
+  en Europe" organisé par l'Hcéres à l’Institut d'Etudes Avancées de Paris les 16
+  et 17 mai 2022
 authors:
 - firstname: " "
   lastname: Hcéres
@@ -55,7 +56,7 @@ bibliography: ''
 doi: ''
 
 ---
-Dans le cadre de la Présidence Française de l’Union Européenne 2022 (PFUE), le Hcéres a organisé les 16 et 17 mai 2022 un colloque au sujet de l’**Évaluation des Sciences humaines et sociales en Europe**.
+Dans le cadre de la Présidence Française de l’Union Européenne 2022 (PFUE), le Hcéres a organisé les 16 et 17 mai 2022 un colloque sur **l’Évaluation des Sciences Humaines et Sociales en Europe**.
 
 Le colloque, qui eut lieu à l’Institut d'Etudes Avancées de Paris (17 quai d’Anjou, 75004) a réuni près de 30 intervenants d’universités et organismes européens et a traité notamment des livres dans la recherche SHS, du plurilinguisme et de la participation des SHS à la recherche européenne. Ce Colloque a également produit des recommandations.
 
