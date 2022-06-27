@@ -1,7 +1,7 @@
 ---
 issue: content/issues/HCERES.md
 keywords: []
-date: 2022-06-27T09:35:09Z
+date: 2022-06-27T09:35:09.000+00:00
 language: English
 disciplines: ''
 needDOI: false
@@ -74,9 +74,9 @@ Afin de nourrir les échanges lors du colloque, un questionnaire fondé sur les 
 **9h30** - Ouverture : **Jacques Dubucs** (Hcéres)
 
 **9h45 -12h45
- Session I : Les livres dans la recherche SHS**
+Session I : Les livres dans la recherche SHS**
 
-**Présidence de session : Saadi Lahlou, FR (IEA Paris)**
+**Présidence de session : Saadi Lahlou, FR** (IEA Paris)
 
 **9h45** - Introduction : **Pierre Mounier, FR** (EHESS, OpenEdition, Operas, DOAB)
 
@@ -101,9 +101,9 @@ Afin de nourrir les échanges lors du colloque, un questionnaire fondé sur les 
 **12h45** - Buffet
 
 **14h - 18h  
- Session II : Plurilinguisme**
+Session II : Plurilinguisme**
 
-**Présidence de session : Silvana Collela, IT (EASSH)**
+**Présidence de session : Silvana Collela, IT** (EASSH)
 
 **14h** - Introduction : **Milena ZIC-FUCHS, HR** (Université de Zagreb)
 
@@ -132,9 +132,9 @@ Afin de nourrir les échanges lors du colloque, un questionnaire fondé sur les 
 **17 mai**
 
 **9h - 13h
- Session III : La participation des SHS à la recherche européenne**
+Session III : La participation des SHS à la recherche européenne**
 
-**Présidence de session : Ortwin de Graef, BE (Leuven, LERU)**
+**Présidence de session : Ortwin de Graef, BE** (Leuven, LERU)
 
 **9h** - Présentation de l’enquête européenne sur les SHS (Athena, EASSH, ENRESSH, Hcéres)
 
@@ -157,6 +157,6 @@ Afin de nourrir les échanges lors du colloque, un questionnaire fondé sur les 
 * **Michael Ochsner, CH** (FORS, ENRESSH)
 * **Coralie Chevallier, FR** (INSERM, PSL)
 
-**12h30** - Allocution de clôture par **Thierry Coulhon**, président du Hcéres
+**12h30** - Allocution de clôture par **Thierry Coulhon, président du Hcéres**
 
 **13h** - Cocktail déjeunatoire
