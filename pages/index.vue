@@ -2,8 +2,8 @@
   <v-container
     v-scroll="onScroll"
     class="transition-swing"
-    :fluid="!$store.state.scrolled"
     :class="{ 'py-0': !$store.state.scrolled }"
+    fluid
   >
     <v-row class="transition-swing">
       <v-col class="transition-swing" cols="12">
