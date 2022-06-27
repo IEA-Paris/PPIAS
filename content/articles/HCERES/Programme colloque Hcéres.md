@@ -2,7 +2,7 @@
 issue: content/issues/HCERES.md
 keywords: []
 date: 2022-05-16T05:35:09Z
-language: English
+language: French
 disciplines: ''
 needDOI: false
 published: true
