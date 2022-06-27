@@ -116,6 +116,7 @@ export default {
         .where({
           slug: params.slug,
         })
+        .sortBy('date', 'desc')
         .fetch()
     )[0]
     console.log(' item.path ', 'content' + item.path + '.md')
