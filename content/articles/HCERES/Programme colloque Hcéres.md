@@ -5,7 +5,7 @@ date: 2022-06-27T09:45:09Z
 language: English
 disciplines: ''
 needDOI: false
-published: false
+published: true
 article_title: Programme du Colloque "Évaluation des Sciences humaines et sociales
   en Europe" organisé à l’Institut d'Etudes Avancées de Paris les 16 et 17 mai 2022
 authors:
@@ -71,9 +71,9 @@ Afin de nourrir les échanges lors du colloque, un questionnaire fondé sur les 
 
 **9h** - Accueil des participants
 
-**9h30** - Ouverture : **Jacques Dubucs** (Hcéres) 
+**9h30** - Ouverture : **Jacques Dubucs** (Hcéres)
 
-**9h45 -12h45   
+**9h45 -12h45
  Session I : Les livres dans la recherche SHS**
 
 **Présidence de session : Saadi Lahlou, FR (IEA Paris)**
@@ -131,7 +131,7 @@ Afin de nourrir les échanges lors du colloque, un questionnaire fondé sur les 
 
 **17 mai**
 
-**9h - 13h   
+**9h - 13h
  Session III : La participation des SHS à la recherche européenne**
 
 **Présidence de session : Ortwin de Graef, BE (Leuven, LERU)**
