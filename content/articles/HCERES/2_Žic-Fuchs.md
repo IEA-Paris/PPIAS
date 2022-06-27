@@ -1,7 +1,7 @@
 ---
 issue: content/issues/HCERES.md
 keywords: []
-date: 2022-05-16T00:00:57Z
+date: 2022-05-16T00:00:57.000+00:00
 language: English
 disciplines: ''
 needDOI: true
@@ -29,7 +29,7 @@ authors:
   reference: ''
 custom_pdf: ''
 abstract: Colloquium Evaluation of Social Sciences and Humanities in Europe Paris
-  IAS, 16-17 May 2022 - Session 2 "Multilingualism"
+  IAS, 16-17 May 2022 - Session 2 "Multilingualism", keynote
 picture: ''
 picture_copyright: ''
 yt: ''
