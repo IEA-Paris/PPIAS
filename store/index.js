@@ -25,7 +25,7 @@ export const mutations = {
 
   loadRouteQuery(state, type, rootState) {
     const query = this.app.router.currentRoute.query
-    console.log('query: ', query)
+
     if (query.search) {
       Vue.set(state[type], 'search', query.search)
     }
@@ -106,7 +106,6 @@ export const mutations = {
   setBlankState(state, type) {
     Vue.set(state, 'resetFilters', true)
 
-    console.log('RESET STATE', type)
     const defaultView =
       lists[type].views[
         Object.keys(lists[type].views).find(
@@ -252,7 +251,7 @@ export const actions = {
     } else {
       pipeline.$or = pipeline.$or.flat()
     }
-    console.log('pipeline: ', pipeline)
+
     const count = await this.$content(type, { deep: true })
       .search(rootState[type].search)
       .where(pipeline)
@@ -260,11 +259,9 @@ export const actions = {
       .fetch()
 
     const totalItems = count.length
-    console.log('totalItems: ', totalItems)
 
     // use Math.ceil to round up to the nearest whole number
     const lastPage = Math.ceil(totalItems / rootState[type].itemsPerPage)
-    console.log('lastPage: ', lastPage)
 
     // use the % (modulus) operator to get a whole remainder
     const lastPageCount = totalItems % rootState[type].itemsPerPage
@@ -281,7 +278,7 @@ export const actions = {
       }
       return (+rootState[type].page - 1) * rootState[type].itemsPerPage
     }
-    console.log('pipeline: ', pipeline)
+
     const sortArray =
       rootState[type].view === 'issues'
         ? [
@@ -291,7 +288,7 @@ export const actions = {
             rootState[type].sortDesc ? 'asc' : 'desc',
           ]
         : [rootState[type].sortBy[0], rootState[type].sortDesc ? 'desc' : 'asc']
-    console.log('sortArray: ', sortArray)
+
     const items = await this.$content(type, { deep: true })
       .where(pipeline)
       .search(rootState[type].search)
@@ -312,8 +309,7 @@ export const actions = {
           (item) => lists[type].sort[item].default === true
         )
       ]
-    console.log('defaultView: ', defaultView)
-    console.log('defaultSort: ', defaultSort)
+
     // update route
     const query = {
       ...(rootState[type].search &&
@@ -382,7 +378,7 @@ export const actions = {
     } */
     /*     const isDesc = rootState[type].sortDesc[0] || defaultSort.value[1]
     const sorter = rootState[type].sortBy[0] || defaultSort.value[0]
-    console.log('sorter: ', sorter)
+    
     items = items.sort(
       (a, b) =>
         (isDesc ? a[sorter] : b[sorter]) - (isDesc ? b[sorter] : a[sorter])
@@ -413,7 +409,7 @@ export const actions = {
       ['list', 'text'].includes(rootState[type].view)
     ) {
       items = items.sort((a, b) => b.highlight - a.highlight)
-      console.log('length2', items.length)
+      
       commit('setFiltersCount')
       commit('setItems', {
         items,

@@ -7,7 +7,7 @@ date: '2021-12-09T09:00:24.000Z'
 highlight: false
 id: EtpubPswH2M
 index: 0
-issue: content/issues/WPRN21.md
+issue: content/issues/WPRN21 Conference.md
 language: English
 picture: ''
 type: youtube

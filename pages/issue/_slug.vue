@@ -116,7 +116,6 @@ export default {
         .where({
           slug: params.slug,
         })
-        .sortBy('date', 'asc')
         .fetch()
     )[0]
     console.log(' item.path ', 'content' + item.path + '.md')
@@ -125,6 +124,7 @@ export default {
         issue: { $eq: 'content' + item.path + '.md' },
         published: true,
       })
+      .sortBy('date', 'asc')
       .fetch()
     store.commit('setLoading', false)
 

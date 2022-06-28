@@ -128,7 +128,7 @@
           <template v-if="item.footnotes && item.footnotes.length">
             <div
               id="footnotes"
-              class="text-h4 mt-3 ml-3"
+              class="text-h4 mt-3"
               :class="$vuetify.breakpoint.xs ? 'ml-0' : 'ml-3'"
             >
               {{ $t('footnotes') }}
@@ -242,6 +242,9 @@ export default {
 .node .index {
   color: rgba(0, 0, 0, 0.2);
   text-decoration: none;
+}
+.node > div {
+  width: 100%;
 }
 .node:hover .index {
   color: black;

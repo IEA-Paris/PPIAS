@@ -22,6 +22,7 @@ firstname: Maxi
 issue:
   - content/issues/10-12-2021.md
   - content/issues/WPRN21.md
+  - content/issues/WPRN21 Conference.md
 language:
   - English
   - ''

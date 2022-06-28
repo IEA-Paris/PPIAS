@@ -146,8 +146,6 @@
             [item.article_title, item.slug]
           )
         }}
-        Page
-        <span class="page-number"></span>
       </small>
     </footer>
   </article>
@@ -180,8 +178,34 @@ export default {
         : ''
     },
   },
-  mounted() {},
-  methods: {},
+  destroyed() {
+    if (window) window.removeEventListener('onbeforeprint', this.keyDown)
+  },
+  mounted() {
+    if (window) window.addEventListener('onbeforeprint', this.addPageNumbers)
+    console.log('toue', this.$route)
+  },
+  methods: {
+    addPageNumbers() {
+      const totalPages = Math.ceil(document.body.scrollHeight / 1123) // 842px A4 pageheight for 72dpi, 1123px A4 pageheight for 96dpi,
+      for (let i = 1; i <= totalPages; i++) {
+        const pageNumberDiv = document.createElement('div')
+        const pageNumber = document.createTextNode(
+          'Page ' + i + ' of ' + totalPages
+        )
+        pageNumberDiv.style.position = 'absolute'
+        pageNumberDiv.style.top = 'calc((' + i + ' * (297mm - 0.5px)) - 440px)' // 297mm A4 pageheight; 0,5px unknown needed necessary correction value; additional wanted 40px margin from bottom(own element height included)
+        pageNumberDiv.style.height = '16px'
+        pageNumberDiv.appendChild(pageNumber)
+        document.body.insertBefore(
+          pageNumberDiv,
+          document.getElementById('content')
+        )
+        pageNumberDiv.style.left =
+          'calc(100% - (' + pageNumberDiv.offsetWidth + 'px + 280px))'
+      }
+    },
+  },
 }
 </script>
 <style lang="scss">
@@ -202,6 +226,7 @@ td {
 .nuxt-content.article-body p,
 .nuxt-content.article-body ul li,
 .csl-bib-body,
+.bibliography-panel,
 .footnotes-panel {
   font-size: 24px !important;
   margin-bottom: 15px;
@@ -248,13 +273,25 @@ td {
   margin-bottom: 0.6em;
   color: rgb(37, 37, 37);
 }
+
+.page-number {
+  display: table-footer-group;
+  counter-increment: page;
+}
+
+.page-number:after {
+  content: 'Page ' counter(page);
+  text-align: right;
+  white-space: nowrap;
+  z-index: 20;
+}
 @page {
   margin: 2cm 4cm 0cm 1cm;
 }
 
 @media print {
   table.paging tfoot td {
-    height: 1in;
+    height: 1.2in;
   }
   table.paging thead td {
     height: 1.8in;
@@ -270,7 +307,7 @@ td {
   margin: 0px 1em;
 }
 footer {
-  height: 1in;
+  height: 1.2in;
 }
 header {
   height: 1.5in;
@@ -279,6 +316,7 @@ header {
 header,
 footer {
   width: 100%;
+  max-width: 800px;
 }
 
 header {
@@ -292,12 +330,7 @@ header {
   margin-bottom: 0.5cm;
 }
 .print-footer-text {
-  max-width: 100% !important;
-}
-.page-number:after {
-  text-align: right;
-  counter-increment: page;
-  content: counter(page);
+  max-width: 15cm !important;
 }
 
 @media print {

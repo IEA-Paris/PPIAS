@@ -6,7 +6,7 @@
         :key="ref.id"
         :to="ref.link ? '#blbb-' + ref.id : ''"
         nuxt
-        :class="$vuetify.breakpoint.xs ? 'pl-0' : 'pl-3'"
+        :class="$vuetify.breakpoint.xs ? 'pl-0' : 'pl-4'"
       >
         <v-list-item-content :id="ref.id" v-html="ref[style]">
         </v-list-item-content></v-list-item
