@@ -152,6 +152,7 @@ fields:
     field: needDOI
     value: false
 pages:
+- content/articles/HCERES - PFUE 2022/2.2.2_Kulczycki.md
 - content/articles/ICA4.md
 - content/articles/Memorandums/Memorandum 12.md
 - content/articles/Memorandums/Memorandum 13.md
