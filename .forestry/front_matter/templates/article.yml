@@ -152,39 +152,9 @@ fields:
     field: needDOI
     value: false
 pages:
-- content/articles/HCERES/0.1. Coulhon intro générale.md
-- content/articles/HCERES/1.0. Dubucs.md
-- content/articles/HCERES/1.1.0 Lahlou Intro session Livres.md
-- content/articles/HCERES/1.1.1_Gimenez.md
-- content/articles/HCERES/1.1.2_Jermen.md
-- content/articles/HCERES/1.1.4_Williams.md
-- content/articles/HCERES/1.1_int_Galleron.md
-- content/articles/HCERES/1.2.1_Rooryck.md
-- content/articles/HCERES/1.2.2_Stern.md
-- content/articles/HCERES/1.2.3_Teira.md
-- content/articles/HCERES/1_Mounier.md
-- content/articles/HCERES/2.1.1_Bonaccorsi.md
-- content/articles/HCERES/2.1.2_Edmond.md
-- content/articles/HCERES/2.1.3_Pölönen.md
-- content/articles/HCERES/2.1_intro_Bouin.md
-- content/articles/HCERES/2.2_intro_Williams.md
-- content/articles/HCERES/2_intro_Colella.md
-- content/articles/HCERES/2_Žic-Fuchs.md
-- content/articles/HCERES/3.1.1_Nowotny.md
-- content/articles/HCERES/3.1.1_Vanholsbeeck.md
-- content/articles/HCERES/3.1.4_Kirman.md
-- content/articles/HCERES/3_Lucaroni.md
-- content/articles/HCERES/4.0 Recommendations.md
+- content/articles/2.2.1_de Graef.md
 - content/articles/ICA4.md
 - content/articles/Memorandums/Memorandum 12.md
 - content/articles/Memorandums/Memorandum 13.md
 - content/articles/Memorandums/Memorandum 14.md
 - content/articles/Memorandums/Memorandum_10b.md
-- content/articles/Panel recommandations.md
-- content/articles/WPRN21/Full_papers/FP2_Kothari.md
-- content/articles/WPRN21/Full_papers/FP4_Glover.md
-- content/articles/WPRN21/Full_papers/FP_Borch.md
-- content/articles/WPRN21/Full_papers/FP_Starominski.md
-- content/articles/WPRN21/Research_notes/RN3_Papapicco.md
-- content/articles/WPRN21/Research_notes/RN4_Ervas.md
-- content/articles/WPRN21/Research_notes/RN5_Moscaritolo.md
