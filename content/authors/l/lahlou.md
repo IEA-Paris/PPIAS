@@ -6,6 +6,7 @@ articles:
   - WPRN21_Conference
   - Our_Microbial_Lives
   - Lahlou Intro
+  - 1.1.0 Lahlou Intro session Livres
 categories:
   - content/categories/WPRN21.md
   - []

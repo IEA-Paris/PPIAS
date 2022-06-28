@@ -143,7 +143,7 @@
         {{
           $t(
             'this-article-is-available-online-at-env-name-articles-item-slug',
-            [item.article_title, item.slug]
+            [$config.url, item.slug]
           )
         }}
       </small>

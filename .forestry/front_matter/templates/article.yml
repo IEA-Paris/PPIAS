@@ -152,6 +152,9 @@ fields:
     field: needDOI
     value: false
 pages:
+- content/articles/HCERES/0.1. Coulhon intro générale.md
+- content/articles/HCERES/1.0. Dubucs.md
+- content/articles/HCERES/1.1.0 Lahlou Intro session Livres.md
 - content/articles/HCERES/1.1.1_Gimenez.md
 - content/articles/HCERES/1.1.2_Jermen.md
 - content/articles/HCERES/1.1.4_Williams.md
@@ -171,7 +174,7 @@ pages:
 - content/articles/HCERES/3.1.1_Vanholsbeeck.md
 - content/articles/HCERES/3.1.4_Kirman.md
 - content/articles/HCERES/3_Lucaroni.md
-- content/articles/HCERES/Lahlou Intro.md
+- content/articles/HCERES/4.0 Recommendations.md
 - content/articles/ICA4.md
 - content/articles/Memorandums/Memorandum 12.md
 - content/articles/Memorandums/Memorandum 13.md
