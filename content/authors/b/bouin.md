@@ -3,6 +3,7 @@ active: true
 articles:
   - Closing Panel-WPRN21
   - 2.1_intro_Bouin
+  - 2.1.0_intro_Bouin
 categories:
   - content/categories/WPRN21.md
   - []
