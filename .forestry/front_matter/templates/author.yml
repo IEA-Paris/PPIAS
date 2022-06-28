@@ -113,6 +113,10 @@ fields:
   description: This will be used to distinguish between homonyms. Facultative field.
     If not provided, orcid (if available) or firstname + lastname will be used to
     match articles authors against a unique person.
+- name: is_institution
+  type: boolean
+  label: institution
+  description: Does this author document refers to an institution?
 pages:
 - content/authors/b/beebee.md
 - content/authors/b/bonaccorsi.md
