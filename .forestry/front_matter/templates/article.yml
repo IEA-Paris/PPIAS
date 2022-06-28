@@ -152,7 +152,6 @@ fields:
     field: needDOI
     value: false
 pages:
-- content/articles/2.2.1_de Graef.md
 - content/articles/ICA4.md
 - content/articles/Memorandums/Memorandum 12.md
 - content/articles/Memorandums/Memorandum 13.md
