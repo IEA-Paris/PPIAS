@@ -47,7 +47,8 @@
           <v-icon>mdi-close</v-icon>
         </v-btn>
       </div>
-      <div class="mt-2" v-html="note"></div>
+      <nuxt-content v-if="footnote" :document="note" />
+      <div v-else class="mt-2" v-html="note"></div>
     </v-snackbar>
   </ArticleContainer>
 </template>
@@ -57,11 +58,10 @@ export default {
     console.log('to.hash: ', to.hash)
     if (to.hash && to.hash.startsWith('#fn-')) {
       this.footnote = true
-      this.note = this.item[0]?.footnotes[+to.hash.substring(4) - 1].value
+      this.note = this.item[0]?.footnotes[+to.hash.substring(4) - 1]
       this.showNote = true
       this.noteIndex = +to.hash.substring(4)
       window.addEventListener('scroll', this.hideSnack)
-      next(from)
     } else if (to.hash && to.hash.startsWith('#bb-')) {
       this.note = this.item[0].bibliography.find(
         (item) => item.id === to.hash.substring(4)
@@ -74,7 +74,6 @@ export default {
         window.addEventListener('scroll', this.hideSnack())
         next(from)
       }
-      next(from.path)
     } else if (to.hash && to.hash.substring(1).startsWith('blfn')) {
       this.$vuetify.goTo(to.hash.replace('#blfn', '#fn'), { offset: 100 })
     } else if (to.hash && to.hash.substring(1).startsWith('blbb')) {
@@ -117,6 +116,9 @@ export default {
   computed: {},
   mounted() {
     this.$store.commit('setLoading', false)
+  },
+  destroyed() {
+    window.removeEventListener('scroll', this.hideSnack)
   },
   methods: {
     onIntersect(entries, observer) {

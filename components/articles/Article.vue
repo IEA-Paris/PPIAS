@@ -128,8 +128,8 @@
           <template v-if="item.footnotes && item.footnotes.length">
             <div
               id="footnotes"
-              class="text-h4 mt-3"
-              :class="$vuetify.breakpoint.xs ? 'ml-0' : 'ml-3'"
+              class="text-h4 mt-3 d-flex"
+              :class="$vuetify.breakpoint.xs ? 'ml-0' : 'ml-6'"
             >
               {{ $t('footnotes') }}
             </div>
@@ -271,7 +271,6 @@ export default {
 }
 .abstract-panel {
   border: 1px black solid;
-  margin: 1em;
   padding-bottom: 1em;
   padding-left: 1em;
   padding-right: 1em;

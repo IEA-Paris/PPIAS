@@ -2,7 +2,7 @@ import { env } from 'process'
 import Citation from 'citation-js'
 import {
   insertReferences,
-  replaceReferenceInString,
+  replaceReferenceInFootnote,
   insertReferencesInAbstract,
 } from '../lib/contentUtilities'
 import filters from '../../assets/generated/filters'
@@ -156,6 +156,7 @@ export default (document, database) => {
         (document.date && document.date.getFullYear()) ||
         new Date().now().getFullYear()
       const toc2 = []
+      // add the youtube thumbnail to the media of the article
       if (document.yt) {
         document.media.push({
           index: 0,
@@ -164,9 +165,11 @@ export default (document, database) => {
           caption: document.article_title,
         })
       }
+
       document.body.children = document.body.children.map((child, index) => {
         if (child.value !== '\n') {
           count++
+          // deal with footnotes
           if (
             child?.props?.className &&
             child?.props?.className.length &&
@@ -174,17 +177,30 @@ export default (document, database) => {
           ) {
             child.children
               .find((node) => node.tag === 'ol')
-              .children.map((footnote) => {
-                if (footnote.tag === 'li') {
-                  document.footnotes.push({
-                    // TODO offset backlink on Y axis
-                    backlink: footnote.children[1].props.href,
-                    value: replaceReferenceInString(
-                      footnote.children[0].value,
-                      document.bibliography
-                    ),
-                  })
-                }
+              .children.filter((child) => child.tag === 'li')
+              .map((footnote, index) => {
+                document.footnotes.push({
+                  // TODO offset backlink on Y axis
+                  backlink: footnote.children[1].props.href,
+                  body: {
+                    children: [
+                      {
+                        type: 'element',
+                        tag: 'b',
+                        props: {
+                          id: index,
+                          // TODO addd vuetify goTo instead of link
+                        },
+                        children: [{ type: 'text', value: index + ' : ' }],
+                      },
+                      ...replaceReferenceInFootnote(
+                        footnote,
+                        document.bibliography
+                      ).children,
+                    ],
+                    type: 'root',
+                  },
+                })
                 return true
               })
             return {

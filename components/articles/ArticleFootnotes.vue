@@ -1,5 +1,9 @@
 <template>
-  <v-list two-line max-width="650px">
+  <v-list
+    two-line
+    max-width="650px"
+    :class="$vuetify.breakpoint.xs ? 'pl-0' : 'pl-4'"
+  >
     <v-list-item
       v-for="(footnote, index) in item.footnotes"
       :key="index"
@@ -7,10 +11,11 @@
       nuxt
     >
       <v-list-item-content>
-        <span
-          ><b>{{ index + 1 }}</b
-          >: <span v-html="footnote.value"></span
-        ></span>
+        <nuxt-content
+          :document="footnote"
+          style="max-width: 650px"
+          class="page a4"
+        />
       </v-list-item-content>
     </v-list-item>
   </v-list>
@@ -27,7 +32,9 @@ export default {
     return {}
   },
   computed: {},
-  mounted() {},
+  mounted() {
+    console.log(this.item.footnotes)
+  },
   methods: {},
 }
 </script>

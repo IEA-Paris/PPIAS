@@ -347,7 +347,11 @@ export const insertReferences = (node, biblio) => {
               {
                 type: 'element',
                 tag: 'a',
-                props: { id: 'bb-' + ref.id, href: '#bb-' + ref.id },
+                props: {
+                  id: 'bb-' + ref.id,
+                  href: '#bb-' + ref.id,
+                  onclick: 'event.stopPropagation();',
+                },
                 children: [
                   {
                     type: 'text',
@@ -378,26 +382,32 @@ export const insertReferences = (node, biblio) => {
     console.log('error: ', error)
   }
 }
-export const replaceReferenceInString = (text, biblio) => {
-  const matches = text.match(referenceRegex)
-  if (matches !== null) {
-    for (let index = 0; index < matches.length; index++) {
-      const element = matches[index]
-      // find the related reference
-      const ref = biblio.find(
-        (item) => item.id === element.toLowerCase().substring(1)
-      )
-      if (!ref) {
-        console.log('REFERENCE NOT FOUND IN BIB FILE: ', element)
-        continue
+export const replaceReferenceInFootnote = (footnote, biblio) => {
+  if (!footnote.value && footnote.children.length) {
+    footnote.children = footnote.children.map((footNoteChild) =>
+      replaceReferenceInFootnote(footNoteChild, biblio)
+    )
+  } else {
+    const matches = footnote.value.match(referenceRegex)
+    if (matches !== null) {
+      for (let index = 0; index < matches.length; index++) {
+        const element = matches[index]
+        // find the related reference
+        const ref = biblio.find(
+          (item) => item.id === element.toLowerCase().substring(1)
+        )
+        if (!ref) {
+          console.log('REFERENCE NOT FOUND IN BIB FILE: ', element)
+          continue
+        }
+        ref.link = true
+        // edit the node to include the link
+        footnote.value = footnote.value.replace(
+          element,
+          `<a id="bb-${ref.id}" href="#bb-${ref.id}" onclick="event.stopPropagation();">${ref.citation}</a>`
+        )
       }
-      ref.link = true
-      // edit the node to include the link
-      text = text.replace(
-        element,
-        `<a id="bb-${ref.id}" href="#bb-${ref.id}" onclick="event.stopPropagation();">${ref.citation}</a>`
-      )
     }
   }
-  return text
+  return footnote
 }
