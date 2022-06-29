@@ -191,7 +191,7 @@ export default (document, database) => {
                           id: index,
                           // TODO addd vuetify goTo instead of link
                         },
-                        children: [{ type: 'text', value: index + ' : ' }],
+                        children: [{ type: 'text', value: index + 1 + ' : ' }],
                       },
                       ...replaceReferenceInFootnote(
                         footnote,

@@ -4,12 +4,7 @@
     max-width="650px"
     :class="$vuetify.breakpoint.xs ? 'pl-0' : 'pl-4'"
   >
-    <v-list-item
-      v-for="(footnote, index) in item.footnotes"
-      :key="index"
-      :to="'#bl' + footnote.backlink.substring(1)"
-      nuxt
-    >
+    <v-list-item v-for="(footnote, index) in item.footnotes" :key="index" nuxt>
       <v-list-item-content>
         <nuxt-content
           :document="footnote"
