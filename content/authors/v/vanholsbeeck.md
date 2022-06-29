@@ -2,7 +2,7 @@
 active: true
 articles:
   - 3.1.3_Vanholsbeeck
-createdAt: '2022-06-29T14:40:01.735Z'
+createdAt: '2022-06-29T15:21:53.366Z'
 exerpt: ''
 firstname: Marc
 is_institution: false
@@ -33,5 +33,4 @@ titles_and_institutions:
     titles: []
 years:
   - 2022
-
 ---
