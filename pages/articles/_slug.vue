@@ -58,7 +58,15 @@ export default {
     console.log('to.hash: ', to.hash)
     if (to.hash && to.hash.startsWith('#fn-')) {
       this.footnote = true
-      this.note = this.item[0]?.footnotes[+to.hash.substring(4) - 1]
+      const footnote = this.item[0]?.footnotes[+to.hash.substring(4) - 1]
+
+      this.note = {
+        body: {
+          children: footnote.body.children.shift(),
+          ...footnote.body,
+        },
+        ...footnote,
+      }
       this.showNote = true
       this.noteIndex = +to.hash.substring(4)
       window.addEventListener('scroll', this.hideSnack)
