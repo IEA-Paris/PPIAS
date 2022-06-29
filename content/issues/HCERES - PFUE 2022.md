@@ -1,7 +1,9 @@
 ---
 date: 2022-06-16T13:46:12.000+00:00
-name_of_the_issue: "The Evaluation of Social Sciences and Humanities in Europe. <br>
-Proceedings of the colloquium organized by HCÉRES in the framework of the French Presidency of the European Union. Paris Institute For Advanced Study, 16-17 May 2022."
+name_of_the_issue: The Evaluation of Social Sciences and Humanities in Europe. <br>
+  Proceedings of the conference organized by HCÉRES in the framework of the French
+  Presidency of the European Union. Paris Institute For Advanced Study, 16-17 May
+  2022.
 cover: ''
 title: HCERES - PFUE 2022
 
