@@ -5,7 +5,7 @@ articles:
 exerpt: ''
 firstname: Elise
 issue:
-  - content/issues/OML.md
+  - content/issues/Our Microbial Lives.md
 language:
   - French
 lastname: Tancoigne

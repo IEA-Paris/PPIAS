@@ -34,6 +34,7 @@ issue:
   - content/issues/OML.md
   - content/issues/HCERES - PFUE 2022.md
   - content/issues/WPRN21 Conference.md
+  - content/issues/Our Microbial Lives.md
 language:
   - English
   - ''

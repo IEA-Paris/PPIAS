@@ -10,7 +10,7 @@
         <v-row justify="center">
           <v-col cols="12" md="8" lg="6">
             <div
-              class="main-title"
+              class="main-title transition-swing"
               :class="$store.state.scrolled ? 'mb-16 mt-8' : 'mb-8 mt-2'"
               v-html="$config.full_name"
             ></div>
@@ -28,14 +28,16 @@
             <!--  Featured articles -->
             <div class="text-h6">{{ $t('featured-articles') }}</div>
             <v-divider></v-divider>
-            <ArticlesListItemMobile
-              v-for="(article, index) in featuredArticles"
-              v-bind="$attrs"
-              :key="index"
-              :index="index"
-              :item="article"
-              :scroll="$store.state.scrolled"
-            ></ArticlesListItemMobile>
+            <v-list three-line>
+              <ArticlesListItemMobile
+                v-for="(article, index) in featuredArticles"
+                v-bind="$attrs"
+                :key="index"
+                :index="index"
+                :item="article"
+                :scroll="$store.state.scrolled"
+              ></ArticlesListItemMobile>
+            </v-list>
           </v-col>
         </v-row> </v-col
     ></v-row>

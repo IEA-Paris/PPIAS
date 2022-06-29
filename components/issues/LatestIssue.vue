@@ -1,12 +1,24 @@
 <template>
   <v-row justify="center">
-    <v-col cols="12" md="8" lg="6" xl="6">
+    <v-col
+      cols="12"
+      class="transition-swing"
+      md="8"
+      lg="6"
+      xl="6"
+      :class="{ 'py-0': !$store.state.scrolled }"
+    >
       <!--   Latest issue -->
       <div class="text-h6 grey--text text--darken-2">
         {{ $t('latest-issue') }}
       </div>
       <v-divider></v-divider>
-      <div class="text-h6 mb-6">{{ issue.title }}</div>
+      <div
+        class="text-h6 transition-swing"
+        :class="{ 'mb-6': $store.state.scrolled }"
+      >
+        {{ issue.title }}
+      </div>
       <ArticlesListItemMobile
         v-for="(article, index) in articles.slice(0, 3)"
         v-bind="$attrs"

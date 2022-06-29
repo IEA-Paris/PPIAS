@@ -51,7 +51,7 @@ abstract:
   allow us to explore synergies and raise ethical questions between these disciplines,
   which present considerable challenges and opportunities for the progress of society. '
 
-issue: content/issues/ICA.md
+issue: content/issues/Intercontinental Academia 4.md
 highlight: false
 language: English
 doi: '169059797'

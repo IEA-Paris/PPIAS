@@ -1,93 +1,95 @@
 ---
 issue: content/issues/WPRN21 Proceedings.md
 keywords:
-- COVID-19
-- vaccine hesitancy
-- risk perception
-- social trust
-- socio-demographics
+  - COVID-19
+  - vaccine hesitancy
+  - risk perception
+  - social trust
+  - socio-demographics
 date: 2022-05-01T16:10:47.000+00:00
 language: English
-doi: "169059797"
+doi: '169059797'
 disciplines: ''
 published: true
-article_title: 'Risk Perceptions, Trust in Health Authorities and Socio-Demographics
+article_title:
+  'Risk Perceptions, Trust in Health Authorities and Socio-Demographics
   Predict Intent to Get Vaccinated Against COVID-19: Evidence from 23 Countries'
 authors:
-- firstname: 'David '
-  lastname: Schieferdecker
-  titles_and_institutions:
-  - titles: []
-    institution: Free University Berlin, Germany
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: 'Stephanie '
-  lastname: Godleski
-  titles_and_institutions:
-  - titles: []
-    institution: Rochester Institute of Technology, USA
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: 'Gerit '
-  lastname: Pfuhl
-  titles_and_institutions:
-  - titles: []
-    institution: UiT, The Arctic University of Norway, Norway
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: 'Ammina '
-  lastname: Kothari
-  titles_and_institutions:
-  - titles: []
-    institution: University of Rhode Island, USA
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
+  - firstname: 'David '
+    lastname: Schieferdecker
+    titles_and_institutions:
+      - titles: []
+        institution: Free University Berlin, Germany
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: 'Stephanie '
+    lastname: Godleski
+    titles_and_institutions:
+      - titles: []
+        institution: Rochester Institute of Technology, USA
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: 'Gerit '
+    lastname: Pfuhl
+    titles_and_institutions:
+      - titles: []
+        institution: UiT, The Arctic University of Norway, Norway
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: 'Ammina '
+    lastname: Kothari
+    titles_and_institutions:
+      - titles: []
+        institution: University of Rhode Island, USA
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid_id: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
 custom_pdf: ''
-abstract: Research has suggested relatively low global levels of intent to get vaccinated
+abstract:
+  Research has suggested relatively low global levels of intent to get vaccinated
   against COVID-19 in the first months after the approval of the first generation
   of vaccines. Understanding the roots of vaccine hesitancy is crucial. We set to
   test the robustness of earlier studies on the role of risk perceptions, trust in
@@ -104,10 +106,10 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: "/documents-exportes_fp2bis.bib"
+bibliography: '/documents-exportes_fp2bis.bib'
 needDOI: false
-
 ---
+
 ## 1. INTRODUCTION
 
 Research from the US, European and some Asian countries identified a relatively low vaccination rate for the first generation of COVID-19 vaccines after their release (@sallam_covid-19_2021; @fridman_covid-19_2021; @troiano_vaccine_2021). To end the pandemic, greater acceptance of the COVID-19 vaccine is essential. To identify predictors of vaccine hesitancy and willingness to get vaccinated will help public health campaigns become more effective. In the present study, we add to the exploding literature that tries to explain COVID-19 vaccine hesitancy by exploiting a large survey data set that comprises more than 1.5 million respondents on Facebook from 23 countries : the United States; 10 countries in Asia (Bangladesh, India, Indonesia, Japan, Malaysia, Pakistan, Philippines, Thailand, Turkey, Vietnam), two in Africa (Egypt, Nigeria), six in Europe (France, Germany, Italy, Poland, Romania, United Kingdom) and four in Latin America (Argentina, Brazil, Colombia, Mexico).
@@ -128,7 +130,7 @@ Altogether, these clusters were determined to be important possible contributors
 
 ### 2.1 Data source
 
-We used data collected from a global survey of Facebook users for our study. Our analysis is therefore based on a prechosen set of variables and measures. The survey was an omnibus-survey themed around COVID-19 beliefs, behaviors, and norms. The survey was conducted by the Massachusetts Institute of Technology in collaboration with Facebook, with input from researchers at Johns Hopkins University, the World Health Organization, and the Global Outbreak Alert and Response Network. It was implemented as rolling cross-sections with 19 bi-weekly waves (@collis_global_2022). Although several measures were taken to minimize the representation error, we do not treat the data as being representative in the narrower sense for the country population. Full information about the data collection is available at[ ](https://covidsurvey.mit.edu)[https://covidsurvey.mit.edu](https://covidsurvey.mit.edu "https://covidsurvey.mit.edu").
+We used data collected from a global survey of Facebook users for our study. Our analysis is therefore based on a prechosen set of variables and measures. The survey was an omnibus-survey themed around COVID-19 beliefs, behaviors, and norms. The survey was conducted by the Massachusetts Institute of Technology in collaboration with Facebook, with input from researchers at Johns Hopkins University, the World Health Organization, and the Global Outbreak Alert and Response Network. It was implemented as rolling cross-sections with 19 bi-weekly waves (@collis_global_2022). Although several measures were taken to minimize the representation error, we do not treat the data as being representative in the narrower sense for the country population. Full information about the data collection is available at [https://covidsurvey.mit.edu](https://covidsurvey.mit.edu 'https://covidsurvey.mit.edu').
 
 ### 2.2. Measures
 
@@ -162,7 +164,7 @@ All of the aforementioned effects were statistically significant. Identifying wi
 
 When we contrasted those who were willing to get vaccinated (or were vaccinated) with those who were undecided, we found the same pattern with regards to effect direction and significance and the effect size of trust. Only respondents who had a better rating of their own health were also _less_ likely to be undecided about their intent to get vaccinated. Moreover, the effect for control of infection were no longer statistically significant.
 
-Figure 3 shows the results for 23 multinomial regression models, run separately for each country in our sample and focusing on the contrast "between the intend to vaccinate" group and the "no intend to vaccinate group". The first finding is that the effect direction for most psychological variables is rather similar for the different countries. Threat to community and trust in health authorities reduced the likelihood to be _un_willing to get vaccinated in all 23 countries. Risk of individual infection and perceived severity reduced _un_willingness to get vaccinated, perception of own health increased the likelihood of unwillingness in all but four to five countries. Having said this, the variance of the odds ratios was larger for threat to community and trust in health authorities than for the other variables. Again, the change in odds ratio was the largest for a change in one standard deviation of trust. The only predictor that did not produce a conclusive pattern and varied strongly with country was perceived control over infection
+Figure 3 shows the results for 23 multinomial regression models, run separately for each country in our sample and focusing on the contrast "between the intend to vaccinate" group and the "no intend to vaccinate group". The first finding is that the effect direction for most psychological variables is rather similar for the different countries. Threat to community and trust in health authorities reduced the likelihood to be \_un_willing to get vaccinated in all 23 countries. Risk of individual infection and perceived severity reduced \_un_willingness to get vaccinated, perception of own health increased the likelihood of unwillingness in all but four to five countries. Having said this, the variance of the odds ratios was larger for threat to community and trust in health authorities than for the other variables. Again, the change in odds ratio was the largest for a change in one standard deviation of trust. The only predictor that did not produce a conclusive pattern and varied strongly with country was perceived control over infection
 
 The effects of socio-demographics showed slight variance over countries. In various, but not all Asian countries in our sample, the gender effect was non-significant, in Bangladesh even significantly reversed. Age was non-significant or even increased unwillingness in more than a handful of countries. Education did not yield a conclusive effect pattern and varied strongly with country.
 

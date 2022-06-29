@@ -142,187 +142,187 @@ export default (document, database) => {
           return { [style]: obj }
         })
         .reduce((rst, tick) => Object.assign(rst, tick), {})
-    } catch (err) {
-      console.error(err)
-    }
 
-    // let's make the DOI if it is not available
-    // TODO move elsewhere and include it to the author document backlink rewrite
-    /*  if (!document.doi || !document.doi.length) document.doi = getDOI(document) */
-    let count = 0
-    /*   */
-    // we use the issue filter (already sorted by date) to set an index for the fetch of the view by issue
+      // let's make the DOI if it is not available
+      // TODO move elsewhere and include it to the author document backlink rewrite
+      /*  if (!document.doi || !document.doi.length) document.doi = getDOI(document) */
+      let count = 0
+      /*   */
+      // we use the issue filter (already sorted by date) to set an index for the fetch of the view by issue
 
-    document.footnotes = []
-    document.media = []
-    document.years =
-      (document.date && document.date.getFullYear()) ||
-      new Date().now().getFullYear()
-    const toc2 = []
-    if (document.yt) {
-      document.media.push({
-        index: 0,
-        type: 'youtube',
-        id: document.yt,
-        caption: document.article_title,
-      })
-    }
-    document.body.children = document.body.children.map((child, index) => {
-      if (child.value !== '\n') {
-        count++
-        if (
-          child?.props?.className &&
-          child?.props?.className.length &&
-          child?.props?.className[0] === 'footnotes'
-        ) {
-          child.children
-            .find((node) => node.tag === 'ol')
-            .children.map((footnote) => {
-              if (footnote.tag === 'li') {
-                document.footnotes.push({
-                  // TODO offset backlink on Y axis
-                  backlink: footnote.children[1].props.href,
-                  value: replaceReferenceInString(
-                    footnote.children[0].value,
-                    document.bibliography
-                  ),
-                })
-              }
-              return true
+      document.footnotes = []
+      document.media = []
+      document.years =
+        (document.date && document.date.getFullYear()) ||
+        new Date().now().getFullYear()
+      const toc2 = []
+      if (document.yt) {
+        document.media.push({
+          index: 0,
+          type: 'youtube',
+          id: document.yt,
+          caption: document.article_title,
+        })
+      }
+      document.body.children = document.body.children.map((child, index) => {
+        if (child.value !== '\n') {
+          count++
+          if (
+            child?.props?.className &&
+            child?.props?.className.length &&
+            child?.props?.className[0] === 'footnotes'
+          ) {
+            child.children
+              .find((node) => node.tag === 'ol')
+              .children.map((footnote) => {
+                if (footnote.tag === 'li') {
+                  document.footnotes.push({
+                    // TODO offset backlink on Y axis
+                    backlink: footnote.children[1].props.href,
+                    value: replaceReferenceInString(
+                      footnote.children[0].value,
+                      document.bibliography
+                    ),
+                  })
+                }
+                return true
+              })
+            return {
+              type: 'element',
+              tag: 'div',
+              props: { class: 'node d-flex' },
+              children: [child],
+            }
+          }
+          // make the upgraded toc
+
+          const flag = ['h2', 'h3', 'youtube', 'img'].indexOf(child.tag)
+          if (flag >= 0 && flag < 3) {
+            toc2.push({
+              depth: flag + 2,
+              id: child.props.id || 'youtube_' + document.media.length,
+              text:
+                document.toc.find((item) => item.id === child.props.id)?.text ||
+                child.props.caption,
+              isMedia: flag === 2,
             })
+          }
+          // it's a youtube video
+          if (flag === 2) {
+            if (!document.media.find((item) => item.id === child.props.yt))
+              document.media.push({
+                type: 'youtube',
+                index:
+                  document.media.length -
+                  (document.yt && document.yt !== child.props.yt ? 0 : 1),
+                caption: child.props.caption,
+              })
+          }
+          // it's an image
+          if (flag === 3) {
+            document.images.push({
+              url: child.props.src,
+              title: child.props.title,
+            })
+          }
           return {
             type: 'element',
             tag: 'div',
+            isHeading: ['h2', 'h3'].includes(child.tag),
+            isMedia: ['youtube'].includes(child.tag),
+            isImage: ['img'].includes(child.tag),
             props: { class: 'node d-flex' },
-            children: [child],
-          }
-        }
-        // make the upgraded toc
-
-        const flag = ['h2', 'h3', 'youtube', 'img'].indexOf(child.tag)
-        if (flag >= 0 && flag < 3) {
-          toc2.push({
-            depth: flag + 2,
-            id: child.props.id || 'youtube_' + document.media.length,
-            text:
-              document.toc.find((item) => item.id === child.props.id)?.text ||
-              child.props.caption,
-            isMedia: flag === 2,
-          })
-        }
-        // it's a youtube video
-        if (flag === 2) {
-          if (!document.media.find((item) => item.id === child.props.yt))
-            document.media.push({
-              type: 'youtube',
-              index:
-                document.media.length -
-                (document.yt && document.yt !== child.props.yt ? 0 : 1),
-              caption: child.props.caption,
-            })
-        }
-        // it's an image
-        if (flag === 3) {
-          document.images.push({
-            url: child.props.src,
-            title: child.props.title,
-          })
-        }
-        return {
-          type: 'element',
-          tag: 'div',
-          isHeading: ['h2', 'h3'].includes(child.tag),
-          isMedia: ['youtube'].includes(child.tag),
-          isImage: ['img'].includes(child.tag),
-          props: { class: 'node d-flex' },
-          children: [
-            {
-              type: 'element',
-              tag: 'a',
-              props: {
-                class:
-                  'text-right index mr-3 ' +
-                    [' mt-10', ' mt-6', 'mt-3', 'mt-3', 'mt-5'][
-                      ['h2', 'h3', 'p', 'ul', 'youtube'].indexOf(child.tag)
-                    ] || '',
-                id: count,
-                href: '#' + count,
-                // TODO addd vuetify goTo instead of link
+            children: [
+              {
+                type: 'element',
+                tag: 'a',
+                props: {
+                  class:
+                    'text-right index mr-3 ' +
+                      [' mt-10', ' mt-6', 'mt-3', 'mt-3', 'mt-5'][
+                        ['h2', 'h3', 'p', 'ul', 'youtube'].indexOf(child.tag)
+                      ] || '',
+                  id: count,
+                  href: '#' + count,
+                  // TODO addd vuetify goTo instead of link
+                },
+                children: [{ type: 'text', value: count }],
               },
-              children: [{ type: 'text', value: count }],
-            },
-            ...(flag === 2
-              ? [
-                  {
-                    type: 'element',
-                    tag: 'h2',
-                    props: {
-                      class: '',
-                      id:
-                        'youtube_' +
-                        (document.media.length -
-                          (document.yt && document.yt !== child.props.yt
-                            ? 0
-                            : 1)),
-                      // TODO addd vuetify goTo instead of link?
+              ...(flag === 2
+                ? [
+                    {
+                      type: 'element',
+                      tag: 'h2',
+                      props: {
+                        class: '',
+                        id:
+                          'youtube_' +
+                          (document.media.length -
+                            (document.yt && document.yt !== child.props.yt
+                              ? 0
+                              : 1)),
+                        // TODO addd vuetify goTo instead of link?
+                      },
+                      children: [{ type: 'text', value: ' ' }],
                     },
-                    children: [{ type: 'text', value: ' ' }],
-                  },
-                ]
-              : []),
-            {
-              type: 'element',
-              tag: 'div',
-              props: {
-                class: [' ', ' ', '', '', 'youtube', ''][
-                  ['h2', 'h3', 'p', 'ul', 'youtube', 'img'].indexOf(child.tag)
+                  ]
+                : []),
+              {
+                type: 'element',
+                tag: 'div',
+                props: {
+                  class: [' ', ' ', '', '', 'youtube', ''][
+                    ['h2', 'h3', 'p', 'ul', 'youtube', 'img'].indexOf(child.tag)
+                  ],
+                },
+                // insert Bibliographical references
+                children: [
+                  document.bibliography?.length
+                    ? insertReferences(child, document.bibliography)
+                    : child,
                 ],
               },
-              // insert Bibliographical references
-              children: [
-                document.bibliography?.length
-                  ? insertReferences(child, document.bibliography)
-                  : child,
-              ],
-            },
-          ],
+            ],
+          }
+        } else {
+          // insert Bibliographical references
+          return document.bibliography?.length
+            ? insertReferences(child, document.bibliography)
+            : child
         }
-      } else {
-        // insert Bibliographical references
-        return document.bibliography?.length
-          ? insertReferences(child, document.bibliography)
-          : child
-      }
-    })
+      })
 
-    // replace legacy toc
-    document.toc = [
-      ...toc2,
+      // replace legacy toc
+      document.toc = [
+        ...toc2,
 
-      ...(document?.bibliography?.length
-        ? [
-            {
-              depth: 2,
-              id: 'bibliography',
-              text: 'bibliography',
-              isMedia: false,
-            },
-          ]
-        : []),
+        ...(document?.bibliography?.length
+          ? [
+              {
+                depth: 2,
+                id: 'bibliography',
+                text: 'bibliography',
+                isMedia: false,
+              },
+            ]
+          : []),
 
-      ...(document?.footnotes?.length
-        ? [
-            {
-              depth: 2,
-              id: 'footnotes',
-              text: 'footnotes',
-              isMedia: false,
-            },
-          ]
-        : []),
-    ]
-    /*     console.log(`${chalk.green('✔')}  Formatted article ${document.slug}`) */
-
+        ...(document?.footnotes?.length
+          ? [
+              {
+                depth: 2,
+                id: 'footnotes',
+                text: 'footnotes',
+                isMedia: false,
+              },
+            ]
+          : []),
+      ]
+      /*     console.log(`${chalk.green('✔')}  Formatted article ${document.slug}`) */
+    } catch (err) {
+      console.error(err)
+      console.log(document.article_title)
+    }
     return document
   }
   return document

@@ -1,14 +1,15 @@
 ---
 date: 2022-06-16T13:46:12.000+00:00
-name_of_the_issue: The Evaluation of Social Sciences and Humanities in Europe. <br>
+name_of_the_issue:
+  The Evaluation of Social Sciences and Humanities in Europe. <br>
   Proceedings of the conference organized by HCÉRES in the framework of the French
   Presidency of the European Union. Paris Institute For Advanced Study, 16-17 May
   2022.
 cover: ''
 title: HCERES - PFUE 2022
-
 ---
-Dans le cadre de la Présidence Française de l’Union Européenne 2022 (PFUE), le Hcéres a organisé les 16 et 17 mai 2022 un colloque au sujet de l’**Évaluation des Sciences humaines et sociales en Europe**.
+
+Dans le cadre de la Présidence Française de l’Union Européenne 2022 (PFUE), le HCÉRES a organisé les 16 et 17 mai 2022 un colloque au sujet de l’**Évaluation des Sciences humaines et sociales en Europe**.
 
 Le colloque, qui eut lieu à l’Institut d'Etudes Avancées de Paris (17 quai d’Anjou, 7500 a réuni près de 30 intervenants d’universités et organismes européens et a traité notamment des livres dans la recherche SHS, du plurilinguisme et de la participation des SHS à la recherche européenne. Ce Colloque a également produit des recommandations.
 

@@ -103,9 +103,6 @@ yarn.lock
 .terragrunt-cache/
 
 # custom generated files
-static/pdfs
-content/authors
-content/media
 assets/generated
 
 #local history vscode plugin (aka life-saver)

@@ -5,7 +5,7 @@ articles:
 exerpt: ''
 firstname: Aurélie
 issue:
-  - content/issues/WPRN.md
+  - content/issues/WPRN Memorandums.md
 language:
   - English
 lastname: Louchart

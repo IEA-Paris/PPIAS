@@ -10,7 +10,7 @@
         <div class="d-flex flex-column flex-grow-1">
           <div class="d-flex flex-grow-1 align-start">
             <v-img
-              class="mr-2 logo-container-white"
+              class="mr-2 mt-4 logo-container-white"
               src="/logo_w.png"
               contain
               max-height="120"
@@ -21,7 +21,7 @@
             <v-btn
               icon
               x-large
-              class="ma-2 mr-4 mb-4"
+              class="ma-2 mr-2 mb-4"
               tile
               @click="open = false"
             >

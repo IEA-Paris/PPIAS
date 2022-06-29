@@ -1,15 +1,15 @@
 <template>
-  <v-card outlined class="px-3 pb-3" nuxt @click="$router.push(path)">
-    <v-card-title>{{ issue.title }}</v-card-title>
+  <v-card outlined class="px-3 pb-3" nuxt :to="'/issue/' + issue.slug">
+    <v-card-title v-html="issue.name_of_the_issue"></v-card-title>
     <v-card-content
       v-if="issue.body && issue.body.children && issue.body.children.length"
     >
-      <nuxt-content :document="issue" />
+      <nuxt-content :document="issue" class="mx-6" />
     </v-card-content>
     <v-card-actions v-if="total > 1 && !$route.name.startsWith('print')">
       <v-spacer></v-spacer>
       <v-btn x-large tile outlined>
-        {{ $t('see-all-results-articlescount', [total]) }}</v-btn
+        {{ $t('see-the-complete-issue') + ' (' + total + ')' }}</v-btn
       >
     </v-card-actions>
   </v-card>
@@ -50,7 +50,9 @@ export default {
         .only([])
         .fetch()
     ).length
-    // 192.168.0.50:3000/articles?filters=%257B%25issue%2522%253A%255B%2522WPRN21%2522%255D%257D
+    /* this.path = `${this.localePath(
+      '/articles'
+    )}?view=issues&filters={"issue"%3A["${this.issue.slug}"]}` */
     this.path = `${this.localePath(
       '/articles'
     )}?view=issues&filters={"issue"%3A["${this.issue.slug}"]}`

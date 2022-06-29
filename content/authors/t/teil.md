@@ -18,6 +18,7 @@ issue:
   - content/issues/10-12-2021.md
   - content/issues/WPRN21.md
   - content/issues/OML.md
+  - content/issues/Our Microbial Lives.md
 language:
   - French
 lastname: Teil

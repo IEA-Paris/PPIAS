@@ -69,9 +69,6 @@
                       ])
                     }}
                   </div>
-
-                  <!--     <v-divider style="width: 120px"></v-divider>
-    <v-divider style="width: 120px" class="mt-1"></v-divider> -->
                 </div>
                 <v-card-text>
                   <nuxt-content

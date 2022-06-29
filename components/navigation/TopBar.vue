@@ -8,7 +8,7 @@
     :class="{ loading: $nuxt.loading }"
   >
     <div class="d-flex flex-grow-1 justify-space-between">
-      <Logo class="" />
+      <Logo />
       <!-- <LanguageSwitcher /> -->
       <div class="d-flex flex-column justify-space-between">
         <div class="text-right">

@@ -60,21 +60,24 @@ export const formatAuthors = (
 ) => {
   const format = (author) => {
     const name =
+      // yup, you gotta love ternaries
       author.lastname.replace(' ', '&nbsp;').trim() +
-      (initials ? '&nbsp;' : ',&nbsp;') +
-      (initials
-        ? author.firstname
-            .trim()
-            .replace(/[^A-Za-z0-9À-ÿ ]/gi, '') // taking care of accented characters as well
-            .replace(/ +/gi, ' ') // replace multiple spaces to one
-            .split(/ /) // break the name into parts
-            .reduce((acc, item) => acc + item[0], '') // assemble an abbreviation from the parts
-            .concat(author.firstname.substr(1)) // what if the name consist only one part
-            .concat(author.firstname) // what if the name is only one character
-            .substr(0, 1) // get the first two characters an initials
-            .toUpperCase()
-        : author.firstname) +
-      (initials ? '.&nbsp;' : '')
+      (author.is_institution
+        ? ''
+        : (initials ? '&nbsp;' : ',&nbsp;') +
+          (initials
+            ? author.firstname
+                .trim()
+                .replace(/[^A-Za-z0-9À-ÿ ]/gi, '') // taking care of accented characters as well
+                .replace(/ +/gi, ' ') // replace multiple spaces to one
+                .split(/ /) // break the name into parts
+                .reduce((acc, item) => acc + item[0], '') // assemble an abbreviation from the parts
+                .concat(author.firstname.substr(1)) // what if the name consist only one part
+                .concat(author.firstname) // what if the name is only one character
+                .substr(0, 1) // get the first two characters an initials
+                .toUpperCase()
+            : author.firstname) +
+          (initials ? '.&nbsp;' : ''))
     const institution =
       (author?.titles_and_institutions &&
         author?.titles_and_institutions[0] &&
