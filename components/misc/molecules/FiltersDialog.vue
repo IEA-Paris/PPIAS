@@ -1,33 +1,29 @@
 <template>
   <v-dialog v-model="open" fullscreen overflowed>
     <template #activator="{ on: menu, attrs }">
-      <v-tooltip bottom>
-        <template #activator="{ on: tooltip }">
-          <v-btn
-            fab
-            fixed
-            bottom
-            right
-            outlined
-            tile
-            v-bind="attrs"
-            class="mobile-filter-btn"
-            v-on="{ ...tooltip, ...menu }"
-          >
-            <v-badge
-              bordered
-              :content="filtersCount.toString()"
-              bottom
-              overlap
-              tile
-              color="black"
-            >
-              <v-icon>mdi-filter</v-icon></v-badge
-            >
-          </v-btn>
-        </template>
-        <span>{{ $t('show-filters') }}</span>
-      </v-tooltip>
+      <v-btn
+        fab
+        fixed
+        bottom
+        right
+        outlined
+        tile
+        v-bind="attrs"
+        class="mobile-filter-btn"
+        v-on="menu"
+      >
+        <v-badge
+          bordered
+          :content="filtersCount.toString()"
+          :value="filtersCount > 0"
+          bottom
+          overlap
+          tile
+          color="black"
+        >
+          <v-icon>mdi-filter</v-icon></v-badge
+        >
+      </v-btn>
     </template>
     <v-card dark color="rgba(0, 0, 0, 0.97)">
       <v-app-bar color="transparent" clipped flat hide-on-scroll height="180">

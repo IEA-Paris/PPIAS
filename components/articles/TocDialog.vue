@@ -128,6 +128,7 @@ $input-font-size: 48px;
 }
 .mobile-filter-btn {
   background-color: white;
+  margin-bottom: 5em;
 }
 .v-badge__badge {
 }

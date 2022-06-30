@@ -7,6 +7,25 @@
       <v-container fluid>
         <Nuxt />
       </v-container>
+      <v-fab-transition>
+        <v-btn
+          v-show="$store.state.scrolled"
+          fixed
+          tile
+          bottom
+          outlined
+          right
+          contained
+          fab
+          style="background-color: white"
+          :class="{
+            'mb-16': $vuetify.breakpoint.xs && !$route.name.startsWith('index'),
+          }"
+          @click.prevent="$vuetify.goTo(0)"
+        >
+          <v-icon color="black"> mdi-arrow-up </v-icon>
+        </v-btn>
+      </v-fab-transition>
     </v-main>
     <Footer />
     <!--    </template> -->
