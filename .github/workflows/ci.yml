@@ -39,6 +39,9 @@ jobs:
         with:
           node-version: ${{ matrix.node }}
           check-latest: true
+
+      - name: 🛠 Increase node memory
+        id: node-options-space-increase
         run: export NODE_OPTIONS="--max-old-space-size=8192"
 
       - name: 🛠 Get yarn cache directory path
