@@ -24,6 +24,6 @@ social_channels:
   wikipedia: ''
 titles_and_institutions: []
 years:
-  - 2022
+  - 2021
 
 ---

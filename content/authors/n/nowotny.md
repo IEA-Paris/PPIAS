@@ -12,9 +12,9 @@ createdAt: '2022-01-10T10:45:35.930Z'
 exerpt: >-
   Helga Nowotny is Former President of the ERC, the European Research Council
   (2010-2013) and one of its Founding Members (2007). She is Professor emerita
-  of Science and Technology Studies, ETH Zurich**.** She is member of the
-  Austrian Council for Research and Technology Development, of the Falling Walls
-  Foundation Board of Trustees. She is also Vice
+  of Science and Technology Studies, ETH Zurich. She is member of the Austrian
+  Council for Research and Technology Development, of the Falling Walls
+  Foundation Board of Trustees. She is also Vice-Pre
 firstname: Helga
 issue:
   - content/issues/10-12-2021.md
