@@ -35,9 +35,9 @@ jobs:
         uses: actions/checkout@master
 
       - name: 🏗 Setup node env
-        uses: actions/setup-node@v2.1.5
+        uses: actions/setup-node@v3
         with:
-          node-version: ${{ matrix.node }}
+          node-version: 14
           check-latest: true
 
       - name: 🛠 Get yarn cache directory path
