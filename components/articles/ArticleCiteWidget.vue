@@ -13,7 +13,14 @@
       <v-col cols="auto" class="">
         <v-tooltip top>
           <template #activator="{ on }">
-            <v-btn label small icon v-on="on" @click="copyToClipBoard()">
+            <v-btn
+              label
+              small
+              icon
+              class="ml-3"
+              v-on="on"
+              @click="copyToClipBoard()"
+            >
               <v-icon> mdi-content-copy </v-icon>
             </v-btn>
           </template>

@@ -61,7 +61,16 @@
                 "
               ></span>
             </v-tooltip>
-            <span v-if="!toc && !title" class="transition-swing text-h6 ml-6">
+            <v-spacer></v-spacer>
+            <span
+              v-if="!toc && !title"
+              class="transition-swing text-h6 ml-6"
+              :class="{
+                ' text-center':
+                  item.article_title && item.article_title.length > 80,
+              }"
+              style="max-width: 850px"
+            >
               {{ item.article_title }}
             </span>
             <v-spacer></v-spacer>
@@ -272,6 +281,7 @@ export default {
 .abstract-panel {
   border: 1px black solid;
   padding-bottom: 1em;
+  margin-bottom: 2em;
   padding-left: 1em;
   padding-right: 1em;
   width: 100%;

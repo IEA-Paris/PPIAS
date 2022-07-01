@@ -14,8 +14,8 @@
         }"
         class="transition-swing"
       >
-        <template v-for="issue in issues">
-          <div :key="issue.text" class="text-h4">
+        <div v-for="issue in issues" :key="issue.title">
+          <div class="text-h4">
             <!--   TODO add highlight from search -->
             {{ issue.text }}
           </div>
@@ -49,7 +49,7 @@
               :scroll="$store.state.scrolled"
             ></component>
           </v-list>
-        </template>
+        </div>
       </v-col>
     </v-row>
   </v-container>

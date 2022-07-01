@@ -148,7 +148,6 @@
         ></list-items>
         <DisplayByIssue
           v-else-if="view === 'issues'"
-          :class="{ 'ml-6': $vuetify.breakpoint.mdAndUp }"
           :data="{
             items,
             total,

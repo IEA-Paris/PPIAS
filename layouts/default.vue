@@ -19,7 +19,10 @@
           fab
           style="background-color: white"
           :class="{
-            'mb-16': $vuetify.breakpoint.xs && !$route.name.startsWith('index'),
+            'mb-16':
+              $vuetify.breakpoint.xs &&
+              $route.name &&
+              !$route.name.startsWith('index'),
           }"
           @click.prevent="$vuetify.goTo(0)"
         >

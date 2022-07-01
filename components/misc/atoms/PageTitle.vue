@@ -28,30 +28,30 @@ export default {
 @import '~vuetify/src/styles/settings/_variables';
 .page-title {
   font-family: 'Bodoni Moda';
-  font-size: 2.5rem !important;
+  font-size: 3.5rem !important;
   font-weight: 500 !important;
   max-width: 1200px;
 }
 @media #{map-get($display-breakpoints, 'lg-only')} {
   .page-title {
-    font-size: 2.3rem !important;
+    font-size: 3rem !important;
     max-width: 900px;
   }
 }
 @media #{map-get($display-breakpoints, 'md-only')} {
   .page-title {
-    font-size: 2.1rem !important;
+    font-size: 2.6rem !important;
     max-width: 800px;
   }
 }
 @media #{map-get($display-breakpoints, 'sm-only')} {
   .page-title {
-    font-size: 1.8rem !important;
+    font-size: 2.4rem !important;
   }
 }
 @media #{map-get($display-breakpoints, 'xs-only')} {
   .page-title {
-    font-size: 1.6rem !important;
+    font-size: 2rem !important;
   }
 }
 </style>
