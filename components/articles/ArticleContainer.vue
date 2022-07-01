@@ -1,7 +1,7 @@
 <template>
   <v-row justify="center" :no-gutters="$vuetify.breakpoint.mobile">
     <v-col cols="12" md="12" lg="10" xl="10">
-      <v-card :flat="$vuetify.breakpoint.mobile">
+      <v-card :flat="$vuetify.breakpoint.smAndDown">
         <div class="d-flex">
           <v-btn tile text nuxt small exact class="py-7" @click="goBack">
             <v-icon left>mdi-chevron-left</v-icon>

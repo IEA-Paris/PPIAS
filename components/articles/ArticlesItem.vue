@@ -26,11 +26,11 @@
       <template #date>
         <div class="d-flex px-1">
           {{
-            new Date(item.date).toLocaleDateString('en-GB', {
+            new Date(item.date).toLocaleDateString('en-US', {
               // you can use undefined as first argument
               year: 'numeric',
-              month: '2-digit',
-              day: '2-digit',
+              month: 'numeric',
+              day: 'numeric',
             })
           }}
         </div>
@@ -64,7 +64,7 @@
 
           <template v-else>
             {{
-              new Date(item.date).toLocaleDateString('en-GB', {
+              new Date(item.date).toLocaleDateString('en-US', {
                 // you can use undefined as first argument
                 year: 'numeric',
                 month: '2-digit',
@@ -88,11 +88,11 @@
       <template #date>
         <div class="d-flex px-1">
           {{
-            new Date(item.date).toLocaleDateString('en-GB', {
+            new Date(item.date).toLocaleDateString('en-US', {
               // you can use undefined as first argument
               year: 'numeric',
-              month: '2-digit',
-              day: '2-digit',
+              month: 'numeric',
+              day: 'numeric',
             })
           }}
         </div>

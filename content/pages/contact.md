@@ -2,4 +2,6 @@
 page_title: 'contact-us'
 ---
 
-This is the contact us page in markdown
+We will add a contact form soon.
+
+Meanwhile, please contact us at information@paris-iea.fr if you need information.

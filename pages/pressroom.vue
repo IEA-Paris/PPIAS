@@ -1,5 +1,5 @@
 <template>
-  <PageContainer>
+  <PageContainer no-resize>
     <PageTitle :text="$t('pressroom')" />
     <v-row justify="center">
       <v-col cols="12" md="8" lg="6" xl="5">

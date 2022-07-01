@@ -9,8 +9,18 @@
       :class="{ 'py-0': !$store.state.scrolled }"
     >
       <!--   Latest issue -->
-      <div class="text-h6 grey--text text--darken-2">
+      <div class="text-h6 grey--text text--darken-2 d-flex">
         {{ $t('latest-issue') }}
+        <v-spacer></v-spacer>
+        <v-btn
+          icon
+          tile
+          target="_blank"
+          nuxt
+          :to="localePath('/issue/' + issue.slug)"
+        >
+          <v-icon>mdi-open-in-new</v-icon>
+        </v-btn>
       </div>
       <v-divider></v-divider>
       <div

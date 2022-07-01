@@ -111,7 +111,11 @@
                 {{ $t('subscribe-to-our-newsletter') }}
               </div>
 
-              <div class="d-flex">
+              <nuxt-link
+                target="_blank"
+                to="https://www.paris-iea.fr/en/presentation-of-the-institute/newsletter"
+                class="d-flex"
+              >
                 <v-text-field
                   v-model="email"
                   :rules="[rules.email]"
@@ -124,7 +128,7 @@
                 >
                   <v-btn outlined large>{{ $t('subscribe') }}</v-btn>
                 </v-text-field>
-              </div>
+              </nuxt-link>
             </v-col>
           </v-row>
           <v-row justify="center" no-gutters class="mt-3">

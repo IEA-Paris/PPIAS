@@ -145,11 +145,11 @@
             <ArticleFootnotes :item="item"></ArticleFootnotes>
           </template>
           {{
-            new Date(item.date).toLocaleDateString('en-GB', {
+            new Date(item.date).toLocaleDateString('en-US', {
               // you can use undefined as first argument
               year: 'numeric',
-              month: '2-digit',
-              day: '2-digit',
+              month: 'numeric',
+              day: 'numeric',
             })
           }}
         </v-card-text>
@@ -203,7 +203,6 @@ export default {
       entries.forEach((entry) => {
         const id = entry.target.getAttribute('id')
         if (entry.isIntersecting) {
-          console.log('intersecting', id)
           this.currentlyActiveToc = id
         }
       })

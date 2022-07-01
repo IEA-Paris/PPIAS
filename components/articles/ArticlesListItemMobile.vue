@@ -33,8 +33,11 @@
           <template #date>
             <div class="d-flex px-1">
               {{
-                new Date(item.date).toLocaleDateString('EN', {
-                  timezone: 'UTC',
+                new Date(item.date).toLocaleDateString('en-US', {
+                  // you can use undefined as first argument
+                  year: 'numeric',
+                  month: '2-digit',
+                  day: '2-digit',
                 })
               }}
             </div>
@@ -51,8 +54,11 @@
           <template #date>
             <div class="d-flex px-1">
               {{
-                new Date(item.date).toLocaleDateString('EN', {
-                  timezone: 'UTC',
+                new Date(item.date).toLocaleDateString('en-US', {
+                  // you can use undefined as first argument
+                  year: 'numeric',
+                  month: '2-digit',
+                  day: '2-digit',
                 })
               }}
             </div>
@@ -70,8 +76,11 @@
           <template #date>
             <div class="d-flex px-1">
               {{
-                new Date(item.date).toLocaleDateString('EN', {
-                  timezone: 'UTC',
+                new Date(item.date).toLocaleDateString('en-US', {
+                  // you can use undefined as first argument
+                  year: 'numeric',
+                  month: '2-digit',
+                  day: '2-digit',
                 })
               }}
             </div>
@@ -100,7 +109,7 @@
             v-if="$vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)"
           >
             {{
-              new Date(item.date).toLocaleDateString('en-GB', {
+              new Date(item.date).toLocaleDateString('en-US', {
                 // you can use undefined as first argument
                 year: 'numeric',
                 month: '2-digit',

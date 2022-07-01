@@ -18,7 +18,7 @@
       ]"
     >
       <v-col cols="12" md="12" lg="10" xl="10">
-        <v-card>
+        <v-card :flat="$vuetify.breakpoint.mobile">
           <div class="d-flex">
             <v-btn tile text nuxt small exact class="py-7" @click="goBack">
               <v-icon left>mdi-chevron-left</v-icon>
@@ -54,13 +54,19 @@
                   <v-divider></v-divider>
                   <div
                     class="page-title"
-                    :class="$store.state.scrolled ? 'mb-9' : 'mb-6'"
+                    :class="
+                      ($store.state.scrolled ? 'mb-9' : 'mb-6',
+                      item.name_of_the_issue &&
+                      item.name_of_the_issue.length > 80
+                        ? 'smaller'
+                        : '')
+                    "
                     v-html="item.name_of_the_issue || item.title"
                   ></div>
                   <div class="overline mb-6">
                     {{
                       $t('publication-date-0', [
-                        new Date(item.date).toLocaleDateString('en-GB', {
+                        new Date(item.date).toLocaleDateString('en-US', {
                           // you can use undefined as first argument
                           year: 'numeric',
                           month: '2-digit',

@@ -98,9 +98,7 @@ export default {
       return this.$store.state[this.type].filtersCount
     },
   },
-  mounted() {
-    console.log(this.$route.name)
-  },
+  mounted() {},
   methods: {},
 }
 </script>

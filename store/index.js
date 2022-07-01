@@ -346,11 +346,7 @@ export const actions = {
         ? query[key] === query[key].toString()
         : {}
     )
-    console.log(
-      'should replace',
-      JSON.stringify(sortObject(this.$router.currentRoute.query)) !==
-        JSON.stringify(sortObject(query))
-    )
+
     if (
       JSON.stringify(this.$router.currentRoute.query) !==
       JSON.stringify(sortObject(query))

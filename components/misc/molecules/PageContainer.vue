@@ -2,7 +2,7 @@
   <v-container
     v-scroll="onScroll"
     class="transition-swing"
-    :fluid="!$store.state.scrolled"
+    :fluid="!$store.state.scrolled && !noResize"
     :class="{ 'py-0': !$store.state.scrolled }"
   >
     <v-row class="transition-swing" :no-gutters="!$store.state.scrolled">
@@ -14,7 +14,13 @@
 </template>
 <script>
 export default {
-  props: {},
+  props: {
+    noResize: {
+      type: Boolean,
+      default: false,
+      required: false,
+    },
+  },
   data() {
     return {}
   },
