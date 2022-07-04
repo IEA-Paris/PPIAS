@@ -22,8 +22,6 @@ env:
   AWS_REGION: 'eu-west-3' # paris
 
 jobs:
-
-jobs:
   install:
     runs-on: ${{ matrix.os }}
 
@@ -115,7 +113,7 @@ jobs:
         with:
           path: dist
           key: ${{ matrix.os }}-node-v${{ matrix.node }}-${{ github.sha }}
-          
+
       - name: ⤴️ Retro push generated content 🧙‍♂️
         run: |
           git config --global user.name "CI"
