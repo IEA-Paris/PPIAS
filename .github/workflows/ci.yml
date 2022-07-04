@@ -82,8 +82,10 @@ jobs:
       - name: Cache node_modules
         uses: actions/cache@v3
         with:
-          path: node_modules
-          key: ${{ matrix.os }}-node-v${{ matrix.node }}-${{ github.sha }}
+          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
 
       - name: Cache dist
         uses: actions/cache@v3
