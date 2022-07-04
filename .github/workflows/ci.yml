@@ -38,7 +38,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node }}
-          cache-dependency-path: './PPIAS/package-lock.json'
+          cache-dependency-path: './PPIAS/yarn.lock'
           cache: 'yarn'
           check-latest: true
 
@@ -80,7 +80,7 @@ jobs:
         with:
           node-version: ${{ matrix.node }}
           cache: 'yarn'
-          cache-dependency-path: './PPIAS/package-lock.json'
+          cache-dependency-path: './PPIAS/yarn.lock'
 
       - name: Cache node_modules
         uses: actions/cache@v3
