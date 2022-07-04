@@ -506,6 +506,14 @@ export default {
      */
     routes: async () => await writePrintRoutes(),
   },
+  hooks: {
+    'build:done'() {
+      const modulesToClear = ['vue', 'vue/dist/vue.runtime.common.prod']
+      modulesToClear.forEach((entry) => {
+        delete require.cache[require.resolve(entry)]
+      })
+    },
+  },
   /*
    ** Page Layout transition
    ** https://nuxtjs.org/guides/features/transitions#the-layouttransition-property
