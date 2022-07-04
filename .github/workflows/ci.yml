@@ -51,15 +51,6 @@ jobs:
       - name: 👨🏻‍💻 Install dependencies
         run: yarn install
 
-      - name: 📦 Cache node_modules
-        uses: actions/cache@v3
-        id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
-        with:
-          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
-          key: ${{ matrix.os }}-node-v${{ matrix.node }}-${{ github.sha }}
-          restore-keys: |
-            ${{ matrix.os }}-yarn-
-
       #- name: Run tests 🧪
       #  run: yarn test
       - uses: actions/checkout@v3
@@ -81,6 +72,15 @@ jobs:
           DEEPL_KEY: ${{ secrets.DEEPL_KEY }}
           ORCID_ID: ${{secrets.ORCID_SANDBOX_ID}}
           ORCID_SANDBOX_SECRET_KEY_ID: ${{secrets.ORCID_SANDBOX_SECRET_KEY_ID}}
+
+      - name: 📦 Cache node_modules
+        uses: actions/cache@v3
+        id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
+        with:
+          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
+          key: ${{ matrix.os }}-node-v${{ matrix.node }}-${{ github.sha }}
+          restore-keys: |
+            ${{ matrix.os }}-yarn-
 
       - name: Cache dist
         uses: actions/cache@v3
@@ -118,7 +118,7 @@ jobs:
           env_variable_name: 'ssm_s3_name'
 
       - name: 🚀 Deploy to S3 🚀🚀
-        uses: jakejarvis/s3-sync-action@master
+        uses: jakejarvis/s3-sync-action@main
         with:
           args: --acl public-read --follow-symlinks --delete
         env:
