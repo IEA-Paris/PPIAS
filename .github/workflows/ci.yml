@@ -118,7 +118,7 @@ jobs:
           env_variable_name: 'ssm_s3_name'
 
       - name: 🚀 Deploy to S3 🚀🚀
-        uses: jakejarvis/s3-sync-action@main
+        uses: jakejarvis/s3-sync-action@master
         with:
           args: --acl public-read --follow-symlinks --delete
         env:
