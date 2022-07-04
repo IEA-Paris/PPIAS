@@ -28,11 +28,11 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest]
-        node: [14]
+        node: [16]
 
     steps:
       - name: 🛎 Checkout
-        uses: actions/checkout@master
+        uses: actions/checkout@main
 
       - name: 🏗 Setup node env
         uses: actions/setup-node@v3
@@ -60,17 +60,6 @@ jobs:
           restore-keys: |
             ${{ matrix.os }}-yarn-
 
-  build:
-    name: 🚧 Nuxt build
-    needs: install
-    runs-on: ${{ matrix.os }}
-
-    strategy:
-      matrix:
-        os: [ubuntu-latest]
-        node: [16]
-
-    steps:
       #- name: Run tests 🧪
       #  run: yarn test
       - uses: actions/checkout@v3
@@ -78,12 +67,6 @@ jobs:
         with:
           node-version: ${{ matrix.node }}
           check-latest: true
-
-      - name: Cache dist
-        uses: actions/cache@v3
-        with:
-          path: dist
-          key: ${{ matrix.os }}-node-v${{ matrix.node }}-${{ github.sha }}
 
       - name: 🤞 Build
         run: yarn build
