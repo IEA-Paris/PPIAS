@@ -110,6 +110,8 @@
   >
 </template>
 <script>
+import filtersRaw from '~/assets/data/filters'
+
 export default {
   props: {},
   async asyncData({ $content, params, store }) {
@@ -124,7 +126,7 @@ export default {
     const articles = await $content('articles', { deep: true })
       .where({
         issue: { $eq: 'content' + item.path + '.md' },
-        published: true,
+        ...filtersRaw.articles,
       })
       .sortBy('date', 'asc')
       .fetch()

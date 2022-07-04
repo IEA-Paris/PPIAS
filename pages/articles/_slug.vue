@@ -53,6 +53,8 @@
   </ArticleContainer>
 </template>
 <script>
+import filtersRaw from '~/assets/data/filters'
+
 export default {
   beforeRouteUpdate(to, from, next) {
     if (to.hash && to.hash.startsWith('#fn-')) {
@@ -94,9 +96,11 @@ export default {
   },
   props: {},
   async asyncData({ $content, params }) {
+    console.log('filtersRaw.articles: ', filtersRaw.articles)
     const item = await $content('articles', { deep: true })
       .where({
         slug: params.slug,
+        ...filtersRaw.articles,
       })
       .fetch()
 

@@ -35,10 +35,13 @@ export default {
     },
     bibliography() {
       return (
-        this.item.bibliography?.length &&
-        this.item.bibliography
-          .slice()
-          .sort((a, b) => a[this.style].localeCompare(b[this.style]))
+        (this.item.bibliography &&
+          Array.isArray(this.item.bibliography) &&
+          this.item.bibliography?.length &&
+          this.item.bibliography
+            .slice()
+            .sort((a, b) => a[this.style].localeCompare(b[this.style]))) ||
+        []
       )
     },
   },
