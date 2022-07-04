@@ -100,7 +100,7 @@ export default {
     const item = await $content('articles', { deep: true })
       .where({
         slug: params.slug,
-        ...filtersRaw.articles,
+        published: true,
       })
       .fetch()
 
