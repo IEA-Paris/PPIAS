@@ -11,12 +11,13 @@ export default async (document) => {
       console.log('config.modules.zenodo.token: ', config.modules.zenodo.token)
 
       const Zenodo = require('../lib/ZenodoConnector')
-      const zenodo = new Zenodo({
+      const zenodo = await new Zenodo({
         host: 'sandbox.zenodo.org',
         token: config.modules.zenodo.token,
         protocol: 'https',
       })
       console.log('zenodo: ', zenodo)
+
       const fs = require('fs').promises
       const path = require('path')
       const rawfile = path.resolve(
@@ -33,7 +34,7 @@ export default async (document) => {
           // TODO references: add .bib file extract
           // TODO conference_url: TO BE COMPLETED
           language: document.language || 'eng',
-          journal_title: 'PIAS', // TODO update for other platforms
+          journal_title: config.name,
           publication_date: new Date(document.createdAt).toLocaleDateString(
             'EN',
             {
@@ -60,7 +61,7 @@ export default async (document) => {
         }
         console.log('metadata: ', metadata)
 
-        const entry = await zenodo.depositions.create(metadata)
+        const entry = await zenodo.depositions.create({ metadata })
         console.log(`deposition created for ${document.article_title} `)
 
         await zenodo.files.upload({

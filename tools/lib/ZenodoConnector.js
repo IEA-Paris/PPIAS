@@ -1,11 +1,10 @@
 'use strict'
-// from https://raw.githubusercontent.com/cheminfo/zenodo/master/src/index.js
-// MIT licence
+
 const axios = require('axios')
 
 const defaultOptions = {
   protocol: 'https',
-  host: 'zenodo.org',
+  host: 'sandbox.zenodo.org',
   pathPrefix: '/api/',
 }
 
