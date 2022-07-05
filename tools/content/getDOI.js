@@ -33,10 +33,10 @@ export default async (document) => {
           ...(document.tags && { keywords: document.tags }),
           // TODO references: add .bib file extract
           // TODO conference_url: TO BE COMPLETED
-          language: document.language || 'eng',
+          language: 'eng',
           journal_title: config.name,
-          publication_date: new Date(document.createdAt).toLocaleDateString(
-            'EN',
+          publication_date: new Date(document.date).toLocaleDateString(
+            'en-US',
             {
               timezone: 'UTC',
               year: 'numeric',
@@ -49,7 +49,7 @@ export default async (document) => {
           creators: document.authors.map((item) => {
             // TODO include all title & institution info
             return {
-              name: item.lastname + ', ' + item.firstname,
+              name: item.lastname.trim() + ', ' + item.firstname.trim(),
               ...(item.titles_and_institutions &&
                 item.titles_and_institutions[0] &&
                 item.titles_and_institutions[0].institution && {
@@ -59,16 +59,13 @@ export default async (document) => {
             }
           }),
         }
-        console.log('metadata: ', metadata)
+        console.log('metadata: ', JSON.stringify(metadata))
 
         const entry = await zenodo.depositions.create({ metadata })
+        console.log('entry: ', entry)
         console.log(`deposition created for ${document.article_title} `)
 
         await zenodo.files.upload({
-          bucketId:
-            entry.data.links.bucket.split('/')[
-              entry.data.links.bucket.split('/').length - 1
-            ],
           filename: document.slug + '.pdf',
           data: file,
         })
