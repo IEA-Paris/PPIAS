@@ -57,7 +57,7 @@ export default {
     },
   },
   identifier: {
-    ISSN: 'fgergsrg re',
+    ISSN: '2826-2832  ',
   },
   modules: {
     sentry: {
