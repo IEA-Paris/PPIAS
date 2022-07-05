@@ -34,6 +34,7 @@ titles_and_institutions:
     titles: []
 years:
   - 2022
+  - null
 
 ---
 Concetta Papapicco currently works at the Dipartimento di Scienze della Formazione, Psicologia, Comunicazione, Università degli Studi di Bari Aldo Moro as PhD Candidate in Human Relations Science. Research interests: in Organizational Psychology, Social Psychology and Media Psychology.

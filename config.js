@@ -57,7 +57,7 @@ export default {
     },
   },
   identifier: {
-    ISSN: 'fgergsrg re',
+    ISSN: '2826-2832',
   },
   modules: {
     sentry: {
@@ -66,6 +66,9 @@ export default {
     ackee: {
       domain: '0406b6c9-6dfc-44de-bb13-83bc0607cb14',
       server: 'https://ackee.paris-ias.io/',
+    },
+    zenodo: {
+      token: 'YZ2NJN33R5K68Qh3ev46llet5b01FSSWdws3y4zxc4auBBHnq91xaBdGXDfU',
     },
     image: {
       domains: [

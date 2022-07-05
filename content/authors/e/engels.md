@@ -34,6 +34,7 @@ titles_and_institutions:
     titles: []
 years:
   - 2022
+  - null
 
 ---
 Tim C. E. Engels (PhD) is head of RIVA (Research, Innovation & Valorisation Antwerp) at the University of Antwerp, Belgium, and head of ECOOM-Antwerp, the Antwerp branch of the Flemish Centre for R&D Monitoring (ECOOM). He obtained his PhD in psychology in 2006 and started the preparations for the Flemish Academic Bibliographic Database for the Social Science and Humanities (VABB-SHW) in 2008. Together with Emanuel Kulczycki, he edited the Handbook on Research Assessment in the Social Sciences (Edward Elgar, 2022).

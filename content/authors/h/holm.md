@@ -1,7 +1,8 @@
 ---
 active: false
 createdAt: '2022-07-05T04:58:09.884Z'
-exerpt: >-
+exerpt: >
+
   Dr Holm is trained in mathematics and literary studies. He has worked at RCN
   since 2010 where he is in charge of developing the system for national
   research assessments in Norway. He also serves as vice-president of ENRESSH
@@ -28,6 +29,7 @@ titles_and_institutions:
     titles: []
   - institution: ENRESSH
     titles: []
+
 ---
 
 Dr Holm is trained in mathematics and literary studies. He has worked at RCN since 2010 where he is in charge of developing the system for national research assessments in Norway. He also serves as vice-president of ENRESSH and is publishing in the field of research evaluation.

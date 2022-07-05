@@ -1,4 +1,3 @@
-import { env } from 'process'
 import Citation from 'citation-js'
 import {
   insertReferences,
@@ -6,6 +5,7 @@ import {
   insertReferencesInAbstract,
 } from '../lib/contentUtilities'
 import filters from '../../assets/generated/filters'
+import config from '../../config.js'
 const fs = require('fs')
 
 export default (document, database) => {
@@ -81,10 +81,14 @@ export default (document, database) => {
           issue: document.issueIndex,
           volume: document.issueIndex,
           identifier: [
-            {
-              id: env?.config?.ISSN || false, // TODO replace by value from config file,
-              type: 'issn',
-            },
+            ...(config.identifier.ISSN
+              ? [
+                  {
+                    id: config.identifier.ISSN, // TODO replace by value from config file,
+                    type: 'issn',
+                  },
+                ]
+              : []),
           ],
         },
         // TODO update for other platforms

@@ -351,11 +351,11 @@ module.exports = async function PDF(moduleOptions) {
         await page.close()
         await browser.close()
       } catch (e) {
-        console.log(
+        /*        console.log(
           `${chalk.red('𐄂')} Failed to generated PDF ${i + 1}:${
             routes.length
           } at route ${route.route} error: ${e.message}`
-        )
+        ) */
       } finally {
         if (browser !== null) {
           await browser.close()

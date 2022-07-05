@@ -32,5 +32,6 @@ titles_and_institutions:
       - ''
 years:
   - 2022
+  - null
 
 ---
