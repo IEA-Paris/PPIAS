@@ -1,9 +1,9 @@
 ---
 active: true
 articles:
-  - Memorandum 14
+  - Memorandum 13
 exerpt: ''
-firstname: 'Aurélie '
+firstname: 'Aurélie  '
 issue:
   - content/issues/WPRN Memorandums.md
 language:
