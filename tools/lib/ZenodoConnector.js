@@ -145,6 +145,7 @@ class ZenodoApiFiles {
       data,
     } = options
     const bucketId = deposition ? getBucketId(deposition) : options.bucketId
+    console.log('bucketId: ', bucketId)
     return this[kRequest].put(`/${bucketId}/${filename}`, data, {
       headers: {
         'Content-Type': contentType,

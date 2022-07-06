@@ -16,9 +16,9 @@ export default async (document) => {
         token: config.modules.zenodo.token,
         protocol: 'https',
       })
-      console.log('zenodo: ', zenodo)
-
-      const fs = require('fs').promises
+      const records = await zenodo.depositions
+      console.log(records)
+      /* const fs = require('fs').promises
       const path = require('path')
       const rawfile = path.resolve(
         process.env.NODE_ENV !== 'production' ? 'static/pdfs' : 'pdfs',
@@ -63,11 +63,12 @@ export default async (document) => {
 
         const entry = await zenodo.depositions.create({ metadata })
         console.log('entry: ', entry)
-        console.log(`deposition created for ${document.article_title} `)
+        console.log(`deposition created for ${document.slug} `)
 
         await zenodo.files.upload({
           filename: document.slug + '.pdf',
           data: file,
+          deposition: entry.data,
         })
         const result = await zenodo.depositions.publish({
           id: entry.data.id,
@@ -76,7 +77,7 @@ export default async (document) => {
         return result.data.doi
       } catch (error) {
         console.log('error: ', error)
-      }
+      } */
 
       // we assume it is markdown
       // make DOI only if the document is published & has no DOI yet & needs a DOI
