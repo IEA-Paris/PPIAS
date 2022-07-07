@@ -47,7 +47,7 @@ Tracking applications, which are listed and analysed [here](https://www.technolo
 
 The World Pandemic Research Network’s database points to several issues raised by research. Four themes appear to be central to the analyses of researchers: the degree of efficiency of tracking applications; the level of acceptance of tracking by the population; the risk for the protection of personal data; the trade-offs that public authorities must makeon digital technology (sovereignty and surveillance).
 
-### Effectiveness is controversial and will have to be assessed by future studies
+## Effectiveness is controversial and will have to be assessed by future studies
 
 Technological surveillance tools are increasingly used for public health purposes and telephone tracking has already been used in the context of disasters or epidemics, as this [article](https://wprn.org/item/442852 "wprn 442852"), avaible on the WPRN database reminds us. Thus, the development of applications in the context of the pandemic has been driven by the enthusiasm of part of the [scientific community](https://www.acadpharm.org/dos_public/LETTRE_CONFINEMENTSELECTIFNUMERIQUE_2020.05.12.PDF "Académie technologies"). However, there is debate about their effectiveness and no consensus has emerged on the issue. Initiale [studies](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30074-7/fulltext "The Lancet") suggest that a large percentage of users in the population (70 or 80%) is necessary for applications to be effective.
 
@@ -55,7 +55,7 @@ However, [no country](https://wprn.org/item/441552 "wprn 441552") has reached su
 
 So, while extensive research has focused on the technical potential of tracking to combat the pandemic, as well as its potential limitations. Studies are now needed to evaluate the effectiveness of this method with significant feedback and to propose ways to improve it.
 
-### Tracking tools seem relatively well accepted by citizens when guarantees are provided for the protection of personal data
+## Tracking tools seem relatively well accepted by citizens when guarantees are provided for the protection of personal data
 
 To be effective, tracking applications must be used on a massive scale. As the coercive measure of mandatory use is not popular in Europe, a significant consent of the population is necessary. Although citizens are in favour of the applications (59% of [French people](https://www.francebleu.fr/infos/politique/sondage-stop-covid-une-majorite-de-francais-inquiets-de-l-utilisation-de-leurs-donnees-par-l-1589445489 "France Bleu") said they were in favour of StopCovid when it was launched, their choice to install them depends on a large number of factors.
 
@@ -63,7 +63,7 @@ A large literature, mainly American and available on the WPRN database, has exam
 
 These studies, which show the central importance of [trust](https://www.alternatives-economiques.fr/appli-stop-covid-une-question-de-confiance/00092461 "Alternatives economiques"), give the public authorities solid arguments for developing communication campaigns aimed at [citizens](https://theconversation.com/stopcovid-un-million-dutilisateurs-et-quelques-reserves-non-dissipees-140110 "The Converstaion"). Important research in behavioural social sciences has supported the application design process. Further research is now required to assess their actual level of acceptance by citizens. These studies could be of a comparative nature to analyse reactions in different cultural contexts.
 
-### A risk to be further assessed regarding the protection of personal data and the development of technological surveillance in society.
+## A risk to be further assessed regarding the protection of personal data and the development of technological surveillance in society.
 
 Concerns have been expressed by citizens, associations and public actors regarding the protection of personal data. The issue is central because, as this [study](https://wprn.org/item/444652 "wprn 444652") avaible in WPRN points out, if citizens lose confidence in government, they may no longer follow its public health recommendations.
 
@@ -75,7 +75,7 @@ Many researchers are expressing their points of view and some point out the infr
 
 A trend in international research in recent years has focused on the links between digital and surveillance society. In this sense and that of several recently published fora, studies could be carried out to assess citizens’ perceptions of the use of technology for control or surveillance purposes.
 
-### Communities and states must carry out an exercise of proportionality between, on the one hand, the potential of technological solutions and, on the other hand, the protection of their sovereignty and the guarantee of the individual freedoms of their citizens.
+## Communities and states must carry out an exercise of proportionality between, on the one hand, the potential of technological solutions and, on the other hand, the protection of their sovereignty and the guarantee of the individual freedoms of their citizens.
 
 The involvement of the major Tech companies (GAFAM) in the production of these applications is very important. This [article](https://wprn.org/item/442852 "wprn 442852"), wich can be consulted on WPRN underlines that although some studies consider that the tracking technologies proposed by the GAFAMs offer better guarantees of respect for privacy or are more efficient than those proposed by the public authorities, other studies point out the risk of infringing the sovereignty of States and communities through increased dependence on these companies and through the delegation of missions of first-rate public services to private actors. Work showing the long-term multidimensional impacts of a dependence on Tech actors, updated in the context of the pandemic, would offer interesting avenues of reflection for public authorities.
 
