@@ -15,6 +15,7 @@ issue:
   - content/issues/HCERES - PFUE 2022.md
 language:
   - English
+  - French
 lastname: Pozzo
 picture: ''
 picture_copyright: ''

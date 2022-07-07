@@ -21,7 +21,7 @@
                 <br />
                 <v-icon left>mdi-email</v-icon>
                 <a mailto="information@paris-iea.fr"
-                  >information@paris-iea.fr</a
+                  >publications@paris-iea.fr</a
                 >
               </div>
               <iframe
@@ -153,10 +153,14 @@
                 <span>{{ item.text }}</span>
               </v-tooltip>
             </v-col>
-            <v-col cols="12" align="center">
-              <span class="overline"
-                >&copy; {{ new Date().getFullYear() }}
-                {{ $t('paris-ias') }}</span
+            <v-col cols="12" align="center" class="mt-3">
+              <v-btn text x-small nuxt dark>{{
+                $config.identifier.ISSN ? 'ISSN ' + $config.identifier.ISSN : ''
+              }}</v-btn>
+              <v-btn text x-small nuxt dark>
+                <!-- TODO add raw licence file url on github -->
+                &copy; {{ new Date().getFullYear() }}
+                {{ $t('paris-ias') }}</v-btn
               >
               <v-btn
                 text

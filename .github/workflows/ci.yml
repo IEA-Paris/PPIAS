@@ -20,7 +20,7 @@ on:
 env:
   ENV: ${{ github.ref == 'refs/heads/main' && 'prod' || 'dev' }}
   AWS_REGION: 'eu-west-3' # paris
-  NODE_OPTIONS: '--max_old_space_size=4096'
+  NODE_OPTIONS: '--max_old_space_size=4096' # fix heap out of memory error (nuxt generate)
 
 jobs:
   install:
@@ -40,10 +40,6 @@ jobs:
         with:
           node-version: ${{ matrix.node }}
           check-latest: true
-
-      - name: 🛠 Increase node memory
-        id: node-options-space-increase
-        run: export NODE_OPTIONS="--max-old-space-size=8192"
 
       - name: 🛠 Get yarn cache directory path
         id: yarn-cache-dir-path
