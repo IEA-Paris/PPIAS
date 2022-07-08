@@ -30,7 +30,7 @@ social_channels:
   instagram: ''
   linkedin: https://www.linkedin.com/in/ted-loch-temzelides-49158a43
   mendeley: ''
-  orcid_id: 0000-0001-8339-6722
+  orcid: 0000-0001-8339-6722
   researchgate: ''
   twitter: https://twitter.com/tedloch?lang=fr
   website: ''

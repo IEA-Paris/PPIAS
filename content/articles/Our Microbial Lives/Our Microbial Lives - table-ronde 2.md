@@ -22,7 +22,7 @@ authors:
     social_channels:
       website: ''
       wikipedia: ''
-      orcid_id: ''
+      orcid: ''
       linkedin: ''
       twitter: ''
       instagram: ''
@@ -39,7 +39,7 @@ authors:
       researchgate: https://www.researchgate.net/profile/Sabine-Boesen-Mariani
       website: ''
       wikipedia: ''
-      orcid_id: ''
+      orcid: ''
       linkedin: ''
       twitter: ''
       instagram: ''
@@ -55,7 +55,7 @@ authors:
         institution: Laboratoire ESE, Université Paris-Saclay, France
     social_channels:
       google_scholar: https://scholar.google.fr/citations?user=FuLX2sUAAAAJ&hl=fr
-      orcid_id: '0000-0002-3740-9673 '
+      orcid: '0000-0002-3740-9673 '
       researchgate: https://www.researchgate.net/profile/Jeanne-Ropars
       website: ''
       wikipedia: ''
@@ -74,7 +74,7 @@ authors:
     social_channels:
       researchgate: https://www.researchgate.net/profile/Genevieve-Teil
       linkedin: https://fr.linkedin.com/in/genevieve-teil-29aa066
-      orcid_id: '0000-0002-5536-5459 '
+      orcid: '0000-0002-5536-5459 '
       website: ''
       wikipedia: ''
       twitter: ''

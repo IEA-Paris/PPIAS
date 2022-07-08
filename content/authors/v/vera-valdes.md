@@ -4,6 +4,7 @@ articles:
   - Session 3 - Economic & Financial Impacts
 createdAt: '2022-01-17T14:32:20.295Z'
 exerpt: >-
+
   J. Eduardo Vera-Valdés is an Associate Professor at the Department of
   Mathematical Sciences in Aalborg University. Moreover, he is a certified
   GitHub Campus Advisor.
@@ -13,7 +14,7 @@ exerpt: >-
   University and CREATES, where he is currently affiliated as a Research Fellow.
 
 
-  His research interests are ec
+  His research interests are e
 firstname: J. Eduardo
 issue:
   - content/issues/WPRN21.md
@@ -28,7 +29,7 @@ social_channels:
   instagram: ''
   linkedin: https://dk.linkedin.com/in/eduardo-vera-valdes
   mendeley: ''
-  orcid_id: 0000-0002-0337-8055
+  orcid: 0000-0002-0337-8055
   researchgate: https://www.researchgate.net/profile/J-Eduardo-Vera-Valdes
   twitter: https://twitter.com/eduardoveraval
   website: ''
@@ -40,6 +41,7 @@ years:
   - 2021
 
 ---
+
 J. Eduardo Vera-Valdés is an Associate Professor at the Department of Mathematical Sciences in Aalborg University. Moreover, he is a certified GitHub Campus Advisor.
 
 He obtained his PhD in Economics and Business Economics in 2016 at Aarhus University and CREATES, where he is currently affiliated as a Research Fellow.

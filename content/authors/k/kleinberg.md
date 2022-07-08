@@ -31,7 +31,7 @@ social_channels:
   instagram: ''
   linkedin: https://nl.linkedin.com/in/barkleinberg
   mendeley: ''
-  orcid_id: 0000-0003-1658-9086
+  orcid: 0000-0003-1658-9086
   researchgate: https://www.researchgate.net/profile/Bennett-Kleinberg
   twitter: ''
   website: https://bkleinberg.net/

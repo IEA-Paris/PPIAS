@@ -24,7 +24,7 @@ social_channels:
   instagram: ''
   linkedin: https://it.linkedin.com/in/concetta-papapicco-phd-82009b11a
   mendeley: ''
-  orcid_id: 0000-0003-3240-8740
+  orcid: 0000-0003-3240-8740
   researchgate: https://www.researchgate.net/profile/Concetta-Papapicco
   twitter: https://twitter.com/concettapapapi1
   website: ''

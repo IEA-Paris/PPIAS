@@ -30,7 +30,7 @@ social_channels:
   instagram: ''
   linkedin: ''
   mendeley: ''
-  orcid_id: ''
+  orcid: ''
   researchgate: https://www.researchgate.net/profile/Elisa-Reis-2
   twitter: ''
   website: ''

@@ -20,7 +20,7 @@ authors:
         institution: Rice University and The Baker Institute, USA
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=r76P0PcAAAAJ&hl=en
-      orcid_id: '0000-0001-8339-6722 '
+      orcid: '0000-0001-8339-6722 '
       twitter: https://twitter.com/tedloch?lang=fr
       linkedin: https://www.linkedin.com/in/ted-loch-temzelides-49158a43
       website: ''

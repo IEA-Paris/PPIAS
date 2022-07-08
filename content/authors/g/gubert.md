@@ -32,7 +32,7 @@ social_channels:
   instagram: ''
   linkedin: https://fr.linkedin.com/in/flore-gubert-a8a296a7
   mendeley: ''
-  orcid_id: 0000-0002-7072-4069
+  orcid: 0000-0002-7072-4069
   researchgate: https://www.researchgate.net/profile/Flore-Gubert
   twitter: ''
   website: ''

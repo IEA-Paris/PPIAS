@@ -18,7 +18,7 @@ authors:
     social_channels:
       website: ''
       wikipedia: ''
-      orcid_id: ''
+      orcid: ''
       linkedin: ''
       twitter: ''
       instagram: ''

@@ -24,7 +24,7 @@ social_channels:
   instagram: ''
   linkedin: https://be.linkedin.com/in/timengels?trk=people-guest_people_search-card
   mendeley: ''
-  orcid_id: ''
+  orcid: ''
   researchgate: https://www.researchgate.net/profile/Tim-Engels-2
   twitter: ''
   website: ''

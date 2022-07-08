@@ -22,7 +22,7 @@ authors:
       google_scholar: https://scholar.google.com/citations?user=TUg9_OUAAAAJ&hl=en
       website: ''
       wikipedia: ''
-      orcid_id: ''
+      orcid: ''
       linkedin: ''
       twitter: ''
       instagram: ''

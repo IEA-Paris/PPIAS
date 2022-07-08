@@ -33,7 +33,7 @@ social_channels:
   instagram: ''
   linkedin: https://www.linkedin.com/in/pauliusyamin
   mendeley: ''
-  orcid_id: 0000-0003-1736-8728
+  orcid: 0000-0003-1736-8728
   researchgate: ''
   twitter: https://twitter.com/pauliusyamin
   website: https://pauliusyamin.com/

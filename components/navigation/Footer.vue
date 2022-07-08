@@ -14,15 +14,13 @@
             >
               <div class="text-body-2 my-6">
                 <v-icon left>mdi-map-marker</v-icon>
-                17, Quai d'Anjou 75004 PARIS - FRANCE
+                {{ $config.address }}
                 <br />
                 <v-icon left>mdi-phone</v-icon>
-                +33(0)1 56 81 00 52
+                {{ $config.phone }}
                 <br />
                 <v-icon left>mdi-email</v-icon>
-                <a mailto="information@paris-iea.fr"
-                  >publications@paris-iea.fr</a
-                >
+                <a mailto="information@paris-iea.fr">{{ $config.email }}</a>
               </div>
               <iframe
                 title="openstreetmap"

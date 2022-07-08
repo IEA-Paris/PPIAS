@@ -21,7 +21,7 @@ authors:
         institution: Paris School of Economics, France
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=3N5T0lEAAAAJ&hl=fr
-      orcid_id: '0000-0002-5342-8065 '
+      orcid: '0000-0002-5342-8065 '
       wikipedia: https://fr.wikipedia.org/wiki/Marc_Fleurbaey
       researchgate: https://www.researchgate.net/profile/Marc-Fleurbaey
       website: ''

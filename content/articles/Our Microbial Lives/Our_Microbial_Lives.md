@@ -19,7 +19,7 @@ authors:
     social_channels:
       website: ''
       wikipedia: ''
-      orcid_id: ''
+      orcid: ''
       linkedin: https://www.linkedin.com/in/microbehistory
       twitter: https://twitter.com/microbehistory
       instagram: ''

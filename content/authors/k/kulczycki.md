@@ -25,7 +25,7 @@ social_channels:
   instagram: ''
   linkedin: ''
   mendeley: ''
-  orcid_id: 0000-0001-6530-3609
+  orcid: 0000-0001-6530-3609
   researchgate: https://www.researchgate.net/profile/Emanuel-Kulczycki
   twitter: '@ekulczycki'
   website: https://emanuelkulczycki.com/

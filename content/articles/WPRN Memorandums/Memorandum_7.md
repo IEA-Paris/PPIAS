@@ -28,7 +28,7 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-      orcid_id: ''
+      orcid: ''
       instagram: ''
       google_scholar: ''
       researchgate: ''

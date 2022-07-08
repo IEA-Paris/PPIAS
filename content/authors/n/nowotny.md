@@ -32,7 +32,7 @@ social_channels:
   instagram: ''
   linkedin: ''
   mendeley: ''
-  orcid_id: ''
+  orcid: ''
   researchgate: https://www.researchgate.net/profile/Helga-Nowotny
   twitter: ''
   website: http://helga-nowotny.eu/

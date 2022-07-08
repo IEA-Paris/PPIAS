@@ -21,7 +21,7 @@ authors:
     social_channels:
       website: ''
       wikipedia: ''
-      orcid_id: ''
+      orcid: ''
       linkedin: ''
       twitter: ''
       instagram: ''
@@ -37,7 +37,7 @@ authors:
     social_channels:
       researchgate: https://www.researchgate.net/profile/Nicolas-Fortane
       google_scholar: https://scholar.google.com/citations?user=iJD2TRkAAAAJ&hl=fr
-      orcid_id: '0000-0001-6479-5808 '
+      orcid: '0000-0001-6479-5808 '
       website: ''
       wikipedia: ''
       linkedin: ''
@@ -55,7 +55,7 @@ authors:
     social_channels:
       google_scholar: https://scholar.google.fr/citations?user=OKtfJd0AAAAJ&hl=fr
       researchgate: https://www.researchgate.net/profile/Thierry-Naas
-      orcid_id: '0000-0001-9937-9572 '
+      orcid: '0000-0001-9937-9572 '
       website: ''
       wikipedia: ''
       linkedin: ''
@@ -74,7 +74,7 @@ authors:
         institution: Université de Bretagne Occidentale, France
     social_channels:
       linkedin: https://fr.linkedin.com/in/genevi%C3%A8ve-h%C3%A9ry-arnaud-aa695314a
-      orcid_id: 0000-0002-2089-3825
+      orcid: 0000-0002-2089-3825
       researchgate: https://www.researchgate.net/profile/Genevieve-Hery-Arnaud
       google_scholar: https://scholar.google.fr/citations?user=LGlzo5QAAAAJ&hl=fr
       website: ''

@@ -35,7 +35,7 @@ social_channels:
   instagram: ''
   linkedin: ''
   mendeley: ''
-  orcid_id: 0000-0003-3471-9067
+  orcid: 0000-0003-3471-9067
   researchgate: https://www.researchgate.net/profile/Marc-Selosse
   twitter: ''
   website: ''

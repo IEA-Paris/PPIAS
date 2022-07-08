@@ -20,7 +20,7 @@ social_channels:
   instagram: ''
   linkedin: ''
   mendeley: ''
-  orcid_id: ''
+  orcid: ''
   researchgate: https://www.researchgate.net/profile/Michal-B-Paradowski
   twitter: ''
   website: ''

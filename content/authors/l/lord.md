@@ -28,7 +28,7 @@ social_channels:
   instagram: ''
   linkedin: https://ca.linkedin.com/in/lordphil
   mendeley: ''
-  orcid_id: 0000-0002-5097-4140
+  orcid: 0000-0002-5097-4140
   researchgate: https://www.researchgate.net/profile/Phil-Lord
   twitter: https://twitter.com/ProfPhilLord
   website: ''

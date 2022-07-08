@@ -20,7 +20,7 @@ social_channels:
   instagram: ''
   linkedin: https://fr.linkedin.com/in/patrick-pintus-a7675518
   mendeley: ''
-  orcid_id: '0000-0003-2263-0655 '
+  orcid: '0000-0003-2263-0655 '
   researchgate: https://www.researchgate.net/profile/Patrick-Pintus
   twitter: ''
   website: ''

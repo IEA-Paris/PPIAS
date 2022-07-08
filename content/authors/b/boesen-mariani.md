@@ -29,7 +29,7 @@ social_channels:
   instagram: ''
   linkedin: https://nl.linkedin.com/in/sabine-boesen-a082368
   mendeley: ''
-  orcid_id: ''
+  orcid: ''
   researchgate: https://www.researchgate.net/profile/Sabine-Boesen-Mariani
   twitter: ''
   website: ''

@@ -20,7 +20,7 @@ social_channels:
   instagram: ''
   linkedin: ''
   mendeley: ''
-  orcid_id: ''
+  orcid: ''
   researchgate: ''
   twitter: ''
   website: ''

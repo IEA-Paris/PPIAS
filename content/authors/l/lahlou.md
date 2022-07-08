@@ -48,7 +48,7 @@ social_channels:
   instagram: ''
   linkedin: https://uk.linkedin.com/in/saadi-lahlou-98bab0b
   mendeley: ''
-  orcid_id: 0000-0002-9070-5009
+  orcid: 0000-0002-9070-5009
   researchgate: https://www.researchgate.net/profile/Saadi-Lahlou
   twitter: ''
   website: ''

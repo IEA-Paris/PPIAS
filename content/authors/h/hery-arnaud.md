@@ -31,7 +31,7 @@ social_channels:
   instagram: ''
   linkedin: https://fr.linkedin.com/in/genevi%C3%A8ve-h%C3%A9ry-arnaud-aa695314a
   mendeley: ''
-  orcid_id: 0000-0002-2089-3825
+  orcid: 0000-0002-2089-3825
   researchgate: https://www.researchgate.net/profile/Genevieve-Hery-Arnaud
   twitter: ''
   website: ''

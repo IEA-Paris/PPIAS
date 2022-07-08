@@ -30,7 +30,7 @@ social_channels:
   instagram: ''
   linkedin: ''
   mendeley: ''
-  orcid_id: 0000-0002-4981-9565
+  orcid: 0000-0002-4981-9565
   researchgate: ''
   twitter: ''
   website: ''
