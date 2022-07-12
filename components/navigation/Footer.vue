@@ -153,7 +153,9 @@
             </v-col>
             <v-col cols="12" align="center" class="mt-3">
               <v-btn text x-small nuxt dark>{{
-                $config.identifier.ISSN ? 'ISSN ' + $config.identifier.ISSN : ''
+                $config.identifier.ISSN
+                  ? 'Online ISSN ' + $config.identifier.ISSN
+                  : ''
               }}</v-btn>
               <v-btn text x-small nuxt dark>
                 <!-- TODO add raw licence file url on github -->
