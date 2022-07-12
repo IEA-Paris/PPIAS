@@ -2,6 +2,7 @@
 active: true
 articles:
   - 3.2.2_Ochsner
+  - 1.2.0_intro_Ochsner
 createdAt: '2022-06-30T09:50:04.056Z'
 exerpt: ''
 firstname: Michael

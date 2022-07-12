@@ -17,7 +17,7 @@
           tile
           target="_blank"
           nuxt
-          :to="localePath('/issue/' + issue.slug)"
+          :href="localePath('/issue/' + issue.slug)"
         >
           <v-icon>mdi-open-in-new</v-icon>
         </v-btn>
