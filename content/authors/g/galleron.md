@@ -2,6 +2,7 @@
 active: true
 articles:
   - 1.1.0_intro_Galleron
+  - 5.int_Galleron
 createdAt: '2022-06-29T07:19:38.856Z'
 exerpt: ''
 firstname: Ioana
@@ -19,6 +20,7 @@ social_channels:
   linkedin: ''
   mendeley: ''
   orcid: ''
+  orcid_id: ''
   researchgate: ''
   twitter: ''
   website: ''
