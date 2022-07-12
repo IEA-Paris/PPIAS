@@ -30,7 +30,7 @@ social_channels:
   instagram: ''
   linkedin: https://www.linkedin.com/in/enrique-fatas-a838338
   mendeley: ''
-  orcid_id: 0000-0002-0603-2156
+  orcid: 0000-0002-0603-2156
   researchgate: ''
   twitter: https://twitter.com/enriquefatas?lang=fr
   website: https://sites.google.com/view/enriquefatas/

@@ -29,12 +29,11 @@ const filterAndMerge = (first, second) => {
 
   first = first.filter((author) => {
     if (!author.social_channels)
-      if (author?.social_channels?.orcid_id) {
+      if (author?.social_channels?.orcid) {
         // does it have an orcid?
         // is it matching an existing doc?
         const referencedDocIndex = second.findIndex(
-          (doc) =>
-            author.social_channels.orcid_id === doc.social_channels.orcid_id
+          (doc) => author.social_channels.orcid === doc.social_channels.orcid
         )
         // if so we merge them and remove the related articleAuthor
         second[referencedDocIndex] = mergeDeep(

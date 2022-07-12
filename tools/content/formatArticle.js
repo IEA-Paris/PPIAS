@@ -1,4 +1,3 @@
-import { env } from 'process'
 import Citation from 'citation-js'
 import {
   insertReferences,
@@ -6,10 +5,11 @@ import {
   insertReferencesInAbstract,
 } from '../lib/contentUtilities'
 import filters from '../../assets/generated/filters'
+import config from '../../config.js'
 const fs = require('fs')
+const chalk = require('chalk')
 
 export default (document, database) => {
-  const chalk = require('chalk')
   if (document.dir.startsWith('/articles') && document.published) {
     document.issueIndex = document.issue?.length
       ? filters.articles.filters.issue.items.indexOf(
@@ -58,6 +58,13 @@ export default (document, database) => {
               template: 'harvard1',
               lang: 'en-US',
             }),
+            text: new Citation(item)
+              .format('bibliography', {
+                format: 'text',
+                template: 'apa',
+                lang: 'en-US',
+              })
+              .replace('\n', ''),
           }
         })
       }
@@ -81,10 +88,14 @@ export default (document, database) => {
           issue: document.issueIndex,
           volume: document.issueIndex,
           identifier: [
-            {
-              id: env?.config?.ISSN || false, // TODO replace by value from config file,
-              type: 'issn',
-            },
+            ...(config.identifier.ISSN
+              ? [
+                  {
+                    id: config.identifier.ISSN, // TODO replace by value from config file,
+                    type: 'issn',
+                  },
+                ]
+              : []),
           ],
         },
         // TODO update for other platforms
@@ -92,7 +103,10 @@ export default (document, database) => {
           {
             type: 'DOI',
             id: document.doi,
-            url: 'http://dx.doi.org/' + document.doi,
+            url:
+              'http://dx.doi.org/' +
+              document.doi +
+              (config.identifier.ISSN ? '/ISSN-' + config.identifier.ISSN : ''),
           },
         ],
         link: [{ url: 'https://paris.pias.science/articles/' + document.slug }], // TODO make from dyynamic platform name
@@ -119,7 +133,7 @@ export default (document, database) => {
               item.titles_and_institutions[0].institution && {
                 affiliation: item.titles_and_institutions[0].institution,
               }),
-            ...(item?.orcid_id && { orcid: item?.orcid_id }),
+            ...(item?.orcid && { orcid: item?.orcid }),
           }
         }),
         license: [

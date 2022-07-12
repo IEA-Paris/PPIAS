@@ -18,7 +18,7 @@ social_channels:
   instagram: ''
   linkedin: ''
   mendeley: ''
-  orcid_id: ''
+  orcid: ''
   researchgate: ''
   twitter: ''
   website: ''
@@ -30,5 +30,6 @@ titles_and_institutions:
     titles: []
 years:
   - 2022
+  - null
 
 ---

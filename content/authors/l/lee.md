@@ -29,7 +29,7 @@ social_channels:
   instagram: ''
   linkedin: https://www.linkedin.com/in/microbehistory
   mendeley: ''
-  orcid_id: ''
+  orcid: ''
   researchgate: ''
   twitter: https://twitter.com/microbehistory
   website: ''

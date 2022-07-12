@@ -129,10 +129,10 @@ export default {
             },
           ]
         : []),
-      ...(item.social_channels.orcid_id
+      ...(item.social_channels.orcid
         ? [
             {
-              link: 'https://orcid.org/' + item.social_channels.orcid_id,
+              link: 'https://orcid.org/' + item.social_channels.orcid,
               icon: 'mdi-account',
               tooltip: 'ORCID',
             },

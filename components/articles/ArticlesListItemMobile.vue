@@ -166,5 +166,6 @@ export default {
 .article-mobile-title {
   font-size: 1.3rem;
   margin-top: 0.1rem;
+  line-height: 1.7rem;
 }
 </style>

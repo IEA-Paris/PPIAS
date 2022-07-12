@@ -32,7 +32,7 @@ social_channels:
   instagram: ''
   linkedin: https://fr.linkedin.com/in/thierry-naas-05934b20
   mendeley: ''
-  orcid_id: 0000-0001-9937-9572
+  orcid: 0000-0001-9937-9572
   researchgate: https://www.researchgate.net/profile/Thierry-Naas
   twitter: ''
   website: ''

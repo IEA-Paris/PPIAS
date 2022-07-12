@@ -64,21 +64,21 @@ jobs:
         run: yarn build
         env:
           DEEPL_KEY: ${{ secrets.DEEPL_KEY }}
-          ORCID_ID: ${{secrets.ORCID_SANDBOX_ID}}
+          orcid: ${{secrets.ORCID_SANDBOX_ID}}
           ORCID_SANDBOX_SECRET_KEY_ID: ${{secrets.ORCID_SANDBOX_SECRET_KEY_ID}}
 
       - name: 🤞 Generate
         run: yarn generate
         env:
           DEEPL_KEY: ${{ secrets.DEEPL_KEY }}
-          ORCID_ID: ${{secrets.ORCID_SANDBOX_ID}}
+          orcid: ${{secrets.ORCID_SANDBOX_ID}}
           ORCID_SANDBOX_SECRET_KEY_ID: ${{secrets.ORCID_SANDBOX_SECRET_KEY_ID}}
 
-      - name: Cache dist
-        uses: actions/cache@v3
-        with:
-          path: dist
-          key: ${{ matrix.os }}-node-v${{ matrix.node }}-${{ github.sha }}
+      #   - name: Cache dist
+      #    uses: actions/cache@v3
+      #    with:
+      #      path: dist
+      #      key: ${{ matrix.os }}-node-v${{ matrix.node }}-${{ github.sha }}
 
       - name: ⤴️ Retro push generated content 🧙‍♂️
         run: |

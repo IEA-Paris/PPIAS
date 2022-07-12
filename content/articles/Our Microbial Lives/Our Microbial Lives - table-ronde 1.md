@@ -22,7 +22,7 @@ authors:
     social_channels:
       website: ''
       wikipedia: ''
-      orcid_id: ''
+      orcid: ''
       linkedin: ''
       twitter: ''
       instagram: ''
@@ -39,7 +39,7 @@ authors:
       linkedin: https://fr.linkedin.com/in/anne-pitkowski-95a2a697
       website: ''
       wikipedia: ''
-      orcid_id: ''
+      orcid: ''
       twitter: ''
       instagram: ''
       google_scholar: ''
@@ -56,7 +56,7 @@ authors:
       website: https://www.etancoigne.fr/
       google_scholar: https://scholar.google.fr/citations?user=21W9xTQAAAAJ&hl=fr
       researchgate: https://www.researchgate.net/profile/Elise-Tancoigne
-      orcid_id: 0000-0002-4168-4352
+      orcid: 0000-0002-4168-4352
       wikipedia: ''
       linkedin: ''
       twitter: ''
@@ -75,7 +75,7 @@ authors:
           d'Histoire naturelle, France
     social_channels:
       wikipedia: https://fr.wikipedia.org/wiki/Marc-Andr%C3%A9_Selosse
-      orcid_id: '0000-0003-3471-9067 '
+      orcid: '0000-0003-3471-9067 '
       researchgate: https://www.researchgate.net/profile/Marc-Selosse
       website: ''
       linkedin: ''

@@ -29,7 +29,7 @@ social_channels:
   instagram: ''
   linkedin: https://fr.linkedin.com/in/anne-pitkowski-95a2a697
   mendeley: ''
-  orcid_id: ''
+  orcid: ''
   researchgate: https://www.researchgate.net/profile/Anne-Pitkowski
   twitter: ''
   website: ''

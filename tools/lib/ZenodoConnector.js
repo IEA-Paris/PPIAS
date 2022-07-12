@@ -1,11 +1,10 @@
 'use strict'
-// from https://raw.githubusercontent.com/cheminfo/zenodo/master/src/index.js
-// MIT licence
+// taken from https://github.com/cheminfo/zenodo. Hats off & ty to the author
 const axios = require('axios')
 
 const defaultOptions = {
   protocol: 'https',
-  host: 'zenodo.org',
+  host: 'sandbox.zenodo.org',
   pathPrefix: '/api/',
 }
 
@@ -146,6 +145,7 @@ class ZenodoApiFiles {
       data,
     } = options
     const bucketId = deposition ? getBucketId(deposition) : options.bucketId
+    console.log('bucketId: ', bucketId)
     return this[kRequest].put(`/${bucketId}/${filename}`, data, {
       headers: {
         'Content-Type': contentType,

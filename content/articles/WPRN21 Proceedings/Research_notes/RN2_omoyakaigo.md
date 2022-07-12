@@ -27,7 +27,7 @@ authors:
     social_channels:
       website: ''
       wikipedia: ''
-      orcid_id: ''
+      orcid: ''
       linkedin: ''
       twitter: ''
       instagram: ''
@@ -46,7 +46,7 @@ authors:
       researchgate: https://www.researchgate.net/profile/Yuka-Omoya
       website: ''
       wikipedia: ''
-      orcid_id: ''
+      orcid: ''
       linkedin: ''
       twitter: ''
       instagram: ''

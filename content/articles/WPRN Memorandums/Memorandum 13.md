@@ -18,7 +18,6 @@ keywords:
   - 'Innovation, R&D '
 date: 2021-08-31T22:00:35.000+00:00
 language: English
-doi: '169059797'
 published: true
 article_title: COVID-19 Vaccination Resistance
 authors:
@@ -30,7 +29,7 @@ authors:
     social_channels:
       website: ''
       wikipedia: ''
-      orcid_id: ''
+      orcid: ''
       linkedin: ''
       twitter: ''
       instagram: ''
@@ -55,6 +54,7 @@ highlight: true
 bibliography: '/bibliography/documents-exportes_memo13.bib'
 custom_pdf: ''
 disciplines: ''
+needDOI: true
 ---
 
 People who are reluctant to vaccinate have often been portrayed as conspiracists in the media. Is this anecdotal evidence? A stable correlation? Research in humanities and social sciences has looked into this question. It has also studied how people relate to Covid-19 vaccination: do undecided people change their minds over time? What policies are likely to drive them away from vaccination? Is the obligation to show a vaccination certificate to access public spaces effective to nudge vaccine uptake? What makes vaccine mistrust fade away?

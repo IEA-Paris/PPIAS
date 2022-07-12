@@ -40,7 +40,7 @@ social_channels:
   instagram: ''
   linkedin: https://fr.linkedin.com/in/victorgalonnier
   mendeley: ''
-  orcid_id: ''
+  orcid: ''
   researchgate: ''
   twitter: ''
   website: ''

@@ -32,7 +32,7 @@ social_channels:
   instagram: ''
   linkedin: https://fr.linkedin.com/in/jeanne-ropars-811281139
   mendeley: ''
-  orcid_id: 0000-0002-3740-9673
+  orcid: 0000-0002-3740-9673
   researchgate: https://www.researchgate.net/profile/Jeanne-Ropars
   twitter: ''
   website: ''

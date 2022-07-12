@@ -26,7 +26,7 @@ authors:
       website: https://pauliusyamin.com/
       google_scholar: https://scholar.google.com/citations?user=zO4EatkAAAAJ&hl=en
       twitter: https://twitter.com/pauliusyamin
-      orcid_id: '0000-0003-1736-8728 '
+      orcid: '0000-0003-1736-8728 '
       linkedin: https://www.linkedin.com/in/pauliusyamin
       wikipedia: ''
       instagram: ''
@@ -46,7 +46,7 @@ authors:
       twitter: https://twitter.com/enriquefatas?lang=fr
       website: ''
       wikipedia: ''
-      orcid_id: ''
+      orcid: ''
       instagram: ''
       researchgate: ''
       mendeley: ''

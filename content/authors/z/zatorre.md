@@ -17,7 +17,7 @@ social_channels:
   instagram: ''
   linkedin: https://www.linkedin.com/in/robert-zatorre-615b6825/
   mendeley: ''
-  orcid_id: '0000-0003-1730-7423 '
+  orcid: '0000-0003-1730-7423 '
   researchgate: https://www.researchgate.net/profile/Robert-Zatorre
   twitter: ''
   website: ''

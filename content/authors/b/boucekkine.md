@@ -30,7 +30,7 @@ social_channels:
   instagram: ''
   linkedin: https://fr.linkedin.com/in/raouf-boucekkine-671b7099
   mendeley: ''
-  orcid_id: 0000-0002-8601-7115
+  orcid: 0000-0002-8601-7115
   researchgate: ''
   twitter: ''
   website: ''

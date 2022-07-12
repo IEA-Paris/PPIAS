@@ -22,7 +22,7 @@ authors:
       - titles: []
         institution: International Food Policy Research Institute, China
     social_channels:
-      orcid_id: 0000-0002-4981-9565
+      orcid: 0000-0002-4981-9565
       google_scholar: https://scholar.google.com/citations?user=NL3kmU0AAAAJ&hl=en
       website: ''
       wikipedia: ''

@@ -4,6 +4,9 @@ export default {
   env: { NODE_ENV: 'dev' },
   name: 'PPIAS',
   full_name: 'Proceedings of the Paris Institute for Advanced Study', // set to false if there is none
+  address: "17, Quai d'Anjou 75004 PARIS - FRANCE",
+  phone: '+33(0)1 56 81 00 52',
+  email: 'publications@paris-iea.fr',
   subtitle: 'Open source publishing platform for open science.',
   description: 'Open source publishing platform for open science.',
   splash_title: 'Open source publishing platform for open science.',
@@ -57,7 +60,7 @@ export default {
     },
   },
   identifier: {
-    ISSN: '2826-2832  ',
+    ISSN: '2826-2832',
   },
   modules: {
     sentry: {
@@ -66,6 +69,9 @@ export default {
     ackee: {
       domain: '0406b6c9-6dfc-44de-bb13-83bc0607cb14',
       server: 'https://ackee.paris-ias.io/',
+    },
+    zenodo: {
+      token: 'YZ2NJN33R5K68Qh3ev46llet5b01FSSWdws3y4zxc4auBBHnq91xaBdGXDfU',
     },
     image: {
       domains: [

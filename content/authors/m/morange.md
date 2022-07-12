@@ -31,7 +31,7 @@ social_channels:
   instagram: ''
   linkedin: https://fr.linkedin.com/in/michel-morange-72983562
   mendeley: ''
-  orcid_id: ''
+  orcid: ''
   researchgate: ''
   twitter: ''
   website: ''

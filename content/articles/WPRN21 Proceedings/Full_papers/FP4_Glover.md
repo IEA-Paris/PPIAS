@@ -1,78 +1,83 @@
 ---
 issue: content/issues/WPRN21 Proceedings.md
 keywords:
-- COVID-19
-- research method
-- survey
-- pandemic preparedness
+  - COVID-19
+  - research method
+  - survey
+  - pandemic preparedness
 date: 2022-05-29T21:49:20.000+00:00
 language: English
 disciplines: ''
 needDOI: true
 published: true
-article_title: 'Methodological difficulties of conducting cross-country quantitative
+article_title:
+  'Methodological difficulties of conducting cross-country quantitative
   research early in the COVID-19 pandemic: surveying changes in tobacco, alcohol and
   other substance use'
 authors:
-- firstname: 'Sofya '
-  lastname: Akinfieva
-  titles_and_institutions:
-  - titles: []
-    institution: National Centre for Development of Social Support & Rehabilitation,
-      Moscow, Russia
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: 'Alexander '
-  lastname: Merkin
-  titles_and_institutions:
-  - titles: []
-    institution: Centre for Precise Psychiatry and Neurosciences, Germany/Switzerland;
-      Academy for Postgraduate Education, Moscow, Russia
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-- firstname: 'Marewa '
-  lastname: Glover
-  titles_and_institutions:
-  - titles: []
-    institution: 'Centre of Research Excellence: Indigenous Sovereignty & Smoking,
-      Auckland, New Zealand'
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid_id: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
+  - firstname: 'Sofya '
+    lastname: Akinfieva
+    titles_and_institutions:
+      - titles: []
+        institution:
+          National Centre for Development of Social Support & Rehabilitation,
+          Moscow, Russia
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: 'Alexander '
+    lastname: Merkin
+    titles_and_institutions:
+      - titles: []
+        institution:
+          Centre for Precise Psychiatry and Neurosciences, Germany/Switzerland;
+          Academy for Postgraduate Education, Moscow, Russia
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: 'Marewa '
+    lastname: Glover
+    titles_and_institutions:
+      - titles: []
+        institution:
+          'Centre of Research Excellence: Indigenous Sovereignty & Smoking,
+          Auckland, New Zealand'
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
 custom_pdf: ''
-abstract: "Natural disasters, and pandemics, mostly occur without warning. The threat
+abstract:
+  "Natural disasters, and pandemics, mostly occur without warning. The threat
   to public health, the environment, and social wellbeing warrants scientific investigation
   to inform future preventative or rehabilitative measures. However, the panic and
   disruption to normal life caused by disasters and pandemics, and Government responses
@@ -93,10 +98,10 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: "/documents-exportes_fp4b.bib"
+bibliography: '/documents-exportes_fp4b.bib'
 doi: ''
-
 ---
+
 ## 1. INTRODUCTION
 
 Natural disasters, and pandemics, mostly occur without warning. The threat to public health, the environment, and social wellbeing warrants scientific investigation to inform future preventative or rehabilitative measures. However, the panic and disruption to normal life caused by disasters and pandemics, and government responses to them, poses extraordinary challenges for researching such events and their effects.
@@ -153,7 +158,7 @@ An initial survey was created in English for NZ. This was then adapted for the U
 
 #### 2.5.1 Research with Vulnerable Participants
 
-As we decided that some participants might be vulnerable, as discussed above, we set up a website ([https://coping-in-lockdown.com](https://coping-in-lockdown.com "https://coping-in-lockdown.com")) to provide participants with tips for coping in lockdown, how to cope with withdrawals from smoking, and access to an experienced therapist if needed. As the website was available in English only, it could not be promoted in Russia. Since the website included information on alternatives to smoking, such as smokeless tobacco, snus, oral nicotine pouches, and nicotine replacement products (depending on the availability of these in the country and region), we also did not promote it in India. Russian and Indian recruits were encouraged to contact the researchers by email if they had any questions or needed support.
+As we decided that some participants might be vulnerable, as discussed above, we set up a website ([https://coping-in-lockdown.com](https://coping-in-lockdown.com 'https://coping-in-lockdown.com')) to provide participants with tips for coping in lockdown, how to cope with withdrawals from smoking, and access to an experienced therapist if needed. As the website was available in English only, it could not be promoted in Russia. Since the website included information on alternatives to smoking, such as smokeless tobacco, snus, oral nicotine pouches, and nicotine replacement products (depending on the availability of these in the country and region), we also did not promote it in India. Russian and Indian recruits were encouraged to contact the researchers by email if they had any questions or needed support.
 
 ### 2.6 Participant Recruitment
 

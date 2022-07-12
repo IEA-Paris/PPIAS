@@ -20,7 +20,7 @@ social_channels:
   instagram: ''
   linkedin: ''
   mendeley: ''
-  orcid_id: ''
+  orcid: ''
   researchgate: https://www.researchgate.net/profile/Yuka-Omoya
   twitter: ''
   website: ''
@@ -32,5 +32,6 @@ titles_and_institutions:
     titles: []
 years:
   - 2022
+  - null
 
 ---

@@ -17,7 +17,7 @@ authors:
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=S6-gFiMAAAAJ&hl=en
       researchgate: https://www.researchgate.net/profile/Andy-Dobson/3
-      orcid_id: 0000-0002-9678-1694
+      orcid: 0000-0002-9678-1694
       website: ''
       wikipedia: ''
       linkedin: ''

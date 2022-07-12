@@ -23,7 +23,7 @@ authors:
     social_channels:
       google_scholar: https://scholar.google.nl/citations?user=Ms2d7OsAAAAJ&hl=en
       linkedin: https://nl.linkedin.com/in/barkleinberg
-      orcid_id: '0000-0003-1658-9086 '
+      orcid: '0000-0003-1658-9086 '
       researchgate: https://www.researchgate.net/profile/Bennett-Kleinberg
       website: ''
       wikipedia: ''

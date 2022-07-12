@@ -30,7 +30,7 @@ social_channels:
   instagram: ''
   linkedin: https://www.linkedin.com/in/marc-fleurbaey-83488721
   mendeley: ''
-  orcid_id: 0000-0002-5342-8065
+  orcid: 0000-0002-5342-8065
   researchgate: https://www.researchgate.net/profile/Marc-Fleurbaey
   twitter: https://twitter.com/mfleurbaey
   website: https://sites.google.com/site/marcfleurbaey/Home
