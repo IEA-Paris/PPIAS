@@ -1,13 +1,14 @@
 import { truncate } from 'fs'
 import Citation from 'citation-js'
 import config from '../../config.js'
-
+const wtf = false
 export default async (document) => {
   try {
     if (
       document.dir.startsWith('/articles') &&
       document.published &&
-      document.article_title === 'COVID-19 Vaccination Resistance'
+      document.article_title === 'COVID-19 Vaccination Resistance' &&
+      wtf
     ) {
       const Zenodo = require('../lib/ZenodoConnector')
       const zenodo = await new Zenodo({

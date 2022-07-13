@@ -383,11 +383,12 @@ export const insertReferences = (node, biblio) => {
   }
 }
 export const replaceReferenceInFootnote = (footnote, biblio) => {
+  console.log('footnote.value: ', footnote.value)
   if (!footnote.value && footnote.children.length) {
     footnote.children = footnote.children.map((footNoteChild) =>
       replaceReferenceInFootnote(footNoteChild, biblio)
     )
-  } else {
+  } else if (footnote.value) {
     const matches = footnote.value.match(referenceRegex)
     if (matches !== null) {
       for (let index = 0; index < matches.length; index++) {
