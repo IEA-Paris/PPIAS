@@ -383,7 +383,6 @@ export const insertReferences = (node, biblio) => {
   }
 }
 export const replaceReferenceInFootnote = (footnote, biblio) => {
-  console.log('footnote.value: ', footnote.value)
   if (!footnote.value && footnote.children.length) {
     footnote.children = footnote.children.map((footNoteChild) =>
       replaceReferenceInFootnote(footNoteChild, biblio)
@@ -409,6 +408,8 @@ export const replaceReferenceInFootnote = (footnote, biblio) => {
         )
       }
     }
+  } else {
+    console.log('NO FOOTNOTE VALUE')
   }
   return footnote
 }

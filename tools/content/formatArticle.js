@@ -11,6 +11,7 @@ const chalk = require('chalk')
 
 export default (document, database) => {
   if (document.dir.startsWith('/articles') && document.published) {
+    console.log(`processing ${document.article_title} ...`)
     document.issueIndex = document.issue?.length
       ? filters.articles.filters.issue.items.indexOf(
           document.issue.slice(15, -3)
