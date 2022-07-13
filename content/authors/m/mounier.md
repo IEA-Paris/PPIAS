@@ -3,6 +3,7 @@ active: true
 articles:
   - 1_Mounier
   - 1.0.1_Mounier
+  - 4.Mounier
 createdAt: '2022-06-23T07:47:04.770Z'
 exerpt: ''
 firstname: Pierre
@@ -21,6 +22,7 @@ social_channels:
   linkedin: ''
   mendeley: ''
   orcid: ''
+  orcid_id: ''
   researchgate: ''
   twitter: ''
   website: ''

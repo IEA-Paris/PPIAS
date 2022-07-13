@@ -7,7 +7,8 @@ export default async (document) => {
     if (
       document.dir.startsWith('/articles') &&
       document.published &&
-      document.article_title === 'COVID-19 Vaccination Resistance'
+      document.article_title === 'COVID-19 Vaccination Resistance' &&
+      false
     ) {
       const Zenodo = require('../lib/ZenodoConnector')
       const zenodo = await new Zenodo({

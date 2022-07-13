@@ -8,6 +8,7 @@ articles:
   - Lahlou Intro
   - 1.1.0 Lahlou Intro session Livres
   - 1.0.0 Lahlou Intro session Livres
+  - 3 Lahlou Intro session Livres
 categories:
   - content/categories/WPRN21.md
   - []
@@ -49,6 +50,7 @@ social_channels:
   linkedin: https://uk.linkedin.com/in/saadi-lahlou-98bab0b
   mendeley: ''
   orcid: 0000-0002-9070-5009
+  orcid_id: ''
   researchgate: https://www.researchgate.net/profile/Saadi-Lahlou
   twitter: ''
   website: ''
