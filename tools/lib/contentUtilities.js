@@ -3,11 +3,37 @@
 /* eslint-disable prefer-regex-literals */
 import path from 'path'
 import fs from 'fs'
-import { dump } from 'js-yaml'
+import yaml from 'js-yaml'
+import matter from 'gray-matter'
 import fsExtra from 'fs-extra'
 /* import { Repository, Tree, Diff } from 'nodegit' */
 import slugify from '../../assets/utils/slugify'
 import { formatAuthors } from '../../assets/utils/transforms'
+const fieldsToDelete = [
+  'slug',
+  'body',
+  'dir',
+  'path',
+  'extension',
+  'updatedAt',
+  'toc',
+  'description',
+  'title',
+  'text',
+  'checksum',
+]
+function processFrontmatter(md, options) {
+  const frontmatter = matter(md).data
+  Object.entries(options).forEach(function ([fieldName, value]) {
+    if (value === 'del' || value === '-') {
+      delete frontmatter[fieldName]
+    } else {
+      frontmatter[fieldName] = value
+    }
+  })
+
+  return matter.stringify(matter(md))
+}
 /* export const printWikipediaDisciplines = () => {
   const result = disciplines
   const replaceUl = (node) => {
@@ -191,7 +217,13 @@ export const mergeDeep = (...objects) => {
     return prev
   }, {})
 }
-
+export const generateChecksum = (str, algorithm, encoding) => {
+  const crypto = require('crypto')
+  return crypto
+    .createHash(algorithm || 'md5')
+    .update(str, 'utf8')
+    .digest(encoding || 'hex')
+}
 export const writePrintRoutes = async () => {
   /*   // first, we clean existing files
   const targetFolder = path.resolve('static/pdfs')
@@ -201,18 +233,12 @@ export const writePrintRoutes = async () => {
     fsExtra.emptyDirSync(targetFolder)
   } */
   console.log('writePrintRoutes')
-  /*   //  we generate the pdf routes and data
-  getStagedChanges()
-  fs.writeFileSync(
-    './assets/generated/routes.js',
-    `/* eslint-disable prettier/prettier 
-export default ` +
-      JSON.stringify( */
+
   const { $content } = require('@nuxt/content')
   // TODO : replace {published:true} with dynamic filters from import
   const articles = await $content('articles', { deep: true })
     // TODO check that custom_PDF is correctly evaluated
-    .where({ published: true /* ,custom_pdf: false  */ })
+    .where({ published: true, custom_pdf: false })
     .fetch()
 
   return articles.map((article) => {
@@ -245,6 +271,29 @@ export default ` +
   /*     )
   ) */
 }
+
+export const updateArticleDoiAndZid = (document) => {
+  const data = fs.readFileSync('./content' + document.path + '.md', 'utf8')
+  const markdown = data.split('---')[2]
+  const frontmatter = yaml.load(data.split('---')[1])
+  if (
+    (document.DOI && !frontmatter.DOI) ||
+    (document.Zid && !frontmatter.Zid)
+  ) {
+    if (document.DOI && !frontmatter.DOI) frontmatter.DOI = document.DOI
+    console.log('document.DOI: ', document.DOI)
+    if (document.Zid && !frontmatter.Zid) frontmatter.Zid = document.Zid
+    console.log('document.Zid: ', document.Zid)
+    fs.writeFileSync(
+      './content' + document.path + '.md',
+      `---
+  ${yaml.dump(frontmatter, { noRefs: true, sortKeys: true })}
+  ---
+  ${markdown || ''}`
+    )
+  }
+}
+
 export const insertDocuments = (data, cat, filenameFlag) => {
   // TODO diff and selectively CRUD
   // create the folder structure or delete all the previous author files
@@ -259,19 +308,6 @@ export const insertDocuments = (data, cat, filenameFlag) => {
 
   // create the new ones
   data.forEach((doc, index) => {
-    // only keep relevant fields in the stored document
-    const fieldsToDelete = [
-      'slug',
-      'body',
-      'dir',
-      'path',
-      'extension',
-      'updatedAt',
-      'toc',
-      'description',
-      'title',
-      'text',
-    ]
     const filteredDoc = Object.fromEntries(
       Object.entries(doc).filter(([k]) => !fieldsToDelete.includes(k))
     )
@@ -280,7 +316,7 @@ export const insertDocuments = (data, cat, filenameFlag) => {
     fs.writeFileSync(
       './content/' + cat + '/' + fileName[0] + '/' + fileName,
       `---
-${dump(filteredDoc, { noRefs: true, sortKeys: true })}
+${yaml.dump(filteredDoc, { noRefs: true, sortKeys: true })}
 ---
 ${doc.text ? doc.text : ''}`
     )

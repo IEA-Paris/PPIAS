@@ -1,4 +1,41 @@
 ---
+abstract: >-
+  This paper proposes a communication method to improve decision and
+  policymaking under uncertain scenarios. The motivation for elaborating such a
+  method is the absence of clarity and prioritization criteria in considerations
+  made by the Brazilian federal government during the ongoing response to the
+  epidemic of COVID-19 in the country. The expectation is that the
+  implementation of this method would help national leaders more easily assess
+  the significance of evidence-based practices and anecdata to the decisions
+  they are urged to make under significant time and resource constraints.
+article_title: >-
+  Governance in Crisis: Institutionalizing Reflective Report to Guide Decision
+  Making Under Uncertainty
+authors:
+  - firstname: Marvin
+    lastname: Starominski-Uehara
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: 0000-0002-1542-7619
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_institutions:
+      - institution: Temple University, Japan
+        titles: []
+bibliography: /documents-exportes_fp1.bib
+custom_pdf: ''
+date: 2022-04-25T14:22:51.000Z
+disciplines: ''
+doi: '169059797'
+highlight: false
 issue: content/issues/WPRN21 Proceedings.md
 keywords:
   - ' crisis management'
@@ -6,49 +43,15 @@ keywords:
   - public administration
   - covid-19
   - Brazil
-date: 2022-04-25T14:22:51.000+00:00
 language: English
-doi: '169059797'
-disciplines: ''
-published: true
-article_title:
-  'Governance in Crisis: Institutionalizing Reflective Report to Guide
-  Decision Making Under Uncertainty'
-authors:
-  - firstname: Marvin
-    lastname: Starominski-Uehara
-    titles_and_institutions:
-      - titles: []
-        institution: Temple University, Japan
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: 0000-0002-1542-7619
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-custom_pdf: ''
-abstract:
-  This paper proposes a communication method to improve decision and policymaking
-  under uncertain scenarios. The motivation for elaborating such a method is the absence
-  of clarity and prioritization criteria in considerations made by the Brazilian federal
-  government during the ongoing response to the epidemic of COVID-19 in the country.
-  The expectation is that the implementation of this method would help national leaders
-  more easily assess the significance of evidence-based practices and anecdata to
-  the decisions they are urged to make under significant time and resource constraints.
+needDOI: false
 picture: ''
 picture_copyright: ''
+published: true
 yt: ''
-highlight: false
-bibliography: '/documents-exportes_fp1.bib'
-needDOI: false
+
 ---
+
 
 ## 1. INTRODUCTION
 
@@ -72,7 +75,7 @@ The clash observed in Brazil illustrates to a certain extent the academic debate
 
 In the context of crisis management, this long-standing academic debate tends to become even more heated. In the context of the US, which has now the largest number of infections to the novel coronavirus and deaths to COVID-19 worldwide, the president and its main scientific advisor cannot agree over which direction the country is heading to (@haffajee_thinking_2020; @washington_post_trump_2020). This is because time is of the essence. Crises are extraordinary situations that demand immediate response with minimum, incomplete or no information whatsoever (@moynihan_learning_2008). In these moments, decision makers are elevated to a position that society looks up for coherent explanations and coordinated actions to reduce their anxiety over the effects of the unfolding event in their routines (@boin_politics_2016; @lazzarini_leviathan_2020).
 
-It is not only limited time that decision makers are constrained by. They are also unable to process every piece of critical information that is given to them on a daily, or even hourly, basis (@james*leading_2010). This makes them resort to cognitive mechanisms that help them effortlessly organize and prioritize thoughts and interests (@kahneman_maps_2003). Values and beliefs shaped by decision makers' experiences are the variables that set in motion \_where* and _how_ each piece of information stacks up (@abers_practical_2013; @clandinin_narrative_2013; @codato_nova_2015; @gauchat_political_2015; @walsh_science_2018). Humans, in general, seek comfort in messages that confirm our idiosyncrasies (@cook_human_2008). We try our best to avoid the psychological stress that conflicting information has on challenging our prior set of beliefs forcing us to review and shift preconceived courses of action (@brehm_explorations_1962). Public authorities tend to cognitively react to avoid penalizing their beliefs just as most people do (@carnielli_tyranny_2008).
+It is not only limited time that decision makers are constrained by. They are also unable to process every piece of critical information that is given to them on a daily, or even hourly, basis (@james_leading_2010). This makes them resort to cognitive mechanisms that help them effortlessly organize and prioritize thoughts and interests (@kahneman_maps_2003). Values and beliefs shaped by decision makers' experiences are the variables that set in motion *where* and _how_ each piece of information stacks up (@abers_practical_2013; @clandinin_narrative_2013; @codato_nova_2015; @gauchat_political_2015; @walsh_science_2018). Humans, in general, seek comfort in messages that confirm our idiosyncrasies (@cook_human_2008). We try our best to avoid the psychological stress that conflicting information has on challenging our prior set of beliefs forcing us to review and shift preconceived courses of action (@brehm_explorations_1962). Public authorities tend to cognitively react to avoid penalizing their beliefs just as most people do (@carnielli_tyranny_2008).
 
 Nevertheless, national leaders live under the public eye. They are not allowed to err as frequently as normal people do (@flyvbjerg_underestimating_2002). They must find ways to enhance their decision-making processes (@willems_politicization_2016). Consulting with experts from different fields about a particular issue during critical times can certainly help them in this endeavor (@alexiadou_commitment_2019). They could also momentarily gather a limited number of advisors that are thoughtful in their proposals and able to communicate effectively (@davidson_storytelling_2017; @walsh_science_2018) to provide them with daily updates and recommendations. This deliberative process, however, can quickly become time consuming and unproductive (@scolobig_public_2016). Thus, a structure guiding advisors to share opinions and help the decision maker easily grasp a myriad of viewpoints is highly desirable.
 
@@ -92,7 +95,7 @@ The length of each report varies in terms of the number of advisors and time con
 
 ## 5. LIMITATIONS
 
-Reflective reports in the context of decision making under uncertainty present limitations. The first one has to do with the ability of advisors to translate complexity into compelling narratives without missing key facts. Advisors may also excessively simplify their interpretation of reality for the sake of clarity (@feitsma*rationalized_2018). The second limitation has to do with gatekeeping (@dargent_technocracy_2015, p. 112). National leaders must ensure that an \_ad \_hoc* committee is not only composed of well-known experts in each field, but it also gives opportunity for thoughtful communicators to share heterodox ways of thinking (@land_threshold_2010; @ogbunu_dont_2020) and suggest unexpected courses of action (@filgueiras_governance_2019, p. 9). The third limitation has to do with the cognitive ability of decision makers. Leaders need to be aware of their biases and blind spots (@edwards_early_2016). Self-awareness allows decision makers to prioritize what it is in the interest of the public good rather than their own or their group. The last limitation assumes that each advisor's recommendation enjoys the same weight in the final decision. However, it is expected that leaders would be more inclined to consider recommendations that corroborate their preexisting values and beliefs (@buckley_technocrats_2017, p. 4) or be more acquiescent to advisors that had some leverage on their past decisions.
+Reflective reports in the context of decision making under uncertainty present limitations. The first one has to do with the ability of advisors to translate complexity into compelling narratives without missing key facts. Advisors may also excessively simplify their interpretation of reality for the sake of clarity (@feitsma_rationalized_2018). The second limitation has to do with gatekeeping (@dargent_technocracy_2015, p. 112). National leaders must ensure that an *ad hoc* committee is not only composed of well-known experts in each field, but it also gives opportunity for thoughtful communicators to share heterodox ways of thinking (@land_threshold_2010; @ogbunu_dont_2020) and suggest unexpected courses of action (@filgueiras_governance_2019, p. 9). The third limitation has to do with the cognitive ability of decision makers. Leaders need to be aware of their biases and blind spots (@edwards_early_2016). Self-awareness allows decision makers to prioritize what it is in the interest of the public good rather than their own or their group. The last limitation assumes that each advisor's recommendation enjoys the same weight in the final decision. However, it is expected that leaders would be more inclined to consider recommendations that corroborate their preexisting values and beliefs (@buckley_technocrats_2017, p. 4) or be more acquiescent to advisors that had some leverage on their past decisions.
 
 ## 6. CONCLUSION
 

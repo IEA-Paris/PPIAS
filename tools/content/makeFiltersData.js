@@ -1,5 +1,5 @@
 import fs from 'fs'
-export default async () => {
+export default async (content) => {
   const filters = {}
   const { $content } = require('@nuxt/content')
   // TODO add .only() to limit the data fetched

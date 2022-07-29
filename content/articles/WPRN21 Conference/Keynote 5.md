@@ -1,4 +1,31 @@
 ---
+abstract: >-
+  Keynote  presentation by Elisa Reis during the WPRN21 conference in Paris on
+  December 9th 2021
+article_title: 'Social Cohesion, Inequality, and the Pandemic: Lessons from Brazil'
+authors:
+  - firstname: 'Elisa '
+    lastname: Reis
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: https://scholar.google.com/citations?user=TUg9_OUAAAAJ&hl=en
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: https://www.researchgate.net/profile/Elisa-Reis-2
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_institutions:
+      - institution: Federal University of Rio de Janeiro, Brazil
+        titles: []
+bibliography: /bibliography/documents-exportes_keynote5.bib
+date: 2021-12-09T16:00:04.000Z
+doi: '169059797'
+highlight: false
 issue: content/issues/WPRN21 Conference.md
 keywords:
   - 'Public Health '
@@ -6,39 +33,14 @@ keywords:
   - 'Inequalities, Poverty, Development '
   - 'Risks, Crisis Management '
   - 'Public Policy, Evaluation, Impact '
-date: 2021-12-09T16:00:04.000+00:00
 language: English
-doi: '169059797'
-published: true
-article_title: 'Social Cohesion, Inequality, and the Pandemic: Lessons from Brazil'
-authors:
-  - firstname: 'Elisa '
-    lastname: Reis
-    titles_and_institutions:
-      - titles: []
-        institution: Federal University of Rio de Janeiro, Brazil
-    social_channels:
-      researchgate: https://www.researchgate.net/profile/Elisa-Reis-2
-      google_scholar: https://scholar.google.com/citations?user=TUg9_OUAAAAJ&hl=en
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      mendeley: ''
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-abstract:
-  Keynote  presentation by Elisa Reis during the WPRN21 conference in Paris
-  on December 9th 2021
 picture: ''
 picture_copyright: ''
+published: true
 yt: DlM3vzlQ37Y
-highlight: false
-bibliography: '/bibliography/documents-exportes_keynote5.bib'
+
 ---
+
 
 ## Social Cohesion, Inequality, and the Pandemic: Lessons from Brazil
 

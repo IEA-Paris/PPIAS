@@ -1,4 +1,50 @@
 ---
+abstract: >-
+  The image of empty supermarket shelves is one of those that will remain from
+  the announcement of the first lockdown. The Europeans practiced the
+  «Hamsterkauf» as dubbed by the German speakers: they stocked up like hamsters.
+  This rush on food supplies, especially rice and pasta, shows that the first
+  worry was not the disease but the risk of running out of food: a striking
+  phenomenon in affluent societies. During lockdowns, food stores were tagged
+  «essential.» Food’s centrality returned to the forefront: one could no longer
+  delegate its management or forget its role (as is often the case in the West
+  because of its easy access and urban lifestyles). The primary functions of
+  food were exacerbated: setting the rhythm of a daily time that stretched to
+  infinity, regulating emotions, being at the center of constrained social
+  interactions, and anxieties about the risk of food insecurity. On the World
+  Pandemic Research Network database, various studies dug into how the pandemic
+  has shaken our relationship with food.
+
+  Memorandum 10 : overview of the studies and projects registered on WPRN
+  database
+
+  This article was originally published in French.
+article_title: 'COVID-19 and Food -  Food Security: A Major Concern for Households'
+authors:
+  - firstname: 'Aurélie '
+    lastname: 'Louchart '
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_institutions:
+      - institution: Paris Institute for Advanced Study, France
+        titles: []
+bibliography: ''
+custom_pdf: ''
+date: 2021-01-03T09:15:10.000Z
+disciplines: ''
+doi: '169059797'
+highlight: false
 issue: content/issues/WPRN Memorandums.md
 keywords:
   - Agriculture, Alimentation
@@ -16,42 +62,14 @@ keywords:
   - Migrations and Diasporas
   - ' Work, Welfare, Social protection'
   - Inequalities, Poverty, Development
-date: 2021-01-03T09:15:10.000+00:00
 language: English
-doi: '169059797'
-disciplines: ''
-published: true
-article_title: 'COVID-19 and Food -  Food Security: A Major Concern for Households'
-authors:
-  - firstname: 'Aurélie '
-    lastname: 'Louchart '
-    titles_and_institutions:
-      - titles: []
-        institution: Paris Institute for Advanced Study, France
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-custom_pdf: ''
-abstract: |-
-  The image of empty supermarket shelves is one of those that will remain from the announcement of the first lockdown. The Europeans practiced the «Hamsterkauf» as dubbed by the German speakers: they stocked up like hamsters. This rush on food supplies, especially rice and pasta, shows that the first worry was not the disease but the risk of running out of food: a striking phenomenon in affluent societies. During lockdowns, food stores were tagged «essential.» Food’s centrality returned to the forefront: one could no longer delegate its management or forget its role (as is often the case in the West because of its easy access and urban lifestyles). The primary functions of food were exacerbated: setting the rhythm of a daily time that stretched to infinity, regulating emotions, being at the center of constrained social interactions, and anxieties about the risk of food insecurity. On the World Pandemic Research Network database, various studies dug into how the pandemic has shaken our relationship with food.
-  Memorandum 10 : overview of the studies and projects registered on WPRN database
-  This article was originally published in French.
-picture: '/covid19-food.jpeg'
+picture: /covid19-food.jpeg
 picture_copyright: ''
+published: true
 yt: ''
-highlight: false
-bibliography: ''
+
 ---
+
 
 ## All bakers?
 

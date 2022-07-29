@@ -41,7 +41,10 @@
             <template v-if="item.disciplines && item.discipline.length">
               <div class="article-label mt-6 mb-3">{{ $t('fields') }}</div>
 
-              <div class="mb-6">
+              <div
+                v-if="item.disciplines && item.disciplines.length"
+                class="mb-6"
+              >
                 <Tag
                   v-for="(discipline, index2) in item.disciplines"
                   :key="index2"

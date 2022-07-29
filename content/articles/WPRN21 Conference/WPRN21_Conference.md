@@ -1,53 +1,56 @@
 ---
-issue: content/issues/WPRN21 Conference.md
-tag: []
-date: 2021-12-09T09:30:39.000+00:00
-article_title: WPRN 21 Conference
-picture: ''
-picture_copyright: ''
-published: true
-pinned: false
-highlight: false
-bibliography: ''
-yt: ULeeaCclxW0
+abstract: >-
+  During the December 9-10 WPRN conference, experts from all over the globe
+  shared their insights and lessons learned from the pandemic in 9 Keynote
+  presentations, as well as 6 topic panels comprising 39 research papers.The
+  welcome conference opens the 2 days of WPRN21.
 article_author: ''
-redactor: []
+article_title: WPRN 21 Conference
 authors:
   - firstname: 'Saadi '
     lastname: Lahlou
-    titles_and_institutions:
-      - institution: London School of Economics and Political Science , United Kingdom
-      - titles:
-          - Director
-        institution: Paris Institute for Advanced Study, France
     social_channels:
       orcid: '0000-0001-8114-7271 '
+    titles_and_institutions:
+      - institution: London School of Economics and Political Science , United Kingdom
+      - institution: Paris Institute for Advanced Study, France
+        titles:
+          - Director
   - firstname: 'Flore '
     lastname: Gubert
+    social_channels:
+      google_scholar: https://scholar.google.com/citations?user=8xBJ-CEAAAAJ&hl=fr
+      orcid: 0000-0002-7072-4069
+      researchgate: https://www.researchgate.net/profile/Flore-Gubert
     titles_and_institutions:
       - institution: Institut de Recherche pour le Développement, France
       - institution: Fondation Maison des Sciences de l'Homme, France
-    social_channels:
-      orcid: 0000-0002-7072-4069
-      google_scholar: https://scholar.google.com/citations?user=8xBJ-CEAAAAJ&hl=fr
-      researchgate: https://www.researchgate.net/profile/Flore-Gubert
   - firstname: 'Maxi '
     lastname: Heitmayer
+    social_channels:
+      linkedin: >-
+        https://uk.linkedin.com/in/maxi-heitmayer-645646196?trk=public_profile_browsemap_profile-result-card_result-card_full-click
+      researchgate: https://www.researchgate.net/profile/Maxi-Heitmayer
+      twitter: ''
     titles_and_institutions:
       - institution: The London School of Economics and Political Science, United Kingdom
-    social_channels:
-      linkedin: https://uk.linkedin.com/in/maxi-heitmayer-645646196?trk=public_profile_browsemap_profile-result-card_result-card_full-click
-      twitter: ''
-      researchgate: https://www.researchgate.net/profile/Maxi-Heitmayer
-abstract:
-  During the December 9-10 WPRN conference, experts from all over the globe
-  shared their insights and lessons learned from the pandemic in 9 Keynote presentations,
-  as well as 6 topic panels comprising 39 research papers.The welcome conference opens
-  the 2 days of WPRN21.
+bibliography: ''
+date: 2021-12-09T09:30:39.000Z
+doi: '169059797'
+highlight: false
+issue: content/issues/WPRN21 Conference.md
 keywords: []
 language: English
-doi: '169059797'
+picture: ''
+picture_copyright: ''
+pinned: false
+published: true
+redactor: []
+tag: []
+yt: ULeeaCclxW0
+
 ---
+
 
 ## WPRN Project
 

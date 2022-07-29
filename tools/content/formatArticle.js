@@ -6,11 +6,10 @@ import {
 } from '../lib/contentUtilities'
 import filters from '../../assets/generated/filters'
 import config from '../../config.js'
-const fs = require('fs')
-const chalk = require('chalk')
 
-export default (document, database) => {
+export default (document) => {
   if (document.dir.startsWith('/articles') && document.published) {
+    // we use the issue filter (already sorted by date) to set an index for the fetch of the view by issue
     document.issueIndex = document.issue?.length
       ? filters.articles.filters.issue.items.indexOf(
           document.issue.slice(15, -3)
@@ -22,65 +21,19 @@ export default (document, database) => {
       const date = new Date(document.createdAt).toLocaleDateString('EN', {
         timezone: 'UTC',
       })
-      let cites
-      // generate bibliography if required
       if (document.bibliography?.length) {
-        const data = fs.readFileSync(
-          './static/' + document.bibliography,
-          'utf8'
+        document.abstract = insertReferencesInAbstract(
+          document.abstract,
+          document.bibliography
         )
-        cites = new Citation(data)
-        document.bibliography = cites.data.map((item) => {
-          return {
-            ...item,
-            // TODO update with dynamic lang & add more formats, dynamic default format: https://citation.js.org/api/0.3/tutorial-output_plugins_csl.html
-            citation: new Citation(item)
-              .format('citation', {
-                format: 'text',
-                template: 'apa',
-                lang: 'en-US',
-              })
-              // To remove the parentheses
-              // TODO come up with a better way (mb a CSL template w/out parenthesis)
-              .slice(1, -1),
-            APA: new Citation(item).format('bibliography', {
-              format: 'html',
-              template: 'apa',
-              lang: 'en-US',
-            }),
-            vancouver: new Citation(item).format('bibliography', {
-              format: 'html',
-              template: 'vancouver',
-              lang: 'en-US',
-            }),
-            harvard1: new Citation(item).format('bibliography', {
-              format: 'html',
-              template: 'harvard1',
-              lang: 'en-US',
-            }),
-            text: new Citation(item)
-              .format('bibliography', {
-                format: 'text',
-                template: 'apa',
-                lang: 'en-US',
-              })
-              .replace('\n', ''),
-          }
-        })
       }
 
-      document.abstract = insertReferencesInAbstract(
-        document.abstract,
-        document.bibliography
-      )
       // make a json like object
       const docData = {
         abstract: document.abstract,
-        address: 'PARIS', // TODO update with other IAS/journals city
+        address: config.address, // TODO update with other IAS/journals city
         type: 'article',
         keywords: document.tags || [],
-        // TODO references: add .bib file extract
-        reference: cites ? cites.data : [],
         // TODO conference_url: TO BE COMPLETED
         language: document.language || 'en',
         journal: {
@@ -91,25 +44,28 @@ export default (document, database) => {
             ...(config.identifier.ISSN
               ? [
                   {
-                    id: config.identifier.ISSN, // TODO replace by value from config file,
+                    id: config.identifier.ISSN,
                     type: 'issn',
                   },
                 ]
               : []),
           ],
         },
-        // TODO update for other platforms
         identifier: [
           {
-            type: 'DOI',
-            id: document.doi,
-            url:
-              'http://dx.doi.org/' +
-              document.doi +
-              (config.identifier.ISSN ? '/ISSN-' + config.identifier.ISSN : ''),
+            ...(document.doi && {
+              type: 'DOI',
+              id: document.doi,
+              url:
+                'http://dx.doi.org/' +
+                document.doi +
+                (config.identifier.ISSN
+                  ? '/ISSN-' + config.identifier.ISSN
+                  : ''),
+            }),
           },
         ],
-        link: [{ url: 'https://paris.pias.science/articles/' + document.slug }], // TODO make from dyynamic platform name
+        link: [{ url: config.url + '/articles/' + document.slug }],
         accessed: {
           'date-parts': [new Date().toISOString()],
         },
@@ -157,17 +113,13 @@ export default (document, database) => {
         })
         .reduce((rst, tick) => Object.assign(rst, tick), {})
 
-      // let's make the DOI if it is not available
-      // TODO move elsewhere and include it to the author document backlink rewrite
-      /*  if (!document.doi || !document.doi.length) document.doi = getDOI(document) */
       let count = 0
       /*   */
-      // we use the issue filter (already sorted by date) to set an index for the fetch of the view by issue
 
       document.footnotes = []
       document.media = []
       document.years =
-        (document.date && document.date.getFullYear()) ||
+        (document.date && document.date?.getFullYear()) ||
         new Date().now().getFullYear()
       const toc2 = []
       // add the youtube thumbnail to the media of the article
@@ -207,10 +159,12 @@ export default (document, database) => {
                         },
                         children: [{ type: 'text', value: index + 1 + ' : ' }],
                       },
-                      ...replaceReferenceInFootnote(
-                        footnote,
-                        document.bibliography
-                      ).children,
+                      ...(document.bibliography?.length
+                        ? replaceReferenceInFootnote(
+                            footnote,
+                            document.bibliography
+                          ).children
+                        : footnote.children),
                     ],
                     type: 'root',
                   },

@@ -1,4 +1,46 @@
 ---
+abstract: >-
+  In addition to becoming a global phenomenon, the spreading of the new
+  Coronavirus, following the declaration of a pandemic state, has generated
+  excessive access to information, a phenomenon named “Infodemia”
+  (@cinelli_covid-19_2020). The general purpose of this exploratory study is to
+  investigate how the coronavirus situation is described in journalistic
+  communication. Starting from La Repubblica online, as a reference journalistic
+  magazine, the study assumes that if the circulation of information helps to
+  create a social representation of the phenomenon, the excessive accessibility
+  to sources of information (Infodemia) can be modulated by the “how” the
+  phenomenon is described by the journalists. The methodology proposed is
+  quanti-qualitative (mixed method). A Content Analysis
+  (@mayring_qualitative_2004) with the SketchEngine software
+  (@thomas_discovering_2016) was carried out first, then supported by a
+  Diatextual Analysis (@papapicco_brexit_2019). The results show the presence of
+  contrasting visions about COVID-19 situation in Italy.
+article_title: 'Informative Contagion: The Coronavirus (COVID 19) in Italian journalism'
+authors:
+  - firstname: 'Concetta '
+    lastname: Papapicco
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_institutions:
+      - institution: University of Bari “Aldo Moro”, Italy
+        titles: []
+bibliography: /bibliography/documents-exportes_rn3.bib
+custom_pdf: ''
+date: 2022-04-13T16:37:49.000Z
+disciplines: ''
+doi: '169059797'
+highlight: false
 issue: content/issues/WPRN21 Proceedings.md
 keywords:
   - Coronavirus
@@ -6,52 +48,14 @@ keywords:
   - italian infodemia
   - La Repubblica online
   - mix method
-date: 2022-04-13T16:37:49.000+00:00
 language: English
-doi: '169059797'
-disciplines: ''
-published: true
-article_title: 'Informative Contagion: The Coronavirus (COVID 19) in Italian journalism'
-authors:
-  - firstname: 'Concetta '
-    lastname: Papapicco
-    titles_and_institutions:
-      - titles: []
-        institution: University of Bari “Aldo Moro”, Italy
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-custom_pdf: ''
-abstract:
-  In addition to becoming a global phenomenon, the spreading of the new Coronavirus,
-  following the declaration of a pandemic state, has generated excessive access to
-  information, a phenomenon named “Infodemia” (@cinelli_covid-19_2020). The general
-  purpose of this exploratory study is to investigate how the coronavirus situation
-  is described in journalistic communication. Starting from La Repubblica online,
-  as a reference journalistic magazine, the study assumes that if the circulation
-  of information helps to create a social representation of the phenomenon, the excessive
-  accessibility to sources of information (Infodemia) can be modulated by the “how”
-  the phenomenon is described by the journalists. The methodology proposed is quanti-qualitative
-  (mixed method). A Content Analysis (@mayring_qualitative_2004) with the SketchEngine
-  software (@thomas_discovering_2016) was carried out first, then supported by a Diatextual
-  Analysis (@papapicco_brexit_2019). The results show the presence of contrasting
-  visions about COVID-19 situation in Italy.
 picture: ''
 picture_copyright: ''
+published: true
 yt: ''
-highlight: false
-bibliography: '/bibliography/documents-exportes_rn3.bib'
+
 ---
+
 
 ## 1. INTRODUCTION
 
@@ -61,7 +65,7 @@ Italy had 12.462 confirmed cases according to the Istituto Superiore di Sanità 
 
 ## 2. THE STUDY
 
-The general purpose of the exploratory study was to investigate how the coronavirus situation was described in the journalistic communication. Starting from _La Repubblica_ online, as a reference journalistic magazine, the research aimed to understand the way in which journalistic communication described the phenomenon of the COVID-19 virus spread and the restrictive measures of social distancing in the Italian context. The study starts from the hypothesis that if the circulation of information helps to create a social representation of the phenomenon, the excessive accessibility to sources of information (Infodemia) can be modulated by the “how” the phenomenon is described by the journalists. The methodology proposed in the exploratory study is quanti-qualitative (mixed) method. A Content Analysis (@mayring_qualitative_2004) with the SketchEngine software (@thomas_discovering_2016) is carried out first. In support of the Content Analysis, a Diatextual Analysis (@papapicco_brexit_2019) was carried out. The Diatextual Analysis is a qualitative analysis useful to detect in the analyzed texts, that is the online articles of \_La Repubblica* on the topic of coronavirus, Subjectivity, Argumentativity and Mode (@mininni_psicologia_2014). The research focuses mainly on “Mode”, or “How” the are events related to coronavirus in the online articles of \_La Repubblica* about COVID19 phenomenon.
+The general purpose of the exploratory study was to investigate how the coronavirus situation was described in the journalistic communication. Starting from _La Repubblica_ online, as a reference journalistic magazine, the research aimed to understand the way in which journalistic communication described the phenomenon of the COVID-19 virus spread and the restrictive measures of social distancing in the Italian context. The study starts from the hypothesis that if the circulation of information helps to create a social representation of the phenomenon, the excessive accessibility to sources of information (Infodemia) can be modulated by the “how” the phenomenon is described by the journalists. The methodology proposed in the exploratory study is quanti-qualitative (mixed) method. A Content Analysis (@mayring_qualitative_2004) with the SketchEngine software (@thomas_discovering_2016) is carried out first. In support of the Content Analysis, a Diatextual Analysis (@papapicco_brexit_2019) was carried out. The Diatextual Analysis is a qualitative analysis useful to detect in the analyzed texts, that is the online articles of *La Repubblica* on the topic of coronavirus, Subjectivity, Argumentativity and Mode (@mininni_psicologia_2014). The research focuses mainly on “Mode”, or “How” the are events related to coronavirus in the online articles of *La Repubblica* about COVID19 phenomenon.
 
 ### 2.1 Corpus, Objective and Methodology
 

@@ -59,6 +59,7 @@ social_channels:
   linkedin: https://uk.linkedin.com/in/atrina-oraee-25978192
   mendeley: ''
   orcid: ''
+  orcid_id: ''
   researchgate: https://www.researchgate.net/profile/Atrina-Oraee
   twitter: https://twitter.com/atrinaoraee?lang=fr
   website: https://atrinaoraee.com/

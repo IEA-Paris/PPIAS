@@ -1,4 +1,37 @@
 ---
+abstract: >-
+  This Research Note draws upon the paper I presented at the conference,
+  published in the Manitoba Law Journal, to consider the persisting issues
+  governments face as they continue to respond to the COVID-19 pandemic. It
+  critically assesses the development of the responses discussed in our article,
+  as well as the recommendations we provided. These insights may prove valuable
+  as we chart the path forward.
+article_title: 'Tackling the COVID-19 pandemic : Lessons learned and paths forward'
+authors:
+  - firstname: 'Phil '
+    lastname: Lord
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_institutions:
+      - institution: Bora Laskin Faculty of Law, Lakehead University
+        titles: []
+bibliography: /bibliography/documents-exportes_rn1bib.bib
+custom_pdf: ''
+date: 2022-03-24T15:10:20.000Z
+disciplines: ''
+doi: '169059797'
+highlight: false
 issue: content/issues/WPRN21 Proceedings.md
 keywords:
   - COVID-19
@@ -6,44 +39,14 @@ keywords:
   - Employment
   - Employment Insurance
   - Universal Basic Income
-date: 2022-03-24T15:10:20.000+00:00
 language: English
-doi: '169059797'
-disciplines: ''
-published: true
-article_title: 'Tackling the COVID-19 pandemic : Lessons learned and paths forward'
-authors:
-  - firstname: 'Phil '
-    lastname: Lord
-    titles_and_institutions:
-      - titles: []
-        institution: Bora Laskin Faculty of Law, Lakehead University
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-custom_pdf: ''
-abstract:
-  This Research Note draws upon the paper I presented at the conference, published
-  in the Manitoba Law Journal, to consider the persisting issues governments face
-  as they continue to respond to the COVID-19 pandemic. It critically assesses the
-  development of the responses discussed in our article, as well as the recommendations
-  we provided. These insights may prove valuable as we chart the path forward.
 picture: ''
 picture_copyright: ''
+published: true
 yt: ''
-highlight: false
-bibliography: '/bibliography/documents-exportes_rn1bib.bib'
+
 ---
+
 
 In April of 2020, my co-author and I did what I assume most sane people also did while subject to stay-at-home orders: we wrote a full-length law review article on government responses to the COVID-19 pandemic (@lord_tackling_2020). We drew from constantly changing, sometimes obscure, government websites. Programs were revised as quickly as they were announced and rolled out. We wrote our initial draft in just under two weeks, and we had to revise significant portions of it almost immediately, and subsequently when we received feedback from peer reviewers. Although we aggressively disseminated our draft on research repositories, the final, paginated version was only printed a full year later.
 

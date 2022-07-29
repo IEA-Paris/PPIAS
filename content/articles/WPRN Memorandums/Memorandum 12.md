@@ -1,4 +1,46 @@
 ---
+abstract: >-
+  “Those who argue that lockdown measures were not necessary and that, without
+  them, the final number of deaths would not be much different from those of a
+  strong seasonal flu are wrong,” explains Marc Fleurbaey, who has developed
+  with a team from Princeton University, a tool simulating the evolution of the
+  pandemic in the absence of intervention, as well as under policies reducing
+  contacts between people or implementing broad testing to identify infectious
+  people early (downloadable on WPRN). This simulator indicates that in the
+  United Kingdom, total mortality would differ by a factor of nearly five with
+  or without lockdown. In France, this factor is between ten and twenty. Virus
+  eradication or control strategy, timing, toughness, and type of measures: what
+  works and why? On the World Pandemic Research Network, several studies provide
+  preliminary answers. 
+
+  Memorandum 12 : overview of the studies and projects registered on WPRN
+  database
+
+  This article was originally published in French.
+article_title: What Measures are Truly Effective in Fighting COVID-19 ?
+authors:
+  - firstname: 'Aurélie  '
+    lastname: Louchart
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_institutions: []
+bibliography: /bibliography/documents-exportes_memo12.bib
+custom_pdf: ''
+date: 2021-05-01T22:00:12.000Z
+disciplines: ''
+doi: '169059797'
+highlight: false
 issue: content/issues/WPRN Memorandums.md
 keywords:
   - 'Simulation / Modeling '
@@ -18,51 +60,15 @@ keywords:
   - 'Violence, Criminality, Security '
   - 'Work, Welfare, Social protection '
   - 'Human Behaviours, Social Relations '
-date: 2021-05-01T22:00:12.000+00:00
 language: English
-doi: '169059797'
-published: true
-article_title: What Measures are Truly Effective in Fighting COVID-19 ?
-authors:
-  - firstname: 'Aurélie  '
-    lastname: Louchart
-    titles_and_institutions: []
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-abstract:
-  "“Those who argue that lockdown measures were not necessary and that, without
-  them, the final number of deaths would not be much different from those of a strong
-  seasonal flu are wrong,” explains Marc Fleurbaey, who has developed with a team
-  from Princeton University, a tool simulating the evolution of the pandemic in the
-  absence of intervention, as well as under policies reducing contacts between people
-  or implementing broad testing to identify infectious people early (downloadable
-  on WPRN). This simulator indicates that in the United Kingdom, total mortality would
-  differ by a factor of nearly five with or without lockdown. In France, this factor
-  is between ten and twenty. Virus eradication or control strategy, timing, toughness,
-  and type of measures: what works and why? On the World Pandemic Research Network,
-  several studies provide preliminary answers. \nMemorandum 12 : overview of the studies
-  and projects registered on WPRN database\nThis article was originally published
-  in French."
-picture: '/hands-with-latex-gloves-holding-a-globe-with-a-face-mask-anna-shvets.jpg'
-picture_copyright: ''
-yt: ''
-highlight: false
-bibliography: '/bibliography/documents-exportes_memo12.bib'
-custom_pdf: ''
-disciplines: ''
 needDOI: false
+picture: /hands-with-latex-gloves-holding-a-globe-with-a-face-mask-anna-shvets.jpg
+picture_copyright: ''
+published: true
+yt: ''
+
 ---
+
 
 “Those who argue that lockdown measures were not necessary and that, without them, the final number of deaths would not be much different from those of a strong seasonal flu are wrong”, explains Marc Fleurbaey, who has developed, with a team from Princeton University, a tool simulating the evolution of the pandemic according to the implemented measures (downloadable on [WPRN](https://wprn.org/item/414252)). This simulator indicates that in the United Kingdom, total mortality would differ by a factor of nearly five with or without lockdown. In France, this factor is between ten and twenty. Virus eradication or control strategy, timing, toughness and type of measures: what works and why? On the [World Pandemic Research Network](https://wprn.org/), several studies provide preliminary answers.
 

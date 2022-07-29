@@ -1,4 +1,54 @@
 ---
+DOI: 10.5072/zenodo.1081119
+Zid: 1081119
+abstract: >-
+  This 4th edition of the ICA hosted by the Paris Institute for Advanced Studies
+  (Paris IAS) from October 18 to 27, 2021, explores fundamental
+  interdisciplinary issues at the intersection of cognitive science,
+  neuroscience and artificial intelligence. Decisive advances have been made
+  over the last decades in the analysis of brain activity and its behavioral
+  counterparts, as well as in information processing sciences. The
+  complementarities between neuroscience/cognitive science and artificial
+  intelligence allow us to explore synergies and raise ethical questions between
+  these disciplines, which present considerable challenges and opportunities for
+  the progress of society.
+article_title: 8 Days at ICA 4 First session in Paris
+authors:
+  - firstname: 'Atrina '
+    lastname: Oraee
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid_id: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_institutions:
+      - institution: international laboratory for Brain, Music, and Sound research (BRAMS)
+        titles:
+          - co-founder
+      - institution: McGill University
+        titles:
+          - Warrior
+      - institution: IAS PARIS
+        titles:
+          - writer
+bibliography: false
+category1:
+  - color: green
+    text: Article
+custom_pdf: ''
+date: 2021-12-07T12:54:42.000Z
+discipline:
+  - {}
+highlight: false
+issue: content/issues/Intercontinental Academia 4.md
 keywords:
   - Artificial Intelligence
   - Data science
@@ -7,54 +57,11 @@ keywords:
   - Algorithms
   - Language
   - Robots
-date: 2021-12-07T12:54:42.000+00:00
-article_title: 8 Days at ICA 4 First session in Paris
+language: English
 picture: ''
 picture_copyright: ''
-yt: ''
-published: true
 pinned: false
-bibliography: '/bibliography/test.bib'
-authors:
-  - firstname: 'Atrina '
-    lastname: Oraee
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    titles_and_institutions:
-      - titles:
-          - co-founder
-        institution: international laboratory for Brain, Music, and Sound research (BRAMS)
-      - titles:
-          - Warrior
-        institution: McGill University
-      - titles:
-          - writer
-        institution: IAS PARIS
-    reference: ''
-abstract:
-  'This 4th edition of the ICA hosted by the Paris Institute for Advanced
-  Studies (Paris IAS) from October 18 to 27, 2021, explores fundamental interdisciplinary
-  issues at the intersection of cognitive science, neuroscience and artificial intelligence.
-  Decisive advances have been made over the last decades in the analysis of brain
-  activity and its behavioral counterparts, as well as in information processing sciences.
-  The complementarities between neuroscience/cognitive science and artificial intelligence
-  allow us to explore synergies and raise ethical questions between these disciplines,
-  which present considerable challenges and opportunities for the progress of society. '
-
-issue: content/issues/Intercontinental Academia 4.md
-highlight: false
-language: English
-doi: '169059797'
+published: true
 tag:
   - Artificial Intelligence
   - Data science
@@ -63,19 +70,14 @@ tag:
   - Algorithms
   - Language
   - Robots
-category1:
-  - color: green
-    text: Article
-custom_pdf: '/pdfs/ICA4.pdf'
-discipline:
-  - {}
+yt: ''
 ---
 
 ## Introduction
 
 The Intercontinental Academia (ICA) creates a global network of future research leaders in which some of the very best young academics work together on paradigm-shifting, cross-disciplinary research, mentored by eminent researchers from across the globe.
 
-The ICA was established in 2016 through the University-Based Institutes for Advanced Study (UBIAS) coalition which has 44 member institutes around the world (@cordelois_how_2020).
+The ICA was established in 2016 through the University-Based Institutes for Advanced Study (UBIAS) coalition which has 44 member institutes around the world.
 
 During each edition of Intercontinental Academia, participants get together in three sessions over the course of one year.
 
@@ -231,7 +233,7 @@ Deep neural networks, despite their recent success, differ from human cognition 
 
 ### A different distinction between human intelligence and AI
 
-Presented by[ **_James McClelland_**](https://www.intercontinental-academia.org/mentors#mcclelland 'James McClelland')
+Presented by [**_James McClelland_**](https://www.intercontinental-academia.org/mentors#mcclelland 'James McClelland')
 
 While the latter (in particular machine learning algorithms) learns from statistics on large-scale input data, humans learn to learn from explanations structured by culturally invented systems. Indeed, humans fail to perform in systematic ways, which we would expect if the structure were built into our cognitive functionality. But, McClelland points out that simply building in structure, as proposed by the pioneers of GOFAI, limits flexibility. This structure, McClelland argued, is built by culture. For example, he described a classic study by Scribner and Cole in 1973 which showed that non-Western cultures often lack a concept of absolute number and tend to classify objects based on concrete situations rather than abstract category membership. These authors proposed that Western education creates a context in which certain abstract relational concepts are learned, consistent with McClelland’s later work correlating sudoku puzzle performance to mathematical education level. McClelland closed by reiterating that AI learns by examples but humans learn by explanations and that his explanation-based learning (rather than built-in structure) may underlie our propensity for one-shot learning.
 

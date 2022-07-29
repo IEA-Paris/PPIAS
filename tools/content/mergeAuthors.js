@@ -91,7 +91,7 @@ export default async (content) => {
       'published',
     ])
     .fetch()
-
+  // let's add the DOI
   // we use this opportunity to get the dynamic routes for pdf-printing all the articles
   writePrintRoutes(articles)
 

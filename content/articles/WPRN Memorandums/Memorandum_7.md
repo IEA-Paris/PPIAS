@@ -1,47 +1,41 @@
 ---
-issue: content/issues/WPRN Memorandums.md
-tag:
-  - Big Data, Artificial Intelligence
-  - 'Equality & Diversity Studies '
-  - 'Human Behaviours, Social Relations '
-  - 'Public Discourse, Rhetorics, Communication '
-  - Public Health
-  - 'Culture and The Arts '
-  - 'Innovation, R&D '
-  - 'Violence, Criminality, Security '
-  - Risks, Crisis Management
-date: 2020-11-01T22:00:00.000+00:00
-article_title:
-  'Covid 19 and the media : the reinforced impact of traditional media
-  does not prevent the spread of false information'
-picture: '/reforme_postage_portage_presse.png'
-picture_copyright: '©Unclesam - stock.adobe.com'
-yt: ''
-published: true
-pinned: false
-bibliography: '/bibliography/documents-exportes_memo7.bib'
+abstract: >-
+  During the Covid 19 pandemic, the media was the main relay of information and
+  had a strong impact on the perception of the crisis by citizens, on the
+  acceptance of sanitary measures or on the propagation of conspiracy theories
+  or false information. The Covid 19 major crisis is taking place in a context
+  where the media world has undergone profound upheavals in the last decade,
+  with the so-called traditional media (television, radio, press) being
+  increasingly challenged by online media and social networks, which has led to
+  a transformation of the citizens’ relationship to information.
+
+  Memorandum 7 : overview of the studies and projects registered on WPRN
+  database
+article_title: >-
+  Covid 19 and the media : the reinforced impact of traditional media does not
+  prevent the spread of false information
 authors:
   - firstname: 'Victor  '
     lastname: 'Galonnier '
-    social_channels:
-      linkedin: https://fr.linkedin.com/in/victorgalonnier
-      twitter: ''
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    titles_and_institutions: []
     picture: ''
     picture_copyright: ''
     reference: ''
-abstract: |-
-  During the Covid 19 pandemic, the media was the main relay of information and had a strong impact on the perception of the crisis by citizens, on the acceptance of sanitary measures or on the propagation of conspiracy theories or false information. The Covid 19 major crisis is taking place in a context where the media world has undergone profound upheavals in the last decade, with the so-called traditional media (television, radio, press) being increasingly challenged by online media and social networks, which has led to a transformation of the citizens’ relationship to information.
-  Memorandum 7 : overview of the studies and projects registered on WPRN database
-
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: https://fr.linkedin.com/in/victorgalonnier
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_institutions: []
+bibliography: /bibliography/documents-exportes_memo7.bib
+date: 2020-11-01T22:00:00.000Z
+doi: '169059797'
 highlight: false
+issue: content/issues/WPRN Memorandums.md
 keywords:
   - Big Data, Artificial Intelligence
   - 'Equality & Diversity Studies '
@@ -55,8 +49,24 @@ keywords:
   - 'Violence, Criminality, Security '
   - 'Risks, Crisis Management '
 language: English
-doi: '169059797'
+picture: /reforme_postage_portage_presse.png
+picture_copyright: ©Unclesam - stock.adobe.com
+pinned: false
+published: true
+tag:
+  - Big Data, Artificial Intelligence
+  - 'Equality & Diversity Studies '
+  - 'Human Behaviours, Social Relations '
+  - 'Public Discourse, Rhetorics, Communication '
+  - Public Health
+  - 'Culture and The Arts '
+  - 'Innovation, R&D '
+  - 'Violence, Criminality, Security '
+  - Risks, Crisis Management
+yt: ''
+
 ---
+
 
 During the Covid 19 pandemic, the media was the main relay of information and had a strong impact on the perception of the crisis by citizens, on the acceptance of sanitary measures or on the propagation of conspiracy theories or false information. The Covid19 major crisis is taking place in a context where the media world has undergone profound upheavals in the last decade, with the so-called traditional media (television, radio, press) being increasingly challenged by online media and social networks, which has led to a transformation of the citizens’ relationship to information.
 

@@ -1,55 +1,44 @@
 ---
-issue: content/issues/WPRN Memorandums.md
-tag:
-  - 'Human Behaviours, Social Relations '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Violence, Criminality, Security '
-  - 'Work, Welfare, Social protection '
-  - 'Religions and Worldviews '
-  - Firms, Markets, Finance
-  - 'Dataset, Data Mining '
-  - 'Qualitative analysis '
-  - 'Democracy, Civil Society, Governance '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Public Health '
-  - Risks, Crisis Management
-  - 'International Relations and Co-operation '
-  - 'Inequalities, Poverty, Development '
-  - Equality & Diversity Studies
-date: 2020-10-31T23:00:00.000+00:00
-article_title:
-  'Covid 19 and Politics: The contrasting influence of political rhetoric
-  on perceptions of the pandemic '
-picture: ''
-picture_copyright: ''
-yt: ''
-published: true
-category1:
-  - color: green
-    text: Article
-pinned: false
-highlight: false
-bibliography: ''
+abstract: >-
+  Governments have responded to the pandemic with an arsenal of public policies
+  certainly never before deployed on this scale in peacetime. To justify these
+  measures (social distancing, confinement, etc.), the political figures in
+  power have developed a variety of political rhetoric. What arguments have been
+  put forward the most? By what means of communication? How were they received
+  by voters? What role did partisan cleavages play in the perception of
+  discourse and in the application of measures proposed by decision-makers?
+
+  Memorandum 8 : overview of the studies and projects registered on WPRN
+  database
+article_title: >-
+  Covid 19 and Politics: The contrasting influence of political rhetoric on
+  perceptions of the pandemic 
 authors:
   - firstname: 'Victor '
     lastname: Galonnier
-    titles_and_institutions: []
     picture: ''
     picture_copyright: ''
+    reference: ''
     social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
       website: ''
       wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-abstract: |-
-  Governments have responded to the pandemic with an arsenal of public policies certainly never before deployed on this scale in peacetime. To justify these measures (social distancing, confinement, etc.), the political figures in power have developed a variety of political rhetoric. What arguments have been put forward the most? By what means of communication? How were they received by voters? What role did partisan cleavages play in the perception of discourse and in the application of measures proposed by decision-makers?
-  Memorandum 8 : overview of the studies and projects registered on WPRN database
+    titles_and_institutions: []
+bibliography: ''
+category1:
+  - color: green
+    text: Article
+custom_pdf: ''
+date: 2020-10-31T23:00:00.000Z
+doi: '169059797'
+highlight: false
+issue: content/issues/WPRN Memorandums.md
 keywords:
   - 'Democracy, Civil Society, Governance '
   - 'Public Discourse, Rhetorics, Communication '
@@ -66,9 +55,30 @@ keywords:
   - International Relations and Co-operation
   - 'Inequalities, Poverty, Development '
 language: English
-doi: '169059797'
-custom_pdf: '/politique_charles-deluvio-9bxl-vn22do-unsplash.jpg'
+picture: /politique_charles-deluvio-9bxl-vn22do-unsplash.jpg
+picture_copyright: ''
+pinned: false
+published: true
+tag:
+  - 'Human Behaviours, Social Relations '
+  - 'Public Discourse, Rhetorics, Communication '
+  - 'Violence, Criminality, Security '
+  - 'Work, Welfare, Social protection '
+  - 'Religions and Worldviews '
+  - Firms, Markets, Finance
+  - 'Dataset, Data Mining '
+  - 'Qualitative analysis '
+  - 'Democracy, Civil Society, Governance '
+  - 'Public Policy, Evaluation, Impact '
+  - 'Public Health '
+  - Risks, Crisis Management
+  - 'International Relations and Co-operation '
+  - 'Inequalities, Poverty, Development '
+  - Equality & Diversity Studies
+yt: ''
+
 ---
+
 
 Governments have responded to the pandemic with an arsenal of public policies certainly never before deployed on this scale in peacetime. To justify these measures (social distancing, confinement, etc.), the political figures in power have developed a variety of political rhetoric. What arguments have been put forward the most? By what means of communication? How were they received by voters? What role did partisan cleavages play in the perception of discourse and in the application of measures proposed by decision-makers? Several studies in the WPRN database analyze the political rhetoric developed during the pandemic and its central role in citizens’ perception of the dangerousness of the virus and their compliance with health measures.
 

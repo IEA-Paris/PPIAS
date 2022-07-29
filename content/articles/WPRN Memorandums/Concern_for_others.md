@@ -1,5 +1,38 @@
 ---
+abstract: >-
+  Social psychology studies typically focus on social norms to understand,
+  anticipate and influence the behaviours of individuals and groups (to
+  simplify: «others do it, so do it too»). While norms can be produced by groups
+  themselves, it is primarily institutions (often governments) that prescribe
+  desired behaviours.
+
+  In the case of the Covid-19 pandemic, the authorities asked for unusual
+  instructions that contradicted generally valued behaviours: isolation and
+  social distancing rather than social activities and rituals (going out,
+  consumption, physical contact).
+
+  Memorandum 1 : overview of the studies and projects registered on WPRN
+  database
+article_title: Concern for others  is a better argument to foster social distancing
+authors:
+  - firstname: Victor
+    lastname: Galonnier
+bibliography: /bibliography/documents-exportes_memo1.bib
+date: 2020-04-30T22:00:00.000Z
+doi: '169059797'
+highlight: true
 issue: content/issues/WPRN Memorandums.md
+keywords:
+  - Human Behaviours, Social Relations
+  - 'Public Health '
+  - Public Policy, Evaluation, Impact
+  - 'Risks, Crisis Management '
+  - Social and Personality Psychology
+language: English
+picture: /atm-social-distancing-1600x800-1.jpg
+picture_copyright: ''
+pinned: false
+published: true
 tag:
   - covid-19
   - coronavirus
@@ -10,31 +43,10 @@ tag:
   - 'Human Behaviours, Social Relations '
   - Risks, Crisis Management
   - Public Policy
-date: 2020-04-30T22:00:00.000+00:00
-article_title: Concern for others  is a better argument to foster social distancing
-picture: '/atm-social-distancing-1600x800-1.jpg'
-picture_copyright: ''
 yt: ''
-published: true
-pinned: false
-highlight: true
-bibliography: '/bibliography/documents-exportes_memo1.bib'
-authors:
-  - firstname: Victor
-    lastname: Galonnier
-abstract: |-
-  Social psychology studies typically focus on social norms to understand, anticipate and influence the behaviours of individuals and groups (to simplify: «others do it, so do it too»). While norms can be produced by groups themselves, it is primarily institutions (often governments) that prescribe desired behaviours.
-  In the case of the Covid-19 pandemic, the authorities asked for unusual instructions that contradicted generally valued behaviours: isolation and social distancing rather than social activities and rituals (going out, consumption, physical contact).
-  Memorandum 1 : overview of the studies and projects registered on WPRN database
-keywords:
-  - Human Behaviours, Social Relations
-  - 'Public Health '
-  - Public Policy, Evaluation, Impact
-  - 'Risks, Crisis Management '
-  - Social and Personality Psychology
-language: English
-doi: '169059797'
+
 ---
+
 
 Social psychology studies typically focus on social norms to understand, anticipate and influence the behaviours of individuals and groups (to simplify: «others do it, so do it too»). While norms can be produced by groups themselves, it is primarily institutions (often governments) that prescribe desired behaviours.  
 In the case of the Covid-19 pandemic, the authorities asked for unusual instructions that contradicted generally valued behaviours: isolation and social distancing rather than social activities and rituals (going out, consumption, physical contact). Unsurprisingly, there is a difficulty in changing behaviour in the direction imposed by the pandemic, whereas at a time of progressive deconfinement, respect for social distancing is a crucial issue, and everything suggests that these behaviours will have to be maintained over time. It is  
