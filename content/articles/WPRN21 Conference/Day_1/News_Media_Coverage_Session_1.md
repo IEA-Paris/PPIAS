@@ -1,6 +1,6 @@
 ---
 issue: content/issues/WPRN21 Conference.md
-keywords:
+tags:
   - 'Public Discourse, Rhetorics, Communication '
   - 'Migrations and Diasporas '
   - 'Culture and The Arts '

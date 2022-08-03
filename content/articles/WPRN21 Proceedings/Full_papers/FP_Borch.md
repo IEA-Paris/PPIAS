@@ -120,7 +120,7 @@ disciplines: ''
 doi: '169059797'
 highlight: false
 issue: content/issues/WPRN21 Proceedings.md
-keywords:
+tags:
   - efficacy e-health
   - isolation
   - mental health apps

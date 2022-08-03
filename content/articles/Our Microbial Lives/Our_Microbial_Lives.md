@@ -6,7 +6,7 @@ abstract: >-
   27, 2021, Paris Institute for Advanced Study
 article_title: 'Our Microbial Lives : A Forum Against Eradication'
 authors:
-  - firstname: 'Victoria '
+  - firstname: Victoria
     lastname: Lee
     picture: ''
     picture_copyright: ''
@@ -35,15 +35,12 @@ date: 2021-05-27T07:30:26.000Z
 doi: '169059797'
 highlight: false
 issue: content/issues/Our Microbial Lives.md
-keywords:
-  - Microbes
-  - Health
 language: English
 picture: /1-cell_to_cell.jpg
 picture_copyright: ''
 pinned: false
 published: true
-tag:
+tags:
   - History of Science, Technology and Medicine
   - History of Science and Medicine
   - Online conference

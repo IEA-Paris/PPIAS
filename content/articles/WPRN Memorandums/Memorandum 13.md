@@ -41,7 +41,7 @@ date: 2021-08-31T22:00:35.000Z
 disciplines: ''
 highlight: true
 issue: content/issues/WPRN Memorandums.md
-keywords:
+tags:
   - 'Consumption and Production Patterns '
   - 'Democracy, Civil Society, Governance '
   - 'Public Health '

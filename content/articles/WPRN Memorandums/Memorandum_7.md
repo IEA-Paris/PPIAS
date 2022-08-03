@@ -38,33 +38,23 @@ date: 2020-11-01T22:00:00.000Z
 doi: '169059797'
 highlight: false
 issue: content/issues/WPRN Memorandums.md
-keywords:
+tags:
   - Big Data, Artificial Intelligence
-  - 'Equality & Diversity Studies '
+  - Equality & Diversity Studies
   - Human Behaviours, Social Relations
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Democracy, Civil Society, Governance '
+  - Public Discourse, Rhetorics, Communication
+  - Democracy, Civil Society, Governance
   - Consumption and Production Patterns
-  - 'Public Health '
+  - Public Health
   - Culture and The Arts
-  - ' Innovation, R&D '
-  - 'Violence, Criminality, Security '
-  - 'Risks, Crisis Management '
+  - Innovation, R&D
+  - Violence, Criminality, Security
+  - Risks, Crisis Management
 language: English
 picture: /reforme_postage_portage_presse.png
 picture_copyright: ©Unclesam - stock.adobe.com
 pinned: false
 published: true
-tag:
-  - Big Data, Artificial Intelligence
-  - 'Equality & Diversity Studies '
-  - 'Human Behaviours, Social Relations '
-  - 'Public Discourse, Rhetorics, Communication '
-  - Public Health
-  - 'Culture and The Arts '
-  - 'Innovation, R&D '
-  - 'Violence, Criminality, Security '
-  - Risks, Crisis Management
 yt: ''
 
 ---

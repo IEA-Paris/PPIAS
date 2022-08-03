@@ -46,7 +46,7 @@ disciplines: ''
 doi: '169059797'
 highlight: false
 issue: content/issues/WPRN Memorandums.md
-keywords:
+tags:
   - 'Agriculture, Alimentation '
   - Aging, Demography
   - Big Data, Artificial Intelligence

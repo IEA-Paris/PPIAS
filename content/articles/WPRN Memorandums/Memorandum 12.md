@@ -44,7 +44,7 @@ disciplines: ''
 doi: '169059797'
 highlight: false
 issue: content/issues/WPRN Memorandums.md
-keywords:
+tags:
   - 'Simulation / Modeling '
   - Democracy, Civil Society, Governance
   - 'Environmental change, Ecology '

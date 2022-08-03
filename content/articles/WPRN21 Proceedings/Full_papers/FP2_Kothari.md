@@ -99,7 +99,7 @@ disciplines: ''
 doi: '169059797'
 highlight: false
 issue: content/issues/WPRN21 Proceedings.md
-keywords:
+tags:
   - COVID-19
   - vaccine hesitancy
   - risk perception
@@ -170,7 +170,7 @@ All of the aforementioned effects were statistically significant. Identifying wi
 
 When we contrasted those who were willing to get vaccinated (or were vaccinated) with those who were undecided, we found the same pattern with regards to effect direction and significance and the effect size of trust. Only respondents who had a better rating of their own health were also _less_ likely to be undecided about their intent to get vaccinated. Moreover, the effect for control of infection were no longer statistically significant.
 
-Figure 3 shows the results for 23 multinomial regression models, run separately for each country in our sample and focusing on the contrast "between the intend to vaccinate" group and the "no intend to vaccinate group". The first finding is that the effect direction for most psychological variables is rather similar for the different countries. Threat to community and trust in health authorities reduced the likelihood to be \_un_willing to get vaccinated in all 23 countries. Risk of individual infection and perceived severity reduced \_un_willingness to get vaccinated, perception of own health increased the likelihood of unwillingness in all but four to five countries. Having said this, the variance of the odds ratios was larger for threat to community and trust in health authorities than for the other variables. Again, the change in odds ratio was the largest for a change in one standard deviation of trust. The only predictor that did not produce a conclusive pattern and varied strongly with country was perceived control over infection
+Figure 3 shows the results for 23 multinomial regression models, run separately for each country in our sample and focusing on the contrast "between the intend to vaccinate" group and the "no intend to vaccinate group". The first finding is that the effect direction for most psychological variables is rather similar for the different countries. Threat to community and trust in health authorities reduced the likelihood to be *un*_*willing to get vaccinated in all 23 countries. Risk of individual infection and perceived severity reduced *un*willingness to get vaccinated, perception of own health increased the likelihood of unwillingness in all but four to five countries. Having said this, the variance of the odds ratios was larger for threat to community and trust in health authorities than for the other variables. Again, the change in odds ratio was the largest for a change in one standard deviation of trust. The only predictor that did not produce a conclusive pattern and varied strongly with country was perceived control over infection
 
 The effects of socio-demographics showed slight variance over countries. In various, but not all Asian countries in our sample, the gender effect was non-significant, in Bangladesh even significantly reversed. Age was non-significant or even increased unwillingness in more than a handful of countries. Education did not yield a conclusive effect pattern and varied strongly with country.
 

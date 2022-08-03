@@ -1,15 +1,5 @@
 ---
 issue: content/issues/WPRN Memorandums.md
-keywords:
-  - 'Equality & Diversity Studies '
-  - Human Behaviours, Social Relations
-  - 'Inequalities, Poverty, Development '
-  - 'Work, Welfare, Social protection '
-  - 'Public Health '
-  - 'Big Data, Artificial Intelligence '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Dataset, Data Mining '
-  - 'Policy Document '
 date: 2020-08-31T22:00:00.000+00:00
 article_title:
   'Gendered Responses and Marked Inequalities: The Pandemic as a Revealer
@@ -29,16 +19,16 @@ abstract: |-
 highlight: false
 language: English
 doi: '169059797'
-tag:
-  - 'Equality & Diversity Studies '
+tags:
+  - Equality & Diversity Studies
   - Human Behaviours, Social Relations
-  - 'Inequalities, Poverty, Development '
-  - 'Work, Welfare, Social protection '
-  - 'Public Health '
-  - 'Big Data, Artificial Intelligence '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Dataset, Data Mining '
-  - 'Policy Document '
+  - Inequalities, Poverty, Development
+  - Work, Welfare, Social protection
+  - Public Health
+  - Big Data, Artificial Intelligence
+  - Public Policy, Evaluation, Impact
+  - Dataset, Data Mining
+  - Policy Document
 category1:
   - color: green
     text: Article

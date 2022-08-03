@@ -29,7 +29,7 @@ date: 2021-12-09T15:00:25.000Z
 doi: '169059797'
 highlight: false
 issue: content/issues/WPRN21 Conference.md
-keywords:
+tags:
   - 'Cities, Mobility, Urban Planning '
   - 'Environmental change, Ecology '
   - 'Public Health '

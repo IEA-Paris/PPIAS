@@ -444,6 +444,8 @@ export const replaceReferenceInFootnote = (footnote, biblio) => {
         )
       }
     }
+  } else {
+    console.log('NO FOOTNOTE VALUE')
   }
   return footnote
 }

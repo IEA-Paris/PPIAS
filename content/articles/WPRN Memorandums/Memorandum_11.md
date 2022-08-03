@@ -23,34 +23,24 @@ date: 2021-01-31T23:00:00.000Z
 doi: '169059797'
 highlight: false
 issue: content/issues/WPRN Memorandums.md
-keywords:
-  - Human Behaviours, Social Relations
-  - 'Inequalities, Poverty, Development '
-  - Equality & Diversity Studies
-  - Work, Welfare, Social protection
-  - Public Policy, Evaluation, Impact
-  - 'Case Study '
-  - Agriculture, Alimentation
-  - 'Big Data, Artificial Intelligence '
-  - 'Education '
 language: English
 picture: /engin-akyurt-_hn4zngxh5w-unsplash-1-1.jpg
 picture_copyright: ''
 pinned: false
 published: true
-tag:
-  - 'Human Behaviours, Social Relations '
-  - 'Inequalities, Poverty, Development '
-  - 'Equality & Diversity Studies '
+tags:
+  - Human Behaviours, Social Relations
+  - Inequalities, Poverty, Development
+  - Equality & Diversity Studies
   - Work, Welfare, Social protection
-  - 'Consumption and Production Patterns '
+  - Consumption and Production Patterns
   - Public Policy, Evaluation, Impact
-  - 'Firms, Markets, Finance '
-  - 'Agriculture, Alimentation '
-  - 'Agriculture, Alimentation '
-  - 'Big Data, Artificial Intelligence '
-  - 'Education '
-yt: ''
+  - Firms, Markets, Finance
+  - Agriculture, Alimentation
+  - Agriculture, Alimentation
+  - Big Data, Artificial Intelligence
+  - Education
+yt : ''
 
 ---
 

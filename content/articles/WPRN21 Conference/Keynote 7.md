@@ -31,7 +31,7 @@ date: 2021-12-10T10:30:19.000Z
 doi: '169059797'
 highlight: false
 issue: content/issues/WPRN21 Conference.md
-keywords:
+tags:
   - 'Big Data, Artificial Intelligence '
   - 'Human Behaviours, Social Relations '
   - 'Public Health '

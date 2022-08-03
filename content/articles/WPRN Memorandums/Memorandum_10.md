@@ -1,21 +1,5 @@
 ---
 issue: content/issues/WPRN Memorandums.md
-tag:
-  - Agriculture
-  - Food environments
-  - Food security
-  - Nutrition
-  - ' Rural development'
-  - Sustainable development
-  - Cities, Mobility, Urban Planning
-  - 'Human Behaviours, Social Relations '
-  - 'Environmental change, Ecology '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Risks, Crisis Management '
-  - 'Religions and Worldviews '
-  - Consumption and Production Patterns
-  - Work, Welfare, Social protection
 date: 2021-01-31T23:00:00.000+00:00
 article_title: 'COVID-19 and food: the search for food security at the heart of households'
 picture: '/covid19-food.jpeg'
@@ -34,23 +18,23 @@ authors:
 abstract: |-
   The image of empty supermarket shelves is one of those that will remain from the announcement of the first containment. The Europeans practiced the «Hamsterkauf» as named by the German speakers: they stocked up on hamsters. This rush on food supplies, especially rice and pasta, shows that even before thinking about the disease, for many people, the first thing they worried about was the risk of running out of food. A striking phenomenon at the center of affluent societies. Food stores were suddenly highlighted as «essential» and food with it. In times of confinement, it becomes central again: one can no longer delegate it or forget its role, as is often the case in the West, due to its easy access and urban lifestyles.
   Memorandum 10 : overview of the studies and projects registered on WPRN database
-keywords:
-  - 'Agriculture, Alimentation '
-  - 'Environmental change, Ecology '
+tags:
+  - Agriculture, Alimentation
+  - Environmental change, Ecology
   - Human Behaviours, Social Relations
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Cities, Mobility, Urban Planning '
-  - 'Consumption and Production Patterns '
-  - 'Democracy, Civil Society, Governance '
-  - 'Firms, Markets, Finance '
-  - 'Equality & Diversity Studies '
-  - 'Public Health '
-  - 'Risks, Crisis Management '
-  - 'Religions and Worldviews '
-  - 'Migrations and Diasporas '
-  - 'Work, Welfare, Social protection '
-  - 'Inequalities, Poverty, Development '
+  - Public Discourse, Rhetorics, Communication
+  - Public Policy, Evaluation, Impact
+  - Cities, Mobility, Urban Planning
+  - Consumption and Production Patterns
+  - Democracy, Civil Society, Governance
+  - Firms, Markets, Finance
+  - Equality & Diversity Studies
+  - Public Health
+  - Risks, Crisis Management
+  - Religions and Worldviews
+  - Migrations and Diasporas
+  - Work, Welfare, Social protection
+  - Inequalities, Poverty, Development
   - Food security
   - Rural development
 language: English

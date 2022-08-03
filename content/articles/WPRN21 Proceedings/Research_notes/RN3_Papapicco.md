@@ -44,7 +44,7 @@ disciplines: ''
 doi: '169059797'
 highlight: false
 issue: content/issues/WPRN21 Proceedings.md
-keywords:
+tags:
   - Coronavirus
   - COVID-19
   - italian infodemia

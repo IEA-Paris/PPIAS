@@ -1,6 +1,6 @@
 ---
 issue: content/issues/WPRN21 Conference.md
-keywords:
+tags:
   - ' Policy, Evaluation, Impact '
   - 'Risks, Crisis Management '
   - 'Environmental change, Ecology '

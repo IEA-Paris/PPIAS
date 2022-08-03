@@ -25,44 +25,30 @@ date: 2020-11-30T23:00:00.000Z
 doi: '169059797'
 highlight: false
 issue: content/issues/WPRN Memorandums.md
-keywords:
-  - 'Leisure, Tourism '
-  - 'Public Health '
-  - 'Human Behaviours, Social Relations '
-  - 'Environmental change, Ecology '
-  - 'Cities, Mobility, Urban Planning '
-  - Medicine and Health Sciences
-  - Consumption and Production Patterns
-  - 'Democracy, Civil Society, Governance '
-  - 'Agriculture, Alimentation '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Inequalities, Poverty, Development '
-  - wildland recreation
 language: English
 picture: /environnement_adam-neumann-riqff4jaxm0-unsplash.jpg
 picture_copyright: ''
 pinned: false
 published: true
-tag:
-  - 'Public Health '
-  - 'Leisure, Tourism '
-  - 'Human Behaviours, Social Relations '
-  - 'Environmental change, Ecology '
+tags:
+  - Public Health
+  - Leisure, Tourism
+  - Human Behaviours, Social Relations
+  - Environmental change, Ecology
   - Cities, Mobility, Urban Planning
   - Democracy, Civil Society, Governance
-  - 'Agriculture, Alimentation '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Public Policy, Evaluation, Impact '
+  - Agriculture, Alimentation
+  - Public Discourse, Rhetorics, Communication
+  - Public Policy, Evaluation, Impact
   - Consumption and Production Patterns
-  - 'Inequalities, Poverty, Development '
+  - Inequalities, Poverty, Development
   - Environmental Studies
   - Health and well-being
   - Urban nature
   - wildland recreation
   - outcomes
   - personal development
-  - ' outdoor recreation'
+  - outdoor recreation
 yt: ''
 
 ---

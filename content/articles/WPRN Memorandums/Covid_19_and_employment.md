@@ -1,12 +1,5 @@
 ---
 issue: content/issues/WPRN Memorandums.md
-tag:
-  - 'Big Data, Artificial Intelligence '
-  - Consumption and Production Patterns
-  - Firms, Markets, Finance
-  - Public Health
-  - Human Behaviours, Social Relations
-  - 'Work, Welfare, Social protection '
 date: 2020-08-31T22:00:00.000+00:00
 article_title: 'Covid 19 and employment upheavals: worried employees'
 picture: '/how-did-employment-change-during-the-covid-19-1.png'
@@ -21,15 +14,15 @@ authors:
 abstract: |-
   The Covid 19 pandemic and the measures taken to limit its spread (containment, social distancing) have led to a recession and a major economic crisis. The economic data show significant job losses. The Insee Emploi-Chômage note published on September 8th notes 715,000 salaried jobs lost in France in the first half of this year. Against this backdrop, employees are deeply concerned about their professional future and the risk of job loss.
   Memorandum 5 : overview of the studies and projects registered on WPRN database
-keywords:
-  - 'Public Health '
-  - ' Work, Welfare, Social protection '
-  - 'Human Behaviours, Social Relations '
-  - 'Big Data, Artificial Intelligence '
-  - 'Consumption and Production Patterns '
-  - 'Firms, Markets, Finance '
-  - 'Equality & Diversity Studies '
-  - 'Inequalities, Poverty, Development '
+tags:
+  - Public Health
+  -  Work, Welfare, Social protection
+  - Human Behaviours, Social Relations
+  - Big Data, Artificial Intelligence
+  - Consumption and Production Patterns
+  - Firms, Markets, Finance
+  - Equality & Diversity Studies
+  - Inequalities, Poverty, Development
 highlight: false
 needDOI: true
 language: English

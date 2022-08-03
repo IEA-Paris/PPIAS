@@ -33,7 +33,7 @@ date: 2021-12-09T09:00:24.000Z
 doi: '169059797'
 highlight: false
 issue: content/issues/WPRN21 Conference.md
-keywords:
+tags:
   - Infectious Diseases
   - public policies
 language: English

@@ -93,7 +93,7 @@ disciplines: ''
 doi: ''
 highlight: false
 issue: content/issues/WPRN21 Proceedings.md
-keywords:
+tags:
   - COVID-19
   - research method
   - survey

@@ -41,41 +41,26 @@ date: 2020-10-31T23:00:00.000Z
 doi: '169059797'
 highlight: false
 issue: content/issues/WPRN Memorandums.md
-keywords:
-  - 'Democracy, Civil Society, Governance '
-  - 'Public Discourse, Rhetorics, Communication '
-  - Public Policy, Evaluation, Impact
-  - 'Dataset, Data Mining '
-  - ' Qualitative analysis '
-  - 'Public Health '
-  - 'Risks, Crisis Management '
-  - 'Human Behaviours, Social Relations '
-  - Violence, Criminality, Security
-  - Work, Welfare, Social protection
-  - 'Religions and Worldviews '
-  - 'Firms, Markets, Finance '
-  - International Relations and Co-operation
-  - 'Inequalities, Poverty, Development '
 language: English
 picture: /politique_charles-deluvio-9bxl-vn22do-unsplash.jpg
 picture_copyright: ''
 pinned: false
 published: true
-tag:
-  - 'Human Behaviours, Social Relations '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Violence, Criminality, Security '
-  - 'Work, Welfare, Social protection '
-  - 'Religions and Worldviews '
+tags:
+  - Human Behaviours, Social Relations
+  - Public Discourse, Rhetorics, Communication
+  - Violence, Criminality, Security
+  - Work, Welfare, Social protection
+  - Religions and Worldviews
   - Firms, Markets, Finance
-  - 'Dataset, Data Mining '
-  - 'Qualitative analysis '
-  - 'Democracy, Civil Society, Governance '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Public Health '
+  - Dataset, Data Mining
+  - Qualitative analysis
+  - Democracy, Civil Society, Governance
+  - Public Policy, Evaluation, Impact
+  - Public Health
   - Risks, Crisis Management
-  - 'International Relations and Co-operation '
-  - 'Inequalities, Poverty, Development '
+  - International Relations and Co-operation
+  - Inequalities, Poverty, Development
   - Equality & Diversity Studies
 yt: ''
 

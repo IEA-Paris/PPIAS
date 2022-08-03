@@ -49,7 +49,7 @@ discipline:
   - {}
 highlight: false
 issue: content/issues/Intercontinental Academia 4.md
-keywords:
+tags:
   - Artificial Intelligence
   - Data science
   - Deep learning
@@ -62,14 +62,6 @@ picture: ''
 picture_copyright: ''
 pinned: false
 published: true
-tag:
-  - Artificial Intelligence
-  - Data science
-  - Deep learning
-  - Responsability
-  - Algorithms
-  - Language
-  - Robots
 yt: ''
 
 ---

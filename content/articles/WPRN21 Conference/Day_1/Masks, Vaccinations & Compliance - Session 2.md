@@ -1,6 +1,6 @@
 ---
 issue: content/issues/WPRN21 Conference.md
-keywords:
+tags:
   - Work, Welfare, Social protection
   - Environmental change, Ecology
   - 'Human Behaviours, Social Relations '

@@ -1,6 +1,6 @@
 ---
 issue: content/issues/WPRN21 Conference.md
-keywords:
+tags:
   - Human Behaviours, Social Relations
   - 'Public Health '
   - 'Work, Welfare, Social protection '

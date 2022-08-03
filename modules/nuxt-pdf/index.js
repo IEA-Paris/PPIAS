@@ -301,7 +301,7 @@ module.exports = async function PDF(moduleOptions) {
         document.setSubject(meta.subject || '')
         document.setProducer(meta.producer || '')
         document.setCreationDate(new Date(meta.creationDate) || new Date())
-        document.setKeywords(meta.keywords || [])
+        document.setKeywords(meta.tag || [])
         document.setLanguage(meta.language || '')
 
         const file = path.resolve(

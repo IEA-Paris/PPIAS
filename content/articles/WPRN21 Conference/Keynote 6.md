@@ -31,7 +31,7 @@ date: 2021-12-10T10:00:40.000Z
 doi: '169059797'
 highlight: false
 issue: content/issues/WPRN21 Conference.md
-keywords:
+tags:
   - 'Equality & Diversity Studies '
   - Public Health
   - 'Work, Welfare, Social protection '

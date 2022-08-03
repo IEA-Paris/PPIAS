@@ -1,6 +1,6 @@
 ---
 issue: content/issues/WPRN21 Conference.md
-keywords:
+tags:
   - 'Quantitative survey '
   - 'Qualitative analysis '
   - 'Dataset, Data Mining '

@@ -47,7 +47,7 @@ date: 2021-12-10T14:00:13.000Z
 doi: '169059797'
 highlight: false
 issue: content/issues/WPRN21 Conference.md
-keywords:
+tags:
   - 'Public Discourse, Rhetorics, Communication '
   - Public Health
   - 'Risks, Crisis Management '

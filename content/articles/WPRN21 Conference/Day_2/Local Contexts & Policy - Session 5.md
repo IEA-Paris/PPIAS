@@ -1,6 +1,6 @@
 ---
 issue: content/issues/WPRN21 Conference.md
-keywords:
+tags:
   - 'Dataset, Data Mining '
   - 'Quantitative survey '
   - 'Qualitative analysis '
@@ -218,7 +218,7 @@ In the absence of a vaccine or treatments, governments have social or physical d
 
 ### 6. [The Surge of Domestic Violence during the COVID-19 Pandemic](https://wprn.org/item/481552)
 
-Domestic violence is a violation of human rights where a person is abused by a partner or someone close to them. The COVID-19 pandemic has caused a lot of mental distress and escalated the number of cases. This research aims to investigate what causes the surge in domestic violence and what can be done to stop it. Based on secondary online sources and a review of international journals and papers on domestic violence, its causes and impacts. This qualitative research was carried out to see what causes the surge in domestic violence, especially in times of disaster. Analysis of the research demonstrated that the disruption in normalcy caused by disasters and the mental distress that follows might develop into violence. The research indicates that disruption of social and protective networks, and decreased access to services can exacerbate the risk of violence at home. On this basis, it is recommended that a safe and supportive environment is created for the victims of domestic violence. Further research is needed to identify what can be done to prevent domestic violence and protect the victims. Keywords: disaster, disruption in normalcy, risk of violence.
+Domestic violence is a violation of human rights where a person is abused by a partner or someone close to them. The COVID-19 pandemic has caused a lot of mental distress and escalated the number of cases. This research aims to investigate what causes the surge in domestic violence and what can be done to stop it. Based on secondary online sources and a review of international journals and papers on domestic violence, its causes and impacts. This qualitative research was carried out to see what causes the surge in domestic violence, especially in times of disaster. Analysis of the research demonstrated that the disruption in normalcy caused by disasters and the mental distress that follows might develop into violence. The research indicates that disruption of social and protective networks, and decreased access to services can exacerbate the risk of violence at home. On this basis, it is recommended that a safe and supportive environment is created for the victims of domestic violence. Further research is needed to identify what can be done to prevent domestic violence and protect the victims. tags: disaster, disruption in normalcy, risk of violence.
 
 <Youtube yt="W4_umd9Lk7U" caption ="The Surge of Domestic Violence during the COVID-19 Pandemic #WPRN21"></Youtube>
 

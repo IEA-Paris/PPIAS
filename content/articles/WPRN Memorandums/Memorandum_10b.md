@@ -48,7 +48,7 @@ disciplines: ''
 doi: '169059797'
 highlight: false
 issue: content/issues/WPRN Memorandums.md
-keywords:
+tags:
   - Agriculture, Alimentation
   - ' Environmental change, Ecology'
   - 'Human Behaviours, Social Relations '

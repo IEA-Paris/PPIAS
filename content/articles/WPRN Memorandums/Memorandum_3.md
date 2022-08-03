@@ -20,33 +20,20 @@ date: 2020-06-30T22:00:00.000Z
 doi: '169059797'
 highlight: false
 issue: content/issues/WPRN Memorandums.md
-keywords:
-  - 'Human Behaviours, Social Relations '
-  - Education
-  - 'Public Health '
-  - Human Behaviours, Social Relations
-  - 'Work, Welfare, Social protection '
-  - 'Democracy, Civil Society, Governance '
-  - 'Public Policy, Evaluation, Impact '
-  - 'International Relations and Co-operation '
-  - 'Equality & Diversity Studies '
-  - Mental Health
-  - Psychology
-  - Stress
 language: English
 picture: /class-5120376_1280.jpg
 picture_copyright: ''
 pinned: false
 published: true
-tag:
+tags:
   - Students
   - Stress
   - Depression
-  - ' mental health'
+  - mental health
   - Education
   - Public Health
-  - 'Social protection '
-  - 'Social Relations '
+  - Social protection
+  - Social Relations
   - Human Behaviours
   - Public Policy, Evaluation, Impact
   - Equality & Diversity Studies
