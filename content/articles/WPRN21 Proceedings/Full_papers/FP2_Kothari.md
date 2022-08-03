@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1090012
+Zid: 1090012
 abstract: >-
   Research has suggested relatively low global levels of intent to get
   vaccinated against COVID-19 in the first months after the approval of the
@@ -111,6 +113,7 @@ published: true
 yt: ''
 
 ---
+
 
 
 ## 1. INTRODUCTION

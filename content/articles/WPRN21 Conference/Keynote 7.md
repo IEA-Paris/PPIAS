@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1090004
+Zid: 1090004
 abstract: >-
   Keynote  presentation by Bennett Kleinberg during the WPRN21 conference in
   Paris on December 10th 2021
@@ -43,6 +45,7 @@ published: true
 yt: iFabYJBx8ls
 
 ---
+
 
 
 ## Emotional responses to the pandemic through the lens of text data

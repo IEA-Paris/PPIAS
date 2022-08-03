@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1089980
+Zid: 1089980
 abstract: >-
   The social distancing measures taken by the authorities in response to Covid
   19 have had major economic and psychological consequences on the population.
@@ -50,7 +52,9 @@ tag:
   - Equality & Diversity Studies
   - Psychological
 yt: ''
+
 ---
+
 
 The social distancing measures taken by the authorities in response to Covid 19 have had major economic and psychological consequences on the population. In particular, students were subject to major disruption. Social science research has shown that students constitute a fragile social category, more prone to anxiety than the rest of the population and thus particularly exposed during major upheavals such as the Covid 19 epidemic. Several studies carried out or in progress highlight the impact of measures against Covid 19, in particular containment, on the mental health of students. More studies should now focus on the medium- and long-term consequences for students, in particular the consequences of educational changes at university and the economic and social consequences of the current crisis.
 

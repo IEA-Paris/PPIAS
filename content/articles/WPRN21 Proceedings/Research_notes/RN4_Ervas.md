@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1090026
+Zid: 1090026
 abstract: >-
   The project considers metaphor as a reasoning and a communicative device in
   health communication, to let people understand an abstract concept,
@@ -92,6 +94,7 @@ published: true
 yt: ''
 
 ---
+
 
 
 ## 1. INTRODUCTION

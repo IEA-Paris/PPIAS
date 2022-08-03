@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1089968
+Zid: 1089968
 abstract: >-
   Social psychology studies typically focus on social norms to understand,
   anticipate and influence the behaviours of individuals and groups (to
@@ -46,6 +48,7 @@ tag:
 yt: ''
 
 ---
+
 
 
 Social psychology studies typically focus on social norms to understand, anticipate and influence the behaviours of individuals and groups (to simplify: «others do it, so do it too»). While norms can be produced by groups themselves, it is primarily institutions (often governments) that prescribe desired behaviours.  

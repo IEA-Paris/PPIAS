@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1090002
+Zid: 1090002
 abstract: >-
   Keynote  presentation by Elisa Reis during the WPRN21 conference in Paris on
   December 9th 2021
@@ -40,6 +42,7 @@ published: true
 yt: DlM3vzlQ37Y
 
 ---
+
 
 
 ## Social Cohesion, Inequality, and the Pandemic: Lessons from Brazil

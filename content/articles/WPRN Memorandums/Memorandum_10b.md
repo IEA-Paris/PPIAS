@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1089976
+Zid: 1089976
 abstract: >-
   The image of empty supermarket shelves is one of those that will remain from
   the announcement of the first lockdown. The Europeans practiced the
@@ -69,6 +71,7 @@ published: true
 yt: ''
 
 ---
+
 
 
 ## All bakers?

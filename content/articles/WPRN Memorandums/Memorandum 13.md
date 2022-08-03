@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1089974
+Zid: 1089974
 abstract: >-
   People who are reluctant to vaccinate have often been portrayed  as
   conspiracists in the media. Is this an anecdotal evidence ? A stable
@@ -63,6 +65,7 @@ published: true
 yt: ''
 
 ---
+
 
 
 People who are reluctant to vaccinate have often been portrayed as conspiracists in the media. Is this anecdotal evidence? A stable correlation? Research in humanities and social sciences has looked into this question. It has also studied how people relate to Covid-19 vaccination: do undecided people change their minds over time? What policies are likely to drive them away from vaccination? Is the obligation to show a vaccination certificate to access public spaces effective to nudge vaccine uptake? What makes vaccine mistrust fade away?

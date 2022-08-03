@@ -87,7 +87,6 @@ titles_and_institutions:
       - writer
 years:
   - '2021'
-  - null
   - 2021
 
 ---

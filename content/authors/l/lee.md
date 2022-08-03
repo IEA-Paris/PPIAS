@@ -45,7 +45,6 @@ titles_and_institutions:
       - Assistant Professor
 years:
   - '2021'
-  - null
   - 2021
 
 ---

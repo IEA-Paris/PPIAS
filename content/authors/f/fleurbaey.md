@@ -42,7 +42,6 @@ titles_and_institutions:
     titles: []
 years:
   - '2021'
-  - null
   - 2021
 
 ---

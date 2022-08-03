@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1090014
+Zid: 1090014
 abstract: >
   The current worldwide COVID-19 pandemic situation increases feelings of
   isolation and worry. The increase in mental problems during a pandemic unveils
@@ -132,6 +134,7 @@ published: true
 yt: ''
 
 ---
+
 
 
 ## 1. INTRODUCTION

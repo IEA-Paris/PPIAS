@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1090000
+Zid: 1090000
 abstract: >-
   Keynote  presentation by Marc Fleurbaey during the WPRN21 conference in Paris
   on December 10th 2021
@@ -42,6 +44,7 @@ published: true
 yt: ST40fXLMsv4
 
 ---
+
 
 
 ## Trading off lives and livelihoods in an ethical way, considering the apparent clash of interests between generations

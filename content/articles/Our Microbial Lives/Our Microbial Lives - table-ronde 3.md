@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1089964
+Zid: 1089964
 abstract: >-
   Table-ronde 3 du forum "Our Microbial Lives: A Forum Against Eradication", 
   May 27, 2021, Paris Institute for Advanced Study
@@ -95,6 +97,7 @@ published: true
 yt: mAEoGVjHjUQ
 
 ---
+
 
 
 ## Table-ronde 3 du forum "Our Microbial Lives"

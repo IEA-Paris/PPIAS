@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1090010
+Zid: 1090010
 abstract: >
   Natural disasters, and pandemics, mostly occur without warning. The threat to
   public health, the environment, and social wellbeing warrants scientific
@@ -104,6 +106,7 @@ published: true
 yt: ''
 
 ---
+
 
 
 ## 1. INTRODUCTION

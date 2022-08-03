@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1089998
+Zid: 1089998
 abstract: >-
   Keynote  presentation by Ted Loch-Temzelides during the WPRN21 conference in
   Paris on December 9th 2021
@@ -41,6 +43,7 @@ published: true
 yt: pIFgorYnIlM
 
 ---
+
 
 
 ## COVID‑19 and the value of safe transport in the United States

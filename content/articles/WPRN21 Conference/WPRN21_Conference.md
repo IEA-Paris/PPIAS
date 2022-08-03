@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1090008
+Zid: 1090008
 abstract: >-
   During the December 9-10 WPRN conference, experts from all over the globe
   shared their insights and lessons learned from the pandemic in 9 Keynote
@@ -50,6 +52,7 @@ tag: []
 yt: ULeeaCclxW0
 
 ---
+
 
 
 ## WPRN Project

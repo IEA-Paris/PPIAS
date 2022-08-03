@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1090022
+Zid: 1090022
 abstract: >-
   In addition to becoming a global phenomenon, the spreading of the new
   Coronavirus, following the declaration of a pandemic state, has generated
@@ -55,6 +57,7 @@ published: true
 yt: ''
 
 ---
+
 
 
 ## 1. INTRODUCTION

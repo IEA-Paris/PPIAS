@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1089994
+Zid: 1089994
 abstract: >-
   Keynote 1 presentation by Raouf Boucekkine during the WPRN21 conference in
   Paris on December 9th 2021
@@ -41,6 +43,7 @@ published: true
 yt: EtpubPswH2M
 
 ---
+
 
 
 ## Economic epidemiology put to the test of the Covid-19 crisis: some emerging ideas and approaches.

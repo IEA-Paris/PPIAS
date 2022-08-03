@@ -38,7 +38,6 @@ titles_and_institutions:
     titles: []
 years:
   - 2022
-  - null
 
 ---
 Phil Lord is an Assistant Professor at Lakehead University’s Bora Laskin Faculty of Law.

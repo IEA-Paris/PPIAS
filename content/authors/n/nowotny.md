@@ -46,7 +46,6 @@ titles_and_institutions:
       - President (2010-2013) and Founding Members (2007)
 years:
   - '2021'
-  - null
   - 2021
   - 2022
 

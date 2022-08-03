@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1090006
+Zid: 1090006
 abstract: >-
   Keynote  presentation by Enrique Fatas and Paulius Yamin during the WPRN21
   conference in Paris on December 10th 2021
@@ -61,6 +63,7 @@ published: true
 yt: IxE1RFZSJZk
 
 ---
+
 
 
 ## In Science We Should Trust (controlling for the Social Desirability Bias)

@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1089992
+Zid: 1089992
 abstract: >-
   Closing Panel of the 2 days of international conferences WPRN 21 in Paris and
   online
@@ -89,6 +91,7 @@ published: true
 yt: JXJ2_BxgOeE
 
 ---
+
 
 
 Closing Panel by Helga Nowotny (ETH Zurich), Saadi Lahlou (Paris Institute of Advanced Studies, London School of Economics and Political Science), Olivier Bouin (Network for French Institutes of Advanced Study, European Alliance for SSH) et Maxi Heitmayer (London School of Economics and Political Science, University College London).

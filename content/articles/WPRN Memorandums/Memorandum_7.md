@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1089984
+Zid: 1089984
 abstract: >-
   During the Covid 19 pandemic, the media was the main relay of information and
   had a strong impact on the perception of the crisis by citizens, on the
@@ -66,6 +68,7 @@ tag:
 yt: ''
 
 ---
+
 
 
 During the Covid 19 pandemic, the media was the main relay of information and had a strong impact on the perception of the crisis by citizens, on the acceptance of sanitary measures or on the propagation of conspiracy theories or false information. The Covid19 major crisis is taking place in a context where the media world has undergone profound upheavals in the last decade, with the so-called traditional media (television, radio, press) being increasingly challenged by online media and social networks, which has led to a transformation of the citizens’ relationship to information.

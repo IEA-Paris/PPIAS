@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1089970
+Zid: 1089970
 abstract: >-
   “Those who argue that lockdown measures were not necessary and that, without
   them, the final number of deaths would not be much different from those of a
@@ -68,6 +70,7 @@ published: true
 yt: ''
 
 ---
+
 
 
 “Those who argue that lockdown measures were not necessary and that, without them, the final number of deaths would not be much different from those of a strong seasonal flu are wrong”, explains Marc Fleurbaey, who has developed, with a team from Princeton University, a tool simulating the evolution of the pandemic according to the implemented measures (downloadable on [WPRN](https://wprn.org/item/414252)). This simulator indicates that in the United Kingdom, total mortality would differ by a factor of nearly five with or without lockdown. In France, this factor is between ten and twenty. Virus eradication or control strategy, timing, toughness and type of measures: what works and why? On the [World Pandemic Research Network](https://wprn.org/), several studies provide preliminary answers.

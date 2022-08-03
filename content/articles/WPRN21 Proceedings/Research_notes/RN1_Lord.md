@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1090018
+Zid: 1090018
 abstract: >-
   This Research Note draws upon the paper I presented at the conference,
   published in the Manitoba Law Journal, to consider the persisting issues
@@ -46,6 +48,7 @@ published: true
 yt: ''
 
 ---
+
 
 
 In April of 2020, my co-author and I did what I assume most sane people also did while subject to stay-at-home orders: we wrote a full-length law review article on government responses to the COVID-19 pandemic (@lord_tackling_2020). We drew from constantly changing, sometimes obscure, government websites. Programs were revised as quickly as they were announced and rolled out. We wrote our initial draft in just under two weeks, and we had to revise significant portions of it almost immediately, and subsequently when we received feedback from peer reviewers. Although we aggressively disseminated our draft on research repositories, the final, paginated version was only printed a full year later.

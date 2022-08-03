@@ -113,7 +113,6 @@ titles_and_institutions:
 years:
   - '2020'
   - '2021'
-  - null
   - 2020
   - 2021
 
