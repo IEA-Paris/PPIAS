@@ -24,6 +24,12 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - Single-parent families
+  - Shared residence
+  - Lockdown
+  - Parenting
+  - Home schooling
 titles_and_institutions:
   - institution: >-
       Group for research and Analyses in Population health (GAP), IUCT Oncopole,

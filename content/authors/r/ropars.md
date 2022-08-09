@@ -37,6 +37,11 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - History of Science
+  - Medicine
+  - Microbe
+  - Technology and Medicine
 titles_and_institutions:
   - institution: Laboratoire ESE, Université Paris-Saclay, France
     titles: []

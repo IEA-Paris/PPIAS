@@ -35,6 +35,12 @@ social_channels:
   twitter: https://twitter.com/tedloch?lang=fr
   website: ''
   wikipedia: ''
+tags:
+  - 'Cities, Mobility, Urban Planning '
+  - 'Environmental change, Ecology '
+  - 'Public Health '
+  - 'Public Policy, Evaluation, Impact '
+  - 'Big Data, Artificial Intelligence '
 titles_and_institutions:
   - institution: Rice University and The Baker Institute, USA
     titles: []

@@ -26,6 +26,12 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - Newspapers
+  - Twitter
+  - Topicmodels
+  - Infodemic
+  - COVID-19
 titles_and_institutions:
   - institution: University of Tsukuba, Japan
     titles: []

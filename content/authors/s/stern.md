@@ -23,6 +23,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: OAPEN Foundation, The Netherlands
     titles: []

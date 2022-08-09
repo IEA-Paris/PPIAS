@@ -24,6 +24,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: Nordic Inst. for Studies in Innovation, Norway
     titles: []

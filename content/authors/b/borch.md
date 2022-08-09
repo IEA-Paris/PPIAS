@@ -25,6 +25,12 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - efficacy e-health
+  - isolation
+  - mental health apps
+  - smartphone interventions
+  - student wellbeing
 titles_and_institutions:
   - institution: UiT The Arctic University Of Norway, Norway
     titles: []

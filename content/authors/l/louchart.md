@@ -1,9 +1,9 @@
 ---
 active: true
 articles:
-  - Memorandum 14
+  - Memorandum_10b
 exerpt: ''
-firstname: 'Aurélie '
+firstname: Aurélie
 issue:
   - content/issues/WPRN Memorandums.md
 language:
@@ -22,8 +22,26 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_institutions: []
+tags:
+  - Agriculture, Alimentation
+  - ' Environmental change, Ecology'
+  - 'Human Behaviours, Social Relations '
+  - Public Discourse, Rhetorics, Communication
+  - Public Policy, Evaluation, Impact
+  - Cities, Mobility, Urban Planning
+  - ' Consumption and Production Patterns'
+  - ' Democracy, Civil Society, Governance'
+  - ' Firms, Markets, Finance'
+  - ' Equality & Diversity Studies'
+  - 'Public Health '
+  - 'Risks, Crisis Management '
+  - Migrations and Diasporas
+  - ' Work, Welfare, Social protection'
+  - Inequalities, Poverty, Development
+titles_and_institutions:
+  - institution: Paris Institute for Advanced Study, France
+    titles: []
 years:
-  - 2022
+  - 2021
 
 ---

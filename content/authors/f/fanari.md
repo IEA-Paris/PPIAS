@@ -24,6 +24,10 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - metaphor
+  - vaccination
+  - defeasible reasoning
 titles_and_institutions:
   - institution: University of Cagliari, Italy
     titles: []

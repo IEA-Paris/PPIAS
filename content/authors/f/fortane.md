@@ -38,6 +38,12 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - History of Science
+  - Microbes
+  - Medicine
+  - Technology and Medicine
+  - Antibiotics
 titles_and_institutions:
   - institution: INRAE, France
     titles: []

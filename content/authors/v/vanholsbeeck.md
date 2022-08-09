@@ -24,6 +24,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: >-
       Service général de l’enseignement supérieur et de la recherche

@@ -24,6 +24,12 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - COVID-19
+  - vaccine hesitancy
+  - risk perception
+  - social trust
+  - socio-demographics
 titles_and_institutions:
   - institution: Free University Berlin, Germany
     titles: []

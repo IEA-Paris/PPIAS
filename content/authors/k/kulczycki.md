@@ -30,6 +30,7 @@ social_channels:
   twitter: '@ekulczycki'
   website: https://emanuelkulczycki.com/
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: Adam Mickiewicz University, Poland
     titles: []

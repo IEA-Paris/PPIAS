@@ -19,7 +19,7 @@ export default async (articles) => {
   const queue = new PQueue({ concurrency: 5, intervalCap: 60, interval: 6000 })
 
   const hasSameChecksum = (data, document) =>
-    data.find((item) => {
+    !!data.find((item) => {
       return (
         item.files &&
         item.files.length &&
@@ -27,7 +27,21 @@ export default async (articles) => {
       )
     })
   const hasSameIdOrDoi = (data, document) =>
-    data.find((article) => {
+    !!data.find((article) => {
+      /*       console.log('article.id: ', article.id)
+      console.log('document.Zid: ', document.Zid)
+      console.log('article.metadata.doi : ', article.metadata.doi)
+      console.log('document.DOI: ', document.DOI) */
+      if (
+        article.metadata.title === document.article_title &&
+        !(
+          (article.id && document.Zid && article.id === document.Zid) ||
+          (document.DOI &&
+            article.metadata.doi &&
+            article.metadata.doi === document.DOI)
+        )
+      )
+        console.log('Same article but different DOI', document.slug)
       return (
         (article.id && document.Zid && article.id === document.Zid) ||
         (document.DOI &&
@@ -41,13 +55,17 @@ export default async (articles) => {
     const metadata = await buildZenodoDocument(document)
     const entry = await zenodo.depositions.create({ metadata })
     console.log(`deposition created on Zenodo  for ${document.slug} `)
-
-    await zenodo.files.upload({
-      filename: document.slug + '.pdf',
-      data: document.fileBuffer,
-      deposition: entry.data,
-    })
-    console.log(`PDF file uploaded on Zenodo for ${document.slug} `)
+    if (document.fileBuffer) {
+      // file exists
+      await zenodo.files.upload({
+        filename: document.slug + '.pdf',
+        data: document.fileBuffer,
+        deposition: entry.data,
+      })
+      console.log(`PDF file uploaded on Zenodo for ${document.slug} `)
+    } else {
+      console.log('No file uploaded (file missing) for ', document.slug)
+    }
     const result = await zenodo.depositions.publish({
       id: entry.data.id,
     })
@@ -145,17 +163,33 @@ When created, only documents with needDOI set to true will get a generated DOI.
 */
 
     try {
-      document.fileBuffer = await fs.readFileSync(
-        path.resolve(
-          process.env.NODE_ENV !== 'production' ? 'static/pdfs' : 'pdfs',
-          document.slug + '.pdf'
+      if (
+        fs.existsSync(
+          path.resolve(
+            process.env.NODE_ENV !== 'production' ? 'static/pdfs' : 'pdfs',
+            document.slug + '.pdf'
+          )
         )
-      )
+      ) {
+        // file exists
+        document.fileBuffer = await fs.readFileSync(
+          path.resolve(
+            process.env.NODE_ENV !== 'production' ? 'static/pdfs' : 'pdfs',
+            document.slug + '.pdf'
+          )
+        )
+      } else {
+        document.fileBuffer = false
+      }
+
       document.checksum = generateChecksum(document.fileBuffer)
+      console.log('document.checksum: ', document.checksum)
       const sameChecksum = hasSameChecksum(records.data || [], document)
+      console.log('sameChecksum: ', sameChecksum)
       const sameIdOrDoi = hasSameIdOrDoi(records.data || [], document)
+      console.log('sameIdOrDoi: ', sameIdOrDoi)
       // check if the article already exists on Zenodo:
-      if (!sameIdOrDoi) {
+      if (!sameIdOrDoi && !sameChecksum) {
         console.log(
           'NO article matching on Zenodo for ',
           document.article_title,
@@ -171,7 +205,7 @@ When created, only documents with needDOI set to true will get a generated DOI.
         if (!sameChecksum) {
           console.log(
             'Article matching on Zenodo but different file checksum for ',
-            document.article_titlen,
+            document.article_title,
             'updating with the new PDF version...'
           )
           const metadata = await buildZenodoDocument(document)

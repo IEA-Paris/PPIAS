@@ -36,6 +36,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: École normale supérieure, France
     titles: []

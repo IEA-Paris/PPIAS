@@ -25,7 +25,7 @@
           <td>
             <div class="page-title">{{ item.article_title }}</div>
             <div class="article-authors">
-              <ArticleAuthorsString :authors="item.authors" />
+              <ArticleAuthorsString :authors="item.authors" :initials="false" />
             </div>
             <DoiBadge :doi="item.doi"></DoiBadge>
             <div class="article-label mt-6 mb-3">

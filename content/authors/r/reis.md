@@ -35,6 +35,12 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - 'Public Health '
+  - Human Behaviours, Social Relations
+  - 'Inequalities, Poverty, Development '
+  - 'Risks, Crisis Management '
+  - 'Public Policy, Evaluation, Impact '
 titles_and_institutions:
   - institution: Federal University of Rio de Janeiro, Brazil
     titles: []

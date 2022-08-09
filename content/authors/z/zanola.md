@@ -24,6 +24,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: >-
       Conseil Européen pour les Langues / European Language Council (CEL/ELC),

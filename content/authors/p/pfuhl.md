@@ -31,6 +31,17 @@ social_channels:
   twitter: https://twitter.com/gerit_pfuhl
   website: https://sites.google.com/view/geritpfuhl-lab/
   wikipedia: ''
+tags:
+  - COVID-19
+  - vaccine hesitancy
+  - risk perception
+  - social trust
+  - socio-demographics
+  - efficacy e-health
+  - isolation
+  - mental health apps
+  - smartphone interventions
+  - student wellbeing
 titles_and_institutions:
   - institution: UiT The Arctic University of Norway, Norway
     titles: []

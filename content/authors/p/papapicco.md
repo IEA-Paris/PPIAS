@@ -29,6 +29,12 @@ social_channels:
   twitter: https://twitter.com/concettapapapi1
   website: ''
   wikipedia: ''
+tags:
+  - Coronavirus
+  - COVID-19
+  - italian infodemia
+  - La Repubblica online
+  - mix method
 titles_and_institutions:
   - institution: University of Bari "Aldo Moro", Italy
     titles: []

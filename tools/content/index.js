@@ -10,12 +10,10 @@ import makeBibliography from './makeBibliography'
 export default {
   hooks: {
     'content:ready': async (content) => {
-      await Promise.all([
-        await processArticles(content),
-        await generateMedia(content),
-        await mergeAuthors(content),
-        await makeFiltersData(),
-      ])
+      await processArticles(content)
+      await generateMedia(content)
+      await mergeAuthors(content)
+      await makeFiltersData()
     },
     'content:file:beforeInsert': async (document, database) => {
       document = {

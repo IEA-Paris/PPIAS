@@ -33,6 +33,12 @@ social_channels:
   twitter: https://twitter.com/ProfPhilLord
   website: ''
   wikipedia: ''
+tags:
+  - COVID-19
+  - Public Policy
+  - Employment
+  - Employment Insurance
+  - Universal Basic Income
 titles_and_institutions:
   - institution: Bora Laskin Faculty Of Law, Lakehead University, Canada
     titles: []

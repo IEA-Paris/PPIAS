@@ -29,6 +29,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions: null
 years:
   - 2022

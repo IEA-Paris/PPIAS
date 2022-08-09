@@ -24,6 +24,11 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - COVID-19
+  - research method
+  - survey
+  - pandemic preparedness
 titles_and_institutions:
   - institution: >-
       National Centre for Development of Social Support & Rehabilitation,

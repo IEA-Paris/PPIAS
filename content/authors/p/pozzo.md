@@ -30,6 +30,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: https://en.wikipedia.org/wiki/Riccardo_Pozzo
+tags: []
 titles_and_institutions:
   - institution: Université de Rome Tor Vergata, Italy
     titles: []

@@ -25,6 +25,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: Université Sorbonne Nouvelle, France
     titles: []

@@ -25,6 +25,12 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - ' crisis management'
+  - decision making
+  - public administration
+  - covid-19
+  - Brazil
 titles_and_institutions:
   - institution: >-
       School of Humanities of Behavioural Sciences, Singapore University of

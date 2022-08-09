@@ -37,6 +37,7 @@ social_channels:
   twitter: ''
   website: http://helga-nowotny.eu/
   wikipedia: https://en.wikipedia.org/wiki/Helga_Nowotny
+tags: []
 titles_and_institutions:
   - institution: Science and Technology Studies, ETH Zurich
     titles:

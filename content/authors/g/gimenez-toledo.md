@@ -23,6 +23,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: >-
       Center for Human and Social Sciences (CCHS), Spanish National Research

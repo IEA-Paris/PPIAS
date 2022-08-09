@@ -14,6 +14,11 @@ export default {
       type: Boolean,
       default: false,
     },
+    initials: {
+      required: false,
+      type: Boolean,
+      default: true,
+    },
   },
   data() {
     return {}
@@ -23,7 +28,7 @@ export default {
   methods: {
     formatAuthorsProxy() {
       return highlight(
-        formatAuthors(this.authors, this.$i18n.$t, this.full),
+        formatAuthors(this.authors, this.$i18n.$t, this.full, this.initials),
         this.$store.state.articles.search || ''
       )
     },
