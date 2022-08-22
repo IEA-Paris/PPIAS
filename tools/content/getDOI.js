@@ -178,11 +178,12 @@ When created, only documents with needDOI set to true will get a generated DOI.
             document.slug + '.pdf'
           )
         )
+        document.checksum = generateChecksum(document.fileBuffer)
       } else {
         document.fileBuffer = false
+        document.checksum = false
       }
 
-      document.checksum = generateChecksum(document.fileBuffer)
       console.log('document.checksum: ', document.checksum)
       const sameChecksum = hasSameChecksum(records.data || [], document)
       console.log('sameChecksum: ', sameChecksum)

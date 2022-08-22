@@ -272,7 +272,7 @@ export const writePrintRoutes = async () => {
   ) */
 }
 
-export const updateArticleDoiAndZid = (document) => {
+export const updateArticlesDoiAndZid = (document) => {
   const data = fs.readFileSync('./content' + document.path + '.md', 'utf8')
   const markdown = data.split('---')[2]
   const frontmatter = yaml.load(data.split('---')[1])
@@ -284,6 +284,7 @@ export const updateArticleDoiAndZid = (document) => {
     console.log('document.DOI: ', document.DOI)
     if (document.Zid && !frontmatter.Zid) frontmatter.Zid = document.Zid
     console.log('document.Zid: ', document.Zid)
+    // writeFlag is true only if the
     fs.writeFileSync(
       './content' + document.path + '.md',
       `---
