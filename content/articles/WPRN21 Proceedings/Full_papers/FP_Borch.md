@@ -13,50 +13,11 @@ disciplines: ''
 published: true
 article_title: 'Mental health self-help apps for coping with COVID-19 : Lessons learnt'
 authors:
-  - firstname: 'Gerit '
-    lastname: Pfuhl
+  - lastname: 'Borch '
+    firstname: Kristin Benjaminsen
     titles_and_institutions:
       - titles: []
-        institution: UiT, The Arctic University of Norway, Norway
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: 'Katrine Jonna '
-    lastname: Diab
-    titles_and_institutions:
-      - titles: []
-        institution: UiT, The Arctic University of Norway, Norway
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: 'Sarah '
-    lastname: Cook
-    titles_and_institutions:
-      - titles: []
-        institution: Imperial College London, United Kingdom
-      - titles:
-          - ''
-        institution: London School of Hygiene & Tropical Medicine, United Kingdom
+        institution: UiT The Arctic University Of Norway, Norway
     picture: ''
     picture_copyright: ''
     social_channels:
@@ -88,11 +49,49 @@ authors:
       researchgate: ''
       mendeley: ''
     reference: ''
-  - firstname: 'Kristin Benjaminsen '
-    lastname: Borch
+
+  - firstname: 'Sarah '
+    lastname: Cook
     titles_and_institutions:
       - titles: []
-        institution: ''
+        institution: Imperial College London, United Kingdom
+      - titles:
+          - ''
+        institution: London School of Hygiene & Tropical Medicine, United Kingdom
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: 'Katrine Jonna '
+    lastname: Diab
+    titles_and_institutions:
+      - titles: []
+        institution: UiT, The Arctic University of Norway, Norway
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: 'Gerit '
+    lastname: Pfuhl
+    titles_and_institutions:
       - titles: []
         institution: UiT, The Arctic University of Norway, Norway
     picture: ''

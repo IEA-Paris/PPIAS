@@ -15,13 +15,13 @@ article_title:
   research early in the COVID-19 pandemic: surveying changes in tobacco, alcohol and
   other substance use'
 authors:
-  - firstname: 'Sofya '
-    lastname: Akinfieva
+  - firstname: 'Marewa '
+    lastname: Glover
     titles_and_institutions:
       - titles: []
         institution:
-          National Centre for Development of Social Support & Rehabilitation,
-          Moscow, Russia
+          'Centre of Research Excellence: Indigenous Sovereignty & Smoking,
+          Auckland, New Zealand'
     picture: ''
     picture_copyright: ''
     social_channels:
@@ -55,13 +55,13 @@ authors:
       researchgate: ''
       mendeley: ''
     reference: ''
-  - firstname: 'Marewa '
-    lastname: Glover
+  - firstname: 'Sofya '
+    lastname: Akinfieva
     titles_and_institutions:
       - titles: []
         institution:
-          'Centre of Research Excellence: Indigenous Sovereignty & Smoking,
-          Auckland, New Zealand'
+          National Centre for Development of Social Support & Rehabilitation,
+          Moscow, Russia
     picture: ''
     picture_copyright: ''
     social_channels:

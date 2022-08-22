@@ -15,29 +15,11 @@ article_title:
   'Risk Perceptions, Trust in Health Authorities and Socio-Demographics
   Predict Intent to Get Vaccinated Against COVID-19: Evidence from 23 Countries'
 authors:
-  - firstname: 'David '
-    lastname: Schieferdecker
+  - firstname: 'Ammina '
+    lastname: Kothari
     titles_and_institutions:
       - titles: []
-        institution: Free University Berlin, Germany
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: 'Stephanie '
-    lastname: Godleski
-    titles_and_institutions:
-      - titles: []
-        institution: Rochester Institute of Technology, USA
+        institution: University of Rhode Island, USA
     picture: ''
     picture_copyright: ''
     social_channels:
@@ -69,11 +51,11 @@ authors:
       researchgate: ''
       mendeley: ''
     reference: ''
-  - firstname: 'Ammina '
-    lastname: Kothari
+  - firstname: 'Stephanie '
+    lastname: Godleski
     titles_and_institutions:
       - titles: []
-        institution: University of Rhode Island, USA
+        institution: Rochester Institute of Technology, USA
     picture: ''
     picture_copyright: ''
     social_channels:
@@ -87,6 +69,25 @@ authors:
       researchgate: ''
       mendeley: ''
     reference: ''
+  - firstname: 'David '
+    lastname: Schieferdecker
+    titles_and_institutions:
+      - titles: []
+        institution: Free University Berlin, Germany
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+
 custom_pdf: ''
 abstract:
   Research has suggested relatively low global levels of intent to get vaccinated
