@@ -114,36 +114,38 @@ import filtersRaw from '~/assets/data/filters'
 
 export default {
   props: {},
-  async asyncData({ $content, params, store }) {
-    const item = (
-      await $content('issues', { deep: true })
+  data() {
+    return {
+      socials: [],
+      item: {},
+      articles: [],
+    }
+  },
+  async fetch() {
+    // TODO rationalize
+    this.item = (
+      await this.$content('issues', { deep: true })
         .where({
-          slug: params.slug,
+          slug: this.$route.params.slug,
         })
         .fetch()
     )[0]
-    console.log(' item.path ', 'content' + item.path + '.md')
-    const articles = await $content('articles', { deep: true })
+
+    this.articles = await this.$content('articles', { deep: true })
       .where({
-        issue: { $eq: 'content' + item.path + '.md' },
+        issue: { $eq: 'content' + this.item.path + '.md' },
         ...filtersRaw.articles,
       })
       .sortBy('date', 'asc')
       .fetch()
-    store.commit('setLoading', false)
 
-    return {
-      item,
-      articles,
-    }
+    this.$store.commit('setLoading', false)
   },
-  data() {
-    return {
-      socials: [],
-    }
-  },
+
   computed: {},
-  mounted() {},
+  mounted() {
+    this.$fetch()
+  },
   methods: {
     goBack() {
       this.$router.go(-1)
