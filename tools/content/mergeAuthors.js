@@ -122,7 +122,7 @@ export default async (content) => {
   const firstPass = filterAndMerge(articleAuthors, authorsDocs)
   articleAuthors = firstPass.first
   authorsDocs = firstPass.second
-
+  // TODO: come up with a global approach for non destructive merge, that could explicitely removed papers that were published but are not anymore or X other reason why it should be marked as from this author anymore)
   const secondPass = filterAndMerge(articleAuthors, articleAuthors)
   articleAuthors = secondPass.first
 

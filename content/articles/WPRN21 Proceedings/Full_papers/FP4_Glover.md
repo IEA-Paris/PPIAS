@@ -1,113 +1,105 @@
 ---
-DOI: 10.5072/zenodo.1090010
-Zid: 1090010
-abstract: >
-  Natural disasters, and pandemics, mostly occur without warning. The threat to
-  public health, the environment, and social wellbeing warrants scientific
-  investigation to inform future preventative or rehabilitative measures.
-  However, the panic and disruption to normal life caused by disasters and
-  pandemics, and Government responses to them, pose particular challenges for
-  researching such events and their effects. The SARS-COV-2 (COVID-19) pandemic,
-  and quarantine measures implemented to reduce the incidence of morbidity and
-  mortality associated with COVID-19, triggered a large, rapid wave of research
-  on the topic globally. Our contribution to this was a cross-sectional online
-  survey of adults, in four countries, who pre-pandemic or currently, smoked
-  tobacco, consumed alcohol, or used a range of nicotine products or other
-  drugs. The purpose of the study was to identify if consumption behavior had
-  changed and the potential effect of coping in lockdown on use of these
-  products. This paper discusses some of the methodological and operational
-  challenges we encountered. Obstacles to conducting a robust study were
-  encountered at each stage, including delays while seeking funding, and other
-  approvals; difficulty recruiting collaborators across countries; adapting and
-  translating the questionnaire for local use; and varied methods of participant
-  recruitment by location. 
-article_title: >-
-  Methodological difficulties of conducting cross-country quantitative research
-  early in the COVID-19 pandemic: surveying changes in tobacco, alcohol and
-  other substance use
-authors:
-  - firstname: 'Sofya '
-    lastname: Akinfieva
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-    social_channels:
-      google_scholar: ''
-      instagram: ''
-      linkedin: ''
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      twitter: ''
-      website: ''
-      wikipedia: ''
-    titles_and_institutions:
-      - institution: >-
-          National Centre for Development of Social Support & Rehabilitation,
-          Moscow, Russia
-        titles: []
-  - firstname: 'Alexander '
-    lastname: Merkin
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-    social_channels:
-      google_scholar: ''
-      instagram: ''
-      linkedin: ''
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      twitter: ''
-      website: ''
-      wikipedia: ''
-    titles_and_institutions:
-      - institution: >-
-          Centre for Precise Psychiatry and Neurosciences, Germany/Switzerland;
-          Academy for Postgraduate Education, Moscow, Russia
-        titles: []
-  - firstname: 'Marewa '
-    lastname: Glover
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-    social_channels:
-      google_scholar: ''
-      instagram: ''
-      linkedin: ''
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      twitter: ''
-      website: ''
-      wikipedia: ''
-    titles_and_institutions:
-      - institution: >-
-          Centre of Research Excellence: Indigenous Sovereignty & Smoking,
-          Auckland, New Zealand
-        titles: []
-bibliography: /documents-exportes_fp4b.bib
-custom_pdf: ''
-date: 2022-05-29T21:49:20.000Z
-disciplines: ''
-doi: ''
-highlight: false
 issue: content/issues/WPRN21 Proceedings.md
-tags:
+keywords:
   - COVID-19
   - research method
   - survey
   - pandemic preparedness
+date: 2022-05-29T21:49:20.000+00:00
 language: English
-needDOI: true
+disciplines: ''
+needDOI: false
+published: true
+article_title:
+  'Methodological difficulties of conducting cross-country quantitative
+  research early in the COVID-19 pandemic: surveying changes in tobacco, alcohol and
+  other substance use'
+authors:
+  - firstname: 'Marewa '
+    lastname: Glover
+    titles_and_institutions:
+      - titles: []
+        institution:
+          'Centre of Research Excellence: Indigenous Sovereignty & Smoking,
+          Auckland, New Zealand'
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: 'Alexander '
+    lastname: Merkin
+    titles_and_institutions:
+      - titles: []
+        institution:
+          Centre for Precise Psychiatry and Neurosciences, Germany/Switzerland;
+          Academy for Postgraduate Education, Moscow, Russia
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: 'Sofya '
+    lastname: Akinfieva
+    titles_and_institutions:
+      - titles: []
+        institution:
+          National Centre for Development of Social Support & Rehabilitation,
+          Moscow, Russia
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid: ''
+      linkedin: ''
+      twitter: ''
+      instagram: ''
+      google_scholar: ''
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+custom_pdf: ''
+abstract:
+  "Natural disasters, and pandemics, mostly occur without warning. The threat
+  to public health, the environment, and social wellbeing warrants scientific investigation
+  to inform future preventative or rehabilitative measures. However, the panic and
+  disruption to normal life caused by disasters and pandemics, and Government responses
+  to them, pose particular challenges for researching such events and their effects.
+  The SARS-COV-2 (COVID-19) pandemic, and quarantine measures implemented to reduce
+  the incidence of morbidity and mortality associated with COVID-19, triggered a large,
+  rapid wave of research on the topic globally. Our contribution to this was a cross-sectional
+  online survey of adults, in four countries, who pre-pandemic or currently, smoked
+  tobacco, consumed alcohol, or used a range of nicotine products or other drugs.
+  The purpose of the study was to identify if consumption behavior had changed and
+  the potential effect of coping in lockdown on use of these products. This paper
+  discusses some of the methodological and operational challenges we encountered.
+  Obstacles to conducting a robust study were encountered at each stage, including
+  delays while seeking funding, and other approvals; difficulty recruiting collaborators
+  across countries; adapting and translating the questionnaire for local use; and
+  varied methods of participant recruitment by location. \n"
 picture: ''
 picture_copyright: ''
-published: true
 yt: ''
-
+highlight: false
+bibliography: '/documents-exportes_fp4b.bib'
 ---
-
-
 
 ## 1. INTRODUCTION
 
