@@ -1,73 +1,72 @@
 ---
 issue: content/issues/WPRN21 Proceedings.md
 keywords:
-  - metaphor
-  - vaccination
-  - defeasible reasoning
+- metaphor
+- vaccination
+- defeasible reasoning
 date: 2022-04-13T20:05:34.000+00:00
 language: English
-doi: '169059797'
+doi: "169059797"
 disciplines: ''
 published: true
 article_title: Metaphors for vaccination and defeasible reasoning
 authors:
-  - firstname: 'Rachele '
-    lastname: Fanari
-    titles_and_institutions:
-      - titles: []
-        institution: University of Cagliari, Italy
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: 'Pietro '
-    lastname: Salis
-    titles_and_institutions:
-      - titles: []
-        institution: University of Cagliari, Italy
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: 'Francesca '
-    lastname: Ervas
-    titles_and_institutions:
-      - titles: []
-        institution: University of Cagliari, Italy
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
+- firstname: 'Francesca '
+  lastname: Ervas
+  titles_and_institutions:
+  - titles: []
+    institution: University of Cagliari, Italy
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- firstname: 'Pietro '
+  lastname: Salis
+  titles_and_institutions:
+  - titles: []
+    institution: University of Cagliari, Italy
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- firstname: 'Rachele '
+  lastname: Fanari
+  titles_and_institutions:
+  - titles: []
+    institution: University of Cagliari, Italy
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
 custom_pdf: ''
-abstract:
-  'The project considers metaphor as a reasoning and a communicative device
+abstract: 'The project considers metaphor as a reasoning and a communicative device
   in health communication, to let people understand an abstract concept, vaccination,
   in terms of a concrete one, the beehive. The use of metaphors in vaccine communication
   might be crucial to let people understand vaccination as an important collective
@@ -87,9 +86,9 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: '/bibliography/documents-exportes_rn4.bib'
----
+bibliography: "/bibliography/documents-exportes_rn4.bib"
 
+---
 ## 1. INTRODUCTION
 
 Metaphor can be a useful device to grasp an unknown concept (the target) by using a known concept (the source) (@lakoff*metaphors_1980; @bowdle_career_2005), to explain vaccination, which otherwise might remain unintelligible to lay people. However, metaphor might also influence people’s views about the target, because of its framing effect, which might modify how people reason about a specific problem (@thibodeau_metaphors* 2011, @thibodeau_natural_2013). A variety of metaphors have been proposed in vaccine communication, ranging from the conventional military metaphor of the “garrison” to the novel metaphor of the “beehive” (@ervas_garrison_2018), to let people understand the concept of “herd immunity”. The “herd immunity” is in turn a conventional metaphor, criticized by people who are hesitant to be vaccinated and deplore the fact that it makes them feel like mindless sheep (@biss_immunity_2014).
