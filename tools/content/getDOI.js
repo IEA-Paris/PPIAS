@@ -109,7 +109,7 @@ export default async (articles) => {
       // conference_url
       // conference_session
       // location: [{"lat": 34.02577, "lon": -118.7804, "place": "Los Angeles"}, {"place": "Mt.Fuji, Japan", "description": "Sample found 100ft from the foot of the mountain."}]
-      ...(document.doi && { doi: document.DOI }),
+      ...(document.DOI && { doi: document.DOI }),
       ...(document.issue && {
         journal_issue: document.issue.slice(15, -3),
       }),

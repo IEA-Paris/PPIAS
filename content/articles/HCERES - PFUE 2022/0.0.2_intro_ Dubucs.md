@@ -34,7 +34,7 @@ picture_copyright: ''
 yt: ''
 highlight: false
 bibliography: ''
-doi: ''
+
 ---
 
 Première présentation (à écrire)
