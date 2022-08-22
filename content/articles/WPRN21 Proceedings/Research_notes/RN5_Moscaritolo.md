@@ -1,69 +1,64 @@
 ---
 issue: content/issues/WPRN21 Proceedings.md
 keywords:
-  - Single-parent families
-  - Shared residence
-  - Lockdown
-  - Parenting
-  - Home schooling
+- Single-parent families
+- Shared residence
+- Lockdown
+- Parenting
+- Home schooling
 date: 2022-04-13T21:10:47.000+00:00
 language: English
-doi: '169059797'
+doi: "169059797"
 disciplines: ''
 published: true
-article_title:
-  Parenting and home schooling in diverse family settings with young
+article_title: Parenting and home schooling in diverse family settings with young
   children during the first COVID-19 lockdown in France
 authors:
-  - firstname: 'Amalia '
-    lastname: Martinez
-    titles_and_institutions:
-      - titles: []
-        institution:
-          Group for research and Analyses in Population health (GAP), IUCT
-          Oncopole, France
-      - titles: []
-        institution:
-          Center of Epidemiology and Research in POPulation health (CERPOP),
-          Inserm, Toulouse III Paul Sabatier University, France
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: 'Alice '
-    lastname: Moscaritolo
-    titles_and_institutions:
-      - titles: []
-        institution:
-          Baby Early childhood in COntexts scientific interest grouping (BECO),
-          France
-      - titles: []
-        institution: EFTS, Toulouse Jean-Jaurès University, France
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
+- firstname: 'Alice '
+  lastname: Moscaritolo
+  titles_and_institutions:
+  - titles: []
+    institution: Baby Early childhood in COntexts scientific interest grouping (BECO),
+      France
+  - titles: []
+    institution: EFTS, Toulouse Jean-Jaurès University, France
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- firstname: 'Amalia '
+  lastname: Martinez
+  titles_and_institutions:
+  - titles: []
+    institution: Group for research and Analyses in Population health (GAP), IUCT
+      Oncopole, France
+  - titles: []
+    institution: Center of Epidemiology and Research in POPulation health (CERPOP),
+      Inserm, Toulouse III Paul Sabatier University, France
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
 custom_pdf: ''
-abstract:
-  During the COVID-19 sanitary crisis, the particular constraints faced by
+abstract: During the COVID-19 sanitary crisis, the particular constraints faced by
   French single-parent families and households with children in shared residence can
   be analysed as additional burdens whilst parenting young children and dealing with
   home schooling during lockdown. Elements for implementing targeted measures are
@@ -72,9 +67,9 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: '/bibliography/documents-exportes_rn5.bib'
----
+bibliography: "/bibliography/documents-exportes_rn5.bib"
 
+---
 ## 1. INTRODUCTION
 
 The COV-JEUNENFANT<^1> (COVID-Young Child) interdisciplinary project aims to better understand the lived experiences of families with young children (0-6) during the first lockdown in France. Particular attention was paid to the unequal constraints in diverse family settings and their effects on parenting and home schooling. In 2018, single-parent families accounted for 21% of the French [households](https://www.insee.fr/fr/statistiques/4285341 'Insee'). One third was living below the poverty line (@haut_conseil_de_la_famille_les_2014). 3.4% of French children are formally living in dual [residence](https://www.insee.fr/fr/statistiques/5227614#titre-bloc-1 'INSEE_2020'). Assuming that socio-economic insecurity for the former and circulation between homes for the latter were factors potentially amplifying the negative effects of the COVID-19 health crisis restrictions, we intended to look into the daily lives of these particular family configurations coping with educating and caring for young children during the pandemic.
