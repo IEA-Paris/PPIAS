@@ -1,63 +1,59 @@
 ---
 issue: content/issues/WPRN21 Proceedings.md
 keywords:
-  - Newspapers
-  - Twitter
-  - Topicmodels
-  - Infodemic
-  - COVID-19
+- Newspapers
+- Twitter
+- Topicmodels
+- Infodemic
+- COVID-19
 date: 2022-04-11T13:53:04.000+00:00
 language: English
-doi: '169059797'
+doi: "169059797"
 disciplines: ''
 published: true
-article_title:
-  'Dissatisfaction and alternative information in the early stages of
+article_title: 'Dissatisfaction and alternative information in the early stages of
   the Covid-19 pandemic: Comparing contents in Japanese newspapers with Twitter'
 authors:
-  - firstname: Muneo
-    lastname: Kaigo
-    titles_and_institutions:
-      - titles: []
-        institution:
-          Faculty of Humanities and Social Sciences, University of Tsukuba,
-          Japan
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: Yuka
-    lastname: Omoya
-    titles_and_institutions:
-      - titles: []
-        institution:
-          Graduate School of Humanities and Social Sciences, University of
-          Tsukuba, Japan
-    social_channels:
-      researchgate: https://www.researchgate.net/profile/Yuka-Omoya
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      mendeley: ''
-    picture: ''
-    picture_copyright: ''
-    reference: ''
+- firstname: Yuka
+  lastname: Omoya
+  titles_and_institutions:
+  - titles: []
+    institution: Graduate School of Humanities and Social Sciences, University of
+      Tsukuba, Japan
+  social_channels:
+    researchgate: https://www.researchgate.net/profile/Yuka-Omoya
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    mendeley: ''
+  picture: ''
+  picture_copyright: ''
+  reference: ''
+- firstname: Muneo
+  lastname: Kaigo
+  titles_and_institutions:
+  - titles: []
+    institution: Faculty of Humanities and Social Sciences, University of Tsukuba,
+      Japan
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
 custom_pdf: ''
-abstract:
-  The purpose of this study is to examine the way mediated content about the
+abstract: The purpose of this study is to examine the way mediated content about the
   novel coronavirus (COVID-19) outbreak fluctuated in the Japanese information environment
   from January – April 2020. This will be made possible through collecting data and
   making comparisons of the topics that were prevalent in traditional media and social
@@ -72,10 +68,10 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: '/bibliography/documents-exportes_rn2.bib'
+bibliography: "/bibliography/documents-exportes_rn2.bib"
 title: RN2_OmoyaKaigo
----
 
+---
 ## 1. INTRODUCTION
 
 Accompanying the COVID-19 outbreak and lack of accurate information related to this virus, many sources of information were providing various stories or topics in Japan. At the early stage of the outbreak people were aggressively seeking new information because of the uncertainty about the virus. This was creating anxiety and building further suspicion and fear. With so many different channels of information available in the current world, one is less likely to be dependent on a single source of information.
