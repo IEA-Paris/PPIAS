@@ -25,6 +25,12 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - Single-parent families
+  - Shared residence
+  - Lockdown
+  - Parenting
+  - Home schooling
 titles_and_institutions:
   - institution: GIS BECO, Université de Toulouse, France
     titles: []
@@ -32,6 +38,5 @@ titles_and_institutions:
     titles: []
 years:
   - 2022
-  - null
 
 ---

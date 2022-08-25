@@ -25,11 +25,16 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - History of Science
+  - Medicine
+  - Technology and Medicine
+  - Microbes
+  - Antibiotics
 titles_and_institutions:
   - institution: Université de Laval, Canada
     titles: []
 years:
   - 2021
-  - null
 
 ---

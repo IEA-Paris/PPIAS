@@ -24,6 +24,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: Scientific Committee of COST
     titles: []
@@ -31,6 +32,5 @@ titles_and_institutions:
     titles: []
 years:
   - 2022
-  - null
 
 ---

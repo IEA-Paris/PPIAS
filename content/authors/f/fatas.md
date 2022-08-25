@@ -35,12 +35,20 @@ social_channels:
   twitter: https://twitter.com/enriquefatas?lang=fr
   website: https://sites.google.com/view/enriquefatas/
   wikipedia: ''
+tags:
+  - 'Public Discourse, Rhetorics, Communication '
+  - Public Health
+  - 'Risks, Crisis Management '
+  - 'Public Policy, Evaluation, Impact '
+  - 'Human Behaviours, Social Relations '
+  - social dilemma
+  - ' social norm '
+  - globalization
 titles_and_institutions:
   - institution: University of Pennsylvania, USA
     titles: []
 years:
   - '2021'
-  - null
   - 2021
 
 ---

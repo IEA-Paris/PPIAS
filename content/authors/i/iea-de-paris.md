@@ -29,10 +29,10 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions: []
 years:
   - 2022
-  - null
 
 ---
 L'Institut d'études avancées de Paris (IEA de Paris) est un centre de recherche transdisciplinaire qui accueille des chercheurs du monde entier dans les domaines des sciences humaines et sociales et des humanités. Il est également ouvert à d'autres disciplines, en particulier les sciences de la vie, dans le cadre de projets associant les sciences humaines et sociales, ainsi qu'aux recherches intersectorielles avec des acteurs de l'administration, de l'économie et des citoyens.

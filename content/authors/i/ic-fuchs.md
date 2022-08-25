@@ -23,11 +23,11 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: Faculty of Humanities and Social Sciences, University of Zagreb, Croatie
     titles: []
 years:
   - 2022
-  - null
 
 ---

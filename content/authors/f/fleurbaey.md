@@ -35,6 +35,12 @@ social_channels:
   twitter: https://twitter.com/mfleurbaey
   website: https://sites.google.com/site/marcfleurbaey/Home
   wikipedia: https://fr.wikipedia.org/wiki/Marc_Fleurbaey
+tags:
+  - 'Equality & Diversity Studies '
+  - Public Health
+  - 'Work, Welfare, Social protection '
+  - 'Inequalities, Poverty, Development '
+  - 'Public Policy, Evaluation, Impact '
 titles_and_institutions:
   - institution: CNRS, France
     titles: []
@@ -42,7 +48,6 @@ titles_and_institutions:
     titles: []
 years:
   - '2021'
-  - null
   - 2021
 
 ---

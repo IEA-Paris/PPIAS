@@ -24,11 +24,11 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: Institute of Art Studies, Bulgarian Academy of Sciences, Bulgaria
     titles: []
 years:
   - 2022
-  - null
 
 ---

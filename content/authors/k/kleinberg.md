@@ -36,6 +36,13 @@ social_channels:
   twitter: ''
   website: https://bkleinberg.net/
   wikipedia: ''
+tags:
+  - 'Big Data, Artificial Intelligence '
+  - 'Human Behaviours, Social Relations '
+  - 'Public Health '
+  - Gender differences
+  - 'Emotions '
+  - Language
 titles_and_institutions:
   - institution: University College London, United Kingdom
     titles: []
@@ -43,7 +50,6 @@ titles_and_institutions:
     titles: []
 years:
   - '2021'
-  - null
   - 2021
 
 ---

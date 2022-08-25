@@ -24,11 +24,11 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: KU Leuven, Belgium
     titles: []
 years:
   - 2022
-  - null
 
 ---

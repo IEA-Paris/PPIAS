@@ -35,12 +35,19 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - ' Macroeconomics'
+  - Small business
+  - 'Firms, Markets, Finance '
+  - 'Quantitative survey '
+  - 'Public Health '
+  - Innovation, R&D
+  - 'Work, Welfare, Social protection '
 titles_and_institutions:
   - institution: International Food Policy Research Institute, China
     titles: []
 years:
   - '2021'
-  - null
   - 2021
 
 ---

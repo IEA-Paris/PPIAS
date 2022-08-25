@@ -108,12 +108,31 @@ tags:
   - Stopcovid
   - 'police '
   - "\tprivacy"
+  - Inequalities, Poverty, Development
+  - Agriculture, Alimentation
+  - mental health
+  - Social protection
+  - Social Relations
+  - Culture and The Arts
+  - Digital Humanities
+  - Violence, Criminality, Security
+  - Innovation, R&D
+  - Public Discourse, Rhetorics, Communication
+  - Leisure, Tourism
+  - Environmental change, Ecology
+  - outdoor recreation
+  - Religions and Worldviews
+  - Dataset, Data Mining
+  - Qualitative analysis
+  - International Relations and Co-operation
+  - Artificial Intelligence
+  - police
+  - privacy
 titles_and_institutions:
   - institution: IEA de Paris
 years:
   - '2020'
   - '2021'
-  - null
   - 2020
   - 2021
 

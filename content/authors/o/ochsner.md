@@ -25,6 +25,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: European Network for Research Evaluation in the SSH (ENRESSH)
     titles: []
@@ -32,6 +33,5 @@ titles_and_institutions:
     titles: []
 years:
   - 2022
-  - null
 
 ---

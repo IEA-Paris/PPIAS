@@ -38,6 +38,15 @@ social_channels:
   twitter: https://twitter.com/pauliusyamin
   website: https://pauliusyamin.com/
   wikipedia: ''
+tags:
+  - 'Public Discourse, Rhetorics, Communication '
+  - Public Health
+  - 'Risks, Crisis Management '
+  - 'Public Policy, Evaluation, Impact '
+  - 'Human Behaviours, Social Relations '
+  - social dilemma
+  - ' social norm '
+  - globalization
 titles_and_institutions:
   - institution: London School of Economics and Political Science, United Kingdom
     titles: []
@@ -46,7 +55,6 @@ titles_and_institutions:
       - ''
 years:
   - '2021'
-  - null
   - 2021
 
 ---

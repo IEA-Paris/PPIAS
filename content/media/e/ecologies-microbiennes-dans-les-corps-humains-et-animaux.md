@@ -8,6 +8,12 @@ index: 0
 issue: content/issues/Our Microbial Lives.md
 language: French
 picture: ''
+tags:
+  - History of Science
+  - Medicine
+  - Technology and Medicine
+  - Microbes
+  - Antibiotics
 type: youtube
 years: 2021
 

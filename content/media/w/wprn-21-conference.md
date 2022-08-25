@@ -8,6 +8,7 @@ index: 0
 issue: content/issues/WPRN21 Conference.md
 language: English
 picture: ''
+tags: []
 type: youtube
 years: 2021
 

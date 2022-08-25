@@ -25,6 +25,11 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - COVID-19
+  - research method
+  - survey
+  - pandemic preparedness
 titles_and_institutions:
   - institution: >-
       Centre Of Research Excellence: Indigenous Sovereignty & Smoking, New
@@ -32,6 +37,5 @@ titles_and_institutions:
     titles: []
 years:
   - 2022
-  - null
 
 ---

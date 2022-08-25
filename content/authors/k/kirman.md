@@ -23,11 +23,11 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: CAMS-EHESS, France
     titles: []
 years:
   - 2022
-  - null
 
 ---

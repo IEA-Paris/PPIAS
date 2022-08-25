@@ -36,6 +36,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: École normale supérieure, France
     titles: []
@@ -43,7 +44,6 @@ titles_and_institutions:
     titles: []
 years:
   - '2021'
-  - null
   - 2021
 
 ---

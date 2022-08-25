@@ -48,7 +48,6 @@ titles_and_institutions:
       - Vice President
 years:
   - '2021'
-  - null
   - 2021
 
 ---

@@ -24,6 +24,12 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - efficacy e-health
+  - isolation
+  - mental health apps
+  - smartphone interventions
+  - student wellbeing
 titles_and_institutions:
   - institution: Imperial College London, United Kingdom
     titles: []
@@ -32,6 +38,5 @@ titles_and_institutions:
       - ''
 years:
   - 2022
-  - null
 
 ---

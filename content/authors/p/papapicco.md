@@ -29,12 +29,17 @@ social_channels:
   twitter: https://twitter.com/concettapapapi1
   website: ''
   wikipedia: ''
+tags:
+  - Coronavirus
+  - COVID-19
+  - italian infodemia
+  - La Repubblica online
+  - mix method
 titles_and_institutions:
   - institution: University of Bari "Aldo Moro", Italy
     titles: []
 years:
   - 2022
-  - null
 
 ---
 Concetta Papapicco currently works at the Dipartimento di Scienze della Formazione, Psicologia, Comunicazione, Università degli Studi di Bari Aldo Moro as PhD Candidate in Human Relations Science. Research interests: in Organizational Psychology, Social Psychology and Media Psychology.

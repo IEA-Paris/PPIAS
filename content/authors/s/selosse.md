@@ -40,6 +40,11 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Marc-Andr%C3%A9_Selosse
+tags:
+  - History of Science
+  - Microbes
+  - Medicine
+  - Technology and Medicine
 titles_and_institutions:
   - institution: >-
       Institut de Systématique, Évolution, Biodiversité, Muséum national
@@ -47,7 +52,6 @@ titles_and_institutions:
     titles: []
 years:
   - '2021'
-  - null
   - 2021
 
 ---

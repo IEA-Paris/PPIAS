@@ -38,6 +38,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: RFIEA Foundation, France
     titles: []
@@ -45,7 +46,6 @@ titles_and_institutions:
     titles: []
 years:
   - '2021'
-  - null
   - 2021
   - 2022
 

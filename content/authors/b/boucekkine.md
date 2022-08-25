@@ -35,6 +35,9 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - Infectious Diseases
+  - public policies
 titles_and_institutions:
   - institution: Aix-Marseille School of Economics, France
     titles: []
@@ -42,7 +45,6 @@ titles_and_institutions:
     titles: []
 years:
   - '2021'
-  - null
   - 2021
 
 ---

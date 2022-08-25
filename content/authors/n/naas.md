@@ -37,6 +37,12 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - History of Science
+  - Medicine
+  - Technology and Medicine
+  - Microbes
+  - Antibiotics
 titles_and_institutions:
   - institution: Université Paris-Saclay, France
     titles: []
@@ -44,7 +50,6 @@ titles_and_institutions:
     titles: []
 years:
   - '2021'
-  - null
   - 2021
 
 ---

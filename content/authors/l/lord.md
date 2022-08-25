@@ -33,12 +33,17 @@ social_channels:
   twitter: https://twitter.com/ProfPhilLord
   website: ''
   wikipedia: ''
+tags:
+  - COVID-19
+  - Public Policy
+  - Employment
+  - Employment Insurance
+  - Universal Basic Income
 titles_and_institutions:
   - institution: Bora Laskin Faculty Of Law, Lakehead University, Canada
     titles: []
 years:
   - 2022
-  - null
 
 ---
 Phil Lord is an Assistant Professor at Lakehead University’s Bora Laskin Faculty of Law.

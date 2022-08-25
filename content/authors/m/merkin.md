@@ -24,6 +24,11 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - COVID-19
+  - research method
+  - survey
+  - pandemic preparedness
 titles_and_institutions:
   - institution: >-
       Centre for Precise Psychiatry and Neurosciences, Germany/Switzerland;
@@ -31,6 +36,5 @@ titles_and_institutions:
     titles: []
 years:
   - 2022
-  - null
 
 ---

@@ -37,6 +37,7 @@ social_channels:
   twitter: ''
   website: http://helga-nowotny.eu/
   wikipedia: https://en.wikipedia.org/wiki/Helga_Nowotny
+tags: []
 titles_and_institutions:
   - institution: Science and Technology Studies, ETH Zurich
     titles:
@@ -46,7 +47,6 @@ titles_and_institutions:
       - President (2010-2013) and Founding Members (2007)
 years:
   - '2021'
-  - null
   - 2021
   - 2022
 

@@ -23,11 +23,11 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags: []
 titles_and_institutions:
   - institution: European Alliance for Social Sciences and Humanities, France
     titles: []
 years:
   - 2022
-  - null
 
 ---

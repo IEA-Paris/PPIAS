@@ -25,6 +25,12 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+tags:
+  - Newspapers
+  - Twitter
+  - Topicmodels
+  - Infodemic
+  - COVID-19
 titles_and_institutions:
   - institution: >-
       Graduate School of Humanities and Social Sciences, University of Tsukuba,
@@ -32,6 +38,5 @@ titles_and_institutions:
     titles: []
 years:
   - 2022
-  - null
 
 ---
