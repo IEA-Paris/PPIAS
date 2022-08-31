@@ -11,7 +11,7 @@
         text
       ></CiteModal>
 
-      <DoiBadge :doi="item.doi"></DoiBadge>
+      <DoiBadge :doi="item.DOI"></DoiBadge>
       <div id="authors" class="overline mt-6">
         {{ $tc('author_s', item.authors.length) }}
       </div>

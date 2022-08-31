@@ -10,6 +10,7 @@ import config from '../../config.js'
 export default (document) => {
   if (document.dir.startsWith('/articles') && document.published) {
     // we use the issue filter (already sorted by date) to set an index for the fetch of the view by issue
+    // TODO find out why issueIndex is not attributed sometimes
     document.issueIndex = document.issue?.length
       ? filters.articles.filters.issue.items.indexOf(
           document.issue.slice(15, -3)

@@ -53,26 +53,31 @@ export default async (articles) => {
     // used to debug using postman-like extensions:
     /*   console.log('metadata: ', JSON.stringify(metadata)) */
     const metadata = await buildZenodoDocument(document)
-    const entry = await zenodo.depositions.create({ metadata })
-    console.log(`deposition created on Zenodo  for ${document.slug} `)
+
     if (document.fileBuffer) {
       // file exists
+      const entry = await zenodo.depositions.create({ metadata })
+      console.log(`deposition created on Zenodo  for ${document.slug} `)
       await zenodo.files.upload({
         filename: document.slug + '.pdf',
         data: document.fileBuffer,
         deposition: entry.data,
       })
       console.log(`PDF file uploaded on Zenodo for ${document.slug} `)
+
+      const result = await zenodo.depositions.publish({
+        id: entry.data.id,
+      })
+      console.log(`${document.slug} successfully published on Zenodo `)
+      // console.log('result: ', result.data)
+      document.DOI = result.data.doi
+      document.Zid = result.data.id
     } else {
-      console.log('No file uploaded (file missing) for ', document.slug)
+      console.log(
+        'No deposition published on Zenodo : No file available to upload for ',
+        document.slug
+      )
     }
-    const result = await zenodo.depositions.publish({
-      id: entry.data.id,
-    })
-    console.log(`${document.slug} successfully published on Zenodo `)
-    // console.log('result: ', result.data)
-    document.DOI = result.data.doi
-    document.Zid = result.data.id
     return document
   }
   const buildZenodoDocument = async (document) => {

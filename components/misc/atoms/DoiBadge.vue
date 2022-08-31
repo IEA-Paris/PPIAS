@@ -1,9 +1,12 @@
 <template>
-  <v-img
-    v-if="doi"
-    max-width="200"
-    :src="'https://zenodo.org/badge/' + doi + '.svg'"
-  ></v-img>
+  <!-- eslint-disable-next-line vuejs-accessibility/anchor-has-content -->
+  <a :href="'https://doi.org/' + doi" target="_blank">
+    <v-img
+      max-width="200"
+      :src="'https://sandbox.zenodo.org/badge/DOI/' + doi + '.svg'"
+      alt="DOI"
+    ></v-img
+  ></a>
 </template>
 <script>
 export default {

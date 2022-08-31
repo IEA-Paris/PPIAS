@@ -1,105 +1,96 @@
 ---
-DOI: 10.5072/zenodo.1090026
-Zid: 1090026
-abstract: >-
-  The project considers metaphor as a reasoning and a communicative device in
-  health communication, to let people understand an abstract concept,
-  vaccination, in terms of a concrete one, the beehive. The use of metaphors in
-  vaccine communication might be crucial to let people understand vaccination as
-  an important collective health phenomenon. We conducted a study to investigate
-  whether and when a novel metaphor (“the beehive”), extended via the relevant
-  property for vaccination (“cooperative”), can be an effective reasoning and
-  communicative device. We proposed to participants three scenarios, described
-  in both literal vs. metaphorical terms, comparing a safe scenario vs. a “free
-  rider” scenario (undercutting defeater) and a “non-vaccinated community”
-  scenario (rebutting defeater). Indeed, different premises in defeasible
-  reasoning about vaccination could show that uncertain situations, depending on
-  the proportion of unvaccinated people, could make a relevant difference for
-  the conclusion on the need for being cooperative in vaccination. We
-  hypothesized that metaphors could improve the communicative effects of
-  pro-vaccination texts, especially in uncertain reasoning scenarios, in terms
-  of persuasion, emotional impact, trust in experts/institutions, and
-  vaccination intentions. 
+issue: content/issues/WPRN21 Proceedings.md
+keywords:
+- metaphor
+- vaccination
+- defeasible reasoning
+date: 2022-04-13T20:05:34.000+00:00
+language: English
+disciplines: ''
+published: true
 article_title: Metaphors for vaccination and defeasible reasoning
 authors:
-  - firstname: 'Rachele '
-    lastname: Fanari
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-    social_channels:
-      google_scholar: ''
-      instagram: ''
-      linkedin: ''
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      twitter: ''
-      website: ''
-      wikipedia: ''
-    titles_and_institutions:
-      - institution: University of Cagliari, Italy
-        titles: []
-  - firstname: 'Pietro '
-    lastname: Salis
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-    social_channels:
-      google_scholar: ''
-      instagram: ''
-      linkedin: ''
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      twitter: ''
-      website: ''
-      wikipedia: ''
-    titles_and_institutions:
-      - institution: University of Cagliari, Italy
-        titles: []
-  - firstname: 'Francesca '
-    lastname: Ervas
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-    social_channels:
-      google_scholar: ''
-      instagram: ''
-      linkedin: ''
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      twitter: ''
-      website: ''
-      wikipedia: ''
-    titles_and_institutions:
-      - institution: University of Cagliari, Italy
-        titles: []
-bibliography: /bibliography/documents-exportes_rn4.bib
+- firstname: 'Francesca '
+  lastname: Ervas
+  titles_and_institutions:
+  - titles: []
+    institution: University of Cagliari, Italy
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- firstname: 'Pietro '
+  lastname: Salis
+  titles_and_institutions:
+  - titles: []
+    institution: University of Cagliari, Italy
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- firstname: 'Rachele '
+  lastname: Fanari
+  titles_and_institutions:
+  - titles: []
+    institution: University of Cagliari, Italy
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
 custom_pdf: ''
-date: 2022-04-13T20:05:34.000Z
-disciplines: ''
-doi: '169059797'
-highlight: false
-issue: content/issues/WPRN21 Proceedings.md
-tags:
-  - metaphor
-  - vaccination
-  - defeasible reasoning
-language: English
+abstract: 'The project considers metaphor as a reasoning and a communicative device
+  in health communication, to let people understand an abstract concept, vaccination,
+  in terms of a concrete one, the beehive. The use of metaphors in vaccine communication
+  might be crucial to let people understand vaccination as an important collective
+  health phenomenon. We conducted a study to investigate whether and when a novel
+  metaphor (“the beehive”), extended via the relevant property for vaccination (“cooperative”),
+  can be an effective reasoning and communicative device. We proposed to participants
+  three scenarios, described in both literal vs. metaphorical terms, comparing a safe
+  scenario vs. a “free rider” scenario (undercutting defeater) and a “non-vaccinated
+  community” scenario (rebutting defeater). Indeed, different premises in defeasible
+  reasoning about vaccination could show that uncertain situations, depending on the
+  proportion of unvaccinated people, could make a relevant difference for the conclusion
+  on the need for being cooperative in vaccination. We hypothesized that metaphors
+  could improve the communicative effects of pro-vaccination texts, especially in
+  uncertain reasoning scenarios, in terms of persuasion, emotional impact, trust in
+  experts/institutions, and vaccination intentions. '
 picture: ''
 picture_copyright: ''
-published: true
 yt: ''
+highlight: false
+bibliography: "/bibliography/documents-exportes_rn4.bib"
 
 ---
-
-
-
 ## 1. INTRODUCTION
 
-Metaphor can be a useful device to grasp an unknown concept (the target) by using a known concept (the source) (@lakoff*metaphors_1980; @bowdle_career_2005), to explain vaccination, which otherwise might remain unintelligible to lay people. However, metaphor might also influence people’s views about the target, because of its framing effect, which might modify how people reason about a specific problem (@thibodeau_metaphors* 2011, @thibodeau_natural_2013). A variety of metaphors have been proposed in vaccine communication, ranging from the conventional military metaphor of the “garrison” to the novel metaphor of the “beehive” (@ervas_garrison_2018), to let people understand the concept of “herd immunity”. The “herd immunity” is in turn a conventional metaphor, criticized by people who are hesitant to be vaccinated and deplore the fact that it makes them feel like mindless sheep (@biss_immunity_2014).
+Metaphor can be a useful device to grasp an unknown concept (the target) by using a known concept (the source) (@lakoff_metaphors_1980; @bowdle_career_2005), to explain vaccination, which otherwise might remain unintelligible to lay people. However, metaphor might also influence people’s views about the target, because of its framing effect, which might modify how people reason about a specific problem (@thibodeau_metaphors_2011, @thibodeau_natural_2013). A variety of metaphors have been proposed in vaccine communication, ranging from the conventional military metaphor of the “garrison” to the novel metaphor of the “beehive” (@ervas_garrison_2018), to let people understand the concept of “herd immunity”. The “herd immunity” is in turn a conventional metaphor, criticized by people who are hesitant to be vaccinated and deplore the fact that it makes them feel like mindless sheep (@biss_immunity_2014).
 
 Scherer and colleagues (2015) presented texts where flu was metaphorically described (as a beast, riot, army, or weed) to understand the metaphorical framing effect on participants’ vaccination intentions. The results of the study showed that the metaphorical scenarios had some impact on the intention to get vaccinated, especially in the case of hesitant participants. However, the texts presented to participants were focused on reasoning scenarios that was _consistent_ with the metaphorical frame. In other words, participants’ disposition to get vaccinated was assessed via a text that did not bring participants to question the metaphorical frame. On the contrary, in every-day life specific reasoning scenarios may defeat conclusions about the necessity for vaccination to be collective, ranging from the phenomenon of single “free riders” to entire “no-vax communities”. However, no empirical study on the effects of metaphor for vaccination in defeasible reasoning conditions was conducted and it would be important in the current COVID-19 pandemic.
 

@@ -7,13 +7,23 @@ import generateMedia from './generateMedia'
 import makeFiltersData from './makeFiltersData'
 import processArticles from './processArticles'
 import makeBibliography from './makeBibliography'
+let once = true // dirty trick to avoid executing the hooks twice during the nuxt generate command. If not, nuxt would retrigger them each time we manually update the articles files content.
 export default {
   hooks: {
     'content:ready': async (content) => {
-      await processArticles(content)
-      await generateMedia(content)
-      await mergeAuthors(content)
-      await makeFiltersData()
+      console.log(`
+      CONTENT READY
+      
+      `)
+      if (once) {
+        console.log('starting once')
+        once = false
+        await processArticles(content)
+        await generateMedia(content)
+        await mergeAuthors(content)
+        await makeFiltersData()
+        once = true
+      }
     },
     'content:file:beforeInsert': async (document, database) => {
       document = {

@@ -1,87 +1,75 @@
 ---
-DOI: 10.5072/zenodo.1090020
-Zid: 1090020
-abstract: >-
-  The purpose of this study is to examine the way mediated content about the
-  novel coronavirus (COVID-19) outbreak fluctuated in the Japanese information
-  environment from January – April 2020. This will be made possible through
-  collecting data and making comparisons of the topics that were prevalent in
-  traditional media and social media before and after the pandemic declaration
-  by the WHO. As early as February 2020, the WHO has been labelling this
-  outbreak as a dangerous infodemic therefore this study aims at providing
-  analysis results that will concisely present an accurate and objective view of
-  the types of topics in traditional and social media. This study hopes to also
-  present analysis results that can provide governments with new insight on
-  resolving the discontent towards lack of information and suspicion among
-  citizens.
-article_title: >-
-  Dissatisfaction and alternative information in the early stages of the
-  Covid-19 pandemic: Comparing contents in Japanese newspapers with Twitter
-authors:
-  - firstname: Muneo
-    lastname: Kaigo
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-    social_channels:
-      google_scholar: ''
-      instagram: ''
-      linkedin: ''
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      twitter: ''
-      website: ''
-      wikipedia: ''
-    titles_and_institutions:
-      - institution: >-
-          Faculty of Humanities and Social Sciences, University of Tsukuba,
-          Japan
-        titles: []
-  - firstname: Yuka
-    lastname: Omoya
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-    social_channels:
-      google_scholar: ''
-      instagram: ''
-      linkedin: ''
-      mendeley: ''
-      orcid: ''
-      researchgate: https://www.researchgate.net/profile/Yuka-Omoya
-      twitter: ''
-      website: ''
-      wikipedia: ''
-    titles_and_institutions:
-      - institution: >-
-          Graduate School of Humanities and Social Sciences, University of
-          Tsukuba, Japan
-        titles: []
-bibliography: /bibliography/documents-exportes_rn2.bib
-custom_pdf: ''
-date: 2022-04-11T13:53:04.000Z
-disciplines: ''
-doi: '169059797'
-highlight: false
 issue: content/issues/WPRN21 Proceedings.md
-tags:
-  - Newspapers
-  - Twitter
-  - Topicmodels
-  - Infodemic
-  - COVID-19
+keywords:
+- Newspapers
+- Twitter
+- Topicmodels
+- Infodemic
+- COVID-19
+date: 2022-04-11T13:53:04.000+00:00
 language: English
+disciplines: ''
+published: true
+article_title: 'Dissatisfaction and alternative information in the early stages of
+  the Covid-19 pandemic: Comparing contents in Japanese newspapers with Twitter'
+authors:
+- firstname: Yuka
+  lastname: Omoya
+  titles_and_institutions:
+  - titles: []
+    institution: Graduate School of Humanities and Social Sciences, University of
+      Tsukuba, Japan
+  social_channels:
+    researchgate: https://www.researchgate.net/profile/Yuka-Omoya
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    mendeley: ''
+  picture: ''
+  picture_copyright: ''
+  reference: ''
+- firstname: Muneo
+  lastname: Kaigo
+  titles_and_institutions:
+  - titles: []
+    institution: Faculty of Humanities and Social Sciences, University of Tsukuba,
+      Japan
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+custom_pdf: ''
+abstract: The purpose of this study is to examine the way mediated content about the
+  novel coronavirus (COVID-19) outbreak fluctuated in the Japanese information environment
+  from January – April 2020. This will be made possible through collecting data and
+  making comparisons of the topics that were prevalent in traditional media and social
+  media before and after the pandemic declaration by the WHO. As early as February
+  2020, the WHO has been labelling this outbreak as a dangerous infodemic therefore
+  this study aims at providing analysis results that will concisely present an accurate
+  and objective view of the types of topics in traditional and social media. This
+  study hopes to also present analysis results that can provide governments with new
+  insight on resolving the discontent towards lack of information and suspicion among
+  citizens.
 picture: ''
 picture_copyright: ''
-published: true
-title: RN2_OmoyaKaigo
 yt: ''
-
+highlight: false
+bibliography: "/bibliography/documents-exportes_rn2.bib"
+title: RN2_OmoyaKaigo
 ---
-
-
-
 ## 1. INTRODUCTION
 
 Accompanying the COVID-19 outbreak and lack of accurate information related to this virus, many sources of information were providing various stories or topics in Japan. At the early stage of the outbreak people were aggressively seeking new information because of the uncertainty about the virus. This was creating anxiety and building further suspicion and fear. With so many different channels of information available in the current world, one is less likely to be dependent on a single source of information.
