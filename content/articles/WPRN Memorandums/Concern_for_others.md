@@ -20,8 +20,10 @@ pinned: false
 highlight: true
 bibliography: "/bibliography/documents-exportes_memo1.bib"
 authors:
-- firstname: Victor
-  lastname: Galonnier
+- firstname: Saadi
+  lastname: Lahlou
+  titles_and_institutions:
+  - institution: Paris Institute for Advanced Study
 abstract: |-
   Social psychology studies typically focus on social norms to understand, anticipate and influence the behaviours of individuals and groups (to simplify: «others do it, so do it too»). While norms can be produced by groups themselves, it is primarily institutions (often governments) that prescribe desired behaviours.
   In the case of the Covid-19 pandemic, the authorities asked for unusual instructions that contradicted generally valued behaviours: isolation and social distancing rather than social activities and rituals (going out, consumption, physical contact).
