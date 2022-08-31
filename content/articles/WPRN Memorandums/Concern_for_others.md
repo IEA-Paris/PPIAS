@@ -20,6 +20,10 @@ pinned: false
 highlight: true
 bibliography: "/bibliography/documents-exportes_memo1.bib"
 authors:
+- firstname: Simon
+  lastname: Luck
+  titles_and_institutions:
+  - institution: Paris Institute for Advanced Study
 - firstname: Saadi
   lastname: Lahlou
   titles_and_institutions:
