@@ -229,11 +229,11 @@ module.exports = async function PDF(moduleOptions) {
 
     for (let i = 0; i < routes.length; i++) {
       const route = routes[i]
-      /*      console.log(
+      console.log(
         chalk.cyan('↻') +
           ` Generating PDF ${i + 1}:${routes.length} at route ` +
           route.route
-      ) */
+      )
 
       try {
         // Merge route meta with defaults from config.
@@ -351,11 +351,11 @@ module.exports = async function PDF(moduleOptions) {
         await page.close()
         await browser.close()
       } catch (e) {
-        /*        console.log(
+        console.log(
           `${chalk.red('𐄂')} Failed to generated PDF ${i + 1}:${
             routes.length
           } at route ${route.route} error: ${e.message}`
-        ) */
+        )
       } finally {
         if (browser !== null) {
           await browser.close()
