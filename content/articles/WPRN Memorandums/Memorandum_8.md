@@ -19,8 +19,8 @@ tag:
 date: 2020-10-31T23:00:00.000+00:00
 article_title: 'Covid 19 and Politics: The contrasting influence of political rhetoric
   on perceptions of the pandemic '
-picture: ''
-picture_copyright: ''
+picture: "/politique_charles-deluvio-9bxl-vn22do-unsplash.jpg"
+picture_copyright: Unsplash
 yt: ''
 published: true
 category1:
@@ -66,7 +66,7 @@ keywords:
 - 'Inequalities, Poverty, Development '
 language: English
 doi: "169059797"
-custom_pdf: "/politique_charles-deluvio-9bxl-vn22do-unsplash.jpg"
+custom_pdf: ''
 
 ---
 Governments have responded to the pandemic with an arsenal of public policies certainly never before deployed on this scale in peacetime. To justify these measures (social distancing, confinement, etc.), the political figures in power have developed a variety of political rhetoric. What arguments have been put forward the most? By what means of communication? How were they received by voters? What role did party cleavages play in the perception of discourse and in the application of measures proposed by decision-makers? Several studies in the WPRN database analyze the political rhetoric developed during the pandemic and its central role in citizens’ perception of the dangerousness of the virus and their compliance with health measures.
