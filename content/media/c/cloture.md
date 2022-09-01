@@ -8,7 +8,6 @@ index: 0
 issue: content/issues/Our Microbial Lives.md
 language: French
 picture: ''
-tags: []
 type: youtube
 years: 2021
 

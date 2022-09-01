@@ -53,7 +53,7 @@
                   <div class="overline">{{ $t('issue') }}</div>
                   <v-divider></v-divider>
                   <div
-                    class="page-title"
+                    class="page-title pb-6"
                     :class="
                       ($store.state.scrolled ? 'mb-9' : 'mb-6',
                       item.name_of_the_issue &&
@@ -62,6 +62,16 @@
                         : '')
                     "
                     v-html="item.name_of_the_issue || item.title"
+                  ></div>
+                  <div
+                    class="page-subtitle pb-3"
+                    :class="
+                      ($store.state.scrolled ? 'mb-9' : 'mb-6',
+                      item.subtitle && item.subtitle.length > 80
+                        ? 'smaller'
+                        : '')
+                    "
+                    v-html="item.subtitle"
                   ></div>
                   <div class="overline mb-6">
                     {{

@@ -10,14 +10,6 @@ index: 0
 issue: content/issues/WPRN21 Conference.md
 language: English
 picture: ''
-tags:
-  - ' Macroeconomics'
-  - Small business
-  - 'Firms, Markets, Finance '
-  - 'Quantitative survey '
-  - 'Public Health '
-  - Innovation, R&D
-  - 'Work, Welfare, Social protection '
 type: youtube
 years: 2021
 

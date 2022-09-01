@@ -10,9 +10,6 @@ index: 0
 issue: content/issues/WPRN21 Conference.md
 language: English
 picture: ''
-tags:
-  - Infectious Diseases
-  - public policies
 type: youtube
 years: 2021
 

@@ -8,12 +8,6 @@ index: 0
 issue: content/issues/WPRN21 Conference.md
 language: English
 picture: ''
-tags:
-  - 'Cities, Mobility, Urban Planning '
-  - 'Environmental change, Ecology '
-  - 'Public Health '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Big Data, Artificial Intelligence '
 type: youtube
 years: 2021
 

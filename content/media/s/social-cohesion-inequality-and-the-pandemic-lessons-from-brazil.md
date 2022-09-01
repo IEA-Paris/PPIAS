@@ -8,12 +8,6 @@ index: 0
 issue: content/issues/WPRN21 Conference.md
 language: English
 picture: ''
-tags:
-  - 'Public Health '
-  - Human Behaviours, Social Relations
-  - 'Inequalities, Poverty, Development '
-  - 'Risks, Crisis Management '
-  - 'Public Policy, Evaluation, Impact '
 type: youtube
 years: 2021
 

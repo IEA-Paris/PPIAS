@@ -31,6 +31,7 @@ export default {
   font-size: 3.5rem;
   font-weight: 500;
   max-width: 1200px;
+  line-height: 1.2;
 }
 .page-title.smaller {
   font-size: 3rem;
@@ -71,6 +72,57 @@ export default {
   }
   .page-title.smaller {
     font-size: 1.8rem;
+    max-width: 800px;
+  }
+}
+
+.page-subtitle {
+  font-size: 2rem;
+  font-weight: 500;
+  max-width: 1200px;
+  color: #959595;
+  line-height: 1.2;
+  font-style: italic;
+}
+.page-subtitle.smaller {
+  font-size: 1.8rem;
+  max-width: 1200px;
+}
+@media #{map-get($display-breakpoints, 'lg-only')} {
+  .page-subtitle {
+    font-size: 2rem;
+    max-width: 900px;
+  }
+  .page-subtitle.smaller {
+    font-size: 1.8rem;
+    max-width: 900px;
+  }
+}
+@media #{map-get($display-breakpoints, 'md-only')} {
+  .page-subtitle {
+    font-size: 1.8rem;
+    max-width: 800px;
+  }
+  .page-subtitle.smaller {
+    font-size: 1.6rem;
+    max-width: 800px;
+  }
+}
+@media #{map-get($display-breakpoints, 'sm-only')} {
+  .page-subtitle {
+    font-size: 1.7rem;
+  }
+  .page-subtitle.smaller {
+    font-size: 1.5rem;
+    max-width: 800px;
+  }
+}
+@media #{map-get($display-breakpoints, 'xs-only')} {
+  .page-subtitle {
+    font-size: 1.7rem;
+  }
+  .page-subtitle.smaller {
+    font-size: 1.5rem;
     max-width: 800px;
   }
 }

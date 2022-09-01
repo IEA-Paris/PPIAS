@@ -8,15 +8,6 @@ index: 0
 issue: content/issues/WPRN21 Conference.md
 language: English
 picture: ''
-tags:
-  - 'Public Discourse, Rhetorics, Communication '
-  - Public Health
-  - 'Risks, Crisis Management '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Human Behaviours, Social Relations '
-  - social dilemma
-  - ' social norm '
-  - globalization
 type: youtube
 years: 2021
 

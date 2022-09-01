@@ -10,12 +10,6 @@ index: 0
 issue: content/issues/WPRN21 Conference.md
 language: English
 picture: ''
-tags:
-  - 'Equality & Diversity Studies '
-  - Public Health
-  - 'Work, Welfare, Social protection '
-  - 'Inequalities, Poverty, Development '
-  - 'Public Policy, Evaluation, Impact '
 type: youtube
 years: 2021
 
