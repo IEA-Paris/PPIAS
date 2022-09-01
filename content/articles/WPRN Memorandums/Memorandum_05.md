@@ -8,7 +8,7 @@ tag:
 - Human Behaviours, Social Relations
 - 'Work, Welfare, Social protection '
 date: 2020-08-31T22:00:00.000+00:00
-article_title: 'Covid 19 and employment upheavals: worried employees'
+article_title: 'COVID-19 and Employment Upheavals: Worried Employees'
 picture: "/how-did-employment-change-during-the-covid-19-1.png"
 picture_copyright: ''
 yt: ''

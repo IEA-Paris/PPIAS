@@ -14,7 +14,7 @@ tag:
 - Equality & Diversity Studies
 - Psychological
 date: 2020-06-30T22:00:00.000+00:00
-article_title: Impact of Covid 19 on students
+article_title: Impact of COVD-19 on Students
 picture: "/class-5120376_1280.jpg"
 picture_copyright: ''
 yt: ''

@@ -12,8 +12,7 @@ tag:
 - 'Inequalities, Poverty, Development '
 - 'Innovation, R&D '
 date: 2020-09-01T21:00:00.000+00:00
-article_title: 'Teleworking : a better quality of life for the employee but risks
-  of isolation and of losing contact with the employer '
+article_title: 'Teleworking : Better Quality of Life but Risks of Isolation'
 picture: "/keyboard-pacifier.jpg"
 picture_copyright: ''
 yt: ''
