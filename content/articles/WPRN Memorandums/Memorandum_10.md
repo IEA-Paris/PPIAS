@@ -21,7 +21,7 @@ language: English
 doi: "169059797"
 disciplines: ''
 published: true
-article_title: 'COVID-19 and Food -  Food Security: A Major Concern for Households'
+article_title: 'COVID-19 and Food: Food Security: A Major Concern for Households'
 authors:
 - firstname: 'Aurélie '
   lastname: 'Louchart '
