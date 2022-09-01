@@ -12,7 +12,7 @@ article_title: 'COVID-19 and Employment Upheavals: Worried Employees'
 picture: "/how-did-employment-change-during-the-covid-19-1.png"
 picture_copyright: ''
 yt: ''
-published: false
+published: true
 pinned: false
 bibliography: "/bibliography/documents-exportes_memo5.bib"
 authors:
