@@ -1,51 +1,50 @@
 ---
 issue: content/issues/WPRN Memorandums.md
 tag:
-  - Students
-  - Stress
-  - Depression
-  - ' mental health'
-  - Education
-  - Public Health
-  - 'Social protection '
-  - 'Social Relations '
-  - Human Behaviours
-  - Public Policy, Evaluation, Impact
-  - Equality & Diversity Studies
-  - Psychological
+- Students
+- Stress
+- Depression
+- " mental health"
+- Education
+- Public Health
+- 'Social protection '
+- 'Social Relations '
+- Human Behaviours
+- Public Policy, Evaluation, Impact
+- Equality & Diversity Studies
+- Psychological
 date: 2020-06-30T22:00:00.000+00:00
 article_title: Impact of Covid 19 on students
-picture: '/class-5120376_1280.jpg'
+picture: "/class-5120376_1280.jpg"
 picture_copyright: ''
 yt: ''
 published: true
 pinned: false
-bibliography: '/bibliography/documents-exportes_memo3.bib'
+bibliography: "/bibliography/documents-exportes_memo3.bib"
 authors:
-  - firstname: 'Victor '
-    lastname: 'Galonnier '
+- firstname: 'Victor '
+  lastname: 'Galonnier '
 abstract: |-
   The social distancing measures taken by the authorities in response to Covid 19 have had major economic and psychological consequences on the population. In particular, students were subject to major disruption. Social science research has shown that students constitute a fragile social category, more prone to anxiety than the rest of the population and thus particularly exposed during major upheavals such as the Covid 19 epidemic.
   Memorandum 3 : overview of the studies and projects registered on WPRN database
-
 highlight: false
 keywords:
-  - 'Human Behaviours, Social Relations '
-  - Education
-  - 'Public Health '
-  - Human Behaviours, Social Relations
-  - 'Work, Welfare, Social protection '
-  - 'Democracy, Civil Society, Governance '
-  - 'Public Policy, Evaluation, Impact '
-  - 'International Relations and Co-operation '
-  - 'Equality & Diversity Studies '
-  - Mental Health
-  - Psychology
-  - Stress
+- 'Human Behaviours, Social Relations '
+- Education
+- 'Public Health '
+- Human Behaviours, Social Relations
+- 'Work, Welfare, Social protection '
+- 'Democracy, Civil Society, Governance '
+- 'Public Policy, Evaluation, Impact '
+- 'International Relations and Co-operation '
+- 'Equality & Diversity Studies '
+- Mental Health
+- Psychology
+- Stress
 language: English
-doi: '169059797'
----
+doi: "169059797"
 
+---
 The social distancing measures taken by the authorities in response to Covid 19 have had major economic and psychological consequences on the population. In particular, students were subject to major disruption. Social science research has shown that students constitute a fragile social category, more prone to anxiety than the rest of the population and thus particularly exposed during major upheavals such as the Covid 19 epidemic. Several studies carried out or in progress highlight the impact of measures against Covid 19, in particular containment, on the mental health of students. More studies should now focus on the medium- and long-term consequences for students, in particular the consequences of educational changes at university and the economic and social consequences of the current crisis.
 
 ### Students: a social category particularly prone to mental health problems and external stressors.
