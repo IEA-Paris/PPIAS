@@ -2,16 +2,25 @@
 label: Author
 hide_body: false
 fields:
+- name: is_institution
+  type: boolean
+  description: Does this author document refers to an institution? (No firstname then,
+    only the name of the institution is required)
+  label: Is it an Institution?
 - name: firstname
   type: text
   config:
     required: true
   label: Firstname
+  showOnly:
+    field: is_institution
 - name: lastname
   type: text
   config:
     required: true
-  label: Lastname
+  label: Lastname or Institution name
+  showOnly:
+    value: true
 - name: titles_and_institutions
   type: field_group_list
   fields:
@@ -21,7 +30,7 @@ fields:
       use_select: false
       min: 
       max: 
-    label: Titles
+    label: Positions
   - name: institution
     type: text
     config:
@@ -31,12 +40,14 @@ fields:
     min: 
     max: 
     labelField: 
-  label: Titles and institutions
+  label: Positions and institutions
+  description: E.g. Scientific Director (position <em>facultative</em>), PARIS IAS,
+    FRANCE (Institution <em>mandatory</em>)
 - name: picture
   type: text
   config:
     required: false
-  label: PIcture
+  label: Picture
   description: URL of the picture
 - name: picture_copyright
   type: text
@@ -98,25 +109,6 @@ fields:
       required: false
     label: Mendeley
   label: Social channels
-- name: reference
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: authors
-      file: 
-      path: 
-  label: Reference
-  description: This will be used to distinguish between homonyms. Facultative field.
-    If not provided, orcid (if available) or firstname + lastname will be used to
-    match articles authors against a unique person.
-- name: is_institution
-  type: boolean
-  label: institution
-  description: Does this author document refers to an institution?
 pages:
 - content/authors/b/beebee.md
 - content/authors/b/bonaccorsi.md

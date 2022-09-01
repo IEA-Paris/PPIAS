@@ -7,6 +7,15 @@ fields:
   config:
     required: true
   label: Name of the issue
+- name: subtitle
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Subtitle
 - name: cover
   type: file
   config:
@@ -23,4 +32,5 @@ fields:
     display_utc: false
   default: now
 pages:
+- content/issues/Agir en temps de crise - 2021.md
 - content/issues/HCERES - PFUE 2022.md

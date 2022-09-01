@@ -1,45 +1,43 @@
 ---
 issue: content/issues/WPRN Memorandums.md
 tag:
-  - 'Human Behaviours, Social Relations '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Risks, Crisis Management '
-  - 'Culture and The Arts '
-  - 'Digital Humanities '
-  - 'Work, Welfare, Social protection '
-  - 'Violence, Criminality, Security '
-  - 'Public Health '
-  - 'Inequalities, Poverty, Development '
-  - 'Innovation, R&D '
+- 'Human Behaviours, Social Relations '
+- 'Public Policy, Evaluation, Impact '
+- 'Risks, Crisis Management '
+- 'Culture and The Arts '
+- 'Digital Humanities '
+- 'Work, Welfare, Social protection '
+- 'Violence, Criminality, Security '
+- 'Public Health '
+- 'Inequalities, Poverty, Development '
+- 'Innovation, R&D '
 date: 2020-09-01T21:00:00.000+00:00
-article_title:
-  'Teleworking : a better quality of life for the employee but risks
-  of isolation and of losing contact with the employer '
-picture: '/keyboard-pacifier.jpg'
+article_title: 'Teleworking : Better Quality of Life but Risks of Isolation'
+picture: "/keyboard-pacifier.jpg"
 picture_copyright: ''
 yt: ''
 published: true
 pinned: false
 highlight: false
-bibliography: '/bibliography/documents-exportes_memo4.bib'
+bibliography: "/bibliography/documents-exportes_memo4.bib"
 authors:
-  - firstname: 'Victor '
-    lastname: 'Galonnier '
+- firstname: 'Victor '
+  lastname: 'Galonnier '
 abstract: |-
   The social distancing and health protection measures taken in response to the Covid 19 pandemic have led companies to make massive use of teleworking. According to a study by the French Ministry of Labor, one employee in four teleworked during the confinement in France, two out of three of whom had not experimented with this practice, according to a study conducted by the CGT trade union. Many workers, mostly managers, thus began to work remotely for part of the week or the entire week, a practice that is causing debate as to the relevance of its generalization in the future.
   Memorandum 4 : overview of the studies and projects registered on WPRN database
 keywords:
-  - 'Work, Welfare, Social protection '
-  - Public Policy, Evaluation, Impact
-  - 'Inequalities, Poverty, Development '
-  - 'Equality & Diversity Studies '
-  - 'Human Behaviours, Social Relations '
-  - 'Public Health '
-  - Social and Personality Psychology
-  - Teleworking
+- 'Work, Welfare, Social protection '
+- Public Policy, Evaluation, Impact
+- 'Inequalities, Poverty, Development '
+- 'Equality & Diversity Studies '
+- 'Human Behaviours, Social Relations '
+- 'Public Health '
+- Social and Personality Psychology
+- Teleworking
 language: English
----
 
+---
 The social distancing and health protection measures taken in response to the Covid 19 pandemic have led companies to make massive use of teleworking. According to a [study](https://dares.travail-emploi.gouv.fr/sites/default/files/pdf/dares_acemo_covid19_synthese_17-04-2020.pdf 'DARES') by the French Ministry of Labor, one employee in four teleworked during the confinement in France, two out of three of whom had not experimented with this practice, according to a [study](https://luttevirale.fr/wp-content/uploads/2020/05/RAPPORT-ENQUETE-UGICT-CGT-ss-embargo-V2.pdf 'CGT') conducted by the CGT trade union. Many workers, mostly managers, thus began to work remotely for part of the week or the entire week, a practice that is causing debate as to the relevance of its generalization in the future.
 
 As summarized in a [study](https://psyarxiv.com/vnkwa/ 'Psyarxiv') by the University of Kennesaw in the United States reviewed on WPRN, research on telework prior to the Covid 19 pandemic shows undeniable benefits: elimination of commuting, increased productivity and motivation, reduced work stress, greater flexibility. Important challenges are also highlighted: reduction in the quality of communication between employees, difficulties in managing remote workers for the employer, reduction in creativity.

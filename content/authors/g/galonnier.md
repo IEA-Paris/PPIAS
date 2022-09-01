@@ -11,6 +11,14 @@ articles:
   - Memorandum_7
   - Memorandum_8
   - Covid_19_and_employment
+  - Memorandum_03
+  - Memorandum_04
+  - Memorandum_05
+  - Memorandum_06
+  - Memorandum_07
+  - Memorandum_08
+  - Memorandum_09
+  - memorandum_02
 categories:
   - content/categories/WPRN.md
 category:
