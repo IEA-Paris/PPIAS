@@ -16,5 +16,6 @@ years:
 - 2020
 social_channels:
   orcid: 0000-0001-9413-5771
+reference: content/authors/l/luck.md
 
 ---
