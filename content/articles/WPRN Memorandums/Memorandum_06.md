@@ -16,7 +16,7 @@ article_title: 'Gendered Responses and Reinforced Inequalities: The Pandemic as 
 picture: "/jeshoots-com-__zmnefoi3k-unsplash-1024x683.jpg"
 picture_copyright: ''
 yt: ''
-published: false
+published: true
 pinned: false
 bibliography: ''
 authors:
