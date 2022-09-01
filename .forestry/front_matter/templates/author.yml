@@ -41,7 +41,8 @@ fields:
     max: 
     labelField: 
   label: Positions and institutions
-  description: E.g. Scientific Director (position), PARIS IAS (Institution)
+  description: E.g. Scientific Director (position <em>facultative</em>), PARIS IAS,
+    FRANCE (Institution <em>mandatory</em>)
 - name: picture
   type: text
   config:
