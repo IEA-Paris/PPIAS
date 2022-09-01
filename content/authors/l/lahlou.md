@@ -10,6 +10,7 @@ articles:
   - 1.0.0 Lahlou Intro session Livres
   - 3 Lahlou Intro session Livres
   - Concern_for_others
+  - Memorandum_01
 categories:
   - content/categories/WPRN21.md
   - []

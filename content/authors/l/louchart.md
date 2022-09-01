@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - Memorandum_10b
+  - Memorandum_10
 exerpt: ''
 firstname: Aurélie
 issue:
