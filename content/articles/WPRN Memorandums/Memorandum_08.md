@@ -17,8 +17,8 @@ tag:
 - 'Inequalities, Poverty, Development '
 - Equality & Diversity Studies
 date: 2020-10-31T23:00:00.000+00:00
-article_title: 'Covid 19 and Politics: The contrasting influence of political rhetoric
-  on perceptions of the pandemic '
+article_title: 'COVID-19 and Politics: The Contrasting Influence of Political Rhetoric
+  on Perceptions of the Pandemic '
 picture: "/politique_charles-deluvio-9bxl-vn22do-unsplash.jpg"
 picture_copyright: Unsplash
 yt: ''
