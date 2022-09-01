@@ -177,76 +177,77 @@ When created, only documents with needDOI set to true will get a generated DOI.
         )
       ) {
         // file exists
-        document.fileBuffer = await fs.readFileSync(
-          path.resolve(
-            process.env.NODE_ENV !== 'production' ? 'static/pdfs' : 'pdfs',
-            document.slug + '.pdf'
-          )
-        )
+        document.fileBuffer =
+          (await fs.readFileSync(
+            path.resolve(
+              process.env.NODE_ENV !== 'production' ? 'static/pdfs' : 'pdfs',
+              document.slug + '.pdf'
+            )
+          )) || false
         document.checksum = generateChecksum(document.fileBuffer)
+
+        /*       console.log('document.checksum: ', document.checksum) */
+        const sameChecksum = hasSameChecksum(records.data || [], document)
+        /*       console.log('sameChecksum: ', sameChecksum) */
+        const sameIdOrDoi = hasSameIdOrDoi(records.data || [], document)
+        /*       console.log('sameIdOrDoi: ', sameIdOrDoi) */
+        // check if the article already exists on Zenodo:
+        if (!sameIdOrDoi && !sameChecksum) {
+          console.log(
+            'NO article matching on Zenodo for ',
+            document.article_title,
+            '- generating new document'
+          )
+          // no article matching on Zenodo, let's proceed with creation
+          await createArticleOnZenodo(document)
+        } else {
+          console.log(
+            'FOUND articles matching on Zenodo for ',
+            document.article_title
+          )
+          if (!sameChecksum) {
+            console.log(
+              'Article matching on Zenodo but different file checksum for ',
+              document.article_title,
+              'updating with the new PDF version...'
+            )
+            const metadata = await buildZenodoDocument(document)
+            const entry = await zenodo.depositions.update(document.Zid, {
+              metadata,
+            })
+            console.log(`deposition updated for ${document.slug} `)
+            await zenodo.files.upload({
+              filename: document.slug + '.pdf',
+              data: document.fileBuffer,
+              deposition: entry.data,
+            })
+            console.log(`PDF file uploaded for ${document.slug} `)
+            const result = await zenodo.depositions.publish({
+              id: entry.data.id,
+            })
+            console.log(`${document.slug} successfully updated`)
+            // console.log('result: ', result.data)
+            document.DOI = result.data.doi
+            document.Zid = result.data.id
+            await updateArticleDoiAndZid(document)
+          } else {
+            console.log('No changes to be done for ', document.article_title)
+          }
+          // If the article exists, let's check if the checksum requires us to make a revision or not
+          /*   console.log('sameChecksum: ', sameChecksum) */
+        }
       } else {
         document.fileBuffer = false
         document.checksum = false
-      }
-
-      console.log('document.checksum: ', document.checksum)
-      const sameChecksum = hasSameChecksum(records.data || [], document)
-      console.log('sameChecksum: ', sameChecksum)
-      const sameIdOrDoi = hasSameIdOrDoi(records.data || [], document)
-      console.log('sameIdOrDoi: ', sameIdOrDoi)
-      // check if the article already exists on Zenodo:
-      if (!sameIdOrDoi && !sameChecksum) {
-        console.log(
-          'NO article matching on Zenodo for ',
-          document.article_title,
-          '- generating new document'
-        )
-        // no article matching on Zenodo, let's proceed with creation
-        await createArticleOnZenodo(document)
-      } else {
-        console.log(
-          'FOUND articles matching on Zenodo for ',
-          document.article_title
-        )
-        if (!sameChecksum) {
-          console.log(
-            'Article matching on Zenodo but different file checksum for ',
-            document.article_title,
-            'updating with the new PDF version...'
-          )
-          const metadata = await buildZenodoDocument(document)
-          const entry = await zenodo.depositions.update(document.Zid, {
-            metadata,
-          })
-          console.log(`deposition updated for ${document.slug} `)
-          await zenodo.files.upload({
-            filename: document.slug + '.pdf',
-            data: document.fileBuffer,
-            deposition: entry.data,
-          })
-          console.log(`PDF file uploaded for ${document.slug} `)
-          const result = await zenodo.depositions.publish({
-            id: entry.data.id,
-          })
-          console.log(`${document.slug} successfully updated`)
-          // console.log('result: ', result.data)
-          document.DOI = result.data.doi
-          document.Zid = result.data.id
-          await updateArticleDoiAndZid(document)
-        } else {
-          console.log('No changes to be done for ', document.article_title)
-        }
-        // If the article exists, let's check if the checksum requires us to make a revision or not
-        /*   console.log('sameChecksum: ', sameChecksum) */
       }
       return document
     } catch (error) {
       console.log('error: ', error)
       console.log('at: ', document.article_title)
-      console.log(
+      /*      console.log(
         'metadata: ',
         JSON.stringify(await buildZenodoDocument(document))
-      )
+      ) */
     }
   }
   const input = articles

@@ -26,12 +26,14 @@ export default {
         '/media',
         '/authors',
         ...(
-          await $content('articles', { deep: true, published: true })
+          await $content('articles', { deep: true })
+            .where({ published: true })
             .only(['slug'])
             .fetch()
         ).map((file) => '/articles/' + file.slug),
         ...(
-          await $content('authors', { deep: true, active: true })
+          await $content('authors', { deep: true })
+            .where({ active: true })
             .only(['slug'])
             .fetch()
         ).map((file) => '/authors/' + file.slug),
@@ -457,7 +459,7 @@ export default {
     /*
      * Output folder for generated pdf.
      */
-    dir: 'static',
+    dir: 'static/pdfs',
 
     /*
      * Function options for page.pdf([options])

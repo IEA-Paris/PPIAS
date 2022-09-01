@@ -225,9 +225,9 @@ export const generateChecksum = (str, algorithm, encoding) => {
     .digest(encoding || 'hex')
 }
 export const writePrintRoutes = async () => {
-  /*   // first, we clean existing files
+  // first, we clean existing files
   const targetFolder = path.resolve('static/pdfs')
-  if (!fs.existsSync(targetFolder)) {
+  /*   if (!fs.existsSync(targetFolder)) {
     fs.mkdirSync(targetFolder, { recursive: true })
   } else {
     fsExtra.emptyDirSync(targetFolder)
@@ -238,8 +238,12 @@ export const writePrintRoutes = async () => {
   // TODO : replace {published:true} with dynamic filters from import
   const articles = await $content('articles', { deep: true })
     // TODO check that custom_PDF is correctly evaluated
-    .where({ published: true, custom_pdf: false })
+    .where({ $and: [{ published: true }, { custom_pdf: { $ne: true } }] })
     .fetch()
+  console.log(
+    'articles: ',
+    articles.map((art) => art.article_title)
+  )
 
   return articles.map((article) => {
     // if the file has been changed

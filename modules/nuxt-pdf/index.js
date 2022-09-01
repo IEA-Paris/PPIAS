@@ -216,10 +216,10 @@ module.exports = async function PDF(moduleOptions) {
         // Get a ready to use Nuxt instance
         const nuxt = await loadNuxt(isDev ? 'dev' : 'start')
         listener = await nuxt.server.listen()
+        url = listener.url
       }
-
-      url = listener.url
     } catch (e) {
+      console.log('e: ', e)
       console.log(
         "nuxt-pdf: If this is part of npm run generate be sure to run 'npm run build first'"
       )
