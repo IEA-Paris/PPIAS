@@ -7,6 +7,15 @@ fields:
   config:
     required: true
   label: Name of the issue
+- name: subtitle
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Subtitle
 - name: cover
   type: file
   config:
