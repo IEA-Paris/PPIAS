@@ -12,8 +12,8 @@ tag:
 - 'police '
 - "\tprivacy"
 date: 2020-05-31T22:00:00.000+00:00
-article_title: 'Tracking for Covid 19: An experimental method more than a «miracle»
-  solution '
+article_title: 'Tracking for COVID-19: An Experimental Method more than a «Miracle»
+  Solution '
 picture: "/images.jpeg"
 picture_copyright: ''
 yt: ''

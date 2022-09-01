@@ -11,7 +11,7 @@ tag:
 - Risks, Crisis Management
 - Public Policy
 date: 2020-04-30T22:00:00.000+00:00
-article_title: Concern for others  is a better argument to foster social distancing
+article_title: Concern for Others is a Better Argument to Foster Social Distancing
 picture: "/atm-social-distancing-1600x800-1.jpg"
 picture_copyright: ''
 yt: ''

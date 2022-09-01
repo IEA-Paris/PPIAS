@@ -20,7 +20,7 @@ tag:
 - personal development
 - " outdoor recreation"
 date: 2020-11-30T23:00:00.000+00:00
-article_title: 'Covid-19 and environment: citizens in search of proximity with nature'
+article_title: 'COVID-19 and Environment: Citizens in Search of Proximity with Nature'
 picture: "/environnement_adam-neumann-riqff4jaxm0-unsplash.jpg"
 picture_copyright: Unsplash
 yt: ''
