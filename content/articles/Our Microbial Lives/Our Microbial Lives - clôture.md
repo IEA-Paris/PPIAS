@@ -24,6 +24,26 @@ authors:
         titles: []
       - institution: Université Pierre-et-Marie-Curie, France
         titles: []
+  - firstname: 'John '
+    lastname: Lahlou
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_institutions:
+      - institution: École normale supérieure, France
+        titles: []
+      - institution: Université Pierre-et-Marie-Curie, France
+        titles: []
 bibliography: /bibliography/documents-exportes_cloture_lee.bib
 date: 2021-05-27T14:40:37.000Z
 highlight: false

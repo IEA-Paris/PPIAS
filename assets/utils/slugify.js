@@ -1,7 +1,7 @@
 // taken from https://gist.github.com/codeguy/6684588
 
 export default (str) => {
-  str = str.replace(/^\s+|\s+$/g, '') // trim
+  str = str.replace(/^\s+|\s+$/g, '').trim() // trim
   str = str.toLowerCase()
 
   // remove accents, swap ñ for n, etc

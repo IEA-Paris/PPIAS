@@ -8,7 +8,9 @@ import {
 
 const filterAndMerge = (first, second) => {
   first = first.filter((author) => {
-    // does it have a reference?
+    // does it have a reference? (a reference is the path of the author document.
+    // If present, it means that the doc in "first", author data extracted from an article,
+    // explicitely referenced an author document to distinguish from potential homonyms)
     if (author.reference && author.reference.length) {
       // is it matching an existing doc?
       const referencedDocIndex = second.findIndex(
@@ -16,13 +18,14 @@ const filterAndMerge = (first, second) => {
           doc.path ===
           author.reference.split('/').slice(1).join('/').split('.')[0]
       )
-      if (author.lastname === 'Galonnier')
+      if (referencedDocIndex > -1) {
         // if so we merge them and remove the related articleAuthor
         second[referencedDocIndex] = mergeDeep(
           second[referencedDocIndex],
           author
         )
-      return false
+        return false
+      }
     }
     return true
   })
@@ -35,12 +38,14 @@ const filterAndMerge = (first, second) => {
         const referencedDocIndex = second.findIndex(
           (doc) => author.social_channels.orcid === doc.social_channels.orcid
         )
-        // if so we merge them and remove the related articleAuthor
-        second[referencedDocIndex] = mergeDeep(
-          second[referencedDocIndex],
-          author
-        )
-        return false
+        if (referencedDocIndex > -1) {
+          // if so we merge them and remove the related articleAuthor
+          second[referencedDocIndex] = mergeDeep(
+            second[referencedDocIndex],
+            author
+          )
+          return false
+        }
       }
     return true
   })
@@ -49,8 +54,12 @@ const filterAndMerge = (first, second) => {
     // does it have the same firstname/lastname than a doc author?
     const referencedDocIndex = second.findIndex((doc) => {
       return (
+        author.firstname &&
+        doc.firstname &&
         author.firstname.trim().toLowerCase() ===
           doc.firstname.trim().toLowerCase() &&
+        author.lastname &&
+        doc.lastname &&
         author.lastname.trim().toLowerCase() ===
           doc.lastname.trim().toLowerCase()
       )
@@ -122,7 +131,9 @@ export default async (content) => {
   const firstPass = filterAndMerge(articleAuthors, authorsDocs)
   articleAuthors = firstPass.first
   authorsDocs = firstPass.second
-  // TODO: come up with a global approach for non destructive merge, that could explicitely removed papers that were published but are not anymore or X other reason why it should be marked as from this author anymore)
+  // TODO: come up with a global approach for non destructive merge,
+  // that could explicitely removed papers that were published but are not anymore
+  // or X other reason why it should be marked as from this author anymore)
   const secondPass = filterAndMerge(articleAuthors, articleAuthors)
   articleAuthors = secondPass.first
 
@@ -131,6 +142,8 @@ export default async (content) => {
     // replace the titles and institutions array of object by an array of arrays (prismjs related?)
     return {
       ...item,
+      firstname: item.firstname.trim(),
+      lastname: item.lastname.trim(),
       // check that authors have at least one published paper
       active: !!articles.find(
         (article) =>
@@ -160,7 +173,7 @@ export default async (content) => {
   }) 
   console.log(csvString)
   */
-  insertDocuments(authorsDocs, 'authors', 'lastname')
+  insertDocuments(authorsDocs, 'authors', ['lastname', 'firstname'])
   console.log(`${chalk.green('✔')}  Inserted new author documents`)
 
   return true

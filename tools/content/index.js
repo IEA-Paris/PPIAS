@@ -22,7 +22,6 @@ export default {
         await generateMedia(content)
         await mergeAuthors(content)
         await makeFiltersData()
-        once = true
       }
     },
     'content:file:beforeInsert': async (document, database) => {

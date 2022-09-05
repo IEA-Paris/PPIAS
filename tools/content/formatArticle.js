@@ -18,6 +18,7 @@ export default (document) => {
       : -1
     try {
       // TODO handle other formats for biblio such as json
+      // TODO import formats from config file
       const styles = ['apa', 'vanvouver', 'harvard1']
       const date = new Date(document.createdAt).toLocaleDateString('EN', {
         timezone: 'UTC',

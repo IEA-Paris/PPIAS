@@ -207,7 +207,7 @@ export const mergeDeep = (...objects) => {
           prev[key].trim() !== oVal.trim()
         ) {
           prev[key] = pVal.trim() // just to cleanup the existing string from spaces
-          // TODO write it in a file somewhere to use it in CMS
+          // TODO write conflicts in a file somewhere to use it in CMS
           console.log(`CONFLICTED INFO: ${prev[key]} VS ${oVal} in ${key}`)
         } else if (typeof prev[key] === 'string') prev[key] = prev[key].trim()
 
@@ -240,10 +240,10 @@ export const writePrintRoutes = async () => {
     // TODO check that custom_PDF is correctly evaluated
     .where({ $and: [{ published: true }, { custom_pdf: { $ne: true } }] })
     .fetch()
-  console.log(
+  /*   console.log(
     'articles: ',
     articles.map((art) => art.article_title)
-  )
+  ) */
 
   return articles.map((article) => {
     // if the file has been changed
@@ -310,14 +310,45 @@ export const insertDocuments = (data, cat, filenameFlag) => {
       fsExtra.emptyDirSync(folderPath)
     }
   }
-
+  const findFileName = (fileName, index = 2) => {
+    // file exists
+    if (
+      fs.existsSync(
+        './content/' +
+          cat +
+          '/' +
+          fileName[0] +
+          '/' +
+          fileName +
+          '_' +
+          index +
+          '.md'
+      )
+    ) {
+      index++
+      return findFileName(fileName, index)
+    } else {
+      return fileName + '_' + index + '.md'
+    }
+  }
   // create the new ones
   data.forEach((doc, index) => {
     const filteredDoc = Object.fromEntries(
       Object.entries(doc).filter(([k]) => !fieldsToDelete.includes(k))
     )
-    const fileName = slugify(doc[filenameFlag].trim()) + '.md'
-
+    let fileName = slugify(
+      doc[filenameFlag[0]] + ('_' + doc[filenameFlag[1]] || '')
+    )
+    console.log('fileName: ', fileName)
+    if (
+      fs.existsSync(
+        './content/' + cat + '/' + fileName[0] + '/' + fileName + '.md'
+      )
+    ) {
+      fileName = findFileName(fileName, 1)
+    } else {
+      fileName = fileName + '.md'
+    }
     fs.writeFileSync(
       './content/' + cat + '/' + fileName[0] + '/' + fileName,
       `---
