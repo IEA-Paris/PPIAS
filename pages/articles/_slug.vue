@@ -96,7 +96,6 @@ export default {
   },
   props: {},
   async asyncData({ $content, params }) {
-    console.log('filtersRaw.articles: ', filtersRaw.articles)
     const item = await $content('articles', { deep: true })
       .where({
         slug: params.slug,

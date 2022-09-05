@@ -124,7 +124,7 @@ export default async (articles) => {
           identifier: 'pias',
         },
       ],
-      journal_title: config.name,
+      journal_title: config.full_name,
       prereserve_doi: document.needDOI !== false,
       publication_date: new Date(document.date).toLocaleDateString('en-US', {
         timezone: 'UTC',
