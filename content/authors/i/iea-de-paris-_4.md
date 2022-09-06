@@ -2,7 +2,6 @@
 active: true
 articles:
   - 0.0.1_ Programme colloque Hcéres
-createdAt: '2022-09-06T09:23:12.258Z'
 exerpt: ''
 firstname: ''
 is_institution: true
@@ -10,7 +9,7 @@ issue:
   - content/issues/HCERES - PFUE 2022.md
 language:
   - French
-lastname: HCÉRES
+lastname: IEA de Paris
 picture: ''
 picture_copyright: ''
 reference: ''
