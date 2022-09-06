@@ -12,7 +12,7 @@ exerpt: >-
 firstname: Concetta
 issue:
   - content/issues/WPRN21.md
-  - content/issues/WPRN21 Proceedings.md
+  - content/issues/WPRN21 Papers.md
 language:
   - English
 lastname: Papapicco

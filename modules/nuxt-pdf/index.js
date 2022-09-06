@@ -205,6 +205,48 @@ module.exports = async function PDF(moduleOptions) {
     let nuxt
     let listener
     let browser = null
+    const test = {
+      upload_type: 'publication',
+      description:
+        'The image of empty supermarket shelves is one of those that will remain from the announcement of the first lockdown. The Europeans practiced the «Hamsterkauf» as dubbed by the German speakers: they stocked up like hamsters. This rush on food supplies, especially rice and pasta, shows that the first worry was not the disease but the risk of running out of food: a striking phenomenon in affluent societies. During lockdowns, food stores were tagged «essential.» Food’s centrality returned to the forefront: one could no longer delegate its management or forget its role (as is often the case in the West because of its easy access and urban lifestyles). The primary functions of food were exacerbated: setting the rhythm of a daily time that stretched to infinity, regulating emotions, being at the center of constrained social interactions, and anxieties about the risk of food insecurity. On the World Pandemic Research Network database, various studies dug into how the pandemic has shaken our relationship with food.\nMemorandum 10 : overview of the studies and projects registered on WPRN database\nThis article was originally published in French.',
+      publication_type: 'article',
+      keywords: [
+        'Agriculture, Alimentation',
+        ' Environmental change, Ecology',
+        'Human Behaviours, Social Relations ',
+        'Public Discourse, Rhetorics, Communication',
+        'Public Policy, Evaluation, Impact',
+        'Cities, Mobility, Urban Planning',
+        ' Consumption and Production Patterns',
+        ' Democracy, Civil Society, Governance',
+        ' Firms, Markets, Finance',
+        ' Equality & Diversity Studies',
+        'Public Health ',
+        'Risks, Crisis Management ',
+        'Migrations and Diasporas',
+        ' Work, Welfare, Social protection',
+        'Inequalities, Poverty, Development',
+      ],
+      references: [],
+      language: 'eng',
+      access_right: 'open',
+      license: 'cc-by-nc-4.0',
+      doi: '10.5072/zenodo.1089976',
+      journal_issue: 'WPRN Memorandums',
+      communities: [{ identifier: 'pias' }],
+      journal_title:
+        'Proceedings of the Paris Institute for Advanced&nbsp;Study',
+      prereserve_doi: true,
+      publication_date: '01/03/2021',
+      title:
+        'COVID-19 and Food -  Food Security: A Major Concern for Households',
+      creators: [
+        {
+          name: 'Louchart, Aurélie',
+          affiliation: 'Paris Institute for Advanced Study, France',
+        },
+      ],
+    }
     try {
       if (buildArgs.generated) {
         console.log('nuxt-pdf: Starting nuxt instance ')

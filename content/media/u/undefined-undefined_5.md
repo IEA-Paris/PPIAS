@@ -5,7 +5,7 @@ date: '2021-12-10T17:00:16.000Z'
 highlight: false
 id: JXJ2_BxgOeE
 index: 0
-issue: content/issues/WPRN21 Conference.md
+issue: content/issues/WPRN21 Q&As.md
 language: English
 picture: ''
 tags: []

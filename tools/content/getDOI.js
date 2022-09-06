@@ -3,21 +3,27 @@ import PQueue from 'p-queue'
 import config from '../../config.js'
 import {
   generateChecksum,
-  updateArticleDoiAndZid,
+  updateArticlesDoiAndZid,
 } from '../lib/contentUtilities'
 
+/// See main fn rationale below the subfunctions
 export default async (articles) => {
   const fs = require('fs')
   const path = require('path')
   const Zenodo = require('../lib/ZenodoConnector')
   const zenodo = await new Zenodo({
-    host: 'sandbox.zenodo.org', // TODO update domain name
+    host: 'sandbox.zenodo.org', // TODO update domain name from both env variables and the config file.
     token: config.modules.zenodo.token,
     protocol: 'https',
   })
+  // Prepare a queue to avoid rate limiting mechanisms or RAM overconsumption
+  const queue = new PQueue({
+    concurrency: 5,
+    intervalCap: 60,
+    interval: 6000,
+  })
+  // fetch all our Zenodo records
   const records = await zenodo.depositions.list()
-  const queue = new PQueue({ concurrency: 5, intervalCap: 60, interval: 6000 })
-
   const hasSameChecksum = (data, document) =>
     !!data.find((item) => {
       return (
@@ -50,9 +56,9 @@ export default async (articles) => {
       )
     })
   const createArticleOnZenodo = async (document) => {
-    // used to debug using postman-like extensions:
-    /*   console.log('metadata: ', JSON.stringify(metadata)) */
     const metadata = await buildZenodoDocument(document)
+    // used to debug using postman-like extensions:
+    /*     console.log('metadata: ', metadata) */
 
     if (document.fileBuffer) {
       // file exists
@@ -114,7 +120,8 @@ export default async (articles) => {
       // conference_url
       // conference_session
       // location: [{"lat": 34.02577, "lon": -118.7804, "place": "Los Angeles"}, {"place": "Mt.Fuji, Japan", "description": "Sample found 100ft from the foot of the mountain."}]
-      ...(document.DOI && { doi: document.DOI }),
+      // TODO uncomment this once we are out of sandbox. Test DOI trigger a 400 (bad request error) since they are not legit
+      // ...(document.DOI && { doi: document.DOI }),
       ...(document.issue && {
         journal_issue: document.issue.slice(15, -3),
       }),
@@ -124,7 +131,9 @@ export default async (articles) => {
           identifier: 'pias',
         },
       ],
-      journal_title: config.full_name,
+      journal_title: config.full_name
+        .replace('<br>', ' ')
+        .replace('&nbsp;', ' '),
       prereserve_doi: document.needDOI !== false,
       publication_date: new Date(document.date).toLocaleDateString('en-US', {
         timezone: 'UTC',
@@ -161,13 +170,23 @@ export default async (articles) => {
   const generateDOI = async (document, records) => {
     // Rationale of the below function
     /*
-We want to upsert a document in Zenodo.
-If the title & DOI exists, we use checksum to see if a revision is needed
-If not, we create the new document
-When created, only documents with needDOI set to true will get a generated DOI.
-*/
+    We want to upsert a document in Zenodo.
+    First, we check if the document actually exists as a PDF, since you can't get a DOI for metadata only
+    Second, we pull all the records from Zenodo (along with pdf hash as well as some zenodo id)
+    If the title & DOI already exists on Zenodo, we use the pdf file checksum to see if a revision is needed
+    If not, we create the new document on Zenodo along with the related PDF and all the associated metadata.
+    Note that when created, only documents with the attribute "needDOI" set to *true* will get a generated DOI.
+    */
 
     try {
+      // check if the file exists
+      console.log(
+        'apth',
+        path.resolve(
+          process.env.NODE_ENV !== 'production' ? 'static/pdfs' : 'pdfs',
+          document.slug + '.pdf'
+        )
+      )
       if (
         fs.existsSync(
           path.resolve(
@@ -176,7 +195,7 @@ When created, only documents with needDOI set to true will get a generated DOI.
           )
         )
       ) {
-        // file exists
+        // file exists, let's proceed
         document.fileBuffer =
           (await fs.readFileSync(
             path.resolve(
@@ -184,13 +203,16 @@ When created, only documents with needDOI set to true will get a generated DOI.
               document.slug + '.pdf'
             )
           )) || false
+        // get PDF checksum
         document.checksum = generateChecksum(document.fileBuffer)
 
         /*       console.log('document.checksum: ', document.checksum) */
+        // Compare checksum
         const sameChecksum = hasSameChecksum(records.data || [], document)
-        /*       console.log('sameChecksum: ', sameChecksum) */
+        /*  console.log('sameChecksum: ', sameChecksum) */
+        // Compare DOI and Zenodo document id
         const sameIdOrDoi = hasSameIdOrDoi(records.data || [], document)
-        /*       console.log('sameIdOrDoi: ', sameIdOrDoi) */
+        /*  console.log('sameIdOrDoi: ', sameIdOrDoi) */
         // check if the article already exists on Zenodo:
         if (!sameIdOrDoi && !sameChecksum) {
           console.log(
@@ -229,7 +251,7 @@ When created, only documents with needDOI set to true will get a generated DOI.
             // console.log('result: ', result.data)
             document.DOI = result.data.doi
             document.Zid = result.data.id
-            await updateArticleDoiAndZid(document)
+            await updateArticlesDoiAndZid(document)
           } else {
             console.log('No changes to be done for ', document.article_title)
           }
@@ -244,16 +266,15 @@ When created, only documents with needDOI set to true will get a generated DOI.
     } catch (error) {
       console.log('error: ', error)
       console.log('at: ', document.article_title)
-      /*      console.log(
+      console.log(
         'metadata: ',
         JSON.stringify(await buildZenodoDocument(document))
-      ) */
+      )
     }
   }
   const input = articles
     // filter published articles only. It is done earlier in the fetch but it makes it more resilient
     .filter((article) => article.published)
-    // get PDF checksum
     .map((document) =>
       queue.add(async () => {
         return await generateDOI(document, records)

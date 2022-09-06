@@ -244,6 +244,7 @@ export const writePrintRoutes = async () => {
     'articles: ',
     articles.map((art) => art.article_title)
   ) */
+  console.log('articles: ', articles.length)
 
   return articles.map((article) => {
     // if the file has been changed
@@ -339,7 +340,6 @@ export const insertDocuments = (data, cat, filenameFlag) => {
     let fileName = slugify(
       doc[filenameFlag[0]] + ('_' + doc[filenameFlag[1]] || '')
     )
-    console.log('fileName: ', fileName)
     if (
       fs.existsSync(
         './content/' + cat + '/' + fileName[0] + '/' + fileName + '.md'
