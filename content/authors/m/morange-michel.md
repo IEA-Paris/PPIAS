@@ -2,6 +2,7 @@
 active: true
 articles:
   - Our Microbial Lives - clôture
+  - Our Microbial Lives - cloture
 categories:
   - content/categories/Fellows.md
   - []

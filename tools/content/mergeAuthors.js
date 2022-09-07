@@ -53,16 +53,27 @@ const filterAndMerge = (first, second) => {
   first = first.filter((author) => {
     // does it have the same firstname/lastname than a doc author?
     const referencedDocIndex = second.findIndex((doc) => {
-      return (
-        author.firstname &&
-        doc.firstname &&
-        author.firstname.trim().toLowerCase() ===
-          doc.firstname.trim().toLowerCase() &&
-        author.lastname &&
-        doc.lastname &&
-        author.lastname.trim().toLowerCase() ===
-          doc.lastname.trim().toLowerCase()
-      )
+      if (doc.is_institution && author.is_institution) {
+        return (
+          author.lastname &&
+          doc.lastname &&
+          author.lastname.trim().toLowerCase() ===
+            doc.lastname.trim().toLowerCase()
+        )
+      } else {
+        return (
+          !doc.is_institution &&
+          !author.is_institution &&
+          author.firstname &&
+          doc.firstname &&
+          author.firstname.trim().toLowerCase() ===
+            doc.firstname.trim().toLowerCase() &&
+          author.lastname &&
+          doc.lastname &&
+          author.lastname.trim().toLowerCase() ===
+            doc.lastname.trim().toLowerCase()
+        )
+      }
     })
 
     // if so we merge them and remove the related articleAuthor

@@ -1,5 +1,5 @@
 ---
-issue: content/issues/WPRN21 Q&As.md
+issue: content/issues/WPRN21 Videos.md
 tags:
   - Work, Welfare, Social protection
   - Environmental change, Ecology

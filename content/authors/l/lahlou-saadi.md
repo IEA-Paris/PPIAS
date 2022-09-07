@@ -36,7 +36,7 @@ issue:
   - content/issues/WPRN21.md
   - content/issues/OML.md
   - content/issues/HCERES - PFUE 2022.md
-  - content/issues/WPRN21 Q&As.md
+  - content/issues/WPRN21 Videos.md
   - content/issues/Our Microbial Lives.md
   - content/issues/WPRN Memorandums.md
 language:

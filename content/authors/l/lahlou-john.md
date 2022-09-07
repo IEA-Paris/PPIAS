@@ -2,6 +2,7 @@
 active: true
 articles:
   - Our Microbial Lives - clôture
+  - Our Microbial Lives - cloture
 createdAt: '2022-09-05T08:36:49.202Z'
 exerpt: ''
 firstname: John

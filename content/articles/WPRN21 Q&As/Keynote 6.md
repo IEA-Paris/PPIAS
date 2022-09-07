@@ -30,7 +30,7 @@ bibliography: /bibliography/documents-exportes_keynote6.bib
 date: 2021-12-10T10:00:40.000Z
 doi: '169059797'
 highlight: false
-issue: content/issues/WPRN21 Q&As.md
+issue: content/issues/WPRN21 Videos.md
 tags:
   - 'Equality & Diversity Studies '
   - Public Health

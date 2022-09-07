@@ -180,13 +180,6 @@ export default async (articles) => {
 
     try {
       // check if the file exists
-      console.log(
-        'apth',
-        path.resolve(
-          process.env.NODE_ENV !== 'production' ? 'static/pdfs' : 'pdfs',
-          document.slug + '.pdf'
-        )
-      )
       if (
         fs.existsSync(
           path.resolve(

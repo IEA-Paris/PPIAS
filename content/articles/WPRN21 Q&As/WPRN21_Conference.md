@@ -40,7 +40,7 @@ bibliography: ''
 date: 2021-12-09T09:30:39.000Z
 doi: '169059797'
 highlight: false
-issue: content/issues/WPRN21 Q&As.md
+issue: content/issues/WPRN21 Videos.md
 language: English
 picture: ''
 picture_copyright: ''

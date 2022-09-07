@@ -1,5 +1,5 @@
 ---
-issue: content/issues/WPRN21 Q&As.md
+issue: content/issues/WPRN21 Videos.md
 tags:
   - 'Dataset, Data Mining '
   - 'Quantitative survey '

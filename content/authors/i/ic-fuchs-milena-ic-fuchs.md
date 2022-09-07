@@ -2,6 +2,7 @@
 active: true
 articles:
   - 2.0.1_Žic-Fuchs
+  - 2.0.1_Zic-Fuchs
 createdAt: '2022-06-29T07:19:38.856Z'
 exerpt: ''
 firstname: Milena Žic Fuchs

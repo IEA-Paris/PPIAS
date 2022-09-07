@@ -338,7 +338,10 @@ export const insertDocuments = (data, cat, filenameFlag) => {
       Object.entries(doc).filter(([k]) => !fieldsToDelete.includes(k))
     )
     let fileName = slugify(
-      doc[filenameFlag[0]] + ('_' + doc[filenameFlag[1]] || '')
+      doc[filenameFlag[0]] +
+        (doc[filenameFlag[1]] && doc[filenameFlag[1]].length
+          ? '_' + doc[filenameFlag[1]] || ''
+          : '')
     )
     if (
       fs.existsSync(

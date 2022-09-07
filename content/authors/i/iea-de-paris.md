@@ -1,8 +1,7 @@
 ---
 active: true
 articles:
-  - 0.0.1_ Programme colloque Hcéres
-createdAt: '2022-09-06T12:13:28.536Z'
+  - 0.0.1_ Programme colloque Hceres
 exerpt: ''
 firstname: ''
 is_institution: true

@@ -46,7 +46,7 @@ bibliography: /bibliography/documents-exportes_keynote8.bib
 date: 2021-12-10T14:00:13.000Z
 doi: '169059797'
 highlight: false
-issue: content/issues/WPRN21 Q&As.md
+issue: content/issues/WPRN21 Videos.md
 tags:
   - 'Public Discourse, Rhetorics, Communication '
   - Public Health

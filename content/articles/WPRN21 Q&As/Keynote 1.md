@@ -32,7 +32,7 @@ bibliography: /bibliography/documents-exportes_keynote1.bib
 date: 2021-12-09T09:00:24.000Z
 doi: '169059797'
 highlight: false
-issue: content/issues/WPRN21 Q&As.md
+issue: content/issues/WPRN21 Videos.md
 tags:
   - Infectious Diseases
   - public policies

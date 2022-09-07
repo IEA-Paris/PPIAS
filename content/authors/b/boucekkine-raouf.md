@@ -13,7 +13,7 @@ firstname: Raouf
 issue:
   - content/issues/10-12-2021.md
   - content/issues/WPRN21.md
-  - content/issues/WPRN21 Q&As.md
+  - content/issues/WPRN21 Videos.md
 language:
   - English
 lastname: Boucekkine

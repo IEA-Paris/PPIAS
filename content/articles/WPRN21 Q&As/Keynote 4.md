@@ -1,5 +1,5 @@
 ---
-issue: content/issues/WPRN21 Q&As.md
+issue: content/issues/WPRN21 Videos.md
 tags: []
 date: 2021-12-09T15:30:41Z
 language: English
