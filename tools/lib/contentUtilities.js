@@ -276,6 +276,71 @@ export const writePrintRoutes = async () => {
   /*     )
   ) */
 }
+export const cleanupString = (str) =>
+  str
+    .replace(/[\u2018\u2019]/g, "'")
+    .replace(/[\u201C\u201D]/g, '"')
+    .replace('<br>', ' ')
+    .replace(/\u00A0/g, ' ')
+    .trim()
+
+export const deepEqual = (x, y) =>
+  // cleanUpString is meant to avoid discrepancies with possible changes that Zenodo makes on the string, regarding mostly html entities.
+  Object.keys(x).every((key) => {
+    /*     console.log('X', x[key])
+    console.log('typeof X', typeof x[key])
+    console.log('Y', y[key])
+    console.log('typeof Y', typeof y[key]) */
+    // if it is a primitive type, let's proceed
+    if (['string', 'integer', 'boolean', 'undefined'].includes(typeof x[key])) {
+      return typeof item === 'string'
+        ? cleanupString(x[key]) === cleanupString(y[key])
+        : // eslint-disable-next-line eqeqeq
+          x[key] == y[key]
+    }
+    // deal with the arrays (recursive since it could be an array of objects, e.g. authors)
+    else if (typeof x[key] === 'object') {
+      // array of stuff or object?
+      if (Array.isArray(x[key])) {
+        if (x[key].length) {
+          // check if it an array of primitives or an array of objects
+          if (['string', 'integer', 'boolean'].includes(typeof x[key][0])) {
+            if (
+              !x[key].every(
+                (item, index) =>
+                  cleanupString(item) === cleanupString(y[key][index])
+              )
+            )
+              console.log('NOK')
+            return x[key].every((item, index) =>
+              typeof item === 'string'
+                ? cleanupString(item) === cleanupString(y[key][index])
+                : item === y[key][index]
+            )
+          } else {
+            const sortedX = x[key].sort()
+            const sortedY = y[key].sort()
+            let isOk = true
+            sortedX.forEach((element, index) => {
+              if (!deepEqual(element, sortedY[index])) isOk = false
+            })
+            if (!isOk) console.log('isOk: ', isOk)
+
+            return isOk
+          }
+        } else {
+          // no items in array
+          return (Array.isArray(y[key]) && !y[key].length) || y[key] === null
+        }
+      } else {
+        // it is a regular object
+        return deepEqual(x[key], y[key])
+      }
+    } else {
+      console.log('NOK: unanticipated value for ', x[key])
+      return false
+    }
+  })
 
 export const updateArticlesDoiAndZid = (document) => {
   const data = fs.readFileSync('./content' + document.path + '.md', 'utf8')

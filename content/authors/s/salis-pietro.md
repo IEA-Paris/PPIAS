@@ -2,11 +2,10 @@
 active: true
 articles:
   - RN4_Ervas
-createdAt: '2022-05-04T09:07:42.721Z'
+createdAt: '2022-09-08T08:47:04.666Z'
 exerpt: ''
 firstname: Pietro
 issue:
-  - content/issues/WPRN21.md
   - content/issues/WPRN21 Papers.md
 language:
   - English
@@ -24,10 +23,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-tags:
-  - metaphor
-  - vaccination
-  - defeasible reasoning
 titles_and_institutions:
   - institution: University of Cagliari, Italy
     titles: []

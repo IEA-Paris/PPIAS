@@ -1,13 +1,11 @@
 ---
 active: true
 articles:
-  - Masks, Vaccinations & Compliance - Session 2
   - RN4_Ervas
-createdAt: '2022-01-14T16:39:17.952Z'
+createdAt: '2022-09-08T08:47:04.662Z'
 exerpt: ''
 firstname: Francesca
 issue:
-  - content/issues/WPRN21.md
   - content/issues/WPRN21 Papers.md
 language:
   - English
@@ -25,12 +23,8 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-tags:
-  - metaphor
-  - vaccination
-  - defeasible reasoning
 titles_and_institutions:
-  - institution: University of Cagliari
+  - institution: University of Cagliari, Italy
     titles: []
 years:
   - 2022

@@ -29,6 +29,21 @@
       "port": 3000
     },
     {
+      "type": "node",
+      "request": "launch",
+      "name": "My Nuxt project",
+      "protocol": "inspector",
+      "program": "${workspaceRoot}/node_modules/.bin/nuxt",
+      "stopOnEntry": true,
+      "args": ["dev"],
+      "cwd": "${workspaceRoot}",
+      "sourceMaps": true,
+      "env": {
+        "NODE_ENV": "development",
+        "DEBUG": "nuxt:*,app"
+      }
+    },
+    {
       "type": "firefox",
       "request": "launch",
       "name": "Launch Firefox against localhost",

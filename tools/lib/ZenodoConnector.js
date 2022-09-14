@@ -4,7 +4,8 @@ const axios = require('axios')
 
 const defaultOptions = {
   protocol: 'https',
-  host: 'sandbox.zenodo.org',
+  host: 'sandbox.zenodo.org', // TODO update for the actual zenodo once out of sandox
+  // TODO dynamic switch between sandbox and regular servers depending on the config file (e.G. a sandbox flag?)
   pathPrefix: '/api/',
 }
 

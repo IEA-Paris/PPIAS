@@ -1,11 +1,10 @@
 ---
 active: true
 articles:
-  - ICA4
   - ICA228
-createdAt: '2022-09-08T08:47:04.662Z'
+createdAt: '2022-09-12T08:00:52.795Z'
 exerpt: ''
-firstname: Atrina
+firstname: Johny
 issue:
   - content/issues/Intercontinental Academia 4.md
 language:

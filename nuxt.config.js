@@ -528,5 +528,11 @@ export default {
     babel: {
       compact: true,
     },
+    extend(config, ctx) {
+      // extend source map to enable local debug in VScode (breakpoints & co)
+      if (ctx.isDev) {
+        config.devtool = ctx.isClient ? 'source-map' : 'inline-source-map'
+      }
+    },
   },
 }
