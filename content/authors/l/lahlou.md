@@ -11,6 +11,10 @@ articles:
   - 3 Lahlou Intro session Livres
   - Concern_for_others
   - Memorandum_01
+  - 1. Crise sanitaire - Covid19
+  - 2. Crise économique - Inégalités
+  - 3. Crise migratoire - Du global au local
+  - 4. Histoire des pandémies
 categories:
   - content/categories/WPRN21.md
   - []
@@ -31,6 +35,7 @@ exerpt: >-
   human biology, ethology and ecology, psychology and cognitive sccience). He
   directed the Consumer Research Department at C
 firstname: Saadi
+is_institution: false
 issue:
   - content/issues/10-12-2021.md
   - content/issues/WPRN21.md
@@ -39,6 +44,7 @@ issue:
   - content/issues/WPRN21 Conference.md
   - content/issues/Our Microbial Lives.md
   - content/issues/WPRN Memorandums.md
+  - content/issues/Agir en temps de crise - 2021.md
 language:
   - English
   - ''
