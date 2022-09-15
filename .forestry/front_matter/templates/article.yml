@@ -152,6 +152,7 @@ fields:
     field: needDOI
     value: false
 pages:
+- content/articles/Agir en temps de crise - 2021/1. Crise sanitaire - Covid19.md
 - content/articles/HCERES - PFUE 2022/1.2.0_intro_Ochsner.md
 - content/articles/HCERES - PFUE 2022/2.1.4_Pozzo.md
 - content/articles/HCERES - PFUE 2022/2.2.2_Kulczycki.md
