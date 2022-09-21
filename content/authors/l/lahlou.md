@@ -15,6 +15,7 @@ articles:
   - 2. Crise économique - Inégalités
   - 3. Crise migratoire - Du global au local
   - 4. Histoire des pandémies
+  - 0.1_WPRN21_Welcome Conference
 categories:
   - content/categories/WPRN21.md
   - []

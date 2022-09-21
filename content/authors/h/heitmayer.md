@@ -3,6 +3,7 @@ active: true
 articles:
   - WPRN21_Conference
   - Closing Panel-WPRN21
+  - 0.1_WPRN21_Welcome Conference
 categories:
   - content/categories/WPRN21.md
   - []

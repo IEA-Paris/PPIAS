@@ -1,5 +1,5 @@
 ---
-article_slug: Keynote 1
+article_slug: 1.0_WPRN21_Keynote 1
 caption: >-
   Economic epidemiology put to the test of the Covid-19 crisis: some emerging
   ideas and approaches

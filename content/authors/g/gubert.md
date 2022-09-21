@@ -2,6 +2,7 @@
 active: true
 articles:
   - WPRN21_Conference
+  - 0.1_WPRN21_Welcome Conference
 categories:
   - content/categories/WPRN21.md
   - content/categories/WPRN.md
