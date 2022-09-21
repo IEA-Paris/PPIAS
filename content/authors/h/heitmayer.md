@@ -4,6 +4,7 @@ articles:
   - WPRN21_Conference
   - Closing Panel-WPRN21
   - 0.1_WPRN21_Welcome Conference
+  - 9.0_WPRN21_Closing Panel
 categories:
   - content/categories/WPRN21.md
   - []

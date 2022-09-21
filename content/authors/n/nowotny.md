@@ -3,6 +3,7 @@ active: true
 articles:
   - Closing Panel-WPRN21
   - 3.1.1_Nowotny
+  - 9.0_WPRN21_Closing Panel
 categories:
   - content/categories/WPRN21.md
   - []

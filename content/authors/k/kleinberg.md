@@ -3,6 +3,7 @@ active: true
 articles:
   - Emotions and Coping During Crisis - Session 6
   - Keynote 7
+  - 7.0_WPRN21_Keynote 7
 categories:
   - content/categories/WPRN21.md
   - []

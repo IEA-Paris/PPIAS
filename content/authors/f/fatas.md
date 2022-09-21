@@ -2,6 +2,7 @@
 active: true
 articles:
   - Keynote 8
+  - 8.0_WPRN21_Keynote 8
 categories:
   - content/categories/WPRN21.md
   - []

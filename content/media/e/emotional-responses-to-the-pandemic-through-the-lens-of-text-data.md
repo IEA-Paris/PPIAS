@@ -1,6 +1,6 @@
 ---
-article_slug: Keynote 7
-caption: Emotional responses to the pandemic through the lens of text data
+article_slug: 7.0_WPRN21_Keynote 7
+caption: Emotional Responses to the Pandemic Through the Lens of Text Data
 date: '2021-12-10T10:30:19.000Z'
 highlight: false
 id: iFabYJBx8ls

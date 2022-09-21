@@ -4,6 +4,7 @@ articles:
   - Closing Panel-WPRN21
   - 2.1_intro_Bouin
   - 2.1.0_intro_Bouin
+  - 9.0_WPRN21_Closing Panel
 categories:
   - content/categories/WPRN21.md
   - []

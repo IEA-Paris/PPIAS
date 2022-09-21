@@ -1,6 +1,6 @@
 ---
-article_slug: Keynote 8
-caption: In Science We Should Trust (controlling for the Social Desirability Bias)
+article_slug: 8.0_WPRN21_Keynote 8
+caption: In Science We Should Trust (Controlling for the Social Desirability Bias)
 date: '2021-12-10T14:00:13.000Z'
 highlight: false
 id: IxE1RFZSJZk

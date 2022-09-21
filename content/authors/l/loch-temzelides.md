@@ -2,6 +2,7 @@
 active: true
 articles:
   - Keynote 3
+  - 3.0_WPRN21_Keynote 3
 categories:
   - content/categories/WPRN21.md
   - []

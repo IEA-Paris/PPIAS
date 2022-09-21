@@ -2,6 +2,7 @@
 active: true
 articles:
   - Keynote 6
+  - 6.0_WPRN21_Keynote 6
 categories:
   - content/categories/WPRN21.md
   - []

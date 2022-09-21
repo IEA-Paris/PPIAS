@@ -1,5 +1,5 @@
 ---
-article_slug: Closing Panel-WPRN21
+article_slug: 9.0_WPRN21_Closing Panel
 caption: Closing Panel - Moving the discussion forward - lessons learned and next steps
 date: '2021-12-10T17:00:16.000Z'
 highlight: false

@@ -16,6 +16,7 @@ articles:
   - 3. Crise migratoire - Du global au local
   - 4. Histoire des pandémies
   - 0.1_WPRN21_Welcome Conference
+  - 9.0_WPRN21_Closing Panel
 categories:
   - content/categories/WPRN21.md
   - []
