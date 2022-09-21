@@ -1,49 +1,46 @@
 ---
 issue: content/issues/WPRN21 Conference.md
 keywords:
-  - 'Big Data, Artificial Intelligence '
-  - 'Human Behaviours, Social Relations '
-  - 'Public Health '
-  - Gender differences
-  - 'Emotions '
-  - Language
+- 'Big Data, Artificial Intelligence '
+- 'Human Behaviours, Social Relations '
+- 'Public Health '
+- Gender differences
+- 'Emotions '
+- Language
 date: 2021-12-10T10:30:19.000+00:00
 language: English
-doi: '169059797'
+doi: "169059797"
 published: true
-article_title: Emotional responses to the pandemic through the lens of text data
+article_title: Emotional Responses to the Pandemic Through the Lens of Text Data
 authors:
-  - firstname: 'Bennett '
-    lastname: Kleinberg
-    titles_and_institutions:
-      - titles: []
-        institution: Tilburg University, Netherlands
-      - titles: []
-        institution: University College London, United Kingdom
-    social_channels:
-      google_scholar: https://scholar.google.nl/citations?user=Ms2d7OsAAAAJ&hl=en
-      linkedin: https://nl.linkedin.com/in/barkleinberg
-      orcid: '0000-0003-1658-9086 '
-      researchgate: https://www.researchgate.net/profile/Bennett-Kleinberg
-      website: ''
-      wikipedia: ''
-      twitter: ''
-      instagram: ''
-      mendeley: ''
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-abstract:
-  Keynote  presentation by Bennett Kleinberg during the WPRN21 conference
-  in Paris on December 10th 2021
+- firstname: 'Bennett '
+  lastname: Kleinberg
+  titles_and_institutions:
+  - titles: []
+    institution: Tilburg University, Netherlands
+  - titles: []
+    institution: University College London, United Kingdom
+  social_channels:
+    google_scholar: https://scholar.google.nl/citations?user=Ms2d7OsAAAAJ&hl=en
+    linkedin: https://nl.linkedin.com/in/barkleinberg
+    orcid: '0000-0003-1658-9086 '
+    researchgate: https://www.researchgate.net/profile/Bennett-Kleinberg
+    website: ''
+    wikipedia: ''
+    twitter: ''
+    instagram: ''
+    mendeley: ''
+  picture: ''
+  picture_copyright: ''
+  reference: ''
+abstract: 'WPRN21 Conference - Paris IAS, 9-10 December 2021. Keynote by Bennett Kleinberg '
 picture: ''
 picture_copyright: ''
 yt: iFabYJBx8ls
 highlight: false
-bibliography: '/bibliography/documents-exportes_keynote7.bib'
----
+bibliography: "/bibliography/documents-exportes_keynote7.bib"
 
-## Emotional responses to the pandemic through the lens of text data
+---
 
 Keynote presentation by Bennett Kleinberg during the WPRN21 conference in Paris on December 10th 2021
 
