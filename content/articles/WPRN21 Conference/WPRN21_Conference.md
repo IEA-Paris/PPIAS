@@ -13,42 +13,38 @@ yt: ULeeaCclxW0
 article_author: ''
 redactor: []
 authors:
-  - firstname: 'Saadi '
-    lastname: Lahlou
-    titles_and_institutions:
-      - institution: London School of Economics and Political Science , United Kingdom
-      - titles:
-          - Director
-        institution: Paris Institute for Advanced Study, France
-    social_channels:
-      orcid: '0000-0001-8114-7271 '
-  - firstname: 'Flore '
-    lastname: Gubert
-    titles_and_institutions:
-      - institution: Institut de Recherche pour le Développement, France
-      - institution: Fondation Maison des Sciences de l'Homme, France
-    social_channels:
-      orcid: 0000-0002-7072-4069
-      google_scholar: https://scholar.google.com/citations?user=8xBJ-CEAAAAJ&hl=fr
-      researchgate: https://www.researchgate.net/profile/Flore-Gubert
-  - firstname: 'Maxi '
-    lastname: Heitmayer
-    titles_and_institutions:
-      - institution: The London School of Economics and Political Science, United Kingdom
-    social_channels:
-      linkedin: https://uk.linkedin.com/in/maxi-heitmayer-645646196?trk=public_profile_browsemap_profile-result-card_result-card_full-click
-      twitter: ''
-      researchgate: https://www.researchgate.net/profile/Maxi-Heitmayer
-abstract:
-  During the December 9-10 WPRN conference, experts from all over the globe
-  shared their insights and lessons learned from the pandemic in 9 Keynote presentations,
-  as well as 6 topic panels comprising 39 research papers.The welcome conference opens
-  the 2 days of WPRN21.
+- firstname: 'Saadi '
+  lastname: Lahlou
+  titles_and_institutions:
+  - institution: London School of Economics and Political Science , United Kingdom
+  - titles:
+    - Director
+    institution: Paris Institute for Advanced Study, France
+  social_channels:
+    orcid: '0000-0001-8114-7271 '
+- firstname: 'Flore '
+  lastname: Gubert
+  titles_and_institutions:
+  - institution: Institut de Recherche pour le Développement, France
+  - institution: Fondation Maison des Sciences de l'Homme, France
+  social_channels:
+    orcid: 0000-0002-7072-4069
+    google_scholar: https://scholar.google.com/citations?user=8xBJ-CEAAAAJ&hl=fr
+    researchgate: https://www.researchgate.net/profile/Flore-Gubert
+- firstname: 'Maxi '
+  lastname: Heitmayer
+  titles_and_institutions:
+  - institution: The London School of Economics and Political Science, United Kingdom
+  social_channels:
+    linkedin: https://uk.linkedin.com/in/maxi-heitmayer-645646196?trk=public_profile_browsemap_profile-result-card_result-card_full-click
+    twitter: ''
+    researchgate: https://www.researchgate.net/profile/Maxi-Heitmayer
+abstract: 'WPRN21 Conference - Paris IAS, 9-10 December 2021. Conference Welcome '
 keywords: []
 language: English
-doi: '169059797'
----
+doi: "169059797"
 
+---
 ## WPRN Project
 
 At a time when the world is facing a major health challenge, the Natural and Life Sciences are mobilized to find vaccines and remedies. At the same time, the Social Sciences and Humanities have moved to the forefront to help our societies face the lockdown and the wave of socio-economic crisis that follows. This mobilization, because it is unprecedented, needs new resources to coordinate, and new formats to build reflexivity to learn from our successes and our mistakes in view of the next crises. The World Pandemic Research Network (WPRN) contributes to meeting these needs through its platform wprn.org.
