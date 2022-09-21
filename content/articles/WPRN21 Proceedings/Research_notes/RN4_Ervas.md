@@ -4,7 +4,7 @@ keywords:
 - metaphor
 - vaccination
 - defeasible reasoning
-date: 2022-04-13T20:05:34.000+00:00
+date: 2022-04-12T22:00:34Z
 language: English
 doi: "169059797"
 disciplines: ''
