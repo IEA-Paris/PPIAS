@@ -1,155 +1,139 @@
 ---
 issue: content/issues/WPRN21 Conference.md
 keywords:
-  - Work, Welfare, Social protection
-  - Environmental change, Ecology
-  - 'Human Behaviours, Social Relations '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Public Health '
-  - 'Quantitative survey '
+- Work, Welfare, Social protection
+- Environmental change, Ecology
+- 'Human Behaviours, Social Relations '
+- 'Public Discourse, Rhetorics, Communication '
+- 'Public Health '
+- 'Quantitative survey '
 date: 2021-12-09T12:00:03.000+00:00
 language: English
-doi: '169059797'
+doi: "169059797"
 published: false
 article_title: Masks, Vaccinations and Compliance - Q&A session
 authors:
-  - lastname: Lisi
-    firstname: Matteo P.
-    titles_and_institutions:
-      - titles: []
-        institution: Department Of Psychology, Sapienza University Of Rome, Italy
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: Kothari
-    firstname: Ammina
-    titles_and_institutions:
-      - titles: []
-        institution: University Of Rhode Island, USA
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: Olah
-    firstname: Andrew R.
-    titles_and_institutions:
-      - titles: []
-        institution: The Junkin Group, LLC, USA
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: Ervas
-    firstname: Francesca
-    titles_and_institutions:
-      - titles: []
-        institution: University of Cagliari
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: 'Calbi '
-    titles_and_institutions:
-      - titles: []
-        institution:
-          Department Of Medicine And Surgery, Unit Of Neuroscience, University
-          Of Parma, Parma, Italy
-    firstname: Marta
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: Kurian Puliyeli
-    firstname: Dyuthi
-    titles_and_institutions:
-      - titles: []
-        institution: Symbiosis Law School Pune, Symbiosis International University, India
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-abstract:
-  Face Masks are probably the most iconic visual representation of the Covid-19
-  Pandemic. While the world was physically distancing, masks made this distance visible
-  and provided a constant reminder of the new rules we were subject to. Masks, and
-  arguably even more so the vaccine, also are objects of contestation and led to inequalities
-  and resistance in some parts of society. In this session, we heard why people wore
-  masks and got vaccinated (or not) in various communities around the globe, how this
-  affected social interactions, and how education and social trust affected compliance
-  with regulations. We also looked at the pragmatics of what ‘wearing masks’ entails,
-  and what the ‘right’ distance to others is in various contexts. More abstractly,
-  we discussed how language, metaphors, and humour can foster hope or defeatism, and
-  even enable or limit unsafe behaviours. Finally, we looked at how the environment
-  was affected by the new rules and regulations that came into effect around the globe.
-  As how we relate to each other was deeply altered by restrictions and regulations
-  during the Pandemic, the small cracks and cleavages in society became more visible
-  and pronounced. These initial findings and discussions about rules and compliance
-  we have had must be continued if we want to avoid that restrictions for the benefit
-  of our society drive us apart as a community.
+- lastname: Lisi
+  firstname: Matteo P.
+  titles_and_institutions:
+  - titles: []
+    institution: Department Of Psychology, Sapienza University Of Rome, Italy
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: Kothari
+  firstname: Ammina
+  titles_and_institutions:
+  - titles: []
+    institution: University Of Rhode Island, USA
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: Olah
+  firstname: Andrew R.
+  titles_and_institutions:
+  - titles: []
+    institution: The Junkin Group, LLC, USA
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: Ervas
+  firstname: Francesca
+  titles_and_institutions:
+  - titles: []
+    institution: University of Cagliari
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: 'Calbi '
+  titles_and_institutions:
+  - titles: []
+    institution: Department Of Medicine And Surgery, Unit Of Neuroscience, University
+      Of Parma, Parma, Italy
+  firstname: Marta
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: Kurian Puliyeli
+  firstname: Dyuthi
+  titles_and_institutions:
+  - titles: []
+    institution: Symbiosis Law School Pune, Symbiosis International University, India
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+abstract: 'WPRN21 Conference - Paris IAS, 9-10 December 2021. Q&A session 2 - Masks,
+  Vaccinations & Compliance '
 picture: ''
 picture_copyright: ''
 yt: sdN3mZeQOgg
 highlight: false
-bibliography: '/bibliography/documents-exportes_q-a2.bib'
-
+bibliography: "/bibliography/documents-exportes_q-a2.bib"
 custom_pdf: ''
 disciplines: ''
+
 ---
+Face Masks are probably the most iconic visual representation of the Covid-19 Pandemic. While the world was physically distancing, masks made this distance visible and provided a constant reminder of the new rules we were subject to. Masks, and arguably even more so the vaccine, also are objects of contestation and led to inequalities and resistance in some parts of society. In this session, we heard why people wore masks and got vaccinated (or not) in various communities around the globe, how this affected social interactions, and how education and social trust affected compliance with regulations. We also looked at the pragmatics of what ‘wearing masks’ entails, and what the ‘right’ distance to others is in various contexts. More abstractly, we discussed how language, metaphors, and humour can foster hope or defeatism, and even enable or limit unsafe behaviours. Finally, we looked at how the environment was affected by the new rules and regulations that came into effect around the globe. As how we relate to each other was deeply altered by restrictions and regulations during the Pandemic, the small cracks and cleavages in society became more visible and pronounced. These initial findings and discussions about rules and compliance we have had must be continued if we want to avoid that restrictions for the benefit of our society drive us apart as a community.
 
 The Q&A session on the theme "Masks, Vaccinations and Compliance" during WPRN21 conference in Paris on December 9th 2021 is based on 6 projects registered in the WPRN database.
 
