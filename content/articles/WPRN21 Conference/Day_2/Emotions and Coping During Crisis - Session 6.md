@@ -206,8 +206,8 @@ authors:
     researchgate: ''
     mendeley: ''
   reference: ''
-abstract: WPRN21 Conference - Paris IAS, 9-10 December 2021. Q&A session 5 - Local
-  Contexts & Policy
+abstract: WPRN21 Conference - Paris IAS, 9-10 December 2021. Q&A session 6  "Emotions
+  & Coping During Crisis"
 picture: ''
 picture_copyright: ''
 yt: gG_XMS4xThY
@@ -219,7 +219,7 @@ disciplines: ''
 ---
 How do people cope with crises, especially with those of global proportions like the Covid-19 Pandemic? Researchers around the globe have set out to document how individuals and communities responded to the unprecedented challenges the Pandemic posed for them. In this session, we have discussed empirical observations on how people around the globe coped with the Pandemic. Contributions have highlighted differences between genders, countries, and communities. We have further heard how some people prefer to engage in self-help practices and engage with problems in challenging times, and others preferred to disengage and seek distraction. The diverse contributions in this session also covered the full spectrum of human emotions in the context of crisis, from humour that can help individuals deal with adverse situations, over worries and stress about risk and uncertainty, to grief and dealing with loss in times where opportunities for shared physical presence are limited. The return to placing the individual and her subjective experience at the centre of scientific attention in this crisis can be viewed as a positive development overall. It is now important to continue to further our understanding of how people cope with adversity in exceptional circumstances to be better prepared for future crises the world may encounter.
 
-This Q&A session on the theme "Local Contexts and Policy Emotions " during the WPRN 21 conference in Paris on December 10th 2021 is based on 10 projects registered on the WPRN database
+This Q&A session on the theme "Emotions & Coping During Crisis" during the WPRN 21 conference in Paris on December 10th 2021 is based on 10 projects registered on the WPRN database
 
 <Youtube yt="gG_XMS4xThY" caption="Q&A session - Emotions and Coping During Crisis"></Youtube>
 
