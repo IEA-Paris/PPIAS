@@ -1,140 +1,125 @@
 ---
 issue: content/issues/WPRN21 Conference.md
 keywords:
-  - ' Policy, Evaluation, Impact '
-  - 'Risks, Crisis Management '
-  - 'Environmental change, Ecology '
-  - 'Equality & Diversity Studies '
-  - Public Health
-  - 'Work, Welfare, Social protection '
-  - 'Human Behaviours, Social Relations '
-  - Firms, Markets, Finance
-  - 'Qualitative analysis '
-  - Simulation / Modeling
-  - Policy Document
+- " Policy, Evaluation, Impact "
+- 'Risks, Crisis Management '
+- 'Environmental change, Ecology '
+- 'Equality & Diversity Studies '
+- Public Health
+- 'Work, Welfare, Social protection '
+- 'Human Behaviours, Social Relations '
+- Firms, Markets, Finance
+- 'Qualitative analysis '
+- Simulation / Modeling
+- Policy Document
 date: 2021-12-09T13:00:09.000+00:00
 language: English
-doi: '169059797'
+doi: "169059797"
 published: false
 article_title: Economic and Financial Impacts - Q&A session
 authors:
-  - lastname: Smart
-    firstname: 'Jenny '
-    titles_and_institutions:
-      - titles: []
-        institution: International Food Policy Research Institute (IFPRI), USA
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: 'Levy '
-    firstname: Gal
-    titles_and_institutions:
-      - titles: []
-        institution: The Open University Of Israel, Israel
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: Lampropoulos
-    firstname: Ioannis Ch.
-    titles_and_institutions:
-      - titles: []
-        institution: University Of Patras, Greece
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: 'Tijdens  '
-    firstname: Kea
-    titles_and_institutions:
-      - titles: []
-        institution: WageIndicator Foundation/University of Amsterdam, Netherlands
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - lastname: Vera-Valdés
-    firstname: J. Eduardo
-    titles_and_institutions:
-      - titles: []
-        institution: Aalborg University, Denmark
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-abstract:
-  COVID-19 is not only a global pandemic and public health crisis; it has
-  also affected the global economy and financial markets. Researchers from around
-  the globe gathered in this panel to discuss such impacts of the recent pandemic.
-  The session began by exploring subjective experiences of living and working in such
-  times, highlighting the unequal distribution of risk and resources among subpopulations.
-  Additionally, we have discussed the significance of tailored policies in reliving
-  economies from COVID-19 impacts on unemployment and economic growth. This is especially
-  true given that uncertainty in the financial sector was shown to have become even
-  more persistent since the start of the pandemic. The broad range of discussed topics
-  also covered the economic costs of COVID-19 in developing countries and identified
-  policy and public investment priorities for relief and recovery periods, as well
-  as over the longer-term. While the economic fallout from COVID-19 continues to hit
-  some segments of the population harder than others, the various ways in which people
-  experiencing poverty cope with the COVID-19 crisis, and how such a persisting predicament
-  of poverty impacts their lives, were highlighted as pandemic-related manifestations
-  of economic inequality. Studying the pre-existing economic and financial conditions
-  magnified by the Coronavirus pandemic will broaden and deepen our understanding
-  of the economy which includes, impacts, and shapes our living and working experiences.
+- lastname: Smart
+  firstname: 'Jenny '
+  titles_and_institutions:
+  - titles: []
+    institution: International Food Policy Research Institute (IFPRI), USA
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: 'Levy '
+  firstname: Gal
+  titles_and_institutions:
+  - titles: []
+    institution: The Open University Of Israel, Israel
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: Lampropoulos
+  firstname: Ioannis Ch.
+  titles_and_institutions:
+  - titles: []
+    institution: University Of Patras, Greece
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: 'Tijdens  '
+  firstname: Kea
+  titles_and_institutions:
+  - titles: []
+    institution: WageIndicator Foundation/University of Amsterdam, Netherlands
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+- lastname: Vera-Valdés
+  firstname: J. Eduardo
+  titles_and_institutions:
+  - titles: []
+    institution: Aalborg University, Denmark
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
+abstract: 'WPRN21 Conference - Paris IAS, 9-10 December 2021. Q&A session 3 - Economic
+  & Financial Impacts '
 picture: ''
 picture_copyright: ''
 yt: rylGri1EtXY
 highlight: false
-bibliography: '/bibliography/documents-exportes_q-a3.bib'
+bibliography: "/bibliography/documents-exportes_q-a3.bib"
 custom_pdf: ''
 disciplines: ''
+
 ---
+COVID-19 is not only a global pandemic and public health crisis; it has also affected the global economy and financial markets. Researchers from around the globe gathered in this panel to discuss such impacts of the recent pandemic. The session began by exploring subjective experiences of living and working in such times, highlighting the unequal distribution of risk and resources among subpopulations. Additionally, we have discussed the significance of tailored policies in reliving economies from COVID-19 impacts on unemployment and economic growth. This is especially true given that uncertainty in the financial sector was shown to have become even more persistent since the start of the pandemic. The broad range of discussed topics also covered the economic costs of COVID-19 in developing countries and identified policy and public investment priorities for relief and recovery periods, as well as over the longer-term. While the economic fallout from COVID-19 continues to hit some segments of the population harder than others, the various ways in which people experiencing poverty cope with the COVID-19 crisis, and how such a persisting predicament of poverty impacts their lives, were highlighted as pandemic-related manifestations of economic inequality. Studying the pre-existing economic and financial conditions magnified by the Coronavirus pandemic will broaden and deepen our understanding of the economy which includes, impacts, and shapes our living and working experiences.
 
 This Q&A session on the theme "Economic and Financial Impacts" during WPRN21 conference in Paris on December 9th 2021 is based on 5 projects registered in WPRN database.
 
@@ -150,7 +135,7 @@ The analysis can be subdivided in: _ Using long time series, we analyze the long
 
 ### 2. [Survey of Living and Working in Coronavirus Times](https://wprn.org/item/417152)
 
-The Coronavirus pandemic has a worldwide impact. The health of many inhabitants is at stake, but the world of work is also heavily affected. Statistics of the World Health Organisation and national related institutions provide overviews of developments in the health situation. However, for work-related issues monitoring instruments are lacking. Given its global online infrastructure, [WageIndicator](https://wageindicator.org/ 'WageIndecator') is to a certain extent able to provide such monitoring. Due to time and budgetary constraints, it is not possible to undertake a representative global survey through samples drawn from national populations. However WageIndicator's technical web infrastructure allows to undertake a volunteer web-survey in. Thus, we have developed a global, continuous, multilingual, multi-country web-survey with questions such as: • Is your work affected by the Corona crisis? • Are precautionary measures taken at your workplace? • Do you have to work from home? • Has your workload increased/decreased? • Have you lost your job/work/assignments? On March 30, 2020, WageIndicator officially launched the survey through press releases and a range of social media activities. Its partners supported the launch by using their own channels. The web survey is available for 143 countries with in total 38 languages.
+The Coronavirus pandemic has a worldwide impact. The health of many inhabitants is at stake, but the world of work is also heavily affected. Statistics of the World Health Organisation and national related institutions provide overviews of developments in the health situation. However, for work-related issues monitoring instruments are lacking. Given its global online infrastructure, [WageIndicator](https://wageindicator.org/ "WageIndecator") is to a certain extent able to provide such monitoring. Due to time and budgetary constraints, it is not possible to undertake a representative global survey through samples drawn from national populations. However WageIndicator's technical web infrastructure allows to undertake a volunteer web-survey in. Thus, we have developed a global, continuous, multilingual, multi-country web-survey with questions such as: • Is your work affected by the Corona crisis? • Are precautionary measures taken at your workplace? • Do you have to work from home? • Has your workload increased/decreased? • Have you lost your job/work/assignments? On March 30, 2020, WageIndicator officially launched the survey through press releases and a range of social media activities. Its partners supported the launch by using their own channels. The web survey is available for 143 countries with in total 38 languages.
 
 <Youtube yt="PrLnfyCIZ2w" caption ="Survey of Living and Working in Coronavirus Times - WageIndicator.org"></Youtube>
 
