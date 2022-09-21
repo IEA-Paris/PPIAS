@@ -10,7 +10,7 @@ keywords:
 - 'Public Policy, Evaluation, Impact '
 - 'Dataset, Data Mining '
 - 'Policy Document '
-date: 2020-08-31T22:00:00.000+00:00
+date: 2020-09-01T13:00:00Z
 article_title: 'Gendered Responses and Marked Inequalities: The Pandemic as a Revealer
   of Gender Injustice'
 picture: "/jeshoots-com-__zmnefoi3k-unsplash-1024x683.jpg"
