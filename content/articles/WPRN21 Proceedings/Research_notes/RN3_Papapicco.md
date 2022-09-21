@@ -1,39 +1,38 @@
 ---
 issue: content/issues/WPRN21 Proceedings.md
 keywords:
-  - Coronavirus
-  - COVID-19
-  - italian infodemia
-  - La Repubblica online
-  - mix method
-date: 2022-04-13T16:37:49.000+00:00
+- Coronavirus
+- COVID-19
+- italian infodemia
+- La Repubblica online
+- mix method
+date: 2022-04-13T08:00:49Z
 language: English
-doi: '169059797'
+doi: "169059797"
 disciplines: ''
 published: true
 article_title: 'Informative Contagion: The Coronavirus (COVID 19) in Italian journalism'
 authors:
-  - firstname: 'Concetta '
-    lastname: Papapicco
-    titles_and_institutions:
-      - titles: []
-        institution: University of Bari “Aldo Moro”, Italy
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
+- firstname: 'Concetta '
+  lastname: Papapicco
+  titles_and_institutions:
+  - titles: []
+    institution: University of Bari “Aldo Moro”, Italy
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  reference: ''
 custom_pdf: ''
-abstract:
-  In addition to becoming a global phenomenon, the spreading of the new Coronavirus,
+abstract: In addition to becoming a global phenomenon, the spreading of the new Coronavirus,
   following the declaration of a pandemic state, has generated excessive access to
   information, a phenomenon named “Infodemia” (@cinelli_covid-19_2020). The general
   purpose of this exploratory study is to investigate how the coronavirus situation
@@ -50,9 +49,9 @@ picture: ''
 picture_copyright: ''
 yt: ''
 highlight: false
-bibliography: '/bibliography/documents-exportes_rn3.bib'
----
+bibliography: "/bibliography/documents-exportes_rn3.bib"
 
+---
 ## 1. INTRODUCTION
 
 Since the beginning of January 2020, the attention of the medical-scientific community and the dissemination of information is focused on the epidemic caused by the new coronavirus (SARSCoV-2) emerged in Wuhan in China at the end of 2019.
