@@ -1,7 +1,8 @@
 ---
-date: 2021-01-28T17:05:30Z
-name_of_the_issue: Agir en temps de crise - Rencontres 2021
+date: 2021-01-28T17:05:30.000+00:00
+name_of_the_issue: 'Agir en temps de crise  '
 cover: "/rencontres-2021.jpg"
+subtitle: Rencontres 2021
 
 ---
 Crise climatique, crise sanitaire, crise migratoire, crise économique mais aussi crise des rapports et identités de genre … De nombreux systèmes établis sont déstabilisés, voire profondément remis en cause. De manière urgente, les crises contemporaines posent la question de savoir comment agir , alors que précisément les modèles habituels sont mis en défaut.
