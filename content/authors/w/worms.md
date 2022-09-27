@@ -1,15 +1,22 @@
 ---
 active: true
 articles:
-- 2. Crise économique - Inégalités
+  - 2. Crise économique - Inégalités
 createdAt: '2022-09-15T17:33:44.944Z'
-exerpt: ''
+exerpt: >-
+  Frédéric Worms est professeur de philosophie à l’École normale supérieure,
+  établissement dont il est devenu directeur-adjoint en septembre 2015
+
+
+  Il est également membre du Comité consultatif national d’éthique et directeur
+  du Centre international d'étude de la philosophie française contemporaine. Ses
+  travaux portent particulièrement sur deux grands
 firstname: Frédéric
 is_institution: false
 issue:
-- content/issues/Agir en temps de crise - 2021.md
+  - content/issues/Agir en temps de crise - 2021.md
 language:
-- French
+  - French
 lastname: Worms
 picture: ''
 picture_copyright: ''
@@ -24,12 +31,12 @@ social_channels:
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Worms
 titles_and_institutions:
-- institution: Comité consultatif national d'éthique, France
-  titles: []
-- institution: Ecole normale supérieure, France
-  titles: []
+  - institution: Comité consultatif national d'éthique, France
+    titles: []
+  - institution: Ecole normale supérieure, France
+    titles: []
 years:
-- 2021
+  - 2021
 
 ---
 Frédéric Worms est professeur de philosophie à l’École normale supérieure, établissement dont il est devenu directeur-adjoint en septembre 2015
