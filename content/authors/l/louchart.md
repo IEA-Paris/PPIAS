@@ -1,9 +1,9 @@
 ---
 active: true
 articles:
-  - Memorandum 14
+  - Memorandum_10
 exerpt: ''
-firstname: 'Aurélie '
+firstname: Aurélie
 issue:
   - content/issues/WPRN Memorandums.md
 language:
@@ -22,7 +22,9 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_institutions: []
+titles_and_institutions:
+  - institution: Paris Institute for Advanced Study, France
+    titles: []
 years:
   - 2021
 

@@ -32,14 +32,18 @@
                 :ratio="1"
               />
               <v-icon v-else class="white--text headline author-picture">{{
-                item.firstname[0] + item.lastname[0]
+                (item.is_institution ? '' : item.firstname[0]) +
+                item.lastname[0]
               }}</v-icon>
             </v-avatar>
             <div
               class="flex-row justify-center text-center mb-3"
               style="max-width: 120px"
             >
-              <AuthorSocials :socials="socials"></AuthorSocials>
+              <AuthorSocials
+                :key="item.lastname"
+                :socials="socials"
+              ></AuthorSocials>
             </div>
           </div>
         </v-col>
@@ -57,7 +61,10 @@
             v-if="$vuetify.breakpoint.smAndDown"
             class="flex-row justify-center align-center mb-6"
           >
-            <AuthorSocials :socials="socials"></AuthorSocials>
+            <AuthorSocials
+              :key="item.lastname"
+              :socials="socials"
+            ></AuthorSocials>
           </div>
           <div
             class="author-exerpt text-subtitle-1"
@@ -90,8 +97,12 @@ export default {
     },
   },
   data() {
-    return {
-      socials: [
+    return {}
+  },
+  async fetch() {},
+  computed: {
+    socials() {
+      return [
         ...(this.item.social_channels.website
           ? [
               {
@@ -173,11 +184,9 @@ export default {
               },
             ]
           : []),
-      ],
-    }
+      ]
+    },
   },
-  async fetch() {},
-  computed: {},
   mounted() {},
   methods: {
     slugifyItem(item) {
