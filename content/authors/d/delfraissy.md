@@ -1,15 +1,23 @@
 ---
 active: true
 articles:
-- 1. Crise sanitaire - Covid19
+  - 1. Crise sanitaire - Covid19
 createdAt: '2022-09-15T17:33:44.944Z'
-exerpt: ''
+exerpt: >-
+  Jean-François Delfraissy est un médecin et un professeur de médecine français,
+  spécialisé dans l'immunologie.
+
+
+  Son parcours est profondément ancré dans le domaine de la santé publique et
+  des virus. Jean-François Delfraissy a démarré sa carrière en tant qu’interne
+  des hôpitaux de Paris. En devenant professeur d’immunologie clinique et de
+  médecine in
 firstname: Jean-François
 is_institution: false
 issue:
-- content/issues/Agir en temps de crise - 2021.md
+  - content/issues/Agir en temps de crise - 2021.md
 language:
-- French
+  - French
 lastname: Delfraissy
 picture: ''
 picture_copyright: ''
@@ -24,12 +32,12 @@ social_channels:
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Delfraissy
 titles_and_institutions:
-- institution: Conseil scientifique Covid-19, France
-  titles: []
-- institution: Comité consultatif national d'éthique, France
-  titles: []
+  - institution: Conseil scientifique Covid-19, France
+    titles: []
+  - institution: Comité consultatif national d'éthique, France
+    titles: []
 years:
-- 2021
+  - 2021
 
 ---
 Jean-François Delfraissy est un médecin et un professeur de médecine français, spécialisé dans l'immunologie.
