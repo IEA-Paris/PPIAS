@@ -1,15 +1,20 @@
 ---
 active: true
 articles:
-- 1. Crise sanitaire - Covid19
+  - 1. Crise sanitaire - Covid19
 createdAt: '2022-09-15T17:33:44.944Z'
-exerpt: ''
+exerpt: >-
+  Nathalie Bajos est directrice de recherche à l’Inserm, directrice d'études à
+  l'EHESS et enseignante à l'IRIS. Spécialiste du genre, ses recherches visent
+  principalement à analyser la sexualité et les enjeux de santé qui s’y
+  rattachent (contraception, avortement, VIH-Sida, agressions sexuelles). Ses
+  travaux portent sur la population générale, les mi
 firstname: Nathalie
 is_institution: false
 issue:
-- content/issues/Agir en temps de crise - 2021.md
+  - content/issues/Agir en temps de crise - 2021.md
 language:
-- French
+  - French
 lastname: Bajos
 picture: ''
 picture_copyright: ''
@@ -24,12 +29,12 @@ social_channels:
   website: ''
   wikipedia: ''
 titles_and_institutions:
-- institution: INSERM, France
-  titles: []
-- institution: EHESS, France
-  titles: []
+  - institution: INSERM, France
+    titles: []
+  - institution: EHESS, France
+    titles: []
 years:
-- 2021
+  - 2021
 
 ---
 Nathalie Bajos est directrice de recherche à l’Inserm, directrice d'études à l'EHESS et enseignante à l'IRIS. Spécialiste du genre, ses recherches visent principalement à analyser la sexualité et les enjeux de santé qui s’y rattachent (contraception, avortement, VIH-Sida, agressions sexuelles). Ses travaux portent sur la population générale, les minorités sexuelles et les personnes migrantes dans différents contextes (France, Europe,  
