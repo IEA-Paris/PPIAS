@@ -1,15 +1,20 @@
 ---
 active: true
 articles:
-- 3. Crise migratoire - Du global au local
+  - 3. Crise migratoire - Du global au local
 createdAt: '2022-09-15T17:33:44.944Z'
-exerpt: ''
+exerpt: >-
+  Ancien élève de l’École normale supérieure, François Héran est agrégé de
+  philosophie (1975), titulaire d’une thèse d’anthropologie de l’École des
+  hautes études en sciences sociales (1979) et d’un doctorat d’État de
+  l’université Paris-Descartes (1996). Il est lauréat des bourses Zellidja pour
+  des voyages d’études menés en Égypte (1969) et au Liban (
 firstname: François
 is_institution: false
 issue:
-- content/issues/Agir en temps de crise - 2021.md
+  - content/issues/Agir en temps de crise - 2021.md
 language:
-- French
+  - French
 lastname: Héran
 picture: ''
 picture_copyright: ''
@@ -24,10 +29,10 @@ social_channels:
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Fran%C3%A7ois_H%C3%A9ran
 titles_and_institutions:
-- institution: Chaire Migrations et sociétés - Collège de France, France
-  titles: []
+  - institution: Chaire Migrations et sociétés - Collège de France, France
+    titles: []
 years:
-- 2021
+  - 2021
 
 ---
 Ancien élève de l’École normale supérieure, François Héran est agrégé de philosophie (1975), titulaire d’une thèse d’anthropologie de l’École des hautes études en sciences sociales (1979) et d’un doctorat d’État de l’université Paris-Descartes (1996). Il est lauréat des bourses Zellidja pour des voyages d’études menés en Égypte (1969) et au Liban (1970).
