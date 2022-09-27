@@ -70,7 +70,11 @@
                   ></AuthorTitles>
                   <template v-if="articles.length">
                     <div class="text-h5 my-6">
-                      {{ $t('articles-from-this-author') }}
+                      {{
+                        item.is_institution
+                          ? $t('articles-from-this-institution')
+                          : $t('articles-from-this-author')
+                      }}
                     </div>
                     <ArticleSearchItem
                       v-for="(article, index) in articles"

@@ -2,6 +2,7 @@
 active: true
 articles:
   - ICA228
+  - ICA4
 createdAt: '2022-09-12T08:00:52.795Z'
 exerpt: ''
 firstname: Johny

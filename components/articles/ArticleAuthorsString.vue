@@ -1,7 +1,11 @@
 <template>
-  <div class="authors" v-html="formatAuthorsProxy()"></div>
+  <div>
+    <nuxt-link v-if="link" :to="link"> </nuxt-link>
+    <div v-else class="authors" v-html="formatAuthorsProxy()"></div>
+  </div>
 </template>
 <script>
+import { boolean } from 'yargs'
 import { formatAuthors, highlight } from '~/assets/utils/transforms'
 export default {
   props: {
@@ -18,6 +22,11 @@ export default {
       required: false,
       type: Boolean,
       default: true,
+    },
+    link: {
+      required: false,
+      type: boolean,
+      default: false,
     },
   },
   data() {
