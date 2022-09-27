@@ -1,15 +1,25 @@
 ---
 active: true
 articles:
-- 4. Histoire des pandémies
+  - 4. Histoire des pandémies
 createdAt: '2022-09-15T17:33:44.944Z'
-exerpt: ''
+exerpt: >-
+  Patrick Boucheron est historien, spécialiste du Moyen Âge, notamment de
+  l’Italie.
+
+
+  Agrégé d’histoire en 1988, il enseigne à l'École normale supérieure de
+  Fontenay-Saint-Cloud avant de rejoindre l’Université Panthéon-Sorbonne en
+  1999. Il est membre de l’Institut universitaire de France de 2004 à 2009.
+
+
+  En 2015, il est nommé professeur au Collège de
 firstname: Patrick
 is_institution: false
 issue:
-- content/issues/Agir en temps de crise - 2021.md
+  - content/issues/Agir en temps de crise - 2021.md
 language:
-- French
+  - French
 lastname: Boucheron
 picture: ''
 picture_copyright: ''
@@ -24,10 +34,10 @@ social_channels:
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Patrick_Boucheron
 titles_and_institutions:
-- institution: Collège de France, France
-  titles: []
+  - institution: Collège de France, France
+    titles: []
 years:
-- 2021
+  - 2021
 
 ---
 Patrick Boucheron est historien, spécialiste du Moyen Âge, notamment de l’Italie.
