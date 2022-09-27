@@ -1,15 +1,22 @@
 ---
 active: true
 articles:
-- 2. Crise économique - Inégalités
+  - 2. Crise économique - Inégalités
 createdAt: '2022-09-15T17:33:44.944Z'
-exerpt: ''
+exerpt: >-
+  Titulaire d'une maîtrise de droit à l'université Paris II, Claire Hédon est
+  également diplômée d'un Master 2 en communication du CELSA.
+
+
+  En 2005, elle intègre le conseil d'administration d’ATD Quart Monde, avant
+  d'en devenir vice-présidente en 2011 et présidente en juillet 2015. Comme
+  présidente d’ATD Quart Monde, elle poursuit le travail engagé po
 firstname: Claire
 is_institution: false
 issue:
-- content/issues/Agir en temps de crise - 2021.md
+  - content/issues/Agir en temps de crise - 2021.md
 language:
-- French
+  - French
 lastname: Hédon
 picture: ''
 picture_copyright: ''
@@ -24,10 +31,10 @@ social_channels:
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Claire_H%C3%A9don
 titles_and_institutions:
-- institution: ''
-  titles: []
+  - institution: ''
+    titles: []
 years:
-- 2021
+  - 2021
 
 ---
 Titulaire d'une maîtrise de droit à l'université Paris II, Claire Hédon est également diplômée d'un Master 2 en communication du CELSA.
