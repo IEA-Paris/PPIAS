@@ -31,12 +31,6 @@ fields:
     time_format: 
     display_utc: false
   default: now
-- name: subissue
-  type: include
-  config: {}
-  template: issue
-  label: Sub-issue
-  description: Edition, theme, vintage...
 pages:
 - content/issues/Agir en temps de crise - 2021.md
 - content/issues/HCERES - PFUE 2022.md
