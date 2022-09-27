@@ -31,11 +31,19 @@ fields:
     time_format: 
     display_utc: false
   default: now
-- name: sub-issue
-  type: include
-  config: {}
-  template: subissue
-  label: Sub-issue
+- name: sub-issues
+  type: field_group_list
+  fields:
+  - name: sub-issue
+    type: include
+    config: {}
+    template: subissue
+    label: Sub-issue
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Sub-issues
 pages:
 - content/issues/Agir en temps de crise - 2021.md
 - content/issues/HCERES - PFUE 2022.md
