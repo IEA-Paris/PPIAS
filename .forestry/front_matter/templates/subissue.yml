@@ -1,4 +1,29 @@
 ---
 label: Subissue
 hide_body: false
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+  description: edition, vintage, theme (e.g. Edition 2022, 5th edition)
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Subtitle
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: place
+  type: text
+  config:
+    required: false
+  label: Place
