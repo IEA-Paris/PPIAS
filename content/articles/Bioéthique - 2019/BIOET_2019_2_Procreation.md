@@ -2,7 +2,7 @@
 needDOI: true
 issue: content/issues/Agir en temps de crise.md
 keywords: []
-date: 2022-10-05T14:44:43Z
+date: 2019-11-21T17:00:43Z
 language: French
 disciplines: ''
 published: false
