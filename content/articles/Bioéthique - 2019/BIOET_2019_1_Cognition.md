@@ -29,8 +29,9 @@ authors:
   picture_copyright: ''
 custom_pdf: ''
 abstract: 'Cognition naturelle, cognition artificielle : conférence inaugurale du
-  cycle "Bioéthique" organisée et animée par Séverine Mathieu, directrice d’études
-  à l’EPHE-PSL, et Simon Luck, directeur scientifique de l’IEA de Paris.'
+  cycle "Bioéthique : aux Frontières de la Vie ?" organisée et animée par Séverine
+  Mathieu, directrice d’études à l’EPHE-PSL, et Simon Luck, directeur scientifique
+  de l’IEA de Paris.'
 sub-issue: 'La Bioéthique : aux Frontières de la Vie ?'
 picture: ''
 picture_copyright: ''
