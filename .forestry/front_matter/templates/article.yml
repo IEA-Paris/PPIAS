@@ -74,6 +74,12 @@ fields:
       file: 
       path: 
   label: Issue
+- name: sub-issue
+  type: text
+  config:
+    required: false
+  label: Sub-issue
+  description: Make sure to strictly paste or copy the name of the subissue
 - name: picture
   type: file
   config:
