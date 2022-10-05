@@ -5,7 +5,7 @@ date: '2021-02-11T17:00:14.000Z'
 highlight: false
 id: SYdswsu7ESI
 index: 0
-issue: content/issues/Agir en temps de crise - 2021.md
+issue: content/issues/Agir en temps de crise.md
 language: French
 picture: ''
 type: youtube

@@ -15,6 +15,7 @@ firstname: Frédéric
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise - 2021.md
+  - content/issues/Agir en temps de crise.md
 language:
   - French
 lastname: Worms

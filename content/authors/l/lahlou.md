@@ -47,6 +47,7 @@ issue:
   - content/issues/Our Microbial Lives.md
   - content/issues/WPRN Memorandums.md
   - content/issues/Agir en temps de crise - 2021.md
+  - content/issues/Agir en temps de crise.md
 language:
   - English
   - ''
