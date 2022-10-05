@@ -4,6 +4,14 @@ name_of_the_issue: 'Agir en temps de crise  '
 cover: ''
 subtitle: ''
 sub-issues:
+- name: 'La Bioéthique : aux Frontières de la Vie ?'
+  subtitle: Rencontres 2019
+  date: 2019-09-01T14:07:14Z
+  place: "1"
+  description: |
+    On le sait, les évolutions très rapides de la science posent des questions qui mettent en conflit les représentations du vivant : quelle attitude avoir devant certaines innovations ? Qu’autoriser ? Qu’interdire ? Que contrôler ?
+    À propos de thèmes aussi divers que le début et la fin de vie, la procréation médicalement assistée, l’intervention médicale sur le vivant, les discussions et questions sont multiples. De nombreux acteurs sociaux s’y intéressent : médecins, chercheurs, religieux, associations... Durant le premier semestre 2018, se sont organisés les États généraux de la bioéthique inaugurant les débats sur la prochaine révision des lois de bioéthique. Le 24 juillet 2019, un projet de loi a été présenté au Conseil des ministres et est débattu cet automne à l’Assemblée nationale.
+    Du 17 octobre au 11 juin 2020, l’Institut d’études avancées de Paris (IEA) et l’École pratique des hautes études (EPHE, PSL) se proposent de nourrir cette réflexion et participent à l’actualité de ce débat à travers l’organisation d’un cycle de neuf conférences faisant intervenir de nombreux spécialistes de ces questions. Les grands enjeux actuels de la bioéthique seront étudiés à travers le prisme de disciplines variées telles que la philosophie, la sociologie, les neurosciences, la science politique ou encore le droit.
 - name: Les Grandes Crises Contemporaines
   subtitle: Rencontres 2021
   date: 2021-01-01T12:55:43Z
