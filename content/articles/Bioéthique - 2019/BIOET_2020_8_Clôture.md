@@ -41,8 +41,6 @@ highlight: false
 bibliography: ''
 
 ---
-Quelle place les récents débats, qui ont voulu associer les « citoyens au processus de révision », leur ont-ils laissé ? Comment, dans un espace démocratique, s’articulent débat citoyen et débat politique ? Quelles sont les questions éthiques soulevées par exemple par l’ouverture de la PMA aux couples de femmes et aux femmes seules adoptée dans cette nouvelle révision? Comment y répondre? Un dialogue entre Frédéric Worms, directeur adjoint de l’ENS et membre du CCNE, auteur notamment de Pour un humanisme vital, Odile Jacob, 2019 et avec Claire Marin (dir.), Naître et renaître, PUF, 2020 et Séverine Mathieu, sociologue, directrice d’études à l'EPHE, dont le dernier ouvrage « Faire famille aujourd’hui. PMA, bioéthique et religions », Le Cavalier bleu, 2020 s’intéresse à cette révision.
-
-Rencontre organisée par Séverine Mathieu, directrice d’études à l’EPHE-PSL et Saadi Lahlou, directeur de l’IEA de Paris
+Quelle place les récents débats, qui ont voulu associer les « citoyens au processus de révision », leur ont-ils laissé ? Comment, dans un espace démocratique, s’articulent débat citoyen et débat politique ? Quelles sont les questions éthiques soulevées par exemple par l’ouverture de la PMA aux couples de femmes et aux femmes seules adoptée dans cette nouvelle révision? Comment y répondre? Un dialogue entre Frédéric Worms, directeur adjoint de l’ENS et membre du CCNE, auteur notamment de «Pour un humanisme vital», Odile Jacob, 2019, et avec Claire Marin (dir.), «Naître et renaître», PUF, 2020, et Séverine Mathieu, sociologue, directrice d’études à l'EPHE, dont le dernier ouvrage « Faire famille aujourd’hui. PMA, bioéthique et religions », Le Cavalier bleu, 2020, s’intéresse à cette révision.
 
 <Youtube yt="FFvZfsui_ic" caption ="Conférence de clôture. À propos de la révision des lois de bioéthique de 2019"></Youtube>
