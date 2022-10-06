@@ -1,12 +1,12 @@
 ---
-date: 2018-12-31T23:00:00Z
-name_of_the_issue: 'Agir en temps de crise  '
+date: 2018-12-31T23:00:00.000+00:00
+name_of_the_issue: 'Agir en Temps de Crise  '
 cover: ''
 subtitle: ''
 sub-issues:
 - name: 'La Bioéthique : aux Frontières de la Vie ?'
   subtitle: Rencontres 2019
-  date: 2019-09-01T14:07:14Z
+  date: 2019-09-01T14:07:14.000+00:00
   place: "1"
   description: |
     On le sait, les évolutions très rapides de la science posent des questions qui mettent en conflit les représentations du vivant : quelle attitude avoir devant certaines innovations ? Qu’autoriser ? Qu’interdire ? Que contrôler ?
@@ -14,7 +14,7 @@ sub-issues:
     Du 17 octobre au 11 juin 2020, l’Institut d’études avancées de Paris (IEA) et l’École pratique des hautes études (EPHE, PSL) se proposent de nourrir cette réflexion et participent à l’actualité de ce débat à travers l’organisation d’un cycle de neuf conférences faisant intervenir de nombreux spécialistes de ces questions. Les grands enjeux actuels de la bioéthique seront étudiés à travers le prisme de disciplines variées telles que la philosophie, la sociologie, les neurosciences, la science politique ou encore le droit.
 - name: Les Grandes Crises Contemporaines
   subtitle: Rencontres 2021
-  date: 2021-01-01T12:55:43Z
+  date: 2021-01-01T12:55:43.000+00:00
   place: "2"
   description: |
     Crise climatique, crise sanitaire, crise migratoire, crise économique mais aussi crise des rapports et identités de genre … De nombreux systèmes établis sont déstabilisés, voire profondément remis en cause. De manière urgente, les crises contemporaines posent la question de savoir comment agir , alors que précisément les modèles habituels sont mis en défaut.
