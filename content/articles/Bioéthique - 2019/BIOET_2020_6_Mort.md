@@ -41,6 +41,4 @@ bibliography: ''
 ---
 La recherche fondamentale sur le vieillissement a pris un tour intéressant ces dernières années avec un développement rapide des biomarqueurs prédictifs de mortalité chez les organismes modèles, notamment la drosophile, ainsi que chez l’être humain à travers les améliorations des approches d’identification de molécules circulantes en masse. Si la prédiction de survenue de la mort n'est pas une idée nouvelle (on trouve depuis la fin du XVIIe siècle, résumés dans des tables de mortalité des estimations des multiples paramètres liés à la mort au niveau populationnel ; les médecins tiennent compte de l'espérance de vie médiane dans le pronostic quotidien et la conception de la stratégie thérapeutique), cette recherche invite à réfléchir au développement de prédicteurs de survenue de la mort naturelle imminente en population générale et au niveau individuel. Cette conférence est consacrée à analyser l'idée de prédiction de la mort, et à mettre en évidence les outils conceptuels et éthiques dont nous disposons pour l'appréhender.
 
-Rencontre organisée par Séverine Mathieu, directrice d’études à l’EPHE-PSL et Saadi Lahlou, directeur de l’IEA de Paris.
-
 <Youtube yt="JtvVqHNYmHM" caption ="L'anticipation de la mort et la fin de vie"></Youtube>
