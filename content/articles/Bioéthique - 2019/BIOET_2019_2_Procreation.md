@@ -41,6 +41,4 @@ bibliography: ''
 ---
 La loi de bioéthique en cours de révision parlementaire modifie sérieusement le paysage de la procréation médicalisée. Elle ouvre l’accès à la PMA aux couples lesbiens et aux femmes seules. Elle prévoit de lever l’anonymat des dons de gamètes. Les conceptions qui sous-tendent cette réforme articulent une vision de l’évolution des familles, une exigence d’égalité et un engagement en faveur de plus de liberté procréative. Libéralisation ou libéralisme ?
 
-Rencontre organisée par Séverine Mathieu, directrice d’études à l’EPHE-PSL et Saadi Lahlou, directeur de l’IEA de Paris. 
-
 <Youtube yt="7ZDsabA4fyc" caption ="La bioéthique de la procréation revisitée"></Youtube>
