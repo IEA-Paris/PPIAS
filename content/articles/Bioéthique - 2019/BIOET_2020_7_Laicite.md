@@ -43,6 +43,4 @@ Alors que la laïcité s’est progressivement érigée en principe de strict re
 
 Les évolutions dans le domaine de la gestion du vivant ont, depuis les années 1960-1970, bousculé le concept et la pratique de la laïcité française. Alors que la laïcité s’est progressivement érigée en principe de strict refus de l’intervention du religieux dans l’activité législative, les questions de bioéthique ont relégitimé la participation des forces religieuse au débat public. La conférence tentera de montrer que ce double mouvement n’est peut-être pas aussi paradoxal qu’on pourrait le penser.
 
-Rencontre en ligne organisée par Séverine Mathieu, directrice d’études à l’EPHE-PSL et Saadi Lahlou, directeur de l’IEA de Paris.
-
 <Youtube yt="IqlQp5gyfts" caption ="Bioéthique et laïcité"></Youtube>
