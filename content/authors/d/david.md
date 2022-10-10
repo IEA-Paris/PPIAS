@@ -2,6 +2,7 @@
 active: true
 articles:
   - 6. Crise environnementale
+createdAt: '2022-10-10T10:18:07.808Z'
 exerpt: ''
 firstname: Bruno
 is_institution: false

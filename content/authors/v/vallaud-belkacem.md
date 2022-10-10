@@ -2,6 +2,7 @@
 active: true
 articles:
   - 5. Crise des identités de genre - Controverses sur le genre
+createdAt: '2022-10-10T10:18:07.812Z'
 exerpt: ''
 firstname: Najat
 is_institution: false

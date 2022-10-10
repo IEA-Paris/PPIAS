@@ -2,6 +2,7 @@
 active: true
 articles:
   - BIOET_2020_4_Vieillissement
+createdAt: '2022-10-10T10:18:07.812Z'
 exerpt: ''
 firstname: Anne
 is_institution: false

@@ -2,6 +2,7 @@
 active: true
 articles:
   - '4. 1999 : la France dans la tempête'
+createdAt: '2022-10-10T10:18:07.808Z'
 exerpt: ''
 firstname: Claude
 is_institution: false

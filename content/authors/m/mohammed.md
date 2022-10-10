@@ -2,6 +2,7 @@
 active: true
 articles:
   - '3. 2005 : La crise des banlieues'
+createdAt: '2022-10-10T10:18:07.812Z'
 exerpt: ''
 firstname: Marwan
 is_institution: false

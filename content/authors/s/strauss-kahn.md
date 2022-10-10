@@ -2,6 +2,7 @@
 active: true
 articles:
   - '2. 2008-2020 : Qu''a-t-on appris des crises économiques et financières ?'
+createdAt: '2022-10-10T10:18:07.812Z'
 exerpt: ''
 firstname: Marc-Olivier
 is_institution: false

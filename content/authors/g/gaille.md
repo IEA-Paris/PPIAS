@@ -2,6 +2,7 @@
 active: true
 articles:
   - BIOET_2020_6_Mort
+createdAt: '2022-10-10T10:18:07.808Z'
 exerpt: ''
 firstname: Marie
 is_institution: false

@@ -2,6 +2,7 @@
 active: true
 articles:
   - BIOET_2019_3_Cerveaux
+createdAt: '2022-10-10T10:18:07.808Z'
 exerpt: ''
 firstname: Hervé
 is_institution: false
