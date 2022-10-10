@@ -5,7 +5,7 @@ keywords: []
 date: 2019-10-17T16:00:36.000+00:00
 language: French
 disciplines: ''
-published: false
+published: true
 doi: ''
 article_title: 'Conférence inaugurale : Cognition naturelle, cognition artificielle'
 authors:
