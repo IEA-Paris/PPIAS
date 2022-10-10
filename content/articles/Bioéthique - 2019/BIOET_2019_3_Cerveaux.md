@@ -5,7 +5,7 @@ keywords: []
 date: 2019-12-04T17:00:26Z
 language: French
 disciplines: ''
-published: false
+published: true
 doi: ''
 article_title: La Bioéthique de nos Cerveaux
 authors:
