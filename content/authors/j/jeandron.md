@@ -1,17 +1,17 @@
 ---
 active: true
 articles:
-  - Memorandum 14
+  - '4. 1999 : la France dans la tempête'
 exerpt: ''
-firstname: 'Aurélie '
+firstname: Claude
+is_institution: false
 issue:
-  - content/issues/WPRN Memorandums.md
+  - content/issues/Agir en temps de crise.md
 language:
-  - English
-lastname: Louchart
+  - French
+lastname: Jeandron
 picture: ''
 picture_copyright: ''
-reference: ''
 social_channels:
   google_scholar: ''
   instagram: ''
@@ -22,7 +22,9 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_institutions: []
+titles_and_institutions:
+  - institution: association Sauvons le Climat, France
+    titles: []
 years:
   - 2022
 

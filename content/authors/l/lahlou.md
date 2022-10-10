@@ -17,6 +17,7 @@ articles:
   - 4. Histoire des pandémies
   - 0.1_WPRN21_Welcome Conference
   - 9.0_WPRN21_Closing Panel
+  - '4. 1999 : la France dans la tempête'
 categories:
   - content/categories/WPRN21.md
   - []

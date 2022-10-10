@@ -248,7 +248,7 @@ export default ` +
 export const insertDocuments = (data, cat, filenameFlag) => {
   // TODO diff and selectively CRUD
   // create the folder structure or delete all the previous author files
-  for (const folder of 'abcdefghijklmnopqrstuvwxyz') {
+  for (const folder of 'abcdefghijklmnopqrstuvwxyz0123456789') {
     const folderPath = path.resolve('content/' + cat + '/' + folder)
     if (!fs.existsSync(folderPath)) {
       fs.mkdirSync(folderPath, { recursive: true })

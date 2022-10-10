@@ -1,17 +1,17 @@
 ---
 active: true
 articles:
-  - Memorandum 14
+  - BIOET_2019_2_Procreation
 exerpt: ''
-firstname: 'Aurélie '
+firstname: Dominique
+is_institution: false
 issue:
-  - content/issues/WPRN Memorandums.md
+  - content/issues/Agir en temps de crise.md
 language:
-  - English
-lastname: Louchart
+  - French
+lastname: Mehl
 picture: ''
 picture_copyright: ''
-reference: ''
 social_channels:
   google_scholar: ''
   instagram: ''
@@ -22,8 +22,10 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_institutions: []
+titles_and_institutions:
+  - institution: CNRS, France
+    titles: []
 years:
-  - 2022
+  - 2019
 
 ---

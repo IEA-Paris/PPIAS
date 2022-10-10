@@ -1,9 +1,9 @@
 ---
 active: true
 articles:
-  - Our Microbial Lives - table-ronde 2
+  - Our Microbial Lives - table-ronde 1
 exerpt: ''
-firstname: Elise
+firstname: Élise
 issue:
   - content/issues/Our Microbial Lives.md
 language:
@@ -13,17 +13,17 @@ picture: ''
 picture_copyright: ''
 reference: ''
 social_channels:
-  google_scholar: ''
+  google_scholar: https://scholar.google.fr/citations?user=21W9xTQAAAAJ&hl=fr
   instagram: ''
   linkedin: ''
   mendeley: ''
-  orcid: ''
-  researchgate: ''
+  orcid: 0000-0002-4168-4352
+  researchgate: https://www.researchgate.net/profile/Elise-Tancoigne
   twitter: ''
-  website: ''
+  website: https://www.etancoigne.fr/
   wikipedia: ''
 titles_and_institutions:
-  - institution: Université de Lausanne, Suisse
+  - institution: Université de Lausanne, Switzerland
     titles: []
 years:
   - 2021
