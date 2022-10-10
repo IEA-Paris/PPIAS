@@ -5,7 +5,7 @@ keywords: []
 date: 2020-05-05T16:00:48Z
 language: French
 disciplines: ''
-published: false
+published: true
 doi: ''
 article_title: Bioéthique et Laïcité
 authors:
