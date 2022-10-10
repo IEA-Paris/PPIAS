@@ -5,7 +5,7 @@ keywords: []
 date: 2020-03-02T17:00:07Z
 language: French
 disciplines: ''
-published: false
+published: true
 doi: ''
 article_title: L'Anticipation de la Mort et la Fin de Vie
 authors:
