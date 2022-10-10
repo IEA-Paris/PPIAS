@@ -7,7 +7,6 @@ exerpt: ''
 firstname: Paulius
 issue:
   - content/issues/WPRN21 Videos.md
-  - content/issues/WPRN21 Videos.md
 language:
   - English
 lastname: Yamin

@@ -1,9 +1,9 @@
 ---
 active: true
 articles:
-  - Memorandum 14
   - Memorandum 12
   - Memorandum 13
+  - Memorandum 14
 createdAt: '2022-09-21T08:08:29.832Z'
 exerpt: ''
 firstname: Aurélie
@@ -26,39 +26,39 @@ social_channels:
   website: ''
   wikipedia: ''
 tags:
-  - 'Agriculture, Alimentation '
-  - Aging, Demography
-  - Big Data, Artificial Intelligence
-  - Consumption and Production Patterns
-  - 'Democracy, Civil Society, Governance '
-  - 'Environmental change, Ecology '
-  - 'Equality & Diversity Studies '
-  - 'Human Behaviours, Social Relations '
-  - 'Innovation, R&D '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Risks, Crisis Management '
-  - 'Public Health '
-  - 'Public Policy, Evaluation, Impact '
-  - 'International Relations and Co-operation '
   - 'Simulation / Modeling '
   - Democracy, Civil Society, Governance
+  - 'Environmental change, Ecology '
   - Public Health
+  - 'Public Policy, Evaluation, Impact '
   - Risks, Crisis Management
   - 'Policy Document '
   - 'Big Data, Artificial Intelligence '
+  - 'Democracy, Civil Society, Governance '
+  - 'International Relations and Co-operation '
+  - 'Public Discourse, Rhetorics, Communication '
   - Cities, Mobility, Urban Planning
   - 'Education '
+  - 'Equality & Diversity Studies '
   - 'Violence, Criminality, Security '
   - 'Work, Welfare, Social protection '
+  - 'Human Behaviours, Social Relations '
   - 'Consumption and Production Patterns '
+  - 'Public Health '
   - 'Religions and Worldviews '
+  - 'Risks, Crisis Management '
   - 'Digital Humanities '
   - 'Quantitative survey '
   - 'Qualitative analysis '
   - 'Dataset, Data Mining '
+  - 'Innovation, R&D '
+  - 'Agriculture, Alimentation '
+  - Aging, Demography
+  - Big Data, Artificial Intelligence
+  - Consumption and Production Patterns
 titles_and_institutions: []
 years:
-  - 2022
   - 2021
+  - 2022
 
 ---

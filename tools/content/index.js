@@ -1,5 +1,6 @@
 /* eslint-disable no-useless-escape */
 /* import includeCategories from './includeCategories' */
+import tsvToArticles from '../tsvToArticles/tsvToArticles'
 import addCountMap from './addCountMap'
 import formatArticle from './formatArticle'
 import mergeAuthors from './mergeAuthors'
@@ -17,8 +18,10 @@ export default {
       `)
       if (once) {
         console.log('starting once')
+        tsvToArticles()
+
         once = false
-        await processArticles(content)
+        // await processArticles(content)
         await generateMedia(content)
         await mergeAuthors(content)
         await makeFiltersData()

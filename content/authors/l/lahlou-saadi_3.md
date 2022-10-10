@@ -1,17 +1,17 @@
 ---
 active: true
 articles:
+  - Closing Panel-WPRN21
   - Our_Microbial_Lives
   - 1.0.0 Lahlou Intro session Livres
-  - Closing Panel-WPRN21
   - WPRN21_Conference
-createdAt: '2022-09-21T08:08:29.812Z'
+createdAt: '2022-09-21T08:08:29.836Z'
 exerpt: ''
 firstname: Saadi
 issue:
+  - content/issues/WPRN21 Videos.md
   - content/issues/Our Microbial Lives.md
   - content/issues/HCERES - PFUE 2022.md
-  - content/issues/WPRN21 Videos.md
 language:
   - English
   - French

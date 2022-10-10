@@ -7,7 +7,6 @@ exerpt: ''
 firstname: Marc
 issue:
   - content/issues/WPRN21 Videos.md
-  - content/issues/WPRN21 Videos.md
 language:
   - English
 lastname: Fleurbaey

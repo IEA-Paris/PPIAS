@@ -121,7 +121,7 @@ export default (document) => {
       document.footnotes = []
       document.media = []
       document.years =
-        (document.date && document.date?.getFullYear()) ||
+        (document.date && document.date.getFullYear()) ||
         new Date().now().getFullYear()
       const toc2 = []
       // add the youtube thumbnail to the media of the article

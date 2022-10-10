@@ -9,7 +9,6 @@ firstname: Helga
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/HCERES - PFUE 2022.md
-  - content/issues/WPRN21 Videos.md
 language:
   - English
 lastname: Nowotny

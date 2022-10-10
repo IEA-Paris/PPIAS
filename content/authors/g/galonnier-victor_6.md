@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - Memorandum_8
+  - Memorandum_9
 createdAt: '2022-09-21T08:08:29.832Z'
 exerpt: ''
 firstname: Victor
@@ -10,36 +10,25 @@ issue:
 language:
   - English
 lastname: Galonnier
-picture: ''
-picture_copyright: ''
-reference: ''
-social_channels:
-  google_scholar: ''
-  instagram: ''
-  linkedin: ''
-  mendeley: ''
-  orcid: ''
-  researchgate: ''
-  twitter: ''
-  website: ''
-  wikipedia: ''
 tags:
-  - Human Behaviours, Social Relations
-  - Public Discourse, Rhetorics, Communication
-  - Violence, Criminality, Security
-  - Work, Welfare, Social protection
-  - Religions and Worldviews
-  - Firms, Markets, Finance
-  - Dataset, Data Mining
-  - Qualitative analysis
-  - Democracy, Civil Society, Governance
-  - Public Policy, Evaluation, Impact
   - Public Health
-  - Risks, Crisis Management
-  - International Relations and Co-operation
+  - Leisure, Tourism
+  - Human Behaviours, Social Relations
+  - Environmental change, Ecology
+  - Cities, Mobility, Urban Planning
+  - Democracy, Civil Society, Governance
+  - Agriculture, Alimentation
+  - Public Discourse, Rhetorics, Communication
+  - Public Policy, Evaluation, Impact
+  - Consumption and Production Patterns
   - Inequalities, Poverty, Development
-  - Equality & Diversity Studies
-titles_and_institutions: []
+  - Environmental Studies
+  - Health and well-being
+  - Urban nature
+  - wildland recreation
+  - outcomes
+  - personal development
+  - outdoor recreation
 years:
   - 2020
 

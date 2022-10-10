@@ -1,9 +1,9 @@
 ---
 active: true
 articles:
-  - Memorandum 13
-  - Memorandum 12
   - Memorandum 14
+  - Memorandum 12
+  - Memorandum 13
 createdAt: '2022-09-21T08:08:29.832Z'
 exerpt: ''
 firstname: Aurélie
@@ -26,39 +26,39 @@ social_channels:
   website: ''
   wikipedia: ''
 tags:
-  - 'Consumption and Production Patterns '
-  - 'Democracy, Civil Society, Governance '
-  - 'Public Health '
-  - 'Religions and Worldviews '
-  - 'Human Behaviours, Social Relations '
-  - 'Risks, Crisis Management '
-  - 'Digital Humanities '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Equality & Diversity Studies '
-  - 'Quantitative survey '
-  - 'Qualitative analysis '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Dataset, Data Mining '
-  - 'Simulation / Modeling '
-  - 'Innovation, R&D '
-  - Democracy, Civil Society, Governance
-  - 'Environmental change, Ecology '
-  - Public Health
-  - Risks, Crisis Management
-  - 'Policy Document '
-  - 'Big Data, Artificial Intelligence '
-  - 'International Relations and Co-operation '
-  - Cities, Mobility, Urban Planning
-  - 'Education '
-  - 'Violence, Criminality, Security '
-  - 'Work, Welfare, Social protection '
   - 'Agriculture, Alimentation '
   - Aging, Demography
   - Big Data, Artificial Intelligence
   - Consumption and Production Patterns
+  - 'Democracy, Civil Society, Governance '
+  - 'Environmental change, Ecology '
+  - 'Equality & Diversity Studies '
+  - 'Human Behaviours, Social Relations '
+  - 'Innovation, R&D '
+  - 'Public Discourse, Rhetorics, Communication '
+  - 'Risks, Crisis Management '
+  - 'Public Health '
+  - 'Public Policy, Evaluation, Impact '
+  - 'International Relations and Co-operation '
+  - 'Simulation / Modeling '
+  - Democracy, Civil Society, Governance
+  - Public Health
+  - Risks, Crisis Management
+  - 'Policy Document '
+  - 'Big Data, Artificial Intelligence '
+  - Cities, Mobility, Urban Planning
+  - 'Education '
+  - 'Violence, Criminality, Security '
+  - 'Work, Welfare, Social protection '
+  - 'Consumption and Production Patterns '
+  - 'Religions and Worldviews '
+  - 'Digital Humanities '
+  - 'Quantitative survey '
+  - 'Qualitative analysis '
+  - 'Dataset, Data Mining '
 titles_and_institutions: []
 years:
-  - 2021
   - 2022
+  - 2021
 
 ---

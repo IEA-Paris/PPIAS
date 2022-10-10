@@ -5,7 +5,6 @@
   </div>
 </template>
 <script>
-import { boolean } from 'yargs'
 import { formatAuthors, highlight } from '~/assets/utils/transforms'
 export default {
   props: {
@@ -25,7 +24,7 @@ export default {
     },
     link: {
       required: false,
-      type: boolean,
+      type: Boolean,
       default: false,
     },
   },

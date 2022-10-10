@@ -7,7 +7,6 @@ exerpt: ''
 firstname: Flore
 issue:
   - content/issues/WPRN21 Videos.md
-  - content/issues/WPRN21 Videos.md
 language:
   - English
 lastname: Gubert
