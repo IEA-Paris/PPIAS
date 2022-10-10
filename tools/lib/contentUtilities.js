@@ -278,7 +278,7 @@ export const insertDocuments = (data, cat, filenameFlag) => {
     const fileName = slugify(doc[filenameFlag].trim()) + '.md'
 
     fs.writeFileSync(
-      './content/' + cat + '/' + fileName[0] + '/' + fileName,
+      './content/' + cat + '/' + slugify(fileName[0]) + '/' + fileName,
       `---
 ${dump(filteredDoc, { noRefs: true, sortKeys: true })}
 ---
