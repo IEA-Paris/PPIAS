@@ -5,7 +5,7 @@ keywords: []
 date: 2019-11-21T17:00:43Z
 language: French
 disciplines: ''
-published: false
+published: true
 doi: ''
 article_title: La Bioéthique de la Procréation Revisité
 authors:
