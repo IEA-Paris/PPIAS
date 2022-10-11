@@ -1,38 +1,25 @@
 ---
 active: true
 articles:
-  - 1.0.0 Lahlou Intro session Livres
-  - Our_Microbial_Lives
   - Closing Panel-WPRN21
+  - Our_Microbial_Lives
+  - 1.0.0 Lahlou Intro session Livres
   - WPRN21_Conference
-  - '4. 1999 : la France dans la tempête'
-  - 1. Crise sanitaire - Covid19
-  - 2. Crise économique - Inégalités
-  - 3. Crise migratoire - Du global au local
-  - 4. Histoire des pandémies
-  - Memorandum_01
-  - 0.1_WPRN21_Welcome Conference
-  - 9.0_WPRN21_Closing Panel
-createdAt: '2022-09-21T08:08:29.812Z'
+createdAt: '2022-09-21T08:08:29.836Z'
 exerpt: ''
 firstname: Saadi
-is_institution: false
 issue:
-  - content/issues/HCERES - PFUE 2022.md
+  - content/issues/WPRN21 Videos.md
   - content/issues/Our Microbial Lives.md
-  - content/issues/WPRN21 Videos.md
-  - content/issues/Agir en temps de crise.md
-  - content/issues/WPRN Memorandums.md
-  - content/issues/WPRN21 Videos.md
+  - content/issues/HCERES - PFUE 2022.md
 language:
-  - French
   - English
+  - French
 lastname: Lahlou
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: London School of Economics and Political Science , United Kingdom
-    positions: []
   - institution: Paris Institute for Advanced Study, France
     titles:
       - Director
@@ -53,8 +40,7 @@ tags:
   - Online conference
   - Microbes
 years:
-  - 2022
   - 2021
-  - 2020
+  - 2022
 
 ---

@@ -5,7 +5,9 @@
     @click="$emit('close')"
   >
     <v-list-item-icon>
-      <v-icon>mdi-account-outline</v-icon>
+      <v-icon>{{
+        item.firtsname ? 'mdi-account-outline' : 'mdi-domain'
+      }}</v-icon>
     </v-list-item-icon>
     <v-list-item-content>
       <v-list-item-title>

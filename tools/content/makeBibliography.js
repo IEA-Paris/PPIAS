@@ -2,9 +2,9 @@ import Citation from 'citation-js'
 const fs = require('fs')
 
 export default (document) => {
-  console.log('BIBLIO', document.article_title)
   // generate bibliography if required
   if (document.bibliography?.length) {
+    console.log('BIBLIO', document.article_title)
     document.biblioFile = document.bibliography
     const data = fs.readFileSync('./static/' + document.bibliography, 'utf8')
     const cites = new Citation(data)

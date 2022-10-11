@@ -1,12 +1,12 @@
 ---
 active: true
 articles:
+  - Memorandum_4
   - Concern_for_others
   - Memorandum_11
   - Memorandum_3
-  - Memorandum_4
-  - Memorandum_7
   - Memorandum_8
+  - Memorandum_7
   - Memorandum_9
   - memorandum_2
 createdAt: '2022-09-21T08:08:29.832Z'
@@ -32,20 +32,24 @@ social_channels:
   website: ''
   wikipedia: ''
 tags:
+  - Human Behaviours, Social Relations
+  - Public Policy, Evaluation, Impact
+  - Risks, Crisis Management
+  - Culture and The Arts
+  - Digital Humanities
+  - Work, Welfare, Social protection
+  - Violence, Criminality, Security
+  - Public Health
+  - Inequalities, Poverty, Development
+  - Innovation, R&D
   - covid-19
   - coronavirus
   - socialnorms
   - decision-making
   - Infection likelihood perception
-  - Public Health
-  - Human Behaviours, Social Relations
-  - Risks, Crisis Management
   - Public Policy
-  - Inequalities, Poverty, Development
   - Equality & Diversity Studies
-  - Work, Welfare, Social protection
   - Consumption and Production Patterns
-  - Public Policy, Evaluation, Impact
   - Firms, Markets, Finance
   - Agriculture, Alimentation
   - Big Data, Artificial Intelligence
@@ -58,15 +62,11 @@ tags:
   - Social Relations
   - Human Behaviours
   - Psychological
-  - Culture and The Arts
-  - Digital Humanities
-  - Violence, Criminality, Security
-  - Innovation, R&D
   - Public Discourse, Rhetorics, Communication
-  - Democracy, Civil Society, Governance
   - Religions and Worldviews
   - Dataset, Data Mining
   - Qualitative analysis
+  - Democracy, Civil Society, Governance
   - International Relations and Co-operation
   - Leisure, Tourism
   - Environmental change, Ecology

@@ -1,8 +1,8 @@
 ---
 active: true
 articles:
-  - 3.2.0_intro_Kulczycki
   - 2.2.2_Kulczycki
+  - 3.2.0_intro_Kulczycki
 createdAt: '2022-09-21T08:08:29.828Z'
 exerpt: ''
 firstname: Emanuel
@@ -15,7 +15,7 @@ lastname: Kulczycki
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: Ministry of Education and Science, Poland
+  - institution: Adam Mickiewicz University in Poznan, Poland
     positions: []
     titles: []
   - institution: Adam Mickiewicz University, Poland

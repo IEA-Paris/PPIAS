@@ -1,22 +1,22 @@
 ---
 active: true
 articles:
-  - Closing Panel-WPRN21
   - 3.1.1_Nowotny
+  - Closing Panel-WPRN21
   - 9.0_WPRN21_Closing Panel
-createdAt: '2022-09-21T08:08:29.836Z'
+createdAt: '2022-09-21T08:08:29.828Z'
 exerpt: ''
 firstname: Helga
 issue:
-  - content/issues/WPRN21 Videos.md
   - content/issues/HCERES - PFUE 2022.md
+  - content/issues/WPRN21 Videos.md
 language:
   - English
 lastname: Nowotny
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: ETH Zurich, Switzerland
+  - institution: ERC Scientific Council
     positions: []
     titles: []
   - institution: Swiss Federal Institute of Technology in Zürich (ETH Zurich), Switzerland
@@ -35,7 +35,7 @@ social_channels:
   wikipedia: https://en.wikipedia.org/wiki/Helga_Nowotny
 tags: []
 years:
-  - 2021
   - 2022
+  - 2021
 
 ---

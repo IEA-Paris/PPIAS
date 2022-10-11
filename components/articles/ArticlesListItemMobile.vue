@@ -96,7 +96,8 @@
               : ''
           "
         >
-          <IssueBadge :issue="item.issue" inline></IssueBadge>
+          <IssueBadge :issue="item.issue"></IssueBadge>
+
           <span v-html="highlightWord(item.article_title)"></span>
           <!--          <ArticleCategories
             v-if="$vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)"

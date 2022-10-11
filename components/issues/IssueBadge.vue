@@ -1,12 +1,12 @@
 <template>
   <v-chip
+    v-if="!$route.name.startsWith('issue')"
     small
     class="d-inline-block issue-badge"
-    nuxt
-    :to="'/issue/' + issue.slice(15, -3)"
     :inline="inline"
+    @click="$router.push('/issue/' + issueText)"
   >
-    {{ issue.slice(15, -3) }}
+    {{ issueText }}
   </v-chip>
 </template>
 <script>
@@ -24,10 +24,15 @@ export default {
     },
   },
   data() {
-    return {}
+    return {
+      issueText: this.issue.slice(15, -3),
+    }
   },
+
   computed: {},
-  mounted() {},
+  mounted() {
+    console.log('issueText: ', this.issueText)
+  },
   methods: {},
 }
 </script>

@@ -1,12 +1,12 @@
 ---
 active: true
 articles:
-  - Memorandum_8
+  - Memorandum_3
   - Concern_for_others
   - Memorandum_11
-  - Memorandum_3
   - Memorandum_4
   - Memorandum_7
+  - Memorandum_8
   - Memorandum_9
   - memorandum_2
 createdAt: '2022-09-21T08:08:29.832Z'
@@ -32,42 +32,42 @@ social_channels:
   website: ''
   wikipedia: ''
 tags:
-  - Human Behaviours, Social Relations
-  - Public Discourse, Rhetorics, Communication
-  - Violence, Criminality, Security
-  - Work, Welfare, Social protection
-  - Religions and Worldviews
-  - Firms, Markets, Finance
-  - Dataset, Data Mining
-  - Qualitative analysis
-  - Democracy, Civil Society, Governance
-  - Public Policy, Evaluation, Impact
+  - Students
+  - Stress
+  - Depression
+  - mental health
+  - Education
   - Public Health
-  - Risks, Crisis Management
-  - International Relations and Co-operation
-  - Inequalities, Poverty, Development
+  - Social protection
+  - Social Relations
+  - Human Behaviours
+  - Public Policy, Evaluation, Impact
   - Equality & Diversity Studies
+  - Psychological
   - covid-19
   - coronavirus
   - socialnorms
   - decision-making
   - Infection likelihood perception
+  - Human Behaviours, Social Relations
+  - Risks, Crisis Management
   - Public Policy
+  - Inequalities, Poverty, Development
+  - Work, Welfare, Social protection
   - Consumption and Production Patterns
+  - Firms, Markets, Finance
   - Agriculture, Alimentation
   - Big Data, Artificial Intelligence
-  - Education
-  - Students
-  - Stress
-  - Depression
-  - mental health
-  - Social protection
-  - Social Relations
-  - Human Behaviours
-  - Psychological
   - Culture and The Arts
   - Digital Humanities
+  - Violence, Criminality, Security
   - Innovation, R&D
+  - Public Discourse, Rhetorics, Communication
+  - Democracy, Civil Society, Governance
+  - Religions and Worldviews
+  - Dataset, Data Mining
+  - Qualitative analysis
+  - International Relations and Co-operation
   - Leisure, Tourism
   - Environmental change, Ecology
   - Cities, Mobility, Urban Planning

@@ -1,7 +1,14 @@
 ---
-active: false
+active: true
 articles:
+  - Memorandum_8
+  - Concern_for_others
+  - Memorandum_11
+  - Memorandum_3
+  - Memorandum_4
   - Memorandum_7
+  - Memorandum_9
+  - memorandum_2
 createdAt: '2022-09-21T08:08:29.832Z'
 exerpt: ''
 firstname: Victor
@@ -25,18 +32,58 @@ social_channels:
   website: ''
   wikipedia: ''
 tags:
-  - Big Data, Artificial Intelligence
-  - Equality & Diversity Studies
   - Human Behaviours, Social Relations
   - Public Discourse, Rhetorics, Communication
-  - Democracy, Civil Society, Governance
-  - Consumption and Production Patterns
-  - Public Health
-  - Culture and The Arts
-  - Innovation, R&D
   - Violence, Criminality, Security
+  - Work, Welfare, Social protection
+  - Religions and Worldviews
+  - Firms, Markets, Finance
+  - Dataset, Data Mining
+  - Qualitative analysis
+  - Democracy, Civil Society, Governance
+  - Public Policy, Evaluation, Impact
+  - Public Health
   - Risks, Crisis Management
+  - International Relations and Co-operation
+  - Inequalities, Poverty, Development
+  - Equality & Diversity Studies
+  - covid-19
+  - coronavirus
+  - socialnorms
+  - decision-making
+  - Infection likelihood perception
+  - Public Policy
+  - Consumption and Production Patterns
+  - Agriculture, Alimentation
+  - Big Data, Artificial Intelligence
+  - Education
+  - Students
+  - Stress
+  - Depression
+  - mental health
+  - Social protection
+  - Social Relations
+  - Human Behaviours
+  - Psychological
+  - Culture and The Arts
+  - Digital Humanities
+  - Innovation, R&D
+  - Leisure, Tourism
+  - Environmental change, Ecology
+  - Cities, Mobility, Urban Planning
+  - Environmental Studies
+  - Health and well-being
+  - Urban nature
+  - wildland recreation
+  - outcomes
+  - personal development
+  - outdoor recreation
+  - Artificial Intelligence
+  - Stopcovid
+  - police
+  - privacy
 years:
   - 2020
+  - 2021
 
 ---

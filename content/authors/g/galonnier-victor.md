@@ -1,23 +1,23 @@
 ---
 active: true
 articles:
-  - Memorandum_11
+  - memorandum_2
   - Concern_for_others
+  - Memorandum_11
   - Memorandum_3
   - Memorandum_4
-  - Memorandum_7
   - Memorandum_8
   - Memorandum_9
-  - memorandum_2
+  - Memorandum_7
   - Memorandum_03
   - Memorandum_04
   - Memorandum_05
   - Memorandum_09
-  - Memorandum_07
-  - Memorandum_08
   - Memorandum_06
+  - Memorandum_08
+  - Memorandum_07
   - memorandum_02
-createdAt: '2022-09-21T08:08:29.832Z'
+createdAt: '2022-09-21T08:08:29.836Z'
 exerpt: ''
 firstname: Victor
 issue:
@@ -40,24 +40,30 @@ social_channels:
   website: ''
   wikipedia: ''
 tags:
-  - Human Behaviours, Social Relations
-  - Inequalities, Poverty, Development
-  - Equality & Diversity Studies
-  - Work, Welfare, Social protection
-  - Consumption and Production Patterns
+  - Artificial Intelligence
+  - Public Health
+  - Democracy, Civil Society, Governance
+  - Risks, Crisis Management
   - Public Policy, Evaluation, Impact
-  - Firms, Markets, Finance
-  - Agriculture, Alimentation
-  - Big Data, Artificial Intelligence
-  - Education
+  - Innovation, R&D
+  - Human Behaviours, Social Relations
+  - Stopcovid
+  - police
+  - privacy
   - covid-19
   - coronavirus
   - socialnorms
   - decision-making
   - Infection likelihood perception
-  - Public Health
-  - Risks, Crisis Management
   - Public Policy
+  - Inequalities, Poverty, Development
+  - Equality & Diversity Studies
+  - Work, Welfare, Social protection
+  - Consumption and Production Patterns
+  - Firms, Markets, Finance
+  - Agriculture, Alimentation
+  - Big Data, Artificial Intelligence
+  - Education
   - Students
   - Stress
   - Depression
@@ -69,9 +75,7 @@ tags:
   - Culture and The Arts
   - Digital Humanities
   - Violence, Criminality, Security
-  - Innovation, R&D
   - Public Discourse, Rhetorics, Communication
-  - Democracy, Civil Society, Governance
   - Religions and Worldviews
   - Dataset, Data Mining
   - Qualitative analysis
@@ -86,12 +90,8 @@ tags:
   - outcomes
   - personal development
   - outdoor recreation
-  - Artificial Intelligence
-  - Stopcovid
-  - police
-  - privacy
 years:
-  - 2021
   - 2020
+  - 2021
 
 ---

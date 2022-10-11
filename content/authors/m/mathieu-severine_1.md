@@ -1,7 +1,10 @@
 ---
 active: true
 articles:
+  - 3. Crise migratoire - Du global au local
+  - 1. Crise sanitaire - Covid19
   - 2. Crise économique - Inégalités
+  - 4. Histoire des pandémies
 createdAt: '2022-10-11T08:02:22.081Z'
 exerpt: ''
 firstname: Séverine
@@ -15,6 +18,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: EPHE-PSL, France
+    positions: []
     titles: []
 social_channels:
   google_scholar: ''
