@@ -23,7 +23,6 @@ issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/Agir en temps de crise.md
   - content/issues/WPRN Memorandums.md
-  - content/issues/WPRN21 Videos.md
 language:
   - English
   - French

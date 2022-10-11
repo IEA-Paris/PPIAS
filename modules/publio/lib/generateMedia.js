@@ -1,5 +1,5 @@
 import { mergeDeep, insertDocuments } from '../lib/contentUtilities'
-export default async (content) => {
+export default async (content, options) => {
   const { $content } = require('@nuxt/content')
   // TODO filter fields using .only(['field'])
   console.log('generating media')
@@ -25,5 +25,6 @@ export default async (content) => {
     .filter((item, index, self) => item !== undefined)
   // TODO remove duplicate media ID (?)
 
-  insertDocuments(media, 'media', ['article_slug', 'caption'])
+  await insertDocuments(media, 'media', ['article_slug', 'caption'])
+  return options
 }

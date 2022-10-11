@@ -54,7 +54,6 @@ export default {
         .limit(1)
         .fetch()
     )[0]
-    console.log('latestIssue: ', latestIssue)
     const latestIssueArticles = await $content('articles', { deep: true })
       .where({ issue: { $regex: latestIssue.path }, published: true })
       .sortBy('date', 'asc')
@@ -94,13 +93,11 @@ export default {
         .limit(1)
         .fetch()
     )[0]
-    console.log('latestIssue: ', this.latestIssue)
     this.latestIssueArticles = await this.$content('articles', { deep: true })
       .where({ issue: { $regex: this.latestIssue.path }, published: true })
       .sortBy('date', 'asc')
       .limit(6)
       .fetch()
-    console.log('this.latestIssueArticle: ', this.latestIssueArticles)
     this.featuredArticles = await this.$content('articles', { deep: true })
       .where({ highlight: true, published: true })
       .sortBy('date', 'desc')

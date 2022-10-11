@@ -6,7 +6,7 @@
   >
     <v-list-item-icon>
       <v-icon>{{
-        item.firtsname ? 'mdi-account-outline' : 'mdi-domain'
+        item.firstname ? 'mdi-account-outline' : 'mdi-domain'
       }}</v-icon>
     </v-list-item-icon>
     <v-list-item-content>

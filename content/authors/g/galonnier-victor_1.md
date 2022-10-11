@@ -1,22 +1,14 @@
 ---
 active: true
 articles:
-  - Memorandum_11
   - Concern_for_others
+  - Memorandum_11
   - Memorandum_3
   - Memorandum_4
   - Memorandum_7
   - Memorandum_8
   - Memorandum_9
   - memorandum_2
-  - Memorandum_03
-  - Memorandum_04
-  - Memorandum_05
-  - Memorandum_09
-  - Memorandum_07
-  - Memorandum_08
-  - Memorandum_06
-  - memorandum_02
 createdAt: '2022-09-21T08:08:29.832Z'
 exerpt: ''
 firstname: Victor
@@ -40,7 +32,15 @@ social_channels:
   website: ''
   wikipedia: ''
 tags:
+  - covid-19
+  - coronavirus
+  - socialnorms
+  - decision-making
+  - Infection likelihood perception
+  - Public Health
   - Human Behaviours, Social Relations
+  - Risks, Crisis Management
+  - Public Policy
   - Inequalities, Poverty, Development
   - Equality & Diversity Studies
   - Work, Welfare, Social protection
@@ -50,14 +50,6 @@ tags:
   - Agriculture, Alimentation
   - Big Data, Artificial Intelligence
   - Education
-  - covid-19
-  - coronavirus
-  - socialnorms
-  - decision-making
-  - Infection likelihood perception
-  - Public Health
-  - Risks, Crisis Management
-  - Public Policy
   - Students
   - Stress
   - Depression
@@ -91,7 +83,7 @@ tags:
   - police
   - privacy
 years:
-  - 2021
   - 2020
+  - 2021
 
 ---

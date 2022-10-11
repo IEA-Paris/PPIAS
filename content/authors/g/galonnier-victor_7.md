@@ -1,9 +1,9 @@
 ---
 active: true
 articles:
+  - Memorandum_3
   - Concern_for_others
   - Memorandum_11
-  - Memorandum_3
   - Memorandum_4
   - Memorandum_7
   - Memorandum_8
@@ -32,32 +32,32 @@ social_channels:
   website: ''
   wikipedia: ''
 tags:
+  - Students
+  - Stress
+  - Depression
+  - mental health
+  - Education
+  - Public Health
+  - Social protection
+  - Social Relations
+  - Human Behaviours
+  - Public Policy, Evaluation, Impact
+  - Equality & Diversity Studies
+  - Psychological
   - covid-19
   - coronavirus
   - socialnorms
   - decision-making
   - Infection likelihood perception
-  - Public Health
   - Human Behaviours, Social Relations
   - Risks, Crisis Management
   - Public Policy
   - Inequalities, Poverty, Development
-  - Equality & Diversity Studies
   - Work, Welfare, Social protection
   - Consumption and Production Patterns
-  - Public Policy, Evaluation, Impact
   - Firms, Markets, Finance
   - Agriculture, Alimentation
   - Big Data, Artificial Intelligence
-  - Education
-  - Students
-  - Stress
-  - Depression
-  - mental health
-  - Social protection
-  - Social Relations
-  - Human Behaviours
-  - Psychological
   - Culture and The Arts
   - Digital Humanities
   - Violence, Criminality, Security

@@ -1,22 +1,22 @@
 import Citation from 'citation-js'
 import PQueue from 'p-queue'
-import config from '../../config.js'
+
 import {
   generateChecksum,
   updateArticlesDoiAndZid,
   deepEqual,
   cleanupString,
-} from '../lib/contentUtilities'
+} from './contentUtilities'
 
 /// See main fn rationale below the subfunctions
-export default async (articles) => {
+export default async (articles, options) => {
   try {
     const fs = require('fs')
     const path = require('path')
     const Zenodo = require('../lib/ZenodoConnector')
     const zenodo = await new Zenodo({
       host: 'sandbox.zenodo.org', // TODO update domain name from both env variables and the config file.
-      token: config.modules.zenodo.token,
+      token: options.config.modules.zenodo.token,
       protocol: 'https',
     })
     // Prepare a queue to avoid rate limiting mechanisms or RAM overconsumption
@@ -123,7 +123,7 @@ export default async (articles) => {
             identifier: 'pias',
           },
         ],
-        journal_title: cleanupString(config.full_name),
+        journal_title: cleanupString(options.config.full_name),
         prereserve_doi: document.needDOI !== false,
         publication_date: new Date(document.date).toLocaleDateString('en-US', {
           timezone: 'UTC',

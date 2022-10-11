@@ -1,15 +1,16 @@
 import Citation from 'citation-js'
 import PQueue from 'p-queue'
-import config from '../../config.js'
+
 import {
   generateChecksum,
   updateArticlesDoiAndZid,
   deepEqual,
   cleanupString,
-} from '../lib/contentUtilities'
+} from './contentUtilities'
 
 /// See main fn rationale below the subfunctions
-export default async (articles) => {
+export default async (articles, options) => {
+  const { config } = options
   try {
     const fs = require('fs')
     const path = require('path')

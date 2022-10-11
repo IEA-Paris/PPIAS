@@ -1,5 +1,5 @@
 import fs from 'fs'
-export default async (content) => {
+export default async (content, options) => {
   console.log('GENERATING FILTERS')
   const filters = {}
   const { $content } = require('@nuxt/content')
@@ -122,4 +122,6 @@ export default async (content) => {
     }
   }`
   )
+  options.filters = filters
+  return filters
 }

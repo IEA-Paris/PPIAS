@@ -88,7 +88,7 @@ const filterAndMerge = (first, second) => {
   return { first, second }
 }
 
-export default async (content) => {
+export default async (content, options) => {
   const chalk = require('chalk')
   const { $content } = require('@nuxt/content')
 
@@ -187,5 +187,5 @@ export default async (content) => {
   insertDocuments(authorsDocs, 'authors', ['lastname', 'firstname'])
   console.log(`${chalk.green('✔')}  Inserted new author documents`)
 
-  return true
+  return options
 }

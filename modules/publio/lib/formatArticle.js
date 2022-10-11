@@ -4,15 +4,14 @@ import {
   replaceReferenceInFootnote,
   insertReferencesInAbstract,
 } from '../lib/contentUtilities'
-import filters from '../../assets/generated/filters'
-import config from '../../config.js'
 
-export default (document) => {
+export default (document, database, options) => {
   if (document.dir.startsWith('/articles') && document.published) {
+    console.log('this: ', options)
     // we use the issue filter (already sorted by date) to set an index for the fetch of the view by issue
     // TODO find out why issueIndex is not attributed sometimes
     document.issueIndex = document.issue?.length
-      ? filters.articles.filters.issue.items.indexOf(
+      ? options.filters.articles.filters.issue.items.indexOf(
           document.issue.slice(15, -3)
         )
       : -1
@@ -33,7 +32,7 @@ export default (document) => {
       // make a json like object
       const docData = {
         abstract: document.abstract,
-        address: config.address, // TODO update with other IAS/journals city
+        address: options.config.address, // TODO update with other IAS/journals city
         type: 'article',
         keywords: document.tags || [],
         // TODO conference_url: TO BE COMPLETED
@@ -43,10 +42,10 @@ export default (document) => {
           issue: document.issueIndex,
           volume: document.issueIndex,
           identifier: [
-            ...(config.identifier.ISSN
+            ...(options.config.identifier.ISSN
               ? [
                   {
-                    id: config.identifier.ISSN,
+                    id: options.config.identifier.ISSN,
                     type: 'issn',
                   },
                 ]
@@ -61,13 +60,13 @@ export default (document) => {
               url:
                 'http://dx.doi.org/' +
                 document.doi +
-                (config.identifier.ISSN
-                  ? '/ISSN-' + config.identifier.ISSN
+                (options.config.identifier.ISSN
+                  ? '/ISSN-' + options.config.identifier.ISSN
                   : ''),
             }),
           },
         ],
-        link: [{ url: config.url + '/articles/' + document.slug }],
+        link: [{ url: options.config.url + '/articles/' + document.slug }],
         accessed: {
           'date-parts': [new Date().toISOString()],
         },

@@ -7,8 +7,8 @@ import yaml from 'js-yaml'
 import matter from 'gray-matter'
 import fsExtra from 'fs-extra'
 /* import { Repository, Tree, Diff } from 'nodegit' */
-import slugify from '../../assets/utils/slugify'
-import { formatAuthors } from '../../assets/utils/transforms'
+import slugify from './slugify'
+import { formatAuthors } from './transforms'
 const fieldsToDelete = [
   'slug',
   'body',
@@ -364,11 +364,44 @@ ${markdown || ''}`
     )
   }
 }
+export const batchInsertArticles = (data) => {
+  data.forEach((article) => {
+    // start by creating the folder if it doesn't exist
+    const folderPath =
+      'content/articles/' +
+      (article.issue?.length ? article.issue.slice(15, -3) : '') +
+      (article.issue?.length && article.subissue?.length
+        ? '/' + slugify(article.subissue)
+        : '')
 
+    if (!fs.existsSync(folderPath)) {
+      fs.mkdirSync(folderPath, { recursive: true })
+    }
+    // then dump the data in a file if there is not one already
+    const fileName = folderPath + '/' + slugify(article.article_title) + '.md'
+    if (!fs.existsSync(fileName)) {
+      fs.writeFileSync(
+        fileName,
+        `---
+${yaml.dump(article, { noRefs: true, sortKeys: true })}
+---
+`
+      )
+    } else {
+      console.log('ARTICLE ALREADY EXISTS AT ', fileName)
+    }
+  })
+}
 export const insertDocuments = (data, cat, filenameFlag) => {
+  // filenameFlag is used to indicate which attribute to build the path upon
+  // e.g. authors =  ['lastname', 'firstname'] or media = ['article_slug', 'caption']
+
   // TODO diff and selectively CRUD
-  // create the folder structure or delete all the previous author files
-  for (const folder of 'abcdefghijklmnopqrstuvwxyz') {
+  // create the folder structure or delete all the previous files
+  // console.log('creating folder structure for ', cat)
+  for (const folder of cat === 'articles'
+    ? data.map((item) => item.issue.slice(15, -3))
+    : '0123456789abcdefghijklmnopqrstuvwxyz') {
     const folderPath = path.resolve('content/' + cat + '/' + folder)
     if (!fs.existsSync(folderPath)) {
       fs.mkdirSync(folderPath, { recursive: true })

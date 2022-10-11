@@ -1,9 +1,9 @@
 ---
 active: true
 articles:
-  - 1.1.4_Williams
   - 2.2.0_intro_Williams
-createdAt: '2022-09-21T08:08:29.812Z'
+  - 1.1.4_Williams
+createdAt: '2022-09-21T08:08:29.816Z'
 exerpt: ''
 firstname: Geoffrey
 issue:
@@ -15,6 +15,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Université Bretagne Sud, France
+    positions: []
     titles: []
 reference: ''
 social_channels:

@@ -1,11 +1,11 @@
 ---
 active: true
 articles:
-  - Memorandum_8
+  - Memorandum_4
   - Concern_for_others
   - Memorandum_11
   - Memorandum_3
-  - Memorandum_4
+  - Memorandum_8
   - Memorandum_7
   - Memorandum_9
   - memorandum_2
@@ -33,27 +33,24 @@ social_channels:
   wikipedia: ''
 tags:
   - Human Behaviours, Social Relations
-  - Public Discourse, Rhetorics, Communication
-  - Violence, Criminality, Security
-  - Work, Welfare, Social protection
-  - Religions and Worldviews
-  - Firms, Markets, Finance
-  - Dataset, Data Mining
-  - Qualitative analysis
-  - Democracy, Civil Society, Governance
   - Public Policy, Evaluation, Impact
-  - Public Health
   - Risks, Crisis Management
-  - International Relations and Co-operation
+  - Culture and The Arts
+  - Digital Humanities
+  - Work, Welfare, Social protection
+  - Violence, Criminality, Security
+  - Public Health
   - Inequalities, Poverty, Development
-  - Equality & Diversity Studies
+  - Innovation, R&D
   - covid-19
   - coronavirus
   - socialnorms
   - decision-making
   - Infection likelihood perception
   - Public Policy
+  - Equality & Diversity Studies
   - Consumption and Production Patterns
+  - Firms, Markets, Finance
   - Agriculture, Alimentation
   - Big Data, Artificial Intelligence
   - Education
@@ -65,9 +62,12 @@ tags:
   - Social Relations
   - Human Behaviours
   - Psychological
-  - Culture and The Arts
-  - Digital Humanities
-  - Innovation, R&D
+  - Public Discourse, Rhetorics, Communication
+  - Religions and Worldviews
+  - Dataset, Data Mining
+  - Qualitative analysis
+  - Democracy, Civil Society, Governance
+  - International Relations and Co-operation
   - Leisure, Tourism
   - Environmental change, Ecology
   - Cities, Mobility, Urban Planning

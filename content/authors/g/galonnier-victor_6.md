@@ -1,14 +1,22 @@
 ---
 active: true
 articles:
-  - Memorandum_3
-  - Concern_for_others
   - Memorandum_11
+  - Concern_for_others
+  - Memorandum_3
   - Memorandum_4
   - Memorandum_7
   - Memorandum_8
   - Memorandum_9
   - memorandum_2
+  - Memorandum_03
+  - Memorandum_04
+  - Memorandum_05
+  - Memorandum_09
+  - Memorandum_07
+  - Memorandum_08
+  - Memorandum_06
+  - memorandum_02
 createdAt: '2022-09-21T08:08:29.832Z'
 exerpt: ''
 firstname: Victor
@@ -32,32 +40,32 @@ social_channels:
   website: ''
   wikipedia: ''
 tags:
-  - Students
-  - Stress
-  - Depression
-  - mental health
-  - Education
-  - Public Health
-  - Social protection
-  - Social Relations
-  - Human Behaviours
-  - Public Policy, Evaluation, Impact
+  - Human Behaviours, Social Relations
+  - Inequalities, Poverty, Development
   - Equality & Diversity Studies
-  - Psychological
+  - Work, Welfare, Social protection
+  - Consumption and Production Patterns
+  - Public Policy, Evaluation, Impact
+  - Firms, Markets, Finance
+  - Agriculture, Alimentation
+  - Big Data, Artificial Intelligence
+  - Education
   - covid-19
   - coronavirus
   - socialnorms
   - decision-making
   - Infection likelihood perception
-  - Human Behaviours, Social Relations
+  - Public Health
   - Risks, Crisis Management
   - Public Policy
-  - Inequalities, Poverty, Development
-  - Work, Welfare, Social protection
-  - Consumption and Production Patterns
-  - Firms, Markets, Finance
-  - Agriculture, Alimentation
-  - Big Data, Artificial Intelligence
+  - Students
+  - Stress
+  - Depression
+  - mental health
+  - Social protection
+  - Social Relations
+  - Human Behaviours
+  - Psychological
   - Culture and The Arts
   - Digital Humanities
   - Violence, Criminality, Security
@@ -83,7 +91,7 @@ tags:
   - police
   - privacy
 years:
-  - 2020
   - 2021
+  - 2020
 
 ---

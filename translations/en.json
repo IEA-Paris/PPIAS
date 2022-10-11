@@ -460,7 +460,7 @@
   "the-article-search-is-based-on-their-text-title-and-authors-and-nbsp-lastname-or-institutions": "The article search is based on their text, title, and authors'&nbsp;lastname or institutions",
   "the-media-search-is-based-on-their-title-and-the-title-of-the-article-they-belong-to": "The media search is based on their title and the title of the article they belong to.",
   "the-author-search-is-based-on-their-lastname-titles-or-institutions": "The author search is based on their lastname, titles or institutions",
-  "positions-and-institutions": "Titles and Institutions",
+  "positions-and-institutions": "Positions and Institutions",
   "years": "Year",
   "reset-your-search-filters": "Reset search",
   "with-activefilters-filters": "with no filters | with {count} filter | with {count} filters",
