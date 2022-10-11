@@ -12,6 +12,10 @@ language:
 lastname: Godleski
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: Rochester Institute of Technology, USA
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -23,9 +27,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_institutions:
-  - institution: Rochester Institute of Technology, USA
-    titles: []
 years:
   - 2022
 

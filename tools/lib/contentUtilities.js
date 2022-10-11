@@ -401,7 +401,7 @@ export const insertDocuments = (data, cat, filenameFlag) => {
   // console.log('creating folder structure for ', cat)
   for (const folder of cat === 'articles'
     ? data.map((item) => item.issue.slice(15, -3))
-    : 'abcdefghijklmnopqrstuvwxyz') {
+    : '0123456789abcdefghijklmnopqrstuvwxyz') {
     const folderPath = path.resolve('content/' + cat + '/' + folder)
     if (!fs.existsSync(folderPath)) {
       fs.mkdirSync(folderPath, { recursive: true })

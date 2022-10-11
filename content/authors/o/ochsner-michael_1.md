@@ -1,9 +1,9 @@
 ---
 active: true
 articles:
-  - 1.2.0_intro_Ochsner
   - 3.2.2_Ochsner
-createdAt: '2022-09-21T08:08:29.812Z'
+  - 1.2.0_intro_Ochsner
+createdAt: '2022-09-21T08:08:29.832Z'
 exerpt: ''
 firstname: Michael
 is_institution: false
@@ -14,6 +14,13 @@ language:
 lastname: Ochsner
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: European Network for Research Evaluation in the SSH (ENRESSH)
+    positions: []
+    titles: []
+  - institution: FORS, University of Lausanne, Switzerland
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -26,11 +33,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_institutions:
-  - institution: European Network for Research Evaluation in the SSH (ENRESSH)
-    titles: []
-  - institution: FORS, University of Lausanne, Switzerland
-    titles: []
 years:
   - 2022
 

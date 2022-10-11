@@ -13,6 +13,10 @@ language:
 lastname: Pozzo
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: Université de Rome Tor Vergata, Italy
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -25,9 +29,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_institutions:
-  - institution: Université de Rome Tor Vergata, Italy
-    titles: []
 years:
   - 2022
 

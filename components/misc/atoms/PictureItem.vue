@@ -1,8 +1,8 @@
 <template>
   <Item>
-    <!--     <template v-if="hasContent('categories')" #categories>
+    <template v-if="hasContent('categories')" #categories>
       <slot name="categories"></slot>
-    </template> -->
+    </template>
     <template v-if="hasContent('caption')" #caption>
       <slot name="caption"></slot>
     </template>

@@ -13,6 +13,10 @@ language:
 lastname: Fortané
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: INRAE, France
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=iJD2TRkAAAAJ&hl=fr
@@ -30,9 +34,6 @@ tags:
   - Technology and Medicine
   - Microbes
   - Antibiotics
-titles_and_institutions:
-  - institution: INRAE, France
-    titles: []
 years:
   - 2021
 

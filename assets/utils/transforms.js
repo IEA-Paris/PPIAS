@@ -79,9 +79,9 @@ export const formatAuthors = (
             : author.firstname) +
           (initials ? '.&nbsp;' : ''))
     const institution =
-      (author?.titles_and_institutions &&
-        author?.titles_and_institutions[0] &&
-        author.titles_and_institutions[0]?.institution) ||
+      (author?.positions_and_institutions &&
+        author?.positions_and_institutions[0] &&
+        author.positions_and_institutions[0]?.institution) ||
       ''
     return full && institution.length
       ? name +
@@ -121,8 +121,8 @@ export const formatTitleAndInstitutions = (obj) => {
     .map((institution) =>
       institution.institution
         ? institution.institution +
-          (institution.titles && institution.titles.length
-            ? ' - ' + institution.titles.join(', ')
+          (institution.positions && institution.positions.length
+            ? ' - ' + institution.positions.join(', ')
             : '')
         : ''
     )

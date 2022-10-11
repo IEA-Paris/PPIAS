@@ -28,7 +28,7 @@ export default async (content) => {
       articles.map(
         (article) =>
           article?.authors.map((author) =>
-            author.titles_and_institutions.map((item) => item.institution)
+            author.positions_and_institutions.map((item) => item.institution)
           ) || []
       )
     ) */

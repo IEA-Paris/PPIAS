@@ -12,6 +12,13 @@ language:
 lastname: Rooryck
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: cOAlition S, France
+    positions: []
+    titles: []
+  - institution: Leiden University, The Netherlands
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -24,11 +31,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_institutions:
-  - institution: cOAlition S, France
-    titles: []
-  - institution: Leiden University, The Netherlands
-    titles: []
 years:
   - 2022
 

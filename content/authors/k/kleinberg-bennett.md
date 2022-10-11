@@ -2,6 +2,7 @@
 active: true
 articles:
   - Keynote 7
+  - 7.0_WPRN21_Keynote 7
 createdAt: '2022-09-21T08:08:29.836Z'
 exerpt: ''
 firstname: Bennett
@@ -12,6 +13,13 @@ language:
 lastname: Kleinberg
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: Tilburg University, Netherlands
+    positions: []
+    titles: []
+  - institution: University College London, United Kingdom
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.nl/citations?user=Ms2d7OsAAAAJ&hl=en
@@ -30,11 +38,6 @@ tags:
   - Gender differences
   - 'Emotions '
   - Language
-titles_and_institutions:
-  - institution: Tilburg University, Netherlands
-    titles: []
-  - institution: University College London, United Kingdom
-    titles: []
 years:
   - 2021
 

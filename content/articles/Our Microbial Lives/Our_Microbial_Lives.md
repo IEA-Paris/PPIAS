@@ -1,55 +1,53 @@
 ---
-DOI: 10.5072/zenodo.1089966
-Zid: 1089966
-abstract: >-
-  Introduction du forum "Our Microbial Lives: A Forum Against Eradication",  May
-  27, 2021, Paris Institute for Advanced Study
-article_title: 'Our Microbial Lives : A Forum Against Eradication'
-authors:
-  - firstname: Victoria
-    lastname: Lee
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-    social_channels:
-      google_scholar: https://scholar.google.com/citations?user=P13ZUHQAAAAJ&hl=en
-      instagram: ''
-      linkedin: https://www.linkedin.com/in/microbehistory
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      twitter: https://twitter.com/microbehistory
-      website: ''
-      wikipedia: ''
-    titles_and_institutions:
-      - institution: Ohio University - College of Arts and Sciences
-        titles:
-          - Assistant Professor
-  - firstname: Saadi
-    lastname: Lahlou
-bibliography: /bibliography/anystyle.bib
-category1:
-  - color: green
-    text: Article
-date: 2021-05-27T07:30:26.000Z
-doi: '169059797'
-highlight: false
 issue: content/issues/Our Microbial Lives.md
-language: English
-picture: /1-cell_to_cell.jpg
-picture_copyright: ''
-pinned: false
-published: true
-tags:
+tag:
   - History of Science, Technology and Medicine
   - History of Science and Medicine
   - Online conference
   - Microbes
+date: 2021-05-27T07:30:26.000+00:00
+article_title: 'Our Microbial Lives : A Forum Against Eradication'
+authors:
+  - firstname: 'Victoria '
+    lastname: Lee
+    positions_and_institutions:
+      - titles:
+          - Assistant Professor
+        institution: Ohio University - College of Arts and Sciences
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      website: ''
+      wikipedia: ''
+      orcid: ''
+      linkedin: https://www.linkedin.com/in/microbehistory
+      twitter: https://twitter.com/microbehistory
+      instagram: ''
+      google_scholar: https://scholar.google.com/citations?user=P13ZUHQAAAAJ&hl=en
+      researchgate: ''
+      mendeley: ''
+    reference: ''
+  - firstname: Saadi
+    lastname: Lahlou
+picture: '/1-cell_to_cell.jpg'
+picture_copyright: ''
 yt: ''
-
+published: true
+category1:
+  - color: green
+    text: Article
+pinned: false
+highlight: false
+bibliography: '/bibliography/anystyle.bib'
+abstract:
+  'Introduction du forum "Our Microbial Lives: A Forum Against Eradication",  May
+  27, 2021, Paris Institute for Advanced Study'
+keywords:
+  - Microbes
+  - Health
+language: English
+doi: '169059797'
 ---
-
-
 
 ## "Our Microbial Lives: A Forum Against Eradication", May 27, 2021, Paris Institute for Advanced Study
 

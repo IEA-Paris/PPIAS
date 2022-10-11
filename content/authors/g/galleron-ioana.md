@@ -12,6 +12,13 @@ language:
 lastname: Galleron
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: Université Sorbonne Nouvelle, France
+    positions: []
+    titles: []
+  - institution: COST Action 15137
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -24,11 +31,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_institutions:
-  - institution: Université Sorbonne Nouvelle, France
-    titles: []
-  - institution: COST Action 15137
-    titles: []
 years:
   - 2022
 

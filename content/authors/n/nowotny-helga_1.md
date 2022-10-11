@@ -14,6 +14,11 @@ language:
 lastname: Nowotny
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: ERC Scientific Council
+    titles: []
+  - institution: Swiss Federal Institute of Technology in Zürich (ETH Zurich), Switzerland
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -26,11 +31,6 @@ social_channels:
   website: http://helga-nowotny.eu/
   wikipedia: https://en.wikipedia.org/wiki/Helga_Nowotny
 tags: []
-titles_and_institutions:
-  - institution: ERC Scientific Council
-    titles: []
-  - institution: Swiss Federal Institute of Technology in Zürich (ETH Zurich), Switzerland
-    titles: []
 years:
   - 2022
   - 2021

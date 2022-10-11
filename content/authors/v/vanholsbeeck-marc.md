@@ -13,6 +13,15 @@ language:
 lastname: Vanholsbeeck
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: >-
+      Service général de l’enseignement supérieur et de la recherche
+      scientifique, Ministère de la Fédération Wallonie- Bruxelles , Belgique
+    positions: []
+    titles: []
+  - institution: Université Libre de Bruxelles, Belgique
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -25,13 +34,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_institutions:
-  - institution: >-
-      Service général de l’enseignement supérieur et de la recherche
-      scientifique, Ministère de la Fédération Wallonie- Bruxelles , Belgique
-    titles: []
-  - institution: Université Libre de Bruxelles, Belgique
-    titles: []
 years:
   - 2022
 

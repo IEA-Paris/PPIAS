@@ -1,8 +1,8 @@
 ---
 active: true
 articles:
-  - is-empathy-involved-in-perpetrators-behavior
   - syndrome-e-and-plurality-of-perspectives
+  - is-empathy-involved-in-perpetrators-behavior
 createdAt: '2022-10-10T07:36:28.761Z'
 exerpt: ''
 firstname: Alain

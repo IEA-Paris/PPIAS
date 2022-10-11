@@ -12,6 +12,12 @@ language:
 lastname: Akinfieva
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: >-
+      National Centre for Development of Social Support & Rehabilitation,
+      Moscow, Russia
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -23,11 +29,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_institutions:
-  - institution: >-
-      National Centre for Development of Social Support & Rehabilitation,
-      Moscow, Russia
-    titles: []
 years:
   - 2022
 

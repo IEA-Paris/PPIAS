@@ -2,6 +2,7 @@
 active: true
 articles:
   - 2.1.3_Polonen
+  - 2.1.3_Pölönen
 createdAt: '2022-09-21T08:08:29.816Z'
 exerpt: ''
 firstname: Janne
@@ -12,6 +13,10 @@ language:
 lastname: Pölönen
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: Federation of Finnish Learned Societies, Finland
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -24,9 +29,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_institutions:
-  - institution: Federation of Finnish Learned Societies, Finland
-    titles: []
 years:
   - 2022
 

@@ -12,6 +12,10 @@ language:
 lastname: Kirman
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: CAMS-EHESS, France
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -24,9 +28,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_institutions:
-  - institution: CAMS-EHESS, France
-    titles: []
 years:
   - 2022
 

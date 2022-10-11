@@ -18,6 +18,11 @@ language:
 lastname: Lahlou
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: London School of Economics and Political Science , United Kingdom
+  - institution: Paris Institute for Advanced Study, France
+    titles:
+      - Director
 reference: ''
 social_channels:
   google_scholar: ''
@@ -34,11 +39,6 @@ tags:
   - History of Science and Medicine
   - Online conference
   - Microbes
-titles_and_institutions:
-  - institution: London School of Economics and Political Science , United Kingdom
-  - institution: Paris Institute for Advanced Study, France
-    titles:
-      - Director
 years:
   - 2021
   - 2022

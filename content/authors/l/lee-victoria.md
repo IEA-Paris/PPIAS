@@ -12,6 +12,10 @@ language:
 lastname: Lee
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: Ohio University - College of Arts and Sciences
+    titles:
+      - Assistant Professor
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=P13ZUHQAAAAJ&hl=en
@@ -28,10 +32,6 @@ tags:
   - History of Science and Medicine
   - Online conference
   - Microbes
-titles_and_institutions:
-  - institution: Ohio University - College of Arts and Sciences
-    titles:
-      - Assistant Professor
 years:
   - 2021
 

@@ -95,8 +95,9 @@
               ? ' small'
               : ''
           "
-          v-html="highlightWord(item.article_title)"
         >
+          <IssueBadge :issue="item.issue" inline></IssueBadge>
+          <span v-html="highlightWord(item.article_title)"></span>
           <!--          <ArticleCategories
             v-if="$vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)"
             :item="item"

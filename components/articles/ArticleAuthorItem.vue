@@ -44,9 +44,9 @@ export default {
           this.$store.state.articles.search || ''
         ),
         highlight(
-          (this.item?.titles_and_institutions &&
-            this.item?.titles_and_institutions[0] &&
-            this.item.titles_and_institutions[0]?.institution) ||
+          (this.item?.positions_and_institutions &&
+            this.item?.positions_and_institutions[0] &&
+            this.item.positions_and_institutions[0]?.institution) ||
             '',
           this.$store.state.articles.search || ''
         ),

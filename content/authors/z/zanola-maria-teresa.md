@@ -13,6 +13,15 @@ language:
 lastname: Zanola
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: >-
+      Conseil Européen pour les Langues / European Language Council (CEL/ELC),
+      Austria
+    positions: []
+    titles: []
+  - institution: Università Cattolica del Sacro Cuore, Italy
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -25,13 +34,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_institutions:
-  - institution: >-
-      Conseil Européen pour les Langues / European Language Council (CEL/ELC),
-      Austria
-    titles: []
-  - institution: Università Cattolica del Sacro Cuore, Italy
-    titles: []
 years:
   - 2022
 

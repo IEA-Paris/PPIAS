@@ -17,7 +17,7 @@ export default async ($content, search) => {
     $content('authors', { deep: true })
       .search(search)
       .where(filtersRaw.authors)
-      .only(['slug', 'firstname', 'lastname', 'titles_and_institutions'])
+      .only(['slug', 'firstname', 'lastname', 'positions_and_institutions'])
       .limit(3)
       .fetch(),
     $content('articles', { deep: true })

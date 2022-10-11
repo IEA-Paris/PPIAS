@@ -12,6 +12,17 @@ language:
 lastname: Martinez
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: >-
+      Group for research and Analyses in Population health (GAP), IUCT Oncopole,
+      France
+    positions: []
+    titles: []
+  - institution: >-
+      Center of Epidemiology and Research in POPulation health (CERPOP), Inserm,
+      Toulouse III Paul Sabatier University, France
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -23,15 +34,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_institutions:
-  - institution: >-
-      Group for research and Analyses in Population health (GAP), IUCT Oncopole,
-      France
-    titles: []
-  - institution: >-
-      Center of Epidemiology and Research in POPulation health (CERPOP), Inserm,
-      Toulouse III Paul Sabatier University, France
-    titles: []
 years:
   - 2022
 

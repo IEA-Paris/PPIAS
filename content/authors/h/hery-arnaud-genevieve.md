@@ -12,6 +12,13 @@ language:
 lastname: Héry-Arnaud
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: CHRU de Brest, France
+    positions: []
+    titles: []
+  - institution: Université de Bretagne Occidentale, France
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=LGlzo5QAAAAJ&hl=fr
@@ -29,11 +36,6 @@ tags:
   - Technology and Medicine
   - Microbes
   - Antibiotics
-titles_and_institutions:
-  - institution: CHRU de Brest, France
-    titles: []
-  - institution: Université de Bretagne Occidentale, France
-    titles: []
 years:
   - 2021
 

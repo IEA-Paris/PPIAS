@@ -2,6 +2,7 @@
 active: true
 articles:
   - Keynote 6
+  - 6.0_WPRN21_Keynote 6
 createdAt: '2022-09-21T08:08:29.836Z'
 exerpt: ''
 firstname: Marc
@@ -12,6 +13,10 @@ language:
 lastname: Fleurbaey
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: Paris School of Economics, France
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=3N5T0lEAAAAJ&hl=fr
@@ -29,9 +34,6 @@ tags:
   - 'Work, Welfare, Social protection '
   - 'Inequalities, Poverty, Development '
   - 'Public Policy, Evaluation, Impact '
-titles_and_institutions:
-  - institution: Paris School of Economics, France
-    titles: []
 years:
   - 2021
 

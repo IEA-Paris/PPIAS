@@ -1,6 +1,6 @@
 ---
 issue: content/issues/HCERES - PFUE 2022.md
-tags: []
+keywords: []
 date: 2022-06-28T08:27:50Z
 language: English
 disciplines: ''
@@ -10,7 +10,7 @@ article_title: Keynote 1 by Jacques Dubucs
 authors:
 - firstname: Jacques
   lastname: Dubucs
-  titles_and_institutions: []
+  positions_and_institutions: []
   picture: ''
   picture_copyright: ''
   social_channels:
@@ -31,7 +31,7 @@ picture_copyright: ''
 yt: ''
 highlight: false
 bibliography: ''
-
+doi: ''
 
 ---
 Première présentation (à écrire)

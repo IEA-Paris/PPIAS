@@ -2,6 +2,7 @@ import Citation from 'citation-js'
 const fs = require('fs')
 
 export default (document) => {
+  console.log('BIBLIO', document.article_title)
   // generate bibliography if required
   if (document.bibliography?.length) {
     document.biblioFile = document.bibliography

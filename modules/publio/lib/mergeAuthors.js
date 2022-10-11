@@ -163,10 +163,10 @@ export default async (content) => {
           article.published
       ),
       exerpt: item.text?.length ? item.text.slice(0, 350) : '',
-      titles_and_institutions:
-        item.titles_and_institutions &&
-        Object.keys(item.titles_and_institutions).map((el) => {
-          return item.titles_and_institutions[el]
+      positions_and_institutions:
+        item.positions_and_institutions &&
+        Object.keys(item.positions_and_institutions).map((el) => {
+          return item.positions_and_institutions[el]
         }),
     }
   })

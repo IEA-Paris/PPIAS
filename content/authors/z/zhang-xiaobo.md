@@ -2,6 +2,7 @@
 active: true
 articles:
   - Keynote 2
+  - 2.0_WPRN21_Keynote 2
 createdAt: '2022-09-21T08:08:29.836Z'
 exerpt: ''
 firstname: Xiaobo
@@ -12,6 +13,10 @@ language:
 lastname: Zhang
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: International Food Policy Research Institute, China
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=NL3kmU0AAAAJ&hl=en
@@ -31,9 +36,6 @@ tags:
   - 'Public Health '
   - Innovation, R&D
   - 'Work, Welfare, Social protection '
-titles_and_institutions:
-  - institution: International Food Policy Research Institute, China
-    titles: []
 years:
   - 2021
 

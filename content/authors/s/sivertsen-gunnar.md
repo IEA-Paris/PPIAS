@@ -12,6 +12,12 @@ language:
 lastname: Sivertsen
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: >-
+      Nordic Inst. for Studies in Innovation, Research and Education (NIFU),
+      Norway
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -24,11 +30,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_institutions:
-  - institution: >-
-      Nordic Inst. for Studies in Innovation, Research and Education (NIFU),
-      Norway
-    titles: []
 years:
   - 2022
 

@@ -12,6 +12,12 @@ language:
 lastname: Selosse
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: >-
+      Institut de Systématique, Évolution, Biodiversité, Muséum national
+      d'Histoire naturelle, France
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -28,11 +34,6 @@ tags:
   - Microbes
   - Medicine
   - Technology and Medicine
-titles_and_institutions:
-  - institution: >-
-      Institut de Systématique, Évolution, Biodiversité, Muséum national
-      d'Histoire naturelle, France
-    titles: []
 years:
   - 2021
 

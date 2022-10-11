@@ -12,6 +12,12 @@ language:
 lastname: Glover
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: >-
+      Centre of Research Excellence: Indigenous Sovereignty & Smoking, Auckland,
+      New Zealand
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -23,11 +29,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_institutions:
-  - institution: >-
-      Centre of Research Excellence: Indigenous Sovereignty & Smoking, Auckland,
-      New Zealand
-    titles: []
 years:
   - 2022
 

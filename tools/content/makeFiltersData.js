@@ -1,5 +1,6 @@
 import fs from 'fs'
 export default async (content) => {
+  console.log('GENERATING FILTERS')
   const filters = {}
   const { $content } = require('@nuxt/content')
   // TODO add .only() to limit the data fetched
@@ -28,7 +29,7 @@ export default async (content) => {
       articles.map(
         (article) =>
           article?.authors.map((author) =>
-            author.titles_and_institutions.map((item) => item.institution)
+            author.positions_and_institutions.map((item) => item.institution)
           ) || []
       )
     ) */

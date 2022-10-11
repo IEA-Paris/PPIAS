@@ -1,7 +1,14 @@
 ---
 active: true
 articles:
+  - Concern_for_others
+  - Memorandum_11
+  - Memorandum_3
+  - Memorandum_4
   - Memorandum_7
+  - Memorandum_8
+  - Memorandum_9
+  - memorandum_2
 createdAt: '2022-09-21T08:08:29.832Z'
 exerpt: ''
 firstname: Victor
@@ -12,6 +19,7 @@ language:
 lastname: Galonnier
 picture: ''
 picture_copyright: ''
+positions_and_institutions: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -24,19 +32,58 @@ social_channels:
   website: ''
   wikipedia: ''
 tags:
-  - Big Data, Artificial Intelligence
-  - Equality & Diversity Studies
+  - covid-19
+  - coronavirus
+  - socialnorms
+  - decision-making
+  - Infection likelihood perception
+  - Public Health
   - Human Behaviours, Social Relations
+  - Risks, Crisis Management
+  - Public Policy
+  - Inequalities, Poverty, Development
+  - Equality & Diversity Studies
+  - Work, Welfare, Social protection
+  - Consumption and Production Patterns
+  - Public Policy, Evaluation, Impact
+  - Firms, Markets, Finance
+  - Agriculture, Alimentation
+  - Big Data, Artificial Intelligence
+  - Education
+  - Students
+  - Stress
+  - Depression
+  - mental health
+  - Social protection
+  - Social Relations
+  - Human Behaviours
+  - Psychological
+  - Culture and The Arts
+  - Digital Humanities
+  - Violence, Criminality, Security
+  - Innovation, R&D
   - Public Discourse, Rhetorics, Communication
   - Democracy, Civil Society, Governance
-  - Consumption and Production Patterns
-  - Public Health
-  - Culture and The Arts
-  - Innovation, R&D
-  - Violence, Criminality, Security
-  - Risks, Crisis Management
-titles_and_institutions: []
+  - Religions and Worldviews
+  - Dataset, Data Mining
+  - Qualitative analysis
+  - International Relations and Co-operation
+  - Leisure, Tourism
+  - Environmental change, Ecology
+  - Cities, Mobility, Urban Planning
+  - Environmental Studies
+  - Health and well-being
+  - Urban nature
+  - wildland recreation
+  - outcomes
+  - personal development
+  - outdoor recreation
+  - Artificial Intelligence
+  - Stopcovid
+  - police
+  - privacy
 years:
   - 2020
+  - 2021
 
 ---

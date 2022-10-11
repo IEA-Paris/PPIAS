@@ -14,6 +14,13 @@ language:
 lastname: Kulczycki
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: Adam Mickiewicz University in Poznan, Poland
+    positions: []
+    titles: []
+  - institution: Adam Mickiewicz University, Poland
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -26,11 +33,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_institutions:
-  - institution: Adam Mickiewicz University in Poznan, Poland
-    titles: []
-  - institution: Adam Mickiewicz University, Poland
-    titles: []
 years:
   - 2022
 

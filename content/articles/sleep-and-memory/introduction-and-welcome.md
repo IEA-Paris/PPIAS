@@ -3,7 +3,7 @@ abstract: >-
   Dans une perspective interdisciplinaire incluant les neurosciences, la
   médecine, les sciences humaines et l'art, ce colloque vise à (1) faire
   progresser et diffuser les connaissances scientifiques sur la façon dont des
-  processus spécifiques du sommeil favorisent la consolidation de la mémoire |
+  processus spécifiques du sommeil favorisent la consolidation de la mémoire ;
   (2) encourager les sciences et les arts à adopter de nouvelles approches
   relatives à l'importance des rêves et du sommeil | (3) en faire bénéficier la
   société en favorisant la prise de conscience des bonnes habitudes de sommeil

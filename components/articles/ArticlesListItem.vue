@@ -17,6 +17,7 @@
             width="100%"
             class="my-3"
           ></v-skeleton-loader>
+          <v-skeleton-loader type="text" max-width="30%"></v-skeleton-loader>
           <v-skeleton-loader type="text" max-width="50%"></v-skeleton-loader>
         </div>
         <v-divider vertical class="mr-6 ml-3"></v-divider>
@@ -39,8 +40,8 @@
     >
       <div class="list-image d-flex">
         <YoutubeThumbnail v-if="item.yt && item.yt.length" :item="item">
-          <!-- <template #categories>
-            <ArticleCategories :item="item" />
+          <!--           <template #categories>
+            <IssueBadge :name="item.issue.slice(15, -3)"></IssueBadge>
           </template> -->
           <template #date>
             <div class="d-flex px-1">
@@ -60,8 +61,8 @@
           :item="item"
           :src="item.picture"
         >
-          <!--       <template #categories>
-            <ArticleCategories :item="item" />
+          <!--           <template #categories>
+            <IssueBadge :name="item.issue.slice(15, -3)"></IssueBadge>
           </template> -->
           <template #date>
             <div class="d-flex px-1">
@@ -82,8 +83,8 @@
           :size="300"
           :margin="20"
         >
-          <!--          <template #categories>
-            <ArticleCategories :item="item" />
+          <!--           <template #categories>
+            <IssueBadge :name="item.issue.slice(15, -3)"></IssueBadge>
           </template> -->
           <template #date>
             <div class="d-flex px-1">
@@ -100,23 +101,24 @@
         </TextFingerprint>
       </div>
       <div class="ml-6 my-3 d-flex" :class="index > 0 ? 'mt-n1' : ' mt-0'">
-        <div class="">
-          <v-tooltip bottom :disabled="item.article_title.length < 85">
+        <div class="article-title-container">
+          <v-tooltip bottom :disabled="item.article_title.length < 104">
             <!-- eslint-disable-next-line vue/no-unused-vars -->
             <template #activator="{ on, attrs }">
-              <div
+              <h1
                 class="article-title"
                 v-bind="attrs"
                 v-on="on"
                 v-html="highlightWord(item.article_title)"
-              ></div>
+              ></h1>
             </template>
             <span v-html="item.article_title"></span>
           </v-tooltip>
+          <IssueBadge :issue="item.issue"></IssueBadge>
           <ArticleAuthorsString
             v-if="item.authors"
             :authors="item.authors"
-            class="text-p mt-3 article-authors"
+            class="text-p article-authors"
           />
         </div>
         <template v-if="excerpt">
@@ -178,13 +180,15 @@ export default {
 .article-title {
   font-size: 1.4rem !important;
   display: -webkit-box;
-  width: 320px;
-  min-width: 320px;
+  width: 380px;
+  min-width: 380px;
   font-family: 'Bodoni Moda';
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
   font-weight: 600;
+  line-height: 1.25;
+  margin-bottom: 0.4rem;
 }
 .article-authors {
   font-size: 1rem !important;
@@ -193,6 +197,7 @@ export default {
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  margin-top: 0.4rem;
 }
 .article-abstract {
   display: -webkit-box;

@@ -12,6 +12,10 @@ language:
 lastname: Kaigo
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: Faculty of Humanities and Social Sciences, University of Tsukuba, Japan
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -23,9 +27,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_institutions:
-  - institution: Faculty of Humanities and Social Sciences, University of Tsukuba, Japan
-    titles: []
 years:
   - 2022
 

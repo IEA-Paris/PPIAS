@@ -12,6 +12,10 @@ language:
 lastname: Pitkowski
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: Fromageries BEL, France
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -28,9 +32,6 @@ tags:
   - Microbes
   - Medicine
   - Technology and Medicine
-titles_and_institutions:
-  - institution: Fromageries BEL, France
-    titles: []
 years:
   - 2021
 

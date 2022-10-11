@@ -13,12 +13,23 @@ language:
 lastname: Oraee
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: international laboratory for Brain, Music, and Sound research (BRAMS)
+    titles:
+      - co-founder
+  - institution: McGill University
+    titles:
+      - Warrior
+  - institution: IAS PARIS
+    titles:
+      - writer
 reference: ''
 social_channels:
   google_scholar: ''
   instagram: ''
   linkedin: ''
   mendeley: ''
+  orcid: ''
   orcid_id: ''
   researchgate: ''
   twitter: ''
@@ -32,16 +43,6 @@ tags:
   - Algorithms
   - Language
   - Robots
-titles_and_institutions:
-  - institution: international laboratory for Brain, Music, and Sound research (BRAMS)
-    titles:
-      - co-founder
-  - institution: McGill University
-    titles:
-      - Warrior
-  - institution: IAS PARIS
-    titles:
-      - writer
 years:
   - 2021
 

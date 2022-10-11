@@ -1,8 +1,8 @@
 ---
 active: true
 articles:
-  - FP2_Kothari
   - FP_Borch
+  - FP2_Kothari
 createdAt: '2022-09-21T08:08:29.836Z'
 exerpt: ''
 firstname: Gerit
@@ -13,6 +13,10 @@ language:
 lastname: Pfuhl
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: UiT, The Arctic University of Norway, Norway
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -24,9 +28,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_institutions:
-  - institution: UiT, The Arctic University of Norway, Norway
-    titles: []
 years:
   - 2022
 

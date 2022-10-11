@@ -12,6 +12,13 @@ language:
 lastname: Roberts
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: BSPS Open
+    positions: []
+    titles: []
+  - institution: London School of Economics (LSE), United Kingdom
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -24,11 +31,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_institutions:
-  - institution: BSPS Open
-    titles: []
-  - institution: London School of Economics (LSE), United Kingdom
-    titles: []
 years:
   - 2022
 

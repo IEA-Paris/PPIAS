@@ -61,8 +61,8 @@
                   <nuxt-content :document="item" />
                   <AuthorTitles
                     v-if="
-                      item.titles_and_institutions &&
-                      item.titles_and_institutions.length
+                      item.positions_and_institutions &&
+                      item.positions_and_institutions.length
                     "
                     width="650"
                     :item="item"
@@ -115,7 +115,7 @@ export default {
           .fetch()
       : []
     const socials = [
-      ...(item.social_channels.website
+      ...(item?.social_channels?.website
         ? [
             {
               link: item.social_channels.website,
@@ -124,7 +124,7 @@ export default {
             },
           ]
         : []),
-      ...(item.social_channels.wikipedia
+      ...(item?.social_channels?.wikipedia
         ? [
             {
               link: item.social_channels.wikipedia,
@@ -133,7 +133,7 @@ export default {
             },
           ]
         : []),
-      ...(item.social_channels.orcid
+      ...(item?.social_channels?.orcid
         ? [
             {
               link: 'https://orcid.org/' + item.social_channels.orcid,
@@ -142,7 +142,7 @@ export default {
             },
           ]
         : []),
-      ...(item.social_channels.google_scholar
+      ...(item?.social_channels?.google_scholar
         ? [
             {
               link: item.social_channels.google_scholar,
@@ -151,7 +151,7 @@ export default {
             },
           ]
         : []),
-      ...(item.social_channels.mendeley
+      ...(item?.social_channels?.mendeley
         ? [
             {
               link: item.social_channels.mendeley,
@@ -160,7 +160,7 @@ export default {
             },
           ]
         : []),
-      ...(item.social_channels.researchgate
+      ...(item?.social_channels?.researchgate
         ? [
             {
               link: item.social_channels.researchgate,
@@ -169,7 +169,7 @@ export default {
             },
           ]
         : []),
-      ...(item.social_channels.linkedin
+      ...(item?.social_channels?.linkedin
         ? [
             {
               link: item.social_channels.linkedin,
@@ -178,7 +178,7 @@ export default {
             },
           ]
         : []),
-      ...(item.social_channels.twitter
+      ...(item?.social_channels?.twitter
         ? [
             {
               link: item.social_channels.twitter,
@@ -187,7 +187,7 @@ export default {
             },
           ]
         : []),
-      ...(item.social_channels.instagram
+      ...(item?.social_channels?.instagram
         ? [
             {
               link: item.social_channels.instagram,

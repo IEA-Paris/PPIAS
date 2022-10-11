@@ -12,6 +12,12 @@ language:
 lastname: Giménez-Toledo
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: >-
+      Center for Human and Social Sciences (CCHS), Spanish National Research
+      Council (CSIC), Spain
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -24,11 +30,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_institutions:
-  - institution: >-
-      Center for Human and Social Sciences (CCHS), Spanish National Research
-      Council (CSIC), Spain
-    titles: []
 years:
   - 2022
 

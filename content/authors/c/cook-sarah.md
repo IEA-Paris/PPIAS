@@ -12,6 +12,13 @@ language:
 lastname: Cook
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: Imperial College London, United Kingdom
+    positions: []
+    titles: []
+  - institution: London School of Hygiene & Tropical Medicine, United Kingdom
+    titles:
+      - ''
 reference: ''
 social_channels:
   google_scholar: ''
@@ -23,12 +30,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_institutions:
-  - institution: Imperial College London, United Kingdom
-    titles: []
-  - institution: London School of Hygiene & Tropical Medicine, United Kingdom
-    titles:
-      - ''
 years:
   - 2022
 

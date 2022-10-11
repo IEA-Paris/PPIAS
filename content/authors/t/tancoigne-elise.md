@@ -12,6 +12,10 @@ language:
 lastname: Tancoigne
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: Université de Lausanne, Switzerland
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=21W9xTQAAAAJ&hl=fr
@@ -28,9 +32,6 @@ tags:
   - Microbes
   - Medicine
   - Technology and Medicine
-titles_and_institutions:
-  - institution: Université de Lausanne, Switzerland
-    titles: []
 years:
   - 2021
 

@@ -12,6 +12,13 @@ language:
 lastname: Mounier
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: OpenEdition, France
+    positions: []
+    titles: []
+  - institution: OPERAS Research Infrastructure, France
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -24,11 +31,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_institutions:
-  - institution: OpenEdition, France
-    titles: []
-  - institution: OPERAS Research Infrastructure, France
-    titles: []
 years:
   - 2022
 

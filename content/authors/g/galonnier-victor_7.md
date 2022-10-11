@@ -19,6 +19,7 @@ language:
 lastname: Galonnier
 picture: ''
 picture_copyright: ''
+positions_and_institutions: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -81,7 +82,6 @@ tags:
   - Stopcovid
   - police
   - privacy
-titles_and_institutions: []
 years:
   - 2020
   - 2021

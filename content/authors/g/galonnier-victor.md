@@ -1,14 +1,22 @@
 ---
 active: true
 articles:
-  - Memorandum_8
-  - Concern_for_others
   - Memorandum_11
+  - Concern_for_others
   - Memorandum_3
   - Memorandum_4
   - Memorandum_7
+  - Memorandum_8
   - Memorandum_9
   - memorandum_2
+  - Memorandum_03
+  - Memorandum_04
+  - Memorandum_05
+  - Memorandum_09
+  - Memorandum_07
+  - Memorandum_08
+  - Memorandum_06
+  - memorandum_02
 createdAt: '2022-09-21T08:08:29.832Z'
 exerpt: ''
 firstname: Victor
@@ -19,6 +27,7 @@ language:
 lastname: Galonnier
 picture: ''
 picture_copyright: ''
+positions_and_institutions: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -32,30 +41,23 @@ social_channels:
   wikipedia: ''
 tags:
   - Human Behaviours, Social Relations
-  - Public Discourse, Rhetorics, Communication
-  - Violence, Criminality, Security
-  - Work, Welfare, Social protection
-  - Religions and Worldviews
-  - Firms, Markets, Finance
-  - Dataset, Data Mining
-  - Qualitative analysis
-  - Democracy, Civil Society, Governance
-  - Public Policy, Evaluation, Impact
-  - Public Health
-  - Risks, Crisis Management
-  - International Relations and Co-operation
   - Inequalities, Poverty, Development
   - Equality & Diversity Studies
+  - Work, Welfare, Social protection
+  - Consumption and Production Patterns
+  - Public Policy, Evaluation, Impact
+  - Firms, Markets, Finance
+  - Agriculture, Alimentation
+  - Big Data, Artificial Intelligence
+  - Education
   - covid-19
   - coronavirus
   - socialnorms
   - decision-making
   - Infection likelihood perception
+  - Public Health
+  - Risks, Crisis Management
   - Public Policy
-  - Consumption and Production Patterns
-  - Agriculture, Alimentation
-  - Big Data, Artificial Intelligence
-  - Education
   - Students
   - Stress
   - Depression
@@ -66,7 +68,14 @@ tags:
   - Psychological
   - Culture and The Arts
   - Digital Humanities
+  - Violence, Criminality, Security
   - Innovation, R&D
+  - Public Discourse, Rhetorics, Communication
+  - Democracy, Civil Society, Governance
+  - Religions and Worldviews
+  - Dataset, Data Mining
+  - Qualitative analysis
+  - International Relations and Co-operation
   - Leisure, Tourism
   - Environmental change, Ecology
   - Cities, Mobility, Urban Planning
@@ -81,9 +90,8 @@ tags:
   - Stopcovid
   - police
   - privacy
-titles_and_institutions: []
 years:
-  - 2020
   - 2021
+  - 2020
 
 ---

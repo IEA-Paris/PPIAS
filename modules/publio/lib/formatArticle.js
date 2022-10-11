@@ -86,10 +86,10 @@ export default (document) => {
             firstname: item.firstname,
             lastname: item.lastname,
             id: item.lastname,
-            ...(item.titles_and_institutions &&
-              item.titles_and_institutions[0] &&
-              item.titles_and_institutions[0].institution && {
-                affiliation: item.titles_and_institutions[0].institution,
+            ...(item.positions_and_institutions &&
+              item.positions_and_institutions[0] &&
+              item.positions_and_institutions[0].institution && {
+                affiliation: item.positions_and_institutions[0].institution,
               }),
             ...(item?.orcid && { orcid: item?.orcid }),
           }

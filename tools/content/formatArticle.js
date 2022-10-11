@@ -9,6 +9,7 @@ import config from '../../config.js'
 
 export default (document) => {
   if (document.dir.startsWith('/articles') && document.published) {
+    console.log('FORMAT ARTICLE', document.article_title)
     // we use the issue filter (already sorted by date) to set an index for the fetch of the view by issue
     // TODO find out why issueIndex is not attributed sometimes
     document.issueIndex = document.issue?.length
@@ -86,10 +87,10 @@ export default (document) => {
             firstname: item.firstname,
             lastname: item.lastname,
             id: item.lastname,
-            ...(item.titles_and_institutions &&
-              item.titles_and_institutions[0] &&
-              item.titles_and_institutions[0].institution && {
-                affiliation: item.titles_and_institutions[0].institution,
+            ...(item.positions_and_institutions &&
+              item.positions_and_institutions[0] &&
+              item.positions_and_institutions[0].institution && {
+                affiliation: item.positions_and_institutions[0].institution,
               }),
             ...(item?.orcid && { orcid: item?.orcid }),
           }

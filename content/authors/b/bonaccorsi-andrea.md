@@ -12,6 +12,13 @@ language:
 lastname: Bonaccorsi
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: Scientific Committee of COST
+    positions: []
+    titles: []
+  - institution: University of Pisa, Italy
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -24,11 +31,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_institutions:
-  - institution: Scientific Committee of COST
-    titles: []
-  - institution: University of Pisa, Italy
-    titles: []
 years:
   - 2022
 

@@ -2,6 +2,7 @@
 active: true
 articles:
   - Memorandum_10b
+  - Memorandum_10
 createdAt: '2022-09-21T08:08:29.832Z'
 exerpt: ''
 firstname: Aurélie
@@ -12,6 +13,10 @@ language:
 lastname: Louchart
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: Paris Institute for Advanced Study, France
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -39,9 +44,6 @@ tags:
   - Migrations and Diasporas
   - ' Work, Welfare, Social protection'
   - Inequalities, Poverty, Development
-titles_and_institutions:
-  - institution: Paris Institute for Advanced Study, France
-    titles: []
 years:
   - 2021
 

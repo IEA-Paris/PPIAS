@@ -12,6 +12,12 @@ language:
 lastname: Merkin
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: >-
+      Centre for Precise Psychiatry and Neurosciences, Germany/Switzerland;
+      Academy for Postgraduate Education, Moscow, Russia
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -23,11 +29,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_institutions:
-  - institution: >-
-      Centre for Precise Psychiatry and Neurosciences, Germany/Switzerland;
-      Academy for Postgraduate Education, Moscow, Russia
-    titles: []
 years:
   - 2022
 

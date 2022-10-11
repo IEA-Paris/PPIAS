@@ -2,6 +2,7 @@
 active: true
 articles:
   - Keynote 8
+  - 8.0_WPRN21_Keynote 8
 createdAt: '2022-09-21T08:08:29.836Z'
 exerpt: ''
 firstname: Paulius
@@ -12,6 +13,10 @@ language:
 lastname: Yamin
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: University of Pennsylvania, USA
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=zO4EatkAAAAJ&hl=en
@@ -32,9 +37,6 @@ tags:
   - social dilemma
   - ' social norm '
   - globalization
-titles_and_institutions:
-  - institution: University of Pennsylvania, USA
-    titles: []
 years:
   - 2021
 

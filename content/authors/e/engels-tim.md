@@ -13,6 +13,10 @@ language:
 lastname: Engels
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: University of Antwerp, Belgium
+    positions: []
+    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -25,9 +29,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_institutions:
-  - institution: University of Antwerp, Belgium
-    titles: []
 years:
   - 2022
 
