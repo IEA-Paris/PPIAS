@@ -31,6 +31,13 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
+titles_and_positions:
+  '0':
+    institution: BSPS Open
+    titles: []
+  '1':
+    institution: London School of Economics (LSE), United Kingdom
+    titles: []
 years:
   - 2022
 

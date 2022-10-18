@@ -308,8 +308,8 @@ module.exports = async function PDF(moduleOptions) {
 
         // Write document to file.
         const ws = fs.createWriteStream(file)
-        ws.write(await document.save())
-        ws.end()
+        await ws.write(await document.save())
+        await ws.end()
         if (buildArgs.generated) {
           // also write it in static to commit to source code (used to generate DOI)
           const file2 = path.resolve(options.dir, route.file)
@@ -318,8 +318,8 @@ module.exports = async function PDF(moduleOptions) {
             recursive: true,
           })
           const ws2 = fs.createWriteStream(file)
-          ws2.write(await document.save())
-          ws2.end()
+          await ws2.write(await document.save())
+          await ws2.end()
         }
         console.log(
           `${chalk.green('✔')}  Generated PDF ${i + 1}:${

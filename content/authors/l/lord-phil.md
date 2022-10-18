@@ -2,11 +2,14 @@
 active: true
 articles:
   - RN1_Lord
+  - decoupe
+  - test12
 createdAt: '2022-09-21T08:08:29.840Z'
 exerpt: ''
 firstname: Phil
 issue:
   - content/issues/WPRN21 Papers.md
+  - content/issues/WPRN21 Proceedings.md
 language:
   - English
 lastname: Lord
@@ -33,6 +36,10 @@ tags:
   - Employment
   - Employment Insurance
   - Universal Basic Income
+titles_and_positions:
+  '0':
+    institution: Bora Laskin Faculty of Law, Lakehead University
+    titles: []
 years:
   - 2022
 

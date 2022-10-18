@@ -29,6 +29,10 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
+titles_and_positions:
+  '0':
+    institution: Faculty of Humanities and Social Sciences, University of Zagreb, Croatie
+    titles: []
 years:
   - 2022
 

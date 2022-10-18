@@ -31,6 +31,13 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
+titles_and_positions:
+  '0':
+    institution: Université Sorbonne Nouvelle, France
+    titles: []
+  '1':
+    institution: COST Action 15137
+    titles: []
 years:
   - 2022
 

@@ -5,7 +5,7 @@ date: '2021-12-10T14:00:13.000Z'
 highlight: false
 id: IxE1RFZSJZk
 index: 0
-issue: content/issues/WPRN21 Videos.md
+issue: content/issues/WPRN21 Conference.md
 language: English
 picture: ''
 type: youtube

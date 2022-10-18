@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 articles:
   - neural-mechanisms-of-rule-compliance-in-humans
 createdAt: '2022-10-10T07:36:28.761Z'

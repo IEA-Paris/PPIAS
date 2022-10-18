@@ -3,6 +3,8 @@ active: true
 articles:
   - '2. 2008-2020 : Qu''a-t-on appris des crises économiques et financières ?'
   - '2. 2008-2020 : Qu_a-t-on appris des crises economiques et financieres ?'
+  - '2. 2008-2020 : Qu_a-t-on appris des crises economiques et financieres '
+  - '2. 2008-2020 : Qu a-t-on appris des crises économiques et financieres '
 createdAt: '2022-10-11T08:02:22.077Z'
 exerpt: ''
 firstname: Éric
@@ -28,6 +30,10 @@ social_channels:
   twitter: '@MonnetEric'
   website: https://www.ericmonnet.eu/
   wikipedia: ''
+titles_and_positions:
+  '0':
+    institution: EHESS, France
+    titles: []
 years:
   - 2022
 

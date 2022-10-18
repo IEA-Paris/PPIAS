@@ -27,6 +27,10 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+titles_and_positions:
+  '0':
+    institution: CNRS - UMR 8246 - Neurosciences, France
+    titles: []
 years:
   - 2019
 

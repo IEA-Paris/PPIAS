@@ -27,6 +27,10 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+titles_and_positions:
+  '0':
+    institution: Libération, France
+    titles: []
 years:
   - 2021
 

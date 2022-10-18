@@ -7,6 +7,7 @@ exerpt: ''
 firstname: Sofya
 issue:
   - content/issues/WPRN21 Papers.md
+  - content/issues/WPRN21 Proceedings.md
 language:
   - English
 lastname: Akinfieva
@@ -29,6 +30,12 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+titles_and_positions:
+  '0':
+    institution: >-
+      National Centre for Development of Social Support & Rehabilitation,
+      Moscow, Russia
+    titles: []
 years:
   - 2022
 

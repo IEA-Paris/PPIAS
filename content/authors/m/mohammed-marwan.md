@@ -27,6 +27,10 @@ social_channels:
   twitter: '@marwanormalzup'
   website: https://www.marwanmohammed.net/
   wikipedia: https://fr.wikipedia.org/wiki/Marwan_Mohammed
+titles_and_positions:
+  '0':
+    institution: CNRS, France
+    titles: []
 years:
   - 2022
 

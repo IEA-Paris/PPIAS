@@ -33,6 +33,10 @@ tags:
   - Technology and Medicine
   - Microbes
   - Antibiotics
+titles_and_positions:
+  '0':
+    institution: Université de Laval, Canada
+    titles: []
 years:
   - 2021
 

@@ -18,14 +18,17 @@ export default function (moduleOptions) {
     moduleOptions,
     this.options.publio
   )
-
+  let once = true
   // https://nuxtjs.org/docs/internals-glossary/internals-nuxt#hooks
   nuxt.hook('content:ready', async function (content) {
-    await tsvToArticles()
-    await makeFiltersData(content, options)
-    // await processArticles(content)
-    await generateMedia(content, options)
-    await mergeAuthors(content, options)
+    if (once) {
+      once = false
+      // await tsvToArticles()
+      await makeFiltersData(content, options)
+      await processArticles(content, options)
+      await generateMedia(content, options)
+      await mergeAuthors(content, options)
+    }
   })
   nuxt.hook('content:file:beforeInsert', async function (document, database) {
     document = {

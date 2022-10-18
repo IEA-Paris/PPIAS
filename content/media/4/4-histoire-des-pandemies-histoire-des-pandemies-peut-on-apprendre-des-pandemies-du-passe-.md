@@ -1,5 +1,5 @@
 ---
-article_slug: 4. Histoire des pandémies
+article_slug: 4. Histoire des pandemies
 caption: Histoire des pandémies - Peut-on apprendre des pandémies du passé ?
 date: '2021-04-14T16:00:56.000Z'
 highlight: false

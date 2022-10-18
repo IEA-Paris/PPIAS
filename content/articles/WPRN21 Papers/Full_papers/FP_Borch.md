@@ -1,136 +1,137 @@
 ---
-issue: content/issues/WPRN21 Papers.md
+DOI: 10.5072/zenodo.1115118
+Zid: 1115118
+abstract: >
+  The current worldwide COVID-19 pandemic situation increases feelings of
+  isolation and worry. The increase in mental problems during a pandemic unveils
+  the already limited capacity of therapists and clinics. Preliminary evidence
+  indicates that smartphone-based interventions could complement face-to-face
+  therapies. However, less is known about the uptake and usage of mental
+  e-health applications. Who will be using a mental health app? During the
+  COVID-19 pandemic where campus life was absent and many students had a much
+  reduced social life, we recruited students to use two mental self-help apps; a
+  cognitive behavioural therapy (CBT)-based self-help smartphone application
+  called “MCT & More App”, and an alternative CBT-based app called “SMART”. We
+  measured the efficacy and feasibility (attrition, duration, participant
+  evaluation) of the two apps. We hypothesised that using the smartphone
+  application will result in decreased depressive symptoms, increased
+  self-esteem, and a higher quality of life.
+article_title: 'Mental health self-help apps for coping with COVID-19 : Lessons learnt'
+authors:
+  - firstname: Kristin Benjaminsen
+    lastname: 'Borch '
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: UiT The Arctic University Of Norway, Norway
+        titles: []
+  - firstname: 'Sunday Oluwafemi '
+    lastname: Oyeyemi
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: UiT, The Arctic University of Norway, Norway
+        titles: []
+  - firstname: 'Sarah '
+    lastname: Cook
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: Imperial College London, United Kingdom
+        titles: []
+      - institution: London School of Hygiene & Tropical Medicine, United Kingdom
+        titles:
+          - ''
+  - firstname: 'Katrine Jonna '
+    lastname: Diab
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: UiT, The Arctic University of Norway, Norway
+        titles: []
+  - firstname: 'Gerit '
+    lastname: Pfuhl
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: UiT, The Arctic University of Norway, Norway
+        titles: []
+bibliography: /documents-exportes_fp3b.bib
+custom_pdf: ''
+date: 2022-05-01T21:18:35.000Z
+disciplines: ''
+highlight: false
+issue: content/issues/WPRN21 Proceedings.md
 keywords:
   - efficacy e-health
   - isolation
   - mental health apps
   - smartphone interventions
   - student wellbeing
-date: 2022-05-01T21:18:35.000+00:00
 language: English
-doi: '169059797'
-disciplines: ''
-published: true
-article_title: 'Mental health self-help apps for coping with COVID-19 : Lessons learnt'
-authors:
-  - lastname: 'Borch '
-    firstname: Kristin Benjaminsen
-    positions_and_institutions:
-      - positions: []
-        institution: UiT The Arctic University Of Norway, Norway
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: 'Sunday Oluwafemi '
-    lastname: Oyeyemi
-    positions_and_institutions:
-      - positions: []
-        institution: UiT, The Arctic University of Norway, Norway
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-
-  - firstname: 'Sarah '
-    lastname: Cook
-    positions_and_institutions:
-      - positions: []
-        institution: Imperial College London, United Kingdom
-      - titles:
-          - ''
-        institution: London School of Hygiene & Tropical Medicine, United Kingdom
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: 'Katrine Jonna '
-    lastname: Diab
-    positions_and_institutions:
-      - positions: []
-        institution: UiT, The Arctic University of Norway, Norway
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: 'Gerit '
-    lastname: Pfuhl
-    positions_and_institutions:
-      - positions: []
-        institution: UiT, The Arctic University of Norway, Norway
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-custom_pdf: ''
-abstract:
-  'The current worldwide COVID-19 pandemic situation increases feelings of
-  isolation and worry. The increase in mental problems during a pandemic unveils the
-  already limited capacity of therapists and clinics. Preliminary evidence indicates
-  that smartphone-based interventions could complement face-to-face therapies. However,
-  less is known about the uptake and usage of mental e-health applications. Who will
-  be using a mental health app? During the COVID-19 pandemic where campus life was
-  absent and many students had a much reduced social life, we recruited students to
-  use two mental self-help apps; a cognitive behavioural therapy (CBT)-based self-help
-  smartphone application called “MCT & More App”, and an alternative CBT-based app
-  called “SMART”. We measured the efficacy and feasibility (attrition, duration, participant
-  evaluation) of the two apps. We hypothesised that using the smartphone application
-  will result in decreased depressive symptoms, increased self-esteem, and a higher
-  quality of life.
-
-  '
+needDOI: false
 picture: ''
 picture_copyright: ''
+published: true
 yt: ''
-highlight: false
-bibliography: '/documents-exportes_fp3b.bib'
-needDOI: false
+
 ---
+
 
 ## 1. INTRODUCTION
 

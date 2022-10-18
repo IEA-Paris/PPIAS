@@ -5,6 +5,8 @@ articles:
   - 2. Crise économique - Inégalités
   - 3. Crise migratoire - Du global au local
   - 4. Histoire des pandémies
+  - 2. Crise economique - Inegalites
+  - 4. Histoire des pandemies
 createdAt: '2022-10-11T08:02:22.077Z'
 exerpt: ''
 firstname: Séverine
@@ -30,6 +32,10 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+titles_and_positions:
+  '0':
+    institution: EPHE-PSL, France
+    titles: []
 years:
   - 2021
 

@@ -1,115 +1,118 @@
 ---
-issue: content/issues/WPRN21 Papers.md
+DOI: 10.5072/zenodo.1115114
+Zid: 1115114
+abstract: >-
+  Research has suggested relatively low global levels of intent to get
+  vaccinated against COVID-19 in the first months after the approval of the
+  first generation of vaccines. Understanding the roots of vaccine hesitancy is
+  crucial. We set to test the robustness of earlier studies on the role of risk
+  perceptions, trust in health authorities, and socio-demographics. We ran a
+  secondary analysis of a survey with a large number of Facebook users (n =
+  63,042) from 23 countries including some countries in Asia, Africa, and Latin
+  America that have been underrepresented in earlier work. Globally, risk
+  perceptions, trust in health authorities, and various socio-demographics were
+  associated with COVID-19 vaccination intentions. Trust in health authorities
+  emerged as a particularly strong predictor of intent to get vaccinated in all
+  23 countries. Effects for risk perceptions were also relatively constant over
+  countries, except for perceived control over the infection. The influence of
+  socio-demographics varied with country context.
+article_title: >-
+  Risk Perceptions, Trust in Health Authorities and Socio-Demographics Predict
+  Intent to Get Vaccinated Against COVID-19: Evidence from 23 Countries
+authors:
+  - firstname: 'Ammina '
+    lastname: Kothari
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: University of Rhode Island, USA
+        titles: []
+  - firstname: 'Gerit '
+    lastname: Pfuhl
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: UiT, The Arctic University of Norway, Norway
+        titles: []
+  - firstname: 'Stephanie '
+    lastname: Godleski
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: Rochester Institute of Technology, USA
+        titles: []
+  - firstname: 'David '
+    lastname: Schieferdecker
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: Free University Berlin, Germany
+        titles: []
+bibliography: /documents-exportes_fp2bis.bib
+custom_pdf: ''
+date: 2022-05-01T16:10:47.000Z
+disciplines: ''
+highlight: false
+issue: content/issues/WPRN21 Proceedings.md
 keywords:
   - COVID-19
   - vaccine hesitancy
   - risk perception
   - social trust
   - socio-demographics
-date: 2022-05-01T16:10:47.000+00:00
 language: English
-doi: '169059797'
-disciplines: ''
-published: true
-article_title:
-  'Risk Perceptions, Trust in Health Authorities and Socio-Demographics
-  Predict Intent to Get Vaccinated Against COVID-19: Evidence from 23 Countries'
-authors:
-  - firstname: 'Ammina '
-    lastname: Kothari
-    positions_and_institutions:
-      - positions: []
-        institution: University of Rhode Island, USA
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: 'Gerit '
-    lastname: Pfuhl
-    positions_and_institutions:
-      - positions: []
-        institution: UiT, The Arctic University of Norway, Norway
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: 'Stephanie '
-    lastname: Godleski
-    positions_and_institutions:
-      - positions: []
-        institution: Rochester Institute of Technology, USA
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: 'David '
-    lastname: Schieferdecker
-    positions_and_institutions:
-      - positions: []
-        institution: Free University Berlin, Germany
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-
-custom_pdf: ''
-abstract:
-  Research has suggested relatively low global levels of intent to get vaccinated
-  against COVID-19 in the first months after the approval of the first generation
-  of vaccines. Understanding the roots of vaccine hesitancy is crucial. We set to
-  test the robustness of earlier studies on the role of risk perceptions, trust in
-  health authorities, and socio-demographics. We ran a secondary analysis of a survey
-  with a large number of Facebook users (n = 63,042) from 23 countries including some
-  countries in Asia, Africa, and Latin America that have been underrepresented in
-  earlier work. Globally, risk perceptions, trust in health authorities, and various
-  socio-demographics were associated with COVID-19 vaccination intentions. Trust in
-  health authorities emerged as a particularly strong predictor of intent to get vaccinated
-  in all 23 countries. Effects for risk perceptions were also relatively constant
-  over countries, except for perceived control over the infection. The influence of
-  socio-demographics varied with country context.
+needDOI: false
 picture: ''
 picture_copyright: ''
+published: true
 yt: ''
-highlight: false
-bibliography: '/documents-exportes_fp2bis.bib'
-needDOI: false
+
 ---
+
 
 ## 1. INTRODUCTION
 

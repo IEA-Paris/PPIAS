@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 articles:
   - >-
     to-be-or-not-to-be-charlie-the-impact-of-group-affiliation-on-the-processing-of-others-emitted-social-signals

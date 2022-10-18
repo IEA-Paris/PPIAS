@@ -283,7 +283,7 @@ export const cleanupString = (str) =>
     .replace('<br>', ' ')
     .replace(/\u00A0/g, ' ')
     .trim()
-
+const fieldsToDisregard = ['DOI', 'Zid']
 export const deepEqual = (x, y) =>
   // cleanUpString is meant to avoid discrepancies with possible changes that Zenodo makes on the string, regarding mostly html entities.
   Object.keys(x).every((key) => {
@@ -291,6 +291,9 @@ export const deepEqual = (x, y) =>
     console.log('typeof X', typeof x[key])
     console.log('Y', y[key])
     console.log('typeof Y', typeof y[key]) */
+    // skip fields that would generate false positives
+    /*  console.log('key: ', key) */
+    if (fieldsToDisregard.includes(key)) return true
     // if it is a primitive type, let's proceed
     if (['string', 'integer', 'boolean', 'undefined'].includes(typeof x[key])) {
       return typeof item === 'string'
@@ -342,7 +345,7 @@ export const deepEqual = (x, y) =>
     }
   })
 
-export const updateArticlesDoiAndZid = (document) => {
+export const updateArticlesDoiAndZid = async (document) => {
   const data = fs.readFileSync('./content' + document.path + '.md', 'utf8')
   const markdown = data.split('---')[2]
   const frontmatter = yaml.load(data.split('---')[1])
@@ -355,7 +358,7 @@ export const updateArticlesDoiAndZid = (document) => {
     if (document.Zid && !frontmatter.Zid) frontmatter.Zid = document.Zid
     console.log('document.Zid: ', document.Zid)
     // writeFlag is true only if the
-    fs.writeFileSync(
+    await fs.writeFileSync(
       './content' + document.path + '.md',
       `---
 ${yaml.dump(frontmatter, { noRefs: true, sortKeys: true })}

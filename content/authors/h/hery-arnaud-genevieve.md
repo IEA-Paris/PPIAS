@@ -36,6 +36,13 @@ tags:
   - Technology and Medicine
   - Microbes
   - Antibiotics
+titles_and_positions:
+  '0':
+    institution: CHRU de Brest, France
+    titles: []
+  '1':
+    institution: Université de Bretagne Occidentale, France
+    titles: []
 years:
   - 2021
 

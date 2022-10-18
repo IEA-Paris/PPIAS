@@ -8,6 +8,7 @@ exerpt: ''
 firstname: Raouf
 issue:
   - content/issues/WPRN21 Videos.md
+  - content/issues/WPRN21 Conference.md
 language:
   - English
 lastname: Boucekkine
@@ -34,6 +35,13 @@ social_channels:
 tags:
   - Infectious Diseases
   - public policies
+titles_and_positions:
+  '0':
+    institution: Aix-Marseille School of Economics, France
+    titles: []
+  '1':
+    institution: Rennes School of Business, France
+    titles: []
 years:
   - 2021
 

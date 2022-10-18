@@ -33,6 +33,13 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
+titles_and_positions:
+  '0':
+    institution: Adam Mickiewicz University in Poznan, Poland
+    titles: []
+  '1':
+    institution: Adam Mickiewicz University, Poland
+    titles: []
 years:
   - 2022
 

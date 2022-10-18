@@ -8,6 +8,7 @@ exerpt: ''
 firstname: Ted
 issue:
   - content/issues/WPRN21 Videos.md
+  - content/issues/WPRN21 Conference.md
 language:
   - English
 lastname: Loch-Temzelides
@@ -34,6 +35,10 @@ tags:
   - 'Public Health '
   - 'Public Policy, Evaluation, Impact '
   - 'Big Data, Artificial Intelligence '
+titles_and_positions:
+  '0':
+    institution: Rice University and The Baker Institute, USA
+    titles: []
 years:
   - 2021
 

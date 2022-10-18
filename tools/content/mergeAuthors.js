@@ -184,7 +184,7 @@ export default async (content) => {
   }) 
   console.log(csvString)
   */
-  insertDocuments(authorsDocs, 'authors', ['lastname', 'firstname'])
+  await insertDocuments(authorsDocs, 'authors', ['lastname', 'firstname'])
   console.log(`${chalk.green('✔')}  Inserted new author documents`)
 
   return true

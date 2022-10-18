@@ -7,6 +7,7 @@ exerpt: ''
 firstname: Sarah
 issue:
   - content/issues/WPRN21 Papers.md
+  - content/issues/WPRN21 Proceedings.md
 language:
   - English
 lastname: Cook
@@ -30,6 +31,14 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+titles_and_positions:
+  '0':
+    institution: Imperial College London, United Kingdom
+    titles: []
+  '1':
+    institution: London School of Hygiene & Tropical Medicine, United Kingdom
+    titles:
+      - ''
 years:
   - 2022
 

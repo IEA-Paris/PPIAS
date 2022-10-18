@@ -4,7 +4,7 @@
     small
     class="d-inline-block issue-badge"
     :inline="inline"
-    @click="$router.push('/issue/' + issueText)"
+    @click.prevent="$router.push('/issue/' + issueText)"
   >
     {{ issueText }}
   </v-chip>

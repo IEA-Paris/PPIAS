@@ -8,6 +8,7 @@ exerpt: ''
 firstname: Marc
 issue:
   - content/issues/WPRN21 Videos.md
+  - content/issues/WPRN21 Conference.md
 language:
   - English
 lastname: Fleurbaey
@@ -34,6 +35,10 @@ tags:
   - 'Work, Welfare, Social protection '
   - 'Inequalities, Poverty, Development '
   - 'Public Policy, Evaluation, Impact '
+titles_and_positions:
+  '0':
+    institution: Paris School of Economics, France
+    titles: []
 years:
   - 2021
 

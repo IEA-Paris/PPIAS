@@ -30,6 +30,12 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
+titles_and_positions:
+  '0':
+    institution: >-
+      Nordic Inst. for Studies in Innovation, Research and Education (NIFU),
+      Norway
+    titles: []
 years:
   - 2022
 

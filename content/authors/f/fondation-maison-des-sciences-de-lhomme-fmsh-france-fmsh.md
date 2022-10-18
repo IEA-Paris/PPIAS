@@ -8,6 +8,7 @@ firstname: FMSH
 is_institution: false
 issue:
   - content/issues/WPRN21 Videos.md
+  - content/issues/WPRN21 Conference.md
 language:
   - English
 lastname: Fondation Maison des Sciences de l'Homme (FMSH), France
@@ -24,6 +25,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+titles_and_positions: []
 years:
   - 2021
 

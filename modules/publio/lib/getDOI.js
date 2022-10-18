@@ -27,27 +27,31 @@ export default async (articles, options) => {
       interval: 6000,
     })
     // fetch all our Zenodo records
-    // TODO deal with the number of articles beyond 1k. I assume the md based system will show its limit before we reach it.
-    const records = await zenodo.depositions.list({
+    // ~~TODO deal with the number of articles beyond 1k. I assume the md based system will show its limitations before we reach it.
+    // or maybe use the deposition "retrieve" method to proceed one by one~~ //
+    /*     const records = await zenodo.depositions.list({
       size: 10000,
-    })
+    }) */
     // could have done some levenshtein distance metrics but feeling it could lead to unintended false positives
     // NOTE: hasSameTitle is not used for now
-    const hasSameFrontmatter = (data, document) => deepEqual(data, document)
+    const hasSameFrontmatter = (data = [], document) =>
+      deepEqual(document, data)
 
-    const hasSameChecksum = (data, document) =>
+    const hasSameChecksum = (data = [], document) =>
       data.files &&
       data.files.length &&
       data.files.find((file) => file.checksum === document.checksum)
-
-    const hasSameIdOrDoi = (data, document) =>
+    /* 
+    const hasSameIdOrDoi = (data = [], document) =>
       data.find(
         (article) =>
-          (article.id && document.Zid && article.id === document.Zid) ||
+          (article.id &&
+            document.Zid &&
+            article.id === document.Zid.toString()) ||
           (document.DOI &&
             article.metadata.doi &&
             article.metadata.doi === document.DOI)
-      )
+      ) */
     const createArticleOnZenodo = async (document) => {
       const metadata = await buildZenodoDocument(document)
       // used to debug using postman-like extensions:
@@ -56,6 +60,7 @@ export default async (articles, options) => {
       if (document.fileBuffer) {
         // file exists
         const entry = await zenodo.depositions.create({ metadata })
+
         console.log(`deposition created on Zenodo  for ${document.slug} `)
         await zenodo.files.upload({
           filename: document.slug + '.pdf',
@@ -68,8 +73,7 @@ export default async (articles, options) => {
           id: entry.data.id,
         })
         console.log(`${document.slug} successfully published on Zenodo `)
-        // console.log('result: ', result.data)
-        document.DOI = result.data.conceptdoi // TODO change once we're out of sandbox or toggle this based on the config file future sandbox flag
+        document.DOI = result.data.doi // TODO change once we're out of sandbox or toggle this based on the config file future sandbox flag
         document.Zid = result.data.id
       } else {
         console.log(
@@ -158,7 +162,7 @@ export default async (articles, options) => {
       return metadata
     }
 
-    const generateDOI = async (document, records) => {
+    const generateDOI = async (document) => {
       // Rationale of the below function
       /*
     We want to upsert a document in Zenodo.
@@ -174,26 +178,32 @@ export default async (articles, options) => {
         fs.existsSync(
           path.resolve(
             process.env.NODE_ENV !== 'production' ? 'static/pdfs' : 'pdfs',
-            document.slug + '.pdf'
+            document.custom_pdf ? document.custom_pdf : document.slug + '.pdf'
           )
         )
       ) {
+        console.log('PDF FILE EXISTS FOR ', document.article_title)
         // file exists, let's proceed
         document.fileBuffer =
           (await fs.readFileSync(
             path.resolve(
               process.env.NODE_ENV !== 'production' ? 'static/pdfs' : 'pdfs',
-              document.slug + '.pdf'
+              document.custom_pdf ? document.custom_pdf : document.slug + '.pdf'
             )
           )) || false
         // get PDF checksum
         document.checksum = generateChecksum(document.fileBuffer)
-
-        /* console.log('document.checksum: ', document.checksum) */
-        /* console.log('sameChecksum: ', sameChecksum) */
+        console.log('document.checksum : ', document.checksum)
         // Compare DOI and Zenodo document id
-        const sameIdOrDoi = hasSameIdOrDoi(records.data || [], document)
-        /*    console.log('sameIdOrDoi: ', sameIdOrDoi) */
+        console.log('document.DOI: ', document.DOI)
+        let sameIdOrDoi = document.Zid
+          ? (
+              await zenodo.depositions.retrieve({
+                id: document.Zid,
+              })
+            ).data
+          : false
+        /*  console.log('sameIdOrDoi: ', sameIdOrDoi) */
         // check if the article already exists on Zenodo:
         if (sameIdOrDoi) {
           console.log(
@@ -203,8 +213,8 @@ export default async (articles, options) => {
 
           // we found the matching article on Zenodo
           const sameFrontmatter = hasSameFrontmatter(
-            await buildZenodoDocument(document),
-            sameIdOrDoi.metadata || {}
+            sameIdOrDoi.metadata,
+            await buildZenodoDocument(document)
           )
           if (sameFrontmatter) {
             console.log(
@@ -232,79 +242,160 @@ export default async (articles, options) => {
               await updateArticlesDoiAndZid(document)
             }
           } else if (hasSameChecksum(sameIdOrDoi || [], document)) {
-            console.log('document: ', sameIdOrDoi)
+            /*     console.log('document: ', sameIdOrDoi) */
             // no changes to the pdf but frontmatter is different, let's create a new version.
             console.log(
-              "no changes to the pdf but frontmatter is different, let's create a new version.",
+              "no changes to the pdf but frontmatter is different, we'll update only if significant changes (i.e. regenerating pdf) occur.",
               document.Zid
             )
-            if (sameIdOrDoi.state === 'done') {
-              console.log('unlockingedit')
-              const rst = await zenodo.depositions.edit({ id: document.Zid })
-              console.log('unlocked edit', rst)
+            /*             if (sameIdOrDoi.state === 'done') {
+              try {
+                console.log('unlocking edit')
+                await zenodo.depositions.edit({ id: document.Zid })
+                console.log('unlocked edit')
+              } catch (error) {
+                console.log('error when unlocking edit: ', error)
+              }
             }
-            document = await zenodo.depositions.newversion({
-              filename: document.slug + '.pdf',
-              data: document.fileBuffer,
-              deposition: await buildZenodoDocument(document),
+            await zenodo.depositions.update({
+              id: document.Zid,
+              metadata: await buildZenodoDocument(document),
             })
             console.log('created new version')
-            await zenodo.depositions.publish({
-              id: document.Zid,
-            })
-            console.log(`${document.slug} successfully updated on Zenodo `)
+            try {
+              await zenodo.depositions.publish({
+                id: document.Zid,
+              })
+              console.log(`${document.slug} successfully updated on Zenodo `)
+            } catch (error) {
+              console.log('error while republishing edited article: ', error)
+            } */
           } else {
             // in case the pdf file changed as well, we upload the new one
             console.log('the pdf file changed as well, we upload the new one')
-            const rst = await zenodo.depositions.edit({ id: document.Zid })
-            console.log('unlocked edit', rst)
-            console.log('rst: ')
-            document = await zenodo.depositions.newversion({
-              filename: document.slug + '.pdf',
-              data: document.fileBuffer,
-              deposition: await buildZenodoDocument(document),
-            })
-            console.log('created new version')
-            await zenodo.files.upload({
-              filename: document.slug + '.pdf',
-              data: document.fileBuffer,
-              deposition: await buildZenodoDocument(document),
-            })
-            console.log('uploaded new file')
+            console.log('document.Zid: ', document.Zid)
+            let newDocId
+            try {
+              newDocId = (
+                await zenodo.depositions.newversion({
+                  id: document.Zid,
+                })
+              ).data.links.latest_draft
+                .split('/')
+                .reverse()[0]
+              console.log('unlocked edit (new version)', newDocId)
+
+              // Zenodo forces to create a new document to make a new version
+              if (newDocId) {
+                sameIdOrDoi = (
+                  await zenodo.depositions.retrieve({
+                    id: newDocId,
+                  })
+                ).data
+                console.log('sameIdOrDoi: ', sameIdOrDoi)
+              } else throw new Error('Failed to create a new version')
+              document.Zid = newDocId
+            } catch (error) {
+              console.log('error creating a new verison: ', error)
+            }
+            try {
+              console.log('sameIdOrDoi.files[0].id: ', sameIdOrDoi.files[0].id)
+              await zenodo.files.delete({
+                id: sameIdOrDoi.files[0].id,
+              })
+              console.log('deleted old file')
+            } catch (error) {
+              console.log('error deleting old file: ', error)
+            }
+            try {
+              await zenodo.files.upload({
+                filename: document.slug + '.pdf',
+                data: document.fileBuffer,
+                deposition: sameIdOrDoi,
+              })
+            } catch (error) {
+              console.log('error uplaodign new file : ')
+              console.log(
+                'entry: ',
+                JSON.stringify({
+                  filename: document.slug + '.pdf',
+                  data: document.fileBuffer,
+                  deposition: sameIdOrDoi,
+                })
+              )
+            }
+            try {
+              await zenodo.depositions.update({
+                id: document.Zid,
+                metadata: {
+                  filename: document.slug + '.pdf',
+                  data: document.fileBuffer,
+                  deposition: await buildZenodoDocument(document),
+                },
+              })
+              console.log('Upload done!')
+            } catch (error) {
+              console.log('error while reupload: ', error)
+            }
+
+            console.log('created new version & uploaded new file')
             await zenodo.depositions.publish({
               id: document.Zid,
             })
             console.log(`${document.slug} successfully updated on Zenodo `)
           }
-        } else {
+          // update the article with the revison DOI
+          await updateArticlesDoiAndZid(document)
+          // assuming we wouldn't overwrite an existing DOI
+        } else if (!document?.DOI?.length) {
+          console.log(
+            "his article doesn't exist on Zenodo. Let's create it then."
+          )
           // this article doesn't exist on Zenodo. Let's create it then.
           document = await createArticleOnZenodo(document)
+          await updateArticlesDoiAndZid(document)
         }
       } else {
         // there is no file to begin with, let's skip the Zenodo step
         // since we can't publish or get a DOI without a file to upload
         // TODO: consider using a blank file either for the sake of pre-attributing a DOI or whatever. No a good idea seen from here.
         console.log(
-          'No file atttached to "',
+          'Either an unknown DOI exists or no file is attached to "',
           document.article_title,
-          '" so let\'s just SKIP it'
+          " so let's just SKIP it"
         )
       }
       document.fileBuffer = false
       document.checksum = false
       return document
     }
-    const input = articles
-      // filter published articles only. It is done earlier in the fetch but it makes it more resilient
-      .filter((article) => article.published)
-      .map((document) =>
-        queue.add(async () => {
-          return await generateDOI(document, records)
-        })
+
+    let count = 0
+    queue.on('active', () => {
+      console.log(
+        `Working on item #${++count}.  Size: ${queue.size}  Pending: ${
+          queue.pending
+        }, done: ${count}`
       )
+    })
+    queue.on('completed', (result) => {
+      count++
+      console.log('completed', result)
+    })
+    queue.on('error', (error) => {
+      console.error('error', error)
+    })
+    const input = await articles.filter((article) => article.published)
+    // filter published articles only. It is done earlier in the fetch but it makes it more resilient
+    await queue.add(
+      await input.forEach(async (document) => {
+        await generateDOI(document)
+      })
+    )
+
     const result = await Promise.all(input)
     return result
   } catch (error) {
-    console.log('error: ', error)
+    console.log('goba error: ', error)
   }
 }

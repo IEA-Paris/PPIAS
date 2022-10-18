@@ -1,54 +1,58 @@
 ---
-issue: content/issues/WPRN21 Papers.md
+DOI: 10.5072/zenodo.1115120
+Zid: 1115120
+abstract: >-
+  This paper proposes a communication method to improve decision and
+  policymaking under uncertain scenarios. The motivation for elaborating such a
+  method is the absence of clarity and prioritization criteria in considerations
+  made by the Brazilian federal government during the ongoing response to the
+  epidemic of COVID-19 in the country. The expectation is that the
+  implementation of this method would help national leaders more easily assess
+  the significance of evidence-based practices and anecdata to the decisions
+  they are urged to make under significant time and resource constraints.
+article_title: >-
+  Governance in Crisis: Institutionalizing Reflective Report to Guide Decision
+  Making Under Uncertainty
+authors:
+  - firstname: Marvin
+    lastname: Starominski-Uehara
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: 0000-0002-1542-7619
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: Temple University, Japan
+        titles: []
+bibliography: /documents-exportes_fp1.bib
+custom_pdf: ''
+date: 2022-04-25T14:22:51.000Z
+disciplines: ''
+highlight: false
+issue: content/issues/WPRN21 Proceedings.md
 keywords:
   - ' crisis management'
   - decision making
   - public administration
   - covid-19
   - Brazil
-date: 2022-04-25T14:22:51.000+00:00
 language: English
-doi: '169059797'
-disciplines: ''
-published: true
-article_title:
-  'Governance in Crisis: Institutionalizing Reflective Report to Guide
-  Decision Making Under Uncertainty'
-authors:
-  - firstname: Marvin
-    lastname: Starominski-Uehara
-    positions_and_institutions:
-      - positions: []
-        institution: Temple University, Japan
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: 0000-0002-1542-7619
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-custom_pdf: ''
-abstract:
-  This paper proposes a communication method to improve decision and policymaking
-  under uncertain scenarios. The motivation for elaborating such a method is the absence
-  of clarity and prioritization criteria in considerations made by the Brazilian federal
-  government during the ongoing response to the epidemic of COVID-19 in the country.
-  The expectation is that the implementation of this method would help national leaders
-  more easily assess the significance of evidence-based practices and anecdata to
-  the decisions they are urged to make under significant time and resource constraints.
+needDOI: false
 picture: ''
 picture_copyright: ''
+published: true
 yt: ''
-highlight: false
-bibliography: '/documents-exportes_fp1.bib'
-needDOI: false
+
 ---
+
 
 ## 1. INTRODUCTION
 

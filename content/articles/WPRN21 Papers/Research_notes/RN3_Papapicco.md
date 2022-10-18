@@ -1,57 +1,63 @@
 ---
-issue: content/issues/WPRN21 Papers.md
-keywords:
-- Coronavirus
-- COVID-19
-- italian infodemia
-- La Repubblica online
-- mix method
-date: 2022-04-13T08:00:49Z
-language: English
-doi: "169059797"
-disciplines: ''
-published: true
+DOI: 10.5072/zenodo.1115124
+Zid: 1115124
+abstract: >-
+  In addition to becoming a global phenomenon, the spreading of the new
+  Coronavirus, following the declaration of a pandemic state, has generated
+  excessive access to information, a phenomenon named “Infodemia”
+  (@cinelli_covid-19_2020). The general purpose of this exploratory study is to
+  investigate how the coronavirus situation is described in journalistic
+  communication. Starting from La Repubblica online, as a reference journalistic
+  magazine, the study assumes that if the circulation of information helps to
+  create a social representation of the phenomenon, the excessive accessibility
+  to sources of information (Infodemia) can be modulated by the “how” the
+  phenomenon is described by the journalists. The methodology proposed is
+  quanti-qualitative (mixed method). A Content Analysis
+  (@mayring_qualitative_2004) with the SketchEngine software
+  (@thomas_discovering_2016) was carried out first, then supported by a
+  Diatextual Analysis (@papapicco_brexit_2019). The results show the presence of
+  contrasting visions about COVID-19 situation in Italy.
 article_title: 'Informative Contagion: The Coronavirus (COVID 19) in Italian journalism'
 authors:
-- firstname: 'Concetta '
-  lastname: Papapicco
-  positions_and_institutions:
-  - positions: []
-    institution: University of Bari “Aldo Moro”, Italy
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
+  - firstname: 'Concetta '
+    lastname: Papapicco
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: University of Bari “Aldo Moro”, Italy
+        titles: []
+bibliography: /bibliography/documents-exportes_rn3.bib
 custom_pdf: ''
-abstract: In addition to becoming a global phenomenon, the spreading of the new Coronavirus,
-  following the declaration of a pandemic state, has generated excessive access to
-  information, a phenomenon named “Infodemia” (@cinelli_covid-19_2020). The general
-  purpose of this exploratory study is to investigate how the coronavirus situation
-  is described in journalistic communication. Starting from La Repubblica online,
-  as a reference journalistic magazine, the study assumes that if the circulation
-  of information helps to create a social representation of the phenomenon, the excessive
-  accessibility to sources of information (Infodemia) can be modulated by the “how”
-  the phenomenon is described by the journalists. The methodology proposed is quanti-qualitative
-  (mixed method). A Content Analysis (@mayring_qualitative_2004) with the SketchEngine
-  software (@thomas_discovering_2016) was carried out first, then supported by a Diatextual
-  Analysis (@papapicco_brexit_2019). The results show the presence of contrasting
-  visions about COVID-19 situation in Italy.
+date: 2022-04-13T08:00:49.000Z
+disciplines: ''
+doi: '169059797'
+highlight: false
+issue: content/issues/WPRN21 Proceedings.md
+keywords:
+  - Coronavirus
+  - COVID-19
+  - italian infodemia
+  - La Repubblica online
+  - mix method
+language: English
 picture: ''
 picture_copyright: ''
+published: true
 yt: ''
-highlight: false
-bibliography: "/bibliography/documents-exportes_rn3.bib"
 
 ---
+
 ## 1. INTRODUCTION
 
 Since the beginning of January 2020, the attention of the medical-scientific community and the dissemination of information is focused on the epidemic caused by the new coronavirus (SARSCoV-2) emerged in Wuhan in China at the end of 2019.

@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 articles:
   - on-obedience-choice-and-accountability-or-why-orders-dont-work
 createdAt: '2022-10-10T07:36:28.761Z'

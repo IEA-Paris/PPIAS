@@ -28,6 +28,10 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+titles_and_positions:
+  '0':
+    institution: Institut National de Santé Publique, Guinée
+    titles: []
 years:
   - 2022
 

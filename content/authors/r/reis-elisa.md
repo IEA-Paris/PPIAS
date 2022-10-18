@@ -8,6 +8,7 @@ exerpt: ''
 firstname: Elisa
 issue:
   - content/issues/WPRN21 Videos.md
+  - content/issues/WPRN21 Conference.md
 language:
   - English
 lastname: Reis
@@ -34,6 +35,10 @@ tags:
   - 'Inequalities, Poverty, Development '
   - 'Risks, Crisis Management '
   - 'Public Policy, Evaluation, Impact '
+titles_and_positions:
+  '0':
+    institution: Federal University of Rio de Janeiro, Brazil
+    titles: []
 years:
   - 2021
 

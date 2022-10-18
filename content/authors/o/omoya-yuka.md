@@ -8,6 +8,7 @@ exerpt: ''
 firstname: Yuka
 issue:
   - content/issues/WPRN21 Papers.md
+  - content/issues/WPRN21 Proceedings.md
 language:
   - English
 lastname: Omoya
@@ -30,6 +31,12 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+titles_and_positions:
+  '0':
+    institution: >-
+      Graduate School of Humanities and Social Sciences, University of Tsukuba,
+      Japan
+    titles: []
 years:
   - 2022
 

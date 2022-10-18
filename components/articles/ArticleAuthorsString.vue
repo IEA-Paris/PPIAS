@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="w-100">
     <nuxt-link v-if="link" :to="link"> </nuxt-link>
     <div v-else class="authors" v-html="formatAuthorsProxy()"></div>
   </div>

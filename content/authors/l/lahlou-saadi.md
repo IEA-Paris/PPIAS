@@ -13,6 +13,8 @@ articles:
   - Memorandum_01
   - 0.1_WPRN21_Welcome Conference
   - 9.0_WPRN21_Closing Panel
+  - 2. Crise economique - Inegalites
+  - 4. Histoire des pandemies
 createdAt: '2022-09-21T08:08:29.812Z'
 exerpt: ''
 firstname: Saadi
@@ -23,6 +25,7 @@ issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/Agir en temps de crise.md
   - content/issues/WPRN Memorandums.md
+  - content/issues/WPRN21 Conference.md
 language:
   - French
   - English
@@ -51,6 +54,14 @@ tags:
   - History of Science and Medicine
   - Online conference
   - Microbes
+titles_and_positions:
+  '0':
+    institution: Paris Institute for Advanced Study, France
+    titles: []
+  '1':
+    institution: Paris Institute for Advanced Study, France
+    titles:
+      - Director
 years:
   - 2022
   - 2021

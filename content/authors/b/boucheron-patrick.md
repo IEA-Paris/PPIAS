@@ -2,6 +2,7 @@
 active: true
 articles:
   - 4. Histoire des pandémies
+  - 4. Histoire des pandemies
 createdAt: '2022-10-11T08:02:22.081Z'
 exerpt: ''
 firstname: Patrick
@@ -27,6 +28,10 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Patrick_Boucheron
+titles_and_positions:
+  '0':
+    institution: Collège de France, France
+    titles: []
 years:
   - 2021
 

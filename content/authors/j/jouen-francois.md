@@ -27,6 +27,10 @@ social_channels:
   twitter: '@fjephe'
   website: ''
   wikipedia: ''
+titles_and_positions:
+  '0':
+    institution: EPHE-PSL, France
+    titles: []
 years:
   - 2019
 

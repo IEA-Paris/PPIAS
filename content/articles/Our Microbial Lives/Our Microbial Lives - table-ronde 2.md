@@ -1,98 +1,102 @@
 ---
+DOI: 10.5072/zenodo.1115027
+Zid: 1115027
+abstract: >-
+  Table-ronde 2 du forum "Our Microbial Lives: A Forum Against Eradication", 
+  May 27, 2021, Paris Institute for Advanced Study
+article_title: >-
+  Nouvelles perspectives sur la diversité microbienne dans l'alimentation et la
+  santé
+authors:
+  - firstname: Elise
+    lastname: Tancoigne
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: Université de Lausanne, Suisse
+        titles: []
+  - firstname: 'Sabine '
+    lastname: Boesen Mariani
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: https://www.researchgate.net/profile/Sabine-Boesen-Mariani
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: Danone Nutricia Utrecht, Netherlands
+        titles: []
+  - firstname: 'Jeanne '
+    lastname: Ropars
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: https://scholar.google.fr/citations?user=FuLX2sUAAAAJ&hl=fr
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: '0000-0002-3740-9673 '
+      researchgate: https://www.researchgate.net/profile/Jeanne-Ropars
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: Laboratoire ESE, Université Paris-Saclay, France
+        titles: []
+  - firstname: 'Geneviève '
+    lastname: Teil
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: https://fr.linkedin.com/in/genevieve-teil-29aa066
+      mendeley: ''
+      orcid: '0000-0002-5536-5459 '
+      researchgate: https://www.researchgate.net/profile/Genevieve-Teil
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: INRA, France
+        titles: []
+bibliography: /bibliography/documents-exportes_tb2_lee.bib
+date: 2021-05-27T11:00:08.000Z
+highlight: false
 issue: content/issues/Our Microbial Lives.md
 keywords:
   - History of Science
   - Medicine
   - Microbe
   - Technology and Medicine
-date: 2021-05-27T11:00:08.000+00:00
 language: French
-published: true
-article_title:
-  Nouvelles perspectives sur la diversité microbienne dans l'alimentation
-  et la santé
-authors:
-  - firstname: Elise
-    lastname: Tancoigne
-    positions_and_institutions:
-      - positions: []
-        institution: Université de Lausanne, Suisse
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: 'Sabine '
-    lastname: Boesen Mariani
-    positions_and_institutions:
-      - positions: []
-        institution: Danone Nutricia Utrecht, Netherlands
-    social_channels:
-      researchgate: https://www.researchgate.net/profile/Sabine-Boesen-Mariani
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      mendeley: ''
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-  - firstname: 'Jeanne '
-    lastname: Ropars
-    positions_and_institutions:
-      - positions: []
-        institution: Laboratoire ESE, Université Paris-Saclay, France
-    social_channels:
-      google_scholar: https://scholar.google.fr/citations?user=FuLX2sUAAAAJ&hl=fr
-      orcid: '0000-0002-3740-9673 '
-      researchgate: https://www.researchgate.net/profile/Jeanne-Ropars
-      website: ''
-      wikipedia: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      mendeley: ''
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-  - firstname: 'Geneviève '
-    lastname: Teil
-    positions_and_institutions:
-      - positions: []
-        institution: INRA, France
-    social_channels:
-      researchgate: https://www.researchgate.net/profile/Genevieve-Teil
-      linkedin: https://fr.linkedin.com/in/genevieve-teil-29aa066
-      orcid: '0000-0002-5536-5459 '
-      website: ''
-      wikipedia: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      mendeley: ''
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-abstract:
-  'Table-ronde 2 du forum "Our Microbial Lives: A Forum Against Eradication",  May
-  27, 2021, Paris Institute for Advanced Study'
 picture: ''
 picture_copyright: ''
+published: true
 yt: 87MEaKh26g0
-highlight: false
-bibliography: '/bibliography/documents-exportes_tb2_lee.bib'
+
 ---
+
 
 ## Table ronde 2 du forum "Our Microbial Lives"
 

@@ -7,6 +7,7 @@ exerpt: ''
 firstname: Marvin
 issue:
   - content/issues/WPRN21 Papers.md
+  - content/issues/WPRN21 Proceedings.md
 language:
   - English
 lastname: Starominski-Uehara
@@ -33,6 +34,10 @@ tags:
   - public administration
   - covid-19
   - Brazil
+titles_and_positions:
+  '0':
+    institution: Temple University, Japan
+    titles: []
 years:
   - 2022
 

@@ -27,6 +27,10 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Fran%C3%A7ois_H%C3%A9ran
+titles_and_positions:
+  '0':
+    institution: Chaire Migrations et sociétés - Collège de France, France
+    titles: []
 years:
   - 2021
 

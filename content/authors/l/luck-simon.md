@@ -12,6 +12,9 @@ language:
 lastname: Luck
 positions_and_institutions:
   - institution: Paris Institute for Advanced Study
+titles_and_positions:
+  '0':
+    institution: Paris Institute for Advanced Study
 years:
   - 2020
 

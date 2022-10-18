@@ -30,6 +30,12 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
+titles_and_positions:
+  '0':
+    institution: >-
+      Center for Human and Social Sciences (CCHS), Spanish National Research
+      Council (CSIC), Spain
+    titles: []
 years:
   - 2022
 

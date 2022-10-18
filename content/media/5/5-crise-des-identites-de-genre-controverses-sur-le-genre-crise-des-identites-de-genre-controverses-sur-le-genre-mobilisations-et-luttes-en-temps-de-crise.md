@@ -1,5 +1,5 @@
 ---
-article_slug: 5. Crise des identités de genre - Controverses sur le genre
+article_slug: 5. Crise des identites de genre - Controverses sur le genre
 caption: >-
   Crise des Identités de Genre - Controverses sur le Genre : Mobilisations et
   Luttes en Temps de Crise

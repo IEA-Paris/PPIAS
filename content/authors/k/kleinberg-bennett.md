@@ -8,6 +8,7 @@ exerpt: ''
 firstname: Bennett
 issue:
   - content/issues/WPRN21 Videos.md
+  - content/issues/WPRN21 Conference.md
 language:
   - English
 lastname: Kleinberg
@@ -38,6 +39,13 @@ tags:
   - Gender differences
   - 'Emotions '
   - Language
+titles_and_positions:
+  '0':
+    institution: Tilburg University, Netherlands
+    titles: []
+  '1':
+    institution: University College London, United Kingdom
+    titles: []
 years:
   - 2021
 

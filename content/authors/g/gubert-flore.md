@@ -8,6 +8,7 @@ exerpt: ''
 firstname: Flore
 issue:
   - content/issues/WPRN21 Videos.md
+  - content/issues/WPRN21 Conference.md
 language:
   - English
 lastname: Gubert
@@ -19,6 +20,11 @@ social_channels:
   orcid: 0000-0002-7072-4069
   researchgate: https://www.researchgate.net/profile/Flore-Gubert
 tags: []
+titles_and_positions:
+  '0':
+    institution: Institut de Recherche pour le Développement, France
+  '1':
+    institution: Fondation Maison des Sciences de l'Homme, France
 years:
   - 2021
 

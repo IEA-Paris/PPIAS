@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 articles:
   - the-brains-that-pull-the-triggers-what-is-syndrome-e
   - introduction

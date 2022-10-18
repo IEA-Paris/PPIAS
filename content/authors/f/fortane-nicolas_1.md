@@ -1,8 +1,8 @@
 ---
 active: true
 articles:
-  - Our Microbial Lives - table-ronde 1
   - Our Microbial Lives - table-ronde 3
+  - Our Microbial Lives - table-ronde 1
 createdAt: '2022-09-21T08:08:29.808Z'
 exerpt: ''
 firstname: Nicolas
@@ -30,10 +30,14 @@ social_channels:
   wikipedia: ''
 tags:
   - History of Science
-  - Microbes
   - Medicine
   - Technology and Medicine
+  - Microbes
   - Antibiotics
+titles_and_positions:
+  '0':
+    institution: INRAE, France
+    titles: []
 years:
   - 2021
 

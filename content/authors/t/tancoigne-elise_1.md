@@ -32,6 +32,10 @@ tags:
   - Medicine
   - Microbe
   - Technology and Medicine
+titles_and_positions:
+  '0':
+    institution: Université de Lausanne, Suisse
+    titles: []
 years:
   - 2021
 

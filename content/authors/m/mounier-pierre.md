@@ -31,6 +31,13 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
+titles_and_positions:
+  '0':
+    institution: OpenEdition, France
+    titles: []
+  '1':
+    institution: OPERAS Research Infrastructure, France
+    titles: []
 years:
   - 2022
 

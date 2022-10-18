@@ -1,100 +1,102 @@
 ---
+DOI: 10.5072/zenodo.1115025
+Zid: 1115025
+abstract: >-
+  Table-ronde 1 du forum "Our Microbial Lives: A Forum Against Eradication", 
+  May 27, 2021, Paris Institute for Advanced Study
+article_title: Connaissance des microbes et de la fermentation dans le développement durable
+authors:
+  - firstname: Nicolas
+    lastname: Fortané
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: INRAE, France
+        titles: []
+  - firstname: 'Anne '
+    lastname: Pitkowski
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: https://fr.linkedin.com/in/anne-pitkowski-95a2a697
+      mendeley: ''
+      orcid: ''
+      researchgate: https://www.researchgate.net/profile/Anne-Pitkowski
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: Fromageries BEL, France
+        titles: []
+  - firstname: Élise
+    lastname: Tancoigne
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: https://scholar.google.fr/citations?user=21W9xTQAAAAJ&hl=fr
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: 0000-0002-4168-4352
+      researchgate: https://www.researchgate.net/profile/Elise-Tancoigne
+      twitter: ''
+      website: https://www.etancoigne.fr/
+      wikipedia: ''
+    titles_and_positions:
+      - institution: 'Université de Lausanne, Switzerland '
+        titles: []
+  - firstname: 'Marc-André '
+    lastname: Selosse
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: '0000-0003-3471-9067 '
+      researchgate: https://www.researchgate.net/profile/Marc-Selosse
+      twitter: ''
+      website: ''
+      wikipedia: https://fr.wikipedia.org/wiki/Marc-Andr%C3%A9_Selosse
+    titles_and_positions:
+      - institution: >-
+          Institut de Systématique, Évolution, Biodiversité, Muséum national
+          d'Histoire naturelle, France
+        titles: []
+bibliography: /bibliography/documents-exportes_tb1_lee.bib
+date: 2021-05-27T08:00:16.000Z
+highlight: false
 issue: content/issues/Our Microbial Lives.md
 keywords:
   - History of Science
   - Microbes
   - Medicine
   - Technology and Medicine
-date: 2021-05-27T08:00:16.000+00:00
 language: French
-published: true
-article_title:
-  Connaissance des microbes et de la fermentation dans le développement
-  durable
-authors:
-  - firstname: Nicolas
-    lastname: Fortané
-    positions_and_institutions:
-      - positions: []
-        institution: INRAE, France
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - positions_and_institutions:
-      - positions: []
-        institution: Fromageries BEL, France
-    lastname: Pitkowski
-    social_channels:
-      researchgate: https://www.researchgate.net/profile/Anne-Pitkowski
-      linkedin: https://fr.linkedin.com/in/anne-pitkowski-95a2a697
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      mendeley: ''
-    firstname: 'Anne '
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-  - lastname: Tancoigne
-    positions_and_institutions:
-      - positions: []
-        institution: 'Université de Lausanne, Switzerland '
-    social_channels:
-      website: https://www.etancoigne.fr/
-      google_scholar: https://scholar.google.fr/citations?user=21W9xTQAAAAJ&hl=fr
-      researchgate: https://www.researchgate.net/profile/Elise-Tancoigne
-      orcid: 0000-0002-4168-4352
-      wikipedia: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      mendeley: ''
-    firstname: Élise
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-  - lastname: Selosse
-    firstname: 'Marc-André '
-    positions_and_institutions:
-      - positions: []
-        institution:
-          Institut de Systématique, Évolution, Biodiversité, Muséum national
-          d'Histoire naturelle, France
-    social_channels:
-      wikipedia: https://fr.wikipedia.org/wiki/Marc-Andr%C3%A9_Selosse
-      orcid: '0000-0003-3471-9067 '
-      researchgate: https://www.researchgate.net/profile/Marc-Selosse
-      website: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      mendeley: ''
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-abstract:
-  'Table-ronde 1 du forum "Our Microbial Lives: A Forum Against Eradication",  May
-  27, 2021, Paris Institute for Advanced Study'
 picture: ''
 picture_copyright: ''
+published: true
 yt: wcDK7AbXkpo
-highlight: false
-bibliography: '/bibliography/documents-exportes_tb1_lee.bib'
+
 ---
+
 
 ## Table-ronde 1 du forum "Our Microbial Lives"
 

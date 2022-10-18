@@ -8,6 +8,7 @@ exerpt: ''
 firstname: Enrique
 issue:
   - content/issues/WPRN21 Videos.md
+  - content/issues/WPRN21 Conference.md
 language:
   - English
 lastname: Fatas
@@ -37,6 +38,10 @@ tags:
   - social dilemma
   - ' social norm '
   - globalization
+titles_and_positions:
+  '0':
+    institution: University of Pennsylvania, USA
+    titles: []
 years:
   - 2021
 

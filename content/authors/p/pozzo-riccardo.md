@@ -29,6 +29,10 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
+titles_and_positions:
+  '0':
+    institution: Université de Rome Tor Vergata, Italy
+    titles: []
 years:
   - 2022
 

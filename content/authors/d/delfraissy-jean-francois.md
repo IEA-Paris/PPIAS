@@ -30,6 +30,13 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Delfraissy
+titles_and_positions:
+  '0':
+    institution: Conseil scientifique Covid-19, France
+    titles: []
+  '1':
+    institution: Comité consultatif national d'éthique, France
+    titles: []
 years:
   - 2021
 

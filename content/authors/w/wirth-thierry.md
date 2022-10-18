@@ -2,6 +2,7 @@
 active: true
 articles:
   - 4. Histoire des pandémies
+  - 4. Histoire des pandemies
 createdAt: '2022-10-11T08:02:22.081Z'
 exerpt: ''
 firstname: Thierry
@@ -27,6 +28,10 @@ social_channels:
   twitter: '@ThierryWirth'
   website: ''
   wikipedia: ''
+titles_and_positions:
+  '0':
+    institution: EPHE-PSL, France
+    titles: []
 years:
   - 2021
 

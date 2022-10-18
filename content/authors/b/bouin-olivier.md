@@ -10,6 +10,7 @@ firstname: Olivier
 issue:
   - content/issues/HCERES - PFUE 2022.md
   - content/issues/WPRN21 Videos.md
+  - content/issues/WPRN21 Conference.md
 language:
   - English
 lastname: Bouin
@@ -34,6 +35,13 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
+titles_and_positions:
+  '0':
+    institution: RFIEA-NETIAS, France
+    titles: []
+  '1':
+    institution: RFIEA Foundation, France
+    titles: []
 years:
   - 2022
   - 2021

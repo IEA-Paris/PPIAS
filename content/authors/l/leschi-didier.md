@@ -30,6 +30,13 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Didier_Leschi
+titles_and_positions:
+  '0':
+    institution: Office français de l'immigration et de l'intégration, France
+    titles: []
+  '1':
+    institution: Institut européen en sciences des religions, France
+    titles: []
 years:
   - 2021
 

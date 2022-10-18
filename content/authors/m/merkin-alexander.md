@@ -7,6 +7,7 @@ exerpt: ''
 firstname: Alexander
 issue:
   - content/issues/WPRN21 Papers.md
+  - content/issues/WPRN21 Proceedings.md
 language:
   - English
 lastname: Merkin
@@ -29,6 +30,12 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+titles_and_positions:
+  '0':
+    institution: >-
+      Centre for Precise Psychiatry and Neurosciences, Germany/Switzerland;
+      Academy for Postgraduate Education, Moscow, Russia
+    titles: []
 years:
   - 2022
 

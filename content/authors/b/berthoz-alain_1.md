@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 articles:
   - syndrome-e-and-plurality-of-perspectives
   - is-empathy-involved-in-perpetrators-behavior

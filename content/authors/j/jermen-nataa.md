@@ -28,6 +28,10 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
+titles_and_positions:
+  '0':
+    institution: The Miroslav Krleža Institute of Lexicography, Croatia
+    titles: []
 years:
   - 2022
 

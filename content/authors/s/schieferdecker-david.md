@@ -7,6 +7,7 @@ exerpt: ''
 firstname: David
 issue:
   - content/issues/WPRN21 Papers.md
+  - content/issues/WPRN21 Proceedings.md
 language:
   - English
 lastname: Schieferdecker
@@ -27,6 +28,10 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+titles_and_positions:
+  '0':
+    institution: Free University Berlin, Germany
+    titles: []
 years:
   - 2022
 

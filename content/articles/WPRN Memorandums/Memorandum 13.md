@@ -1,4 +1,45 @@
 ---
+DOI: 10.5072/zenodo.1115035
+Zid: 1115035
+abstract: >-
+  People who are reluctant to vaccinate have often been portrayed  as
+  conspiracists in the media. Is this an anecdotal evidence ? A stable
+  correlation ?
+
+  Research in the humanities and social sciences has looked into this question.
+  It has also studied how people relate to Covid-19 vaccination: do undecided
+  people change their minds over time? What policies are likely to drive them
+  away from vaccination? Is the obligation to show a vaccination certificate to
+  access public spaces effective to nudge vaccine uptake? What makes vaccine
+  mistrust fade away? 
+
+  Memorandum 13 : overview of the studies and projects registered on WPRN
+  database
+
+  This article was originally published in French.
+article_title: COVID-19 Vaccination Resistance
+authors:
+  - firstname: 'Aurélie  '
+    lastname: Louchart
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions: []
+bibliography: /bibliography/documents-exportes_memo13.bib
+custom_pdf: ''
+date: 2021-08-31T22:00:35.000Z
+disciplines: ''
+highlight: true
 issue: content/issues/WPRN Memorandums.md
 keywords:
   - 'Consumption and Production Patterns '
@@ -16,46 +57,15 @@ keywords:
   - 'Dataset, Data Mining '
   - 'Simulation / Modeling '
   - 'Innovation, R&D '
-date: 2021-08-31T22:00:35.000+00:00
 language: English
-published: true
-article_title: COVID-19 Vaccination Resistance
-authors:
-  - firstname: 'Aurélie  '
-    lastname: Louchart
-    positions_and_institutions: []
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-abstract:
-  "People who are reluctant to vaccinate have often been portrayed  as conspiracists
-  in the media. Is this an anecdotal evidence ? A stable correlation ?\nResearch in
-  the humanities and social sciences has looked into this question. It has also studied
-  how people relate to Covid-19 vaccination: do undecided people change their minds
-  over time? What policies are likely to drive them away from vaccination? Is the
-  obligation to show a vaccination certificate to access public spaces effective to
-  nudge vaccine uptake? What makes vaccine mistrust fade away? \nMemorandum 13 : overview
-  of the studies and projects registered on WPRN database\nThis article was originally
-  published in French."
-picture: '/1f96806f-d2b5-44b3-ac16-323501831870.jpeg'
-picture_copyright: ''
-yt: ''
-highlight: true
-bibliography: '/bibliography/documents-exportes_memo13.bib'
-custom_pdf: ''
-disciplines: ''
 needDOI: true
+picture: /1f96806f-d2b5-44b3-ac16-323501831870.jpeg
+picture_copyright: ''
+published: true
+yt: ''
+
 ---
+
 
 People who are reluctant to vaccinate have often been portrayed as conspiracists in the media. Is this anecdotal evidence? A stable correlation? Research in humanities and social sciences has looked into this question. It has also studied how people relate to Covid-19 vaccination: do undecided people change their minds over time? What policies are likely to drive them away from vaccination? Is the obligation to show a vaccination certificate to access public spaces effective to nudge vaccine uptake? What makes vaccine mistrust fade away?
 

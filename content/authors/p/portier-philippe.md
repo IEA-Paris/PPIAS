@@ -27,6 +27,10 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Philippe_Portier
+titles_and_positions:
+  '0':
+    institution: EPHE, France
+    titles: []
 years:
   - 2020
 

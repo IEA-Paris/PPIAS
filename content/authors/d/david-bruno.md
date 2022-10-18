@@ -27,6 +27,10 @@ social_channels:
   twitter: '@BrunoDavidMNHN'
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Bruno_David
+titles_and_positions:
+  '0':
+    institution: Muséum national d'histoire naturelle, France
+    titles: []
 years:
   - 2021
 

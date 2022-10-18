@@ -23,8 +23,9 @@ export default async (content, options) => {
     })
     .flat()
     .filter((item, index, self) => item !== undefined)
-  // TODO remove duplicate media ID (?)
 
+  // TODO remove duplicate media ID (?)
   await insertDocuments(media, 'media', ['article_slug', 'caption'])
+
   return options
 }

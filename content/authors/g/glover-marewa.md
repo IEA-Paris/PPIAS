@@ -7,6 +7,7 @@ exerpt: ''
 firstname: Marewa
 issue:
   - content/issues/WPRN21 Papers.md
+  - content/issues/WPRN21 Proceedings.md
 language:
   - English
 lastname: Glover
@@ -29,6 +30,12 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+titles_and_positions:
+  '0':
+    institution: >-
+      Centre of Research Excellence: Indigenous Sovereignty & Smoking, Auckland,
+      New Zealand
+    titles: []
 years:
   - 2022
 

@@ -27,6 +27,10 @@ social_channels:
   twitter: '@AliceDesclaux'
   website: ''
   wikipedia: ''
+titles_and_positions:
+  '0':
+    institution: Institut de recherche pour le développement (IRD), France
+    titles: []
 years:
   - 2022
 

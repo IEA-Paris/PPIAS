@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 articles:
   - analysing-massacre-to-understand-the-genocidal-process
 createdAt: '2022-10-10T07:36:28.761Z'

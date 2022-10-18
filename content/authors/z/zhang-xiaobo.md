@@ -8,6 +8,7 @@ exerpt: ''
 firstname: Xiaobo
 issue:
   - content/issues/WPRN21 Videos.md
+  - content/issues/WPRN21 Conference.md
 language:
   - English
 lastname: Zhang
@@ -36,6 +37,10 @@ tags:
   - 'Public Health '
   - Innovation, R&D
   - 'Work, Welfare, Social protection '
+titles_and_positions:
+  '0':
+    institution: International Food Policy Research Institute, China
+    titles: []
 years:
   - 2021
 

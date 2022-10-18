@@ -32,6 +32,13 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
+titles_and_positions:
+  '0':
+    institution: École normale supérieure, France
+    titles: []
+  '1':
+    institution: Université Pierre-et-Marie-Curie, France
+    titles: []
 years:
   - 2021
 

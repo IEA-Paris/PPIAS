@@ -7,6 +7,7 @@ exerpt: ''
 firstname: Amalia
 issue:
   - content/issues/WPRN21 Papers.md
+  - content/issues/WPRN21 Proceedings.md
 language:
   - English
 lastname: Martinez
@@ -34,6 +35,17 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+titles_and_positions:
+  '0':
+    institution: >-
+      Group for research and Analyses in Population health (GAP), IUCT Oncopole,
+      France
+    titles: []
+  '1':
+    institution: >-
+      Center of Epidemiology and Research in POPulation health (CERPOP), Inserm,
+      Toulouse III Paul Sabatier University, France
+    titles: []
 years:
   - 2022
 

@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 articles:
   - sharing-to-communicate-neurophysiological-mechanisms
 createdAt: '2022-10-10T07:36:28.761Z'

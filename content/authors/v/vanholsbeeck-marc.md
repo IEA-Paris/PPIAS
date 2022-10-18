@@ -34,6 +34,15 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
+titles_and_positions:
+  '0':
+    institution: >-
+      Service général de l’enseignement supérieur et de la recherche
+      scientifique, Ministère de la Fédération Wallonie- Bruxelles , Belgique
+    titles: []
+  '1':
+    institution: Université Libre de Bruxelles, Belgique
+    titles: []
 years:
   - 2022
 

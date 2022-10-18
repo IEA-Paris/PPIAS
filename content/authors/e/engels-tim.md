@@ -29,6 +29,10 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
+titles_and_positions:
+  '0':
+    institution: University of Antwerp, Belgium
+    titles: []
 years:
   - 2022
 
