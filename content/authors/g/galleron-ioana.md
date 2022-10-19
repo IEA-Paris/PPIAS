@@ -9,6 +9,7 @@ issue:
   - content/issues/HCERES - PFUE 2022.md
 language:
   - English
+  - null
 lastname: Galleron
 picture: ''
 picture_copyright: ''
@@ -40,5 +41,6 @@ titles_and_positions:
     titles: []
 years:
   - 2022
+  - null
 
 ---

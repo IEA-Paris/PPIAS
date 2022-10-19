@@ -2,6 +2,8 @@
 active: true
 articles:
   - '4. 1999 : la France dans la tempête'
+  - '4. 1999 : la France dans la tempete'
+  - 4. 1999  la France dans la tempete
 createdAt: '2022-10-11T08:02:22.077Z'
 exerpt: ''
 firstname: Claude

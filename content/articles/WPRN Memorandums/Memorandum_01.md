@@ -2,18 +2,8 @@
 DOI: 10.5072/zenodo.1115395
 Zid: 1115395
 abstract: >-
-  During the Covid-19 pandemic, the authorities asked for unusual instructions
-  that contradicted generally valued behaviours: isolation and social distancing
-  rather than social activities and rituals (going out, consumption, physical
-  contact). Unsurprisingly, there is a difficulty in changing behaviour in the
-  direction imposed by the pandemic, although at a time of progressive
-  deconfinement, respect for social distancing is a crucial issue, and
-  everything suggests that these behaviours will have to be maintained over
-  time. It is therefore essential to understand the best ways to persuade
-  citizens to adopt the right behaviours.
-
-  Memorandum 1 : overview of the studies and projects registered on WPRN
-  database
+  During the Covid-19 pandemic, the authorities asked for unusual instructions that contradicted generally valued behaviours: isolation and social distancing rather than social activities and rituals (going out, consumption, physical contact). Unsurprisingly, there is a difficulty in changing behaviour in the direction imposed by the pandemic, although at a time of progressive deconfinement, respect for social distancing is a crucial issue, and everything suggests that these behaviours will have to be maintained over time. It is therefore essential to understand the best ways to persuade citizens to adopt the right behaviours.
+  Memorandum 1 : overview of the studies and projects registered on WPRN database
 article_title: Concern for Others is a Better Argument to Foster Social Distancing
 authors:
   - firstname: Simon
@@ -29,12 +19,6 @@ date: 2020-04-30T22:00:00.000Z
 doi: '169059797'
 highlight: true
 issue: content/issues/WPRN Memorandums.md
-keywords:
-  - Human Behaviours, Social Relations
-  - 'Public Health '
-  - Public Policy, Evaluation, Impact
-  - 'Risks, Crisis Management '
-  - Social and Personality Psychology
 language: English
 picture: /atm-social-distancing-1600x800-1.jpg
 picture_copyright: ''
@@ -53,7 +37,6 @@ tag:
 yt: ''
 
 ---
-
 Social psychology studies typically focus on social norms to understand, anticipate and influence the behaviours of individuals and groups (to simplify: «others do it, so do it too»). While norms can be produced by groups themselves, it is primarily institutions (often governments) that prescribe desired behaviours.
 
 In the case of the Covid-19 pandemic, the authorities asked for unusual instructions that contradicted generally valued behaviours: isolation and social distancing rather than social activities and rituals (going out, consumption, physical contact). Unsurprisingly, there is a difficulty in changing behaviour in the direction imposed by the pandemic, although at a time of progressive deconfinement, respect for social distancing is a crucial issue, and everything suggests that these behaviours will have to be maintained over time. It is  

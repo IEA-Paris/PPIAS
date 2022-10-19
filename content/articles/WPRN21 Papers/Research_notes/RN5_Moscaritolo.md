@@ -11,7 +11,7 @@ article_title: >-
   Parenting and home schooling in diverse family settings with young children
   during the first COVID-19 lockdown in France
 authors:
-  - firstname: 'Alice '
+  - firstname: 'Alice'
     lastname: Moscaritolo
     picture: ''
     picture_copyright: ''
@@ -33,7 +33,7 @@ authors:
         titles: []
       - institution: EFTS, Toulouse Jean-Jaurès University, France
         titles: []
-  - firstname: 'Amalia '
+  - firstname: 'Amalia'
     lastname: Martinez
     picture: ''
     picture_copyright: ''
@@ -63,7 +63,7 @@ date: 2022-04-13T13:00:47.000Z
 disciplines: ''
 doi: '169059797'
 highlight: false
-issue: content/issues/WPRN21 Proceedings.md
+issue: content/issues/WPRN21 Papers.md
 keywords:
   - Single-parent families
   - Shared residence

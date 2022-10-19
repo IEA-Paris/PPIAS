@@ -23,7 +23,7 @@ abstract: >-
   This article was originally published in French.
 article_title: Science in Public Debate in Times of Crisis
 authors:
-  - firstname: 'Aurélie '
+  - firstname: 'Aurélie'
     lastname: Louchart
     picture: ''
     picture_copyright: ''
@@ -122,6 +122,6 @@ Jet Sanders, Emma Watson, Sandra Obradovic, Liam Delaney, Alessia Tosi, «Trust 
 
 Anne-Lise Sibony, «The UK COVID-19 Response: A Behavioural Irony?» in Alberto Alemanno, «European Journal of Risk Regulation Special Issue: Taming COVID-19 by Regulation»[https://wprn.org/item/445552](https://wprn.org/item/445552 'https://wprn.org/item/445552') The contributions collected in this special issue of the European Journal of Risk Regulation from the University of Cambridge provide a first analysis of the “surprisingly uncoordinated, sometimes unscientific response to an essentially predictable event in a geopolitically fragmented world.” Anne-Lise Sibony’s article focuses on the case of the UK government’s use of behavioral science.
 
-Marianne Noël and Elise Tancoigne, «Performing expertise in times of pandemics  
+Marianne Noël and Élise Tancoigne, «Performing expertise in times of pandemics  
  [https://wprn.org/item/434452](https://wprn.org/item/434452 'https://wprn.org/item/434452')  
- In their comparative analysis of Jordan and Sweden, Elise Tancoigne and Marianne Noël (University of Geneva) show that these two states use scientific expertise for similar purposes, which leads them to ask: when and why are such performances still credible for the public of each country, and under what historical and cultural conditions?
+ In their comparative analysis of Jordan and Sweden, Élise Tancoigne and Marianne Noël (University of Geneva) show that these two states use scientific expertise for similar purposes, which leads them to ask: when and why are such performances still credible for the public of each country, and under what historical and cultural conditions?

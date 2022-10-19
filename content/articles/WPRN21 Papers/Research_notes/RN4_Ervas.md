@@ -22,7 +22,7 @@ abstract: >-
   vaccination intentions. 
 article_title: Metaphors for vaccination and defeasible reasoning
 authors:
-  - firstname: 'Francesca '
+  - firstname: 'Francesca'
     lastname: Ervas
     picture: ''
     picture_copyright: ''
@@ -40,7 +40,7 @@ authors:
     titles_and_positions:
       - institution: University of Cagliari, Italy
         titles: []
-  - firstname: 'Pietro '
+  - firstname: 'Pietro'
     lastname: Salis
     picture: ''
     picture_copyright: ''
@@ -58,7 +58,7 @@ authors:
     titles_and_positions:
       - institution: University of Cagliari, Italy
         titles: []
-  - firstname: 'Rachele '
+  - firstname: 'Rachele'
     lastname: Fanari
     picture: ''
     picture_copyright: ''
@@ -82,7 +82,7 @@ date: 2022-04-12T22:00:34.000Z
 disciplines: ''
 doi: '169059797'
 highlight: false
-issue: content/issues/WPRN21 Proceedings.md
+issue: content/issues/WPRN21 Papers.md
 keywords:
   - metaphor
   - vaccination

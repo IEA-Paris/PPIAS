@@ -1,7 +1,6 @@
 ---
 active: true
 articles:
-  - 2. Crise économique - Inégalités
   - 2. Crise economique - Inegalites
 createdAt: '2022-10-11T08:02:22.081Z'
 exerpt: ''

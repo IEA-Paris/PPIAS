@@ -24,7 +24,7 @@ authors:
     titles_and_positions:
       - institution: INRAE, France
         titles: []
-  - firstname: 'Anne '
+  - firstname: 'Anne'
     lastname: Pitkowski
     picture: ''
     picture_copyright: ''
@@ -53,14 +53,14 @@ authors:
       linkedin: ''
       mendeley: ''
       orcid: 0000-0002-4168-4352
-      researchgate: https://www.researchgate.net/profile/Elise-Tancoigne
+      researchgate: https://www.researchgate.net/profile/Élise-Tancoigne
       twitter: ''
       website: https://www.etancoigne.fr/
       wikipedia: ''
     titles_and_positions:
       - institution: 'Université de Lausanne, Switzerland '
         titles: []
-  - firstname: 'Marc-André '
+  - firstname: 'Marc-André'
     lastname: Selosse
     picture: ''
     picture_copyright: ''

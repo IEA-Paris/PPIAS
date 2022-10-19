@@ -1,16 +1,12 @@
 ---
 needDOI: true
 issue: content/issues/Agir en temps de crise.md
-keywords: []
 date: 2022-04-14T16:00:42Z
 language: French
-disciplines: ''
 published: true
-doi: ''
-article_title: '2008-2020 : Qu''a-t-on appris des Crises Economiques et Financières
-  ?'
+article_title: '2008-2020: Qu a-t-on appris des Crises Economiques et Financières ?'
 authors:
-- firstname: 'Marc-Olivier '
+- firstname: 'Marc-Olivier'
   lastname: Strauss-Kahn
   titles_and_positions:
   - titles: []
@@ -28,7 +24,7 @@ authors:
   is_institution: false
   picture: ''
   picture_copyright: ''
-- firstname: 'Éric '
+- firstname: 'Éric'
   lastname: Monnet
   titles_and_positions:
   - titles: []
@@ -46,7 +42,7 @@ authors:
   is_institution: false
   picture: ''
   picture_copyright: ''
-- firstname: 'Elizabeth '
+- firstname: 'Elizabeth'
   lastname: Ducottet
   titles_and_positions:
   - titles: []

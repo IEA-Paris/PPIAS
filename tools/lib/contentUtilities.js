@@ -451,7 +451,7 @@ export const insertDocuments = (data, cat, filenameFlag) => {
       fileName = fileName + '.md'
     }
     fs.writeFileSync(
-      './content/' + cat + '/' + fileName[0] + '/' + fileName,
+      './content/' + cat + '/' + slugify(fileName[0]) + '/' + fileName,
       `---
 ${yaml.dump(filteredDoc, { noRefs: true, sortKeys: true })}
 ---

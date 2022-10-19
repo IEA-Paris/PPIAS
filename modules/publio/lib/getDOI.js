@@ -11,6 +11,7 @@ import {
 /// See main fn rationale below the subfunctions
 export default async (articles, options) => {
   const { config } = options
+  const currentDocument = true
   try {
     const fs = require('fs')
     const path = require('path')
@@ -22,8 +23,8 @@ export default async (articles, options) => {
     })
     // Prepare a queue to avoid rate limiting mechanisms or RAM overconsumption
     const queue = new PQueue({
-      concurrency: 5,
-      intervalCap: 60,
+      concurrency: 3,
+      intervalCap: 30,
       interval: 6000,
     })
     // fetch all our Zenodo records
@@ -182,7 +183,7 @@ export default async (articles, options) => {
           )
         )
       ) {
-        console.log('PDF FILE EXISTS FOR ', document.article_title)
+        /*  console.log('PDF FILE EXISTS FOR ', document.article_title) */
         // file exists, let's proceed
         document.fileBuffer =
           (await fs.readFileSync(
@@ -193,9 +194,8 @@ export default async (articles, options) => {
           )) || false
         // get PDF checksum
         document.checksum = generateChecksum(document.fileBuffer)
-        console.log('document.checksum : ', document.checksum)
+        /*    console.log('document.checksum : ', document.checksum) */
         // Compare DOI and Zenodo document id
-        console.log('document.DOI: ', document.DOI)
         let sameIdOrDoi = document.Zid
           ? (
               await zenodo.depositions.retrieve({
@@ -206,10 +206,10 @@ export default async (articles, options) => {
         /*  console.log('sameIdOrDoi: ', sameIdOrDoi) */
         // check if the article already exists on Zenodo:
         if (sameIdOrDoi) {
-          console.log(
+          /*          console.log(
             'FOUND articles matching on Zenodo for ',
             document.article_title
-          )
+          ) */
 
           // we found the matching article on Zenodo
           const sameFrontmatter = hasSameFrontmatter(
@@ -243,11 +243,10 @@ export default async (articles, options) => {
             }
           } else if (hasSameChecksum(sameIdOrDoi || [], document)) {
             /*     console.log('document: ', sameIdOrDoi) */
-            // no changes to the pdf but frontmatter is different, let's create a new version.
-            console.log(
+            /*     console.log(
               "no changes to the pdf but frontmatter is different, we'll update only if significant changes (i.e. regenerating pdf) occur.",
               document.Zid
-            )
+            ) */
             /*             if (sameIdOrDoi.state === 'done') {
               try {
                 console.log('unlocking edit')
@@ -292,7 +291,7 @@ export default async (articles, options) => {
                     id: newDocId,
                   })
                 ).data
-                console.log('sameIdOrDoi: ', sameIdOrDoi)
+                /* console.log('sameIdOrDoi: ', sameIdOrDoi) */
               } else throw new Error('Failed to create a new version')
               document.Zid = newDocId
             } catch (error) {
@@ -359,11 +358,11 @@ export default async (articles, options) => {
         // there is no file to begin with, let's skip the Zenodo step
         // since we can't publish or get a DOI without a file to upload
         // TODO: consider using a blank file either for the sake of pre-attributing a DOI or whatever. No a good idea seen from here.
-        console.log(
+        /*      console.log(
           'Either an unknown DOI exists or no file is attached to "',
           document.article_title,
           " so let's just SKIP it"
-        )
+        ) */
       }
       document.fileBuffer = false
       document.checksum = false
@@ -375,27 +374,24 @@ export default async (articles, options) => {
       console.log(
         `Working on item #${++count}.  Size: ${queue.size}  Pending: ${
           queue.pending
-        }, done: ${count}`
+        }`
       )
     })
     queue.on('completed', (result) => {
       count++
-      console.log('completed', result)
+      console.log('completed', result.article_title)
     })
     queue.on('error', (error) => {
       console.error('error', error)
     })
-    const input = await articles.filter((article) => article.published)
     // filter published articles only. It is done earlier in the fetch but it makes it more resilient
-    await queue.add(
-      await input.forEach(async (document) => {
-        await generateDOI(document)
-      })
-    )
-
-    const result = await Promise.all(input)
-    return result
+    const input = await articles.filter((article) => article.published)
+    await input.forEach(async (document) => {
+      await queue.add(async () => await generateDOI(document))
+    })
+    return true
   } catch (error) {
-    console.log('goba error: ', error)
+    console.log('general GetDoI error: ', error)
+    console.log('currentDocument: ', currentDocument)
   }
 }

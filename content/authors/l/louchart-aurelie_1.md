@@ -1,12 +1,10 @@
 ---
 active: true
 articles:
-  - Memorandum 13
-  - Memorandum 12
-  - Memorandum 14
-createdAt: '2022-09-21T08:08:29.832Z'
+  - Memorandum_10
+createdAt: '2022-10-19T08:20:52.530Z'
 exerpt: ''
-firstname: Aurélie
+firstname: Aurélie
 issue:
   - content/issues/WPRN Memorandums.md
 language:
@@ -14,7 +12,6 @@ language:
 lastname: Louchart
 picture: ''
 picture_copyright: ''
-positions_and_institutions: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -26,40 +23,11 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-tags:
-  - 'Consumption and Production Patterns '
-  - 'Democracy, Civil Society, Governance '
-  - 'Public Health '
-  - 'Religions and Worldviews '
-  - 'Human Behaviours, Social Relations '
-  - 'Risks, Crisis Management '
-  - 'Digital Humanities '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Equality & Diversity Studies '
-  - 'Quantitative survey '
-  - 'Qualitative analysis '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Dataset, Data Mining '
-  - 'Simulation / Modeling '
-  - 'Innovation, R&D '
-  - Democracy, Civil Society, Governance
-  - 'Environmental change, Ecology '
-  - Public Health
-  - Risks, Crisis Management
-  - 'Policy Document '
-  - 'Big Data, Artificial Intelligence '
-  - 'International Relations and Co-operation '
-  - Cities, Mobility, Urban Planning
-  - 'Education '
-  - 'Violence, Criminality, Security '
-  - 'Work, Welfare, Social protection '
-  - 'Agriculture, Alimentation '
-  - Aging, Demography
-  - Big Data, Artificial Intelligence
-  - Consumption and Production Patterns
-titles_and_positions: []
+titles_and_positions:
+  '0':
+    institution: Paris Institute for Advanced Study, France
+    titles: []
 years:
   - 2021
-  - 2022
 
 ---

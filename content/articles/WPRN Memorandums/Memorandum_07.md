@@ -1,74 +1,61 @@
 ---
+issue: content/issues/WPRN Memorandums.md
+tag:
+- Big Data, Artificial Intelligence
+- 'Equality & Diversity Studies '
+- 'Human Behaviours, Social Relations '
+- 'Public Discourse, Rhetorics, Communication '
+- Public Health
+- 'Culture and The Arts '
+- 'Innovation, R&D '
+- 'Violence, Criminality, Security '
+- Risks, Crisis Management
+date: 2020-11-01T22:00:00.000+00:00
+article_title: 'COVID-19 and the Media : the Reinforced Impact of Traditional Media
+  does not Prevent the Spread of False Information'
+picture: "/reforme_postage_portage_presse.png"
+picture_copyright: "©Unclesam - stock.adobe.com"
+yt: ''
+published: true
+pinned: false
+bibliography: "/bibliography/documents-exportes_memo7.bib"
+authors:
+- firstname: 'Victor  '
+  lastname: 'Galonnier'
+  social_channels:
+    linkedin: https://fr.linkedin.com/in/victorgalonnier
+    twitter: ''
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  titles_and_positions: []
+  picture: ''
+  picture_copyright: ''
+  reference: ''
+abstract: |-
+  During the Covid 19 pandemic, the media was the main source of information and had a strong impact on the perception of the crisis by citizens, on the acceptance of sanitary measures or on the propagation of conspiracy theories or false information. The Covid 19 major crisis took place in a context where the media world has undergone profound upheavals in the last decade, with the so-called traditional media (television, radio, press) being increasingly challenged by online media and social networks, which has led to a transformation of the citizens’ relationship to information.
+  Memorandum 7 : overview of the studies and projects registered on WPRN database
+highlight: false
+keywords:
+- Big Data, Artificial Intelligence
+- 'Equality & Diversity Studies '
+- Human Behaviours, Social Relations
+- 'Public Discourse, Rhetorics, Communication '
+- 'Democracy, Civil Society, Governance '
+- Consumption and Production Patterns
+- 'Public Health '
+- Culture and The Arts
+- " Innovation, R&D "
+- 'Violence, Criminality, Security '
+- 'Risks, Crisis Management '
+language: English
 DOI: 10.5072/zenodo.1115108
 Zid: 1115108
-abstract: >-
-  During the Covid 19 pandemic, the media was the main source of information and
-  had a strong impact on the perception of the crisis by citizens, on the
-  acceptance of sanitary measures or on the propagation of conspiracy theories
-  or false information. The Covid 19 major crisis took place in a context where
-  the media world has undergone profound upheavals in the last decade, with the
-  so-called traditional media (television, radio, press) being increasingly
-  challenged by online media and social networks, which has led to a
-  transformation of the citizens’ relationship to information.
-
-  Memorandum 7 : overview of the studies and projects registered on WPRN
-  database
-article_title: >-
-  COVID-19 and the Media : the Reinforced Impact of Traditional Media does not
-  Prevent the Spread of False Information
-authors:
-  - firstname: 'Victor  '
-    lastname: 'Galonnier '
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-    social_channels:
-      google_scholar: ''
-      instagram: ''
-      linkedin: https://fr.linkedin.com/in/victorgalonnier
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      twitter: ''
-      website: ''
-      wikipedia: ''
-    titles_and_positions: []
-bibliography: /bibliography/documents-exportes_memo7.bib
-date: 2020-11-01T22:00:00.000Z
-doi: '169059797'
-highlight: false
-issue: content/issues/WPRN Memorandums.md
-keywords:
-  - Big Data, Artificial Intelligence
-  - 'Equality & Diversity Studies '
-  - Human Behaviours, Social Relations
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Democracy, Civil Society, Governance '
-  - Consumption and Production Patterns
-  - 'Public Health '
-  - Culture and The Arts
-  - ' Innovation, R&D '
-  - 'Violence, Criminality, Security '
-  - 'Risks, Crisis Management '
-language: English
-picture: /reforme_postage_portage_presse.png
-picture_copyright: ©Unclesam - stock.adobe.com
-pinned: false
-published: true
-tag:
-  - Big Data, Artificial Intelligence
-  - 'Equality & Diversity Studies '
-  - 'Human Behaviours, Social Relations '
-  - 'Public Discourse, Rhetorics, Communication '
-  - Public Health
-  - 'Culture and The Arts '
-  - 'Innovation, R&D '
-  - 'Violence, Criminality, Security '
-  - Risks, Crisis Management
-yt: ''
-
 ---
-
 During the Covid 19 pandemic, the media was the main source of information and had a strong impact on the perception of the crisis by citizens, on the acceptance of sanitary measures or on the propagation of conspiracy theories or false information. The Covid19 crisis is taking place in a context in which the media world has undergone profound upheavals in the last decade, with the so-called traditional media (television, radio, press) being increasingly challenged by online media and social networks, which has led to a transformation of the citizens’ attitudes towards information.
 
 The studies in the WPRN database provide several important keys to understanding the role of the media during the pandemic.

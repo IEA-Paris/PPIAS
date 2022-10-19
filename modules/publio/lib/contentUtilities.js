@@ -401,7 +401,7 @@ export const insertDocuments = (data, cat, filenameFlag) => {
 
   // TODO diff and selectively CRUD
   // create the folder structure or delete all the previous files
-  // console.log('creating folder structure for ', cat)
+  console.log('creating folder structure for ', cat)
   for (const folder of cat === 'articles'
     ? data.map((item) => item.issue.slice(15, -3))
     : '0123456789abcdefghijklmnopqrstuvwxyz') {
@@ -412,6 +412,7 @@ export const insertDocuments = (data, cat, filenameFlag) => {
       fsExtra.emptyDirSync(folderPath)
     }
   }
+  console.log('folder structure created')
   const findFileName = (fileName, index = 2) => {
     // file exists
     if (

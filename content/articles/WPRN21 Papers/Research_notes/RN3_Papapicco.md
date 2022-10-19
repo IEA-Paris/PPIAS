@@ -19,7 +19,7 @@ abstract: >-
   contrasting visions about COVID-19 situation in Italy.
 article_title: 'Informative Contagion: The Coronavirus (COVID 19) in Italian journalism'
 authors:
-  - firstname: 'Concetta '
+  - firstname: 'Concetta'
     lastname: Papapicco
     picture: ''
     picture_copyright: ''
@@ -43,7 +43,7 @@ date: 2022-04-13T08:00:49.000Z
 disciplines: ''
 doi: '169059797'
 highlight: false
-issue: content/issues/WPRN21 Proceedings.md
+issue: content/issues/WPRN21 Papers.md
 keywords:
   - Coronavirus
   - COVID-19
@@ -57,7 +57,6 @@ published: true
 yt: ''
 
 ---
-
 ## 1. INTRODUCTION
 
 Since the beginning of January 2020, the attention of the medical-scientific community and the dissemination of information is focused on the epidemic caused by the new coronavirus (SARSCoV-2) emerged in Wuhan in China at the end of 2019.

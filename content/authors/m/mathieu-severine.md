@@ -1,9 +1,7 @@
 ---
 active: true
 articles:
-  - 4. Histoire des pandémies
   - 1. Crise sanitaire - Covid19
-  - 2. Crise économique - Inégalités
   - 3. Crise migratoire - Du global au local
   - 2. Crise economique - Inegalites
   - 4. Histoire des pandemies

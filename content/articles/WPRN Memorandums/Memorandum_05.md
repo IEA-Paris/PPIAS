@@ -1,51 +1,41 @@
 ---
+issue: content/issues/WPRN Memorandums.md
+tag:
+- 'Big Data, Artificial Intelligence '
+- Consumption and Production Patterns
+- Firms, Markets, Finance
+- Public Health
+- Human Behaviours, Social Relations
+- 'Work, Welfare, Social protection '
+date: 2020-08-31T22:00:00.000+00:00
+article_title: 'COVID-19 and Employment Upheavals: Worried Employees'
+picture: "/how-did-employment-change-during-the-covid-19-1.png"
+picture_copyright: ''
+yt: ''
+published: true
+pinned: false
+bibliography: "/bibliography/documents-exportes_memo5.bib"
+authors:
+- firstname: 'Victor'
+  lastname: 'Galonnier'
+abstract: |-
+  The Covid 19 pandemic and the measures taken to limit its spread (containment, social distancing) have led to a recession and a major economic crisis. The economic data show significant job losses. The Insee Emploi-Chômage note published on September 8th notes 715,000 salaried jobs lost in France in the first half of this year. Against this backdrop, employees are deeply concerned about their professional future and the risk of job loss.
+  Memorandum 5 : overview of the studies and projects registered on WPRN database
+keywords:
+- 'Public Health '
+- " Work, Welfare, Social protection "
+- 'Human Behaviours, Social Relations '
+- 'Big Data, Artificial Intelligence '
+- 'Consumption and Production Patterns '
+- 'Firms, Markets, Finance '
+- 'Equality & Diversity Studies '
+- 'Inequalities, Poverty, Development '
+highlight: false
+needDOI: true
+language: English
 DOI: 10.5072/zenodo.1115112
 Zid: 1115112
-abstract: >-
-  The Covid 19 pandemic and the measures taken to limit its spread (containment,
-  social distancing) have led to a recession and a major economic crisis. The
-  economic data show significant job losses. The Insee Emploi-Chômage note
-  published on September 8th notes 715,000 salaried jobs lost in France in the
-  first half of this year. Against this backdrop, employees are deeply concerned
-  about their professional future and the risk of job loss.
-
-  Memorandum 5 : overview of the studies and projects registered on WPRN
-  database
-article_title: 'COVID-19 and Employment Upheavals: Worried Employees'
-authors:
-  - firstname: 'Victor '
-    lastname: 'Galonnier '
-bibliography: /bibliography/documents-exportes_memo5.bib
-date: 2020-08-31T22:00:00.000Z
-doi: '169059797'
-highlight: false
-issue: content/issues/WPRN Memorandums.md
-keywords:
-  - 'Public Health '
-  - ' Work, Welfare, Social protection '
-  - 'Human Behaviours, Social Relations '
-  - 'Big Data, Artificial Intelligence '
-  - 'Consumption and Production Patterns '
-  - 'Firms, Markets, Finance '
-  - 'Equality & Diversity Studies '
-  - 'Inequalities, Poverty, Development '
-language: English
-needDOI: true
-picture: /how-did-employment-change-during-the-covid-19-1.png
-picture_copyright: ''
-pinned: false
-published: true
-tag:
-  - 'Big Data, Artificial Intelligence '
-  - Consumption and Production Patterns
-  - Firms, Markets, Finance
-  - Public Health
-  - Human Behaviours, Social Relations
-  - 'Work, Welfare, Social protection '
-yt: ''
-
 ---
-
 The Covid 19 pandemic and the measures taken to limit its spread (containment, social distancing) have led to a recession and a major economic crisis. The economic data show significant job losses. The [Insee Emploi-Chômage](https://infodujour.fr/wp-content/uploads/2020/09/note-de-conjoncture-8-setembre-2020.pdf) note published on September 8th notes 715,000 salaried jobs lost in France in the first half of this year. Against this backdrop, employees are deeply concerned about their professional future and the risk of job loss.
 
 Several studies reviewed on WPRN have attempted to capture employees’ concerns about employment and work in such a troubled context. The objective of this note is to shed light on how the economic upheavals linked to this crisis are experienced by employees.
@@ -72,4 +62,8 @@ This feeling of distancing, of estrangement from work felt during lockdown may h
 
 The various studies therefore point to strong concerns about the professional future among employees. These concerns differ according to the level of vulnerability of employees. Further research should be conducted on this aspect and focus in particular on the more heavily affected population categories such as young people and older people, or study the differences between people with low and high levels of education. Studies should focus in particular on the integration of young graduates into the labor market. The [Association pour l’emploi des cadres](https://corporate.apec.fr/home/espace-medias/covid-19-et-insertion-profession.html) reports a 69% drop between April 2020 and April 2019 in job offers for young graduates.
 
+<<<<<<< HEAD
 Similarly, the [International Labor Organization](https://www.ilo.org/wcmsp5/groups/public/
+=======
+Similarly, the [International Labor Organization](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/briefingnote/wcms_745964.pdf) noted in its note of May 27th that 1 in 6 young people in the world had lost their jobs due to the pandemic, expressing the risk of «a confined generation, whose working lives would be marked forever». Finally, since all the studies address the employees’ point of view, it would be interesting to also provide research showing employers’ perceptions of the crisis. A forthcoming [study](https://wprn.org/item/410352 'wprn 410352') by the University of Vienna, listed on WPRN, could provide information on companies’ strategies to adapt to the crisis and ultimately limit job losses.
+>>>>>>> main

@@ -5,6 +5,24 @@ fields:
   - name: published
     type: boolean
     label: Published
+  - name: needDOI
+    type: boolean
+    label: Does it need a generated DOI?
+    default: true
+    showOnly:
+      field: published
+      value: true
+  - name: doi
+    type: text
+    config:
+      required: false
+    label: DOI
+    description:
+      Since you don't need to generate a DOI, provide one here if you have
+      it (facultative).
+    showOnly:
+      field: needDOI
+      value: false
   - name: article_title
     type: text
     config:
@@ -58,6 +76,12 @@ fields:
         file:
         path:
     label: Issue
+  - name: sub-issue
+    type: text
+    config:
+      required: false
+    label: Sub-issue
+    description: Make sure to strictly paste or copy the name of the subissue
   - name: picture
     type: file
     config:
@@ -83,7 +107,7 @@ fields:
     type: boolean
     label: Highlighted
     description: Will try to use the best slots to display highlighted articles
-  - name: tags
+  - name: keywords
     type: tag_list
     default: []
     label: Keywords
@@ -141,22 +165,28 @@ fields:
         file: i18n/en.json
         path: rules
     label: Disciplines
-  - name: needDOI
-    type: boolean
-    label: Does it need a generated DOI?
-    default: true
-  - name: doi
-    type: text
-    config:
-      required: false
-    label: DOI
-    description:
-      Since you don't need to generate a DOI, provide one here if you have
-      it (facultative).
-    showOnly:
-      field: needDOI
-      value: false
 pages:
+  - 'content/articles/4 Situations de crise/1. 2013-2016 : Lutter contre Ebola.md'
+  - "content/articles/4 Situations de crise/2. 2008-2020 : Qu'a-t-on appris des crises
+    économiques et financières ?.md"
+  - 'content/articles/4 Situations de crise/3. 2005 : La crise des banlieues.md'
+  - 'content/articles/4 Situations de crise/4. 1999 : la France dans la tempête.md'
+  - content/articles/Agir en temps de crise - 2021/1. Crise sanitaire - Covid19.md
+  - content/articles/Agir en temps de crise - 2021/2. Crise économique - Inégalités.md
+  - content/articles/Agir en temps de crise - 2021/3. Crise migratoire - Du global au
+    local.md
+  - content/articles/Agir en temps de crise - 2021/4. Histoire des pandémies.md
+  - content/articles/Agir en temps de crise - 2021/5. Crise des identités de genre -
+    Controverses sur le genre.md
+  - content/articles/Agir en temps de crise - 2021/6. Crise environnementale.md
+  - content/articles/Bioéthique - 2019/BIOET_2019_1_Cognition.md
+  - content/articles/Bioéthique - 2019/BIOET_2019_2_Procreation.md
+  - content/articles/Bioéthique - 2019/BIOET_2019_3_Cerveaux.md
+  - content/articles/Bioéthique - 2019/BIOET_2020_4_Vieillissement.md
+  - content/articles/Bioéthique - 2019/BIOET_2020_5_Gametes.md
+  - content/articles/Bioéthique - 2019/BIOET_2020_6_Mort.md
+  - content/articles/Bioéthique - 2019/BIOET_2020_7_Laicite.md
+  - content/articles/Bioéthique - 2019/BIOET_2020_8_Clôture.md
   - content/articles/HCERES - PFUE 2022/1.2.0_intro_Ochsner.md
   - content/articles/HCERES - PFUE 2022/2.1.4_Pozzo.md
   - content/articles/HCERES - PFUE 2022/2.2.2_Kulczycki.md
@@ -170,3 +200,4 @@ pages:
   - content/articles/HCERES - PFUE 2022/3.2.2_Ochsner.md
   - content/articles/HCERES - PFUE 2022/3.2.3_Chevallier.md
   - content/articles/ICA4.md
+  - content/articles/WPRN21 Conference/0.0_WPRN21_Program.md

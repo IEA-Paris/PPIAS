@@ -3,9 +3,12 @@ active: true
 articles:
   - Memorandum_10b
   - Memorandum_10
+  - Memorandum 12
+  - Memorandum 13
+  - Memorandum 14
 createdAt: '2022-09-21T08:08:29.832Z'
 exerpt: ''
-firstname: Aurélie
+firstname: Aurélie
 issue:
   - content/issues/WPRN Memorandums.md
 language:
@@ -49,6 +52,7 @@ titles_and_positions:
     institution: Paris Institute for Advanced Study, France
     titles: []
 years:
+  - 2022
   - 2021
 
 ---

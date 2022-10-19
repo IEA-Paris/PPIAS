@@ -1,9 +1,8 @@
 ---
 active: true
 articles:
-  - 5. Crise des identités de genre - Controverses sur le genre
   - 5. Crise des identites de genre - Controverses sur le genre
-createdAt: '2022-10-11T08:02:22.081Z'
+createdAt: '2022-10-18T12:26:58.786Z'
 exerpt: ''
 firstname: Delphine
 is_institution: false
@@ -14,13 +13,6 @@ language:
 lastname: Horvilleur
 picture: ''
 picture_copyright: ''
-positions_and_institutions:
-  - institution: Judaïsme en mouvement
-    positions: []
-    titles: []
-  - institution: Kerem - Conseil des Rabbins Libéraux Francophones, France
-    positions: []
-    titles: []
 social_channels:
   google_scholar: ''
   instagram: '@delphinehorvilleur'

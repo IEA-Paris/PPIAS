@@ -64,7 +64,7 @@ date: 2022-04-11T13:53:04.000Z
 disciplines: ''
 doi: '169059797'
 highlight: false
-issue: content/issues/WPRN21 Proceedings.md
+issue: content/issues/WPRN21 Papers.md
 keywords:
   - Newspapers
   - Twitter

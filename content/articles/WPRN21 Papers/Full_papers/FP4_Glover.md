@@ -23,10 +23,10 @@ abstract: >
   recruitment by location. 
 article_title: >-
   Methodological difficulties of conducting cross-country quantitative research
-  early in the COVID-19 pandemic: surveying changes in tobacco, alcohol and
+  early in the COVID-19 pandemic\: surveying changes in tobacco, alcohol and
   other substance use
 authors:
-  - firstname: 'Marewa '
+  - firstname: 'Marewa'
     lastname: Glover
     picture: ''
     picture_copyright: ''
@@ -46,7 +46,7 @@ authors:
           Centre of Research Excellence: Indigenous Sovereignty & Smoking,
           Auckland, New Zealand
         titles: []
-  - firstname: 'Alexander '
+  - firstname: 'Alexander'
     lastname: Merkin
     picture: ''
     picture_copyright: ''
@@ -66,7 +66,7 @@ authors:
           Centre for Precise Psychiatry and Neurosciences, Germany/Switzerland;
           Academy for Postgraduate Education, Moscow, Russia
         titles: []
-  - firstname: 'Sofya '
+  - firstname: 'Sofya'
     lastname: Akinfieva
     picture: ''
     picture_copyright: ''
@@ -92,7 +92,7 @@ date: 2022-05-29T21:49:20.000Z
 disciplines: ''
 doi: ''
 highlight: false
-issue: content/issues/WPRN21 Proceedings.md
+issue: content/issues/WPRN21 Papers.md
 keywords:
   - COVID-19
   - research method

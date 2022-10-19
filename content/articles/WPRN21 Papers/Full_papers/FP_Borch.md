@@ -19,7 +19,7 @@ abstract: >
 article_title: 'Mental health self-help apps for coping with COVID-19 : Lessons learnt'
 authors:
   - firstname: Kristin Benjaminsen
-    lastname: 'Borch '
+    lastname: 'Borch'
     picture: ''
     picture_copyright: ''
     reference: ''
@@ -54,7 +54,7 @@ authors:
     titles_and_positions:
       - institution: UiT, The Arctic University of Norway, Norway
         titles: []
-  - firstname: 'Sarah '
+  - firstname: 'Sarah'
     lastname: Cook
     picture: ''
     picture_copyright: ''
@@ -93,7 +93,7 @@ authors:
     titles_and_positions:
       - institution: UiT, The Arctic University of Norway, Norway
         titles: []
-  - firstname: 'Gerit '
+  - firstname: 'Gerit'
     lastname: Pfuhl
     picture: ''
     picture_copyright: ''
@@ -116,7 +116,7 @@ custom_pdf: ''
 date: 2022-05-01T21:18:35.000Z
 disciplines: ''
 highlight: false
-issue: content/issues/WPRN21 Proceedings.md
+issue: content/issues/WPRN21 Papers.md
 keywords:
   - efficacy e-health
   - isolation

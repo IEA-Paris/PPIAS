@@ -7,7 +7,7 @@ date: '2021-12-10T10:00:40.000Z'
 highlight: false
 id: ST40fXLMsv4
 index: 0
-issue: content/issues/WPRN21 Conference.md
+issue: content/issues/WPRN21 Videos.md
 language: English
 picture: ''
 type: youtube

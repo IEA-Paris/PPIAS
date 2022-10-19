@@ -6,7 +6,7 @@ abstract: >-
   27, 2021, Paris Institute for Advanced Study
 article_title: 'Our Microbial Lives : A Forum Against Eradication'
 authors:
-  - firstname: 'Victoria '
+  - firstname: 'Victoria'
     lastname: Lee
     picture: ''
     picture_copyright: ''

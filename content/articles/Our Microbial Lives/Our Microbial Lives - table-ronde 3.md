@@ -6,7 +6,7 @@ abstract: >-
   May 27, 2021, Paris Institute for Advanced Study
 article_title: Écologies microbiennes dans les corps humains et animaux
 authors:
-  - firstname: 'Pierre-Olivier '
+  - firstname: 'Pierre-Olivier'
     lastname: Méthot
     picture: ''
     picture_copyright: ''
@@ -42,7 +42,7 @@ authors:
     titles_and_positions:
       - institution: INRAE, France
         titles: []
-  - firstname: 'Thierry '
+  - firstname: 'Thierry'
     lastname: Naas
     picture: ''
     picture_copyright: ''
@@ -60,7 +60,7 @@ authors:
     titles_and_positions:
       - institution: Hôpital Bicêtre APHP, France
         titles: []
-  - firstname: 'Geneviève '
+  - firstname: 'Geneviève'
     lastname: Héry-Arnaud
     picture: ''
     picture_copyright: ''

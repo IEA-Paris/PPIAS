@@ -16,7 +16,7 @@ published: true
 pinned: false
 bibliography: '/bibliography/test.bib'
 authors:
-  - firstname: 'Atrina '
+  - firstname: 'Atrina'
     lastname: Oraee
     picture: ''
     picture_copyright: ''

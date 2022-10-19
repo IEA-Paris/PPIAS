@@ -20,7 +20,7 @@ article_title: >-
   Risk Perceptions, Trust in Health Authorities and Socio-Demographics Predict
   Intent to Get Vaccinated Against COVID-19: Evidence from 23 Countries
 authors:
-  - firstname: 'Ammina '
+  - firstname: 'Ammina'
     lastname: Kothari
     picture: ''
     picture_copyright: ''
@@ -38,7 +38,7 @@ authors:
     titles_and_positions:
       - institution: University of Rhode Island, USA
         titles: []
-  - firstname: 'Gerit '
+  - firstname: 'Gerit'
     lastname: Pfuhl
     picture: ''
     picture_copyright: ''
@@ -56,7 +56,7 @@ authors:
     titles_and_positions:
       - institution: UiT, The Arctic University of Norway, Norway
         titles: []
-  - firstname: 'Stephanie '
+  - firstname: 'Stephanie'
     lastname: Godleski
     picture: ''
     picture_copyright: ''
@@ -74,7 +74,7 @@ authors:
     titles_and_positions:
       - institution: Rochester Institute of Technology, USA
         titles: []
-  - firstname: 'David '
+  - firstname: 'David'
     lastname: Schieferdecker
     picture: ''
     picture_copyright: ''
@@ -97,7 +97,7 @@ custom_pdf: ''
 date: 2022-05-01T16:10:47.000Z
 disciplines: ''
 highlight: false
-issue: content/issues/WPRN21 Proceedings.md
+issue: content/issues/WPRN21 Papers.md
 keywords:
   - COVID-19
   - vaccine hesitancy

@@ -10,7 +10,7 @@ abstract: >-
   as we chart the path forward.
 article_title: 'Tackling the COVID-19 pandemic : Lessons learned and paths forward'
 authors:
-  - firstname: 'Phil '
+  - firstname: 'Phil'
     lastname: Lord
     picture: ''
     picture_copyright: ''
@@ -33,7 +33,7 @@ custom_pdf: ''
 date: 2022-03-24T15:10:20.000Z
 disciplines: ''
 highlight: false
-issue: content/issues/WPRN21 Proceedings.md
+issue: content/issues/WPRN21 Papers.md
 keywords:
   - COVID-19
   - Public Policy

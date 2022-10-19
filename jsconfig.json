@@ -1,4 +1,5 @@
 {
+  "target": 2.7,
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {

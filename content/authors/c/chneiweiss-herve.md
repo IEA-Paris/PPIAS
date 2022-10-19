@@ -2,7 +2,7 @@
 active: true
 articles:
   - BIOET_2019_3_Cerveaux
-createdAt: '2022-10-11T08:02:22.081Z'
+createdAt: '2022-10-19T07:14:38.194Z'
 exerpt: ''
 firstname: Hervé
 is_institution: false
@@ -13,10 +13,6 @@ language:
 lastname: Chneiweiss
 picture: ''
 picture_copyright: ''
-positions_and_institutions:
-  - institution: CNRS - UMR 8246 - Neurosciences, France
-    positions: []
-    titles: []
 social_channels:
   google_scholar: ''
   instagram: ''

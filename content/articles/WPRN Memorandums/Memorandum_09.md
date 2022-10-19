@@ -1,72 +1,62 @@
 ---
+issue: content/issues/WPRN Memorandums.md
+tag:
+- 'Public Health '
+- 'Leisure, Tourism '
+- 'Human Behaviours, Social Relations '
+- 'Environmental change, Ecology '
+- Cities, Mobility, Urban Planning
+- Democracy, Civil Society, Governance
+- 'Agriculture, Alimentation '
+- 'Public Discourse, Rhetorics, Communication '
+- 'Public Policy, Evaluation, Impact '
+- Consumption and Production Patterns
+- 'Inequalities, Poverty, Development '
+- Environmental Studies
+- Health and well-being
+- Urban nature
+- wildland recreation
+- outcomes
+- personal development
+- " outdoor recreation"
+date: 2020-11-30T23:00:00.000+00:00
+article_title: 'COVID-19 and Environment: Citizens in Search of Proximity with Nature'
+picture: "/environnement_adam-neumann-riqff4jaxm0-unsplash.jpg"
+picture_copyright: Unsplash
+yt: ''
+published: true
+category1:
+- color: green
+  text: Article
+pinned: false
+highlight: false
+bibliography: "/bibliography/documents-exportes_memo9.bib"
+authors:
+- firstname: 'Victor'
+  lastname: Galonnier
+abstract: |-
+  The measures taken by governments to limit the spread of Covid-19, particularly lockdowns, have restricted the opportunities for people to access nature. These restrictions have affected individuals and put at the heart of the debate the role of the link to nature for mental and physical well-being. Beyond this, the pandemic and lockdowns have led to changes in the perceptions of time and space : part of the population is questioning its relationship with its surroundings and its way of life.
+  Memorandum 9 : overview of the studies and projects registered on the WPRN database.
+keywords:
+- 'Leisure, Tourism '
+- 'Public Health '
+- 'Human Behaviours, Social Relations '
+- 'Environmental change, Ecology '
+- 'Cities, Mobility, Urban Planning '
+- Medicine and Health Sciences
+- Consumption and Production Patterns
+- 'Democracy, Civil Society, Governance '
+- 'Agriculture, Alimentation '
+- 'Public Discourse, Rhetorics, Communication '
+- 'Public Policy, Evaluation, Impact '
+- 'Inequalities, Poverty, Development '
+- wildland recreation
+language: English
 DOI: 10.5072/zenodo.1115407
 Zid: 1115407
-abstract: >-
-  The measures taken by governments to limit the spread of Covid-19,
-  particularly lockdowns, have restricted the opportunities for people to access
-  nature. These restrictions have affected individuals and put at the heart of
-  the debate the role of the link to nature for mental and physical well-being.
-  Beyond this, the pandemic and lockdowns have led to changes in the perceptions
-  of time and space : part of the population is questioning its relationship
-  with its surroundings and its way of life.
-
-  Memorandum 9 : overview of the studies and projects registered on the WPRN
-  database.
-article_title: 'COVID-19 and Environment: Citizens in Search of Proximity with Nature'
-authors:
-  - firstname: 'Victor '
-    lastname: Galonnier
-bibliography: /bibliography/documents-exportes_memo9.bib
-category1:
-  - color: green
-    text: Article
 custom_pdf: ''
-date: 2020-11-30T23:00:00.000Z
-doi: '169059797'
-highlight: false
-issue: content/issues/WPRN Memorandums.md
-keywords:
-  - 'Leisure, Tourism '
-  - 'Public Health '
-  - 'Human Behaviours, Social Relations '
-  - 'Environmental change, Ecology '
-  - 'Cities, Mobility, Urban Planning '
-  - Medicine and Health Sciences
-  - Consumption and Production Patterns
-  - 'Democracy, Civil Society, Governance '
-  - 'Agriculture, Alimentation '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Public Policy, Evaluation, Impact '
-  - 'Inequalities, Poverty, Development '
-  - wildland recreation
-language: English
-picture: /environnement_adam-neumann-riqff4jaxm0-unsplash.jpg
-picture_copyright: Unsplash
-pinned: false
-published: true
-tag:
-  - 'Public Health '
-  - 'Leisure, Tourism '
-  - 'Human Behaviours, Social Relations '
-  - 'Environmental change, Ecology '
-  - Cities, Mobility, Urban Planning
-  - Democracy, Civil Society, Governance
-  - 'Agriculture, Alimentation '
-  - 'Public Discourse, Rhetorics, Communication '
-  - 'Public Policy, Evaluation, Impact '
-  - Consumption and Production Patterns
-  - 'Inequalities, Poverty, Development '
-  - Environmental Studies
-  - Health and well-being
-  - Urban nature
-  - wildland recreation
-  - outcomes
-  - personal development
-  - ' outdoor recreation'
-yt: ''
 
 ---
-
 The measures taken by governments to limit the spread of Covid-19, particularly lockdowns, have restricted the opportunities for people to access nature. These restrictions have affected individuals and put at the heart of the debate the role of the link to nature for mental and physical well-being. Beyond this, the pandemic and lockdowns have led to changes in the perceptions of time and space: part of the population is questioning its relationship with its surroundings and its way of life. According to researcher [Anne Caroline Prévot](https://usbeketrica.com/fr/article/le-confinement-pourrait-nous-rapprocher-de-la-nature), lockdowns could thus bring us closer to nature. Are we heading towards major upheavals in terms of urban planning, food consumption, or leisure practices? Will the pandemic profoundly transform the relationship between individuals and their environment in a more ecological perspective?
 
 Several research works in the WPRN database offer interesting avenues for reflection and useful recommendations for public authorities.

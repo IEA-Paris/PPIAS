@@ -8,7 +8,7 @@ article_title: >-
   Nouvelles perspectives sur la diversité microbienne dans l'alimentation et la
   santé
 authors:
-  - firstname: Elise
+  - firstname: Élise
     lastname: Tancoigne
     picture: ''
     picture_copyright: ''
@@ -26,7 +26,7 @@ authors:
     titles_and_positions:
       - institution: Université de Lausanne, Suisse
         titles: []
-  - firstname: 'Sabine '
+  - firstname: 'Sabine'
     lastname: Boesen Mariani
     picture: ''
     picture_copyright: ''
@@ -44,7 +44,7 @@ authors:
     titles_and_positions:
       - institution: Danone Nutricia Utrecht, Netherlands
         titles: []
-  - firstname: 'Jeanne '
+  - firstname: 'Jeanne'
     lastname: Ropars
     picture: ''
     picture_copyright: ''
@@ -62,7 +62,7 @@ authors:
     titles_and_positions:
       - institution: Laboratoire ESE, Université Paris-Saclay, France
         titles: []
-  - firstname: 'Geneviève '
+  - firstname: 'Geneviève'
     lastname: Teil
     picture: ''
     picture_copyright: ''
@@ -108,6 +108,6 @@ Qu’est-ce qu’un bon fromage ? Les critères sont dictés par le consommateur
 
 Les préoccupations des parents relatives à la santé immunitaire du jeune enfant sont fortes et sont exacerbées par le contexte pandémique actuel. Une étude a été menée auprès d’une trentaine de familles dans les différents pays. Quels que soient les pays, les croyances des parents sont fortement axées autour de la défense du corps contre les pathogènes, de la capacité de résilience, de la capacité à « traverser les saisons ».
 
-Le renforcement du système immunitaire de leur enfant est donc une préoccupation importante pour les parents. Il est fortement lié à la notion de défense et de capacité à lutter contre des maladies, mêmes si les marqueurs d’une bonne immunité sont diversifiés entre les pays. L’alimentation reste un élément important du renforcement immunitaire. Les « bonnes bactéries » sont évoquées, mais par une minorité de parents. Ces questions sont débattues lors de la table-ronde réunissant Geneviève Teil (INRAE), Jeanne Ropars (Université Paris-Saclay) et Sabine Boesen Mariani (Danone Nutricia Research), modérée par Elise Tancoigne (Université de Lausanne).
+Le renforcement du système immunitaire de leur enfant est donc une préoccupation importante pour les parents. Il est fortement lié à la notion de défense et de capacité à lutter contre des maladies, mêmes si les marqueurs d’une bonne immunité sont diversifiés entre les pays. L’alimentation reste un élément important du renforcement immunitaire. Les « bonnes bactéries » sont évoquées, mais par une minorité de parents. Ces questions sont débattues lors de la table-ronde réunissant Geneviève Teil (INRAE), Jeanne Ropars (Université Paris-Saclay) et Sabine Boesen Mariani (Danone Nutricia Research), modérée par Élise Tancoigne (Université de Lausanne).
 
 <Youtube yt="87MEaKh26g0" caption ="Nouvelles perspectives sur la diversité microbienne dans l'alimentation et la santé"></Youtube>

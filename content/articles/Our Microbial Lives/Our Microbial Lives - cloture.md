@@ -6,7 +6,7 @@ language: French
 published: true
 article_title: Clôture
 authors:
-  - firstname: 'Michel '
+  - firstname: 'Michel'
     lastname: Morange
     titles_and_positions:
       - titles: []
