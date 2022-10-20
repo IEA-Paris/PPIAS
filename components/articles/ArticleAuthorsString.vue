@@ -1,5 +1,8 @@
 <template>
-  <div class="authors" v-html="formatAuthorsProxy()"></div>
+  <div class="w-100">
+    <nuxt-link v-if="link" :to="link"> </nuxt-link>
+    <div v-else class="authors" v-html="formatAuthorsProxy()"></div>
+  </div>
 </template>
 <script>
 import { formatAuthors, highlight } from '~/assets/utils/transforms'
@@ -14,6 +17,16 @@ export default {
       type: Boolean,
       default: false,
     },
+    initials: {
+      required: false,
+      type: Boolean,
+      default: true,
+    },
+    link: {
+      required: false,
+      type: Boolean,
+      default: false,
+    },
   },
   data() {
     return {}
@@ -23,7 +36,7 @@ export default {
   methods: {
     formatAuthorsProxy() {
       return highlight(
-        formatAuthors(this.authors, this.$i18n.$t, this.full),
+        formatAuthors(this.authors, this.$i18n.$t, this.full, this.initials),
         this.$store.state.articles.search || ''
       )
     },

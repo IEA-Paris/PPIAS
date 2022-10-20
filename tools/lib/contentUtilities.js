@@ -3,11 +3,37 @@
 /* eslint-disable prefer-regex-literals */
 import path from 'path'
 import fs from 'fs'
-import { dump } from 'js-yaml'
+import yaml from 'js-yaml'
+import matter from 'gray-matter'
 import fsExtra from 'fs-extra'
 /* import { Repository, Tree, Diff } from 'nodegit' */
 import slugify from '../../assets/utils/slugify'
 import { formatAuthors } from '../../assets/utils/transforms'
+const fieldsToDelete = [
+  'slug',
+  'body',
+  'dir',
+  'path',
+  'extension',
+  'updatedAt',
+  'toc',
+  'description',
+  'title',
+  'text',
+  'checksum',
+]
+function processFrontmatter(md, options) {
+  const frontmatter = matter(md).data
+  Object.entries(options).forEach(function ([fieldName, value]) {
+    if (value === 'del' || value === '-') {
+      delete frontmatter[fieldName]
+    } else {
+      frontmatter[fieldName] = value
+    }
+  })
+
+  return matter.stringify(matter(md))
+}
 /* export const printWikipediaDisciplines = () => {
   const result = disciplines
   const replaceUl = (node) => {
@@ -181,7 +207,7 @@ export const mergeDeep = (...objects) => {
           prev[key].trim() !== oVal.trim()
         ) {
           prev[key] = pVal.trim() // just to cleanup the existing string from spaces
-          // TODO write it in a file somewhere to use it in CMS
+          // TODO write conflicts in a file somewhere to use it in CMS
           console.log(`CONFLICTED INFO: ${prev[key]} VS ${oVal} in ${key}`)
         } else if (typeof prev[key] === 'string') prev[key] = prev[key].trim()
 
@@ -191,29 +217,34 @@ export const mergeDeep = (...objects) => {
     return prev
   }, {})
 }
-
+export const generateChecksum = (str, algorithm, encoding) => {
+  const crypto = require('crypto')
+  return crypto
+    .createHash(algorithm || 'md5')
+    .update(str, 'utf8')
+    .digest(encoding || 'hex')
+}
 export const writePrintRoutes = async () => {
-  /*   // first, we clean existing files
+  // first, we clean existing files
   const targetFolder = path.resolve('static/pdfs')
-  if (!fs.existsSync(targetFolder)) {
+  /*   if (!fs.existsSync(targetFolder)) {
     fs.mkdirSync(targetFolder, { recursive: true })
   } else {
     fsExtra.emptyDirSync(targetFolder)
   } */
   console.log('writePrintRoutes')
-  /*   //  we generate the pdf routes and data
-  getStagedChanges()
-  fs.writeFileSync(
-    './assets/generated/routes.js',
-    `/* eslint-disable prettier/prettier 
-export default ` +
-      JSON.stringify( */
+
   const { $content } = require('@nuxt/content')
   // TODO : replace {published:true} with dynamic filters from import
   const articles = await $content('articles', { deep: true })
     // TODO check that custom_PDF is correctly evaluated
-    .where({ published: true /* ,custom_pdf: false  */ })
+    .where({ $and: [{ published: true }, { custom_pdf: { $ne: true } }] })
     .fetch()
+  /*   console.log(
+    'articles: ',
+    articles.map((art) => art.article_title)
+  ) */
+  console.log('articles: ', articles.length)
 
   return articles.map((article) => {
     // if the file has been changed
@@ -245,10 +276,132 @@ export default ` +
   /*     )
   ) */
 }
+export const cleanupString = (str) =>
+  str
+    .replace(/[\u2018\u2019]/g, "'")
+    .replace(/[\u201C\u201D]/g, '"')
+    .replace('<br>', ' ')
+    .replace(/\u00A0/g, ' ')
+    .trim()
+
+export const deepEqual = (x, y) =>
+  // cleanUpString is meant to avoid discrepancies with possible changes that Zenodo makes on the string, regarding mostly html entities.
+  Object.keys(x).every((key) => {
+    /*     console.log('X', x[key])
+    console.log('typeof X', typeof x[key])
+    console.log('Y', y[key])
+    console.log('typeof Y', typeof y[key]) */
+    // if it is a primitive type, let's proceed
+    if (['string', 'integer', 'boolean', 'undefined'].includes(typeof x[key])) {
+      return typeof item === 'string'
+        ? cleanupString(x[key]) === cleanupString(y[key])
+        : // eslint-disable-next-line eqeqeq
+          x[key] == y[key]
+    }
+    // deal with the arrays (recursive since it could be an array of objects, e.g. authors)
+    else if (typeof x[key] === 'object') {
+      // array of stuff or object?
+      if (Array.isArray(x[key])) {
+        if (x[key].length) {
+          // check if it an array of primitives or an array of objects
+          if (['string', 'integer', 'boolean'].includes(typeof x[key][0])) {
+            if (
+              !x[key].every(
+                (item, index) =>
+                  cleanupString(item) === cleanupString(y[key][index])
+              )
+            )
+              console.log('NOK')
+            return x[key].every((item, index) =>
+              typeof item === 'string'
+                ? cleanupString(item) === cleanupString(y[key][index])
+                : item === y[key][index]
+            )
+          } else {
+            const sortedX = x[key].sort()
+            const sortedY = y[key].sort()
+            let isOk = true
+            sortedX.forEach((element, index) => {
+              if (!deepEqual(element, sortedY[index])) isOk = false
+            })
+            if (!isOk) console.log('isOk: ', isOk)
+
+            return isOk
+          }
+        } else {
+          // no items in array
+          return (Array.isArray(y[key]) && !y[key].length) || y[key] === null
+        }
+      } else {
+        // it is a regular object
+        return deepEqual(x[key], y[key])
+      }
+    } else {
+      console.log('NOK: unanticipated value for ', x[key])
+      return false
+    }
+  })
+
+export const updateArticlesDoiAndZid = (document) => {
+  const data = fs.readFileSync('./content' + document.path + '.md', 'utf8')
+  const markdown = data.split('---')[2]
+  const frontmatter = yaml.load(data.split('---')[1])
+  if (
+    (document.DOI && !frontmatter.DOI) ||
+    (document.Zid && !frontmatter.Zid)
+  ) {
+    if (document.DOI && !frontmatter.DOI) frontmatter.DOI = document.DOI
+    console.log('document.DOI: ', document.DOI)
+    if (document.Zid && !frontmatter.Zid) frontmatter.Zid = document.Zid
+    console.log('document.Zid: ', document.Zid)
+    // writeFlag is true only if the
+    fs.writeFileSync(
+      './content' + document.path + '.md',
+      `---
+${yaml.dump(frontmatter, { noRefs: true, sortKeys: true })}
+---
+${markdown || ''}`
+    )
+  }
+}
+export const batchInsertArticles = (data) => {
+  data.forEach((article) => {
+    // start by creating the folder if it doesn't exist
+    const folderPath =
+      'content/articles/' +
+      (article.issue?.length ? article.issue.slice(15, -3) : '') +
+      (article.issue?.length && article.subissue?.length
+        ? '/' + slugify(article.subissue)
+        : '')
+
+    if (!fs.existsSync(folderPath)) {
+      fs.mkdirSync(folderPath, { recursive: true })
+    }
+    // then dump the data in a file if there is not one already
+    const fileName = folderPath + '/' + slugify(article.article_title) + '.md'
+    if (!fs.existsSync(fileName)) {
+      fs.writeFileSync(
+        fileName,
+        `---
+${yaml.dump(article, { noRefs: true, sortKeys: true })}
+---
+`
+      )
+    } else {
+      console.log('ARTICLE ALREADY EXISTS AT ', fileName)
+    }
+  })
+}
 export const insertDocuments = (data, cat, filenameFlag) => {
+  // filenameFlag is used to indicate which attribute to build the path upon
+  // e.g. authors =  ['lastname', 'firstname'] or media = ['article_slug', 'caption']
+
   // TODO diff and selectively CRUD
-  // create the folder structure or delete all the previous author files
-  for (const folder of 'abcdefghijklmnopqrstuvwxyz0123456789') {
+  // create the folder structure or delete all the previous files
+  // console.log('creating folder structure for ', cat)
+  for (const folder of cat === 'articles'
+    ? data.map((item) => item.issue.slice(15, -3))
+    : '0123456789abcdefghijklmnopqrstuvwxyz') {
     const folderPath = path.resolve('content/' + cat + '/' + folder)
     if (!fs.existsSync(folderPath)) {
       fs.mkdirSync(folderPath, { recursive: true })
@@ -256,31 +409,51 @@ export const insertDocuments = (data, cat, filenameFlag) => {
       fsExtra.emptyDirSync(folderPath)
     }
   }
-
+  const findFileName = (fileName, index = 2) => {
+    // file exists
+    if (
+      fs.existsSync(
+        './content/' +
+          cat +
+          '/' +
+          fileName[0] +
+          '/' +
+          fileName +
+          '_' +
+          index +
+          '.md'
+      )
+    ) {
+      index++
+      return findFileName(fileName, index)
+    } else {
+      return fileName + '_' + index + '.md'
+    }
+  }
   // create the new ones
   data.forEach((doc, index) => {
-    // only keep relevant fields in the stored document
-    const fieldsToDelete = [
-      'slug',
-      'body',
-      'dir',
-      'path',
-      'extension',
-      'updatedAt',
-      'toc',
-      'description',
-      'title',
-      'text',
-    ]
     const filteredDoc = Object.fromEntries(
       Object.entries(doc).filter(([k]) => !fieldsToDelete.includes(k))
     )
-    const fileName = slugify(doc[filenameFlag].trim()) + '.md'
-
+    let fileName = slugify(
+      doc[filenameFlag[0]] +
+        (doc[filenameFlag[1]] && doc[filenameFlag[1]].length
+          ? '_' + doc[filenameFlag[1]] || ''
+          : '')
+    )
+    if (
+      fs.existsSync(
+        './content/' + cat + '/' + fileName[0] + '/' + fileName + '.md'
+      )
+    ) {
+      fileName = findFileName(fileName, 1)
+    } else {
+      fileName = fileName + '.md'
+    }
     fs.writeFileSync(
       './content/' + cat + '/' + slugify(fileName[0]) + '/' + fileName,
       `---
-${dump(filteredDoc, { noRefs: true, sortKeys: true })}
+${yaml.dump(filteredDoc, { noRefs: true, sortKeys: true })}
 ---
 ${doc.text ? doc.text : ''}`
     )

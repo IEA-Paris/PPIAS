@@ -96,7 +96,6 @@
                     v-if="results.mediaCount > 3"
                     small
                     text
-                    nuxt
                     @click="seeAll('media')"
                   >
                     {{
@@ -221,8 +220,17 @@ export default {
   },
   methods: {
     seeAll(name) {
+      console.log(
+        'name: ',
+        this.localePath({
+          name,
+          query: {
+            search: this.searchStringRaw,
+          },
+        })
+      )
       this.open = false
-      this.$router.go(
+      this.$router.push(
         this.localePath({
           name,
           query: {

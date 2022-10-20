@@ -1,6 +1,6 @@
 export default (document) => {
   const chalk = require('chalk')
-
+  console.log('COUNT', document.slug)
   const getCount = (item, count = 0, type) => {
     item.children &&
       item.children.forEach((element) => {

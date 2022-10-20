@@ -205,6 +205,7 @@ module.exports = async function PDF(moduleOptions) {
     let nuxt
     let listener
     let browser = null
+
     try {
       if (buildArgs.generated) {
         console.log('nuxt-pdf: Starting nuxt instance ')
@@ -216,10 +217,10 @@ module.exports = async function PDF(moduleOptions) {
         // Get a ready to use Nuxt instance
         const nuxt = await loadNuxt(isDev ? 'dev' : 'start')
         listener = await nuxt.server.listen()
+        url = listener.url
       }
-
-      url = listener.url
     } catch (e) {
+      console.log('e: ', e)
       console.log(
         "nuxt-pdf: If this is part of npm run generate be sure to run 'npm run build first'"
       )
@@ -229,11 +230,11 @@ module.exports = async function PDF(moduleOptions) {
 
     for (let i = 0; i < routes.length; i++) {
       const route = routes[i]
-      /*      console.log(
+      console.log(
         chalk.cyan('↻') +
           ` Generating PDF ${i + 1}:${routes.length} at route ` +
           route.route
-      ) */
+      )
 
       try {
         // Merge route meta with defaults from config.
@@ -264,16 +265,7 @@ module.exports = async function PDF(moduleOptions) {
             )
           )
         }
-        /*  console.log(
-          'OPTIONS',
-          Object.assign(
-            {},
-            {
-              ...options.pdf,
-              ...route.pdf,
-            }
-          )
-        ) */
+
         // Generate pdf based on dom content. (result by bytes)
         const bytes = await page.pdf(
           Object.assign(
@@ -301,7 +293,7 @@ module.exports = async function PDF(moduleOptions) {
         document.setSubject(meta.subject || '')
         document.setProducer(meta.producer || '')
         document.setCreationDate(new Date(meta.creationDate) || new Date())
-        document.setKeywords(meta.keywords || [])
+        document.setKeywords(meta.tag || [])
         document.setLanguage(meta.language || '')
 
         const file = path.resolve(
@@ -316,8 +308,8 @@ module.exports = async function PDF(moduleOptions) {
 
         // Write document to file.
         const ws = fs.createWriteStream(file)
-        ws.write(await document.save())
-        ws.end()
+        await ws.write(await document.save())
+        await ws.end()
         if (buildArgs.generated) {
           // also write it in static to commit to source code (used to generate DOI)
           const file2 = path.resolve(options.dir, route.file)
@@ -326,8 +318,8 @@ module.exports = async function PDF(moduleOptions) {
             recursive: true,
           })
           const ws2 = fs.createWriteStream(file)
-          ws2.write(await document.save())
-          ws2.end()
+          await ws2.write(await document.save())
+          await ws2.end()
         }
         console.log(
           `${chalk.green('✔')}  Generated PDF ${i + 1}:${
@@ -351,11 +343,11 @@ module.exports = async function PDF(moduleOptions) {
         await page.close()
         await browser.close()
       } catch (e) {
-        /*        console.log(
+        console.log(
           `${chalk.red('𐄂')} Failed to generated PDF ${i + 1}:${
             routes.length
           } at route ${route.route} error: ${e.message}`
-        ) */
+        )
       } finally {
         if (browser !== null) {
           await browser.close()

@@ -1,5 +1,12 @@
 <template>
-  <div class="my-6 d-block w-100">
+  <a
+    class="my-6 d-block w-100"
+    :href="
+      $route.name.startsWith('print')
+        ? 'https://www.youtube.com/watch?v=' + yt
+        : ''
+    "
+  >
     <div
       style="position: relative; padding-bottom: 56.25%; height: 0"
       @focus="handleEvent('playVideo')"
@@ -33,7 +40,7 @@
 </iframe> -->
     </div>
     <div v-if="caption" class="text-caption">{{ caption }}</div>
-  </div>
+  </a>
 </template>
 <script>
 export default {

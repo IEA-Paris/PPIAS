@@ -193,8 +193,8 @@ export default {
       return slugify(item)
     },
     getTitlesAndInstitutions(item) {
-      return item?.titles_and_institutions?.length
-        ? formatTitleAndInstitutions(item.titles_and_institutions)
+      return item?.positions_and_institutions?.length
+        ? formatTitleAndInstitutions(item.positions_and_institutions)
         : ''
     },
     highlightWord(word = '') {

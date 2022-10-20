@@ -314,8 +314,6 @@ module.exports = async function PDF(moduleOptions) {
     'process.env.NODE_ENV !== production ',
     process.env.NODE_ENV !== 'production'
   )
-  console.log('this: ', this.generate)
-  /* console.log('this: ', this.options.target) */
 
   if (process.env.NODE_ENV !== 'production') {
     this.nuxt.hook('generate:distCopied', async ({ name }) => {

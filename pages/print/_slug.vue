@@ -23,9 +23,9 @@
       <tbody>
         <tr>
           <td>
-            <div class="page-title">{{ item.article_title }}</div>
+            <div class="page-title" v-html="item.article_title"></div>
             <div class="article-authors">
-              <ArticleAuthorsString :authors="item.authors" />
+              <ArticleAuthorsString :authors="item.authors" :initials="false" />
             </div>
             <DoiBadge :doi="item.doi"></DoiBadge>
             <div class="article-label mt-6 mb-3">
@@ -41,7 +41,10 @@
             <template v-if="item.disciplines && item.discipline.length">
               <div class="article-label mt-6 mb-3">{{ $t('fields') }}</div>
 
-              <div class="mb-6">
+              <div
+                v-if="item.disciplines && item.disciplines.length"
+                class="mb-6"
+              >
                 <Tag
                   v-for="(discipline, index2) in item.disciplines"
                   :key="index2"
@@ -139,7 +142,8 @@
         <span class="overline"
           >&copy; {{ new Date().getFullYear() }} {{ $t('paris-ias') }}</span
         >
-        - {{ item.article_title }} by <span v-html="formatedAuthors"></span> -.
+        - <span v-html="item.article_title"></span> by
+        <span v-html="formatedAuthors"></span> -.
         {{
           $t(
             'this-article-is-available-online-at-env-name-articles-item-slug',
@@ -169,8 +173,20 @@ export default {
     }
   },
   data() {
-    return {}
+    return {
+      /*  item: {}, */
+    }
   },
+  /*   async fetch() {
+    this.item = (
+      await this.$content('articles', { deep: true })
+        .where({
+          slug: this.$route.params.slug,
+        })
+        .fetch()
+    )[0]
+    this.$store.commit('setLoading', false)
+  }, */
   computed: {
     formatedAuthors() {
       return this.item
@@ -182,8 +198,9 @@ export default {
     if (window) window.removeEventListener('onbeforeprint', this.keyDown)
   },
   mounted() {
+    console.log('route', this.$route.params.slug)
+    console.log(this.item)
     if (window) window.addEventListener('onbeforeprint', this.addPageNumbers)
-    console.log('toue', this.$route)
   },
   methods: {
     addPageNumbers() {

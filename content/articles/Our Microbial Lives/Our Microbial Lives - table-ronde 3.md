@@ -1,4 +1,88 @@
 ---
+DOI: 10.5072/zenodo.1115029
+Zid: 1115029
+abstract: >-
+  Table-ronde 3 du forum "Our Microbial Lives: A Forum Against Eradication", 
+  May 27, 2021, Paris Institute for Advanced Study
+article_title: Écologies microbiennes dans les corps humains et animaux
+authors:
+  - firstname: 'Pierre-Olivier'
+    lastname: Méthot
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: Université de Laval, Canada
+        titles: []
+  - firstname: Nicolas
+    lastname: Fortané
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: https://scholar.google.com/citations?user=iJD2TRkAAAAJ&hl=fr
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: '0000-0001-6479-5808 '
+      researchgate: https://www.researchgate.net/profile/Nicolas-Fortane
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: INRAE, France
+        titles: []
+  - firstname: 'Thierry'
+    lastname: Naas
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: https://scholar.google.fr/citations?user=OKtfJd0AAAAJ&hl=fr
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: '0000-0001-9937-9572 '
+      researchgate: https://www.researchgate.net/profile/Thierry-Naas
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: Hôpital Bicêtre APHP, France
+        titles: []
+  - firstname: 'Geneviève'
+    lastname: Héry-Arnaud
+    picture: ''
+    picture_copyright: ''
+    reference: ''
+    social_channels:
+      google_scholar: https://scholar.google.fr/citations?user=LGlzo5QAAAAJ&hl=fr
+      instagram: ''
+      linkedin: https://fr.linkedin.com/in/genevi%C3%A8ve-h%C3%A9ry-arnaud-aa695314a
+      mendeley: ''
+      orcid: 0000-0002-2089-3825
+      researchgate: https://www.researchgate.net/profile/Genevieve-Hery-Arnaud
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: CHRU de Brest, France
+        titles: []
+      - institution: Université de Bretagne Occidentale, France
+        titles: []
+bibliography: /bibliography/documents-exportes_tb3_lee.bib
+date: 2021-05-27T13:00:08.000Z
+highlight: false
 issue: content/issues/Our Microbial Lives.md
 keywords:
   - History of Science
@@ -6,94 +90,14 @@ keywords:
   - Technology and Medicine
   - Microbes
   - Antibiotics
-date: 2021-05-27T13:00:08.000+00:00
 language: French
-published: true
-article_title: Écologies microbiennes dans les corps humains et animaux
-authors:
-  - firstname: 'Pierre-Olivier '
-    lastname: Méthot
-    titles_and_institutions:
-      - titles: []
-        institution: Université de Laval, Canada
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    reference: ''
-  - firstname: Nicolas
-    lastname: Fortané
-    titles_and_institutions:
-      - titles: []
-        institution: INRAE, France
-    social_channels:
-      researchgate: https://www.researchgate.net/profile/Nicolas-Fortane
-      google_scholar: https://scholar.google.com/citations?user=iJD2TRkAAAAJ&hl=fr
-      orcid: '0000-0001-6479-5808 '
-      website: ''
-      wikipedia: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      mendeley: ''
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-  - firstname: 'Thierry '
-    lastname: Naas
-    titles_and_institutions:
-      - titles: []
-        institution: Hôpital Bicêtre APHP, France
-    social_channels:
-      google_scholar: https://scholar.google.fr/citations?user=OKtfJd0AAAAJ&hl=fr
-      researchgate: https://www.researchgate.net/profile/Thierry-Naas
-      orcid: '0000-0001-9937-9572 '
-      website: ''
-      wikipedia: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      mendeley: ''
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-  - firstname: 'Geneviève '
-    lastname: Héry-Arnaud
-    titles_and_institutions:
-      - titles: []
-        institution: CHRU de Brest, France
-      - titles: []
-        institution: Université de Bretagne Occidentale, France
-    social_channels:
-      linkedin: https://fr.linkedin.com/in/genevi%C3%A8ve-h%C3%A9ry-arnaud-aa695314a
-      orcid: 0000-0002-2089-3825
-      researchgate: https://www.researchgate.net/profile/Genevieve-Hery-Arnaud
-      google_scholar: https://scholar.google.fr/citations?user=LGlzo5QAAAAJ&hl=fr
-      website: ''
-      wikipedia: ''
-      twitter: ''
-      instagram: ''
-      mendeley: ''
-    picture: ''
-    picture_copyright: ''
-    reference: ''
-abstract:
-  'Table-ronde 3 du forum "Our Microbial Lives: A Forum Against Eradication",  May
-  27, 2021, Paris Institute for Advanced Study'
 picture: ''
 picture_copyright: ''
+published: true
 yt: mAEoGVjHjUQ
-highlight: false
-bibliography: '/bibliography/documents-exportes_tb3_lee.bib'
+
 ---
+
 
 ## Table-ronde 3 du forum "Our Microbial Lives"
 

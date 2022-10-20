@@ -24,8 +24,8 @@ published: true
 article_title: 'COVID-19 and Food: Food Security: A Major Concern for Households'
 authors:
 - firstname: 'Aurélie '
-  lastname: 'Louchart '
-  titles_and_institutions:
+  lastname: 'Louchart'
+  titles_and_positions:
   - titles: []
     institution: Paris Institute for Advanced Study, France
   picture: ''
@@ -51,8 +51,12 @@ picture_copyright: ''
 yt: ''
 highlight: false
 bibliography: ''
-
+DOI: 10.5072/zenodo.1115134
+Zid: 1115134
 ---
+## All bakers?
+
+<<<<<<< HEAD
 ## All bakers?
 
 In France, baking at home, «making its own bread» in particular, has been a striking social fact resulting in a relative shortage of flour and yeast in shops during the first lockdown. According to [the CNRS survey “Manger au temps du coronavirus](https://wprn.org/item/419752)” listed on WPRN, it is surprising given the continued openness of bakeries and supermarkets, and it cannot be reduced to the goal of limiting social interaction during shopping. Beyond “the pleasure of the table” (fresh bread and pastries are emblematic), the researchers hypothesize that the lockdown triggered re-identification dynamics around gestures and products that are powerfully symbolic of cultural and social ties. Moreover, as Abdu Gnaba, author of [“Anthropologie des mangeurs de pain,”](https://www.editions-harmattan.fr/index.asp?navig=catalogue&obj=livre&no=33719) explains: «We are going through a crisis. Sanitary, that’s for sure, but also an identity crisis. We find ourselves cut off from the world and our habits from one day to the next. In our culture, bread is reassuring and stable. To lack bread is synonymous with terror (...) There is also a strong link between bread and autonomy. It is the first food that babies eat in perfect autonomy or the one that older children can buy alone. »
@@ -63,6 +67,16 @@ In France, baking at home, «making its own bread» in particular, has been a st
 
 ## Lockdown has accelerated the transition to organic and zero waste.
 
+=======
+In France, baking at home, «making its own bread» in particular, has been a striking social fact resulting in a relative shortage of flour and yeast in shops during the first lockdown. According to [the CNRS survey “Manger au temps du coronavirus](https://wprn.org/item/419752)” listed on WPRN, it is surprising given the continued openness of bakeries and supermarkets, and it cannot be reduced to the goal of limiting social interaction during shopping. Beyond “the pleasure of the table” (fresh bread and pastries are emblematic), the researchers hypothesize that the lockdown triggered re-identification dynamics around gestures and products that are powerfully symbolic of cultural and social ties. Moreover, as Abdu Gnaba, author of [“Anthropologie des mangeurs de pain,”](https://www.editions-harmattan.fr/index.asp?navig=catalogue&obj=livre&no=33719) explains: «We are going through a crisis. Sanitary, that’s for sure, but also an identity crisis. We find ourselves cut off from the world and our habits from one day to the next. In our culture, bread is reassuring and stable. To lack bread is synonymous with terror (...) There is also a strong link between bread and autonomy. It is the first food that babies eat in perfect autonomy or the one that older children can buy alone. »
+
+## A desire to become more “food self-sufficient.”
+
+[The CNRS study](https://wprn.org/item/419752), which is based for its first phase on nearly 800 testimonials, underlines that regaining control over one’s food security is another social phenomenon characteristic of the lockdown. Citizens with the capacity to produce at home have turned to self-production (gardening and micro-livestock farming). Many have become more involved in cooking, and others have begun to share their culinary productions with friends and neighbors. According to the study’s findings, these practices are part of a desire to become more food self-sufficient. Many consumers have taken an active, sometimes creative role in gaining direct access to products. Lockdown has reinforced short circuit ordering systems through formal and informal arrangements (grouped orders between neighbors, orders over the phone between regular market customers and producers, volunteers selling products to their neighbors to support small producers by reducing the number of deliveries they had to do…) The direct relationship between consumers and producers has developed. In the United Kingdom, according to a [YouGov survey](https://wprn.org/item/412052) recorded by WPRN, three million people tried for the first time an organic vegetable basket or ordered food directly from a local farm, both to obtain the food they needed and to support local production. [The WPRN survey](https://wprn.org/item/419752) indicates that the stability over time of these new short-circuit practices remains an open question, with recent months suggesting a return to pre-lockdown consumption patterns. What about the organic sector?
+
+## Lockdown has accelerated the transition to organic and zero waste.
+
+>>>>>>> main
 Preliminary results from [a research of ten European countries](https://wprn.org/item/422252) show that during the pandemic, in most countries, more organic products were purchased, and less food was thrown away (however, the majority of households consumed less fresh food than usual). Contrary to the expected results, it was not in Central and Northern Europe that the change in these directions was the greatest, but in the countries of Southern, Eastern, and Western Europe. The researchers hypothesize that the latter countries had not yet reached as high a level of organic purchases as the former and were less concerned about food waste. Changes in the diet caused by the pandemic would have pushed them to catch up. Another part of [this research from Denmark, Germany, and Slovenia](https://wprn.org/item/422252) also points out that the type of food purchased often differed according to the degree of income loss during the pandemic. Those who experienced significant income losses tended to switch to more affordable foods and away from fresh foods. In contrast, those who experienced small losses compensated more for their isolation by increasing their prepared meals, sweets, and alcohol consumption. Food played an essential role in regulating emotions during this lockdown.
 
 ## Discipline or emotional comfort: an ambivalent relationship to food

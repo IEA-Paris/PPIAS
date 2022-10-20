@@ -20,14 +20,15 @@ published: true
 pinned: false
 bibliography: ''
 authors:
-- firstname: 'Victor '
+- firstname: 'Victor'
   lastname: Galonnier
 abstract: |-
   Gender inequalities are structural in our society: unequal pay, unequal distribution of household chores and family life, and violence against women remain major social facts. The field of gender studies has become increasingly important in the academic sphere. Numerous analyses have attempted to evaluate the consequences of the Covid 19 pandemic through a gender lens, showing for example a more important role for women in family work during lockdown, a greater exposure of «typically» female occupations to the pandemic or an increase in domestic violence.
   Memorandum 6 : overview of the studies and projects registered on WPRN database
 highlight: false
 language: English
-doi: "169059797"
+DOI: 10.5072/zenodo.1115399
+Zid: 1115399
 tag:
 - 'Equality & Diversity Studies '
 - Human Behaviours, Social Relations

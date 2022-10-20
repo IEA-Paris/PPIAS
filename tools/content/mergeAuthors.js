@@ -8,7 +8,9 @@ import {
 
 const filterAndMerge = (first, second) => {
   first = first.filter((author) => {
-    // does it have a reference?
+    // does it have a reference? (a reference is the path of the author document.
+    // If present, it means that the doc in "first", author data extracted from an article,
+    // explicitely referenced an author document to distinguish from potential homonyms)
     if (author.reference && author.reference.length) {
       // is it matching an existing doc?
       const referencedDocIndex = second.findIndex(
@@ -16,13 +18,14 @@ const filterAndMerge = (first, second) => {
           doc.path ===
           author.reference.split('/').slice(1).join('/').split('.')[0]
       )
-      if (author.lastname === 'Galonnier')
+      if (referencedDocIndex > -1) {
         // if so we merge them and remove the related articleAuthor
         second[referencedDocIndex] = mergeDeep(
           second[referencedDocIndex],
           author
         )
-      return false
+        return false
+      }
     }
     return true
   })
@@ -35,12 +38,14 @@ const filterAndMerge = (first, second) => {
         const referencedDocIndex = second.findIndex(
           (doc) => author.social_channels.orcid === doc.social_channels.orcid
         )
-        // if so we merge them and remove the related articleAuthor
-        second[referencedDocIndex] = mergeDeep(
-          second[referencedDocIndex],
-          author
-        )
-        return false
+        if (referencedDocIndex > -1) {
+          // if so we merge them and remove the related articleAuthor
+          second[referencedDocIndex] = mergeDeep(
+            second[referencedDocIndex],
+            author
+          )
+          return false
+        }
       }
     return true
   })
@@ -48,12 +53,27 @@ const filterAndMerge = (first, second) => {
   first = first.filter((author) => {
     // does it have the same firstname/lastname than a doc author?
     const referencedDocIndex = second.findIndex((doc) => {
-      return (
-        author.firstname.trim().toLowerCase() ===
-          doc.firstname.trim().toLowerCase() &&
-        author.lastname.trim().toLowerCase() ===
-          doc.lastname.trim().toLowerCase()
-      )
+      if (doc.is_institution && author.is_institution) {
+        return (
+          author.lastname &&
+          doc.lastname &&
+          author.lastname.trim().toLowerCase() ===
+            doc.lastname.trim().toLowerCase()
+        )
+      } else {
+        return (
+          !doc.is_institution &&
+          !author.is_institution &&
+          author.firstname &&
+          doc.firstname &&
+          author.firstname.trim().toLowerCase() ===
+            doc.firstname.trim().toLowerCase() &&
+          author.lastname &&
+          doc.lastname &&
+          author.lastname.trim().toLowerCase() ===
+            doc.lastname.trim().toLowerCase()
+        )
+      }
     })
 
     // if so we merge them and remove the related articleAuthor
@@ -71,7 +91,7 @@ const filterAndMerge = (first, second) => {
 export default async (content) => {
   const chalk = require('chalk')
   const { $content } = require('@nuxt/content')
-
+  console.log('GENERATING AUTHORS')
   // fetch all authors documents
   let authorsDocs = await $content('authors', { deep: true }).fetch()
   const issues = await $content('issues', { deep: true }).fetch()
@@ -91,7 +111,7 @@ export default async (content) => {
       'published',
     ])
     .fetch()
-
+  // let's add the DOI
   // we use this opportunity to get the dynamic routes for pdf-printing all the articles
   writePrintRoutes(articles)
 
@@ -122,7 +142,9 @@ export default async (content) => {
   const firstPass = filterAndMerge(articleAuthors, authorsDocs)
   articleAuthors = firstPass.first
   authorsDocs = firstPass.second
-
+  // TODO: come up with a global approach for non destructive merge,
+  // that could explicitely removed papers that were published but are not anymore
+  // or X other reason why it should be marked as from this author anymore)
   const secondPass = filterAndMerge(articleAuthors, articleAuthors)
   articleAuthors = secondPass.first
 
@@ -131,6 +153,8 @@ export default async (content) => {
     // replace the titles and institutions array of object by an array of arrays (prismjs related?)
     return {
       ...item,
+      firstname: item.firstname.trim(),
+      lastname: item.lastname.trim(),
       // check that authors have at least one published paper
       active: !!articles.find(
         (article) =>
@@ -139,10 +163,10 @@ export default async (content) => {
           article.published
       ),
       exerpt: item.text?.length ? item.text.slice(0, 350) : '',
-      titles_and_institutions:
-        item.titles_and_institutions &&
-        Object.keys(item.titles_and_institutions).map((el) => {
-          return item.titles_and_institutions[el]
+      positions_and_institutions:
+        item.positions_and_institutions &&
+        Object.keys(item.positions_and_institutions).map((el) => {
+          return item.positions_and_institutions[el]
         }),
     }
   })
@@ -160,7 +184,7 @@ export default async (content) => {
   }) 
   console.log(csvString)
   */
-  insertDocuments(authorsDocs, 'authors', 'lastname')
+  await insertDocuments(authorsDocs, 'authors', ['lastname', 'firstname'])
   console.log(`${chalk.green('✔')}  Inserted new author documents`)
 
   return true

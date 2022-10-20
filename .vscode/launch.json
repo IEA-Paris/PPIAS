@@ -1,39 +1,61 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "node",
-            "request": "launch",
-            "name": "JEST - BACKEND - Test CURR FILE",
-            "cwd": "${workspaceFolder}",
-            "program": "${workspaceFolder}/node_modules/.bin/jest",
-            "args": [
-              "--runInBand",
-            //   "--config=${workspaceFolder}/internal/backend/tests/config.int.js",
-              "${fileBasenameNoExtension}",
-            ],
-            "console": "integratedTerminal",
-            "internalConsoleOptions": "neverOpen",
-            // "disableOptimisticBPs": true,
-            "env": {
-              "LOCAL_DEV": "1"
-            }
-        },
-        {
-            "name": "Attach to Process",
-            "type": "node",
-            "request": "attach",
-            "port": 9229
-        },
-        {
-            "type": "pwa-chrome",
-            "request": "launch",
-            "name": "Launch Chrome against localhost",
-            "url": "http://localhost:3000",
-            "webRoot": "${workspaceFolder}"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "JEST - BACKEND - Test CURR FILE",
+      "cwd": "${workspaceFolder}",
+      "program": "${workspaceFolder}/node_modules/.bin/jest",
+      "args": [
+        "--runInBand",
+        //   "--config=${workspaceFolder}/internal/backend/tests/config.int.js",
+        "${fileBasenameNoExtension}"
+      ],
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
+      // "disableOptimisticBPs": true,
+      "env": {
+        "LOCAL_DEV": "1"
+      }
+    },
+    {
+      "name": "Attach to Process",
+      "type": "node",
+      "request": "attach",
+      "port": 3000
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "My Nuxt project",
+      "protocol": "inspector",
+      "program": "${workspaceRoot}/node_modules/.bin/nuxt",
+      "stopOnEntry": true,
+      "args": ["dev"],
+      "cwd": "${workspaceRoot}",
+      "sourceMaps": true,
+      "env": {
+        "NODE_ENV": "development",
+        "DEBUG": "nuxt:*,app"
+      }
+    },
+    {
+      "type": "firefox",
+      "request": "launch",
+      "name": "Launch Firefox against localhost",
+      "url": "http://localhost:3000",
+      "webRoot": "${workspaceFolder}",
+      "enableCRAWorkaround": true,
+      "reAttach": true,
+      "reloadOnAttach": true,
+      "reloadOnChange": {
+        "watch": "${workspaceFolder}/**/*.ts",
+        "ignore": "**/node_modules/**"
+      }
+    }
+  ]
 }

@@ -1,18 +1,18 @@
 <template>
   <div class="mt-12">
     <div class="text-h5">
-      {{ $t('titles-and-institutions') }}
+      {{ $t('positions-and-institutions') }}
       <AuthorsBioHint></AuthorsBioHint>
     </div>
     <v-list
-      v-for="(bio, index) in item.titles_and_institutions"
+      v-for="(bio, index) in item.positions_and_institutions"
       :key="index"
       two-line
       class=""
     >
-      <template v-if="bio.titles && bio.titles.length">
+      <template v-if="bio.positions && bio.positions.length">
         <v-list-item
-          v-for="title in bio.titles"
+          v-for="title in bio.positions"
           :key="title"
           class="pl-0"
           three-lines

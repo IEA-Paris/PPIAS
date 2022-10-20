@@ -16,8 +16,8 @@ published: true
 pinned: false
 bibliography: "/bibliography/documents-exportes_memo5.bib"
 authors:
-- firstname: 'Victor '
-  lastname: 'Galonnier '
+- firstname: 'Victor'
+  lastname: 'Galonnier'
 abstract: |-
   The Covid 19 pandemic and the measures taken to limit its spread (containment, social distancing) have led to a recession and a major economic crisis. The economic data show significant job losses. The Insee Emploi-Chômage note published on September 8th notes 715,000 salaried jobs lost in France in the first half of this year. Against this backdrop, employees are deeply concerned about their professional future and the risk of job loss.
   Memorandum 5 : overview of the studies and projects registered on WPRN database
@@ -33,8 +33,8 @@ keywords:
 highlight: false
 needDOI: true
 language: English
-doi: "169059797"
-
+DOI: 10.5072/zenodo.1115112
+Zid: 1115112
 ---
 The Covid 19 pandemic and the measures taken to limit its spread (containment, social distancing) have led to a recession and a major economic crisis. The economic data show significant job losses. The [Insee Emploi-Chômage](https://infodujour.fr/wp-content/uploads/2020/09/note-de-conjoncture-8-setembre-2020.pdf) note published on September 8th notes 715,000 salaried jobs lost in France in the first half of this year. Against this backdrop, employees are deeply concerned about their professional future and the risk of job loss.
 
@@ -62,4 +62,8 @@ This feeling of distancing, of estrangement from work felt during lockdown may h
 
 The various studies therefore point to strong concerns about the professional future among employees. These concerns differ according to the level of vulnerability of employees. Further research should be conducted on this aspect and focus in particular on the more heavily affected population categories such as young people and older people, or study the differences between people with low and high levels of education. Studies should focus in particular on the integration of young graduates into the labor market. The [Association pour l’emploi des cadres](https://corporate.apec.fr/home/espace-medias/covid-19-et-insertion-profession.html) reports a 69% drop between April 2020 and April 2019 in job offers for young graduates.
 
+<<<<<<< HEAD
+Similarly, the [International Labor Organization](https://www.ilo.org/wcmsp5/groups/public/
+=======
 Similarly, the [International Labor Organization](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/briefingnote/wcms_745964.pdf) noted in its note of May 27th that 1 in 6 young people in the world had lost their jobs due to the pandemic, expressing the risk of «a confined generation, whose working lives would be marked forever». Finally, since all the studies address the employees’ point of view, it would be interesting to also provide research showing employers’ perceptions of the crisis. A forthcoming [study](https://wprn.org/item/410352 'wprn 410352') by the University of Vienna, listed on WPRN, could provide information on companies’ strategies to adapt to the crisis and ultimately limit job losses.
+>>>>>>> main

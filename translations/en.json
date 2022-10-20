@@ -460,7 +460,7 @@
   "the-article-search-is-based-on-their-text-title-and-authors-and-nbsp-lastname-or-institutions": "The article search is based on their text, title, and authors'&nbsp;lastname or institutions",
   "the-media-search-is-based-on-their-title-and-the-title-of-the-article-they-belong-to": "The media search is based on their title and the title of the article they belong to.",
   "the-author-search-is-based-on-their-lastname-titles-or-institutions": "The author search is based on their lastname, titles or institutions",
-  "titles-and-institutions": "Titles and Institutions",
+  "positions-and-institutions": "Positions and Institutions",
   "years": "Year",
   "reset-your-search-filters": "Reset search",
   "with-activefilters-filters": "with no filters | with {count} filter | with {count} filters",
@@ -516,9 +516,10 @@
   "show-the-table-of-content": "Show the table of content",
   "publication-date-0": "Publication date: {0}",
   "themes": "Themes",
-  "copy-to-clipboard": "Copy to clipboard",
+  "copy-to-clipboard": "Copy to reference clipboard",
   "misc": {
-    "copyToClipboard": "Copy to clipboard"
+    "copyToClipboard": "Copy to reference clipboard"
   },
-  "no-bibliography-available-for-this-article": "No bibliography available for this article"
+  "no-bibliography-available-for-this-article": "No bibliography available for this article",
+  "articles-from-this-institution": "Articles from this institution"
 }

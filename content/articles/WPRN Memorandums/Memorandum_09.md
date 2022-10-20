@@ -32,7 +32,7 @@ pinned: false
 highlight: false
 bibliography: "/bibliography/documents-exportes_memo9.bib"
 authors:
-- firstname: 'Victor '
+- firstname: 'Victor'
   lastname: Galonnier
 abstract: |-
   The measures taken by governments to limit the spread of Covid-19, particularly lockdowns, have restricted the opportunities for people to access nature. These restrictions have affected individuals and put at the heart of the debate the role of the link to nature for mental and physical well-being. Beyond this, the pandemic and lockdowns have led to changes in the perceptions of time and space : part of the population is questioning its relationship with its surroundings and its way of life.
@@ -52,7 +52,8 @@ keywords:
 - 'Inequalities, Poverty, Development '
 - wildland recreation
 language: English
-doi: "169059797"
+DOI: 10.5072/zenodo.1115407
+Zid: 1115407
 custom_pdf: ''
 
 ---

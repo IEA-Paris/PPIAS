@@ -57,6 +57,7 @@ export default {
     const latestIssueArticles = await $content('articles', { deep: true })
       .where({ issue: { $regex: latestIssue.path }, published: true })
       .sortBy('date', 'asc')
+      .limit(6)
       .fetch()
     const featuredArticles = await $content('articles', { deep: true })
       .where({ highlight: true, published: true })
@@ -77,10 +78,43 @@ export default {
     }
   },
   data() {
-    return {}
+    return {
+      page: {},
+      featuredArticles: [],
+      latestIssueArticles: [],
+      latestIssue: {},
+    }
+  },
+  async fetch() {
+    this.page = await this.$content('pages/about').fetch()
+    this.latestIssue = (
+      await this.$content('issues', { deep: true })
+        .sortBy('date', 'desc')
+        .limit(1)
+        .fetch()
+    )[0]
+    this.latestIssueArticles = await this.$content('articles', { deep: true })
+      .where({ issue: { $regex: this.latestIssue.path }, published: true })
+      .sortBy('date', 'asc')
+      .limit(6)
+      .fetch()
+    this.featuredArticles = await this.$content('articles', { deep: true })
+      .where({ highlight: true, published: true })
+      .sortBy('date', 'desc')
+      .limit(3)
+      .fetch()
+    this.$store.commit('setLoading', false)
+    /* commit('setItems', {
+      items: latestIssueArticles,
+      total: latestIssueArticles.length,
+      numberOfPages: 1,
+      type: 'articles', 
+    }) */
   },
   computed: {},
-  mounted() {},
+  mounted() {
+    this.$fetch()
+  },
   methods: {
     onScroll() {
       this.$store.commit('setScrolled')

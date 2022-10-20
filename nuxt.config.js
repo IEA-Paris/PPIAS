@@ -1,6 +1,6 @@
 import EventEmitter from 'events'
+import filters from './assets/generated/filters'
 import config from './config.js'
-import contentHooks from './tools/content'
 import { writePrintRoutes } from './tools/lib/contentUtilities.js'
 EventEmitter.defaultMaxListeners = 20
 export default {
@@ -26,12 +26,14 @@ export default {
         '/media',
         '/authors',
         ...(
-          await $content('articles', { deep: true, published: true })
+          await $content('articles', { deep: true })
+            .where({ published: true })
             .only(['slug'])
             .fetch()
         ).map((file) => '/articles/' + file.slug),
         ...(
-          await $content('authors', { deep: true, active: true })
+          await $content('authors', { deep: true })
+            .where({ active: true })
             .only(['slug'])
             .fetch()
         ).map((file) => '/authors/' + file.slug),
@@ -211,6 +213,7 @@ export default {
     '@nuxtjs/composition-api/module',
     // https://github.com/ch99q/nuxt-pdf
     '~/modules/nuxt-pdf',
+    '~/modules/publio',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -284,6 +287,18 @@ export default {
     },
     icon: {},
   },
+  // CUSTOM MODULE PUBLIO CONFIG
+  publio: {
+    filters, // TODO rework the filter generation mechanism
+    config,
+    features: [
+      'tsvToArticles',
+      'makeFiltersData',
+      'mergeAuthors',
+      'generateMedia',
+      'processArticles',
+    ],
+  },
   /*
    ** robots module configuration
    ** https://github.com/nuxt-community/robots-module#options
@@ -332,7 +347,7 @@ export default {
   },
 
   // Content hooks
-  ...contentHooks,
+  // ...contentHooks,
   loading: {
     color: 'black',
     height: '5px',
@@ -457,7 +472,7 @@ export default {
     /*
      * Output folder for generated pdf.
      */
-    dir: 'static',
+    dir: 'static/pdfs',
 
     /*
      * Function options for page.pdf([options])
@@ -465,7 +480,7 @@ export default {
      */
     pdf: {
       // Change the format of the pdfs.
-      format: 'A3', // This is optional
+      format: 'A4', // This is optional
       printBackground: true, // Include background in pdf.
     },
 
@@ -525,6 +540,12 @@ export default {
     standalone: true,
     babel: {
       compact: true,
+    },
+    extend(config, ctx) {
+      // extend source map to enable local debug in VScode (breakpoints & co)
+      if (ctx.isDev) {
+        config.devtool = ctx.isClient ? 'source-map' : 'inline-source-map'
+      }
     },
   },
 }

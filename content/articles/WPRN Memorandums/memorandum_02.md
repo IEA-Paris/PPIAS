@@ -1,5 +1,4 @@
 ---
-issue: content/issues/WPRN Memorandums.md
 tag:
 - 'Artificial Intelligence '
 - 'Public Health '
@@ -10,7 +9,7 @@ tag:
 - Human Behaviours, Social Relations
 - Stopcovid
 - 'police '
-- "\tprivacy"
+- "privacy"
 date: 2020-05-31T22:00:00.000+00:00
 article_title: 'Tracking for COVID-19: An Experimental Method more than a «Miracle»
   Solution '
@@ -21,26 +20,28 @@ published: true
 pinned: false
 bibliography: "/bibliography/documents-exportes_memo2.bib"
 authors:
-- firstname: 'Victor '
-  lastname: 'Galonnier '
+- firstname: 'Victor'
+  lastname: 'Galonnier'
 abstract: |-
   Tracking refers to the use of digital systems to identify or track an individual. In the context of the coronavirus pandemic, tracking, through its ability to find individuals likely to have been contaminated in order to isolate or test them, has emerged as one of the methods that can fight the spread of the virus. Tracking applications, which are listed and analysed here, were first used in Asia (China, Korea, Singapore, Taiwan) and then in the West, in France via the government application “StopCovid”, giving rise to a wide-ranging debate.
   Memorandum 2 : overview of the studies and projects registered on WPRN database
 highlight: false
+issue: content/issues/WPRN Memorandums.md
 keywords:
-- 'Big Data, Artificial Intelligence '
-- 'Democracy, Civil Society, Governance '
-- 'Innovation, R&D '
-- 'Public Health '
-- 'Human Behaviours, Social Relations '
-- 'Public Policy, Evaluation, Impact '
-- 'Risks, Crisis Management '
-- StopCovid
-- Tracing Apps
+  - 'Big Data, Artificial Intelligence '
+  - 'Democracy, Civil Society, Governance '
+  - 'Innovation, R&D '
+  - 'Public Health '
+  - 'Human Behaviours, Social Relations '
+  - 'Public Policy, Evaluation, Impact '
+  - 'Risks, Crisis Management '
+  - StopCovid
+  - Tracing Apps
 language: English
-doi: "169059797"
-
+DOI: 10.5072/zenodo.1115138
+Zid: 1115138
 ---
+
 Tracking refers here to the use of digital systems to identify or track an individual. In the context of the coronavirus pandemic, tracking, through its ability to find individuals likely to have been contaminated in order to isolate or test them, has emerged as one of the methods that can fight against the spread of the virus.
 
 Tracking applications, which are listed and analysed [here](https://www.technologyreview.com/2020/05/07/1000961/launching-mittr-covid-tracing-tracker/ "Covid Tracing Tracker"), were first used in Asia (China, Korea, Singapore, Taiwan) and then in the West, in France via the government application “StopCovid”, giving rise to a wide-ranging debate.

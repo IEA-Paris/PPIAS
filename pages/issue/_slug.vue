@@ -52,7 +52,7 @@
                 <div class="d-flex align-center flex-column">
                   <div class="overline">{{ $t('issue') }}</div>
                   <v-divider></v-divider>
-                  <div
+                  <h1
                     class="page-title pb-6"
                     :class="
                       ($store.state.scrolled ? 'mb-9' : 'mb-6',
@@ -62,8 +62,8 @@
                         : '')
                     "
                     v-html="item.name_of_the_issue || item.title"
-                  ></div>
-                  <div
+                  ></h1>
+                  <h4
                     class="page-subtitle pb-3"
                     :class="
                       ($store.state.scrolled ? 'mb-9' : 'mb-6',
@@ -72,7 +72,8 @@
                         : '')
                     "
                     v-html="item.subtitle"
-                  ></div>
+                  ></h4>
+                  <nuxt-img v-if="item.cover" :src="item.cover" />
                   <div class="overline mb-6">
                     {{
                       $t('publication-date-0', [

@@ -25,5 +25,5 @@ export default async (content) => {
     .filter((item, index, self) => item !== undefined)
   // TODO remove duplicate media ID (?)
 
-  insertDocuments(media, 'media', 'caption')
+  await insertDocuments(media, 'media', ['article_slug', 'caption'])
 }
