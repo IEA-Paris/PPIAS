@@ -2,7 +2,7 @@
 active: true
 articles:
   - BIOET_2019_1_Cognition
-createdAt: '2022-10-11T08:02:22.081Z'
+createdAt: '2022-10-10T10:18:07.808Z'
 exerpt: ''
 firstname: François
 is_institution: false

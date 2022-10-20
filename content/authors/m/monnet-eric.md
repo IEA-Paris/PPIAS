@@ -1,9 +1,6 @@
 ---
 active: true
 articles:
-  - '2. 2008-2020 : Qu a-t-on appris des crises economiques et financieres '
-  - '2. 2008-2020 Qu a-t-on appris des crises economiques et financieres '
-  - '2_2008-2020 Qu a-t-on appris des crises economiques et financieres '
   - 2_2008-2020 Qu a-t-on appris des crises economiques et financieres
 createdAt: '2022-10-18T12:26:58.790Z'
 exerpt: ''

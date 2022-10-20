@@ -2,7 +2,7 @@
 active: true
 articles:
   - 5. Crise des identites de genre - Controverses sur le genre
-createdAt: '2022-10-18T12:26:58.786Z'
+createdAt: '2022-10-10T10:18:07.808Z'
 exerpt: ''
 firstname: Delphine
 is_institution: false
