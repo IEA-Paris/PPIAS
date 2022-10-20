@@ -1,7 +1,7 @@
 <template>
   <v-list-item
     nuxt
-    :to="localePath('/authors/' + item.slug)"
+    :to="localePath('/authors/' + path)"
     @click="$emit('close')"
   >
     <v-list-item-icon>
@@ -24,7 +24,7 @@
 </template>
 <script>
 import { formatAuthors, highlight } from '~/assets/utils/transforms'
-
+import slugify from '~/assets/utils/slugify'
 export default {
   props: {
     item: {
@@ -33,7 +33,14 @@ export default {
     },
   },
   data() {
-    return {}
+    return {
+      path: slugify(
+        this.item.lastname +
+          (this.item.firstname && this.item.firstname.length
+            ? '_' + this.item.firstname || ''
+            : '')
+      ),
+    }
   },
   computed: {},
   mounted() {},

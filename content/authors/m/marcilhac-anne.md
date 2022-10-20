@@ -2,11 +2,7 @@
 active: true
 articles:
   - BIOET_2020_4_Vieillissement
-<<<<<<< HEAD:content/authors/m/marcilhac-anne.md
-createdAt: '2022-10-11T08:02:22.081Z'
-=======
-createdAt: '2022-10-10T10:18:07.812Z'
->>>>>>> ce12ec698d5c17afe714643794e371a472570559:content/authors/m/marcilhac.md
+createdAt: '2022-10-20T06:54:16.623Z'
 exerpt: ''
 firstname: Anne
 is_institution: false
@@ -17,10 +13,6 @@ language:
 lastname: Marcilhac
 picture: ''
 picture_copyright: ''
-positions_and_institutions:
-  - institution: EPHE, France
-    positions: []
-    titles: []
 social_channels:
   google_scholar: ''
   instagram: ''

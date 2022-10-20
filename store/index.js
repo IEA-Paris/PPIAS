@@ -146,6 +146,11 @@ export const mutations = {
 
 // ACTIONS
 export const actions = {
+  async nuxtServerInit({ dispatch }) {
+    await dispatch('update', 'articles')
+    await dispatch('update', 'media')
+    await dispatch('update', 'authors')
+  },
   async resetState({ dispatch, commit, state }, type) {
     commit('setBlankState', type)
     commit('setPage', { page: 1, type })

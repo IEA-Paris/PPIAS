@@ -30,9 +30,7 @@ export default {
   },
 
   computed: {},
-  mounted() {
-    console.log('issueText: ', this.issueText)
-  },
+  mounted() {},
   methods: {},
 }
 </script>
