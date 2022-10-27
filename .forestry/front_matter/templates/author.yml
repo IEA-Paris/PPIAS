@@ -62,85 +62,12 @@ fields:
     type: text
     config:
       required: false
-    label: Picture copyright
-  - name: social_channels
-    type: field_group
-    config: {}
-    fields:
-      - name: website
-        type: text
-        config:
-          required: false
-        label: Website
-        description: Personal website
-      - name: wikipedia
-        type: text
-        config:
-          required: false
-        label: Wikipedia
-      - name: orcid
-        type: text
-        config:
-          required: false
-        label: Orcid ID
-        description: 'Add only the ORCID ID, not the URL: e.g. <strong>0000-0003-1715-2919</strong>'
-      - name: linkedin
-        type: text
-        config:
-          required: false
-        label: Linkedin
-      - name: twitter
-        type: text
-        config:
-          required: false
-        label: Twitter
-      - name: instagram
-        type: text
-        config:
-          required: false
-        label: Instagram
-      - name: google_scholar
-        type: text
-        config:
-          required: false
-        label: Google scholar
-        description:
-          e.g. <a href="https://scholar.google.com/citations?user=awGy3asAAAAJ&amp;hl=fr&amp;oi=ao"
-          title="https://scholar.google.com/citations?user=awGy3asAAAAJ&amp;hl=fr&amp;oi=ao"
-          target="_blank">https://scholar.google.com/citations?user=awGy3asAAAAJ&amp;hl=fr&amp;oi=ao</a>
-      - name: researchgate
-        type: text
-        config:
-          required: false
-        label: ResearchGate
-      - name: mendeley
-        type: text
-        config:
-          required: false
-        label: Mendeley
-    label: Social channels
-  - name: reference
-    type: select
-    default: []
+    label: Website
+    description: Personal website
+  - name: wikipedia
+    type: text
     config:
       required: false
-<<<<<<< HEAD
-      options: []
-      source:
-        type: pages
-        section: authors
-        file:
-        path:
-    label: Reference
-    description:
-      This will be used to distinguish between homonyms. Facultative field.
-      If not provided, orcid (if available) or firstname + lastname will be used to
-      match articles authors against a unique person.
-  - name: is_institution
-    type: boolean
-    label: institution
-    description: Does this author document refers to an institution?
-=======
     label: Wikipedia
   - name: orcid
     type: text
@@ -182,30 +109,8 @@ fields:
       required: false
     label: Mendeley
   label: Social channels
->>>>>>> main
 pages:
-  - content/authors/b/beebee.md
-  - content/authors/b/bonaccorsi.md
-  - content/authors/d/de graef.md
-  - content/authors/e/edmond.md
-  - content/authors/e/engels.md
-  - content/authors/g/gimenez-toledo.md
-  - content/authors/h/holm.md
-  - content/authors/j/jermen.md
-  - content/authors/k/kirman.md
-  - content/authors/k/kulczycki.md
-  - content/authors/l/lombardo.md
-  - content/authors/l/lucaroni.md
-  - content/authors/m/mounier.md
-  - content/authors/p/polonen.md
-  - content/authors/p/pozzo.md
-  - content/authors/r/roberts.md
-  - content/authors/r/rooryck.md
-  - content/authors/s/sivertsen.md
-  - content/authors/s/spassova.md
-  - content/authors/s/stern.md
-  - content/authors/t/teira.md
-  - content/authors/v/vanholsbeeck.md
-  - content/authors/w/williams.md
-  - content/authors/z/zanola.md
-  - content/authors/z/zic fuchs.md
+- content/authors/d/de graef.md
+- content/authors/l/lombardo.md
+- content/authors/s/spassova.md
+- content/authors/z/zic fuchs.md
