@@ -16,7 +16,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Institut National de Santé Publique, Guinée
     positions: []
-    titles: []
 social_channels:
   google_scholar: ''
   instagram: ''
@@ -28,10 +27,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_positions:
-  '0':
-    institution: Institut National de Santé Publique, Guinée
-    titles: []
 years:
   - 2022
 

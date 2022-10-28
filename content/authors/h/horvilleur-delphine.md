@@ -23,13 +23,7 @@ social_channels:
   twitter: '@rabbidelphineH'
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Delphine_Horvilleur
-titles_and_positions:
-  '0':
-    institution: Judaïsme en mouvement
-    titles: []
-  '1':
-    institution: Kerem - Conseil des Rabbins Libéraux Francophones, France
-    titles: []
+positions_and_institutions:
 years:
   - 2021
 

@@ -12,11 +12,9 @@ language:
   - null
   - null
 lastname: Gazzaniga
-titles_and_institution:
-  '0':
-    institution: UC Santa Barbara, USA
-    titles:
-      - ''
+positions_and_institutions: 
+  - institution: UC Santa Barbara, USA
+    positions: []
 years:
   - null
   - 2015

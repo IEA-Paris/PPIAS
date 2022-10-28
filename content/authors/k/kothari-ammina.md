@@ -16,7 +16,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: University of Rhode Island, USA
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -28,10 +27,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_positions:
-  '0':
-    institution: University of Rhode Island, USA
-    titles: []
+
 years:
   - 2022
 

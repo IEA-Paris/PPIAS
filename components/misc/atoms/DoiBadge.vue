@@ -1,9 +1,8 @@
+<!-- eslint-disable vuejs-accessibility/anchor-has-content -->
 <template>
   <!-- eslint-disable-next-line vuejs-accessibility/anchor-has-content -->
-  <a
-    :href="'https://sandbox.zenodo.org/record/' + doi.split('.').pop()"
-    target="_blank"
-  >
+  <!--   <a :href="'https://doi.org/' + doi" target="_blank"> -->
+  <a :href="'https://sandbox.zenodo.org/record/' + doi" target="_blank">
     <v-img
       max-width="200"
       :src="'https://sandbox.zenodo.org/badge/DOI/' + doi + '.svg'"

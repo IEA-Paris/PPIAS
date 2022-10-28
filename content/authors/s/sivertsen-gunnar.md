@@ -18,7 +18,6 @@ positions_and_institutions:
       Nordic Inst. for Studies in Innovation, Research and Education (NIFU),
       Norway
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -31,12 +30,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_positions:
-  '0':
-    institution: >-
-      Nordic Inst. for Studies in Innovation, Research and Education (NIFU),
-      Norway
-    titles: []
 years:
   - 2022
   - null

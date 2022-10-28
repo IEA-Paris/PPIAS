@@ -19,7 +19,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: EPHE-PSL, France
     positions: []
-    titles: []
 social_channels:
   google_scholar: ''
   instagram: ''
@@ -30,10 +29,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_positions:
-  '0':
-    institution: EPHE-PSL, France
-    titles: []
 years:
   - 2021
 

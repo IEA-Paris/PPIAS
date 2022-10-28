@@ -1,4 +1,4 @@
-import getDOI from './getDOI'
+import generateDOI from './article/generateDOI'
 export default async (content, options) => {
   const { $content } = require('@nuxt/content')
   // TODO filter fields using .only(['field'])
@@ -6,5 +6,5 @@ export default async (content, options) => {
   const articles = await $content('articles', { deep: true })
     .where({ published: true })
     .fetch()
-  await getDOI(articles, options)
+  await generateDOI(articles, options)
 }

@@ -16,7 +16,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: École normale supérieure – PSL, France
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -30,9 +29,8 @@ social_channels:
   wikipedia: ''
 tags: []
 titles_and_positions:
-  '0':
-    institution: École normale supérieure – PSL, France
-    titles: []
+  - institution: École normale supérieure – PSL, France
+
 years:
   - 2022
 

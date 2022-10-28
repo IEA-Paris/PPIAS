@@ -13,11 +13,9 @@ language:
   - null
   - null
 lastname: Hartmann
-titles_and_institution:
-  '0':
-    institution: University of Potsdam, Germany
-    titles:
-      - ''
+positions_and_institutions: 
+  - institution: University of Potsdam, Germany
+    positions: []
 years:
   - null
   - 2015

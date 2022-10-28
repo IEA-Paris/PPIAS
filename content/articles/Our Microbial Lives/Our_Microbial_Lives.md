@@ -21,7 +21,7 @@ authors:
       twitter: https://twitter.com/microbehistory
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: Ohio University - College of Arts and Sciences
         titles:
           - Assistant Professor

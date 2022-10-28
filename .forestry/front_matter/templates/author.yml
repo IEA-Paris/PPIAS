@@ -2,63 +2,56 @@
 label: Author
 hide_body: false
 fields:
-- name: is_institution
-  type: boolean
-  description: Does this author document refers to an institution? (No firstname then,
-    only the name of the institution is required)
-  label: Is it an Institution?
-- name: firstname
-  type: text
-  config:
-    required: true
-  label: Firstname
-  showOnly:
-    field: is_institution
-- name: lastname
-  type: text
-  config:
-    required: true
-  label: Lastname or Institution name
-  showOnly:
-    value: true
-- name: titles_and_institutions
-  type: field_group_list
-  fields:
-  - name: titles
-    type: list
+  - name: is_institution
+    type: boolean
+    description:
+      Does this author document refers to an institution? (No firstname then,
+      only the name of the institution is required)
+    label: Is it an Institution?
+  - name: firstname
+    type: text
     config:
-      use_select: false
-      min: 
-      max: 
-    label: Positions
-  - name: institution
+      required: true
+    label: Firstname
+    showOnly:
+      field: is_institution
+  - name: lastname
+    type: text
+    config:
+      required: true
+    label: Lastname or Institution name
+    showOnly:
+      value: true
+  - name: titles_and_institutions
+    type: field_group_list
+    fields:
+      - name: titles
+        type: list
+        config:
+          use_select: false
+          min:
+          max:
+        label: Positions
+      - name: institution
+        type: text
+        config:
+          required: false
+        label: Institution
+    config:
+      min:
+      max:
+      labelField:
+    label: Positions and institutions
+    description:
+      E.g. Scientific Director (position <em>facultative</em>), PARIS IAS,
+      FRANCE (Institution <em>mandatory</em>)
+  - name: picture
     type: text
     config:
       required: false
-    label: Institution
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: Positions and institutions
-  description: E.g. Scientific Director (position <em>facultative</em>), PARIS IAS,
-    FRANCE (Institution <em>mandatory</em>)
-- name: picture
-  type: text
-  config:
-    required: false
-  label: Picture
-  description: URL of the picture
-- name: picture_copyright
-  type: text
-  config:
-    required: false
-  label: Picture copyright
-- name: social_channels
-  type: field_group
-  config: {}
-  fields:
-  - name: website
+    label: Picture
+    description: URL of the picture
+  - name: picture_copyright
     type: text
     config:
       required: false
@@ -71,118 +64,83 @@ fields:
         type: text
         config:
           required: false
-        label: Website
-        description: Personal website
-      - name: wikipedia
-        type: text
+        label: Picture copyright
+      - name: social_channels
+        type: field_group
+        config: {}
+        fields:
+          - name: website
+            type: text
+            config:
+              required: false
+            label: Website
+            description: Personal website
+          - name: wikipedia
+            type: text
+            config:
+              required: false
+            label: Wikipedia
+          - name: orcid
+            type: text
+            config:
+              required: false
+            label: Orcid ID
+            description: 'Add only the ORCID ID, not the URL: e.g. <strong>0000-0003-1715-2919</strong>'
+          - name: linkedin
+            type: text
+            config:
+              required: false
+            label: Linkedin
+          - name: twitter
+            type: text
+            config:
+              required: false
+            label: Twitter
+          - name: instagram
+            type: text
+            config:
+              required: false
+            label: Instagram
+          - name: google_scholar
+            type: text
+            config:
+              required: false
+            label: Google scholar
+            description:
+              e.g. <a href="https://scholar.google.com/citations?user=awGy3asAAAAJ&amp;hl=fr&amp;oi=ao"
+              title="https://scholar.google.com/citations?user=awGy3asAAAAJ&amp;hl=fr&amp;oi=ao"
+              target="_blank">https://scholar.google.com/citations?user=awGy3asAAAAJ&amp;hl=fr&amp;oi=ao</a>
+          - name: researchgate
+            type: text
+            config:
+              required: false
+            label: ResearchGate
+          - name: mendeley
+            type: text
+            config:
+              required: false
+            label: Mendeley
+        label: Social channels
+      - name: reference
+        type: select
+        default: []
         config:
           required: false
-        label: Wikipedia
-      - name: orcid
-        type: text
-        config:
-          required: false
-        label: Orcid ID
-        description: 'Add only the ORCID ID, not the URL: e.g. <strong>0000-0003-1715-2919</strong>'
-      - name: linkedin
-        type: text
-        config:
-          required: false
-        label: Linkedin
-      - name: twitter
-        type: text
-        config:
-          required: false
-        label: Twitter
-      - name: instagram
-        type: text
-        config:
-          required: false
-        label: Instagram
-      - name: google_scholar
-        type: text
-        config:
-          required: false
-        label: Google scholar
+          options: []
+          source:
+            type: pages
+            section: authors
+            file:
+            path:
+        label: Reference
         description:
-          e.g. <a href="https://scholar.google.com/citations?user=awGy3asAAAAJ&amp;hl=fr&amp;oi=ao"
-          title="https://scholar.google.com/citations?user=awGy3asAAAAJ&amp;hl=fr&amp;oi=ao"
-          target="_blank">https://scholar.google.com/citations?user=awGy3asAAAAJ&amp;hl=fr&amp;oi=ao</a>
-      - name: researchgate
-        type: text
-        config:
-          required: false
-        label: ResearchGate
-      - name: mendeley
-        type: text
-        config:
-          required: false
-        label: Mendeley
-    label: Social channels
-  - name: reference
-    type: select
-    default: []
-    config:
-      required: false
-<<<<<<< HEAD
-      options: []
-      source:
-        type: pages
-        section: authors
-        file:
-        path:
-    label: Reference
-    description:
-      This will be used to distinguish between homonyms. Facultative field.
-      If not provided, orcid (if available) or firstname + lastname will be used to
-      match articles authors against a unique person.
-  - name: is_institution
-    type: boolean
-    label: institution
-    description: Does this author document refers to an institution?
-=======
-    label: Wikipedia
-  - name: orcid
-    type: text
-    config:
-      required: false
-    label: Orcid ID
-    description: 'Add only the ORCID ID, not the URL: e.g. <strong>0000-0003-1715-2919</strong>'
-  - name: linkedin
-    type: text
-    config:
-      required: false
-    label: Linkedin
-  - name: twitter
-    type: text
-    config:
-      required: false
-    label: Twitter
-  - name: instagram
-    type: text
-    config:
-      required: false
-    label: Instagram
-  - name: google_scholar
-    type: text
-    config:
-      required: false
-    label: Google scholar
-    description: e.g. <a href="https://scholar.google.com/citations?user=awGy3asAAAAJ&amp;hl=fr&amp;oi=ao"
-      title="https://scholar.google.com/citations?user=awGy3asAAAAJ&amp;hl=fr&amp;oi=ao"
-      target="_blank">https://scholar.google.com/citations?user=awGy3asAAAAJ&amp;hl=fr&amp;oi=ao</a>
-  - name: researchgate
-    type: text
-    config:
-      required: false
-    label: ResearchGate
-  - name: mendeley
-    type: text
-    config:
-      required: false
-    label: Mendeley
-  label: Social channels
->>>>>>> main
+          This will be used to distinguish between homonyms. Facultative field.
+          If not provided, orcid (if available) or firstname + lastname will be used to
+          match articles authors against a unique person.
+      - name: is_institution
+        type: boolean
+        label: institution
+        description: Does this author document refers to an institution?
 pages:
   - content/authors/b/beebee.md
   - content/authors/b/bonaccorsi.md

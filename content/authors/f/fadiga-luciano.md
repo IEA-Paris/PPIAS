@@ -12,11 +12,9 @@ language:
   - null
   - null
 lastname: Fadiga
-titles_and_institution:
-  '0':
-    institution: Università degli Studi di Ferrara, Italy
-    titles:
-      - ''
+positions_and_institutions: 
+  - institution: Università degli Studi di Ferrara, Italy
+    positions: []
 years:
   - null
   - 2015

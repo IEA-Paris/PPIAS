@@ -13,11 +13,9 @@ language:
   - null
   - null
 lastname: Harris
-titles_and_institution:
-  '0':
-    institution: University of Leiden, Netherlands
-    titles:
-      - ''
+positions_and_institutions: 
+  - institution: University of Leiden, Netherlands
+    positions: []
 years:
   - null
   - 2015

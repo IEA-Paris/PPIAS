@@ -16,7 +16,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Temple University, Japan
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -34,10 +33,6 @@ tags:
   - public administration
   - covid-19
   - Brazil
-titles_and_positions:
-  '0':
-    institution: Temple University, Japan
-    titles: []
 years:
   - 2022
 

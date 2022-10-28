@@ -16,7 +16,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: CNRS, France
     positions: []
-    titles: []
 social_channels:
   google_scholar: ''
   instagram: ''
@@ -27,10 +26,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_positions:
-  '0':
-    institution: CNRS, France
-    titles: []
 years:
   - 2019
 

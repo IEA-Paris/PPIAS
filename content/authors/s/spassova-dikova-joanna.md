@@ -16,7 +16,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Institute of Art Studies, Bulgarian Academy of Sciences, Bulgaria
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -29,10 +28,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_positions:
-  '0':
-    institution: Institute of Art Studies, Bulgarian Academy of Sciences, Bulgaria
-    titles: []
 years:
   - 2022
 

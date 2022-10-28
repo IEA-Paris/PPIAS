@@ -17,7 +17,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Paris School of Economics, France
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=3N5T0lEAAAAJ&hl=fr
@@ -35,10 +34,7 @@ tags:
   - 'Work, Welfare, Social protection '
   - 'Inequalities, Poverty, Development '
   - 'Public Policy, Evaluation, Impact '
-titles_and_positions:
-  '0':
-    institution: Paris School of Economics, France
-    titles: []
+
 years:
   - 2021
 

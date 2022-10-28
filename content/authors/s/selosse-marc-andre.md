@@ -17,7 +17,6 @@ positions_and_institutions:
       Institut de Systématique, Évolution, Biodiversité, Muséum national
       d'Histoire naturelle, France
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -34,12 +33,6 @@ tags:
   - Microbes
   - Medicine
   - Technology and Medicine
-titles_and_positions:
-  '0':
-    institution: >-
-      Institut de Systématique, Évolution, Biodiversité, Muséum national
-      d'Histoire naturelle, France
-    titles: []
 years:
   - 2021
 

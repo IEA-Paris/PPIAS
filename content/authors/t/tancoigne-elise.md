@@ -24,10 +24,9 @@ social_channels:
   twitter: ''
   website: https://www.etancoigne.fr/
   wikipedia: ''
-titles_and_positions:
-  '0':
-    institution: Université de Lausanne, Suisse
-    titles: []
+positions_and_institutions:
+  - Université de Lausanne, Suisse
+
 years:
   - 2021
 

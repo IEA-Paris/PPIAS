@@ -23,10 +23,9 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_positions:
-  '0':
-    institution: EPHE, France
-    titles: []
+positions_and_institutions:
+  - EPHE, France
+
 years:
   - 2020
 

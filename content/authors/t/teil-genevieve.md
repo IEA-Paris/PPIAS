@@ -15,7 +15,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: INRA, France
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -32,10 +31,6 @@ tags:
   - Medicine
   - Microbe
   - Technology and Medicine
-titles_and_positions:
-  '0':
-    institution: INRA, France
-    titles: []
 years:
   - 2021
 

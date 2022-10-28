@@ -12,11 +12,9 @@ language:
   - null
   - null
 lastname: Reicher
-titles_and_institution:
-  '0':
-    institution: University of St Andrews, United Kingdom
-    titles:
-      - ''
+positions_and_institutions: 
+  - institution: University of St Andrews, United Kingdom
+    positions: []
 years:
   - null
   - 2015

@@ -31,10 +31,9 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Claire_H%C3%A9don
-titles_and_positions:
-  '0':
-    institution: ''
-    titles: []
+positions_and_institutions:
+  - ''
+
 years:
   - 2021
 

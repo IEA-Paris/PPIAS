@@ -18,7 +18,6 @@ positions_and_institutions:
       National Centre for Development of Social Support & Rehabilitation,
       Moscow, Russia
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -30,12 +29,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_positions:
-  '0':
-    institution: >-
-      National Centre for Development of Social Support & Rehabilitation,
-      Moscow, Russia
-    titles: []
 years:
   - 2022
 

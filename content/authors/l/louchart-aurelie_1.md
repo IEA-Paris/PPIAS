@@ -23,10 +23,9 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_positions:
-  '0':
-    institution: Paris Institute for Advanced Study, France
-    titles: []
+positions_and_institutions:
+  - Paris Institute for Advanced Study, France
+
 years:
   - 2021
 

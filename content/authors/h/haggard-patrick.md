@@ -13,11 +13,9 @@ language:
   - null
   - null
 lastname: Haggard
-titles_and_institution:
-  '0':
-    institution: University College London, United Kingdom
-    titles:
-      - ''
+positions_and_institutions: 
+  - institution: University College London, United Kingdom
+    positions: []
 years:
   - null
   - 2015

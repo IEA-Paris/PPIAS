@@ -13,11 +13,9 @@ language:
   - null
   - null
 lastname: Singer
-titles_and_institution:
-  '0':
-    institution: Max Planck Institute for Brain Research, Germany
-    titles:
-      - ''
+positions_and_institutions: 
+  - institution: Max Planck Institute for Brain Research, Germany
+    positions: []
 years:
   - null
   - 2015

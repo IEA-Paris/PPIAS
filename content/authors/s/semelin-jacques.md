@@ -12,11 +12,9 @@ language:
   - null
   - null
 lastname: Semelin
-titles_and_institution:
-  '0':
-    institution: CNRS  / Sciences Po, France
-    titles:
-      - ''
+positions_and_institutions: 
+  - institution: CNRS  / Sciences Po, France
+    positions: []
 years:
   - null
   - 2015

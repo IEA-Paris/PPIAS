@@ -31,12 +31,11 @@
     "d3-scale": "^4.0.2",
     "lite-youtube-embed": "^0.2.0",
     "nuxt": "^2.15.7",
+    "puppeteer": "^19.1.0",
     "request": "^2.88.2",
     "vuetify": "^2.5.5"
   },
-  "peerDependencies": {
-    "puppeteer": "^11.0.0"
-  },
+  "peerDependencies": {},
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.7",
     "@nuxt/image": "^0.4.13",
@@ -79,8 +78,8 @@
     "parse-md": "^3.0.3",
     "pdf-lib": "^1.10.0",
     "prettier": "^2.2.1",
-    "puppeteer": "^11.0.0",
     "remark-bibliography": "^1.0.0",
+    "sharp": "^0.31.1",
     "vue-eslint-parser": "^7.0.0",
     "vue-jest": "^3.0.4"
   },

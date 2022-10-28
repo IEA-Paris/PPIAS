@@ -13,11 +13,9 @@ language:
   - null
   - null
 lastname: Berthoz
-titles_and_institution:
-  '0':
-    institution: Collège de France, France
-    titles:
-      - ''
+positions_and_institutions:
+  - institution: Collège de France, France
+    positions: []
 years:
   - null
   - 2015

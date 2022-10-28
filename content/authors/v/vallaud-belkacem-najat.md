@@ -23,10 +23,9 @@ social_channels:
   twitter: '@najatvb'
   website: https://www.najat-vallaud-belkacem.com/
   wikipedia: https://fr.wikipedia.org/wiki/Najat_Vallaud-Belkacem
-titles_and_positions:
-  '0':
-    institution: ONG ONE, France
-    titles: []
+positions_and_institutions:
+  - ONG ONE, France
+
 years:
   - 2021
 

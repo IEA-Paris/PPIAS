@@ -15,7 +15,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: The Miroslav Krleža Institute of Lexicography, Croatia
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -28,10 +27,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_positions:
-  '0':
-    institution: The Miroslav Krleža Institute of Lexicography, Croatia
-    titles: []
 years:
   - 2022
 

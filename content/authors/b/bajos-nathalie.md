@@ -29,12 +29,10 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_positions:
-  '0':
-    institution: INSERM, France
+positions_and_institutions:
+  - institution: INSERM, France
     titles: []
-  '1':
-    institution: EHESS, France
+  - institution: EHESS, France
     titles: []
 years:
   - 2021

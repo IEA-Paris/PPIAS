@@ -14,11 +14,9 @@ language:
   - null
   - null
 lastname: Fried
-titles_and_institution:
-  '0':
-    institution: UCLA, USA / Université de Tel-Aviv, Israël
-    titles:
-      - ''
+positions_and_institutions: 
+  - institution: UCLA, USA / Université de Tel-Aviv, Israël
+    positions: []
 years:
   - null
   - 2019

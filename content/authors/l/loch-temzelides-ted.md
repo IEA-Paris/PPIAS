@@ -17,7 +17,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Rice University and The Baker Institute, USA
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=r76P0PcAAAAJ&hl=en
@@ -35,10 +34,6 @@ tags:
   - 'Public Health '
   - 'Public Policy, Evaluation, Impact '
   - 'Big Data, Artificial Intelligence '
-titles_and_positions:
-  '0':
-    institution: Rice University and The Baker Institute, USA
-    titles: []
 years:
   - 2021
 

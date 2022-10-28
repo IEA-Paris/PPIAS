@@ -17,7 +17,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: University of Pennsylvania, USA
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=vlwPdfsAAAAJ&hl=en
@@ -38,10 +37,6 @@ tags:
   - social dilemma
   - ' social norm '
   - globalization
-titles_and_positions:
-  '0':
-    institution: University of Pennsylvania, USA
-    titles: []
 years:
   - 2021
 

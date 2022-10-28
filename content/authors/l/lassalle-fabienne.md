@@ -29,10 +29,9 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_positions:
-  '0':
-    institution: SOS Méditerranée, France
-    titles: []
+positions_and_institutions:
+  - SOS Méditerranée, France
+
 years:
   - 2021
 

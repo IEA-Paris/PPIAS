@@ -12,11 +12,9 @@ language:
   - null
   - null
 lastname: Mirdal
-titles_and_institution:
-  '0':
-    institution: Paris Institute for Advanced Study
-    titles:
-      - ''
+positions_and_institutions: 
+  - institution: Paris Institute for Advanced Study
+    positions: []
 years:
   - null
   - 2019

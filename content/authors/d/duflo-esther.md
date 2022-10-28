@@ -16,7 +16,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Massachusetts Institute of Technology (MIT), USA
     positions: []
-    titles: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=yhDMl8AAAAAJ&hl=en
   instagram: ''
@@ -27,10 +26,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Esther_Duflo
-titles_and_positions:
-  '0':
-    institution: Massachusetts Institute of Technology (MIT), USA
-    titles: []
+
 years:
   - 2021
 

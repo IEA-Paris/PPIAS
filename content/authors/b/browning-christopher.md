@@ -12,11 +12,9 @@ language:
   - null
   - null
 lastname: Browning
-titles_and_institution:
-  '0':
-    institution: University of North Carolina, USA
-    titles:
-      - ''
+positions_and_institutions: 
+  - institution: University of North Carolina, USA
+    positions: []
 years:
   - null
   - 2015

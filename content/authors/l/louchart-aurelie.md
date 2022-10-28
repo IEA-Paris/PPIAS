@@ -19,7 +19,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Paris Institute for Advanced Study, France
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -47,10 +46,6 @@ tags:
   - Migrations and Diasporas
   - ' Work, Welfare, Social protection'
   - Inequalities, Poverty, Development
-titles_and_positions:
-  '0':
-    institution: Paris Institute for Advanced Study, France
-    titles: []
 years:
   - 2022
   - 2021

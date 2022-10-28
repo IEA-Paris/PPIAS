@@ -13,11 +13,9 @@ language:
   - null
   - null
 lastname: Grèzes
-titles_and_institution:
-  '0':
-    institution: ENS Paris, France
-    titles:
-      - ''
+positions_and_institutions: 
+  - institution: ENS Paris, France
+    positions: []
 years:
   - null
   - 2015

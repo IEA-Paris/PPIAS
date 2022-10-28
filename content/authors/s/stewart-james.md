@@ -12,11 +12,9 @@ language:
   - null
   - null
 lastname: Stewart
-titles_and_institution:
-  '0':
-    institution: International Criminal Court, Netherlands
-    titles:
-      - ''
+positions_and_institutions: 
+  - institution: International Criminal Court, Netherlands
+    positions: []
 years:
   - null
   - 2015

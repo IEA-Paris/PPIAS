@@ -19,10 +19,8 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: RFIEA-NETIAS, France
     positions: []
-    titles: []
   - institution: RFIEA Foundation, France
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -36,12 +34,10 @@ social_channels:
   wikipedia: ''
 tags: []
 titles_and_positions:
-  '0':
-    institution: RFIEA-NETIAS, France
-    titles: []
-  '1':
-    institution: RFIEA Foundation, France
-    titles: []
+  - institution: RFIEA-NETIAS, France
+
+  - institution: RFIEA Foundation, France
+
 years:
   - 2022
   - 2021

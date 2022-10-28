@@ -16,7 +16,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: KU Leuven, Belgium
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -29,10 +28,7 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_positions:
-  '0':
-    institution: KU Leuven, Belgium
-    titles: []
+
 years:
   - 2022
 

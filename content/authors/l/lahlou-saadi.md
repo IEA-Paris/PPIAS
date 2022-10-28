@@ -78,14 +78,12 @@ tags:
   - History of Science and Medicine
   - Online conference
   - Microbes
-titles_and_positions:
-  '0':
-    institution: London School Of Economics, United Kingdom
-    titles:
+positions_and_institutions:
+  - institution: London School Of Economics, United Kingdom
+    positions:
       - Chair in Social Psychology
-  '1':
-    institution: Paris Institute of advanced study
-    titles:
+  - institution: Paris Institute of advanced study
+    positions:
       - Director
 years:
   - 2021

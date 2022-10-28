@@ -18,10 +18,8 @@ positions_and_institutions:
       Conseil Européen pour les Langues / European Language Council (CEL/ELC),
       Austria
     positions: []
-    titles: []
   - institution: Università Cattolica del Sacro Cuore, Italy
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -34,15 +32,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_positions:
-  '0':
-    institution: >-
-      Conseil Européen pour les Langues / European Language Council (CEL/ELC),
-      Austria
-    titles: []
-  '1':
-    institution: Università Cattolica del Sacro Cuore, Italy
-    titles: []
 years:
   - 2022
 
