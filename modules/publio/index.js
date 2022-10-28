@@ -2,8 +2,7 @@
 /* cuz it's dynamic mate  */
 import tsvToArticles from './lib/tsvToArticles/tsvToArticles'
 import generateCountMap from './lib/article/generateCountMap'
-import makeThumbnail from './lib/article/makeThumbnail'
-import formatArticle from './lib/article/body/formatArticle'
+import generateThumbnails from './lib/article/files/generateThumbnails'
 import extractAndMergeAuthors from './lib/extractAndMergeAuthors'
 import extractAndGenerateMedia from './lib/article/body/extractAndGenerateMedia'
 import makeFiltersData from './lib/makeFiltersData'
@@ -22,64 +21,45 @@ import insertFootnotes from './lib/article/body/insertFootnotes'
 import processArticleBody from './lib/article/body'
 import insertBibliographicalReferences from './lib/article/body/insertBibliographicalReferences'
 import insertCitationElements from './lib/article/insertCitationElements'
-import generatePDF from './lib/article/generatePDF'
+import generatePDF from './lib/article/files/generatePDF'
+import upsertOnZenodo from './lib/article/upsertOnZenodo'
+import generateFiles from './lib/article/files'
+import { insertDocuments } from './utils/contentUtilities'
 const chalk = require('chalk')
 const defaults = require('./module.defaults')
 export default function (moduleOptions) {
   const { nuxt } = this
   let options = Object.assign({}, defaults, moduleOptions, this.options.publio)
-  let articles = []
-  let media, authors, issues, filters
-
-  nuxt.hook('generate:cache:ignore', (ignore) => {
-    ignore.push('content')
-    console.log('cache ignore') /*  */
-  })
-  nuxt.hook('generate:routeCreated', (route) => {
-    console.log('generate:routeCreated', route) /* ignore.push('content') */
-  })
-  // https://nuxtjs.org/docs/internals-glossary/internals-nuxt#hooks
-  this.nuxt.hook('generate:done', async ({ content, builder }) => {
-    // extend
-    console.log('generate:done: ')
-
-    /*  const authorsFiles = await content('authors', { deep: true }).fetch()
-     */
-    const issuesFiles = await content('issues', { deep: true })
-      .sortBy('date', 'desc')
-      .fetch()
+  let articles, media, authors, issues, filters
+  const build = async () => {
+    /*  console.log('Inserting media articles')
+    console.log('media: ', media)
+    await insertDocuments(media, 'media', ['article_slug', 'caption'])
 
     // Create filters
-    filters = makeFiltersData(articles, issuesFiles)
+    filters = makeFiltersData(articles, issues)
+    // insert issue index
+    articles = articles.map((article) => insertIssueData(article, filters))
+    // Upsert on Zenodo/OpenAire
+    articles = await upsertOnZenodo(articles, options)
+
     // Make print routes
     const routesToPrint = makePrintRoutes(articles)
-    await generatePDF(routesToPrint.pdfs)
-  })
-  this.nuxt.hook('build:compiled', ({ name }) => {
-    console.log('build:compiled: ')
-  })
-  this.nuxt.hook('generate:extendRoutes', (routes) => {
-    console.log('generate:extendRoutes: ')
-  })
-  this.nuxt.hook('generate:done', ({ builder }) => {
-    console.log('generate:done: ')
-  })
-  this.nuxt.hook('build:compile', () => {
-    console.log('build:compile: ')
-  })
+    await generateFiles(routesToPrint, {
+      pdf: generatePDF,
+      graphs: generateThumbnails,
+    }) */
+    return true
+  }
 
-  nuxt.hook('content:ready', function (content) {
-    console.log('    "READY": ', 'READY')
-  })
-  nuxt.hook('content:file:beforeInsert', async (article, database) => {
+  if (process.env.NODE_ENV !== 'production') {
+    nuxt.hook('build:compiled', async ({ name }) => {
+      if (name !== 'server') return
+      await build({})
+    })
+  }
+  nuxt.hook('content:file:beforeInsert', (article, database) => {
     if (article.dir.startsWith('/articles') && article.published) {
-      article = {
-        ...generateBibliographyFilesForExport(article),
-        ...insertBibliography(article),
-        /* ...insertIssueData(article, filters), */
-        ...insertAuthorData(article, authors),
-        ...insertCitationElements(article, options),
-      }
       ;[
         article,
         // to be used in the transformers or later
@@ -95,20 +75,26 @@ export default function (moduleOptions) {
         authors,
         issues,
         options,
+        // METADATA
+        [
+          generateBibliographyFilesForExport,
+          insertBibliography,
+          insertAuthorData,
+          insertCitationElements,
+        ],
         // TRANSFORMERS
         // Formatting fixes
-        generateCountMap,
-        insertBodyStructureIndex,
-        insertFootnotes,
-        insertToC,
-        insertVideo,
-        insertImage,
-        insertFormula
+        [
+          generateCountMap,
+          insertBodyStructureIndex,
+          insertFootnotes,
+          insertToC,
+          insertVideo,
+          insertImage,
+          insertFormula,
+        ]
       )
-      await extractAndGenerateMedia(article)
-
-      // Make Thumbnail
-      // Upsert on Zenodo/OpenAire
+      media = [...(media || []), ...extractAndGenerateMedia(article)]
       // Generate DOI
       // Update article file
       // Generate PDF
@@ -116,7 +102,7 @@ export default function (moduleOptions) {
       // Disseminate
       // Upsert on HAL
       // Other plugins
-      articles = [...articles, article]
+      articles = [...(articles || []), article]
     }
   })
   nuxt.hook('listen', function (server, { port }) {

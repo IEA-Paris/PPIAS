@@ -1,4 +1,4 @@
-import { replaceReferenceInFootnote } from '../../utils/contentUtilities'
+import { replaceReferenceInFootnote } from '../../../utils/contentUtilities'
 
 export default (node, article, media, authors, issues, options) => {
   // deal with footnotes

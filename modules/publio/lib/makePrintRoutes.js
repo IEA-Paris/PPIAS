@@ -1,7 +1,7 @@
-import path from 'path'
-import { formatAuthors } from './utils/transforms'
+import { formatAuthors } from '../utils/transforms'
 
 export default (articles) => {
+  console.log('articles: ', articles.length)
   // first, we clean existing files > //TODO make a diff rather that erase/regenerate systematically
   /* 
   const targetFolder = path.resolve('static/pdfs')

@@ -27,9 +27,11 @@ export default async (articles, options) => {
     })
     // fetch all our Zenodo records
     // TODO deal with the number of articles beyond 1k. I assume the md based system will show its limit before we reach it.
-    const records = await zenodo.depositions.list({
+    /*     const records = await zenodo.depositions.list({
       size: 10000,
-    })
+    }) */
+    // or pull each record independantly
+
     // could have done some levenshtein distance metrics but feeling it could lead to unintended false positives
     // NOTE: hasSameTitle is not used for now
     const hasSameFrontmatter = (data, document) => deepEqual(data, document)

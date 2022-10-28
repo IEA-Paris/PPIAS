@@ -1,4 +1,4 @@
-export default (article, authors) => {
+export default (article, media, authors, issues, options) => {
   /// TODO
-  return article
+  return [article, media, authors, issues, options]
 }

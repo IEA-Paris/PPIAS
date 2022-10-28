@@ -1,6 +1,6 @@
 import fs from 'fs'
 import parseMD from 'parse-md'
-import { mergeDeep, insertDocuments } from './utils/contentUtilities'
+import { mergeDeep, insertDocuments } from '../utils/contentUtilities'
 
 const filterAndMerge = (first, second) => {
   first = first.filter((author) => {

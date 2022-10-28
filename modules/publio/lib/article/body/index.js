@@ -1,6 +1,12 @@
-import { doc } from 'prettier'
-
-export default (article, media, authors, issues, options, ...transformers) => {
+export default (
+  article,
+  media,
+  authors,
+  issues,
+  options,
+  metadata,
+  transformers
+) => {
   // We'll buid the data along the way
   article.media = []
   article.images = []
@@ -9,6 +15,17 @@ export default (article, media, authors, issues, options, ...transformers) => {
   article.countMap = []
   article.countRefs = []
   article.count = 0
+  // process the article frontmatter
+  metadata.forEach(
+    (fn) =>
+      ([article, media, authors, issues, options] = fn(
+        article,
+        media,
+        authors,
+        issues,
+        options
+      ))
+  )
   // add the youtube thumbnail to the media of the article
   if (article.yt) {
     article.media.push({

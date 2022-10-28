@@ -1,7 +1,7 @@
 import Citation from 'citation-js'
 const fs = require('fs')
 // TODO add more output plugins
-export default (article) => {
+export default (article, media, authors, issues, options) => {
   if (article.bibliography?.length) {
     const bibliography = fs.readFileSync(
       './static/' + article.bibliography,
@@ -33,5 +33,5 @@ Wikipedia Vitation Style 1 templates https://en.wikipedia.org/wiki/Template:Cita
 
     const cites = new Citation(bibliography)
   }
-  return article
+  return [article, media, authors, issues, options]
 }

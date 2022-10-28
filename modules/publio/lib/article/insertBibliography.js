@@ -1,7 +1,7 @@
 import Citation from 'citation-js'
 const fs = require('fs')
 
-export default (article) => {
+export default (article, media, authors, issues, options) => {
   // generate bibliography if required
   if (article.bibliography?.length) {
     article.biblioFile = article.bibliography
@@ -46,5 +46,5 @@ export default (article) => {
       }
     })
   }
-  return article
+  return [article, media, authors, issues, options]
 }

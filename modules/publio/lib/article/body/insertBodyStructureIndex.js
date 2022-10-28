@@ -1,4 +1,4 @@
-import { insertReferences } from '../../utils/contentUtilities'
+import { insertReferences } from '../../../utils/contentUtilities'
 
 export default (node, article, media, authors, issues, options) => {
   const flag = ['h2', 'h3', 'youtube', 'img'].indexOf(node.tag)

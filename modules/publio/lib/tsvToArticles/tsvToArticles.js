@@ -4,8 +4,8 @@ import fs from 'fs'
 import yaml from 'js-yaml'
 import matter from 'gray-matter'
 import fsExtra from 'fs-extra'
-import { batchInsertArticles } from '../utils/contentUtilities'
-import slugify from '../utils/slugify'
+import { batchInsertArticles } from '../../utils/contentUtilities'
+import slugify from '../../utils/slugify'
 export default (options) => {
   const content = fs.readFileSync('./tools/tsvToArticles/profiles.tsv', 'utf8')
   const json = content.split('\n').flatMap((profile) => {

@@ -2,7 +2,7 @@ import Citation from 'citation-js'
 const fs = require('fs')
 
 // TODO add more output plugins
-export default (article, options) => {
+export default (article, media, authors, issues, options) => {
   const styles = ['apa', 'vanvouver', 'harvard1']
   const date = new Date(article.createdAt).toLocaleDateString('EN', {
     timezone: 'UTC',
@@ -93,5 +93,5 @@ export default (article, options) => {
     })
     .reduce((rst, tick) => Object.assign(rst, tick), {})
 
-  return article
+  return [article, media, authors, issues, options]
 }

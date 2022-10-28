@@ -6,7 +6,7 @@ import {
   updateArticlesDoiAndZid,
   deepEqual,
   cleanupString,
-} from '../utils/contentUtilities'
+} from '../../utils/contentUtilities'
 
 /// See main fn rationale below the subfunctions
 export default async (articles, options) => {
@@ -15,7 +15,7 @@ export default async (articles, options) => {
   try {
     const fs = require('fs')
     const path = require('path')
-    const Zenodo = require('../utils/ZenodoConnector')
+    const Zenodo = require('../../utils/ZenodoConnector')
     const zenodo = await new Zenodo({
       host: 'sandbox.zenodo.org', // TODO update domain name from both env variables and the config file.
       token: config.modules.zenodo.token,

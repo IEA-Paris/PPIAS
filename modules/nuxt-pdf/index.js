@@ -72,7 +72,7 @@ export const promisifyRoute = function promisifyRoute(fn, ...args) {
 async function build(buildArgs) {
   let nuxt
   let listener
-  let browser = null
+  const browser = null
   const { options } = buildArgs
   let { url } = buildArgs
   try {
@@ -104,129 +104,6 @@ async function build(buildArgs) {
         ` Generating PDF ${i + 1}:${routes.length} at route ` +
         route.route
     )
-
-    try {
-      // Merge route meta with defaults from config.
-      const meta = Object.assign({}, options.meta, route.meta)
-      /*       console.log('launching browser') */
-      browser = await puppeteer.launch(
-        Object.assign(
-          {
-            headless: true,
-          },
-          options.puppeteer
-        )
-      )
-
-      const page = await browser.newPage()
-      /*  console.log('goin to page') */
-
-      await page.goto(`${url.replace(/\/$/, '')}${route.route}`, {
-        waitUntil: 'networkidle2',
-      })
-
-      if (options.viewport || route.viewport) {
-        page.setViewport(
-          Object.assign(
-            {},
-            {
-              ...options.viewport,
-              ...route.viewport,
-            }
-          )
-        )
-      }
-      /*       console.log('generatin pdf') */
-
-      // Generate pdf based on dom content. (result by bytes)
-      const bytes = await page.pdf(
-        Object.assign(
-          {},
-          {
-            ...options.pdf,
-            ...route.pdf,
-          }
-        )
-      )
-
-      // Load bytes into pdf document, used for manipulating meta of file.
-      const document = await Document.load(bytes)
-      /*    console.log('setup PDF metadata') */
-      // Set the correct meta for pdf document.
-      if ('title' in meta && meta.title !== '') {
-        document.setTitle(
-          (meta.titleTemplate || '%s').replace('%s', meta.title)
-        )
-      } else {
-        document.setTitle(await page.title())
-      }
-
-      document.setAuthor(meta.author || '')
-      document.setSubject(meta.subject || '')
-      document.setProducer(meta.producer || '')
-      document.setCreationDate(new Date(meta.creationDate) || new Date())
-      document.setKeywords(meta.tag || [])
-      document.setLanguage(meta.language || '')
-
-      const file = path.resolve(
-        buildArgs.generated ? 'dist' : options.dir,
-        route.file
-      )
-
-      // Create folder where file will be stored.
-      fs.mkdirSync(file.substring(0, file.lastIndexOf('/')), {
-        recursive: true,
-      })
-
-      // Write document to file.
-      const ws = fs.createWriteStream(file, { flags: 'w' })
-      ws.write(await document.save())
-      ws.end()
-      if (buildArgs.generated) {
-        // also write it in static to commit to source code (used to generate DOI)
-        const file2 = path.resolve(options.dir, route.file)
-        // Create folder where file will be stored.
-        /*     console.log('makin PDF folder') */
-        fs.mkdirSync(file2.substring(0, file2.lastIndexOf('/')), {
-          recursive: true,
-        })
-        /*    console.log('writing PDF file') */
-        const ws2 = fs.createWriteStream(file, { flags: 'w' })
-        ws2.write(await document.save())
-        ws2.end()
-      }
-      console.log(
-        `${chalk.green('✔')}  Generated PDF ${i + 1}:${
-          routes.length
-        } at file '${file} (${document.getTitle()})`
-      )
-      if (buildArgs.generated && !route.keep) {
-        fs.unlinkSync(`./dist${route.route}/index.html`)
-        console.log(
-          `${chalk.green('✔')}  Removed route index file used for PDF at ${
-            route.route
-          }`
-        )
-        fs.rmdirSync(`./dist${route.route}`)
-        console.log(
-          `${chalk.green('✔')}  Removed route directory used for PDF at ${
-            route.route
-          }`
-        )
-      }
-      await page.close()
-      await browser.close()
-    } catch (e) {
-      console.log(
-        `${chalk.red('𐄂')} Failed to generated PDF ${i + 1}:${
-          routes.length
-        } at route ${route.route} error: ${e.message}`
-      )
-    } finally {
-      if (browser !== null) {
-        await browser.close()
-      }
-    }
   }
 
   if (nuxt) {
