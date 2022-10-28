@@ -142,28 +142,7 @@ fields:
         label: institution
         description: Does this author document refers to an institution?
 pages:
-  - content/authors/b/beebee.md
-  - content/authors/b/bonaccorsi.md
   - content/authors/d/de graef.md
-  - content/authors/e/edmond.md
-  - content/authors/e/engels.md
-  - content/authors/g/gimenez-toledo.md
-  - content/authors/h/holm.md
-  - content/authors/j/jermen.md
-  - content/authors/k/kirman.md
-  - content/authors/k/kulczycki.md
   - content/authors/l/lombardo.md
-  - content/authors/l/lucaroni.md
-  - content/authors/m/mounier.md
-  - content/authors/p/polonen.md
-  - content/authors/p/pozzo.md
-  - content/authors/r/roberts.md
-  - content/authors/r/rooryck.md
-  - content/authors/s/sivertsen.md
   - content/authors/s/spassova.md
-  - content/authors/s/stern.md
-  - content/authors/t/teira.md
-  - content/authors/v/vanholsbeeck.md
-  - content/authors/w/williams.md
-  - content/authors/z/zanola.md
   - content/authors/z/zic fuchs.md
