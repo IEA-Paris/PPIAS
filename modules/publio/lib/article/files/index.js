@@ -13,6 +13,7 @@ export default async (routesToPrint, fn) => {
   const listener = await nuxt.server.listen()
   console.log('listener: ', listener)
   const url = listener.url
+  const meta = {}
   browser = await puppeteer.launch(
     Object.assign(
       {

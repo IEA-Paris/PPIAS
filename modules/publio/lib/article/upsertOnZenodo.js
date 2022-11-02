@@ -1,15 +1,13 @@
 import Citation from 'citation-js'
-import PQueue from 'p-queue'
 
 import {
   generateChecksum,
-  updateArticlesDoiAndZid,
   deepEqual,
   cleanupString,
 } from '../../utils/contentUtilities'
 
 /// See main fn rationale below the subfunctions
-export default async (articles, options) => {
+export default async (articles, options, queue) => {
   try {
     const fs = require('fs')
     const path = require('path')
@@ -19,15 +17,23 @@ export default async (articles, options) => {
       token: options.config.modules.zenodo.token,
       protocol: 'https',
     })
-    // Prepare a queue to avoid rate limiting mechanisms or RAM overconsumption
-    const queue = new PQueue({
-      concurrency: 5,
-      intervalCap: 60,
-      interval: 6000,
-    })
+
     // fetch all our Zenodo records
+    // make an elastic search query to get only the relevant documents from Zenodo
+    const q = {
+      ids: {
+        type: 'deposition',
+        values: articles.map((article) => article.Zid),
+      },
+    }
     // TODO deal with the number of articles beyond 1k. I assume the md based system will show its limit before we reach it.
     const records = await zenodo.depositions.list({
+      q,
+      size: 10000,
+    })
+    console.log('records: ', records.length)
+    console.log('ARGS', {
+      q,
       size: 10000,
     })
     // or pull each record independantly
@@ -134,7 +140,6 @@ export default async (articles, options) => {
       const entry = await queue.add(async () => {
         return await zenodo.depositions.create({ metadata })
       })
-      console.log('entry: ', entry.data)
       return entry
     }
 
@@ -232,4 +237,5 @@ export default async (articles, options) => {
   } catch (error) {
     console.log('error: ', error)
   }
+  return articles
 }
