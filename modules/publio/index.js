@@ -18,7 +18,7 @@ import insertFormula from './lib/article/body/insertFormula'
 import insertVideo from './lib/article/body/insertVideo'
 import insertToC from './lib/article/body/insertToC'
 import insertFootnotes from './lib/article/body/insertFootnotes'
-import processArticleBody from './lib/article/body'
+import processArticle from './lib/article/body'
 import insertBibliographicalReferences from './lib/article/body/insertBibliographicalReferences'
 import insertCitationElements from './lib/article/insertCitationElements'
 import generatePDF from './lib/article/files/generatePDF'
@@ -32,10 +32,16 @@ export default function (moduleOptions) {
   let options = Object.assign({}, defaults, moduleOptions, this.options.publio)
   let articles, media, authors, issues, filters
   const build = async () => {
-    /*  console.log('Inserting media articles')
-    console.log('media: ', media)
-    await insertDocuments(media, 'media', ['article_slug', 'caption'])
-
+    // Generate DOI
+    // Update article file
+    // Generate PDF
+    // Publish on Zenodo/OpenAire
+    // Disseminate
+    // Upsert on HAL
+    // Other plugins
+    console.log('Inserting media articles')
+    insertDocuments(media, 'media', ['article_slug', 'caption'])
+    /* 
     // Create filters
     filters = makeFiltersData(articles, issues)
     // insert issue index
@@ -55,19 +61,12 @@ export default function (moduleOptions) {
   if (process.env.NODE_ENV !== 'production') {
     nuxt.hook('build:compiled', async ({ name }) => {
       if (name !== 'server') return
-      await build({})
+      await build()
     })
   }
   nuxt.hook('content:file:beforeInsert', (article, database) => {
     if (article.dir.startsWith('/articles') && article.published) {
-      ;[
-        article,
-        // to be used in the transformers or later
-        media,
-        authors,
-        issues,
-        options,
-      ] = processArticleBody(
+      ;[article, media, authors, issues, options] = processArticle(
         // main item
         article,
         // to be used in the transformers or later
@@ -75,14 +74,14 @@ export default function (moduleOptions) {
         authors,
         issues,
         options,
-        // METADATA
+        // METADATA/FRONTMATTER
         [
           generateBibliographyFilesForExport,
           insertBibliography,
           insertAuthorData,
           insertCitationElements,
         ],
-        // TRANSFORMERS
+        // BODY TRANSFORMERS
         // Formatting fixes
         [
           generateCountMap,
@@ -95,13 +94,6 @@ export default function (moduleOptions) {
         ]
       )
       media = [...(media || []), ...extractAndGenerateMedia(article)]
-      // Generate DOI
-      // Update article file
-      // Generate PDF
-      // Publish on Zenodo/OpenAire
-      // Disseminate
-      // Upsert on HAL
-      // Other plugins
       articles = [...(articles || []), article]
     }
   })

@@ -12,7 +12,7 @@
             <div
               class="main-title transition-swing"
               :class="$store.state.scrolled ? 'mb-16 mt-8' : 'mb-8 mt-2'"
-              v-html="$config.full_name"
+              v-html="$config.full_name_html"
             ></div>
             <nuxt-content :document="page" />
           </v-col>
