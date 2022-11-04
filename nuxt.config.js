@@ -13,7 +13,7 @@ export default {
   ssr: true,
   generate: {
     crawler: false,
-    concurrency: 10,
+    concurrency: 50,
     // Explicit declaration of the routes is necessary since
     // Nuxt crawler can't follow all the print routes.
     // We know what to generate, no need to crawl.
@@ -28,13 +28,7 @@ export default {
             .where({ published: true })
             .only(['slug'])
             .fetch()
-        ).flatMap((file) => [
-          '/articles/' + file.slug,
-          // PDF files routes
-          '/print/' + file.slug,
-          // Thumbnails html to be converted into a png image
-          '/print/' + file.slug + '/graph',
-        ]),
+        ).map((file) => '/articles/' + file.slug),
         ...(
           await $content('authors', { deep: true })
             .where({ active: true })

@@ -26,37 +26,76 @@ import generatePDF from './lib/article/files/generatePDF'
 import upsertOnZenodo from './lib/article/upsertOnZenodo'
 import generateFiles from './lib/article/files'
 import { insertDocuments } from './utils/contentUtilities'
-
 const chalk = require('chalk')
 const defaults = require('./module.defaults')
-
 // eslint-disable-next-line require-await
 export default async function (moduleOptions) {
   const { nuxt } = this
   let options = Object.assign({}, defaults, moduleOptions, this.options.publio)
   let articles, media, authors, issues, filters, url, routesToPrint
+  const util = require('node:util')
+  const fs = require('fs')
+  const path = require('path')
+  const exec = util.promisify(require('node:child_process').exec)
+
   // "once" is a dirty way to prevent Nuxt to retrigger the content parsing when we insert new files.
   // TODO alternatives are welcomed
   let once = true
-  const build = async () => {
-    if (once) return // dirty skip to avoid retriggering the build method
+  const { stdout, stderr } = await exec(
+    "{ git ls-files --others --exclude-standard ; git diff-index --name-only --diff-filter=d HEAD ; } | grep --regexp='[.]md$'"
+  )
+  const changedFiles = stdout
+    .split('\n')
+    .filter((str) => str)
+    .map((str) => str.slice(7))
+  console.log('changedFiles: ', changedFiles)
+
+  const extendGeneration = () => {
+    if (!once) return // dirty skip to avoid retriggering the build method
 
     console.log("BUILDING HOOK, Let' rock ! :-) ")
-    // one queue to rule them all (to avoid rate limiting mechanisms on a per api basis)
-    const zenodoQueue = new PQueue({
-      concurrency: 5,
-      intervalCap: 60,
-      interval: 6000,
-    })
-    insertDocuments(media, 'media', ['article_slug', 'caption'])
+
+    if (media) insertDocuments(media, 'media', ['article_slug', 'caption'])
 
     // Create filters
     filters = makeFiltersData(articles, issues)
-    // insert issue index
-    articles = articles.map((article) => insertIssueData(article, filters))
-    // Upsert on Zenodo/OpenAire & get DOI is none is available
-    // articles = await upsertOnZenodo(articles, options, zenodoQueue)
-    routesToPrint = makePrintRoutes(articles)
+
+    // we only update articles that have been edited
+    let editedArticles = articles.filter(
+      (article) =>
+        // if the file has changed
+        changedFiles.includes(article.path) ||
+        // or if for some reason it needs a DOI but couldn't get one
+        (article.needDoi && !article.DOI) ||
+        // or if it needs a PDF file that is missing
+        !fs.existsSync(
+          path.resolve(
+            process.env.NODE_ENV === 'production' ? 'pdfs' : 'static/pdfs',
+            article.slug + '.pdf'
+          )
+        )
+    )
+    console.log(
+      'to process : ',
+      editedArticles.map((article) => article.article_title)
+    )
+    if (editedArticles?.length) {
+      // insert issue index
+      editedArticles = editedArticles.map((article) =>
+        insertIssueData(article, filters)
+      )
+      // Upsert on Zenodo/OpenAire & get DOI is none is available
+      // articles = await upsertOnZenodo(articles, options, zenodoQueue)
+
+      // make an array of routes to print
+      routesToPrint = makePrintRoutes(editedArticles)
+    }
+
+    return true
+  }
+  const generateFilesToPrint = async () => {
+    console.log('GENERATE FILES')
+    if (!routesToPrint) return
     // Generate PDF & other files
     await generateFiles(
       routesToPrint,
@@ -74,29 +113,42 @@ export default async function (moduleOptions) {
     // Now that we're done with tedious stuff, let's disseminate AF
 
     // Other plugins
-    return true
   }
+  this.nuxt.hook('generate:extendRoutes', (routes) => {
+    // Extend routes with the ones to be printed
+    console.log('extendin routes')
+    if (!routesToPrint) return // dirty skip to avoid retriggering the build method
+    Object.keys(routesToPrint).forEach((type) => {
+      routesToPrint[type].forEach((route) => {
+        routes.push({
+          route: route.route,
+          payload: null,
+        })
+      })
+    })
+  })
   // Regular production deployment generation (PROD + SSR ONLY)
   if (process.env.NODE_ENV === 'production') {
     nuxt.hook('generate:done', async ({ name }) => {
       if (!once) return
       console.log('"GENERATE:DONE" HOOK (PROD + SSR ONLY)')
       once = false
-      await build()
+      await generateFilesToPrint()
     })
   } else {
     // if we are in dev mode (DEV + SSR ONLY)
-    this.nuxt.hook('ready', async (nuxt) => {
+    this.nuxt.hook('ready', (nuxt) => {
       if (nuxt.name !== 'server' || !once) return
       console.log('"READY HOOK" HOOK (DEV + SSR ONLY)')
       once = false
-      await build()
     })
   }
   nuxt.hook('content:ready', async (content) => {
     issues = await content('issues', { deep: true })
       // .only(['slug']) //TODO complete with only required fields
       .fetch()
+    console.log('"CONTENT:READY" HOOK')
+    extendGeneration()
   })
   nuxt.hook('content:file:beforeInsert', (article, database) => {
     if (once && article.dir.startsWith('/articles') && article.published) {

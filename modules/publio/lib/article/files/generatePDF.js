@@ -4,24 +4,18 @@ const path = require('path')
 const { PDFDocument: Document } = require('pdf-lib')
 
 const chalk = require('chalk')
-export default async (route, meta, browser) => {
+export default async (route, url, meta, browser) => {
   try {
     console.log(
       'starting to generate PDF at ',
-      path
-        .join(__dirname, route.route)
-        .replace('modules/publio/lib/article/files', 'dist')
+      url.replace(/\/$/, '') + route.route
     )
     const page = await browser.newPage()
-    /*  console.log('goin to page') */
-    await page.goto(
-      `file://${path
-        .join(__dirname, route.route)
-        .replace('modules/publio/lib/article/files', 'dist')}`,
-      {
-        waitUntil: 'networkidle0',
-      }
-    )
+    console.log('goin to page')
+    await page.goto(`${url.replace(/\/$/, '')}${route.route}`, {
+      waitUntil: 'networkidle0',
+    })
+    console.log('Page loaded')
 
     /*     if (options.viewport || route.viewport) {
       page.setViewport(
@@ -75,8 +69,8 @@ export default async (route, meta, browser) => {
 
     // Write document to file.
     const ws = fs.createWriteStream(file, { flags: 'w' })
-    ws.write(await document.save())
-    ws.end()
+    await ws.write(await document.save())
+    await ws.end()
     // also write it in static to commit to source code (used to generate DOI)
     const file2 = path.resolve('static', route.file)
     // Create folder where file will be stored.
@@ -86,8 +80,8 @@ export default async (route, meta, browser) => {
     })
     /*    console.log('writing PDF file') */
     const ws2 = fs.createWriteStream(file, { flags: 'w' })
-    ws2.write(await document.save())
-    ws2.end()
+    await ws2.write(await document.save())
+    await ws2.end()
     console.log(
       `${chalk.green('✔')}  Generated PDF 
       } at file '${file} (${document.getTitle()})`
@@ -117,5 +111,5 @@ export default async (route, meta, browser) => {
       await browser.close()
     }
   }
-  return [route, meta, browser]
+  return [route, url, meta, browser]
 }
