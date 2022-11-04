@@ -8,14 +8,17 @@
 </template>
 <script>
 export default {
+  layout: 'print',
   props: {},
   async asyncData({ $content, params }) {
-    const item = await $content('articles', { deep: true })
-      .where({
-        slug: params.slug,
-        published: true,
-      })
-      .fetch()
+    const item = (
+      await $content('articles', { deep: true })
+        .where({
+          slug: params.slug,
+          published: true,
+        })
+        .fetch()
+    )[0]
 
     return {
       item,

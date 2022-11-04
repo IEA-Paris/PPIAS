@@ -1,28 +1,26 @@
-export default async (routesToPrint, fn) => {
+export default async (routesToPrint, fn, nuxt) => {
   console.log('nuxt-pdf: Starting nuxt instance ')
-  const { loadNuxt } = require('nuxt')
   const puppeteer = require('puppeteer')
   const { PDFDocument: Document } = require('pdf-lib')
 
   // Check if we need to run Nuxt in development mode
-  const isDev = process.env.NODE_ENV !== 'production'
-  let browser = null
-
+  if (process.env.NODE_ENV === 'production') {
+    const { loadNuxt } = require('nuxt')
+    nuxt = await loadNuxt('start')
+  }
   // Get a ready to use Nuxt instance
-  const nuxt = await loadNuxt(isDev ? 'dev' : 'start')
   const listener = await nuxt.server.listen()
-  console.log('listener: ', listener)
   const url = listener.url
+  console.log('Get a ready to use Nuxt instance')
   const meta = {}
-  browser = await puppeteer.launch(
-    Object.assign(
-      {
-        headless: true,
-      }
-      /*    options.puppeteer */
-    )
+  const browser = await puppeteer.launch(
+    /*  Object.assign( */
+    {
+      headless: true,
+    }
+    /*    options.puppeteer 
+    ) */
   )
-  console.log('url: ', url)
   // generate the PDFs, thumbnails, & whatever we need <3
   Object.keys(routesToPrint).forEach(async (category) => {
     console.log('generating files from category: ', category)

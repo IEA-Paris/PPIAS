@@ -46,7 +46,7 @@ export default (articles) => {
       // if the file has been changed
       return {
         // Route to content that should be converted into pdf.
-        route: '/articles/' + article.slug + '/graph',
+        route: '/print/' + article.slug + '/graph',
         file: article.slug + '.png',
         // Default option is to remove the route after generation so it is not accessible
         keep: false, // defaults to false

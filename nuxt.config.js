@@ -13,11 +13,10 @@ export default {
   ssr: true,
   generate: {
     crawler: false,
-    // TODO double-check that it is necessary to decalre routes:
-    // somehow the integrated crawler doesn't do the job of matching dynamic routes.
-    // I see 2 possible reasons and probably missed some other ones:
-    // 1 - it is a store related issue > when the route slug is fetched from store, the crawler doesn't wait for it.
-    // 2 - the pdf generation module is tempering with the routes generation, thus preventing the crawler from doing its job
+    concurrency: 10,
+    // Explicit declaration of the routes is necessary since
+    // Nuxt crawler can't follow all the print routes.
+    // We know what to generate, no need to crawl.
     async routes() {
       const { $content } = require('@nuxt/content')
       const files = await Promise.all([
@@ -29,7 +28,13 @@ export default {
             .where({ published: true })
             .only(['slug'])
             .fetch()
-        ).map((file) => '/articles/' + file.slug),
+        ).flatMap((file) => [
+          '/articles/' + file.slug,
+          // PDF files routes
+          '/print/' + file.slug,
+          // Thumbnails html to be converted into a png image
+          '/print/' + file.slug + '/graph',
+        ]),
         ...(
           await $content('authors', { deep: true })
             .where({ active: true })
@@ -40,7 +45,6 @@ export default {
           await $content('issues', { deep: true }).only(['slug']).fetch()
         ).map((file) => '/issue/' + file.slug),
       ])
-
       return files
     },
   },

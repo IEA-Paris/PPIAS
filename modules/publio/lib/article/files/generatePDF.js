@@ -4,15 +4,24 @@ const path = require('path')
 const { PDFDocument: Document } = require('pdf-lib')
 
 const chalk = require('chalk')
-export default async (route, browser) => {
+export default async (route, meta, browser) => {
   try {
-    console.log('route: ', route)
+    console.log(
+      'starting to generate PDF at ',
+      path
+        .join(__dirname, route.route)
+        .replace('modules/publio/lib/article/files', 'dist')
+    )
     const page = await browser.newPage()
     /*  console.log('goin to page') */
-
-    await page.goto(`${route.url.replace(/\/$/, '')}${route.route}`, {
-      waitUntil: 'networkidle2',
-    })
+    await page.goto(
+      `file://${path
+        .join(__dirname, route.route)
+        .replace('modules/publio/lib/article/files', 'dist')}`,
+      {
+        waitUntil: 'networkidle0',
+      }
+    )
 
     /*     if (options.viewport || route.viewport) {
       page.setViewport(
@@ -98,7 +107,6 @@ export default async (route, browser) => {
       )
     }
     await page.close()
-    await browser.close()
   } catch (e) {
     console.log(
       `${chalk.red('𐄂')} Failed to generated PDF 
@@ -109,4 +117,5 @@ export default async (route, browser) => {
       await browser.close()
     }
   }
+  return [route, meta, browser]
 }

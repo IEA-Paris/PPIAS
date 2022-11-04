@@ -29,15 +29,19 @@ import { insertDocuments } from './utils/contentUtilities'
 
 const chalk = require('chalk')
 const defaults = require('./module.defaults')
-export default function (moduleOptions) {
+
+// eslint-disable-next-line require-await
+export default async function (moduleOptions) {
   const { nuxt } = this
   let options = Object.assign({}, defaults, moduleOptions, this.options.publio)
-  let articles, media, authors, issues, filters
+  let articles, media, authors, issues, filters, url, routesToPrint
+  // "once" is a dirty way to prevent Nuxt to retrigger the content parsing when we insert new files.
+  // TODO alternatives are welcomed
   let once = true
   const build = async () => {
     if (once) return // dirty skip to avoid retriggering the build method
 
-    console.log("BUILDING HOOK, Let' rock :-3 ")
+    console.log("BUILDING HOOK, Let' rock ! :-) ")
     // one queue to rule them all (to avoid rate limiting mechanisms on a per api basis)
     const zenodoQueue = new PQueue({
       concurrency: 5,
@@ -51,16 +55,17 @@ export default function (moduleOptions) {
     // insert issue index
     articles = articles.map((article) => insertIssueData(article, filters))
     // Upsert on Zenodo/OpenAire & get DOI is none is available
-    articles = await upsertOnZenodo(articles, options, zenodoQueue)
-
-    // Make print routes
-    const routesToPrint = makePrintRoutes(articles)
-
+    // articles = await upsertOnZenodo(articles, options, zenodoQueue)
+    routesToPrint = makePrintRoutes(articles)
     // Generate PDF & other files
-    await generateFiles(routesToPrint, {
-      pdf: generatePDF,
-      graphs: generateThumbnails,
-    })
+    await generateFiles(
+      routesToPrint,
+      {
+        pdfs: generatePDF,
+        thumbnails: generateThumbnails,
+      },
+      nuxt
+    )
     // and publish it on Zenodo
 
     // now that we have the related PDF, DOI and Zenodo record,we can update the article file
@@ -71,10 +76,19 @@ export default function (moduleOptions) {
     // Other plugins
     return true
   }
-
-  if (process.env.NODE_ENV !== 'production') {
-    nuxt.hook('build:compiled', async ({ name }) => {
-      if (name !== 'server' || !once) return
+  // Regular production deployment generation (PROD + SSR ONLY)
+  if (process.env.NODE_ENV === 'production') {
+    nuxt.hook('generate:done', async ({ name }) => {
+      if (!once) return
+      console.log('"GENERATE:DONE" HOOK (PROD + SSR ONLY)')
+      once = false
+      await build()
+    })
+  } else {
+    // if we are in dev mode (DEV + SSR ONLY)
+    this.nuxt.hook('ready', async (nuxt) => {
+      if (nuxt.name !== 'server' || !once) return
+      console.log('"READY HOOK" HOOK (DEV + SSR ONLY)')
       once = false
       await build()
     })
@@ -85,7 +99,6 @@ export default function (moduleOptions) {
       .fetch()
   })
   nuxt.hook('content:file:beforeInsert', (article, database) => {
-    console.log('once: ', once)
     if (once && article.dir.startsWith('/articles') && article.published) {
       ;[article, media, authors, issues, options] = processArticle(
         // main item
@@ -118,7 +131,8 @@ export default function (moduleOptions) {
       articles = [...(articles || []), article]
     }
   })
-  nuxt.hook('listen', function (server, { port }) {
+  nuxt.hook('listen', function (server, router) {
+    url = router.url.toString()
     nuxt.options.cli.badgeMessages.push(
       `With Publio inside & lots of ${chalk.hex('#cb00ff')('<3')}`
     )
