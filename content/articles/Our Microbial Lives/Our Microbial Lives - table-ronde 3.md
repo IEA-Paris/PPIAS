@@ -98,7 +98,6 @@ yt: mAEoGVjHjUQ
 
 ---
 
-
 ## Table-ronde 3 du forum "Our Microbial Lives"
 
 On assiste à un changement de paradigme au 21ème siècle : si le 19ème et le 20ème siècles avaient une vision très négative des microbes et les envisageaient sous le prisme de l’éradication, les évolutions technologiques nous montrent désormais que certains microbes « nous veulent du bien ». Le caractère bénéfique des bactéries est une vision nouvelle pour les microbiologistes médicaux.

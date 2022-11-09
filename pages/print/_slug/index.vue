@@ -1,8 +1,8 @@
 <template>
-  <article class="printpanel page pdf" style="background-color: white">
+  <article class="printpanel page pdf a4" style="background-color: white">
     <header>
       <v-img
-        src="/ppias.svg"
+        src="http://localhost:3000/ppias.svg"
         contain
         alt="Avatar"
         style="
@@ -226,9 +226,6 @@ export default {
 }
 </script>
 <style lang="scss">
-article.printpanel {
-  width: 210mm !important;
-}
 .page-title {
   margin-top: 0 !important;
   padding-top: 0 !important;
@@ -236,10 +233,7 @@ article.printpanel {
 .index {
   display: none !important;
 }
-td {
-  max-width: 100% !important;
-  margin-right: 80px !important;
-}
+
 .nuxt-content.article-body p,
 .nuxt-content.article-body ul li,
 .csl-bib-body,
@@ -303,7 +297,7 @@ td {
   z-index: 20;
 }
 @page {
-  margin: 2cm 4cm 0cm 1cm;
+  margin: 0cm;
 }
 
 @media print {

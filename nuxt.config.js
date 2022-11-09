@@ -12,11 +12,14 @@ export default {
   target: 'static',
   ssr: true,
   generate: {
+    dir: 'dist',
     crawler: false,
-    concurrency: 50,
+    // default concurrency is 500 afaik. Considering the RAM cost of each, it would require way too much memory.
+    // TODO check and time different values to come up with the best compromise between required memory (in free tier) and execution time
+    concurrency: 20,
     // Explicit declaration of the routes is necessary since
-    // Nuxt crawler can't follow all the print routes.
-    // We know what to generate, no need to crawl.
+    // Nuxt crawler can't follow all the print routes (besides it doesn't follow vuetify pagination component links).
+    // But no sweat, we know what to generate, no need to crawl.
     async routes() {
       const { $content } = require('@nuxt/content')
       const files = await Promise.all([

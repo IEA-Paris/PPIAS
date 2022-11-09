@@ -41,10 +41,19 @@ export default async function (moduleOptions) {
   // "once" is a dirty way to prevent Nuxt to retrigger the content parsing when we insert new files.
   // TODO alternatives are welcomed
   let once = true
-  const { stdout, stderr } = await exec(
-    "{ git ls-files --others --exclude-standard ; git diff-index --name-only --diff-filter=d HEAD ; } | grep --regexp='[.]md$'"
-  )
-  const changedFiles = stdout
+  let gitDiffed = false
+  try {
+    const { stdout, stderr } = await exec(
+      "{ git ls-files --others --exclude-standard ; git diff-index --name-only --diff-filter=d HEAD ; } | grep --regexp='[.]md$'"
+    )
+    gitDiffed = stdout
+  } catch (error) {
+    console.log('error: ', error)
+  } finally {
+    gitDiffed = ''
+  }
+
+  const changedFiles = gitDiffed
     .split('\n')
     .filter((str) => str)
     .map((str) => str.slice(7))

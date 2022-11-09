@@ -71,6 +71,7 @@
     "graphql-tag": "^2.10.3",
     "jest": "^27.0.5",
     "js-yaml": "^4.1.0",
+    "node-static": "^0.7.11",
     "nuxt-compress": "^5.0.0",
     "nuxt-content-highlight": "^0.1.10",
     "nuxt-jsonld": "^1.4.10",
@@ -79,6 +80,7 @@
     "pdf-lib": "^1.10.0",
     "prettier": "^2.2.1",
     "remark-bibliography": "^1.0.0",
+    "serve": "^14.1.0",
     "sharp": "^0.31.1",
     "vue-eslint-parser": "^7.0.0",
     "vue-jest": "^3.0.4"
