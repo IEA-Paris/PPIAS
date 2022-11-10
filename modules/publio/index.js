@@ -11,7 +11,7 @@ import makeBibliography from './lib/makeBibliography'
 const chalk = require('chalk')
 const defaults = require('./module.defaults')
 export default async function (moduleOptions) {
-  await tsvToArticles()
+  // await tsvToArticles()
   const { nuxt } = this
   const options = Object.assign(
     {},

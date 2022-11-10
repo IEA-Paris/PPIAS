@@ -12,7 +12,7 @@
     <v-list-item-content>
       <v-list-item-title>
         <AuthorOrcidIdBadge
-          v-if="item.social_channels.orcid"
+          v-if="item.social_channels && item.social_channels.orcid"
           :orcid="item.social_channels.orcid"
         ></AuthorOrcidIdBadge>
         <span v-html="formatAuthorsProxy()[0]"></span>

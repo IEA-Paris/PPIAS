@@ -54,7 +54,9 @@
           :playlabel="caption"
           :params="
             (nocontrols ? 'controls=0&' : '') +
-            'modestbranding=2&rel=0&enablejsapi=1'
+            'modestbranding=2&rel=0&enablejsapi=1' +
+            (start ? '&start=' + start : '') +
+            (stop ? '&stop=' + stop : '')
           "
         ></lite-youtube>
         <!--       <iframe
@@ -95,6 +97,16 @@ export default {
     autoplay: {
       type: Boolean,
       default: false,
+    },
+    start: {
+      type: [String, Number],
+      default: '',
+      required: false,
+    },
+    stop: {
+      type: [String, Number],
+      default: '',
+      required: false,
     },
   },
   data() {
