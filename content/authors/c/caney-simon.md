@@ -2,10 +2,10 @@
 active: true
 articles:
   - >-
-    table-ronde-autour-des-thematiques-inegalites-sociales-reactions-face-au-changement-et-gouvernance-et-democratie-
-  - >-
     justice-trusteeship-and-the-transition-to-a-low-carbon-economy-an-integrated-approach
-createdAt: '2022-11-10T08:35:33.255Z'
+  - >-
+    table-ronde-autour-des-thematiques-inegalites-sociales-reactions-face-au-changement-et-gouvernance-et-democratie-
+createdAt: '2022-11-10T08:35:33.259Z'
 exerpt: ''
 firstname: Simon
 is_institution: false
