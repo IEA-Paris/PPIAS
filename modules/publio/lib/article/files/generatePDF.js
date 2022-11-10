@@ -20,13 +20,13 @@ export default async (route, url, meta) => {
       ) */
     )
     const page = await browser.newPage()
-
-    console.log('goin to page')
+    await page.setViewport(
+      // Pixel equivalent of an A4 page with 300dpi
+      { width: 2480, height: 3508, deviceScaleFactor: 1 }
+    )
     await page.goto(`${url.replace(/\/$/, '')}${route.route}`, {
       waitUntil: 'networkidle0',
     })
-    console.log('Page loaded')
-
     /*     if (options.viewport || route.viewport) {
       page.setViewport(
         Object.assign(

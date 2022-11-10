@@ -62,8 +62,6 @@ export default async function (moduleOptions) {
   const extendGeneration = () => {
     if (!once) return // dirty skip to avoid retriggering the build method
 
-    console.log("BUILDING HOOK, Let' rock ! :-) ")
-
     if (media) insertDocuments(media, 'media', ['article_slug', 'caption'])
 
     // Create filters
@@ -137,21 +135,13 @@ export default async function (moduleOptions) {
     })
   })
   // Regular production deployment generation (PROD + SSR ONLY)
-  if (process.env.NODE_ENV === 'production') {
-    nuxt.hook('generate:done', async ({ name }) => {
-      if (!once) return
-      console.log('"GENERATE:DONE" HOOK (PROD + SSR ONLY)')
-      once = false
-      await generateFilesToPrint()
-    })
-  } else {
-    // if we are in dev mode (DEV + SSR ONLY)
-    this.nuxt.hook('ready', (nuxt) => {
-      if (nuxt.name !== 'server' || !once) return
-      console.log('"READY HOOK" HOOK (DEV + SSR ONLY)')
-      once = false
-    })
-  }
+  nuxt.hook('generate:done', async ({ name }) => {
+    if (!once) return
+    console.log('"GENERATE:DONE" HOOK (PROD + SSR ONLY)')
+    once = false
+    await generateFilesToPrint()
+  })
+
   nuxt.hook('content:ready', async (content) => {
     issues = await content('issues', { deep: true })
       // .only(['slug']) //TODO complete with only required fields

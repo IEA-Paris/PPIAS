@@ -1,11 +1,34 @@
+const path = require('path')
 export default async (routesToPrint, fn, nuxt) => {
   try {
     let server
+    // Since we target A4, let's load the related CSS.
+    // I kept the other formats just in case (inherited from https://github.com/ch99q/nuxt-pdf)
     console.log('pdf: Starting nuxt instance ')
-
+    /*     nuxt.options.css.push(path.resolve(__dirname, 'css/a4.css'))
+    nuxt.options.css.push(path.resolve(__dirname, 'css/pdf.css')) */
     // Check if we need to run Nuxt in development mode
     if (process.env.NODE_ENV === 'production') {
-      const handler = require('serve-handler')
+      server = require('node-static')
+
+      //
+      // Create a node-static server instance to serve the './public' folder
+      //
+      const file = new server.Server('./dist')
+
+      require('http')
+        .createServer(function (request, response) {
+          request
+            .addListener('end', function () {
+              //
+              // Serve files!
+              //
+              file.serve(request, response)
+            })
+            .resume()
+        })
+        .listen(3000)
+      /*    const handler = require('serve-handler')
       const http = require('http')
 
       server = await http.createServer((request, response) => {
@@ -13,18 +36,19 @@ export default async (routesToPrint, fn, nuxt) => {
         // More details here: https://github.com/vercel/serve-handler#options
         return handler(request, response, {
           public: 'dist',
+          cleanUrls: true,
           /*     rewrites: [
             {
               source: '/print/:id',
               destination: '/print/:id/index.html',
             },
-          ], */
+          ],
         })
       })
 
       server.listen(3000, () => {
         console.log('Running at http://localhost:3000')
-      })
+      }) */
     }
 
     // Get a ready to use Nuxt instance
