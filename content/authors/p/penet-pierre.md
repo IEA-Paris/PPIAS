@@ -1,8 +1,8 @@
 ---
 active: true
 articles:
-  - introduction
   - discussion
+  - introduction
 createdAt: '2022-11-10T08:35:33.251Z'
 exerpt: ''
 firstname: Pierre

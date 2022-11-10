@@ -240,6 +240,10 @@ td {
   max-width: 100% !important;
   margin-right: 80px !important;
 }
+.nuxt-content.article-body {
+  margin-right: 6mm;
+  margin-left: 0mm;
+}
 .nuxt-content.article-body p,
 .nuxt-content.article-body ul li,
 .csl-bib-body,
