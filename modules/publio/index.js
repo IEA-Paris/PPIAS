@@ -10,7 +10,8 @@ import processArticles from './lib/processArticles'
 import makeBibliography from './lib/makeBibliography'
 const chalk = require('chalk')
 const defaults = require('./module.defaults')
-export default function (moduleOptions) {
+export default async function (moduleOptions) {
+  await tsvToArticles()
   const { nuxt } = this
   const options = Object.assign(
     {},

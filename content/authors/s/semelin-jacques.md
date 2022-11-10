@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 articles:
   - analysing-massacre-to-understand-the-genocidal-process
 createdAt: '2022-10-10T07:36:28.761Z'
@@ -12,6 +12,10 @@ language:
   - null
   - null
 lastname: Semelin
+positions_and_institutions:
+  - institution: CNRS  / Sciences Po, France
+    positions:
+      - ''
 titles_and_institution:
   '0':
     institution: CNRS  / Sciences Po, France

@@ -116,7 +116,7 @@
           >
           <nuxt-content
             :document="item"
-            style="max-width: 650px"
+            style="max-width: 650px; width: 100%"
             class="page a4"
           />
           <div

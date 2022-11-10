@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 articles:
   - >-
     deshumanised-perception-a-psychological-mechanism-that-may-facilitate-human-atrocities
@@ -13,6 +13,10 @@ language:
   - null
   - null
 lastname: Harris
+positions_and_institutions:
+  - institution: University of Leiden, Netherlands
+    positions:
+      - ''
 titles_and_institution:
   '0':
     institution: University of Leiden, Netherlands

@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 articles:
   - sharing-to-communicate-neurophysiological-mechanisms
 createdAt: '2022-10-10T07:36:28.761Z'
@@ -12,6 +12,10 @@ language:
   - null
   - null
 lastname: Fadiga
+positions_and_institutions:
+  - institution: Università degli Studi di Ferrara, Italy
+    positions:
+      - ''
 titles_and_institution:
   '0':
     institution: Università degli Studi di Ferrara, Italy

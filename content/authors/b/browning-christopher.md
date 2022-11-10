@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 articles:
   - the-elusive-holocaust-perpetrator
 createdAt: '2022-10-10T07:36:28.761Z'
@@ -12,6 +12,10 @@ language:
   - null
   - null
 lastname: Browning
+positions_and_institutions:
+  - institution: University of North Carolina, USA
+    positions:
+      - ''
 titles_and_institution:
   '0':
     institution: University of North Carolina, USA

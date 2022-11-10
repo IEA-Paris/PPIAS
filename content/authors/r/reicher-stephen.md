@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 articles:
   - on-obedience-choice-and-accountability-or-why-orders-dont-work
 createdAt: '2022-10-10T07:36:28.761Z'
@@ -12,6 +12,10 @@ language:
   - null
   - null
 lastname: Reicher
+positions_and_institutions:
+  - institution: University of St Andrews, United Kingdom
+    positions:
+      - ''
 titles_and_institution:
   '0':
     institution: University of St Andrews, United Kingdom

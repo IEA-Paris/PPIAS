@@ -370,16 +370,9 @@ export default async (articles, options) => {
     }
 
     let count = 0
-    queue.on('active', () => {
-      console.log(
-        `Working on item #${++count}.  Size: ${queue.size}  Pending: ${
-          queue.pending
-        }`
-      )
-    })
+    queue.on('active', () => {})
     queue.on('completed', (result) => {
       count++
-      console.log('completed', result.article_title)
     })
     queue.on('error', (error) => {
       console.error('error', error)

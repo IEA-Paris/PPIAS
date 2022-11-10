@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 articles:
   - responsibility-and-punishment
 createdAt: '2022-10-10T07:36:28.761Z'
@@ -12,6 +12,10 @@ language:
   - null
   - null
 lastname: Stewart
+positions_and_institutions:
+  - institution: International Criminal Court, Netherlands
+    positions:
+      - ''
 titles_and_institution:
   '0':
     institution: International Criminal Court, Netherlands

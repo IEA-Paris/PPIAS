@@ -14,6 +14,7 @@ export default {
   ssr: true,
   generate: {
     crawler: false,
+    concurrency: 20,
     // TODO double-check that it is necessary to decalre routes:
     // somehow the integrated crawler doesn't do the job of matching dynamic routes.
     // I see 2 possible reasons and probably missed some other ones:
