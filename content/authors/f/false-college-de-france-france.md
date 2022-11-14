@@ -1,8 +1,8 @@
 ---
 active: true
 articles:
-  - syndrome-e-and-plurality-of-perspectives
   - is-empathy-involved-in-perpetrators-behavior
+  - syndrome-e-and-plurality-of-perspectives
 createdAt: '2022-11-10T07:16:25.069Z'
 exerpt: ''
 firstname: Collège de France, France
@@ -13,6 +13,10 @@ language:
   - null
   - null
 lastname: 'FALSE'
+positions_and_institutions:
+  - institution: ''
+    positions:
+      - ''
 titles_and_institution:
   '0':
     institution: ''
