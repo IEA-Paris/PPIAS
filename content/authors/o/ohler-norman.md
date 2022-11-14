@@ -1,9 +1,9 @@
 ---
 active: true
 articles:
+  - brains-on-drugs-lessons-from-the-third-reich
   - >-
     roundtable-1-past-and-present-perpetrators-issues-of-interpretation-and-prevention
-  - brains-on-drugs-lessons-from-the-third-reich
 createdAt: '2022-11-10T08:35:33.259Z'
 exerpt: ''
 firstname: Norman
