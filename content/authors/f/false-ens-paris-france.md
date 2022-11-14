@@ -1,10 +1,10 @@
 ---
 active: true
 articles:
+  - neural-mechanisms-of-rule-compliance-in-humans
   - >-
     to-be-or-not-to-be-charlie-the-impact-of-group-affiliation-on-the-processing-of-others-emitted-social-signals
-  - neural-mechanisms-of-rule-compliance-in-humans
-createdAt: '2022-11-10T07:16:25.073Z'
+createdAt: '2022-11-10T07:16:25.069Z'
 exerpt: ''
 firstname: ENS Paris, France
 is_institution: false

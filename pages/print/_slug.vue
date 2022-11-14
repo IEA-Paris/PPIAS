@@ -216,11 +216,6 @@ export default {
 }
 </script>
 <style lang="scss">
-article.printpanel {
-  width: 210mm !important;
-  margin-left: -2.5cm;
-}
-
 .page-title {
   margin-top: 0 !important;
   padding-top: 0 !important;
@@ -230,9 +225,6 @@ article.printpanel {
 }
 td {
   max-width: 100% !important;
-  margin-right: 80px !important;
-}
-@media print {
 }
 .nuxt-content.article-body p,
 .nuxt-content.article-body ul li,
@@ -302,15 +294,15 @@ td {
   .printpanel {
     overflow: visible !important;
     height: auto !important;
-  }
-  body {
-    margin: 5mm 15mm 15mm 10mm !important;
+    width: 210mm !important;
   }
   @page {
     size: auto; /* auto is the initial value */
-
     /* this affects the margin in the printer settings */
-    margin: 15mm 0mm 15mm 10mm;
+    margin: 5mm 15mm 15mm 10mm;
+  }
+  .printpanel .paging {
+    margin: 0mm 15mm 0mm 10mm;
   }
   table.paging tfoot td {
     height: 1.2in;
