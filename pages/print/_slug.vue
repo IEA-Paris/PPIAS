@@ -218,7 +218,7 @@ export default {
 <style lang="scss">
 article.printpanel {
   width: 210mm !important;
-  padding-left: -2.5cm;
+  margin-left: -2.5cm;
 }
 
 .page-title {
@@ -232,7 +232,7 @@ td {
   max-width: 100% !important;
   margin-right: 80px !important;
 }
-.nuxt-content.article-body {
+@media print {
 }
 .nuxt-content.article-body p,
 .nuxt-content.article-body ul li,
@@ -296,11 +296,22 @@ td {
   white-space: nowrap;
   z-index: 20;
 }
-@page {
-  margin: 2cm 4cm 0cm 1cm;
-}
 
 @media print {
+  body,
+  .printpanel {
+    overflow: visible !important;
+    height: auto !important;
+  }
+  body {
+    margin: 5mm 15mm 15mm 5mm !important;
+  }
+  @page {
+    size: auto; /* auto is the initial value */
+
+    /* this affects the margin in the printer settings */
+    margin: 15mm 0mm 15mm 05mm;
+  }
   table.paging tfoot td {
     height: 1.2in;
   }
@@ -308,41 +319,39 @@ td {
     height: 1.2in;
     width: 100%;
   }
-}
-.article-abstract-frame {
-  border: 1px black solid;
-  padding: 1em;
-  margin-bottom: 1em;
-}
-.v-divider {
-  margin: 0px 1em;
-}
-footer {
-  height: 1.2in;
-}
+  .article-abstract-frame {
+    border: 1px black solid;
+    padding: 1em;
+    margin-bottom: 1em;
+  }
+  .v-divider {
+    margin: 0px 1em;
+  }
+  footer {
+    height: 1.2in;
+  }
 
-header,
-footer {
-  width: 100%;
-  max-width: 800px;
-}
+  header,
+  footer {
+    width: 100%;
+    max-width: 800px;
+  }
 
-header {
-  position: absolute;
-  top: 0;
-  height: 150px;
-}
-.page-number {
-  display: table-footer-group;
-}
-.footer-divider {
-  margin-bottom: 0.5cm;
-}
-.print-footer-text {
-  max-width: 15cm !important;
-}
+  header {
+    position: absolute;
+    top: 0;
+    height: 150px;
+  }
+  .page-number {
+    display: table-footer-group;
+  }
+  .footer-divider {
+    margin-bottom: 0.5cm;
+  }
+  .print-footer-text {
+    max-width: 15cm !important;
+  }
 
-@media print {
   header,
   footer {
     position: fixed;
