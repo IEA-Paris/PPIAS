@@ -1,25 +1,25 @@
 ---
 active: true
 articles:
-  - municipal-energy-transition-in-the-uk
   - cities-citizens-and-social-justice-in-the-energy-transition
-createdAt: '2022-11-10T08:35:33.259Z'
+  - municipal-energy-transition-in-the-uk
+createdAt: '2022-11-10T08:35:33.255Z'
 exerpt: ''
 firstname: Larry
 is_institution: false
 issue:
-  - content/issues/territories-of-energy-transition.md
   - content/issues/justice-climate-transitions.md
+  - content/issues/territories-of-energy-transition.md
 language:
   - null
   - null
 lastname: Reynolds
 positions_and_institutions:
-  - institution: IEA de Paris, France
+  - institution: Paris Institute for Avanced Studies, France
     positions:
       - ''
 years:
-  - 2016
   - 2015
+  - 2016
 
 ---
