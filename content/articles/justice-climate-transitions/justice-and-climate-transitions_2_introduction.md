@@ -1,5 +1,6 @@
 ---
-abstract: Justice and Climate Transitions, Paris IAS,  24-25 September 2015 - Introduction
+abstract: Justice and Climate Transitions, Paris IAS,  24-25 September 2015 - Session
+  1 -  Introduction
 article_title: 'Justice and Climate Transitions : Introduction'
 authors:
 - firstname: 'Jeremy '
@@ -12,7 +13,7 @@ authors:
 date: 2015-09-24T00:00:00.000+00:00
 highlight: false
 issue: content/issues/justice-climate-transitions.md
-needDOI: false
+needDOI: true
 published: true
 start: false
 stop: false
