@@ -218,7 +218,9 @@ export default {
 <style lang="scss">
 article.printpanel {
   width: 210mm !important;
+  padding-left: -2.5cm;
 }
+
 .page-title {
   margin-top: 0 !important;
   padding-top: 0 !important;
@@ -231,8 +233,6 @@ td {
   margin-right: 80px !important;
 }
 .nuxt-content.article-body {
-  margin-right: 6mm;
-  margin-left: 0mm;
 }
 .nuxt-content.article-body p,
 .nuxt-content.article-body ul li,
@@ -313,7 +313,6 @@ td {
   border: 1px black solid;
   padding: 1em;
   margin-bottom: 1em;
-  margin-right: 1.5em;
 }
 .v-divider {
   margin: 0px 1em;

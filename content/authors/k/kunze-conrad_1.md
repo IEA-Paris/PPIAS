@@ -1,9 +1,9 @@
 ---
 active: true
 articles:
-  - renewable-energy-and-new-public-ownership
   - >-
     table-ronde-autour-des-thematiques-inegalites-sociales-reactions-face-au-changement-et-gouvernance-et-democratie-
+  - renewable-energy-and-new-public-ownership
 createdAt: '2022-11-10T08:35:33.255Z'
 exerpt: ''
 firstname: Conrad

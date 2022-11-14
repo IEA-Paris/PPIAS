@@ -136,20 +136,6 @@ $stepper-elevation: 0;
   }
 } */
 @media print {
-  body,
-  .printpanel {
-    overflow: visible !important;
-    height: auto !important;
-  }
-  body {
-    margin: 15mm 15mm 15mm 25mm !important;
-  }
-  @page {
-    size: auto; /* auto is the initial value */
-
-    /* this affects the margin in the printer settings */
-    margin: 15mm 0mm 15mm 25mm;
-  }
 }
 /* 
 .section-title {
