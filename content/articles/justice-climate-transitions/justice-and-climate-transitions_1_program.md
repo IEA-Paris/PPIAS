@@ -12,7 +12,7 @@ date: 2015-09-23T23:00:00.000+00:00
 highlight: false
 issue: content/issues/justice-climate-transitions.md
 needDOI: false
-published: false
+published: true
 start: false
 stop: false
 subissue: false
@@ -29,6 +29,8 @@ The conference was hosted by the Paris IAS and the city of Paris.
 **24th September 2015**
 
 **09h00** -  Welcome of the participants
+
+**Session 1**
 
 **09h15** -  **Jeremy Moss** (University of New South Wales, Sydney) :  Introduction : « Justice and Climate Transitions »
 
@@ -50,11 +52,15 @@ The conference was hosted by the Paris IAS and the city of Paris.
 
 **25th September 2015**
 
+**Session 2**
+
 **09h10** - **Simon Cane**y (Oxford University) : « Justice , Trusteeship and the Transition to a Low Carbon Economy: An Integrated Approach »
 
 **10h25** -  **Fabian Schupper**t (Queen’s University Belfast) : « Risk avoidance through transition, legitimate expectations and issues of justice »
 
 **11h50** - **Larry Reynolds** (Paris Institute for Advanced Studies) : « Cities, Citizens and Social Justice in the Energy Transition »
+
+**Session 3**
 
 **14h15** -  **Gordon Walker** (University of Lancaster) : « Climate justice, energy demand and the right to energy »
 
