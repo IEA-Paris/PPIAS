@@ -1,17 +1,7 @@
 <template>
   <article class="printpanel page pdf" style="background-color: white">
     <header>
-      <v-img
-        src="/ppias.svg"
-        contain
-        alt="Avatar"
-        style="
-          cursor: pointer;
-          width: 120px;
-          height: 120px;
-          border: 3px solid black;
-        "
-      ></v-img>
+      <img src="/icon.png" alt="Avatar" width="100" height="100" />
     </header>
 
     <table class="paging">
@@ -27,7 +17,7 @@
             <div class="article-authors">
               <ArticleAuthorsString :authors="item.authors" :initials="false" />
             </div>
-            <DoiBadge :doi="item.doi"></DoiBadge>
+            <DoiBadge :doi="item.DOI"></DoiBadge>
             <div class="article-label mt-6 mb-3">
               {{ $t('publication-date') }}
             </div>
@@ -315,7 +305,7 @@ td {
     height: 1.2in;
   }
   table.paging thead td {
-    height: 1.8in;
+    height: 1.2in;
     width: 100%;
   }
 }
@@ -323,15 +313,13 @@ td {
   border: 1px black solid;
   padding: 1em;
   margin-bottom: 1em;
+  margin-right: 1.5em;
 }
 .v-divider {
   margin: 0px 1em;
 }
 footer {
   height: 1.2in;
-}
-header {
-  height: 1.5in;
 }
 
 header,
@@ -343,6 +331,7 @@ footer {
 header {
   position: absolute;
   top: 0;
+  height: 150px;
 }
 .page-number {
   display: table-footer-group;

@@ -473,7 +473,7 @@ export default {
     /*
      * Output folder for generated pdf.
      */
-    dir: 'static/pdfs',
+    dir: 'static',
 
     /*
      * Function options for page.pdf([options])

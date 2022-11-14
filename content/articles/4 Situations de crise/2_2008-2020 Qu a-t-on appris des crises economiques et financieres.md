@@ -1,78 +1,82 @@
 ---
-needDOI: true
-issue: content/issues/Agir en temps de crise.md
-date: 2022-04-14T16:00:42Z
-language: French
-published: true
+DOI: 10.5072/zenodo.1129269
+Zid: 1129269
+abstract: >-
+  2008-2020 : Qu'a-t-on appris des crises économiques et financières ? :
+  rencontre du cycle "Agir en temps de crise - 4 Situations de Crise" organisée
+  et animée par Séverine Mathieu, directrice d’études à l’EPHE-PSL, et Saadi
+  Lahlou, directeur de l’IEA de Paris
 article_title: '2008-2020: Qu a-t-on appris des Crises Economiques et Financières ?'
 authors:
-- firstname: 'Marc-Olivier'
-  lastname: Strauss-Kahn
-  titles_and_positions:
-  - titles: []
-    institution: Banque de France, France
-  social_channels:
-    wikipedia: https://fr.wikipedia.org/wiki/Marc-Olivier_Strauss-Kahn
-    linkedin: https://fr.linkedin.com/in/marc-o-strauss-kahn-0310a923
-    twitter: "@MarcStraussKahn"
-    website: ''
-    orcid: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  is_institution: false
-  picture: ''
-  picture_copyright: ''
-- firstname: 'Éric'
-  lastname: Monnet
-  titles_and_positions:
-  - titles: []
-    institution: EHESS, France
-  social_channels:
-    website: https://www.ericmonnet.eu/
-    linkedin: https://fr.linkedin.com/in/eric-monnet-818b744b
-    orcid: 0000-0003-1445-8883
-    google_scholar: https://scholar.google.com/citations?user=7CzHDrkAAAAJ&hl=fr
-    researchgate: https://www.researchgate.net/profile/Eric-Monnet
-    twitter: "@MonnetEric"
-    wikipedia: ''
-    instagram: ''
-    mendeley: ''
-  is_institution: false
-  picture: ''
-  picture_copyright: ''
-- firstname: 'Elizabeth'
-  lastname: Ducottet
-  titles_and_positions:
-  - titles: []
-    institution: groupe Thuasne, France
-  social_channels:
-    twitter: "@EDucottet"
-    website: ''
-    wikipedia: ''
-    orcid: ''
-    linkedin: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  is_institution: false
-  picture: ''
-  picture_copyright: ''
+  - firstname: Marc-Olivier
+    is_institution: false
+    lastname: Strauss-Kahn
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: https://fr.linkedin.com/in/marc-o-strauss-kahn-0310a923
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: '@MarcStraussKahn'
+      website: ''
+      wikipedia: https://fr.wikipedia.org/wiki/Marc-Olivier_Strauss-Kahn
+    titles_and_positions:
+      - institution: Banque de France, France
+        titles: []
+  - firstname: Éric
+    is_institution: false
+    lastname: Monnet
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      google_scholar: https://scholar.google.com/citations?user=7CzHDrkAAAAJ&hl=fr
+      instagram: ''
+      linkedin: https://fr.linkedin.com/in/eric-monnet-818b744b
+      mendeley: ''
+      orcid: 0000-0003-1445-8883
+      researchgate: https://www.researchgate.net/profile/Eric-Monnet
+      twitter: '@MonnetEric'
+      website: https://www.ericmonnet.eu/
+      wikipedia: ''
+    titles_and_positions:
+      - institution: EHESS, France
+        titles: []
+  - firstname: Elizabeth
+    is_institution: false
+    lastname: Ducottet
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: '@EDucottet'
+      website: ''
+      wikipedia: ''
+    titles_and_positions:
+      - institution: groupe Thuasne, France
+        titles: []
+bibliography: ''
 custom_pdf: ''
-abstract: '2008-2020 : Qu''a-t-on appris des crises économiques et financières ? :
-  rencontre du cycle "Agir en temps de crise - 4 Situations de Crise" organisée et
-  animée par Séverine Mathieu, directrice d’études à l’EPHE-PSL, et Saadi Lahlou,
-  directeur de l’IEA de Paris'
-sub-issue: 4 Situations de Crise
+date: 2022-04-14T16:00:42.000Z
+highlight: false
+issue: content/issues/Agir en temps de crise.md
+language: French
+needDOI: true
 picture: ''
 picture_copyright: ''
+published: true
+sub-issue: 4 Situations de Crise
 yt: 63wZu5JOlMU
-highlight: false
-bibliography: ''
 
 ---
+
 La crise dite des subprimes en 2008 a révélé la fragilité persistante du système financier mondial. Elle a fait craindre des faillites de banques en chaîne et un effondrement économique global. Face à cette situation, des instruments inédits ont été mis en place dans l’urgence par les États. Des projets de réforme d’ampleur des systèmes de régulation financière ont alors vu le jour.
 
 Aujourd'hui, peut-on pour autant avoir l’assurance d'avoir tiré toutes les leçons de la crise ?
