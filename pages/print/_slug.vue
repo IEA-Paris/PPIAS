@@ -304,13 +304,13 @@ td {
     height: auto !important;
   }
   body {
-    margin: 5mm 15mm 15mm 5mm !important;
+    margin: 5mm 15mm 15mm 10mm !important;
   }
   @page {
     size: auto; /* auto is the initial value */
 
     /* this affects the margin in the printer settings */
-    margin: 15mm 0mm 15mm 05mm;
+    margin: 15mm 0mm 15mm 10mm;
   }
   table.paging tfoot td {
     height: 1.2in;
