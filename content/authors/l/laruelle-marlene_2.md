@@ -1,9 +1,9 @@
 ---
 active: true
 articles:
+  - mapping-illiberal-production-in-a-russian-context-bottom-up-and-top-down
   - >-
     une-droitisation-des-espaces-politiques-comprendre-la-montee-de-lilliberalisme-et-de-le03nboe0sf2sxtreme-droite
-  - mapping-illiberal-production-in-a-russian-context-bottom-up-and-top-down
   - >-
     une-droitisation-des-espaces-politiques-comprendre-la-montee-de-lilliberalisme-et-de-lextreme-droite
 createdAt: '2022-11-10T08:35:33.255Z'
