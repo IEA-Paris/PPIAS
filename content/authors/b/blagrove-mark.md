@@ -1,8 +1,8 @@
 ---
 active: true
 articles:
-  - dream-appreciation-and-revisiting-dreams-by-artwork
   - the-relation-of-dreaming-to-memory-consolidation-during-sleep
+  - dream-appreciation-and-revisiting-dreams-by-artwork
 createdAt: '2022-11-10T08:35:33.259Z'
 exerpt: ''
 firstname: Mark
