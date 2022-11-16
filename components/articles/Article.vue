@@ -1,20 +1,20 @@
 <template>
   <v-row
     class="transition-swing flex-row-reverse justify-center"
-    :no-gutters="!seeToc || $vuetify.breakpoint.smAndDown"
+    :no-gutters="!showToc || $vuetify.breakpoint.smAndDown"
   >
     <TocDialog
       v-if="$vuetify.breakpoint.smAndDown"
-      v-model="seeToc"
+      v-model="showToc"
       :item="item"
       :currently-active-toc="currentlyActiveToc"
       :toc="item.toc"
       :title="title ? false : item.article_title"
       :custom-pdf="item.custom_pdf"
-      @close="seeToc = false"
+      @close="showToc = false"
     />
     <v-col
-      :cols="seeToc && $vuetify.breakpoint.mdAndUp ? 9 : 12"
+      :cols="showToc && $vuetify.breakpoint.mdAndUp ? 9 : 12"
       class="transition-swing"
     >
       <div
@@ -35,28 +35,30 @@
                   text
                   v-bind="attrs"
                   class="pa-7"
-                  @click="seeToc = !seeToc"
+                  @click="showToc = !showToc"
                   v-on="on"
                 >
                   <v-expand-transition>
-                    <span v-show="title && !seeToc">{{
+                    <span v-show="title && !showToc">{{
                       $t('table-of-content')
                     }}</span>
                   </v-expand-transition>
                   <v-icon>
-                    {{ seeToc ? 'mdi-chevron-left' : 'mdi-chevron-right' }}
+                    {{ showToc ? 'mdi-chevron-left' : 'mdi-chevron-right' }}
                   </v-icon>
                 </v-btn>
               </template>
               <span
                 v-html="
-                  seeToc ? $t('hide-the-left-panel') : $t('show-the-left-panel')
+                  showToc
+                    ? $t('hide-the-left-panel')
+                    : $t('show-the-left-panel')
                 "
               ></span>
             </v-tooltip>
             <v-spacer></v-spacer>
             <span
-              v-if="!seeToc && !title"
+              v-if="!showToc && !title"
               class="transition-swing text-h6 ml-6"
               :class="{
                 ' text-center':
@@ -73,7 +75,7 @@
         </div>
 
         <v-card-text
-          :class="seeToc ? 'align-start' : 'align-center'"
+          :class="showToc ? 'align-start' : 'align-center'"
           class="d-flex flex-column"
           :flat="$vuetify.breakpoint.xs"
         >
@@ -149,9 +151,9 @@
       </div>
     </v-col>
     <v-col
-      v-show="seeToc"
+      v-show="showToc"
       v-if="$vuetify.breakpoint.mdAndUp"
-      :cols="seeToc ? 3 : 1"
+      :cols="showToc ? 3 : 1"
       class="transition-swing"
     >
       <!-- v-if="item.toc.length" -->
@@ -160,7 +162,7 @@
         :active-toc="currentlyActiveToc"
         :title="title ? false : item.article_title"
         :custom-pdf="item.custom_pdf"
-        @close="seeToc = false"
+        @close="showToc = false"
         @click="currentlyActiveToc = $event"
       />
     </v-col>
@@ -180,7 +182,7 @@ export default {
   },
   data() {
     return {
-      seeToc: true,
+      showToc: true,
       currentlyActiveToc: '',
       observer: null,
       observerOptions: {
