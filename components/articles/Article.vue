@@ -1,24 +1,20 @@
 <template>
   <v-row
     class="transition-swing flex-row-reverse justify-center"
-    :no-gutters="!toc || $vuetify.breakpoint.smAndDown"
+    :no-gutters="!seeToc || $vuetify.breakpoint.smAndDown"
   >
     <TocDialog
-      v-if="item.toc.length && $vuetify.breakpoint.smAndDown"
-      v-model="toc"
+      v-if="$vuetify.breakpoint.smAndDown"
+      v-model="seeToc"
       :item="item"
       :currently-active-toc="currentlyActiveToc"
       :toc="item.toc"
       :title="title ? false : item.article_title"
       :custom-pdf="item.custom_pdf"
-      @close="toc = false"
+      @close="seeToc = false"
     />
     <v-col
-      :cols="
-        item.toc && item.toc.length && toc && $vuetify.breakpoint.mdAndUp
-          ? 9
-          : 12
-      "
+      :cols="seeToc && $vuetify.breakpoint.mdAndUp ? 9 : 12"
       class="transition-swing"
     >
       <div
@@ -32,38 +28,35 @@
             class="d-flex align-center pt-3 pb-1 shadower"
             :class="title ? '' : 'shadow'"
           >
-            <v-tooltip
-              v-if="item.toc && item.toc.length && $vuetify.breakpoint.mdAndUp"
-              bottom
-            >
+            <v-tooltip v-if="$vuetify.breakpoint.mdAndUp" bottom>
               <template #activator="{ on, attrs }">
                 <v-btn
                   tile
                   text
                   v-bind="attrs"
                   class="pa-7"
-                  @click="toc = !toc"
+                  @click="seeToc = !seeToc"
                   v-on="on"
                 >
                   <v-expand-transition>
-                    <span v-show="title && !toc">{{
+                    <span v-show="title && !seeToc">{{
                       $t('table-of-content')
                     }}</span>
                   </v-expand-transition>
                   <v-icon>
-                    {{ toc ? 'mdi-chevron-left' : 'mdi-chevron-right' }}
+                    {{ seeToc ? 'mdi-chevron-left' : 'mdi-chevron-right' }}
                   </v-icon>
                 </v-btn>
               </template>
               <span
                 v-html="
-                  toc ? $t('hide-the-left-panel') : $t('show-the-left-panel')
+                  seeToc ? $t('hide-the-left-panel') : $t('show-the-left-panel')
                 "
               ></span>
             </v-tooltip>
             <v-spacer></v-spacer>
             <span
-              v-if="!toc && !title"
+              v-if="!seeToc && !title"
               class="transition-swing text-h6 ml-6"
               :class="{
                 ' text-center':
@@ -80,7 +73,7 @@
         </div>
 
         <v-card-text
-          :class="toc ? 'align-start' : 'align-center'"
+          :class="seeToc ? 'align-start' : 'align-center'"
           class="d-flex flex-column"
           :flat="$vuetify.breakpoint.xs"
         >
@@ -156,18 +149,18 @@
       </div>
     </v-col>
     <v-col
-      v-show="toc"
-      v-if="$vuetify.breakpoint.mdAndUp && item.toc && item.toc.length"
-      :cols="toc ? 3 : 1"
+      v-show="seeToc"
+      v-if="$vuetify.breakpoint.mdAndUp"
+      :cols="seeToc ? 3 : 1"
       class="transition-swing"
     >
+      <!-- v-if="item.toc.length" -->
       <Toc
-        v-if="item.toc.length"
         :toc="item.toc"
         :active-toc="currentlyActiveToc"
         :title="title ? false : item.article_title"
         :custom-pdf="item.custom_pdf"
-        @close="toc = false"
+        @close="seeToc = false"
         @click="currentlyActiveToc = $event"
       />
     </v-col>
@@ -187,7 +180,7 @@ export default {
   },
   data() {
     return {
-      toc: this.item.toc.length,
+      seeToc: true,
       currentlyActiveToc: '',
       observer: null,
       observerOptions: {
