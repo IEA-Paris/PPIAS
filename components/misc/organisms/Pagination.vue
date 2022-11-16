@@ -4,10 +4,12 @@
     <v-btn
       min-width="35"
       height="35"
+      nuxt
       width="35"
       class="mr-2"
       elevation="5"
       :disabled="value === 1"
+      :to="value - 1 > 0 ? `/articles/?page=${value - 1}` : '/articles/'"
       @click="handleClick(value - 1)"
     >
       <v-icon>mdi-chevron-left</v-icon>
@@ -18,12 +20,14 @@
       :key="index"
       min-width="35"
       height="35"
+      nuxt
       width="35"
       class="mr-2"
       elevation="5"
       :color="value === index ? 'black' : 'default'"
       :class="value === index ? 'white--text' : ''"
-      @click="handleClick(value)"
+      :to="index > 0 ? `/articles/?page=${index}` : '/articles/'"
+      @click="handleClick(index)"
     >
       {{ index }}
     </v-btn>
@@ -31,9 +35,11 @@
     <v-btn
       min-width="35"
       height="35"
+      nuxt
       width="35"
       elevation="5"
       :disabled="value === length"
+      :to="`/articles/?page=${value - 1}`"
       @click="handleClick(value + 1)"
     >
       <v-icon>mdi-chevron-right</v-icon>

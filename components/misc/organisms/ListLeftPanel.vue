@@ -242,27 +242,12 @@
         ></v-select>
       </div>
       <div class="text-center">
-        <!-- <v-pagination
-          v-if="numberOfPages > 1"
-          :total-visible="5"
-          color="black"
-          large
-          :value="page || 1"
-          :length="numberOfPages"
-          @input="
-            $store.dispatch('updatePage', { page: $event, type }) &&
-              $vuetify.goTo(0)
-          "
-        ></v-pagination> -->
         <Pagination
           v-if="numberOfPages > 1"
           :total-visible="5"
           :value="page || 1"
           :length="numberOfPages"
-          @input="
-            $store.dispatch('updatePage', { page: $event, type }) &&
-              $vuetify.goTo(0)
-          "
+          @input="handlePagination"
         />
       </div>
     </v-container>
@@ -410,6 +395,10 @@ export default {
   },
   updated() {},
   methods: {
+    handlePagination(page) {
+      this.$store.dispatch('updatePage', { page, type: this.type })
+      this.$vuetify.goTo(0)
+    },
     /*     async updatePage(page) {
       await this.$router.push({
         query: { ...this.$route.query, page },
