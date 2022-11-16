@@ -242,7 +242,7 @@
         ></v-select>
       </div>
       <div class="text-center">
-        <v-pagination
+        <!-- <v-pagination
           v-if="numberOfPages > 1"
           :total-visible="5"
           color="black"
@@ -253,14 +253,28 @@
             $store.dispatch('updatePage', { page: $event, type }) &&
               $vuetify.goTo(0)
           "
-        ></v-pagination>
+        ></v-pagination> -->
+        <Pagination
+          v-if="numberOfPages > 1"
+          :total-visible="5"
+          :value="page || 1"
+          :length="numberOfPages"
+          @input="
+            $store.dispatch('updatePage', { page: $event, type }) &&
+              $vuetify.goTo(0)
+          "
+        />
       </div>
     </v-container>
   </div>
 </template>
 <script>
 import debounce from '~/assets/utils/debounce'
+import Pagination from '~/components/misc/organisms/Pagination'
 export default {
+  components: {
+    Pagination,
+  },
   props: {
     addBtn: {
       type: Boolean,
