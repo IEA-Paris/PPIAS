@@ -10,7 +10,7 @@ fields:
 - name: firstname
   type: text
   config:
-    required: true
+    required: false
   label: Firstname
   showOnly:
     field: is_institution
