@@ -137,20 +137,32 @@
     </table>
     <footer>
       <v-divider class="footer-divider"></v-divider>
-      <small class="print-footer-text">
-        <!-- TODO update with website variable name -->
-        <span class="overline"
-          >&copy; {{ new Date().getFullYear() }} {{ $t('paris-ias') }}</span
-        >
-        - <span v-html="item.article_title"></span> by
-        <span v-html="formatedAuthors"></span> -.
-        {{
-          $t(
-            'this-article-is-available-online-at-env-name-articles-item-slug',
-            [$config.url, item.slug]
-          )
-        }}
-      </small>
+      <div>
+        <small class="print-footer-text">
+          <!-- TODO update with website variable name -->
+          <span class="overline"
+            >&copy; {{ new Date().getFullYear() }} {{ $t('paris-ias') }}</span
+          >
+          - <span v-html="item.article_title"></span> by
+          <span v-html="formatedAuthors"></span> -.
+          {{
+            $t(
+              'this-article-is-available-online-at-env-name-articles-item-slug',
+              [$config.url, item.slug]
+            )
+          }}
+        </small>
+      </div>
+      <div>
+        <small class="print-footer-text">
+          <a
+            href="https://creativecommons.org/licenses/by-nc/4.0/"
+            style="text-decoration: none"
+            >Creative Commons Attribution-NonCommercial 4.0 International Public
+            License (CC BY-NC 4.0)</a
+          >
+        </small>
+      </div>
     </footer>
   </article>
 </template>
