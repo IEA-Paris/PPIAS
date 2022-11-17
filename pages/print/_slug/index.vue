@@ -7,8 +7,8 @@
         alt="Avatar"
         style="
           cursor: pointer;
-          width: 120px;
-          height: 120px;
+          width: 100px;
+          height: 100px;
           border: 3px solid black;
         "
       ></v-img>
@@ -137,39 +137,43 @@
     </table>
     <footer>
       <v-divider class="footer-divider"></v-divider>
-      <div>
-        <small class="print-footer-text">
-          <!-- TODO update with website variable name -->
-          <span class="overline"
-            >&copy; {{ new Date().getFullYear() }} {{ $t('paris-ias') }}</span
-          >
-          - <span v-html="item.article_title"></span> by
-          <span v-html="formatedAuthors"></span> -.
-        </small>
-      </div>
-      <div>
-        <small>
-          {{ $t('freely-available') }}
-          <a :href="articleUrl" style="text-decoration: none">{{
-            articleUrl
-          }}</a>
-        </small>
-      </div>
-      <div>
-        <small>
-          {{ $config.identifier.ISSN }} / &copy; {{ new Date().getFullYear() }}
-          {{ $t('the-authors') }}
-        </small>
-      </div>
-      <div>
-        <small class="print-footer-text">
-          <a
-            href="https://creativecommons.org/licenses/by-nc/4.0/"
-            style="text-decoration: none"
-            >Creative Commons Attribution-NonCommercial 4.0 International Public
-            License (CC BY-NC 4.0)</a
-          >
-        </small>
+      <div class="footer-content">
+        <div>
+          <small class="print-footer-text">
+            <!-- TODO update with website variable name -->
+            <span class="overline"
+              >&copy; {{ new Date().getFullYear() }} {{ $t('paris-ias') }}</span
+            >
+            - <span v-html="item.article_title"></span> by
+            <span v-html="formatedAuthors"></span> -.
+          </small>
+        </div>
+        <div>
+          <small>
+            {{ $t('freely-available') }}
+            <a :href="articleUrl" style="text-decoration: none">{{
+              articleUrl
+            }}</a>
+          </small>
+        </div>
+        <div>
+          <small>
+            {{ $config.identifier.ISSN }} / &copy;
+            {{ new Date().getFullYear() }}
+            {{ $t('the-authors') }}
+          </small>
+        </div>
+        <div>
+          <small class="print-footer-text">
+            <a
+              href="https://creativecommons.org/licenses/by-nc/4.0/"
+              style="text-decoration: none"
+              >Creative Commons Attribution-NonCommercial 4.0 International
+              Public License (CC BY-NC 4.0)</a
+            >
+          </small>
+        </div>
+        <div class="page-number"></div>
       </div>
     </footer>
   </article>
@@ -227,6 +231,7 @@ export default {
   },
   methods: {
     addPageNumbers() {
+      console.log('hello')
       const totalPages = Math.ceil(document.body.scrollHeight / 1123) // 842px A4 pageheight for 72dpi, 1123px A4 pageheight for 96dpi,
       for (let i = 1; i <= totalPages; i++) {
         const pageNumberDiv = document.createElement('div')
@@ -255,7 +260,16 @@ export default {
   size: 210mm 297mm;
 }
 
+@page :first {
+  @bottom-right {
+    content: counter(page);
+  }
+}
+
 @media print {
+  .footer-content {
+    padding: 0 2rem;
+  }
   .page-title {
     margin-top: 0 !important;
     padding-top: 0 !important;
@@ -263,6 +277,10 @@ export default {
 
   .index {
     display: none !important;
+  }
+
+  .nuxt-content {
+    padding: 0 2rem;
   }
 
   .nuxt-content.article-body p,
@@ -324,10 +342,10 @@ export default {
 
   .page-number {
     display: table-footer-group;
-    counter-increment: page;
   }
 
   .page-number:after {
+    counter-increment: page;
     content: 'Page ' counter(page);
     text-align: right;
     white-space: nowrap;

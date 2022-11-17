@@ -73,7 +73,7 @@ export default {
       {
         src: 'https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver',
         body: true,
-      },
+      }
     ],
 
     // Nuxt.js lets you define all default <meta> tags for your application inside nuxt.config.js. Define them using the same head property:
