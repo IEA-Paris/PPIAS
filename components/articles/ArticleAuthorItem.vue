@@ -24,7 +24,8 @@
 </template>
 <script>
 import { formatAuthors, highlight } from '~/assets/utils/transforms'
-import slugify from '~/assets/utils/slugify'
+import { getAuthorSlug } from '~/assets/utils/slugify'
+
 export default {
   props: {
     item: {
@@ -34,12 +35,7 @@ export default {
   },
   data() {
     return {
-      path: slugify(
-        this.item.lastname +
-          (this.item.firstname && this.item.firstname.length
-            ? '_' + this.item.firstname || ''
-            : '')
-      ),
+      path: getAuthorSlug(this.item),
     }
   },
   computed: {},

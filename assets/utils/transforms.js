@@ -1,4 +1,5 @@
 import stopWords from './stopWords'
+import { getAuthorSlug } from './slugify'
 
 export const getKey = (id, key) => {
   let selector
@@ -56,10 +57,11 @@ export const formatAuthors = (
   authors = false,
   $t,
   full = false,
-  initials = true
+  initials = true,
+  url
 ) => {
   const format = (author) => {
-    const name =
+    let name =
       // yup, you gotta love ternaries
       author.lastname.replace(' ', '&nbsp;').trim() +
       (author.is_institution
@@ -83,6 +85,9 @@ export const formatAuthors = (
         author?.positions_and_institutions[0] &&
         author.positions_and_institutions[0]?.institution) ||
       ''
+
+    const slug = getAuthorSlug(author)
+    name = `<a href="${url}/authors/${slug}" style="text-decoration: none; color: inherit;">${name}</a>`
     return full && institution.length
       ? name +
           ` - <i>${institution}</i>

@@ -1,6 +1,6 @@
 // taken from https://gist.github.com/codeguy/6684588
 
-export default (str) => {
+const slugify = (str) => {
   str = str.replace(/^\s+|\s+$/g, '').trim() // trim
   str = str.toLowerCase()
 
@@ -18,3 +18,13 @@ export default (str) => {
 
   return str
 }
+
+export const getAuthorSlug = (author) =>
+  slugify(
+    author.lastname +
+      (author.firstname && author.firstname.length
+        ? '_' + author.firstname || ''
+        : '')
+  )
+
+export default slugify

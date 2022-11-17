@@ -1,6 +1,8 @@
 import EventEmitter from 'events'
 import filters from './assets/generated/filters'
 import config from './config.js'
+import { writePrintRoutes } from './tools/lib/contentUtilities.js'
+
 EventEmitter.defaultMaxListeners = 20
 export default {
   env: { config },
@@ -213,9 +215,63 @@ export default {
     '@nuxtjs/ackee',
     '@nuxtjs/composition-api/module',
     // https://github.com/ch99q/nuxt-pdf
-    /*     '~/modules/nuxt-pdf', */
+    '~/modules/nuxt-pdf',
     '~/modules/publio',
   ],
+
+  pdf: {
+    /*
+     * Output folder for generated pdf.
+     */
+    dir: 'static',
+
+    /*
+     * Function options for page.pdf([options])
+     * Read more: https://pptr.dev/#?product=Puppeteer&version=v2.0.0&show=api-pagepdfoptions
+     */
+    pdf: {
+      // Change the format of the pdfs.
+      format: 'A4', // This is optional
+      printBackground: true, // Include background in pdf.
+    },
+
+    /*
+     * Function options for page.setViewport([options])
+     * Read more: https://pptr.dev/#?product=Puppeteer&version=v2.0.0&show=api-pagesetviewportviewport
+     */
+    viewport: {
+      // override the default viewport
+      width: 2048,
+      height: 3508,
+    },
+
+    /*
+     * Enable i18n support.
+    // TODO: reactivate
+     */
+    i18n: false,
+
+    /*
+     * Add options to the puppeteer launch.
+     * Read more: https://pptr.dev/#?product=Puppeteer&version=v2.0.0&show=api-puppeteerlaunchoptions
+     */
+    /*     puppeteer: {
+      // Puppeteer options here... E.g. env: {}
+    }, */
+
+    /*
+     * PDF Meta configuration. (inspired by vue-meta)
+     */
+    meta: {
+      title: '%s',
+      titleTemplate: 'PIAS ─ %s',
+    },
+
+    /*
+     * PDF generation routes. (expanding nuxt.generate)
+     */
+    routes: async () => await writePrintRoutes(),
+  },
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [

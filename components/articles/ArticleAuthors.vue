@@ -19,6 +19,7 @@
 </template>
 <script>
 import slugify from '~/assets/utils/slugify'
+
 export default {
   props: {
     item: {

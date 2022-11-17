@@ -6,6 +6,7 @@
 </template>
 <script>
 import { formatAuthors, highlight } from '~/assets/utils/transforms'
+
 export default {
   props: {
     authors: {
@@ -36,7 +37,13 @@ export default {
   methods: {
     formatAuthorsProxy() {
       return highlight(
-        formatAuthors(this.authors, this.$i18n.$t, this.full, this.initials),
+        formatAuthors(
+          this.authors,
+          this.$i18n.$t,
+          this.full,
+          this.initials,
+          this.$config.url
+        ),
         this.$store.state.articles.search || ''
       )
     },
