@@ -156,6 +156,12 @@
         </small>
       </div>
       <div>
+        <small>
+          {{ $config.identifier.ISSN }} / &copy; {{ new Date().getFullYear() }}
+          {{ $t('the-authors') }}
+        </small>
+      </div>
+      <div>
         <small class="print-footer-text">
           <a
             href="https://creativecommons.org/licenses/by-nc/4.0/"
