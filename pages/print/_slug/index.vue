@@ -145,12 +145,14 @@
           >
           - <span v-html="item.article_title"></span> by
           <span v-html="formatedAuthors"></span> -.
-          {{
-            $t(
-              'this-article-is-available-online-at-env-name-articles-item-slug',
-              [$config.url, item.slug]
-            )
-          }}
+        </small>
+      </div>
+      <div>
+        <small>
+          {{ $t('freely-available') }}
+          <a :href="articleUrl" style="text-decoration: none">{{
+            articleUrl
+          }}</a>
         </small>
       </div>
       <div>
@@ -200,6 +202,9 @@ export default {
     this.$store.commit('setLoading', false)
   }, */
   computed: {
+    articleUrl() {
+      return `${this.$config.url}/articles/${this.item.slug}`
+    },
     formatedAuthors() {
       return this.item
         ? formatAuthors(this.item.authors, this.$i18n.$t, true)
