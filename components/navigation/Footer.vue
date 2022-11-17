@@ -58,7 +58,7 @@
                   <v-list-item-content>
                     <v-list-item-title
                       class="text-uppercase text-button"
-                      v-text="$t('about')"
+                      v-text="$t('about-us')"
                     ></v-list-item-title>
                   </v-list-item-content>
                 </v-list-item>

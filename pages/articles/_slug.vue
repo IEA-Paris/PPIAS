@@ -6,7 +6,7 @@
         <v-divider></v-divider>
         <v-expansion-panel-header color="rgb(249, 249, 249)">
           <div class="article_cat">
-            {{ $t('summary') }}
+            {{ $t('about') }}
           </div>
         </v-expansion-panel-header>
         <v-divider></v-divider>
