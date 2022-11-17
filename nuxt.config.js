@@ -13,37 +13,38 @@ export default {
   ssr: true,
   generate: {
     dir: 'dist',
-    crawler: true,
+    crawler: false,
     // default concurrency is 500 afaik. Considering the RAM cost of each, it would require way too much memory.
     // TODO check and time different values to come up with the best compromise between required memory (in free tier) and execution time
     concurrency: 20,
+    // interval: 6000,
     // Explicit declaration of the routes is necessary since
     // Nuxt crawler can't follow all the print routes (besides it doesn't follow vuetify pagination component links).
     // But no sweat, we know what to generate, no need to crawl.
-    // async routes() {
-    //   const { $content } = require('@nuxt/content')
-    //   const files = await Promise.all([
-    //     '/articles',
-    //     '/media',
-    //     '/authors',
-    //     ...(
-    //       await $content('articles', { deep: true })
-    //         .where({ published: true })
-    //         .only(['slug'])
-    //         .fetch()
-    //     ).map((file) => '/articles/' + file.slug),
-    //     ...(
-    //       await $content('authors', { deep: true })
-    //         .where({ active: true })
-    //         .only(['slug'])
-    //         .fetch()
-    //     ).map((file) => '/authors/' + file.slug),
-    //     ...(
-    //       await $content('issues', { deep: true }).only(['slug']).fetch()
-    //     ).map((file) => '/issue/' + file.slug),
-    //   ])
-    //   return files
-    // },
+    async routes() {
+      const { $content } = require('@nuxt/content')
+      const files = await Promise.all([
+        '/articles',
+        '/media',
+        '/authors',
+        ...(
+          await $content('articles', { deep: true })
+            .where({ published: true })
+            .only(['slug'])
+            .fetch()
+        ).map((file) => '/articles/' + file.slug),
+        ...(
+          await $content('authors', { deep: true })
+            .where({ active: true })
+            .only(['slug'])
+            .fetch()
+        ).map((file) => '/authors/' + file.slug),
+        ...(
+          await $content('issues', { deep: true }).only(['slug']).fetch()
+        ).map((file) => '/issue/' + file.slug),
+      ])
+      return files
+    },
   },
   /* Global page headers: https://go.nuxtjs.dev/c onfig-head
   
