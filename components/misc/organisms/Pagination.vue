@@ -16,15 +16,16 @@
     <v-btn
       v-for="index in length"
       :key="index"
+      light
       min-width="35"
       height="35"
-      nuxt
       width="35"
       class="mr-2"
       elevation="5"
-      :color="value === index ? 'black' : 'default'"
+      :color="value === index ? 'black' : 'white'"
       :class="value === index ? 'white--text' : ''"
-      :to="index > 1 ? `/articles/?page=${index}` : '/articles/'"
+      :href="index > 1 ? `/articles/?page=${index}` : '/articles/'"
+      nuxt
       @click.stop="handleClick(index)"
     >
       {{ index }}
