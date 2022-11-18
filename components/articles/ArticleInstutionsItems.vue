@@ -8,7 +8,7 @@
         <v-list-item-subtitle
           v-for="(institution, index) in institutions"
           :key="index"
-          v-html="getFormatedInstitution({ institution, index })"
+          v-html="institution"
         ></v-list-item-subtitle>
       </v-list-item-title>
     </v-list-item-content>
@@ -21,11 +21,6 @@ export default {
     institutions: {
       required: true,
       type: Array,
-    },
-  },
-  methods: {
-    getFormatedInstitution({ institution, index }) {
-      return `<sup>${index}</sup>${institution}`
     },
   },
 }

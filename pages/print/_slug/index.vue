@@ -25,7 +25,11 @@
           <td>
             <div class="page-title" v-html="item.article_title"></div>
             <div class="article-authors">
-              <ArticleAuthorsString :authors="item.authors" :initials="false" />
+              <ArticleAuthorsString
+                :authors="item.authors"
+                :initials="false"
+                show-institution
+              />
             </div>
             <DoiBadge :doi="item.doi"></DoiBadge>
             <div class="article-label mt-6 mb-3">
@@ -323,8 +327,8 @@ export default {
 
   .article-authors {
     padding: 1em 0;
-    font-size: 1.3rem;
     font-family: 'Open sans', sans-serif;
+    width: 100%;
   }
 
   .article-abstract {
