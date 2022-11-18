@@ -111,6 +111,9 @@
                 {{ item.abstract }}
               </div>
             </div>
+            <div v-if="item.toCite && item.toCite.apa" class="to-cite-wrapper">
+              <div class="to-cite" v-html="item.toCite.apa"></div>
+            </div>
             <nuxt-content :document="item" class="article-body" />
             <div
               v-if="item.bibliography && item.bibliography.length"
@@ -271,9 +274,21 @@ export default {
 }
 
 @media print {
+  .to-cite-wrapper {
+    .to-cite > .csl-bib-body > .csl-entry {
+      font-size: 0.8em;
+      line-height: 1.2em;
+    }
+    border: 1px #000 solid;
+    padding: 1em;
+    margin-bottom: 1em;
+    font-size: 0.8em;
+  }
+
   .footer-content {
     padding: 0 2rem;
   }
+
   .page-title {
     margin-top: 0 !important;
     padding-top: 0 !important;
