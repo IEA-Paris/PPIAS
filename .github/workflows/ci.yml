@@ -2,6 +2,11 @@
 
 name: ci
 
+# Cancel previous runs to avoid wasting resources
+concurrency:
+  group: ${{ github.workflow }} # The name of the workflow. If the workflow file doesn't specify a name, the value of this property is the full path of the workflow file in the repository.
+  cancel-in-progress: true
+
 on:
   workflow_dispatch:
     inputs:
