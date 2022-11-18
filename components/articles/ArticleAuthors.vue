@@ -56,31 +56,44 @@ export default {
       // Example:
       // {
       //   "institutions": ['institution1', 'institution2'],
-      //   "authors": ['<a href="...">author1 <sup>0</sup></a>', '<a href="...">author2<sup>1</sup></a>']
+      //   "authors": ['<a href="...">author1 <sup>0</sup><sup>1</sup>.</a>', '<a href="...">author2<sup>1</sup></a>']
       // }
 
       const institutions = []
       const authors = []
-      this.item.authors.forEach((author) => {
-        const highlightedInstitution = this.getFormatedInstitution(
-          author.positions_and_institutions
-        )
-        let indexInstitution = institutions.findIndex(
-          (i) => i.name === author.institution
-        )
-        if (indexInstitution === -1) {
-          institutions.push(highlightedInstitution)
-          indexInstitution = institutions.length - 1
-        }
 
-        authors.push(this.getFormatedAuthors(author, indexInstitution))
+      this.item.authors.forEach((author) => {
+        const authorsIndexInstutions = []
+
+        author.positions_and_institutions.forEach((positionAndInstitution) => {
+          // get all institutions
+
+          const highlightedInstitution = this.getFormatedInstitution(
+            positionAndInstitution
+          )
+          // get the index of the institution if it already exists
+          let indexInstitution = institutions.findIndex(
+            (institution) =>
+              institution.toLowerCase() === highlightedInstitution.toLowerCase()
+          )
+          // if not, add it to the institutions array
+          if (indexInstitution === -1) {
+            institutions.push(highlightedInstitution)
+            indexInstitution = institutions.length - 1
+          }
+          // add the index of the institution to the author
+          authorsIndexInstutions.push(indexInstitution)
+        })
+
+        // format the author with the institutions with exponential index of the institution
+        authors.push(this.getFormatedAuthors(author, authorsIndexInstutions))
       })
       return { institutions, authors }
     },
   },
   mounted() {},
   methods: {
-    getFormatedAuthors(author, institutionId) {
+    getFormatedAuthors(author, institutionsIds) {
       return highlight(
         formatAuthors(
           [author],
@@ -88,7 +101,7 @@ export default {
           false,
           false,
           this.$config.url,
-          institutionId
+          institutionsIds
         ),
         this.$store.state.articles.search || ''
       )
@@ -96,8 +109,8 @@ export default {
     getFormatedInstitution(positionsAndInstitutions) {
       return highlight(
         (positionsAndInstitutions &&
-          positionsAndInstitutions[0] &&
-          positionsAndInstitutions[0]?.institution) ||
+          positionsAndInstitutions &&
+          positionsAndInstitutions?.institution) ||
           '',
         this.$store.state.articles.search || ''
       )

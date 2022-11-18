@@ -59,7 +59,7 @@ export const formatAuthors = (
   full = false,
   initials = true,
   url = '',
-  instutionId = ''
+  institutionsIds = []
 ) => {
   const format = (author) => {
     let name =
@@ -88,7 +88,9 @@ export const formatAuthors = (
       ''
 
     const slug = getAuthorSlug(author)
-    const instutionElmt = `<sup>${instutionId}</sup>`
+    const instutionElmt = institutionsIds
+      .map((instutionId) => `<sup>${instutionId}</sup>`)
+      .join('')
     name = `<a href="${url}/authors/${slug}" style="text-decoration: none; color: inherit;">${name}${instutionElmt}</a>`
     return full && institution.length
       ? name +
