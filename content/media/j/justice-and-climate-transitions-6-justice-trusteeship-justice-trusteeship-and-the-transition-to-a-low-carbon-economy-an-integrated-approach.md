@@ -1,6 +1,5 @@
 ---
-article_slug: >-
-  justice-trusteeship-and-the-transition-to-a-low-carbon-economy-an-integrated-approach
+article_slug: justice-and-climate-transitions_6_justice-trusteeship
 caption: >-
   Justice, Trusteeship and the Transition to a Low Carbon Economy: An integrated
   Approach
@@ -9,6 +8,7 @@ highlight: false
 id: 5RCeDpr6BmI
 index: 0
 issue: content/issues/justice-climate-transitions.md
+language: English
 type: youtube
 years: 2015
 

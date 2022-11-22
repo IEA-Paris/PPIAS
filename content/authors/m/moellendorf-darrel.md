@@ -3,6 +3,7 @@ active: true
 articles:
   - can-dangerous-climate-change-be-avoided-
   - justice-and-climate-transitions_4_can-dangerous-climate-change-be-avoided-
+  - justice-and-climate-transitions_5_table-ronde
 createdAt: '2022-11-10T08:35:33.255Z'
 exerpt: ''
 firstname: Darrel

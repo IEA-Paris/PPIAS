@@ -9,6 +9,7 @@ articles:
   - the-brains-that-pull-the-triggers-syndrome-e-2017
   - >-
     roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
+  - the-brains-that-pull-the-triggers_2_what-is-syndrome-e
 createdAt: '2022-10-10T07:36:28.761Z'
 exerpt: ''
 firstname: Itzhak
@@ -18,6 +19,7 @@ issue:
   - content/issues/sleep-and-memory.md
 language:
   - null
+  - English
   - null
 lastname: Fried
 positions_and_institutions:
@@ -29,6 +31,11 @@ titles_and_institution:
     institution: UCLA, USA / Université de Tel-Aviv, Israël
     titles:
       - ''
+titles_and_institutions:
+  '0':
+    institution: Paris Institute for Advanced Study, France
+  '1':
+    institution: University of California Los Angeles, USA
 years:
   - null
   - 2019
