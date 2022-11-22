@@ -73,7 +73,7 @@ export default {
       {
         src: 'https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver',
         body: true,
-      }
+      },
     ],
 
     // Nuxt.js lets you define all default <meta> tags for your application inside nuxt.config.js. Define them using the same head property:
@@ -233,6 +233,14 @@ export default {
       // Change the format of the pdfs.
       format: 'A4', // This is optional
       printBackground: true, // Include background in pdf.
+      displayHeaderFooter: true,
+      footerTemplate: `
+        <div style="z-index: 1000; width: 100%; font-size: 8px;padding: 5px 5px 0; position: relative;">
+          <div style="position: absolute; right: 5px; top: 5px;">
+            <span class="pageNumber"></span> of <span class="totalPages"></span>
+          </div>
+        </div>`,
+      margin: { bottom: '70px' },
     },
 
     /*

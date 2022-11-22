@@ -47,6 +47,14 @@ export default async (route, url, meta) => {
         {
           /*  ...options.pdf, */
           ...route.pdf,
+          displayHeaderFooter: true,
+          footerTemplate: `
+            <div style="z-index: 1000; width: 100%; font-size: 8px;padding: 5px 5px 0; position: relative;">
+              <div style="position: absolute; right: 5px; top: 5px;">
+                <span class="pageNumber"></span> of <span class="totalPages"></span>
+              </div>
+            </div>`,
+          margin: { bottom: '70px' },
         }
       )
     )

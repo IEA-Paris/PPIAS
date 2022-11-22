@@ -142,7 +142,7 @@
         </tr>
       </tfoot>
     </table>
-    <footer>
+    <footer id="footer">
       <v-divider class="footer-divider"></v-divider>
       <div class="footer-content">
         <div>
@@ -180,7 +180,6 @@
             >
           </small>
         </div>
-        <div class="page-number"></div>
       </div>
     </footer>
   </article>
@@ -228,52 +227,17 @@ export default {
         : ''
     },
   },
-  destroyed() {
-    if (window) window.removeEventListener('onbeforeprint', this.keyDown)
-  },
-  mounted() {
-    console.log('route', this.$route.params.slug)
-    console.log(this.item)
-    if (window) window.addEventListener('onbeforeprint', this.addPageNumbers)
-  },
-  methods: {
-    addPageNumbers() {
-      console.log('hello')
-      const totalPages = Math.ceil(document.body.scrollHeight / 1123) // 842px A4 pageheight for 72dpi, 1123px A4 pageheight for 96dpi,
-      for (let i = 1; i <= totalPages; i++) {
-        const pageNumberDiv = document.createElement('div')
-        const pageNumber = document.createTextNode(
-          'Page ' + i + ' of ' + totalPages
-        )
-        pageNumberDiv.style.position = 'absolute'
-        pageNumberDiv.style.top = 'calc((' + i + ' * (297mm - 0.5px)) - 440px)' // 297mm A4 pageheight; 0,5px unknown needed necessary correction value; additional wanted 40px margin from bottom(own element height included)
-        pageNumberDiv.style.height = '16px'
-        pageNumberDiv.appendChild(pageNumber)
-        document.body.insertBefore(
-          pageNumberDiv,
-          document.getElementById('content')
-        )
-        pageNumberDiv.style.left =
-          'calc(100% - (' + pageNumberDiv.offsetWidth + 'px + 280px))'
-      }
-    },
-  },
 }
 </script>
 <style lang="scss">
-@page {
-  margin: 0;
-  format: A4;
-  size: 210mm 297mm;
-}
-
-@page :first {
-  @bottom-right {
-    content: counter(page);
-  }
-}
-
 @media print {
+  @page {
+    margin: 0;
+    format: A4;
+    size: 210mm 297mm;
+    margin-bottom: 1.5rem; // for page numbers
+  }
+
   .to-cite-wrapper {
     .to-cite > .csl-bib-body > .csl-entry {
       font-size: 0.8em;
@@ -357,18 +321,6 @@ export default {
     margin-top: 2em;
     margin-bottom: 0.6em;
     color: #252525;
-  }
-
-  .page-number {
-    display: table-footer-group;
-  }
-
-  .page-number:after {
-    counter-increment: page;
-    content: 'Page ' counter(page);
-    text-align: right;
-    white-space: nowrap;
-    z-index: 20;
   }
 
   html,
