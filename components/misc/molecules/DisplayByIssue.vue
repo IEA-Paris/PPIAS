@@ -112,4 +112,3 @@ export default {
   font-family: 'Bodoni Moda', sans-serif !important;
 }
 </style>
-,

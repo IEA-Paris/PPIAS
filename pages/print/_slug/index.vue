@@ -157,6 +157,12 @@
         </div>
         <div>
           <small>
+            {{ item.years }} / ?Numéro d'issue? - {{ nameIssue }} - Article
+            No.{{ articleNumber }}.
+          </small>
+        </div>
+        <div>
+          <small>
             {{ $t('freely-available') }}
             <a :href="articleUrl" style="text-decoration: none">{{
               articleUrl
@@ -198,8 +204,38 @@ export default {
         .fetch()
     )[0]
 
+    const dirArticle = item.dir.slice(9)
+    let articleNumber = 1
+
+    if (dirArticle.length > 1) {
+      articleNumber = (
+        await $content('articles', { deep: true })
+          .where({
+            dir: { $contains: item.dir.split('/').at(-1) },
+          })
+          .only(['date', 'slug'])
+          .fetch()
+      )
+        .sort((a, b) => {
+          return new Date(b.date) - new Date(a.date)
+        })
+        .findIndex((article) => article.slug === item.slug)
+    }
+
+    const nameIssue = item.issue.slice(15, -3)
+    const issue = (
+      await $content('issues', { deep: true })
+        .where({
+          slug: nameIssue,
+        })
+        .fetch()
+    )[0]
+
     return {
       item,
+      issue,
+      nameIssue,
+      articleNumber,
     }
   },
   data() {
@@ -308,6 +344,7 @@ export default {
     padding: 1em 0;
     font-family: 'Open sans', sans-serif;
     width: 100%;
+    height: 100%;
   }
 
   .article-abstract {
