@@ -15,14 +15,11 @@ yt: false
 language: English
 
 ---
-The transformation of groups of previously nonviolent individuals into repetitive killers of  
-defenseless members of society has been a recurring phenomenon throughout history. This  
-apparent transition of large numbers of so called “psychologically intact”, “ordinary” individuals, to perpetrators of extreme atrocities is one of the most striking variants of human behavior, but often appear incomprehensible to victims and bystanders and in retrospect even to the perpetrators themselves and to society in general.
+The transformation of groups of previously nonviolent individuals into repetitive killers of defenseless members of society has been a recurring phenomenon throughout history. This apparent transition of large numbers of so called “psychologically intact”, “ordinary” individuals, to perpetrators of extreme atrocities is one of the most striking variants of human behavior, but often appear incomprehensible to victims and bystanders and in retrospect even to the perpetrators themselves and to society in general.
 
 This transition is characterized by a set of symptoms and signs for which a common syndrome has been proposed, Syndrome E (Fried, Lancet, 1997). The purpose of such designation is not to medicalize this form of human behavior, but to provide a framework for future discussion and multidisciplinary discourse and for potential insights that might lead to early detection and prevention. Individuals expressing the syndrome show obsessive ideation, compulsive repetition, rapid desensitization to violence, diminished affective reactivity, hyperarousal, group contagion, and failure to adapt to changes in stimulus-reinforcement associations. A pathophysiological model—“cognitive fracture”—was hypothesized, where hyperaroused medial prefrontal cortices tonically inhibit the amygdala and are no longer regulated by visceral and somatic homeostatic controls ordinarily supplied by subcortical systems. Thus, the syndrome is a product of neocortical development rather than the manifestation of a disinhibited primitive brain.
 
-The Brains that Pull the Triggers, a special conference under the auspices of the Paris Institute for Advanced Studies, will take place at the Hotel de Lauzun in Paris and will bring  
-together scientists and scholars from the human, social and brain sciences along with guests from literature, politics, and law to bear upon this tragic invariant of the human condition.
+The Brains that Pull the Triggers, a special conference under the auspices of the Paris Institute for Advanced Studies, will take place at the Hotel de Lauzun in Paris and will bring together scientists and scholars from the human, social and brain sciences along with guests from literature, politics, and law to bear upon this tragic invariant of the human condition.
 
 The central focus of the conference is not the victims of atrocities but the Perpetrators carrying out these acts. The aim is to increase our understanding of the Perpetrator’s mind, and thus inevitably of the brain mechanisms which pull the triggers and make this most extreme and disastrous of human behavior possible. The hope is that such understanding will be useful and help the human and social sciences address this problem.
 
