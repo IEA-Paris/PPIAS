@@ -1,6 +1,6 @@
 ---
 abstract: The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
-  09-10 May 2016
+  09-10 May 2016 - Session 1 - Empathy and Dehumanization
 article_title: 'Intergroup Empathy and Dehumanizations: Consequences, Neural Basis,
   Intervention'
 authors:
