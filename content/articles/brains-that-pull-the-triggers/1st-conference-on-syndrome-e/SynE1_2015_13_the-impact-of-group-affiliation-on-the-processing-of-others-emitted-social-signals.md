@@ -2,7 +2,8 @@
 abstract: 'The Brains that pull the Triggers. 1st Conference on Syndrome E, Paris
   IAS, 28-29 April 2015 - Session 4 - The Individual and the Group: Mechanisms of
   Group Contagion'
-article_title: Group Membership Prejudices Early Neural Processing of Emotions
+article_title: To Be or not to Be Charlie? The Impact of Group Affiliation on the
+  Processing of others' Emitted Social Signals
 authors:
 - firstname: 'Julie '
   is_institution: false
