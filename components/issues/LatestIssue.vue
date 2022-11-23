@@ -30,7 +30,7 @@
         {{ issue.title }}
       </div>
       <ArticlesListItemMobile
-        v-for="(article, index) in articles.slice(0, 3)"
+        v-for="(article, index) in articles"
         v-bind="$attrs"
         :key="index"
         :index="index"

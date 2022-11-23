@@ -56,7 +56,6 @@ export default {
   beforeCreate() {},
   methods: {
     blur() {
-      console.log('BLUR')
       this.$refs[this.type + this.filter].blur()
     },
   },

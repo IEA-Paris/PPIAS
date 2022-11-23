@@ -255,11 +255,7 @@
 </template>
 <script>
 import debounce from '~/assets/utils/debounce'
-import Pagination from '~/components/misc/organisms/Pagination'
 export default {
-  components: {
-    Pagination,
-  },
   props: {
     addBtn: {
       type: Boolean,

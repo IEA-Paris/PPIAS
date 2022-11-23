@@ -6,7 +6,8 @@
       height="35"
       width="35"
       class="mr-2"
-      elevation="5"
+      text
+      outlined
       :disabled="value === 1"
       @click="handleClick(value - 1)"
     >
@@ -16,17 +17,18 @@
     <v-btn
       v-for="index in length"
       :key="index"
-      light
       min-width="35"
       height="35"
       width="35"
-      class="mr-2"
-      elevation="5"
-      :color="value === index ? 'black' : 'white'"
-      :class="value === index ? 'white--text' : ''"
-      :href="index > 1 ? `/articles/?page=${index}` : '/articles/'"
+      text
+      :plain="value !== index"
+      tile
+      outlined
+      :class="{ selected: value === index }"
+      class="mr-2 paginate-btn"
+      :to="index > 1 ? `/articles/?page=${index}` : '/articles/'"
       nuxt
-      @click.stop="handleClick(index)"
+      @click="handleClick(index)"
     >
       {{ index }}
     </v-btn>
@@ -35,7 +37,8 @@
       min-width="35"
       height="35"
       width="35"
-      elevation="5"
+      text
+      outlined
       :disabled="value === length"
       @click="handleClick(value + 1)"
     >
@@ -70,3 +73,9 @@ export default {
   },
 }
 </script>
+<style>
+.paginate-btn.selected {
+  background-color: black;
+  color: white;
+}
+</style>
