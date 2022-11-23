@@ -9,11 +9,11 @@
       <v-col class="transition-swing" cols="12">
         <v-row justify="center">
           <v-col cols="12" md="8" lg="6">
-            <div
+            <h1
               class="main-title transition-swing"
               :class="$store.state.scrolled ? 'mb-16 mt-8' : 'mb-8 mt-2'"
               v-html="$config.full_name_html"
-            ></div>
+            ></h1>
             <nuxt-content :document="page" />
           </v-col>
         </v-row>

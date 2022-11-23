@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="mt-2">
     <!-- Left side -->
     <v-btn
       min-width="35"
