@@ -74,11 +74,8 @@
   </v-dialog>
 </template>
 <script>
-/* import AddToCalendar from 'vue-add-to-calendar' */
 export default {
-  components: {
-    /*    AddToCalendar, */
-  },
+  /*    AddToCalendar, */
   props: {
     dialog: {
       type: Boolean,

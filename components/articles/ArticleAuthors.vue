@@ -26,13 +26,9 @@
   </div>
 </template>
 <script>
-import ArticleInstutionsItems from '~/components/articles/ArticleInstutionsItems'
 import ArticleAuthorsMixin from '~/mixins/ArticleAuthors'
 
 export default {
-  components: {
-    ArticleInstutionsItems,
-  },
   mixins: [ArticleAuthorsMixin],
   props: {
     item: {
