@@ -1,14 +1,10 @@
 ---
 active: true
 articles:
-  - Memorandum_10b
   - Memorandum_10
-  - Memorandum 12
-  - Memorandum 13
-  - Memorandum 14
-createdAt: '2022-09-21T08:08:29.832Z'
+createdAt: '2022-10-19T08:20:52.530Z'
 exerpt: ''
-firstname: Aurélie
+firstname: Aurélie
 issue:
   - content/issues/WPRN Memorandums.md
 language:
@@ -47,7 +43,6 @@ tags:
   - ' Work, Welfare, Social protection'
   - Inequalities, Poverty, Development
 years:
-  - 2022
   - 2021
 
 ---

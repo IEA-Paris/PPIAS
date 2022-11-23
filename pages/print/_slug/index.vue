@@ -31,7 +31,7 @@
                 show-institution
               />
             </div>
-            <DoiBadge :doi="item.doi"></DoiBadge>
+            <DoiBadge :doi="item.DOI"></DoiBadge>
             <div class="article-label mt-6 mb-3">
               {{ $t('publication-date') }}
             </div>
@@ -385,10 +385,9 @@ export default {
   }
 
   table.paging thead td {
-    height: 1.8in;
+    height: 1.2in;
     width: 100%;
   }
-
   header,
   footer {
     position: fixed;

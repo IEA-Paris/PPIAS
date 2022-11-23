@@ -317,32 +317,53 @@ ${markdown || ''}`
   }
 }
 export const batchInsertArticles = (data) => {
-  data.forEach((article) => {
-    // start by creating the folder if it doesn't exist
-    const folderPath =
-      'content/articles/' +
-      (article.issue?.length ? article.issue.slice(15, -3) : '') +
-      (article.issue?.length && article.subissue?.length
-        ? '/' + slugify(article.subissue)
-        : '')
+  try {
+    data.forEach((article) => {
+      console.log('article: ', article.article_title)
+      if (article.article_title === 'Responsibility and Punishment') {
+        console.log(data)
+      }
+      // start by creating the folder if it doesn't exist
+      const folderPath =
+        'content/articles/' +
+        (article.issue?.length ? article.issue.slice(15, -3) : '') +
+        (article.issue?.length && article.subissue?.length
+          ? '/' + slugify(article.subissue)
+          : '')
 
-    if (!fs.existsSync(folderPath)) {
-      fs.mkdirSync(folderPath, { recursive: true })
-    }
-    // then dump the data in a file if there is not one already
-    const fileName = folderPath + '/' + slugify(article.article_title) + '.md'
-    if (!fs.existsSync(fileName)) {
-      fs.writeFileSync(
-        fileName,
-        `---
+      if (!fs.existsSync(folderPath)) {
+        fs.mkdirSync(folderPath, { recursive: true })
+      }
+      // then dump the data in a file if there is not one already
+      const fileName = folderPath + '/' + slugify(article.article_title) + '.md'
+      if (!fs.existsSync(fileName)) {
+        fs.writeFileSync(
+          fileName,
+          `---
 ${yaml.dump(article, { noRefs: true, sortKeys: true })}
 ---
+${
+  article.yt
+    ? '<Youtube yt="' +
+      article.yt +
+      '" caption="' +
+      article.article_title +
+      '" start="' +
+      article.start +
+      '" stop="' +
+      article.stop +
+      '"></Youtube>'
+    : ''
+}
 `
-      )
-    } else {
-      console.log('ARTICLE ALREADY EXISTS AT ', fileName)
-    }
-  })
+        )
+      } else {
+        console.log('ARTICLE ALREADY EXISTS AT ', fileName)
+      }
+    })
+  } catch (error) {
+    console.log('error: ', error)
+  }
 }
 export const insertDocuments = (data, cat, filenameFlag) => {
   // filenameFlag is used to indicate which attribute to build the path upon

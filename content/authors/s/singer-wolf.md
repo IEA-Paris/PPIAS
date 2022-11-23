@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 articles:
   - >-
     the-coexistence-of-the-good-and-the-evil-in-a-single-brain-phase-transitions-in-a-non-linear-dynamical-system
@@ -10,14 +10,11 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
-  - null
 lastname: Singer
 positions_and_institutions: 
   - institution: Max Planck Institute for Brain Research, Germany
     positions: []
 years:
-  - null
   - 2015
 
 ---

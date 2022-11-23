@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 articles:
   - the-elusive-holocaust-perpetrator
 createdAt: '2022-10-10T07:36:28.761Z'
@@ -9,14 +9,11 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
-  - null
 lastname: Browning
 positions_and_institutions: 
   - institution: University of North Carolina, USA
     positions: []
 years:
-  - null
   - 2015
 
 ---

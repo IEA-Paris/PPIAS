@@ -26,4 +26,8 @@ export default {
   methods: {},
 }
 </script>
-<style lang="scss"></style>
+<style lang="scss">
+body {
+  margin: 0;
+}
+</style>

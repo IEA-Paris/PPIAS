@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 articles:
   - >-
     deshumanised-perception-a-psychological-mechanism-that-may-facilitate-human-atrocities
@@ -10,14 +10,11 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
-  - null
 lastname: Harris
 positions_and_institutions: 
   - institution: University of Leiden, Netherlands
     positions: []
 years:
-  - null
   - 2015
 
 ---

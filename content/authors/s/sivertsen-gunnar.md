@@ -9,7 +9,6 @@ issue:
   - content/issues/HCERES - PFUE 2022.md
 language:
   - English
-  - null
 lastname: Sivertsen
 picture: ''
 picture_copyright: ''
@@ -32,6 +31,5 @@ social_channels:
 tags: []
 years:
   - 2022
-  - null
 
 ---

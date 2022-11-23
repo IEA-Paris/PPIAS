@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 articles:
   - beliefs-and-brains-a-critical-balance
 createdAt: '2022-10-10T07:36:28.761Z'
@@ -9,14 +9,11 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
-  - null
 lastname: Gazzaniga
 positions_and_institutions: 
   - institution: UC Santa Barbara, USA
     positions: []
 years:
-  - null
   - 2015
 
 ---

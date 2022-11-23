@@ -28,8 +28,8 @@ import generateFiles from './lib/article/files'
 import { insertDocuments } from './utils/contentUtilities'
 const chalk = require('chalk')
 const defaults = require('./module.defaults')
-// eslint-disable-next-line require-await
 export default async function (moduleOptions) {
+  // await tsvToArticles()
   const { nuxt } = this
   let options = Object.assign({}, defaults, moduleOptions, this.options.publio)
   let articles, media, authors, issues, filters, url, routesToPrint

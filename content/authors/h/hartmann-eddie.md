@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 articles:
   - >-
     symbolic-boundaries-and-collective-violence-boundary-activation-as-a-key-mechanism-of-collective-violent-behaviour
@@ -10,14 +10,11 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
-  - null
 lastname: Hartmann
 positions_and_institutions: 
   - institution: University of Potsdam, Germany
     positions: []
 years:
-  - null
   - 2015
 
 ---
