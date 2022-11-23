@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 articles:
   - >-
     deshumanised-perception-a-psychological-mechanism-that-may-facilitate-human-atrocities

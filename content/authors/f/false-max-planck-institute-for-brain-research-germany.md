@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 articles:
   - >-
     the-coexistence-of-the-good-and-the-evil-in-a-single-brain-phase-transitions-in-a-non-linear-dynamical-system

@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 articles:
   - the-elusive-holocaust-perpetrator
 createdAt: '2022-11-10T07:16:25.073Z'

@@ -1,6 +1,5 @@
 ---
-article_slug: >-
-  deshumanised-perception-a-psychological-mechanism-that-may-facilitate-human-atrocities
+article_slug: SynE1_2015_07_deshumanised-perception
 caption: >-
   Deshumanised Perception: A Psychological Mechanism that May Facilitate Human
   Atrocities
@@ -9,6 +8,7 @@ highlight: false
 id: 5pOuQo6XMpY&t
 index: 0
 issue: content/issues/brains-that-pull-the-triggers.md
+language: English
 type: youtube
 years: 2015
 

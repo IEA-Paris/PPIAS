@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 articles:
   - >-
     symbolic-boundaries-and-collective-violence-boundary-activation-as-a-key-mechanism-of-collective-violent-behaviour

@@ -1,6 +1,5 @@
 ---
-article_slug: >-
-  volition-and-affect-how-do-positive-negative-right-and-wrong-outcomes-influence-human-sense-of-agency
+article_slug: SynE1_2015_08_volition-and-affect
 caption: >-
   Volition and Affect: How Do Positive, Negative, Right and Wrong Outcomes
   Influence Human Sense of Agency
@@ -9,6 +8,7 @@ highlight: false
 id: ejCWcO4ldag
 index: 0
 issue: content/issues/brains-that-pull-the-triggers.md
+language: English
 type: youtube
 years: 2015
 

@@ -1,5 +1,5 @@
 ---
-active: true
+active: false
 articles:
   - beliefs-and-brains-a-critical-balance
 createdAt: '2022-11-10T07:16:25.069Z'
