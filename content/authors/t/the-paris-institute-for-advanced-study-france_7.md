@@ -9,7 +9,9 @@ issue:
   - content/issues/justice-climate-transitions.md
 language:
   - English
-lastname: University of New South Wales, Sydney, Australia
+lastname: The Paris Institute for Advanced Study, France
+titles_and_institutions:
+  '0': {}
 years:
   - 2015
 
