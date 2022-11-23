@@ -23,7 +23,8 @@ social_channels:
   researchgate: https://www.researchgate.net/profile/Thomas-Boraud
   wikipedia: https://fr.wikipedia.org/wiki/Thomas_Boraud
 titles_and_institutions:
-  - institution: Université de Bordeaux, France
+  '0':
+    institution: Université de Bordeaux, France
 years:
   - 2016
 

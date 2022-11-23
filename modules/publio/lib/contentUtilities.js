@@ -248,30 +248,33 @@ export const writePrintRoutes = async () => {
 
   return articles.map((article) => {
     // if the file has been changed
-    return {
-      // Route to content that should be converted into pdf.
-      route: '/print/' + article.slug,
-      file: 'pdfs/' + article.slug + '.pdf',
-      // Default option is to remove the route after generation so it is not accessible
-      keep: false, // defaults to false
-      // Specifify language for pdf. (Only when i18n is enabled!)
-      /*   locale: 'da', */
-      // Override global meta with individual meta for each pdf.
-      // TODO complete and change produced depending on the journal
-      meta: {
-        title: article.article_title,
+    try {
+      console.log('article.authors: ', article.authors)
+      return {
+        // Route to content that should be converted into pdf.
+        route: '/print/' + article.slug,
+        file: 'pdfs/' + article.slug + '.pdf',
+        // Default option is to remove the route after generation so it is not accessible
+        keep: false, // defaults to false
+        // Specifify language for pdf. (Only when i18n is enabled!)
+        /*   locale: 'da', */
+        // Override global meta with individual meta for each pdf.
+        // TODO complete and change produced depending on the journal
+        meta: {
+          title: article.article_title,
 
-        author: formatAuthors(article.authors)?.replace('&nbsp;', ' ') || '',
+          author: (formatAuthors(article.authors) || '').replace('&nbsp;', ' '),
+          producer:
+            'PPIAS - Proceeding of Paris Institution for Advanced Study',
 
-        producer: 'PPIAS - Proceeding of Paris Institution for Advanced Study',
+          // Control the date the file is created.
+          creationDate: article.createdAt,
 
-        // Control the date the file is created.
-        creationDate: article.createdAt,
-
-        keywords: article.tags || [],
-        language: article.language || 'en',
-      },
-    }
+          keywords: article.tags || [],
+          language: article.language || 'en',
+        },
+      }
+    } catch (error) {}
   })
   /*     )
   ) */

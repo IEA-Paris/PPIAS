@@ -21,7 +21,8 @@ social_channels:
   google_scholar: https://scholar.google.com/citations?user=e9XBrxYAAAAJ&hl=fr
   researchgate: https://www.researchgate.net/profile/David-Cohen-23
 titles_and_institutions:
-  - institution: Université Pierre et Marie Curie, France
+  '0':
+    institution: Université Pierre et Marie Curie, France
 years:
   - 2016
 

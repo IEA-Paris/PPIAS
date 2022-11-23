@@ -22,7 +22,8 @@ social_channels:
   linkedin: https://fr.linkedin.com/in/mathias-pessiglione-b4a90b39
   researchgate: https://www.researchgate.net/profile/Mathias-Pessiglione
 titles_and_institutions:
-  - institution: Institut du cerveau ICM, France
+  '0':
+    institution: Institut du cerveau ICM, France
 years:
   - 2016
 

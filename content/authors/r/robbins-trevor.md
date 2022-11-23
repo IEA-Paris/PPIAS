@@ -24,7 +24,8 @@ social_channels:
   researchgate: https://www.researchgate.net/profile/Trevor-Robbins-2
   wikipedia: https://en.wikipedia.org/wiki/Trevor_Robbins
 titles_and_institutions:
-  - institution: University of Cambridge, United Kingdom
+  '0':
+    institution: University of Cambridge, United Kingdom
 years:
   - 2016
 

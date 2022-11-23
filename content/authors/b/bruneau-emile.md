@@ -23,7 +23,8 @@ social_channels:
   orcid: 0000-0001-7294-8675
   researchgate: https://www.researchgate.net/profile/Emile-Bruneau/2
 titles_and_institutions:
-  - institution: MIT, USA
+  '0':
+    institution: MIT, USA
 years:
   - 2016
 

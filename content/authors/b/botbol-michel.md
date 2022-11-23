@@ -23,7 +23,8 @@ social_channels:
   linkedin: https://fr.linkedin.com/in/michel-botbol-01a07257
   researchgate: https://www.researchgate.net/profile/Michel-Botbol
 titles_and_institutions:
-  - institution: Université de Bretagne Occidentale, France
+  '0':
+    institution: Université de Bretagne Occidentale, France
 years:
   - 2016
 

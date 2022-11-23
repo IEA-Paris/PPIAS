@@ -23,7 +23,8 @@ social_channels:
   researchgate: https://www.researchgate.net/profile/Lionel-Naccache
   wikipedia: https://fr.wikipedia.org/wiki/Lionel_Naccache
 titles_and_institutions:
-  - institution: Institut du Cerveau ICM, France
+  '0':
+    institution: Institut du Cerveau ICM, France
 years:
   - 2016
 
