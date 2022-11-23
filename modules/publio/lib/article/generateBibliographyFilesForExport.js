@@ -32,6 +32,8 @@ Wikipedia Vitation Style 1 templates https://en.wikipedia.org/wiki/Template:Cita
 */
 
     const cites = new Citation(bibliography)
+    // TODO generate da thing
+    // https://www.youtube.com/watch?v=btPJPFnesV4
   }
   return [article, media, authors, issues, options]
 }

@@ -33,12 +33,12 @@ export default (article, media, authors, issues, options) => {
     },
     identifier: [
       {
-        ...(article.doi && {
+        ...(article.DOI && {
           type: 'DOI',
-          id: article.doi,
+          id: article.DOI,
           url:
             'http://dx.doi.org/' +
-            article.doi +
+            article.DOI +
             (options.config.identifier.ISSN
               ? '/ISSN-' + options.config.identifier.ISSN
               : ''),
