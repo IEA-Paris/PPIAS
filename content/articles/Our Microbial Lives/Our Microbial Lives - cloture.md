@@ -8,11 +8,6 @@ article_title: Clôture
 authors:
   - firstname: Michel
     lastname: Morange
-    positions_and_institutions:
-      - positions: []
-        institution: École normale supérieure, France
-      - positions: []
-        institution: Université Pierre-et-Marie-Curie, France
     picture: ''
     picture_copyright: ''
     reference: ''

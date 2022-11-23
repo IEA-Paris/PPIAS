@@ -10,7 +10,7 @@ article_title: Keynote 1 by Jacques Dubucs
 authors:
 - firstname: Jacques
   lastname: Dubucs
-  positions_and_institutions: []
+  titles_and_positions: []
   picture: ''
   picture_copyright: ''
   social_channels:

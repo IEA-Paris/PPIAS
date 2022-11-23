@@ -21,9 +21,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
+    titles_and_positions:
       - institution: Université de Laval, Canada
-    
+        titles: []
   - firstname: Nicolas
     lastname: Fortané
     picture: ''
@@ -39,9 +39,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
+    titles_and_positions:
       - institution: INRAE, France
-    
+        titles: []
   - firstname: 'Thierry'
     lastname: Naas
     picture: ''
@@ -57,9 +57,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
+    titles_and_positions:
       - institution: Hôpital Bicêtre APHP, France
-    
+        titles: []
   - firstname: 'Geneviève'
     lastname: Héry-Arnaud
     picture: ''
@@ -75,11 +75,11 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
+    titles_and_positions:
       - institution: CHRU de Brest, France
-    
+        titles: []
       - institution: Université de Bretagne Occidentale, France
-    
+        titles: []
 bibliography: /bibliography/documents-exportes_tb3_lee.bib
 date: 2021-05-27T13:00:08.000Z
 highlight: false
@@ -97,6 +97,7 @@ published: true
 yt: mAEoGVjHjUQ
 
 ---
+
 
 ## Table-ronde 3 du forum "Our Microbial Lives"
 

@@ -135,10 +135,9 @@ export default async function (moduleOptions) {
       })
     })
   })
-  // Regular production deployment generation (PROD + SSR ONLY)
   nuxt.hook('generate:done', async ({ name }) => {
     if (!once) return
-    console.log('"GENERATE:DONE" HOOK (PROD + SSR ONLY)')
+    console.log('"GENERATE:DONE"')
     once = false
     await generateFilesToPrint()
   })

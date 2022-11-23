@@ -6,7 +6,7 @@ article_title: >-
   Presence, Body Ownership and Vicarious Agency - the Illusions of Virtual
   Reality
 authors:
-  - firstname: 'Mel'
+  - firstname: 'Mel , '
     is_institution: false
     lastname: Slater
     positions_and_institutions:

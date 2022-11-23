@@ -18,7 +18,7 @@ export default {
     crawler: false,
     // default concurrency is 500 afaik. Considering the RAM cost of each, it would require way too much memory.
     // TODO check and time different values to come up with the best compromise between required memory (in free tier) and execution time
-    concurrency: 20,
+    concurrency: 50,
     // interval: 6000,
     // Explicit declaration of the routes is necessary since
     // Nuxt crawler can't follow all the print routes (besides it doesn't follow vuetify pagination component links).
@@ -45,6 +45,12 @@ export default {
           await $content('issues', { deep: true }).only(['slug']).fetch()
         ).map((file) => '/issue/' + file.slug),
       ])
+      // JavaScript implementation of the Durstenfeld shuffle, an optimized version of Fisher-Yates
+      // to allow us to batch process more items by spreading the heavy ones, i.e. the articles
+      for (let i = files.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1))
+        ;[files[i], files[j]] = [files[j], files[i]]
+      }
       return files
     },
   },
@@ -215,7 +221,7 @@ export default {
     '@nuxtjs/ackee',
     '@nuxtjs/composition-api/module',
     // https://github.com/ch99q/nuxt-pdf
-    '~/modules/nuxt-pdf',
+    /*     '~/modules/nuxt-pdf', */
     '~/modules/publio',
   ],
 
@@ -484,12 +490,12 @@ export default {
    ** Apollo module configuration
    ** https://github.com/nuxt-community/apollo-module
    */
-  apollo: {
+  /*   apollo: {
     clientConfigs: {
       default: '~/plugins/apollo-config.js',
     },
     authenticationType: '',
-  },
+  }, */
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
   vuetify: {
     customVariables: ['~/assets/variables.scss'],
