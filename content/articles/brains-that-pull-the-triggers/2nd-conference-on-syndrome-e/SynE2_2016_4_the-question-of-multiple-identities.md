@@ -25,4 +25,6 @@ language: English
 sub-issue: 2nd Conference  on Syndrome E
 
 ---
+Among the possible brain mechanisms involved in the Syndrome E there is the question of the sharing of emotions or social values. This question is related to the neural basis of empathy and its potential suppression in these behaviours. I will briefly discuss my views and results concerning the brain mechanisms which distinguish sympathy and empathy. I will also discuss the potential relationship of these neural basis with the question of multiple identities and denial of human identity of the other.
+
 <Youtube yt="jHiq85lqS2Y" caption="The Question of Multiple Identities" start="false" stop="false"></Youtube>
