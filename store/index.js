@@ -152,7 +152,6 @@ export const actions = {
     await dispatch('update', 'authors')
   },
   async resetState({ dispatch, commit, state }, type) {
-    console.log('reset type: ', type)
     commit('setBlankState', type)
     commit('setPage', { page: 1, type })
     await dispatch('update', type)

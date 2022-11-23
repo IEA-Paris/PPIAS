@@ -48,7 +48,8 @@ export default async function (moduleOptions) {
     )
     gitDiffed = stdout
   } catch (error) {
-    console.log('error: ', error)
+    /*     console.log('error: ', error) */
+    console.log('No file seems to have changed')
   } finally {
     gitDiffed = ''
   }
@@ -57,7 +58,7 @@ export default async function (moduleOptions) {
     .split('\n')
     .filter((str) => str)
     .map((str) => str.slice(7))
-  console.log('changedFiles: ', changedFiles)
+  if (changedFiles?.length) console.log('changedFiles: ', changedFiles)
 
   const extendGeneration = () => {
     if (!once) return // dirty skip to avoid retriggering the build method

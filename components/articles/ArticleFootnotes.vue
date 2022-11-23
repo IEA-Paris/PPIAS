@@ -27,9 +27,7 @@ export default {
     return {}
   },
   computed: {},
-  mounted() {
-    console.log(this.item.footnotes)
-  },
+  mounted() {},
   methods: {},
 }
 </script>

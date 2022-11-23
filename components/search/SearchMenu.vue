@@ -220,15 +220,6 @@ export default {
   },
   methods: {
     seeAll(name) {
-      console.log(
-        'name: ',
-        this.localePath({
-          name,
-          query: {
-            search: this.searchStringRaw,
-          },
-        })
-      )
       this.open = false
       this.$router.push(
         this.localePath({

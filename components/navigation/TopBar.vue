@@ -62,7 +62,6 @@ export default {
   mounted() {},
   methods: {
     handleClick(type) {
-      console.log('this.$route.name: ', this.$route.name.startsWith(type))
       if (this.$route.name.startsWith(type)) {
         this.$store.dispatch('resetState', type)
       }
