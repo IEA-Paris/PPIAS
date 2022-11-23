@@ -25,7 +25,7 @@
             text
             nuxt
             :to="localePath('/articles')"
-            @click="handleClick('article')"
+            @click="handleClick('articles')"
             >{{ $t('articles') }}</v-btn
           >
           <v-btn
@@ -62,6 +62,7 @@ export default {
   mounted() {},
   methods: {
     handleClick(type) {
+      console.log('this.$route.name: ', this.$route.name.startsWith(type))
       if (this.$route.name.startsWith(type)) {
         this.$store.dispatch('resetState', type)
       }
@@ -73,6 +74,10 @@ export default {
 #main-app-bar {
   padding-bottom: 2.5rem;
   margin-bottom: 2rem;
+}
+#main-app-bar .v-btn--active.v-btn--router {
+  background-color: black;
+  color: white;
 }
 /* #main-app-bar.loading {
   border-top: none;

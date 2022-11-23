@@ -118,7 +118,7 @@
           <ArticleAuthorsString
             v-if="item.authors"
             :authors="item.authors"
-            class="text-p article-authors"
+            class="article-authors"
           />
         </div>
         <template v-if="excerpt">
@@ -128,9 +128,7 @@
               class="article-abstract"
               v-html="highlightWord(item.abstract)"
             ></div>
-            <v-btn class="mt-6 d-block" tile outlined>{{
-              $t('read-more')
-            }}</v-btn>
+            <v-btn class="mt-6" tile outlined>{{ $t('read-more') }}</v-btn>
           </div>
         </template>
       </div>
@@ -191,7 +189,7 @@ export default {
   margin-bottom: 0.4rem;
 }
 .article-authors {
-  font-size: 1rem !important;
+  font-size: 0.8rem !important;
   display: -webkit-box;
   width: 220px;
   -webkit-line-clamp: 3;

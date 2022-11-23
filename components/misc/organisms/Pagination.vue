@@ -26,7 +26,7 @@
       outlined
       :class="{ selected: value === index }"
       class="mr-2 paginate-btn"
-      :to="index > 1 ? `/articles/?page=${index}` : '/articles/'"
+      :to="index > 1 ? `?page=${index}` : ''"
       nuxt
       @click="handleClick(index)"
     >
