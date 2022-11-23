@@ -6,6 +6,7 @@ articles:
   - >-
     roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
   - SynE1_2015_10_neural-mechanisms-of-rule-compliance-in-humans
+  - SynE2_2016_10_rules-and-values
 createdAt: '2022-10-10T07:36:28.761Z'
 exerpt: ''
 firstname: Etienne

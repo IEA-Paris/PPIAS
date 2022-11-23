@@ -11,6 +11,7 @@ articles:
     roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
   - the-brains-that-pull-the-triggers_2_what-is-syndrome-e
   - SynE1_2015_02_what-is-syndrome-e
+  - SynE2_2016_02_an-ordinary-guy-with-a-kalashnikov
 createdAt: '2022-10-10T07:36:28.761Z'
 exerpt: ''
 firstname: Itzhak

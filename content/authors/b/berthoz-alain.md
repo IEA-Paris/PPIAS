@@ -12,6 +12,7 @@ articles:
     roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
   - SynE1_2015_03_syndrome-e-and-plurality-of-perspectives
   - SynE1_2015_11_is-empathy-involved-in-perpetrators-behavior
+  - SynE2_2016_04_the-question-of-multiple-identities
 createdAt: '2022-10-10T07:36:28.761Z'
 exerpt: ''
 firstname: Alain

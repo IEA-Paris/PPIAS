@@ -28,5 +28,6 @@ social_channels:
 titles_and_positions: []
 years:
   - 2021
+  - 2022
 
 ---
