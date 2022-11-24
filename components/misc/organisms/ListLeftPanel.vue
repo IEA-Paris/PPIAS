@@ -177,11 +177,7 @@
             </div>
           </template>
           <template v-else>
-            <div
-              width="100%"
-              :class="{ 'ml-6': !$store.state.scrolled }"
-              class="my-6"
-            >
+            <div width="100%" class="my-6 ml-6">
               {{ $t('no-result-matching-your-filters') }}
               <br />
               <v-btn
