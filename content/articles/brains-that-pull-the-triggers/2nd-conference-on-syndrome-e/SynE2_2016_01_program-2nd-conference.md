@@ -3,7 +3,16 @@ abstract: The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris
   09-10 May 2016
 article_title: The Brains that Pull the Triggers -  2nd Conference on Syndrome E -
   Program
-authors: []
+authors:
+- firstname: Itzhak
+  lastname: Fried
+  titles_and_institutions:
+  - institution: Paris Institute for Advanced Study, France
+  - institution: University of California Los Angeles, USA
+- firstname: 'Alain '
+  lastname: Berthoz
+  titles_and_institutions:
+  - institution: Collège de France, France
 date: 2016-05-08T23:00:00.000+00:00
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
