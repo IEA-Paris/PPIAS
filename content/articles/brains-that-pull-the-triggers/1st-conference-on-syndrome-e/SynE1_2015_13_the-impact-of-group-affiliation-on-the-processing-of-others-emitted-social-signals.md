@@ -29,6 +29,7 @@ stop: false
 subissue: 1st Conference  on Syndrome E
 yt: IcgO1OjIbHA
 language: English
+sub-issue: 1st Conference on Syndrome E
 
 ---
 <Youtube yt="IcgO1OjIbHA" caption="To be or not to be Charlie? The impact of group affiliation on the processing of others' emitted social signals" start="false" stop="false"></Youtube>

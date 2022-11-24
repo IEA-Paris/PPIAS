@@ -27,6 +27,7 @@ stop: false
 subissue: 1st Conference  on Syndrome E
 yt: GB0jdlwYb7w
 language: English
+sub-issue: 1st Conference on Syndrome E
 
 ---
 <Youtube yt="GB0jdlwYb7w" caption="Is Empathy Involved in Perpetrators Behavior?" start="false" stop="false"></Youtube>
