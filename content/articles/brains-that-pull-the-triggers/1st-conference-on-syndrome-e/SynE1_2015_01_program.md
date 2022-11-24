@@ -13,6 +13,7 @@ stop: false
 subissue: 1st Conference  on Syndrome E
 yt: false
 language: English
+sub-issue: 1st Conference on Syndrome E
 
 ---
 The transformation of groups of previously nonviolent individuals into repetitive killers of defenseless members of society has been a recurring phenomenon throughout history. This apparent transition of large numbers of so called “psychologically intact”, “ordinary” individuals, to perpetrators of extreme atrocities is one of the most striking variants of human behavior, but often appear incomprehensible to victims and bystanders and in retrospect even to the perpetrators themselves and to society in general.
