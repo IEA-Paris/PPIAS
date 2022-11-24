@@ -24,6 +24,7 @@ stop: false
 subissue: 1st Conference  on Syndrome E
 yt: UxYREPJHbqQ
 language: English
+sub-issue: 1st Conference on Syndrome E
 
 ---
 <Youtube yt="UxYREPJHbqQ" caption="Symbolic Boundaries and Collective Violence. Boundary Activation as a Key Mechanism of Collective Violent Behaviour" start="false" stop="false"></Youtube>
