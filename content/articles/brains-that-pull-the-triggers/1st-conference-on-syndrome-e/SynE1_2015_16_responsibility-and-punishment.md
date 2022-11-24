@@ -25,6 +25,7 @@ stop: false
 subissue: 1st Conference  on Syndrome E
 yt: ydiCPODN1XU
 language: English
+sub-issue: 1st Conference on Syndrome E
 
 ---
 <Youtube yt="ydiCPODN1XU" caption="Responsibility and Punishment" start="false" stop="false"></Youtube>
