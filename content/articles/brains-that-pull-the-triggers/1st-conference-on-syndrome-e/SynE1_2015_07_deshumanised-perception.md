@@ -28,6 +28,7 @@ stop: false
 subissue: 1st Conference  on Syndrome E
 yt: 5pOuQo6XMpY&t
 language: English
+sub-issue: 1st Conference on Syndrome E
 
 ---
 <Youtube yt="5pOuQo6XMpY&t" caption="Deshumanised Perception: A Psychological Mechanism that May Facilitate Human Atrocities" start="false" stop="false"></Youtube>
