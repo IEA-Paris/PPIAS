@@ -44,7 +44,10 @@
       </template>
       <template v-else><span class="mr-2">...</span></template>
       <v-btn
-        v-for="index in [...Array(length).keys()].slice(length - 2, length)"
+        v-for="index in [...Array(length + 1).keys()].slice(
+          length - 1,
+          length + 1
+        )"
         :key="index"
         v-bind="getButtonNumberProps(index)"
         @click="handleClick(index)"
