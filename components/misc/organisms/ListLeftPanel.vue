@@ -191,6 +191,45 @@
             </div>
           </template>
         </template>
+        <v-container
+          v-if="!$store.state.loading"
+          class="footer-pagination d-flex transition-swing"
+          :class="
+            $vuetify.breakpoint.smAndDown
+              ? 'flex-column-reverse align-center'
+              : 'justify-space-between'
+          "
+        >
+          <div
+            class="perpage-select"
+            :class="$vuetify.breakpoint.smAndDown ? 'text-center' : ''"
+          >
+            <span
+              class="grey--text pr-3"
+              :class="{ 'ml-6': !$store.state.scrolled }"
+              >{{ $t('items-per-page') }}</span
+            >
+            <v-select
+              v-model="itemsPerPage"
+              class="perPageSelect"
+              solo
+              outlined
+              flat
+              dense
+              :items="$store.state[type].itemsPerPageArray"
+              hide-details
+            ></v-select>
+          </div>
+          <div class="text-center">
+            <Pagination
+              v-if="numberOfPages > 1"
+              :total-visible="5"
+              :value="page || 1"
+              :length="numberOfPages"
+              @input="handlePagination"
+            />
+          </div>
+        </v-container>
       </v-col>
       <v-col
         v-if="$vuetify.breakpoint.smAndUp && filter"
@@ -207,46 +246,6 @@
         ></v-row>
       </v-col>
     </v-row>
-
-    <v-container
-      v-if="!$store.state.loading"
-      class="footer-pagination d-flex"
-      :class="
-        $vuetify.breakpoint.smAndDown
-          ? 'flex-column-reverse align-center'
-          : 'justify-space-between'
-      "
-    >
-      <div
-        class="perpage-select"
-        :class="$vuetify.breakpoint.smAndDown ? 'text-center' : ''"
-      >
-        <span
-          class="grey--text pr-3"
-          :class="{ 'ml-6': !$store.state.scrolled }"
-          >{{ $t('items-per-page') }}</span
-        >
-        <v-select
-          v-model="itemsPerPage"
-          class="perPageSelect"
-          solo
-          outlined
-          flat
-          dense
-          :items="$store.state[type].itemsPerPageArray"
-          hide-details
-        ></v-select>
-      </div>
-      <div class="text-center">
-        <Pagination
-          v-if="numberOfPages > 1"
-          :total-visible="5"
-          :value="page || 1"
-          :length="numberOfPages"
-          @input="handlePagination"
-        />
-      </div>
-    </v-container>
   </div>
 </template>
 <script>
