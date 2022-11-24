@@ -2,7 +2,7 @@
 active: true
 articles:
   - justice-and-climate-transitions_1_program
-createdAt: '2022-11-23T20:23:49.411Z'
+createdAt: '2022-11-23T20:11:43.866Z'
 exerpt: ''
 firstname: ''
 issue:

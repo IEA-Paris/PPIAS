@@ -6,6 +6,7 @@ articles:
   - >-
     why-i-didnt-do-it-can-other-people-reduce-individual-responsibility-for-action
   - SynE1_2015_08_volition-and-affect
+  - SynE2_2016_14_why-i-didnt-do-it
 createdAt: '2022-10-10T07:36:28.761Z'
 exerpt: ''
 firstname: Patrick
@@ -15,7 +16,6 @@ issue:
 language:
   - null
   - English
-  - null
 lastname: Haggard
 positions_and_institutions:
   - institution: University College London, United Kingdom
@@ -24,6 +24,7 @@ positions_and_institutions:
 social_channels:
   google_scholar: https://scholar.google.co.uk/citations?user=NqmgC9gAAAAJ&hl=en
   linkedin: https://uk.linkedin.com/in/haggard-patrick-853041153
+  twitter: '@PatrickHaggard'
   wikipedia: https://en.wikipedia.org/wiki/Patrick_Haggard
 titles_and_institution:
   '0':
@@ -32,6 +33,8 @@ titles_and_institution:
       - ''
 titles_and_institutions:
   '0':
+    institution: University College London, United Kingdom
+  '1':
     institution: University College London, United Kingdom
 years:
   - null
