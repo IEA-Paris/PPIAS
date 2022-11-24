@@ -61,7 +61,7 @@ export default {
         formatAuthors(
           [author],
           this.$i18n.$t,
-          false,
+          true,
           false,
           this.$config.url,
           institutionsIds

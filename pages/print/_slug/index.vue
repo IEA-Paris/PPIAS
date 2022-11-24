@@ -28,6 +28,7 @@
               <ArticleAuthorsString
                 :authors="item.authors"
                 :initials="false"
+                full
                 show-institution
               />
             </div>

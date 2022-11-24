@@ -62,7 +62,7 @@ export const formatAuthors = (
   institutionsIds = []
 ) => {
   const format = (author) => {
-    let name =
+    const name =
       // yup, you gotta love ternaries
       author.lastname.replace(' ', '&nbsp;').trim() +
       (author.is_institution
@@ -81,22 +81,15 @@ export const formatAuthors = (
                 .toUpperCase()
             : author.firstname) +
           (initials ? '.&nbsp;' : ''))
-    const institution =
-      (author?.positions_and_institutions &&
-        author?.positions_and_institutions[0] &&
-        author.positions_and_institutions[0]?.institution) ||
-      ''
 
-    const slug = getAuthorSlug(author)
-    const instutionElmt = institutionsIds
-      .map((instutionId) => `<sup>${instutionId}</sup>`)
-      .join('')
-    name = `<a href="${url}/authors/${slug}" style="text-decoration: none; color: inherit;">${name}${instutionElmt}</a>`
-    return full && institution.length
-      ? name +
-          ` - <i>${institution}</i>
- `
-      : name
+    if (full) {
+      const slug = getAuthorSlug(author)
+      const instutionElmt = institutionsIds
+        .map((instutionId) => `<sup>${instutionId}</sup>`)
+        .join('')
+      return `<a href="${url}/authors/${slug}" style="text-decoration: none; color: inherit;">${name}${instutionElmt}</a>`
+    }
+    return name
   }
   if (!authors) return ''
 
