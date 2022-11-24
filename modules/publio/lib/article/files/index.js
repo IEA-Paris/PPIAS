@@ -1,5 +1,5 @@
 const path = require('path')
-export default async (routesToPrint, fn, nuxt) => {
+export default async (routesToPrint, fn, url) => {
   try {
     let server
     // Since we target A4, let's load the related CSS.
@@ -50,10 +50,11 @@ export default async (routesToPrint, fn, nuxt) => {
         console.log('Running at http://localhost:3000')
       }) */
     }
+    console.log('url: ', url)
 
     // Get a ready to use Nuxt instance
-    const url = 'http://localhost:3000'
-    console.log('url: ', url)
+    if (!url) url = 'http://127.0.0.1:3000'
+
     const meta = {}
 
     // generate the PDFs, thumbnails, & whatever we need <3

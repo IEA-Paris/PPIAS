@@ -6,9 +6,5 @@ export default async (content, options) => {
   const articles = await $content('articles', { deep: true })
     .where({ published: true })
     .fetch()
-<<<<<<< HEAD
-  await generateDOI(articles, options)
-=======
   // await getDOI(articles, options)
->>>>>>> main
 }

@@ -1,17 +1,17 @@
 <template>
   <article class="printpanel page pdf a4" style="background-color: white">
     <header>
-      <v-img
+      <img
         src="http://localhost:3000/ppias.svg"
         contain
         alt="Avatar"
         style="
           cursor: pointer;
-          width: 100px;
-          height: 100px;
+          width: 70px;
+          height: 70px;
           border: 3px solid black;
         "
-      ></v-img>
+      />
     </header>
 
     <table class="paging">

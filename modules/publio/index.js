@@ -103,7 +103,6 @@ export default async function (moduleOptions) {
   }
   const generateFilesToPrint = async () => {
     console.log('GENERATE FILES')
-    console.log('routesToPrint: ', routesToPrint)
     if (!routesToPrint) return
     // Generate PDF & other files
     await generateFiles(
@@ -112,7 +111,7 @@ export default async function (moduleOptions) {
         pdfs: generatePDF,
         thumbnails: generateThumbnails,
       },
-      nuxt
+      url
     )
     // and publish it on Zenodo
 
@@ -142,11 +141,13 @@ export default async function (moduleOptions) {
     once = false
     await generateFilesToPrint()
   })
-  nuxt.hook('build:compiled', ({ name }) => {
+  nuxt.hook('build:done', async (nuxt) => {
+    console.log('process.server: ')
+    // For dev mode only, we start the PDF rendering process to allow debug and preview.
     if (process.env.NODE_ENV !== 'production') {
       console.log('"BUILD:compiled"')
       routesToPrint = makePrintRoutes(articles)
-      generateFilesToPrint()
+      await generateFilesToPrint()
     }
   })
   nuxt.hook('content:ready', async (content) => {
