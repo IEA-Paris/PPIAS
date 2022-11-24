@@ -1,24 +1,12 @@
 <template>
-  <v-list-item
-    nuxt
-    :to="localePath('/authors/' + path)"
-    @click="$emit('close')"
-  >
-    <v-list-item-icon>
-      <v-icon>{{
-        item.firstname ? 'mdi-account-outline' : 'mdi-domain'
-      }}</v-icon>
-    </v-list-item-icon>
-    <v-list-item-content>
-      <v-list-item-title>
-        <AuthorOrcidIdBadge
-          v-if="item.social_channels && item.social_channels.orcid"
-          :orcid="item.social_channels.orcid"
-        ></AuthorOrcidIdBadge>
-        <span v-html="item.formatedName"></span>
-      </v-list-item-title>
-    </v-list-item-content>
-  </v-list-item>
+  <nuxt-link :to="localePath('/authors/' + path)" @click="$emit('close')">
+    <span v-html="item.formatedName"></span>
+    <AuthorOrcidIdBadge
+      v-if="item.social_channels && item.social_channels.orcid"
+      :orcid="item.social_channels.orcid"
+    ></AuthorOrcidIdBadge>
+    {{ (separator && ',') || '' }}
+  </nuxt-link>
 </template>
 <script>
 import { formatAuthors, highlight } from '~/assets/utils/transforms'
@@ -29,6 +17,11 @@ export default {
     item: {
       required: true,
       type: Object,
+    },
+    separator: {
+      required: false,
+      type: Boolean,
+      default: false,
     },
   },
   data() {
