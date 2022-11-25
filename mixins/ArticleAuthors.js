@@ -50,7 +50,8 @@ export default {
 
       // Format the institutions with exponential index
       institutions = institutions.map(
-        (institution, index) => `<sup>${index}</sup>${institution}`
+        (institution, index) =>
+          `<sup class="institution-number">${index}</sup><span class="institution-name">${institution}</span>`
       )
       return { institutions, authors }
     },

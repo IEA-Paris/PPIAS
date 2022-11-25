@@ -27,14 +27,13 @@
         class="institutions-wrapper mx-0 mb-3"
         :class="{ 'ml-5': $vuetify.breakpoint.mdAndUp }"
       >
-        <span
+        <div
           v-for="(institution, index) in authorInformations.institutions"
           :key="index"
           class="institution mt-2"
           :class="{ 'mt-4': $vuetify.breakpoint.smAndDown }"
           v-html="institution"
-        >
-        </span>
+        ></div>
       </div>
       <v-btn
         class="pa-0 ma-0 show-more-btn"
@@ -82,12 +81,22 @@ export default {
 }
 .institutions-wrapper {
   .institution {
-    sup {
-      margin-right: 0.5rem;
-    }
-    display: inline-block;
+    display: flex;
     font-size: 0.9rem;
     color: #666;
+
+    .institution-number {
+      margin-top: 10px;
+      padding-right: 0.4rem;
+    }
+
+    .institution-name {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+    }
   }
 
   display: flex;
