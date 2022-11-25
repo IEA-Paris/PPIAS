@@ -80,20 +80,23 @@ export default {
 .authors {
   word-wrap: normal;
   line-break: normal;
-  font-size: 1.3rem;
+  font-size: 19px;
 }
 
 .institutions-group {
-  margin-top: 0.8rem;
+  margin-top: 15px;
   .institutions {
     sup {
       font-style: normal;
     }
     word-wrap: normal;
     line-break: normal;
-    font-size: 0.8rem;
+    font-size: 9px;
     font-weight: 300;
     font-style: italic;
+    margin-top: 5px;
+    font-weight: 300;
+    color: #3d576f;
   }
 }
 </style>

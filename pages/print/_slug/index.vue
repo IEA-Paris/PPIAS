@@ -37,7 +37,7 @@
             <div class="article-label mt-6 mb-3">
               {{ $t('publication-date') }}
             </div>
-            <div class="mb-6">
+            <div class="mb-6 publication-date-content">
               {{
                 new Date(item.date).toLocaleDateString('EN', {
                   timezone: 'UTC',
@@ -283,6 +283,10 @@ export default {
     margin-bottom: 1.5rem; // for page numbers
   }
 
+  .publication-date-content {
+    font-size: 13px;
+  }
+
   .to-cite-wrapper {
     .to-cite > .csl-bib-body > .csl-entry {
       font-size: 0.8em;
@@ -296,20 +300,17 @@ export default {
 
   .footer-content {
     padding: 0 2rem;
-    font-size: 0.9em;
+    font-size: 13px;
   }
 
   .page-title {
     margin-top: 0 !important;
     padding-top: 0 !important;
+    font-size: 38px;
   }
 
   .index {
     display: none !important;
-  }
-
-  .nuxt-content {
-    padding: 0 2rem;
   }
 
   .nuxt-content.article-body p,
@@ -317,11 +318,11 @@ export default {
   .csl-bib-body,
   .bibliography-panel,
   .footnotes-panel {
-    font-size: 22px !important;
+    color: #000 !important;
+    font-size: 14px !important;
     margin-bottom: 15px;
     margin-top: 10px;
-    word-spacing: 2px;
-    line-height: 30px !important;
+    line-height: 20px !important;
     text-align: justify;
     max-width: 100% !important;
   }
@@ -362,10 +363,11 @@ export default {
 
   .article-label {
     text-transform: uppercase;
-    font-size: 0.6rem;
+    font-size: 10px;
     margin-top: 2em;
     margin-bottom: 0.6em;
     color: #252525;
+    letter-spacing: 0.2em;
   }
 
   html,
@@ -388,6 +390,10 @@ export default {
     box-shadow: none !important;
   }
 
+  table.paging {
+    padding: 0 3rem !important;
+  }
+
   table.paging tfoot td {
     height: 1.2in;
   }
@@ -396,6 +402,7 @@ export default {
     height: 1.2in;
     width: 100%;
   }
+
   header,
   footer {
     position: fixed;
