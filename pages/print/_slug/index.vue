@@ -30,6 +30,7 @@
                 :initials="false"
                 full
                 show-institution
+                have-institutions-link
               />
             </div>
             <DoiBadge :doi="item.DOI"></DoiBadge>

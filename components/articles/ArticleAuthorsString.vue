@@ -13,6 +13,7 @@
       >
         <div
           v-for="(institution, index) in authorInformations.institutions"
+          :id="`institution-${index}`"
           :key="index"
           class="institutions"
           v-html="institution"
@@ -56,9 +57,6 @@ export default {
       type: Boolean,
       default: false,
     },
-  },
-  data() {
-    return {}
   },
   computed: {},
   mounted() {},
