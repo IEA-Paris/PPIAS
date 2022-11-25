@@ -156,10 +156,10 @@
             <span v-html="formatedAuthors"></span> -.
           </small>
         </div>
-        <div>
+        <div v-if="nameIssue != ''">
           <small>
-            {{ item.years }} / ?Numéro d'issue? - {{ nameIssue }} - Article
-            No.{{ articleNumber }}.
+            {{ new Date(item.date).getFullYear() }} / {{ issueNumber }} -
+            {{ nameIssue }} - Article No.{{ articleNumber }}.
           </small>
         </div>
         <div>
@@ -193,6 +193,8 @@
 </template>
 <script>
 import { formatAuthors } from '~/assets/utils/transforms'
+import filtersRaw from '~/assets/generated/filters'
+
 export default {
   layout: 'print',
   props: {},
@@ -232,11 +234,16 @@ export default {
         .fetch()
     )[0]
 
+    const issueNumber = filtersRaw.articles.filters.issue.items.findIndex(
+      (filteredIssue) => filteredIssue.toLowerCase() === nameIssue.toLowerCase()
+    )
+
     return {
       item,
       issue,
       nameIssue,
       articleNumber,
+      issueNumber: issueNumber === -1 ? 1 : issueNumber + 1,
     }
   },
   data() {
