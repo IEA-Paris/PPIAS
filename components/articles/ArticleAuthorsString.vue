@@ -1,5 +1,5 @@
 <template>
-  <div class="w-100">
+  <div>
     <template v-if="showInstitution">
       <div
         v-for="(author, index) in authorInformations.authors"

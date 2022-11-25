@@ -1,7 +1,7 @@
 <template>
   <article class="printpanel page pdf a4" style="background-color: white">
     <header>
-      <img
+      <!-- <img
         src="http://localhost:3000/ppias.svg"
         contain
         alt="Avatar"
@@ -11,7 +11,7 @@
           height: 70px;
           border: 3px solid black;
         "
-      />
+      /> -->
     </header>
 
     <table class="paging">
@@ -295,6 +295,7 @@ export default {
 
   .footer-content {
     padding: 0 2rem;
+    font-size: 0.9em;
   }
 
   .page-title {
@@ -349,10 +350,8 @@ export default {
   }
 
   .article-authors {
-    padding: 1em 0;
     font-family: 'Open sans', sans-serif;
-    width: 100%;
-    height: 100%;
+    padding: 1em 0;
   }
 
   .article-abstract {
