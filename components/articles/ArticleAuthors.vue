@@ -21,12 +21,17 @@
         :separator="index < item.authors.length - 1"
       ></ArticleAuthorItem>
     </div>
-    <div v-if="authorInformations.institutions.length" class="mt-3">
-      <div v-if="showInstitution" class="institutions-wrapper mb-3">
+    <div v-if="authorInformations.institutions.length" class="mx-0 mt-5">
+      <div
+        v-if="showInstitution"
+        class="institutions-wrapper mx-0 mb-3"
+        :class="{ 'ml-5': $vuetify.breakpoint.mdAndUp }"
+      >
         <span
           v-for="(institution, index) in authorInformations.institutions"
           :key="index"
-          class="institution"
+          class="institution mt-2"
+          :class="{ 'mt-4': $vuetify.breakpoint.smAndDown }"
           v-html="institution"
         >
         </span>
@@ -82,8 +87,6 @@ export default {
     }
     display: inline-block;
     font-size: 0.9rem;
-    margin-top: 0.3rem;
-    margin-left: 0.3rem;
     color: #666;
   }
 
