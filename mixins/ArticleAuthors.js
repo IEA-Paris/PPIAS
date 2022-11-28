@@ -2,6 +2,13 @@ import { formatAuthors, highlight } from '~/assets/utils/transforms'
 import slugify from '~/assets/utils/slugify'
 
 export default {
+  props: {
+    haveInstitutionsLink: {
+      required: false,
+      type: Boolean,
+      default: false,
+    },
+  },
   computed: {
     authorInformations() {
       // Generate the authors informations and format them
@@ -65,7 +72,8 @@ export default {
           true,
           false,
           this.$config.url,
-          institutionsIds
+          institutionsIds,
+          this.haveInstitutionsLink
         ),
         this.$store.state.articles.search || ''
       )
