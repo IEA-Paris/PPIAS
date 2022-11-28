@@ -522,5 +522,7 @@
     "copyToClipboard": "Copy to reference clipboard"
   },
   "no-bibliography-available-for-this-article": "No bibliography available for this article",
-  "articles-from-this-institution": "Articles from this institution"
+  "articles-from-this-institution": "Articles from this institution",
+  "show-less": "Show less",
+  "show-more": "Show more"
 }
