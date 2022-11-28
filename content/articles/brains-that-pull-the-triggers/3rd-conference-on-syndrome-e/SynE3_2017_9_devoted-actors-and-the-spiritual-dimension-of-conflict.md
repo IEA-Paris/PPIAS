@@ -1,6 +1,6 @@
 ---
 abstract: The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
-  10-11 May 2017 - Session 3 - The Will to Die and Kill
+  10-12 May 2017 - Session 3 - The Will to Die and Kill
 article_title: Devoted Actors and the Spiritual Dimension of Conflict on the ISIS
   Frontline and Elsewhere
 authors:

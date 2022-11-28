@@ -1,6 +1,6 @@
 ---
 abstract: The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
-  10-11 May 2017 - Session 2 - Self and Group
+  10-12 May 2017 - Session 2 - Self and Group
 article_title: A Neural Mechanism for Empathy and the Role of Society in its Modifications
 authors:
 - firstname: 'Giaccomo '
