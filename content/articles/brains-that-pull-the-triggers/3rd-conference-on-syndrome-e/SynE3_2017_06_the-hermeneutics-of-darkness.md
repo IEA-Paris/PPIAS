@@ -1,6 +1,6 @@
 ---
 abstract: 'The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris
-  IAS, 10-11 May 2017 - Session 1 - Heart of Darkness: Ordinary and Extraordinary
+  IAS, 10-12 May 2017 - Session 1 - Heart of Darkness: Ordinary and Extraordinary
   Perpetrators'
 article_title: 'The Hermeneutics of Darkness: Interpreting Perpetrators  on their
   Crimes'
