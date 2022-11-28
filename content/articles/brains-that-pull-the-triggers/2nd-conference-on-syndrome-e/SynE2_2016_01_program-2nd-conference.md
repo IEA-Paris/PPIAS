@@ -42,7 +42,7 @@ _“Arguably the biggest challenge for interdisciplinary dialogue across the fie
 09:15 - **Itzhak Fried** (UCLA/IEA Paris): "The Brains that Pull the Triggers: An  
 Ordinary Guy with a Kalashnikov"
 
-**Session 1: Empathy and Dehumanization**
+**Session 1 - Empathy and Dehumanization**
 
 10:15 - **Bruneau Emile** (MIT): "Intergroup empathy and dehumanizations: consequences, neural basis, intervention"
 
@@ -52,7 +52,7 @@ Ordinary Guy with a Kalashnikov"
 
 12:00 - Discussion
 
-**Session 2: Pathology: One of us or one unlike us?**
+**Session 2 - Pathology: One of us or one unlike us?**
 
 14:15 - **Asne Seierstad** (Norway): "Breivik and Beyond: “One of us” behind the Trigger"
 
@@ -62,9 +62,9 @@ Ordinary Guy with a Kalashnikov"
 
 **10th May 2016**
 
-**Session 3: Valuation and violence**
+**Session 3 - Valuation and violence**
 
-09:00 - **Ray Dolan** (University College London): **"**Self and Other Valuation"
+09:00 - **Ray Dolan** (University College London): "Self and Other Valuation"
 
 09:30 - **Matthias Pessiglione** (ICM): "What's wrong with the valuation system in a terrorist brain?"
 
@@ -72,19 +72,19 @@ Ordinary Guy with a Kalashnikov"
 
 10:30 - Discussion
 
-**Session 4: Clinical Correlations and Parallels**
+**Session 4 - Clinical Correlations and Parallels**
 
 11:45 - **Michel** **Botbol** (CHU Brest): "What can the clinic of “difficult” adolescents tell us about Syndrome E?"
 
 12:15 - **Lionel Nachache** (ICM): "Is society subject to “epileptic seizures”? Communication within the brain microcosm and communication within the societal macrocosm"
 
-14:00 - **Trevor Robbins** (Oxford): **"**The Neuropsychopharmacology of Syndrome E"
+14:00 - **Trevor Robbins** (Oxford): "The Neuropsychopharmacology of Syndrome E"
 
 14:30 - Discussion
 
-**Session 5: Responsibility and Intervention**
+**Session 5 - Responsibility and Intervention**
 
-15:15 - **Haggard Patrick** (UCL): **"**Why I didn't do it... can other people reduce individual responsibility for action?"
+15:15 - **Haggard Patrick** (UCL): "Why I didn't do it... can other people reduce individual responsibility for action?"
 
 15:45 - **Ken Paller** (Northwestern): "Changing hearts and minds — A perspective from memory research"
 
