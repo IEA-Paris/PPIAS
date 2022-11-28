@@ -23,6 +23,7 @@ stop: false
 subissue: 3rd Conference on Syndrome E
 yt: gXYBdKRZaYk
 language: English
+sub-issue: 3rd Conference on Syndrome E
 
 ---
 <Youtube yt="gXYBdKRZaYk" caption="The Brains that Pull the Triggers: Syndrome E, 2017" start="false" stop="false"></Youtube>
