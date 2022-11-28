@@ -59,7 +59,8 @@ export const formatAuthors = (
   full = false,
   initials = true,
   url = '',
-  institutionsIds = []
+  institutionsIds = [],
+  linkInsitution = true
 ) => {
   const format = (author) => {
     const name =
@@ -85,7 +86,12 @@ export const formatAuthors = (
     if (full) {
       const slug = getAuthorSlug(author)
       const instutionElmt = institutionsIds
-        .map((instutionId) => `<sup>${instutionId}</sup>`)
+        .map((instutionId) => {
+          if (linkInsitution) {
+            return `<a style="text-decoration: none;" href="#institution-${instutionId}"><sup>${instutionId}</sup></a>`
+          }
+          return `<sup>${instutionId}</sup>`
+        })
         .join('')
       return `<a href="${url}/authors/${slug}" style="text-decoration: none; color: inherit;">${name}<span style="margin-left: 3px">${instutionElmt}</span></a>`
     }
