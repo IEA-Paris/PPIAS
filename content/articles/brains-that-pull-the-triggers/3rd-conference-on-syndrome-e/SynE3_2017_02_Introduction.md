@@ -1,6 +1,6 @@
 ---
 abstract: 'The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris
-  IAS, 10-11 May 2017 - Introduction '
+  IAS, 10-12 May 2017 - Introduction '
 article_title: 'The Brains that Pull the Triggers: Syndrome E, 2017'
 authors:
 - firstname: 'Itzhak '
