@@ -1,6 +1,6 @@
 import Citation from 'citation-js'
+import insertBibliographicalReferences from '../../modules/publio/lib/article/body/insertBibliographicalReferences'
 import {
-  insertReferences,
   replaceReferenceInFootnote,
   insertReferencesInAbstract,
 } from '../lib/contentUtilities'
@@ -265,7 +265,10 @@ export default (document) => {
                 // insert Bibliographical references
                 children: [
                   document.bibliography?.length
-                    ? insertReferences(child, document.bibliography)
+                    ? insertBibliographicalReferences(
+                        child,
+                        document.bibliography
+                      )
                     : child,
                 ],
               },
@@ -274,7 +277,7 @@ export default (document) => {
         } else {
           // insert Bibliographical references
           return document.bibliography?.length
-            ? insertReferences(child, document.bibliography)
+            ? insertBibliographicalReferences(child, document.bibliography)
             : child
         }
       })

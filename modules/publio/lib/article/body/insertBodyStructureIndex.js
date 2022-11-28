@@ -1,4 +1,4 @@
-import { insertReferences } from '../../../utils/contentUtilities'
+import insertBibliographicalReferences from './insertBibliographicalReferences'
 
 export default (node, article, media, authors, issues, options) => {
   const flag = ['h2', 'h3', 'youtube', 'img'].indexOf(node.tag)
@@ -58,7 +58,10 @@ export default (node, article, media, authors, issues, options) => {
                 // insert Bibliographical references
                 children: [
                   article.bibliography?.length
-                    ? insertReferences(node, article.bibliography)
+                    ? insertBibliographicalReferences(
+                        node,
+                        article.bibliography
+                      )
                     : node,
                 ],
               },

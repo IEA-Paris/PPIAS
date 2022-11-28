@@ -70,17 +70,16 @@ export default {
       }
       this.showNote = true
       this.noteIndex = +to.hash.substring(4)
-      window.addEventListener('scroll', this.hideSnack)
-    } else if (to.hash && to.hash.startsWith('#bb-')) {
+    } else if (to.hash && to.hash.startsWith('#!bb-')) {
       this.note = this.item[0].bibliography.find(
-        (item) => item.id === to.hash.substring(4)
+        (item) => item.id === to.hash.substring(5)
       )[this.$store.state.articles.style]
       if (this.note) {
         this.footnote = false
         this.$nextTick(() => {
           this.showNote = true
         })
-        window.addEventListener('scroll', this.hideSnack())
+
         next(from)
       }
     } else if (to.hash && to.hash.substring(1).startsWith('blfn')) {
@@ -124,11 +123,20 @@ export default {
     }
   },
   computed: {},
-  mounted() {
-    this.$store.commit('setLoading', false)
+  watch: {
+    showNote(newVal) {
+      if (newVal) {
+        document.addEventListener('scroll', this.hideSnack)
+      } else {
+        document.removeEventListener('scroll', this.hideSnack)
+      }
+    },
   },
   destroyed() {
     window.removeEventListener('scroll', this.hideSnack)
+  },
+  mounted() {
+    this.$store.commit('setLoading', false)
   },
   methods: {
     onIntersect(entries, observer) {
@@ -138,7 +146,6 @@ export default {
     },
     hideSnack() {
       this.showNote = false
-      window.removeEventListener('scroll', this.hideSnack)
     },
   },
 }

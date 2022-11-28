@@ -6,6 +6,7 @@ import fs from 'fs'
 import yaml from 'js-yaml'
 import matter from 'gray-matter'
 import fsExtra from 'fs-extra'
+import referenceRegex from './referenceRegex'
 /* import { Repository, Tree, Diff } from 'nodegit' */
 import slugify from './slugify'
 import { formatAuthors } from './transforms'
@@ -438,12 +439,6 @@ ${doc.text ? doc.text : ''}`
   // TODO make selective depending on website settings
   disciplines.forEach((area) => {})
 } */
-// eslint-disable-next-line no-misleading-character-class
-const referenceRegex = new RegExp(
-  // eslint-disable-next-line no-misleading-character-class
-  /@[\w-' '陳大文łŁőŐűŰZàáâäãåąčćęèéêëėįìíîïłńòóôöõøùúûüųūÿýżźçčšžÀÁÂÄÃÅĄĆČĖĘÈÉÊËÌÍÎÏĮŁŃÒÓÔÖÕØÙÚÛÜŲŪŸÝŻŹßÇŒÆČŠŽ.âê都道府県Федерацииআবাসযোগ্য জমির걸쳐 있는:!\/,?.;*$=()\\&-'"&²¹`#\[\]\{\}\%\#\$\^\~\&\_]+_[\w-' '陳大文łŁőŐűŰZàáâäãåąčćęèéêëėįìíîïłńòóôöõøùúûüųūÿýżźçčšžÀÁÂÄÃÅĄĆČĖĘÈÉÊËÌÍÎÏĮŁŃÒÓÔÖÕØÙÚÛÜŲŪŸÝŻŹßÇŒÆČŠŽ.âê都道府県Федерацииআবাসযোগ্য জমির걸쳐 있는:!\/,?.;*$=()\\&-'"&²¹`#\[\]\{\}\%\#\$\^\~\&\_]+_\d{4}/,
-  'i'
-)
 export const insertReferencesInAbstract = (text, biblio) => {
   const matches = text.match(referenceRegex)
   if (matches !== null) {
@@ -466,70 +461,7 @@ export const insertReferencesInAbstract = (text, biblio) => {
   }
   return text
 }
-export const insertReferences = (node, biblio) => {
-  try {
-    const replaceReference = (node) => {
-      // only match citation keys (@author_title_year)
-      // 'author' 'title' above refer to the first word of these only
 
-      const matches = node.value.match(referenceRegex)
-      // do we have references to replace?
-      if (matches !== null) {
-        const element = matches[0]
-        // find the related reference
-        const ref = biblio.find(
-          (item) => item.id === element.toLowerCase().substring(1)
-        )
-        if (!ref) {
-          // TODO write it in a file somewhere to use it in CMS
-          console.log('REFERENCE NOT FOUND IN BIB FILE: ', element)
-        } else {
-          ref.link = true
-          // edit the node to include the link
-          node = {
-            type: 'element',
-            tag: 'span',
-            props: { class: 'node' },
-            children: [
-              { type: 'text', value: node.value.split(element)[0] },
-              {
-                type: 'element',
-                tag: 'a',
-                props: {
-                  id: 'bb-' + ref.id,
-                  href: '#bb-' + ref.id,
-                  onclick: 'event.stopPropagation();',
-                },
-                children: [
-                  {
-                    type: 'text',
-                    value: ref.citation,
-                  },
-                ],
-              },
-              node.value.split(element).slice(1).join(element) &&
-                replaceReference({
-                  type: 'text',
-                  value: node.value.split(element).slice(1).join(element),
-                }),
-            ],
-          }
-        }
-      }
-      return node
-    }
-    if (node.type === 'text') {
-      node = replaceReference(node)
-    } else if (node?.children?.length > 0) {
-      node.children = node.children.map((child) =>
-        insertReferences(child, biblio)
-      )
-    }
-    return node
-  } catch (error) {
-    console.log('error: ', error)
-  }
-}
 export const replaceReferenceInFootnote = (footnote, biblio) => {
   if (!footnote.value && footnote.children.length) {
     footnote.children = footnote.children.map((footNoteChild) =>
