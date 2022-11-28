@@ -1,19 +1,24 @@
 ---
-abstract: >-
-  The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
-  10-11 May 2017 
-article_title: >-
-  Devoted Actors and the Spiritual Dimension of Conflict on the ISIS Frontline
-  and Elsewhere
+abstract: The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
+  10-11 May 2017 - Session 3 - The Will to Die and Kill
+article_title: Devoted Actors and the Spiritual Dimension of Conflict on the ISIS
+  Frontline and Elsewhere
 authors:
-  - firstname: 'Scott '
-    is_institution: false
-    lastname: ATRAN
-    positions_and_institutions:
-      - institution: ' University of Michigan, USA'
-        positions:
-          - ''
-date: 2017-05-11T07:00:00.000Z
+- firstname: 'Scott '
+  is_institution: false
+  lastname: Atran
+  positions_and_institutions:
+  - institution: " University of Michigan, USA"
+    positions:
+    - ''
+  titles_and_institutions:
+  - institution: University of Michigan, USA
+  social_channels:
+    wikipedia: https://en.wikipedia.org/wiki/Scott_Atran
+    google_scholar: https://scholar.google.com/citations?user=7EQ7ezwAAAAJ&hl=en
+    researchgate: https://www.researchgate.net/profile/Scott-Atran-2
+    orcid: 0000-0002-0796-7279
+date: 2017-05-11T07:00:00.000+00:00
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
 needDOI: false
@@ -22,6 +27,14 @@ start: false
 stop: false
 subissue: 3rd Conference on Syndrome E
 yt: cjI1JJznVS4
+language: English
+sub-issue: 3rd Conference on Syndrome E
 
 ---
+Uncompromising wars, revolution, rights movements, and today’s global terrorism are in part driven by Devoted Actors who adhere to sacred or transcendent values that generate actions independently, or all out of proportion, from rationally expected outcomes, calculated costs and consequences, or likely risks and rewards. 
+
+Field-based observation, surveys and experimental studies in real-world political conflicts show ways in which Devoted Actors, who are unconditionally committed to sacred causes, and whose personal identities are fused within a unique collective identity, willingly make costly sacrifices including fighting and dying, thus enabling low-power groups to endure and often prevail against materially much stronger foes. 
+
+Explaining how devoted actors come to sacrifice for cause and comrade not only is a scientific goal, but also a practical imperative to prevent and resolve seemingly intractable intergroup disputes that can spiral out of control in a rapidly interconnecting world of collapsing and conflicting cultural traditions in search of salvation and escape from the dark side of globalization. To help make the case we present field studies with combatants on the frontlines in the battle with the Islamic State in Iraq and with radicalized populations in Morocco, and brain imaging of supporters of Lashkar-e-Taiba, an Al Qaeda affiliate, among Pakistani immigrants in Spain.
+
 <Youtube yt="cjI1JJznVS4" caption="Devoted Actors and the Spiritual Dimension of Conflict on the ISIS Frontline and Elsewhere" start="false" stop="false"></Youtube>
