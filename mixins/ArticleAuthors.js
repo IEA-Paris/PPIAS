@@ -65,26 +65,22 @@ export default {
   },
   methods: {
     getFormatedAuthors(author, institutionsIds) {
-      return highlight(
-        formatAuthors(
-          [author],
-          this.$i18n.$t,
-          true,
-          false,
-          this.$config.url,
-          institutionsIds,
-          this.haveInstitutionsLink
-        ),
-        this.$store.state.articles.search || ''
+      return formatAuthors(
+        [author],
+        this.$i18n.$t,
+        true,
+        false,
+        this.$config.url,
+        institutionsIds,
+        this.haveInstitutionsLink
       )
     },
     getFormatedInstitution(positionsAndInstitutions) {
-      return highlight(
+      return (
         (positionsAndInstitutions &&
           positionsAndInstitutions &&
           positionsAndInstitutions?.institution) ||
-          '',
-        this.$store.state.articles.search || ''
+        ''
       )
     },
     slugify(str) {
