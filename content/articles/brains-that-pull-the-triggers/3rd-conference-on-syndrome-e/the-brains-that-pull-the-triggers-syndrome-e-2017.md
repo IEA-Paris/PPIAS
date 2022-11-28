@@ -1,17 +1,16 @@
 ---
-abstract: >-
-  The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
-  10-11 May 2017 
+abstract: 'The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris
+  IAS, 10-11 May 2017 - Introduction '
 article_title: 'The Brains that Pull the Triggers: Syndrome E, 2017'
 authors:
-  - firstname: 'Itzhak '
-    is_institution: false
-    lastname: FRIED
-    positions_and_institutions:
-      - institution: UCLA, USA / Université de Tel-Aviv, Israël
-        positions:
-          - ''
-date: 2017-05-10T00:00:00.000Z
+- firstname: 'Itzhak '
+  is_institution: false
+  lastname: FRIED
+  positions_and_institutions:
+  - institution: UCLA, USA / Université de Tel-Aviv, Israël
+    positions:
+    - ''
+date: 2017-05-10T00:00:00.000+00:00
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
 needDOI: false
@@ -20,6 +19,7 @@ start: false
 stop: false
 subissue: 3rd Conference on Syndrome E
 yt: gXYBdKRZaYk
+language: English
 
 ---
 <Youtube yt="gXYBdKRZaYk" caption="The Brains that Pull the Triggers: Syndrome E, 2017" start="false" stop="false"></Youtube>
