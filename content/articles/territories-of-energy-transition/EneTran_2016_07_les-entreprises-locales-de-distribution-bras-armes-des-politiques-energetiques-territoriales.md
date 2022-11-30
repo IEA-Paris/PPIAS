@@ -24,7 +24,7 @@ start: '1670'
 stop: '3423'
 subissue: false
 yt: 91gKgLPtFno
-language: English
+language: French
 
 ---
 La mise à l'agenda des enjeux énergie-climat par les collectivités territoriales interroge l'évolution de leurs relations avec les opérateurs énergétiques, qui apparaissent comme des leviers d'action. Cette question prend une dimension particulière dans le cas des communes propriétaires ou actionnaires majoritaires d'entreprises locales de distribution (ELD), qui distribuent de l'électricité et parfois du gaz et de la chaleur. Ces opérateurs locaux se saisissent d'opportunités liées aux politiques énergie-climat et élaborent des stratégies valorisant leur ancrage territorial. Cet ancrage ne fait pas pour autant des ELD des outils de politique énergétique territoriale, ce qui supposerait une capacité d'initiative et de pilotage des acteurs politiques municipaux en fonction d'objectifs propres. L'analyse des exemples de Grenoble et Metz permet de montrer que la construction de l'énergie comme enjeu politique local est progressive et hétérogène et se heurte à une expertise limitée des communes sur l'énergie. Ceci limite l'intégration d'objectifs énergétiques et climatiques dans le pilotage des ELD. Les changements sont en revanche beaucoup plus importants sur le plan opérationnel, dans des projets qui impliquent des relations partenariales autour d’enjeux énergétiques, notamment plans climat-énergie territoriaux, réponses à appels d’offres nationaux et européens, coordination des réseaux de distribution.
