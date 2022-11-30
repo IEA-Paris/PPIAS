@@ -1,7 +1,7 @@
 ---
-abstract: 'Energy Transitions in Europe: The role of cities, regions and territories.
-  Paris IAS, 23 May 2016 - Conclusion'
-article_title: Conclusion
+abstract: 'Les territoires de la transition énergétique : Allemagne, France, Royaume-Uni.
+  IEA de Paris, 23 mai 2016 - Clôture'
+article_title: Remerciements et mots de clôture
 authors:
 - firstname: Célia
   is_institution: false
