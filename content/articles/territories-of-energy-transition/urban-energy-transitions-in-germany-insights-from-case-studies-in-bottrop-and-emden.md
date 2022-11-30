@@ -1,19 +1,19 @@
 ---
-abstract: >-
-  Energy Transitions in Europe: The role of cities, regions and territories.
-  Paris IAS, 23 May 2016 - Session 1 Germany
-article_title: >-
-  Urban energy transitions in Germany: insights from case studies in Bottrop and
-  Emden
+abstract: 'Les territoires de la transition énergétique : Allemagne, France, Royaume-Uni.
+  IEA de Paris, 23 mai 2016 - Session 1 - Allemagne'
+article_title: 'Urban Energy Transitions in Germany: Insights from Case Studies in
+  Bottrop and Emden'
 authors:
-  - firstname: 'Jens '
-    is_institution: false
-    lastname: Koehrsen
-    positions_and_institutions:
-      - institution: Basel University, Switzerland
-        positions:
-          - ''
-date: 2016-05-23T01:00:00.000Z
+- firstname: 'Jens '
+  is_institution: false
+  lastname: Koehrsen
+  positions_and_institutions:
+  - institution: Basel University, Switzerland
+    positions:
+    - ''
+  titles_and_institutions:
+  - institution: Basel University, Switzerland
+date: 2016-05-23T01:00:00.000+00:00
 highlight: false
 issue: content/issues/territories-of-energy-transition.md
 needDOI: false
@@ -22,6 +22,9 @@ start: '1752'
 stop: '3764'
 subissue: false
 yt: zDbFi9JVqNw
+language: English
 
 ---
+The presentation will compare insights from case studies on urban energy transition process in the German cities Bottrop and Emden. The case studies are based on data gathered through archival research and 68 semi-structured, in-depth interviews with actors related to different social spheres (economy, research, politics, city administration etc.) that are involved in the given local energy transition process. The comparative analysis shows that different governance forms of the transition process evolve in the two cities: the transition in Bottrop is mainly led by a central intermediary that convenes and coordinates actors from different social spheres whereas in Emden, a central governing body is missing, as the process is mostly based on individual collaborations between loosely networked actors.
+
 <Youtube yt="zDbFi9JVqNw" caption="Urban energy transitions in Germany: insights from case studies in Bottrop and Emden" start="1752" stop="3764"></Youtube>
