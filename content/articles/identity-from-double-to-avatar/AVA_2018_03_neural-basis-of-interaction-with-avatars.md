@@ -15,7 +15,7 @@ authors:
 date: 2018-12-13T02:00:00.000+00:00
 highlight: false
 issue: content/issues/identity-from-double-to-avatar.md
-needDOI: false
+needDOI: true
 published: true
 start: false
 stop: false
