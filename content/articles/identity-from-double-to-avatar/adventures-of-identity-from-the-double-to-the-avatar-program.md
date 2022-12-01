@@ -1,6 +1,6 @@
 ---
 abstract: 'Adventures of Identity: From the Double to the Avatar. Paris IAS, 13-14
-  December 2018'
+  December 2018 - Program'
 article_title: 'Adventures of Identity: From the Double to the Avatar - Program        '
 authors:
 - lastname: Paris Institute for Advanced Study, France
@@ -18,15 +18,17 @@ yt: false
 language: English
 
 ---
+International conference organized by Andrea Pinotti (Università Statale di Milano / IEA de Paris 2017/2018), with the support of the Istituto Italiano de Cultura di Parigi and the FMSH
+
 ### Program
 
 **13th December 2018**
 
-**Session 1** - chair **Andrea Pinotti (**Università Statale di Milano**)**
+**Session 1** - chair **Andrea Pinotti** (Università Statale di Milano)
 
 **10:00**   Welcoming speech and introductory remarks
 
-**10:30**   **Charles Malamoud** (EHESS, Paris): "_“_Tout le monde descend!” La notion d’avatar dans la mythologie et la spéculation de l’Inde hindoue”"
+**10:30**   **Charles Malamoud** (EHESS, Paris): " “Tout le monde descend!” La notion d’avatar dans la mythologie et la spéculation de l’Inde hindoue”"
 
 **11:30**   **Alain Berthoz** (Collège de France, Paris): “Neural basis of interaction with avatars”
 
@@ -44,15 +46,15 @@ language: English
 
 **Session 3** - chair **Tamar Flash** (Weizmann Institute of Science, Rehovot)
 
-**10:00**   **Mel Slater** (University of Barcelona): _“_Being Someone Else – The Power of Avatar Self Representation”
+**10:00**   **Mel Slater** (University of Barcelona): "Being Someone Else – The Power of Avatar Self Representation”
 
-**10:30**   **Sara Guindani** (FMSH-Collège d’études mondiales, Paris): _“_Playing for real. The avatar and the double in analytical psychodrama”
+**10:30**   **Sara Guindani** (FMSH-Collège d’études mondiales, Paris): "Playing for real. The avatar and the double in analytical psychodrama”
 
 **11:30**   **Barbara Grespi** (Università di Bergamo): “Interacting with your avatar. Problems of gesture recognition”
 
 **12:00**   discussant **Elise Harris** (Université Paris Diderot): Round-table discussion
 
-**Session 4** - chair **Giandomenico Iannetti (**Istituto Italiano di Tecnologia, Roma)
+**Session 4** - chair **Giandomenico Iannetti** (Istituto Italiano di Tecnologia, Roma)
 
 **15:00**   **Olaf Blanke** (École Polytechnique Fédérale de Lausanne): “From the neuroscience of self-consciousness to virtual reality, digiceuticals, and human augmentation”
 
