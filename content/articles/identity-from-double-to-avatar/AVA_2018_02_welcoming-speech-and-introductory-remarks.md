@@ -1,6 +1,6 @@
 ---
 abstract: 'Adventures of Identity: From the Double to the Avatar. Paris IAS, 13-14
-  December 2019 - Welcoming Speech'
+  December 2018 - Welcoming Speech'
 article_title: Welcoming Speech and Introductory Remarks
 authors:
 - firstname: 'Andrea '
