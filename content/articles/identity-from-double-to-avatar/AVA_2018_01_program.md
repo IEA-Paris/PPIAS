@@ -10,7 +10,7 @@ date: 2018-12-13T00:00:00.000+00:00
 highlight: false
 issue: content/issues/identity-from-double-to-avatar.md
 needDOI: false
-published: false
+published: true
 start: false
 stop: false
 subissue: false
