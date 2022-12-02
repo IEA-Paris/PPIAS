@@ -7,10 +7,6 @@ authors:
   is_institution: false
   lastname: Reynolds
   positions_and_institutions:
-  - institution: " Paris Institute for Avanced Studies, France"
-    positions:
-    - ''
-  titles_and_institutions:
   - institution: Paris Institute for Advanced Studies, France
   - institution: 'John-F.-Kennedy Institut, Freie Universität Berlin, Germany '
 date: 2015-09-25T06:00:00.000+00:00

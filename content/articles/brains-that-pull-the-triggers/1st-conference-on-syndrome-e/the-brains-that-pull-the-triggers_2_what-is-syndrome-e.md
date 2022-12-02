@@ -8,9 +8,6 @@ authors:
   lastname: Fried
   positions_and_institutions:
   - institution: UCLA, USA / Université de Tel-Aviv, Israël
-    positions:
-    - ''
-  titles_and_institutions:
   - institution: Paris Institute for Advanced Study, France
   - institution: University of California Los Angeles, USA
 date: 2015-04-28T00:00:00.000+00:00

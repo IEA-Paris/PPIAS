@@ -1,6 +1,6 @@
 {
   "name": "PPIAS",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "description": "Open source publishing platform for open science.",
   "scripts": {

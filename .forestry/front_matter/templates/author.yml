@@ -22,10 +22,10 @@ fields:
     label: Lastname or Institution name
     showOnly:
       value: true
-  - name: titles_and_institutions
+  - name: positions_and_institutions
     type: field_group_list
     fields:
-      - name: titles
+      - name: positions
         type: list
         config:
           use_select: false

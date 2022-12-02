@@ -3,14 +3,8 @@
     <header>
       <img
         src="http://localhost:3000/ppias.svg"
-        contain
         alt="Avatar"
-        style="
-          cursor: pointer;
-          width: 70px;
-          height: 70px;
-          border: 3px solid black;
-        "
+        style="width: 70px; height: 70px"
       />
     </header>
 
@@ -34,13 +28,24 @@
               />
             </div>
             <DoiBadge :doi="item.DOI"></DoiBadge>
-            <div class="article-label mt-6 mb-3">
-              {{ $t('publication-date') }}
+
+            <div v-if="item.toCite && item.toCite.apa" class="to-cite-wrapper">
+              <div class="article-label mt-12 mb-4">
+                {{ $t('to-cite') }}
+              </div>
+              <div class="to-cite" v-html="item.toCite.apa"></div>
             </div>
+
             <div class="mb-6 publication-date-content">
+              <div class="article-label mt-6 mb-3">
+                {{ $t('publication-date') }}
+              </div>
               {{
-                new Date(item.date).toLocaleDateString('EN', {
-                  timezone: 'UTC',
+                new Date(item.date).toLocaleDateString('en-GB', {
+                  // you can use undefined as first argument
+                  year: 'numeric',
+                  month: '2-digit',
+                  day: '2-digit',
                 })
               }}
             </div>
@@ -99,23 +104,19 @@
                 ></Tag>
               </div>
             </template>
+
             <div
               v-if="item.abstract && item.abstract.length"
-              class="article-label mt-12 mb-4"
+              class="article-abstract-frame mb-6"
             >
-              {{ $t('abstract') }}
-            </div>
-            <div
-              v-if="item.abstract && item.abstract.length"
-              class="article-abstract-frame"
-            >
+              <div class="article-label mt-12 mb-4">
+                {{ $t('abstract') }}
+              </div>
               <div class="article-abstract">
                 {{ item.abstract }}
               </div>
             </div>
-            <div v-if="item.toCite && item.toCite.apa" class="to-cite-wrapper">
-              <div class="to-cite" v-html="item.toCite.apa"></div>
-            </div>
+
             <nuxt-content :document="item" class="article-body" />
             <div
               v-if="item.bibliography && item.bibliography.length"
@@ -146,40 +147,27 @@
     </table>
     <footer id="footer">
       <v-divider class="footer-divider"></v-divider>
+
       <div class="footer-content">
-        <div>
-          <small class="print-footer-text">
-            <!-- TODO update with website variable name -->
-            <span class="overline"
-              >&copy; {{ new Date().getFullYear() }} {{ $t('paris-ias') }}</span
-            >
-            - <span v-html="item.article_title"></span> by
-            <span v-html="formatedAuthors"></span> -.
-          </small>
-        </div>
-        <div v-if="nameIssue != ''">
+        <div v-if="nameIssue">
+          <small v-html="item.toCite.apa"></small>
           <small>
-            {{ new Date(item.date).getFullYear() }} / {{ issueNumber }} -
+            {{ new Date(item.date).getFullYear() }}/{{ issueNumber }} -
             {{ nameIssue }} - Article No.{{ articleNumber }}.
-          </small>
-        </div>
-        <div>
-          <small>
             {{ $t('freely-available') }}
-            <a :href="articleUrl" style="text-decoration: none">{{
-              articleUrl
-            }}</a>
-          </small>
-        </div>
-        <div>
-          <small>
-            {{ $config.identifier.ISSN }} / &copy;
+            <a
+              :href="`${$config.url}/articles/${item.slug}`"
+              style="text-decoration: none"
+              >{{ `${$config.url}/articles/${item.slug}` }}</a
+            >
+            - {{ $config.identifier.ISSN }}/&copy;
             {{ new Date().getFullYear() }}
-            {{ $t('the-authors') }}
+            <span v-html="formatedAuthors"></span>
           </small>
         </div>
         <div>
           <small class="print-footer-text">
+            This is an open access article published under the
             <a
               href="https://creativecommons.org/licenses/by-nc/4.0/"
               style="text-decoration: none"
@@ -212,18 +200,19 @@ export default {
     let articleNumber = 1
 
     if (dirArticle.length > 1) {
-      articleNumber = (
-        await $content('articles', { deep: true })
-          .where({
-            dir: { $contains: item.dir.split('/').at(-1) },
+      articleNumber =
+        (
+          await $content('articles', { deep: true })
+            .where({
+              dir: { $contains: item.dir.split('/').at(-1) },
+            })
+            .only(['date', 'slug'])
+            .fetch()
+        )
+          .sort((a, b) => {
+            return new Date(b.date) - new Date(a.date)
           })
-          .only(['date', 'slug'])
-          .fetch()
-      )
-        .sort((a, b) => {
-          return new Date(b.date) - new Date(a.date)
-        })
-        .findIndex((article) => article.slug === item.slug)
+          .findIndex((article) => article.slug === item.slug) + 1
     }
 
     const nameIssue = item.issue.slice(15, -3)
@@ -263,9 +252,6 @@ export default {
     this.$store.commit('setLoading', false)
   }, */
   computed: {
-    articleUrl() {
-      return `${this.$config.url}/articles/${this.item.slug}`
-    },
     formatedAuthors() {
       return this.item
         ? formatAuthors(this.item.authors, this.$i18n.$t, true)
@@ -285,17 +271,23 @@ export default {
 
   .publication-date-content {
     font-size: 13px;
+    border-left: 5px #2c2c2d solid;
+    padding: 0 15px;
   }
 
   .to-cite-wrapper {
     .to-cite > .csl-bib-body > .csl-entry {
-      font-size: 0.8em;
+      font-size: 0.7em;
       line-height: 1.2em;
     }
-    border: 1px #000 solid;
-    padding: 1em;
+    border-left: 5px #5b5b66 solid;
+    padding: 0 15px;
+    font-size: 0.4em;
+  }
+  .article-abstract-frame {
+    border-left: 5px #000 solid;
+    padding: 0 15px;
     margin-bottom: 1em;
-    font-size: 0.8em;
   }
 
   .footer-content {
@@ -306,7 +298,7 @@ export default {
   .page-title {
     margin-top: 0 !important;
     padding-top: 0 !important;
-    font-size: 38px;
+    font-size: 40px;
   }
 
   .index {
@@ -314,32 +306,45 @@ export default {
   }
 
   .nuxt-content.article-body p,
-  .nuxt-content.article-body ul li,
-  .csl-bib-body,
-  .bibliography-panel,
-  .footnotes-panel {
+  .to-cite .csl-bib-body,
+  .footnotes-panel,
+  .nuxt-content.article-body ul li {
     color: #000 !important;
-    font-size: 14px !important;
+    font-size: 20px !important;
     margin-bottom: 15px;
     margin-top: 10px;
-    line-height: 20px !important;
+    line-height: 32px !important;
     text-align: justify;
-    max-width: 100% !important;
+    width: 100%;
+    max-width: 100%;
+  }
+  .nuxt-content.article-body p {
+    text-align: justify;
+  }
+  .csl-bib-body,
+  .footnotes-panel,
+  .nuxt-content.article-body ul li {
+    text-align: left;
+  }
+  .bibliography-panel {
+    margin-left: 0 !important;
+    font-size: 14px !important;
+    text-align: left;
   }
 
   .nuxt-content.article-body h2,
   #bibliography,
   #footnotes {
-    font-size: 45px !important;
+    font-size: 35px !important;
     margin-bottom: 30px;
     margin-top: 60px;
     word-spacing: 2px;
-    line-height: 55px !important;
+    line-height: 45px !important;
   }
 
   .nuxt-content.article-body h3 {
-    font-size: 36px !important;
-    line-height: 40px !important;
+    font-size: 28px !important;
+    line-height: 34px !important;
     margin-bottom: 30px;
     margin-top: 60px;
   }
@@ -391,7 +396,9 @@ export default {
   }
 
   table.paging {
-    padding: 0 3rem !important;
+    max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   table.paging tfoot td {
@@ -413,12 +420,6 @@ export default {
   }
 }
 
-.article-abstract-frame {
-  border: 1px #000 solid;
-  padding: 1em;
-  margin-bottom: 1em;
-}
-
 .v-divider {
   margin: 0 1em;
 }
@@ -436,7 +437,6 @@ header {
 header,
 footer {
   width: 100%;
-  max-width: 800px;
 }
 
 .page-number {
@@ -445,14 +445,5 @@ footer {
 
 .footer-divider {
   margin-bottom: 0.5cm;
-}
-
-.print-footer-text {
-  max-width: 15cm !important;
-}
-
-.footnotes {
-  color: red;
-  display: none;
 }
 </style>

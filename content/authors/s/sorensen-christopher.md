@@ -23,7 +23,7 @@ social_channels:
   twitter: '@C_D_Sorensen'
   website: ''
   wikipedia: ''
-titles_and_institutions:
+positions_and_institutions:
   '0':
     institution: GreenLab, Denmark
     titles: []

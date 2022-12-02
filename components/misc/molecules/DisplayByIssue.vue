@@ -10,7 +10,7 @@
     <v-row
       v-for="(issue, index) in data.issues"
       :key="index"
-      class="transition-swing pt-4"
+      class="transition-swing"
       :no-gutters="!$store.state.scrolled"
       :class="$store.state.scrolled ? '' : 'mx-3'"
     >

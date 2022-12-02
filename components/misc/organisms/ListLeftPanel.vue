@@ -177,7 +177,11 @@
             </div>
           </template>
           <template v-else>
-            <div width="100%" class="my-6 ml-6">
+            <div
+              width="100%"
+              :class="{ 'ml-6': !$store.state.scrolled }"
+              class="my-6"
+            >
               {{ $t('no-result-matching-your-filters') }}
               <br />
               <v-btn
@@ -191,45 +195,6 @@
             </div>
           </template>
         </template>
-        <v-container
-          v-if="!$store.state.loading"
-          class="footer-pagination d-flex transition-swing"
-          :class="
-            $vuetify.breakpoint.smAndDown
-              ? 'flex-column-reverse align-center'
-              : 'justify-space-between'
-          "
-        >
-          <div
-            class="perpage-select"
-            :class="$vuetify.breakpoint.smAndDown ? 'text-center' : ''"
-          >
-            <span
-              class="grey--text pr-3"
-              :class="{ 'ml-6': !$store.state.scrolled }"
-              >{{ $t('items-per-page') }}</span
-            >
-            <v-select
-              v-model="itemsPerPage"
-              class="perPageSelect"
-              solo
-              outlined
-              flat
-              dense
-              :items="$store.state[type].itemsPerPageArray"
-              hide-details
-            ></v-select>
-          </div>
-          <div class="text-center">
-            <Pagination
-              v-if="numberOfPages > 1"
-              :total-visible="5"
-              :value="page || 1"
-              :length="numberOfPages"
-              @input="handlePagination"
-            />
-          </div>
-        </v-container>
       </v-col>
       <v-col
         v-if="$vuetify.breakpoint.smAndUp && filter"
@@ -246,6 +211,47 @@
         ></v-row>
       </v-col>
     </v-row>
+
+    <v-container
+      v-if="!$store.state.loading"
+      class="footer-pagination d-flex transition-swing"
+      :class="[
+        $vuetify.breakpoint.smAndDown
+          ? 'flex-column-reverse align-center'
+          : 'justify-space-between',
+        { unpadded: filter },
+      ]"
+    >
+      <div
+        class="perpage-select"
+        :class="$vuetify.breakpoint.smAndDown ? 'text-center' : ''"
+      >
+        <span
+          class="grey--text pr-3"
+          :class="{ 'ml-6': !$store.state.scrolled }"
+          >{{ $t('items-per-page') }}</span
+        >
+        <v-select
+          v-model="itemsPerPage"
+          class="perPageSelect"
+          solo
+          outlined
+          flat
+          dense
+          :items="$store.state[type].itemsPerPageArray"
+          hide-details
+        ></v-select>
+      </div>
+      <div class="text-center">
+        <Pagination
+          v-if="numberOfPages > 1"
+          :total-visible="5"
+          :value="page || 1"
+          :length="numberOfPages"
+          @input="handlePagination"
+        />
+      </div>
+    </v-container>
   </div>
 </template>
 <script>
@@ -400,6 +406,10 @@ export default {
 }
 </script>
 <style lang="scss">
+.unpadded {
+  // TODO Fix animation. Rather than :fluid="filter", it seems that applying this at css level produced a more satisfying animation. It mitigates the glitch making the filters appear below the list before going to the right place. It remains to be fully fixed
+  max-width: 100%;
+}
 .sidebtn {
   position: sticky;
   display: block;

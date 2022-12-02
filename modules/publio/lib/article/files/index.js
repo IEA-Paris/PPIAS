@@ -1,5 +1,5 @@
 const path = require('path')
-export default async (routesToPrint, fn, url) => {
+export default async (routesToPrint, fn, url = 'http://127.0.0.1:3000') => {
   try {
     let server
     // Since we target A4, let's load the related CSS.
@@ -53,7 +53,6 @@ export default async (routesToPrint, fn, url) => {
     console.log('url: ', url)
 
     // Get a ready to use Nuxt instance
-    if (!url) url = 'http://127.0.0.1:3000'
 
     const meta = {}
 

@@ -7,11 +7,7 @@ authors:
   is_institution: false
   lastname: O'Neill
   positions_and_institutions:
-  - institution: University of Manchester, United Kingdom
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: University of Manchester, United Kingdom
+   - institution: University of Manchester, United Kingdom
   social_channels:
     wikipedia: https://en.wikipedia.org/wiki/John_O%27Neill_(philosopher)
     researchgate: https://www.researchgate.net/profile/John-Oneill-21

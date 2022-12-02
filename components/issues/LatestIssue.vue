@@ -9,7 +9,7 @@
       :class="{ 'py-0': !$store.state.scrolled }"
     >
       <!--   Latest issue -->
-      <div class="text-h6 grey--text text--darken-2 d-flex">
+      <div class="text-h6 d-flex">
         {{ $t('latest-issue') }}
         <v-spacer></v-spacer>
         <v-btn

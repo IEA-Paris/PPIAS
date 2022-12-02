@@ -28,7 +28,7 @@
 </template>
 <script>
 import { formatAuthors, highlight } from '~/assets/utils/transforms'
-import ArticleAuthorsMixin from '~/mixins/ArticleAuthors'
+import ArticleAuthorsMixin from '~/mixins/ArticleAuthorsMixin'
 
 export default {
   mixins: [ArticleAuthorsMixin],
@@ -80,9 +80,12 @@ export default {
 .authors {
   word-wrap: normal;
   line-break: normal;
-  font-size: 19px;
+  font-size: 16px;
+  max-width: 100%;
 }
-
+.institution-name {
+  padding-left: 5px;
+}
 .institutions-group {
   margin-top: 15px;
   .institutions {
@@ -91,12 +94,12 @@ export default {
     }
     word-wrap: normal;
     line-break: normal;
-    font-size: 9px;
+    font-size: 12px;
     font-weight: 300;
     font-style: italic;
     margin-top: 5px;
     font-weight: 300;
-    color: #3d576f;
+    color: #202020;
   }
 }
 </style>

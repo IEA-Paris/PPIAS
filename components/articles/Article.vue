@@ -118,11 +118,7 @@
             v-if="item.bibliography && item.bibliography.length"
             class="bibliography-panel"
           >
-            <div
-              id="bibliography"
-              class="text-h4 mt-3 d-flex"
-              :class="$vuetify.breakpoint.xs ? 'ml-0' : 'ml-3'"
-            >
+            <div id="bibliography" class="text-h4 mt-3 d-flex ml-0">
               {{ $t('bibliography') }}
               <v-spacer></v-spacer>
               <BibliographyStyleMenu></BibliographyStyleMenu>
@@ -288,7 +284,7 @@ export default {
 }
 .bibliography-panel {
   max-width: 650px;
-  margin-left: 0.9em;
+  margin-left: 0;
 }
 @media #{map-get($display-breakpoints, 'xs-only')} {
   .node.d-flex a {

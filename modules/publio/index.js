@@ -38,7 +38,7 @@ export default async function (moduleOptions) {
   const exec = util.promisify(require('node:child_process').exec)
 
   // "once" is a dirty way to prevent Nuxt to retrigger the content parsing when we insert new files.
-  // TODO alternatives are welcomed
+  // TODO alternatives welcomed
   let once = true
   let gitDiffed = false
   try {
@@ -75,12 +75,7 @@ export default async function (moduleOptions) {
         // or if for some reason it needs a DOI but couldn't get one
         (article.needDoi && !article.DOI) ||
         // or if it needs a PDF file that is missing
-        !fs.existsSync(
-          path.resolve(
-            process.env.NODE_ENV === 'production' ? 'pdfs' : 'static/pdfs',
-            article.slug + '.pdf'
-          )
-        )
+        !fs.existsSync(path.resolve('static/pdfs', article.slug + '.pdf'))
     )
     console.log(
       'to process : ',
@@ -112,8 +107,9 @@ export default async function (moduleOptions) {
       },
       url
     )
+    const zenodoQueue = new PQueue()
     // and publish it on Zenodo
-
+    upsertOnZenodo(routesToPrint, {}, zenodoQueue)
     // now that we have the related PDF, DOI and Zenodo record,we can update the article file
     // insertDocuments(articles, 'article', ['article_title'])
 
@@ -138,6 +134,7 @@ export default async function (moduleOptions) {
     if (!once) return
     console.log('"GENERATE:DONE"')
     once = false
+    url = 'http://127.0.0.1:3000'
     await generateFilesToPrint()
   })
   nuxt.hook('build:done', async (nuxt) => {
@@ -190,7 +187,7 @@ export default async function (moduleOptions) {
     }
   })
   nuxt.hook('listen', function (server, router) {
-    url = router.url.toString()
+    /*     url = router.url.toString() */
     nuxt.options.cli.badgeMessages.push(
       `With Publio inside & lots of ${chalk.hex('#cb00ff')('<3')}`
     )

@@ -9,17 +9,7 @@
       'mt-6': $store.state.loading,
     }"
   >
-    <v-row
-      class="transition-swing"
-      :no-gutters="!$store.state.scrolled"
-      :class="[
-        $store.state.scrolled
-          ? ''
-          : $vuetify.breakpoint.mobile
-          ? 'mx-2'
-          : 'mx-6',
-      ]"
-    >
+    <v-row class="transition-swing mx-0" :no-gutters="!$store.state.scrolled">
       <template v-if="$vuetify.breakpoint.mdAndUp">
         <v-col cols="12" sm="6" md="4" class="transition-swing">
           <component

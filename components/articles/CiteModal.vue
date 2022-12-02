@@ -11,13 +11,9 @@
               v-bind="attrs"
               nuxt
               target="_blank"
-              small
               v-on="{ ...tooltip, ...dialogStart }"
             >
-              <v-icon>mdi-format-quote-close</v-icon>
-              <template v-if="text">
-                {{ $t('cite-or-export') }}
-              </template>
+              <v-icon large>mdi-format-quote-close</v-icon>
             </v-btn>
           </template>
           <span>{{ $t('cite-or-export-this-article') }}</span>
