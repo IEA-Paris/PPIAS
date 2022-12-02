@@ -8,10 +8,6 @@ authors:
   is_institution: false
   lastname: Botbol
   positions_and_institutions:
-  - institution: CHU Brest, France
-    positions:
-    - ''
-  titles_and_institutions:
   - institution: Université de Bretagne Occidentale, France
   social_channels:
     linkedin: https://fr.linkedin.com/in/michel-botbol-01a07257

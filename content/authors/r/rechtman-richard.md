@@ -19,9 +19,6 @@ positions_and_institutions:
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=xLOgLnoAAAAJ&hl=fr
   researchgate: https://www.researchgate.net/profile/Richard-Rechtman
-titles_and_institutions:
-  '0':
-    institution: EHESS, France
 years:
   - 2016
 

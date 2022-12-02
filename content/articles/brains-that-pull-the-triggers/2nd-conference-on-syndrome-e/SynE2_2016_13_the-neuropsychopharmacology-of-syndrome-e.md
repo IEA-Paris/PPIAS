@@ -8,10 +8,6 @@ authors:
   lastname: Robbins
   positions_and_institutions:
   - institution: University of Cambridge, United Kingdom
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: University of Cambridge, United Kingdom
   social_channels:
     wikipedia: https://en.wikipedia.org/wiki/Trevor_Robbins
     google_scholar: https://scholar.google.com/citations?user=7vl9HdwAAAAJ&hl=fr

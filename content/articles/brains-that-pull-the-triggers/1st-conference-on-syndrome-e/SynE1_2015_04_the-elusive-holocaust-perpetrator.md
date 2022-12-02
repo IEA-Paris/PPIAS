@@ -9,10 +9,6 @@ authors:
   lastname: Browning
   positions_and_institutions:
   - institution: University of North Carolina, USA
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: University of North Carolina, USA
   social_channels:
     wikipedia: https://en.wikipedia.org/wiki/Christopher_Browning
     linkedin: https://www.linkedin.com/in/christopher-browning-52375840?original_referer=https%3A%2F%2Fwww.google.com%2F

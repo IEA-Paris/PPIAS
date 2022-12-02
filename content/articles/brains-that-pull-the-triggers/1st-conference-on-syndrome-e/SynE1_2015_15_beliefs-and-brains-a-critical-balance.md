@@ -7,10 +7,6 @@ authors:
   is_institution: false
   lastname: Gazzaniga
   positions_and_institutions:
-  - institution: UC Santa Barbara, USA
-    positions:
-    - ''
-  titles_and_institutions:
   - institution: University of California Santa Barbara, USA
   social_channels:
     google_scholar: https://scholar.google.com/citations?user=jpVab-AAAAAJ&hl=fr

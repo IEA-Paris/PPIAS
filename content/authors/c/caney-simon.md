@@ -23,9 +23,6 @@ positions_and_institutions:
 social_channels:
   google_scholar: https://scholar.google.co.uk/citations?user=zjbFj-wAAAAJ&hl=en
   wikipedia: https://en.wikipedia.org/wiki/Simon_Caney
-titles_and_institutions:
-  '0':
-    institution: Oxford University, United Kingdom
 years:
   - 2015
 

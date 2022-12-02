@@ -8,10 +8,6 @@ authors:
   lastname: Rechtman
   positions_and_institutions:
   - institution: EHESS, France
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: EHESS, France
   social_channels:
     google_scholar: https://scholar.google.fr/citations?user=xLOgLnoAAAAJ&hl=fr
     researchgate: https://www.researchgate.net/profile/Richard-Rechtman

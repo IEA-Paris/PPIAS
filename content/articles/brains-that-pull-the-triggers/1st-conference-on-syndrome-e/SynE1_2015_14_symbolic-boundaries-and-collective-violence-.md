@@ -10,10 +10,6 @@ authors:
   lastname: Hartmann
   positions_and_institutions:
   - institution: University of Potsdam, Germany
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: University of Potsdam, Germany
 date: 2015-04-29T12:00:00.000+00:00
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md

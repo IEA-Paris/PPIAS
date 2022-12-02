@@ -9,14 +9,10 @@ authors:
   lastname: Bruneau
   positions_and_institutions:
   - institution: MIT, USA
-    positions:
-    - ''
   social_channels:
     google_scholar: https://scholar.google.com/citations?user=fYBDZGgAAAAJ&hl=en
     researchgate: https://www.researchgate.net/profile/Emile-Bruneau/2
     orcid: 0000-0001-7294-8675
-  titles_and_institutions:
-  - institution: MIT, USA
 date: 2016-05-09T01:00:00.000+00:00
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md

@@ -10,10 +10,6 @@ authors:
   lastname: Grèzes
   positions_and_institutions:
   - institution: ENS Paris, France
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: ENS Paris, France
   social_channels:
     google_scholar: https://scholar.google.com/citations?user=PjXi-vYAAAAJ&hl=fr
     researchgate: https://www.researchgate.net/profile/Julie-Grezes

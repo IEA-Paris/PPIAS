@@ -9,10 +9,6 @@ authors:
   lastname: Fadiga
   positions_and_institutions:
   - institution: Università degli Studi di Ferrara, Italy
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: University of Ferrara, Italy
   social_channels:
     wikipedia: https://en.wikipedia.org/wiki/Luciano_Fadiga
     google_scholar: https://scholar.google.com/citations?user=EPOtdwMAAAAJ&hl=fr

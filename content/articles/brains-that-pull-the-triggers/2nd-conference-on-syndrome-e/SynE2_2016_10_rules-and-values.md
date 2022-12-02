@@ -8,10 +8,6 @@ authors:
   lastname: Koechlin
   positions_and_institutions:
   - institution: ENS Paris, France
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: ENS Paris, France
   social_channels:
     linkedin: https://fr.linkedin.com/in/etienne-koechlin-76476439
     researchgate: https://www.researchgate.net/profile/Etienne-Koechlin
