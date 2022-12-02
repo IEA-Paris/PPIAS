@@ -9,6 +9,12 @@ authors:
   positions_and_institutions:
   - institution: Oxford University, United Kingdom
     positions:
+<<<<<<< HEAD
+=======
+    - ''
+  titles_and_institutions:
+  - institution: Oxford University, United Kingdom
+>>>>>>> main
   social_channels:
     wikipedia: https://en.wikipedia.org/wiki/Simon_Caney
     google_scholar: https://scholar.google.co.uk/citations?user=zjbFj-wAAAAJ&hl=en

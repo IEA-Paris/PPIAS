@@ -8,8 +8,6 @@ authors:
   is_institution: false
   lastname: Schuppert
   positions_and_institutions:
-  - institution: Queen's University Belfast, Ireland
-    positions:
   - institution: 'Queen’s University Belfast, Northern Ireland '
 date: 2015-09-25T05:00:00.000+00:00
 highlight: false

@@ -114,6 +114,7 @@ export const formatAuthors = (
       })
       .join(', ')
   }
+  return ''
 }
 export const formatTitleAndInstitutions = (obj) => {
   if (!obj || !obj.length) return ''

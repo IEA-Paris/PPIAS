@@ -261,7 +261,7 @@ export const writePrintRoutes = async () => {
       meta: {
         title: article.article_title,
 
-        author: formatAuthors(article.authors).replace('&nbsp;', ' '),
+        author: (formatAuthors(article.authors) || '').replace('&nbsp;', ' '),
 
         producer: 'PPIAS - Proceeding of Paris Institution for Advanced Study',
 

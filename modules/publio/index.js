@@ -109,7 +109,7 @@ export default async function (moduleOptions) {
     )
     const zenodoQueue = new PQueue()
     // and publish it on Zenodo
-    upsertOnZenodo(routesToPrint, {}, zenodoQueue)
+    upsertOnZenodo(routesToPrint, options, zenodoQueue)
     // now that we have the related PDF, DOI and Zenodo record,we can update the article file
     // insertDocuments(articles, 'article', ['article_title'])
 

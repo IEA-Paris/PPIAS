@@ -3,6 +3,8 @@ active: true
 articles:
   - municipal-energy-transition-in-the-uk
   - cities-citizens-and-social-justice-in-the-energy-transition
+  - justice-and-climate-transitions_5_table-ronde
+  - justice-and-climate-transitions_8_cities-citizens
 createdAt: '2022-11-10T08:35:33.259Z'
 exerpt: ''
 firstname: Larry
@@ -11,11 +13,10 @@ issue:
   - content/issues/territories-of-energy-transition.md
   - content/issues/justice-climate-transitions.md
 language:
+  - English
 lastname: Reynolds
 positions_and_institutions:
   - institution: IEA de Paris, France
-    positions:
-      - ''
 years:
   - 2016
   - 2015
