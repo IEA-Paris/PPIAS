@@ -1,15 +1,17 @@
 ---
 active: true
 articles:
-  - justice-and-climate-transitions_1_program
+- justice-and-climate-transitions_1_program
 createdAt: '2022-11-23T20:01:27.630Z'
 exerpt: ''
 firstname: ''
 issue:
-  - content/issues/justice-climate-transitions.md
+- content/issues/justice-climate-transitions.md
 language:
-  - English
-lastname: "The Paris Institute for Advanced Study, France"
+- English
+lastname: The Paris Institute for Advanced Study, France
 years:
-  - 2015
+- 2015
+is_institution: true
+
 ---

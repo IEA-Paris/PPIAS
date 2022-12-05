@@ -8,4 +8,4 @@ The PPIAS website is operated by The Paris Institute for Advanced Study. Content
 
 Unless otherwise stated, content on the PPIAS website is © The Paris Institute for Advanced Study and is licensed under a Creative Commons Attribution 4.0 International (CC-BY 4.0) licence.
 
-This means you can share the content on the PPIAS website by copying and distributing it, but you must comply with the terms of the CC-BY-4.0 licence, which includes acknowledging PPIAS as the copyright owner and providing a link to the source page on the wellcome website. Please see [https://creativecommons.org/licenses](https://creativecommons.org/licenses "https://creativecommons.org/licenses") for more information.
+This means you can share the content on the PPIAS website by copying and distributing it, but you must comply with the terms of the CC-BY-4.0 licence, which includes acknowledging PPIAS as the copyright owner and providing a link to the source page on the welcome website. Please see [https://creativecommons.org/licenses](https://creativecommons.org/licenses "https://creativecommons.org/licenses") for more information.
