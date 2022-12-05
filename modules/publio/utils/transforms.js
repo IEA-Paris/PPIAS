@@ -65,7 +65,7 @@ export const formatAuthors = (
       (author.is_institution
         ? ''
         : (initials ? '&nbsp;' : ',&nbsp;') +
-          (initials
+          (initials && author.firstname?.length
             ? author.firstname
                 .trim()
                 .replace(/[^A-Za-z0-9À-ÿ ]/gi, '') // taking care of accented characters as well

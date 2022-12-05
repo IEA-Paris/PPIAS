@@ -9,7 +9,7 @@ issue:
   - content/issues/justice-climate-transitions.md
 language:
   - English
-lastname: The Paris Institute for Advanced Study, France
+lastname: "The Paris Institute for Advanced Study, France"
 years:
   - 2015
 ---
