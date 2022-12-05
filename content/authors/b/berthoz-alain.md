@@ -13,6 +13,7 @@ articles:
   - SynE1_2015_03_syndrome-e-and-plurality-of-perspectives
   - SynE1_2015_11_is-empathy-involved-in-perpetrators-behavior
   - SynE2_2016_04_the-question-of-multiple-identities
+  - SynE2_2016_01_program-2nd-conference
 createdAt: '2022-10-10T07:36:28.761Z'
 exerpt: ''
 firstname: Alain

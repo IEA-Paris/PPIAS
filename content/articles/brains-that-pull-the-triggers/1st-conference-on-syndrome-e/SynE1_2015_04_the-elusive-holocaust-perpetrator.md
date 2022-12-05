@@ -22,6 +22,7 @@ stop: false
 subissue: 1st Conference  on Syndrome E
 yt: SxFdhjtZp64&t
 language: English
+sub-issue: 1st Conference on Syndrome E
 
 ---
 <Youtube yt="SxFdhjtZp64&t" caption="The Elusive Holocaust Perpetrator" start="false" stop="false"></Youtube>

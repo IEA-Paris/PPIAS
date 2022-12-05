@@ -18,6 +18,7 @@ stop: false
 subissue: 1st Conference  on Syndrome E
 yt: 0gJyCXSt7hs
 language: English
+sub-issue: 1st Conference on Syndrome E
 
 ---
 <Youtube yt="0gJyCXSt7hs" caption="Syndrome E and Plurality of Perspectives" start="false" stop="false"></Youtube>

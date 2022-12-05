@@ -24,6 +24,7 @@ stop: false
 subissue: 1st Conference  on Syndrome E
 yt: j2KYDciL5ao
 language: English
+sub-issue: 1st Conference on Syndrome E
 
 ---
 <Youtube yt="IqlQp5gyfts" caption ="Bioéthique et laïcité" start="false" stop="false"></Youtube>

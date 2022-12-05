@@ -24,6 +24,7 @@ stop: false
 subissue: 1st Conference  on Syndrome E
 yt: ejCWcO4ldag
 language: English
+sub-issue: 1st Conference on Syndrome E
 
 ---
 <Youtube yt="ejCWcO4ldag" caption="Volition and Affect: How Do Positive, Negative, Right and Wrong Outcomes Influence Human Sense of Agency" start="false" stop="false"></Youtube>

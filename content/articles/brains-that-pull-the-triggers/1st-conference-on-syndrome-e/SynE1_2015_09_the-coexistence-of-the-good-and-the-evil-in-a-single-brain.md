@@ -25,6 +25,7 @@ stop: false
 subissue: 1st Conference  on Syndrome E
 yt: iJdtMXRbCDE
 language: English
+sub-issue: 1st Conference on Syndrome E
 
 ---
 <Youtube yt="iJdtMXRbCDE" caption="The Coexistence of the Good and the Evil in a Single Brain: Phase Transitions in a Non-Linear Dynamical System?" start="false" stop="false"></Youtube>

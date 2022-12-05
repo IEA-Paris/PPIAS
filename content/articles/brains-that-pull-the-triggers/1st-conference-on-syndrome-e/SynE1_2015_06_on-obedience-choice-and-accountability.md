@@ -23,6 +23,7 @@ stop: false
 subissue: 1st Conference  on Syndrome E
 yt: fgAqkNSYVSM&t
 language: English
+sub-issue: 1st Conference on Syndrome E
 
 ---
 <Youtube yt="fgAqkNSYVSM&t" caption="On Obedience, Choice and Accountability or Why Orders Don't Work" start="false" stop="false"></Youtube>

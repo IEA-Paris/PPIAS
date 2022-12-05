@@ -22,6 +22,7 @@ stop: false
 subissue: 1st Conference  on Syndrome E
 yt: jdCfEEwY_xg&t
 language: English
+sub-issue: 1st Conference on Syndrome E
 
 ---
 <Youtube yt="jdCfEEwY_xg&t" caption="Analysing Massacre to Understand the Genocidal Process" start="false" stop="false"></Youtube>
