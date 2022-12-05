@@ -51,7 +51,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-
       - name: 🏗 Setup node env
         uses: actions/setup-node@v3
         with:
@@ -76,13 +75,6 @@ jobs:
 
       #- name: Run tests 🧪
       #  run: yarn test
-
-      - name: 🤞 Build
-        run: yarn build
-        env:
-          DEEPL_KEY: ${{ secrets.DEEPL_KEY }}
-          orcid: ${{secrets.ORCID_SANDBOX_ID}}
-          ORCID_SANDBOX_SECRET_KEY_ID: ${{secrets.ORCID_SANDBOX_SECRET_KEY_ID}}
 
       - name: 🤞 Generate
         run: yarn generate
