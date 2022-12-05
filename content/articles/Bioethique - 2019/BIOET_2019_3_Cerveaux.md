@@ -37,7 +37,7 @@ keywords: []
 language: French
 needDOI: true
 picture: ''
-picture_copyright: 'La Bioéthique : aux Frontières de la Vie ?'
+picture_copyright: ''
 published: true
 sub-issue: 'La Bioéthique : aux Frontières de la Vie ?'
 yt: Hhd47iX0jLc

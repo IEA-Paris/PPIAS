@@ -4,8 +4,11 @@ abstract: 'Adventures of Identity: From the Double to the Avatar. Paris IAS, 13-
 article_title: 'Adventures of Identity: From the Double to the Avatar - Program        '
 authors:
 - lastname: Paris Institute for Advanced Study, France
+  firstname: ''
 - lastname: Fondation Maison des Sciences de l'Homme (FMSH), France
+  firstname: ''
 - lastname: Istituto Italiano di Cultura di Parigi, France
+  firstname: ''
 date: 2018-12-13T00:00:00.000+00:00
 highlight: false
 issue: content/issues/identity-from-double-to-avatar.md
