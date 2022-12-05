@@ -35,9 +35,6 @@ authors:
           - co-founder
         institution: international laboratory for Brain, Music, and Sound research (BRAMS)
       - titles:
-          - Warrior
-        institution: McGill University
-      - titles:
           - writer
         institution: IAS PARIS
     reference: ''

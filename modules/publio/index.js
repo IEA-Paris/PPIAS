@@ -41,7 +41,9 @@ export default async function (moduleOptions) {
   // TODO alternatives welcomed
   let once = true
   let gitDiffed = false
+
   try {
+    // TODO the following command raises an error if no file has changed. Look into an argument to avoid that, thus removing the try catch block
     const { stdout, stderr } = await exec(
       "{ git ls-files --others --exclude-standard ; git diff-index --name-only --diff-filter=d HEAD ; } | grep --regexp='[.]md$'"
     )
@@ -58,8 +60,9 @@ export default async function (moduleOptions) {
     .filter((str) => str)
     .map((str) => str.slice(7))
   if (changedFiles?.length) console.log('changedFiles: ', changedFiles)
+  const zenodoQueue = new PQueue()
 
-  const extendGeneration = () => {
+  const extendGeneration = async () => {
     if (!once) return // dirty skip to avoid retriggering the build method
 
     if (media) insertDocuments(media, 'media', ['article_slug', 'caption'])
@@ -87,7 +90,7 @@ export default async function (moduleOptions) {
         insertIssueData(article, filters)
       )
       // Upsert on Zenodo/OpenAire & get DOI is none is available
-      // articles = await upsertOnZenodo(articles, options, zenodoQueue)
+      articles = await upsertOnZenodo(articles, options, zenodoQueue)
 
       // make an array of routes to print
       routesToPrint = makePrintRoutes(editedArticles)
@@ -95,6 +98,7 @@ export default async function (moduleOptions) {
 
     return true
   }
+
   const generateFilesToPrint = async () => {
     console.log('GENERATE FILES')
     if (!routesToPrint) return
@@ -107,7 +111,6 @@ export default async function (moduleOptions) {
       },
       url
     )
-    const zenodoQueue = new PQueue()
     // and publish it on Zenodo
     upsertOnZenodo(routesToPrint, options, zenodoQueue)
     // now that we have the related PDF, DOI and Zenodo record,we can update the article file
@@ -117,6 +120,7 @@ export default async function (moduleOptions) {
 
     // Other plugins
   }
+
   this.nuxt.hook('generate:extendRoutes', (routes) => {
     // Extend routes with the ones to be printed
     console.log('extendin routes')
@@ -137,6 +141,7 @@ export default async function (moduleOptions) {
     url = 'http://127.0.0.1:3000'
     await generateFilesToPrint()
   })
+
   nuxt.hook('build:done', async (nuxt) => {
     console.log('process.server: ')
     // For dev mode only, we start the PDF rendering process to allow debug and preview.
@@ -146,13 +151,15 @@ export default async function (moduleOptions) {
       await generateFilesToPrint()
     }
   })
+
   nuxt.hook('content:ready', async (content) => {
     issues = await content('issues', { deep: true })
       // .only(['slug']) //TODO complete with only required fields
       .fetch()
     console.log('"CONTENT:READY" HOOK')
-    extendGeneration()
+    await extendGeneration()
   })
+
   nuxt.hook('content:file:beforeInsert', (article, database) => {
     if (once && article.dir.startsWith('/articles') && article.published) {
       ;[article, media, authors, issues, options] = processArticle(
@@ -186,6 +193,7 @@ export default async function (moduleOptions) {
       articles = [...(articles || []), article]
     }
   })
+
   nuxt.hook('listen', function (server, router) {
     /*     url = router.url.toString() */
     nuxt.options.cli.badgeMessages.push(
