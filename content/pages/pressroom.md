@@ -1,7 +1,7 @@
 ---
-page_title: 'pressroom'
----
+page_title: pressroom
 
-The pressroom is empty! We will update it soon.
+---
+The press room is empty! We will update it soon.
 
 Meanwhile, please contact us at information@paris-iea.fr if you need information.
