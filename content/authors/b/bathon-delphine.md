@@ -16,7 +16,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Génération Écologie, France
     positions: []
-    titles: []
 social_channels:
   google_scholar: ''
   instagram: ''
@@ -27,10 +26,7 @@ social_channels:
   twitter: '@delphinebatho'
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Delphine_Batho
-titles_and_positions:
-  '0':
-    institution: Génération Écologie, France
-    titles: []
+
 years:
   - 2021
 

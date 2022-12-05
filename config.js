@@ -3,7 +3,8 @@ import colors from 'vuetify/es5/util/colors'
 export default {
   env: { NODE_ENV: 'dev' },
   name: 'PPIAS',
-  full_name:
+  full_name: 'Proceedings of the Paris Institute for Advanced Study', // set to false if there is none
+  full_name_html:
     'Proceedings of the Paris&nbsp;Institute<br>for Advanced&nbsp;Study', // set to false if there is none
   address: "17, Quai d'Anjou 75004 PARIS - FRANCE",
   phone: '+33(0)1 56 81 00 52',

@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   Une « droitisation » des espaces politiques ? Comprendre la montée de
   l’illibéralisme et de l’e03nbOE0Sf2sxtrême-droite
-date: '2022-06-02T09:00:00.000Z'
+date: 2022-06-02T09:00:00.000Z
 highlight: false
 id: hCV9Hl37k2M
 index: 0

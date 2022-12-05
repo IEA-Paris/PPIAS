@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
 language:
-  - null
-  - null
 lastname: Apostolidis
 positions_and_institutions:
   - institution: University of Aix-Marseille, France

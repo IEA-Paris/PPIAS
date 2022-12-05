@@ -10,10 +10,6 @@ authors:
   lastname: Singer
   positions_and_institutions:
   - institution: Max Planck Institute for Brain Research, Germany
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: Max Planck Institute for Brain Research, Germany
   social_channels:
     wikipedia: https://en.wikipedia.org/wiki/Wolf_Singer
     linkedin: https://de.linkedin.com/in/wolf-singer-3b976058

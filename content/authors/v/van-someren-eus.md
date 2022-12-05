@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/sleep-and-memory.md
 language:
-  - null
-  - null
 lastname: Van Someren
 positions_and_institutions:
   - institution: Netherlands Institute for Neuroscience

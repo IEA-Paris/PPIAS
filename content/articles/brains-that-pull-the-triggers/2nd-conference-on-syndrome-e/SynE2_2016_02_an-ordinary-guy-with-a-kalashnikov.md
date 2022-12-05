@@ -7,10 +7,6 @@ authors:
   is_institution: false
   lastname: Fried
   positions_and_institutions:
-  - institution: UCLA, USA / Université de Tel-Aviv, Israël
-    positions:
-    - ''
-  titles_and_institutions:
   - institution: University of California Los Angeles, USA
   - institution: Paris Institute for Advanced Study, France
 date: 2016-05-09T00:00:00.000+00:00

@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/territories-of-energy-transition.md
 language:
-  - null
-  - null
 lastname: Degremont
 positions_and_institutions:
   - institution: Sciences Po / CSO, France

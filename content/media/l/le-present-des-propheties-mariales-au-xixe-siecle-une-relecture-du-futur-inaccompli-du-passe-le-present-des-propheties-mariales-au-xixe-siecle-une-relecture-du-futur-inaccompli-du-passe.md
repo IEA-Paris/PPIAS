@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   Le présent des prophéties mariales au XIXe siècle : une relecture du futur
   inaccompli du passé
-date: '2020-12-11T15:00:00.000Z'
+date: 2020-12-11T15:00:00.000Z
 highlight: false
 id: tPyydyd_N6U
 index: 0

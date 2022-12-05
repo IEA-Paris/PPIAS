@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/identity-from-double-to-avatar.md
 language:
-  - null
-  - null
 lastname: Moulon
 positions_and_institutions:
   - institution: Observatoire des mondes numériques en sciences humaines (OMNSH), France

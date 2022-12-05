@@ -17,7 +17,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: International Food Policy Research Institute, China
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=NL3kmU0AAAAJ&hl=en
@@ -37,10 +36,6 @@ tags:
   - 'Public Health '
   - Innovation, R&D
   - 'Work, Welfare, Social protection '
-titles_and_positions:
-  '0':
-    institution: International Food Policy Research Institute, China
-    titles: []
 years:
   - 2021
 

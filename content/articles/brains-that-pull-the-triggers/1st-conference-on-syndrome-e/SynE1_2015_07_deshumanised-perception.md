@@ -9,10 +9,6 @@ authors:
   is_institution: false
   lastname: Harris
   positions_and_institutions:
-  - institution: University of Leiden, Netherlands
-    positions:
-    - ''
-  titles_and_institutions:
   - institution: University of Leiden,  Netherlands
   social_channels:
     linkedin: https://uk.linkedin.com/in/lasana-harris-989b1841

@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   The impact of majority and minority social support for pro environmental
   values on pro-environmental behaviours
-date: '2016-11-17T06:00:00.000Z'
+date: 2016-11-17T06:00:00.000Z
 highlight: false
 id: e8cAQ1_MpFQ
 index: 0

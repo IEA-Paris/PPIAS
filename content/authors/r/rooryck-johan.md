@@ -15,10 +15,8 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: cOAlition S, France
     positions: []
-    titles: []
   - institution: Leiden University, The Netherlands
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -31,13 +29,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_positions:
-  '0':
-    institution: cOAlition S, France
-    titles: []
-  '1':
-    institution: Leiden University, The Netherlands
-    titles: []
 years:
   - 2022
 

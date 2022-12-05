@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
 language:
-  - null
-  - null
 lastname: Jorion
 positions_and_institutions:
   - institution: Université catholique de Lille, France

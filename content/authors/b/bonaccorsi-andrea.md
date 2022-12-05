@@ -15,10 +15,8 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Scientific Committee of COST
     positions: []
-    titles: []
   - institution: University of Pisa, Italy
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -32,12 +30,10 @@ social_channels:
   wikipedia: ''
 tags: []
 titles_and_positions:
-  '0':
-    institution: Scientific Committee of COST
-    titles: []
-  '1':
-    institution: University of Pisa, Italy
-    titles: []
+  - institution: Scientific Committee of COST
+
+  - institution: University of Pisa, Italy
+
 years:
   - 2022
 

@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
 language:
-  - null
-  - null
 lastname: Caillaud
 positions_and_institutions:
   - institution: Paris-Descartes University, France

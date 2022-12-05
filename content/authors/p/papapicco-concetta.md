@@ -16,7 +16,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: University of Bari “Aldo Moro”, Italy
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -34,10 +33,6 @@ tags:
   - italian infodemia
   - La Repubblica online
   - mix method
-titles_and_positions:
-  '0':
-    institution: University of Bari “Aldo Moro”, Italy
-    titles: []
 years:
   - 2022
 

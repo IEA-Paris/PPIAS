@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
 language:
-  - null
-  - null
 lastname: Ernst-Vintila
 positions_and_institutions:
   - institution: Paris-Ouest- Nanterre-la-Défense University, France

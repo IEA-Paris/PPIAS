@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
 language:
-  - null
-  - null
 lastname: Behr
 positions_and_institutions:
   - institution: Institut d'études avancées de Paris, France

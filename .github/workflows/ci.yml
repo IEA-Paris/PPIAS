@@ -35,6 +35,23 @@ jobs:
       - name: 🛎 Checkout
         uses: actions/checkout@v3
 
+      # Cancel previous runs to avoid wasting resources
+      - name: 🧹 clean up runners
+        run: |
+          ids=$(gh api -H "Accept: application/vnd.github+json" /repos/IEA-Paris/PPIAS/actions/runs | jq -s -c 'sort_by(.created_at) | .[]' | jq '.workflow_runs[] | select([.status] | inside(["in_progress", "queued"])) | .id')
+          nids=$(echo $ids | wc -w)
+          if [ $nids -gt 2 ]; then
+            echo "too many runners"
+            # Delete first and last runner
+            ids=$(echo $ids | cut -d ' ' -f 2-  | rev | cut -d ' ' -f 2- | rev)
+            set -- $ids
+            # Stop all runners between first and last
+            for i; do gh api --method POST -H "Accept: application/vnd.github+json" "/repos/IEA-Paris/PPIAS/actions/runs/$i/cancel"; done
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+
       - name: 🏗 Setup node env
         uses: actions/setup-node@v3
         with:

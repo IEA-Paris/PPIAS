@@ -32,11 +32,6 @@ tags:
   - History of Science and Medicine
   - Online conference
   - Microbes
-titles_and_positions:
-  '0':
-    institution: Ohio University - College of Arts and Sciences
-    titles:
-      - Assistant Professor
 years:
   - 2021
 

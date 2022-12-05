@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
 language:
-  - null
-  - null
 lastname: Pacouret
 positions_and_institutions:
   - institution: CESSP

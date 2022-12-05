@@ -3,7 +3,7 @@ article_slug: SynE1_2015_09_the-coexistence-of-the-good-and-the-evil-in-a-single
 caption: >-
   The Coexistence of the Good and the Evil in a Single Brain: Phase Transitions
   in a Non-Linear Dynamical System?
-date: '2015-04-28T07:00:00.000Z'
+date: 2015-04-28T07:00:00.000Z
 highlight: false
 id: iJdtMXRbCDE
 index: 0

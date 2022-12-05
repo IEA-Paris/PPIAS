@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/assessing-resilience.md
 language:
-  - null
-  - null
 lastname: Pagnon
 positions_and_institutions:
   - institution: Université Paris Dauphine, France

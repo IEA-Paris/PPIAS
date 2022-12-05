@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   Urban energy transitions in Germany: insights from case studies in Bottrop and
   Emden
-date: '2016-05-23T01:00:00.000Z'
+date: 2016-05-23T01:00:00.000Z
 highlight: false
 id: zDbFi9JVqNw
 index: 0

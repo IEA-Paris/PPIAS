@@ -10,28 +10,16 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
   - English
 lastname: Gazzaniga
-positions_and_institutions:
-  - institution: UC Santa Barbara, USA
-    positions:
-      - ''
+positions_and_institutions: 
+  - institution: University of California Santa Barbara, USA
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=jpVab-AAAAAJ&hl=fr
   linkedin: https://www.linkedin.com/in/michael-gazzaniga-3ba81428
   researchgate: https://www.researchgate.net/profile/Michael-Gazzaniga-5
   wikipedia: https://fr.wikipedia.org/wiki/Michael_Gazzaniga
-titles_and_institution:
-  '0':
-    institution: UC Santa Barbara, USA
-    titles:
-      - ''
-titles_and_institutions:
-  '0':
-    institution: University of California Santa Barbara, USA
 years:
-  - null
   - 2015
 
 ---

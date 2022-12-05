@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   Extreme-Anti-Public Intellectuals: Hans Herman Hoppe and the ‘Physical
   Removal’ from the Libertarian Order
-date: '2022-06-02T02:00:00.000Z'
+date: 2022-06-02T02:00:00.000Z
 highlight: false
 id: 3QIJi_HdMaM
 index: 0

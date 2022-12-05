@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
 language:
-  - null
-  - null
 lastname: Ronchi
 positions_and_institutions:
   - institution: Université Rennes 1

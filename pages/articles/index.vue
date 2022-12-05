@@ -2,7 +2,7 @@
   <div>
     <PageTitle :text="$t('articles')" />
     <ListLeftPanel
-      type="articles"
+      :type="type"
       tiles
       :layout="{ cols: 12, md: 6, nogutters: false, fluid: true }"
       :pagination="{
@@ -19,7 +19,9 @@
 export default {
   props: {},
   data() {
-    return {}
+    return {
+      type: 'articles',
+    }
   },
   computed: {},
   async mounted() {},

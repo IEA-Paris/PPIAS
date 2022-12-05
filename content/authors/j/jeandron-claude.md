@@ -17,7 +17,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: association Sauvons le Climat, France
     positions: []
-    titles: []
 social_channels:
   google_scholar: ''
   instagram: ''
@@ -28,10 +27,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_positions:
-  '0':
-    institution: association Sauvons le Climat, France
-    titles: []
+
 years:
   - 2022
 

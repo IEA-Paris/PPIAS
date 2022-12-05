@@ -1,7 +1,7 @@
 ---
 article_slug: justice-and-climate-transitions_2_introduction
 caption: 'Justice and Climate Transitions : Introduction'
-date: '2015-09-24T00:00:00.000Z'
+date: 2015-09-24T00:00:00.000Z
 highlight: false
 id: ajfeAB-8LqI
 index: 0

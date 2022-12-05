@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
 language:
-  - null
-  - null
 lastname: Papastamou
 positions_and_institutions:
   - institution: Panteion University of Social and Political Sciences, Greece

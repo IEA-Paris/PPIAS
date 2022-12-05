@@ -19,10 +19,8 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: ETH Zurich, Switzerland
     positions: []
-    titles: []
   - institution: Swiss Federal Institute of Technology in Zürich (ETH Zurich), Switzerland
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -35,13 +33,6 @@ social_channels:
   website: http://helga-nowotny.eu/
   wikipedia: https://en.wikipedia.org/wiki/Helga_Nowotny
 tags: []
-titles_and_positions:
-  '0':
-    institution: ERC Scientific Council
-    titles: []
-  '1':
-    institution: Swiss Federal Institute of Technology in Zürich (ETH Zurich), Switzerland
-    titles: []
 years:
   - 2021
   - 2022

@@ -1,7 +1,7 @@
 ---
 article_slug: round-table-discussion
 caption: Round-table Discussion
-date: '2018-12-13T03:00:00.000Z'
+date: 2018-12-13T03:00:00.000Z
 highlight: false
 id: 5WVqSNDC46k
 index: 0

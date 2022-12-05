@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/identity-from-double-to-avatar.md
 language:
-  - null
-  - null
 lastname: von Xylander
 positions_and_institutions:
   - institution: Humboldt Universität zu Berlin, Germany

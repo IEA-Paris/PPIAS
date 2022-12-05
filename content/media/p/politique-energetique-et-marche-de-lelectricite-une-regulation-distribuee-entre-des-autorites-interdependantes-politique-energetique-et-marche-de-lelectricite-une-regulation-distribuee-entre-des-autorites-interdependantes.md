@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   Politique énergétique et marché de l’électricité, une régulation distribuée
   entre des autorités interdépendantes
-date: '2016-05-23T06:00:00.000Z'
+date: 2016-05-23T06:00:00.000Z
 highlight: false
 id: PT74la_2Vmg
 index: 0

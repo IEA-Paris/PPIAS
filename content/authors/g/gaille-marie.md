@@ -23,10 +23,9 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_positions:
-  '0':
-    institution: Institut des sciences humaines et sociales CNRS, France
-    titles: []
+positions_and_institutions:
+  - Institut des sciences humaines et sociales CNRS, France
+
 years:
   - 2020
 

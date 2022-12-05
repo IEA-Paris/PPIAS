@@ -2,7 +2,11 @@
   <v-card class="pa-3 mt-3 ml-4" flat>
     <v-row no-gutters>
       <v-col cols="auto" class="mr-3">
-        <v-icon small>mdi-format-quote-close</v-icon>
+        <CiteModal
+          v-if="!$route.name.startsWith('print')"
+          :item="item"
+          text
+        ></CiteModal>
       </v-col>
       <v-col class="">
         <span
@@ -38,6 +42,10 @@ export default {
       type: Object,
       required: true,
       default: () => ({}),
+    },
+    item: {
+      type: Object,
+      default: () => {},
     },
   },
   data() {

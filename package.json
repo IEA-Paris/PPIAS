@@ -1,12 +1,12 @@
 {
-  "name": "PIAS",
-  "version": "1.0.0",
+  "name": "PPIAS",
+  "version": "1.1.0",
   "private": true,
   "description": "Open source publishing platform for open science.",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
-    "mock": "yarn build && yarn generate && yarn start",
+    "mock": " yarn generate && yarn start",
     "start": "nuxt start",
     "deploy": "nuxt generate; aws s3 sync ./dist/ s3://ppias --delete --exclude '.*';aws cloudfront create-invalidation --distribution-id __invalidation-batch * E20JX3UOOUCLYC",
     "generate": "nuxt generate",
@@ -18,7 +18,6 @@
     "@mdi/font": "^6.2.95",
     "@nuxt/content": "^1.14.0",
     "@nuxtjs/ackee": "^3.0.2",
-    "@nuxtjs/apollo": "4.0.1-rc.5",
     "@nuxtjs/axios": "^5.13.6",
     "@nuxtjs/composition-api": "^0.26.0",
     "@nuxtjs/i18n": "^7.1.0",
@@ -32,12 +31,11 @@
     "defu": "^6.1.1",
     "lite-youtube-embed": "^0.2.0",
     "nuxt": "^2.15.7",
+    "puppeteer": "^19.1.0",
     "request": "^2.88.2",
     "vuetify": "^2.5.5"
   },
-  "peerDependencies": {
-    "puppeteer": "^11.0.0"
-  },
+  "peerDependencies": {},
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.7",
     "@nuxt/image": "^0.4.13",
@@ -73,6 +71,7 @@
     "graphql-tag": "^2.10.3",
     "jest": "^27.0.5",
     "js-yaml": "^4.1.0",
+    "node-static": "^0.7.11",
     "nuxt-compress": "^5.0.0",
     "nuxt-content-highlight": "^0.1.10",
     "nuxt-jsonld": "^1.4.10",
@@ -80,8 +79,9 @@
     "parse-md": "^3.0.3",
     "pdf-lib": "^1.10.0",
     "prettier": "^2.2.1",
-    "puppeteer": "^11.0.0",
     "remark-bibliography": "^1.0.0",
+    "serve": "^14.1.0",
+    "sharp": "^0.31.1",
     "vue-eslint-parser": "^7.0.0",
     "vue-jest": "^3.0.4"
   },

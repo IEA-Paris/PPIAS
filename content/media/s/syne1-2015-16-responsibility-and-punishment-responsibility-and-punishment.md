@@ -1,7 +1,7 @@
 ---
 article_slug: SynE1_2015_16_responsibility-and-punishment
 caption: Responsibility and Punishment
-date: '2015-04-29T14:00:00.000Z'
+date: 2015-04-29T14:00:00.000Z
 highlight: false
 id: ydiCPODN1XU
 index: 0

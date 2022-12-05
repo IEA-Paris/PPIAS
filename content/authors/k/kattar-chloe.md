@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
 language:
-  - null
-  - null
 lastname: Kattar
 positions_and_institutions:
   - institution: EUME - Berlin

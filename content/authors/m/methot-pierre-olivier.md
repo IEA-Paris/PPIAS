@@ -15,7 +15,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Université de Laval, Canada
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -33,10 +32,6 @@ tags:
   - Technology and Medicine
   - Microbes
   - Antibiotics
-titles_and_positions:
-  '0':
-    institution: Université de Laval, Canada
-    titles: []
 years:
   - 2021
 

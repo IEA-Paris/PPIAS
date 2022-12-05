@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/identity-from-double-to-avatar.md
 language:
-  - null
-  - null
 lastname: Guindani
 positions_and_institutions:
   - institution: FMSH - Collège d’études mondiales, France

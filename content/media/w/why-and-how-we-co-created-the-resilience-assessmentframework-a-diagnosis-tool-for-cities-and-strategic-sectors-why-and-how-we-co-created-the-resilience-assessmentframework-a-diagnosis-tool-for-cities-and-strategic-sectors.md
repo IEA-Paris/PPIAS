@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   Why and how we co-created the Resilience AssessmentFramework, a diagnosis tool
   for cities and strategic sectors
-date: '2020-07-15T00:00:00.000Z'
+date: 2020-07-15T00:00:00.000Z
 highlight: false
 id: Hq5Yhz3Nxz4
 index: 0

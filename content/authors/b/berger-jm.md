@@ -12,8 +12,6 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
-  - null
 lastname: BERGER
 positions_and_institutions:
   - institution: International Center for Counter-Terrorism, Netherlands

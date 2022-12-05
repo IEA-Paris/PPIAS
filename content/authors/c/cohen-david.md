@@ -10,7 +10,6 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
   - English
 lastname: Cohen
 positions_and_institutions:
@@ -20,9 +19,6 @@ positions_and_institutions:
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=e9XBrxYAAAAJ&hl=fr
   researchgate: https://www.researchgate.net/profile/David-Cohen-23
-titles_and_institutions:
-  '0':
-    institution: Université Pierre et Marie Curie, France
 years:
   - 2016
 

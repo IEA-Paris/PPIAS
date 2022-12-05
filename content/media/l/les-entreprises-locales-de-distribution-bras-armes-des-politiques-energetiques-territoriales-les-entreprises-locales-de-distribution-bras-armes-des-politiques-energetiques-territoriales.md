@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   Les entreprises locales de distribution, bras armés des politiques
   énergétiques territoriales?
-date: '2016-05-23T05:00:00.000Z'
+date: 2016-05-23T05:00:00.000Z
 highlight: false
 id: 91gKgLPtFno
 index: 0

@@ -3,7 +3,7 @@ article_slug: from-car-wash-to-bolsonaro-law-and-lawyers-in-brazils-illiberal-tu
 caption: >-
   From Car Wash to Bolsonaro: Law and Lawyers in Brazil's Illiberal Turn
   (2014–2018)
-date: '2022-06-02T05:00:00.000Z'
+date: 2022-06-02T05:00:00.000Z
 highlight: false
 id: C11qgbuGMZ8
 index: 0

@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/sleep-and-memory.md
 language:
-  - null
-  - null
 lastname: Lacroix
 positions_and_institutions:
   - institution: CNRS - ESPCI Paris Tech - Cog'X

@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   To Be or not to Be Charlie? The Impact of Group Affiliation on the Processing
   of others' Emitted Social Signals
-date: '2015-04-29T11:00:00.000Z'
+date: 2015-04-29T11:00:00.000Z
 highlight: false
 id: IcgO1OjIbHA
 index: 0

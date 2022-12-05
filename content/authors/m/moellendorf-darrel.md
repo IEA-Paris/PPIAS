@@ -11,20 +11,16 @@ is_institution: false
 issue:
   - content/issues/justice-climate-transitions.md
 language:
-  - null
   - English
 lastname: Moellendorf
 positions_and_institutions:
-  - institution: University of Frankfurt, Germany
+  - institution: Goethe University, Frankfurt, Germany
     positions:
       - ''
 social_channels:
   google_scholar: https://scholar.google.de/citations?user=64uZgu4AAAAJ&hl=en
   linkedin: https://de.linkedin.com/in/darrelmoellendorf?trk=people_directory
   twitter: '@onbeingapatient'
-titles_and_institutions:
-  '0':
-    institution: Goethe University, Frankfurt, Germany
 years:
   - 2015
 

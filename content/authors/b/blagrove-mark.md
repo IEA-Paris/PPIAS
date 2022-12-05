@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/sleep-and-memory.md
 language:
-  - null
-  - null
 lastname: Blagrove
 positions_and_institutions:
   - institution: Swansea University

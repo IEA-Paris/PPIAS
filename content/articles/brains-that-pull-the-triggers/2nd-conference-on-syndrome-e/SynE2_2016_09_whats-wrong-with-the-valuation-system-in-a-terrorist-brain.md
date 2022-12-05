@@ -8,10 +8,6 @@ authors:
   lastname: Pessiglione
   positions_and_institutions:
   - institution: Institut du Cerveau et de la Moelle épinière (ICM), France
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: Institut du cerveau ICM, France
   social_channels:
     google_scholar: https://scholar.google.fr/citations?user=SKyTxCwAAAAJ&hl=en
     researchgate: https://www.researchgate.net/profile/Mathias-Pessiglione

@@ -16,7 +16,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Free University Berlin, Germany
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -28,10 +27,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_positions:
-  '0':
-    institution: Free University Berlin, Germany
-    titles: []
 years:
   - 2022
 

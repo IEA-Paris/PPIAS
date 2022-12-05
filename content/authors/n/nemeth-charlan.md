@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
 language:
-  - null
-  - null
 lastname: Nemeth
 positions_and_institutions:
   - institution: University of California, Berkeley, USA

@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/virtual-realities.md
 language:
-  - null
-  - null
 lastname: Mello
 positions_and_institutions:
   - institution: SCN Lab, Sapienza University Rome, Italy

@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
-  - null
 lastname: SIRONI
 positions_and_institutions:
   - institution: Université Paris 8 Saint-Denis, France

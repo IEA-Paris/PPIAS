@@ -13,18 +13,14 @@ is_institution: false
 issue:
   - content/issues/justice-climate-transitions.md
 language:
-  - null
   - English
 lastname: Kunze
 positions_and_institutions:
-  - institution: Helmholtz-Zentrum für Umweltforschung, Germany
+  - institution: Helmholtz Centre for Environmental Research – UFZ, Leipzig, Germany
     positions:
       - ''
 social_channels:
   researchgate: https://www.researchgate.net/profile/Conrad-Kunze-2
-titles_and_institutions:
-  '0':
-    institution: Helmholtz Centre for Environmental Research – UFZ, Leipzig, Germany
 years:
   - 2015
 

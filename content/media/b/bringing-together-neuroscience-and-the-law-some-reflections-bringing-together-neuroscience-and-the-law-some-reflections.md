@@ -1,7 +1,7 @@
 ---
 article_slug: bringing-together-neuroscience-and-the-law-some-reflections
 caption: 'Bringing Together Neuroscience and the Law: Some Reflections'
-date: '2017-05-11T13:00:00.000Z'
+date: 2017-05-11T13:00:00.000Z
 highlight: false
 id: 1tFLbfUVCaM
 index: 0

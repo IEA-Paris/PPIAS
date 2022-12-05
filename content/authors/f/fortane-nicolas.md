@@ -16,7 +16,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: INRAE, France
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=iJD2TRkAAAAJ&hl=fr
@@ -34,10 +33,7 @@ tags:
   - Medicine
   - Technology and Medicine
   - Antibiotics
-titles_and_positions:
-  '0':
-    institution: INRAE, France
-    titles: []
+
 years:
   - 2021
 

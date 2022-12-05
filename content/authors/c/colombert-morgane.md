@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/assessing-resilience.md
 language:
-  - null
-  - null
 lastname: Colombert
 positions_and_institutions:
   - institution: Efficacity, France

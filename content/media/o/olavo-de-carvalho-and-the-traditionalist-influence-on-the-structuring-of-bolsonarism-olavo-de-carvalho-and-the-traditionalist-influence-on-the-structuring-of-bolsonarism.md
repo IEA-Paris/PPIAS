@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   Olavo de Carvalho and the Traditionalist influence on the structuring of
   Bolsonarism
-date: '2022-06-03T02:00:00.000Z'
+date: 2022-06-03T02:00:00.000Z
 highlight: false
 id: 7uyHX_4aOkg
 index: 0

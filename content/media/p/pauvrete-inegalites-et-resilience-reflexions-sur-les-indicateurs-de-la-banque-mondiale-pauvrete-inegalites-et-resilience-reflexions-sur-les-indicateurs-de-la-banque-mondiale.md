@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   Pauvreté, inégalités et résilience : réflexions sur les indicateurs de la
   Banque Mondiale
-date: '2020-07-16T01:00:00.000Z'
+date: 2020-07-16T01:00:00.000Z
 highlight: false
 id: 5NtO_sIzk4E
 index: 0

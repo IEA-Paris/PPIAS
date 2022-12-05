@@ -17,10 +17,8 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Tilburg University, Netherlands
     positions: []
-    titles: []
   - institution: University College London, United Kingdom
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.nl/citations?user=Ms2d7OsAAAAJ&hl=en
@@ -39,13 +37,6 @@ tags:
   - Gender differences
   - 'Emotions '
   - Language
-titles_and_positions:
-  '0':
-    institution: Tilburg University, Netherlands
-    titles: []
-  '1':
-    institution: University College London, United Kingdom
-    titles: []
 years:
   - 2021
 

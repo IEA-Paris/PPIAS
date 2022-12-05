@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
 language:
-  - null
-  - null
 lastname: Chateauraynaud
 positions_and_institutions:
   - institution: GSPR-EHESS, France

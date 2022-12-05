@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/territories-of-energy-transition.md
 language:
-  - null
-  - null
 lastname: Hoffmann
 positions_and_institutions:
   - institution: European Institute for Energy Research, Germany

@@ -9,10 +9,6 @@ authors:
   lastname: Berthoz
   positions_and_institutions:
   - institution: Collège de France, France
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: Collège de France, France
   social_channels:
     wikipedia: https://fr.wikipedia.org/wiki/Alain_Berthoz
     researchgate: https://www.researchgate.net/profile/Alain-Berthoz

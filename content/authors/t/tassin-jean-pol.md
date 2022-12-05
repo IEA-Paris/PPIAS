@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
-  - null
 lastname: TASSIN
 positions_and_institutions:
   - institution: Collège de France, France

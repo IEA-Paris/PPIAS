@@ -23,10 +23,9 @@ social_channels:
   twitter: '@MonnetEric'
   website: https://www.ericmonnet.eu/
   wikipedia: ''
-titles_and_positions:
-  '0':
-    institution: EHESS, France
-    titles: []
+positions_and_institutions:
+  - EHESS, France
+
 years:
   - 2022
 

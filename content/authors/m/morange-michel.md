@@ -16,10 +16,8 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: École normale supérieure, France
     positions: []
-    titles: []
   - institution: Université Pierre-et-Marie-Curie, France
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -32,13 +30,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_positions:
-  '0':
-    institution: École normale supérieure, France
-    titles: []
-  '1':
-    institution: Université Pierre-et-Marie-Curie, France
-    titles: []
 years:
   - 2021
 

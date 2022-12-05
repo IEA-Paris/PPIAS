@@ -7,10 +7,6 @@ authors:
   is_institution: false
   lastname: Walker
   positions_and_institutions:
-  - institution: University of Lancaster, United Kingdom
-    positions:
-    - ''
-  titles_and_institutions:
   - institution: Lancaster Environment Centre, Lancaster University, United Kingdom
   social_channels:
     google_scholar: https://scholar.google.com/citations?user=BMrPd3wAAAAJ&hl=en

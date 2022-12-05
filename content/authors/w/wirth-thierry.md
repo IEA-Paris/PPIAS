@@ -32,10 +32,9 @@ social_channels:
   twitter: '@ThierryWirth'
   website: ''
   wikipedia: ''
-titles_and_positions:
-  '0':
-    institution: EPHE-PSL, France
-    titles: []
+positions_and_institutions:
+  - EPHE-PSL, France
+
 years:
   - 2021
 

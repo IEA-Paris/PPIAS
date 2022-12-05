@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   Roundtable 1: Past and Present Perpetrators: Issues of Interpretation and
   Prevention
-date: '2017-05-11T14:00:00.000Z'
+date: 2017-05-11T14:00:00.000Z
 highlight: false
 id: QuNdcGl-Vag
 index: 0

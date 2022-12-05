@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
 language:
-  - null
-  - null
 lastname: De Sa E Silva
 positions_and_institutions:
   - institution: University of Oklahoma, USA

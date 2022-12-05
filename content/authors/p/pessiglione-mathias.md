@@ -10,20 +10,14 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
   - English
 lastname: Pessiglione
 positions_and_institutions:
   - institution: "Institut du Cerveau\_et de la Moelle épinière (ICM), France"
-    positions:
-      - ''
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=SKyTxCwAAAAJ&hl=en
   linkedin: https://fr.linkedin.com/in/mathias-pessiglione-b4a90b39
   researchgate: https://www.researchgate.net/profile/Mathias-Pessiglione
-titles_and_institutions:
-  '0':
-    institution: Institut du cerveau ICM, France
 years:
   - 2016
 

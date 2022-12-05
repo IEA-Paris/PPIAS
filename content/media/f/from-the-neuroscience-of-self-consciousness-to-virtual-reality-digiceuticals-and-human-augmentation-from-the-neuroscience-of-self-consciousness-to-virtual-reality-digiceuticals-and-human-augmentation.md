@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   From the Neuroscience of Self-Consciousness to Virtual Reality, Digiceuticals,
   and Human Augmentation
-date: '2018-12-14T11:00:00.000Z'
+date: 2018-12-14T11:00:00.000Z
 highlight: false
 id: 0yd4l_thT0g
 index: 0

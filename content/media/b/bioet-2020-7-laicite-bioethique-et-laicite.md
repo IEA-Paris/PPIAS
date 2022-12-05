@@ -1,7 +1,7 @@
 ---
 article_slug: BIOET_2020_7_Laicite
 caption: Bioéthique et Laïcité
-date: '2020-05-05T16:00:48.000Z'
+date: 2020-05-05T16:00:48.000Z
 highlight: false
 id: IqlQp5gyfts
 index: 0

@@ -3,7 +3,7 @@ article_slug: presence-body-ownership-and-vicarious-agency-the-illusions-of-virt
 caption: >-
   Presence, Body Ownership and Vicarious Agency - the Illusions of Virtual
   Reality
-date: '2022-02-17T01:00:00.000Z'
+date: 2022-02-17T01:00:00.000Z
 highlight: false
 id: Npb1GXr-ROk
 index: 0

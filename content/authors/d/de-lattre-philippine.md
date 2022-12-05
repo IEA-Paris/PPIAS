@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/assessing-resilience.md
 language:
-  - null
-  - null
 lastname: de Lattre
 positions_and_institutions:
   - institution: Les Greniers d'Abondance, France

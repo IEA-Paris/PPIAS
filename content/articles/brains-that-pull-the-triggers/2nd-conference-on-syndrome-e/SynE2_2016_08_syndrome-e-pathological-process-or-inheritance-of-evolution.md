@@ -7,10 +7,6 @@ authors:
   is_institution: false
   lastname: Boraud
   positions_and_institutions:
-  - institution: Université Bordeaux, France
-    positions:
-    - ''
-  titles_and_institutions:
   - institution: Université de Bordeaux, France
   social_channels:
     wikipedia: https://fr.wikipedia.org/wiki/Thomas_Boraud

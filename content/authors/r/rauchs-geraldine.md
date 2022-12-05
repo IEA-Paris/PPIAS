@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/sleep-and-memory.md
 language:
-  - null
-  - null
 lastname: Rauchs
 positions_and_institutions:
   - institution: Inserm - Université de Caen

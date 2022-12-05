@@ -1,7 +1,7 @@
 ---
 article_slug: brains-on-drugs-lessons-from-the-third-reich
 caption: 'Brains on Drugs: Lessons from the Third Reich'
-date: '2017-05-11T10:00:00.000Z'
+date: 2017-05-11T10:00:00.000Z
 highlight: false
 id: gciCTabK0_E
 index: 0

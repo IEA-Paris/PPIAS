@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
-  - null
 lastname: SCHIFF
 positions_and_institutions:
   - institution: American University of Paris, France

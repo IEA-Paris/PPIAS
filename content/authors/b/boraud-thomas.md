@@ -10,7 +10,6 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
   - English
 lastname: Boraud
 positions_and_institutions:
@@ -22,9 +21,6 @@ social_channels:
   linkedin: https://fr.linkedin.com/in/thomas-boraud-8060534b
   researchgate: https://www.researchgate.net/profile/Thomas-Boraud
   wikipedia: https://fr.wikipedia.org/wiki/Thomas_Boraud
-titles_and_institutions:
-  '0':
-    institution: Université de Bordeaux, France
 years:
   - 2016
 

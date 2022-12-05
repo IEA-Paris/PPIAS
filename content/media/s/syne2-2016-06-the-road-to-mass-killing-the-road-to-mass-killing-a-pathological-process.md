@@ -1,7 +1,7 @@
 ---
 article_slug: SynE2_2016_06_the-road-to-mass-killing
 caption: 'The Road to Mass Killing: a Pathological Process?'
-date: '2016-05-09T05:00:00.000Z'
+date: 2016-05-09T05:00:00.000Z
 highlight: false
 id: _G3j5QjhSpU
 index: 0

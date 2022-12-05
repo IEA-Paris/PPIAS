@@ -12,18 +12,12 @@ is_institution: false
 issue:
   - content/issues/justice-climate-transitions.md
 language:
-  - null
   - English
 lastname: Schuppert
 positions_and_institutions:
-  - institution: Queen's University Belfast, Ireland
-    positions:
-      - ''
+  - institution: Queen’s University Belfast, Northern Ireland
 social_channels:
   google_scholar: https://scholar.google.co.uk/citations?user=wvtkZzoAAAAJ&hl=en
-titles_and_institutions:
-  '0':
-    institution: Queen’s University Belfast, Northern Ireland.
 years:
   - 2015
 

@@ -12,8 +12,6 @@ is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
 language:
-  - null
-  - null
 lastname: Hibou
 positions_and_institutions:
   - institution: CNRS / Sciences Po, CERI, France

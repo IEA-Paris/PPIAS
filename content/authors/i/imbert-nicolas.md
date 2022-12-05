@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/assessing-resilience.md
 language:
-  - null
-  - null
 lastname: Imbert
 positions_and_institutions:
   - institution: Green Cross France et Territoires, France

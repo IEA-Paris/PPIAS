@@ -10,7 +10,6 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
   - English
 lastname: Paller
 positions_and_institutions:

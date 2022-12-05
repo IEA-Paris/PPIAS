@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/assessing-resilience.md
 language:
-  - null
-  - null
 lastname: Eck
 positions_and_institutions:
   - institution: Sciences Po Paris, Algoé Consultants, France

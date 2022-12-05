@@ -18,7 +18,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Bora Laskin Faculty of Law, Lakehead University
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -36,10 +35,6 @@ tags:
   - Employment
   - Employment Insurance
   - Universal Basic Income
-titles_and_positions:
-  '0':
-    institution: Bora Laskin Faculty of Law, Lakehead University
-    titles: []
 years:
   - 2022
 

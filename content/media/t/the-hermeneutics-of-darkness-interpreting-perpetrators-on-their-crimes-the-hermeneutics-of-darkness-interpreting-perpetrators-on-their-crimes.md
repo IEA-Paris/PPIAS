@@ -1,7 +1,7 @@
 ---
 article_slug: the-hermeneutics-of-darkness-interpreting-perpetrators-on-their-crimes
 caption: 'The Hermeneutics of Darkness: Interpreting Perpetrators  on their Crimes'
-date: '2017-05-10T04:00:00.000Z'
+date: 2017-05-10T04:00:00.000Z
 highlight: false
 id: eCVUsb1iMGE
 index: 0

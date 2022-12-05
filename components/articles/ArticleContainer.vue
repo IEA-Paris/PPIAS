@@ -78,6 +78,7 @@
               <v-divider></v-divider
               ><ArticleCiteWidget
                 :to-cite="item.toCite"
+                :item="item"
               ></ArticleCiteWidget> </template
           ></client-only>
           <!--     <v-divider style="width: 120px"></v-divider>

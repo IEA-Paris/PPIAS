@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
 language:
-  - null
-  - null
 lastname: Barnay
 positions_and_institutions:
   - institution: Université de Lorraine, France

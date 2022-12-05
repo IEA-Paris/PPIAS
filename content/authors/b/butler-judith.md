@@ -23,10 +23,9 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: https://en.wikipedia.org/wiki/Judith_Butler
-titles_and_positions:
-  '0':
-    institution: University of California Berkeley, USA
-    titles: []
+positions_and_institutions:
+  - University of California Berkeley, USA
+
 years:
   - 2021
 

@@ -1,7 +1,7 @@
 ---
 article_slug: Our Microbial Lives - cloture
 caption: Clôture
-date: '2021-05-27T14:40:37.000Z'
+date: 2021-05-27T14:40:37.000Z
 highlight: false
 id: O49KmBbOyZM
 index: 0

@@ -1,4 +1,4 @@
-import Vue from 'vue'
+import { set } from 'vue'
 import filtersRaw from '~/assets/data/filters'
 import lists from '~/assets/data/lists'
 
@@ -11,15 +11,15 @@ export const state = () => ({
 
 export const mutations = {
   setLogo(state, value) {
-    Vue.set(state, 'logo', value)
+    set(state, 'logo', value)
     state.logo = value
   },
   setLoading(state, value) {
-    Vue.set(state, 'loading', value)
+    set(state, 'loading', value)
   },
   setScrolled(state) {
     if (process.browser) {
-      Vue.set(state, 'scrolled', window.pageYOffset > 0)
+      set(state, 'scrolled', window.pageYOffset > 0)
     }
   },
 
@@ -27,20 +27,20 @@ export const mutations = {
     const query = this.app.router.currentRoute.query
 
     if (query.search) {
-      Vue.set(state[type], 'search', query.search)
+      set(state[type], 'search', query.search)
     }
     if (query.filters) {
       const filters = JSON.parse(query.filters)
       Object.keys(filters).forEach((filter) => {
-        Vue.set(state[type].filters, filter, filters[filter])
+        set(state[type].filters, filter, filters[filter])
       })
     }
 
-    if (query.view) Vue.set(state[type], 'view', query.view)
+    if (query.view) set(state[type], 'view', query.view)
     if (query.page) {
-      Vue.set(state[type], 'page', query.page)
+      set(state[type], 'page', query.page)
     } else {
-      Vue.set(state[type], 'page', 1)
+      set(state[type], 'page', 1)
     }
 
     const defaultSort = [
@@ -50,43 +50,43 @@ export const mutations = {
         )
       ],
     ]
-    if (query.sortBy) Vue.set(state[type], 'sortBy', [query.sortBy])
+    if (query.sortBy) set(state[type], 'sortBy', [query.sortBy])
 
     if (typeof query.sortDesc !== 'undefined') {
-      Vue.set(state[type], 'sortDesc', !!(query.sortDesc === 'true'))
+      set(state[type], 'sortDesc', !!(query.sortDesc === 'true'))
     } else {
-      Vue.set(state[type], 'sortDesc', !!(defaultSort[0].value[1] === 'desc'))
+      set(state[type], 'sortDesc', !!(defaultSort[0].value[1] === 'desc'))
     }
   },
   setSearch(state, { search, type }) {
-    Vue.set(state[type], 'search', search)
+    set(state[type], 'search', search)
   },
   setItems(state, { type, ...values }) {
-    Vue.set(state[type], 'items', values.items)
-    Vue.set(state[type], 'total', values.total)
-    Vue.set(state[type], 'numberOfPages', values.numberOfPages)
+    set(state[type], 'items', values.items)
+    set(state[type], 'total', values.total)
+    set(state[type], 'numberOfPages', values.numberOfPages)
   },
   setItemsPerPage(state, { value, type }) {
     state[type].itemsPerPage = value
   },
   setPage(state, { page, type }) {
-    Vue.set(state[type], 'page', page)
+    set(state[type], 'page', page)
   },
   setFilters(state, { filters, type }) {
     if (filters[Object.keys(filters)[0]].length)
       state[type].loading.push(Object.keys(filters)[0])
-    Vue.set(
+    set(
       state[type].filters,
       Object.keys(filters)[0],
       filters[Object.keys(filters)[0]]
     )
   },
   setSort(state, { value, type }) {
-    Vue.set(state[type], 'sortBy', [value[0]])
-    Vue.set(state[type], 'sortDesc', value[1] === 'desc')
+    set(state[type], 'sortBy', [value[0]])
+    set(state[type], 'sortDesc', value[1] === 'desc')
   },
   setView(state, { value, type }) {
-    Vue.set(state[type], 'view', value)
+    set(state[type], 'view', value)
   },
   setFiltersCount(state, type) {
     const filters = state[type].filters
@@ -101,10 +101,10 @@ export const mutations = {
           (typeof filters[filter] === 'object' &&
             Object.keys(filters[filter]).length)
       ).length
-    Vue.set(state[type], 'filtersCount', filtersCount)
+    set(state[type], 'filtersCount', filtersCount)
   },
   setBlankState(state, type) {
-    Vue.set(state, 'resetFilters', true)
+    set(state, 'resetFilters', true)
 
     const defaultView =
       lists[type].views[
@@ -120,7 +120,7 @@ export const mutations = {
       ],
     ]
     // TODO make dynamic based on an ~/assets located file
-    Vue.set(state[type], 'filters', {
+    set(state[type], 'filters', {
       years: [],
       issue: [],
       tags: [],
@@ -130,17 +130,17 @@ export const mutations = {
       type: [],
     })
 
-    Vue.set(state[type], 'search', '')
-    Vue.set(state[type], 'view', defaultView.name)
-    Vue.set(state[type], 'sortBy', [defaultSort[0].value[0]])
-    Vue.set(state[type], 'sortDesc', defaultSort[0].value[1] === 'desc')
-    Vue.set(state, 'resetFilters', false)
+    set(state[type], 'search', '')
+    set(state[type], 'view', defaultView.name)
+    set(state[type], 'sortBy', [defaultSort[0].value[0]])
+    set(state[type], 'sortDesc', defaultSort[0].value[1] === 'desc')
+    set(state, 'resetFilters', false)
   },
   setBlankFilterLoad(state, type) {
-    Vue.set(state[type], 'loading', [])
+    set(state[type], 'loading', [])
   },
   setStyle(state, style) {
-    Vue.set(state.articles, 'style', style)
+    set(state.articles, 'style', style)
   },
 }
 

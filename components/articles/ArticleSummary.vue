@@ -5,12 +5,6 @@
       class="transition-swing"
       :class="$vuetify.breakpoint.xs ? ' pa-2' : 'pa-12'"
     >
-      <CiteModal
-        v-if="!$route.name.startsWith('print')"
-        :item="item"
-        text
-      ></CiteModal>
-
       <DoiBadge :doi="item.DOI"></DoiBadge>
       <div id="authors" class="overline mt-6">
         {{ $tc('author_s', item.authors.length) }}
@@ -19,8 +13,11 @@
       <div class="overline mt-6">{{ $t('publication-date') }}</div>
       <div class="mb-6">
         {{
-          new Date(item.date).toLocaleDateString('EN', {
-            timezone: 'UTC',
+          new Date(item.date).toLocaleDateString('en-GB', {
+            // you can use undefined as first argument
+            year: 'numeric',
+            month: '2-digit',
+            day: '2-digit',
           })
         }}
       </div>

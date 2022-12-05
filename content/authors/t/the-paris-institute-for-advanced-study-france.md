@@ -10,9 +10,6 @@ issue:
 language:
   - English
 lastname: The Paris Institute for Advanced Study, France
-titles_and_institutions:
-  '0': {}
 years:
   - 2015
-
 ---

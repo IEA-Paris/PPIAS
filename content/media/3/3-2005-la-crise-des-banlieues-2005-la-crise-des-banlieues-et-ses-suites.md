@@ -1,7 +1,7 @@
 ---
 article_slug: 3. 2005 La crise des banlieues
 caption: '2005 : La "Crise des Banlieues" et ses Suites'
-date: '2022-05-10T16:00:13.000Z'
+date: 2022-05-10T16:00:13.000Z
 highlight: false
 id: FExU8NPC_Yw
 index: 0

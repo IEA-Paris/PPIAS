@@ -10,7 +10,6 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
   - English
 lastname: Seierstad
 positions_and_institutions:
@@ -20,9 +19,6 @@ positions_and_institutions:
 social_channels:
   twitter: '@AsneSeierstad'
   wikipedia: https://en.wikipedia.org/wiki/%C3%85sne_Seierstad
-titles_and_institutions:
-  '0':
-    institution: Norway
 years:
   - 2016
 

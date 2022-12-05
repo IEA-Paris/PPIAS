@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/virtual-realities.md
 language:
-  - null
-  - null
 lastname: Lecuyer
 positions_and_institutions:
   - institution: INRIA, France

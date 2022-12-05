@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   The defenders of Western civilization: Assembling Europe’s transnational
   right-wing network
-date: '2022-06-01T23:00:00.000Z'
+date: 2022-06-01T23:00:00.000Z
 highlight: false
 id: 3QIJi_HdMaM
 index: 0

@@ -94,9 +94,7 @@ export default {
     }
   },
   computed: {},
-  mounted() {
-    console.log(this.item.caption + ' : ' + this.item?.picture)
-  },
+  mounted() {},
   methods: {
     highlightWord(word = '') {
       return this.$store.state.media.search

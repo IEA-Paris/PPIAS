@@ -23,7 +23,7 @@ abstract: >
   recruitment by location. 
 article_title: >-
   Methodological difficulties of conducting cross-country quantitative research
-  early in the COVID-19 pandemic\: surveying changes in tobacco, alcohol and
+  early in the COVID-19 pandemic: surveying changes in tobacco, alcohol and
   other substance use
 authors:
   - firstname: 'Marewa'

@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/assessing-resilience.md
 language:
-  - null
-  - null
 lastname: Cardoso
 positions_and_institutions:
   - institution: Laboratoire du Génie Civil du Portugal

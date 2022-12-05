@@ -2,6 +2,7 @@ import EventEmitter from 'events'
 import filters from './assets/generated/filters'
 import config from './config.js'
 import { writePrintRoutes } from './tools/lib/contentUtilities.js'
+
 EventEmitter.defaultMaxListeners = 20
 export default {
   env: { config },
@@ -13,13 +14,15 @@ export default {
   target: 'static',
   ssr: true,
   generate: {
+    dir: 'dist',
     crawler: false,
-    concurrency: 10,
-    // TODO double-check that it is necessary to decalre routes:
-    // somehow the integrated crawler doesn't do the job of matching dynamic routes.
-    // I see 2 possible reasons and probably missed some other ones:
-    // 1 - it is a store related issue > when the route slug is fetched from store, the crawler doesn't wait for it.
-    // 2 - the pdf generation module is tempering with the routes generation, thus preventing the crawler from doing its job
+    // default concurrency is 500 afaik. Considering the RAM cost of each, it would require way too much memory.
+    // TODO check and time different values to come up with the best compromise between required memory (in free tier) and execution time
+    concurrency: 50,
+    // interval: 6000,
+    // Explicit declaration of the routes is necessary since
+    // Nuxt crawler can't follow all the print routes (besides it doesn't follow vuetify pagination component links).
+    // But no sweat, we know what to generate, no need to crawl.
     async routes() {
       const { $content } = require('@nuxt/content')
       const files = await Promise.all([
@@ -42,7 +45,12 @@ export default {
           await $content('issues', { deep: true }).only(['slug']).fetch()
         ).map((file) => '/issue/' + file.slug),
       ])
-
+      // JavaScript implementation of the Durstenfeld shuffle, an optimized version of Fisher-Yates
+      // to allow us to batch process more items by spreading the heavy ones, i.e. the articles
+      for (let i = files.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1))
+        ;[files[i], files[j]] = [files[j], files[i]]
+      }
       return files
     },
   },
@@ -213,9 +221,71 @@ export default {
     '@nuxtjs/ackee',
     '@nuxtjs/composition-api/module',
     // https://github.com/ch99q/nuxt-pdf
-    '~/modules/nuxt-pdf',
+    /*     '~/modules/nuxt-pdf', */
     '~/modules/publio',
   ],
+
+  pdf: {
+    /*
+     * Output folder for generated pdf.
+     */
+    dir: 'static',
+
+    /*
+     * Function options for page.pdf([options])
+     * Read more: https://pptr.dev/#?product=Puppeteer&version=v2.0.0&show=api-pagepdfoptions
+     */
+    pdf: {
+      // Change the format of the pdfs.
+      format: 'A4', // This is optional
+      printBackground: true, // Include background in pdf.
+      displayHeaderFooter: true,
+      footerTemplate: `
+        <div style="z-index: 1000; width: 100%; font-size: 8px;padding: 5px 5px 0; position: relative;">
+          <div style="position: absolute; right: 5px; top: 5px;">
+            <span class="pageNumber"></span> of <span class="totalPages"></span>
+          </div>
+        </div>`,
+      margin: { bottom: '70px' },
+    },
+
+    /*
+     * Function options for page.setViewport([options])
+     * Read more: https://pptr.dev/#?product=Puppeteer&version=v2.0.0&show=api-pagesetviewportviewport
+     */
+    viewport: {
+      // override the default viewport
+      width: 2048,
+      height: 3508,
+    },
+
+    /*
+     * Enable i18n support.
+    // TODO: reactivate
+     */
+    i18n: false,
+
+    /*
+     * Add options to the puppeteer launch.
+     * Read more: https://pptr.dev/#?product=Puppeteer&version=v2.0.0&show=api-puppeteerlaunchoptions
+     */
+    /*     puppeteer: {
+      // Puppeteer options here... E.g. env: {}
+    }, */
+
+    /*
+     * PDF Meta configuration. (inspired by vue-meta)
+     */
+    meta: {
+      title: '%s',
+      titleTemplate: 'PIAS ─ %s',
+    },
+
+    /*
+     * PDF generation routes. (expanding nuxt.generate)
+     */
+    routes: async () => await writePrintRoutes(),
+  },
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
@@ -292,13 +362,6 @@ export default {
   publio: {
     filters, // TODO rework the filter generation mechanism
     config,
-    features: [
-      'tsvToArticles',
-      'makeFiltersData',
-      'mergeAuthors',
-      'generateMedia',
-      'processArticles',
-    ],
   },
   /*
    ** robots module configuration
@@ -427,12 +490,12 @@ export default {
    ** Apollo module configuration
    ** https://github.com/nuxt-community/apollo-module
    */
-  apollo: {
+  /*   apollo: {
     clientConfigs: {
       default: '~/plugins/apollo-config.js',
     },
     authenticationType: '',
-  },
+  }, */
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
   vuetify: {
     customVariables: ['~/assets/variables.scss'],
@@ -469,59 +532,7 @@ export default {
       },
     },
   },
-  pdf: {
-    /*
-     * Output folder for generated pdf.
-     */
-    dir: 'static',
 
-    /*
-     * Function options for page.pdf([options])
-     * Read more: https://pptr.dev/#?product=Puppeteer&version=v2.0.0&show=api-pagepdfoptions
-     */
-    pdf: {
-      // Change the format of the pdfs.
-      format: 'A4', // This is optional
-      printBackground: true, // Include background in pdf.
-    },
-
-    /*
-     * Function options for page.setViewport([options])
-     * Read more: https://pptr.dev/#?product=Puppeteer&version=v2.0.0&show=api-pagesetviewportviewport
-     */
-    viewport: {
-      // override the default viewport
-      width: 2048,
-      height: 3508,
-    },
-
-    /*
-     * Enable i18n support.
-    // TODO: reactivate
-     */
-    i18n: false,
-
-    /*
-     * Add options to the puppeteer launch.
-     * Read more: https://pptr.dev/#?product=Puppeteer&version=v2.0.0&show=api-puppeteerlaunchoptions
-     */
-    /*     puppeteer: {
-      // Puppeteer options here... E.g. env: {}
-    }, */
-
-    /*
-     * PDF Meta configuration. (inspired by vue-meta)
-     */
-    meta: {
-      title: '%s',
-      titleTemplate: 'PIAS ─ %s',
-    },
-
-    /*
-     * PDF generation routes. (expanding nuxt.generate)
-     */
-    routes: async () => await writePrintRoutes(),
-  },
   /*
    ** Page Layout transition
    ** https://nuxtjs.org/guides/features/transitions#the-layouttransition-property

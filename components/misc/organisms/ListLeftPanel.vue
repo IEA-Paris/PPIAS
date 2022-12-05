@@ -214,12 +214,13 @@
 
     <v-container
       v-if="!$store.state.loading"
-      class="footer-pagination d-flex"
-      :class="
+      class="footer-pagination d-flex transition-swing"
+      :class="[
         $vuetify.breakpoint.smAndDown
           ? 'flex-column-reverse align-center'
-          : 'justify-space-between'
-      "
+          : 'justify-space-between',
+        { unpadded: filter },
+      ]"
     >
       <div
         class="perpage-select"
@@ -242,18 +243,13 @@
         ></v-select>
       </div>
       <div class="text-center">
-        <v-pagination
+        <Pagination
           v-if="numberOfPages > 1"
           :total-visible="5"
-          color="black"
-          large
           :value="page || 1"
           :length="numberOfPages"
-          @input="
-            $store.dispatch('updatePage', { page: $event, type }) &&
-              $vuetify.goTo(0)
-          "
-        ></v-pagination>
+          @input="handlePagination"
+        />
       </div>
     </v-container>
   </div>
@@ -396,6 +392,10 @@ export default {
   },
   updated() {},
   methods: {
+    handlePagination(page) {
+      this.$store.dispatch('updatePage', { page, type: this.type })
+      this.$vuetify.goTo(0)
+    },
     /*     async updatePage(page) {
       await this.$router.push({
         query: { ...this.$route.query, page },
@@ -406,6 +406,10 @@ export default {
 }
 </script>
 <style lang="scss">
+.unpadded {
+  // TODO Fix animation. Rather than :fluid="filter", it seems that applying this at css level produced a more satisfying animation. It mitigates the glitch making the filters appear below the list before going to the right place. It remains to be fully fixed
+  max-width: 100%;
+}
 .sidebtn {
   position: sticky;
   display: block;

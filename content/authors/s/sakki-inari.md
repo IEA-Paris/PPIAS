@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
 language:
-  - null
-  - null
 lastname: Sakki
 positions_and_institutions:
   - institution: University of Helsinki, Finland

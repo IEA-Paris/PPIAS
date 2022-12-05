@@ -3,11 +3,10 @@ abstract: Justice and Climate Transitions, Paris IAS,  24-25 September 2015 - Pr
 article_title: Justice and Climate Transitions - Program
 authors:
 - lastname: University of New South Wales, Sydney, Australia
-  firstname: "  "
+  firstname: ""
 - lastname: The Paris Institute for Advanced Study, France
-  titles_and_institutions:
-  - {}
-  firstname: " "
+  positions_and_institutions:
+  firstname: ""
 date: 2015-09-23T23:00:00.000+00:00
 highlight: false
 issue: content/issues/justice-climate-transitions.md

@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   Is There a Social Psychology of Historic Grievances and Intergroup Conflict in
   the Age of ‘Radicalisation’?
-date: '2016-11-17T11:00:00.000Z'
+date: 2016-11-17T11:00:00.000Z
 highlight: false
 id: 9vlVtClNJ-U
 index: 0

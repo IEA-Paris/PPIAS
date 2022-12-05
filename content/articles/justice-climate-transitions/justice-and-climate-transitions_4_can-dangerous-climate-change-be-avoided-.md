@@ -7,10 +7,6 @@ authors:
   is_institution: false
   lastname: Moellendorf
   positions_and_institutions:
-  - institution: University of Frankfurt, Germany
-    positions:
-    - ''
-  titles_and_institutions:
   - institution: Goethe University, Frankfurt, Germany
   social_channels:
     google_scholar: https://scholar.google.de/citations?user=64uZgu4AAAAJ&hl=en

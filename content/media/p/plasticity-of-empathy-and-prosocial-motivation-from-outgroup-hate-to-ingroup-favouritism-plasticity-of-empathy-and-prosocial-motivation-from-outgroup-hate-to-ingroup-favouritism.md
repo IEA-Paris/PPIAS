@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   Plasticity of Empathy and Prosocial Motivation: From Outgroup Hate to Ingroup
   Favouritism
-date: '2017-05-11T09:00:00.000Z'
+date: 2017-05-11T09:00:00.000Z
 highlight: false
 id: TOa-sPMDNGg
 index: 0

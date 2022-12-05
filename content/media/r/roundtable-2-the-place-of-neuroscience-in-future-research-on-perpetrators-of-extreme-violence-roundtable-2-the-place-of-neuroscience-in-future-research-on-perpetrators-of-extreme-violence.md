@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   Roundtable 2: The Place of Neuroscience in Future Research on Perpetrators of
   Extreme Violence
-date: '2017-05-11T15:00:00.000Z'
+date: 2017-05-11T15:00:00.000Z
 highlight: false
 id: RjpjfM64mdk
 index: 0

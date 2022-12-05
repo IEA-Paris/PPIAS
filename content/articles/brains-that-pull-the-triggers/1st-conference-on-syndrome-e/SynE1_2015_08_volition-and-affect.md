@@ -10,10 +10,6 @@ authors:
   lastname: Haggard
   positions_and_institutions:
   - institution: University College London, United Kingdom
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: University College London, United Kingdom
   social_channels:
     wikipedia: https://en.wikipedia.org/wiki/Patrick_Haggard
     google_scholar: https://scholar.google.co.uk/citations?user=NqmgC9gAAAAJ&hl=en

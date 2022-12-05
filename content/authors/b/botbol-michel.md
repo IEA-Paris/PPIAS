@@ -11,20 +11,16 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
   - English
 lastname: Botbol
 positions_and_institutions:
-  - institution: CHU Brest, France
+  - institution: Université de Bretagne Occidentale, France
     positions:
       - ''
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=62K6L5gAAAAJ&hl=fr
   linkedin: https://fr.linkedin.com/in/michel-botbol-01a07257
   researchgate: https://www.researchgate.net/profile/Michel-Botbol
-titles_and_institutions:
-  '0':
-    institution: Université de Bretagne Occidentale, France
 years:
   - 2016
 

@@ -15,7 +15,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: European Commission
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -28,10 +27,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_positions:
-  '0':
-    institution: European Commission
-    titles: []
 years:
   - 2022
 

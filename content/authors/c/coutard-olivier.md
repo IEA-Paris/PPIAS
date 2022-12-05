@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/territories-of-energy-transition.md
 language:
-  - null
-  - null
 lastname: Coutard
 positions_and_institutions:
   - institution: CNRS, LATTS / Université Gustave Eiffel, France

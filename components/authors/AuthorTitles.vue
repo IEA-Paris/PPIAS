@@ -41,9 +41,7 @@
   </div>
 </template>
 <script>
-import AuthorsBioHint from './AuthorsBioHint.vue'
 export default {
-  components: { AuthorsBioHint },
   props: {
     item: {
       type: Object,

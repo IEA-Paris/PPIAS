@@ -58,7 +58,7 @@
                   <v-list-item-content>
                     <v-list-item-title
                       class="text-uppercase text-button"
-                      v-text="$t('about')"
+                      v-text="$t('about-us')"
                     ></v-list-item-title>
                   </v-list-item-content>
                 </v-list-item>
@@ -109,9 +109,9 @@
                 {{ $t('subscribe-to-our-newsletter') }}
               </div>
 
-              <nuxt-link
+              <a
                 target="_blank"
-                to="https://www.paris-iea.fr/en/presentation-of-the-institute/newsletter"
+                href="https://www.paris-iea.fr/en/presentation-of-the-institute/newsletter"
                 class="d-flex"
               >
                 <v-text-field
@@ -126,7 +126,7 @@
                 >
                   <v-btn outlined large>{{ $t('subscribe') }}</v-btn>
                 </v-text-field>
-              </nuxt-link>
+              </a>
             </v-col>
           </v-row>
           <v-row justify="center" no-gutters class="mt-3">

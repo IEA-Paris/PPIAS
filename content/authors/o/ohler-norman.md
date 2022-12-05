@@ -11,8 +11,6 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
-  - null
 lastname: OHLER
 positions_and_institutions:
   - institution: Germany

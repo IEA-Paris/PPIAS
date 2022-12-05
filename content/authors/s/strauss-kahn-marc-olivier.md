@@ -16,7 +16,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Banque de France, France
     positions: []
-    titles: []
 social_channels:
   google_scholar: ''
   instagram: ''
@@ -27,10 +26,7 @@ social_channels:
   twitter: '@MarcStraussKahn'
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Marc-Olivier_Strauss-Kahn
-titles_and_positions:
-  '0':
-    institution: Banque de France, France
-    titles: []
+
 years:
   - 2022
 

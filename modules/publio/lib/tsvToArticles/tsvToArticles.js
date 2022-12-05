@@ -4,8 +4,8 @@ import fs from 'fs'
 import yaml from 'js-yaml'
 import matter from 'gray-matter'
 import fsExtra from 'fs-extra'
-import { batchInsertArticles } from '../contentUtilities'
-import slugify from '../slugify'
+import { batchInsertArticles } from '../../utils/contentUtilities'
+import slugify from '../../utils/slugify'
 export default (options) => {
   try {
     const content = fs.readFileSync(

@@ -15,7 +15,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Laboratoire ESE, Université Paris-Saclay, France
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=FuLX2sUAAAAJ&hl=fr
@@ -32,10 +31,6 @@ tags:
   - Medicine
   - Microbe
   - Technology and Medicine
-titles_and_positions:
-  '0':
-    institution: Laboratoire ESE, Université Paris-Saclay, France
-    titles: []
 years:
   - 2021
 

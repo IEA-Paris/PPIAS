@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
 language:
-  - null
-  - null
 lastname: Gaskel
 positions_and_institutions:
   - institution: London School of Economics, United Kingdom

@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/territories-of-energy-transition.md
 language:
-  - null
-  - null
 lastname: Gabillet
 positions_and_institutions:
   - institution: LATTS / Université Gustave Eiffel, France

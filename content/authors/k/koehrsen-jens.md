@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/territories-of-energy-transition.md
 language:
-  - null
-  - null
 lastname: Koehrsen
 positions_and_institutions:
   - institution: Basel University, Switzerland

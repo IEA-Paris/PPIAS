@@ -36,7 +36,7 @@
                   nuxt
                   :href="'/authors/' + item.slug"
                   target="_blank"
-                  :title="item.post_title"
+                  :title="item.lastname"
                   small
                   v-on="on"
                 >
@@ -53,7 +53,7 @@
                   :text="item.firstname + ' ' + item.lastname"
                   class="pa-6"
                 >
-                  <template v-if="socials.length">
+                  <template v-if="socials && socials.length">
                     <AuthorSocials :socials="socials"></AuthorSocials>
                   </template>
                 </PageTitle>
@@ -68,7 +68,7 @@
                     :item="item"
                     class="justify-self-start"
                   ></AuthorTitles>
-                  <template v-if="articles.length">
+                  <template v-if="articles && articles.length">
                     <div class="text-h5 my-6">
                       {{
                         item.is_institution

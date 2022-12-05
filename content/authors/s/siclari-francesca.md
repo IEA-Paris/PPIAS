@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/sleep-and-memory.md
 language:
-  - null
-  - null
 lastname: Siclari
 positions_and_institutions:
   - institution: University of lausanne - CHUV

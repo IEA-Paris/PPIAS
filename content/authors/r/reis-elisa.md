@@ -17,7 +17,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Federal University of Rio de Janeiro, Brazil
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=TUg9_OUAAAAJ&hl=en
@@ -35,10 +34,6 @@ tags:
   - 'Inequalities, Poverty, Development '
   - 'Risks, Crisis Management '
   - 'Public Policy, Evaluation, Impact '
-titles_and_positions:
-  '0':
-    institution: Federal University of Rio de Janeiro, Brazil
-    titles: []
 years:
   - 2021
 

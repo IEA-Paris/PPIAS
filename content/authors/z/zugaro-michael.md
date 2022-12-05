@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/sleep-and-memory.md
 language:
-  - null
-  - null
 lastname: Zugaro
 positions_and_institutions:
   - institution: CNRS - Collège de France

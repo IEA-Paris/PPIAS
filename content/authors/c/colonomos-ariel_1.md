@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
 language:
-  - null
-  - null
 lastname: Colonomos
 positions_and_institutions:
   - institution: CERI-SciencesPo, France

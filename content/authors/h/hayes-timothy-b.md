@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
 language:
-  - null
-  - null
 lastname: Hayes
 positions_and_institutions:
   - institution: University of Southern California, USA

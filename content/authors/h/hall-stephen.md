@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/territories-of-energy-transition.md
 language:
-  - null
-  - null
 lastname: Hall
 positions_and_institutions:
   - institution: Leeds University, Great Britain

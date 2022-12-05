@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   Devoted Actors and the Spiritual Dimension of Conflict on the ISIS Frontline
   and Elsewhere
-date: '2017-05-11T07:00:00.000Z'
+date: 2017-05-11T07:00:00.000Z
 highlight: false
 id: cjI1JJznVS4
 index: 0

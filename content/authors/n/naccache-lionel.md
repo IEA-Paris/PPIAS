@@ -11,7 +11,6 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
   - English
 lastname: Naccache
 positions_and_institutions:
@@ -22,9 +21,6 @@ social_channels:
   google_scholar: https://scholar.google.com/citations?user=yfXow7cAAAAJ&hl=fr
   researchgate: https://www.researchgate.net/profile/Lionel-Naccache
   wikipedia: https://fr.wikipedia.org/wiki/Lionel_Naccache
-titles_and_institutions:
-  '0':
-    institution: Institut du Cerveau ICM, France
 years:
   - 2016
 

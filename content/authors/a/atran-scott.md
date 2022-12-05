@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
-  - null
 lastname: ATRAN
 positions_and_institutions:
   - institution: University of Michigan, USA

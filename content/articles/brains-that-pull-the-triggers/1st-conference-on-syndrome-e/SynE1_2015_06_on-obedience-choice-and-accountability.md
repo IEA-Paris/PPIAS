@@ -9,10 +9,6 @@ authors:
   lastname: 'Reicher '
   positions_and_institutions:
   - institution: University of St Andrews, United Kingdom
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: University of St Andrews, United Kingdom
   social_channels:
     wikipedia: https://en.wikipedia.org/wiki/Steve_Reicher
     google_scholar: https://en.wikipedia.org/wiki/Steve_Reicher

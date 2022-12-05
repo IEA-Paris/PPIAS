@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
 language:
-  - null
-  - null
 lastname: Gekeler
 positions_and_institutions:
   - institution: Institute for Medical Psychology / Charité University Hospitals, Germany

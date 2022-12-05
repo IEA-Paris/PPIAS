@@ -8,10 +8,6 @@ authors:
   lastname: Berthoz
   positions_and_institutions:
   - institution: Collège de France, France
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: Collège de France, France
 date: 2016-05-09T02:00:00.000+00:00
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md

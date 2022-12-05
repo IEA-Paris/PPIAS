@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
 language:
-  - null
-  - null
 lastname: Lopes
 positions_and_institutions:
   - institution: SCTE-IUL, CIS-IUL, Lisbon, Portugal

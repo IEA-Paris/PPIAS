@@ -7,10 +7,6 @@ authors:
   is_institution: false
   lastname: Kunze
   positions_and_institutions:
-  - institution: Helmholtz-Zentrum für Umweltforschung, Germany
-    positions:
-    - ''
-  titles_and_institutions:
   - institution: Helmholtz Centre for Environmental Research – UFZ, Germany
 date: 2015-09-25T08:00:00.000+00:00
 highlight: false

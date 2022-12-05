@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/assessing-resilience.md
 language:
-  - null
-  - null
 lastname: Telhao
 positions_and_institutions:
   - institution: City of Lisbon, Portugal

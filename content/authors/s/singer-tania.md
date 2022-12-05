@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
-  - null
 lastname: SINGER
 positions_and_institutions:
   - institution: Max Planck Institute for Human cognitive and Brain Sciences

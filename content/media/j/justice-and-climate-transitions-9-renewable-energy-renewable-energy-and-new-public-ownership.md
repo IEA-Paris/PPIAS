@@ -1,7 +1,7 @@
 ---
 article_slug: justice-and-climate-transitions_9_renewable-energy
 caption: Renewable Energy and new Public Ownership
-date: '2015-09-25T08:00:00.000Z'
+date: 2015-09-25T08:00:00.000Z
 highlight: false
 id: cieqWDbhnfY
 index: 0

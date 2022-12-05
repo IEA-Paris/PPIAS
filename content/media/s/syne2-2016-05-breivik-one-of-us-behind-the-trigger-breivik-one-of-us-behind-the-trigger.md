@@ -1,7 +1,7 @@
 ---
 article_slug: SynE2_2016_05_breivik-one-of-us-behind-the-trigger
 caption: 'Breivik: “One of Us” Behind the Trigger'
-date: '2016-05-09T03:00:00.000Z'
+date: 2016-05-09T03:00:00.000Z
 highlight: false
 id: xDVtZ6KOwUw
 index: 0

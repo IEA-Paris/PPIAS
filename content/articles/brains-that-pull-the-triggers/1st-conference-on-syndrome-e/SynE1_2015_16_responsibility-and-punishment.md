@@ -8,10 +8,6 @@ authors:
   lastname: Stewart
   positions_and_institutions:
   - institution: International Criminal Court, Netherlands
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: International Criminal Court, Netherlands
   social_channels:
     linkedin: https://ca.linkedin.com/in/james-stewart-589a862a
     wikipedia: https://en.wikipedia.org/wiki/James_Kirkpatrick_Stewart

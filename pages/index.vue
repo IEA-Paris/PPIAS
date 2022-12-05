@@ -9,11 +9,11 @@
       <v-col class="transition-swing" cols="12">
         <v-row justify="center">
           <v-col cols="12" md="8" lg="6">
-            <div
+            <h1
               class="main-title transition-swing"
               :class="$store.state.scrolled ? 'mb-16 mt-8' : 'mb-8 mt-2'"
-              v-html="$config.full_name"
-            ></div>
+              v-html="$config.full_name_html"
+            ></h1>
             <nuxt-content :document="page" />
           </v-col>
         </v-row>
@@ -57,7 +57,7 @@ export default {
     const latestIssueArticles = await $content('articles', { deep: true })
       .where({ issue: { $regex: latestIssue.path }, published: true })
       .sortBy('date', 'asc')
-      .limit(6)
+      .limit(3)
       .fetch()
     const featuredArticles = await $content('articles', { deep: true })
       .where({ highlight: true, published: true })
@@ -96,7 +96,7 @@ export default {
     this.latestIssueArticles = await this.$content('articles', { deep: true })
       .where({ issue: { $regex: this.latestIssue.path }, published: true })
       .sortBy('date', 'asc')
-      .limit(6)
+      .limit(3)
       .fetch()
     this.featuredArticles = await this.$content('articles', { deep: true })
       .where({ highlight: true, published: true })

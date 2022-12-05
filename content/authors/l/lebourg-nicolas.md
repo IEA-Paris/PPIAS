@@ -12,8 +12,6 @@ is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
 language:
-  - null
-  - null
 lastname: Lebourg
 positions_and_institutions:
   - institution: Université de Montpellier, France

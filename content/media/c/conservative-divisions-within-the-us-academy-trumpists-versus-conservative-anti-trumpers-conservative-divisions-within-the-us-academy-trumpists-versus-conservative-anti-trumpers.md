@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   Conservative Divisions within the US Academy: Trumpists versus Conservative
   Anti-Trumpers
-date: '2022-06-02T06:00:00.000Z'
+date: 2022-06-02T06:00:00.000Z
 highlight: false
 id: C11qgbuGMZ8
 index: 0

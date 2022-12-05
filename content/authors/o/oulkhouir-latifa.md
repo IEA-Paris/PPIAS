@@ -16,7 +16,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Bondy Blog, France
     positions: []
-    titles: []
 social_channels:
   google_scholar: ''
   instagram: '@Lallakhr'
@@ -27,10 +26,6 @@ social_channels:
   twitter: '@LallaKhr'
   website: ''
   wikipedia: ''
-titles_and_positions:
-  '0':
-    institution: Bondy Blog, France
-    titles: []
 years:
   - 2022
 

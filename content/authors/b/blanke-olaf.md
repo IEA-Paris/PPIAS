@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/identity-from-double-to-avatar.md
 language:
-  - null
-  - null
 lastname: Blanke
 positions_and_institutions:
   - institution: École polytechnique Lausanne, Switzerland

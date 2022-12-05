@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   Ouvrir et fermer les futurs. Le pragmatisme sociologique et la critique de la
   prophétie
-date: '2020-12-11T12:00:00.000Z'
+date: 2020-12-11T12:00:00.000Z
 highlight: false
 id: xl_UjjtNv9Q
 index: 0

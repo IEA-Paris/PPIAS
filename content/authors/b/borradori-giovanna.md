@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/identity-from-double-to-avatar.md
 language:
-  - null
-  - null
 lastname: Borradori
 positions_and_institutions:
   - institution: Vassar College, Poughkeepsie, USA

@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   Stereotyped Behaviour of Perpetrators: “Critical Period” during
   Pre-adolescence for Tolerance and Empathy?
-date: '2017-05-11T08:00:00.000Z'
+date: 2017-05-11T08:00:00.000Z
 highlight: false
 id: yAdP6ryaaGs
 index: 0

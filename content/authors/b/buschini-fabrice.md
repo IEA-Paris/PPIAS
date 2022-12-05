@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
 language:
-  - null
-  - null
 lastname: Buschini
 positions_and_institutions:
   - institution: Sorbonne Nouvelle - Paris 3 University, France

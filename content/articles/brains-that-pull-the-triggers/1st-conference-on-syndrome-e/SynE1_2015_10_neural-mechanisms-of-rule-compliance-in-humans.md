@@ -9,10 +9,6 @@ authors:
   lastname: Koechlin
   positions_and_institutions:
   - institution: ENS Paris, France
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: ENS Paris, France
   social_channels:
     google_scholar: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
     twitter: "@KoechlinE"

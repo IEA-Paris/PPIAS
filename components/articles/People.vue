@@ -103,7 +103,7 @@
         class="text-h5 font-weight-black"
         v-html="item.firstname + ' ' + item.lastname"
       ></div>
-      <div class="text-h6 mb-3" v-html="item.title_and_institution"></div>
+      <div class="text-h6 mb-3" v-html="item.positions_and_institutions"></div>
       <div
         v-if="$vuetify.breakpoint.smAndDown"
         class="flex-row justify-center mb-6"

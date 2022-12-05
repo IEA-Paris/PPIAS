@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   The Effect of Body Posture, Outgroup Affiliation, and Proximity of Virtual
   Encounters on Human Freezing Responses
-date: '2022-02-17T02:00:00.000Z'
+date: 2022-02-17T02:00:00.000Z
 highlight: false
 id: PEwHVxM9tKI
 index: 0

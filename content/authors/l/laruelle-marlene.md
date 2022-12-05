@@ -13,8 +13,6 @@ is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
 language:
-  - null
-  - null
 lastname: Laruelle
 positions_and_institutions:
   - institution: George Washington University, USA

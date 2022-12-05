@@ -16,7 +16,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: UiT The Arctic University Of Norway, Norway
     positions: []
-    titles: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -29,9 +28,8 @@ social_channels:
   website: ''
   wikipedia: ''
 titles_and_positions:
-  '0':
-    institution: UiT The Arctic University Of Norway, Norway
-    titles: []
+  - institution: UiT The Arctic University Of Norway, Norway
+
 years:
   - 2022
 

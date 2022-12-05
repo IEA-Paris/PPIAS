@@ -55,11 +55,6 @@ yt: ''
 ---
 The Covid-19 pandemic has led to an economic crisis with strong social consequences. The main findings of research show an increase in inequalities and poverty. The poorest countries had fewer public resources to cope with this exogenous shock and their economies were particularly weakened. Within developed countries, the most vulnerable people were the most affected, while the richest suffered little or no impact. The consequences of the pandemic affect people’s lives in many ways and inequalities are visible in different areas: income, employment, housing, education. These inequalities are intergenerational, gendered, social and economic.
 
-<<<<<<< HEAD
-The Covid-19 pandemic has led to an economic crisis with strong social consequences. The main findings of research show an increase in inequalities and poverty. The poorest countries had fewer public resources to cope with this exogenous shock and their economies were particularly weakened. Within developed countries, the most vulnerable people were the most affected, while the richest suffered little or no impact. The consequences of the pandemic affect people’s lives in many ways and inequalities are visible in different areas: income, employment, housing, education. These inequalities are intergenerational, gendered, social and economic.
-
-=======
->>>>>>> main
 Several studies from the [WPRN database](https://wprn.org/ "WPRN") make it possible to analyze and quantify this phenomenon. Inequalities caused by the pandemic and health measures are particularly felt in three aspects that this note aims to analyse: economic inequalities, particularly in terms of income and access to employment; territorial and housing-related inequalities; inequalities related to education.
 
 ### The most precarious populations over-impacted

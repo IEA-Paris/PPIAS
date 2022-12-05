@@ -10,7 +10,6 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
   - English
 lastname: Robbins
 positions_and_institutions:
@@ -23,9 +22,6 @@ social_channels:
   orcid: 0000-0003-0642-5977
   researchgate: https://www.researchgate.net/profile/Trevor-Robbins-2
   wikipedia: https://en.wikipedia.org/wiki/Trevor_Robbins
-titles_and_institutions:
-  '0':
-    institution: University of Cambridge, United Kingdom
 years:
   - 2016
 

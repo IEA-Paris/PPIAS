@@ -7,7 +7,7 @@
     >
       {{ title }}
     </div>
-    <v-timeline align-top dense reverse class="toc">
+    <v-timeline v-if="toc.length" align-top dense reverse class="toc">
       <v-timeline-item
         v-for="(link, index) of toc"
         :key="link.id"

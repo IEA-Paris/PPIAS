@@ -16,7 +16,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Institut de recherche pour le développement (IRD), France
     positions: []
-    titles: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=WtWhrHwAAAAJ&hl=en
   instagram: ''
@@ -27,10 +26,7 @@ social_channels:
   twitter: '@AliceDesclaux'
   website: ''
   wikipedia: ''
-titles_and_positions:
-  '0':
-    institution: Institut de recherche pour le développement (IRD), France
-    titles: []
+
 years:
   - 2022
 

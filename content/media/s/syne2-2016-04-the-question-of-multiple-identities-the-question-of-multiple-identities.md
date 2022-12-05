@@ -1,7 +1,7 @@
 ---
 article_slug: SynE2_2016_04_the-question-of-multiple-identities
 caption: The Question of Multiple Identities
-date: '2016-05-09T02:00:00.000Z'
+date: 2016-05-09T02:00:00.000Z
 highlight: false
 id: jHiq85lqS2Y
 index: 0

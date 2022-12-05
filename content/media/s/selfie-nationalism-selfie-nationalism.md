@@ -1,7 +1,7 @@
 ---
 article_slug: selfie-nationalism
 caption: Selfie Nationalism
-date: '2018-12-14T12:00:00.000Z'
+date: 2018-12-14T12:00:00.000Z
 highlight: false
 id: H2E98Ncoff8
 index: 0

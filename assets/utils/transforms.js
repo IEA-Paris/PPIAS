@@ -1,4 +1,5 @@
 import stopWords from './stopWords'
+import { getAuthorSlug } from './slugify'
 
 export const getKey = (id, key) => {
   let selector
@@ -56,7 +57,10 @@ export const formatAuthors = (
   authors = false,
   $t,
   full = false,
-  initials = true
+  initials = true,
+  url = '',
+  institutionsIds = [],
+  linkInsitution = true
 ) => {
   const format = (author) => {
     const name =
@@ -78,16 +82,20 @@ export const formatAuthors = (
                 .toUpperCase()
             : author.firstname) +
           (initials ? '.&nbsp;' : ''))
-    const institution =
-      (author?.positions_and_institutions &&
-        author?.positions_and_institutions[0] &&
-        author.positions_and_institutions[0]?.institution) ||
-      ''
-    return full && institution.length
-      ? name +
-          ` - <i>${institution}</i>
- `
-      : name
+
+    if (full) {
+      const slug = getAuthorSlug(author)
+      const instutionElmt = institutionsIds
+        .map((instutionId) => {
+          if (linkInsitution) {
+            return `<a style="text-decoration: none;" href="#institution-${instutionId}"><sup>${instutionId}</sup></a>`
+          }
+          return `<sup>${instutionId}</sup>`
+        })
+        .join('')
+      return `<a href="${url}/authors/${slug}" style="text-decoration: none; color: inherit;">${name}<span style="margin-left: 3px">${instutionElmt}</span></a>`
+    }
+    return name
   }
   if (!authors) return ''
 

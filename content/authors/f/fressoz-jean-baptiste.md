@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
 language:
-  - null
-  - null
 lastname: Fressoz
 positions_and_institutions:
   - institution: CRH-EHESS, France

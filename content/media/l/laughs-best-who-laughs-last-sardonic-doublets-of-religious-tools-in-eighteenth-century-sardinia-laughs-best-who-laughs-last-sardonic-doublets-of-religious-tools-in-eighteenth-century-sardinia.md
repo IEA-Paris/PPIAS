@@ -4,7 +4,7 @@ article_slug: >-
 caption: >-
   Laughs Best who Laughs Last: Sardonic Doublets of Religious Tools in
   Eighteenth Century Sardinia
-date: '2018-12-13T05:00:00.000Z'
+date: 2018-12-13T05:00:00.000Z
 highlight: false
 id: z-_Sug7EuYI
 index: 0

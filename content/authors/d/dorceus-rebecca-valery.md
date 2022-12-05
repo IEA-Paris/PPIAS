@@ -9,8 +9,6 @@ is_institution: false
 issue:
   - content/issues/assessing-resilience.md
 language:
-  - null
-  - null
 lastname: Dorcéus
 positions_and_institutions:
   - institution: Rouge Vif territoires, France

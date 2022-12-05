@@ -16,7 +16,6 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Muséum national d'histoire naturelle, France
     positions: []
-    titles: []
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=sIb4k-AAAAAJ&hl=fr
   instagram: ''
@@ -27,10 +26,7 @@ social_channels:
   twitter: '@BrunoDavidMNHN'
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Bruno_David
-titles_and_positions:
-  '0':
-    institution: Muséum national d'histoire naturelle, France
-    titles: []
+
 years:
   - 2021
 

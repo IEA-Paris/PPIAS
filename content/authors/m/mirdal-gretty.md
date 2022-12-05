@@ -14,20 +14,11 @@ issue:
   - content/issues/hommage-serge-moscovici.md
   - content/issues/brains-that-pull-the-triggers.md
 language:
-  - null
-  - null
 lastname: Mirdal
-positions_and_institutions:
-  - institution: Paris IAS, France
-    positions:
-      - ''
-titles_and_institution:
-  '0':
-    institution: Paris Institute for Advanced Study
-    titles:
-      - ''
+positions_and_institutions: 
+  - institution: Paris Institute for Advanced Study
+    positions: []
 years:
-  - null
   - 2019
   - 2016
   - 2017

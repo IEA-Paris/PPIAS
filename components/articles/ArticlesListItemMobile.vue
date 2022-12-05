@@ -124,6 +124,7 @@
             v-if="item.authors"
             :authors="item.authors"
             class=""
+            small
         /></v-list-item-subtitle>
       </div>
     </v-list-item>

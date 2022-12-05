@@ -1,7 +1,7 @@
 ---
 article_slug: SynE1_2015_05_analysing-massacre
 caption: Analysing Massacre to Understand the Genocidal Process
-date: '2015-04-28T03:00:00.000Z'
+date: 2015-04-28T03:00:00.000Z
 highlight: false
 id: jdCfEEwY_xg&t
 index: 0

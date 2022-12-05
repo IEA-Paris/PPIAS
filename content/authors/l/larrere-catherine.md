@@ -11,19 +11,15 @@ is_institution: false
 issue:
   - content/issues/justice-climate-transitions.md
 language:
-  - null
   - English
 lastname: Larrère
 positions_and_institutions:
-  - institution: Université Paris 1, France
+  - institution: University Paris I Panthéon-Sorbonne, France
     positions:
       - ''
 social_channels:
   linkedin: https://fr.linkedin.com/in/catherine-larr%C3%A8re-314263162
   wikipedia: https://fr.wikipedia.org/wiki/Catherine_Larr%C3%A8re
-titles_and_institutions:
-  '0':
-    institution: University Paris I Panthéon-Sorbonne, France
 years:
   - 2015
 

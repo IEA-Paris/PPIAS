@@ -3,7 +3,7 @@ article_slug: SynE2_2016_11_what-the-clinical-approaches-of-difficult-adolescent
 caption: >-
   What the Clinical Approaches of Difficult Adolescents Can Teach us About E
   Syndrome
-date: '2016-05-10T10:00:00.000Z'
+date: 2016-05-10T10:00:00.000Z
 highlight: false
 id: 8icocBuAzX0
 index: 0

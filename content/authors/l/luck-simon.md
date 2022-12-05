@@ -12,16 +12,10 @@ issue:
   - content/issues/identity-from-double-to-avatar.md
 language:
   - English
-  - null
-  - null
 lastname: Luck
 positions_and_institutions:
   - institution: Paris Institute for Advanced Study
-    positions:
-      - ''
-titles_and_positions:
-  '0':
-    institution: Paris Institute for Advanced Study
+  - positions: Scientific Director
 years:
   - 2020
   - 2018

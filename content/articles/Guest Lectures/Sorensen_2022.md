@@ -26,7 +26,7 @@ authors:
       twitter: '@C_D_Sorensen'
       website: ''
       wikipedia: ''
-    titles_and_institutions:
+    positions_and_institutions:
       - institution: GreenLab, Denmark
         titles: []
 bibliography: ''

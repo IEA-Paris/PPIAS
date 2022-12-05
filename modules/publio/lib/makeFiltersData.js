@@ -1,14 +1,6 @@
 import fs from 'fs'
-export default async (content) => {
+export default (articles, issues) => {
   const filters = {}
-  const { $content } = require('@nuxt/content')
-  // TODO add .only() to limit the data fetched
-  const articles = await $content('articles', { deep: true })
-    .where({ published: true })
-    .fetch()
-  const issues = await $content('issues', { deep: true })
-    .sortBy('date', 'desc')
-    .fetch()
   // year filter
   filters.years = {
     type: 'Select',
@@ -46,13 +38,23 @@ export default async (content) => {
       .filter(
         (issue) =>
           articles.find((article) => {
-            return article.issue && issue.path === article.issue.slice(7, -3)
+            return (
+              article.issue &&
+              article.published &&
+              issue.path === article.issue.slice(7, -3)
+            )
           })?.slug || null
+      )
+      .sort(
+        (a, b) =>
+          // Turn your strings into dates, and then subtract them
+          // to get a value that is either negative, positive, or zero.
+          new Date(b.date) - new Date(a.date)
       )
       .map((item) => item.slug)
       .filter((item) => item !== null && item !== ''),
   }
-
+  // TODO update with used keys
   // Discipline filters
   filters.discipline = {
     type: 'Autocomplete',
@@ -121,4 +123,5 @@ export default async (content) => {
     }
   }`
   )
+  return filters
 }

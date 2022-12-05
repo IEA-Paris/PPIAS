@@ -9,10 +9,6 @@ authors:
   lastname: Caney
   positions_and_institutions:
   - institution: Oxford University, United Kingdom
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: Oxford University, United Kingdom
 date: 2015-09-25T04:00:00.000+00:00
 highlight: false
 issue: content/issues/justice-climate-transitions.md

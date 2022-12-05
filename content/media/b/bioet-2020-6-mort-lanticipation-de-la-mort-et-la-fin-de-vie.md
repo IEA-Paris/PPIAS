@@ -1,7 +1,7 @@
 ---
 article_slug: BIOET_2020_6_Mort
 caption: L'Anticipation de la Mort et la Fin de Vie
-date: '2020-03-02T17:00:07.000Z'
+date: 2020-03-02T17:00:07.000Z
 highlight: false
 id: JtvVqHNYmHM
 index: 0

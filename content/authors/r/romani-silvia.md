@@ -10,8 +10,6 @@ is_institution: false
 issue:
   - content/issues/identity-from-double-to-avatar.md
 language:
-  - null
-  - null
 lastname: Romani
 positions_and_institutions:
   - institution: Università Statale di Milano, Italy

@@ -21,7 +21,7 @@
   "contact": "Contact",
   "pressroom": "Pressroom",
   "newsletter": "Newsletter",
-  "about": "About us",
+  "about-us": "About us",
   "privacy_policy": "Privacy policy",
   "support": "Support us",
   "follow-us": "Follow us",
@@ -445,11 +445,10 @@
   "copy": "Copy",
   "publication-date": "Publication date",
   "cite-or-export": "Cite or export",
-  "about-0": "About",
   "author_s": "author | author | authors",
   "no-author-found-matching-this-article": "No author found matching this article",
   "this-article-doesnt-contain-any-media": "This article doesn't contain any media",
-  "summary": "Summary",
+  "about": "About",
   "articles-from-this-author": "Articles from this author",
   "author-links": "Author links",
   "see-all-results-articlescount": "See all ({0})",
@@ -492,7 +491,9 @@
   "view-results": "View results",
   "select-a-view": "Select a view",
   "sort-the-type-by": "Sort the {0}...",
-  "this-article-is-available-online-at-env-name-articles-item-slug": "This article is available online at {0}/articles/{1}",
+  "freely-available": "Freely available at",
+  "the-authors": "The authors",
+  "this-article-is-available-online-at-env-name-articles-item-slug": "This article is available online at",
   "this-part-is-still-under-construction": "This part is still under construction.",
   "read-more": "Read more",
   "loading": "Loading",
@@ -521,5 +522,8 @@
     "copyToClipboard": "Copy to reference clipboard"
   },
   "no-bibliography-available-for-this-article": "No bibliography available for this article",
-  "articles-from-this-institution": "Articles from this institution"
+  "articles-from-this-institution": "Articles from this institution",
+  "show-less": "Show less",
+  "show-more": "Show more",
+  "to-cite": "To cite"
 }

@@ -31,9 +31,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_positions:
-  '0':
-    institution: The London School of Economics and Political Science, United Kingdom
 years:
   - 2021
 
