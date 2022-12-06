@@ -3,6 +3,16 @@ abstract: 'Assessing Territorial Resilience: Indicators and Tools for Governance
   Paris IAS, July 15-17 2020 - Session 2'
 article_title: 'Assessing Resilience: Work in Progress'
 authors:
+- firstname: Philippe
+  lastname: Marest
+  positions_and_institutions:
+  - institution: Ville et Métropole de Nantes, France
+  social_channels:
+    linkedin: https://fr.linkedin.com/in/philippe-marest-49702424b?trk=public_profile_samename-profile
+- firstname: Felicien
+  lastname: Pagnon
+  positions_and_institutions:
+  - institution: IDDRI, France
 - firstname: 'Marc  '
   is_institution: false
   lastname: Vuillet
@@ -43,7 +53,7 @@ start: false
 stop: false
 subissue: false
 yt: 3nwanoR7Yws
-language: English
+language: French
 
 ---
 <Youtube yt="3nwanoR7Yws" caption="Évaluer la résilience : les travaux en cours" start="false" stop="false"></Youtube>
