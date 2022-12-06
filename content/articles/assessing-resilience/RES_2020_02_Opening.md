@@ -1,7 +1,7 @@
 ---
 abstract: 'Assessing Territorial Resilience: Indicators and Tools for Governance,
   Paris IAS, July 15-17 2020 - Official opening'
-article_title: Official Opening
+article_title: Ouverture officielle du colloque
 authors:
 - firstname: Saadi
   is_institution: false
@@ -41,7 +41,7 @@ start: false
 stop: false
 subissue: false
 yt: fM0TJubKuNE
-language: English
+language: French
 
 ---
-<Youtube yt="fM0TJubKuNE" caption="Introduction" start="false" stop="false"></Youtube>
+<Youtube yt="fM0TJubKuNE" caption="Ouverture officielle" start="false" stop="false"></Youtube>
