@@ -1,7 +1,7 @@
 ---
 abstract: 'Assessing Territorial Resilience: Indicators and Tools for Governance,
   Paris IAS, July 15-17 2020 -  Session 1 - Round table'
-article_title: 'Baseline assessment and stocktaking - Round table '
+article_title: Diagnostics et états des lieux - Table ronde
 authors:
 - firstname: Kathy
   is_institution: false
