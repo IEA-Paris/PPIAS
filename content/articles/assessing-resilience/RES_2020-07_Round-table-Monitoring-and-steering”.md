@@ -1,6 +1,6 @@
 ---
 abstract: 'Assessing Territorial Resilience: Indicators and Tools for Governance,
-  July 15-17 2020,  Paris IAS - Session 2 - Round table discussion'
+  Paris IAS, July 15-17 2020 - Session 2 - Round table discussion'
 article_title: Monitoring and Steering - Round table
 authors:
 - firstname: David
