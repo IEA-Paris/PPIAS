@@ -1,6 +1,6 @@
 ---
 abstract: 'Assessing Territorial Resilience: Indicators and Tools for Governance,
-  July 15-17 2020,  Paris IAS - Session 2'
+  Paris IAS, July 15-17 2020 - Session 2'
 article_title: Resilience Frameworks and Science Communication to Build Back Better
 authors:
 - firstname: Mark
