@@ -1,6 +1,6 @@
 ---
 abstract: 'Assessing Territorial Resilience: Indicators and Tools for Governance,
-  July 15-17 2020,  Paris IAS -  Session 1'
+  Paris IAS, July 15-17 2020 -  Session 1'
 article_title: New Indicators of Wealth for Resilient Societies
 authors:
 - firstname: Dominique
@@ -28,7 +28,7 @@ authors:
   social_channels:
     linkedin: https://fr.linkedin.com/in/f%C3%A9licien-pagnon-17a303146
     researchgate: https://www.researchgate.net/profile/Felicien-Pagnon-2
-date: 2020-07-15T03:00:00Z
+date: 2020-07-15T03:00:00.000+00:00
 highlight: false
 issue: content/issues/assessing-resilience.md
 needDOI: true
