@@ -39,4 +39,4 @@ yt: Hq5Yhz3Nxz4
 language: English
 
 ---
-<Youtube yt="Hq5Yhz3Nxz4" caption="Why and how we co-created the Resilience AssessmentFramework, a diagnosis tool for cities and strategic sectors" start="false" stop="false"></Youtube>
+<Youtube yt="Hq5Yhz3Nxz4" caption="Le Resilience Assessment Framework, un outil de diagnostic" start="false" stop="false"></Youtube>
