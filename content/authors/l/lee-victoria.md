@@ -14,7 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Ohio University - College of Arts and Sciences
-    titles:
+    positions:
       - Assistant Professor
 reference: ''
 social_channels:

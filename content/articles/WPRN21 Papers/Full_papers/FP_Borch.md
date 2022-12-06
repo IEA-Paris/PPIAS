@@ -33,9 +33,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: UiT The Arctic University Of Norway, Norway
-        titles: []
+        positions: []
   - firstname: 'Sunday Oluwafemi '
     lastname: Oyeyemi
     picture: ''
@@ -51,9 +51,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: UiT, The Arctic University of Norway, Norway
-        titles: []
+        positions: []
   - firstname: 'Sarah'
     lastname: Cook
     picture: ''
@@ -69,11 +69,11 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: Imperial College London, United Kingdom
-        titles: []
+        positions: []
       - institution: London School of Hygiene & Tropical Medicine, United Kingdom
-        titles:
+        positions:
           - ''
   - firstname: 'Katrine Jonna '
     lastname: Diab
@@ -90,9 +90,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: UiT, The Arctic University of Norway, Norway
-        titles: []
+        positions: []
   - firstname: 'Gerit'
     lastname: Pfuhl
     picture: ''
@@ -108,9 +108,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: UiT, The Arctic University of Norway, Norway
-        titles: []
+        positions: []
 bibliography: /documents-exportes_fp3b.bib
 custom_pdf: ''
 date: 2022-05-01T21:18:35.000Z

@@ -23,9 +23,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: Université de Lausanne, Suisse
-        titles: []
+        positions: []
   - firstname: 'Sabine'
     lastname: Boesen Mariani
     picture: ''
@@ -41,9 +41,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: Danone Nutricia Utrecht, Netherlands
-        titles: []
+        positions: []
   - firstname: 'Jeanne'
     lastname: Ropars
     picture: ''
@@ -59,9 +59,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: Laboratoire ESE, Université Paris-Saclay, France
-        titles: []
+        positions: []
   - firstname: 'Geneviève'
     lastname: Teil
     picture: ''
@@ -77,9 +77,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: INRA, France
-        titles: []
+        positions: []
 bibliography: /bibliography/documents-exportes_tb2_lee.bib
 date: 2021-05-27T11:00:08.000Z
 highlight: false

@@ -26,13 +26,13 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: >-
           Baby Early childhood in COntexts scientific interest grouping (BECO),
           France
-        titles: []
+        positions: []
       - institution: EFTS, Toulouse Jean-Jaurès University, France
-        titles: []
+        positions: []
   - firstname: 'Amalia'
     lastname: Martinez
     picture: ''
@@ -48,15 +48,15 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: >-
           Group for research and Analyses in Population health (GAP), IUCT
           Oncopole, France
-        titles: []
+        positions: []
       - institution: >-
           Center of Epidemiology and Research in POPulation health (CERPOP),
           Inserm, Toulouse III Paul Sabatier University, France
-        titles: []
+        positions: []
 bibliography: /bibliography/documents-exportes_rn5.bib
 custom_pdf: ''
 date: 2022-04-13T13:00:47.000Z

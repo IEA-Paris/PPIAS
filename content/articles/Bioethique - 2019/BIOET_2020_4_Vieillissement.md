@@ -23,9 +23,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: EPHE, France
-        titles: []
+        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2020-01-16T17:00:10.000Z

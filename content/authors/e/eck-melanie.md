@@ -12,8 +12,7 @@ language:
 lastname: Eck
 positions_and_institutions:
   - institution: Sciences Po Paris, Algoé Consultants, France
-    positions:
-      - ''
+    positions: []
 years:
   - 2020
 

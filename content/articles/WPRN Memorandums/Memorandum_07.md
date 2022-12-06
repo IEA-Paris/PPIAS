@@ -32,7 +32,7 @@ authors:
     google_scholar: ''
     researchgate: ''
     mendeley: ''
-  titles_and_positions: []
+  positions_and_institutions: []
   picture: ''
   picture_copyright: ''
   reference: ''

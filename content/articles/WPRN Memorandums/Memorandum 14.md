@@ -38,7 +38,7 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions: []
+    positions_and_institutions: []
 bibliography: /bibliography/documents-exportes_memo14.bib
 custom_pdf: ''
 date: 2021-12-31T23:00:31.000Z

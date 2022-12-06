@@ -26,7 +26,7 @@ social_channels:
 positions_and_institutions:
   '0':
     institution: GreenLab, Denmark
-    titles: []
+    positions: []
 years:
   - 2022
 

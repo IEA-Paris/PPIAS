@@ -25,8 +25,8 @@ article_title: 'COVID-19 and Food: Food Security: A Major Concern for Households
 authors:
 - firstname: 'Aurélie '
   lastname: 'Louchart'
-  titles_and_positions:
-  - titles: []
+  positions_and_institutions:
+  - positions: []
     institution: Paris Institute for Advanced Study, France
   picture: ''
   picture_copyright: ''

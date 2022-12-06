@@ -32,7 +32,7 @@ bibliography: ''
 authors:
 - firstname: 'Victor'
   lastname: Galonnier
-  titles_and_positions: []
+  positions_and_institutions: []
   picture: ''
   picture_copyright: ''
   social_channels:

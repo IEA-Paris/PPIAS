@@ -23,9 +23,9 @@ authors:
       twitter: '@MarcStraussKahn'
       website: ''
       wikipedia: https://fr.wikipedia.org/wiki/Marc-Olivier_Strauss-Kahn
-    titles_and_positions:
+    positions_and_institutions:
       - institution: Banque de France, France
-        titles: []
+        positions: []
   - firstname: Éric
     is_institution: false
     lastname: Monnet
@@ -41,9 +41,9 @@ authors:
       twitter: '@MonnetEric'
       website: https://www.ericmonnet.eu/
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: EHESS, France
-        titles: []
+        positions: []
   - firstname: Elizabeth
     is_institution: false
     lastname: Ducottet
@@ -59,9 +59,9 @@ authors:
       twitter: '@EDucottet'
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: groupe Thuasne, France
-        titles: []
+        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2022-04-14T16:00:42.000Z

@@ -14,7 +14,6 @@ language:
 lastname: HCÉRES
 picture: ''
 picture_copyright: ''
-positions_and_institutions: []
 reference: ''
 social_channels:
   google_scholar: ''
@@ -27,7 +26,7 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_positions: []
+positions_and_institutions: []
 years:
   - 2022
 

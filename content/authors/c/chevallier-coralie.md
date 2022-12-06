@@ -28,9 +28,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_positions:
-  - institution: École normale supérieure – PSL, France
-
 years:
   - 2022
 

@@ -49,7 +49,7 @@ jobs:
             for i; do gh api --method POST -H "Accept: application/vnd.github+json" "/repos/IEA-Paris/PPIAS/actions/runs/$i/cancel"; done
           fi
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: 🏗 Setup node env
         uses: actions/setup-node@v3

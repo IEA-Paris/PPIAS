@@ -28,7 +28,7 @@ authors:
       wikipedia: ''
     positions_and_institutions:
       - institution: GreenLab, Denmark
-        titles: []
+        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2022-09-19T16:00:13.000Z

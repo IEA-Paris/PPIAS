@@ -35,9 +35,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: University of Rhode Island, USA
-        titles: []
+        positions: []
   - firstname: 'Gerit'
     lastname: Pfuhl
     picture: ''
@@ -53,9 +53,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: UiT, The Arctic University of Norway, Norway
-        titles: []
+        positions: []
   - firstname: 'Stephanie'
     lastname: Godleski
     picture: ''
@@ -71,9 +71,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: Rochester Institute of Technology, USA
-        titles: []
+        positions: []
   - firstname: 'David'
     lastname: Schieferdecker
     picture: ''
@@ -89,9 +89,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: Free University Berlin, Germany
-        titles: []
+        positions: []
 bibliography: /documents-exportes_fp2bis.bib
 custom_pdf: ''
 date: 2022-05-01T16:10:47.000Z

@@ -29,9 +29,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: Temple University, Japan
-        titles: []
+        positions: []
 bibliography: /documents-exportes_fp1.bib
 custom_pdf: ''
 date: 2022-04-25T14:22:51.000Z

@@ -25,9 +25,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: Bora Laskin Faculty of Law, Lakehead University
-        titles: []
+        positions: []
 bibliography: /bibliography/documents-exportes_rn1bib.bib
 custom_pdf: ''
 date: 2022-03-24T15:10:20.000Z

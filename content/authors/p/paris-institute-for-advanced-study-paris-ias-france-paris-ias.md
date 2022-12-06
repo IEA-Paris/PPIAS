@@ -14,7 +14,6 @@ language:
 lastname: Paris Institute for Advanced Study (Paris IAS), France
 picture: ''
 picture_copyright: ''
-positions_and_institutions: []
 social_channels:
   google_scholar: ''
   instagram: ''
@@ -25,7 +24,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_positions: []
+positions_and_institutions: []
 years:
   - 2021
 

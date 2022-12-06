@@ -37,9 +37,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: University of Cagliari, Italy
-        titles: []
+        positions: []
   - firstname: 'Pietro'
     lastname: Salis
     picture: ''
@@ -55,9 +55,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: University of Cagliari, Italy
-        titles: []
+        positions: []
   - firstname: 'Rachele'
     lastname: Fanari
     picture: ''
@@ -73,9 +73,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: University of Cagliari, Italy
-        titles: []
+        positions: []
 bibliography: /bibliography/documents-exportes_rn4.bib
 custom_pdf: ''
 date: 2022-04-12T22:00:34.000Z

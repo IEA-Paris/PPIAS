@@ -20,9 +20,6 @@ social_channels:
   google_scholar: https://scholar.google.com/citations?user=8wmO6l0AAAAJ&hl=en
   researchgate: https://www.researchgate.net/profile/Ken-Paller
   twitter: kap101
-titles_and_institutions:
-  '0':
-    institution: Northwestern University, USA
 years:
   - 2016
 

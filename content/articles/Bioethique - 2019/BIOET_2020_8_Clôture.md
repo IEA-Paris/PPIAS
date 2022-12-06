@@ -12,8 +12,8 @@ article_title: 'Conférence de Clôture : À propos de la Révision des Lois de 
 authors:
 - firstname: 'Frédéric'
   lastname: Worms
-  titles_and_positions:
-  - titles: []
+  positions_and_institutions:
+  - positions: []
     institution: ENS, France
   social_channels:
     wikipedia: https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Worms

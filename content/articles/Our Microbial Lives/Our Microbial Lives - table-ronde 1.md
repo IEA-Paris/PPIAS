@@ -21,9 +21,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: INRAE, France
-        titles: []
+        positions: []
   - firstname: 'Anne'
     lastname: Pitkowski
     picture: ''
@@ -39,9 +39,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: Fromageries BEL, France
-        titles: []
+        positions: []
   - firstname: Élise
     lastname: Tancoigne
     picture: ''
@@ -57,9 +57,9 @@ authors:
       twitter: ''
       website: https://www.etancoigne.fr/
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: 'Université de Lausanne, Switzerland '
-        titles: []
+        positions: []
   - firstname: 'Marc-André'
     lastname: Selosse
     picture: ''
@@ -75,11 +75,11 @@ authors:
       twitter: ''
       website: ''
       wikipedia: https://fr.wikipedia.org/wiki/Marc-Andr%C3%A9_Selosse
-    titles_and_positions:
+    positions_and_institutions:
       - institution: >-
           Institut de Systématique, Évolution, Biodiversité, Muséum national
           d'Histoire naturelle, France
-        titles: []
+        positions: []
 bibliography: /bibliography/documents-exportes_tb1_lee.bib
 date: 2021-05-27T08:00:16.000Z
 highlight: false

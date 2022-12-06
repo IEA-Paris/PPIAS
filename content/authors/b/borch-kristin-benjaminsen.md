@@ -27,9 +27,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_positions:
-  - institution: UiT The Arctic University Of Norway, Norway
-
 years:
   - 2022
 

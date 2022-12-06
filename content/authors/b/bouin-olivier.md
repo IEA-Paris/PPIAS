@@ -33,11 +33,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_positions:
-  - institution: RFIEA-NETIAS, France
-
-  - institution: RFIEA Foundation, France
-
 years:
   - 2022
   - 2021

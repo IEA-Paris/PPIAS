@@ -41,11 +41,11 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: >-
           Centre of Research Excellence: Indigenous Sovereignty & Smoking,
           Auckland, New Zealand
-        titles: []
+        positions: []
   - firstname: 'Alexander'
     lastname: Merkin
     picture: ''
@@ -61,11 +61,11 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: >-
           Centre for Precise Psychiatry and Neurosciences, Germany/Switzerland;
           Academy for Postgraduate Education, Moscow, Russia
-        titles: []
+        positions: []
   - firstname: 'Sofya'
     lastname: Akinfieva
     picture: ''
@@ -81,11 +81,11 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: >-
           National Centre for Development of Social Support & Rehabilitation,
           Moscow, Russia
-        titles: []
+        positions: []
 bibliography: /documents-exportes_fp4b.bib
 custom_pdf: ''
 date: 2022-05-29T21:49:20.000Z

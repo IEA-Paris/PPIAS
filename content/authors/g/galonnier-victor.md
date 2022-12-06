@@ -90,7 +90,6 @@ tags:
   - outcomes
   - personal development
   - outdoor recreation
-titles_and_positions: []
 years:
   - 2020
   - 2021

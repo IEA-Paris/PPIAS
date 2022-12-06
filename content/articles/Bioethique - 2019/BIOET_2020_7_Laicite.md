@@ -22,9 +22,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: https://fr.wikipedia.org/wiki/Philippe_Portier
-    titles_and_positions:
+    positions_and_institutions:
       - institution: EPHE, France
-        titles: []
+        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2020-05-05T16:00:48.000Z

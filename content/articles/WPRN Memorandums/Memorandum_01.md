@@ -8,11 +8,11 @@ article_title: Concern for Others is a Better Argument to Foster Social Distanci
 authors:
   - firstname: Simon
     lastname: Luck
-    titles_and_positions:
+    positions_and_institutions:
       - institution: Paris Institute for Advanced Study
   - firstname: Saadi
     lastname: Lahlou
-    titles_and_positions:
+    positions_and_institutions:
       - institution: Paris Institute for Advanced Study
 bibliography: /bibliography/documents-exportes_memo1.bib
 date: 2020-04-30T22:00:00.000Z

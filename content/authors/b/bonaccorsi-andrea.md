@@ -29,11 +29,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_positions:
-  - institution: Scientific Committee of COST
-
-  - institution: University of Pisa, Italy
-
 years:
   - 2022
 

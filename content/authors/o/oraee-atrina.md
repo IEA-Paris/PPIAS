@@ -15,13 +15,13 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: international laboratory for Brain, Music, and Sound research (BRAMS)
-    titles:
+    positions:
       - co-founder
   - institution: McGill University
-    titles:
+    positions:
       - Warrior
   - institution: IAS PARIS
-    titles:
+    positions:
       - writer
 reference: ''
 social_channels:

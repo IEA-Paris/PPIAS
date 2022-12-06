@@ -34,9 +34,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: University of Bari “Aldo Moro”, Italy
-        titles: []
+        positions: []
 bibliography: /bibliography/documents-exportes_rn3.bib
 custom_pdf: ''
 date: 2022-04-13T08:00:49.000Z

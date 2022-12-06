@@ -25,9 +25,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: CNRS / Université Paris Descartes / EHESS / INSERM, France
-        titles: []
+        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2020-02-04T17:00:29.000Z

@@ -31,10 +31,10 @@ authors:
       researchgate: ''
       mendeley: ''
     positions_and_institutions:
-      - titles:
+      - positions:
           - co-founder
         institution: international laboratory for Brain, Music, and Sound research (BRAMS)
-      - titles:
+      - positions:
           - writer
         institution: IAS PARIS
     reference: ''

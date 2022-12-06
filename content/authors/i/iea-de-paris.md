@@ -27,7 +27,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-titles_and_positions: []
 years:
   - 2022
 

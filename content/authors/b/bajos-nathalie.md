@@ -31,9 +31,9 @@ social_channels:
   wikipedia: ''
 positions_and_institutions:
   - institution: INSERM, France
-    titles: []
+    positions: []
   - institution: EHESS, France
-    titles: []
+    positions: []
 years:
   - 2021
 

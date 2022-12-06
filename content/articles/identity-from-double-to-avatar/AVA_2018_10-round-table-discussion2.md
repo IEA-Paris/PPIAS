@@ -12,7 +12,7 @@ authors:
 - firstname: 'Elise '
   lastname: Harris
   titles_and_institutions:
-  - titles: []
+  - positions: []
     institution: Université Paris Diderot, France
   is_institution: false
   picture: ''
@@ -30,7 +30,7 @@ authors:
 - firstname: 'Barbara  '
   lastname: Grespi
   titles_and_institutions:
-  - titles: []
+  - positions: []
     institution: Università di Bergamo, Italy
   is_institution: false
   picture: ''
@@ -48,7 +48,7 @@ authors:
 - firstname: 'Sara '
   lastname: 'Guindani '
   titles_and_institutions:
-  - titles: []
+  - positions: []
     institution: FMSH-Collège d’études mondiales, France
   is_institution: false
   picture: ''
@@ -66,7 +66,7 @@ authors:
 - firstname: 'Mel '
   lastname: 'Slater '
   titles_and_institutions:
-  - titles: []
+  - positions: []
     institution: University of Barcelona, Spain
   is_institution: false
   picture: ''

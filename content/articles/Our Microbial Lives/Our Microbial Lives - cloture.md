@@ -21,11 +21,11 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: École normale supérieure, France
-        titles: []
+        positions: []
       - institution: Université Pierre-et-Marie-Curie, France
-        titles: []
+        positions: []
 bibliography: /bibliography/documents-exportes_cloture_lee.bib
 date: 2021-05-27T14:40:37.000Z
 highlight: false

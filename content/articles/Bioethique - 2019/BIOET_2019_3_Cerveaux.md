@@ -23,9 +23,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: CNRS - UMR 8246 - Neurosciences, France
-        titles: []
+        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2019-12-04T17:00:26.000Z

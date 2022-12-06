@@ -33,11 +33,11 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: >-
           Graduate School of Humanities and Social Sciences, University of
           Tsukuba, Japan
-        titles: []
+        positions: []
   - firstname: Muneo
     lastname: Kaigo
     picture: ''
@@ -53,11 +53,11 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: >-
           Faculty of Humanities and Social Sciences, University of Tsukuba,
           Japan
-        titles: []
+        positions: []
 bibliography: /bibliography/documents-exportes_rn2.bib
 custom_pdf: ''
 date: 2022-04-11T13:53:04.000Z

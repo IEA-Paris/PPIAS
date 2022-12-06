@@ -23,9 +23,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: Institut des sciences humaines et sociales CNRS, France
-        titles: []
+        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2020-03-02T17:00:07.000Z

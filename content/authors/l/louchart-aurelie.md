@@ -28,7 +28,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_positions: []
 years:
   - 2021
   - 2022

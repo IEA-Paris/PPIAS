@@ -23,9 +23,9 @@ authors:
       twitter: '@fjephe'
       website: ''
       wikipedia: ''
-    titles_and_positions:
+    positions_and_institutions:
       - institution: EPHE-PSL, France
-        titles: []
+        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2019-10-17T16:00:36.000Z
