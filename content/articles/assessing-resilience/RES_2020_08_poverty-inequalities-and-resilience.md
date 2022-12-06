@@ -1,8 +1,8 @@
 ---
 abstract: 'Assessing Territorial Resilience: Indicators and Tools for Governance,
   Paris IAS, July 15-17 2020 - Session 2'
-article_title: 'Poverty, inequalities and resilience: reflections on the World Bank’s
-  indicators'
+article_title: 'Pauvreté, inégalités et résilience : réflexions sur les indicateurs
+  de la Banque Mondiale'
 authors:
 - firstname: Stéphane
   is_institution: false
@@ -37,7 +37,7 @@ start: false
 stop: false
 subissue: false
 yt: 5NtO_sIzk4E
-language: English
+language: French
 
 ---
 <Youtube yt="5NtO_sIzk4E" caption="Pauvreté, inégalités et résilience : réflexions sur les indicateurs de la Banque Mondiale" start="false" stop="false"></Youtube>
