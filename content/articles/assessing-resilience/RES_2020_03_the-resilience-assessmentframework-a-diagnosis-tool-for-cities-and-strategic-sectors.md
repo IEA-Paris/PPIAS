@@ -1,6 +1,6 @@
 ---
 abstract: 'Assessing Territorial Resilience: Indicators and Tools for Governance,
-  July 15-17 2020,  Paris IAS - Session 1'
+  Paris IAS, July 15-17 2020 - Session 1'
 article_title: The Resilience Assessment Framework, a Diagnosis Tool for Cities and
   Strategic Sectors
 authors:
@@ -27,7 +27,7 @@ authors:
   - institution: City of Lisbon, Portugal
   social_channels:
     researchgate: https://www.researchgate.net/profile/Maria-Telhado
-date: 2020-07-15T01:00:00Z
+date: 2020-07-15T01:00:00.000+00:00
 highlight: false
 issue: content/issues/assessing-resilience.md
 needDOI: true
