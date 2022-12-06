@@ -30,6 +30,7 @@
     "d3-scale": "^4.0.2",
     "defu": "^6.1.1",
     "lite-youtube-embed": "^0.2.0",
+    "mathjax-full": "^3.2.2",
     "nuxt": "^2.15.7",
     "puppeteer": "^19.1.0",
     "request": "^2.88.2",
