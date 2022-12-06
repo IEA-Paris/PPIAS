@@ -1,13 +1,14 @@
 ---
 abstract: 'Assessing Territorial Resilience: Indicators and Tools for Governance,
   Paris IAS, July 15-17 2020 -  Session 1'
-article_title: New Indicators of Wealth for Resilient Societies
+article_title: De nouveaux indicateurs de richesse au service de la résilience de
+  la société
 authors:
 - firstname: Dominique
   is_institution: false
   lastname: Méda
   positions_and_institutions:
-  - institution: Université Paris Dauphine
+  - institution: Université Paris Dauphine, France
     positions:
     - ''
   titles_and_institutions:
@@ -37,7 +38,7 @@ start: false
 stop: false
 subissue: false
 yt: 03nbOE0Sf2s
-language: English
+language: French
 
 ---
 <Youtube yt="03nbOE0Sf2s" caption="De nouveaux indicateurs de richesse au service de la résilience de la société" start="false" stop="false"></Youtube>
