@@ -2,7 +2,7 @@
 needDOI: true
 issue: content/issues/assessing-resilience.md
 keywords: []
-date: 2020-07-14T23:00:11Z
+date: 2020-07-14T23:00:11.000+00:00
 language: English
 disciplines: ''
 published: true
@@ -26,6 +26,7 @@ authors:
     google_scholar: ''
     researchgate: ''
     mendeley: ''
+  positions_and_institutions: []
 - lastname: École des Ingénieurs de la Ville de Paris (EIVP), France
   is_institution: false
   firstname: ''
@@ -42,9 +43,10 @@ authors:
     google_scholar: ''
     researchgate: ''
     mendeley: ''
+  positions_and_institutions: []
 custom_pdf: ''
 abstract: 'Assessing Territorial Resilience: Indicators and Tools for Governance,
-  July 15-17 2020,  Paris IAS - Program'
+  Paris IAS ,July 15-17 2020 - Program'
 sub-issue: ''
 picture: ''
 picture_copyright: ''
