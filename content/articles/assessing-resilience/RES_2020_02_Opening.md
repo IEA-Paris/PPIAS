@@ -1,6 +1,6 @@
 ---
 abstract: 'Assessing Territorial Resilience: Indicators and Tools for Governance,
-  July 15-17 2020,  Paris IAS -  Official opening'
+  Paris IAS, July 15-17 2020 - Official opening'
 article_title: Official Opening
 authors:
 - firstname: Saadi
@@ -32,7 +32,7 @@ authors:
     - ''
   titles_and_institutions:
   - institution: City of Paris, France
-date: 2020-07-15T00:00:00Z
+date: 2020-07-15T00:00:00.000+00:00
 highlight: false
 issue: content/issues/assessing-resilience.md
 needDOI: false
