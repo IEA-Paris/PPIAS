@@ -7,7 +7,7 @@ authors:
   is_institution: false
   lastname: Pelling
   positions_and_institutions:
-  - institution: King's College London
+  - institution: King's College London, United Kingdom
     positions:
     - ''
   titles_and_institutions:
