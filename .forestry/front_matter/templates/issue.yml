@@ -44,15 +44,14 @@ fields:
     max: 
     labelField: 
   label: Sub-issues
-- name: short_name
+- name: title
   type: text
   config:
     required: true
     min: 2
     max: 32
-  label: Issue shortname
-  description: Used in the issue dropdown as well as in the issue pill in the article
-    display
+  label: Issue short name
+  description: Used in the issues filter and in the article component
 pages:
 - content/issues/Agir en temps de crise.md
 - content/issues/Conferences.md
