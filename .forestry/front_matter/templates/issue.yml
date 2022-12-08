@@ -44,12 +44,12 @@ fields:
     max: 
     labelField: 
   label: Sub-issues
-- name: issue_shortname
+- name: short_name
   type: text
   config:
     required: true
     min: 2
-    max: 25
+    max: 32
   label: Issue shortname
   description: Used in the issue dropdown as well as in the issue pill in the article
     display
