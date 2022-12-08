@@ -44,6 +44,15 @@ fields:
     max: 
     labelField: 
   label: Sub-issues
+- name: issue_shortname
+  type: text
+  config:
+    required: true
+    min: 2
+    max: 25
+  label: Issue shortname
+  description: Used in the issue dropdown as well as in the issue pill in the article
+    display
 pages:
 - content/issues/Agir en temps de crise.md
 - content/issues/Conferences.md
