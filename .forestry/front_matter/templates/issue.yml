@@ -44,6 +44,14 @@ fields:
     max: 
     labelField: 
   label: Sub-issues
+- name: title
+  type: text
+  config:
+    required: true
+    min: 2
+    max: 32
+  label: Issue short name
+  description: Used in the issues filter and in the article component
 pages:
 - content/issues/Agir en temps de crise.md
 - content/issues/Conferences.md

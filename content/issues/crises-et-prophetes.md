@@ -3,8 +3,9 @@ date: 2020-12-10T00:00:00.000+00:00
 name_of_the_issue: 'Crises et Nouveaux Prophetes: Intuitions, Prevision, Reforme'
 title: 'Crises et Nouveaux Prophetes'
 subtitle: ''
-cover: "/colloque-penet-_-10-11-dec-2020-_-affiche-bleue.pdf"
+cover: "/visuel-nl-colloque-pierre2020.png"
 sub-issues: []
+title: Crises et nouveaux prophètes
 
 ---
 La parole prophétique semble durablement installée dans l’espace public. Elle alimente désormais bon nombre de débats politiques et scientifiques dans le secteur économique comme dans le domaine environnemental et sanitaire. Les personnalités revendiquant le qualificatif de prophète (ou désignées comme tel par des tiers) multiplient les déclarations publiques à tonalité alarmiste en insistant sur l’insoutenabilité des pratiques en vigueur. Leur parole s’organise autour de l’annonce d’une crise imminente qui va surprendre le monde. La grande vitalité des thèmes prophétiques exerce sur la société une fascination puissante, suscitant pêle-mêle la curiosité, l’incompréhension ou la défiance. 
