@@ -90,7 +90,6 @@ export default (article, media, authors, issues, options) => {
       },
     ],
   }
-  console.log('docData: ', docData)
 
   article.toCite = styles
     .map((style) => {

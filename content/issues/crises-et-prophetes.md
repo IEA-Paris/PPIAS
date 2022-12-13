@@ -1,7 +1,6 @@
 ---
 date: 2020-12-10T00:00:00.000+00:00
 name_of_the_issue: 'Crises et Nouveaux Prophetes: Intuitions, Prevision, Reforme'
-title: 'Crises et Nouveaux Prophetes'
 subtitle: ''
 cover: "/visuel-nl-colloque-pierre2020.png"
 sub-issues: []
