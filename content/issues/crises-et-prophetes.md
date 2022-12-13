@@ -1,6 +1,7 @@
 ---
 date: 2020-12-10T00:00:00.000+00:00
 name_of_the_issue: 'Crises et Nouveaux Prophetes: Intuitions, Prevision, Reforme'
+title: 'Crises et Nouveaux Prophetes'
 subtitle: ''
 cover: "/colloque-penet-_-10-11-dec-2020-_-affiche-bleue.pdf"
 sub-issues: []

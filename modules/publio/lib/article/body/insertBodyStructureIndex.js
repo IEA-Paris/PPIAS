@@ -11,6 +11,7 @@ export default (node, article, media, authors, issues, options) => {
             isHeading: ['h2', 'h3'].includes(node.tag),
             isMedia: ['youtube'].includes(node.tag),
             isImage: ['img'].includes(node.tag),
+            isMath: ['math-jax'].includes(node.tag),
             props: { class: 'node d-flex' },
             children: [
               {

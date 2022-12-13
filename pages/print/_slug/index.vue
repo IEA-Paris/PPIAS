@@ -225,7 +225,8 @@ export default {
     )[0]
 
     const issueNumber = filtersRaw.articles.filters.issue.items.findIndex(
-      (filteredIssue) => filteredIssue.toLowerCase() === nameIssue.toLowerCase()
+      (filteredIssue) =>
+        filteredIssue.value.toLowerCase() === nameIssue.toLowerCase()
     )
 
     return {

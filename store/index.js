@@ -199,7 +199,7 @@ export const actions = {
       ...filtersRaw[type],
     }
     const queryFilters = {}
-    pipeline.$or = []
+    pipeline.$and = []
     const filters = rootState[type].filters
 
     Object.keys(filters).forEach((filter) => {
@@ -251,10 +251,10 @@ export const actions = {
         }
       }
     })
-    if (!pipeline.$or.length) {
-      delete pipeline.$or
+    if (!pipeline.$and.length) {
+      delete pipeline.$and
     } else {
-      pipeline.$or = pipeline.$or.flat()
+      pipeline.$and = pipeline.$and.flat()
     }
 
     const count = await this.$content(type, { deep: true })

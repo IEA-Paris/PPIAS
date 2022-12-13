@@ -2,13 +2,7 @@ import Citation from 'citation-js'
 const fs = require('fs')
 // TODO add more output plugins
 export default (article, media, authors, issues, options) => {
-  if (article.bibliography?.length) {
-    const bibliography = fs.readFileSync(
-      './static/' + article.bibliography,
-      'utf8'
-    )
-
-    /*    
+  /*    
 Possible data formats for citation.js input: 
     - DOIs, lists of DOIs, a file with DOIs, or a doi.org URL
    - Wikidata IDs, lists of IDs, a file with IDs, a Wikidata API URL, Wikidata JSON response
@@ -31,9 +25,8 @@ CFF https://citation-file-format.github.io/ https://developers.zenodo.org/#depos
 Wikipedia Vitation Style 1 templates https://en.wikipedia.org/wiki/Template:Citation_Style_articleation/cs1
 */
 
-    const cites = new Citation(bibliography)
-    // TODO generate da thing
-    // https://www.youtube.com/watch?v=btPJPFnesV4
-  }
+  const cites = new Citation(article.bibliography)
+  // TODO generate da thing
+  // https://www.youtube.com/watch?v=btPJPFnesV4
   return [article, media, authors, issues, options]
 }

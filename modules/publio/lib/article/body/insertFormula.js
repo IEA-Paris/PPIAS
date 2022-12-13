@@ -8,10 +8,7 @@ const { AssistiveMmlHandler } = require('mathjax-full/js/a11y/assistive-mml.js')
 const { AllPackages } = require('mathjax-full/js/input/tex/AllPackages.js')
 
 export default (node, article, media, authors, issues, options) => {
-  console.log('node.tag: ', node.props)
-  if (node.tag.toLowerCase().startsWith('math')) console.log('FOUND!', node.tag)
-
-  if (node.tag === 'math-jax') {
+  if (node.isMath) {
     const adaptor = liteAdaptor()
     const handler = RegisterHTMLHandler(adaptor)
 

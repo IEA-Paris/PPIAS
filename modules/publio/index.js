@@ -25,6 +25,8 @@ import generatePDF from './lib/article/files/generatePDF'
 import upsertOnZenodo from './lib/article/upsertOnZenodo'
 import generateFiles from './lib/article/files'
 import { insertDocuments } from './utils/contentUtilities'
+import insertRelationalData from './lib/article/insertRelationalData'
+
 const chalk = require('chalk')
 const defaults = require('./module.defaults')
 export default async function (moduleOptions) {
@@ -60,6 +62,7 @@ export default async function (moduleOptions) {
     .filter((str) => str)
     .map((str) => str.slice(7))
   if (changedFiles?.length) console.log('changedFiles: ', changedFiles)
+
   const zenodoQueue = new PQueue()
 
   const extendGeneration = async () => {
@@ -69,7 +72,18 @@ export default async function (moduleOptions) {
 
     // Create filters
     filters = makeFiltersData(articles, issues)
-
+    console.log('issues: ', issues && issues.length)
+    ;[articles, media, authors, issues, options] = insertRelationalData(
+      // main item
+      articles,
+      // to be used in the transformers or later
+      media,
+      authors,
+      issues,
+      options,
+      // METADATA/FRONTMATTER
+      [generateBibliographyFilesForExport, insertCitationElements]
+    )
     // we only update articles that have been edited
     let editedArticles = articles.filter(
       (article) =>
@@ -146,7 +160,7 @@ export default async function (moduleOptions) {
     console.log('process.server: ')
     // For dev mode only, we start the PDF rendering process to allow debug and preview.
     if (process.env.NODE_ENV !== 'production') {
-      console.log('"BUILD:compiled"')
+      console.log('"BUILD:done"')
       routesToPrint = makePrintRoutes(articles)
       await generateFilesToPrint()
     }
@@ -154,6 +168,7 @@ export default async function (moduleOptions) {
 
   nuxt.hook('content:ready', async (content) => {
     issues = await content('issues', { deep: true })
+      .sortBy('date', 'desc')
       // .only(['slug']) //TODO complete with only required fields
       .fetch()
     console.log('"CONTENT:READY" HOOK')
@@ -171,12 +186,7 @@ export default async function (moduleOptions) {
         issues,
         options,
         // METADATA/FRONTMATTER
-        [
-          generateBibliographyFilesForExport,
-          insertBibliography,
-          insertAuthorData,
-          insertCitationElements,
-        ],
+        [insertBibliography, insertAuthorData],
         // BODY TRANSFORMERS
         // Formatting fixes
         [

@@ -28,12 +28,12 @@ export default (articles, issues) => {
   filters.language = {
     type: 'Select',
     items: [...new Set(articles.map((article) => article.language))]
-      .filter((item) => item !== null && item !== '')
+      .filter((item) => item)
       .sort((a, b) => a - b),
   }
   // issue filters (pruned, sorted by date desc)
   filters.issue = {
-    type: 'Select',
+    type: 'Autocomplete',
     items: issues
       .filter(
         (issue) =>
@@ -51,8 +51,10 @@ export default (articles, issues) => {
           // to get a value that is either negative, positive, or zero.
           new Date(b.date) - new Date(a.date)
       )
-      .map((item) => item.slug)
-      .filter((item) => item !== null && item !== ''),
+      .map((item) => {
+        return { text: item.title, value: item.slug }
+      })
+      .filter((item) => item),
   }
   // TODO update with used keys
   // Discipline filters

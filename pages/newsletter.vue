@@ -2,7 +2,7 @@
   <PageContainer no-resize>
     <PageTitle :text="$t('newsletter')" />
     <v-row justify="center">
-      <v-col cols="12" md="8" lg="6" xl="5">
+      <v-col>
         <!--  <nuxt-content :document="page" /> -->
       </v-col>
     </v-row>

@@ -170,18 +170,25 @@
           </div>
         </template>
         <!-- TODO update for equivalent after removing datatable -->
-        <template v-if="items.length === 0" &&!$store.state.loading>
-          <template v-if="!filtersCount">
-            <div class="my-6 ml-6" width="100%">
-              {{ $t('no-result-found') }}
-            </div>
-          </template>
-          <template v-else>
-            <div
-              width="100%"
-              :class="{ 'ml-6': !$store.state.scrolled }"
-              class="my-6"
-            >
+        <v-container
+          class="transition-swing mb-12"
+          :fluid="!$store.state.scrolled"
+          :class="{
+            'py-0': !$store.state.scrolled,
+            'mt-6': $store.state.loading,
+          }"
+        >
+          <v-row
+            v-if="items.length === 0"
+            class="transition-swing mx-0"
+            :no-gutters="!$store.state.scrolled"
+          >
+            <template v-if="!filtersCount">
+              <div class="my-6 ml-6">
+                {{ $t('no-result-found') }}
+              </div>
+            </template>
+            <div v-else class="my-6 ml-12">
               {{ $t('no-result-matching-your-filters') }}
               <br />
               <v-btn
@@ -193,8 +200,8 @@
                 {{ $t('reset-filters') }}
               </v-btn>
             </div>
-          </template>
-        </template>
+          </v-row></v-container
+        >
       </v-col>
       <v-col
         v-if="$vuetify.breakpoint.smAndUp && filter"
@@ -219,7 +226,7 @@
         $vuetify.breakpoint.smAndDown
           ? 'flex-column-reverse align-center'
           : 'justify-space-between',
-        { unpadded: filter },
+        { unpadded: !filter },
       ]"
     >
       <div

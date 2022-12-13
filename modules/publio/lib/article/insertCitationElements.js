@@ -1,11 +1,18 @@
 import Citation from 'citation-js'
 const fs = require('fs')
 
-// TODO add more output plugins
 export default (article, media, authors, issues, options) => {
-  const styles = ['apa', 'vanvouver', 'harvard1']
+  // TODO add more output plugins
+  const styles = ['apa', 'vanvouver', 'harvard1'] // TODO import from config
+  // TODO fix the issue with numbered lists in hardvard1 & co
   const date = new Date(article.createdAt).toLocaleDateString('EN', {
     timezone: 'UTC',
+  })
+  const issue = issues.find((issue, index) => {
+    if (issue.slug === article.issue.slice(15, -3)) {
+      article.issueIndex = index + 1
+      return true
+    } else return false
   })
 
   // make a json like object
@@ -17,8 +24,10 @@ export default (article, media, authors, issues, options) => {
     // TODO conference_url: TO BE COMPLETED
     language: article.language || 'en',
     journal: {
-      name: 'Proceedings of the Paris Institute for Advanced Study',
-      issue: article.issueIndex,
+      name: 'Proceedings of the Paris Institute for Advanced Study', // TODO load from config
+      acronym: 'PPIAS', // TODO load from config
+      ...(issue && { issue: issue.name_of_the_issue }),
+      ...(article.place && { place: article.place }),
       volume: article.issueIndex,
       identifier: [
         ...(options.config.identifier.ISSN
@@ -81,6 +90,7 @@ export default (article, media, authors, issues, options) => {
       },
     ],
   }
+  console.log('docData: ', docData)
 
   article.toCite = styles
     .map((style) => {

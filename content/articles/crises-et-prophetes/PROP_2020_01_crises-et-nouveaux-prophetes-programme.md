@@ -4,7 +4,11 @@ abstract: Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris 
 article_title: Crises et Nouveaux Prophètes. Intuition, Prévision, Réforme - Programme
 authors:
 - lastname: Institut d'études avancées de Paris, France
+ firstname: ''
+  is_institution: true
 - lastname: Université Paris-Saclay, France
+  firstname: ''
+  is_institution: true
 date: 2020-12-10T00:00:00.000+00:00
 highlight: false
 issue: content/issues/crises-et-prophetes.md

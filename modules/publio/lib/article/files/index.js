@@ -63,7 +63,6 @@ export default async (routesToPrint, fn, url = 'http://127.0.0.1:3000') => {
         await fn[category](route, url, meta)
       }
     }
-    server.close()
     return true
   } catch (error) {
     console.log('error during file generation: ', error)

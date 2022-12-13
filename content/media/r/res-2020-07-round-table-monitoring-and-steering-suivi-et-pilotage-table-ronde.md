@@ -1,6 +1,6 @@
 ---
 article_slug: RES_2020-07_Round-table-Monitoring-and-steering
-caption: Monitoring and Steering - Round table
+caption: Suivi et pilotage - Table ronde
 date: 2020-07-16T00:00:00.000Z
 highlight: false
 id: 6T3rivzMYwo

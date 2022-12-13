@@ -77,7 +77,7 @@ During each edition of Intercontinental Academia, participants get together in t
 
 Previous editions of ICA have focused on "Time", "Human Dignity" and "Laws: Rigidity and Dynamics".
 
-<MathJax/>$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</MathJax>
+<math-jax/>$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</MathJax>
 
 The 4th edition of the ICA explores the complementarities between artificial intelligence and neuro/cognitive-science and the tremendous challenges and opportunities they raise for humanity. Fellows and mentors initially met online and in cyberspace, and now in presence in Paris, from October 18 to 27. They shall meet again in cyberspace in the next few months and then finally, in Belo Horizonte in Brazil next June.
 
