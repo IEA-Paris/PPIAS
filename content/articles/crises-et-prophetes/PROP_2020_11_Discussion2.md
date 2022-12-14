@@ -122,7 +122,7 @@ abstract: 'Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris
 sub-issue: ''
 picture: ''
 picture_copyright: ''
-yt: ''
+yt: 6lphVlaalnA
 highlight: false
 bibliography: ''
 
