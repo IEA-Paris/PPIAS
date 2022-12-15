@@ -124,7 +124,7 @@ picture: ''
 picture_copyright: ''
 yt: 6lphVlaalnA
 highlight: false
-bibliography: ''
+bibliography: "/documents-exportes_prop11.bib"
 
 ---
 <Youtube yt="6lphVlaalnA" caption="Discussion" start="5781" stop="8329"></Youtube>
