@@ -26,6 +26,7 @@ stop: '2225'
 subissue: false
 yt: xl_UjjtNv9Q
 language: English
+bibliography: "/documents-exportes_prop13.bib"
 
 ---
 <Youtube yt="xl_UjjtNv9Q" caption="Ouvrir et fermer les futurs. Le pragmatisme sociologique et la critique de la prophétie" start="71" stop="2225"></Youtube>
