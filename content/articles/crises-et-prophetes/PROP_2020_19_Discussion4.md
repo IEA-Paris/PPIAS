@@ -92,7 +92,7 @@ picture: ''
 picture_copyright: ''
 yt: tPyydyd_N6U
 highlight: false
-bibliography: ''
+bibliography: "/documents-exportes_prop19.bib"
 
 ---
 <Youtube yt="tPyydyd_N6U" caption="Discussion" start="5489" stop="6840"></Youtube>
