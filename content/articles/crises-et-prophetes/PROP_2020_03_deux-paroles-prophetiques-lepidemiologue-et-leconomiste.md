@@ -23,6 +23,7 @@ stop: '2030'
 subissue: false
 yt: 6lphVlaalnA
 language: English
+bibliography: "/documents-exportes_prop03.bib"
 
 ---
 ### Session 1 -  Parole et Imaginaire Prophétiques
