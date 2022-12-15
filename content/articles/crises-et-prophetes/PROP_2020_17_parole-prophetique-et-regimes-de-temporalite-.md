@@ -22,7 +22,7 @@ stop: '3583'
 subissue: false
 yt: tPyydyd_N6U
 language: English
-bibliography: "/documents-exportes_prop17.bib"
+bibliography: "/documents-exportes_prop17b.bib"
 
 ---
 <Youtube yt="tPyydyd_N6U" caption="Parole prophétique et régimes de temporalité ?" start="2342" stop="3583"></Youtube>
