@@ -8,47 +8,45 @@
     {{ (separator && ',') || '' }}
   </nuxt-link>
 </template>
-<script>
+<script setup>
 import { formatAuthors, highlight } from '~/assets/utils/transforms'
 import { getAuthorSlug } from '~/assets/utils/slugify'
+import { useRootStore } from '~/store/root';
+import { useI18n } from 'vue-i18n'
 
-export default {
-  props: {
-    item: {
-      required: true,
-      type: Object,
-    },
-    separator: {
-      required: false,
-      type: Boolean,
-      default: false,
-    },
+const rootStore = useRootStore()
+const { t } = useI18n()
+const localePath = useLocalePath()
+
+const props = defineProps({
+  item: {
+    required: true,
+    type: Object,
   },
-  data() {
-    return {
-      path: getAuthorSlug(this.item),
-    }
+  separator: {
+    required: false,
+    type: Boolean,
+    default: false,
   },
-  computed: {},
-  mounted() {},
-  methods: {
-    formatAuthorsProxy() {
-      // TODO move the institution in v-list-subtitle
-      return [
-        highlight(
-          formatAuthors([this.item], this.$i18n.$t, false, false),
-          this.$store.state.articles.search || ''
-        ),
-        highlight(
-          (this.item?.positions_and_institutions &&
-            this.item?.positions_and_institutions[0] &&
-            this.item.positions_and_institutions[0]?.institution) ||
-            '',
-          this.$store.state.articles.search || ''
-        ),
-      ]
-    },
-  },
+})
+
+const path = ref(getAuthorSlug(props.item))
+
+const formatAuthorsProxy = () => {
+  // TODO move the institution in v-list-subtitle
+  return [
+    highlight(
+      formatAuthors([props.item], t, false, false),
+      rootStore.getChildrenStore('articles').search || ''
+    ),
+    highlight(
+      (props.item?.positions_and_institutions &&
+        props.item?.positions_and_institutions[0] &&
+        props.item.positions_and_institutions[0]?.institution) ||
+        '',
+      rootStore.getChildrenStore('articles').search || ''
+    ),
+  ]
 }
 </script>
 <style lang="scss"></style>

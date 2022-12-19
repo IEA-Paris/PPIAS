@@ -15,17 +15,10 @@
     ></ListLeftPanel>
   </div>
 </template>
-<script>
-export default {
-  props: {},
-  data() {
-    return {
-      type: 'articles',
-    }
-  },
-  computed: {},
-  async mounted() {},
-  methods: {},
-}
+<script setup>
+import { useRootStore } from '~/store/root';
+const rootStore = useRootStore();
+const type = ref('articles')
+rootStore.setLoading(false)
 </script>
 <style lang="scss"></style>

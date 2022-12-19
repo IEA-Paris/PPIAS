@@ -87,101 +87,91 @@
     </template>
   </Item>
 </template>
-<script>
+<script setup>
 import { scalePow } from 'd3-scale'
-// export component
-export default {
-  props: {
-    item: {
-      required: false,
-      type: Object,
-      default: () => {},
-    },
-    size: {
-      required: false,
-      type: Number,
-      default: 100,
-    },
-    debug: {
-      required: false,
-      type: Boolean,
-      default: false,
-    },
-    margin: {
-      required: false,
-      type: Number,
-      default() {
-        return (this.size / 100) * 30
-      },
-    },
-    variant: {
-      required: false,
-      type: String,
-      default: '',
+
+const slots = useSlots()
+const nuxtApp = useNuxtApp()
+const props = defineProps({
+  item: {
+    required: false,
+    type: Object,
+    default: () => {},
+  },
+  size: {
+    required: false,
+    type: Number,
+    default: 100,
+  },
+  debug: {
+    required: false,
+    type: Boolean,
+    default: false,
+  },
+  margin: {
+    required: false,
+    type: Number,
+    default() {
+      return (this.size / 100) * 30
     },
   },
-  data() {
+  variant: {
+    required: false,
+    type: String,
+    default: '',
+  }
+})
+
+const cells = reactive(
+  props.item?.body?.children.map((child, index) => {
     return {
-      cells: this.item?.body?.children.map((child, index) => {
-        return {
-          ...child,
-          countChars: this.item?.countMap[index],
-          countRefs: Math.floor(this.item.countRefs[index]),
-        }
-      }),
-      stats: {
-        countRefs: Math.floor(this.item?.countRefs?.length / 2),
-        countLines: this.item?.countMap?.length,
-        countChars: this.item?.countMap.reduce(
-          (partialSum, a) => partialSum + a,
-          0
-        ),
-        countContributors: 3,
-        countHeadings: this.item?.toc?.length,
-        countMediaCells: 2,
-        countCodeCells: 10,
-        countCells: this.item.body.children.length,
-        extentChars: [
-          Math.min(...this.item?.countMap),
-          Math.max(...this.item?.countMap),
-        ],
-        extentRefs: [
-          Math.min(...this.item.countRefs),
-          Math.max(...this.item.countRefs),
-        ],
-      },
-      radius: ((this.size / 2 - this.margin) * 2) / 3,
-      // value radius, this give us extra safety margin.
-      maxNumCharsRadius: ((this.size / 2 - this.margin) * 2) / 3 / 2,
-      maxNumRefsRadius: 5,
-      angleD: (Math.PI * 2) / (this.item?.body?.children.length + 1),
+      ...child,
+      countChars: props.item?.countMap[index],
+      countRefs: Math.floor(props.item.countRefs[index]),
     }
-  },
-  mounted() {},
-  methods: {
-    scaleNumChars(n = this.maxNumCharsRadius / 2) {
-      const pow = scalePow() // linear, commented out
-        // .exponent(1)
-        // with powerscale, exponent 0.25
-        .domain(this.stats.extentChars || [0, 1])
-        .range([0, this.maxNumCharsRadius])
-        .exponent(0.25)
-      return pow(n)
-    },
-    scaleNumRefs(n) {
-      const pow = scalePow() // linear, commented out
-        // .exponent(1)
-        // with powerscale, exponent 0.25
-        .domain(this.stats.extentChars || [0, 1])
-        .range([0, this.maxNumCharsRadius])
-        .exponent(0.25)
-      return pow(n)
-    },
-    hasContent(slot) {
-      return !!this.$slots[slot]
-    },
-  },
+  })
+)
+
+const stats = reactive({
+  countRefs: Math.floor(props.item?.countRefs?.length / 2),
+  countLines: props.item?.countMap?.length,
+  countChars: props.item?.countMap.reduce((partialSum, a) => partialSum + a, 0),
+  countContributors: 3,
+  countHeadings: props.item?.toc?.length,
+  countMediaCells: 2,
+  countCodeCells: 10,
+  countCells: props.item.body.children.length,
+  extentChars: [Math.min(...props.item?.countMap), Math.max(...props.item?.countMap)],
+  extentRefs: [Math.min(...props.item?.countRefs), Math.max(...props.item?.countRefs)],
+})
+
+const radius = ref(((props.size / 2 - props.margin) * 2) / 3)
+const maxNumCharsRadius = ref((props.size / 2 - props.margin) / 3 / 2)
+const maxNumRefsRadius = ref(5)
+const angleD = ref((Math.PI * 2) / (props.item?.body?.children.length + 1))
+
+const scaleNumChars = (n = maxNumCharsRadius.value / 2) => {
+  const pow = scalePow()  // linear, commented out
+    // .exponent(1)
+    // with powerscale, exponent 0.25
+    .domain(stats.value.extentChars || [0, 1])
+    .range([0, maxNumCharsRadius.value])
+    .exponent(0.25)
+
+  return pow(n)
 }
+
+const scaleNumRefs = (n) => {
+  const pow = scalePow() // linear, commented out
+    // .exponent(1)
+    // with powerscale, exponent 0.25
+    .domain(stats.value.extentRefs || [0, 1])
+    .range([0, maxNumRefsRadius.value])
+    .exponent(0.25)
+  return pow(n)
+}
+
+const hasContent = (slot) => !!slots[slot]
 </script>
 
 <style scoped>

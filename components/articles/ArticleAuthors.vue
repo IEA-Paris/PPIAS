@@ -25,36 +25,39 @@
           v-for="(institution, index) in authorInformations.institutions"
           :key="index"
           class="institution mt-2"
-          :class="{ 'mt-4': $vuetify.breakpoint.smAndDown }"
+          :class="{ 'mt-4': smAndDown }"
           v-html="institution"
         ></div>
       </div>
     </div>
   </div>
 </template>
-<script>
-import ArticleAuthorsMixin from '~/mixins/ArticleAuthorsMixin'
+<script setup>
+import { useDisplay } from 'vuetify';
+import useArticleAuthors from '~/composables/articles/useArticleAuthors'
 
-export default {
-  mixins: [ArticleAuthorsMixin],
-  props: {
-    item: {
-      type: Object,
-      default: () => {},
-    },
-    titles: {
-      type: Boolean,
-      default: false,
-      required: false,
-    },
+const { smAndDown } = useDisplay();
+
+const props = defineProps({
+  haveInstitutionsLink: {
+    required: false,
+    type: Boolean,
+    default: false,
   },
-  data() {
-    return {
-      authors: this.item.authors,
-      showInstitution: false,
-    }
+  item: {
+    type: Object,
+    default: () => {},
   },
-}
+  titles: {
+    type: Boolean,
+    default: false,
+    required: false,
+  },
+})
+
+const showInstitution = ref(false)
+const { authorInformations, getFormatedAuthors, getFormatedInstitution, slugify } = useArticleAuthors(props.item.authors)
+
 </script>
 <style lang="scss">
 .show-more-btn::before {

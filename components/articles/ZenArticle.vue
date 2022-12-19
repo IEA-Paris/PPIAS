@@ -68,11 +68,11 @@
             ref="zenreader"
             class="d-flex zenreader text-justify justify-self-center"
           >
-            <nuxt-content :document="item" />
+            <ContentRenderer :value="item" class="nuxt-content" />
           </v-card-text>
           <v-card-actions class="mb-12">
             <v-spacer></v-spacer>
-            <v-btn tile outlined @click="toogleZen()">
+            <v-btn tile variant="outlined" @click="toogleZen()">
               <v-icon left color="black">mdi-exit-to-app</v-icon>
               {{ $t('exit-zen-mode') }}</v-btn
             >
@@ -82,49 +82,42 @@
     </article>
   </v-dialog>
 </template>
-<script>
-export default {
-  props: {
-    item: {
-      type: Object,
-      default: () => {},
-    },
-    print: {
-      type: Boolean,
-      default: false,
-      required: false,
-    },
+<script setup>
+
+const props = defineProps({
+  item: {
+    type: Object,
+    default: () => {},
   },
-  data() {
-    return {
-      zen: this.print,
+  print: {
+    type: Boolean,
+    default: false,
+    required: false,
+  },
+})
+
+const zen = ref(props.print)
+const zenpanel = ref(null)
+
+const toogleZen = () => {
+  if (zen.value) {
+    if (document.exitFullscreen) {
+      document.exitFullscreen()
+    } else if (document.mozCancelFullScreen) {
+      document.mozCancelFullScreen()
+    } else if (document.webkitExitFullscreen) {
+      document.webkitExitFullscreen()
     }
-  },
-  computed: {},
-  watch: {},
-  mounted() {},
-  methods: {
-    toogleZen() {
-      if (this.zen) {
-        if (document.exitFullscreen) {
-          document.exitFullscreen()
-        } else if (document.mozCancelFullScreen) {
-          document.mozCancelFullScreen()
-        } else if (document.webkitExitFullscreen) {
-          document.webkitExitFullscreen()
-        }
-      } else if (this.$refs.zenpanel.requestFullscreen) {
-        this.$refs.zenpanel.requestFullscreen()
-      } else if (this.$refs.zenpanel.webkitRequestFullscreen) {
-        this.$refs.zenpanel.webkitRequestFullscreen()
-      } else if (this.$refs.zenpanel.mozRequestFullScreen) {
-        this.$refs.zenpanel.mozRequestFullScreen()
-      } else if (this.$refs.zenpanel.msRequestFullscreen) {
-        this.$refs.zenpanel.msRequestFullscreen()
-      }
-      this.zen = !this.zen
-    },
-  },
+  } else if (zenpanel.value.requestFullscreen) {
+    zenpanel.value.requestFullscreen()
+  } else if (zenpanel.value.webkitRequestFullscreen) {
+    zenpanel.value.webkitRequestFullscreen()
+  } else if (zenpanel.value.mozRequestFullScreen) {
+    zenpanel.value.mozRequestFullScreen()
+  } else if (zenpanel.value.msRequestFullscreen) {
+    zenpanel.value.msRequestFullscreen()
+  }
+  zen.value = !zen.value
 }
 </script>
 <style scoped>

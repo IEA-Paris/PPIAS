@@ -8,7 +8,7 @@
             icon
             v-bind="{ ...attrs, ...$attrs }"
             :class="{
-              'mt-3': $vuetify.breakpoint.xs,
+              'mt-3': isXsDisplay,
             }"
             v-on="{ ...tooltip, ...menu }"
           >
@@ -17,7 +17,7 @@
         </template>
         <span
           v-html="
-            $t('bibliographical-style-0') + $t($store.state.articles.style)
+            $t('bibliographical-style-0') + $t(rootStore.getChildrenStore('articles').style)
           "
         ></span>
       </v-tooltip>
@@ -28,26 +28,21 @@
         v-for="(item, index) in items"
         :key="index"
         :value="item"
-        :class="{ 'font-weight-bold': $store.state.articles.style === item }"
-        @click="$store.commit('setStyle', item)"
+        :class="{ 'font-weight-bold': rootStore.getChildrenStore('articles').style === item }"
+        @click="rootStore.setStyle(item)"
       >
         <v-list-item-title>{{ $t(item) }}</v-list-item-title>
       </v-list-item>
     </v-list>
   </v-menu>
 </template>
-<script>
+<script setup>
+import { useRootStore } from '~/store/root';
+import { useDisplay } from 'vuetify';
 import lists from '~/assets/data/lists'
-export default {
-  props: {},
-  data() {
-    return {
-      items: lists.articles.styles,
-    }
-  },
-  computed: {},
-  mounted() {},
-  methods: {},
-}
+
+const rootStore = useRootStore();
+const { xs: isXsDisplay } = useDisplay();
+const items = reactive(lists.articles.styles)
 </script>
 <style lang="scss"></style>

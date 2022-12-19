@@ -6,18 +6,18 @@
       md="8"
       lg="6"
       xl="6"
-      :class="{ 'py-0': !$store.state.scrolled }"
+      :class="{ 'py-0': !rootStore.scrolled }"
     >
       <!--   Latest issue -->
       <div class="text-h6 d-flex">
         {{ $t('latest-issue') }}
         <v-spacer></v-spacer>
         <v-btn
-          icon
+          variant="icon"
           tile
           target="_blank"
           nuxt
-          :href="localePath('/issue/' + issue.slug)"
+          :href="localePath('/issue/' + issue._path.split('/').at(-1))"
         >
           <v-icon>mdi-open-in-new</v-icon>
         </v-btn>
@@ -25,51 +25,51 @@
       <v-divider></v-divider>
       <div
         class="text-h6 transition-swing"
-        :class="{ 'mb-6': $store.state.scrolled }"
+        :class="{ 'mb-6': rootStore.scrolled }"
       >
         {{ issue.title }}
       </div>
       <ArticlesListItemMobile
         v-for="(article, index) in articles"
-        v-bind="$attrs"
+        v-bind="attrs"
         :key="index"
         :index="index"
         :item="article"
-        :scroll="$store.state.scrolled"
+        :scroll="rootStore.scrolled"
       ></ArticlesListItemMobile>
 
       <!--eslint-disable-next-line vue/no-parsing-error eslint-disable-next-line vue/attribute-hyphenation-->
       <div class="d-flex">
         <v-spacer></v-spacer>
-        <v-btn text :to="localePath('/issue/' + issue.slug)">{{
+        <v-btn
+          variant="text"
+          color="dark"
+          :to="localePath('/issue/' + issue._path.split('/').at(-1))"
+        >{{
           $t('see-all-results-articlescount', [articles.length])
         }}</v-btn>
       </div>
     </v-col>
   </v-row>
 </template>
-<script>
-export default {
-  props: {
-    issue: {
-      type: [Object, Boolean],
-      default: false,
-    },
-    articles: {
-      type: Array,
-      default: () => [],
-    },
+<script setup>
+import { useRootStore } from '~/store/root';
+
+const attrs = useAttrs()
+const rootStore = useRootStore()
+const localePath = useLocalePath()
+
+const props = defineProps({
+  issue: {
+    type: [Object, Boolean],
+    default: false,
   },
-  data() {
-    return {
-      path: `${this.localePath('/articles')}?view=issues&filters={"issue"%3A["${
-        this.issue.title
-      }"]}`,
-    }
+  articles: {
+    type: Array,
+    default: () => [],
   },
-  computed: {},
-  mounted() {},
-  methods: {},
-}
+})
+
+const path = computed(() => `${localePath('/articles')}?view=issues&filters={"issue"%3A["${props.issue.title}"]}`)
 </script>
 <style lang="scss"></style>

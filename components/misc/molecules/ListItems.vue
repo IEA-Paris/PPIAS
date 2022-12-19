@@ -2,31 +2,29 @@
   <v-container
     v-scroll="onScroll"
     class="transition-swing pt-0"
-    :class="[$store.state.scrolled ? 'mt-n4' : 'mt-n2', { 'ml-0': filter }]"
-    :fluid="!$store.state.scrolled"
+    :class="[rootStore.scrolled ? 'mt-n4' : 'mt-n2', { 'ml-0': filter }]"
+    :fluid="!rootStore.scrolled"
   >
-    <v-row class="transition-swing" :no-gutters="!$store.state.scrolled">
+    <v-row class="transition-swing" :no-gutters="!rootStore.scrolled">
       <v-col
         cols="12"
         :class="{
-          'pt-0 pr-1': !$store.state.scrolled,
-          'px-0': $vuetify.breakpoint.xs,
+          'pt-0 pr-1': !rootStore.scrolled,
+          'px-0': isSmDisplay,
         }"
         class="transition-swing"
       >
-        <v-list two-lines>
-          <template v-if="$vuetify.breakpoint.smAndDown">
+        <v-list line="two">
+          <template v-if="smAndDown">
             <component
-              :is="
-                type.charAt(0).toUpperCase() + type.slice(1) + 'ListItemMobile'
-              "
+              :is="type.charAt(0).toUpperCase() + type.slice(1) + 'ListItemMobile'"
               v-for="(item, index) in data.items"
-              v-bind="$attrs"
+              v-bind="attrs"
               :key="index"
               :index="index"
               :item="item"
               highlighted
-              :scroll="$store.state.scrolled"
+              :scroll="rootStore.scrolled"
               :filter="filter"
             ></component>
           </template>
@@ -34,12 +32,12 @@
             :is="type.charAt(0).toUpperCase() + type.slice(1) + 'ListItem'"
             v-for="(item, index) in data.items"
             v-else
-            v-bind="$attrs"
+            v-bind="attrs"
             :key="index"
             :index="index"
             :item="item"
             highlighted
-            :scroll="$store.state.scrolled"
+            :scroll="rootStore.scrolled"
           ></component>
         </v-list>
       </v-col>
@@ -47,42 +45,42 @@
   </v-container>
 </template>
 
-<script>
-export default {
-  props: {
-    data: {
-      required: true,
-      type: Object,
-      default: () => {
-        return { items: [], total: 0 }
-      },
-    },
-    filter: {
-      required: false,
-      type: Boolean,
-      default: false,
-    },
-    sections: {
-      required: false,
-      type: Number,
-      default: 0,
-    },
-    type: {
-      type: String,
-      default: '',
-      required: true,
+<script setup>
+import { useRootStore } from '~/store/root';
+import { useDisplay } from 'vuetify'
+
+const attrs = useAttrs()
+const { sm: isSmDisplay, smAndDown } = useDisplay()
+
+const props = defineProps({
+  data: {
+    required: true,
+    type: Object,
+    default: () => {
+      return { items: [], total: 0 }
     },
   },
-  data() {
-    return {}
+  filter: {
+    required: false,
+    type: Boolean,
+    default: false,
   },
-  computed: {},
-  created() {},
-  methods: {
-    onScroll() {
-      this.$store.commit('setScrolled')
-    },
+  sections: {
+    required: false,
+    type: Number,
+    default: 0,
   },
+  type: {
+    type: String,
+    default: '',
+    required: true,
+  },
+})
+
+const rootStore = useRootStore()
+
+const onScroll = () => {
+  return rootStore.setScrolled()
 }
 </script>
 <style lang="scss">
@@ -90,4 +88,3 @@ export default {
   max-height: 500;
 }
 </style>
-,

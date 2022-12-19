@@ -1,38 +1,31 @@
 <template>
   <v-chip
-    v-if="!$route.name.startsWith('issue')"
-    small
+    v-if="!route.name.startsWith('issue')"
+    size="small"
     class="d-inline-block issue-badge"
     :inline="inline"
-    @click.prevent="$router.push('/issue/' + issueText)"
+    @click.prevent="router.push('/issue/' + issueText)"
   >
     {{ issueText }}
   </v-chip>
 </template>
-<script>
-export default {
-  props: {
-    issue: {
-      type: String,
-      required: true,
-      default: '',
-    },
-    inline: {
-      type: Boolean,
-      required: false,
-      default: false,
-    },
+<script setup>
+const route = useRoute()
+const router = useRouter()
+const props = defineProps({
+  issue: {
+    type: String,
+    required: true,
+    default: '',
   },
-  data() {
-    return {
-      issueText: this.issue.slice(15, -3),
-    }
+  inline: {
+    type: Boolean,
+    required: false,
+    default: false,
   },
+})
 
-  computed: {},
-  mounted() {},
-  methods: {},
-}
+const issueText = ref(props.issue.slice(15, -3))
 </script>
 <style lang="scss">
 .issue-badge {

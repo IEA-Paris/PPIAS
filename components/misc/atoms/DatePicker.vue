@@ -11,7 +11,7 @@
       <v-text-field
         :value="formatted"
         readonly
-        v-bind="$attrs"
+        v-bind="attrs"
         v-on="on"
       ></v-text-field>
     </template>
@@ -19,68 +19,45 @@
       v-model="selected"
       color="primary"
       show-current
-      v-bind="$attrs"
+      v-bind="attrs"
       @input="menu = false"
       @click:clear="
-        $router.push({ ...$route.query, query: { [item]: undefined } })
+        router.push({ ...route.query, query: { [item]: undefined } })
       "
     ></v-date-picker>
   </v-menu>
 </template>
 
-<script>
+<script setup>
 import { formatDate } from '~/assets/utils/transforms'
-export default {
-  props: {
-    item: {
-      type: String,
-      required: true,
-      default: '',
-    },
-    type: {
-      type: String,
-      default: '',
-      required: true,
-    },
-  },
-  data() {
-    return {
-      menu: false,
-    }
-  },
-  computed: {
-    selected: {
-      get() {
-        return formatDate(
-          !this.$route.params.id
-            ? this.$store.state.list[this.item]
-            : this.$store.state.form[this.item]
-        )
-      },
+import { useRootStore } from '~/store/root';
 
-      set(value) {
-        /*
-        value = Math.floor(Date.parse(new Date(value).getTime() / 1000))
-         */
-        return this.$store.dispatch('form/update', {
-          type: this.type,
-          itemId: this.$route.params.id,
-          values: { [this.item]: value },
-        })
-      },
-    },
-    formatted() {
-      return this.selected
-        ? formatDate(
-            !this.$route.params.id
-              ? this.$store.state.list[this.item]
-              : this.$store.state.form[this.item]
+const router = useRouter()
+const attrs = useAttrs()
+const rootStore = useRootStore()
+const props = defineProps({ type: String, item: String })
+const menu = ref(false)
+const route = useRoute()
+
+const selected = computed({
+  get() {
+    return !route.params.id ? rootStore.getChildrenStore(props.type).list[props.item] : rootStore.getChildrenStore(props.type).form[props.item]
+  },
+  set(value) {
+    // this.$store.dispatch('form/update', {
+    //   type: this.type,
+    //   itemId: this.$route.params.id,
+    //   values: { [this.item]: value },
+    // })
+  },
+})
+
+const formatted = computed(() => {
+  return selected.value ? formatDate(
+            !route.params.id
+              ? rootStore.list[this.item]
+              : rootStore.list.form[this.item]
           )
         : ''
-    },
-  },
-  mounted() {},
-  beforeCreate() {},
-  created() {},
-}
+})
 </script>

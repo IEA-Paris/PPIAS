@@ -2,7 +2,7 @@
   <div class="text-center">
     <v-dialog v-model="dialog" fullscreen>
       <template #activator="{ on, attrs }">
-        <v-btn color="white" text v-bind="attrs" v-on="on">placeholder</v-btn>
+        <v-btn color="white" variant="text" v-bind="attrs" v-on="on">placeholder</v-btn>
       </template>
 
       <v-card>
@@ -18,19 +18,13 @@
     </v-dialog>
   </div>
 </template>
-<script>
-export default {
-  data() {
-    return {
-      dialog: process.env.NODE_ENV === 'production',
-      textInput: '',
-    }
-  },
-  async fetch() {},
-  methods: {
-    close() {
-      if (this.textInput === 'ieaftw') this.dialog = false
-    },
-  },
+<script setup>
+const config = useRuntimeConfig();
+
+const dialog = ref(config.public.NODE_ENV === 'production')
+const textInput = ref('')
+
+const close = () => {
+  if (textInput.value === 'ieaftw') dialog.value = false
 }
 </script>

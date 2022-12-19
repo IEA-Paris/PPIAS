@@ -17,37 +17,30 @@
     </template>
   </Item>
 </template>
-<script>
-// export component
-export default {
-  props: {
-    item: {
-      required: false,
-      type: Object,
-      default: () => {},
-    },
-    size: {
-      required: false,
-      type: Number,
-      default: 100,
-    },
-    ratio: { type: Number, default: 16 / 9 },
-    height: { type: [Number, String], default: 600 },
-    src: {
-      type: String,
-      default: '/img/header-bg.jpg',
-    },
+<script setup>
+const slots = useSlots()
+const props = defineProps({
+  item: {
+    required: false,
+    type: Object,
+    default: () => {},
   },
-  data() {
-    return {}
+  size: {
+    required: false,
+    type: Number,
+    default: 100,
   },
-  computed: {},
-  mounted() {},
-  methods: {
-    hasContent(slot) {
-      return !!this.$slots[slot]
-    },
+  ratio: { type: Number, default: 16 / 9 },
+  height: { type: [Number, String], default: 600 },
+  src: {
+    type: String,
+    default: '/img/header-bg.jpg',
   },
+})
+const router = useRouter()
+
+const hasContent = (name) => {
+  return !!slots[name]
 }
 </script>
 

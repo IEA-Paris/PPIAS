@@ -2,36 +2,31 @@
   <v-img
     :aspect-ratio="ratio"
     :lazy-src="$img(src, { width: 10, quality: 70 })"
-    :src="$img(src, { height, quality: 70 })"
+    :src="$img(src, { height: height, quality: 70 })"
     :srcset="_srcset.srcset"
     :sizes="_srcset.size"
-    v-bind="$attrs"
+    v-bind="attrs"
   ></v-img>
 </template>
-<script>
-export default {
-  props: {
-    ratio: { type: Number, default: 16 / 9 },
-    height: { type: [Number, String], default: 500 },
-    src: {
-      type: String,
-      default: '/img/header-bg.jpg',
-    },
-  },
-  computed: {
-    _srcset() {
-      return this.$img.getSizes(this.src, {
+<script setup>
+const { $img } = useNuxtApp()
+
+const attrs = useAttrs()
+const props = defineProps({
+  src: String,
+  height: Number,
+  ratio: Number,
+})
+
+const _srcset = computed(() => $img.getSizes(props.src, {
         sizes: 'xs:100vw sm:100vw md:100vw lg:100vw xl:100vw',
         modifiers: {
           format: 'webp',
           quality: 70,
           height: 500,
         },
-      })
-    },
-  },
-  mounted() {},
-}
+    }
+))
 </script>
 <style scoped>
 .frame {

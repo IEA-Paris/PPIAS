@@ -9,7 +9,7 @@
             tile
             small
             class="py-7 px-6"
-            :class="$vuetify.breakpoint.mdAndUp ? 'text-h4' : 'text-h6'"
+            :class="mdAndUp ? 'text-h4' : 'text-h6'"
             nuxt
             depressed
             v-bind="attrs"
@@ -32,52 +32,45 @@
         placeholder="Search"
         outlined
         prepend-inner-icon="mdi-magnify"
-        :color="$vuetify.theme.themes.light.primary"
+        :color="theme.themes.light.colors.primary"
         hide-details
         clearable
       />
     </v-expand-x-transition>
   </div>
 </template>
-<script>
-export default {
-  props: {},
-  data() {
-    return {}
+<script setup>
+import { useDisplay, useTheme } from 'vuetify'
+
+const { mdAndUp } = useDisplay()
+const theme = useTheme()
+
+const search = ref(null);
+const props = defineProps({ type: String })
+const searchString = computed({
+  get() {
+    return rootStore.getChildrenStore(props.type).searchString
   },
-  computed: {
-    searchString: {
-      get() {
-        return this.$store.state[this.type].search
-      },
-      set(value) {
-        this.$store.dispatch(this.type + '/updateSearch', value)
-      },
-    },
-    expand() {
-      return this.searchString.length > 0
-    },
+  set(search) {
+    rootStore.updateSearch({type: props.type, search})
   },
-  watch: {},
-  created() {},
-  mounted() {},
-  methods: {
-    showInput() {
-      // Show the input component
-      this.expand = true
-      // Focus the component, but we have to wait
-      // so that it will be showing first.
-      this.$nextTick(() => {
-        this.focusInput()
-      })
-    },
-    focusInput() {
-      this.$refs.search.focus()
-    },
-    onClickOutside() {
-      this.expand = false
-    },
-  },
+})
+
+const expand = computed(() => searchString.value.length > 0)
+
+const showInput = () => {
+  expand.value = true
+  $nextTick(() => {
+    search.focus()
+  })
+}
+
+const focusInput = () => {
+  search.focus()
+}
+
+const onClickOutside = () => {
+  expand.value = false
 }
 </script>
 <style lang="scss"></style>

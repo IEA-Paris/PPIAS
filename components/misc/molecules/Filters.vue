@@ -2,15 +2,15 @@
   <aside class="transition-swing">
     <div
       v-if="showReset"
-      :class="$store.state.scrolled ? 'mr-0' : 'mr-1'"
+      :class="rootStore.scrolled ? 'mr-0' : 'mr-1'"
       class="w-100 transition-swing mb-1"
     >
       <v-btn
         outlined
         x-large
         block
-        :height="$vuetify.breakpoint.sm ? '40' : '56'"
-        @click="$store.dispatch('resetState', type) && $emit('close')"
+        :height="isSmDisplay ? '40' : '56'"
+        @click="rootStore.resetState(type) && emit('close')"
         ><v-icon left>mdi-autorenew</v-icon
         >{{ $t('reset-your-search-filters') }}</v-btn
       >
@@ -18,7 +18,7 @@
 
     <v-sheet
       v-else
-      :height="$vuetify.breakpoint.sm ? '40' : '56'"
+      :height="isSmDisplay ? '40' : '56'"
       block
       class="search-label mt-1"
     >
@@ -27,29 +27,29 @@
     </v-sheet>
 
     <component
-      :is="filters[filter].type"
       v-for="(filter, name) in Object.keys(filters)"
-      v-show="name < 3 || expanded"
       :key="name + type + filter"
-      hide-details
-      :dense="$vuetify.breakpoint.sm"
-      :items="filters[filter].items.map((item) => $t(item))"
-      clearable
+      :is="filters[filter].type"
+      v-show="name < 3 || expanded"
+      variant="outlined"
       :label="$t(filter)"
+      :items="filters[filter].items.map((item) => item)"
+      hide-details
+      :dense="isSmDisplay"
+      clearable
       min-height="56"
-      outlined
-      :loading="$store.state[type].loading.includes(filter)"
+      :loading="rootStore.getChildrenStore(type).loading.includes(filter)"
       :type="type"
       :filter="filter"
       color="black"
       style="min-width: 150px"
       class="transition-swing pb-1"
       :class="
-        $store.state.scrolled
+        rootStore.scrolled
           ? 'mt-6'
-          : $store.state[type].filters &&
-            $store.state[type].filters[filter] &&
-            $store.state[type].filters[filter].length
+          : rootStore.getChildrenStore(type).filters &&
+            rootStore.getChildrenStore(type).filters[filter] &&
+            rootStore.getChildrenStore(type).filters[filter].length
           ? 'mt-1 mr-1'
           : 'mt-0 mr-1'
       "
@@ -69,32 +69,22 @@
     >
   </aside>
 </template>
-<script>
+<script setup>
+import { useRootStore } from '~/store/root';
+import { useDisplay } from 'vuetify'
 import data from '~/assets/generated/filters'
-export default {
-  props: {
-    type: {
-      type: String,
-      default: '',
-      required: true,
-    },
-  },
-  data() {
-    return {
-      filters: data[this.type].filters,
-      sorters: data[this.type].sort,
-      expanded: false,
-    }
-  },
-  computed: {
-    showReset() {
-      return this.$store.state[this.type].filtersCount
-    },
-  },
-  created() {},
-  mounted() {},
-  methods: {},
-}
+
+const { t } = useI18n()
+const emit = defineEmits(['close'])
+const { sm: isSmDisplay } = useDisplay()
+const rootStore = useRootStore()
+const props = defineProps({ type: String })
+
+const filters = ref(data[props.type].filters)
+const sorters = ref(data[props.type].sort)
+const expanded = ref(false)
+
+const showReset = computed(() => rootStore.getChildrenStore(props.type).filtersCount)
 </script>
 <style lang="scss">
 aside {

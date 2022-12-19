@@ -25,8 +25,10 @@ import generatePDF from './lib/article/files/generatePDF'
 import upsertOnZenodo from './lib/article/upsertOnZenodo'
 import generateFiles from './lib/article/files'
 import { insertDocuments } from './utils/contentUtilities'
+
 const chalk = require('chalk')
 const defaults = require('./module.defaults')
+
 export default async function (moduleOptions) {
   // await tsvToArticles()
   const { nuxt } = this

@@ -2,7 +2,7 @@
   <v-container
     v-scroll="onScroll"
     class="transition-swing"
-    :class="{ 'py-0': !$store.state.scrolled }"
+    :class="{ 'py-0': !rootStore.scrolled }"
     fluid
   >
     <v-row class="transition-swing">
@@ -11,10 +11,10 @@
           <v-col cols="12" md="8" lg="6">
             <h1
               class="main-title transition-swing"
-              :class="$store.state.scrolled ? 'mb-16 mt-8' : 'mb-8 mt-2'"
-              v-html="$config.full_name_html"
+              :class="rootStore.scrolled ? 'mb-16 mt-8' : 'mb-8 mt-2'"
+              v-html="useRuntimeConfig().public.full_name_html"
             ></h1>
-            <nuxt-content :document="page" />
+            <ContentRenderer class="nuxt-content" :value="page" />
           </v-col>
         </v-row>
 
@@ -31,11 +31,11 @@
             <v-list three-line>
               <ArticlesListItemMobile
                 v-for="(article, index) in featuredArticles"
-                v-bind="$attrs"
+                v-bind="attrs"
                 :key="index"
                 :index="index"
                 :item="article"
-                :scroll="$store.state.scrolled"
+                :scroll="rootStore.scrolled"
               ></ArticlesListItemMobile>
             </v-list>
           </v-col>
@@ -43,87 +43,24 @@
     ></v-row>
   </v-container>
 </template>
-<script>
-export default {
-  props: {},
-  async asyncData({ $content, store }) {
-    const page = await $content('pages/about').fetch()
-    const latestIssue = (
-      await $content('issues', { deep: true })
-        .sortBy('date', 'desc')
-        .limit(1)
-        .fetch()
-    )[0]
-    const latestIssueArticles = await $content('articles', { deep: true })
-      .where({ issue: { $regex: latestIssue.path }, published: true })
-      .sortBy('date', 'asc')
-      .limit(3)
-      .fetch()
-    const featuredArticles = await $content('articles', { deep: true })
-      .where({ highlight: true, published: true })
-      .sortBy('date', 'desc')
-      .limit(3)
-      .fetch()
-    store.commit('setLoading', false) /* commit('setItems', {
-      items: latestIssueArticles,
-      total: latestIssueArticles.length,
-      numberOfPages: 1,
-      type: 'articles', 
-    }) */
-    return {
-      page,
-      featuredArticles,
-      latestIssueArticles,
-      latestIssue,
-    }
-  },
-  data() {
-    return {
-      page: {},
-      featuredArticles: [],
-      latestIssueArticles: [],
-      latestIssue: {},
-    }
-  },
-  async fetch() {
-    this.page = await this.$content('pages/about').fetch()
-    this.latestIssue = (
-      await this.$content('issues', { deep: true })
-        .sortBy('date', 'desc')
-        .limit(1)
-        .fetch()
-    )[0]
-    this.latestIssueArticles = await this.$content('articles', { deep: true })
-      .where({ issue: { $regex: this.latestIssue.path }, published: true })
-      .sortBy('date', 'asc')
-      .limit(3)
-      .fetch()
-    this.featuredArticles = await this.$content('articles', { deep: true })
-      .where({ highlight: true, published: true })
-      .sortBy('date', 'desc')
-      .limit(3)
-      .fetch()
-    this.$store.commit('setLoading', false)
-    /* commit('setItems', {
-      items: latestIssueArticles,
-      total: latestIssueArticles.length,
-      numberOfPages: 1,
-      type: 'articles', 
-    }) */
-  },
-  computed: {},
-  mounted() {
-    this.$fetch()
-  },
-  methods: {
-    onScroll() {
-      this.$store.commit('setScrolled')
-    },
-  },
+<script setup>
+import { useRootStore } from '~/store/root';
+const attrs = useAttrs();
+const rootStore = useRootStore();
+rootStore.setLoading(true)
+const {data: page} = await useAsyncData('page', () => queryContent('pages/about').findOne())
+const {data: latestIssue} = await useAsyncData('latestIssue', () => queryContent('issues').sort({ date: -1 }).limit(3).findOne())
+const {data: latestIssueArticles} = await useAsyncData('latestIssueArticles', () => queryContent('articles').where({issue: {$regex: latestIssue.path}, published: true}).sort({ date: 1 }).limit(3).find())
+const {data: featuredArticles} = await useAsyncData('featuredArticles', () => queryContent('articles').where({ highlight: true, published: true }).sort({ date: -1 }).limit(3).find())
+rootStore.setLoading(false)
+
+const onScroll = () => {
+  rootStore.setScrolleed()
 }
 </script>
 <style lang="scss">
-@import '~vuetify/src/styles/settings/_variables';
+@use 'vuetify/settings';
+
 .main-title {
   font-family: 'Bodoni Moda';
   font-size: 3rem !important;
@@ -131,13 +68,13 @@ export default {
   line-height: 3.5rem;
   max-width: 100%;
 }
-@media #{map-get($display-breakpoints, 'sm-only')} {
+@media #{map-get(settings.$display-breakpoints, 'sm')} {
   .main-title {
     font-size: 2.4rem !important;
     line-height: 3rem;
   }
 }
-@media #{map-get($display-breakpoints, 'xs-only')} {
+@media #{map-get(settings.$display-breakpoints, 'xs')} {
   .main-title {
     font-size: 2rem !important;
     line-height: 2.5rem;

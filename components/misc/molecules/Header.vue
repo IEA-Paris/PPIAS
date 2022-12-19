@@ -6,53 +6,52 @@
         <v-btn
           v-if="addBtn"
           x-large
-          :height="$vuetify.breakpoint.mdAndUp ? '56' : '40'"
+          :height="mdAndUp ? '56' : '40'"
           outlined
           color="primary"
-          :to="localePath($route.fullPath + '/create')"
+          :to="localePath(route.fullPath + '/create')"
         >
           <v-icon left>mdi-plus</v-icon>
-          {{ $t('new-x', { item: $tc('x-' + type, 1) }) }}
+          {{ $t('new-x', { item: $t('x-' + type, 1) }) }}
         </v-btn>
       </v-toolbar>
     </v-row>
   </v-container>
 </template>
-<script>
-export default {
-  props: {
-    type: {
-      type: String,
-      default: '',
-      required: true,
-    },
-    fluid: {
-      type: Boolean,
-      required: false,
-      default: false,
-    },
-    nogutters: {
-      type: Boolean,
-      required: false,
-      default: false,
-    },
-    loading: {
-      type: Boolean,
-      default: false,
-      required: false,
-    },
-    addBtn: {
-      type: Boolean,
-      required: false,
-      default: false,
-    },
+<script setup>
+import { useRootStore } from '~/store/root';
+
+const { mdAndUp } = useVuetify()
+const route = useRoute()
+const router = useRouter()
+const rootStore = useRootStore()
+
+const props = defineProps({
+  type: {
+    type: String,
+    default: '',
+    required: true,
   },
-  data() {
-    return {}
+  fluid: {
+    type: Boolean,
+    required: false,
+    default: false,
   },
-  computed: {},
-  mounted() {},
-  methods: {},
-}
+  nogutters: {
+    type: Boolean,
+    required: false,
+    default: false,
+  },
+  loading: {
+    type: Boolean,
+    default: false,
+    required: false,
+  },
+  addBtn: {
+    type: Boolean,
+    required: false,
+    default: false,
+  },
+})
 </script>
 <style lang="scss"></style>

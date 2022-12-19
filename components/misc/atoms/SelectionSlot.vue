@@ -3,7 +3,7 @@
     <v-chip v-if="index < maxItems" outlined label>
       <span>{{ text }}</span>
     </v-chip>
-    <v-tooltip v-if="index === maxItems" bottom>
+    <v-tooltip v-else-if="index === maxItems" bottom>
       <template #activator="{ on, attrs }">
         <span class="caption" v-bind="attrs" v-on="on"
           >&nbsp;( {{ $t('pls-x-more', [items.length - maxItems]) }})</span
@@ -14,41 +14,25 @@
   </div>
 </template>
 
-<script>
+<script setup>
 import truncate from '~/assets/utils/truncate'
-export default {
-  props: {
-    items: {
-      type: Array,
-      default: () => [],
-    },
-    index: {
-      type: Number,
-      required: true,
-    },
-    maxItems: {
-      type: Number,
-      default: 3,
-    },
-    item: {
-      type: [Object, String, Number],
-      default: () => ({}),
-    },
-  },
 
-  computed: {
-    text() {
-      const str = typeof this.item === 'object' ? this.item.text : this.item
-      return str.length > 18 ? truncate(str, 18) : str
-    },
-    remainingItems() {
-      return (
-        this.items
-          .slice(this.maxItems)
-          .map((item) => (typeof item === 'object' ? item.text : item), 18)
-          .join(', ') || []
-      )
-    },
-  },
-}
+const props = defineProps({
+  items: Array,
+  index: Number,
+  maxItems: Number,
+  item: [Object, String, Number],
+})
+
+const text = computed(() => {
+  const str = typeof props.item === 'object' ? props.item.text : props.item
+  return str.length > 18 ? truncate(str, 18) : str
+})
+
+const remainingItems = computed(() => (
+  props.items
+    .slice(props.maxItems)
+    .map((item) => (typeof item === 'object' ? item.text : item), 18)
+    .join(', ') || []
+))
 </script>

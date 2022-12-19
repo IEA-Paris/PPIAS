@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-skeleton-loader
-      v-if="$store.state.loading"
+      v-if="rootStore.loading"
       type="heading"
       :height="40"
     ></v-skeleton-loader>
@@ -10,7 +10,7 @@
         :elevation="hover ? 2 : 0"
         flat
         nuxt
-        :to="localePath('/authors/' + item.slug)"
+        :to="localePath('/authors/' + item._path.split('/').at(-1))"
         class="text-h5 ma-2 pa-2"
         v-html="highlightWord(item.firstname + ' ' + item.lastname)"
       >
@@ -18,40 +18,32 @@
     </v-hover>
   </div>
 </template>
-<script>
-import { highlight } from '~/assets/utils/transforms'
-export default {
-  props: {
-    item: {
-      type: Object,
-      default: () => {},
-    },
-    search: {
-      type: String,
-      default: '',
-    },
-    index: {
-      type: Number,
-      default: 0,
-    },
-    extended: {
-      type: Boolean,
-      default: false,
-    },
+<script setup>
+import { useRootStore } from '~/store/root';
+import useHighlightWord from '~/composables/utils/useHighlightWord';
+
+const rootStore = useRootStore()
+const props = defineProps({
+  item: {
+    type: Object,
+    required: true,
   },
-  data() {
-    return {}
+  search: {
+    type: String,
+    default: '',
   },
-  computed: {},
-  created() {},
-  methods: {
-    highlightWord(word = '') {
-      return this.$store.state.authors.search
-        ? highlight(word, this.$store.state.authors.search || '')
-        : word
-    },
+  index: {
+    type: Number,
+    default: 0,
   },
-}
+  extended: {
+    type: Boolean,
+    default: false,
+  },
+})
+
+const { highlightWord } = useHighlightWord(rootStore.getChildrenStore('authors').search)
+
 </script>
 
 <style lang="scss"></style>

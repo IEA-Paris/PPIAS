@@ -34,74 +34,46 @@
     <circle :cx="cx" :cy="cy" :r="circleRadius"></circle>
   </g>
 </template>
-<script>
-// export component
-export default {
-  props: {
-    type: {
-      type: String,
-      required: false,
-      default: 'markdown',
-    },
-    index: {
-      type: Number,
-      required: false,
-      default: 0,
-    },
-    theta: {
-      type: Number,
-      required: false,
-      default: 0,
-    },
-    originRadius: {
-      type: Number,
-      required: false,
-      default: 100,
-    },
-    radius: {
-      type: Number,
-      required: false,
-      default: 100,
-    },
-    offsetRadius: {
-      type: Number,
-      required: false,
-      default: 10,
-    },
-    circleRadius: {
-      type: Number,
-      required: false,
-      default: 2.5,
-    },
-    refsRadius: {
-      type: Number,
-      required: false,
-      default: 0,
-    },
-    isHeading: {
-      type: Boolean,
-      required: false,
-      default: false,
-    },
-    isMedia: {
-      type: Boolean,
-      required: false,
-      default: false,
+<script setup>
+
+const props = defineProps({
+  item: {
+    required: false,
+    type: Object,
+    default: () => {},
+  },
+  size: {
+    required: false,
+    type: Number,
+    default: 100,
+  },
+  debug: {
+    required: false,
+    type: Boolean,
+    default: false,
+  },
+  margin: {
+    required: false,
+    type: Number,
+    default() {
+      return (this.size / 100) * 30
     },
   },
-  data() {
-    return {
-      cosTheta: Math.cos(this.theta),
-      sinTheta: Math.sin(this.theta),
-      // position in x,y of the center of the small circle representing the Cell
-      cx: Math.cos(this.theta) * (this.offsetRadius + this.originRadius),
-      cy: Math.sin(this.theta) * (this.offsetRadius + this.originRadius),
-      // coordinates in x y of the origin
-      ox: Math.cos(this.theta) * this.originRadius,
-      oy: Math.sin(this.theta) * this.originRadius,
-    }
+  variant: {
+    required: false,
+    type: String,
+    default: '',
   },
-}
+})
+
+const cosTheta = ref(Math.cos(props.theta))
+const sinTheta = ref(Math.sin(props.theta))
+
+const cx = ref(Math.cos(props.theta) * (props.offsetRadius + props.originRadius))
+const cy = ref(Math.sin(props.theta) * (props.offsetRadius + props.originRadius))
+
+const ox = ref(Math.cos(props.theta) * props.originRadius)
+const oy = ref(Math.sin(props.theta) * props.originRadius)
 </script>
 <style lang="scss">
 .origin {

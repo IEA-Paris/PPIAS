@@ -4,7 +4,7 @@
       :is="input.type"
       v-for="(input, name) in inputs"
       :key="name + input.type"
-      :dense="$vuetify.breakpoint.smAndDown"
+      :dense="smAndDown"
       :disabled="!!$data.$apolloData.loading"
       :label="$t(input.label)"
       outlined
@@ -27,85 +27,80 @@
  -->
   </v-form>
 </template>
-<script>
+<script setup>
 import rulesSet from '~/assets/utils/rules'
 import forms from '~/assets/data/forms'
+import { useDisplay } from 'vuetify'
 
-export default {
-  apollo: {
-    form: {
-      prefetch: true,
-      query() {
-        return this.gql
-      },
-      variables() {
-        return {
-          appId: this.$store.state.apps.current.name.toLowerCase(),
-          itemId: this.$route?.params?.id,
+const { smAndDown } = useDisplay
+// apollo: {
+//     form: {
+//       prefetch: true,
+//       query() {
+//         return this.gql
+//       },
+//       variables() {
+//         return {
+//           appId: this.$store.state.apps.current.name.toLowerCase(),
+//           itemId: this.$route?.params?.id,
+//         }
+//       },
+//       update(data) {
+//         const rst = data[Object.keys(data)[0]]
+//         this.$store.commit('form/updateStore', rst)
+//         return rst
+//       },
+//       error(error) {
+//         console.error("We've got an error!", error)
+//       },
+//     },
+//   },
+
+const props = defineProps({
+  type: {
+    type: String,
+    default: '',
+    required: true,
+  },
+  gql: {
+    type: Object,
+    default: () => {},
+    required: false,
+  },
+  inputs: {
+    type: Object,
+    default: () => {},
+    required: true,
+  },
+  tab: {
+    type: String,
+    default: '',
+    required: false,
+  },
+})
+
+const valid = ref(false)
+
+const itemRules = (input) => {
+  const itemRawRules = props.tab
+    ? forms[props.type][props.tab][input]?.rules
+    : forms[props.type][input]?.rules
+  /*      console.log('itemRawRules: ', itemRawRules) */
+  const rules = itemRawRules
+    ? Object.keys(itemRawRules).flatMap((rule) => {
+        /*     console.log('rule: ', rule) */
+        if (itemRawRules[rule]) {
+          return itemRawRules[rule] === true
+            ? rulesSet[rule](this)
+            : rulesSet[rule](this)(itemRawRules[rule])
         }
-      },
-      update(data) {
-        const rst = data[Object.keys(data)[0]]
-        this.$store.commit('form/updateStore', rst)
-        return rst
-      },
-      error(error) {
-        console.error("We've got an error!", error)
-      },
-    },
-  },
-
-  props: {
-    type: {
-      type: String,
-      default: '',
-      required: true,
-    },
-    gql: {
-      type: Object,
-      default: () => {},
-      required: false,
-    },
-    inputs: {
-      type: Object,
-      default: () => {},
-      required: true,
-    },
-    tab: {
-      type: String,
-      default: '',
-      required: false,
-    },
-  },
-  data() {
-    return {
-      valid: false,
-    }
-  },
-  computed: {},
-  mounted() {},
-  methods: {
-    itemRules(input) {
-      const itemRawRules = this.tab
-        ? forms[this.type][this.tab][input]?.rules
-        : forms[this.type][input]?.rules
-      /*      console.log('itemRawRules: ', itemRawRules) */
-      const rules = itemRawRules
-        ? Object.keys(itemRawRules).flatMap((rule) => {
-            /*     console.log('rule: ', rule) */
-            if (itemRawRules[rule]) {
-              return itemRawRules[rule] === true
-                ? rulesSet[rule](this)
-                : rulesSet[rule](this)(itemRawRules[rule])
-            }
-            return true
-          })
-        : []
-      /*  console.log('rules: ', rules)
-       */
-      return rules
-    },
-  },
+        return true
+      })
+    : []
+  /*  console.log('rules: ', rules)
+   */
+  return rules
 }
+
 </script>
 <style lang="scss"></style>

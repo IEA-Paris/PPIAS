@@ -1,11 +1,12 @@
 import EventEmitter from 'events'
 import filters from './assets/generated/filters'
 import config from './config.js'
-import { writePrintRoutes } from './tools/lib/contentUtilities.js'
+import vuetify from 'vite-plugin-vuetify'
+// import { writePrintRoutes } from './tools/lib/contentUtilities.js'
 
 EventEmitter.defaultMaxListeners = 20
-export default {
-  env: { config },
+export default defineNuxtConfig({
+  runtimeConfig: { public: config },
   server: {
     port: 3000, // par défaut: 3000
     host: '0.0.0.0', // par défaut: localhost
@@ -185,27 +186,18 @@ export default {
     }, */
   },
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: ['@mdi/font/css/materialdesignicons.min.css'],
-
-  // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [
-    '~/plugin/config',
-    { src: '~plugin/i18n-config.js' },
-    { src: '~/plugin/vuetify-theme', mode: 'client' },
-    /*  { src: '~/plugin/apollo-config', mode: 'client' }, */
-    { src: '~/plugin/vue-youtube', mode: 'client' },
-    '~/plugin/jsonld',
-    /*    { src: '~/plugin/vuex-persist', ssr: false }, */
-  ],
+  css: ['vuetify/lib/styles/main.sass', 'assets/variables.scss', '@mdi/font/css/materialdesignicons.min.css'],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: {
+    global: true,
     loader: true,
     dirs: [{ path: '~/components', pathPrefix: false }],
   },
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
+    '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/eslint
     '@nuxtjs/eslint-module',
     // https://go.nuxtjs.dev/vuetify
@@ -214,106 +206,42 @@ export default {
     'nuxt-compress',
     // https://github.com/nuxt-community/style-resources-module
     '@nuxtjs/style-resources',
-    '@nuxt/image',
     // https://github.com/nuxt-community/html-validator-module#readme
     /*     '@nuxtjs/html-validator', */
     // https://ackee.nuxtjs.org/
     '@nuxtjs/ackee',
-    '@nuxtjs/composition-api/module',
+    '@nuxtjs/google-fonts',
     // https://github.com/ch99q/nuxt-pdf
     /*     '~/modules/nuxt-pdf', */
-    '~/modules/publio',
+    // '~/modules/publio',
   ],
-
-  pdf: {
-    /*
-     * Output folder for generated pdf.
-     */
-    dir: 'static',
-
-    /*
-     * Function options for page.pdf([options])
-     * Read more: https://pptr.dev/#?product=Puppeteer&version=v2.0.0&show=api-pagepdfoptions
-     */
-    pdf: {
-      // Change the format of the pdfs.
-      format: 'A4', // This is optional
-      printBackground: true, // Include background in pdf.
-      displayHeaderFooter: true,
-      footerTemplate: `
-        <div style="z-index: 1000; width: 100%; font-size: 8px;padding: 5px 5px 0; position: relative;">
-          <div style="position: absolute; right: 5px; top: 5px;">
-            <span class="pageNumber"></span> of <span class="totalPages"></span>
-          </div>
-        </div>`,
-      margin: { bottom: '70px' },
-    },
-
-    /*
-     * Function options for page.setViewport([options])
-     * Read more: https://pptr.dev/#?product=Puppeteer&version=v2.0.0&show=api-pagesetviewportviewport
-     */
-    viewport: {
-      // override the default viewport
-      width: 2048,
-      height: 3508,
-    },
-
-    /*
-     * Enable i18n support.
-    // TODO: reactivate
-     */
-    i18n: false,
-
-    /*
-     * Add options to the puppeteer launch.
-     * Read more: https://pptr.dev/#?product=Puppeteer&version=v2.0.0&show=api-puppeteerlaunchoptions
-     */
-    /*     puppeteer: {
-      // Puppeteer options here... E.g. env: {}
-    }, */
-
-    /*
-     * PDF Meta configuration. (inspired by vue-meta)
-     */
-    meta: {
-      title: '%s',
-      titleTemplate: 'PIAS ─ %s',
-    },
-
-    /*
-     * PDF generation routes. (expanding nuxt.generate)
-     */
-    routes: async () => await writePrintRoutes(),
-  },
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-    // https://go.nuxtjs.dev/axios
-    '@nuxtjs/axios',
-    // https://auth.nuxtjs.org/api/auth/
-    /*  '@nuxtjs/auth', */
-    // https://go.nuxtjs.dev/pwa
-    '@nuxtjs/pwa',
-    // https://go.nuxtjs.dev/content
     '@nuxt/content',
-    // https://github.com/nuxt-community/i18n-module
     '@nuxtjs/i18n',
-    // https://sitemap.nuxtjs.org/
-    '@nuxtjs/sitemap',
-    // https://github.com/nuxt-community/robots-module
     '@nuxtjs/robots',
-
-    // https://sentry.nuxtjs.org/
-    '@nuxtjs/sentry',
-    // https://github.com/nuxt-community/apollo-module
-    /*  '@nuxtjs/apollo', */
-    // https://github.com/f/vue-wait
-    /*   ['vue-wait/nuxt', { useVuex: true }], */
+    'nuxt-jsonld',
+    '@nuxt/image-edge',
+    [
+      '@pinia/nuxt',
+      { autoImports: ['defineStore'] }
+    ],
+    (_options, nuxt) => {
+      nuxt.hooks.hook('vite:extendConfig', config => config.plugins.push(
+        vuetify({
+          styles: { configFile: 'assets/variables_test.scss' }
+        })
+      ))
+    }
   ],
   // XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
   // MODULES CONFIGURATIONS
   // XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+  'nuxt-jsonld': {
+    space: process.env.NODE_ENV === 'production' ? 0 : 2, // default: 2
+  },
   /*
    ** Sentry module configuration
    ** https://github.com/nuxt-community/sentry-module#options
@@ -334,7 +262,7 @@ export default {
     ignoreOwnVisits: false,
   },
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
-  axios: {},
+  // axios: {},
 
   // PWA module configuration (https://pwa.nuxtjs.org/setup)
   pwa: {
@@ -432,12 +360,12 @@ export default {
    ** Sitemap module configuration
    ** https://github.com/nuxt-community/sitemap-module#setup-a-sitemap
    */
-  sitemap: {
-    hostname: config.url,
-    gzip: true,
-    exclude: [],
-    icons: [],
-  },
+  // sitemap: {
+  //   hostname: config.url,
+  //   gzip: true,
+  //   exclude: [],
+  //   icons: [],
+  // },
   styleResources: {
     scss: [
       './assets/*.scss',
@@ -497,41 +425,41 @@ export default {
     authenticationType: '',
   }, */
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
-  vuetify: {
-    customVariables: ['~/assets/variables.scss'],
-    iconfont: 'mdi',
-    options: {
-      customProperties: true,
-    },
-    defaultAssets: {
-      font: false,
-      icons: false,
-    },
-    treeShake: true,
-    theme: {
-      dark: config.theme.dark,
-      themes: {
-        dark: {
-          primary: config.theme.themes.dark.primary,
-          accent: config.theme.themes.dark.accent,
-          secondary: config.theme.themes.dark.secondary,
-          info: config.theme.themes.dark.info,
-          warning: config.theme.themes.dark.warning,
-          error: config.theme.themes.dark.error,
-          success: config.theme.themes.dark.success,
-        },
-        light: {
-          primary: config.theme.themes.light.primary,
-          accent: config.theme.themes.light.accent,
-          secondary: config.theme.themes.light.secondary,
-          info: config.theme.themes.light.info,
-          warning: config.theme.themes.light.warning,
-          error: config.theme.themes.light.error,
-          success: config.theme.themes.light.success,
-        },
-      },
-    },
-  },
+  // vuetify: {
+  //   customVariables: ['~/assets/variables.scss'],
+  //   iconfont: 'mdi',
+  //   options: {
+  //     customProperties: true,
+  //   },
+  //   defaultAssets: {
+  //     font: false,
+  //     icons: false,
+  //   },
+  //   treeShake: true,
+  //   theme: {
+  //     dark: config.theme.dark,
+  //     themes: {
+  //       dark: {
+  //         primary: config.theme.themes.dark.primary,
+  //         accent: config.theme.themes.dark.accent,
+  //         secondary: config.theme.themes.dark.secondary,
+  //         info: config.theme.themes.dark.info,
+  //         warning: config.theme.themes.dark.warning,
+  //         error: config.theme.themes.dark.error,
+  //         success: config.theme.themes.dark.success,
+  //       },
+  //       light: {
+  //         primary: config.theme.themes.light.primary,
+  //         accent: config.theme.themes.light.accent,
+  //         secondary: config.theme.themes.light.secondary,
+  //         info: config.theme.themes.light.info,
+  //         warning: config.theme.themes.light.warning,
+  //         error: config.theme.themes.light.error,
+  //         success: config.theme.themes.light.success,
+  //       },
+  //     },
+  //   },
+  // },
 
   /*
    ** Page Layout transition
@@ -547,17 +475,29 @@ export default {
       console.log('TRANSITION : afterLeave', el)
     },
   },
+  vue: {
+    config: {
+      productionTip: false,
+      devtools: true
+    }
+  },  
+  vite: {
+    define: {
+      'process.env.DEBUG': false,
+    },
+  },
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+    transpile: ["vuetify"],
     standalone: true,
     babel: {
       compact: true,
     },
-    extend(config, ctx) {
+    extend(_config, ctx) {
       // extend source map to enable local debug in VScode (breakpoints & co)
       if (ctx.isDev) {
         config.devtool = ctx.isClient ? 'source-map' : 'inline-source-map'
       }
     },
   },
-}
+})

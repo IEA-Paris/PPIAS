@@ -3,26 +3,12 @@
     <PageTitle :text="$t('privacy')" />
     <v-row justify="center">
       <v-col cols="12" md="8" lg="6" xl="5">
-        <nuxt-content :document="page" />
+        <ContentRenderer class="nuxt-content" :value="page" />
       </v-col>
     </v-row>
   </PageContainer>
 </template>
 <script>
-export default {
-  props: {},
-  async asyncData({ $content }) {
-    const page = await $content('pages/privacy').fetch()
-    return {
-      page,
-    }
-  },
-  data() {
-    return {}
-  },
-  computed: {},
-  mounted() {},
-  methods: {},
-}
+const {data: page} = await useAsyncData('privacy-page', () => queryContent('pages/privacy').findOne())
 </script>
 <style lang="scss"></style>

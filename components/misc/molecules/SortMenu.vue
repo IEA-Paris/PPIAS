@@ -4,12 +4,12 @@
       <v-tooltip bottom>
         <template #activator="{ on: tooltip }">
           <v-btn
-            x-large
+            size="x-large"
+            variant="icon"
             tile
-            icon
             v-bind="attrs"
             :class="{
-              'mt-3': $vuetify.breakpoint.xs,
+              'mt-3': isXsDisplay,
             }"
             v-on="{ ...tooltip, ...menu }"
           >
@@ -38,54 +38,49 @@
     </v-list>
   </v-menu>
 </template>
-<script>
+<script setup>
+import { useDisplay } from 'vuetify'
+import { useRootStore } from '~/store/root';
 import lists from '~/assets/data/lists'
-export default {
-  props: {
-    type: {
-      type: String,
-      default: 'articles',
-      required: true,
-    },
+
+const { xs: isXsDisplay } = useDisplay()
+const rootStore = useRootStore()
+
+const props = defineProps({
+  type: {
+    type: String,
+    default: 'articles',
+    required: true,
   },
-  data() {
-    return {
-      items: lists[this.type].sort,
-      defaultSort:
-        lists[this.type].sort[
-          Object.keys(lists[this.type].sort).find(
-            (item) => lists[this.type].sort[item].default === true
+})
+const items = reactive(lists[props.type].sort)
+const defaultSort = reactive(lists[props.type].sort[
+      Object.keys(lists[props.type].sort).find(
+        (item) => lists[props.type].sort[item].default === true
+      )
+    ])
+
+const current = computed(() => {
+  try {
+    const current =
+      items[
+        Object.keys(items).find((item) => {
+          return (
+            items[item].value.join('') ===
+            (rootStore.getChildrenStore(props.type).sortBy[0] || defaultSort.value[0]) +
+              (rootStore.getChildrenStore(props.type).sortDesc ? 'desc' : 'asc')
           )
-        ],
-    }
-  },
-  computed: {
-    current() {
-      try {
-        const current =
-          this.items[
-            Object.keys(this.items).find((item) => {
-              return (
-                this.items[item].value.join('') ===
-                (this.$store.state[this.type].sortBy[0] ||
-                  this.defaultSort.value[0]) +
-                  (this.$store.state[this.type].sortDesc ? 'desc' : 'asc')
-              )
-            })
-          ] || this.items[Object.keys(this.items).find((item) => item.default)]
-        return current
-      } catch (error) {
-        console.log('error: ', error)
-        return this.items[Object.keys(this.items).find((item) => item.default)]
-      }
-    },
-  },
-  mounted() {},
-  methods: {
-    async updateSort(value) {
-      await this.$store.dispatch('updateSort', { value, type: this.type })
-    },
-  },
+        })
+      ] || items[Object.keys(items).find((item) => item.default)]
+    return current
+  } catch (error) {
+    console.log('error: ', error)
+    return items[Object.keys(items).find((item) => item.default)]
+  }
+})
+
+const updateSort = (value) => {
+  rootStore.setSort({ type: props.type, value })
 }
 </script>
 <style lang="scss"></style>

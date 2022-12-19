@@ -1,7 +1,7 @@
 <template>
   <v-select
-    v-bind="$attrs"
-    :ref="type + filter"
+    v-bind="attrs"
+    :ref="`refs.${type + filter}`"
     v-model="selected"
     v-scroll="blur"
     menu-props="offset-y"
@@ -17,48 +17,49 @@
   ></v-select>
 </template>
 
-<script>
-export default {
-  props: {
-    type: {
-      type: String,
-      default: '',
-      required: true,
-    },
-    filter: {
-      type: String,
-      default: '',
-      required: true,
-    },
-    multiple: {
-      type: Boolean,
-      default: true,
-    },
-  },
-  data() {
-    return {}
-  },
+<script setup>
+import { useRootStore } from '~/store/root';
 
-  computed: {
-    selected: {
-      get() {
-        return this.$store.state[this.type].filters[this.filter]
-      },
-      set(value) {
-        this.$store.dispatch('updateFilters', {
-          filters: { [this.filter]: value },
-          type: this.type,
-        })
-      },
-    },
+const rootStore = useRootStore()
+const attrs = useAttrs()
+const refs = {
+  [props.type + props.filter]: ref(null),
+}
+
+const props = defineProps({
+  type: {
+    type: String,
+    default: '',
+    required: true,
   },
-  created() {},
-  beforeCreate() {},
-  methods: {
-    blur() {
-      this.$refs[this.type + this.filter].blur()
-    },
+  filter: {
+    type: String,
+    default: '',
+    required: true,
   },
+  multiple: {
+    type: Boolean,
+    default: true,
+  },
+})
+
+const selected = computed({
+  get() {
+    return rootStore.getChildrenStore(props.type).filters[props.filter]
+  },
+  set(value) {
+    rootStore.updateFilters({
+      filters: { [props.filter.value]: value },
+      type: props.type,
+    })
+  },
+})
+
+const blur = () => {
+  const ref = refs[props.type + props.filter]
+  if (ref) {
+    ref.blur()
+  }
 }
 </script>
 <style scoped></style>

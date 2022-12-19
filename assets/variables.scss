@@ -1,104 +1,118 @@
 // Ref: https://github.com/nuxt-community/vuetify-module#customvariables
 //
-@import '~vuetify/src/styles/settings/_variables';
+// @import '~vuetify/src/styles/settings/_variables';
 
-@media #{map-get($display-breakpoints, 'xs-only')} {
-  html,
-  body {
-    overflow-x: hidden;
-  }
-}
+
+// @media #{map-get($display-breakpoints, 'xs-only')} {
+//   html,
+//   body {
+//     overflow-x: hidden;
+//   }
+// }
 // The variables you want to modify
-// $font-size-root: 20px;
+$font-size-root: 20px;
 $fortnightly-font-size: 16;
 $fortnightly-heading-font-style: italic;
 $fortnightly-primary-color: #6b38fb;
 // Preset variables
-$body-font-family: 'Open sans', sans-serif;
+$body-font-family: 'Open sans';
 $border-radius-root: 0;
 $btn-font-weight: 700;
-$heading-font-family: 'Bodoni Moda', sans-serif;
-$headings: (
-  'h1': (
-    'font-family': $heading-font-family,
-    'letter-spacing': initial,
-    'size': #{96 / $fortnightly-font-size}rem,
-    'weight': 900,
-  ),
-  'h2': (
-    'font-family': $body-font-family,
-    'letter-spacing': initial,
-    'size': #{60 / $fortnightly-font-size}rem,
-    'weight': 300,
-  ),
-  'h3': (
-    'font-family': $heading-font-family,
-    'letter-spacing': initial,
-    'size': #{48 / $fortnightly-font-size}rem,
-    'weight': 900,
-  ),
-  'h4': (
-    'font-family': $body-font-family,
-    'letter-spacing': initial,
-    'size': #{34 / $fortnightly-font-size}rem,
-    'weight': 400,
-  ),
-  'h5': (
-    'font-family': $body-font-family,
-    'letter-spacing': initial,
-    'size': #{24 / $fortnightly-font-size}rem,
-    'weight': 400,
-  ),
-  'h6': (
-    'font-family': $heading-font-family,
-    'letter-spacing': initial,
-    'size': #{20 / $fortnightly-font-size}rem,
-    'weight': 700,
-  ),
-  'subtitle-1': (
-    'font-family': $body-font-family,
-    'letter-spacing': initial,
-    'size': #{16 / $fortnightly-font-size}rem,
-    'weight': 500,
-  ),
-  'subtitle-2': (
-    'font-family': $heading-font-family,
-    'letter-spacing': initial,
-    'size': #{14 / $fortnightly-font-size}rem,
-    'weight': 500,
-  ),
-  'body-1': (
-    'font-family': $heading-font-family,
-    'letter-spacing': initial,
-    'size': #{16 / $fortnightly-font-size}rem,
-    'weight': 400,
-  ),
-  'body-2': (
-    'font-family': $body-font-family,
-    'letter-spacing': initial,
-    'size': #{14 / $fortnightly-font-size}rem,
-    'weight': 400,
-  ),
-  'caption': (
-    'font-family': $heading-font-family,
-    'letter-spacing': initial,
-    'size': #{12 / $fortnightly-font-size}rem,
-    'weight': 400,
-  ),
-  'overline': (
-    'font-family': $body-font-family,
-    'letter-spacing': initial,
-    'size': #{10 / $fortnightly-font-size}rem,
-    'weight': 700,
-  ),
-);
-$icon-outlined-border-width: 2px;
-$material-light: (
-  'app-bar': #ffffff,
-  'background': #ffffff,
-  'chips': #ffffff,
-);
-$stepper-elevation: 0;
+$heading-font-family: 'Bodoni Moda';
+
+
+
+// @use 'vuetify/settings' with (
+//   // $fortnightly-font-size: 16,
+//   // $fortnightly-heading-font-style: italic,
+//   // $fortnightly-primary-color: #6b38fb,
+//   // Preset variables
+//   $body-font-family: 'Open sans',
+//   $border-radius-root: 0,
+//   $btn-font-weight: 700,
+//   $heading-font-family: 'Bodoni Moda',
+//   $typography: (
+//     'h1': (
+//       'font-family': $heading-font-family,
+//       'letter-spacing': initial,
+//       'size': calc(96 / $fortnightly-font-size)rem,
+//       'weight': 900,
+//     ),
+//     'h2': (
+//       'font-family': $body-font-family,
+//       'letter-spacing': initial,
+//       'size': calc(60 / $fortnightly-font-size)rem,
+//       'weight': 300,
+//     ),
+//     'h3': (
+//       'font-family': $heading-font-family,
+//       'letter-spacing': initial,
+//       'size': calc(48 / $fortnightly-font-size)rem,
+//       'weight': 900,
+//     ),
+//     'h4': (
+//       'font-family': $body-font-family,
+//       'letter-spacing': initial,
+//       'size': calc(34 / $fortnightly-font-size)rem,
+//       'weight': 400,
+//     ),
+//     'h5': (
+//       'font-family': $body-font-family,
+//       'letter-spacing': initial,
+//       'size': calc(24 / $fortnightly-font-size)rem,
+//       'weight': 400,
+//     ),
+//     'h6': (
+//       'font-family': $heading-font-family,
+//       'letter-spacing': initial,
+//       'size': calc(20 / $fortnightly-font-size)rem,
+//       'weight': 700,
+//     ),
+//     'subtitle-1': (
+//       'font-family': $body-font-family,
+//       'letter-spacing': initial,
+//       'size': calc(16 / $fortnightly-font-size)rem,
+//       'weight': 500,
+//     ),
+//     'subtitle-2': (
+//       'font-family': $heading-font-family,
+//       'letter-spacing': initial,
+//       'size': calc(14 / $fortnightly-font-size)rem,
+//       'weight': 500,
+//     ),
+//     'body-1': (
+//       'font-family': $heading-font-family,
+//       'letter-spacing': initial,
+//       'size': calc(16 / $fortnightly-font-size)rem,
+//       'weight': 400,
+//     ),
+//     'body-2': (
+//       'font-family': $body-font-family,
+//       'letter-spacing': initial,
+//       'size': calc(14 / $fortnightly-font-size)rem,
+//       'weight': 400,
+//     ),
+//     'caption': (
+//       'font-family': $heading-font-family,
+//       'letter-spacing': initial,
+//       'size': calc(12 / $fortnightly-font-size)rem,
+//       'weight': 400,
+//     ),
+//     'overline': (
+//       'font-family': $body-font-family,
+//       'letter-spacing': initial,
+//       'size': calc(10 / $fortnightly-font-size)rem,
+//       'weight': 700,
+//     ),
+//   ),
+//   $icon-outlined-border-width: 2px,
+//   $material-light: (
+//     'app-bar': #ffffff,
+//     'background': #ffffff,
+//     'chips': #ffffff,
+//   ),
+//   $stepper-elevation: 0
+// );
 
 .v-card__title {
   word-break: normal;

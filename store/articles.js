@@ -1,4 +1,5 @@
 import lists from '~/assets/data/lists'
+
 const defaultView =
   lists.articles.views[
     Object.keys(lists.articles.views).find(
@@ -12,30 +13,31 @@ const defaultSort = [
     )
   ],
 ]
-
-export const state = () => ({
-  type: 'articles',
-  items: [],
-  total: 0,
-  filters: {
-    years: [],
-    tags: [],
-    language: [],
-    thematic: [],
-    discipline: [],
-    type: [],
-  },
-  style: 'APA',
-  loading: [],
-  skip: 0,
-  limit: lists.articles.perPage.default,
-  search: '',
-  page: 1,
-  view: defaultView.name,
-  sortBy: [defaultSort[0].value[0]],
-  sortDesc: defaultSort[0].value[1] === 'desc',
-  numberOfPages: 0,
-  itemsPerPage: lists.articles.perPage.default,
-  itemsPerPageArray: lists.articles.perPage.options,
-  filtersCount: 0,
+export const useArticlesStore = defineStore('articlesStore', {
+  state: () => ({
+    type: 'articles',
+    items: [],
+    total: 0,
+    filters: {
+      years: [],
+      tags: [],
+      language: [],
+      thematic: [],
+      discipline: [],
+      type: [],
+    },
+    style: 'APA',
+    loading: [],
+    skip: 0,
+    limit: lists.articles.perPage.default,
+    search: '',
+    page: 1,
+    view: defaultView.name,
+    sortBy: [defaultSort[0].value[0]],
+    sortDesc: defaultSort[0].value[1] === 'desc',
+    numberOfPages: 0,
+    itemsPerPage: lists.articles.perPage.default,
+    itemsPerPageArray: lists.articles.perPage.options,
+    filtersCount: 0,
+  })
 })

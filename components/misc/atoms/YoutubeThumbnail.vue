@@ -17,21 +17,8 @@
     </template>
   </Item>
 </template>
-<script>
-// export component
-export default {
-  props: {
-    item: {
-      required: true,
-      type: Object,
-    },
-  },
-  data() {
-    return {}
-  },
-  mounted() {},
-  methods: {},
-}
+<script setup>
+const props = defineProps({ item: Object })
 </script>
 
 <style>

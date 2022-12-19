@@ -26,55 +26,61 @@
     </template>
   </div>
 </template>
-<script>
+<script setup>
 import { formatAuthors, highlight } from '~/assets/utils/transforms'
-import ArticleAuthorsMixin from '~/mixins/ArticleAuthorsMixin'
+import { useRootStore } from '~/store/root';
+import { useI18n } from 'vue-i18n'
+import useArticleAuthors from '~/composables/articles/useArticleAuthors'
 
-export default {
-  mixins: [ArticleAuthorsMixin],
-  props: {
-    authors: {
-      required: true,
-      type: Array,
-    },
-    full: {
-      required: false,
-      type: Boolean,
-      default: false,
-    },
-    initials: {
-      required: false,
-      type: Boolean,
-      default: true,
-    },
-    link: {
-      required: false,
-      type: Boolean,
-      default: false,
-    },
-    showInstitution: {
-      required: false,
-      type: Boolean,
-      default: false,
-    },
+const rootStore = useRootStore()
+const { t } = useI18n()
+
+const props = defineProps({
+  haveInstitutionsLink: {
+    required: false,
+    type: Boolean,
+    default: false,
   },
-  computed: {},
-  mounted() {},
-  methods: {
-    formatAuthorsProxy() {
-      return highlight(
-        formatAuthors(
-          this.authors,
-          this.$i18n.$t,
-          this.full,
-          this.initials,
-          this.$config.url
-        ),
-        this.$store.state.articles.search || ''
-      )
-    },
+  authors: {
+    required: true,
+    type: Array,
   },
+  full: {
+    required: false,
+    type: Boolean,
+    default: false,
+  },
+  initials: {
+    required: false,
+    type: Boolean,
+    default: true,
+  },
+  link: {
+    required: false,
+    type: Boolean,
+    default: false,
+  },
+  showInstitution: {
+    required: false,
+    type: Boolean,
+    default: false,
+  },
+})
+
+const formatAuthorsProxy = () => {
+  return highlight(
+    formatAuthors(
+      props.authors,
+      t,
+      props.full,
+      props.initials,
+      useRuntimeConfig().public.url
+    ),
+    rootStore.getChildrenStore('articles').search || ''
+  )
 }
+
+const { authorInformations, getFormatedAuthors, getFormatedInstitution, slugify } = useArticleAuthors(props.authors)
 </script>
 <style lang="scss">
 .authors {

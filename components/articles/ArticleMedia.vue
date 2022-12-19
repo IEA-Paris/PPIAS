@@ -25,20 +25,12 @@
     </v-row>
   </div>
 </template>
-<script>
-export default {
-  props: {
-    item: {
-      type: Object,
-      default: () => {},
-    },
+<script setup>
+const props = defineProps({
+  item: {
+    type: Object,
+    default: () => {},
   },
-  data() {
-    return {}
-  },
-  computed: {},
-  mounted() {},
-  methods: {},
-}
+})
 </script>
 <style lang="scss"></style>

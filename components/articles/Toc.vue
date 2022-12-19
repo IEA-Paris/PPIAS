@@ -57,7 +57,7 @@
           :href="
             customPdf && customPdf.length
               ? customPdf
-              : '/pdfs/' + $route.params.slug + '.pdf'
+              : '/pdfs/' + route.params.slug + '.pdf'
           "
           nuxt
           target="_blank"
@@ -72,81 +72,73 @@
     </v-tooltip>
   </aside>
 </template>
-<script>
-import { nextTick } from 'process'
+<script setup>
 
-export default {
-  props: {
-    toc: {
-      type: Array,
-      required: true,
-      default: () => [],
-    },
-    title: {
-      type: [Boolean, String],
-      required: false,
-      default: false,
-    },
-    activeToc: {
-      type: String,
-      required: false,
-      default: '',
-    },
-    customPdf: {
-      type: [Boolean, String],
-      required: true,
-      default: '',
-    },
-  },
-  data() {
-    return {
-      scrolling: false,
-      intersected: {},
-    }
-  },
-  computed: {},
-  async updated() {
-    try {
-      if (
-        this.activeToc &&
-        !this.scrolling &&
-        !this.intersected['toc_' + this.activeToc]
-      ) {
-        const currentRef = '#toc_' + this.activeToc
-        this.scrolling = true
+const router = useRouter()
+const route = useRoute()
+const nuxtApp = useNuxtApp()
 
-        await this.$vuetify.goTo(CSS.escape(currentRef), {
-          container: '#toc',
-          offset: 100,
-          easing: 'easeInOutQuint',
-        })
-        this.scrolling = false
-      }
-    } catch (error) {
-      console.log('error: ', error)
-    }
+const props = defineProps({
+  toc: {
+    type: Array,
+    required: true,
+    default: () => [],
   },
-  mounted() {},
-  methods: {
-    onIntersect(entries, observer) {
-      this.intersected[entries[0].target.id] = entries[0].isIntersecting
-    },
-    moveTo(selector) {
-      this.$nextTick(() => {
-        try {
-          this.$vuetify.goTo('#' + CSS.escape(selector), { offset: 100 })
-          this.$router.replace({ hash: '#' + CSS.escape(selector) })
-          this.$emit('clickItem', selector)
-        } catch (error) {
-          console.log('error: ', error)
-        }
+  title: {
+    type: [Boolean, String],
+    required: false,
+    default: false,
+  },
+  activeToc: {
+    type: String,
+    required: false,
+    default: '',
+  },
+  customPdf: {
+    type: [Boolean, String],
+    required: true,
+    default: '',
+  },
+})
+
+const scrolling = ref(false)
+const intersected = reactive({})
+const emit = defineEmits(['clickItem'])
+
+updated(async () => {
+  try {
+    if (
+      props.activeToc &&
+      !scrolling.value &&
+      !intersected['toc_' + props.activeToc]
+    ) {
+      const currentRef = '#toc_' + props.activeToc
+      scrolling.value = true
+
+      await nuxtApp.$vuetify.goTo(CSS.escape(currentRef), {
+        container: '#toc',
+        offset: 100,
+        easing: 'easeInOutQuint',
       })
-    },
-  },
+      scrolling.value = false
+    }
+  } catch (error) {
+    console.log('error: ', error)
+  }
+})
+
+const onIntersect = (entries, observer) => {
+  intersected[entries[0].target.id] = entries[0].isIntersecting
+}
+
+const moveTo = (selector) => {
+  nuxtApp.$vuetify.goTo('#' + CSS.escape(selector), { offset: 100 })
+  router.replace({ hash: '#' + CSS.escape(selector) })
+  emit('clickItem', selector)
 }
 </script>
 <style lang="scss">
-@import '~vuetify/src/styles/settings/_variables';
+@use 'vuetify/settings';
 /* .container {
   display: flex;
   justify-content: space-around;
@@ -210,7 +202,7 @@ aside.toc {
   display: flex;
   align-items: center;
 }
-@media #{map-get($display-breakpoints, 'xs-only')} {
+@media #{map-get(settings.$display-breakpoints, 'xs')} {
   aside.toc {
     margin-left: 0;
     padding-right: 15px;

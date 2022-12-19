@@ -1,9 +1,9 @@
 <template>
   <div class="transition-swing">
     <v-card
-      v-if="$store.state.loading"
+      v-if="rootStore.loading"
       class="d-flex transition-swing"
-      :class="[$store.state.scrolled ? 'py-3' : 'py-1']"
+      :class="[rootStore.scrolled ? 'py-3' : 'py-1']"
       flat
     >
       <v-skeleton-loader type="image" width="200"></v-skeleton-loader>
@@ -33,9 +33,9 @@
     <v-card
       v-else
       nuxt
-      :to="localePath('/articles/' + item.slug)"
+      :to="localePath('/articles/' + item._path.split('/').at(-1))"
       class="d-flex transition-swing"
-      :class="[$store.state.scrolled ? 'py-3' : 'py-1']"
+      :class="[rootStore.scrolled ? 'py-3' : 'py-1']"
       flat
     >
       <div class="list-image d-flex">
@@ -128,7 +128,7 @@
               class="article-abstract"
               v-html="highlightWord(item.abstract)"
             ></div>
-            <v-btn class="mt-6" tile outlined>{{ $t('read-more') }}</v-btn>
+            <v-btn class="mt-6" tile variant="outlined">{{ $t('read-more') }}</v-btn>
           </div>
         </template>
       </div>
@@ -136,37 +136,29 @@
     <v-divider></v-divider>
   </div>
 </template>
-<script>
-import { highlight } from '~/assets/utils/transforms'
-export default {
-  props: {
-    item: {
-      required: true,
-      type: Object,
-    },
-    index: {
-      required: true,
-      type: Number,
-    },
-    excerpt: {
-      required: false,
-      type: Boolean,
-      default: true,
-    },
+<script setup>
+import { useRootStore } from '~/store/root';
+import useHighlightWord from '~/composables/utils/useHighlightWord';
+
+const rootStore = useRootStore();
+
+const props = defineProps({
+  item: {
+    required: true,
+    type: Object,
   },
-  data() {
-    return {}
+  index: {
+    required: true,
+    type: Number,
   },
-  computed: {},
-  created() {},
-  methods: {
-    highlightWord(word = '', query) {
-      return this.$store.state.articles.search
-        ? highlight(word, this.$store.state.articles.search || '')
-        : word
-    },
+  excerpt: {
+    required: false,
+    type: Boolean,
+    default: true,
   },
-}
+})
+
+const { highlightWord } = useHighlightWord(rootStore.getChildrenStore('articles').search)
 </script>
 <style lang="scss" scoped>
 .list-image {

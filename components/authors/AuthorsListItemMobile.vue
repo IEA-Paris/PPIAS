@@ -1,9 +1,9 @@
 <template>
   <div>
     <v-skeleton-loader
-      v-if="$store.state.loading"
+      v-if="rootStore.loading"
       :type="
-        $vuetify.breakpoint.sm && !filter
+        isSmDisplay && !filter
           ? 'list-item-avatar-three-line'
           : 'list-item-three-line'
       "
@@ -12,14 +12,14 @@
     <v-list-item
       v-else
       nuxt
-      :to="localePath('/authors/' + item.slug)"
+      :to="localePath('/authors/' + item._path.split('/').at(-1))"
       class="mb-6 d-flex align-start pl-0"
       :class="index > 0 ? '' : ''"
       flat
     >
       <v-list-item-avatar
         v-if="
-          $vuetify.breakpoint.mdAndUp || ($vuetify.breakpoint.sm && !filter)
+          mdAndUp || (isSmDisplay && !filter)
         "
         x-large
         tile
@@ -39,13 +39,13 @@
       <div
         class="text-h6 author-mobile-title"
         :class="
-          $vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)
+          isXsDisplay || (isSmDisplay && filter)
             ? ' small'
             : ''
         "
       >
         <!--          <ArticleCategories
-            v-if="$vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)"
+            v-if="isXsDisplay || (isSmDisplay && filter)"
             :item="item"
             class="pr-2"
             small
@@ -61,50 +61,46 @@
     </v-list-item>
   </div>
 </template>
-<script>
+<script setup>
 import slugify from '~/assets/utils/slugify'
+import useHighlightWord from '~/composables/utils/useHighlightWord';
+import { useRootStore } from '~/store/root';
+import { useDisplay } from 'vuetify'
 import {
   formatTitleAndInstitutions,
-  highlight,
 } from '~/assets/utils/transforms'
 
-export default {
-  props: {
-    item: {
-      required: true,
-      type: Object,
-    },
-    filter: {
-      required: false,
-      type: Boolean,
-      default: false,
-    },
-    index: {
-      required: true,
-      type: Number,
-    },
+// TODO: Change this composent to use a compasable
+
+const rootStore = useRootStore()
+const localePath = useLocalePath()
+const { xs: isXsDisplay, sm: isSmDisplay, mdAndUp } = useDisplay()
+
+const props = defineProps({
+  item: {
+    required: true,
+    type: Object,
   },
-  data() {
-    return {}
+  filter: {
+    required: false,
+    type: Boolean,
+    default: false,
   },
-  computed: {},
-  mounted() {},
-  methods: {
-    slugifyItem(item) {
-      return slugify(item)
-    },
-    getTitlesAndInstitutions(item) {
-      return item?.positions_and_institutions?.length
-        ? formatTitleAndInstitutions(item.positions_and_institutions)
-        : ''
-    },
-    highlightWord(word = '', query) {
-      return this.$store.state.authors.search
-        ? highlight(word, this.$store.state.authors.search || '')
-        : word
-    },
+  index: {
+    required: true,
+    type: Number,
   },
-}
+})
+
+
+const slugifyItem = (item) => slugify(item)
+
+const getTitlesAndInstitutions = (item) =>
+  item?.positions_and_institutions?.length
+    ? formatTitleAndInstitutions(item.positions_and_institutions)
+    : ''
+
+const { highlightWord } = useHighlightWord(rootStore.getChildrenStore('authors').search)
 </script>
 <style lang="scss" scoped>
 .author-mobile-title.small {

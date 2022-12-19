@@ -10,21 +10,7 @@
     ></v-img
   ></a>
 </template>
-<script>
-export default {
-  props: {
-    doi: {
-      type: String,
-      required: true,
-      default: '',
-    },
-  },
-  data() {
-    return {}
-  },
-  computed: {},
-  mounted() {},
-  methods: {},
-}
+<script setup>
+const props = defineProps({ doi: String })
 </script>
 <style lang="scss"></style>

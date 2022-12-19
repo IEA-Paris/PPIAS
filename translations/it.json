@@ -289,7 +289,7 @@
     "register-to-the-wprn21-newsletter": "Iscriviti alla conferenza WPRN21",
     "gdpr": {
       "checkbox": "Spuntando questa casella, accetto che i dati raccolti dallo IAS di Parigi con questo modulo siano trattati dal dipartimento di comunicazione dell'Istituto. Sono raccolti e trattati ai fini della comunicazione dell'Istituto. La raccolta dei dati è obbligatoria per ricevere la newsletter. I dati non saranno trasmessi a terzi e saranno conservati fino alla richiesta di disiscrizione da parte dell'abbonato.",
-      "text1": "Conformemente al Data Protection Act francese del 6 gennaio 1978, modificato nel 2004, e al Regolamento generale sulla protezione dei dati, potete esercitare i vostri diritti di accesso, rettifica e opposizione contattando l'Istituto all'indirizzo info@wprn.org",
+      "text1": "Conformemente al Data Protection Act francese del 6 gennaio 1978, modificato nel 2004, e al Regolamento generale sulla protezione dei dati, potete esercitare i vostri diritti di accesso, rettifica e opposizione contattando l'Istituto all'indirizzo info{'@'}wprn.org",
       "text2": "Utilizziamo Mailchimp come nostra piattaforma di marketing. Cliccando qui sotto per iscriverti, accetti che le tue informazioni vengano trasferite a Mailchimp per l'elaborazione.",
       "text3": "Scopri di più sulle pratiche di privacy di Mailchimp qui."
     },
@@ -332,7 +332,7 @@
     "share": {
       "1": "Il mio progetto è pubblicato su {0}",
       "2": "{0} Progetto",
-      "3": "Ciao, %0d%0a%0d%0aPer favore controlla questo progetto su WPRN (World Pandemic Research Network) :%0d%0ahttps%3A%2F%2Fwprn.org%2Fitem%2F${this.$route.params.id}%0d%0a%0d%0aSaluti,"
+      "3": "Ciao, %0d%0a%0d%0aPer favore controlla questo progetto su WPRN (World Pandemic Research Network) :%0d%0ahttps%3A%2F%2Fwprn.org%2Fitem%2F{route_params_id}%0d%0a%0d%0aSaluti,"
     },
     "remove": {
       "title": "IL TUO PROGETTO È STATO RIMOSSO CON SUCCESSO DA WPRN",

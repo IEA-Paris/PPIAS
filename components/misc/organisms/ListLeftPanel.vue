@@ -1,18 +1,18 @@
 <template>
   <div class="d-flex flex-column">
     <FiltersDialog
-      v-if="$vuetify.breakpoint.xs"
+      v-if="isXsDisplay"
       v-model="filter"
       :type="type"
       :filter-count="filtersCount"
     />
-    <div v-if="$vuetify.breakpoint.smAndUp" class="d-inline-flex sidebtn">
+    <div v-if="smAndUp" class="d-inline-flex sidebtn">
       <v-tooltip bottom>
         <template #activator="{ on, attrs }">
           <v-btn
             tile
+            variant="text"
             outlined
-            text
             v-bind="attrs"
             class="pa-7 mb-0"
             @click="filter = !filter"
@@ -22,7 +22,7 @@
               {{ filter ? 'mdi-chevron-left' : 'mdi-filter' }}
             </v-icon>
             {{ filter ? '' : $t('filters') }}
-            <!-- {{ $vuetify.breakpoint.name }} -->
+            <!-- {{ nameDisplay }} -->
           </v-btn>
         </template>
         <span v-html="filter ? $t('hide-filters') : $t('show-filters')"></span>
@@ -34,10 +34,10 @@
       class="transition-swing d-flex"
       :fluid="filter"
       :class="{
-        'justify-center': $vuetify.breakpoint.lgAndUp,
-        'flex-row-reverse': $vuetify.breakpoint.smAndUp,
+        'justify-center': lgAndUp,
+        'flex-row-reverse': smAndUp,
       }"
-      :no-gutters="$vuetify.breakpoint.mobile"
+      :no-gutters="isMobileDisplay"
     >
       <v-col
         cols="12"
@@ -47,21 +47,21 @@
         :sm="filter ? 7 : 12"
         class="transition-swing pt-0"
         :class="{
-          'pl-0': filter || $vuetify.breakpoint.xs,
+          'pl-0': filter || isXsDisplay,
         }"
       >
         <v-container
           class="transition-swing pt-0"
-          :fluid="!$store.state.scrolled"
+          :fluid="!rootStore.scrolled"
           :class="{
-            'px-0 mb-3': $store.state.scrolled && $vuetify.breakpoint.xs,
-            'pb-0': $vuetify.breakpoint.smAndUp,
+            'px-0 mb-3': rootStore.scrolled && isXsDisplay,
+            'pb-0': smAndUp,
             'ml-0': filter,
           }"
         >
           <v-row
             class="transition-swing"
-            :no-gutters="!$store.state.scrolled || $vuetify.breakpoint.xs"
+            :no-gutters="!rootStore.scrolled || isXsDisplay"
           >
             <v-col cols="12 transition-swing">
               <div class="text-right">
@@ -70,7 +70,7 @@
               </div>
               <div class="mr-4 text-subtitle-1 grey--text">
                 <v-skeleton-loader
-                  v-if="$store.state.loading"
+                  v-if="rootStore.loading"
                   max-width="300"
                   class="mb-1"
                   type="text"
@@ -83,7 +83,7 @@
                     {{ $t('searching-for-string', [search]) }}
                   </template>
                   <template v-if="filtersCount"
-                    >{{ $tc('with-activefilters-filters', [filtersCount]) }}
+                    >{{ $t('with-activefilters-filters', [filtersCount]) }}
                   </template>
                   <!--  TODO add sort & view info -->
                   <!--            <template v-if="sortBy">
@@ -91,7 +91,7 @@
                </template> -->
                   <template v-if="filtersCount || search">- </template>
                   {{
-                    $tc('total-' + type, total) +
+                    $t('total-' + type, total) +
                     ' - ' +
                     $t('page-current-of-total', {
                       current: page,
@@ -114,12 +114,12 @@
                 prepend-inner-icon="mdi-magnify"
                 single-line
                 color="black"
-                :loading="$nuxt.loading || $store.state.loading"
+                :loading="$nuxt.loading || rootStore.loading"
                 class="transition-swing"
-                :class="{ 'mt-3': $store.state.scrolled }"
+                :class="{ 'mt-3': rootStore.scrolled }"
                 outlined
                 hide-details
-                :dense="$vuetify.breakpoint.smAndDown"
+                :dense="smAndDown"
                 clearable
                 style="min-width: 150px"
               >
@@ -164,13 +164,13 @@
           :filter="filter"
           :type="type"
         ></RegularList>
-        <template v-if="items.length === 0 && $store.state.loading">
+        <template v-if="items.length === 0 && rootStore.loading">
           <div width="100%" class="my-6 ml-6">
             <Loader></Loader>
           </div>
         </template>
         <!-- TODO update for equivalent after removing datatable -->
-        <template v-if="items.length === 0" &&!$store.state.loading>
+        <template v-if="items.length === 0 && !rootStore.loading">
           <template v-if="!filtersCount">
             <div class="my-6 ml-6" width="100%">
               {{ $t('no-result-found') }}
@@ -179,7 +179,7 @@
           <template v-else>
             <div
               width="100%"
-              :class="{ 'ml-6': !$store.state.scrolled }"
+              :class="{ 'ml-6': !rootStore.scrolled }"
               class="my-6"
             >
               {{ $t('no-result-matching-your-filters') }}
@@ -187,7 +187,7 @@
               <v-btn
                 outlined
                 class="my-6"
-                @click="$store.dispatch('resetState', type)"
+                @click="rootStore.resetState(type)"
               >
                 <v-icon left>mdi-refresh</v-icon>
                 {{ $t('reset-filters') }}
@@ -197,7 +197,7 @@
         </template>
       </v-col>
       <v-col
-        v-if="$vuetify.breakpoint.smAndUp && filter"
+        v-if="smAndUp && filter"
         :cols="filter ? 2 : 1"
         :xl="filter ? 2 : 1"
         :lg="filter ? 3 : 1"
@@ -207,16 +207,17 @@
       >
         <v-row class="transition-swing pl-3 pr-0 fill-height">
           <v-col cols="12" :class="filtersSpacing" class="mt-12">
-            <Filters :type="type" /></v-col
-        ></v-row>
+            <Filters :type="type" />
+          </v-col>
+        </v-row>
       </v-col>
     </v-row>
 
     <v-container
-      v-if="!$store.state.loading"
+      v-if="!rootStore.loading"
       class="footer-pagination d-flex transition-swing"
       :class="[
-        $vuetify.breakpoint.smAndDown
+        smAndDown
           ? 'flex-column-reverse align-center'
           : 'justify-space-between',
         { unpadded: filter },
@@ -224,11 +225,11 @@
     >
       <div
         class="perpage-select"
-        :class="$vuetify.breakpoint.smAndDown ? 'text-center' : ''"
+        :class="smAndDown ? 'text-center' : ''"
       >
         <span
           class="grey--text pr-3"
-          :class="{ 'ml-6': !$store.state.scrolled }"
+          :class="{ 'ml-6': !rootStore.scrolled }"
           >{{ $t('items-per-page') }}</span
         >
         <v-select
@@ -238,7 +239,7 @@
           outlined
           flat
           dense
-          :items="$store.state[type].itemsPerPageArray"
+          :items="rootStore.getChildrenStore(type).itemsPerPageArray"
           hide-details
         ></v-select>
       </div>
@@ -254,156 +255,161 @@
     </v-container>
   </div>
 </template>
-<script>
+<script setup>
+import { useRootStore } from '~/store/root';
+import { useDisplay } from 'vuetify'
 import debounce from '~/assets/utils/debounce'
-export default {
-  props: {
-    addBtn: {
-      type: Boolean,
-      required: false,
-      default: false,
-    },
-    type: {
-      type: String,
-      default: '',
-      required: true,
-    },
-    layout: {
-      type: Object,
-      required: true,
-      default: () => {
-        return {
-          cols: 12,
-          xl: 12,
-        }
-      },
-    },
-    pagination: {
-      type: Object,
-      required: false,
-      default: () => {
-        return {}
-      },
-    },
-    addButton: {
-      type: Boolean,
-      required: false,
-      default: false,
-    },
+
+
+const { name: nameDisplay, xs: isXsDisplay, mobile: isMobileDisplay, smAndUp, lgAndUp, smAndDown } = useDisplay()
+const nuxtApp = useNuxtApp()
+
+const rootStore = useRootStore()
+rootStore.setLoading(false)
+const props = defineProps({
+  addBtn: {
+    type: Boolean,
+    required: false,
+    default: false,
   },
-  data() {
-    return {
-      filter: this.$store.state[this.type].filtersCount > 0,
-      debouncedSearch: debounce(function (v) {
-        this.$store.dispatch('updateSearch', { search: v, type: this.type })
-        this.$vuetify.goTo(0)
-      }, 200),
-    }
+  type: {
+    type: String,
+    default: '',
+    required: true,
   },
-  async fetch({ params, store: { dispatch, getters } }) {
-    await dispatch('update', this.type)
-  },
-  computed: {
-    filtersSpacing() {
-      const scrolled = this.$store.state.scrolled
-      switch (this.$vuetify.breakpoint.name) {
-        case 'sm':
-          return scrolled ? 'pt-13 pr-3' : 'pt-11 pr-0'
-
-        case 'md':
-          return scrolled ? 'pt-14 pr-5' : 'pt-11 pr-0'
-
-        case 'lg':
-          return scrolled ? 'pt-11 pr-2' : 'pt-8 pr-0'
-
-        case 'xl':
-          return scrolled ? 'pt-10 pr-3' : 'pt-8 pr-0'
-
-        default:
-          return 'pt-10 pr-3'
+  layout: {
+    type: Object,
+    required: true,
+    default: () => {
+      return {
+        cols: 12,
+        xl: 12,
       }
     },
-    view() {
-      return this.$store.state[this.type].view
+  },
+  pagination: {
+    type: Object,
+    required: false,
+    default: () => {
+      return {}
     },
-    itemsPerPage: {
-      get() {
-        return this.$store.state[this.type].itemsPerPage
-      },
-      async set(v) {
-        await this.$store.dispatch('updateItemsPerPage', {
-          value: v,
-          type: this.type,
-        })
-        this.$vuetify.goTo(0)
-      },
-    },
-    search: {
-      get() {
-        return this.$store.state[this.type].search
-      },
-      set(v) {
-        this.debouncedSearch(v)
-      },
-    },
-    display: {
-      get() {
-        return this.$store.state[this.type].display
-      },
-      async set(v) {
-        await this.$store.dispatch('update', { display: v, type: this.type })
-        this.$vuetify.goTo(0)
-      },
-    },
-    total() {
-      return this.$store.state[this.type].total
-    },
+  },
+  addButton: {
+    type: Boolean,
+    required: false,
+    default: false,
+  },
+})
 
-    numberOfPages() {
-      return this.$store.state[this.type].numberOfPages
-    },
-    page() {
-      return +this.$store.state[this.type].page
-    },
-    sortBy() {
-      return this.$store.state[this.type].sortBy
-    },
-    sortDesc() {
-      return this.$store.state[this.type].sortDesc[0] !== 'asc'
-        ? [false]
-        : [true]
-    },
-    filtersCount() {
-      return this.$store.state[this.type].filtersCount
-    },
-    items() {
-      return this.$store.state[this.type].items
-    },
-  },
-  async mounted() {
-    this.$store.commit('loadRouteQuery', this.type)
-    this.filter =
-      this.$store.state[this.type].filtersCount > 0 ||
-      (this.$route.query.filters &&
-        Object.keys(this.$route.query.filters).length > 0) ||
-      this.$route.query?.search?.length > 0
+const filter = ref(rootStore.getChildrenStore(props.type).filtersCount > 0)
+const debouncedSearch = reactive(debounce(function (v) {
+  rootStore.updateSearch({ search: v, type: props.type })
+}, 200))
 
-    await this.$store.dispatch('update', this.type)
-  },
-  updated() {},
-  methods: {
-    handlePagination(page) {
-      this.$store.dispatch('updatePage', { page, type: this.type })
-      this.$vuetify.goTo(0)
-    },
-    /*     async updatePage(page) {
-      await this.$router.push({
-        query: { ...this.$route.query, page },
-      })
-      this.options.page = +page
-    }, */
-  },
+
+const handlePagination = (page) => {
+  rootStore.updatePage({ page, type: props.type })
+  // nuxtApp.$vuetify.goTo(0)
+  window.scrollTo(0, 0)
 }
+
+
+const filtersSpacing = computed(() => {
+  const scrolled = rootStore.scrolled
+  switch (nameDisplay) {
+    case 'sm':
+      return scrolled ? 'pt-13 pr-3' : 'pt-11 pr-0'
+
+    case 'md':
+      return scrolled ? 'pt-14 pr-5' : 'pt-11 pr-0'
+
+    case 'lg':
+      return scrolled ? 'pt-11 pr-2' : 'pt-8 pr-0'
+
+    case 'xl':
+      return scrolled ? 'pt-10 pr-3' : 'pt-8 pr-0'
+
+    default:
+      return 'pt-10 pr-3'
+  }
+})
+
+const view = computed(() => {
+  return rootStore.getChildrenStore(props.type).view
+})
+
+const total = computed(() => {
+  return rootStore.getChildrenStore(props.type).total
+})
+
+const numberOfPages = computed(() => {
+  return rootStore.getChildrenStore(props.type).numberOfPages
+})
+
+const page = computed(() => {
+  return +rootStore.getChildrenStore(props.type).page
+})
+
+const sortBy = computed(() => {
+  return rootStore.getChildrenStore(props.type).sortBy
+})
+
+const sortDesc = computed(() => {
+  return rootStore.getChildrenStore(props.type).sortDesc[0] !== 'asc'
+      ? [false]
+      : [true]
+})
+
+const filtersCount = computed(() => {
+  return rootStore.getChildrenStore(props.type).filtersCount
+})
+
+const items = computed(() => {
+  return rootStore.getChildrenStore(props.type).items
+})
+
+const itemsPerPage = computed({
+  get() {
+    return rootStore.getChildrenStore(props.type).itemsPerPage
+  },
+  set(value) {
+    rootStore.updateItemsPerPage({ itemsPerPage: value, type: props.type })
+    nuxtApp.$vuetify.goTo(0)
+  },
+})
+
+const search = computed({
+  get() {
+    return rootStore.getChildrenStore(props.type).search
+  },
+  set(value) {
+    debouncedSearch(value)
+  },
+})
+
+const display = computed({
+  get() {
+    return rootStore.getChildrenStore(props.type).display
+  },
+  set(value) {
+    rootStore.updateDisplay({ display: value, type: props.type })
+    nuxtApp.$vuetify.goTo(0)
+  },
+})
+
+onMounted(() => {
+  rootStore.loadRouteQuery(props.type)
+  filter.value = rootStore.getChildrenStore(props.type).filtersCount > 0 ||
+      (route.query.filters &&
+        Object.keys(route.query.filters).length > 0) ||
+      route.query?.search?.length > 0
+
+  rootStore.update(props.type)
+})
+
+useFetch(async () => {
+  rootStore.update(props.type)
+})
 </script>
 <style lang="scss">
 .unpadded {

@@ -53,22 +53,15 @@
     </v-tooltip>
   </div>
 </template>
-<script>
-export default {
-  props: {
-    socials: {
-      type: [Object, Array],
-      required: true,
-      default: () => {},
-    },
+<script setup>
+
+const props = defineProps({
+  socials: {
+    type: [Object, Array],
+    required: true,
+    default: () => {},
   },
-  data() {
-    return {}
-  },
-  computed: {},
-  mounted() {},
-  methods: {},
-}
+})
 </script>
 <style lang="scss">
 .st0 {

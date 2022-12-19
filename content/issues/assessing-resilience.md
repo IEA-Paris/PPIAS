@@ -1,6 +1,7 @@
 ---
 date: 2020-07-15T02:00:00Z
 name_of_the_issue: 'Assessing Territorial Resilience '
+title: Assessing Territorial Resilience
 subtitle: Indicators and Tools for Governance
 cover: ''
 sub-issues: []

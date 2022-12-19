@@ -50,7 +50,7 @@
           cols="12"
           md="9"
           lg="6"
-          :class="$vuetify.breakpoint.smAndUp ? 'mr-12' : ''"
+          :class="smAndUp ? 'mr-12' : ''"
         >
           <Toc
             v-if="item.toc.length"
@@ -67,52 +67,48 @@
     </v-card>
   </v-dialog>
 </template>
-<script>
-export default {
-  props: {
-    type: {
-      type: String,
-      required: false,
-      default: 'articles',
-    },
-    currentlyActiveToc: {
-      type: String,
-      required: false,
-      default: 'articles',
-    },
-    item: {
-      type: Object,
-      default: () => {},
-    },
-    toc: {
-      type: Array,
-      required: true,
-      default: () => [],
-    },
-    title: {
-      type: [Boolean, String],
-      required: false,
-      default: false,
-    },
-    customPdf: {
-      type: [Boolean, String],
-      required: true,
-      default: '',
-    },
+<script setup>
+import { useRootStore } from '~/store/root';
+import { useDisplay } from 'vuetify'
+
+const { smAndUp } = useDisplay()
+const rootStore = useRootStore()
+
+const props = defineProps({
+  type: {
+    type: String,
+    required: false,
+    default: 'articles',
   },
-  data() {
-    return {
-      open: false,
-    }
+  currentlyActiveToc: {
+    type: String,
+    required: false,
+    default: 'articles',
   },
-  computed: {
-    filtersCount() {
-      return this.$store.state[this.type].filtersCount
-    },
+  item: {
+    type: Object,
+    default: () => {},
   },
-  mounted() {},
-  methods: {},
-}
+  toc: {
+    type: Array,
+    required: true,
+    default: () => [],
+  },
+  title: {
+    type: [Boolean, String],
+    required: false,
+    default: false,
+  },
+  customPdf: {
+    type: [Boolean, String],
+    required: true,
+    default: '',
+  },
+})
+
+const open = ref(false)
+
+const filtersCount = computed(() => rootStore.state.getChildrenStore(props.type).filtersCount)
 </script>
 <style scoped lang="scss">
 $input-font-size: 48px;

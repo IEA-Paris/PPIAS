@@ -3,7 +3,7 @@
   <v-card
     id="articleBox"
     ref="articleBox"
-    :width="$vuetify.breakpoint.mdAndUp ? '' : '100%'"
+    :width="mdAndUp ? '' : '100%'"
     height="100%"
     class="article-box d-flex flex-column align-center justify-center transition-swing"
     raised
@@ -49,7 +49,7 @@
       </template> -->
       <template #caption>
         <v-skeleton-loader
-          v-if="$store.state.loading"
+          v-if="rootStore.loading"
           type="header"
         ></v-skeleton-loader>
         <span v-else v-html="highlightWord(item.caption)"></span>
@@ -60,7 +60,7 @@
       <template #date>
         <div class="d-flex px-1">
           <v-skeleton-loader
-            v-if="$store.state.loading"
+            v-if="rootStore.loading"
             type="header"
           ></v-skeleton-loader>
 
@@ -79,29 +79,26 @@
     >
   </v-card>
 </template>
-<script>
+<script setup>
+import { useDisplay } from 'vuetify';
 import { highlight } from '~/assets/utils/transforms'
-export default {
-  props: {
-    item: {
-      required: true,
-      type: Object,
-    },
+import { useRootStore } from '~/store/root';
+
+const { mdAndUp } = useDisplay()
+const rootStore = useRootStore()
+const localePath = useLocalePath()
+const props = defineProps({
+  item: {
+    type: Object,
   },
-  data() {
-    return {
-      size: 250,
-    }
-  },
-  computed: {},
-  mounted() {},
-  methods: {
-    highlightWord(word = '') {
-      return this.$store.state.media.search
-        ? highlight(word, this.$store.state.media.search || '')
-        : word
-    },
-  },
+})
+
+const size = ref(250)
+
+const highlightWord = (word = '') => {
+  return rootStore.media.search
+    ? highlight(word, rootStore.media.search || '')
+    : word
 }
 </script>
 <style scoped>

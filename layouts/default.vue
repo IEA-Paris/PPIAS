@@ -1,15 +1,13 @@
 <template>
   <v-app>
-    <!--     <PlaceHolder v-if="isProd || mdp !== 'ieaftw'" @submit="mdp = $event"></PlaceHolder>
-    <template v-else> -->
     <TopBar />
     <v-main style="padding-bottom: 5rem">
       <v-container fluid>
-        <Nuxt />
+        <slot></slot>
       </v-container>
       <v-fab-transition>
         <v-btn
-          v-show="$store.state.scrolled"
+          v-show="rootStore.scrolled"
           fixed
           tile
           bottom
@@ -20,9 +18,9 @@
           style="background-color: white"
           :class="{
             'mb-16':
-              $vuetify.breakpoint.xs &&
-              $route.name &&
-              !$route.name.startsWith('index'),
+              mobile &&
+              route.name &&
+              !route.name.startsWith('index'),
           }"
           @click.prevent="$vuetify.goTo(0)"
         >
@@ -31,37 +29,27 @@
       </v-fab-transition>
     </v-main>
     <Footer />
-    <!--    </template> -->
   </v-app>
 </template>
 
-<script>
-export default {
-  scrollToTop: true,
-  data() {
-    return {
-      mdp: '',
-      isProd: process.env.NODE_ENV === 'production',
-    }
-  },
+<script setup>
+import { useDisplay } from 'vuetify'
+import { useRootStore } from '~/store/root';
 
-  mounted() {
-    this.$nuxt.$loading.finish = function () {
-      this.clear()
-      this.pause()
-      return this
-    }
-    /*     this.$nextTick(() => {
-      this.$nuxt.$loading.start()
-      setTimeout(() => this.$nuxt.$loading.finish(), 500)
-    }) */
-  },
-  updated() {
-    /*   this.$nextTick(() => {
-      this.$nuxt.$loading.start()
-    }) */
-  },
-  methods: {},
-}
+const { route } = useRouter()
+const rootStore = useRootStore()
+const { mobile } = useDisplay()
+const mdp = ref('')
+const isProd = ref(useRuntimeConfig().NODE_ENV === 'production')
+const nuxtApp = useNuxtApp()
+
+onMounted(() => {
+  const {$loading} = nuxtApp
+  $loading.finish = () => {
+    $loading.clear()
+    $loading.pause()
+    return this
+  }
+})
 </script>
 <style lang="scss"></style>

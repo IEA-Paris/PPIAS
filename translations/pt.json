@@ -289,7 +289,7 @@
     "register-to-the-wprn21-newsletter": "Registe-se para WPRN21",
     "gdpr": {
       "checkbox": "Ao assinalar esta caixa, aceito que os dados recolhidos pelo IAS de Paris a partir deste formulário sejam tratados pelo departamento de comunicação do Instituto, sendo recolhidos e tratados para efeitos de comunicação do Instituto. A recolha de dados é obrigatória para receber o boletim informativo. Os dados não serão transmitidos a terceiros, sendo conservados até ao pedido do subscritor para cancelar a sua inscrição.",
-      "text1": "Em conformidade com a lei francesa sobre a protecção de dados de 6 de Janeiro de 1978, alterada em 2004, e com o regulamento geral sobre a protecção de dados, pode exercer os seus direitos de acesso, rectificação e oposição, contactando o Instituto através do endereço info@wprn.org",
+      "text1": "Em conformidade com a lei francesa sobre a protecção de dados de 6 de Janeiro de 1978, alterada em 2004, e com o regulamento geral sobre a protecção de dados, pode exercer os seus direitos de acesso, rectificação e oposição, contactando o Instituto através do endereço info{'@'}wprn.org",
       "text2": "Ao clicar abaixo para se inscrever, você reconhece que suas informações serão transferidas para o Mailchimp para processamento.",
       "text3": "Saiba mais sobre as práticas de privacidade do Mailchimp aqui."
     },
@@ -332,7 +332,7 @@
     "share": {
       "1": "O meu projeto é publicado em {0}",
       "2": "{0} Projeto",
-      "3": "Olá,%0d%0a%0d%0d%0aPor favor verifique o seu projeto na WPRN (World Pandemic Research Network) :%0d%0ahttps%3A%2F%2Fwprn.org%2Fitem%2F${this.$route.params.id}%0d%0a%0d%0d%0aAtenciosamente,"
+      "3": "Olá,%0d%0a%0d%0d%0aPor favor verifique o seu projeto na WPRN (World Pandemic Research Network) :%0d%0ahttps%3A%2F%2Fwprn.org%2Fitem%2F{route_params_id}%0d%0a%0d%0d%0aAtenciosamente,"
     },
     "remove": {
       "title": "O SEU PROJETO FOI EXCLUÍDO DA WPRN",

@@ -1,4 +1,4 @@
-import colors from 'vuetify/es5/util/colors'
+// import colors from 'vuetify/es5/util/colors'
 
 export default {
   env: { NODE_ENV: 'dev' },
@@ -50,15 +50,15 @@ export default {
         success: '#4CAF50',
         warning: '#FFC107',
       },
-      dark: {
-        primary: colors.blue,
-        accent: colors.grey.darken3,
-        secondary: colors.grey.darken3,
-        info: colors.teal.lighten1,
-        warning: colors.amber.darken3,
-        error: colors.deepOrange.darken3,
-        success: colors.green.accent3,
-      },
+      // dark: {
+      //   primary: colors.blue,
+      //   accent: colors.grey.darken3,
+      //   secondary: colors.grey.darken3,
+      //   info: colors.teal.lighten1,
+      //   warning: colors.amber.darken3,
+      //   error: colors.deepOrange.darken3,
+      //   success: colors.green.accent3,
+      // },
     },
   },
   identifier: {
@@ -87,8 +87,8 @@ export default {
     },
     fonts: {
       families: {
-        'Bodoni Moda': [500, 700],
-        'Open Sans': [500, 700],
+        'Bodoni+Moda': [500, 700],
+        'Open+Sans': [500, 700],
       },
     },
     bibliography: {

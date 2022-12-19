@@ -1,9 +1,9 @@
 <template>
-  <v-row justify="center" :no-gutters="$vuetify.breakpoint.mobile">
+  <v-row justify="center" :no-gutters="mobile">
     <v-col cols="12" md="12" lg="10" xl="10">
-      <v-card :flat="$vuetify.breakpoint.smAndDown">
+      <v-card :flat="smAndDown">
         <div class="d-flex">
-          <v-btn tile text nuxt small exact class="py-7" @click="goBack">
+          <v-btn tile variant="text" nuxt size="small" exact class="py-7" @click="goBack">
             <v-icon left>mdi-chevron-left</v-icon>
             {{ $t('back') }}
           </v-btn>
@@ -19,7 +19,7 @@
                 :href="
                   item.custom_pdf
                     ? item.custom_pdf
-                    : '/pdfs/' + item.slug + '.pdf'
+                    : '/pdfs/' + item._path.split('/').at(-1) + '.pdf'
                 "
                 target="_blank"
                 :title="item.post_title"
@@ -40,7 +40,7 @@
                 tile
                 v-bind="attrs"
                 nuxt
-                :href="'/articles/' + item.slug"
+                :href="'/articles/' + item._path.split('/').at(-1)"
                 target="_blank"
                 :title="item.post_title"
                 small
@@ -55,7 +55,7 @@
         <div class="d-flex align-center flex-column">
           <div
             class="page-title"
-            :class="$store.state.scrolled ? 'mb-9' : 'mb-6'"
+            :class="rootStore.scrolled ? 'mb-9' : 'mb-6'"
           >
             {{ item.article_title }}
           </div>
@@ -71,7 +71,7 @@
                 class="mb-3 px-3 font-italic authorsBtn"
                 style=""
                 nuxt
-                :to="'/articles/' + item.slug + '#authors'"
+                :to="'/articles/' + item._path.split('/').at(-1) + '#authors'"
                 v-html="formatAuthorsProxy()"
               >
               </v-btn>
@@ -90,31 +90,33 @@
     </v-col>
   </v-row>
 </template>
-<script>
-import { formatAuthors, highlight } from '~/assets/utils/transforms'
-export default {
-  props: {
-    item: {
-      type: Object,
-      default: () => {},
-    },
+<script setup>
+import { _formatAuthors, highlight } from '~/assets/utils/transforms'
+import { useRootStore } from '~/store/root';
+import { useI18n } from 'vue-i18n'
+import { useDisplay } from 'vuetify';
+
+const { smAndDown, mobile } = useDisplay();
+const { t } = useI18n()
+const rootStore = useRootStore()
+const router = useRouter()
+
+const props = defineProps({
+  item: {
+    type: Object,
+    default: () => {},
   },
-  data() {
-    return {}
-  },
-  computed: {},
-  mounted() {},
-  methods: {
-    goBack() {
-      this.$router.go(-1)
-    },
-    formatAuthorsProxy() {
-      return highlight(
-        formatAuthors(this.item.authors, this.$i18n.$t, false),
-        this.$store.state.articles.search || ''
-      )
-    },
-  },
+})
+
+const goBack = () => {
+  router.go(-1)
+}
+
+const formatAuthors = () => {
+  return highlight(
+    _formatAuthors(props.item.authors, t, false),
+    rootStore.state.articles.search || ''
+  )
 }
 </script>
 <style lang="scss">

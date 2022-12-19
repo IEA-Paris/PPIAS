@@ -10,29 +10,18 @@
   </v-app>
 </template>
 
-<script>
-export default {
-  layout: 'empty',
-  props: {
-    error: {
-      type: Object,
-      default: null,
-    },
+<script setup>
+const pageNotFound = ref('404 Not Found')
+const otherError = ref('An error occurred')
+
+const props = defineProps({
+  error: {
+    type: Object,
+    default: null,
   },
-  data() {
-    return {
-      pageNotFound: '404 Not Found',
-      otherError: 'An error occurred',
-    }
-  },
-  head() {
-    const title =
-      this.error.statusCode === 404 ? this.pageNotFound : this.otherError
-    return {
-      title,
-    }
-  },
-}
+})
+const title = props.error.statusCode === 404 ? pageNotFound.value : otherError.value
+useHead({title})
 </script>
 
 <style scoped>

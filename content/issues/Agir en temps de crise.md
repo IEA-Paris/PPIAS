@@ -1,6 +1,7 @@
 ---
 date: 2018-12-31T23:00:00.000+00:00
-name_of_the_issue: 'Agir en Temps de Crise  '
+name_of_the_issue: Agir en Temps de Crise
+title: Agir en Temps de Crise
 cover: "/carton-cycle-crise-pour-genevieve.jpg"
 subtitle: ''
 sub-issues:

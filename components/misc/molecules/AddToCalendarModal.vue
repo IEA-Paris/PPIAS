@@ -8,7 +8,7 @@
 
       <v-card-text>
         <div class="d-flex flex-column">
-          <v-btn color="default" outlined class="my-3">
+          <v-btn color="default" variant="outlined" class="my-3">
             <v-icon left>mdi-google</v-icon>
             <AddToCalendar
               :title="item.title"
@@ -25,7 +25,7 @@
               </google-calendar>
             </AddToCalendar>
           </v-btn>
-          <v-btn color="default" outlined class="my-3">
+          <v-btn color="default" variant="outlined" class="my-3">
             <v-icon left>mdi-microsoft-windows</v-icon>
             <AddToCalendar
               :title="item.title"
@@ -42,7 +42,7 @@
               </microsoft-calendar>
             </AddToCalendar>
           </v-btn>
-          <v-btn color="default" outlined class="my-3">
+          <v-btn color="default" variant="outlined" class="my-3">
             <v-icon left>mdi-microsoft-office</v-icon>
             <AddToCalendar
               :title="item.title"
@@ -66,32 +66,14 @@
 
       <v-card-actions>
         <v-spacer></v-spacer>
-        <v-btn color="primary" text @click="$emit('close')">
+        <v-btn color="primary" variant="text" @click="$emit('close')">
           {{ $t('close') }}
         </v-btn>
       </v-card-actions>
     </v-card>
   </v-dialog>
 </template>
-<script>
-export default {
-  /*    AddToCalendar, */
-  props: {
-    dialog: {
-      type: Boolean,
-      default: false,
-    },
-    item: {
-      type: Object,
-      default: () => {},
-    },
-  },
-  data() {
-    return {}
-  },
-  computed: {},
-  mounted() {},
-  methods: {},
-}
+<script setup>
+const props = defineProps({dialog: Boolean, item: Object})
 </script>
 <style lang="scss"></style>

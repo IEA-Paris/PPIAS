@@ -24,6 +24,7 @@ stop: '5780'
 subissue: false
 yt: kfhEb2fDQLk
 language: English
+bibliography: "/documents-exportes_prop10.bib"
 
 ---
 ### Session 2 - Retour sur expérience : "s'être trompé" et "avoir eu raison" en 2008

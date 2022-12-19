@@ -1,9 +1,9 @@
 <template>
   <div>
     <v-skeleton-loader
-      v-if="$store.state.loading"
+      v-if="rootStore.loading"
       :type="
-        $vuetify.breakpoint.sm && !filter
+        isSmDisplay && !filter
           ? 'list-item-avatar-three-line'
           : 'list-item-three-line'
       "
@@ -12,20 +12,21 @@
     <v-list-item
       v-else
       nuxt
-      :to="localePath('/articles/' + item.slug)"
+      :to="localePath('/articles/' + item._path.split('/').at(-1))"
       class="d-flex align-start pl-0"
-      :class="(index > 0 ? '' : '', { 'mt-5': $vuetify.breakpoint.smAndDown })"
+      :class="(index > 0 ? '' : '', { 'mt-5': smAndDown })"
       flat
     >
-      <v-list-item-avatar
+      <template #prepend>
+      <div
         v-if="
-          $vuetify.breakpoint.mdAndUp || ($vuetify.breakpoint.sm && !filter)
+          mdAndUp || (isSmDisplay && !filter)
         "
-        x-large
-        tile
-        :min-width="$vuetify.breakpoint.lgAndUp ? '20%' : '20%'"
+        size="x-large"
+        variant="tile"
+        :min-width="lgAndUp ? '20%' : '20%'"
         height="100%"
-      >
+        >
         <YoutubeThumbnail v-if="item.yt && item.yt.length" :item="item">
           <!--       <template #categories>
             <ArticleCategories :item="item" />
@@ -86,12 +87,13 @@
             </div>
           </template>
         </TextFingerprint>
-      </v-list-item-avatar>
-      <div>
+      </div>
+    </template>
+      <template #default>
         <div
           class="text-h6 article-mobile-title"
           :class="
-            $vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)
+            isXsDisplay || (isSmDisplay && filter)
               ? ' small'
               : ''
           "
@@ -100,7 +102,7 @@
 
           <span v-html="highlightWord(item.article_title)"></span>
           <!--          <ArticleCategories
-            v-if="$vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)"
+            v-if="isXsDisplay || (isSmDisplay && filter)"
             :item="item"
             class="pr-2"
             small
@@ -108,7 +110,7 @@
         </div>
         <v-list-item-subtitle class="mt-2 d-inline-flex text-subtitle-1">
           <template
-            v-if="$vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)"
+            v-if="isXsDisplay || (isSmDisplay && filter)"
           >
             {{
               new Date(item.date).toLocaleDateString('en-US', {
@@ -126,41 +128,36 @@
             class=""
             small
         /></v-list-item-subtitle>
-      </div>
+      </template>
     </v-list-item>
   </div>
 </template>
-<script>
-import { highlight } from '~/assets/utils/transforms'
-export default {
-  props: {
-    item: {
-      required: true,
-      type: Object,
-    },
-    filter: {
-      required: false,
-      type: Boolean,
-      default: false,
-    },
-    index: {
-      required: true,
-      type: Number,
-    },
+<script setup>
+import { useRootStore } from '~/store/root';
+import { useDisplay } from 'vuetify';
+import useHighlightWord from '~/composables/utils/useHighlightWord';
+
+const rootStore = useRootStore();
+const { sm: isSmDisplay, xs: isXsDisplay, smAndDown, mdAndUp, lgAndUp } = useDisplay();
+
+const props = defineProps({
+  item: {
+    required: true,
+    type: Object,
   },
-  data() {
-    return {}
+  filter: {
+    required: false,
+    type: Boolean,
+    default: false,
   },
-  computed: {},
-  mounted() {},
-  methods: {
-    highlightWord(word = '', query) {
-      return this.$store.state.articles.search
-        ? highlight(word, this.$store.state.articles.search || '')
-        : word
-    },
+  index: {
+    required: true,
+    type: Number,
   },
-}
+})
+
+const { highlightWord } = useHighlightWord(rootStore.getChildrenStore('articles').search)
+
 </script>
 <style lang="scss" scoped>
 .article-mobile-title.small {

@@ -1,20 +1,20 @@
 <template>
   <v-container
     class="transition-swing"
-    :fluid="!$store.state.scrolled"
-    :class="{ 'py-0': !$store.state.scrolled }"
+    :fluid="!rootStore.scrolled"
+    :class="{ 'py-0': !rootStore.scrolled }"
   >
     <v-row
       class="transition-swing"
-      :no-gutters="!$store.state.scrolled"
-      :class="$store.state.scrolled ? '' : 'mx-12'"
+      :no-gutters="!rootStore.scrolled"
+      :class="rootStore.scrolled ? '' : 'mx-12'"
     >
       <!--   <SectionTitle :text="title" /> -->
     </v-row>
     <v-row
       class="transition-swing"
-      :no-gutters="!$store.state.scrolled"
-      :class="$store.state.scrolled ? '' : 'mx-12'"
+      :no-gutters="!rootStore.scrolled"
+      :class="rootStore.scrolled ? '' : 'mx-12'"
     >
       <v-col
         cols="12"
@@ -23,10 +23,10 @@
         class="transition-swing"
         :order="alt ? 'last' : 'first'"
       >
-        <Item :scroll="$store.state.scrolled" :first="$vuetify.breakpoint.md" />
+        <Item :scroll="rootStore.scrolled" :first="isMdDisplay" />
       </v-col>
       <v-col cols="12" md="6" lg="4">
-        <v-row :no-gutters="!$store.state.scrolled">
+        <v-row :no-gutters="!rootStore.scrolled">
           <v-col cols="12" class="transition-swing">
             <Item />
           </v-col>
@@ -38,26 +38,24 @@
     </v-row>
   </v-container>
 </template>
-<script>
-export default {
-  props: {
-    title: {
-      type: String,
-      default: '',
-    },
-    alt: {
-      type: Boolean,
-      default: false,
-    },
+<script setup>
+import { useRootStore } from '~/store/root';
+import { useDisplay } from 'vuetify'
+
+const { md: isMdDisplay } = useDisplay()
+const rootStore = useRootStore()
+
+const props = defineProps({
+  title: {
+    type: String,
+    default: '',
   },
-  data() {
-    return {
-      scrolled: false,
-    }
+  alt: {
+    type: Boolean,
+    default: false,
   },
-  computed: {},
-  mounted() {},
-  methods: {},
-}
+})
+const scrolled = ref(false)
+
 </script>
 <style lang="scss"></style>

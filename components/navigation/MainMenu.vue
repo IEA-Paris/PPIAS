@@ -1,135 +1,132 @@
 <template>
-  <v-dialog v-model="open" fullscreen hide-overlay transition="none">
+  <v-dialog fullscreen hide-overlay transition="none">
     <!-- ACTIVATOR BTN -->
-    <template #activator="{ on, attrs }">
-      <v-btn v-bind="attrs" icon x-large class="ma-2" tile v-on="on">
+    <template #activator="{ props }">
+      <v-btn v-bind="props" variant="icon" size="x-large" tile>
         <v-icon color="black">mdi-menu</v-icon>
       </v-btn>
     </template>
     <!-- APP BAR WITH LOGO -->
-    <v-card dark color="black">
-      <v-app-bar color="transparent" clipped flat hide-on-scroll height="140">
-        <div class="d-flex flex-column flex-grow-1">
-          <div class="d-flex flex-grow-1 align-start">
-            <v-img
-              class="mr-2 mt-4 logo-container-white"
-              src="/logo_w.png"
-              contain
-              max-height="120"
-              max-width="120"
-              style="cursor: pointer"
-            ></v-img>
-            <v-spacer></v-spacer>
-            <v-btn
-              icon
-              x-large
-              class="ma-2 mr-2 mb-4"
-              tile
-              @click="open = false"
-            >
-              <v-icon>mdi-close</v-icon>
-            </v-btn>
-          </div>
-        </div>
-      </v-app-bar>
-      <v-row class="ml-2 mt-6">
-        <v-col
-          cols="12"
-          md="4"
-          :order="$vuetify.breakpoint.smAndDown ? 'last' : 'first'"
-        >
-          <!-- SMALL PAGES LINKS (FOOTER) -->
-          <div :class="{ 'ml-6': $vuetify.breakpoint.mdAndUp }">
-            <v-divider style="border-color: white"></v-divider>
-            <v-list dark color="black">
-              <v-list-item
-                v-for="(item, i) in footer"
-                :key="i"
-                :to="item.path"
-                @click="open = false"
+    <template #default="{ isActive }">
+      <v-card dark color="black">
+        <v-app-bar color="transparent" clipped flat density="prominent" hide-on-scroll height="140">
+          <div class="d-flex flex-column flex-grow-1">
+            <div class="d-flex flex-grow-1 align-start">
+              <v-img
+                class="mr-2 mt-4 logo-container-white"
+                src="/logo_w.png"
+                contain
+                max-height="120"
+                max-width="120"
+                style="cursor: pointer"
+              ></v-img>
+              <v-spacer></v-spacer>
+              <v-btn
+                variant="icon"
+                size="x-large"
+                class="ma-2 mr-2 mb-4"
+                tile
+                @click="isActive.value = false"
               >
-                <v-list-item-content>
-                  <v-list-item-title
-                    class="text-uppercase text-button mb-6"
-                    v-text="$t(item.text)"
-                  ></v-list-item-title>
-                  <v-divider
-                    v-if="i < Object.keys(footer).length - 1"
-                  ></v-divider>
-                </v-list-item-content>
+                <v-icon>mdi-close</v-icon>
+              </v-btn>
+            </div>
+          </div>
+        </v-app-bar>
+        <v-row class="ml-2 mt-6">
+          <v-col
+            cols="12"
+            md="4"
+            :order="smAndDown ? 'last' : 'first'"
+          >
+            <!-- SMALL PAGES LINKS (FOOTER) -->
+            <div :class="{ 'ml-6': mdAndUp }">
+              <v-divider style="border-color: white"></v-divider>
+              <v-list dark color="black" bg-color="transparent">
+                <v-list-item
+                  v-for="(item, i) in footer"
+                  :key="i"
+                  :to="item.path"
+                  @click="isActive.value = false"
+                >
+                  <v-list-item-content>
+                    <v-list-item-title
+                      class="text-uppercase text-button mb-6"
+                      v-text="$t(item.text)"
+                    ></v-list-item-title>
+                    <v-divider
+                      v-if="i < Object.keys(footer).length - 1"
+                    ></v-divider>
+                  </v-list-item-content>
+                </v-list-item>
+              </v-list>
+            </div>
+          </v-col>
+          <!-- MAIN MENU -->
+          <v-col cols="12" md="4">
+            <v-divider style="border-color: white"></v-divider>
+            <!-- HOME/ARTICLES -->
+            <v-list dark bg-color="transparent" color="black">
+              <v-list-item :to="localePath('/articles')" @click="isActive.value = false">
+                <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">
+                  {{ $t('articles') }}
+                </v-list-item-title>
+              </v-list-item>
+              <v-divider></v-divider>
+              <!-- MEDIA -->
+              <v-list-item :to="localePath('/media')" @click="isActive.value = false">
+                <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">
+                  {{ $t('media') }}
+                </v-list-item-title>
+              </v-list-item>
+              <v-divider></v-divider>
+              <!-- AUTHORS -->
+              <v-list-item :to="localePath('/authors')" @click="isActive.value = false">
+                <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">
+                  {{ $t('authors') }}
+                </v-list-item-title>
               </v-list-item>
             </v-list>
-          </div>
-        </v-col>
-        <!-- MAIN MENU -->
-        <v-col cols="12" md="4">
-          <v-divider style="border-color: white"></v-divider>
-          <!-- HOME/ARTICLES -->
-          <v-list dark color="black">
-            <v-list-item :to="localePath('/articles')" @click="open = false">
-              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">
-                {{ $t('articles') }}
-              </v-list-item-title>
-            </v-list-item>
+          </v-col>
+          <!-- SOCIAL ICONS -->
+          <v-col cols="12" md="4" order="last">
             <v-divider></v-divider>
-            <!-- MEDIA -->
-            <v-list-item :to="localePath('/media')" @click="open = false">
-              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">
-                {{ $t('media') }}
-              </v-list-item-title>
-            </v-list-item>
-            <v-divider></v-divider>
-            <!-- AUTHORS -->
-            <v-list-item :to="localePath('/authors')" @click="open = false">
-              <v-list-item-title class="text-uppercase text-h5 mt-3 mb-6">
-                {{ $t('authors') }}
-              </v-list-item-title>
-            </v-list-item>
-          </v-list>
-        </v-col>
-        <!-- SOCIAL ICONS -->
-        <v-col cols="12" md="4" order="last">
-          <v-divider></v-divider>
-          <div class="overline ma-3">{{ $t('follow-us') }}</div>
-          <v-tooltip v-for="(item, index) in social" :key="index" bottom>
-            <template #activator="{ on }">
-              <v-btn
-                target="_blank"
-                rel="noopener noreferrer"
-                :href="item.url"
-                fab
-                dark
-                outlined
-                color="grey"
-                class="ma-3"
-                v-on="on"
-              >
-                <v-icon color="white">mdi-{{ item.icon }}</v-icon>
-              </v-btn>
-            </template>
-            <span>{{ $t(item.text) }}</span>
-          </v-tooltip>
-        </v-col>
-      </v-row>
-    </v-card>
+            <div class="overline ma-3">{{ $t('follow-us') }}</div>
+            <v-tooltip v-for="(item, index) in social" :key="index" location="bottom">
+              <template #activator="{ on }">
+                <v-btn
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  :href="item.url"
+                  variant="outlined"
+                  dark
+                  icon
+                  color="grey"
+                  class="ma-3"
+                  v-on="on"
+                >
+                  <!-- variant="outlined" -->
+                  <v-icon color="white">mdi-{{ item.icon }}</v-icon>
+                </v-btn>
+              </template>
+              <span>{{ $t(item.text) }}</span>
+            </v-tooltip>
+          </v-col>
+        </v-row>
+      </v-card>
+    </template>
   </v-dialog>
 </template>
-<script>
-import sitemap from '~/assets/sitemap'
-import social from '~/assets/social'
-export default {
-  props: {},
-  data() {
-    return {
-      ...sitemap,
-      social,
-      open: false,
-    }
-  },
-  computed: {},
-  mounted() {},
-  methods: {},
-}
+<script setup>
+import { useDisplay } from 'vuetify'
+import _sitemap from '~/assets/sitemap'
+import _social from '~/assets/social'
+
+const { footer } = _sitemap
+const sitemap = reactive(footer)
+const social = reactive(_social)
+
+const { smAndDown, mdAndUp } = useDisplay()
 </script>
 <style scoped>
 .v-app-bar--is-scrolled .menu-logo-text {

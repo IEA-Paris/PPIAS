@@ -1,16 +1,16 @@
 <template>
   <v-card
     ref="articleBox"
-    :width="$vuetify.breakpoint.mdAndUp ? '' : '100%'"
+    :width="mdAndUp ? '' : '100%'"
     height="100%"
     class="articleBox d-flex flex-column align-center justify-center transition-swing"
     min-height="250px"
     :max-height="highlighted ? '' : '500px'"
     nuxt
-    :to="localePath('/articles/' + item.slug)"
+    :to="localePath('/articles/' + item._path.split('/').at(-1))"
   >
     <v-skeleton-loader
-      v-if="$store.state.loading"
+      v-if="rootStore.loading"
       type="image"
     ></v-skeleton-loader>
     <YoutubeThumbnail v-else-if="item.yt && item.yt.length" :item="item">
@@ -47,7 +47,7 @@
       </template> -->
       <template #caption>
         <v-skeleton-loader
-          v-if="$store.state.loading"
+          v-if="rootStore.loading"
           type="header"
         ></v-skeleton-loader>
         <span v-else v-html="highlightWord(item.article_title)"></span>
@@ -58,7 +58,7 @@
       <template #date>
         <div class="d-flex px-1">
           <v-skeleton-loader
-            v-if="$store.state.loading"
+            v-if="rootStore.loading"
             type="header"
           ></v-skeleton-loader>
 
@@ -100,45 +100,43 @@
     </TextFingerprint>
   </v-card>
 </template>
-<script>
-import { highlight } from '~/assets/utils/transforms'
-export default {
-  props: {
-    item: {
-      required: true,
-      type: Object,
-    },
-    highlighted: {
-      required: false,
-      type: Boolean,
-      default: false,
-    },
+<script setup>
+import { useRootStore } from '~/store/root';
+import { useDisplay } from 'vuetify';
+import useHighlightWord from '~/composables/utils/useHighlightWord';
+
+const localePath = useLocalePath();
+const rootStore = useRootStore();
+const { breakpointName: name, mdAndUp } = useDisplay();
+
+const articleBox = ref(null);
+const props = defineProps({
+  item: {
+    required: true,
+    type: Object,
   },
-  data() {
-    return {}
+  highlighted: {
+    required: false,
+    type: Boolean,
+    default: false,
   },
-  computed: {
-    size() {
-      switch (this.$vuetify.breakpoint.name) {
-        default:
-          return this.resizeItem()
-      }
-    },
-  },
-  created() {},
-  mounted() {},
-  methods: {
-    highlightWord(word = '', query) {
-      return highlight(word, this.$store.state.articles.search || '')
-    },
-    resizeItem() {
-      const width = this.$refs?.articleBox?.$el.clientWidth
-      const height = this.$refs?.articleBox?.$el.clientHeight
-      const smallest = Math.min(...[width, height]) || 250
-      return Math.min(...[smallest - 10, 400])
-      /*    this.$set(this.$refs.articleBox, 'width', widthString) */
-    },
-  },
+})
+
+const size = computed(() => {
+  switch (breakpointName) {
+    default:
+      return resizeItem()
+  }
+})
+
+const { highlightWord } = useHighlightWord(rootStore.getChildrenStore('articles').search || '')
+
+const resizeItem = () => {
+  const width = articleBox?.$el.clientWidth
+  const height = articleBox?.$el.clientHeight
+  const smallest = Math.min(...[width, height]) || 250
+  return Math.min(...[smallest - 10, 400])
+  /*    this.$set(this.$refs.articleBox, 'width', widthString) */
 }
 </script>
 <style lang="scss">

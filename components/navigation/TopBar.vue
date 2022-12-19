@@ -5,7 +5,7 @@
     clipped
     flat
     height="140"
-    :class="{ loading: $nuxt.loading }"
+    :class="{ loading: nuxtApp.loading }"
   >
     <div class="d-flex flex-grow-1 justify-space-between">
       <Logo />
@@ -17,27 +17,30 @@
         </div>
 
         <div
-          v-if="$vuetify.breakpoint.smAndUp"
+          v-if="smAndUp"
           class="d-flex menu"
           transition="v-expand-transition"
         >
           <v-btn
-            text
+            variant="text"
             nuxt
+            color="dark"
             :to="localePath('/articles')"
             @click="handleClick('articles')"
             >{{ $t('articles') }}</v-btn
           >
           <v-btn
-            text
+            variant="text"
             nuxt
+            color="dark"
             :to="localePath('/media')"
             @click="handleClick('media')"
             >{{ $t('media') }}</v-btn
           >
           <v-btn
-            text
+            variant="text"
             nuxt
+            color="dark"
             :to="localePath('/authors')"
             @click="handleClick('authors')"
           >
@@ -48,25 +51,25 @@
     </div>
   </v-toolbar>
 </template>
-<script>
-import sitemap from '~/assets/sitemap'
-export default {
-  props: {},
-  data() {
-    return {
-      ...sitemap,
-      lang: 'en',
-    }
-  },
-  computed: {},
-  mounted() {},
-  methods: {
-    handleClick(type) {
-      if (this.$route.name.startsWith(type)) {
-        this.$store.dispatch('resetState', type)
-      }
-    },
-  },
+<script setup>
+import _sitemap from '~/assets/sitemap'
+import { useRootStore } from '~/store/root';
+import { useDisplay } from 'vuetify';
+
+const localePath = useLocalePath()
+const { smAndUp } = useDisplay();
+const nuxtApp = useNuxtApp()
+
+const sitemap = reactive(_sitemap)
+const lang = ref('en')
+
+const route = useRoute()
+const rootStore = useRootStore()
+
+const handleClick = (type) => {
+  if (route.name.startsWith(type)) {
+    rootStore.resetState(type)
+  }
 }
 </script>
 <style lang="scss">

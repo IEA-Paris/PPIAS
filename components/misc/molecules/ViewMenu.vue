@@ -4,13 +4,13 @@
       <v-tooltip bottom>
         <template #activator="{ on: tooltip }">
           <v-btn
-            x-large
+            size="x-large"
             tile
-            icon
+            variant="icon"
             v-bind="attrs"
             class="mr-3"
             :class="{
-              'mt-3': $vuetify.breakpoint.xs,
+              'mt-3': isXsDisplay,
             }"
             v-on="{ ...tooltip, ...menu }"
           >
@@ -48,42 +48,30 @@
     </v-list>
   </v-menu>
 </template>
-<script>
+<script setup>
 import lists from '~/assets/data/lists'
-export default {
-  props: {
-    type: {
-      type: String,
-      default: '',
-      required: true,
-    },
-  },
-  data() {
-    return {
-      items: lists[this.type].views,
-      defaultView:
-        lists[this.type].views[
-          Object.keys(lists[this.type].views).find(
-            (item) => lists[this.type].views[item].default === true
+import { useDisplay } from 'vuetify'
+import { useRootStore } from '~/store/root';
+
+const { xs: isXsDisplay } = useDisplay()
+const rootStore = useRootStore()
+
+const props = defineProps({ type: String })
+const items = reactive(lists[props.type].views)
+const defaultSort = reactive(lists[props.type].views[
+          Object.keys(lists[props.type].views).find(
+            (item) => lists[props.type].views[item].default === true
           )
-        ],
-    }
-  },
-  computed: {
-    current() {
-      return (
-        this.items.find(
-          (item) => item.name === this.$store.state[this.type].view
-        ) || this.defaultView
-      )
-    },
-  },
-  mounted() {},
-  methods: {
-    async updateView(value) {
-      await this.$store.dispatch('updateView', { value, type: this.type })
-    },
-  },
+        ])
+
+const current = computed(() => (
+    items.find(
+        (item) => item.name === rootStore.getChildrenStore(props.type).sort
+      ) || defaultSort
+    ))
+
+const updateSort = async (value) => {
+  rootStore.updateSort({ value, type: props.type })
 }
 </script>
 <style lang="scss"></style>

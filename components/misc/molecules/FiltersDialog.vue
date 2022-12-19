@@ -79,28 +79,15 @@
     </v-card>
   </v-dialog>
 </template>
-<script>
-export default {
-  props: {
-    type: {
-      type: String,
-      required: true,
-      default: 'articles',
-    },
-  },
-  data() {
-    return {
-      open: false,
-    }
-  },
-  computed: {
-    filtersCount() {
-      return this.$store.state[this.type].filtersCount
-    },
-  },
-  mounted() {},
-  methods: {},
-}
+<script setup>
+import { useRootStore } from '~/store/root';
+
+const rootStore = useRootStore()
+const props = defineProps({type: String})
+
+const open = ref(false)
+
+const filtersCount = computed(() => rootStore.getChildrenStore(props.type).filtersCount)
 </script>
 <style scoped lang="scss">
 $input-font-size: 48px;

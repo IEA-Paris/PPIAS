@@ -1,17 +1,17 @@
 <template v-slot:activator="{ on, attrs }">
   <v-text-field
     v-model.trim="val"
-    v-bind="$attrs"
+    v-bind="attrs"
     :placeholder="item === 'search' ? $t('search') : ''"
     :prepend-inner-icon="item === 'search' ? 'mdi-magnify' : ''"
     single-line
-    :loading="$nuxt.loading"
+    :loading="nuxtApp.loading"
     @click:clear="
-      $router.push({ query: { ...$route.query, [item]: undefined } })
+      router.push({ query: { ...route.query, [item]: undefined } })
     "
   >
     <template
-      v-if="item === 'search' && !($route.query && $route.query.search)"
+      v-if="item === 'search' && !(route.query && route.query.search)"
       #label
     >
       <div class="searchLabel">{{ $t('search') }}</div>
@@ -19,36 +19,22 @@
   >
 </template>
 
-<script>
-export default {
-  props: {
-    type: {
-      type: String,
-      default: '',
-      required: true,
-    },
-    item: {
-      type: String,
-      required: true,
-      default: '',
-    },
-  },
-  data() {
-    return {}
-  },
+<script setup>
+const attrs = useAttrs()
+const nuxtApp = useNuxtApp();
+const route = useRoute()
+const router = useRouter()
+const props = defineProps({type: String, item: String})
 
-  computed: {
-    val: {
-      get() {
-        return this.$route.params[this.item]
-      },
-      set(value) {
-        this.$router.replace({
-          query: { ...this.$route.query, [this.item]: value },
-        })
-      },
-    },
+const val = computed({
+  get() {
+    return route.query && route.query[props.item]
   },
-}
+  set(value) {
+    router.replace({
+      query: { ...route.query, [props.item]: value },
+    })
+  },
+})
 </script>
 <style lang="scss"></style>

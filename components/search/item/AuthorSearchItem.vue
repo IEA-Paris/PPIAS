@@ -1,7 +1,7 @@
 <template>
   <v-list-item
     nuxt
-    :to="localePath('/authors/' + item.slug)"
+    :to="localePath('/authors/' + item._path.split('/').at(-1))"
     @click="$emit('close')"
   >
     <v-list-item-icon>
@@ -14,20 +14,12 @@
     </v-list-item-content>
   </v-list-item>
 </template>
-<script>
-export default {
-  props: {
-    item: {
-      required: true,
-      type: Object,
-    },
+<script setup>
+const props = defineProps({
+  item: {
+    type: Object,
+    required: true,
   },
-  data() {
-    return {}
-  },
-  computed: {},
-  mounted() {},
-  methods: {},
-}
+})
 </script>
 <style lang="scss"></style>

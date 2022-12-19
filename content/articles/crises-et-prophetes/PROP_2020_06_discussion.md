@@ -44,6 +44,7 @@ stop: '8224'
 subissue: false
 yt: 6lphVlaalnA
 language: French
+bibliography: "/documents-exportes_prop06.bib"
 
 ---
 ### Session 1 - Parole et imaginaire prophétiques

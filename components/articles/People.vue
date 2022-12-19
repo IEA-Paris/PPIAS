@@ -1,7 +1,7 @@
 <template>
-  <v-row class="mt-12" :class="{ 'mx:6': $vuetify.breakpoint.mdAndUp }">
+  <v-row class="mt-12" :class="{ 'mx:6': mdAndUp }">
     <v-col
-      v-if="$vuetify.breakpoint.mdAndUp"
+      v-if="mdAndUp"
       cols="3"
       col-md-offset="1"
       justify="center"
@@ -21,7 +21,7 @@
           class="white--text headline"
           :style="
             'background-color:' +
-            $vuetify.theme.themes.light.primary +
+            theme.themes.light.primary +
             '; font-style: normal;'
           "
         >
@@ -105,7 +105,7 @@
       ></div>
       <div class="text-h6 mb-3" v-html="item.positions_and_institutions"></div>
       <div
-        v-if="$vuetify.breakpoint.smAndDown"
+        v-if="smAndDown"
         class="flex-row justify-center mb-6"
       >
         <v-tooltip v-for="social in getSocials(item)" :key="social.link" bottom>
@@ -145,74 +145,67 @@
     </v-col>
   </v-row>
 </template>
-<script>
+<script setup>
 import slugify from '~/assets/utils/slugify'
-export default {
-  props: {
-    mentor: {
-      type: Boolean,
-      default: false,
-    },
-    item: {
-      type: Object,
-      default: () => {},
-    },
+import { useDiplay, useTheme } from 'vuetify'
+
+const theme = useTheme()
+const { mdAndUp, smAndDown } = useDiplay()
+
+const props = defineProps({
+  mentor: {
+    type: Boolean,
+    default: false,
   },
-  data() {
-    return {}
-  },
-  async fetch() {},
-  computed: {},
-  mounted() {},
-  methods: {
-    slugifyItem(item) {
-      return slugify(item)
-    },
-    highlight: (word, query) => {
-      const check = new RegExp(query, 'ig')
-      return word.replace(check, function (matchedText, a, b) {
-        return (
-          '<strong style="color: darkslategray;background-color: yellow;">' +
-          matchedText +
-          '</strong>'
-        )
-      })
-    },
-    getSocials(item) {
-      const socials = []
-      if (item.website)
-        socials.push({
-          link: item.website,
-          icon: 'mdi-link-variant',
-          tooltip:
-            'Visit this ' + (this.mentor ? 'mentor' : 'fellow') + ' website',
-        })
-      if (item.wikipedia)
-        socials.push({
-          link: item.wikipedia,
-          icon: 'mdi-wikipedia',
-          tooltip:
-            'Check the Wikipedia page of the ' +
-            (this.mentor ? 'mentor' : 'fellow'),
-        })
-      if (item.linkedin)
-        socials.push({
-          link: item.linkedin,
-          icon: 'mdi-linkedin',
-          tooltip: 'Get in touch on Linkedin',
-        })
-      if (item.twitter)
-        socials.push({
-          link: item.twitter,
-          icon: 'mdi-twitter',
-          tooltip:
-            'Follow this ' +
-            (this.mentor ? 'mentor' : 'fellow') +
-            ' on Twitter',
-        })
-      return socials
-    },
-  },
+  item: {
+    type: Object,
+    default: () => {},
+  }
+})
+
+const slugifyItem = (item) => {
+  return slugify(item)
+}
+
+const highlight = (word, query) => {
+  const check = new RegExp(query, 'ig')
+  return word.replace(check, function (matchedText, a, b) {
+    return (
+      '<strong style="color: darkslategray;background-color: yellow;">' +
+      matchedText +
+      '</strong>'
+    )
+  })
+}
+
+const getSocials = (itemSocial) => {
+  const socials = []
+  if (itemSocial.website)
+    socials.push({
+      icon: 'mdi-link-variant',
+      link: itemSocial.website,
+      tooltip: 'Check this ' + (props.mentor ? 'mentor' : 'fellow') + ' personal website',
+    })
+  if (itemSocial.linkedin)
+    socials.push({
+      icon: 'mdi-linkedin',
+      link: itemSocial.linkedin,
+      tooltip: 'Get in touch on Linkedin',
+    })
+  if (itemSocial.twitter)
+    socials.push({
+      icon: 'mdi-twitter',
+      link: itemSocial.twitter,
+      tooltip: 'Follow this ' + (props.mentor ? 'mentor' : 'fellow') + ' on Twitter',
+    })
+  if (itemSocial.wikipedia)
+    socials.push({
+      icon: 'mdi-wikipedia',
+      link: itemSocial.wikipedia,
+      tooltip:
+        'Check the Wikipedia page of the ' + (props.mentor ? 'mentor' : 'fellow'),
+    })
+  return socials
 }
 </script>
 

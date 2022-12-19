@@ -2,16 +2,16 @@
   <div
     class="d-flex logo-container"
     @click="
-      $router.push(localePath('/')) &&
-        $store.dispatch('resetState', 'articles') &&
-        $store.dispatch('resetState', 'media') &&
-        $store.dispatch('resetState', 'authors')
+      router.push(localePath('/')) &&
+        rootStore.resetState(articles) &&
+        rootStore.resetState(media) &&
+        rootStore.resetState(authors)
     "
     @keyup.enter="
-      $router.push(localePath('/')) &&
-        $store.dispatch('resetState', 'articles') &&
-        $store.dispatch('resetState', 'media') &&
-        $store.dispatch('resetState', 'authors')
+      router.push(localePath('/')) &&
+        rootStore.resetState(articles) &&
+        rootStore.resetState(media) &&
+        rootStore.resetState(authors)
     "
   >
     <nuxt-img
@@ -51,29 +51,27 @@
     </div> -->
   </div>
 </template>
-<script>
-export default {
-  data() {
-    return {
-      current: 'Paris',
-      items: [
-        'Berlin',
-        'Boston',
-        'Hongkong',
-        'Vancouver',
-        'Sydney',
-        'Belo Horizonte',
-        'Jerusalem',
-        'London',
-        'Madrid',
-        'Oslo',
-        'Paris',
-        'Prague',
-        'Rome',
-      ].sort(),
-    }
-  },
-}
+<script setup>
+import { useRootStore } from '~/store/root';
+
+const rootStore = useRootStore();
+const router = useRouter();
+const current = ref('Paris')
+const items = ref([
+  'Berlin',
+  'Boston',
+  'Hongkong',
+  'Vancouver',
+  'Sydney',
+  'Belo Horizonte',
+  'Jerusalem',
+  'London',
+  'Madrid',
+  'Oslo',
+  'Paris',
+  'Prague',
+  'Rome',
+].sort())
 </script>
 <style>
 .logo-container {

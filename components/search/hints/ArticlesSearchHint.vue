@@ -12,21 +12,13 @@
     }}</span>
   </v-tooltip>
 </template>
-<script>
-export default {
-  props: {
-    outline: {
-      type: Boolean,
-      required: false,
-      default: false,
-    },
+<script setup>
+const props = defineProps({
+  outline: {
+    type: Boolean,
+    required: false,
+    default: false,
   },
-  data() {
-    return {}
-  },
-  computed: {},
-  mounted() {},
-  methods: {},
-}
+})
 </script>
 <style lang="scss"></style>

@@ -24,11 +24,11 @@
         <v-card-title>{{ $t('export-this-article') }}</v-card-title>
 
         <v-card-text>
-          <v-btn block outlined class="my-3">
+          <v-btn block variant="outlined" class="my-3">
             <v-icon left>mdi-download</v-icon>
             {{ $t('zotero') }}
           </v-btn>
-          <v-btn block outlined class="my-3">
+          <v-btn block variant="outlined" class="my-3">
             <v-icon left>mdi-download</v-icon>
             {{ $t('endnote') }}
           </v-btn>
@@ -50,7 +50,7 @@
             <div>
               <v-tooltip bottom>
                 <template #activator="{ on, attrs }">
-                  <v-btn icon tile v-bind="attrs" small v-on="on">
+                  <v-btn variant="icon" tile v-bind="attrs" size="small" v-on="on">
                     <v-icon>mdi-content-copy</v-icon>
                   </v-btn>
                 </template>
@@ -68,7 +68,7 @@
         </v-card-text>
         <v-card-actions>
           <v-spacer></v-spacer>
-          <v-btn color="primary" text @click="dialog = false">Close</v-btn>
+          <v-btn color="primary" variant="text" @click="dialog = false">Close</v-btn>
         </v-card-actions>
         <v-overlay absolute>
           <v-btn dark tile @click="dialog = false"
@@ -83,90 +83,85 @@
     </v-dialog>
   </div>
 </template>
-<script>
-export default {
-  props: {
-    item: {
-      required: true,
-      type: Object,
-    },
-    text: {
-      required: false,
-      type: Boolean,
-      default: false,
-    },
+<script setup>
+
+const props = defineProps({
+  item: {
+    required: true,
+    type: Object,
   },
-  data() {
-    return {
-      dialog: false,
-      citeFormats: [
-        {
-          type: 'ISO 690',
-          text:
-            this.item.authors
-              .map((author) => author.lastname + ' ' + author.firstname)
-              .join(', ') +
-            ', ' +
-            this.item.article_title +
-            ', PIAS, ' +
-            new Date(this.item.date).toLocaleDateString('en-GB', {
-              // you can use undefined as first argument
-              year: 'numeric',
-              month: '2-digit',
-              day: '2-digit',
-            }) +
-            ', DOI:' +
-            this.item.doi +
-            ', URL:https://pias.science/articles/' +
-            this.item.slug, // TODO update with subdomains and locales
-        },
-        {
-          type: 'MLA',
-          text:
-            this.item.authors
-              .map((author) => author.lastname + ' ' + author.firstname)
-              .join(', ') +
-            ', ' +
-            this.item.article_title +
-            ', PIAS, ' +
-            new Date(this.item.date).toLocaleDateString('en-GB', {
-              // you can use undefined as first argument
-              year: 'numeric',
-              month: '2-digit',
-              day: '2-digit',
-            }) +
-            ', DOI:' +
-            this.item.doi +
-            ', URL:https://pias.science/articles/' +
-            this.item.slug, // TODO update with subdomains and locales
-        },
-        {
-          type: 'APA',
-          text:
-            this.item.authors
-              .map((author) => author.lastname + ' ' + author.firstname)
-              .join(', ') +
-            ', ' +
-            this.item.article_title +
-            ', PIAS, ' +
-            new Date(this.item.date).toLocaleDateString('en-GB', {
-              // you can use undefined as first argument
-              year: 'numeric',
-              month: '2-digit',
-              day: '2-digit',
-            }) +
-            ', DOI:' +
-            this.item.doi +
-            ', URL:https://pias.science/articles/' +
-            this.item.slug, // TODO update with subdomains and locales
-        },
-        {
-          type: 'DOI',
-          text: 'https://doi.org/' + this.item.doi,
-        },
-      ],
-    }
+  text: {
+    required: false,
+    type: Boolean,
+    default: false,
   },
-  async fetch() {},
-}
+});
+
+const dialog = ref(false);
+const citeFormats = reactive([
+  {
+    type: 'ISO 690',
+    text:
+      props.item.authors
+        .map((author) => author.lastname + ' ' + author.firstname)
+        .join(', ') +
+      ', ' +
+      props.item.article_title +
+      ', PIAS, ' +
+      new Date(props.item.date).toLocaleDateString('en-GB', {
+        // you can use undefined as first argument
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+      }) +
+      ', DOI:' +
+      props.item.doi +
+      ', URL:https://pias.science/articles/' +
+      props.item._path.split('/').at(-1), // TODO update with subdomains and locales
+  },
+  {
+    type: 'MLA',
+    text:
+      props.item.authors
+        .map((author) => author.lastname + ' ' + author.firstname)
+        .join(', ') +
+      ', ' +
+      props.item.article_title +
+      ', PIAS, ' +
+      new Date(props.item.date).toLocaleDateString('en-GB', {
+        // you can use undefined as first argument
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+      }) +
+      ', DOI:' +
+      props.item.doi +
+      ', URL:https://pias.science/articles/' +
+      props.item._path.split('/').at(-1), // TODO update with subdomains and locales
+  },
+  {
+    type: 'APA',
+    text:
+      props.item.authors
+        .map((author) => author.lastname + ' ' + author.firstname)
+        .join(', ') +
+      ', ' +
+      props.item.article_title +
+      ', PIAS, ' +
+      new Date(props.item.date).toLocaleDateString('en-GB', {
+        // you can use undefined as first argument
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+      }) +
+      ', DOI:' +
+      props.item.doi +
+      ', URL:https://pias.science/articles/' +
+      props.item._path.split('/').at(-1), // TODO update with subdomains and locales
+  },
+  {
+    type: 'DOI',
+    text: 'https://doi.org/' + props.item.doi,
+  },
+])
 </script>

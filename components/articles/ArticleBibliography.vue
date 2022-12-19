@@ -14,39 +14,34 @@
     <span v-else>{{ $t('no-bibliography-available-for-this-article') }}</span>
   </div>
 </template>
-<script>
-export default {
-  props: {
-    item: {
-      type: Object,
-      default: () => {},
-    },
-    open: {
-      type: Boolean,
-      default: false,
-    },
+<script setup>
+import { useRootStore } from '~/store/root';
+
+const rootStore = useRootStore()
+
+const props = defineProps({
+  item: {
+    type: Object,
+    default: () => {},
   },
-  data() {
-    return {}
+  open: {
+    type: Boolean,
+    default: false,
   },
-  computed: {
-    style() {
-      return this.$store.state.articles.style
-    },
-    bibliography() {
-      return (
-        (this.item.bibliography &&
-          Array.isArray(this.item.bibliography) &&
-          this.item.bibliography?.length &&
-          this.item.bibliography
-            .slice()
-            .sort((a, b) => a[this.style].localeCompare(b[this.style]))) ||
-        []
-      )
-    },
-  },
-  mounted() {},
-  methods: {},
-}
+})
+
+const style = computed(() => rootStore.getChildrenStore('articles').style)
+
+const bibliography = computed(() => {
+  return (
+    (props.item.bibliography &&
+      Array.isArray(props.item.bibliography) &&
+      props.item.bibliography?.length &&
+      props.item.bibliography
+        .slice()
+        .sort((a, b) => a[style.value].localeCompare(b[style.value]))) ||
+    []
+  )
+})
 </script>
 <style lang="scss"></style>

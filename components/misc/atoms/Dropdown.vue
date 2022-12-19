@@ -1,42 +1,29 @@
 <template>
   <v-select
     v-model="selected"
-    v-bind="$attrs"
+    v-bind="attrs"
     menu-props="offset-y"
     @click:clear="
-      $router.push({ ...$route.query, query: { [filter]: undefined } })
+      router.push({ ...route.query, query: { [filter]: undefined } })
     "
   ></v-select>
 </template>
-<script>
-export default {
-  props: {
-    type: {
-      type: String,
-      default: '',
-      required: true,
-    },
-    filter: {
-      type: String,
-      required: true,
-      default: '',
-    },
+<script setup>
+import { useRootStore } from '~/store/root';
+
+const attrs = useAttrs()
+const route = useRoute()
+const router = useRouter()
+const props = defineProps({ type: String, filter: String })
+const rootStore = useRootStore()
+
+const selected = computed({
+  get() {
+    return rootStore.list && rootStore.list[props.filter]
   },
-  data() {
-    return {}
+  set(value) {
+    // this.$store.commit('list/update', { [this.filter]: value })
   },
-  computed: {
-    selected: {
-      get() {
-        return this.$store.state.list && this.$store.state.list[this.filter]
-      },
-      set(value) {
-        this.$store.commit('list/update', { [this.filter]: value })
-      },
-    },
-  },
-  mounted() {},
-  methods: {},
-}
+})
 </script>
 <style lang="scss"></style>

@@ -10,50 +10,50 @@
         class="mb-1 mr-1"
       ></Tag>
     </template>
-    <v-btn color="primary" small text @click="expanded = !expanded">
+    <v-btn color="primary" size="small" variant="text" @click="expanded = !expanded">
       {{ expanded ? 'Show less' : 'See all tags' }}
     </v-btn>
   </div>
 </template>
-<script>
-export default {
-  data() {
-    return { tags: [], expanded: false }
-  },
-  async fetch() {
-    const rst = await this.$content('articles')
-      .where({ published: true })
-      .only(['tags'])
-      .fetch()
+<script setup>
 
-    const tagsCountedSortedUniques = new Map(
-      Array.from(
-        rst
-          // get only the tags
-          .flatMap((post) => post.tag)
-          // count them
-          .reduce((acc, e) => acc.set(e, (acc.get(e) || 0) + 1), new Map())
-      )
-        // sort them by count from biggest to lowest
-        .sort((a, b) => {
-          return b[1] - a[1]
-        })
+const route = useRoute()
+const tags = reactive([])
+const expanded = ref(false)
+const articles = reactive([])
+
+const { fetch, fetchState } = useFetch(async () => {
+  articles = await queryContent('articles').where({published: true}).only(['tags']).find()
+
+  const tagsCountedSortedUniques = new Map(
+    Array.from(
+      articles
+        // get only the tags
+        .flatMap((post) => post.tag)
+        // count them
+        .reduce((acc, e) => acc.set(e, (acc.get(e) || 0) + 1), new Map())
     )
-    // if one of the tag searched is not displayed (not in the 10 first tags) we expand the tag filter to display it
-    if (
-      this.$route.query.tags &&
-      JSON.parse(this.$route.query.tags).find(
-        (tag) => [...tagsCountedSortedUniques.keys()].indexOf(tag) > 9
-      )
-    ) {
-      this.expanded = true
-    }
-    this.tags = tagsCountedSortedUniques
-  },
-  mounted() {
-    if (this.$route.query?.tags?.length) {
-      this.$fetch()
-    }
-  },
-}
+      // sort them by count from biggest to lowest
+      .sort((a, b) => {
+        return b[1] - a[1]
+      })
+  )
+
+  // if one of the tag searched is not displayed (not in the 10 first tags) we expand the tag filter to display it
+  if (
+    route.query.tags &&
+    Array.isArray(route.query.tags) &&
+    route.query.tags.some((tag) => !tagsCountedSortedUniques.has(tag))
+  ) {
+    expanded.value = true
+  }
+
+  tags.value = tagsCountedSortedUniques
+})
+
+onMounted(() => {
+  if (route.query?.tags?.length) {
+    fetch()
+  }
+})
 </script>

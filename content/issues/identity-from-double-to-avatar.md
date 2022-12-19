@@ -1,6 +1,7 @@
 ---
 date: 2018-12-14T11:00:00.000+00:00
 name_of_the_issue: 'Adventures of Identity: From the Double to the Avatar '
+title: 'From the Double to the Avatar '
 subtitle: ''
 cover: ''
 sub-issues: []

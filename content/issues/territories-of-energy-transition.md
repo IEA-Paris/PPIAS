@@ -1,6 +1,7 @@
 ---
 date: 2016-05-23T02:00:00.000+00:00
 name_of_the_issue: Les territoires de la transition énergétique
+title: Les territoires de la transition énergétique
 subtitle: Allemagne, France, Royaume-Uni
 cover: "/affiche_reynolds_territoirestransitionenergetique-ptt.jpg"
 sub-issues: []

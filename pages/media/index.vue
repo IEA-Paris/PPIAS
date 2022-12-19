@@ -15,15 +15,6 @@
     ></ListLeftPanel>
   </div>
 </template>
-<script>
-export default {
-  props: {},
-  data() {
-    return {}
-  },
-  computed: {},
-  mounted() {},
-  methods: {},
-}
+<script setup>
 </script>
 <style lang="scss"></style>

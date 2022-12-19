@@ -1,0 +1,57 @@
+// $font-size-root: 20px;
+$fortnightly-font-size: 16;
+// $fortnightly-heading-font-style: italic;
+// $fortnightly-primary-color: #6b38fb;
+
+// $body-font-family: 'Open Sans';
+// $border-radius-root: 0;
+// $btn-font-weight: 700;
+// $heading-font-family: 'Bodoni Moda';
+$body-font-family: 'Open Sans';
+$heading-font-family: 'Bodoni Moda';
+
+@use 'vuetify/settings' with (
+  $button-font-weight: 700,
+  $border-radius-root: 0,
+  $body-font-family: 'Open Sans',
+  $heading-font-family: 'Bodoni Moda',
+  $typography: (
+    'h1': (
+      'font-family': 'Bodoni Moda',
+      'letter-spacing': initial,
+      'size': calc(96 / 16)rem,
+      'weight': 900,
+    ),
+    'body-1': (
+      'font-family': $heading-font-family,
+      'letter-spacing': initial,
+      'size': calc(16 / $fortnightly-font-size)rem,
+      'weight': 400,
+    ),
+    'body-2': (
+      'font-family': $body-font-family,
+      'letter-spacing': initial,
+      'size': calc(14 / $fortnightly-font-size)rem,
+      'weight': 400,
+    ),
+    'caption': (
+      'font-family': $heading-font-family,
+      'letter-spacing': initial,
+      'size': calc(12 / $fortnightly-font-size)rem,
+      'weight': 400,
+    ),
+    'overline': (
+      'font-family': $body-font-family,
+      'letter-spacing': initial,
+      'size': calc(10 / $fortnightly-font-size)rem,
+      'weight': 700,
+    ),
+  )
+);
+
+// @use 'vuetify/styles' with (
+//   $button-sizes: (
+//     'default': 50,
+//     'large': 54
+//   )
+// );

@@ -3,7 +3,7 @@
     <v-row no-gutters>
       <v-col cols="auto" class="mr-3">
         <CiteModal
-          v-if="!$route.name.startsWith('print')"
+          v-if="!route.name.startsWith('print')"
           :item="item"
           text
         ></CiteModal>
@@ -35,42 +35,37 @@
     </v-row>
   </v-card>
 </template>
-<script>
-export default {
-  props: {
-    toCite: {
-      type: Object,
-      required: true,
-      default: () => ({}),
-    },
-    item: {
-      type: Object,
-      default: () => {},
-    },
+<script setup>
+import { useRootStore } from '~/store/root';
+
+const route = useRoute();
+const rootStore = useRootStore()
+
+const props = defineProps({
+  toCite: {
+    type: Object,
+    required: true,
+    default: () => ({}),
   },
-  data() {
-    return {}
+  item: {
+    type: Object,
+    default: () => {},
   },
-  computed: {
-    style() {
-      return this.$store.state.articles.style
-    },
-  },
-  mounted() {},
-  methods: {
-    async copyToClipBoard() {
-      try {
-        await navigator.clipboard.writeText(
-          this.toCite[this.style === 'APA' ? 'apa' : this.style].replace(
-            /(<([^>]+)>)/gi,
-            ''
-          )
-        )
-      } catch (error) {
-        console.log('error: ', error)
-      }
-    },
-  },
+})
+
+const style = computed(() => rootStore.state.articles.style)
+
+const copyToClipBoard = async () => {
+  try {
+    await navigator.clipboard.writeText(
+      props.toCite[style.value === 'APA' ? 'apa' : style.value].replace(
+        /(<([^>]+)>)/gi,
+        ''
+      )
+    )
+  } catch (error) {
+    console.log('error: ', error)
+  }
 }
 </script>
 <style lang="scss"></style>

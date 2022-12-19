@@ -3,11 +3,11 @@
     <v-col
       cols="12"
       class="transition-swing"
-      :class="$vuetify.breakpoint.xs ? ' pa-2' : 'pa-12'"
+      :class="isXsDisplay ? ' pa-2' : 'pa-12'"
     >
       <DoiBadge :doi="item.DOI"></DoiBadge>
       <div id="authors" class="overline mt-6">
-        {{ $tc('author_s', item.authors.length) }}
+        {{ $t('author_s', item.authors.length) }}
       </div>
       <ArticleAuthors :item="item"></ArticleAuthors>
       <div class="overline mt-6">{{ $t('publication-date') }}</div>
@@ -99,34 +99,31 @@
     </v-col>
   </v-row>
 </template>
-<script>
-export default {
-  props: {
-    item: {
-      type: Object,
-      default: () => {},
-    },
+<script setup>
+import { useDisplay } from 'vuetify';
+
+const { xs: isXsDisplay } = useDisplay();
+const route = useRoute()
+
+const props = defineProps({
+  item: {
+    type: Object,
+    default: () => {},
   },
-  data() {
-    return {}
-  },
-  computed: {
-    sortedTags() {
-      return this.$route.query?.tags?.length
-        ? this.item.tag.reduce((acc, tag) => {
+})
+
+const sortedTags = computed(() => {
+  return route.query?.tags?.length
+        ? props.item.tag.reduce((acc, tag) => {
             if (
-              this.$route.query.tags &&
-              this.$route.query.tags.includes(JSON.stringify(tag))
+              route.query.tags &&
+              route.query.tags.includes(JSON.stringify(tag))
             ) {
               return [tag, ...acc]
             }
             return [...acc, tag]
           }, [])
-        : this.item.tag
-    },
-  },
-  mounted() {},
-  methods: {},
-}
+        : props.item.tag
+})
 </script>
 <style lang="scss"></style>

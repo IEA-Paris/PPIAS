@@ -25,30 +25,22 @@
     <slot name="content"></slot>
   </div>
 </template>
-<script>
-// export component
-export default {
-  props: {
-    media: {
-      required: false,
-      type: Boolean,
-      default: false,
-    },
+<script setup>
+const slots = useSlots()
+
+const props = defineProps({
+  media: {
+    required: false,
+    type: Boolean,
+    default: false,
   },
-  data() {
-    return {}
-  },
-  mounted() {},
-  methods: {
-    hasContent(slot) {
-      return !!this.$slots[slot]
-    },
-  },
-}
+})
+
+const hasContent = (slot) => !!slots[slot]
 </script>
 
 <style scoped lang="scss">
-@import '~vuetify/src/styles/settings/_variables';
+@use 'vuetify/settings';
 
 .frame {
   overflow: hidden;
@@ -93,7 +85,7 @@ export default {
   max-width: 66%;
 }
 
-@media #{map-get($display-breakpoints, 'sm-and-down')} {
+@media #{map-get(settings.$display-breakpoints, 'sm-and-down')} {
   .caption-content {
     max-width: 86%;
   }

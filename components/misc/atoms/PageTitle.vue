@@ -1,6 +1,6 @@
 <template>
   <div class="d-flex align-center flex-column">
-    <div class="page-title" :class="$store.state.scrolled ? 'mb-9' : 'mb-6'">
+    <div class="page-title" :class="router.scrolled ? 'mb-9' : 'mb-6'">
       {{ text }}
     </div>
     <!--     <v-divider style="width: 120px"></v-divider>
@@ -8,24 +8,13 @@
     <div class="text-body-1 mt-3"><slot></slot></div>
   </div>
 </template>
-<script>
-export default {
-  props: {
-    text: {
-      type: String,
-      default: '',
-    },
-  },
-  data() {
-    return {}
-  },
-  computed: {},
-  mounted() {},
-  methods: {},
-}
+<script setup>
+const props = defineProps({ text: String })
+const router = useRouter()
 </script>
 <style lang="scss">
-@import '~vuetify/src/styles/settings/_variables';
+@use 'vuetify/settings';
+
 .page-title {
   font-family: 'Bodoni Moda';
   font-size: 3.5rem;
@@ -37,7 +26,8 @@ export default {
   font-size: 3rem;
   max-width: 1200px;
 }
-@media #{map-get($display-breakpoints, 'lg-only')} {
+
+@media #{map-get(settings.$display-breakpoints, 'lg')} {
   .page-title {
     font-size: 3rem;
     max-width: 900px;
@@ -47,7 +37,7 @@ export default {
     max-width: 900px;
   }
 }
-@media #{map-get($display-breakpoints, 'md-only')} {
+@media #{map-get(settings.$display-breakpoints, 'md')} {
   .page-title {
     font-size: 2.6rem;
     max-width: 800px;
@@ -57,7 +47,7 @@ export default {
     max-width: 800px;
   }
 }
-@media #{map-get($display-breakpoints, 'sm-only')} {
+@media #{map-get(settings.$display-breakpoints, 'sm')} {
   .page-title {
     font-size: 2.4rem;
   }
@@ -66,7 +56,7 @@ export default {
     max-width: 800px;
   }
 }
-@media #{map-get($display-breakpoints, 'xs-only')} {
+@media #{map-get(settings.$display-breakpoints, 'xs')} {
   .page-title {
     font-size: 2rem;
   }
@@ -88,7 +78,7 @@ export default {
   font-size: 1.8rem;
   max-width: 1200px;
 }
-@media #{map-get($display-breakpoints, 'lg-only')} {
+@media #{map-get(settings.$display-breakpoints, 'lg')} {
   .page-subtitle {
     font-size: 2rem;
     max-width: 900px;
@@ -98,7 +88,7 @@ export default {
     max-width: 900px;
   }
 }
-@media #{map-get($display-breakpoints, 'md-only')} {
+@media #{map-get(settings.$display-breakpoints, 'md')} {
   .page-subtitle {
     font-size: 1.8rem;
     max-width: 800px;
@@ -108,7 +98,7 @@ export default {
     max-width: 800px;
   }
 }
-@media #{map-get($display-breakpoints, 'sm-only')} {
+@media #{map-get(settings.$display-breakpoints, 'sm')} {
   .page-subtitle {
     font-size: 1.7rem;
   }
@@ -117,7 +107,7 @@ export default {
     max-width: 800px;
   }
 }
-@media #{map-get($display-breakpoints, 'xs-only')} {
+@media #{map-get(settings.$display-breakpoints, 'xs')} {
   .page-subtitle {
     font-size: 1.7rem;
   }

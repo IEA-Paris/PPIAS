@@ -46,26 +46,19 @@
     <span>Visit the ORCID Profile</span>
   </v-tooltip>
 </template>
-<script>
-export default {
-  props: {
-    orcid: {
-      type: String,
-      required: true,
-    },
-    small: {
-      type: Boolean,
-      default: true,
-      required: false,
-    },
+<script setup>
+
+const props = defineProps({
+  orcid: {
+    type: String,
+    required: true,
   },
-  data() {
-    return {}
+  small: {
+    type: Boolean,
+    default: true,
+    required: false,
   },
-  computed: {},
-  mounted() {},
-  methods: {},
-}
+})
 </script>
 <style lang="scss">
 .st0 {

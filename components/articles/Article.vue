@@ -1,10 +1,10 @@
 <template>
   <v-row
     class="transition-swing flex-row-reverse justify-center"
-    :no-gutters="!showToc || $vuetify.breakpoint.smAndDown"
+    :no-gutters="(!showToc || smAndDown)"
   >
     <TocDialog
-      v-if="$vuetify.breakpoint.smAndDown"
+      v-if="smAndDown"
       v-model="showToc"
       :item="item"
       :currently-active-toc="currentlyActiveToc"
@@ -14,21 +14,21 @@
       @close="showToc = false"
     />
     <v-col
-      :cols="showToc && $vuetify.breakpoint.mdAndUp ? 9 : 12"
+      :cols="showToc && mdAndUp ? 9 : 12"
       class="transition-swing"
     >
       <div
         :id="(item.anchor && item.anchor.toLowerCase()) || item.post_title"
         flat
-        v-bind="$attrs"
-        :class="$vuetify.breakpoint.smAndUp ? 'mx-6' : 'mx-0'"
+        v-bind="attrsProps"
+        :class="smAndUp ? 'mx-6' : 'mx-0'"
       >
         <div class="article sidebtn">
           <div
             class="d-flex align-center pt-3 pb-1 shadower"
             :class="title ? '' : 'shadow'"
           >
-            <v-tooltip v-if="$vuetify.breakpoint.mdAndUp" bottom>
+            <v-tooltip v-if="mdAndUp" bottom>
               <template #activator="{ on, attrs }">
                 <v-btn
                   tile
@@ -77,7 +77,7 @@
         <v-card-text
           :class="showToc ? 'align-start' : 'align-center'"
           class="d-flex flex-column"
-          :flat="$vuetify.breakpoint.xs"
+          :flat="isXsDisplay"
         >
           <div
             v-if="item.abstract && item.abstract.length"
@@ -91,7 +91,7 @@
 
           <!--           <div v-if="item.images && item.images.length > 1" class="pb-8 pt-3">
             <v-carousel
-              :height="$vuetify.breakpoint.mdAndUp ? '600' : '300'"
+              :height="mdAndUp ? '600' : '300'"
               cycle
             >
               <v-carousel-item
@@ -109,10 +109,10 @@
           <small v-if="item.copyright" class="muted caption"
             >&copy; {{ item.copyright }}</small
           >
-          <nuxt-content
-            :document="item"
+          <ContentRenderer
+            :value="item"
             style="max-width: 650px; width: 100%"
-            class="page a4"
+            class="page a4 nuxt-content"
           />
           <div
             v-if="item.bibliography && item.bibliography.length"
@@ -129,7 +129,7 @@
             <div
               id="footnotes"
               class="text-h4 mt-3 d-flex"
-              :class="$vuetify.breakpoint.xs ? 'ml-0' : 'ml-6'"
+              :class="isXsDisplay ? 'ml-0' : 'ml-6'"
             >
               {{ $t('footnotes') }}
             </div>
@@ -148,7 +148,7 @@
     </v-col>
     <v-col
       v-show="showToc"
-      v-if="$vuetify.breakpoint.mdAndUp"
+      v-if="mdAndUp"
       :cols="showToc ? 3 : 1"
       class="transition-swing"
     >
@@ -164,69 +164,64 @@
     </v-col>
   </v-row>
 </template>
-<script>
-export default {
-  props: {
-    item: {
-      type: Object,
-      default: () => {},
+<script setup>
+import { useDisplay } from 'vuetify'
+
+const { xs: isXsDisplay, smAndDown, smAndUp, mdAndUp } = useDisplay()
+const attrsProps = useAttrs()
+const nuxtApp = useNuxtApp()
+
+const nuxtContent = ref(null)
+const props = defineProps({
+  item: {
+    type: Object,
+    default: () => {},
+  },
+  title: {
+    type: Boolean,
+    default: false,
+  },
+})
+
+const showToc = ref(true)
+const currentlyActiveToc = ref('')
+const observer = reactive(null)
+const observerOptions = reactive({
+  root: nuxtContent,
+  threshold: 0,
+})
+const sheet = ref(false)
+
+onMounted(() => {
+  observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      const id = entry.target.getAttribute('id')
+      if (entry.isIntersecting) {
+        currentlyActiveToc.value = id
+      }
+    })
+  }, observerOptions)
+  // Track all sections that have an `id` applied
+  const sections = document.querySelectorAll('.nuxt-content h2[id], .nuxt-content h3[id], #bibliography, #footnotes')
+  sections.forEach((section) => {
+    observer.observe(section)
+  })
+})
+
+onBeforeUnmount(() => {
+  observer.disconnect()
+})
+
+const _srcset = (src) => nuxtApp.$img.getSizes(src, {
+    sizes: 'xs:100vw sm:100vw md:100vw lg:100vw xl:100vw',
+    modifiers: {
+      format: 'webp',
+      quality: 70,
     },
-    title: {
-      type: Boolean,
-      default: false,
-    },
-  },
-  data() {
-    return {
-      showToc: true,
-      currentlyActiveToc: '',
-      observer: null,
-      observerOptions: {
-        root: this.$refs.nuxtContent,
-        threshold: 0,
-      },
-      sheet: false,
-    }
-  },
-  computed: {},
-  mounted() {
-    this.observer = new IntersectionObserver((entries) => {
-      entries.forEach((entry) => {
-        const id = entry.target.getAttribute('id')
-        if (entry.isIntersecting) {
-          this.currentlyActiveToc = id
-        }
-      })
-    }, this.observerOptions)
-    // Track all sections that have an `id` applied
-    document
-      .querySelectorAll(
-        '.nuxt-content h2[id], .nuxt-content h3[id], #bibliography, #footnotes'
-      )
-      .forEach((section) => {
-        //, .nuxt-content p[id]
-        this.observer.observe(section)
-      })
-  },
-  beforeDestroy() {
-    this.observer.disconnect()
-  },
-  updated() {},
-  methods: {
-    _srcset(src) {
-      return this.$img.getSizes(src, {
-        sizes: 'xs:100vw sm:100vw md:100vw lg:100vw xl:100vw',
-        modifiers: {
-          format: 'webp',
-          quality: 70,
-        },
-      })
-    },
-  },
-}
+  })
 </script>
 <style lang="scss">
-@import '~vuetify/src/styles/settings/_variables';
+@use 'vuetify/settings';
 
 .youtube {
   width: 100%;
@@ -286,7 +281,7 @@ export default {
   max-width: 650px;
   margin-left: 0;
 }
-@media #{map-get($display-breakpoints, 'xs-only')} {
+@media #{map-get(settings.$display-breakpoints, 'xs')} {
   .node.d-flex a {
     display: none;
   }

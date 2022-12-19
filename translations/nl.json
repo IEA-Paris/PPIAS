@@ -289,7 +289,7 @@
     "register-to-the-wprn21-newsletter": "Aanmelden bij WPRN21",
     "gdpr": {
       "checkbox": "Door dit vakje aan te kruisen, ga ik ermee akkoord dat de gegevens die het Institut Paris IAS met dit formulier verzamelt, worden verwerkt door de communicatiedienst van het instituut. De gegevens worden verzameld en verwerkt ten behoeve van de communicatie van het instituut. Het verzamelen van gegevens is verplicht om de nieuwsbrief te ontvangen. De gegevens worden niet doorgegeven aan derden. Ze worden bewaard tot de abonnee vraagt om zich uit te schrijven.",
-      "text1": "Overeenkomstig de Franse wet op de gegevensbescherming van 6 januari 1978, gewijzigd in 2004, en de algemene verordening gegevensbescherming, kunt u uw recht op toegang, rectificatie en verzet uitoefenen door contact op te nemen met het Instituut via info@wprn.org",
+      "text1": "Overeenkomstig de Franse wet op de gegevensbescherming van 6 januari 1978, gewijzigd in 2004, en de algemene verordening gegevensbescherming, kunt u uw recht op toegang, rectificatie en verzet uitoefenen door contact op te nemen met het Instituut via info{'@'}wprn.org",
       "text2": "Wij gebruiken Mailchimp als ons marketing platform. Door hieronder te klikken om u in te schrijven, erkent u dat uw gegevens zullen worden overgedragen aan Mailchimp voor verwerking.",
       "text3": "Hier vindt u meer informatie over de privacyprocedures van Mailchimp."
     },
@@ -332,7 +332,7 @@
     "share": {
       "1": "Mijn project is gepubliceerd op {0}",
       "2": "{0} Project",
-      "3": "Hallo,%0d%0a%0d%0aGelieve dit project te controleren op WPRN (World Pandemic Research Network) :%0d%0ahttps%3A%2F%2Fwprn.org%2Fitem%2F${this.$route.params.id}%0d%0a%0d%0aBeste groeten,"
+      "3": "Hallo,%0d%0a%0d%0aGelieve dit project te controleren op WPRN (World Pandemic Research Network) :%0d%0ahttps%3A%2F%2Fwprn.org%2Fitem%2F{route_params_id}%0d%0a%0d%0aBeste groeten,"
     },
     "remove": {
       "title": "UW PROJECT IS SUCCESVOL VERWIJDERD VAN WPRN",

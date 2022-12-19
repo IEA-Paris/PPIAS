@@ -19,21 +19,8 @@
     </v-tooltip>
   </div>
 </template>
-<script>
-export default {
-  props: {
-    loading: {
-      type: Boolean,
-      default: false,
-      required: false,
-    },
-  },
-  data() {
-    return {}
-  },
-  computed: {},
-  mounted() {},
-  methods: {},
-}
+<script setup>
+
+const props = defineProps({ loading: Boolean })
 </script>
 <style lang="scss"></style>

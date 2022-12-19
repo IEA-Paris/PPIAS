@@ -1,7 +1,8 @@
 <template>
   <div>
+    
     <a
-      v-if="$route.name.startsWith('print')"
+      v-if="route.name.startsWith('print')"
       class="my-6 d-block w-100"
       :href="'https://www.youtube.com/watch?v=' + yt"
     >
@@ -78,49 +79,45 @@
     </div>
   </div>
 </template>
-<script>
-export default {
-  props: {
-    yt: {
-      type: String,
-      default: '',
-      required: true,
-    },
-    nocontrols: {
-      type: Boolean,
-      default: false,
-    },
-    caption: {
-      type: String,
-      default: '',
-    },
-    autoplay: {
-      type: Boolean,
-      default: false,
-    },
-    start: {
-      type: [String, Number],
-      default: '',
-      required: false,
-    },
-    stop: {
-      type: [String, Number],
-      default: '',
-      required: false,
-    },
-  },
-  data() {
-    return {
-      isIntersecting: true,
-    }
-  },
+<script setup>
 
-  mounted() {},
-  methods: {
-    handleEvent(event) {
-      /*  await this.$refs.ytPlayer[event]() */
-    },
+const { route } = useRoute()
+
+const props = defineProps({
+  yt: {
+    type: String,
+    default: '',
+    required: true,
   },
+  nocontrols: {
+    type: Boolean,
+    default: false,
+  },
+  caption: {
+    type: String,
+    default: '',
+  },
+  autoplay: {
+    type: Boolean,
+    default: false,
+  },
+  start: {
+    type: [String, Number],
+    default: '',
+    required: false,
+  },
+  stop: {
+    type: [String, Number],
+    default: '',
+    required: false,
+  },
+})
+
+const isIntersecting = ref(true)
+const ytPlayer = ref(null)
+
+const handleEvent = (event) => {
+  /*  await ytPlayer[event]() */
 }
 </script>
 <style lang="scss">

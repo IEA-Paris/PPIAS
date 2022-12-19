@@ -1,10 +1,10 @@
 <template>
   <v-autocomplete
     v-model="selected"
-    v-bind="$attrs"
+    v-bind="attrs"
     multiple
     menu-props="offset-y"
-    :loading="$nuxt.loading || $store.state.loading"
+    :loading="$nuxt.loading || rootStore.loading"
   >
     <template #selection="{ item, index }">
       <SelectionSlot
@@ -16,40 +16,23 @@
   ></v-autocomplete>
 </template>
 
-<script>
-export default {
-  props: {
-    type: {
-      type: String,
-      default: '',
-      required: true,
-    },
-    filter: {
-      type: String,
-      default: '',
-      required: true,
-    },
-  },
-  data() {
-    return {}
-  },
+<script setup>
+import { useRootStore } from '~/store/root';
 
-  computed: {
-    selected: {
-      get() {
-        return this.$store.state[this.type].filters[this.filter]
-      },
-      set(value) {
-        this.$store.dispatch('updateFilters', {
-          filters: { [this.filter]: value },
-          type: this.type,
-        })
-      },
-    },
-  },
+const attrs = useAttrs()
+const rootStore = useRootStore()
+const props = defineProps({ type: String, filter: String })
 
-  created() {},
-  beforeCreate() {},
-}
+const selected = computed({
+  get() {
+    return rootStore.getChildrenStore(props.type).filters[props.filter]
+  },
+  set(value) {
+    rootStore.updateFilters({
+      filters: { [props.filter]: value },
+      type: props.type,
+    })
+  },
+})
 </script>
 <style scoped></style>

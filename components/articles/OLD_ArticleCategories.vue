@@ -20,20 +20,14 @@
     </v-chip>
   </span>
 </template>
-<script>
-export default {
-  props: {
-    item: {
-      required: true,
-      type: Object,
-    },
+<script setup>
+
+const props = defineProps({
+  item: {
+    type: Object,
+    required: true,
+    default: () => {},
   },
-  data() {
-    return {}
-  },
-  computed: {},
-  mounted() {},
-  methods: {},
-}
+})
 </script>
 <style lang="scss"></style>
