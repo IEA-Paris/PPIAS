@@ -13,7 +13,7 @@ authors:
   social_channels:
     linkedin: https://fr.linkedin.com/in/marie-lacroix-93255b87?original_referer=https%3A%2F%2Fwww.google.com%2F
     researchgate: https://www.researchgate.net/profile/Marie-Lacroix
-date: 2019-06-06T02:00:00.000+00:00
+date: 2019-06-06T03:00:00Z
 highlight: false
 issue: content/issues/sleep-and-memory.md
 needDOI: false
