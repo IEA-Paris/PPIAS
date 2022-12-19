@@ -13,7 +13,7 @@ authors:
   social_channels:
     website: http://zugarolab.net:8080/
     google_scholar: https://scholar.google.fr/citations?user=h0KH2ZIAAAAJ&hl=fr
-date: 2019-06-06T01:00:00.000+00:00
+date: 2019-06-06T02:00:00Z
 highlight: false
 issue: content/issues/sleep-and-memory.md
 needDOI: false
