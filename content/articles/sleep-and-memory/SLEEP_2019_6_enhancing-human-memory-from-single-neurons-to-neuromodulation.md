@@ -1,5 +1,5 @@
 ---
-abstract: 'Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 2 - Enhancement and
+abstract: 'Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 3 - Enhancement and
   Inception (Part II: Humans)'
 article_title: 'Enhancing Human Memory: From Single Neurons to Neuromodulation'
 authors:
