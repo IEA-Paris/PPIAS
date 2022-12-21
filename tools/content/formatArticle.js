@@ -67,7 +67,7 @@ export default (document) => {
             }),
           },
         ],
-        link: [{ url: config.url + '/articles/' + document.slug }],
+        link: [{ url: config.url + '/article/' + document.slug }],
         accessed: {
           'date-parts': [new Date().toISOString()],
         },

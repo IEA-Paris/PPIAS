@@ -9,7 +9,7 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-lastname: FISKE
+lastname: Fiske
 positions_and_institutions:
   - institution: Princeton University, USA
     positions:

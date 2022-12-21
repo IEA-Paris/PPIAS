@@ -119,7 +119,8 @@ export default (articles, issues) => {
     authors: {
       filters: {
       years: filters.years,
-      language: filters.language
+      language: filters.language,
+      issue: filters.issue
       },
       sort:{}
     }

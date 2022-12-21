@@ -10,9 +10,7 @@
     style="background-color=black;"
     min-height="300px"
     nuxt
-    :to="
-      localePath('/articles/' + item.article_slug + '#youtube_' + item.index)
-    "
+    :to="localePath('/article/' + item.article_slug + '#youtube_' + item.index)"
   >
     <YoutubeThumbnail
       v-if="item.id && item.id.length"

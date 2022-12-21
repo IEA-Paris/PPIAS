@@ -7,12 +7,12 @@ articles:
     identity-versus-self-tensions-between-group-radicalization-and-individual-violence
 createdAt: '2022-11-10T08:35:33.259Z'
 exerpt: ''
-firstname: JM
+firstname: J.M.
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-lastname: BERGER
+lastname: Berger
 positions_and_institutions:
   - institution: International Center for Counter-Terrorism, Netherlands
     positions:

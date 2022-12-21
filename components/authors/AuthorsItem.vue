@@ -10,7 +10,7 @@
         :elevation="hover ? 2 : 0"
         flat
         nuxt
-        :to="localePath('/authors/' + item.slug)"
+        :to="localePath('/author/' + item.slug)"
         class="text-h5 ma-2 pa-2"
         v-html="highlightWord(item.firstname + ' ' + item.lastname)"
       >

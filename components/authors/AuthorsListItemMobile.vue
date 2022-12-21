@@ -12,7 +12,7 @@
     <v-list-item
       v-else
       nuxt
-      :to="localePath('/authors/' + item.slug)"
+      :to="localePath('/author/' + item.slug)"
       class="mb-6 d-flex align-start pl-0"
       :class="index > 0 ? '' : ''"
       flat

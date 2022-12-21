@@ -1,7 +1,7 @@
 <template>
   <v-list-item
     nuxt
-    :to="localePath('/articles/' + item.slug)"
+    :to="localePath('/article/' + item.slug)"
     @click="$emit('close')"
   >
     <v-list-item-avatar tile class="mr-8">

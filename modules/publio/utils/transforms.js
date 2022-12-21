@@ -65,7 +65,7 @@ export const formatAuthors = (
       (author.is_institution
         ? ''
         : (initials ? '&nbsp;' : ',&nbsp;') +
-          (initials && author.firstname?.length
+          (initials && author?.firstname?.length
             ? author.firstname
                 .trim()
                 .replace(/[^A-Za-z0-9À-ÿ ]/gi, '') // taking care of accented characters as well
@@ -76,7 +76,7 @@ export const formatAuthors = (
                 .concat(author.firstname) // what if the name is only one character
                 .substr(0, 1) // get the first two characters an initials
                 .toUpperCase()
-            : author.firstname) +
+            : author.firstname || '') +
           (initials ? '.&nbsp;' : ''))
     const institution =
       (author?.positions_and_institutions &&

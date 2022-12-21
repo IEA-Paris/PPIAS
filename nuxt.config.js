@@ -34,7 +34,7 @@ export default {
             .where({ published: true })
             .only(['slug'])
             .fetch()
-        ).map((file) => '/articles/' + file.slug),
+        ).map((file) => '/article/' + file.slug),
         ...(
           await $content('authors', { deep: true })
             .where({ active: true })
@@ -553,6 +553,7 @@ export default {
     babel: {
       compact: true,
     },
+    transpile: ['vuetify'],
     extend(config, ctx) {
       // extend source map to enable local debug in VScode (breakpoints & co)
       if (ctx.isDev) {

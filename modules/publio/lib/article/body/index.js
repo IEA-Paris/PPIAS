@@ -14,6 +14,7 @@ export default (
   article.Toc2 = []
   article.countMap = []
   article.countRefs = []
+  article.maths = []
   article.count = 0
   // process the article frontmatter
   metadata.forEach(

@@ -1,5 +1,5 @@
 <template>
-  <nuxt-link :to="localePath('/authors/' + path)" @click="$emit('close')">
+  <nuxt-link :to="localePath('/author/' + path)" @click="$emit('close')">
     <span v-html="item.formatedName"></span>
     <AuthorOrcidIdBadge
       v-if="item.social_channels && item.social_channels.orcid"

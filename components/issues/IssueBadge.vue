@@ -10,6 +10,7 @@
   </v-chip>
 </template>
 <script>
+import rawFilters from '~/assets/generated/filters'
 export default {
   props: {
     issue: {
@@ -25,7 +26,10 @@ export default {
   },
   data() {
     return {
-      issueText: this.issue.slice(15, -3),
+      issueText:
+        rawFilters.articles.filters.issue.items.find(
+          (item) => item.value === this.issue.slice(15, -3)
+        )?.text || this.issue.slice(15, -3),
     }
   },
 

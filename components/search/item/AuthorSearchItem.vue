@@ -1,7 +1,7 @@
 <template>
   <v-list-item
     nuxt
-    :to="localePath('/authors/' + item.slug)"
+    :to="localePath('/author/' + item.slug)"
     @click="$emit('close')"
   >
     <v-list-item-icon>

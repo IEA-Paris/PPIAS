@@ -6,7 +6,7 @@ export default (node, article, media, authors, issues, options) => {
     article.media.push({
       type: 'youtube',
       index:
-        media.length - (document.yt && document.yt !== node.props.yt ? 0 : 1),
+        media.length - (article.yt && article.yt !== node.props.yt ? 0 : 1),
       caption: node.props.caption,
     })
   }

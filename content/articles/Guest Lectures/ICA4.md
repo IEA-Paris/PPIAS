@@ -74,16 +74,17 @@ The Intercontinental Academia (ICA) creates a global network of future research 
 The ICA was established in 2016 through the University-Based Institutes for Advanced Study (UBIAS) coalition which has 44 member institutes around the world (@cordelois_how_2020).
 
 During each edition of Intercontinental Academia, participants get together in three sessions over the course of one year.
+<testt><strong>This is my div</strong></testt>
 
 Previous editions of ICA have focused on "Time", "Human Dignity" and "Laws: Rigidity and Dynamics".
 
-<math-jax/>$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</MathJax>
+<math-jax/>$$e^{ \pm i\theta } = \cos \theta \pm i\sin \theta$$</MathJax>
 
 The 4th edition of the ICA explores the complementarities between artificial intelligence and neuro/cognitive-science and the tremendous challenges and opportunities they raise for humanity. Fellows and mentors initially met online and in cyberspace, and now in presence in Paris, from October 18 to 27. They shall meet again in cyberspace in the next few months and then finally, in Belo Horizonte in Brazil next June.
 
 The first session, hosted by Paris Institute for Advanced Study (Paris IAS), includes an intense 10-days of scientific sessions, discussion forums as well as scientific exchanges with ENS-Paris Saclay, Sorbonne Center for Artificial Intelligence and Ecole Normale Supérieure.
 
-Each day at the[ Paris IAS](https://www.paris-iea.fr/en/ 'Paris IEA'),[ ICA4 Fellows](https://www.intercontinental-academia.org/fellows 'ICA4 Fellows') meet with their[ Mentors](https://www.intercontinental-academia.org/mentors 'ICA4 Mentors') for a closed 3-hour seminar, during which two mentors launch the discussion with a presentation. Upon completion of the seminar, the Fellows then meet for 45 minutes to list the key takeaways and ideas that have emerged from the discussion, followed by a collective brainstorming session . This ensures that the output of collective intelligence is collected, formatted and capitalised.
+Each day at the [Paris IAS](https://www.paris-iea.fr/en/ 'Paris IEA'), [ICA4 Fellows](https://www.intercontinental-academia.org/fellows 'ICA4 Fellows') meet with their[ Mentors](https://www.intercontinental-academia.org/mentors 'ICA4 Mentors') for a closed 3-hour seminar, during which two mentors launch the discussion with a presentation. Upon completion of the seminar, the Fellows then meet for 45 minutes to list the key takeaways and ideas that have emerged from the discussion, followed by a collective brainstorming session . This ensures that the output of collective intelligence is collected, formatted and capitalised.
 
 The other half of the day is left free for participants to reflect on the scientific discussions in small groups. Such discussions are occasionally complemented by lectures from the[ **Chairs**](https://www.intercontinental-academia.org/about/ica4 'ICA4 Chairs').
 

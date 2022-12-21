@@ -36,17 +36,5 @@ export default (node, article, media, authors, issues, options) => {
       })
   }
 
-  return [
-    {
-      type: 'element',
-      tag: 'div',
-      props: { class: 'node d-flex' },
-      children: [node],
-    },
-    article,
-    media,
-    authors,
-    issues,
-    options,
-  ]
+  return [node, article, media, authors, issues, options]
 }

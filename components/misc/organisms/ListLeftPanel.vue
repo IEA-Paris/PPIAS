@@ -252,11 +252,15 @@
       <div class="text-center">
         <Pagination
           v-if="numberOfPages > 1"
-          :total-visible="5"
-          :value="page || 1"
-          :length="numberOfPages"
-          @input="handlePagination"
-        />
+          :type="type"
+          color="black"
+          large
+          :current-page="page"
+          :total-pages="numberOfPages"
+          :page-padding="1"
+          :page-gap="2"
+          :hide-prev-next="false"
+        ></Pagination>
       </div>
     </v-container>
   </div>
@@ -388,7 +392,7 @@ export default {
     },
   },
   async mounted() {
-    this.$store.commit('loadRouteQuery', this.type)
+    this.$store.commit('loadRouteQueryAndParams', this.type)
     this.filter =
       this.$store.state[this.type].filtersCount > 0 ||
       (this.$route.query.filters &&

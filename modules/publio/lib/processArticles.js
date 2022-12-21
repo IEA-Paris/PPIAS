@@ -1,4 +1,4 @@
-import generateDOI from './article/generateDOI'
+import generateDOI from './article/disseminate/generateDOI'
 export default async (content, options) => {
   const { $content } = require('@nuxt/content')
   // TODO filter fields using .only(['field'])

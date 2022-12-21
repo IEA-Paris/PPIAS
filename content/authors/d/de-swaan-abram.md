@@ -9,7 +9,7 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-lastname: DE SWAAN
+lastname: De Swaan
 positions_and_institutions:
   - institution: University of Amsterdam, Netherlands
     positions:

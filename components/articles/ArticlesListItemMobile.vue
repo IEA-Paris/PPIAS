@@ -12,7 +12,7 @@
     <v-list-item
       v-else
       nuxt
-      :to="localePath('/articles/' + item.slug)"
+      :to="localePath('/article/' + item.slug)"
       class="d-flex align-start pl-0"
       :class="(index > 0 ? '' : '', { 'mt-5': $vuetify.breakpoint.smAndDown })"
       flat

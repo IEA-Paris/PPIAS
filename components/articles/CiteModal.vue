@@ -117,7 +117,7 @@ export default {
             }) +
             ', DOI:' +
             this.item.doi +
-            ', URL:https://pias.science/articles/' +
+            ', URL:https://pias.science/article/' +
             this.item.slug, // TODO update with subdomains and locales
         },
         {
@@ -137,7 +137,7 @@ export default {
             }) +
             ', DOI:' +
             this.item.doi +
-            ', URL:https://pias.science/articles/' +
+            ', URL:https://pias.science/article/' +
             this.item.slug, // TODO update with subdomains and locales
         },
         {
@@ -157,7 +157,7 @@ export default {
             }) +
             ', DOI:' +
             this.item.doi +
-            ', URL:https://pias.science/articles/' +
+            ', URL:https://pias.science/article/' +
             this.item.slug, // TODO update with subdomains and locales
         },
         {

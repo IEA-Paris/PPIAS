@@ -7,7 +7,7 @@
     min-height="250px"
     :max-height="highlighted ? '' : '500px'"
     nuxt
-    :to="localePath('/articles/' + item.slug)"
+    :to="localePath('/article/' + item.slug)"
   >
     <v-skeleton-loader
       v-if="$store.state.loading"

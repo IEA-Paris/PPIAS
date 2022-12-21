@@ -4,7 +4,7 @@
       <img
         src="http://localhost:3000/ppias.svg"
         alt="Avatar"
-        style="width: 70px; height: 70px"
+        style="width: 70px; height: 70px; margin-top: 5mm"
       />
     </header>
 
@@ -141,7 +141,7 @@
       </tbody>
       <tfoot>
         <tr>
-          <td>&nbsp;</td>
+          <td></td>
         </tr>
       </tfoot>
     </table>
@@ -158,7 +158,7 @@
             <a
               :href="`${$config.url}/articles/${item.slug}`"
               style="text-decoration: none"
-              >{{ `${$config.url}/articles/${item.slug}` }}</a
+              >{{ `${$config.url}/article/${item.slug}` }}</a
             >
             - {{ $config.identifier.ISSN }}/&copy;
             {{ new Date().getFullYear() }}
@@ -280,6 +280,7 @@ export default {
     .to-cite > .csl-bib-body > .csl-entry {
       font-size: 0.7em;
       line-height: 1.2em;
+      text-align: left;
     }
     border-left: 5px #5b5b66 solid;
     padding: 0 15px;
@@ -299,7 +300,7 @@ export default {
   .page-title {
     margin-top: 0 !important;
     padding-top: 0 !important;
-    font-size: 40px;
+    font-size: 38px;
   }
 
   .index {
@@ -324,6 +325,7 @@ export default {
   }
   .csl-bib-body,
   .footnotes-panel,
+  .nuxt-content.article-body ul li,
   .nuxt-content.article-body ul li {
     text-align: left;
   }
@@ -403,11 +405,11 @@ export default {
   }
 
   table.paging tfoot td {
-    height: 1.2in;
+    height: 0.8in;
   }
 
   table.paging thead td {
-    height: 1.2in;
+    height: 0.8in;
     width: 100%;
   }
 
@@ -426,7 +428,7 @@ export default {
 }
 
 footer {
-  height: 1.2in;
+  height: 0.8in;
 }
 
 header {
@@ -445,6 +447,6 @@ footer {
 }
 
 .footer-divider {
-  margin-bottom: 0.5cm;
+  margin: 3mm 0 3mm 0;
 }
 </style>

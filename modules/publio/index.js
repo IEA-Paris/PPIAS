@@ -22,7 +22,7 @@ import insertFootnotes from './lib/article/body/insertFootnotes'
 import processArticle from './lib/article/body'
 import insertCitationElements from './lib/article/insertCitationElements'
 import generatePDF from './lib/article/files/generatePDF'
-import upsertOnZenodo from './lib/article/upsertOnZenodo'
+import upsertOnZenodo from './lib/article/disseminate/upsertOnZenodo'
 import generateFiles from './lib/article/files'
 import { insertDocuments } from './utils/contentUtilities'
 import insertRelationalData from './lib/article/insertRelationalData'
@@ -191,12 +191,12 @@ export default async function (moduleOptions) {
         // Formatting fixes
         [
           generateCountMap,
-          insertBodyStructureIndex,
           insertFootnotes,
           insertToC,
           insertVideo,
           insertImage,
           insertFormula,
+          insertBodyStructureIndex,
         ]
       )
       media = [...(media || []), ...extractAndGenerateMedia(article)]

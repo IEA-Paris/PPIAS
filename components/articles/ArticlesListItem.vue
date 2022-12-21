@@ -33,7 +33,7 @@
     <v-card
       v-else
       nuxt
-      :to="localePath('/articles/' + item.slug)"
+      :to="localePath('/article/' + item.slug)"
       class="d-flex transition-swing"
       :class="[$store.state.scrolled ? 'py-3' : 'py-1']"
       flat

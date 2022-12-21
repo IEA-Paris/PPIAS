@@ -40,7 +40,7 @@
                 tile
                 v-bind="attrs"
                 nuxt
-                :href="'/articles/' + item.slug"
+                :href="'/article/' + item.slug"
                 target="_blank"
                 :title="item.post_title"
                 small
@@ -71,7 +71,7 @@
                 class="mb-3 px-3 font-italic authorsBtn"
                 style=""
                 nuxt
-                :to="'/articles/' + item.slug + '#authors'"
+                :to="'/article/' + item.slug + '#authors'"
                 v-html="formatAuthorsProxy()"
               >
               </v-btn>

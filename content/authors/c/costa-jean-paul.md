@@ -9,7 +9,7 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
 language:
-lastname: COSTA
+lastname: Costa
 positions_and_institutions:
   - institution: International Institute of Human Rights, France
     positions:

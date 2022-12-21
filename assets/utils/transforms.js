@@ -93,7 +93,7 @@ export const formatAuthors = (
           return `<sup>${instutionId}</sup>`
         })
         .join('')
-      return `<a href="${url}/authors/${slug}" style="text-decoration: none; color: inherit;">${name}<span style="margin-left: 3px">${instutionElmt}</span></a>`
+      return `<a href="${url}/author/${slug}" style="text-decoration: none; color: inherit;">${name}<span style="margin-left: 3px">${instutionElmt}</span></a>`
     }
     return name
   }

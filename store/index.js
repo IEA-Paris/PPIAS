@@ -23,9 +23,9 @@ export const mutations = {
     }
   },
 
-  loadRouteQuery(state, type, rootState) {
+  loadRouteQueryAndParams(state, type, rootState) {
     const query = this.app.router.currentRoute.query
-
+    const params = this.app.router.currentRoute.params
     if (query.search) {
       set(state[type], 'search', query.search)
     }
@@ -37,8 +37,8 @@ export const mutations = {
     }
 
     if (query.view) set(state[type], 'view', query.view)
-    if (query.page) {
-      set(state[type], 'page', query.page)
+    if (params.page) {
+      set(state[type], 'page', params.page)
     } else {
       set(state[type], 'page', 1)
     }
@@ -70,6 +70,8 @@ export const mutations = {
     state[type].itemsPerPage = value
   },
   setPage(state, { page, type }) {
+    if (this.app.router.currentRoute.params.page !== page)
+      this.app.router.push('/' + type + '/' + page)
     set(state[type], 'page', page)
   },
   setFilters(state, { filters, type }) {
@@ -233,12 +235,9 @@ export const actions = {
         } else if (['language'].includes(filter)) {
           pipeline.language = { $containsAny: val }
         } else if (filter === 'issue') {
-          pipeline.issue =
-            val.length > 1
-              ? {
-                  $in: val.map((item) => 'content/issues/' + item + '.md'),
-                }
-              : 'content/issues/' + val[0] + '.md'
+          pipeline.issue = {
+            $containsAny: val.map((item) => 'content/issues/' + item + '.md'),
+          }
         } else if (filter === 'years') {
           const yearsToInt = val.map((i) => +i)
           if (['articles', 'media'].includes(type)) {
@@ -321,9 +320,6 @@ export const actions = {
         typeof rootState[type].search !== 'undefined' && {
           search: rootState[type].search,
         }),
-      ...(rootState[type].page > 1 && {
-        page: rootState[type].page.toString(),
-      }),
       ...(rootState[type].sortBy?.length &&
         rootState[type].sortBy[0] !== defaultSort.value[0] && {
           sortBy: rootState[type].sortBy[0],

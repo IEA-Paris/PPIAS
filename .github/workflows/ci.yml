@@ -37,6 +37,7 @@ jobs:
 
       # Cancel previous runs to avoid wasting resources
       - name: 🧹 clean up runners
+        # TODO replace hard coded references to the repo with variables
         run: |
           ids=$(gh api -H "Accept: application/vnd.github+json" /repos/IEA-Paris/PPIAS/actions/runs | jq -s -c 'sort_by(.created_at) | .[]' | jq '.workflow_runs[] | select([.status] | inside(["in_progress", "queued"])) | .id')
           nids=$(echo $ids | wc -w)
@@ -131,3 +132,10 @@ jobs:
         env:
           DISTRIBUTION: ${{ env.SSM_CLOUDFRONT_ID }}
           PATHS: '/*'
+
+      - name: Uptime Action
+        uses: srt32/uptime@v0.2.1
+        # TODO replace hard coded references to the repo with variables
+        with:
+          url-to-hit: 'https://paris.pias.science'
+          expected-statuses: '200,301'
