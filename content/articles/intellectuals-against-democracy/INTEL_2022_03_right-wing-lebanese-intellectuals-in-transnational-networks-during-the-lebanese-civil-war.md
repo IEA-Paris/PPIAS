@@ -11,6 +11,9 @@ authors:
   - institution: EUME - Berlin, Germany
     positions:
     - ''
+  social_channels:
+    orcid: 0000-0003-3923-5141
+    linkedin: https://uk.linkedin.com/in/chloe-kattar-b6043b201
 date: 2022-06-02T01:00:00Z
 highlight: false
 issue: content/issues/intellectuals-against-democracy.md
