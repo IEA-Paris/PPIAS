@@ -1,8 +1,8 @@
 ---
 abstract: Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris IAS,
   10-11 December - Session 3 "L’agir prophétique"
-article_title: Ouvrir et fermer les futurs. Le pragmatisme sociologique et la critique
-  de la prophétie
+article_title: Ouvrir et Fermer les Futurs. Le Pragmatisme Sociologique et la Critique
+  de la Prophétie
 authors:
 - firstname: Francis
   is_institution: false
@@ -29,8 +29,9 @@ language: English
 bibliography: "/documents-exportes_prop13.bib"
 
 ---
-### Session 3 Prophetic Action
+### Session 3 L' Agir Prophétique
 
-A third session deals with the political effects of prophecy. The prophetic speech is not only a future-oriented strand of knowledge; it also carries a practical aspiration to transform the present. This transformative ambition seems to cut across all past and present prophetic movements. But how to make sense of the political dimension of prophesies? On this point, opinions differ. For some, apocalyptic images and rhetoric enclose political debates in binary choices (survival or extinction) which contribute to the impoverishment and de-politicization of democratic life. For others, prophetic discourses broaden the scope of imagined futures, a prerequisite for the emergence of political alternatives. This debate on the political ramification of prophecies needs clarification at a time when catastrophist predictions are becoming an integral part of democratic life.
+Cette session porte sur les effets politiques de la prophétie. La parole prophétique n’est pas seulement une forme de savoir tournée vers le futur mais aussi une aspiration à transformer le présent. Cette orientation politique semble transversale à tous les mouvements prophétiques passés ou actuels. Mais comment qualifier cette fonction politique du prophétisme ? Sur ce point les avis divergent. Pour certains, les discours catastrophistes enferment les débats sur les risques dans des choix binaires (survie ou extinction) qui appauvrissement et dépolitisent la vie démocratique. Pour d’autres, ces discours viennent nourrir utilement le débat public en ouvrant l’horizon des possibles, condition préalable à l’émergence d’alternatives politiques. Ce débat demande à être éclairci dans l’époque actuelle où la parole prophétique semble devenir une composante  
+majeure du débat démocratique.
 
 <Youtube yt="xl_UjjtNv9Q" caption="Ouvrir et fermer les futurs. Le pragmatisme sociologique et la critique de la prophétie" start="71" stop="2225"></Youtube>
