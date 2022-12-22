@@ -1,11 +1,12 @@
 ---
-date: 2022-06-16T13:46:12.000+00:00
+date: 2022-05-16T13:46:12Z
 name_of_the_issue: L’Évaluation des Sciences humaines et sociales en Europe
-subtitle:  Actes du colloque du Hcéres organisé dans le cadre de la Présidence Française de
-  l’Union Européenne (PFUE 2022). IEA de Paris, 16-17 mai 2022.
+subtitle: Actes du colloque du Hcéres organisé dans le cadre de la Présidence Française
+  de l’Union Européenne (PFUE 2022). IEA de Paris, 16-17 mai 2022.
 cover: ''
 title: HCERES - PFUE 2022
 short_name: HCERES - PFUE 2022
+sub-issues: []
 
 ---
 Dans le cadre de la Présidence Française de l’Union Européenne 2022 (PFUE), le Haut Conseil de l’évaluation de la recherche et de l’enseignement supérieur (Hcéres)  a organisé les 16 et 17 mai 2022 un colloque au sujet de l’**Évaluation des Sciences humaines et sociales en Europe**.
