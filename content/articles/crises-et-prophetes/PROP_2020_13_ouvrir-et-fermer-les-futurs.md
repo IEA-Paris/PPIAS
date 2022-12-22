@@ -29,4 +29,8 @@ language: English
 bibliography: "/documents-exportes_prop13.bib"
 
 ---
+### Session 3 Prophetic Action
+
+A third session deals with the political effects of prophecy. The prophetic speech is not only a future-oriented strand of knowledge; it also carries a practical aspiration to transform the present. This transformative ambition seems to cut across all past and present prophetic movements. But how to make sense of the political dimension of prophesies? On this point, opinions differ. For some, apocalyptic images and rhetoric enclose political debates in binary choices (survival or extinction) which contribute to the impoverishment and de-politicization of democratic life. For others, prophetic discourses broaden the scope of imagined futures, a prerequisite for the emergence of political alternatives. This debate on the political ramification of prophecies needs clarification at a time when catastrophist predictions are becoming an integral part of democratic life.
+
 <Youtube yt="xl_UjjtNv9Q" caption="Ouvrir et fermer les futurs. Le pragmatisme sociologique et la critique de la prophétie" start="71" stop="2225"></Youtube>
