@@ -5,7 +5,7 @@ keywords: []
 date: 2022-06-01T23:00:54Z
 language: English
 disciplines: ''
-published: false
+published: true
 doi: ''
 article_title: Intellectuals against Liberal Democracy. Academia, Media, and Culture
   - Program
