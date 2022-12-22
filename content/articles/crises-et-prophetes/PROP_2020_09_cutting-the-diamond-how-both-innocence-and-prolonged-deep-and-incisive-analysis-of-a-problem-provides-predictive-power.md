@@ -30,8 +30,4 @@ language: English
 bibliography: "/documents-exportes_prop09.bib"
 
 ---
-### Session 2 - Retour sur expérience : "s'être trompé" et "avoir eu raison" en 2008
-
-La seconde session est consacrée au cas spécifique des prophéties financières. Plusieurs personnalités ayant anticipé la crise de 2008 seront conviées à partager leur vécu. Ces économistes ont développé parfois très tôt, dès le début des années 2000, la conviction de l’imminence d’une catastrophe financière. Certaines de leurs écrits et prises de position d’avant la crise peuvent surprendre de par leur clairvoyance. Ces experts offrent un contraste saisissant avec les prévisionnistes officiels car ils ont accueilli la crise non comme une surprise mais comme la fin d’une attente. Aujourd’hui encore, ils continuent d’être présentés comme les « prophètes de 2008 ». Leurs communications en forme de témoignage permettront d’éclaircir les questions suivantes : Comment naît et s’affermit un discours de crise imminente ? Comment leurs discours ont-ils été reçus et critiqués par les autorités de régulation et les investisseurs qui, dans leur grande majorité, écartaient la possibilité d’une crise ? Comment ces économistes ont vécu la crise ? Et dans quelle mesure leurs propositions de réforme des pratiques financières ont été prises en compte après 2008 ?
-
 <Youtube yt="kfhEb2fDQLk" caption="Cutting the diamond: how both ‘innocence’ and prolonged, deep and incisive analysis of a problem provides predictive power " start="3490" stop="4308"></Youtube>
