@@ -1,39 +1,45 @@
 ---
 DOI: 10.5072/zenodo.1115395
 Zid: 1115395
-abstract: >-
-  During the Covid-19 pandemic, the authorities asked for unusual instructions that contradicted generally valued behaviours: isolation and social distancing rather than social activities and rituals (going out, consumption, physical contact). Unsurprisingly, there is a difficulty in changing behaviour in the direction imposed by the pandemic, although at a time of progressive deconfinement, respect for social distancing is a crucial issue, and everything suggests that these behaviours will have to be maintained over time. It is therefore essential to understand the best ways to persuade citizens to adopt the right behaviours.
-  Memorandum 1 : overview of the studies and projects registered on WPRN database
+abstract: 'During the Covid-19 pandemic, the authorities asked for unusual instructions
+  that contradicted generally valued behaviours: isolation and social distancing rather
+  than social activities and rituals (going out, consumption, physical contact). Unsurprisingly,
+  there is a difficulty in changing behaviour in the direction imposed by the pandemic,
+  although at a time of progressive deconfinement, respect for social distancing is
+  a crucial issue, and everything suggests that these behaviours will have to be maintained
+  over time. It is therefore essential to understand the best ways to persuade citizens
+  to adopt the right behaviours. Memorandum 1 : overview of the studies and projects
+  registered on WPRN database'
 article_title: Concern for Others is a Better Argument to Foster Social Distancing
 authors:
-  - firstname: Simon
-    lastname: Luck
-    positions_and_institutions:
-      - institution: Paris Institute for Advanced Study
-  - firstname: Saadi
-    lastname: Lahlou
-    positions_and_institutions:
-      - institution: Paris Institute for Advanced Study
-bibliography: /bibliography/documents-exportes_memo1.bib
-date: 2020-04-30T22:00:00.000Z
-doi: '169059797'
-highlight: true
+- firstname: Simon
+  lastname: Luck
+  positions_and_institutions:
+  - institution: Paris Institute for Advanced Study
+- firstname: Saadi
+  lastname: Lahlou
+  positions_and_institutions:
+  - institution: Paris Institute for Advanced Study
+bibliography: "/bibliography/documents-exportes_memo1.bib"
+date: 2020-04-30T22:00:00.000+00:00
+doi: "169059797"
+highlight: false
 issue: content/issues/WPRN Memorandums.md
 language: English
-picture: /atm-social-distancing-1600x800-1.jpg
+picture: "/atm-social-distancing-1600x800-1.jpg"
 picture_copyright: ''
 pinned: false
 published: true
 tag:
-  - covid-19
-  - coronavirus
-  - socialnorms
-  - decision-making
-  - Infection likelihood perception
-  - Public Health
-  - 'Human Behaviours, Social Relations '
-  - Risks, Crisis Management
-  - Public Policy
+- covid-19
+- coronavirus
+- socialnorms
+- decision-making
+- Infection likelihood perception
+- Public Health
+- 'Human Behaviours, Social Relations '
+- Risks, Crisis Management
+- Public Policy
 yt: ''
 
 ---
