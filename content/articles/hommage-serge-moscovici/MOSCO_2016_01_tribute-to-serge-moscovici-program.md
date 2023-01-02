@@ -1,7 +1,11 @@
 ---
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Program
 article_title: Tribute to Serge Moscovici - Program
-authors: []
+authors:
+- lastname: European Association of Social Psychology (EASP)
+- lastname: Paris Institute for Advanced Study, France
+  positions_and_institutions:
+  - {}
 date: 2016-11-17T00:00:00.000+00:00
 highlight: false
 issue: content/issues/hommage-serge-moscovici.md
@@ -20,16 +24,17 @@ language: English
 
 **9:30   Gretty Mirdal** (Paris IAS): Welcome
 
-          **Juan Perez** (University of Valencia) and **Saadi Lahlou** (London School of Economics): Presentation
+**Juan Perez** (University of Valencia) and **Saadi Lahlou** (London School of Economics): Presentation
 
-  
-**9:45**      **Stamos Papastamo**u (Panteion University of Social and Political Sciences)
+          **Juan Perez** (University of Valencia) and **Saadi Lahlou** (London School of Economics): Presentation9:45      Stamos Papastamou (Panteion University of Social and Political Sciences)10:05     Stamos Papastamou (Panteion University of Social and Political Sciences): The discrete charm of the genetic model of influence and its indirect impact on epistemic level10:25     Carlo Michael Sommer (Darmstadt University of Applied Sci10:45      Chair Bernard Personnaz (Centre Edgar Morin IIAC EHESS-CNRS): Discussion
 
-**10:05     Stamos Papastamou** (Panteion University of Social and Political Sciences): The discrete charm of the genetic model of influence and its indirect impact on epistemic level
+**9:45       Charlan Nemeth** (University of California): The legacy of Serge Moscovici
 
-**10:25     Carlo Michael Somme**r (Darmstadt University of Applied Sciences): Minority Influence and Fashion. The Model of Style Transformation
+**10:05      Stamos Papastamou** (Panteion University of Social and Political Sciences): The discrete charm of the genetic model of influence and its indirect impact on epistemic level
 
-**10:45**      Chair **Bernard Personnaz** (Centre Edgar Morin IIAC EHESS-CNRS): Discussion
+**10:25       Carlo Michael Sommer** (Darmstadt University of Applied Sciences): Minority Influence and Fashion. The Model of Style Transformation
+
+**10:45**       Chair **Bernard Personnaz** (Centre Edgar Morin IIAC EHESS-CNRS) : Discussion
 
 **11:40**      **Amber M. Gaffney** (Humboldt State University), **Jiin Jung**, **William D. Crano**, and **Michael A. Hogg** (Claremont Graduate University): Contexts and Conditions of Outgroup Influence
 
@@ -39,7 +44,7 @@ language: English
 
 **12:40**      Chair **Stamos Papastamou** (Panteion University of Social and Political Sciences): Discussion
 
-**14:15      Bernard Personnaz** (Centre Edgar Morin IIAC EHESS-CNRS): Psychologie sociale et recherches sur l’influence minoritaire 
+**14:15      Bernard Personnaz** (Centre Edgar Morin IIAC EHESS-CNRS): Psychologie sociale et recherches sur l’influence minoritaire
 
 **14:35      Diniz Lopes** (ISCTE-IUL, CIS-IUL), **Jorge Vala** (Instituto de Ciências Sociais), **Ewa Drozda-Senkowska** (Paris-Descartes University) and **Dominique Oberlé** (Paris-Ouest-Nanterre-la-Défense University): Validation of Everyday Knowledge: The role of Consensus and Perceived Heterogeneity
 
@@ -57,7 +62,6 @@ language: English
 
 **17:45**      **Jorge Correia Jesuino** (ISCSP): To a semiotic approach to Serge Moscovici’s thinking
 
-  
 **18 November 2016**
 
 **9:45**        **Dorra Ben Alaya** (Tunis El Manar University): For a «Psychology of our Culture»
