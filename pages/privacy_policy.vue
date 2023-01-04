@@ -11,8 +11,8 @@
 <script>
 export default {
   props: {},
-  async asyncData({ $content }) {
-    const page = await $content('pages/privacy').fetch()
+  async asyncData({ app, $content, store }) {
+    const page = await $content('pages/' + app.i18n.locale + '/privacy').fetch()
     return {
       page,
     }
@@ -20,8 +20,18 @@ export default {
   data() {
     return {}
   },
+  async fetch() {
+    this.page = await this.$content(
+      'pages/' + this.$i18n.locale + '/privacy'
+    ).fetch()
+  },
   computed: {},
-  mounted() {},
+  watch: {
+    '$i18n.locale': '$fetch',
+  },
+  mounted() {
+    this.$fetch()
+  },
   methods: {},
 }
 </script>

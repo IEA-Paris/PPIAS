@@ -1,5 +1,5 @@
 import EventEmitter from 'events'
-import filters from './assets/generated/filters'
+import filters from './static/generated/filters'
 import config from './config.js'
 import { writePrintRoutes } from './tools/lib/contentUtilities.js'
 
@@ -15,6 +15,7 @@ export default {
   ssr: true,
   generate: {
     dir: 'dist',
+    fallback: '404.html',
     crawler: false,
     // default concurrency is 500 afaik. Considering the RAM cost of each, it would require way too much memory.
     // TODO check and time different values to come up with the best compromise between required memory (in free tier) and execution time
@@ -32,18 +33,22 @@ export default {
         ...(
           await $content('articles', { deep: true })
             .where({ published: true })
-            .only(['slug'])
             .fetch()
-        ).map((file) => '/article/' + file.slug),
+        ).map((file) => {
+          return { route: '/article/' + file.slug, payload: file }
+        }),
         ...(
           await $content('authors', { deep: true })
             .where({ active: true })
-            .only(['slug'])
             .fetch()
-        ).map((file) => '/authors/' + file.slug),
+        ).map((file) => {
+          return { route: '/authors/' + file.slug, payload: file }
+        }),
         ...(
-          await $content('issues', { deep: true }).only(['slug']).fetch()
-        ).map((file) => '/issue/' + file.slug),
+          await $content('issues', { deep: true }).fetch()
+        ).map((file) => {
+          return { route: '/issue/' + file.slug, payload: file }
+        }),
       ])
       // JavaScript implementation of the Durstenfeld shuffle, an optimized version of Fisher-Yates
       // to allow us to batch process more items by spreading the heavy ones, i.e. the articles
@@ -553,7 +558,9 @@ export default {
     babel: {
       compact: true,
     },
-    transpile: ['vuetify'],
+    watchOptions: {
+      ignored: '/static/generated/filters.js',
+    },
     extend(config, ctx) {
       // extend source map to enable local debug in VScode (breakpoints & co)
       if (ctx.isDev) {

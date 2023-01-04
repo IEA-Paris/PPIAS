@@ -94,13 +94,15 @@ export default {
     }
   },
   props: {},
-  async asyncData({ $content, params }) {
-    const item = await $content('articles', { deep: true })
-      .where({
-        slug: params.slug,
-        published: true,
-      })
-      .fetch()
+  async asyncData({ $content, params, payload }) {
+    const item =
+      (payload && payload.item) ||
+      (await $content('articles', { deep: true })
+        .where({
+          slug: params.slug,
+          published: true,
+        })
+        .fetch())
 
     /*     item.issue = await $content(
       item[0]?.issue.split('/').slice(1).join('/').split('.')[0] || false // TODO shameful => fix

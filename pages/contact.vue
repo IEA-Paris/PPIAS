@@ -11,8 +11,8 @@
 <script>
 export default {
   props: {},
-  async asyncData({ $content }) {
-    const page = await $content('pages/contact').fetch()
+  async asyncData({ app, $content, store }) {
+    const page = await $content('pages/' + app.i18n.locale + '/contact').fetch()
     return {
       page,
     }
@@ -20,7 +20,11 @@ export default {
   data() {
     return {}
   },
+
   computed: {},
+  watch: {
+    '$i18n.locale': '$fetch',
+  },
   mounted() {},
   methods: {},
 }

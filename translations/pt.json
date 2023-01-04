@@ -4,7 +4,6 @@
     "title": "Sobre",
     "text": {
       "1": {
-        "1": "A World Pandemic Research Network (WPRN)",
         "2": "A plataforma mantém um repositório global pesquisável de projetos, iniciativas e recursos científicos disponíveis sobre os impactos sociais e humanos da pandemia de Covid-19."
       },
       "2": "A WPRN é gratuita, sem fins lucrativos, financiada pelo público e conforme o Regulamento Geral sobre a Proteção de Dados.",
@@ -15,8 +14,7 @@
       "7": "registrando o seu projeto",
       "8": "Precisa de mais detalhes?",
       "9": "Dê uma olhada no nosso"
-    },
-    "subtitle": "Impactos sociais e consequências do Covid-19:<br> Um repositório global pesquisável"
+    }
   },
   "content": {
     "blazon": "Algumas instituições parceiras (instituições financiadoras, sociedades eruditas, etc.) podem assinalar projetos que passaram por um processo de revisão por pares. Elas podem carimbar esses projetos na WPRN com o seu brasão, um selo que confere ao projeto a autoridade científica da instituição.",
@@ -872,5 +870,8 @@
     "ubias": "UBIAS significa \"University-Based Institutes for Advanced Study\". Ao contrário dos Institutos de Estudos Avançados tradicionais, os institutos UBIAS são associados ou integrados a uma universidade e contribuem ativamente para a cultura acadêmica e para as realizações científicas da sua universidade de origem. A rede é atualmente composta por 44 institutos membros de 21 países.",
     "fmsh": "Sendo uma encruzilhada internacional para as Ciências Humanas e Sociais, a Fundação Maison des Sciences de l'Homme trabalha em sinergia com as comunidades e redes científicas internacionais, e fomenta a colaboração entre campos científicos."
   },
-  "with-the-support-of": "Com o apoio de"
+  "with-the-support-of": "Com o apoio de",
+  "articles-from-this-author": "Artigos deste autor",
+  "about-us": "Sobre nós",
+  "abstract": "Resumo"
 }

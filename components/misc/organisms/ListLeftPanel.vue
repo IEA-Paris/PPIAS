@@ -392,6 +392,8 @@ export default {
     },
   },
   async mounted() {
+    console.log('leftListPanel calling loadRouteQueryAndParams')
+
     this.$store.commit('loadRouteQueryAndParams', this.type)
     this.filter =
       this.$store.state[this.type].filtersCount > 0 ||
@@ -399,21 +401,11 @@ export default {
         Object.keys(this.$route.query.filters).length > 0) ||
       this.$route.query?.search?.length > 0
 
+    console.log('leftListPanel calling update')
     await this.$store.dispatch('update', this.type)
   },
   updated() {},
-  methods: {
-    handlePagination(page) {
-      this.$store.dispatch('updatePage', { page, type: this.type })
-      this.$vuetify.goTo(0)
-    },
-    /*     async updatePage(page) {
-      await this.$router.push({
-        query: { ...this.$route.query, page },
-      })
-      this.options.page = +page
-    }, */
-  },
+  methods: {},
 }
 </script>
 <style lang="scss">

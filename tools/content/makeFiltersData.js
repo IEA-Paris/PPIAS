@@ -99,7 +99,7 @@ export default async (content, options) => {
   }
 
   fs.writeFileSync(
-    './assets/generated/filters.js',
+    './static/generated/filters.js',
     `/* eslint-disable prettier/prettier */
   const filters = ${JSON.stringify(filters)}
   const mediaTags = ${JSON.stringify(mediaTags)}

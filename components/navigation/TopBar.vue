@@ -9,9 +9,9 @@
   >
     <div class="d-flex flex-grow-1 justify-space-between">
       <Logo />
-      <!-- <LanguageSwitcher /> -->
       <div class="d-flex flex-column justify-space-between">
         <div class="text-right">
+          <LanguageSwitcher />
           <SearchMenu />
           <MainMenu />
         </div>

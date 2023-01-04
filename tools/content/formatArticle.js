@@ -4,7 +4,7 @@ import {
   replaceReferenceInFootnote,
   insertReferencesInAbstract,
 } from '../lib/contentUtilities'
-import filters from '../../assets/generated/filters'
+import filters from '../../static/static/generated/filters'
 import config from '../../config.js'
 
 export default (document) => {

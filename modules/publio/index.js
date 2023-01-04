@@ -63,9 +63,14 @@ export default async function (moduleOptions) {
     .map((str) => str.slice(7))
   if (changedFiles?.length) console.log('changedFiles: ', changedFiles)
 
-  const zenodoQueue = new PQueue()
+  const zenodoQueue = new PQueue({
+    concurrency: 1,
+    interval: 1000,
+    intervalCap: 1,
+  })
 
   const extendGeneration = async () => {
+    console.log('EXTEND GENERATION')
     if (!once) return // dirty skip to avoid retriggering the build method
 
     if (media) insertDocuments(media, 'media', ['article_slug', 'caption'])

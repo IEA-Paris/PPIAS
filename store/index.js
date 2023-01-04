@@ -70,7 +70,7 @@ export const mutations = {
     state[type].itemsPerPage = value
   },
   setPage(state, { page, type }) {
-    if (this.app.router.currentRoute.params.page !== page)
+    if ((this.app.router.currentRoute.params.page || 1) !== page)
       this.app.router.push('/' + type + '/' + page)
     set(state[type], 'page', page)
   },

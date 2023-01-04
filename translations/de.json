@@ -4,7 +4,6 @@
     "title": "Über Uns",
     "text": {
       "1": {
-        "1": "Die World Pandemic Research Network (WPRN)",
         "2": "Plattform ist ein durchsuchbares globales Verzeichnis von wissenschaftlichen Projekte, Initiativen und verfügbaren Ressourcen zu den gesellschaftlichen und menschlichen Auswirkungen der Covid-19-Pandemie."
       },
       "2": "WPRN ist kostenlos, gemeinnützig, öffentlich finanziert und GDPR-konform.",
@@ -15,8 +14,7 @@
       "7": "Ihr Projekt registrieren",
       "8": "Sie benötigen mehr Details?",
       "9": "Werfen Sie einen Blick auf unser"
-    },
-    "subtitle": "Gesellschaftliche Auswirkungen und Folgen von Covid-19:<br> Eine durchsuchbare, globale Datenbank"
+    }
   },
   "content": {
     "blazon": "Einige Partnerinstitutionen (Förderinstitutionen, Gelehrtengesellschaften, etc.) können Projekte, die einen Peer-Review-Prozess durchlaufen haben, auf WPRN mit ihrem Wappen kennzeichnen, d.h. mit einer Kennzeichnung, die das Projekt mit der kognitiven Autorität der Institution versieht.",
@@ -872,5 +870,8 @@
     "ubias": "UBIAS steht für \"University-Based Institutes for Advanced Study\". Im Gegensatz zu traditionellen Institutes for Advanced Study sind UBIAS-Institute mit einer Universität assoziiert oder in diese eingebettet und tragen aktiv zur akademischen Kultur und zu den wissenschaftlichen Leistungen ihrer Heimatuniversität bei. Das Netzwerk umfasst mittlerweile 44 Mitgliedsinstitute in 21 Ländern.",
     "fmsh": "Als internationaler Knotenpunkt für Geistes- und Sozialwissenschaften arbeitet die Stiftung Maison des Sciences de l'Homme in Synergie mit internationalen wissenschaftlichen Gemeinschaften und Netzwerken und fördert die Zusammenarbeit zwischen wissenschaftlichen Bereichen."
   },
-  "with-the-support-of": "Mit der Unterstützung von"
+  "with-the-support-of": "Mit der Unterstützung von",
+  "articles-from-this-author": "Artikel von diesem Autor",
+  "about-us": "Über uns",
+  "abstract": "Abstrakt"
 }

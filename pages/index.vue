@@ -46,8 +46,8 @@
 <script>
 export default {
   props: {},
-  async asyncData({ $content, store }) {
-    const page = await $content('pages/about').fetch()
+  async asyncData({ app, $content, store }) {
+    const page = await $content('pages/' + app.i18n.locale + '/about').fetch()
     const latestIssue = (
       await $content('issues', { deep: true })
         .sortBy('date', 'desc')
@@ -86,7 +86,9 @@ export default {
     }
   },
   async fetch() {
-    this.page = await this.$content('pages/about').fetch()
+    this.page = await this.$content(
+      'pages/' + this.$i18n.locale + '/about'
+    ).fetch()
     this.latestIssue = (
       await this.$content('issues', { deep: true })
         .sortBy('date', 'desc')
@@ -112,6 +114,9 @@ export default {
     }) */
   },
   computed: {},
+  watch: {
+    '$i18n.locale': '$fetch',
+  },
   mounted() {
     this.$fetch()
   },

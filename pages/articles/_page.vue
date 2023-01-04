@@ -17,9 +17,6 @@
 </template>
 <script>
 export default {
-  validate({ params }) {
-    return /^\d+$/.test(params.page)
-  },
   props: {},
   data() {
     return {
@@ -28,12 +25,7 @@ export default {
   },
   computed: {},
   async mounted() {},
-  created() {
-    this.$store.dispatch('updatePage', {
-      page: this.$route.params.page,
-      type: 'articles',
-    })
-  },
+  created() {},
   methods: {},
 }
 </script>

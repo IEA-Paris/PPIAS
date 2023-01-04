@@ -182,19 +182,21 @@
 </template>
 <script>
 import { formatAuthors } from '~/assets/utils/transforms'
-import filtersRaw from '~/assets/generated/filters'
+import filtersRaw from '~/static/generated/filters'
 
 export default {
   layout: 'print',
   props: {},
-  async asyncData({ $content, params }) {
-    const item = (
-      await $content('articles', { deep: true })
-        .where({
-          slug: params.slug,
-        })
-        .fetch()
-    )[0]
+  async asyncData({ $content, params, payload }) {
+    const item =
+      (payload && payload.item) ||
+      (
+        await $content('articles', { deep: true })
+          .where({
+            slug: params.slug,
+          })
+          .fetch()
+      )[0]
 
     const dirArticle = item.dir.slice(9)
     let articleNumber = 1
@@ -300,7 +302,7 @@ export default {
   .page-title {
     margin-top: 0 !important;
     padding-top: 0 !important;
-    font-size: 38px;
+    font-size: 34px;
   }
 
   .index {

@@ -99,14 +99,16 @@
 <script>
 export default {
   props: {},
-  async asyncData({ $content, params }) {
-    const item = (
-      await $content('authors', { deep: true })
-        .where({
-          slug: params.slug,
-        })
-        .fetch()
-    )[0]
+  async asyncData({ $content, params, payload }) {
+    const item =
+      (payload && payload.item) ||
+      (
+        await $content('authors', { deep: true })
+          .where({
+            slug: params.slug,
+          })
+          .fetch()
+      )[0]
     const articles = item?.articles?.length
       ? await $content('articles', { deep: true })
           .where({

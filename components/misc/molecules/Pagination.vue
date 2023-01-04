@@ -26,6 +26,7 @@
         height="35"
         width="35"
         icon
+        nuxt
         :to="`/${type}/${Math.floor(
           renderPages[index - 1].key +
             ((renderPages[index + 1].key || totalPages) -
@@ -45,6 +46,7 @@
           min-width="35"
           height="35"
           tile
+          nuxt
           :color="page.current ? 'white' : 'black'"
           text
           width="35"
@@ -69,6 +71,7 @@
       min-width="35"
       height="35"
       width="35"
+      nuxt
       @keyup.enter="$router.push(`/${type}/${currentPage + 1}`)"
     >
       <v-icon>mdi-chevron-right</v-icon></v-btn
@@ -94,9 +97,6 @@ export default {
     currentPage: {
       type: Number,
       default: 1,
-      validator: (value) => {
-        return value > 0
-      },
     },
     /**
      * Sets the number of pages that appear before and after active page

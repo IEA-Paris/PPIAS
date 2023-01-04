@@ -4,7 +4,6 @@
     "title": "Over",
     "text": {
       "1": {
-        "1": "Het wereldnetwerk voor pandemisch onderzoek (WPRN)",
         "2": "platform onderhoudt een doorzoekbaar wereldwijd register van de wetenschappelijke projecten, initiatieven en beschikbare bronnen over de maatschappelijke en menselijke gevolgen van de Covid-19 pandemie."
       },
       "2": "WPRN is gratis, non-profit, wordt door de overheid gefinancierd en voldoet aan de GDPR-regels.",
@@ -15,8 +14,7 @@
       "7": "uw project registreren",
       "8": "Heb je meer details nodig?",
       "9": "Neem een kijkje in onze"
-    },
-    "subtitle": "Maatschappelijke gevolgen en nasleep van Covid-19:<br> Een wereldwijde doorzoekbare lijst"
+    }
   },
   "content": {
     "blazon": "Sommige partnerinstellingen (financieringsinstellingen, wetenschappelijke genootschappen, enz.) kunnen projecten aanduiden die een peer-reviewproces hebben ondergaan. Zij kunnen deze projecten op WPRN voorzien van hun blazoen, wat een label is dat het project doorlicht met de cognitieve autoriteit van de instelling.",
@@ -872,5 +870,8 @@
     "ubias": "UBIAS staat voor \"Universitaire Instituten voor Gevorderde Studie\". In tegenstelling tot de traditionele Instituten voor Gevorderde Studie zijn de UBIAS-instituten verbonden aan of ingebed in een universiteit en dragen zij actief bij tot de academische cultuur en de wetenschappelijke verwezenlijkingen van hun thuisuniversiteit. Het netwerk telt nu 44 aangesloten instituten in 21 landen.",
     "fmsh": "Als internationaal kruispunt voor menswetenschappen en sociale wetenschappen werkt de Stichting Maison des Sciences de l'Homme in synergie met internationale wetenschappelijke gemeenschappen en netwerken, en bevordert zij de samenwerking tussen wetenschappelijke gebieden."
   },
-  "with-the-support-of": "Met de steun van"
+  "with-the-support-of": "Met de steun van",
+  "articles-from-this-author": "Artikelen van deze auteur",
+  "about-us": "Over ons",
+  "abstract": "Abstract"
 }

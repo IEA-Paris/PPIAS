@@ -5,7 +5,9 @@ article_title: Virtual Realities, Real Experiences. Perspectives from Behavioral
   Neuroscience Studies - Program
 authors:
 - lastname: Paris Institute for Advanced Study, France
+  firstname: ''
 - lastname: Ecole normale Supérieure Paris, France
+  firstname: ''
 date: 2022-02-17T00:00:00.000+00:00
 highlight: false
 issue: content/issues/virtual-realities.md

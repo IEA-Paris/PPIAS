@@ -20,25 +20,25 @@ export default async (articles, options, queue) => {
 
     // fetch all our Zenodo records
     // make an elastic search query to get only the relevant documents from Zenodo
-    const q = {
-      ids: {
-        type: 'deposition',
-        values: articles.map((article) => article.Zid),
-      },
-    }
+    const q =
+      'id:' +
+      articles
+        .map((article) => article.Zid)
+        .filter((id) => id)
+        .join(' OR id:')
+    console.log('Q', JSON.stringify(q))
     // TODO deal with the number of articles beyond 1k. I assume the md based system will show its limit before we reach it.
-    const records = await zenodo.depositions.list({
-      q,
-      size: 10000,
+    const records = await queue.add(async () => {
+      return await zenodo.depositions.list({
+        size: 10000,
+      })
     })
-    console.log('records: ', records.length)
+    console.log('records: ', records.data.length)
     console.log('ARGS', {
-      q,
-      size: 10000,
+      size: 1000,
     })
     // or pull each record independantly
 
-    // could have done some levenshtein distance metrics but feeling it could lead to unintended false positives
     // NOTE: hasSameTitle is not used for now
     const hasSameFrontmatter = (data, document) => deepEqual(data, document)
 
@@ -55,11 +55,11 @@ export default async (articles, options, queue) => {
             article.metadata.doi &&
             article.metadata.doi === document.DOI)
       )
-    const buildZenodoDocument = async (document) => {
+    const buildZenodoDocument = (document) => {
       const references = document.biblioFile
         ? // sorry for the lack of functionalism :p
           new Citation(
-            await fs.readFileSync('./static/' + document.biblioFile, 'utf8')
+            fs.readFileSync('./static/' + document.biblioFile, 'utf8')
           ).data.map((item) =>
             new Citation(item)
               .format('bibliography', {
@@ -134,7 +134,7 @@ export default async (articles, options, queue) => {
       return metadata
     }
     const createArticleOnZenodo = async (document) => {
-      const metadata = await buildZenodoDocument(document)
+      const metadata = buildZenodoDocument(document)
       // used to debug using postman-like extensions:
       /*     console.log('metadata: ', metadata) */
       const entry = await queue.add(async () => {
@@ -188,7 +188,7 @@ export default async (articles, options, queue) => {
 
           // we found the matching article on Zenodo
           const sameFrontmatter = hasSameFrontmatter(
-            await buildZenodoDocument(document),
+            buildZenodoDocument(document),
             sameIdOrDoi.metadata || {}
           )
           const sameChecksum = hasSameChecksum(sameIdOrDoi || [], document)
@@ -197,15 +197,15 @@ export default async (articles, options, queue) => {
             if (sameIdOrDoi.state === 'done') {
               console.log('unlockingedit')
               const rst = await queue.add(async () => {
-                await zenodo.depositions.edit({ id: document.Zid })
+                return await zenodo.depositions.edit({ id: document.Zid })
               })
               console.log('unlocked edit', rst)
             }
             document = await queue.add(async () => {
-              await zenodo.depositions.newversion({
+              return await zenodo.depositions.newversion({
                 filename: document.slug + '.pdf',
                 data: document.fileBuffer,
-                deposition: await buildZenodoDocument(document),
+                deposition: buildZenodoDocument(document),
               })
             })
           }

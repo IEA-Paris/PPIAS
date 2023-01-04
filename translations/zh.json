@@ -90,7 +90,6 @@
     "socialSciencesAndHumanities": "社会科学和人文科学",
     "otherSciences": "其他科学"
   },
-
   "continents": {
     "0": "亚洲",
     "1": "欧洲",
@@ -296,5 +295,8 @@
     "191": "圣文森特和格林纳丁斯",
     "192": "特立尼达和多巴哥",
     "193": "美国"
-  }
+  },
+  "articles-from-this-author": "该作者的文章",
+  "about-us": "关于我们",
+  "abstract": "抽象的"
 }

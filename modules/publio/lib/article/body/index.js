@@ -64,7 +64,6 @@ export default (
 
   // replace legacy toc
   article.toc = [
-    // replace legacy toc
     ...article.Toc2,
 
     ...(article?.bibliography?.length
@@ -72,7 +71,7 @@ export default (
           {
             depth: 2,
             id: 'bibliography',
-            text: 'bibliography',
+            text: 'bibliography', // TODO replace with translation (call i18n)
             isMedia: false,
           },
         ]
@@ -83,13 +82,15 @@ export default (
           {
             depth: 2,
             id: 'footnotes',
-            text: 'footnotes',
+            text: 'footnotes', // TODO replace with translation (call i18n)
             isMedia: false,
           },
         ]
       : []),
   ]
+
   delete article.Toc2
   delete article.count
+
   return [article, media, authors, issues, options]
 }
