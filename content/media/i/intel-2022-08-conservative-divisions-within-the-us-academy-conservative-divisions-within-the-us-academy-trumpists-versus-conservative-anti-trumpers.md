@@ -1,6 +1,5 @@
 ---
-article_slug: >-
-  conservative-divisions-within-the-us-academy-trumpists-versus-conservative-anti-trumpers
+article_slug: INTEL_2022_08_conservative-divisions-within-the-us-academy
 caption: >-
   Conservative Divisions within the US Academy: Trumpists versus Conservative
   Anti-Trumpers
@@ -9,6 +8,7 @@ highlight: false
 id: C11qgbuGMZ8
 index: 0
 issue: content/issues/intellectuals-against-democracy.md
+language: English
 type: youtube
 years: 2022
 

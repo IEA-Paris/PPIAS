@@ -1,5 +1,5 @@
 ---
-article_slug: SLEEP_2019_2_introduction-and-welcome
+article_slug: SLEEP_2019_02_introduction-and-welcome
 caption: Introduction and Welcome
 date: 2019-06-06T00:00:00.000Z
 highlight: false
