@@ -1,8 +1,8 @@
 ---
 abstract: Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris IAS,
   10-11 December - Session 3 "L’agir prophétique"
-article_title: Ouvrir et fermer les futurs. Le pragmatisme sociologique et la critique
-  de la prophétie
+article_title: Ouvrir et Fermer les Futurs. Le Pragmatisme Sociologique et la Critique
+  de la Prophétie
 authors:
 - firstname: Francis
   is_institution: false
@@ -29,4 +29,9 @@ language: English
 bibliography: "/documents-exportes_prop13.bib"
 
 ---
+### Session 3 L' Agir Prophétique
+
+Cette session porte sur les effets politiques de la prophétie. La parole prophétique n’est pas seulement une forme de savoir tournée vers le futur mais aussi une aspiration à transformer le présent. Cette orientation politique semble transversale à tous les mouvements prophétiques passés ou actuels. Mais comment qualifier cette fonction politique du prophétisme ? Sur ce point les avis divergent. Pour certains, les discours catastrophistes enferment les débats sur les risques dans des choix binaires (survie ou extinction) qui appauvrissement et dépolitisent la vie démocratique. Pour d’autres, ces discours viennent nourrir utilement le débat public en ouvrant l’horizon des possibles, condition préalable à l’émergence d’alternatives politiques. Ce débat demande à être éclairci dans l’époque actuelle où la parole prophétique semble devenir une composante  
+majeure du débat démocratique.
+
 <Youtube yt="xl_UjjtNv9Q" caption="Ouvrir et fermer les futurs. Le pragmatisme sociologique et la critique de la prophétie" start="71" stop="2225"></Youtube>
