@@ -15,8 +15,8 @@
 <script>
 export default {
   props: {},
-  async asyncData({ $content }) {
-    const page = await $content('pages/about').fetch()
+  async asyncData({ app, $content }) {
+    const page = await $content('pages/' + app.i18n.locale + '/about').fetch()
     return {
       page,
     }

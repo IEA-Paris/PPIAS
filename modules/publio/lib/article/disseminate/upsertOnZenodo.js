@@ -21,15 +21,16 @@ export default async (articles, options, queue) => {
     // fetch all our Zenodo records
     // make an elastic search query to get only the relevant documents from Zenodo
     const q =
-      'id:' +
+      'doi:' +
       articles
-        .map((article) => article.Zid)
-        .filter((id) => id)
-        .join(' OR id:')
+        .map((article) => article.DOI)
+        .filter((doi) => doi)
+        .join(' OR doi:')
     console.log('Q', JSON.stringify(q))
     // TODO deal with the number of articles beyond 1k. I assume the md based system will show its limit before we reach it.
     const records = await queue.add(async () => {
       return await zenodo.depositions.list({
+        q,
         size: 10000,
       })
     })
