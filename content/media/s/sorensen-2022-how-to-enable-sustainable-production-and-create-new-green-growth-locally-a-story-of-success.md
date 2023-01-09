@@ -7,7 +7,7 @@ date: 2022-09-19T16:00:13.000Z
 highlight: true
 id: 9shTRT7wnuQ
 index: 0
-issue: content/issues/Conferences.md
+issue: content/issues/guest_lectures.md
 language: English
 picture: ''
 type: youtube

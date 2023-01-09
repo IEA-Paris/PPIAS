@@ -21,7 +21,7 @@
         v-if="
           $vuetify.breakpoint.mdAndUp || ($vuetify.breakpoint.sm && !filter)
         "
-        x-large
+        :x-large="$vuetify.breakpoint.mdAndUp"
         tile
         :min-width="$vuetify.breakpoint.lgAndUp ? '20%' : '20%'"
         height="100%"
@@ -87,7 +87,8 @@
           </template>
         </TextFingerprint>
       </v-list-item-avatar>
-      <div>
+      <!--   TODO fix the witdth of the display not being responsive when the avatar is a graph thumbnail -->
+      <div class="article-mobile-text-container">
         <div
           class="text-h6 article-mobile-title"
           :class="
@@ -106,7 +107,9 @@
             small
           /> -->
         </div>
-        <v-list-item-subtitle class="mt-2 d-inline-flex text-subtitle-1">
+        <v-list-item-subtitle
+          class="mt-2 d-inline-flex text-subtitle-1 article-mobile-subtitle"
+        >
           <template
             v-if="$vuetify.breakpoint.xs || ($vuetify.breakpoint.sm && filter)"
           >
@@ -167,8 +170,20 @@ export default {
   font-size: 1rem;
 }
 .article-mobile-title {
-  font-size: 1.3rem;
-  margin-top: 0.1rem;
-  line-height: 1.7rem;
+  font-weight: 600;
+  line-height: 1.25;
+  margin-bottom: 0.4rem;
+}
+
+.article-mobile-subtitle {
+  font-weight: 600;
+  line-height: 1.25;
+  margin-bottom: 0.4rem;
+}
+.article-mobile-text-container {
+  max-width: 550px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 </style>

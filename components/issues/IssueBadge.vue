@@ -4,7 +4,7 @@
     small
     class="d-inline-block issue-badge"
     :inline="inline"
-    @click.prevent="$router.push('/issue/' + issueText)"
+    @click.prevent="$router.push('/issue/' + issueSlug)"
   >
     {{ issueText }}
   </v-chip>
@@ -30,6 +30,7 @@ export default {
         rawFilters.articles.filters.issue.items.find(
           (item) => item.value === this.issue.slice(15, -3)
         )?.text || this.issue.slice(15, -3),
+      issueSlug: this.issue.slice(15, -3),
     }
   },
 

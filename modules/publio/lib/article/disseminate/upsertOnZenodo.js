@@ -30,14 +30,11 @@ export default async (articles, options, queue) => {
     // TODO deal with the number of articles beyond 1k. I assume the md based system will show its limit before we reach it.
     const records = await queue.add(async () => {
       return await zenodo.depositions.list({
-        q,
         size: 10000,
       })
     })
     console.log('records: ', records.data.length)
-    console.log('ARGS', {
-      size: 1000,
-    })
+
     // or pull each record independantly
 
     // NOTE: hasSameTitle is not used for now
@@ -75,7 +72,7 @@ export default async (articles, options, queue) => {
       const metadata = {
         upload_type: 'publication',
         description: document.abstract || 'No description provided',
-        publication_type: 'article',
+        publication_type: 'conferencepaper',
         ...(document.tags && { keywords: document.tags }),
         references,
         language: 'eng', // TODO bind to i18n config settings
@@ -85,16 +82,30 @@ export default async (articles, options, queue) => {
         // cf https://developers.zenodo.org/?shell#representation
         // conference_title:
         // conference_acronym
-        // conference_dates
-        // conference_place
-        // conference_url
-        // conference_session
         // location: [{"lat": 34.02577, "lon": -118.7804, "place": "Los Angeles"}, {"place": "Mt.Fuji, Japan", "description": "Sample found 100ft from the foot of the mountain."}]
         // TODO uncomment this once we are out of sandbox. Test DOI trigger a 400 (bad request error) since they are not legit
         // ...(document.DOI && { doi: document.DOI }),
         ...(document.issue && {
           journal_issue: document.issue.slice(15, -3),
         }),
+        conference_dates: new Date(document.date).toLocaleDateString('en-US', {
+          timezone: 'UTC',
+          year: 'numeric',
+          month: '2-digit',
+          day: '2-digit',
+        }),
+        conference_place:
+          document.location || "PARIS IAS, 17 Quai d'Anjou 75004 Paris",
+        ...(document.issue && {
+          conference_title: document.issue.slice(15, -3),
+        }),
+        ...(document.issue && {
+          conference_title: document.issue.slice(15, -3),
+        }),
+        conference_url: options.config.url + '/issue/' + document.issue,
+        // TODO
+        // conference session > to the subissue
+        // conference part (see if subissue or session takes over)
         communities: [
           /* TODO add once the official release is done { identifier: 'publiio' } */
           {
