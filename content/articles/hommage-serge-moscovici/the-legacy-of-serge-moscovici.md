@@ -30,6 +30,7 @@ keywords:
 - authenticity
 - conviction
 - "“speaking up”"
+bibliography: "/documents-exportes_mosco_2016_03.bib"
 
 ---
 As my major mentor for 40 years, Serge Moscovici had an enormous impact on me and on scores of others, both within and outside the field. of Social Psychology. That impact was professional and personal. His ideas were fundamental. He challenged longstanding biases in Social Psychology which had gone unexamined. He changed our conception of influence. No longer did we assume that liking and influence went hand in hand. No longer did we assume that influence flowed from the strong to the weak. No longer were we ignorant of the hidden aspects of influence.
