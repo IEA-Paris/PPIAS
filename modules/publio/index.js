@@ -10,7 +10,7 @@ import makeFiltersData from './lib/makeFiltersData'
 import insertBibliography from './lib/article/insertBibliography'
 import makePrintRoutes from './lib/makePrintRoutes'
 import formattingFixes from './lib/article/formattingFixes'
-import generateBibliographyFilesForExport from './lib/article/generateBibliographyFilesForExport'
+import generateBibliographyFilesForExport from './lib/article/files/generateBibliographyFilesForExport'
 import insertIssueData from './lib/article/insertIssueData'
 import insertAuthorData from './lib/article/insertAuthorData'
 import insertBodyStructureIndex from './lib/article/body/insertBodyStructureIndex'
@@ -23,8 +23,12 @@ import processArticle from './lib/article/body'
 import insertCitationElements from './lib/article/insertCitationElements'
 import generatePDF from './lib/article/files/generatePDF'
 import upsertOnZenodo from './lib/article/disseminate/upsertOnZenodo'
+import publishOnZenodo from './lib/article/disseminate/publishOnZenodo'
 import generateFiles from './lib/article/files'
-import { insertDocuments } from './utils/contentUtilities'
+import {
+  insertDocuments,
+  updateArticlesDoiAndZid,
+} from './utils/contentUtilities'
 import insertRelationalData from './lib/article/insertRelationalData'
 
 const chalk = require('chalk')
@@ -33,7 +37,7 @@ export default async function (moduleOptions) {
   // await tsvToArticles()
   const { nuxt } = this
   let options = Object.assign({}, defaults, moduleOptions, this.options.publio)
-  let articles, media, authors, issues, filters, url, routesToPrint
+  let articles, media, authors, issues, url, routesToPrint
   const util = require('node:util')
   const fs = require('fs')
   const path = require('path')
@@ -64,9 +68,9 @@ export default async function (moduleOptions) {
   if (changedFiles?.length) console.log('changedFiles: ', changedFiles)
 
   const zenodoQueue = new PQueue({
-    concurrency: 1,
-    interval: 1000,
-    intervalCap: 1,
+    concurrency: 5,
+    intervalCap: 60,
+    interval: 6000,
   })
 
   const extendGeneration = async () => {
@@ -76,8 +80,7 @@ export default async function (moduleOptions) {
     if (media) insertDocuments(media, 'media', ['article_slug', 'caption'])
 
     // Create filters
-    filters = makeFiltersData(articles, issues)
-    console.log('issues: ', issues && issues.length)
+    options.filters = makeFiltersData(articles, issues)
     ;[articles, media, authors, issues, options] = insertRelationalData(
       // main item
       articles,
@@ -89,13 +92,14 @@ export default async function (moduleOptions) {
       // METADATA/FRONTMATTER
       [generateBibliographyFilesForExport, insertCitationElements]
     )
+
     // we only update articles that have been edited
     let editedArticles = articles.filter(
       (article) =>
         // if the file has changed
         changedFiles.includes(article.path) ||
         // or if for some reason it needs a DOI but couldn't get one
-        (article.needDoi && !article.DOI) ||
+        (article.needDOI && !article.DOI?.length) ||
         // or if it needs a PDF file that is missing
         !fs.existsSync(path.resolve('static/pdfs', article.slug + '.pdf'))
     )
@@ -106,20 +110,21 @@ export default async function (moduleOptions) {
     if (editedArticles?.length) {
       // insert issue index
       editedArticles = editedArticles.map((article) =>
-        insertIssueData(article, filters)
+        insertIssueData(article, options.filters)
       )
-      // Upsert on Zenodo/OpenAire & get DOI is none is available
-      articles = await upsertOnZenodo(articles, options, zenodoQueue)
 
       // make an array of routes to print
       routesToPrint = makePrintRoutes(editedArticles)
+      // Upsert on Zenodo/OpenAire & get DOI is none is available
+      articles = await upsertOnZenodo(articles, options, zenodoQueue)
     }
+    console.log('articles: ', articles)
 
     return true
   }
 
   const generateFilesToPrint = async () => {
-    console.log('GENERATE FILES')
+    console.log('GENERATE FILES', routesToPrint)
     if (!routesToPrint) return
     // Generate PDF & other files
     await generateFiles(
@@ -130,19 +135,22 @@ export default async function (moduleOptions) {
       },
       url
     )
-    // and publish it on Zenodo
-    upsertOnZenodo(routesToPrint.pdfs, options, zenodoQueue)
+  }
+  const disseminate = async () => {
+    console.log('disseminate')
     // now that we have the related PDF, DOI and Zenodo record,we can update the article file
-    // insertDocuments(articles, 'article', ['article_title'])
-
+    articles = await publishOnZenodo(articles, options, zenodoQueue)
+    console.log('articles: ', articles)
+    for (const article of articles) {
+      updateArticlesDoiAndZid(article)
+    }
     // Now that we're done with tedious stuff, let's disseminate AF
-
     // Other plugins
   }
 
   this.nuxt.hook('generate:extendRoutes', (routes) => {
     // Extend routes with the ones to be printed
-    console.log('extendin routes')
+    console.log('extendin routes', routesToPrint)
     if (!routesToPrint) return // dirty skip to avoid retriggering the build method
     Object.keys(routesToPrint).forEach((type) => {
       routesToPrint[type].forEach((route) => {
@@ -159,6 +167,7 @@ export default async function (moduleOptions) {
     once = false
     url = 'http://127.0.0.1:3000'
     await generateFilesToPrint()
+    await disseminate()
   })
 
   nuxt.hook('build:done', async (nuxt) => {
@@ -168,6 +177,7 @@ export default async function (moduleOptions) {
       console.log('"BUILD:done"')
       routesToPrint = makePrintRoutes(articles)
       await generateFilesToPrint()
+      await disseminate()
     }
   })
 

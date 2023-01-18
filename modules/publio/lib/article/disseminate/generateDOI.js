@@ -17,7 +17,7 @@ export default async (articles, options) => {
     const path = require('path')
     const Zenodo = require('../../../utils/ZenodoConnector')
     const zenodo = await new Zenodo({
-      host: 'sandbox.zenodo.org', // TODO update domain name from both env variables and the config file.
+      host: config.modules.zenodo.sandbox ? 'sandbox.zenodo.org' : 'zenodo.org',
       token: config.modules.zenodo.token,
       protocol: 'https',
     })

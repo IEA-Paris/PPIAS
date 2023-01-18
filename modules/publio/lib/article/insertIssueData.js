@@ -4,5 +4,6 @@ export default (article, options) => {
   article.issueIndex = article.issue?.length
     ? options.issue.items.reverse().indexOf(article.issue.slice(15, -3))
     : -1
+
   return article
 }

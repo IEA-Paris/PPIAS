@@ -219,11 +219,12 @@ export const mergeDeep = (...objects) => {
   }, {})
 }
 export const generateChecksum = (str, algorithm, encoding) => {
-  const crypto = require('crypto')
-  return crypto
-    .createHash(algorithm || 'md5')
-    .update(str, 'utf8')
-    .digest(encoding || 'hex')
+  return str?.length
+    ? require('crypto')
+        .createHash(algorithm || 'md5')
+        .update(str, 'utf8')
+        .digest(encoding || 'hex')
+    : false
 }
 
 export const cleanupString = (str) =>
@@ -295,7 +296,7 @@ export const deepEqual = (x, y) =>
     }
   })
 
-export const updateArticlesDoiAndZid = async (document) => {
+export const updateArticlesDoiAndZid = (document) => {
   const data = fs.readFileSync('./content' + document.path + '.md', 'utf8')
   const markdown = data.split('---')[2]
   const frontmatter = yaml.load(data.split('---')[1])
@@ -308,7 +309,7 @@ export const updateArticlesDoiAndZid = async (document) => {
     if (document.Zid && !frontmatter.Zid) frontmatter.Zid = document.Zid
     console.log('document.Zid: ', document.Zid)
     // writeFlag is true only if the
-    await fs.writeFileSync(
+    fs.writeFileSync(
       './content' + document.path + '.md',
       `---
 ${yaml.dump(frontmatter, { noRefs: true, sortKeys: true })}
@@ -321,9 +322,7 @@ export const batchInsertArticles = (data) => {
   try {
     data.forEach((article) => {
       console.log('article: ', article.article_title)
-      if (article.article_title === 'Responsibility and Punishment') {
-        console.log(data)
-      }
+
       // start by creating the folder if it doesn't exist
       const folderPath =
         'content/articles/' +
@@ -419,7 +418,9 @@ export const insertDocuments = (data, cat, filenameFlag) => {
     console.log('filteredDoc: ', filteredDoc) */
     if (
       fs.existsSync(
-        './content/' + cat + '/' + fileName[0] + '/' + fileName + '.md'
+        cat === 'articles'
+          ? './content/' + cat + '/' + fileName + '.md'
+          : './content/' + cat + '/' + fileName[0] + '/' + fileName + '.md'
       )
     ) {
       fileName = findFileName(fileName, 1)
@@ -427,7 +428,9 @@ export const insertDocuments = (data, cat, filenameFlag) => {
       fileName = fileName + '.md'
     }
     fs.writeFileSync(
-      './content/' + cat + '/' + fileName[0] + '/' + fileName,
+      cat === 'articles'
+        ? './content/' + cat + '/' + fileName
+        : './content/' + cat + '/' + fileName[0] + '/' + fileName,
       `---
 ${yaml.dump(filteredDoc, { noRefs: true, sortKeys: true })}
 ---
