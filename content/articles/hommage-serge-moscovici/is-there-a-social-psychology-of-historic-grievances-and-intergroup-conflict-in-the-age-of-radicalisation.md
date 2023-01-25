@@ -22,4 +22,4 @@ subissue: false
 yt: 9vlVtClNJ-U
 
 ---
-<Youtube yt="9vlVtClNJ-U" caption="Is There a Social Psychology of Historic Grievances and Intergroup Conflict in the Age of ‘Radicalisation’?" start="false" stop="false"></Youtube>
+<Youtube yt="9vlVtClNJ-U" caption="Is There a Social Psychology of Historic Grievances and Intergroup Conflict in the Age of 'Radicalisation'?" start="false" stop="false"></Youtube>
