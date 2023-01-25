@@ -1,5 +1,6 @@
 {
   "name": "PPIAS",
+  "author": "Antoine Cordelois",
   "version": "1.1.0",
   "private": true,
   "description": "Open source publishing platform for open science.",
@@ -8,7 +9,7 @@
     "build": "nuxt build",
     "mock": " yarn generate && yarn start",
     "start": "nuxt start",
-    "deploy": "nuxt generate; aws s3 sync ./dist/ s3://ppias --delete --exclude '.*';aws cloudfront create-invalidation --distribution-id __invalidation-batch * E20JX3UOOUCLYC",
+    "deploy": "nuxt generate; aws s3 cp dist s3://ppias --recursive;aws cloudfront create-invalidation --distribution-id __invalidation-batch * E20JX3UOOUCLYC",
     "generate": "nuxt generate",
     "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
     "lint": "yarn lint:js",
