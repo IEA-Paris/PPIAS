@@ -2,7 +2,7 @@
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 4
 article_title: >-
   Is There a Social Psychology of Historic Grievances and Intergroup Conflict in
-  the Age of ‘Radicalisation’?
+  the Age of 'Radicalisation'?
 authors:
   - firstname: 'Andreea '
     is_institution: false
