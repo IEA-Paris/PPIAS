@@ -1,5 +1,5 @@
 /* eslint-disable prettier/prettier */
-  const filters = {"years":{"type":"Select","items":[2016,2022]},"language":{"type":"Select","items":["English"]},"issue":{"type":"Autocomplete","items":[{"text":"Intellectuals against democracy","value":"intellectuals-against-democracy"},{"text":"Hommage à Serge Moscovici","value":"hommage-serge-moscovici"}]},"discipline":{"type":"Autocomplete","items":[]},"thematic":{"type":"Autocomplete","items":[]},"type":{"type":"Autocomplete","items":[]},"tag":{"type":"Autocomplete","items":[]}}
+  const filters = {"years":{"type":"Select","items":[2022]},"language":{"type":"Select","items":["English"]},"issue":{"type":"Autocomplete","items":[{"text":"Intellectuals against democracy","value":"intellectuals-against-democracy"}]},"discipline":{"type":"Autocomplete","items":[]},"thematic":{"type":"Autocomplete","items":[]},"type":{"type":"Autocomplete","items":[]},"tag":{"type":"Autocomplete","items":[]}}
   const mediaTags = {"type":"Autocomplete","items":[]}
   export default {
     articles: {

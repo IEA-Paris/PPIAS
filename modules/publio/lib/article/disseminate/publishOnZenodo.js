@@ -1,5 +1,3 @@
-import buildZenodoDocument from './buildZenodoDocument'
-
 /// See main fn rationale below the subfunctions
 export default async (articles, options, queue) => {
   try {
@@ -15,13 +13,10 @@ export default async (articles, options, queue) => {
     })
 
     const publishArticleOnZenodo = async (document) => {
-      const result = await zenodo.depositions.publish({
-        id: document.data.id,
+      await zenodo.depositions.publish({
+        id: document.Zid,
       })
       console.log(`${document.slug} successfully published on Zenodo `)
-      // console.log('result: ', result.data)
-      document.DOI = result.data.doi
-      document.Zid = result.data.id
       return document
     }
     const uploadArticleFileOnZenodo = async (document) => {
@@ -35,12 +30,12 @@ export default async (articles, options, queue) => {
           fs.readFileSync(resolvedPath)
         : // fileBuffer === false means the file should be generated
           false
-      if (document.fileBuffer) {
+      if (document.fileBuffer && document.links.bucket) {
         console.log(`deposition created on Zenodo  for ${document.slug} `)
         await zenodo.files.upload({
           filename: document.slug + '.pdf',
           data: document.fileBuffer,
-          deposition: buildZenodoDocument(document, options),
+          deposition: document,
         })
         console.log(`PDF file uploaded on Zenodo for ${document.slug} `)
       } else {
@@ -52,14 +47,19 @@ export default async (articles, options, queue) => {
       return document
     }
     const uploadAndPublishOnZenodo = async (document) => {
-      document = await uploadArticleFileOnZenodo(document)
-      document = await publishArticleOnZenodo(document)
+      try {
+        document = await uploadArticleFileOnZenodo(document)
+        document = await publishArticleOnZenodo(document)
+        return document
+      } catch (error) {
+        console.log('error while uploadAndPublishOnZenodo: ', error)
+      }
       return document
     }
     const result = await Promise.all(
       articles
         // filter published articles only. It is done earlier in the fetch but it makes it more resilient
-        .filter((article) => article.published)
+        .filter((article) => article.published && article.todo.publishOnZenodo)
         .map(
           async (document) =>
             await queue.add(async () => {
@@ -67,7 +67,7 @@ export default async (articles, options, queue) => {
             })
         )
     )
-    return result
+    return articles
   } catch (error) {
     console.log('error while publishing on Zenodo: ', error)
   }

@@ -296,27 +296,29 @@ export const deepEqual = (x, y) =>
     }
   })
 
-export const updateArticlesDoiAndZid = (document) => {
-  const data = fs.readFileSync('./content' + document.path + '.md', 'utf8')
-  const markdown = data.split('---')[2]
-  const frontmatter = yaml.load(data.split('---')[1])
-  if (
-    (document.DOI && !frontmatter.DOI) ||
-    (document.Zid && !frontmatter.Zid)
-  ) {
-    if (document.DOI && !frontmatter.DOI) frontmatter.DOI = document.DOI
-    console.log('document.DOI: ', document.DOI)
-    if (document.Zid && !frontmatter.Zid) frontmatter.Zid = document.Zid
-    console.log('document.Zid: ', document.Zid)
-    // writeFlag is true only if the
-    fs.writeFileSync(
-      './content' + document.path + '.md',
-      `---
+export const updateArticlesDoiAndZid = (documents) => {
+  documents.forEach((document) => {
+    const data = fs.readFileSync('./content' + document.path + '.md', 'utf8')
+    const markdown = data.split('---')[2]
+    const frontmatter = yaml.load(data.split('---')[1])
+    if (
+      (document.DOI && !frontmatter.DOI) ||
+      (document.Zid && !frontmatter.Zid)
+    ) {
+      if (document.DOI && !frontmatter.DOI) frontmatter.DOI = document.DOI
+      console.log('document.DOI: ', document.DOI)
+      if (document.Zid && !frontmatter.Zid) frontmatter.Zid = document.Zid
+      console.log('document.Zid: ', document.Zid)
+      // writeFlag is true only if the
+      fs.writeFileSync(
+        './content' + document.path + '.md',
+        `---
 ${yaml.dump(frontmatter, { noRefs: true, sortKeys: true })}
 ---
 ${markdown || ''}`
-    )
-  }
+      )
+    }
+  })
 }
 export const batchInsertArticles = (data) => {
   try {

@@ -32,30 +32,19 @@ export default async (articles, options, queue) => {
         })
       })
     ).data
-    console.log('records: ', records.length)
 
     // or pull each record independantly (would be better, but the elastic search query is not working)
 
     const hasSameFrontmatter = (data, document) => deepEqual(data, document)
 
     const hasSameChecksum = (data, document) =>
-      data.files &&
-      data.files.length &&
-      data.files.find((file) => file.checksum === document.checksum)
+      (data.files &&
+        data.files.length &&
+        data.files.find((file) => file.checksum === document.checksum)) ||
+      false
 
     const hasSameIdOrDoi = (data, document) => {
-      /*       console.log('document: ', document)
-      console.log(
-        'data ids',
-        data.map((item) => item.id)
-      )
-      console.log(
-        'data doi',
-        data.map((item) => item.doi)
-      )
-      console.log('document DOI', document.DOI)
-      console.log('document Zid', document.Zid) */
-      return data?.length
+      return data?.length && document.Zid && document.DOI
         ? data.find(
             (article) =>
               (article.id && document.Zid && article.id === document.Zid) ||
@@ -66,18 +55,18 @@ export default async (articles, options, queue) => {
         : false
     }
 
-    const createArticleOnZenodo = async (document) => {
+    const createArticleOnZenodo = async (document, editMode = false) => {
       const metadata = buildZenodoDocument(document, options)
       // console.log(' creating article on zenodo', document.article_title)
-      metadata.title = document.article_title + 'test2'
+      metadata.title = document.article_title + new Date().toLocaleString()
       // used to debug using postman-like extensions:
       // console.log('metadata: ', JSON.stringify({ metadata }))
-      query = JSON.stringify({ metadata })
-      console.log('query: ', query)
-      const entry = await queue.add(async () => {
-        return await zenodo.depositions.create(metadata)
+      console.log('query: ', JSON.stringify({ metadata }))
+      return await queue.add(async () => {
+        return editMode
+          ? await zenodo.depositions.update({ metadata })
+          : await zenodo.depositions.create({ metadata })
       })
-      return entry
     }
 
     const generateDOI = async (document, records) => {
@@ -125,35 +114,29 @@ export default async (articles, options, queue) => {
           console.log('Update required on an existing article')
           if (sameIdOrDoi.state === 'done') {
             console.log('unlockingedit')
-            document.links.bucket = (
-              await queue.add(async () => {
-                return await zenodo.depositions.edit({ id: document.Zid })
-              })
-            )?.data?.links?.bucket
-          }
-          document.links.bucket = (
             await queue.add(async () => {
+              return await zenodo.depositions.edit({ id: document.Zid })
+            })
+            const rst = await queue.add(async () => {
               return await zenodo.depositions.newversion({
-                filename: document.slug + '.pdf',
-                data: document.fileBuffer,
-                deposition: document,
+                id: document.Zid,
               })
             })
-          )?.data?.links?.bucket
+            document.Zid = rst.data.id
+          }
+          // since we de-published the article, we need to republish it once the pdf & data is updated
+          document.todo.publishOnZenodo = true
         }
       } else {
         console.log("article doesn't exist on Zenodo", document.article_title)
         // this article doesn't exist on Zenodo. Let's create it then.
-        const rst = (await createArticleOnZenodo(document))?.data || false
-        console.log('rst: ', rst)
+        const rst = (await createArticleOnZenodo(document)) || false
         if (rst) {
-          console.log('rst: ', document.article_title)
-          document.Zid = rst.id
-          document.DOI = rst.doi
-          document.links = {}
-          document.links.bucket = rst.links.bucket
+          document.Zid = rst.data.id
+          document.DOI = rst.data.metadata.prereserve_doi.doi
+          document.links = { ...rst.data.links }
         }
-        console.log('focument created')
+        console.log('document created')
       }
       return document
     }
@@ -163,11 +146,8 @@ export default async (articles, options, queue) => {
         .filter((article) => article.published)
         .map(async (document) => await generateDOI(document, records))
     )
-    console.log(
-      'RST',
-      result.map((item) => item.links)
-    )
-    return result
+
+    return articles
   } catch (error) {
     console.log('error while inserting on Zenodo: ', error)
     console.log('query: ', query)

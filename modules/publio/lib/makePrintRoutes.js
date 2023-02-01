@@ -1,18 +1,11 @@
 import { formatAuthors } from '../utils/transforms'
 
 export default (articles) => {
-  console.log('articles: ', articles.length)
-  // first, we clean existing files > //TODO make a diff rather that erase/regenerate systematically
-  /* 
-  const targetFolder = path.resolve('static/pdfs')
-    if (!fs.existsSync(targetFolder)) {
-      fs.mkdirSync(targetFolder, { recursive: true })
-    } else {
-      fsExtra.emptyDirSync(targetFolder)
-    } */
-  const pdfArticles = articles.filter((article) => !article.custom_pdf)
+  const pdfArticles = articles.filter(
+    (article) => !article.custom_pdf && article.todo.generatePDF
+  )
   const thumbnailArticles = articles.filter(
-    (article) => !article.picture && !article.yt
+    (article) => !article.picture && !article.yt && article.todo.generateGraph
   )
   return {
     pdfs: pdfArticles.map((article) => {

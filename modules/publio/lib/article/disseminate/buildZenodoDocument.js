@@ -76,14 +76,11 @@ export default (document, options) => {
       day: '2-digit',
     }),
     // TODO
-    // - add DOI and ISSN as related identifiers (extra),
     // - same issue articles,
     // - cites relation (when a DOI is provided in the citation)
     // - as well as semantic stuff
     //  e.g.  related_identifiers: [{'relation': 'isPartOf', 'identifier':'2826-2832'},{'relation': 'isSupplementTo', 'identifier':'10.1234/foo'}, {'relation': 'cites', 'identifier':'https://doi.org/10.1234/bar', 'resource_type': 'image-diagram'}]
-    //     [
-    // {identifier: 'ISSN': '2826-2832'}
-    //     ],
+
     title: document.article_title,
     creators: document.authors.map((item) => {
       // TODO include all title & institution info
