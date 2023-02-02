@@ -1,31 +1,36 @@
 ---
-abstract: 'Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris IAS,
-  10-11 December - Session 4 - Prophètes et prophétisme : une perspective historique'
-article_title: 'Le Présent des Prophéties Mariales au XIXe siècle : une Relecture
-  du Futur Inaccompli du Passé'
+DOI: 10.5072/zenodo.1155851
+Zid: 1155851
+abstract: >-
+  Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris IAS, 10-11
+  December - Session 4 - Prophètes et prophétisme : une perspective historique
+article_title: >-
+  Le Présent des Prophéties Mariales au XIXe siècle : une Relecture du Futur
+  Inaccompli du Passé
 authors:
-- firstname: Sylvie
-  is_institution: false
-  lastname: Barnay
-  positions_and_institutions:
-  - institution: Université de Lorraine, France
-    positions:
-    - ''
-  social_channels:
-    wikipedia: https://fr.wikipedia.org/wiki/Sylvie_Barnay
-date: 2020-12-11T15:00:00.000+00:00
+  - firstname: Sylvie
+    is_institution: false
+    lastname: Barnay
+    positions_and_institutions:
+      - institution: Université de Lorraine, France
+        positions:
+          - ''
+    social_channels:
+      wikipedia: https://fr.wikipedia.org/wiki/Sylvie_Barnay
+bibliography: /documents-exportes_prop16.bib
+date: 2020-12-11T15:00:00.000Z
 highlight: false
 issue: content/issues/crises-et-prophetes.md
+language: English
 needDOI: false
 published: true
 start: '281'
 stop: '2282'
 subissue: false
 yt: tPyydyd_N6U
-language: English
-bibliography: "/documents-exportes_prop16.bib"
 
 ---
+
 ### Session 4 Prophètes et Prophétisme: une Perspective Historique
 
 Une dernière session mettra en parallèle les dynamiques prophétiques actuelles avec les mouvements prophétiques bien connus des historiens du fait religieux. Cette mise en perspective semble nécessaire tant les mots de la religion (croyance, hérésie, vocation, écritures, prêtres, apocalypse, millénarisme, messianisme) semblent utiles pour décrire les controverses qui se nouent au tour de la parole prophétique et sa réception dans le débat public. Cette session sera l’occasion de réfléchir à l’idée qui traverse des recherches, certaines récentes, d’autres classiques, selon lesquelles un ensemble de formes, de traits et de schémas hérités de la religion continue d’imprégner la vie collective. Plus fondamentalement, on est fondé à se demander si les rapports d’analogie dressés entre l’histoire du fait religieux et l’époque actuelle permettent de mieux décrire les phénomènes prophétiques contemporains, qui seraient autrement difficiles à rendre intelligibles, et d’en donner une interprétation critique.

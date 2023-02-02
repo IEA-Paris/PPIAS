@@ -43,13 +43,11 @@ export const makeStuff = async () => {
   await recusivelyGetTranslations({
     children: disciplinesWikipedia,
   })
-  console.log('resultRaw: ', resultRaw)
   for (let index = 0; index < resultRaw.length; index++) {
     console.log('tick')
     await getTranslations(resultRaw[index])
     await new Promise((resolve) => setTimeout(resolve, 30))
   }
-  console.log('result: ', result)
   await fs.writeFileSync('resultField.js', JSON.stringify(result))
 }
 const recusivelyGetTranslations = (stuff) => {

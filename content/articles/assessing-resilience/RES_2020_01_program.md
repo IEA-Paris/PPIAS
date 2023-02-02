@@ -1,60 +1,65 @@
 ---
-needDOI: true
+DOI: 10.5072/zenodo.1155807
+Zid: 1155807
+abstract: >-
+  Assessing Territorial Resilience: Indicators and Tools for Governance, Paris
+  IAS ,July 15-17 2020 - Program
+article_title: >-
+  Assessing Territorial Resilience: Indicators and Tools for Governance -
+  Program
+authors:
+  - firstname: ''
+    is_institution: false
+    lastname: Paris Institute for Advanced Study, France
+    picture: ''
+    picture_copyright: ''
+    positions_and_institutions: []
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_institutions: []
+  - firstname: ''
+    is_institution: false
+    lastname: École des Ingénieurs de la Ville de Paris (EIVP), France
+    picture: ''
+    picture_copyright: ''
+    positions_and_institutions: []
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_institutions: []
+bibliography: ''
+custom_pdf: ''
+date: 2020-07-14T23:00:11.000Z
+disciplines: ''
+doi: ''
+highlight: false
 issue: content/issues/assessing-resilience.md
 keywords: []
-date: 2020-07-14T23:00:11.000+00:00
 language: English
-disciplines: ''
-published: true
-doi: ''
-article_title: 'Assessing Territorial Resilience: Indicators and Tools for Governance
-  - Program'
-authors:
-- lastname: Paris Institute for Advanced Study, France
-  is_institution: false
-  firstname: ''
-  titles_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  positions_and_institutions: []
-- lastname: École des Ingénieurs de la Ville de Paris (EIVP), France
-  is_institution: false
-  firstname: ''
-  titles_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  positions_and_institutions: []
-custom_pdf: ''
-abstract: 'Assessing Territorial Resilience: Indicators and Tools for Governance,
-  Paris IAS ,July 15-17 2020 - Program'
-sub-issue: ''
+needDOI: true
 picture: ''
 picture_copyright: ''
+published: true
+sub-issue: ''
 yt: ''
-highlight: false
-bibliography: ''
 
 ---
+
 ### Program
 
 **15th July**

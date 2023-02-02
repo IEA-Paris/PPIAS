@@ -1,30 +1,34 @@
 ---
-abstract: 'Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 2 - Enhancement and
-  Inception (Part I: Rodents)'
+DOI: 10.5072/zenodo.1155991
+Zid: 1155991
+abstract: >-
+  Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 2 - Enhancement and
+  Inception (Part I: Rodents)
 article_title: Brain Dynamics of Memory Consolidation During Sleep
 authors:
-- firstname: Michael
-  is_institution: false
-  lastname: Zugaro
-  positions_and_institutions:
-  - institution: CNRS - Collège de France, France
-    positions:
-    - ''
-  social_channels:
-    website: http://zugarolab.net:8080/
-    google_scholar: https://scholar.google.fr/citations?user=h0KH2ZIAAAAJ&hl=fr
-date: 2019-06-06T02:00:00Z
+  - firstname: Michael
+    is_institution: false
+    lastname: Zugaro
+    positions_and_institutions:
+      - institution: CNRS - Collège de France, France
+        positions:
+          - ''
+    social_channels:
+      google_scholar: https://scholar.google.fr/citations?user=h0KH2ZIAAAAJ&hl=fr
+      website: http://zugarolab.net:8080/
+date: 2019-06-06T02:00:00.000Z
 highlight: false
 issue: content/issues/sleep-and-memory.md
+language: English
 needDOI: false
 published: true
 start: false
 stop: false
 subissue: false
 yt: coTP8dB17AQ
-language: English
 
 ---
+
 Most modern theories of memory formation and consolidation posit that initially labile memory traces are formed in the hippocampus, then stabilized in neocortex for long-term storage. A seminal mechanistic model proposed that hippocampal endogenous activity during high frequency oscillations (_ripples_) played a key role in this process. This idea received striking correlative support with the discovery of sleep replay in rats, whereby neural activity patterns experienced during exploration of a maze are endogenously reactivated during sleep ripples, as if the rats were _dreaming_ of their exploration.
 
   

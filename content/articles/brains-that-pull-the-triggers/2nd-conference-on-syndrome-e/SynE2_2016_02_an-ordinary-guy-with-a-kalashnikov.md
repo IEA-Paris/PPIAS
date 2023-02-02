@@ -1,27 +1,31 @@
 ---
-abstract: The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
+DOI: 10.5072/zenodo.1156305
+Zid: 1156305
+abstract: >-
+  The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
   09-10 May 2016 - Introduction
 article_title: An Ordinary Guy with a Kalashnikov
 authors:
-- firstname: 'Itzhak '
-  is_institution: false
-  lastname: Fried
-  positions_and_institutions:
-  - institution: University of California Los Angeles, USA
-  - institution: Paris Institute for Advanced Study, France
-date: 2016-05-09T00:00:00.000+00:00
+  - firstname: 'Itzhak '
+    is_institution: false
+    lastname: Fried
+    positions_and_institutions:
+      - institution: University of California Los Angeles, USA
+      - institution: Paris Institute for Advanced Study, France
+date: 2016-05-09T00:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
+language: English
 needDOI: false
 published: true
 start: false
 stop: false
+sub-issue: 2nd Conference  on Syndrome E
 subissue: 2nd Conference  on Syndrome E
 yt: uA5azJSADWk
-language: English
-sub-issue: 2nd Conference  on Syndrome E
 
 ---
+
 « _We came face to face but he didn’t shoot. What did he look like? An ordinary guy with a Kalashnikov_ » (witness account, Le Bataclan, November 2015).
 
   

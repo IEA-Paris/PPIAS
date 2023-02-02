@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155921
+Zid: 1155921
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 7
 article_title: >-
   Experimental social psychology is not a science of discovery, but an art of
@@ -22,4 +24,5 @@ subissue: false
 yt: jiqBoH-8Ykg
 
 ---
+
 <Youtube yt="jiqBoH-8Ykg" caption="Experimental social psychology is not a science of discovery, but an art of theatrical reflection" start="false" stop="false"></Youtube>

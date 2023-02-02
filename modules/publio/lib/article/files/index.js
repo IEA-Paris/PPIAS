@@ -1,5 +1,5 @@
 const path = require('path')
-export default async (routesToPrint, fn, url = 'http://127.0.0.1:3000') => {
+export default async (routesToPrint, fn, url = 'http://192.168.0.50:3000') => {
   try {
     let server
     // Since we target A4, let's load the related CSS.

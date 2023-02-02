@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155917
+Zid: 1155917
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 7
 article_title: 'Future issues: Methods and themes'
 authors:
@@ -20,4 +22,5 @@ subissue: false
 yt: wKTtCsK9DEA
 
 ---
+
 <Youtube yt="wKTtCsK9DEA" caption="Future issues: Methods and themes" start="false" stop="false"></Youtube>

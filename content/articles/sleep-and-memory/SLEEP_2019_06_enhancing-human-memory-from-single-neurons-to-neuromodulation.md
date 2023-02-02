@@ -1,27 +1,31 @@
 ---
-abstract: 'Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 3 - Enhancement and
-  Inception (Part II: Humans)'
+DOI: 10.5072/zenodo.1155999
+Zid: 1155999
+abstract: >-
+  Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 3 - Enhancement and
+  Inception (Part II: Humans)
 article_title: 'Enhancing Human Memory: From Single Neurons to Neuromodulation'
 authors:
-- firstname: Itzhak
-  is_institution: false
-  lastname: Fried
-  positions_and_institutions:
-  - institution: UCLA, USA / University of Tel-Aviv, Israël
-    positions:
-    - ''
-date: 2019-06-06T04:00:00Z
+  - firstname: Itzhak
+    is_institution: false
+    lastname: Fried
+    positions_and_institutions:
+      - institution: UCLA, USA / University of Tel-Aviv, Israël
+        positions:
+          - ''
+date: 2019-06-06T04:00:00.000Z
 highlight: false
 issue: content/issues/sleep-and-memory.md
+language: English
 needDOI: false
 published: true
 start: false
 stop: false
 subissue: false
 yt: UktLhBJEhOM
-language: English
 
 ---
+
 Loss of memory is one of the most dreaded afflictions of the human condition. With the increase in population age and subsequent striking increase in number of patients with memory impairments, we are facing a social calamity  
 of alarming dimensions.
 

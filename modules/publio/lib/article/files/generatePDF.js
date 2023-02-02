@@ -19,19 +19,15 @@ export default async (route, url, meta) => {
       /*    options.puppeteer 
       ) */
     )
-    console.log('browser started')
     const page = await browser.newPage()
-    console.log('page created')
     await page.setViewport(
       // Pixel equivalent of an A4 page with 300dpi
       { width: 2480, height: 3508, deviceScaleFactor: 1 }
     )
-    console.log('viewport set', url.replace(/\/$/, ''))
 
     response = await page.goto(`${url.replace(/\/$/, '')}${route.route}`, {
-      waitUntil: 'networkidle0',
+      waitUntil: 'networkidle2',
     })
-    console.log('page goto')
     /*     if (options.viewport || route.viewport) {
       page.setViewport(
         Object.assign(
@@ -62,11 +58,9 @@ export default async (route, url, meta) => {
         }
       )
     )
-    console.log('got pdf bytes')
 
     // Load bytes into pdf document, used for manipulating meta of file.
     const document = await Document.load(bytes)
-    console.log('created document')
     /*    console.log('setup PDF metadata') */
     // Set the correct meta for pdf document.
     if ('title' in route.meta && route.meta.title !== '') {
@@ -83,10 +77,8 @@ export default async (route, url, meta) => {
     document.setCreationDate(new Date(route.meta.creationDate) || new Date())
     document.setKeywords(route.meta.tag || [])
     document.setLanguage(route.meta.language || '')
-    console.log('metadata added')
 
     const file = path.resolve('dist', route.file)
-    console.log('create folder')
 
     // Create folder where file will be stored.
     fs.mkdirSync(file.substring(0, file.lastIndexOf('/')), {
@@ -97,7 +89,6 @@ export default async (route, url, meta) => {
     if (process.env.NODE_ENV === 'production') {
       const ws = fs.createWriteStream(file, { flags: 'w' })
       await ws.write(await document.save())
-      console.log('wrote pdf 1')
       await ws.end()
     }
     // also write it in static to commit to source code (used to generate DOI)
@@ -110,7 +101,6 @@ export default async (route, url, meta) => {
     /*    console.log('writing PDF file') */
     const ws2 = fs.createWriteStream(file2, { flags: 'w' })
     await ws2.write(await document.save())
-    console.log('wrote pdf 2')
     await ws2.end()
     console.log(
       `${chalk.green('✔')}  Generated PDF 
@@ -130,9 +120,7 @@ export default async (route, url, meta) => {
         }`
       ) */
     }
-    console.log('closing page')
     await page.close()
-    console.log('closed page')
   } catch (e) {
     console.log(
       `${chalk.red('𐄂')} Failed to generated PDF 

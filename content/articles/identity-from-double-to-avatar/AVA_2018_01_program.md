@@ -1,26 +1,30 @@
 ---
-abstract: 'Adventures of Identity: From the Double to the Avatar. Paris IAS, 13-14
-  December 2018 - Program'
+DOI: 10.5072/zenodo.1155865
+Zid: 1155865
+abstract: >-
+  Adventures of Identity: From the Double to the Avatar. Paris IAS, 13-14
+  December 2018 - Program
 article_title: 'Adventures of Identity: From the Double to the Avatar - Program        '
 authors:
-- lastname: Paris Institute for Advanced Study, France
-  firstname: ''
-- lastname: Fondation Maison des Sciences de l'Homme (FMSH), France
-  firstname: ''
-- lastname: Istituto Italiano di Cultura di Parigi, France
-  firstname: ''
-date: 2018-12-13T00:00:00.000+00:00
+  - firstname: ''
+    lastname: Paris Institute for Advanced Study, France
+  - firstname: ''
+    lastname: Fondation Maison des Sciences de l'Homme (FMSH), France
+  - firstname: ''
+    lastname: Istituto Italiano di Cultura di Parigi, France
+date: 2018-12-13T00:00:00.000Z
 highlight: false
 issue: content/issues/identity-from-double-to-avatar.md
+language: English
 needDOI: false
 published: true
 start: false
 stop: false
 subissue: false
 yt: false
-language: English
 
 ---
+
 International conference organized by Andrea Pinotti (Università Statale di Milano / IEA de Paris 2017/2018), with the support of the Istituto Italiano de Cultura di Parigi and the FMSH
 
 ### Program

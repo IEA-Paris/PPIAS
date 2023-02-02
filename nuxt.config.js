@@ -1,7 +1,6 @@
 import EventEmitter from 'events'
 import filters from './static/generated/filters'
 import config from './config.js'
-import { writePrintRoutes } from './tools/lib/contentUtilities.js'
 
 EventEmitter.defaultMaxListeners = 20
 export default {
@@ -285,11 +284,6 @@ export default {
       title: '%s',
       titleTemplate: 'PIAS ─ %s',
     },
-
-    /*
-     * PDF generation routes. (expanding nuxt.generate)
-     */
-    routes: async () => await writePrintRoutes(),
   },
 
   // Modules: https://go.nuxtjs.dev/config-modules

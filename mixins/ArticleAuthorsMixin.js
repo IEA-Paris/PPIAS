@@ -43,7 +43,7 @@ export default {
               // if not, add it to the institutions array
               if (indexInstitution === -1) {
                 institutions.push(highlightedInstitution)
-                indexInstitution = institutions.length - 1
+                indexInstitution = institutions.length
               }
               // add the index of the institution to the author
               authorsIndexInstutions.push(indexInstitution)
@@ -58,7 +58,9 @@ export default {
       // Format the institutions with exponential index
       institutions = institutions.map(
         (institution, index) =>
-          `<sup class="institution-number">${index}</sup><span class="institution-name">${institution}</span>`
+          `<sup class="institution-number">${
+            index + 1
+          }</sup><span class="institution-name">${institution}</span>`
       )
       return { institutions, authors }
     },

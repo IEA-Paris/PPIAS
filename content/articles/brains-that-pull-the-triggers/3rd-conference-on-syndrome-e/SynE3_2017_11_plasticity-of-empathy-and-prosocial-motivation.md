@@ -1,38 +1,44 @@
 ---
-abstract: 'The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris
-  IAS, 10-12 May 2017 - Session 4 - Brains that Pull the Triggers: Plasticity of Behavior'
-article_title: 'Plasticity of Empathy and Prosocial Motivation: From Outgroup Hate
-  to Ingroup Favouritism'
+DOI: 10.5072/zenodo.1156093
+Zid: 1156093
+abstract: >-
+  The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
+  10-12 May 2017 - Session 4 - Brains that Pull the Triggers: Plasticity of
+  Behavior
+article_title: >-
+  Plasticity of Empathy and Prosocial Motivation: From Outgroup Hate to Ingroup
+  Favouritism
 authors:
-- firstname: 'Tania '
-  is_institution: false
-  lastname: Singer
-  positions_and_institutions:
-  - institution: Max Planck Institute for Human cognitive and Brain Sciences
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: Max Planck Institute for Human cognitive and Brain Sciences, Germany
-  social_channels:
-    website: https://taniasinger.de/
-    wikipedia: https://en.wikipedia.org/wiki/Tania_Singer
-    google_scholar: https://scholar.google.com/citations?user=9m42c2cAAAAJ&hl=en
-    researchgate: https://www.researchgate.net/profile/Tania-Singer
-    linkedin: https://de.linkedin.com/in/prof-dr-tania-singer-a3b3b5190
-    orcid: 0000-0002-4438-5374
-date: 2017-05-11T09:00:00.000+00:00
+  - firstname: 'Tania '
+    is_institution: false
+    lastname: Singer
+    positions_and_institutions:
+      - institution: Max Planck Institute for Human cognitive and Brain Sciences
+        positions:
+          - ''
+    social_channels:
+      google_scholar: https://scholar.google.com/citations?user=9m42c2cAAAAJ&hl=en
+      linkedin: https://de.linkedin.com/in/prof-dr-tania-singer-a3b3b5190
+      orcid: 0000-0002-4438-5374
+      researchgate: https://www.researchgate.net/profile/Tania-Singer
+      website: https://taniasinger.de/
+      wikipedia: https://en.wikipedia.org/wiki/Tania_Singer
+    titles_and_institutions:
+      - institution: Max Planck Institute for Human cognitive and Brain Sciences, Germany
+date: 2017-05-11T09:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
+language: English
 needDOI: false
 published: true
 start: false
 stop: false
+sub-issue: 3rd Conference on Syndrome E
 subissue: 3rd Conference on Syndrome E
 yt: TOa-sPMDNGg
-language: English
-sub-issue: 3rd Conference on Syndrome E
 
 ---
+
 In the present talk, I will present neuroscientific and psychological findings on the functioning of social emotions and motivations such as empathy and compassion and will give evidence for their fragility and modulation by beliefs and context as well as their trainability and plasticity through mental training interventions.
 
 The social neurosciences have focused on the question of how people relate to and understand each other. Hereby, researchers have distinguished between at least two different routes on the understanding of others: one affective-motivational route referring to our ability to feel with (empathy) and for (compassion) another person, and a cognitive route allowing to infer other people’s intentions, believes, and thoughts - a capacity also referred to as Theory of Mind, mentalizing or cognitive perspective taking. After a definition of concepts, I will shortly revise the main results of neuroscientific studies investigating empathic brain responses elicited by the suffering of another being and show how these empathic brain responses can easily be modulated by several contextual and stimulus intrinsic factors such as perceived fairness of others or whether one thinks that another person is belonging to your ingroup or your outgroup.

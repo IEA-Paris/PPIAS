@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155923
+Zid: 1155923
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 5
 article_title: For a «psychology of our culture»
 authors:
@@ -20,4 +22,5 @@ subissue: false
 yt: wZQgYkCcGRw
 
 ---
+
 <Youtube yt="wZQgYkCcGRw" caption="For a «psychology of our culture»" start="false" stop="false"></Youtube>

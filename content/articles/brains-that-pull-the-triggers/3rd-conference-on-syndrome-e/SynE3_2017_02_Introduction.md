@@ -1,31 +1,35 @@
 ---
-abstract: 'The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris
-  IAS, 10-12 May 2017 - Introduction '
+DOI: 10.5072/zenodo.1156099
+Zid: 1156099
+abstract: >-
+  The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
+  10-12 May 2017 - Introduction 
 article_title: 'The Brains that Pull the Triggers: Syndrome E, 2017'
 authors:
-- firstname: 'Itzhak '
-  is_institution: false
-  lastname: Fried
-  positions_and_institutions:
-  - institution: UCLA, USA / Université de Tel-Aviv, Israël
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: Paris Institute for Advanced Study, France
-  - institution: University of California Los Angeles, USA
-date: 2017-05-10T00:00:00.000+00:00
+  - firstname: 'Itzhak '
+    is_institution: false
+    lastname: Fried
+    positions_and_institutions:
+      - institution: UCLA, USA / Université de Tel-Aviv, Israël
+        positions:
+          - ''
+    titles_and_institutions:
+      - institution: Paris Institute for Advanced Study, France
+      - institution: University of California Los Angeles, USA
+date: 2017-05-10T00:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
+language: English
 needDOI: false
 published: true
 start: false
 stop: false
+sub-issue: 3rd Conference on Syndrome E
 subissue: 3rd Conference on Syndrome E
 yt: gXYBdKRZaYk
-language: English
-sub-issue: 3rd Conference on Syndrome E
 
 ---
+
 The transformation of groups of previously nonviolent individuals into repetitive killers of defenseless members of society has been a recurring phenomenon throughout history, continuing at the present era. This apparent transition of seemingly normal, “ordinary” individuals, to perpetrators of extreme atrocities is one of the most striking variants of human behavior. This transition is characterized by a set of symptoms and signs for which a common syndrome has been proposed, Syndrome E, as well as a pathophysiological model of a “cognitive fracture” (Fried, Lancet, 1997). A summary of the last two conferences and a survey of the syndrome manifestation in past times and in the current era will be presented.
 
 I will present the main challenges for this third Paris conference on “The Brains that Pull the Triggers”. In this meeting, we have an extraordinary mix of individuals. We have experts who have observed and studied perpetrators of past and present times and have drawn conclusions and formulated models to explain their behavior.

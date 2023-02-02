@@ -1,26 +1,30 @@
 ---
-abstract: Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris IAS,
-  10-11 December - Programme
+DOI: 10.5072/zenodo.1155829
+Zid: 1155829
+abstract: >-
+  Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris IAS, 10-11
+  December - Programme
 article_title: Crises et Nouveaux Prophètes. Intuition, Prévision, Réforme - Programme
 authors:
-- lastname: Institut d'études avancées de Paris, France
-  firstname: ''
-  is_institution: true
-- lastname: Université Paris-Saclay, France
-  firstname: ''
-  is_institution: true
-date: 2020-12-10T00:00:00.000+00:00
+  - firstname: ''
+    is_institution: true
+    lastname: Institut d'études avancées de Paris, France
+  - firstname: ''
+    is_institution: true
+    lastname: Université Paris-Saclay, France
+date: 2020-12-10T00:00:00.000Z
 highlight: false
 issue: content/issues/crises-et-prophetes.md
+language: English
 needDOI: false
 published: true
 start: false
 stop: false
 subissue: false
 yt: false
-language: English
 
 ---
+
 Colloque organisé par Pierre Pénet, Université de Genève et chaire d’Alembert Paris-Saclay - IEA de Paris, avec le soutien de l’Institut d’études avancées de Paris.
 
 La chaire « Jean D’Alembert » créée par l’IEA de Paris et l’université Paris-Saclay offre à un·e chercheur·euse la possibilité de développer ou de poursuivre un projet de recherche dans les domaines « Marchés, entreprise, travail et innovation », « Patrimoine, cultures et savoirs », ou « Sciences, éthique et société », et de bénéficier d’un environnement scientifique interdisciplinaire de tout premier plan durant une résidence de 6 mois.

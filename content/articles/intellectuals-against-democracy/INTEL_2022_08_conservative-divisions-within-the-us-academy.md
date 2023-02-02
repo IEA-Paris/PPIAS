@@ -1,33 +1,38 @@
 ---
-abstract: Intellectuals against liberal democracy. Academia, media, and culture, Paris
+DOI: 10.5072/zenodo.1155979
+Zid: 1155979
+abstract: >-
+  Intellectuals against liberal democracy. Academia, media, and culture, Paris
   IAS, 2-3 June 2022 - Panel 2 - Illiberal intellectuals figures
-article_title: 'Conservative Divisions within the US Academy: Trumpists versus Conservative
-  Anti-Trumpers'
+article_title: >-
+  Conservative Divisions within the US Academy: Trumpists versus Conservative
+  Anti-Trumpers
 authors:
-- firstname: David
-  is_institution: false
-  lastname: Swartz
-  positions_and_institutions:
-  - institution: Boston University, USA
-    positions:
-    - ''
-  social_channels:
-    researchgate: https://www.researchgate.net/profile/David-Swartz-5
-    google_scholar: https://scholar.google.com/citations?user=yA-G2CIAAAAJ&hl=en
-    linkedin: https://www.linkedin.com/in/david-swartz-12524248
-    orcid: 0000-0001-6349-7673
-date: 2022-06-02T06:00:00.000+00:00
+  - firstname: David
+    is_institution: false
+    lastname: Swartz
+    positions_and_institutions:
+      - institution: Boston University, USA
+        positions:
+          - ''
+    social_channels:
+      google_scholar: https://scholar.google.com/citations?user=yA-G2CIAAAAJ&hl=en
+      linkedin: https://www.linkedin.com/in/david-swartz-12524248
+      orcid: 0000-0001-6349-7673
+      researchgate: https://www.researchgate.net/profile/David-Swartz-5
+date: 2022-06-02T06:00:00.000Z
 highlight: false
 issue: content/issues/intellectuals-against-democracy.md
+language: English
 needDOI: false
 published: true
 start: '1607'
 stop: '3170'
 subissue: false
 yt: C11qgbuGMZ8
-language: English
 
 ---
+
 There has been an outpouring of research on right-wing populist conservatism since the advent of the Trump presidency and right-wing movements in Europe. While considerable attention is being given to the study of conservative movements and right-wing groups, little research thus far has been devoted to divisions among conservatives themselves, and especially among conservative academics. While Trumpism has maintained remarkable unity within the Republican Party for electoral reasons, it has created division among conservative intellectuals and academicians. The Trump era has increased the political polarization not only in American society but also within the academy. 
 
 Yet little research attention has thus far been devoted to the divisiveness of Trumpism within the academy. And interesting and important exception is the study by Kidder and Binder (2020) of white conservative college students at four elite universities. These sociologists found evidence of Trumpism to be a divisive factor even among conservative students. These sociologists identified three ideal typical orientations toward Trumpism: true believers, principled rejectors, and satisficed partisans. 

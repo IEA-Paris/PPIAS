@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155941
+Zid: 1155941
 abstract: >-
   Why a Multimethod Approach is needed to unravel the Contention with
   ‘Differences’. Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 -
@@ -32,4 +34,5 @@ subissue: false
 yt: CBWCcs_ENUg
 
 ---
+
 <Youtube yt="CBWCcs_ENUg" caption="Understanding Complexity in Social Engagement with Multiculturalism" start="false" stop="false"></Youtube>

@@ -1,30 +1,34 @@
 ---
-abstract: Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 6 - In Search of Lost
+DOI: 10.5072/zenodo.1156015
+Zid: 1156015
+abstract: >-
+  Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 6 - In Search of Lost
   Sleep
 article_title: Sleep Quality, Cognition and Aging
 authors:
-- firstname: Géraldine
-  is_institution: false
-  lastname: Rauchs
-  positions_and_institutions:
-  - institution: Inserm - Université de Caen, France
-    positions:
-    - ''
-  social_channels:
-    linkedin: https://fr.linkedin.com/in/g%C3%A9raldine-rauchs-2ab05b36
-    researchgate: https://www.researchgate.net/profile/Geraldine-Rauchs
-date: 2019-06-07T02:00:00.000+00:00
+  - firstname: Géraldine
+    is_institution: false
+    lastname: Rauchs
+    positions_and_institutions:
+      - institution: Inserm - Université de Caen, France
+        positions:
+          - ''
+    social_channels:
+      linkedin: https://fr.linkedin.com/in/g%C3%A9raldine-rauchs-2ab05b36
+      researchgate: https://www.researchgate.net/profile/Geraldine-Rauchs
+date: 2019-06-07T02:00:00.000Z
 highlight: false
 issue: content/issues/sleep-and-memory.md
+language: English
 needDOI: false
 published: true
 start: false
 stop: false
 subissue: false
 yt: WI6MNwrZkgg
-language: English
 
 ---
+
 Sleep is essential for an efficient cognitive functioning. Recent evidence also suggest that poor sleep quality may increase the risk of cognitive decline and Alzheimer’s disease (AD), notably by exacerbating amyloid deposition.  
 But, sleep quality may also have an impact on brain structure and function.
 

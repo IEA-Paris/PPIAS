@@ -1,29 +1,33 @@
 ---
-abstract: 'The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris
-  IAS, 09-10 May 2016 - Session 2 - Pathology: One of us or one unlike us?'
+DOI: 10.5072/zenodo.1156313
+Zid: 1156313
+abstract: >-
+  The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
+  09-10 May 2016 - Session 2 - Pathology: One of us or one unlike us?
 article_title: Questioning the Predictive Value of Syndrome E
 authors:
-- firstname: 'Richard '
-  is_institution: false
-  lastname: Rechtman
-  positions_and_institutions:
-  - institution: EHESS, France
-  social_channels:
-    google_scholar: https://scholar.google.fr/citations?user=xLOgLnoAAAAJ&hl=fr
-    researchgate: https://www.researchgate.net/profile/Richard-Rechtman
-date: 2016-05-09T06:00:00.000+00:00
+  - firstname: 'Richard '
+    is_institution: false
+    lastname: Rechtman
+    positions_and_institutions:
+      - institution: EHESS, France
+    social_channels:
+      google_scholar: https://scholar.google.fr/citations?user=xLOgLnoAAAAJ&hl=fr
+      researchgate: https://www.researchgate.net/profile/Richard-Rechtman
+date: 2016-05-09T06:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
+language: English
 needDOI: false
 published: true
 start: false
 stop: false
+sub-issue: 2nd Conference  on Syndrome E
 subissue: 2nd Conference  on Syndrome E
 yt: 2EEOYGVqMm8
-language: English
-sub-issue: 2nd Conference  on Syndrome E
 
 ---
+
 Why do ordinary men turn so easily into mass murderers?
 
 Since WW2, this question has given rise to different hypotheses. The “situationist” perspective focuses on the situation into which ordinary men were suddenly projected, ignoring potential psychological factors. Lifton’s concept of “atrocity producing situations” applied to Vietnam veterans, Browning’s “ordinary men”, or Welzer’s “ordinary Germans”, all try to explain how almost anyone could become a mass murderer in certain situations. The psychodynamic approach, focuses on archaic psychological instincts rather than situational variables, but represents in fact a similar perspective. In this case, it is not the situation itself, but the “death instinct”, present in every human being, that explains how evil men can be(become).

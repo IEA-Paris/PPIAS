@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155933
+Zid: 1155933
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 8
 article_title: 'Future issues: On forms of social thinking'
 authors:
@@ -20,4 +22,5 @@ subissue: false
 yt: jDgbGfYzXJ8
 
 ---
+
 <Youtube yt="jDgbGfYzXJ8" caption="Future issues: On forms of social thinking" start="false" stop="false"></Youtube>

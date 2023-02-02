@@ -1,32 +1,35 @@
 ---
-abstract: The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
+DOI: 10.5072/zenodo.1156299
+Zid: 1156299
+abstract: >-
+  The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
   09-10 May 2016
-article_title: The Brains that Pull the Triggers -  2nd Conference on Syndrome E -
-  Program
+article_title: The Brains that Pull the Triggers -  2nd Conference on Syndrome E - Program
 authors:
-- firstname: Itzhak
-  lastname: Fried
-  titles_and_institutions:
-  - institution: Paris Institute for Advanced Study, France
-  - institution: University of California Los Angeles, USA
-- firstname: 'Alain '
-  lastname: Berthoz
-  titles_and_institutions:
-  - institution: Collège de France, France
-date: 2016-05-08T23:00:00.000+00:00
+  - firstname: Itzhak
+    lastname: Fried
+    titles_and_institutions:
+      - institution: Paris Institute for Advanced Study, France
+      - institution: University of California Los Angeles, USA
+  - firstname: 'Alain '
+    lastname: Berthoz
+    titles_and_institutions:
+      - institution: Collège de France, France
+custom_pdf: /affiche_syndrome-e-ptt.jpg
+date: 2016-05-08T23:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
+language: English
 needDOI: false
 published: true
 start: false
 stop: false
+sub-issue: 2nd Conference  on Syndrome E
 subissue: 2nd Conference  on Syndrome E
 yt: false
-language: English
-custom_pdf: "/affiche_syndrome-e-ptt.jpg"
-sub-issue: 2nd Conference  on Syndrome E
 
 ---
+
 The Brains that Pull the Triggers, second Paris conference on syndrome E  organized by Itzhak Fried (UCLA / IEA Paris) and Alain Berthoz (Collège de France),  May 9-10 2016.
 
 _“Arguably the biggest challenge for interdisciplinary dialogue across the fields that consider brain and behavior…a bold and important attempt to bring interdisciplinary approach to one of the biggest questions facing humanity”, **Nature**_, 521:260, 2015 (Editorial on the First Paris Conference on Syndrome E)

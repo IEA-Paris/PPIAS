@@ -1,60 +1,65 @@
 ---
-needDOI: true
+DOI: 10.5072/zenodo.1155959
+Zid: 1155959
+abstract: >-
+  Intellectuals against liberal democracy. Academia, media, and culture, Paris
+  IAS, 2-3 June 2022 - Program
+article_title: >-
+  Intellectuals against Liberal Democracy. Academia, Media, and Culture -
+  Program
+authors:
+  - firstname: ''
+    is_institution: false
+    lastname: Centre Européen de Sociologie et de Science Politique, France
+    picture: ''
+    picture_copyright: ''
+    positions_and_institutions: []
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+  - firstname: ''
+    is_institution: false
+    lastname: Paris Institute for Advanced Study, France
+    picture: ''
+    picture_copyright: ''
+    positions_and_institutions:
+      - institution: ''
+        positions: []
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+bibliography: ''
+custom_pdf: ''
+date: 2022-06-01T23:00:54.000Z
+disciplines: ''
+doi: ''
+highlight: false
 issue: content/issues/intellectuals-against-democracy.md
 keywords: []
-date: 2022-06-01T23:00:54Z
 language: English
-disciplines: ''
-published: true
-doi: ''
-article_title: Intellectuals against Liberal Democracy. Academia, Media, and Culture
-  - Program
-authors:
-- lastname: Centre Européen de Sociologie et de Science Politique, France
-  is_institution: false
-  firstname: ''
-  positions_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-- lastname: Paris Institute for Advanced Study, France
-  positions_and_institutions:
-  - positions: []
-    institution: ''
-  is_institution: false
-  firstname: ''
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-custom_pdf: ''
-abstract: Intellectuals against liberal democracy. Academia, media, and culture, Paris
-  IAS, 2-3 June 2022 - Program
-sub-issue: ''
+needDOI: true
 picture: ''
 picture_copyright: ''
+published: true
+sub-issue: ''
 yt: ''
-highlight: false
-bibliography: ''
 
 ---
+
 Workshop organized by Valentin Behr, résident 2021-2022 Paris IAS and Simon Massei, Université libre de Bruxelles, with the support of Paris IAS and  CESSP.
 
 ### Program
