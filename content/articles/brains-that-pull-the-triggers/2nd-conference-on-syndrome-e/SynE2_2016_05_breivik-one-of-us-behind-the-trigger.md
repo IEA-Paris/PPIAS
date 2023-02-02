@@ -1,29 +1,33 @@
 ---
-abstract: 'The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris
-  IAS, 09-10 May 2016 - Session 2 - Pathology: One of us or one unlike us?'
+DOI: 10.5072/zenodo.1156309
+Zid: 1156309
+abstract: >-
+  The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
+  09-10 May 2016 - Session 2 - Pathology: One of us or one unlike us?
 article_title: 'Breivik: “One of Us” Behind the Trigger'
 authors:
-- firstname: 'Åsne '
-  is_institution: false
-  lastname: Seierstad
-  positions_and_institutions:
-  - institution: Norway
-  social_channels:
-    wikipedia: https://en.wikipedia.org/wiki/%C3%85sne_Seierstad
-    twitter: "@AsneSeierstad"
-date: 2016-05-09T03:00:00.000+00:00
+  - firstname: 'Åsne '
+    is_institution: false
+    lastname: Seierstad
+    positions_and_institutions:
+      - institution: Norway
+    social_channels:
+      twitter: '@AsneSeierstad'
+      wikipedia: https://en.wikipedia.org/wiki/%C3%85sne_Seierstad
+date: 2016-05-09T03:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
+language: English
 needDOI: false
 published: true
 start: false
 stop: false
+sub-issue: 2nd Conference  on Syndrome E
 subissue: 2nd Conference  on Syndrome E
 yt: xDVtZ6KOwUw
-language: English
-sub-issue: 2nd Conference  on Syndrome E
 
 ---
+
 I will present a case study of the life of Anders Behring Breivik, who on July 22nd 2011 placed a bomb outside the office of Norway’s Prime Minister, killing 8, before he drove to the island of Utøya where the Labour Party Youth had gathered, and shot 69 teenagers dead.
 
 What is the background of this man, who until that killing spree, never showed signs of aggression? He never fought, he was never violent, but was seen as a very well behaved young man.

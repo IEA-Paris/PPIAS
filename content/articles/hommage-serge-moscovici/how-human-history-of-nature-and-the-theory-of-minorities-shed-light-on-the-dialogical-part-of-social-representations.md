@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155925
+Zid: 1155925
 abstract: >-
   The case of psychologists addressing ecological issues. Tribute to Serge
   Moscovici. Paris IAS, 17-18 November 2016 - Session 5
@@ -24,4 +26,5 @@ subissue: false
 yt: iAKnkos-s6I
 
 ---
+
 <Youtube yt="iAKnkos-s6I" caption="How «human history of nature» and the theory of minorities shed light on the dialogical part of social representations." start="false" stop="false"></Youtube>

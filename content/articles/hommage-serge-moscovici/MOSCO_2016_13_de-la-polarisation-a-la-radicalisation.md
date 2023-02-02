@@ -1,27 +1,31 @@
 ---
+DOI: 10.5072/zenodo.1155905
+Zid: 1155905
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 4
 article_title: De la Polarisation à la Radicalisation
 authors:
-- firstname: 'Marie '
-  is_institution: false
-  lastname: Personnaz
-  positions_and_institutions:
-  - institution: Paris Ouest Nanterre-la Défense University / Centre Edgar Morin IIAC
-      EHESS-CNRS, France
-    positions:
-    - ''
-date: 2016-11-17T12:00:00.000+00:00
+  - firstname: 'Marie '
+    is_institution: false
+    lastname: Personnaz
+    positions_and_institutions:
+      - institution: >-
+          Paris Ouest Nanterre-la Défense University / Centre Edgar Morin IIAC
+          EHESS-CNRS, France
+        positions:
+          - ''
+date: 2016-11-17T12:00:00.000Z
 highlight: false
 issue: content/issues/hommage-serge-moscovici.md
+language: French
 needDOI: false
 published: true
 start: false
 stop: false
 subissue: false
 yt: F07jiwN3WLA
-language: French
 
 ---
+
 Serge Moscovici a apporté une contribution majeure aux processus de prise de décision en groupe en mettant  en exergue dans ses recherches le processus de polarisation collective. Nous présenterons les conditions d’apparition de ce processus à partir de ses travaux et de ceux de ses collègues puis  nous examinerons comment la polarisation peut conduire à des phénomènes de radicalisation et d’extrémisme politique ou religieux.
 
 <Youtube yt="F07jiwN3WLA" caption="De la polarisation à la radicalisation" start="false" stop="false"></Youtube>

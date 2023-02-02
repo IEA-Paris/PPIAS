@@ -1,35 +1,39 @@
 ---
-abstract: 'The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris
-  IAS, 10-12 May 2017 - Session 1 - Heart of Darkness: Ordinary and Extraordinary
-  Perpetrators'
+DOI: 10.5072/zenodo.1156109
+Zid: 1156109
+abstract: >-
+  The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
+  10-12 May 2017 - Session 1 - Heart of Darkness: Ordinary and Extraordinary
+  Perpetrators
 article_title: 'How Ordinary People Become Violent: Frustration and Dehumanization'
 authors:
-- firstname: 'Susan '
-  is_institution: false
-  lastname: Fiske
-  positions_and_institutions:
-  - institution: Princeton University, USA
-    positions:
-    - ''
-  titles_and_institutions:
-  - institution: Princeton University, USA
-  social_channels:
-    google_scholar: https://scholar.google.com/citations?user=4jnrVhoAAAAJ&hl=en
-    researchgate: https://www.researchgate.net/profile/Susan-Fiske
-    wikipedia: https://en.wikipedia.org/wiki/Susan_Fiske
-date: 2017-05-10T01:00:00.000+00:00
+  - firstname: 'Susan '
+    is_institution: false
+    lastname: Fiske
+    positions_and_institutions:
+      - institution: Princeton University, USA
+        positions:
+          - ''
+    social_channels:
+      google_scholar: https://scholar.google.com/citations?user=4jnrVhoAAAAJ&hl=en
+      researchgate: https://www.researchgate.net/profile/Susan-Fiske
+      wikipedia: https://en.wikipedia.org/wiki/Susan_Fiske
+    titles_and_institutions:
+      - institution: Princeton University, USA
+date: 2017-05-10T01:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
+language: English
 needDOI: false
 published: true
 start: false
 stop: false
+sub-issue: 3rd Conference on Syndrome E
 subissue: 3rd Conference on Syndrome E
 yt: c9xH7OXiv6s
-language: English
-sub-issue: 3rd Conference on Syndrome E
 
 ---
+
 Stereotyping dehumanizes others and provides a potential pathway to violence when people are frustrated. Stereotypes vary in content and neural correlates, but systematic patterns emerge across cultures. The first dimension reflects perceived intent—warm and trustworthy (or not)—as when the sentry cries, “Friend or foe?” The second dimension, competence, reflects ability to enact the benign or malign intent.
 
 Warmth and competence combine to produce four validated clusters of outgroups. The stereotypical ingroup, middle-class or citizens, are stereotyped as both warm and competent; they are sources of pride and admiration. The worst outgroups—homeless people, nomads, or undocumented immigrants—are stereotyped as both untrustworthy and incompetent; they evoke disgust. Mixed stereotypes include older or disabled people, viewed as warm but incompetent; they receive pity. Another mixed stereotype targets rich people, who seem competent but cold, and they provoke envy. Distinct forms of dehumanizing discrimination target each cluster, and the emotional prejudices (pride, disgust, pity, envy) best predict behavior.

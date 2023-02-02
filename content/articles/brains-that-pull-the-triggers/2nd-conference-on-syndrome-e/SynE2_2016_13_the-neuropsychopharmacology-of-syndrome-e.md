@@ -1,32 +1,36 @@
 ---
-abstract: The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
+DOI: 10.5072/zenodo.1156321
+Zid: 1156321
+abstract: >-
+  The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
   09-10 May 2016 - Session 4 - Clinical Correlations and Parallels
 article_title: The Neuropsychopharmacology of Syndrome E
 authors:
-- firstname: 'Trevor '
-  is_institution: false
-  lastname: Robbins
-  positions_and_institutions:
-  - institution: University of Cambridge, United Kingdom
-  social_channels:
-    wikipedia: https://en.wikipedia.org/wiki/Trevor_Robbins
-    google_scholar: https://scholar.google.com/citations?user=7vl9HdwAAAAJ&hl=fr
-    linkedin: https://uk.linkedin.com/in/trevor-robbins-3671496
-    orcid: 0000-0003-0642-5977
-    researchgate: https://www.researchgate.net/profile/Trevor-Robbins-2
-date: 2016-05-10T12:00:00.000+00:00
+  - firstname: 'Trevor '
+    is_institution: false
+    lastname: Robbins
+    positions_and_institutions:
+      - institution: University of Cambridge, United Kingdom
+    social_channels:
+      google_scholar: https://scholar.google.com/citations?user=7vl9HdwAAAAJ&hl=fr
+      linkedin: https://uk.linkedin.com/in/trevor-robbins-3671496
+      orcid: 0000-0003-0642-5977
+      researchgate: https://www.researchgate.net/profile/Trevor-Robbins-2
+      wikipedia: https://en.wikipedia.org/wiki/Trevor_Robbins
+date: 2016-05-10T12:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
+language: English
 needDOI: false
 published: true
 start: false
 stop: false
+sub-issue: 2nd Conference  on Syndrome E
 subissue: 2nd Conference  on Syndrome E
 yt: qrXpnD6XD0k
-language: English
-sub-issue: 2nd Conference  on Syndrome E
 
 ---
+
 Syndrome ‘E’ comprises a set of symptoms, at least some of which can be related to aspects of anti-social behaviour, as defined by DSM5, as well as some of its constituents such as conduct disorder or psychopathy. Some of the component  
 symptoms of Syndrome E resemble those acquired through lesions of the  
 ventromedial or lateral orbitofrontal cortex or via pharmacological agents  

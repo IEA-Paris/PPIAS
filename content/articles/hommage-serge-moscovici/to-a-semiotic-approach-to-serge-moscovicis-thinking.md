@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155939
+Zid: 1155939
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 4
 article_title: To a semiotic approach to Serge Moscovici’s thinking
 authors:
@@ -22,4 +24,5 @@ subissue: false
 yt: QUXlKk3Wvhk
 
 ---
+
 <Youtube yt="QUXlKk3Wvhk" caption="To a semiotic approach to Serge Moscovici’s thinking" start="false" stop="false"></Youtube>

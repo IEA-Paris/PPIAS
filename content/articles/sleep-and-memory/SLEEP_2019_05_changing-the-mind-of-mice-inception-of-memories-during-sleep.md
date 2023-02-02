@@ -1,30 +1,35 @@
 ---
-abstract: 'Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 2 - Enhancement and
-  Inception (Part I: Rodents)'
+DOI: 10.5072/zenodo.1155997
+Zid: 1155997
+abstract: >-
+  Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 2 - Enhancement and
+  Inception (Part I: Rodents)
 article_title: 'Changing the Mind of Mice : Inception of Memories During Sleep'
 authors:
-- firstname: Marie
-  is_institution: false
-  lastname: Lacroix
-  positions_and_institutions:
-  - institution: CNRS - ESPCI Paris Tech - Cog'X, France
-    positions:
-    - ''
-  social_channels:
-    linkedin: https://fr.linkedin.com/in/marie-lacroix-93255b87?original_referer=https%3A%2F%2Fwww.google.com%2F
-    researchgate: https://www.researchgate.net/profile/Marie-Lacroix
-date: 2019-06-06T03:00:00Z
+  - firstname: Marie
+    is_institution: false
+    lastname: Lacroix
+    positions_and_institutions:
+      - institution: CNRS - ESPCI Paris Tech - Cog'X, France
+        positions:
+          - ''
+    social_channels:
+      linkedin: >-
+        https://fr.linkedin.com/in/marie-lacroix-93255b87?original_referer=https%3A%2F%2Fwww.google.com%2F
+      researchgate: https://www.researchgate.net/profile/Marie-Lacroix
+date: 2019-06-06T03:00:00.000Z
 highlight: false
 issue: content/issues/sleep-and-memory.md
+language: English
 needDOI: false
 published: true
 start: false
 stop: false
 subissue: false
 yt: BsHOIwpevYg
-language: English
 
 ---
+
 Sleep is now recognized to be crucial for the consolidation of preexisting memory traces. One important model to study memory in rodent is the spatial memory, as hippocampal neurons have been shown to code for spatial locationof the animal. This correlate between animal behavior and hippocampal neuronal activity is so strong that those «place cells » assemblies are believed to support the _cognitive map_, which is the mental representation of space in the animal brain. During sleep, those place cells assemblies show reactivations of recent waking experience, and this replay would be instrumental in the process of memory consolidation.
 
   

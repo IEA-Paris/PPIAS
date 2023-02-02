@@ -1,4 +1,51 @@
 ---
+DOI: 10.5072/zenodo.1155031
+Zid: 1155031
+abstract: >-
+  This 4th edition of the ICA hosted by the Paris Institute for Advanced Studies
+  (Paris IAS) from October 18 to 27, 2021, explores fundamental
+  interdisciplinary issues at the intersection of cognitive science,
+  neuroscience and artificial intelligence. Decisive advances have been made
+  over the last decades in the analysis of brain activity and its behavioral
+  counterparts, as well as in information processing sciences. The
+  complementarities between neuroscience/cognitive science and artificial
+  intelligence allow us to explore synergies and raise ethical questions between
+  these disciplines, which present considerable challenges and opportunities for
+  the progress of society. 
+article_title: 8 Days at ICA 4 First session in Paris
+authors:
+  - firstname: Atrina
+    lastname: Oraee
+    picture: ''
+    picture_copyright: ''
+    positions_and_institutions:
+      - institution: international laboratory for Brain, Music, and Sound research (BRAMS)
+        positions:
+          - co-founder
+      - institution: IAS PARIS
+        positions:
+          - writer
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+bibliography: /bibliography/test.bib
+category1:
+  - color: green
+    text: Article
+custom_pdf: /pdfs/ICA4.pdf
+date: 2021-12-07T12:54:42.000Z
+discipline:
+  - {}
+highlight: false
+issue: content/issues/Intercontinental Academia 4.md
 keywords:
   - Artificial Intelligence
   - Data science
@@ -7,50 +54,11 @@ keywords:
   - Algorithms
   - Language
   - Robots
-date: 2021-12-07T12:54:42.000+00:00
-article_title: 8 Days at ICA 4 First session in Paris
+language: English
 picture: ''
 picture_copyright: ''
-yt: ''
-published: true
 pinned: false
-bibliography: '/bibliography/test.bib'
-authors:
-  - firstname: 'Atrina'
-    lastname: Oraee
-    picture: ''
-    picture_copyright: ''
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      twitter: ''
-      instagram: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-    positions_and_institutions:
-      - positions:
-          - co-founder
-        institution: international laboratory for Brain, Music, and Sound research (BRAMS)
-      - positions:
-          - writer
-        institution: IAS PARIS
-    reference: ''
-abstract:
-  'This 4th edition of the ICA hosted by the Paris Institute for Advanced
-  Studies (Paris IAS) from October 18 to 27, 2021, explores fundamental interdisciplinary
-  issues at the intersection of cognitive science, neuroscience and artificial intelligence.
-  Decisive advances have been made over the last decades in the analysis of brain
-  activity and its behavioral counterparts, as well as in information processing sciences.
-  The complementarities between neuroscience/cognitive science and artificial intelligence
-  allow us to explore synergies and raise ethical questions between these disciplines,
-  which present considerable challenges and opportunities for the progress of society. '
-
-issue: content/issues/Intercontinental Academia 4.md
-highlight: false
-language: English
+published: true
 tag:
   - Artificial Intelligence
   - Data science
@@ -59,13 +67,10 @@ tag:
   - Algorithms
   - Language
   - Robots
-category1:
-  - color: green
-    text: Article
-custom_pdf: '/pdfs/ICA4.pdf'
-discipline:
-  - {}
+yt: ''
+
 ---
+
 
 ## Introduction
 

@@ -1,40 +1,43 @@
 ---
-needDOI: true
-issue: content/issues/sleep-and-memory.md
-keywords: []
-date: 2019-06-05T23:00:34Z
-language: English
-disciplines: ''
-published: true
-doi: ''
+DOI: 10.5072/zenodo.1155995
+Zid: 1155995
+abstract: Sleep and Memory. Paris IAS, 6-7 June 2019 - Program
 article_title: Sleep and Memory - Program
 authors:
-- lastname: Paris Institute for Advanced Study, France
-  is_institution: false
-  firstname: ''
-  positions_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
+  - firstname: ''
+    is_institution: false
+    lastname: Paris Institute for Advanced Study, France
+    picture: ''
+    picture_copyright: ''
+    positions_and_institutions: []
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+bibliography: ''
 custom_pdf: ''
-abstract: Sleep and Memory. Paris IAS, 6-7 June 2019 - Program
-sub-issue: ''
+date: 2019-06-05T23:00:34.000Z
+disciplines: ''
+doi: ''
+highlight: false
+issue: content/issues/sleep-and-memory.md
+keywords: []
+language: English
+needDOI: true
 picture: ''
 picture_copyright: ''
+published: true
+sub-issue: ''
 yt: ''
-highlight: false
-bibliography: ''
 
 ---
+
 ### Program
 
 **6 June 2019**

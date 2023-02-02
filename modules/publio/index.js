@@ -63,14 +63,16 @@ export default function (moduleOptions) {
   let once = true
 
   const zenodoQueue = new PQueue({
-    concurrency: 5,
+    // Concurrency limit. Default: Infinity
+    concurrency: 1,
+    // The max number of runs in the given interval of time.
     intervalCap: 60,
-    interval: 6000,
+    // The length of time in milliseconds before the interval count resets. Must be finite.
+    interval: 60000,
   })
 
   this.nuxt.hook('generate:extendRoutes', (routes) => {
     // Extend routes with the ones to be printed
-    if (!routesToPrint) return
     Object.keys(routesToPrint).forEach((type) => {
       routesToPrint[type].forEach((route) => {
         routes.push({
@@ -110,17 +112,15 @@ export default function (moduleOptions) {
     // For dev mode only, we start the PDF rendering process to allow debug and preview.
     if (process.env.NODE_ENV !== 'production') {
       console.log('"BUILD:done"')
-      routesToPrint = makePrintRoutes(articles)
-      if (routesToPrint.length) {
-        await generateFiles(
-          routesToPrint,
-          {
-            pdfs: generatePDF,
-            thumbnails: generateThumbnails,
-          },
-          url
-        )
-      }
+      routesToPrint = makePrintRoutes(articles, options)
+      await generateFiles(
+        routesToPrint,
+        {
+          pdfs: generatePDF,
+          thumbnails: generateThumbnails,
+        },
+        url
+      )
       articles = await disseminate(
         articles,
         options,
@@ -167,7 +167,7 @@ export default function (moduleOptions) {
       )
 
       // make an array of routes to print
-      routesToPrint = makePrintRoutes(articles)
+      routesToPrint = makePrintRoutes(articles, options)
       // Upsert on Zenodo/OpenAire & get DOI is none is available
       articles = await upsertOnZenodo(articles, options, zenodoQueue)
     }

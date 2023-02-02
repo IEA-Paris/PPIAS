@@ -1,38 +1,42 @@
 ---
+DOI: 10.5072/zenodo.1155911
+Zid: 1155911
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 4
-article_title: Is There a Social Psychology of Historic Grievances and Intergroup
-  Conflict in the Age of 'Radicalisation'?
+article_title: >-
+  Is There a Social Psychology of Historic Grievances and Intergroup Conflict in
+  the Age of 'Radicalisation'?
 authors:
-- firstname: 'Andreea '
-  is_institution: false
-  lastname: Ernst-Vintila
-  positions_and_institutions:
-  - institution: Paris-Ouest- Nanterre-la-Défense University, France
-    positions:
-    - ''
-  social_channels:
-    google_scholar: https://scholar.google.com/citations?user=uuAZDOwAAAAJ&hl=en
-    researchgate: https://www.researchgate.net/profile/Andreea-Gruev-Vintila
-- firstname: 'Yechiel '
-  lastname: Klar
-  positions_and_institutions:
-  - institution: Tel Aviv University, Israel
-  social_channels:
-    google_scholar: https://scholar.google.com/citations?user=pttp944AAAAJ&hl=en
-    researchgate: https://www.researchgate.net/profile/Yechiel-Klar
-    linkedin: https://il.linkedin.com/in/yechiel-klar-880348a
-date: 2016-11-17T11:00:00.000+00:00
+  - firstname: 'Andreea '
+    is_institution: false
+    lastname: Ernst-Vintila
+    positions_and_institutions:
+      - institution: Paris-Ouest- Nanterre-la-Défense University, France
+        positions:
+          - ''
+    social_channels:
+      google_scholar: https://scholar.google.com/citations?user=uuAZDOwAAAAJ&hl=en
+      researchgate: https://www.researchgate.net/profile/Andreea-Gruev-Vintila
+  - firstname: 'Yechiel '
+    lastname: Klar
+    positions_and_institutions:
+      - institution: Tel Aviv University, Israel
+    social_channels:
+      google_scholar: https://scholar.google.com/citations?user=pttp944AAAAJ&hl=en
+      linkedin: https://il.linkedin.com/in/yechiel-klar-880348a
+      researchgate: https://www.researchgate.net/profile/Yechiel-Klar
+date: 2016-11-17T11:00:00.000Z
 highlight: false
 issue: content/issues/hommage-serge-moscovici.md
+language: English
 needDOI: false
 published: true
 start: false
 stop: false
 subissue: false
 yt: 9vlVtClNJ-U
-language: English
 
 ---
+
 How does social psychology contribute to the understanding of intergroup conflict in the age of ‘radicalisation’? How does it address current intergroup interactions in the context of historical grievances? A social psychological examination of such questions addresses at least three aspects: Why should history matter to the social psychology of intergroup relations? Is there a historically contextualized social psychology of intergroup conflict and its termination? How does social psychology address dynamic intergroup relations? Finally, we ask: What are the implications for our explanatory frameworks of the interplay between social representations of history, collective memories, social identities, and present-day intergroup relations?
 
 <Youtube yt="9vlVtClNJ-U" caption="Is There a Social Psychology of Historic Grievances and Intergroup Conflict in the Age of 'Radicalisation'?" start="false" stop="false"></Youtube>

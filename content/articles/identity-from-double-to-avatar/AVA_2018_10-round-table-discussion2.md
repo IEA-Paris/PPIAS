@@ -1,95 +1,99 @@
 ---
-needDOI: true
-issue: content/issues/identity-from-double-to-avatar.md
-keywords: []
-date: 2018-12-14T09:00:03Z
-language: English
-disciplines: ''
-published: true
-doi: ''
+DOI: 10.5072/zenodo.1155879
+Zid: 1155879
+abstract: >-
+  Adventures of Identity: From the Double to the Avatar. Paris IAS, 13-14
+  December 2018 - Session 3 - Round-table discussion
 article_title: 'Round-table discussion '
 authors:
-- firstname: 'Elise '
-  lastname: Harris
-  titles_and_institutions:
-  - positions: []
-    institution: Université Paris Diderot, France
-  is_institution: false
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-- firstname: 'Barbara  '
-  lastname: Grespi
-  titles_and_institutions:
-  - positions: []
-    institution: Università di Bergamo, Italy
-  is_institution: false
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-- firstname: 'Sara '
-  lastname: 'Guindani '
-  titles_and_institutions:
-  - positions: []
-    institution: FMSH-Collège d’études mondiales, France
-  is_institution: false
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-- firstname: 'Mel '
-  lastname: 'Slater '
-  titles_and_institutions:
-  - positions: []
-    institution: University of Barcelona, Spain
-  is_institution: false
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
+  - firstname: 'Elise '
+    is_institution: false
+    lastname: Harris
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_institutions:
+      - institution: Université Paris Diderot, France
+        positions: []
+  - firstname: 'Barbara  '
+    is_institution: false
+    lastname: Grespi
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_institutions:
+      - institution: Università di Bergamo, Italy
+        positions: []
+  - firstname: 'Sara '
+    is_institution: false
+    lastname: 'Guindani '
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_institutions:
+      - institution: FMSH-Collège d’études mondiales, France
+        positions: []
+  - firstname: 'Mel '
+    is_institution: false
+    lastname: 'Slater '
+    picture: ''
+    picture_copyright: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+    titles_and_institutions:
+      - institution: University of Barcelona, Spain
+        positions: []
+bibliography: ''
 custom_pdf: ''
-abstract: 'Adventures of Identity: From the Double to the Avatar. Paris IAS, 13-14
-  December 2018 - Session 3 - Round-table discussion'
-sub-issue: ''
+date: 2018-12-14T09:00:03.000Z
+disciplines: ''
+doi: ''
+highlight: false
+issue: content/issues/identity-from-double-to-avatar.md
+keywords: []
+language: English
+needDOI: true
 picture: ''
 picture_copyright: ''
+published: true
+sub-issue: ''
 yt: 6f5wjTDM3pw
-highlight: false
-bibliography: ''
 
 ---
+
 <Youtube yt="6f5wjTDM3pw" caption ="Colloque "Avatar" : Table ronde session 3"></Youtube>
