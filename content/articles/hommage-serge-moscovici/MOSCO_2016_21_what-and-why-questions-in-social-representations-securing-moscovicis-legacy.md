@@ -34,4 +34,4 @@ In 1963 Serge Moscovici assessed developments in research on attitudes and opini
 
 In this essay I suggest that a complementary and potentially more productive research question starts with why?   What invites an answer based data and facts; why invites an answer starting with because – the beginnings of an explanation.  And with because comes the opening of a possible contribution to the understanding processes and of linking representations to other concepts.
 
-<Youtube yt="P6lKMdJSKeE" caption="What and why questions in social representations: securing Moscovici’s legacy" start="false" stop="false"></Youtube>
+<Youtube yt="P6lKMdJSKeE" caption="What and why questions in social representations: securing Moscovici s legacy" start="false" stop="false"></Youtube>
