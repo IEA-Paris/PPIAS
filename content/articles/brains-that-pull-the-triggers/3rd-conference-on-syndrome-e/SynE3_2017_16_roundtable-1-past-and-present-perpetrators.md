@@ -8,13 +8,11 @@ article_title: >-
   Roundtable 1: Past and Present Perpetrators: Issues of Interpretation and
   Prevention
 authors:
-  - firstname: 'JM '
+  - firstname: 'JM'
     is_institution: false
     lastname: Berger
     positions_and_institutions:
       - institution: International Center for Counter-Terrorism, Netherlands
-        positions:
-          - ''
     titles_and_institutions:
       - institution: International Center for Counter-Terrorism, Netherlands
   - firstname: 'Gretty '
@@ -22,8 +20,6 @@ authors:
     lastname: Mirdal
     positions_and_institutions:
       - institution: Paris IAS, France
-        positions:
-          - ''
     titles_and_institutions:
       - institution: Paris Institute for Advanced Study, France
   - firstname: Norman
@@ -31,8 +27,6 @@ authors:
     lastname: ' Ohler'
     positions_and_institutions:
       - institution: Germany
-        positions:
-          - ''
     titles_and_institutions:
       - institution: Berlin, Gemany
   - firstname: 'Abram '
@@ -65,4 +59,4 @@ yt: QuNdcGl-Vag
 
 ---
 
-<Youtube yt="QuNdcGl-Vag" caption="Roundtable 1: Past and Present Perpetrators: Issues of Interpretation and Prevention" start="false" stop="false"></Youtube>
+<Youtube yt="QuNdcGl-Vag" caption="Roundtable 1 Past and Present Perpetrators Issues of Interpretation and Prevention" start="false" stop="false"></Youtube>

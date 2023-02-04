@@ -98,13 +98,13 @@ export default function (moduleOptions) {
         url
       )
     }
-    articles = await disseminate(
+    /*   articles = await disseminate(
       articles,
       options,
       zenodoQueue,
       // METADATA/FRONTMATTER
       [publishOnZenodo, updateArticlesDoiAndZid]
-    )
+    ) */
   })
 
   nuxt.hook('build:done', async (nuxt) => {
@@ -121,13 +121,13 @@ export default function (moduleOptions) {
         },
         url
       )
-      articles = await disseminate(
+      /*     articles = await disseminate(
         articles,
         options,
         zenodoQueue,
         // METADATA/FRONTMATTER
         [publishOnZenodo, updateArticlesDoiAndZid]
-      )
+      ) */
     }
   })
 
@@ -169,7 +169,7 @@ export default function (moduleOptions) {
       // make an array of routes to print
       routesToPrint = makePrintRoutes(articles, options)
       // Upsert on Zenodo/OpenAire & get DOI is none is available
-      articles = await upsertOnZenodo(articles, options, zenodoQueue)
+      /*  articles = await upsertOnZenodo(articles, options, zenodoQueue) */
     }
     return true
   })

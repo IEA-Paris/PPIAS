@@ -229,11 +229,13 @@ export const generateChecksum = (str, algorithm, encoding) => {
 
 export const cleanupString = (str) =>
   str
-    .replace(/[\u2018\u2019]/g, "'")
-    .replace(/[\u201C\u201D]/g, '"')
-    .replace('<br>', ' ')
-    .replace(/\u00A0/g, ' ')
-    .trim()
+    ? str
+        .replace(/[\u2018\u2019]/g, "'")
+        .replace(/[\u201C\u201D]/g, '"')
+        .replace('<br>', ' ')
+        .replace(/\u00A0/g, ' ')
+        .trim()
+    : ''
 const fieldsToDisregard = ['DOI', 'Zid']
 export const deepEqual = (x, y) =>
   // cleanUpString is meant to avoid discrepancies with possible changes that Zenodo makes on the string, regarding mostly html entities.
