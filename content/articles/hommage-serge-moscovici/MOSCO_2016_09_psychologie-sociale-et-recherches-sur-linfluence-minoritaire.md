@@ -27,4 +27,4 @@ yt: LJ1Yazt1O0c
 
 L’influence minoritaire est présentée à partir des recherches réalisées à Paris qui ont porté sur plusieurs aspects des processus centraux de l’influence sociale et permis de mettre au jour différents niveaux, étapes et formes de changements et de résistances.
 
-<Youtube yt="LJ1Yazt1O0c" caption="Psychologie sociale et recherches sur l’influence minoritaire" start="false" stop="false"></Youtube>
+<Youtube yt="LJ1Yazt1O0c" caption="Psychologie sociale et recherches sur l influence minoritaire"></Youtube>

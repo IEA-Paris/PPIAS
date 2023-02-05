@@ -40,4 +40,4 @@ As my major mentor for 40 years, Serge Moscovici had an enormous impact on me an
 
 Serge’s impact was not just intellectual. He changed many of us, those of us who were fortunate enough to know him and those who came to know him through his published works. He was one of the giants of Social Psychology, with a reach far beyond the field of Social Psychology, and an impact that remains.
 
-<Youtube yt="Tl9iD1kfRGw" caption="The legacy of Serge Moscovici" start="false" stop="false"></Youtube>
+<Youtube yt="Tl9iD1kfRGw" caption="The legacy of Serge Moscovici"></Youtube>

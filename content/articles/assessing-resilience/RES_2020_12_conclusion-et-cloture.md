@@ -42,4 +42,4 @@ yt: kqKSuQ8WbqQ
 
 ---
 
-<Youtube yt="kqKSuQ8WbqQ" caption="Conclusion et clôture" start="false" stop="false"></Youtube>
+<Youtube yt="kqKSuQ8WbqQ" caption="Conclusion et clôture"></Youtube>

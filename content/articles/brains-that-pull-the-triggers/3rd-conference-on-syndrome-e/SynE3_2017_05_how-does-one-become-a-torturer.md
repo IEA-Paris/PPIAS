@@ -38,4 +38,4 @@ Therefore, I met him 16 times in detention. Articulating individual and geopolit
 
 In conclusion we will examine the nature of the psychologist’s counter-transference in front of criminals against humanity. It is an additional reliable inner captor that informs us of the unconscious mind of perpetrators.
 
-<Youtube yt="If2_p5sDjOA" caption="How Does one Become a Torturer? The Case of Duch in Cambodia" start="false" stop="false"></Youtube>
+<Youtube yt="If2_p5sDjOA" caption="How Does one Become a Torturer? The Case of Duch in Cambodia"></Youtube>

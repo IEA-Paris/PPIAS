@@ -33,4 +33,4 @@ yt: IcgO1OjIbHA
 
 ---
 
-<Youtube yt="IcgO1OjIbHA" caption="To be or not to be Charlie? The impact of group affiliation on the processing of others' emitted social signals" start="false" stop="false"></Youtube>
+<Youtube yt="IcgO1OjIbHA" caption="To be or not to be Charlie? The impact of group affiliation on the processing of others' emitted social signals"></Youtube>

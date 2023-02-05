@@ -28,4 +28,4 @@ yt: ajfeAB-8LqI
 
 Ethics and in particular considerations of justice, plays a crucial role in determining what the responses to climate change should be and in how we should evaluate such responses. An area where this is particularly important is in relation to the considerations of justice involved in the transition to a low carbon society. In discussing these issues I will first consider what the scope and nature of climate transitions are. Second, why justice is an integral part of climate transitions. And, finally the important role that the ideas of legitimacy and justification play in assessing transitions.
 
-<Youtube yt="ajfeAB-8LqI" caption="Justice and Climate Transitions : Introduction" start="false" stop="false"></Youtube>
+<Youtube yt="ajfeAB-8LqI" caption="Justice and Climate Transitions : Introduction"></Youtube>

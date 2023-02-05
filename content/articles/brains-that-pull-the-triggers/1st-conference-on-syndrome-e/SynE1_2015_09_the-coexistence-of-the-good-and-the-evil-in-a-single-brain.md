@@ -33,4 +33,4 @@ yt: iJdtMXRbCDE
 
 ---
 
-<Youtube yt="iJdtMXRbCDE" caption="The Coexistence of the Good and the Evil in a Single Brain: Phase Transitions in a Non-Linear Dynamical System?" start="false" stop="false"></Youtube>
+<Youtube yt="iJdtMXRbCDE" caption="The Coexistence of the Good and the Evil in a Single Brain: Phase Transitions in a Non-Linear Dynamical System?"></Youtube>

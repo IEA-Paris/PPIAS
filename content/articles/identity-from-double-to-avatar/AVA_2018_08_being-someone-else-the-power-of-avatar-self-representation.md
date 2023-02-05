@@ -35,4 +35,4 @@ yt: 7GvxD7fLHwQ
 
 ---
 
-<Youtube yt="7GvxD7fLHwQ" caption=" Being Someone Else – The Power of Avatar Self Representation" start="false" stop="false"></Youtube>
+<Youtube yt="7GvxD7fLHwQ" caption=" Being Someone Else – The Power of Avatar Self Representation"></Youtube>

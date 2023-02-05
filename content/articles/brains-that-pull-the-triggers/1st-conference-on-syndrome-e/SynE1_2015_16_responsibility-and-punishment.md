@@ -28,4 +28,4 @@ yt: ydiCPODN1XU
 
 ---
 
-<Youtube yt="ydiCPODN1XU" caption="Responsibility and Punishment" start="false" stop="false"></Youtube>
+<Youtube yt="ydiCPODN1XU" caption="Responsibility and Punishment"></Youtube>

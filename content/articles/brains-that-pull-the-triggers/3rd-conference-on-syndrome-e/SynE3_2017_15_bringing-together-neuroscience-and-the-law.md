@@ -38,4 +38,4 @@ However criminal law is not the only field where neurosciences are able to inter
 
 Finally, as the connection between neurosciences and legal theory and practice is manifestly to develop, that means that training, education and research should include more and more interdisciplinary studies, programmes and curricula. Specialized bodies should therefore be associated in order to “bridge the gap”.
 
-<Youtube yt="1tFLbfUVCaM" caption="Bringing Together Neuroscience and the Law: Some Reflections" start="false" stop="false"></Youtube>
+<Youtube yt="1tFLbfUVCaM" caption="Bringing Together Neuroscience and the Law: Some Reflections"></Youtube>

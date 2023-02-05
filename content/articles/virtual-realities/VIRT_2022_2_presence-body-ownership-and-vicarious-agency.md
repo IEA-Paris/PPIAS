@@ -35,4 +35,4 @@ yt: Npb1GXr-ROk
 
 ---
 
-<Youtube yt="Npb1GXr-ROk" caption="Presence, Body Ownership and Vicarious Agency - the Illusions of Virtual Reality" start="false" stop="false"></Youtube>
+<Youtube yt="Npb1GXr-ROk" caption="Presence, Body Ownership and Vicarious Agency - the Illusions of Virtual Reality"></Youtube>

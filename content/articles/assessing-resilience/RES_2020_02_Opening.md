@@ -48,4 +48,4 @@ yt: fM0TJubKuNE
 
 ---
 
-<Youtube yt="fM0TJubKuNE" caption="Ouverture officielle" start="false" stop="false"></Youtube>
+<Youtube yt="fM0TJubKuNE" caption="Ouverture officielle"></Youtube>

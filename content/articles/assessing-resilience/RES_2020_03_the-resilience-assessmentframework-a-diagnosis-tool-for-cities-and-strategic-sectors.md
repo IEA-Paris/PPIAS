@@ -44,4 +44,4 @@ yt: Hq5Yhz3Nxz4
 
 ---
 
-<Youtube yt="Hq5Yhz3Nxz4" caption="Le Resilience Assessment Framework, un outil de diagnostic" start="false" stop="false"></Youtube>
+<Youtube yt="Hq5Yhz3Nxz4" caption="Le Resilience Assessment Framework, un outil de diagnostic"></Youtube>

@@ -23,4 +23,4 @@ yt: x8Ilcl-QgUU
 
 ---
 
-<Youtube yt="x8Ilcl-QgUU" caption="Future isues: Active minorities vs. Victimized minorities: An Unfinished Task" start="false" stop="false"></Youtube>
+<Youtube yt="x8Ilcl-QgUU" caption="Future isues: Active minorities vs. Victimized minorities: An Unfinished Task"></Youtube>

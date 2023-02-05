@@ -35,4 +35,4 @@ An epileptic seizure is a phenomenon characterized by an excess of communication
 
 Hyper-communication, loss of complexity, loss of differentiation: the combination of these three properties is reminiscent of many symptoms of world globalization like for instance the stereotyped shopping streets that eventually all look alike across countries and continents. Using this analogy, - and exploring its limits -, I will propose that the functional architecture of our societies conveys both a potential of global consciousness never reached before, but also a vulnerability that can be described as a macrocosmic epileptic loss of consciousness. This analogy can be applied to new forms of societal violence.
 
-<Youtube yt="d3KsT0t4g_w" caption="An Analogy Between Communication within the Brain Microcosm and Communication Within the Societal Macrocosm" start="false" stop="false"></Youtube>
+<Youtube yt="d3KsT0t4g_w" caption="An Analogy Between Communication within the Brain Microcosm and Communication Within the Societal Macrocosm"></Youtube>

@@ -32,4 +32,4 @@ yt: ChH-UBXV_Zo
 
 ---
 
-<Youtube yt="ChH-UBXV_Zo" caption="Conclusion" start="false" stop="false"></Youtube>
+<Youtube yt="ChH-UBXV_Zo" caption="Conclusion"></Youtube>

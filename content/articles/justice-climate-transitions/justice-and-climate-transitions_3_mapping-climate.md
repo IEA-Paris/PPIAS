@@ -27,4 +27,4 @@ yt: 5p7SB5NaG-U
 
 There are two analytically distinct components to justice in the distribution of the impacts of climate change. The first is the distribution of exposure to hazards, that is the likelihood and severity of exposure to hazards such as flood, heatwave and drought. The second is the distribution of vulnerability: not all those who are exposed to such hazards will be equally vulnerable to their effects. This paper considers how vulnerability should be conceptualised and measured. Through consideration of recent joint empirical work on climate disadvantage in the UK the paper examines some of the questions the multi-dimensional nature of vulnerability and well-being raise for measuring and mapping climate injustice.
 
-<Youtube yt="5p7SB5NaG-U" caption="Mapping climate disadvantage" start="false" stop="false"></Youtube>
+<Youtube yt="5p7SB5NaG-U" caption="Mapping climate disadvantage"></Youtube>

@@ -32,4 +32,4 @@ yt: PEwHVxM9tKI
 
 ---
 
-<Youtube yt="PEwHVxM9tKI" caption="The Effect of Body Posture, Outgroup Affiliation, and Proximity of Virtual Encounters on Human Freezing Responses" start="false" stop="false"></Youtube>
+<Youtube yt="PEwHVxM9tKI" caption="The Effect of Body Posture, Outgroup Affiliation, and Proximity of Virtual Encounters on Human Freezing Responses"></Youtube>

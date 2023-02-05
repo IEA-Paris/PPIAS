@@ -60,4 +60,4 @@ yt: hCV9Hl37k2M
 
 Table-ronde en français avec la participation de Béatrice Hibou (CNRS, Sciences Po, CERI), Marlène Laruelle (George Washington University), Nicolas Lebourg (Université de Montpellier)
 
-<Youtube yt="hCV9Hl37k2M" caption="Une « droitisation » des espaces politiques ? Comprendre la montée de l’illibéralisme et de l’e03nbOE0Sf2sxtrême-droite" start="false" stop="false"></Youtube>
+<Youtube yt="hCV9Hl37k2M" caption="Une « droitisation » des espaces politiques ? Comprendre la montée de l’illibéralisme et de l’e03nbOE0Sf2sxtrême-droite"></Youtube>

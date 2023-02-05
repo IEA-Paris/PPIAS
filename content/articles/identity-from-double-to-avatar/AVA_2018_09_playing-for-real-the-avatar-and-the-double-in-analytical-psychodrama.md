@@ -28,4 +28,4 @@ yt: vkOC6I1BrXo
 
 ---
 
-<Youtube yt="vkOC6I1BrXo" caption="Playing for Real. The Avatar and the Double in Analytical Psychodrama" start="false" stop="false"></Youtube>
+<Youtube yt="vkOC6I1BrXo" caption="Playing for Real. The Avatar and the Double in Analytical Psychodrama"></Youtube>

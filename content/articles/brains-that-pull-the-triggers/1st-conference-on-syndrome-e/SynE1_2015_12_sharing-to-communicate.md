@@ -31,4 +31,4 @@ yt: j2KYDciL5ao
 
 ---
 
-<Youtube yt="IqlQp5gyfts" caption ="Bioéthique et laïcité" start="false" stop="false"></Youtube>
+<Youtube yt="IqlQp5gyfts" caption ="Bioéthique et laïcité"></Youtube>

@@ -29,7 +29,7 @@ language: English
 ---
 Moscovici’s paper ‘Society and Theory in Social Psychology’, published in Israel and Tajfel’s ‘The Context of Social Psychology’ in 1972 is many things.  It is a consideration of the history of an emerging and increasingly fractionated discipline; it is a comment on the state (and status) of that discipline in a time of argument and conflict, and it is a call to arms that not only sets out a theoretical challenge but also one that centres on the application of social psychology.  In this paper, I will consider how far we may (or may not) have moved on from the concerns that motivated Moscovici forty-four years ago. Do we continue to suffer from a lack of an over-arching theoretical perspective, and if so, what are the consequences of this?  Does his categorisation of types of social psychology still resonate with work being done within the field today?  Perhaps most significantly, have we heeded Moscovici’s impassioned (and even impatient) plea that we come out of the ‘academic ghetto’ and engage with finding solutions to the problems that face society?  I will consider how far social psychology, and particularly, more sociocultural approaches within the discipline have engaged with social change and social challenges in recent years.  I will conclude with some thoughts about both the challenges and opportunities that Moscovici’s paper might continue to afford us in developing social psychology in the future.
 
-<Youtube yt="MPvFyStwtA0" caption="Society and Theory in Social Psychology a reconsideration" start="false" stop="false"></Youtube>
+<Youtube yt="MPvFyStwtA0" caption="Society and Theory in Social Psychology a reconsideration"></Youtube>
 
 ## Bibliography
 

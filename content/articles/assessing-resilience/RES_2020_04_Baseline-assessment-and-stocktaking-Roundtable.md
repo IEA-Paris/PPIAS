@@ -52,4 +52,4 @@ yt: PnkS2Zo0Vsk
 
 ---
 
-<Youtube yt="PnkS2Zo0Vsk" caption="Diagnostics et états des lieux" start="false" stop="false"></Youtube>
+<Youtube yt="PnkS2Zo0Vsk" caption="Diagnostics et états des lieux"></Youtube>

@@ -61,4 +61,4 @@ yt: 3nwanoR7Yws
 
 ---
 
-<Youtube yt="3nwanoR7Yws" caption="Évaluer la résilience : les travaux en cours" start="false" stop="false"></Youtube>
+<Youtube yt="3nwanoR7Yws" caption="Évaluer la résilience : les travaux en cours"></Youtube>

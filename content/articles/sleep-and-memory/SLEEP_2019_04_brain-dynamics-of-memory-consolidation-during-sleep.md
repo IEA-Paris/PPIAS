@@ -36,4 +36,4 @@ Yet, direct causal evidence that these patterns were involved in memory consolid
 behavior. In summary, hippocampal sequences emerge during behavior, then endogenously reactivate during sleep ripples, finely coordinated with cortical rhythms. These network events mediate the formation and consolidation  
 of memory.
 
-<Youtube yt="coTP8dB17AQ" caption="Brain Dynamics of Memory Consolidation During Sleep" start="false" stop="false"></Youtube>
+<Youtube yt="coTP8dB17AQ" caption="Brain Dynamics of Memory Consolidation During Sleep"></Youtube>

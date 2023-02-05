@@ -31,4 +31,4 @@ yt: MvebRnGPg_Q
 
 ---
 
-<Youtube yt="MvebRnGPg_Q" caption="Neural Mechanisms of Rule Compliance in Humans" start="false" stop="false"></Youtube>
+<Youtube yt="MvebRnGPg_Q" caption="Neural Mechanisms of Rule Compliance in Humans"></Youtube>

@@ -31,4 +31,4 @@ yt: '-iCDJ_pu11U'
 
 ---
 
-<Youtube yt="-iCDJ_pu11U" caption="Skeuomorphic Selfhood: a Kantian Take on the Avatar" start="false" stop="false"></Youtube>
+<Youtube yt="-iCDJ_pu11U" caption="Skeuomorphic Selfhood: a Kantian Take on the Avatar"></Youtube>

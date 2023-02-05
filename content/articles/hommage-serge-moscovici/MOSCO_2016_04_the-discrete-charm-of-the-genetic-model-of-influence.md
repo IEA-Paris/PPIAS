@@ -30,4 +30,4 @@ yt: sigwQbF_DSU
 
 ---
 
-<Youtube yt="sigwQbF_DSU" caption="The discrete charm of the genetic model of influence and its indirect impact on epistemic level" start="false" stop="false"></Youtube>
+<Youtube yt="sigwQbF_DSU" caption="The discrete charm of the genetic model of influence and its indirect impact on epistemic level"></Youtube>

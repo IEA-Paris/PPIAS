@@ -26,4 +26,4 @@ yt: LFQ8IQlG0BM
 
 ---
 
-<Youtube yt="LFQ8IQlG0BM" caption="Diffusion, propagation, propagande : et après ?" start="false" stop="false"></Youtube>
+<Youtube yt="LFQ8IQlG0BM" caption="Diffusion, propagation, propagande  et après "></Youtube>

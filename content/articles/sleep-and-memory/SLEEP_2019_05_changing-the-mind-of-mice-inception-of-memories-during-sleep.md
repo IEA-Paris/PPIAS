@@ -39,4 +39,4 @@ Here we show that neuronal reactivations can be used to induce a new artificial 
 These results show first that it is possible to create an artificial explicit memory during sleep that is used during subsequent waking period to drive a goal directed behavior. But more importantly, it demonstrates the causal role  
 of place cells on the mental representation of space, and that hippocampal cell assemblies still conveyed the same spatial information during sleep as it did during wakefulness.
 
-<Youtube yt="BsHOIwpevYg" caption="Changing the Mind of Mice : Inception of Memories During Sleep" start="false" stop="false"></Youtube>
+<Youtube yt="BsHOIwpevYg" caption="Changing the Mind of Mice : Inception of Memories During Sleep"></Youtube>

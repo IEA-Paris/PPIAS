@@ -30,4 +30,4 @@ yt: fgAqkNSYVSM&t
 
 ---
 
-<Youtube yt="fgAqkNSYVSM&t" caption="On Obedience, Choice and Accountability or Why Orders Don't Work" start="false" stop="false"></Youtube>
+<Youtube yt="fgAqkNSYVSM&t" caption="On Obedience, Choice and Accountability or Why Orders Don't Work"></Youtube>

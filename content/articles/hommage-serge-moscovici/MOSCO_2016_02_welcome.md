@@ -44,4 +44,4 @@ yt: cJwJdOVLJx0
 
 ---
 
-<Youtube yt="cJwJdOVLJx0" caption="Hommage à Serge Moscovici / Introduction - G. Mirdal, J. Perez et S. Lahlou" start="false" stop="false"></Youtube>
+<Youtube yt="cJwJdOVLJx0" caption="Hommage à Serge Moscovici  Introduction - G. Mirdal, J. Perez et S. Lahlou"></Youtube>

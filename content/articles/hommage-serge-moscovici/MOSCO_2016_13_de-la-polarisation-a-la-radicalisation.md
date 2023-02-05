@@ -28,7 +28,7 @@ yt: F07jiwN3WLA
 
 Serge Moscovici a apporté une contribution majeure aux processus de prise de décision en groupe en mettant  en exergue dans ses recherches le processus de polarisation collective. Nous présenterons les conditions d’apparition de ce processus à partir de ses travaux et de ceux de ses collègues puis  nous examinerons comment la polarisation peut conduire à des phénomènes de radicalisation et d’extrémisme politique ou religieux.
 
-<Youtube yt="F07jiwN3WLA" caption="De la polarisation à la radicalisation" start="false" stop="false"></Youtube>
+<Youtube yt="F07jiwN3WLA" caption="De la polarisation à la radicalisation"></Youtube>
 
 ## Bibliographie
 

@@ -41,4 +41,4 @@ yt: BW0oEk1Xzzs
 
 ---
 
-<Youtube yt="BW0oEk1Xzzs" caption="Table ronde : Mesures d’impacts ex-ante et ex-post" start="false" stop="false"></Youtube>
+<Youtube yt="BW0oEk1Xzzs" caption="Table ronde : Mesures d’impacts ex-ante et ex-post"></Youtube>

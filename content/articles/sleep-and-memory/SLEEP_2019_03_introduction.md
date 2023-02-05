@@ -26,4 +26,4 @@ yt: 7f4JG4X5pHY
 
 From an interdisciplinary perspective including neuroscience, medicine, the humanities and art, the meeting aims at (1) advancing and disseminating scientific knowledge on how specific sleep processes aid memory consolidation (2) inspiring science and arts to adopt new approaches to the importance of sleep and dreams (3) benefiting society by promoting awareness for good sleep habits and their effect on cognitive well-being.
 
-<Youtube yt="7f4JG4X5pHY" caption="Itzhak Fried (UCLA / Tel-Aviv University)" start="false" stop="false"></Youtube>
+<Youtube yt="7f4JG4X5pHY" caption="Itzhak Fried (UCLA / Tel-Aviv University)"></Youtube>

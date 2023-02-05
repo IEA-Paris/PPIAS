@@ -28,4 +28,4 @@ yt: K3PWtR5fKb8
 
 ---
 
-<Youtube yt="K3PWtR5fKb8" caption="La leçon de la pandémie de COVID 19 " start="false" stop="false"></Youtube>
+<Youtube yt="K3PWtR5fKb8" caption="La leçon de la pandémie de COVID 19 "></Youtube>

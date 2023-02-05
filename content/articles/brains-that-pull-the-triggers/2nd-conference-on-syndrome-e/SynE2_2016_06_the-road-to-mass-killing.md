@@ -28,4 +28,4 @@ yt: _G3j5QjhSpU
 
 ---
 
-<Youtube yt="_G3j5QjhSpU" caption="The Road to Mass Killing: a Pathological Process?" start="false" stop="false"></Youtube>
+<Youtube yt="_G3j5QjhSpU" caption="The Road to Mass Killing: a Pathological Process?"></Youtube>

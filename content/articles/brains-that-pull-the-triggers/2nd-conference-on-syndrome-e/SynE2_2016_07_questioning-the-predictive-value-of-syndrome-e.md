@@ -40,4 +40,4 @@ Itzhak Fried’s Syndrome E is an attempt to respond from a neurocognitive persp
 
 In fact the notion of “ordinary man” that emerged in the aftermath of WW2 was less a psychological assertion of the “normality” of perpetrators, than a way to avoid the myth of perpetrators as monster –i.e. non-human. In other words, I will try to demonstrate that because an “ordinary man” is nothing else than a human being, with all the potentials of any human being, one can anticipate that all types of psychological functioning - from pathological to quite normal - may be found among mass killers. This does not mean that almost everybody can become a killer, or that only few specific pathological types might become mass murderers.
 
-<Youtube yt="2EEOYGVqMm8" caption="Questioning the Predictive Value of Syndrome E" start="false" stop="false"></Youtube>
+<Youtube yt="2EEOYGVqMm8" caption="Questioning the Predictive Value of Syndrome E"></Youtube>

@@ -76,4 +76,4 @@ yt: tcaH0wmSIrc
 
 ---
 
-<Youtube yt="tcaH0wmSIrc" caption="Table ronde autour des thématiques « inégalités sociales », « réactions face au changement » et « gouvernance et démocratie »" start="false" stop="false"></Youtube>
+<Youtube yt="tcaH0wmSIrc" caption="Table ronde autour des thématiques « inégalités sociales », « réactions face au changement » et « gouvernance et démocratie »"></Youtube>

@@ -27,4 +27,4 @@ yt: hQsuP3BBdR8
 
 ---
 
-<Youtube yt="hQsuP3BBdR8" caption="The Brains that Pull the Triggers. What is Syndrome E?" start="false" stop="false"></Youtube>
+<Youtube yt="hQsuP3BBdR8" caption="The Brains that Pull the Triggers. What is Syndrome E?"></Youtube>

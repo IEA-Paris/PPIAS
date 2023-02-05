@@ -30,4 +30,4 @@ yt: SxFdhjtZp64&t
 
 ---
 
-<Youtube yt="SxFdhjtZp64&t" caption="The Elusive Holocaust Perpetrator" start="false" stop="false"></Youtube>
+<Youtube yt="SxFdhjtZp64&t" caption="The Elusive Holocaust Perpetrator"></Youtube>

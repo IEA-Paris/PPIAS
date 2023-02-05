@@ -32,4 +32,4 @@ yt: 5pOuQo6XMpY&t
 
 ---
 
-<Youtube yt="5pOuQo6XMpY&t" caption="Deshumanised Perception: A Psychological Mechanism that May Facilitate Human Atrocities" start="false" stop="false"></Youtube>
+<Youtube yt="5pOuQo6XMpY&t" caption="Deshumanised Perception: A Psychological Mechanism that May Facilitate Human Atrocities"></Youtube>

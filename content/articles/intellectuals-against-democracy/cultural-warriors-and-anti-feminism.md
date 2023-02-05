@@ -24,4 +24,4 @@ yt: 7uyHX_4aOkg
 language: English
 
 ---
-<Youtube yt="7uyHX_4aOkg" caption="Cultural Warriors and Anti-Feminism" start="false" stop="false"></Youtube>
+<Youtube yt="7uyHX_4aOkg" caption="Cultural Warriors and Anti-Feminism"></Youtube>

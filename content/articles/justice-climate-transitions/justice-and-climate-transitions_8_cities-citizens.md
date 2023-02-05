@@ -25,4 +25,4 @@ yt: 5loae0ohDiI
 
 ‘Everyone has a role to play in tackling climate change’ proclaims the UK low Carbon Transition Plan. Such acknowledgements of the importance of public participation are a common feature of much energy transition policy. Yet within this apparent consensus, different versions of the public, of this ‘everyone’, are to be found. This paper explores the different ways the public (as communities, consumers and citizens) are constituted in the UK energy transition and its associated public policy debates.
 
-<Youtube yt="5loae0ohDiI" caption="Cities, Citizens and Social Justice in the Energy Transition" start="false" stop="false"></Youtube>
+<Youtube yt="5loae0ohDiI" caption="Cities, Citizens and Social Justice in the Energy Transition"></Youtube>

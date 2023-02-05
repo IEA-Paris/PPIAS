@@ -39,4 +39,4 @@ During sleep these recordings provide insight into the orchestration of several 
 Electrical stimulation provides an exciting tool to study causal mechanisms of memory encoding and consolidation. During encoding, of new information, electrical stimulation applied at the entorhinal region appear to enhance  
 subsequent performance on memory retrieval of that information. During slow wave sleep electrical stimulation locked to hippocampal slow waves applied at frontal lobe sites, results in enhancement of slow wave power as well as improvement in memory performance. These results may lead to development of closed loop neuro-prosthetic devices- memory aids- providing stimulation based on sensing of local brain activity in order to enhance memory encoding during waking periods and memory consolidation during sleep.
 
-<Youtube yt="UktLhBJEhOM" caption="Enhancing Human Memory: From Single Neurons to Neuromodulation" start="false" stop="false"></Youtube>
+<Youtube yt="UktLhBJEhOM" caption="Enhancing Human Memory: From Single Neurons to Neuromodulation"></Youtube>

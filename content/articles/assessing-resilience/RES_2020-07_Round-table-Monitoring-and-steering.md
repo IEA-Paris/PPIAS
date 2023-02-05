@@ -46,4 +46,4 @@ yt: 6T3rivzMYwo
 
 ---
 
-<Youtube yt="6T3rivzMYwo" caption="Suivi et pilotage" start="false" stop="false"></Youtube>
+<Youtube yt="6T3rivzMYwo" caption="Suivi et pilotage"></Youtube>

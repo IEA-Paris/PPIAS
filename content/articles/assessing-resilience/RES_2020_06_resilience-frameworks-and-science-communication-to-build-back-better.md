@@ -32,4 +32,4 @@ yt: cZDQJ45mgCs
 
 ---
 
-<Youtube yt="cZDQJ45mgCs" caption="Resilience frameworks and science communication to Build Back Better" start="false" stop="false"></Youtube>
+<Youtube yt="cZDQJ45mgCs" caption="Resilience frameworks and science communication to Build Back Better"></Youtube>

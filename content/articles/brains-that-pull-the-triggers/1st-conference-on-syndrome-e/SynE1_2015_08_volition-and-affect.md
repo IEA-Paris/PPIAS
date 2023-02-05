@@ -32,4 +32,4 @@ yt: ejCWcO4ldag
 
 ---
 
-<Youtube yt="ejCWcO4ldag" caption="Volition and Affect: How Do Positive, Negative, Right and Wrong Outcomes Influence Human Sense of Agency" start="false" stop="false"></Youtube>
+<Youtube yt="ejCWcO4ldag" caption="Volition and Affect: How Do Positive, Negative, Right and Wrong Outcomes Influence Human Sense of Agency"></Youtube>

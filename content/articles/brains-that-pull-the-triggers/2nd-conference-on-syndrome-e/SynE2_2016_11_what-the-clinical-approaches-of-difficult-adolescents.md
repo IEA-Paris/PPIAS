@@ -41,4 +41,4 @@ diagnostic process to approach it, the consequence of such labelling on the mora
   
 After a brief presentation of the issue and clinical approaches of Difficult Adolescents in social French legal juvenile systems, this presentation will discuss the utility of this clinical analogy to discuss the validity, the psychopathology and the physiopathology of the Syndrome E hypothesis.
 
-<Youtube yt="8icocBuAzX0" caption="What the Clinical Approaches of Difficult Adolescents Can Teach us About E Syndrome" start="false" stop="false"></Youtube>
+<Youtube yt="8icocBuAzX0" caption="What the Clinical Approaches of Difficult Adolescents Can Teach us About E Syndrome"></Youtube>

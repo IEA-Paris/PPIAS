@@ -39,4 +39,4 @@ In this paper, I give a close reading to Gitta Sereny’s (1974/1983) _Into that
 
 Following Sereny, I present a way of understanding Stangl’s involvement that focuses on understanding of his reflections on his actions during the Shoah. But, I also question some of the assumptions inherent in Sereny’s characterization of moral action and present a way of thinking through presumptions of perpetrator guilt and conscience from a broader perspective.
 
-<Youtube yt="eCVUsb1iMGE" caption="The Hermeneutics of Darkness: Interpreting Perpetrators  on their Crimes" start="false" stop="false"></Youtube>
+<Youtube yt="eCVUsb1iMGE" caption="The Hermeneutics of Darkness: Interpreting Perpetrators  on their Crimes"></Youtube>

@@ -33,4 +33,4 @@ yt: 0yd4l_thT0g
 
 ---
 
-<Youtube yt="0yd4l_thT0g" caption="From the Neuroscience of Self-Consciousness to Virtual Reality, Digiceuticals, and Human Augmentation" start="false" stop="false"></Youtube>
+<Youtube yt="0yd4l_thT0g" caption="From the Neuroscience of Self-Consciousness to Virtual Reality, Digiceuticals, and Human Augmentation"></Youtube>

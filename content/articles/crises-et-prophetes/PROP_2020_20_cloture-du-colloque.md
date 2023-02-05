@@ -26,4 +26,4 @@ yt: 4iDyzZiiIu0
 
 ---
 
-<Youtube yt="4iDyzZiiIu0" caption="Clôture du colloque" start="false" stop="false"></Youtube>
+<Youtube yt="4iDyzZiiIu0" caption="Clôture du colloque"></Youtube>

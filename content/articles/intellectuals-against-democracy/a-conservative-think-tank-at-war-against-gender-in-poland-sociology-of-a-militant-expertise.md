@@ -25,4 +25,4 @@ yt: 7uyHX_4aOkg
 language: English
 
 ---
-<Youtube yt="7uyHX_4aOkg" caption="A conservative think tank at war against gender in Poland. Sociology of a militant expertise" start="false" stop="false"></Youtube>
+<Youtube yt="7uyHX_4aOkg" caption="A conservative think tank at war against gender in Poland. Sociology of a militant expertise"></Youtube>

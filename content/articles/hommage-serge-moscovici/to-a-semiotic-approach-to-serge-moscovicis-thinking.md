@@ -26,4 +26,4 @@ yt: QUXlKk3Wvhk
 language: English
 
 ---
-<Youtube yt="QUXlKk3Wvhk" caption="To a semiotic approach to Serge Moscovici’s thinking" start="false" stop="false"></Youtube>
+<Youtube yt="QUXlKk3Wvhk" caption="To a semiotic approach to Serge Moscovici’s thinking"></Youtube>

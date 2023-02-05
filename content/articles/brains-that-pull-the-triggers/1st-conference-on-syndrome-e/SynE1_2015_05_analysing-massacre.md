@@ -30,4 +30,4 @@ yt: jdCfEEwY_xg&t
 
 ---
 
-<Youtube yt="jdCfEEwY_xg&t" caption="Analysing Massacre to Understand the Genocidal Process" start="false" stop="false"></Youtube>
+<Youtube yt="jdCfEEwY_xg&t" caption="Analysing Massacre to Understand the Genocidal Process"></Youtube>

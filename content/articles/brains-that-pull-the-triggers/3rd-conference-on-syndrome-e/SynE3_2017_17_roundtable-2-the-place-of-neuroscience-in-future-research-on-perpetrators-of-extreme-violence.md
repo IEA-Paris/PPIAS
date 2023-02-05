@@ -58,4 +58,4 @@ yt: RjpjfM64mdk
 
 ---
 
-<Youtube yt="RjpjfM64mdk" caption="Roundtable 2: The Place of Neuroscience in Future Research on Perpetrators of Extreme Violence" start="false" stop="false"></Youtube>
+<Youtube yt="RjpjfM64mdk" caption="Roundtable 2: The Place of Neuroscience in Future Research on Perpetrators of Extreme Violence"></Youtube>

@@ -23,4 +23,4 @@ yt: G9TYnHpC3PA
 
 ---
 
-<Youtube yt="G9TYnHpC3PA" caption="Future issues. The analysis of behaviour" start="false" stop="false"></Youtube>
+<Youtube yt="G9TYnHpC3PA" caption="Future issues. The analysis of behaviour"></Youtube>

@@ -47,4 +47,4 @@ yt: e8cAQ1_MpFQ
 
 In the present communication, we revisit Moscovici’s theory of minority influence. We briefly describe the core aspects of the theory and the impact it had on the social influence research field back from the 1970-1980 until today. In our own work, we go one step beyond this theory and investigate how being a member of the minority versus the majority modifies group-relevant behaviour. Notably, we hypothesise that a minority group has an energising effect on its members that encourages them to pursue the minority’s goals further and further. A majority group, however, lacks such a motivational power and can only obtain a minimal effort from its own members. We present experimental findings from three studies that support this hypothesis.
 
-<Youtube yt="e8cAQ1_MpFQ" caption="The impact of majority and minority social support for pro environmental values on pro-environmental behaviours" start="false" stop="false"></Youtube>
+<Youtube yt="e8cAQ1_MpFQ" caption="The impact of majority and minority social support for pro environmental values on pro-environmental behaviours"></Youtube>

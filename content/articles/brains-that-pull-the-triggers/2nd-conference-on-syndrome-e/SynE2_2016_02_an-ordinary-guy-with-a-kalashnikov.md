@@ -50,4 +50,4 @@ era?
   
 4\. Is scientifically-based intervention feasible?
 
-<Youtube yt="uA5azJSADWk" caption="An Ordinary Guy with a Kalashnikov" start="false" stop="false"></Youtube>
+<Youtube yt="uA5azJSADWk" caption="An Ordinary Guy with a Kalashnikov"></Youtube>

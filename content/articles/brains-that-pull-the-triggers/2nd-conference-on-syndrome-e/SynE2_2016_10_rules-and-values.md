@@ -31,4 +31,4 @@ yt: GM_QSYfsSgo
 
 ---
 
-<Youtube yt="GM_QSYfsSgo" caption="Rules and Values" start="false" stop="false"></Youtube>
+<Youtube yt="GM_QSYfsSgo" caption="Rules and Values"></Youtube>

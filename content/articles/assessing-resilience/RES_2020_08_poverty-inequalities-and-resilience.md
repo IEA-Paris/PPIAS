@@ -45,4 +45,4 @@ yt: 5NtO_sIzk4E
 
 ---
 
-<Youtube yt="5NtO_sIzk4E" caption="Pauvreté, inégalités et résilience : réflexions sur les indicateurs de la Banque Mondiale" start="false" stop="false"></Youtube>
+<Youtube yt="5NtO_sIzk4E" caption="Pauvreté, inégalités et résilience : réflexions sur les indicateurs de la Banque Mondiale"></Youtube>

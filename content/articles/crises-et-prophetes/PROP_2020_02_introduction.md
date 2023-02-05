@@ -44,4 +44,4 @@ yt: KmQvNpYEOdY
 
 ---
 
-<Youtube yt="KmQvNpYEOdY" caption="Introduction" start="false" stop="false"></Youtube>
+<Youtube yt="KmQvNpYEOdY" caption="Introduction"></Youtube>

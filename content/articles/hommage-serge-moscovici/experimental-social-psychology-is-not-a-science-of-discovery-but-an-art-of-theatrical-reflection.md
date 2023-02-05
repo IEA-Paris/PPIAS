@@ -25,4 +25,4 @@ yt: jiqBoH-8Ykg
 
 ---
 
-<Youtube yt="jiqBoH-8Ykg" caption="Experimental social psychology is not a science of discovery, but an art of theatrical reflection" start="false" stop="false"></Youtube>
+<Youtube yt="jiqBoH-8Ykg" caption="Experimental social psychology is not a science of discovery but an art of theatrical reflection"></Youtube>

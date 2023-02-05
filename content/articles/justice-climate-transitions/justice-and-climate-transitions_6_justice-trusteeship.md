@@ -26,4 +26,4 @@ yt: 5RCeDpr6BmI
 
 I assess whether traditional forms of the ownership of sources of energy are adequate in a climate constrained world and explore ways in which the existing intellectual property rights regime can be reformed to generate both the necessary innovation into clean technology and also its transfer to the least advantaged.
 
-<Youtube yt="5RCeDpr6BmI" caption="Justice, Trusteeship and the Transition to a Low Carbon Economy: An integrated Approach" start="false" stop="false"></Youtube>
+<Youtube yt="5RCeDpr6BmI" caption="Justice, Trusteeship and the Transition to a Low Carbon Economy: An integrated Approach"></Youtube>

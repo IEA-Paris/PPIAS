@@ -30,4 +30,4 @@ yt: P2ZDbcLLmN8
 
 ---
 
-<Youtube yt="P2ZDbcLLmN8" caption="From Superman to PJ Masks: How Masks Make Us Superhumans" start="false" stop="false"></Youtube>
+<Youtube yt="P2ZDbcLLmN8" caption="From Superman to PJ Masks: How Masks Make Us Superhumans"></Youtube>

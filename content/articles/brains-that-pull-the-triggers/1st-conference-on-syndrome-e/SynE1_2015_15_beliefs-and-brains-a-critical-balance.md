@@ -32,4 +32,4 @@ yt: nO4yjwcJ8Xo
 
 ## test text 
 
-<Youtube yt="nO4yjwcJ8Xo" caption="Beliefs and Brains: A Critical Balance" start="false" stop="false"></Youtube>
+<Youtube yt="nO4yjwcJ8Xo" caption="Beliefs and Brains: A Critical Balance"></Youtube>

@@ -38,4 +38,4 @@ That did not happen, and the boy goes starts his school years trying to find a p
 
 I will also go into how he prepares himself to kill, using meditation, drugs, training, but most importantly, decides to think like a soldier, because at war you are allowed to kill.
 
-<Youtube yt="xDVtZ6KOwUw" caption="Breivik: “One of Us” Behind the Trigger" start="false" stop="false"></Youtube>
+<Youtube yt="xDVtZ6KOwUw" caption="Breivik: “One of Us” Behind the Trigger"></Youtube>

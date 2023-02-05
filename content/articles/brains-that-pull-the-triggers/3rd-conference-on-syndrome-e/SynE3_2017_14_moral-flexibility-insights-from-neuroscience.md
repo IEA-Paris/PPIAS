@@ -41,4 +41,4 @@ I will present the first empirical evidence directly supporting the alternative 
 
 This mechanism implies that the moral value of actions is flexibly guided by neural representations of social norms. If norms change, so then do the values that guide actions. Supporting this view, re-framing decisions to harm others as being in service of a noble cause eliminated moral preferences. The flexibility of value representations in the brain may hold the key to understanding why people with good intentions can sometimes do terrible things.
 
-<Youtube yt="HJvRnkFVo88" caption="Moral Flexibility: Insights From Neuroscience" start="false" stop="false"></Youtube>
+<Youtube yt="HJvRnkFVo88" caption="Moral Flexibility: Insights From Neuroscience"></Youtube>

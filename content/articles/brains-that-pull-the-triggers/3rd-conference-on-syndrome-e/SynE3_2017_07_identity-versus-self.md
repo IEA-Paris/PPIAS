@@ -39,4 +39,4 @@ The study of extremist radicalization typically focuses on how individuals becom
 
 While the exact boundaries between group and individual motivations can be indistinct, it may be fruitful to approach this problem from a different perspective. Rather than simply asking why individuals radicalize, one avenue for enhanced investigation is to ask: “Why do groups radicalize?” and then ask “Why do people join groups?” Some answers to these questions can be found the context of social identity theory. Specifically, uncertainty identity theory (Hogg, 2004, 2007) offers a promising avenue for exploring why people join extremist groups. Uncertainty identity theory may also provide a window into why some people turn to violence, a question which is related, but not identical, to the question of why they join extremist groups.
 
-<Youtube yt="HUebLvyWAkI" caption="Identity Versus Self: Tensions Between Group, Radicalization and Individual Violence" start="false" stop="false"></Youtube>
+<Youtube yt="HUebLvyWAkI" caption="Identity Versus Self: Tensions Between Group, Radicalization and Individual Violence"></Youtube>

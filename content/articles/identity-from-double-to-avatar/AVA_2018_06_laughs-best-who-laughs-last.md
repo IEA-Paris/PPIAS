@@ -32,4 +32,4 @@ yt: z-_Sug7EuYI
 
 ---
 
-<Youtube yt="z-_Sug7EuYI" caption="Laughs Best who Laughs Last: Sardonic Doublets of Religious Tools in Eighteenth Century Sardinia" start="false" stop="false"></Youtube>
+<Youtube yt="z-_Sug7EuYI" caption="Laughs Best who Laughs Last: Sardonic Doublets of Religious Tools in Eighteenth Century Sardinia"></Youtube>

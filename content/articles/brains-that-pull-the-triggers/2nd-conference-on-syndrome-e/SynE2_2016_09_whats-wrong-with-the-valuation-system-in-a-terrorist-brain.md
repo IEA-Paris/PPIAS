@@ -33,4 +33,4 @@ According to standard decision theory, making a choice can be reduced to first a
 
 Therefore, there would be nothing wrong in a terrorist brain at the time of killing; it is the construction of values elaborated beforehand that needs to be understood. An alternative is that action selection could be directly specified from other persons, bypassing the brain valuation system. This might resemble what happens in hypnotic suggestion or in pathological situations such as auto- activation deficit. These two possibilities – subjective valuation being either deviated or bypassed – are open for discussion.
 
-<Youtube yt="d7iCX1hkcJo" caption="What’s Wrong with the Valuation System in a Terrorist Brain?" start="false" stop="false"></Youtube>
+<Youtube yt="d7iCX1hkcJo" caption="What’s Wrong with the Valuation System in a Terrorist Brain?"></Youtube>

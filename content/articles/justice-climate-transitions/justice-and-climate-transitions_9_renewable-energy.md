@@ -26,4 +26,4 @@ The transition to renewable energy is very much a political process that involve
 
 The speech will sketch some answers based both on empirical research in Europe and political analyses of different national energy policies.
 
-<Youtube yt="cieqWDbhnfY" caption="Renewable Energy and new Public Ownership" start="false" stop="false"></Youtube>
+<Youtube yt="cieqWDbhnfY" caption="Renewable Energy and new Public Ownership"></Youtube>

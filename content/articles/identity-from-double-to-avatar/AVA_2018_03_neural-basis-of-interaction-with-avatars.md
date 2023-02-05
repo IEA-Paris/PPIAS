@@ -28,4 +28,4 @@ yt: fXcQORFKJpA
 
 ---
 
-<Youtube yt="fXcQORFKJpA" caption="Neural Basis of Interaction with Avatars" start="false" stop="false"></Youtube>
+<Youtube yt="fXcQORFKJpA" caption="Neural Basis of Interaction with Avatars"></Youtube>

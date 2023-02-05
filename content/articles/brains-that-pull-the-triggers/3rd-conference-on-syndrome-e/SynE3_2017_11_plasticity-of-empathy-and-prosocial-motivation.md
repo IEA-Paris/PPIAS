@@ -47,4 +47,4 @@ I will show how easily empathic brain responses can be turned into opposite feel
 
 I will show first results of the _ReSource Project_, a large-scale multi-methodological one-year secular mental training program in which participants were trained in different 3-month mental training modules focusing on a) attention-based mindfulness, b) prosocial motivation and compassion, and c) perspective taking on self and others. Training-related changes were assessed on measures of functional and structural brain plasticity, social cognition and prosocial behavior as well as stress and health markers. Finally, I will discuss the potential use of these scientific findings for addressing concrete societal problems as well as their limitations.
 
-<Youtube yt="TOa-sPMDNGg" caption="Plasticity of Empathy and Prosocial Motivation: From Outgroup Hate to Ingroup Favouritism" start="false" stop="false"></Youtube>
+<Youtube yt="TOa-sPMDNGg" caption="Plasticity of Empathy and Prosocial Motivation: From Outgroup Hate to Ingroup Favouritism"></Youtube>

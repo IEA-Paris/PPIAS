@@ -47,4 +47,4 @@ yt: 5WVqSNDC46k
 
 ---
 
-<Youtube yt="5WVqSNDC46k" caption="Round-table Discussion" start="false" stop="false"></Youtube>
+<Youtube yt="5WVqSNDC46k" caption="Round-table Discussion"></Youtube>

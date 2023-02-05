@@ -33,4 +33,4 @@ yt: D4II6fAt_00
 In human decision making, many processes of different hierarchical levels are taken into account in order to produce a behaviour: Ethics and Social norms as  
 much as lower level physiological processes such as stress level, aggressiveness and physiological needs (thirst, hungriness, libido etc.). In a given context, The chosen behaviour results from competition mechanisms that involve cortical and sub cortical structures. What are the conditions that allow Syndrome E to emerge? Why, in certain context, individuals produce behaviour that are against they own original social belief and ethical values? In this talk, I will expose what insight a phylogenic approach of neuroscience can bring to us to answer these questions.
 
-<Youtube yt="D4II6fAt_00" caption="Syndrome E: Pathological Process or Inheritance of Evolution?" start="false" stop="false"></Youtube>
+<Youtube yt="D4II6fAt_00" caption="Syndrome E: Pathological Process or Inheritance of Evolution?"></Youtube>

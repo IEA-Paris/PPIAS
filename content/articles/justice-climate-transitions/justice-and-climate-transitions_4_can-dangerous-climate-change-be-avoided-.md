@@ -30,4 +30,4 @@ This paper discusses the nature of dangerous climate change, the problems of coo
 
 But there is no rival approach that seems likely to produce better results. Far from ideal, the pledge and review process is plausibly be the best one given the collective action problems. I also argue that limiting warming to 2ºC is unlikely. The risks of climate change are likely to be considerable; and the uncertainty of catastrophic events are worrying. So, I argue that uncertainty in light of several kinds of abrupt climate perturbations discussed in the AR5, the most recent report of the Intergovernmental Panel on Climate Change (IPCC), merits precautionary supplements to mitigation efforts. I close by endorsing the merits of research into carbon capture and storage and solar radiation management by means of sulfur injections into the stratosphere. If dangerous climate change is to be avoided, considerable supplementing of mitigation may be required.
 
-<Youtube yt="LfZRuJ_0irY" caption="Can Dangerous Climate Change be Avoided ?" start="false" stop="false"></Youtube>
+<Youtube yt="LfZRuJ_0irY" caption="Can Dangerous Climate Change be Avoided ?"></Youtube>

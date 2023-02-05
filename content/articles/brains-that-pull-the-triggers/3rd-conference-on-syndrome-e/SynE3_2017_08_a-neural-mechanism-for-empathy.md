@@ -40,4 +40,4 @@ In my talk, I will review first some data on the mirror mechanism of the monkey.
 
 I will posit that certain ideologies (e.g. Nazism) may inhibit it, thus transforming “the other” into a “thing”. In contrast, ethical precepts present in the Bible as well in the texts of others religions are fundamental to reinforce it.
 
-<Youtube yt="BeACjlCX_LM" caption="A Neural Mechanism for Empathy and the Role of Society in its Modifications" start="false" stop="false"></Youtube>
+<Youtube yt="BeACjlCX_LM" caption="A Neural Mechanism for Empathy and the Role of Society in its Modifications"></Youtube>

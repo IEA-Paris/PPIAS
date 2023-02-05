@@ -41,4 +41,4 @@ This gap is filled by avant-garde designers and their customers. As flexible min
 
 It is concluded that the psychology of minority influence provides a substantial contribution to the explanation of aesthetical change.
 
-<Youtube yt="P_e8xmyoCkk" caption="Minority Influence and Fashion. The Model of Style Transformation" start="false" stop="false"></Youtube>
+<Youtube yt="P_e8xmyoCkk" caption="Minority Influence and Fashion. The Model of Style Transformation"></Youtube>

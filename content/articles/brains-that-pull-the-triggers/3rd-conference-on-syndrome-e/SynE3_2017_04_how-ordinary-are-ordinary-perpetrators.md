@@ -55,4 +55,4 @@ From the literature it appears moreover, that genocidal perpetrators tend to hav
 
 After all, even mass murderers are persons, different persons, distinct like everyone else.
 
-<Youtube yt="82ha9xPE4Pc" caption="How Ordinary are ‘Ordinary Perpetrators’? Notes on the Genocidal Mentality" start="false" stop="false"></Youtube>
+<Youtube yt="82ha9xPE4Pc" caption="How Ordinary are ‘Ordinary Perpetrators’? Notes on the Genocidal Mentality"></Youtube>

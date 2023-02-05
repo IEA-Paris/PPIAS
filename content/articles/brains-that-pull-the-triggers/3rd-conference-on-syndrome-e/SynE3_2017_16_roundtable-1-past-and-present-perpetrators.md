@@ -59,4 +59,4 @@ yt: QuNdcGl-Vag
 
 ---
 
-<Youtube yt="QuNdcGl-Vag" caption="Roundtable 1 Past and Present Perpetrators Issues of Interpretation and Prevention" start="false" stop="false"></Youtube>
+<Youtube yt="QuNdcGl-Vag" caption="Roundtable 1 Past and Present Perpetrators Issues of Interpretation and Prevention"></Youtube>

@@ -37,4 +37,4 @@ In the frame of this question I will first briefly review some brain mechanisms 
 
 The studies concern the acquisition, between 5:7 and 12/15 years of age, up to adulthood, of the capacity to “change point of view”, a fundamental basis for tolerance and empathy. I will also propose that if at this age range a child is prevented from acquiring this by ideological or any other narrowing of his view on others, he or even she, may become a perpetrator for a durable amount of time.
 
-<Youtube yt="yAdP6ryaaGs" caption="Stereotyped Behaviour of Perpetrators: “Critical Period” during Pre-adolescence for Tolerance and Empathy?" start="false" stop="false"></Youtube>
+<Youtube yt="yAdP6ryaaGs" caption="Stereotyped Behaviour of Perpetrators: “Critical Period” during Pre-adolescence for Tolerance and Empathy?"></Youtube>

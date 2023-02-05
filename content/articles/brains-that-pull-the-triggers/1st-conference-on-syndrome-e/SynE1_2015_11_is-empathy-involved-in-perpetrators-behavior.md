@@ -30,4 +30,4 @@ yt: GB0jdlwYb7w
 
 ---
 
-<Youtube yt="GB0jdlwYb7w" caption="Is Empathy Involved in Perpetrators Behavior?" start="false" stop="false"></Youtube>
+<Youtube yt="GB0jdlwYb7w" caption="Is Empathy Involved in Perpetrators Behavior?"></Youtube>

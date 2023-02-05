@@ -23,4 +23,4 @@ yt: hpO9yhebypI
 language: English
 
 ---
-<Youtube yt="hpO9yhebypI" caption="Neuronal Lapses During Sleep Deprivation" start="false" stop="false"></Youtube>
+<Youtube yt="hpO9yhebypI" caption="Neuronal Lapses During Sleep Deprivation"></Youtube>

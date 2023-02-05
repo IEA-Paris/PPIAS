@@ -26,4 +26,4 @@ yt: jimTiHIY6PQ
 
 ---
 
-<Youtube yt="jimTiHIY6PQ" caption="Clôture de la première journée" start="false" stop="false"></Youtube>
+<Youtube yt="jimTiHIY6PQ" caption="Clôture de la première journée"></Youtube>

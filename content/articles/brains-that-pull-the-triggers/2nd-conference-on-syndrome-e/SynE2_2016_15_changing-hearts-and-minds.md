@@ -39,4 +39,4 @@ This knowledge can be consciously brought to mind. Information stored in this ma
 
 Reactivation of memories during sleep is now thought to be a key part of effective learning. Through reactivation and association, a progressive process of consolidation entails various adjustments in memory storage. Armed with this knowledge of memory storage in the brain, how can we conceptualize learning in ways that are incompatible with violence? Although this question must be addressed through a wide range of perspectives, memory research can offer some useful insights. The principals of memory storage apply to learning about social groups and regulate the extent to which our actions reflect tribalism and selfish forces. Social categorization and implicit social biases are prevalent but can be countered through learning by cultivating a natural and pervasive sense of compassion.
 
-<Youtube yt="4sURCobeP6g" caption="Changing Hearts and Minds - A Perspective from Memory Research" start="false" stop="false"></Youtube>
+<Youtube yt="4sURCobeP6g" caption="Changing Hearts and Minds - A Perspective from Memory Research"></Youtube>

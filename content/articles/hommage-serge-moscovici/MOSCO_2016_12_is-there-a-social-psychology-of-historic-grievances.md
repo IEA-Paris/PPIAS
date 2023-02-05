@@ -39,7 +39,7 @@ yt: 9vlVtClNJ-U
 
 How does social psychology contribute to the understanding of intergroup conflict in the age of ‘radicalisation’? How does it address current intergroup interactions in the context of historical grievances? A social psychological examination of such questions addresses at least three aspects: Why should history matter to the social psychology of intergroup relations? Is there a historically contextualized social psychology of intergroup conflict and its termination? How does social psychology address dynamic intergroup relations? Finally, we ask: What are the implications for our explanatory frameworks of the interplay between social representations of history, collective memories, social identities, and present-day intergroup relations?
 
-<Youtube yt="9vlVtClNJ-U" caption="Is There a Social Psychology of Historic Grievances and Intergroup Conflict in the Age of 'Radicalisation'?" start="false" stop="false"></Youtube>
+<Youtube yt="9vlVtClNJ-U" caption="Is There a Social Psychology of Historic Grievances and Intergroup Conflict in the Age of Radicalisation"></Youtube>
 
 ## Bibliography
 

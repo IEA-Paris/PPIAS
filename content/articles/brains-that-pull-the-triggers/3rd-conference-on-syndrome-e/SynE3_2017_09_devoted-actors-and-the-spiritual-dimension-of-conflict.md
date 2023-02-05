@@ -42,4 +42,4 @@ Field-based observation, surveys and experimental studies in real-world politica
 
 Explaining how devoted actors come to sacrifice for cause and comrade not only is a scientific goal, but also a practical imperative to prevent and resolve seemingly intractable intergroup disputes that can spiral out of control in a rapidly interconnecting world of collapsing and conflicting cultural traditions in search of salvation and escape from the dark side of globalization. To help make the case we present field studies with combatants on the frontlines in the battle with the Islamic State in Iraq and with radicalized populations in Morocco, and brain imaging of supporters of Lashkar-e-Taiba, an Al Qaeda affiliate, among Pakistani immigrants in Spain.
 
-<Youtube yt="cjI1JJznVS4" caption="Devoted Actors and the Spiritual Dimension of Conflict on the ISIS Frontline and Elsewhere" start="false" stop="false"></Youtube>
+<Youtube yt="cjI1JJznVS4" caption="Devoted Actors and the Spiritual Dimension of Conflict on the ISIS Frontline and Elsewhere"></Youtube>

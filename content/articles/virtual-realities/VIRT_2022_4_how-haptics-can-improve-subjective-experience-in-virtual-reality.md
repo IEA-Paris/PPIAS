@@ -30,4 +30,4 @@ yt: JX4OJ-ucK3k
 
 ---
 
-<Youtube yt="JX4OJ-ucK3k" caption="How Haptics can Improve Subjective Experience in Virtual Reality" start="false" stop="false"></Youtube>
+<Youtube yt="JX4OJ-ucK3k" caption="How Haptics can Improve Subjective Experience in Virtual Reality"></Youtube>

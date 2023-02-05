@@ -28,4 +28,4 @@ yt: UxYREPJHbqQ
 
 ---
 
-<Youtube yt="UxYREPJHbqQ" caption="Symbolic Boundaries and Collective Violence. Boundary Activation as a Key Mechanism of Collective Violent Behaviour" start="false" stop="false"></Youtube>
+<Youtube yt="UxYREPJHbqQ" caption="Symbolic Boundaries and Collective Violence. Boundary Activation as a Key Mechanism of Collective Violent Behaviour"></Youtube>

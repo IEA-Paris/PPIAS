@@ -58,4 +58,4 @@ Contexts and Conditions of Outgroup Influence
 
 Serge Moscovici’s research on innovation and his call to change the social psychological conception of social influence demonstrated many of the principles his work and his successors’ work outlined. Insisting that influence is not done to individuals, but that individuals and collectives enact influence through shared meaning and relations, opened the possibility of discovering the conditions of social change. Both majority reference groups and importantly, even those we least expect – minorities and members of other groups are often the driving forces behind social change and innovation.
 
-<Youtube yt="xEjhMEhDIAg" caption="Contexts and Conditions of Outgroup Influence" start="false" stop="false"></Youtube>
+<Youtube yt="xEjhMEhDIAg" caption="Contexts and Conditions of Outgroup Influence"></Youtube>

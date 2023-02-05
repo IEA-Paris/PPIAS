@@ -36,4 +36,4 @@ yt: x83_wi2i5GU
 
 ---
 
-<Youtube yt="x83_wi2i5GU" caption="The Art of Acting Somewhere Else" start="false" stop="false"></Youtube>
+<Youtube yt="x83_wi2i5GU" caption="The Art of Acting Somewhere Else"></Youtube>

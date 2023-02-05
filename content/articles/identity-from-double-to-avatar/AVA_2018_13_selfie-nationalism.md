@@ -33,4 +33,4 @@ yt: H2E98Ncoff8
 
 ---
 
-<Youtube yt="H2E98Ncoff8" caption="Selfie Nationalism" start="false" stop="false"></Youtube>
+<Youtube yt="H2E98Ncoff8" caption="Selfie Nationalism"></Youtube>

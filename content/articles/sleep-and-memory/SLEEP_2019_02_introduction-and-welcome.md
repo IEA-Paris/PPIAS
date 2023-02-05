@@ -24,4 +24,4 @@ yt: R4FBX3zp8t0
 
 ---
 
-<Youtube yt="R4FBX3zp8t0" caption="Introduction and Welcome" start="false" stop="false"></Youtube>
+<Youtube yt="R4FBX3zp8t0" caption="Introduction and Welcome"></Youtube>

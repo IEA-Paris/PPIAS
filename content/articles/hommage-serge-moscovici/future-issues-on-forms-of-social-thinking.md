@@ -23,4 +23,4 @@ yt: jDgbGfYzXJ8
 
 ---
 
-<Youtube yt="jDgbGfYzXJ8" caption="Future issues: On forms of social thinking" start="false" stop="false"></Youtube>
+<Youtube yt="jDgbGfYzXJ8" caption="Future issues On forms of social thinking"></Youtube>

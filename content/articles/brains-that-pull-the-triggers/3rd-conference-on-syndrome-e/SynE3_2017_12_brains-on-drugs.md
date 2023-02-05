@@ -34,4 +34,4 @@ yt: gciCTabK0_E
 
 ---
 
-<Youtube yt="gciCTabK0_E" caption="Brains on Drugs: Lessons from the Third Reich" start="false" stop="false"></Youtube>
+<Youtube yt="gciCTabK0_E" caption="Brains on Drugs: Lessons from the Third Reich"></Youtube>

@@ -44,4 +44,4 @@ yt: 03nbOE0Sf2s
 
 ---
 
-<Youtube yt="03nbOE0Sf2s" caption="De nouveaux indicateurs de richesse au service de la résilience de la société" start="false" stop="false"></Youtube>
+<Youtube yt="03nbOE0Sf2s" caption="De nouveaux indicateurs de richesse au service de la résilience de la société"></Youtube>

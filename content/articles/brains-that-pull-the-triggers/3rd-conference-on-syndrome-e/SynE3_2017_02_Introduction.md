@@ -42,4 +42,4 @@ The central questions before the conference are:
 
 2\. How amenable are the “Brains that Pull the Triggers” to modulation? Are there means of intervention or prevention?
 
-<Youtube yt="gXYBdKRZaYk" caption="The Brains that Pull the Triggers: Syndrome E, 2017" start="false" stop="false"></Youtube>
+<Youtube yt="gXYBdKRZaYk" caption="The Brains that Pull the Triggers: Syndrome E, 2017"></Youtube>

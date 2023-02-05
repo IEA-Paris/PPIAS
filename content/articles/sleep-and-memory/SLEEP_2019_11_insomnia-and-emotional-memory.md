@@ -40,4 +40,4 @@ However, in insomnia and related mental disorders, abundant EEG arousals during 
   
 People with insomnia have developed a brain optimally wired to stay alert, at the cost of suffering bad sleep.
 
-<Youtube yt="wQOwuMsEq0o" caption="Insomnia and Emotional Memory" start="false" stop="false"></Youtube>
+<Youtube yt="wQOwuMsEq0o" caption="Insomnia and Emotional Memory"></Youtube>

@@ -23,4 +23,4 @@ yt: wKTtCsK9DEA
 
 ---
 
-<Youtube yt="wKTtCsK9DEA" caption="Future issues: Methods and themes" start="false" stop="false"></Youtube>
+<Youtube yt="wKTtCsK9DEA" caption="Future issues Methods and themes"></Youtube>

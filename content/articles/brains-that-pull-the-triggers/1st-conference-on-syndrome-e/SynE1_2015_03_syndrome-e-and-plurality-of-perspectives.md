@@ -25,4 +25,4 @@ yt: 0gJyCXSt7hs
 
 ---
 
-<Youtube yt="0gJyCXSt7hs" caption="Syndrome E and Plurality of Perspectives" start="false" stop="false"></Youtube>
+<Youtube yt="0gJyCXSt7hs" caption="Syndrome E and Plurality of Perspectives"></Youtube>

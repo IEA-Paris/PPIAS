@@ -48,4 +48,4 @@ Turning to the second dimension, status predicts stereotypical competence, which
 
 Theory, cross-national data, and neural data combine to suggest that dehumanization and frustration are risk factors for violence.
 
-<Youtube yt="c9xH7OXiv6s" caption="How Ordinary People Become Violent: Frustration and Dehumanization" start="false" stop="false"></Youtube>
+<Youtube yt="c9xH7OXiv6s" caption="How Ordinary People Become Violent: Frustration and Dehumanization"></Youtube>

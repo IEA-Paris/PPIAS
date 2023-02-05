@@ -23,4 +23,4 @@ yt: SAT3Els5kz4&t
 
 ---
 
-<Youtube yt="SAT3Els5kz4&t" caption="Future issues. Applications of Social representations to education and health" start="false" stop="false"></Youtube>
+<Youtube yt="SAT3Els5kz4&t" caption="Future issues Applications of Social representations to education and health"></Youtube>

@@ -52,7 +52,7 @@ keywords:
 ---
 In this paper, we would like to revisit and problematize the formation processes of social representations – and underline the importance of analysing naturalized social representations. In SRT, representation formation has been treated as something that happens primarily in the beginning, and researchers have been encouraged to study processes of social representations as they are emerging for the first time. Treating representation in this manner gives the impression that representations are conceptualised as having a clear and definite beginning, marked by their anchoring into old and familiar structures. We argue that representations are still important in their naturalised state although the formative processes take different forms. The process of naturalisation describes representation as a tool to categorise on a more general level. They continue to process and to be processed, continue to categorise and be categorised; and they also continue to negotiate, be negotiated, transform, and be transformed. As they become less what is talked about and more what is used to enable everyday discourse, they are still transforming. The re-conceptualisation of formation processes is necessary for the SRT to be better equipped to provide a dynamic approach for such phenomena as ‘social representations of history’ and ‘collective memory’ – the field that has become one of the most vibrant areas of research in SRT in the recent years.
 
-<Youtube yt="4d9QHfDAnEA" caption="The formation processes re-visited the importance of naturalized representations" start="false" stop="false"></Youtube>
+<Youtube yt="4d9QHfDAnEA" caption="The formation processes re-visited the importance of naturalized representations"></Youtube>
 
 ## Bibliography
 
