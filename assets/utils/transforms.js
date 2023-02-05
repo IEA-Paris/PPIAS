@@ -88,9 +88,9 @@ export const formatAuthors = (
       const instutionElmt = institutionsIds
         .map((instutionId) => {
           if (linkInsitution) {
-            return `<a style="text-decoration: none;" href="#institution-${instutionId}"><sup>${instutionId}</sup></a>`
+            return `<a style="text-decoration: none;" href="#institution-${instutionId}"><sup>${instutionId}&nbsp;</sup></a>`
           }
-          return `<sup>${instutionId}</sup>`
+          return `<sup>${instutionId}</sup>&nbsp;`
         })
         .join('')
       return `<a href="${url}/author/${slug}" style="text-decoration: none; color: inherit;">${name}<span style="margin-left: 3px">${instutionElmt}</span></a>`

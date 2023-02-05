@@ -64,7 +64,7 @@
                     small
                     text
                     nuxt
-                    @click="seeAll('articles')"
+                    @click="seeAll('articles-page')"
                   >
                     {{
                       $t('see-all-results-articlescount', [
@@ -96,7 +96,7 @@
                     v-if="results.mediaCount > 3"
                     small
                     text
-                    @click="seeAll('media')"
+                    @click="seeAll('media-page')"
                   >
                     {{
                       $t('see-all-results-articlescount', [results.mediaCount])
@@ -127,7 +127,7 @@
                     small
                     text
                     nuxt
-                    @click="seeAll('authors')"
+                    @click="seeAll('authors-page')"
                   >
                     {{
                       $t('see-all-results-articlescount', [
@@ -220,6 +220,7 @@ export default {
   },
   methods: {
     seeAll(name) {
+      console.log('name: ', name)
       this.open = false
       this.$router.push(
         this.localePath({

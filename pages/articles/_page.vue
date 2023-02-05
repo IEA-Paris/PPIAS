@@ -24,7 +24,9 @@ export default {
     }
   },
   computed: {},
-  async mounted() {},
+  mounted() {
+    console.log(this.$route.name)
+  },
   created() {},
   methods: {},
 }
