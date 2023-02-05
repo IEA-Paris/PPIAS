@@ -17,10 +17,10 @@
       <v-col cols="12" class="mt-6">
         <div class="d-flex">
           <div class="issue-label">
-            {{ issue }}
+            {{ issue.text }}
           </div>
           <v-spacer></v-spacer>
-          <v-btn text :to="localePath('/issue/' + issue)">
+          <v-btn text :to="localePath('/issue/' + issue.value)">
             {{ $t('see-the-complete-issue') }}
           </v-btn>
         </div>
@@ -93,8 +93,13 @@ export default {
       this.$store.commit('setScrolled')
     },
     getItemsPerIssue(issue) {
+      console.log('issue: ', issue.value)
+      console.log(
+        'issues',
+        this.data.items.map((item) => item.issue.slice(15, -3))
+      )
       return this.data.items.filter(
-        (item) => item.issue.slice(15, -3) === issue
+        (item) => item.issue.slice(15, -3) === issue.value
       )
     },
   },

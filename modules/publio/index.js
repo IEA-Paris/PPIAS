@@ -83,7 +83,8 @@ export default function (moduleOptions) {
       })
     })
   })
-  nuxt.hook('generate:done', async ({ name }) => {
+  nuxt.hook('generate:done', async ({ name }, errors) => {
+    console.log('errors: ', errors.toString())
     if (!once) return
     console.log('"GENERATE:DONE"')
     once = false

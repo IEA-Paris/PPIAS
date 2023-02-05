@@ -151,9 +151,7 @@
           :data="{
             items,
             total,
-            issues: new Set(
-              items.map((item) => item.issue && item.issue.slice(15, -3))
-            ),
+            issues,
           }"
           :filter="filter"
           :type="type"
@@ -266,6 +264,8 @@
   </div>
 </template>
 <script>
+import rawFilters from '~/static/generated/filters'
+
 import debounce from '~/assets/utils/debounce'
 export default {
   props: {
@@ -315,6 +315,11 @@ export default {
     await dispatch('update', this.type)
   },
   computed: {
+    issues() {
+      return rawFilters.articles.filters.issue.items.filter((issue) =>
+        this.items.find((item) => item.issue.slice(15, -3) === issue.value)
+      )
+    },
     filtersSpacing() {
       const scrolled = this.$store.state.scrolled
       switch (this.$vuetify.breakpoint.name) {

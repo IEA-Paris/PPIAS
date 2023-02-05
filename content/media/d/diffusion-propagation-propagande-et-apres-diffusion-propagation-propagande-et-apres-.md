@@ -1,5 +1,5 @@
 ---
-article_slug: diffusion-propagation-propagande-et-apres-
+article_slug: diffusion-propagation-propagande-et-apres
 caption: 'Diffusion, propagation, propagande : et après ?'
 date: 2016-11-18T04:00:00.000Z
 highlight: false

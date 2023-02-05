@@ -287,9 +287,9 @@ export const actions = {
       rootState[type].view === 'issues'
         ? [
             'issueIndex',
-            rootState[type].sortDesc ? 'asc' : 'desc',
+            rootState[type].sortDesc ? 'desc' : 'asc',
             'date',
-            rootState[type].sortDesc ? 'asc' : 'desc',
+            rootState[type].sortDesc ? 'desc' : 'asc',
           ]
         : [rootState[type].sortBy[0], rootState[type].sortDesc ? 'desc' : 'asc']
 
