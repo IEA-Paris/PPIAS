@@ -95,9 +95,6 @@ dist/
 # Yarn
 .yarn/
 
-#Npm
-yarn.lock
-
 #Terraform
 .terraform/
 .terragrunt-cache/
