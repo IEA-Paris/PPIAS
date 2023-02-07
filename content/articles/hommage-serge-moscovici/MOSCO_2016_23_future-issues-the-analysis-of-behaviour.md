@@ -23,6 +23,6 @@ yt: G9TYnHpC3PA
 language: English
 
 ---
-Future directions for a societal psychology - Public session
+## Future directions for a societal psychology - Public session
 
 <Youtube yt="G9TYnHpC3PA" caption="Future issues. The analysis of behaviour"></Youtube>
