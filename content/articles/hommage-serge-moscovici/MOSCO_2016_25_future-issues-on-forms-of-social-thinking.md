@@ -28,6 +28,6 @@ yt: jDgbGfYzXJ8
 language: English
 
 ---
-Future directions for a societal psychology - Public session
+## Future directions for a societal psychology - Public session
 
 <Youtube yt="jDgbGfYzXJ8" caption="Future issues On forms of social thinking"></Youtube>

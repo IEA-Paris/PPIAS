@@ -28,6 +28,6 @@ yt: wKTtCsK9DEA
 language: English
 
 ---
-Future directions for a societal psychology - Public session
+## Future directions for a societal psychology - Public session
 
 <Youtube yt="wKTtCsK9DEA" caption="Future issues Methods and themes"></Youtube>
