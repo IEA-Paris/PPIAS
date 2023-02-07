@@ -10,7 +10,7 @@ date: 2016-11-17T00:00:00.000+00:00
 highlight: false
 issue: content/issues/hommage-serge-moscovici.md
 needDOI: false
-published: false
+published: true
 start: false
 stop: false
 subissue: false
@@ -26,9 +26,9 @@ language: English
 
 **Juan Perez** (University of Valencia) and **Saadi Lahlou** (London School of Economics): Presentation
 
-          **Juan Perez** (University of Valencia) and **Saadi Lahlou** (London School of Economics): Presentation9:45      Stamos Papastamou (Panteion University of Social and Political Sciences)10:05     Stamos Papastamou (Panteion University of Social and Political Sciences): The discrete charm of the genetic model of influence and its indirect impact on epistemic level10:25     Carlo Michael Sommer (Darmstadt University of Applied Sci10:45      Chair Bernard Personnaz (Centre Edgar Morin IIAC EHESS-CNRS): Discussion
+**9:45    Charlan Nemeth** (University of California): The legacy of Serge Moscovici
 
-**9:45       Charlan Nemeth** (University of California): The legacy of Serge Moscovici
+          **Juan Perez** (University of Valencia) and **Saadi Lahlou** (London School of Economics): Presentation9:45      Stamos Papastamou (Panteion University of Social and Political Sciences)10:05     Stamos Papastamou (Panteion University of Social and Political Sciences): The discrete charm of the genetic model of influence and its indirect impact on epistemic level10:25     Carlo Michael Sommer (Darmstadt University of Applied Sci10:45      Chair Bernard Personnaz (Centre Edgar Morin IIAC EHESS-CNRS): Discussion9:45       Charlan Nemeth (University of California): The legacy of Serge Moscovici
 
 **10:05      Stamos Papastamou** (Panteion University of Social and Political Sciences): The discrete charm of the genetic model of influence and its indirect impact on epistemic level
 
