@@ -25,7 +25,7 @@ start: false
 stop: false
 subissue: false
 yt: LFQ8IQlG0BM
-language: English
+language: French
 keywords:
 - modes de communications
 - métasystèmes
