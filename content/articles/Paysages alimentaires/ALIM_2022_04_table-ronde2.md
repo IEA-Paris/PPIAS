@@ -5,7 +5,7 @@ keywords: []
 date: 2022-06-20T02:00:42Z
 language: French
 disciplines: ''
-published: false
+published: true
 doi: ''
 article_title: Collaborations, Engagements et Micro-Politiques
 authors:

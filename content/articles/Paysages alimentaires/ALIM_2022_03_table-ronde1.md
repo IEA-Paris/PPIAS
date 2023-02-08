@@ -5,7 +5,7 @@ keywords: []
 date: 2022-06-20T01:00:29Z
 language: French
 disciplines: ''
-published: false
+published: true
 doi: ''
 article_title: 'Alimentations et Rapports au Vivant: Spontanéité, Instabilité, Temporisations,
   Domestications'

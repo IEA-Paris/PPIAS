@@ -5,7 +5,7 @@ keywords: []
 date: 2022-06-19T23:00:00Z
 language: French
 disciplines: ''
-published: false
+published: true
 doi: ''
 article_title: 'Paysages alimentaires conviviaux : pour aller au-delà de la durabilité
   alimentaire - Programme'
