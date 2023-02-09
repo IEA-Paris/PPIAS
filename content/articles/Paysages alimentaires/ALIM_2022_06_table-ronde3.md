@@ -5,7 +5,7 @@ keywords: []
 date: 2022-06-20T23:00:43Z
 language: French
 disciplines: ''
-published: false
+published: true
 doi: ''
 article_title: 'Commensalités : Récits d’Interdépendances et Subsistance'
 authors:
@@ -111,3 +111,5 @@ bibliography: ''
 
 ---
 On entendra la commensalité dans un sens large, constituée par des interactions nourricières réciproques entre êtres vivants – et comme une précondition pour la convivialité. Cette approche nous permettra d’établir des liens plus nuancés, intimes et durables avec la nourriture, et de mettre en question les rapports « marchandisés » à l’alimentation.
+
+<Youtube yt="XFR55U11i4M" caption ="Commensalités : récits d’interdépendances et subsistance"></Youtube>
