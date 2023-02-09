@@ -53,11 +53,11 @@ abstract: 'Paysages alimentaires conviviaux : pour aller au-delà de la durabili
 sub-issue: ''
 picture: ''
 picture_copyright: ''
-yt: Asb0M1vYRio&t
+yt: Asb0M1vYRio&t=1s
 highlight: false
 bibliography: ''
 
 ---
 Forum intersectoriel organisé par Raúl Matta (IEA de Paris, Université de Göttingen) et Charles-Édouard de Suremain (PALOC, IRD/MNHN) avec le soutien de l'IEA de Paris.
 
-<Youtube yt="Asb0M1vYRio&t" caption ="Mots de bienvenue et introduction"></Youtube>
+<Youtube yt="Asb0M1vYRio&t=1s" caption ="Mots de bienvenue et introduction"></Youtube>
