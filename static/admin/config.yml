@@ -1,0 +1,45 @@
+local_backend:
+  # when using a custom proxy server port
+  url: http://192.168.0.37:3000/api/v1
+  # when accessing the local site from
+backend:
+  name: github
+  branch: main
+  repo: IEA-Paris/seed
+  base_url: http://localhost:3000/
+  auth_endpoint: '/dev/auth'
+logo_url: "<%= ENV['url'] %><%= ENV['logo'] %>"
+locale: fr
+# local_backend: true
+# local_backend:
+#   url: http://localhost:8081/api/v1
+i18n:
+  # Required and can be one of multiple_folders, multiple_files or single_file
+  # multiple_folders - persists files in `<folder>/<locale>/<slug>.<extension>`
+  # multiple_files - persists files in `<folder>/<slug>.<locale>.<extension>`
+  # single_file - persists a single file in `<folder>/<slug>.<extension>`
+  structure: multiple_folders
+  # Required - a list of locales to show in the editor UI
+  locales: [en, fr]
+
+  # Optional, defaults to the first item in locales.
+  # The locale to be used for fields validation and as a baseline for the entry.
+  default_locale: en
+publish_mode: editorial_workflow
+media_folder: "public"
+site_domain: cms.netlify.com
+collections:
+  - name: "pages" # Used in routes, e.g., /admin/collections/blog
+    label: "pages" # Used in the UI
+    folder: "content/pages" # The path to the folder where the documents are stored
+    i18n: true
+    locales: [en, fr]
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Title", name: "title", widget: "string", i18n: true}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown", i18n: true}
