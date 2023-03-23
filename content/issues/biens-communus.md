@@ -4,7 +4,7 @@ name_of_the_issue: 'Bien(s) commun(s) : voies d''espoir face aux défis du sièc
 subtitle: ''
 cover: "/rs_cycle-bc.jpg"
 sub-issues: []
-title: Biens communus
+title: Biens communs
 
 ---
 Depuis l’attribution en 2009 du Prix Nobel à Elinor Olstrom, et sa critique de la théorie de la tragédie des communs, le concept de biens communs apparait comme une voie prometteuse, renouvelant le rapport entre privé et public, dans notre époque de transitions entre des modèles qui s’essoufflent et d’autres qui peinent à émerger.
