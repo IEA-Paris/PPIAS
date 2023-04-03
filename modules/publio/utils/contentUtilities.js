@@ -10,6 +10,7 @@ import referenceRegex from './referenceRegex'
 /* import { Repository, Tree, Diff } from 'nodegit' */
 import slugify from './slugify'
 import { formatAuthors } from './transforms'
+export const _conflicts = []
 const fieldsToDelete = [
   'slug',
   'body',
@@ -34,6 +35,18 @@ function processFrontmatter(md, options) {
   })
 
   return matter.stringify(matter(md))
+}
+
+export const storeReport = () => {
+  return fs.writeFileSync(
+    './static/generated/report.md',
+    `---
+${yaml.dump(
+  { createdAt: new Date.toLocaleString(), conflicts: _conflicts },
+  { noRefs: true, sortKeys: true }
+)}
+---`
+  )
 }
 /* export const printWikipediaDisciplines = () => {
   const result = disciplines
@@ -152,9 +165,88 @@ async function print() {
   })
 
   return diff
-}
+} */
+export const filterAndMerge = (first, second) => {
+  first = first.filter((author) => {
+    // does it have a reference? (a reference is the path of the author document.
+    // If present, it means that the doc in "first", author data extracted from an article,
+    // explicitely referenced an author document to distinguish from potential homonyms)
+    if (author.reference && author.reference.length) {
+      // is it matching an existing doc?
+      const referencedDocIndex = second.findIndex(
+        (doc) =>
+          doc.path ===
+          author.reference.split('/').slice(1).join('/').split('.')[0]
+      )
+      if (referencedDocIndex > -1) {
+        // if so we merge them and remove the related articleAuthor
+        second[referencedDocIndex] = mergeDeep(
+          second[referencedDocIndex],
+          author
+        )
+        return false
+      }
+    }
+    return true
+  })
 
-print().catch((err) => console.error(err)) */
+  first = first.filter((author) => {
+    if (!author.social_channels)
+      if (author?.social_channels?.orcid) {
+        // does it have an orcid?
+        // is it matching an existing doc?
+        const referencedDocIndex = second.findIndex(
+          (doc) => author.social_channels.orcid === doc.social_channels.orcid
+        )
+        if (referencedDocIndex > -1) {
+          // if so we merge them and remove the related articleAuthor
+          second[referencedDocIndex] = mergeDeep(
+            second[referencedDocIndex],
+            author
+          )
+          return false
+        }
+      }
+    return true
+  })
+
+  first = first.filter((author) => {
+    // does it have the same firstname/lastname than a doc author?
+    const referencedDocIndex = second.findIndex((doc) => {
+      if (doc.is_institution && author.is_institution) {
+        return (
+          author.lastname &&
+          doc.lastname &&
+          author?.lastname.trim().toLowerCase() ===
+            doc?.lastname.trim().toLowerCase()
+        )
+      } else {
+        return (
+          !doc.is_institution &&
+          !author.is_institution &&
+          author?.firstname &&
+          doc?.firstname &&
+          author?.firstname.trim().toLowerCase() ===
+            doc?.firstname.trim().toLowerCase() &&
+          author.lastname &&
+          doc?.lastname &&
+          author?.lastname.trim().toLowerCase() ===
+            doc?.lastname.trim().toLowerCase()
+        )
+      }
+    })
+
+    // if so we merge them and remove the related articleAuthor
+    if (referencedDocIndex > -1) {
+      second[referencedDocIndex] = mergeDeep(second[referencedDocIndex], author)
+      return false
+    }
+    return true
+  })
+  // remove the authors document that match no article
+  /* second = second.filter((author) => !author.reference) */
+  return { first, second }
+}
 /**
  * Performs a deep merge of objects and returns new object. Does not modify
  * objects (immutable) and merges arrays via concatenation.
@@ -164,7 +256,7 @@ print().catch((err) => console.error(err)) */
  */
 export const mergeDeep = (...objects) => {
   const isObject = (obj) => obj && typeof obj === 'object'
-
+  if (!process.env.conflicts) process.env.conflicts = []
   return objects.reduce((prev, obj) => {
     Object.keys(obj).forEach((key) => {
       const pVal = prev[key]
@@ -210,6 +302,12 @@ export const mergeDeep = (...objects) => {
           prev[key] = pVal.trim() // just to cleanup the existing string from spaces
           // TODO write conflicts in a file somewhere to use it in CMS
           console.log(`CONFLICTED INFO: ${prev[key]} VS ${oVal} in ${key}`)
+          _conflicts.push({
+            key,
+            prev: prev[key],
+            next: oVal,
+            ...obj,
+          })
         } else if (typeof prev[key] === 'string') prev[key] = prev[key].trim()
 
         // TODO handle cases where we wanna add the different values instead of replacing

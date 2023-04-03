@@ -166,22 +166,5 @@ export default async (content, options) => {
         }),
     }
   })
-  // Make a csv formated export to copy paste//UTILS
-  /*   let csvString = 'firstname; lastname; articles... \n'
-  authorsDocs.map((author) => {
-    csvString =
-      csvString +
-      `${author.firstname};${author.lastname}; ${
-        author.articles
-          ? author.articles.map((article) => article + ';\n;;')
-          : ';\n'
-      }\n`
-    return true
-  }) 
-  console.log(csvString)
-  */
-  insertDocuments(authorsDocs, 'authors', ['lastname', 'firstname'])
-  console.log(`${chalk.green('✔')}  Inserted new author documents`)
-
-  return options
+  return filterAndMerge(authorsDocs, articleAuthors).first.flat()
 }

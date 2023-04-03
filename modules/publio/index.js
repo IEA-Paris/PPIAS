@@ -7,6 +7,7 @@ import diagnoseArticles from './lib/diagnoseArticles'
 import {
   insertDocuments,
   updateArticlesDoiAndZid,
+  storeReport,
 } from './utils/contentUtilities'
 
 // Article formating
@@ -26,6 +27,7 @@ import insertIssueData from './lib/article/insertIssueData'
 import insertAuthorData from './lib/article/insertAuthorData'
 
 // Assets generation
+import mergeAndInsertAuthorsDocuments from './lib/mergeAndInsertAuthorsDocuments'
 import extractAndMergeAuthors from './lib/extractAndMergeAuthors'
 import generateFiles from './lib/article/files'
 import generatePDF from './lib/article/files/generatePDF'
@@ -86,6 +88,7 @@ export default function (moduleOptions) {
   nuxt.hook('generate:done', async ({ name }, errors) => {
     console.log('errors: ', errors.toString())
     if (!once) return
+    storeReport()
     console.log('"GENERATE:DONE"')
     once = false
     url = 'http://127.0.0.1:3000'
@@ -134,9 +137,9 @@ export default function (moduleOptions) {
 
   nuxt.hook('content:ready', async (content) => {
     console.log('"CONTENT:READY" HOOK')
-
     articles = await diagnoseArticles(articles, url)
-
+    authors = await mergeAndInsertAuthorsDocuments(authors, content)
+    console.log('conflict list: ', process.env.conflicts)
     issues = await content('issues', { deep: true })
       .sortBy('date', 'desc')
       // .only(['slug']) //TODO complete with only required fields
