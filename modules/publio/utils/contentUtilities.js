@@ -167,6 +167,8 @@ async function print() {
   return diff
 } */
 export const filterAndMerge = (first, second) => {
+  console.log('second: ', second)
+  console.log('first: ', first)
   first = first.filter((author) => {
     // does it have a reference? (a reference is the path of the author document.
     // If present, it means that the doc in "first", author data extracted from an article,

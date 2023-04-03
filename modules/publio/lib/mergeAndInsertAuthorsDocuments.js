@@ -2,7 +2,7 @@ import fs from 'fs'
 import parseMD from 'parse-md'
 import { filterAndMerge, insertDocuments } from '../utils/contentUtilities'
 
-export default async (authors, content) => {
+export default async (authors = [], content) => {
   const chalk = require('chalk')
   let authorsDocuments = await content('authors', { deep: true })
     // .only(['slug']) //TODO complete with only required fields
