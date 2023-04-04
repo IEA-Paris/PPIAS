@@ -45,6 +45,24 @@ authors:
   is_institution: false
   picture: ''
   picture_copyright: ''
+- firstname: 'Christian '
+  lastname: Huglo
+  positions_and_institutions:
+  - positions: []
+    institution: Barreau de Paris, France
+  social_channels:
+    linkedin: https://fr.linkedin.com/in/christian-huglo-9b4909a3
+    twitter: "@ChristianHuglo"
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  is_institution: false
+  picture: ''
+  picture_copyright: ''
 - firstname: 'Thomas '
   lastname: Perroud
   positions_and_institutions:
@@ -82,7 +100,7 @@ authors:
     researchgate: ''
     mendeley: ''
 custom_pdf: ''
-abstract: 'Le Bien Commun, clé juridique du monde qui vient ?: rencontre du cycle
+abstract: 'Le Bien Commun, clé juridique du monde qui vient ?: 2ème rencontre du cycle
   "Bien(s) commun(s) : voies d''espoir face aux défis du siècle" organisée par Bettina
   Laville présidente de l''IEA de Paris'
 sub-issue: ''
