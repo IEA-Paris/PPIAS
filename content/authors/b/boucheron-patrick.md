@@ -2,7 +2,6 @@
 active: true
 articles:
   - 4. Histoire des pandemies
-createdAt: '2022-10-11T08:02:22.081Z'
 exerpt: ''
 firstname: Patrick
 is_institution: false
@@ -26,7 +25,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Patrick_Boucheron
-
 years:
   - 2021
 

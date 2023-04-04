@@ -2,7 +2,6 @@
 active: true
 articles:
   - 1.2.2_Stern
-createdAt: '2022-09-21T08:08:29.816Z'
 exerpt: ''
 firstname: Niels
 issue:

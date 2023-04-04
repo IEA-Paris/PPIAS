@@ -28,7 +28,6 @@ import insertAuthorData from './lib/article/insertAuthorData'
 
 // Assets generation
 import mergeAndInsertAuthorsDocuments from './lib/mergeAndInsertAuthorsDocuments'
-import extractAndMergeAuthors from './lib/extractAndMergeAuthors'
 import generateFiles from './lib/article/files'
 import generatePDF from './lib/article/files/generatePDF'
 import generateThumbnails from './lib/article/files/generateThumbnails'
@@ -137,8 +136,9 @@ export default function (moduleOptions) {
 
   nuxt.hook('content:ready', async (content) => {
     console.log('"CONTENT:READY" HOOK')
+    if (!once) return
     articles = await diagnoseArticles(articles, url)
-    authors = await mergeAndInsertAuthorsDocuments(authors, content)
+    authors = await mergeAndInsertAuthorsDocuments(authors, articles, content)
     console.log('conflict list: ', process.env.conflicts)
     issues = await content('issues', { deep: true })
       .sortBy('date', 'desc')
@@ -202,6 +202,12 @@ export default function (moduleOptions) {
           insertBodyStructureIndex,
         ]
       )
+      authors = [
+        ...(authors || []),
+        ...(article.authors.map((author) => {
+          return { ...author, articles: [article.slug] }
+        }) || []),
+      ]
       media = [...(media || []), ...extractAndGenerateMedia(article)]
       articles = [...(articles || []), article]
     }

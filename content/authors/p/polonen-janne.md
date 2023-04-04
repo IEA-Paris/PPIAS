@@ -2,8 +2,6 @@
 active: true
 articles:
   - 2.1.3_Polonen
-  - 2.1.3_Pölönen
-createdAt: '2022-09-21T08:08:29.816Z'
 exerpt: ''
 firstname: Janne
 issue:

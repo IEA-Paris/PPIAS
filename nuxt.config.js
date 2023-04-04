@@ -14,7 +14,7 @@ export default {
   ssr: true,
   generate: {
     dir: 'dist',
-    fallback: '404.html',
+    fallback: true,
     crawler: false,
     // default concurrency is 500 afaik. Considering the RAM cost of each, it would require way too much memory.
     // TODO check and time different values to come up with the best compromise between required memory (in free tier) and execution time
@@ -41,7 +41,7 @@ export default {
             .where({ active: true })
             .fetch()
         ).map((file) => {
-          return { route: '/authors/' + file.slug, payload: file }
+          return { route: '/author/' + file.slug, payload: file }
         }),
         ...(
           await $content('issues', { deep: true }).fetch()
@@ -551,6 +551,10 @@ export default {
     standalone: true,
     babel: {
       compact: true,
+      plugins: [
+        // or with JUST the line below
+        ['@babel/plugin-proposal-private-property-in-object', { loose: true }],
+      ],
     },
     watchOptions: {
       ignored: '/static/generated/filters.js',

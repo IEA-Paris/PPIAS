@@ -2,7 +2,6 @@
 active: true
 articles:
   - FP_Borch
-createdAt: '2022-09-21T08:08:29.836Z'
 exerpt: ''
 firstname: Sarah
 issue:
@@ -17,7 +16,8 @@ positions_and_institutions:
   - institution: Imperial College London, United Kingdom
     positions: []
   - institution: London School of Hygiene & Tropical Medicine, United Kingdom
-    positions: []
+    positions:
+      - ''
 reference: ''
 social_channels:
   google_scholar: ''

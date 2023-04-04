@@ -2,16 +2,7 @@
 active: true
 articles:
   - 4. Histoire des pandemies
-createdAt: '2022-09-15T17:33:44.944Z'
-exerpt: >-
-  Thierry Wirth est professeur à l'Institut de Systématique, Évolution,
-  Biodiversité (ISYEB) au Muséum National d'Histoire Naturelle et directeur
-  d'études, Sciences de la Vie et de la Terre à l’Ecole Pratique des Hautes
-  Etudes.
-
-
-  Ses travaux actuels sont centrés sur l’histoire évolutive, dispersion et
-  épidémiologie moléculaire des principales maladies
+exerpt: ''
 firstname: Thierry
 is_institution: false
 issue:
@@ -22,6 +13,8 @@ language:
 lastname: Wirth
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - EPHE-PSL, France
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=7vKgauEAAAAJ&hl=fr
   instagram: ''
@@ -32,9 +25,6 @@ social_channels:
   twitter: '@ThierryWirth'
   website: ''
   wikipedia: ''
-positions_and_institutions:
-  - EPHE-PSL, France
-
 years:
   - 2021
 

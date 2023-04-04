@@ -1,9 +1,7 @@
 ---
 active: true
 articles:
-  - whats-wrong-with-the-valuation-system-in-a-terrorist-brain
   - SynE2_2016_09_whats-wrong-with-the-valuation-system-in-a-terrorist-brain
-createdAt: '2022-11-10T08:35:33.259Z'
 exerpt: ''
 firstname: Mathias
 is_institution: false

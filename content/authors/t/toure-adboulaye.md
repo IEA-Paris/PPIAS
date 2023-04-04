@@ -2,7 +2,6 @@
 active: true
 articles:
   - 1. 2013-2016  Lutter contre Ebola
-createdAt: '2022-10-11T08:02:22.077Z'
 exerpt: ''
 firstname: Adboulaye
 is_institution: false

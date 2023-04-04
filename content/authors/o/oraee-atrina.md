@@ -2,8 +2,6 @@
 active: true
 articles:
   - ICA4
-  - ICA228
-createdAt: '2022-09-08T08:47:04.662Z'
 exerpt: ''
 firstname: Atrina
 issue:
@@ -20,6 +18,7 @@ positions_and_institutions:
   - institution: McGill University
     positions:
       - Warrior
+      - writer
   - institution: IAS PARIS
     positions:
       - writer

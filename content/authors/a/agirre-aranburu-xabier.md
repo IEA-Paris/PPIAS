@@ -1,9 +1,7 @@
 ---
 active: true
 articles:
-  - obedience-responsibility-punishment
   - SynE2_2016_16_obedience-responsibility-punishment
-createdAt: '2022-11-10T08:35:33.259Z'
 exerpt: ''
 firstname: Xabier
 is_institution: false

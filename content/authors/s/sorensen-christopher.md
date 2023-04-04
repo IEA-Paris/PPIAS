@@ -2,7 +2,6 @@
 active: true
 articles:
   - Sorensen_2022
-createdAt: '2022-10-27T16:09:51.221Z'
 exerpt: ''
 firstname: Christopher
 is_institution: false
@@ -13,6 +12,9 @@ language:
 lastname: Sorensen
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: GreenLab, Denmark
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''
@@ -23,10 +25,6 @@ social_channels:
   twitter: '@C_D_Sorensen'
   website: ''
   wikipedia: ''
-positions_and_institutions:
-  '0':
-    institution: GreenLab, Denmark
-    positions: []
 years:
   - 2022
 

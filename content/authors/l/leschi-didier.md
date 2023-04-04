@@ -2,7 +2,6 @@
 active: true
 articles:
   - 3. Crise migratoire - Du global au local
-createdAt: '2022-09-15T17:33:44.944Z'
 exerpt: ''
 firstname: Didier
 is_institution: false
@@ -14,6 +13,11 @@ language:
 lastname: Leschi
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: Office français de l'immigration et de l'intégration, France
+    positions: []
+  - institution: Institut européen en sciences des religions, France
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''
@@ -24,11 +28,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Didier_Leschi
-positions_and_institutions:
-  - institution: Office français de l'immigration et de l'intégration, France
-    positions: []
-  - institution: Institut européen en sciences des religions, France
-    positions: []
 years:
   - 2021
 

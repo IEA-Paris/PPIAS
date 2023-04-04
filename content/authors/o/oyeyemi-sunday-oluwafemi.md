@@ -2,7 +2,6 @@
 active: true
 articles:
   - FP_Borch
-createdAt: '2022-09-21T08:08:29.836Z'
 exerpt: ''
 firstname: Sunday Oluwafemi
 issue:

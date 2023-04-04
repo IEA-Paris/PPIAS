@@ -38,11 +38,17 @@ function processFrontmatter(md, options) {
 }
 
 export const storeReport = () => {
+  const today = new Date()
+  const date =
+    today.getFullYear() + '-' + (today.getMonth() + 1) + '-' + today.getDate()
+  const time =
+    today.getHours() + ':' + today.getMinutes() + ':' + today.getSeconds()
+  const dateTime = date + ' ' + time
   return fs.writeFileSync(
     './static/generated/report.md',
     `---
 ${yaml.dump(
-  { createdAt: new Date.toLocaleString(), conflicts: _conflicts },
+  { createdAt: dateTime, conflicts: _conflicts },
   { noRefs: true, sortKeys: true }
 )}
 ---`
@@ -167,8 +173,7 @@ async function print() {
   return diff
 } */
 export const filterAndMerge = (first, second) => {
-  console.log('second: ', second)
-  console.log('first: ', first)
+  // step 1, we remove and copy from first to second all the common authors
   first = first.filter((author) => {
     // does it have a reference? (a reference is the path of the author document.
     // If present, it means that the doc in "first", author data extracted from an article,

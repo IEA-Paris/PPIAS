@@ -2,7 +2,6 @@
 active: true
 articles:
   - 2.2.3_Spassova
-createdAt: '2022-09-21T08:08:29.828Z'
 exerpt: ''
 firstname: Joanna
 is_institution: false

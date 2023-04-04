@@ -1,11 +1,7 @@
 ---
 active: true
 articles:
-  - >-
-    risk-avoidance-through-transition-legitimate-expectations-and-issues-of-justice
   - justice-and-climate-transitions_5_table-ronde
-  - justice-and-climate-transitions_7_risk-avoidance
-createdAt: '2022-11-10T08:35:33.255Z'
 exerpt: ''
 firstname: Fabian
 is_institution: false

@@ -1,9 +1,7 @@
 ---
 active: true
 articles:
-  - sharing-to-communicate-neurophysiological-mechanisms
   - SynE1_2015_12_sharing-to-communicate
-createdAt: '2022-10-10T07:36:28.761Z'
 exerpt: ''
 firstname: Luciano
 is_institution: false
@@ -12,7 +10,7 @@ issue:
 language:
   - English
 lastname: Fadiga
-positions_and_institutions: 
+positions_and_institutions:
   - institution: Università degli Studi di Ferrara, Italy
     positions:
       - ''

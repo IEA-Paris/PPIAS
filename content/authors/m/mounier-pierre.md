@@ -2,7 +2,6 @@
 active: true
 articles:
   - 1.0.1_Mounier
-createdAt: '2022-09-21T08:08:29.812Z'
 exerpt: ''
 firstname: Pierre
 issue:

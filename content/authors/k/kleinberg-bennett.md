@@ -1,9 +1,7 @@
 ---
 active: true
 articles:
-  - Keynote 7
   - 7.0_WPRN21_Keynote 7
-createdAt: '2022-09-21T08:08:29.836Z'
 exerpt: ''
 firstname: Bennett
 issue:

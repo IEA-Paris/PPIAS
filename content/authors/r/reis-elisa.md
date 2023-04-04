@@ -1,9 +1,7 @@
 ---
 active: true
 articles:
-  - Keynote 5
   - 5.0_WPRN21_Keynote 5
-createdAt: '2022-09-21T08:08:29.836Z'
 exerpt: ''
 firstname: Elisa
 issue:

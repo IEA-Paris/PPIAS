@@ -2,7 +2,6 @@
 active: true
 articles:
   - 1.2.1_Rooryck
-createdAt: '2022-09-21T08:08:29.812Z'
 exerpt: ''
 firstname: Johan
 issue:

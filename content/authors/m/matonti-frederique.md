@@ -2,7 +2,6 @@
 active: true
 articles:
   - 5. Crise des identites de genre - Controverses sur le genre
-createdAt: '2022-10-11T08:02:22.081Z'
 exerpt: ''
 firstname: Frédérique
 is_institution: false

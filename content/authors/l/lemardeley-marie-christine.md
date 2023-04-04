@@ -1,22 +1,23 @@
 ---
 active: true
 articles:
-  - cloture-du-colloque
-  - introduction
-createdAt: '2022-11-10T08:35:33.251Z'
+  - RES_2020_02_Opening
 exerpt: ''
 firstname: Marie-Christine
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
   - content/issues/assessing-resilience.md
-language:
+language: null
 lastname: Lemardeley
 positions_and_institutions:
   - institution: Ville de Paris, France
     positions:
       - 'Maire adjointe '
       - ''
+titles_and_institutions:
+  '0':
+    institution: City of Paris, France
 years:
   - 2020
 

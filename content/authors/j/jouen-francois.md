@@ -2,7 +2,6 @@
 active: true
 articles:
   - BIOET_2019_1_Cognition
-createdAt: '2022-10-10T10:18:07.808Z'
 exerpt: ''
 firstname: François
 is_institution: false
@@ -26,7 +25,6 @@ social_channels:
   twitter: '@fjephe'
   website: ''
   wikipedia: ''
-
 years:
   - 2019
 

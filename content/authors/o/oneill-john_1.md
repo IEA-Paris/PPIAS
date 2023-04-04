@@ -2,7 +2,6 @@
 active: true
 articles:
   - justice-and-climate-transitions_5_table-ronde
-createdAt: '2022-11-22T16:52:31.778Z'
 exerpt: ''
 firstname: John
 issue:
@@ -10,6 +9,8 @@ issue:
 language:
   - English
 lastname: O’Neill
+positions_and_institutions:
+  - institution: University of Manchester, United Kingdom
 titles_and_institutions:
   '0':
     institution: University of Manchester, United Kingdom

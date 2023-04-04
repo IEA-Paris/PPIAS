@@ -1,23 +1,21 @@
 ---
 active: true
 articles:
-  - >-
-    roundtable-1-past-and-present-perpetrators-issues-of-interpretation-and-prevention
-  - >-
-    identity-versus-self-tensions-between-group-radicalization-and-individual-violence
-createdAt: '2022-11-10T08:35:33.259Z'
+  - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
 exerpt: ''
-firstname: J.M.
+firstname: JM
 is_institution: false
-issue:
-  - content/issues/brains-that-pull-the-triggers.md
-language:
 lastname: Berger
 positions_and_institutions:
   - institution: International Center for Counter-Terrorism, Netherlands
     positions:
       - ''
-years:
-  - 2017
+social_channels:
+  google_scholar: https://scholar.google.com/citations?user=E9ZPY58AAAAJ&hl=en
+  linkedin: https://www.linkedin.com/in/jmberger1
+  website: https://www.jmberger.com/home
+titles_and_institutions:
+  '0':
+    institution: International Center for Counter-Terrorism, Netherlands
 
 ---

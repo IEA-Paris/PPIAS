@@ -1,9 +1,7 @@
 ---
 active: true
 articles:
-  - Keynote 3
   - 3.0_WPRN21_Keynote 3
-createdAt: '2022-09-21T08:08:29.836Z'
 exerpt: ''
 firstname: Ted
 issue:

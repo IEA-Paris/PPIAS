@@ -2,8 +2,6 @@
 active: true
 articles:
   - 1.1.4_Williams
-  - 2.2.0_intro_Williams
-createdAt: '2022-09-21T08:08:29.812Z'
 exerpt: ''
 firstname: Geoffrey
 issue:

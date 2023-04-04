@@ -2,8 +2,6 @@
 active: true
 articles:
   - Our Microbial Lives - cloture
-  - Our Microbial Lives - clôture
-createdAt: '2022-09-21T08:08:29.804Z'
 exerpt: ''
 firstname: Michel
 issue:

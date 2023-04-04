@@ -2,7 +2,6 @@
 active: true
 articles:
   - BIOET_2019_2_Procreation
-createdAt: '2022-10-11T08:02:22.081Z'
 exerpt: ''
 firstname: Dominique
 is_institution: false

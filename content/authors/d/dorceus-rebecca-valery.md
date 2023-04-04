@@ -1,19 +1,20 @@
 ---
 active: true
 articles:
-  - evaluer-la-resilience-les-travaux-en-cours
-createdAt: '2022-11-10T08:35:33.251Z'
+  - RES_2020_09_Assessing-Resilience-Work-in-Progress
 exerpt: ''
 firstname: Rebecca-Valéry
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
-language:
+language: null
 lastname: Dorcéus
 positions_and_institutions:
   - institution: Rouge Vif territoires, France
     positions:
       - ''
+social_channels:
+  linkedin: https://fr.linkedin.com/in/r%C3%A9becca-dorc%C3%A9us-a7916622
 years:
   - 2020
 

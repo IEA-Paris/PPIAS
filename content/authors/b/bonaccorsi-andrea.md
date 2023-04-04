@@ -2,7 +2,6 @@
 active: true
 articles:
   - 2.1.1_Bonaccorsi
-createdAt: '2022-09-21T08:08:29.816Z'
 exerpt: ''
 firstname: Andrea
 issue:

@@ -2,8 +2,6 @@
 active: true
 articles:
   - Our Microbial Lives - table-ronde 1
-  - Our Microbial Lives - table-ronde 3
-createdAt: '2022-09-21T08:08:29.808Z'
 exerpt: ''
 firstname: Nicolas
 issue:
@@ -33,7 +31,6 @@ tags:
   - Medicine
   - Technology and Medicine
   - Antibiotics
-
 years:
   - 2021
 

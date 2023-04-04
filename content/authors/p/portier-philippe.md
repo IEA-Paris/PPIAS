@@ -2,7 +2,6 @@
 active: true
 articles:
   - BIOET_2020_7_Laicite
-createdAt: '2022-10-11T08:02:22.081Z'
 exerpt: ''
 firstname: Philippe
 is_institution: false

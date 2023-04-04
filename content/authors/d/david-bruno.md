@@ -2,7 +2,6 @@
 active: true
 articles:
   - 6. Crise environnementale
-createdAt: '2022-10-11T08:02:22.081Z'
 exerpt: ''
 firstname: Bruno
 is_institution: false
@@ -26,7 +25,6 @@ social_channels:
   twitter: '@BrunoDavidMNHN'
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Bruno_David
-
 years:
   - 2021
 

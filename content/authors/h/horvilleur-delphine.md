@@ -2,7 +2,6 @@
 active: true
 articles:
   - 5. Crise des identites de genre - Controverses sur le genre
-createdAt: '2022-10-10T10:18:07.808Z'
 exerpt: ''
 firstname: Delphine
 is_institution: false
@@ -13,6 +12,7 @@ language:
 lastname: Horvilleur
 picture: ''
 picture_copyright: ''
+positions_and_institutions: null
 social_channels:
   google_scholar: ''
   instagram: '@delphinehorvilleur'
@@ -23,7 +23,6 @@ social_channels:
   twitter: '@rabbidelphineH'
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Delphine_Horvilleur
-positions_and_institutions:
 years:
   - 2021
 

@@ -2,7 +2,6 @@
 active: true
 articles:
   - 3. Crise migratoire - Du global au local
-createdAt: '2022-10-11T08:02:22.081Z'
 exerpt: ''
 firstname: François
 is_institution: false

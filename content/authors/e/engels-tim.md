@@ -2,7 +2,6 @@
 active: true
 articles:
   - 3.2.1_Engels
-createdAt: '2022-09-21T08:08:29.832Z'
 exerpt: ''
 firstname: Tim
 is_institution: false
@@ -28,7 +27,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-
 years:
   - 2022
 

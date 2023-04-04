@@ -2,7 +2,6 @@
 active: true
 articles:
   - 1.2.3_Teira
-createdAt: '2022-09-21T08:08:29.812Z'
 exerpt: ''
 firstname: David
 issue:

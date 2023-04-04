@@ -1,19 +1,21 @@
 ---
 active: true
 articles:
-  - the-legacy-of-serge-moscovici
-createdAt: '2022-11-10T08:35:33.255Z'
+  - MOSCO_2016_03_the-legacy-of-serge-moscovici
 exerpt: ''
 firstname: Charlan
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
-language:
+language: null
 lastname: Nemeth
 positions_and_institutions:
   - institution: University of California, Berkeley, USA
     positions:
       - ''
+social_channels:
+  google_scholar: https://scholar.google.com/citations?user=_k9-SfMAAAAJ&hl=en
+  website: http://charlannemeth.com/
 years:
   - 2016
 

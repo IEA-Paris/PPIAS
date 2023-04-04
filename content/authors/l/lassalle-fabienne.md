@@ -2,13 +2,7 @@
 active: true
 articles:
   - 3. Crise migratoire - Du global au local
-createdAt: '2022-09-15T17:33:44.944Z'
-exerpt: >-
-  Diplômée de l'IEP de Grenoble et titulaire d'un Master sur le Développement,
-  la Coopération et l'action Humanitaire (Université Panthéon-Sorbonne),
-  Fabienne Lassalle a coordonné pendant 12 ans des projets de développement
-  financés par les bailleurs de fonds internationaux (Commission européenne,
-  Banque Mondiale, Banques régionales de développement)
+exerpt: ''
 firstname: Fabienne
 is_institution: false
 issue:
@@ -19,6 +13,8 @@ language:
 lastname: Lassalle
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - SOS Méditerranée, France
 social_channels:
   google_scholar: ''
   instagram: ''
@@ -29,9 +25,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-positions_and_institutions:
-  - SOS Méditerranée, France
-
 years:
   - 2021
 

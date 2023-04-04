@@ -2,7 +2,6 @@
 active: true
 articles:
   - 1. Crise sanitaire - Covid19
-createdAt: '2022-10-10T10:18:07.808Z'
 exerpt: ''
 firstname: Eric
 is_institution: false
@@ -26,7 +25,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-
 years:
   - 2021
 

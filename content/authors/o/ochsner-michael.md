@@ -2,8 +2,6 @@
 active: true
 articles:
   - 1.2.0_intro_Ochsner
-  - 3.2.2_Ochsner
-createdAt: '2022-09-21T08:08:29.812Z'
 exerpt: ''
 firstname: Michael
 is_institution: false

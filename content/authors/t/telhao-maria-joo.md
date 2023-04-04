@@ -2,19 +2,23 @@
 active: true
 articles:
   - >-
-    why-and-how-we-co-created-the-resilience-assessmentframework-a-diagnosis-tool-for-cities-and-strategic-sectors
-createdAt: '2022-11-10T08:35:33.251Z'
+    RES_2020_03_the-resilience-assessmentframework-a-diagnosis-tool-for-cities-and-strategic-sectors
 exerpt: ''
 firstname: Maria-João
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
-language:
+language: null
 lastname: Telhao
 positions_and_institutions:
   - institution: City of Lisbon, Portugal
     positions:
       - ''
+social_channels:
+  researchgate: https://www.researchgate.net/profile/Maria-Telhado
+titles_and_institutions:
+  '0':
+    institution: City of Lisbon, Portugal
 years:
   - 2020
 

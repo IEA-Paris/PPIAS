@@ -2,8 +2,6 @@
 active: true
 articles:
   - 2.2.2_Kulczycki
-  - 3.2.0_intro_Kulczycki
-createdAt: '2022-09-21T08:08:29.828Z'
 exerpt: ''
 firstname: Emanuel
 is_institution: false

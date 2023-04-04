@@ -1,14 +1,13 @@
 ---
 active: true
 articles:
-  - la-lecon-de-la-pandemie-de-covid-19
-createdAt: '2022-11-10T08:35:33.251Z'
+  - RES_2020_11_la-lecon-de-la-pandemie-de-covid-19
 exerpt: ''
 firstname: Serge
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
-language:
+language: null
 lastname: Tisseron
 positions_and_institutions:
   - institution: Université Paris-Diderot, France

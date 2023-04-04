@@ -2,7 +2,6 @@
 active: true
 articles:
   - BIOET_2020_4_Vieillissement
-createdAt: '2022-10-20T06:54:16.623Z'
 exerpt: ''
 firstname: Anne
 is_institution: false
@@ -13,6 +12,8 @@ language:
 lastname: Marcilhac
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - EPHE, France
 social_channels:
   google_scholar: ''
   instagram: ''
@@ -23,9 +24,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-positions_and_institutions:
-  - EPHE, France
-
 years:
   - 2020
 

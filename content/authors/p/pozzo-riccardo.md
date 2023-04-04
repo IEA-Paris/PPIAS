@@ -2,7 +2,6 @@
 active: true
 articles:
   - 2.1.4_Pozzo
-createdAt: '2022-09-21T08:08:29.816Z'
 exerpt: ''
 firstname: Riccardo
 is_institution: false

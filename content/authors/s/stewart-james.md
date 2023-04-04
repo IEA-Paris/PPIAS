@@ -1,9 +1,7 @@
 ---
 active: true
 articles:
-  - responsibility-and-punishment
   - SynE1_2015_16_responsibility-and-punishment
-createdAt: '2022-10-10T07:36:28.761Z'
 exerpt: ''
 firstname: James
 is_institution: false
@@ -12,7 +10,7 @@ issue:
 language:
   - English
 lastname: Stewart
-positions_and_institutions: 
+positions_and_institutions:
   - institution: International Criminal Court, Netherlands
     positions:
       - ''

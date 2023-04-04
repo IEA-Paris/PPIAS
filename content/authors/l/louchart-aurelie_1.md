@@ -1,19 +1,18 @@
 ---
 active: true
 articles:
-  - 2.0.1_Zic-Fuchs
-createdAt: '2022-09-21T08:08:29.816Z'
+  - Memorandum 12
 exerpt: ''
-firstname: Milena
+firstname: Aurélie
 issue:
-  - content/issues/HCERES - PFUE 2022.md
+  - content/issues/WPRN Memorandums.md
 language:
   - English
-lastname: Žic Fuchs
+lastname: Louchart
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: Faculty of Humanities and Social Sciences, University of Zagreb, Croatie
+  - institution: Paris Institute for Advanced Study, France
     positions: []
 reference: ''
 social_channels:
@@ -26,8 +25,9 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-tags: []
+titles_and_institutions: []
 years:
+  - 2021
   - 2022
 
 ---

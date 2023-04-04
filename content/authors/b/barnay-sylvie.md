@@ -1,20 +1,20 @@
 ---
 active: true
 articles:
-  - >-
-    le-present-des-propheties-mariales-au-xixe-siecle-une-relecture-du-futur-inaccompli-du-passe
-createdAt: '2022-11-10T08:35:33.251Z'
+  - PROP_2020_16_le-present-des-propheties-mariales-au-xixe-siecle
 exerpt: ''
 firstname: Sylvie
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
-language:
+language: null
 lastname: Barnay
 positions_and_institutions:
   - institution: Université de Lorraine, France
     positions:
       - ''
+social_channels:
+  wikipedia: https://fr.wikipedia.org/wiki/Sylvie_Barnay
 years:
   - 2020
 

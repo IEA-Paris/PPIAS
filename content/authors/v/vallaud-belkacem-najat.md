@@ -2,7 +2,6 @@
 active: true
 articles:
   - 5. Crise des identites de genre - Controverses sur le genre
-createdAt: '2022-10-18T12:26:58.790Z'
 exerpt: ''
 firstname: Najat
 is_institution: false
@@ -13,6 +12,8 @@ language:
 lastname: Vallaud-Belkacem
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - ONG ONE, France
 social_channels:
   google_scholar: ''
   instagram: '@najatvb'
@@ -23,9 +24,6 @@ social_channels:
   twitter: '@najatvb'
   website: https://www.najat-vallaud-belkacem.com/
   wikipedia: https://fr.wikipedia.org/wiki/Najat_Vallaud-Belkacem
-positions_and_institutions:
-  - ONG ONE, France
-
 years:
   - 2021
 

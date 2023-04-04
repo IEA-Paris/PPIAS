@@ -1,19 +1,22 @@
 ---
 active: true
 articles:
-  - society-and-theory-in-social-psychology-a-reconsideration
-createdAt: '2022-11-10T08:35:33.255Z'
+  - MOSCO_2016_19_society-and-theory-in-social-psychology-a-reconsideration
 exerpt: ''
 firstname: Juliet
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
-language:
+language: null
 lastname: Foster
 positions_and_institutions:
   - institution: University of Cambridge, United Kingdom
     positions:
       - ''
+social_channels:
+  google_scholar: https://scholar.google.com/citations?user=WVHsYYwAAAAJ&hl=en
+  linkedin: https://uk.linkedin.com/in/juliet-foster-420038188
+  researchgate: https://www.researchgate.net/profile/Juliet-Foster-2
 years:
   - 2016
 

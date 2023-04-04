@@ -2,7 +2,6 @@
 active: true
 articles:
   - FP4_Glover
-createdAt: '2022-09-21T08:08:29.840Z'
 exerpt: ''
 firstname: Sofya
 issue:

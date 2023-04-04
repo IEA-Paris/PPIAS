@@ -2,7 +2,6 @@
 active: true
 articles:
   - 2.2.4_Zanola
-createdAt: '2022-09-21T08:08:29.828Z'
 exerpt: ''
 firstname: Maria Teresa
 is_institution: false

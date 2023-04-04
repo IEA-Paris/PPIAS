@@ -1,10 +1,7 @@
 ---
 active: true
 articles:
-  - >-
-    an-analogy-between-communication-within-the-brain-microcosm-and-communication-within-the-societal-macrocosm
   - SynE2_2016_12_an-analogy-between-communication-within-the-brain-microcosm-
-createdAt: '2022-11-10T08:35:33.259Z'
 exerpt: ''
 firstname: Lionel
 is_institution: false

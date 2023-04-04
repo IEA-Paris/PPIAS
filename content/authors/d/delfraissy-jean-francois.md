@@ -2,7 +2,6 @@
 active: true
 articles:
   - 1. Crise sanitaire - Covid19
-createdAt: '2022-10-11T08:02:22.077Z'
 exerpt: ''
 firstname: Jean-François
 is_institution: false

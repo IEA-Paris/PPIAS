@@ -1,19 +1,27 @@
 ---
 active: true
 articles:
-  - the-art-of-acting-somewhere-else
-createdAt: '2022-11-10T08:35:33.251Z'
+  - AVA_2018_05_the-art-of-acting-somewhere-else
 exerpt: ''
 firstname: Dominique
 is_institution: false
 issue:
   - content/issues/identity-from-double-to-avatar.md
-language:
+language: null
 lastname: Moulon
 positions_and_institutions:
   - institution: Observatoire des mondes numériques en sciences humaines (OMNSH), France
     positions:
       - ''
+social_channels:
+  linkedin: >-
+    https://fr.linkedin.com/in/dominique-moulon-9bb62710?trk=public_post_share-update_actor-image
+  twitter: '@dmoulon'
+  website: https://www.dominiquemoulon.com/fr/
+  wikipedia: https://fr.wikipedia.org/wiki/Dominique_Moulon
+titles_and_institutions:
+  '0':
+    institution: Paris, France
 years:
   - 2018
 

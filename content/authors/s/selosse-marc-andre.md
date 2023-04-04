@@ -2,7 +2,6 @@
 active: true
 articles:
   - Our Microbial Lives - table-ronde 1
-createdAt: '2022-09-21T08:08:29.808Z'
 exerpt: ''
 firstname: Marc-André
 issue:

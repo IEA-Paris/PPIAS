@@ -2,7 +2,6 @@
 active: true
 articles:
   - BIOET_2019_3_Cerveaux
-createdAt: '2022-10-19T07:14:38.194Z'
 exerpt: ''
 firstname: Hervé
 is_institution: false
@@ -13,6 +12,8 @@ language:
 lastname: Chneiweiss
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - CNRS - UMR 8246 - Neurosciences, France
 social_channels:
   google_scholar: ''
   instagram: ''
@@ -23,9 +24,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-positions_and_institutions:
-  - CNRS - UMR 8246 - Neurosciences, France
-
 years:
   - 2019
 

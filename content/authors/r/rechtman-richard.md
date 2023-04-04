@@ -1,9 +1,7 @@
 ---
 active: true
 articles:
-  - questioning-the-predictive-value-of-syndrome-e
   - SynE2_2016_07_questioning-the-predictive-value-of-syndrome-e
-createdAt: '2022-11-10T08:35:33.259Z'
 exerpt: ''
 firstname: Richard
 is_institution: false

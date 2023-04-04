@@ -2,9 +2,10 @@ import { formatAuthors } from '../utils/transforms'
 
 export default (articles, options) => {
   console.log('make print routes for array of articles', articles.length)
-  const pdfArticles = articles.filter(
-    (article) => !article.custom_pdf && article.todo.generatePDF
-  )
+  const pdfArticles = articles.filter((article) => {
+    console.log('article: ', article.slug)
+    return !article.custom_pdf && article.todo.generatePDF
+  })
   const thumbnailArticles = articles.filter(
     (article) => !article.picture && !article.yt && article.todo.generateGraph
   )

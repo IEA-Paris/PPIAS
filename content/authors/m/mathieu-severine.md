@@ -2,10 +2,6 @@
 active: true
 articles:
   - 1. Crise sanitaire - Covid19
-  - 3. Crise migratoire - Du global au local
-  - 2. Crise economique - Inegalites
-  - 4. Histoire des pandemies
-createdAt: '2022-10-11T08:02:22.081Z'
 exerpt: ''
 firstname: Séverine
 is_institution: false

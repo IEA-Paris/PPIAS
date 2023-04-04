@@ -2,7 +2,6 @@
 active: true
 articles:
   - 2.1.2_Edmond
-createdAt: '2022-09-21T08:08:29.816Z'
 exerpt: ''
 firstname: Jennifer
 issue:
@@ -27,7 +26,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-
 years:
   - 2022
 

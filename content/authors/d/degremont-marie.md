@@ -2,19 +2,25 @@
 active: true
 articles:
   - >-
-    comment-les-collectivites-territoriales-francaises-se-saisissent-elles-du-theme-de-la-transition-energetique
-createdAt: '2022-11-10T08:35:33.259Z'
+    EneTran_2016_06_comment-les-collectivites-territoriales-francaises-se-saisissent-elles-du-theme-de-la-transition-energetique
 exerpt: ''
 firstname: Marie
 is_institution: false
 issue:
   - content/issues/territories-of-energy-transition.md
-language:
+language: null
 lastname: Degremont
 positions_and_institutions:
   - institution: Sciences Po / CSO, France
     positions:
       - ''
+social_channels:
+  linkedin: https://fr.linkedin.com/in/marie-d%C3%A9gremont-32b54232/fr
+  researchgate: https://www.researchgate.net/profile/Marie-Degremont
+  twitter: '@MDegremont'
+titles_and_institutions:
+  '0':
+    institution: Sciences Po, France
 years:
   - 2016
 

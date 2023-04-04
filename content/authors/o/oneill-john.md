@@ -1,9 +1,7 @@
 ---
 active: true
 articles:
-  - mapping-climate-disadvantage
   - justice-and-climate-transitions_3_mapping-climate
-createdAt: '2022-11-10T08:35:33.255Z'
 exerpt: ''
 firstname: John
 is_institution: false

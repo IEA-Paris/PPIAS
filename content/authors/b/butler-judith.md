@@ -2,7 +2,6 @@
 active: true
 articles:
   - 5. Crise des identites de genre - Controverses sur le genre
-createdAt: '2022-10-18T12:26:58.786Z'
 exerpt: ''
 firstname: Judith
 is_institution: false
@@ -13,6 +12,8 @@ language:
 lastname: Butler
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - University of California Berkeley, USA
 social_channels:
   google_scholar: ''
   instagram: ''
@@ -23,9 +24,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: https://en.wikipedia.org/wiki/Judith_Butler
-positions_and_institutions:
-  - University of California Berkeley, USA
-
 years:
   - 2021
 

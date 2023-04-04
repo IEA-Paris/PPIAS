@@ -2,7 +2,6 @@
 active: true
 articles:
   - FP_Borch
-createdAt: '2022-09-21T08:08:29.836Z'
 exerpt: ''
 firstname: Katrine Jonna
 issue:
@@ -27,7 +26,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-
 years:
   - 2022
 

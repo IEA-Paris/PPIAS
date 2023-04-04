@@ -1,9 +1,7 @@
 ---
 active: true
 articles:
-  - Keynote 6
   - 6.0_WPRN21_Keynote 6
-createdAt: '2022-09-21T08:08:29.836Z'
 exerpt: ''
 firstname: Marc
 issue:
@@ -34,7 +32,6 @@ tags:
   - 'Work, Welfare, Social protection '
   - 'Inequalities, Poverty, Development '
   - 'Public Policy, Evaluation, Impact '
-
 years:
   - 2021
 

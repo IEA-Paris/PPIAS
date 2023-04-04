@@ -1,19 +1,23 @@
 ---
 active: true
 articles:
-  - from-superman-to-pj-masks-how-masks-make-us-superhumans
-createdAt: '2022-11-10T08:35:33.251Z'
+  - AVA_2018_12_from-superman-to-pj-masks
 exerpt: ''
 firstname: Chiara
 is_institution: false
 issue:
   - content/issues/identity-from-double-to-avatar.md
-language:
+language: null
 lastname: Cappelletto
 positions_and_institutions:
   - institution: Università Statale di Milano, Italy
     positions:
       - ''
+social_channels:
+  twitter: '@ChiCappelletto'
+titles_and_institutions:
+  '0':
+    institution: Università Statale di Milano, Italy
 years:
   - 2018
 

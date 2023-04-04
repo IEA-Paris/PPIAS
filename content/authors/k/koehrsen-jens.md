@@ -1,20 +1,21 @@
 ---
 active: true
 articles:
-  - >-
-    urban-energy-transitions-in-germany-insights-from-case-studies-in-bottrop-and-emden
-createdAt: '2022-11-10T08:35:33.259Z'
+  - EneTran_2016_03_urban-energy-transitions-in-germany
 exerpt: ''
 firstname: Jens
 is_institution: false
 issue:
   - content/issues/territories-of-energy-transition.md
-language:
+language: null
 lastname: Koehrsen
 positions_and_institutions:
   - institution: Basel University, Switzerland
     positions:
       - ''
+titles_and_institutions:
+  '0':
+    institution: Basel University, Switzerland
 years:
   - 2016
 

@@ -2,7 +2,6 @@
 active: true
 articles:
   - BIOET_2020_6_Mort
-createdAt: '2022-10-18T12:26:58.786Z'
 exerpt: ''
 firstname: Marie
 is_institution: false
@@ -13,6 +12,8 @@ language:
 lastname: Gaille
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - Institut des sciences humaines et sociales CNRS, France
 social_channels:
   google_scholar: ''
   instagram: ''
@@ -23,9 +24,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-positions_and_institutions:
-  - Institut des sciences humaines et sociales CNRS, France
-
 years:
   - 2020
 

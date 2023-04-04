@@ -2,7 +2,6 @@
 active: true
 articles:
   - 3.0.1_Lucaroni
-createdAt: '2022-09-21T08:08:29.828Z'
 exerpt: ''
 firstname: Beatrice
 issue:

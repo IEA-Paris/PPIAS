@@ -2,9 +2,6 @@
 active: true
 articles:
   - 2.1.0_intro_Bouin
-  - Closing Panel-WPRN21
-  - 9.0_WPRN21_Closing Panel
-createdAt: '2022-09-21T08:08:29.816Z'
 exerpt: ''
 firstname: Olivier
 issue:

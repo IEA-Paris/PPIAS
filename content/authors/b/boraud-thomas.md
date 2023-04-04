@@ -1,9 +1,7 @@
 ---
 active: true
 articles:
-  - syndrome-e-pathological-process-or-inheritance-of-evolution
   - SynE2_2016_08_syndrome-e-pathological-process-or-inheritance-of-evolution
-createdAt: '2022-11-10T08:35:33.259Z'
 exerpt: ''
 firstname: Thomas
 is_institution: false

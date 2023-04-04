@@ -2,7 +2,6 @@
 active: true
 articles:
   - 3.1.4_Kirman
-createdAt: '2022-09-21T08:08:29.828Z'
 exerpt: ''
 firstname: Alan
 issue:
@@ -27,7 +26,6 @@ social_channels:
   website: ''
   wikipedia: ''
 tags: []
-
 years:
   - 2022
 

@@ -1,10 +1,7 @@
 ---
 active: true
 articles:
-  - climate-justice-energy-demand-and-the-right-to-energy
   - justice-and-climate-transitions_5_table-ronde
-  - justice-and-climate-transitions_9_climate-justice-energy-demand
-createdAt: '2022-11-10T08:35:33.255Z'
 exerpt: ''
 firstname: Gordon
 is_institution: false

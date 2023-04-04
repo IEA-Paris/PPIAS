@@ -1,19 +1,21 @@
 ---
 active: true
 articles:
-  - the-art-of-contrary-thinking
-createdAt: '2022-11-10T08:35:33.251Z'
+  - PROP_2020_10_the-art-of-contrary-thinking
 exerpt: ''
 firstname: Marc
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
-language:
+language: null
 lastname: Faber
 positions_and_institutions:
   - institution: France
     positions:
       - ''
+social_channels:
+  twitter: '@gloomboomdoom'
+  wikipedia: https://fr.wikipedia.org/wiki/Marc_Faber
 years:
   - 2020
 

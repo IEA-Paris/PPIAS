@@ -1,10 +1,7 @@
 ---
 active: true
 articles:
-  - >-
-    intergroup-empathy-and-dehumanizations-consequences-neural-basis-intervention
   - SynE2_2016_03_intergroup-empathy-and-dehumanizations
-createdAt: '2022-11-10T08:35:33.259Z'
 exerpt: ''
 firstname: Emile
 is_institution: false

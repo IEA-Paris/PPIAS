@@ -1,10 +1,7 @@
 ---
 active: true
 articles:
-  - justice-and-climate-transitions-introduction
   - justice-and-climate-transitions_2_introduction
-  - justice-and-climate-transitions_5_table-ronde
-createdAt: '2022-11-10T08:35:33.255Z'
 exerpt: ''
 firstname: Jeremy
 is_institution: false

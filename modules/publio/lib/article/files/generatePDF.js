@@ -54,7 +54,7 @@ export default async (route, url, meta) => {
                 <span class="pageNumber"></span> of <span class="totalPages"></span>
               </div>
             </div>`,
-          margin: { bottom: '70px' },
+          margin: { bottom: '80px' },
         }
       )
     )

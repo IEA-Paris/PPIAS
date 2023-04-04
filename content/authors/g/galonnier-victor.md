@@ -1,23 +1,7 @@
 ---
 active: true
 articles:
-  - memorandum_2
-  - Concern_for_others
   - Memorandum_11
-  - Memorandum_3
-  - Memorandum_4
-  - Memorandum_8
-  - Memorandum_9
-  - Memorandum_7
-  - Memorandum_03
-  - Memorandum_04
-  - Memorandum_05
-  - Memorandum_09
-  - Memorandum_06
-  - Memorandum_08
-  - Memorandum_07
-  - memorandum_02
-createdAt: '2022-09-21T08:08:29.836Z'
 exerpt: ''
 firstname: Victor
 issue:

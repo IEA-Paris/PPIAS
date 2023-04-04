@@ -1,19 +1,20 @@
 ---
 active: true
 articles:
-  - introduction
-createdAt: '2022-11-10T08:35:33.251Z'
+  - PROP_2020_02_introduction
 exerpt: ''
 firstname: Stéphanie
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
-language:
+language: null
 lastname: Lacour
 positions_and_institutions:
   - institution: Université Paris-Saclay, France
     positions:
       - ''
+social_channels:
+  linkedin: https://www.researchgate.net/profile/Stephanie-Lacour-2
 years:
   - 2020
 

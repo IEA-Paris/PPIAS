@@ -1,10 +1,7 @@
 ---
 active: true
 articles:
-  - >-
-    the-coexistence-of-the-good-and-the-evil-in-a-single-brain-phase-transitions-in-a-non-linear-dynamical-system
   - SynE1_2015_09_the-coexistence-of-the-good-and-the-evil-in-a-single-brain
-createdAt: '2022-10-10T07:36:28.761Z'
 exerpt: ''
 firstname: Wolf
 is_institution: false
@@ -13,7 +10,7 @@ issue:
 language:
   - English
 lastname: Singer
-positions_and_institutions: 
+positions_and_institutions:
   - institution: Max Planck Institute for Brain Research, Germany
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=Ho8cFO8AAAAJ&hl=en

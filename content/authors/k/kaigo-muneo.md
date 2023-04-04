@@ -2,8 +2,6 @@
 active: true
 articles:
   - RN2_omoyakaigo
-  - RN2_Omoyakaigo
-createdAt: '2022-09-21T08:08:29.840Z'
 exerpt: ''
 firstname: Muneo
 issue:
@@ -28,7 +26,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-
 years:
   - 2022
 

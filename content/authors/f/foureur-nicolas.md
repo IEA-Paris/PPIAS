@@ -2,7 +2,6 @@
 active: true
 articles:
   - 1. Crise sanitaire - Covid19
-createdAt: '2022-10-11T08:02:22.077Z'
 exerpt: ''
 firstname: Nicolas
 is_institution: false
@@ -27,7 +26,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-
 years:
   - 2021
 

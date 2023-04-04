@@ -2,7 +2,6 @@
 active: true
 articles:
   - 1.1.3 G. Sivertsen
-createdAt: '2022-09-21T08:08:29.812Z'
 exerpt: ''
 firstname: Gunnar
 issue:

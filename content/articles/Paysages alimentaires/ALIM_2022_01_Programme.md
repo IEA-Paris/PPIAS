@@ -11,7 +11,7 @@ article_title: 'Paysages alimentaires conviviaux : pour aller au-delà de la dur
   alimentaire - Programme'
 authors:
 - lastname: IEA de Paris, France
-  is_institution: false
+  is_institution: true
   firstname: ''
   positions_and_institutions: []
   picture: ''
@@ -27,7 +27,7 @@ authors:
     researchgate: ''
     mendeley: ''
 - lastname: University of Göttigen, Germany
-  is_institution: false
+  is_institution: true
   firstname: ''
   positions_and_institutions: []
   picture: ''
@@ -43,7 +43,7 @@ authors:
     researchgate: ''
     mendeley: ''
 - lastname: IRD, France
-  is_institution: false
+  is_institution: true
   firstname: ''
   positions_and_institutions: []
   picture: ''

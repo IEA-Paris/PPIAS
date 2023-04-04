@@ -2,7 +2,6 @@
 active: true
 articles:
   - 2. Crise economique - Inegalites
-createdAt: '2022-10-11T08:02:22.081Z'
 exerpt: ''
 firstname: Esther
 is_institution: false
@@ -26,7 +25,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Esther_Duflo
-
 years:
   - 2021
 

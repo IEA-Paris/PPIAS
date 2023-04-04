@@ -2,7 +2,6 @@
 active: true
 articles:
   - 6. Crise environnementale
-createdAt: '2022-10-11T08:02:22.081Z'
 exerpt: ''
 firstname: Delphine
 is_institution: false
@@ -26,7 +25,6 @@ social_channels:
   twitter: '@delphinebatho'
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Delphine_Batho
-
 years:
   - 2021
 

@@ -2,9 +2,6 @@
 active: true
 articles:
   - RN1_Lord
-  - decoupe
-  - test12
-createdAt: '2022-09-21T08:08:29.840Z'
 exerpt: ''
 firstname: Phil
 issue:

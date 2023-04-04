@@ -2,7 +2,6 @@
 active: true
 articles:
   - 2.0.0_intro_Colella
-createdAt: '2022-09-21T08:08:29.816Z'
 exerpt: ''
 firstname: Silvana
 issue:

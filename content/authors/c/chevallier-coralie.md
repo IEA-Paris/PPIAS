@@ -2,7 +2,6 @@
 active: true
 articles:
   - 3.2.3_Chevallier
-createdAt: '2022-09-21T08:08:29.832Z'
 exerpt: ''
 firstname: Coralie
 is_institution: false

@@ -1,14 +1,13 @@
 ---
 active: true
 articles:
-  - suivi-et-pilotage
-createdAt: '2022-11-10T08:35:33.251Z'
+  - RES_2020-07_Round-table-Monitoring-and-steering
 exerpt: ''
 firstname: Coline
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
-language:
+language: null
 lastname: Rande
 positions_and_institutions:
   - institution: Département de la Gironde, France

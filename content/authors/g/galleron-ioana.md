@@ -2,7 +2,6 @@
 active: true
 articles:
   - 1.1.0_intro_Galleron
-createdAt: '2022-09-21T08:08:29.812Z'
 exerpt: ''
 firstname: Ioana
 issue:

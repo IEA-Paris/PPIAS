@@ -1,9 +1,7 @@
 ---
 active: true
 articles:
-  - the-neuropsychopharmacology-of-syndrome-e
   - SynE2_2016_13_the-neuropsychopharmacology-of-syndrome-e
-createdAt: '2022-11-10T08:35:33.259Z'
 exerpt: ''
 firstname: Trevor
 is_institution: false

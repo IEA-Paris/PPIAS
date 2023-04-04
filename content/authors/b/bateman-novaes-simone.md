@@ -2,7 +2,6 @@
 active: true
 articles:
   - BIOET_2020_5_Gametes
-createdAt: '2022-10-11T08:02:22.081Z'
 exerpt: ''
 firstname: Simone
 is_institution: false
@@ -26,7 +25,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-
 years:
   - 2020
 

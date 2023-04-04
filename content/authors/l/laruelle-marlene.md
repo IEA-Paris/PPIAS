@@ -1,23 +1,25 @@
 ---
 active: true
 articles:
-  - >-
-    une-droitisation-des-espaces-politiques-comprendre-la-montee-de-lilliberalisme-et-de-lextreme-droite
-  - mapping-illiberal-production-in-a-russian-context-bottom-up-and-top-down
-  - >-
-    une-droitisation-des-espaces-politiques-comprendre-la-montee-de-lilliberalisme-et-de-le03nboe0sf2sxtreme-droite
-createdAt: '2022-11-10T08:35:33.255Z'
+  - INTEL_2022_05_mapping-illiberal-production-in-a-russian-context
 exerpt: ''
 firstname: Marlène
 is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
-language:
+language: null
 lastname: Laruelle
 positions_and_institutions:
   - institution: George Washington University, USA
     positions:
       - ''
+social_channels:
+  google_scholar: https://scholar.google.com/citations?user=XzVOHfYAAAAJ&hl=en
+  linkedin: https://www.linkedin.com/in/marlene-laruelle-0512908
+  orcid: 0000-0001-8289-2695
+  researchgate: https://www.researchgate.net/profile/Marlene-Laruelle
+  website: https://www.marlene-laruelle.com/
+  wikipedia: https://fr.wikipedia.org/wiki/Marl%C3%A8ne_Laruelle
 years:
   - 2022
 

@@ -1,19 +1,21 @@
 ---
 active: true
 articles:
-  - diagnostics-et-etats-des-lieux
-createdAt: '2022-11-10T08:35:33.251Z'
+  - RES_2020_04_Baseline-assessment-and-stocktaking-Roundtable
 exerpt: ''
 firstname: Kathy
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
-language:
+language: null
 lastname: Oldham
 positions_and_institutions:
   - institution: Greater Manchester
     positions:
       - Chief Resilience Officer
+titles_and_institutions:
+  '0':
+    institution: Greater Manchester Combined Authority, United Kingdom
 years:
   - 2020
 

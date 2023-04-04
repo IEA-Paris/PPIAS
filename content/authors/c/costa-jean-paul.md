@@ -1,19 +1,24 @@
 ---
 active: true
 articles:
-  - bringing-together-neuroscience-and-the-law-some-reflections
-createdAt: '2022-11-10T08:35:33.259Z'
+  - SynE3_2017_15_bringing-together-neuroscience-and-the-law
 exerpt: ''
 firstname: Jean-Paul
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
-language:
+language: null
 lastname: Costa
 positions_and_institutions:
   - institution: International Institute of Human Rights, France
     positions:
       - ''
+social_channels:
+  linkedin: https://fr.linkedin.com/in/jean-paul-costa-b6004364
+  wikipedia: https://en.wikipedia.org/wiki/Jean-Paul_Costa
+titles_and_institutions:
+  '0':
+    institution: International Institute of Human Rights, France
 years:
   - 2017
 

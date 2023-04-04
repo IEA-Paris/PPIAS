@@ -2,7 +2,6 @@
 active: true
 articles:
   - RN4_Ervas
-createdAt: '2022-09-08T08:47:04.666Z'
 exerpt: ''
 firstname: Rachele
 issue:
@@ -27,7 +26,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-
 years:
   - 2022
 

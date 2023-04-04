@@ -2,19 +2,23 @@
 active: true
 articles:
   - >-
-    les-entreprises-locales-de-distribution-bras-armes-des-politiques-energetiques-territoriales
-createdAt: '2022-11-10T08:35:33.259Z'
+    EneTran_2016_07_les-entreprises-locales-de-distribution-bras-armes-des-politiques-energetiques-territoriales
 exerpt: ''
 firstname: Pauline
 is_institution: false
 issue:
   - content/issues/territories-of-energy-transition.md
-language:
+language: null
 lastname: Gabillet
 positions_and_institutions:
   - institution: LATTS / Université Gustave Eiffel, France
     positions:
       - ''
+social_channels:
+  linkedin: https://fr.linkedin.com/in/pauline-gabillet-957b8197
+titles_and_institutions:
+  '0':
+    institution: Laboratoire Techniques Territoires et Societes (LATTS), France
 years:
   - 2016
 

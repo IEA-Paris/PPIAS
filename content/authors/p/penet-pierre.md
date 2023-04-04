@@ -1,15 +1,13 @@
 ---
 active: true
 articles:
-  - introduction
-  - discussion
-createdAt: '2022-11-10T08:35:33.251Z'
+  - PROP_2020_02_introduction
 exerpt: ''
 firstname: Pierre
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
-language:
+language: null
 lastname: Pénet
 positions_and_institutions:
   - institution: Université de Genève, Suisse / Institut d’études avancées de Paris, France

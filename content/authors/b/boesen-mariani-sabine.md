@@ -2,7 +2,6 @@
 active: true
 articles:
   - Our Microbial Lives - table-ronde 2
-createdAt: '2022-09-21T08:08:29.808Z'
 exerpt: ''
 firstname: Sabine
 issue:
@@ -31,7 +30,6 @@ tags:
   - Medicine
   - Microbe
   - Technology and Medicine
-
 years:
   - 2021
 

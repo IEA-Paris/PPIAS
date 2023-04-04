@@ -1,20 +1,23 @@
 ---
 active: true
 articles:
-  - conclusion-et-cloture
-  - introduction
-createdAt: '2022-11-10T08:35:33.251Z'
+  - RES_2020_02_Opening
 exerpt: ''
 firstname: Youssef
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
-language:
+language: null
 lastname: Diab
 positions_and_institutions:
   - institution: Ecole des ingénieurs de la Ville de Paris (EIVP), France
     positions:
       - ''
+social_channels:
+  researchgate: https://www.researchgate.net/profile/Youssef-Diab-4
+titles_and_institutions:
+  '0':
+    institution: Ecole des Ingénieurs de la Ville de Paris (EIVP), France
 years:
   - 2020
 

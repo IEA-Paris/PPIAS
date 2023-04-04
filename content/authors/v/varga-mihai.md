@@ -1,20 +1,21 @@
 ---
 active: true
 articles:
-  - >-
-    the-defenders-of-western-civilization-assembling-europes-transnational-right-wing-network
-createdAt: '2022-11-10T08:35:33.255Z'
+  - INTEL_2022_02_the-defenders-of-western-civilization
 exerpt: ''
 firstname: Mihai
 is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
-language:
+language: null
 lastname: Varga
 positions_and_institutions:
   - institution: Freie Universität Berlin, Germany
     positions:
       - ''
+social_channels:
+  linkedin: https://de.linkedin.com/in/mihai-varga-38b4541a3
+  researchgate: https://www.researchgate.net/profile/Mihai-Varga-2
 years:
   - 2022
 

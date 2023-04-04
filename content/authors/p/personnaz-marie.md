@@ -1,14 +1,13 @@
 ---
 active: true
 articles:
-  - de-la-polarisation-a-la-radicalisation
-createdAt: '2022-11-10T08:35:33.255Z'
+  - MOSCO_2016_13_de-la-polarisation-a-la-radicalisation
 exerpt: ''
 firstname: Marie
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
-language:
+language: null
 lastname: Personnaz
 positions_and_institutions:
   - institution: >-

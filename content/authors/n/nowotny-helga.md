@@ -1,10 +1,7 @@
 ---
 active: true
 articles:
-  - Closing Panel-WPRN21
   - 3.1.1_Nowotny
-  - 9.0_WPRN21_Closing Panel
-createdAt: '2022-09-21T08:08:29.836Z'
 exerpt: ''
 firstname: Helga
 issue:

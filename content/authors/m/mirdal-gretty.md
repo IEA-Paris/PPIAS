@@ -1,11 +1,7 @@
 ---
 active: true
 articles:
-  - introduction-and-welcome
-  - welcome
-  - >-
-    roundtable-1-past-and-present-perpetrators-issues-of-interpretation-and-prevention
-createdAt: '2022-10-10T07:36:28.761Z'
+  - MOSCO_2016_02_welcome
 exerpt: ''
 firstname: Gretty
 is_institution: false
@@ -13,11 +9,15 @@ issue:
   - content/issues/sleep-and-memory.md
   - content/issues/hommage-serge-moscovici.md
   - content/issues/brains-that-pull-the-triggers.md
-language:
+language: null
 lastname: Mirdal
-positions_and_institutions: 
+positions_and_institutions:
   - institution: Paris Institute for Advanced Study
-    positions: []
+    positions:
+      - ''
+titles_and_institutions:
+  '0':
+    institution: Paris Institute for Advanced Study, France
 years:
   - 2019
   - 2016

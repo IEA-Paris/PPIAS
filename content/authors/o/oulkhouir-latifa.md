@@ -2,7 +2,6 @@
 active: true
 articles:
   - 3. 2005 La crise des banlieues
-createdAt: '2022-10-11T08:02:22.077Z'
 exerpt: ''
 firstname: Latifa
 is_institution: false

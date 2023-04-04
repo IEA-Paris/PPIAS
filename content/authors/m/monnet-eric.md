@@ -2,7 +2,6 @@
 active: true
 articles:
   - 2_2008-2020 Qu a-t-on appris des crises economiques et financieres
-createdAt: '2022-10-18T12:26:58.790Z'
 exerpt: ''
 firstname: Éric
 is_institution: false
@@ -13,6 +12,8 @@ language:
 lastname: Monnet
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - EHESS, France
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=7CzHDrkAAAAJ&hl=fr
   instagram: ''
@@ -23,9 +24,6 @@ social_channels:
   twitter: '@MonnetEric'
   website: https://www.ericmonnet.eu/
   wikipedia: ''
-positions_and_institutions:
-  - EHESS, France
-
 years:
   - 2022
 

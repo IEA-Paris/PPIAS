@@ -1,20 +1,22 @@
 ---
 active: true
 articles:
-  - >-
-    re-enchanting-the-soviet-modernity-russian-modernist-conservatives-and-the-spiritualization-of-technology-in-the-1970s
-createdAt: '2022-11-10T08:35:33.255Z'
+  - INTEL_2022_10_re-enchanting-the-soviet-modernity
 exerpt: ''
 firstname: Juliette
 is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
-language:
+language: null
 lastname: Faure
 positions_and_institutions:
   - institution: Sciences Po, CERI, France
     positions:
       - ''
+social_channels:
+  linkedin: https://www.linkedin.com/in/juliette-faure-0607b796
+  researchgate: https://www.researchgate.net/profile/Juliette-Faure
+  twitter: '@jul_faure'
 years:
   - 2022
 
