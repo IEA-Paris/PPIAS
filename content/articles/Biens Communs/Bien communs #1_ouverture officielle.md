@@ -5,9 +5,9 @@ keywords: []
 date: 2023-03-15T17:00:52Z
 language: French
 disciplines: ''
-published: false
+published: true
 doi: ''
-article_title: Les Biens communs, tragédie ou utopie réaliste ?
+article_title: Les Bien(s) commun(s), tragédie ou utopie réaliste ?
 authors:
 - firstname: 'Olivier '
   lastname: Poivre d’Arvor
