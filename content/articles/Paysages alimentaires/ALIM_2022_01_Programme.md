@@ -2,7 +2,7 @@
 needDOI: true
 issue: content/issues/paysages-alimentaires.md
 keywords: []
-date: 2022-06-19T23:00:00Z
+date: 2022-06-19T23:00:00.000+00:00
 language: French
 disciplines: ''
 published: true
@@ -76,7 +76,7 @@ authors:
     mendeley: ''
 custom_pdf: ''
 abstract: 'Paysages alimentaires conviviaux : pour aller au-delà de la durabilité
-  alimentaire, IEA de Paris, 20-21 juin 2022 - Introduction'
+  alimentaire, IEA de Paris, 20-21 juin 2022 - Programme'
 sub-issue: ''
 picture: ''
 picture_copyright: ''
