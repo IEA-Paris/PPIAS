@@ -2,7 +2,7 @@
 needDOI: true
 issue: content/issues/paysages-alimentaires.md
 keywords: []
-date: 2022-06-20T01:00:29Z
+date: 2022-06-20T01:00:29.000+00:00
 language: French
 disciplines: ''
 published: true
@@ -32,7 +32,7 @@ authors:
   lastname: Kyung
   positions_and_institutions:
   - positions: []
-    institution: ''
+    institution: Mango éditions, France
   social_channels:
     instagram: "@luna_kyung_"
     website: http://etrangerecuisine.canalblog.com/
