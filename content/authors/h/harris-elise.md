@@ -5,7 +5,11 @@ articles:
 exerpt: ''
 firstname: Elise
 is_institution: false
+issue:
+  - content/issues/identity-from-double-to-avatar.md
 issues: []
+language:
+  - English
 lastname: Harris
 picture: ''
 picture_copyright: ''
@@ -26,5 +30,7 @@ titles_and_institutions:
   '0':
     institution: Université Paris Diderot, France
     positions: []
+years:
+  - 2018
 
 ---

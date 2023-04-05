@@ -9,7 +9,11 @@ articles:
 exerpt: ''
 firstname: JM
 is_institution: false
+issue:
+  - content/issues/brains-that-pull-the-triggers.md
 issues: []
+language:
+  - English
 lastname: Berger
 positions_and_institutions:
   - institution: International Center for Counter-Terrorism, Netherlands
@@ -22,5 +26,7 @@ social_channels:
 titles_and_institutions:
   '0':
     institution: International Center for Counter-Terrorism, Netherlands
+years:
+  - 2017
 
 ---

@@ -10,8 +10,10 @@ article_title: >-
 authors:
   - firstname: ''
     lastname: Institut d'études avancées de Paris, France
+    is_institution: true
   - firstname: ''
     lastname: Ecole normale Supérieure Paris, France
+    is_institution: true
 date: 2022-02-17T00:00:00.000Z
 highlight: false
 issue: content/issues/virtual-realities.md
@@ -20,7 +22,6 @@ needDOI: false
 published: true
 subissue: false
 yt: false
-
 ---
 
 ### Program

@@ -5,7 +5,11 @@ articles:
 exerpt: ''
 firstname: Christophe
 is_institution: false
+issue:
+  - content/issues/paysages-alimentaires.md
 issues: []
+language:
+  - French
 lastname: Lavelle
 picture: ''
 picture_copyright: ''
@@ -22,5 +26,7 @@ social_channels:
   twitter: '@kristoflav'
   website: ''
   wikipedia: ''
+years:
+  - 2022
 
 ---

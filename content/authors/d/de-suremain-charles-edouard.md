@@ -5,7 +5,11 @@ articles:
 exerpt: ''
 firstname: Charles-Édouard
 is_institution: false
+issue:
+  - content/issues/paysages-alimentaires.md
 issues: []
+language:
+  - French
 lastname: de Suremain
 picture: ''
 picture_copyright: ''
@@ -22,5 +26,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+years:
+  - 2022
 
 ---

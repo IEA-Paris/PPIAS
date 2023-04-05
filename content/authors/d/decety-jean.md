@@ -5,7 +5,11 @@ articles:
 exerpt: ''
 firstname: Jean
 is_institution: false
+issue:
+  - content/issues/guest_lectures.md
 issues: []
+language:
+  - French
 lastname: Decety
 picture: ''
 picture_copyright: ''
@@ -22,5 +26,7 @@ social_channels:
   twitter: '@Decety'
   website: ''
   wikipedia: https://fr.wikipedia.org/wiki/Jean_Decety
+years:
+  - 2023
 
 ---

@@ -5,12 +5,16 @@ articles:
 exerpt: ''
 firstname: Luna
 is_institution: false
+issue:
+  - content/issues/paysages-alimentaires.md
 issues: []
+language:
+  - French
 lastname: Kyung
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: ''
+  - institution: Mango éditions, France
     positions: []
 social_channels:
   google_scholar: ''
@@ -22,5 +26,7 @@ social_channels:
   twitter: ''
   website: http://etrangerecuisine.canalblog.com/
   wikipedia: ''
+years:
+  - 2022
 
 ---

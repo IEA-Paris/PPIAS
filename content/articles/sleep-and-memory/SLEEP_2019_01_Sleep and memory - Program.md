@@ -5,7 +5,7 @@ abstract: Sleep and Memory. Paris IAS, 6-7 June 2019 - Program
 article_title: Sleep and Memory - Program
 authors:
   - firstname: ''
-    is_institution: false
+    is_institution: true
     lastname: Institut d'études avancées de Paris, France
     picture: ''
     picture_copyright: ''

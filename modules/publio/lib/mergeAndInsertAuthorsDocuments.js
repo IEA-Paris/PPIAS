@@ -9,6 +9,11 @@ export default async (authors = [], articles, content) => {
     let authorsDocuments = await content('authors', { deep: true })
       // .only(['slug']) //TODO complete with only required fields
       .fetch()
+    console.log(
+      'LAVILLE",',
+      authors.find((author) => author.lastname.toUpperCase() === 'LAVILLE')
+    )
+    console.log('authors1: ', authors.length)
 
     // extract the authors from articles with backlink
     const { first, second } = filterAndMerge(authors, authorsDocuments)
@@ -16,9 +21,11 @@ export default async (authors = [], articles, content) => {
     // TODO: come up with a global approach for non destructive merge,
     // that could explicitely removed papers that were published but are not anymore
     // or X other reason why it should be marked as from this author anymore)
-    const { third, fourth } = filterAndMerge(first, first)
-
-    authorsDocuments = [...(third || []), ...(second || [])]
+    console.log(
+      'LAVILLE2",',
+      first.find((author) => author.lastname.toUpperCase() === 'LAVILLE')
+    )
+    authorsDocuments = [...(first || []), ...(second || [])]
 
     authorsDocuments = authorsDocuments.map((item) => {
       delete item.createdAt

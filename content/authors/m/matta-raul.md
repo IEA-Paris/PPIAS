@@ -5,7 +5,11 @@ articles:
 exerpt: ''
 firstname: Raúl
 is_institution: false
+issue:
+  - content/issues/paysages-alimentaires.md
 issues: []
+language:
+  - French
 lastname: Matta
 picture: ''
 picture_copyright: ''
@@ -24,5 +28,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+years:
+  - 2022
 
 ---

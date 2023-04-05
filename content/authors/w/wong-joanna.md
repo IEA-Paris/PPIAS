@@ -5,7 +5,11 @@ articles:
 exerpt: ''
 firstname: Joanna
 is_institution: false
+issue:
+  - content/issues/paysages-alimentaires.md
 issues: []
+language:
+  - French
 lastname: Wong
 picture: ''
 picture_copyright: ''
@@ -22,5 +26,7 @@ social_channels:
   twitter: '@joannayellow'
   website: https://joannawong.fr/about/
   wikipedia: ''
+years:
+  - 2022
 
 ---

@@ -10,7 +10,6 @@ import referenceRegex from './referenceRegex'
 /* import { Repository, Tree, Diff } from 'nodegit' */
 import slugify from './slugify'
 import { formatAuthors } from './transforms'
-import diacriticsMap from './diacriticsMap'
 export const _conflicts = []
 const fieldsToDelete = [
   'slug',
@@ -223,6 +222,18 @@ export const filterAndMerge = (first, second) => {
     // does it have the same firstname/lastname than a doc author?
     const referencedDocIndex = second.findIndex((doc) => {
       if (doc.is_institution && author.is_institution) {
+        if (author.lastname === 'Ecole normale Supérieure Paris, France') {
+          console.log(
+            author?.lastname.trim().toLowerCase() +
+              ' vs ' +
+              doc?.lastname.trim().toLowerCase() +
+              'is' +
+              (author.lastname &&
+                doc.lastname &&
+                author?.lastname.trim().toLowerCase() ===
+                  doc?.lastname.trim().toLowerCase())
+          )
+        }
         return (
           author.lastname &&
           doc.lastname &&
@@ -337,9 +348,6 @@ export const generateChecksum = (str, algorithm, encoding) => {
 export const cleanupString = (str) =>
   str
     ? str
-        .replace(/[^A-Za-z0-9\s]+/g, function (a) {
-          return diacriticsMap[a] || a
-        })
         .replace(/[\u2018\u2019]/g, "'")
         .replace(/[\u201C\u201D]/g, '"')
         .replace('<br>', ' ')
@@ -435,7 +443,7 @@ ${markdown || ''}`
 export const batchInsertArticles = (data) => {
   try {
     data.forEach((article) => {
-      console.log('article: ', article.article_title)
+      /*       console.log('article: ', article.article_title) */
 
       // start by creating the folder if it doesn't exist
       const folderPath =
@@ -521,11 +529,11 @@ export const insertDocuments = (data, cat, filenameFlag) => {
     const filteredDoc = Object.fromEntries(
       Object.entries(doc).filter(([k]) => !fieldsToDelete.includes(k))
     )
-    const firstPart = cleanupString(doc[filenameFlag[0]])
-    const secondPart = cleanupString(doc[filenameFlag[1]])
     let fileName = slugify(
-      firstPart +
-        (secondPart && secondPart.length ? '_' + secondPart || '' : '')
+      doc[filenameFlag[0]] +
+        (doc[filenameFlag[1]] && doc[filenameFlag[1]].length
+          ? '_' + doc[filenameFlag[1]] || ''
+          : '')
     )
     /*     console.log('fileName: ', fileName)
 

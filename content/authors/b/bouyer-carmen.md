@@ -5,7 +5,11 @@ articles:
 exerpt: ''
 firstname: Carmen
 is_institution: false
+issue:
+  - content/issues/paysages-alimentaires.md
 issues: []
+language:
+  - French
 lastname: Bouyer
 picture: ''
 picture_copyright: ''
@@ -23,5 +27,7 @@ social_channels:
   twitter: ''
   website: https://www.carmenbouyer.com/
   wikipedia: ''
+years:
+  - 2022
 
 ---

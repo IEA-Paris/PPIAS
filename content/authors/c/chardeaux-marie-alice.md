@@ -1,32 +1,31 @@
 ---
 active: true
 articles:
-  - ALIM_2022_03_table-ronde1
+  - Bien communs_1_ouverture officielle
 exerpt: ''
-firstname: Noémie
+firstname: Marie-Alice
 is_institution: false
 issue:
-  - content/issues/paysages-alimentaires.md
-issues: []
+  - content/issues/biens-communus.md
 language:
   - French
-lastname: Sauve
+lastname: Chardeaux
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: TALM-Le Mans, France
+  - institution: Université Paris-Est Créteil, France
     positions: []
 social_channels:
   google_scholar: ''
-  instagram: '@noemie_sauve'
-  linkedin: ''
+  instagram: ''
+  linkedin: https://fr.linkedin.com/in/marie-alice-chardeaux-46258899
   mendeley: ''
   orcid: ''
   researchgate: ''
   twitter: ''
-  website: https://noemiesauve.com/
+  website: ''
   wikipedia: ''
 years:
-  - 2022
+  - 2023
 
 ---

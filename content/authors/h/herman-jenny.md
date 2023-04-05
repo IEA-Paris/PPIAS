@@ -5,7 +5,11 @@ articles:
 exerpt: ''
 firstname: Jenny
 is_institution: false
+issue:
+  - content/issues/paysages-alimentaires.md
 issues: []
+language:
+  - French
 lastname: Herman
 picture: ''
 picture_copyright: ''
@@ -23,5 +27,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+years:
+  - 2022
 
 ---

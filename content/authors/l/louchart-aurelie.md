@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - Memorandum 12 - Memorandum_10 - Memorandum 13 - Memorandum 14
+  - Memorandum 10
   - Memorandum 12
   - Memorandum 13
   - Memorandum 14
@@ -29,7 +29,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_institutions: []
 years:
   - 2021
   - 2022

@@ -5,7 +5,11 @@ articles:
 exerpt: ''
 firstname: Samuel
 is_institution: false
+issue:
+  - content/issues/paysages-alimentaires.md
 issues: []
+language:
+  - French
 lastname: Chabré
 picture: ''
 picture_copyright: ''
@@ -22,5 +26,7 @@ social_channels:
   twitter: ''
   website: https://societe-nouvelle.com/
   wikipedia: ''
+years:
+  - 2022
 
 ---

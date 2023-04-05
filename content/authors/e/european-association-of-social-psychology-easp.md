@@ -5,7 +5,13 @@ articles:
 exerpt: ''
 firstname: ''
 is_institution: true
+issue:
+  - content/issues/hommage-serge-moscovici.md
 issues: []
+language:
+  - English
 lastname: European Association of Social Psychology (EASP)
+years:
+  - 2016
 
 ---

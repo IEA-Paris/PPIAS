@@ -1,32 +1,31 @@
 ---
 active: true
 articles:
-  - ALIM_2022_03_table-ronde1
+  - Bien communs_1_ouverture officielle
 exerpt: ''
-firstname: Noémie
+firstname: Jessica
 is_institution: false
 issue:
-  - content/issues/paysages-alimentaires.md
-issues: []
+  - content/issues/biens-communus.md
 language:
   - French
-lastname: Sauve
+lastname: Makowiak
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: TALM-Le Mans, France
+  - institution: CRIDEAU - Université de Limoges, France
     positions: []
 social_channels:
   google_scholar: ''
-  instagram: '@noemie_sauve'
-  linkedin: ''
+  instagram: ''
+  linkedin: https://fr.linkedin.com/in/jessica-makowiak-5843b6aa
   mendeley: ''
   orcid: ''
   researchgate: ''
   twitter: ''
-  website: https://noemiesauve.com/
+  website: ''
   wikipedia: ''
 years:
-  - 2022
+  - 2023
 
 ---

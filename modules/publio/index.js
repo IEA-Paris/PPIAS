@@ -205,7 +205,14 @@ export default function (moduleOptions) {
       authors = [
         ...(authors || []),
         ...(article.authors.map((author) => {
-          return { ...author, articles: [article.slug] }
+          return {
+            ...author,
+            articles: [article.slug],
+            tags: article.tags,
+            years: [article.years],
+            issue: [...(article.issue ? [article.issue] : [])].flat(),
+            language: [article.language],
+          }
         }) || []),
       ]
       media = [...(media || []), ...extractAndGenerateMedia(article)]

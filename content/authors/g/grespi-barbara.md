@@ -5,7 +5,11 @@ articles:
 exerpt: ''
 firstname: Barbara
 is_institution: false
+issue:
+  - content/issues/identity-from-double-to-avatar.md
 issues: []
+language:
+  - English
 lastname: Grespi
 picture: ''
 picture_copyright: ''
@@ -26,5 +30,7 @@ titles_and_institutions:
   '0':
     institution: Università di Bergamo, Italy
     positions: []
+years:
+  - 2018
 
 ---

@@ -59,7 +59,7 @@ authors:
     researchgate: ''
     mendeley: ''
 - lastname: UMR 208 PALOC, France
-  is_institution: false
+  is_institution: true
   firstname: ''
   positions_and_institutions: []
   picture: ''

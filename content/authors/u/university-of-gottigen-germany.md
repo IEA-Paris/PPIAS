@@ -5,7 +5,11 @@ articles:
 exerpt: ''
 firstname: ''
 is_institution: true
+issue:
+  - content/issues/paysages-alimentaires.md
 issues: []
+language:
+  - French
 lastname: University of Göttigen, Germany
 picture: ''
 picture_copyright: ''
@@ -20,5 +24,7 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
+years:
+  - 2022
 
 ---

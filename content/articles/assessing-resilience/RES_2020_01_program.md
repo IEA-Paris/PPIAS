@@ -9,7 +9,7 @@ article_title: >-
   Program
 authors:
   - firstname: ''
-    is_institution: false
+    is_institution: true
     lastname: Institut d'études avancées de Paris, France
     picture: ''
     picture_copyright: ''
@@ -25,7 +25,7 @@ authors:
       website: ''
       wikipedia: ''
   - firstname: ''
-    is_institution: false
+    is_institution: true
     lastname: École des Ingénieurs de la Ville de Paris (EIVP), France
     picture: ''
     picture_copyright: ''

@@ -6,8 +6,10 @@ article_title: Justice and Climate Transitions - Program
 authors:
   - firstname: ''
     lastname: University of New South Wales, Sydney, Australia
+    is_institution: true
   - firstname: ''
     lastname: Institut d'études avancées de Paris, France
+    is_institution: true
 date: 2015-09-23T23:00:00.000Z
 highlight: false
 issue: content/issues/justice-climate-transitions.md

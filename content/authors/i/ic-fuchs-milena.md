@@ -1,19 +1,20 @@
 ---
 active: true
 articles:
-  - ALIM_2022_01_Programme
+  - 2.0.1_Zic-Fuchs
 exerpt: ''
-firstname: ''
-is_institution: true
+firstname: Milena
 issue:
-  - content/issues/paysages-alimentaires.md
-issues: []
+  - content/issues/HCERES - PFUE 2022.md
 language:
-  - French
-lastname: UMR 208 PALOC, France
+  - English
+lastname: Žic Fuchs
 picture: ''
 picture_copyright: ''
-positions_and_institutions: []
+positions_and_institutions:
+  - institution: ' Faculty of Humanities and Social Sciences, University of Zagreb, Croatie'
+    positions: []
+reference: ''
 social_channels:
   google_scholar: ''
   instagram: ''

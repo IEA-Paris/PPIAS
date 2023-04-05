@@ -4,7 +4,11 @@ articles:
   - MOSCO_2016_08_minorities-meanings-and-the-structure-of-group-influence
 exerpt: ''
 firstname: Wendy
+issue:
+  - content/issues/hommage-serge-moscovici.md
 issues: []
+language:
+  - English
 lastname: Wood
 positions_and_institutions:
   - institution: University of Southern California, USA
@@ -15,5 +19,7 @@ social_channels:
   orcid: 0000-0002-6117-558X
   researchgate: https://www.researchgate.net/profile/Wendy-Wood-7
   wikipedia: https://en.wikipedia.org/wiki/Wendy_Wood_(psychologist)
+years:
+  - 2016
 
 ---

@@ -5,7 +5,11 @@ articles:
 exerpt: ''
 firstname: Abram
 is_institution: false
+issue:
+  - content/issues/brains-that-pull-the-triggers.md
 issues: []
+language:
+  - English
 lastname: De Swann
 positions_and_institutions:
   - institution: University of Amsterdam, Netherlands
@@ -19,5 +23,7 @@ social_channels:
 titles_and_institutions:
   '0':
     institution: University of Amsterdam, Netherlands
+years:
+  - 2017
 
 ---

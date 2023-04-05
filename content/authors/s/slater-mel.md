@@ -39,5 +39,6 @@ titles_and_institutions:
     positions: []
 years:
   - 2018
+  - 2022
 
 ---

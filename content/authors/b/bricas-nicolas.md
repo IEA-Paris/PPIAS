@@ -5,7 +5,11 @@ articles:
 exerpt: ''
 firstname: Nicolas
 is_institution: false
+issue:
+  - content/issues/paysages-alimentaires.md
 issues: []
+language:
+  - French
 lastname: Bricas
 picture: ''
 picture_copyright: ''
@@ -22,5 +26,7 @@ social_channels:
   twitter: '@NicolasBricas'
   website: ''
   wikipedia: ''
+years:
+  - 2022
 
 ---
