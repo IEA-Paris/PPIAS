@@ -2,7 +2,7 @@
 needDOI: true
 issue: content/issues/biens-communus.md
 keywords: []
-date: 2023-03-15T17:00:52Z
+date: 2023-03-15T17:00:52.000+00:00
 language: French
 disciplines: ''
 published: true
@@ -12,8 +12,6 @@ authors:
 - firstname: 'Olivier '
   lastname: Poivre d’Arvor
   positions_and_institutions:
-  - positions: []
-    institution: Ministère de l'Europe et des Affaires étrangères, France
   - positions: []
     institution: Ministère de l'Europe et des Affaires étrangères, France
   social_channels:
