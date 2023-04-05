@@ -37,8 +37,12 @@ sections:
 - type: heading
   label: Website
 - type: document
-  path: content/pages/about.md
-  label: About Us
+  path: content/pages/en/about.md
+  label: About Us EN
+- type: document
+  path: content/pages/fr/about.md
+  label: About Us FR
+  match: "**/*"
 - type: document
   path: content/pages/pressroom.md
   label: Press Room
