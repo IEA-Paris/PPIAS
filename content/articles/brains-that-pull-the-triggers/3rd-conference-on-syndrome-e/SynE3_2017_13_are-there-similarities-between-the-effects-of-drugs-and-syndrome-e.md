@@ -18,16 +18,12 @@ authors:
       google_scholar: https://scholar.google.com/citations?user=LUTMosAAAAAJ&hl=fr
       linkedin: https://fr.linkedin.com/in/jean-pol-tassin-305398143
       orcid: 0000-0001-6658-9581
-    titles_and_institutions:
-      - institution: Collège de France, France
 date: 2017-05-11T11:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 sub-issue: 3rd Conference on Syndrome E
 subissue: 3rd Conference on Syndrome E
 yt: mgmgwjmg4fM

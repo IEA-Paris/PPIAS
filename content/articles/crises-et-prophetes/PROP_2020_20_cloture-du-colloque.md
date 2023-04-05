@@ -19,8 +19,6 @@ issue: content/issues/crises-et-prophetes.md
 language: French
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: 4iDyzZiiIu0
 

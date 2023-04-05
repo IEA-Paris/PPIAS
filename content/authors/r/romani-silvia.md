@@ -7,6 +7,7 @@ firstname: Silvia
 is_institution: false
 issue:
   - content/issues/identity-from-double-to-avatar.md
+issues: []
 language: null
 lastname: Romani
 positions_and_institutions:

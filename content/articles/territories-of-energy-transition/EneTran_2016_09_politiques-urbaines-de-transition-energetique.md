@@ -16,8 +16,6 @@ authors:
     social_channels:
       linkedin: https://fr.linkedin.com/in/olivier-coutard-9055368a
       researchgate: https://www.researchgate.net/profile/Olivier-Coutard
-    titles_and_institutions:
-      - institution: CNRS, France
 date: 2016-05-23T07:00:00.000Z
 highlight: false
 issue: content/issues/territories-of-energy-transition.md

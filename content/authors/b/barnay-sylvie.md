@@ -7,6 +7,7 @@ firstname: Sylvie
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
+issues: []
 language: null
 lastname: Barnay
 positions_and_institutions:

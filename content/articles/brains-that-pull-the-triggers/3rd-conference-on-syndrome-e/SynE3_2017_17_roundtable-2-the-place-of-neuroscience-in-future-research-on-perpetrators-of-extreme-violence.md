@@ -15,8 +15,6 @@ authors:
       - institution: Collège de France, France
         positions:
           - ''
-    titles_and_institutions:
-      - institution: Collège de France, France
   - firstname: 'Itzhak '
     is_institution: false
     lastname: Fried
@@ -24,25 +22,20 @@ authors:
       - institution: UCLA, USA / Université de Tel-Aviv, Israël
         positions:
           - ''
-    titles_and_institutions:
-      - institution: Paris Institute for Advanced Study, France
-      - institution: University of California Los Angeles, USA
   - firstname: ' Etienne '
     is_institution: false
     lastname: Koechlin
     positions_and_institutions:
-      - institution: ENS Paris, France
+      - institution: Ecole Normale Supérieure Paris, France
         positions:
           - ''
-    titles_and_institutions:
-      - institution: Ecole Normale Supérieure Paris, France
   - firstname: 'Tania '
     lastname: Singer
-    titles_and_institutions:
+    positions_and_institutions:
       - institution: Max Planck Institute for Human cognitive and Brain Sciences, Germany
   - firstname: 'Edmund '
     lastname: Rolls
-    titles_and_institutions:
+    positions_and_institutions:
       - institution: Oxford Centre for Computational Neuroscience, United Kingdom
 date: 2017-05-11T15:00:00.000Z
 highlight: false
@@ -50,8 +43,6 @@ issue: content/issues/brains-that-pull-the-triggers.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 sub-issue: 3rd Conference on Syndrome E
 subissue: 3rd Conference on Syndrome E
 yt: RjpjfM64mdk

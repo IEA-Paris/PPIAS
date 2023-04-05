@@ -19,16 +19,12 @@ authors:
       google_scholar: https://scholar.google.com/citations?user=E9ZPY58AAAAJ&hl=en
       linkedin: https://www.linkedin.com/in/jmberger1
       website: https://www.jmberger.com/home
-    titles_and_institutions:
-      - institution: International Center for Counter-Terrorism, Netherlands
 date: 2017-05-10T05:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 sub-issue: 3rd Conference on Syndrome E
 subissue: 3rd Conference on Syndrome E
 yt: HUebLvyWAkI

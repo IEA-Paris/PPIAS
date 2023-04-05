@@ -19,8 +19,6 @@ authors:
       orcid: 0000-0002-1558-7081
       researchgate: https://www.researchgate.net/profile/Stephen-Hall-35
       twitter: '@DocSteveHall'
-    titles_and_institutions:
-      - institution: Leeds University, United Kingdom
 bibliography: /documents-exportes_enetran1.bib
 date: 2016-05-23T02:00:00.000Z
 highlight: false

@@ -8,12 +8,12 @@ article_title: The Brains that Pull the Triggers -  2nd Conference on Syndrome E
 authors:
   - firstname: Itzhak
     lastname: Fried
-    titles_and_institutions:
+    positions_and_institutions:
       - institution: Paris Institute for Advanced Study, France
       - institution: University of California Los Angeles, USA
   - firstname: 'Alain '
     lastname: Berthoz
-    titles_and_institutions:
+    positions_and_institutions:
       - institution: Collège de France, France
 custom_pdf: /affiche_syndrome-e-ptt.jpg
 date: 2016-05-08T23:00:00.000Z
@@ -22,8 +22,6 @@ issue: content/issues/brains-that-pull-the-triggers.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 sub-issue: 2nd Conference  on Syndrome E
 subissue: 2nd Conference  on Syndrome E
 yt: false

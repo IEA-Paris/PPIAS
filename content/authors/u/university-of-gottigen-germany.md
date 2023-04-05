@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: ''
 is_institution: true
+issues: []
 lastname: University of Göttigen, Germany
 picture: ''
 picture_copyright: ''

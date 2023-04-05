@@ -26,8 +26,6 @@ keywords:
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: P_e8xmyoCkk
 

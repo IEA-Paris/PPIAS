@@ -1,12 +1,17 @@
 ---
 active: true
 articles:
+  - >-
+    PROP_2020_04_une-societe-a-les-prophetes-quelle-merite -
+    PROP_2020_06_discussion
   - PROP_2020_04_une-societe-a-les-prophetes-quelle-merite
+  - PROP_2020_06_discussion
 exerpt: ''
 firstname: Emmanuelle
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
+issues: []
 language: null
 lastname: Danblon
 positions_and_institutions:

@@ -7,6 +7,7 @@ firstname: Antonio
 is_institution: false
 issue:
   - content/issues/sleep-and-memory.md
+issues: []
 language: null
 lastname: Perciaccante
 positions_and_institutions:

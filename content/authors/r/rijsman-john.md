@@ -8,6 +8,7 @@ firstname: John
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
+issues: []
 language: null
 lastname: Rijsman
 positions_and_institutions:

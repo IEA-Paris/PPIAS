@@ -1,12 +1,17 @@
 ---
 active: true
 articles:
+  - >-
+    SynE3_2017_12_brains-on-drugs -
+    SynE3_2017_16_roundtable-1-past-and-present-perpetrators
   - SynE3_2017_12_brains-on-drugs
+  - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
 exerpt: ''
 firstname: Norman
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
+issues: []
 language: null
 lastname: OHLER
 positions_and_institutions:

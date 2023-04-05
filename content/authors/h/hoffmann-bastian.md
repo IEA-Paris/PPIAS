@@ -7,6 +7,7 @@ firstname: Bastian
 is_institution: false
 issue:
   - content/issues/territories-of-energy-transition.md
+issues: []
 language: null
 lastname: Hoffmann
 positions_and_institutions:

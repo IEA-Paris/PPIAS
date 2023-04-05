@@ -51,8 +51,6 @@ issue: content/issues/intellectuals-against-democracy.md
 language: French
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: hCV9Hl37k2M
 

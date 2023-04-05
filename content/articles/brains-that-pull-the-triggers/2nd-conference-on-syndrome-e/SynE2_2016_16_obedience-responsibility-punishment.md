@@ -15,16 +15,12 @@ authors:
           - ''
     social_channels:
       linkedin: https://nl.linkedin.com/in/xabier-agirre-aranburu-3a3389a
-    titles_and_institutions:
-      - institution: International Criminal Court, Netherlands
 date: 2016-05-10T15:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 sub-issue: 2nd Conference on Syndrome E
 subissue: 2nd Conference  on Syndrome E
 yt: fm0_SzVQPNU

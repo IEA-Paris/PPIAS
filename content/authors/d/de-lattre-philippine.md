@@ -7,6 +7,7 @@ firstname: Philippine
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+issues: []
 language: null
 lastname: de Lattre
 positions_and_institutions:

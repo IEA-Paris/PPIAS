@@ -8,6 +8,7 @@ firstname: Fabio
 is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
+issues: []
 language: null
 lastname: De Sa E Silva
 positions_and_institutions:

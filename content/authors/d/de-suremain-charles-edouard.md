@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Charles-Édouard
 is_institution: false
+issues: []
 lastname: de Suremain
 picture: ''
 picture_copyright: ''

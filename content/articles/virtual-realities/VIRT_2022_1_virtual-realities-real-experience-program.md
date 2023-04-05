@@ -9,7 +9,7 @@ article_title: >-
   Neuroscience Studies - Program
 authors:
   - firstname: ''
-    lastname: Paris Institute for Advanced Study, France
+    lastname: Institut d'études avancées de Paris, France
   - firstname: ''
     lastname: Ecole normale Supérieure Paris, France
 date: 2022-02-17T00:00:00.000Z
@@ -18,8 +18,6 @@ issue: content/issues/virtual-realities.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: false
 

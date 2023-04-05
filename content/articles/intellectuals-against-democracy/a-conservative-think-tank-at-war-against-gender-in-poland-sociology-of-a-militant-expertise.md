@@ -18,8 +18,7 @@ highlight: false
 issue: content/issues/intellectuals-against-democracy.md
 needDOI: false
 published: false
-start: false
-stop: false
+
 subissue: false
 yt: 7uyHX_4aOkg
 language: English

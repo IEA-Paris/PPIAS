@@ -37,8 +37,6 @@ issue: content/issues/hommage-serge-moscovici.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: cJwJdOVLJx0
 

@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: ''
 is_institution: false
+issues: []
 lastname: École des Ingénieurs de la Ville de Paris (EIVP), France
 picture: ''
 picture_copyright: ''

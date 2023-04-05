@@ -7,6 +7,7 @@ firstname: Catherine
 is_institution: false
 issue:
   - content/issues/justice-climate-transitions.md
+issues: []
 language:
   - English
 lastname: Larrère

@@ -7,6 +7,7 @@ firstname: Géraldine
 is_institution: false
 issue:
   - content/issues/sleep-and-memory.md
+issues: []
 language: null
 lastname: Rauchs
 positions_and_institutions:

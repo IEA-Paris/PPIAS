@@ -21,16 +21,12 @@ authors:
       twitter: '@dmoulon'
       website: https://www.dominiquemoulon.com/fr/
       wikipedia: https://fr.wikipedia.org/wiki/Dominique_Moulon
-    titles_and_institutions:
-      - institution: Paris, France
 date: 2018-12-13T04:00:00.000Z
 highlight: false
 issue: content/issues/identity-from-double-to-avatar.md
 language: English
 needDOI: true
 published: true
-start: false
-stop: false
 subissue: false
 yt: x83_wi2i5GU
 

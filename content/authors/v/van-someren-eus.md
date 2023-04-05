@@ -7,6 +7,7 @@ firstname: Eus
 is_institution: false
 issue:
   - content/issues/sleep-and-memory.md
+issues: []
 language: null
 lastname: Van Someren
 positions_and_institutions:

@@ -15,22 +15,18 @@ authors:
       - institution: University College of London (UCL), United Kingdom
         positions:
           - ''
+      - institution: Paris Institute for Advanced Study, France
     social_channels:
       google_scholar: https://scholar.google.co.uk/citations?user=NqmgC9gAAAAJ&hl=en
       linkedin: https://uk.linkedin.com/in/haggard-patrick-853041153
       twitter: '@PatrickHaggard'
       wikipedia: https://en.wikipedia.org/wiki/Patrick_Haggard
-    titles_and_institutions:
-      - institution: Paris Institute for Advanced Study, France
-      - institution: University College London, United Kingdom
 date: 2016-05-10T13:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 sub-issue: 2nd Conference on Syndrome E
 subissue: 2nd Conference  on Syndrome E
 yt: gj1kLdG9ER8

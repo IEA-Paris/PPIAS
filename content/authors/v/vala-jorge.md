@@ -5,6 +5,7 @@ articles:
     MOSCO_2016_10_validation-of-everyday-knowledge-the-role-of-consensus-and-perceived-heterogeneity
 exerpt: ''
 firstname: Jorge
+issues: []
 lastname: Vala
 positions_and_institutions:
   - institution: Instituto de Ciências Sociais, Universidade de Lisboa, Portugal

@@ -7,6 +7,7 @@ firstname: Christopher
 is_institution: false
 issue:
   - content/issues/Conferences.md
+issues: []
 language:
   - English
 lastname: Sorensen

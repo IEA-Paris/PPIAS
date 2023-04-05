@@ -19,8 +19,6 @@ authors:
       linkedin: https://fr.linkedin.com/in/marie-d%C3%A9gremont-32b54232/fr
       researchgate: https://www.researchgate.net/profile/Marie-Degremont
       twitter: '@MDegremont'
-    titles_and_institutions:
-      - institution: Sciences Po, France
 date: 2016-05-23T04:00:00.000Z
 highlight: false
 issue: content/issues/territories-of-energy-transition.md

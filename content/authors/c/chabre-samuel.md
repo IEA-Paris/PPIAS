@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Samuel
 is_institution: false
+issues: []
 lastname: Chabré
 picture: ''
 picture_copyright: ''

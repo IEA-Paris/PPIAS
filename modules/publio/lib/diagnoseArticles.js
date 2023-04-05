@@ -27,6 +27,8 @@ export default async (articles) => {
     const hasPDF = fs.existsSync(
       path.resolve('static/pdfs', article.slug + '.pdf')
     )
+    if (article.slug === 'SynE2_2016_16_obedience-responsibility-punishment')
+      console.log('article: ', article)
     article.todo = {
       gitDiffed: diffed,
       generatePDF: diffed || !hasPDF || false,

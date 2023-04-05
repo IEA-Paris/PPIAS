@@ -18,16 +18,12 @@ authors:
       google_scholar: https://scholar.google.com/citations?user=4jnrVhoAAAAJ&hl=en
       researchgate: https://www.researchgate.net/profile/Susan-Fiske
       wikipedia: https://en.wikipedia.org/wiki/Susan_Fiske
-    titles_and_institutions:
-      - institution: Princeton University, USA
 date: 2017-05-10T01:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 sub-issue: 3rd Conference on Syndrome E
 subissue: 3rd Conference on Syndrome E
 yt: c9xH7OXiv6s

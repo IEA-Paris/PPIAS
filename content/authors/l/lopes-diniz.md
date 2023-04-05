@@ -8,6 +8,7 @@ firstname: Diniz
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
+issues: []
 language: null
 lastname: Lopes
 positions_and_institutions:

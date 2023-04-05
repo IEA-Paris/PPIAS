@@ -7,6 +7,7 @@ firstname: Nikos
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
+issues: []
 language: null
 lastname: Kalampalikis
 positions_and_institutions:

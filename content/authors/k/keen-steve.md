@@ -7,6 +7,7 @@ firstname: Steve
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
+issues: []
 language: null
 lastname: Keen
 positions_and_institutions:

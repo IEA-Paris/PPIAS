@@ -7,6 +7,7 @@ firstname: Thomas
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+issues: []
 language: null
 lastname: Delahais
 positions_and_institutions:

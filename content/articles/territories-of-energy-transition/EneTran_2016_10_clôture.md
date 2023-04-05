@@ -17,16 +17,12 @@ authors:
       linkedin: https://fr.linkedin.com/in/celia-blauel
       twitter: '@Celia_Blauel'
       wikipedia: https://fr.wikipedia.org/wiki/C%C3%A9lia_Blauel
-    titles_and_institutions:
-      - institution: Ville de Paris, France
 date: 2016-05-23T08:00:00.000Z
 highlight: false
 issue: content/issues/territories-of-energy-transition.md
 language: French
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: ChH-UBXV_Zo
 

@@ -17,8 +17,6 @@ authors:
       linkedin: https://fr.linkedin.com/in/dominique-m%C3%A9da-90a51265
       researchgate: https://www.researchgate.net/profile/Dominique-Meda
       wikipedia: https://fr.wikipedia.org/wiki/Dominique_M%C3%A9da
-    titles_and_institutions:
-      - institution: University Paris Dauphine, France
   - firstname: Félicien
     is_institution: false
     lastname: Pagnon
@@ -26,19 +24,16 @@ authors:
       - institution: Université Paris Dauphine, France
         positions:
           - ''
+      - institution: IDDRI, France
     social_channels:
       linkedin: https://fr.linkedin.com/in/f%C3%A9licien-pagnon-17a303146
       researchgate: https://www.researchgate.net/profile/Felicien-Pagnon-2
-    titles_and_institutions:
-      - institution: IDDRI, France
 date: 2020-07-15T03:00:00.000Z
 highlight: false
 issue: content/issues/assessing-resilience.md
 language: French
 needDOI: true
 published: true
-start: false
-stop: false
 subissue: false
 yt: 03nbOE0Sf2s
 

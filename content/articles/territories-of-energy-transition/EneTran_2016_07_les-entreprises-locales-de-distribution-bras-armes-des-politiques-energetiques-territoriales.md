@@ -12,13 +12,11 @@ authors:
     is_institution: false
     lastname: Gabillet
     positions_and_institutions:
-      - institution: LATTS / Université Gustave Eiffel, France
+      - institution: Laboratoire Techniques Territoires et Societes (LATTS) / Université Gustave Eiffel, France
         positions:
           - ''
     social_channels:
       linkedin: https://fr.linkedin.com/in/pauline-gabillet-957b8197
-    titles_and_institutions:
-      - institution: Laboratoire Techniques Territoires et Societes (LATTS), France
 date: 2016-05-23T05:00:00.000Z
 highlight: false
 issue: content/issues/territories-of-energy-transition.md

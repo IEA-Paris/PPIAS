@@ -18,16 +18,12 @@ authors:
       linkedin: https://it.linkedin.com/in/giacomo-rizzolatti-34ba0727
       researchgate: https://www.researchgate.net/profile/Giacomo-Rizzolatti
       wikipedia: https://fr.wikipedia.org/wiki/Giacomo_Rizzolatti
-    titles_and_institutions:
-      - institution: University of Parma, Italy
 date: 2017-05-10T06:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 sub-issue: 3rd Conference on Syndrome E
 subissue: 3rd Conference on Syndrome E
 yt: BeACjlCX_LM

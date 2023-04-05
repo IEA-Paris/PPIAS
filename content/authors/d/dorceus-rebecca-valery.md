@@ -7,6 +7,7 @@ firstname: Rebecca-Valéry
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+issues: []
 language: null
 lastname: Dorcéus
 positions_and_institutions:

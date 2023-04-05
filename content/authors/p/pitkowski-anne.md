@@ -6,6 +6,7 @@ exerpt: ''
 firstname: Anne
 issue:
   - content/issues/Our Microbial Lives.md
+issues: []
 language:
   - French
 lastname: Pitkowski

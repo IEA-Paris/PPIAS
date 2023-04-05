@@ -17,16 +17,12 @@ authors:
       google_scholar: https://scholar.google.com/citations?user=8wmO6l0AAAAJ&hl=en
       researchgate: https://www.researchgate.net/profile/Ken-Paller
       twitter: kap101
-    titles_and_institutions:
-      - institution: Northwestern University, USA
 date: 2016-05-10T14:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 sub-issue: 2nd Conference on Syndrome E
 subissue: 2nd Conference  on Syndrome E
 yt: 4sURCobeP6g

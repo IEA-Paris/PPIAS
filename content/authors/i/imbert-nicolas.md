@@ -7,6 +7,7 @@ firstname: Nicolas
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+issues: []
 language: null
 lastname: Imbert
 positions_and_institutions:

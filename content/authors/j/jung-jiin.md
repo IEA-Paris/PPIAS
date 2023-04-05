@@ -4,6 +4,7 @@ articles:
   - MOSCO_2016_06_contexts-and-conditions-of-outgroup-influence
 exerpt: ''
 firstname: Jiin
+issues: []
 lastname: Jung
 positions_and_institutions:
   - institution: Claremont Graduate University, USA

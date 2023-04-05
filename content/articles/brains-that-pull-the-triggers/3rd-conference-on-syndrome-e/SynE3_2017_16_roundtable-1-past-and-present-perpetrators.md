@@ -13,37 +13,31 @@ authors:
     lastname: Berger
     positions_and_institutions:
       - institution: International Center for Counter-Terrorism, Netherlands
-    titles_and_institutions:
-      - institution: International Center for Counter-Terrorism, Netherlands
   - firstname: 'Gretty '
     is_institution: false
     lastname: Mirdal
     positions_and_institutions:
       - institution: Paris IAS, France
-    titles_and_institutions:
-      - institution: Paris Institute for Advanced Study, France
   - firstname: Norman
     is_institution: false
     lastname: ' Ohler'
     positions_and_institutions:
       - institution: Germany
-    titles_and_institutions:
-      - institution: Berlin, Gemany
   - firstname: 'Abram '
     lastname: de Swaan
-    titles_and_institutions:
+    positions_and_institutions:
       - institution: University of Amsterdam, Netherlands
   - firstname: 'Brian '
     lastname: Schiff
-    titles_and_institutions:
+    positions_and_institutions:
       - institution: American University of Paris, France
   - firstname: 'Françoise '
     lastname: Sironi
-    titles_and_institutions:
+    positions_and_institutions:
       - institution: Université Paris 8 Saint-Denis, France
   - firstname: 'Jessica '
     lastname: Stern
-    titles_and_institutions:
+    positions_and_institutions:
       - institution: Boston University, USA
 date: 2017-05-11T14:00:00.000Z
 highlight: false
@@ -51,8 +45,6 @@ issue: content/issues/brains-that-pull-the-triggers.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 sub-issue: 3rd Conference on Syndrome E
 subissue: 3rd Conference on Syndrome E
 yt: QuNdcGl-Vag

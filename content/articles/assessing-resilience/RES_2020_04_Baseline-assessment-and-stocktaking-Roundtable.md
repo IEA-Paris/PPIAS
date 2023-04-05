@@ -13,8 +13,6 @@ authors:
       - institution: Greater Manchester
         positions:
           - Chief Resilience Officer
-    titles_and_institutions:
-      - institution: Greater Manchester Combined Authority, United Kingdom
   - firstname: Nicolas
     is_institution: false
     lastname: Imbert
@@ -25,8 +23,6 @@ authors:
     social_channels:
       linkedin: https://fr.linkedin.com/in/imbert
       twitter: '@technoscopie'
-    titles_and_institutions:
-      - institution: Green Cross France et Territoires, France
   - firstname: Philippine
     is_institution: false
     lastname: de Lattre
@@ -37,16 +33,12 @@ authors:
     social_channels:
       linkedin: https://fr.linkedin.com/in/philippinedelattre/fr
       researchgate: https://www.researchgate.net/profile/Philippine-De-Lattre
-    titles_and_institutions:
-      - institution: Les Greniers de l’Abondance, France
 date: 2020-07-15T02:00:00.000Z
 highlight: false
 issue: content/issues/assessing-resilience.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: PnkS2Zo0Vsk
 

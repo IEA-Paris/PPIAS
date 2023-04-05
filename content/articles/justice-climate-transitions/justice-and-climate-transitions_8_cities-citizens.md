@@ -16,8 +16,6 @@ issue: content/issues/justice-climate-transitions.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: 5loae0ohDiI
 

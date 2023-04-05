@@ -7,6 +7,7 @@ firstname: Olaf
 is_institution: false
 issue:
   - content/issues/identity-from-double-to-avatar.md
+issues: []
 language: null
 lastname: Blanke
 positions_and_institutions:

@@ -6,6 +6,7 @@ exerpt: ''
 firstname: Victoria
 issue:
   - content/issues/Our Microbial Lives.md
+issues: []
 language:
   - English
 lastname: Lee

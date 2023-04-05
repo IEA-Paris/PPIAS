@@ -13,17 +13,12 @@ authors:
       - institution: UCLA, USA / Université de Tel-Aviv, Israël
         positions:
           - ''
-    titles_and_institutions:
-      - institution: Paris Institute for Advanced Study, France
-      - institution: University of California Los Angeles, USA
 date: 2017-05-10T00:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 sub-issue: 3rd Conference on Syndrome E
 subissue: 3rd Conference on Syndrome E
 yt: gXYBdKRZaYk

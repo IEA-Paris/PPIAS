@@ -4,6 +4,7 @@ articles:
   - MOSCO_2016_12_is-there-a-social-psychology-of-historic-grievances
 exerpt: ''
 firstname: Yechiel
+issues: []
 lastname: Klar
 positions_and_institutions:
   - institution: Tel Aviv University, Israel

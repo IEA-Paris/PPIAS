@@ -54,8 +54,6 @@ issue: content/issues/assessing-resilience.md
 language: French
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: 3nwanoR7Yws
 

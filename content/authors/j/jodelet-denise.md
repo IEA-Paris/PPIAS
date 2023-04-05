@@ -8,6 +8,7 @@ firstname: Denise
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
+issues: []
 language: null
 lastname: Jodelet
 positions_and_institutions:

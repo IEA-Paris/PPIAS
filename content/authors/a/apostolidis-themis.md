@@ -7,6 +7,7 @@ firstname: Themis
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
+issues: []
 language: null
 lastname: Apostolidis
 positions_and_institutions:

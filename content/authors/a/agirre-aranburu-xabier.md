@@ -7,6 +7,7 @@ firstname: Xabier
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
+issues: []
 language:
   - English
 lastname: Agirre Aranburu
@@ -16,9 +17,6 @@ positions_and_institutions:
       - ''
 social_channels:
   linkedin: https://nl.linkedin.com/in/xabier-agirre-aranburu-3a3389a
-titles_and_institutions:
-  '0':
-    institution: International Criminal Court, Netherlands
 years:
   - 2016
 

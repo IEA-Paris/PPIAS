@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Julie
 is_institution: false
+issues: []
 lastname: Lequin
 picture: ''
 picture_copyright: ''

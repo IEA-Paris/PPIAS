@@ -7,6 +7,7 @@ firstname: Marc
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
+issues: []
 language: null
 lastname: Faber
 positions_and_institutions:

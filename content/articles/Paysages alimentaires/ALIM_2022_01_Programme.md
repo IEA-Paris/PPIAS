@@ -10,7 +10,7 @@ doi: ''
 article_title: 'Paysages alimentaires conviviaux : pour aller au-delà de la durabilité
   alimentaire - Programme'
 authors:
-- lastname: IEA de Paris, France
+- lastname: Institut d'études avancées de Paris, France
   is_institution: true
   firstname: ''
   positions_and_institutions: []

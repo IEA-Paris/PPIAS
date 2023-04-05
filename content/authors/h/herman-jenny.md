@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Jenny
 is_institution: false
+issues: []
 lastname: Herman
 picture: ''
 picture_copyright: ''

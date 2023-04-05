@@ -1,12 +1,17 @@
 ---
 active: true
 articles:
+  - >-
+    justice-and-climate-transitions_5_table-ronde -
+    justice-and-climate-transitions_9_climate-justice-energy-demand
   - justice-and-climate-transitions_5_table-ronde
+  - justice-and-climate-transitions_9_climate-justice-energy-demand
 exerpt: ''
 firstname: Gordon
 is_institution: false
 issue:
   - content/issues/justice-climate-transitions.md
+issues: []
 language:
   - English
 lastname: Walker

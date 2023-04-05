@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Julie Lou
 is_institution: false
+issues: []
 lastname: Dubreuilh
 picture: ''
 picture_copyright: ''

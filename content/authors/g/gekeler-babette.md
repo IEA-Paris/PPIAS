@@ -8,6 +8,7 @@ firstname: Babette
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
+issues: []
 language: null
 lastname: Gekeler
 positions_and_institutions:

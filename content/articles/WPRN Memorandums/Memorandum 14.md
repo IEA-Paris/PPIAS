@@ -23,7 +23,7 @@ article_title: Science in Public Debate in Times of Crisis
 authors:
 - firstname: 'Aurélie '
   lastname: Louchart
-  titles_and_institutions: []
+  positions_and_institutions: []
   picture: ''
   picture_copyright: ''
   social_channels:

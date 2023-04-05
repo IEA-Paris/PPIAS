@@ -16,16 +16,12 @@ authors:
     social_channels:
       linkedin: https://de.linkedin.com/in/cheryce-von-xylander-2b04b61aa
       researchgate: https://www.researchgate.net/profile/Cheryce-Von-Xylander
-    titles_and_institutions:
-      - institution: Humboldt Universität zu Berlin, Germany
 date: 2018-12-13T06:00:00.000Z
 highlight: false
 issue: content/issues/identity-from-double-to-avatar.md
 language: English
 needDOI: true
 published: true
-start: false
-stop: false
 subissue: false
 yt: '-iCDJ_pu11U'
 

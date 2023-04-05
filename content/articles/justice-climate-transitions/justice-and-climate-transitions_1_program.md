@@ -7,7 +7,7 @@ authors:
   - firstname: ''
     lastname: University of New South Wales, Sydney, Australia
   - firstname: ''
-    lastname: The Paris Institute for Advanced Study, France
+    lastname: Institut d'études avancées de Paris, France
 date: 2015-09-23T23:00:00.000Z
 highlight: false
 issue: content/issues/justice-climate-transitions.md
@@ -15,8 +15,6 @@ language: English
 needDOI: false
 picture: /affiche_justice-climatetransitions_std.jpg
 published: true
-start: false
-stop: false
 subissue: false
 yt: false
 

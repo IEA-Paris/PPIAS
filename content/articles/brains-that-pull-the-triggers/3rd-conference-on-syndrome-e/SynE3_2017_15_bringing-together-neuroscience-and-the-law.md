@@ -16,16 +16,12 @@ authors:
     social_channels:
       linkedin: https://fr.linkedin.com/in/jean-paul-costa-b6004364
       wikipedia: https://en.wikipedia.org/wiki/Jean-Paul_Costa
-    titles_and_institutions:
-      - institution: International Institute of Human Rights, France
 date: 2017-05-11T13:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 sub-issue: 3rd Conference on Syndrome E
 subissue: 3rd Conference on Syndrome E
 yt: 1tFLbfUVCaM

@@ -1,11 +1,24 @@
 ---
 active: true
 articles:
+  - >-
+    Memorandum_11 - Memorandum_03 - Memorandum_04 - Memorandum_05 -
+    Memorandum_07 - Memorandum_08 - Memorandum_06 - Memorandum_09 -
+    memorandum_02
+  - Memorandum_05
+  - Memorandum_03
+  - Memorandum_04
+  - Memorandum_07
+  - Memorandum_06
+  - Memorandum_09
+  - Memorandum_08
+  - memorandum_02
   - Memorandum_11
 exerpt: ''
 firstname: Victor
 issue:
   - content/issues/WPRN Memorandums.md
+issues: []
 language:
   - English
 lastname: Galonnier

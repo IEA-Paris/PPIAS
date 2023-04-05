@@ -5,9 +5,13 @@ articles:
 exerpt: ''
 firstname: Elise
 is_institution: false
+issues: []
 lastname: Harris
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: Université Paris Diderot, France
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

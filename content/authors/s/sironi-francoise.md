@@ -1,12 +1,17 @@
 ---
 active: true
 articles:
+  - >-
+    SynE3_2017_05_how-does-one-become-a-torturer -
+    SynE3_2017_16_roundtable-1-past-and-present-perpetrators
   - SynE3_2017_05_how-does-one-become-a-torturer
+  - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
 exerpt: ''
 firstname: Françoise
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
+issues: []
 language: null
 lastname: Sironi
 positions_and_institutions:

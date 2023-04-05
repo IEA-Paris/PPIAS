@@ -6,6 +6,7 @@ exerpt: ''
 firstname: Johny
 issue:
   - content/issues/Intercontinental Academia 4.md
+issues: []
 language:
   - English
 lastname: Oraee

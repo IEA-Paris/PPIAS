@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: ''
 is_institution: true
+issues: []
 lastname: European Association of Social Psychology (EASP)
 
 ---

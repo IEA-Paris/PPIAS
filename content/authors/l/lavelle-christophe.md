@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Christophe
 is_institution: false
+issues: []
 lastname: Lavelle
 picture: ''
 picture_copyright: ''

@@ -5,6 +5,7 @@ articles:
     MOSCO_2016_11_connecting-social-representation-research-with-minority-influence
 exerpt: ''
 firstname: Serge
+issues: []
 lastname: Guimond
 positions_and_institutions:
   - institution: Laboratoire de Psychologie Sociale et Cognitive, CNRS, France

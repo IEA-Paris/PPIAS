@@ -10,7 +10,7 @@ article_title: >-
 authors:
   - firstname: ''
     is_institution: false
-    lastname: Paris Institute for Advanced Study, France
+    lastname: Institut d'études avancées de Paris, France
     picture: ''
     picture_copyright: ''
     positions_and_institutions: []
@@ -24,7 +24,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_institutions: []
   - firstname: ''
     is_institution: false
     lastname: École des Ingénieurs de la Ville de Paris (EIVP), France
@@ -41,7 +40,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_institutions: []
 bibliography: ''
 custom_pdf: ''
 date: 2020-07-14T23:00:11.000Z

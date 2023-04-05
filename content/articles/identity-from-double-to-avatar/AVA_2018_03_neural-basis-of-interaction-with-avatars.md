@@ -13,16 +13,12 @@ authors:
       - institution: Collège de France, France
         positions:
           - ''
-    titles_and_institutions:
-      - institution: Collège de France, France
 date: 2018-12-13T02:00:00.000Z
 highlight: false
 issue: content/issues/identity-from-double-to-avatar.md
 language: English
 needDOI: true
 published: true
-start: false
-stop: false
 subissue: false
 yt: fXcQORFKJpA
 

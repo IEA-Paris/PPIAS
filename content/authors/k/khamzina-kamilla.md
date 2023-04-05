@@ -8,6 +8,7 @@ firstname: Kamilla
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
+issues: []
 language: null
 lastname: Khamzina
 positions_and_institutions:

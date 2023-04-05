@@ -7,6 +7,7 @@ firstname: Molly
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
+issues: []
 language: null
 lastname: Crockett
 positions_and_institutions:

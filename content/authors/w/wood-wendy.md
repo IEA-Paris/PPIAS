@@ -4,6 +4,7 @@ articles:
   - MOSCO_2016_08_minorities-meanings-and-the-structure-of-group-influence
 exerpt: ''
 firstname: Wendy
+issues: []
 lastname: Wood
 positions_and_institutions:
   - institution: University of Southern California, USA

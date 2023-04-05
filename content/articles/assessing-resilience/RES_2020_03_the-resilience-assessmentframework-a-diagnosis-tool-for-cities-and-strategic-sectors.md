@@ -18,8 +18,6 @@ authors:
     social_channels:
       linkedin: https://pt.linkedin.com/in/maria-adriana-cardoso-47b7a911
       researchgate: https://www.researchgate.net/profile/Maria-Cardoso-21
-    titles_and_institutions:
-      - institution: National Laboratory for Civil Engineering, Portugal
   - firstname: Maria-João
     is_institution: false
     lastname: Telhao
@@ -29,16 +27,12 @@ authors:
           - ''
     social_channels:
       researchgate: https://www.researchgate.net/profile/Maria-Telhado
-    titles_and_institutions:
-      - institution: City of Lisbon, Portugal
 date: 2020-07-15T01:00:00.000Z
 highlight: false
 issue: content/issues/assessing-resilience.md
 language: English
 needDOI: true
 published: true
-start: false
-stop: false
 subissue: false
 yt: Hq5Yhz3Nxz4
 

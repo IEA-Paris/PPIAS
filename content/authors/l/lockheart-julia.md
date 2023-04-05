@@ -7,6 +7,7 @@ firstname: Julia
 is_institution: false
 issue:
   - content/issues/sleep-and-memory.md
+issues: []
 language: null
 lastname: Lockheart
 positions_and_institutions:

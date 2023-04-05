@@ -8,6 +8,7 @@ firstname: Ann
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
+issues: []
 language: null
 lastname: Pettifor
 positions_and_institutions:

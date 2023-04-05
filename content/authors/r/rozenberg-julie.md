@@ -7,6 +7,7 @@ firstname: Julie
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+issues: []
 language: null
 lastname: Rozenberg
 positions_and_institutions:

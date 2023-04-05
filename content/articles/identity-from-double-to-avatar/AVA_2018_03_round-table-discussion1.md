@@ -13,8 +13,6 @@ authors:
       - institution: Università Cattolica di Milano, Italy
         positions:
           - ''
-    titles_and_institutions:
-      - institution: Università Cattolica di Milano, Italy
   - firstname: 'Andrea '
     is_institution: false
     lastname: Pinotti
@@ -22,9 +20,7 @@ authors:
       - institution: Università Statale di Milano, Italy
         positions:
           - ''
-    titles_and_institutions:
       - institution: Paris Institute for Advanced Study, France
-      - institution: Università Statale di Milano, Italy
   - firstname: Alain
     is_institution: false
     lastname: Berthoz
@@ -32,16 +28,12 @@ authors:
       - institution: Collège de France, France
         positions:
           - ''
-    titles_and_institutions:
-      - institution: Collège de France, France
 date: 2018-12-13T03:00:00.000Z
 highlight: false
 issue: content/issues/identity-from-double-to-avatar.md
 language: English
 needDOI: true
 published: true
-start: false
-stop: false
 subissue: false
 yt: 5WVqSNDC46k
 

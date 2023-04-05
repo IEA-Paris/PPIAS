@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: ''
 is_institution: false
+issues: []
 lastname: Centre Européen de Sociologie et de Science Politique, France
 picture: ''
 picture_copyright: ''

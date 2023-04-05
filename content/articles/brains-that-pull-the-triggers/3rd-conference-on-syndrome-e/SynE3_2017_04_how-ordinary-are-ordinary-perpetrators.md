@@ -19,16 +19,12 @@ authors:
       researchgate: https://www.researchgate.net/profile/Abram-De-Swaan
       website: https://deswaan.com
       wikipedia: https://en.wikipedia.org/wiki/Abram_de_Swaan
-    titles_and_institutions:
-      - institution: University of Amsterdam, Netherlands
 date: 2017-05-10T02:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 sub-issue: 3rd Conference on Syndrome E
 subissue: 3rd Conference on Syndrome E
 yt: 82ha9xPE4Pc

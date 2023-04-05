@@ -49,8 +49,6 @@ keywords:
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: VRzJa_3BDAs
 

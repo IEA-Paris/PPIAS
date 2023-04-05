@@ -7,6 +7,7 @@ firstname: Claudine
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
+issues: []
 language: null
 lastname: Gauthier
 positions_and_institutions:

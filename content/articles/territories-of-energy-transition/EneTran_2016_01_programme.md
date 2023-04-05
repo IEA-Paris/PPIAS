@@ -11,8 +11,7 @@ highlight: false
 issue: content/issues/territories-of-energy-transition.md
 needDOI: false
 published: false
-start: false
-stop: false
+
 subissue: false
 yt: false
 language: French

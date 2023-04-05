@@ -26,7 +26,7 @@ authors:
       wikipedia: ''
   - firstname: ''
     is_institution: false
-    lastname: Paris Institute for Advanced Study, France
+    lastname: Institut d'études avancées de Paris, France
     picture: ''
     picture_copyright: ''
     positions_and_institutions:

@@ -7,6 +7,7 @@ firstname: Juan
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
+issues: []
 language: null
 lastname: Perez
 positions_and_institutions:

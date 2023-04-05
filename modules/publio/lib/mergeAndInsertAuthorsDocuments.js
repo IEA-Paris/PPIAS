@@ -16,19 +16,17 @@ export default async (authors = [], articles, content) => {
     // TODO: come up with a global approach for non destructive merge,
     // that could explicitely removed papers that were published but are not anymore
     // or X other reason why it should be marked as from this author anymore)
+    const { third, fourth } = filterAndMerge(first, first)
 
-    authorsDocuments = [...(first || []), ...(second || [])]
+    authorsDocuments = [...(third || []), ...(second || [])]
 
     authorsDocuments = authorsDocuments.map((item) => {
-      console.log('item: ', item.lastname)
       delete item.createdAt
 
-      const authorArticles =
-        [
-          item?.articles.find((article) =>
-            articles.find((art) => art.slug === article && art.published)
-          ),
-        ] || false
+      const authorArticles = item?.articles.filter((article) =>
+        articles.find((art) => !(art.slug === article && art.published))
+      )
+
       // /!\ TOFIX: this is a hack to get the text from the markdown file, should be done in a better way
       const fileContents = item.path
         ? fs.readFileSync('content' + item.path + '.md', 'utf8')

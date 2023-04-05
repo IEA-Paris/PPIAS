@@ -1,12 +1,17 @@
 ---
 active: true
 articles:
+  - >-
+    justice-and-climate-transitions_5_table-ronde -
+    justice-and-climate-transitions_9_renewable-energy
   - justice-and-climate-transitions_5_table-ronde
+  - justice-and-climate-transitions_9_renewable-energy
 exerpt: ''
 firstname: Conrad
 is_institution: false
 issue:
   - content/issues/justice-climate-transitions.md
+issues: []
 language:
   - English
 lastname: Kunze

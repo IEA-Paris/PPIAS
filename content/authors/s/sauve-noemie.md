@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Noémie
 is_institution: false
+issues: []
 lastname: Sauve
 picture: ''
 picture_copyright: ''

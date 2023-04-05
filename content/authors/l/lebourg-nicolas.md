@@ -7,6 +7,7 @@ firstname: Nicolas
 is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
+issues: []
 language: null
 lastname: Lebourg
 positions_and_institutions:

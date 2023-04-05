@@ -7,6 +7,7 @@ firstname: Stephanie
 issue:
   - content/issues/WPRN21 Papers.md
   - content/issues/WPRN21 Proceedings.md
+issues: []
 language:
   - English
 lastname: Godleski

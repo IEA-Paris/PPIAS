@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Luna
 is_institution: false
+issues: []
 lastname: Kyung
 picture: ''
 picture_copyright: ''

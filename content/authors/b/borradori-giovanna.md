@@ -7,6 +7,7 @@ firstname: Giovanna
 is_institution: false
 issue:
   - content/issues/identity-from-double-to-avatar.md
+issues: []
 language: null
 lastname: Borradori
 positions_and_institutions:

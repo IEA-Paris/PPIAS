@@ -28,8 +28,6 @@ issue: content/issues/virtual-realities.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: Npb1GXr-ROk
 

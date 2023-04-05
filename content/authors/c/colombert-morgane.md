@@ -7,6 +7,7 @@ firstname: Morgane
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+issues: []
 language: null
 lastname: Colombert
 positions_and_institutions:

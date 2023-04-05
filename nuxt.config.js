@@ -25,22 +25,36 @@ export default {
     // But no sweat, we know what to generate, no need to crawl.
     async routes() {
       const { $content } = require('@nuxt/content')
+      const articles = await $content('articles', { deep: true })
+        .where({ published: true })
+        .fetch()
+      const authors = await $content('authors', { deep: true })
+        .where({ active: true })
+        .fetch()
+      const media = await $content('media', { deep: true }).fetch()
+      const authorsPagination = []
+      for (let index = 1; index < Math.ceil(authors.length / 30); index++) {
+        authorsPagination.push('/authors/' + index)
+      }
+      const mediaPagination = []
+      for (let index = 1; index < Math.ceil(media.length / 9); index++) {
+        mediaPagination.push('/media/' + index)
+      }
+      const articlesPagination = []
+      for (let index = 1; index < Math.ceil(articles.length / 9); index++) {
+        articlesPagination.push('/articles/' + index)
+      }
       const files = await Promise.all([
         '/articles',
         '/media',
         '/authors',
-        ...(
-          await $content('articles', { deep: true })
-            .where({ published: true })
-            .fetch()
-        ).map((file) => {
+        ...authorsPagination,
+        ...mediaPagination,
+        ...articlesPagination,
+        ...articles.map((file) => {
           return { route: '/article/' + file.slug, payload: file }
         }),
-        ...(
-          await $content('authors', { deep: true })
-            .where({ active: true })
-            .fetch()
-        ).map((file) => {
+        ...authors.map((file) => {
           return { route: '/author/' + file.slug, payload: file }
         }),
         ...(

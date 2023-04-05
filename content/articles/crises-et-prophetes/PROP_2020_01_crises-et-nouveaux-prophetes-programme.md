@@ -18,8 +18,6 @@ issue: content/issues/crises-et-prophetes.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: false
 

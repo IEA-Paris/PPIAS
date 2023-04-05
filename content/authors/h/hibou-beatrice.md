@@ -7,6 +7,7 @@ firstname: Béatrice
 is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
+issues: []
 language: null
 lastname: Hibou
 positions_and_institutions:

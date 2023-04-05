@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Raúl
 is_institution: false
+issues: []
 lastname: Matta
 picture: ''
 picture_copyright: ''

@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Raquel
 is_institution: false
+issues: []
 lastname: Rojero
 picture: ''
 picture_copyright: ''

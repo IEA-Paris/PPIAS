@@ -6,6 +6,7 @@ exerpt: ''
 firstname: Sabine
 issue:
   - content/issues/Our Microbial Lives.md
+issues: []
 language:
   - French
 lastname: Boesen Mariani

@@ -17,16 +17,12 @@ authors:
       google_scholar: https://scholar.google.com/citations?user=nbuApuQAAAAJ&hl=en
       linkedin: https://uk.linkedin.com/in/mark-pelling-25207826
       researchgate: https://www.researchgate.net/profile/Mark-Pelling/4
-    titles_and_institutions:
-      - institution: King’s College, United Kingdom
 date: 2020-07-15T23:00:00.000Z
 highlight: false
 issue: content/issues/assessing-resilience.md
 language: English
 needDOI: true
 published: true
-start: false
-stop: false
 subissue: false
 yt: cZDQJ45mgCs
 

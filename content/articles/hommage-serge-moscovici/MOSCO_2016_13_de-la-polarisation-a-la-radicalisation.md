@@ -19,8 +19,6 @@ issue: content/issues/hommage-serge-moscovici.md
 language: French
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: F07jiwN3WLA
 

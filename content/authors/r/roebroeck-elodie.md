@@ -5,6 +5,7 @@ articles:
     MOSCO_2016_11_connecting-social-representation-research-with-minority-influence
 exerpt: ''
 firstname: Elodie
+issues: []
 lastname: Roebroeck
 positions_and_institutions:
   - institution: Blaise Pascal University, France

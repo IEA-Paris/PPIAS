@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Damien
 is_institution: false
+issues: []
 lastname: Conaré
 picture: ''
 picture_copyright: ''

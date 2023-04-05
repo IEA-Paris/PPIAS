@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Jean
 is_institution: false
+issues: []
 lastname: Decety
 picture: ''
 picture_copyright: ''

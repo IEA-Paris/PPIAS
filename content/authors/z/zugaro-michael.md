@@ -7,6 +7,7 @@ firstname: Michael
 is_institution: false
 issue:
   - content/issues/sleep-and-memory.md
+issues: []
 language: null
 lastname: Zugaro
 positions_and_institutions:

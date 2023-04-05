@@ -20,8 +20,6 @@ issue: content/issues/brains-that-pull-the-triggers.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 sub-issue: 2nd Conference  on Syndrome E
 subissue: 2nd Conference  on Syndrome E
 yt: xDVtZ6KOwUw

@@ -8,6 +8,7 @@ firstname: Maria-João
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+issues: []
 language: null
 lastname: Telhao
 positions_and_institutions:

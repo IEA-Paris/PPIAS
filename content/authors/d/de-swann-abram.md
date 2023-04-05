@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Abram
 is_institution: false
+issues: []
 lastname: De Swann
 positions_and_institutions:
   - institution: University of Amsterdam, Netherlands

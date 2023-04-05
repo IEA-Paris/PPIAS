@@ -15,16 +15,12 @@ authors:
           - ''
     social_channels:
       twitter: '@ChiCappelletto'
-    titles_and_institutions:
-      - institution: Università Statale di Milano, Italy
 date: 2018-12-14T11:00:00.000Z
 highlight: false
 issue: content/issues/identity-from-double-to-avatar.md
 language: English
 needDOI: true
 published: true
-start: false
-stop: false
 subissue: false
 yt: P2ZDbcLLmN8
 

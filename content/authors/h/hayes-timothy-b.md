@@ -7,6 +7,7 @@ firstname: Timothy B.
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
+issues: []
 language: null
 lastname: Hayes
 positions_and_institutions:

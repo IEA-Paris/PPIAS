@@ -7,6 +7,7 @@ firstname: Åsne
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
+issues: []
 language:
   - English
 lastname: Seierstad

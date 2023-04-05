@@ -7,6 +7,7 @@ firstname: Fanny
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
+issues: []
 language: null
 lastname: Lalot
 positions_and_institutions:

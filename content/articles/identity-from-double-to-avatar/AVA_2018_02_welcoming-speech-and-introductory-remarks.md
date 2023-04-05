@@ -13,24 +13,20 @@ authors:
       - institution: Università Statale di Milano, Italy
         positions:
           - ''
+      - institution: Paris Institute for Advanced Study, France
     social_channels:
       google_scholar: https://scholar.google.it/citations?user=fa43KcgAAAAJ&hl=it
       researchgate: https://www.researchgate.net/profile/Andrea-Pinotti
-    titles_and_institutions:
-      - institution: Paris Institute for Advanced Study, France
-      - institution: Università Statale di Milano, Italy
   - firstname: Simon
     is_institution: false
     lastname: Luck
     positions_and_institutions:
-      - institution: Paris IAS, France
+      - institution: Paris Institute for Advanced Study, France
         positions:
           - ''
     social_channels:
       linkedin: >-
         https://fr.linkedin.com/in/siluck?original_referer=https%3A%2F%2Fwww.google.com%2F
-    titles_and_institutions:
-      - institution: Paris Institute for Advanced Study, France
 date: 2018-12-13T01:00:00.000Z
 highlight: false
 issue: content/issues/identity-from-double-to-avatar.md

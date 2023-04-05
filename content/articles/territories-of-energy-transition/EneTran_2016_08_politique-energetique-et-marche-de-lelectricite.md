@@ -22,8 +22,6 @@ authors:
       orcid: 0000-0002-5897-8218
       researchgate: https://www.researchgate.net/profile/Thomas-Reverdy
       website: https://threverdy.wordpress.com/
-    titles_and_institutions:
-      - institution: Université de Grenoble, France
 date: 2016-05-23T06:00:00.000Z
 highlight: false
 issue: content/issues/territories-of-energy-transition.md

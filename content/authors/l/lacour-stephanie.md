@@ -7,6 +7,7 @@ firstname: Stéphanie
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
+issues: []
 language: null
 lastname: Lacour
 positions_and_institutions:

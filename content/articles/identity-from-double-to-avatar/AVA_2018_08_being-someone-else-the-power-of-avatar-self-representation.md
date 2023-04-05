@@ -20,16 +20,12 @@ authors:
       researchgate: https://www.researchgate.net/profile/Mel-Slater
       twitter: '@melslater'
       website: http://www.melslater.me/
-    titles_and_institutions:
-      - institution: University of Barcelona, Spain
 date: 2018-12-14T07:00:00.000Z
 highlight: false
 issue: content/issues/identity-from-double-to-avatar.md
 language: English
 needDOI: true
 published: true
-start: false
-stop: false
 subissue: false
 yt: 7GvxD7fLHwQ
 

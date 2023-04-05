@@ -19,8 +19,6 @@ issue: content/issues/sleep-and-memory.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: UktLhBJEhOM
 

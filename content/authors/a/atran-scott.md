@@ -7,6 +7,7 @@ firstname: Scott
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
+issues: []
 language: null
 lastname: Atran
 positions_and_institutions:

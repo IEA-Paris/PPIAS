@@ -4,6 +4,7 @@ articles:
   - MOSCO_2016_06_contexts-and-conditions-of-outgroup-influence
 exerpt: ''
 firstname: William D.
+issues: []
 lastname: Crano
 positions_and_institutions:
   - institution: Claremont Graduate University, USA

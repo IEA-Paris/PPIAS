@@ -23,16 +23,12 @@ authors:
       researchgate: https://www.researchgate.net/profile/Tania-Singer
       website: https://taniasinger.de/
       wikipedia: https://en.wikipedia.org/wiki/Tania_Singer
-    titles_and_institutions:
-      - institution: Max Planck Institute for Human cognitive and Brain Sciences, Germany
 date: 2017-05-11T09:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 sub-issue: 3rd Conference on Syndrome E
 subissue: 3rd Conference on Syndrome E
 yt: TOa-sPMDNGg

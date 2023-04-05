@@ -10,11 +10,10 @@ authors:
     is_institution: false
     lastname: Lahlou
     positions_and_institutions:
-      - institution: Institut d'études avancées de Paris / London School of Economics
+      - institution: Institut d'études avancées de Paris
         positions:
           - ''
-    titles_and_institutions:
-      - institution: Paris Institute for Advanced Study, France
+      - institution: London School of Economics
   - firstname: Youssef
     is_institution: false
     lastname: Diab
@@ -24,8 +23,6 @@ authors:
           - ''
     social_channels:
       researchgate: https://www.researchgate.net/profile/Youssef-Diab-4
-    titles_and_institutions:
-      - institution: Ecole des Ingénieurs de la Ville de Paris (EIVP), France
   - firstname: Marie-Christine
     is_institution: false
     lastname: Lemardeley
@@ -33,16 +30,12 @@ authors:
       - institution: Ville de Paris, France
         positions:
           - ''
-    titles_and_institutions:
-      - institution: City of Paris, France
 date: 2020-07-15T00:00:00.000Z
 highlight: false
 issue: content/issues/assessing-resilience.md
 language: French
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: fM0TJubKuNE
 

@@ -7,6 +7,7 @@ firstname: Andreea
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
+issues: []
 language: null
 lastname: Ernst-Vintila
 positions_and_institutions:

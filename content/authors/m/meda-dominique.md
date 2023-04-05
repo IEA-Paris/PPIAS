@@ -7,6 +7,7 @@ firstname: Dominique
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+issues: []
 language: null
 lastname: Méda
 positions_and_institutions:

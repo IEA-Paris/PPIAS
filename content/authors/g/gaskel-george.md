@@ -8,6 +8,7 @@ firstname: George
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
+issues: []
 language: null
 lastname: Gaskel
 positions_and_institutions:

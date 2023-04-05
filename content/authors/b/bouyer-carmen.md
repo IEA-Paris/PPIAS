@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Carmen
 is_institution: false
+issues: []
 lastname: Bouyer
 picture: ''
 picture_copyright: ''

@@ -7,6 +7,7 @@ firstname: Mélanie
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+issues: []
 language: null
 lastname: Eck
 positions_and_institutions:

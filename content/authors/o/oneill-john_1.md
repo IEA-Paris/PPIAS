@@ -6,6 +6,7 @@ exerpt: ''
 firstname: John
 issue:
   - content/issues/justice-climate-transitions.md
+issues: []
 language:
   - English
 lastname: O’Neill

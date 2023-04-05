@@ -20,8 +20,6 @@ highlight: false
 issue: content/issues/hommage-serge-moscovici.md
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: MPvFyStwtA0
 language: English

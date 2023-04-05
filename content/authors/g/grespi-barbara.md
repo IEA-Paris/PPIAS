@@ -5,9 +5,13 @@ articles:
 exerpt: ''
 firstname: Barbara
 is_institution: false
+issues: []
 lastname: Grespi
 picture: ''
 picture_copyright: ''
+positions_and_institutions:
+  - institution: Università di Bergamo, Italy
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

@@ -7,6 +7,7 @@ firstname: Serge
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+issues: []
 language: null
 lastname: Tisseron
 positions_and_institutions:

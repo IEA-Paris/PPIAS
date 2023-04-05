@@ -7,6 +7,7 @@ firstname: Jean-Baptiste
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
+issues: []
 language: null
 lastname: Fressoz
 positions_and_institutions:

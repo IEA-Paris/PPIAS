@@ -7,6 +7,7 @@ firstname: Carlo Michael
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
+issues: []
 language: null
 lastname: Sommer
 positions_and_institutions:

@@ -7,6 +7,7 @@ firstname: Amber M.
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
+issues: []
 language: null
 lastname: Gaffney
 positions_and_institutions:

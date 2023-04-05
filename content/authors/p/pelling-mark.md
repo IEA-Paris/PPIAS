@@ -8,6 +8,7 @@ firstname: Mark
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+issues: []
 language: null
 lastname: Pelling
 positions_and_institutions:

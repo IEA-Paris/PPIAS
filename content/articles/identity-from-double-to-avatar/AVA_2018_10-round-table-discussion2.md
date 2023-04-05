@@ -21,7 +21,7 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_institutions:
+    positions_and_institutions:
       - institution: Université Paris Diderot, France
         positions: []
   - firstname: 'Barbara  '
@@ -39,7 +39,7 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_institutions:
+    positions_and_institutions:
       - institution: Università di Bergamo, Italy
         positions: []
   - firstname: 'Sara '
@@ -57,7 +57,7 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_institutions:
+    positions_and_institutions:
       - institution: FMSH-Collège d’études mondiales, France
         positions: []
   - firstname: 'Mel '
@@ -75,7 +75,7 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    titles_and_institutions:
+    positions_and_institutions:
       - institution: University of Barcelona, Spain
         positions: []
 bibliography: ''

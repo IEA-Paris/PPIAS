@@ -7,6 +7,7 @@ firstname: Marc
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+issues: []
 language: null
 lastname: Vuillet
 positions_and_institutions:

@@ -7,7 +7,7 @@ abstract: >-
 article_title: 'Adventures of Identity: From the Double to the Avatar - Program        '
 authors:
   - firstname: ''
-    lastname: Paris Institute for Advanced Study, France
+    lastname: Institut d'études avancées de Paris, France
   - firstname: ''
     lastname: Fondation Maison des Sciences de l'Homme (FMSH), France
   - firstname: ''
@@ -18,8 +18,6 @@ issue: content/issues/identity-from-double-to-avatar.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: false
 

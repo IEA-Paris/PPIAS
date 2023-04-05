@@ -1,12 +1,17 @@
 ---
 active: true
 articles:
+  - >-
+    SynE3_2017_06_the-hermeneutics-of-darkness -
+    SynE3_2017_16_roundtable-1-past-and-present-perpetrators
   - SynE3_2017_06_the-hermeneutics-of-darkness
+  - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
 exerpt: ''
 firstname: Brian
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
+issues: []
 language: null
 lastname: Schiff
 positions_and_institutions:

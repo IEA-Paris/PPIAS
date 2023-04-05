@@ -7,6 +7,7 @@ firstname: Jorge Correia
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
+issues: []
 language: null
 lastname: Jesuino
 positions_and_institutions:

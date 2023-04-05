@@ -8,6 +8,7 @@ firstname: Marie
 is_institution: false
 issue:
   - content/issues/territories-of-energy-transition.md
+issues: []
 language: null
 lastname: Degremont
 positions_and_institutions:

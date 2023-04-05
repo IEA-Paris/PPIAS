@@ -1,13 +1,16 @@
 ---
 active: true
 articles:
+  - RES_2020_12_conclusion-et-cloture - EneTran_2016_10_clôture
   - RES_2020_12_conclusion-et-cloture
+  - EneTran_2016_10_clôture
 exerpt: ''
 firstname: Célia
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
   - content/issues/territories-of-energy-transition.md
+issues: []
 language: null
 lastname: Blauel
 positions_and_institutions:

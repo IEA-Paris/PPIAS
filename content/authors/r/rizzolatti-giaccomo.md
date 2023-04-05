@@ -7,6 +7,7 @@ firstname: Giaccomo
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
+issues: []
 language: null
 lastname: Rizzolatti
 positions_and_institutions:

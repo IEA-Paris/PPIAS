@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Nicolas
 is_institution: false
+issues: []
 lastname: Bricas
 picture: ''
 picture_copyright: ''

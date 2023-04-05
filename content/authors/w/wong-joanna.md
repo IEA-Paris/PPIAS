@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Joanna
 is_institution: false
+issues: []
 lastname: Wong
 picture: ''
 picture_copyright: ''

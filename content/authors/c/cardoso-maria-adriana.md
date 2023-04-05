@@ -8,6 +8,7 @@ firstname: Maria-Adriana
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+issues: []
 language: null
 lastname: Cardoso
 positions_and_institutions:

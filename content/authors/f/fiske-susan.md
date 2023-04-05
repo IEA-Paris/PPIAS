@@ -7,6 +7,7 @@ firstname: Susan
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
+issues: []
 language: null
 lastname: Fiske
 positions_and_institutions:

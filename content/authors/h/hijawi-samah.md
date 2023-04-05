@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Samah
 is_institution: false
+issues: []
 lastname: Hijawi
 picture: ''
 picture_copyright: ''

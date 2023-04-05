@@ -42,8 +42,6 @@ keywords:
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: 5r_zdbQ5TCU
 

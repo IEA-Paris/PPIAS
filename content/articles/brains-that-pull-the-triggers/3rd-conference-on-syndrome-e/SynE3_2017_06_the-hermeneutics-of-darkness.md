@@ -19,16 +19,12 @@ authors:
       linkedin: https://fr.linkedin.com/in/brian-schiff-34651b9
       orcid: 0000-0003-2861-6926
       researchgate: https://www.researchgate.net/profile/Brian-Schiff
-    titles_and_institutions:
-      - institution: American University of Paris, France
 date: 2017-05-10T04:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 sub-issue: 3rd Conference on Syndrome E
 subissue: 3rd Conference on Syndrome E
 yt: eCVUsb1iMGE

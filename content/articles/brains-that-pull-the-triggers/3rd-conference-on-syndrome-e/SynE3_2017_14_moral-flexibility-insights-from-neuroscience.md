@@ -19,16 +19,12 @@ authors:
       twitter: '@mollycrockett'
       website: http://www.crockettlab.org/
       wikipedia: https://en.wikipedia.org/wiki/Molly_J._Crockett
-    titles_and_institutions:
-      - institution: University of Oxford, United Kingdom
 date: 2017-05-11T12:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
 language: English
 needDOI: false
 published: true
-start: false
-stop: false
 sub-issue: 3rd Conference on Syndrome E
 subissue: 3rd Conference on Syndrome E
 yt: HJvRnkFVo88

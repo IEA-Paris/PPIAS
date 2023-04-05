@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: ''
 is_institution: false
+issues: []
 lastname: UMR 208 PALOC, France
 picture: ''
 picture_copyright: ''

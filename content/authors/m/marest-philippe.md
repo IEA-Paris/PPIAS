@@ -4,6 +4,7 @@ articles:
   - RES_2020_09_Assessing-Resilience-Work-in-Progress
 exerpt: ''
 firstname: Philippe
+issues: []
 lastname: Marest
 positions_and_institutions:
   - institution: Ville et Métropole de Nantes, France

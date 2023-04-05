@@ -4,7 +4,7 @@ article_title: Tribute to Serge Moscovici - Program
 authors:
 - lastname: European Association of Social Psychology (EASP)
   is_institution: true
-- lastname: Paris Institute for Advanced Study, France
+- lastname: Institut d'études avancées de Paris, France
   positions_and_institutions: []
   is_institution: true
 date: 2016-11-17T00:00:00.000+00:00
@@ -12,8 +12,6 @@ highlight: false
 issue: content/issues/hommage-serge-moscovici.md
 needDOI: false
 published: true
-start: false
-stop: false
 subissue: false
 yt: false
 language: English

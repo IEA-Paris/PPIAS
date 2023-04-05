@@ -17,16 +17,12 @@ authors:
           - ''
     social_channels:
       researchgate: https://www.researchgate.net/profile/Silvia-Romani-2
-    titles_and_institutions:
-      - institution: Università Statale di Milano, Italy
 date: 2018-12-13T05:00:00.000Z
 highlight: false
 issue: content/issues/identity-from-double-to-avatar.md
 language: English
 needDOI: true
 published: true
-start: false
-stop: false
 subissue: false
 yt: z-_Sug7EuYI
 

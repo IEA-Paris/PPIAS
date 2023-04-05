@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Doriane
 is_institution: false
+issues: []
 lastname: Guennec
 picture: ''
 picture_copyright: ''

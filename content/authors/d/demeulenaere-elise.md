@@ -5,6 +5,7 @@ articles:
 exerpt: ''
 firstname: Elise
 is_institution: false
+issues: []
 lastname: Demeulenaere
 picture: ''
 picture_copyright: ''

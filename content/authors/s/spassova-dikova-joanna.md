@@ -7,6 +7,7 @@ firstname: Joanna
 is_institution: false
 issue:
   - content/issues/HCERES - PFUE 2022.md
+issues: []
 language:
   - English
 lastname: Spassova-Dikova

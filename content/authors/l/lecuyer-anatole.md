@@ -7,6 +7,7 @@ firstname: Anatole
 is_institution: false
 issue:
   - content/issues/virtual-realities.md
+issues: []
 language: null
 lastname: Lecuyer
 positions_and_institutions:

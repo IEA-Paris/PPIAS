@@ -8,6 +8,7 @@ firstname: Pauline
 is_institution: false
 issue:
   - content/issues/territories-of-energy-transition.md
+issues: []
 language: null
 lastname: Gabillet
 positions_and_institutions:

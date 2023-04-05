@@ -1,10 +1,15 @@
 ---
 active: true
 articles:
+  - >-
+    SynE3_2017_07_identity-versus-self -
+    SynE3_2017_16_roundtable-1-past-and-present-perpetrators
+  - SynE3_2017_07_identity-versus-self
   - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
 exerpt: ''
 firstname: JM
 is_institution: false
+issues: []
 lastname: Berger
 positions_and_institutions:
   - institution: International Center for Counter-Terrorism, Netherlands

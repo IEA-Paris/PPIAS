@@ -7,6 +7,7 @@ firstname: Paul
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
+issues: []
 language: null
 lastname: Jorion
 positions_and_institutions:

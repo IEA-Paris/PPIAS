@@ -12,11 +12,9 @@ authors:
     is_institution: false
     lastname: Reynolds
     positions_and_institutions:
-      - institution: IEA de Paris, France
+      - institution: Paris Institute for Advanced Study, France
         positions:
           - ''
-    titles_and_institutions:
-      - institution: Paris Institute for Advanced Study, France
 date: 2016-05-23T03:00:00.000Z
 highlight: false
 issue: content/issues/territories-of-energy-transition.md

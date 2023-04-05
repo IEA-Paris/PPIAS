@@ -1,12 +1,19 @@
 ---
 active: true
 articles:
+  - >-
+    1. Crise sanitaire - Covid19 - 3. Crise migratoire - Du global au local - 2.
+    Crise economique - Inegalites - 4. Histoire des pandemies
   - 1. Crise sanitaire - Covid19
+  - 2. Crise economique - Inegalites
+  - 3. Crise migratoire - Du global au local
+  - 4. Histoire des pandemies
 exerpt: ''
 firstname: Séverine
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise.md
+issues: []
 language:
   - French
 lastname: Mathieu

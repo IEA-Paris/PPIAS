@@ -1,12 +1,18 @@
 ---
 active: true
 articles:
+  - >-
+    SynE3_2017_11_plasticity-of-empathy-and-prosocial-motivation - >-
+    SynE3_2017_17_roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
   - SynE3_2017_11_plasticity-of-empathy-and-prosocial-motivation
+  - >-
+    SynE3_2017_17_roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
 exerpt: ''
 firstname: Tania
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
+issues: []
 language: null
 lastname: SINGER
 positions_and_institutions:

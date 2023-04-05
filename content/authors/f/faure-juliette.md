@@ -7,6 +7,7 @@ firstname: Juliette
 is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
+issues: []
 language: null
 lastname: Faure
 positions_and_institutions:

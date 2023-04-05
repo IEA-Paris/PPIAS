@@ -4,6 +4,7 @@ articles:
   - MOSCO_2016_07_the-impact-of-majority-and-minority-social-support
 exerpt: ''
 firstname: Juan Manuel
+issues: []
 lastname: Falomir- Pichastor
 positions_and_institutions:
   - institution: University of Geneva, Switzerland

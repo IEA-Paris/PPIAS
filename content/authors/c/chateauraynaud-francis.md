@@ -7,6 +7,7 @@ firstname: Francis
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
+issues: []
 language: null
 lastname: Chateauraynaud
 positions_and_institutions:

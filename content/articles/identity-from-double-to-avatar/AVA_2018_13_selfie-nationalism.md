@@ -18,16 +18,12 @@ authors:
       linkedin: https://www.linkedin.com/in/giovannaborradori
       researchgate: https://www.researchgate.net/profile/Giovanna-Borradori
       wikipedia: https://en.wikipedia.org/wiki/Giovanna_Borradori
-    titles_and_institutions:
-      - institution: Vassar College, USA
 date: 2018-12-14T12:00:00.000Z
 highlight: false
 issue: content/issues/identity-from-double-to-avatar.md
 language: English
 needDOI: true
 published: true
-start: false
-stop: false
 subissue: false
 yt: H2E98Ncoff8
 

@@ -7,6 +7,7 @@ firstname: Jens
 is_institution: false
 issue:
   - content/issues/territories-of-energy-transition.md
+issues: []
 language: null
 lastname: Koehrsen
 positions_and_institutions:

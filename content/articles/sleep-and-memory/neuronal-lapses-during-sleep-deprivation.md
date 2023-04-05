@@ -16,8 +16,7 @@ highlight: false
 issue: content/issues/sleep-and-memory.md
 needDOI: false
 published: false
-start: false
-stop: false
+
 subissue: false
 yt: hpO9yhebypI
 language: English

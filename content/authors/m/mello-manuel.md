@@ -8,6 +8,7 @@ firstname: Manuel
 is_institution: false
 issue:
   - content/issues/virtual-realities.md
+issues: []
 language: null
 lastname: Mello
 positions_and_institutions:

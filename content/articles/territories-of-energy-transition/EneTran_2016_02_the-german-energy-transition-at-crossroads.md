@@ -15,8 +15,6 @@ authors:
           - ''
     social_channels:
       linkedin: https://de.linkedin.com/in/bastian-hoffmann-771a63155/en
-    titles_and_institutions:
-      - institution: European Institute for Energy Research, Germany
 date: 2016-05-23T00:00:00.000Z
 highlight: false
 issue: content/issues/territories-of-energy-transition.md

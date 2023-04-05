@@ -7,6 +7,7 @@ firstname: Sylvain
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
+issues: []
 language: null
 lastname: Piron
 positions_and_institutions:
