@@ -73,7 +73,11 @@
                     "
                     v-html="item.subtitle"
                   ></h4>
-                  <nuxt-img v-if="item.cover" :src="item.cover" />
+                  <nuxt-img
+                    v-if="item.cover"
+                    :src="item.cover"
+                    style="max-width: 100%"
+                  />
                   <div class="overline mb-6">
                     {{
                       $t('publication-date-0', [
