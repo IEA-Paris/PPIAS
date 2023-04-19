@@ -17,7 +17,6 @@
           xmlns:xlink="http://www.w3.org/1999/xlink"
           x="0px"
           y="0px"
-          :class="{ bnw: small }"
           :width="small ? 15 : 40"
           viewBox="0 0 256 256"
           style="enable-background: new 0 0 256 256"
