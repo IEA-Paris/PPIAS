@@ -1,11 +1,14 @@
 ---
 needDOI: true
 issue: content/issues/biens-communus.md
-keywords: []
-date: 2023-04-05T16:00:56Z
+keywords:
+- Communs
+- Entreprise
+- droit
+date: 2023-04-05T16:00:56.000+00:00
 language: French
 disciplines: ''
-published: false
+published: true
 doi: ''
 article_title: Le Bien Commun, clé juridique du monde qui vient ?
 authors:
@@ -106,9 +109,11 @@ abstract: 'Le Bien Commun, clé juridique du monde qui vient ?: 2ème rencontre 
 sub-issue: ''
 picture: ''
 picture_copyright: ''
-yt: ''
-highlight: false
-bibliography: ''
+yt: jPMfMqOfUwk
+highlight: true
+bibliography: "/documents-exportes-bc2b.bib"
 
 ---
 L’aspiration à la transformation sociale est aujourd’hui patente. On assiste à de multiples expériences pour décliner l’intérêt général, socle de nos textes républicains, à l’aune de la modernité et de la sobriété. N’est-il pas temps de revisiter la notion d’intérêt général ? La notion de bien commun rend-t-elle mieux compte des défis de notre époque ? Cette notion s’esquisse dans les projets de lois, dans les déclarations internationales, dans les engagements des entreprises, le bien commun est-il la traduction sociale de l’intérêt général ? Faut-il consacrer le bien commun dans notre droit ?
+
+<Youtube yt="jPMfMqOfUwk" caption ="Le Bien Commun, clé juridique du monde qui vient ?"></Youtube>
