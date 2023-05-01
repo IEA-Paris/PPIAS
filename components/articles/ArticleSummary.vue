@@ -85,7 +85,9 @@
       <div class="overline">{{ $t('language') }}</div>
       <div class="mb-6">
         &nbsp;{{
-          $t('this-article-is-in', { lang: $t(item.language || 'english') })
+          $t('this-article-is-in', {
+            lang: $t(item.language.toLowerCase() || 'english'),
+          })
         }}
       </div>
       <template v-if="item.issue && item.issue.length">

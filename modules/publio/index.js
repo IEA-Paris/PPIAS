@@ -111,11 +111,13 @@ export default function (moduleOptions) {
   })
 
   nuxt.hook('build:done', async (nuxt) => {
-    console.log('process.server: ')
     // For dev mode only, we start the PDF rendering process to allow debug and preview.
+    // Only run the following code in non-production environments
     if (process.env.NODE_ENV !== 'production') {
-      console.log('"BUILD:done"')
-      routesToPrint = makePrintRoutes(articles, options)
+      // Generate the routes to print
+      const routesToPrint = makePrintRoutes(articles, options)
+
+      // Generate PDFs and thumbnails for the print routes using the generateFiles function
       await generateFiles(
         routesToPrint,
         {
@@ -124,13 +126,6 @@ export default function (moduleOptions) {
         },
         url
       )
-      /*     articles = await disseminate(
-        articles,
-        options,
-        zenodoQueue,
-        // METADATA/FRONTMATTER
-        [publishOnZenodo, updateArticlesDoiAndZid]
-      ) */
     }
   })
 

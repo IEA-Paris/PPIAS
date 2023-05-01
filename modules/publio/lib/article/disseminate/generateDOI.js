@@ -206,11 +206,6 @@ export default async (articles, options) => {
         /*  console.log('sameIdOrDoi: ', sameIdOrDoi) */
         // check if the article already exists on Zenodo:
         if (sameIdOrDoi) {
-          /*          console.log(
-            'FOUND articles matching on Zenodo for ',
-            document.article_title
-          ) */
-
           // we found the matching article on Zenodo
           const sameFrontmatter = hasSameFrontmatter(
             sameIdOrDoi.metadata,

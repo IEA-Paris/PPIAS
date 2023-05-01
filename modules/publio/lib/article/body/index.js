@@ -38,7 +38,7 @@ export default (
   }
   article.years =
     (article.date && new Date(article.date)?.getFullYear()) ||
-    new Date().now().getFullYear()
+    new Date().getFullYear()
 
   // process node by node to enrich the content
   article.body.children = article.body.children.filter((child, index) => {

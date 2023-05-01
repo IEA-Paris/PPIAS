@@ -1,10 +1,10 @@
 <template>
-  <v-card outlined class="px-3 pb-3" nuxt :to="'/issue/' + issue.slug">
-    <v-card-title v-html="issue.name_of_the_issue"></v-card-title>
+  <v-card outlined class="pa-3" nuxt :to="'/issue/' + issue.slug">
+    <v-card-title class="mx-6" v-html="issue.name_of_the_issue"></v-card-title>
     <v-card-text
       v-if="issue.body && issue.body.children && issue.body.children.length"
     >
-      <nuxt-content :document="issue" class="mx-6" />
+      <nuxt-content :document="issue" />
     </v-card-text>
     <v-card-actions v-if="total > 1 && !$route.name.startsWith('print')">
       <v-spacer></v-spacer>

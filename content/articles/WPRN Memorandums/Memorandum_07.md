@@ -20,7 +20,7 @@ published: true
 pinned: false
 bibliography: "/bibliography/documents-exportes_memo7.bib"
 authors:
-- firstname: 'Victor  '
+- firstname: 'Victor'
   lastname: 'Galonnier'
   social_channels:
     linkedin: https://fr.linkedin.com/in/victorgalonnier

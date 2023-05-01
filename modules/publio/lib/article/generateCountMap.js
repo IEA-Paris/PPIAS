@@ -1,5 +1,5 @@
-export default (node, article, media, authors, issues, options) => {
-  const getCount = (item, count = 0, type) => {
+function generateCount(node, article, media, authors, issues, options) {
+  function getCount(item, count = 0, type) {
     item.children &&
       item.children.forEach((element) => {
         if (type === 'text') {
@@ -17,9 +17,10 @@ export default (node, article, media, authors, issues, options) => {
     return count
   }
 
-  // generate count & stats for the graph thumbnails
   article.countMap = [...article.countMap, getCount(node, 0, 'text')]
   article.countRefs = [...article.countRefs, getCount(node, 0, 'link')]
-  /*     console.log(`${chalk.green('✔')}  Generated stats for ${document.slug}`) */
+
   return [node, article, media, authors, issues, options]
 }
+
+export default generateCount

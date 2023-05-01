@@ -53,81 +53,83 @@ export const formatDate = (timestamp, withTime) => {
   return formatedDate
 }
 export const formatAuthors = (
-  authors = false,
+  authors = [],
   $t,
   full = false,
   initials = true
 ) => {
   const format = (author) => {
-    const name =
-      // yup, you gotta love ternaries
-      author.lastname.replace(' ', '&nbsp;').trim() +
-      (author.is_institution
-        ? ''
-        : (initials ? '&nbsp;' : ',&nbsp;') +
-          (initials && author?.firstname?.length
-            ? author.firstname
-                .trim()
-                .replace(/[^A-Za-z0-9À-ÿ ]/gi, '') // taking care of accented characters as well
-                .replace(/ +/gi, ' ') // replace multiple spaces to one
-                .split(/ /) // break the name into parts
-                .reduce((acc, item) => acc + item[0], '') // assemble an abbreviation from the parts
-                .concat(author.firstname.substr(1)) // what if the name consist only one part
-                .concat(author.firstname) // what if the name is only one character
-                .substr(0, 1) // get the first two characters an initials
-                .toUpperCase()
-            : author.firstname || '') +
-          (initials ? '.&nbsp;' : ''))
+    const name = author.lastname.trim().replace(' ', '&nbsp;')
     const institution =
-      (author?.positions_and_institutions &&
-        author?.positions_and_institutions[0] &&
-        author.positions_and_institutions[0]?.institution) ||
-      ''
-    return full && institution.length
-      ? name +
-          ` - <i>${institution}</i>
- `
-      : name
-  }
-  if (!authors) return ''
+      author.positions_and_institutions?.[0]?.institution || ''
 
-  if (authors.length === 1) return format(authors[0])
+    if (author.is_institution) return name
+
+    const firstname =
+      author.firstname
+        ?.trim()
+        ?.replace(/[^A-Za-z0-9À-ÿ ]/gi, '')
+        ?.replace(/ +/gi, ' ') || ''
+
+    const initialsText =
+      firstname
+        .split(/ /)
+        ?.reduce((acc, item) => acc + item?.[0], '')
+        ?.toUpperCase() || ''
+    const firstnameText = !initials
+      ? firstname
+      : initialsText
+          .concat(firstname.substr(1))
+          .concat(firstname)
+          .substr(0, 1)
+          .toUpperCase()
+
+    const authorName = `${name}${
+      initials && firstname.length ? '.&nbsp;' : ',&nbsp;'
+    }${firstnameText}${initials && firstname.length ? '.&nbsp;' : ''}`
+
+    return full && institution.length
+      ? `${authorName} - <i>${institution}</i>`
+      : authorName
+  }
+
+  if (!authors.length) return ''
+
+  if (authors.length === 1) {
+    return format(authors[0])
+  }
 
   if (authors.length === 2) {
-    return (
-      format(authors[0]) +
-      // fallback on english for pdfs (only case where $t is called as undefined)
-      // TODO: double check it works once we go for multilingual
-      (typeof $t === 'undefined' ? ' and ' : $t('and')) +
-      format(authors[1])
-    )
+    return `${format(authors[0])}${
+      !($t && $t('and')) ? ' and ' : $t('and')
+    }${format(authors[1])}`
   }
+
   if (authors.length === 3 || full) {
     return authors.map((author) => format(author)).join(', ')
   }
+
   if (authors.length > 3) {
     return authors
       .slice(0, 4)
-      .map((author, index) => {
-        if (index === 3) return 'et&nbsp;al.'
-        return format(author)
-      })
+      .map((author, index) => (index === 3 ? 'et&nbsp;al.' : format(author)))
       .join(', ')
   }
+
   return ''
 }
+
 export const formatTitleAndInstitutions = (obj) => {
-  if (!obj || !obj.length) return ''
+  if (!obj || !obj.length) return '' // The same as before
   return obj
-    .map((institution) =>
-      institution.institution
-        ? institution.institution +
-          (institution.positions && institution.positions.length
-            ? ' - ' + institution.positions.join(', ')
-            : '')
-        : ''
-    )
-    .join(', ')
+    .map(({ institution, positions }) => {
+      // object destructuring of institution and positions property
+      if (!institution) return '' // if there is no institution, return an empty string
+      return `${institution}${
+        positions && positions.length ? ' - ' + positions.join(', ') : ''
+      }` // using string interpolation to concatenate institution and positions with a hyphen only if positions exist
+    })
+    .join(', ') // The same as before
 }
 export const formatSearch = (str) => {
   if (!str) return []

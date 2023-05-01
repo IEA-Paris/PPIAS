@@ -86,11 +86,13 @@ export const formatAuthors = (
     if (full) {
       const slug = getAuthorSlug(author)
       const instutionElmt = institutionsIds
-        .map((instutionId) => {
+        .map((instutionId, index) => {
           if (linkInsitution) {
             return `<a style="text-decoration: none;" href="#institution-${instutionId}"><sup>${instutionId}&nbsp;</sup></a>`
           }
-          return `<sup>${instutionId}</sup>&nbsp;`
+          return `<sup>${instutionId}</sup>${
+            index === institutionsIds.length - 1 ? '' : '&nbsp;'
+          }`
         })
         .join('')
       return `<a href="${url}/author/${slug}" style="text-decoration: none; color: inherit;">${name}<span style="margin-left: 3px">${instutionElmt}</span></a>`
@@ -138,10 +140,8 @@ export const formatTitleAndInstitutions = (obj) => {
 }
 export const formatSearch = (str) => {
   if (!str) return []
-  else
-    return str
-      .split(' ')
-      .filter((item) => item.length > 1 && !stopWords.includes(item))
+  const words = str.split(' ')
+  return words.filter((word) => word.length > 1 && !stopWords.includes(word))
 }
 
 export const capitalize = (value) => {
@@ -166,25 +166,24 @@ export const truncate = (text, stop, link, url) => {
 
 export const highlightAndTruncate = (stop, word, query, url, link) => {
   try {
-    if (query?.[0]?.length) {
+    // check that query exists, has an array and has elements inside
+    if (query?.length && query[0]?.length) {
+      // check if the word length is greater than the stop value
       if (word.length > stop) {
-        // calculate matches indexes
-        const indexes = []
-        query.forEach((element, index) => {
-          if (word.includes(element)) indexes.push(word.indexOf(element))
-        })
+        // map each query element to its matching index (if it exists)
+        const indexes = query
+          .map((element) => word.indexOf(element))
+          .filter((index) => index !== -1)
 
-        // is there a match?
+        // check if matches have been found
         if (indexes.length) {
+          // get the lowest index value
           const firstIndex = Math.min(...indexes)
 
-          // is it in the first 400 chars?
+          // check if the first index is greater than the stop value plus the length of the longest query string
           if (
-            firstIndex -
-              query.reduce(function (a, b) {
-                return a.length > b.length ? a : b
-              }).length >
-            stop
+            firstIndex >
+            stop + Math.max(...query.map((element) => element.length))
           ) {
             // check if the first index is at the end of the string, if so, we split from the end
             if (word.length - firstIndex < stop) {
@@ -201,6 +200,8 @@ export const highlightAndTruncate = (stop, word, query, url, link) => {
           // no match, let's just truncate
           word = word.slice(0, stop)
         }
+
+        // highlight each query string in the word
         query.forEach((element) => {
           const check = new RegExp(element, 'ig')
           word = word.replace(check, function (matchedText, a, b) {
@@ -214,10 +215,15 @@ export const highlightAndTruncate = (stop, word, query, url, link) => {
       }
     }
 
-    word = word + (url ? '... <a href="' + url + '">' + link + '</a>' : '...')
+    word += url ? `... <a href="${url}">${link}</a>` : '...'
+
     return word
-  } catch (error) {}
+  } catch (error) {
+    console.log(error)
+    return ''
+  }
 }
+
 export const formatBiblioAPA7th = (item, name, self = true) => {
   return (
     item.entryTags.author +
@@ -234,24 +240,22 @@ export const formatBiblioAPA7th = (item, name, self = true) => {
   )
 }
 export const highlight = (word, query = '', light = false) => {
-  // TODO replace hard coded colors/lengths by config variables
   const stopwords = ['this']
 
-  const tokens = query.split(/\W+/).filter(function (token) {
+  const tokens = query.split(/\W+/).filter((token) => {
     token = token.toLowerCase()
     return token.length >= 2 && !stopwords.includes(token)
   })
+
   tokens.forEach((token) => {
     const regex = new RegExp(token, 'gi')
-    word = word.replaceAll(
-      regex,
-      '<strong style="color:' +
-        (light ? 'black' : 'white') +
-        ';background-color:' +
-        (light ? 'white' : 'black') +
-        ';">$&</strong>'
-    )
+    const bgColor = light ? 'white' : 'black'
+    const fontColor = light ? 'black' : 'white'
+    const style = `style="color: ${fontColor}; background-color: ${bgColor}"`
+
+    word = word.replace(regex, `<strong ${style}>$&</strong>`)
   })
+
   return word
 }
 /**
@@ -335,15 +339,6 @@ export const getYoutubeVideoId = (youtubeStr) => {
  * @returns {String}
  */
 export default function stripParameters(str) {
-  // Split parameters or split folder separator
-  if (str.includes('?')) {
-    return str.split('?')[0]
-  }
-  if (str.includes('/')) {
-    return str.split('/')[0]
-  }
-  if (str.includes('&')) {
-    return str.split('&')[0]
-  }
-  return str
+  const regex = /[/?&]/
+  return str.split(regex)[0]
 }
