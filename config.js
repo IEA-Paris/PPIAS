@@ -75,6 +75,7 @@ export default {
     zenodo: {
       token: 'YZ2NJN33R5K68Qh3ev46llet5b01FSSWdws3y4zxc4auBBHnq91xaBdGXDfU',
       sandbox: true,
+      community: 'test-pias',
     },
     image: {
       domains: [
