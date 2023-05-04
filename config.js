@@ -73,9 +73,10 @@ export default {
       server: 'https://ackee.paris-ias.io/',
     },
     zenodo: {
-      token: 'YZ2NJN33R5K68Qh3ev46llet5b01FSSWdws3y4zxc4auBBHnq91xaBdGXDfU',
+      token: process.env.ZENODO_TOKEN,
+      sandboxToken: process.env.ZENODO_SANDBOX_TOKEN,
       sandbox: true,
-      community: 'test-pias',
+      community: 'testpias',
     },
     image: {
       domains: [

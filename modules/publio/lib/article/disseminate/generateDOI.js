@@ -124,9 +124,8 @@ export default async (articles, options) => {
           journal_issue: document.issue.slice(15, -3),
         }),
         communities: [
-          /* TODO add once the official release is done { identifier: 'publiio' } */
           {
-            identifier: 'pias',
+            identifier: config.modules.zenodo.community,
           },
         ],
         journal_title: cleanupString(config.full_name),

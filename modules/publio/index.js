@@ -85,11 +85,13 @@ export default function (moduleOptions) {
     })
   })
   nuxt.hook('generate:done', async ({ name }, errors) => {
+    console.log('"GENERATE:DONE"')
     console.log('errors: ', errors.toString())
     if (!once) return
     storeReport()
     console.log('"GENERATE:DONE"')
     once = false
+
     url = 'http://127.0.0.1:3000'
     if (routesToPrint.length) {
       await generateFiles(
@@ -101,13 +103,14 @@ export default function (moduleOptions) {
         url
       )
     }
-    /*   articles = await disseminate(
+    console.log('STARTING DISSEMINATION')
+    articles = await disseminate(
       articles,
       options,
       zenodoQueue,
       // METADATA/FRONTMATTER
       [publishOnZenodo, updateArticlesDoiAndZid]
-    ) */
+    )
   })
 
   nuxt.hook('build:done', async (nuxt) => {
@@ -116,6 +119,7 @@ export default function (moduleOptions) {
     if (process.env.NODE_ENV !== 'production') {
       // Generate the routes to print
       const routesToPrint = makePrintRoutes(articles, options)
+      console.log('routesToPrint: ', routesToPrint)
 
       // Generate PDFs and thumbnails for the print routes using the generateFiles function
       await generateFiles(
@@ -125,6 +129,13 @@ export default function (moduleOptions) {
           thumbnails: generateThumbnails,
         },
         url
+      )
+      articles = await disseminate(
+        articles,
+        options,
+        zenodoQueue,
+        // METADATA/FRONTMATTER
+        [publishOnZenodo, updateArticlesDoiAndZid]
       )
     }
   })
@@ -168,7 +179,8 @@ export default function (moduleOptions) {
       // make an array of routes to print
       routesToPrint = makePrintRoutes(articles, options)
       // Upsert on Zenodo/OpenAire & get DOI is none is available
-      /*  articles = await upsertOnZenodo(articles, options, zenodoQueue) */
+      articles = await upsertOnZenodo(articles, options, zenodoQueue)
+      updateArticlesDoiAndZid(articles)
     }
     return true
   })

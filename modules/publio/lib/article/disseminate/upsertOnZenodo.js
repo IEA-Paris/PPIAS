@@ -11,7 +11,9 @@ export default async (articles, options, queue) => {
       host: options.config.modules.zenodo.sandbox
         ? 'sandbox.zenodo.org'
         : 'zenodo.org',
-      token: options.config.modules.zenodo.token,
+      token: options.config.modules.zenodo.sandbox
+        ? options.config.modules.zenodo.sandboxToken
+        : options.config.modules.zenodo.token,
       protocol: 'https',
     })
 
@@ -44,28 +46,27 @@ export default async (articles, options, queue) => {
       false
 
     const hasSameIdOrDoi = (data, document) => {
-      return data?.length && document.Zid && document.DOI
+      return data?.length && document?.Zid && document?.DOI
         ? data.find(
             (article) =>
-              (article.id && document.Zid && article.id === document.Zid) ||
-              (document.DOI &&
-                article.metadata.doi &&
-                article.metadata.doi === document.DOI)
+              (article.id && article.id === document.Zid) ||
+              article.metadata?.doi === document.DOI
           )
         : false
     }
 
-    const createArticleOnZenodo = async (document, editMode = false) => {
+    const upsertArticleOnZenodo = async (document, editMode = false) => {
       const metadata = buildZenodoDocument(document, options)
-      // console.log(' creating article on zenodo', document.article_title)
-      metadata.title = document.article_title + new Date().toLocaleString()
-      // used to debug using postman-like extensions:
-      // console.log('metadata: ', JSON.stringify({ metadata }))
-      console.log('query: ', JSON.stringify({ metadata }))
+
+      metadata.title = `${
+        document.article_title
+      } ${new Date().toLocaleString()}`
+
       return await queue.add(async () => {
-        return editMode
-          ? await zenodo.depositions.update({ metadata })
-          : await zenodo.depositions.create({ metadata })
+        const deposition = await (editMode
+          ? zenodo.depositions.update({ metadata })
+          : zenodo.depositions.create({ metadata }))
+        return deposition
       })
     }
 
@@ -79,6 +80,7 @@ export default async (articles, options, queue) => {
     If not, we create the new document on Zenodo  and all the associated metadata.
     Note that when created, only documents with the attribute "needDOI" set to *true* will get a generated DOI.
     */
+
       const resolvedPath = path.resolve(
         process.env.NODE_ENV !== 'production' ? 'static/pdfs' : 'pdfs',
         document.slug + '.pdf'
@@ -95,7 +97,7 @@ export default async (articles, options, queue) => {
       console.log('document.checksum: ', document.checksum)
       // Compare DOI and Zenodo document id
       const sameIdOrDoi = hasSameIdOrDoi(records, document)
-      console.log('sameIdOrDoi: ', sameIdOrDoi)
+      /*   console.log('sameIdOrDoi: ', sameIdOrDoi) */
       // check if the article already exists on Zenodo:
       if (sameIdOrDoi) {
         console.log(
@@ -109,10 +111,10 @@ export default async (articles, options, queue) => {
           sameIdOrDoi.metadata || {}
         )
         const sameChecksum = hasSameChecksum(sameIdOrDoi || [], document)
-        console.log('sameChecksum: ', sameChecksum)
+        /*  console.log('sameChecksum: ', sameChecksum) */
         if (!sameFrontmatter || !sameChecksum) {
           console.log('Update required on an existing article')
-          if (sameIdOrDoi.state === 'done') {
+          /*  if (sameIdOrDoi.state === 'done') {
             console.log('unlockingedit')
             await queue.add(async () => {
               return await zenodo.depositions.edit({ id: document.Zid })
@@ -125,32 +127,34 @@ export default async (articles, options, queue) => {
             document.Zid = rst.data.id
           }
           // since we de-published the article, we need to republish it once the pdf & data is updated
-          document.todo.publishOnZenodo = true
+          document.todo.publishOnZenodo = true */
         }
       } else {
         console.log("article doesn't exist on Zenodo", document.article_title)
         // this article doesn't exist on Zenodo. Let's create it then.
-        const rst = (await createArticleOnZenodo(document)) || false
+        const rst = (await upsertArticleOnZenodo(document)) || false
         if (rst) {
           document.Zid = rst.data.id
           document.DOI = rst.data.metadata.prereserve_doi.doi
           document.links = { ...rst.data.links }
         }
-        console.log('document created')
+        console.log('document created', document.DOI)
       }
       return document
     }
-    const result = await Promise.all(
-      articles
+    articles = await Promise.all(
+      await articles
         // filter published articles only. It is done earlier in the fetch but it makes it more resilient
-        .filter((article) => article.published)
+        .filter(
+          (article) =>
+            article.published && article.needDOI === true && !article.DOI
+        )
         .map(async (document) => await generateDOI(document, records))
     )
 
     return articles
   } catch (error) {
     console.log('error while inserting on Zenodo: ', error)
-    console.log('query: ', query)
   }
   return articles
 }

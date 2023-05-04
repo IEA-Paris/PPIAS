@@ -64,7 +64,7 @@ export default (document, options) => {
     communities: [
       /* TODO add once the official release is done { identifier: 'publiio' } */
       {
-        identifier: 'pias',
+        identifier: options.config.modules.zenodo.community,
       },
     ],
     journal_title: cleanupString(options.config.full_name),
@@ -85,7 +85,10 @@ export default (document, options) => {
     creators: document.authors.map((item) => {
       // TODO include all title & institution info
       return {
-        name: item.lastname.trim() + ', ' + item.firstname.trim(),
+        name:
+          item.lastname.trim() + item.is_institution
+            ? ', ' + item.firstname?.trim()
+            : '',
         ...(item.positions_and_institutions &&
           item.positions_and_institutions[0] &&
           item.positions_and_institutions[0].institution && {

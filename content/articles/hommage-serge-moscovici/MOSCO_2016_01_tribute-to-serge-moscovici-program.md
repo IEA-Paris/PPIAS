@@ -1,22 +1,25 @@
 ---
+DOI: 10.5072/zenodo.1197904
+Zid: 1197904
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Program
 article_title: Tribute to Serge Moscovici - Program
 authors:
-- lastname: European Association of Social Psychology (EASP)
-  is_institution: true
-- lastname: Institut d'études avancées de Paris, France
-  positions_and_institutions: []
-  is_institution: true
-date: 2016-11-17T00:00:00.000+00:00
+  - is_institution: true
+    lastname: European Association of Social Psychology (EASP)
+  - is_institution: true
+    lastname: Institut d'études avancées de Paris, France
+    positions_and_institutions: []
+date: 2016-11-17T00:00:00.000Z
 highlight: false
 issue: content/issues/hommage-serge-moscovici.md
+language: English
 needDOI: false
 published: true
 subissue: false
 yt: false
-language: English
 
 ---
+
 ### Program
 
 **17 November 2016**

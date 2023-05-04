@@ -1,32 +1,28 @@
 ---
 active: true
 articles:
-  - Bien communs_1_ouverture officielle
   - Biens communs_2_clé juridique
 exerpt: ''
-firstname: Bettina
+firstname: Christian
 is_institution: false
 issue:
   - content/issues/biens-communus.md
 language:
   - French
-lastname: Laville
+lastname: Huglo
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: Comité 21, France
-    positions: []
-  - institution: Institut d'études avancées de Paris, France
+  - institution: Barreau de Paris, France
     positions: []
 social_channels:
   google_scholar: ''
   instagram: ''
-  linkedin: >-
-    https://fr.linkedin.com/in/bettina-laville-a87a405b?original_referer=https%3A%2F%2Fwww.google.com%2F
+  linkedin: https://fr.linkedin.com/in/christian-huglo-9b4909a3
   mendeley: ''
   orcid: ''
   researchgate: ''
-  twitter: '@Bettina_Laville'
+  twitter: '@ChristianHuglo'
   website: ''
   wikipedia: ''
 years:

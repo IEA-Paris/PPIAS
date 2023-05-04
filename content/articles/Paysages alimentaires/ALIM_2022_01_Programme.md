@@ -1,90 +1,95 @@
 ---
-needDOI: true
+DOI: 10.5072/zenodo.1197694
+Zid: 1197694
+abstract: >-
+  Paysages alimentaires conviviaux : pour aller au-delà de la durabilité
+  alimentaire, IEA de Paris, 20-21 juin 2022 - Programme
+article_title: >-
+  Paysages alimentaires conviviaux : pour aller au-delà de la durabilité
+  alimentaire - Programme
+authors:
+  - firstname: ''
+    is_institution: true
+    lastname: Institut d'études avancées de Paris, France
+    picture: ''
+    picture_copyright: ''
+    positions_and_institutions: []
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+  - firstname: ''
+    is_institution: true
+    lastname: University of Göttigen, Germany
+    picture: ''
+    picture_copyright: ''
+    positions_and_institutions: []
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+  - firstname: ''
+    is_institution: true
+    lastname: IRD, France
+    picture: ''
+    picture_copyright: ''
+    positions_and_institutions: []
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+  - firstname: ''
+    is_institution: true
+    lastname: UMR 208 PALOC, France
+    picture: ''
+    picture_copyright: ''
+    positions_and_institutions: []
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+bibliography: ''
+custom_pdf: ''
+date: 2022-06-19T23:00:00.000Z
+disciplines: ''
+doi: ''
+highlight: false
 issue: content/issues/paysages-alimentaires.md
 keywords: []
-date: 2022-06-19T23:00:00.000+00:00
 language: French
-disciplines: ''
-published: true
-doi: ''
-article_title: 'Paysages alimentaires conviviaux : pour aller au-delà de la durabilité
-  alimentaire - Programme'
-authors:
-- lastname: Institut d'études avancées de Paris, France
-  is_institution: true
-  firstname: ''
-  positions_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-- lastname: University of Göttigen, Germany
-  is_institution: true
-  firstname: ''
-  positions_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-- lastname: IRD, France
-  is_institution: true
-  firstname: ''
-  positions_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-- lastname: UMR 208 PALOC, France
-  is_institution: true
-  firstname: ''
-  positions_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-custom_pdf: ''
-abstract: 'Paysages alimentaires conviviaux : pour aller au-delà de la durabilité
-  alimentaire, IEA de Paris, 20-21 juin 2022 - Programme'
-sub-issue: ''
+needDOI: true
 picture: ''
 picture_copyright: ''
+published: true
+sub-issue: ''
 yt: ''
-highlight: false
-bibliography: ''
 
 ---
+
 **20 juin 2022**
 
 **10:00**        **Raúl Matta** (Université de Göttingen et IEA Paris), **Charles-Édouard de Suremain** (UMR 208 PALOC - IRD/MNHN) : Mots de bienvenue et introduction
