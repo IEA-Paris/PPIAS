@@ -96,7 +96,7 @@ export default function (moduleOptions) {
     console.log('routesToPrint: ', routesToPrint)
 
     url = 'http://127.0.0.1:3000'
-    if (routesToPrint?.pdf.length || routesToPrint?.thumbnails.length) {
+    if (routesToPrint?.pdfs?.length || routesToPrint?.thumbnails?.length) {
       await generateFiles(
         routesToPrint,
         {

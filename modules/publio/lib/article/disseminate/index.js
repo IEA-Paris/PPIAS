@@ -4,7 +4,7 @@ export default async (articles, options, zenodoQueue, transformers) => {
   for (const transformer of transformers) {
     articles = await transformer(articles, options, zenodoQueue)
   }
-  console.log('RETURNING ARTICLES', articles.length)
+  console.log('RETURNING ARTICLES', articles?.length)
   // Now that we're done with tedious stuff, let's disseminate AF
   // Other plugins
   return articles

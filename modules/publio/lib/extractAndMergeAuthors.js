@@ -109,7 +109,7 @@ export default async (content, options) => {
     .fetch()
   // let's add the DOI
   // we use this opportunity to get the dynamic routes for pdf-printing all the articles
-  await writePrintRoutes(articles)
+  /*   await writePrintRoutes(articles) */
 
   // extract the authors from articles with backlink
   let articleAuthors = articles
