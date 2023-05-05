@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1115033
-Zid: 1115033
 abstract: >-
   Introduction du forum "Our Microbial Lives: A Forum Against Eradication",  May
   27, 2021, Paris Institute for Advanced Study

@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155911
-Zid: 1155911
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 4
 article_title: >-
   Is There a Social Psychology of Historic Grievances and Intergroup Conflict in

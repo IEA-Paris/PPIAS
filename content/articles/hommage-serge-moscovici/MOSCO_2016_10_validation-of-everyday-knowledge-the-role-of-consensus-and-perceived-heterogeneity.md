@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155913
-Zid: 1155913
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 3
 article_title: >-
   Validation of Everyday Knowledge: The role of Consensus and Perceived

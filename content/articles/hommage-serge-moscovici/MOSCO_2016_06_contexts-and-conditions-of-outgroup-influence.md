@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155893
-Zid: 1155893
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 2
 article_title: Contexts and Conditions of Outgroup Influence
 authors:

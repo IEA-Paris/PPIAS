@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155947
-Zid: 1155947
 abstract: Justice and Climate Transitions, Paris IAS,  24-25 September 2015 - Session 2
 article_title: >-
   Justice, Trusteeship and the Transition to a Low Carbon Economy: An integrated

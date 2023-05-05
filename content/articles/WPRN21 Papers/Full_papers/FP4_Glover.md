@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1115116
-Zid: 1115116
+DOI: 10.5072/zenodo.1198601
+Zid: 1198601
 abstract: >
   Natural disasters, and pandemics, mostly occur without warning. The threat to
   public health, the environment, and social wellbeing warrants scientific
@@ -26,30 +26,15 @@ article_title: >-
   early in the COVID-19 pandemic: surveying changes in tobacco, alcohol and
   other substance use
 authors:
-  - firstname: 'Marewa'
+  - firstname: Marewa
     lastname: Glover
     picture: ''
     picture_copyright: ''
-    reference: ''
-    social_channels:
-      google_scholar: ''
-      instagram: ''
-      linkedin: ''
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      twitter: ''
-      website: ''
-      wikipedia: ''
     positions_and_institutions:
       - institution: >-
           Centre of Research Excellence: Indigenous Sovereignty & Smoking,
           Auckland, New Zealand
         positions: []
-  - firstname: 'Alexander'
-    lastname: Merkin
-    picture: ''
-    picture_copyright: ''
     reference: ''
     social_channels:
       google_scholar: ''
@@ -61,15 +46,15 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
+  - firstname: Alexander
+    lastname: Merkin
+    picture: ''
+    picture_copyright: ''
     positions_and_institutions:
       - institution: >-
           Centre for Precise Psychiatry and Neurosciences, Germany/Switzerland;
           Academy for Postgraduate Education, Moscow, Russia
         positions: []
-  - firstname: 'Sofya'
-    lastname: Akinfieva
-    picture: ''
-    picture_copyright: ''
     reference: ''
     social_channels:
       google_scholar: ''
@@ -81,11 +66,26 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
+  - firstname: Sofya
+    lastname: Akinfieva
+    picture: ''
+    picture_copyright: ''
     positions_and_institutions:
       - institution: >-
           National Centre for Development of Social Support & Rehabilitation,
           Moscow, Russia
         positions: []
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
 bibliography: /documents-exportes_fp4b.bib
 custom_pdf: ''
 date: 2022-05-29T21:49:20.000Z
@@ -106,6 +106,7 @@ published: true
 yt: ''
 
 ---
+
 
 
 ## 1. INTRODUCTION

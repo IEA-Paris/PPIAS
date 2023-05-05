@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1156021
-Zid: 1156021
 abstract: Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 4 - Dreaming (Part I)
 article_title: Dream Appreciation and Revisiting Dreams by Artwork
 authors:

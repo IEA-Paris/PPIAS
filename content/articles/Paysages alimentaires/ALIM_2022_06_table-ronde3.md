@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1197704
-Zid: 1197704
+DOI: 10.5072/zenodo.1198495
+Zid: 1198495
 abstract: >-
   Paysages alimentaires conviviaux : pour aller au-delà de la durabilité
   alimentaire, IEA de Paris, 20-21 juin 2022 - Table-ronde 3
@@ -116,6 +116,7 @@ sub-issue: ''
 yt: XFR55U11i4M
 
 ---
+
 
 On entendra la commensalité dans un sens large, constituée par des interactions nourricières réciproques entre êtres vivants – et comme une précondition pour la convivialité. Cette approche nous permettra d’établir des liens plus nuancés, intimes et durables avec la nourriture, et de mettre en question les rapports « marchandisés » à l’alimentation.
 

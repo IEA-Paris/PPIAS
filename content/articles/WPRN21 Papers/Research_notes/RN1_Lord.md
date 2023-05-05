@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1115370
-Zid: 1115370
 abstract: >-
   This Research Note draws upon the paper I presented at the conference,
   published in the Manitoba Law Journal, to consider the persisting issues

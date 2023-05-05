@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155925
-Zid: 1155925
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 5
 article_title: How "Human History of Nature" and the Theory of Minorities shed light
   on the Dialogical part of Social Representations. The Case of Psychologists addressing

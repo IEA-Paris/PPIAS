@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155895
-Zid: 1155895
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 1
 article_title: The Legacy of Serge Moscovici
 authors:

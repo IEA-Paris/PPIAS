@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1197666
-Zid: 1197666
+DOI: 10.5072/zenodo.1198467
+Zid: 1198467
 abstract: >-
   Les Biens communs, tragédie ou utopie réaliste ? : rencontre inaugurale du
   cycle "Bien(s) commun(s), voies d'espoir face aux défis du siècle" organisé
@@ -117,6 +117,7 @@ sub-issue: ''
 yt: uaVcDILnoTw
 
 ---
+
 
 En réponse à la tragédie des communs de Hardin, Elionor Olstrom a forgé le concept de biens communs : dans son livre paru en 1990, Governing the Commons : The Evolution of Institutions for Collective Action, Elinor Ostrom, mettait en évidence que certains biens ne sont pas produits par le marché car la satisfaction des besoins auxquels ils répondent n’est pas compatible avec ses lois. Depuis, la conscience des limites des ressources est de plus en plus prégnante, avec les résultats tragiques de la rivalité sur les biens et ressources d’un côté et de l’autre l’aspect encore utopique de la sobriété de leurs usages. Qu’en est-il aujourd’hui ? On fait souvent référence au concept des biens communs, mais est-il opératoire?
 

@@ -38,8 +38,6 @@ keywords:
   - StopCovid
   - Tracing Apps
 language: English
-DOI: 10.5072/zenodo.1115138
-Zid: 1115138
 ---
 
 Tracking refers here to the use of digital systems to identify or track an individual. In the context of the coronavirus pandemic, tracking, through its ability to find individuals likely to have been contaminated in order to isolate or test them, has emerged as one of the methods that can fight against the spread of the virus.

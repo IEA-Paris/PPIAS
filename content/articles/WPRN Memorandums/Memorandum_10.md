@@ -51,8 +51,6 @@ picture_copyright: ''
 yt: ''
 highlight: false
 bibliography: ''
-DOI: 10.5072/zenodo.1115134
-Zid: 1115134
 ---
 ## All bakers?
 

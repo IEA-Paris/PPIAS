@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155999
-Zid: 1155999
 abstract: >-
   Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 3 - Enhancement and
   Inception (Part II: Humans)

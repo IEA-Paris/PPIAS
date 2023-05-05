@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155985
-Zid: 1155985
 abstract: >-
   Intellectuals against liberal democracy. Academia, media, and culture, Paris
   IAS, 2-3 June 2022 - Table-ronde

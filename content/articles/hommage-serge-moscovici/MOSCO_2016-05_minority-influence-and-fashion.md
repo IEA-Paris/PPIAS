@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155901
-Zid: 1155901
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 1
 article_title: Minority Influence and Fashion. The Model of Style Transformation
 authors:

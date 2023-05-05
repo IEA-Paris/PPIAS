@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155937
-Zid: 1155937
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 5
 article_title: The Formation Processes re-visited – the Importance of Naturalized
   Representations

@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155899
-Zid: 1155899
 abstract: >-
   Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Introduction
   Conference

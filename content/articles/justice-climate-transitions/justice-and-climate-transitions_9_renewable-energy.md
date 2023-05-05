@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155961
-Zid: 1155961
 abstract: Justice and Climate Transitions, Paris IAS,  24-25 September 2015 - Session 3
 article_title: Renewable Energy and new Public Ownership
 authors:

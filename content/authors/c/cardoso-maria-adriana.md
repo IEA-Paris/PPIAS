@@ -18,9 +18,6 @@ positions_and_institutions:
 social_channels:
   linkedin: https://pt.linkedin.com/in/maria-adriana-cardoso-47b7a911
   researchgate: https://www.researchgate.net/profile/Maria-Cardoso-21
-titles_and_institutions:
-  '0':
-    institution: National Laboratory for Civil Engineering, Portugal
 years:
   - 2020
 

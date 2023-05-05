@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1156027
-Zid: 1156027
 abstract: >-
   Virtual Realities, real experiences. Perspectives from behavioral and
   neuroscience studies. Paris IAS, 17 February 2022

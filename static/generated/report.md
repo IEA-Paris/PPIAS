@@ -5,19 +5,19 @@ conflicts:
     next: Institut d'études avancées de Paris, France
     positions: []
     prev: London School Of Economics, United Kingdom
-  - institution: Institut d'études avancées de Paris, France
-    key: institution
-    next: Institut d'études avancées de Paris, France
-    positions: []
-    prev: London School Of Economics, United Kingdom
-  - institution: Institut d'études avancées de Paris, France
-    key: institution
-    next: Institut d'études avancées de Paris, France
-    positions: []
-    prev: London School Of Economics, United Kingdom
   - institution: Paris Institute for Advanced Study, France
     key: institution
     next: Paris Institute for Advanced Study, France
+    positions: []
+    prev: London School Of Economics, United Kingdom
+  - institution: Institut d'études avancées de Paris, France
+    key: institution
+    next: Institut d'études avancées de Paris, France
+    positions: []
+    prev: London School Of Economics, United Kingdom
+  - institution: Institut d'études avancées de Paris, France
+    key: institution
+    next: Institut d'études avancées de Paris, France
     positions: []
     prev: London School Of Economics, United Kingdom
   - institution: Institut d'études avancées de Paris, France
@@ -135,6 +135,34 @@ conflicts:
     positions:
       - ''
     prev: École polytechnique Lausanne, Switzerland
+  - institution: BOKU Vienna, Austria
+    key: institution
+    next: BOKU Vienna, Austria
+    positions:
+      - ''
+    prev: BOKU Vienna
+  - institution: EUME - Berlin, Germany
+    key: institution
+    next: EUME - Berlin, Germany
+    positions:
+      - ''
+    prev: EUME - Berlin
+  - institution: CESSP-CNRS, France
+    key: institution
+    next: CESSP-CNRS, France
+    positions:
+      - ''
+    prev: CESSP
+  - institution: Paris Institute for Advanced Study, France
+    key: institution
+    next: Paris Institute for Advanced Study, France
+    prev: Institut d'études avancées de Paris, France
+  - institution: Université Rennes 1, France
+    key: institution
+    next: Université Rennes 1, France
+    positions:
+      - ''
+    prev: Université Rennes 1
   - institution: Paris IAS, France
     key: institution
     next: Paris IAS, France
@@ -179,10 +207,6 @@ conflicts:
     positions:
       - ''
     prev: University of New South Wales, Sydney, Australia
-  - institution: Lancaster Environment Centre, Lancaster University, United Kingdom
-    key: institution
-    next: Lancaster Environment Centre, Lancaster University, United Kingdom
-    prev: University of Lancaster, United Kingdom
   - institution: Paris Institute for Advanced Studies, France
     key: institution
     next: Paris Institute for Advanced Studies, France
@@ -191,38 +215,20 @@ conflicts:
     key: institution
     next: 'John-F.-Kennedy Institut, Freie Universität Berlin, Germany '
     prev: Paris Institute for Advanced Studies, France
+  - institution: Lancaster Environment Centre, Lancaster University, United Kingdom
+    key: institution
+    next: Lancaster Environment Centre, Lancaster University, United Kingdom
+    prev: University of Lancaster, United Kingdom
   - institution: Helmholtz Centre for Environmental Research – UFZ, Germany
     key: institution
     next: Helmholtz Centre for Environmental Research – UFZ, Germany
     prev: Helmholtz Centre for Environmental Research – UFZ, Leipzig, Germany
-  - institution: BOKU Vienna, Austria
-    key: institution
-    next: BOKU Vienna, Austria
-    positions:
-      - ''
-    prev: BOKU Vienna
-  - institution: EUME - Berlin, Germany
-    key: institution
-    next: EUME - Berlin, Germany
-    positions:
-      - ''
-    prev: EUME - Berlin
-  - institution: CESSP-CNRS, France
-    key: institution
-    next: CESSP-CNRS, France
-    positions:
-      - ''
-    prev: CESSP
   - institution: Paris Institute for Advanced Study, France
     key: institution
     next: Paris Institute for Advanced Study, France
-    prev: Institut d'études avancées de Paris, France
-  - institution: Université Rennes 1, France
-    key: institution
-    next: Université Rennes 1, France
     positions:
       - ''
-    prev: Université Rennes 1
+    prev: IEA de Paris, France
   - institution: Paris Institute for Advanced Study, France
     key: institution
     next: Paris Institute for Advanced Study, France
@@ -235,6 +241,22 @@ conflicts:
     positions:
       - ''
     prev: UCLA, USA / Université de Tel-Aviv, Israël
+  - institution: CNRS - Collège de France, France
+    key: institution
+    next: CNRS - Collège de France, France
+    positions:
+      - ''
+    prev: CNRS - Collège de France
+  - institution: >-
+      Laboratoire Techniques Territoires et Societes (LATTS) / Université
+      Gustave Eiffel, France
+    key: institution
+    next: >-
+      Laboratoire Techniques Territoires et Societes (LATTS) / Université
+      Gustave Eiffel, France
+    positions:
+      - ''
+    prev: LATTS / Université Gustave Eiffel, France
   - institution: CNRS - ESPCI Paris Tech - Cog'X, France
     key: institution
     next: CNRS - ESPCI Paris Tech - Cog'X, France
@@ -247,18 +269,6 @@ conflicts:
     positions:
       - ''
     prev: University of lausanne - CHUV
-  - institution: CNRS - Collège de France, France
-    key: institution
-    next: CNRS - Collège de France, France
-    positions:
-      - ''
-    prev: CNRS - Collège de France
-  - institution: Swansea University, United Kingdom
-    key: institution
-    next: Swansea University, United Kingdom
-    positions:
-      - ''
-    prev: Swansea University
   - institution: Swansea University, United Kingdom
     key: institution
     next: Swansea University, United Kingdom
@@ -271,30 +281,24 @@ conflicts:
     positions:
       - ''
     prev: UCLA, USA / Université de Tel-Aviv, Israël
-  - institution: Goriza Hospital, Italy
-    key: institution
-    next: Goriza Hospital, Italy
-    positions:
-      - ''
-    prev: Goriza Hospital
-  - institution: Netherlands Institute for Neuroscience, Netherlands
-    key: institution
-    next: Netherlands Institute for Neuroscience, Netherlands
-    positions:
-      - ''
-    prev: Netherlands Institute for Neuroscience
-  - institution: Inserm - Université de Caen, France
-    key: institution
-    next: Inserm - Université de Caen, France
-    positions:
-      - ''
-    prev: Inserm - Université de Caen
   - institution: Swansea University, United Kingdom
     key: institution
     next: Swansea University, United Kingdom
     positions:
       - ''
     prev: Swansea University
+  - institution: Swansea University, United Kingdom
+    key: institution
+    next: Swansea University, United Kingdom
+    positions:
+      - ''
+    prev: Swansea University
+  - institution: Goriza Hospital, Italy
+    key: institution
+    next: Goriza Hospital, Italy
+    positions:
+      - ''
+    prev: Goriza Hospital
   - institution: Universtity of Barcelona, Spain
     key: institution
     next: Universtity of Barcelona, Spain
@@ -311,26 +315,26 @@ conflicts:
     researchgate: https://www.researchgate.net/profile/Mel-Slater
     twitter: '@melslater'
     website: http://www.melslater.me/
-  - institution: Paris Institute for Advanced Study, France
+  - institution: Inserm - Université de Caen, France
     key: institution
-    next: Paris Institute for Advanced Study, France
+    next: Inserm - Université de Caen, France
     positions:
       - ''
-    prev: IEA de Paris, France
-  - institution: >-
-      Laboratoire Techniques Territoires et Societes (LATTS) / Université
-      Gustave Eiffel, France
+    prev: Inserm - Université de Caen
+  - institution: Netherlands Institute for Neuroscience, Netherlands
     key: institution
-    next: >-
-      Laboratoire Techniques Territoires et Societes (LATTS) / Université
-      Gustave Eiffel, France
+    next: Netherlands Institute for Neuroscience, Netherlands
     positions:
       - ''
-    prev: LATTS / Université Gustave Eiffel, France
+    prev: Netherlands Institute for Neuroscience
   - institution: University of Leiden,  Netherlands
     key: institution
     next: University of Leiden,  Netherlands
     prev: University of Leiden, Netherlands
+  - institution: University of California Los Angeles, USA
+    key: institution
+    next: University of California Los Angeles, USA
+    prev: UCLA, USA / Université de Tel-Aviv, Israël
   - institution: Paris Institute for Advanced Study, France
     key: institution
     next: Paris Institute for Advanced Study, France
@@ -339,10 +343,6 @@ conflicts:
     key: institution
     next: University of California Los Angeles, USA
     prev: Paris Institute for Advanced Study, France
-  - institution: University of California Los Angeles, USA
-    key: institution
-    next: University of California Los Angeles, USA
-    prev: UCLA, USA / Université de Tel-Aviv, Israël
   - institution: Université de Bordeaux, France
     key: institution
     next: Université de Bordeaux, France
@@ -490,11 +490,6 @@ conflicts:
     next: Institut d'études avancées de Paris, France
     positions: []
     prev: London School Of Economics, United Kingdom
-  - institution: Institut d'études avancées de Paris, France
-    key: institution
-    next: Institut d'études avancées de Paris, France
-    positions: []
-    prev: London School Of Economics, United Kingdom
   - institution: ONG ONE, France
     key: institution
     next: ONG ONE, France
@@ -511,6 +506,11 @@ conflicts:
     positions:
       - writer
     prev: McGill University
+  - institution: Institut d'études avancées de Paris, France
+    key: institution
+    next: Institut d'études avancées de Paris, France
+    positions: []
+    prev: London School Of Economics, United Kingdom
   - institution: 'ERC Scientific Council '
     key: institution
     next: 'ERC Scientific Council '
@@ -544,6 +544,16 @@ conflicts:
     next: European Alliance for Social Sciences and Humanities, France
     positions: []
     prev: RFIEA-NETIAS, France
+  - institution: >-
+      Institut d'études avancées de Paris, France / London School of Economics,
+      United Kingdom
+    key: institution
+    next: >-
+      Institut d'études avancées de Paris, France / London School of Economics,
+      United Kingdom
+    positions:
+      - ''
+    prev: London School Of Economics, United Kingdom
   - institution: Institut d'études avancées de Paris
     key: institution
     next: Institut d'études avancées de Paris
@@ -554,12 +564,6 @@ conflicts:
     key: institution
     next: London School of Economics
     prev: Paris Institute of advanced study
-  - institution: King's College London, United Kingdom
-    key: institution
-    next: King's College London, United Kingdom
-    positions:
-      - ''
-    prev: King's College London
   - institution: World Bank,  USA
     key: institution
     next: World Bank,  USA
@@ -572,22 +576,30 @@ conflicts:
     positions:
       - Senior Economist
     prev: World Bank, Switzerland
-  - institution: >-
-      Institut d'études avancées de Paris, France / London School of Economics,
-      United Kingdom
+  - institution: King's College London, United Kingdom
     key: institution
-    next: >-
-      Institut d'études avancées de Paris, France / London School of Economics,
-      United Kingdom
+    next: King's College London, United Kingdom
     positions:
       - ''
-    prev: London School Of Economics, United Kingdom
+    prev: King's College London
   - institution: IEA de Paris, France
     key: institution
     next: IEA de Paris, France
     positions:
       - ''
     prev: London School Of Economics, United Kingdom
+  - institution: Paris Institute for Advanced Study, France
+    key: institution
+    next: Paris Institute for Advanced Study, France
+    positions:
+      - ''
+    prev: Paris Institute for Advanced Study
+  - institution: École polytechnique fédérale de Lausanne, Switzerland
+    key: institution
+    next: École polytechnique fédérale de Lausanne, Switzerland
+    positions:
+      - ''
+    prev: École polytechnique Lausanne, Switzerland
   - institution: Paris IAS, France
     key: institution
     next: Paris IAS, France
@@ -610,6 +622,11 @@ conflicts:
     positions:
       - ''
     prev: London School Of Economics, United Kingdom
+  - institution: FMSH-Collège d’études mondiales, France
+    key: institution
+    next: FMSH-Collège d’études mondiales, France
+    positions: []
+    prev: FMSH - Collège d’études mondiales, France
   - institution: BOKU Vienna, Austria
     key: institution
     next: BOKU Vienna, Austria
@@ -638,23 +655,6 @@ conflicts:
     positions:
       - ''
     prev: Université Rennes 1
-  - institution: Paris Institute for Advanced Study, France
-    key: institution
-    next: Paris Institute for Advanced Study, France
-    positions:
-      - ''
-    prev: Paris Institute for Advanced Study
-  - institution: FMSH-Collège d’études mondiales, France
-    key: institution
-    next: FMSH-Collège d’études mondiales, France
-    positions: []
-    prev: FMSH - Collège d’études mondiales, France
-  - institution: École polytechnique fédérale de Lausanne, Switzerland
-    key: institution
-    next: École polytechnique fédérale de Lausanne, Switzerland
-    positions:
-      - ''
-    prev: École polytechnique Lausanne, Switzerland
   - institution: University of New South Wales, Australia
     key: institution
     next: University of New South Wales, Australia
@@ -685,10 +685,6 @@ conflicts:
     key: institution
     next: 'John-F.-Kennedy Institut, Freie Universität Berlin, Germany '
     prev: Paris Institute for Advanced Studies, France
-  - institution: Lancaster Environment Centre, Lancaster University, United Kingdom
-    key: institution
-    next: Lancaster Environment Centre, Lancaster University, United Kingdom
-    prev: University of Lancaster, United Kingdom
   - institution: Helmholtz Centre for Environmental Research – UFZ, Germany
     key: institution
     next: Helmholtz Centre for Environmental Research – UFZ, Germany
@@ -705,12 +701,6 @@ conflicts:
     positions:
       - ''
     prev: UCLA, USA / Université de Tel-Aviv, Israël
-  - institution: CNRS - Collège de France, France
-    key: institution
-    next: CNRS - Collège de France, France
-    positions:
-      - ''
-    prev: CNRS - Collège de France
   - institution: CNRS - ESPCI Paris Tech - Cog'X, France
     key: institution
     next: CNRS - ESPCI Paris Tech - Cog'X, France
@@ -765,12 +755,22 @@ conflicts:
     positions:
       - ''
     prev: Inserm - Université de Caen
+  - institution: Lancaster Environment Centre, Lancaster University, United Kingdom
+    key: institution
+    next: Lancaster Environment Centre, Lancaster University, United Kingdom
+    prev: University of Lancaster, United Kingdom
   - institution: Paris Institute for Advanced Study, France
     key: institution
     next: Paris Institute for Advanced Study, France
     positions:
       - ''
     prev: IEA de Paris, France
+  - institution: CNRS - Collège de France, France
+    key: institution
+    next: CNRS - Collège de France, France
+    positions:
+      - ''
+    prev: CNRS - Collège de France
   - institution: >-
       Laboratoire Techniques Territoires et Societes (LATTS) / Université
       Gustave Eiffel, France
@@ -809,10 +809,6 @@ conflicts:
     key: institution
     next: University of California Los Angeles, USA
     prev: UCLA, USA / Université de Tel-Aviv, Israël
-  - institution: Université de Bordeaux, France
-    key: institution
-    next: Université de Bordeaux, France
-    prev: Université Bordeaux, France
   - google_scholar: >-
       https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
     key: google_scholar
@@ -822,6 +818,10 @@ conflicts:
     prev: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
     researchgate: https://www.researchgate.net/profile/Etienne-Koechlin
     twitter: '@KoechlinE'
+  - institution: Université de Bordeaux, France
+    key: institution
+    next: Université de Bordeaux, France
+    prev: Université Bordeaux, France
   - institution: University College of London (UCL), United Kingdom
     key: institution
     next: University College of London (UCL), United Kingdom
@@ -832,31 +832,6 @@ conflicts:
     key: institution
     next: University of Leiden,  Netherlands
     prev: University of Leiden, Netherlands
-  - articles:
-      - SynE3_2017_11_plasticity-of-empathy-and-prosocial-motivation
-    firstname: 'Tania '
-    is_institution: false
-    issue:
-      - content/issues/brains-that-pull-the-triggers.md
-    key: lastname
-    language:
-      - English
-    lastname: Singer
-    next: Singer
-    positions_and_institutions:
-      - institution: Max Planck Institute for Human cognitive and Brain Sciences
-        positions:
-          - ''
-    prev: SINGER
-    social_channels:
-      google_scholar: https://scholar.google.com/citations?user=9m42c2cAAAAJ&hl=en
-      linkedin: https://de.linkedin.com/in/prof-dr-tania-singer-a3b3b5190
-      orcid: 0000-0002-4438-5374
-      researchgate: https://www.researchgate.net/profile/Tania-Singer
-      website: https://taniasinger.de/
-      wikipedia: https://en.wikipedia.org/wiki/Tania_Singer
-    years:
-      - 2017
   - articles:
       - SynE3_2017_12_brains-on-drugs
     firstname: 'Norman '
@@ -940,6 +915,31 @@ conflicts:
     key: institution
     next: Max Planck Institute for Human cognitive and Brain Sciences, Germany
     prev: Max Planck Institute for Human cognitive and Brain Sciences
-createdAt: '2023-5-4 9:34:17'
+  - articles:
+      - SynE3_2017_11_plasticity-of-empathy-and-prosocial-motivation
+    firstname: 'Tania '
+    is_institution: false
+    issue:
+      - content/issues/brains-that-pull-the-triggers.md
+    key: lastname
+    language:
+      - English
+    lastname: Singer
+    next: Singer
+    positions_and_institutions:
+      - institution: Max Planck Institute for Human cognitive and Brain Sciences
+        positions:
+          - ''
+    prev: SINGER
+    social_channels:
+      google_scholar: https://scholar.google.com/citations?user=9m42c2cAAAAJ&hl=en
+      linkedin: https://de.linkedin.com/in/prof-dr-tania-singer-a3b3b5190
+      orcid: 0000-0002-4438-5374
+      researchgate: https://www.researchgate.net/profile/Tania-Singer
+      website: https://taniasinger.de/
+      wikipedia: https://en.wikipedia.org/wiki/Tania_Singer
+    years:
+      - 2017
+createdAt: '2023-5-5 8:34:10'
 
 ---

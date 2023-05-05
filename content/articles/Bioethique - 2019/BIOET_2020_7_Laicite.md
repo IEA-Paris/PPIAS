@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1129299
-Zid: 1129299
+DOI: 10.5072/zenodo.1198481
+Zid: 1198481
 abstract: >-
   Bioéthique et laïcité : rencontre du cycle "Bioéthique : aux Frontières de la
   Vie ?" organisée et animée par Séverine Mathieu, directrice d’études à
@@ -12,6 +12,9 @@ authors:
     lastname: Portier
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: EPHE, France
+        positions: []
     social_channels:
       google_scholar: ''
       instagram: ''
@@ -22,9 +25,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: https://fr.wikipedia.org/wiki/Philippe_Portier
-    positions_and_institutions:
-      - institution: EPHE, France
-        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2020-05-05T16:00:48.000Z
@@ -42,6 +42,7 @@ sub-issue: 'La Bioéthique : aux Frontières de la Vie ?'
 yt: IqlQp5gyfts
 
 ---
+
 
 Alors que la laïcité s’est progressivement érigée en principe de strict refus de l’intervention du religieux dans l’activité législative, les questions de bioéthique ont relégitimé la participation des forces religieuse au débat public.
 

@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155891
-Zid: 1155891
 abstract: >-
   Reflecting and Building Upon the Theoretical Contributions of Serge Moscovici.
   Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 2

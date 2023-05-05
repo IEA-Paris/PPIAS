@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1197662
-Zid: 1197662
+DOI: 10.5072/zenodo.1198469
+Zid: 1198469
 abstract: >-
   Le Bien Commun, clé juridique du monde qui vient ?: 2ème rencontre du cycle
   "Bien(s) commun(s) : voies d'espoir face aux défis du siècle" organisée par
@@ -118,6 +118,7 @@ sub-issue: ''
 yt: jPMfMqOfUwk
 
 ---
+
 
 L’aspiration à la transformation sociale est aujourd’hui patente. On assiste à de multiples expériences pour décliner l’intérêt général, socle de nos textes républicains, à l’aune de la modernité et de la sobriété. N’est-il pas temps de revisiter la notion d’intérêt général ? La notion de bien commun rend-t-elle mieux compte des défis de notre époque ? Cette notion s’esquisse dans les projets de lois, dans les déclarations internationales, dans les engagements des entreprises, le bien commun est-il la traduction sociale de l’intérêt général ? Faut-il consacrer le bien commun dans notre droit ?
 

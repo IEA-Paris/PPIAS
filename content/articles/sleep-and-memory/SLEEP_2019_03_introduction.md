@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155989
-Zid: 1155989
 abstract: Sleep and Memory. Paris IAS, 6-7 June 2019 - Introduction
 article_title: Memory and Sleep - New Challenges
 authors:

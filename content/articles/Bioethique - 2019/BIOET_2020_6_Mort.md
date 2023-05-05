@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1129297
-Zid: 1129297
+DOI: 10.5072/zenodo.1198479
+Zid: 1198479
 abstract: >-
   L'anticipation de la mort et la fin de vie : rencontre du cycle "Bioéthique :
   aux Frontières de la Vie ?" organisée et animée par Séverine Mathieu,
@@ -13,6 +13,9 @@ authors:
     lastname: Gaille
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Institut des sciences humaines et sociales CNRS, France
+        positions: []
     social_channels:
       google_scholar: ''
       instagram: ''
@@ -23,9 +26,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: Institut des sciences humaines et sociales CNRS, France
-        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2020-03-02T17:00:07.000Z
@@ -43,6 +43,7 @@ sub-issue: 'La Bioéthique : aux Frontières de la Vie ?'
 yt: JtvVqHNYmHM
 
 ---
+
 
 La recherche fondamentale sur le vieillissement a pris un tour intéressant ces dernières années avec un développement rapide des biomarqueurs prédictifs de mortalité chez les organismes modèles, notamment la drosophile, ainsi que chez l’être humain à travers les améliorations des approches d’identification de molécules circulantes en masse. Si la prédiction de survenue de la mort n'est pas une idée nouvelle (on trouve depuis la fin du XVIIe siècle, résumés dans des tables de mortalité des estimations des multiples paramètres liés à la mort au niveau populationnel ; les médecins tiennent compte de l'espérance de vie médiane dans le pronostic quotidien et la conception de la stratégie thérapeutique), cette recherche invite à réfléchir au développement de prédicteurs de survenue de la mort naturelle imminente en population générale et au niveau individuel. Cette conférence est consacrée à analyser l'idée de prédiction de la mort, et à mettre en évidence les outils conceptuels et éthiques dont nous disposons pour l'appréhender.
 

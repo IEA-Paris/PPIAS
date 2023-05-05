@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1155903
-Zid: 1155903
+DOI: 10.5072/zenodo.1198593
+Zid: 1198593
 abstract: >-
   Adventures of Identity: From the Double to the Avatar. Paris IAS, 13-14
   December 2018 - Session 4
@@ -28,5 +28,6 @@ subissue: false
 yt: H2E98Ncoff8
 
 ---
+
 
 <Youtube yt="H2E98Ncoff8" caption="Selfie Nationalism"></Youtube>

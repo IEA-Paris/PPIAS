@@ -130,6 +130,8 @@ export default async (content, options) => {
   authorsDocs = authorsDocs.map((doc) => {
     const fileContents = fs.readFileSync('content' + doc.path + '.md', 'utf8')
     const { content } = parseMD(fileContents)
+    // remove the articles array from the doc
+    delete doc.articles
     return {
       ...doc,
       text: content || false,
@@ -147,6 +149,7 @@ export default async (content, options) => {
   authorsDocs = [...authorsDocs, ...secondPass.second]
   authorsDocs = authorsDocs.map((item) => {
     // replace the titles and institutions array of object by an array of arrays (prismjs related?)
+    delete item.titles_and_institutions
     return {
       ...item,
       firstname: item.firstname.trim(),

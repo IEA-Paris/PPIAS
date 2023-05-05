@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155863
-Zid: 1155863
 abstract: >-
   Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris IAS, 10-11
   December - Clôture du colloque

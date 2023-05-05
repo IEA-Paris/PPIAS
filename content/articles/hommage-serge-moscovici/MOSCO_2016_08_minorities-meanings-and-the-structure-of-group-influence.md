@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155897
-Zid: 1155897
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 2
 article_title: >-
   Minorities, Meanings, and the Structure of Group Influence: Reflecting and

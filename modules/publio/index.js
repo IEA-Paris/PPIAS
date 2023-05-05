@@ -91,9 +91,12 @@ export default function (moduleOptions) {
     storeReport()
     console.log('"GENERATE:DONE"')
     once = false
+    console.log('articles: ', articles.length)
+    const routesToPrint = makePrintRoutes(articles, options)
+    console.log('routesToPrint: ', routesToPrint)
 
     url = 'http://127.0.0.1:3000'
-    if (routesToPrint.length) {
+    if (routesToPrint?.pdf.length || routesToPrint?.thumbnails.length) {
       await generateFiles(
         routesToPrint,
         {
@@ -103,7 +106,7 @@ export default function (moduleOptions) {
         url
       )
     }
-    console.log('STARTING DISSEMINATION')
+    console.log('STARTING DISSEMINATION', articles.length)
     articles = await disseminate(
       articles,
       options,
@@ -111,6 +114,7 @@ export default function (moduleOptions) {
       // METADATA/FRONTMATTER
       [publishOnZenodo, updateArticlesDoiAndZid]
     )
+    return true
   })
 
   nuxt.hook('build:done', async (nuxt) => {
@@ -130,6 +134,7 @@ export default function (moduleOptions) {
         },
         url
       )
+      console.log('files generated')
       articles = await disseminate(
         articles,
         options,
@@ -138,14 +143,21 @@ export default function (moduleOptions) {
         [publishOnZenodo, updateArticlesDoiAndZid]
       )
     }
+    return true
   })
 
   nuxt.hook('content:ready', async (content) => {
     console.log('"CONTENT:READY" HOOK')
+
     if (!once) return
+
     articles = await diagnoseArticles(articles, url)
+    console.log('articles content ready: ', articles.length)
+
     authors = await mergeAndInsertAuthorsDocuments(authors, articles, content)
+
     console.log('conflict list: ', process.env.conflicts)
+
     issues = await content('issues', { deep: true })
       .sortBy('date', 'desc')
       // .only(['slug']) //TODO complete with only required fields
@@ -172,15 +184,19 @@ export default function (moduleOptions) {
     )
     if (articles?.length) {
       // insert issue index
+      console.log('articles 1: ', articles.length)
       articles = articles.map((article) =>
         insertIssueData(article, options.filters)
       )
 
       // make an array of routes to print
       routesToPrint = makePrintRoutes(articles, options)
+      console.log('articles 1.5: ', articles.length)
       // Upsert on Zenodo/OpenAire & get DOI is none is available
       articles = await upsertOnZenodo(articles, options, zenodoQueue)
+      console.log('articles 2: ', articles.length)
       updateArticlesDoiAndZid(articles)
+      console.log('articles 3: ', articles.length)
     }
     return true
   })

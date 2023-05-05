@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155951
-Zid: 1155951
 abstract: >-
   Justice and Climate Transitions, Paris IAS,  24-25 September 2015 -
   Table-ronde

@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1129289
-Zid: 1129289
+DOI: 10.5072/zenodo.1198473
+Zid: 1198473
 abstract: >-
   La bioéthique de la procréation revisitée : rencontre du cycle "Bioéthique :
   aux Frontières de la Vie ?" organisée et animée par Séverine Mathieu,
@@ -13,6 +13,9 @@ authors:
     lastname: Mehl
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: CNRS, France
+        positions: []
     social_channels:
       google_scholar: ''
       instagram: ''
@@ -23,9 +26,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: CNRS, France
-        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2019-11-21T17:00:43.000Z
@@ -43,6 +43,7 @@ sub-issue: 'La Bioéthique : aux Frontières de la Vie ?'
 yt: 7ZDsabA4fyc
 
 ---
+
 
 La loi de bioéthique en cours de révision parlementaire modifie sérieusement le paysage de la procréation médicalisée. Elle ouvre l’accès à la PMA aux couples lesbiens et aux femmes seules. Elle prévoit de lever l’anonymat des dons de gamètes. Les conceptions qui sous-tendent cette réforme articulent une vision de l’évolution des familles, une exigence d’égalité et un engagement en faveur de plus de liberté procréative. Libéralisation ou libéralisme ?
 

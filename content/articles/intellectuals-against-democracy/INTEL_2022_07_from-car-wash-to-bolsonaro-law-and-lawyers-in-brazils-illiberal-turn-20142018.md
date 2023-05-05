@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155975
-Zid: 1155975
 abstract: >-
   Intellectuals against liberal democracy. Academia, media, and culture, Paris
   IAS, 2-3 June 2022 - Panel 2 - Illiberal intellectuals figures

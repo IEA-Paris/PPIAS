@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1156097
-Zid: 1156097
 abstract: >-
   The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
   10-12 May 2017 - Session 2 - Self and Group

@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1197702
-Zid: 1197702
+DOI: 10.5072/zenodo.1198491
+Zid: 1198491
 abstract: >-
   Paysages alimentaires conviviaux : pour aller au-delà de la durabilité
   alimentaire, IEA de Paris, 20-21 juin 2022 - Table-ronde 1 
@@ -115,6 +115,7 @@ sub-issue: ''
 yt: Xtckxp7gvz4
 
 ---
+
 
 Tous les êtres, humains et non-humains, ont leur mot à dire dans le grand concert du vivant. Qu’en est-t-il lorsque ces forces entrent en jeu ou en concurrence dans un contexte d’alimentation ? En cuisine, sur les terres agricoles, au laboratoire, ou dans les salles d’expositions, les cycles de vie sont en perpétuelle négociation.
 

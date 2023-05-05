@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1197904
-Zid: 1197904
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Program
 article_title: Tribute to Serge Moscovici - Program
 authors:

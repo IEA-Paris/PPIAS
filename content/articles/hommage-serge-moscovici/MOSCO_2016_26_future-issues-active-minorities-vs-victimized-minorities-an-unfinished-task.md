@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155931
-Zid: 1155931
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 8
 article_title: 'Future Issues: Active Minorities vs. Victimized Minorities: An Unfinished
   Task'

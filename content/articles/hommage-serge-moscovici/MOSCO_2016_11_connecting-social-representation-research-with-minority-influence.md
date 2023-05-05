@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1155907
-Zid: 1155907
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 4
 article_title: Connecting Social Representation Research with Minority Influence
 authors:

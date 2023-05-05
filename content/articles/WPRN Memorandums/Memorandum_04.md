@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1115405
-Zid: 1115405
 abstract: >-
   The social distancing and health protection measures taken in response to the
   Covid 19 pandemic have led companies to make massive use of teleworking.

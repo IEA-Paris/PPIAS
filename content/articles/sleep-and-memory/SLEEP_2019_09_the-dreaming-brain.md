@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1156007
-Zid: 1156007
 abstract: Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 5 - Dreaming (Part II)
 article_title: The Dreaming Brain
 authors:

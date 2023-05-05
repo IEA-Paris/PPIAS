@@ -145,11 +145,14 @@ export default async (articles, options, queue) => {
     articles = await Promise.all(
       await articles
         // filter published articles only. It is done earlier in the fetch but it makes it more resilient
-        .filter(
-          (article) =>
-            article.published && article.needDOI === true && !article.DOI
-        )
-        .map(async (document) => await generateDOI(document, records))
+        .filter((article) => article.published)
+        .map(async (document) => {
+          if (document.needDOI === true && !document.DOI) {
+            return await generateDOI(document, records)
+          } else {
+            return document
+          }
+        })
     )
 
     return articles

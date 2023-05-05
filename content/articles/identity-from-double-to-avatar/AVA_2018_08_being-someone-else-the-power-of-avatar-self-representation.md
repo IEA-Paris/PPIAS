@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1155883
-Zid: 1155883
+DOI: 10.5072/zenodo.1198583
+Zid: 1198583
 abstract: >-
   Adventures of Identity: From the Double to the Avatar. Paris IAS, 13-14
   December 2018 - Session 3
@@ -30,5 +30,6 @@ subissue: false
 yt: 7GvxD7fLHwQ
 
 ---
+
 
 <Youtube yt="7GvxD7fLHwQ" caption=" Being Someone Else – The Power of Avatar Self Representation"></Youtube>

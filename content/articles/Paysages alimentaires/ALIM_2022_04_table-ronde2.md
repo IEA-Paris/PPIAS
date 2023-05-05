@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1197700
-Zid: 1197700
+DOI: 10.5072/zenodo.1198493
+Zid: 1198493
 abstract: >-
   Paysages alimentaires conviviaux : pour aller au-delà de la durabilité
   alimentaire, IEA de Paris, 20-21 juin 2022 - Table-ronde 2 
@@ -114,6 +114,7 @@ sub-issue: ''
 yt: mvrQbs9W_Nw
 
 ---
+
 
 La politique n’est pas l’apanage des institutions, des lobbys, des jeux de pouvoirs et de domination. Il est également un phénomène quotidien et localisé, partagé par tous les acteurs qui produisent de la connaissance sur l’environnement et sur les paysages et pratiques alimentaires. Comment s’autoriser et organiser un « vivre-ensemble » dans un monde ouvert ?
 

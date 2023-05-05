@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1156029
-Zid: 1156029
 abstract: >-
   Les territoires de la transition énergétique : Allemagne, France, Royaume-Uni.
   IEA de Paris, 23 mai 2016 - Session 4 - Approches globales

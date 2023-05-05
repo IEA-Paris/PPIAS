@@ -33,8 +33,6 @@ subissue: false
 yt: CBWCcs_ENUg
 language: English
 bibliography: "/documents-exportes_mosco_14.bib"
-DOI: 10.5072/zenodo.1155941
-Zid: 1155941
 
 ---
 The current geopolitical situation is marked by the ongoing debate on the refugee influx to the EU. Consequently, a renewed and fervent debate has sparked involving issues as distinct as political stances towards immigration, questions of national identities, contestation with fundamental values, possibilities of creating socially cohesive national spaces, EU membership, dynamics of fear and exclusion, discrimination and racism. Amongst such debate the term ‘multiculturalism’ is used in different ways and for different purposes (@deaux_social_2014). Vertovec and Wessendorf (@vertovec_multicultural_2010) argue that multiculturalism can best be described as a broad set of mutually reinforcing approaches or methodologies concerning the incorporation and participation of immigrants and ethnic minorities and their modes of cultural/religious difference. Stuart Hall (@hall_foucault_2001, p.3) observes that ‘over the years the term ‘multiculturalism’ has come to reference a diffuse, indeed maddingly spongy and imprecise, discursive field: a train of false trails and misleading universals. Its references are a wild variety of political strategies’. While ‘multiculturalism’ if frequently referred to as being ‘dead, failed, a mistake’ or ‘demised’ (@vertovec_multicultural_2010; @deaux_social_2014, Howarth, 2015), other claim that ‘reports of multiculturalism’s death are very much exaggerated’ (Kymlicka, 2010, p.33) and ’the briefest look around confirms that multicultural society has not actually expired’ (Gilroy, 2004, p. 1).

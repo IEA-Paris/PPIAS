@@ -1,6 +1,4 @@
 ---
-DOI: 10.5072/zenodo.1156301
-Zid: 1156301
 abstract: >-
   The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
   09-10 May 2016 - Session 1 - Empathy and Dehumanization
