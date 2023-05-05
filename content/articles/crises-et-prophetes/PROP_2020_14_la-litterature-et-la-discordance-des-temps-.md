@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155857
+Zid: 1155857
 abstract: >-
   Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris IAS, 10-11
   December - Session 3 "L’agir prophétique"

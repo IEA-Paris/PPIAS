@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1156023
+Zid: 1156023
 abstract: >-
   Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 6 - In Search of Lost
   Sleep

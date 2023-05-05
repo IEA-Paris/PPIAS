@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1115395
+Zid: 1115395
 abstract: 'During the Covid-19 pandemic, the authorities asked for unusual instructions
   that contradicted generally valued behaviours: isolation and social distancing rather
   than social activities and rituals (going out, consumption, physical contact). Unsurprisingly,

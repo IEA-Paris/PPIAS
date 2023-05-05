@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1156113
+Zid: 1156113
 abstract: >-
   The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
   10-12 May 2017 - Session 7 - Where Do We Go from Here?

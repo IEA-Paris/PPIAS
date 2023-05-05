@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1115409
+Zid: 1115409
 abstract: >-
   The purpose of this study is to examine the way mediated content about the
   novel coronavirus (COVID-19) outbreak fluctuated in the Japanese information

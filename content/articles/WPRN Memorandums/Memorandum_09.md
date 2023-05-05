@@ -52,6 +52,8 @@ keywords:
 - 'Inequalities, Poverty, Development '
 - wildland recreation
 language: English
+DOI: 10.5072/zenodo.1115407
+Zid: 1115407
 custom_pdf: ''
 
 ---

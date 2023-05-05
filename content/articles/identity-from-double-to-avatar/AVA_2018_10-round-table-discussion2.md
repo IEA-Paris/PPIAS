@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1198587
-Zid: 1198587
+DOI: 10.5072/zenodo.1155879
+Zid: 1155879
 abstract: >-
   Adventures of Identity: From the Double to the Avatar. Paris IAS, 13-14
   December 2018 - Session 3 - Round-table discussion
@@ -11,9 +11,6 @@ authors:
     lastname: Harris
     picture: ''
     picture_copyright: ''
-    positions_and_institutions:
-      - institution: Université Paris Diderot, France
-        positions: []
     social_channels:
       google_scholar: ''
       instagram: ''
@@ -24,14 +21,14 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
+    positions_and_institutions:
+      - institution: Université Paris Diderot, France
+        positions: []
   - firstname: 'Barbara  '
     is_institution: false
     lastname: Grespi
     picture: ''
     picture_copyright: ''
-    positions_and_institutions:
-      - institution: Università di Bergamo, Italy
-        positions: []
     social_channels:
       google_scholar: ''
       instagram: ''
@@ -42,14 +39,14 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
+    positions_and_institutions:
+      - institution: Università di Bergamo, Italy
+        positions: []
   - firstname: 'Sara '
     is_institution: false
     lastname: 'Guindani '
     picture: ''
     picture_copyright: ''
-    positions_and_institutions:
-      - institution: FMSH-Collège d’études mondiales, France
-        positions: []
     social_channels:
       google_scholar: ''
       instagram: ''
@@ -60,14 +57,14 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
+    positions_and_institutions:
+      - institution: FMSH-Collège d’études mondiales, France
+        positions: []
   - firstname: 'Mel '
     is_institution: false
     lastname: 'Slater '
     picture: ''
     picture_copyright: ''
-    positions_and_institutions:
-      - institution: University of Barcelona, Spain
-        positions: []
     social_channels:
       google_scholar: ''
       instagram: ''
@@ -78,6 +75,9 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
+    positions_and_institutions:
+      - institution: University of Barcelona, Spain
+        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2018-12-14T09:00:03.000Z
@@ -95,6 +95,5 @@ sub-issue: ''
 yt: 6f5wjTDM3pw
 
 ---
-
 
 <Youtube yt="6f5wjTDM3pw" caption ="Colloque "Avatar" : Table ronde session 3"></Youtube>

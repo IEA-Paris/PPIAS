@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155915
+Zid: 1155915
 abstract: L’effusion, un nouveau mode de communication médiatique pour l’étude des
   représentations sociales. Tribute to Serge Moscovici. Paris IAS, 17-18 November
   2016 - Session 6

@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1115136
+Zid: 1115136
 abstract: >-
   The Covid-19 pandemic has led to an economic crisis with strong social
   consequences. The main findings of research show an increase in inequalities

@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1115120
+Zid: 1115120
 abstract: >-
   This paper proposes a communication method to improve decision and
   policymaking under uncertain scenarios. The motivation for elaborating such a

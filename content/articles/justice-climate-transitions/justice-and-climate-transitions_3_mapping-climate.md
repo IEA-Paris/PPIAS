@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155943
+Zid: 1155943
 abstract: Justice and Climate Transitions, Paris IAS,  24-25 September 2015 - Session 1
 article_title: Mapping climate disadvantage
 authors:

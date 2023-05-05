@@ -19,6 +19,9 @@ social_channels:
   linkedin: https://www.linkedin.com/in/giovannaborradori
   researchgate: https://www.researchgate.net/profile/Giovanna-Borradori
   wikipedia: https://en.wikipedia.org/wiki/Giovanna_Borradori
+titles_and_institutions:
+  '0':
+    institution: Vassar College, USA
 years:
   - 2018
 

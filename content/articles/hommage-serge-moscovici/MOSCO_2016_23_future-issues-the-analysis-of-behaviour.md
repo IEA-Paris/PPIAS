@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155927
+Zid: 1155927
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 7
 article_title: Future Issues. The Analysis of Behaviour
 authors:

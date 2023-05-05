@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155971
+Zid: 1155971
 abstract: Justice and Climate Transitions, Paris IAS,  24-25 September 2015 - Session 3
 article_title: Climate Justice, Energy Demand and the Right to Energy
 authors:

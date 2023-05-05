@@ -1,125 +1,119 @@
 ---
-DOI: 10.5072/zenodo.1198469
-Zid: 1198469
-abstract: >-
-  Le Bien Commun, clé juridique du monde qui vient ?: 2ème rencontre du cycle
-  "Bien(s) commun(s) : voies d'espoir face aux défis du siècle" organisée par
-  Bettina Laville présidente de l'IEA de Paris
-article_title: Le Bien Commun, clé juridique du monde qui vient ?
-authors:
-  - firstname: 'Corinne '
-    is_institution: false
-    lastname: Lepage
-    picture: ''
-    picture_copyright: ''
-    positions_and_institutions:
-      - institution: Ministère de l'Environnement, France
-        positions: []
-    social_channels:
-      google_scholar: ''
-      instagram: ''
-      linkedin: >-
-        https://fr.linkedin.com/in/corinne-lepage-391314a4?trk=public_post_feed-actor-name&original_referer=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fcorinne-lepage-391314a4_corinne-lepage-on-twitter-activity-7042819870895325184-H2ju
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      twitter: '@corinnelepage'
-      website: ''
-      wikipedia: https://fr.wikipedia.org/wiki/Corinne_Lepage
-  - firstname: 'Armand '
-    is_institution: false
-    lastname: Hatchuel
-    picture: ''
-    picture_copyright: ''
-    positions_and_institutions:
-      - institution: Mines Paris - PSL, France
-        positions: []
-    social_channels:
-      google_scholar: https://scholar.google.fr/citations?user=0UQgWBcAAAAJ&hl=fr
-      instagram: ''
-      linkedin: https://fr.linkedin.com/in/armand-hatchuel-38a8b59
-      mendeley: ''
-      orcid: ''
-      researchgate: https://www.researchgate.net/profile/Armand-Hatchuel
-      twitter: ''
-      website: ''
-      wikipedia: https://fr.wikipedia.org/wiki/Armand_Hatchuel
-  - firstname: 'Christian '
-    is_institution: false
-    lastname: Huglo
-    picture: ''
-    picture_copyright: ''
-    positions_and_institutions:
-      - institution: Barreau de Paris, France
-        positions: []
-    social_channels:
-      google_scholar: ''
-      instagram: ''
-      linkedin: https://fr.linkedin.com/in/christian-huglo-9b4909a3
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      twitter: '@ChristianHuglo'
-      website: ''
-      wikipedia: ''
-  - firstname: 'Thomas '
-    is_institution: false
-    lastname: Perroud
-    picture: ''
-    picture_copyright: ''
-    positions_and_institutions:
-      - institution: Université Panthéon-Assas, France
-        positions: []
-    social_channels:
-      google_scholar: ''
-      instagram: ''
-      linkedin: https://fr.linkedin.com/in/thomasperroud/fr
-      mendeley: ''
-      orcid: 0000-0002-9699-2694
-      researchgate: https://www.researchgate.net/profile/Thomas-Perroud
-      twitter: '@PerroudThomas'
-      website: ''
-      wikipedia: ''
-  - firstname: 'Bettina '
-    is_institution: false
-    lastname: Laville
-    picture: ''
-    picture_copyright: ''
-    positions_and_institutions:
-      - institution: Institut d'études de Paris, France
-        positions: []
-    social_channels:
-      google_scholar: ''
-      instagram: ''
-      linkedin: ''
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      twitter: ''
-      website: ''
-      wikipedia: ''
-bibliography: /documents-exportes-bc2b.bib
-custom_pdf: ''
-date: 2023-04-05T16:00:56.000Z
-disciplines: ''
-doi: ''
-highlight: true
+needDOI: true
 issue: content/issues/biens-communus.md
 keywords:
-  - Communs
-  - Entreprise
-  - droit
+- Communs
+- Entreprise
+- droit
+date: 2023-04-05T16:00:56.000+00:00
 language: French
-needDOI: true
+disciplines: ''
+published: true
+doi: ''
+article_title: Le Bien Commun, clé juridique du monde qui vient ?
+authors:
+- firstname: 'Corinne '
+  lastname: Lepage
+  positions_and_institutions:
+  - positions: []
+    institution: Ministère de l'Environnement, France
+  social_channels:
+    wikipedia: https://fr.wikipedia.org/wiki/Corinne_Lepage
+    twitter: "@corinnelepage"
+    linkedin: https://fr.linkedin.com/in/corinne-lepage-391314a4?trk=public_post_feed-actor-name&original_referer=https%3A%2F%2Ffr.linkedin.com%2Fposts%2Fcorinne-lepage-391314a4_corinne-lepage-on-twitter-activity-7042819870895325184-H2ju
+    website: ''
+    orcid: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  is_institution: false
+  picture: ''
+  picture_copyright: ''
+- firstname: 'Armand '
+  lastname: Hatchuel
+  positions_and_institutions:
+  - positions: []
+    institution: Mines Paris - PSL, France
+  social_channels:
+    wikipedia: https://fr.wikipedia.org/wiki/Armand_Hatchuel
+    researchgate: https://www.researchgate.net/profile/Armand-Hatchuel
+    google_scholar: https://scholar.google.fr/citations?user=0UQgWBcAAAAJ&hl=fr
+    linkedin: https://fr.linkedin.com/in/armand-hatchuel-38a8b59
+    website: ''
+    orcid: ''
+    twitter: ''
+    instagram: ''
+    mendeley: ''
+  is_institution: false
+  picture: ''
+  picture_copyright: ''
+- firstname: 'Christian '
+  lastname: Huglo
+  positions_and_institutions:
+  - positions: []
+    institution: Barreau de Paris, France
+  social_channels:
+    linkedin: https://fr.linkedin.com/in/christian-huglo-9b4909a3
+    twitter: "@ChristianHuglo"
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+  is_institution: false
+  picture: ''
+  picture_copyright: ''
+- firstname: 'Thomas '
+  lastname: Perroud
+  positions_and_institutions:
+  - positions: []
+    institution: Université Panthéon-Assas, France
+  social_channels:
+    twitter: "@PerroudThomas"
+    researchgate: https://www.researchgate.net/profile/Thomas-Perroud
+    linkedin: https://fr.linkedin.com/in/thomasperroud/fr
+    orcid: 0000-0002-9699-2694
+    website: ''
+    wikipedia: ''
+    instagram: ''
+    google_scholar: ''
+    mendeley: ''
+  is_institution: false
+  picture: ''
+  picture_copyright: ''
+- firstname: 'Bettina '
+  lastname: Laville
+  positions_and_institutions:
+  - positions: []
+    institution: Institut d'études de Paris, France
+  is_institution: false
+  picture: ''
+  picture_copyright: ''
+  social_channels:
+    website: ''
+    wikipedia: ''
+    orcid: ''
+    linkedin: ''
+    twitter: ''
+    instagram: ''
+    google_scholar: ''
+    researchgate: ''
+    mendeley: ''
+custom_pdf: ''
+abstract: 'Le Bien Commun, clé juridique du monde qui vient ?: 2ème rencontre du cycle
+  "Bien(s) commun(s) : voies d''espoir face aux défis du siècle" organisée par Bettina
+  Laville présidente de l''IEA de Paris'
+sub-issue: ''
 picture: ''
 picture_copyright: ''
-published: true
-sub-issue: ''
 yt: jPMfMqOfUwk
+highlight: true
+bibliography: "/documents-exportes-bc2b.bib"
 
 ---
-
-
 L’aspiration à la transformation sociale est aujourd’hui patente. On assiste à de multiples expériences pour décliner l’intérêt général, socle de nos textes républicains, à l’aune de la modernité et de la sobriété. N’est-il pas temps de revisiter la notion d’intérêt général ? La notion de bien commun rend-t-elle mieux compte des défis de notre époque ? Cette notion s’esquisse dans les projets de lois, dans les déclarations internationales, dans les engagements des entreprises, le bien commun est-il la traduction sociale de l’intérêt général ? Faut-il consacrer le bien commun dans notre droit ?
 
 <Youtube yt="jPMfMqOfUwk" caption ="Le Bien Commun, clé juridique du monde qui vient ?"></Youtube>

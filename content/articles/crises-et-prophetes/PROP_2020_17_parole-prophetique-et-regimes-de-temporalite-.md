@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155855
+Zid: 1155855
 abstract: >-
   Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris IAS, 10-11
   December - Session 4 - Prophètes et prophétisme : une perspective historique

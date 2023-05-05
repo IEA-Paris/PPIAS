@@ -2,7 +2,6 @@
 active: true
 articles:
   - Bien communs_1_ouverture officielle
-  - Biens communs_2_clé juridique
 exerpt: ''
 firstname: Bettina
 is_institution: false

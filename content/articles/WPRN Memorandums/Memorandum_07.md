@@ -20,7 +20,7 @@ published: true
 pinned: false
 bibliography: "/bibliography/documents-exportes_memo7.bib"
 authors:
-- firstname: 'Victor'
+- firstname: 'Victor  '
   lastname: 'Galonnier'
   social_channels:
     linkedin: https://fr.linkedin.com/in/victorgalonnier
@@ -53,6 +53,8 @@ keywords:
 - 'Violence, Criminality, Security '
 - 'Risks, Crisis Management '
 language: English
+DOI: 10.5072/zenodo.1115108
+Zid: 1115108
 ---
 During the Covid 19 pandemic, the media was the main source of information and had a strong impact on the perception of the crisis by citizens, on the acceptance of sanitary measures or on the propagation of conspiracy theories or false information. The Covid19 crisis is taking place in a context in which the media world has undergone profound upheavals in the last decade, with the so-called traditional media (television, radio, press) being increasingly challenged by online media and social networks, which has led to a transformation of the citizens’ attitudes towards information.
 

@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1115031
+Zid: 1115031
 abstract: >-
   “Those who argue that lockdown measures were not necessary and that, without
   them, the final number of deaths would not be much different from those of a

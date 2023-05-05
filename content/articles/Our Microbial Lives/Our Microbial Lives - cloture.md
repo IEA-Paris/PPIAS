@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1129325
+Zid: 1129325
 abstract: >-
   Clôture du forum "Our Microbial Lives: A Forum Against Eradication",  May 27,
   2021, Paris Institute for Advanced Study"

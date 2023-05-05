@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155929
+Zid: 1155929
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 6
 article_title: 'Society and Theory in Social Psychology: a reconsideration'
 authors:

@@ -23,6 +23,9 @@ social_channels:
   google_scholar: https://scholar.google.com/citations?user=E9ZPY58AAAAJ&hl=en
   linkedin: https://www.linkedin.com/in/jmberger1
   website: https://www.jmberger.com/home
+titles_and_institutions:
+  '0':
+    institution: International Center for Counter-Terrorism, Netherlands
 years:
   - 2017
 

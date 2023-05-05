@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1115124
+Zid: 1115124
 abstract: >-
   In addition to becoming a global phenomenon, the spreading of the new
   Coronavirus, following the declaration of a pandemic state, has generated

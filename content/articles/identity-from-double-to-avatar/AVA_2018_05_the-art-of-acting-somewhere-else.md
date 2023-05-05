@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1198579
-Zid: 1198579
+DOI: 10.5072/zenodo.1155869
+Zid: 1155869
 abstract: >-
   Adventures of Identity: From the Double to the Avatar. Paris IAS, 13-14
   December 2018 - Session 2
@@ -31,6 +31,5 @@ subissue: false
 yt: x83_wi2i5GU
 
 ---
-
 
 <Youtube yt="x83_wi2i5GU" caption="The Art of Acting Somewhere Else"></Youtube>

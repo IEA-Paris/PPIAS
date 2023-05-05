@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155919
+Zid: 1155919
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 8
 article_title: Future Issues. Applications of Social Representations to Education
   and Health

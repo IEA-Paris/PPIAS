@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155957
+Zid: 1155957
 abstract: Justice and Climate Transitions, Paris IAS,  24-25 September 2015 - Session 2
 article_title: >-
   Risk Avoidance through Transition, Legitimate Expectations and Issues of

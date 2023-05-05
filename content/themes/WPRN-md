@@ -1,4 +1,0 @@
----
-color: blue
-title: WPRN
----

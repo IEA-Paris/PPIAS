@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1198585
-Zid: 1198585
+DOI: 10.5072/zenodo.1155881
+Zid: 1155881
 abstract: >-
   Adventures of Identity: From the Double to the Avatar. Paris IAS, 13-14
   December 2018 - Session 2
@@ -26,6 +26,5 @@ subissue: false
 yt: '-iCDJ_pu11U'
 
 ---
-
 
 <Youtube yt="-iCDJ_pu11U" caption="Skeuomorphic Selfhood: a Kantian Take on the Avatar"></Youtube>

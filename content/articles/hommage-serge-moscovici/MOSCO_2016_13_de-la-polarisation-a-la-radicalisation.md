@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155905
+Zid: 1155905
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 4
 article_title: De la Polarisation à la Radicalisation
 authors:

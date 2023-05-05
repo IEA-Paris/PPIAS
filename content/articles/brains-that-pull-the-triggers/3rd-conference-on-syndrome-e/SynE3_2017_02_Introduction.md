@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1156099
+Zid: 1156099
 abstract: >-
   The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
   10-12 May 2017 - Introduction 

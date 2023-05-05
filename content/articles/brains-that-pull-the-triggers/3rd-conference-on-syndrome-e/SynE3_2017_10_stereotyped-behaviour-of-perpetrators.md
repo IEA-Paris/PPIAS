@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1156095
+Zid: 1156095
 abstract: >-
   The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
   10-12 May 2017 - Session 3 - The Will to Die and Kill

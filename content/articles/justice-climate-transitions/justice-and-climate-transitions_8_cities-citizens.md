@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155955
+Zid: 1155955
 abstract: Justice and Climate Transitions, Paris IAS,  24-25 September 2015 - Session 2
 article_title: Cities, Citizens and Social Justice in the Energy Transition
 authors:

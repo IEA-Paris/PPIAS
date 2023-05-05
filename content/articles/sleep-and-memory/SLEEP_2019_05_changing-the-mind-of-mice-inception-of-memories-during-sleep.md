@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155997
+Zid: 1155997
 abstract: >-
   Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 2 - Enhancement and
   Inception (Part I: Rodents)

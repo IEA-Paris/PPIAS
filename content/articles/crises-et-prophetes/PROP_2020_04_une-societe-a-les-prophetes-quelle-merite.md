@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155839
+Zid: 1155839
 abstract: >-
   Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris IAS, 10-11
   December - Session 1 - Parole et imaginaire prophétiques

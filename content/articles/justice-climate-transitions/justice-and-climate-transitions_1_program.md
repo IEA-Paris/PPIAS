@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1155953
+Zid: 1155953
 abstract: Justice and Climate Transitions, Paris IAS,  24-25 September 2015 - Program
 article_title: Justice and Climate Transitions - Program
 authors:

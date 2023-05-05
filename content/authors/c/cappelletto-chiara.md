@@ -16,6 +16,9 @@ positions_and_institutions:
       - ''
 social_channels:
   twitter: '@ChiCappelletto'
+titles_and_institutions:
+  '0':
+    institution: Università Statale di Milano, Italy
 years:
   - 2018
 

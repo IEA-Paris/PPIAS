@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1156045
+Zid: 1156045
 abstract: >-
   The Brains that pull the Triggers. 1st Conference on Syndrome E, Paris IAS,
   28-29 April 2015 - Introduction

@@ -1,4 +1,6 @@
 ---
+DOI: 10.5072/zenodo.1156001
+Zid: 1156001
 abstract: Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 4 - Dreaming (Part I)
 article_title: The Relation of Dreaming to Memory Consolidation During Sleep
 authors:
