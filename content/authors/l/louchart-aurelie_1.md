@@ -1,11 +1,15 @@
 ---
 active: true
 articles:
-  - Memorandum_10
+  - Memorandum 10
+  - Memorandum 12
+  - Memorandum 13
+  - Memorandum 14
 exerpt: ''
-firstname: Aurélie
+firstname: Aurélie
 issue:
   - content/issues/WPRN Memorandums.md
+issues: []
 language:
   - English
 lastname: Louchart
@@ -27,5 +31,6 @@ social_channels:
   wikipedia: ''
 years:
   - 2021
+  - 2022
 
 ---
