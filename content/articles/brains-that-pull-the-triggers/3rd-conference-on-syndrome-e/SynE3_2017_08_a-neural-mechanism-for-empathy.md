@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156107
-Zid: 1156107
+
 abstract: >-
   The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
   10-12 May 2017 - Session 2 - Self and Group
@@ -29,6 +28,7 @@ subissue: 3rd Conference on Syndrome E
 yt: BeACjlCX_LM
 
 ---
+
 
 An important discovery in neurosciences over the last years has been that of a mechanism that unifies action execution and action perception. The essence of this mechanism –the mirror mechanism- is the following. When individuals observe an action belonging to their motor repertoire done by others, neurons that encode that action are activated in the observer’s motor system. Since the observers are aware of the outcome of their internally generated motor acts, they also understand the goal of others’ actions without the necessity of an intermediate cognitive mediation. 
 

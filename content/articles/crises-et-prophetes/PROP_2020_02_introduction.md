@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155825
-Zid: 1155825
+
 abstract: >-
   Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris IAS, 10-11
   December 2020 - Introduction
@@ -41,5 +40,6 @@ subissue: false
 yt: KmQvNpYEOdY
 
 ---
+
 
 <Youtube yt="KmQvNpYEOdY" caption="Introduction"></Youtube>

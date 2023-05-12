@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156105
-Zid: 1156105
+
 abstract: >-
   The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
   10-12 May 2017 - Session 7: Where Do We Go from Here?
@@ -8,7 +7,7 @@ article_title: >-
   Roundtable 1: Past and Present Perpetrators: Issues of Interpretation and
   Prevention
 authors:
-  - firstname: 'JM'
+  - firstname: JM
     is_institution: false
     lastname: Berger
     positions_and_institutions:
@@ -50,5 +49,6 @@ subissue: 3rd Conference on Syndrome E
 yt: QuNdcGl-Vag
 
 ---
+
 
 <Youtube yt="QuNdcGl-Vag" caption="Roundtable 1 Past and Present Perpetrators Issues of Interpretation and Prevention"></Youtube>

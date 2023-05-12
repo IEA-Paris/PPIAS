@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155977
-Zid: 1155977
+
 abstract: >-
   Intellectuals against liberal democracy. Academia, media, and culture, Paris
   IAS, 2-3 June 2022 - Panel 3 - Illiberal media and social movements
@@ -30,6 +29,7 @@ subissue: false
 yt: 7uyHX_4aOkg
 
 ---
+
 
 The news magazine Valeurs Actuelles is one of the leading reactionary news source and forum for intellectual engagement of the French journalistic field. To understand how far-right news outlets such as Valeurs Actuelles expand the scope of legitimate discourse, this paper combines the perspectives of the sociology of news and of the sociology of intellectuals. Using in depth-interviews with Valeurs Actuelles’ journalists and editors, I examine the resources and strategy which helped this news media to open its YouTube channel to an elite of reactionary youtubers. 
 

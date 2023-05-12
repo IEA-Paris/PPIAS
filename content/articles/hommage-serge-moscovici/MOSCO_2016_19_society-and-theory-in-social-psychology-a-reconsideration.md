@@ -1,30 +1,30 @@
 ---
-DOI: 10.5072/zenodo.1155929
-Zid: 1155929
+
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 6
 article_title: 'Society and Theory in Social Psychology: a reconsideration'
 authors:
-- firstname: 'Juliet '
-  is_institution: false
-  lastname: Foster
-  positions_and_institutions:
-  - institution: University of Cambridge, United Kingdom
-    positions:
-    - ''
-  social_channels:
-    researchgate: https://www.researchgate.net/profile/Juliet-Foster-2
-    linkedin: https://uk.linkedin.com/in/juliet-foster-420038188
-    google_scholar: https://scholar.google.com/citations?user=WVHsYYwAAAAJ&hl=en
-date: 2016-11-18T03:00:00.000+00:00
+  - firstname: 'Juliet '
+    is_institution: false
+    lastname: Foster
+    positions_and_institutions:
+      - institution: University of Cambridge, United Kingdom
+        positions:
+          - ''
+    social_channels:
+      google_scholar: https://scholar.google.com/citations?user=WVHsYYwAAAAJ&hl=en
+      linkedin: https://uk.linkedin.com/in/juliet-foster-420038188
+      researchgate: https://www.researchgate.net/profile/Juliet-Foster-2
+date: 2016-11-18T03:00:00.000Z
 highlight: false
 issue: content/issues/hommage-serge-moscovici.md
+language: English
 needDOI: false
 published: true
 subissue: false
 yt: MPvFyStwtA0
-language: English
 
 ---
+
 Moscovici’s paper ‘Society and Theory in Social Psychology’, published in Israel and Tajfel’s ‘The Context of Social Psychology’ in 1972 is many things.  It is a consideration of the history of an emerging and increasingly fractionated discipline; it is a comment on the state (and status) of that discipline in a time of argument and conflict, and it is a call to arms that not only sets out a theoretical challenge but also one that centres on the application of social psychology.  In this paper, I will consider how far we may (or may not) have moved on from the concerns that motivated Moscovici forty-four years ago. Do we continue to suffer from a lack of an over-arching theoretical perspective, and if so, what are the consequences of this?  Does his categorisation of types of social psychology still resonate with work being done within the field today?  Perhaps most significantly, have we heeded Moscovici’s impassioned (and even impatient) plea that we come out of the ‘academic ghetto’ and engage with finding solutions to the problems that face society?  I will consider how far social psychology, and particularly, more sociocultural approaches within the discipline have engaged with social change and social challenges in recent years.  I will conclude with some thoughts about both the challenges and opportunities that Moscovici’s paper might continue to afford us in developing social psychology in the future.
 
 <Youtube yt="MPvFyStwtA0" caption="Society and Theory in Social Psychology a reconsideration"></Youtube>

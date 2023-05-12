@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 1.2.3_Teira
+  - 1-2-3_Teira
 exerpt: ''
 firstname: Helen
 issue:

@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 2.0.1_Zic-Fuchs
+  - 2-0-1_Zic-Fuchs
 exerpt: ''
 firstname: Milena
 issue:

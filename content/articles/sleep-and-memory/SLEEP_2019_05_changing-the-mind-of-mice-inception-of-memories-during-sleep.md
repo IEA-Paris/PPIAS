@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155997
-Zid: 1155997
+
 abstract: >-
   Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 2 - Enhancement and
   Inception (Part I: Rodents)
@@ -27,6 +26,7 @@ subissue: false
 yt: BsHOIwpevYg
 
 ---
+
 
 Sleep is now recognized to be crucial for the consolidation of preexisting memory traces. One important model to study memory in rodent is the spatial memory, as hippocampal neurons have been shown to code for spatial locationof the animal. This correlate between animal behavior and hippocampal neuronal activity is so strong that those «place cells » assemblies are believed to support the _cognitive map_, which is the mental representation of space in the animal brain. During sleep, those place cells assemblies show reactivations of recent waking experience, and this replay would be instrumental in the process of memory consolidation.
 

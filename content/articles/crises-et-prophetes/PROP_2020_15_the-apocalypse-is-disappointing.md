@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155853
-Zid: 1155853
+
 abstract: >-
   Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris IAS, 10-11
   December - Session 3 "L’agir prophétique"
@@ -32,5 +31,6 @@ subissue: false
 yt: xl_UjjtNv9Q
 
 ---
+
 
 <Youtube yt="xl_UjjtNv9Q" caption="The apocalypse is disappointing: the depoliticized deadlock of the climate change consensus" start="3870" stop="5292"></Youtube>

@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155979
-Zid: 1155979
+
 abstract: >-
   Intellectuals against liberal democracy. Academia, media, and culture, Paris
   IAS, 2-3 June 2022 - Panel 2 - Illiberal intellectuals figures
@@ -32,6 +31,7 @@ subissue: false
 yt: C11qgbuGMZ8
 
 ---
+
 
 There has been an outpouring of research on right-wing populist conservatism since the advent of the Trump presidency and right-wing movements in Europe. While considerable attention is being given to the study of conservative movements and right-wing groups, little research thus far has been devoted to divisions among conservatives themselves, and especially among conservative academics. While Trumpism has maintained remarkable unity within the Republican Party for electoral reasons, it has created division among conservative intellectuals and academicians. The Trump era has increased the political polarization not only in American society but also within the academy. 
 

@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 1. Crise sanitaire - Covid19
+  - 1- Crise sanitaire - Covid19
 exerpt: ''
 firstname: Eric
 is_institution: false

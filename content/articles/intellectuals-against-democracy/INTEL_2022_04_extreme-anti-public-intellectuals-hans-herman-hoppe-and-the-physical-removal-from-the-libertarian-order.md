@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155973
-Zid: 1155973
+
 abstract: >-
   Intellectuals against liberal democracy. Academia, media, and culture, Paris
   IAS, 2-3 June 2022 - Panel 1 - The formation and circulation of illiberal
@@ -31,6 +30,7 @@ subissue: false
 yt: 3QIJi_HdMaM
 
 ---
+
 
 In his 2001 book titled Democracy: The God that Failed, German philosopher Hans Herman Hoppe wrote: “There can be no tolerance toward democrats and communists in a libertarian social order. They will have to be physically separated and expelled from society. \[…\] They—the advocates of alternative, non-family and kin-centered lifestyles such as, for instance, individual hedonism, parasitism, nature-environment worship, homosexuality, or communism—will have to be physically removed from society, too, if one is to maintain a _libertarian order_ (p. 218).
 

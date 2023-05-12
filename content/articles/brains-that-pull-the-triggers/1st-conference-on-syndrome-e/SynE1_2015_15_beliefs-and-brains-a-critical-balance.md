@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156079
-Zid: 1156079
+
 abstract: >-
   The Brains that pull the Triggers. 1st Conference on Syndrome E, Paris IAS,
   28-29 April 2015 - Session 5 - Ethical and Legal Issues
@@ -27,6 +26,7 @@ subissue: 1st Conference  on Syndrome E
 yt: nO4yjwcJ8Xo
 
 ---
+
 
 ## test text 
 

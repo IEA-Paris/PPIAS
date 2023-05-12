@@ -1,9 +1,8 @@
 ---
 active: true
 articles:
-  - 1.1.4_Williams - 2.2.0_intro_Williams
-  - 1.1.4_Williams
-  - 2.2.0_intro_Williams
+  - 1-1-4_Williams
+  - 2-2-0_intro_Williams
 exerpt: ''
 firstname: Geoffrey
 issue:

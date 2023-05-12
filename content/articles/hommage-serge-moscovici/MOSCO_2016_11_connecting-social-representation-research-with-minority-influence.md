@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155907
-Zid: 1155907
+
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 4
 article_title: Connecting Social Representation Research with Minority Influence
 authors:
@@ -43,6 +42,7 @@ subissue: false
 yt: ras2X5gwf2A
 
 ---
+
 
 Through his theoretical and empirical work, Serge Moscovici brought to life major areas of research such as those now known as social representations and minority influence. However, these two areas have tended to be disconnected from each other. We discuss the results of recent studies suggesting that important links can be made between the two. Guimond, Streith and Roebroeck (@guimond_les_2015) showed that the representation of the majority opinion regarding multiculturalism in France is erroneously believed to be against multiculturalism whereas in fact, most French people are personally supportive of multiculturalism. It turns out that the only group in France that personally share a negative view of multiculturalism is the extreme right wing minority, suggesting that a process of minority influence underlies the phenomena. We present more recent evidence suggesting that the match versus the mismatch between the perceived majority opinion and one’s own position can have important implications for an understanding of psychological well-being. This work exemplifies the importance of articulating the collective with the individual, a point that was fundamental in Moscovici’s contribution to social psychology.
 

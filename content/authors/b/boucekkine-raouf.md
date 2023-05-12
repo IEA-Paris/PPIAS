@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 1.0_WPRN21_Keynote 1
+  - 1-0_WPRN21_Keynote 1
 exerpt: ''
 firstname: Raouf
 issue:

@@ -1,37 +1,36 @@
 ---
-DOI: 10.5072/zenodo.1115140
-Zid: 1115140
+
 abstract: 'WPRN21 Conference - Paris IAS, 9-10 December 2021. Conference Welcome '
 article_author: ''
 article_title: WPRN21 Welcome Conference
 authors:
-  - firstname: 'Saadi'
+  - firstname: Saadi
     lastname: Lahlou
-    social_channels:
-      orcid: '0000-0001-8114-7271 '
     positions_and_institutions:
       - institution: London School of Economics and Political Science , United Kingdom
       - institution: Paris Institute for Advanced Study, France
         positions:
           - Director
-  - firstname: 'Flore'
+    social_channels:
+      orcid: '0000-0001-8114-7271 '
+  - firstname: Flore
     lastname: Gubert
+    positions_and_institutions:
+      - institution: Institut de Recherche pour le Développement, France
+      - institution: Fondation Maison des Sciences de l'Homme, France
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=8xBJ-CEAAAAJ&hl=fr
       orcid: 0000-0002-7072-4069
       researchgate: https://www.researchgate.net/profile/Flore-Gubert
-    positions_and_institutions:
-      - institution: Institut de Recherche pour le Développement, France
-      - institution: Fondation Maison des Sciences de l'Homme, France
-  - firstname: 'Maxi'
+  - firstname: Maxi
     lastname: Heitmayer
+    positions_and_institutions:
+      - institution: The London School of Economics and Political Science, United Kingdom
     social_channels:
       linkedin: >-
         https://uk.linkedin.com/in/maxi-heitmayer-645646196?trk=public_profile_browsemap_profile-result-card_result-card_full-click
       researchgate: https://www.researchgate.net/profile/Maxi-Heitmayer
       twitter: ''
-    positions_and_institutions:
-      - institution: The London School of Economics and Political Science, United Kingdom
 bibliography: ''
 date: 2021-12-09T09:30:39.000Z
 doi: '169059797'
@@ -48,6 +47,7 @@ tag: []
 yt: ULeeaCclxW0
 
 ---
+
 ## WPRN Project
 
 At a time when the world is facing a major health challenge, the Natural and Life Sciences are mobilized to find vaccines and remedies. At the same time, the Social Sciences and Humanities have moved to the forefront to help our societies face the lockdown and the wave of socio-economic crisis that follows. This mobilization, because it is unprecedented, needs new resources to coordinate, and new formats to build reflexivity to learn from our successes and our mistakes in view of the next crises. The World Pandemic Research Network (WPRN) contributes to meeting these needs through its platform wprn.org.

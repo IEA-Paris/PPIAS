@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155889
-Zid: 1155889
+
 abstract: >-
   Adventures of Identity: From the Double to the Avatar. Paris IAS, 13-14
   December 2018 - Session 4
@@ -28,5 +27,6 @@ subissue: false
 yt: 0yd4l_thT0g
 
 ---
+
 
 <Youtube yt="0yd4l_thT0g" caption="From the Neuroscience of Self-Consciousness to Virtual Reality, Digiceuticals, and Human Augmentation"></Youtube>

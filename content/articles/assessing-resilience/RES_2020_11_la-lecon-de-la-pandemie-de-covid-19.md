@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155835
-Zid: 1155835
+
 abstract: >-
   Assessing Territorial Resilience: Indicators and Tools for Governance, Paris
   IAS, July 15-17 2020 - Session 3
@@ -25,5 +24,6 @@ subissue: false
 yt: K3PWtR5fKb8
 
 ---
+
 
 <Youtube yt="K3PWtR5fKb8" caption="La leçon de la pandémie de COVID 19 "></Youtube>

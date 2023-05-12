@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 1.2.1_Rooryck
+  - 1-2-1_Rooryck
 exerpt: ''
 firstname: Johan
 issue:

@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155827
-Zid: 1155827
+
 abstract: >-
   Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris IAS, 10-11
   December - Session 1 - Parole et imaginaire prophétiques
@@ -29,5 +28,6 @@ subissue: false
 yt: 6lphVlaalnA
 
 ---
+
 
 <Youtube yt="6lphVlaalnA" caption="Les racines historiques de la collapsologie" start="3696" stop="5700"></Youtube>

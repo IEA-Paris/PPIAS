@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155823
-Zid: 1155823
+
 abstract: >-
   Assessing Territorial Resilience: Indicators and Tools for Governance, Paris
   IAS, July 15-17 2020 - Session 2
@@ -58,5 +57,6 @@ subissue: false
 yt: 3nwanoR7Yws
 
 ---
+
 
 <Youtube yt="3nwanoR7Yws" caption="Évaluer la résilience : les travaux en cours"></Youtube>

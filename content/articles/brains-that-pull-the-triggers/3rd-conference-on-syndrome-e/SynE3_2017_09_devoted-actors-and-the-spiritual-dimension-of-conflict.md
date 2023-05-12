@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156091
-Zid: 1156091
+
 abstract: >-
   The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
   10-12 May 2017 - Session 3 - The Will to Die and Kill
@@ -31,6 +30,7 @@ subissue: 3rd Conference on Syndrome E
 yt: cjI1JJznVS4
 
 ---
+
 
 Uncompromising wars, revolution, rights movements, and today’s global terrorism are in part driven by Devoted Actors who adhere to sacred or transcendent values that generate actions independently, or all out of proportion, from rationally expected outcomes, calculated costs and consequences, or likely risks and rewards. 
 

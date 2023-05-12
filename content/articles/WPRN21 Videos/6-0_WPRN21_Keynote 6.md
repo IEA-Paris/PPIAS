@@ -1,15 +1,17 @@
 ---
-DOI: 10.5072/zenodo.1115148
-Zid: 1115148
+
 abstract: 'WPRN21 Conference - Paris IAS, 9-10 December 2021. Keynote by Marc Fleurbaey '
 article_title: >-
   Trading off Lives and Livelihoods in an Ethical Way, Considering the Apparent
   Clash of Interests Between Generations
 authors:
-  - firstname: 'Marc'
+  - firstname: Marc
     lastname: Fleurbaey
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Paris School of Economics, France
+        positions: []
     reference: ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=3N5T0lEAAAAJ&hl=fr
@@ -21,9 +23,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: https://fr.wikipedia.org/wiki/Marc_Fleurbaey
-    positions_and_institutions:
-      - institution: Paris School of Economics, France
-        positions: []
 bibliography: /bibliography/documents-exportes_keynote6.bib
 date: 2021-12-10T10:00:40.000Z
 doi: '169059797'
@@ -42,6 +41,7 @@ published: true
 yt: ST40fXLMsv4
 
 ---
+
 
 
 Keynote presentation by Marc Fleurbaey during the WPRN21 conference in Paris on December 10th 2021

@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 2.2.1_de Graef
+  - 2-2-1_de Graef
 exerpt: ''
 firstname: Ortwin
 is_institution: false

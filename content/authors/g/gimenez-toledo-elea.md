@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 1.1.1_Gimenez
+  - 1-1-1_Gimenez
 exerpt: ''
 firstname: Elea
 issue:

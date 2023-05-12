@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1115025
-Zid: 1115025
+
 abstract: >-
   Table-ronde 1 du forum "Our Microbial Lives: A Forum Against Eradication", 
   May 27, 2021, Paris Institute for Advanced Study
@@ -10,6 +9,9 @@ authors:
     lastname: Fortané
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: INRAE, France
+        positions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -21,13 +23,13 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: INRAE, France
-        positions: []
-  - firstname: 'Anne'
+  - firstname: Anne
     lastname: Pitkowski
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Fromageries BEL, France
+        positions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -39,13 +41,13 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: Fromageries BEL, France
-        positions: []
   - firstname: Élise
     lastname: Tancoigne
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: 'Université de Lausanne, Switzerland '
+        positions: []
     reference: ''
     social_channels:
       google_scholar: https://scholar.google.fr/citations?user=21W9xTQAAAAJ&hl=fr
@@ -57,13 +59,15 @@ authors:
       twitter: ''
       website: https://www.etancoigne.fr/
       wikipedia: ''
-    positions_and_institutions:
-      - institution: 'Université de Lausanne, Switzerland '
-        positions: []
-  - firstname: 'Marc-André'
+  - firstname: Marc-André
     lastname: Selosse
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: >-
+          Institut de Systématique, Évolution, Biodiversité, Muséum national
+          d'Histoire naturelle, France
+        positions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -75,11 +79,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: https://fr.wikipedia.org/wiki/Marc-Andr%C3%A9_Selosse
-    positions_and_institutions:
-      - institution: >-
-          Institut de Systématique, Évolution, Biodiversité, Muséum national
-          d'Histoire naturelle, France
-        positions: []
 bibliography: /bibliography/documents-exportes_tb1_lee.bib
 date: 2021-05-27T08:00:16.000Z
 highlight: false
@@ -96,6 +95,7 @@ published: true
 yt: wcDK7AbXkpo
 
 ---
+
 
 
 ## Table-ronde 1 du forum "Our Microbial Lives"

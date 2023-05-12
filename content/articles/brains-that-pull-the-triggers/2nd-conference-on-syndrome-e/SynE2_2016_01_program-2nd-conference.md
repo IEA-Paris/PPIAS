@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156299
-Zid: 1156299
+
 abstract: >-
   The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
   09-10 May 2016
@@ -27,6 +26,7 @@ subissue: 2nd Conference  on Syndrome E
 yt: false
 
 ---
+
 
 The Brains that Pull the Triggers, second Paris conference on syndrome E  organized by Itzhak Fried (UCLA / IEA Paris) and Alain Berthoz (Collège de France),  May 9-10 2016.
 

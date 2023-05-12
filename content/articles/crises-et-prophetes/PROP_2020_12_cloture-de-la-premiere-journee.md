@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155849
-Zid: 1155849
+
 abstract: >-
   Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris IAS, 10-11
   December - Clôture 1ère journée
@@ -23,5 +22,6 @@ subissue: false
 yt: jimTiHIY6PQ
 
 ---
+
 
 <Youtube yt="jimTiHIY6PQ" caption="Clôture de la première journée"></Youtube>

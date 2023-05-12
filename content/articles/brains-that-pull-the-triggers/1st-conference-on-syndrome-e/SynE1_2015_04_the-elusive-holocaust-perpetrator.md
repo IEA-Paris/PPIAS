@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156051
-Zid: 1156051
+
 abstract: >-
   The Brains that pull the Triggers. 1st Conference on Syndrome E, Paris IAS,
   28-29 April 2015 - Session 1 - The Perpetrators that Pull the Triggers:
@@ -27,5 +26,6 @@ subissue: 1st Conference  on Syndrome E
 yt: SxFdhjtZp64&t
 
 ---
+
 
 <Youtube yt="SxFdhjtZp64&t" caption="The Elusive Holocaust Perpetrator"></Youtube>

@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155885
-Zid: 1155885
+
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 1
 article_title: >-
   The Discrete Charm of the Genetic Model of Influence and its Indirect Impact
@@ -27,5 +26,6 @@ subissue: false
 yt: sigwQbF_DSU
 
 ---
+
 
 <Youtube yt="sigwQbF_DSU" caption="The discrete charm of the genetic model of influence and its indirect impact on epistemic level"></Youtube>

@@ -1,68 +1,76 @@
 ---
-issue: content/issues/WPRN Memorandums.md
-keywords:
-- 'Agriculture, Alimentation '
-- Aging, Demography
-- Big Data, Artificial Intelligence
-- Consumption and Production Patterns
-- 'Democracy, Civil Society, Governance '
-- 'Environmental change, Ecology '
-- 'Equality & Diversity Studies '
-- 'Human Behaviours, Social Relations '
-- 'Innovation, R&D '
-- 'Public Discourse, Rhetorics, Communication '
-- 'Risks, Crisis Management '
-- 'Public Health '
-- 'Public Policy, Evaluation, Impact '
-- 'International Relations and Co-operation '
-date: 2021-12-31T23:00:31.000+00:00
-language: English
-doi: "169059797"
-published: true
+DOI: 10.5072/zenodo.1201192
+Zid: 1201192
+abstract: >-
+  Determining when a scientific discipline is ready to inform policy is knotty.
+  To add to this complexity, criteria for determining whether the knowledge is
+  robust enough vary depending on the issues. Nonetheless, a London School of
+  Economics study found that more and more governments are turning to science to
+  inform public policy. In times of crisis, the need for insight is
+  exceptionally pressing. Yet evidence-based policymaking is even more difficult
+  when there is little data and little time to gather it. 
+
+  During the COVID-19 pandemic, the scientific community was called upon to
+  contribute to the rapid understanding and treatment of the crisis, at the risk
+  of doing hasty work. Faced with this tremendous challenge, what pitfalls did
+  they fall into? Under what conditions can research usefully inform public
+  debate and help political decision-making? Studies referenced on the World
+  Pandemic Research Network (WPRN) outline many avenues for reflection.  
+
+  Memorandum 14 : overview of the studies and projects registered on WPRN
+  database
+
+  This article was originally published in French.
 article_title: Science in Public Debate in Times of Crisis
 authors:
-- firstname: 'Aurélie '
-  lastname: Louchart
-  positions_and_institutions: []
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-abstract: "Determining when a scientific discipline is ready to inform policy is knotty.
-  To add to this complexity, criteria for determining whether the knowledge is robust
-  enough vary depending on the issues. Nonetheless, a London School of Economics study
-  found that more and more governments are turning to science to inform public policy.
-  In times of crisis, the need for insight is exceptionally pressing. Yet evidence-based
-  policymaking is even more difficult when there is little data and little time to
-  gather it. \nDuring the COVID-19 pandemic, the scientific community was called upon
-  to contribute to the rapid understanding and treatment of the crisis, at the risk
-  of doing hasty work. Faced with this tremendous challenge, what pitfalls did they
-  fall into? Under what conditions can research usefully inform public debate and
-  help political decision-making? Studies referenced on the World Pandemic Research
-  Network (WPRN) outline many avenues for reflection.  \nMemorandum 14 : overview
-  of the studies and projects registered on WPRN database\nThis article was originally
-  published in French."
-picture: "/6113ed81ffbf7c813cd17b32_christian-lue-a9qwxqw55kw-unsplash.jpg"
-picture_copyright: ''
-yt: ''
-highlight: false
-bibliography: "/bibliography/documents-exportes_memo14.bib"
+  - firstname: 'Aurélie '
+    lastname: Louchart
+    picture: ''
+    picture_copyright: ''
+    positions_and_institutions: []
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
+bibliography: /bibliography/documents-exportes_memo14.bib
 custom_pdf: ''
+date: 2021-12-31T23:00:31.000Z
 disciplines: ''
+doi: '169059797'
+highlight: false
+issue: content/issues/WPRN Memorandums.md
+keywords:
+  - 'Agriculture, Alimentation '
+  - Aging, Demography
+  - Big Data, Artificial Intelligence
+  - Consumption and Production Patterns
+  - 'Democracy, Civil Society, Governance '
+  - 'Environmental change, Ecology '
+  - 'Equality & Diversity Studies '
+  - 'Human Behaviours, Social Relations '
+  - 'Innovation, R&D '
+  - 'Public Discourse, Rhetorics, Communication '
+  - 'Risks, Crisis Management '
+  - 'Public Health '
+  - 'Public Policy, Evaluation, Impact '
+  - 'International Relations and Co-operation '
+language: English
 needDOI: true
-DOI: 10.5072/zenodo.1115403
-Zid: 1115403
+picture: /6113ed81ffbf7c813cd17b32_christian-lue-a9qwxqw55kw-unsplash.jpg
+picture_copyright: ''
+published: true
+yt: ''
 
 ---
+
+
 Determining when a scientific discipline is ready to inform policy is knotty. To add to this complexity, criteria for determining whether the knowledge is robust enough vary depending on the issues. Nonetheless, a London School of Economics study found that more and more governments are turning to science to inform public policy. In times of crisis, the need for insight is exceptionally pressing. Yet evidence-based policymaking is even more difficult when there is little data and little time to gather it.
 
 During the COVID-19 pandemic, the scientific community was called upon to contribute to the rapid understanding and treatment of the crisis, at the risk of doing hasty work. Faced with this tremendous challenge, what pitfalls did they fall into? Under what conditions can research usefully inform public debate and help political decision-making?

@@ -2,7 +2,7 @@
 active: true
 articles:
   - AVA_2018_01_program
-  - 0.0_WPRN21_Program
+  - 0-0_WPRN21_Program
 exerpt: ''
 firstname: ''
 is_institution: true

@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156095
-Zid: 1156095
+
 abstract: >-
   The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
   10-12 May 2017 - Session 3 - The Will to Die and Kill
@@ -24,6 +23,7 @@ subissue: 3rd Conference on Syndrome E
 yt: yAdP6ryaaGs
 
 ---
+
 
 One of the dramatic aspects of the “Syndrom E” is the involvement of children who become perpetrators. A recent film by Jonathan Littell (“Wrong Elements”) has dealt with this question for Ouganda but the transformation of young children in fanatics and stereotyped killers is a very general problem extending back in history and still going on today . They are often recruited by force at preadolescence and adolescence. I have for several years proposed that there is a “Critical Period” for acquiring tolerance precisely within this age range and that an international law should protect them. 
 

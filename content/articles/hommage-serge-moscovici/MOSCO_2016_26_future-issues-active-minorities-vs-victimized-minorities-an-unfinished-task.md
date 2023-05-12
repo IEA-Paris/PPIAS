@@ -1,30 +1,30 @@
 ---
-DOI: 10.5072/zenodo.1155931
-Zid: 1155931
+
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 8
-article_title: 'Future Issues: Active Minorities vs. Victimized Minorities: An Unfinished
-  Task'
+article_title: 'Future Issues: Active Minorities vs. Victimized Minorities: An Unfinished Task'
 authors:
-- firstname: 'Juan A. '
-  is_institution: false
-  lastname: Pérez
-  positions_and_institutions:
-  - institution: University of Valencia, Spain
-    positions:
-    - ''
-  social_channels:
-    researchgate: https://www.researchgate.net/profile/Juan-Perez-88
-    linkedin: https://es.linkedin.com/in/juan-a-perez-564ba0a8?original_referer=https%3A%2F%2Fwww.google.com%2F
-date: 2016-11-18T10:00:00.000+00:00
+  - firstname: 'Juan A. '
+    is_institution: false
+    lastname: Pérez
+    positions_and_institutions:
+      - institution: University of Valencia, Spain
+        positions:
+          - ''
+    social_channels:
+      linkedin: >-
+        https://es.linkedin.com/in/juan-a-perez-564ba0a8?original_referer=https%3A%2F%2Fwww.google.com%2F
+      researchgate: https://www.researchgate.net/profile/Juan-Perez-88
+date: 2016-11-18T10:00:00.000Z
 highlight: false
 issue: content/issues/hommage-serge-moscovici.md
+language: English
 needDOI: false
 published: true
 subissue: false
 yt: x8Ilcl-QgUU
-language: English
 
 ---
+
 ## Future directions for a societal psychology - Public session
 
 The fight of the civil rights movements of the 60s transformed the moral perspective from which the majority regards their own behaviors towards social minorities, resulting in an immorality judgment of attitudes and behaviors that had long been regarded as natural –although its success in changing underlying social representations is more dubious. As a result of such a new moral representation being applied to persecuted minorities, a new category of minorities –victimized minorities- has appeared, as well as new strategical options for minorities to try and exert their influence on the population.  It is discussed if the strategy of victimized minorities is likely to transform the themata articulating long-held social representations of persecuted minorities.

@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156007
-Zid: 1156007
+
 abstract: Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 5 - Dreaming (Part II)
 article_title: The Dreaming Brain
 authors:
@@ -26,6 +25,7 @@ subissue: false
 yt: QYwPPj-WvG0
 
 ---
+
 
 Dreaming is a form of consciousness that occurs during sleep, while we are functionally disconnected from the environment. Traditionally, it has been linked to rapid eye movement (REM) sleep, a behavioral state characterized by fast, desynchronized electroencephalographic activity similar to wakefulness. In recent years however, it has become clear that dreaming can also occur in Non-REM sleep, a stage of sleep dominated by EEG slow waves and spindles. This has challenged the understanding of the neural correlates of conscious experiences in sleep. In the present talk I will outline characteristic features of dreaming that distinguish this state from waking cognition. I will then present a series of studies investigating the neural correlates of dreaming using a serial awakening paradigms and high-density EEG recordings. More specifically I will show how local EEG features, including spectral power in different frequency bands, slow waves and spindles relate to the presence and absence of dreaming, and to  
 specific dream contents. These results suggest that local EEG correlates may account for the presence of conscious experiences in behavioral states with radically different global EEG signatures.

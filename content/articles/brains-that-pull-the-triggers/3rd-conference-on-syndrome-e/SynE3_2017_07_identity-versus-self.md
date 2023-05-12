@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156097
-Zid: 1156097
+
 abstract: >-
   The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
   10-12 May 2017 - Session 2 - Self and Group
@@ -30,6 +29,7 @@ subissue: 3rd Conference on Syndrome E
 yt: HUebLvyWAkI
 
 ---
+
 
 The study of extremist radicalization typically focuses on how individuals become motivated to carry out violence through the adoption of an ideology. But extremism and ideological formulation are not typically individual ventures, with some rare exceptions. Most forms of extremism— certainly today’s most pressing threats, white nationalism and jihadism—are concerned  with group identities (Berger, 2017), with ideologies that develop over generations, with contributions from many different people. Attempts to understand extremist motivated violence outside of these group processes capture only part of the picture.
 

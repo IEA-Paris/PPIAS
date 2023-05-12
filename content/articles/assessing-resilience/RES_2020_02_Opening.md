@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155805
-Zid: 1155805
+
 abstract: >-
   Assessing Territorial Resilience: Indicators and Tools for Governance, Paris
   IAS, July 15-17 2020 - Official opening
@@ -40,5 +39,6 @@ subissue: false
 yt: fM0TJubKuNE
 
 ---
+
 
 <Youtube yt="fM0TJubKuNE" caption="Ouverture officielle"></Youtube>

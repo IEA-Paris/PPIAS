@@ -1,0 +1,4 @@
+VSCode remove the registered DOIs and Zids (e.g. leaving sandbox). THe replace value should be empty
+
+DOI: (.*?)(\d+)
+Zid: (.*?)(\d+)

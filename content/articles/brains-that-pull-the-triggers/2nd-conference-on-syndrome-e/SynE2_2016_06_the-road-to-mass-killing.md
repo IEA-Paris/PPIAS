@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156307
-Zid: 1156307
+
 abstract: >-
   The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
   09-10 May 2016 - Session 2 - Pathology: One of us or one unlike us?
@@ -25,5 +24,6 @@ subissue: 2nd Conference  on Syndrome E
 yt: _G3j5QjhSpU
 
 ---
+
 
 <Youtube yt="_G3j5QjhSpU" caption="The Road to Mass Killing: a Pathological Process?"></Youtube>

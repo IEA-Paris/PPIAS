@@ -1,17 +1,20 @@
 ---
-DOI: 10.5072/zenodo.1115003
-Zid: 1115003
+DOI: 10.5072/zenodo.1201156
+Zid: 1201156
 abstract: |-
   Evaluation of Social Sciences and Humanities in Europe.
   Hcéres Colloquium Proceeding - Paris IAS,  16-17 May 2022.
   Session 2 "Multilingualism" -  Evaluation of Multilingual Publications
 article_title: Bibliodiversity in the Research Republic of Letters
 authors:
-  - firstname: 'Ortwin'
+  - firstname: Ortwin
     is_institution: false
     lastname: de Graef
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: KU Leuven, Belgium
+        positions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -23,9 +26,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: KU Leuven, Belgium
-        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2022-05-16T14:00:02.000Z
@@ -42,6 +42,8 @@ published: true
 yt: ''
 
 ---
+
+
 The conference focusses on three distinct but related topics relevant in the assessment of SSH research: the importance of books; the importance of plurilingualism/multingualism; the importance of integration/impact.
 
 LERU has been asked to specifically comment on issues in the evaluation of multilingual publications. What follows is not a structured position paper but rather a _deurmekaar_ [^1] sequence of comments variously relevant to the topic.

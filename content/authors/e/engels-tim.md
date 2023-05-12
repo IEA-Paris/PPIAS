@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 3.2.1_Engels
+  - 3-2-1_Engels
 exerpt: ''
 firstname: Tim
 is_institution: false

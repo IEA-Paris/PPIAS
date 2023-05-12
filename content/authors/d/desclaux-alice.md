@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 1. 2013-2016  Lutter contre Ebola
+  - 1- 2013-2016  Lutter contre Ebola
 exerpt: ''
 firstname: Alice
 is_institution: false

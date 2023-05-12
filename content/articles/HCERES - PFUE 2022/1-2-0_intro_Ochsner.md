@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1114983
-Zid: 1114983
+DOI: 10.5072/zenodo.1201130
+Zid: 1201130
 abstract: >-
   Evaluation of Social Sciences and Humanities in Europe. 
 
@@ -8,11 +8,16 @@ abstract: >-
   and Monographs" - Evaluation of Books 
 article_title: 'Evaluation of Books: Introduction'
 authors:
-  - firstname: 'Michael'
+  - firstname: Michael
     is_institution: false
     lastname: Ochsner
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: ' European Network for Research Evaluation in the SSH (ENRESSH)'
+        positions: []
+      - institution: FORS, University of Lausanne, Switzerland
+        positions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -24,12 +29,7 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: ' European Network for Research Evaluation in the SSH (ENRESSH)'
-        positions: []
-      - institution: FORS, University of Lausanne, Switzerland
-        positions: []
-bibliography: "/documents-exportes_120.bib"
+bibliography: /documents-exportes_120.bib
 custom_pdf: ''
 date: 2022-05-16T09:45:27.000Z
 disciplines: ''
@@ -45,6 +45,8 @@ published: true
 yt: ''
 
 ---
+
+
 
 ## Context
 

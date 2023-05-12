@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 3.2.3_Chevallier
+  - 3-2-3_Chevallier
 exerpt: ''
 firstname: Coralie
 is_institution: false

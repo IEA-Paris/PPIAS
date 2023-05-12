@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156063
-Zid: 1156063
+
 abstract: >-
   The Brains that pull the Triggers. 1st Conference on Syndrome E, Paris IAS,
   28-29 April 2015 - Session 3 - The Brains that Pull the Triggers: Self and
@@ -27,5 +26,6 @@ subissue: 1st Conference  on Syndrome E
 yt: GB0jdlwYb7w
 
 ---
+
 
 <Youtube yt="GB0jdlwYb7w" caption="Is Empathy Involved in Perpetrators Behavior?"></Youtube>

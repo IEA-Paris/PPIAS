@@ -1,15 +1,17 @@
 ---
-DOI: 10.5072/zenodo.1115029
-Zid: 1115029
+
 abstract: >-
   Table-ronde 3 du forum "Our Microbial Lives: A Forum Against Eradication", 
   May 27, 2021, Paris Institute for Advanced Study
 article_title: Écologies microbiennes dans les corps humains et animaux
 authors:
-  - firstname: 'Pierre-Olivier'
+  - firstname: Pierre-Olivier
     lastname: Méthot
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Université de Laval, Canada
+        positions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -21,13 +23,13 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: Université de Laval, Canada
-        positions: []
   - firstname: Nicolas
     lastname: Fortané
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: INRAE, France
+        positions: []
     reference: ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=iJD2TRkAAAAJ&hl=fr
@@ -39,13 +41,13 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: INRAE, France
-        positions: []
-  - firstname: 'Thierry'
+  - firstname: Thierry
     lastname: Naas
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Hôpital Bicêtre APHP, France
+        positions: []
     reference: ''
     social_channels:
       google_scholar: https://scholar.google.fr/citations?user=OKtfJd0AAAAJ&hl=fr
@@ -57,13 +59,15 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: Hôpital Bicêtre APHP, France
-        positions: []
-  - firstname: 'Geneviève'
+  - firstname: Geneviève
     lastname: Héry-Arnaud
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: CHRU de Brest, France
+        positions: []
+      - institution: Université de Bretagne Occidentale, France
+        positions: []
     reference: ''
     social_channels:
       google_scholar: https://scholar.google.fr/citations?user=LGlzo5QAAAAJ&hl=fr
@@ -75,11 +79,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: CHRU de Brest, France
-        positions: []
-      - institution: Université de Bretagne Occidentale, France
-        positions: []
 bibliography: /bibliography/documents-exportes_tb3_lee.bib
 date: 2021-05-27T13:00:08.000Z
 highlight: false
@@ -97,6 +96,7 @@ published: true
 yt: mAEoGVjHjUQ
 
 ---
+
 
 
 ## Table-ronde 3 du forum "Our Microbial Lives"

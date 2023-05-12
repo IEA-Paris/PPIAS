@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156099
-Zid: 1156099
+
 abstract: >-
   The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
   10-12 May 2017 - Introduction 
@@ -24,6 +23,7 @@ subissue: 3rd Conference on Syndrome E
 yt: gXYBdKRZaYk
 
 ---
+
 
 The transformation of groups of previously nonviolent individuals into repetitive killers of defenseless members of society has been a recurring phenomenon throughout history, continuing at the present era. This apparent transition of seemingly normal, “ordinary” individuals, to perpetrators of extreme atrocities is one of the most striking variants of human behavior. This transition is characterized by a set of symptoms and signs for which a common syndrome has been proposed, Syndrome E, as well as a pathophysiological model of a “cognitive fracture” (Fried, Lancet, 1997). A summary of the last two conferences and a survey of the syndrome manifestation in past times and in the current era will be presented.
 

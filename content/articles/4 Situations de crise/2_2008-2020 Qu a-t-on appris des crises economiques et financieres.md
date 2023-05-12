@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1129269
-Zid: 1129269
+DOI: 10.5072/zenodo.1201080
+Zid: 1201080
 abstract: >-
   2008-2020 : Qu'a-t-on appris des crises économiques et financières ? :
   rencontre du cycle "Agir en temps de crise - 4 Situations de Crise" organisée
@@ -13,6 +13,9 @@ authors:
     lastname: Strauss-Kahn
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Banque de France, France
+        positions: []
     social_channels:
       google_scholar: ''
       instagram: ''
@@ -23,14 +26,14 @@ authors:
       twitter: '@MarcStraussKahn'
       website: ''
       wikipedia: https://fr.wikipedia.org/wiki/Marc-Olivier_Strauss-Kahn
-    positions_and_institutions:
-      - institution: Banque de France, France
-        positions: []
   - firstname: Éric
     is_institution: false
     lastname: Monnet
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: EHESS, France
+        positions: []
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=7CzHDrkAAAAJ&hl=fr
       instagram: ''
@@ -41,14 +44,14 @@ authors:
       twitter: '@MonnetEric'
       website: https://www.ericmonnet.eu/
       wikipedia: ''
-    positions_and_institutions:
-      - institution: EHESS, France
-        positions: []
   - firstname: Elizabeth
     is_institution: false
     lastname: Ducottet
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: groupe Thuasne, France
+        positions: []
     social_channels:
       google_scholar: ''
       instagram: ''
@@ -59,9 +62,6 @@ authors:
       twitter: '@EDucottet'
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: groupe Thuasne, France
-        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2022-04-14T16:00:42.000Z
@@ -76,6 +76,8 @@ sub-issue: 4 Situations de Crise
 yt: 63wZu5JOlMU
 
 ---
+
+
 
 La crise dite des subprimes en 2008 a révélé la fragilité persistante du système financier mondial. Elle a fait craindre des faillites de banques en chaîne et un effondrement économique global. Face à cette situation, des instruments inédits ont été mis en place dans l’urgence par les États. Des projets de réforme d’ampleur des systèmes de régulation financière ont alors vu le jour.
 

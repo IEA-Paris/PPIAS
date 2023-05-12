@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1155959
-Zid: 1155959
+DOI: 10.5072/zenodo.1201226
+Zid: 1201226
 abstract: >-
   Intellectuals against liberal democracy. Academia, media, and culture, Paris
   IAS, 2-3 June 2022 - Program
@@ -59,6 +59,8 @@ sub-issue: ''
 yt: ''
 
 ---
+
+
 
 Workshop organized by Valentin Behr, résident 2021-2022 Paris IAS and Simon Massei, Université libre de Bruxelles, with the support of Paris IAS and  CESSP.
 

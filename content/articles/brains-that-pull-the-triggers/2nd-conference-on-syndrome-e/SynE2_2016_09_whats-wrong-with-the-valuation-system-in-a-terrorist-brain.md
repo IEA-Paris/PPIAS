@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156319
-Zid: 1156319
+
 abstract: >-
   The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
   09-10 May 2016 - Session 3 - Valuation and violence
@@ -26,6 +25,7 @@ subissue: 2nd Conference  on Syndrome E
 yt: d7iCX1hkcJo
 
 ---
+
 
 According to standard decision theory, making a choice can be reduced to first assigning values to available options and then selecting the option with the highest value. During the last decade, neuroscience has identified a brain system that signals option values in a variety of choice situations implemented in the lab. In this framework, any decision follows from subjective valuation: a terrorist must act upon the belief that he/she is doing the right thing. 
 

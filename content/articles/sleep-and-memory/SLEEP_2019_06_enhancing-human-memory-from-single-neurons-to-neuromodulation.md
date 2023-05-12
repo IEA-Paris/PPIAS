@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155999
-Zid: 1155999
+
 abstract: >-
   Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 3 - Enhancement and
   Inception (Part II: Humans)
@@ -23,6 +22,7 @@ subissue: false
 yt: UktLhBJEhOM
 
 ---
+
 
 Loss of memory is one of the most dreaded afflictions of the human condition. With the increase in population age and subsequent striking increase in number of patients with memory impairments, we are facing a social calamity  
 of alarming dimensions.

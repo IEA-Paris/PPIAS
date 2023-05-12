@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155905
-Zid: 1155905
+
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 4
 article_title: De la Polarisation à la Radicalisation
 authors:
@@ -23,6 +22,7 @@ subissue: false
 yt: F07jiwN3WLA
 
 ---
+
 
 Serge Moscovici a apporté une contribution majeure aux processus de prise de décision en groupe en mettant  en exergue dans ses recherches le processus de polarisation collective. Nous présenterons les conditions d’apparition de ce processus à partir de ses travaux et de ceux de ses collègues puis  nous examinerons comment la polarisation peut conduire à des phénomènes de radicalisation et d’extrémisme politique ou religieux.
 

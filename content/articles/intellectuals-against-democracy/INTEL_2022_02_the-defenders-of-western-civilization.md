@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155963
-Zid: 1155963
+
 abstract: >-
   Intellectuals against liberal democracy. Academia, media, and culture, Paris
   IAS, 2-3 June 2022 - Panel 1 - The formation and circulation of illiberal
@@ -42,6 +41,7 @@ subissue: false
 yt: 3QIJi_HdMaM
 
 ---
+
 
 The paper discusses how “civilisation” is defined and defended by an influential illiberal network in Central Europe and North America, working to establish a global national-conservative movement. This network’s influence helps understanding the broader shift away from liberalism characterising parts of the political and intellectual elite throughout the world. It originates both in the North American post-liberal conservatism and the networking initiatives of Central European (mainly Polish and Hungarian) right-wing intellectuals and think tanks. It aims to “renew” Western politics, institutions, and ultimately “civilisation”, understood as opposed to liberalism and grounded in Western Christianity and classical antiquity. The renewalist network constructs a civilisationist discourse replacing Huntingtonian references with Straussian and Voegelinian notions allowing to divorce the “West” from liberalism.
 

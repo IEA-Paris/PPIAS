@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 7.0_WPRN21_Keynote 7
+  - 7-0_WPRN21_Keynote 7
 exerpt: ''
 firstname: Bennett
 issue:

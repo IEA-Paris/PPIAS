@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155847
-Zid: 1155847
+
 abstract: >-
   Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris IAS, 10-11
   December - Session 2 - Retour sur expérience : « s’être trompé » et « avoir eu
@@ -33,6 +32,7 @@ subissue: false
 yt: kfhEb2fDQLk
 
 ---
+
 
 ### Session 2 - Retour sur expérience : "s'être trompé" et "avoir eu raison" en 2008
 

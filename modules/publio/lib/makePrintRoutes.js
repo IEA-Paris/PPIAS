@@ -4,7 +4,7 @@ export default (articles, options) => {
   console.log('make print routes for array of articles', articles.length)
   const pdfArticles = articles.filter((article) => {
     /*    */
-    return !article.custom_pdf && article.todo.generatePDF
+    return !article.custom_pdf && article?.todo?.generatePDF
   })
   const thumbnailArticles = articles.filter(
     (article) => !article.picture && !article.yt && article.todo.generateGraph

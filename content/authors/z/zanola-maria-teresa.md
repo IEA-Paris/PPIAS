@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 2.2.4_Zanola
+  - 2-2-4_Zanola
 exerpt: ''
 firstname: Maria Teresa
 is_institution: false

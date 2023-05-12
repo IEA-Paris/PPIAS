@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 4. 1999  la France dans la tempete
+  - 4- 1999  la France dans la tempete
 exerpt: ''
 firstname: Claude
 is_institution: false

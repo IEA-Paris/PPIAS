@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156315
-Zid: 1156315
+
 abstract: >-
   The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
   09-10 May 2016 - Session 3 - Valuation and violence
@@ -28,5 +27,6 @@ subissue: 2nd Conference  on Syndrome E
 yt: GM_QSYfsSgo
 
 ---
+
 
 <Youtube yt="GM_QSYfsSgo" caption="Rules and Values"></Youtube>

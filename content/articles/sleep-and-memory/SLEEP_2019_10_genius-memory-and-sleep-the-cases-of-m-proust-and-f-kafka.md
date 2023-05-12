@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156003
-Zid: 1156003
+
 abstract: >-
   Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 6 - In Search of Lost
   Sleep
@@ -27,6 +26,7 @@ subissue: false
 yt: dggcGcaalZM
 
 ---
+
 
 The cases of the writers Marcel Proust and Franz Kafka are examples of the relationship among genius, memory and sleep.  
 The interest of Marcel Proust on involuntary memory may be related to his medical history. The novelist suffered from bronchial asthma and insomnia. At that time, asthma was considered a _nervous habitus_, and a diagnosis of _neurasthenia_ was performed. Proust was admitted to Paul Sollier’s Clinic in Paris, to try to treating his neurasthenia and insomnia. Sollier studied several aspects of the memory, and used the surges of involuntary memory to treat  

@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155843
-Zid: 1155843
+
 abstract: >-
   Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris IAS, 10-11
   December - Session 2 - Retour sur expérience : « s’être trompé » et « avoir eu
@@ -32,5 +31,6 @@ subissue: false
 yt: kfhEb2fDQLk
 
 ---
+
 
 <Youtube yt="kfhEb2fDQLk" caption="Les 100 obstacles à sauter pour prévision correcte" start="1680" stop="2560"></Youtube>

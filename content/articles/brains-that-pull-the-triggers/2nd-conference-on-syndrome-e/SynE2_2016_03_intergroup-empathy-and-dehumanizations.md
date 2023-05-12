@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156301
-Zid: 1156301
+
 abstract: >-
   The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
   09-10 May 2016 - Session 1 - Empathy and Dehumanization
@@ -28,6 +27,7 @@ subissue: 2nd Conference  on Syndrome E
 yt: 1L6y15Il81s
 
 ---
+
 
 Humans have in place a range of psychological inhibitors that prevent us from harming others. Therefore, committing an act of political violence may require not only active motivation to harm, but also the removal of prohibitions against doing so. In this talk I will present evidence for two complementary cognitive processes that may be directly implicated in this psychological tug of war: empathy and dehumanization. I will present behavioral and neural evidence highlighting the relevance of these processes in a range of contexts — U.S.-Iranian tensions, the 'refugee crisis' in Europe and the Israeli-Palestinian conflict — and preliminary data on promising interventions that may help subdue the psychological forces that drive us towards conflict.
 

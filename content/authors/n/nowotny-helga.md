@@ -1,9 +1,8 @@
 ---
 active: true
 articles:
-  - 3.1.1_Nowotny - 9.0_WPRN21_Closing Panel
-  - 3.1.1_Nowotny
-  - 9.0_WPRN21_Closing Panel
+  - 3-1-1_Nowotny
+  - 9-0_WPRN21_Closing Panel
 exerpt: ''
 firstname: Helga
 issue:

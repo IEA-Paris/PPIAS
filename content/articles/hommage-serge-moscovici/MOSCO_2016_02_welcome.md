@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155899
-Zid: 1155899
+
 abstract: >-
   Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Introduction
   Conference
@@ -41,5 +40,6 @@ subissue: false
 yt: cJwJdOVLJx0
 
 ---
+
 
 <Youtube yt="cJwJdOVLJx0" caption="Hommage à Serge Moscovici  Introduction - G. Mirdal, J. Perez et S. Lahlou"></Youtube>

@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156305
-Zid: 1156305
+
 abstract: >-
   The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
   09-10 May 2016 - Introduction
@@ -23,6 +22,7 @@ subissue: 2nd Conference  on Syndrome E
 yt: uA5azJSADWk
 
 ---
+
 
 « _We came face to face but he didn’t shoot. What did he look like? An ordinary guy with a Kalashnikov_ » (witness account, Le Bataclan, November 2015).
 

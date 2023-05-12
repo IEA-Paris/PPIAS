@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155829
-Zid: 1155829
+
 abstract: >-
   Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris IAS, 10-11
   December - Programme
@@ -22,6 +21,7 @@ subissue: false
 yt: false
 
 ---
+
 
 Colloque organisé par Pierre Pénet, Université de Genève et chaire d’Alembert Paris-Saclay - IEA de Paris, avec le soutien de l’Institut d’études avancées de Paris.
 

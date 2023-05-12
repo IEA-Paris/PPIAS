@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 8.0_WPRN21_Keynote 8
+  - 8-0_WPRN21_Keynote 8
 exerpt: ''
 firstname: Enrique
 issue:

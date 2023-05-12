@@ -1,49 +1,59 @@
 ---
+
+abstract: >-
+  Gender inequalities are structural in our society: unequal pay, unequal
+  distribution of household chores and family life, and violence against women
+  remain major social facts. The field of gender studies has become increasingly
+  important in the academic sphere. Numerous analyses have attempted to evaluate
+  the consequences of the Covid 19 pandemic through a gender lens, showing for
+  example a more important role for women in family work during lockdown, a
+  greater exposure of «typically» female occupations to the pandemic or an
+  increase in domestic violence.
+
+  Memorandum 6 : overview of the studies and projects registered on WPRN
+  database
+article_title: >-
+  Gendered Responses and Marked Inequalities: The Pandemic as a Revealer of
+  Gender Injustice
+authors:
+  - firstname: Victor
+    lastname: Galonnier
+bibliography: ''
+category1:
+  - color: green
+    text: Article
+date: 2020-09-01T13:00:00.000Z
+highlight: false
 issue: content/issues/WPRN Memorandums.md
 keywords:
-- 'Equality & Diversity Studies '
-- Human Behaviours, Social Relations
-- 'Inequalities, Poverty, Development '
-- 'Work, Welfare, Social protection '
-- 'Public Health '
-- 'Big Data, Artificial Intelligence '
-- 'Public Policy, Evaluation, Impact '
-- 'Dataset, Data Mining '
-- 'Policy Document '
-date: 2020-09-01T13:00:00Z
-article_title: 'Gendered Responses and Marked Inequalities: The Pandemic as a Revealer
-  of Gender Injustice'
-picture: "/jeshoots-com-__zmnefoi3k-unsplash-1024x683.jpg"
-picture_copyright: ''
-yt: ''
-published: true
-pinned: false
-bibliography: ''
-authors:
-- firstname: 'Victor'
-  lastname: Galonnier
-abstract: |-
-  Gender inequalities are structural in our society: unequal pay, unequal distribution of household chores and family life, and violence against women remain major social facts. The field of gender studies has become increasingly important in the academic sphere. Numerous analyses have attempted to evaluate the consequences of the Covid 19 pandemic through a gender lens, showing for example a more important role for women in family work during lockdown, a greater exposure of «typically» female occupations to the pandemic or an increase in domestic violence.
-  Memorandum 6 : overview of the studies and projects registered on WPRN database
-highlight: false
+  - 'Equality & Diversity Studies '
+  - Human Behaviours, Social Relations
+  - 'Inequalities, Poverty, Development '
+  - 'Work, Welfare, Social protection '
+  - 'Public Health '
+  - 'Big Data, Artificial Intelligence '
+  - 'Public Policy, Evaluation, Impact '
+  - 'Dataset, Data Mining '
+  - 'Policy Document '
 language: English
-DOI: 10.5072/zenodo.1115399
-Zid: 1115399
+picture: /jeshoots-com-__zmnefoi3k-unsplash-1024x683.jpg
+picture_copyright: ''
+pinned: false
+published: true
 tag:
-- 'Equality & Diversity Studies '
-- Human Behaviours, Social Relations
-- 'Inequalities, Poverty, Development '
-- 'Work, Welfare, Social protection '
-- 'Public Health '
-- 'Big Data, Artificial Intelligence '
-- 'Public Policy, Evaluation, Impact '
-- 'Dataset, Data Mining '
-- 'Policy Document '
-category1:
-- color: green
-  text: Article
+  - 'Equality & Diversity Studies '
+  - Human Behaviours, Social Relations
+  - 'Inequalities, Poverty, Development '
+  - 'Work, Welfare, Social protection '
+  - 'Public Health '
+  - 'Big Data, Artificial Intelligence '
+  - 'Public Policy, Evaluation, Impact '
+  - 'Dataset, Data Mining '
+  - 'Policy Document '
+yt: ''
 
 ---
+
 Gender inequalities are structural in our society: unequal pay, unequal distribution of household chores and family life, and violence against women remain major social facts. The field of gender studies has become increasingly important in the academic sphere. Many analyses have attempted to evaluate the consequences of the Covid 19 pandemic through a gender lens, showing for example a more important role for women in family work during confinement, a greater exposure of «typically» female occupations to the pandemic or an increase in domestic violence.
 
 The studies reviewed by WPRN shed new light on the topic, with several studies having the particular interest of focusing on individuals’ perceptions of the situation according to their gender.

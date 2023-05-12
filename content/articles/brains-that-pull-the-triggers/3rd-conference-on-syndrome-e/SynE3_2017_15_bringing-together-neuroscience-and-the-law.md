@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156323
-Zid: 1156323
+
 abstract: >-
   The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
   10-12 May 2017 - Session 6: Morality, Law, and Neuroscience
@@ -27,6 +26,7 @@ subissue: 3rd Conference on Syndrome E
 yt: 1tFLbfUVCaM
 
 ---
+
 
 The author, a lawyer and not at all a specialist of neuroscience, tries to present some reflections about the feasibility, usefulness, and possible dangers, of bringing together neurosciences and the Law. This interconnection has already started. In some criminal trials, lawyers submit to judges neurological evidence in order to demonstrate the innocence or guilt of the accused person, or the existence of mitigating circumstances. According to French Law the legality of cerebral imaging for judicial expertise may be admitted under conditions. The age of criminal responsibility is questioned on the grounds of brain development ecc.
 

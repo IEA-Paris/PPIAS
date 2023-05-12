@@ -1,9 +1,8 @@
 ---
 active: true
 articles:
-  - 1.2.0_intro_Ochsner - 3.2.2_Ochsner
-  - 1.2.0_intro_Ochsner
-  - 3.2.2_Ochsner
+  - 1-2-0_intro_Ochsner
+  - 3-2-2_Ochsner
 exerpt: ''
 firstname: Michael
 is_institution: false

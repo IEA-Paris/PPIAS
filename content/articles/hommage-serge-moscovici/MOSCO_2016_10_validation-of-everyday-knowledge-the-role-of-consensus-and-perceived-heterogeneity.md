@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155913
-Zid: 1155913
+
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 3
 article_title: >-
   Validation of Everyday Knowledge: The role of Consensus and Perceived
@@ -53,6 +52,7 @@ subissue: false
 yt: VRzJa_3BDAs
 
 ---
+
 
 In this EASP Small Group Meeting in Honor of Serge Moscovici, we aim at presenting studies that we have been conducting to analyze the role of consensus and group heterogeneity on the perceived validity of everyday knowledge, as well as its moderators, mediators, and present new avenues of research. The general framework guiding these investigations is rooted in the system and metasystem dichotomy introduced by Moscovici in 1976, and other developments as the social representations theory (@moscovici_phenomenon_1984) and its articulation with the groups’ shared knowledge framework (@levine_shared_2001).
 

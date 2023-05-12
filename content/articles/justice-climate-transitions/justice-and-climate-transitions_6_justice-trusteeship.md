@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155947
-Zid: 1155947
+
 abstract: Justice and Climate Transitions, Paris IAS,  24-25 September 2015 - Session 2
 article_title: >-
   Justice, Trusteeship and the Transition to a Low Carbon Economy: An integrated
@@ -21,6 +20,7 @@ subissue: false
 yt: 5RCeDpr6BmI
 
 ---
+
 
 I assess whether traditional forms of the ownership of sources of energy are adequate in a climate constrained world and explore ways in which the existing intellectual property rights regime can be reformed to generate both the necessary innovation into clean technology and also its transfer to the least advantaged.
 

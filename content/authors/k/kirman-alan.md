@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 3.1.4_Kirman
+  - 3-1-4_Kirman
 exerpt: ''
 firstname: Alan
 issue:

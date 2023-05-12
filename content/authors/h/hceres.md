@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 0.0.1_ Programme colloque Hceres
+  - 0-0-1_ Programme colloque Hceres
 exerpt: ''
 firstname: ''
 is_institution: true

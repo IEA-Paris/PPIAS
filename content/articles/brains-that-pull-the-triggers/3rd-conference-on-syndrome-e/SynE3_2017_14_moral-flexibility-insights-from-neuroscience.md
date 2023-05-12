@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156101
-Zid: 1156101
+
 abstract: >-
   The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
   10-12 May 2017 - Session 6 - Morality, Law, and Neuroscience
@@ -30,6 +29,7 @@ subissue: 3rd Conference on Syndrome E
 yt: HJvRnkFVo88
 
 ---
+
 
 Classical models of antisocial behavior propose that violence arises out of a failure of lateral prefrontal cortex (LPFC) to “put the brakes” on aggressive impulses originating in subcortical regions such as the amygdala and striatum. A new, alternative model proposes that LPFC does not directly inhibit aggressive impulses, but instead flexibly modulates the value of aggressive acts via corticostriatal circuits. 
 

@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 2.0_WPRN21_Keynote 2
+  - 2-0_WPRN21_Keynote 2
 exerpt: ''
 firstname: Xiaobo
 issue:

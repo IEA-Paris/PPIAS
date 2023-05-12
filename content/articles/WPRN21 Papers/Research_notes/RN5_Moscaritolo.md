@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1115374
-Zid: 1115374
+
 abstract: >-
   During the COVID-19 sanitary crisis, the particular constraints faced by
   French single-parent families and households with children in shared residence

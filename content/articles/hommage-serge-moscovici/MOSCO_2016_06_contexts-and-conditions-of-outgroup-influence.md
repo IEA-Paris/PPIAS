@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155893
-Zid: 1155893
+
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 2
 article_title: Contexts and Conditions of Outgroup Influence
 authors:
@@ -49,6 +48,7 @@ subissue: false
 yt: xEjhMEhDIAg
 
 ---
+
 
 Moscovici’s legacy in social influence and group and societal interactions provides a large part of the foundation for the research program we present here. By examining the complicated nature of social categorizations and intragroup positioning (prototypicality) as important conditions of minority influence, this work posits that outgroups can strategically use other outgroups to increase their subjective closeness to influence targets, creating conditions for change. In Experiment 1, American conservatives increased feelings of subjective closeness to a group of moderate liberals (an outgroup) only if the outgroup was presented alongside a more extreme outgroup. In Experiment 2, American liberals read a counter-attitudinal communication from an extreme conservative outgroup, a moderate conservative outgroup, or a moderate group of conservatives presented alongside a more extreme group. Whereas peripheral liberals rejected the message from a moderate outgroup presented alongside the extreme outgroup, prototypical liberals were more accepting of the message in this condition. Experiment 3 manipulated ingroup prototypicality and provides evidence that prototypical (vs. peripheral) group members feel closer to and are more accepting of an outgroup minority’s position which appears perceptually close to the ingroup. This body of work provides evidence that ingroup positioning is important for understanding when change can occur across intergroup boundaries. Together these studies demonstrate that social comparative processes amongst outgroup factions affect perceptions of social distance and an outgroup’s ability to exert influence.
 

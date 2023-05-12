@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 0.1_WPRN21_Welcome Conference
+  - 0-1_WPRN21_Welcome Conference
 exerpt: ''
 firstname: Flore
 issue:

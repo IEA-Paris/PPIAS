@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1155871
-Zid: 1155871
+DOI: 10.5072/zenodo.1201208
+Zid: 1201208
 abstract: >-
   Adventures of Identity: From the Double to the Avatar. Paris IAS, 13-14
   December 2018 - Session 2
@@ -27,5 +27,7 @@ subissue: false
 yt: z-_Sug7EuYI
 
 ---
+
+
 
 <Youtube yt="z-_Sug7EuYI" caption="Laughs Best who Laughs Last: Sardonic Doublets of Religious Tools in Eighteenth Century Sardinia"></Youtube>

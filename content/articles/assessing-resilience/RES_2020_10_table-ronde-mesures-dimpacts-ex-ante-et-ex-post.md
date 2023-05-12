@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155821
-Zid: 1155821
+
 abstract: >-
   Assessing Territorial Resilience: Indicators and Tools for Governance, Paris
   IAS, July 15-17 2020 - Session 3 - Round table
@@ -38,5 +37,6 @@ subissue: false
 yt: BW0oEk1Xzzs
 
 ---
+
 
 <Youtube yt="BW0oEk1Xzzs" caption="Table ronde : Mesures d’impacts ex-ante et ex-post"></Youtube>

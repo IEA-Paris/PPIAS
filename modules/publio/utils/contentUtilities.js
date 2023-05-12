@@ -416,6 +416,7 @@ ${markdown || ''}`
       )
     }
   })
+  return documents
 }
 export const batchInsertArticles = (data) => {
   try {

@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156113
-Zid: 1156113
+
 abstract: >-
   The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
   10-12 May 2017 - Session 7 - Where Do We Go from Here?
@@ -48,5 +47,6 @@ subissue: 3rd Conference on Syndrome E
 yt: RjpjfM64mdk
 
 ---
+
 
 <Youtube yt="RjpjfM64mdk" caption="Roundtable 2: The Place of Neuroscience in Future Research on Perpetrators of Extreme Violence"></Youtube>

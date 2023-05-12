@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156089
-Zid: 1156089
+
 abstract: >-
   The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
   10-12 May 2017 - Session 1 - Heart of Darkness: Ordinary and Extraordinary
@@ -27,6 +26,7 @@ subissue: 3rd Conference on Syndrome E
 yt: If2_p5sDjOA
 
 ---
+
 
 Duch, chief of S-21, a center of torture and death during the Khmer rouge regime, has been judged by the Special International Court for the Khmers rouges in Cambodia in 2009. I was appointed by the Court to analyze the psychology of Duch. 
 

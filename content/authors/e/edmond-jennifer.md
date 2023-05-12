@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 2.1.2_Edmond
+  - 2-1-2_Edmond
 exerpt: ''
 firstname: Jennifer
 issue:

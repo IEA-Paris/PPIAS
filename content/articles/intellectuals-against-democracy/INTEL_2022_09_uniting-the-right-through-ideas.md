@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155981
-Zid: 1155981
+
 abstract: >-
   Intellectuals against liberal democracy. Academia, media, and culture, Paris
   IAS, 2-3 June 2022 - Panel 2 - Illiberal intellectuals figures
@@ -29,6 +28,7 @@ subissue: false
 yt: C11qgbuGMZ8
 
 ---
+
 
 In this presentation I propose a framework to study _right-wing Gramscianism_ from a perspective inspired by the sociology of intellectuals and the social history of political ideas. The aim is to place the study of conservative turning points in a processual perspective and in temporalities longer than the electoral conjuncture. Shifting the focus to the fringes of the political field allows us to understand the role of civil society actors (intellectuals, academics, journalists) in the production and diffusion of conservative ideas. The analysis is based on the articulation of three fields of investigation: Poland, France, and the transnational conservative intellectual space. The aim is to understand the mutual references and influences between different streams of the right, on both sides of the former Iron Curtain: how do ideas circulate, transnationally (from one country to another) and transsectorially (between intellectual and political fields)? What are the factors (social, material, institutional) and the contexts that favor these circulations? 
 

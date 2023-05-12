@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 3.0.1_Lucaroni
+  - 3-0-1_Lucaroni
 exerpt: ''
 firstname: Beatrice
 issue:

@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156071
-Zid: 1156071
+
 abstract: >-
   The Brains that pull the Triggers. 1st Conference on Syndrome E, Paris IAS,
   28-29 April 2015 - Session 2 - The Brains that Pull the Triggers: Perception,
@@ -29,5 +28,6 @@ subissue: 1st Conference  on Syndrome E
 yt: ejCWcO4ldag
 
 ---
+
 
 <Youtube yt="ejCWcO4ldag" caption="Volition and Affect: How Do Positive, Negative, Right and Wrong Outcomes Influence Human Sense of Agency"></Youtube>

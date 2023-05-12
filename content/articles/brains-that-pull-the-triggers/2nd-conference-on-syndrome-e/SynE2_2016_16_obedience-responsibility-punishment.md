@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156117
-Zid: 1156117
+
 abstract: >-
   The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
   09-10 May 2016 - Session 5 - Responsibility and Intervention
@@ -26,6 +25,7 @@ subissue: 2nd Conference  on Syndrome E
 yt: fm0_SzVQPNU
 
 ---
+
 
 At the Office of the Prosecutor of the ICC (International Criminal Court) we investigate perpetrators of the worst atrocities in the world on a daily basis, since our Office was established in 2004. We cover 19 situations around the world, including cases of genocide, crimes against humanity and war crimes involving hundreds of thousands of victims. We need to consider the different motives and triggers of the violence at difference levels. Generally, as Raoul Hilberg would say, to understand the point of view of the criminal is one of the secrets of success for complex criminal investigations. 
 

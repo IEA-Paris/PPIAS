@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156119
-Zid: 1156119
+
 abstract: >-
   The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
   09-10 May 2016 - Session 5 -  Responsibility and Intervention
@@ -28,6 +27,7 @@ subissue: 2nd Conference  on Syndrome E
 yt: 4sURCobeP6g
 
 ---
+
 
 Individuals can change. They can be radicalized to the point of perpetrating extreme violence. They can also grow to fight for human rights out of compassion for other human beings. At the core of any such change is learning. Two types of learning are relevant. Explicit Learning is when we gain factual knowledge and the details of the events we experience each day, or what memory researchers call Declarative Memories. 
 

@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156317
-Zid: 1156317
+
 abstract: >-
   The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
   09-10 May 2016 - Session 4 - Clinical Correlations and Parallels
@@ -28,6 +27,7 @@ subissue: 2nd Conference  on Syndrome E
 yt: 8icocBuAzX0
 
 ---
+
 
 In their educative and therapeutic approach of Difficult Adolescents, professionals have to deal with a clinic of violent acting in which there are obvious similarities with the signs and problems described in the syndrome E hypothesis (coexistence or alternation of callous insensitive behaviors and of normalized empathic conduct of solidarity, coexistence or alternation of non-compatible systems of values, socialization of psychological distress, ineffectiveness of classical social and therapeutic systems of cares etc...)
 

@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 6. Crise environnementale
+  - 6- Crise environnementale
 exerpt: ''
 firstname: Bruno
 is_institution: false

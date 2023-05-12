@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156061
-Zid: 1156061
+
 abstract: >-
   The Brains that pull the Triggers. 1st Conference on Syndrome E, Paris IAS,
   28-29 April 2015 - Session 4 - The Individual and the Group: Mechanisms of
@@ -28,5 +27,6 @@ subissue: 1st Conference  on Syndrome E
 yt: j2KYDciL5ao
 
 ---
+
 
 <Youtube yt="IqlQp5gyfts" caption ="Bioéthique et laïcité"></Youtube>

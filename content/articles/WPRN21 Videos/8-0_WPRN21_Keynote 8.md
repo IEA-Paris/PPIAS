@@ -1,15 +1,17 @@
 ---
-DOI: 10.5072/zenodo.1115110
-Zid: 1115110
+
 abstract: >-
   WPRN21 Conference - Paris IAS, 9-10 December 2021. Keynote by Enrique Fatas
   and Paulius Yamin 
 article_title: In Science We Should Trust (Controlling for the Social Desirability Bias)
 authors:
-  - firstname: 'Paulius'
+  - firstname: Paulius
     lastname: Yamin
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: University of Pennsylvania, USA
+        positions: []
     reference: ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=zO4EatkAAAAJ&hl=en
@@ -21,13 +23,13 @@ authors:
       twitter: https://twitter.com/pauliusyamin
       website: https://pauliusyamin.com/
       wikipedia: ''
-    positions_and_institutions:
-      - institution: University of Pennsylvania, USA
-        positions: []
-  - firstname: 'Enrique'
+  - firstname: Enrique
     lastname: Fatas
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: University of Pennsylvania, USA
+        positions: []
     reference: ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=vlwPdfsAAAAJ&hl=en
@@ -39,9 +41,6 @@ authors:
       twitter: https://twitter.com/enriquefatas?lang=fr
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: University of Pennsylvania, USA
-        positions: []
 bibliography: /bibliography/documents-exportes_keynote8.bib
 date: 2021-12-10T14:00:13.000Z
 doi: '169059797'
@@ -63,6 +62,7 @@ published: true
 yt: IxE1RFZSJZk
 
 ---
+
 
 
 Keynote presentation by Enrique Fatas and Paulius Yamin during the WPRN21 conference in Paris on December 10th 2021

@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 1.0.1_Mounier
+  - 1-0-1_Mounier
 exerpt: ''
 firstname: Pierre
 issue:

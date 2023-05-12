@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 2.2.3_Spassova
+  - 2-2-3_Spassova
 exerpt: ''
 firstname: Joanna
 is_institution: false

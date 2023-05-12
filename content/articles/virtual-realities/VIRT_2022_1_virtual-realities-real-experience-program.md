@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156039
-Zid: 1156039
+
 abstract: >-
   Virtual Realities, real experiences. Perspectives from behavioral and
   neuroscience studies. Paris IAS, 17 February 2022 - Program
@@ -9,11 +8,11 @@ article_title: >-
   Neuroscience Studies - Program
 authors:
   - firstname: ''
+    is_institution: true
     lastname: Institut d'études avancées de Paris, France
-    is_institution: true
   - firstname: ''
-    lastname: Ecole normale Supérieure Paris, France
     is_institution: true
+    lastname: Ecole normale Supérieure Paris, France
 date: 2022-02-17T00:00:00.000Z
 highlight: false
 issue: content/issues/virtual-realities.md
@@ -22,7 +21,9 @@ needDOI: false
 published: true
 subissue: false
 yt: false
+
 ---
+
 
 ### Program
 

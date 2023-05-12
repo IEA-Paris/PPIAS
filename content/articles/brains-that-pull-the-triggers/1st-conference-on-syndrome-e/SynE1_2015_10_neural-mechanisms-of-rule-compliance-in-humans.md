@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156075
-Zid: 1156075
+
 abstract: >-
   The Brains that pull the Triggers. 1st Conference on Syndrome E, Paris IAS,
   28-29 April 2015 - Session 2 - The Brains that Pull the Triggers: Perception,
@@ -28,5 +27,6 @@ subissue: 1st Conference  on Syndrome E
 yt: MvebRnGPg_Q
 
 ---
+
 
 <Youtube yt="MvebRnGPg_Q" caption="Neural Mechanisms of Rule Compliance in Humans"></Youtube>

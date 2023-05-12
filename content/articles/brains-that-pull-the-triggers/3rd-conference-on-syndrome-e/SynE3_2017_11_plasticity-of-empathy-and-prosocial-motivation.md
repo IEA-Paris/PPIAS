@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156093
-Zid: 1156093
+
 abstract: >-
   The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
   10-12 May 2017 - Session 4 - Brains that Pull the Triggers: Plasticity of
@@ -34,6 +33,7 @@ subissue: 3rd Conference on Syndrome E
 yt: TOa-sPMDNGg
 
 ---
+
 
 In the present talk, I will present neuroscientific and psychological findings on the functioning of social emotions and motivations such as empathy and compassion and will give evidence for their fragility and modulation by beliefs and context as well as their trainability and plasticity through mental training interventions.
 

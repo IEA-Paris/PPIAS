@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155909
-Zid: 1155909
+
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 3
 article_title: Psychologie Sociale et Recherches sur l’Influence Minoritaire
 authors:
@@ -22,6 +21,7 @@ subissue: false
 yt: LJ1Yazt1O0c
 
 ---
+
 
 L’influence minoritaire est présentée à partir des recherches réalisées à Paris qui ont porté sur plusieurs aspects des processus centraux de l’influence sociale et permis de mettre au jour différents niveaux, étapes et formes de changements et de résistances.
 

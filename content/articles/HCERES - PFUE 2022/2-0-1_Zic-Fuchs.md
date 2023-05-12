@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1115102
-Zid: 1115102
+DOI: 10.5072/zenodo.1201140
+Zid: 1201140
 abstract: |-
   Evaluation of Social Sciences and Humanities in Europe.
   Hcéres Colloquium Proceedings - Paris IAS,  16-17 May 2022.
@@ -11,6 +11,9 @@ authors:
     lastname: Žic Fuchs
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: ' Faculty of Humanities and Social Sciences, University of Zagreb, Croatie'
+        positions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -22,9 +25,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: ' Faculty of Humanities and Social Sciences, University of Zagreb, Croatie'
-        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2022-05-16T12:00:10.000Z
@@ -41,6 +41,8 @@ published: true
 yt: ''
 
 ---
+
+
 At present, one of the hot topics on the European research scene is ‘assessment’. Namely, to put it very briefly, it could be said that ‘assessment’ is undergoing a major revision, or reevaluation, in an attempt at recognizing that the full scope of an academic portfolio should be taken into consideration and not just papers published in high-level journals.
 
 It is exactly ten years now since the famous DORA (San Francisco Declaration on Research Assessment) saw the light of day at the Annual Meeting of The American Society for Cell Biology (ASCB). Other landmarks during the past ten years after DORA have been the Leiden Manifesto and the Hong Kong Principles. These landmarks, in my view, present an accumulation of the energy necessary for change within this very wide concept of ‘assessment’. It should be noted that the changes do not only pertain to SSH but to all domains of research. This is important because it indicates a major push towards ‘reevaluating evaluation’.

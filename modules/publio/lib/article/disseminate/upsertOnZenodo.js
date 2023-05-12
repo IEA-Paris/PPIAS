@@ -16,7 +16,7 @@ export default async (articles, options, queue) => {
         : options.config.modules.zenodo.token,
       protocol: 'https',
     })
-
+    console.log('UPSERT ON ZENODO', articles?.length)
     // fetch all our Zenodo records
     // make an elastic search query to get only the relevant documents from Zenodo
     /*     const q =
@@ -58,10 +58,6 @@ export default async (articles, options, queue) => {
     const upsertArticleOnZenodo = async (document, editMode = false) => {
       const metadata = buildZenodoDocument(document, options)
 
-      metadata.title = `${
-        document.article_title
-      } ${new Date().toLocaleString()}`
-
       return await queue.add(async () => {
         const deposition = await (editMode
           ? zenodo.depositions.update({ metadata })
@@ -86,15 +82,16 @@ export default async (articles, options, queue) => {
         document.slug + '.pdf'
       )
       // check if the file exists
-      document.fileBuffer = fs.existsSync(resolvedPath)
-        ? // file exists, let's get checksum to check if it matches the one on Zenodo
-          fs.readFileSync(resolvedPath)
-        : // fileBuffer === false means the file should be generated
-          false
+      if (fs.existsSync(resolvedPath)) {
+        console.log('it exist: ', document.slug)
+        document.fileBuffer = fs.readFileSync(resolvedPath)
+      } else {
+        console.log('it DOES NOT exist: ', document.slug)
+        document.fileBuffer = false
+      }
       // get PDF checksum
       document.checksum = generateChecksum(document.fileBuffer)
 
-      console.log('document.checksum: ', document.checksum)
       // Compare DOI and Zenodo document id
       const sameIdOrDoi = hasSameIdOrDoi(records, document)
       /*   console.log('sameIdOrDoi: ', sameIdOrDoi) */
@@ -125,34 +122,43 @@ export default async (articles, options, queue) => {
               })
             })
             document.Zid = rst.data.id
-          }
+          } */
           // since we de-published the article, we need to republish it once the pdf & data is updated
-          document.todo.publishOnZenodo = true */
+        }
+        if (sameIdOrDoi.state !== 'done') {
+          console.log(
+            "Document is not published, let's publish it",
+            sameIdOrDoi
+          )
+          document.todo.publishOnZenodo = true
+          document.links = sameIdOrDoi.links
         }
       } else {
-        console.log("article doesn't exist on Zenodo", document.article_title)
         // this article doesn't exist on Zenodo. Let's create it then.
-        const rst = (await upsertArticleOnZenodo(document)) || false
-        if (rst) {
-          document.Zid = rst.data.id
-          document.DOI = rst.data.metadata.prereserve_doi.doi
-          document.links = { ...rst.data.links }
+        if (!document.DOI) {
+          console.log("article doesn't exist on Zenodo", document.article_title)
+          const rst = (await upsertArticleOnZenodo(document)) || false
+          if (rst) {
+            document.Zid = rst.data.id
+            document.DOI = rst.data.metadata.prereserve_doi.doi
+            document.links = { ...rst.data.links }
+            document.todo.publishOnZenodo = true
+          }
         }
+        document.todo.generatePDF = true
+
         console.log('document created', document.DOI)
       }
       return document
     }
     articles = await Promise.all(
-      await articles
-        // filter published articles only. It is done earlier in the fetch but it makes it more resilient
-        .filter((article) => article.published)
-        .map(async (document) => {
-          if (document.needDOI === true && !document.DOI) {
-            return await generateDOI(document, records)
-          } else {
-            return document
-          }
-        })
+      await articles.map(async (document) => {
+        if (document.published && document.needDOI === true) {
+          return await generateDOI(document, records)
+        } else {
+          return document
+        }
+      })
     )
 
     return articles

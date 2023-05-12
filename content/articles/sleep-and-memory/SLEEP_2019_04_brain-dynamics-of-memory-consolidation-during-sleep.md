@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155991
-Zid: 1155991
+
 abstract: >-
   Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 2 - Enhancement and
   Inception (Part I: Rodents)
@@ -26,6 +25,7 @@ subissue: false
 yt: coTP8dB17AQ
 
 ---
+
 
 Most modern theories of memory formation and consolidation posit that initially labile memory traces are formed in the hippocampus, then stabilized in neocortex for long-term storage. A seminal mechanistic model proposed that hippocampal endogenous activity during high frequency oscillations (_ripples_) played a key role in this process. This idea received striking correlative support with the discovery of sleep replay in rats, whereby neural activity patterns experienced during exploration of a maze are endogenously reactivated during sleep ripples, as if the rats were _dreaming_ of their exploration.
 

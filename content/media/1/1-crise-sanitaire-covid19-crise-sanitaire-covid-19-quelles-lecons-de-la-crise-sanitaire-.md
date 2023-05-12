@@ -1,5 +1,5 @@
 ---
-article_slug: 1. Crise sanitaire - Covid19
+article_slug: 1- Crise sanitaire - Covid19
 caption: 'Crise sanitaire - COVID-19 : quelles leçons de la crise sanitaire ?'
 date: 2021-01-20T17:00:50.000Z
 highlight: false

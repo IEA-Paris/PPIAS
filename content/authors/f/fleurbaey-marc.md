@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 6.0_WPRN21_Keynote 6
+  - 6-0_WPRN21_Keynote 6
 exerpt: ''
 firstname: Marc
 issue:

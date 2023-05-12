@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156043
-Zid: 1156043
+
 abstract: >-
   Virtual Realities, real experiences. Perspectives from behavioral and
   neuroscience studies. Paris IAS, 17 February 2022
@@ -29,5 +28,6 @@ subissue: false
 yt: PEwHVxM9tKI
 
 ---
+
 
 <Youtube yt="PEwHVxM9tKI" caption="The Effect of Body Posture, Outgroup Affiliation, and Proximity of Virtual Encounters on Human Freezing Responses"></Youtube>

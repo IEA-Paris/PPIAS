@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 2.1.3_Polonen
+  - 2-1-3_Polonen
 exerpt: ''
 firstname: Janne
 issue:

@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156321
-Zid: 1156321
+
 abstract: >-
   The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
   09-10 May 2016 - Session 4 - Clinical Correlations and Parallels
@@ -28,6 +27,7 @@ subissue: 2nd Conference  on Syndrome E
 yt: qrXpnD6XD0k
 
 ---
+
 
 Syndrome ‘E’ comprises a set of symptoms, at least some of which can be related to aspects of anti-social behaviour, as defined by DSM5, as well as some of its constituents such as conduct disorder or psychopathy. Some of the component  
 symptoms of Syndrome E resemble those acquired through lesions of the  

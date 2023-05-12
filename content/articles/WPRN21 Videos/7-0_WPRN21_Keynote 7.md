@@ -1,15 +1,19 @@
 ---
-DOI: 10.5072/zenodo.1115154
-Zid: 1115154
+
 abstract: >-
   WPRN21 Conference - Paris IAS, 9-10 December 2021. Keynote by Bennett
   Kleinberg 
 article_title: Emotional Responses to the Pandemic Through the Lens of Text Data
 authors:
-  - firstname: 'Bennett'
+  - firstname: Bennett
     lastname: Kleinberg
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Tilburg University, Netherlands
+        positions: []
+      - institution: University College London, United Kingdom
+        positions: []
     reference: ''
     social_channels:
       google_scholar: https://scholar.google.nl/citations?user=Ms2d7OsAAAAJ&hl=en
@@ -21,11 +25,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: Tilburg University, Netherlands
-        positions: []
-      - institution: University College London, United Kingdom
-        positions: []
 bibliography: /bibliography/documents-exportes_keynote7.bib
 date: 2021-12-10T10:30:19.000Z
 doi: '169059797'
@@ -45,6 +44,7 @@ published: true
 yt: iFabYJBx8ls
 
 ---
+
 
 
 Keynote presentation by Bennett Kleinberg during the WPRN21 conference in Paris on December 10th 2021

@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 3.0_WPRN21_Keynote 3
+  - 3-0_WPRN21_Keynote 3
 exerpt: ''
 firstname: Ted
 issue:

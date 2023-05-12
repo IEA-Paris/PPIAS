@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 1.1.0_intro_Galleron
+  - 1-1-0_intro_Galleron
 exerpt: ''
 firstname: Ioana
 issue:

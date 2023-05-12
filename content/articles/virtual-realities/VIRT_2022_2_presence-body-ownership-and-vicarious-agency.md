@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156057
-Zid: 1156057
+
 abstract: >-
   Virtual Realities, real experiences. Perspectives from behavioral and
   neuroscience studies. Paris IAS, 17 February 2022
@@ -32,5 +31,6 @@ subissue: false
 yt: Npb1GXr-ROk
 
 ---
+
 
 <Youtube yt="Npb1GXr-ROk" caption="Presence, Body Ownership and Vicarious Agency - the Illusions of Virtual Reality"></Youtube>

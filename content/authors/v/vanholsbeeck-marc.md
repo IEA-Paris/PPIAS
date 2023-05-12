@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 3.1.3_Vanholsbeeck
+  - 3-1-3_Vanholsbeeck
 exerpt: ''
 firstname: Marc
 is_institution: false

@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156115
-Zid: 1156115
+
 abstract: >-
   The Brains that pull the Triggers. 2nd Conference on Syndrome E, Paris IAS,
   09-10 May 2016 - Session 4 - Clinical Correlations and Parallels
@@ -28,6 +27,7 @@ subissue: 2nd Conference  on Syndrome E
 yt: d3KsT0t4g_w
 
 ---
+
 
 An epileptic seizure is a phenomenon characterized by an excess of communication between distant brain areas. This hyper-synchronization is associated with a loss of information complexity, and with a de différentiation between these distinct brain areas.
 

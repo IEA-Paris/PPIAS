@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155803
-Zid: 1155803
+
 abstract: >-
   Assessing Territorial Resilience: Indicators and Tools for Governance, Paris
   IAS, July 15-17 2020 - Session 2 - Round table discussion
@@ -41,5 +40,6 @@ subissue: false
 yt: 6T3rivzMYwo
 
 ---
+
 
 <Youtube yt="6T3rivzMYwo" caption="Suivi et pilotage"></Youtube>

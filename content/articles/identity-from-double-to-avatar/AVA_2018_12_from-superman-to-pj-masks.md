@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1155887
-Zid: 1155887
+DOI: 10.5072/zenodo.1201222
+Zid: 1201222
 abstract: >-
   Adventures of Identity: From the Double to the Avatar. Paris IAS, 13-14
   December 2018 - Session 4
@@ -25,5 +25,7 @@ subissue: false
 yt: P2ZDbcLLmN8
 
 ---
+
+
 
 <Youtube yt="P2ZDbcLLmN8" caption="From Superman to PJ Masks: How Masks Make Us Superhumans"></Youtube>

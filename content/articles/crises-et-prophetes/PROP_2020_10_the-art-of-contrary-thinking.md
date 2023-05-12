@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155841
-Zid: 1155841
+
 abstract: >-
   Crises et nouveaux prophètes. Intuition, prévision, réforme, Paris IAS, 10-11
   December - Session 2 - Retour sur expérience : « s’être trompé » et « avoir eu
@@ -30,5 +29,6 @@ subissue: false
 yt: kfhEb2fDQLk
 
 ---
+
 
 <Youtube yt="kfhEb2fDQLk" caption="The Art of Contrary Thinking" start="4369" stop="5780"></Youtube>

@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155949
-Zid: 1155949
+
 abstract: Justice and Climate Transitions, Paris IAS,  24-25 September 2015 - Session 1
 article_title: Can Dangerous Climate Change be Avoided ?
 authors:
@@ -23,6 +22,7 @@ subissue: false
 yt: LfZRuJ_0irY
 
 ---
+
 
 This paper discusses the nature of dangerous climate change, the problems of coordinating international action in response to it, and the importance of researching methods to supplement mitigation, at least temporarily. I defend the antipoverty principle for purposes of identifying dangerous climate change and guiding climate change mitigation policy. I then distinguish that identificatory account of dangerous climate change from the stated aim of international negotiations, namely to avoid global mean temperature warming in excess of 2ºC. I argue that climate change in excess of 2ºC is not necessarily dangerous climate change. The subsequent section discusses the nature of the collective action problem that bedevils mitigation negotiations; I also evaluate the pledge and review policy approach in light of its capacity to solve the collective action problems of mitigation. Although the pledge and review mechanism possesses the virtues of making a broad agreement possible and of protecting poor states against diplomatic duress, it is unlikely to provide a robust resolution of the collective action problems that results in climate change.
 

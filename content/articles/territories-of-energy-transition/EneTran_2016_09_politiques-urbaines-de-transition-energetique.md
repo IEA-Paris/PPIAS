@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156029
-Zid: 1156029
+
 abstract: >-
   Les territoires de la transition énergétique : Allemagne, France, Royaume-Uni.
   IEA de Paris, 23 mai 2016 - Session 4 - Approches globales
@@ -28,6 +27,7 @@ subissue: false
 yt: PT74la_2Vmg
 
 ---
+
 
 Villes et « territoires » sont de mis en avant dans les politiques (nationales, européennes) de transition énergétique. La mobilisation des acteurs territoriaux, le déploiement d’infrastructures énergétiques locales, la transformation des espaces urbanisés et des pratiques urbaines (logement, mobilité...) sont considérés comme autant d’instruments ou leviers de transition. Dans cette intervention, nous reviendrons d’abord sur les éléments à l'appui du constat d'une "réurbanisation" (partielle et contestée) des politiques énergétiques et sur les objectifs affichés (sobriété, « autonomie », résilience...). Nous examinerons ensuite quelques exemples de stratégies énergétiques locales (principes, modalités de mise en œuvre, premiers résultats) qui nous permettront de discuter des avancées produites et des limites. Nous nous interrogerons enfin sur les tenants et aboutissants d’une réelle autonomie (au sens politique du terme) énergétique de territoires infra-nationaux et sur les échelles territoriales auxquelles une telle autonomie pourrait se décliner. Nous examinerons ces questions dans un cadre européen.
 

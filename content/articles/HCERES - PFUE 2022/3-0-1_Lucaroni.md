@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1115011
-Zid: 1115011
+DOI: 10.5072/zenodo.1201164
+Zid: 1201164
 abstract: |-
   Evaluation of Social Sciences and Humanities in Europe.
   Hcéres Colloquium Proceedings - Paris IAS, 16-17 May 2022.
@@ -9,10 +9,13 @@ article_title: >-
   Integration of Social Sciences and Humanities in the EU funding programmes for
   research and innovation
 authors:
-  - firstname: 'Beatrice'
+  - firstname: Beatrice
     lastname: Lucaroni
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: European Commission
+        positions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -24,9 +27,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: European Commission
-        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2022-05-17T07:30:01.000Z
@@ -43,6 +43,8 @@ published: true
 yt: ''
 
 ---
+
+
 Social Sciences and Humanities (SSH) [^1] are necessary to tackle many of the complex societal challenges addressed in the EU Framework Programmes for Research and Innovation.
 
 Contributions from one or more SSH disciplines are frequently key to a successful application to the funding programme. The approach is usually interdisciplinary and involves either the collaboration between SSH disciplines and/or the collaboration between SSH and STEM (Science, Technology, Engineering and Mathematics) disciplines.

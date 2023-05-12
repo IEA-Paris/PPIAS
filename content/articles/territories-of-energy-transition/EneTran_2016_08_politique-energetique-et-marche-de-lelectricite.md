@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156019
-Zid: 1156019
+
 abstract: >-
   Les territoires de la transition énergétique : Allemagne, France, Royaume-Uni.
   IEA de Paris, 23 mai 2016 - Session 4 - Approches globales
@@ -34,6 +33,7 @@ subissue: false
 yt: PT74la_2Vmg
 
 ---
+
 
 Dans le secteur de l’électricité, le constat d'un certain nombre de défaillances de marché a conduit à un effort important de régulation par des autorités indépendantes. Ces autorités fondent la légitimité de leur intervention sur des règles de droit et sur la mobilisation de l'expertise économique. Cette régulation "indépendante" participe, en principe, à une plus grande prévisibilité et efficacité de la régulation et empêche sa capture par les intérêts économiques. 
 

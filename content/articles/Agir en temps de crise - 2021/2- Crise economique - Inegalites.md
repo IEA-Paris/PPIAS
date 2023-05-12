@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1115100
-Zid: 1115100
+DOI: 10.5072/zenodo.1201088
+Zid: 1201088
 abstract: >-
   Inégalités, précarité, des clés pour les surmonter : rencontre du cycle "Agir
   en temps de crise - Les grandes crises contemporaines" organisée et animée par
@@ -8,11 +8,14 @@ abstract: >-
   de l’IEA de Paris.
 article_title: Crise économique - Inégalités, précarité, des clés pour les surmonter
 authors:
-  - firstname: 'Esther'
+  - firstname: Esther
     is_institution: false
-    lastname: 'Duflo'
+    lastname: Duflo
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: ' Massachusetts Institute of Technology (MIT), USA'
+        positions: []
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=yhDMl8AAAAAJ&hl=en
       instagram: ''
@@ -23,14 +26,14 @@ authors:
       twitter: ''
       website: ''
       wikipedia: https://fr.wikipedia.org/wiki/Esther_Duflo
-    positions_and_institutions:
-      - institution: ' Massachusetts Institute of Technology (MIT), USA'
-        positions: []
-  - firstname: 'Claire'
+  - firstname: Claire
     is_institution: false
     lastname: Hédon
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: ''
+        positions: []
     social_channels:
       google_scholar: ''
       instagram: ''
@@ -41,14 +44,16 @@ authors:
       twitter: ''
       website: ''
       wikipedia: https://fr.wikipedia.org/wiki/Claire_H%C3%A9don
-    positions_and_institutions:
-      - institution: ''
-        positions: []
-  - firstname: 'Frédéric'
+  - firstname: Frédéric
     is_institution: false
     lastname: Worms
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: ' Comité consultatif national d''éthique, France'
+        positions: []
+      - institution: Ecole normale supérieure, France
+        positions: []
     social_channels:
       google_scholar: ''
       instagram: ''
@@ -59,16 +64,14 @@ authors:
       twitter: ''
       website: ''
       wikipedia: https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Worms
-    positions_and_institutions:
-      - institution: ' Comité consultatif national d''éthique, France'
-        positions: []
-      - institution: Ecole normale supérieure, France
-        positions: []
-  - firstname: 'Séverine'
+  - firstname: Séverine
     is_institution: false
     lastname: Mathieu
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: EPHE-PSL, France
+        positions: []
     social_channels:
       google_scholar: ''
       instagram: ''
@@ -79,14 +82,14 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: EPHE-PSL, France
-        positions: []
-  - firstname: 'Saadi'
+  - firstname: Saadi
     is_institution: false
     lastname: Lahlou
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Institut d'études avancées de Paris, France
+        positions: []
     social_channels:
       google_scholar: ''
       instagram: ''
@@ -97,9 +100,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: Institut d'études avancées de Paris, France
-        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2021-02-11T17:00:14.000Z
@@ -117,6 +117,8 @@ sub-issue: Les Grandes Crises Contemporaines
 yt: SYdswsu7ESI
 
 ---
+
+
 
 La 2ème rencontre du cycle "Agir en temps de crise" propose de revenir sur les conséquences économiques de la pandémie et de sa gestion, et de mettre en lumière les principaux perdants économiques de cette crise sanitaire.
 

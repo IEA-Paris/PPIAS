@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156065
-Zid: 1156065
+
 abstract: >-
   The Brains that pull the Triggers. 1st Conference on Syndrome E, Paris IAS,
   28-29 April 2015 - Session 1 - The Perpetrators that Pull the Triggers:
@@ -27,5 +26,6 @@ subissue: 1st Conference  on Syndrome E
 yt: fgAqkNSYVSM&t
 
 ---
+
 
 <Youtube yt="fgAqkNSYVSM&t" caption="On Obedience, Choice and Accountability or Why Orders Don't Work"></Youtube>

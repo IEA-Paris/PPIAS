@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155987
-Zid: 1155987
+
 abstract: >-
   Intellectuals against liberal democracy. Academia, media, and culture, Paris
   IAS, 2-3 June 2022 - Panel 3 - Illiberal media and social movements
@@ -27,6 +26,7 @@ subissue: false
 yt: 7uyHX_4aOkg
 
 ---
+
 
 Considering the present situation of democratic backsliding observed in Brazil, it is crucial to understand the various forms of thinking that take place in the political debate as a condition for the production of this phenomenon. A former military officer, Jair Bolsonaro was often seen as the incarnation of a certain nostalgia for the dictatorship prior to his candidacy for the presidency, consistently aligned with the most conservative segments of the Brazilian society. As his campaign gains momentum in 2018, it rallies a wide range of sectors from the right, forging a rather paradoxical project, grounded by the opposition to the Brazilian political and intellectual establishment. 
 

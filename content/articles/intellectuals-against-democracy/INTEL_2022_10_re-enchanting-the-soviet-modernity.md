@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155983
-Zid: 1155983
+
 abstract: >-
   Intellectuals against liberal democracy. Academia, media, and culture, Paris
   IAS, 2-3 June 2022 - Panel 2 - Illiberal intellectuals figures
@@ -31,6 +30,7 @@ subissue: false
 yt: C11qgbuGMZ8
 
 ---
+
 
 In the 1970s, the Western sociological theses on the post-industrial _end of ideology_, which assumed that technological development would lead the Soviet Union and the West to become alike, was a major concern for conservative Soviet intellectuals. While the Marxist-Leninist ideology was increasingly losing mobilization power and grasp with social reality, various conservative intellectuals sought to _re-enchant_ the Soviet modernity through the _spiritualization of technology_.
 

@@ -1,16 +1,21 @@
 ---
-DOI: 10.5072/zenodo.1114997
-Zid: 1114997
+DOI: 10.5072/zenodo.1201144
+Zid: 1201144
 abstract: |
   Evaluation of Social Sciences and Humanities in Europe.
   Hcéres Colloquium Proceedings - Paris IAS,  16-17 May 2022.
   Session 2 "Multilingualism" - Specific impact of Multilingual Publications
 article_title: Towards an epistemic foundation of multilingualism in Humanities
 authors:
-  - firstname: 'Andrea'
+  - firstname: Andrea
     lastname: Bonaccorsi
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Scientific Committee of COST
+        positions: []
+      - institution: University of Pisa, Italy
+        positions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -22,11 +27,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: Scientific Committee of COST
-        positions: []
-      - institution: University of Pisa, Italy
-        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2022-05-16T12:30:14.000Z
@@ -43,6 +43,8 @@ published: true
 yt: ''
 
 ---
+
+
 Within the current debate on the evaluation of research in Social Sciences and Humanities (SSH) a recent discussion has been opened on the need for using multiple languages.
 
 The argument is that SSH use different communication channels than STEM disciplines. While researchers in STEM almost exclusively use international, peer-reviewed scientific journals in English language, scholars in SSH publish books in national languages. In addition, scholars in SSH need to interact more closely with local audiences that do not necessarily understand English language.

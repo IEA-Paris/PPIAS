@@ -96,7 +96,7 @@ export default function (moduleOptions) {
     console.log('routesToPrint: ', routesToPrint)
 
     url = 'http://127.0.0.1:3000'
-    if (routesToPrint?.pdf.length || routesToPrint?.thumbnails.length) {
+    if (routesToPrint?.pdfs?.length || routesToPrint?.thumbnails?.length) {
       await generateFiles(
         routesToPrint,
         {
@@ -184,19 +184,17 @@ export default function (moduleOptions) {
     )
     if (articles?.length) {
       // insert issue index
-      console.log('articles 1: ', articles.length)
       articles = articles.map((article) =>
         insertIssueData(article, options.filters)
       )
 
       // make an array of routes to print
       routesToPrint = makePrintRoutes(articles, options)
-      console.log('articles 1.5: ', articles.length)
+
       // Upsert on Zenodo/OpenAire & get DOI is none is available
       articles = await upsertOnZenodo(articles, options, zenodoQueue)
-      console.log('articles 2: ', articles.length)
+
       updateArticlesDoiAndZid(articles)
-      console.log('articles 3: ', articles.length)
     }
     return true
   })

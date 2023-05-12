@@ -1,6 +1,6 @@
 export default async (articles, options, queue) => {
   try {
-    const fs = require('fs/promises')
+    const fs = require('fs')
     const path = require('path')
     const Zenodo = require('../../../utils/ZenodoConnector')
     const zenodo = await new Zenodo({
@@ -26,11 +26,17 @@ export default async (articles, options, queue) => {
         process.env.NODE_ENV !== 'production' ? 'static/pdfs' : 'pdfs',
         `${document.slug}.pdf`
       )
+      console.log('resolvedPath: ', resolvedPath)
       try {
         // check if the file exists
-        document.fileBuffer = (await fs.access(resolvedPath))
-          ? await fs.readFile(resolvedPath)
-          : false
+        if (fs.existsSync(resolvedPath)) {
+          /*          console.log('it exist (links): ', document.links)
+          console.log('it exist (todo): ', document.todo) */
+          document.fileBuffer = fs.readFileSync(resolvedPath)
+        } else {
+          console.log('it DOES NOT exist: ', document.slug)
+          document.fileBuffer = false
+        }
         if (document.fileBuffer && document.links.bucket) {
           console.log(`deposition created on Zenodo for ${document.slug}`)
           await zenodo.files.upload({
@@ -52,7 +58,14 @@ export default async (articles, options, queue) => {
 
     const result = await Promise.all(
       articles
-        .filter((article) => article.published && article.todo.publishOnZenodo)
+        .map((article) => {
+          if (article.todo.publishOnZenodo)
+            console.log(
+              'article.published && article.todo.publishOnZenodo',
+              article.todo.publishOnZenodo
+            )
+          return article
+        })
         .map(
           async (document) =>
             await queue.add(async () => {
@@ -61,8 +74,10 @@ export default async (articles, options, queue) => {
                   'uploading and publishing on Zenodo ',
                   document.slug
                 )
-                document = await uploadArticleFileOnZenodo(document)
-                document = await publishArticleOnZenodo(document)
+                if (document.published) {
+                  document = await uploadArticleFileOnZenodo(document)
+                  document = await publishArticleOnZenodo(document)
+                }
                 return document
               } catch (error) {
                 console.log(

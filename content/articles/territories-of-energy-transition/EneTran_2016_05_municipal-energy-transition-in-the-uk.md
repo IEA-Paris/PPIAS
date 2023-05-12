@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156013
-Zid: 1156013
+
 abstract: >-
   Les territoires de la transition énergétique : Allemagne, France, Royaume-Uni.
   IEA de Paris, 23 mai 2016 - Session 2 - Royaume-Uni
@@ -27,6 +26,7 @@ subissue: false
 yt: 90EvhD7ou4E
 
 ---
+
 
 2015 saw the development of a new trend in the UK, of ‘energy municipalisation’, with the entry of five local authorities into the electricity supply market. These are the first of their kind in the UK since 1948, when around 400 local and municipal energy companies were abolished by the post-war nationalisation of the industry. 
 

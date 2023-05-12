@@ -1,15 +1,14 @@
 ---
-DOI: 10.5072/zenodo.1155953
-Zid: 1155953
+
 abstract: Justice and Climate Transitions, Paris IAS,  24-25 September 2015 - Program
 article_title: Justice and Climate Transitions - Program
 authors:
   - firstname: ''
+    is_institution: true
     lastname: University of New South Wales, Sydney, Australia
-    is_institution: true
   - firstname: ''
-    lastname: Institut d'études avancées de Paris, France
     is_institution: true
+    lastname: Institut d'études avancées de Paris, France
 date: 2015-09-23T23:00:00.000Z
 highlight: false
 issue: content/issues/justice-climate-transitions.md
@@ -21,6 +20,7 @@ subissue: false
 yt: false
 
 ---
+
 
 In the lead up to the 2015 UN Paris Climate Conference the Paris Institute for Advanced Studies will hold an interdisciplinary conference on “Justice and Climate Transitions” organised with the University of New South Wales, Sydney, Australia. The conference will bring together leading thinkers from philosophy, policy and the social sciences to examine the moral, social and political issues at stake in the transition to a low carbon society. Panellists are invited to discuss how we might interpret and evaluate different transition pathways and low-carbon futures in terms of social justice. The aim is to present both philosophical and critical social scientific perspectives on these questions before bringing these into dialogue with each other.
 

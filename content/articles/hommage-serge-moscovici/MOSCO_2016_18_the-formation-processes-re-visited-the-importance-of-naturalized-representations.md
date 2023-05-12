@@ -1,53 +1,54 @@
 ---
-DOI: 10.5072/zenodo.1155937
-Zid: 1155937
+
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 5
-article_title: The Formation Processes re-visited – the Importance of Naturalized
+article_title: >-
+  The Formation Processes re-visited – the Importance of Naturalized
   Representations
 authors:
-- firstname: 'Inari '
-  is_institution: false
-  lastname: Sakki
-  positions_and_institutions:
-  - institution: University of Helsinki, Finland
-    positions:
-    - ''
-  social_channels:
-    researchgate: https://www.researchgate.net/profile/Inari-Sakki
-- firstname: 'Rusten '
-  lastname: Menard
-  positions_and_institutions:
-  - institution: University of Helsinki, Finland
-  social_channels:
-    google_scholar: https://scholar.google.fi/citations?user=ZcKm-ZsAAAAJ&hl=en
-    researchgate: https://www.researchgate.net/profile/Rusten-Menard
-    linkedin: https://uk.linkedin.com/in/rusten-menard-abb22662
-- firstname: Eemeli
-  lastname: Hakoköngäs
-  positions_and_institutions:
-  - institution: University of Helsinki, Finland
-  social_channels:
-    google_scholar: https://scholar.google.com/citations?user=lGMpSfEAAAAJ&hl=en
-    researchgate: https://www.researchgate.net/profile/Eemeli-Hakokoengaes
-    linkedin: https://fi.linkedin.com/in/eemeli-hakok%C3%B6ng%C3%A4s-72520424b
-    orcid: 0000-0002-4828-2276
-date: 2016-11-18T02:00:00.000+00:00
+  - firstname: 'Inari '
+    is_institution: false
+    lastname: Sakki
+    positions_and_institutions:
+      - institution: University of Helsinki, Finland
+        positions:
+          - ''
+    social_channels:
+      researchgate: https://www.researchgate.net/profile/Inari-Sakki
+  - firstname: 'Rusten '
+    lastname: Menard
+    positions_and_institutions:
+      - institution: University of Helsinki, Finland
+    social_channels:
+      google_scholar: https://scholar.google.fi/citations?user=ZcKm-ZsAAAAJ&hl=en
+      linkedin: https://uk.linkedin.com/in/rusten-menard-abb22662
+      researchgate: https://www.researchgate.net/profile/Rusten-Menard
+  - firstname: Eemeli
+    lastname: Hakoköngäs
+    positions_and_institutions:
+      - institution: University of Helsinki, Finland
+    social_channels:
+      google_scholar: https://scholar.google.com/citations?user=lGMpSfEAAAAJ&hl=en
+      linkedin: https://fi.linkedin.com/in/eemeli-hakok%C3%B6ng%C3%A4s-72520424b
+      orcid: 0000-0002-4828-2276
+      researchgate: https://www.researchgate.net/profile/Eemeli-Hakokoengaes
+date: 2016-11-18T02:00:00.000Z
 highlight: false
 issue: content/issues/hommage-serge-moscovici.md
+keywords:
+  - social  representations
+  - anchoring
+  - objectification
+  - naturalization
+  - social  representations  of history
+  - collective memory
+language: English
 needDOI: false
 published: true
 subissue: false
 yt: 4d9QHfDAnEA
-language: English
-keywords:
-- social  representations
-- anchoring
-- objectification
-- naturalization
-- social  representations  of history
-- collective memory
 
 ---
+
 In this paper, we would like to revisit and problematize the formation processes of social representations – and underline the importance of analysing naturalized social representations. In SRT, representation formation has been treated as something that happens primarily in the beginning, and researchers have been encouraged to study processes of social representations as they are emerging for the first time. Treating representation in this manner gives the impression that representations are conceptualised as having a clear and definite beginning, marked by their anchoring into old and familiar structures. We argue that representations are still important in their naturalised state although the formative processes take different forms. The process of naturalisation describes representation as a tool to categorise on a more general level. They continue to process and to be processed, continue to categorise and be categorised; and they also continue to negotiate, be negotiated, transform, and be transformed. As they become less what is talked about and more what is used to enable everyday discourse, they are still transforming. The re-conceptualisation of formation processes is necessary for the SRT to be better equipped to provide a dynamic approach for such phenomena as ‘social representations of history’ and ‘collective memory’ – the field that has become one of the most vibrant areas of research in SRT in the recent years.
 
 <Youtube yt="4d9QHfDAnEA" caption="The formation processes re-visited the importance of naturalized representations"></Youtube>

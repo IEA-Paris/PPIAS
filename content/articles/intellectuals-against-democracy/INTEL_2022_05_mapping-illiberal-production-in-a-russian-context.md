@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155967
-Zid: 1155967
+
 abstract: >-
   Intellectuals against liberal democracy. Academia, media, and culture, Paris
   IAS, 2-3 June 2022 - Panel 1 - The formation and circulation of illiberal
@@ -33,6 +32,7 @@ subissue: false
 yt: 3QIJi_HdMaM
 
 ---
+
 
 Marlene Laruelle explores the production of illiberal discourses in the Russian context, looking at both top down and bottom up dynamics. She focuses on the issue of continuum between radical fringes and state-promoted mainstream conservatism and how 'illiberalism' in Russia is not specifically original in its doctrinal content but has succeeded in conflating a value agenda with a geopolitical one, merging the "West" as a geopolitical enemy and "liberalism" as a philosophical enemy.
 

@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 2. Crise economique - Inegalites
+  - 2- Crise economique - Inegalites
 exerpt: ''
 firstname: Frédéric
 is_institution: false

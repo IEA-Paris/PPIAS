@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156015
-Zid: 1156015
+
 abstract: >-
   Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 6 - In Search of Lost
   Sleep
@@ -26,6 +25,7 @@ subissue: false
 yt: WI6MNwrZkgg
 
 ---
+
 
 Sleep is essential for an efficient cognitive functioning. Recent evidence also suggest that poor sleep quality may increase the risk of cognitive decline and Alzheimer’s disease (AD), notably by exacerbating amyloid deposition.  
 But, sleep quality may also have an impact on brain structure and function.

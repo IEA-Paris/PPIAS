@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1155811
-Zid: 1155811
+DOI: 10.5072/zenodo.1201200
+Zid: 1201200
 abstract: >-
   Assessing Territorial Resilience: Indicators and Tools for Governance, Paris
   IAS, July 15-17 2020 - Session 1
@@ -37,5 +37,7 @@ subissue: false
 yt: Hq5Yhz3Nxz4
 
 ---
+
+
 
 <Youtube yt="Hq5Yhz3Nxz4" caption="Le Resilience Assessment Framework, un outil de diagnostic"></Youtube>

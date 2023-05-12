@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156023
-Zid: 1156023
+
 abstract: >-
   Sleep and Memory. Paris IAS, 6-7 June 2019 - Session 6 - In Search of Lost
   Sleep
@@ -28,6 +27,7 @@ subissue: false
 yt: wQOwuMsEq0o
 
 ---
+
 
 Insomnia is the second-most prevalent mental disorder and the primary modifiable risk factor for depression, anxiety disorders and PTSD (@blanken_introducing_2019). In search of brain mechanisms, circadian and a homeostatic processes seem surprisingly intact. The hyperalert insomniac brain differs strongly from the hardly awake sleep-deprived brain (@wei_i_2016, @stoffers_caudate_2014). Big data psychometrics ([sleepregistry.org](https://sleepregistry.org/)) showed different insomnia types, all involving distributed deviations in brain circuits underlying stable characteristics of affect (@blanken_insomnia_2019). 
 

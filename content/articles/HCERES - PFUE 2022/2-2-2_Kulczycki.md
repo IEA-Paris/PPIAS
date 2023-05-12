@@ -1,17 +1,20 @@
 ---
-DOI: 10.5072/zenodo.1115005
-Zid: 1115005
+DOI: 10.5072/zenodo.1201160
+Zid: 1201160
 abstract: |-
   Evaluation of Social Sciences and Humanities in Europe.
    Hcéres Colloquium Proceedings - Paris IAS,  16-17 May 2022.
   Session 2 "Multilingualism" - The Evaluation of Multilingual Publications
 article_title: Good quality research can be published in all languages
 authors:
-  - firstname: 'Emanuel'
+  - firstname: Emanuel
     is_institution: false
     lastname: Kulczycki
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Adam Mickiewicz University in Poznan, Poland
+        positions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -23,9 +26,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: Adam Mickiewicz University in Poznan, Poland
-        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2022-05-16T14:00:03.000Z
@@ -40,7 +40,10 @@ picture: ''
 picture_copyright: ''
 published: true
 yt: ''
+
 ---
+
+
 **Multilingual publishing is not “publishing in a different language by default: than English”. I believe “wording” is essential. Multilingual publishing is publishing and communicating in all languages and not in a different language than English.**
 
 We must remember that almost half of the Europeans are not able to speak any foreign language well enough to hold a conversation. Only a little more than one-third are able to do so in English (the most widely spoken foreign language). Thus, if research is communicated exclusively in English, it is inherently limited.

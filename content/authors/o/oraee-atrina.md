@@ -18,7 +18,6 @@ positions_and_institutions:
       - co-founder
   - institution: McGill University
     positions:
-      - Warrior
       - writer
   - institution: IAS PARIS
     positions:

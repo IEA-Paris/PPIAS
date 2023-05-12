@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156109
-Zid: 1156109
+
 abstract: >-
   The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
   10-12 May 2017 - Session 1 - Heart of Darkness: Ordinary and Extraordinary
@@ -29,6 +28,7 @@ subissue: 3rd Conference on Syndrome E
 yt: c9xH7OXiv6s
 
 ---
+
 
 Stereotyping dehumanizes others and provides a potential pathway to violence when people are frustrated. Stereotypes vary in content and neural correlates, but systematic patterns emerge across cultures. The first dimension reflects perceived intent—warm and trustworthy (or not)—as when the sentry cries, “Friend or foe?” The second dimension, competence, reflects ability to enact the benign or malign intent.
 

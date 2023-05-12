@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155985
-Zid: 1155985
+
 abstract: >-
   Intellectuals against liberal democracy. Academia, media, and culture, Paris
   IAS, 2-3 June 2022 - Table-ronde
@@ -55,6 +54,7 @@ subissue: false
 yt: hCV9Hl37k2M
 
 ---
+
 
 Table-ronde en français avec la participation de Béatrice Hibou (CNRS, Sciences Po, CERI), Marlène Laruelle (George Washington University), Nicolas Lebourg (Université de Montpellier)
 

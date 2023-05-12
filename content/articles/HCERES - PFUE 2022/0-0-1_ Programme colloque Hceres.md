@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1115750
-Zid: 1115750
+
 abstract: >-
   Evaluation of Social Sciences and Humanities in Europe.
 
@@ -16,6 +15,7 @@ authors:
     lastname: HCÉRES
     picture: ''
     picture_copyright: ''
+    positions_and_institutions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -27,12 +27,12 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions: []
   - firstname: ''
     is_institution: true
     lastname: Institut d'études avancées de Paris, France
     picture: ''
     picture_copyright: ''
+    positions_and_institutions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -44,7 +44,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions: []
 bibliography: ''
 custom_pdf: ''
 date: 2022-05-16T05:35:09.000Z
@@ -61,6 +60,7 @@ published: true
 yt: ''
 
 ---
+
 
 
 Dans le cadre de la Présidence Française de l’Union Européenne 2022 (PFUE), le Haut Conseil de l’évaluation de la recherche et de l’enseignement supérieur (Hcéres)  a organisé les 16 et 17 mai 2022 un colloque au sujet de l’**Évaluation des Sciences humaines et sociales en Europe**.

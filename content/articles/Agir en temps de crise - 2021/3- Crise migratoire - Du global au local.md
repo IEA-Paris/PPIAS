@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1115738
-Zid: 1115738
+DOI: 10.5072/zenodo.1201090
+Zid: 1201090
 abstract: >-
   Du global au local, quelles politiques migratoires ? : rencontre du cycle
   "Agir en temps de crise - Les grandes crises contemporaines" organisée et
@@ -8,11 +8,14 @@ abstract: >-
   Lahlou, directeur de l’IEA de Paris.
 article_title: Crise migratoire - Du global au local, quelles politiques migratoires ?
 authors:
-  - firstname: 'François'
+  - firstname: François
     is_institution: false
     lastname: Héran
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Chaire Migrations et sociétés - Collège de France, France
+        positions: []
     social_channels:
       google_scholar: ''
       instagram: ''
@@ -23,14 +26,16 @@ authors:
       twitter: ''
       website: ''
       wikipedia: https://fr.wikipedia.org/wiki/Fran%C3%A7ois_H%C3%A9ran
-    positions_and_institutions:
-      - institution: Chaire Migrations et sociétés - Collège de France, France
-        positions: []
-  - firstname: 'Didier'
+  - firstname: Didier
     is_institution: false
     lastname: Leschi
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Office français de l'immigration et de l'intégration, France
+        positions: []
+      - institution: Institut européen en sciences des religions, France
+        positions: []
     social_channels:
       google_scholar: ''
       instagram: ''
@@ -41,16 +46,14 @@ authors:
       twitter: ''
       website: ''
       wikipedia: https://fr.wikipedia.org/wiki/Didier_Leschi
-    positions_and_institutions:
-      - institution: Office français de l'immigration et de l'intégration, France
-        positions: []
-      - institution: Institut européen en sciences des religions, France
-        positions: []
-  - firstname: 'Fabienne'
+  - firstname: Fabienne
     is_institution: false
-    lastname: 'Lassalle'
+    lastname: Lassalle
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: SOS Méditerranée, France
+        positions: []
     social_channels:
       google_scholar: ''
       instagram: ''
@@ -61,14 +64,14 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: SOS Méditerranée, France
-        positions: []
-  - firstname: 'Séverine'
+  - firstname: Séverine
     is_institution: false
     lastname: Mathieu
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: EPHE-PSL, France
+        positions: []
     social_channels:
       google_scholar: ''
       instagram: ''
@@ -79,14 +82,14 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: EPHE-PSL, France
-        positions: []
   - firstname: Saadi
     is_institution: false
     lastname: Lahlou
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Institut d'études avancées de Paris, France
+        positions: []
     social_channels:
       google_scholar: ''
       instagram: ''
@@ -97,9 +100,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: Institut d'études avancées de Paris, France
-        positions: []
 bibliography: ''
 custom_pdf: ''
 date: 2021-03-04T17:00:07.000Z
@@ -117,6 +117,8 @@ sub-issue: Les Grandes Crises Contemporaines
 yt: MCqQfLqpYb4
 
 ---
+
+
 
 La 3ème rencontre du cycle "Agir en temps de crise"  s’intéresse aux politiques migratoires et en particulier aux impacts du changement climatique sur les déplacements de population, l'intégration dans les pays d’accueil et concentration géographique des arrivants, les difficultés de mise en place de l’apprentissage des langues.
 

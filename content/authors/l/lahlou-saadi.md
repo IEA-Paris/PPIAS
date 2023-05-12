@@ -1,20 +1,6 @@
 ---
 active: true
 articles:
-  - >-
-    Our_Microbial_Lives - 4. 1999  la France dans la tempete - 1. Crise
-    sanitaire - Covid19 - 3. Crise migratoire - Du global au local - 2. Crise
-    economique - Inegalites - 4. Histoire des pandemies - 1.0.0 Lahlou Intro
-    session Livres - Memorandum_01 - 0.1_WPRN21_Welcome Conference -
-    9.0_WPRN21_Closing Panel - RES_2020_02_Opening - PROP_2020_02_introduction -
-    RES_2020_12_conclusion-et-cloture - MOSCO_2016_02_welcome -
-    MOSCO_2016_23_future-issues-the-analysis-of-behaviour
-  - 4. 1999  la France dans la tempete
-  - 1. Crise sanitaire - Covid19
-  - 2. Crise economique - Inegalites
-  - 3. Crise migratoire - Du global au local
-  - 4. Histoire des pandemies
-  - 1.0.0 Lahlou Intro session Livres
   - Our_Microbial_Lives
   - Memorandum_01
   - 0.1_WPRN21_Welcome Conference
@@ -24,6 +10,14 @@ articles:
   - PROP_2020_02_introduction
   - MOSCO_2016_02_welcome
   - MOSCO_2016_23_future-issues-the-analysis-of-behaviour
+  - 4- 1999  la France dans la tempete
+  - 1- Crise sanitaire - Covid19
+  - 2- Crise economique - Inegalites
+  - 3- Crise migratoire - Du global au local
+  - 4- Histoire des pandemies
+  - 1-0-0 Lahlou Intro session Livres
+  - 0-1_WPRN21_Welcome Conference
+  - 9-0_WPRN21_Closing Panel
 categories:
   - content/categories/WPRN21.md
   - content/categories/Fellows.md

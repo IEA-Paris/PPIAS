@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1114981
-Zid: 1114981
+
 abstract: |-
 
   Evaluation of Social Sciences and Humanities in Europe.
@@ -12,6 +11,11 @@ authors:
     lastname: Sivertsen
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: >-
+          Nordic Inst. for Studies in Innovation, Research and Education (NIFU),
+          Norway
+        positions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -23,11 +27,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: >-
-          Nordic Inst. for Studies in Innovation, Research and Education (NIFU),
-          Norway
-        positions: []
 bibliography: /documents-exportes_113.bib
 custom_pdf: ''
 date: 2022-05-16T09:40:04.000Z
@@ -42,7 +41,9 @@ picture: ''
 picture_copyright: ''
 published: true
 yt: ''
+
 ---
+
 Books have several important functions in the social sciences and humanities. Monographs and edited books allow for _presenting original research_ based on methodologies or forms of collaboration that the format of the journal article does not serve as appropriately. Books are also used to _engage directly with society_, both for professional communication with specific audiences and for enlightenment and discussions in interaction with more general audiences.
 
 I will start by describing the different genres of book publishing in the SSH in more detail and then return to the possible problems with classifications and criteria that may arise whenever the authors of books in the SSH are exposed to research assessment.

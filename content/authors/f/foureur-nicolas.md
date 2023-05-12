@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 1. Crise sanitaire - Covid19
+  - 1- Crise sanitaire - Covid19
 exerpt: ''
 firstname: Nicolas
 is_institution: false

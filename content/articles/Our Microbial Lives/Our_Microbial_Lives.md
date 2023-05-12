@@ -1,15 +1,18 @@
 ---
-DOI: 10.5072/zenodo.1115033
-Zid: 1115033
+
 abstract: >-
   Introduction du forum "Our Microbial Lives: A Forum Against Eradication",  May
   27, 2021, Paris Institute for Advanced Study
 article_title: 'Our Microbial Lives : A Forum Against Eradication'
 authors:
-  - firstname: 'Victoria'
+  - firstname: Victoria
     lastname: Lee
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Ohio University - College of Arts and Sciences
+        positions:
+          - Assistant Professor
     reference: ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=P13ZUHQAAAAJ&hl=en
@@ -21,10 +24,6 @@ authors:
       twitter: https://twitter.com/microbehistory
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: Ohio University - College of Arts and Sciences
-        positions:
-          - Assistant Professor
   - firstname: Saadi
     lastname: Lahlou
 bibliography: /bibliography/anystyle.bib
@@ -50,6 +49,7 @@ tag:
 yt: ''
 
 ---
+
 
 
 ## "Our Microbial Lives: A Forum Against Eradication", May 27, 2021, Paris Institute for Advanced Study

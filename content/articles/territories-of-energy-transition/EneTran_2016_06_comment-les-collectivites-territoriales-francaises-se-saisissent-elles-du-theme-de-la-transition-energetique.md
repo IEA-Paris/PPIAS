@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156011
-Zid: 1156011
+
 abstract: >-
   Les territoires de la transition énergétique : Allemagne, France, Royaume-Uni.
   IEA de Paris, 23 mai 2016 - Session 3 - France
@@ -31,6 +30,7 @@ subissue: false
 yt: 91gKgLPtFno
 
 ---
+
 
 L'importance du secteur de l'énergie dans l'économie et l'aménagement du territoire donne à ceux qui le maîtrisent des leviers politiques considérables qui touchent à de nombreux domaines. En France, il est dominé par l'action de l'Etat depuis la Seconde guerre mondiale. Néanmoins, l'intégration européenne, la décentralisation et les contraintes énergétiques et climatiques exercent de nouvelles contraintes sur ce système, qui constituent autant d'opportunités pour les collectivités territoriales. Certaines s'en saisissent, avec un potentiel de transformation considérable. Nous analyserons les conditions de ces transformations, les formes qu'elles prennent et tâcherons d'offrir des perspectives sur leurs conséquences.
 

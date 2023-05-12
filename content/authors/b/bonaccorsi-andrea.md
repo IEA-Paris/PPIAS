@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 2.1.1_Bonaccorsi
+  - 2-1-1_Bonaccorsi
 exerpt: ''
 firstname: Andrea
 issue:

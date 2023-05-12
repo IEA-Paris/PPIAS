@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1115027
-Zid: 1115027
+
 abstract: >-
   Table-ronde 2 du forum "Our Microbial Lives: A Forum Against Eradication", 
   May 27, 2021, Paris Institute for Advanced Study
@@ -12,6 +11,9 @@ authors:
     lastname: Tancoigne
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Université de Lausanne, Suisse
+        positions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -23,13 +25,13 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: Université de Lausanne, Suisse
-        positions: []
-  - firstname: 'Sabine'
+  - firstname: Sabine
     lastname: Boesen Mariani
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Danone Nutricia Utrecht, Netherlands
+        positions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -41,13 +43,13 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: Danone Nutricia Utrecht, Netherlands
-        positions: []
-  - firstname: 'Jeanne'
+  - firstname: Jeanne
     lastname: Ropars
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Laboratoire ESE, Université Paris-Saclay, France
+        positions: []
     reference: ''
     social_channels:
       google_scholar: https://scholar.google.fr/citations?user=FuLX2sUAAAAJ&hl=fr
@@ -59,13 +61,13 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: Laboratoire ESE, Université Paris-Saclay, France
-        positions: []
-  - firstname: 'Geneviève'
+  - firstname: Geneviève
     lastname: Teil
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: INRA, France
+        positions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -77,9 +79,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: INRA, France
-        positions: []
 bibliography: /bibliography/documents-exportes_tb2_lee.bib
 date: 2021-05-27T11:00:08.000Z
 highlight: false
@@ -96,6 +95,7 @@ published: true
 yt: 87MEaKh26g0
 
 ---
+
 
 
 ## Table ronde 2 du forum "Our Microbial Lives"

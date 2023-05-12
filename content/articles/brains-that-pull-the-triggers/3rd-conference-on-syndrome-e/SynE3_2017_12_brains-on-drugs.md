@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156103
-Zid: 1156103
+
 abstract: >-
   The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
   10-12 May 2017 - Session 5 - Brains that Pull the Triggers: Under the
@@ -29,5 +28,6 @@ subissue: 3rd Conference on Syndrome E
 yt: gciCTabK0_E
 
 ---
+
 
 <Youtube yt="gciCTabK0_E" caption="Brains on Drugs: Lessons from the Third Reich"></Youtube>

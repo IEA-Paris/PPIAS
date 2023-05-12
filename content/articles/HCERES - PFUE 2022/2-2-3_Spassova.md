@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1115007
-Zid: 1115007
+DOI: 10.5072/zenodo.1201158
+Zid: 1201158
 abstract: |-
   Evaluation of Social Sciences and Humanities in Europe. 
    Hcéres Colloquium Proceedings - Paris IAS, 16-17 May 2022. Session 2 "Multilingualism" - Evaluation of Multilingual Publications
@@ -8,11 +8,14 @@ article_title: >-
   Does Mother Tongue vs. Multilingualism in SSH Scientific Research and
   Evaluation? The Bulgarian (Cyrillic) Case
 authors:
-  - firstname: 'Joanna'
+  - firstname: Joanna
     is_institution: false
     lastname: Spassova-Dikova
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Institute of Art Studies, Bulgarian Academy of Sciences, Bulgaria
+        positions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -24,9 +27,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: Institute of Art Studies, Bulgarian Academy of Sciences, Bulgaria
-        positions: []
 bibliography: /documents-exportes_223.bib
 custom_pdf: ''
 date: 2022-05-16T14:00:04.000Z
@@ -43,6 +43,8 @@ published: true
 yt: ''
 
 ---
+
+
 ## Introduction
 
 Today, in a time of crisis of cultural values, when we are not talking about culture, but about cultural industries, we are not talking about creativity, but about innovations and patents, we are not talking about benefits, but about impact, holding such a discussion on evaluation of social sciences and humanities (SSH) is very important. Especially the problem of mother tongue vs. multilingualism I find quite debatable.

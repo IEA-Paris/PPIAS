@@ -1,15 +1,18 @@
 ---
-DOI: 10.5072/zenodo.1115146
-Zid: 1115146
+DOI: 10.5072/zenodo.1201196
+Zid: 1201196
 abstract: >-
   WPRN21 Conference - Paris IAS, 9-10 December 2021. Keynote by Ted
   Loch-Temzelides 
 article_title: COVID‑19 and the Value of Safe Transport in the United States
 authors:
-  - firstname: 'Ted'
+  - firstname: Ted
     lastname: Loch-Temzelides
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: Rice University and The Baker Institute, USA
+        positions: []
     reference: ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=r76P0PcAAAAJ&hl=en
@@ -21,9 +24,6 @@ authors:
       twitter: https://twitter.com/tedloch?lang=fr
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: Rice University and The Baker Institute, USA
-        positions: []
 bibliography: /bibliography/documents-exportes_keynote3.bib
 date: 2021-12-09T15:00:25.000Z
 doi: '169059797'
@@ -43,6 +43,8 @@ published: true
 yt: pIFgorYnIlM
 
 ---
+
+
 
 
 Keynote presentation by Ted Loch-Temzelides during the WPRN21 conference in Paris on December 9th 2021

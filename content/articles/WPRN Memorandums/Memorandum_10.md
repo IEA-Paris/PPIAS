@@ -1,59 +1,76 @@
 ---
-issue: content/issues/WPRN Memorandums.md
-keywords:
-- Agriculture, Alimentation
-- " Environmental change, Ecology"
-- 'Human Behaviours, Social Relations '
-- Public Discourse, Rhetorics, Communication
-- Public Policy, Evaluation, Impact
-- Cities, Mobility, Urban Planning
-- " Consumption and Production Patterns"
-- " Democracy, Civil Society, Governance"
-- " Firms, Markets, Finance"
-- " Equality & Diversity Studies"
-- 'Public Health '
-- 'Risks, Crisis Management '
-- Migrations and Diasporas
-- " Work, Welfare, Social protection"
-- Inequalities, Poverty, Development
-date: 2021-01-03T09:15:10.000+00:00
-language: English
-doi: "169059797"
-disciplines: ''
-published: true
+
+abstract: >-
+  The image of empty supermarket shelves is one of those that will remain from
+  the announcement of the first lockdown. The Europeans practiced the
+  «Hamsterkauf» as dubbed by the German speakers: they stocked up like hamsters.
+  This rush on food supplies, especially rice and pasta, shows that the first
+  worry was not the disease but the risk of running out of food: a striking
+  phenomenon in affluent societies. During lockdowns, food stores were tagged
+  «essential.» Food’s centrality returned to the forefront: one could no longer
+  delegate its management or forget its role (as is often the case in the West
+  because of its easy access and urban lifestyles). The primary functions of
+  food were exacerbated: setting the rhythm of a daily time that stretched to
+  infinity, regulating emotions, being at the center of constrained social
+  interactions, and anxieties about the risk of food insecurity. On the World
+  Pandemic Research Network database, various studies dug into how the pandemic
+  has shaken our relationship with food.
+
+  Memorandum 10 : overview of the studies and projects registered on WPRN
+  database
+
+  This article was originally published in French.
 article_title: 'COVID-19 and Food: Food Security: A Major Concern for Households'
 authors:
-- firstname: Aurélie
-  lastname: 'Louchart'
-  positions_and_institutions:
-  - positions: []
-    institution: Paris Institute for Advanced Study, France
-  picture: ''
-  picture_copyright: ''
-  social_channels:
-    website: ''
-    wikipedia: ''
-    orcid: ''
-    linkedin: ''
-    twitter: ''
-    instagram: ''
-    google_scholar: ''
-    researchgate: ''
-    mendeley: ''
-  reference: ''
-custom_pdf: ''
-abstract: |-
-  The image of empty supermarket shelves is one of those that will remain from the announcement of the first lockdown. The Europeans practiced the «Hamsterkauf» as dubbed by the German speakers: they stocked up like hamsters. This rush on food supplies, especially rice and pasta, shows that the first worry was not the disease but the risk of running out of food: a striking phenomenon in affluent societies. During lockdowns, food stores were tagged «essential.» Food’s centrality returned to the forefront: one could no longer delegate its management or forget its role (as is often the case in the West because of its easy access and urban lifestyles). The primary functions of food were exacerbated: setting the rhythm of a daily time that stretched to infinity, regulating emotions, being at the center of constrained social interactions, and anxieties about the risk of food insecurity. On the World Pandemic Research Network database, various studies dug into how the pandemic has shaken our relationship with food.
-  Memorandum 10 : overview of the studies and projects registered on WPRN database
-  This article was originally published in French.
-picture: "/covid19-food.jpeg"
-picture_copyright: ''
-yt: ''
-highlight: false
+  - firstname: Aurélie
+    lastname: Louchart
+    picture: ''
+    picture_copyright: ''
+    positions_and_institutions:
+      - institution: Paris Institute for Advanced Study, France
+        positions: []
+    reference: ''
+    social_channels:
+      google_scholar: ''
+      instagram: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      twitter: ''
+      website: ''
+      wikipedia: ''
 bibliography: ''
-DOI: 10.5072/zenodo.1115134
-Zid: 1115134
+custom_pdf: ''
+date: 2021-01-03T09:15:10.000Z
+disciplines: ''
+doi: '169059797'
+highlight: false
+issue: content/issues/WPRN Memorandums.md
+keywords:
+  - Agriculture, Alimentation
+  - ' Environmental change, Ecology'
+  - 'Human Behaviours, Social Relations '
+  - Public Discourse, Rhetorics, Communication
+  - Public Policy, Evaluation, Impact
+  - Cities, Mobility, Urban Planning
+  - ' Consumption and Production Patterns'
+  - ' Democracy, Civil Society, Governance'
+  - ' Firms, Markets, Finance'
+  - ' Equality & Diversity Studies'
+  - 'Public Health '
+  - 'Risks, Crisis Management '
+  - Migrations and Diasporas
+  - ' Work, Welfare, Social protection'
+  - Inequalities, Poverty, Development
+language: English
+picture: /covid19-food.jpeg
+picture_copyright: ''
+published: true
+yt: ''
+
 ---
+
 ## All bakers?
 
 In France, baking at home, «making its own bread» in particular, has been a striking social fact resulting in a relative shortage of flour and yeast in shops during the first lockdown. According to [the CNRS survey “Manger au temps du coronavirus](https://wprn.org/item/419752)” listed on WPRN, it is surprising given the continued openness of bakeries and supermarkets, and it cannot be reduced to the goal of limiting social interaction during shopping. Beyond “the pleasure of the table” (fresh bread and pastries are emblematic), the researchers hypothesize that the lockdown triggered re-identification dynamics around gestures and products that are powerfully symbolic of cultural and social ties. Moreover, as Abdu Gnaba, author of [“Anthropologie des mangeurs de pain,”](https://www.editions-harmattan.fr/index.asp?navig=catalogue&obj=livre&no=33719) explains: «We are going through a crisis. Sanitary, that’s for sure, but also an identity crisis. We find ourselves cut off from the world and our habits from one day to the next. In our culture, bread is reassuring and stable. To lack bread is synonymous with terror (...) There is also a strong link between bread and autonomy. It is the first food that babies eat in perfect autonomy or the one that older children can buy alone. »

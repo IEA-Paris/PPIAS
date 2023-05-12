@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 2.0.0_intro_Colella
+  - 2-0-0_intro_Colella
 exerpt: ''
 firstname: Silvana
 issue:

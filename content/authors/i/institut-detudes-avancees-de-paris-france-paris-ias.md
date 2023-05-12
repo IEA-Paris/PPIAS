@@ -1,21 +1,17 @@
 ---
 active: true
 articles:
-  - >-
-    PROP_2020_01_crises-et-nouveaux-prophetes-programme - 0.0.1_ Programme
-    colloque Hceres - ALIM_2022_01_Programme -
-    MOSCO_2016_01_tribute-to-serge-moscovici-program
-  - 0.0.1_ Programme colloque Hceres
   - ALIM_2022_01_Programme
   - PROP_2020_01_crises-et-nouveaux-prophetes-programme
   - MOSCO_2016_01_tribute-to-serge-moscovici-program
-  - 0.0_WPRN21_Program
   - RES_2020_01_program
   - AVA_2018_01_program
   - INTEL_2022_01_Intellectuals against liberal democracy - Program
   - justice-and-climate-transitions_1_program
   - SLEEP_2019_01_Sleep and memory - Program
   - VIRT_2022_1_virtual-realities-real-experience-program
+  - 0-0-1_ Programme colloque Hceres
+  - 0-0_WPRN21_Program
 exerpt: ''
 firstname: Paris IAS
 is_institution: true

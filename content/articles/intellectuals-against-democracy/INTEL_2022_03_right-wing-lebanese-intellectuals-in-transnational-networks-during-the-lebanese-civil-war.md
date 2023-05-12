@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155969
-Zid: 1155969
+
 abstract: >-
   Intellectuals against liberal democracy. Academia, media, and culture, Paris
   IAS, 2-3 June 2022 - Panel 1 - The formation and circulation of illiberal
@@ -31,5 +30,6 @@ subissue: false
 yt: 3QIJi_HdMaM
 
 ---
+
 
 <Youtube yt="3QIJi_HdMaM" caption="Right-Wing Lebanese Intellectuals in Transnational Networks During the Lebanese Civil War" start="1962" stop="3004"></Youtube>

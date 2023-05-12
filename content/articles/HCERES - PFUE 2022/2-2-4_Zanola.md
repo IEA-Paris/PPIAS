@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1115009
-Zid: 1115009
+DOI: 10.5072/zenodo.1201162
+Zid: 1201162
 abstract: >-
   Evaluation of Social Sciences and Humanities in Europe. 
 
@@ -15,6 +15,13 @@ authors:
     lastname: Zanola
     picture: ''
     picture_copyright: ''
+    positions_and_institutions:
+      - institution: >-
+          Conseil Européen pour les Langues / European Language Council
+          (CEL/ELC), Austria
+        positions: []
+      - institution: Università Cattolica del Sacro Cuore, Italy
+        positions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -26,13 +33,6 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-    positions_and_institutions:
-      - institution: >-
-          Conseil Européen pour les Langues / European Language Council
-          (CEL/ELC), Austria
-        positions: []
-      - institution: Università Cattolica del Sacro Cuore, Italy
-        positions: []
 bibliography: /documents-exportes_224.bib
 custom_pdf: ''
 date: 2022-05-16T14:01:05.000Z
@@ -49,6 +49,8 @@ published: true
 yt: ''
 
 ---
+
+
 Le rôle de la langue – et le choix de la langue – est vital dans la création et le partage des connaissances (@levy-leblond_pierre_1996). Lorsque nous réfléchissons sur les missions de la recherche dans un monde linguistiquement diversifié et de plus en plus intégré, trois objectifs ressortent, à savoir la mobilité interinstitutionnelle des chercheur.euses, la diffusion de la recherche et l’inclusion culturelle, à savoir le développement d’un sentiment de connexion avec le lieu où une personne étudie ou enseigne, ainsi que les dimensions linguistiques et culturelles du lieu: les choix individuels, les pratiques disciplinaires et les dynamiques contextuelles doivent être reconnus en même temps. Nous nous proposons de mettre en relief les avantages de la diversité des langues pour la performance de la communication scientifique et d’avancer quelques suggestions pour l’évaluation des publications plurilingues.
 
 ## Le plurilinguisme dans la communication scientifique

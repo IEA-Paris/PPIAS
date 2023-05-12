@@ -1,6 +1,6 @@
 ---
-DOI: 10.5072/zenodo.1155813
-Zid: 1155813
+DOI: 10.5072/zenodo.1201202
+Zid: 1201202
 abstract: >-
   Assessing Territorial Resilience: Indicators and Tools for Governance, Paris
   IAS, July 15-17 2020 - Session 2
@@ -27,5 +27,7 @@ subissue: false
 yt: cZDQJ45mgCs
 
 ---
+
+
 
 <Youtube yt="cZDQJ45mgCs" caption="Resilience frameworks and science communication to Build Back Better"></Youtube>

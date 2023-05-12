@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 4. Histoire des pandemies
+  - 4- Histoire des pandemies
 exerpt: ''
 firstname: Thierry
 is_institution: false

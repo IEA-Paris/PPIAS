@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155867
-Zid: 1155867
+
 abstract: >-
   Adventures of Identity: From the Double to the Avatar. Paris IAS, 13-14
   December 2018 - Welcoming Speech
@@ -39,5 +38,6 @@ subissue: false
 yt: THlPofxI_BA
 
 ---
+
 
 <Youtube yt="THlPofxI_BA" caption="Welcoming Speech and Introductory Remarks" start="680" stop="false"></Youtube>

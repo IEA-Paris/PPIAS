@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1156081
-Zid: 1156081
+
 abstract: >-
   The Brains that pull the Triggers. 3rd Conference on Syndrome E, Paris IAS,
   10-12 May 2017 - Session 1 - Heart of Darkness: Ordinary and Extraordinary
@@ -30,6 +29,7 @@ subissue: 3rd Conference on Syndrome E
 yt: eCVUsb1iMGE
 
 ---
+
 
 In this paper, I give a close reading to Gitta Sereny’s (1974/1983) _Into that Darkness: An Examination of Conscience_ and her account of the memories and reflections of Franz Stangl on his participation in the murder of the handicap, the mentally ill and Jews. Sereny’s account is far-reaching—based upon over 70 hours of interviews with Stangl himself and many others. Although Stangl’s actions, and reflections on these actions, is the ostensible fulcrum of her investigation, she provides us with a complex way of contextualizing Stangl in a personal history, his immediate social relationships and within an evolving system of historical-cultural meanings. 
 

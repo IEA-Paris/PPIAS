@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 1.1.3 G. Sivertsen
+  - 1-1-3 G- Sivertsen
 exerpt: ''
 firstname: Gunnar
 issue:

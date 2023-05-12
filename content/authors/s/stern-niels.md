@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 1.2.2_Stern
+  - 1-2-2_Stern
 exerpt: ''
 firstname: Niels
 issue:

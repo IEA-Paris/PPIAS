@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - 1.1.2_Jermen
+  - 1-1-2_Jermen
 exerpt: ''
 firstname: Nataša
 issue:

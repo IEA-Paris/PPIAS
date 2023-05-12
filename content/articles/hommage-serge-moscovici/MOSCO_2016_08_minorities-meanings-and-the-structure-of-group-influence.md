@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1155897
-Zid: 1155897
+
 abstract: Tribute to Serge Moscovici. Paris IAS, 17-18 November 2016 - Session 2
 article_title: >-
   Minorities, Meanings, and the Structure of Group Influence: Reflecting and
@@ -46,6 +45,7 @@ subissue: false
 yt: 5r_zdbQ5TCU
 
 ---
+
 
 Serge Moscovici’s work on minority influence (@moscovici_social_1976, @moscovici_toward_1980) and social representations (@moscovici_psychanalyse_1961) changed the landscape of social psychology by providing a rich and detailed account of the process of social influence in social groups. Drawing on these classic theories, as well as foundational work by Asch (@asch_studies_1940, @asch_social_1952), we propose to present at the conference a two-step model of influence of ideological groups. In our analysis, ideological sources first influence recipients by influencing how they interpret the social meaning (or social representation) of messages. In the second stage, recipients’ interpretations plus their own ideological commitments guide agreement with the message. In Moscovici’s tradition, we draw out the implications of this model for message processing. Finally, we argue that future research on group influence would be wise to continue exploring these directions, building on Moscovici’s critical insights.
 

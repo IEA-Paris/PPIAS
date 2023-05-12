@@ -1,5 +1,5 @@
 ---
-article_slug: 4. 1999  la France dans la tempete
+article_slug: 4- 1999  la France dans la tempete
 caption: '1999 : la France dans la Tempête. Gérer la Crise et Reconstruire'
 date: 2022-06-01T16:00:28.000Z
 highlight: false
