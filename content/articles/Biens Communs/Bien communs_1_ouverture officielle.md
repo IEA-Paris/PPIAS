@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201098
-Zid: 1201098
+
 abstract: >-
   Les Biens communs, tragédie ou utopie réaliste ? : rencontre inaugurale du
   cycle "Bien(s) commun(s), voies d'espoir face aux défis du siècle" organisé
@@ -104,12 +103,12 @@ bibliography: /documents-exportes_bc1.bib
 custom_pdf: ''
 date: 2023-03-15T17:00:52.000Z
 disciplines: ''
-doi: ''
 highlight: true
 issue: content/issues/biens-communus.md
 keywords: []
 language: French
-needDOI: true
+
+needDOI: false
 picture: ''
 picture_copyright: ''
 published: true
@@ -117,6 +116,9 @@ sub-issue: ''
 yt: uaVcDILnoTw
 
 ---
+
+
+
 
 
 

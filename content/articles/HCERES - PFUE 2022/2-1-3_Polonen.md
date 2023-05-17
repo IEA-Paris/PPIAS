@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201150
-Zid: 1201150
+
 abstract: |-
   Evaluation of Social Sciences and Humanities in Europe.
   Hcéres Colloquium Proceedings - Paris IAS,  16-17 May 2022.
@@ -29,11 +28,11 @@ bibliography: /documents-exportes_213.bib
 custom_pdf: ''
 date: 2022-05-16T12:30:16.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -41,6 +40,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 The Helsinki Initiative on Multilingualism in Scholarly Communication was launched in April 2019 to foster an environment that values multilingual scholarly communication, science communication and open access to scholarly publications in all languages. The long-term goal of the Helsinki Initiative is to ensure the continued availability of high-quality research published in all languages needed across the world for effective communication of research knowledge within and beyond academia.

@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201090
-Zid: 1201090
+
 abstract: >-
   Du global au local, quelles politiques migratoires ? : rencontre du cycle
   "Agir en temps de crise - Les grandes crises contemporaines" organisée et
@@ -104,11 +103,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2021-03-04T17:00:07.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/Agir en temps de crise.md
 keywords: []
 language: French
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -117,6 +116,9 @@ sub-issue: Les Grandes Crises Contemporaines
 yt: MCqQfLqpYb4
 
 ---
+
+
+
 
 
 

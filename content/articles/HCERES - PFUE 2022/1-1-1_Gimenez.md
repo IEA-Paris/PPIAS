@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201120
-Zid: 1201120
+
 abstract: |-
   Evaluation of Social Sciences and Humanities in Europe.
    Hcéres Colloquium Proceedings - Paris IAS,  16-17 May 2022 - Session 1 "Books and Monographs" - Books in Evaluation 
@@ -30,11 +29,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-05-16T08:20:02.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -42,6 +41,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 First of all, I would like to thank HCÉRES and all the people involved in the organization of the Colloque for inviting me to be here and for dedicating the colloque to central issues in ENRESSH research.

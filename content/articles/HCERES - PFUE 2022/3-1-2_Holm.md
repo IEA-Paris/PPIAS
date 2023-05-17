@@ -38,7 +38,7 @@ picture_copyright: ''
 yt: ''
 highlight: false
 bibliography: ''
-doi: ''
+
 
 ---
 In my contribution today I would like to distinguish between three ways in which a research funder like the Research council of Norway or the European Commission can integrate the Social Sciences and the Humanities in its funding processes. I will discuss the status and potential of this integration at three phases of this process: before, under and after the funding decision. I will claim that the relation between societal goals and research priorities is different in each of these phases. This means that we need to think about the integration, or rather role, of SSH in different ways.

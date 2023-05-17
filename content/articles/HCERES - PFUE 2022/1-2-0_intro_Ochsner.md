@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201130
-Zid: 1201130
+
 abstract: >-
   Evaluation of Social Sciences and Humanities in Europe. 
 
@@ -33,11 +32,11 @@ bibliography: /documents-exportes_120.bib
 custom_pdf: ''
 date: 2022-05-16T09:45:27.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: /documents-exportes_120.bib
 picture_copyright: ''
@@ -45,6 +44,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 

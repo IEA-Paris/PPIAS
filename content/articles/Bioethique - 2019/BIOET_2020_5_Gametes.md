@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201110
-Zid: 1201110
+
 abstract: >-
   Conserver gamètes et embryons hors du corps: quels enjeux sociaux et éthiques
   ? : Rencontre du cycle "Bioéthique : aux Frontières de la Vie ?" organisée et
@@ -32,11 +31,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2020-02-04T17:00:29.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/Agir en temps de crise.md
 keywords: []
 language: French
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -45,6 +44,9 @@ sub-issue: 'La Bioéthique : aux Frontières de la Vie ?'
 yt: yc-rknE1XR8
 
 ---
+
+
+
 
 
 

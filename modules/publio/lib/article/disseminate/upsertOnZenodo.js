@@ -86,8 +86,13 @@ export default async (articles, options, queue) => {
         console.log('it exist: ', document.slug)
         document.fileBuffer = fs.readFileSync(resolvedPath)
       } else {
-        console.log('it DOES NOT exist: ', document.slug)
+        console.log(
+          'i: ',
+          `The PDF related to ${document.slug} does not exist. Skipping dissemination.`
+        )
         document.fileBuffer = false
+        document.todo.publishOnZenodo = false
+        document.todo.generatePDF = true
       }
       // get PDF checksum
       document.checksum = generateChecksum(document.fileBuffer)
@@ -126,12 +131,9 @@ export default async (articles, options, queue) => {
           // since we de-published the article, we need to republish it once the pdf & data is updated
         }
         if (sameIdOrDoi.state !== 'done') {
-          console.log(
-            "Document is not published, let's publish it",
-            sameIdOrDoi
-          )
+          console.log("Document is not published, let's publish it")
           document.todo.publishOnZenodo = true
-          document.links = sameIdOrDoi.links
+          document.links = { bucket: sameIdOrDoi.links.bucket }
         }
       } else {
         // this article doesn't exist on Zenodo. Let's create it then.
@@ -141,7 +143,7 @@ export default async (articles, options, queue) => {
           if (rst) {
             document.Zid = rst.data.id
             document.DOI = rst.data.metadata.prereserve_doi.doi
-            document.links = { ...rst.data.links }
+            document.links = { bucket: rst.data.links.bucket }
             document.todo.publishOnZenodo = true
           }
         }

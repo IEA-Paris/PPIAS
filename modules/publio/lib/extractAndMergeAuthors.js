@@ -17,8 +17,12 @@ const filterAndMerge = (first, second) => {
       if (referencedDocIndex > -1) {
         // if so we merge them and remove the related articleAuthor
         second[referencedDocIndex] = mergeDeep(
-          second[referencedDocIndex],
-          author
+          [second[referencedDocIndex], author],
+          {
+            lastname: author?.lastname,
+            firstname: author?.firstname,
+            orcid: author?.socials?.orcid,
+          }
         )
         return false
       }
@@ -37,8 +41,12 @@ const filterAndMerge = (first, second) => {
         if (referencedDocIndex > -1) {
           // if so we merge them and remove the related articleAuthor
           second[referencedDocIndex] = mergeDeep(
-            second[referencedDocIndex],
-            author
+            [second[referencedDocIndex], author],
+            {
+              lastname: author?.lastname,
+              firstname: author?.firstname,
+              orcid: author?.socials?.orcid,
+            }
           )
           return false
         }
@@ -74,7 +82,14 @@ const filterAndMerge = (first, second) => {
 
     // if so we merge them and remove the related articleAuthor
     if (referencedDocIndex > -1) {
-      second[referencedDocIndex] = mergeDeep(second[referencedDocIndex], author)
+      second[referencedDocIndex] = mergeDeep(
+        [second[referencedDocIndex], author],
+        {
+          lastname: author?.lastname,
+          firstname: author?.firstname,
+          orcid: author?.socials?.orcid,
+        }
+      )
       return false
     }
     return true
@@ -109,7 +124,7 @@ export default async (content, options) => {
     .fetch()
   // let's add the DOI
   // we use this opportunity to get the dynamic routes for pdf-printing all the articles
-  await writePrintRoutes(articles)
+  /*   await writePrintRoutes(articles) */
 
   // extract the authors from articles with backlink
   let articleAuthors = articles

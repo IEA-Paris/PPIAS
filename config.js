@@ -37,6 +37,18 @@ export default {
       },
     ],
   },
+  // TODO declare the features that should be enabled to customize the website & enforce them
+  features: {
+    generate: {
+      pdf: true,
+      thumbnails: true,
+      tableOfContent: true,
+      bibliography: true,
+    },
+    disseminate: {
+      Zenodo: true,
+    },
+  },
   theme: {
     loading: 'red',
     dark: false,
@@ -76,7 +88,7 @@ export default {
       token: process.env.ZENODO_TOKEN,
       sandboxToken: process.env.ZENODO_SANDBOX_TOKEN,
       sandbox: true,
-      community: 'testpias',
+      community: 'testgrtghrt',
     },
     image: {
       domains: [

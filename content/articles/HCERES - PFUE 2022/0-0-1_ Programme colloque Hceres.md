@@ -48,7 +48,7 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-05-16T05:35:09.000Z
 disciplines: ''
-doi: ''
+
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []

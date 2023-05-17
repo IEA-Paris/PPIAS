@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201164
-Zid: 1201164
+
 abstract: |-
   Evaluation of Social Sciences and Humanities in Europe.
   Hcéres Colloquium Proceedings - Paris IAS, 16-17 May 2022.
@@ -31,11 +30,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-05-17T07:30:01.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -43,6 +42,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 Social Sciences and Humanities (SSH) [^1] are necessary to tackle many of the complex societal challenges addressed in the EU Framework Programmes for Research and Innovation.

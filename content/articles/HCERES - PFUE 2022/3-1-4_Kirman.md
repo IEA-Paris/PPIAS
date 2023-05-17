@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201168
-Zid: 1201168
+
 abstract: >-
   Evaluation of Social Sciences and Humanities in Europe.
 
@@ -32,11 +31,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-05-17T08:00:41.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -44,6 +43,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 Which disciplines are included in SHS and why? A weakness in our system is that we are too inclined to classify problems into their “appropriate” disciplines. Yet the major questions facing our society are not defined in that way. Practically the first question that is asked when evaluating a project or a publication of an individual whether in the social sciences and humanities or in the so-called “hard sciences” is “is she a good 

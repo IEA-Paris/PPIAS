@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201196
-Zid: 1201196
+
 abstract: >-
   WPRN21 Conference - Paris IAS, 9-10 December 2021. Keynote by Ted
   Loch-Temzelides 
@@ -36,6 +35,7 @@ keywords:
   - 'Public Policy, Evaluation, Impact '
   - 'Big Data, Artificial Intelligence '
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -43,6 +43,9 @@ published: true
 yt: pIFgorYnIlM
 
 ---
+
+
+
 
 
 

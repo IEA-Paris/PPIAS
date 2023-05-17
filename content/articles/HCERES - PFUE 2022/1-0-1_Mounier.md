@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201126
-Zid: 1201126
+
 abstract: >-
   Evaluation of Social Sciences and Humanities in Europe.
 
@@ -32,11 +31,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-05-16T07:45:50.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -44,6 +43,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 Two thousand five hundred years ago, a man coming from Hallicarnassos, a small city on the Aegean sea, in contemporary Turkey committed himself to a long enquiry related to the events and the causes of the recent war that took place between the Greeks and the Persians. His purpose was to “prevent the traces of human events from being erased by time, and to preserve the fame of the important and remarkable achievements produced by both Greeks and non-Greeks”.

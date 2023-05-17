@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201230
-Zid: 1201230
+
 abstract: Sleep and Memory. Paris IAS, 6-7 June 2019 - Program
 article_title: Sleep and Memory - Program
 authors:
@@ -24,12 +23,12 @@ bibliography: ''
 custom_pdf: ''
 date: 2019-06-05T23:00:34.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/sleep-and-memory.md
 keywords: []
 language: English
-needDOI: true
+
+needDOI: false
 picture: ''
 picture_copyright: ''
 published: true
@@ -37,6 +36,9 @@ sub-issue: ''
 yt: ''
 
 ---
+
+
+
 
 
 

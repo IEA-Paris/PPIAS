@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201192
-Zid: 1201192
+
 abstract: >-
   Determining when a scientific discipline is ready to inform policy is knotty.
   To add to this complexity, criteria for determining whether the knowledge is
@@ -62,6 +61,7 @@ keywords:
   - 'Public Policy, Evaluation, Impact '
   - 'International Relations and Co-operation '
 language: English
+
 needDOI: true
 picture: /6113ed81ffbf7c813cd17b32_christian-lue-a9qwxqw55kw-unsplash.jpg
 picture_copyright: ''
@@ -69,6 +69,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 Determining when a scientific discipline is ready to inform policy is knotty. To add to this complexity, criteria for determining whether the knowledge is robust enough vary depending on the issues. Nonetheless, a London School of Economics study found that more and more governments are turning to science to inform public policy. In times of crisis, the need for insight is exceptionally pressing. Yet evidence-based policymaking is even more difficult when there is little data and little time to gather it.

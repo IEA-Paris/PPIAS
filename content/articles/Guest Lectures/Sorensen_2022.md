@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201118
-Zid: 1201118
+
 abstract: >-
   How to enable sustainable production and create new green growth locally: a
   story of success, Paris IAS, 19 September 2022.
@@ -33,11 +32,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-09-19T16:00:13.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/guest_lectures.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -46,6 +45,9 @@ sub-issue: ''
 yt: 9shTRT7wnuQ
 
 ---
+
+
+
 
 
 The transition to sustainable production is both challenging and rewarding. It involves green energy, energy and resource efficiency and a change of mindset to a more circular economy. Where do you start and how do you map and insert your business in the local socio-economic system? Such questions are beyond the expertise of the standard CEO.

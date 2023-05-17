@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201160
-Zid: 1201160
+
 abstract: |-
   Evaluation of Social Sciences and Humanities in Europe.
    Hcéres Colloquium Proceedings - Paris IAS,  16-17 May 2022.
@@ -30,11 +29,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-05-16T14:00:03.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -42,6 +41,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 **Multilingual publishing is not “publishing in a different language by default: than English”. I believe “wording” is essential. Multilingual publishing is publishing and communicating in all languages and not in a different language than English.**

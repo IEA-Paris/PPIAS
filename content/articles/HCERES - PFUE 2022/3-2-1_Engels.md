@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201178
-Zid: 1201178
+
 abstract: >-
   Evaluation of Social Sciences and Humanities in Europe. 
 
@@ -35,11 +34,11 @@ bibliography: /documents-exportes_321.bib
 custom_pdf: ''
 date: 2022-05-17T09:30:01.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -47,6 +46,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 In 2019 the Flemish Government invited the researchers at the Flemish Centre for Research and Development Monitoring (ECOOM) to start a temporary research program on interdisciplinary research (IDR). The program aims at a better conceptual understanding of IDR as well as the development of indicators to measure and monitor IDR. Given the specialization of the ECOOM group at the University of Antwerp (ECOOM-Antwerp), the focus of our work in this research program is on social sciences and humanities. A first observation is that few study address interdisciplinarity in or involving social sciences and humanities, in particular the measurement and monitoring of IDR emerged as scantly explored. Hence the new research program ventures into unknown territory.

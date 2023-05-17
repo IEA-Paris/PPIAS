@@ -6,9 +6,11 @@ export default (articles, options) => {
     /*    */
     return !article.custom_pdf && article?.todo?.generatePDF
   })
+  console.log('pdfArticles: ', pdfArticles.length)
   const thumbnailArticles = articles.filter(
     (article) => !article.picture && !article.yt && article.todo.generateGraph
   )
+  console.log('thumbnailArticles: ', thumbnailArticles.length)
   return {
     pdfs: pdfArticles.map((article) => {
       // if the file has been changed

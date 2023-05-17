@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201232
-Zid: 1201232
+
 abstract: >
   Natural disasters, and pandemics, mostly occur without warning. The threat to
   public health, the environment, and social wellbeing warrants scientific
@@ -90,7 +89,6 @@ bibliography: /documents-exportes_fp4b.bib
 custom_pdf: ''
 date: 2022-05-29T21:49:20.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/WPRN21 Papers.md
 keywords:
@@ -99,6 +97,7 @@ keywords:
   - survey
   - pandemic preparedness
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -106,6 +105,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 

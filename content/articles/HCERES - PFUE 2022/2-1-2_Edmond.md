@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201148
-Zid: 1201148
+
 abstract: |-
   Evaluation of Social Sciences and Humanities in Europe.
   Hcéres Colloquium Proceedings - Paris IAS,  16-17 May 2022.
@@ -31,11 +30,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-05-16T12:30:15.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -43,6 +42,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 Like the literary scholar that I am, I want to begin my remarks with a sort of epigramme:

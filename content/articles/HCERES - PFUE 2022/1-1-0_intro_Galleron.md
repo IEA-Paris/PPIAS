@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201124
-Zid: 1201124
+
 abstract: >-
   Evaluation of Social Sciences and Humanities in Europe.
 
@@ -32,11 +31,11 @@ bibliography: /documents-exportes_11_int.bib
 custom_pdf: ''
 date: 2022-05-16T08:15:01.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -44,6 +43,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 Once upon a time, when hiring junior or senior professors in a French university, in history, linguistics or literary fields, the members of the jury were required to have strong arms, good backs and high speed in reading. The reason was that, previous to the interviews, they were supposed to receive samples of the scientific production of the candidates, and these samples were, quite often, books. In those not so remote times, one could, of course, send offprints of separate chapters, and candidates often did so, but it wasn’t rare to receive quite voluminous mail boxes with several books. When performed on hard copies of the research output (as required, for instance, in older sessions of REF scheme, see [https://www.ref.ac.uk/](https://www.ref.ac.uk/ 'https://www.ref.ac.uk/')), evaluation of research units or of higher education institutions rendered the problem even more acute, with several cubic meters of prints to be gathered and read by the panelists.

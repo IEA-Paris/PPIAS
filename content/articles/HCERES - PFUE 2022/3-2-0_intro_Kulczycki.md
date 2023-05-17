@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201172
-Zid: 1201172
+
 abstract: >
   Evaluation of Social Sciences and Humanities in Europe. 
 
@@ -35,11 +34,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-05-17T09:30:00.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -47,6 +46,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 Over six decades ago, Charles Percy Snow published his influential book entitled _The two cultures_, in which he argues that natural sciences and the humanities and social sciences constitute two distinct worlds. Worlds that are reproduced separately and rarely affect each other.

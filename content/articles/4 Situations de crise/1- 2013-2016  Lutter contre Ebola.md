@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201078
-Zid: 1201078
+
 abstract: >-
   2013-2016 : Lutter contre Ebola. Réponse, réparation et prévention : rencontre
   du cycle "Agir en temps de crise - 4 situations de crise" organisée et animée
@@ -49,11 +48,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-03-09T17:00:41.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/Agir en temps de crise.md
 keywords: []
 language: French
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -62,6 +61,9 @@ sub-issue: '4 Situations de Crise '
 yt: 019WfCeeFjw
 
 ---
+
+
+
 
 
 

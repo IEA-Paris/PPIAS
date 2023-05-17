@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201226
-Zid: 1201226
+
 abstract: >-
   Intellectuals against liberal democracy. Academia, media, and culture, Paris
   IAS, 2-3 June 2022 - Program
@@ -46,12 +45,12 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-06-01T23:00:54.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/intellectuals-against-democracy.md
 keywords: []
 language: English
-needDOI: true
+
+needDOI: false
 picture: ''
 picture_copyright: ''
 published: true
@@ -59,6 +58,9 @@ sub-issue: ''
 yt: ''
 
 ---
+
+
+
 
 
 

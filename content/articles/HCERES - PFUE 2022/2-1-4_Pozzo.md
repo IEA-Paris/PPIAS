@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201154
-Zid: 1201154
+
 abstract: >-
   This paper is about innovation, reflection, and inclusion. The argument starts
   with a general thesis on philosophy and innovation. The pages on communities
@@ -40,11 +39,11 @@ bibliography: /documents-exportes_214.bib
 custom_pdf: ''
 date: 2022-05-16T12:30:17.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: French
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -52,6 +51,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 Le plurilinguisme tient à la nature même de l’objet des SHS, mais dommage que son importance pour les SHS, comme on lise dans le programme du colloque, est souvent mal appréciée. Dans ma relation, je parle d’innovation, de réflexion et d’inclusion. Plus précisément, je parle de philosophie et d’innovation culturelle. L’innovation culturelle, sans aucun doute, pourrait ressembler à un oxymoron. Pensez à la célèbre déclaration des Analects : « Le Maître a dit : J’ai transmis ce qui m’a été enseigné sans rien inventer. J’ai été fidèle et aimé les Anciens » (@confucius_understanding_2017, 7.1). Cependant, l’innovation culturelle est quelque chose dont nous ne pouvons nier l’existence aujourd’hui : quelque chose qui complète l’innovation technologique et sociale. L’innovation culturelle est un espace d’échange dans lequel les citoyens partagent leurs expériences tout en s’appropriant des biens communs. Je parle d’espaces publics comme les bibliothèques, les musées, les centres de sciences et tout endroit où des activités de cocréation peuvent avoir lieu, par exemple, les infrastructures de recherche comme l’infrastructure de recherche numérique pour les arts et les sciences humaines [DARIAH](https://www.dariah.eu.). À ce niveau, l’innovation sociale devient réfléchissante et génère de l’innovation culturelle. La relation entame la préparation d’un article de politique de la science sur les indicateurs pour mesurer l’innovation culturelle, un article pensé pour aider infrastructures comme notamment CLARIN, DARIAH et OPERAS quand on les demande de présenter des donnés d’impact selon une série de indicateurs clé de performance.

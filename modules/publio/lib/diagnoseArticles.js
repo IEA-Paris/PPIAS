@@ -18,28 +18,36 @@ export default async (articles) => {
   } finally {
     gitDiffed = ''
   }
+  const diffed = gitDiffed
+    .split('\n')
+    .filter((str) => str)
+    .map((str) => str.slice(7))
+  let count = 0
   articles = articles.map((article) => {
-    const diffed = gitDiffed
-      .split('\n')
-      .filter((str) => str)
-      .map((str) => str.slice(7))
-      .includes(article.path)
-    const hasPDF = fs.existsSync(
-      path.resolve('static/pdfs', article.slug + '.pdf')
+    const articleDiffed = diffed.includes(article.path)
+    const resolvedPath = path.resolve(
+      process.env.NODE_ENV !== 'production' ? 'static/pdfs' : 'pdfs',
+      article.slug + '.pdf'
     )
+    let hasPDF = false
+    if (fs.existsSync(resolvedPath)) {
+      hasPDF = true
+    } else {
+      count++
+    }
     /*     if (article.slug === 'SynE2_2016_16_obedience-responsibility-punishment')
       console.log('article: ', article) */
     article.todo = {
-      gitDiffed: diffed,
-      generatePDF: diffed || !hasPDF || false,
-      generateGraph: diffed || false,
-      upsertOnZenodo: diffed || !hasPDF || false,
-      obtainDOI: (article.needDOI && !article.DOI?.length) || false,
+      gitDiffed: articleDiffed,
+      generatePDF: articleDiffed || !hasPDF,
+      generateGraph: articleDiffed,
+      upsertOnZenodo: articleDiffed || !hasPDF,
+      obtainDOI: article.needDOI && !article.DOI?.length,
       publishOnZenodo: false,
     }
 
     return article
   })
-
+  console.log('PDFs to be generated', count)
   return articles
 }

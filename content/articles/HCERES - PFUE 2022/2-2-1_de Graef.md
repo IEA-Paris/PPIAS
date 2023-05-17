@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201156
-Zid: 1201156
+
 abstract: |-
   Evaluation of Social Sciences and Humanities in Europe.
   Hcéres Colloquium Proceeding - Paris IAS,  16-17 May 2022.
@@ -30,11 +29,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-05-16T14:00:02.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -42,6 +41,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 The conference focusses on three distinct but related topics relevant in the assessment of SSH research: the importance of books; the importance of plurilingualism/multingualism; the importance of integration/impact.

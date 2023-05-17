@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201140
-Zid: 1201140
+
 abstract: |-
   Evaluation of Social Sciences and Humanities in Europe.
   Hcéres Colloquium Proceedings - Paris IAS,  16-17 May 2022.
@@ -29,11 +28,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-05-16T12:00:10.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -41,6 +40,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 At present, one of the hot topics on the European research scene is ‘assessment’. Namely, to put it very briefly, it could be said that ‘assessment’ is undergoing a major revision, or reevaluation, in an attempt at recognizing that the full scope of an academic portfolio should be taken into consideration and not just papers published in high-level journals.

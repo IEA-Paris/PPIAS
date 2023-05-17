@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201146
-Zid: 1201146
+
 abstract: >-
   Evaluation of Social Sciences and Humanities in Europe.
 
@@ -35,11 +34,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-05-16T12:30:12.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -47,6 +46,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 Language diversity in research and in research evaluation is a key issue for the social sciences and the humanities (SSH). Over the past years, a lively and interesting professional discussion has been developing regarding the specificities and the relative merits of multilingualism and of plurilingualism. However, such specialised debates in the SSH world should not lose sight that one common principle —More than one language— is a key starting point in addressing language diversity issues and that this principle needs to be actively promoted as a core value of scientific knowledge advancement in the SSH disciplines. If this principle gets a stronger recognition as a feature of scientific excellence, it will be considered in the current process of “reevaluating evaluation” of the SSH contribution and impact, to use Prof. Milena Zic-Fuchs’ terminology in her opening remarks.

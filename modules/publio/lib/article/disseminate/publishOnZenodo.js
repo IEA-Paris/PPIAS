@@ -37,7 +37,7 @@ export default async (articles, options, queue) => {
           console.log('it DOES NOT exist: ', document.slug)
           document.fileBuffer = false
         }
-        if (document.fileBuffer && document.links.bucket) {
+        if (document.fileBuffer && document?.links?.bucket) {
           console.log(`deposition created on Zenodo for ${document.slug}`)
           await zenodo.files.upload({
             filename: `${document.slug}.pdf`,

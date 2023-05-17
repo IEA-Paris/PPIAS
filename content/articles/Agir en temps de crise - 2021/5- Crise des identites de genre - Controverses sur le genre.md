@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201096
-Zid: 1201096
+
 abstract: >-
   Crise des Identités de Genre - Controverses sur le Genre : Mobilisations et
   Luttes en Temps de Crise : rencontre du cycle "Agir en temps de crise - Les
@@ -90,11 +89,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2021-05-26T16:00:21.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/Agir en temps de crise.md
 keywords: []
 language: French
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -103,6 +102,9 @@ sub-issue: Les Grandes Crises Contemporaines
 yt: hEaiJjepWvA
 
 ---
+
+
+
 
 
 

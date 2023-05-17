@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201166
-Zid: 1201166
+
 abstract: >-
   Evaluation of Social Sciences and Humanities in Europe. 
 
@@ -41,11 +40,11 @@ bibliography: /documents-exportes_313.bib
 custom_pdf: ''
 date: 2022-05-17T08:00:29.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -53,6 +52,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 Il convient tout d’abord de replacer la notion d’ « intégration des SHS » dans le contexte des programmes-cadres de recherche et développement (PCRD) européens. C’est en effet dans le contexte de la comitologie européenne que l’expression – sinon les réalités auxquelles elle renvoie - s’est popularisée pour désigner d’une part le développement de sous-programmes de recherche et d’innovation dédiés, à différents degrés, aux sciences humaines et sociales (SHS) et à l’innovation non strictement technologique – en particulier depuis le 5e PCRD (1998-2002) et son programme spécifique « Amélioration de la base de connaissances socio-économiques » -, d’autre part l’intégration transversale des SHS dans l’ensemble des sous-programmes des PCRD, tout spécifiquement depuis Horizon 2020 (2014-2020) (@konig_ssh-impact_2019).

@@ -6,7 +6,7 @@ date: 2020-06-11T16:00:52Z
 language: French
 disciplines: ''
 published: false
-doi: ''
+
 article_title: 'Conférence de Clôture : À propos de la Révision des Lois de Bioéthique
   de 2019'
 authors:

@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201128
-Zid: 1201128
+
 abstract: >-
   Evaluation of Social Sciences and Humanities in Europe.
 
@@ -32,11 +31,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-05-16T08:30:03.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -44,6 +43,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 Books are an important part of the scholarly ecosystem for SSH scholars and will probably remain the essential medium for the dissemination of new research in the foreseeable future. As such, they should be considered properly in research evaluation, which demands specific knowledge on the publication patterns in SSH disciplines, as well as on the book publishing ecosystem and editorial practices.

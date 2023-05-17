@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201194
-Zid: 1201194
+
 abstract: WPRN21 Conference - Paris IAS, 9-10 December 2021. Program
 article_title: WPRN21 Conference - Program
 authors:
@@ -40,18 +39,21 @@ bibliography: ''
 custom_pdf: ''
 date: 2021-12-09T08:00:48.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/WPRN21 Videos.md
 keywords: []
 language: English
-needDOI: true
+
+needDOI: false
 picture: ''
 picture_copyright: ''
 published: true
 yt: ''
 
 ---
+
+
+
 
 
 

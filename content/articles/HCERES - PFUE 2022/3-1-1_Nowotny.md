@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201170
-Zid: 1201170
+
 abstract: >-
   Evaluation of Social Sciences and Humanities in Europe.
 
@@ -36,11 +35,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-05-17T08:00:03.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -48,6 +47,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 The European Research Council, ERC, stands out as the most prestigious funding source for basic research (‘frontier research’) in Europe. It has become _the_ success story of the European Framework Programmes and is envied by researchers around the globe. Part of the success is due to its evaluation procedures that are widely considered to be fair and transparent. Its ways of working have become the ‘gold standard’, not because of radical changes, but by continuous monitoring and improving a widely shared, if tacit, agreement of how evaluation should be done.

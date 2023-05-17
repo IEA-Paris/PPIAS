@@ -6,7 +6,7 @@ date: 2020-12-10T10:00:23Z
 language: English
 disciplines: ''
 published: false
-doi: ''
+
 article_title: Discussion Session 2
 authors:
 - firstname: 'Marc '

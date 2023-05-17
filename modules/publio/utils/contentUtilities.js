@@ -189,8 +189,12 @@ export const filterAndMerge = (first, second) => {
       if (referencedDocIndex > -1) {
         // if so we merge them and remove the related articleAuthor
         second[referencedDocIndex] = mergeDeep(
-          second[referencedDocIndex],
-          author
+          [second[referencedDocIndex], author],
+          {
+            lastname: author?.lastname,
+            firstname: author?.firstname,
+            orcid: author?.socials?.orcid,
+          }
         )
         return false
       }
@@ -209,8 +213,12 @@ export const filterAndMerge = (first, second) => {
         if (referencedDocIndex > -1) {
           // if so we merge them and remove the related articleAuthor
           second[referencedDocIndex] = mergeDeep(
-            second[referencedDocIndex],
-            author
+            [second[referencedDocIndex], author],
+            {
+              lastname: author?.lastname,
+              firstname: author?.firstname,
+              orcid: author?.socials?.orcid,
+            }
           )
           return false
         }
@@ -258,7 +266,14 @@ export const filterAndMerge = (first, second) => {
 
     // if so we merge them and remove the related articleAuthor
     if (referencedDocIndex > -1) {
-      second[referencedDocIndex] = mergeDeep(second[referencedDocIndex], author)
+      second[referencedDocIndex] = mergeDeep(
+        [second[referencedDocIndex], author],
+        {
+          lastname: author?.lastname,
+          firstname: author?.firstname,
+          orcid: author?.socials?.orcid,
+        }
+      )
       return false
     }
     return true
@@ -271,10 +286,8 @@ export const filterAndMerge = (first, second) => {
  * Performs a deep merge of objects and returns new object. Does not modify
  * objects (immutable) and merges arrays via concatenation.
  *
- * @param {...object} objects - Objects to merge
- * @returns {object} New object with merged key/values
  */
-export const mergeDeep = (...objects) => {
+export const mergeDeep = (objects, id) => {
   const isObject = (obj) => obj && typeof obj === 'object'
   if (!process.env.conflicts) process.env.conflicts = []
   return objects.reduce((prev, obj) => {
@@ -291,7 +304,7 @@ export const mergeDeep = (...objects) => {
             (oVal[0] && typeof oVal[0] === 'object')
           ) {
             // if object, recursive call
-            prev[key] = mergeDeep(pVal, oVal)
+            prev[key] = mergeDeep([pVal, oVal], id)
           } else {
             // if not we concat
             const newArr = [...pVal.concat(...oVal)]
@@ -308,7 +321,7 @@ export const mergeDeep = (...objects) => {
           }
           // if object, recursive call
         } else if (isObject(pVal) && isObject(oVal)) {
-          prev[key] = mergeDeep(pVal, oVal)
+          prev[key] = mergeDeep([pVal, oVal], id)
           // if string and the base is not set
         } else if (typeof oVal === 'string' && !prev[key].length && oVal.length)
           prev[key] = oVal.trim()
@@ -320,9 +333,13 @@ export const mergeDeep = (...objects) => {
           prev[key].trim() !== oVal.trim()
         ) {
           prev[key] = pVal.trim() // just to cleanup the existing string from spaces
-          // TODO write conflicts in a file somewhere to use it in CMS
-          console.log(`CONFLICTED INFO: ${prev[key]} VS ${oVal} in ${key}`)
+          console.log(
+            `CONFLICTED INFO: ${
+              prev[key]
+            } VS ${oVal} in ${key} with id ${JSON.stringify(id)}`
+          )
           _conflicts.push({
+            id,
             key,
             prev: prev[key],
             next: oVal,
@@ -400,12 +417,16 @@ export const updateArticlesDoiAndZid = (documents) => {
     const frontmatter = yaml.load(data.split('---')[1])
     if (
       (document.DOI && !frontmatter.DOI) ||
-      (document.Zid && !frontmatter.Zid)
+      (document.Zid && !frontmatter.Zid) ||
+      (document?.links?.bucket && !frontmatter?.links?.bucket)
     ) {
       if (document.DOI && !frontmatter.DOI) frontmatter.DOI = document.DOI
       console.log('document.DOI: ', document.DOI)
       if (document.Zid && !frontmatter.Zid) frontmatter.Zid = document.Zid
-      console.log('document.Zid: ', document.Zid)
+      // we write the links into the documetn as new Zenodo API doesn't return all of them (bucket missing) on list
+      if (document?.links?.bucket && !frontmatter?.links?.bucket)
+        frontmatter.links = { bucket: document.links.bucket }
+      console.log('document.bucket: ', document.links.bucket)
       // writeFlag is true only if the
       fs.writeFileSync(
         './content' + document.path + '.md',

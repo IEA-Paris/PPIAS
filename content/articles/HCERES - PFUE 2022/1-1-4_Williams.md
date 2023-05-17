@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201134
-Zid: 1201134
+
 abstract: |-
   Evaluation of Social Sciences and Humanities in Europe.
    Hcéres Colloquium Proceedings - Paris IAS,  16-17 May 2022
@@ -29,11 +28,11 @@ bibliography: /documents-exportes_114.bib
 custom_pdf: ''
 date: 2022-05-16T09:41:05.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -41,6 +40,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 From a technocratic view of academia, indicators provide an ideal way of assessing a certain view of ‘performance’ in a quantitative manner. However, quantitative data without a qualitative analysis as to how and why researchers disseminate their work is meaningless. Normally, academic research should not be about performing to be assessed, but about bringing meaningful insights to different audiences. In addition, indicators can have perverse effects when used to evaluate as researchers who will adapt to fit in with requirements that are external to the needs of research purely in order to obtain jobs and promotion. Certain potential dissemination outlets also adapt to a ‘market’, and quantity can quickly lessen quality, the latter being intrinsically difficult to define. This is true for journals where parasite publishers are rife, but also in book publishing. The following two examples illustrate the constant publicity to which researchers are subjected.

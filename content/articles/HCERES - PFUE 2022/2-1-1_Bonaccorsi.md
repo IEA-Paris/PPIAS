@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201144
-Zid: 1201144
+
 abstract: |
   Evaluation of Social Sciences and Humanities in Europe.
   Hcéres Colloquium Proceedings - Paris IAS,  16-17 May 2022.
@@ -31,11 +30,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-05-16T12:30:14.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -43,6 +42,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 Within the current debate on the evaluation of research in Social Sciences and Humanities (SSH) a recent discussion has been opened on the need for using multiple languages.

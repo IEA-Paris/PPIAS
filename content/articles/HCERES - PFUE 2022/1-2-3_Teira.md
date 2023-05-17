@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201138
-Zid: 1201138
+
 abstract: |-
   Evaluation of Social Sciences and Humanities in Europe.
    Hcéres Colloquium Proceedings - Paris IAS,  16-17 May 2022.
@@ -71,11 +70,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-05-16T09:45:08.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -83,6 +82,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 If you are following, even not very closely, the world of scholarly publishing, you must have heard of Open Access: presses offering books or papers for free download under a copyright licence allowing different degrees of further reuse or republication. The key question is: who is going to pay the publisher’s costs to make the texts available? Recent initiatives (like Coalition S) are bringing about new agreements between funding bodies and major international publishers. In many countries it is already a common practice among researchers to budget the cost of publishing open access in their grant proposals, so that they can pay the publishers directly whenever their texts are accepted. However, this limits research to those with the standing and luck to actually get research funding in an increasingly tight market: on such models open access potentially becomes the realm of the privileged and well-funded.

@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201104
-Zid: 1201104
+
 abstract: >-
   Le Bien Commun, clé juridique du monde qui vient ?: 2ème rencontre du cycle
   "Bien(s) commun(s) : voies d'espoir face aux défis du siècle" organisée par
@@ -102,7 +101,6 @@ bibliography: /documents-exportes-bc2b.bib
 custom_pdf: ''
 date: 2023-04-05T16:00:56.000Z
 disciplines: ''
-doi: ''
 highlight: true
 issue: content/issues/biens-communus.md
 keywords:
@@ -110,6 +108,7 @@ keywords:
   - Entreprise
   - droit
 language: French
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -118,6 +117,9 @@ sub-issue: ''
 yt: jPMfMqOfUwk
 
 ---
+
+
+
 
 
 

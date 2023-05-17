@@ -85,18 +85,20 @@ export default function (moduleOptions) {
     })
   })
   nuxt.hook('generate:done', async ({ name }, errors) => {
-    console.log('"GENERATE:DONE"')
-    console.log('errors: ', errors.toString())
+    // Avoid to retrigger after changing the contetn files (e.g. to add DOIs)
     if (!once) return
-    storeReport()
-    console.log('"GENERATE:DONE"')
     once = false
-    console.log('articles: ', articles.length)
-    const routesToPrint = makePrintRoutes(articles, options)
+
+    // store the registered conflicts in a markdown file @ /static/generated/report.md
+    storeReport()
+
+    console.log('"GENERATE:DONE"')
+    routesToPrint = makePrintRoutes(articles, options)
     console.log('routesToPrint: ', routesToPrint)
 
     url = 'http://127.0.0.1:3000'
     if (routesToPrint?.pdfs?.length || routesToPrint?.thumbnails?.length) {
+      console.log('geenrating files')
       await generateFiles(
         routesToPrint,
         {
@@ -122,7 +124,7 @@ export default function (moduleOptions) {
     // Only run the following code in non-production environments
     if (process.env.NODE_ENV !== 'production') {
       // Generate the routes to print
-      const routesToPrint = makePrintRoutes(articles, options)
+      routesToPrint = makePrintRoutes(articles, options)
       console.log('routesToPrint: ', routesToPrint)
 
       // Generate PDFs and thumbnails for the print routes using the generateFiles function

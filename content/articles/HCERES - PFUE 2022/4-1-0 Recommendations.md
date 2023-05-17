@@ -131,7 +131,7 @@ picture_copyright: ''
 yt: ''
 highlight: false
 bibliography: ''
-doi: ''
+
 
 ---
 **Panel recommendations (draft, to be edited)**

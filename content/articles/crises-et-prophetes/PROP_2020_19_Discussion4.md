@@ -6,7 +6,7 @@ date: 2020-12-11T06:00:35Z
 language: French
 disciplines: ''
 published: false
-doi: ''
+
 article_title: Discussion Session 4
 authors:
 - firstname: 'Sylvie '

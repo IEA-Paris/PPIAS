@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201136
-Zid: 1201136
+
 abstract: |-
   Evaluation of Social Sciences and Humanities in Europe.
   Hcéres Colloquium Proceedings - Paris IAS,  16-17 May 2022.
@@ -29,11 +28,11 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-05-16T09:45:07.000Z
 disciplines: ''
-doi: ''
 highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -41,6 +40,9 @@ published: true
 yt: ''
 
 ---
+
+
+
 
 
 This paper will present a matter that is close to my heart and has been part of my professional life for twenty years, namely the peer review process of academic books. The process which has as its primary goal to ensure that the content of the book is scientifically sound. But ideally peer review should also ensure that the book manuscript is improved because of the comments and suggestions made by the fellow peers undertaking the review.

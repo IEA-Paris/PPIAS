@@ -31,7 +31,7 @@ picture_copyright: ''
 yt: ''
 highlight: false
 bibliography: ''
-doi: ''
+
 
 ---
 texte en attente

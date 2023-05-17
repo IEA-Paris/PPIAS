@@ -2,3 +2,16 @@ VSCode remove the registered DOIs and Zids (e.g. leaving sandbox). THe replace v
 
 DOI: (.*?)(\d+)
 Zid: (.*?)(\d+)
+
+VSCode remove all the Zenodo links in frontmatter
+
+links:
+  bucket: (https:\/\/sandbox\.zenodo\.org\/(api\/files\/[A-Za-z0-9-]+|api\/deposit\/depositions\/\d+(\/actions\/(discard|edit|publish))?\/?(files)?)|(https:\/\/sandbox\.zenodo\.org\/deposit\/\d+))
+  discard: (https:\/\/sandbox\.zenodo\.org\/(api\/files\/[A-Za-z0-9-]+|api\/deposit\/depositions\/\d+(\/actions\/(discard|edit|publish))?\/?(files)?)|(https:\/\/sandbox\.zenodo\.org\/deposit\/\d+))
+  edit: (https:\/\/sandbox\.zenodo\.org\/(api\/files\/[A-Za-z0-9-]+|api\/deposit\/depositions\/\d+(\/actions\/(discard|edit|publish))?\/?(files)?)|(https:\/\/sandbox\.zenodo\.org\/deposit\/\d+))
+  files: (https:\/\/sandbox\.zenodo\.org\/(api\/files\/[A-Za-z0-9-]+|api\/deposit\/depositions\/\d+(\/actions\/(discard|edit|publish))?\/?(files)?)|(https:\/\/sandbox\.zenodo\.org\/deposit\/\d+))
+  html: (https:\/\/sandbox\.zenodo\.org\/(api\/files\/[A-Za-z0-9-]+|api\/deposit\/depositions\/\d+(\/actions\/(discard|edit|publish))?\/?(files)?)|(https:\/\/sandbox\.zenodo\.org\/deposit\/\d+))
+  latest_draft: (https:\/\/sandbox\.zenodo\.org\/(api\/files\/[A-Za-z0-9-]+|api\/deposit\/depositions\/\d+(\/actions\/(discard|edit|publish))?\/?(files)?)|(https:\/\/sandbox\.zenodo\.org\/deposit\/\d+))
+  latest_draft_html: (https:\/\/sandbox\.zenodo\.org\/(api\/files\/[A-Za-z0-9-]+|api\/deposit\/depositions\/\d+(\/actions\/(discard|edit|publish))?\/?(files)?)|(https:\/\/sandbox\.zenodo\.org\/deposit\/\d+))
+  publish: (https:\/\/sandbox\.zenodo\.org\/(api\/files\/[A-Za-z0-9-]+|api\/deposit\/depositions\/\d+(\/actions\/(discard|edit|publish))?\/?(files)?)|(https:\/\/sandbox\.zenodo\.org\/deposit\/\d+))
+  self: (https:\/\/sandbox\.zenodo\.org\/(api\/files\/[A-Za-z0-9-]+|api\/deposit\/depositions\/\d+(\/actions\/(discard|edit|publish))?\/?(files)?)|(https:\/\/sandbox\.zenodo\.org\/deposit\/\d+))

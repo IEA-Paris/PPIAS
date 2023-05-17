@@ -18,7 +18,6 @@ highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md
 needDOI: false
 published: false
-
 subissue: 3rd Conference on Syndrome E
 yt: false
 language: English

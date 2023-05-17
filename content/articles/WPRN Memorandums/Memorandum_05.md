@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1201190
-Zid: 1201190
+
 abstract: >-
   The Covid 19 pandemic and the measures taken to limit its spread (containment,
   social distancing) have led to a recession and a major economic crisis. The
@@ -29,6 +28,7 @@ keywords:
   - 'Equality & Diversity Studies '
   - 'Inequalities, Poverty, Development '
 language: English
+
 needDOI: true
 picture: /how-did-employment-change-during-the-covid-19-1.png
 picture_copyright: ''
@@ -44,6 +44,9 @@ tag:
 yt: ''
 
 ---
+
+
+
 
 
 The Covid 19 pandemic and the measures taken to limit its spread (containment, social distancing) have led to a recession and a major economic crisis. The economic data show significant job losses. The [Insee Emploi-Chômage](https://infodujour.fr/wp-content/uploads/2020/09/note-de-conjoncture-8-setembre-2020.pdf) note published on September 8th notes 715,000 salaried jobs lost in France in the first half of this year. Against this backdrop, employees are deeply concerned about their professional future and the risk of job loss.
