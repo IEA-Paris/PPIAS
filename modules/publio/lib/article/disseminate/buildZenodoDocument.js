@@ -86,9 +86,8 @@ export default (document, options) => {
       // TODO include all title & institution info
       return {
         name:
-          item.lastname.trim() + item.is_institution
-            ? ', ' + item.firstname?.trim()
-            : '',
+          item.lastname.trim() +
+          (item.is_institution ? ', ' + item.firstname?.trim() : ''),
         ...(item.positions_and_institutions &&
           item.positions_and_institutions[0] &&
           item.positions_and_institutions[0].institution && {

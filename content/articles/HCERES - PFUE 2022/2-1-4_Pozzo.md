@@ -1,5 +1,6 @@
 ---
-
+DOI: 10.5072/zenodo.1203625
+Zid: 1203625
 abstract: >-
   This paper is about innovation, reflection, and inclusion. The argument starts
   with a general thesis on philosophy and innovation. The pages on communities
@@ -43,7 +44,8 @@ highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: French
-
+links:
+  bucket: https://sandbox.zenodo.org/api/files/31201587-6b50-4d80-902c-ba082a25cad1
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -51,6 +53,7 @@ published: true
 yt: ''
 
 ---
+
 
 
 

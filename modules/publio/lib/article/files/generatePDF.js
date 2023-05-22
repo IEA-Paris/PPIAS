@@ -26,7 +26,7 @@ export default async (route, url, meta) => {
     )
 
     response = await page.goto(`${url.replace(/\/$/, '')}${route.route}`, {
-      waitUntil: 'networkidle2',
+      waitUntil: 'networkidle0',
     })
     /*     if (options.viewport || route.viewport) {
       page.setViewport(

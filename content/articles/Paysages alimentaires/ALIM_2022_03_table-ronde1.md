@@ -1,5 +1,6 @@
 ---
-
+DOI: 10.5072/zenodo.1203651
+Zid: 1203651
 abstract: >-
   Paysages alimentaires conviviaux : pour aller au-delà de la durabilité
   alimentaire, IEA de Paris, 20-21 juin 2022 - Table-ronde 1 
@@ -105,7 +106,8 @@ highlight: false
 issue: content/issues/paysages-alimentaires.md
 keywords: []
 language: French
-
+links:
+  bucket: https://sandbox.zenodo.org/api/files/7b1d6b77-5357-4956-a4b8-755f8fa9814f
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -114,6 +116,7 @@ sub-issue: ''
 yt: Xtckxp7gvz4
 
 ---
+
 
 
 

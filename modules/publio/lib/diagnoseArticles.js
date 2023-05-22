@@ -26,7 +26,9 @@ export default async (articles) => {
   articles = articles.map((article) => {
     const articleDiffed = diffed.includes(article.path)
     const resolvedPath = path.resolve(
-      process.env.NODE_ENV !== 'production' ? 'static/pdfs' : 'pdfs',
+      process.env.NODE_ENV !== 'production' || process.env.LOCAL === 'true'
+        ? 'static/pdfs'
+        : 'pdfs',
       article.slug + '.pdf'
     )
     let hasPDF = false

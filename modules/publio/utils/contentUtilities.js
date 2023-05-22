@@ -424,9 +424,9 @@ export const updateArticlesDoiAndZid = (documents) => {
       console.log('document.DOI: ', document.DOI)
       if (document.Zid && !frontmatter.Zid) frontmatter.Zid = document.Zid
       // we write the links into the documetn as new Zenodo API doesn't return all of them (bucket missing) on list
-      if (document?.links?.bucket && !frontmatter?.links?.bucket)
+      if (document?.links?.bucket && !frontmatter?.links?.bucket) {
         frontmatter.links = { bucket: document.links.bucket }
-      console.log('document.bucket: ', document.links.bucket)
+      }
       // writeFlag is true only if the
       fs.writeFileSync(
         './content' + document.path + '.md',

@@ -1,5 +1,6 @@
 ---
-
+DOI: 10.5072/zenodo.1203559
+Zid: 1203559
 abstract: >-
   Inégalités, précarité, des clés pour les surmonter : rencontre du cycle "Agir
   en temps de crise - Les grandes crises contemporaines" organisée et animée par
@@ -107,7 +108,8 @@ highlight: false
 issue: content/issues/Agir en temps de crise.md
 keywords: []
 language: French
-
+links:
+  bucket: https://sandbox.zenodo.org/api/files/ab04f032-d443-44f4-a09b-0d11feef63cb
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -116,6 +118,7 @@ sub-issue: Les Grandes Crises Contemporaines
 yt: SYdswsu7ESI
 
 ---
+
 
 
 

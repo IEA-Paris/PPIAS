@@ -1,5 +1,6 @@
 ---
-
+DOI: 10.5072/zenodo.1203623
+Zid: 1203623
 abstract: >-
   Evaluation of Social Sciences and Humanities in Europe.
 
@@ -35,7 +36,8 @@ highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
-
+links:
+  bucket: https://sandbox.zenodo.org/api/files/d529e860-0391-4b06-9941-eecff5374421
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -43,6 +45,7 @@ published: true
 yt: ''
 
 ---
+
 
 
 

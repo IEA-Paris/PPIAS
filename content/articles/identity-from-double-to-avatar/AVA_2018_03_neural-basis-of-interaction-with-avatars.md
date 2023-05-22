@@ -1,5 +1,6 @@
 ---
-
+DOI: 10.5072/zenodo.1203677
+Zid: 1203677
 abstract: >-
   Adventures of Identity: From the Double to the Avatar. Paris IAS, 13-14
   December 2018 - Session 1
@@ -16,13 +17,15 @@ date: 2018-12-13T02:00:00.000Z
 highlight: false
 issue: content/issues/identity-from-double-to-avatar.md
 language: English
-
+links:
+  bucket: https://sandbox.zenodo.org/api/files/86da58f2-8b0f-40e1-a13f-5e85247cc8c9
 needDOI: true
 published: true
 subissue: false
 yt: fXcQORFKJpA
 
 ---
+
 
 
 

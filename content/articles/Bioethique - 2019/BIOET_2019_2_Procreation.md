@@ -1,5 +1,6 @@
 ---
-
+DOI: 10.5072/zenodo.1203575
+Zid: 1203575
 abstract: >-
   La bioéthique de la procréation revisitée : rencontre du cycle "Bioéthique :
   aux Frontières de la Vie ?" organisée et animée par Séverine Mathieu,
@@ -33,7 +34,8 @@ highlight: false
 issue: content/issues/Agir en temps de crise.md
 keywords: []
 language: French
-
+links:
+  bucket: https://sandbox.zenodo.org/api/files/8a3a2153-029f-4bc6-b4ec-56ec3c2ebd2f
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -42,6 +44,7 @@ sub-issue: 'La Bioéthique : aux Frontières de la Vie ?'
 yt: 7ZDsabA4fyc
 
 ---
+
 
 
 

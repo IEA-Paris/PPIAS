@@ -78,25 +78,25 @@ export default async (articles, options, queue) => {
     */
 
       const resolvedPath = path.resolve(
-        process.env.NODE_ENV !== 'production' ? 'static/pdfs' : 'pdfs',
+        process.env.NODE_ENV !== 'production' || process.env.LOCAL === 'true'
+          ? 'static/pdfs'
+          : 'pdfs',
         document.slug + '.pdf'
       )
       // check if the file exists
       if (fs.existsSync(resolvedPath)) {
-        console.log('it exist: ', document.slug)
         document.fileBuffer = fs.readFileSync(resolvedPath)
+
+        // get PDF checksum
+        document.checksum = generateChecksum(document.fileBuffer)
       } else {
         console.log(
           'i: ',
-          `The PDF related to ${document.slug} does not exist. Skipping dissemination.`
+          `The PDF related to ${document.slug} does not exist.`
         )
         document.fileBuffer = false
-        document.todo.publishOnZenodo = false
         document.todo.generatePDF = true
       }
-      // get PDF checksum
-      document.checksum = generateChecksum(document.fileBuffer)
-
       // Compare DOI and Zenodo document id
       const sameIdOrDoi = hasSameIdOrDoi(records, document)
       /*   console.log('sameIdOrDoi: ', sameIdOrDoi) */
@@ -133,7 +133,8 @@ export default async (articles, options, queue) => {
         if (sameIdOrDoi.state !== 'done') {
           console.log("Document is not published, let's publish it")
           document.todo.publishOnZenodo = true
-          document.links = { bucket: sameIdOrDoi.links.bucket }
+          if (!document?.links?.bucket)
+            document.links = { bucket: sameIdOrDoi.links.bucket }
         }
       } else {
         // this article doesn't exist on Zenodo. Let's create it then.
@@ -141,9 +142,11 @@ export default async (articles, options, queue) => {
           console.log("article doesn't exist on Zenodo", document.article_title)
           const rst = (await upsertArticleOnZenodo(document)) || false
           if (rst) {
-            document.Zid = rst.data.id
-            document.DOI = rst.data.metadata.prereserve_doi.doi
-            document.links = { bucket: rst.data.links.bucket }
+            if (!document.Zid) document.Zid = rst.data.id
+            if (!document.DOI)
+              document.DOI = rst.data.metadata.prereserve_doi.doi
+            if (!document?.links?.bucket)
+              document.links = { bucket: rst.data.links.bucket }
             document.todo.publishOnZenodo = true
           }
         }

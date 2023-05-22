@@ -53,7 +53,8 @@ export default function (moduleOptions) {
   // await tsvToArticles()
   const fs = require('fs')
   const path = require('path')
-
+  console.log('ARG', process.env.LOCAL)
+  console.log('ARG', process.argv)
   const { nuxt } = this
   let options = Object.assign({}, defaults, moduleOptions, this.options.publio)
 
@@ -137,13 +138,10 @@ export default function (moduleOptions) {
         url
       )
       console.log('files generated')
-      articles = await disseminate(
-        articles,
-        options,
-        zenodoQueue,
-        // METADATA/FRONTMATTER
-        [publishOnZenodo, updateArticlesDoiAndZid]
-      )
+      articles = await disseminate(articles, options, zenodoQueue, [
+        publishOnZenodo,
+        updateArticlesDoiAndZid,
+      ])
     }
     return true
   })
@@ -177,7 +175,7 @@ export default function (moduleOptions) {
       authors,
       issues,
       options,
-      // METADATA/FRONTMATTER
+      // transformers
       [generateBibliographyFilesForExport, insertCitationElements]
     )
     const editedArticles = console.log(
