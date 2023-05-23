@@ -38,9 +38,13 @@ authors:
     positions_and_institutions:
       - institution: Goethe Universität, Francfort, Germany
   - firstname: John
-    lastname: O’Neill
+    is_institution: false
+    lastname: O'Neill
     positions_and_institutions:
-      - institution: 'University of Manchester, United Kingdom '
+      - institution: University of Manchester, United Kingdom
+    social_channels:
+      researchgate: https://www.researchgate.net/profile/John-Oneill-21
+      wikipedia: https://en.wikipedia.org/wiki/John_O%27Neill_(philosopher)
   - firstname: 'Jeremy '
     lastname: 'Moss '
     positions_and_institutions:

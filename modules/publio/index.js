@@ -21,6 +21,7 @@ import insertVideo from './lib/article/body/insertVideo'
 import insertToC from './lib/article/body/insertToC'
 import insertBibliography from './lib/article/insertBibliography'
 import insertCitationElements from './lib/article/insertCitationElements'
+import insertBibliographicalReferences from './lib/article/body/insertBibliographicalReferences'
 import insertFootnotes from './lib/article/body/insertFootnotes'
 import formattingFixes from './lib/article/formattingFixes'
 import insertIssueData from './lib/article/insertIssueData'
@@ -200,7 +201,7 @@ export default function (moduleOptions) {
   })
 
   nuxt.hook('content:file:beforeInsert', (article, database) => {
-    if (once && article.dir.startsWith('/articles') && article.published) {
+    if (article.dir.startsWith('/articles') && article.published) {
       ;[article, media, authors, issues, options] = processArticle(
         // main item
         article,

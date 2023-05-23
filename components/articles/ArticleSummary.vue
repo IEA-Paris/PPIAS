@@ -5,7 +5,11 @@
       class="transition-swing"
       :class="$vuetify.breakpoint.xs ? ' pa-2' : 'pa-12'"
     >
-      <DoiBadge :doi="item.DOI"></DoiBadge>
+      <DoiBadge
+        v-if="item.DOI && item.Zid"
+        :doi="item.DOI"
+        :zid="item.Zid.toString()"
+      ></DoiBadge>
       <div id="authors" class="overline mt-6">
         {{ $tc('author_s', item.authors.length) }}
       </div>

@@ -5,10 +5,17 @@ abstract: >-
   IAS, July 15-17 2020 - Session 2
 article_title: 'Évaluer la résilience : les travaux en cours'
 authors:
-  - firstname: Felicien
+  - firstname: Félicien
+    is_institution: false
     lastname: Pagnon
     positions_and_institutions:
+      - institution: Université Paris Dauphine, France
+        positions:
+          - ''
       - institution: IDDRI, France
+    social_channels:
+      linkedin: https://fr.linkedin.com/in/f%C3%A9licien-pagnon-17a303146
+      researchgate: https://www.researchgate.net/profile/Felicien-Pagnon-2
   - firstname: 'Mélanie '
     is_institution: false
     lastname: Eck

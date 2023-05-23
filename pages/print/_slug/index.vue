@@ -27,7 +27,11 @@
                 have-institutions-link
               />
             </div>
-            <DoiBadge :doi="item.DOI"></DoiBadge>
+            <DoiBadge
+              v-if="item.DOI && item.Zid"
+              :doi="item.DOI"
+              :zid="item.Zid.toString()"
+            ></DoiBadge>
 
             <div v-if="item.toCite && item.toCite.apa" class="to-cite-wrapper">
               <div class="article-label mt-12 mb-4">
@@ -146,8 +150,6 @@
       </tfoot>
     </table>
     <footer id="footer">
-      <v-divider class="footer-divider"></v-divider>
-
       <div class="footer-content">
         <div v-if="nameIssue">
           <small v-html="item.toCite.apa"></small>
@@ -265,6 +267,9 @@ export default {
 </script>
 <style lang="scss">
 @media print {
+  .page {
+    page-break-after: always;
+  }
   @page {
     margin: 0;
     format: A4;
@@ -302,7 +307,7 @@ export default {
   .page-title {
     margin-top: 0 !important;
     padding-top: 0 !important;
-    font-size: 34px;
+    font-size: 30px !important;
   }
 
   .index {
@@ -314,7 +319,7 @@ export default {
   .footnotes-panel,
   .nuxt-content.article-body ul li {
     color: #000 !important;
-    font-size: 20px !important;
+    font-size: 16px !important;
     margin-bottom: 15px;
     margin-top: 10px;
     line-height: 30px !important;
@@ -393,7 +398,7 @@ export default {
     visibility: visible;
     padding: 0 !important;
     margin: 0 !important;
-    page-break-after: auto;
+    page-break-after: always;
     page-break-inside: avoid !important;
     border: none !important;
     border-radius: 0 !important;
@@ -430,7 +435,7 @@ export default {
 }
 
 footer {
-  height: 0.8in;
+  height: 0.9in;
 }
 
 header {

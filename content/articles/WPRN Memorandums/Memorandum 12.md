@@ -20,11 +20,13 @@ abstract: >-
   This article was originally published in French.
 article_title: What Measures are Truly Effective in Fighting COVID-19 ?
 authors:
-  - firstname: 'Aurélie  '
+  - firstname: Aurélie
     lastname: Louchart
     picture: ''
     picture_copyright: ''
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Paris Institute for Advanced Study, France
+        positions: []
     reference: ''
     social_channels:
       google_scholar: ''

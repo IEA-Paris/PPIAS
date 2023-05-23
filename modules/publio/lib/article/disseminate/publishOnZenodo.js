@@ -23,7 +23,9 @@ export default async (articles, options, queue) => {
 
     const uploadArticleFileOnZenodo = async (document) => {
       const resolvedPath = path.resolve(
-        process.env.NODE_ENV !== 'production' || process.env.LOCAL === 'true'
+        process.env.NODE_ENV !== 'production' ||
+          (process.env.NODE_ENV === 'production' &&
+            process.env.LOCAL === 'true')
           ? 'static/pdfs'
           : 'pdfs',
         `${document.slug}.pdf`

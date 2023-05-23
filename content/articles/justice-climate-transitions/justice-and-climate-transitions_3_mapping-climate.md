@@ -3,7 +3,7 @@
 abstract: Justice and Climate Transitions, Paris IAS,  24-25 September 2015 - Session 1
 article_title: Mapping climate disadvantage
 authors:
-  - firstname: 'John '
+  - firstname: John
     is_institution: false
     lastname: O'Neill
     positions_and_institutions:

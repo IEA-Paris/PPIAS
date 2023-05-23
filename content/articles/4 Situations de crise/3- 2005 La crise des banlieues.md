@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1203555
-Zid: 1203555
+
 abstract: >-
   2005 : La "crise des banlieues" et ses suites : rencontre du cycle "Agir en
   temps de crise - 4 situations de crise" organisée et animée par Séverine

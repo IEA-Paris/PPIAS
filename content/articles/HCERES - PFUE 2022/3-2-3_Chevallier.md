@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1203649
-Zid: 1203649
+
 abstract: >-
   The best innovations are useless if they don’t improve human welfare or if
   people don’t adopt them. Consider nuclear power: it’s a scalable, safe and
@@ -47,8 +46,6 @@ highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
-links:
-  bucket: https://sandbox.zenodo.org/api/files/8a4b66cf-54c4-4865-9930-65bac4f6e298
 needDOI: true
 picture: ''
 picture_copyright: ''

@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1203573
-Zid: 1203573
+
 abstract: >-
   Cognition naturelle, cognition artificielle : conférence inaugurale du cycle
   "Bioéthique : aux Frontières de la Vie ?" organisée et animée par Séverine
@@ -34,8 +33,6 @@ highlight: false
 issue: content/issues/Agir en temps de crise.md
 keywords: []
 language: French
-links:
-  bucket: https://sandbox.zenodo.org/api/files/2824d47c-9ae4-448c-bc3d-1c24e13d2c48
 needDOI: true
 picture: ''
 picture_copyright: ''

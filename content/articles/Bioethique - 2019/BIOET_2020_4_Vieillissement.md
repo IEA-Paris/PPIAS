@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1203579
-Zid: 1203579
+
 abstract: >
   Face au défi du vieillissement, quels enjeux éthiques ? : rencontre du cycle
   "Bioéthique : aux Frontières de la Vie ?" organisée et animée par Séverine
@@ -34,8 +33,6 @@ highlight: false
 issue: content/issues/Agir en temps de crise.md
 keywords: []
 language: French
-links:
-  bucket: https://sandbox.zenodo.org/api/files/68ed4017-301d-4c78-a3c3-0e99ea797e61
 needDOI: true
 picture: ''
 picture_copyright: ''

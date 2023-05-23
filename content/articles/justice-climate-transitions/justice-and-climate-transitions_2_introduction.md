@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1203691
-Zid: 1203691
+
 abstract: >-
   Justice and Climate Transitions, Paris IAS,  24-25 September 2015 - Session 1
   -  Introduction
@@ -17,8 +16,6 @@ date: 2015-09-24T00:00:00.000Z
 highlight: false
 issue: content/issues/justice-climate-transitions.md
 language: English
-links:
-  bucket: https://sandbox.zenodo.org/api/files/5ab8c29c-f4b7-4437-9c27-18e1c3e78b3a
 needDOI: true
 published: true
 subissue: false

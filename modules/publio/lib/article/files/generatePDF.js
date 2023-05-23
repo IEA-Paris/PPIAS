@@ -24,10 +24,14 @@ export default async (route, url, meta) => {
       // Pixel equivalent of an A4 page with 300dpi
       { width: 2480, height: 3508, deviceScaleFactor: 1 }
     )
-
     response = await page.goto(`${url.replace(/\/$/, '')}${route.route}`, {
-      waitUntil: 'networkidle0',
+      waitUntil: ['networkidle0'],
     })
+    /*     // workaround to allow SVGs to render before the page is saved as PDF
+    const loaded = page.waitForNavigation({
+      waitUntil: 'load',
+    })
+    await loaded */
     /*     if (options.viewport || route.viewport) {
       page.setViewport(
         Object.assign(
@@ -49,12 +53,12 @@ export default async (route, url, meta) => {
           ...route.pdf,
           displayHeaderFooter: true,
           footerTemplate: `
-            <div style="z-index: 1000; width: 100%; font-size: 8px;padding: 5px 5px 0; position: relative;">
-              <div style="position: absolute; right: 5px; top: 5px;">
+            <div style="z-index: 1000; width: 100%; font-size: 8px;padding: 0px 5px 0; position: relative;">
+              <div style="position: absolute; right: 5px; top: 0px;">
                 <span class="pageNumber"></span> of <span class="totalPages"></span>
               </div>
             </div>`,
-          margin: { bottom: '80px' },
+          margin: { bottom: '90px' },
         }
       )
     )

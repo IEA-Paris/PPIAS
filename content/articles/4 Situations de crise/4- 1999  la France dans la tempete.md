@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1203557
-Zid: 1203557
+
 abstract: >-
   1999 : la France dans la tempête. Gérer la crise et reconstruire : rencontre
   du cycle "Agir en temps de crise - 4 situations de crise" organisée et animée
@@ -52,8 +51,6 @@ highlight: false
 issue: content/issues/Agir en temps de crise.md
 keywords: []
 language: French
-links:
-  bucket: https://sandbox.zenodo.org/api/files/f1221af7-7454-47f9-80b7-0a32fec38859
 needDOI: true
 picture: ''
 picture_copyright: ''

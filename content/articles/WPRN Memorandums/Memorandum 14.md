@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1203661
-Zid: 1203661
+
 abstract: >-
   Determining when a scientific discipline is ready to inform policy is knotty.
   To add to this complexity, criteria for determining whether the knowledge is
@@ -23,11 +22,13 @@ abstract: >-
   This article was originally published in French.
 article_title: Science in Public Debate in Times of Crisis
 authors:
-  - firstname: 'Aurélie '
+  - firstname: Aurélie
     lastname: Louchart
     picture: ''
     picture_copyright: ''
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Paris Institute for Advanced Study, France
+        positions: []
     reference: ''
     social_channels:
       google_scholar: ''
@@ -62,8 +63,6 @@ keywords:
   - 'Public Policy, Evaluation, Impact '
   - 'International Relations and Co-operation '
 language: English
-links:
-  bucket: https://sandbox.zenodo.org/api/files/aa85bece-ff4c-48f9-b8e0-8f9d1143deb3
 needDOI: true
 picture: /6113ed81ffbf7c813cd17b32_christian-lue-a9qwxqw55kw-unsplash.jpg
 picture_copyright: ''

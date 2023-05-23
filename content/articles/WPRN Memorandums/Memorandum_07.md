@@ -16,7 +16,7 @@ article_title: >-
   COVID-19 and the Media : the Reinforced Impact of Traditional Media does not
   Prevent the Spread of False Information
 authors:
-  - firstname: 'Victor  '
+  - firstname: Victor
     lastname: Galonnier
     picture: ''
     picture_copyright: ''
