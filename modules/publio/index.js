@@ -116,7 +116,7 @@ export default function (moduleOptions) {
       options,
       zenodoQueue,
       // METADATA/FRONTMATTER
-      [publishOnZenodo, updateArticlesDoiAndZid]
+      [publishOnZenodo]
     )
     return true
   })
@@ -141,7 +141,6 @@ export default function (moduleOptions) {
       console.log('files generated')
       articles = await disseminate(articles, options, zenodoQueue, [
         publishOnZenodo,
-        updateArticlesDoiAndZid,
       ])
     }
     return true
@@ -194,6 +193,7 @@ export default function (moduleOptions) {
 
       // Upsert on Zenodo/OpenAire & get DOI is none is available
       articles = await upsertOnZenodo(articles, options, zenodoQueue)
+      console.log('articles: ', articles.length)
 
       updateArticlesDoiAndZid(articles)
     }
