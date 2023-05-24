@@ -122,13 +122,13 @@
               v-if="item.bibliography && item.bibliography.length"
               class="bibliography-panel"
             >
-              <div id="bibliography" class="mt-3 d-flex">
+              <div id="bibliography" class="">
                 {{ $t('bibliography') }}
               </div>
               <ArticleBibliography :item="item"></ArticleBibliography>
             </div>
             <template v-if="item.footnotes && item.footnotes.length">
-              <div id="footnotes" class="mt-3">
+              <div id="footnotes" class="mt-3 ml-n3">
                 {{ $t('footnotes') }}
               </div>
               <ArticleFootnotes
@@ -317,14 +317,12 @@ export default {
     font-size: 20px !important;
     margin-bottom: 15px;
     margin-top: 10px;
-    line-height: 30px !important;
+    line-height: 26px !important;
     text-align: justify;
     width: 100%;
     max-width: 100%;
   }
-  .nuxt-content.article-body p {
-    text-align: justify;
-  }
+
   .csl-bib-body,
   .footnotes-panel,
   .nuxt-content.article-body ul li,
@@ -332,7 +330,7 @@ export default {
     text-align: left;
   }
   .bibliography-panel {
-    margin-left: 0 !important;
+    margin-left: -1rem !important;
     font-size: 14px !important;
     text-align: left;
   }
@@ -340,23 +338,26 @@ export default {
   .nuxt-content.article-body h2,
   #bibliography,
   #footnotes {
-    font-size: 35px !important;
+    font-size: 28px !important;
     margin-bottom: 30px;
     margin-top: 60px;
     word-spacing: 2px;
-    line-height: 45px !important;
+    line-height: 35px !important;
+  }
+  #bibliography {
+    margin-left: 1rem;
   }
 
   .nuxt-content.article-body h3 {
-    font-size: 28px !important;
-    line-height: 34px !important;
+    font-size: 24px !important;
+    line-height: 30px !important;
     margin-bottom: 30px;
     margin-top: 60px;
   }
 
   .nuxt-content.article-body h4 {
-    font-size: 24px !important;
-    line-height: 30px !important;
+    font-size: 20px !important;
+    line-height: 26px !important;
     margin-bottom: 30px;
     margin-top: 30px;
   }
