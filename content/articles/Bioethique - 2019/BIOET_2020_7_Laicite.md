@@ -1,5 +1,6 @@
 ---
-
+DOI: 10.5072/zenodo.1205011
+Zid: 1205011
 abstract: >-
   Bioéthique et laïcité : rencontre du cycle "Bioéthique : aux Frontières de la
   Vie ?" organisée et animée par Séverine Mathieu, directrice d’études à
@@ -32,6 +33,8 @@ highlight: false
 issue: content/issues/Agir en temps de crise.md
 keywords: []
 language: French
+links:
+  bucket: https://sandbox.zenodo.org/api/files/3cdf6b75-68de-4e75-bcad-a7cd6c8b08dc
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -40,6 +43,7 @@ sub-issue: 'La Bioéthique : aux Frontières de la Vie ?'
 yt: IqlQp5gyfts
 
 ---
+
 
 
 

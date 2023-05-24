@@ -1,5 +1,6 @@
 ---
-
+DOI: 10.5072/zenodo.1205015
+Zid: 1205015
 abstract: >-
   How to enable sustainable production and create new green growth locally: a
   story of success, Paris IAS, 19 September 2022.
@@ -36,6 +37,8 @@ highlight: false
 issue: content/issues/guest_lectures.md
 keywords: []
 language: English
+links:
+  bucket: https://sandbox.zenodo.org/api/files/d2c682ed-63f5-4b33-aa4b-b6473acab444
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -44,6 +47,7 @@ sub-issue: ''
 yt: 9shTRT7wnuQ
 
 ---
+
 
 
 

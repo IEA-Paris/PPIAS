@@ -1,5 +1,6 @@
 ---
-
+DOI: 10.5072/zenodo.1205003
+Zid: 1205003
 abstract: >-
   La bioéthique de nos cerveaux : rencontre du cycle "Bioéthique : aux
   Frontières de la Vie ?" organisée et animée par Séverine Mathieu, directrice
@@ -33,6 +34,8 @@ highlight: false
 issue: content/issues/Agir en temps de crise.md
 keywords: []
 language: French
+links:
+  bucket: https://sandbox.zenodo.org/api/files/6c41564a-a6a8-4a7e-acf6-fb1cdc45f042
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -41,6 +44,7 @@ sub-issue: 'La Bioéthique : aux Frontières de la Vie ?'
 yt: Hhd47iX0jLc
 
 ---
+
 
 
 

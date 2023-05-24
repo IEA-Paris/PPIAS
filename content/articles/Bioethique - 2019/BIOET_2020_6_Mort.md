@@ -1,5 +1,6 @@
 ---
-
+DOI: 10.5072/zenodo.1205009
+Zid: 1205009
 abstract: >-
   L'anticipation de la mort et la fin de vie : rencontre du cycle "Bioéthique :
   aux Frontières de la Vie ?" organisée et animée par Séverine Mathieu,
@@ -33,6 +34,8 @@ highlight: false
 issue: content/issues/Agir en temps de crise.md
 keywords: []
 language: French
+links:
+  bucket: https://sandbox.zenodo.org/api/files/721fe63a-f0da-44e8-8a77-bd3bbbfd1b54
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -41,6 +44,7 @@ sub-issue: 'La Bioéthique : aux Frontières de la Vie ?'
 yt: JtvVqHNYmHM
 
 ---
+
 
 
 

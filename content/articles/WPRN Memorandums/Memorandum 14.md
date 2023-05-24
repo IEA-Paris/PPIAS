@@ -1,5 +1,6 @@
 ---
-
+DOI: 10.5072/zenodo.1205085
+Zid: 1205085
 abstract: >-
   Determining when a scientific discipline is ready to inform policy is knotty.
   To add to this complexity, criteria for determining whether the knowledge is
@@ -63,6 +64,8 @@ keywords:
   - 'Public Policy, Evaluation, Impact '
   - 'International Relations and Co-operation '
 language: English
+links:
+  bucket: https://sandbox.zenodo.org/api/files/596b5e57-9f9b-4ed6-af19-1a9dbf497ed7
 needDOI: true
 picture: /6113ed81ffbf7c813cd17b32_christian-lue-a9qwxqw55kw-unsplash.jpg
 picture_copyright: ''
@@ -70,6 +73,7 @@ published: true
 yt: ''
 
 ---
+
 
 
 

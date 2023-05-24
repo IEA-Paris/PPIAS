@@ -1,5 +1,6 @@
 ---
-
+DOI: 10.5072/zenodo.1204991
+Zid: 1204991
 abstract: >-
   Histoire des pandémies - Peut-on apprendre des pandémies du passé ? :
   rencontre du cycle "Agir en temps de crise - Les grandes crises
@@ -87,6 +88,8 @@ highlight: false
 issue: content/issues/Agir en temps de crise.md
 keywords: []
 language: French
+links:
+  bucket: https://sandbox.zenodo.org/api/files/87f9145f-7679-4de4-8478-1ea7d3dd2d81
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -95,6 +98,7 @@ sub-issue: Les Grandes Crises Contemporaines
 yt: dde86H8YQ9M
 
 ---
+
 
 
 
