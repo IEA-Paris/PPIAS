@@ -1,10 +1,10 @@
 ---
 active: true
 articles:
-  - Memorandum_10
+  - Memorandum 14
   - Memorandum 12
   - Memorandum 13
-  - Memorandum 14
+  - Memorandum_10
 exerpt: ''
 firstname: Aurélie
 issue:
@@ -29,7 +29,7 @@ social_channels:
   website: ''
   wikipedia: ''
 years:
-  - 2021
   - 2022
+  - 2021
 
 ---

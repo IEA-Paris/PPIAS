@@ -1,0 +1,333 @@
+local_backend:
+  # when using a custom proxy server port
+  url: http://192.168.0.37:3000/api/v1
+  # when accessing the local site from
+backend:
+  name: github
+  branch: main
+  repo: IEA-Paris/PPIAS
+  base_url: https://85o05b11ri.execute-api.eu-west-2.amazonaws.com/
+  auth_endpoint: '/dev/auth'
+publish_mode: editorial_workflow
+media_folder: 'static'
+site_domain: cms.netlify.com
+collections:
+  - name: 'authors'
+    label: 'Authors'
+    label_singular: 'Author'
+    nested:
+      depth: 2
+      summary: '{{lastname}} {{firstname}}'
+    folder: 'content/authors' # The path to the folder where the documents are stored
+    create: true
+    slug: '{{lastname}}-{{firstname}}'
+    summary: '{{lastname}} {{firstname}}'
+    fields:
+      [
+        { label: 'Is institution', name: 'is_institution', widget: 'boolean' },
+        { label: Firstname, name: firstname, widget: string, default: '' },
+        { label: Lastname, name: lastname, widget: string, default: '' },
+        { label: 'Picture', name: 'picture', widget: 'image' },
+        {
+          label: 'Picture Copyright',
+          name: 'picture_copyright',
+          widget: 'image',
+        },
+        {
+          widget: 'list',
+          default: [],
+          label: 'Positions and Institutions',
+          name: 'positions_and_institutions',
+          summary: '{{fields.position}} {{fields.institution}}',
+          hint: 'E.g. Scientific Director (position <em>facultative</em>), PARIS IAS, FRANCE (Institution mandatory)',
+          fields:
+            [
+              {
+                label: 'Institution',
+                name: 'institution',
+                widget: 'string',
+                default: '',
+              },
+              {
+                widget: 'list',
+                default: [],
+                label: Positions,
+                name: 'positions',
+                summary: '{{fields.institution}}',
+                fields:
+                  [
+                    {
+                      label: 'Position',
+                      name: 'position',
+                      widget: 'string',
+                      default: '',
+                    },
+                  ],
+              },
+            ],
+        },
+        {
+          widget: 'object',
+          default: [],
+          collapsed: true,
+          label: 'Social channels',
+          name: 'social_channels',
+          fields:
+            [
+              {
+                label: 'Website',
+                name: 'website',
+                widget: 'string',
+                default: '',
+              },
+              {
+                label: 'Wikipedia',
+                name: 'wikipedia',
+                widget: 'string',
+                default: '',
+              },
+              {
+                label: 'Orcid ID',
+                name: 'orcid',
+                hint: 'Add only the ORCID ID, not the URL: e.g. <strong>0000-0003-1715-2919</strong>',
+                widget: 'string',
+                default: '',
+              },
+              {
+                label: 'Linkedin',
+                name: 'linkedin',
+                widget: 'string',
+                default: '',
+              },
+              {
+                label: 'Twitter',
+                name: 'webstwitterite',
+                widget: 'string',
+                default: '',
+              },
+              {
+                label: 'Google scholar',
+                name: 'google_scholar',
+                widget: 'string',
+                default: '',
+              },
+              {
+                label: 'ResearchGate',
+                name: 'researchgate',
+                widget: 'string',
+                default: '',
+              },
+              {
+                label: 'Mendeley',
+                name: 'mendeley',
+                widget: 'string',
+                default: '',
+              },
+            ],
+        },
+      ]
+  - name: 'articles' # Used in routes, e.g., /admin/collections/blog
+    nested:
+      depth: 5
+      summary: '{{title}}'
+    label: 'Articles' # Used in the UI
+    folder: 'content/articles' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {
+          label: 'Published',
+          name: 'published',
+          widget: 'hidden',
+          default: 'blog',
+        }
+      - { label: 'Title', name: 'article_title', widget: 'string' }
+      - { label: 'Publication Date', name: 'date', widget: 'datetime' }
+      - { label: 'Does it need a DOI?', name: 'needDOI', widget: 'boolean' }
+      - {
+          label: 'Authors',
+          name: 'authors',
+          widget: 'list',
+          default: [],
+          summary: '{{fields.lastname}} {{fields.firstname}}',
+          fields:
+            [
+              {
+                label: 'Is institution',
+                name: 'is_institution',
+                widget: 'boolean',
+              },
+              {
+                label: Firstname,
+                name: firstname,
+                widget: string,
+                default: '',
+              },
+              { label: Lastname, name: lastname, widget: string, default: '' },
+              { label: 'Picture', name: 'picture', widget: 'image' },
+              {
+                label: 'Picture Copyright',
+                name: 'picture_copyright',
+                widget: 'image',
+              },
+              {
+                widget: 'list',
+                default: [],
+                label: 'Positions and Institutions',
+                name: 'positions_and_institutions',
+                summary: '{{fields.position}} {{fields.institution}}',
+                hint: 'E.g. Scientific Director (position <em>facultative</em>), PARIS IAS, FRANCE (Institution mandatory)',
+                fields:
+                  [
+                    {
+                      label: 'Institution',
+                      name: 'institution',
+                      widget: 'string',
+                      default: '',
+                    },
+                    {
+                      widget: 'list',
+                      default: [],
+                      label: Positions,
+                      name: 'positions',
+                      summary: '{{fields.institution}}',
+                      fields:
+                        [
+                          {
+                            label: 'Position',
+                            name: 'position',
+                            widget: 'string',
+                            default: '',
+                          },
+                        ],
+                    },
+                  ],
+              },
+              {
+                widget: 'object',
+                default: [],
+                collapsed: true,
+                label: 'Social channels',
+                name: 'social_channels',
+                summary: '{{fields.label}}: {{fields.value}}',
+                fields:
+                  [
+                    {
+                      label: 'Website',
+                      name: 'website',
+                      widget: 'string',
+                      default: '',
+                    },
+                    {
+                      label: 'Wikipedia',
+                      name: 'wikipedia',
+                      widget: 'string',
+                      default: '',
+                    },
+                    {
+                      label: 'Orcid ID',
+                      name: 'orcid',
+                      hint: 'Add only the ORCID ID, not the URL: e.g. <strong>0000-0003-1715-2919</strong>',
+                      widget: 'string',
+                      default: '',
+                    },
+                    {
+                      label: 'Linkedin',
+                      name: 'linkedin',
+                      widget: 'string',
+                      default: '',
+                    },
+                    {
+                      label: 'Twitter',
+                      name: 'webstwitterite',
+                      widget: 'string',
+                      default: '',
+                    },
+                    {
+                      label: 'Google scholar',
+                      name: 'google_scholar',
+                      widget: 'string',
+                      default: '',
+                    },
+                    {
+                      label: 'ResearchGate',
+                      name: 'researchgate',
+                      widget: 'string',
+                      default: '',
+                    },
+                    {
+                      label: 'Mendeley',
+                      name: 'mendeley',
+                      widget: 'string',
+                      default: '',
+                    },
+                  ],
+              },
+            ],
+        }
+      - { label: 'Custom PDF', name: 'custom_pdf', widget: 'file' }
+      - { label: 'Abstract', name: 'abstract', widget: 'text' }
+      - {
+          label: 'Issue',
+          name: 'issue',
+          widget: 'file',
+          media_folder: '/content/issues',
+        }
+      - { label: 'Picture', name: 'picture', widget: 'image' }
+      - {
+          label: 'Picture Copyright',
+          name: 'picture_copyright',
+          widget: 'string',
+        }
+      - { label: 'Youtube video', name: 'yt', widget: 'string' }
+      - { label: 'Highlight', name: 'highlight', widget: 'boolean' }
+      - {
+          label: 'Bibliography',
+          name: 'bibliography',
+          media_library:
+            { allow_multiple: false, media_folder: '/static/bibliography' },
+          widget: 'file',
+        }
+      - {
+          label: 'Language',
+          name: 'language',
+          widget: 'select',
+          default: 'English',
+          options:
+            [
+              English,
+              French,
+              German,
+              Italian,
+              Portuguese,
+              Dutch,
+              Russian,
+              Chinese,
+              Japanese,
+              Greek,
+              Spanish,
+            ],
+        }
+      - { label: 'Article', name: 'body', widget: 'markdown' }
+  - name: 'issues' # Used in routes, e.g., /admin/collections/blog
+    label: 'Issues' # Used in the UI
+    folder: 'content/issues' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{{name_of_the_issue}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {
+          label: 'Name of the issue',
+          name: 'name_of_the_issue',
+          widget: 'string',
+        }
+      - {
+          label: 'Short name of the issue',
+          name: 'title',
+          widget: 'string',
+          hint: Used in the issues filter and in the article component,
+        }
+      - { label: 'Subtitle', name: 'subtitle', widget: 'string' }
+      - { label: 'Publication Date', name: 'date', widget: 'datetime' }
+      - { label: 'Cover', name: 'cover', widget: 'image' }
+      - { label: 'Cover Copyright', name: 'cover_copyright', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
