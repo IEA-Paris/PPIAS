@@ -35,14 +35,30 @@ collections:
           widget: 'boolean',
           default: false,
         },
-        { label: Firstname, name: firstname, widget: string, default: '' },
-        { label: Lastname, name: lastname, widget: string, default: '' },
-        { label: 'Picture', name: 'picture', widget: 'image' },
+        {
+          label: Firstname,
+          name: firstname,
+          widget: string,
+          default: '',
+          hint: leave empty if is_institution is true,
+        },
+        {
+          label: Lastname,
+          name: lastname,
+          widget: string,
+          default: '',
+          required: true,
+          hint: 'used as the institution name if is_institution is toggled on',
+        },
+        { label: 'Picture', name: 'picture', widget: 'image', required: false },
         {
           label: 'Picture Copyright',
           name: 'picture_copyright',
-          widget: 'image',
+          widget: 'string',
+          required: false,
         },
+        { label: 'Body', name: 'body', widget: 'markdown', required: false },
+
         {
           widget: 'list',
           default: [],
@@ -50,6 +66,7 @@ collections:
           name: 'positions_and_institutions',
           summary: '{{fields.position}} {{fields.institution}}',
           hint: 'E.g. Scientific Director (position <em>facultative</em>), PARIS IAS, FRANCE (Institution mandatory)',
+          required: false,
           fields:
             [
               {
@@ -64,6 +81,7 @@ collections:
                 label: Positions,
                 name: 'positions',
                 summary: '{{fields.institution}}',
+                required: false,
                 fields:
                   [
                     {
@@ -71,6 +89,7 @@ collections:
                       name: 'position',
                       widget: 'string',
                       default: '',
+                      required: false,
                     },
                   ],
               },
@@ -191,11 +210,17 @@ collections:
                 default: '',
               },
               { label: Lastname, name: lastname, widget: string, default: '' },
-              { label: 'Picture', name: 'picture', widget: 'image' },
+              {
+                label: 'Picture',
+                name: 'picture',
+                widget: 'image',
+                required: false,
+              },
               {
                 label: 'Picture Copyright',
                 name: 'picture_copyright',
                 widget: 'image',
+                required: false,
               },
               {
                 widget: 'list',
@@ -244,12 +269,14 @@ collections:
                       name: 'website',
                       widget: 'string',
                       default: '',
+                      required: false,
                     },
                     {
                       label: 'Wikipedia',
                       name: 'wikipedia',
                       widget: 'string',
                       default: '',
+                      required: false,
                     },
                     {
                       label: 'Orcid ID',
@@ -257,36 +284,42 @@ collections:
                       hint: 'Add only the ORCID ID, not the URL: e.g. <strong>0000-0003-1715-2919</strong>',
                       widget: 'string',
                       default: '',
+                      required: false,
                     },
                     {
                       label: 'Linkedin',
                       name: 'linkedin',
                       widget: 'string',
                       default: '',
+                      required: false,
                     },
                     {
                       label: 'Twitter',
                       name: 'webstwitterite',
                       widget: 'string',
                       default: '',
+                      required: false,
                     },
                     {
                       label: 'Google scholar',
                       name: 'google_scholar',
                       widget: 'string',
                       default: '',
+                      required: false,
                     },
                     {
                       label: 'ResearchGate',
                       name: 'researchgate',
                       widget: 'string',
                       default: '',
+                      required: false,
                     },
                     {
                       label: 'Mendeley',
                       name: 'mendeley',
                       widget: 'string',
                       default: '',
+                      required: false,
                     },
                   ],
               },
@@ -296,6 +329,7 @@ collections:
           label: 'Custom PDF',
           name: 'custom_pdf',
           widget: 'file',
+          required: false,
           hint: 'If used, the usual PDF will not be generated (and the
             file provided will be used instead)',
         }
@@ -320,6 +354,8 @@ collections:
           label: 'Picture',
           name: 'picture',
           widget: 'image',
+          required: false,
+
           hint:
             'Picture used as thumbnail and article splash. Not used if a youtube
             ID is provided as thumbnail below.',
@@ -328,11 +364,13 @@ collections:
           label: 'Picture Copyright',
           name: 'picture_copyright',
           widget: 'string',
+          required: false,
         }
       - {
           label: 'Youtube video',
           name: 'yt',
           widget: 'string',
+          required: false,
           hint:
             'Add the ID of the youtube video you want it as a thumbnail &amp; article
             splash. Leave empty if you want a regular thumbnail',
@@ -350,6 +388,7 @@ collections:
           media_library:
             { allow_multiple: false, media_folder: '/static/bibliography' },
           widget: 'file',
+          required: false,
         }
       - {
           label: 'Language',
