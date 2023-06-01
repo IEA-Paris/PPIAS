@@ -10,7 +10,12 @@ backend:
   auth_endpoint: '/dev/auth'
 publish_mode: editorial_workflow
 media_folder: 'static'
-site_domain: cms.netlify.com
+logo_url: https://paris.pias.science/ppias.svg
+show_preview_links: false
+i18n:
+  structure: multiple_folders
+  locales: [en, fr]
+  default_locale: en
 collections:
   - name: 'authors'
     label: 'Authors'
@@ -24,7 +29,12 @@ collections:
     summary: '{{lastname}} {{firstname}}'
     fields:
       [
-        { label: 'Is institution', name: 'is_institution', widget: 'boolean' },
+        {
+          label: 'Is institution',
+          name: 'is_institution',
+          widget: 'boolean',
+          default: false,
+        },
         { label: Firstname, name: firstname, widget: string, default: '' },
         { label: Lastname, name: lastname, widget: string, default: '' },
         { label: 'Picture', name: 'picture', widget: 'image' },
@@ -138,12 +148,29 @@ collections:
       - {
           label: 'Published',
           name: 'published',
-          widget: 'hidden',
-          default: 'blog',
+          widget: 'boolean',
+          default: false,
         }
-      - { label: 'Title', name: 'article_title', widget: 'string' }
-      - { label: 'Publication Date', name: 'date', widget: 'datetime' }
-      - { label: 'Does it need a DOI?', name: 'needDOI', widget: 'boolean' }
+      - {
+          label: 'Title',
+          required: true,
+          name: 'article_title',
+          widget: 'string',
+          pattern:
+            ['^[^]{5,200}$', 'Minimum 5 characters, maximum 200 characters'],
+        }
+      - {
+          label: 'Publication Date',
+          required: true,
+          name: 'date',
+          widget: 'datetime',
+        }
+      - {
+          label: 'Does it need a DOI?',
+          name: 'needDOI',
+          widget: 'boolean',
+          default: false,
+        }
       - {
           label: 'Authors',
           name: 'authors',
@@ -265,22 +292,58 @@ collections:
               },
             ],
         }
-      - { label: 'Custom PDF', name: 'custom_pdf', widget: 'file' }
-      - { label: 'Abstract', name: 'abstract', widget: 'text' }
+      - {
+          label: 'Custom PDF',
+          name: 'custom_pdf',
+          widget: 'file',
+          hint: 'If used, the usual PDF will not be generated (and the
+            file provided will be used instead)',
+        }
+      - {
+          label: 'Abstract',
+          name: 'abstract',
+          widget: 'text',
+          required: true,
+          pattern:
+            [
+              '^[^]{12,1500}$',
+              'Minimum 12 characters and maximum 1500 characters',
+            ],
+        }
       - {
           label: 'Issue',
           name: 'issue',
           widget: 'file',
           media_folder: '/content/issues',
         }
-      - { label: 'Picture', name: 'picture', widget: 'image' }
+      - {
+          label: 'Picture',
+          name: 'picture',
+          widget: 'image',
+          hint:
+            'Picture used as thumbnail and article splash. Not used if a youtube
+            ID is provided as thumbnail below.',
+        }
       - {
           label: 'Picture Copyright',
           name: 'picture_copyright',
           widget: 'string',
         }
-      - { label: 'Youtube video', name: 'yt', widget: 'string' }
-      - { label: 'Highlight', name: 'highlight', widget: 'boolean' }
+      - {
+          label: 'Youtube video',
+          name: 'yt',
+          widget: 'string',
+          hint:
+            'Add the ID of the youtube video you want it as a thumbnail &amp; article
+            splash. Leave empty if you want a regular thumbnail',
+        }
+      - {
+          label: 'Highlight',
+          name: 'highlight',
+          widget: 'boolean',
+          hint: 'Will try to use the best slots to display highlighted articles',
+          default: false,
+        }
       - {
           label: 'Bibliography',
           name: 'bibliography',
@@ -293,6 +356,7 @@ collections:
           name: 'language',
           widget: 'select',
           default: 'English',
+          hint: 'The language of the article content (be it media or text).Fallback on english',
           options:
             [
               English,
@@ -319,15 +383,41 @@ collections:
           label: 'Name of the issue',
           name: 'name_of_the_issue',
           widget: 'string',
+          required: true,
         }
       - {
           label: 'Short name of the issue',
           name: 'title',
           widget: 'string',
           hint: Used in the issues filter and in the article component,
+          required: true,
+          pattern:
+            ['^[^]{2,32}$', 'Minimum 2 characters, maximum 32 characters'],
         }
       - { label: 'Subtitle', name: 'subtitle', widget: 'string' }
-      - { label: 'Publication Date', name: 'date', widget: 'datetime' }
+      - {
+          label: 'Publication Date',
+          name: 'date',
+          widget: 'date',
+          format: MM/YY,
+          required: true,
+        }
       - { label: 'Cover', name: 'cover', widget: 'image' }
       - { label: 'Cover Copyright', name: 'cover_copyright', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'pages' # Used in routes, e.g., /admin/collections/blog
+    label: 'Pages' # Used in the UI
+    i18n: true
+    folder: 'content/pages' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {
+          label: 'Page title',
+          i18n: true,
+          name: 'page_title',
+          widget: 'string',
+          required: true,
+          pattern:
+            ['^[^]{2,150}$', 'Minimum 2 characters, maximum 150 characters'],
+        }
+      - { label: 'Body', i18n: true, name: 'body', widget: 'markdown' }
