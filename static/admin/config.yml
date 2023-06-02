@@ -8,6 +8,7 @@ backend:
   repo: IEA-Paris/PPIAS
   base_url: https://85o05b11ri.execute-api.eu-west-2.amazonaws.com/
   auth_endpoint: '/dev/auth'
+  cms_label_prefix: 'IEA-Paris/'
 publish_mode: editorial_workflow
 media_folder: 'static'
 logo_url: https://paris.pias.science/ppias.svg
@@ -163,6 +164,7 @@ collections:
     folder: 'content/articles' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: '{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    sortable_fields: ['date', 'article_title', 'issue'] # The fields on which it should be sortable
     fields: # The fields for each document, usually in front matter
       - {
           label: 'Published',
@@ -431,7 +433,7 @@ collections:
           hint: Used in the issues filter and in the article component,
           required: true,
           pattern:
-            ['^[^]{2,32}$', 'Minimum 2 characters, maximum 32 characters'],
+            ['[^]{2,32}$', 'Minimum 2 characters, maximum 32 characters'],
         }
       - { label: 'Subtitle', name: 'subtitle', widget: 'string' }
       - {
