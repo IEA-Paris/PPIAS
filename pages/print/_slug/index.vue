@@ -126,7 +126,7 @@
               v-if="item.bibliography && item.bibliography.length"
               class="bibliography-panel"
             >
-              <div id="bibliography" class="mt-3 d-flex">
+              <div id="bibliography">
                 {{ $t('bibliography') }}
               </div>
               <ArticleBibliography :item="item"></ArticleBibliography>
@@ -307,7 +307,7 @@ export default {
   .page-title {
     margin-top: 0 !important;
     padding-top: 0 !important;
-    font-size: 30px !important;
+    font-size: 35px !important;
   }
 
   .index {
@@ -322,7 +322,7 @@ export default {
     font-size: 16px !important;
     margin-bottom: 15px;
     margin-top: 10px;
-    line-height: 30px !important;
+    line-height: 28px !important;
     text-align: justify;
     width: 100%;
     max-width: 100%;
@@ -337,7 +337,7 @@ export default {
     text-align: left;
   }
   .bibliography-panel {
-    margin-left: 0 !important;
+    margin-left: -1rem !important;
     font-size: 14px !important;
     text-align: left;
   }
@@ -345,25 +345,29 @@ export default {
   .nuxt-content.article-body h2,
   #bibliography,
   #footnotes {
-    font-size: 35px !important;
-    margin-bottom: 30px;
-    margin-top: 60px;
+    font-size: 30px !important;
+    margin-bottom: 25px;
+    margin-top: 50px;
     word-spacing: 2px;
-    line-height: 45px !important;
+    line-height: 40px !important;
   }
-
+  #bibliography,
+  #footnotes {
+    margin-left: 1rem;
+  }
   .nuxt-content.article-body h3 {
     font-size: 28px !important;
     line-height: 34px !important;
-    margin-bottom: 30px;
-    margin-top: 60px;
+    margin-bottom: 20px;
+    margin-top: 45px;
   }
 
   .nuxt-content.article-body h4 {
     font-size: 24px !important;
+    font-weight: 500;
     line-height: 30px !important;
-    margin-bottom: 30px;
-    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-top: 45px;
   }
 
   .article-authors {

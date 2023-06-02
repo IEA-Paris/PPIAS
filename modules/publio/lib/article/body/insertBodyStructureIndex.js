@@ -1,7 +1,6 @@
 import insertBibliographicalReferences from './insertBibliographicalReferences'
 
 export default (node, article, media, authors, issues, options) => {
-  console.log('processing body structure of article ', article.slug)
   const flag = ['h2', 'h3', 'youtube', 'img'].indexOf(node.tag)
   return [
     ...(node.value !== '\n'
