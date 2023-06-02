@@ -1,9 +1,9 @@
 ---
 active: true
 articles:
+  - Memorandum 13
   - Memorandum 12
   - Memorandum 14
-  - Memorandum 13
   - Memorandum_10
 exerpt: ''
 firstname: Aurélie

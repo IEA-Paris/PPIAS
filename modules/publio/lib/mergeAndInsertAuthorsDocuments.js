@@ -10,10 +10,6 @@ export default async (authors = [], articles, content) => {
 
     const { first, second } = filterAndMerge(authors, authorsDocuments)
 
-    console.log(
-      'LAVILLE2",',
-      first.find((author) => author.lastname.toUpperCase() === 'LAVILLE')
-    )
 
     const updatedAuthorsDocuments = [...(first || []), ...(second || [])].map(
       (item) => {
