@@ -45,6 +45,7 @@ abstract: 'De nouveaux médias pour la transition ? : rencontre du cycle "Agir e
 issue: /content/issues/Agir en temps de crise.md
 yt: uNBY8vLzdNE
 highlight: false
+bibliography: /static/documents-exportés_cri_2023_1.bib
 language: French
 ---
 Une séance pour débattre de l'utilisation des nouveaux médias de diffusion de la connaissance et des savoirs.
