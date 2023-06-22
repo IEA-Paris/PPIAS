@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 article_title: Quelles technologies pour une société durable ?
 date: 2023-03-06T13:21:40.681Z
-needDOI: false
+needDOI: true
 authors:
   - firstname: "Morgan "
     lastname: Meyer
