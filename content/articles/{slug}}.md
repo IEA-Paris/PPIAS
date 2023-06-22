@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "De nouveaux médias pour la transition ? "
 date: 2023-01-31T15:16:30.248Z
 needDOI: false
