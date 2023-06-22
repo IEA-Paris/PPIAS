@@ -43,7 +43,7 @@ abstract: 'Comment peut-on changer les systèmes urbains ? : rencontre du cycle
 issue: /content/issues/Agir en temps de crise.md
 yt: DiHdzfq_GQw
 highlight: false
-language: English
+language: French
 ---
 Les transitions en cours ont des impacts sévères sur les systèmes urbains. Alors que près des 2/3 de la population vont habiter en ville d’ici 2050, cette séance revient sur les principaux défis à relever qu’ils soient liés au dérèglement climatique (canicules, inondations, etc.), aux questions de migration et d’inégalités, ou encore aux liens à construire entre centres et périphéries. 
 A travers l’exemple concret de la Ville de Paris et de la mise en place de son plan d’actions pour un Paris « durable », cet échange soulève aussi la question du rôle des crises comme accélérateur de changement.
