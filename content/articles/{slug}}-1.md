@@ -4,22 +4,6 @@ article_title: Quelles technologies pour une société durable ?
 date: 2023-03-06T13:21:40.681Z
 needDOI: true
 authors:
-  - firstname: "Morgan "
-    lastname: Meyer
-    positions_and_institutions:
-      - institution: CNRS, France
-        positions:
-          - position: Directeur de recherche
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: https://fr.linkedin.com/in/morgan-meyer-7a587737
-      webstwitterite: ""
-      google_scholar: https://scholar.google.com/citations?user=rm6hezQAAAAJ&hl=en
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
   - firstname: "Quentin "
     lastname: Mateus
     positions_and_institutions:
@@ -33,6 +17,22 @@ authors:
       linkedin: https://fr.linkedin.com/in/quentinmateus
       webstwitterite: "@MateusQuentin"
       google_scholar: ""
+      researchgate: ""
+      mendeley: ""
+    is_institution: false
+  - firstname: "Morgan "
+    lastname: Meyer
+    positions_and_institutions:
+      - institution: CNRS, France
+        positions:
+          - position: Directeur de recherche
+    social_channels:
+      website: ""
+      wikipedia: ""
+      orcid: ""
+      linkedin: https://fr.linkedin.com/in/morgan-meyer-7a587737
+      webstwitterite: ""
+      google_scholar: https://scholar.google.com/citations?user=rm6hezQAAAAJ&hl=en
       researchgate: ""
       mendeley: ""
     is_institution: false
