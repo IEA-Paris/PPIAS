@@ -2,7 +2,7 @@
 published: true
 article_title: "De nouveaux médias pour la transition ? "
 date: 2023-01-31T15:16:30.248Z
-needDOI: false
+needDOI: true
 authors:
   - firstname: "Dominique "
     lastname: Pasquier
@@ -44,7 +44,7 @@ abstract: 'De nouveaux médias pour la transition ? : rencontre du cycle "Agir e
   de Paris'
 issue: /content/issues/Agir en temps de crise.md
 yt: uNBY8vLzdNE
-highlight: false
+highlight: true
 bibliography: /static/documents-exportés_cri_2023_1.bib
 language: French
 ---
