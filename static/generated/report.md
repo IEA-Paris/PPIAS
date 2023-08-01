@@ -254,20 +254,6 @@ conflicts:
       - ''
     prev: University of New South Wales, Sydney, Australia
   - id:
-      firstname: 'Larry '
-      lastname: Reynolds
-    institution: Paris Institute for Advanced Studies, France
-    key: institution
-    next: Paris Institute for Advanced Studies, France
-    prev: IEA de Paris, France
-  - id:
-      firstname: 'Larry '
-      lastname: Reynolds
-    institution: 'John-F.-Kennedy Institut, Freie Universität Berlin, Germany '
-    key: institution
-    next: 'John-F.-Kennedy Institut, Freie Universität Berlin, Germany '
-    prev: Paris Institute for Advanced Studies, France
-  - id:
       firstname: 'Darrel '
       lastname: 'Moellendorf '
     institution: Goethe Universität, Francfort, Germany
@@ -296,12 +282,19 @@ conflicts:
     next: Lancaster University, United Kingdom
     prev: University of Lancaster, United Kingdom
   - id:
-      firstname: 'Gordon '
-      lastname: Walker
-    institution: Lancaster Environment Centre, Lancaster University, United Kingdom
+      firstname: 'Larry '
+      lastname: Reynolds
+    institution: Paris Institute for Advanced Studies, France
     key: institution
-    next: Lancaster Environment Centre, Lancaster University, United Kingdom
-    prev: University of Lancaster, United Kingdom
+    next: Paris Institute for Advanced Studies, France
+    prev: IEA de Paris, France
+  - id:
+      firstname: 'Larry '
+      lastname: Reynolds
+    institution: 'John-F.-Kennedy Institut, Freie Universität Berlin, Germany '
+    key: institution
+    next: 'John-F.-Kennedy Institut, Freie Universität Berlin, Germany '
+    prev: Paris Institute for Advanced Studies, France
   - id:
       firstname: 'Conrad '
       lastname: Kunze
@@ -310,14 +303,12 @@ conflicts:
     next: Helmholtz Centre for Environmental Research – UFZ, Germany
     prev: Helmholtz Centre for Environmental Research – UFZ, Leipzig, Germany
   - id:
-      firstname: Chloé
-      lastname: Kattar
-    institution: EUME - Berlin, Germany
+      firstname: 'Gordon '
+      lastname: Walker
+    institution: Lancaster Environment Centre, Lancaster University, United Kingdom
     key: institution
-    next: EUME - Berlin, Germany
-    positions:
-      - ''
-    prev: EUME - Berlin
+    next: Lancaster Environment Centre, Lancaster University, United Kingdom
+    prev: University of Lancaster, United Kingdom
   - id:
       firstname: Aron
       lastname: Buzogany
@@ -327,6 +318,15 @@ conflicts:
     positions:
       - ''
     prev: BOKU Vienna
+  - id:
+      firstname: Chloé
+      lastname: Kattar
+    institution: EUME - Berlin, Germany
+    key: institution
+    next: EUME - Berlin, Germany
+    positions:
+      - ''
+    prev: EUME - Berlin
   - id:
       firstname: Valentin
       lastname: Behr
@@ -353,14 +353,14 @@ conflicts:
       - ''
     prev: Université Rennes 1
   - id:
-      firstname: Gretty
-      lastname: Mirdal
-    institution: Paris Institute for Advanced Study, France
+      firstname: Itzhak
+      lastname: Fried
+    institution: UCLA, USA / University of Tel-Aviv, Israël
     key: institution
-    next: Paris Institute for Advanced Study, France
+    next: UCLA, USA / University of Tel-Aviv, Israël
     positions:
       - ''
-    prev: Paris Institute for Advanced Study
+    prev: UCLA, USA / Université de Tel-Aviv, Israël
   - id:
       firstname: Michael
       lastname: Zugaro
@@ -379,6 +379,15 @@ conflicts:
     positions:
       - ''
     prev: CNRS - ESPCI Paris Tech - Cog'X
+  - id:
+      firstname: Gretty
+      lastname: Mirdal
+    institution: Paris Institute for Advanced Study, France
+    key: institution
+    next: Paris Institute for Advanced Study, France
+    positions:
+      - ''
+    prev: Paris Institute for Advanced Study
   - id:
       firstname: Itzhak
       lastname: Fried
@@ -416,24 +425,6 @@ conflicts:
       - ''
     prev: Swansea University
   - id:
-      firstname: Itzhak
-      lastname: Fried
-    institution: UCLA, USA / University of Tel-Aviv, Israël
-    key: institution
-    next: UCLA, USA / University of Tel-Aviv, Israël
-    positions:
-      - ''
-    prev: UCLA, USA / Université de Tel-Aviv, Israël
-  - id:
-      firstname: Eus
-      lastname: Van Someren
-    institution: Netherlands Institute for Neuroscience, Netherlands
-    key: institution
-    next: Netherlands Institute for Neuroscience, Netherlands
-    positions:
-      - ''
-    prev: Netherlands Institute for Neuroscience
-  - id:
       firstname: Francesca
       lastname: Siclari
     institution: University of lausanne - CHUV, Switzerland
@@ -452,6 +443,15 @@ conflicts:
       - ''
     prev: Inserm - Université de Caen
   - id:
+      firstname: Eus
+      lastname: Van Someren
+    institution: Netherlands Institute for Neuroscience, Netherlands
+    key: institution
+    next: Netherlands Institute for Neuroscience, Netherlands
+    positions:
+      - ''
+    prev: Netherlands Institute for Neuroscience
+  - id:
       firstname: Antonio
       lastname: Perciaccante
     institution: Goriza Hospital, Italy
@@ -460,15 +460,6 @@ conflicts:
     positions:
       - ''
     prev: Goriza Hospital
-  - id:
-      firstname: 'Larry '
-      lastname: Reynolds
-    institution: Paris Institute for Advanced Study, France
-    key: institution
-    next: Paris Institute for Advanced Study, France
-    positions:
-      - ''
-    prev: IEA de Paris, France
   - id:
       firstname: 'Pauline '
       lastname: Gabillet
@@ -482,6 +473,15 @@ conflicts:
     positions:
       - ''
     prev: LATTS / Université Gustave Eiffel, France
+  - id:
+      firstname: 'Larry '
+      lastname: Reynolds
+    institution: Paris Institute for Advanced Study, France
+    key: institution
+    next: Paris Institute for Advanced Study, France
+    positions:
+      - ''
+    prev: IEA de Paris, France
   - id:
       firstname: 'Mel '
       lastname: Slater
@@ -504,6 +504,62 @@ conflicts:
     researchgate: https://www.researchgate.net/profile/Mel-Slater
     twitter: '@melslater'
     website: http://www.melslater.me/
+  - id:
+      firstname: Lasana
+      lastname: Harris
+    institution: University of Leiden,  Netherlands
+    key: institution
+    next: University of Leiden,  Netherlands
+    prev: University of Leiden, Netherlands
+  - id:
+      firstname: Itzhak
+      lastname: Fried
+    institution: Paris Institute for Advanced Study, France
+    key: institution
+    next: Paris Institute for Advanced Study, France
+    prev: UCLA, USA / Université de Tel-Aviv, Israël
+  - id:
+      firstname: Itzhak
+      lastname: Fried
+    institution: University of California Los Angeles, USA
+    key: institution
+    next: University of California Los Angeles, USA
+    prev: Paris Institute for Advanced Study, France
+  - id:
+      firstname: 'Itzhak '
+      lastname: Fried
+    institution: University of California Los Angeles, USA
+    key: institution
+    next: University of California Los Angeles, USA
+    prev: UCLA, USA / Université de Tel-Aviv, Israël
+  - id:
+      firstname: 'Thomas '
+      lastname: Boraud
+    institution: Université de Bordeaux, France
+    key: institution
+    next: Université de Bordeaux, France
+    prev: Université Bordeaux, France
+  - google_scholar: >-
+      https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
+    id:
+      firstname: 'Etienne '
+      lastname: Koechlin
+    key: google_scholar
+    linkedin: https://fr.linkedin.com/in/etienne-koechlin-76476439
+    next: >-
+      https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
+    prev: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
+    researchgate: https://www.researchgate.net/profile/Etienne-Koechlin
+    twitter: '@KoechlinE'
+  - id:
+      firstname: 'Patrick '
+      lastname: Haggard
+    institution: University College of London (UCL), United Kingdom
+    key: institution
+    next: University College of London (UCL), United Kingdom
+    positions:
+      - ''
+    prev: University College London, United Kingdom
   - articles:
       - SynE3_2017_12_brains-on-drugs
     firstname: 'Norman '
@@ -637,62 +693,6 @@ conflicts:
     next: Max Planck Institute for Human cognitive and Brain Sciences, Germany
     prev: Max Planck Institute for Human cognitive and Brain Sciences
   - id:
-      firstname: Itzhak
-      lastname: Fried
-    institution: Paris Institute for Advanced Study, France
-    key: institution
-    next: Paris Institute for Advanced Study, France
-    prev: UCLA, USA / Université de Tel-Aviv, Israël
-  - id:
-      firstname: Itzhak
-      lastname: Fried
-    institution: University of California Los Angeles, USA
-    key: institution
-    next: University of California Los Angeles, USA
-    prev: Paris Institute for Advanced Study, France
-  - id:
-      firstname: 'Itzhak '
-      lastname: Fried
-    institution: University of California Los Angeles, USA
-    key: institution
-    next: University of California Los Angeles, USA
-    prev: UCLA, USA / Université de Tel-Aviv, Israël
-  - id:
-      firstname: 'Thomas '
-      lastname: Boraud
-    institution: Université de Bordeaux, France
-    key: institution
-    next: Université de Bordeaux, France
-    prev: Université Bordeaux, France
-  - id:
-      firstname: 'Patrick '
-      lastname: Haggard
-    institution: University College of London (UCL), United Kingdom
-    key: institution
-    next: University College of London (UCL), United Kingdom
-    positions:
-      - ''
-    prev: University College London, United Kingdom
-  - google_scholar: >-
-      https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
-    id:
-      firstname: 'Etienne '
-      lastname: Koechlin
-    key: google_scholar
-    linkedin: https://fr.linkedin.com/in/etienne-koechlin-76476439
-    next: >-
-      https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
-    prev: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
-    researchgate: https://www.researchgate.net/profile/Etienne-Koechlin
-    twitter: '@KoechlinE'
-  - id:
-      firstname: Lasana
-      lastname: Harris
-    institution: University of Leiden,  Netherlands
-    key: institution
-    next: University of Leiden,  Netherlands
-    prev: University of Leiden, Netherlands
-  - id:
       firstname: Saadi
       lastname: Lahlou
     institution: Paris Institute for Advanced Study, France
@@ -700,14 +700,6 @@ conflicts:
     next: Paris Institute for Advanced Study, France
     positions: []
     prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: 'Bettina '
-      lastname: Laville
-    institution: Institut d'études de Paris, France
-    key: institution
-    next: Institut d'études de Paris, France
-    positions: []
-    prev: Comité 21, France
   - id:
       firstname: Saadi
       lastname: Lahlou
@@ -748,6 +740,14 @@ conflicts:
     next: ONG ONE, France
     positions: []
     prev: Ministère des Droits des femmes, France
+  - id:
+      firstname: 'Bettina '
+      lastname: Laville
+    institution: Institut d'études de Paris, France
+    key: institution
+    next: Institut d'études de Paris, France
+    positions: []
+    prev: Comité 21, France
   - id:
       firstname: Atrina
       lastname: Oraee
@@ -877,6 +877,32 @@ conflicts:
       - ''
     prev: London School Of Economics, United Kingdom
   - id:
+      firstname: Simon
+      lastname: Luck
+    institution: Paris Institute for Advanced Study, France
+    key: institution
+    next: Paris Institute for Advanced Study, France
+    positions:
+      - ''
+    prev: Paris Institute for Advanced Study
+  - id:
+      firstname: 'Sara '
+      lastname: 'Guindani '
+    institution: FMSH-Collège d’études mondiales, France
+    key: institution
+    next: FMSH-Collège d’études mondiales, France
+    positions: []
+    prev: FMSH - Collège d’études mondiales, France
+  - id:
+      firstname: 'Olaf '
+      lastname: 'Blanke '
+    institution: École polytechnique fédérale de Lausanne, Switzerland
+    key: institution
+    next: École polytechnique fédérale de Lausanne, Switzerland
+    positions:
+      - ''
+    prev: École polytechnique Lausanne, Switzerland
+  - id:
       firstname: 'Gretty '
       lastname: 'Mirdal '
     institution: Paris IAS, France
@@ -910,75 +936,6 @@ conflicts:
     positions:
       - ''
     prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: Simon
-      lastname: Luck
-    institution: Paris Institute for Advanced Study, France
-    key: institution
-    next: Paris Institute for Advanced Study, France
-    positions:
-      - ''
-    prev: Paris Institute for Advanced Study
-  - id:
-      firstname: 'Sara '
-      lastname: 'Guindani '
-    institution: FMSH-Collège d’études mondiales, France
-    key: institution
-    next: FMSH-Collège d’études mondiales, France
-    positions: []
-    prev: FMSH - Collège d’études mondiales, France
-  - id:
-      firstname: 'Olaf '
-      lastname: 'Blanke '
-    institution: École polytechnique fédérale de Lausanne, Switzerland
-    key: institution
-    next: École polytechnique fédérale de Lausanne, Switzerland
-    positions:
-      - ''
-    prev: École polytechnique Lausanne, Switzerland
-  - id:
-      firstname: Aron
-      lastname: Buzogany
-    institution: BOKU Vienna, Austria
-    key: institution
-    next: BOKU Vienna, Austria
-    positions:
-      - ''
-    prev: BOKU Vienna
-  - id:
-      firstname: Chloé
-      lastname: Kattar
-    institution: EUME - Berlin, Germany
-    key: institution
-    next: EUME - Berlin, Germany
-    positions:
-      - ''
-    prev: EUME - Berlin
-  - id:
-      firstname: Valentin
-      lastname: Behr
-    institution: Paris Institute for Advanced Study, France
-    key: institution
-    next: Paris Institute for Advanced Study, France
-    prev: Institut d'études avancées de Paris, France
-  - id:
-      firstname: Bruno
-      lastname: Ronchi
-    institution: Université Rennes 1, France
-    key: institution
-    next: Université Rennes 1, France
-    positions:
-      - ''
-    prev: Université Rennes 1
-  - id:
-      firstname: Jérôme
-      lastname: Pacouret
-    institution: CESSP-CNRS, France
-    key: institution
-    next: CESSP-CNRS, France
-    positions:
-      - ''
-    prev: CESSP
   - id:
       firstname: 'Jeremy '
       lastname: Moss
@@ -1044,6 +1001,49 @@ conflicts:
     key: institution
     next: Helmholtz Centre for Environmental Research – UFZ, Germany
     prev: Helmholtz Centre for Environmental Research – UFZ, Leipzig, Germany
+  - id:
+      firstname: Aron
+      lastname: Buzogany
+    institution: BOKU Vienna, Austria
+    key: institution
+    next: BOKU Vienna, Austria
+    positions:
+      - ''
+    prev: BOKU Vienna
+  - id:
+      firstname: Chloé
+      lastname: Kattar
+    institution: EUME - Berlin, Germany
+    key: institution
+    next: EUME - Berlin, Germany
+    positions:
+      - ''
+    prev: EUME - Berlin
+  - id:
+      firstname: Valentin
+      lastname: Behr
+    institution: Paris Institute for Advanced Study, France
+    key: institution
+    next: Paris Institute for Advanced Study, France
+    prev: Institut d'études avancées de Paris, France
+  - id:
+      firstname: Jérôme
+      lastname: Pacouret
+    institution: CESSP-CNRS, France
+    key: institution
+    next: CESSP-CNRS, France
+    positions:
+      - ''
+    prev: CESSP
+  - id:
+      firstname: Bruno
+      lastname: Ronchi
+    institution: Université Rennes 1, France
+    key: institution
+    next: Université Rennes 1, France
+    positions:
+      - ''
+    prev: Université Rennes 1
   - id:
       firstname: Gretty
       lastname: Mirdal
@@ -1135,15 +1135,6 @@ conflicts:
       - ''
     prev: Goriza Hospital
   - id:
-      firstname: Géraldine
-      lastname: Rauchs
-    institution: Inserm - Université de Caen, France
-    key: institution
-    next: Inserm - Université de Caen, France
-    positions:
-      - ''
-    prev: Inserm - Université de Caen
-  - id:
       firstname: Eus
       lastname: Van Someren
     institution: Netherlands Institute for Neuroscience, Netherlands
@@ -1152,6 +1143,15 @@ conflicts:
     positions:
       - ''
     prev: Netherlands Institute for Neuroscience
+  - id:
+      firstname: Géraldine
+      lastname: Rauchs
+    institution: Inserm - Université de Caen, France
+    key: institution
+    next: Inserm - Université de Caen, France
+    positions:
+      - ''
+    prev: Inserm - Université de Caen
   - id:
       firstname: 'Larry '
       lastname: Reynolds
@@ -1203,6 +1203,55 @@ conflicts:
     key: institution
     next: University of Leiden,  Netherlands
     prev: University of Leiden, Netherlands
+  - id:
+      firstname: Itzhak
+      lastname: Fried
+    institution: Paris Institute for Advanced Study, France
+    key: institution
+    next: Paris Institute for Advanced Study, France
+    prev: UCLA, USA / Université de Tel-Aviv, Israël
+  - id:
+      firstname: Itzhak
+      lastname: Fried
+    institution: University of California Los Angeles, USA
+    key: institution
+    next: University of California Los Angeles, USA
+    prev: Paris Institute for Advanced Study, France
+  - id:
+      firstname: 'Itzhak '
+      lastname: Fried
+    institution: University of California Los Angeles, USA
+    key: institution
+    next: University of California Los Angeles, USA
+    prev: UCLA, USA / Université de Tel-Aviv, Israël
+  - id:
+      firstname: 'Thomas '
+      lastname: Boraud
+    institution: Université de Bordeaux, France
+    key: institution
+    next: Université de Bordeaux, France
+    prev: Université Bordeaux, France
+  - google_scholar: >-
+      https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
+    id:
+      firstname: 'Etienne '
+      lastname: Koechlin
+    key: google_scholar
+    linkedin: https://fr.linkedin.com/in/etienne-koechlin-76476439
+    next: >-
+      https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
+    prev: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
+    researchgate: https://www.researchgate.net/profile/Etienne-Koechlin
+    twitter: '@KoechlinE'
+  - id:
+      firstname: 'Patrick '
+      lastname: Haggard
+    institution: University College of London (UCL), United Kingdom
+    key: institution
+    next: University College of London (UCL), United Kingdom
+    positions:
+      - ''
+    prev: University College London, United Kingdom
   - articles:
       - SynE3_2017_11_plasticity-of-empathy-and-prosocial-motivation
     firstname: 'Tania '
@@ -1335,55 +1384,6 @@ conflicts:
     key: institution
     next: Max Planck Institute for Human cognitive and Brain Sciences, Germany
     prev: Max Planck Institute for Human cognitive and Brain Sciences
-  - id:
-      firstname: Itzhak
-      lastname: Fried
-    institution: Paris Institute for Advanced Study, France
-    key: institution
-    next: Paris Institute for Advanced Study, France
-    prev: UCLA, USA / Université de Tel-Aviv, Israël
-  - id:
-      firstname: Itzhak
-      lastname: Fried
-    institution: University of California Los Angeles, USA
-    key: institution
-    next: University of California Los Angeles, USA
-    prev: Paris Institute for Advanced Study, France
-  - id:
-      firstname: 'Itzhak '
-      lastname: Fried
-    institution: University of California Los Angeles, USA
-    key: institution
-    next: University of California Los Angeles, USA
-    prev: UCLA, USA / Université de Tel-Aviv, Israël
-  - id:
-      firstname: 'Thomas '
-      lastname: Boraud
-    institution: Université de Bordeaux, France
-    key: institution
-    next: Université de Bordeaux, France
-    prev: Université Bordeaux, France
-  - google_scholar: >-
-      https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
-    id:
-      firstname: 'Etienne '
-      lastname: Koechlin
-    key: google_scholar
-    linkedin: https://fr.linkedin.com/in/etienne-koechlin-76476439
-    next: >-
-      https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
-    prev: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
-    researchgate: https://www.researchgate.net/profile/Etienne-Koechlin
-    twitter: '@KoechlinE'
-  - id:
-      firstname: 'Patrick '
-      lastname: Haggard
-    institution: University College of London (UCL), United Kingdom
-    key: institution
-    next: University College of London (UCL), United Kingdom
-    positions:
-      - ''
-    prev: University College London, United Kingdom
-createdAt: 2023-6-2 11:7:6
+createdAt: '2023-8-1 11:54:12'
 
 ---
