@@ -1,15 +1,15 @@
 import fs from 'fs'
-import { env } from 'process'
 import parseMD from 'parse-md'
 import { filterAndMerge, insertDocuments } from '../utils/contentUtilities'
 
-export default async (authors = [], articles, content, options) => {
+export default async (authors = [], articles, content) => {
   try {
     const chalk = require('chalk')
 
     const authorsDocuments = await content('authors', { deep: true }).fetch()
 
     const { first, second } = filterAndMerge(authors, authorsDocuments)
+
 
     const updatedAuthorsDocuments = [...(first || []), ...(second || [])].map(
       (item) => {
@@ -20,10 +20,7 @@ export default async (authors = [], articles, content, options) => {
         )
 
         const fileContents = item.path
-          ? fs.readFileSync(
-              'submodules/' + options.name + item.path + '.md',
-              'utf8'
-            )
+          ? fs.readFileSync('content' + item.path + '.md', 'utf8')
           : false
 
         const { content } = fileContents ? parseMD(fileContents) : false

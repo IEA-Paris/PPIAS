@@ -238,36 +238,10 @@ export default {
     // https://ackee.nuxtjs.org/
     '@nuxtjs/ackee',
     '@nuxtjs/composition-api/module',
+    // https://github.com/ch99q/nuxt-pdf
+    /*     '~/modules/nuxt-pdf', */
     '~/modules/publio',
   ],
-
-  // Modules: https://go.nuxtjs.dev/config-modules
-  modules: [
-    // https://go.nuxtjs.dev/axios
-    '@nuxtjs/axios',
-    // https://auth.nuxtjs.org/api/auth/
-    /*  '@nuxtjs/auth', */
-    // https://go.nuxtjs.dev/pwa
-    '@nuxtjs/pwa',
-    // https://go.nuxtjs.dev/content
-    '@nuxt/content',
-    // https://github.com/nuxt-community/i18n-module
-    '@nuxtjs/i18n',
-    // https://sitemap.nuxtjs.org/
-    '@nuxtjs/sitemap',
-    // https://github.com/nuxt-community/robots-module
-    '@nuxtjs/robots',
-
-    // https://sentry.nuxtjs.org/
-    '@nuxtjs/sentry',
-    // https://github.com/nuxt-community/apollo-module
-    /*  '@nuxtjs/apollo', */
-    // https://github.com/f/vue-wait
-    /*   ['vue-wait/nuxt', { useVuex: true }], */
-  ],
-  // XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-  // MODULES CONFIGURATIONS
-  // XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
   pdf: {
     /*
@@ -325,6 +299,34 @@ export default {
       titleTemplate: 'PIAS ─ %s',
     },
   },
+
+  // Modules: https://go.nuxtjs.dev/config-modules
+  modules: [
+    // https://go.nuxtjs.dev/axios
+    '@nuxtjs/axios',
+    // https://auth.nuxtjs.org/api/auth/
+    /*  '@nuxtjs/auth', */
+    // https://go.nuxtjs.dev/pwa
+    '@nuxtjs/pwa',
+    // https://go.nuxtjs.dev/content
+    '@nuxt/content',
+    // https://github.com/nuxt-community/i18n-module
+    '@nuxtjs/i18n',
+    // https://sitemap.nuxtjs.org/
+    '@nuxtjs/sitemap',
+    // https://github.com/nuxt-community/robots-module
+    '@nuxtjs/robots',
+
+    // https://sentry.nuxtjs.org/
+    '@nuxtjs/sentry',
+    // https://github.com/nuxt-community/apollo-module
+    /*  '@nuxtjs/apollo', */
+    // https://github.com/f/vue-wait
+    /*   ['vue-wait/nuxt', { useVuex: true }], */
+  ],
+  // XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  // MODULES CONFIGURATIONS
+  // XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
   /*
    ** Sentry module configuration
    ** https://github.com/nuxt-community/sentry-module#options
@@ -419,7 +421,6 @@ export default {
       'caption',
       'institution',
     ],
-    dir: 'submodules/' + config.name,
   },
 
   // Content hooks

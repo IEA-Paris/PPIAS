@@ -1,0 +1,193 @@
+---
+label: Article
+hide_body: false
+fields:
+- name: published
+  type: boolean
+  label: Published
+- name: needDOI
+  type: boolean
+  label: Does it need a generated DOI?
+  default: true
+  showOnly:
+    field: published
+    value: true
+- name: doi
+  type: text
+  config:
+    required: false
+  label: DOI
+  description: Since you don't need to generate a DOI, provide one here if you have
+    it (facultative).
+  showOnly:
+    field: needDOI
+    value: false
+- name: article_title
+  type: text
+  config:
+    required: true
+    min: 5
+    max: 200
+  label: Article Title
+- name: authors
+  type: field_group_list
+  fields:
+  - name: author
+    type: include
+    config: {}
+    template: author
+    label: Author
+  config:
+    min: 
+    max: 
+    labelField: lastname
+  label: Author(s)
+  showOnly:
+    value: true
+- name: custom_pdf
+  type: file
+  config:
+    maxSize: 64
+  label: Custom PDF
+  description: If used, the usual PDF will <strong>not </strong>be generated (ad the
+    file provided will be used instead)
+- name: abstract
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+    min: 12
+    max: 1500
+  label: Abstract
+- name: issue
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: issues
+      file: 
+      path: 
+  label: Issue
+- name: sub-issue
+  type: text
+  config:
+    required: false
+  label: Sub-issue
+  description: Make sure to strictly paste or copy the name of the subissue
+- name: picture
+  type: file
+  config:
+    maxSize: 64
+  label: Picture
+  description: Picture used as thumbnail and article splash. Not used if a youtube
+    ID is provided as thumbnail below.
+- name: picture_copyright
+  type: text
+  config:
+    required: false
+  label: Picture copyright
+- name: yt
+  type: text
+  config:
+    required: false
+  label: Youtube thumbnail
+  description: Add the ID of the youtube video you want it as a thumbnail &amp; article
+    splash. Leave empty if you want a regular thumbnail
+- name: highlight
+  type: boolean
+  label: Highlighted
+  description: Will try to use the best slots to display highlighted articles
+- name: keywords
+  type: tag_list
+  default: []
+  label: Keywords
+- name: date
+  type: datetime
+  label: Date
+  description: Seen as the publication date on the article
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: bibliography
+  type: file
+  config:
+    maxSize: 64
+  label: Bibliography
+  description: Insert a *.json file here
+- name: language
+  type: select
+  default: English
+  config:
+    required: true
+    options:
+    - English
+    - French
+    - German
+    - Italian
+    - Portuguese
+    - Dutch
+    - Russian
+    - Chinese
+    - Japanese
+    - Greek
+    - Spanish
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Language
+  description: The language of the article content (be it media or text).Fallback
+    on english
+- name: disciplines
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: english
+      file: i18n/en.json
+      path: rules
+  label: Disciplines
+pages:
+- content/articles/Agir en temps de crise - 2021/1. Crise sanitaire - Covid19.md
+- content/articles/Agir en temps de crise - 2021/3. Crise migratoire - Du global au
+  local.md
+- content/articles/Agir en temps de crise - 2021/6. Crise environnementale.md
+- content/articles/Guest Lectures/CER_2023.md
+- content/articles/Guest Lectures/Sorensen_2022.md
+- content/articles/HCERES - PFUE 2022/1.2.0_intro_Ochsner.md
+- content/articles/HCERES - PFUE 2022/2.1.4_Pozzo.md
+- content/articles/HCERES - PFUE 2022/2.2.2_Kulczycki.md
+- content/articles/HCERES - PFUE 2022/2.2.3_Spassova.md
+- content/articles/HCERES - PFUE 2022/2.2.4_Zanola.md
+- content/articles/HCERES - PFUE 2022/3.1.0_intro_Lombardo.md
+- content/articles/HCERES - PFUE 2022/3.1.2_Holm.md
+- content/articles/HCERES - PFUE 2022/3.1.3_Vanholsbeeck.md
+- content/articles/HCERES - PFUE 2022/3.2.0_intro_Kulczycki.md
+- content/articles/HCERES - PFUE 2022/3.2.1_Engels.md
+- content/articles/HCERES - PFUE 2022/3.2.2_Ochsner.md
+- content/articles/HCERES - PFUE 2022/3.2.3_Chevallier.md
+- content/articles/Paysages alimentaires/ALIM_2022_01_Programme.md
+- content/articles/Paysages alimentaires/ALIM_2022_02_introduction.md
+- content/articles/Paysages alimentaires/ALIM_2022_03_table-ronde1.md
+- content/articles/Paysages alimentaires/ALIM_2022_04_table-ronde2.md
+- content/articles/Paysages alimentaires/ALIM_2022_06_table-ronde3.md
+- content/articles/assessing-resilience/RES_2020_01_program.md
+- content/articles/crises-et-prophetes/PROP_2020_11_Discussion2.md
+- content/articles/crises-et-prophetes/PROP_2020_19_Discussion4.md
+- content/articles/identity-from-double-to-avatar/AVA_2018_10-round-table-discussion2.md
+- content/articles/intellectuals-against-democracy/INTEL_2022_01_Intellectuals against
+  liberal democracy - Program.md
+- content/articles/sleep-and-memory/SLEEP_2019_01_Sleep and memory - Program.md

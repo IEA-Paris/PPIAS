@@ -1,0 +1,59 @@
+---
+label: Issue
+hide_body: false
+fields:
+- name: name_of_the_issue
+  type: text
+  config:
+    required: true
+  label: Name of the issue
+- name: subtitle
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Subtitle
+- name: cover
+  type: file
+  config:
+    maxSize: 64
+  label: Cover
+- name: date
+  type: datetime
+  label: Date
+  description: Release date of the issue
+  config:
+    required: true
+    date_format: MM/YYYY
+    time_format: 
+    display_utc: false
+  default: now
+- name: sub-issues
+  type: field_group_list
+  fields:
+  - name: sub-issue
+    type: include
+    config: {}
+    template: subissue
+    label: Sub-issue
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Sub-issues
+- name: title
+  type: text
+  config:
+    required: true
+    min: 2
+    max: 32
+  label: Issue short name
+  description: Used in the issues filter and in the article component
+pages:
+- content/issues/Agir en temps de crise.md
+- content/issues/HCERES - PFUE 2022.md
+- content/issues/biens-communus.md
+- content/issues/paysages-alimentaires.md

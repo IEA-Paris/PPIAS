@@ -1,7 +1,7 @@
 import fs from 'fs'
 import parseMD from 'parse-md'
 import { mergeDeep, insertDocuments } from '../utils/contentUtilities'
-import config from '~/config'
+
 const filterAndMerge = (first, second) => {
   first = first.filter((author) => {
     // does it have a reference? (a reference is the path of the author document.
@@ -100,7 +100,6 @@ const filterAndMerge = (first, second) => {
 }
 
 export default async (content, options) => {
-  console.log('options: ', options)
   const chalk = require('chalk')
   const { $content } = require('@nuxt/content')
 
@@ -144,10 +143,7 @@ export default async (content, options) => {
     .flat()
   // include the document body from the original document to avoid a round trip md <> JSON AST
   authorsDocs = authorsDocs.map((doc) => {
-    const fileContents = fs.readFileSync(
-      'submodules/' + config.name + '/' + doc.path + '.md',
-      'utf8'
-    )
+    const fileContents = fs.readFileSync('content' + doc.path + '.md', 'utf8')
     const { content } = parseMD(fileContents)
     // remove the articles array from the doc
     delete doc.articles

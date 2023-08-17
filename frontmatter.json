@@ -1,0 +1,35 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.framework.id": "nuxt",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "translate",
+      "path": "[[workspace]]/tools/translate"
+    },
+    {
+      "title": "articles",
+      "path": "[[workspace]]/content/articles"
+    },
+    {
+      "title": "issues",
+      "path": "[[workspace]]/content/issues"
+    },
+    {
+      "title": "pages",
+      "path": "[[workspace]]/content/pages"
+    },
+    {
+      "title": "themes",
+      "path": "[[workspace]]/content/themes"
+    },
+    {
+      "title": "media",
+      "path": "[[workspace]]/content/media"
+    },
+    {
+      "title": "authors",
+      "path": "[[workspace]]/content/authors"
+    }
+  ]
+}
