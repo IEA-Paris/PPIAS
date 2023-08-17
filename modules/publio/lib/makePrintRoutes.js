@@ -8,7 +8,7 @@ export default (articles, options) => {
   })
   console.log('pdfArticles: ', pdfArticles.length)
   const thumbnailArticles = articles.filter(
-    (article) => !article.picture && !article.yt && article.todo.generateGraph
+    (article) => !article.picture && !article.yt && article?.todo?.generateGraph
   )
   console.log('thumbnailArticles: ', thumbnailArticles.length)
   return {
