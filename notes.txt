@@ -1,1 +1,0 @@
-- while it's ok to add guillements or other special chars to article title, it is passed as "caption" attribute/props to the youtube player, along with the special chars breaking it. First idea of fix: The value should be sanitized at component level?

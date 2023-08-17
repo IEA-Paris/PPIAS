@@ -6,6 +6,7 @@ import fs from 'fs'
 import yaml from 'js-yaml'
 import matter from 'gray-matter'
 import fsExtra from 'fs-extra'
+import config from '../../../config'
 import referenceRegex from './referenceRegex'
 /* import { Repository, Tree, Diff } from 'nodegit' */
 import slugify from './slugify'
@@ -412,7 +413,10 @@ export const deepEqual = (x, y) => {
 
 export const updateArticlesDoiAndZid = (documents) => {
   documents.forEach((document) => {
-    const data = fs.readFileSync('./content' + document.path + '.md', 'utf8')
+    const data = fs.readFileSync(
+      './submodules/' + config.name + document.path + '.md',
+      'utf8'
+    )
     const markdown = data.split('---')[2]
     const frontmatter = yaml.load(data.split('---')[1])
     if (
@@ -495,7 +499,9 @@ export const insertDocuments = (data, cat, filenameFlag) => {
   for (const folder of cat === 'articles'
     ? data.map((item) => item.issue.slice(15, -3))
     : '0123456789abcdefghijklmnopqrstuvwxyz') {
-    const folderPath = path.resolve('content/' + cat + '/' + folder)
+    const folderPath = path.resolve(
+      'submodules/' + config.name + '/' + cat + '/' + folder
+    )
     if (!fs.existsSync(folderPath)) {
       fs.mkdirSync(folderPath, { recursive: true })
     } else {
@@ -540,8 +546,16 @@ export const insertDocuments = (data, cat, filenameFlag) => {
     if (
       fs.existsSync(
         cat === 'articles'
-          ? './content/' + cat + '/' + fileName + '.md'
-          : './content/' + cat + '/' + fileName[0] + '/' + fileName + '.md'
+          ? './submodules/' + config.name + '/' + cat + '/' + fileName + '.md'
+          : './submodules/' +
+              config.name +
+              '/' +
+              cat +
+              '/' +
+              fileName[0] +
+              '/' +
+              fileName +
+              '.md'
       )
     ) {
       fileName = findFileName(fileName, 1)
@@ -550,8 +564,15 @@ export const insertDocuments = (data, cat, filenameFlag) => {
     }
     fs.writeFileSync(
       cat === 'articles'
-        ? './content/' + cat + '/' + fileName
-        : './content/' + cat + '/' + fileName[0] + '/' + fileName,
+        ? './submodules/' + config.name + '/' + cat + '/' + fileName
+        : './submodules/' +
+            config.name +
+            '/' +
+            cat +
+            '/' +
+            fileName[0] +
+            '/' +
+            fileName,
       `---
 ${yaml.dump(filteredDoc, { noRefs: true, sortKeys: true })}
 ---

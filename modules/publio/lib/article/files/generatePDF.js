@@ -1,10 +1,9 @@
 const fs = require('fs')
 const path = require('path')
 const puppeteer = require('puppeteer')
-
 const { PDFDocument: Document } = require('pdf-lib')
-let browser, response
 const chalk = require('chalk')
+let browser, response
 export default async (route, url, meta) => {
   try {
     console.log(

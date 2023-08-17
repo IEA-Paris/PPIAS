@@ -3,6 +3,7 @@
 
 // Utils
 import PQueue from 'p-queue'
+import config from '../../config'
 import diagnoseArticles from './lib/diagnoseArticles'
 import {
   insertDocuments,
@@ -44,7 +45,6 @@ import publishOnZenodo from './lib/article/disseminate/publishOnZenodo'
 
 // Others
 import tsvToArticles from './lib/tsvToArticles/tsvToArticles'
-
 const chalk = require('chalk')
 const defaults = require('./module.defaults')
 
@@ -110,14 +110,16 @@ export default function (moduleOptions) {
         url
       )
     }
-    console.log('STARTING DISSEMINATION', articles.length)
-    articles = await disseminate(
-      articles,
-      options,
-      zenodoQueue,
-      // METADATA/FRONTMATTER
-      [publishOnZenodo]
-    )
+    if (config.features.disseminate.Zenodo) {
+      console.log('STARTING DISSEMINATION', articles.length)
+      articles = await disseminate(
+        articles,
+        options,
+        zenodoQueue,
+        // METADATA/FRONTMATTER
+        [publishOnZenodo]
+      )
+    }
     return true
   })
 
@@ -139,9 +141,11 @@ export default function (moduleOptions) {
         url
       )
       console.log('files generated')
-      articles = await disseminate(articles, options, zenodoQueue, [
-        publishOnZenodo,
-      ])
+      if (config.features.disseminate.Zenodo) {
+        articles = await disseminate(articles, options, zenodoQueue, [
+          publishOnZenodo,
+        ])
+      }
     }
     return true
   })
@@ -154,7 +158,12 @@ export default function (moduleOptions) {
     articles = await diagnoseArticles(articles, url)
     console.log('articles content ready: ', articles.length)
 
-    authors = await mergeAndInsertAuthorsDocuments(authors, articles, content)
+    authors = await mergeAndInsertAuthorsDocuments(
+      authors,
+      articles,
+      content,
+      config
+    )
 
     console.log('conflict list: ', process.env.conflicts)
 
@@ -192,10 +201,12 @@ export default function (moduleOptions) {
       routesToPrint = makePrintRoutes(articles, options)
 
       // Upsert on Zenodo/OpenAire & get DOI is none is available
-      articles = await upsertOnZenodo(articles, options, zenodoQueue)
-      console.log('articles: ', articles.length)
+      if (config.features.disseminate.Zenodo) {
+        articles = await upsertOnZenodo(articles, options, zenodoQueue)
+        console.log('articles: ', articles.length)
 
-      updateArticlesDoiAndZid(articles)
+        updateArticlesDoiAndZid(articles)
+      }
     }
     return true
   })

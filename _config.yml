@@ -1,7 +1,0 @@
----
-title: PPIAS
-timezone: UTC
-collections:
-  posts:
-    title: Articles
-    output: true

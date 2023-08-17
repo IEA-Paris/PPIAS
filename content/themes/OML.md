@@ -1,5 +1,0 @@
----
-color: green
-name: OML
-
----

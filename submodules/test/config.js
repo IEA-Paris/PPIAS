@@ -46,7 +46,7 @@ export default {
       bibliography: true,
     },
     disseminate: {
-      Zenodo: false,
+      Zenodo: true,
     },
   },
   theme: {
