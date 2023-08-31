@@ -51,4 +51,4 @@ Une rencontre qui nous éclaire aussi sur nos rapports à la technologie, qui no
 
 
 
-<Youtube yt="ptf2b_RjDt4" caption ="Quelles technologies pour une société durable ?"></Youtube>
+<Youtube yt="ptf2b_RjDt4" caption ="Quelles technologies pour une société durable"></Youtube>

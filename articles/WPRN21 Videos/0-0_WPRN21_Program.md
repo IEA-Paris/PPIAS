@@ -43,7 +43,6 @@ highlight: false
 issue: content/issues/WPRN21 Videos.md
 keywords: []
 language: English
-
 needDOI: false
 picture: ''
 picture_copyright: ''

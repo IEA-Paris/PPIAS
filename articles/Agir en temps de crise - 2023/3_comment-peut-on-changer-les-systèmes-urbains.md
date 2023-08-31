@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "Comment peut-on changer les systèmes urbains ? "
 date: 2023-04-06T14:23:27.513Z
 needDOI: false
@@ -49,5 +49,4 @@ Les transitions en cours ont des impacts sévères sur les systèmes urbains. Al
 A travers l’exemple concret de la Ville de Paris et de la mise en place de son plan d’actions pour un Paris « durable », cet échange soulève aussi la question du rôle des crises comme accélérateur de changement.
 
 
-
-<Youtube yt="DiHdzfq_GQw" caption ="Comment peut-on changer les systèmes urbains ?"></Youtube>
+<Youtube yt="DiHdzfq_GQw" caption ="Comment peut-on changer les systèmes urbains"></Youtube>

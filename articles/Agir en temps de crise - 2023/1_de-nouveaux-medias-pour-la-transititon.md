@@ -53,4 +53,4 @@ Anatole Chouard nous livre son expérience de Youtubeur pour explorer les possib
 
 
 
-<Youtube yt="uNBY8vLzdNE" caption ="De nouveaux médias pour la transition ?"></Youtube>
+<Youtube yt="uNBY8vLzdNE" caption ="De nouveaux médias pour la transition"></Youtube>

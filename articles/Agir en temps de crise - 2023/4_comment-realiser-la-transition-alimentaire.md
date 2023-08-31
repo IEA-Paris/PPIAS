@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: Comment réaliser la transition alimentaire ?
 date: 2023-06-06T14:40:16.641Z
 needDOI: false
