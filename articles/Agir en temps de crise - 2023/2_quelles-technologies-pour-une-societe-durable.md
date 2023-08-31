@@ -43,7 +43,7 @@ abstract: 'Quelles technologies pour une société durable ? : rencontre du cycl
 issue: /content/issues/Agir en temps de crise.md
 yt: ptf2b_RjDt4
 highlight: true
-bibliography: /documents-exportés_cri-2023_2.bib
+bibliography: /documents-exportes_cri-2023_2.bib
 language: French
 ---
 La démarche low-tech apparaît comme une alternative à notre système de production et de consommation actuel, jouant un rôle important dans la transition vers une société durable. Comment sont mises en place ces technologies qui doivent permettre d’agir pour faire face aux crises et aux transitions ? Que recouvre ce terme ? Où et comment se développe la démarche low-tech? Quels sont ses effets sur les comportements en matière de transition ? Comment réaliser le passage à l’échelle, et le lien avec une approche industrielle? Les pouvoirs publics aident-ils à l’émergence de ces nouveaux modèles ? 
