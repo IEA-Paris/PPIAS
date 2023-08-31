@@ -368,7 +368,7 @@ collections:
           name: "issue",
           widget: "file",
           media_folder: "/issues",
-          public_folder: "/content/issues",
+          public_folder: "content/issues",
         }
       - {
           label: "Picture",

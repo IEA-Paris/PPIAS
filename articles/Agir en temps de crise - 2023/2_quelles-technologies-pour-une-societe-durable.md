@@ -40,7 +40,7 @@ abstract: 'Quelles technologies pour une société durable ? : rencontre du cycl
   "Agir en temps de crise - Pour des systèmes durables" organisée et animée par
   Séverine Mathieu, directrice d’études à l’EPHE-PSL et Saadi Lahlou, directeur
   de l’IEA de Paris'
-issue: /content/issues/Agir en temps de crise.md
+issue: content/issues/Agir en temps de crise.md
 yt: ptf2b_RjDt4
 highlight: true
 bibliography: /documents-exportes_cri-2023_2.bib

@@ -42,7 +42,7 @@ abstract: 'De nouveaux médias pour la transition ? : rencontre du cycle "Agir e
   temps de crise - Pour des systèmes durables" organisée et animée par Séverine
   Mathieu, directrice d’études à l’EPHE-PSL et Saadi Lahlou, directeur de l’IEA
   de Paris'
-issue: /content/issues/Agir en temps de crise.md
+issue: content/issues/Agir en temps de crise.md
 yt: uNBY8vLzdNE
 highlight: true
 bibliography: /documents-exportes_cri_2023_1.bib
