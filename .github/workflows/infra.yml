@@ -23,4 +23,4 @@ jobs:
           repo: IEA-Paris/PIAS
           token: ${{ secrets.SERVICE_USER_PAT }}
           ref: refs/heads/main
-          inputs: '{ "name": "PPIAS" }'
+          inputs: '{ "name": "PPIAS", "domain": "paris", "acm_certificate_arn": "arn:aws:acm:us-east-1:720928668014:certificate/35951fda-9368-462a-8c57-afe5c7556d41" }'
