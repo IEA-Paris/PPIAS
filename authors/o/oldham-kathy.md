@@ -14,9 +14,6 @@ positions_and_institutions:
   - institution: Greater Manchester
     positions:
       - Chief Resilience Officer
-titles_and_institutions:
-  '0':
-    institution: Greater Manchester Combined Authority, United Kingdom
 years:
   - 2020
 

@@ -14,9 +14,6 @@ positions_and_institutions:
   - institution: Università Cattolica di Milano, Italy
     positions:
       - ''
-titles_and_institutions:
-  '0':
-    institution: Università Cattolica di Milano, Italy
 years:
   - 2018
 

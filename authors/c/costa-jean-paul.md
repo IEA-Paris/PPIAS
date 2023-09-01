@@ -17,9 +17,6 @@ positions_and_institutions:
 social_channels:
   linkedin: https://fr.linkedin.com/in/jean-paul-costa-b6004364
   wikipedia: https://en.wikipedia.org/wiki/Jean-Paul_Costa
-titles_and_institutions:
-  '0':
-    institution: International Institute of Human Rights, France
 years:
   - 2017
 

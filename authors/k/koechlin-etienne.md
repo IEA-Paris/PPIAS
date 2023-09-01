@@ -27,9 +27,6 @@ social_channels:
   linkedin: https://fr.linkedin.com/in/etienne-koechlin-76476439
   researchgate: https://www.researchgate.net/profile/Etienne-Koechlin
   twitter: '@KoechlinE'
-titles_and_institutions:
-  '0':
-    institution: Ecole Normale Supérieure Paris, France
 years:
   - 2015
   - 2016

@@ -19,9 +19,6 @@ social_channels:
   orcid: 0000-0002-0796-7279
   researchgate: https://www.researchgate.net/profile/Scott-Atran-2
   wikipedia: https://en.wikipedia.org/wiki/Scott_Atran
-titles_and_institutions:
-  '0':
-    institution: University of Michigan, USA
 years:
   - 2017
 

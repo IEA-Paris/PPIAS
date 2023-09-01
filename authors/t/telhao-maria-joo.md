@@ -17,9 +17,6 @@ positions_and_institutions:
       - ''
 social_channels:
   researchgate: https://www.researchgate.net/profile/Maria-Telhado
-titles_and_institutions:
-  '0':
-    institution: City of Lisbon, Portugal
 years:
   - 2020
 

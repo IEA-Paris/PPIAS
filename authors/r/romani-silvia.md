@@ -16,9 +16,6 @@ positions_and_institutions:
       - ''
 social_channels:
   researchgate: https://www.researchgate.net/profile/Silvia-Romani-2
-titles_and_institutions:
-  '0':
-    institution: Università Statale di Milano, Italy
 years:
   - 2018
 

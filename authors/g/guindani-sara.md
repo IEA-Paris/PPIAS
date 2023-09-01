@@ -31,10 +31,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_institutions:
-  '0':
-    institution: FMSH-Collège d’études mondiales, France
-    positions: []
 years:
   - 2018
 

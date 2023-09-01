@@ -26,9 +26,6 @@ social_channels:
   researchgate: https://www.researchgate.net/profile/Tania-Singer
   website: https://taniasinger.de/
   wikipedia: https://en.wikipedia.org/wiki/Tania_Singer
-titles_and_institutions:
-  '0':
-    institution: Max Planck Institute for Human cognitive and Brain Sciences, Germany
 years:
   - 2017
 

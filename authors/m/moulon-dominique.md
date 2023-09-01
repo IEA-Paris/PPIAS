@@ -20,9 +20,6 @@ social_channels:
   twitter: '@dmoulon'
   website: https://www.dominiquemoulon.com/fr/
   wikipedia: https://fr.wikipedia.org/wiki/Dominique_Moulon
-titles_and_institutions:
-  '0':
-    institution: Paris, France
 years:
   - 2018
 

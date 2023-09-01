@@ -21,9 +21,6 @@ social_channels:
   researchgate: https://www.researchgate.net/profile/Abram-De-Swaan
   website: https://deswaan.com
   wikipedia: https://en.wikipedia.org/wiki/Abram_de_Swaan
-titles_and_institutions:
-  '0':
-    institution: University of Amsterdam, Netherlands
 years:
   - 2017
 

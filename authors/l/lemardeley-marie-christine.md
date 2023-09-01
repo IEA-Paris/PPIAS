@@ -18,9 +18,6 @@ positions_and_institutions:
     positions:
       - 'Maire adjointe '
       - ''
-titles_and_institutions:
-  '0':
-    institution: City of Paris, France
 years:
   - 2020
 

@@ -26,10 +26,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_institutions:
-  '0':
-    institution: Université Paris Diderot, France
-    positions: []
 years:
   - 2018
 

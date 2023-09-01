@@ -20,9 +20,6 @@ social_channels:
   twitter: '@mollycrockett'
   website: http://www.crockettlab.org/
   wikipedia: https://en.wikipedia.org/wiki/Molly_J._Crockett
-titles_and_institutions:
-  '0':
-    institution: University of Oxford, United Kingdom
 years:
   - 2017
 

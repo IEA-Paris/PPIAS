@@ -95,7 +95,7 @@ export default {
     zenodo: {
       token: process.env.ZENODO_TOKEN,
       sandboxToken: process.env.ZENODO_SANDBOX_TOKEN,
-      sandbox: false,
+      sandbox: true,
       community: "proceedings-of-the-institutes-for-advanced-studies",
     },
     image: {

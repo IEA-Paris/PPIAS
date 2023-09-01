@@ -16,9 +16,6 @@ positions_and_institutions:
       - ''
 social_channels:
   linkedin: https://de.linkedin.com/in/bastian-hoffmann-771a63155/en
-titles_and_institutions:
-  '0':
-    institution: European Institute for Energy Research, Germany
 years:
   - 2016
 

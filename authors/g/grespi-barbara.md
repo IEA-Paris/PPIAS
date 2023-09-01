@@ -26,10 +26,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_institutions:
-  '0':
-    institution: Università di Bergamo, Italy
-    positions: []
 years:
   - 2018
 

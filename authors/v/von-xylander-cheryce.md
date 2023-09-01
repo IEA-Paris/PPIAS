@@ -17,9 +17,6 @@ positions_and_institutions:
 social_channels:
   linkedin: https://de.linkedin.com/in/cheryce-von-xylander-2b04b61aa
   researchgate: https://www.researchgate.net/profile/Cheryce-Von-Xylander
-titles_and_institutions:
-  '0':
-    institution: Humboldt Universität zu Berlin, Germany
 years:
   - 2018
 

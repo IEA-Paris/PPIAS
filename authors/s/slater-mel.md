@@ -33,10 +33,6 @@ social_channels:
   twitter: '@melslater'
   website: http://www.melslater.me/
   wikipedia: ''
-titles_and_institutions:
-  '0':
-    institution: University of Barcelona, Spain
-    positions: []
 years:
   - 2018
   - 2022

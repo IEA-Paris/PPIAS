@@ -20,9 +20,6 @@ positions_and_institutions:
       - ''
 social_channels:
   wikipedia: https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Sironi
-titles_and_institutions:
-  '0':
-    institution: Université Paris 8 Saint-Denis, France
 years:
   - 2017
 

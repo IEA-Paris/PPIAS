@@ -14,9 +14,6 @@ positions_and_institutions:
   - institution: Basel University, Switzerland
     positions:
       - ''
-titles_and_institutions:
-  '0':
-    institution: Basel University, Switzerland
 years:
   - 2016
 

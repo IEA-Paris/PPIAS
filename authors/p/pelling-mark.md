@@ -19,9 +19,6 @@ social_channels:
   google_scholar: https://scholar.google.com/citations?user=nbuApuQAAAAJ&hl=en
   linkedin: https://uk.linkedin.com/in/mark-pelling-25207826
   researchgate: https://www.researchgate.net/profile/Mark-Pelling/4
-titles_and_institutions:
-  '0':
-    institution: King’s College, United Kingdom
 years:
   - 2020
 

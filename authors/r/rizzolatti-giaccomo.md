@@ -19,9 +19,6 @@ social_channels:
   linkedin: https://it.linkedin.com/in/giacomo-rizzolatti-34ba0727
   researchgate: https://www.researchgate.net/profile/Giacomo-Rizzolatti
   wikipedia: https://fr.wikipedia.org/wiki/Giacomo_Rizzolatti
-titles_and_institutions:
-  '0':
-    institution: University of Parma, Italy
 years:
   - 2017
 

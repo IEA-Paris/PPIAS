@@ -23,9 +23,6 @@ positions_and_institutions:
     positions:
       - ''
   - institution: Paris Institute for Advanced Studies, France
-titles_and_institutions:
-  '0':
-    institution: Paris Institute for Advanced Study, France
 years:
   - 2016
   - 2015

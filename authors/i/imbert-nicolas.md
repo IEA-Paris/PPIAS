@@ -17,9 +17,6 @@ positions_and_institutions:
 social_channels:
   linkedin: https://fr.linkedin.com/in/imbert
   twitter: '@technoscopie'
-titles_and_institutions:
-  '0':
-    institution: Green Cross France et Territoires, France
 years:
   - 2020
 

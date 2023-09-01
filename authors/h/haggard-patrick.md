@@ -23,11 +23,6 @@ social_channels:
   linkedin: https://uk.linkedin.com/in/haggard-patrick-853041153
   twitter: '@PatrickHaggard'
   wikipedia: https://en.wikipedia.org/wiki/Patrick_Haggard
-titles_and_institutions:
-  '0':
-    institution: Paris Institute for Advanced Study, France
-  '1':
-    institution: University College London, United Kingdom
 years:
   - 2015
   - 2016

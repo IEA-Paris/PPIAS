@@ -19,9 +19,6 @@ social_channels:
   linkedin: https://fr.linkedin.com/in/marie-d%C3%A9gremont-32b54232/fr
   researchgate: https://www.researchgate.net/profile/Marie-Degremont
   twitter: '@MDegremont'
-titles_and_institutions:
-  '0':
-    institution: Sciences Po, France
 years:
   - 2016
 

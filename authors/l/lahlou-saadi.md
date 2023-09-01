@@ -58,11 +58,9 @@ positions_and_institutions:
   - institution: London School Of Economics, United Kingdom
     positions:
       - Chair in Social Psychology
-      - ''
   - institution: Paris Institute of advanced study
     positions:
       - Director
-      - ''
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=awGy3asAAAAJ&hl=fr&oi=ao
@@ -80,9 +78,6 @@ tags:
   - History of Science and Medicine
   - Online conference
   - Microbes
-titles_and_institutions:
-  '0':
-    institution: Paris Institute for Advanced Study, France
 years:
   - 2021
   - 2022

@@ -24,7 +24,6 @@ social_channels:
   twitter: ''
   website: ''
   wikipedia: ''
-titles_and_institutions: []
 years:
   - 2020
 

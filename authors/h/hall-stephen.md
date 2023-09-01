@@ -20,9 +20,6 @@ social_channels:
   orcid: 0000-0002-1558-7081
   researchgate: https://www.researchgate.net/profile/Stephen-Hall-35
   twitter: '@DocSteveHall'
-titles_and_institutions:
-  '0':
-    institution: Leeds University, United Kingdom
 years:
   - 2016
 

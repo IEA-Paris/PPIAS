@@ -21,9 +21,6 @@ social_channels:
   orcid: 0000-0002-5897-8218
   researchgate: https://www.researchgate.net/profile/Thomas-Reverdy
   website: https://threverdy.wordpress.com/
-titles_and_institutions:
-  '0':
-    institution: Université de Grenoble, France
 years:
   - 2016
 

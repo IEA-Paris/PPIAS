@@ -20,10 +20,6 @@ lastname: Mirdal
 positions_and_institutions:
   - institution: Paris Institute for Advanced Study
     positions:
-      - ''
-titles_and_institutions:
-  '0':
-    institution: Paris Institute for Advanced Study, France
 years:
   - 2019
   - 2016

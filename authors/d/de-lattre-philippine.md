@@ -17,9 +17,6 @@ positions_and_institutions:
 social_channels:
   linkedin: https://fr.linkedin.com/in/philippinedelattre/fr
   researchgate: https://www.researchgate.net/profile/Philippine-De-Lattre
-titles_and_institutions:
-  '0':
-    institution: Les Greniers de l’Abondance, France
 years:
   - 2020
 

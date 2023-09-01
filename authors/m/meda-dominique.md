@@ -18,9 +18,6 @@ social_channels:
   linkedin: https://fr.linkedin.com/in/dominique-m%C3%A9da-90a51265
   researchgate: https://www.researchgate.net/profile/Dominique-Meda
   wikipedia: https://fr.wikipedia.org/wiki/Dominique_M%C3%A9da
-titles_and_institutions:
-  '0':
-    institution: University Paris Dauphine, France
 years:
   - 2020
 

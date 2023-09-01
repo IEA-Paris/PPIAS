@@ -23,9 +23,6 @@ social_channels:
   linkedin: https://fr.linkedin.com/in/brian-schiff-34651b9
   orcid: 0000-0003-2861-6926
   researchgate: https://www.researchgate.net/profile/Brian-Schiff
-titles_and_institutions:
-  '0':
-    institution: American University of Paris, France
 years:
   - 2017
 

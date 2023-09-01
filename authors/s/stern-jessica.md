@@ -12,9 +12,6 @@ language:
 lastname: Stern
 positions_and_institutions:
   - institution: Boston University, USA
-titles_and_institutions:
-  '0':
-    institution: Boston University, USA
 years:
   - 2017
 

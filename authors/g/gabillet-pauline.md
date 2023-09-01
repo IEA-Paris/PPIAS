@@ -17,9 +17,6 @@ positions_and_institutions:
       - ''
 social_channels:
   linkedin: https://fr.linkedin.com/in/pauline-gabillet-957b8197
-titles_and_institutions:
-  '0':
-    institution: Laboratoire Techniques Territoires et Societes (LATTS), France
 years:
   - 2016
 

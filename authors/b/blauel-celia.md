@@ -22,9 +22,6 @@ social_channels:
   linkedin: https://fr.linkedin.com/in/celia-blauel
   twitter: '@Celia_Blauel'
   wikipedia: https://fr.wikipedia.org/wiki/C%C3%A9lia_Blauel
-titles_and_institutions:
-  '0':
-    institution: Ville de Paris, France
 years:
   - 2020
   - 2016
