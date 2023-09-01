@@ -7,7 +7,6 @@ firstname: Marc
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
-issues: []
 language:
   - English
 lastname: Fleurbaey
@@ -15,7 +14,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Paris School of Economics, France
-    positions: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=3N5T0lEAAAAJ&hl=fr

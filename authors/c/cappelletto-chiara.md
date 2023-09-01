@@ -7,13 +7,9 @@ firstname: Chiara
 is_institution: false
 issue:
   - content/issues/identity-from-double-to-avatar.md
-issues: []
-language: null
 lastname: Cappelletto
 positions_and_institutions:
   - institution: Università Statale di Milano, Italy
-    positions:
-      - ''
 social_channels:
   twitter: '@ChiCappelletto'
 years:

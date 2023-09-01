@@ -7,7 +7,6 @@ firstname: Bruno
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise.md
-issues: []
 language:
   - French
 lastname: David
@@ -15,7 +14,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Muséum national d'histoire naturelle, France
-    positions: []
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=sIb4k-AAAAAJ&hl=fr
   instagram: ''

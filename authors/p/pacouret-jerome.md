@@ -8,13 +8,9 @@ firstname: Jérôme
 is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
-issues: []
-language: null
 lastname: Pacouret
 positions_and_institutions:
   - institution: CESSP
-    positions:
-      - ''
 social_channels:
   linkedin: >-
     https://fr.linkedin.com/in/j%C3%A9r%C3%B4me-pacouret-200071231/en?trk=people-guest_people_search-card

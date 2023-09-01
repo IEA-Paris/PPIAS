@@ -6,7 +6,6 @@ exerpt: ''
 firstname: Anne
 issue:
   - content/issues/Our Microbial Lives.md
-issues: []
 language:
   - French
 lastname: Pitkowski
@@ -14,7 +13,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Fromageries BEL, France
-    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

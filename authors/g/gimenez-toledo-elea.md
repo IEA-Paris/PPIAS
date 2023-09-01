@@ -6,7 +6,6 @@ exerpt: ''
 firstname: Elea
 issue:
   - content/issues/HCERES - PFUE 2022.md
-issues: []
 language:
   - English
 lastname: Giménez-Toledo
@@ -16,7 +15,6 @@ positions_and_institutions:
   - institution: >-
       Center for Human and Social Sciences (CCHS), Spanish National Research
       Council (CSIC), Spain
-    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

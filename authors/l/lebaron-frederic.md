@@ -6,7 +6,6 @@ exerpt: ''
 firstname: Frédéric
 issue:
   - content/issues/crises-et-prophetes.md
-issues: []
 language:
   - French
 lastname: Lebaron

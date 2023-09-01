@@ -7,7 +7,6 @@ firstname: Xiaobo
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
-issues: []
 language:
   - English
 lastname: Zhang
@@ -15,7 +14,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: International Food Policy Research Institute, China
-    positions: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=NL3kmU0AAAAJ&hl=en

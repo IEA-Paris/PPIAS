@@ -7,7 +7,6 @@ firstname: Raouf
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
-issues: []
 language:
   - English
 lastname: Boucekkine
@@ -15,9 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Aix-Marseille School of Economics, France
-    positions: []
   - institution: Rennes School of Business, France
-    positions: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=0vKu4P4AAAAJ&hl=fr

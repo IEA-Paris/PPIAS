@@ -7,13 +7,9 @@ firstname: Molly
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
-issues: []
-language: null
 lastname: Crockett
 positions_and_institutions:
   - institution: University of Oxford, United Kingdom
-    positions:
-      - ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=PgI_G_kAAAAJ&hl=en
   researchgate: https://www.researchgate.net/profile/Molly-Crockett/3

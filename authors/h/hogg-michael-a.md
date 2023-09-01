@@ -6,7 +6,6 @@ exerpt: ''
 firstname: Michael A.
 issue:
   - content/issues/hommage-serge-moscovici.md
-issues: []
 language:
   - English
 lastname: Hogg

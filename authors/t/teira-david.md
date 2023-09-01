@@ -6,7 +6,6 @@ exerpt: ''
 firstname: David
 issue:
   - content/issues/HCERES - PFUE 2022.md
-issues: []
 language:
   - English
 lastname: Teira
@@ -14,9 +13,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: BSPS Open
-    positions: []
   - institution: Sorbonne Université, France
-    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

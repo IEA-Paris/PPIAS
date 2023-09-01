@@ -8,13 +8,9 @@ firstname: Bruno
 is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
-issues: []
-language: null
 lastname: Ronchi
 positions_and_institutions:
   - institution: Université Rennes 1
-    positions:
-      - ''
 years:
   - 2022
 

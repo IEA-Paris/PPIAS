@@ -14,14 +14,11 @@ is_institution: false
 issue:
   - content/issues/territories-of-energy-transition.md
   - content/issues/justice-climate-transitions.md
-issues: []
 language:
   - English
 lastname: Reynolds
 positions_and_institutions:
   - institution: IEA de Paris, France
-    positions:
-      - ''
   - institution: Paris Institute for Advanced Studies, France
 years:
   - 2016

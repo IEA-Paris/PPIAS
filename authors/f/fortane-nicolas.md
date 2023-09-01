@@ -8,7 +8,6 @@ exerpt: ''
 firstname: Nicolas
 issue:
   - content/issues/Our Microbial Lives.md
-issues: []
 language:
   - French
 lastname: Fortané
@@ -16,7 +15,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: INRAE, France
-    positions: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=iJD2TRkAAAAJ&hl=fr

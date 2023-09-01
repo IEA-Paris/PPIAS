@@ -7,7 +7,6 @@ firstname: Marwan
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise.md
-issues: []
 language:
   - French
 lastname: Mohammed
@@ -15,7 +14,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: CNRS, France
-    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=VsCSBh8AAAAJ&hl=fr
   instagram: ''

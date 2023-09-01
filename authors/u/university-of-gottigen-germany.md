@@ -7,7 +7,6 @@ firstname: ''
 is_institution: true
 issue:
   - content/issues/paysages-alimentaires.md
-issues: []
 language:
   - French
 lastname: University of Göttigen, Germany

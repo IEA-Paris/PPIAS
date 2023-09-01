@@ -7,14 +7,11 @@ firstname: Richard
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
-issues: []
 language:
   - English
 lastname: Rechtman
 positions_and_institutions:
   - institution: EHESS, France
-    positions:
-      - ''
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=xLOgLnoAAAAJ&hl=fr
   researchgate: https://www.researchgate.net/profile/Richard-Rechtman

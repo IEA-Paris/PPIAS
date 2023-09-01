@@ -7,7 +7,6 @@ exerpt: ''
 firstname: Geoffrey
 issue:
   - content/issues/HCERES - PFUE 2022.md
-issues: []
 language:
   - English
 lastname: Williams
@@ -15,7 +14,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Université Bretagne Sud, France
-    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

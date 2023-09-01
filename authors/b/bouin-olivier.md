@@ -9,7 +9,6 @@ issue:
   - content/issues/HCERES - PFUE 2022.md
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
-issues: []
 language:
   - English
 lastname: Bouin
@@ -17,9 +16,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: RFIEA-NETIAS, France
-    positions: []
   - institution: RFIEA Foundation, France
-    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

@@ -7,7 +7,6 @@ exerpt: ''
 firstname: Ewa
 issue:
   - content/issues/hommage-serge-moscovici.md
-issues: []
 language:
   - English
 lastname: Drozda-Senkowska

@@ -14,8 +14,6 @@ issue:
   - content/issues/sleep-and-memory.md
   - content/issues/hommage-serge-moscovici.md
   - content/issues/brains-that-pull-the-triggers.md
-issues: []
-language: null
 lastname: Mirdal
 positions_and_institutions:
   - institution: Paris Institute for Advanced Study

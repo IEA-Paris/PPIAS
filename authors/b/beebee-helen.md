@@ -6,7 +6,6 @@ exerpt: ''
 firstname: Helen
 issue:
   - content/issues/HCERES - PFUE 2022.md
-issues: []
 language:
   - English
 lastname: Beebee
@@ -14,9 +13,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: BSPS Open
-    positions: []
   - institution: University of Leeds, United Kingdom
-    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

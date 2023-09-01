@@ -7,7 +7,6 @@ firstname: Elisa
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
-issues: []
 language:
   - English
 lastname: Reis
@@ -15,7 +14,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Federal University of Rio de Janeiro, Brazil
-    positions: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=TUg9_OUAAAAJ&hl=en

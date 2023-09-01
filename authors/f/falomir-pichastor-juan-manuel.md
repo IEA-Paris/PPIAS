@@ -6,7 +6,6 @@ exerpt: ''
 firstname: Juan Manuel
 issue:
   - content/issues/hommage-serge-moscovici.md
-issues: []
 language:
   - English
 lastname: Falomir- Pichastor

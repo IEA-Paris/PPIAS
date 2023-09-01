@@ -7,7 +7,6 @@ exerpt: ''
 firstname: Eemeli
 issue:
   - content/issues/hommage-serge-moscovici.md
-issues: []
 language:
   - English
 lastname: Hakoköngäs

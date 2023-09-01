@@ -16,9 +16,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Comité 21, France
-    positions: []
   - institution: Institut d'études avancées de Paris, France
-    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

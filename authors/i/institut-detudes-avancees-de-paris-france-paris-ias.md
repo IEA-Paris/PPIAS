@@ -27,7 +27,6 @@ issue:
   - content/issues/justice-climate-transitions.md
   - content/issues/sleep-and-memory.md
   - content/issues/virtual-realities.md
-issues: []
 language:
   - French
   - English
@@ -36,7 +35,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: ''
-    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

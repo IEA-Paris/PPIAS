@@ -7,7 +7,6 @@ firstname: Julie Lou
 is_institution: false
 issue:
   - content/issues/paysages-alimentaires.md
-issues: []
 language:
   - French
 lastname: Dubreuilh
@@ -15,7 +14,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Les Bergers urbains, France
-    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

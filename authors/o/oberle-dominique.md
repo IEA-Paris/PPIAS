@@ -7,7 +7,6 @@ exerpt: ''
 firstname: Dominique
 issue:
   - content/issues/hommage-serge-moscovici.md
-issues: []
 language:
   - English
 lastname: Oberlé

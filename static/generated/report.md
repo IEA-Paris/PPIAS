@@ -6,7 +6,6 @@ conflicts:
     institution: Institut d'études avancées de Paris, France
     key: institution
     next: Institut d'études avancées de Paris, France
-    positions: []
     prev: London School Of Economics, United Kingdom
   - id:
       firstname: Saadi
@@ -14,7 +13,6 @@ conflicts:
     institution: Paris Institute for Advanced Study, France
     key: institution
     next: Paris Institute for Advanced Study, France
-    positions: []
     prev: London School Of Economics, United Kingdom
   - id:
       firstname: Saadi
@@ -22,7 +20,6 @@ conflicts:
     institution: Institut d'études avancées de Paris, France
     key: institution
     next: Institut d'études avancées de Paris, France
-    positions: []
     prev: London School Of Economics, United Kingdom
   - id:
       firstname: Saadi
@@ -30,7 +27,6 @@ conflicts:
     institution: Institut d'études avancées de Paris, France
     key: institution
     next: Institut d'études avancées de Paris, France
-    positions: []
     prev: London School Of Economics, United Kingdom
   - id:
       firstname: Saadi
@@ -38,7 +34,6 @@ conflicts:
     institution: Institut d'études avancées de Paris, France
     key: institution
     next: Institut d'études avancées de Paris, France
-    positions: []
     prev: London School Of Economics, United Kingdom
   - id:
       firstname: Najat
@@ -46,7 +41,6 @@ conflicts:
     institution: ONG ONE, France
     key: institution
     next: ONG ONE, France
-    positions: []
     prev: Ministère des Droits des femmes, France
   - id:
       firstname: 'Bettina '
@@ -54,7 +48,6 @@ conflicts:
     institution: Institut d'études de Paris, France
     key: institution
     next: Institut d'études de Paris, France
-    positions: []
     prev: Comité 21, France
   - id:
       firstname: Atrina
@@ -71,7 +64,6 @@ conflicts:
     institution: 'ERC Scientific Council '
     key: institution
     next: 'ERC Scientific Council '
-    positions: []
     prev: ETH Zurich, Switzerland
   - id:
       firstname: Emanuel
@@ -79,7 +71,6 @@ conflicts:
     institution: Ministry of Education and Science, Poland
     key: institution
     next: Ministry of Education and Science, Poland
-    positions: []
     prev: Adam Mickiewicz University in Poznan, Poland
   - id:
       firstname: Saadi
@@ -117,7 +108,6 @@ conflicts:
     institution: European Alliance for Social Sciences and Humanities, France
     key: institution
     next: European Alliance for Social Sciences and Humanities, France
-    positions: []
     prev: RFIEA-NETIAS, France
   - id:
       firstname: Saadi
@@ -125,8 +115,6 @@ conflicts:
     institution: Institut d'études avancées de Paris
     key: institution
     next: Institut d'études avancées de Paris
-    positions:
-      - ''
     prev: London School Of Economics, United Kingdom
   - id:
       firstname: Saadi
@@ -141,8 +129,6 @@ conflicts:
     institution: King's College London, United Kingdom
     key: institution
     next: King's College London, United Kingdom
-    positions:
-      - ''
     prev: King's College London
   - id:
       firstname: Stéphane
@@ -172,8 +158,6 @@ conflicts:
     next: >-
       Institut d'études avancées de Paris, France / London School of Economics,
       United Kingdom
-    positions:
-      - ''
     prev: London School Of Economics, United Kingdom
   - id:
       firstname: 'Saadi '
@@ -181,8 +165,6 @@ conflicts:
     institution: IEA de Paris, France
     key: institution
     next: IEA de Paris, France
-    positions:
-      - ''
     prev: London School Of Economics, United Kingdom
   - id:
       firstname: Simon
@@ -190,8 +172,6 @@ conflicts:
     institution: Paris Institute for Advanced Study, France
     key: institution
     next: Paris Institute for Advanced Study, France
-    positions:
-      - ''
     prev: Paris Institute for Advanced Study
   - id:
       firstname: 'Sara '
@@ -199,7 +179,6 @@ conflicts:
     institution: FMSH-Collège d’études mondiales, France
     key: institution
     next: FMSH-Collège d’études mondiales, France
-    positions: []
     prev: FMSH - Collège d’études mondiales, France
   - id:
       firstname: 'Olaf '
@@ -207,8 +186,6 @@ conflicts:
     institution: École polytechnique fédérale de Lausanne, Switzerland
     key: institution
     next: École polytechnique fédérale de Lausanne, Switzerland
-    positions:
-      - ''
     prev: École polytechnique Lausanne, Switzerland
   - id:
       firstname: 'Gretty '
@@ -216,8 +193,6 @@ conflicts:
     institution: Paris IAS, France
     key: institution
     next: Paris IAS, France
-    positions:
-      - ''
     prev: Paris Institute for Advanced Study
   - id:
       firstname: ' Saadi'
@@ -232,8 +207,6 @@ conflicts:
     institution: London School of Economics, United Kingdom
     key: institution
     next: London School of Economics, United Kingdom
-    positions:
-      - ''
     prev: Paris Institute of advanced study
   - id:
       firstname: 'Saadi '
@@ -241,8 +214,6 @@ conflicts:
     institution: London School of Economics, United Kingdom
     key: institution
     next: London School of Economics, United Kingdom
-    positions:
-      - ''
     prev: London School Of Economics, United Kingdom
   - id:
       firstname: 'Jeremy '
@@ -250,8 +221,6 @@ conflicts:
     institution: University of New South Wales, Australia
     key: institution
     next: University of New South Wales, Australia
-    positions:
-      - ''
     prev: University of New South Wales, Sydney, Australia
   - id:
       firstname: 'Darrel '
@@ -315,8 +284,6 @@ conflicts:
     institution: BOKU Vienna, Austria
     key: institution
     next: BOKU Vienna, Austria
-    positions:
-      - ''
     prev: BOKU Vienna
   - id:
       firstname: Chloé
@@ -324,8 +291,6 @@ conflicts:
     institution: EUME - Berlin, Germany
     key: institution
     next: EUME - Berlin, Germany
-    positions:
-      - ''
     prev: EUME - Berlin
   - id:
       firstname: Valentin
@@ -340,8 +305,6 @@ conflicts:
     institution: CESSP-CNRS, France
     key: institution
     next: CESSP-CNRS, France
-    positions:
-      - ''
     prev: CESSP
   - id:
       firstname: Bruno
@@ -349,8 +312,6 @@ conflicts:
     institution: Université Rennes 1, France
     key: institution
     next: Université Rennes 1, France
-    positions:
-      - ''
     prev: Université Rennes 1
   - id:
       firstname: Itzhak
@@ -358,8 +319,6 @@ conflicts:
     institution: UCLA, USA / University of Tel-Aviv, Israël
     key: institution
     next: UCLA, USA / University of Tel-Aviv, Israël
-    positions:
-      - ''
     prev: UCLA, USA / Université de Tel-Aviv, Israël
   - id:
       firstname: Michael
@@ -367,8 +326,6 @@ conflicts:
     institution: CNRS - Collège de France, France
     key: institution
     next: CNRS - Collège de France, France
-    positions:
-      - ''
     prev: CNRS - Collège de France
   - id:
       firstname: Marie
@@ -376,8 +333,6 @@ conflicts:
     institution: CNRS - ESPCI Paris Tech - Cog'X, France
     key: institution
     next: CNRS - ESPCI Paris Tech - Cog'X, France
-    positions:
-      - ''
     prev: CNRS - ESPCI Paris Tech - Cog'X
   - id:
       firstname: Gretty
@@ -385,8 +340,6 @@ conflicts:
     institution: Paris Institute for Advanced Study, France
     key: institution
     next: Paris Institute for Advanced Study, France
-    positions:
-      - ''
     prev: Paris Institute for Advanced Study
   - id:
       firstname: Itzhak
@@ -394,8 +347,6 @@ conflicts:
     institution: UCLA, USA / University of Tel-Aviv, Israël
     key: institution
     next: UCLA, USA / University of Tel-Aviv, Israël
-    positions:
-      - ''
     prev: UCLA, USA / Université de Tel-Aviv, Israël
   - id:
       firstname: Mark
@@ -403,8 +354,6 @@ conflicts:
     institution: Swansea University, United Kingdom
     key: institution
     next: Swansea University, United Kingdom
-    positions:
-      - ''
     prev: Swansea University
   - id:
       firstname: Mark
@@ -412,8 +361,6 @@ conflicts:
     institution: Swansea University, United Kingdom
     key: institution
     next: Swansea University, United Kingdom
-    positions:
-      - ''
     prev: Swansea University
   - id:
       firstname: Julia
@@ -421,8 +368,6 @@ conflicts:
     institution: Swansea University, United Kingdom
     key: institution
     next: Swansea University, United Kingdom
-    positions:
-      - ''
     prev: Swansea University
   - id:
       firstname: Francesca
@@ -430,8 +375,6 @@ conflicts:
     institution: University of lausanne - CHUV, Switzerland
     key: institution
     next: University of lausanne - CHUV, Switzerland
-    positions:
-      - ''
     prev: University of lausanne - CHUV
   - id:
       firstname: Géraldine
@@ -439,8 +382,6 @@ conflicts:
     institution: Inserm - Université de Caen, France
     key: institution
     next: Inserm - Université de Caen, France
-    positions:
-      - ''
     prev: Inserm - Université de Caen
   - id:
       firstname: Eus
@@ -448,8 +389,6 @@ conflicts:
     institution: Netherlands Institute for Neuroscience, Netherlands
     key: institution
     next: Netherlands Institute for Neuroscience, Netherlands
-    positions:
-      - ''
     prev: Netherlands Institute for Neuroscience
   - id:
       firstname: Antonio
@@ -457,8 +396,6 @@ conflicts:
     institution: Goriza Hospital, Italy
     key: institution
     next: Goriza Hospital, Italy
-    positions:
-      - ''
     prev: Goriza Hospital
   - id:
       firstname: 'Pauline '
@@ -470,8 +407,6 @@ conflicts:
     next: >-
       Laboratoire Techniques Territoires et Societes (LATTS) / Université
       Gustave Eiffel, France
-    positions:
-      - ''
     prev: LATTS / Université Gustave Eiffel, France
   - id:
       firstname: 'Larry '
@@ -479,8 +414,6 @@ conflicts:
     institution: Paris Institute for Advanced Study, France
     key: institution
     next: Paris Institute for Advanced Study, France
-    positions:
-      - ''
     prev: IEA de Paris, France
   - id:
       firstname: 'Mel '
@@ -488,8 +421,6 @@ conflicts:
     institution: Universtity of Barcelona, Spain
     key: institution
     next: Universtity of Barcelona, Spain
-    positions:
-      - ''
     prev: University of Barcelona, Spain
   - google_scholar: https://scholar.google.com/citations?user=5gGSgcUAAAAJ&hl=fr
     id:
@@ -557,8 +488,6 @@ conflicts:
     institution: University College of London (UCL), United Kingdom
     key: institution
     next: University College of London (UCL), United Kingdom
-    positions:
-      - ''
     prev: University College London, United Kingdom
   - articles:
       - SynE3_2017_12_brains-on-drugs
@@ -663,8 +592,6 @@ conflicts:
     institution: Ecole Normale Supérieure Paris, France
     key: institution
     next: Ecole Normale Supérieure Paris, France
-    positions:
-      - ''
     prev: ENS Paris, France
   - articles:
       - >-
@@ -698,7 +625,6 @@ conflicts:
     institution: Paris Institute for Advanced Study, France
     key: institution
     next: Paris Institute for Advanced Study, France
-    positions: []
     prev: London School Of Economics, United Kingdom
   - id:
       firstname: Saadi
@@ -706,7 +632,6 @@ conflicts:
     institution: Institut d'études avancées de Paris, France
     key: institution
     next: Institut d'études avancées de Paris, France
-    positions: []
     prev: London School Of Economics, United Kingdom
   - id:
       firstname: Saadi
@@ -714,7 +639,6 @@ conflicts:
     institution: Institut d'études avancées de Paris, France
     key: institution
     next: Institut d'études avancées de Paris, France
-    positions: []
     prev: London School Of Economics, United Kingdom
   - id:
       firstname: Saadi
@@ -722,7 +646,6 @@ conflicts:
     institution: Institut d'études avancées de Paris, France
     key: institution
     next: Institut d'études avancées de Paris, France
-    positions: []
     prev: London School Of Economics, United Kingdom
   - id:
       firstname: Saadi
@@ -730,7 +653,6 @@ conflicts:
     institution: Institut d'études avancées de Paris, France
     key: institution
     next: Institut d'études avancées de Paris, France
-    positions: []
     prev: London School Of Economics, United Kingdom
   - id:
       firstname: Najat
@@ -738,7 +660,6 @@ conflicts:
     institution: ONG ONE, France
     key: institution
     next: ONG ONE, France
-    positions: []
     prev: Ministère des Droits des femmes, France
   - id:
       firstname: 'Bettina '
@@ -746,7 +667,6 @@ conflicts:
     institution: Institut d'études de Paris, France
     key: institution
     next: Institut d'études de Paris, France
-    positions: []
     prev: Comité 21, France
   - id:
       firstname: Atrina
@@ -763,7 +683,6 @@ conflicts:
     institution: 'ERC Scientific Council '
     key: institution
     next: 'ERC Scientific Council '
-    positions: []
     prev: ETH Zurich, Switzerland
   - id:
       firstname: Emanuel
@@ -771,7 +690,6 @@ conflicts:
     institution: Ministry of Education and Science, Poland
     key: institution
     next: Ministry of Education and Science, Poland
-    positions: []
     prev: Adam Mickiewicz University in Poznan, Poland
   - id:
       firstname: Saadi
@@ -809,7 +727,6 @@ conflicts:
     institution: European Alliance for Social Sciences and Humanities, France
     key: institution
     next: European Alliance for Social Sciences and Humanities, France
-    positions: []
     prev: RFIEA-NETIAS, France
   - id:
       firstname: Saadi
@@ -817,8 +734,6 @@ conflicts:
     institution: Institut d'études avancées de Paris
     key: institution
     next: Institut d'études avancées de Paris
-    positions:
-      - ''
     prev: London School Of Economics, United Kingdom
   - id:
       firstname: Saadi
@@ -833,8 +748,6 @@ conflicts:
     institution: King's College London, United Kingdom
     key: institution
     next: King's College London, United Kingdom
-    positions:
-      - ''
     prev: King's College London
   - id:
       firstname: Stéphane
@@ -864,8 +777,6 @@ conflicts:
     next: >-
       Institut d'études avancées de Paris, France / London School of Economics,
       United Kingdom
-    positions:
-      - ''
     prev: London School Of Economics, United Kingdom
   - id:
       firstname: 'Saadi '
@@ -873,8 +784,6 @@ conflicts:
     institution: IEA de Paris, France
     key: institution
     next: IEA de Paris, France
-    positions:
-      - ''
     prev: London School Of Economics, United Kingdom
   - id:
       firstname: Simon
@@ -882,8 +791,6 @@ conflicts:
     institution: Paris Institute for Advanced Study, France
     key: institution
     next: Paris Institute for Advanced Study, France
-    positions:
-      - ''
     prev: Paris Institute for Advanced Study
   - id:
       firstname: 'Sara '
@@ -891,7 +798,6 @@ conflicts:
     institution: FMSH-Collège d’études mondiales, France
     key: institution
     next: FMSH-Collège d’études mondiales, France
-    positions: []
     prev: FMSH - Collège d’études mondiales, France
   - id:
       firstname: 'Olaf '
@@ -899,8 +805,6 @@ conflicts:
     institution: École polytechnique fédérale de Lausanne, Switzerland
     key: institution
     next: École polytechnique fédérale de Lausanne, Switzerland
-    positions:
-      - ''
     prev: École polytechnique Lausanne, Switzerland
   - id:
       firstname: 'Gretty '
@@ -908,8 +812,6 @@ conflicts:
     institution: Paris IAS, France
     key: institution
     next: Paris IAS, France
-    positions:
-      - ''
     prev: Paris Institute for Advanced Study
   - id:
       firstname: ' Saadi'
@@ -924,8 +826,6 @@ conflicts:
     institution: London School of Economics, United Kingdom
     key: institution
     next: London School of Economics, United Kingdom
-    positions:
-      - ''
     prev: Paris Institute of advanced study
   - id:
       firstname: 'Saadi '
@@ -933,8 +833,6 @@ conflicts:
     institution: London School of Economics, United Kingdom
     key: institution
     next: London School of Economics, United Kingdom
-    positions:
-      - ''
     prev: London School Of Economics, United Kingdom
   - id:
       firstname: 'Jeremy '
@@ -942,8 +840,6 @@ conflicts:
     institution: University of New South Wales, Australia
     key: institution
     next: University of New South Wales, Australia
-    positions:
-      - ''
     prev: University of New South Wales, Sydney, Australia
   - id:
       firstname: 'Darrel '
@@ -1007,8 +903,6 @@ conflicts:
     institution: BOKU Vienna, Austria
     key: institution
     next: BOKU Vienna, Austria
-    positions:
-      - ''
     prev: BOKU Vienna
   - id:
       firstname: Chloé
@@ -1016,8 +910,6 @@ conflicts:
     institution: EUME - Berlin, Germany
     key: institution
     next: EUME - Berlin, Germany
-    positions:
-      - ''
     prev: EUME - Berlin
   - id:
       firstname: Valentin
@@ -1032,8 +924,6 @@ conflicts:
     institution: CESSP-CNRS, France
     key: institution
     next: CESSP-CNRS, France
-    positions:
-      - ''
     prev: CESSP
   - id:
       firstname: Bruno
@@ -1041,8 +931,6 @@ conflicts:
     institution: Université Rennes 1, France
     key: institution
     next: Université Rennes 1, France
-    positions:
-      - ''
     prev: Université Rennes 1
   - id:
       firstname: Gretty
@@ -1050,8 +938,6 @@ conflicts:
     institution: Paris Institute for Advanced Study, France
     key: institution
     next: Paris Institute for Advanced Study, France
-    positions:
-      - ''
     prev: Paris Institute for Advanced Study
   - id:
       firstname: Itzhak
@@ -1059,8 +945,6 @@ conflicts:
     institution: UCLA, USA / University of Tel-Aviv, Israël
     key: institution
     next: UCLA, USA / University of Tel-Aviv, Israël
-    positions:
-      - ''
     prev: UCLA, USA / Université de Tel-Aviv, Israël
   - id:
       firstname: Michael
@@ -1068,8 +952,6 @@ conflicts:
     institution: CNRS - Collège de France, France
     key: institution
     next: CNRS - Collège de France, France
-    positions:
-      - ''
     prev: CNRS - Collège de France
   - id:
       firstname: Marie
@@ -1077,8 +959,6 @@ conflicts:
     institution: CNRS - ESPCI Paris Tech - Cog'X, France
     key: institution
     next: CNRS - ESPCI Paris Tech - Cog'X, France
-    positions:
-      - ''
     prev: CNRS - ESPCI Paris Tech - Cog'X
   - id:
       firstname: Itzhak
@@ -1086,8 +966,6 @@ conflicts:
     institution: UCLA, USA / University of Tel-Aviv, Israël
     key: institution
     next: UCLA, USA / University of Tel-Aviv, Israël
-    positions:
-      - ''
     prev: UCLA, USA / Université de Tel-Aviv, Israël
   - id:
       firstname: Mark
@@ -1095,8 +973,6 @@ conflicts:
     institution: Swansea University, United Kingdom
     key: institution
     next: Swansea University, United Kingdom
-    positions:
-      - ''
     prev: Swansea University
   - id:
       firstname: Mark
@@ -1104,8 +980,6 @@ conflicts:
     institution: Swansea University, United Kingdom
     key: institution
     next: Swansea University, United Kingdom
-    positions:
-      - ''
     prev: Swansea University
   - id:
       firstname: Julia
@@ -1113,8 +987,6 @@ conflicts:
     institution: Swansea University, United Kingdom
     key: institution
     next: Swansea University, United Kingdom
-    positions:
-      - ''
     prev: Swansea University
   - id:
       firstname: Francesca
@@ -1122,8 +994,6 @@ conflicts:
     institution: University of lausanne - CHUV, Switzerland
     key: institution
     next: University of lausanne - CHUV, Switzerland
-    positions:
-      - ''
     prev: University of lausanne - CHUV
   - id:
       firstname: Antonio
@@ -1131,8 +1001,6 @@ conflicts:
     institution: Goriza Hospital, Italy
     key: institution
     next: Goriza Hospital, Italy
-    positions:
-      - ''
     prev: Goriza Hospital
   - id:
       firstname: Eus
@@ -1140,8 +1008,6 @@ conflicts:
     institution: Netherlands Institute for Neuroscience, Netherlands
     key: institution
     next: Netherlands Institute for Neuroscience, Netherlands
-    positions:
-      - ''
     prev: Netherlands Institute for Neuroscience
   - id:
       firstname: Géraldine
@@ -1149,8 +1015,6 @@ conflicts:
     institution: Inserm - Université de Caen, France
     key: institution
     next: Inserm - Université de Caen, France
-    positions:
-      - ''
     prev: Inserm - Université de Caen
   - id:
       firstname: 'Larry '
@@ -1158,8 +1022,6 @@ conflicts:
     institution: Paris Institute for Advanced Study, France
     key: institution
     next: Paris Institute for Advanced Study, France
-    positions:
-      - ''
     prev: IEA de Paris, France
   - id:
       firstname: 'Pauline '
@@ -1171,8 +1033,6 @@ conflicts:
     next: >-
       Laboratoire Techniques Territoires et Societes (LATTS) / Université
       Gustave Eiffel, France
-    positions:
-      - ''
     prev: LATTS / Université Gustave Eiffel, France
   - id:
       firstname: 'Mel '
@@ -1180,8 +1040,6 @@ conflicts:
     institution: Universtity of Barcelona, Spain
     key: institution
     next: Universtity of Barcelona, Spain
-    positions:
-      - ''
     prev: University of Barcelona, Spain
   - google_scholar: https://scholar.google.com/citations?user=5gGSgcUAAAAJ&hl=fr
     id:
@@ -1249,8 +1107,6 @@ conflicts:
     institution: University College of London (UCL), United Kingdom
     key: institution
     next: University College of London (UCL), United Kingdom
-    positions:
-      - ''
     prev: University College London, United Kingdom
   - articles:
       - SynE3_2017_11_plasticity-of-empathy-and-prosocial-motivation
@@ -1355,8 +1211,6 @@ conflicts:
     institution: Ecole Normale Supérieure Paris, France
     key: institution
     next: Ecole Normale Supérieure Paris, France
-    positions:
-      - ''
     prev: ENS Paris, France
   - articles:
       - >-

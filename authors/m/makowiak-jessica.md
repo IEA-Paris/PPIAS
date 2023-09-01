@@ -15,7 +15,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: CRIDEAU - Université de Limoges, France
-    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

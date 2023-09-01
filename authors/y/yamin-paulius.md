@@ -7,7 +7,6 @@ firstname: Paulius
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
-issues: []
 language:
   - English
 lastname: Yamin
@@ -15,7 +14,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: University of Pennsylvania, USA
-    positions: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=zO4EatkAAAAJ&hl=en

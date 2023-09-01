@@ -7,7 +7,6 @@ firstname: Alice
 issue:
   - content/issues/WPRN21 Papers.md
   - content/issues/WPRN21 Proceedings.md
-issues: []
 language:
   - English
 lastname: Moscaritolo
@@ -17,9 +16,7 @@ positions_and_institutions:
   - institution: >-
       Baby Early childhood in COntexts scientific interest grouping (BECO),
       France
-    positions: []
   - institution: EFTS, Toulouse Jean-Jaurès University, France
-    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

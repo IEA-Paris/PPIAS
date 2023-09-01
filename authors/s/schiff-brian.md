@@ -11,13 +11,9 @@ firstname: Brian
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
-issues: []
-language: null
 lastname: Schiff
 positions_and_institutions:
   - institution: American University of Paris, France
-    positions:
-      - ''
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=JkfC4MIAAAAJ&hl=fr
   linkedin: https://fr.linkedin.com/in/brian-schiff-34651b9

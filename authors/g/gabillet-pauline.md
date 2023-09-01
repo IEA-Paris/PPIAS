@@ -8,13 +8,9 @@ firstname: Pauline
 is_institution: false
 issue:
   - content/issues/territories-of-energy-transition.md
-issues: []
-language: null
 lastname: Gabillet
 positions_and_institutions:
   - institution: LATTS / Université Gustave Eiffel, France
-    positions:
-      - ''
 social_channels:
   linkedin: https://fr.linkedin.com/in/pauline-gabillet-957b8197
 years:

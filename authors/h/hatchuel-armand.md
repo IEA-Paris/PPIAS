@@ -14,7 +14,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Mines Paris - PSL, France
-    positions: []
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=0UQgWBcAAAAJ&hl=fr
   instagram: ''

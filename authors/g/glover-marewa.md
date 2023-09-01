@@ -7,7 +7,6 @@ firstname: Marewa
 issue:
   - content/issues/WPRN21 Papers.md
   - content/issues/WPRN21 Proceedings.md
-issues: []
 language:
   - English
 lastname: Glover
@@ -17,7 +16,6 @@ positions_and_institutions:
   - institution: >-
       Centre of Research Excellence: Indigenous Sovereignty & Smoking, Auckland,
       New Zealand
-    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

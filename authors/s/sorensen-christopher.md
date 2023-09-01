@@ -8,7 +8,6 @@ is_institution: false
 issue:
   - content/issues/Conferences.md
   - content/issues/guest_lectures.md
-issues: []
 language:
   - English
 lastname: Sorensen
@@ -16,7 +15,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: GreenLab, Denmark
-    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

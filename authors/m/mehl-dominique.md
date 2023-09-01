@@ -7,7 +7,6 @@ firstname: Dominique
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise.md
-issues: []
 language:
   - French
 lastname: Mehl
@@ -15,7 +14,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: CNRS, France
-    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

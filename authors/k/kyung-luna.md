@@ -7,7 +7,6 @@ firstname: Luna
 is_institution: false
 issue:
   - content/issues/paysages-alimentaires.md
-issues: []
 language:
   - French
 lastname: Kyung
@@ -15,7 +14,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Mango éditions, France
-    positions: []
 social_channels:
   google_scholar: ''
   instagram: '@luna_kyung_'

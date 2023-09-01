@@ -6,7 +6,6 @@ exerpt: ''
 firstname: Marc-André
 issue:
   - content/issues/Our Microbial Lives.md
-issues: []
 language:
   - French
 lastname: Selosse
@@ -16,7 +15,6 @@ positions_and_institutions:
   - institution: >-
       Institut de Systématique, Évolution, Biodiversité, Muséum national
       d'Histoire naturelle, France
-    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

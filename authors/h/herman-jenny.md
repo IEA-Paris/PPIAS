@@ -7,7 +7,6 @@ firstname: Jenny
 is_institution: false
 issue:
   - content/issues/paysages-alimentaires.md
-issues: []
 language:
   - French
 lastname: Herman
@@ -15,7 +14,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Katholieke Universiteit Leuven, Belgium
-    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

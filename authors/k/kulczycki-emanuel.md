@@ -8,7 +8,6 @@ firstname: Emanuel
 is_institution: false
 issue:
   - content/issues/HCERES - PFUE 2022.md
-issues: []
 language:
   - English
 lastname: Kulczycki
@@ -16,9 +15,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Adam Mickiewicz University in Poznan, Poland
-    positions: []
   - institution: Adam Mickiewicz University, Poland
-    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

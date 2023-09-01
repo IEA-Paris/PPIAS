@@ -46,7 +46,6 @@ issue:
   - content/issues/assessing-resilience.md
   - content/issues/crises-et-prophetes.md
   - content/issues/hommage-serge-moscovici.md
-issues: []
 language:
   - English
   - ''

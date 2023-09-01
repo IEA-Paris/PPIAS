@@ -6,7 +6,6 @@ exerpt: ''
 firstname: Alain
 issue:
   - content/issues/hommage-serge-moscovici.md
-issues: []
 language:
   - English
 lastname: Quiamzade

@@ -15,7 +15,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Université de Lausanne, Suisse
-    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=q_0On9cAAAAJ&hl=fr
   instagram: ''

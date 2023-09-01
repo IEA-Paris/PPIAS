@@ -11,13 +11,9 @@ firstname: Françoise
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
-issues: []
-language: null
 lastname: Sironi
 positions_and_institutions:
   - institution: Université Paris 8 Saint-Denis, France
-    positions:
-      - ''
 social_channels:
   wikipedia: https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Sironi
 years:

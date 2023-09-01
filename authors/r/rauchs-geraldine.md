@@ -7,13 +7,9 @@ firstname: Géraldine
 is_institution: false
 issue:
   - content/issues/sleep-and-memory.md
-issues: []
-language: null
 lastname: Rauchs
 positions_and_institutions:
   - institution: Inserm - Université de Caen
-    positions:
-      - ''
 social_channels:
   linkedin: https://fr.linkedin.com/in/g%C3%A9raldine-rauchs-2ab05b36
   researchgate: https://www.researchgate.net/profile/Geraldine-Rauchs

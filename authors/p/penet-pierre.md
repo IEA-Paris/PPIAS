@@ -9,13 +9,9 @@ firstname: Pierre
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
-issues: []
-language: null
 lastname: Pénet
 positions_and_institutions:
   - institution: Université de Genève, Suisse / Institut d’études avancées de Paris, France
-    positions:
-      - ''
 years:
   - 2020
 

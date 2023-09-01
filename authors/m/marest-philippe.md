@@ -6,7 +6,6 @@ exerpt: ''
 firstname: Philippe
 issue:
   - content/issues/assessing-resilience.md
-issues: []
 language:
   - French
 lastname: Marest

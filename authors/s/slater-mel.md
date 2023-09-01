@@ -14,15 +14,11 @@ is_institution: false
 issue:
   - content/issues/identity-from-double-to-avatar.md
   - content/issues/virtual-realities.md
-issues: []
-language: null
 lastname: Slater
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: University of Barcelona, Spain
-    positions:
-      - ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=5gGSgcUAAAAJ&hl=fr
   instagram: ''

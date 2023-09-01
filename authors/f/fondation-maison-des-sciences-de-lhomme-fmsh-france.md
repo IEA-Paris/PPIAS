@@ -9,7 +9,6 @@ is_institution: true
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/identity-from-double-to-avatar.md
-issues: []
 language:
   - English
 lastname: Fondation Maison des Sciences de l'Homme (FMSH), France

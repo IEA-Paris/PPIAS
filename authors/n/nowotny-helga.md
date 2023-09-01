@@ -9,7 +9,6 @@ issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/HCERES - PFUE 2022.md
   - content/issues/WPRN21 Conference.md
-issues: []
 language:
   - English
 lastname: Nowotny
@@ -17,9 +16,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: ETH Zurich, Switzerland
-    positions: []
   - institution: Swiss Federal Institute of Technology in Zürich (ETH Zurich), Switzerland
-    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

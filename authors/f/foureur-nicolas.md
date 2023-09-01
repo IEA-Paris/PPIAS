@@ -7,7 +7,6 @@ firstname: Nicolas
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise.md
-issues: []
 language:
   - French
 lastname: Foureur
@@ -15,7 +14,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Centre d'éthique clinique de l'AP-HP, France
-    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

@@ -6,7 +6,6 @@ exerpt: ''
 firstname: Simon
 issue:
   - content/issues/intellectuals-against-democracy.md
-issues: []
 language:
   - French
 lastname: Massei

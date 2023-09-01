@@ -7,8 +7,6 @@ firstname: Ariel
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
-issues: []
-language: null
 lastname: Weil
 positions_and_institutions:
   - institution: Ville de Paris, France

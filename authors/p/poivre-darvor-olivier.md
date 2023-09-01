@@ -15,7 +15,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Ministère de l'Europe et des Affaires étrangères, France
-    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

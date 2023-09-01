@@ -7,7 +7,6 @@ firstname: Nicolas
 is_institution: false
 issue:
   - content/issues/paysages-alimentaires.md
-issues: []
 language:
   - French
 lastname: Bricas
@@ -15,7 +14,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: CIRAD - Chaire Unesco Alimentations du Monde, France
-    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

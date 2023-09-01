@@ -24,14 +24,11 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
   - content/issues/identity-from-double-to-avatar.md
-issues: []
 language:
   - English
 lastname: Berthoz
 positions_and_institutions:
   - institution: Collège de France, France
-    positions:
-      - ''
 social_channels:
   linkedin: https://fr.linkedin.com/in/alain-berthoz-6ba8049
   researchgate: https://www.researchgate.net/profile/Alain-Berthoz

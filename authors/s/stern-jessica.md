@@ -6,7 +6,6 @@ exerpt: ''
 firstname: Jessica
 issue:
   - content/issues/brains-that-pull-the-triggers.md
-issues: []
 language:
   - English
 lastname: Stern

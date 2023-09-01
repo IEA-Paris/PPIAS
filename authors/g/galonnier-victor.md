@@ -18,7 +18,6 @@ exerpt: ''
 firstname: Victor
 issue:
   - content/issues/WPRN Memorandums.md
-issues: []
 language:
   - English
 lastname: Galonnier

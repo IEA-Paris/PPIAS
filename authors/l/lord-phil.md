@@ -7,7 +7,6 @@ firstname: Phil
 issue:
   - content/issues/WPRN21 Papers.md
   - content/issues/WPRN21 Proceedings.md
-issues: []
 language:
   - English
 lastname: Lord
@@ -15,7 +14,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Bora Laskin Faculty of Law, Lakehead University
-    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

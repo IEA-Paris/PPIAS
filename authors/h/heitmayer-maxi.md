@@ -8,7 +8,6 @@ firstname: Maxi
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
-issues: []
 language:
   - English
 lastname: Heitmayer

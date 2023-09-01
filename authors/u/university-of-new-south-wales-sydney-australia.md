@@ -7,7 +7,6 @@ firstname: ''
 is_institution: true
 issue:
   - content/issues/justice-climate-transitions.md
-issues: []
 language:
   - English
 lastname: University of New South Wales, Sydney, Australia

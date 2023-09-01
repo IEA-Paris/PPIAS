@@ -8,13 +8,9 @@ firstname: Fabio
 is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
-issues: []
-language: null
 lastname: De Sa E Silva
 positions_and_institutions:
   - institution: University of Oklahoma, USA
-    positions:
-      - ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=sljlCfsAAAAJ&hl=en
   orcid: 0000-0001-8753-7756

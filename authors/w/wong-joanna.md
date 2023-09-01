@@ -7,7 +7,6 @@ firstname: Joanna
 is_institution: false
 issue:
   - content/issues/paysages-alimentaires.md
-issues: []
 language:
   - French
 lastname: Wong
@@ -15,7 +14,6 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Collectif Enoki, France
-    positions: []
 social_channels:
   google_scholar: ''
   instagram: '@joannaw0ng'

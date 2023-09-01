@@ -7,7 +7,6 @@ exerpt: ''
 firstname: Serge
 issue:
   - content/issues/hommage-serge-moscovici.md
-issues: []
 language:
   - English
 lastname: Guimond
