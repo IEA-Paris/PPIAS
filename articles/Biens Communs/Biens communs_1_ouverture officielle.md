@@ -107,7 +107,6 @@ highlight: true
 issue: content/issues/biens-communus.md
 keywords: []
 language: French
-
 needDOI: false
 picture: ''
 picture_copyright: ''
