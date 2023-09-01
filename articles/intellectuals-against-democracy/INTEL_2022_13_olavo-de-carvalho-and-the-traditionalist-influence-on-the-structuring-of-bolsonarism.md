@@ -12,8 +12,6 @@ authors:
     lastname: Ronchi
     positions_and_institutions:
       - institution: Université Rennes 1, France
-        positions:
-          - ''
 date: 2022-06-03T02:00:00.000Z
 highlight: false
 issue: content/issues/intellectuals-against-democracy.md

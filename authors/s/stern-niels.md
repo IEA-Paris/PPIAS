@@ -2,11 +2,9 @@
 active: true
 articles:
   - 1-2-2_Stern
-exerpt: ''
 firstname: Niels
 issue:
   - content/issues/HCERES - PFUE 2022.md
-issues: []
 language:
   - English
 lastname: Stern

@@ -2,7 +2,6 @@
 active: true
 articles:
   - 4_comment-realiser-la-transition-alimentaire
-exerpt: ''
 firstname: François
 is_institution: false
 issue:

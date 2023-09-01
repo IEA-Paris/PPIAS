@@ -3,11 +3,9 @@ active: true
 articles:
   - >-
     MOSCO_2016_18_the-formation-processes-re-visited-the-importance-of-naturalized-representations
-exerpt: ''
 firstname: Rusten
 issue:
   - content/issues/hommage-serge-moscovici.md
-issues: []
 language:
   - English
 lastname: Menard

@@ -2,12 +2,10 @@
 active: true
 articles:
   - 3-2-1_Engels
-exerpt: ''
 firstname: Tim
 is_institution: false
 issue:
   - content/issues/HCERES - PFUE 2022.md
-issues: []
 language:
   - English
 lastname: Engels

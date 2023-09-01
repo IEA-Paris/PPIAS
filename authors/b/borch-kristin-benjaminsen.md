@@ -2,12 +2,10 @@
 active: true
 articles:
   - FP_Borch
-exerpt: ''
 firstname: Kristin Benjaminsen
 issue:
   - content/issues/WPRN21 Papers.md
   - content/issues/WPRN21 Proceedings.md
-issues: []
 language:
   - English
 lastname: Borch

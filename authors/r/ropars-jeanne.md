@@ -2,11 +2,9 @@
 active: true
 articles:
   - Our Microbial Lives - table-ronde 2
-exerpt: ''
 firstname: Jeanne
 issue:
   - content/issues/Our Microbial Lives.md
-issues: []
 language:
   - French
 lastname: Ropars

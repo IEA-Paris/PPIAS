@@ -18,20 +18,16 @@ articles:
     SynE3_2017_17_roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
   - SynE2_2016_01_program-2nd-conference
   - SynE2_2016_04_the-question-of-multiple-identities
-exerpt: ''
 firstname: Alain
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
   - content/issues/identity-from-double-to-avatar.md
-issues: []
 language:
   - English
 lastname: Berthoz
 positions_and_institutions:
   - institution: Collège de France, France
-    positions:
-      - ''
 social_channels:
   linkedin: https://fr.linkedin.com/in/alain-berthoz-6ba8049
   researchgate: https://www.researchgate.net/profile/Alain-Berthoz

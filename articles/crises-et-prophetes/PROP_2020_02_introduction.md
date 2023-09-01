@@ -10,15 +10,11 @@ authors:
     lastname: Lahlou
     positions_and_institutions:
       - institution: IEA de Paris, France
-        positions:
-          - ''
   - firstname: 'Stéphanie '
     is_institution: false
     lastname: Lacour
     positions_and_institutions:
       - institution: Université Paris-Saclay, France
-        positions:
-          - ''
     social_channels:
       linkedin: https://www.researchgate.net/profile/Stephanie-Lacour-2
   - firstname: 'Pierre '
@@ -28,8 +24,6 @@ authors:
       - institution: >-
           Université de Genève, Suisse / Institut d’études avancées de Paris,
           France
-        positions:
-          - ''
 date: 2020-12-10T01:00:00.000Z
 highlight: false
 issue: content/issues/crises-et-prophetes.md

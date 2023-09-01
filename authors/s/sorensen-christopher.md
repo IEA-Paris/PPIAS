@@ -2,13 +2,11 @@
 active: true
 articles:
   - Sorensen_2022
-exerpt: ''
 firstname: Christopher
 is_institution: false
 issue:
   - content/issues/Conferences.md
   - content/issues/guest_lectures.md
-issues: []
 language:
   - English
 lastname: Sorensen

@@ -10,8 +10,6 @@ authors:
       - institution: >-
           Paris Ouest Nanterre-la Défense University / Centre Edgar Morin IIAC
           EHESS-CNRS, France
-        positions:
-          - ''
 date: 2016-11-17T12:00:00.000Z
 highlight: false
 issue: content/issues/hommage-serge-moscovici.md

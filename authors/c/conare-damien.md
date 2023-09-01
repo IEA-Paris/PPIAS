@@ -2,12 +2,10 @@
 active: true
 articles:
   - ALIM_2022_06_table-ronde3
-exerpt: ''
 firstname: Damien
 is_institution: false
 issue:
   - content/issues/paysages-alimentaires.md
-issues: []
 language:
   - French
 lastname: Conaré

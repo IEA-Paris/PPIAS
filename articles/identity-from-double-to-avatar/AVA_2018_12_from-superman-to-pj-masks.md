@@ -10,8 +10,6 @@ authors:
     lastname: 'Cappelletto '
     positions_and_institutions:
       - institution: Università Statale di Milano, Italy
-        positions:
-          - ''
     social_channels:
       twitter: '@ChiCappelletto'
 date: 2018-12-14T11:00:00.000Z

@@ -10,8 +10,6 @@ authors:
     lastname: Pinotti
     positions_and_institutions:
       - institution: Università Statale di Milano, Italy
-        positions:
-          - ''
       - institution: Paris Institute for Advanced Study, France
     social_channels:
       google_scholar: https://scholar.google.it/citations?user=fa43KcgAAAAJ&hl=it
@@ -21,8 +19,6 @@ authors:
     lastname: Luck
     positions_and_institutions:
       - institution: Paris Institute for Advanced Study, France
-        positions:
-          - ''
     social_channels:
       linkedin: >-
         https://fr.linkedin.com/in/siluck?original_referer=https%3A%2F%2Fwww.google.com%2F

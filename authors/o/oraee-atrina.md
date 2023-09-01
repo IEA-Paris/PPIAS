@@ -2,11 +2,9 @@
 active: true
 articles:
   - ICA4
-exerpt: ''
 firstname: Atrina
 issue:
   - content/issues/Intercontinental Academia 4.md
-issues: []
 language:
   - English
 lastname: Oraee

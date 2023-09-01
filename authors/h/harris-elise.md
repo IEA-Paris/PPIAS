@@ -2,12 +2,10 @@
 active: true
 articles:
   - AVA_2018_10-round-table-discussion2
-exerpt: ''
 firstname: Elise
 is_institution: false
 issue:
   - content/issues/identity-from-double-to-avatar.md
-issues: []
 language:
   - English
 lastname: Harris

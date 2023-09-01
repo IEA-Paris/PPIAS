@@ -4,11 +4,9 @@ articles:
   - Our Microbial Lives - table-ronde 1 - Our Microbial Lives - table-ronde 3
   - Our Microbial Lives - table-ronde 1
   - Our Microbial Lives - table-ronde 3
-exerpt: ''
 firstname: Nicolas
 issue:
   - content/issues/Our Microbial Lives.md
-issues: []
 language:
   - French
 lastname: Fortané

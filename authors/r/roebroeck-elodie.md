@@ -3,11 +3,9 @@ active: true
 articles:
   - >-
     MOSCO_2016_11_connecting-social-representation-research-with-minority-influence
-exerpt: ''
 firstname: Elodie
 issue:
   - content/issues/hommage-serge-moscovici.md
-issues: []
 language:
   - English
 lastname: Roebroeck

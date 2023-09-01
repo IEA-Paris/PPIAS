@@ -2,11 +2,9 @@
 active: true
 articles:
   - MOSCO_2016_06_contexts-and-conditions-of-outgroup-influence
-exerpt: ''
 firstname: William D.
 issue:
   - content/issues/hommage-serge-moscovici.md
-issues: []
 language:
   - English
 lastname: Crano

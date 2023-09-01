@@ -21,22 +21,16 @@ authors:
       - institution: >-
           Université de Genève, Suisse / Institut d’études avancées de Paris,
           France
-        positions:
-          - ''
   - firstname: ' Ariel'
     is_institution: false
     lastname: ' Colonomos'
     positions_and_institutions:
       - institution: CERI-SciencesPo, France
-        positions:
-          - ''
   - firstname: 'Emmanuelle '
     is_institution: false
     lastname: Danblon
     positions_and_institutions:
       - institution: Université libre de Bruxelles, Belgium
-        positions:
-          - ''
 bibliography: /documents-exportes_prop06.bib
 date: 2020-12-10T05:00:00.000Z
 highlight: false

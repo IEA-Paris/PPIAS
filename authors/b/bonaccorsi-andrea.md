@@ -2,11 +2,9 @@
 active: true
 articles:
   - 2-1-1_Bonaccorsi
-exerpt: ''
 firstname: Andrea
 issue:
   - content/issues/HCERES - PFUE 2022.md
-issues: []
 language:
   - English
 lastname: Bonaccorsi

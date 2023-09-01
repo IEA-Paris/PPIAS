@@ -12,8 +12,6 @@ authors:
     lastname: Swartz
     positions_and_institutions:
       - institution: Boston University, USA
-        positions:
-          - ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=yA-G2CIAAAAJ&hl=en
       linkedin: https://www.linkedin.com/in/david-swartz-12524248

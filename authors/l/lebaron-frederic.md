@@ -2,11 +2,9 @@
 active: true
 articles:
   - PROP_2020_06_discussion
-exerpt: ''
 firstname: Frédéric
 issue:
   - content/issues/crises-et-prophetes.md
-issues: []
 language:
   - French
 lastname: Lebaron

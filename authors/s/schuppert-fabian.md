@@ -6,12 +6,10 @@ articles:
     justice-and-climate-transitions_7_risk-avoidance
   - justice-and-climate-transitions_7_risk-avoidance
   - justice-and-climate-transitions_5_table-ronde
-exerpt: ''
 firstname: Fabian
 is_institution: false
 issue:
   - content/issues/justice-climate-transitions.md
-issues: []
 language:
   - English
 lastname: Schuppert

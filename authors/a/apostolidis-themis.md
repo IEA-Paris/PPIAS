@@ -2,18 +2,14 @@
 active: true
 articles:
   - MOSCO_2016_24_future-issues-methods-and-themes
-exerpt: ''
 firstname: Themis
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
-issues: []
 language: null
 lastname: Apostolidis
 positions_and_institutions:
   - institution: University of Aix-Marseille, France
-    positions:
-      - ''
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=tCa2GB8AAAAJ&hl=fr
   linkedin: https://fr.linkedin.com/in/themis-apostolidis-381ab811

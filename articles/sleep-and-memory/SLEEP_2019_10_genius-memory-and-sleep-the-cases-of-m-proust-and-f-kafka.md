@@ -10,8 +10,6 @@ authors:
     lastname: Perciaccante
     positions_and_institutions:
       - institution: Goriza Hospital, Italy
-        positions:
-          - ''
     social_channels:
       linkedin: https://it.linkedin.com/in/antonio-perciaccante-547437110
       researchgate: https://www.researchgate.net/profile/Antonio-Perciaccante

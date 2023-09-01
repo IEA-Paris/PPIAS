@@ -2,12 +2,10 @@
 active: true
 articles:
   - 3-2-3_Chevallier
-exerpt: ''
 firstname: Coralie
 is_institution: false
 issue:
   - content/issues/HCERES - PFUE 2022.md
-issues: []
 language:
   - English
 lastname: Chevallier

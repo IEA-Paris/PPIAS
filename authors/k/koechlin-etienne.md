@@ -9,19 +9,15 @@ articles:
   - >-
     SynE3_2017_17_roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
   - SynE2_2016_10_rules-and-values
-exerpt: ''
 firstname: Etienne
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
-issues: []
 language:
   - English
 lastname: Koechlin
 positions_and_institutions:
   - institution: ENS Paris, France
-    positions:
-      - ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
   linkedin: https://fr.linkedin.com/in/etienne-koechlin-76476439

@@ -2,11 +2,9 @@
 active: true
 articles:
   - 2-0-0_intro_Colella
-exerpt: ''
 firstname: Silvana
 issue:
   - content/issues/HCERES - PFUE 2022.md
-issues: []
 language:
   - English
 lastname: Colella

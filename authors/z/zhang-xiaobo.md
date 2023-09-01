@@ -2,12 +2,10 @@
 active: true
 articles:
   - 2-0_WPRN21_Keynote 2
-exerpt: ''
 firstname: Xiaobo
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
-issues: []
 language:
   - English
 lastname: Zhang

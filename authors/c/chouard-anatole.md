@@ -2,7 +2,6 @@
 active: true
 articles:
   - 1_de-nouveaux-medias-pour-la-transititon
-exerpt: ''
 firstname: Anatole
 is_institution: false
 issue:

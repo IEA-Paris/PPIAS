@@ -10,8 +10,6 @@ authors:
     lastname: Pelling
     positions_and_institutions:
       - institution: King's College London, United Kingdom
-        positions:
-          - ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=nbuApuQAAAAJ&hl=en
       linkedin: https://uk.linkedin.com/in/mark-pelling-25207826

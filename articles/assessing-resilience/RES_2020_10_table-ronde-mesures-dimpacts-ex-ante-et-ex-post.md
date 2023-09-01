@@ -10,8 +10,6 @@ authors:
     lastname: Colombert
     positions_and_institutions:
       - institution: Efficacity, France
-        positions:
-          - ''
     social_channels:
       linkedin: https://fr.linkedin.com/in/morgane-colombert
       researchgate: https://www.researchgate.net/profile/Morgane-Colombert
@@ -21,8 +19,6 @@ authors:
     lastname: Delahais
     positions_and_institutions:
       - institution: Quadrant Conseil, France
-        positions:
-          - ''
     social_channels:
       linkedin: Thomas Delahais
       orcid: 0000-0002-0991-5085

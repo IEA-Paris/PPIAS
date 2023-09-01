@@ -11,8 +11,6 @@ authors:
     lastname: Sironi
     positions_and_institutions:
       - institution: Université Paris 8 Saint-Denis, France
-        positions:
-          - ''
     social_channels:
       wikipedia: https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Sironi
 date: 2017-05-10T03:00:00.000Z

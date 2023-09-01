@@ -13,8 +13,6 @@ authors:
     lastname: Singer
     positions_and_institutions:
       - institution: Max Planck Institute for Human cognitive and Brain Sciences
-        positions:
-          - ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=9m42c2cAAAAJ&hl=en
       linkedin: https://de.linkedin.com/in/prof-dr-tania-singer-a3b3b5190

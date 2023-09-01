@@ -4,12 +4,10 @@ articles:
   - FP2_Kothari - FP_Borch
   - FP2_Kothari
   - FP_Borch
-exerpt: ''
 firstname: Gerit
 issue:
   - content/issues/WPRN21 Papers.md
   - content/issues/WPRN21 Proceedings.md
-issues: []
 language:
   - English
 lastname: Pfuhl

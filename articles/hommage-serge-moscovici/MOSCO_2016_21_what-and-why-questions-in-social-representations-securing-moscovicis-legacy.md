@@ -8,8 +8,6 @@ authors:
     lastname: Gaskel
     positions_and_institutions:
       - institution: London School of Economics, United Kingdom
-        positions:
-          - ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=ObrRRDAAAAAJ&hl=en
       linkedin: https://uk.linkedin.com/in/george-gaskell-780b43a2

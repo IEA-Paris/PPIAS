@@ -2,11 +2,9 @@
 active: true
 articles:
   - MOSCO_2016_12_is-there-a-social-psychology-of-historic-grievances
-exerpt: ''
 firstname: Yechiel
 issue:
   - content/issues/hommage-serge-moscovici.md
-issues: []
 language:
   - English
 lastname: Klar

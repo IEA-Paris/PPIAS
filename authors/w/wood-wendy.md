@@ -2,11 +2,9 @@
 active: true
 articles:
   - MOSCO_2016_08_minorities-meanings-and-the-structure-of-group-influence
-exerpt: ''
 firstname: Wendy
 issue:
   - content/issues/hommage-serge-moscovici.md
-issues: []
 language:
   - English
 lastname: Wood

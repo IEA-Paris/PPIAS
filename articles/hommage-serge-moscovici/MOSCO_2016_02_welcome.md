@@ -10,15 +10,11 @@ authors:
     lastname: 'Mirdal '
     positions_and_institutions:
       - institution: Paris IAS, France
-        positions:
-          - ''
   - firstname: ' Juan '
     is_institution: false
     lastname: Perez
     positions_and_institutions:
       - institution: University of Valencia, Spain
-        positions:
-          - ''
     social_channels:
       linkedin: https://es.linkedin.com/in/juan-a-perez-564ba0a8
       researchgate: https://www.researchgate.net/profile/Juan-Perez-88
@@ -28,8 +24,6 @@ authors:
     positions_and_institutions:
       - institution: Paris Institute for Advanced Study, France
       - institution: London School of Economics, United Kingdom
-        positions:
-          - ''
 date: 2016-11-17T01:00:00.000Z
 highlight: false
 issue: content/issues/hommage-serge-moscovici.md

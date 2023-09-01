@@ -10,8 +10,6 @@ authors:
     lastname: 'Hoffmann '
     positions_and_institutions:
       - institution: European Institute for Energy Research, Germany
-        positions:
-          - ''
     social_channels:
       linkedin: https://de.linkedin.com/in/bastian-hoffmann-771a63155/en
 date: 2016-05-23T00:00:00.000Z

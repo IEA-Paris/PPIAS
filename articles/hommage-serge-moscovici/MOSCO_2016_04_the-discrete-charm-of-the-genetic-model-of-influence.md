@@ -10,8 +10,6 @@ authors:
     lastname: Papastamou
     positions_and_institutions:
       - institution: Panteion University of Social and Political Sciences, Greece
-        positions:
-          - ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=qUmLh9MAAAAJ&hl=fr
       linkedin: https://gr.linkedin.com/in/stamos-papastamou-87550555

@@ -11,8 +11,6 @@ authors:
     lastname: Tassin
     positions_and_institutions:
       - institution: Collège de France, France
-        positions:
-          - ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=LUTMosAAAAAJ&hl=fr
       linkedin: https://fr.linkedin.com/in/jean-pol-tassin-305398143

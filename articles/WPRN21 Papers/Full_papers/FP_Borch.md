@@ -72,8 +72,6 @@ authors:
       - institution: Imperial College London, United Kingdom
         positions: []
       - institution: London School of Hygiene & Tropical Medicine, United Kingdom
-        positions:
-          - ''
   - firstname: 'Katrine Jonna '
     lastname: Diab
     picture: ''

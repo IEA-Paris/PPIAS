@@ -2,18 +2,14 @@
 active: true
 articles:
   - SLEEP_2019_10_genius-memory-and-sleep-the-cases-of-m-proust-and-f-kafka
-exerpt: ''
 firstname: Antonio
 is_institution: false
 issue:
   - content/issues/sleep-and-memory.md
-issues: []
 language: null
 lastname: Perciaccante
 positions_and_institutions:
   - institution: Goriza Hospital
-    positions:
-      - ''
 social_channels:
   linkedin: https://it.linkedin.com/in/antonio-perciaccante-547437110
   researchgate: https://www.researchgate.net/profile/Antonio-Perciaccante

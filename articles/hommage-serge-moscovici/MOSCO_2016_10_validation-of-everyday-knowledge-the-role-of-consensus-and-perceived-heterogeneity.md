@@ -10,8 +10,6 @@ authors:
     lastname: Lopes
     positions_and_institutions:
       - institution: SCTE-IUL, CIS-IUL, Lisbon, Portugal
-        positions:
-          - ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=pVBhcfQAAAAJ&hl=en
       linkedin: https://pt.linkedin.com/in/diniz-lopes-2625ba21

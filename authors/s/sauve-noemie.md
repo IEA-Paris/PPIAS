@@ -2,12 +2,10 @@
 active: true
 articles:
   - ALIM_2022_03_table-ronde1
-exerpt: ''
 firstname: Noémie
 is_institution: false
 issue:
   - content/issues/paysages-alimentaires.md
-issues: []
 language:
   - French
 lastname: Sauve

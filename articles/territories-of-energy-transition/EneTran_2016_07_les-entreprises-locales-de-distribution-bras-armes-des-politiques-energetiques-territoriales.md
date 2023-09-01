@@ -14,8 +14,6 @@ authors:
       - institution: >-
           Laboratoire Techniques Territoires et Societes (LATTS) / Université
           Gustave Eiffel, France
-        positions:
-          - ''
     social_channels:
       linkedin: https://fr.linkedin.com/in/pauline-gabillet-957b8197
 date: 2016-05-23T05:00:00.000Z

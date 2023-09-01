@@ -2,11 +2,9 @@
 active: true
 articles:
   - 3-1-4_Kirman
-exerpt: ''
 firstname: Alan
 issue:
   - content/issues/HCERES - PFUE 2022.md
-issues: []
 language:
   - English
 lastname: Kirman

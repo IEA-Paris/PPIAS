@@ -8,8 +8,6 @@ authors:
     lastname: Personnaz
     positions_and_institutions:
       - institution: Centre Edgar Morin/ IIAC EHESS-CNRS, France
-        positions:
-          - ''
 bibliography: /documents-exportes_mosco_09.bib
 date: 2016-11-17T08:00:00.000Z
 highlight: false

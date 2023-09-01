@@ -12,8 +12,6 @@ authors:
     lastname: Hibou
     positions_and_institutions:
       - institution: CNRS / Sciences Po, CERI, France
-        positions:
-          - ''
     social_channels:
       researchgate: https://www.researchgate.net/profile/Beatrice-Hibou
       wikipedia: https://fr.wikipedia.org/wiki/B%C3%A9atrice_Hibou
@@ -22,15 +20,11 @@ authors:
     lastname: Laruelle
     positions_and_institutions:
       - institution: George Washington University, USA
-        positions:
-          - ''
   - firstname: Nicolas
     is_institution: false
     lastname: Lebourg
     positions_and_institutions:
       - institution: Université de Montpellier, France
-        positions:
-          - ''
     social_channels:
       google_scholar: https://scholar.google.fr/citations?user=NyI9T8AAAAAJ&hl=fr
       linkedin: https://fr.linkedin.com/in/nicolas-lebourg-15b656b3

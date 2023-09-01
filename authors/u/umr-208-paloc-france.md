@@ -2,12 +2,10 @@
 active: true
 articles:
   - ALIM_2022_01_Programme
-exerpt: ''
 firstname: ''
 is_institution: true
 issue:
   - content/issues/paysages-alimentaires.md
-issues: []
 language:
   - French
 lastname: UMR 208 PALOC, France

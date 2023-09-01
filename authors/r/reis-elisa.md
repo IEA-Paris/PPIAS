@@ -2,12 +2,10 @@
 active: true
 articles:
   - 5-0_WPRN21_Keynote 5
-exerpt: ''
 firstname: Elisa
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
-issues: []
 language:
   - English
 lastname: Reis

@@ -3,7 +3,6 @@ active: true
 articles:
   - Bien communs_1_ouverture officielle
   - Biens communs_1_ouverture officielle
-exerpt: ''
 firstname: Dominique
 is_institution: false
 issue:

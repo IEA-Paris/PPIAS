@@ -2,11 +2,9 @@
 active: true
 articles:
   - 1-1-2_Jermen
-exerpt: ''
 firstname: Nataša
 issue:
   - content/issues/HCERES - PFUE 2022.md
-issues: []
 language:
   - English
 lastname: Jermen

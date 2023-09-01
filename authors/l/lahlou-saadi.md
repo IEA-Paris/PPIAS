@@ -29,7 +29,6 @@ category:
   - content/categories/Fellows.md
   - content/categories/WPRN.md
   - content/categories/OML.md
-exerpt: ''
 firstname: Saadi
 is_institution: false
 issue:
@@ -46,7 +45,6 @@ issue:
   - content/issues/assessing-resilience.md
   - content/issues/crises-et-prophetes.md
   - content/issues/hommage-serge-moscovici.md
-issues: []
 language:
   - English
   - ''

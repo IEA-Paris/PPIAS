@@ -2,11 +2,9 @@
 active: true
 articles:
   - Our Microbial Lives - table-ronde 1
-exerpt: ''
 firstname: Anne
 issue:
   - content/issues/Our Microbial Lives.md
-issues: []
 language:
   - French
 lastname: Pitkowski

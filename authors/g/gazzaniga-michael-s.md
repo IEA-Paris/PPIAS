@@ -2,12 +2,10 @@
 active: true
 articles:
   - SynE1_2015_15_beliefs-and-brains-a-critical-balance
-exerpt: ''
 firstname: Michael S.
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
-issues: []
 language:
   - English
 lastname: Gazzaniga

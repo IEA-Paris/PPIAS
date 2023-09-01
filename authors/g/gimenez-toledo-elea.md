@@ -2,11 +2,9 @@
 active: true
 articles:
   - 1-1-1_Gimenez
-exerpt: ''
 firstname: Elea
 issue:
   - content/issues/HCERES - PFUE 2022.md
-issues: []
 language:
   - English
 lastname: Giménez-Toledo

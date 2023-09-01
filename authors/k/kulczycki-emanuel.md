@@ -3,12 +3,10 @@ active: true
 articles:
   - 2-2-2_Kulczycki
   - 3-2-0_intro_Kulczycki
-exerpt: ''
 firstname: Emanuel
 is_institution: false
 issue:
   - content/issues/HCERES - PFUE 2022.md
-issues: []
 language:
   - English
 lastname: Kulczycki

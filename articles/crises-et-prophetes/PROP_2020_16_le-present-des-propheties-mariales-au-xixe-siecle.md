@@ -12,8 +12,6 @@ authors:
     lastname: Barnay
     positions_and_institutions:
       - institution: Université de Lorraine, France
-        positions:
-          - ''
     social_channels:
       wikipedia: https://fr.wikipedia.org/wiki/Sylvie_Barnay
 bibliography: /documents-exportes_prop16.bib
