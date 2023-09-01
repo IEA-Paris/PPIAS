@@ -10,6 +10,8 @@ authors:
     lastname: Guindani
     positions_and_institutions:
       - institution: FMSH - Collège d’études mondiales, France
+        positions:
+          - ''
 date: 2018-12-14T08:00:00.000Z
 highlight: false
 issue: content/issues/identity-from-double-to-avatar.md

@@ -2,10 +2,12 @@
 active: true
 articles:
   - 8-0_WPRN21_Keynote 8
+exerpt: ''
 firstname: Enrique
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
+issues: []
 language:
   - English
 lastname: Fatas

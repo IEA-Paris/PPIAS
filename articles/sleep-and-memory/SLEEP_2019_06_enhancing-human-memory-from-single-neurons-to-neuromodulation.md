@@ -10,6 +10,8 @@ authors:
     lastname: Fried
     positions_and_institutions:
       - institution: UCLA, USA / University of Tel-Aviv, Israël
+        positions:
+          - ''
 date: 2019-06-06T04:00:00.000Z
 highlight: false
 issue: content/issues/sleep-and-memory.md

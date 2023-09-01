@@ -2,10 +2,12 @@
 active: true
 articles:
   - 1- 2013-2016  Lutter contre Ebola
+exerpt: ''
 firstname: Adboulaye
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise.md
+issues: []
 language:
   - French
 lastname: Touré

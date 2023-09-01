@@ -13,6 +13,8 @@ authors:
     lastname: Buzogany
     positions_and_institutions:
       - institution: BOKU Vienna, Austria
+        positions:
+          - ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=K1ACGKAAAAAJ&hl=en
       orcid: 0000-0002-9867-3742
@@ -22,6 +24,8 @@ authors:
     lastname: Varga
     positions_and_institutions:
       - institution: Freie Universität Berlin, Germany
+        positions:
+          - ''
     social_channels:
       linkedin: https://de.linkedin.com/in/mihai-varga-38b4541a3
       researchgate: https://www.researchgate.net/profile/Mihai-Varga-2

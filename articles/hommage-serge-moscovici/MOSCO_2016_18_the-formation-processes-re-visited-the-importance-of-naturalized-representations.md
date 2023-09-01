@@ -10,6 +10,8 @@ authors:
     lastname: Sakki
     positions_and_institutions:
       - institution: University of Helsinki, Finland
+        positions:
+          - ''
     social_channels:
       researchgate: https://www.researchgate.net/profile/Inari-Sakki
   - firstname: 'Rusten '

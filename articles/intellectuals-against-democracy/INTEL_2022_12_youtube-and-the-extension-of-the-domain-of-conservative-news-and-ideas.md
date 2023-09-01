@@ -10,6 +10,8 @@ authors:
     lastname: Pacouret
     positions_and_institutions:
       - institution: CESSP-CNRS, France
+        positions:
+          - ''
     social_channels:
       linkedin: >-
         https://fr.linkedin.com/in/j%C3%A9r%C3%B4me-pacouret-200071231/en?trk=people-guest_people_search-card

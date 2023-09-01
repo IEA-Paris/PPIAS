@@ -12,6 +12,7 @@ articles:
   - VIRT_2022_1_virtual-realities-real-experience-program
   - 0-0-1_ Programme colloque Hceres
   - 0-0_WPRN21_Program
+exerpt: ''
 firstname: Paris IAS
 is_institution: true
 issue:
@@ -26,6 +27,7 @@ issue:
   - content/issues/justice-climate-transitions.md
   - content/issues/sleep-and-memory.md
   - content/issues/virtual-realities.md
+issues: []
 language:
   - French
   - English

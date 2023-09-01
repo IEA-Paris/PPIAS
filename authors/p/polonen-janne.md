@@ -2,9 +2,11 @@
 active: true
 articles:
   - 2-1-3_Polonen
+exerpt: ''
 firstname: Janne
 issue:
   - content/issues/HCERES - PFUE 2022.md
+issues: []
 language:
   - English
 lastname: Pölönen

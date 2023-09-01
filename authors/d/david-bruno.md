@@ -2,10 +2,12 @@
 active: true
 articles:
   - 6- Crise environnementale
+exerpt: ''
 firstname: Bruno
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise.md
+issues: []
 language:
   - French
 lastname: David

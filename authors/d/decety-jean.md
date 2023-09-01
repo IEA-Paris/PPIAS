@@ -2,10 +2,12 @@
 active: true
 articles:
   - CER_2023
+exerpt: ''
 firstname: Jean
 is_institution: false
 issue:
   - content/issues/guest_lectures.md
+issues: []
 language:
   - French
 lastname: Decety

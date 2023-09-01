@@ -2,10 +2,12 @@
 active: true
 articles:
   - SynE1_2015_06_on-obedience-choice-and-accountability
+exerpt: ''
 firstname: Stephen
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
+issues: []
 language:
   - English
 lastname: Reicher

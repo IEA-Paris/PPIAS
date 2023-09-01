@@ -2,6 +2,7 @@
 active: true
 articles:
   - 4_comment-realiser-la-transition-alimentaire
+exerpt: ''
 firstname: Patrick
 is_institution: false
 issue:

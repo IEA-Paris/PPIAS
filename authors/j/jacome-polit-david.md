@@ -2,10 +2,12 @@
 active: true
 articles:
   - RES_2020-07_Round-table-Monitoring-and-steering
+exerpt: ''
 firstname: David
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+issues: []
 language: null
 lastname: Jácome-Pólit
 positions_and_institutions:

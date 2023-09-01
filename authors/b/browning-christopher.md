@@ -2,10 +2,12 @@
 active: true
 articles:
   - SynE1_2015_04_the-elusive-holocaust-perpetrator
+exerpt: ''
 firstname: Christopher
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
+issues: []
 language:
   - English
 lastname: Browning

@@ -4,9 +4,11 @@ articles:
   - Our Microbial Lives - table-ronde 2 - Our Microbial Lives - table-ronde 1
   - Our Microbial Lives - table-ronde 1
   - Our Microbial Lives - table-ronde 2
+exerpt: ''
 firstname: Élise
 issue:
   - content/issues/Our Microbial Lives.md
+issues: []
 language:
   - French
 lastname: Tancoigne

@@ -12,6 +12,8 @@ authors:
     lastname: Koehrsen
     positions_and_institutions:
       - institution: Basel University, Switzerland
+        positions:
+          - ''
 date: 2016-05-23T01:00:00.000Z
 highlight: false
 issue: content/issues/territories-of-energy-transition.md

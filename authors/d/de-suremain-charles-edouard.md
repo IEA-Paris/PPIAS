@@ -2,10 +2,12 @@
 active: true
 articles:
   - ALIM_2022_02_introduction
+exerpt: ''
 firstname: Charles-Édouard
 is_institution: false
 issue:
   - content/issues/paysages-alimentaires.md
+issues: []
 language:
   - French
 lastname: de Suremain

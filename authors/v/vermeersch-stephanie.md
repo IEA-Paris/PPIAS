@@ -2,6 +2,7 @@
 active: true
 articles:
   - 3_comment-peut-on-changer-les-systèmes-urbains
+exerpt: ''
 firstname: Stéphanie
 is_institution: false
 issue:

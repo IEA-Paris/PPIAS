@@ -2,10 +2,12 @@
 active: true
 articles:
   - RES_2020_04_Baseline-assessment-and-stocktaking-Roundtable
+exerpt: ''
 firstname: Nicolas
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+issues: []
 language: null
 lastname: Imbert
 positions_and_institutions:

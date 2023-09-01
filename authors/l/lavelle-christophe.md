@@ -2,10 +2,12 @@
 active: true
 articles:
   - ALIM_2022_03_table-ronde1
+exerpt: ''
 firstname: Christophe
 is_institution: false
 issue:
   - content/issues/paysages-alimentaires.md
+issues: []
 language:
   - French
 lastname: Lavelle

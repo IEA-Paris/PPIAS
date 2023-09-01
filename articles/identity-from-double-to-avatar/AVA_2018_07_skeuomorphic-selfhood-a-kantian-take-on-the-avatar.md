@@ -10,6 +10,8 @@ authors:
     lastname: von Xylander
     positions_and_institutions:
       - institution: Humboldt Universität zu Berlin, Germany
+        positions:
+          - ''
     social_channels:
       linkedin: https://de.linkedin.com/in/cheryce-von-xylander-2b04b61aa
       researchgate: https://www.researchgate.net/profile/Cheryce-Von-Xylander

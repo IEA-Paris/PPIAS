@@ -2,6 +2,7 @@
 active: true
 articles:
   - 2-0-1_Zic-Fuchs
+exerpt: ''
 firstname: Milena
 issue:
   - content/issues/HCERES - PFUE 2022.md

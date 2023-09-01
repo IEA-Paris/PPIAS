@@ -2,9 +2,11 @@
 active: true
 articles:
   - RES_2020_09_Assessing-Resilience-Work-in-Progress
+exerpt: ''
 firstname: Philippe
 issue:
   - content/issues/assessing-resilience.md
+issues: []
 language:
   - French
 lastname: Marest

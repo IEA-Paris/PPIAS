@@ -2,10 +2,12 @@
 active: true
 articles:
   - 1- Crise sanitaire - Covid19
+exerpt: ''
 firstname: Eric
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise.md
+issues: []
 language:
   - French
 lastname: Favereau

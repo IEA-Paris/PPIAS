@@ -2,10 +2,12 @@
 active: true
 articles:
   - RN4_Ervas
+exerpt: ''
 firstname: Rachele
 issue:
   - content/issues/WPRN21 Papers.md
   - content/issues/WPRN21 Proceedings.md
+issues: []
 language:
   - English
 lastname: Fanari

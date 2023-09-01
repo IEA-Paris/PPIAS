@@ -12,6 +12,8 @@ authors:
     lastname: Tisseron
     positions_and_institutions:
       - institution: Université Paris-Diderot, France
+        positions:
+          - ''
 date: 2020-07-17T04:00:00.000Z
 highlight: false
 issue: content/issues/assessing-resilience.md

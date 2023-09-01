@@ -2,10 +2,12 @@
 active: true
 articles:
   - 2_2008-2020 Qu a-t-on appris des crises economiques et financieres
+exerpt: ''
 firstname: Marc-Olivier
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise.md
+issues: []
 language:
   - French
 lastname: Strauss-Kahn

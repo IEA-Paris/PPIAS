@@ -5,6 +5,7 @@ articles:
   - Memorandum 14
   - Memorandum 13
   - Memorandum_10
+exerpt: ''
 firstname: Aurélie
 issue:
   - content/issues/WPRN Memorandums.md

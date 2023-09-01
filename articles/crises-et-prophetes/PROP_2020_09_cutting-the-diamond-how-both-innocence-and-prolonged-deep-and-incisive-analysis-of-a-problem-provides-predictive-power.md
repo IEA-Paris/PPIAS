@@ -13,6 +13,8 @@ authors:
     lastname: Pettifor
     positions_and_institutions:
       - institution: University of London, United of Kingdom
+        positions:
+          - ''
     social_channels:
       linkedin: https://uk.linkedin.com/in/ann-pettifor-64078b1
       twitter: '@AnnPettifor'

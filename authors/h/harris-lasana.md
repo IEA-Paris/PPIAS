@@ -2,10 +2,12 @@
 active: true
 articles:
   - SynE1_2015_07_deshumanised-perception
+exerpt: ''
 firstname: Lasana
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
+issues: []
 language:
   - English
 lastname: Harris

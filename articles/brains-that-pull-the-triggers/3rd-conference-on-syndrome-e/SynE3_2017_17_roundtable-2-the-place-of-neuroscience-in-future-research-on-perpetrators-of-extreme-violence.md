@@ -12,16 +12,22 @@ authors:
     lastname: ' Berthoz'
     positions_and_institutions:
       - institution: Collège de France, France
+        positions:
+          - ''
   - firstname: 'Itzhak '
     is_institution: false
     lastname: Fried
     positions_and_institutions:
       - institution: UCLA, USA / Université de Tel-Aviv, Israël
+        positions:
+          - ''
   - firstname: ' Etienne '
     is_institution: false
     lastname: Koechlin
     positions_and_institutions:
       - institution: Ecole Normale Supérieure Paris, France
+        positions:
+          - ''
   - firstname: 'Tania '
     lastname: Singer
     positions_and_institutions:
