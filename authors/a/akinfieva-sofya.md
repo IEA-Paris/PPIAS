@@ -2,10 +2,12 @@
 active: true
 articles:
   - FP4_Glover
+exerpt: ''
 firstname: Sofya
 issue:
   - content/issues/WPRN21 Papers.md
   - content/issues/WPRN21 Proceedings.md
+issues: []
 language:
   - English
 lastname: Akinfieva

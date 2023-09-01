@@ -2,10 +2,12 @@
 active: true
 articles:
   - RN2_omoyakaigo
+exerpt: ''
 firstname: Yuka
 issue:
   - content/issues/WPRN21 Papers.md
   - content/issues/WPRN21 Proceedings.md
+issues: []
 language:
   - English
 lastname: Omoya

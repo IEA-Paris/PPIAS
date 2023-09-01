@@ -2,6 +2,7 @@
 active: true
 articles:
   - 1_de-nouveaux-medias-pour-la-transititon
+exerpt: ''
 firstname: Dominique
 is_institution: false
 issue:

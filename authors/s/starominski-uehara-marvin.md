@@ -2,10 +2,12 @@
 active: true
 articles:
   - FP_Starominski
+exerpt: ''
 firstname: Marvin
 issue:
   - content/issues/WPRN21 Papers.md
   - content/issues/WPRN21 Proceedings.md
+issues: []
 language:
   - English
 lastname: Starominski-Uehara

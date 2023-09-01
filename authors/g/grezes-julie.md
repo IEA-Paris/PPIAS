@@ -3,10 +3,12 @@ active: true
 articles:
   - >-
     SynE1_2015_13_the-impact-of-group-affiliation-on-the-processing-of-others-emitted-social-signals
+exerpt: ''
 firstname: Julie
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
+issues: []
 language: null
 lastname: Grèzes
 positions_and_institutions:

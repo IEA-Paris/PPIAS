@@ -2,10 +2,12 @@
 active: true
 articles:
   - ALIM_2022_04_table-ronde2
+exerpt: ''
 firstname: Julie
 is_institution: false
 issue:
   - content/issues/paysages-alimentaires.md
+issues: []
 language:
   - French
 lastname: Lequin

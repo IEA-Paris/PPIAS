@@ -2,10 +2,12 @@
 active: true
 articles:
   - 1-0_WPRN21_Keynote 1
+exerpt: ''
 firstname: Raouf
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
+issues: []
 language:
   - English
 lastname: Boucekkine

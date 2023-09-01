@@ -3,11 +3,13 @@ active: true
 articles:
   - 3-1-1_Nowotny
   - 9-0_WPRN21_Closing Panel
+exerpt: ''
 firstname: Helga
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/HCERES - PFUE 2022.md
   - content/issues/WPRN21 Conference.md
+issues: []
 language:
   - English
 lastname: Nowotny

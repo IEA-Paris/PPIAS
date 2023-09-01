@@ -2,9 +2,11 @@
 active: true
 articles:
   - 1-2-3_Teira
+exerpt: ''
 firstname: David
 issue:
   - content/issues/HCERES - PFUE 2022.md
+issues: []
 language:
   - English
 lastname: Teira

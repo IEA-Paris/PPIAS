@@ -15,6 +15,8 @@ authors:
       - institution: >-
           Institute for Medical Psychology / Charité University Hospitals,
           Germany
+        positions:
+          - ''
     social_channels:
       linkedin: https://de.linkedin.com/in/babettegekeler
       website: https://www.babettegekeler.com/
@@ -23,6 +25,8 @@ authors:
     lastname: Friederici
     positions_and_institutions:
       - institution: 'Humboldt University, Germany '
+        positions:
+          - ''
     social_channels:
       researchgate: https://www.researchgate.net/profile/Kathrin-Friederici
 bibliography: /documents-exportes_mosco_14.bib

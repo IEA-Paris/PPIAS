@@ -2,10 +2,12 @@
 active: true
 articles:
   - SynE1_2015_05_analysing-massacre
+exerpt: ''
 firstname: Jacques
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
+issues: []
 language:
   - English
 lastname: Semelin

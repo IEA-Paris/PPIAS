@@ -18,11 +18,13 @@ articles:
     SynE3_2017_17_roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
   - SynE2_2016_01_program-2nd-conference
   - SynE2_2016_02_an-ordinary-guy-with-a-kalashnikov
+exerpt: ''
 firstname: Itzhak
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
   - content/issues/sleep-and-memory.md
+issues: []
 language: null
 lastname: Fried
 positions_and_institutions:

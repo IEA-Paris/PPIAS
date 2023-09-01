@@ -2,9 +2,11 @@
 active: true
 articles:
   - 2-1-2_Edmond
+exerpt: ''
 firstname: Jennifer
 issue:
   - content/issues/HCERES - PFUE 2022.md
+issues: []
 language:
   - English
 lastname: Edmond

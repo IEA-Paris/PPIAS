@@ -2,9 +2,11 @@
 active: true
 articles:
   - MOSCO_2016_07_the-impact-of-majority-and-minority-social-support
+exerpt: ''
 firstname: Juan Manuel
 issue:
   - content/issues/hommage-serge-moscovici.md
+issues: []
 language:
   - English
 lastname: Falomir- Pichastor

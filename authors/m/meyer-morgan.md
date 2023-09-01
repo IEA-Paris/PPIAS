@@ -2,6 +2,7 @@
 active: true
 articles:
   - 2_quelles-technologies-pour-une-societe-durable
+exerpt: ''
 firstname: Morgan
 is_institution: false
 issue:

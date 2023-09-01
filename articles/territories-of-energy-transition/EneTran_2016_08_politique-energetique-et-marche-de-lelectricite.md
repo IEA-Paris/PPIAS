@@ -12,6 +12,8 @@ authors:
     lastname: Reverdy
     positions_and_institutions:
       - institution: PACTE / Université de Grenoble, France
+        positions:
+          - ''
     social_channels:
       google_scholar: https://scholar.google.fr/citations?user=wOusOe4AAAAJ&hl=fr
       linkedin: >-

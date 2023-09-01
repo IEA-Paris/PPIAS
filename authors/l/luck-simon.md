@@ -4,16 +4,20 @@ articles:
   - Memorandum_01 - AVA_2018_02_welcoming-speech-and-introductory-remarks
   - Memorandum_01
   - AVA_2018_02_welcoming-speech-and-introductory-remarks
+exerpt: ''
 firstname: Simon
 is_institution: false
 issue:
   - content/issues/WPRN Memorandums.md
   - content/issues/identity-from-double-to-avatar.md
+issues: []
 language:
   - English
 lastname: Luck
 positions_and_institutions:
   - institution: Paris Institute for Advanced Study
+    positions:
+      - ''
   - positions: Scientific Director
 social_channels:
   linkedin: >-

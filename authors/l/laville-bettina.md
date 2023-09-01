@@ -4,6 +4,7 @@ articles:
   - Bien communs_1_ouverture officielle
   - Biens communs_2_clé juridique
   - Biens communs_1_ouverture officielle
+exerpt: ''
 firstname: Bettina
 is_institution: false
 issue:

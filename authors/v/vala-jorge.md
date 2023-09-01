@@ -3,9 +3,11 @@ active: true
 articles:
   - >-
     MOSCO_2016_10_validation-of-everyday-knowledge-the-role-of-consensus-and-perceived-heterogeneity
+exerpt: ''
 firstname: Jorge
 issue:
   - content/issues/hommage-serge-moscovici.md
+issues: []
 language:
   - English
 lastname: Vala

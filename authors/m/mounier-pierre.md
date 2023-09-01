@@ -2,9 +2,11 @@
 active: true
 articles:
   - 1-0-1_Mounier
+exerpt: ''
 firstname: Pierre
 issue:
   - content/issues/HCERES - PFUE 2022.md
+issues: []
 language:
   - English
 lastname: Mounier

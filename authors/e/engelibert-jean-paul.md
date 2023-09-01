@@ -2,14 +2,18 @@
 active: true
 articles:
   - PROP_2020_14_la-litterature-et-la-discordance-des-temps-
+exerpt: ''
 firstname: Jean-Paul
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
+issues: []
 language: null
 lastname: Engélibert
 positions_and_institutions:
   - institution: Université Bordeaux-Montaigne, France
+    positions:
+      - ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=8bp40UMAAAAJ&hl=fr
   linkedin: >-

@@ -2,10 +2,12 @@
 active: true
 articles:
   - FP4_Glover
+exerpt: ''
 firstname: Marewa
 issue:
   - content/issues/WPRN21 Papers.md
   - content/issues/WPRN21 Proceedings.md
+issues: []
 language:
   - English
 lastname: Glover

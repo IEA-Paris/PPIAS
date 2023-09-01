@@ -2,9 +2,11 @@
 active: true
 articles:
   - Our Microbial Lives - table-ronde 3
+exerpt: ''
 firstname: Pierre-Olivier
 issue:
   - content/issues/Our Microbial Lives.md
+issues: []
 language:
   - French
 lastname: Méthot

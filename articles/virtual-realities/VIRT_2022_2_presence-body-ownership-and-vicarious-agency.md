@@ -12,6 +12,8 @@ authors:
     lastname: Slater
     positions_and_institutions:
       - institution: Universtity of Barcelona, Spain
+        positions:
+          - ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=5gGSgcUAAAAJ&hl=fr
       linkedin: >-

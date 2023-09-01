@@ -10,6 +10,8 @@ authors:
     lastname: Fried
     positions_and_institutions:
       - institution: UCLA, USA / Université de Tel-Aviv, Israël
+        positions:
+          - ''
 date: 2017-05-10T00:00:00.000Z
 highlight: false
 issue: content/issues/brains-that-pull-the-triggers.md

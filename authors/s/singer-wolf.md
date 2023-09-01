@@ -2,10 +2,12 @@
 active: true
 articles:
   - SynE1_2015_09_the-coexistence-of-the-good-and-the-evil-in-a-single-brain
+exerpt: ''
 firstname: Wolf
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
+issues: []
 language:
   - English
 lastname: Singer

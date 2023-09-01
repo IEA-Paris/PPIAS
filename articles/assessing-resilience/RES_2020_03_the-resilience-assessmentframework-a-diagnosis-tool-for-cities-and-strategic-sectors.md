@@ -12,6 +12,8 @@ authors:
     lastname: Cardoso
     positions_and_institutions:
       - institution: Laboratoire du Génie Civil du Portugal
+        positions:
+          - ''
     social_channels:
       linkedin: https://pt.linkedin.com/in/maria-adriana-cardoso-47b7a911
       researchgate: https://www.researchgate.net/profile/Maria-Cardoso-21
@@ -20,6 +22,8 @@ authors:
     lastname: Telhao
     positions_and_institutions:
       - institution: City of Lisbon, Portugal
+        positions:
+          - ''
     social_channels:
       researchgate: https://www.researchgate.net/profile/Maria-Telhado
 date: 2020-07-15T01:00:00.000Z

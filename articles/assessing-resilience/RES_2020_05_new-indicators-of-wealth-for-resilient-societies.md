@@ -10,6 +10,8 @@ authors:
     lastname: Méda
     positions_and_institutions:
       - institution: Université Paris Dauphine, France
+        positions:
+          - ''
     social_channels:
       linkedin: https://fr.linkedin.com/in/dominique-m%C3%A9da-90a51265
       researchgate: https://www.researchgate.net/profile/Dominique-Meda
@@ -19,6 +21,8 @@ authors:
     lastname: Pagnon
     positions_and_institutions:
       - institution: Université Paris Dauphine, France
+        positions:
+          - ''
       - institution: IDDRI, France
     social_channels:
       linkedin: https://fr.linkedin.com/in/f%C3%A9licien-pagnon-17a303146

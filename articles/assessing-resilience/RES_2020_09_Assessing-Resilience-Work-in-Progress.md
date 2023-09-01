@@ -10,6 +10,8 @@ authors:
     lastname: Pagnon
     positions_and_institutions:
       - institution: Université Paris Dauphine, France
+        positions:
+          - ''
       - institution: IDDRI, France
     social_channels:
       linkedin: https://fr.linkedin.com/in/f%C3%A9licien-pagnon-17a303146
@@ -19,6 +21,8 @@ authors:
     lastname: Eck
     positions_and_institutions:
       - institution: Sciences Po Paris, Algoé Consultants, France
+        positions:
+          - ''
     social_channels:
       linkedin: https://fr.linkedin.com/in/melanieeck
       researchgate: https://www.researchgate.net/profile/Melanie-Eck
@@ -34,6 +38,8 @@ authors:
     lastname: Dorcéus
     positions_and_institutions:
       - institution: Rouge Vif territoires, France
+        positions:
+          - ''
     social_channels:
       linkedin: https://fr.linkedin.com/in/r%C3%A9becca-dorc%C3%A9us-a7916622
   - firstname: 'Marc  '
@@ -41,6 +47,8 @@ authors:
     lastname: Vuillet
     positions_and_institutions:
       - institution: EIVP, Lab’Urba, France
+        positions:
+          - ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=3EJuqXQAAAAJ&hl=fr
       linkedin: https://fr.linkedin.com/in/marc-vuillet-phd-90237546

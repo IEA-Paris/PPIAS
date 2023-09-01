@@ -10,6 +10,8 @@ authors:
     lastname: Zugaro
     positions_and_institutions:
       - institution: CNRS - Collège de France, France
+        positions:
+          - ''
     social_channels:
       google_scholar: https://scholar.google.fr/citations?user=h0KH2ZIAAAAJ&hl=fr
       website: http://zugarolab.net:8080/

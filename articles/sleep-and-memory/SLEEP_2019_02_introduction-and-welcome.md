@@ -8,6 +8,8 @@ authors:
     lastname: Mirdal
     positions_and_institutions:
       - institution: Paris Institute for Advanced Study, France
+        positions:
+          - ''
 date: 2019-06-06T00:00:00.000Z
 highlight: false
 issue: content/issues/sleep-and-memory.md

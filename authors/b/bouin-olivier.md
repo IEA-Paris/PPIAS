@@ -3,11 +3,13 @@ active: true
 articles:
   - 2-1-0_intro_Bouin
   - 9-0_WPRN21_Closing Panel
+exerpt: ''
 firstname: Olivier
 issue:
   - content/issues/HCERES - PFUE 2022.md
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
+issues: []
 language:
   - English
 lastname: Bouin

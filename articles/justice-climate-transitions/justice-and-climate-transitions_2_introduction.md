@@ -10,6 +10,8 @@ authors:
     lastname: Moss
     positions_and_institutions:
       - institution: University of New South Wales, Australia
+        positions:
+          - ''
 date: 2015-09-24T00:00:00.000Z
 highlight: false
 issue: content/issues/justice-climate-transitions.md

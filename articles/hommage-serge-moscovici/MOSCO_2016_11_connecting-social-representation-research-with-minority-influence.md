@@ -8,6 +8,8 @@ authors:
     lastname: Khamzina
     positions_and_institutions:
       - institution: Blaise Pascal University, France
+        positions:
+          - ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=7StCZzsAAAAJ&hl=fr
       linkedin: https://fr.linkedin.com/in/kamilla-khamzina-ph-d-9974551a6

@@ -17,6 +17,8 @@ authors:
     lastname: Diab
     positions_and_institutions:
       - institution: Ecole des ingénieurs de la Ville de Paris (EIVP), France
+        positions:
+          - ''
   - firstname: Saadi
     is_institution: false
     lastname: Lahlou
@@ -24,6 +26,8 @@ authors:
       - institution: >-
           Institut d'études avancées de Paris, France / London School of
           Economics, United Kingdom
+        positions:
+          - ''
 date: 2020-07-17T05:00:00.000Z
 highlight: false
 issue: content/issues/assessing-resilience.md

@@ -2,14 +2,18 @@
 active: true
 articles:
   - VIRT_2022_4_how-haptics-can-improve-subjective-experience-in-virtual-reality
+exerpt: ''
 firstname: Anatole
 is_institution: false
 issue:
   - content/issues/virtual-realities.md
+issues: []
 language: null
 lastname: Lecuyer
 positions_and_institutions:
   - institution: INRIA, France
+    positions:
+      - ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=x5rdD4IAAAAJ&hl=en
   linkedin: https://fr.linkedin.com/in/anatole-l%C3%A9cuyer-693805195

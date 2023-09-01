@@ -11,6 +11,8 @@ authors:
     lastname: Schiff
     positions_and_institutions:
       - institution: American University of Paris, France
+        positions:
+          - ''
     social_channels:
       google_scholar: https://scholar.google.fr/citations?user=JkfC4MIAAAAJ&hl=fr
       linkedin: https://fr.linkedin.com/in/brian-schiff-34651b9

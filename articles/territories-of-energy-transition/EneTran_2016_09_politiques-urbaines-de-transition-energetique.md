@@ -10,6 +10,8 @@ authors:
     lastname: Coutard
     positions_and_institutions:
       - institution: CNRS, LATTS / Université Gustave Eiffel, France
+        positions:
+          - ''
     social_channels:
       linkedin: https://fr.linkedin.com/in/olivier-coutard-9055368a
       researchgate: https://www.researchgate.net/profile/Olivier-Coutard

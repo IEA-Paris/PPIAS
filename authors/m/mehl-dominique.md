@@ -2,10 +2,12 @@
 active: true
 articles:
   - BIOET_2019_2_Procreation
+exerpt: ''
 firstname: Dominique
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise.md
+issues: []
 language:
   - French
 lastname: Mehl

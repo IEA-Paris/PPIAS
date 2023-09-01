@@ -2,10 +2,12 @@
 active: true
 articles:
   - RES_2020_08_poverty-inequalities-and-resilience
+exerpt: ''
 firstname: Julie
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+issues: []
 language: null
 lastname: Rozenberg
 positions_and_institutions:

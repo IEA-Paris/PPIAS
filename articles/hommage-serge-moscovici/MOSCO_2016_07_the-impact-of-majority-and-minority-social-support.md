@@ -12,6 +12,8 @@ authors:
     lastname: Lalot
     positions_and_institutions:
       - institution: University of Geneva, Switzerland
+        positions:
+          - ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=Q_LtXNAAAAAJ&hl=fr
       linkedin: https://ch.linkedin.com/in/fanny-lalot-91b33150

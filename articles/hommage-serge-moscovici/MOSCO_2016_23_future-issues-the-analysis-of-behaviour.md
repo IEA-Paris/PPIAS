@@ -8,6 +8,8 @@ authors:
     lastname: Lahlou
     positions_and_institutions:
       - institution: London School of Economics, United Kingdom
+        positions:
+          - ''
 date: 2016-11-18T07:00:00.000Z
 highlight: false
 issue: content/issues/hommage-serge-moscovici.md

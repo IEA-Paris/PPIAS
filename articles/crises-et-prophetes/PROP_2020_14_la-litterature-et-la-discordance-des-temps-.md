@@ -10,6 +10,8 @@ authors:
     lastname: 'Engélibert '
     positions_and_institutions:
       - institution: Université Bordeaux-Montaigne, France
+        positions:
+          - ''
     social_channels:
       google_scholar: https://scholar.google.com/citations?user=8bp40UMAAAAJ&hl=fr
       linkedin: >-

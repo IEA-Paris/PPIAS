@@ -10,6 +10,8 @@ authors:
     lastname: Berthoz
     positions_and_institutions:
       - institution: Collège de France, France
+        positions:
+          - ''
 date: 2018-12-13T02:00:00.000Z
 highlight: false
 issue: content/issues/identity-from-double-to-avatar.md
