@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1205083
-Zid: 1205083
+
 abstract: >-
   People who are reluctant to vaccinate have often been portrayed  as
   conspiracists in the media. Is this an anecdotal evidence ? A stable

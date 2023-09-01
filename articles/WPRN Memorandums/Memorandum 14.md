@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1205085
-Zid: 1205085
+
 abstract: >-
   Determining when a scientific discipline is ready to inform policy is knotty.
   To add to this complexity, criteria for determining whether the knowledge is

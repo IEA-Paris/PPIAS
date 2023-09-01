@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1205081
-Zid: 1205081
+
 abstract: >-
   The best innovations are useless if they don’t improve human welfare or if
   people don’t adopt them. Consider nuclear power: it’s a scalable, safe and

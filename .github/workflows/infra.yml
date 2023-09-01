@@ -3,9 +3,9 @@ name: Trigger PIAS Infrastructure
 on:
   push:
     branches:
-    - main
+      - main
     paths:
-    - infra/**
+      - infra/**
 
 jobs:
   PPIAS:

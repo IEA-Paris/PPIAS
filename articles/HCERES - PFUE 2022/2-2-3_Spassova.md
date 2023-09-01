@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1205063
-Zid: 1205063
+
 abstract: |-
   Evaluation of Social Sciences and Humanities in Europe. 
    Hcéres Colloquium Proceedings - Paris IAS, 16-17 May 2022. Session 2 "Multilingualism" - Evaluation of Multilingual Publications

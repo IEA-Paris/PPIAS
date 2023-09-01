@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1204991
-Zid: 1204991
+
 abstract: >-
   Histoire des pandémies - Peut-on apprendre des pandémies du passé ? :
   rencontre du cycle "Agir en temps de crise - Les grandes crises

@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1205099
-Zid: 1205099
+
 abstract: >-
   Adventures of Identity: From the Double to the Avatar. Paris IAS, 13-14
   December 2018 - Session 1 - Round-table discussion

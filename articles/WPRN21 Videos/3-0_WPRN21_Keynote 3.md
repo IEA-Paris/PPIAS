@@ -1,6 +1,5 @@
 ---
-DOI: 10.5072/zenodo.1205089
-Zid: 1205089
+
 abstract: >-
   WPRN21 Conference - Paris IAS, 9-10 December 2021. Keynote by Ted
   Loch-Temzelides 
