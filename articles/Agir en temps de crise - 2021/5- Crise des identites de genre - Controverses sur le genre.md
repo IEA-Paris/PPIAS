@@ -1,6 +1,4 @@
 ---
-DOI: 10.5281/zenodo.8314019
-Zid: 8314019
 abstract: >-
   Crise des Identités de Genre - Controverses sur le Genre : Mobilisations et
   Luttes en Temps de Crise : rencontre du cycle "Agir en temps de crise - Les

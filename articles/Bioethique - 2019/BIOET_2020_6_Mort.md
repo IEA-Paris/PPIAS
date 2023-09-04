@@ -1,6 +1,4 @@
 ---
-DOI: 10.5281/zenodo.8314035
-Zid: 8314035
 abstract: >-
   L'anticipation de la mort et la fin de vie : rencontre du cycle "Bioéthique :
   aux Frontières de la Vie ?" organisée et animée par Séverine Mathieu,

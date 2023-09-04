@@ -1,6 +1,4 @@
 ---
-DOI: 10.5281/zenodo.8314073
-Zid: 8314073
 abstract: |
   Evaluation of Social Sciences and Humanities in Europe.
   Hcéres Colloquium Proceedings - Paris IAS,  16-17 May 2022.

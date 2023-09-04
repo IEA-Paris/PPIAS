@@ -1,6 +1,4 @@
 ---
-DOI: 10.5281/zenodo.8314021
-Zid: 8314021
 abstract: >-
   De nouveaux médias pour la transition ? : rencontre du cycle "Agir en temps de
   crise - Pour des systèmes durables" organisée et animée par Séverine Mathieu,

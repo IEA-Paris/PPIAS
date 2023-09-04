@@ -1,6 +1,4 @@
 ---
-DOI: 10.5281/zenodo.8314115
-Zid: 8314115
 abstract: >-
   The Covid 19 pandemic and the measures taken to limit its spread (containment,
   social distancing) have led to a recession and a major economic crisis. The

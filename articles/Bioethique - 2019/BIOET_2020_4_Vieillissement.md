@@ -1,6 +1,4 @@
 ---
-DOI: 10.5281/zenodo.8314031
-Zid: 8314031
 abstract: >
   Face au défi du vieillissement, quels enjeux éthiques ? : rencontre du cycle
   "Bioéthique : aux Frontières de la Vie ?" organisée et animée par Séverine

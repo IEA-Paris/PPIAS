@@ -1,6 +1,4 @@
 ---
-DOI: 10.5281/zenodo.8314023
-Zid: 8314023
 abstract: >-
   Quelles technologies pour une société durable ? : rencontre du cycle "Agir en
   temps de crise - Pour des systèmes durables" organisée et animée par Séverine
