@@ -35,8 +35,6 @@ highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
-links:
-  bucket: https://sandbox.zenodo.org/api/files/2af40225-057f-4550-b250-0d852143b59f
 needDOI: true
 picture: ''
 picture_copyright: ''

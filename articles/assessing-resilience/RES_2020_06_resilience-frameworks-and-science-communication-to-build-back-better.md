@@ -21,8 +21,6 @@ date: 2020-07-15T23:00:00.000Z
 highlight: false
 issue: content/issues/assessing-resilience.md
 language: English
-links:
-  bucket: https://sandbox.zenodo.org/api/files/3766498b-c1f9-424d-9e77-428a369f8116
 needDOI: true
 published: true
 subissue: false

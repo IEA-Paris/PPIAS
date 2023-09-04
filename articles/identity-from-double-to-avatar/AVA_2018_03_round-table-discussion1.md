@@ -32,8 +32,6 @@ date: 2018-12-13T03:00:00.000Z
 highlight: false
 issue: content/issues/identity-from-double-to-avatar.md
 language: English
-links:
-  bucket: https://sandbox.zenodo.org/api/files/d75ac3a2-78ab-4513-a2b7-f3ec2d32a193
 needDOI: true
 published: true
 subissue: false

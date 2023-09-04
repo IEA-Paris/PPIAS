@@ -36,8 +36,6 @@ keywords:
   - 'Public Policy, Evaluation, Impact '
   - 'Big Data, Artificial Intelligence '
 language: English
-links:
-  bucket: https://sandbox.zenodo.org/api/files/5f446928-5e0c-42e1-b22b-e68b67d0fcae
 needDOI: true
 picture: ''
 picture_copyright: ''

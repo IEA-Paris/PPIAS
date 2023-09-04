@@ -94,8 +94,6 @@ highlight: false
 issue: content/issues/Agir en temps de crise.md
 keywords: []
 language: French
-links:
-  bucket: https://sandbox.zenodo.org/api/files/4d93e57b-fe1e-4a59-8138-7c0e02418704
 needDOI: true
 picture: ''
 picture_copyright: ''

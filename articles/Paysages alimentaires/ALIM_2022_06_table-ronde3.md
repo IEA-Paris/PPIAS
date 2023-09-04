@@ -107,8 +107,6 @@ highlight: false
 issue: content/issues/paysages-alimentaires.md
 keywords: []
 language: French
-links:
-  bucket: https://sandbox.zenodo.org/api/files/bbf25c94-ae39-47ec-b5ca-a79742f89d83
 needDOI: true
 picture: ''
 picture_copyright: ''

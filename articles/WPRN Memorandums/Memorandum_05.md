@@ -29,8 +29,6 @@ keywords:
   - 'Equality & Diversity Studies '
   - 'Inequalities, Poverty, Development '
 language: English
-links:
-  bucket: https://sandbox.zenodo.org/api/files/2fb1f4b7-d39e-4824-97a4-66a89602f68a
 needDOI: true
 picture: /how-did-employment-change-during-the-covid-19-1.png
 picture_copyright: ''

@@ -60,8 +60,6 @@ keywords:
   - 'Simulation / Modeling '
   - 'Innovation, R&D '
 language: English
-links:
-  bucket: https://sandbox.zenodo.org/api/files/d3547302-d02c-4384-b1f6-1121c598e591
 needDOI: true
 picture: /1f96806f-d2b5-44b3-ac16-323501831870.jpeg
 picture_copyright: ''

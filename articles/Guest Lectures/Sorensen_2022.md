@@ -37,8 +37,6 @@ highlight: false
 issue: content/issues/guest_lectures.md
 keywords: []
 language: English
-links:
-  bucket: https://sandbox.zenodo.org/api/files/d2c682ed-63f5-4b33-aa4b-b6473acab444
 needDOI: true
 picture: ''
 picture_copyright: ''
