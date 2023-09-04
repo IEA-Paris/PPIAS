@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: The University of Chicago, USA
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=fbNxH6UAAAAJ&hl=en
   instagram: ''

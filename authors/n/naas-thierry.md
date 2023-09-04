@@ -13,6 +13,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Hôpital Bicêtre APHP, France
+    positions: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=OKtfJd0AAAAJ&hl=fr

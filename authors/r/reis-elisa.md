@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Federal University of Rio de Janeiro, Brazil
+    positions: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=TUg9_OUAAAAJ&hl=en

@@ -13,7 +13,9 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: CHRU de Brest, France
+    positions: []
   - institution: Université de Bretagne Occidentale, France
+    positions: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=LGlzo5QAAAAJ&hl=fr

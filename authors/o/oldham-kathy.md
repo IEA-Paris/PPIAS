@@ -7,6 +7,8 @@ firstname: Kathy
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+language:
+  - English
 lastname: Oldham
 positions_and_institutions:
   - institution: Greater Manchester

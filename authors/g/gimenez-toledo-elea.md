@@ -15,6 +15,7 @@ positions_and_institutions:
   - institution: >-
       Center for Human and Social Sciences (CCHS), Spanish National Research
       Council (CSIC), Spain
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

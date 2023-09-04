@@ -7,9 +7,13 @@ firstname: Paul
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
+language:
+  - English
 lastname: Jorion
 positions_and_institutions:
   - institution: Université catholique de Lille, France
+    positions:
+      - ''
 social_channels:
   researchgate: https://www.researchgate.net/profile/Paul-Jorion
   twitter: '@PaulJorion'

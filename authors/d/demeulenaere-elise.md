@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: CNRS, France
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/scholar?q=author:%22%C3%89lise+Demeulenaere%22
   instagram: ''

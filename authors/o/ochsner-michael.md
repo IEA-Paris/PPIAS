@@ -15,7 +15,9 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: European Network for Research Evaluation in the SSH (ENRESSH)
+    positions: []
   - institution: FORS, University of Lausanne, Switzerland
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

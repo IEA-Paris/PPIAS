@@ -13,6 +13,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Faculty of Humanities and Social Sciences, University of Zagreb, Croatie
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

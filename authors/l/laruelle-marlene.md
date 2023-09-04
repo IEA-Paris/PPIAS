@@ -11,9 +11,14 @@ firstname: Marlène
 is_institution: false
 issue:
   - content/issues/intellectuals-against-democracy.md
+language:
+  - English
+  - French
 lastname: Laruelle
 positions_and_institutions:
   - institution: George Washington University, USA
+    positions:
+      - ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=XzVOHfYAAAAJ&hl=en
   linkedin: https://www.linkedin.com/in/marlene-laruelle-0512908

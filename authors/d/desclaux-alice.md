@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Institut de recherche pour le développement (IRD), France
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=WtWhrHwAAAAJ&hl=en
   instagram: ''

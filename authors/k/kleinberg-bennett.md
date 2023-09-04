@@ -14,7 +14,9 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Tilburg University, Netherlands
+    positions: []
   - institution: University College London, United Kingdom
+    positions: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.nl/citations?user=Ms2d7OsAAAAJ&hl=en

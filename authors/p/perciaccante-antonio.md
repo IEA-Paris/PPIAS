@@ -7,9 +7,13 @@ firstname: Antonio
 is_institution: false
 issue:
   - content/issues/sleep-and-memory.md
+language:
+  - English
 lastname: Perciaccante
 positions_and_institutions:
   - institution: Goriza Hospital
+    positions:
+      - ''
 social_channels:
   linkedin: https://it.linkedin.com/in/antonio-perciaccante-547437110
   researchgate: https://www.researchgate.net/profile/Antonio-Perciaccante

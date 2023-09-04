@@ -11,9 +11,13 @@ firstname: Mark
 is_institution: false
 issue:
   - content/issues/sleep-and-memory.md
+language:
+  - English
 lastname: Blagrove
 positions_and_institutions:
   - institution: Swansea University
+    positions:
+      - ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=yOfl4KoAAAAJ&hl=fr
   linkedin: https://uk.linkedin.com/in/mark-blagrove-13209029

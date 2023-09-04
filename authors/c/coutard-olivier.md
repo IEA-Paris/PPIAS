@@ -7,9 +7,13 @@ firstname: Olivier
 is_institution: false
 issue:
   - content/issues/territories-of-energy-transition.md
+language:
+  - French
 lastname: Coutard
 positions_and_institutions:
   - institution: CNRS, LATTS / Université Gustave Eiffel, France
+    positions:
+      - ''
 social_channels:
   linkedin: https://fr.linkedin.com/in/olivier-coutard-9055368a
   researchgate: https://www.researchgate.net/profile/Olivier-Coutard

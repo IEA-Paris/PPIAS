@@ -16,7 +16,9 @@ positions_and_institutions:
   - institution: >-
       Baby Early childhood in COntexts scientific interest grouping (BECO),
       France
+    positions: []
   - institution: EFTS, Toulouse Jean-Jaurès University, France
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

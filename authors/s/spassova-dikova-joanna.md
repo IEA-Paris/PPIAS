@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Institute of Art Studies, Bulgarian Academy of Sciences, Bulgaria
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

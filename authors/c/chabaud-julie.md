@@ -7,6 +7,8 @@ firstname: Julie
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+language:
+  - English
 lastname: Chabaud
 positions_and_institutions:
   - institution: Département de la Gironde, France

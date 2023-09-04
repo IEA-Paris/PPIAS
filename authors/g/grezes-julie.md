@@ -8,6 +8,8 @@ firstname: Julie
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
+language:
+  - English
 lastname: Grèzes
 positions_and_institutions:
   - institution: ENS Paris, France

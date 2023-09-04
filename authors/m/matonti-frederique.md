@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Université Paris 1 Panthéon-Sorbonne, France
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

@@ -13,6 +13,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: The Miroslav Krleža Institute of Lexicography, Croatia
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

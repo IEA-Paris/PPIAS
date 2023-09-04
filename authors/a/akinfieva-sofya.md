@@ -16,6 +16,7 @@ positions_and_institutions:
   - institution: >-
       National Centre for Development of Social Support & Rehabilitation,
       Moscow, Russia
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

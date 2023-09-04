@@ -1,5 +1,6 @@
 ---
-
+DOI: 10.5281/zenodo.8314011
+Zid: 8314011
 abstract: >-
   COVID-19 : quelles leçons de la crise sanitaire ? : Rencontre du cycle "Agir
   en temps de crise - Les grandes crises contemporaines" organisée et animée par
@@ -138,6 +139,7 @@ sub-issue: Les Grandes Crises Contemporaines
 yt: B53pWlprQlI
 
 ---
+
 
 
 

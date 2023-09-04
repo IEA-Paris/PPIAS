@@ -8,9 +8,13 @@ firstname: Babette
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
+language:
+  - English
 lastname: Gekeler
 positions_and_institutions:
   - institution: Institute for Medical Psychology / Charité University Hospitals, Germany
+    positions:
+      - ''
 social_channels:
   linkedin: https://de.linkedin.com/in/babettegekeler
   website: https://www.babettegekeler.com/

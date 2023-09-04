@@ -14,7 +14,9 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Comité consultatif national d'éthique, France
+    positions: []
   - institution: Ecole normale supérieure, France
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

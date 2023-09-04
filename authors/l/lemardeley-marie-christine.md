@@ -10,6 +10,8 @@ is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
   - content/issues/assessing-resilience.md
+language:
+  - French
 lastname: Lemardeley
 positions_and_institutions:
   - institution: Ville de Paris, France

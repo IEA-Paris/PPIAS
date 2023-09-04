@@ -13,7 +13,9 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Scientific Committee of COST
+    positions: []
   - institution: University of Pisa, Italy
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

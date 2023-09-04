@@ -13,6 +13,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Fromageries BEL, France
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

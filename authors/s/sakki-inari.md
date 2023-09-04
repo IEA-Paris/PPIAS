@@ -8,9 +8,13 @@ firstname: Inari
 is_institution: false
 issue:
   - content/issues/hommage-serge-moscovici.md
+language:
+  - English
 lastname: Sakki
 positions_and_institutions:
   - institution: University of Helsinki, Finland
+    positions:
+      - ''
 social_channels:
   researchgate: https://www.researchgate.net/profile/Inari-Sakki
 years:

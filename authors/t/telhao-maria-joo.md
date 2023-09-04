@@ -8,9 +8,13 @@ firstname: Maria-João
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+language:
+  - English
 lastname: Telhao
 positions_and_institutions:
   - institution: City of Lisbon, Portugal
+    positions:
+      - ''
 social_channels:
   researchgate: https://www.researchgate.net/profile/Maria-Telhado
 years:

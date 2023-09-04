@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: EPHE-PSL, France
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=ibJwWK8AAAAJ&hl=fr
   instagram: ''

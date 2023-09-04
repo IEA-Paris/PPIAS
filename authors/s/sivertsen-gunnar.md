@@ -15,6 +15,7 @@ positions_and_institutions:
   - institution: >-
       Nordic Inst. for Studies in Innovation, Research and Education (NIFU),
       Norway
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

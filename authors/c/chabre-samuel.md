@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Société nouvelle, France
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Bora Laskin Faculty of Law, Lakehead University
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

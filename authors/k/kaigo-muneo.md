@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Faculty of Humanities and Social Sciences, University of Tsukuba, Japan
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

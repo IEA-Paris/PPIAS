@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Mango éditions, France
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: '@luna_kyung_'

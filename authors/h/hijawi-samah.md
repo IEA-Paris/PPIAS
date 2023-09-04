@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Académie Royale Des Beaux Art de Bruxelles, Belgique
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: '@samah.hijawi'

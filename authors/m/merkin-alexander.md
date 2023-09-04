@@ -16,6 +16,7 @@ positions_and_institutions:
   - institution: >-
       Centre for Precise Psychiatry and Neurosciences, Germany/Switzerland;
       Academy for Postgraduate Education, Moscow, Russia
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

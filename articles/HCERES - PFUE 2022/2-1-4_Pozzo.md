@@ -1,5 +1,6 @@
 ---
-
+DOI: 10.5281/zenodo.8314077
+Zid: 8314077
 abstract: >-
   This paper is about innovation, reflection, and inclusion. The argument starts
   with a general thesis on philosophy and innovation. The pages on communities
@@ -52,6 +53,7 @@ published: true
 yt: ''
 
 ---
+
 
 
 

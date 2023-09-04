@@ -7,9 +7,13 @@ firstname: Steve
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
+language:
+  - English
 lastname: Keen
 positions_and_institutions:
   - institution: University College London, United Kingdom
+    positions:
+      - ''
 social_channels:
   google_scholar: https://scholar.google.com.au/citations?user=hbcdga0AAAAJ&hl=en
   orcid: 0000-0002-0439-1809

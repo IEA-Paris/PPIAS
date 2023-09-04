@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: KU Leuven, Belgium
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

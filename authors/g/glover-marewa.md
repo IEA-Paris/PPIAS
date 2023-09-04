@@ -16,6 +16,7 @@ positions_and_institutions:
   - institution: >-
       Centre of Research Excellence: Indigenous Sovereignty & Smoking, Auckland,
       New Zealand
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

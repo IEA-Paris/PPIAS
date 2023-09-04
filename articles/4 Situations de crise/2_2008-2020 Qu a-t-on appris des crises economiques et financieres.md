@@ -1,5 +1,6 @@
 ---
-
+DOI: 10.5281/zenodo.8314005
+Zid: 8314005
 abstract: >-
   2008-2020 : Qu'a-t-on appris des crises économiques et financières ? :
   rencontre du cycle "Agir en temps de crise - 4 Situations de Crise" organisée
@@ -77,6 +78,7 @@ sub-issue: 4 Situations de Crise
 yt: 63wZu5JOlMU
 
 ---
+
 
 
 

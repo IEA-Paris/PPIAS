@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Barreau de Paris, France
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

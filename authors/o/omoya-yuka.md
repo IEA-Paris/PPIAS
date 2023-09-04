@@ -16,6 +16,7 @@ positions_and_institutions:
   - institution: >-
       Graduate School of Humanities and Social Sciences, University of Tsukuba,
       Japan
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

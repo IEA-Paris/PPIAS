@@ -8,9 +8,13 @@ firstname: Mark
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+language:
+  - English
 lastname: Pelling
 positions_and_institutions:
   - institution: King's College London
+    positions:
+      - ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=nbuApuQAAAAJ&hl=en
   linkedin: https://uk.linkedin.com/in/mark-pelling-25207826

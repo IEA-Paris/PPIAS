@@ -7,6 +7,8 @@ firstname: David
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+language:
+  - English
 lastname: Jácome-Pólit
 positions_and_institutions:
   - institution: Quito municipality

@@ -16,7 +16,9 @@ positions_and_institutions:
   - institution: >-
       Service général de l’enseignement supérieur et de la recherche
       scientifique, Ministère de la Fédération Wallonie- Bruxelles , Belgique
+    positions: []
   - institution: Université Libre de Bruxelles, Belgique
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

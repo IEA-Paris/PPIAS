@@ -1,5 +1,6 @@
 ---
-
+DOI: 10.5281/zenodo.8314029
+Zid: 8314029
 abstract: >-
   La bioéthique de la procréation revisitée : rencontre du cycle "Bioéthique :
   aux Frontières de la Vie ?" organisée et animée par Séverine Mathieu,
@@ -43,6 +44,7 @@ sub-issue: 'La Bioéthique : aux Frontières de la Vie ?'
 yt: 7ZDsabA4fyc
 
 ---
+
 
 
 

@@ -15,6 +15,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: GreenLab, Denmark
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

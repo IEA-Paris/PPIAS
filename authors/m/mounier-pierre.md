@@ -13,7 +13,9 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: OpenEdition, France
+    positions: []
   - institution: OPERAS Research Infrastructure, France
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

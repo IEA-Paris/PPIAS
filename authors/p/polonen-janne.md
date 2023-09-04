@@ -13,6 +13,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Federation of Finnish Learned Societies, Finland
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

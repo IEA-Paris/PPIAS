@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Muséum national d'histoire naturelle, France
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=sIb4k-AAAAAJ&hl=fr
   instagram: ''

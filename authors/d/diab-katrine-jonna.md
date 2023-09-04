@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: UiT, The Arctic University of Norway, Norway
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

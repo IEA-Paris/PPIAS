@@ -7,9 +7,13 @@ firstname: Sylvie
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
+language:
+  - English
 lastname: Barnay
 positions_and_institutions:
   - institution: Université de Lorraine, France
+    positions:
+      - ''
 social_channels:
   wikipedia: https://fr.wikipedia.org/wiki/Sylvie_Barnay
 years:

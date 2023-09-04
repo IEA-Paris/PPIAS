@@ -11,9 +11,13 @@ firstname: Norman
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
+language:
+  - English
 lastname: OHLER
 positions_and_institutions:
   - institution: Germany
+    positions:
+      - ''
 social_channels:
   linkedin: https://de.linkedin.com/in/norman-ohler-63377b82
   twitter: '@normanohler'

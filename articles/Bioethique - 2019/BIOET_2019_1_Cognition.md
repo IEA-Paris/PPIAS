@@ -1,5 +1,6 @@
 ---
-
+DOI: 10.5281/zenodo.8314027
+Zid: 8314027
 abstract: >-
   Cognition naturelle, cognition artificielle : conférence inaugurale du cycle
   "Bioéthique : aux Frontières de la Vie ?" organisée et animée par Séverine
@@ -43,6 +44,7 @@ sub-issue: 'La Bioéthique : aux Frontières de la Vie ?'
 yt: ''
 
 ---
+
 
 
 

@@ -13,7 +13,9 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: cOAlition S, France
+    positions: []
   - institution: Leiden University, The Netherlands
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

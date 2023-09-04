@@ -13,6 +13,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: European Commission
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

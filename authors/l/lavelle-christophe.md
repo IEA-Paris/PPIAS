@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: CNRS - MNHN, France
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=3NZWMbAAAAAJ&hl=fr
   instagram: ''

@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: UMR 208 PALOC - IRD/MNHN, France
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

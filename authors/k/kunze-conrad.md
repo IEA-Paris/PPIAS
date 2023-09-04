@@ -16,6 +16,8 @@ language:
 lastname: Kunze
 positions_and_institutions:
   - institution: Helmholtz Centre for Environmental Research – UFZ, Leipzig, Germany
+    positions:
+      - ''
 social_channels:
   researchgate: https://www.researchgate.net/profile/Conrad-Kunze-2
 years:

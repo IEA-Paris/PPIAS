@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Ministère des Droits des femmes, France
+    positions: []
   - institution: >-
       Ministère de l'Education nationale, de l'Enseignement supérieur et de la
       Recherche, France

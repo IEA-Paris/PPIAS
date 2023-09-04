@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: International Food Policy Research Institute, China
+    positions: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=NL3kmU0AAAAJ&hl=en

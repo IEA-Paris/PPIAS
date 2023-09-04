@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Rice University and The Baker Institute, USA
+    positions: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=r76P0PcAAAAJ&hl=en

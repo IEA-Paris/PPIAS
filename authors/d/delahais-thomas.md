@@ -7,9 +7,13 @@ firstname: Thomas
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+language:
+  - French
 lastname: Delahais
 positions_and_institutions:
   - institution: Quadrant Conseil, France
+    positions:
+      - ''
 social_channels:
   linkedin: Thomas Delahais
   orcid: 0000-0002-0991-5085

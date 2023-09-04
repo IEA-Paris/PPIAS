@@ -14,7 +14,9 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Aix-Marseille School of Economics, France
+    positions: []
   - institution: Rennes School of Business, France
+    positions: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=0vKu4P4AAAAJ&hl=fr

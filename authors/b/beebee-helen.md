@@ -13,7 +13,9 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: BSPS Open
+    positions: []
   - institution: University of Leeds, United Kingdom
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

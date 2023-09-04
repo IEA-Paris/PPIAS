@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Rochester Institute of Technology, USA
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

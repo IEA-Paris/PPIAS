@@ -7,9 +7,13 @@ firstname: Serge
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+language:
+  - French
 lastname: Tisseron
 positions_and_institutions:
   - institution: Université Paris-Diderot, France
+    positions:
+      - ''
 years:
   - 2020
 

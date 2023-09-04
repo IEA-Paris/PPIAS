@@ -14,6 +14,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Chaire Unesco Alimentations du Monde, France
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

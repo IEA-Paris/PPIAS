@@ -1,5 +1,6 @@
 ---
-
+DOI: 10.5281/zenodo.8314087
+Zid: 8314087
 abstract: >-
   Evaluation of Social Sciences and Humanities in Europe. 
 
@@ -49,6 +50,7 @@ published: true
 yt: ''
 
 ---
+
 
 
 

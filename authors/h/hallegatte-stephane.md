@@ -7,6 +7,8 @@ firstname: Stéphane
 is_institution: false
 issue:
   - content/issues/assessing-resilience.md
+language:
+  - French
 lastname: Hallegatte
 positions_and_institutions:
   - institution: World Bank

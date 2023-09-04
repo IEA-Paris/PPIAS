@@ -24,9 +24,13 @@ is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
   - content/issues/sleep-and-memory.md
+language:
+  - English
 lastname: Fried
 positions_and_institutions:
   - institution: UCLA, USA / Université de Tel-Aviv, Israël
+    positions:
+      - ''
   - institution: Paris Institute for Advanced Study, France
   - institution: University of California Los Angeles, USA
 years:

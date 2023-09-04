@@ -57,9 +57,11 @@ positions_and_institutions:
   - institution: London School Of Economics, United Kingdom
     positions:
       - Chair in Social Psychology
+      - ''
   - institution: Paris Institute of advanced study
     positions:
       - Director
+      - ''
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=awGy3asAAAAJ&hl=fr&oi=ao
