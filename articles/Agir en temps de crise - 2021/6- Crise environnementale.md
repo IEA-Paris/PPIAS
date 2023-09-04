@@ -1,4 +1,6 @@
 ---
+DOI: 10.5281/zenodo.8314458
+Zid: 8314458
 abstract: >-
   Crise environnementale :  Peut-on encore préserver les écosystèmes ? :
   rencontre du cycle "Agir en temps de crise -  Les grandes crises
@@ -50,6 +52,8 @@ highlight: false
 issue: content/issues/Agir en temps de crise.md
 keywords: []
 language: French
+links:
+  bucket: https://zenodo.org/api/files/0f96c26e-3811-4763-a34d-fb6220abc3bf
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -58,6 +62,7 @@ sub-issue: Les Grandes Crises Contemporaines
 yt: Wp2ieULOSOU
 
 ---
+
 
 
 

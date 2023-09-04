@@ -1,4 +1,6 @@
 ---
+DOI: 10.5281/zenodo.8314506
+Zid: 8314506
 abstract: |-
   Evaluation of Social Sciences and Humanities in Europe.
    Hcéres Colloquium Proceedings - Paris IAS,  16-17 May 2022.
@@ -73,6 +75,8 @@ highlight: false
 issue: content/issues/HCERES - PFUE 2022.md
 keywords: []
 language: English
+links:
+  bucket: https://zenodo.org/api/files/84741bd4-8508-4b59-a11d-16c4e5f7f433
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -80,6 +84,7 @@ published: true
 yt: ''
 
 ---
+
 
 
 

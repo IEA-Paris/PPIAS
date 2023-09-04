@@ -1,4 +1,6 @@
 ---
+DOI: 10.5281/zenodo.8314552
+Zid: 8314552
 abstract: >-
   The Covid 19 pandemic and the measures taken to limit its spread (containment,
   social distancing) have led to a recession and a major economic crisis. The
@@ -27,6 +29,8 @@ keywords:
   - 'Equality & Diversity Studies '
   - 'Inequalities, Poverty, Development '
 language: English
+links:
+  bucket: https://zenodo.org/api/files/1c135ced-bea6-41c2-93c5-1af23cb5551d
 needDOI: true
 picture: /how-did-employment-change-during-the-covid-19-1.png
 picture_copyright: ''
@@ -42,6 +46,7 @@ tag:
 yt: ''
 
 ---
+
 
 
 

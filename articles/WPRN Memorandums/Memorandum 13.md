@@ -1,4 +1,6 @@
 ---
+DOI: 10.5281/zenodo.8314550
+Zid: 8314550
 abstract: >-
   People who are reluctant to vaccinate have often been portrayed  as
   conspiracists in the media. Is this an anecdotal evidence ? A stable
@@ -58,6 +60,8 @@ keywords:
   - 'Simulation / Modeling '
   - 'Innovation, R&D '
 language: English
+links:
+  bucket: https://zenodo.org/api/files/7b5a8dee-2555-4f13-b727-f2bd8ca54d5f
 needDOI: true
 picture: /1f96806f-d2b5-44b3-ac16-323501831870.jpeg
 picture_copyright: ''
@@ -65,6 +69,7 @@ published: true
 yt: ''
 
 ---
+
 
 
 

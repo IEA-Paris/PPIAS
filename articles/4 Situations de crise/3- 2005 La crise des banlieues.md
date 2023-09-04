@@ -1,4 +1,6 @@
 ---
+DOI: 10.5281/zenodo.8314444
+Zid: 8314444
 abstract: >-
   2005 : La "crise des banlieues" et ses suites : rencontre du cycle "Agir en
   temps de crise - 4 situations de crise" organisée et animée par Séverine
@@ -50,6 +52,8 @@ highlight: false
 issue: content/issues/Agir en temps de crise.md
 keywords: []
 language: French
+links:
+  bucket: https://zenodo.org/api/files/29346b9a-39b5-48ac-88e6-bc7cd3f087c5
 needDOI: true
 picture: ''
 picture_copyright: ''
@@ -58,6 +62,7 @@ sub-issue: 4 Situations de Crise
 yt: FExU8NPC_Yw
 
 ---
+
 
 
 

@@ -1,4 +1,6 @@
 ---
+DOI: 10.5281/zenodo.8314460
+Zid: 8314460
 abstract: >-
   De nouveaux médias pour la transition ? : rencontre du cycle "Agir en temps de
   crise - Pour des systèmes durables" organisée et animée par Séverine Mathieu,
@@ -51,6 +53,7 @@ published: true
 yt: uNBY8vLzdNE
 
 ---
+
 
 Une séance pour débattre de l'utilisation des nouveaux médias de diffusion de la connaissance et des savoirs.
 Anatole Chouard nous livre son expérience de Youtubeur pour explorer les possibilités de vulgarisation scientifique et d'action ; Dominique Pasquier nous apporte un éclairage supplémentaire suite à la grande enquête qu'elle a menée sur les usages et les pratiques de cette célèbre plateforme vidéo. Un débat riche qui interroge l’impact des nouveaux médias sur les comportements en matière de transition environnementale, leurs moyens d’action, leurs limites.
