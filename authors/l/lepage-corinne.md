@@ -2,6 +2,7 @@
 active: true
 articles:
   - Biens communs_2_clé juridique
+  - Biens communs_2_cle juridique
 exerpt: ''
 firstname: Corinne
 is_institution: false
