@@ -40,7 +40,7 @@ authors:
       website: ''
       wikipedia: ''
 bibliography: /documents-exportes_323.bib
-custom_pdf: /documents-exportes_323.bib
+custom_pdf: ''
 date: 2022-05-17T09:40:50.000Z
 disciplines: ''
 highlight: false
