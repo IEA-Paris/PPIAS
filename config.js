@@ -1,4 +1,4 @@
-import colors from "vuetify/es5/util/colors"
+import colors from "vuetify/es5/util/colors.js"
 
 export default {
   env: { NODE_ENV: "dev" },
