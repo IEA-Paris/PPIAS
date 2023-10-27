@@ -13,7 +13,7 @@ lastname: Nemeth
 positions_and_institutions:
   - institution: University of California, Berkeley, USA
     positions:
-      - ''
+      - null
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=_k9-SfMAAAAJ&hl=en
   website: http://charlannemeth.com/

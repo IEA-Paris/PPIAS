@@ -14,13 +14,13 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: international laboratory for Brain, Music, and Sound research (BRAMS)
     positions:
-      - co-founder
+      - null
   - institution: McGill University
     positions:
-      - writer
+      - null
   - institution: IAS PARIS
     positions:
-      - writer
+      - null
 reference: ''
 social_channels:
   google_scholar: ''

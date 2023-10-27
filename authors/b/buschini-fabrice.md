@@ -13,7 +13,7 @@ lastname: Buschini
 positions_and_institutions:
   - institution: Sorbonne Nouvelle - Paris 3 University, France
     positions:
-      - ''
+      - null
 social_channels:
   researchgate: https://www.researchgate.net/profile/Fabrice-Buschini
 years:

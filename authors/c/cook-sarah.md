@@ -17,7 +17,7 @@ positions_and_institutions:
     positions: []
   - institution: London School of Hygiene & Tropical Medicine, United Kingdom
     positions:
-      - ''
+      - null
 reference: ''
 social_channels:
   google_scholar: ''

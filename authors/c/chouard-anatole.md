@@ -15,8 +15,7 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Café des sciences
     positions:
-      '0':
-        position: Vugarisateur scientifique
+      - Vugarisateur scientifique
 social_channels:
   google_scholar: ''
   linkedin: https://fr.linkedin.com/in/anatole-chouard

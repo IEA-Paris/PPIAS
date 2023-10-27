@@ -13,8 +13,7 @@ lastname: Pasquier
 positions_and_institutions:
   - institution: CNRS
     positions:
-      '0':
-        position: Directrice de recherche émérite
+      - Directrice de recherche émérite
 social_channels:
   google_scholar: ''
   linkedin: ''

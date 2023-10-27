@@ -13,7 +13,7 @@ lastname: Jácome-Pólit
 positions_and_institutions:
   - institution: Quito municipality
     positions:
-      - Resilience advisor
+      - null
 social_channels:
   google_scholar: https://scholar.google.com.ec/citations?user=vyQnN3IAAAAJ&hl=es
   linkedin: https://ec.linkedin.com/in/david-j%C3%A1come-polit-52764725
