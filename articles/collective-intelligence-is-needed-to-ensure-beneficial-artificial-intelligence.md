@@ -451,8 +451,8 @@ The experience of ICA4 has shown that such interdisciplinary and multicultural c
 
 
 
-[^1]: <https://www.nature.com/articles/d41586-023-00288-7> -  <https://www.nature.com/articles/d41586-023-03266-1> - <https://futureoflife.org/open-letter/pause-giant-ai-experiments/>
+[^1]: [https://www.nature.com/articles/d41586-023-00288-7](https://www.nature.com/articles/d41586-023-00288-7) -  [https://www.nature.com/articles/d41586-023-03266-1](https://www.nature.com/articles/d41586-023-03266-1) - [https://futureoflife.org/open-letter/pause-giant-ai-experiments/](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
 
-[^2]: The fourth Intercontinental Academia (ICA4) “Intelligence and artificial intelligence” was organised in 2021/2022 by the international network of University-Based Institutes for Advanced Study (UBIAS). <https://www.intercontinental-academia.org/>
+[^2]: The fourth Intercontinental Academia (ICA4) “Intelligence and artificial intelligence” was organised in 2021/2022 by the international network of University-Based Institutes for Advanced Study (UBIAS). [https://www.intercontinental-academia.org/](https://www.intercontinental-academia.org/)
 
-[^3]: <https://dighum.ec.tuwien.ac.at/dighum-manifesto>
+[^3]: [https://dighum.ec.tuwien.ac.at/dighum-manifesto](https://dighum.ec.tuwien.ac.at/dighum-manifesto)
