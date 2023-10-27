@@ -13,7 +13,7 @@ lastname: Perez
 positions_and_institutions:
   - institution: University of Valencia, Spain
     positions:
-      - ''
+      - null
 social_channels:
   linkedin: https://es.linkedin.com/in/juan-a-perez-564ba0a8
   researchgate: https://www.researchgate.net/profile/Juan-Perez-88

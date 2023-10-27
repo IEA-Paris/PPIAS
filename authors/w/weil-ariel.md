@@ -13,7 +13,7 @@ lastname: Weil
 positions_and_institutions:
   - institution: Ville de Paris, France
     positions:
-      - Maire de Paris Centre
+      - null
 years:
   - 2020
 

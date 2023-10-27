@@ -13,7 +13,7 @@ lastname: Blanke
 positions_and_institutions:
   - institution: École polytechnique Lausanne, Switzerland
     positions:
-      - ''
+      - null
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=Wgqbs30AAAAJ&hl=en
   wikipedia: https://en.wikipedia.org/wiki/Olaf_Blanke

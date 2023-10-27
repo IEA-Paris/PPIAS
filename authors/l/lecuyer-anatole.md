@@ -13,7 +13,7 @@ lastname: Lecuyer
 positions_and_institutions:
   - institution: INRIA, France
     positions:
-      - ''
+      - null
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=x5rdD4IAAAAJ&hl=en
   linkedin: https://fr.linkedin.com/in/anatole-l%C3%A9cuyer-693805195

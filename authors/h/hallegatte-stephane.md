@@ -13,7 +13,7 @@ lastname: Hallegatte
 positions_and_institutions:
   - institution: World Bank
     positions:
-      - Economist
+      - null
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=7xxEWRkAAAAJ&hl=fr
   linkedin: https://www.linkedin.com/in/stephane-hallegatte-9532685

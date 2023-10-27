@@ -13,7 +13,7 @@ lastname: Lockheart
 positions_and_institutions:
   - institution: Swansea University
     positions:
-      - ''
+      - null
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=pHu7FBMAAAAJ&hl=en
   linkedin: https://uk.linkedin.com/in/dr-julia-lockheart-30009712

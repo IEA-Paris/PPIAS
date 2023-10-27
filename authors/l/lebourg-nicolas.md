@@ -13,7 +13,7 @@ lastname: Lebourg
 positions_and_institutions:
   - institution: Université de Montpellier, France
     positions:
-      - ''
+      - null
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=NyI9T8AAAAAJ&hl=fr
   linkedin: https://fr.linkedin.com/in/nicolas-lebourg-15b656b3
