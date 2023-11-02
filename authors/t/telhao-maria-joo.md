@@ -14,7 +14,7 @@ lastname: Telhao
 positions_and_institutions:
   - institution: City of Lisbon, Portugal
     positions:
-      - null
+      - ''
 social_channels:
   researchgate: https://www.researchgate.net/profile/Maria-Telhado
 years:

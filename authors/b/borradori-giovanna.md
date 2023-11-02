@@ -13,7 +13,7 @@ lastname: Borradori
 positions_and_institutions:
   - institution: Vassar College, Poughkeepsie, USA
     positions:
-      - null
+      - ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=EpQx8hQAAAAJ&hl=en
   linkedin: https://www.linkedin.com/in/giovannaborradori

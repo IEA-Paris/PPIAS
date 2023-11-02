@@ -13,7 +13,7 @@ lastname: Colombert
 positions_and_institutions:
   - institution: Efficacity, France
     positions:
-      - null
+      - ''
 social_channels:
   linkedin: https://fr.linkedin.com/in/morgane-colombert
   researchgate: https://www.researchgate.net/profile/Morgane-Colombert

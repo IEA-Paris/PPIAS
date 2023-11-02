@@ -13,7 +13,7 @@ lastname: Romani
 positions_and_institutions:
   - institution: Università Statale di Milano, Italy
     positions:
-      - null
+      - ''
 social_channels:
   researchgate: https://www.researchgate.net/profile/Silvia-Romani-2
 years:

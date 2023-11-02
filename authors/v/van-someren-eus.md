@@ -13,7 +13,7 @@ lastname: Van Someren
 positions_and_institutions:
   - institution: Netherlands Institute for Neuroscience
     positions:
-      - null
+      - ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=qY9usQUAAAAJ&hl=en
   linkedin: https://nl.linkedin.com/in/eus-jw-van-someren-028bb67

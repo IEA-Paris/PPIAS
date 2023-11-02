@@ -13,7 +13,7 @@ lastname: Buzogany
 positions_and_institutions:
   - institution: BOKU Vienna
     positions:
-      - null
+      - ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=K1ACGKAAAAAJ&hl=en
   orcid: 0000-0002-9867-3742

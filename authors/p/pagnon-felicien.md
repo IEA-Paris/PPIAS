@@ -1,8 +1,8 @@
 ---
 active: true
 articles:
-  - RES_2020_09_Assessing-Resilience-Work-in-Progress
   - RES_2020_05_new-indicators-of-wealth-for-resilient-societies
+  - RES_2020_09_Assessing-Resilience-Work-in-Progress
 exerpt: ''
 firstname: Félicien
 is_institution: false
@@ -14,7 +14,7 @@ lastname: Pagnon
 positions_and_institutions:
   - institution: Université Paris Dauphine, France
     positions:
-      - null
+      - ''
   - institution: IDDRI, France
 social_channels:
   linkedin: https://fr.linkedin.com/in/f%C3%A9licien-pagnon-17a303146

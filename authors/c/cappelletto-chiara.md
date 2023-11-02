@@ -13,7 +13,7 @@ lastname: Cappelletto
 positions_and_institutions:
   - institution: Università Statale di Milano, Italy
     positions:
-      - null
+      - ''
 social_channels:
   twitter: '@ChiCappelletto'
 years:

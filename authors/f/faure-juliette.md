@@ -13,7 +13,7 @@ lastname: Faure
 positions_and_institutions:
   - institution: Sciences Po, CERI, France
     positions:
-      - null
+      - ''
 social_channels:
   linkedin: https://www.linkedin.com/in/juliette-faure-0607b796
   researchgate: https://www.researchgate.net/profile/Juliette-Faure

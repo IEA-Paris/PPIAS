@@ -2,7 +2,6 @@
 active: true
 articles:
   - Biens communs_2_clé juridique
-  - Biens communs_2_cle juridique
 exerpt: ''
 firstname: Thomas
 is_institution: false
