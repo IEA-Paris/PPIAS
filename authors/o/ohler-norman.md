@@ -17,7 +17,7 @@ lastname: OHLER
 positions_and_institutions:
   - institution: Germany
     positions:
-      - ''
+      - null
 social_channels:
   linkedin: https://de.linkedin.com/in/norman-ohler-63377b82
   twitter: '@normanohler'

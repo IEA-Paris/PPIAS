@@ -13,7 +13,7 @@ lastname: Rande
 positions_and_institutions:
   - institution: Département de la Gironde, France
     positions:
-      - Chargée de mission Agenda 21
+      - null
 years:
   - 2020
 

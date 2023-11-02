@@ -13,7 +13,7 @@ lastname: Faber
 positions_and_institutions:
   - institution: France
     positions:
-      - ''
+      - null
 social_channels:
   twitter: '@gloomboomdoom'
   wikipedia: https://fr.wikipedia.org/wiki/Marc_Faber

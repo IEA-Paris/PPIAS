@@ -13,7 +13,7 @@ lastname: Barnay
 positions_and_institutions:
   - institution: Université de Lorraine, France
     positions:
-      - ''
+      - null
 social_channels:
   wikipedia: https://fr.wikipedia.org/wiki/Sylvie_Barnay
 years:

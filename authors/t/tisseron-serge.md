@@ -13,7 +13,7 @@ lastname: Tisseron
 positions_and_institutions:
   - institution: Université Paris-Diderot, France
     positions:
-      - ''
+      - null
 years:
   - 2020
 

@@ -13,7 +13,7 @@ lastname: Rozenberg
 positions_and_institutions:
   - institution: World Bank, Switzerland
     positions:
-      - Senior Economist
+      - null
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=ifJDfAIAAAAJ&hl=fr
   linkedin: https://www.linkedin.com/in/julie-rozenberg-ab570b22/en

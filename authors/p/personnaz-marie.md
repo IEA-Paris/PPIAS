@@ -15,7 +15,7 @@ positions_and_institutions:
       Paris Ouest Nanterre-la Défense University / Centre Edgar Morin IIAC
       EHESS-CNRS, France
     positions:
-      - ''
+      - null
 years:
   - 2016
 

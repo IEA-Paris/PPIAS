@@ -14,7 +14,7 @@ lastname: Sakki
 positions_and_institutions:
   - institution: University of Helsinki, Finland
     positions:
-      - ''
+      - null
 social_channels:
   researchgate: https://www.researchgate.net/profile/Inari-Sakki
 years:
