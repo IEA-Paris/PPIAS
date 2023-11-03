@@ -13,7 +13,7 @@ lastname: Kalampalikis
 positions_and_institutions:
   - institution: Lumière Lyon 2 University, France
     positions:
-      - ''
+      - null
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=RKjbh7YAAAAJ&hl=fr
   linkedin: https://fr.linkedin.com/in/nikos-kalampalikis-10932620a

@@ -13,7 +13,7 @@ lastname: Imbert
 positions_and_institutions:
   - institution: Green Cross France et Territoires, France
     positions:
-      - Directeur exécutif
+      - null
 social_channels:
   linkedin: https://fr.linkedin.com/in/imbert
   twitter: '@technoscopie'

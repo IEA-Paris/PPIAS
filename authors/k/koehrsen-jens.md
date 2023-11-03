@@ -13,7 +13,7 @@ lastname: Koehrsen
 positions_and_institutions:
   - institution: Basel University, Switzerland
     positions:
-      - ''
+      - null
 years:
   - 2016
 

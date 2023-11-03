@@ -13,7 +13,7 @@ lastname: Lacour
 positions_and_institutions:
   - institution: Université Paris-Saclay, France
     positions:
-      - ''
+      - null
 social_channels:
   linkedin: https://www.researchgate.net/profile/Stephanie-Lacour-2
 years:

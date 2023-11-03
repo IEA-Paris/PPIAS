@@ -15,7 +15,7 @@ lastname: Colonomos
 positions_and_institutions:
   - institution: CERI-SciencesPo, France
     positions:
-      - ''
+      - null
 social_channels:
   researchgate: https://www.researchgate.net/profile/Ariel-Colonomos
   wikipedia: https://fr.wikipedia.org/wiki/Ariel_Colonomos

@@ -13,7 +13,7 @@ lastname: Gaffney
 positions_and_institutions:
   - institution: Humboldt State University, USA
     positions:
-      - ''
+      - null
 social_channels:
   linkedin: https://www.linkedin.com/in/amber-gaffney-96b54a14
   researchgate: https://www.researchgate.net/profile/Amber-Gaffney

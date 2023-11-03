@@ -2,6 +2,7 @@
 active: true
 articles:
   - Biens communs_2_clé juridique
+  - Biens communs_2_cle juridique
 exerpt: ''
 firstname: Christian
 is_institution: false

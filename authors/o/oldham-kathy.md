@@ -13,7 +13,7 @@ lastname: Oldham
 positions_and_institutions:
   - institution: Greater Manchester
     positions:
-      - Chief Resilience Officer
+      - null
 years:
   - 2020
 

@@ -13,8 +13,7 @@ lastname: Mateus
 positions_and_institutions:
   - institution: Low-tech Lab, France
     positions:
-      '0':
-        position: Coordinateur des Enquêtes
+      - Coordinateur des Enquêtes
 social_channels:
   google_scholar: ''
   linkedin: https://fr.linkedin.com/in/quentinmateus

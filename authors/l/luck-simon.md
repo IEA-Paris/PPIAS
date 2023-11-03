@@ -16,8 +16,27 @@ lastname: Luck
 positions_and_institutions:
   - institution: Paris Institute for Advanced Study
     positions:
-      - ''
-  - positions: Scientific Director
+      - null
+  - positions:
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
 social_channels:
   linkedin: >-
     https://fr.linkedin.com/in/siluck?original_referer=https%3A%2F%2Fwww.google.com%2F

@@ -13,7 +13,7 @@ lastname: Agirre Aranburu
 positions_and_institutions:
   - institution: International Criminal Court, Netherlands
     positions:
-      - ''
+      - null
 social_channels:
   linkedin: https://nl.linkedin.com/in/xabier-agirre-aranburu-3a3389a
 years:
