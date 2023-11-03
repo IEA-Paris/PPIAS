@@ -2,15 +2,11 @@
 active: true
 articles:
   - 1-0_WPRN21_Keynote 1
-  - >-
-    collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
 exerpt: ''
 firstname: Raouf
-is_institution: false
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
-  - content/issues/Intercontinental Academia 4.md
 language:
   - English
 lastname: Boucekkine
@@ -31,13 +27,11 @@ social_channels:
   researchgate: ''
   twitter: ''
   website: ''
-  webstwitterite: ''
   wikipedia: ''
 tags:
   - Infectious Diseases
   - public policies
 years:
   - 2021
-  - 2023
 
 ---

@@ -20,7 +20,7 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: FMSH - Collège d’études mondiales, France
     positions:
-      - null
+      - ''
 social_channels:
   google_scholar: ''
   instagram: ''

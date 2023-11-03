@@ -13,7 +13,7 @@ lastname: Chabaud
 positions_and_institutions:
   - institution: Département de la Gironde, France
     positions:
-      - null
+      - Responsable Agenda 21
 years:
   - 2020
 

@@ -13,7 +13,7 @@ lastname: Jorion
 positions_and_institutions:
   - institution: Université catholique de Lille, France
     positions:
-      - null
+      - ''
 social_channels:
   researchgate: https://www.researchgate.net/profile/Paul-Jorion
   twitter: '@PaulJorion'

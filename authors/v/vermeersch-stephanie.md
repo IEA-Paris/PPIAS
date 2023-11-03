@@ -13,7 +13,8 @@ lastname: Vermeersch
 positions_and_institutions:
   - institution: CNRS, France
     positions:
-      - Directrice de recherche
+      '0':
+        position: Directrice de recherche
 social_channels:
   google_scholar: ''
   linkedin: https://fr.linkedin.com/in/st%C3%A9phanie-vermeersch-9b557b86

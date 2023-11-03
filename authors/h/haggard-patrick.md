@@ -15,7 +15,7 @@ lastname: Haggard
 positions_and_institutions:
   - institution: University College London, United Kingdom
     positions:
-      - null
+      - ''
   - institution: Paris Institute for Advanced Study, France
 social_channels:
   google_scholar: https://scholar.google.co.uk/citations?user=NqmgC9gAAAAJ&hl=en

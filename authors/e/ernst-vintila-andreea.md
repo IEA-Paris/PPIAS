@@ -13,7 +13,7 @@ lastname: Ernst-Vintila
 positions_and_institutions:
   - institution: Paris-Ouest- Nanterre-la-Défense University, France
     positions:
-      - null
+      - ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=uuAZDOwAAAAJ&hl=en
   researchgate: https://www.researchgate.net/profile/Andreea-Gruev-Vintila

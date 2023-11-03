@@ -16,8 +16,8 @@ lastname: Lemardeley
 positions_and_institutions:
   - institution: Ville de Paris, France
     positions:
-      - null
-      - null
+      - 'Maire adjointe '
+      - ''
 years:
   - 2020
 

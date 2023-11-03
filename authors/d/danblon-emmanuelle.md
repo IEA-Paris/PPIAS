@@ -18,7 +18,7 @@ lastname: Danblon
 positions_and_institutions:
   - institution: Université libre de Bruxelles, Belgium
     positions:
-      - null
+      - ''
 social_channels:
   google_scholar: https://scholar.google.be/citations?user=7gIWdzIAAAAJ&hl=fr
   linkedin: >-

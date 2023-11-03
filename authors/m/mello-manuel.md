@@ -14,7 +14,7 @@ lastname: Mello
 positions_and_institutions:
   - institution: SCN Lab, Sapienza University Rome, Italy
     positions:
-      - null
+      - ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=yBxT7Z4AAAAJ&hl=en
   linkedin: https://it.linkedin.com/in/manuel-mello-438500170

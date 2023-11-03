@@ -22,7 +22,7 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: University of Barcelona, Spain
     positions:
-      - null
+      - ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=5gGSgcUAAAAJ&hl=fr
   instagram: ''

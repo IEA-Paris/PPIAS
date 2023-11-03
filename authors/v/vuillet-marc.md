@@ -13,7 +13,7 @@ lastname: Vuillet
 positions_and_institutions:
   - institution: EIVP, Lab’Urba, France
     positions:
-      - null
+      - ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=3EJuqXQAAAAJ&hl=fr
   linkedin: https://fr.linkedin.com/in/marc-vuillet-phd-90237546
