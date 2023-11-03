@@ -13,7 +13,8 @@ lastname: Marcilhac
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - EPHE, France
+  - institution: EPHE, France
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

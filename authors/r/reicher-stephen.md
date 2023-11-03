@@ -12,6 +12,7 @@ language:
 lastname: Reicher
 positions_and_institutions:
   - institution: University of St Andrews, United Kingdom
+    positions: []
 social_channels:
   google_scholar: https://en.wikipedia.org/wiki/Steve_Reicher
   linkedin: https://uk.linkedin.com/in/stephen-reicher-81712baa

@@ -11,6 +11,7 @@ language:
 lastname: Quiamzade
 positions_and_institutions:
   - institution: University of Geneva, Switzerland
+    positions: []
 years:
   - 2016
 

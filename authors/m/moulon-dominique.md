@@ -12,8 +12,7 @@ language:
 lastname: Moulon
 positions_and_institutions:
   - institution: Observatoire des mondes numériques en sciences humaines (OMNSH), France
-    positions:
-      - ''
+    positions: []
 social_channels:
   linkedin: >-
     https://fr.linkedin.com/in/dominique-moulon-9bb62710?trk=public_post_share-update_actor-image

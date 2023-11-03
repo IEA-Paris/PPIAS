@@ -12,6 +12,7 @@ language:
 lastname: Oberlé
 positions_and_institutions:
   - institution: Paris-Ouest-Nanterre-la-Défense University, France
+    positions: []
 years:
   - 2016
 

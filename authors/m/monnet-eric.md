@@ -13,7 +13,8 @@ lastname: Monnet
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - EHESS, France
+  - institution: EHESS, France
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=7CzHDrkAAAAJ&hl=fr
   instagram: ''

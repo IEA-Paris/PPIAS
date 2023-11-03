@@ -12,8 +12,7 @@ language:
 lastname: Fressoz
 positions_and_institutions:
   - institution: CRH-EHESS, France
-    positions:
-      - ''
+    positions: []
 social_channels:
   researchgate: https://www.researchgate.net/profile/Jean-Baptiste-Fressoz
   wikipedia: https://fr.wikipedia.org/wiki/Jean-Baptiste_Fressoz

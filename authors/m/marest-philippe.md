@@ -11,6 +11,7 @@ language:
 lastname: Marest
 positions_and_institutions:
   - institution: Ville et Métropole de Nantes, France
+    positions: []
 social_channels:
   linkedin: >-
     https://fr.linkedin.com/in/philippe-marest-49702424b?trk=public_profile_samename-profile

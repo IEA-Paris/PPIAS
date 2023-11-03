@@ -12,6 +12,7 @@ language:
 lastname: Naccache
 positions_and_institutions:
   - institution: Institut du Cerveau et de la Moelle épinière (ICM), France
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=yfXow7cAAAAJ&hl=fr
   researchgate: https://www.researchgate.net/profile/Lionel-Naccache

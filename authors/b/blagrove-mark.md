@@ -16,8 +16,7 @@ language:
 lastname: Blagrove
 positions_and_institutions:
   - institution: Swansea University
-    positions:
-      - ''
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=yOfl4KoAAAAJ&hl=fr
   linkedin: https://uk.linkedin.com/in/mark-blagrove-13209029

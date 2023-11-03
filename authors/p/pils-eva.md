@@ -12,8 +12,7 @@ language:
 lastname: Pils
 positions_and_institutions:
   - institution: King's College London - Eurics, United Kingdom
-    positions:
-      - ''
+    positions: []
 social_channels:
   orcid: 0000-0002-7208-5539
   researchgate: https://www.researchgate.net/profile/Eva-Pils

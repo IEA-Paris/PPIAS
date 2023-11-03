@@ -12,8 +12,7 @@ language:
 lastname: Hoffmann
 positions_and_institutions:
   - institution: European Institute for Energy Research, Germany
-    positions:
-      - ''
+    positions: []
 social_channels:
   linkedin: https://de.linkedin.com/in/bastian-hoffmann-771a63155/en
 years:

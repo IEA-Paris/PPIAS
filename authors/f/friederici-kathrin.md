@@ -13,8 +13,7 @@ language:
 lastname: Friederici
 positions_and_institutions:
   - institution: Humboldt University, Germany
-    positions:
-      - ''
+    positions: []
 social_channels:
   researchgate: https://www.researchgate.net/profile/Kathrin-Friederici
 years:

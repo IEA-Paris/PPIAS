@@ -12,6 +12,7 @@ language:
 lastname: Singer
 positions_and_institutions:
   - institution: Max Planck Institute for Brain Research, Germany
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=Ho8cFO8AAAAJ&hl=en
   linkedin: https://de.linkedin.com/in/wolf-singer-3b976058

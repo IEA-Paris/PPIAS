@@ -12,6 +12,7 @@ language:
 lastname: Fadiga
 positions_and_institutions:
   - institution: Università degli Studi di Ferrara, Italy
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=EPOtdwMAAAAJ&hl=fr
   linkedin: https://it.linkedin.com/in/luciano-fadiga-b2319335

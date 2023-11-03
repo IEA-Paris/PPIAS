@@ -11,6 +11,7 @@ language:
 lastname: Massei
 positions_and_institutions:
   - institution: Université libre de Bruxelles, Belgium
+    positions: []
 years:
   - 2022
 

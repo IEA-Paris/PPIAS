@@ -10,6 +10,7 @@ issue:
 language:
   - English
 lastname: Ecole normale Supérieure Paris, France
+positions_and_institutions: []
 years:
   - 2022
 

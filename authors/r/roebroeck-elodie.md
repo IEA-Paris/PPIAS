@@ -12,6 +12,7 @@ language:
 lastname: Roebroeck
 positions_and_institutions:
   - institution: Blaise Pascal University, France
+    positions: []
 social_channels:
   linkedin: >-
     https://fr.linkedin.com/in/elodie-roebroeck-767b0122?original_referer=https%3A%2F%2Fwww.google.com%2F

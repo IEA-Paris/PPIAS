@@ -12,8 +12,7 @@ language:
 lastname: Delahais
 positions_and_institutions:
   - institution: Quadrant Conseil, France
-    positions:
-      - ''
+    positions: []
 social_channels:
   linkedin: Thomas Delahais
   orcid: 0000-0002-0991-5085

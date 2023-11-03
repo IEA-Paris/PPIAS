@@ -16,8 +16,7 @@ language:
 lastname: Berger
 positions_and_institutions:
   - institution: International Center for Counter-Terrorism, Netherlands
-    positions:
-      - ''
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=E9ZPY58AAAAJ&hl=en
   linkedin: https://www.linkedin.com/in/jmberger1

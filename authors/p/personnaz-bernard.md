@@ -12,8 +12,7 @@ language:
 lastname: Personnaz
 positions_and_institutions:
   - institution: Centre Edgar Morin/ IIAC EHESS-CNRS, France
-    positions:
-      - ''
+    positions: []
 years:
   - 2016
 

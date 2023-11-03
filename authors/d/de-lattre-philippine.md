@@ -12,8 +12,7 @@ language:
 lastname: de Lattre
 positions_and_institutions:
   - institution: Les Greniers d'Abondance, France
-    positions:
-      - ''
+    positions: []
 social_channels:
   linkedin: https://fr.linkedin.com/in/philippinedelattre/fr
   researchgate: https://www.researchgate.net/profile/Philippine-De-Lattre

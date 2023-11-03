@@ -12,6 +12,7 @@ language:
 lastname: Guimond
 positions_and_institutions:
   - institution: Laboratoire de Psychologie Sociale et Cognitive, CNRS, France
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=5pFQHh0AAAAJ&hl=fr
   linkedin: https://fr.linkedin.com/in/serge-guimond-33258141

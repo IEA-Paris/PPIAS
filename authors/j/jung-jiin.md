@@ -11,6 +11,7 @@ language:
 lastname: Jung
 positions_and_institutions:
   - institution: Claremont Graduate University, USA
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=QX8Qt64AAAAJ&hl=en
   linkedin: https://www.linkedin.com/in/jiin-jung-b7329131

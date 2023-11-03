@@ -12,6 +12,7 @@ language:
 lastname: Gazzaniga
 positions_and_institutions:
   - institution: University of California Santa Barbara, USA
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=jpVab-AAAAAJ&hl=fr
   linkedin: https://www.linkedin.com/in/michael-gazzaniga-3ba81428

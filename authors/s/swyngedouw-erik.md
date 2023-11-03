@@ -12,8 +12,7 @@ language:
 lastname: Swyngedouw
 positions_and_institutions:
   - institution: Université de Manchester, United Kingdom
-    positions:
-      - ''
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=ezdeHg8AAAAJ&hl=en
   researchgate: https://www.researchgate.net/profile/Erik-Swyngedouw-2

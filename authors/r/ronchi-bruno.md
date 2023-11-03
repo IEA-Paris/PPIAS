@@ -13,8 +13,7 @@ language:
 lastname: Ronchi
 positions_and_institutions:
   - institution: Université Rennes 1
-    positions:
-      - ''
+    positions: []
 years:
   - 2022
 

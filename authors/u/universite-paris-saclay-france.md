@@ -10,6 +10,7 @@ issue:
 language:
   - English
 lastname: Université Paris-Saclay, France
+positions_and_institutions: []
 years:
   - 2020
 

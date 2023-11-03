@@ -11,6 +11,7 @@ language:
 lastname: Falomir- Pichastor
 positions_and_institutions:
   - institution: University of Geneva, Switzerland
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=OD0yLS8AAAAJ&hl=en
   orcid: 0000-0002-2177-8511

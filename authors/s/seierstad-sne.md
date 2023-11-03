@@ -12,6 +12,7 @@ language:
 lastname: Seierstad
 positions_and_institutions:
   - institution: Norway
+    positions: []
 social_channels:
   twitter: '@AsneSeierstad'
   wikipedia: https://en.wikipedia.org/wiki/%C3%85sne_Seierstad

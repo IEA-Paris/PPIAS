@@ -13,7 +13,8 @@ lastname: Chneiweiss
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - CNRS - UMR 8246 - Neurosciences, France
+  - institution: CNRS - UMR 8246 - Neurosciences, France
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

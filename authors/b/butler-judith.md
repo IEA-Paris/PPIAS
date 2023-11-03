@@ -13,7 +13,8 @@ lastname: Butler
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - University of California Berkeley, USA
+  - institution: University of California Berkeley, USA
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

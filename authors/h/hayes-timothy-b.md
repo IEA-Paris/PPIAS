@@ -12,8 +12,7 @@ language:
 lastname: Hayes
 positions_and_institutions:
   - institution: University of Southern California, USA
-    positions:
-      - ''
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.dk/citations?user=a9x21xAAAAAJ&hl=ja
   linkedin: >-

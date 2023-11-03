@@ -29,8 +29,7 @@ language:
 lastname: Berthoz
 positions_and_institutions:
   - institution: Collège de France, France
-    positions:
-      - ''
+    positions: []
 social_channels:
   linkedin: https://fr.linkedin.com/in/alain-berthoz-6ba8049
   researchgate: https://www.researchgate.net/profile/Alain-Berthoz

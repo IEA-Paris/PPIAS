@@ -13,8 +13,7 @@ language:
 lastname: Ridley
 positions_and_institutions:
   - institution: Université Paris Nanterre, France
-    positions:
-      - ''
+    positions: []
 social_channels:
   linkedin: https://fr.linkedin.com/in/simon-ridley-360841a3
   researchgate: https://www.researchgate.net/profile/Simon-Ridley-3

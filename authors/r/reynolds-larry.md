@@ -19,9 +19,9 @@ language:
 lastname: Reynolds
 positions_and_institutions:
   - institution: IEA de Paris, France
-    positions:
-      - ''
+    positions: []
   - institution: Paris Institute for Advanced Studies, France
+    positions: []
 years:
   - 2016
   - 2015

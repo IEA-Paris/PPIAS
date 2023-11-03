@@ -13,8 +13,7 @@ language:
 lastname: Gekeler
 positions_and_institutions:
   - institution: Institute for Medical Psychology / Charité University Hospitals, Germany
-    positions:
-      - ''
+    positions: []
 social_channels:
   linkedin: https://de.linkedin.com/in/babettegekeler
   website: https://www.babettegekeler.com/

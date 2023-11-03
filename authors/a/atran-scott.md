@@ -12,8 +12,7 @@ language:
 lastname: Atran
 positions_and_institutions:
   - institution: University of Michigan, USA
-    positions:
-      - ''
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=7EQ7ezwAAAAJ&hl=en
   orcid: 0000-0002-0796-7279

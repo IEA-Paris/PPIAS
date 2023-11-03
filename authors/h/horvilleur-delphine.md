@@ -12,7 +12,11 @@ language:
 lastname: Horvilleur
 picture: ''
 picture_copyright: ''
-positions_and_institutions: null
+positions_and_institutions:
+  - institution: Judaïsme en mouvement
+    positions: []
+  - institution: Kerem - Conseil des Rabbins Libéraux Francophones, France
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: '@delphinehorvilleur'

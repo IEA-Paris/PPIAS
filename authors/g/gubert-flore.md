@@ -12,7 +12,9 @@ language:
 lastname: Gubert
 positions_and_institutions:
   - institution: Institut de Recherche pour le Développement, France
+    positions: []
   - institution: Fondation Maison des Sciences de l'Homme, France
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=8xBJ-CEAAAAJ&hl=fr
   orcid: 0000-0002-7072-4069

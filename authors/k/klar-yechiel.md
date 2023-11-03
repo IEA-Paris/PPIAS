@@ -11,6 +11,7 @@ language:
 lastname: Klar
 positions_and_institutions:
   - institution: Tel Aviv University, Israel
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=pttp944AAAAJ&hl=en
   linkedin: https://il.linkedin.com/in/yechiel-klar-880348a

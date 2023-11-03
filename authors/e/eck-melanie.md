@@ -12,8 +12,7 @@ language:
 lastname: Eck
 positions_and_institutions:
   - institution: Sciences Po Paris, Algoé Consultants, France
-    positions:
-      - ''
+    positions: []
 social_channels:
   linkedin: https://fr.linkedin.com/in/melanieeck
   researchgate: https://www.researchgate.net/profile/Melanie-Eck

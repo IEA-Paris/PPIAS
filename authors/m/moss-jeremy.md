@@ -16,8 +16,7 @@ language:
 lastname: Moss
 positions_and_institutions:
   - institution: University of New South Wales, Sydney, Australia
-    positions:
-      - ''
+    positions: []
 social_channels:
   linkedin: https://au.linkedin.com/in/jeremy-moss-397558198
 years:

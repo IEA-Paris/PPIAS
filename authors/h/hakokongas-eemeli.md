@@ -12,6 +12,7 @@ language:
 lastname: Hakoköngäs
 positions_and_institutions:
   - institution: University of Helsinki, Finland
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=lGMpSfEAAAAJ&hl=en
   linkedin: https://fi.linkedin.com/in/eemeli-hakok%C3%B6ng%C3%A4s-72520424b

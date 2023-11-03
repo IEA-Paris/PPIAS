@@ -16,6 +16,7 @@ language:
 lastname: Walker
 positions_and_institutions:
   - institution: University of Lancaster, United Kingdom
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=BMrPd3wAAAAJ&hl=en
   orcid: 0000-0002-5278-6792

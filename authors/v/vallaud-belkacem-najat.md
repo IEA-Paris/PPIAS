@@ -18,6 +18,7 @@ positions_and_institutions:
   - institution: >-
       Ministère de l'Education nationale, de l'Enseignement supérieur et de la
       Recherche, France
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: '@najatvb'

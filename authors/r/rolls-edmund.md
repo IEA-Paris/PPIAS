@@ -12,6 +12,7 @@ language:
 lastname: Rolls
 positions_and_institutions:
   - institution: Oxford Centre for Computational Neuroscience, United Kingdom
+    positions: []
 years:
   - 2017
 

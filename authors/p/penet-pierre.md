@@ -14,8 +14,7 @@ language:
 lastname: Pénet
 positions_and_institutions:
   - institution: Université de Genève, Suisse / Institut d’études avancées de Paris, France
-    positions:
-      - ''
+    positions: []
 years:
   - 2020
 

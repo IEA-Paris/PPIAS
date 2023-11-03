@@ -12,6 +12,7 @@ language:
 lastname: Menard
 positions_and_institutions:
   - institution: University of Helsinki, Finland
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.fi/citations?user=ZcKm-ZsAAAAJ&hl=en
   linkedin: https://uk.linkedin.com/in/rusten-menard-abb22662

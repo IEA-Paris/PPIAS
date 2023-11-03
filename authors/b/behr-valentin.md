@@ -17,8 +17,7 @@ language:
 lastname: Behr
 positions_and_institutions:
   - institution: Institut d'études avancées de Paris, France
-    positions:
-      - ''
+    positions: []
 social_channels:
   linkedin: https://fr.linkedin.com/in/valentin-behr-61b9461b8
   orcid: 0000-0001-6735-8793

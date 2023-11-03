@@ -12,8 +12,7 @@ language:
 lastname: Siclari
 positions_and_institutions:
   - institution: University of lausanne - CHUV
-    positions:
-      - ''
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=ByTKtAwAAAAJ&hl=en
   orcid: 0000-0003-2061-9719

@@ -12,8 +12,7 @@ language:
 lastname: Piron
 positions_and_institutions:
   - institution: CRH-EHESS, France
-    positions:
-      - ''
+    positions: []
 social_channels:
   linkedin: >-
     https://fr.linkedin.com/in/sylvain-piron-a157b1249?trk=people-guest_people_search-card

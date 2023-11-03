@@ -10,6 +10,7 @@ issue:
 language:
   - English
 lastname: European Association of Social Psychology (EASP)
+positions_and_institutions: []
 years:
   - 2016
 

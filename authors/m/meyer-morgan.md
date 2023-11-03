@@ -12,9 +12,7 @@ language:
 lastname: Meyer
 positions_and_institutions:
   - institution: CNRS, France
-    positions:
-      '0':
-        position: Directeur de recherche
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=rm6hezQAAAAJ&hl=en
   linkedin: https://fr.linkedin.com/in/morgan-meyer-7a587737

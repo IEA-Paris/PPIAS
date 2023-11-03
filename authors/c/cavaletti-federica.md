@@ -12,8 +12,7 @@ language:
 lastname: Cavaletti
 positions_and_institutions:
   - institution: Università Cattolica di Milano, Italy
-    positions:
-      - ''
+    positions: []
 years:
   - 2018
 

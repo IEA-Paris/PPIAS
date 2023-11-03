@@ -11,6 +11,7 @@ language:
 lastname: Wood
 positions_and_institutions:
   - institution: University of Southern California, USA
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com.mx/citations?user=ljLqYGEAAAAJ&hl=it
   linkedin: >-

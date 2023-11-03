@@ -12,8 +12,7 @@ language:
 lastname: Costa
 positions_and_institutions:
   - institution: International Institute of Human Rights, France
-    positions:
-      - ''
+    positions: []
 social_channels:
   linkedin: https://fr.linkedin.com/in/jean-paul-costa-b6004364
   wikipedia: https://en.wikipedia.org/wiki/Jean-Paul_Costa

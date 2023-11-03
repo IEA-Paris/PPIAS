@@ -14,8 +14,7 @@ language:
 lastname: Diab
 positions_and_institutions:
   - institution: Ecole des ingénieurs de la Ville de Paris (EIVP), France
-    positions:
-      - ''
+    positions: []
 social_channels:
   researchgate: https://www.researchgate.net/profile/Youssef-Diab-4
 years:

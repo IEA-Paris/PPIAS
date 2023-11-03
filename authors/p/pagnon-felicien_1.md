@@ -11,6 +11,7 @@ language:
 lastname: Pagnon
 positions_and_institutions:
   - institution: IDDRI, France
+    positions: []
 years:
   - 2020
 

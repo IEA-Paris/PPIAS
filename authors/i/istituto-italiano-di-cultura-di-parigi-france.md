@@ -10,6 +10,7 @@ issue:
 language:
   - English
 lastname: Istituto Italiano di Cultura di Parigi, France
+positions_and_institutions: []
 years:
   - 2018
 

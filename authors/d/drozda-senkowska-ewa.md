@@ -12,6 +12,7 @@ language:
 lastname: Drozda-Senkowska
 positions_and_institutions:
   - institution: Université René Descartes,  France
+    positions: []
 social_channels:
   linkedin: https://fr.linkedin.com/in/ewa-drozda-senkowska-a34b0615a
   researchgate: https://www.researchgate.net/profile/Ewa-Drozda-Senkowska

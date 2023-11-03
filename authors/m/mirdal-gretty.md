@@ -19,7 +19,7 @@ language:
 lastname: Mirdal
 positions_and_institutions:
   - institution: Paris Institute for Advanced Study
-    positions: null
+    positions: []
 years:
   - 2019
   - 2016

@@ -13,6 +13,7 @@ language:
 lastname: Grèzes
 positions_and_institutions:
   - institution: ENS Paris, France
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=PjXi-vYAAAAJ&hl=fr
   linkedin: https://fr.linkedin.com/in/julie-grezes-a21574a9

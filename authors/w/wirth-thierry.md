@@ -14,7 +14,8 @@ lastname: Wirth
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - EPHE-PSL, France
+  - institution: EPHE-PSL, France
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=7vKgauEAAAAJ&hl=fr
   instagram: ''

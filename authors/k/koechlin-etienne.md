@@ -19,8 +19,7 @@ language:
 lastname: Koechlin
 positions_and_institutions:
   - institution: ENS Paris, France
-    positions:
-      - ''
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
   linkedin: https://fr.linkedin.com/in/etienne-koechlin-76476439

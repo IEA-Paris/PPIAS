@@ -12,8 +12,7 @@ language:
 lastname: Caillaud
 positions_and_institutions:
   - institution: Paris-Descartes University, France
-    positions:
-      - ''
+    positions: []
 social_channels:
   orcid: 0000-0002-7349-123X
   researchgate: https://www.researchgate.net/profile/Sabine-Caillaud

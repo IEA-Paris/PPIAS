@@ -11,6 +11,7 @@ language:
 lastname: Crano
 positions_and_institutions:
   - institution: Claremont Graduate University, USA
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=MYrWqPkAAAAJ&hl=en
   researchgate: https://www.researchgate.net/profile/William-Crano

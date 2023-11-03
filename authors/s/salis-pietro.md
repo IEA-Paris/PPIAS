@@ -13,7 +13,8 @@ lastname: Salis
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - University of Cagliari, Italy
+  - institution: University of Cagliari, Italy
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

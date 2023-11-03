@@ -12,9 +12,7 @@ language:
 lastname: Moreau
 positions_and_institutions:
   - institution: Ville de Paris, France
-    positions:
-      '0':
-        position: Directeur de l’Agence d’Ecologie Urbaine
+    positions: []
 social_channels:
   google_scholar: ''
   linkedin: https://fr.linkedin.com/in/francois-moreau-8a9b0a127

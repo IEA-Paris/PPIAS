@@ -12,6 +12,7 @@ language:
 lastname: Hartmann
 positions_and_institutions:
   - institution: University of Potsdam, Germany
+    positions: []
 years:
   - 2015
 

@@ -16,7 +16,7 @@ language:
 lastname: Caney
 positions_and_institutions:
   - institution: Oxford University, United Kingdom
-    positions: null
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.co.uk/citations?user=zjbFj-wAAAAJ&hl=en
   wikipedia: https://en.wikipedia.org/wiki/Simon_Caney

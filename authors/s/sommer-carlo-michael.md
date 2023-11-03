@@ -12,8 +12,7 @@ language:
 lastname: Sommer
 positions_and_institutions:
   - institution: Darmstadt University of Applied Sciences, Germany
-    positions:
-      - ''
+    positions: []
 social_channels:
   linkedin: https://de.linkedin.com/in/carlo-michael-sommer-25aa894
   researchgate: https://www.researchgate.net/profile/Carlo-Michael-Sommer

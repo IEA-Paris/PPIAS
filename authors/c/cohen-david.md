@@ -12,6 +12,7 @@ language:
 lastname: Cohen
 positions_and_institutions:
   - institution: Université Pierre & Marie Curie, France
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=e9XBrxYAAAAJ&hl=fr
   researchgate: https://www.researchgate.net/profile/David-Cohen-23

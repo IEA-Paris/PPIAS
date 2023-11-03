@@ -14,7 +14,8 @@ lastname: Lassalle
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - SOS Méditerranée, France
+  - institution: SOS Méditerranée, France
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

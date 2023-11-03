@@ -12,6 +12,7 @@ language:
 lastname: Vala
 positions_and_institutions:
   - institution: Instituto de Ciências Sociais, Universidade de Lisboa, Portugal
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=kiK0oUIAAAAJ&hl=pt-PT
   researchgate: https://www.researchgate.net/profile/Jorge-Vala-2/2

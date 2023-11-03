@@ -12,6 +12,7 @@ language:
 lastname: Robbins
 positions_and_institutions:
   - institution: University of Cambridge, United Kingdom
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=7vl9HdwAAAAJ&hl=fr
   linkedin: https://uk.linkedin.com/in/trevor-robbins-3671496

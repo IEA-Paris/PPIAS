@@ -33,9 +33,7 @@ language:
 lastname: Institut d'études avancées de Paris, France
 picture: ''
 picture_copyright: ''
-positions_and_institutions:
-  - institution: ''
-    positions: []
+positions_and_institutions: []
 reference: ''
 social_channels:
   google_scholar: ''

@@ -14,7 +14,8 @@ lastname: Tancoigne
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - Université de Lausanne, Suisse
+  - institution: Université de Lausanne, Switzerland
+    positions: []
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=21W9xTQAAAAJ&hl=fr

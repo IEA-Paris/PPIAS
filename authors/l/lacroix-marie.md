@@ -12,8 +12,7 @@ language:
 lastname: Lacroix
 positions_and_institutions:
   - institution: CNRS - ESPCI Paris Tech - Cog'X
-    positions:
-      - ''
+    positions: []
 social_channels:
   linkedin: >-
     https://fr.linkedin.com/in/marie-lacroix-93255b87?original_referer=https%3A%2F%2Fwww.google.com%2F

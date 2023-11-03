@@ -14,8 +14,7 @@ positions_and_institutions:
   - institution: >-
       Instituto Superior de Ciências Sociais e Políticas (ISCSP), University of
       Lisbon, Portugal
-    positions:
-      - ''
+    positions: []
 social_channels:
   linkedin: >-
     https://pt.linkedin.com/in/correia-jesu%C3%ADno-56733414?original_referer=https%3A%2F%2Fwww.google.com%2F

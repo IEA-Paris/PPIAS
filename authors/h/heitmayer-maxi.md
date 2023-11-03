@@ -15,6 +15,7 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: The London School of Economics and Political Science, United Kingdom
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

@@ -12,6 +12,7 @@ language:
 lastname: Semelin
 positions_and_institutions:
   - institution: CNRS  / Sciences Po, France
+    positions: []
 social_channels:
   linkedin: >-
     https://fr.linkedin.com/in/jacques-semelin-539677230?trk=public_profile_browsemap

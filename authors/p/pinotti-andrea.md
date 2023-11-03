@@ -13,9 +13,9 @@ language:
 lastname: Pinotti
 positions_and_institutions:
   - institution: Università Statale di Milano, Italy
-    positions:
-      - ''
+    positions: []
   - institution: Paris Institute for Advanced Study, France
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.it/citations?user=fa43KcgAAAAJ&hl=it
   researchgate: https://www.researchgate.net/profile/Andrea-Pinotti

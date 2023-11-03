@@ -13,8 +13,7 @@ language:
 lastname: Hédon
 picture: ''
 picture_copyright: ''
-positions_and_institutions:
-  - ''
+positions_and_institutions: []
 social_channels:
   google_scholar: ''
   instagram: ''

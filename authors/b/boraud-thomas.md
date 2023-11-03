@@ -12,6 +12,7 @@ language:
 lastname: Boraud
 positions_and_institutions:
   - institution: Université Bordeaux, France
+    positions: []
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=hvsLiSoAAAAJ&hl=fr
   linkedin: https://fr.linkedin.com/in/thomas-boraud-8060534b

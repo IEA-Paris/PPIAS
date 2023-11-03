@@ -16,8 +16,7 @@ positions_and_institutions:
   - institution: Imperial College London, United Kingdom
     positions: []
   - institution: London School of Hygiene & Tropical Medicine, United Kingdom
-    positions:
-      - ''
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

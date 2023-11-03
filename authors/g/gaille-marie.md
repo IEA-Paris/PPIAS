@@ -13,7 +13,8 @@ lastname: Gaille
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - Institut des sciences humaines et sociales CNRS, France
+  - institution: Institut des sciences humaines et sociales CNRS, France
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''
