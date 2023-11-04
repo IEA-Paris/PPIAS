@@ -1,7 +1,7 @@
 ---
 published: true
 article_title: Collective intelligence is needed to ensure beneficial Artificial Intelligence
-date: 2023-10-26T13:31:55.740Z
+date: 2023-06-14T13:31:55.740Z
 needDOI: false
 authors:
   - firstname: Saadi
