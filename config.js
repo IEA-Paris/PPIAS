@@ -2,6 +2,7 @@ import colors from "vuetify/es5/util/colors.js"
 
 export default {
   env: { NODE_ENV: "dev" },
+  repo: "IEA-Paris/PPIAS",
   name: "PPIAS",
   full_name: "Proceedings of the Paris Institute for Advanced Study", // set to false if there is none
   full_name_html:
