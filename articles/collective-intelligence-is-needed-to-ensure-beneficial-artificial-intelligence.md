@@ -338,7 +338,14 @@ authors:
     is_institution: false
   - firstname: Deshen
     lastname: Moodley
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University of Cape Town
+        positions:
+          - Associate Professor
+          - Department of Computer Science
+      - institution: South African national Centre for Artificial Intelligence Research
+        positions:
+          - Co-Director
     social_channels:
       website: ""
       wikipedia: ""
@@ -351,7 +358,9 @@ authors:
     is_institution: false
   - firstname: Helga
     lastname: Nowotny
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: ETH Zurich
+        positions: []
     social_channels:
       website: ""
       wikipedia: ""
@@ -364,7 +373,12 @@ authors:
     is_institution: false
   - firstname: Zaven
     lastname: Paré
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Universidade Federal de Juiz de Fora (IAD/UFJF)
+        positions:
+          - New media artist and expert in robotics; collaborator of the
+            Graduate Program in Arts
+          - Culture and Languages
     social_channels:
       website: ""
       wikipedia: ""
@@ -377,7 +391,13 @@ authors:
     is_institution: false
   - firstname: "Ary Guilherme "
     lastname: Plonski
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University of Sao Paulo
+        positions:
+          - Professor
+      - institution: UBIAS
+        positions:
+          - Chief coordinator
     social_channels:
       website: ""
       wikipedia: ""
@@ -390,7 +410,10 @@ authors:
     is_institution: false
   - firstname: Ithai
     lastname: Rabinowitch
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Faculty of Medicine of the Hebrew University of Jerusalem
+        positions:
+          - Assistant Professor
     social_channels:
       website: ""
       wikipedia: ""
@@ -403,7 +426,10 @@ authors:
     is_institution: false
   - firstname: Talina
     lastname: Ralitera
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: French Alternative Energies and Atomic Energy Commission (CEA)
+        positions:
+          - Research Engineer
     social_channels:
       website: ""
       wikipedia: ""
@@ -416,7 +442,11 @@ authors:
     is_institution: false
   - firstname: Martin
     lastname: Rees
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Centre for the Study of Existential Risk (CSER) at the University
+          of Cambridge
+        positions:
+          - Astrophysicist and Cosmologist; co-founder
     social_channels:
       website: ""
       wikipedia: ""
@@ -429,7 +459,10 @@ authors:
     is_institution: false
   - firstname: Oron
     lastname: Shagrir
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Hebrew University of Jerusalem
+        positions:
+          - Philosopher; Schulman Chair of Philosophy and Cognitive Science
     social_channels:
       website: ""
       wikipedia: ""
@@ -442,7 +475,10 @@ authors:
     is_institution: false
   - firstname: Patricia
     lastname: De Soarez
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: " University of São Paulo"
+        positions:
+          - Associate Professor at the Department of Preventive Medicine
     social_channels:
       website: ""
       wikipedia: ""
@@ -455,7 +491,10 @@ authors:
     is_institution: false
   - firstname: Henry
     lastname: Taylor
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University of Birmingham, UK
+        positions:
+          - Birmingham Fellow
     social_channels:
       website: ""
       wikipedia: ""
@@ -468,7 +507,10 @@ authors:
     is_institution: false
   - firstname: Melvin
     lastname: Wevers
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University of Amsterdam
+        positions:
+          - Assistant Professor in Urban History and Digital Methods
     social_channels:
       website: ""
       wikipedia: ""
@@ -481,7 +523,13 @@ authors:
     is_institution: false
   - firstname: Kawanishi
     lastname: Yasutomo
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: "Nagoya University "
+        positions:
+          - Visiting Associate Professor
+      - institution: RIKEN Guardian Robot Project
+        positions:
+          - Team Leader in the Multimodal Data Recognition Research Team
     social_channels:
       website: ""
       wikipedia: ""
