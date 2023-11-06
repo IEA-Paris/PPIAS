@@ -11,7 +11,10 @@ issue:
 language:
   - English
 lastname: Taylor
-positions_and_institutions: []
+positions_and_institutions:
+  - institution: University of Birmingham, UK
+    positions:
+      - Birmingham Fellow
 social_channels:
   google_scholar: ''
   linkedin: ''

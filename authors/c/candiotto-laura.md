@@ -11,7 +11,9 @@ issue:
 language:
   - English
 lastname: Candiotto
-positions_and_institutions: []
+positions_and_institutions:
+  - institution: Centre for Ethics of the University of Pardubice, Czech Republic
+    positions: []
 social_channels:
   google_scholar: ''
   linkedin: ''

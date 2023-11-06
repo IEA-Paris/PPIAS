@@ -11,7 +11,13 @@ issue:
 language:
   - English
 lastname: Yasutomo
-positions_and_institutions: []
+positions_and_institutions:
+  - institution: Nagoya University
+    positions:
+      - Visiting Associate Professor
+  - institution: RIKEN Guardian Robot Project
+    positions:
+      - Team Leader in the Multimodal Data Recognition Research Team
 social_channels:
   google_scholar: ''
   linkedin: ''

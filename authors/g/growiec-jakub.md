@@ -11,7 +11,13 @@ issue:
 language:
   - English
 lastname: Growiec
-positions_and_institutions: []
+positions_and_institutions:
+  - institution: Warsaw School of Economics
+    positions:
+      - Professor
+  - institution: Warsaw School of Economics
+    positions:
+      - Head of the department of Quantitative Economics
 social_channels:
   google_scholar: ''
   linkedin: ''

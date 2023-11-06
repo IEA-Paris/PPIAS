@@ -11,7 +11,10 @@ issue:
 language:
   - English
 lastname: Las Casas
-positions_and_institutions: []
+positions_and_institutions:
+  - institution: Institute for Advanced Study of Belo Horizonte
+    positions:
+      - Director
 social_channels:
   google_scholar: ''
   linkedin: ''

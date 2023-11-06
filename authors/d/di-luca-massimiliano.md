@@ -11,7 +11,10 @@ issue:
 language:
   - English
 lastname: Di Luca
-positions_and_institutions: []
+positions_and_institutions:
+  - institution: University of Birmingham School of Psychology
+    positions:
+      - Senior Lecturer
 social_channels:
   google_scholar: ''
   linkedin: ''

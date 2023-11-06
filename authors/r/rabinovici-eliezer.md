@@ -11,7 +11,15 @@ issue:
 language:
   - English
 lastname: Rabinovici
-positions_and_institutions: []
+positions_and_institutions:
+  - institution: CERN Council (European Organization for Nuclear Research)
+    positions:
+      - President
+  - institution: Leon H. and Ada G. Miller Chair of Science
+    positions: []
+  - institution: Racah Institute of Physics, Hebrew University of Jerusalem
+    positions:
+      - Professor
 social_channels:
   google_scholar: ''
   linkedin: ''

@@ -32,7 +32,8 @@ language:
 lastname: Fried
 positions_and_institutions:
   - institution: UCLA, USA / Université de Tel-Aviv, Israël
-    positions: []
+    positions:
+      - Department of Neurosurgery
   - institution: Paris Institute for Advanced Study, France
     positions: []
   - institution: University of California Los Angeles, USA

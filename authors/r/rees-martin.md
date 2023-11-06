@@ -11,7 +11,12 @@ issue:
 language:
   - English
 lastname: Rees
-positions_and_institutions: []
+positions_and_institutions:
+  - institution: >-
+      Centre for the Study of Existential Risk (CSER) at the University of
+      Cambridge
+    positions:
+      - Astrophysicist and Cosmologist; co-founder
 social_channels:
   google_scholar: ''
   linkedin: ''

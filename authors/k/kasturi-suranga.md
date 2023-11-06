@@ -11,7 +11,13 @@ issue:
 language:
   - English
 lastname: Kasturi
-positions_and_institutions: []
+positions_and_institutions:
+  - institution: Center for Biomedical Informatics at Regenstrief Institute
+    positions:
+      - Research Scientist
+  - institution: Indiana University School of Medicine
+    positions:
+      - Assistant Professor in the Department of Pediatrics
 social_channels:
   google_scholar: ''
   linkedin: ''

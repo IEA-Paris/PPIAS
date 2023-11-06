@@ -11,7 +11,10 @@ issue:
 language:
   - English
 lastname: De Soarez
-positions_and_institutions: []
+positions_and_institutions:
+  - institution: University of São Paulo
+    positions:
+      - Associate Professor at the Department of Preventive Medicine
 social_channels:
   google_scholar: ''
   linkedin: ''

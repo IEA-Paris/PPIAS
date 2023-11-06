@@ -11,7 +11,10 @@ issue:
 language:
   - English
 lastname: Livermore
-positions_and_institutions: []
+positions_and_institutions:
+  - institution: University of Virginia
+    positions:
+      - Law professor
 social_channels:
   google_scholar: ''
   linkedin: ''

@@ -18,7 +18,8 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: Aix-Marseille School of Economics, France
-    positions: []
+    positions:
+      - Professor of economics and finance
   - institution: Rennes School of Business, France
     positions: []
 reference: ''

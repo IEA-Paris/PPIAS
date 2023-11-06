@@ -11,7 +11,10 @@ issue:
 language:
   - English
 lastname: Rabinowitch
-positions_and_institutions: []
+positions_and_institutions:
+  - institution: Faculty of Medicine of the Hebrew University of Jerusalem
+    positions:
+      - Assistant Professor
 social_channels:
   google_scholar: ''
   linkedin: ''

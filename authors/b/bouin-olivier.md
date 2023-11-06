@@ -20,9 +20,14 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: RFIEA-NETIAS, France
-    positions: []
+    positions:
+      - Director
   - institution: RFIEA Foundation, France
-    positions: []
+    positions:
+      - President-elect of the Governing Board
+  - institution: NetIAS
+    positions:
+      - Secretary-General
 reference: ''
 social_channels:
   google_scholar: ''

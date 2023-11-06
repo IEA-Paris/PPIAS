@@ -11,7 +11,10 @@ issue:
 language:
   - English
 lastname: Wevers
-positions_and_institutions: []
+positions_and_institutions:
+  - institution: University of Amsterdam
+    positions:
+      - Assistant Professor in Urban History and Digital Methods
 social_channels:
   google_scholar: ''
   linkedin: ''

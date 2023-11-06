@@ -11,7 +11,10 @@ issue:
 language:
   - English
 lastname: Shagrir
-positions_and_institutions: []
+positions_and_institutions:
+  - institution: Hebrew University of Jerusalem
+    positions:
+      - Philosopher; Schulman Chair of Philosophy and Cognitive Science
 social_channels:
   google_scholar: ''
   linkedin: ''

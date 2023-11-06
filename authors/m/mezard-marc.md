@@ -11,7 +11,10 @@ issue:
 language:
   - English
 lastname: Mézard
-positions_and_institutions: []
+positions_and_institutions:
+  - institution: École Normale Supérieure (ENS) in Paris
+    positions:
+      - Director
 social_channels:
   google_scholar: ''
   linkedin: ''

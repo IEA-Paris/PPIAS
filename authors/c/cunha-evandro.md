@@ -11,7 +11,10 @@ issue:
 language:
   - English
 lastname: Cunha
-positions_and_institutions: []
+positions_and_institutions:
+  - institution: Faculty of Letters of the Federal University of Minas Gerais (UFMG)
+    positions:
+      - Professor
 social_channels:
   google_scholar: ''
   linkedin: ''
