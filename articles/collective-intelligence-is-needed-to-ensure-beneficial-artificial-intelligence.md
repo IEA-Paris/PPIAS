@@ -6,7 +6,13 @@ needDOI: false
 authors:
   - firstname: Saadi
     lastname: Lahlou
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Paris Institute for Advanced Study
+        positions:
+          - Director
+      - institution: London School of Economics
+        positions:
+          - Professor
     social_channels:
       website: ""
       wikipedia: ""
@@ -407,7 +413,17 @@ authors:
       researchgate: ""
       mendeley: ""
     is_institution: false
-abstract: "The fourth Intercontinental Academia (ICA4) “Intelligence and artificial intelligence” (2020-2021) identified four thematic priorities for future AI research: (1) developing an ontology of AI systems to assess their agency in performing cognitive and behavioural tasks; (2) addressing the challenges of human-artificial agent interaction (H2AI); (3) clarifying the values used by artificial agents and determine their legal status in society; and (4) regulating artificial intelligent agents (AIAs) with appropriate certifications to safeguard human agency and well-being. These priorities require research programmes and funding schemes that involve scientists with complementary perspectives and methodological approaches (neuroscience, computer science, mathematics, engineering, humanities and social sciences)."
+abstract: "The fourth Intercontinental Academia (ICA4) “Intelligence and
+  artificial intelligence” (2020-2021) identified four thematic priorities for
+  future AI research: (1) developing an ontology of AI systems to assess their
+  agency in performing cognitive and behavioural tasks; (2) addressing the
+  challenges of human-artificial agent interaction (H2AI); (3) clarifying the
+  values used by artificial agents and determine their legal status in society;
+  and (4) regulating artificial intelligent agents (AIAs) with appropriate
+  certifications to safeguard human agency and well-being. These priorities
+  require research programmes and funding schemes that involve scientists with
+  complementary perspectives and methodological approaches (neuroscience,
+  computer science, mathematics, engineering, humanities and social sciences)."
 issue: content/issues/Intercontinental Academia 4.md
 picture: null
 highlight: false
