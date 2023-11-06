@@ -14,7 +14,10 @@ lastname: Frassinelli
 positions_and_institutions:
   - institution: University of Konstanz
     positions:
-      - Junior Professor (Assistant Professor) in Artificial Intelligence, Department of Linguistics 
+      - >-
+        Junior Professor (Assistant Professor) in Artificial Intelligence,
+        Department of Linguistics
+      - Junior Professor (Assistant Professor) in Artificial Intelligence
 social_channels:
   google_scholar: ''
   linkedin: ''
