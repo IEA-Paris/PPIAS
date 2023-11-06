@@ -12,7 +12,7 @@ language:
   - English
 lastname: Plonski
 positions_and_institutions:
-  - institution: University of Sao Paulo
+  - institution: University of São Paulo
     positions:
       - Professor
   - institution: UBIAS

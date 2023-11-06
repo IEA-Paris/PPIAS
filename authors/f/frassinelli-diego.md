@@ -12,9 +12,9 @@ language:
   - English
 lastname: Frassinelli
 positions_and_institutions:
-  - institution: Department of Linguistics, University of Konstanz
+  - institution: University of Konstanz
     positions:
-      - Junior Professor (Assistant Professor) in Artificial Intelligence
+      - Junior Professor (Assistant Professor) in Artificial Intelligence, Department of Linguistics 
 social_channels:
   google_scholar: ''
   linkedin: ''

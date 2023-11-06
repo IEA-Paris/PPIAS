@@ -12,9 +12,9 @@ language:
   - English
 lastname: Fujita
 positions_and_institutions:
-  - institution: Department of Computer Science; University of São Paulo (USP)
+  - institution: University of São Paulo
     positions:
-      - Associate Professor
+      - Associate Professor, Department of Computer Science
 social_channels:
   google_scholar: ''
   linkedin: ''
