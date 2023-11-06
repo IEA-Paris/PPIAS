@@ -25,7 +25,10 @@ authors:
     is_institution: false
   - firstname: Estevam
     lastname: Las Casas
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Institute for Advanced Study of Belo Horizonte
+        positions:
+          - Director
     social_channels:
       website: ""
       wikipedia: ""
@@ -38,7 +41,16 @@ authors:
     is_institution: false
   - firstname: Olivier
     lastname: Bouin
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Foundation-Excellence Laboratory RFIEA
+        positions:
+          - Director
+      - institution: " EASSH (European Alliance for Social Sciences and Humanities)"
+        positions:
+          - President-elect of the Governing Board
+      - institution: NetIAS
+        positions:
+          - Secretary-General
     social_channels:
       website: ""
       wikipedia: ""
@@ -51,7 +63,10 @@ authors:
     is_institution: false
   - firstname: Raouf
     lastname: Boucekkine
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Rennes School of Business
+        positions:
+          - Professor of economics and finance
     social_channels:
       website: ""
       wikipedia: ""
@@ -64,7 +79,15 @@ authors:
     is_institution: false
   - firstname: Eliezer
     lastname: Rabinovici
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: CERN Council (European Organization for Nuclear Research)
+        positions:
+          - President
+      - institution: Leon H. and Ada G. Miller Chair of Science
+        positions: []
+      - institution: Racah Institute of Physics, Hebrew University of Jerusalem
+        positions:
+          - Professor
     social_channels:
       website: ""
       wikipedia: ""
@@ -77,7 +100,9 @@ authors:
     is_institution: false
   - firstname: Laura
     lastname: Candiotto
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Centre for Ethics of the University of Pardubice, Czech Republic
+        positions: []
     social_channels:
       website: ""
       wikipedia: ""
@@ -90,7 +115,10 @@ authors:
     is_institution: false
   - firstname: Jack
     lastname: Copeland
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University of Canterbury in New Zealand
+        positions:
+          - Distinguished Professor of Philosophy
     social_channels:
       website: ""
       wikipedia: ""
@@ -103,7 +131,10 @@ authors:
     is_institution: false
   - firstname: Evandro
     lastname: Cunha
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Faculty of Letters of the Federal University of Minas Gerais (UFMG)
+        positions:
+          - Professor
     social_channels:
       website: ""
       wikipedia: ""
@@ -116,7 +147,10 @@ authors:
     is_institution: false
   - firstname: Massimiliano
     lastname: Di Luca
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University of Birmingham School of Psychology
+        positions:
+          - Senior Lecturer
     social_channels:
       website: ""
       wikipedia: ""
@@ -129,7 +163,10 @@ authors:
     is_institution: false
   - firstname: Diego
     lastname: Frassinelli
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Department of Linguistics, University of Konstanz
+        positions:
+          - Junior Professor (Assistant Professor) in Artificial Intelligence
     social_channels:
       website: ""
       wikipedia: ""
@@ -142,7 +179,10 @@ authors:
     is_institution: false
   - firstname: Itzhak
     lastname: Fried
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University of California, Los Angeles (UCLA)
+        positions:
+          - Department of Neurosurgery
     social_channels:
       website: ""
       wikipedia: ""
@@ -155,7 +195,10 @@ authors:
     is_institution: false
   - firstname: Andre
     lastname: Fujita
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Department of Computer Science; University of São Paulo (USP)
+        positions:
+          - Associate Professor
     social_channels:
       website: ""
       wikipedia: ""
@@ -168,7 +211,13 @@ authors:
     is_institution: false
   - firstname: Toshio
     lastname: Fukuda
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Nagoya University
+        positions:
+          - Emeritus professor
+      - institution: Institute of Electrical and Electronics Engineers
+        positions:
+          - President (2020)
     social_channels:
       website: ""
       wikipedia: ""
@@ -181,7 +230,13 @@ authors:
     is_institution: false
   - firstname: Jakub
     lastname: Growiec
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Warsaw School of Economics
+        positions:
+          - Professor
+      - institution: Warsaw School of Economics
+        positions:
+          - Head of the department of Quantitative Economics
     social_channels:
       website: ""
       wikipedia: ""
@@ -194,7 +249,13 @@ authors:
     is_institution: false
   - firstname: Benjamin
     lastname: Guedj
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Inria (France)
+        positions:
+          - Research Scientist
+      - institution: Centre for AI at University College London
+        positions:
+          - Principal Research Fellow
     social_channels:
       website: ""
       wikipedia: ""
@@ -207,7 +268,13 @@ authors:
     is_institution: false
   - firstname: Suranga
     lastname: Kasturi
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Center for Biomedical Informatics at Regenstrief Institute
+        positions:
+          - Research Scientist
+      - institution: Indiana University School of Medicine
+        positions:
+          - Assistant Professor in the Department of Pediatrics
     social_channels:
       website: ""
       wikipedia: ""
@@ -220,7 +287,13 @@ authors:
     is_institution: false
   - firstname: Phillip
     lastname: Kellmeyer
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University Medical Center Freiburg (UKF)
+        positions:
+          - Head of the Neuroethics and AI Lab
+      - institution: Freiburg Institute for Advanced Studies (FRIAS)
+        positions:
+          - Research Fellow
     social_channels:
       website: ""
       wikipedia: ""
@@ -233,7 +306,10 @@ authors:
     is_institution: false
   - firstname: Michael
     lastname: Livermore
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University of Virginia
+        positions:
+          - Law professor
     social_channels:
       website: ""
       wikipedia: ""
@@ -246,7 +322,10 @@ authors:
     is_institution: false
   - firstname: Marc
     lastname: Mézard
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: École Normale Supérieure (ENS) in Paris
+        positions:
+          - Director
     social_channels:
       website: ""
       wikipedia: ""
