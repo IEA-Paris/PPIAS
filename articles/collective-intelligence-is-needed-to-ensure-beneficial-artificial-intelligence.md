@@ -6,7 +6,13 @@ needDOI: false
 authors:
   - firstname: Saadi
     lastname: Lahlou
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Paris Institute for Advanced Study
+        positions:
+          - Director
+      - institution: London School of Economics
+        positions:
+          - Professor
     social_channels:
       website: ""
       wikipedia: ""
@@ -19,7 +25,10 @@ authors:
     is_institution: false
   - firstname: Estevam
     lastname: Las Casas
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Institute for Advanced Study of Belo Horizonte
+        positions:
+          - Director
     social_channels:
       website: ""
       wikipedia: ""
@@ -32,7 +41,16 @@ authors:
     is_institution: false
   - firstname: Olivier
     lastname: Bouin
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Foundation-Excellence Laboratory RFIEA
+        positions:
+          - Director
+      - institution: " EASSH (European Alliance for Social Sciences and Humanities)"
+        positions:
+          - President-elect of the Governing Board
+      - institution: NetIAS
+        positions:
+          - Secretary-General
     social_channels:
       website: ""
       wikipedia: ""
@@ -45,7 +63,10 @@ authors:
     is_institution: false
   - firstname: Raouf
     lastname: Boucekkine
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Rennes School of Business
+        positions:
+          - Professor of economics and finance
     social_channels:
       website: ""
       wikipedia: ""
@@ -58,7 +79,15 @@ authors:
     is_institution: false
   - firstname: Eliezer
     lastname: Rabinovici
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: CERN Council (European Organization for Nuclear Research)
+        positions:
+          - President
+      - institution: Leon H. and Ada G. Miller Chair of Science
+        positions: []
+      - institution: Racah Institute of Physics, Hebrew University of Jerusalem
+        positions:
+          - Professor
     social_channels:
       website: ""
       wikipedia: ""
@@ -71,7 +100,9 @@ authors:
     is_institution: false
   - firstname: Laura
     lastname: Candiotto
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Centre for Ethics of the University of Pardubice, Czech Republic
+        positions: []
     social_channels:
       website: ""
       wikipedia: ""
@@ -84,7 +115,10 @@ authors:
     is_institution: false
   - firstname: Jack
     lastname: Copeland
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University of Canterbury in New Zealand
+        positions:
+          - Distinguished Professor of Philosophy
     social_channels:
       website: ""
       wikipedia: ""
@@ -97,7 +131,10 @@ authors:
     is_institution: false
   - firstname: Evandro
     lastname: Cunha
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Faculty of Letters of the Federal University of Minas Gerais (UFMG)
+        positions:
+          - Professor
     social_channels:
       website: ""
       wikipedia: ""
@@ -110,7 +147,10 @@ authors:
     is_institution: false
   - firstname: Massimiliano
     lastname: Di Luca
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University of Birmingham School of Psychology
+        positions:
+          - Senior Lecturer
     social_channels:
       website: ""
       wikipedia: ""
@@ -123,7 +163,10 @@ authors:
     is_institution: false
   - firstname: Diego
     lastname: Frassinelli
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Department of Linguistics, University of Konstanz
+        positions:
+          - Junior Professor (Assistant Professor) in Artificial Intelligence
     social_channels:
       website: ""
       wikipedia: ""
@@ -136,7 +179,10 @@ authors:
     is_institution: false
   - firstname: Itzhak
     lastname: Fried
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University of California, Los Angeles (UCLA)
+        positions:
+          - Department of Neurosurgery
     social_channels:
       website: ""
       wikipedia: ""
@@ -149,7 +195,10 @@ authors:
     is_institution: false
   - firstname: Andre
     lastname: Fujita
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Department of Computer Science; University of São Paulo (USP)
+        positions:
+          - Associate Professor
     social_channels:
       website: ""
       wikipedia: ""
@@ -162,7 +211,13 @@ authors:
     is_institution: false
   - firstname: Toshio
     lastname: Fukuda
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Nagoya University
+        positions:
+          - Emeritus professor
+      - institution: Institute of Electrical and Electronics Engineers
+        positions:
+          - President (2020)
     social_channels:
       website: ""
       wikipedia: ""
@@ -175,7 +230,13 @@ authors:
     is_institution: false
   - firstname: Jakub
     lastname: Growiec
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Warsaw School of Economics
+        positions:
+          - Professor
+      - institution: Warsaw School of Economics
+        positions:
+          - Head of the department of Quantitative Economics
     social_channels:
       website: ""
       wikipedia: ""
@@ -188,7 +249,13 @@ authors:
     is_institution: false
   - firstname: Benjamin
     lastname: Guedj
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Inria (France)
+        positions:
+          - Research Scientist
+      - institution: Centre for AI at University College London
+        positions:
+          - Principal Research Fellow
     social_channels:
       website: ""
       wikipedia: ""
@@ -201,7 +268,13 @@ authors:
     is_institution: false
   - firstname: Suranga
     lastname: Kasturi
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Center for Biomedical Informatics at Regenstrief Institute
+        positions:
+          - Research Scientist
+      - institution: Indiana University School of Medicine
+        positions:
+          - Assistant Professor in the Department of Pediatrics
     social_channels:
       website: ""
       wikipedia: ""
@@ -214,7 +287,13 @@ authors:
     is_institution: false
   - firstname: Phillip
     lastname: Kellmeyer
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University Medical Center Freiburg (UKF)
+        positions:
+          - Head of the Neuroethics and AI Lab
+      - institution: Freiburg Institute for Advanced Studies (FRIAS)
+        positions:
+          - Research Fellow
     social_channels:
       website: ""
       wikipedia: ""
@@ -227,7 +306,10 @@ authors:
     is_institution: false
   - firstname: Michael
     lastname: Livermore
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University of Virginia
+        positions:
+          - Law professor
     social_channels:
       website: ""
       wikipedia: ""
@@ -240,7 +322,10 @@ authors:
     is_institution: false
   - firstname: Marc
     lastname: Mézard
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: École Normale Supérieure (ENS) in Paris
+        positions:
+          - Director
     social_channels:
       website: ""
       wikipedia: ""
@@ -253,7 +338,14 @@ authors:
     is_institution: false
   - firstname: Deshen
     lastname: Moodley
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University of Cape Town
+        positions:
+          - Associate Professor
+          - Department of Computer Science
+      - institution: South African national Centre for Artificial Intelligence Research
+        positions:
+          - Co-Director
     social_channels:
       website: ""
       wikipedia: ""
@@ -266,7 +358,9 @@ authors:
     is_institution: false
   - firstname: Helga
     lastname: Nowotny
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: ETH Zurich
+        positions: []
     social_channels:
       website: ""
       wikipedia: ""
@@ -279,7 +373,12 @@ authors:
     is_institution: false
   - firstname: Zaven
     lastname: Paré
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Universidade Federal de Juiz de Fora (IAD/UFJF)
+        positions:
+          - New media artist and expert in robotics; collaborator of the
+            Graduate Program in Arts
+          - Culture and Languages
     social_channels:
       website: ""
       wikipedia: ""
@@ -292,7 +391,13 @@ authors:
     is_institution: false
   - firstname: "Ary Guilherme "
     lastname: Plonski
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University of Sao Paulo
+        positions:
+          - Professor
+      - institution: UBIAS
+        positions:
+          - Chief coordinator
     social_channels:
       website: ""
       wikipedia: ""
@@ -305,7 +410,10 @@ authors:
     is_institution: false
   - firstname: Ithai
     lastname: Rabinowitch
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Faculty of Medicine of the Hebrew University of Jerusalem
+        positions:
+          - Assistant Professor
     social_channels:
       website: ""
       wikipedia: ""
@@ -318,7 +426,10 @@ authors:
     is_institution: false
   - firstname: Talina
     lastname: Ralitera
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: French Alternative Energies and Atomic Energy Commission (CEA)
+        positions:
+          - Research Engineer
     social_channels:
       website: ""
       wikipedia: ""
@@ -331,7 +442,11 @@ authors:
     is_institution: false
   - firstname: Martin
     lastname: Rees
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Centre for the Study of Existential Risk (CSER) at the University
+          of Cambridge
+        positions:
+          - Astrophysicist and Cosmologist; co-founder
     social_channels:
       website: ""
       wikipedia: ""
@@ -344,7 +459,10 @@ authors:
     is_institution: false
   - firstname: Oron
     lastname: Shagrir
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: Hebrew University of Jerusalem
+        positions:
+          - Philosopher; Schulman Chair of Philosophy and Cognitive Science
     social_channels:
       website: ""
       wikipedia: ""
@@ -357,7 +475,10 @@ authors:
     is_institution: false
   - firstname: Patricia
     lastname: De Soarez
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: " University of São Paulo"
+        positions:
+          - Associate Professor at the Department of Preventive Medicine
     social_channels:
       website: ""
       wikipedia: ""
@@ -370,7 +491,10 @@ authors:
     is_institution: false
   - firstname: Henry
     lastname: Taylor
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University of Birmingham, UK
+        positions:
+          - Birmingham Fellow
     social_channels:
       website: ""
       wikipedia: ""
@@ -383,7 +507,10 @@ authors:
     is_institution: false
   - firstname: Melvin
     lastname: Wevers
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University of Amsterdam
+        positions:
+          - Assistant Professor in Urban History and Digital Methods
     social_channels:
       website: ""
       wikipedia: ""
@@ -396,7 +523,13 @@ authors:
     is_institution: false
   - firstname: Kawanishi
     lastname: Yasutomo
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: "Nagoya University "
+        positions:
+          - Visiting Associate Professor
+      - institution: RIKEN Guardian Robot Project
+        positions:
+          - Team Leader in the Multimodal Data Recognition Research Team
     social_channels:
       website: ""
       wikipedia: ""
@@ -407,7 +540,17 @@ authors:
       researchgate: ""
       mendeley: ""
     is_institution: false
-abstract: "The fourth Intercontinental Academia (ICA4) “Intelligence and artificial intelligence” (2020-2021) identified four thematic priorities for future AI research: (1) developing an ontology of AI systems to assess their agency in performing cognitive and behavioural tasks; (2) addressing the challenges of human-artificial agent interaction (H2AI); (3) clarifying the values used by artificial agents and determine their legal status in society; and (4) regulating artificial intelligent agents (AIAs) with appropriate certifications to safeguard human agency and well-being. These priorities require research programmes and funding schemes that involve scientists with complementary perspectives and methodological approaches (neuroscience, computer science, mathematics, engineering, humanities and social sciences)."
+abstract: "The fourth Intercontinental Academia (ICA4) “Intelligence and
+  artificial intelligence” (2020-2021) identified four thematic priorities for
+  future AI research: (1) developing an ontology of AI systems to assess their
+  agency in performing cognitive and behavioural tasks; (2) addressing the
+  challenges of human-artificial agent interaction (H2AI); (3) clarifying the
+  values used by artificial agents and determine their legal status in society;
+  and (4) regulating artificial intelligent agents (AIAs) with appropriate
+  certifications to safeguard human agency and well-being. These priorities
+  require research programmes and funding schemes that involve scientists with
+  complementary perspectives and methodological approaches (neuroscience,
+  computer science, mathematics, engineering, humanities and social sciences)."
 issue: content/issues/Intercontinental Academia 4.md
 picture: null
 highlight: false
