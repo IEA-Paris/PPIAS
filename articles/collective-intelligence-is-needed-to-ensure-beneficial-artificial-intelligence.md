@@ -164,9 +164,9 @@ authors:
   - firstname: Diego
     lastname: Frassinelli
     positions_and_institutions:
-      - institution: Department of Linguistics, University of Konstanz
+      - institution: University of Konstanz
         positions:
-          - Junior Professor (Assistant Professor) in Artificial Intelligence
+          - Junior Professor (Assistant Professor) in Artificial Intelligence, Department of Linguistics
     social_channels:
       website: ""
       wikipedia: ""
@@ -196,9 +196,9 @@ authors:
   - firstname: Andre
     lastname: Fujita
     positions_and_institutions:
-      - institution: Department of Computer Science; University of São Paulo (USP)
+      - institution: "University of São Paulo"
         positions:
-          - Associate Professor
+          - Associate Professor, Department of Computer Science;
     social_channels:
       website: ""
       wikipedia: ""
@@ -392,7 +392,7 @@ authors:
   - firstname: "Ary Guilherme "
     lastname: Plonski
     positions_and_institutions:
-      - institution: University of Sao Paulo
+      - institution: "University of São Paulo"
         positions:
           - Professor
       - institution: UBIAS
@@ -476,7 +476,7 @@ authors:
   - firstname: Patricia
     lastname: De Soarez
     positions_and_institutions:
-      - institution: " University of São Paulo"
+      - institution: "University of São Paulo"
         positions:
           - Associate Professor at the Department of Preventive Medicine
     social_channels:
@@ -587,7 +587,7 @@ The fourth challenge identified is the **regulation of AIAs for individual and s
 The experience of ICA4 has shown that such interdisciplinary and multicultural collaboration is possible and fruitful. It is now time to mobilize the scientific community as a whole, including social sciences and humanities whose knowledge and potential contributions have so far been under-utilised. Scientific institutions, research networks and learned societies are urgently called upon to develop new methods and concepts beyond existing disciplinary boundaries, on a scale that will allow a humanistic integration of AI into our societies. The 80+ Institutes for Advanced Study worldwide will actively contribute to the global collective intelligence that is needed to shape the appropriate dynamic framework to ensure that AI will be and remain beneficial. The society as a whole –government, business, citizens-- needs the decisive contribution of science, and it needs it now.
 
 
-[^1]: The participants in ICA4 were as follows. **Chairs and organizers**: Saadi Lahlou (Paris Institute for Advanced Study and London School of Economics); Estevam Barbosa de Las Casas (Institute for Advanced Study of Belo Horizonte); Olivier Bouin (Laboratoire d’Excellence Réseau Français des Instituts d’études avancées); Raouf Boucekkine (Rennes School of Business and Centre for Unframed Thinking); Eliezer Rabinovici (European Organization for Nuclear Research and Hebrew University of Jerusalem). **Steering committee**: Ary Guilherme Plonski (University of Sao Paulo and University Based Institutes for Advanced Study); Sue Gilligan (Birmingham Institute of Advanced Studies). **Mentors**: Philippe Aghion (Collège de France and London School of Economics); Robert Aumann (Hebrew University of Jerusalem); Jack Copeland (University of Canterbury, New Zealand); Itzhak Fried (University of California, Los Angeles); Toshio Fukuda (Nagoya University and IEEE); William Hopkins (Georgia State University); Marc Mézard (Ecole Normale Supérieure-PSL, Paris); Melanie Mitchell (Santa Fe Institute); Helga Nowotny (ETH Zurich); Zaven Paré (Universidade Federal de Juiz de Fora); Martin Rees (University of Cambridge); Oron Shagrir (Hebrew University of Jerusalem); Shimon Ullman ( Weizmann Institute of Science); Xiao-Jing Wang (New York University); Karen Yeung (University of Birmingham), Ada Yonath (Weizmann Institute of Science); Robert Zatorre (McGill University). **Fellows**: Laura Candiotto (University of Pardubice); Alex Cayco Gajic (École Normale Supérieure- PSL, Paris); Patricia Coelho de Soarez (University of São Paulo);Evandro Cunha (Federal University of Minas Gerais); Massimiliano Di Luca (University of Birmingham); Diego Frassinelli (University of Konstanz); Andre Fujita (University of São Paulo); Jakub Growiec (Warsaw School of Economics); Benjamin Guedj (Inria, France and University College London); Suranga Kasturi (Indiana University); Yasutomo Kawanishi (Nagoya University); Philipp Kellmeyer (University of Freiburg); Michael Livermore (University of Virginia); Deshen Moodley (University of Cape Town); Ithai Rabinowitch (Hebrew University of Jerusalem); Talina Ralitera (French Alternative Energies and Atomic Energy Commission); Oksana Stalnov (Israel Institute of Technology); Henry Taylor (University of Birmingham); Melvin Wevers (University of Amsterdam) 
+[^1]: The participants in ICA4 were as follows. **Chairs and organizers**: Saadi Lahlou (Paris Institute for Advanced Study and London School of Economics); Estevam Barbosa de Las Casas (Institute for Advanced Study of Belo Horizonte); Olivier Bouin (Laboratoire d’Excellence Réseau Français des Instituts d’études avancées); Raouf Boucekkine (Rennes School of Business and Centre for Unframed Thinking); Eliezer Rabinovici (European Organization for Nuclear Research and Hebrew University of Jerusalem). **Steering committee**: Ary Guilherme Plonski (University of São Paulo and University Based Institutes for Advanced Study); Sue Gilligan (Birmingham Institute of Advanced Studies). **Mentors**: Philippe Aghion (Collège de France and London School of Economics); Robert Aumann (Hebrew University of Jerusalem); Jack Copeland (University of Canterbury, New Zealand); Itzhak Fried (University of California, Los Angeles); Toshio Fukuda (Nagoya University and IEEE); William Hopkins (Georgia State University); Marc Mézard (Ecole Normale Supérieure-PSL, Paris); Melanie Mitchell (Santa Fe Institute); Helga Nowotny (ETH Zurich); Zaven Paré (Universidade Federal de Juiz de Fora); Martin Rees (University of Cambridge); Oron Shagrir (Hebrew University of Jerusalem); Shimon Ullman ( Weizmann Institute of Science); Xiao-Jing Wang (New York University); Karen Yeung (University of Birmingham), Ada Yonath (Weizmann Institute of Science); Robert Zatorre (McGill University). **Fellows**: Laura Candiotto (University of Pardubice); Alex Cayco Gajic (École Normale Supérieure- PSL, Paris); Patricia Coelho de Soarez (University of São Paulo);Evandro Cunha (Federal University of Minas Gerais); Massimiliano Di Luca (University of Birmingham); Diego Frassinelli (University of Konstanz); Andre Fujita (University of São Paulo); Jakub Growiec (Warsaw School of Economics); Benjamin Guedj (Inria, France and University College London); Suranga Kasturi (Indiana University); Yasutomo Kawanishi (Nagoya University); Philipp Kellmeyer (University of Freiburg); Michael Livermore (University of Virginia); Deshen Moodley (University of Cape Town); Ithai Rabinowitch (Hebrew University of Jerusalem); Talina Ralitera (French Alternative Energies and Atomic Energy Commission); Oksana Stalnov (Israel Institute of Technology); Henry Taylor (University of Birmingham); Melvin Wevers (University of Amsterdam) 
 
 [^2]: [https://www.nature.com/articles/d41586-023-00288-7](https://www.nature.com/articles/d41586-023-00288-7) -  [https://www.nature.com/articles/d41586-023-03266-1](https://www.nature.com/articles/d41586-023-03266-1) - [https://futureoflife.org/open-letter/pause-giant-ai-experiments/](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
 
