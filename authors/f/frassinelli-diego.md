@@ -17,7 +17,6 @@ positions_and_institutions:
       - >-
         Junior Professor (Assistant Professor) in Artificial Intelligence,
         Department of Linguistics
-      - Junior Professor (Assistant Professor) in Artificial Intelligence
 social_channels:
   google_scholar: ''
   linkedin: ''
