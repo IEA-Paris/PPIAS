@@ -2,7 +2,7 @@
 published: true
 article_title: "Moving the Elephant: City action and strategy to transform
   Avenida Séptima into Bogota's first Green Corridor. "
-date: 2023-09-30T06:53:38.310Z
+date: 2023-09-08T06:53:38.310Z
 needDOI: false
 authors:
   - is_institution: false
@@ -36,7 +36,7 @@ abstract: "This paper explores the multifaceted challenges faced by Bogotá in
   public interest and stakeholder demands. The Bogotá case serves as a testament
   to the potential for a more collaborative and productive approach to urban
   development amid increasing scrutiny and opposition. "
-issue: content/issues/Fellows.md
+issue: content/issues/paris-ias-ideas.md
 highlight: false
 language: English
 ---
