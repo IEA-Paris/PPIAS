@@ -38,6 +38,7 @@ abstract: "This paper explores the multifaceted challenges faced by Bogotá in
   development amid increasing scrutiny and opposition. "
 issue: content/issues/paris-ias-ideas.md
 highlight: false
+bibliography: /bibliography-caceido.bib
 language: English
 ---
 ## Introduction
@@ -74,7 +75,7 @@ In recent times, the last five governments of Bogotá have invested millions of 
 
 As referenced by Sotomayor et al. (2023) this was a highly contentious project that generated many different sources of opposition: organized citizens, councilmen, national politicians, community-based organizations and many others. Because of different political and participatory deficit, the project led to judicial actions, mainly the following: 
 
-1. Community organized against the city of Bogotá claiming collective rights, especially environmental and participatory rights[^3]. 
+1. Community organized against the city of Bogotá claiming collective rights, especially environmental and participatory rights[^3].
 2. High-Income development Altos de la Cabrera, claiming affectations to their private property[^4] 
 3. Senator Rodrigo Lara Restrepo against the City of Bogotá for lack of harmonization between planning instruments, environmental claims, and others[^5] 
 4. Environmentalists and Patrimonialists against the project claiming irreparable damages to the city’s patrimonial trees and buildings.[^6]  
@@ -131,7 +132,7 @@ Gathering input, including concepts experts value into the design and highlighti
 
 ## Problem 2. Openness in participation 
 
-In high scale/ long-term projects it is easy for communities to understand and even calculate costs but benefits are diffuse (Foster & Warren, 2021), making public engagement and communication very challenging. Although the TM7 participatory process included city efforts to achieve engagement and participation this was not perceived nor recognized by constituents. As documented by Sotomayor et al. in 2023 many communities referred to this process as a “top-down” and “socializing” process instead of a participatory opportunity that enriches the final design decisions. There was a strong feeling in participants that meetings were held as a formality to validate decisions previously made in technical instances: 
+In high scale/ long-term projects it is easy for communities to understand and even calculate costs but benefits are diffuse (@Foster2022), making public engagement and communication very challenging. Although the TM7 participatory process included city efforts to achieve engagement and participation this was not perceived nor recognized by constituents. As documented by Sotomayor et al. in 2023 many communities referred to this process as a “top-down” and “socializing” process instead of a participatory opportunity that enriches the final design decisions. There was a strong feeling in participants that meetings were held as a formality to validate decisions previously made in technical instances: 
 
 > According to a participant, when residents or groups raised an issue concerning a project, the professionals responsible for the projects would respond with what, to citizen groups, sounded like: “this has already been decided, this is all technically based, here we are, the owners of knowledge” (pers. comm., 04/29/2020). Legal activism thus became the counterpoint to Peñalosa’s brand of top-down technocratic planning. 
 
@@ -220,3 +221,41 @@ The winner-takes-all structuring of these projects (either the city builds what 
 [^10]: Reparación Directa 25000233600020210006200 (2021-062) (Tribunal Administrativo de Cundinamarca – Sección Tercera –, Magistrado Ponente Fernando Iregui Camelo 2021). 
 
 [^11]: Acción Popular 11001333603520230027300 (JUZGADO TREINTA Y CINCO (35) ADMINISTRATIVO DEL CIRCUITO JUDICIAL DE BOGOTÁ - SECCIÓN TERCERA - 2023).
+
+
+
+## Bibliography
+
+Sotomayor, Luisa & Montero, Sergio & Angel-Cabo, Natalia. (2022). Mobilizing legal expertise in and against cities: urban planning amidst increased legal action in Bogotá. Urban Geography. 44. 1-23. 10.1080/02723638.2022.2039433.  
+
+Pardo, C. (2021, January 7). How Bogotá is turning 7,000 citizen proposals into a real plan to redesign a major thoroughfare:  . TheCityFix. <https://thecityfix.com/blog/how-bogota-is-turning-7000-citizen-proposals-into-a-real-plan-to-redesign-a-major-thoroughfare/> 
+
+Foster, D., & Warren, J. (2021). The nimby problem. Journal of Theoretical Politics, 34(1), 145–172. https://doi.org/10.1177/09516298211044852   
+
+Instituto Distrital de la Participacion y Accion Comunal - IDPAC. (2021, November 30). INFORME DE LAS ACTIVIDADES DE LA RUTA DE LA PARTICIPACIÓN CIUDADANA INCIDENTE EN LA PRIMERA FASE DE LA ETAPA DE CO- CREACIÓN DEL PROYECTO CORREDOR VERDE DE LA CARRERA SÉPTIMA. https://www.participacionbogota.gov.co/sites/default/files/2020-12/informe_final_ruta_participacion_CV7_2-12-20.pdf  
+
+Centner, R. (2014, May 25). Distinguishing the right kind of city: Contentious urban middle classes in Argentina, Brazil and Turkey. Academia.edu. https://www.academia.edu/6130044/Distinguishing_the_right_kind_of_city_Contentious_urban_middle_classes_in_Argentina_Brazil_and_Turkey  
+
+Alcaldía de Bogotá. YouTube. (2020). Conoce el Diseño Conceptual del Corredor Verde de la Carrera Séptima. YouTube. Retrieved September 28, 2023, from https://www.youtube.com/watch?v=E1tu_xMLYsE&ab_channel=Alcald%C3%ADadeBogot%C3%A1.  
+
+CONSEJO ECONÓMICO DE POLÍTICA ECONÓMICA Y SOCIAL , C. N. D. P. (2017). CONPES 3882 de 2017. Apoyo del Gobierno Nacional a la Política de Movilidad de la Región Capital Bogotá-Cundinamarca y Declaratoria de Importancia Estratégica del Proyecto Sistema Integrado de Transporte Masivo - Soacha Fases II y III. Departamento Nacional de Planeación. <https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3882.pdf> 
+
+Mojica, C. (2011, May 10). Transmilenio: The battle over Avenida Séptima. HKS Case Program. https://case.hks.harvard.edu/transmilenio-the-battle-over-avenida-septima/  
+
+Rojas, M., Martínez, W., & Fajardo, M. (2021, November 30). Arquitectos y paisajistas de colombia respaldan el corredor verde de la séptima. Bogota.gov.co. https://bogota.gov.co/mi-ciudad/arquitectos-y-paisajistas-respaldan-el-corredor-verde-de-la-septima  
+
+Pardo, C. (2020). Streetmix para la Séptima verde. Séptima Verde. https://septimaverde.gov.co/web/content/2553?unique=ebb7c68485184e553933a961b2cfb7d9d682240d  
+
+Acción popular 25000234100020180068300 (2018-683) (Tribunal Administrativo de Cundinamarca – Sección Primera – Subsección B Magistrado Ponente Oscar Armando Dimaté Cárdenas 2018). 
+
+Acción popular 11001334306020190001700 (2019-017) (Juzgado 60 Administrativo del circuito – Sección Tercera 2019).  
+
+Acción popular 11001334204920190012200 (2019-122) (Juzgado 49 Administrativo de oralidad de Bogotá D.C. 2019).  
+
+Acción popular 11001333502320190009500 (2019-095) (Juzgado 23 Administrativo del circuito – Sección Segunda 2019).  
+
+Acción Popular 11001333603520230027300 (JUZGADO TREINTA Y CINCO (35) ADMINISTRATIVO DEL CIRCUITO JUDICIAL DE BOGOTÁ - SECCIÓN TERCERA - 2023).  
+
+Reparación Directa 25000233600020210006200 (2021-062) (Tribunal Administrativo de Cundinamarca – Sección Tercera –, Magistrado Ponente Fernando Iregui Camelo 2021).  
+
+Secretaría de Movilidad, & Instituto de Desarrollo Urbano. (2021, March 12). CORREDOR VERDE CARRERA SÉPTIMA: ESTUDIO DE IDEA Y PREFACTIBLIDAD. Septima Verde. https://septimaverde.gov.co/web/content/2664?unique=f5daa219ddadc21db99859750bd8d26b88b4e457&amp;download=true
