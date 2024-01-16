@@ -2,7 +2,7 @@
 name_of_the_issue: Paris IAS Ideas
 title: PIAS Ideas
 subtitle: " "
-date: 09/23
+date: 2023-09-01T17:00:16.000+00:00
 cover: /logo-paris-ias-ideas.png
 ---
 The Paris IAS Ideas program features short presentations and papers that discuss the "definitive" version of an idea or concept that outstanding researchers and practitioners have been working on for years but haven't had the opportunity to formalize in a clear, widely accessible publication.
