@@ -38,14 +38,14 @@ abstract: "This paper explores the multifaceted challenges faced by Bogotá in
   development amid increasing scrutiny and opposition. "
 issue: content/issues/paris-ias-ideas.md
 highlight: false
-bibliography: /bibliography-caceido.bib
+bibliography: null
 language: English
 ---
 ## Introduction
 
 In the heart of Bogotá, where economic activity thrives in the shadow of the city's mountainous backdrop, one of its main vessels is soon to be collapsed. Avenidas Caracas and Séptima represent the epicenter of commuting activity in eastern Bogotá; while the first is in process of hosting the first heavy rail metro line for the city, the latter struggles in providing better infrastructure, as it is a political challenge that seems insurmountable. 
 
-![Fig 1. Map of Avenida Séptima in Bogotá, Colombia ](/static/caicedo1.jpeg "Fig 1. Map of Avenida Séptima in Bogotá, Colombia ")
+![Fig 1. Map of Avenida Séptima in Bogotá, Colombia ](/caicedo1.jpeg "Fig 1. Map of Avenida Séptima in Bogotá, Colombia ")
 
 The urgent need for solutions to accommodate the current and future demand in this vital area of the city became evident. However, due to its rich historical heritage, narrow sidewalks, and limited lanes, transforming Carrera Séptima into an efficient urban transit corridor presents a formidable challenge. Over the past two decades, the city has seen multiple administrations propose ambitious projects for this corridor, only to face relentless opposition from politicians,  high-income residents, heritage preservationists, and environmental advocates, among others. These opposition efforts have successfully stalled numerous projects, obstructing much-needed urban renewal. 
 
@@ -82,9 +82,9 @@ As referenced by Sotomayor et al. (2023) this was a highly contentious project t
 
 This challenging panorama faced by the city implied a massive opposition from many different sources, stakeholders and interests. Although they represented different segments of society -including political views- they all came together around the objective of blocking the project. 
 
-![   Fig 2. TransMilenio 7 Opposition Map ](/static/caicedo2.jpeg "   Fig 2. TransMilenio 7 Opposition Map ")
+![   Fig 2. TransMilenio 7 Opposition Map ](/caicedo2.jpeg "   Fig 2. TransMilenio 7 Opposition Map ")
 
-![Table 1. TransMilenio 7 Opposition Map ](/static/caicedo3.jpeg "Table 1. TransMilenio 7 Opposition Map ")
+![Table 1. TransMilenio 7 Opposition Map ](/caicedo3.jpeg "Table 1. TransMilenio 7 Opposition Map ")
 
 Sotomayor et al. (2022) document this mobilization of urban and legal expertise against governmental projects as a confluence of different factors. Most interesting to this study are the following: i.) As a way to prompt class-based visions of how the city should be; ii.) As an alternative to more open and engaging participatory processes; iii.) As an expedite way -because of City government’s slow response rate- to paralyze projects until a new electoral cycle comes along. 
 
@@ -94,9 +94,9 @@ On January 1, 2020 Claudia López started her 4-year term as Mayor of Bogotá. A
 
 After a broad public consultation process on November 23, 2020 she presented the city’s new approach to la Séptima. A Green Corridor, not only as a zero emissions public transit solution but a design interaction between green mobility, public space, and landscaping; also as an instrument for social dialogue, prioritization and the search for consensus. The project is a dialogue opportunity to discuss equity in road space and to reflect upon the value of quality public space, naturalization and the use of non-polluting alternative modes as the future that the city requires. 
 
-![Fig 3. TM7 v CV7 Comparative Design (CRA 7 x Calle 60)  ](/static/caicedo4.jpeg "Fig 3. TM7 v CV7 Comparative Design (CRA 7 x Calle 60)  ")
+![Fig 3. TM7 v CV7 Comparative Design (CRA 7 x Calle 60)  ](/caicedo4.jpeg "Fig 3. TM7 v CV7 Comparative Design (CRA 7 x Calle 60)  ")
 
-![Fig 3. TM7 v CV7 Comparative Design (CRA 7 x Calle 60)  ](/static/caicedo5.jpeg "Source: IDU Bogotá (2022) ")
+![Fig 3. TM7 v CV7 Comparative Design (CRA 7 x Calle 60)  ](/caicedo5.jpeg "Source: IDU Bogotá (2022) ")
 
 Most of the diagnostics and conclusions outlined by Sotomayor et al. (2023), were (at least intuitively) acknowledged by the City of Bogotá in the structuring of a new plan to deliver a project in Carrera Séptima. Nonetheless, after a multivariate alternative analysis led by Secretaría de Movilidad in 2021[^7], best public transport solution for the Corridor was still bus based. Because of this, the City anticipated that certain discussions regarding TM7 could come back and some stakeholders will re-engage in discussion. 
 
@@ -152,7 +152,7 @@ A particular example of effectiveness was the use of an open source software “
 
 “participants could easily create and submit their own proposals to indicate their vision for 15 key locations along the avenue, which were measured to scale and recreated online. (...) Over those two weeks in October, nearly 7,000 proposals from 6,000 users flooded in, 91% of which met all requirements. Streetmix saves each proposal in code, which allowed NUMO to create a precise breakdown of what participants wanted to see on the redesigned Séptima – from public transit to cycling and walking. This analysis provided the city with actionable ideas from those who actually use Séptima (2021). 
 
-![Fig 4. Real Streetmix Interactions During MiSéptima Campaign ](/static/caicedo6.png "Fig 4. Real Streetmix Interactions During MiSéptima Campaign ")
+![Fig 4. Real Streetmix Interactions During MiSéptima Campaign ](/caicedo6.png "Fig 4. Real Streetmix Interactions During MiSéptima Campaign ")
 
 Pardo documented some of the findings of the usage of this open source platform as an innovative participatory strategy as follows: 
 
@@ -184,9 +184,9 @@ Although at the time of publication of this paper it is uncertain if this projec
 
 With special attention to attend particular stakeholders, interests and through a more comprehensive governance strategy pressure groups that were strongly vocal and organized in the TM7 process lacked incentives to continue: environmentalists, patrimonialists, developers and former plaintiffs with very specific interests were treated from a more open and inclusive approach which was effective in mitigating their interest in continue engaging in judicial action. Political stakeholders, anti BRT Activists and anti-intervention CBOs continue to organize against the project in very similar ways as they did against TM7[^11], which demonstrates still mobilizing legal expertise to promote certain visions and agendas (and particularly the blockage of city projects to achieve certain vision of the city) will continue to be present in highly contested projects. 
 
-![Fig 5. Green Corridor 7 Opposition Map ](/static/caicedo7.jpeg "Fig 5. Green Corridor 7 Opposition Map ")
+![Fig 5. Green Corridor 7 Opposition Map ](/caicedo7.jpeg "Fig 5. Green Corridor 7 Opposition Map ")
 
-![Table 2. Green Corridor Opposition Mapping ](/static/caicedo8.jpeg "Table 2. Green Corridor Opposition Mapping ")
+![Table 2. Green Corridor Opposition Mapping ](/caicedo8.jpeg "Table 2. Green Corridor Opposition Mapping ")
 
 The takeaway on Bogotá’s approach to contain judicial activism against this project can be summarized as follows: i.) It is useful (and necessary) to build better engagement strategies and an institutional response capable of avoiding -or even atomizing- different interests surrounding high-impact projects; and ii.) Projects should build -and sustain through their entire life- a relatable narrative that can sustain the atomization of stakeholders. It is critical to build -and document- a stronger case around more typical collective rights to be contested (environment, public participation, planning principles, etc). 
 
