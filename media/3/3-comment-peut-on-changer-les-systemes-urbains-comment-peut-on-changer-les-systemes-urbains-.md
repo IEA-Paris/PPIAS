@@ -1,5 +1,5 @@
 ---
-article_slug: 3_comment-peut-on-changer-les-systèmes-urbains
+article_slug: 3_comment-peut-on-changer-les-systemes-urbains
 caption: 'Comment peut-on changer les systèmes urbains ? '
 date: 2023-04-06T14:23:27.513Z
 highlight: false

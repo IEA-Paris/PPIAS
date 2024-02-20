@@ -1,5 +1,5 @@
 ---
-article_slug: EneTran_2016_10_clôture
+article_slug: EneTran_2016_10_cloture
 caption: Remerciements et mots de clôture
 date: 2016-05-23T08:00:00.000Z
 highlight: false

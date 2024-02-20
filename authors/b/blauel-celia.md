@@ -4,6 +4,7 @@ articles:
   - RES_2020_12_conclusion-et-cloture - EneTran_2016_10_clôture
   - RES_2020_12_conclusion-et-cloture
   - EneTran_2016_10_clôture
+  - EneTran_2016_10_cloture
 exerpt: ''
 firstname: Célia
 is_institution: false
