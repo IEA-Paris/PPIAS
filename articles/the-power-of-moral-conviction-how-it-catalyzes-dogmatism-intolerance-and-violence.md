@@ -24,8 +24,8 @@ authors:
       google_scholar: ""
       researchgate: ""
       mendeley: ""
-abstract: "Our moral sense is a biological adaptation specific to our species.
-  It has evolved to facilitate group living, regulate social interactions, and
+abstract: Our moral sense is a biological adaptation specific to our species. It
+  has evolved to facilitate group living, regulate social interactions, and
   promote cooperation beyond kinship. Beliefs intensely associated with moral
   values can motivate positive societal progress. However, moral convictions can
   also lead to dogmatism, antagonistic attitudes, a polarized political climate,
@@ -35,7 +35,12 @@ abstract: "Our moral sense is a biological adaptation specific to our species.
   moralization increases the strength of beliefs and attitudes –in certainty and
   importance. Moral convictions are perceived as absolute, universal, and
   definite beliefs or principles. They engage the brain circuit associated with
-  reward processing and valuation, which motivates and reinforces behavior. "
+  reward processing and valuation, which motivates and reinforces behavior.
+  Moral commitments act as signals to conform to the rules of one’s coalition,
+  which causes predictable cognitive biases that benefit the self and the group.
+  Moral convictions are held with great confidence. This leads to confirmation
+  bias, which means that people are unwilling to seek or accept corrective
+  information no matter how accurate the content of their beliefs.
 issue: content/issues/paris-ias-ideas.md
 highlight: false
 language: English
