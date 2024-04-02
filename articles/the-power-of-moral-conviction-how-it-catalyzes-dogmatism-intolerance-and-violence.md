@@ -45,13 +45,9 @@ issue: content/issues/paris-ias-ideas.md
 highlight: false
 language: English
 ---
-
-
-# **[Introduction](<>)**
+**[Introduction](<>)**
 
 Do we respond similarly to news of petty crimes, police brutality, insurrection on the US Capitol, discriminatory social policies, or terrorist attacks? Some of these events betray basic values and principles, such as people's inherent worth and equality, respect for human rights, the importance of civil society, and the rule of law. This is the case because humans are a judgmental bunch. Cross-culturally, since the dawn of humanity, people judge some behaviors are right or wrong and deserve rewards or punishments. Perceptions of morality are increasingly generalized as people inhabit larger and more unfamiliar social networks and interact with anonymous persons (Jackson et al., 2024). Moreover, and contrary to what many people believe, morality (kindness, civility, honesty, and basic human decency) is not declining. It is just the opposite, as shown by a study spanning 60 nations worldwide (Mastroianni & Gilbert, 2023). On average, we treat each other far better than our forebears.
-
- 
 
 Converging lines of evidence–from game theory, biology, anthropology, psychology, and economics–suggest that morality is a collection of evolved adaptations for promoting group living and cooperation (Curry et al., 2019; Enke, 2019). As an ultrasocial species, humans highly value teamwork and cooperation, and our collective orientation benefits us individually by helping gain coalition partners, mates, and friends. The constellation of thoughts and feelings that constitute a sense of morality has evolved to enable individuals to uphold cooperative social relations that maximize their biological benefits (Krebs, 2008). However, while the capacity for morality is universal, there is tremendous variability in which behaviors people think are immoral. Despite substantial individual and cultural variation, nearly all manifestations of morality involve, are based on, influence, and govern our relations with other people (Rai & Fiske, 2011). Furthermore, morality has evolved as a natural extension of our coalitional psychology (Tooby, 2017). As a result, it is strategically tuned to specific aspects of group dynamics. This cultural-evolutionary account explains why morality can lead to dogmatism, intolerance, and violence.
 
@@ -87,7 +83,7 @@ The article is organized into eleven sections. Following this general introducti
 
 Overall, the understanding that emerges from integrating social sciences and biological science knowledge, demonstrates that moralization strongly increases the strength of attitudes ­–their certainty and importance– which in turn motivate political commitment, dogmatism, and ideological extremism, independent of the political sophistication of the actors and across the political spectrum. Moral conviction is the catalyst that turns beliefs into action, for better and for worse.
 
-# **[Why studying moral conviction matters](<>)**
+**[Why studying moral conviction matters](<>)**
 
 Moral convictions can inspire change and positive collective action but can also prompt dogmatism, intolerance, and societal divisions. Every day, we are bombarded with news reports of protests related to conflicts associated with social values. Some of them are extremely violent and result in the loss of human lives. As a dramatic example, in November 2002 in the city of Kaduna, Nigeria, around 250 people were killed in a series of religiously-motivated riots. The apparent trigger for the violence, which became known as the "Miss World riots," was an article published in a Lagos-based newspaper that was perceived as blasphemous by some Muslims. Within days, expressions of displeasure or offense at the article were seized upon by some militant groups, and the protests turned violent. Muslims attacked Christians and Christians retaliated against Muslims. Both groups went on a rampage, killing, burning, and looting. Not lethally violent, yet still concerning, decades ago, following the publication of Thornhill and Palmer’s academic book on “A natural history of rape –biological bases of sexual coercion,” which offered a different view on rape contrary to social constructivism that considers it an expression of male domination without sexual arousal, Joan Roughgarden vehemently responded in the journal Ethology (2004), arguing that *“critics of evolutionary and human-sexuality psychology should realize that they're dealing with a political fight more than an academic dispute. We must organize as activists to oppose this junk and get out of our safe comfortable armchairs, for much is at stake. Thornhill and Palmer are guilty of all allegations, and they deserve to hang.”*[<!--\[if !supportFootnotes]-->\[3]<!--\[endif]-->](#_ftn3)
 
@@ -109,7 +105,7 @@ While morality binds us to others, allowing for more harmonious cooperation and 
 
 Dogmatism, intolerance, and resulting physical, verbal, or symbolic violence motivated by moral conviction are thus serious concerns in today’s world. Moralized identification with one group/coalition leads to polarized attitudes, identity-based ideology (whether it’s gender, sexual orientation/identification, religion, race, ethnicity, or socioeconomic status), and sectarianism. The more individuals are certain of a belief –regardless of its objective correctness—the more durable it will be, and the more willing they are to express their opinion and shun others who do not accept their views (Tormala & Rucker, 2015), and polarize the political debate. Social media, currently used by 5 billion people, amplifies polarizing and divisive messages, especially for moralized content (Rathje et al., 2021). Such a combination is potentially toxic and undermines our democracies, as well as our capacity to harmoniously live together and find pragmatic solutions to current challenges. It seems rational to strongly defend a view about facts that one evaluates as beyond doubt, like the earth is round or viruses evolved faster than any other living organisms. Distinguishing the epistemology of factual and normative beliefs is important to consider.
 
-# **[A functionalist perspective on morality](<>)**
+**[A functionalist perspective on morality](<>)**
 
 Moral thinking pervades our lives, and this is specific to our species. The human predisposition for social preferences[<!--\[if !supportFootnotes]-->\[5]<!--\[endif]-->](#_ftn5) and cooperation has emerged through natural selection in part due to the benefits it conferred on our ancestors living in large groups. This requires complex systems of social evaluation to distinguish individuals who can be trusted, who are likely to cooperate from those who are not. Our species has the propensity to produce cultural organizations that create social norms (regulation of acceptable and standard ways of behaving and achieving goals) and enforce them through institutions designed to assess the acceptability of individuals' behaviors and assign appropriate punishments to those who violate social norms (Tomasello, 2016).
 
@@ -169,7 +165,7 @@ Moreover, some evolutionary anthropologists have argued that moral judgment is r
 
 Overall, morality has evolved as a regulatory system that includes the creation and sensitivity to social norms, notions of justice, fairness, and rights, and a meta-perception of some of our decisions, judgments, and attitudes that can vary in intensity. Overall social and moral norms facilitate a harmonious and cooperative co-existence, especially when individuals have a high degree of conformity.
 
-# **[Social domain theory of morality](<>)**
+**[Social domain theory of morality](<>)**
 
 Over decades of research in psychology, it has become clear that what people subjectively experience as moral is psychologically different from what they experience as social preferences or conventions. Across cultures and very early in development, people classify behaviors, values, beliefs, and practices into distinct categories (Smetana, 2013; Nucci, 1996; Turiel, 2006). The moral domain includes actions considered inherently wrong because of their detriments on the well-being of others, such as physical and psychological harm, violations of property, or damage to equity. The moral domain thus brings together prescriptive judgments of justice, rights, and welfare considerations relating to how people should treat each other. Moral judgments are impersonal, generalizable, and motivate the possibility of sanction to enforce respect for people and their rights. The conventional domain includes actions that are not inherently wrong but whose wrongfulness depends on the existence of a rule or norm (such as how to dress for a wedding or a funeral), and these rules and judgments of the conventional domain vary according to time and place. They are, therefore, not universal. Judgments that fall into this category are justified by reference to the maintenance of social norms and respect for authority. Finally, the personal domain encompasses preferences and actions whose consequences do not affect other people or society (the private sphere). Though people disagree about what falls into each of these three domains, once a belief, value, or practice has been categorized into one of them, the categorization consistently and powerfully predicts people’s responses to it, especially when it differs from their own (Wright, 2023). Overall, the wrongness of moral transgressions is seen as stemming from their intrinsic features, such as their intrusion on others’ rights and welfare (Smetana, 2013).  Morality is seen as normatively binding, and thus, moral rules are hypothesized to be unalterable. However, depending on the culture, moral principles may carry different weight, and the boundaries between domains are fuzzy. Depending on historical epochs, social ecology (population density, mobility, pathogen avoidance, weather), religious beliefs, and institutional rules (e.g., kinship structure and economic markets), each society develops a moral system that emphasizes specific orientations (Bentahila et al., 2021). Furthermore, there are cross-cultural differences in the tightness of social norms that impact the enforcement of moral rules and punishments (Gelfand et al., 2017).
 
@@ -193,7 +189,7 @@ How do we reconcile the universality of our moral capacity and the plurality of 
 
 Morality corresponds to a set of principles and norms that guide the conduct of individuals within their group. While some moral principles seem to transcend time and cultures, (e.g., fairness or family obligations), moral values are generally not set in stone. Almost all manifestations of morality involve, rely on, influence, and govern our relationships with others.
 
-# **[Virtuous violence](<>)**
+**[Virtuous violence](<>)**
 
 Violence is generally and wrongly considered as the antithesis of sociality. It is usually seen as an expression of our animalistic nature, which is expressed when learned cultural norms break down or when our ability to control and inhibit ourselves is deficient. Violence is also perceived as the essence of evil, the prototype of immorality. It manifests in many different ways such as a reflex behavior (reactive aggression), coercion, threat of physical force, hostility, and terror, and thus needs to be determined by assessing intentionality.  Studies in behavioral ecology and anthropology indicate that humans have a high potential for proactive aggression (involving some degree of premeditation) toward their fellow humans, including lethal violence, an attitude we share with other primates, and chimpanzees in particular (Gómez et al., 2016). Furthermore, this potential for violent aggression is much higher in men than in women, likely due to an unusually high benefit/cost ratio for intraspecific aggression in the former (Georgiev et al., 2014). Overall, human aggression is characterized as a combination of low propensities for reactive aggression and coercive behavior and high propensities for proactive aggression (especially coalitionary proactive aggression). These tendencies are associated with the evolution of groupishness, self-domestication, and social norms (Sarkar & Wrangham, 2023).
 
@@ -258,7 +254,7 @@ Hatred has been characterized as the negative evaluation of a target that is lin
 
 Counterintuitively, violence is not antithetical to morality. It can be a means to justify a virtuous end like in cultures of honor or when restoring social order. Similarly, self-sacrificial behavior, including giving one’s life for a cause, is generally motivated by strong moral conviction.
 
-# **[Coalitional dynamics and morality](<>)**
+**[Coalitional dynamics and morality](<>)**
 
 Humans are an ultra-social species. This sociality is not a happy coincidence but a biological adaptation: a survival response to evolutionary pressures (Cacioppo et al., 2010; von Hippel, 2018). The degree of sociability between individuals is directly related to the survival and reproductive strategies that dictate the success of a species. When the benefits of living together outweigh the costs of living alone, animals tend to form groups (Alexander, 1974). A phylogenetic comparative analysis of ~1000 mammalian species on three states of social organization (solitary, pair-living, and group-living) and longevity shows that group-living species generally live longer than solitary species, and that the transition rate from a short-lived state to a long-lived state is higher in group-living than non-group-living species (Zhu et al., 2023). Living in groups allows for better protection against predators, facilitates access to resources (information, food, sexual partners), and in humans promotes communal parental care, cooperation, and social learning. Evolutionary and ecological pressures toward individualism and competition are met by the countervailing pressures placed on us by our role in cooperative and interdependent groups. We were successful on the savannah (and everywhere else) because we evolved to develop the capacity to work incredibly well as a team and cooperate in sharing information. For this reason, teamwork and cooperation are highly valued in potential friends and mates, and our collective orientation benefits us individually by helping us gain coalition partners (von Hippel, 2018). Throughout evolution, humans have relied not only on the support of their relatives, but also that of genetically unrelated individuals. Humans have evolved a range of psychological mechanisms that promote an attraction to and capacity for living in groups. The consequence of this obligatory interdependence is that the building blocks of human psychology –emotion, motivation, cognition– have been shaped by the demands of social interdependence (Baumeister & Leary, 1995). Humans evolved in the context of intense intergroup competition, and groups comprised of loyal members more often succeeded than nonloyal ones (Richerson et al., 2010). Mathematical modeling of social evolution combined with empirical evidence from anthropology and behavioral ecology, reveal that the motivation to be invested in their own members’ welfare co-evolved with intergroup competition over resources. An optimal condition for genetically encoded hyper prosociality to propagate is when groups are in conflict. In line with cultural group selection theory (Richerson, Boyd & Henrich, 2010), it has been proposed that during the late Pleistocene, groups with higher numbers of prosocial individuals cooperated more effectively and thus outcompeted others (Marean, 2015). As a non-zero-sum game, our morality is grounded in coalitional psychology with competition-cooperation dynamics. Our cooperative dispositions were superimposed onto human psychology–without eliminating those older social adaptations that favor friends and kin–and this renders us susceptible to an inherent conflict between other-regarding and public-minded concerns, as well as gives us more selfish and nepotistic dispositions that other species are spared with (Richerson & Boyd, 2005).
 
@@ -340,7 +336,7 @@ When socioeconomic and political issues are highly moralized, individuals to who
 
 Coalitional affiliation shapes appraisals of events concerning these groups and motivates emotional responses, rewards and value processing and resulting moral judgment accordingly, especially in intergroup conflicts.
 
-# **[The functional architecture of moral conviction](<>)**
+**[The functional architecture of moral conviction](<>)**
 
 Beliefs and attitudes that are held with strong moral convictions are psychologically distinct from other beliefs. Moral conviction refers to a strong and absolute belief that something is right or wrong, moral or immoral (Bauman & Skitka, 2009). In addition, when a moral belief is perceived as grounded in objective facts, independent from contexts and cultures, it implies that there is only one right answer as to whether something is morally right or wrong, good or bad. Such absolute moral realism, combined with a greater perception of consensus within one’s community or alliance, is associated with feelings of superiority, an inflexible mindset, and intolerance (Wright & Pözler, 2021). Framing an action as moral leads to more extreme and faster judgments (Van Bavel et al., 2012).
 
@@ -406,7 +402,7 @@ It is important to note that some individuals can hold a strong moral conviction
 
 Hence, there is no need to call for morality to be abolished, rather be mindful of some detrimental consequences such as intolerance for diverging values, beliefs, and practices. Sometimes, moral disagreements are fundamental, and intolerance seems justified and legitimate. But sometimes many disagreements can be traced to the distorting effects of emotions, attitudes, and interests that are inevitably bound up with moral issues.
 
-# **[The process of moralization](<>)**
+**[The process of moralization](<>)**
 
 Moral values are central to human identity. They are distinct from other attitudes and opinions in several ways. Our most cherished moral beliefs are those associated with values because they have a force of attraction or repulsion. Moralized beliefs and attitudes exert a powerful motivation because they are associated with values that exert force with direction and intensity and thus guide people to pursue specific desired goals and outcomes. More formally, Lewin (1951) developed the field theory suggesting that values have the status of power fields, which represent potential energy and desire. When activated by opportunity or threat, they produce goals. Goals have the status of force fields. They represent kinetic energy or actual desire. Goal-directed motives are vectors in a force field. They reflect the desire of the person to attain a positively-valenced goal, associated with pleasure, or to avoid a negatively-valenced one, associated with pain. Behavior is a movement within the present set of force fields. Thus, the relationships between values, goals, motivation, and behavior are specified (Batson, 2015).
 
@@ -442,7 +438,7 @@ This link between abstract ideas, values, moral convictions, and the reward circ
 
 In short, evolution has endowed us with a sensation, pleasure, which allows the brain to approximate, in advance, how good or useful something is for us, generally what increases our fitness. This system can assign values to objects or situations that we imagine, including abstract ideas or objects such as ideological or religious attitudes and beliefs. Moralization increases their subjective value, which motivates and reinforces behaviors responsible for obtaining this reward and association with pleasure.
 
-# **[Metacognition and dogmatism](<>)**
+**[Metacognition and dogmatism](<>)**
 
 Cognitive rigidity is frequently an outcome characteristic of moral conviction. Once an issue is highly moralized, it is likely to be perceived as an absolute belief about right or wrong. And this belief is held with high subjective confidence. High confidence in a belief leads to confirmation bias, making people unwilling to seek out corrective information and being dogmatic regardless of accuracy (Rollwage et al., 2018; Toner, Leary & Asher, 2013). Underlying cognitive processes, under the umbrella term of metacognition, can explain variation in people’s capacity to reflect on, evaluate and control mental functioning in a variety of useful ways (Fleming, 2024). Metacognition allows individuals to effectively monitor, evaluate and recognize when they may be right or wrong and adjust their representations accordingly (Mazancieux et al., 2023; Proust, 2013). Specific measures of metacognition can estimate the statistical relationship between confidence judgment and objective performance, which is known as metacognitive sensitivity (Fleming, 2024).
 
@@ -494,7 +490,7 @@ It seems established that lower cognitive flexibility and metacognition levels a
 
 Finally, it is worth mentioning the relationship between metacognitive abilities, humility, and self-esteem. Favorable impressions of oneself may not be an unmitigated good from the perspective of society if they lead to violence (Baumeister et al., 1996). Politically motivated violence, including terrorism, is often correlated with and preceded by strongly favorable self-regard, a sense of moral superiority, confidence and arrogance, and the perception that these views are threatened by others. Conversely, a growing body of research has demonstrated the relevance of intellectual humility, that is, recognizing the limits and fallibility of one’s knowledge, in helping buffer people from some of their more authoritarian, dogmatic, and other biased proclivities (Porter et al., 2022). In the political domain, intellectual humility is associated with less affective polarization concerning political and religious groups. Still, individuals are unlikely to act in an intellectually humble manner when motivated by strong convictions or when their political, religious, or ethical values seem to be challenged (Krumrei-Mancuso et al., 2020).
 
-# **[Can moralization be countered?](<>)**
+**[Can moralization be countered?](<>)**
 
 Moralization is a social-psychological process through which morally neutral issues take on moral significance. Moralization can be a positive force and lead to good outcomes like social progress. Yet it can be detrimental to individuals and to society as a whole by exacerbating social conflict and political polarization. Understanding the cognitive, emotional, and social processes and mechanisms underlying moral convictions is essential to guide how to best respond to dogmatic views when necessary.
 
@@ -514,7 +510,7 @@ Framing strategies can be successfully designed to counter moralized attitudes o
 
 On a positive note, the process of moralization is reversible. Something in the moral domain can gradually cease to be so, and become a mere preference and vice versa (Rozin, 1999). In the United States, for instance, attitudes to inter-racial marriage, marijuana use, and homosexuality have become a matter of personal preference rather than morals, at least for most citizens.
 
-# **[Conclusion](<>)**
+**[Conclusion](<>)**
 
 Harmonious and productive group living requires adaptive systems for encouraging, maintaining, and regulating social order. Morality has evolved to facilitate cooperation between individuals whose survival depends on one another, by coordinating their efforts to foster mutual interests. Morality also serves a critical role in bringing into focus issues of harm and fairness–and the potential for people to be harmed and mistreated–so that we can make course corrections to protect and promote our individual and collective well-being (Wright & Pölzler, 2021).
 
@@ -538,49 +534,30 @@ A better scientific understanding of attitudes and moralization dynamics is valu
 
  
 
-# **[Box 1. Glossary of terms and key concepts](<>)**
+**[Box 1. Glossary of terms and key concepts](<>)**
+
+* **Attitude** refers to a set of emotions, beliefs, and behaviors toward a particular person, object, or event. Attitudes are composed of three dimensions: strength, accessibility, and ambivalence. Attitudes can be explicit and implicit.
+* **Coalition** or alliance accounts for individuals behaving in ways to enhance each other’s welfare.
+* **Dopamine** is a neurotransmitter that is both excitatory and inhibitory in function, as well as a neuromodulator involved in reward and motivation. Transient mesolimbic dopamine release events energize reward-seeking and encode reward value.
+* **Moral conviction** is a strong and absolute belief that something is right or wrong, moral or immoral.
+* **Moral realism** is the view that morality is grounded in objective facts, independent from the beliefs, attitudes, and practices of individuals and cultures.
+* **Morality**, through the internalization of social norms, coordinates interpersonal exchanges, facilitates coexistence and cooperation, and allows to find a balance when individual interests conflict with collective interests. People are motivated by morality because it is advantageous at the individual level – a non-zero-sum game.
+* **Moralization** converts preferences into values and as a result, increases the likelihood of internalization, invokes greater emotional response, draws attention, and mobilizes coalition members.
+* **Normative influence** prompts individuals to conform to group norms to fit in, gain acceptance, and feel good.
+* **Norms** can be categorized as descriptive or injunctive. Descriptive norms are regularities of behaviors corresponding to what most people do in a given situation. Injunctive norms are behavioral expectations that are enforced by sanctions.
+* **Reward system** is a group of interconnected regions that determine the valence of a stimulus, and signal whether it should be approached or avoided. Structures that are part of the reward system are found along the primary dopamine pathways, including the ventral tegmental area that projects to the nucleus accumbens, which is part of the ventral striatum. The reward circuit, considered to be embedded within the cortico-basal ganglia network, is a central component for developing and monitoring motivated behaviors.
+* **Neural valuation system** includes the ventral striatum and ventromedial prefrontal cortex (vmPFC) in which neuronal activity is linked to preference judgments and valuation in decision-making. The vmPFC and dorsal anterior cingulate cortex code reward signals across a wide range of value-based choice contexts, including the subjective value of information as well as anticipatory signals indicating that a reward is expected later on. Social reputation and approval are powerful social rewards.
+* **Social exchange heuristic** corresponds to a set of assumptions about social interaction viewed as a form of reciprocal cooperation. People attempt to reduce costs and maximize rewards. Then, they base the likelihood of developing a relationship with someone on the anticipated outcomes. Individuals intuitively cooperate or defect depending on which behavior is beneficial in their interactions.
+* **Social influence** refers to the phenomenon where an individual's behaviors, opinions, or beliefs change as a result of their network ties, often becoming more similar to those with whom they are connected.
+* **Valuation** is a cost-assignment mechanism. Valuation puts meaning into neural computations and is used to guide behavior. It is a signal for energetic investment. Humans have a unique capacity to value abstract and arbitrary objects.
+* **Value** is a motivational force (attraction toward something or repulsion away) representing potential energy or desires. It has direction and intensity. Value is an integration of factors that affect how desirable a reward is, including its magnitude, the probability of receiving it, and the effort needed to obtain it. When activated by threats or opportunities, values produce goals that lead to action. The neural representation of value is implemented in ventromedial prefrontal cortex and ventral striatum.
+* **Ventral striatum** is the primary input nucleus of the basal ganglia. The ventral portion of the striatum is activated by rewards and receives input from the dopamine system. The magnitude of activity in the ventral striatum reflects the value of reward-predicting stimuli.
+* **Ventromedial prefrontal cortex** is a subregion of the prefrontal cortex, interconnected with subcortical and cortical regions, activated by stimuli that anticipate a reward. Neurons in this region code the subjective value (the specific needs and preferences of the individual). Values coded in the vmPFC influence the activity of cortical regions involved in generating behavior.
+* **Virtue signaling** corresponds to conspicuously displaying opinions intended to demonstrate one's good character or the moral correctness of one's position on a particular issue. It is a powerful evolved force for social regulation by creating common knowledge around a moral issue that people would otherwise ignore. This works even when there is no guarantee the individuals who are sending the signals are particularly virtuous or committed to the cause.
 
  
 
-**• Attitude** refers to a set of emotions, beliefs, and behaviors toward a particular person, object, or event. Attitudes are composed of three dimensions: strength, accessibility, and ambivalence. Attitudes can be explicit and implicit.
-
-**• Coalition** or alliance accounts for individuals behaving in ways to enhance each other’s welfare.
-
-**• Dopamine** is a neurotransmitter that is both excitatory and inhibitory in function, as well as a neuromodulator involved in reward and motivation. Transient mesolimbic dopamine release events energize reward-seeking and encode reward value.
-
-**• Moral conviction** is a strong and absolute belief that something is right or wrong, moral or immoral.
-
-**• Moral realism** is the view that morality is grounded in objective facts, independent from the beliefs, attitudes, and practices of individuals and cultures.
-
-**• Morality**, through the internalization of social norms, coordinates interpersonal exchanges, facilitates coexistence and cooperation, and allows to find a balance when individual interests conflict with collective interests. People are motivated by morality because it is advantageous at the individual level – a non-zero-sum game.
-
-**• Moralization** converts preferences into values and as a result, increases the likelihood of internalization, invokes greater emotional response, draws attention, and mobilizes coalition members.
-
-**• Normative influence** prompts individuals to conform to group norms to fit in, gain acceptance, and feel good.
-
-**• Norms** can be categorized as descriptive or injunctive. Descriptive norms are regularities of behaviors corresponding to what most people do in a given situation. Injunctive norms are behavioral expectations that are enforced by sanctions.
-
-**• Reward system** is a group of interconnected regions that determine the valence of a stimulus, and signal whether it should be approached or avoided. Structures that are part of the reward system are found along the primary dopamine pathways, including the ventral tegmental area that projects to the nucleus accumbens, which is part of the ventral striatum. The reward circuit, considered to be embedded within the cortico-basal ganglia network, is a central component for developing and monitoring motivated behaviors.
-
-**• Neural valuation system** includes the ventral striatum and ventromedial prefrontal cortex (vmPFC) in which neuronal activity is linked to preference judgments and valuation in decision-making. The vmPFC and dorsal anterior cingulate cortex code reward signals across a wide range of value-based choice contexts, including the subjective value of information as well as anticipatory signals indicating that a reward is expected later on. Social reputation and approval are powerful social rewards.
-
-**• Social exchange heuristic** corresponds to a set of assumptions about social interaction viewed as a form of reciprocal cooperation. People attempt to reduce costs and maximize rewards. Then, they base the likelihood of developing a relationship with someone on the anticipated outcomes. Individuals intuitively cooperate or defect depending on which behavior is beneficial in their interactions.
-
-**• Social influence** refers to the phenomenon where an individual's behaviors, opinions, or beliefs change as a result of their network ties, often becoming more similar to those with whom they are connected.
-
-**• Valuation** is a cost-assignment mechanism. Valuation puts meaning into neural computations and is used to guide behavior. It is a signal for energetic investment. Humans have a unique capacity to value abstract and arbitrary objects.
-
-**• Value** is a motivational force (attraction toward something or repulsion away) representing potential energy or desires. It has direction and intensity. Value is an integration of factors that affect how desirable a reward is, including its magnitude, the probability of receiving it, and the effort needed to obtain it. When activated by threats or opportunities, values produce goals that lead to action. The neural representation of value is implemented in ventromedial prefrontal cortex and ventral striatum.
-
-**• Ventral striatum** is the primary input nucleus of the basal ganglia. The ventral portion of the striatum is activated by rewards and receives input from the dopamine system. The magnitude of activity in the ventral striatum reflects the value of reward-predicting stimuli.
-
-**• Ventromedial prefrontal cortex** is a subregion of the prefrontal cortex, interconnected with subcortical and cortical regions, activated by stimuli that anticipate a reward. Neurons in this region code the subjective value (the specific needs and preferences of the individual). Values coded in the vmPFC influence the activity of cortical regions involved in generating behavior.
-
-**• Virtue signaling** corresponds to conspicuously displaying opinions intended to demonstrate one's good character or the moral correctness of one's position on a particular issue. It is a powerful evolved force for social regulation by creating common knowledge around a moral issue that people would otherwise ignore. This works even when there is no guarantee the individuals who are sending the signals are particularly virtuous or committed to the cause.
-
- 
-
-# **[References](<>)**
+**[References](<>)**
 
 Aknin, L. B., & Whillans, A. V. (2021). Helping and happiness: A review and guide for public policy. Social Issues and Policy Review, 15(1), 3–34.
 
