@@ -5,7 +5,25 @@ article_title: "The power of moral conviction: How it catalyzes dogmatism,
 date: 2024-04-02T12:58:56.117Z
 type: article
 needDOI: false
-authors: []
+authors:
+  - is_institution: false
+    firstname: Jean
+    lastname: Decety
+    positions_and_institutions:
+      - institution: Department of Psychology and the Department of Psychiatry and
+          Behavioral Neuroscience, The University of Chicago
+        positions: []
+      - institution: Paris Institute for Advanced Study
+        positions: []
+    social_channels:
+      website: ""
+      wikipedia: ""
+      orcid: ""
+      linkedin: ""
+      webstwitterite: ""
+      google_scholar: ""
+      researchgate: ""
+      mendeley: ""
 abstract: "Our moral sense is a biological adaptation specific to our species.
   It has evolved to facilitate group living, regulate social interactions, and
   promote cooperation beyond kinship. Beliefs intensely associated with moral
