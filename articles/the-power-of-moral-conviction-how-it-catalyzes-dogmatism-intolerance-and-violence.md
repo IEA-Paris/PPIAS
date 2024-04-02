@@ -3,7 +3,7 @@ published: false
 article_title: "The power of moral conviction: How it catalyzes dogmatism,
   intolerance, and violence"
 date: 2024-04-02T12:58:56.117Z
-type: proceedings
+type: article
 needDOI: false
 authors: []
 abstract: "Our moral sense is a biological adaptation specific to our species.
