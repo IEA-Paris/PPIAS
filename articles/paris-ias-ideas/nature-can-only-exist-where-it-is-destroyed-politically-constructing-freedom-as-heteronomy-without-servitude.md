@@ -23,6 +23,13 @@ start: false
 stop: false
 subissue: false
 yt: iwH57wuusFI
+bibliography: /safatle.bib
 
 ---
+What we call the "West" is, above all, a way of understanding the system of living as "nature". In other words, it is the invention of "nature" that marks Western societies. For with it comes a series of dichotomies that will define our horizon of experience and the way in which we relate to the system of living.
+
+It is possible that the situation of related crises that we are experiencing (ecological, demographic, socio-economic, political, psychic and epistemic crises) will create the conditions for these dichotomies to be deeply questioned. These crises, each in their own way, indicate the exhaustion of values and normative horizons that, for centuries, seemed to guarantee the paths to our emancipation and freedom. Progress, development, abundance, wealth, growth: these terms are loaded with a profound normative dimension because they seem to ensure the material conditions for emancipation. And all these terms are deeply related to the fate we have given nature so far.
+
+I would then like to defend the thesis that the crises in which we find ourselves do not call for a "new alliance" with nature, but a "new destruction" of nature. Not the physical destruction that we see more and more dramatically every day, but the destruction of the system of dichotomies that animates our metaphysics, especially the metaphysical distinction between people and things that has guided our hegemonic relationship to nature until now. And I would like to show how certain social struggles and legal changes taking place on the Latin American continent can push the social imagination in this direction. Struggles that, in our historical context, can be understood as social actions aimed at the constitution of a freedom that will now be thought of in another way, beyond the traditional notion of autonomy. A freedom as heteronomy without servitude.
+
 <Youtube yt="iwH57wuusFI" caption="Nature can only exist where it is destroyed: Politically constructing freedom as heteronomy without servitude" start="false" stop="false"></Youtube>
