@@ -23,4 +23,6 @@ subissue: false
 yt: WijGr0LNvZQ
 
 ---
+What do two people create when they engage in reciprocal gift exchange? And what does a person or collectivity accomplish when they hold something back from exchange? These questions—the first by Marcel Mauss, the second by his late twentieth-century critic Annette Weiner—bookend nearly a century of vigorous debate in anthropology and the wider social sciences and humanities. This project revisits these questions and the relationship between them using examples drawn mainly from the modern Maghrib. 
+
 <Youtube yt="WijGr0LNvZQ" caption="Patrimony as inalienability" start="false" stop="false"></Youtube>

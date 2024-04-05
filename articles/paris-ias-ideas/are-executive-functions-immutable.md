@@ -21,6 +21,8 @@ start: false
 stop: false
 subissue: false
 yt: GR2wB0ew1FE
-
+bibliography: /valian.bib
 ---
+This project questions assumptions and hypotheses about the relations that hold among behavior, cognition, and the brain. In so doing, it will increase the possibility of understanding how the three interconnect. The hypothesis is that executive functions and higher-order cognitive functions are used to develop skills but are not themselves affected by skill development.
+
 <Youtube yt="GR2wB0ew1FE" caption="Are executive functions immutable?" start="false" stop="false"></Youtube>

@@ -2,18 +2,24 @@
 active: true
 articles:
   - CER_2023
+  - >-
+    the-power-of-moral-conviction-how-it-catalyzes-dogmatism-intolerance-and-violence
 exerpt: ''
 firstname: Jean
 is_institution: false
 issue:
   - content/issues/guest_lectures.md
+  - content/issues/paris-ias-ideas.md
 language:
   - French
+  - English
 lastname: Decety
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: The University of Chicago, USA
+    positions: []
+  - institution: Paris Institute for Advanced Study
     positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=fbNxH6UAAAAJ&hl=en
@@ -24,8 +30,10 @@ social_channels:
   researchgate: https://www.researchgate.net/profile/Jean-Decety
   twitter: '@Decety'
   website: ''
+  webstwitterite: ''
   wikipedia: https://fr.wikipedia.org/wiki/Jean_Decety
 years:
   - 2023
+  - 2024
 
 ---
