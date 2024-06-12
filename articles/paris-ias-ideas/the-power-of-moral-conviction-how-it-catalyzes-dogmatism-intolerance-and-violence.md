@@ -1,34 +1,57 @@
 ---
-published: true
-article_title: "The power of moral conviction: How it catalyzes dogmatism,
-  intolerance, and violence"
-date: 2024-04-02T12:58:56.117Z
-type: article
-needDOI: true
+DOI: 10.5281/zenodo.11001101
+Zid: 11001101
+abstract: >-
+  Our moral sense is a biological adaptation specific to our species. It has
+  evolved to facilitate group living, regulate social interactions, and promote
+  cooperation beyond kinship. Beliefs intensely associated with moral values can
+  motivate positive societal progress. However, moral convictions can also lead
+  to dogmatism, antagonistic attitudes, a polarized political climate, and
+  violent collective actions. This article draws on theories and empirical
+  evidence from anthropology, neuroscience, cognitive science, social
+  psychology, economics, and political science to explain why and how
+  moralization increases the strength of beliefs and attitudes –in certainty and
+  importance. Moral convictions are perceived as absolute, universal, and
+  definite beliefs or principles. They engage the brain circuit associated with
+  reward processing and valuation, which motivates and reinforces behavior.
+  Moral commitments act as signals to conform to the rules of one’s coalition,
+  which causes predictable cognitive biases that benefit the self and the group.
+  Moral convictions are held with great confidence. This leads to confirmation
+  bias, which means that people are unwilling to seek or accept corrective
+  information no matter how accurate the content of their beliefs. Once an issue
+  is moralized, it becomes more challenging to engage in a cost-benefit
+  analysis. A deeper understanding of attitudes, values, and moralization
+  dynamics may allow social scientists and policymakers to identify and support
+  pathways away from extremism and to strengthen and sustain engagement in
+  benevolent forms of collective action.
+article_title: >-
+  The power of moral conviction: How it catalyzes dogmatism, intolerance, and
+  violence
 authors:
-  - is_institution: false
-    firstname: Jean
+  - firstname: Jean
+    is_institution: false
     lastname: Decety
     positions_and_institutions:
-      - institution: Department of Psychology and the Department of Psychiatry and
+      - institution: >-
+          Department of Psychology and the Department of Psychiatry and
           Behavioral Neuroscience, The University of Chicago
         positions: []
       - institution: Paris Institute for Advanced Study
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract:  Our moral sense is a biological adaptation specific to our species. It has evolved to facilitate group living, regulate social interactions, and promote cooperation beyond kinship. Beliefs intensely associated with moral values can motivate positive societal progress. However, moral convictions can also lead to dogmatism, antagonistic attitudes, a polarized political climate, and violent collective actions. This article draws on theories and empirical evidence from anthropology, neuroscience, cognitive science, social psychology, economics, and political science to explain why and how moralization increases the strength of beliefs and attitudes –in certainty and importance. Moral convictions are perceived as absolute, universal, and definite beliefs or principles. They engage the brain circuit associated with reward processing and valuation, which motivates and reinforces behavior. Moral commitments act as signals to conform to the rules of one’s coalition, which causes predictable cognitive biases that benefit the self and the group. Moral convictions are held with great confidence. This leads to confirmation bias, which means that people are unwilling to seek or accept corrective information no matter how accurate the content of their beliefs. Once an issue is moralized, it becomes more challenging to engage in a cost-benefit analysis. A deeper understanding of attitudes, values, and moralization dynamics may allow social scientists and policymakers to identify and support pathways away from extremism and to strengthen and sustain engagement in benevolent forms of collective action. 
-issue: content/issues/paris-ias-ideas.md
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: /decety.bib
+date: 2024-04-02T12:58:56.117Z
 highlight: false
-language: English
-keywords: 
+issue: content/issues/paris-ias-ideas.md
+keywords:
   - attitudes
   - beliefs
   - coalitional psychology
@@ -39,8 +62,15 @@ keywords:
   - social neuroscience
   - values
   - violence
-bibliography: /decety.bib
+language: English
+links:
+  bucket: https://zenodo.org/api/files/e2ab26ba-f5cc-49d7-bf3a-b29466aa5253
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## Introduction
 
 Do we respond similarly to news of petty crimes, police brutality, insurrection on the US Capitol, discriminatory social policies, or terrorist attacks? Some of these events betray basic values and principles, such as people's inherent worth and equality, respect for human rights, the importance of civil society, and the rule of law. This is the case because humans are a judgmental bunch. Cross-culturally, since the dawn of humanity, people judge some behaviors are right or wrong and deserving rewards or punishments. Perceptions of morality are increasingly generalized as people inhabit larger and more unfamiliar social networks and interact with anonymous persons (Jackson et al., 2024). Moreover, and contrary to what many people believe, morality (kindness, civility, honesty, and basic human decency) is not declining. It is just the opposite, as shown by a study spanning 60 nations worldwide (Mastroianni & Gilbert, 2023). On average, we treat each other far better than our forebears.
@@ -337,8 +367,6 @@ A better scientific understanding of attitudes and moralization dynamics is valu
 > * **Ventromedial prefrontal cortex** is a subregion of the prefrontal cortex, interconnected with subcortical and cortical regions, activated by stimuli that anticipate a reward. Neurons in this region code the subjective value (the specific needs and preferences of the individual). Values coded in the vmPFC influence the activity of cortical regions involved in generating behavior.
 > * **Virtue signaling** corresponds to conspicuously displaying opinions intended to demonstrate one's good character or the moral correctness of one's position on a particular issue. It is a powerful evolved force for social regulation by creating common knowledge around a moral issue that people would otherwise ignore. This works even when there is no guarantee the individuals who are sending the signals are particularly virtuous or committed to the cause.
 
-
----
 
 [^1]: On May 23rd, 2023, the Tel Aviv International Salon canceled the launch of Abigail Shrier’s book “:*Irreversible Damage: The Transgender Craze Seducing Our Daughters*” in response to transgender activists (The Jerusalem Post – Lahav Harkov). Years before, when the book was released in the US, Amazon would not allow Shrier to advertise it, and employees of the book-selling giant petitioned for it not to be sold at all. It was twice removed from Target’s shelves. A lawyer from the American Civil Liberties Union wrote on Twitter *"stopping the circulation of this book and these ideas is 100% a hill I will die on.”* The book makes the case that social contagion plays a significant role in the epidemic of rapid gender dysphoria seen during the past decades, especially for young girls. Several large-scale empirical studies support the social contagion hypothesis (Diaz & Bailey, 2023; Littman, 2018). None of the views expressed by Shrier are disrespectful to transgenders. There is not a drop of animosity in the book.
 
