@@ -30,6 +30,7 @@ abstract: The paper describes the concept of psychological death, destruction
   severe psychosis, mainly schizophrenia.
 issue: content/issues/paris-ias-ideas.md
 highlight: false
+bibliography: /static/anystyle-1-.bib
 language: English
 ---
 > Acknowledgements
