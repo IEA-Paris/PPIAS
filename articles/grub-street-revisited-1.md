@@ -12,6 +12,7 @@ abstract: This essay traces the origin and polemics connected with Robert
   relates it to the understanding of Jacobinism.
 issue: content/issues/paris-ias-ideas.md
 highlight: false
+bibliography: /static/anystyle.bib
 language: English
 ---
 > Acknowledgements
