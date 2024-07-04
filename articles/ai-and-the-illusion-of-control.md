@@ -27,6 +27,7 @@ abstract: "The paper explores the impact of the dazzling performance of
   Others. "
 issue: content/issues/paris-ias-ideas.md
 highlight: false
+bibliography: /static/anystyle-3-.bib
 language: English
 ---
 > **Acknowledgements**
