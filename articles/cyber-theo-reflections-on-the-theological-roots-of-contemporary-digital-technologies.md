@@ -5,7 +5,22 @@ article_title: "Cyber-Theo: Reflections on the theological roots of contemporary
 date: 2024-07-04T10:47:00.000Z
 type: proceedings
 needDOI: false
-authors: []
+authors:
+  - is_institution: false
+    firstname: Andrea
+    lastname: Pinotti
+    positions_and_institutions:
+      - institution: Università degli Studi di Milano
+        positions: []
+    social_channels:
+      website: ""
+      wikipedia: ""
+      orcid: ""
+      linkedin: ""
+      webstwitterite: ""
+      google_scholar: ""
+      researchgate: ""
+      mendeley: ""
 abstract: Digital technologies that permeate our everyday lives are primarily
   introduced to us as "new." The advancements in Artificial Intelligence,
   Virtual Reality, and Augmented Reality open fresh avenues of human experience.
