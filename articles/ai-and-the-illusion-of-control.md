@@ -4,7 +4,23 @@ article_title: AI and the illusion of control
 date: 2024-07-04T10:29:00.000Z
 type: proceedings
 needDOI: false
-authors: []
+authors:
+  - is_institution: false
+    firstname: Helga
+    lastname: Nowotny
+    positions_and_institutions:
+      - institution: European Research Council
+        positions:
+          - Former President
+    social_channels:
+      website: ""
+      wikipedia: ""
+      orcid: ""
+      linkedin: ""
+      webstwitterite: ""
+      google_scholar: ""
+      researchgate: ""
+      mendeley: ""
 abstract: "The paper explores the impact of the dazzling performance of
   Generative AI on the sense of being in control and the Illusion that may come
   with it. Control of technology as a hallmark of modernity was accompanied by
