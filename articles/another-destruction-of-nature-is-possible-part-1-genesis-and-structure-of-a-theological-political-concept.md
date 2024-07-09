@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "Another Destruction of Nature Is  Possible (Part 1): Genesis and
   Structure of a Theological-Political Concept"
 date: 2024-07-04T11:19:00.000Z
@@ -30,12 +30,12 @@ abstract: The aim this article is to discuss the theological-political aspects
 issue: content/issues/paris-ias-ideas.md
 highlight: false
 language: English
+bibliography: /anystyleXS.bib
+
 ---
 > Acknowledgements
 >
 > This paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program.
-
-
 
 *"Progress only begins where it ends".*
 
@@ -49,7 +49,7 @@ From this point, I would like to insist that part of the paralysis that afflicts
 
 This paralysis of the social imagination is largely related to what we might call epistemic crises. By epistemic crisis we mean a crisis in what we might call "the condition of possibility of all possible experience". Our social experience, with its forms of categorisation, distinction and organisation of space and time, is not a transcendental condition, but a social institution that defines the material conditions of social reproduction embodied in recurrent economic and political processes. These forms, in turn, provide what we might call a "social grammar" that determines not only the meaning of values with a strong normative potential, but also the way in which they are applied, the clarity of their semantics and, above all, the form of the subjects who can articulate them. It is this grammar that defines the limits of what is imaginable and what is not. For this reason, the impossibility of modifying this social grammar produces a system of inhibitions of action that must be analysed in its own dynamic. In fact, if there is one thing that the historical experience of the 20th century has shown us, it is that we can even modify the economic bases of our societies without actually changing this grammar, as if changing it required specific regimes of action and struggle.
 
-# Destroying Nature
+## Destroying Nature
 
 I make this introduction in order to argue that one of the fundamental axes of the hegemonic social grammar of our time lies in the notion of "nature". In other words, the way we define and create "nature" determines a wide range of our modes of experience and social action. For the West is not really a form of society. It is primarily a form of nature, or if you like, a way of defining the living system that affects us and in which we participate as "nature". It is by inventing something like "nature", with its internal tensions and categories, that we have created our Western societies. Because it is the defining concept of our life-structures, albeit in opposition. For it would be a case of remembering: where nature defines the rhythm of movement, there can be no history for us. Where nature defines behaviour, there can be no self-determination. Where nature defines cycles, there can be no freedom. For this reason, a critical theory that is effectively committed to emancipation cannot leave intact the presuppositions that the concept of nature has integrated into the history of modern rationality. It must understand that it is not only our relationship to nature that is in crisis, but that nature itself is in crisis, in the sense that it is impossible to maintain what has hitherto been its social place.
 
@@ -59,9 +59,9 @@ There are those who, when they hear statements about nature as a social construc
 
 But we should remember that those who seek to carry out the political project of denying the existence of nature don't necessarily want to deny the existence of entities independent of our description, nor imagine that coal wouldn't exist without us. Rather, they try to deny our way of describing such entities because of its social and political consequences, to problematise the naming of such processes as "nature". For it is impossible to ignore the fact that "nature" is a heteroclite construction whose heteroclite structure has a clear function, namely, to create a confusing zone of overlap between science, theology, morality, politics, philosophy, and economics. What we call "nature" is something made up of various elements such as: physical processes independent of the observer, libido, instincts, DNA sequences, natural species, God, physical processes dependent on the observer (such as those raised by quantum physics), hierarchies, a certain notion of growth, Amerindian peoples, and so on. In other words, it is a social construction aimed at superimposing values and constituting a "natural" disposition to act on the environment that surrounds us and on ourselves.
 
-The nature we are dealing with was born at a certain historical moment. It is not the physis of the Greeks, nor the urihi of the Yanomami. These are literally other worlds for us. The concept that is hegemonic for us was imposed by a profound articulation between the development of capitalism, theology-politics, and expansionist interests. And just as it was born, it can die. The childish enlightenment that consists in believing that we can and should distinguish between properly scientific statements about nature and properly "ideological" statements risks doing a disservice to critique. For "nature" as a concept and value was created precisely so that these statements could pass each other by. The emergence of the scientific view of nature as a machine, for example, is inseparable from a system of theological presuppositions that are strengthened, not weakened, by the development of modern science.<1> Presuppositions that allow not only the mathematisation of physical phenomena, but also the constitution of a certain notion of human exceptionality that is fundamental to the emergence of our notions of consciousness, autonomy, and subjectivity.
+The nature we are dealing with was born at a certain historical moment. It is not the physis of the Greeks, nor the urihi of the Yanomami. These are literally other worlds for us. The concept that is hegemonic for us was imposed by a profound articulation between the development of capitalism, theology-politics, and expansionist interests. And just as it was born, it can die. The childish enlightenment that consists in believing that we can and should distinguish between properly scientific statements about nature and properly "ideological" statements risks doing a disservice to critique. For "nature" as a concept and value was created precisely so that these statements could pass each other by. The emergence of the scientific view of nature as a machine, for example, is inseparable from a system of theological presuppositions that are strengthened, not weakened, by the development of modern science.[^1] Presuppositions that allow not only the mathematisation of physical phenomena, but also the constitution of a certain notion of human exceptionality that is fundamental to the emergence of our notions of consciousness, autonomy, and subjectivity.
 
-It is not, then, a question of acting like those who deny the relevance of the distinction between nature and culture, like those who preach its obsolescence.<2> In fact, the distinction is more relevant than ever. In order to operate its logic of extraction and its illusion of progress, capitalist society needs to define what nature is, to distinguish itself from it. At a second moment, when the catastrophic consequences of this distinction become evident through the crises we know today, it becomes necessary to "anticipate reconciliation", to place it as already achieved within the framework of capitalism. But it would be a case of insisting that the nature/culture distinction is not a misunderstanding of modernity. It is a fundamental assumption of our mode of production. It is repeated daily in every process of capitalist production.
+It is not, then, a question of acting like those who deny the relevance of the distinction between nature and culture, like those who preach its obsolescence.[^2] In fact, the distinction is more relevant than ever. In order to operate its logic of extraction and its illusion of progress, capitalist society needs to define what nature is, to distinguish itself from it. At a second moment, when the catastrophic consequences of this distinction become evident through the crises we know today, it becomes necessary to "anticipate reconciliation", to place it as already achieved within the framework of capitalism. But it would be a case of insisting that the nature/culture distinction is not a misunderstanding of modernity. It is a fundamental assumption of our mode of production. It is repeated daily in every process of capitalist production.
 
 However, we must recognise the political task of overcoming this dichotomy. It's no coincidence, as we will see later, that we have to pay attention to the way in which the social struggles led by people who have been excluded and opposed to the process of "capitalist modernisation" (people who have therefore refused to make a strict distinction between nature and culture) have the possibility of setting in motion real processes of politicising the end of nature. This end appears as an important moment in a project of social emancipation.
 
@@ -71,7 +71,7 @@ These struggles remind us of how the social place of nature has led us today to 
 
 In other words, what we mean by freedom is inseparable from a set of social and economic actions aimed at guaranteeing the conditions for the exercise of our autonomy. Freedom is not a subjective disposition; it is not a predicate that we give to individuals. Rather, it is a system of social practices, a predicate of social bodies. In the case of our societies, these social practices are linked to the way we control nature, how we make it a space for the extraction of resources against the fear of scarcity, scarcity itself, and vulnerability.
 
-# Psychic Life and Theology-Politics
+## Psychic Life and Theology-Politics
 
 I would like to dwell on these issues to emphasise that this crisis in the social place of nature does not only concern a set of values that guide our socio-economic models. It also affects what we might call the "theological-political foundations" that constitute both our capitalist societies and the normative horizon of what we mean by ourselves. The crisis of nature is a crisis of the theological-political project of which it is a part. And the crisis of this longstanding theological-political project profoundly affects a certain hegemonic notion of autonomy and freedom that is ours. In other words, its crisis necessarily leads to the crisis of one of the most powerful normative concepts we know. This means that overcoming such crises doesn't just require social struggles aimed at regulating extractivism and changing relations of production. It also requires a critique of autonomy as a political horizon for emancipation, a structural reconfiguration of subjects and their social conditions for self-preservation.
 
@@ -81,9 +81,9 @@ a) Concepts such as identity, personality, individual and autonomy are theologic
 
 b) The constitution of ourselves, our promises, and our pain, is inseparable from the agonistic relationship we establish with what we define as "nature". Our own theology-politics has accustomed us to the idea that we are beings traversed by conflict, by opposition, and at the root of this conflict is our dramatic relationship with nature.
 
-This opposition will be the basis for a conception of moral autonomy as a capacity for self-legislation that still appears today as a constituent point of our conception of emancipation. But before I go any further, I would like to insist on two points. First, when we say "we" in this context, we are referring to the horizon of Christian theology. This, on the one hand, places obvious limits on the supposed universality of the processes described here. There is, however, an important element to be borne in mind. This specific theological-political basis provided to a large extent the socio-subjective conditions for the development and strengthening of capitalism. The necessary and constitutive articulations between capitalism and Christianity are a major theme of classical sociology.<3> If we accept this point, then any society subjected to the dynamics of the valorisation of capital (in other words, any society that exists today) will have to deal with the tendencies towards material reproduction and the production of subjectivities that are typical of this theological model. Of course, societies will deal with these tendencies taking into account their own conflicts. But none of them will be indifferent to the horizon described in this text.
+This opposition will be the basis for a conception of moral autonomy as a capacity for self-legislation that still appears today as a constituent point of our conception of emancipation. But before I go any further, I would like to insist on two points. First, when we say "we" in this context, we are referring to the horizon of Christian theology. This, on the one hand, places obvious limits on the supposed universality of the processes described here. There is, however, an important element to be borne in mind. This specific theological-political basis provided to a large extent the socio-subjective conditions for the development and strengthening of capitalism. The necessary and constitutive articulations between capitalism and Christianity are a major theme of classical sociology.[^3] If we accept this point, then any society subjected to the dynamics of the valorisation of capital (in other words, any society that exists today) will have to deal with the tendencies towards material reproduction and the production of subjectivities that are typical of this theological model. Of course, societies will deal with these tendencies taking into account their own conflicts. But none of them will be indifferent to the horizon described in this text.
 
-Second, we can speak of political theology in this context because it is a reflection on the structure of the exercise of power that finds its foundation in a theological conception of the will. One of the fundamental characteristics of the political theology that characterises the West is its conception of power as the exercise of a sovereign and unitary will, be it the will of the king or the will of the people. This will has its matrix in the idea of the "divine will" because of its causa sui structure, the potential immanence between being and doing. As in God, the will, when it is free will, is the cause of itself, it doesn't get confused or lost, it is the movement of actualising what never leaves itself, which is why it is the expression of a sovereign decision. There is no causality external to this will, it is not influenced from outside, but is realised as a principle immanent to itself.<4>
+Second, we can speak of political theology in this context because it is a reflection on the structure of the exercise of power that finds its foundation in a theological conception of the will. One of the fundamental characteristics of the political theology that characterises the West is its conception of power as the exercise of a sovereign and unitary will, be it the will of the king or the will of the people. This will has its matrix in the idea of the "divine will" because of its causa sui structure, the potential immanence between being and doing. As in God, the will, when it is free will, is the cause of itself, it doesn't get confused or lost, it is the movement of actualising what never leaves itself, which is why it is the expression of a sovereign decision. There is no causality external to this will, it is not influenced from outside, but is realised as a principle immanent to itself.[^4]
 
 The presence of this concept of will is not only a constitutive feature of our concept of political power, of the people and of popular sovereignty. It will also be present in the constitution of the way we relate to ourselves. For we must not forget that our notion of autonomy is above all the expression of a relationship of government, of being able to govern ourselves, based on the construction of a potential unity between the self and the law that I give to myself. Giving the law to oneself is something that, at the limit, only God can do, because only in him is the immanence between nomos and ipse, between law and self, absolutely realised. But in order for this relationship between nomos and ipse to be realised, that which does not conform to this condition of causa sui must be defined as "nature" and be the object of a certain kind of relationship.
 
@@ -93,13 +93,13 @@ In this sense, I cannot help but recall an illustrative example for what I have 
 
 **Figure 1. Advertisement Campaign in Trans-Amazon Highway in the 1970s**
 
-![Advertisement Campaign in Trans-Amazon Highway in the 1970s](/static/image1.jpg "Advertisement Campaign in Trans-Amazon Highway in the 1970s")
+![Advertisement Campaign in Trans-Amazon Highway in the 1970s](/image1.jpg "Advertisement Campaign in Trans-Amazon Highway in the 1970s")
 
 *Note. Photo was taken by author from <https://www.reddit.com/r/PropagandaPosters/comments/1bsihkv/1970s_brazilian_military_junta_poster_advertising/?rdt=62049>*
 
 [](https://www.reddit.com/r/PropagandaPosters/comments/1bsihkv/1970s_brazilian_military_junta_poster_advertising/?rdt=62049)
 
-# Saint Augustine and the Emergence of the Self
+## Saint Augustine and the Emergence of the Self
 
 But this heart of darkness is not only in the spaces that prevent us from opening our paths. It is also within us, which is what makes this battle so decisive. In this sense, let's go back to 1607 and listen to a kind of poem written by a Puritan, George Goodwin, entitled Automachia, or the Self-Conflict of a Christian:
 
@@ -131,13 +131,13 @@ This statement is very important. I write for myself and for the minority who fe
 
 In other words, the flesh is not the cause of evil; if it is corruptible, it is because the human will has corrupted it. God, as an omniscient Creator, could not have created an evil nature, an evil flesh. Hence the reminder that man did not become like the devil because he had flesh. The problem lies in what we might call the "politics of the will". The political relations within the will can be reversed. Man can want to live according to himself and not according to God. He can reverse the good that belongs to a free and rational will, breaking the political relations of hierarchy and obedience. This explains why the central sin for Augustine is disobedience. It was disobedience that originally made man sin by disregarding the obedience to God. The love of transitory things in the face of what is permanent and eternal, the desire for the inversion of values: this is true evil. Man was not created to live according to himself, but according to the One who created him, making his will his own. In other words, what the confession does is to restore a corrupted political order.
 
-But let us take note of one point: to live according to oneself means for man, paradoxically, to have one's will outside oneself, because it means to act involuntarily, without reflection, supposedly like animals. The separation between human and animal comes about through reason, that is, through the ability to perceive and evaluate oneself, to be endowed with an inner sense that would allow us to judge and evaluate our own senses, not to be inert servants of an external causality. This would allow us, among other things, to distance ourselves from our passions and the instability that comes from being at the mercy of external contingencies. In other words, free will was created to allow the exercise of a second-order desire, a desire to have a certain desire or a desire not to have a certain desire.<5> This reflexivity defines human exceptionalism and brings human's will closer to divine reason.
+But let us take note of one point: to live according to oneself means for man, paradoxically, to have one's will outside oneself, because it means to act involuntarily, without reflection, supposedly like animals. The separation between human and animal comes about through reason, that is, through the ability to perceive and evaluate oneself, to be endowed with an inner sense that would allow us to judge and evaluate our own senses, not to be inert servants of an external causality. This would allow us, among other things, to distance ourselves from our passions and the instability that comes from being at the mercy of external contingencies. In other words, free will was created to allow the exercise of a second-order desire, a desire to have a certain desire or a desire not to have a certain desire.[^5] This reflexivity defines human exceptionalism and brings human's will closer to divine reason.
 
 But this free will is not only characterised by what we will later understand as "reflexivity". It is also capable of understanding that nature should not legislate, should not be in charge, but should submit and allow itself to be governed. And this is where Augustine's fundamental theological operation comes into play, namely the definition of original sin as the axis of all Christian theology. Let us recall statements such as:
 
 > "Finally, and to put it in a nutshell, what was the penalty for the sin of disobedience if not disobedience? And what misery is more fitting for man than the disobedience of himself against himself, so that because he did not want what he could, he now wants what he cannot? It is true that in Paradise, before sin, he couldn't do everything, but he only wanted what he could do, and so he could do everything he wanted. But now, as we see in his descendants and as the Scriptures testify, man has become like vanity. Who can count what he wants and what he cannot, when his mind is contrary and his flesh, which is inferior to him, does not obey his will?" (Augustine, 2014).
 
-This is a central passage. Original sin has a fundamental place because it explains the function of the internal civil war that human nature has become. Disobedience to God's will has become disobedience of self against self, disobedience of a flesh that no longer submits to the will, of a nature that is a hostile space. Since original sin, man has been the scene of a permanent split between the will and a principle of disobedience, which will have a specific name and will accompany Western anthropology like a shadow, namely libido. The libido, the worst form of misgovernment, because "the libido is so strong that it not only dominates the whole body, not only inside and outside, but also puts the whole man at risk" (Augustine, 2014).<6>
+This is a central passage. Original sin has a fundamental place because it explains the function of the internal civil war that human nature has become. Disobedience to God's will has become disobedience of self against self, disobedience of a flesh that no longer submits to the will, of a nature that is a hostile space. Since original sin, man has been the scene of a permanent split between the will and a principle of disobedience, which will have a specific name and will accompany Western anthropology like a shadow, namely libido. The libido, the worst form of misgovernment, because "the libido is so strong that it not only dominates the whole body, not only inside and outside, but also puts the whole man at risk" (Augustine, 2014).[^6]
 
 Augustine reminds us that before original sin there was no libido. Nakedness was not shameful because the libido did not activate the limbs against our will. But this immanence was broken, and shame is the affection that makes this break explicit. This is how corrupted nature is born, which must now be brought back to its place of submission to reason. Hence the importance of a statement like:
 
@@ -145,9 +145,7 @@ Augustine reminds us that before original sin there was no libido. Nakedness was
 
 As we can see, the central problem is political, it is about who should rule and what should rule in man. Just as the libido must be controlled, the flesh must learn to obey. But for this to happen, human behaviour must not be subject to external causality, which can only happen when, at the limit, man is able to dominate nature, to impose a relationship of domination on it. The distinction between man and nature takes on its theological meaning. The recovery of this meaning shows us the real conditions for the construction of the unity of the self, of self-determination.
 
-
-
-# War Against Nature or Labour and Reflection
+## War Against Nature or Labour and Reflection
 
 This political theological horizon will constitute one of the central axes of Western sensibility towards nature and our autonomy. To recover this history is to say that the emergence of nature is inseparable from the naturalisation of an instrument of self-government, from the defence of freedom understood as autonomous will. It is not possible to change our relationship to what we call "nature" while preserving such devices, such ways of understanding ourselves. Of course, resistance to such changes is not simply "grammatical", it is material. More precisely, it is the result of material processes that impose a social grammar that seems insurmountable to us.
 
@@ -157,7 +155,7 @@ For example, the idea of nature as something that must be subjected to the condi
 
 By imposing itself as a model for economic development and the structuring of subjectivity, liberalism has succeeded in constantly accelerating economic progress. But for there to be progress, it must be imbued with the task of saving something from regression; for there to be development, there must be something understood as backwardness. And this is the place where nature will emerge. It will also be the place of all those who are "very close to nature", such as the Indian peoples. This brings us to the political theological controversies that would run through the century before the consolidation of liberalism, and which would inevitably influence it. These struggles took place in the largest world empire of the time, the Spanish empire of the 16th century.
 
-The discussion of the conquest of America as a fair war, as well as the use of natural law to justify the right of conquest, is largely based on a theological anthropology that takes us back to what we find in Saint Augustine. Indigenous peoples are defined as backward, too close to nature, and should be ruled by supposedly superior peoples. The Aristotelian notion of natural servitude is used throughout. For Amerindian peoples would be characterised by barbarism, expressed in cannibalism, constant human sacrifice, and sodomy: signs of proximity to a nature that is not subject to reason. They must therefore be ruled by those who are already in a different stage, so that reason, which dwells within them, can find its strength.<7> Conquest is therefore fair and necessary. But it is not only a fair war against inferior peoples. It is above all a fair war against the nature that expresses itself in them.
+The discussion of the conquest of America as a fair war, as well as the use of natural law to justify the right of conquest, is largely based on a theological anthropology that takes us back to what we find in Saint Augustine. Indigenous peoples are defined as backward, too close to nature, and should be ruled by supposedly superior peoples. The Aristotelian notion of natural servitude is used throughout. For Amerindian peoples would be characterised by barbarism, expressed in cannibalism, constant human sacrifice, and sodomy: signs of proximity to a nature that is not subject to reason. They must therefore be ruled by those who are already in a different stage, so that reason, which dwells within them, can find its strength.[^7] Conquest is therefore fair and necessary. But it is not only a fair war against inferior peoples. It is above all a fair war against the nature that expresses itself in them.
 
 In this sense, this war prepares the material realisation of liberal individuality and its modes of economic action. There is a colonial trace of origin in the emergence of liberal individuality. And we should turn our attention to John Locke because it is in Locke that we find the relationship between the appropriation of nature by labour and the constitution of our freedom most clearly stated. Let us start, for example, with his statement:
 
@@ -167,7 +165,7 @@ This is a crucial text for understanding the hegemonic notion of freedom among u
 
 The fundamental point, therefore, is how "work" from now on appears as the production of what is mine, of what is the mirrored confirmation of my own determination. It is not only a structure of recognition, but above all a structure of self-determination. Everything that man has removed from the state of nature has been mixed into the labour, and in this way something that is now his is found in the worked object. It is therefore his property. It is his mirror. And through this reduction of nature to a mirror, labour can appear as the central actor in the realization of individual autonomy.
 
-This fact can be better understood if we recall how this notion of labour is the material realization of a certain notion of reflection, which, we should always remember, was born with Locke.<8> It is reflection that will allow the emergence of the individual, which will henceforth be the term preferentially applied to those endowed with a personal identity. And personal identity will be defined as follows:
+This fact can be better understood if we recall how this notion of labour is the material realization of a certain notion of reflection, which, we should always remember, was born with Locke.[^8] It is reflection that will allow the emergence of the individual, which will henceforth be the term preferentially applied to those endowed with a personal identity. And personal identity will be defined as follows:
 
 > "What the concept of person represents, and what I believe is thought itself, is the same thing thought in different times and places; what is consciousness only because of this, which I believe is essential to thought and inseparable from it and essential to it. It is impossible for someone to perceive without being aware that he is perceiving" (Locke, 2007, p. 302).
 
@@ -181,7 +179,7 @@ In other words, for Locke at least, reflection is an activity by which the will 
 
 One wonders why God does not like things to remain common and uncultivated. Why does he need human beings to carry out a project of shaping and appropriating nature? It would then be necessary to ask what is meant by "work" in this context, what are its specific historical-material coordinates.
 
-Locke believes that there are spaces in which nature has not yet been subjected to work, multiple spaces in which we would find the myth of virgin nature, of empty and unworked space, of land close to nothing, ready to be taken over and colonized. Vacuum domicilium.<9> It is clear that, among other things, this "makes it possible to distinguish between 'working and rational' men and the others, the natives: in this way, the original societies are excluded from legitimate legal relations with the land, since they are nothing but hunter-gatherers, or at least are seen as such" Charbonnier (2021, p.65). This anthropological illusion, so deeply rooted in us, of the distinction between phases of anthropological development (hunter-gatherers and agricultural peoples), an illusion shared by Locke, now appears to be something closer to an ideological construction linked to the value of labour. Let us recall David Graeber's and David Wengrow's defence that the distinction between hunter-gatherers and farmers should be seen as possibilities that cross the same society according to the season, and that the figure of the hunter-gatherer who simply enjoys what nature provides is a myth. Theirs is a fundamental statement such as:
+Locke believes that there are spaces in which nature has not yet been subjected to work, multiple spaces in which we would find the myth of virgin nature, of empty and unworked space, of land close to nothing, ready to be taken over and colonized. Vacuum domicilium.[^9] It is clear that, among other things, this "makes it possible to distinguish between 'working and rational' men and the others, the natives: in this way, the original societies are excluded from legitimate legal relations with the land, since they are nothing but hunter-gatherers, or at least are seen as such" Charbonnier (2021, p.65). This anthropological illusion, so deeply rooted in us, of the distinction between phases of anthropological development (hunter-gatherers and agricultural peoples), an illusion shared by Locke, now appears to be something closer to an ideological construction linked to the value of labour. Let us recall David Graeber's and David Wengrow's defence that the distinction between hunter-gatherers and farmers should be seen as possibilities that cross the same society according to the season, and that the figure of the hunter-gatherer who simply enjoys what nature provides is a myth. Theirs is a fundamental statement such as:
 
 > "European-style farming is just one of thousands of ways to cultivate land and increase its productivity. Where the settlers saw only wild expanses that seemed never to have been touched by human hands, there were in fact landscapes that had been actively tended by the indigenous population for hundreds of generations, using various methods: controlled burning, weeding, pruning, fertilising, organising estuary structures at different levels to extend the habitat of a particular wild flora, creating shellfish gardens in intertidal zones to improve the reproduction of crustaceans, building dams to catch salmon, sturgeon.... Not only did these tasks require a great deal of work, but they were also regulated by indigenous laws that established rights of access to forests, ponds, root beds, prairies, or fishing grounds, as well as the right to harvest such and such a species at such and such a time of year, etc." (Graeber & Wengrow, 2021, p.194).
 
@@ -189,9 +187,7 @@ This is a very concrete way of understanding how the technodiversity of multiple
 
 It has been said that capitalism is a religion. Indeed, it should be remembered that its dynamic of accumulation and expansionism would be impossible without the secularisation of the concept of nature as what is available for the realization of human exceptionality, like Adam, who received from God the enjoyment of all the fruits of the earth. But this exceptionality requires a transformation of nature, its transformation into property. The extensive right to private ownership of land requires that land use be subordinated to the imperatives of production, that owners have the right to divert water to mills, that spaces be fenced off and animals tagged, that those who live on common land without an owner be expelled. It is not for this reason that Locke's text, Chapter V of the Second Treatise of Government, which serves as the basis for our discussion, very clearly establishes land ownership as the central axis of property relations: "But the principal question of property is now, not the fruits of the earth, and the beasts that live upon it, but the earth itself" (Locke, 2007, p.190). For it was a question, among other things, of justifying a new form of economic organisation imposed by colonial expansionism, a new technology of production born of the destruction of the commons by what the English call "enclosure", which determined the process of what we now understand as primitive accumulation. It was mainly a matter of transforming land into capital that increased in value. This inaugurated the two main illusions of capitalism, namely the infinite extraction of value from land and labour.
 
-
-
-# A New Concrete Horizon of Social Struggles
+## A New Concrete Horizon of Social Struggles
 
 If the concept of nature is the expression of a junction between economic rationality and theology-politics, the possibility of its destruction depends on social struggles capable of liberating nature from the condition of being the object of labour, of changing the boundaries we establish between nature and society, and of structurally reconfiguring what we should understand by autonomy.
 
@@ -205,74 +201,20 @@ Integrating nature into the horizon of what we recognise as the "subject" had no
 
 Must legally recognized agency necessarily take the form of will? And what about vital cycles that produce agency because they unfold processes, structures and functions that are open to chance and contingency, even if not exactly in the form of will? Should not we give them the dignity of subjects? These questions show us how the generalization of the category of the subject to non-human entities leads to a better understanding of how we are affected by that which does not necessarily bear our image, how we are caused by that which removes us from our supposed autonomy. In this way, a different concept of freedom can be generated. It makes possible the emergence of a different figure of the political subject. And perhaps this change can explain why Ecuador will be the scene of an unprecedented decision. In 2023, in a plebiscite, 58.3% of the electorate decided to prevent oil exploration in Block 43 of the Yasuni Park. In other words, the economic order could be challenged in a place where what we call nature is no longer just an object to be exploited.
 
+[^1]: On the relationship between modern physics and Christian religion, see for example Kojève & Copin (2021).
 
+[^2]: As we can see in Latour (2006).
 
-# References
+[^3]: As we see in Weber (2004).
 
-Agamben, G. (2008). Le règne et la gloire. Homo sacer, II, 2. Seuil. Paris, France.
+[^4]: The consequences of such a conception have been well developed by Derrida (2003). On the theological nature of the notion of will, see also Agamben (2008).
 
-Arneil, B. (1996). John Locke and America: the defence of English colonialism. Oxford University Press. Oxford, United Kingdom.
+[^5]: On the notion of second-order desire, see Frankfurt (1971).
 
-Augustine, A. (2014). The City of God, Volume II. Project Gutenberg. Ebook. \[EBook #45305] <https://www.gutenberg.org/files/45305/45305-h/45305-h.htm>
+[^6]: Foucault (2021, p.334) understood this point well when he said: "Fallen man has not fallen under a law or a force that subjugates him entirely: a schism marks his own will, which divides, turns against itself and escapes what it can will. This is the principle, fundamental in Augustine, of reciprocal inobedience, of disobedience in return. The revolt in man reproduces the revolt against God".
 
-Charbonnier, P. (2021). Affluence and freedom: An environmental history of political ideas. Polity Press. Cambridge, United Kingdom.
+[^7]: See, among others Sepulveda (2016).
 
-CRE. (2008). Constitución de la República del Ecuador. Recuperado el, 8. https://www.gob.ec/sites/default/files/regulations/2020-06/CONSTITUCION%202008.pdf
+[^8]: On this subject, see Rorty (2009).
 
-Derrida, J. (2003). Voyous: Deux essais sur la raison. Galilée. Paris, France.
-
-Gabriel, M., Horn, C., Katsman, A., Krull, W., Lippold, A. L., Pelluchon, C., & Venzke, I. (2022). Towards a New Enlightenment-The Case for Future-Oriented Humanities. The New Institute. Hamburg, Germany. https://doi.org/ 10.1515/978383946570
-
-Graeber, D. & Wengrow, D. (2021). Au commencement était... Une nouvelle histoire de l'humanité. Les Liens qui Libèrent. Paris, France. <https://doi.org/10.4000/anabases.15084>
-
-Goodwin, G. (1607). AVTOMACHIA, OR The SELF-CONFLICT of a Christian. Printed by MELCH. Bradwood for Edward Blovnt. London. https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/A01887/A01887.html?sequence=5
-
-Frankfurt, H. (1971). Freedom of the will and the concept of a person. The Journal of Philosophy, vol. 68, pp. 5-20.
-
-Foucault, M. (2021). Les aveux de la chair. Gallimard. Paris, France.
-
-Hui, Y. (2020). Tecnodiversidade. Ubu Editora. São Paulo, Brasil.
-
-Kojève, A., & Copin, J. (2021). L'origine chrétienne de la science moderne. Précédé de" Mathématiques et Incarnation". Hermann. Paris, France. <https://www.editions-hermann.fr/livre/9791037003720>
-
-Kouvélakis, S. (2019). La critique défaite. Émergence et domestication de la Théorie critique. Amsterdam éditions. Paris, France.
-
-Latour, B. (2013). Nous n'avons jamais été modernes: essai d'anthropologie symétrique. La découverte. Paris, France.
-
-Locke, J. (1967). Two Treatises of Government. Cambridge University Press. Cambridge, United Kingdom.
-
-Locke, J. (2007). Essays concerning human understanding. Cambridge University Press. Cambridge, United Kingdom. <https://doi.org/10.1017/CCOL0521834333>
-
-Malm, A. (2023). Avis de tempête: Nature et culture dans un monde qui se réchauffe, Éditions La Fabrique, 240 p. <https://journals.openedition.org/vertigo/42032>
-
-Marx, Karl (1992) \[1844]. Economic and Philosophical Manuscripts. Early Writings. Translated by Livingstone, Rodney; Benton, Gregory. London: Penguin Classics. pp. 279--400.
-
-Rorty, R. (2009). Philosophy and the Mirror of Nature. Princeton university press. Princeton, United States of America.
-
-Sepúlveda, J.G.D. (2016). Demócrates segundo o de las justas causas de la guerra contra los indios. Clásicos de Historia. <https://archive.org/details/sepulveda-juan-gines-de.-democrates-segundo-o-de-las-justas-causas-2016/mode/2up>
-
-Streeck, W. (2014). Buying time: The delayed crisis of democratic capitalism. Verso Books. London, United Kingdom.
-
-Weber, M. (2004). L'éthique protestante et l'esprit du capitalisme. Gallimard. Paris, France.
-
-
-
-# Footnotes
-
-<1> On the relationship between modern physics and Christian religion, see for example Kojève & Copin (2021).
-
-<2> As we can see in Latour (2006).
-
-<3> As we see in Weber (2004).
-
-<4> The consequences of such a conception have been well developed by Derrida (2003). On the theological nature of the notion of will, see also Agamben (2008).
-
-<5> On the notion of second-order desire, see Frankfurt (1971).
-
-<6> Foucault (2021, p.334) understood this point well when he said: "Fallen man has not fallen under a law or a force that subjugates him entirely: a schism marks his own will, which divides, turns against itself and escapes what it can will. This is the principle, fundamental in Augustine, of reciprocal inobedience, of disobedience in return. The revolt in man reproduces the revolt against God".
-
-<7> See, among others Sepulveda (2016).
-
-<8> On this subject, see Rorty (2009).
-
-<9> On this subject, see Arneil (1996).
+[^9]: On this subject, see Arneil (1996).
