@@ -1,6 +1,6 @@
 ---
-published: false
-article_title: "Grub Street Revisited "
+published: true
+article_title: "Grub Street Revisited"
 date: 2024-07-03T15:14:00.000Z
 type: proceedings
 needDOI: false
@@ -12,14 +12,12 @@ abstract: This essay traces the origin and polemics connected with Robert
   relates it to the understanding of Jacobinism.
 issue: content/issues/paris-ias-ideas.md
 highlight: false
-bibliography: /static/anystyle.bib
+bibliography: /anystyle.bib
 language: English
 ---
 > Acknowledgements
 >
 > This paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program * I want to thank the Institute for its generous hospitality.
-
-
 
 I would like to thank the Institut d'études avancées for inviting me to spend a month at the hôtel de Lauzun on an intriguing assignment: to look back over my early work and to reconsider some arguments that have become absorbed in the current understanding of eighteenth-century French history.
 
@@ -142,133 +140,3 @@ Although Mairobert disappeared before 1789, he contributed to the cacophony of m
 The National Convention abolished the academies on August 8, 1793. In arguing for their suppression, Jacques-Louis David attacked the Académie de peinture et de sculpture and academies in general as the "dernier réfuge de toutes les aristocraties" (David, 1793). Abbé Grégoire, who drafted the report adopted by the Convention, condemned the Académie française for "la prétention d'accaparer la gloire, de s'arroger le privilège exclusif des talents". He argued that it violated the basic principle of the Republic of Letters: openness and equality. Moreover, it victimized the writers who deserved most from the French republic: "Vos coeurs seront sans doute émus" he said to the deputies in the Convention, "en apprenant que plusieurs hommes de lettres, usés par leurs veilles, et brûlant de patriotisme, sont aux prises avec la misère. Les récompenses nationales doivent couler dans le sein de ceux qui en sont dignes; et après avoir repoussé les vils courtisans du despotisme, il faut que nous allions trouver le mérite indigent dans son souterrein ou à son sixième étage" (Chamfort, 1791; Grégoire, 1793, p. 4, 8-10).
 
 Grégoire himself had not suffered in a garret, nor had other leading Jacobins, including Robespierre. Many different paths led to Jacobinism. But the route through Grub Street appeared particularly important to the radicals of 1793, as Grégoire emphasized in his conclusion: "Presque toujours le véritable génie est sans-culotte" (Chamfort, 1791; Grégoire, 1793, p. 10).
-
-# References
-
-Aublet de Maubuy, J. Z. (1766). *Les vies des femmes illustres de la France* (Vols. 1-6). A Paris, chez Duchesne, libraire, et al.
-
-Aublet de Maubuy, J. Z. (1779). *Histoire des troubles et des démêlés littéraires, depuis leur origine jusqu'à nos jours inclusivement*. Amsterdam. DOI10.3917/dhs.054.0481
-
-Bachaumont, F.L.C. de, & Mairobert, M.F.P. (1784). Mémoires secrets pour servir à l'histoire de la république des lettres en France, ou Journal d'un observateur (Vol. XIV, pp. 9-10). Entries for April 2 and 3, 1779.
-
-Baecque, A. de. (2000). Les Éclats de rire. La culture des rieurs au XVIIIe siècle (pp.235-287). Paris.
-
-Baker, K. M. (1990). Inventing the French Revolution: Essays on French Political Culture in the Eighteenth Century. New York: Cambridge University Press.
-
-Begis, A. (Ed.). (1893). Mémoires inédits et correspondance de Billaud Varenne membre du Comité de salut public: Accompagnés de notices biographiques sur Billaud Varenne et Collot d'Herbois (Vol. 2). Paris.
-
-Besson, A. (1989). Contrebandiers et gabelous. Paris: Éditions Cujas.
-
-Billaud-Varenne, J.N. (1789). Le dernier coup porté aux préjugés et à la superstition. London.
-
-Billaud-Varenne, J.N. (1789). Despotisme des ministres de France, combattu par les droits de la Nation, par les loix fondamentales, par les ordonnances... Tome 1. [s.n.](Amsterdam). Retrieved from http://catalogue.bnf.fr/ark:/12148/cb37251805wDespotisme des ministres de France, combattu par les droits de la nation, par les lois fondamentales, par les ordonnances, par les jurisconsultes, par les orateurs, par les historiens, par les publicistes, par les poètes, enfin par les intérêts du peuple et l'avantage personnel du monarque. Amsterdam.
-
-Brissot, J.P. (1781). Un Indépendant à l'ordre des avocats, sur la décadence du barreau en France. Berlin, p. 40, p. 47.
-
-Brissot de Warville, J.P. (1912). J.-P. Brissot mémoires (1754-1793); \[suivi de] correspondance et papiers. T. 3. Publié avec étude critique et notes par Cl. Perroud. Paris: A. Picard et fils.
-
-Butler, R. (1983). Balzac and the French Revolution (1st ed.). Routledge. https://doi.org/10.4324/9780367351557.
-
-Chamfort, S.-R. N. (1791). Des académies, par S. R. N. Chamfort, de l'Académie française. Paris.
-
-Chartier, R. (1991). Les Origines culturelles de la Révolution française. Paris: Payot.
-
-Collot d'Herbois, J.-M. (1780). Le Paysan magistrat: Comédie en cinq actes et en prose. Paris.
-
-Crow, T.E. (1985). Painters and Public Life in Eighteenth-Century Paris. New Haven, CT: Yale University Press.
-
-Cruppi, J. (1895). Un avocat journaliste au XVIIIe siècle: Linguet. Paris.
-
-Darnton, R. (1971). The high enlightenment and the low-life of literature in pre-revolutionary France. Past & Present, 51, 81-115. Retrieved at: https://doi.org/10.1093/past/51.1.81.
-
-Darnton, R. (1971). The High Enlightenment and the Low-Life of Literature in Prerevolutionary France. In The Literary Underground of the Old Regime (p. 36, 40). Cambridge, MA: Harvard University Press.
-
-Darnton, R. (1982). The Literary Underground of the Old Regime. Cambridge, MA: Harvard University Press. Retrieved at: https://books.google.fr/books?id=wcdnAAAAMAAJ.
-
-Darnton, R. (1987). The facts of literary life in eighteenth-century France. In K. M. Baker (Ed.), The Political Culture of the Old Regime (pp. 261-291). Oxford: Oxford University Press.
-
-David, J.L. (1793). Discours du citoyen David, député du département de Paris, sur la nécessité de supprimer les académies: Séance du 8 août 1793. France: Imprimerie nationale.
-
-Desmoulins, C. (1834). Le Vieux Cordelier (No. 5, pp.104, 110, 122). Paris.
-
-Desmoulins, C. (1836). Correspondance inédite de Camille Desmoulins, député à la Convention nationale, ed. M. Matton. Paris.
-
-Diderot, D. (1951). Le Neveu de Rameau. In Oeuvres (p. 396, pp.469-70). Paris: Bibliothèque de la Pléiade.
-
-Doe, J. (2023). The Revolutionary Temper, Paris 1748-1789. New York: Cambridge University Press.
-
-Eisenstein, E. L. (1998). Bypassing the Enlightenment: Taking an underground route to the revolution. In H. Mason (Ed.), The Darnton Debate: Books and Revolution in the Eighteenth Century. Oxford: Oxford University Press.
-
-Furet, F. (1979). Pensez la Révolution française. Paris: Flammarion.
-
-Gordon, D. (1998). The Great Enlightenment Massacre. In H. Mason (Ed.), The Darnton Debate: Books and Revolution in the Eighteenth Century. Oxford: Oxford University Press.
-
-Gorsas, A.J. (1785). Promenades de Critès au salon de l'année 1785. Chez les Marchands de nouveautés, Londres.
-
-Gorsas, A.J. (1786). L'Âne promeneur, ou, Critès promené par son âne: chef d'oeuvre pour servir d'apologie au goût, aux moeurs, à l'esprit, et aux découvertes du siècle (pp. 10 and 36). \[à Pampelune]
-
-Grégoire, H.J.B. (1793). Rapport et projet de décret, présenté au nom du Comité de l'instruction publique, à la séance du 8 août (p. 10). Paris.
-
-Grégoire, H.J.B. (1793). Rapport et projet de décret, présenté au nom du Comité de l'instruction publique, à la séance du 8 août (pp. 4, 8, and 10). Paris.
-
-Kaiser, T.E. (1998). Enlightenment, Public Opinion and Politics in the Work of Robert Darnton. In H. Mason (Ed.), The Darnton Debate: Books and Revolution in the Eighteenth Century. Oxford: Oxford University Press.
-
-Lemny, S. (2000). Jean-Louis Carra (1742-1793), parcours d'un révolutionnaire. Paris.
-
-Lenoir. (1982). "The High Enlightenment and the Low-Life of Literature," (reprinted in The Literary Underground of the Old Regime, p. 26). Cambridge, MA.
-
-Levy, D.G. (1980). The Ideas and Careers of Simon-Nicolas-Henri Linguet: A Study in Eighteenth-Century French Politics. Urbana, Illinois.
-
-Linguet, S.N.H. (1764). Le Fanatisme des philosophes. London.
-
-Linguet, S.N.H. (1767). Théorie des lois civiles ou principes fondamentaux de la société (Vol. 2). London.
-
-Linguet, S.N.H. (1777). Annales politiques, civiles, et littéraires du dix-huitième siècle, II, p. 322.
-
-Linguet, S.N.H. (1779). Annales politiques, civiles, et littéraires du dix-huitième siècle, VI, p. 386.
-
-Linguet, S.N.H. (1779). Appel à la postérité, ou recueil des mémoires et plaidoyers de M. Linguet pour lui-même contre la Communauté des avocats du Parlement de Paris (p. 150). Collection complète des oeuvres de M. Linguet.
-
-Linguet, S.N.H. (1780). Esprit et génie de M. Linguet, avocat au parlement de Paris（p.133).
-
-Magnan, A. (1766). La Rameïde ("Petesbourg", p. 25).
-
-Magnan, A. (2023). Rameau le neveu: Textes et documents (2nd ed.). Paris.
-
-Mairobert. archives of the Bastille, ms 11 683, folios 52 and 55.
-
-Marat. (1779). *Découvertes de M. Marat,* pp. 14 and 70). Paris.
-
-Marat. (1784). Notions élémentaires d'optique (p. 11). Paris.
-
-Marat. (1791). Les Charlatans modernes, ou lettres sur le charlatanisme académique (p. 7). Paris.
-
-Mason, H. (Ed.). (1998). The Darnton Debate: Books and Revolution in the Eighteenth Century. Oxford: Oxford University Press.
-
-Maza, S. (1992). Private Lives and Public Affairs: The Causes Célèbres of Prerevolutionary France. Berkeley: University of California Press.
-
-McMahon, D. (2001). Enemies of the Enlightenment: The French Counter-Enlightenment and the Making of Modernity. New York: Oxford University Press.
-
-Popkin,J.D.(1991). The Brissot Dossier. French Historical Studies, 17(1), 159-205.
-
-Popkin, J. (1998). Robert Darnton's alternative (to the) Enlightenment. In H. Mason (Ed.), The Darnton Debate: Books and Revolution in the Eighteenth Century (pp. 1-20). Oxford: Oxford University Press.
-
-Popkin, J., & Fort, B. (Eds.). (1998). The "Mémoires secrets" and the Culture of Publicity in Eighteenth-Century France. Oxford.
-
-*docteur en médecine et médecin des gardes-du-corps de Monseigneur le comte d'Artois, sur le feu, l'électricité et la lumière* (2nd edition,
-
-Saint-Just. (1789). Orgt, poëme en vingt chants ("Au Vatican," Vol. I, p. 3). Paris.
-
-Saint-Just. (1946). Oeuvres de Saint-Just. Discours-rapports, Institutions républicaines, Organt, Esprit de la Révolution, Proclamation, lettres. Paris.
-
-Sgard, J. (Ed.). (1999). Dictionnaire des journalistes 1600-1789 (Vol. II, pp. 787-789). Oxford
-
-Tate, R. S. (1968). Petit de Bachaumont: His Circle and the Mémoires secrets. Geneva.
-
-Turnovsky, G. (2010). The Literary Market: Authorship and Modernity in the Old Regime. Philadelphia: University of Pennsylvania Press.
-
-Vellay, C. (Ed.). (1908). *La Correspondance de Marat recueillie et annotée* (p. 28). Paris.
-
-Viala, A. (1985). *Naissance de l'écrivain: Sociologie de la littérature à l'âge classique*. Paris.
-
-Walter, G. (1933). *Marat* (pp. 49-51). Paris.
