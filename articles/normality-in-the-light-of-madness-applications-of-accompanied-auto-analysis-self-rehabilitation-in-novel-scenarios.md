@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "Normality in the Light of Madness: Applications of Accompanied
   Auto-Analysis (Self-Rehabilitation) in Novel Scenarios"
 date: 2024-07-03T15:33:00.000Z
@@ -30,24 +30,22 @@ abstract: The paper describes the concept of psychological death, destruction
   severe psychosis, mainly schizophrenia.
 issue: content/issues/paris-ias-ideas.md
 highlight: false
-bibliography: /static/anystyle-1-.bib
+bibliography: /anystyle-1-.bib
 language: English
 ---
 > Acknowledgements
 >
 > This paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program.
 
-
-
-# Introduction: The Theoretical Toolkit and the Case Study
+## Introduction: The Theoretical Toolkit and the Case Study
 
 Having worked for more than 42 years with people diagnosed with so-called Schizophrenia, I identified and understood in a better way two key concepts that are crucial for us to also understand some of the main vicissitudes of the human mind. I am referring to the very close relation that exists between each person's lifestyle in its widest and narrowest sense, and the idea that the mind, what we commonly call the psyche, can be partially or totally destroyed, something I have called psychological death, destruction and decomposition. It also became clear to me that under certain special circumstances, the mind, the psyche, can somehow recover or even resuscitate, sort to say.
 
 This idea, this hypothesis if you prefer, was somehow floating in my mind since I was a child and a teenager. During this past month, I was able to put together those experiences, that I like to call my pragmatic and theoretical tool kit. From a theoretical perspective I had learned to understand the vicissitudes of the human mind with the help of Sigmund Freud and the vicissitudes of human society with the help of Karl Marx. Somehow it was a Freudo-Marxist experience, probably in the sense of the Frankfurt School. I would like to say, the experience we later developed was a Socialist Utopia on the light of madness, as I will describe in the following paragraphs. The following step which came spontaneously was to apply what we were beginning to understand to diverse clinical situations and different social conflicts, including but not limited to the peace process in Colombia and South America.
 
-With all of the above in the back of my mind, in 1982, I began to accompany homeless people diagnosed with schizophrenia. Trained as a medical doctor, as a psychiatrist and as a psychoanalyst, I felt that a great revolution had to happen within the psychiatric world and that is how I was part of the big anti-psychiatric movement of the sixties and seventies. That practical experience led me to consolidate the theory of psychosis understood as a process of psychological death, destruction and decomposition and the technique of accompanied auto-analysis or accompanied self-rehabilitation. This approach was initially used to accompany and try to understand homeless people diagnosed with severe psychosis, in a safe haven which we called Fungrata ("La granja").<1> Later we created a Therapeutic town in Sopó, Colombia, different from the one that has existed for centuries in Geel Belgium. Some people called our safe haven a therapeutic Community. We have no objection to that. The fact is that for more than 25 years, a community developed where homeless people diagnosed with schizophrenia, lived and worked. That was the "socialist utopia on the light of madness".
+With all of the above in the back of my mind, in 1982, I began to accompany homeless people diagnosed with schizophrenia. Trained as a medical doctor, as a psychiatrist and as a psychoanalyst, I felt that a great revolution had to happen within the psychiatric world and that is how I was part of the big anti-psychiatric movement of the sixties and seventies. That practical experience led me to consolidate the theory of psychosis understood as a process of psychological death, destruction and decomposition and the technique of accompanied auto-analysis or accompanied self-rehabilitation. This approach was initially used to accompany and try to understand homeless people diagnosed with severe psychosis, in a safe haven which we called Fungrata ("La granja").[^1] Later we created a Therapeutic town in Sopó, Colombia, different from the one that has existed for centuries in Geel Belgium. Some people called our safe haven a therapeutic Community. We have no objection to that. The fact is that for more than 25 years, a community developed where homeless people diagnosed with schizophrenia, lived and worked. That was the "socialist utopia on the light of madness".
 
-# The Theory of Psychosis Understood as Psychological Destruction and Decomposition
+## The Theory of Psychosis Understood as Psychological Destruction and Decomposition
 
 Can the mind as such be destroyed and decompose? Can it recover and somehow resuscitate? My answer is yes in spite of the inevitable controversy that this statement generates. The living mind is in my opinion correctly described in terms of the conscious and the unconscious by Sigmund Freud (Freud, 1915). To understand psychosis, I had to introduce the concepts of Psychological Destruction and Decomposition, and Psychological Life and Real Being (Fergusson, 2015a & 2015b). In my view, the psychoanalytic theory of the mind dedicates itself to describe what I call Psychological Life: Repressed psychological material is completely alive, unconscious material does not decompose, what has been subject to the mechanism of splitting remains alive, and so on. Observation has led me to state, that psychologically speaking, psychosis is equivalent to Psychological Destruction and Decomposition. This means in a certain way, that psychosis, as such, is nothing. Most of what we call psychosis, are really signs of psychological remains and detritus. Psychosis occurs when the Real Being (Psychological Life) of the psychological human being cannot and does not prevail. I have come to accept that psychosis and psychotic symptoms have no special meaning, that they are not defensive, and that they are just what is left of what once was the Real Being of Psychological life. The question is, which is the Psychological Life that is being destroyed, or is already decomposing.
 
@@ -63,11 +61,11 @@ All that has been said implies that we must, so to say, recover the scientific s
 
 In my opinion, it goes without saying that if the mind is dead, psychology in general is dead. It's interesting to see that many people deny the existence of the mind as a real level of organization of the material world, but few deny the existence of "the social" as one of those levels. Conceptually, I see no real difference between the two. Post-modernism and the deconstruction of theories go parallel to what is happening with the concept of the mind. The crises of paradigms have to be taken into account if we wish to understand what is happening with the concept of the mind. If we manage to demonstrate that the psychological level of integration of the material world does exist, it will again be impossible to limit ourselves to conceptualize the brain forgetting about the mind. This is what we mean by the Scientific Recovery of the Mind.
 
-# Phases and Technique of Accompanied Auto-Analysis
+## Phases and Technique of Accompanied Auto-Analysis
 
 Let me now review the Technique of Accompanied Auto-analysis. Bearing the eleven Basic Rehabilitation principles in mind (described elsewhere) together with the theoretical considerations about psychosis understood as Psychological Destruction and Decomposition we gradually arrived, through trial and error, at what we call Accompanied Auto analysis. This term is sometimes mentioned also as Accompanied Self rehabilitation, although with time we avoided the word rehabilitation which is often linked to distrust and stigma.
 
-Accompanied Auto-analysis is a technique that has been the product of our work both with institutional and Private patients. It is a new combination of old and well-known technical procedures and theoretical considerations. Recognition of the relative failure of other techniques were essential to arrive at Accompanied Auto-analysis. It is as if we said to the patients: "We are not able to help you, you have to do it yourself. I shall share with you the scientific knowledge we have, but you must take control". We recognized that we had failed so we handed over the responsibility of their treatment, together with the power of knowledge that until then had been kept for ourselves. In this sense, in our view, there is no way back. Therapists should never again have the monopoly of scientific knowledge. We have observed that one of the main reasons why many therapists who pass as experts in schizophrenia have seen very few patients, as it was pointed out by Michael Robbins (1997), is due to the fact that we did not have a technique that was comfortable enough for the therapist. <2> Accompanied Auto-analysis tries to identify realistic procedures through which therapists are able to work with schizophrenics, enjoying therapy, and thus being able to persist through large periods of time. In this sense, Accompanied Auto-analysis is both patient and therapist centered. We used this technique initially with schizophrenics and later with different kinds of people. It is no longer possible for us to distinguish if the technique of Accompanied Auto-analysis was first, or if the theory of Psychological Destruction and Decomposition was the beginning. They depend on each other. The essence of the Theory of Accompanied Auto-analysis technique lies in the fact that the Accompanied Person obtains scientific knowledge about the everyday functioning of one's mind. The patient is given the responsibility for his own therapy together with the power of scientific knowledge.<3> By scientific knowledge we are not only referring to the sort of information you would find in a Journal. The fact that the patient is familiar with the details of as many psychotherapeutic techniques as possible, is most useful, even though most of them are obviously not applicable by themselves. The latter is especially useful to encourage creativity while redesigning one's lifestyle. The patient also must take an active role in the evaluation of his own process. Through this, the Accompanied Person arrives to a self-made self-knowledge. We have identified the healing and humanizing power of scientific knowledge inasmuch as it generates change and psychological growth.
+Accompanied Auto-analysis is a technique that has been the product of our work both with institutional and Private patients. It is a new combination of old and well-known technical procedures and theoretical considerations. Recognition of the relative failure of other techniques were essential to arrive at Accompanied Auto-analysis. It is as if we said to the patients: "We are not able to help you, you have to do it yourself. I shall share with you the scientific knowledge we have, but you must take control". We recognized that we had failed so we handed over the responsibility of their treatment, together with the power of knowledge that until then had been kept for ourselves. In this sense, in our view, there is no way back. Therapists should never again have the monopoly of scientific knowledge. We have observed that one of the main reasons why many therapists who pass as experts in schizophrenia have seen very few patients, as it was pointed out by Michael Robbins (1997), is due to the fact that we did not have a technique that was comfortable enough for the therapist.[^2] Accompanied Auto-analysis tries to identify realistic procedures through which therapists are able to work with schizophrenics, enjoying therapy, and thus being able to persist through large periods of time. In this sense, Accompanied Auto-analysis is both patient and therapist centered. We used this technique initially with schizophrenics and later with different kinds of people. It is no longer possible for us to distinguish if the technique of Accompanied Auto-analysis was first, or if the theory of Psychological Destruction and Decomposition was the beginning. They depend on each other. The essence of the Theory of Accompanied Auto-analysis technique lies in the fact that the Accompanied Person obtains scientific knowledge about the everyday functioning of one's mind. The patient is given the responsibility for his own therapy together with the power of scientific knowledge.[^3] By scientific knowledge we are not only referring to the sort of information you would find in a Journal. The fact that the patient is familiar with the details of as many psychotherapeutic techniques as possible, is most useful, even though most of them are obviously not applicable by themselves. The latter is especially useful to encourage creativity while redesigning one's lifestyle. The patient also must take an active role in the evaluation of his own process. Through this, the Accompanied Person arrives to a self-made self-knowledge. We have identified the healing and humanizing power of scientific knowledge inasmuch as it generates change and psychological growth.
 
 Our basic hypothesis is that there is a way whereby any person or any so-called schizophrenic can organize his life and create a life system that will diminish the patient's risk of becoming psychotic. If the patient persists in that idea, he can try again and again until he finally finds the way. For those who need a daily 24-hour therapy the only way to obtain it is precisely through a change in their life system.
 
@@ -112,7 +110,7 @@ The biggest challenge of Accompanied Auto analysis-both for the Accompanying The
 
 These different phases have led us to resume the following four basic pillars of Accompanied auto-analysis: (1) ignorance as a recognition of what we do not know; (2) taking leadership of one's own process; (3) becoming an expert in oneself; and (4) redesigning one's life system (Fergusson, 2015b).
 
-# Novel Applications of Accompanied Auto-Analysis
+## Novel Applications of Accompanied Auto-Analysis
 
 Accompanied auto-analysis was later successfully applied in different group interventions in the contexts of Colombia's peace processes. During the peace negotiations of the Colombian government and the National Liberation Army (ELN) guerrilla group, it was effectively used with diverse and non-clinical populations. Later, it was applied to different groups in the context of the Colombian Truth Commission (2019-2022). These experiences proved that accompanied auto-analysis was a methodology that allowed constructing dialogue between rivals and on very sensitive topics. Somehow, we were able to better understand psychological and social conflicts on the light of madness.
 
@@ -122,32 +120,12 @@ The psychoanalytic posture allows a special way of working with the conflicted p
 
 Being able to listen, to handle emotions and to use psychoanalytic training to work with damaged relationships has been crucial to introduce innovative ways of working in peace negotiations. It is evident that these processes are not linear, and this implies that crises are not a failure in the negotiation, but part of its normal course.
 
-# Conclusions
+## Conclusions
 
 Having understood that the mind is something that can be destroyed and decomposed, allowed us to appreciate in a new way what psychological life is. As we conceive psychosis as Psychological Destruction and Decomposition of the mind, we were able to develop a technique to treat and accompany people to transform their lifestyle and achieve a recovery of their psychic life. Applied to non-clinical scenarios, Accompanied Auto-Analysis proved to have novel effects in the contexts of peace negotiations and in the understanding of the psychological effects of peace processes and other sensitive topics in society. New scenarios still await to be explored, that can benefit from the application of the technique of Accompanied Auto-Analysis, and the Theory of Psychological Damage and Decomposition when applied to the new challenges the world is facing nowadays.
 
-# References
+[^1]: "The farm", in Spanish.
 
-Fairbairn, W.R.D. (1941). A revised psychopathology of the psychoses and psychoneuroses. The International Journal of Psychoanalysis, 22, 250--270.
+[^2]: Personal communication, 1997.
 
-Fergusson, A. (2015a). Imaginary letters to Freud and other essays. Editorial Universidad del Rosario.
-
-Fergusson, A. (2015b). Accompanied Self-Rehabilitation. Editorial Universidad del Rosario.
-
-Freud, S. (1915). Instincts and their Vicissitudes. The Standard Edition of the Complete Psychological Works of Sigmund Freud 14:109-140.
-
-Harding, C.M., & Zahniser, J.H. (1994). Empirical Correction of Seven Myths about Schizophrenia with Implications for Treatment. Acta Psychiatrica Scandinavica, 90 (Suppl. 384), 140-146.
-
-Inwood, M. (2019). Heidegger: A Very Short Introduction. Oxford. Retrieve at: https://doi.org/10.1093/actrade/9780198828662.001.0001.
-
-Jenkins J. H. (1997). Subjective experience of persistent schizophrenia and depression among US Latinos and Euro-Americans. The British Journal of Psychiatry: the journal of mental science, 171, 20--25. Retrieve at: https://doi.org/10.1192/bjp.171.1.20.
-
-Strauss J. S. (1989). Subjective experiences of schizophrenia: toward a new dynamic psychiatry--II. Schizophrenia Bulletin, 15(2), 179--187. Retrieve at: https://doi.org/10.1093/schbul/15.2.179.
-
-# Footnotes
-
-<1> "The farm", in Spanish.
-
-<2> Personal communication, 1997.
-
-<3> For our explanation we will take the case of a male person. The same process can be applied to females as well.
+[^3]: For our explanation we will take the case of a male person. The same process can be applied to females as well.
