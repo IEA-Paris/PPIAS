@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: AI and the illusion of control
 date: 2024-07-04T10:29:00.000Z
 type: proceedings
@@ -43,7 +43,7 @@ abstract: "The paper explores the impact of the dazzling performance of
   Others. "
 issue: content/issues/paris-ias-ideas.md
 highlight: false
-bibliography: /static/anystyle-3-.bib
+bibliography: /anystyle-3-.bib
 language: English
 ---
 > **Acknowledgements**
@@ -58,7 +58,7 @@ language: English
 >
 > Nowotny, H., Van Hoyweghen, I., & Vandewalle, J. (2023). *AI as an agent of change, KVAB Thinker's report 2023*. KVAB Standpunt 85 b.
 
-# 1.	Generative AI and the illusion of control
+## 1. Generative AI and the illusion of control
 
 The amazing feats of LLMs, Large Language Models, to generate texts and images that have been trained with data from the web as well as being synthetically produced, have surprised even experts. New opportunities to render our lives and our future even better and brighter were celebrated. Likewise, numerous concerns were raised ranging from threats that targeted disinformation will undermine liberal democracies to the challenges of likely job losses, this time affecting mainly professionals and artists. By unleashing ChatGPT, OpenAI, financed by Microsoft, many organizations experimented on millions of users without asking for anyone’s consent. Huge investments and fierce competition between the tech giants followed, accompanied by promises and rising expectations. Arguably, the enthusiasm generated this time exceeded previous ones.
 
@@ -106,7 +106,7 @@ The quest for identity and finding meaning in a world in which technology and ge
 
 The enormous concentration of economic power in a capitalistic system that rewards greed and legitimizes growing inequalities is hardly favorable to finding common ground and a shared vision of the future. Our societies have become polarized and fragmented, which is exacerbated by the unrestricted circulation of misinformation, hate speech and the further erosion of trust by DeepFakes. In principle, AI enables us to create digital twins of everything that exists - a digital mirror society and a digital mirror world. At the same time, it holds up a mirror to us. If we wish and look carefully, we can see through the illusion of being in control and the illusion of having lost control. We can see what makes us human. What follows from this insight is left up to us.
 
-# 2. Anthropomorphic illusions
+## 2. Anthropomorphic illusions
 
 The recent encounters with generative AI have exposed a human vulnerability to anthropomorphism, to seeing the systems in which it is embedded and its components, as having features and behavior more human-like than they are. By becoming extremely adept in mimicking human language and other cognitive abilities, including scientific and artistic creativity, the line between the 'natural' tendency to anthropomorphize as expressed in the language we use in our dealings with technology, and the belief that the technological artifact is indeed an entity that 'knows', 'understands' and 'thinks', becomes ever thinner. The un-reflected use of such words which are relatively harmless if they refer to familiar technologies that we have incorporated into our world and hence under control, can transform into a dangerously compelling illusion of being in the presence of a thinking creature like us (Shanahan, 2022). From a philosopher's perspective, Daniel Dennett has analyzed in detail what he calls 'the intentional stance', the human propensity to treat others as 'intentional systems' in daily life. We attribute to things and phenomena beliefs, desires and rational intentions that pertain to humans which allows us to predict their behavior more readily (Dennett, 1987).
 
@@ -130,7 +130,7 @@ The power of technology has permitted us to do things that otherwise would be un
 
 For far too long, we have insisted that technologies are neutral and more 'objective' than humans, as we tend to associate them with the techno-sciences. Yet, the goals that have been designed into their functions are programmed by humans, and they merely follow the instructions they have been given. Whether technology is used in ways that are beneficial or harmful, whether they liberate or suppress other human beings, is never about technology alone. Human agents have transferred parts of their agency to the machines that carry out functions to attain specified goals. Human agents have interests and intentions, be it profit, destabilization, destruction, or the advancement of scientific understanding and working for the common good.
 
-# 3. The control of technology
+## 3. The control of technology
 
 Control is inherent to every technology as otherwise it will not function. Control over the design, construction, manufacture, and operation presupposes control over the component parts, the processes involved and how a technology is embedded in a larger system. As a smooth and efficient functioning can never be taken for granted, control implies foreseeing and preventing whatever can go wrong. Errors are always possible, and accidents are likely to happen. The fault may lie in the design or lack of proper maintenance and repair. It may be due to the deficiencies of components or failure in the ways they interact. The functioning must take into account the varying conditions under which it is expected to work, be it temperature, humidity, roughness of surface or the more intricate features of the smaller or larger size of the device or system and their interaction.
 
@@ -152,7 +152,7 @@ Where there is control, the illusion of being in control is never far away. Huma
 
 We may soon reach the -- provisionally ultimate -- illusion of control with autonomous weapon systems. Designed to be ultra-fast AI technologies they are programmed to carry out 'precision strikes' which have already taken their place in warfare with the mass production of cheap drones equipped with FPV, first-person vision. Other, more powerful autonomous weapon systems with greater reach and impact, are waiting to be deployed (The Economist, 2023; Mhalla, 2024). It is difficult, if not impossible, to call autonomous weapons back once they have been launched, as they will carry out what they have been instructed to do. Given their hyper-speed, there is no time left for human deliberation, let alone for rendering a human-made decision reversible. The control of this technology has been handed over to the machine and the deliberately designed autonomy of the system. Whoever deploys it as a first strike or as programmed fast retaliation, is in the grip of the illusion of being in control, upheld by the belief of controlling a technology that is more powerful than that of the opponent.
 
-# 4. Technologies as agents of change: the outsourcing of communication
+## 4. Technologies as agents of change: the outsourcing of communication
 
 The historical growth of new human knowledge can be interpreted as a sequence of major transitions in externalizing knowledge operations: collecting and processing of information; applying the knowledge gained in other contexts; storage, dissemination, communication and repurposing of information and knowledge; generating new knowledge through recombination. Encoded in a new technological medium, knowledge operations extend what becomes possible, visible, feasible and understandable. In turn, outsourcing has major impacts on the society which invents, adopts, and expands it. One of the most efficient knowledge operations is communication, the exchange and spread of ideas which leads to new ideas, the adoption and adaptation of concepts and practical instructions of how to 'do'. Paul Watzlawick, the communication theorist, famously declared 'One cannot not communicate'. Our huge advantage over other communicating animals is the evolution of language. We can use it to communicate in analog form (about an object) and digitally (logical, symbolic, and statistical connections). We communicate verbally and through body language. We transfer and exchange information about ourselves, others, and the world. This can be ideas, practices, and knowledge at various levels of abstraction and complexity.
 
@@ -202,7 +202,7 @@ The outsourcing of knowledge production to digital machines brings a series of c
 
 Perhaps the greatest, unintended, and undervalued gift of Generative AI is that it opens a range of fascinating new research questions. They range from in-depth explorations of how the human brain works in solving tasks compared to that of an AI; to questions about the future evolution of language once LLMs have become ubiquitous in daily life; the impact of ever more intimate and intense interactions with AI, especially on the younger generation and the formation of identity; to questions about the impact of AI on liberal democracies and what can be done to stop further erosion. Beyond such research questions and the launch of new research fields, science has an important role to play in conveying to the public how it works. The physicist Richard Feynman once said: "Science is what we have learned about how to keep from fooling ourselves". Given the design of ChatGPT to make us believe one communicates with a human and given our anthropomorphic tendencies, it is even more important for science to bring Feynman's admonition to the public. The pandemic made it painfully clear how little politicians and the public understand that science is organized skepticism and that to question claims about scientific findings in an elaborate process of verification and validation, is an essential epistemic virtue of science and not a fault.
 
-# 5. Cultivating human imagination -- the positive side of illusion?
+## 5. Cultivating human imagination -- the positive side of illusion?
 
 Marshall Sahlins, a towering figure in cultural anthropology, has left a posthumously published tribute to a world in which 'Most of Humanity' lived over thousands of years - the Enchanted Universe (Sahlins, 2022). Our ancestors were surrounded by meta-persons or spiritual beings, entities whose status is difficult to define. They were gods of various standings and provenance, ancestors, souls of plants and animals, and Others who were immanent in human existence. For better and worse, they largely determined human fate. They were not 'outside' in another world, but together with human persons formed one big immanent order of cosmic proportions. In this Enchanted Universe humans were in a dependent, but also in an inter-dependent position. The meta-human powers were present in every facet of human experience, and they meddled in everything that humans did. They were the decisive agents in human existence and the undisputed sources of success, or lack of it; they were involved in hunting or political ambitions; in building a canoe or cultivating a garden; in giving birth or waging war. Interdependence was manifest in the continual ritual invocation of spirit beings through numerous cultural practices. Everything in this immanent order was the material expression of the potency of meta-persons and nothing could be undertaken without evoking their powers.
 
@@ -212,7 +212,7 @@ Seen through the transcendental lens, we 'moderns' are convinced that our ancest
 
 And yet, more and more is of our making, beginning with the enormous impact humans have on the natural environment during the short period now called the Anthropocene, even if the International Union of Geological Sciences, the official scientific gatekeeper of the age of the Earth, has not yet recognized it as the beginning of a new epoch. The world that we inhabit is ever more a human-made world, dramatically changed through human intervention. It is increasingly filled with sensors, satellites and space telescopes that bring information directly into the present about what happened millions of years ago in the faraway universe. 'Welcome to the mirror world', as I wrote in my book referring to this digital world in the making. Tiny robots are used to deliver medicine to those body parts where they are most effective. We have begun to edit specific genes with the help of the fabulous new tool that is called CRISPR-Cas. We are beginning to vaccinate tumor cells. With the help of AI, brain waves can be transferred to a computer that transforms them into speech. We continue to create numerous artificial entities, non-human digital Others, with whom we share power and with whom we negotiate to gain or retain control. We seem to have reached what Giambattista Vico adumbrated in his New Science (1711), namely that "verum (the true) and factum (the made) are interchangeable - we only understand what we made. The true and the made are reciprocal, each entailing the other. But do we still understand what we make? Or has the complexity, arising from self-organizing processes in living and non-living complex systems, left us struggling to catch up in understanding what we continue to make?
 
-I am not suggesting that with the end of modernity, characterized as the Weberian disenchantment of the world, we are about to create a new, digital re-enchantment. The transhumanistic movement and long-termism are only another flight of fantasy and wishful thinking to escape human finitude and death.\[1] Yet, the transcendental bearings on which the modern world rests, are undergoing a long-term process of erosion. The transcendental order of the past which served us well, at least in the West, is giving way under the challenges of a global order in which Western dominance is contested and the old moral compass appears no longer to function. As we continue to generate new digital entities and systems which, tellingly, for some still retain vestiges of godlike attributes, we are confronted with finding novel ways of living with the digital Others created by us. If we no longer fully understand Vico's factum, the machines created by us, neither in the details of how they work, let alone in the implications they exert on us, their creators and transfer agency to them, when we begin to 'believe' that everything predictive algorithms tell us must come true, forgetting about probabilities and that the data are extrapolations from the past -- we may have to invent a new order that accounts for the paradox that lies at the heart of our trust in AI: we leverage AI to increase our control over the future and uncertainty, while at the same time, the performativity of AI, the power it has to make us act in the ways it predicts, reduces our agency over the future (Nowotny, 2021a).
+I am not suggesting that with the end of modernity, characterized as the Weberian disenchantment of the world, we are about to create a new, digital re-enchantment. The transhumanistic movement and long-termism are only another flight of fantasy and wishful thinking to escape human finitude and death.[^1] Yet, the transcendental bearings on which the modern world rests, are undergoing a long-term process of erosion. The transcendental order of the past which served us well, at least in the West, is giving way under the challenges of a global order in which Western dominance is contested and the old moral compass appears no longer to function. As we continue to generate new digital entities and systems which, tellingly, for some still retain vestiges of godlike attributes, we are confronted with finding novel ways of living with the digital Others created by us. If we no longer fully understand Vico's factum, the machines created by us, neither in the details of how they work, let alone in the implications they exert on us, their creators and transfer agency to them, when we begin to 'believe' that everything predictive algorithms tell us must come true, forgetting about probabilities and that the data are extrapolations from the past -- we may have to invent a new order that accounts for the paradox that lies at the heart of our trust in AI: we leverage AI to increase our control over the future and uncertainty, while at the same time, the performativity of AI, the power it has to make us act in the ways it predicts, reduces our agency over the future (Nowotny, 2021a).
 
 In the Enchanted Universe which was the long-time home of 'most of humanity', everything that was done happened with and through the meta-persons who decided the fate of humans. If we believe that predictive algorithms 'know us better than we know ourselves' and that they know the future, do we not risk returning to a deterministic worldview in which human destiny has been preset by some higher power? Most of humanity presumably experienced the enchanted world they lived in with a mixture of constant anxiety and awe to which they responded with sacrifices and rituals. In contrast, our digital enchantment seems rather bland, although we are promised an ever more exciting and fulfilling virtual world. It is dominated by the monopolistic power of large international corporations that provide us with cheap entertainment and an overload of data that wants us to crave more of what they offer to us. Although we partly see through these virtual illusions created by them, we remain under their spell.
 
@@ -232,76 +232,4 @@ To gain control over the digital Others requires more than rituals and sacrifice
 
 Redefining our humanity begins with re-thinking the concept of control and reinventing forms of control that include care and responsibility. We have embarked on a long-term and open-ended co-evolutionary trajectory between humans and digital machines. If efficiency alone remains the overriding goal, we will be outpaced and overwhelmed by the machines very soon. If we pursue other goals, like building resilience into the system and how to innovate sustainably, the chances of keeping ahead are much greater. However, such goals must be embedded in the collective imagination, driven by the desire to reappropriate an open future, even if it remains uncertain. Embracing uncertainty will not restore us to being in control, but hopefully it will enable us to learn to live with the digital Others in a common world yet to be made.
 
-# References
-
-Autor, D. (2023). Will New Technologies Commodify or Complement Expertise? In *Spark 8*,December. (pp. 76-81). A NOMIS Foundation limited-edition publication.
-
-Bellah, R.N. & Joas, H. (2012). *The Axial Age and Its Consequences*. The Belknap Press.
-
-Bradford, A. (2020). *The Brussels Effect: How the European Union Rules the World*. Oxford University Press.
-
-Bubeck, S. et al. (2023). *Sparks of Artificial General Intelligence: Early experiments with GPT-4*. <https://arxiv.org/pdf/2303.12712.pdf>
-
-Daston, L.J. & Galison, P. (2010). *Objectivity*. Zone Books.
-
-Dennett, D. (1987). *The Intentional Stance*. The MIT Press.
-
-Eisenstein, E. (1980). *The Printing Press as an Agent of Change*. Cambridge University Press.
-
-Elliott, A. (2024). *Algorithms of Anxiety*. Polity Press.
-
-Elliott, A. (2023). *Algorithmic Intimacy: The Digital Revolution in Personal Relationships*. Polity Press.
-
-Esposito, E. (2024). Can we use the open future? Preparedness and innovation in times of self-generated uncertainty. In *European Journal of Social Theory*, 0(0). Retrieved at: <https://doi.org/10.1177/13684310231224546>.
-
-Ewald, F. (1986). *L'Etat providence*. Grasset.
-
-Ezrahi, Y. (2012). *Imagined Democracies*. Cambridge University Press.
-
-Hacking, I. (1990). *The Taming of Chance*. Cambridge University Press.
-
-Innerarity, D. (2022). Controlling the Desire for Control: Machines, Institutions and Democracy. In Gómez Gutiérrez, J.J., Abdelnour-Nocera, J., Anchústegui Igartua, E. (eds) Democratic Institutions and Practices. *Contributions to Political Science*. Springer, Cham. Retrieved at: <https://doi.org/10.1007/978-3-031-10808-2_9>.
-
-Labatut, B. (2023). *The Maniac*. Pushkin Press.
-
-Latour, B. (1993). *We Have Never Been Modern*. Harvard University Press.
-
-Lee, E.A. (2020). *The Coevolution: The Entwined Futures of Humans and Machines*. MIT Press.
-
-Lee, E.A. (2022). Are We Losing Control? In Werthner, H., Prem, E., Lee, E.A., Ghezzi, C. (eds.) *Perspectives on Digital Humanism*. Springer, Cham. Retrieved at: <https://doi.org/10.1007/978-3-030-86144-5_1>.
-
-Mhalla, A. (2024). *Technopolitique. Comment la technologie fait de nous des soldats*. Seuil.
-
-Neiman, S. (2023). *Left Is Not Woke*. Wiley.
-
-Nowotny, H. (2020). *Life in the Digital Time Machine*. The Wittrock lecture book series. Swedish collegium for advanced study (SCAS).
-
-Nowotny, H. (2021a). In *AI We Trust: Power, Illusion and Control of Predictive Algorithms*. Polity Press.
-
-Nowotny, H. (2021b). In AI We Trust: How the COVID-19 Pandemic Pushes us Deeper into Digitalization. In Delanty, G. (eds.). *Pandemics, Politics, and Society: Critical Perspectives on the Covid-19 Crisis*. (pp. 107-121) De Gruyter. Retrieved at: <https://doi.org/10.1515/9783110713350>.
-
-Nowotny, H., Van Hoyweghen, I., Vandewalle, J.(2023) *AI as an agent of change, KVAB Thinker's report 2023*. KVAB Standpunt 85 b.
-
-Perrow, C. (1984). *Normal Accidents: Living with High-Risk Technologies*. Basic Books.
-
-Robb, A. (2024, 2 March). 'He checks in on me more than my friends and family': can AI therapists do better than the real thing?' *The Guardian*. Retrieved at: <https://www.theguardian.com/lifeandstyle/2024/mar/02/can-ai-chatbot-therapists-do-better-than-the-real-thing>.
-
-Sahlins, M. (2022). *The New Science of the Enchanted Universe: An Anthropology of Most of Humanity*. Princeton University Press.
-
-Scott, J.C. (1998). *Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed*. Yale University Press.
-
-Shanahan, M. (2023). *Talking about large language models*. Accessed January 30, 2023, from Retrieved at: <https://arxiv.org/abs/2212.03551>.
-
-Steels, L. (2023). Turing's Curse. In: Nowotny, H., Van Hoyweghen, I., Vandewalle, J. *AI as an agent of change, KVAB Thinker's report 2023*. KVAB Standpunt 85 b.
-
-*The Economist*. (2023, July 8-14). The Future of War: A special report. Retrieved from Retrieved at: https://www.economist.com/special-report/2023/07/08/the-future-of-war.
-
-Turchin, P. (2023). The evolution of moralizing supernatural punishment: Empirical patterns. In Larson et al (eds.) *Seshat history of moralizing religions*.
-
-Wolf, M. (2023). *The Crisis of Democratic Capitalism*. Penguin Books Ltd.
-
-Zuboff, S. (2019). *The Age of Surveillance Capitalism. The Fight for a Human Future at the New Frontier of Power*. Public Affairs.
-
-# Footnotes
-
-\[1] Long-termism is an aspect of 'effective altruism', a philosophical and social movement that gives priority to improving the long-term future of humanity. Critics claim that by focusing predominantly on 'existential risk' it favors eugenics and neglects today's foremost problems.
+[^1]: Long-termism is an aspect of 'effective altruism', a philosophical and social movement that gives priority to improving the long-term future of humanity. Critics claim that by focusing predominantly on 'existential risk' it favors eugenics and neglects today's foremost problems.
