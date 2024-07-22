@@ -5,6 +5,7 @@ articles:
   - 9-0_WPRN21_Closing Panel
   - >-
     collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
+  - ai-and-the-illusion-of-control
 exerpt: ''
 firstname: Helga
 is_institution: false
@@ -13,6 +14,7 @@ issue:
   - content/issues/HCERES - PFUE 2022.md
   - content/issues/WPRN21 Conference.md
   - content/issues/Intercontinental Academia 4.md
+  - content/issues/paris-ias-ideas.md
 language:
   - English
 lastname: Nowotny
@@ -20,7 +22,8 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: ETH Zurich, Switzerland
-    positions: []
+    positions:
+      - Former President
   - institution: Swiss Federal Institute of Technology in Zürich (ETH Zurich), Switzerland
     positions: []
 reference: ''
@@ -40,5 +43,6 @@ years:
   - 2021
   - 2022
   - 2023
+  - 2024
 
 ---
