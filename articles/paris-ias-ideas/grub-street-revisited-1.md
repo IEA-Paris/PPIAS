@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "Grub Street Revisited "
 date: 2024-07-03T15:14:00.000Z
 type: proceedings
@@ -12,7 +12,7 @@ abstract: This essay traces the origin and polemics connected with Robert
   relates it to the understanding of Jacobinism.
 issue: content/issues/paris-ias-ideas.md
 highlight: false
-bibliography: /static/anystyle.bib
+bibliography: /anystyle.bib
 language: English
 ---
 > Acknowledgements
