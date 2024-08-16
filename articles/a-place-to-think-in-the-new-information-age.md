@@ -61,7 +61,7 @@ Although we continue to make use of our physical workspace---placing post-it not
 
 Today, networked information systems---spanning from the omnipresent cellphone to the complex web of computer systems that pervade and shape modern life --- connect our activities to ever-expanding information resources. Yet despite tremendous advances in computational capacity and connectivity, computer-mediated activities and the spaces where we think are increasingly fragmented, lacking contextual, spatial, and temporal structure. The question I want to address is how should a place to think be designed in the new information age?
 
-Designing a Place to Think
+## Designing a Place to Think
 
 For far too long we have conceived of thinking as something that happens exclusively in the head. Thinking happens in the world as well as in the head. We think with things, with our bodies, with marks on paper, and with other people. As we have described above, increasingly we think with computers. Here information is displayed on screens as we work on tasks ranging from scheduling a meeting with a friend to accomplishing extended-duration activities such as writing this paper.
 
@@ -73,7 +73,7 @@ The fundamental premise of our vision is that the design of a place to think sho
 
 Of course, the need for a modern integrated workspace has been recognized by others and currently, there are many attempts such as Microsoft Office and Google Workspace to integrate applications, as well as note-taking tools such as Notion, Obsedian, Muse, and many others, attempting to provide integrated management facilities. Our goal here is to describe the fundamental design characteristics needed to create a productive, convivial, and ideally beautiful place to think, what we term a human-centered information space.
 
-A Human-Centered Information Space
+## A Human-Centered Information Space
 
 "The computer desktop was an amazing design for its time, but does not reflect the complexity, flexibility, and sociality of human activity...Eventually, we will have to reorganize the desktop to reflect the complex mix of activities users engage in and move beyond the rigidity of separate applications and files-and-folders." (Kaptelinin & Nardi, 2009) -- Bonnie Nardi
 
@@ -81,7 +81,7 @@ A human-centered information space is both an idea, and a computational envi
 
 The context and history of activity should drive the behavior of information. To the user, her information should seem alive, have awareness, know where it came from, how it got there, what it means---and behave accordingly. These representations and interactions will in turn guide the user's future action such that the struggle of resuming interrupted work is eased. It is crucial to emphasize a human-centered information space will not replace the user's ecosystem of documents and applications, but be a separate space linked to them, acting as a home, a control center, a multi-modal but fundamentally 'spatial workspace' where information across applications will converge with visual features and active behaviors that support the user in not only completing her tasks, but accomplishing long-term overarching activities. To make the notion of a human-centered information space more concrete we sketch a scenario.
 
-Scenario: A Human-Centered Information Space
+## Scenario: A Human-Centered Information Space
 
 Samantha leads a microbiology research group. She has just returned from a conference and is ready to continue writing a paper she started before her trip, but is struggling to remember where she left off. As an early adopter of technology, Samantha has been using a new prototype system---a human-centered information space. She thinks of the software as a spatial workspace, a separate zoomable space of representations of her past activity with links to activity-associated documents (e.g., articles, email messages, web pages, notes, sketches, and analyses) and applications. Information in the space is active, powered by sets of rules and AI agents, it is aware of when and how information was accessed and able to show the contexts of past interactions and summarize, filter, and depict activity and information at multiple semantic levels.
 
