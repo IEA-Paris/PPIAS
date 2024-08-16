@@ -39,8 +39,6 @@ language: English
 >
 > This paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program.
 
-
-
 Barbara Tversky in her delightful and informative book, Mind in Motion (Tversky, 2019), tells us that when thought overruns the mind we put it in the world. We jot thoughts on pieces of paper, whiteboards, and post-it notes. We type them into laptops and phones, highlight them in books and articles by underlining or making margin notations, and surprisingly often send them in emails to ourselves. Even if captured, we face the problem of finding them when needed. Physical media can only be in one place and often that is not where we are. If we store them in the cloud we need network access and they are often still difficult to locate. Is it in Dropbox or Google Drive, on the computer in the office or the one at home, and what was the file's name and where in the filesystem hierarchy was it placed?
 
 Of course today we have powerful search facilities but we still confront creating a query and even if it is successful it too often returns more than we want and much that is unrelated. Unfortunately, it will not bring back the context of previous use---the web of applications, notes, emails, slack conversations, etc.---associated with our activity with the searched-for item.
@@ -50,6 +48,8 @@ In an earlier time, we mainly worked in one place, an office. Although we might 
 He used the example of an office worker as shown in Figure 1. Information is available in the notepad on the desk, through the computer terminal, in the papers piled or carefully organized on the desktop, through other people using the telephone, from books in the bookcase, and papers in the filing cabinet. The media take different forms---from paper documents to machines to people---but each piece of information has a cost associated with finding and accessing it. Looked at abstractly, the office, at any moment, is characterized by a cost structure over the information in it. What is usually meant by an organized office is one with a cost structure arranged to lower the cost of information-based work processes performed within it. File cabinets, desks, filing systems, and computer-based information retrieval systems can be thought of abstractly as just means for changing the cost structure of information.
 
 **Figure 1. An Office Organized to Have an Efficient Information Cost Structure**
+
+![](/static/figure-1-hollan.png)
 
 A significant component of the cost structure of information access is cognitive, the mental effort required to access or use the information. Sometimes the effort is so minimal it is not even noticed. For example, skills like reading are automated and the meanings of words happen with no apparent effort. Other times there is a feeling of friction, what one might characterize as a viscosity of information access. Access can also feel pleasantly frictionless such as when a long web address is suggested as you begin to type it or a directory where you recently saved a file is made available when saving another file. The feeling of friction comes from cognitive effort and if it is beyond some threshold it can feel more like an interruption and a shift to a different task.
 
@@ -75,11 +75,11 @@ Of course, the need for a modern integrated workspace has been recognized by oth
 
 ## A Human-Centered Information Space
 
-"The computer desktop was an amazing design for its time, but does not reflect the complexity, flexibility, and sociality of human activity...Eventually, we will have to reorganize the desktop to reflect the complex mix of activities users engage in and move beyond the rigidity of separate applications and files-and-folders." (Kaptelinin & Nardi, 2009) -- Bonnie Nardi
+> "The computer desktop was an amazing design for its time, but does not reflect the complexity, flexibility, and sociality of human activity...Eventually, we will have to reorganize the desktop to reflect the complex mix of activities users engage in and move beyond the rigidity of separate applications and files-and-folders." (Kaptelinin & Nardi, 2009) -- Bonnie Nardi
 
-A human-centered information space is both an idea, and a computational environment. It is the idea of a spatial cognitive workspace---a desktop for intellectual activity---reified as a computational environment that actively supports the coordination of information-based work. Specifically, the information environment should develop awareness of the history and structure of a user's action: how she accomplishes activities through discrete tasks across devices, programs, and working sessions. Through use, information in the environment accumulates structure and context: not only who accessed it and when, but concurrent activity and semantic relationships to other related information and activities.
+A *human-centered information space* is both an *idea*, and a *computational environment*. It is the idea of a spatial cognitive workspace---a desktop for intellectual activity---reified as a computational environment that actively supports the coordination of information-based work. Specifically, the information environment should develop awareness of the history and structure of a user's action: how she accomplishes activities through discrete tasks across devices, programs, and working sessions. Through use, information in the environment accumulates structure and context: not only who accessed it and when, but concurrent activity and semantic relationships to other related information and activities.
 
-The context and history of activity should drive the behavior of information. To the user, her information should seem alive, have awareness, know where it came from, how it got there, what it means---and behave accordingly. These representations and interactions will in turn guide the user's future action such that the struggle of resuming interrupted work is eased. It is crucial to emphasize a human-centered information space will not replace the user's ecosystem of documents and applications, but be a separate space linked to them, acting as a home, a control center, a multi-modal but fundamentally 'spatial workspace' where information across applications will converge with visual features and active behaviors that support the user in not only completing her tasks, but accomplishing long-term overarching activities. To make the notion of a human-centered information space more concrete we sketch a scenario.
+The context and history of activity should drive the *behavior of information*. To the user, her information should seem *alive*, have awareness, know where it came from, how it got there, what it means---and *behave* accordingly. These representations and interactions will in turn guide the user's future action such that the struggle of resuming interrupted work is eased. It is crucial to *emphasize a human-centered information space will not replace the user's ecosystem of documents and applications, but be a separate space linked to them,* acting as a home, a control center, a multi-modal but fundamentally 'spatial workspace' where information across applications will converge with visual features and active behaviors that support the user in not only completing her tasks, but accomplishing long-term overarching activities. To make the notion of a human-centered information space more concrete we sketch a scenario.
 
 ## Scenario: A Human-Centered Information Space
 
@@ -95,9 +95,11 @@ Of course, this idealized scenario glosses over myriad complex research issues. 
 
 **Figure 2. Collaboratory for the Design of Information Work (CDIW) Network of Networks**
 
+![](/static/figure-2-hollan.jpg)
+
 *Note. CDIW connects the original Active Information Spaces network to the eNSEMBLE Future of Digital Collaboration, spanning 80 research groups and 30+ universities in France, and the Microsoft Future of Work network that is distributed across research labs in the U.S. and Europe.*
 
-Collaboratory for Design of Information Work (CDIW)
+## Collaboratory for Design of Information Work (CDIW)
 
 We have recently proposed[^2] an international research network, the Collaboratory for Design of Information Work (CDIW), to address these research questions. We argue that today's most significant and urgent scientific problems are global in scale and inexorably entwined with information technologies. Solutions will thus require both technological innovation and international collaboration. Networked information systems---spanning from the omnipresent cellphone to the complex web of computer systems that pervade and shape modern life --- connect our activities to ever-expanding information resources. Yet despite tremendous advances in computational capacity, connectivity, and artificial intelligence, computer-mediated activities remain fragile, fragmented, and frustrating. Addressing this challenge by fostering human-technology partnership is the integrating theme of the CDIW network. We argue that a core challenge for the future of collaboration and information work stems from the unquestioned presupposition that information is passive data, disconnected from the rich context of human activity. Members of the CDIW are united by the shared vision of enabling entirely new classes of solutions by advancing beyond the legacy document-and-application-centered paradigm of current systems and the walled gardens and information silos it entails. Initiated by a network of research labs in the U.S. (UC San Diego, MIT, and Stanford), Canada (Toronto), Denmark (Aarhus), and France (Inria and Paris-Saclay) focused on active information spaces, the CDIW has coalesced into a network of networks with clearly articulated research objectives beyond the reach of any individual member and strategic linkages to the recently funded (38M€) French eNSEMBLE: Future of Digital Collaboration network and Microsoft's Future of Work network focused on information work in collaboration with AI.
 
@@ -105,13 +107,13 @@ The broader potential impacts of the CDIW arise from the potential to radically 
 
 # References
 
-Card, S. K., Robertson, G. G., & Mackinlay, J. D. (1991). The information visualizer, an information workspace. In Proceedings of the ACM Conference on Human Factors in Computing Systems, CHI (pp. 181--188). New York, NY: ACM. http://dx.doi.org/10.1145/108844.108874
+Card, S. K., Robertson, G. G., & Mackinlay, J. D. (1991). The information visualizer, an information workspace. In *Proceedings of the ACM Conference on Human Factors in Computing Systems, CHI* (pp. 181–188). New York, NY: ACM. http://dx.doi.org/10.1145/108844.108874
 
-Hollan, J., & Stornetta, S. (1992). Beyond being there. In Proceedings of the ACM CHI'92 Conference on Human Factors in Computing Systems (pp. 119--125). New York, NY: ACM. https://doi.org/10.1145/142750.142769
+Hollan, J., & Stornetta, S. (1992). Beyond being there. In *Proceedings of the ACM CHI’92 Conference on Human Factors in Computing Systems* (pp. 119–125). New York, NY: ACM. https://doi.org/10.1145/142750.142769
 
-Kaptelinin, V., & Nardi, B. A. (2009). Acting with Technology: Activity Theory and Interaction Design. Cambridge, MA: The MIT Press.
+Kaptelinin, V., & Nardi, B. A. (2009). *Acting with Technology: Activity Theory and Interaction Design.* Cambridge, MA: The MIT Press.
 
-Tversky, B. (2019). Mind in Motion. New York, NY: Basic Books.
+Tversky, B. (2019). *Mind in Motion.* New York, NY: Basic Books.
 
 # Footnotes
 
