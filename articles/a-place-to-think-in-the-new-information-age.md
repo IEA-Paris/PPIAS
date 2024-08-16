@@ -30,6 +30,7 @@ abstract: This short note summarizes a National Science Foundation
   supports information-based work.
 issue: content/issues/paris-ias-ideas.md
 highlight: false
+bibliography: /static/anystyle.bib
 language: English
 ---
 > ## Acknowledgements
@@ -48,9 +49,7 @@ In an earlier time, we mainly worked in one place, an office. Although we might 
 
 He used the example of an office worker as shown in Figure 1. Information is available in the notepad on the desk, through the computer terminal, in the papers piled or carefully organized on the desktop, through other people using the telephone, from books in the bookcase, and papers in the filing cabinet. The media take different forms---from paper documents to machines to people---but each piece of information has a cost associated with finding and accessing it. Looked at abstractly, the office, at any moment, is characterized by a cost structure over the information in it. What is usually meant by an organized office is one with a cost structure arranged to lower the cost of information-based work processes performed within it. File cabinets, desks, filing systems, and computer-based information retrieval systems can be thought of abstractly as just means for changing the cost structure of information.
 
-Figure 1
-
-An Office Organized to Have an Efficient Information Cost Structure
+**Figure 1. An Office Organized to Have an Efficient Information Cost Structure**
 
 A significant component of the cost structure of information access is cognitive, the mental effort required to access or use the information. Sometimes the effort is so minimal it is not even noticed. For example, skills like reading are automated and the meanings of words happen with no apparent effort. Other times there is a feeling of friction, what one might characterize as a viscosity of information access. Access can also feel pleasantly frictionless such as when a long web address is suggested as you begin to type it or a directory where you recently saved a file is made available when saving another file. The feeling of friction comes from cognitive effort and if it is beyond some threshold it can feel more like an interruption and a shift to a different task.
 
@@ -94,11 +93,9 @@ Taken back to the specific context of her earlier writing task, she triggers a m
 
 Of course, this idealized scenario glosses over myriad complex research issues. Designing a dynamic personal multiscale information space linked to the complex world of existing information and capturing and representing histories of interaction confront a host of challenging research questions: How is this parallel information space created and linked with existing information? How are multiscale representations of information and activity created? How are they depicted and arrayed in the space? How are histories captured and contexts recognized? What are the nature of the rules and AI agents that provide the dynamic information behaviors and how do they operate in ways sensitive to tasks and contexts? To address these questions and design the human-centered information we envision will require large-scale scientific collaboration.
 
-Figure 2
+**Figure 2. Collaboratory for the Design of Information Work (CDIW) Network of Networks**
 
-Collaboratory for the Design of Information Work (CDIW) Network of Networks
-
-Note. CDIW connects the original Active Information Spaces network to the eNSEMBLE Future of Digital Collaboration, spanning 80 research groups and 30+ universities in France, and the Microsoft Future of Work network that is distributed across research labs in the U.S. and Europe.
+*Note. CDIW connects the original Active Information Spaces network to the eNSEMBLE Future of Digital Collaboration, spanning 80 research groups and 30+ universities in France, and the Microsoft Future of Work network that is distributed across research labs in the U.S. and Europe.*
 
 Collaboratory for Design of Information Work (CDIW)
 
