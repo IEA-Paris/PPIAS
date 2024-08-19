@@ -43,7 +43,7 @@ abstract: "In 1983, Benjamin Libet and colleagues published a paper that
   using the same methods, or indeed alternative methods.  "
 issue: content/issues/paris-ias-ideas.md
 highlight: false
-bibliography: /static/anystyle-6-.bib
+bibliography: /anystyle-6-.bib
 language: English
 ---
 > ## Acknowledgements

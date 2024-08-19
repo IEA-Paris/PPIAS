@@ -35,7 +35,7 @@ authors:
       twitter: ''
       website: ''
       wikipedia: ''
-bibliography: /bibliography/test.bib
+bibliography: false
 category1:
   - color: green
     text: Article
