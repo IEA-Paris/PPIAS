@@ -196,204 +196,100 @@ Libet’s experiment remains important in psychological thinking today, and has 
 
 # References
 
-Aach, N. (1907). Uber Die Willenstatigkeit Und Das Denken. Vandenhoeck & Ruprecht. 
+Aach, N. (1907). *Uber Die Willenstatigkeit Und Das Denken.* Vandenhoeck & Ruprecht. 
 
+Aron, A. R. (2007). The neural basis of inhibition in cognitive control. *The Neuroscientist: A Review Journal Bringing Neurobiology, Neurology and Psychiatry, 13*(3), 214–228. https://doi.org/10.1177/1073858407299288 
 
+Baumeister, R. F., & Tierney, J. (2011). *Willpower: Rediscovering the greatest human strength.* Penguin Press. 
 
-Aron, A. R. (2007). The neural basis of inhibition in cognitive control. The Neuroscientist: A Review Journal Bringing Neurobiology, Neurology and Psychiatry, 13(3), 214–228. https://doi.org/10.1177/1073858407299288 
+Bayne, T., Seth, A. K., Massimini, M., Shepherd, J., Cleeremans, A., Fleming, S. M., Malach, R., Mattingley, J. B., Menon, D. K., Owen, A. M., Peters, M. A. K., Razi, A., & Mudrik, L. (2024). Tests for consciousness in humans and beyond. *Trends in Cognitive Sciences, 28*(5), 454–466. https://doi.org/10.1016/j.tics.2024.01.010 
 
+Berlin, I. (2002). *Two Concepts of Liberty.* Oxford University Press.  
 
+Bogler, C., Grujičić, B., & Haynes, J.-D. (2023). Clarifying the nature of stochastic fluctuations and accumulation processes in spontaneous movements. *Frontiers in Psychology, 14*, 1271180. https://doi.org/10.3389/fpsyg.2023.1271180 
 
-Baumeister, R. F., & Tierney, J. (2011). Willpower: Rediscovering the greatest human strength. Penguin Press. 
+Boring, E. G. (1950). *A history of experimental psychology,* 2nd ed. Appleton-Century-Crofts. 
 
+Bogler, C., Grujičić, B., & Haynes, J.-D. (2023). Clarifying the nature of stochastic fluctuations and accumulation processes in spontaneous movements. *Frontiers in Psychology, 14,* 1271180. https://doi.org/10.3389/fpsyg.2023.1271180 
 
+Breitmeyer, B. G. (1985). Problems with the psychophysics of intention. *Behavioral and Brain Sciences, 8*(4), 539–540. https://doi.org/10.1017/S0140525X00044915 
 
-Bayne, T., Seth, A. K., Massimini, M., Shepherd, J., Cleeremans, A., Fleming, S. M., Malach, R., Mattingley, J. B., Menon, D. K., Owen, A. M., Peters, M. A. K., Razi, A., & Mudrik, L. (2024). Tests for consciousness in humans and beyond. Trends in Cognitive Sciences, 28(5), 454–466. https://doi.org/10.1016/j.tics.2024.01.010 
+Dennett, D. C. (1991). *Consciousness explained.* Little, Brown and Co. 
 
+Dirnberger, G., Lang, W., & Lindinger, G. (2008). A new method to determine temporal variability in the period of pre-movement electroencephalographic activity. *International Journal of Psychophysiology: Official Journal of the International Organization of Psychophysiology, 70*(3), 165–170. https://doi.org/10.1016/j.ijpsycho.2008.08.006 
 
+Dominik, T., Mele, A., Schurger, A., & Maoz, U. (2024). Libet’s legacy: A primer to the neuroscience of volition. *Neuroscience & Biobehavioral Reviews, 157,* 105503. https://doi.org/10.1016/j.neubiorev.2023.105503 
 
-Berlin, I. (2002). Two Concepts of Liberty. Oxford University Press.  
+Fahrenberg, J. (2019). *Wilhelm Wundt (1832—1920). Introduction, Quotations, Reception, Commentaries, Attempts at Reconstruction.* PsychArchives. https://psycharchives.org/en/item/3af463ec-e142-4a92-ab79-420f97e9ffd2 
 
+Frith, C. D., & Done, D. J. (1986). Routes to action in reaction time tasks. *Psychological Research, 48*(3), 169–177. https://doi.org/10.1007/BF00309165 
 
+Hilgard, E. R. (1980). The trilogy of mind: Cognition, affection, and conation. Journal of the History of the *Behavioral Sciences, 16*(2), 107–117. https://doi.org/10.1002/1520-6696(198004)16:2<107::AID-JHBS2300160202>3.0.CO;2-Y 
 
-Bogler, C., Grujičić, B., & Haynes, J.-D. (2023). Clarifying the nature of stochastic fluctuations and accumulation processes in spontaneous movements. Frontiers in Psychology, 14, 1271180. https://doi.org/10.3389/fpsyg.2023.1271180 
+Hosseini, M., Zivony, A., Eimer, M., Wyble, B., & Bowman, H. (2024). Transient Attention Gates Access Consciousness: Coupling N2pc and P3 Latencies Using Dynamic Time Warping. *Journal of Neuroscience, 44*(26). https://doi.org/10.1523/JNEUROSCI.1798-23.2024 
 
+Kant, I. (1790/2005). *Critique of judgement* (J.H. Bernard, Trans.). Barnes and Noble books. https://doi.org/10.1017/CBO9780511804656 
 
+Khalighinejad, N., Schurger, A., Desantis, A., Zmigrod, L., & Haggard, P. (2018). Precursor processes of human self-initiated action. *NeuroImage, 165*, 35–47. https://doi.org/10.1016/j.neuroimage.2017.09.057 
 
-Boring, E. G. (1950). A history of experimental psychology, 2nd ed. Appleton-Century-Crofts. 
+Kornhuber, H. H., & Deecke, L. (1965). Changes in the brain potential in voluntary movements and passive movements in man: Readiness potential and reafferent potentials. *Pflugers Archiv Fur Die Gesamte Physiologie Des Menschen Und Der Tiere, 284,* 1–17. 
 
+Laureys, S., & Schiff, N. D. (2012). Coma and consciousness: Paradigms (re)framed by neuroimaging. *NeuroImage, 61*(2), 478–491. https://doi.org/10.1016/j.neuroimage.2011.12.041 
 
+Libet, B. (1985). Unconscious cerebral initiative and the role of conscious will in voluntary action. *Behavioral and Brain Sciences, 8*(4), 529–539. https://doi.org/10.1017/S0140525X00044903 
 
-Bogler, C., Grujičić, B., & Haynes, J.-D. (2023). Clarifying the nature of stochastic fluctuations and accumulation processes in spontaneous movements. Frontiers in Psychology, 14, 1271180. https://doi.org/10.3389/fpsyg.2023.1271180 
+Libet, B. (2004). *Mind Time: The Temporal Factor in Consciousness* (Vol. 19). Harvard University Press. https://doi.org/10.1027/0269-8803.19.3.232 
 
+Libet, B., Gleason, C. A., Wright, E. W., & Pearl, D. K (1983). Time of Conscious Intention to act in relation to onset of cerebral activity (readiness potential): the unconscious initiation of a freely voluntary act. *Brain, 106*(3), 623–642. https://doi.org/10.1093/brain/106.3.623 
 
+Libet, B., Wright, E.W. Jr, Feinstein, B. & Pearl D.K. (1979). Subjective referral of the timing for a conscious sensory experience: a functional role for the somatosensory specific projection system in man. *Brain, 102*(1),193–224. https://doi.org/10.1093/brain/102.1.193 
 
-Breitmeyer, B. G. (1985). Problems with the psychophysics of intention. Behavioral and Brain Sciences, 8(4), 539–540. https://doi.org/10.1017/S0140525X00044915 
+Logan, G. D. (2015). The Point of No Return. *Quarterly Journal of Experimental Psychology, 68*(5), 833–857. https://doi.org/10.1080/17470218.2015.1008020 
 
+Makovski, T., Hommel, B., & Humphreys, G. (2014). Early and late selection: Effects of load, dilution and salience. *Frontiers in Psychology, 5.* https://doi.org/10.3389/fpsyg.2014.00248 
 
+Mashour, G. A., Roelfsema, P., Changeux, J.-P., & Dehaene, S. (2020). Conscious Processing and the Global Neuronal Workspace Hypothesis. *Neuron, 105*(5), 776–798. https://doi.org/10.1016/j.neuron.2020.01.026 
 
-Dennett, D. C. (1991). Consciousness explained. Little, Brown and Co. 
+Matsuhashi, M., & Hallett, M. (2008). The timing of the conscious intention to move. *The European Journal of Neuroscience, 28*(11), 2344–2351. https://doi.org/10.1111/j.1460-9568.2008.06525.x 
 
+Michotte, A. & Prüm, E. (1910). *Étude expérimentale sur le choix volontaire et ses antécedents immédiats.* Revue Philosophique de la France Et de l’Etranger. 
 
+Mischel, W., & Ebbesen, E. B. (1970). Attention in delay of gratification. Journal of Personality and Social *Psychology, 16*(2), 329–337. https://doi.org/10.1037/h0029815 
 
-Dirnberger, G., Lang, W., & Lindinger, G. (2008). A new method to determine temporal variability in the period of pre-movement electroencephalographic activity. International Journal of Psychophysiology: Official Journal of the International Organization of Psychophysiology, 70(3), 165–170. https://doi.org/10.1016/j.ijpsycho.2008.08.006 
+Monsell, S. (2003). Task switching. *Trends in Cognitive Sciences, 7*(3), 134–140. https://doi.org/10.1016/s1364-6613(03)00028-7 
 
+Morton, J., Marcus, S., & Frankish, C. (1976). Perceptual centers (P-centers). *Psychological Review, 83*(5), 405–408. https://doi.org/10.1037/0033-295X.83.5.405 
 
+Parés-Pujolràs, E., Kim, Y.-W., Im, C.-H., & Haggard, P. (2019). Latent awareness: Early conscious access to motor preparation processes is linked to the readiness potential. *NeuroImage, 202*, 116140. https://doi.org/10.1016/j.neuroimage.2019.116140 
 
-Dominik, T., Mele, A., Schurger, A., & Maoz, U. (2024). Libet’s legacy: A primer to the neuroscience of volition. Neuroscience & Biobehavioral Reviews, 157, 105503. https://doi.org/10.1016/j.neubiorev.2023.105503 
+Parés-Pujolràs, E., Matić, K., & Haggard, P. (2023). Feeling ready: Neural bases of prospective motor readiness judgements. *Neuroscience of Consciousness, 2023*(1), niad003. https://doi.org/10.1093/nc/niad003 
 
+Passingham, R. E., Bengtsson, S. L., & Lau, H. C. (2010). Medial frontal cortex: From self-generated action to reflection on one’s own performance. *Trends in Cognitive Sciences, 14*(1), 16–21. https://doi.org/10.1016/j.tics.2009.11.001 
 
+Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences of the United States of America, 109*(42), E2904-2913. https://doi.org/10.1073/pnas.1210467109 
 
-Fahrenberg, J. (2019). Wilhelm Wundt (1832—1920). Introduction, Quotations, Reception, Commentaries, Attempts at Reconstruction. PsychArchives. https://psycharchives.org/en/item/3af463ec-e142-4a92-ab79-420f97e9ffd2 
+Seghezzi, S., & Haggard, P. (2023). *Volition and “free will”. In The Sage Handbook of Cognitive and Systems Neuroscience.* SAGE Publications Ltd.  
 
+Sherrington, C. S. (1906). *The integrative action of the nervous system.* Yale University Press. https://doi.org/10.1037/13798-000 
 
+Shibasaki, H., & Hallett, M. (2006). What is the Bereitschaftspotential? *Clinical Neurophysiology, 117*(11), 2341–2356. https://doi.org/10.1016/j.clinph.2006.04.025 
 
-Frith, C. D., & Done, D. J. (1986). Routes to action in reaction time tasks. Psychological Research, 48(3), 169–177. https://doi.org/10.1007/BF00309165 
+Soon, C. S., Brass, M., Heinze, H.-J., & Haynes, J.-D. (2008). Unconscious determinants of free decisions in the human brain. *Nature Neuroscience, 11*(5), 543–545. https://doi.org/10.1038/nn.2112 
 
+Spence, C., & Parise, C. (2010). Prior-entry: A review. *Consciousness and Cognition, 19*(1), 364–379. https://doi.org/10.1016/j.concog.2009.12.001 
 
+Titchener, E. B. (1908). *Lectures on the elementary psychology of feeling and attention.* The Macmillan Company. 
 
-Hilgard, E. R. (1980). The trilogy of mind: Cognition, affection, and conation. Journal of the History of the Behavioral Sciences, 16(2), 107–117. https://doi.org/10.1002/1520-6696(198004)16:2<107::AID-JHBS2300160202>3.0.CO;2-Y 
+Tononi, G., Albantakis, L., Boly, M., Cirelli, C., & Koch, C. (2023). *Only what exists can cause: An intrinsic view of free will* (arXiv:2206.02069). arXiv. https://doi.org/10.48550/arXiv.2206.02069 
 
+Travers, E., Khalighinejad, N., Schurger, A., & Haggard, P. (2020). Do readiness potentials happen all the time? *NeuroImage, 206,* 116286. https://doi.org/10.1016/j.neuroimage.2019.116286 
 
+Ullmann-Margalit, E., & Morgenbesser, S. (1977). Picking and Choosing. *Social Research, 44*(4), 757–785. 
 
-Hosseini, M., Zivony, A., Eimer, M., Wyble, B., & Bowman, H. (2024). Transient Attention Gates Access Consciousness: Coupling N2pc and P3 Latencies Using Dynamic Time Warping. Journal of Neuroscience, 44(26). https://doi.org/10.1523/JNEUROSCI.1798-23.2024 
+Vohs, K. D., Schmeichel, B. J., Lohmann, S., Gronau, Q. F., Finley, A. J., Ainsworth, S. E., Alquist, J. L., Baker, M. D., Brizi, A., Bunyi, A., Butschek, G. J., Campbell, C., Capaldi, J., Cau, C., Chambers, H., Chatzisarantis, N. L. D., Christensen, W. J., Clay, S. L., Curtis, J., … Albarracín, D. (2021). A Multisite Preregistered Paradigmatic Test of the Ego-Depletion Effect. *Psychological Science, 32*(10), 1566–1581. https://doi.org/10.1177/0956797621989733  
 
+Ward, J. (Ed.). (1886). *Psychology.*  Entry in Encyclopedia Britannica (Vol. 20). Encyclopaedia Britannica, Incorporated. 
 
+Wegner, D. M. (2002). *The illusion of conscious will.* MIT Press. https://doi.org/10.7551/mitpress/3650.001.0001 
 
- 
-
-
-
-Kant, I. (1790/2005). Critique of judgement (J.H. Bernard, Trans.). Barnes and Noble books. https://doi.org/10.1017/CBO9780511804656 
-
-
-
- 
-
-
-
-Khalighinejad, N., Schurger, A., Desantis, A., Zmigrod, L., & Haggard, P. (2018). Precursor processes of human self-initiated action. NeuroImage, 165, 35–47. https://doi.org/10.1016/j.neuroimage.2017.09.057 
-
-
-
-Kornhuber, H. H., & Deecke, L. (1965). Changes in the brain potential in voluntary movements and passive movements in man: Readiness potential and reafferent potentials. Pflugers Archiv Fur Die Gesamte Physiologie Des Menschen Und Der Tiere, 284, 1–17. 
-
-
-
-Laureys, S., & Schiff, N. D. (2012). Coma and consciousness: Paradigms (re)framed by neuroimaging. NeuroImage, 61(2), 478–491. https://doi.org/10.1016/j.neuroimage.2011.12.041 
-
-
-
-Libet, B. (1985). Unconscious cerebral initiative and the role of conscious will in voluntary action. Behavioral and Brain Sciences, 8(4), 529–539. https://doi.org/10.1017/S0140525X00044903 
-
-
-
-Libet, B. (2004). Mind Time: The Temporal Factor in Consciousness (Vol. 19). Harvard University Press. https://doi.org/10.1027/0269-8803.19.3.232 
-
-
-
-Libet, B., Gleason, C. A., Wright, E. W., & Pearl, D. K (1983). Time of Conscious Intention to act in relation to onset of cerebral activity (readiness potential): the unconscious initiation of a freely voluntary act. Brain, 106(3), 623–642. https://doi.org/10.1093/brain/106.3.623 
-
-
-
-Libet, B., Wright, E.W. Jr, Feinstein, B. & Pearl D.K. (1979). Subjective referral of the timing for a conscious sensory experience: a functional role for the somatosensory specific projection system in man. Brain, 102(1),193–224. https://doi.org/10.1093/brain/102.1.193 
-
-
-
-Logan, G. D. (2015). The Point of No Return. Quarterly Journal of Experimental Psychology, 68(5), 833–857. https://doi.org/10.1080/17470218.2015.1008020 
-
-
-
-Makovski, T., Hommel, B., & Humphreys, G. (2014). Early and late selection: Effects of load, dilution and salience. Frontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.00248 
-
-
-
-Mashour, G. A., Roelfsema, P., Changeux, J.-P., & Dehaene, S. (2020). Conscious Processing and the Global Neuronal Workspace Hypothesis. Neuron, 105(5), 776–798. https://doi.org/10.1016/j.neuron.2020.01.026 
-
-
-
-Matsuhashi, M., & Hallett, M. (2008). The timing of the conscious intention to move. The European Journal of Neuroscience, 28(11), 2344–2351. https://doi.org/10.1111/j.1460-9568.2008.06525.x 
-
-
-
-Michotte, A. & Prüm, E. (1910). Étude expérimentale sur le choix volontaire et ses antécedents immédiats. Revue Philosophique de la France Et de l’Etranger. 
-
-
-
-Mischel, W., & Ebbesen, E. B. (1970). Attention in delay of gratification. Journal of Personality and Social Psychology, 16(2), 329–337. https://doi.org/10.1037/h0029815 
-
-
-
-Monsell, S. (2003). Task switching. Trends in Cognitive Sciences, 7(3), 134–140. https://doi.org/10.1016/s1364-6613(03)00028-7 
-
-
-
-Morton, J., Marcus, S., & Frankish, C. (1976). Perceptual centers (P-centers). Psychological Review, 83(5), 405–408. https://doi.org/10.1037/0033-295X.83.5.405 
-
-
-
-Parés-Pujolràs, E., Kim, Y.-W., Im, C.-H., & Haggard, P. (2019). Latent awareness: Early conscious access to motor preparation processes is linked to the readiness potential. NeuroImage, 202, 116140. https://doi.org/10.1016/j.neuroimage.2019.116140 
-
-
-
-Parés-Pujolràs, E., Matić, K., & Haggard, P. (2023). Feeling ready: Neural bases of prospective motor readiness judgements. Neuroscience of Consciousness, 2023(1), niad003. https://doi.org/10.1093/nc/niad003 
-
-
-
-Passingham, R. E., Bengtsson, S. L., & Lau, H. C. (2010). Medial frontal cortex: From self-generated action to reflection on one’s own performance. Trends in Cognitive Sciences, 14(1), 16–21. https://doi.org/10.1016/j.tics.2009.11.001 
-
-
-
-Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. Proceedings of the National Academy of Sciences of the United States of America, 109(42), E2904-2913. https://doi.org/10.1073/pnas.1210467109 
-
-
-
-Seghezzi, S., & Haggard, P. (2023). Volition and “free will”. In The Sage Handbook of Cognitive and Systems Neuroscience. SAGE Publications Ltd.  
-
-
-
-Sherrington, C. S. (1906). The integrative action of the nervous system. Yale University Press. https://doi.org/10.1037/13798-000 
-
-
-
-Shibasaki, H., & Hallett, M. (2006). What is the Bereitschaftspotential? Clinical Neurophysiology, 117(11), 2341–2356. https://doi.org/10.1016/j.clinph.2006.04.025 
-
-
-
-Soon, C. S., Brass, M., Heinze, H.-J., & Haynes, J.-D. (2008). Unconscious determinants of free decisions in the human brain. Nature Neuroscience, 11(5), 543–545. https://doi.org/10.1038/nn.2112 
-
-
-
-Spence, C., & Parise, C. (2010). Prior-entry: A review. Consciousness and Cognition, 19(1), 364–379. https://doi.org/10.1016/j.concog.2009.12.001 
-
-
-
-Titchener, E. B. (1908). Lectures on the elementary psychology of feeling and attention. The Macmillan Company. 
-
-
-
-Tononi, G., Albantakis, L., Boly, M., Cirelli, C., & Koch, C. (2023). Only what exists can cause: An intrinsic view of free will (arXiv:2206.02069). arXiv. https://doi.org/10.48550/arXiv.2206.02069 
-
-
-
-Travers, E., Khalighinejad, N., Schurger, A., & Haggard, P. (2020). Do readiness potentials happen all the time? NeuroImage, 206, 116286. https://doi.org/10.1016/j.neuroimage.2019.116286 
-
-
-
-Ullmann-Margalit, E., & Morgenbesser, S. (1977). Picking and Choosing. Social Research, 44(4), 757–785. 
-
-
-
-Vohs, K. D., Schmeichel, B. J., Lohmann, S., Gronau, Q. F., Finley, A. J., Ainsworth, S. E., Alquist, J. L., Baker, M. D., Brizi, A., Bunyi, A., Butschek, G. J., Campbell, C., Capaldi, J., Cau, C., Chambers, H., Chatzisarantis, N. L. D., Christensen, W. J., Clay, S. L., Curtis, J., … Albarracín, D. (2021). A Multisite Preregistered Paradigmatic Test of the Ego-Depletion Effect. Psychological Science, 32(10), 1566–1581. https://doi.org/10.1177/0956797621989733  
-
-
-
-Ward, J. (Ed.). (1886). Psychology.  Entry in Encyclopedia Britannica (Vol. 20). Encyclopaedia Britannica, Incorporated. 
-
-
-
-Wegner, D. M. (2002). The illusion of conscious will. MIT Press. https://doi.org/10.7551/mitpress/3650.001.0001 
-
-
-
-Wontorra, H., Lorenz, G., & Merkel, J. (2011). Early Apparatus-based Experimental Psychology, Primarily at Wilhelm Wundt’s Leipzig Institute.. Retrieved July 30, 2024, from https://www.semanticscholar.org/paper/EARLY-APPARATUS-BASED-EXPERIMENTAL-PSYCHOLOGY%2C-AT-Wontorra-Lorenz/6bb8adba42eef1aecc7f3a9815067dd217ce0df1
+Wontorra, H., Lorenz, G., & Merkel, J. (2011). Early Apparatus-based Experimental Psychology, Primarily at Wilhelm Wundt’s Leipzig Institute. Retrieved July 30, 2024, from https://www.semanticscholar.org/paper/EARLY-APPARATUS-BASED-EXPERIMENTAL-PSYCHOLOGY%2C-AT-Wontorra-Lorenz/6bb8adba42eef1aecc7f3a9815067dd217ce0df1
