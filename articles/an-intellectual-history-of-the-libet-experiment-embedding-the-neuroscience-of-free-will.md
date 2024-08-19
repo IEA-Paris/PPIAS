@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "An intellectual history of the “Libet experiment”: embedding the
   neuroscience of free will"
 date: 2024-08-19T09:32:00.000Z
