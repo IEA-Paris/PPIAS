@@ -39,6 +39,8 @@ language: English
 >
 > This paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program.
 
+
+
 Barbara Tversky in her delightful and informative book, Mind in Motion (Tversky, 2019), tells us that when thought overruns the mind we put it in the world. We jot thoughts on pieces of paper, whiteboards, and post-it notes. We type them into laptops and phones, highlight them in books and articles by underlining or making margin notations, and surprisingly often send them in emails to ourselves. Even if captured, we face the problem of finding them when needed. Physical media can only be in one place and often that is not where we are. If we store them in the cloud we need network access and they are often still difficult to locate. Is it in Dropbox or Google Drive, on the computer in the office or the one at home, and what was the file's name and where in the filesystem hierarchy was it placed?
 
 Of course today we have powerful search facilities but we still confront creating a query and even if it is successful it too often returns more than we want and much that is unrelated. Unfortunately, it will not bring back the context of previous use---the web of applications, notes, emails, slack conversations, etc.---associated with our activity with the searched-for item.
