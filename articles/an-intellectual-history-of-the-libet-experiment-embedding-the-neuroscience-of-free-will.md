@@ -5,7 +5,22 @@ article_title: "An intellectual history of the “Libet experiment”: embedding
 date: 2024-08-19T09:32:00.000Z
 type: article
 needDOI: false
-authors: []
+authors:
+  - is_institution: false
+    firstname: Patrick
+    lastname: Haggard
+    positions_and_institutions:
+      - institution: "Institute of Cognitive Neuroscience, University College London "
+        positions: []
+    social_channels:
+      website: ""
+      wikipedia: ""
+      orcid: ""
+      linkedin: ""
+      webstwitterite: ""
+      google_scholar: ""
+      researchgate: ""
+      mendeley: ""
 abstract: "In 1983, Benjamin Libet and colleagues published a paper that
   profoundly changed psychological, philosophical and neuroscientific
   discussions about free will. Briefly, Libet showed that the subjective
