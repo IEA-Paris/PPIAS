@@ -1,51 +1,59 @@
 ---
-published: true
-article_title: "An intellectual history of the “Libet experiment”: embedding the
-  neuroscience of free will"
-date: 2024-08-19T09:32:00.000Z
-type: article
-needDOI: true
+DOI: 10.5281/zenodo.13341982
+Zid: 13341982
+abstract: >-
+  In 1983, Benjamin Libet and colleagues published a paper that profoundly
+  changed psychological, philosophical and neuroscientific discussions about
+  free will. Briefly, Libet showed that the subjective experience of conscious
+  intention followed the readiness potential (a key neural marker preceding
+  voluntary action), rather than preceding it, as an intuitive dualism might
+  imagine.  The experiment itself has been much debated, and often criticized,
+  but its positioning and context within the general history of mind sciences
+  has been neglected.  This paper takes a history of ideas approach, and shows
+  that the Libet experiment represents the convergence of two distinctively 19th
+  century traditions: a philosophical interest in volition and conation, and a
+  physiological tradition of measuring timing delays. A discussion of the
+  afterlife of Libet’s result identifies a number of crucial methodological
+  controversies and concerns, to which Libet’s arguments from temporal
+  precedence may be particularly vulnerable.  Experimental methods for studying
+  volition are inevitably constrained by the fact that, by definition, the input
+  signals for voluntary action are under the control of the participant, and
+  not, as is usual, under the control of the experimenter.  Understanding the
+  broader embedding of the experiment within the scientific study of volition
+  may be useful for guiding future research using the same methods, or indeed
+  alternative methods.  
+article_title: >-
+  An intellectual history of the “Libet experiment”: embedding the neuroscience
+  of free will
 authors:
-  - is_institution: false
-    firstname: Patrick
+  - firstname: Patrick
+    is_institution: false
     lastname: Haggard
     positions_and_institutions:
-      - institution: "Institute of Cognitive Neuroscience, University College London "
+      - institution: 'Institute of Cognitive Neuroscience, University College London '
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: "In 1983, Benjamin Libet and colleagues published a paper that
-  profoundly changed psychological, philosophical and neuroscientific
-  discussions about free will. Briefly, Libet showed that the subjective
-  experience of conscious intention followed the readiness potential (a key
-  neural marker preceding voluntary action), rather than preceding it, as an
-  intuitive dualism might imagine.  The experiment itself has been much debated,
-  and often criticized, but its positioning and context within the general
-  history of mind sciences has been neglected.  This paper takes a history of
-  ideas approach, and shows that the Libet experiment represents the convergence
-  of two distinctively 19th century traditions: a philosophical interest in
-  volition and conation, and a physiological tradition of measuring timing
-  delays. A discussion of the afterlife of Libet’s result identifies a number of
-  crucial methodological controversies and concerns, to which Libet’s arguments
-  from temporal precedence may be particularly vulnerable.  Experimental methods
-  for studying volition are inevitably constrained by the fact that, by
-  definition, the input signals for voluntary action are under the control of
-  the participant, and not, as is usual, under the control of the
-  experimenter.  Understanding the broader embedding of the experiment within
-  the scientific study of volition may be useful for guiding future research
-  using the same methods, or indeed alternative methods.  "
-issue: content/issues/paris-ias-ideas.md
-highlight: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /anystyle-6-.bib
+date: 2024-08-19T09:32:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/cc88668a-a8d1-450c-b84d-2946399ccc9b
+needDOI: true
+published: true
+type: article
+
 ---
+
 > ## Acknowledgements
 >
 > Many people have helped with this research.  The idea for the paper is a direct result of a series of lunch meetings with Michael Pauen, 2022-2024.  I would also like to thank Silvia Seghezzi and Chris Frith for multiple discussions of these ideas over previously years.  Tim Bayne and Liad Mudrik strongly influenced the discussion of the relation between volition and modern neuroscience of consciousness.  Daniel Dennett and Wolf Singer both generously took time to discuss with me how Libet’s work was originally received. Interactions with Aaron Schurger, Uri Maoz, Tomas Dominik, Alfred Mele and many others have all been invaluable in guiding my thinking about the topic.  I am grateful to Tavishi Bhalotia for careful proof-reading and manuscript assistance.
