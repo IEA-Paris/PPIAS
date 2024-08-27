@@ -97,13 +97,4 @@ yt: 6f5wjTDM3pw
 
 ---
 
-
-
-
-
-
-
-
-
-
-<Youtube yt="6f5wjTDM3pw" caption ="Colloque "Avatar" : Table ronde session 3"></Youtube>
+<Youtube yt="6f5wjTDM3pw" caption ="Colloque 'Avatar' : Table ronde session 3"></Youtube>

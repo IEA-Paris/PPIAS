@@ -21,9 +21,16 @@ positions_and_institutions:
     positions: []
 social_channels:
   google_scholar: https://scholar.google.it/citations?user=fa43KcgAAAAJ&hl=it
+  linkedin: ''
+  mendeley: ''
+  orcid: ''
   researchgate: https://www.researchgate.net/profile/Andrea-Pinotti
+  website: ''
+  webstwitterite: ''
+  wikipedia: ''
 years:
   - 2018
   - 2023
+  - 2024
 
 ---
