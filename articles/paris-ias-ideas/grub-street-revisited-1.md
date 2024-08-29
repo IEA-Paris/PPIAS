@@ -1,10 +1,6 @@
 ---
 published: true
-<<<<<<< HEAD:articles/grub-street-revisited-1.md
-article_title: "Grub Street Revisited"
-=======
 article_title: "Grub Street Revisited "
->>>>>>> d0c58caa20e5c76bc22fc6e5b817090c06f5812f:articles/paris-ias-ideas/grub-street-revisited-1.md
 date: 2024-07-03T15:14:00.000Z
 type: proceedings
 needDOI: false
