@@ -4,7 +4,22 @@ article_title: "Grub Street Revisited "
 date: 2024-07-03T15:14:00.000Z
 type: proceedings
 needDOI: false
-authors: []
+authors: 
+  - is_institution: false
+    firstname: Robert
+    lastname: Darnton
+    positions_and_institutions:
+      - institution: Harvard University
+        positions: ['Professor']
+    social_channels:
+      website: ""
+      wikipedia: ""
+      orcid: ""
+      linkedin: ""
+      webstwitterite: ""
+      google_scholar: ""
+      researchgate: ""
+      mendeley: ""
 abstract: This essay traces the origin and polemics connected with Robert
   Darnton’s thesis about the importance of Grub Street and hack writers under
   the Ancien Régime and during the French Revolution.  As an exercise in
