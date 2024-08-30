@@ -1,47 +1,55 @@
 ---
-published: true
-article_title: "Moving the Elephant: City action and strategy to transform
-  Avenida Séptima into Bogota's first Green Corridor. "
-date: 2023-09-08T06:53:38.310Z
-type: article
-needDOI: false
-authors:
-  - is_institution: false
-    firstname: Juan Pablo
-    lastname: Caicedo
-    positions_and_institutions:
-      - institution: PARIS IAS
-        positions:
-          - Fellow
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: "This paper explores the multifaceted challenges faced by Bogotá in
-  its efforts to transform Avenida Séptima. Situated at the heart of the city,
-  this essential corridor has long struggled with congestion, but transand
-  opposition from various stakeholders. Previous administrations' ambitious
-  projects for the corridor faced relentless resistance. In response, Claudia
-  López's administration introduced an innovative approach to engage the
-  community, prioritize sustainability, and foster consensus. The paper delves
-  into class-based tensions, participation issues, and government capacity,
+DOI: 10.5281/zenodo.13588602
+Zid: 13588602
+abstract: >-
+  This paper explores the multifaceted challenges faced by Bogotá in its efforts
+  to transform Avenida Séptima. Situated at the heart of the city, this
+  essential corridor has long struggled with congestion, but transand opposition
+  from various stakeholders. Previous administrations' ambitious projects for
+  the corridor faced relentless resistance. In response, Claudia López's
+  administration introduced an innovative approach to engage the community,
+  prioritize sustainability, and foster consensus. The paper delves into
+  class-based tensions, participation issues, and government capacity,
   highlighting the deliberate, comprehensive approach adopted by Bogotá. It
   underscores the importance of stakeholder engagement, effective communication,
   and negotiations as tools to mitigate opposition, offering valuable insights
   into the complexities of urban governance and the delicate balance between
   public interest and stakeholder demands. The Bogotá case serves as a testament
   to the potential for a more collaborative and productive approach to urban
-  development amid increasing scrutiny and opposition. "
-issue: content/issues/paris-ias-ideas.md
-highlight: false
+  development amid increasing scrutiny and opposition. 
+article_title: >-
+  Moving the Elephant: City action and strategy to transform Avenida Séptima
+  into Bogota's first Green Corridor. 
+authors:
+  - firstname: Juan Pablo
+    is_institution: false
+    lastname: Caicedo
+    positions_and_institutions:
+      - institution: PARIS IAS
+        positions:
+          - Fellow
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: null
+date: 2023-09-08T06:53:38.310Z
+highlight: false
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/6120dffb-369e-45c0-95b6-befaaf8934b3
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## Introduction
 
 In the heart of Bogotá, where economic activity thrives in the shadow of the city's mountainous backdrop, one of its main vessels is soon to be collapsed. Avenidas Caracas and Séptima represent the epicenter of commuting activity in eastern Bogotá; while the first is in process of hosting the first heavy rail metro line for the city, the latter struggles in providing better infrastructure, as it is a political challenge that seems insurmountable. 

@@ -1,50 +1,57 @@
 ---
-published: true
-article_title: "Cyber-Theo: Reflections on the theological roots of contemporary
-  digital technologies"
-date: 2024-07-04T10:47:00.000Z
-type: proceedings
-needDOI: false
+DOI: 10.5281/zenodo.13588596
+Zid: 13588596
+abstract: >-
+  Digital technologies that permeate our everyday lives are primarily introduced
+  to us as "new." The advancements in Artificial Intelligence, Virtual Reality,
+  and Augmented Reality open fresh avenues of human experience. However, the
+  promises of digital technologies, the desires we aim to satisfy through them,
+  the powerful imagery they cultivate, and the narratives surrounding them are
+  far from new. In fact, they are deeply rooted in foundations shaped by
+  religions over millennia, experienced concretely by human communities, and
+  articulated into concepts and dogmas through theological reflection. This
+  article aims to outline a research program to illuminate this intricate and
+  often controversial background, and to understand how concepts and ideas from
+  theological traditions transform throughout contemporary technological
+  evolution, ultimately shaping the discourses and metaphors we use to describe
+  our experiences with new technologies today. Firstly, a methodological
+  introduction will address conceptual pairs such as continuity/discontinuity,
+  disenchantment/re-enchantment, new/archaic. Secondly, key issues such as
+  haptic icons, representation and presence, bilocation, resurrection, divine
+  vision, free will, creation out of nothing, will be examined in the mirror of
+  exemplary case studies selected from the contemporary technoscape.
+article_title: >-
+  Cyber-Theo: Reflections on the theological roots of contemporary digital
+  technologies
 authors:
-  - is_institution: false
-    firstname: Andrea
+  - firstname: Andrea
+    is_institution: false
     lastname: Pinotti
     positions_and_institutions:
       - institution: Università degli Studi di Milano
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: Digital technologies that permeate our everyday lives are primarily
-  introduced to us as "new." The advancements in Artificial Intelligence,
-  Virtual Reality, and Augmented Reality open fresh avenues of human experience.
-  However, the promises of digital technologies, the desires we aim to satisfy
-  through them, the powerful imagery they cultivate, and the narratives
-  surrounding them are far from new. In fact, they are deeply rooted in
-  foundations shaped by religions over millennia, experienced concretely by
-  human communities, and articulated into concepts and dogmas through
-  theological reflection. This article aims to outline a research program to
-  illuminate this intricate and often controversial background, and to
-  understand how concepts and ideas from theological traditions transform
-  throughout contemporary technological evolution, ultimately shaping the
-  discourses and metaphors we use to describe our experiences with new
-  technologies today. Firstly, a methodological introduction will address
-  conceptual pairs such as continuity/discontinuity,
-  disenchantment/re-enchantment, new/archaic. Secondly, key issues such as
-  haptic icons, representation and presence, bilocation, resurrection, divine
-  vision, free will, creation out of nothing, will be examined in the mirror of
-  exemplary case studies selected from the contemporary technoscape.
-issue: content/issues/paris-ias-ideas.md
-highlight: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /anystyle-5-.bib
+date: 2024-07-04T10:47:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/39811f5e-bfb0-4bd1-9c34-b230ff0f3d2b
+needDOI: true
+published: true
+type: proceedings
+
 ---
+
 > Acknowledgements
 >
 > This article was written during a 1-month writing residency in January 2024 at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program*. I am deeply grateful to its Director Saadi Lahlou, its wonderful staff, and the 2023-2024 fellows who shared their critiques and comments with me, generously offering stimulating feedback. This new research track builds on investigations conducted in the framework of the research project "AN-ICON. An-Iconology: History, Theory, and Practices of Environmental Images". The project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No. 834033 AN-ICON), and is hosted by the Department of Philosophy "Piero Martinetti" at the University of Milan (Project "Departments of Excellence 2023-2027" awarded by the Italian Ministry of University and Research).

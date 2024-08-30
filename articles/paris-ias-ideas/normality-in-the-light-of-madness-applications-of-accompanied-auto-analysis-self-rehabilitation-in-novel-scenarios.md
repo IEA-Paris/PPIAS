@@ -1,38 +1,46 @@
 ---
-published: true
-article_title: "Normality in the Light of Madness: Applications of Accompanied
-  Auto-Analysis (Self-Rehabilitation) in Novel Scenarios"
-date: 2024-07-03T15:33:00.000Z
-type: proceedings
-needDOI: false
+DOI: 10.5281/zenodo.13588592
+Zid: 13588592
+abstract: >-
+  The paper describes the concept of psychological death, destruction and
+  decomposition, the technique of Accompanied Auto-analysis and the application
+  of both concepts in novel scenarios. It shows the relationship between
+  lifestyle and psychological life (being) and psychological death, destruction
+  and decomposition (not being). These concepts have been developed based on the
+  more than 42-year experience accompanying people diagnosed with severe
+  psychosis, mainly schizophrenia.
+article_title: >-
+  Normality in the Light of Madness: Applications of Accompanied Auto-Analysis
+  (Self-Rehabilitation) in Novel Scenarios
 authors:
-  - is_institution: false
-    firstname: Alberto
+  - firstname: Alberto
+    is_institution: false
     lastname: Fergusson
     positions_and_institutions:
       - institution: Universidad del Rosario
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: The paper describes the concept of psychological death, destruction
-  and decomposition, the technique of Accompanied Auto-analysis and the
-  application of both concepts in novel scenarios. It shows the relationship
-  between lifestyle and psychological life (being) and psychological death,
-  destruction and decomposition (not being). These concepts have been developed
-  based on the more than 42-year experience accompanying people diagnosed with
-  severe psychosis, mainly schizophrenia.
-issue: content/issues/paris-ias-ideas.md
-highlight: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /anystyle-1-.bib
+date: 2024-07-03T15:33:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/e9c1fb6f-207b-4408-b0a5-221a8964a577
+needDOI: true
+published: true
+type: proceedings
+
 ---
+
 > Acknowledgements
 >
 > This paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program.

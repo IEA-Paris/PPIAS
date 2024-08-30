@@ -1,38 +1,45 @@
 ---
-published: true
-article_title: "Another Destruction of Nature Is  Possible (Part 1): Genesis and
-  Structure of a Theological-Political Concept"
-date: 2024-07-04T11:19:00.000Z
-type: proceedings
-needDOI: false
+DOI: 10.5281/zenodo.13588572
+Zid: 13588572
+abstract: >-
+  The aim this article is to discuss the theological-political aspects of the
+  genesis of the hegemonic concept of nature within a certain Western tradition
+  that has come down to us. The main function of this discussion is to think
+  about the challenges immanent to the critique of the nature/culture dichotomy,
+  as well as trying to clarify aspects of the problem related to the emergence
+  of our hegemonic figure of the subject.
+article_title: >-
+  Another Destruction of Nature Is  Possible (Part 1): Genesis and Structure of
+  a Theological-Political Concept
 authors:
-  - is_institution: false
-    firstname: Vladimir
+  - firstname: Vladimir
+    is_institution: false
     lastname: Safatle
     positions_and_institutions:
       - institution: University of São Paulo
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: The aim this article is to discuss the theological-political aspects
-  of the genesis of the hegemonic concept of nature within a certain Western
-  tradition that has come down to us. The main function of this discussion is to
-  think about the challenges immanent to the critique of the nature/culture
-  dichotomy, as well as trying to clarify aspects of the problem related to the
-  emergence of our hegemonic figure of the subject.
-issue: content/issues/paris-ias-ideas.md
-highlight: false
-language: English
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /anystyleXS.bib
+date: 2024-07-04T11:19:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas.md
+language: English
+links:
+  bucket: https://zenodo.org/api/files/07b26713-2d1e-4f77-9672-d17944e462aa
+needDOI: true
+published: true
+type: proceedings
 
 ---
+
 > Acknowledgements
 >
 > This paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program.

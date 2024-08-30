@@ -1,10 +1,22 @@
 ---
-published: true
+DOI: 10.5281/zenodo.13588574
+Zid: 13588574
+abstract: >-
+  The fourth Intercontinental Academia (ICA4) “Intelligence and artificial
+  intelligence” (2020-2021) identified four thematic priorities for future AI
+  research: (1) developing an ontology of AI systems to assess their agency in
+  performing cognitive and behavioural tasks; (2) addressing the challenges of
+  human-artificial agent interaction (H2AI); (3) clarifying the values used by
+  artificial agents and determine their legal status in society; and (4)
+  regulating artificial intelligent agents (AIAs) with appropriate
+  certifications to safeguard human agency and well-being. These priorities
+  require research programmes and funding schemes that involve scientists with
+  complementary perspectives and methodological approaches (neuroscience,
+  computer science, mathematics, engineering, humanities and social sciences).
 article_title: Collective intelligence is needed to ensure beneficial Artificial Intelligence
-date: 2023-06-14T13:31:55.740Z
-needDOI: false
 authors:
   - firstname: Saadi
+    is_institution: false
     lastname: Lahlou
     positions_and_institutions:
       - institution: Paris Institute for Advanced Study
@@ -14,70 +26,70 @@ authors:
         positions:
           - Professor
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Estevam
+    is_institution: false
     lastname: Las Casas
     positions_and_institutions:
       - institution: Institute for Advanced Study of Belo Horizonte
         positions:
           - Director
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Olivier
+    is_institution: false
     lastname: Bouin
     positions_and_institutions:
       - institution: Foundation-Excellence Laboratory RFIEA
         positions:
           - Director
-      - institution: " EASSH (European Alliance for Social Sciences and Humanities)"
+      - institution: ' EASSH (European Alliance for Social Sciences and Humanities)'
         positions:
           - President-elect of the Governing Board
       - institution: NetIAS
         positions:
           - Secretary-General
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Raouf
+    is_institution: false
     lastname: Boucekkine
     positions_and_institutions:
       - institution: Rennes School of Business
         positions:
           - Professor of economics and finance
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Eliezer
+    is_institution: false
     lastname: Rabinovici
     positions_and_institutions:
       - institution: CERN Council (European Organization for Nuclear Research)
@@ -89,127 +101,129 @@ authors:
         positions:
           - Professor
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Laura
+    is_institution: false
     lastname: Candiotto
     positions_and_institutions:
       - institution: Centre for Ethics of the University of Pardubice, Czech Republic
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Jack
+    is_institution: false
     lastname: Copeland
     positions_and_institutions:
       - institution: University of Canterbury in New Zealand
         positions:
           - Distinguished Professor of Philosophy
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Evandro
+    is_institution: false
     lastname: Cunha
     positions_and_institutions:
       - institution: Faculty of Letters of the Federal University of Minas Gerais (UFMG)
         positions:
           - Professor
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Massimiliano
+    is_institution: false
     lastname: Di Luca
     positions_and_institutions:
       - institution: University of Birmingham School of Psychology
         positions:
           - Senior Lecturer
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Diego
+    is_institution: false
     lastname: Frassinelli
     positions_and_institutions:
       - institution: University of Konstanz
         positions:
-          - Junior Professor (Assistant Professor) in Artificial Intelligence, Department of Linguistics
+          - >-
+            Junior Professor (Assistant Professor) in Artificial Intelligence,
+            Department of Linguistics
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Itzhak
+    is_institution: false
     lastname: Fried
     positions_and_institutions:
       - institution: University of California, Los Angeles (UCLA)
         positions:
           - Department of Neurosurgery
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Andre
+    is_institution: false
     lastname: Fujita
     positions_and_institutions:
-      - institution: "University of São Paulo"
+      - institution: University of São Paulo
         positions:
           - Associate Professor, Department of Computer Science;
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Toshio
+    is_institution: false
     lastname: Fukuda
     positions_and_institutions:
       - institution: Nagoya University
@@ -219,16 +233,16 @@ authors:
         positions:
           - President (2020)
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Jakub
+    is_institution: false
     lastname: Growiec
     positions_and_institutions:
       - institution: Warsaw School of Economics
@@ -238,16 +252,16 @@ authors:
         positions:
           - Head of the department of Quantitative Economics
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Benjamin
+    is_institution: false
     lastname: Guedj
     positions_and_institutions:
       - institution: Inria (France)
@@ -257,16 +271,16 @@ authors:
         positions:
           - Principal Research Fellow
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Suranga
+    is_institution: false
     lastname: Kasturi
     positions_and_institutions:
       - institution: Center for Biomedical Informatics at Regenstrief Institute
@@ -276,16 +290,16 @@ authors:
         positions:
           - Assistant Professor in the Department of Pediatrics
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Phillip
+    is_institution: false
     lastname: Kellmeyer
     positions_and_institutions:
       - institution: University Medical Center Freiburg (UKF)
@@ -295,48 +309,48 @@ authors:
         positions:
           - Research Fellow
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Michael
+    is_institution: false
     lastname: Livermore
     positions_and_institutions:
       - institution: University of Virginia
         positions:
           - Law professor
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Marc
+    is_institution: false
     lastname: Mézard
     positions_and_institutions:
       - institution: École Normale Supérieure (ENS) in Paris
         positions:
           - Director
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Deshen
+    is_institution: false
     lastname: Moodley
     positions_and_institutions:
       - institution: University of Cape Town
@@ -347,215 +361,212 @@ authors:
         positions:
           - Co-Director
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Helga
+    is_institution: false
     lastname: Nowotny
     positions_and_institutions:
       - institution: ETH Zurich
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Zaven
+    is_institution: false
     lastname: Paré
     positions_and_institutions:
       - institution: Universidade Federal de Juiz de Fora (IAD/UFJF)
         positions:
-          - New media artist and expert in robotics; collaborator of the
+          - >-
+            New media artist and expert in robotics; collaborator of the
             Graduate Program in Arts
           - Culture and Languages
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+  - firstname: 'Ary Guilherme '
     is_institution: false
-  - firstname: "Ary Guilherme "
     lastname: Plonski
     positions_and_institutions:
-      - institution: "University of São Paulo"
+      - institution: University of São Paulo
         positions:
           - Professor
       - institution: UBIAS
         positions:
           - Chief coordinator
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Ithai
+    is_institution: false
     lastname: Rabinowitch
     positions_and_institutions:
       - institution: Faculty of Medicine of the Hebrew University of Jerusalem
         positions:
           - Assistant Professor
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Talina
+    is_institution: false
     lastname: Ralitera
     positions_and_institutions:
       - institution: French Alternative Energies and Atomic Energy Commission (CEA)
         positions:
           - Research Engineer
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Martin
+    is_institution: false
     lastname: Rees
     positions_and_institutions:
-      - institution: Centre for the Study of Existential Risk (CSER) at the University
-          of Cambridge
+      - institution: >-
+          Centre for the Study of Existential Risk (CSER) at the University of
+          Cambridge
         positions:
           - Astrophysicist and Cosmologist; co-founder
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Oron
+    is_institution: false
     lastname: Shagrir
     positions_and_institutions:
       - institution: Hebrew University of Jerusalem
         positions:
           - Philosopher; Schulman Chair of Philosophy and Cognitive Science
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Patricia
+    is_institution: false
     lastname: De Soarez
     positions_and_institutions:
-      - institution: "University of São Paulo"
+      - institution: University of São Paulo
         positions:
           - Associate Professor at the Department of Preventive Medicine
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Henry
+    is_institution: false
     lastname: Taylor
     positions_and_institutions:
       - institution: University of Birmingham, UK
         positions:
           - Birmingham Fellow
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Melvin
+    is_institution: false
     lastname: Wevers
     positions_and_institutions:
       - institution: University of Amsterdam
         positions:
           - Assistant Professor in Urban History and Digital Methods
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
   - firstname: Kawanishi
+    is_institution: false
     lastname: Yasutomo
     positions_and_institutions:
-      - institution: "Nagoya University "
+      - institution: 'Nagoya University '
         positions:
           - Visiting Associate Professor
       - institution: RIKEN Guardian Robot Project
         positions:
           - Team Leader in the Multimodal Data Recognition Research Team
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-    is_institution: false
-abstract: "The fourth Intercontinental Academia (ICA4) “Intelligence and
-  artificial intelligence” (2020-2021) identified four thematic priorities for
-  future AI research: (1) developing an ontology of AI systems to assess their
-  agency in performing cognitive and behavioural tasks; (2) addressing the
-  challenges of human-artificial agent interaction (H2AI); (3) clarifying the
-  values used by artificial agents and determine their legal status in society;
-  and (4) regulating artificial intelligent agents (AIAs) with appropriate
-  certifications to safeguard human agency and well-being. These priorities
-  require research programmes and funding schemes that involve scientists with
-  complementary perspectives and methodological approaches (neuroscience,
-  computer science, mathematics, engineering, humanities and social sciences)."
-issue: content/issues/Intercontinental Academia 4.md
-picture: null
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+date: 2023-06-14T13:31:55.740Z
 highlight: false
+issue: content/issues/Intercontinental Academia 4.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/500b9d20-d37f-4868-a446-38a56b03954e
+needDOI: true
+picture: null
+published: true
+
 ---
+
 The fourth Intercontinental Academia (ICA4) “Intelligence and artificial intelligence” convened 40 top scientists to explore the current and future challenges of artificial intelligence[^1]. Over two 10-days in person meetings, one-week online meeting and several specialized working groups that met between June 2020 and November 2021, the pluridisciplinary group discussed the state of the art in natural and artificial intelligence and proposed a future agenda for future AI research and its societal impacts. ICA4 was organised by the international network of University-Based Institutes for Advanced Study (UBIAS), and hosted by the Paris Institute for Advanced Study and the Institute for Transdisciplinary Advanced Study of Belo Horizonte. The ICA4 scientific advances are pursued through various formats, including participation in high-level initiatives such as the Artificial Intelligence Summit (from April 2023 onwards) and several scientific residencies for experienced fellows during the 2023-2024 academic year.
 
 The accelerating pace of innovation in artificial Intelligence (AI) opens many fascinating scientific and practical opportunities. Current AI technologies already show remarkable empirical performance in a growing number of tasks. Expert systems based on Large Language Models, driverless vehicles, AI-assisted justice, communication with and support by Artificial Intelligent Agents (AIAs) in cognitive impairment and dementia bring benefits; they also raise serious societal and ethical issues [^2]. The breadth and adaptability of AI applications are rapidly increasing as these capabilities are combined and become pervasive.

@@ -1,4 +1,6 @@
 ---
+DOI: 10.5281/zenodo.13588594
+Zid: 13588594
 abstract: >-
   Conférence de John Krumm, chercheur en résidence d'écriture, dans le cadre du
   cycle "Paris IAS Ideas"
@@ -11,18 +13,22 @@ authors:
       - institution: Université de Californie du Sud, US
         positions:
           - ''
+bibliography: /krumm.bib
 date: 2023-01-05T11:00:00.000Z
 highlight: false
 issue: content/issues/paris-ias-ideas.md
 language: English
-needDOI: false
+links:
+  bucket: https://zenodo.org/api/files/48c10df4-162e-478c-a517-6258b02e8c86
+needDOI: true
 published: true
 start: false
 stop: false
 subissue: false
 yt: nlwyY_PE7Q4
-bibliography: /krumm.bib
+
 ---
+
 A person may willingly reveal their age, gender, and home city to a third party company. However, this same person may be uncomfortable with the inferences that come from this data, such as their income, political preferences, income, and education level.
 
 Regular people should understand what can be inferred about them from revelations of seemingly innocuous personal data. There is likely a simple, underlying theoretical foundation that makes this clear. For instance, we can look at data to understand how a person’s age can be used to infer their income. This is based on a simple joint probability distribution of age and income. In theory, there is a larger joint distribution, often approximated with a deep neural network, that gives the probabilistic relationship between tens of different, personal variables. Examining a distribution like this will help understand:

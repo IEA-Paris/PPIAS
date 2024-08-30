@@ -1,51 +1,57 @@
 ---
-published: true
+DOI: 10.5281/zenodo.13588582
+Zid: 13588582
+abstract: >-
+  The paper explores the impact of the dazzling performance of Generative AI on
+  the sense of being in control and the Illusion that may come with it. Control
+  of technology as a hallmark of modernity was accompanied by hubris and often
+  the illusion of being in control. Now our anthropomorphic tendencies to
+  attribute human-like features to AI exposes human vulnerability anew. Control
+  of technology cannot be restricted to its mere technical functioning and has
+  successively expanded since industrialization. After first guaranteeing the
+  safety and health of workers, at least in highly developed countries,
+  gradually a ‘safety culture’ emerged. We expect control of technology to
+  include impact on health and safety conditions and the protection of the
+  natural environment. The illusion of control sets in when CEOs of major
+  international corporations deny the necessity to extend control of AI (to
+  foreseeable, and even unforeseeable consequences that it has on cognitive and
+  mental abilities). The paper then retraces the history of outsourcing
+  knowledge operations, from the invention of writing to the printing press and
+  mass media, raising the question of agency and responsibility. It concludes by
+  asking whether our ancestors who believed that they shared an immanent cosmic
+  order with ‘meta-persons’ lived in an illusion and what it might mean when we
+  must learn to live together with the digital Others. 
 article_title: AI and the illusion of control
-date: 2024-07-04T10:29:00.000Z
-type: proceedings
-needDOI: false
 authors:
-  - is_institution: false
-    firstname: Helga
+  - firstname: Helga
+    is_institution: false
     lastname: Nowotny
     positions_and_institutions:
       - institution: European Research Council
         positions:
           - Former President
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: "The paper explores the impact of the dazzling performance of
-  Generative AI on the sense of being in control and the Illusion that may come
-  with it. Control of technology as a hallmark of modernity was accompanied by
-  hubris and often the illusion of being in control. Now our anthropomorphic
-  tendencies to attribute human-like features to AI exposes human vulnerability
-  anew. Control of technology cannot be restricted to its mere technical
-  functioning and has successively expanded since industrialization. After first
-  guaranteeing the safety and health of workers, at least in highly developed
-  countries, gradually a ‘safety culture’ emerged. We expect control of
-  technology to include impact on health and safety conditions and the
-  protection of the natural environment. The illusion of control sets in when
-  CEOs of major international corporations deny the necessity to extend control
-  of AI (to foreseeable, and even unforeseeable consequences that it has on
-  cognitive and mental abilities). The paper then retraces the history of
-  outsourcing knowledge operations, from the invention of writing to the
-  printing press and mass media, raising the question of agency and
-  responsibility. It concludes by asking whether our ancestors who believed that
-  they shared an immanent cosmic order with ‘meta-persons’ lived in an illusion
-  and what it might mean when we must learn to live together with the digital
-  Others. "
-issue: content/issues/paris-ias-ideas.md
-highlight: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /anystyle-3-.bib
+date: 2024-07-04T10:29:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/bd93f59f-4fee-48ac-bd90-3c784d9e828d
+needDOI: true
+published: true
+type: proceedings
+
 ---
+
 > **Acknowledgements**
 >
 > This paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program *. It is a greatly expanded and restructured synthesis. Some of the ideas presented here overlap with ideas in the following publications:
