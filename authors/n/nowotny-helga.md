@@ -6,6 +6,7 @@ articles:
   - >-
     collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
   - ai-and-the-illusion-of-control
+  - netboards
 exerpt: ''
 firstname: Helga
 is_institution: false
@@ -15,6 +16,7 @@ issue:
   - content/issues/WPRN21 Conference.md
   - content/issues/Intercontinental Academia 4.md
   - content/issues/paris-ias-ideas.md
+  - content/issues/paris-ias-projects.md
 language:
   - English
 lastname: Nowotny
@@ -24,6 +26,7 @@ positions_and_institutions:
   - institution: ETH Zurich, Switzerland
     positions:
       - Former President
+      - Chair of the Science Advisory Board & Strategic Advisory Board
   - institution: Swiss Federal Institute of Technology in Zürich (ETH Zurich), Switzerland
     positions: []
 reference: ''

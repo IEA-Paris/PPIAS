@@ -5,6 +5,7 @@ articles:
   - 9-0_WPRN21_Closing Panel
   - >-
     collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
+  - netboards
 exerpt: ''
 firstname: Olivier
 is_institution: false
@@ -13,6 +14,7 @@ issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
   - content/issues/Intercontinental Academia 4.md
+  - content/issues/paris-ias-projects.md
 language:
   - English
 lastname: Bouin
@@ -45,5 +47,6 @@ years:
   - 2022
   - 2021
   - 2023
+  - 2024
 
 ---

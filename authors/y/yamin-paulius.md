@@ -2,11 +2,14 @@
 active: true
 articles:
   - 8-0_WPRN21_Keynote 8
+  - netboards
 exerpt: ''
 firstname: Paulius
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
+  - content/issues/Intercontinental Academia 4.md
+  - content/issues/paris-ias-projects.md
 language:
   - English
 lastname: Yamin
@@ -14,7 +17,8 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: University of Pennsylvania, USA
-    positions: []
+    positions:
+      - Scientific Director
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=zO4EatkAAAAJ&hl=en
@@ -37,5 +41,6 @@ tags:
   - globalization
 years:
   - 2021
+  - 2024
 
 ---
