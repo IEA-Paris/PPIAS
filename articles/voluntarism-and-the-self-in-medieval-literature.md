@@ -492,131 +492,131 @@ Superficially, the Clerk's Tale is not a tragedy at all. It ends, after all, sor
 
 To form a clearer idea of the growing role of the will in later medieval culture it will be helpful to look briefly at how the terms "will" and "*voluntas*" are ordinarily deployed in medieval texts. For a modern reader, the voluntarist association of the will with the self and with moral worth looks perfectly natural. We commonly express judgments about personal agency in terms of our having "free will" or being "weak willed". Our tendency to elevate the role of will in these ways is a mark of the modern influence of voluntarism, but in the Middle Ages this influence had not yet so thoroughly taken hold. Medieval authors writing philosophy in Latin speak ordinarily not of free will (*libera voluntas*) but of free judgment (*liberum arbitrium*) and speak of *incontinentia* rather than weakness of will. Exactly how the will might be involved in these phenomena was an open question, and this was the very territory in dispute between intellectualists and voluntarists.
 
-For both parties to this philosophical dispute, *voluntas* refers uncontroversially to rational appetite, the soul's higher desire for its ultimate good and for whatever means are judged conducive to that good. On this Aristotelian picture, the will is and must be involved in every deliberate human act. Yet, there is a tendency among philosophers, before the fourteenth century, to treat the will as merely one among various aspects of human agency. Where questions of freedom arise, the earlier medieval Latin tradition---most notably, in Augustine and Anselm---focuses its attention on liberum arbitrium, thereby associating freedom with judgment rather than volition. By the later fourteenth century, as a result of the voluntarist movement, the situation has permanently changed. In Chaucer's translation of Boethius, liberum arbitrium becomes will (e.g., at Vpr2). And in Piers Plowman, as we will see, the dreamer just is Will, and when Liberum Arbitrium makes an appearance in the poem (briefly in B.XVI and more extensively in C.XVII and C.XIX) it is as something exterior to Will's own agency: not by any means because freedom is marginal to the poem's interests, but because Liberum Arbitrium has come to embody just another of the institutionalized authorities that come and go throughout the poem.
+For both parties to this philosophical dispute, *voluntas* refers uncontroversially to rational appetite, the soul's higher desire for its ultimate good and for whatever means are judged conducive to that good. On this Aristotelian picture, the will is and must be involved in every deliberate human act. Yet, there is a tendency among philosophers, before the fourteenth century, to treat the will as merely one among various aspects of human agency. Where questions of freedom arise, the earlier medieval Latin tradition-most notably, in Augustine and Anselm-focuses its attention on *liberum arbitrium*, thereby associating freedom with *judgment* rather than *volition*. By the later fourteenth century, as a result of the voluntarist movement, the situation has permanently changed. In Chaucer's translation of Boethius, *liberum arbitrium* becomes will (e.g., at Vpr2). And in *Piers Plowman*, as we will see, the dreamer just is Will, and when Liberum Arbitrium makes an appearance in the poem (briefly in B.XVI and more extensively in C.XVII and C.XIX) it is as something exterior to Will's own agency: not by any means because freedom is marginal to the poem's interests, but because Liberum Arbitrium has come to embody just another of the institutionalized authorities that come and go throughout the poem.
 
-In Middle English texts, the place of the will is often even more marginal than it is within philosophy, lacking any association with rational deliberation. Characteristically, instead, "will" refers to the lower human appetites that work against reason rather than in collaboration with it. We have seen this already in the Clerk's Tale's depiction of Walter's sub-rational lusts. It appears as well in the popular opposition between wit and will, a trope that appears over and over in Middle English literature. In Sawles Warde, for instance, from around the start of the thirteenth century, the allegory gets set out at the very start:
+In Middle English texts, the place of the will is often even more marginal than it is within philosophy, lacking any association with rational deliberation. Characteristically, instead, "will" refers to the lower human appetites that work against reason rather than in collaboration with it. We have seen this already in the Clerk's Tale's depiction of Walter's sub-rational lusts. It appears as well in the popular opposition between wit and will, a trope that appears over and over in Middle English literature. In *Sawles Warde*, for instance, from around the start of the thirteenth century, the allegory gets set out at the very start:
 
-"This hus the ure Lauerd speketh of is seolf the mon. Inwith, the monnes wit i this hus is the huse lauerd, ant te fulitohe wif mei beon wil ihaten, thet, ga the hus efter hire, ha diht hit al to wundre bute Wit ase lauerd chasti hire the betere ant bineome hire muchel of thet ha walde. Ant tah walde al thet hird folhin hire overal yef Wit ne forbude ham, for alle hit beoth untohene ant rechelese hinen bute yef he ham rihte.
+> "This hus the ure Lauerd speketh of is seolf the mon. Inwith, the monnes wit i this hus is the huse lauerd, ant te fulitohe wif mei beon wil ihaten, thet, ga the hus efter hire, ha diht hit al to wundre bute Wit ase lauerd chasti hire the betere ant bineome hire muchel of thet ha walde. Ant tah walde al thet hird folhin hire overal yef Wit ne forbude ham, for alle hit beoth untohene ant rechelese hinen bute yef he ham rihte.
+>
+> \[This house which our Lord speaks of is man himself. Inside, the man's wit in this house is the lord of the house, and the unruly wife can be called Will who, if the house follows her, brings it all to ruin unless Wit as lord restrains her better and takes away from her much of what she wills. And yet still all that household would follow her in everything if Wit did not forbid them, because all are unruly and reckless servants unless he corrects them]" (Huber and Robertson, 2016)[^43].
 
-\[This house which our Lord speaks of is man himself. Inside, the man's wit in this house is the lord of the house, and the unruly wife can be called Will who, if the house follows her, brings it all to ruin unless Wit as lord restrains her better and takes away from her much of what she wills. And yet still all that household would follow her in everything if Wit did not forbid them, because all are unruly and reckless servants unless he corrects them]" (Huber and Robertson, 2016).\[46]
+The terms of the allegory would not necessarily preclude the sort of collaborative relationship between intellect and will that one finds within Aristotelian philosophy, but as marriage is in fact understood here, the relationship is strictly hierarchical. It is Wit who should rule and restrain, and if Will were to get her way, the result would be ruin: "ha diht hit al to wundre." This is not to say that Will plays a subsidiary role in *Sawles Warde*. The wife in many respects lies at the center of the dramatic narrative, and female readers might have been expected to identify particularly with her (Robertson, 1990). Still, Will can scarcely be considered the protagonist, for when the narrative finally resolves itself, the outcome is a one-sided silencing of Will in favor of Wit's authority:
 
-The terms of the allegory would not necessarily preclude the sort of collaborative relationship between intellect and will that one finds within Aristotelian philosophy, but as marriage is in fact understood here, the relationship is strictly hierarchical. It is Wit who should rule and restrain, and if Will were to get her way, the result would be ruin: "ha diht hit al to wundre." This is not to say that Will plays a subsidiary role in Sawles Warde. The wife in many respects lies at the center of the dramatic narrative, and female readers might have been expected to identify particularly with her (Robertson, 1990). Still, Will can scarcely be considered the protagonist, for when the narrative finally resolves itself, the outcome is a one-sided silencing of Will in favor of Wit's authority:
-
-"Nu is Wil thet husewif al stille---thet er wes so willesful---al ituht efter Wittes wissunge, thet is husebonde. Ant al thet hird halt him stille, thet wes iwunet to beon fulitohen ant don efter Wil, hare lefdi, ant nawt efter Wit.
-
-\[Now Will that housewife is entirely silent---who before was so willful---fully guided according to the instruction of Wit, who is husband. And all that household holds itself still, that was accustomed to be unruly and follow Will, their lady, and not Wit" (Robertson, 1990).[47]
+> "Nu is Wil thet husewif al stille-thet er wes so willesful-al ituht efter Wittes wissunge, thet is husebonde. Ant al thet hird halt him stille, thet wes iwunet to beon fulitohen ant don efter Wil, hare lefdi, ant nawt efter Wit.
+>
+> \[Now Will that housewife is entirely silent-who before was so willful-fully guided according to the instruction of Wit, who is husband. And all that household holds itself still, that was accustomed to be unruly and follow Will, their lady, and not Wit" (Robertson, 1990)[^44].
 
 Nearly two centuries later, John Gower offers much the same picture of the relationship between wit and will, in his account of Diogenes' advice to Alexander:
 
-"This is the sothe thing:
-
-Sith I ferst resoun understod,
-
-And knew what thing was evel and good,
-
-The will which of my bodi moeveth,
-
-Whos werkes that the god reproeveth,
-
-I have restreigned everemore, ...
-
-Will is my man and my servant,
-
-And evere hath ben and evere schal.
-
-And thi will is thi principal,
-
-And hath the lordschipe of thi witt" (Gower, 2013, pp.1270-83)
+> "This is the sothe thing:
+>
+> Sith I ferst resoun understod,
+>
+> And knew what thing was evel and good,
+>
+> The will which of my bodi moeveth,
+>
+> Whos werkes that the god reproeveth,
+>
+> I have restreigned everemore, ...
+>
+> Will is my man and my servant,
+>
+> And evere hath ben and evere schal.
+>
+> And thi will is thi principal,
+>
+> And hath the lordschipe of thi witt" (Gower, 2013, pp.1270-83)
 
 Here the will is so far from being associated with the self that it is properly cast in the role of Diogenes' "man and my servant". King Alexander's fault is precisely that he allows his will to be the "principal" part within him, and to have "lordschipe" over his wit. That in Gower the will is now masculine perhaps implies that these lower appetites are not the privileged domain of either gender. But that the will is so readily gendered at all signals just how natural it is to think of the will as the locus of selfhood.
 
-Semantically, the noun "will" in Middle English is ambiguous between these two senses: will as higher appetite, allied to reason and responsible for all deliberate action, and will as lower desire, inevitably in conflict with reason and so appropriately restrained if not silenced altogether. We have seen instances of the latter usage, but it is also easy to find Middle English uses of "will" in the philosopher's sense.\[48] When the will is so understood, it becomes possible to give it the sort of elevated status associated with the voluntarists. Walter Hilton (ca. 1343--1396), for instance, urges us to abandon our selfish "proper will" in favor of a "common will" that adheres to the will of God. "þis comen wille is sothefastly called þe maste precious offerande & þe maste dere presande þat may be gyfen un-to-god; and þarefor it is callyd erthely heuen, for qwy it herbers god. It is goddis tempill, it is þe chosen chambyr of Ihesu, it is þe hamely howse of þe haly ‏‏gaste." (Hilton, 1895--1896, p.173). Evidently a will of this sort is not to be silenced or ruled over but is instead the crowning achievement of a human life.
+Semantically, the noun "will" in Middle English is ambiguous between these two senses: will as higher appetite, allied to reason and responsible for all deliberate action, and will as lower desire, inevitably in conflict with reason and so appropriately restrained if not silenced altogether. We have seen instances of the latter usage, but it is also easy to find Middle English uses of "will" in the philosopher's sense[^45]. When the will is so understood, it becomes possible to give it the sort of elevated status associated with the voluntarists. Walter Hilton (ca. 1343-1396), for instance, urges us to abandon our selfish "proper will" in favor of a "common will" that adheres to the will of God. "þis comen wille is sothefastly called þe maste precious offerande & þe maste dere presande þat may be gyfen un-to-god; and þarefor it is callyd erthely heuen, for qwy it herbers god. It is goddis tempill, it is þe chosen chambyr of Ihesu, it is þe hamely howse of þe haly ‏‏gaste." (Hilton, 1895-1896, p.173). Evidently a will of this sort is not to be silenced or ruled over but is instead the crowning achievement of a human life.
 
-In keeping with the ambiguous character of the Middle English word, one sometimes finds William Langland referring to will as a lower desire meant to be suppressed. In Truth's castle, for instance, as described by Piers: "all the wallis ben of witte to holden wille oute" (B.V.587).\[49] The poem's hero, however, Will the dreamer, is not meant to be held out of the castle---and this not despite his name, but because of it, inasmuch as a will, for Langland, is precisely that within a human being that has a chance of meriting entrance within those walls. Let us know turn to look more closely, then, at how the will works within Langland's poem.
+In keeping with the ambiguous character of the Middle English word, one sometimes finds William Langland referring to will as a lower desire meant to be suppressed. In Truth's castle, for instance, as described by Piers: "all the wallis ben of witte to holden wille oute" (B.V.587)[^46]. The poem's hero, however, Will the dreamer, is not meant to be held out of the castle-and this not despite his name, but because of it, inasmuch as a will, for Langland, is precisely that within a human being that has a chance of meriting entrance within those walls. Let us know turn to look more closely, then, at how the will works within Langland's poem.
 
-7. Will's Journey in Piers Plowman
+## Will's Journey in Piers Plowman
 
-William Langland's (2006) long alliterative poem is the supreme medieval attempt to imbue an abstract philosophical thesis about the primacy of will with concrete meaning, set within the context of ordinary life. The human search for Truth, as Langland conceives of it, is not chiefly an intellectual journey but rather a volitional one. The obvious indication that Piers Plowman is written from within a voluntaristic conception of the human self is its identification of the dreamer as Will. This choice of names ---always "Will" and never "William"--- centers the larger psychological frame of the poem, as we will see. It is Will, in Nicolette Zeeman's vivid phrase, who is the "single, holistic protagonist, the narrator and motive force of the whole text" (Zeeman, 2006, p.66). So, although the extent of Langland's familiarity with the philosophical ideas of his era is a matter of conjecture, it is hard to resist the thought that he is writing under the influence of the fourteenth-century voluntarist movement.\[50]
+William Langland's (2006) long alliterative poem is the supreme medieval attempt to imbue an abstract philosophical thesis about the primacy of will with concrete meaning, set within the context of ordinary life. The human search for Truth, as Langland conceives of it, is not chiefly an intellectual journey but rather a volitional one. The obvious indication that Piers Plowman is written from within a voluntaristic conception of the human self is its identification of the dreamer as Will. This choice of names -always "Will" and never "William"- centers the larger psychological frame of the poem, as we will see. It is Will, in Nicolette Zeeman's vivid phrase, who is the "single, holistic protagonist, the narrator and motive force of the whole text" (Zeeman, 2006, p.66). So, although the extent of Langland's familiarity with the philosophical ideas of his era is a matter of conjecture, it is hard to resist the thought that he is writing under the influence of the fourteenth-century voluntarist movement[^47].
 
 If the identification of the dreamer as Will is more than mere authorial signature, if it has the sort of conceptual implications that I am claiming, then we would expect there to be consequences throughout the poem. Indeed, the voluntarist's conception of human agency frames the entire narrative. A useful overview of Langland's (2006) conception of the relationship between will and agency appears in a metaphor at B.VIII.41-56:
 
-"The bote is likned to the body that brutel is of kynde brutel : brittle
+> "The bote is likned to the body that brutel is of kynde *brutel : brittle*
+>
+> That thorugh the fende and thi flesh and the false worlde *fende : Fiend*
+>
+> Synneth the sad man sevene sythes a day *sad : steadfast | sythes : times*
+>
+> Ac dedly synne doth he nought; for Do-Well hym helpeth,
+>
+> That is charité the champioun, chief help ayein synne.
+>
+> For he strengtheth the to stone and stereth thi soule *stone : stand | stereth : steers*
+>
+> That thowgh thi body bow as bote doth in the water, *bow : turns about | bote : boat*
+>
+> Ay is thi soule sauf but thiself wole *but ... : unless you yourself will <to>*
+>
+> Folwe thi fleshes wille and the Fendes after, *after : as well*
+>
+> And do a dedly synne and drenche so thiselve.
+>
+> God wole suffer wel thi sleuthe yif thiself lyketh, *sleuthe : sloth*
+>
+> For he yaf the to Yeres-yyve to yeme wel thiselve,
+>
+> *For he gave you a New Year's gift to guide yourself*
+>
+> Witte a fre wille, to every wyghte a porcioun, *Witte a : Wit and*
+>
+> To fleghyng foules, to fissches, and to bestes, *fleghyng : flying*
+>
+> . Ac man hath moste therof and moste is to blame,
+>
+> But if he worche wel therwith as Do-Wel hym techeth" *But if : Unless*
+>
+> (B.VIII.41-56).
 
-That thorugh the fende and thi flesh and the false worlde fende : Fiend
+This picture accords quite precisely with the standard medieval reading of Romans 7. Our brittle body sins constantly -"sevene sythes a day," invoking Proverbs 24:16- but these are mere venial sins, consistent with a meritorious life, and so "thi soule <is> saufe but thiself wole / <to> Folwe thi fleshes wille...". Here from one line to the next we get the two senses of will that are described above: the higher will that controls the soul's destiny, set in opposition to the lower will of the flesh that should be silenced as much as possible. The self is not identified with the will, or even with the soul, no more than it is in Romans 7. But the responsibility for the whole human self -boat and passenger- rests with the will's choices, and whether it can escape the sort of "dedly synne" that threatens an eternal drenching.
 
-Synneth the sad man sevene sythes a day sad : steadfast | sythes : times
+To be sure, this is the account of the friar, one of the less reliable voices in the poem. But the friar's unreliability is a product of his volitional failings; he is not wrong in what he says, but in how he conducts himself. In general, indeed, the poem's voluntaristic inclinations are signaled by the relative ease with which the various speakers are able to offer intellectually adequate responses to Will's persistent questions. From the very first passus, Will receives perfectly correct answers, as when Holy Church tells him (B.I.142-44) that:
 
-Ac dedly synne doth he nought; for Do-Well hym helpeth,
+> "It is a kynde knowing that kenneth in thine herte *kenneth : teaches/guides*
+>
+> For to lovye thi Lorde lever than thiselve, *lever : more dearly*
+>
+> No dedly synne to do dey though thow shodest". *dey : die*
+>
+> (B.I.142-44).
 
-That is charité the champioun, chief help ayein synne.
+There is nothing wrong with this advice; it is in fact the same advice on which the friar is elaborating. Will, however, makes the same response to both Holy Church and the friar, protesting that he has "no kynde knowing" of what they are saying (B.I.138, B.VIII.57). This pattern, repeated throughout the poem, is liable to produce in the reader the very response offered by Holy Church: "Thow doted daffe," quod she, "dulle arne thi wittes" (B.I.140)[^48]. But it is this mocking outburst that leads Holy Church to offer the three-line doctrinal summary just quoted, which provides its own answer to the charge of dull-wittedness: the problem is not with Will's wits, but with the affective or volitional aspect of his character, inasmuch as the knowledge he lacks is something that "kenneth in thine herte". It is, therefore, quite appropriate that Langland sets his Will on this journey to find Truth.
 
-For he strengtheth the to stone and stereth thi soule stone : stand | stereth : steers
+Still, a will is not a whole soul, let alone a whole person, and in particular a will cannot function without an intellect to advise it. Hence the friar remarks that the gift we have been given is both wit and free will, both of which we must "worche wel therwith" (lines 53, 56). The journey Will takes is predicated on his very existence as a witless Will, a description that is no insult to him inasmuch as the will by its very nature relies on other faculties for its information. So it is that, over the course of the poem, we hear from Conscience, Reason, Thought, Wit, Ymaginatif, Anima, and more. Langland's complex use of allegory makes these characters more than mere philosophical abstractions, or characters in costume, because the allegory allows the poem to work simultaneously on multiple levels, situating Will within a larger community even while locating the will within an individual psychology[^49]. That we can understand Will in both ways, as both a part of the soul and as a protagonist embarked on a journey in the world, is a consequence of the poem's voluntarism, and more specifically its valorization of the will as the primary locus of selfhood and moral worth. Accordingly, Conscience reacts to the friar's gluttonous behavior at dinner not by objecting to the content of anything the friar had said, but rather by affirming the matchless value of a true will:
 
-That thowgh thi body bow as bote doth in the water, bow : turns about | bote : boat
-
-Ay is thi soule sauf but thiself wole but ... : unless you yourself will <to>
-
-Folwe thi fleshes wille and the Fendes after, after : as well
-
-And do a dedly synne and drenche so thiselve.
-
-God wole suffer wel thi sleuthe yif thiself lyketh, sleuthe : sloth
-
-For he yaf the to Yeres-yyve to yeme wel thiselve,
-
-For he gave you a New Year's gift to guide yourself
-
-Witte a fre wille, to every wyghte a porcioun, Witte a : Wit and
-
-To fleghyng foules, to fissches, and to bestes, fleghyng : flying
-
-. Ac man hath moste therof and moste is to blame,
-
-But if he worche wel therwith as Do-Wel hym techeth" But if : Unless
-
-(B.VIII.41-56).
-
-This picture accords quite precisely with the standard medieval reading of Romans 7. Our brittle body sins constantly ---"sevene sythes a day," invoking Proverbs 24:16--- but these are mere venial sins, consistent with a meritorious life, and so "thi soule <is> saufe but thiself wole / <to> Folwe thi fleshes wille...". Here from one line to the next we get the two senses of will that are described above: the higher will that controls the soul's destiny, set in opposition to the lower will of the flesh that should be silenced as much as possible. The self is not identified with the will, or even with the soul, no more than it is in Romans 7. But the responsibility for the whole human self ---boat and passenger--- rests with the will's choices, and whether it can escape the sort of "dedly synne" that threatens an eternal drenching.
-
-To be sure, this is the account of the friar, one of the less reliable voices in the poem. But the friar's unreliability is a product of his volitional failings; he is not wrong in what he says, but in how he conducts himself. In general, indeed, the poem's voluntaristic inclinations are signaled by the relative ease with which the various speakers are able to offer intellectually adequate responses to Will's persistent questions. From the very first passus, Will receives perfectly correct answers, as when Holy Church tells him (B.I.142--44) that:
-
-"It is a kynde knowing that kenneth in thine herte kenneth : teaches/guides
-
-For to lovye thi Lorde lever than thiselve, lever : more dearly
-
-No dedly synne to do dey though thow shodest". dey : die
-
-(B.I.142--44).
-
-There is nothing wrong with this advice; it is in fact the same advice on which the friar is elaborating. Will, however, makes the same response to both Holy Church and the friar, protesting that he has "no kynde knowing" of what they are saying (B.I.138, B.VIII.57). This pattern, repeated throughout the poem, is liable to produce in the reader the very response offered by Holy Church: "Thow doted daffe," quod she, "dulle arne thi wittes" (B.I.140).\[51] But it is this mocking outburst that leads Holy Church to offer the three-line doctrinal summary just quoted, which provides its own answer to the charge of dull-wittedness: the problem is not with Will's wits, but with the affective or volitional aspect of his character, inasmuch as the knowledge he lacks is something that "kenneth in thine herte". It is, therefore, quite appropriate that Langland sets his Will on this journey to find Truth.
-
-Still, a will is not a whole soul, let alone a whole person, and in particular a will cannot function without an intellect to advise it. Hence the friar remarks that the gift we have been given is both wit and free will, both of which we must "worche wel therwith" (lines 53, 56). The journey Will takes is predicated on his very existence as a witless Will, a description that is no insult to him inasmuch as the will by its very nature relies on other faculties for its information. So it is that, over the course of the poem, we hear from Conscience, Reason, Thought, Wit, Ymaginatif, Anima, and more. Langland's complex use of allegory makes these characters more than mere philosophical abstractions, or characters in costume, because the allegory allows the poem to work simultaneously on multiple levels, situating Will within a larger community even while locating the will within an individual psychology.\[52] That we can understand Will in both ways, as both a part of the soul and as a protagonist embarked on a journey in the world, is a consequence of the poem's voluntarism, and more specifically its valorization of the will as the primary locus of selfhood and moral worth. Accordingly, Conscience reacts to the friar's gluttonous behavior at dinner not by objecting to the content of anything the friar had said, but rather by affirming the matchless value of a true will:
-
-"Ac the wille of the wye and the wille of folke here the wye : that person, Patience
-
-Hath moeved my mode to mourne for my sinnes.
-
-The good wille of a wighte was nevre bought to the fulle,
-
-For there nys no tresore therto---to a trewe wille". (B.XIII.190--93)
+> "Ac the wille of the wye and the wille of folke here *the wye : that person, Patience*
+>
+> Hath moeved my mode to mourne for my sinnes.
+>
+> The good wille of a wighte was nevre bought to the fulle,
+>
+> For there nys no tresore therto---to a trewe wille". (B.XIII.190-93)
 
 This serves to reprimand the friar on one level, but on another level, it simply reaffirms what the friar had earlier taught through the metaphor of the brittle boat: what is all-important in a human life is the quality of a person's will.
 
-Given that a will requires information from outside ---that his journey is an exercise in what Elizabeth Robertson (2020) refers to as "soul-making"--- it should be no surprise that Will's journey consists largely in consulting with various authorities, personified. For anyone seeking to make strict philosophical sense out of these dreams, it can look disconcerting that both Conscience and Holy Church are treated as personifications; that personification sometimes extends to parts of the self (part of Will?), whereas at other times it lies wholly outside Will. But the complex logic of Langland's allegorical scheme indicates just how seriously Langland takes the voluntaristic conception of the will as the primary locus of personal agency. From that point of view, the teachings of Church and of conscience are on a par, both effectively external sources of information between which the will must navigate as best it can. Accordingly, Conscience can aptly be described as a book, and indeed the only book one needs (B.XV.534). And when Conscience announces his intention at the end of the poem to "bicome a pilgryme" in search of Piers (B.XX.380), and so seemingly to leave Will behind, we should not be surprised. Even parts of our very soul may go silent for stretches of a time, leaving the will to make decisions as best it can.\[53] The multiplicity of levels on which the text works reflects the human epistemic situation, and the tangled mix of information we receive from within and without.\[54]
+Given that a will requires information from outside -that his journey is an exercise in what Elizabeth Robertson (2020) refers to as "soul-making"- it should be no surprise that Will's journey consists largely in consulting with various authorities, personified. For anyone seeking to make strict philosophical sense out of these dreams, it can look disconcerting that both Conscience and Holy Church are treated as personifications; that personification sometimes extends to parts of the self (part of Will?), whereas at other times it lies wholly outside Will. But the complex logic of Langland's allegorical scheme indicates just how seriously Langland takes the voluntaristic conception of the will as the primary locus of personal agency. From that point of view, the teachings of Church and of conscience are on a par, both effectively external sources of information between which the will must navigate as best it can. Accordingly, Conscience can aptly be described as a book, and indeed the only book one needs (B.XV.534). And when Conscience announces his intention at the end of the poem to "bicome a pilgryme" in search of Piers (B.XX.380), and so seemingly to leave Will behind, we should not be surprised. Even parts of our very soul may go silent for stretches of a time, leaving the will to make decisions as best it can[^50]. The multiplicity of levels on which the text works reflects the human epistemic situation, and the tangled mix of information we receive from within and without[^51].
 
-Conceived of philosophically, a will needs guidance, and, within the literary context of a dream vision, one would expect Will to have a guide. Part of what makes Piers Plowman so disorienting, then, is Will's difficulty in finding a guide who is adequate. I have already suggested that the failure of these would-be guides arises not from any intellectual failing. Where then does the problem lie? That is not at all an easy question to answer, because the poem is very far from explaining itself in this regard---as if not only Will but also William himself finds the question deeply inscrutable. Why indeed does any of us find it so difficult to do well, let alone better or best?
+Conceived of philosophically, a will needs guidance, and, within the literary context of a dream vision, one would expect Will to have a guide. Part of what makes Piers Plowman so disorienting, then, is Will's difficulty in finding a guide who is adequate. I have already suggested that the failure of these would-be guides arises not from any intellectual failing. Where then does the problem lie? That is not at all an easy question to answer, because the poem is very far from explaining itself in this regard-as if not only Will but also William himself finds the question deeply inscrutable. Why indeed does any of us find it so difficult to do well, let alone better or best?
 
-Just above, we saw Conscience suggest that truth lies in the will (B.XIII.193). Might it be, then, that Will's search for Truth is at least in part an inward search? That would in turn explain why Will keeps failing to get from others the answer he is looking for. I say "in part" because the Truth, capitalized, is of course God. But Will's lifelong journey to find God is mediated by the search for the proper sort of love of God, which is what his would-be guides keep telling him he requires, all the way to the end of the poem: "Conseille me, Kynde" quod I. "What crafte is best to lerne?" / "Lerne to loue," quod Kynde, "and leue alle othre" (B.XX.209--10). Love is an act of the will, and the search for the right sort of stable loving disposition is a search for charity, which is a virtue of the will. If this is what Will is after, then he scarcely needs to travel far, because what he requires is something only he can supply.\[55] Will's quest for Do-Well likewise has this sort of inwardly directed aspect, once we understand it through the voluntaristic perspective identified above, according to which right action is first and foremost the action of the will itself, rather than any sort of physical activity in the world. Will himself is perhaps confused, as wills so often are, even about what kind of thing Do-Well is, but the poet's way of handling analogous adverbial constructions is illuminating. Wit's castle in Passus IX contains not just Do-Well, Do-Better, and Do-Best, but also the five fair sons of Sir Inwit:
+Just above, we saw Conscience suggest that truth lies in the will (B.XIII.193). Might it be, then, that Will's search for Truth is at least in part an inward search? That would in turn explain why Will keeps failing to get from others the answer he is looking for. I say "in part" because the Truth, capitalized, is of course God. But Will's lifelong journey to find God is mediated by the search for the proper sort of love of God, which is what his would-be guides keep telling him he requires, all the way to the end of the poem: "Conseille me, Kynde" quod I. "What crafte is best to lerne?" / "Lerne to loue," quod Kynde, "and leue alle othre" (B.XX.209-10). Love is an act of the will, and the search for the right sort of stable loving disposition is a search for charity, which is a virtue of the will. If this is what Will is after, then he scarcely needs to travel far, because what he requires is something only he can supply[^52]. Will's quest for Do-Well likewise has this sort of inwardly directed aspect, once we understand it through the voluntaristic perspective identified above, according to which right action is first and foremost the action of the will itself, rather than any sort of physical activity in the world. Will himself is perhaps confused, as wills so often are, even about what kind of thing Do-Well is, but the poet's way of handling analogous adverbial constructions is illuminating. Wit's castle in Passus IX contains not just Do-Well, Do-Better, and Do-Best, but also the five fair sons of Sir Inwit:
 
-"Sire Se-Wel, and Say-Wel, and Here-Wel the hende,
+> "Sire Se-Wel, and Say-Wel, and Here-Wel the hende,
+>
+> Sire Worche-Wel-Wyth-Thine Hande, a wighte man of strengthe,
+>
+> And Sire Godfrey Go-Wel, gret lordes alle". (B.IX.20-22)
 
-Sire Worche-Wel-Wyth-Thine Hande, a wighte man of strengthe,
+This allegorical construction of a human person locates these various adverbial perfections *within* the castle, as faculties or virtues. But if seeing well, saying well, and hearing well are all perfections of a human being, then we should expect *doing well* to be understood in the same way, and of course we should expect it to be a virtue of the will. Will's search for Do-Well, then, is a search for something he can find only within himself.
 
-And Sire Godfrey Go-Wel, gret lordes alle". (B.IX.20--22)
-
-This allegorical construction of a human person locates these various adverbial perfections within the castle, as faculties or virtues. But if seeing well, saying well, and hearing well are all perfections of a human being, then we should expect doing well to be understood in the same way, and of course we should expect it to be a virtue of the will. Will's search for Do-Well, then, is a search for something he can find only within himself.
-
-To put the focus on will in this way, as the locus of selfhood and moral agency, is not to treat the will as alone in the world. Langland is of course not a solipsist, nor does he think that a human being is just a will. Hence it is quite proper for Will to set out on an intellectual journey, and to ask for help from everyone he meets. As I read the poem, we are not meant to conclude that Will's quest for understanding is hopeless or even misguided.\[56] Although we are in a position to see that the answers Will is looking for lie within him, that does not make his task any easier. He is, indeed, going about his journey in the only way that a will in the world can: by attempting to make common cause with others, and by seeking in good faith to understand the things that are, for now, only dimly lit.
+To put the focus on will in this way, as the locus of selfhood and moral agency, is not to treat the will as alone in the world. Langland is of course not a solipsist, nor does he think that a human being is just a will. Hence it is quite proper for Will to set out on an intellectual journey, and to ask for help from everyone he meets. As I read the poem, we are not meant to conclude that Will's quest for understanding is hopeless or even misguided[^53]. Although *we* are in a position to see that the answers Will is looking for lie within him, that does not make *his* task any easier. He is, indeed, going about his journey in the only way that a will in the world can: by attempting to make common cause with others, and by seeking in good faith to understand the things that are, for now, only dimly lit.
 
 # Footnotes:
 
@@ -624,109 +624,213 @@ To put the focus on will in this way, as the locus of selfhood and moral agency,
 
 On Marsilius, see Nederman (1995); for Ockham, see McGrade (1974).
 
-\[2] See Bradwardine (1618) in I.3, II.20, III.1-2, III.50.
+[^2] 
 
-\[3] I offer an intellectualist reading in Pasnau (2002, ch.7). For a sophisticated recent attempt to understand his view in a more voluntaristic light, see Hoffmann and Michon (2017).
+See Bradwardine (1618) in I.3, II.20, III.1-2, III.50.
 
-\[4] Unless otherwise noted, the works of Ockham that I discuss are not currently available in English translation. For a more extensive discussion of his conception of will, see Adams (1999).
+[^3] 
 
-\[6] The most comprehensive inventory of the intellectualist (and voluntarist) movement through the thirteenth century is the first volume of Lottin (1942--60).
+I offer an intellectualist reading in Pasnau (2002, ch.7). For a sophisticated recent attempt to understand his view in a more voluntaristic light, see Hoffmann and Michon (2017).
 
-\[7] All references and quotations are from the Riverside Chaucer (1987), although I have often benefited from consulting Windeatt's edition of the text. For happiness as the poem's focal concept see Mann (2002, p.165): "the central subject of this poem is the loss of happiness."
+[^4] 
 
-\[8] Chaucer's Boethius uses 'welefulnesse' to translate felicitas (e.g., IIpr1 and IIIpr1) and 'blisfulnesse' to translate beatitudo (e.g., IIIpr1). But neither of these terms are is in Troilus or, indeed, anywhere in the corpus outside of his Consolation translation. In Troilus Chaucer prefers 'selynesse' and 'felicitee,' e.g. at III.813--14: "wordly selynesse, / Which clerkes callen fals felicitee."
+Unless otherwise noted, the works of Ockham that I discuss are not currently available in English translation. For a more extensive discussion of his conception of will, see Adams (1999).
 
-\[9] Compare Troilus III.813--36 with Consolation IIpr4, lines 150--62 in Chaucer's translation. "Verray weele" (III.836) contrasts with "worldly selynesse, / Which clerkes callen fals felicitee" at the start of Criseyde's speech (III.813--14), but all three of these terms for happiness self-consciously pick out the technical philosophers' conception rather than the passing "joy" or "bliss" or "gladness" that the poem usually speaks of. Indeed, this is the only passage in Chaucer's entirely corpus where 'selynesse' appears.
+[^5] 
 
-\[10] See, e.g., Thomas Aquinas, Summa theol. 2a2ae 136.1c, who appeals to Augustine.
+The most comprehensive inventory of the intellectualist (and voluntarist) movement through the thirteenth century is the first volume of Lottin (1942--60).
 
-\[11] See Consol. Vpr1: "Now mai I thus diffinysshen hap: hap is an unwar betydinge of causes assembled in thingis that ben doon for som oothir thing" (lines 89--92). "Licet igitur definire casum esse inopinatum ex confluentibus causis in his quae ob aliquid geruntur eventum." The Latin equates casus and fortuitum, which Chaucer renders as "hap or elles aventure of fortune" (line 58). This conception of fortune (or chance or luck: τύχη, casus, hap) goes back to Aristotle (Physics II.6), as Boethius explicitly says.
+[^6] 
 
-\[12] The poem speaks of luck in terms of 'hap' (I.896); 'happy' (II.621, II.1382); 'unhap' (I.552, II.456); 'unhappyly' (I.666). The OED dates the first occurrence of 'happiness' to 1473. The narrator speaks of "sely Troius" (I.871, II.683) and also "sely womman" (V.1093), said of Criseyde, but also of "Troilus unsely aventure" (I.35). The range of meanings for 'sely' is so wide that it encompasses being lucky, blessed, worthy, happy, and simplemindedly good, and also being unhappy and unfortunate. The linguistic link between happiness and luck goes back to antiquity. Both the Greek εὐδαιμονία and the Latin felicitas bear the primary meaning of lucky or fortunate. Aristotle, reporting common sentiment, remarks that "good fortune (εὐτυχία) is thought to be the same, or nearly the same, as happiness (εὐδαιμονία)" (Phys. II.6, 197b4).
+All references and quotations are from the Riverside Chaucer (1987), although I have often benefited from consulting Windeatt's edition of the text. For happiness as the poem's focal concept see Mann (2002, p.165): "the central subject of this poem is the loss of happiness."
 
-\[13] For the narrator see esp. V.1-2: "Aprochen gan the fatal destyne / That Joves hath in disposicioun." Calchas claims to foreknow the fall of Troy through the word of Apollo, the casting of lots, and the study of astrology (I.64--84; IV.113--19).
+[^7] 
 
-\[14] Chaucer's paraphrase runs from IV.974 through IV.1078, and corresponds with lines 8--99 of his translation of Consolation Vpr3 (Boethius 1973, p. 395 line 6 to p. 399 line 56). Where Boethius speaks of fatum, Chaucer, both here and in his translation, regularly speaks of "destinee," which makes for a usefully direct linguistic tie to the problem of God's "predestyne."
+Chaucer's Boethius uses 'welefulnesse' to translate felicitas (e.g., IIpr1 and IIIpr1) and 'blisfulnesse' to translate beatitudo (e.g., IIIpr1). But neither of these terms are is in Troilus or, indeed, anywhere in the corpus outside of his Consolation translation. In Troilus Chaucer prefers 'selynesse' and 'felicitee,' e.g. at III.813--14: "wordly selynesse, / Which clerkes callen fals felicitee."
 
-\[15] On the theologically unacceptable character of Troilus's position see Minnis (1982, pp. 95--96).
+[^8]
 
-\[16] Here I am indebted to Windeatt (2023): "...an effect of openness which invites any reader to participate in the debate" (p. 229). See also Benson (1990,p. 149): "Chaucer is a poet not a philosopher, and he uses pieces of the Consolation in unexpected ways to ask questions rather than to provide answers."
+Compare Troilus III.813--36 with Consolation IIpr4, lines 150--62 in Chaucer's translation. "Verray weele" (III.836) contrasts with "worldly selynesse, / Which clerkes callen fals felicitee" at the start of Criseyde's speech (III.813--14), but all three of these terms for happiness self-consciously pick out the technical philosophers' conception rather than the passing "joy" or "bliss" or "gladness" that the poem usually speaks of. Indeed, this is the only passage in Chaucer's entirely corpus where 'selynesse' appears.
 
-\[17] Prominent examples of practical reasoning in the poem come at II.757, V.36, V.382, V.687, V.1065. For Boethius's account of freedom of choice see Consol. Vpr2.
+[^9] 
 
-\[18] Readers of the poem who find it committed to freewill include Patch (1961), Benson (1990) ch. 7, Minnis (1982, pp. 70--73), and Windeatt (2023, p. 283). For deterministic reading see, e.g., Curry (1961) and Berryman (1967). Critics on both sides tend to have internalized the voluntaristic position that freewill is possible only for agents who can somehow break free from the causal chains of nature and that agents whose actions are circumscribed by those chains are not really acting at all. Thus Berryman (1967, p.3) speaks of "the self-deception shared by all of the characters as well as the narrator in their vain attempts to avoid the inevitable outcome of the story"---as if the only rational behavior in a deterministic world is to stay in bed and wait for the inevitable to happen.
+See, e.g., Thomas Aquinas, Summa theol. 2a2ae 136.1c, who appeals to Augustine.
 
-\[19] Troilus's is a textbook case of acedia, as characterized in the common biblical gloss as "a listlessness of mind that neglects to undertake good things" (as quoted in Aquinas, Summa theol. 2a2ae 35.1). Despair is one of the "children" of acedia: it is a lack of hope resulting from the belief that some good is impossible to achieve (Aquinas, Summa theol. 2a2ae 20.1, 35.4 obj. 2 & ad 2). Strictly, these are both theological vices, and in that case, they concern the ultimate good of God. An internal reading of the poem transposes these vices onto Troilus's attitude toward Criseyde.
+[^10] 
 
-\[20] We are told explicitly that Criseyde is deficient with regard to courage (II.450, V.825) and prudence (V.744--45). As for her injustice (toward Troilus) and her (sexual) intemperance, readers must judge for themselves. On the traditional understanding of the cardinal virtues they stand or fall together as a unity: one has either all of them or none of them (see Aristotle, Nic. Ethics VI.13). For the voluntaristic thesis that all the moral virtues are virtues of the will see Kent (1995).
+See Consol. Vpr1: "Now mai I thus diffinysshen hap: hap is an unwar betydinge of causes assembled in thingis that ben doon for som oothir thing" (lines 89--92). "Licet igitur definire casum esse inopinatum ex confluentibus causis in his quae ob aliquid geruntur eventum." The Latin equates casus and fortuitum, which Chaucer renders as "hap or elles aventure of fortune" (line 58). This conception of fortune (or chance or luck: τύχη, casus, hap) goes back to Aristotle (Physics II.6), as Boethius explicitly says.
 
-\[21] See Nic. Ethics I.10, 1100a18--21: "both evil and good are thought to exist for someone who is dead, as much as for one who is alive but not aware of them; e.g. honors and dishonors and the good or bad fortunes of children and in general of descendants." Consol. Ipr4 shows the prisoner worrying about his reputation. That women in particular should be concerned for their reputation is an imperative within the medieval conventions of courtly love (see Dodd 1961, pp. 5--6).
+[^11] 
 
-\[22] For a prominent example of this sort of moralizing Christian reading see Robertson (1961). Donaldson (1975, p.1144) has this sort of perspective in mind when he nicely remarks: "Some readers are apt to feel, however, that the poet's final statement cancels all the human values which his own loving treatment has made real; that he is, in effect, saying either that he ought not to have written the poem or that the reader ought not to have read it."
+The poem speaks of luck in terms of 'hap' (I.896); 'happy' (II.621, II.1382); 'unhap' (I.552, II.456); 'unhappyly' (I.666). The OED dates the first occurrence of 'happiness' to 1473. The narrator speaks of "sely Troius" (I.871, II.683) and also "sely womman" (V.1093), said of Criseyde, but also of "Troilus unsely aventure" (I.35). The range of meanings for 'sely' is so wide that it encompasses being lucky, blessed, worthy, happy, and simplemindedly good, and also being unhappy and unfortunate. The linguistic link between happiness and luck goes back to antiquity. Both the Greek εὐδαιμονία and the Latin felicitas bear the primary meaning of lucky or fortunate. Aristotle, reporting common sentiment, remarks that "good fortune (εὐτυχία) is thought to be the same, or nearly the same, as happiness (εὐδαιμονία)" (Phys. II.6, 197b4).
 
-\[23] Consol. IIpr2: "Haec nostra vis est, hunc continuum ludum ludimus; rotam volubili orbe versamus, infima summis summa infimis mutare gaudemus. Ascende si placet, sed ea lege ne utique cum ludicri mei ratio poscet, descendere iniuriam putes."
+[^12] 
 
-\[24] Dihle (1982) locates the origins of will in early Christianity; Frede (2011) points to late Stoic thought.
+For the narrator see esp. V.1-2: "Aprochen gan the fatal destyne / That Joves hath in disposicioun." Calchas claims to foreknow the fall of Troy through the word of Apollo, the casting of lots, and the study of astrology (I.64--84; IV.113--19).
 
-\[25] Romans 7:15-23. The Vulgate text reads as follows: "Quod enim operor non intelligo: non enim quod volo (θέλω) bonum hoc ago, sed quod odi malum illud facio. Si autem quod nolo illud facio, consentio legi, quoniam bona (καλός) est. Nunc autem iam non ego operor illud, sed quod habitat in me peccatum. Scio enim quia non habitat in me, hoc est in carne mea, bonum. Nam velle adiacet mihi: perficere autem bonum non invenio. Non enim quod volo bonum, hoc facio: sed quod nolo malum, hoc ago. Si autem quod nolo illud facio, iam non ego operor illud, sed quod habitat in me peccatum. Invenio igitur legem volenti mihi facere bonum quoniam mihi malum adiacet. Condelector enim legi Dei secundum interiorem hominem. Video autem aliam legem in membris meis, repugnantem legi mentis meae, et captivantem me in lege peccati, quae est in membris meis."
+[^13] 
 
-\[26] For a good example of the perplexity that has been generated, see Matthews (1984). For a response, see Kretzmann (1988). Kretzmann in turn draws on Thomas Aquinas's commentary on Romans 7 (Thomas Aquinas 1929).
+Chaucer's paraphrase runs from IV.974 through IV.1078, and corresponds with lines 8--99 of his translation of Consolation Vpr3 (Boethius 1973, p. 395 line 6 to p. 399 line 56). Where Boethius speaks of fatum, Chaucer, both here and in his translation, regularly speaks of "destinee," which makes for a usefully direct linguistic tie to the problem of God's "predestyne."
 
-\[27] See Aquinas, Summa Theol. (1a 83.1 ad 1), and, at greater length, his commentary on Romans. For Augustine, see Sermones ad populum (154.3).
+[^14] 
 
-\[28] It is a telling sign of Aquinas's prevailing intellectualist orientation that he takes Paul's 'I' in this passage to refer to his intellect: "'I' is understood as the human being's reason, which is principal within a human being, and thus it seems that each human being is his reason or his intellect" (Thomas Aquinas 1929, 7.3).
+On the theologically unacceptable character of Troilus's position see Minnis (1982, pp. 95--96).
 
-\[29] I follow the edition of The Riverside Chaucer, where the Clerk's Tale appears at the start of fragment IV. Petrarch's version is found in Epistolae Seniles XVII.3; I follow Thomas Ferrell's Latin--English edition as printed in Correale and Hamel (2002), I:108--29. That work also contains the text and translation of an anonymous French version that was also among Chaucer's sources. It is unclear whether he knew Boccaccio's original, but his connections with Italy make that not implausible.
+[^15] 
 
-\[30] It is a commonplace among recent critics to observe that the Clerk's Tale is problematic both as a parable and as a moral exemplum for wives. The most influential statement of that case remains Salter (1962), who concludes that the tale is a failure. Much of the critical literature in the sixty years since Salter's essay has attempted to find some strategy for rescuing the poem from that despairing verdict. For a good sense of the ongoing puzzlement over the tale as a moral exemplar see Mitchell (2005). For a vigorous attempt to defend Griselda as a moral exemplar see Morse (1985).
+Here I am indebted to Windeatt (2023): "...an effect of openness which invites any reader to participate in the debate" (p. 229). See also Benson (1990,p. 149): "Chaucer is a poet not a philosopher, and he uses pieces of the Consolation in unexpected ways to ask questions rather than to provide answers."
 
-\[31] Petrarch's Walter describes himself as "the freest man I have known" (104), a line that Petrarch seems to accept uncritically, but that Chaucer simply omits.
+[^16] 
 
-\[32] Griselda's exceptional produce, or wisdom, is particularly attested at 428--34 and 1016--22. Even the sergeant who takes her babies recognizes it (528). As for Walter, the poem cautiously remarks that "the peple hym heelde / A prudent man" (426--27) because of his discovering Griselda's virtue amidst her poverty, but then offers a foreboding caution, not present in Chaucer's sources, that "that is seyn ful seelde" (very seldom seen).
+Prominent examples of practical reasoning in the poem come at II.757, V.36, V.382, V.687, V.1065. For Boethius's account of freedom of choice see Consol. Vpr2.
 
-\[33] Petrarch's version of this scene (150--61) is different in crucial ways: it ennobles Walter by having him frame his demand in terms of his will (voluntas); it suggests his concern for her inner mental life in his asking whether she is ready to swear with a willing spirit (volenti animo); and it diminishes Griselda's response by restricting it to a pledge not to act or think otherwise than what Walter wants, omitting the crucial idea of a union of wills. And since Petrarch's Griselda has given Walter exactly what he wanted, his response "satis est" comes off as a dry acknowledgment that she has met his expectations. The anonymous French translation adheres closely with Petrarch on all these details (109--124).
+[^17] 
 
-\[34] The question of Griselda's underlying emotional state is explored in detail in Bugbee (2019, pp. 41--79). But the otherwise illuminating discussion suffers from a failure to distinguish between the conformity Griselda vows at the level of rational appetite (will) and the sorrow she permits herself subrationally.
+Readers of the poem who find it committed to freewill include Patch (1961), Benson (1990) ch. 7, Minnis (1982, pp. 70--73), and Windeatt (2023, p. 283). For deterministic reading see, e.g., Curry (1961) and Berryman (1967). Critics on both sides tend to have internalized the voluntaristic position that freewill is possible only for agents who can somehow break free from the causal chains of nature and that agents whose actions are circumscribed by those chains are not really acting at all. Thus Berryman (1967, p.3) speaks of "the self-deception shared by all of the characters as well as the narrator in their vain attempts to avoid the inevitable outcome of the story"---as if the only rational behavior in a deterministic world is to stay in bed and wait for the inevitable to happen.
 
-\[35] This inverted mirroring of Walter's lusts onto Griselda's will is completely missing from Petrarch and the anonymous French version, both of which speak throughout this speech of a conformity at the level of will (voluntas, voulenté). The pains that Chaucer takes to drive home the inversion is quite striking on close inspection. The word 'lust' in its various noun and verbal forms is associated 21 times with Walter, whereas a connection with Griselda comes only twice: once negatively, when she is said to have "no likerous lust" (214, as quoted earlier), and once when the clerk tells us that "as Walter leste, / The same lust was hire plesance also" (716--17), which does not quite ascribe these lusts to her. That passage, as it happens, is the only place that Griselda is characterized as having "plesance" a term that is associated seven times with Walter.
+[^18] 
 
-\[36] Critics often take for granted that Griselda's initial vow is what motivate her ongoing obedience to Walter (see Mann 2002, p.114; and, Finnegan, 1994). For a brief account of the scholastic attitude toward oaths that clash with other moral commitments see Aquinas: Summa Theol. (2a2ae 89.7). Scotus's Ordinatio (III.39) offers a much more searching discussion of the issues. For further references see Finnegan (1994). The ecclesiastical Latin term for the sort of oath one swears before God in marriage is iuramentum, and periurium is the term for the breaking of such an oath.
+Troilus's is a textbook case of acedia, as characterized in the common biblical gloss as "a listlessness of mind that neglects to undertake good things" (as quoted in Aquinas, Summa theol. 2a2ae 35.1). Despair is one of the "children" of acedia: it is a lack of hope resulting from the belief that some good is impossible to achieve (Aquinas, Summa theol. 2a2ae 20.1, 35.4 obj. 2 & ad 2). Strictly, these are both theological vices, and in that case, they concern the ultimate good of God. An internal reading of the poem transposes these vices onto Troilus's attitude toward Criseyde.
 
-\[37] See lines 343, 1053, and 866, where she characterizes herself as having brought from her father's house "noght elles ... but feith, and nakednesse, and maydenhede." Petrarch invokes faith at the very start of his version, entitling it a tale of "remarkable wifely obedience and faith."
+[^19] 
 
-\[38] Readers who might have lost sight of the transparent falseness of Walter's conduct get a reality check when Griselda is finally expelled from the palace and sent back to her father. Janicula, we then learn, "was evere in suspect of hir mariage" (905). Could Griselda have been so much more foolish than that?
+We are told explicitly that Criseyde is deficient with regard to courage (II.450, V.825) and prudence (V.744--45). As for her injustice (toward Troilus) and her (sexual) intemperance, readers must judge for themselves. On the traditional understanding of the cardinal virtues they stand or fall together as a unity: one has either all of them or none of them (see Aristotle, Nic. Ethics VI.13). For the voluntaristic thesis that all the moral virtues are virtues of the will see Kent (1995).
 
-\[40] Once Griselda leaves home for the palace, her father drops out of the poem, until she is cast out and falls back into his arms. Then, once the final test has concluded and all has been revealed, we are told that Janicula is finally allowed to live in the palace (1133). Petrarch, characteristically, makes an excuse for Walter's having taken so long to allow this (391--93), an excuse that Chaucer omits. Neither offers any excuse for Griselda's having abandoned her father.
+[^20] 
 
-\[41] Strikingly, both Petrarch (256) and the anonymous French version (241) render this line as "to our love," but Chaucer's poem hardly takes such mutuality for granted. I can find only one place where Walter expresses his love for her: "and though to me that ye be lief and deere" (479), and this comes as he prepares her to lose her daughter. Griselda herself invokes his love for her only so as to describe its waning (857) and then in celebration of its final renewal (1091). There are at least ten places where the poem speaks of his being loved, by Griselda and others. Characteristically, when Walter reassures himself that Griselda does love her children, he puts the thought to himself in the only way he can find tolerable: "But wel he knew that next hymnself, certayn, / She loved hir children best in every wyse" (694--95). Georgianna (1995, p.805) registers that love is Griselda's motive, remarking that "the only motive Griselda ever offers for her assent is love, which is less an explanation than a synonym for her assent". I hope that my account of the poem makes clear how her vow of love is, in the medieval context, a very rich explanation.
+See Nic. Ethics I.10, 1100a18--21: "both evil and good are thought to exist for someone who is dead, as much as for one who is alive but not aware of them; e.g. honors and dishonors and the good or bad fortunes of children and in general of descendants." Consol. Ipr4 shows the prisoner worrying about his reputation. That women in particular should be concerned for their reputation is an imperative within the medieval conventions of courtly love (see Dodd 1961, pp. 5--6).
 
-\[42] A medieval Christian audience would immediately recognize that Griselda's speech is a distorted echo of what is arguably the most important line in the entire Bible, Mattthew 22:37, where Jesus explains, reciting Deuteronomy 6:5, that "the first and greatest commandment" of religious law is "Love the Lord your God with all your heart and with all your soul and with all your mind." For the connection to charity see, e.g., Scotus, Ordinatio III.27 (tr. 2017), which offers a systematic argument for why it is the supernaturally infused virtue of charity that inclines us to love God in this way.
+[^21] 
 
-\[44] A wanton, in the sense made philosophically famous by Frankfurt (1971), is someone who has various first-order desires for things in the world but lacks the second-order ability to choose among those desires, and so drifts along in life from one desire to another. Such beings, Frankfurt argues, do not count as persons and lack freedom of will.
+For a prominent example of this sort of moralizing Christian reading see Robertson (1961). Donaldson (1975, p.1144) has this sort of perspective in mind when he nicely remarks: "Some readers are apt to feel, however, that the poet's final statement cancels all the human values which his own loving treatment has made real; that he is, in effect, saying either that he ought not to have written the poem or that the reader ought not to have read it."
 
-\[45] Confessions XIII.9.10. I am not the first to stress Griselda's emergence in the poem as a rational agent characterized by the force of her will. My thinking about the poem has been particularly influenced throughout by work in progress of Elizabeth Robertson. A notable earlier example is Kirk (1990, p.117), who remarks that "what preserves Griselda's identity is nothing more or less than the intense, even excessive voluntariness of her promise". At the same time, the paradoxical character of voluntaristic obedience makes it easy to reach the seemingly contradictory conclusion that the Clerk's Tale, in John McCall's words, describes "the supernatural death of the will" (1966, p.264).
+[^22] 
 
-\[46] Sawles Warde par. 3, following a revised version of the edition and translation in Huber and Robertson (2016).
+Consol. IIpr2: "Haec nostra vis est, hunc continuum ludum ludimus; rotam volubili orbe versamus, infima summis summa infimis mutare gaudemus. Ascende si placet, sed ea lege ne utique cum ludicri mei ratio poscet, descendere iniuriam putes."
 
-\[47] Sawles Warde par. 48. For a discussion of other examples of the conflict between Wit and Will, see Dickins (1937).
+[^23] 
 
-\[48] This is immediately apparent from the quotations offered in support of the first sense of 'wil (le' offered in the online Middle English Dictionary (2024). Of course, the noun 'will' has more than two senses in Middle English, just as it does today. The Oxford English Dictionary offers 23 distinct senses, and the Middle English Dictionary offers 12, and does not even separate out into different entries the senses I am distinguishing here, despite their fundamental difference.
+Dihle (1982) locates the origins of will in early Christianity; Frede (2011) points to late Stoic thought.
 
-\[49] References to Piers Plowman are to William Langland (2006). See also B.XI.45: "That witte shal torne to wrecchednesse, for wille to have his lyking!" Ralph Hanna remarks, of B.V.587/C.VII.234, that "Piers's language at this point deliberately excludes the dreamer" (Penn Commentary, II:200). But this ignores the clear equivocity of 'wille,' which here denotes a psychological feature set in essential opposition to wit, to be excluded from the castle as a matter of principle. This cannot be the sort of will with which the dreamer is identified.
+[^24] 
 
-\[50] Distinguished examples, with regard to Piers Plowman in particular, include Zeeman (2006), Coleman (1981), Simpson (1986a), and E. Robertson (2020). For a skeptical response, see Aers (2009).
+Romans 7:15-23. The Vulgate text reads as follows: "Quod enim operor non intelligo: non enim quod volo (θέλω) bonum hoc ago, sed quod odi malum illud facio. Si autem quod nolo illud facio, consentio legi, quoniam bona (καλός) est. Nunc autem iam non ego operor illud, sed quod habitat in me peccatum. Scio enim quia non habitat in me, hoc est in carne mea, bonum. Nam velle adiacet mihi: perficere autem bonum non invenio. Non enim quod volo bonum, hoc facio: sed quod nolo malum, hoc ago. Si autem quod nolo illud facio, iam non ego operor illud, sed quod habitat in me peccatum. Invenio igitur legem volenti mihi facere bonum quoniam mihi malum adiacet. Condelector enim legi Dei secundum interiorem hominem. Video autem aliam legem in membris meis, repugnantem legi mentis meae, et captivantem me in lege peccati, quae est in membris meis."
 
-\[51] See the nuanced discussion of Will as fool in Carruthers (1973, p.5) as well as the sweeping account in Aers (2015, p.126) of the significance of locating Will among the fools, arrayed against the institutions of power.
+[^25] 
 
-\[52] On the complexities of allegory in Langland, see Mann (2010). For the case of the soul's faculties in particular, see Raskolnikov (2009), ch. 5.
+For a good example of the perplexity that has been generated, see Matthews (1984). For a response, see Kretzmann (1988). Kretzmann in turn draws on Thomas Aquinas's commentary on Romans 7 (Thomas Aquinas 1929).
 
-\[53] Here I am indebted to conversation with Kate Crassons and Beth Robertson.
+[^26] 
 
-\[54] That we acquire information from the senses, and from intellectual abstraction therefrom, is a commonplace within the Aristotelian tradition. The role of external authority is stressed in particular by Augustine, famously at De trinitate XV.12.21: "Let it be far from us to deny that we know what we have learned from the testimony of others".
+See Aquinas, Summa Theol. (1a 83.1 ad 1), and, at greater length, his commentary on Romans. For Augustine, see Sermones ad populum (154.3).
 
-\[55] My thoughts here have benefited substantially from remarks in Simpson (2007, p.163): "If Will has never seen charity ..., this is surely because he is himself, as the will, the locus of charity; to look for charity 'bifore' or 'bihynde' is simply to miss the obvious by looking in front of one's nose."
+[^27] 
 
-\[56] Here I agree with Aers (2009, p.56): "there is no warrant for those readings of Piers Plowman that assert a movement in the poem setting aside ratiocination and argument." At the same time, the poem's voluntarism creates a certain tension in this commitment to rational inquiry, as is beautifully captured in Simpson (2007), who speaks of "a deep uncertainty about the value of learning in the poem" (61).
+It is a telling sign of Aquinas's prevailing intellectualist orientation that he takes Paul's 'I' in this passage to refer to his intellect: "'I' is understood as the human being's reason, which is principal within a human being, and thus it seems that each human being is his reason or his intellect" (Thomas Aquinas 1929, 7.3).
+
+[^28] 
+
+I follow the edition of The Riverside Chaucer, where the Clerk's Tale appears at the start of fragment IV. Petrarch's version is found in Epistolae Seniles XVII.3; I follow Thomas Ferrell's Latin--English edition as printed in Correale and Hamel (2002), I:108--29. That work also contains the text and translation of an anonymous French version that was also among Chaucer's sources. It is unclear whether he knew Boccaccio's original, but his connections with Italy make that not implausible.
+
+[^29] 
+
+It is a commonplace among recent critics to observe that the Clerk's Tale is problematic both as a parable and as a moral exemplum for wives. The most influential statement of that case remains Salter (1962), who concludes that the tale is a failure. Much of the critical literature in the sixty years since Salter's essay has attempted to find some strategy for rescuing the poem from that despairing verdict. For a good sense of the ongoing puzzlement over the tale as a moral exemplar see Mitchell (2005). For a vigorous attempt to defend Griselda as a moral exemplar see Morse (1985).
+
+[^30] 
+
+Petrarch's Walter describes himself as "the freest man I have known" (104), a line that Petrarch seems to accept uncritically, but that Chaucer simply omits.
+
+[^31] 
+
+Griselda's exceptional produce, or wisdom, is particularly attested at 428--34 and 1016--22. Even the sergeant who takes her babies recognizes it (528). As for Walter, the poem cautiously remarks that "the peple hym heelde / A prudent man" (426--27) because of his discovering Griselda's virtue amidst her poverty, but then offers a foreboding caution, not present in Chaucer's sources, that "that is seyn ful seelde" (very seldom seen).
+
+[^32] 
+
+Petrarch's version of this scene (150--61) is different in crucial ways: it ennobles Walter by having him frame his demand in terms of his will (voluntas); it suggests his concern for her inner mental life in his asking whether she is ready to swear with a willing spirit (volenti animo); and it diminishes Griselda's response by restricting it to a pledge not to act or think otherwise than what Walter wants, omitting the crucial idea of a union of wills. And since Petrarch's Griselda has given Walter exactly what he wanted, his response "satis est" comes off as a dry acknowledgment that she has met his expectations. The anonymous French translation adheres closely with Petrarch on all these details (109--124).
+
+[^33] 
+
+The question of Griselda's underlying emotional state is explored in detail in Bugbee (2019, pp. 41--79). But the otherwise illuminating discussion suffers from a failure to distinguish between the conformity Griselda vows at the level of rational appetite (will) and the sorrow she permits herself subrationally.
+
+[^34] 
+
+This inverted mirroring of Walter's lusts onto Griselda's will is completely missing from Petrarch and the anonymous French version, both of which speak throughout this speech of a conformity at the level of will (voluntas, voulenté). The pains that Chaucer takes to drive home the inversion is quite striking on close inspection. The word 'lust' in its various noun and verbal forms is associated 21 times with Walter, whereas a connection with Griselda comes only twice: once negatively, when she is said to have "no likerous lust" (214, as quoted earlier), and once when the clerk tells us that "as Walter leste, / The same lust was hire plesance also" (716--17), which does not quite ascribe these lusts to her. That passage, as it happens, is the only place that Griselda is characterized as having "plesance" a term that is associated seven times with Walter.
+
+[^35] 
+
+Critics often take for granted that Griselda's initial vow is what motivate her ongoing obedience to Walter (see Mann 2002, p.114; and, Finnegan, 1994). For a brief account of the scholastic attitude toward oaths that clash with other moral commitments see Aquinas: Summa Theol. (2a2ae 89.7). Scotus's Ordinatio (III.39) offers a much more searching discussion of the issues. For further references see Finnegan (1994). The ecclesiastical Latin term for the sort of oath one swears before God in marriage is iuramentum, and periurium is the term for the breaking of such an oath.
+
+[^36] 
+
+See lines 343, 1053, and 866, where she characterizes herself as having brought from her father's house "noght elles ... but feith, and nakednesse, and maydenhede." Petrarch invokes faith at the very start of his version, entitling it a tale of "remarkable wifely obedience and faith."
+
+[^37] 
+
+Readers who might have lost sight of the transparent falseness of Walter's conduct get a reality check when Griselda is finally expelled from the palace and sent back to her father. Janicula, we then learn, "was evere in suspect of hir mariage" (905). Could Griselda have been so much more foolish than that?
+
+[^38] 
+
+Once Griselda leaves home for the palace, her father drops out of the poem, until she is cast out and falls back into his arms. Then, once the final test has concluded and all has been revealed, we are told that Janicula is finally allowed to live in the palace (1133). Petrarch, characteristically, makes an excuse for Walter's having taken so long to allow this (391--93), an excuse that Chaucer omits. Neither offers any excuse for Griselda's having abandoned her father.
+
+[^39] 
+
+Strikingly, both Petrarch (256) and the anonymous French version (241) render this line as "to our love," but Chaucer's poem hardly takes such mutuality for granted. I can find only one place where Walter expresses his love for her: "and though to me that ye be lief and deere" (479), and this comes as he prepares her to lose her daughter. Griselda herself invokes his love for her only so as to describe its waning (857) and then in celebration of its final renewal (1091). There are at least ten places where the poem speaks of his being loved, by Griselda and others. Characteristically, when Walter reassures himself that Griselda does love her children, he puts the thought to himself in the only way he can find tolerable: "But wel he knew that next hymnself, certayn, / She loved hir children best in every wyse" (694--95). Georgianna (1995, p.805) registers that love is Griselda's motive, remarking that "the only motive Griselda ever offers for her assent is love, which is less an explanation than a synonym for her assent". I hope that my account of the poem makes clear how her vow of love is, in the medieval context, a very rich explanation.
+
+[^40] 
+
+A medieval Christian audience would immediately recognize that Griselda's speech is a distorted echo of what is arguably the most important line in the entire Bible, Mattthew 22:37, where Jesus explains, reciting Deuteronomy 6:5, that "the first and greatest commandment" of religious law is "Love the Lord your God with all your heart and with all your soul and with all your mind." For the connection to charity see, e.g., Scotus, Ordinatio III.27 (tr. 2017), which offers a systematic argument for why it is the supernaturally infused virtue of charity that inclines us to love God in this way.
+
+[^41] 
+
+A wanton, in the sense made philosophically famous by Frankfurt (1971), is someone who has various first-order desires for things in the world but lacks the second-order ability to choose among those desires, and so drifts along in life from one desire to another. Such beings, Frankfurt argues, do not count as persons and lack freedom of will.
+
+[^42] 
+
+Confessions XIII.9.10. I am not the first to stress Griselda's emergence in the poem as a rational agent characterized by the force of her will. My thinking about the poem has been particularly influenced throughout by work in progress of Elizabeth Robertson. A notable earlier example is Kirk (1990, p.117), who remarks that "what preserves Griselda's identity is nothing more or less than the intense, even excessive voluntariness of her promise". At the same time, the paradoxical character of voluntaristic obedience makes it easy to reach the seemingly contradictory conclusion that the Clerk's Tale, in John McCall's words, describes "the supernatural death of the will" (1966, p.264).
+
+[^43] 
+
+Sawles Warde par. 3, following a revised version of the edition and translation in Huber and Robertson (2016).
+
+[^44] 
+
+Sawles Warde par. 48. For a discussion of other examples of the conflict between Wit and Will, see Dickins (1937).
+
+[^45] 
+
+This is immediately apparent from the quotations offered in support of the first sense of 'wil (le' offered in the online Middle English Dictionary (2024). Of course, the noun 'will' has more than two senses in Middle English, just as it does today. The Oxford English Dictionary offers 23 distinct senses, and the Middle English Dictionary offers 12, and does not even separate out into different entries the senses I am distinguishing here, despite their fundamental difference.
+
+[^46] 
+
+References to Piers Plowman are to William Langland (2006). See also B.XI.45: "That witte shal torne to wrecchednesse, for wille to have his lyking!" Ralph Hanna remarks, of B.V.587/C.VII.234, that "Piers's language at this point deliberately excludes the dreamer" (Penn Commentary, II:200). But this ignores the clear equivocity of 'wille,' which here denotes a psychological feature set in essential opposition to wit, to be excluded from the castle as a matter of principle. This cannot be the sort of will with which the dreamer is identified.
+
+[^47] 
+
+Distinguished examples, with regard to Piers Plowman in particular, include Zeeman (2006), Coleman (1981), Simpson (1986a), and E. Robertson (2020). For a skeptical response, see Aers (2009).
+
+[^48] 
+
+See the nuanced discussion of Will as fool in Carruthers (1973, p.5) as well as the sweeping account in Aers (2015, p.126) of the significance of locating Will among the fools, arrayed against the institutions of power.
+
+[^49] 
+
+On the complexities of allegory in Langland, see Mann (2010). For the case of the soul's faculties in particular, see Raskolnikov (2009), ch. 5.
+
+[^50] 
+
+Here I am indebted to conversation with Kate Crassons and Beth Robertson.
+
+[^51] 
+
+That we acquire information from the senses, and from intellectual abstraction therefrom, is a commonplace within the Aristotelian tradition. The role of external authority is stressed in particular by Augustine, famously at De trinitate XV.12.21: "Let it be far from us to deny that we know what we have learned from the testimony of others".
+
+[^52] 
+
+My thoughts here have benefited substantially from remarks in Simpson (2007, p.163): "If Will has never seen charity ..., this is surely because he is himself, as the will, the locus of charity; to look for charity 'bifore' or 'bihynde' is simply to miss the obvious by looking in front of one's nose."
+
+[^53] 
+
+Here I agree with Aers (2009, p.56): "there is no warrant for those readings of Piers Plowman that assert a movement in the poem setting aside ratiocination and argument." At the same time, the poem's voluntarism creates a certain tension in this commitment to rational inquiry, as is beautifully captured in Simpson (2007), who speaks of "a deep uncertainty about the value of learning in the poem" (61).
 
 # References
 
