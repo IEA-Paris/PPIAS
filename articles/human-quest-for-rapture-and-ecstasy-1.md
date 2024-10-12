@@ -257,7 +257,7 @@ The mild intoxicant produced by squeezing out the juice of Kava roots for drinki
 
 Young adults from these remote regions connected to the glamourous global world out there through social media are naturally enticed to dream of some departure from what is offered by their traditional culture. It certainly doesn't help with the prevention of boredom and the envy to leave to fulfill promised dreams elsewhere. That is a major source of turmoil and tension among young adults within traditional rural societies worldwide. Disparity is highlighted and promoted in the race for the glamour and unbridled fun on the internet with the irresistible posting of peak moments in life via selfies, seemingly for nothing but to create distinction for self (a life well-lived) and envy for others (sorry you can't experience this, hence your life sucks).
 
-**Rapture in early human development**
+## Rapture in early human development
 
 The evolutionary and ontogenetic roots of human rapture run deep. It lays in the basic polarized dichotomy of two basic subjective experiences express in all sentient species: the experience of *pain*, and its inverse, *pleasure*. 
 
@@ -267,9 +267,11 @@ Pain and pleasure are co-dependent and innate primordial subjective experiences.
 
 The point is that infants do not need to learn how to cry, nor to smile in *rapture*, in the dictionary sense of *feeling of intense pleasure or joy*. Although it is difficult in general, particularly with infants to measure the intensity of any feeling experience, below are two images of a 30-week-old fetus expressing a positive valence with a smile (left) and a negative valence with a frown (right), an index of some pre-natal subjective experience.
 
-**Figure 4: Positive and negative valence captured in the facial expressions of 30 week-old fetus** (from Hata et al., 2010, reproduced with permission).
+**Figure 4: Positive and negative valence captured in the facial expressions of 30 week-old fetus** 
 
-![Image](Rochat%20final%20rev.%2082024.fld/image006.png)
+![](/static/picture4.png)
+
+*(from Hata et al., 2010, reproduced with permission).*
 
 These two opposite expressions are part of 6 basic emotions captured in the first weeks of human corresponding to specific muscular molding of the face (Sadness, Happiness, Fear, Anger, Surprise, and disgust).
 
