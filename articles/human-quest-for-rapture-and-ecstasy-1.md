@@ -71,11 +71,15 @@ The goal here is to create some meanings around the universal human quest and cu
 
 The idea is to make sense of these questions in light of a major psychological trademark of our species. This trademark is *human* *self-consciousness* and the fact that like no other animals we know that we are going to die.
 
-**Self-consciousness and self-agency** 
+## Self-consciousness and self-agency 
 
 Research show that newborns do manifest an implicit sense of their own embodied self as a differentiated entities among other entities. However, it is only by 18 months after birth that they begin to manifest a sense of their own body as an objectified entity, able to identify themselves in a mirror, as in the image below of a child passing the mirror mark test. It is also around this time that children start to use personal pronouns such as "me", "mine", or "I" in their rapid language development.
 
-**Figure 2: 36 month-old child passing the mirror mark test, reaching directly to the mark surreptiously placed on his forehead that he discovered looking at himself in the mirror (Photo by the author)**
+**Figure 2: 36 month-old child passing the mirror mark test, reaching directly to the mark surreptiously placed on his forehead that he discovered looking at himself in the mirror** 
+
+![](/static/picture2.1.jpg)
+
+*(Photo by the author)*
 
 ![A child sitting on a couch
 
