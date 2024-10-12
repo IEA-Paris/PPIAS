@@ -47,7 +47,7 @@ language: English
 >
 > As a developmental psychologist, I try to offer some meanings to such phenomenon based on what we have observed in babies at my Lab and at other baby Labs, specifically the early development that leads the human child toward self-consciousness, symbolic functioning and linguistic proficiency. It is against these cardinal and unique features of the human mind that I want to consider the relentless and universal human quest and cultivation of rapture states of ecstasy. Note, per disclosure, that this article is a work in progress, laying down the foundations of what should become a book.
 
-**The question and the idea**
+## The question and the idea
 
 While travelling around the world, on all five continents, it is striking to notice that everywhere you go, from the most isolated, to the most populated and highly accessible regions of the world, humans are systematically cultivating and seeking out *states of ecstasy*. 
 
@@ -59,11 +59,9 @@ Traces of the human quest for displacement and distraction, go far back in mode
 
 **Figure 1: Indigenous Intoxicants Worldwide**
 
-![A map of the world
+![](/static/picture1.png)
 
-Description automatically generated](Rochat%20final%20rev.%2082024.fld/image002.png)
-
-(from LAPHAM'S Quarterly, vol. 6, Number 1, Winter 2013" Intoxication", pp. 10-11)
+*(from LAPHAM'S Quarterly, vol. 6, Number 1, Winter 2013" Intoxication", pp. 10-11)*
 
 Drugs, psychedelic paraphernalia and all the other cultural, ritual arrangements that exist around the world are ready-made artifacts offered to individuals to reach rapture. They are ultimate means to an irresistible and universal quest for ecstasy in the primordial Greek sense of "*to be or stand outside oneself, a removal to elsewhere*". 
 
