@@ -110,6 +110,8 @@ The hamlet has a specific ritual life, which is usually "embedded" in communal r
 
 **Figure 3 Joseph Calcius, Trinity, Blins, 1758** 
 
+![](/static/picture3.png)
+
 *(Photo G. Olivero)*
 
 This aspect is of crucial importance, since it refers back to a quality of the third person of the Trinity, the pneuma, capable of infusing collegial gatherings with legitimacy, as countless images from the last centuries of the Middle Ages abundantly show (Poeck, 2003, pp. 8, 11, 26, 39, 65-6, 105, 115, 144, 206-207, 227, 263, 319; Black, 1996, p. 112).
