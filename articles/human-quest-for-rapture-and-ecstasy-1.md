@@ -79,6 +79,8 @@ Research show that newborns do manifest an implicit sense of their own embodied 
 
 ![](/static/picture2.1.jpg)
 
+![](/static/picture2.2.jpg)
+
 *(Photo by the author)*
 
 ![A child sitting on a couch
