@@ -301,7 +301,7 @@ The format of these early interpersonal exchanges leading to social excitement a
 
 Again, infants do not need to learn the acme of pleasure and to manifest joyful rapture. They express an unmistakable positive affective state, even in-utero. However, what determines such expression is endogenous at first (feeding and the acme linked to the engagement of the infant's opioid system and ensuing effect of endorphins), becoming by the second month newly determined in the social context of face-to-face exchanges with scaffolding others.
 
-**Revolutionary conundrum by 9 months**
+## Revolutionary conundrum by 9 months
 
 Beyond two months, with drastic gains in postural control and behavioral freedom, infants grow in independence from others, starting to initiate exploration of their physical environment. By six months their attention turns more toward objects (Rochat, 2006). They abandon their primary attention to people to focus more on physical objects and what they can do. 
 
@@ -315,7 +315,7 @@ Aside from putatively resolving such a conundrum, the emergence of joint attenti
 
 In the affective and relational domain, infants from around 7 months also begin to show renewed engagement initiatives. They become more explicit actors and not just passive recipients or simple responders to others' initiatives in the quest for happy exchanges. They begin to initiate rapture by clowning and monitoring their audience, repeating what leads to positive reactions from the audience, even if it was initially accidental. They will tend to re-engage an adult adopting a still face, suddenly freezing during a face-to-face exchange. Prior to approximately seven months, it is well established that infants respond negatively to the sudden still face of a social partner with emotional withdrawal, negative affect and distress (crying) when the still face is prolonged. By seven months, the infant becomes an active creator and corrector of ill- or interrupted exchanges with others, such as in the case of a sudden still face, trying to bring back the still-faced adult toward a previous happy rapture (Striano & Rochat, 1999).
 
-**Self-consciousness proper by 18 months**
+## Self-consciousness proper by 18 months
 
 Beyond nine months, aside from acquiring greater postural control and getting at the threshold of the symbolic gate, infants also develop budding self-consciousness: *the ability to reflect upon oneself as an object of contemplation and evaluation*.
 
@@ -325,17 +325,17 @@ As precursor signs of self-consciousness, by fourteen months, and not by nine mo
 
 From around eighteen months, infants start to show first signs of a budding sense of reputation: the calculation and systematic quest for positive valuation from others. Children, for example, will start to avoid performing actions that may be disapproved by an adult. They will however rush to do it if the adult turns her back (Botto & Rochat, 2018). It is also from this time on that they will become better at lying to cover up a transgression, starting to engage in image management (Rochat & Guo, 2021).
 
-**Developmental summary**
+## Developmental summary
 
 This rapid survey on rapture in early development was meant to point that the *feeling expression of intense pleasure or joy* (i.e., rapture) is an innate subjective experience. It is reasonable to think that, in general, subjective experience finds its roots in the womb. There is indeed good reason, for example, to posit that pain (the opposite of rapture) is most likely present in fetus as young as thirty weeks, with all necessary underlying cerebral systems formed and responding to painful stimulations (Anand & Hickey, 1987). Externalized human fetuses show instinctive behavioral avoidance via bodily refraction in response to a needle prick (Hooker, 1952). Approach-avoidance and feeling experiences are expressed by mid-gestation, and we have seen that positive as well as negative facial expressions are detected in fetuses by the last trimester of pregnancy. 
 
 We may thus conclude that the positive-negative polarity of feeling experience (what is it like to be in pain or in rapture) has pre-natal roots. We can also conclude that babies are born in a world of values, things that drive them towards approach (e.g., sucrose taste) versus those that drive them towards avoidance (e.g., lemon taste), each associated with specific facial expressions. Newly born infants do prefer some things over others. They possess an affective compass that is a part of their evolved biological make-up. Elation at birth is supported by neuro-chemical substances (endorphins and the opioid system) that are pain reducers associated with intense pleasure as seen in the unmistakable elation of newborns after a good feed, with total relaxation, arms spread out, smiling with their eyes rolling back behind their eyelids, not unlike junkies following heroin or morphine injection (see Blass, 1987).
 
- Rapture as intense pleasure changes expression and meaning by 2, 9, and 18 months, as the child becomes increasingly attuned to their social and physical environment. Their elation is triggered, not just by food, but in relation to others, manifesting rapture in social face-to-face exchanges by 2-months, or actively bringing with them the attention of others while exploring the environment away from the secure base of familiar individuals with the emergence of self-locomotion. 
+Rapture as intense pleasure changes expression and meaning by 2, 9, and 18 months, as the child becomes increasingly attuned to their social and physical environment. Their elation is triggered, not just by food, but in relation to others, manifesting rapture in social face-to-face exchanges by 2-months, or actively bringing with them the attention of others while exploring the environment away from the secure base of familiar individuals with the emergence of self-locomotion. 
 
 By the middle of the second year, infants become active in the way they present themselves to the world, seeking approval and positive values through the evaluative eyes of others. The quest for rapture becomes self-conscious (Rochat, 2018).
 
-**Human play rapture**
+## Human play rapture
 
 Play, games and gambling are expressions of the instinctive drive to get absorbed and excited away from a mundane, dead-ending default survival mode. It is the mark of a deep quest for rapture and ecstasy, a quest we do share with other animals. However, human play is unmatched when by the end of the second year, it becomes both self-conscious and symbolic. 
 
@@ -345,11 +345,11 @@ Other human games, whether under rule constraints (*Ludus*) such as in sport com
 
 In the vernacular sense, human plays and games are distractions or "entertainment", self-conscious activities toward diverting oneself from mundane mortal existence, a relief from self-conscious being. Human games are thus different from all other animal plays or animal activities with no apparent survival values such as protecting, procreating, or hunting for calories. Most animals engage in such activities, especially when they are young. Because of their symbolic, ruled based, and recursive (self-conscious) dimension, human plays and games are unique and incommensurable compared to the play expressed in other species.
 
- Human motives to play add a systematic distraction dimension rooted in self-consciousness and mortality awareness. We self-consciously entertain ourselves trying to get out of mind, trying to escape self-rumination and dead-end cogitation. Like all forms of human art, human play is an escape from self-conscious mortal reality. 
+Human motives to play add a systematic distraction dimension rooted in self-consciousness and mortality awareness. We self-consciously entertain ourselves trying to get out of mind, trying to escape self-rumination and dead-end cogitation. Like all forms of human art, human play is an escape from self-conscious mortal reality. 
 
 At a proximal level, it is a cultivation of fun times that contrast with survival chore existence. However, in the context of human self-conscious and mortality aware existence, human play is ultimately a deliberate attempt at numbing such awareness in ecstasy. Play, like humor, is escapism.
 
-**Human laughter and surprise**
+## Human laughter and surprise
 
 Laughter is not proper to humans as some have proposed. Chimpanzees, aside from making distinct play faces, also emit panting sounds that are homologous to human laughter. Aside from all great apes, dogs, rats, and even penguins (an avian species) emit laughing-like sounds when tickled. Interestingly, as for humans, no such sounds are expressed when self-tickling. The robust fact that mirth is not associated with self-tickling indicates that the element of surprise and the loss of intentional control is an important component of laughter, in humans as well as in some nonhuman animals.  
 
