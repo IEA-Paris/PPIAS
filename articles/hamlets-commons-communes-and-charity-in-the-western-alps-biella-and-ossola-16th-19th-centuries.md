@@ -140,9 +140,9 @@ It becomes immediately understandable, from this point of view, why, with the de
 
 The considerations we have made so far identify a series of themes - from the process of succession to the politics of kinship, from legal recognition to ceremonial activities, from devotional activities to charitable ones - that allow us to understand the existence of a state, latent or explicit, of tension that we might define as territorial, or that in any case expresses itself on a territorial level. This tension, which in the light of these elements we might define as "structural" or inherent in the society of the ancient regime, nevertheless results in apparently discontinuous and contradictory outcomes. In some places, one or more hamlets obtain recognition and visibility in local life, participate in the deliberations of town councils, and feel they belong to them; in other places, they adopt measures that constantly reaffirm the hamlet's "separate" identity and go so far as to suggest the hamlet's achievement of ceremonial autonomy and further on of administrative autonomy with the creation of a new, proper municipality.
 
-**Figure 5.** 
+**Figure 5 The Piedmont's provinces of Biella (blue) and Ossola (red)**
 
-The Piedmont's provinces of Biella (blue) and Ossola (red)
+![](/static/picture5.png)
 
 Here I would like to briefly examine some of the outcomes that the territorial tension between hamlets and the rural commune has produced, and then try to explain its logic in morphological terms.
 
