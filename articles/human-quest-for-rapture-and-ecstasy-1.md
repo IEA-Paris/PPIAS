@@ -449,17 +449,17 @@ According to this idea, the common denominator of all trance practices, but also
 
 Again, human mortal sense is the ultimate source of a fundamental obsession I have been trying to link to the human quest and cultivation of rapture and ecstasy. It is what possibly underlies all forms of human ritualistic practices, artistic raptures and sublimation, whether expressed through joy, fear, religious ecstasy, or denial (Becker, 1973).
 
-            To let go of our default mode of existence, dictated by the contingencies of mere survival and comfort maintenance, engaging in play activities suspending such default mode and returning back to it, is a fundamental back and forth game played by all humans and cultivated in all human societies as far back as we can reconstruct our origins. 
+To let go of our default mode of existence, dictated by the contingencies of mere survival and comfort maintenance, engaging in play activities suspending such default mode and returning back to it, is a fundamental back and forth game played by all humans and cultivated in all human societies as far back as we can reconstruct our origins. 
 
 Humans brought play and suspension of reality to incomparable levels of creativity with a mind that is both symbolic and self-conscious, ultimately aware of the necessary future demise of their own self-agency, hence the demise of their being.
 
-            Playing back-and-forth game of imagined self-abandonment, returning to a default mode of existence, is the self-conscious mind game that we see instantiated in all our quests for rapture and ecstasy, all the trance states we cultivate since the origins. It is also, by analogy, what babies do from birth and prior, experiencing the limits of what their body affords for action and exploration. 
+Playing back-and-forth game of imagined self-abandonment, returning to a default mode of existence, is the self-conscious mind game that we see instantiated in all our quests for rapture and ecstasy, all the trance states we cultivate since the origins. It is also, by analogy, what babies do from birth and prior, experiencing the limits of what their body affords for action and exploration. 
 
 Once starting to become self-conscious and symbolic (from approximately 18 months), children start to play with their imagination by impersonating and seeking altered states of consciousness and other dissociative experiences that we inevitably cultivate throughout the lifespan.
 
-**Centrifugal vs. centripetal rapture** 
+## Centrifugal vs. centripetal rapture 
 
-            If we try to create a taxonomy of trance states, probably the most basic distinction to make is between two basic forms of rapture: *outward* and *inward* raptures. 
+If we try to create a taxonomy of trance states, probably the most basic distinction to make is between two basic forms of rapture: *outward* and *inward* raptures. 
 
 *Outward* raptures are associated with a fusion process with external entities or forces, as in the case of falling in love with another person or falling into devotion and admiration for a charismatic leader. It is the product of a particular link to outside agents. 
 
@@ -469,7 +469,7 @@ We may call the first a centrifugal rapture (an outward self-abandonment), the l
 
 In both instances of centrifugal and centripetal raptures, there is self-abandonment and reverse agency away from the default mode of being in the world, but in opposing directions. Both have in common the letting go of a default mode, the main psychological characteristic of all trances, regardless of their engine.
 
-**The primacy of centrifugal rapture**
+## The primacy of centrifugal rapture
 
 From a developmental perspective, from 2 months infants opens up to the sharing of experience with others (see previous section). This is indexed by the universal emergence of socially elicited smiling, the first sign of subjective rapture other than the "high" expressed by newborns after a good feed which is associated with sucrose and the triggering of the endogenous opioid system (see previous section on rapture in development). 
 
