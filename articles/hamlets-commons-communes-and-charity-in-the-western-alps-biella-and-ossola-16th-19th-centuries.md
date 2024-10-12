@@ -68,11 +68,13 @@ However, the Perequazione had an undeclared purpose, common to all European land
 
 We cannot help but wonder what this tension and conflict was based on. Certainly, the administrative sources of the Perequazione and the jurisdictional ones preserved for instance in the materials of the Intendenze of the Sardinian kingdom, show conflicting systems of classification of common resources. For the administration knowledge of the commons is based on the status of the land, of course, but the focus is mainly on cultivation destinations: commons are defined from time to time as wasteland, meadow, forest, clearance etc. The decisions that are made in cases of conflict show a proscriptive attitude towards destinations that are defined as "unproductive".
 
-This classification of the commons is countered by a different classification by the villagers, which I would define as being based on "emic" or "internal" categories: who has access to the commons (Cottereau & Marzok, 2012; Pike, 1967; Archivio di Stato di ~~Torino~~Turin, 1828).\[[10]](#_ftn10). For instance, the municipality of Azeglio (province of Ivrea) in the 1828 census of commons distinguished four types: a) commons   "serving only to the pasture of the hamlet of ....."; b) "serving to the "pasture of the hamlet ... and inhabitants" (of the municipality); c) serving to the "common pasture of the inhabitants"; and, d) serving to the general "common pasture" (usually really unproductive land). Alongside very few and very small commons accessible to all the inhabitants of the commune, there are important commons pertaining to both a *borgata (*hamlet) and groups of *borgate* (hamlets), which give the term "commons" a scope significantly far removed from our imprecise notion of 'common'.
+This classification of the commons is countered by a different classification by the villagers, which I would define as being based on "emic" or "internal" categories: who has access to the commons (Cottereau & Marzok, 2012; Pike, 1967; Archivio di Stato di Turin, 1828)[^10]. For instance, the municipality of Azeglio (province of Ivrea) in the 1828 census of commons distinguished four types: a) commons   "serving only to the pasture of the hamlet of ....."; b) "serving to the "pasture of the hamlet ... and inhabitants" (of the municipality); c) serving to the "common pasture of the inhabitants"; and, d) serving to the general "common pasture" (usually really unproductive land). Alongside very few and very small commons accessible to all the inhabitants of the commune, there are important commons pertaining to both a *borgata (*hamlet) and groups of *borgate* (hamlets), which give the term "commons" a scope significantly far removed from our imprecise notion of 'common'.
 
-**Figure 1** 
+**Figure 1 The fragmented, or polycentric settlement of the hamlets: the municipality of Trivero** 
 
-The fragmented, or polycentric settlement of the hamlets: the municipality of Trivero (Archivio di Stato di ~~Torino~~Turin, Map of Mosso, 1809)  
+![](/static/picture1.png)
+
+*(Archivio di Stato di Turin, Map of Mosso, 1809)*  
 
 **Figure 2** 
 
