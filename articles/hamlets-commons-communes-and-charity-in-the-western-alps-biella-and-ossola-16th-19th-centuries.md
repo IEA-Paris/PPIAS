@@ -1315,60 +1315,100 @@ ASCG, busta 2, pergamena 18: lite fra Germagno e Crana Gattugno from 1534: Archi
 
 ASCG, b. 2, Pergamene 18-21, Convention and transaction between Germagno and Gattugno for territory boundaries, 17/4/1534; bp. 21, General compromise for the division of the "estimo" between Germagno and Gattugno, 8/2/1539; b. 3, fasc. 2, Deeds of litigation with those of Gattugno, 1462-1471; b. 14, fasc. 1, Litigation between Germagno and Cranna Gattugno, with copy of deed of 1699 made in 1733 and map; b.15, fasc. 2, Litigation between Germagno and Buglio over grazing rights, 1822-1867; b. 15, fasc. 5, Litigation between Germagno and Cranna Gattugno over the social forest, 1853-1860; b. 16, fasc. 2, Judgment in the case between Germagno and Cranna Gattugno, 1869; fasc. 5-7 Settlement with Cranna Gattugno, 1875-1879; ASN, Intendenza generale, affari speciali dei comuni, b. 604, fasc. 11, Germagno, fasc. 51, Assent to take legal action against the municipality of Buglio over territorial boundary issues.
 
-\[[123]](#_ftnref123) For instance, the dispute between Germagno and Gattugno lasted from 1462 to 1879: ASCG, loc. cit.
+[^120]
 
-\[[124]](#_ftnref124) CLUC, Loreglia, b. 69, related to the "compascuo" of Loreglia, Chesio and Montebuglio, 1928-1940 and later administrative acts, 1956-1958.
+For instance, the dispute between Germagno and Gattugno lasted from 1462 to 1879: ASCG, loc. cit.
 
-\[[125]](#_ftnref125) Oreste Guglieminetti asks commune Valstrona to verify private and communal property in "Alpe Sasso Faucino" against his neighbour Clemente Corini quondam Giovanni who has encroached on the latter. Expert's report by Giovanni Guglielminetti, who searches for the certificates of usurpation of the communal property of former commune of Sambughetto, finds the booklets, carries out an inspection and declares with the agreement of the parties: Alpe Sasso Faucino consisted of 2 huts and m^2^ 257, as per map no. 38, partly cultivated and partly reduced to grassland. It was considered convenient to divide it into two pieces to be put up for auction 'so that the two present owners could each purchase the part that was theirs'. In 1877 and 1882 the area was measured on behalf of the municipality of Sambughetto, the usurped property was estimated, and two plots were formed. In 1932 it was discovered that the value of the land had never been paid by Corini, and the total measurement is m^2 ^1713. Therefore, Guglielminetti asked for the properties to be verified: the municipality could put them up for auction, and the two current owners could buy. Auction was held on 24^th^ November 1933, was deserted and so Oreste Guglielminetti bought the two plots: ASCV, b. 90.
+[^121]
 
-\[[126]](#_ftnref126) The separation of Piana from Massiola in ASN, Prefettura, Affari generali, II, cart. 553, *"*A sua Eccellenza il Ministro degli Interni, Supplica della Giunta municipale di Massiola in opposizione alla segregazione da Massiola della regione Piana per essere unita al comune di Fornero"*,* 8/6/1875 and in Regio Decreto N. 2607 del 21/07/1884. For ownership by Piana's residents in the commune of Fornero: ASN, Prefettura, Affari generali, II, cart. 553, 22/4/1885 and ASCV, Sez. Massiola, b. 22, n. 9: in 1870, during the territorial dispute, Massiola says that "some of Piana in the summer time go to dwell in hubs laying in part on the territory of Fornero".
+CLUC, Loreglia, b. 69, related to the "compascuo" of Loreglia, Chesio and Montebuglio, 1928-1940 and later administrative acts, 1956-1958.
 
-\[[127]](#_ftnref127) By commissarial decree of 26/6/1941, a list of 77 parcels of land subject to civic uses (pasture, woodland, grassland and stramatico) was drawn up, covering an area of 99 hectares (CLUC, fasc. 32, Germagno, Sottofasc. Corrispondenza, comunicazione del Commissario ai comuni di Valstrona, Massiola, Germagno. Massiola e Germagno dell 1/4/1969). Still in 1975 the expert for the Commissario alla Liquidazione degli Usi Civici, geom. Giovanni Torrero, was writing "The last three municipalities, Germagno, Loreglia and Massiola, now form restored municipalities, and in the cadastre the land falling within their territory has been attributed to them, and this must be checked as there are municipalities that owned land in the territory of others," highlighting the historical problem of compascui.
+[^122]
 
-\[[128]](#_ftnref128) Grendi (1993) first drew attention to this process as one of the driving forces of local politics.
+Oreste Guglieminetti asks commune Valstrona to verify private and communal property in "Alpe Sasso Faucino" against his neighbour Clemente Corini quondam Giovanni who has encroached on the latter. Expert's report by Giovanni Guglielminetti, who searches for the certificates of usurpation of the communal property of former commune of Sambughetto, finds the booklets, carries out an inspection and declares with the agreement of the parties: Alpe Sasso Faucino consisted of 2 huts and m^2^ 257, as per map no. 38, partly cultivated and partly reduced to grassland. It was considered convenient to divide it into two pieces to be put up for auction 'so that the two present owners could each purchase the part that was theirs'. In 1877 and 1882 the area was measured on behalf of the municipality of Sambughetto, the usurped property was estimated, and two plots were formed. In 1932 it was discovered that the value of the land had never been paid by Corini, and the total measurement is m^2 ^1713. Therefore, Guglielminetti asked for the properties to be verified: the municipality could put them up for auction, and the two current owners could buy. Auction was held on 24^th^ November 1933, was deserted and so Oreste Guglielminetti bought the two plots: ASCV, b. 90.
 
-\[[129]](#_ftnref129) Grendi (1973 was the first to point to this historical process (Lauwers, 2005).. Bascapé (1876) noted this process in Valsesia at the end of the 16th century. The 37 parishes of Valsesia in 1612 had numbered just seven a century before (see Torre, 2019, p.27). 
+[^123]
 
-\[[130]](#_ftnref130) Colombo, "Loreglia", § Liti territoriali.
+The separation of Piana from Massiola in ASN, Prefettura, Affari generali, II, cart. 553, *"*A sua Eccellenza il Ministro degli Interni, Supplica della Giunta municipale di Massiola in opposizione alla segregazione da Massiola della regione Piana per essere unita al comune di Fornero"*,* 8/6/1875 and in Regio Decreto N. 2607 del 21/07/1884. For ownership by Piana's residents in the commune of Fornero: ASN, Prefettura, Affari generali, II, cart. 553, 22/4/1885 and ASCV, Sez. Massiola, b. 22, n. 9: in 1870, during the territorial dispute, Massiola says that "some of Piana in the summer time go to dwell in hubs laying in part on the territory of Fornero".
 
-\[[131]](#_ftnref131) *Gazzetta Ufficiale del Regno D'Italia*, 6 luglio 1926, n. 154.
+[^124]
 
-\[[132]](#_ftnref132) 6 june 1775. For the study of this vast reform process, one must start with the contributions of Quazza (1957) and the collection Venturi (e.g., Venturi, 1998), or juridical aspects see Petracchi (1962), Vidari (1983), Astuti (1983; 1961).The problem is addressed by Sturani (2021)
+By commissarial decree of 26/6/1941, a list of 77 parcels of land subject to civic uses (pasture, woodland, grassland and stramatico) was drawn up, covering an area of 99 hectares (CLUC, fasc. 32, Germagno, Sottofasc. Corrispondenza, comunicazione del Commissario ai comuni di Valstrona, Massiola, Germagno. Massiola e Germagno dell 1/4/1969). Still in 1975 the expert for the Commissario alla Liquidazione degli Usi Civici, geom. Giovanni Torrero, was writing "The last three municipalities, Germagno, Loreglia and Massiola, now form restored municipalities, and in the cadastre the land falling within their territory has been attributed to them, and this must be checked as there are municipalities that owned land in the territory of others," highlighting the historical problem of compascui.
 
-\[[133]](#_ftnref133)\~\~ The problem is addressed by Sturani (2021). \~\~
+[^125]
 
-\[[134]](#_ftnref134) ASN, Department of Agogna, cart. 552, Fornero's reply to the prefect dated 7/11/1807.
+Grendi (1993) first drew attention to this process as one of the driving forces of local politics.
 
-\[[135]](#_ftnref135) The reasons for the creation of the new municipality are not entirely artificial: metallurgic industries in the small hamlet of Strona (commune of Luzzogno before 1928) are reported in Cane (1907, p.220-221).
+[^126]
 
-\[[136]](#_ftnref136) E.g. the "family tax" in 1932 is allocated by hamlets and the land survey (catasto) in 1936-1940 is made "by hamlets". A letter of August 1^st^, 1929, from the Ministry of Interior to the Novara Prefect warned of "dangers in the unions of communes in the relationships between centre and fractions (hamlets)": ASCV, B. 75, n. 12-18.
+Grendi (1973 was the first to point to this historical process (Lauwers, 2005).. Bascapé (1876) noted this process in Valsesia at the end of the 16th century. The 37 parishes of Valsesia in 1612 had numbered just seven a century before (see Torre, 2019, p.27). 
 
-\[[137]](#_ftnref137) The cases of Piana, Chesio and Otra (Cane, 1907).
+[^127]
 
-\[[138]](#_ftnref138) ASCV, the communes of Germagno, Forno, Campello Monti.
+Colombo, "Loreglia", § Liti territoriali.
 
-\[[139]](#_ftnref139) They do not appear in Dérouet (1995), although he studied settlement matrices in depth.
+[^128]
 
-\[[140]](#_ftnref140) Let me refer once again to Torre (1995), part II and part III.
+*Gazzetta Ufficiale del Regno D'Italia*, 6 luglio 1926, n. 154.
 
-\[[141]](#_ftnref141) Salt legacies are widespread in the communities of the Strona Valley and still in the 20th century: ASCV, Comune di Valstrona, b. 3, f.7, Bequest of salt of Maddalena Maranca, 1929; Comune di Massiola, b. 23, f. 2.1.2, 1742. For the legacies in the Antigorio Valley, I refer to the work on Crodo and the Cravairola pasture, forthcoming in *Quaderni storici*.
+[^129]
 
-\[[142]](#_ftnref142) ASCV, Massiola: *Confraria* di Santo Spirito, from 1618 to 1866, b. 23, n.1-3; Germagno, "Visita pastorale di mons. Bascapé", vol. 41, c. 378: families give alms to the *confraria* designed to a distribution in the day of St. Maiolo; Luzzogno, pergamena 1 B, "Nota di quelli che danno la mina al Santo Spirito", 16^th^ century. Bascapé, "Visita", Luzzogno, reports debtors to the *confraria.*
+6 june 1775. For the study of this vast reform process, one must start with the contributions of Quazza (1957) and the collection Venturi (e.g., Venturi, 1998), or juridical aspects see Petracchi (1962), Vidari (1983), Astuti (1983; 1961).The problem is addressed by Sturani (2021).
 
-\[[143]](#_ftnref143) Very detailed examples in the archives of the municipalities of Massiola, Fornero, Forno in Valstrona. V. Torre, "Valstrona", and Colombo, "Germagno", "Loreglia", "Massiola" cit. It should be noted that this process has a relevant cultural and devotional consequence: see Colombo (1997).
+[^130]
 
-\[[144]](#_ftnref144) ASCV, b.61, n. 4.
+ASN, Department of Agogna, cart. 552, Fornero's reply to the prefect dated 7/11/1807.
 
-\[[145]](#_ftnref145) Ibidem, b. 46.
+[^131]
 
-\[[146]](#_ftnref146) The new larger commune did not last, and witnessed the secession of Germagno, Loreglia and Massiola in 1955.
+The reasons for the creation of the new municipality are not entirely artificial: metallurgic industries in the small hamlet of Strona (commune of Luzzogno before 1928) are reported in Cane (1907, p.220-221).
 
-\[[147]](#_ftnref147) Lucatelli et al. (2022) to whom goes the credit for having posed the problem. More recently Borghi (2017).
+[^132]
+
+E.g. the "family tax" in 1932 is allocated by hamlets and the land survey (catasto) in 1936-1940 is made "by hamlets". A letter of August 1^st^, 1929, from the Ministry of Interior to the Novara Prefect warned of "dangers in the unions of communes in the relationships between centre and fractions (hamlets)": ASCV, B. 75, n. 12-18.
+
+[^133]
+
+The cases of Piana, Chesio and Otra (Cane, 1907).
+
+[^134]
+
+ASCV, the communes of Germagno, Forno, Campello Monti.
+
+[^135]
+
+They do not appear in Dérouet (1995), although he studied settlement matrices in depth.
+
+[^136]
+
+Let me refer once again to Torre (1995), part II and part III.
+
+[^137]
+
+Salt legacies are widespread in the communities of the Strona Valley and still in the 20th century: ASCV, Comune di Valstrona, b. 3, f.7, Bequest of salt of Maddalena Maranca, 1929; Comune di Massiola, b. 23, f. 2.1.2, 1742. For the legacies in the Antigorio Valley, I refer to the work on Crodo and the Cravairola pasture, forthcoming in *Quaderni storici*.
+
+[^138]
+
+ASCV, Massiola: *Confraria* di Santo Spirito, from 1618 to 1866, b. 23, n.1-3; Germagno, "Visita pastorale di mons. Bascapé", vol. 41, c. 378: families give alms to the *confraria* designed to a distribution in the day of St. Maiolo; Luzzogno, pergamena 1 B, "Nota di quelli che danno la mina al Santo Spirito", 16^th^ century. Bascapé, "Visita", Luzzogno, reports debtors to the *confraria.*
+
+[^139]
+
+Very detailed examples in the archives of the municipalities of Massiola, Fornero, Forno in Valstrona. V. Torre, "Valstrona", and Colombo, "Germagno", "Loreglia", "Massiola" cit. It should be noted that this process has a relevant cultural and devotional consequence: see Colombo (1997).
+
+[^140]
+
+ASCV, b.61, n. 4.
+
+[^141]
+
+Ibidem, b. 46.
+
+[^142]
+
+The new larger commune did not last, and witnessed the secession of Germagno, Loreglia and Massiola in 1955.
+
+[^143]
+
+Lucatelli et al. (2022) to whom goes the credit for having posed the problem. More recently Borghi (2017).
 
 For the follow-up see *Strategia nazionale per le Aree interne: definizione, obiettivi, strumenti e governance*, rintracciabile in Ministero dell'Istruzione e del Merito (2018). A limited discussion of the role of historians in the analysisof internal areas in Marchetti, Panunzi & Pazzagli (2017). The Northern League is a good example of how analyses of the local stop at the threshold of language and imagination: see respectively Dematteo (2014) and Aime (2012). For a different approach to territorial cultures see. Franzinetti (1993). For a very detailed enquiry see De Rossi (2014).
-
-[**\~\~**\~\~\[148]\~\~**\~\~**](#_ftnref148)\~\~ For a very detailed enquiry see De Rossi (2014).\~\~
-
-- - -
-
- \[[A1]](#_msoanchor_1)New Ftn 71 merge the suppressed sentence and the old Ftn 72
