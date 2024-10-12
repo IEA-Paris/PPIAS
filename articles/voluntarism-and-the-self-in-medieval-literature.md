@@ -70,13 +70,13 @@ The essential plotline of *Troilus and Criseyde* can be conveyed quickly. Troi
 
 From the poem's terse opening lines Chaucer makes clear that what fundamentally drives the action is the quest for happiness, and in particular Troilus's progress "Fro wo to wele \[wellbeing], and after out of joie" (I.3)[^6]. Having described the woe of unrequited love in the first two books, the proem to Book III then announces its need to "tell anonright the gladnesse / Of Troilus ... / To which gladnesse, who nede hath, God hym brynge" (III.47--49). The start of Book V then describes Troilus's state of mind at the pivotal moment when he must escort Criseyde from Troy to the Greek camp:
 
-> "This Troilus, withouten reed or loore, without plan or direction
+> "This Troilus, withouten reed or loore, *without plan or direction*
 >
 > As man that hath his joies ek forlore,
 >
 > Was waytyng on his lady evere more
 >
-> As she that was the sothfast crop and more the true leaf and root
+> As she that was the sothfast crop and more *the true leaf and root*
 >
 > Of al his lust or joies heretofore.
 >
@@ -88,11 +88,11 @@ Chaucer uses "joy" three times here to stress what it is that Troilus is losing,
 
 The poem takes for granted the philosophers' consensus that everyone seeks happiness. What the poem presses us to consider is just what such happiness consists in. In the passage just quoted, we are told that Troilus had fixated on Criseyde as the ultimate end of all his desires: she was "crop and more \[root] of all his lust or joies." Up until the very end of the poem his single-minded focus gets taken for granted as just the sort of thing one should expect a noble young warrior to do, and our hero's successes in this domain are uncritically described as bringing him the most perfect sort of happiness. The narrator, indeed, struggles throughout Book III to convey the extent of their happiness:
 
-> "Of hire delit or joies oon the leeste hire : their | oon : any of
+> "Of hire delit or joies oon the leeste *hire : their | oon : any of*
 >
 > Were impossible to my wit to seye; (III.1310--11)
 >
-> And lat hem in this heavene blisse dwell him : them
+> And lat hem in this heavene blisse dwell *him : them*
 >
 > That is so heigh that al ne kan I tell." (III.1322--23)
 
@@ -100,7 +100,7 @@ These are reports only of their first night together. With subsequent meetings t
 
 If we take the narrator at their word, our heroes achieve at this midpoint of the poem the very summit of happiness (Windeatt, 2023, pp.195--201). But part of what makes the poem so challenging to interpret is that the narrator's word clearly is not to be taken at face value. Theirs is, indeed, the most unsophisticated voice in the entire poem, consistingly offering a naïve construal of the events taking place. From the perspective of Boethius or of any philosophical tradition, joy of the sort that the narrator finds so transcendent should not be the ultimate end of any human life. And lest one thinks that the narrator might be tacitly distinguishing between joy and true happiness, we are explicitly told that what Troilus and Criseyde have is better than the "felicite" of the philosophers:
 
-> "Felicite, which that thise clerkes wise clerkes : scholars
+> "Felicite, which that thise clerkes wise *clerkes : scholars*
 >
 > Comenden so, ne may nought here suffise;
 >
@@ -112,13 +112,13 @@ Chaucer has a wide repertoire of words that he can use to talk with some nuance 
 
 Closely linked to the what-is-it question of happiness lies the question of why happiness is so fleeting in this life. This *is* a concern the narrator takes seriously, and which they frame in terms of the vicissitudes of fortune. At a crucial moment in Pandarus's scheme to get Troilus into bed with Criseyde the narrator gestures toward its power:
 
-> "But O Fortune, executrice of wierdes, wierdes : fate
+> "But O Fortune, executrice of wierdes, *wierdes : fate*
 >
 > O influences of thise hevenes hye!
 >
-> Soth is, that under God ye ben oure hierdes hierdes : shepherds
+> Soth is, that under God ye ben oure hierdes *hierdes : shepherds*
 >
-> Though to us bestes ben the causez wrie." (III.617-20) wry : concealed
+> Though to us bestes ben the causez wrie." (III.617-20) *wry : concealed*
 
 The narrative abounds with other such references to fortune, often personified as a goddess. The characters themselves likewise dwell on the role of fortune, but display markedly different attitudes. Troilus's attitude, from the start, is one of despair. Even before he has made any effort to pursue a relationship with Criseyde he is convinced that "Fortune is my foe" (I.837), and when he receives the devastating news that Criseyde is to be sent to the Greeks he devotes an eleven-stanza apostrophe to Fortune and the various other forces oppressing him, calling on Fortune to kill him rather than continue to torment him (IV.260--336). Confronted with the same events, other characters react quite differently. Pandarus's advice to both Troilus and Criseyde is to take advantage of fortune as best they can: the trick is to be ready when the wheel of fortune turns in their direction. Criseyde's attitude is more complex. Chaucer ascribes to her a dense 24-line argument, closely paraphrasing a passage from the *Consolation of Philosophy*, which draws on the inevitably transitory character of earthly pleasure to conclude that "ther is no verray weele \[true wellbeing] in this world heere" (III.836)[^8]. Whereas Pandarus wants the lovers to play to win the game of fortune, and Troilus despairs of winning even from the start, Criseyde sees no path other than to make the best of things. In her final private conversation with Troilus, as she brings to its conclusion her elaborate case for why Troilus should let her go to the Greeks and await her return, she urges Troilus to take control over fortune by embracing the virtue of patience:
 
@@ -126,9 +126,9 @@ The narrative abounds with other such references to fortune, often personified a
 >
 > By pacience, and thynk that lord is he
 >
-> Of Fortune ay that naught wole of hire recche, who will always think nothing of her
+> Of Fortune ay that naught wole of hire recche, *who will always think nothing of her*
 >
-> And she ne daunteth no wight but a wretch." (IV.1586--89) wight : person
+> And she ne daunteth no wight but a wretch." (IV.1586--89) *wight : person*
 
 To become "lord of fortune" is precisely to take the sort of control over fortune that is the hallmark of a free agent-the lordship described in Latin as *dominium*. And Criseyde's advice to Troilus is quite apt, inasmuch as the standard medieval understanding of patience is that it is the disposition to react to adversity through reason rather than despair[^9]. For Troilus, who spends much of the poem moaning in his bed, this is excellent advice.
 
@@ -144,7 +144,7 @@ From an internal perspective, the poem is most naturally read as embracing a har
 
 *Troilus and Criseyde* engages with voluntarism more directly when it raises questions about the motives of its characters. One of the central questions of Book IV is whether Troilus should follow his reason or his will. That theme is announced near the start:
 
-> "Love hym made al prest to don hire byde, prest : ready
+> "Love hym made al prest to don hire byde, *prest : ready*
 >
 > And rather dyen than she \[Criseyde] sholde go;
 >
@@ -178,7 +178,7 @@ Rise up on the wheel of fortune if you want! On this approach to the poem, there
 
 The poem hints at the availability of this playful reading with just a single carefully chosen word. It comes at the end of the poem when we are told that Troilus, after his death, ascends to the "eighth sphere"-the farthest reach of the heavens, where a god might conventionally be thought to dwell. The poem is careful to add that Troilus does not stay there long. But before he is assigned to his permanent resting place, Chaucer gives him a moment of insight into the Boethian perspective on eternity, furnishing him a clear view ("ful avysement") of the cosmos and all that happens within it. What, at this crucial insight of moment, does Troilus discover? First he
 
-> "... fully gan despise gan : began to
+> "... fully gan despise *gan : began to*
 >
 > This wrecched world, and held al vanite
 >
@@ -204,83 +204,83 @@ From a philosophical point of view, this famous text is quite perplexing[^25]. A
 
 The commentary tradition on this passage, aware of these difficulties with the obvious reading, has proposed another possibility: that Paul is talking not about weakness of will, but rather about purely sensual impulses that are not willed because they are not *acted on* at all[^26]. This would include the sort of fleeting yearnings, impulses, and mental images that even a saint cannot help but have, which arise in any human being, simply as a result of being human (or, in strict theological terms, they arise as a result of our living under the punishment of original sin). These are the so-called venial sins, which one might well judge to be beyond one's voluntary control, and so one's responsibility only in a considerably diminished sense. Even on this interpretation, it remains somewhat startling that Paul wants to treat such "doings" (ὃ κατεργάζομαι; *quod operor*) not just as involuntary, but as not being *his* doings at all. But here we can see clearly in just what sense this passage subscribes to the will as the primary locus of selfhood. It is not that the passage is committed to a dualism on which Paul just is his will, or his mind. Rather, the scope of Paul's will is what marks off the scope of activities that Paul is willing to endorse as his own. As his will goes, so he goes, and if it happens that his body goes in a different direction, then that is not something Paul takes himself to be responsible for, even granted that his body is a part of him\[27].
 
-Once we associate the self so tightly with the will, it becomes natural to take one more step, and to see the will as the primary locus of moral worth. This is not to make the commonplace assertion that actions are morally evaluable only when they are endorsed by the will-that is, only when those actions are voluntary. It is to say, instead, that moral goodness applies, first and foremost, not to our external actions, nor to our rational deliberations or to our acquired habits, but rather to the will's choices. This is not a claim that Paul shows any signs of commitment to, but it becomes explicit among various later moral theorists. Most famously, Immanuel Kant begins the *Groundwork* with these ringing words: "It is impossible to conceive of anything at all in the world, or even out of it, which can be taken as good without qualification, except a good will." (Kant, 1998, p. 9). This sort of thought is completely alien to Aquinas, for whom everything that exists is good, just insofar as it has existence (Aquinas, 1950-53, 1a 5.3). And even with regard to the narrow domain of moral goodness, Aquinas locates it no more on the intellectual side than on the volitional side, and associates it more with the virtues than with the faculty of will itself.
+Once we associate the self so tightly with the will, it becomes natural to take one more step, and to see the will as the primary locus of moral worth. This is not to make the commonplace assertion that actions are morally evaluable only when they are endorsed by the will-that is, only when those actions are voluntary. It is to say, instead, that moral goodness applies, first and foremost, not to our external actions, nor to our rational deliberations or to our acquired habits, but rather to the will's choices. This is not a claim that Paul shows any signs of commitment to, but it becomes explicit among various later moral theorists. Most famously, Immanuel Kant begins the *Groundwork* with these ringing words: "It is impossible to conceive of anything at all in the world, or even out of it, which can be taken as good without qualification, except a *good will.*" (Kant, 1998, p. 9). This sort of thought is completely alien to Aquinas, for whom *everything* that exists is good, just insofar as it has existence (Aquinas, 1950-53, 1a 5.3). And even with regard to the narrow domain of moral goodness, Aquinas locates it no more on the intellectual side than on the volitional side, and associates it more with the virtues than with the faculty of will itself.
 
-Among medieval philosophers, Peter Abelard (1079--1142) is very clear about locating moral worth at the place where we consent or form an intention to act, rather than at the action itself, or at our acquired dispositions toward action. As Abelard writes: "A person's intention is called good in itself, but his deed is not called good from itself, but rather because it proceeds from a good intention." (Abelard, 1995, n. 91, n. 106). This view gets taken up by the voluntarist movement of the fourteenth century. Ockham, for instance, holds that the only necessarily virtuous human act is an act of the will (William of Ockham, 1991). The more one accentuates the autonomous role of the will in decision making, and its preeminent place in moral agency, the more natural it becomes to think of the will as the primary locus of moral worth. Our various other features as human beings determine much of who we are: whether we are healthy and athletic, bold or shy, wise or witless. But on this voluntarist picture our goodness as moral agents is a product, first and foremost, of our will and the choices it makes. One finds this sort of position articulated very vividly in Peter John Olivi (1247/8--1298), one of the forerunners of the voluntarist movement, who writes that "nothing beneath God is as beloved and as dear to us as the freedom and power of our own will. For this is a thing we value infinitely, we value it more than all the things that God could make, which are infinite, and more than anything that is in us." (Emmen, 1966, p. 98).
+Among medieval philosophers, Peter Abelard (1079-1142) is very clear about locating moral worth at the place where we consent or form an intention to act, rather than at the action itself, or at our acquired dispositions toward action. As Abelard writes: "A person's intention is called good in itself, but his deed is not called good from itself, but rather because it proceeds from a good intention." (Abelard, 1995, n. 91, n. 106). This view gets taken up by the voluntarist movement of the fourteenth century. Ockham, for instance, holds that the only necessarily virtuous human act is an act of the will (William of Ockham, 1991). The more one accentuates the autonomous role of the will in decision making, and its preeminent place in moral agency, the more natural it becomes to think of the will as the primary locus of moral worth. Our various other features as human beings determine much of who we are: whether we are healthy and athletic, bold or shy, wise or witless. But on this voluntarist picture our goodness as moral agents is a product, first and foremost, of our will and the choices it makes. One finds this sort of position articulated very vividly in Peter John Olivi (1247/8-1298), one of the forerunners of the voluntarist movement, who writes that "nothing beneath God is as beloved and as dear to us as the freedom and power of our own will. For this is a thing we value infinitely, we value it more than all the things that God could make, which are infinite, and more than anything that is in us." (Emmen, 1966, p. 98).
 
-5. The Clerk's Tale
+## The Clerk's Tale
 
-Another place to look for signs of the preeminent role of the will in human agency is the Clerk's Tale from the Canterbury Tales (see Correale & Hamel, 2002). That story, of Griselda's obedience in the face of the trials to which her husband Walter subjects her, was one of the most popular of medieval tales. It first appears in writing in Italian at the end of Boccaccio's Decameron, then in Petrarch's Latin version of 1373, and from there quickly into French and into Chaucer's Middle English. This poem remains one of the most discussed of Chaucer's tales. Critics have been fascinated by the complex relationship of Chaucer's text to his source material and by the various levels of meaning that the story both offers and resists. At the same time readers have tended to find the story morally repulsive from nearly every available perspective.\[29]
+Another place to look for signs of the preeminent role of the will in human agency is the Clerk's Tale from the *Canterbury Tales* (see Correale & Hamel, 2002). That story, of Griselda's obedience in the face of the trials to which her husband Walter subjects her, was one of the most popular of medieval tales. It first appears in writing in Italian at the end of Boccaccio's *Decameron*, then in Petrarch's Latin version of 1373, and from there quickly into French and into Chaucer's Middle English. This poem remains one of the most discussed of Chaucer's tales. Critics have been fascinated by the complex relationship of Chaucer's text to his source material and by the various levels of meaning that the story both offers and resists. At the same time readers have tended to find the story morally repulsive from nearly every available perspective[^28].
 
 The Clerk's Tale describes a series of trials that a powerful Piedmontese marquis, Walter, inflicts on his young wife, Griselda, whom he had lifted from obscure poverty. First, he seizes one of their two children, then the other, leaving her to believe that both have been put to death. Ultimately, on the grounds that he means to take a new wife, he expels her from his palace, leaving her to return to her childhood home possessed of nothing but a thin undergarment. Finally, he invites her back as a chambermaid to help prepare the palace for the new wedding. Walter's motive, throughout, is simply this:
 
-"This markys in his herte longeth so
+> "This markys in his herte longeth so
+>
+> To tempte his wyf, hir sadnesse for to knowe, *sadnesse : constancy*
+>
+> That he ne myghte out of his herte throwe
+>
+> This merveillous desir his wyf t'assaye". (451--54) *t'assaye : to test*
 
-To tempte his wyf, hir sadnesse for to knowe, sadnesse : constancy
-
-That he ne myghte out of his herte throwe
-
-This merveillous desir his wyf t'assaye". (451--54) t'assaye : to test
-
-Griselda patiently accepts all of these trials, adhering to her initial pledge to "... nevere willyngly, In werk ne thoght, ... yow disobeye" (362--63). When Walter sees that she is committed to this pledge no matter what suffering he inflicts on her, he restores her to his side, along with the children she has been parted from for years, and thereafter they live "ful many a yeer in heigh prosperitee" (1128).
+Griselda patiently accepts all of these trials, adhering to her initial pledge to "... nevere willyngly, In werk ne thoght, ... yow disobeye" (362-63). When Walter sees that she is committed to this pledge no matter what suffering he inflicts on her, he restores her to his side, along with the children she has been parted from for years, and thereafter they live "ful many a yeer in heigh prosperitee" (1128).
 
 On its face, everything about the story is horrific. Walter, obsessed by his years-long program of trials, subjects Griselda to the most appalling suffering, which Chaucer depicts in vivid and wrenching detail. Griselda, having sworn to obey, feels duty bound to accept these horrors without resisting in the slightest or displaying even a fleeting change in emotion:
 
-"He \[Walter] waiteth if by word or contenance
-
-That she to hym was changed of corage, of corage : in affection
-
-But nevere koude he fynde variance." (708--10)
+> "He \[Walter] waiteth if by word or contenance
+>
+> That she to hym was changed of corage, *of corage : in affection*
+>
+> But nevere koude he fynde variance." (708--10)
 
 Griselda's weirdly preternatural outward complacency, described in detail after each of Walter's appalling trials, makes the horror of the tale even greater. And the overall dissonance is magnified by the way that the narrator (the clerk), even while he registers that Walter's behavior is "nedelees," "yvele" and "wikke" (455, 460, 785), unstintingly praises Griselda throughout as the "flour of wyfly pacience" (919).
 
 For medieval and modern readers alike, these repellant features of the poem make it natural to look for some further meaning, and one hardly needs to scratch at the surface to see what that might be. The story, at least in rough outline, offers a perfect parable of a Christian life on the moral stage, patiently suffering life's adversities while all the time persisting in one's love of God. We grow up, we marry, we have children; we suddenly lose a child who had been in perfect health, and then we suddenly lose another. We die, we return home in a burial shroud, and then we are resurrected in a joyous reunion with God and our departed love ones. No medieval reader could miss the way that Griselda pledges herself to Walter in just the way that Christians are meant to pledge themselves to God. Beyond her initial and often repeated vow to conform her will to his, she makes Walter into the supreme object of her love:
 
-"Ne nevere, for no wele ne no wo, wele : happiness | wo: woe
-
-Ne shal the goost withinne myn herte stente goost : spirit | stente : cease
-
-To love yow best with al my trewe entente." (971--73)
+> "Ne nevere, for no wele ne no wo, *wele : happiness | wo: woe*
+>
+> Ne shal the goost withinne myn herte stente *goost : spirit | stente : cease*
+>
+> To love yow best with al my trewe entente." (971--73)
 
 If we read the story as a parable of a Christian's life on earth, such a vow makes perfect sense, as does the story's joyous conclusion, in which all is forgiven, and Griselda rejoices in having received from Walter her heart's desire:
 
-"Grauntmercy, lord, God thanke it yow," quod she,
-
-"That ye han saved me my children deere!
-
-Now rekke I nevere to been deed right heere; not at all concerned about dying
-
-Sith I stonde in youre love and in youre grace,
-
-No fors of deeth, ne whan my spirit pace!" (1088--92) pace : may pass away
+> "Grauntmercy, lord, God thanke it yow," quod she,
+>
+> "That ye han saved me my children deere!
+>
+> Now rekke I nevere to been deed right heere; *not at all concerned about dying*
+>
+> Sith I stonde in youre love and in youre grace,
+>
+> No fors of deeth, ne whan my spirit pace!" (1088--92) *pace : may pass away*
 
 This sounds a lot like a description of heavenly beatitude, in which one's presence before God's love is secured, and all fear for the future has been dispelled. What has brought Griselda to this state, needless to say, is her perfect patience and obedience.
 
 One could tell the story in such a way that it bears this spiritual reading, Indeed, Petrarch tells us that this is precisely how he means the story to be understood, and the clerk acknowledges that this was Petrarch's intent:
 
-"And herkneth what this auctour seith therfoore. this auctour : Petrarch
-
-This storie is seyd nat for that wyves sholde
-
-Folwen Grisilde as in humylitee,
-
-For it were inportable, though they wolde, inportable : intolerable
-
-But for that every wight, in his degree,
-
-Sholde be constant in adversitee
-
-As was Grisilde; therfore Petrak writeth
-
-This storie, which with heigh stile he enditeth. enditeth : composes
-
-For sith a womman was so pacient
-
-Unto a mortal man, wel moore us oghte
-
-Receyven al in gree that God us sent; in gree : with a good will
-
-For greet skile is he preeve that he wroghte". (1142--52) it is very reasonable that God test what he made
+> "And herkneth what this auctour seith therfoore. *this auctour : Petrarch*
+>
+> This storie is seyd nat for that wyves sholde
+>
+> Folwen Grisilde as in humylitee,
+>
+> For it were inportable, though they wolde, *inportable* : intolerable
+>
+> But for that every wight, in his degree,
+>
+> Sholde be constant in adversitee
+>
+> As was Grisilde; therfore Petrak writeth
+>
+> This storie, which with heigh stile he enditeth. *enditeth* : composes
+>
+> For sith a womman was so pacient
+>
+> Unto a mortal man, wel moore us oghte
+>
+> Receyven al in gree that God us sent; in gree : with a good will
+>
+> For greet skile is he preeve that he wroghte". (1142--52) *it is very reasonable that God test what he made*
 
 Petrarch's version admits of this sort of spiritual reading, because it systematically elevates the virtues of Walter and makes excuses for his excesses. Chaucer's Walter, in contrast, is so plainly flawed as to preclude Petrarch's spiritual reading from the start. As in Boccaccio's original tale, Chaucer's Walter can be nothing other than a bad and tyrannical husband. No wonder, then, that the clerk is careful to tell us twice, in the above lines, that it is Petrarch who thinks the story should be taken as a parable for our relationship to God. As for the clerk's own feelings, those are perhaps revealed in the envoy that comes at the end of the tale, which runs in part:
 
