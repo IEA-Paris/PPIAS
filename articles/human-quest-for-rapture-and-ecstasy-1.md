@@ -277,13 +277,13 @@ These two opposite expressions are part of 6 basic emotions captured in the firs
 
 During the first 6 weeks of life, the happy expression corresponding to rapture (*feeling of intense pleasure or joy*) is associated with feeding. Newborns displaying so-called reflex smile with lifting corners of the lips and an expression of relaxed elation triggered by the well described opioid system associated with sucrose ingestion. Sucrose has a noticeable calming effect associated with pleasure and relaxed behavioral expression in the newborn. It can even reveal remarkably organized sensorimotor coordination like the hand transport to the mouth, which opens in anticipation of manual contact (see below the successive images of hand-mouth coordination by a freshly born infant whose umbilical cord was just clipped, Rochat et al., 1988).
 
-**Figure 5: Hand-mouth coordination in a 3 minute-old newborn (Photos by the author of his daughter Cléo).**
+**Figure 5: Hand-mouth coordination in a 3 minute-old newborn** 
 
-![A baby in different poses
+![](/static/picture5.png)
 
-Description automatically generated](Rochat%20final%20rev.%2082024.fld/image007.png)
+*(Photos by the author of his daughter Cléo).*
 
-**Novel social rapture by 2 months**
+## Novel social rapture by 2 months
 
 By six weeks, the reflex expression of positive rapture associated with feeding is transformed with a radically new expression of joy in the context of face-to-face, dyadic exchanges with others. It is the emergence of *socially elicited smiling*. This marks a qualitative shift, what we label "the two-month revolution". It is a time when parents commonly report discovering a person in their infant, the child starting to actively respond to caregivers and social exchanges, engaging in face-to-face proto conversations that consolidates bounding and provide new grounds for mutual character analysis. It is the mark of first reciprocal exchanges and the co-construction of shared experiences (intersubjectivity) mainly oriented toward mutual rapture. Adult caretakers typically aim toward the creation of a relational excitement or acme, leading the infant toward rapture expression by bursting into a smile. 
 
