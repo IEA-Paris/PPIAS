@@ -34,6 +34,7 @@ abstract: "A universal aspect of human psychology is the quest and cultivation
   death: our inescapable, known, yet inconceivable reality."
 issue: content/issues/paris-ias-ideas.md
 highlight: false
+bibliography: /static/rochat_references.bib
 language: English
 ---
 ## Acknowledgements
