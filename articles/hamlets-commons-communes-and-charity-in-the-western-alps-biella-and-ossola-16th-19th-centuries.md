@@ -929,27 +929,49 @@ Bériou, Caseau & Rigaux (2009) pointed to the possible eucharistic symbolism i
 
 AST, Corte, Gran Carta de Stati di terraferma di S.M., 1852, sheet n. 16 and Istituto Geografico Centrale, Macugnaga, Turin, 1973, n. 10.
 
-\[[25]](#_ftnref25) Archivio Borromeo, Isola Bella, Chiese, n. 4765; Feudi, Vogogna, n. 2112-2120.
+[^24]
 
-\[[26]](#_ftnref26) A long sequel of petitions and appeals in AST, Corte, Paesi per A e B, Lettera V, m. 38, nn. 21, 22, 1819-22 e nn. 26, 27, 28, 31,33, 34, 40, 41, 42, 43: 1825-1849.
+Archivio Borromeo, Isola Bella, Chiese, n. 4765; Feudi, Vogogna, n. 2112-2120.
 
-\[[27]](#_ftnref27) Archivio Storico Comunale di Vogogna (henceforth ASCVo), b. 13, "Nota delle comuni e terre componenti la giurisdizione di Vogogna" requested by the vice-intendency of Pallanza on 29 January 1760. 
+[^25]
 
-\[[28]](#_ftnref28) In a list in ACSVo, b. 3.6, "Nota delle comuni e terre componenti la giurisdizione di Vogogna", 1760: Borgo di Vogogna, Prata, Pallanzeno, Piedimulera, Cimamulera, Fomarco, Pieve, Loro, Rumianca, Megolo "constitute one territory"; Mergozzo, Brachio and Albo "are one territory"; Valle Anzasca is composed by Castiglione, Calasca, Aneino, Bannio, Ciola di San Carlo, Vanzone, Cepemorello, Macugnaga which "have a separated and distinct territory"; instead, Premosello, Cuciago, Migiandone, Anzola, Trontano, Masera, Beura e Cardezza "each has a separate and distinct territory". 
+A long sequel of petitions and appeals in AST, Corte, Paesi per A e B, Lettera V, m. 38, nn. 21, 22, 1819-22 e nn. 26, 27, 28, 31,33, 34, 40, 41, 42, 43: 1825-1849.
 
-\[[29]](#_ftnref29) A. Torre, "Pieve Vergonte", "Schedario storico-territoriale dei comuni piemontesi", www.archiviocasalis.it.
+[^26]
 
-\[[30]](#_ftnref30) AST, Corte, Carte Topografiche e Disegni, Mappa di Vogogna e uniti territori.
+Archivio Storico Comunale di Vogogna (henceforth ASCVo), b. 13, "Nota delle comuni e terre componenti la giurisdizione di Vogogna" requested by the vice-intendency of Pallanza on 29 January 1760. 
 
-\[[31]](#_ftnref31) AST, Corte, Paesi di Nuovo Acquisto, Novarese, m. 6 d'addizione, Vogogna, n. 4: "Relazione informativa sopra il ricorso umiliato a Sua Maestà dalla giurisdizione di Vogogna in cui chiama di non essere sottoposta all'Intendenza generale di Novara », 1746.
+[^27]
 
-\[[32]](#_ftnref32) AST, Sezioni Riunite, II Archiviazione, capo 13, vol. 24, Riparto tra le province di nuovo acquisto, 1773, "Bordreau delli stati e conguagli che dal R. Officio della Vice Intendenza della provincia dell'alto novarese in Pallanza si trasmettono al generale Officio del Censimento di ~~Torino~~Turin con lettera". In 1770 the deputies are: 1 for Vogogna, 2 Prata, Rumianca, Megolo and Fomarco, 1 each Piedimulera, Pieve, Loro, Piana.
+In a list in ACSVo, b. 3.6, "Nota delle comuni e terre componenti la giurisdizione di Vogogna", 1760: Borgo di Vogogna, Prata, Pallanzeno, Piedimulera, Cimamulera, Fomarco, Pieve, Loro, Rumianca, Megolo "constitute one territory"; Mergozzo, Brachio and Albo "are one territory"; Valle Anzasca is composed by Castiglione, Calasca, Aneino, Bannio, Ciola di San Carlo, Vanzone, Cepemorello, Macugnaga which "have a separated and distinct territory"; instead, Premosello, Cuciago, Migiandone, Anzola, Trontano, Masera, Beura e Cardezza "each has a separate and distinct territory". 
 
-\[[33]](#_ftnref33) AST, Sezioni Riunite, Camera dei Conti, Province d'Ultimo Acquisto, § 13, Boschi, "Rumianca", "Vogogna".
+[^28]
 
-\[[34]](#_ftnref34) AST, Sezioni Riunite, Ufficio generale delle finanze, Seconda Archiviazione, Boschi e selve. Capo 14.
+A. Torre, "Pieve Vergonte", "Schedario storico-territoriale dei comuni piemontesi", www.archiviocasalis.it.
 
-\[[35]](#_ftnref35) Ibidem
+[^29]
+
+AST, Corte, Carte Topografiche e Disegni, Mappa di Vogogna e uniti territori.
+
+[^30]
+
+AST, Corte, Paesi di Nuovo Acquisto, Novarese, m. 6 d'addizione, Vogogna, n. 4: "Relazione informativa sopra il ricorso umiliato a Sua Maestà dalla giurisdizione di Vogogna in cui chiama di non essere sottoposta all'Intendenza generale di Novara », 1746.
+
+[^31] 
+
+AST, Sezioni Riunite, II Archiviazione, capo 13, vol. 24, Riparto tra le province di nuovo acquisto, 1773, "Bordreau delli stati e conguagli che dal R. Officio della Vice Intendenza della provincia dell'alto novarese in Pallanza si trasmettono al generale Officio del Censimento di ~~Torino~~Turin con lettera". In 1770 the deputies are: 1 for Vogogna, 2 Prata, Rumianca, Megolo and Fomarco, 1 each Piedimulera, Pieve, Loro, Piana.
+
+[^32]
+
+AST, Sezioni Riunite, Camera dei Conti, Province d'Ultimo Acquisto, § 13, Boschi, "Rumianca", "Vogogna".
+
+[^33]
+
+AST, Sezioni Riunite, Ufficio generale delle finanze, Seconda Archiviazione, Boschi e selve. Capo 14.
+
+[^34]
+
+Ibidem
 
 \[[36]](#_ftnref36) Ibidem.
 
