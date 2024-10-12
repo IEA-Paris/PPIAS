@@ -834,154 +834,154 @@ Here I agree with Aers (2009, p.56): "there is no warrant for those readings of�
 
 # References
 
-Abelard, P. (1995). Ethical writings (P. Spade, Trans.). Hackett.
+Abelard, P. (1995). *Ethical writings* (P. Spade, Trans.). Hackett.
 
-Adams, M. M. (1999). Ockham on Will, Nature and Morality. In P. V. Spade (Ed.), The Cambridge Companion to Ockham. pp. 245--72. Cambridge University Press.
+Adams, M. M. (1999). Ockham on Will, Nature and Morality. In P. V. Spade (Ed.), T*he Cambridge Companion to Ockham*. pp. 245-72. Cambridge University Press.
 
-Aers, D. (2009). Salvation and Sin: Augustine, Langland, and Fourteenth-Century Theology. University of Notre Dame Press.
+Aers, D. (2009). *Salvation and Sin: Augustine, Langland, and Fourteenth-Century Theology*. University of Notre Dame Press.
 
-Aers, D. (2015). Beyond Reformation? An Essay on William Langland's Piers Plowman and the End of Constantinian Christianity. University of Notre Dame Press.
+Aers, D. (2015). *Beyond Reformation? An Essay on William Langland's Piers Plowman and the End of Constantinian Christianity*. University of Notre Dame Press.
 
-Aquinas, T. (1929). In omnes S. Pauli Apostoli epistolas commentaria. Marietti.
+Aquinas, T. (1929). *In omnes S. Pauli Apostoli epistolas commentaria*. Marietti.
 
-Aquinas, T. (1950--1953). Summa theologiae. P. Caramello (Ed.). Marietti.
+Aquinas, T. (1950-1953). *Summa theologiae*. P. Caramello (Ed.). Marietti.
 
-Aquinas, T. (1954). Opuscula philosophica. R. M. Spiazzi (Ed.). Marietti.
+Aquinas, T. (1954). *Opuscula philosophica*. R. M. Spiazzi (Ed.). Marietti.
 
-Aristotle. (1984). The complete works of Aristotle: The revised Oxford translation (J. Barnes, Ed.). Princeton University Press.
+Aristotle. (1984). *The complete works of Aristotle: The revised Oxford translation (J. Barnes, Ed.)*. Princeton University Press.
 
-Augustine. (1844--1855). Sermones ad populum. In J. P. Migne (Ed.), Patrologia Latina (Vol. 38).
+Augustine. (1844-1855). *Sermones ad populum*. In J. P. Migne (Ed.), Patrologia Latina (Vol. 38).
 
-Augustine. (1968). De trinitate libri XV. Brepols.
+Augustine. (1968). *De trinitate libri XV*. Brepols.
 
-Augustine. (2019). Confessions (T. Williams, Trans.). Hackett.
+Augustine. (2019). *Confessions* (T. Williams, Trans.). Hackett.
 
-Belo, C. (2007). Chance and Determinism in Avicenna and Averroes. Brill.
+Belo, C. (2007). *Chance and Determinism in Avicenna and Averroes*. Brill.
 
-Benson, C. D. (1990). Chaucer's Troilus and Criseyde. Unwin Hyman.
+Benson, C. D. (1990). *Chaucer's Troilus and Criseyde*. Unwin Hyman.
 
-Berryman, C. (1967). The Ironic Design of Fortune in Troilus and Criseyde. Chaucer Review, 2, 1--7.
+Berryman, C. (1967). The Ironic Design of Fortune in Troilus and Criseyde. *Chaucer Review*, 2, 1-7.
 
-Bobzien, S. (2001). Determinism and Freedom in Stoic Philosophy. Clarendon.
+Bobzien, S. (2001). *Determinism and Freedom in Stoic Philosophy*. Clarendon.
 
-Boethius. (1973). The theological tractates and the Consolation of philosophy (H.F. Stewart, E.K. Rand, & S. J. Tester, Trans.). Harvard University Press.
+Boethius. (1973). *The theological tractates and the Consolation of philosophy* (H.F. Stewart, E.K. Rand, & S. J. Tester, Trans.). Harvard University Press.
 
-Bradwardine, T. (1618). De causa Dei contra Pelagium et de virtute causarum ad suos Mertonenses, libri tres. H. Savile (Ed.). I. Billium.
+Bradwardine, T. (1618). *De causa Dei contra Pelagium et de virtute causarum ad suos Mertonenses, libri tres*. H. Savile (Ed.). I. Billium.
 
-Bugbee, J. (2019). God's Patients: Chaucer, Agency, and the Nature of Laws. University of Notre Dame Press.
+Bugbee, J. (2019). *God's Patients: Chaucer, Agency, and the Nature of Laws*. University of Notre Dame Press.
 
-Carruthers, M. (1973). The Search for St. Truth: A Study of Meaning in Piers Plowman. Northwestern University Press.
+Carruthers, M. (1973). *The Search for St. Truth: A Study of Meaning in Piers Plowman*. Northwestern University Press.
 
-Chaucer, G. (1987). The Riverside Chaucer (L. D. Benson, Ed., 3rd ed.). Houghton Mifflin.
+Chaucer, G. (1987). *The Riverside Chaucer* (L. D. Benson, Ed., 3rd ed.). Houghton Mifflin.
 
-Chaucer, G. (2013). Troilus and Criseyde: A new edition of the 'Book of Troilus' (B. Windeatt, Ed.). Routledge.
+Chaucer, G. (2013). *Troilus and Criseyde: A new edition of the 'Book of Troilus'* (B. Windeatt, Ed.). Routledge.
 
-Coleman, J. (1981). Piers Plowman and the Moderni. Edizioni di storia e letteratura.
+Coleman, J. (1981). *Piers Plowman and the Moderni*. Edizioni di storia e letteratura.
 
-Correale, R. M., & Hamel, M. (Eds.). (2002). Sources and analogues of the Canterbury Tales (Vols. 1--2). D. S. Brewer.
+Correale, R. M., & Hamel, M. (Eds.). (2002). *Sources and analogues of the Canterbury Tales* (Vols. 1-2). D. S. Brewer.
 
-Curry, W.C. (1961). Destiny in Troilus and Criseyde. In R.J. Schoeck and J. Taylor (Eds.), Troilus and Criseyde and the Minor Poets (pp. 34--70). University of Notre Dame Press.
+Curry, W.C. (1961). Destiny in Troilus and Criseyde. In R.J. Schoeck and J. Taylor (Eds.), *Troilus and Criseyde and the Minor Poets* (pp. 34-70). University of Notre Dame Press.
 
-Davidson, D. (1980). How Is Weakness of the Will Possible. In Essays on Actions and Events (pp. 21--42). Clarendon Press.
+Davidson, D. (1980). How Is Weakness of the Will Possible. In *Essays on Actions and Events* (pp. 21-42). Clarendon Press.
 
-Dickins, B. (1937). The conflict of wit and will: Fragments of a Middle English alliterative poem now first edited. School of English Language in the University of Leeds.
+Dickins, B. (1937). *The conflict of wit and will: Fragments of a Middle English alliterative poem now first edited*. School of English Language in the University of Leeds.
 
-Dihle, A. (1982). The Theory of the Will in Classical Antiquity. University of California Press.
+Dihle, A. (1982). *The Theory of the Will in Classical Antiquity*. University of California Press.
 
-Dodd, W. G. (1961). The System of Courtly Love. In R. J. Schoeck and J. Taylor (Eds.), Troilus and Criseyde and the Minor Poets (pp. 1--15). University of Notre Dame Press.
+Dodd, W. G. (1961). The System of Courtly Love. In R. J. Schoeck and J. Taylor (Eds.), *Troilus and Criseyde and the Minor Poets* (pp. 1-15). University of Notre Dame Press.
 
-Donaldson, E. T. (1975). Chaucer's poetry: An anthology for the modern reader (2nd ed.). Ronald Press.
+Donaldson, E. T. (1975). *Chaucer's poetry: An anthology for the modern reader* (2nd ed.). Ronald Press.
 
-Duns Scotus, J. (1639). Opera omnia (L. Wadding, Ed., Vols. 1--12). L. Durand.
+Duns Scotus, J. (1639). *Opera omnia* (L. Wadding, Ed., Vols. 1-12). L. Durand.
 
-Duns Scotus, J. (1950--2013). Opera omnia (C. Balić et al., Eds., Vols. 1--21). Scotistic Commission.
+Duns Scotus, J. (1950-2013). *Opera omnia* (C. Balić et al., Eds., Vols. 1-21). Scotistic Commission.
 
-Duns Scotus, J. (2017). Selected writings on ethics (T. Williams, Trans.). Oxford University Press.
+Duns Scotus, J. (2017). *Selected writings on ethics* (T. Williams, Trans.). Oxford University Press.
 
-Emmen, A. (1966). La dottrina dell'Olivi sul valore religioso dei voti. Studi Francescani, 63, pp. 88--108.
+Emmen, A. (1966). La dottrina dell'Olivi sul valore religioso dei voti. *Studi Francescani*, 63, pp. 88-108.
 
-Finnegan, R. E. (1994). 'She Should Have Said No to Walter': Griselda's Promise in The Clerk's Tale. English Studies, 4, pp. 303--21.
+Finnegan, R. E. (1994). 'She Should Have Said No to Walter': Griselda's Promise in The Clerk's Tale. *English Studies*, 4, pp. 303-21.
 
-Frankfurt, H. G. (1971). Freedom of the Will and the Concept of a Person. Journal of Philosophy, 68, pp. 5--20.
+Frankfurt, H. G. (1971). Freedom of the Will and the Concept of a Person. *Journal of Philosophy*, 68, pp. 5-20.
 
-Frede, M. (2011). A free will: Origins of the notion in ancient thought (A. A. Long, Ed.). University of California Press.
+Frede, M. (2011). *A free will: Origins of the notion in ancient thought* (A. A. Long, Ed.). University of California Press.
 
-Georgianna, L. (1995). The Clerk's Tale and the Grammar of Assent. Speculum, 70, 793--821.
+Georgianna, L. (1995). The Clerk's Tale and the Grammar of Assent. *Speculum*, 70, 793-821.
 
-Gower, J. (2013). Confessio amantis (R. A. Peck, Ed.). Medieval Institute Publications.
+Gower, J. (2013). *Confessio amantis* (R. A. Peck, Ed.). Medieval Institute Publications.
 
-Hanna, R. (2006). The Penn commentary on Piers Plowman (Vol. 2). University of Pennsylvania Press.
+Hanna, R. (2006). *The Penn commentary on Piers Plowman* (Vol. 2). University of Pennsylvania Press.
 
-Hoffmann, T., & Michon, C. (2017). Aquinas on free will and intellectual determinism. Philosophers' Imprint, 17, 1--36.
+Hoffmann, T., & Michon, C. (2017). Aquinas on free will and intellectual determinism. *Philosophers' Imprint*, 17, 1-36.
 
-Horstmann, C. (1895--1896). Yorkshire writers: Richard Rolle of Hampole, an English father of the church, and his followers (Vols. 1--2). S. Sonnenschein.
+Horstmann, C. (1895--1896). *Yorkshire writers: Richard Rolle of Hampole, an English father of the church, and his followers* (Vols. 1-2). S. Sonnenschein.
 
-Huber, E. R., & Robertson, E. (2016). The Katherine Group (MS Bodley 34). Medieval Institute Publications.
+Huber, E. R., & Robertson, E. (2016). *The Katherine Group (MS Bodley 34)*. Medieval Institute Publications.
 
-Irwin, T. (1992). Who discovered the will? Philosophical Perspectives, 6, 453--473.
+Irwin, T. (1992). Who discovered the will? *Philosophical Perspectives*, 6, 453-473.
 
-Kant, I. (1998). Groundwork of the metaphysics of morals (M. Gregor, Trans.). Cambridge University Press.
+Kant, I. (1998). *Groundwork of the metaphysics of morals* (M. Gregor, Trans.). Cambridge University Press.
 
-Kent, B. (1995). Virtues of the will: The transformation of ethics in the late thirteenth century. Catholic University of America Press.
+Kent, B. (1995). *Virtues of the will: The transformation of ethics in the late thirteenth century*. Catholic University of America Press.
 
-Kirk, E. D. (1990). Nominalism and the dynamics of the Clerk's Tale: Homo viator as woman. In C.D. Benson & E. Robertson (Eds.), Chaucer's religious tales (pp. 111--120). D. S. Brewer.
+Kirk, E. D. (1990). Nominalism and the dynamics of the Clerk's Tale: Homo viator as woman. In C.D. Benson & E. Robertson (Eds.), *Chaucer's religious tales* (pp. 111-120). D. S. Brewer.
 
-Kretzmann, N. (1988). Warring against the law of my mind: Aquinas on Romans 7. In T. V. Morris (Ed.), Philosophy and the Christian faith (pp. 172--195). University of Notre Dame Press.
+Kretzmann, N. (1988). Warring against the law of my mind: Aquinas on Romans 7. In T. V. Morris (Ed.), *Philosophy and the Christian faith* (pp. 172-195). University of Notre Dame Press.
 
-Langland, W. (2006). Piers Plowman. In E. Robertson & S. H. A. Shepherd (Eds.). W.W. Norton.
+Langland, W. (2006). *Piers Plowman*. In E. Robertson & S. H. A. Shepherd (Eds.). W.W. Norton.
 
-Lottin, O. (1942--1960). Psychologie et morale aux XIIe et XIIIe siècles (Vols. 1--6). Abbaye du Mont César.
+Lottin, O. (1942-1960). *Psychologie et morale aux XIIe et XIIIe siècles* (Vols. 1-6). Abbaye du Mont César.
 
-Mann, J. (2002). Feminizing Chaucer. D. S. Brewer.
+Mann, J. (2002). *Feminizing Chaucer*. D. S. Brewer.
 
-Mann, J. (2010). Langland and allegory \[1991]. In D. Donoghue, J. Simpson, & N. Watson (Eds.), The Morton W. Bloomfield lectures, 1989--2005 (pp. 20--41). Medieval Institute Publications.
+Mann, J. (2010). Langland and allegory \[1991]. In D. Donoghue, J. Simpson, & N. Watson (Eds.), *The Morton W. Bloomfield lectures, 1989-2005* (pp. 20-41). Medieval Institute Publications.
 
-Matthews, G. B. (1984). It is no longer I that do it.... Faith and Philosophy, 1, 44--49.
+Matthews, G. B. (1984). *It is no longer I that do it.... Faith and Philosophy*, 1, 44-49.
 
-McCall, J. P. (1966). The Clerk's Tale and the theme of obedience. Modern Language Quarterly, 27, 260--269.
+McCall, J. P. (1966). The Clerk's Tale and the theme of obedience. *Modern Language Quarterly*, 27, 260-269.
 
-McGrade, A. S. (1974). The political thought of William of Ockham: Personal and institutional principles. Cambridge University Press.
+McGrade, A. S. (1974). *The political thought of William of Ockham: Personal and institutional principles*. Cambridge University Press.
 
 Middle English Dictionary. (2024). Middle English Dictionary. Retriew at: https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary.
 
-Minnis, A. J. (1982). Chaucer and pagan antiquity. D. S. Brewer.
+Minnis, A. J. (1982). *Chaucer and pagan antiquity*. D. S. Brewer.
 
-Mitchell, J. A. (2005). Chaucer's Clerk's Tale and the question of ethical monstrosity. Studies in Philology, 102, 1--26.
+Mitchell, J. A. (2005). Chaucer's Clerk's Tale and the question of ethical monstrosity. *Studies in Philology*, 102, 1-26.
 
-Morse, C. C. (1985). The exemplary Griselda. Studies in the Age of Chaucer, 7, 51--86.
+Morse, C. C. (1985). The exemplary Griselda. *Studies in the Age of Chaucer*, 7, 51-86.
 
-Nederman, C. J. (1995). Community and Consent: The Secular Political Theory of Marsiglio of Padua's Defensor pacis. Rowman & Littlefield.
+Nederman, C. J. (1995). *Community and Consent: The Secular Political Theory of Marsiglio of Padua's Defensor pacis*. Rowman & Littlefield.
 
-Normore, C. G. (1982). Future Contingents. In Norman Kretzmann et al. (Eds), The Cambridge History of Later Medieval Philosophy (pp. 358--81). Cambridge University Press.
+Normore, C. G. (1982). Future Contingents. In Norman Kretzmann et al. (Eds), *The Cambridge History of Later Medieval Philosophy* (pp. 358-81). Cambridge University Press.
 
-Oberman, H. A. (1962). Facientibus quod in se est Deus non denegat Gratiam: Robert Holcot, O.P. and the beginnings of Luther's theology. Harvard Theological Review, 55, 317--42.
+Oberman, H. A. (1962). Facientibus quod in se est Deus non denegat Gratiam: Robert Holcot, O.P. and the beginnings of Luther's theology. *Harvard Theological Review*, 55, 317-42.
 
-Ockham, W. of. (1967--1989). Opera philosophica et theologica. Franciscan Institute.
+Ockham, W. of. (1967--1989). *Opera philosophica et theologica*. Franciscan Institute.
 
-Ockham, W. of. (1991). Quodlibetal Questions (A. Freddoso & F. Kelley, Trans.). Yale University Press.
+Ockham, W. of. (1991). *Quodlibetal Questions* (A. Freddoso & F. Kelley, Trans.). Yale University Press.
 
-Pasnau, R. (2002). Thomas Aquinas on human nature: A philosophical study of Summa theologiae 1a 75--89. Cambridge University Press.
+Pasnau, R. (2002). *Thomas Aquinas on human nature: A philosophical study of Summa theologiae 1a 75-89*. Cambridge University Press.
 
-Patch, H. R. (1961). Troilus on Determinism. In R. J. Schoeck and J. Taylor (Eds.), Troilus and Criseyde and the Minor Poets (pp. 71--85). University of Notre Dame Press.
+Patch, H. R. (1961). Troilus on Determinism. In R. J. Schoeck and J. Taylor (Eds.), *Troilus and Criseyde and the Minor Poets* (pp. 71-85). University of Notre Dame Press.
 
-Raskolnikov, M. (2009). Body against Soul: Gender and Sowlehele in Middle English Allegory. Ohio State University Press.
+Raskolnikov, M. (2009). *Body against Soul: Gender and Sowlehele in Middle English Allegory*. Ohio State University Press.
 
-Robertson, D. W., Jr. (1961). Chaucerian Tragedy. In R. J. Schoeck and J. Taylor (Eds.), Troilus and Criseyde and the Minor Poets (pp. 86--121). University of Notre Dame Press.
+Robertson, D. W., Jr. (1961). Chaucerian Tragedy. In R. J. Schoeck and J. Taylor (Eds.), *Troilus and Criseyde and the Minor Poets* (pp. 86-121). University of Notre Dame Press.
 
-Robertson, E. (1990). Allegory and the Emotions in 'Sawles Warde.' In Early English Devotional Prose and the Female Audience (pp. 126--43). University of Tennessee Press.
+Robertson, E. (1990). Allegory and the Emotions in 'Sawles Warde.' In *Early English Devotional Prose and the Female Audience* (pp. 126-43). University of Tennessee Press.
 
-Robertson, E. (2020). Soulmaking in Piers Plowman. Yearbook of Langland Studies, 34, 11--56.
+Robertson, E. (2020). Soulmaking in Piers Plowman. *Yearbook of Langland Studies*, 34, 11-56.
 
-Salter, E. (1962). Chaucer: The Knight's Tale and the Clerk's Tale. E. Arnold.
+Salter, E. (1962). *Chaucer: The Knight's Tale and the Clerk's Tale*. E. Arnold.
 
-Simpson, J. (1986a). From Reason to Affective Knowledge: Modes of Thought and Poetic Form in Piers Plowman. Medium Aevum, 55, 1--23.
+Simpson, J. (1986a). From Reason to Affective Knowledge: Modes of Thought and Poetic Form in Piers Plowman. *Medium Aevum*, 55, 1-23.
 
-Simpson, J. (1986b). The Role of Scientia in Piers Plowman. In Gregory Kratzmann and James Simpson (Eds.). Medieval English Religious and Ethical Literature: Essays in Honour of G. H. Russell (pp. 49--65). D. S. Brewer.
+Simpson, J. (1986b). The Role of Scientia in Piers Plowman. In Gregory Kratzmann and James Simpson (Eds.). *Medieval English Religious and Ethical Literature: Essays in Honour of G. H. Russell* (pp. 49-65). D. S. Brewer.
 
-Simpson, J. (2007). Piers Plowman: An Introduction. University of Exeter Press.
+Simpson, J. (2007). *Piers Plowman: An Introduction*. University of Exeter Press.
 
-Williams, T. (2015). The Ethics of John Duns Scotus. Ethicascoti.com.
+Williams, T. (2015). *The Ethics of John Duns Scotus*. Ethicascoti.com.
 
-Windeatt, B. (2023). Oxford Guides to Chaucer: Troilus and Criseyde (2nd ed.). Oxford University Press.
+Windeatt, B. (2023). *Oxford Guides to Chaucer: Troilus and Criseyde* (2nd ed.). Oxford University Press.
 
-Zeeman, N. (2006). Piers Plowman and the Medieval Discourse of Desire. Cambridge University Press.
+Zeeman, N. (2006). *Piers Plowman and the Medieval Discourse of Desire*. Cambridge University Press.
