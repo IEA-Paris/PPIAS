@@ -377,7 +377,7 @@ A side effect of humans' curious drive to figure things out and to create cohere
 
 ## Developing levels of wakeful awareness
 
-             Being entails the navigation through various levels of wakeful awareness. We may use the metaphor of an onion in its growth to describe how these levels emerge in human development, layer by layer. It is between these layers of wakeful awareness that we end up navigating through our wakeful existence (Rochat, 2009). 
+Being entails the navigation through various levels of wakeful awareness. We may use the metaphor of an onion in its growth to describe how these levels emerge in human development, layer by layer. It is between these layers of wakeful awareness that we end up navigating through our wakeful existence (Rochat, 2009). 
 
 Aside from being asleep or in a coma, we may just be *aware* of being alive, as when we emerge from a deep sleep or total anesthesia. We open our eyes and are suddenly aware of our presence in the world. We may then recognize our nurse, doctor, or wife, as well as familiar objects, becoming *co-aware* of self and world, connecting our embodied self with a known reality. We then, eventually, may transit into a state of *consciousness* in which we know that we know. In our example, it is the state in which we now transit reflecting and reconstructing what happened, why we were put down into deep sleep and what may happen next. Finally, by asking our doctor or nurse how the intervention went, listening to the health report, responding to questions on how we feel, we become *co-conscious*, an explicit, also meta-level of shared experience via language and other symbolic vehicles (gestures, drawing, writing, etc.).
 
@@ -385,7 +385,7 @@ This description can be viewed as the repertoire of possible general levels of w
 
 The distinction of the human levels of wakeful awareness from other animals' is the level of both consciousness and co-consciousness emerging by the end of the second year. Again, it is when children become self-conscious proper, able to re-cognize themselves in mirrors, starting to use personal pronouns and adjectives, as well as showing budding signs of self-image management and a care for reputation. It is also by this age that young children start to engage in intentional deception producing their first lies. Accordingly, at this developmental juncture, the child takes a meta-step toward cognizing self and others as well as their own situation in the physical world.
 
-**Human reflective rumination**
+## Human reflective rumination
 
 Self-consciousness and explicit metacognition (knowledge of knowing) are products of a secondary symbolic level in information processing. It corresponds to the reflective loop that enables us to engage in recursive thinking and the processing of meta-representations (i.e., representations of representations). 
 
@@ -395,9 +395,9 @@ The human reflective loop is like a drill, the human drill. It can either drive 
 
 Human reflective loop is the source of scandalous realizations, in particular that all things must pass, including one's ruminating self. It is the necessary realization that one must come to term with a no-way-out which nonetheless calls for some escape routes. It is the source of human metaphysical angst and fidgetiness leading us to question our place in the universe.
 
- Aside from hopeless denial, it may be the stem root of all our active quests for rapture and ecstasy which may be primarily the desperate human attempt at suspending the self-conscious drill of recursive thoughts and rumination to get out of mind. It may be the source of the various ways we attempt at reaching some reversion of causality: ways to abandon control of ourselves by ourselves, the way we attempt regardless of cultures, to let loose of self-control either *internally* (e.g., meditation, drugs), or *externally* (e.g., trance and group rituals). 
+Aside from hopeless denial, it may be the stem root of all our active quests for rapture and ecstasy which may be primarily the desperate human attempt at suspending the self-conscious drill of recursive thoughts and rumination to get out of mind. It may be the source of the various ways we attempt at reaching some reversion of causality: ways to abandon control of ourselves by ourselves, the way we attempt regardless of cultures, to let loose of self-control either *internally* (e.g., meditation, drugs), or *externally* (e.g., trance and group rituals). 
 
-**Human need to escape reason** 
+## Human need to escape reason 
 
 Scepticals philosophers of ancient Greece coined the word *èpoché* to capture the drive to *suspend rational judgements*, creating doubt and uncertainty in judgement calls. It literally stands for the arrest or interruption of mental processing, hence of human rumination. Interestingly, the word epoch derives from such an original meaning. It is linked to some suspension of the present, something that is not anymore under our control, something that escapes us. 
 
