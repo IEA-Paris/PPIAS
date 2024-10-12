@@ -378,121 +378,121 @@ With this Griselda goes far beyond what Walter wanted, offering him the conformi
 
 The result is a troubled union of two minds: "of hem two / Thre nas but o wyl" (715--16), as the poem later puts it. Yet it is of course not a union of equals, but more like the instantiation in marriage of a debate between body and soul, where the body, Walter, holds executive authority. His strategy for exercising that authority, throughout the poem, in every context, is to count on others to conform their wills to his out of either love or fear. To his obedient subjects, we are told at the start, he is "biloved and drad" (69); to Griselda's father his only argument for his worthiness as husband is this confident assertion:
 
-"Thou lovest me, I woot it wel certeyn, woot : know
-
-And art my feithful lige man ybore, ybore : born
-
-And al that liketh me, I dar wel seyn
-
-It liketh thee...". (309--12).
+> "Thou lovest me, I woot it wel certeyn, *woot : know*
+>
+> And art my feithful lige man ybore, *ybore : born*
+>
+> And al that liketh me, I dar wel seyn
+>
+> It liketh thee...". (309-12).
 
 To the bewildered crowd outside the hut, wondering about Walter's detour into the depths of poverty on the day of his wedding, he emerges to offer only these three lines:
 
-"This is my wyf," quod he, "That standeth heere.
+> "This is my wyf," quod he, "That standeth heere.
+>
+> "Honoureth hire and loveth hire, I preye,
+>
+> Whoso me loveth; ther is namoore to seye." (369-71)
 
-"Honoureth hire and loveth hire, I preye,
-
-Whoso me loveth; ther is namoore to seye." (369--71)
-
-Walter never has anything more than this to say about why people should conform their wills to his. He does not traffic in reasons or even rhetoric, but simply expects to be loved and followed. His only backup strategy is to instill fear. Thus, we are told of the child-snatching sergeant that "the lord knew wel that he hym loved and dradde" (523), and we get the barest taste of that latter strategy in Walter's passing threat to cut off his head should the sergeant disclose his true mission (586--87). For Griselda's part, her submission is so absolute that her subjection to a regime of dread need never be contemplated. Yet a moment's reflection makes it obvious that this is where the story would have to go if she had made other decisions. The clerk blithely and salaciously remarks:
+Walter never has anything more than this to say about why people should conform their wills to his. He does not traffic in reasons or even rhetoric, but simply expects to be loved and followed. His only backup strategy is to instill fear. Thus, we are told of the child-snatching sergeant that "the lord knew wel that he hym loved and dradde" (523), and we get the barest taste of that latter strategy in Walter's passing threat to cut off his head should the sergeant disclose his true mission (586-87). For Griselda's part, her submission is so absolute that her subjection to a regime of dread need never be contemplated. Yet a moment's reflection makes it obvious that this is where the story would have to go if she had made other decisions. The clerk blithely and salaciously remarks:
 
 "O nedelees was she tempted in assay!
 
 But wedded men ne knowe no mesure,
 
-Whan that they fynde a pacient creature." (621--23)
+Whan that they fynde a pacient creature." (621-23)
 
 Left unsaid is what wedded men do with creatures who are not patient.
 
-Griselda's life is shaped by a will that conforms itself to reason. This is not to say that she has no sub-rational desires of her own. Although we are kept at some distance from her exact state of mind, the pathos of her two farewells to her children leave us in no doubt that she is suffering tremendously. And when she twice faints upon being reunited with her children, we see the bodily expression of those passions at the moment when she can finally relax her will's iron control.\[34] But although she has feelings of her own, and never vowed otherwise, she neither reveals them nor endorses them with her will. In this she is the perfect mirror-image of Walter, conforming precisely to his will but in inverse fashion, so that while his will is shaped by his desire, hers is shaped by her reason's judgment that she ought to adhere to his will and so ultimately to his desires. Her most remarkable statement of this commitment stretches over three-plus stanzas after she loses her son, and it is worth studying in some detail:
+Griselda's life is shaped by a will that conforms itself to reason. This is not to say that she has no sub-rational desires of her own. Although we are kept at some distance from her exact state of mind, the pathos of her two farewells to her children leave us in no doubt that she is suffering tremendously. And when she twice faints upon being reunited with her children, we see the bodily expression of those passions at the moment when she can finally relax her will's iron control[^33]. But although she has feelings of her own, and never vowed otherwise, she neither reveals them nor endorses them with her will. In this she is the perfect mirror-image of Walter, conforming precisely to his will but in inverse fashion, so that while his will is shaped by his desire, hers is shaped by her reason's judgment that she ought to adhere to his will and so ultimately to his desires. Her most remarkable statement of this commitment stretches over three-plus stanzas after she loses her son, and it is worth studying in some detail:
 
-"I have," quod she, "seyd thus, and evere shal:
-
-I wol no thyng, ne nyl no thyng, certayn,
-
-But as yow list. Naught greveth me at al,
-
-But as you desire. It does not grieve me
-
-Though that my doughter and my sone be slayn ---
-
-At youre comandement, this is to sayn.
-
-I have noght had no part of children tweyne
-
-But first siknesse, and after, wo and peyne." (645--51)
+> "I have," quod she, "seyd thus, and evere shal:
+>
+> I wol no thyng, ne nyl no thyng, certayn,
+>
+> But as yow list. Naught greveth me at al,
+>
+> But as you desire. It does not grieve me
+>
+> Though that my doughter and my sone be slayn ---
+>
+> At youre comandement, this is to sayn.
+>
+> I have noght had no part of children tweyne
+>
+> But first siknesse, and after, wo and peyne." (645-51)
 
 In this first stanza she reiterates the core of her original vow to conform her will to his, here expressed without the pretense that it is really his rational appetite in charge: in truth, she wills and nills according to his lusts. At this point, however, the vow requires her to tell the first of many lies to come: that she is not grieved by the loss of her children and that they never meant anything to her. We know this to be untrue and six stanzas later it becomes clear that Walter does too, when he wonders about her remark and reminds himself that he knows for certain that she loved her children (689--90). Griselda's speech continues:
 
-"Ye been oure lord; dooth with youre owene thyng
+> "Ye been oure lord; dooth with youre owene thyng
+>
+> Right as yow list; axeth no reed at me. list : desire | *axeth no reed at : ask no advice from*
+>
+> For as I lefte at hoom al my clothyng,
+>
+> Whan I first cam to yow, right so," quod she,
+>
+> "Lefte I my wyl and al my libertee,
+>
+> And took youre clothyng; wherfore I yow preye,
+>
+> Dooth youre plesaunce; I wol youre lust obeye." (652-58)
 
-Right as yow list; axeth no reed at me. list : desire | axeth no reed at : ask no advice from
-
-For as I lefte at hoom al my clothyng,
-
-Whan I first cam to yow, right so," quod she,
-
-"Lefte I my wyl and al my libertee,
-
-And took youre clothyng; wherfore I yow preye,
-
-Dooth youre plesaunce; I wol youre lust obeye." (652--58)
-
-Here she registers the implications of the original deal. Walter from the start has made no pretense of being interested in anything other his "owene thyng". Although we have been told that Griselda is skilled in promoting the "common profit" (431), Walter's only concern is his personal benefit, as determined by his desires. Accordingly, he does not want her advice and she has pledged never to give it. Again, however, as in the previous stanza, this leaves her in moral trouble: she has surrendered "al my libertee", a detail that is not present in Chaucer's sources and that is of the utmost importance since it would entail that she is incapable of moral responsibility. But still she remains steadfast, committed to willing what he lusts after so that he can have his pleasures.\[35]
+Here she registers the implications of the original deal. Walter from the start has made no pretense of being interested in anything other his "owene thyng". Although we have been told that Griselda is skilled in promoting the "common profit" (431), Walter's only concern is his personal benefit, as determined by his desires. Accordingly, he does not want her advice and she has pledged never to give it. Again, however, as in the previous stanza, this leaves her in moral trouble: she has surrendered "al my libertee", a detail that is not present in Chaucer's sources and that is of the utmost importance since it would entail that she is incapable of moral responsibility. But still she remains steadfast, committed to willing what he lusts after so that he can have his pleasures [^34].
 
 At this point, as if she cannot quite resist escalating the situation still further, she brings her speech to a chilling conclusion:
 
-"And certes, if I hadde prescience prescience : foreknowledge
-
-Youre wyl to knowe, er ye youre lust me tolde,
-
-I wolde it doon withouten necligence;
-
-But now I woot youre lust, and what ye wolde, woot : know | ye wolde : you willed
-
-Al youre plesance ferme and stable I holde;
-
-For wiste I that my deeth wolde do yow ese, wiste I : if I knew
-
-Right gladly wolde I dyen, yow to plese.
-
-"Deth may noght make no comparisoun
-
-Unto youre love." (659--67).
+> "And certes, if I hadde prescience *prescience : foreknowledge*
+>
+> Youre wyl to knowe, er ye youre lust me tolde,
+>
+> I wolde it doon withouten necligence;
+>
+> But now I woot youre lust, and what ye wolde, *woot : know | ye wolde : you willed*
+>
+> Al youre plesance ferme and stable I holde;
+>
+> For wiste I that my deeth wolde do yow ese, *wiste I : if I knew*
+>
+> Right gladly wolde I dyen, yow to plese.
+>
+> "Deth may noght make no comparisoun
+>
+> Unto youre love." (659-67).
 
 In marked contrast to Walter's concern only for his present lust (80, as above), Griselda here shows providential concern for Walter's desires even before they fall upon him. Always the eager student, Griselda's efforts in this regard can only be fruitless, since in contrast to a rational agent whose will is often foreseeable, Walter's "lust" comes onto him in ways that admit of no rational forecast. The best she can do, then, is conform herself once he chooses to reveal his will. That unconditional readiness is rendered shockingly vivid in the final four lines, where the full depth of her moral trouble is revealed. She is willing, she says here, to commit one of the worst of all sins, sacrificing her own life for the sake of Walter's pleasure.
 
-How did things go so horribly wrong for Griselda? Critics have often supposed that she feels morally bound to obey Walter because of the oath she swore and her general obediential duty as wife. This, however, would be such an obviously faulty basis for her commitment as to be scarcely reconcilable with her supposed maturity and wisdom. As critics often observe, medieval moral theorists make it expressly clear that neither oaths nor obediential relationships are absolute. Where such commitments clash with morality, it is the oath or the obedience that must give way.\[36] Our Oxford clerk certainly would have been keenly aware of this basic moral teaching, and indeed he tells us as much in the prologue to the tale when he agrees to show "obeisance" to the host's request "as fer as resoun axeth" (24--25), a qualification that would seem oddly pedantic if not for the tale he proceeds to tell.
+How did things go so horribly wrong for Griselda? Critics have often supposed that she feels morally bound to obey Walter because of the oath she swore and her general obediential duty as wife. This, however, would be such an obviously faulty basis for her commitment as to be scarcely reconcilable with her supposed maturity and wisdom. As critics often observe, medieval moral theorists make it expressly clear that neither oaths nor obediential relationships are absolute. Where such commitments clash with morality, it is the oath or the obedience that must give way[^35]. Our Oxford clerk certainly would have been keenly aware of this basic moral teaching, and indeed he tells us as much in the prologue to the tale when he agrees to show "obeisance" to the host's request "as fer as resoun axeth" (24-25), a qualification that would seem oddly pedantic if not for the tale he proceeds to tell.
 
-But if it is not the duty of obedience that motivates Griselda then it is hard to see what other reason she might have. If we think of her as Walter does, as scarcely a person at all, then the question does not arise, and certainly Walter himself does not stop to consider why it is that he should be so beloved. But since the clerk takes such pains to stress that Griselda, unlike Walter, is a rational agent, it seems that it is to reason that we must look. It is clear enough, after all, that she is not motivated by desire, whether that be for wealth, status, or power. Nor, as noted already, is there any suggestion---at least once she gets past that first moment of "quakynge for drede" (358)---that Griselda is motivated by fear. And yet the tale offers us nothing at all, beyond that initial oath, that might explain her subsequent persistence. One possibility would be that she has faith in the rightness of Walter's will, and indeed the poem adverts three times to Griselda's faith.\[37] But is hard to believe that this is literally a faith in Walter's judgment, if that means that she believes with certainty Walter's claims to know what is best. After all, his explanations for why the children must be taken away---having to do with Griselda's unpopularity among the people---are transparently lies, and anyway it hardly takes great wisdom to see that right reason could not conceivably justify killing the children.\[38] Moreover, what Griselda says, repeatedly, is not that she conforms her will to Walter's because she is certain of the rightness of what he wants. Instead, her motive is simply that she loves him.
+But if it is not the duty of obedience that motivates Griselda then it is hard to see what other reason she might have. If we think of her as Walter does, as scarcely a person at all, then the question does not arise, and certainly Walter himself does not stop to consider why it is that he should be so beloved. But since the clerk takes such pains to stress that Griselda, unlike Walter, is a rational agent, it seems that it is to reason that we must look. It is clear enough, after all, that she is not motivated by desire, whether that be for wealth, status, or power. Nor, as noted already, is there any suggestion-at least once she gets past that first moment of "quakynge for drede" (358)-that Griselda is motivated by fear. And yet the tale offers us nothing at all, beyond that initial oath, that might explain her subsequent persistence. One possibility would be that she has faith in the rightness of Walter's will, and indeed the poem adverts three times to Griselda's faith[^36]. But is hard to believe that this is literally a faith in Walter's judgment, if that means that she believes with certainty Walter's claims to know what is best. After all, his explanations for why the children must be taken away-having to do with Griselda's unpopularity among the people-are transparently lies, and anyway it hardly takes great wisdom to see that right reason could not conceivably justify killing the children[^37]. Moreover, what Griselda says, repeatedly, is not that she conforms her will to Walter's because she is certain of the rightness of what he wants. Instead, her motive is simply that she loves him.
 
-That it is love that ultimately motivates Griselda's obedience is a theme that only slowly emerges in her successive speeches. It appears not at all in her initial vow, but gets hinted at in her response to the loss of her daughter: "Ne I desire no thyng for to have, / Ne drede for to leese \[lose], save oonly yee" (507--8). This reorientation of her desires, so that Walter becomes her final end, already goes well beyond the terms of her initial vow. It explains why she allows her once venerated father to continue living in poverty, why she willingly parts with her children, and why the most difficult in the escalating series of trials is the one that requires her to abandon Walter himself. \[40] Subsequent speeches make this transformation steadily more vivid. Her final words at the loss of her son, when she offers to sacrifice her own life, are that "Deth may noght make no comparisoun / Unto youre love." (666--67, as above). Here she does not mean Walter's love for her, which the poem leaves in considerable doubt, but her love for Walter.\[41] Since he is her only ultimate desire, everything else can be sacrificed for the sake of that. All of this becomes completely explicit on her final test, when she replies
+That it is love that ultimately motivates Griselda's obedience is a theme that only slowly emerges in her successive speeches. It appears not at all in her initial vow, but gets hinted at in her response to the loss of her daughter: "Ne I desire no thyng for to have, / Ne drede for to leese \[lose], save oonly yee" (507-8). This reorientation of her desires, so that Walter becomes her final end, already goes well beyond the terms of her initial vow. It explains why she allows her once venerated father to continue living in poverty, why she willingly parts with her children, and why the most difficult in the escalating series of trials is the one that requires her to abandon Walter himself [^38]. Subsequent speeches make this transformation steadily more vivid. Her final words at the loss of her son, when she offers to sacrifice her own life, are that "Deth may noght make no comparisoun / Unto youre love." (666-67, as above). Here she does not mean Walter's love for her, which the poem leaves in considerable doubt, but her love for Walter [^39] Since he is her only ultimate desire, everything else can be sacrificed for the sake of that. All of this becomes completely explicit on her final test, when she replies
 
-"Nat oonly, lord, that I am glad," quod she,
+> "Nat oonly, lord, that I am glad," quod she,
+>
+> "To doon youre lust, but I desire also
+>
+> Yow for to serve and plese in my degree
+>
+> Withouten feyntyng, and shal everemo; *feyntyng : flagging*
+>
+> Ne nevere, for no wele ne no wo, *wele : happiness | wo : woe*
+>
+> Ne shal the goost withinne myn herte stente *goost : spirit | stente : cease*
+>
+> To love yow best with al my trewe entente." (967-73).
 
-"To doon youre lust, but I desire also
+Here, as even the humblest of the clerk's companions on the pilgrimage would recognize, Griselda pledges to give to Walter that which should be given only to God. The very definition of charity-the prime theological virtue and the sum of a Christian's aspirations while on the moral stage-is to love God above all else, in such a way that all other things are loved only for the sake of God[^40]. In a different context, it would be only fair to read the scope of Griselda's remark as tacitly restricted: that among everything in the created realm, she loves Walter best of all. And certainly, she has proved by this point that that is so. But she has also made it explicitly clear, both in previous promises and in her actions themselves, that she is willing to ignore that most clearcut of God's laws-thou shalt not kill-in order to conform herself to what Walter wants. In putting Walter's will before God's, she puts on vivid display the badness of her own will, fulfilling to the letter the sin of idolatry as described in the Parson's Tale: "Certes, be it wyf, be it child, or any worldly thyng that he loveth beforn God, it is his mawmet \[idol], and he is an ydolastre" (X:860).
 
-Yow for to serve and plese in my degree
+Ultimately, then, the Clerk's Tale is a tale of lust and love. Walter is the exemplar of a life dominated by sub-rational desire. He is too careless, too wanton in the philosophical sense, to be considered a villain[^41]. The clerk seems to regard him not as a moral monster, but as an ordinary case of what happens when a foolish man is given absolute power. If his case seems extraordinary that is simply because he fell into a bizarre obsession: "this merveillous desir his wyf t'assaye" (454). Griselda, in turn, is the tale's tragic voluntarist heroine. She offers us a model of what it looks like to put one's life under the control of rational appetite, but the tragedy of her case is the disordered nature of her love. In that first fateful village encounter, her will imprinted on Walter in such a way as to leave no room for any more worthy object. That leaves her rationally defenseless against Walter's tortures, because the only thing that practical reasoning can do is show someone how best to achieve their ultimate end. When she decides that her only end is Walter's pleasure, she is sunk. In all of this she manifests the voluntarists' conviction that what matters most to our lives is what goes on within our will. If we think of Augustine's famous image: "My weight is my love, by it I am carried, wherever I am carried", then we can say that Griselda's love nearly drowned her[^42].
 
-Withouten feyntyng, and shal everemo; feyntyng : flagging
+Superficially, the Clerk's Tale is not a tragedy at all. It ends, after all, sort of, with a wedding. But if we do not see Griselda as a tragic figure then this is only because we tend to give too much weight to moral luck. We let our moral judgments about a case be dictated by how things come out in the end, even if it was a matter of sheer dumb luck that they came out that way. The voluntarists are the steadfast opponents of letting moral luck infiltrate our judgments of moral responsibility. What makes Griselda's decision wrong, from the voluntarist perspective, is that she made a series of decisions that flagrantly violated right reason given the information available to her. Relative to what she knew, she is lucky that her children survived. Griselda is, therefore, no moral exemplar, as the clerk makes abundantly clear in the concluding envoy that mockingly comments on Petrarch's sober moralistic tale. Griselda is, however, eminently responsible for her behavior. For even if she deems herself to have surrendered "my wyl and al my libertee" (656, as above), in fact she is an exemplar of voluntaristic freedom: she makes up her own mind about the end she seeks to pursue, and steadfastly adheres to that end through the greatest adversity. Walter, in contrast, is not at all free. Although the whole point of his testing Griselda is to reassure himself that he retains the freedom he possessed when the story began, in fact-from a voluntaristic perspective-Walter was never free at all. What Walter has is merely the common freedom to do what he wants, and for the voluntarists that is no freedom at all. Without the freedom to control those wants-something we are told over and over that Walter utterly lacks-he is not at all free and barely even counts as a person. It is Griselda, instead, who emerges heroically from the poem as a person in full bloom. The tragedy is that she exercises that personhood toward the wrong end.
 
-Ne nevere, for no wele ne no wo, wele : happiness | wo : woe
+## Higher and Lower Will
 
-Ne shal the goost withinne myn herte stente goost : spirit | stente : cease
+To form a clearer idea of the growing role of the will in later medieval culture it will be helpful to look briefly at how the terms "will" and "*voluntas*" are ordinarily deployed in medieval texts. For a modern reader, the voluntarist association of the will with the self and with moral worth looks perfectly natural. We commonly express judgments about personal agency in terms of our having "free will" or being "weak willed". Our tendency to elevate the role of will in these ways is a mark of the modern influence of voluntarism, but in the Middle Ages this influence had not yet so thoroughly taken hold. Medieval authors writing philosophy in Latin speak ordinarily not of free will (*libera voluntas*) but of free judgment (*liberum arbitrium*) and speak of *incontinentia* rather than weakness of will. Exactly how the will might be involved in these phenomena was an open question, and this was the very territory in dispute between intellectualists and voluntarists.
 
-To love yow best with al my trewe entente." (967--73).
-
-Here, as even the humblest of the clerk's companions on the pilgrimage would recognize, Griselda pledges to give to Walter that which should be given only to God. The very definition of charity---the prime theological virtue and the sum of a Christian's aspirations while on the moral stage---is to love God above all else, in such a way that all other things are loved only for the sake of God.\[42] In a different context, it would be only fair to read the scope of Griselda's remark as tacitly restricted: that among everything in the created realm, she loves Walter best of all. And certainly, she has proved by this point that that is so. But she has also made it explicitly clear, both in previous promises and in her actions themselves, that she is willing to ignore that most clearcut of God's laws---thou shalt not kill---in order to conform herself to what Walter wants. In putting Walter's will before God's, she puts on vivid display the badness of her own will, fulfilling to the letter the sin of idolatry as described in the Parson's Tale: "Certes, be it wyf, be it child, or any worldly thyng that he loveth beforn God, it is his mawmet \[idol], and he is an ydolastre" (X:860).
-
-Ultimately, then, the Clerk's Tale is a tale of lust and love. Walter is the exemplar of a life dominated by sub-rational desire. He is too careless, too wanton in the philosophical sense, to be considered a villain.\[44] The clerk seems to regard him not as a moral monster, but as an ordinary case of what happens when a foolish man is given absolute power. If his case seems extraordinary that is simply because he fell into a bizarre obsession: "this merveillous desir his wyf t'assaye" (454). Griselda, in turn, is the tale's tragic voluntarist heroine. She offers us a model of what it looks like to put one's life under the control of rational appetite, but the tragedy of her case is the disordered nature of her love. In that first fateful village encounter, her will imprinted on Walter in such a way as to leave no room for any more worthy object. That leaves her rationally defenseless against Walter's tortures, because the only thing that practical reasoning can do is show someone how best to achieve their ultimate end. When she decides that her only end is Walter's pleasure, she is sunk. In all of this she manifests the voluntarists' conviction that what matters most to our lives is what goes on within our will. If we think of Augustine's famous image: "My weight is my love, by it I am carried, wherever I am carried", then we can say that Griselda's love nearly drowned her.\[45]
-
-Superficially, the Clerk's Tale is not a tragedy at all. It ends, after all, sort of, with a wedding. But if we do not see Griselda as a tragic figure then this is only because we tend to give too much weight to moral luck. We let our moral judgments about a case be dictated by how things come out in the end, even if it was a matter of sheer dumb luck that they came out that way. The voluntarists are the steadfast opponents of letting moral luck infiltrate our judgments of moral responsibility. What makes Griselda's decision wrong, from the voluntarist perspective, is that she made a series of decisions that flagrantly violated right reason given the information available to her. Relative to what she knew, she is lucky that her children survived. Griselda is, therefore, no moral exemplar, as the clerk makes abundantly clear in the concluding envoy that mockingly comments on Petrarch's sober moralistic tale. Griselda is, however, eminently responsible for her behavior. For even if she deems herself to have surrendered "my wyl and al my libertee" (656, as above), in fact she is an exemplar of voluntaristic freedom: she makes up her own mind about the end she seeks to pursue, and steadfastly adheres to that end through the greatest adversity. Walter, in contrast, is not at all free. Although the whole point of his testing Griselda is to reassure himself that he retains the freedom he possessed when the story began, in fact---from a voluntaristic perspective---Walter was never free at all. What Walter has is merely the common freedom to do what he wants, and for the voluntarists that is no freedom at all. Without the freedom to control those wants---something we are told over and over that Walter utterly lacks---he is not at all free and barely even counts as a person. It is Griselda, instead, who emerges heroically from the poem as a person in full bloom. The tragedy is that she exercises that personhood toward the wrong end.
-
-6. Higher and Lower Will
-
-To form a clearer idea of the growing role of the will in later medieval culture it will be helpful to look briefly at how the terms "will" and "voluntas" are ordinarily deployed in medieval texts. For a modern reader, the voluntarist association of the will with the self and with moral worth looks perfectly natural. We commonly express judgments about personal agency in terms of our having "free will" or being "weak willed". Our tendency to elevate the role of will in these ways is a mark of the modern influence of voluntarism, but in the Middle Ages this influence had not yet so thoroughly taken hold. Medieval authors writing philosophy in Latin speak ordinarily not of free will (libera voluntas) but of free judgment (liberum arbitrium) and speak of incontinentia rather than weakness of will. Exactly how the will might be involved in these phenomena was an open question, and this was the very territory in dispute between intellectualists and voluntarists.
-
-For both parties to this philosophical dispute, voluntas refers uncontroversially to rational appetite, the soul's higher desire for its ultimate good and for whatever means are judged conducive to that good. On this Aristotelian picture, the will is and must be involved in every deliberate human act. Yet, there is a tendency among philosophers, before the fourteenth century, to treat the will as merely one among various aspects of human agency. Where questions of freedom arise, the earlier medieval Latin tradition---most notably, in Augustine and Anselm---focuses its attention on liberum arbitrium, thereby associating freedom with judgment rather than volition. By the later fourteenth century, as a result of the voluntarist movement, the situation has permanently changed. In Chaucer's translation of Boethius, liberum arbitrium becomes will (e.g., at Vpr2). And in Piers Plowman, as we will see, the dreamer just is Will, and when Liberum Arbitrium makes an appearance in the poem (briefly in B.XVI and more extensively in C.XVII and C.XIX) it is as something exterior to Will's own agency: not by any means because freedom is marginal to the poem's interests, but because Liberum Arbitrium has come to embody just another of the institutionalized authorities that come and go throughout the poem.
+For both parties to this philosophical dispute, *voluntas* refers uncontroversially to rational appetite, the soul's higher desire for its ultimate good and for whatever means are judged conducive to that good. On this Aristotelian picture, the will is and must be involved in every deliberate human act. Yet, there is a tendency among philosophers, before the fourteenth century, to treat the will as merely one among various aspects of human agency. Where questions of freedom arise, the earlier medieval Latin tradition---most notably, in Augustine and Anselm---focuses its attention on liberum arbitrium, thereby associating freedom with judgment rather than volition. By the later fourteenth century, as a result of the voluntarist movement, the situation has permanently changed. In Chaucer's translation of Boethius, liberum arbitrium becomes will (e.g., at Vpr2). And in Piers Plowman, as we will see, the dreamer just is Will, and when Liberum Arbitrium makes an appearance in the poem (briefly in B.XVI and more extensively in C.XVII and C.XIX) it is as something exterior to Will's own agency: not by any means because freedom is marginal to the poem's interests, but because Liberum Arbitrium has come to embody just another of the institutionalized authorities that come and go throughout the poem.
 
 In Middle English texts, the place of the will is often even more marginal than it is within philosophy, lacking any association with rational deliberation. Characteristically, instead, "will" refers to the lower human appetites that work against reason rather than in collaboration with it. We have seen this already in the Clerk's Tale's depiction of Walter's sub-rational lusts. It appears as well in the popular opposition between wit and will, a trope that appears over and over in Middle English literature. In Sawles Warde, for instance, from around the start of the thirteenth century, the allegory gets set out at the very start:
 
