@@ -495,17 +495,17 @@ The well-coined "near death experience", does make explicit the fact that such t
 
 Time flies and my month-long writing invitation at the IEA of Paris is spent. Forced to stop my writing for now, here is a short summary and some preliminary conclusions on our starting question: what might lie behind the human quest for rapture and ecstasy, something we witness across human societies as far back as we may investigate our origins? 
 
-            As evidenced, I first tried to convey pervasive expressions of human cultivation toward altered states of mind, away from the default mode of functioning in response to daily survival contingencies. 
+As evidenced, I first tried to convey pervasive expressions of human cultivation toward altered states of mind, away from the default mode of functioning in response to daily survival contingencies. 
 
 In anticipation of legitimate push backs, I argued that a meaningful account regarding what may drive the human quest for rapture and ecstasy cannot be simply reduced to mere hedonistic mechanisms of reward/pleasure-seeking motives. Such accounts are insufficient because of the distinctive self-conscious and symbolic nature of human psychology, the recursive and creative nature of our mind. Arguably, the human quest and cultivation of rapture and ecstasy cannot be understood outside of the human self-conscious condition. Our mind is a mind that makes us aware of our own, necessary passing - the basic human existential conundrum that is our poisonous gift from nature.
 
-            As evidenced, I briefly presented some facts on the ontogenetic emergence of human self-consciousness at around 18 months of age. If signs of rapture and ecstasy are evident from birth, the driving mechanisms and causes behind them change, following universal steps. Children become self-conscious and symbolic by the end of infancy, in parallel to the emergence of language and recursive, "meta" thoughts about the self and the world.
+As evidenced, I briefly presented some facts on the ontogenetic emergence of human self-consciousness at around 18 months of age. If signs of rapture and ecstasy are evident from birth, the driving mechanisms and causes behind them change, following universal steps. Children become self-conscious and symbolic by the end of infancy, in parallel to the emergence of language and recursive, "meta" thoughts about the self and the world.
 
-            Looking specifically at trance phenomena, I tried to make the argument that the human quest and cultivation of rapture and states of ecstasy, - aside from reverse agency seeking away from self-control-, may also be understood as a playful activity to conjure up death and its inevitability. 
+Looking specifically at trance phenomena, I tried to make the argument that the human quest and cultivation of rapture and states of ecstasy, - aside from reverse agency seeking away from self-control-, may also be understood as a playful activity to conjure up death and its inevitability. 
 
 Accordingly, I came to the realization that all forms of trance, be they hypnotic, drug induced, meditative, or festive, could be construed as self-conscious plays with death. All have in common the deep motive of voyaging toward death, with a return ticket from which one may hope to rake wisdom and improved composure in life.
 
-            As a final note, let me recount a personal anecdote with my very old mother who was on her last leg, laying on a stretcher in the hallway of a crowded emergency room. I received a phone call from one of my siblings, who urged me to brace myself because it was the end. Shaken, I asked my sister to put my mother on her cellphone. Mom answered: "My darling son... can you please ask them to stop asking me what year we are in, who is the current president of France and what makes 14 plus 11....".  My mother's hidden observer was still alive and well in the midst of her failing body.  She just wanted calm ecstasy in her exit from life.
+As a final note, let me recount a personal anecdote with my very old mother who was on her last leg, laying on a stretcher in the hallway of a crowded emergency room. I received a phone call from one of my siblings, who urged me to brace myself because it was the end. Shaken, I asked my sister to put my mother on her cellphone. Mom answered: "My darling son... can you please ask them to stop asking me what year we are in, who is the current president of France and what makes 14 plus 11....".  My mother's hidden observer was still alive and well in the midst of her failing body.  She just wanted calm ecstasy in her exit from life.
 
 This little anecdote should remind us of the infinite regressions and layers of human self-consciousness. This cannot be overlooked when trying to account for human psychology.
 
@@ -513,9 +513,7 @@ On the whole, this month-long reflection on trance, rapture and what may be behi
 
 I thus conclude, at this stage of my reflection, that being self-conscious and endowed with a symbolic mind, mortality aware to boot, we are destined by nature to play around the simulation of our own death. I tried to show that it is an important dimension of what lies behind the universal human quest and cultivation of rapture and ecstasy.
 
-Paris, March 3^rd^, 2024
-
-**References**
+## References
 
 Agnetta, B., & Rochat, P. (2004). Imitative games by 9‐, 14‐, and 18‐month‐old infants. *Infancy, 6*(1), 1-36. Retrieved at: [https://doi.org/10.1207/s15327078in0601_1.](https://doi.org/10.1207/s15327078in0601_1)
 
