@@ -509,7 +509,7 @@ A survey of Alpine and pre-alpine villages between the Old Regime and the 19^th^
 
 The reassessment of singularity seems to me essential in the current crisis of forms of representation. If I am not mistaken, attention to local singularities does not constitute a major focus of attention in political science today. In Italian case it seems to me to be more inclined to adopt categories assimilable to the centre-periphery dichotomy (e.g. the Italian inland areas) or to constructive or organisational typologies[^143]. The voices of singularity and the forms in which the aspiration to self-determination is articulated remain to be inventoried. It is perhaps time to take it into consideration before the distance between local societies and centres of power becomes truly unbridgeable.
 
-**References** 
+## References 
 
 Aime, M. (2012). *Verdi tribù del Nord: La Lega vista da un antropologo*. Bari, Gius. Laterza & Figli Spa.
 
@@ -959,7 +959,7 @@ AST, Corte, Paesi di Nuovo Acquisto, Novarese, m. 6 d'addizione, Vogogna, n. 4: 
 
 [^31] 
 
-AST, Sezioni Riunite, II Archiviazione, capo 13, vol. 24, Riparto tra le province di nuovo acquisto, 1773, "Bordreau delli stati e conguagli che dal R. Officio della Vice Intendenza della provincia dell'alto novarese in Pallanza si trasmettono al generale Officio del Censimento di ~~Torino~~Turin con lettera". In 1770 the deputies are: 1 for Vogogna, 2 Prata, Rumianca, Megolo and Fomarco, 1 each Piedimulera, Pieve, Loro, Piana.
+AST, Sezioni Riunite, II Archiviazione, capo 13, vol. 24, Riparto tra le province di nuovo acquisto, 1773, "Bordreau delli stati e conguagli che dal R. Officio della Vice Intendenza della provincia dell'alto novarese in Pallanza si trasmettono al generale Officio del Censimento di Turin con lettera". In 1770 the deputies are: 1 for Vogogna, 2 Prata, Rumianca, Megolo and Fomarco, 1 each Piedimulera, Pieve, Loro, Piana.
 
 [^32]
 
@@ -973,85 +973,159 @@ AST, Sezioni Riunite, Ufficio generale delle finanze, Seconda Archiviazione, Bos
 
 Ibidem
 
-\[[36]](#_ftnref36) Ibidem.
+[^35]
 
-\[[37]](#_ftnref37) AST, Corte, Paesi di Nuovo Acquisto, Novarese, m. 6 d'addizione, n. 4.
+Ibidem.
 
-\[[38]](#_ftnref38) AST, Corte, Paesi per Province, Provincia di Pallanza mm. 78-80: many woodland usurpations are reported. 
+[^36]
 
-\[[39]](#_ftnref39) AST, Corte, Paesi per A e B, Lettera V, m. 38, n. 14, 17, 18.
+AST, Corte, Paesi di Nuovo Acquisto, Novarese, m. 6 d'addizione, n. 4.
 
-\[[40]](#_ftnref40) AST, Corte, Paesi di Nuovo Acquisto, Novarese, m. 6 d'addizione, Vogogna, n. 4, 1787.
+[^37]
 
-\[[41]](#_ftnref41) AST, Corte, Paesi di Nuovo Acquisto, Novarese, m. 6 d'addizione, Vogogna, n. 4.
+AST, Corte, Paesi per Province, Provincia di Pallanza mm. 78-80: many woodland usurpations are reported. 
 
-\[[42]](#_ftnref42) Ibidem. However, in the 19^th^ century land register, 37 individuals named Tabacco own around 10 hectares in 125 parcels (mode: 1 and 2 parcels per person; 3 people own 18, 15, 10 parcels). Crops are: pastures (arbored and not) 30, wood 24, meadow 14, corn 5, meadow and vine 2, houses 14, barn 1: AST Sezioni Riunite, Allegato F, Catasto Rabbini, Rumianca.
+[^38]
 
-\[[43]](#_ftnref43) AST, Corte, Paesi di Nuovo Acquisto, Novarese, m. 6 d'addizione, Vogogna, n. 4.
+AST, Corte, Paesi per A e B, Lettera V, m. 38, n. 14, 17, 18.
 
-\[[44]](#_ftnref44) Ibidem, Letter from Prefect Roggiero, 18 September 1786, c. 2.
+[^39]
 
-\[[45]](#_ftnref45) AST, Corte, Paesi per A e B, Lettera V, m. 38, n. 20.
+AST, Corte, Paesi di Nuovo Acquisto, Novarese, m. 6 d'addizione, Vogogna, n. 4, 1787.
 
-\[[46]](#_ftnref46) All the following quotations are from AST, Corte, Paesi di Nuovo Acquisto, Novarese, Vogogna, M. 6 d'addizione, n. 4.
+[^40]
 
-\[[47]](#_ftnref47) AST, Sezioni Riunite, Camera dei Conti, Province d'Ultimo Acquisto, § 13, Boschi, entries "Rumianca", "Vogogna".
+AST, Corte, Paesi di Nuovo Acquisto, Novarese, m. 6 d'addizione, Vogogna, n. 4.
 
-\[[48]](#_ftnref48) Ibidem
+[^41]
 
-\[[49]](#_ftnref49) Ibidem, entry "Vogogna".
+Ibidem. However, in the 19^th^ century land register, 37 individuals named Tabacco own around 10 hectares in 125 parcels (mode: 1 and 2 parcels per person; 3 people own 18, 15, 10 parcels). Crops are: pastures (arbored and not) 30, wood 24, meadow 14, corn 5, meadow and vine 2, houses 14, barn 1: AST Sezioni Riunite, Allegato F, Catasto Rabbini, Rumianca.
 
-\[[50]](#_ftnref50) Ibidem, c. 481r.
+[^42]
 
-\[[51]](#_ftnref51) Ibidem (my emphasis).
+AST, Corte, Paesi di Nuovo Acquisto, Novarese, m. 6 d'addizione, Vogogna, n. 4.
 
-\[[52]](#_ftnref52) Ibidem(my emphasis).
+[^43]
 
-\[[53]](#_ftnref53) Ibidem(my emphasis).
+Ibidem, Letter from Prefect Roggiero, 18 September 1786, c. 2.
 
-\[[54]](#_ftnref54) Ibidem (my emphasis).
+[^44]
 
-\[[55]](#_ftnref55) Archivio del Commissariato alla Liquidazione degli Usi Civici, Turin, Vogogna. A. Torre, "Pieve Vergonte", Schedario Storico-territoriale dei Comuni Piemontesi, www.archiviocasalis.it.
+AST, Corte, Paesi per A e B, Lettera V, m. 38, n. 20.
 
-\[[56]](#_ftnref56) There are 16 charitable institutions in Rumianca in 19^th^ century "Catasto Rabbini" (see fn. 89): 7 Lay Benefices, 2 parish institutions, 1 "Alm for the hamlet's poor".
+[^45]
 
-\[[57]](#_ftnref57) The commune of Pistolesa chose in 1999 to merge with Mosso Santa Maria: this choice was presented as a response to the depopulation of the mountain area, but here it is shown that other factors (*confraria*) were at play.
+All the following quotations are from AST, Corte, Paesi di Nuovo Acquisto, Novarese, Vogogna, M. 6 d'addizione, n. 4.
 
-\[[58]](#_ftnref58) Current census data obviously present a far lower estimate than the partial estimate of the first graphical representation of the valley in 1802 (I do not know the reasons behind it).
+[^46]
 
-\[[59]](#_ftnref59) For the distinction between internal and external commons see Greer (2018)~~.~~. In fact, it would become known a century later that there is another type of pasture, the undivided pasture, which escaped Turin's notice. It is the fate of the undivided pastures that will give rise to a particular administrative configuration, forming communal territories, known as "administrative islands", that characterise the subalpine region in the Italian panorama V. *Ricerca sulle isole amministrative cit.* and Sturani (2001; 1995).
+AST, Sezioni Riunite, Camera dei Conti, Province d'Ultimo Acquisto, § 13, Boschi, entries "Rumianca", "Vogogna".
 
-\[[60]](#_ftnref60) We are indebted to geom. Giovanni Torrero, inspector of the Commissariato alla Liquidazione degli Usi Civici per il Piemonte e la Valle d'Aosta, for the discovery of this, and other extraordinary documents. I express here my esteem for his work as a local historian. His heirs made available to scholars the papers in his archive.
+[^47]
 
-\[[61]](#_ftnref61) The nature of the fascist administrative reforms really calls for a thorough re-reading, at least from this point of view.
+Ibidem
 
-\[[62]](#_ftnref62) Request for union with Mosso S. Maria (1998) filed with the Piedmont Region's Local Government Department (' Foglio informativo, p. 5); Soprintendenza Archivistica per il Piemonte e la Valle d'Aosta, s.v. Pistolesa, an anonymous person expressed the conviction of a forthcoming union of the two municipalities as early as 1958.
+[^48]
 
-\[[63]](#_ftnref63) D. Lowenthal, "Marsh at Cravairola: Boundary-Making in the Italo-Swiss Alps", *Environment and History* , May 2004, Vol. 10, No. 2, (T*he Nature of G.P. Marsh: Tradition and Historical Judgement*), p. 205-235; G. Beltrametti, "Usi civici, gestione collettiva delle risorse e diritti locali. Analisi storica di morfologie di possesso in realtà giurisdizionali di confine (Val Formazza, XIX-XX sec.)", *Percorsi di ricerca*, 5, 2013, p. 7-25. The two names are characteristic of, one of the eighteenth-century Piedmontese and Lombard documentation, the other of local language from the nineteenth century to the present.
+Ibidem, entry "Vogogna".
 
-\[[64]](#_ftnref64) Some traces remain in AST, Corte, Confini con gli Svizzeri (see also Rizzi, 2022). 
+[^49]
 
-\[[65]](#_ftnref65) E. Corniolo, "Nascita e gestione di una risorsa collettiva. L'Alpe di Cravairola tra la metà del XIV e la metà del XVII secolo', Final report of the master's course in economic history, Prof. S. Lombardini, 2011-2012, who kindly allowed me to consult it. 
+Ibidem, c. 481r.
 
-\[[66]](#_ftnref66) ~~If we ask what corresponds, beyond the ridge of the Antigorio valley, to 'Crodo', we find that in Valle Maggia, towards Locarno, the \~\~The 'commune' of Campo also has a similar polycentric structure. Campo is organised into '~~teams~~quarters' (squadre), which are subsections of the commune's territory: Cimalmotto (or the 'upper' \~\~team~~quarter), the highest, located in the direction of the mountain pasture; Campo, or the 'middle ~~team'~~quarter'. There is also a \~\~squadra \~\~quarter'di sotto' (lower), but its contours are less defined. Depending on whether one considers the parishes or the municipality, one obtains different images: Niva, Piano and Seccada in fact constitute a \~\~'team' \~\~'quarter' from an, shall we say, administrative point of view, but are divided as to parish, depending on the time. In short, the jurisdictional documentation brings us back, even if not explicitly, to the panorama of organisation by hamlets, to which we are now accustomed.
+[^50]
 
-\[[67]](#_ftnref67) Archivio di Stato di Verbania, Notai di Crodo, notai Antonio Minetti, 1594-159, Giovanni Antonio Marini, 1690-1745, Andrea Mottura, 1767-1774: all contractors only indicate the hamlet they belong to and never mention the municipality of Crodo. With 1774 the indication of place in notarial deeds seems to cease.
+Ibidem (my emphasis).
 
-[](#_ftnref68)^117 ^AST, Corte, Confini con gli Svizzeri, m. 3, n. 21: "Memoria del barone Foncet", c. 7v, 1534.
+[^51]
 
-\[[69]](#_ftnref69) Archivio Storico Comunale di Vallemaggia (CH), not inventoried.
+Ibidem(my emphasis).
 
-\[[70]](#_ftnref70) Archivio Storico del Comune di Crodo (henceforth ASCC), m. 77-80: disputes with Mozio, Cravegna, Viceno, Montecrestese, Premia and Crevola.
+[^52]
 
-\[[71]](#_ftnref71)The documentation relating to the Cravairola conflict knows some characteristic thickenings that coincide with episodes of reprisal and punctual diplomatic or legal solutions
+Ibidem(my emphasis).
 
-\[[72]](#_ftnref72)A. Torre, forthcoming. Of the late medieval conflicts, we only know the end, namely the 'fixing' of the boundary terms in 1554: an ephemeral episode, because two years later the terms would already have been removed and would have to be replanted. Conflicts only resumed in the 1630s, with an attempt by Campo to prevent access to the Ossola people in 1630, a seizure of horses by the Crodesi a few years later (1636), a new seizure of Swiss horses in 1638, damage to the Swiss in the following year, more seizures in 1640, a first 'administrative' response from the government of Milan with a 'visit' by Judge Ayala, very important from a documentary point of view because it produced, to the best of my knowledge, the first image of Cravairola. This was followed by arson attacks in 1644, armed clashes in 1645 , the loss of Crodo animals in 1646, Milanese jurisdictional acts in 1647, further reprisals in 1648. This phase of worsening conflicts seemed to end in 1650, when two delegations - Milanese and cantonal - met on Isola Borromea thanks to the mediation intervention of the feudal lords of Crodo and led to the resettlement of the border terms (contested by the people of Campo). But it was an ephemeral peace: a murder rekindled hostilities in 1651, with judicial aftermath in the following years, attempts by Campo to prevent transit to the Alpe in 1662 Swiss retaliation denounced by the Crodo people in 1663, new \~\~kidnappings \~\~abigeate (by Crodo this time) in 1680. The new century rekindled hostilities that had seemed temporarily dormant, with seizures from the Campese in 1703, the delineation of the Teresian map in 1722, new retaliation in 1727, Campo's assaults in 1746 and judicial aftermath involving the new Savoy sovereigns of the Ossola, violations by the "Swiss" in 1754, and a particularly bloody episode in 1756-58, which ended with the judges of Campo and then Locarno sentencing the Crodesi to pay a heavy fine, Swiss protests over the drawing of a map in the field in 1759, which then turned into an act of jurisdictional prevarication. In 1764, the Turin government commissioned Baron Foncet to draw up a jurisdictional "memoria", and the conflict seemed to be heading towards the well-known slope of the "bellum diplomaticum" when events at the end of the 18th century radically changed the picture, at least in terms of international politics, until the resumption of hostilities in the 1870s.
+[^53]
 
-\[[73]](#_ftnref73)
+Ibidem (my emphasis).
 
-\[[74]](#_ftnref74) Conesa (2024) shows the similar existence of the Andorran « cortàl ».
+[^54]
 
-\[[75]](#_ftnref75) AST, Corte, Visita fatta dal podestà Ayala de termini dividenti i finaggi di Crodo Dominio di Milano da quelli di Campo Dominio Elvetico, e specialmente li dividenti l'Alpe Cravairola da quella di Matignale, 1642-44 (with the topographical map, Fig. 8).
+Archivio del Commissariato alla Liquidazione degli Usi Civici, Turin, Vogogna. A. Torre, "Pieve Vergonte", Schedario Storico-territoriale dei Comuni Piemontesi, www.archiviocasalis.it.
+
+[^55]
+
+There are 16 charitable institutions in Rumianca in 19^th^ century "Catasto Rabbini" (see fn. 89): 7 Lay Benefices, 2 parish institutions, 1 "Alm for the hamlet's poor".
+
+[^56]
+
+The commune of Pistolesa chose in 1999 to merge with Mosso Santa Maria: this choice was presented as a response to the depopulation of the mountain area, but here it is shown that other factors (*confraria*) were at play.
+
+[^57]
+
+Current census data obviously present a far lower estimate than the partial estimate of the first graphical representation of the valley in 1802 (I do not know the reasons behind it).
+
+[^58]
+
+For the distinction between internal and external commons see Greer (2018). In fact, it would become known a century later that there is another type of pasture, the undivided pasture, which escaped Turin's notice. It is the fate of the undivided pastures that will give rise to a particular administrative configuration, forming communal territories, known as "administrative islands", that characterise the subalpine region in the Italian panorama V. *Ricerca sulle isole amministrative cit.* and Sturani (2001; 1995).
+
+[^59]
+
+We are indebted to geom. Giovanni Torrero, inspector of the Commissariato alla Liquidazione degli Usi Civici per il Piemonte e la Valle d'Aosta, for the discovery of this, and other extraordinary documents. I express here my esteem for his work as a local historian. His heirs made available to scholars the papers in his archive.
+
+[^60]
+
+The nature of the fascist administrative reforms really calls for a thorough re-reading, at least from this point of view.
+
+[^61]
+
+Request for union with Mosso S. Maria (1998) filed with the Piedmont Region's Local Government Department (' Foglio informativo, p. 5); Soprintendenza Archivistica per il Piemonte e la Valle d'Aosta, s.v. Pistolesa, an anonymous person expressed the conviction of a forthcoming union of the two municipalities as early as 1958.
+
+[^62]
+
+D. Lowenthal, "Marsh at Cravairola: Boundary-Making in the Italo-Swiss Alps", *Environment and History* , May 2004, Vol. 10, No. 2, (T*he Nature of G.P. Marsh: Tradition and Historical Judgement*), p. 205-235; G. Beltrametti, "Usi civici, gestione collettiva delle risorse e diritti locali. Analisi storica di morfologie di possesso in realtà giurisdizionali di confine (Val Formazza, XIX-XX sec.)", *Percorsi di ricerca*, 5, 2013, p. 7-25. The two names are characteristic of, one of the eighteenth-century Piedmontese and Lombard documentation, the other of local language from the nineteenth century to the present.
+
+[^63]
+
+Some traces remain in AST, Corte, Confini con gli Svizzeri (see also Rizzi, 2022). 
+
+[^64]
+
+E. Corniolo, "Nascita e gestione di una risorsa collettiva. L'Alpe di Cravairola tra la metà del XIV e la metà del XVII secolo', Final report of the master's course in economic history, Prof. S. Lombardini, 2011-2012, who kindly allowed me to consult it. 
+
+[^65]
+
+The The 'commune' of Campo also has a similar polycentric structure. Campo is organised into 'quarters' (squadre), which are subsections of the commune's territory: Cimalmotto (or the 'upper' quarter), the highest, located in the direction of the mountain pasture; Campo, or the 'middle quarter’. There is also a quarter 'di sotto' (lower), but its contours are less defined. Depending on whether one considers the parishes or the municipality, one obtains different images: Niva, Piano and Seccada in fact constitute a 'quarter' from an, shall we say, administrative point of view, but are divided as to parish, depending on the time. In short, the jurisdictional documentation brings us back, even if not explicitly, to the panorama of organisation by hamlets, to which we are now accustomed.
+
+[^66]
+
+Archivio di Stato di Verbania, Notai di Crodo, notai Antonio Minetti, 1594-159, Giovanni Antonio Marini, 1690-1745, Andrea Mottura, 1767-1774: all contractors only indicate the hamlet they belong to and never mention the municipality of Crodo. With 1774 the indication of place in notarial deeds seems to cease.
+
+[](#_ftnref68)[^67]
+
+AST, Corte, Confini con gli Svizzeri, m. 3, n. 21: "Memoria del barone Foncet", c. 7v, 1534.
+
+[^68]
+
+Archivio Storico Comunale di Vallemaggia (CH), not inventoried.
+
+[^69]
+
+Archivio Storico del Comune di Crodo (henceforth ASCC), m. 77-80: disputes with Mozio, Cravegna, Viceno, Montecrestese, Premia and Crevola.
+
+[^70]
+
+The documentation relating to the Cravairola conflict knows some characteristic thickenings that coincide with episodes of reprisal and punctual diplomatic or legal solutions
+
+A. Torre, forthcoming. Of the late medieval conflicts, we only know the end, namely the 'fixing' of the boundary terms in 1554: an ephemeral episode, because two years later the terms would already have been removed and would have to be replanted. Conflicts only resumed in the 1630s, with an attempt by Campo to prevent access to the Ossola people in 1630, a seizure of horses by the Crodesi a few years later (1636), a new seizure of Swiss horses in 1638, damage to the Swiss in the following year, more seizures in 1640, a first 'administrative' response from the government of Milan with a 'visit' by Judge Ayala, very important from a documentary point of view because it produced, to the best of my knowledge, the first image of Cravairola. This was followed by arson attacks in 1644, armed clashes in 1645 , the loss of Crodo animals in 1646, Milanese jurisdictional acts in 1647, further reprisals in 1648. This phase of worsening conflicts seemed to end in 1650, when two delegations - Milanese and cantonal - met on Isola Borromea thanks to the mediation intervention of the feudal lords of Crodo and led to the resettlement of the border terms (contested by the people of Campo). But it was an ephemeral peace: a murder rekindled hostilities in 1651, with judicial aftermath in the following years, attempts by Campo to prevent transit to the Alpe in 1662 Swiss retaliation denounced by the Crodo people in 1663, new \~\~kidnappings \~\~abigeate (by Crodo this time) in 1680. The new century rekindled hostilities that had seemed temporarily dormant, with seizures from the Campese in 1703, the delineation of the Teresian map in 1722, new retaliation in 1727, Campo's assaults in 1746 and judicial aftermath involving the new Savoy sovereigns of the Ossola, violations by the "Swiss" in 1754, and a particularly bloody episode in 1756-58, which ended with the judges of Campo and then Locarno sentencing the Crodesi to pay a heavy fine, Swiss protests over the drawing of a map in the field in 1759, which then turned into an act of jurisdictional prevarication. In 1764, the Turin government commissioned Baron Foncet to draw up a jurisdictional "memoria", and the conflict seemed to be heading towards the well-known slope of the "bellum diplomaticum" when events at the end of the 18th century radically changed the picture, at least in terms of international politics, until the resumption of hostilities in the 1870s.
+
+[^71]
+
+Conesa (2024) shows the similar existence of the Andorran « cortàl ».
+
+[^72] 
+
+AST, Corte, Visita fatta dal podestà Ayala de termini dividenti i finaggi di Crodo Dominio di Milano da quelli di Campo Dominio Elvetico, e specialmente li dividenti l'Alpe Cravairola da quella di Matignale, 1642-44 (with the topographical map, Fig. 8).
 
 \[[76]](#_ftnref76) Archivio Storico Comunale di Montecrestese: the first attestation of possession of Alpe Cravairola dates back to 1937, but it concerns the woods. Further research would be necessary on this point, but the ancient municipal archive seems to have been lost.
 
