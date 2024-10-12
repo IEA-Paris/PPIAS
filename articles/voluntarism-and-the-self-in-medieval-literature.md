@@ -220,7 +220,7 @@ The Clerk's Tale describes a series of trials that a powerful Piedmontese marqui
 >
 > That he ne myghte out of his herte throwe
 >
-> This merveillous desir his wyf t'assaye". (451--54) *t'assaye : to test*
+> This merveillous desir his wyf t'assaye". (451-54) *t'assaye : to test*
 
 Griselda patiently accepts all of these trials, adhering to her initial pledge to "... nevere willyngly, In werk ne thoght, ... yow disobeye" (362-63). When Walter sees that she is committed to this pledge no matter what suffering he inflicts on her, he restores her to his side, along with the children she has been parted from for years, and thereafter they live "ful many a yeer in heigh prosperitee" (1128).
 
@@ -230,7 +230,7 @@ On its face, everything about the story is horrific. Walter, obsessed by his yea
 >
 > That she to hym was changed of corage, *of corage : in affection*
 >
-> But nevere koude he fynde variance." (708--10)
+> But nevere koude he fynde variance." (708-10)
 
 Griselda's weirdly preternatural outward complacency, described in detail after each of Walter's appalling trials, makes the horror of the tale even greater. And the overall dissonance is magnified by the way that the narrator (the clerk), even while he registers that Walter's behavior is "nedelees," "yvele" and "wikke" (455, 460, 785), unstintingly praises Griselda throughout as the "flour of wyfly pacience" (919).
 
@@ -240,7 +240,7 @@ For medieval and modern readers alike, these repellant features of the poem make
 >
 > Ne shal the goost withinne myn herte stente *goost : spirit | stente : cease*
 >
-> To love yow best with al my trewe entente." (971--73)
+> To love yow best with al my trewe entente." (971-73)
 
 If we read the story as a parable of a Christian's life on earth, such a vow makes perfect sense, as does the story's joyous conclusion, in which all is forgiven, and Griselda rejoices in having received from Walter her heart's desire:
 
@@ -252,7 +252,7 @@ If we read the story as a parable of a Christian's life on earth, such a vow mak
 >
 > Sith I stonde in youre love and in youre grace,
 >
-> No fors of deeth, ne whan my spirit pace!" (1088--92) *pace : may pass away*
+> No fors of deeth, ne whan my spirit pace!" (1088-92) *pace : may pass away*
 
 This sounds a lot like a description of heavenly beatitude, in which one's presence before God's love is secured, and all fear for the future has been dispelled. What has brought Griselda to this state, needless to say, is her perfect patience and obedience.
 
@@ -264,7 +264,7 @@ One could tell the story in such a way that it bears this spiritual reading, Ind
 >
 > Folwen Grisilde as in humylitee,
 >
-> For it were inportable, though they wolde, *inportable* : intolerable
+> For it were inportable, though they wolde, *inportable : intolerable*
 >
 > But for that every wight, in his degree,
 >
@@ -272,109 +272,109 @@ One could tell the story in such a way that it bears this spiritual reading, Ind
 >
 > As was Grisilde; therfore Petrak writeth
 >
-> This storie, which with heigh stile he enditeth. *enditeth* : composes
+> This storie, which with heigh stile he enditeth. *enditeth : composes*
 >
 > For sith a womman was so pacient
 >
 > Unto a mortal man, wel moore us oghte
 >
-> Receyven al in gree that God us sent; in gree : with a good will
+> Receyven al in gree that God us sent; *in gree : with a good will*
 >
-> For greet skile is he preeve that he wroghte". (1142--52) *it is very reasonable that God test what he made*
+> For greet skile is he preeve that he wroghte". (1142-52) *it is very reasonable that God test what he made*
 
-Petrarch's version admits of this sort of spiritual reading, because it systematically elevates the virtues of Walter and makes excuses for his excesses. Chaucer's Walter, in contrast, is so plainly flawed as to preclude Petrarch's spiritual reading from the start. As in Boccaccio's original tale, Chaucer's Walter can be nothing other than a bad and tyrannical husband. No wonder, then, that the clerk is careful to tell us twice, in the above lines, that it is Petrarch who thinks the story should be taken as a parable for our relationship to God. As for the clerk's own feelings, those are perhaps revealed in the envoy that comes at the end of the tale, which runs in part:
+Petrarch's version admits of this sort of spiritual reading, because it systematically elevates the virtues of Walter and makes excuses for his excesses. Chaucer's Walter, in contrast, is so plainly flawed as to preclude Petrarch's spiritual reading from the start. As in Boccaccio's original tale, Chaucer's Walter can be nothing other than a bad and tyrannical husband. No wonder, then, that the clerk is careful to tell us twice, in the above lines, that it is *Petrarch* who thinks the story should be taken as a parable for our relationship to God. As for the clerk's own feelings, those are perhaps revealed in the envoy that comes at the end of the tale, which runs in part:
 
-"O noble wyves, ful of heigh prudence,
+> "O noble wyves, ful of heigh prudence,
+>
+> Lat noon humylitee youre tonge naille,
+>
+> Ne lat no clerk have cause or diligence *diligence : zeal*
+>
+> To write of yow a storie of swich mervaille" (1183-86)
 
-Lat noon humylitee youre tonge naille,
+With this mocking song the Clerk's Tale comes to an end, leaving us completely in the dark about what, if anything, we were to learn from the story of Griselda and Walter[^29].
 
-Ne lat no clerk have cause or diligence diligence : zeal
+My own suggestion is that we can profitably treat the story as a case study in how to think about will and freedom. The clerk-whom the general prologue tells us is an Oxford philosopher-offers us a clash between two rival modes of moral agency. On the one hand we have Walter, who is obsessively concerned with preserving his freedom to do whatever he wants[^30]. Chaucer highlights, over and over, that Walter is a man whose wants are shaped by desires that are *subrational* rather than the rationally endorsed desires of rational appetite. So, when we first meet him, he is described as fair and strong and young, and full of honor and courtesy, and "discreet ynough" to govern his country. But then Chaucer immediately adds that his character admits of one great flaw:
 
-To write of yow a storie of swich mervaille" (1183--86)
-
-With this mocking song the Clerk's Tale comes to an end, leaving us completely in the dark about what, if anything, we were to learn from the story of Griselda and Walter.\[30]
-
-My own suggestion is that we can profitably treat the story as a case study in how to think about will and freedom. The clerk---whom the general prologue tells us is an Oxford philosopher---offers us a clash between two rival modes of moral agency. On the one hand we have Walter, who is obsessively concerned with preserving his freedom to do whatever he wants.\[31] Chaucer highlights, over and over, that Walter is a man whose wants are shaped by desires that are subrational rather than the rationally endorsed desires of rational appetite. So, when we first meet him, he is described as fair and strong and young, and full of honor and courtesy, and "discreet ynough" to govern his country. But then Chaucer immediately adds that his character admits of one great flaw:
-
-"I blame hym thus: that he considered noght
-
-In tyme comynge what myghte hym bityde, bityde : happen to him
-
-But on his lust present was al his thoght, lust present : present desire
-
-As for to hauke and hunte on every syde." (78--81)
+> "I blame hym thus: that he considered noght
+>
+> In tyme comynge what myghte hym bityde, *bityde : happen to him*
+>
+> But on his lust present was al his thoght, *lust present : present desire*
+>
+> As for to hauke and hunte on every syde." (78-81)
 
 Reminders of Walter's single-minded focus on his improvident present desires run all through the poem, typically expressed in the language of lust, delight, and pleasure---the sub-rational desires that shape Walter's existence. At the birth of his daughter we are told that Walter suddenly fell under the grip of a "mervellous desire" to test his wife that he was unable to resist: "that he ne myghte out of his herte throwe" (453). And when Chaucer announces the second temptation---the removal of their son---he makes it clear that it the product of nothing more than another passing desire:
 
-"Whan it was two yeer old, and fro the brest
-
-Departed of his norice, on a day norice : nurse
-
-This markys caughte yet another lest lest : lust
-
-To tempte his wyf yet ofter, if he may." (617--20) ofter : again
+> "Whan it was two yeer old, and fro the brest
+>
+> Departed of his norice, on a day *norice : nurse*
+>
+> This markys caughte yet another lest *lest : lust*
+>
+> To tempte his wyf yet ofter, if he may." (617-20) *ofter : again*
 
 Lusts come and go for the marquis, and when they come he ratifies them as his will, without having any capacity or seemingly any desire to resist them. It is precisely here where Walter locates his freedom. He tells his subjects that he has been reluctant to marry because":
 
-"I me rejoysed of my liberte,
+*"I me rejoysed of my liberte,*
 
-That seelde tyme is founde in marriage;
+*That seelde tyme is founde in marriage;*
 
-There I was free, I moot been in servage." There : Whereas | moot : must \[now]
+*There I was free, I moot been in servage." There : Whereas | moot : must \[now]*
 
-(145--47).
+*(145-47).*
 
-The community spokesman---perhaps knowing Walter better than he knows himself--- had assured him that the yoke of marriage is a yoke of "of soverayntetee, noght of servyse" (114). Walter, however, does not believe it, eventually replying that "I shal forgoon my libertee / At youre requeste" (171--72).
+The community spokesman-perhaps knowing Walter better than he knows himself- had assured him that the yoke of marriage is a yoke of "of soverayntetee, noght of servyse" (114). Walter, however, does not believe it, eventually replying that "I shal forgoon my libertee / At youre requeste" (171--72).
 
 Walter's conception of freedom is that of the ancient common formula, on which to be free is to be able to do what one wants to do. For Walter, the wants at issue are whatever passing fancies happen to come his way. It is his worries over losing his freedom that shape the wedding vow to which he asks Griselda to swear:
 
-"I seye this: be ye redy with good herte \[to submit]
-
-To al my lust, and that I frely may,
-
-As me best thynketh, do yow laughe or smerte, smerte : feel pain
-
-And nevere ye to grucche it, nyght ne day?
-
-And eek whan I sey ye, ne sey nat nay,
-
-Neither by word ne frownyng contenance?
-
-Swere this, and heere I swere oure alliance." (351--57)
+> "I seye this: be ye redy with good herte \[to submit]
+>
+> To al my lust, and that I frely may,
+>
+> As me best thynketh, do yow laughe or smerte, *smerte : feel pain*
+>
+> And nevere ye to grucche it, nyght ne day?
+>
+> And eek whan I sey ye, ne sey nat nay,
+>
+> Neither by word ne frownyng contenance?
+>
+> Swere this, and heere I swere oure alliance." (351-57)
 
 Walter wants Griselda to submit to "al my lust" not because he wants her to exemplify wifely virtue, but rather because he wants to be free to act on his desires. The reference to what he "thinks best" implies that it makes no difference whether those desires are a product of right reason. What matters is simply that they are his thoughts and his desires.
 
-On the other hand, we have Griselda. Whereas Walter is all sub-rational lust, Griselda is all rational appetite---she is all will, in the voluntarists' sense of an agential will that freely chooses to follow right reason. We first meet her as a young woman---perhaps still a girl---possessed of the various conventional virtues of the poor: industry, frugality, filial piety. The contrast with Walter is striking because she grew up poor: "no likerous lust was thurgh hire herte yronne" (214), and, in contrast to Walter's self-absorption, she looks after her elderly father, Janicula "in greet reverence and charitee" (221). Whereas Walter pursues whatever catches his fancy, Griselda is described as having "rype and sad corage" (220)--- a mature and steadfast temperament. None of this quite prepares us, though, for her first extended speech in the poem, when she responds to Walter's above-quoted demand that she subjects herself to all his desires:
+On the other hand, we have Griselda. Whereas Walter is all sub-rational lust, Griselda is all rational appetite-she is all will, in the voluntarists' sense of an agential will that freely chooses to follow right reason. We first meet her as a young woman-perhaps still a girl-possessed of the various conventional virtues of the poor: industry, frugality, filial piety. The contrast with Walter is striking because she grew up poor: "no likerous lust was thurgh hire herte yronne" (214), and, in contrast to Walter's self-absorption, she looks after her elderly father, Janicula "in greet reverence and charitee" (221). Whereas Walter pursues whatever catches his fancy, Griselda is described as having "rype and sad corage" (220)- a mature and steadfast temperament. None of this quite prepares us, though, for her first extended speech in the poem, when she responds to Walter's above-quoted demand that she subjects herself to all his desires:
 
-"Wondrynge upon this word, quakynge for drede,
+> "Wondrynge upon this word, quakynge for drede,
+>
+> She seyde, "Lord, undigne and unworthy *undigne : unsuitable*
+>
+> Am I to thilke honour that ye me beede, *beede : offer*
+>
+> But as ye wole youreself, right so wol I.
+>
+> And heere I swere that nevere willyngly,
+>
+> In werk ne thoght, I nyl yow disobeye,
+>
+> For to be deed, though me were looth to deye." *For to be deed : Even to the point of death.*
+>
+> (358-64).
 
-She seyde, "Lord, undigne and unworthy undigne : unsuitable
+Walter's behavior is quite bad: he has presented himself to Griselda and Janicula out of the blue, with a large palace retinue behind him, and he is demanding that she immediately swear an oath of marriage without even a moment to reflect, let alone offering her the opportunity to get to know the marquis. He displays his characteristic impetuosity when he explains to Janicula that the wedding must happen *right now* because "I neither may ne kan / Lenger the plesance of myn herte hyde" (304-5): it "may" not wait because he has vowed to the people to get married on this day, and it "kan" not wait because he is incapable of resisting whatever brings his heart pleasure. No wonder, then, that Griselda is shaking in fear. But the substance of her speech is astonishingly eloquent and confident, immediately dispelling the obvious worries about whether her response is coerced. As the story continues, and she recommits herself to these principles with every new trial, we are left with no doubt that Griselda's vow, from the start, reflects her precise understanding of what her duties to Walter should be.
 
-Am I to thilke honour that ye me beede, beede : offer
+A close look at the nature of her vow highlights the huge gap between Walter and Griselda. What Walter wants, in keeping with his conception of freedom, is to be unconstrained to pursue his desires. His only demand, therefore (at 351-57 above), is that she stays out of his way-so that he can live in peace, as the poem often puts it-which he takes to require only that she never complain outwardly "neither by word ne frownying contenance" (356) to anything that he might do. This by itself is already a characteristically foolish demand, especially given that Walter is ostensibly marrying her because of her virtue. An essential component in virtue, after all, is prudence, or practical wisdom, a quality that the poem goes on to attest to Griselda's having in great abundance[^31]. So if Walter had even the slightest prudence himself, he would welcome Griselda's counsel. All Walter wants, however, is that Griselda has the virtues of a loyal dog; he has not the slightest regard for what might be going on in Griselda's mind.
 
-But as ye wole youreself, right so wol I.
+Remarkably, however-and in marked contrast to Chaucer various sources for the story-Griselda reconfigures the proffered oath, turning his demeaning demand for dumb servitude into what she regards as a noble invitation to unite their minds as one. So, rather than simply submit to blank outward conformity, she vows to conform herself inwardly too:
 
-And heere I swere that nevere willyngly,
+> "But as ye wole youreself, right so wol I.
+>
+> And heere I swere that nevere willyngly,
+>
+> In werk ne thoght, I nyl yow disobeye." (361-63, as above).
 
-In werk ne thoght, I nyl yow disobeye,
-
-For to be deed, though me were looth to deye." For to be deed : Even to the point of death.
-
-(358--64).
-
-Walter's behavior is quite bad: he has presented himself to Griselda and Janicula out of the blue, with a large palace retinue behind him, and he is demanding that she immediately swear an oath of marriage without even a moment to reflect, let alone offering her the opportunity to get to know the marquis. He displays his characteristic impetuosity when he explains to Janicula that the wedding must happen right now because "I neither may ne kan / Lenger the plesance of myn herte hyde" (304--5): it "may" not wait because he has vowed to the people to get married on this day, and it "kan" not wait because he is incapable of resisting whatever brings his heart pleasure. No wonder, then, that Griselda is shaking in fear. But the substance of her speech is astonishingly eloquent and confident, immediately dispelling the obvious worries about whether her response is coerced. As the story continues, and she recommits herself to these principles with every new trial, we are left with no doubt that Griselda's vow, from the start, reflects her precise understanding of what her duties to Walter should be.
-
-A close look at the nature of her vow highlights the huge gap between Walter and Griselda. What Walter wants, in keeping with his conception of freedom, is to be unconstrained to pursue his desires. His only demand, therefore (at 351--57 above), is that she stays out of his way---so that he can live in peace, as the poem often puts it---which he takes to require only that she never complain outwardly "neither by word ne frownying contenance" (356) to anything that he might do. This by itself is already a characteristically foolish demand, especially given that Walter is ostensibly marrying her because of her virtue. An essential component in virtue, after all, is prudence, or practical wisdom, a quality that the poem goes on to attest to Griselda's having in great abundance.\[32] So if Walter had even the slightest prudence himself, he would welcome Griselda's counsel. All Walter wants, however, is that Griselda has the virtues of a loyal dog; he has not the slightest regard for what might be going on in Griselda's mind.
-
-Remarkably, however---and in marked contrast to Chaucer various sources for the story---Griselda reconfigures the proffered oath, turning his demeaning demand for dumb servitude into what she regards as a noble invitation to unite their minds as one. So, rather than simply submit to blank outward conformity, she vows to conform herself inwardly too:
-
-"But as ye wole youreself, right so wol I.
-
-And heere I swere that nevere willyngly,
-
-In werk ne thoght, I nyl yow disobeye." (361--63, as above).
-
-With this Griselda goes far beyond what Walter wanted, offering him the conformity of her mind, both will and thought, a stance she adheres to throughout the poem. She ascends, in so doing, from Walter sub-rational desires to the level of reason, replacing his crude demand that she submits "to al my lust" with her vow of conformity at the level of will, rational appetite. Walter, seemingly startled by this fierce assertion of her inner mind, can think only to remark "This is ynogh, Grisilde myn" (365).\[33]
+With this Griselda goes far beyond what Walter wanted, offering him the conformity of her mind, both will and thought, a stance she adheres to throughout the poem. She ascends, in so doing, from Walter sub-rational desires to the level of reason, replacing his crude demand that she submits "to al my lust" with her vow of conformity at the level of will, rational appetite. Walter, seemingly startled by this fierce assertion of her inner mind, can think only to remark "This is ynogh, Grisilde myn" (365)[^32].
 
 The result is a troubled union of two minds: "of hem two / Thre nas but o wyl" (715--16), as the poem later puts it. Yet it is of course not a union of equals, but more like the instantiation in marriage of a debate between body and soul, where the body, Walter, holds executive authority. His strategy for exercising that authority, throughout the poem, in every context, is to count on others to conform their wills to his out of either love or fear. To his obedient subjects, we are told at the start, he is "biloved and drad" (69); to Griselda's father his only argument for his worthiness as husband is this confident assertion:
 
