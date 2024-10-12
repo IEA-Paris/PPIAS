@@ -475,27 +475,27 @@ This outcome is the paradoxical result of a very elastic political configuration
 
 ![](/static/picture12.png)
 
-Although this *autonomisation* is the outcome of a very articulated historical process, it is in any case worth starting with the management of the commons. These, from the very beginning of the written documentation, appear to be managed in a shared manner by the various hamlets. The  "compascuo regime" seems to characterise the valley: common pasture between two or more settlements within it and outside it.\[[119]](#_ftn119) However, joint grazing between settlements in the same valley is prevalent: an expert of the Commissariato alla Liquidazione degli Usi Civici still pointed out in 1975 how the municipalities of Germagno, Loreglia and Massiola owned common lands in the territory of other valley municipalities\[[120]](#_ftn120), or had centuries-old disputes with their neighbours over common grazing rights.\[[121]](#_ftn121) Sometimes these disputes produced paradoxical outcomes, as in the case of the conflict between Germagno and a municipality outside the valley, Crana Gattugno, whose disputed territories are sacralised with the foundation of a  "social forest".\[[122]](#_ftn122)
+Although this *autonomisation* is the outcome of a very articulated historical process, it is in any case worth starting with the management of the commons. These, from the very beginning of the written documentation, appear to be managed in a shared manner by the various hamlets. The  "compascuo regime" seems to characterise the valley: common pasture between two or more settlements within it and outside it[^116]. However, joint grazing between settlements in the same valley is prevalent: an expert of the Commissariato alla Liquidazione degli Usi Civici still pointed out in 1975 how the municipalities of Germagno, Loreglia and Massiola owned common lands in the territory of other valley municipalities[^117], or had centuries-old disputes with their neighbours over common grazing rights[^118]. Sometimes these disputes produced paradoxical outcomes, as in the case of the conflict between Germagno and a municipality outside the valley, Crana Gattugno, whose disputed territories are sacralised with the foundation of a  "social forest"[^119].
 
-The management regime of the *compascuo* is conflictual, and the history of the valley is punctuated by disputes\[[123]](#_ftn123), but it is only after the First World War that there are attempts by the fascist commissarial jurisdictions to dissolve these regimes.\[[124]](#_ftn124) The conflicts revolve, albeit not exclusively, around so-called usurpations. Of course, most of these usurpations are entirely plausible, but there are cases in which the prosecution seems to express attempts to manipulate third-party possessions and occupy (in a formally legitimate manner) the disputed area. A particularly transparent case is documented in Massiola: in 1932 a mayor denounces usurpations in the communes, proposes to sell the plots to the respective occupants, but at that point the auction is deserted and he himself buys all the usurped plots.\[[125]](#_ftn125)
+The management regime of the *compascuo* is conflictual, and the history of the valley is punctuated by disputes[^120], but it is only after the First World War that there are attempts by the fascist commissarial jurisdictions to dissolve these regimes[^121]. The conflicts revolve, albeit not exclusively, around so-called usurpations. Of course, most of these usurpations are entirely plausible, but there are cases in which the prosecution seems to express attempts to manipulate third-party possessions and occupy (in a formally legitimate manner) the disputed area. A particularly transparent case is documented in Massiola: in 1932 a mayor denounces usurpations in the communes, proposes to sell the plots to the respective occupants, but at that point the auction is deserted and he himself buys all the usurped plots[^122].
 
-The right to access the commons sometimes takes on a value that goes far beyond the exploitation of plant resources. This is the case of the small settlement of Piana, in the ~~19^th^~~ commune of Massiola, which seeks - and obtains - separation from it on the basis that the common pastures its inhabitants use in the summer season belong to the neighbouring commune: the hamlet of Piana separated from the commune of Massiola to join the commune of Fornero because it uses the latter's commons.\[[126]](#_ftn126) This is also the case in Loreglia, where all 130 local families still in 1925 exercised the right to wood, graze and collect leaves for the animals and straw for the humans. Another relevant aspect of the *compascuo* is the extension of the so-called civic uses, which were still claimed by municipal authorities in the 1920s. Germagno is perhaps the most striking case of this: civic usages, by their very nature customary and volatile, made 'entrenchment' practices indispensable, such the construction of huts.\[[127]](#_ftn127)
+The right to access the commons sometimes takes on a value that goes far beyond the exploitation of plant resources. This is the case of the small settlement of Piana, in the commune of Massiola, which seeks - and obtains - separation from it on the basis that the common pastures its inhabitants use in the summer season belong to the neighbouring commune: the hamlet of Piana separated from the commune of Massiola to join the commune of Fornero because it uses the latter's commons[^123]. This is also the case in Loreglia, where all 130 local families still in 1925 exercised the right to wood, graze and collect leaves for the animals and straw for the humans. Another relevant aspect of the *compascuo* is the extension of the so-called civic uses, which were still claimed by municipal authorities in the 1920s. Germagno is perhaps the most striking case of this: civic usages, by their very nature customary and volatile, made 'entrenchment' practices indispensable, such the construction of huts[^124].
 
-The logic of sharing is intertwined with that of the quest for autonomy, and the life of the valley is punctuated by conflicts and above all by a constant demand for separation between settlements that share common vegetal resources. From this point of view, the claims to hamlet property, the attempt to enjoy it autonomously, is the constant of life in the valley. For at least three centuries, a process of parish-formation has been underway here, which has generated new parishes in villages dependent on the chapter of Omegna, of which they are tributary on a symbolic and material level (Torre, 2011). \[[128]](#_ftn128) This process began with a division of the valley into two parts, with the parishes of Luzzogno first, in 1455, and Germagno later, in 1554, but later on became a movement whereby each settlement aspired to create an institutional religious centre: thus the parishes of Forno, 1547, were created by detachment from Luzzogno; Germagno, 1554; Loreglia, 1593; Massiola, 1597; Sambughetto, 1638; Campello, 1749; Fornero, 1784. To these must be added Chesio in 1836 (Torre, 2023; Cane, 1907; Piana, 1863; Bazzetta de Vemenia, no date). It is a movement that certainly has to do with the symbolic and ritual dimension (rites of passage, etc.), however it has a meaning that we will find again in a moment: a parish needs a prebend, and having one's own parish implies the possibility of retaining control of such resources within the scale of everyday relations.\[[129]](#_ftn129) That this was the case is powerfully illustrated by the affair of the creation of the parish of the small hamlet of Chesio in 1836, of which a local priest, G.B. Cane, recounted the bitterly conflicting aspects - between the two hamlets of Chesio and Loreglia and with the episcopal authority of Novara as well as, of course, with the curate of the already existing parish, who lost considerable assets (Cane, 1907).\[[130]](#_ftn130)
+The logic of sharing is intertwined with that of the quest for autonomy, and the life of the valley is punctuated by conflicts and above all by a constant demand for separation between settlements that share common vegetal resources. From this point of view, the claims to hamlet property, the attempt to enjoy it autonomously, is the constant of life in the valley. For at least three centuries, a process of parish-formation has been underway here, which has generated new parishes in villages dependent on the chapter of Omegna, of which they are tributary on a symbolic and material level (Torre, 2011)[^125]. This process began with a division of the valley into two parts, with the parishes of Luzzogno first, in 1455, and Germagno later, in 1554, but later on became a movement whereby each settlement aspired to create an institutional religious centre: thus the parishes of Forno, 1547, were created by detachment from Luzzogno; Germagno, 1554; Loreglia, 1593; Massiola, 1597; Sambughetto, 1638; Campello, 1749; Fornero, 1784. To these must be added Chesio in 1836 (Torre, 2023; Cane, 1907; Piana, 1863; Bazzetta de Vemenia, no date). It is a movement that certainly has to do with the symbolic and ritual dimension (rites of passage, etc.), however it has a meaning that we will find again in a moment: a parish needs a prebend, and having one's own parish implies the possibility of retaining control of such resources within the scale of everyday relations[^126]. That this was the case is powerfully illustrated by the affair of the creation of the parish of the small hamlet of Chesio in 1836, of which a local priest, G.B. Cane, recounted the bitterly conflicting aspects - between the two hamlets of Chesio and Loreglia and with the episcopal authority of Novara as well as, of course, with the curate of the already existing parish, who lost considerable assets (Cane, 1907)[^127].
 
-But parochialism has a further significance, at least in the area under consideration here: the conquest of the parish constitutes the premise for the conquest of administrative autonomy. This premise was not always successful, but the trend is clear and unequivocal. Almost perfectly coincidental but out of phase in time is in fact the conquest of administrative autonomy by all the hamlets in the Strona valley: Germagno from the beginning of the 15^th^ century and Luzzogno from 1453, all the remaining municipalities in the Strona valley from 1770, 1784 and 1797, but also in the mid-19^th^century. In fact, the municipal archives of Valstrona, a municipality created by Fascism with the 1927 laws for the merging of municipalities\[[131]](#_ftn131), unites all the valley's municipalities and still conserves all their archives. Valstrona archive indicate effective municipal functions only from the last quarter of the 18th century, with the application of the "Regolamento dei Pubblici" of 1775, which, as we have seen, marks a pivotal date in Turin's policy towards local administration and collective pastures in the Alpine region (Mussi, 1975).\[[132]](#_ftn132),\[[133]](#_ftn133)
+But parochialism has a further significance, at least in the area under consideration here: the conquest of the parish constitutes the premise for the conquest of administrative autonomy. This premise was not always successful, but the trend is clear and unequivocal. Almost perfectly coincidental but out of phase in time is in fact the conquest of administrative autonomy by all the hamlets in the Strona valley: Germagno from the beginning of the 15^th^ century and Luzzogno from 1453, all the remaining municipalities in the Strona valley from 1770, 1784 and 1797, but also in the mid-19^th^century. In fact, the municipal archives of Valstrona, a municipality created by Fascism with the 1927 laws for the merging of municipalities[^128], unites all the valley's municipalities and still conserves all their archives. Valstrona archive indicate effective municipal functions only from the last quarter of the 18th century, with the application of the "Regolamento dei Pubblici" of 1775, which, as we have seen, marks a pivotal date in Turin's policy towards local administration and collective pastures in the Alpine region (Mussi, 1975)[^129].
 
-The sense of one's own autonomy is certainly very much alive in the valley, but a certain sense of territorial centrality does not seem to be lacking either, which harks back to other political categories. As early as the Napoleonic era, surveys had been promoted to aggregate the communities of the valley, as, for example, we are informed by a questionnaire concerning Fornero, which had proposed itself as the glue of the crown of settlements in the Strona valley. Fornero declared that it was "the smallest municipality in the valley and perhaps in the department, it has always ruled and administered itself for a long time without hindrance, because those few individuals who are there in pure patriotic sentiment lend themselves to every kind of employment, to which they are called free of charge", "so that by persisting in its present state it would feel more useful than any imaginable aggregation" (no citation mentioned). However, it is pointed out that the entire valley, aggregated, would not reach 3,000 inhabitants: then Fornero, "if it is permissible to make comparisons from the large to the small, if it is not prideful to say so, proposes and recalls the example of The Hague in Holland", considering "the observation of the centrality of Fornero in relation to the other municipalities of the valley; the ease of the road, which is not mountainous, and consequently access to the same with equal distance from all sides".\[[134]](#_ftn134)
+The sense of one's own autonomy is certainly very much alive in the valley, but a certain sense of territorial centrality does not seem to be lacking either, which harks back to other political categories. As early as the Napoleonic era, surveys had been promoted to aggregate the communities of the valley, as, for example, we are informed by a questionnaire concerning Fornero, which had proposed itself as the glue of the crown of settlements in the Strona valley. Fornero declared that it was "the smallest municipality in the valley and perhaps in the department, it has always ruled and administered itself for a long time without hindrance, because those few individuals who are there in pure patriotic sentiment lend themselves to every kind of employment, to which they are called free of charge", "so that by persisting in its present state it would feel more useful than any imaginable aggregation" (no citation mentioned). However, it is pointed out that the entire valley, aggregated, would not reach 3,000 inhabitants: then Fornero, "if it is permissible to make comparisons from the large to the small, if it is not prideful to say so, proposes and recalls the example of The Hague in Holland", considering "the observation of the centrality of Fornero in relation to the other municipalities of the valley; the ease of the road, which is not mountainous, and consequently access to the same with equal distance from all sides"[^130].
 
-This idea of political-administrative centrality remains in any case a minority because the tendency of the local inhabitants is to separate themselves, and the binomial management of the pasture-parish prebend seems to have been dominant until a few decades ago. So much so, that when in 1927 the fascist regime imposed a reform of the municipalities with the suppression of the smaller ones and the aggregation into larger municipalities, the more ancient valley municipalities tried in every way to preserve a few resources beyond the reach of the new Valstrona municipality.\[[135]](#_ftn135) On the one hand, they claimed fractional assets of the former communes downgraded once again to hamlets.\[[136]](#_ftn136) In addition, some hamlets once again tried to separate themselves from the new commune\[[137]](#_ftn137)and above all, throughout the 1930s, abundant traces remain of rights - forest cutting, grazing, etc. - reserved for the inhabitants and actual residents ("focolanti").\[[138]](#_ftn138)
+This idea of political-administrative centrality remains in any case a minority because the tendency of the local inhabitants is to separate themselves, and the binomial management of the pasture-parish prebend seems to have been dominant until a few decades ago. So much so, that when in 1927 the fascist regime imposed a reform of the municipalities with the suppression of the smaller ones and the aggregation into larger municipalities, the more ancient valley municipalities tried in every way to preserve a few resources beyond the reach of the new Valstrona municipality[^131]. On the one hand, they claimed fractional assets of the former communes downgraded once again to hamlets[^132]. In addition, some hamlets once again tried to separate themselves from the new commune[^133] and above all, throughout the 1930s, abundant traces remain of rights - forest cutting, grazing, etc. - reserved for the inhabitants and actual residents ("focolanti")[^134].
 
-Above all, it was the redistribution, or charitable, activities that showed a constant policy of conserving resources in the hamlet's daily social relations, in one form or another, in every type of settlement.\[[139]](#_ftn139) Charity, i.e. the redistribution of resources through a bequest in the area under consideration here, is above all the *confrarie* of the Holy Ghost that were active and produced the locality, before being incorporated into the Congregations of Charity (Colombo & Semeraro, 2022; Torre, 2019; 2017).\[[140]](#_ftn140) But alongside them, salt bequests in the 17^th^ and 18^th^ centuries stand out, with a few cases still in the 19^th^ century.\[[141]](#_ftn141)Fa~~o~~r l~~L~~ess frequent, but of consistent presence, are legacies for the distribution of bread, blessed or not.\[[142]](#_ftn142) Then, from the last years of the ancient regime, there are bequests - mainly from clergymen - for the foundation of schools, scholarships for poor students, the doctor.\[[143]](#_ftn143)
+Above all, it was the redistribution, or charitable, activities that showed a constant policy of conserving resources in the hamlet's daily social relations, in one form or another, in every type of settlement[^135]. Charity, i.e. the redistribution of resources through a bequest in the area under consideration here, is above all the *confrarie* of the Holy Ghost that were active and produced the locality, before being incorporated into the Congregations of Charity (Colombo & Semeraro, 2022; Torre, 2019; 2017)[^136]. But alongside them, salt bequests in the 17^th^ and 18^th^ centuries stand out, with a few cases still in the 19^th^ century[^137]. Far less frequent, but of consistent presence, are legacies for the distribution of bread, blessed or not[^138]. Then, from the last years of the ancient regime, there are bequests - mainly from clergymen - for the foundation of schools, scholarships for poor students, the doctor[^139].
 
-The meaning of these initiatives is clear. Charity establishes boundaries that add to and confront those of collective resources and political representation.  For example, when in 1928 all the municipalities of the Strona valley were suppressed and united in a new administrative creation called Valstrona, various kinds of movements were noted: on the one hand substantial charitable activities, a census of which was even attempted in the 1930s\[[144]](#_ftn144), on the other hand the unification of the various charitable congregations in the valley into a single congregation in imitation of the municipalities.\[[145]](#_ftn145) At the same time, bequests were allocated to the newly founded Municipal Assistance Board in each administrative district (i.e. the former hamlets-communes). But bequests from individuals to municipalities - the old municipalities of the 18^th ^^~~General~~^Century General Jurisdiction of Omegna and the new fascist municipality\[[146]](#_ftn146) - also survived throughout the 1930s.
+The meaning of these initiatives is clear. Charity establishes boundaries that add to and confront those of collective resources and political representation.  For example, when in 1928 all the municipalities of the Strona valley were suppressed and united in a new administrative creation called Valstrona, various kinds of movements were noted: on the one hand substantial charitable activities, a census of which was even attempted in the 1930s[^140], on the other hand the unification of the various charitable congregations in the valley into a single congregation in imitation of the municipalities[^141]. At the same time, bequests were allocated to the newly founded Municipal Assistance Board in each administrative district (i.e. the former hamlets-communes). But bequests from individuals to municipalities - the old municipalities of the 18^th century General Jurisdiction of Omegna and the new fascist municipality[^142] - also survived throughout the 1930s.
 
 From another point of view, the secular process of parish-formation and the related and consequent process of municipalisation, express at different scales a tendency to circumscribe and control short-range areas of social relations, which are difficult, if not impossible, to ignore in everyday life.
 
-Provisional conclusion 
+## Provisional conclusion 
 
 We are now in a position to schematically summarise the course of this work. In the search for the concrete practices of commons utilisation, we have tried to work in strict adherence to the empirical material offered by the Piedmontese Perequazione of the first half of the 18th century. A careful reading of the impressive documentation of that investigation has allowed us to identify the co-presence of at least two categories of classification of the Piedmontese commons. On the one hand, we have the reading of central officials and the surveyors who classified the commons on the basis of their intended use and the harvest that was or could be obtained from them. On the other hand, we traced other forms of classification of the commons, of an eminently local nature, which instead distinguished them on the basis of the different holders of access rights.   This indication proved valuable for the identification of an element of the fragmentary or polycentric spatial organisation of the villages of the ancient regime, the hamlet, which is not only the holder of rights to the commons, but is a centre endowed with legal personality, a social and devotional life characteristic of the village of the ancient regime~~n~~. We have essentially proposed to refocus our reading of the countryside of the ancient regime~~n~~ and much of the 19^th^ century on this social and spatial category. Its full recognition in the analysis allows us to radically correct our perception of local life in the ancient regime, and to identify the hamlet as a crucial element of life in the ancient countryside.
 
@@ -503,93 +503,57 @@ A full understanding of the hamlet, in any case, allows us to understand not onl
 
 These activities and tensions have different outcomes depending on how the exploitation of the commons, administration and village charity are organised locally. We have given five examples that express a range of different outcomes of these relations: from situations in which the relations between hamlet and commons end up producing the end of the commons, or their division according to different criteria for the inner and outer commons, to borrow Allan Greer's language. Or again, hamlets and commons coexist in a form that I propose to call federative. Elsewhere, however, and within a short distance in terms of space, the hamlets manage to gain significant visibility, which leads them either to separate from the larger commons of which they are part, or to manage the three areas of activity we have tried to study independently.
 
-These three elements (commons, commune, charity) thus combine and configure themselves in a variety of ways and seem to correspond to what Clifford Geertz called in 1959 the  "Form and Variation of the Balinese Village" (Geertz, 1959). The constant characteristics of the elements around which the village is organised cannot be described in terms of invariance of local configurations, but in terms of the choice of superstructures which it is possible to conceive from a given set of elementary constituents. In the cases he studied, a series of organisational plans (places of worship, modes of residence, forms of ownership, status, ties of consanguinity and kinship, membership of associations, subordination to a state office) and the way they intersected in each village determined its singularity. Form, according to Geertz, is not a fundamental constant within cogent variations but a set of limits within which variations are contained. 
+These three elements (commons, commune, charity) thus combine and configure themselves in a variety of ways and seem to correspond to what Clifford Geertz called in 1959 the "Form and Variation of the Balinese Village" (Geertz, 1959). The constant characteristics of the elements around which the village is organised cannot be described in terms of invariance of local configurations, but in terms of the choice of superstructures which it is possible to conceive from a given set of elementary constituents. In the cases he studied, a series of organisational plans (places of worship, modes of residence, forms of ownership, status, ties of consanguinity and kinship, membership of associations, subordination to a state office) and the way they intersected in each village determined its singularity. Form, according to Geertz, is not a fundamental constant within cogent variations but a set of limits within which variations are contained. 
 
 A survey of Alpine and pre-alpine villages between the Old Regime and the 19^th^ century should therefore, and again in Geertz's words, "progressively delimit the structural possibilities inherent in a set of basic social elements" (Geertz, 1959). The outcome, as I hope to have shown, could be "a social space within which the studied village organisations are necessarily distributed" (Geertz, 1959). The variables I have identified thus oscillate within limits that I have tried to outline: the set of positions they take in each case determines their singularity.
 
-The reassessment of singularity seems to me essential in the current crisis of forms of representation. If I am not mistaken, attention to local singularities does not constitute a major focus of attention in political science today. In Italian case it seems to me to be more inclined to adopt categories assimilable to the centre-periphery dichotomy (e.g. the Italian inland areas) or to constructive or organisational typologies. \[[147]](#_ftn147)^~~,[~~\[148]~~](#_ftn148)~~^ The voices of singularity and the forms in which the aspiration to self-determination is articulated remain to be inventoried. It is perhaps time to take it into consideration before the distance between local societies and centres of power becomes truly unbridgeable.
+The reassessment of singularity seems to me essential in the current crisis of forms of representation. If I am not mistaken, attention to local singularities does not constitute a major focus of attention in political science today. In Italian case it seems to me to be more inclined to adopt categories assimilable to the centre-periphery dichotomy (e.g. the Italian inland areas) or to constructive or organisational typologies[^143]. The voices of singularity and the forms in which the aspiration to self-determination is articulated remain to be inventoried. It is perhaps time to take it into consideration before the distance between local societies and centres of power becomes truly unbridgeable.
 
 **References** 
 
 Aime, M. (2012). *Verdi tribù del Nord: La Lega vista da un antropologo*. Bari, Gius. Laterza & Figli Spa.
 
-Allen, R.C. (1992). *Enclosure and the yeoman: the agricultural development of the South Midlands 1450-*
+Allen, R.C. (1992). *Enclosure and the yeoman: the agricultural development of the South Midlands 1450-1850*. Oxford University Press.
 
-*1850*. Oxford University Press.
+Appadurai, A; (1995). *The production of  locality*. In Fardon, R. (ed.). *Counterworks: managing the diversity* *of knowledge.* London-New York, Routledge. p. 204-226. 
 
-Appadurai, A; (1995). *T\*\*he production of  locality*. In Fardon, R. (ed.). *Counterworks\*\*: managing the diversity* 
+Astuti, G. (1957). *Lezioni di storia del diritto italiano: la formazione dello stato moderno in Italia*. G. Giappichelli. Turin. 
 
-*of knowledge\*\*.* London-New York, Routledge. p. 204-226. 
+Astuti, G. (1961). *Gli ordinamenti degli Stati sabaudi,* in *Storia del Piemonte*. Turin.
 
-Astuti, G. (1957). *Lezioni di storia del diritto italiano: la formazione dello stato moderno in Italia*. G. 
+Balzaretti, R., Pearce, M.., & Watkins, C. (2004). *Ligurian landscapes. Studies in Archaeology, Geography &* *History*, *10*.
 
-Giappichelli. ~~Torino~~Turin. 
+Bascapé, C. (1876). *Nouaria seu De ecclesia Nouariensi libri duo primus de locis, alter de episcopis*. Nouara (1612).
 
-Astuti, G. (1961). *Gli ordinamenti degli Stati sabaudi,* in *Storia del Piemonte*. ~~Torino~~Turin.
+Battistoni, M. (2017). *Abbazie e ordini religiosi nel Piemonte di antico regime: patrimoni e giurisdizioni*. Genoa.
 
-Balzaretti, R., Pearce, M.., & Watkins, C. (2004). *Ligurian landscapes. \*\*Studies in Archaeology, Geography &* 
+Sagep editori.
 
-*History*, *10*.
+Bazzetta de Vemenia, G. (1914 - 1920).*Il Borgo di Omegna e suo contado : memorie storiche, documenti,* statuti, istituzioni, famiglie, uomini illustri. Gozzano, Omegna, Domodossola.
 
-Bascapé, C. (1876). *Nouaria seu De ecclesia Nouariensi libri duo primus de locis, alter de episcopis*. 
+Beltrametti, G. (2013). Usi civici, gestione collettiva delle risorse e diritti locali. Analisi storica di morfologie di possesso in realtà giurisdizionali di confine (Val Formazza, XIX-XX sec.). *Percorsi di Ricerca*, 5, p. 7 25.
 
-Nouara~~.~~ (1612).
+Bensaïd, D. (2007). *Les dépossédés: Karl Marx, les voleurs de bois et le droit des pauvres*. La fabrique éditions. Paris.
 
-Battistoni, M. (2017). *Abbazie e ordini religiosi nel Piemonte di antico regime: patrimoni e giurisdizioni*. Genoa
+Berasain, J. M. L. (2008). From equilibrium to equity. The survival of the commons in the Ebro Basin: Navarra from the 15th to the 20th centuries. *International Journal of the Commons*, *2*(2), 162-191.
 
-S~~S~~agep editori.
+Bériou, N., Caseau, B., & Rigaux, D. (2009). *Pratiques de l'eucharistie dans les Eglises d'Orient et* *d'Occident au Moyen Âge* (p. 1336). Institut d'études augustiniennes.
 
-Bazzetta de Vemenia, G. (1914 - 1920).***Il Borgo di Omegna e suo contado : memorie storiche, documenti,*** 
-
-**\*statuti, istituzioni, famiglie, uomini illustri\*\*\***.\*\*Gozzano, Omegna, Domodossola~~, 1914 - 1920~~.
-
-Beltrametti, G. (2013). Usi civici, gestione collettiva delle risorse e diritti locali. Analisi storica di morfologie di 
-
-possesso in realtà giurisdizionali di confine (Val Formazza, XIX-XX sec.). *Percorsi di Ricerca*, 5, p. 7 
-
-25.
-
-Bensaïd, D. (2007). *Les dépossédés: Karl Marx, les voleurs de bois et le droit des pauvres*. La fabrique 
-
-éditions. Paris~~, France~~.
-
-Berasain, J. M. L. (2008). From equilibrium to equity. The survival of the commons in the Ebro Basin: 
-
-Navarra from the 15th to the 20th centuries. *International Journal of the Commons*, *2*(2), 162-191.
-
-Bériou, N., Caseau, B., & Rigaux, D. (2009). *Pratiques de l'eucharistie dans les Eglises d'Orient et* 
-
-*d'Occident au Moyen Âge* (p. 1336). Institut d'études augustiniennes.
-
-Bertamini, T. (2000). Iconografia della SS. Trinità nel Verbano-Cusio-Ossola. *Sacro Monte di Ghiffa,* Regione 
-
-Piemonte, p. 57-74. 
+Bertamini, T. (2000). Iconografia della SS. Trinità nel Verbano-Cusio-Ossola. *Sacro Monte di Ghiffa,* Regione Piemonte, p. 57-74. 
 
 Bianchetti, E. (1878). *L'Ossola inferiore: notizie storiche e documenti* (Vol. 1). Fratelli Bocca. 
 
-Black, A. (1996). The Commune in Political Theory in the Late Middle Ages. In *Theorien Kommunaler* 
+Black, A. (1996). The Commune in Political Theory in the Late Middle Ages. In *Theorien Kommunaler* *Ordnung in Europa*, Blickle P. (ed.). Schriften des Historiker Kollegs Colloquen, Oldenburg.
 
-*Ordnung in Europa*, Blickle P. (ed.). Schriften des Historiker Kollegs Colloquen, Oldenburg.
+Boespflug, F. (1984). *Dieu dans l'art:* Sollicitudini Nostrae *de Benoît XIV (1745) et l'affaire Crescence de* *Kaufbeuren*. Ed. du Cerf.
 
-Boespflug, F. (1984). *Dieu dans l'art:* Sollicitudini Nostrae *de Benoît XIV (1745) et l'affaire Crescence de* 
+Bonan, G. (2016). The communities and the comuni: The implementation of administrative reforms in the Fiemme Valley (Trentino, Italy) during the first half of the 19th century. *International Journal of the Commons*, *10*(2), 589-616.
 
-*Kaufbeuren*. Ed. du Cerf.
+Bonini, I. V. (1976). *Le comunità di valle in epoca signorile: l'evoluzione della comunità di Valcamonica* *durante la dominazione viscontea (secc. XIV-XV)* (Vol. 13). Milano, Vita e pensiero.
 
-Bonan, G. (2016). The communities and the comuni: The implementation of administrative reforms in the 
+Bordes, M. (1963). La réforme municipale de 1764-1765 et son application dans l'intendance d'Auch. In *Annales du Midi* (Vol. 75, No. 61, pp. 49-76). 
 
-Fiemme Valley (Trentino, Italy) during the first half of the 19th century. *International Journal of the Commons*, *10*(2), 589-616.
-
-Bonini, I. V. (1976). *Le comunità di valle in epoca signorile: l'evoluzione della comunità di Valcamonica* 
-
-*durante la dominazione viscontea (secc. XIV-XV)* (Vol. 13). Milano, Vita e pensiero.
-
-Bordes, M. (1963). La réforme municipale de 1764-1765 et son application dans l'intendance d'Auch. 
-
-In *Annales du Midi* (Vol. 75, No. 61, pp. 49-76). ~~Persée-Portail des revues scientifiques en SHS.~~
-
-Bordes, M. (1972). *L'administration provinciale et municipale en France au XVIIIe siècle*. Société d'édition 
-
-et d'enseignement Supérieur.
+Bordes, M. (1972). *L'administration provinciale et municipale en France au XVIIIe siècle*. Société d'édition et d'enseignement Supérieur.
 
 Bordone, R. (1994). *Final Report*. Assessorato Enti Locali Regione Piemonte. 
 
@@ -597,79 +561,49 @@ Borghi, E. (2017). *Piccole Italie: le aree interne e la questione territoriale
 
 Cancian, F. (1996). The hamlet as mediator. *Ethnology*, *35*(3), 215-228.
 
-Cane, F. G. (1907). *Storia di Chesio e cenni storici della Valle Strona: con 33 ill. e due carte topografiche*. 
+Cane, F. G. (1907). *Storia di Chesio e cenni storici della Valle Strona: con 33 ill. e due carte topografiche*. Società Pro Chesio. Verbania.
 
-Società Pro Chesio. Verbania.
+Cassese, S. (2000). *La construction du droit administratif: France et Royaume Uni*. Paris, Montchrestien.
 
-Cassese, S. (2000). *La construction du droit administratif: France et Royaume-Uni*. Paris, Montchrestien. \~\~Paris. \~\~
+Cerutti, S. (1992). *Mestieri e privilegi: nascita delle corporazioni a Turin: secoli XVII-XVIII.* Einaudi.
 
-Cerutti, S. (1992). *Mestieri e privilegi: nascita delle corporazioni a ~~Torino~~Turin: secoli XVII-XVIII.* Einaudi.
-
-Cerutti, S. and Grangaud, I. (eds.) (2017), *Fuori mercato\*\*. Appartenenze locali e beni nel Mediterraneo*, special Issue of *Quaderni storici*, 52, 1, 2017, n. 154.
+Cerutti, S. and Grangaud, I. (eds.) (2017), *Fuori mercato. Appartenenze locali e beni nel Mediterraneo*, special Issue of *Quaderni storici*, 52, 1, 2017, n. 154.
 
 Cevasco, R. (2007). *Memoria verde: nuovi spazi per la geografia.* Reggio Emilia. 
 
-Charbonnier, P. (2007). Les espaces collectifs dans les campagnes: XIe-XXIe siècle. Presses Universitaires 
+Charbonnier, P. (2007). Les espaces collectifs dans les campagnes: XIe-XXIe siècle. Presses Universitaires Blaise Pascal. 
 
-Blaise Pascal. 
+Chiesi, F. (2019). *Le Alpi in movimento: icende del casato dei mercanti migranti Pedrazzini di Campo* *Vallemaggia (XVIII s.)*. Bellinzona, Edizioni Casagrande.
 
-Chiesi, F. (2019). *Le Alpi in movimento: icende del casato dei mercanti migranti Pedrazzini di Campo* 
+Colombo, A. M. (Ed.). (1997). *Le" ancone adorate" dell'alta Valstrona: la raccolta di arte sacra di Forno e* *Campello* (Vol. 8).Novara, Interlinea.
 
-*Vallemaggia (XVIII s.)*. Bellinzona, Edizioni Casagrande.
+Colombo, E.C. (ed.), *Carità*, special issue of *Quaderni storici, 54, 3, 2019, n. 162.*
 
-Colombo, A. M. (Ed.). (1997). *Le" ancone adorate" dell'alta Valstrona: la raccolta di arte sacra di Forno e* 
+Colombo, E. C., & Semeraro, R. (2022). *Le ragioni della carità. Economia e funzioni dei legati pii tra età* *moderna e contemporanea*. Bologna, Il Mulino.
 
-*Campello* (Vol. 8).Novara, Interlinea.
-
-Colombo, E.C. (ed.), *Carit\*\*à*, special issue of *Quaderni storici, 54, 3, 2019, n. 162.*
-
-Colombo, E. C., & Semeraro, R. (2022). *Le ragioni della carità. Economia e funzioni dei legati pii tra età* 
-
-*moderna e contemporanea*. Bologna, Il Mulino.
-
-Conesa, M. (2024). *La Solana d'Andorre. \*\*Histoire mondiale d'une montagne XIVe - XXe siècle*, thèse 
-
-d'Habilitation à diriger des recherches. 
+Conesa, M. (2024). *La Solana d'Andorre. \*\*Histoire mondiale d'une montagne XIVe - XXe siècle*, thèse d'Habilitation à diriger des recherches. 
 
 Conte, E. (2009). *Diritto comune: storia e storiografia di un sistema dinamico*. Il mulino.
 
-Cottereau, A., & Marzok, M. M. (2012). *Une famille andalouse: ethnocomptabilité d'une économie* 
-
-*invisible*. Paris, Bouchêne, Collection « Intérieurs du Maghreb »~~.~~
+Cottereau, A., & Marzok, M. M. (2012). *Une famille andalouse: ethnocomptabilité d'une économie* *invisible*. Paris, Bouchêne, Collection « Intérieurs du Maghreb »~~.~~
 
 Couturier, P. (2000). Friches et sectionaux. *Les friches dans le Massif central*. Clermont Ferrand. 
 
-Couturier, P., & Vanuxem, S. (2020). La propriété sectionnale: un modèle de communs pour le retour des 
+Couturier, P., & Vanuxem, S. (2020). La propriété sectionnale: un modèle de communs pour le retour des paysans?Toulouse, Presses Universitaires du Midi. *Étudier les ruralités contemporaines*, 2020.
 
-paysans?Toulouse, Presses Universitaires du Midi. *Étudier les ruralités contemporaines*, 2020~~.~~\~\~ Chapitre D'ouvrage. <https://hal.science/hal-03006799/>\~\~
+Cursente, B. (Ed.). (2020). *L'habitat dispersé: Dans l'Europe médiévale et moderne*. Toulouse, Presses universitaires du Midi.
 
-Cursente, B. (Ed.). (2020). *L'habitat dispersé: Dans l'Europe médiévale et moderne*. Toulouse, Presses universitaires 
+De Keyzer, M. (2018). *Inclusive commons and the sustainability of peasant communities in the medieval Low* *Countries*. London: Routledge.
 
-du Midi.
+De Moor, T. (2015). *The dilemma of the Commoners*: *Understanding the Use of Common-Pool Resources in* *Long-Term Perspective (Political Economy of Institutions and Decisions*. Cambridge, Cambridge University Press.
 
-De Keyzer, M. (2018). *Inclusive commons and the sustainability of peasant communities in the medieval Low* 
+De Rossi, A. (2014). *La costruzione delle Alpi. Immagini e scenari del pittoresco alpino (1773-1914)* (pp. I-1). Rome, Donzelli.
 
-*Countries*. London: Routledge.
+Della Misericordia, M. (2006). *Divenire comunità. Comuni rurali, poteri locali, identità sociali e territoriali in* *Valtellina e nella montagna lombarda nel tardo medioevo*. Milan, Unicopli.
 
-De Moor, T. (2015). *The dilemma of the Commoners*: *Understanding the Use of Common-Pool Resources in* 
+Delille, G. (1984). C.r. Franco Ramella, Terra e telai. Sistemi di parentela e manifattura nel biellese dell'Ottocento, Turin, 1984, 280 p. In *Annales. \*\*Histoire, Sciences Sociales* (Vol. 39, No. 5, pp. 1071-1073). 
 
-*Long-Term Perspective (Political Economy of Institutions and Decisions*. Cambridge, ~~United Kingdom.~~Cambridge University Press.
-
-De Rossi, A. (2014). *La costruzione delle Alpi. Immagini e scenari del pittoresco alpino (1773-1914)* (pp. I-1). 
-
-Rome, Donzelli.
-
-Della Misericordia, M. (2006). *Divenire comunità. Comuni rurali, poteri locali, identità sociali e territoriali in* 
-
-*Valtellina e nella montagna lombarda nel tardo medioevo*. Milan, Unicopli~~, Milano~~. 
-
-Delille, G. (1984). C.r. Franco Ramella, Terra e telai. Sistemi di parentela e manifattura nel biellese 
-
-dell'Ottocento, Turin, 1984, 280 p. In *Annales. \*\*Histoire, Sciences Sociales* (Vol. 39, No. 5, pp. 1071-1073). ~~Cambridge University Press.~~
-
-Delille, G. (1985). L'ordine dei villaggi e l'ordine dei campi. Per uno studio antropologico del paesaggio 
-
-agrario nel Regno di Napoli (secoli XV---XVII)'. *Storia d'Italia, Annali*, *8*, 491-560.
+Delille, G. (1985). L'ordine dei villaggi e l'ordine dei campi. Per uno studio antropologico del paesaggio agrario nel Regno di Napoli (secoli XV---XVII)'. *Storia d'Italia, Annali*, *8*, 491-560.
 
 Delille, G. (1989). *Famiglia e comunità nel Regno di Napoli*. ~~Torino~~Turin, Einaudi, 93-111.
 
@@ -679,203 +613,121 @@ Dematteo, L. (2014). *L'idiotie en politique: subversion et néo-populisme en I
 
 Demélas, M.D., & Vivier, N. (Eds.). (2003). *Les propriétés collectives face aux attaques libérales (1750-1914): Europe occidentale et Amérique latine*. PU Rennes.
 
-Derouet, B. (1995). Territoire et parenté. Pour une mise en perspective de la communauté rurale et des 
+Derouet, B. (1995). Territoire et parenté. Pour une mise en perspective de la communauté rurale et des formes de reproduction familiale. In *Annales. Histoire, sciences sociales* (Vol. 50, No. 3, pp. 645-686).
 
-formes de reproduction familiale. In *Annales. Histoire, sciences sociales* (Vol. 50, No. 3, pp. 645-686).
+Duparc, P. (1958). Confréries du Saint-Esprit et communautés d'habitants au Moyen-Age. *Revue historique* *de droit français et étranger (1922-)*, *35*, 349-367.
 
-Duparc, P. (1958). Confréries du Saint-Esprit et communautés d'habitants au Moyen-Age. *Revue historique* 
+Durkheim, É., & Mauss, M. (1901). De quelques formes primitives de classification: contribution à l'étude des représentations collectives. *L'Année sociologique (1896/1897-1924/1925)*, *6*, 1-72.
 
-*de droit français et étranger (1922-)*, *35*, 349-367.
+Einaudi, L. (1908). *La finanza sabauda all'aprirsi del secolo XVIII e durante la guerra di successione* *spagnuola* (Vol. 1).Turin, Officine grafiche della Società tipografico-editrice nazionale.
 
-Durkheim, É., & Mauss, M. (1901). De quelques formes primitives de classification: contribution à l'étude des 
+Erba, A. (2007). *Storia della Chiesa di Ivrea-secoli XVI-XVIII* (Vol. 4). Rome, Viella. 
 
-représentations collectives. *L'Année sociologique (1896/1897-1924/1925)*, *6*, 1-72.
-
-Einaudi, L. (1908). *La finanza sabauda all'aprirsi del secolo XVIII e durante la guerra di successione* 
-
-*spagnuola* (Vol. 1).Turin, Officine grafiche della Società tipografico-editrice nazionale.
-
-Erba, A. (2007). *Storia della Chiesa di Ivrea-secoli XVI-XVIII* (Vol. 4). Rome, Viella~~, Roma~~. 
-
-Fel, A. (1962). Les hautes terres du Massif Central: tradition paysanne et économie agricole. Thl, , Clermont-Ferrand, 1962.*~~(No Title~~)*.
+Fel, A. (1962). Les hautes terres du Massif Central: tradition paysanne et économie agricole. Thl, Clermont-Ferrand, 1962.
 
 Fel, A. (1983). *La Margeride: la montagne, les hommes*. Paris, Institut national de la recherche agronomique.
 
 Ferguson, J., *Give a Man a Fish*, Durham, 2015.
 
-Foster, J.B., Clark, B., & Holleman, H. (2021). Marx and the Commons. *Social Research: An International* 
+Foster, J.B., Clark, B., & Holleman, H. (2021). Marx and the Commons. *Social Research: An International* *Quarterly*, *88*(1), 1-30.
 
-*Quarterly*, *88*(1), 1-30.
-
-Franzinetti, G. (1993). Nazionalismo e mutamento sociale in Europa centro-orientale. *Quaderni storici*, 84, 
-
-XXVIII, n. 3.
+Franzinetti, G. (1993). Nazionalismo e mutamento sociale in Europa centro-orientale. *Quaderni storici*, 84, XXVIII, n. 3.
 
 Geertz, C. (1959). Form and variation in Balinese village structure. *American Anthropologist*, *61*(6), 991-1012.
 
-Greer, A. (2018). *Property and dispossession: Natives, empires and land in early modern North America*.
-
-Cambridge, Cambridge University Press.
+Greer, A. (2018). *Property and dispossession: Natives, empires and land in early modern North America*. Cambridge, Cambridge University Press.
 
 Grendi, E. (1973). *Introduzione alla storia moderna della Repubblica di Genova*. Genoa, Fratelli Bozzi.
 
-Grendi, E. (1993).  *Il Cervo e la Repubblica*. Turin, G. Einaudi, ~~Turin~~
+Grendi, E. (1993).  *Il Cervo e la Repubblica*. Turin, G. Einaudi.
 
 Grossi, P. (2015). *L'ordine giuridico medievale*. Bari, Gius. Laterza & Figli Spa.
 
-Guasco, F. (1911). *Dizionario feudale degli antichi Stati Sardi e della Lombardia:(Dall'epoca carolingia ai* 
+Guasco, F. (1911). *Dizionario feudale degli antichi Stati Sardi e della Lombardia:(Dall'epoca carolingia ai* *nostri tempi)* (Vol. 5). Bologna, Forni.
 
-*nostri tempi)* (Vol. 5). Bologna, Forni.
+Haller, T., Breu, T., De Moor, T., Rohr, C., & Znoj, H. (Eds.). (2019). *The commons in a glocal world: Global* *connections and local responses*. London, Routledge.
 
-Haller, T., Breu, T., De Moor, T., Rohr, C., & Znoj, H. (Eds.). (2019). *The commons in a glocal world: Global* 
+Hardin, G. (1968). The tragedy of the commons: the population problem has no technical solution; it requires a fundamental extension in morality. *Science*, *162*(3859), 1243-1248.
 
-*connections and local responses*. London, Routledge.
+Herzog, T. (2015). *Frontiers of possession: Spain and Portugal in Europe and the Americas*. Cambridge, Harvard University Press.
 
-Hardin, G. (1968). The tragedy of the commons: the population problem has no technical solution; it requires 
+Herzog, T. (2018). *A short history of European law: the last two and a half millennia*. Cambridge, Harvard University Press.  
 
-a fundamental extension in morality. *Science*, *162*(3859), 1243-1248.
+Hudson, B., Rosenbloom, J. D., & Cole, D. H. (Eds.). (2019). *Routledge Handbook of the Study of the* *Commons* (Vol. 442). London: Routledge.
 
-Herzog, T. (2015). *Frontiers of possession: Spain and Portugal in Europe and the Americas*. Cambridge, Harvard
+Hunziker, S. (1998). *Die ländliche Gemeinde in der juristischen Literatur, 1300-1800*, In *Gemeinde und Staat* *im alten Europa*, Blickle, P. (ed.), Boston: Oldenbourg WissenschaftsverlagMünchen. 
 
-University Press.
+Ingold, A. (2011). Écrire la nature: de l'histoire sociale à la question environnementale?. In *Annales. Histoire,* *Sciences Sociales* (Vol. 66, No. 1, pp. 9-29). 
 
-Herzog, T. (2018). *A short history of European law: the last two and a half millennia*. Cambridge, Harvard University 
+Ingravalle, F., & Malandrino, C. (2005). *Il lessico della Politica di Johannes Althusius: l'arte della simbiosi* *santa, giusta, vantaggiosa e felice*. Firenze: L.S. Olschki, 388 p.
 
-Press.  
+Laborda-Pemán, M., & De Moor, T. (2016). History and the commons: a necessary conversation. *International Journal of the Commons*, *10*(2), 517-528.
 
-Hudson, B., Rosenbloom, J. D., & Cole, D. H. (Eds.). (2019). *Routledge Handbook of the Study of the* 
+Larson, A. J., & Garbin, A. P. (1967). Hamlets: A Typological Consideration. *The Sociological Quarterly*, *8*(4), 531-537.
 
-*Commons* (Vol. 442). London: Routledge.
+Lascoumes P. & Zander, H. (1987). Marx : du „vol de bois" à la critique du droit. Karl Marx à la Gazette rhénane", naissance d'une méthode", *Tijdschrift Voor Filosofie* 49 (2): 320-321 
 
-Hunziker, S. (1998). *Die ländliche Gemeinde in der juristischen Literatur, 1300-1800*, In *Gemeinde und Staat* 
+Lauwers, M. (2005). *Naissance du cimetière. Lieux sacrés et terre des morts dans l'Occident médiéval* (p.410). Paris, Aubier-Flammarion.
 
-*im alten Europa*, Blickle, P. (ed.), Boston: Oldenbourg WissenschaftsverlagMünchen. 
+Lebole, D.D. (1970). *Storia della chiesa biellese. **Le confraternite. La pieve di Cossato.** La pieve di Puliaco-Giflenga.* Biella (vol. 2). 
 
-Ingold, A. (2011). Écrire la nature: de l'histoire sociale à la question environnementale?. In *Annales. Histoire,* 
+Lemaître, N. (1981). Bruyères, communes et mas: les communaux en Bas-Limousin depuis le XVI \[e] siècle. Musée du Pays d'Ussel
 
-*Sciences Sociales* (Vol. 66, No. 1, pp. 9-29)~~. Cambridge University Press~~. 
+Levi, G. (1988). *Inheriting power: the story of an exorcist*. Chicago, The University of Chicago Press.
 
-Ingravalle, F., & Malandrino, C. (2005). *Il lessico della Politica di Johannes Althusius: l'arte della simbiosi* 
+Lorenzetti, L., & Merzario, R. (2005). *Il fuoco acceso: famiglie e migrazioni alpine nell'Italia d'età moderna*. Rome, Donzelli.
 
-*santa, giusta, vantaggiosa e felice*. Firenze: L.S. Olschki, 388 p.
+Lowenthal, D. (2004). Marsh at Cravairola: Boundary-Making in the Italo-Swiss Alps. *Environment and* *History*, *10*(2), 205-235.
 
-Laborda-Pemán, M., & De Moor, T. (2016). History and the commons: a necessary 
+Lucatelli, S., Luisi, D., Tantillo, F., & l'Italia, A. R. (2022). *L'Italia lontana: una politica per le aree interne*. Rome, Donzelli.
 
-conversation. *International Journal of the Commons*, *10*(2), 517-528.
+Mahé, A. (2001). *Histoire de la Grande Kabylie, XIXe-XXe siècles: anthropologie historique du lien social* *dans les communautés villageoises*. Paris, Éditions Bouchène.
 
-Larson, A. J., & Garbin, A. P. (1967). Hamlets: A Typological Consideration. *The Sociological Quarterly*, *8*(4), 
+Mannori, L. (2008). La nozione di territorio fra antico e nuovo regime. Qualche appunto per uno studio sui modelli tipologici. In *Territorialità e delocalizzazione nel governo locale* (pp. 43-63). Il Mulino.
 
-531-537.
-
-[Lascoumes](https://philpapers.org/s/P.%20Lascoumes "View other works by P. Lascoumes") P. & [Zander](https://philpapers.org/s/H.%20Zander "View other works by H. Zander"), H. (1987). Marx : du „vol de bois" à la critique du droit. Karl Marx à la Gazette 
-
-rhénane", naissance d'une méthode", *[Tijdschrift Voor Filosofie](https://philpapers.org/asearch.pl?pub=2849)* 49 (2): 320-321 
-
-Lauwers, M. (2005). *Naissance du cimetière. Lieux sacrés et terre des morts dans l'Occident médiéval* (p.
-
-410). Paris, Aubier-Flammarion.
-
-Lebole, D.D. (1970). *Storia della chiesa biellese. **Le confraternite. La pieve di Cossato.** La pieve di Puliaco-*
-
-*Giflenga.* Biella (vol. 2). 
-
-Lemaître, N. (1981). Bruyères, communes et mas: les communaux en Bas-Limousin depuis le XVI \[e] 
-
-siècle. Musée du Pays d'Ussel
-
-Levi, G.~~, & Cochrane, L. G.~~ (1988). *Inheriting power: the story of an exorcist*. Chicago, The University of Chicago 
-
-Press.
-
-Lorenzetti, L., & Merzario, R. (2005). *Il fuoco acceso: famiglie e migrazioni alpine nell'Italia d'età moderna*. 
-
-Rome, Donzelli.
-
-Lowenthal, D. (2004). Marsh at Cravairola: Boundary-Making in the Italo-Swiss Alps. *Environment and* 
-
-*History*, *10*(2), 205-235.
-
-Lucatelli, S., Luisi, D., Tantillo, F., & l'Italia, A. R. (2022). *L'Italia lontana: una politica per le aree interne*. 
-
-Rome, Donzelli\~\~ editore\~\~.
-
-Mahé, A. (2001). *Histoire de la Grande Kabylie, XIXe-XXe siècles: anthropologie historique du lien social* 
-
-*dans les communautés villageoises*. Paris, Éditions Bouchène.
-
-Mannori, L. (2008). La nozione di territorio fra antico e nuovo regime. Qualche appunto per uno studio sui 
-
-modelli tipologici. In *Territorialità e delocalizzazione nel governo locale* (pp. 43-63). Il Mulino.
-
-Marchetti, M., Panunzi, S., & Pazzagli, R. (2017). *Aree interne. Per una rinascita dei territori rurali e montani*. 
-
-Rubbettino. 
+Marchetti, M., Panunzi, S., & Pazzagli, R. (2017). *Aree interne. Per una rinascita dei territori rurali e montani*. Rubbettino. 
 
 Marino, A. (Ed.). (1996). *La figura della città: i catasti storici in Italia* (Vol. 6). Gangemi Editore.
 
-Marx, K. (2007). *Les voleurs de bois et le droit des pauvres*. In Bensaïd, D. (2007). *Les dépossédés: Karl Marx, les voleurs de bois et le droit des pauvres*. Paris, La fabrique éditions. \~\~Paris, France \~\~
+Marx, K. (2007). *Les voleurs de bois et le droit des pauvres*. In Bensaïd, D. (2007). *Les dépossédés: Karl Marx, les voleurs de bois et le droit des pauvres*. Paris, La fabrique éditions. 
 
 Merzario, R. (1989). Il capitalismo nelle montagne: strategie famigliari nella prima fase di industrializzazione   nel Comasco. Bologna, Mulino. 
 
-Ministero dell'Istruzione e del Merito. (2018). *Strategia nazionale per le Aree interne: definizione, obiettivi,* 
-
-*strumenti e governance*. Ministero dell'Istruzione e del Merito. [https://www.miur.gov.it/documents/20182 /890263 /strategia*nazionale_aree* interne.pdf](https://www.miur.gov.it/documents/20182%20/890263%20/strategia_nazionale_aree_%20interne.pdf)
+Ministero dell'Istruzione e del Merito. (2018). *Strategia nazionale per le Aree interne: definizione, obiettivi,* *strumenti e governance*. Ministero dell'Istruzione e del Merito. [https://www.miur.gov.it/documents/20182 /890263 /strategia*nazionale_aree* interne.pdf](https://www.miur.gov.it/documents/20182%20/890263%20/strategia_nazionale_aree_%20interne.pdf)
 
 Moreno, D. (1990). *Dal documento al terreno. Storia e archeologia dei sistemi agro-silvo-pastorali*. Bologna, il Mulino.
 
 Moreno, D. & Raggio, O. (1992).  Risorse collettive.*Quaderni Storici*. Special issue, , 27(3), 81, 3. 
 
-Moreno, D., & Raggio, O. (1999). Dalla storia del paesaggio agrario alla storia rurale. L'irrinunciabile eredità 
+Moreno, D., & Raggio, O. (1999). Dalla storia del paesaggio agrario alla storia rurale. L'irrinunciabile eredità scientifca di Emilio Sereni. *Quaderni storici*, *34*(1), 89-104.
 
-scientifca di Emilio Sereni. *Quaderni storici*, *34*(1), 89-104.
+Morsel, J. (Ed.). (2018). *Communautés d'habitants au Moyen Âge:(XIe-XVe siècles)*. Paris, Éditions de la Sorbonne.
 
-Morsel, J. (Ed.). (2018). *Communautés d'habitants au Moyen Âge:(XIe-XVe siècles)*. Paris, Éditions de la 
+Mussi, L. (1975). *Le regie patenti del 6 giugno 1775: bicentenario di una legge comunale.* Turin.
 
-Sorbonne.
+Neeson, J. M. (1993). *Commoners: common right, enclosure and social change in England, 1700-1820*. Cambridge, Cambridge University Press.
 
-Mussi, L. (1975). *Le regie patenti del 6 giugno 1775: **bicentenario di una legge comunale**.* ~~Torino~~Turin.
+Ostrom, E. (1990). *Governing the commons: The evolution of institutions for collective action*. Cambridge, Cambridge University Press.
 
-Neeson, J. M. (1993). *Commoners: common right, enclosure and social change in England, 1700-1820*. 
-
-Cambridge, Cambridge University Press.
-
-Ostrom, E. (1990). *Governing the commons: The evolution of institutions for collective action*. Cambridge, Cambridge
-
-university press.
-
-Otero, A. (1632). *De Pascuis et jure pascendi tractatus... in duos tomos divisus*. Vallisoleti, apud J. de
-
-Rueda. 
+Otero, A. (1632). *De Pascuis et jure pascendi tractatus... in duos tomos divisus*. Vallisoleti, apud J. de Rueda. 
 
 Pausanias, F. (2023). Tabu: eating beans. Consulted online.
 
-Petracchi, A. (1962). *Le origini dell'ordinamento comunale e provinciale Italiano: storia della legislazione* 
-
-*piemontese sugli enti locali dalla fine dell'antico regime al chiudersi dell'età cavouriana (1770-1861*).Venezia, Pozza. 
+Petracchi, A. (1962). *Le origini dell'ordinamento comunale e provinciale Italiano: storia della legislazione* *piemontese sugli enti locali dalla fine dell'antico regime al chiudersi dell'età cavouriana (1770-1861*).Venezia, Pozza. 
 
 Piana, F. (1863). *Memorie della Valle di Strona.* Novara.
 
-Pike, K. (1967). Language in relation to a unified theory of the structure of human behavior (2nd edn). The 
+Pike, K. (1967). Language in relation to a unified theory of the structure of human behavior (2nd edn). The Hague: Mouton. *Philosophical Transactions of the Royal Society of London*, *13*.
 
-Hague: Mouton. *Philosophical Transactions of the Royal Society of London*, *13*.
+Poeck, D. (2003). *Rituals of Council Election: Signs and Ceremonies of Council Setting in Europe (12th-18th* *Centuries)* (Vol. 60). Böhlau Verlag Cologne Weimar.
 
-Poeck, D. (2003). *Rituals of Council Election: Signs and Ceremonies of Council Setting in Europe (12th-18th* 
+Pouzenc, M. & Charley D.L.M., B. (2020). *Étudier les ruralités contemporaines.* Toulouse, Presses universitaires du Midi.
 
-*Centuries)* (Vol. 60). Böhlau Verlag Cologne Weimar.
-
-Pouzenc, M. & Charley D.L.M., B. (2020). *Étudier les ruralités contemporaines.* Toulouse, Presses universitaires du 
-
-Midi.\~\~ ISBN : 978-2-8107-0683-9\~\~.
-
-Prato, G. (1908). *La vita economica in Piemonte a mezzo il secolo XVIII* (Vol. 1). Turin,Societa Tipografico-Editrice 
-
-Nazionale.
+Prato, G. (1908). *La vita economica in Piemonte a mezzo il secolo XVIII* (Vol. 1). Turin,Societa Tipografico-Editrice Nazionale.
 
 Quazza, G. (1957). *Le riforme in Piemonte nella prima metà del Settecento.* Modena, 2 vols, vol I, 144-150.
 
-Rackham, O., & di Stefano, P. (1982). Boschi e storia dei sistemi silvo-pastorali in Inghilterra. *Quaderni* 
-
-*storici*, 16-48.
+Rackham, O., & di Stefano, P. (1982). Boschi e storia dei sistemi silvo-pastorali in Inghilterra. *Quaderni* *storici*, 16-48.
 
 Rackham, O. (1986). *Ancient woodland, its history, vegetation and uses in England*. London: J. M. Den
 
@@ -887,181 +739,111 @@ Rackham, O. (2001). *The Nature of Mediterranean Europe: an Ecological History*
 
 Raggio, O. (1990). *Faide e parentele: lo stato genovese visto dalla Fontanabuona*. G. Einaudi.
 
-Raggio, O. (2018). *Feuds and State Formation, 1550--1700: The Backcountry of the Republic of Genoa*. 
+Raggio, O. (2018). *Feuds and State Formation, 1550--1700: The Backcountry of the Republic of Genoa*. Cham, Palgrave.
 
-~~Springer~~Cham, Palgrave.
-
-Ramella, F. (1984 and 2022). *Terra e Telai: sistemi di parentela e manifattura nel Biellese dell'Ottocento.* Turin, Einaudi\~\~, \~\~and Rome, Donzelli.
-
-~~Torino~~Turin~~.~~
+Ramella, F. (1984 and 2022). *Terra e Telai: sistemi di parentela e manifattura nel Biellese dell'Ottocento.* Turin, Einaudi\~\~, \~\~and Rome, Donzelli. Turin.
 
 Rizzi, E. (2022). *I De Rodis e Premia*. Grossi, Domodossola.
 
-**Rodgers, C. (2011). *Contested common land : environmental governance past and present*. London-**
+Rodgers, C. (2011). *Contested common land : environmental governance past and present*. London Washington, Earthscan.
 
-**Washington, Earthscan.~~.~~**
+Rose, C. (1994). *Property and Persuasion: Essays on the History, Theory, and Rhetoric of Ownership*.  Boulder, San Francisco, T&F.
 
-Rose, C. (1994). *Property and Persuasion: Essays on the History, Theory, and Rhetoric of Ownership*. 
+Rose, C. M. (2013). Psychologies of property (and why property is not a hawk-dove game). *In Philosophical* *Foundations of Property Law.* Oxford University Press.
 
-Boulder, San Francisco, T&F.~~.~~
+Sarti, N. (2003). *Inter vicinos praesumitur aemulatio: le dinamiche dei rapporti di vicinato nell'esperienza del* *diritto comune*. Milan, A. Giuffrè.
 
-Rose, C. M. (2013). Psychologies of property (and why property is not a hawk-dove game). *In Philosophical* 
+Stopani, A. (2008). *La production des frontières. Etat et communautés en Toscane (XVI-XVIII siècles)* (Vol. 397, pp. 1-449). Rome, École française de Rome.
 
-*Foundations of Property Law.* Oxford University Press.
+Sturani, M.L. (1995). *Il Piemonte*. In L. Gambi and F. Merloni (eds.), *Amministrazioni pubbliche e territorio in* *Italia*. Bologna, IL Mulino.
 
-Sarti, N. (2003). *Inter vicinos praesumitur aemulatio: le dinamiche dei rapporti di vicinato nell'esperienza del* 
+Sturani, M. L. (2001). Dinamiche storiche e problemi attuali della maglia istituzionale in Italiain  Ead.,~~.~~ *Saggi di* *Geografia Amministrativa,~~.~~Alessandria, Edizioni Dell'Orso.*
 
-*diritto comune*. Milan, A. Giuffrè.
+Sturani, M. L. (2021). *Dividere, governare e rappresentare il territorio in uno stato di antico regime. La* *costruzione della maglia amministrativa nel Piemonte sabaudo (XVI-XVIII sec.)* (Vol. 6, pp. 1-222). Edizioni dell'Orso.
 
-Stopani, A. (2008). *La production des frontières. Etat et communautés en Toscane (XVI-XVIII siècles)* (Vol. 
+Symcox, G. (1983). *Victor Amadeus II: Absolutism in the Savoyard State, 1675-1730*. London, Thames and Hudson
 
-397, pp. 1-449). Rome, École française de Rome.
+Tacca, M. (2021a). Pratiche di catastazione e riforme della maglia amministrativa rurale. Borgate e beni comuni nella Savoia del diciottesimo secolo. *Quaderni Storici*, *56*(1), 173-196.
 
-Sturani, M.L. (1995). *Il Piemonte*. In L. Gambi and F. Merloni (eds.), *Amministrazioni pubbliche e territorio in* 
+Tacca, M. (2021b). "La costruzione del territorio. Proprietà e risorse in un fondovalle della Savoia (XVIII-XX secolo)"*.* Università della Svizzera Italiana, Accademia di architettura, Laboratorio di Storia delle Alpi (LabiSAlp), Ph.D. Thesis, A. A. 2020/2021.
 
-*Italia*. Bologna, IL Mulino.~~.~~
+Losa (Losaeus), N. (1601). *De iure vniuersitatum tractatus omnibus legum studiosis, & in foro, & in scholis versantibus maxime vtilis, ac necessarius. Authore Nicolao Losaeo Taurinensi I.C. et serenissimi Sabaudiae ducis consiliario status, referendario, ac senatore,* Augustae Taurinorum, apud Pantaleonem e Goffis & Laurentium Vallinum socios.
 
-Sturani, M. L. (2001). Dinamiche storiche e problemi attuali della maglia istituzionale in Italiain  Ead.,~~.~~ *Saggi di* 
+Tawney, R. H. (1912). *The agrarian problem in the sixteenth century* (No. 13). Longmans, Green and Company.
 
-*Geografia Amministrativa,~~.~~Alessandria, Edizioni Dell'Orso.*
+Tawney, R. H., & Power, E.E. (Eds.). (1924). *Tudor economic documents: being select documents* *illustrating the economic and social history of Tudor England* (No. 4). London, Longmans, Green and Company.
 
-Sturani, M. L. (2021). *Dividere, governare e rappresentare il territorio in uno stato di antico regime. La* 
+Thomas, Y. (2005). L'extrême et l'ordinaire. Remarques sur le cas médiévale de la communauté disparue*,'*in Jean-Claude Passeron and Jacques Revel (eds). *Penser par cas,* Paris: Ecole des Hautes Etudes en Sciences Sociales.
 
-*costruzione della maglia amministrativa nel Piemonte sabaudo (XVI-XVIII sec.)* (Vol. 6, pp. 1-222). Edizioni dell'Orso.
+Thomas, Y., (2011). *Les opérations du droit*. Paris, Seuil.
 
-~~Tigrino, V. (2017). ~~~~Risorse comuni. *Quaderni Storici*. Special issue 52, 2. <https://www.rivisteweb.it/issn/0301-6307/issue/7379>\~\~
-
-Symcox, G. (1983). *Victor Amadeus II: Absolutism in the Savoyard State, 1675-1730*. \~\~Univ of California \~\~
-
-~~Press.~~London, Thames and Hudson
-
-Tacca, M. (2021a). Pratiche di catastazione e riforme della maglia amministrativa rurale. Borgate e beni 
-
-comuni nella Savoia del diciottesimo secolo. *Quaderni Storici*, *56*(1), 173-196.
-
-Tacca, M. (2021b). "La costruzione del territorio. Proprietà e risorse in un fondovalle della Savoia (XVIII-XX 
-
-secolo)"*.* Università della Svizzera Italiana, Accademia di architettura, Laboratorio di Storia delle Alpi 
-
-(LabiSAlp), Ph.D. Thesis, A. A. 2020/2021.
-
-~~Taurinensi~~,Losa (Losaeus), N.~~L.~~ (1601)~~\-1727). Tractatus de iure universitatum.LOSA (LOSAEUS), N., 1601,~~. *[De iure vniuersitatum tractatus omnibus legum studiosis, & in foro, & in scholis versantibus maxime vtilis, ac necessarius. Authore Nicolao Losaeo Taurinensi I.C. et serenissimi Sabaudiae ducis consiliario status, referendario, ac senatore, ](http://www.sbn.it/opacsbn/opaclib?db=iccu&select_db=iccu&nentries=1&from=4&searchForm=opac/iccu/error.jsp&resultForward=opac/iccu/full.jsp&do=search_show_cmd&rpnlabel=+Autore+%3D+losa%2C+niccol%C3%B2+&rpnquery=%40attrset+bib-1++%40attr+1%3D1003+%40attr+4%3D2+%22losa%2C+niccol%C3%B2%22&totalResult=5&ricerca=base&fname=none&brief=brief)*Augustae Taurinorum, apud Pantaleonem e Goffis & Laurentium Vallinum socios.
-
-Tawney, R. H. (1912). *The agrarian problem in the sixteenth century* (No. 13). Longmans, Green and 
-
-Company.
-
-Tawney, R. H., & Power, E.E. (Eds.). (1924). *Tudor economic documents: being select documents* 
-
-*illustrating the economic and social history of Tudor England* (No. 4). London, Longmans, Green and Company.
-
-Thomas, Y. (2005). L'extrême et l'ordinaire. Remarques sur le cas médiévale de la communauté disparue*,'*in 
-
-Jean-Claude Passeron and Jacques Revel (eds). *Penser par cas,* Paris: Ecole des Hautes Etudes en Sciences Sociales.
-
-Thomas, Y., \~\~Hermitte, M. A., & Napoli, P. \~\~(2011). *Les opérations du droit*. Paris, Seuil.
-
-~~<https://www.seuil.com/ouvrage/les-operations-du-droit-yan-thomas/9782021022582>~~
-
-Thomas, Y., & Chiffoleau, J. (2020). *L'istituzione della natura*. ~~Edited by \~\~Macerata, Quodlibet,~~ Spanò. \~\~
-
-~~<https://www.quodlibet.it/libro/9788822904843>~~
+Thomas, Y., & Chiffoleau, J. (2020). *L'istituzione della natura*. Macerata, Quodilbet. 
 
 Thompson, E. P. (2015). *Customs in common: Studies in traditional popular culture*. New Press/ORIM.
 
-Thompson, Stith. (2016). *Motif-Index of Folk-Literature: A Classification of Narrative Elements in Folktales,* 
+Thompson, Stith. (2016). *Motif-Index of Folk-Literature: A Classification of Narrative Elements in Folktales,* *Ballads, Myths, Fables, Mediaeval Romances, Exempla, Fabliaux, Jest-Books and Local Legends.* Bloomington, Indiana. ~~<https://archive.org/details/Thompson2016MotifIndex>~~
 
-*Ballads, Myths, Fables, Mediaeval Romances, Exempla, Fabliaux, Jest-Books and Local Legends.* Bloomington, Indiana. ~~<https://archive.org/details/Thompson2016MotifIndex>~~
+Tigrino, V.S. (2013). Storia di un Seminario di Storia locale. Edoardo Grendi e il Seminario permanente di Genova (1989-1999). In *La natura della Montagna. Studi in ricordo di Giuseppina Poggi* (pp. 211-232). Sestri Levante, Oltre.
 
-Tigrino, V.S. (2013). Storia di un Seminario di Storia locale. Edoardo Grendi e il Seminario permanente di 
-
-Genova (1989-1999). In *La natura della Montagna. Studi in ricordo di Giuseppina Poggi* (pp. 211-232). Sestri Levante, Oltre.
-
-Tigrino, V. (ed.) (2017). Risorse comuni. *Quaderni Storici*. Special issue 52 (2), 155..
+Tigrino, V. (ed.) (2017). Risorse comuni. *Quaderni Storici*. Special issue 52 (2), 155.
 
 Tigrino, V. (2017). "Foreword" to Risorse Comuni. *Quaderni Storici*, 52 (2), 155, p. 297-316.
 
-Torre, A. (1985a). Il consumo di devozioni: Rituali e potere nelle campagne piemontesi nella primà meta del 
+Torre, A. (1985a). Il consumo di devozioni: Rituali e potere nelle campagne piemontesi nella primà meta del Settecento. *Quaderni Storici*, 181-223.
 
-Settecento. *Quaderni Storici*, 181-223.
+Torre, A. (1985b). Le visite pastorali: altari, famiglie, devozioni. In *Valli monregalesi: arte, società, devozioni*(pp. 148-188). Vicoforte (CN), Comunità montana Valli Monregalesi. 
 
-Torre, A. (1985b). Le visite pastorali: altari, famiglie, devozioni. In *Valli monregalesi: arte, società, devozioni*
+Torre, A. (1992). Politics cloaked in worship: state, church and local power in piedmont 1570--1770. *Past &* *Present*, *134*(1), 42-92.
 
-(pp. 148-188). Vicoforte (CN), Comunità montana Valli Monregalesi. 
+Torre, A., & Lombardini, S. (1994). Le isole amministrative nel Biellese. In *Ricerca storica sulle isole* *amministrative della Regione Piemonte. Relazione Finale* (pp. 30-66). 
 
-Torre, A. (1992). Politics cloaked in worship: state, church and local power in piedmont 1570--1770. *Past &* 
-
-*Present*, *134*(1), 42-92.
-
-Torre, A., & Lombardini, S. (1994). Le isole amministrative nel Biellese. In *Ricerca storica sulle isole* 
-
-*amministrative della Regione Piemonte. Relazione Finale* (pp. 30-66). 
-
-Torre, A. (1995). *Il consumo di devozioni. religione e comunità nell'antico regime*. Venice: Marsilio. \~\~Pp. xxiv, \~\~
-
-\~\~362. IRIS Universitá del Piemonte Orientale. \~\~
+Torre, A. (1995). *Il consumo di devozioni. religione e comunità nell'antico regime*. Venice: Marsilio. 
 
 Torre, A. (2002). La produzione storica dei luoghi. *Quaderni storici*, *37*(2), 443-476.
 
-Torre, A. (2006). *Losa, Nicolò.* *Dizionario Biografico degli Italiani*, Roma, Treccani.~~.~~
+Torre, A. (2006). *Losa, Nicolò.* *Dizionario Biografico degli Italiani*, Roma, Treccani.
 
-Torre, A. (2007). Faire communauté: Confréries et localité dans une vallée du Piémont (XVIIe-XVIIIe siècle). 
+Torre, A. (2007). Faire communauté: Confréries et localité dans une vallée du Piémont (XVIIe-XVIIIe siècle). In *Annales. Histoire, Sciences Sociales* (Vol. 62, No. 1, pp. 101-135).
 
-In *Annales. Histoire, Sciences Sociales* (Vol. 62, No. 1, pp. 101-135).~~Cambridge University Press~~.
-
-Torre, A. (2011). *Luoghi: La produzione di località in età moderna e contemporanea.* \~\~Saggi, Storia e Scienze \~\~
-
-~~Sociali. ISBN: 9788860365880~~Rome, Donzelli.
+Torre, A. (2011). *Luoghi: La produzione di località in età moderna e contemporanea.* Rome, Donzelli.
 
 Torre, A. (2017). Cause pie. Riflessioni su lasciti e benefici in antico regime. *Quaderni storici*, *52*(1), 155-180.
 
 Torre, A. (2019). *Production of locality in the early modern and modern age: Places*. London: Routledge.
 
-Torre, A. (2021). Commons as Local Institutions. Hamlets and Municipalities between 18th and 19th Century 
+Torre, A. (2021). Commons as Local Institutions. Hamlets and Municipalities between 18th and 19th Century in Piedmont. *Quaderni storici*, *56*(3), 685-724.
 
-in Piedmont. *Quaderni storici*, *56*(3), 685-724.
+Torre, A. (2023a). "Les marmites du Saint-Esprit". In *Matérialités citoyennes. Un projet d'abécédaire* *augmenté (Méditerranée, XVIe-XXIe s.)*, consulted online. 
 
-Torre, A. (2023a). "Les marmites du Saint-Esprit". In *Matérialités citoyennes. Un projet d'abécédaire* 
-
-*augmenté (Méditerranée, XVIe-XXIe s.)*, consulted online. 
-
-Torre, A. (2023b). *Il tumulto di Omegna, febbraio 1744: un idioma politico locale?* In A. Addobbati e M. Giuli 
-
-(eds.), *Genealogie credibili. Scritti di storia in onore di Roberto Bizzocchi\*\*.* Pisa, Ets.~~.~~
+Torre, A. (2023b). *Il tumulto di Omegna, febbraio 1744: un idioma politico locale?* In A. Addobbati e M. Giuli (eds.), *Genealogie credibili. Scritti di storia in onore di Roberto Bizzocchi.* Pisa, Ets.
 
 Torre, A. (2005). *Universitas (Losaeus)*. In *Il lessico della "politica" di Johannes Althusius.*
 
-Trewartha, G. T. (1943). The unincorporated hamlet: one element of the American settlement fabric. *Annals*
+Trewartha, G. T. (1943). The unincorporated hamlet: one element of the American settlement fabric. *Annalsof the Association of American Geographers*, *33*(1), 32-81.
 
-*of the Association of American Geographers*, *33*(1), 32-81.
+Trochet, J. R. (1993). *Aux origines de la France rurale: outils, pays et paysages*.Paris, Ed. CNRS 
 
-Trochet, J. R. (1993). *Aux origines de la France rurale: outils, pays et paysages*.Paris, Ed. CNRS ~~Éditions~~
+Venturi, F. (1998). *Settecento riformatore*. Turin, Einaudi.
 
-Venturi, F. (1998). *Settecento riformatore*. Tu~~o~~rin~~o~~, Einaudi~~.~~
+Vidari, G. P. (1983). Profili delle istituzioni sabaude da Amedeo VIII a Carlo Emanuele III. *Bollettino della* *società per gli studi storici, archeologici ed artistici della provincia di Cuneo*, *89*.
 
-Vidari, G. P. (1983). Profili delle istituzioni sabaude da Amedeo VIII a Carlo Emanuele III. *Bollettino della* 
+Wolf, E.R. (1966). *Peasants*. Prentice-Hall, Englewood Cliffs. (NJ)
 
-*società per gli studi storici, archeologici ed artistici della provincia di Cuneo*, *89*.
+Zink, A. (1993). *L'héritier de la maison: géographie coutumière du Sud-Ouest de la France sous l'Ancien* *Régime*.  Paris, Éditions de l'École des Hautes Études en Sciences Sociales. 
 
-Wolf, E.R. (1966). *Peasants*. Prentice-Hall, Englewood Cliffs. (NJ)\~\~ Inc. New Jersey, United States of America\~\~.
+Zink, A. (1997). *Clochers et troupeaux: les communautés rurales des Landes et du Sud-Ouest avant la* *Révolution*. Bordeaux, Presses Univ. de Bordeaux.
 
-Zink, A. (1993). *L'héritier de la maison: géographie coutumière du Sud-Ouest de la France sous l'Ancien* 
+Zink, A. (2000). *Pays ou circonscriptions: les collectivités territoriales de la France du Sud-Ouest sous* *l'Ancien Régime* (Vol. 42). Paris, Publications de la Sorbonne.
 
-*Régime*.  Paris, Éditions de l'École des Hautes Études en Sciences Sociales. 
 
-Zink, A. (1997). *Clochers et troupeaux: les communautés rurales des Landes et du Sud-Ouest avant la* 
 
-*Révolution*. Bordeaux, Presses Univ. de Bordeaux.
+[^1] 
 
-Zink, A. (2000). *Pays ou circonscriptions: les collectivités territoriales de la France du Sud-Ouest sous* 
+See also K. Marx's articles on wood theft, published in the *Rheinische Zeitung* on 15^th^ and 18^th^ January and 25^th^ October 1842 in Bensaïd (2007).
 
-*l'Ancien Régime* (Vol. 42). Paris, Publications de la Sorbonne.
+[^2]
 
-- - -
-
-\[[1]](#_ftnref1) See also K. Marx's articles on wood theft, published in the *Rheinische Zeitung* on 15^th^ and 18^th^ January and 25^th^ October 1842 in Bensaïd (2007).
-
-\[[2]](#_ftnref2)  For a rich reference see Wolf (1966). 
+For a rich reference see Wolf (1966). 
 
 \[[3]](#_ftnref3) This aspect is at the centre of journals such as *International Journal of the Commons,* since 2007. 
 
