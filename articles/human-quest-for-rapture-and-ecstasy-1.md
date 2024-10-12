@@ -95,7 +95,7 @@ This reaction of embarrassment is new and marks the beginning of self-consciousn
 
 Darwin in his book on the expression of emotions in "Man and animals" notes: "Blushing is the most peculiar and the most human of all expressions...." He goes on noticing: "It is not the simple act of reflecting on our own appearance, but the thinking what others think of us, which excites a blush. In absolute solitude the most sensitive person would be quite indifferent about his appearance" (Darwin, 1872, pp. 309 and 325).
 
-            Aside from the novel and presumably "uniquely" human worry of the self and reputation emerging from around 18 months of age in typical children of all cultures, there are important precursors or "primitives" announcing such major and predictable change in human psychological development. 
+Aside from the novel and presumably "uniquely" human worry of the self and reputation emerging from around 18 months of age in typical children of all cultures, there are important precursors or "primitives" announcing such major and predictable change in human psychological development. 
 
 As already mentioned, immediately after birth, and probably even during the last trimester of gestation, the human young express some sense of embodied self-awareness. This awareness is implicit and somehow a built-in feature of the developing organism. Newborns do manifest a discrimination of their own body as a differentiated, substantial and situated entity among other entities (Rochat, 2018). 
 
@@ -105,23 +105,23 @@ This is a central point that we should interpret as a major root or pillar of hu
 
 At this juncture (2 months post-partum), infants start behaving as "control rooms" becoming their own headquarters of perception and action. As Piaget and many other pioneer developmental psychologists insist, children actively construct the reality they perceive and conceive. In other words, self-agency is at the core of child development, and by extension, of human functioning in nature.
 
-            With that in mind, let's go back to our original question of what may underly the universal human quest for ecstasy.
+With that in mind, let's go back to our original question of what may underly the universal human quest for ecstasy.
 
-**Human self-conscious trap**
+## Human self-conscious trap
 
-            Human self-consciousness, in tandem with human exacerbated sense of reputation is our curse. As Sartre famously remarked "hell is others", as much of what we do is inseparable from what others may think of us, ultimately making others the evaluators of our own worth. 
+Human self-consciousness, in tandem with human exacerbated sense of reputation is our curse. As Sartre famously remarked "hell is others", as much of what we do is inseparable from what others may think of us, ultimately making others the evaluators of our own worth. 
 
 Our own research shows that this particularly exacerbated human trait (care for reputation) starts manifesting itself already from around 18 months of age (Botto & Rochat, 2018). The care for reputation and the central role of others' evaluation is instrumental and at the core of our basic need to affiliate with others. Our survival depends on it as without others, we are nothing. We cannot survive, especially when we are young. This is particularly true considering for example that among all primate species, ours is distinct by the prolonged immaturity of our young, hence human hyper-dependence on others from the get-go.
 
-            Most importantly, and aside from human exacerbated care for reputation, human self-consciousness is unique because it leads to the inescapable realization of our own finitude: all humans know they are going to die, and death is the ultimate human conundrum.
+Most importantly, and aside from human exacerbated care for reputation, human self-consciousness is unique because it leads to the inescapable realization of our own finitude: all humans know they are going to die, and death is the ultimate human conundrum.
 
 To quote philosopher Vladimir Jankélévitch (2008): "Death is a scandal". It is indeed a necessary human realization that humans must somehow come to terms with it. It is scandalous because it is a necessary demand placed on humans that is fundamentally unresolvable. To think is to be and to think not being is a profound imposture: How can I conceive not to be as I need to be in order to conceive?
 
 It took centuries before the invention of zero, "the nothing that is not", in the context of counting and mathematics (Kaplan, 1999). But from a purely existential perspective, death is by definition inconceivable, unless you avoid the problem via the adoption of immortality narratives which simply elude the issue by prolonging one's life beyond biological death with models of re-incarnation or other metamorphosis leading toward eternal life. Such beliefs evade the fundamental conundrum of discontinuity toward nothingness (i.e., what is logically speaking, and by virtue of being, *inconceivable*).
 
-            It is against the backdrop of the human self-conscious condition that we want to consider the human quest for rapture and ecstasy, the universal human drive "to be or stand outside oneself". We view this drive as a systematic attempt at transcending one's own trapping into being and the scandal of death, what we posit as two core elements of human self-conscious psychology.
+It is against the backdrop of the human self-conscious condition that we want to consider the human quest for rapture and ecstasy, the universal human drive "to be or stand outside oneself". We view this drive as a systematic attempt at transcending one's own trapping into being and the scandal of death, what we posit as two core elements of human self-conscious psychology.
 
-**Human quest for reverse agency**
+## Human quest for reverse agency
 
             The core idea proposed here is that a common denominator of all human attempts at trance and ecstasy seeking is the fundamental attempt at *reversing core agency.* Let me explain.
 
