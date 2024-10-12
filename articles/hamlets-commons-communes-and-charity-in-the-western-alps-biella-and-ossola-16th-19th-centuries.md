@@ -32,6 +32,7 @@ abstract: Based on jurisdictional and administrative documentation, the article
   local government in the current European political crisis.
 issue: content/issues/paris-ias-ideas.md
 highlight: false
+bibliography: /static/torres_references.bib
 language: English
 ---
 ## Acknowledgements
