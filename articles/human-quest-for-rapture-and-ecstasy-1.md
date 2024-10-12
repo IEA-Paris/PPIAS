@@ -287,11 +287,11 @@ During the first 6 weeks of life, the happy expression corresponding to rapture 
 
 By six weeks, the reflex expression of positive rapture associated with feeding is transformed with a radically new expression of joy in the context of face-to-face, dyadic exchanges with others. It is the emergence of *socially elicited smiling*. This marks a qualitative shift, what we label "the two-month revolution". It is a time when parents commonly report discovering a person in their infant, the child starting to actively respond to caregivers and social exchanges, engaging in face-to-face proto conversations that consolidates bounding and provide new grounds for mutual character analysis. It is the mark of first reciprocal exchanges and the co-construction of shared experiences (intersubjectivity) mainly oriented toward mutual rapture. Adult caretakers typically aim toward the creation of a relational excitement or acme, leading the infant toward rapture expression by bursting into a smile. 
 
-**Figure 6: Socially elicited smiling in a 2-month-old (Photo by the author of his daughter Cléo).**
+**Figure 6: Socially elicited smiling in a 2-month-old** 
 
-![A baby holding a hand
+![](/static/picture6.png)
 
-Description automatically generated](Rochat%20final%20rev.%2082024.fld/image008.png)
+*(Photo by the author of his daughter Cléo).*
 
 The infant socially elicited smile is the ultimate proxy for the happy, pleasure infused state of the infant that is searched for and scaffolded by the adult who cannot help but address the child with a high pitch voice, mirroring and amplifying the child's facial and vitality expressions. 
 
