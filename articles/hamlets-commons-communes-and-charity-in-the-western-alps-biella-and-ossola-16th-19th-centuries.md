@@ -1127,99 +1127,193 @@ Conesa (2024) shows the similar existence of the Andorran « cortàl ».
 
 AST, Corte, Visita fatta dal podestà Ayala de termini dividenti i finaggi di Crodo Dominio di Milano da quelli di Campo Dominio Elvetico, e specialmente li dividenti l'Alpe Cravairola da quella di Matignale, 1642-44 (with the topographical map, Fig. 8).
 
-\[[76]](#_ftnref76) Archivio Storico Comunale di Montecrestese: the first attestation of possession of Alpe Cravairola dates back to 1937, but it concerns the woods. Further research would be necessary on this point, but the ancient municipal archive seems to have been lost.
+[^73]
 
-\[[77]](#_ftnref77) A 'high' village that corresponded to the 'low' village (a collection of hamlets), several hours' walk away. In fact, the cheesemakers, and farmhands, housed in the "corti", had the Swiss village as their immediate reference point: there they went to mass, to procure the necessities of life, the tools of the trade (the branches of the cheese boilers ). But this arrangement of the topographical space also explains who the protagonists of the episodes of violence and reprisal that punctuate and generate the documentation are. They are all men from the nearest hamlet, that of Casalmotto, which is the hamlet that in fact contends for the pastures with the Crodese hamlets: the Casarotti, Selmini, Fantino and some of the Pedrazzini who animate the episodes of violence come from Casalmotto\[77] . It may seem obvious to us, but in the logic of the culture of possession the title that can be claimed is essential, and proximity is among them: the proximity of the pasture is a title that any judge is able to understand and evaluate. 
+Archivio Storico Comunale di Montecrestese: the first attestation of possession of Alpe Cravairola dates back to 1937, but it concerns the woods. Further research would be necessary on this point, but the ancient municipal archive seems to have been lost.
 
-\[[78]](#_ftnref78) In the Swiss abigeato trial of 1756, a prominent Crodo witness, Captain Antonio Marini, says that he believes that the cattle found in the meadows of Campo were moved there by the thieves and not - as the people of Campo claimed - moved there on their own. To support his assertion, he says that it is impossible for the cattle to have moved on their own "... as cattle are never used". To reinforce his reasoning, he adds that the cattle belonged to the herds of "two families that never used to go out to pasture together" (my emphasis) and, as a consequence, being found all together and in the same place (above and below a path) makes one think of things that happened "by fraud and malice". See below the 19th century data on the organization of pasture in Cravairola.
+[^74]
 
-\[[79]](#_ftnref79) I thank Dr. Cereia and Dr. Benedetto for their generous assistance in consulting this material.
+A 'high' village that corresponded to the 'low' village (a collection of hamlets), several hours' walk away. In fact, the cheesemakers, and farmhands, housed in the "corti", had the Swiss village as their immediate reference point: there they went to mass, to procure the necessities of life, the tools of the trade (the branches of the cheese boilers ). But this arrangement of the topographical space also explains who the protagonists of the episodes of violence and reprisal that punctuate and generate the documentation are. They are all men from the nearest hamlet, that of Casalmotto, which is the hamlet that in fact contends for the pastures with the Crodese hamlets: the Casarotti, Selmini, Fantino and some of the Pedrazzini who animate the episodes of violence come from Casalmotto\[77] . It may seem obvious to us, but in the logic of the culture of possession the title that can be claimed is essential, and proximity is among them: the proximity of the pasture is a title that any judge is able to understand and evaluate. 
 
-\[[80]](#_ftnref80) AST, [Corte, Gran Carta degli Stati Sardi in Terraferma](https://archiviodistatotorino.beniculturali.it/dettaglio_fondi/?id=505849), 1852, sheet n. IX.
+[^75]
 
-\[[81]](#_ftnref81) Istituto Geografico Centrale, Macugnaga, n.10, ~~Torino~~Turin, 1973.
+In the Swiss abigeato trial of 1756, a prominent Crodo witness, Captain Antonio Marini, says that he believes that the cattle found in the meadows of Campo were moved there by the thieves and not - as the people of Campo claimed - moved there on their own. To support his assertion, he says that it is impossible for the cattle to have moved on their own "... as cattle are never used". To reinforce his reasoning, he adds that the cattle belonged to the herds of "two families that never used to go out to pasture together" (my emphasis) and, as a consequence, being found all together and in the same place (above and below a path) makes one think of things that happened "by fraud and malice". See below the 19th century data on the organization of pasture in Cravairola.
 
-\[[82]](#_ftnref82) AST, Corte, Paesi per A e B, lettera A, m. 21, n. 1, 1685, Statuta et privilegia Vallis Antigorii.
+[^76]
 
-\[[83]](#_ftnref83) This is a plea of the consuls and men of Cravegna presented in 1716 to the judge of Crodo, concerning an intimation of delivery of immovable property in Crodo already registered, which dates back to 1679 and is included in the appearance of the consuls and men before the praetor of Crodo in 1708. ASCC, Former commune of Cravegna, m. 81. Pro Communitate Craveniae contra Capitaneo L. Ludovicum Scacigam et Losetto (sic). The document appears to be addressed "To one of the Deputies of the Community of Crodo". AST, Corte, Paesi per A e B, lettera  A, m. 21, n. 1, 1685, Statuta et privilegia Vallis Antigorii. (See A15)
+I thank Dr. Cereia and Dr. Benedetto for their generous assistance in consulting this material.
 
-\[[84]](#_ftnref84) ASCC, Former municipality of Cravegna, m. 81. 
+[^77]
 
-\[[85]](#_ftnref85) Archivio Parrocchiale di Crodo, Lower Wardrobe, Status Animarum. 
+AST, [Corte, Gran Carta degli Stati Sardi in Terraferma](https://archiviodistatotorino.beniculturali.it/dettaglio_fondi/?id=505849), 1852, sheet n. IX.
 
-\[[86]](#_ftnref86) The importance of the hamlets is such that they form the basis of the survey of the Church Census (Status Animarum), which report their total number (it fluctuates between 22 and 23 over three centuries, depending on the criterion of nomination by the parish priest who drafted them).The hamlets are Crodo, Vegno, Molendini, Emo, Bovarenga, Bracchio, Ferrera, Crego, Roncone, Rencio Superiore, Rencio Inferiore, Giavina, Verampio, Salecchio, Cantoni, Plano, Viceno, Tigliodo Superiore, Tigliodo Inferiore, Quategno, Malioggio, Cruppo, Dugno.
+[^78]
 
-\[[87]](#_ftnref87) The only hamlets having a growing population are Ferrera, between 1803 and 1830, where workers are recorded in the early 19th century, and Boarenga, where miners from the Tyrol are recorded in 1856.
+Istituto Geografico Centrale, Macugnaga, n.10, Turin, 1973.
 
-\[[88]](#_ftnref88) ASCC, m. 79, not. Antonio Marini q Giovanni. Six hamlets are represented: Brazzo, Rentio, Crego, Verampio, Duno and Tigliodo.
+[^79]
 
-\[[89]](#_ftnref89) AST, m.3, no. 21 'Memoria formata dal Sig. Barone e Presidente Foncet' c. 67. Two testimonies of 22 September 1747.
+AST, Corte, Paesi per A e B, lettera A, m. 21, n. 1, 1685, Statuta et privilegia Vallis Antigorii.
 
-\[[90]](#_ftnref90) Otero, *op. cit.*, ch. 16 n 22 and 23. Otero's treaty did arise from the dispute between two Castilian communities over pastures. 
+[^80]
 
-\[[91]](#_ftnref91) ASCC, Ex Comune di Cravegna, m. 81, "Pro Communitate Craveniae" cit.
+This is a plea of the consuls and men of Cravegna presented in 1716 to the judge of Crodo, concerning an intimation of delivery of immovable property in Crodo already registered, which dates back to 1679 and is included in the appearance of the consuls and men before the praetor of Crodo in 1708. ASCC, Former commune of Cravegna, m. 81. Pro Communitate Craveniae contra Capitaneo L. Ludovicum Scacigam et Losetto (sic). The document appears to be addressed "To one of the Deputies of the Community of Crodo". AST, Corte, Paesi per A e B, lettera  A, m. 21, n. 1, 1685, Statuta et privilegia Vallis Antigorii. (See A15)
 
-\[[92]](#_ftnref92) ASCC, m. 22, f. 2 e m. 24, f. 1, « Atti relativi a pascoli ».
+[^81]
 
-\[[93]](#_ftnref93) Ibidem.
+ASCC, Former municipality of Cravegna, m. 81. 
 
-\[[94]](#_ftnref94) ASCC, m. 24, f. 1, « Nota delle bestie della socetà (*sic*) nel Alpe di Cravariola », 1870.
+[^82]
 
-\[[95]](#_ftnref95) ASCC, m. 84, "Lite dei sindaci di Crodo contro C. Baronio di Crego per consecutione di debito" is an example. Meaningfully,  today Crego is listed within the hamlets of the commune of Premia. Measures of territorial variation are in in R.D. n. 488 del 18/03/1929 e R.D. n. 1220 del 24/05/1937. Cfr. www.elesh.it/storiacomuni/ documentazione. asp. Piemonte.xls consulted on December 2023.
+Archivio Parrocchiale di Crodo, Lower Wardrobe, Status Animarum. 
 
-\[[96]](#_ftnref96) ASCC, m. 13, Elemosina del sale, documentation from the beginning of the 19th century. Notarial deed rog. Giovanni Antonio Marini, 21 February 1691, appointment of attorneys for the Brazzo/Brachio 'squadra' for the tithe. The 'squadre' are very clearly attested in the neighboring Bognanco valley and Valle Maggia. AST, Sezioni Riunite, II archiviazione, Capo 13: squadre 'di fuori' e 'di dentro'. The Italian term 'squadra' has a political and fiscal reminder to 'quarter'.
+[^83]
 
-\[[97]](#_ftnref97) Archivio di Stato di Verbania, notaries Gerolamo De Magistris, 1674-1682; Giovanni Antonio Marini, 1690-1745; Baldassarre Marini, 1703-1744 record a significant increase in the number of wills and, within them, this massive trend .
+The importance of the hamlets is such that they form the basis of the survey of the Church Census (Status Animarum), which report their total number (it fluctuates between 22 and 23 over three centuries, depending on the criterion of nomination by the parish priest who drafted them).The hamlets are Crodo, Vegno, Molendini, Emo, Bovarenga, Bracchio, Ferrera, Crego, Roncone, Rencio Superiore, Rencio Inferiore, Giavina, Verampio, Salecchio, Cantoni, Plano, Viceno, Tigliodo Superiore, Tigliodo Inferiore, Quategno, Malioggio, Cruppo, Dugno.
 
-\[[98]](#_ftnref98) AST, Paesi in genere per province, vol. 2, Provincia di Domodossola, fasc. 2 and Paesi di nuovo acquisto, Novara, m. 8, f. 2, Domodossola e Valli. ASCC, m. 13, Elemosina del sale, containing 19th century developments of the institution. 
+[^84]
 
-\[[99]](#_ftnref99) On the religious places in Crodo's hamlets see T. Bertamini, "Fede ed arte a Crodo", *Oscellana*, 1976-1977.
+The only hamlets having a growing population are Ferrera, between 1803 and 1830, where workers are recorded in the early 19th century, and Boarenga, where miners from the Tyrol are recorded in 1856.
 
-\[[100]](#_ftnref100) Greer (2018) also insists on the importance of cadastre in defining communal territory and the commons, *Property and dispossession*, ch. 8 and 9.
+[^85]
 
-\[[101]](#_ftnref101) In 1722, a few years after the formation of the new municipality of Piedicavallo, the 'Atti della misurazione e divisione de beni comuni tra Campiglia, San Paolo, Quittengo, Piedicavallo' were drawn (Archivio Storico del Comune di Piedicavallo -- henceforth ASCP - m. 15). No commons were formally attributed to the hamlet of Rosazza, nor to those of Beccara and Vittone. Instead, pastures and common property belonging to the hamlets of Rosazza and Beccara are mentioned in the conclusions of the 'Causa di San Paolo e Campiglia contro le comunità di Piedicavallo e Quittengo' (ASCP, m. 15, July 10, 1721).
+ASCC, m. 79, not. Antonio Marini q Giovanni. Six hamlets are represented: Brazzo, Rentio, Crego, Verampio, Duno and Tigliodo.
 
-\[[102]](#_ftnref102) ASCP, Mazzo 15, 23 ottobre 1722: "Atti della misurazione".
+[^86]
 
-\[[103]](#_ftnref103) Ibidem, m. 15: Atto di divisione fra Campiglia, San Paolo, Quittengo e Piedicavallo, 1728-1731.
+AST, m.3, no. 21 'Memoria formata dal Sig. Barone e Presidente Foncet' c. 67. Two testimonies of 22 September 1747.
 
-\[[104]](#_ftnref104) These judgements are based on maxim "L Insuper ff de servit. Rustic. Praed" on communal water and laws I, II, III cod. de pascuis publ. et priv lib 11.
+[^87]
 
-\[[105]](#_ftnref105) All the following quotations are from ASCP, m. 43, Undated plea.(my emphasis)
+Otero, *op. cit.*, ch. 16 n 22 and 23. Otero's treaty did arise from the dispute between two Castilian communities over pastures. 
 
-\[[106]](#_ftnref106) Ibidem
+[^88]
 
-\[[107]](#_ftnref107) ASCP, m. 33: "Appello di Rosazza per tenere consiglio in questa borgata", 1701; Ibidem, m. 43, "Ordine di Antonio Giovanni Vercellone, dottore in ambe le leggi, notaio della prefettura di Biella, nella lite di Giovanni Antonio Rosazza, Pietro Rosazza Battore, Antonio Rosazza Scianfino, Eusebio Mosca Ferraretta, Giovanni Gilardo Magnano, Eusebio Rosazza e Giovanni Prario consiglieri contro la comunità di Piedicavallo", 1702.
+ASCC, Ex Comune di Cravegna, m. 81, "Pro Communitate Craveniae" cit.
 
-\[[108]](#_ftnref108) Amedeo Armano di Gros was descendant of a family of physicians from Cirié near Turin, and was landlord of Grosso (see Guasco, 1911): AST, Corte, Archivi di famiglie e persone, Armano di Grosso; AST, Sezioni Riunite, Camera dei Conti, Art. 603.
+[^89]
 
-\[[109]](#_ftnref109) ASCP, m.33, Rosazza's plea for the renewal of the Piedicavallo Council on a basis proportional to the weight of the hamlets and rotation between them, 1734.
+ASCC, m. 22, f. 2 e m. 24, f. 1, « Atti relativi a pascoli ».
 
-\[[110]](#_ftnref110) Ibidem, 1765. 
+[^90]
 
-\[[111]](#_ftnref111) ASCP, m. 51 on undivided property, usurpations, logging licence, late 19^th^ century.
+Ibidem.
 
-\[[112]](#_ftnref112)  Lebole (1970) also provides a list of the parish priests and describes the considerable artistic riches contained in the building and due to the patronage of Senator Federico Rosazza, who had it rebuilt in neo-Romanesque style in 1876. Also worthy of note are the chapel of the Madonna del Carmine, dating from 1796, along the road to Piedicavallo, the chapel of the Madonna della Neve alla Sella di Rosazza dating from 1846, and the oratory of Saints Anthony and Rocco, built in 1847 by the mountain people in the hamlet of Desate, the site of sharp 18^th^-century conflicts between the then hamlet of Rosazza and that of Valmosca (Campiglia). In the municipality there is the Oratory of San Defendente, in the hamlet Beccara, reported from 1637, described in the pastoral visit of 1664 and partially rebuilt in 1786. In 1825, a confraternity named after St. George was created with the parish by detachment from the confraternity of St. Anthony of Padua of Campiglia Cervo, with the "maintenance of the seniority privileges of the individual confraternity members", which from 1842 paid a chaplain for its functions and for 'doing public school twice a day' (Lebole, 1970).
+[^91]
 
-\[[113]](#_ftnref113) Archivio Storico del Comune di Rosazza, not inventoried, 'Congregazione di Carità ed Ente Comunale di Assistenza, 1908-1943' contains the list of bequests to the Congregazione di Carità from 1831.
+ASCC, m. 24, f. 1, « Nota delle bestie della socetà (*sic*) nel Alpe di Cravariola », 1870.
 
-\[[114]](#_ftnref114) Legacies donations and offerings to the 'Congregazione di Carità of San Pietro in Rosazza' show a very high concentration in the 1830s and 1840s (1831, offerings of fratelli Rosazza Mina Ciocca for intention of their brother Antonio l.10; 1839, offerings on several occasions from Mr Carlo Antonio Rosazza in favour of the poor 355.82 lire; 1842, from Carlo Valz Brenta legate 130 lire; 1843, from Don Tua Vicar 500 lire; 1848, legate from Vitale Rosazza Vitale 1000 lire; 1849, offering from Maria Rosazza Tottagranda paid by her brother Antonio 30 lire etc.). Among the "legacies and offerings of annuities to this congregation", the following stand out: the rye owed by the miller of Conerezio coming from an ancient level for 2 c 10, legacy of Mr Bartolomeo Piatti of Quittengo; the sum coming from the sale of the farmstead of Carisio, annuity 175 l. for Rosazza's share; the sale of cash and goods in the territory of Quittengo; the income of 2000 l of Simone Schiavone legacy of Mr Barnaba Tempia in two distinct annuities. The Congregation kept an Inventory from 1912 in which certificates of annuities for 1031.00 lire stand out. The inventory of the congregation's archives contains correspondence for the years 1839-1852; it documents the possession of movable property in the municipality of Piedicavallo, and contains the inventory of real estate and annuities (l. 612). In Archivio di Stato di Novara (henceforth ASN), Intendenza della Provincia di Biella, 1844, Piedicavallo, "donation of Carlo Antonio Rosazza to San Pietro", 1839. In 1870 Bettina Rosazza's payment to the Pio Istituto di Carità, for alms to the poor, is documented. In 1891, reimbursement for expenses related to Corpus Christi expositions is reported. Also in the "Congregation of Charity" folder mentioned above is material relating to public education prior to the First World War.
+[^92]
 
-\[[115]](#_ftnref115) ASCP, s. II, m. 43 and 44,
+ASCC, m. 84, "Lite dei sindaci di Crodo contro C. Baronio di Crego per consecutione di debito" is an example. Meaningfully,  today Crego is listed within the hamlets of the commune of Premia. Measures of territorial variation are in in R.D. n. 488 del 18/03/1929 e R.D. n. 1220 del 24/05/1937. Cfr. www.elesh.it/storiacomuni/ documentazione. asp. Piemonte.xls consulted on December 2023.
 
-\[[116]](#_ftnref116) Ibid, no. 2, Concentrazione di Opere Pie di Piedicavallo.
+[^93]
 
-\[[117]](#_ftnref117) This paragraph is based on a number of files of the "Schedario storico-territoriale dei Comuni piemontesi": E. Colombo, "Germagno", "Loreglia" and "Massiola" and A. Torre, "Valstrona", found at: [www.archiviocasalis.it](http://www.archiviocasalis.it). I thank Emanuele Colombo for his helpful interpretative insights. Mistakes are my whole responsibility.
+ASCC, m. 13, Elemosina del sale, documentation from the beginning of the 19th century. Notarial deed rog. Giovanni Antonio Marini, 21 February 1691, appointment of attorneys for the Brazzo/Brachio 'squadra' for the tithe. The 'squadre' are very clearly attested in the neighboring Bognanco valley and Valle Maggia. AST, Sezioni Riunite, II archiviazione, Capo 13: squadre 'di fuori' e 'di dentro'. The Italian term 'squadra' has a political and fiscal reminder to 'quarter'.
 
-\[[118]](#_ftnref118) ASN, Department of Agogna, cart. 552, Fornero's reply to the prefect dated 7/11/1807.
+[^94]
 
-\[[119]](#_ftnref119) Commissariato alla Liquidazione degli Usi Civici del Piemonte (henceforth CLUC), Loreglia, b. 38, fasc. Corrispondenza, sottofasc. Geom. Torrero, "Sentenza nella causa del comune di Casale Corte Cerro per i terrieri di Montebuglio ed il comune di Valstrona, per i terrieri di Chesio e Loreglia", 25/6/1931; see also Archivio Storico Comunale di Loreglia (henceforth ASCL, b. 21, fasc. 4, "Atto di convenzione per l'alpe Bagnone, trascrizione di atto mancante del 1572)". Archivio Storico del Comune di Valstrona (henceforth ASCV), Sezione Ex Comune di Fornero, cat. II, m. 9, Relazione constatante le differenze territoriali tra Quarna sotto e Fornero, con disegno, e indicazioni per rettificazione dei confini comunali, 1860.
+Archivio di Stato di Verbania, notaries Gerolamo De Magistris, 1674-1682; Giovanni Antonio Marini, 1690-1745; Baldassarre Marini, 1703-1744 record a significant increase in the number of wills and, within them, this massive trend .
 
-\[[120]](#_ftnref120) E. Colombo, "Germagno", § "Liti territoriali". 
+[^95]
 
-\[[121]](#_ftnref121) ASCG, busta 2, pergamena 18: lite fra Germagno e Crana Gattugno from 1534: Archivio Storico del Comune di Germagno (henceforth ASCG), pergamene, buste 1-21.
+AST, Paesi in genere per province, vol. 2, Provincia di Domodossola, fasc. 2 and Paesi di nuovo acquisto, Novara, m. 8, f. 2, Domodossola e Valli. ASCC, m. 13, Elemosina del sale, containing 19th century developments of the institution. 
 
-\[[122]](#_ftnref122) ASCG, b. 2, Pergamene 18-21, Convention and transaction between Germagno and Gattugno for territory boundaries, 17/4/1534; bp. 21, General compromise for the division of the "estimo" between Germagno and Gattugno, 8/2/1539; b. 3, fasc. 2, Deeds of litigation with those of Gattugno, 1462-1471; b. 14, fasc. 1, Litigation between Germagno and Cranna Gattugno, with copy of deed of 1699 made in 1733 and map; b.15, fasc. 2, Litigation between Germagno and Buglio over grazing rights, 1822-1867; b. 15, fasc. 5, Litigation between Germagno and Cranna Gattugno over the social forest, 1853-1860; b. 16, fasc. 2, Judgment in the case between Germagno and Cranna Gattugno, 1869; fasc. 5-7 Settlement with Cranna Gattugno, 1875-1879; ASN, Intendenza generale, affari speciali dei comuni, b. 604, fasc. 11, Germagno, fasc. 51, Assent to take legal action against the municipality of Buglio over territorial boundary issues.
+[^96]
+
+On the religious places in Crodo's hamlets see T. Bertamini, "Fede ed arte a Crodo", *Oscellana*, 1976-1977.
+
+[^97]
+
+Greer (2018) also insists on the importance of cadastre in defining communal territory and the commons, *Property and dispossession*, ch. 8 and 9.
+
+[^98]
+
+In 1722, a few years after the formation of the new municipality of Piedicavallo, the 'Atti della misurazione e divisione de beni comuni tra Campiglia, San Paolo, Quittengo, Piedicavallo' were drawn (Archivio Storico del Comune di Piedicavallo -- henceforth ASCP - m. 15). No commons were formally attributed to the hamlet of Rosazza, nor to those of Beccara and Vittone. Instead, pastures and common property belonging to the hamlets of Rosazza and Beccara are mentioned in the conclusions of the 'Causa di San Paolo e Campiglia contro le comunità di Piedicavallo e Quittengo' (ASCP, m. 15, July 10, 1721).
+
+[^99]
+
+ASCP, Mazzo 15, 23 ottobre 1722: "Atti della misurazione".
+
+[^100]
+
+Ibidem, m. 15: Atto di divisione fra Campiglia, San Paolo, Quittengo e Piedicavallo, 1728-1731.
+
+[^101]
+
+These judgements are based on maxim "L Insuper ff de servit. Rustic. Praed" on communal water and laws I, II, III cod. de pascuis publ. et priv lib 11.
+
+[^102]
+
+All the following quotations are from ASCP, m. 43, Undated plea. (my emphasis)
+
+[^103]
+
+Ibidem
+
+[^104]
+
+ASCP, m. 33: "Appello di Rosazza per tenere consiglio in questa borgata", 1701; Ibidem, m. 43, "Ordine di Antonio Giovanni Vercellone, dottore in ambe le leggi, notaio della prefettura di Biella, nella lite di Giovanni Antonio Rosazza, Pietro Rosazza Battore, Antonio Rosazza Scianfino, Eusebio Mosca Ferraretta, Giovanni Gilardo Magnano, Eusebio Rosazza e Giovanni Prario consiglieri contro la comunità di Piedicavallo", 1702.
+
+[^105]
+
+Amedeo Armano di Gros was descendant of a family of physicians from Cirié near Turin, and was landlord of Grosso (see Guasco, 1911): AST, Corte, Archivi di famiglie e persone, Armano di Grosso; AST, Sezioni Riunite, Camera dei Conti, Art. 603.
+
+[^106]
+
+ASCP, m.33, Rosazza's plea for the renewal of the Piedicavallo Council on a basis proportional to the weight of the hamlets and rotation between them, 1734.
+
+[^107]
+
+Ibidem, 1765. 
+
+[^108]
+
+ASCP, m. 51 on undivided property, usurpations, logging licence, late 19^th^ century.
+
+[^109]
+
+Lebole (1970) also provides a list of the parish priests and describes the considerable artistic riches contained in the building and due to the patronage of Senator Federico Rosazza, who had it rebuilt in neo-Romanesque style in 1876. Also worthy of note are the chapel of the Madonna del Carmine, dating from 1796, along the road to Piedicavallo, the chapel of the Madonna della Neve alla Sella di Rosazza dating from 1846, and the oratory of Saints Anthony and Rocco, built in 1847 by the mountain people in the hamlet of Desate, the site of sharp 18^th^-century conflicts between the then hamlet of Rosazza and that of Valmosca (Campiglia). In the municipality there is the Oratory of San Defendente, in the hamlet Beccara, reported from 1637, described in the pastoral visit of 1664 and partially rebuilt in 1786. In 1825, a confraternity named after St. George was created with the parish by detachment from the confraternity of St. Anthony of Padua of Campiglia Cervo, with the "maintenance of the seniority privileges of the individual confraternity members", which from 1842 paid a chaplain for its functions and for 'doing public school twice a day' (Lebole, 1970).
+
+[^110]
+
+Archivio Storico del Comune di Rosazza, not inventoried, 'Congregazione di Carità ed Ente Comunale di Assistenza, 1908-1943' contains the list of bequests to the Congregazione di Carità from 1831.
+
+[^111]
+
+Legacies donations and offerings to the 'Congregazione di Carità of San Pietro in Rosazza' show a very high concentration in the 1830s and 1840s (1831, offerings of fratelli Rosazza Mina Ciocca for intention of their brother Antonio l.10; 1839, offerings on several occasions from Mr Carlo Antonio Rosazza in favour of the poor 355.82 lire; 1842, from Carlo Valz Brenta legate 130 lire; 1843, from Don Tua Vicar 500 lire; 1848, legate from Vitale Rosazza Vitale 1000 lire; 1849, offering from Maria Rosazza Tottagranda paid by her brother Antonio 30 lire etc.). Among the "legacies and offerings of annuities to this congregation", the following stand out: the rye owed by the miller of Conerezio coming from an ancient level for 2 c 10, legacy of Mr Bartolomeo Piatti of Quittengo; the sum coming from the sale of the farmstead of Carisio, annuity 175 l. for Rosazza's share; the sale of cash and goods in the territory of Quittengo; the income of 2000 l of Simone Schiavone legacy of Mr Barnaba Tempia in two distinct annuities. The Congregation kept an Inventory from 1912 in which certificates of annuities for 1031.00 lire stand out. The inventory of the congregation's archives contains correspondence for the years 1839-1852; it documents the possession of movable property in the municipality of Piedicavallo, and contains the inventory of real estate and annuities (l. 612). In Archivio di Stato di Novara (henceforth ASN), Intendenza della Provincia di Biella, 1844, Piedicavallo, "donation of Carlo Antonio Rosazza to San Pietro", 1839. In 1870 Bettina Rosazza's payment to the Pio Istituto di Carità, for alms to the poor, is documented. In 1891, reimbursement for expenses related to Corpus Christi expositions is reported. Also in the "Congregation of Charity" folder mentioned above is material relating to public education prior to the First World War.
+
+[^112]
+
+ASCP, s. II, m. 43 and 44,
+
+[^113]
+
+Ibid, no. 2, Concentrazione di Opere Pie di Piedicavallo.
+
+[^114]
+
+This paragraph is based on a number of files of the "Schedario storico-territoriale dei Comuni piemontesi": E. Colombo, "Germagno", "Loreglia" and "Massiola" and A. Torre, "Valstrona", found at: [www.archiviocasalis.it](http://www.archiviocasalis.it). I thank Emanuele Colombo for his helpful interpretative insights. Mistakes are my whole responsibility.
+
+[^115]
+
+ASN, Department of Agogna, cart. 552, Fornero's reply to the prefect dated 7/11/1807.
+
+[^116]
+
+Commissariato alla Liquidazione degli Usi Civici del Piemonte (henceforth CLUC), Loreglia, b. 38, fasc. Corrispondenza, sottofasc. Geom. Torrero, "Sentenza nella causa del comune di Casale Corte Cerro per i terrieri di Montebuglio ed il comune di Valstrona, per i terrieri di Chesio e Loreglia", 25/6/1931; see also Archivio Storico Comunale di Loreglia (henceforth ASCL, b. 21, fasc. 4, "Atto di convenzione per l'alpe Bagnone, trascrizione di atto mancante del 1572)". Archivio Storico del Comune di Valstrona (henceforth ASCV), Sezione Ex Comune di Fornero, cat. II, m. 9, Relazione constatante le differenze territoriali tra Quarna sotto e Fornero, con disegno, e indicazioni per rettificazione dei confini comunali, 1860.
+
+[^117]
+
+E. Colombo, "Germagno", § "Liti territoriali". 
+
+[^118]
+
+ASCG, busta 2, pergamena 18: lite fra Germagno e Crana Gattugno from 1534: Archivio Storico del Comune di Germagno (henceforth ASCG), pergamene, buste 1-21.
+
+[^119]
+
+ASCG, b. 2, Pergamene 18-21, Convention and transaction between Germagno and Gattugno for territory boundaries, 17/4/1534; bp. 21, General compromise for the division of the "estimo" between Germagno and Gattugno, 8/2/1539; b. 3, fasc. 2, Deeds of litigation with those of Gattugno, 1462-1471; b. 14, fasc. 1, Litigation between Germagno and Cranna Gattugno, with copy of deed of 1699 made in 1733 and map; b.15, fasc. 2, Litigation between Germagno and Buglio over grazing rights, 1822-1867; b. 15, fasc. 5, Litigation between Germagno and Cranna Gattugno over the social forest, 1853-1860; b. 16, fasc. 2, Judgment in the case between Germagno and Cranna Gattugno, 1869; fasc. 5-7 Settlement with Cranna Gattugno, 1875-1879; ASN, Intendenza generale, affari speciali dei comuni, b. 604, fasc. 11, Germagno, fasc. 51, Assent to take legal action against the municipality of Buglio over territorial boundary issues.
 
 \[[123]](#_ftnref123) For instance, the dispute between Germagno and Gattugno lasted from 1462 to 1879: ASCG, loc. cit.
 
