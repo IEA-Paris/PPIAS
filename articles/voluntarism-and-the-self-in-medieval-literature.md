@@ -832,7 +832,7 @@ My thoughts here have benefited substantially from remarks in Simpson (2007, p.1
 
 Here I agree with Aers (2009, p.56): "there is no warrant for those readings of Piers Plowman that assert a movement in the poem setting aside ratiocination and argument." At the same time, the poem's voluntarism creates a certain tension in this commitment to rational inquiry, as is beautifully captured in Simpson (2007), who speaks of "a deep uncertainty about the value of learning in the poem" (61).
 
-# References
+## References
 
 Abelard, P. (1995). *Ethical writings* (P. Spade, Trans.). Hackett.
 
