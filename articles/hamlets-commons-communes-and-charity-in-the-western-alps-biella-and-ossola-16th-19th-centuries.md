@@ -116,13 +116,15 @@ The hamlet has a specific ritual life, which is usually "embedded" in communal r
 
 This aspect is of crucial importance, since it refers back to a quality of the third person of the Trinity, the pneuma, capable of infusing collegial gatherings with legitimacy, as countless images from the last centuries of the Middle Ages abundantly show (Poeck, 2003, pp. 8, 11, 26, 39, 65-6, 105, 115, 144, 206-207, 227, 263, 319; Black, 1996, p. 112).
 
-**Figure 4** 
+**Figure 4 Holy Ghost bewitching Toulouse's councillors, *Annales de Toulouse*, 1452-53**
 
-Holy Ghost bewitching Toulouse's councillors, *Annales de Toulouse*, 1452-53, Archives Municipales de Toulouse, 1447.
+![](/static/picture4.png)
 
-This image, before being the object of harsh criticism by the 16th century heretics\[[22]](#_ftn22) and being belatedly proscribed by pope Benedict XIV in 1741, experienced widespread diffusion: this is shown by the very few attempts to take a census of it, but it is above all shown by a figurative continuity that, after a great success in the 15th century, continued in some areas at least until the end of the ancient regime (Bertamini, 2000; Torre, 1985; Boespflug, 1984).\[[23]](#_ftn23)
+*Archives Municipales de Toulouse, 1447.*
 
-C) The religious aspect
+This image, before being the object of harsh criticism by the 16th century heretics[^21] and being belatedly proscribed by pope Benedict XIV in 1741, experienced widespread diffusion: this is shown by the very few attempts to take a census of it, but it is above all shown by a figurative continuity that, after a great success in the 15th century, continued in some areas at least until the end of the ancient regime (Bertamini, 2000; Torre, 1985; Boespflug, 1984)[^22].
+
+### C) The religious aspect
 
 Alongside the rituals and meals of the Holy Spirit *confraria*, the hamlet is distinguished by a specific religious aspect. It is very often endowed during the early modern age with a chapel, misleadingly defined by the post-Tridentine bishops as a "rural" or "in the fields". These holy buildings may be the property and responsibility of neighbours, or of a specific kinship. Their presence, as I have said, is carefully noted by bishops on pastoral visits in the early modern age, who are concerned not only with the "decency" of the liturgical and iconographic apparatus, but above all with the celebration of masses. Variable in extent, these are the true constant of religious life in the hamlet. They are not masses that can be defined as "devotional" in the language of the bishop but are the result of obligations deriving from testamentary bequests (Torre, 1985a; 1985b). These are the true characteristic of the religiousness of the hamlet oratory, and they conceal a more or less latent strategy: that of accumulating bequests and masses that could in the future allow the sustenance of a priest to give continuity to devotional life, and thus in time transform the oratory into a true, formal parish. Before reaching this goal, the existence of the oratory may give ceremonial recognition to the hamlet itself by making it the stage of a parish processions or the site of other festive ceremonies, such as the feast of the titular saint of the oratory itself.
 
