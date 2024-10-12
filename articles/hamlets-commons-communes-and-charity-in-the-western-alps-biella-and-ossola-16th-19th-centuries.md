@@ -845,51 +845,89 @@ See also K. Marx's articles on wood theft, published in the *Rheinische Zeitung
 
 For a rich reference see Wolf (1966). 
 
-\[[3]](#_ftnref3) This aspect is at the centre of journals such as *International Journal of the Commons,* since 2007. 
+[^3]
 
-\[[4]](#_ftnref4) Ostrom's perspective envisages a very specific set of characteristics for studying the commons: clear definition of the purpose of the community and its members; consistency between the rules relating to the common resource and the nature of the resource; participation of users in modifying the operational rules relating to the common resource; accountability of the supervisors of the exploitation of the common resource and the behaviour of its users to the supervisors; graduated penalties for non-compliance with the rules governing exploitation of the common resource; rapid access to local conflict resolution bodies; recognition of self-organisation by external government authorities; Multi-level organisation of appropriation, supply, monitoring, enforcement, conflict resolution and governance activities (Ostrom, *1990,* p. 90).
+This aspect is at the centre of journals such as *International Journal of the Commons,* since 2007. 
 
-\[[5]](#_ftnref5) I am referring here to the work of Thomas (2005), Thomas, Hermitte & Napoli (2011), and Thomas & Chiffoleau (2020). 
+[^4]
 
-\[[6]](#_ftnref6)  Allen (1992) gave the definitive demonstration of the extraneousness of enclosures to increased agricultural productivity in the UK.
+Ostrom's perspective envisages a very specific set of characteristics for studying the commons: clear definition of the purpose of the community and its members; consistency between the rules relating to the common resource and the nature of the resource; participation of users in modifying the operational rules relating to the common resource; accountability of the supervisors of the exploitation of the common resource and the behaviour of its users to the supervisors; graduated penalties for non-compliance with the rules governing exploitation of the common resource; rapid access to local conflict resolution bodies; recognition of self-organisation by external government authorities; Multi-level organisation of appropriation, supply, monitoring, enforcement, conflict resolution and governance activities (Ostrom, *1990,* p. 90).
 
-\[[7]](#_ftnref7)  This point is not sufficiently underlined in the otherwise very interesting collection *The Commons in a Glocal World Global Connections and Local Responses* (Haller et al., 2019).
+[^5]
 
-\[[8]](#_ftnref8) On the Perequazione see "Regio Editto per la perequazione generale dei tributi nelle provincie del Piemonte", 5 May 1731, published in C. Roggero Bardelli, and Marino (1996, p.46).  On the land market, see Chapter 3 in Levi & Cochrane (1988). For the definition of Perequazione, see p. 72 on Quazza (1957), Symcox (1983), Battistoni (2017).  Classical studies by Prato (1908) and Einaudi (1908). On the Perequazione in Savoy see Tacca (2021a; 2021b). 
+I am referring here to the work of Thomas (2005), Thomas, Hermitte & Napoli (2011), and Thomas & Chiffoleau (2020). 
 
-\[[9]](#_ftnref9) Archivio di Stato di ~~Torino~~Turin (henceforth AST), Sezioni Riunite, I archiviazione, m.2, n. 19, 1767-68.~~!~~
+[^6]
 
-\[[10]](#_ftnref10) AST, Sezioni Riunite, Intendenza d'Ivrea, Paesi, Azeglio, 2 October 1828, quoted in Torre, "Commons as Local Institutions", fn. 100.
+Allen (1992) gave the definitive demonstration of the extraneousness of enclosures to increased agricultural productivity in the UK.
 
-\[[11]](#_ftnref11) In the last twenty-five years the Seminar developed in annual "Field Courses" with historical geographers of Nottingham University.Schedario storico-territoriale dei comuni piemontesi, 1994-2014, www.archiviocasalis.it
+[^7]
 
-\[[12]](#_ftnref12)\~\~ Schedario storico-territoriale dei comuni piemontesi, 1994-2014, www.archiviocasalis.it \~\~.
+This point is not sufficiently underlined in the otherwise very interesting collection *The Commons in a Glocal World Global Connections and Local Responses* (Haller et al., 2019).
 
-\[[13]](#_ftnref13) On the fragmentary or polycentric settlement in the subalpine region see Sturani (2021), Delile (1984), Merzario (1989) and Merzario (1989). Alessandria, 2021 and the materials in 'Schedario Storico-territoriale dei Comuni Piemontesi' (see footnote 32).\~\~ .\~\~ Levi & Cochrane speak of "kin fronts"in Chapter 2 and 3.
+[^8]
 
-\[[14]](#_ftnref14) The research perspective has been resumed in the last decades by Trochet (1993) and by the geographers of Massif Central (Fel, 1983; Fel, 1962). 
+On the Perequazione see "Regio Editto per la perequazione generale dei tributi nelle provincie del Piemonte", 5 May 1731, published in C. Roggero Bardelli, and Marino (1996, p.46).  On the land market, see Chapter 3 in Levi & Cochrane (1988). For the definition of Perequazione, see p. 72 on Quazza (1957), Symcox (1983), Battistoni (2017).  Classical studies by Prato (1908) and Einaudi (1908). On the Perequazione in Savoy see Tacca (2021a; 2021b). 
 
-\[[15]](#_ftnref15) For the Old World see the important work on the Commons in the Southern Mediterranean from Mahé (2001)..
+[^9]
 
-\[[16]](#_ftnref16) As far as the Kingdom of Sardinia is concerned, www.archiviocasalis.it reports about 700 cases of territorial tension in the Piedmont region. See also Raggio (2018) and Tigrino (2017).
+Archivio di Stato di ~~Torino~~Turin (henceforth AST), Sezioni Riunite, I archiviazione, m.2, n. 19, 1767-68.~~!~~
 
-\[[17]](#_ftnref17) An anthropological analysis in Cancian (1996). For the old world see the important work on the commons in the Southern Mediterranean in Mahé (2001).~~.~~ For the USA see Larson & Garbin (1967).
+[^10]
 
-\[[18]](#_ftnref18) *Tractatus de iure universitatum* (~~Torino~~Turin 1601): several editions, Venezia 1601; Spira 1611; Koeln, 1617; dubious edition Spira 1617, q~~Q~~uoted in Gierke, III, p. 882, n. 140; Milano 1617; Lione 1627; Koeln, 1693, 1727.
+AST, Sezioni Riunite, Intendenza d'Ivrea, Paesi, Azeglio, 2 October 1828, quoted in Torre, "Commons as Local Institutions", fn. 100.
 
-\[[19]](#_ftnref19) Ibidem, part II, c. 39.
+[^11]
 
-\[[20]](#_ftnref20) *Confrarias* are to be found not only in European mountain areas (Erba, 2007; Torre, 1985).
+n the last twenty-five years the Seminar developed in annual "Field Courses" with historical geographers of Nottingham University.Schedario storico-territoriale dei comuni piemontesi, 1994-2014, www.archiviocasalis.it
 
-F. Quaccia, "La Chiesa dei laici", in\~\~ ERBA\~\~ Erba,, A., ed., 2007,  *Storia della Chiesa di Ivrea, Secoli XVI-XVIII*, Viella, Roma, 2007 (Chiese d'Italia, 4), 2007, cap. 3, "Le confrarie dello Spirito Santo"*.*
+[^12]
 
-\[[21]](#_ftnref21) Duparc (1958) was the first to underline the *confraria's* importance.
+On the fragmentary or polycentric settlement in the subalpine region see Sturani (2021), Delile (1984), Merzario (1989) and Merzario (1989). Alessandria, 2021 and the materials in 'Schedario Storico-territoriale dei Comuni Piemontesi' (see footnote 32).\~\~ .\~\~ Levi & Cochrane speak of "kin fronts"in Chapter 2 and 3.
 
-\[[22]](#_ftnref22) G. Biandrata di Saluzzo, **\*Breuis enarratio disputationis Albanæ de Deo trino, et Christo duplici coram serenissimo principe, & tota Ecclesia decem diebus habita. \*\*\****Anno Domini 1568. 8. Martij,\*\**Exusum Albæ Iuliæ : apud viduam Raphælis Hoffhalteri, 1568: Text: "It is clear that this random nonsensical invention \[Triandric Trinity], praised by excellent eulogies, shows co-eternity, co-equality and coessentiality of the three (persons). According to it, three (are) sitting in a \~\~power seat \~\~throne at a table-couch".
+[^13]
 
-\[[23]](#_ftnref23)  Bériou, Caseau & Rigaux (2009) pointed to the possible eucharistic symbolism in the Triandric image when the chalice is represented (as against the sceptre).
+The research perspective has been resumed in the last decades by Trochet (1993) and by the geographers of Massif Central (Fel, 1983; Fel, 1962). 
 
-\[[24]](#_ftnref24) AST, Corte, Gran Carta de Stati di terraferma di S.M., 1852, sheet n. 16 and Istituto Geografico Centrale, Macugnaga, ~~Torino~~Turin, 1973, n. 10.
+[^14]
+
+For the Old World see the important work on the Commons in the Southern Mediterranean from Mahé (2001)..
+
+[^15]
+
+As far as the Kingdom of Sardinia is concerned, www.archiviocasalis.it reports about 700 cases of territorial tension in the Piedmont region. See also Raggio (2018) and Tigrino (2017).
+
+[^16]
+
+An anthropological analysis in Cancian (1996). For the old world see the important work on the commons in the Southern Mediterranean in Mahé (2001).~~.~~ For the USA see Larson & Garbin (1967).
+
+[^17]
+
+*Tractatus de iure universitatum* (~~Torino~~Turin 1601): several editions, Venezia 1601; Spira 1611; Koeln, 1617; dubious edition Spira 1617, q~~Q~~uoted in Gierke, III, p. 882, n. 140; Milano 1617; Lione 1627; Koeln, 1693, 1727.
+
+[^18]
+
+Ibidem, part II, c. 39.
+
+[^19]
+
+*Confrarias* are to be found not only in European mountain areas (Erba, 2007; Torre, 1985). F. Quaccia, "La Chiesa dei laici", in Erba,, A., ed., 2007,  *Storia della Chiesa di Ivrea, Secoli XVI-XVIII*, Viella, Roma, 2007 (Chiese d'Italia, 4), 2007, cap. 3, "Le confrarie dello Spirito Santo"*.*
+
+[^20]
+
+Duparc (1958) was the first to underline the *confraria's* importance.
+
+[^21]
+
+G. Biandrata di Saluzzo, *Breuis enarratio disputationis Albanæ de Deo trino, et Christo duplici coram serenissimo principe, & tota Ecclesia decem diebus habita. Anno Domini 1568. 8. Martij*, Exusum Albæ Iuliæ : apud viduam Raphælis Hoffhalteri, 1568: Text: "It is clear that this random nonsensical invention \[Triandric Trinity], praised by excellent eulogies, shows co-eternity, co-equality and coessentiality of the three (persons). According to it, three (are) sitting in a throne at a table-couch".
+
+[^22]
+
+Bériou, Caseau & Rigaux (2009) pointed to the possible eucharistic symbolism in the Triandric image when the chalice is represented (as against the sceptre).
+
+[^23]
+
+AST, Corte, Gran Carta de Stati di terraferma di S.M., 1852, sheet n. 16 and Istituto Geografico Centrale, Macugnaga, Turin, 1973, n. 10.
 
 \[[25]](#_ftnref25) Archivio Borromeo, Isola Bella, Chiese, n. 4765; Feudi, Vogogna, n. 2112-2120.
 
