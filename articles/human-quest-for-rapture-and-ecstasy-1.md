@@ -83,21 +83,15 @@ Research show that newborns do manifest an implicit sense of their own embodied 
 
 *(Photo by the author)*
 
-![A child sitting on a couch
-
-Description automatically generated](Rochat%20final%20rev.%2082024.fld/image003.jpg) ![A child sitting on the floor
-
-Description automatically generated](Rochat%20final%20rev.%2082024.fld/image004.jpg)
-
 Children starting to recognize themselves in a mirror also demonstrate emerging kinds of social emotions like shame or embarrassment. An example of it is with a 2-year-old child who notices a mark that was placed surreptitiously on her forehead prior to her mirror exposure. Subsequently, the child hid her face from herself in apparent embarrassment.
 
-**Figure 3: 24 month-old child passing the mirror mark test, showing a first reaction of embarrassment as she discovers the mark that was surreptitiously place on her forehead (Photo by the author).**
+**Figure 3: 24 month-old child passing the mirror mark test, showing a first reaction of embarrassment as she discovers the mark that was surreptitiously place on her forehead** 
 
-![A person holding a child
+![](/static/picture3.jpg)
 
-Description automatically generated](Rochat%20final%20rev.%2082024.fld/image005.jpg)
+*(Photo by the author).*
 
- This reaction of embarrassment is new and marks the beginning of self-consciousness proper which is also the expression of a novel *worry of* self(souci de soi): the emergence of a *care for reputation* that is presumably one of the trademarks of human nature. 
+This reaction of embarrassment is new and marks the beginning of self-consciousness proper which is also the expression of a novel *worry of* self(souci de soi): the emergence of a *care for reputation* that is presumably one of the trademarks of human nature. 
 
 Darwin in his book on the expression of emotions in "Man and animals" notes: "Blushing is the most peculiar and the most human of all expressions...." He goes on noticing: "It is not the simple act of reflecting on our own appearance, but the thinking what others think of us, which excites a blush. In absolute solitude the most sensitive person would be quite indifferent about his appearance" (Darwin, 1872, pp. 309 and 325).
 
