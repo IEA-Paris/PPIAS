@@ -479,7 +479,7 @@ We can say that in these first manifestations of shared experience or primary in
 
 Centripetal rapture may blossom by the time infants reach the threshold of the symbolic gate which opens wide onto the infinite world of solipsistic imagination. Again, this happens since approximately 18 months, marking the emergence of human self-consciousness proper. All of it happens in synergy with syntactic language, as well as the first clear expressions of social emotions like embarrassment, shame, guilt, and pride. As we have seen, it also happens in synergy with first signs of inward soliloquy and pretense, first lies and intentional deception, as well as first signs of the human sense of reputation, i.e., audience effects and image management.
 
-**The hidden observer**
+## The hidden observer
 
 In rapture and ecstasy, self-abandonment is never absolute, at least in adults. The self as an observer never really vanishes. There is always some recollection of what happened, during the transformation, away from the default survival mode, in spite of reverse agency and experiencing agency loss. Self-consciousness never dissolves completely. Some self-awareness remains at some meta level as if the raptured individual remains a hidden observer of self and situation (Lapassade, 1987). Again, this is evident considering that information is remembered after rapture or dissociative trance, be it a hypnotic trance or an LSD trip. What happened is available for retrieval upon return to the default mode, even if the recollection is spotty and partial, not unlike any of our episodic (autonoetic) memories.
 
@@ -491,7 +491,7 @@ Trance seekers and Zen meditators, even in the case of Masters, are trapped into
 
 The well-coined "near death experience", does make explicit the fact that such trance-like universal experience is  just  *near* death, not death itself. In general, trance-like states may be misconstrued as a temporary absolute loss of self. Death, by definition, cannot be experienced which, once again, makes it scandalous. It is only in death that there is a self-void, an absolute dissolution of self.  In death, no return ticket - no possibility of any retrospection. We can just expect with absolute certainty that it will happen in the future, any day. In the meantime, we are reduced to seeing it happen to others.
 
-**Summary and preliminary conclusions**
+## Summary and preliminary conclusions
 
 Time flies and my month-long writing invitation at the IEA of Paris is spent. Forced to stop my writing for now, here is a short summary and some preliminary conclusions on our starting question: what might lie behind the human quest for rapture and ecstasy, something we witness across human societies as far back as we may investigate our origins? 
 
