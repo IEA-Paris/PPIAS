@@ -236,17 +236,21 @@ To reiterate the value of collaboration, let me give just two examples. It is no
 
 How do you visualise something that tends to go unseen, unnoticed and undetected? Most of the practices in the [three volumes](https://www.in-formality.com/wiki/index.php?title=Published_Volumes_and_Analysis) of the Encyclopaedia are hidden from public view, shared as open secrets, and left unarticulated or unacknowledged in official discourse. Yet many contributors to the project have chosen to create visual shorthand to express the contexts in which informal practices take place. Visualisation is also an effective way of communicating insights into the workings of informality. The challenge of capturing and conveying the 'practical sense' or 'feel for the game' associated with [informal power](https://www.alenaledeneva.com/art) is captivating. 
 
-During my 2024 writing fellowship, I have experimented with conceptualising the informal power and its grip over people through [visualisation](https://www.paris-iea.fr/en/events/le-systeme-m-a-force-a-le-faire-2), doing so in an art form. My first solo exhibition -- "*[The System Made Me Do It](https://www.artsy.net/artist/alena-ledeneva)*" -- is a constellation of entry points that could help tackle uncertainty and inform policies (see Figure 5). The visualisation was a shortcut that captured the complexity of informality while leaving it open: there is no definitive interpretation, as the ambivalence of informality is only resolved in a particular context, itself open to interpretation. The artistic method itself is drawn upon the ambivalence of material objects. It is easy to see the dual utility of a knife: a lifesaver in the hands of a surgeon, or a murder weapon in the hands of a criminal. It is a little harder to take a side in a [hero/traitor dilemma](https://slate.com/technology/2013/06/ambivalence-conflicted-feelings-cause-discomfort-and-creativity.html), whereby the constituencies will be split or unable to categorise clearly. The logic of ambivalence, associated both with discomfort and creativity, has guided me in the search for materials for installations. I opted for those consistent with a shortcut/ what works/ actually-exists-in-practice approach to informality. 
+During my 2024 writing fellowship, I have experimented with conceptualising the informal power and its grip over people through [visualisation](https://www.paris-iea.fr/en/events/le-systeme-m-a-force-a-le-faire-2), doing so in an art form. My first solo exhibition - "*[The System Made Me Do It](https://www.artsy.net/artist/alena-ledeneva)*" - is a constellation of entry points that could help tackle uncertainty and inform policies (see Figure 5). The visualisation was a shortcut that captured the complexity of informality while leaving it open: there is no definitive interpretation, as the ambivalence of informality is only resolved in a particular context, itself open to interpretation. The artistic method itself is drawn upon the ambivalence of material objects. It is easy to see the dual utility of a knife: a lifesaver in the hands of a surgeon, or a murder weapon in the hands of a criminal. It is a little harder to take a side in a [hero/traitor dilemma](https://slate.com/technology/2013/06/ambivalence-conflicted-feelings-cause-discomfort-and-creativity.html), whereby the constituencies will be split or unable to categorise clearly. The logic of ambivalence, associated both with discomfort and creativity, has guided me in the search for materials for installations. I opted for those consistent with a shortcut/ what works/ actually-exists-in-practice approach to informality. 
 
-**Figure 5. The poster of the exhibition.**
+**Figure 5. The poster of the exhibition**
 
-Source: Alena Ledeneva for Galerie de Buci, Paris.
+![](/static/picture5.jpg)
+
+*Source: Alena Ledeneva for Galerie de Buci, Paris.*
 
 Today I wonder if patterns of informal power that effectively serve as shortcuts in decision-making could be identified and [interpreted by the AI](https://knowledge.wharton.upenn.edu/article/ai-cant-replace-you-at-work-heres-why/). The ability of [Large Language Models](https://sloanreview.mit.edu/article/will-large-language-models-really-change-how-work-is-done/) (LLMs) to generate text and images continues to grow, and the algorithm is already confident with themes of informality. An experimental feed of an art image of my work, entitled '[Succession](https://www.alenaledeneva.com/gallery),' into the ChatGPT4 produced interpretations that were adequate, relevant, and in tune with the tacit knowledge of power transfer captured in the piece (see Figure 6). 
 
-**Figure 6. Succession.** 
+**Figure 6. Succession**
 
-Source: AlenaLedeneva.com/art. Succession. Wood, trophies.34x30x3 cm
+![](/static/picture6.jpg)
+
+*Source: AlenaLedeneva.com/art. Succession. Wood, trophies.34x30x3 cm*
 
 The catalogue description of this piece:
 
