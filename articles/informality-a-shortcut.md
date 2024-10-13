@@ -37,33 +37,33 @@ issue: content/issues/paris-ias-ideas.md
 highlight: false
 language: English
 ---
+**Figure 1. Structure of the paper: key questions**
 
+![](/static/picture1.jpg)
 
-**Figure 1. Structure of the paper: key questions.  **
+*Source: Alena Ledeneva for Galerie de Buci, Paris. Copyright: Lesha Kostromin.* 
 
-Source: Alena Ledeneva for Galerie de Buci, Paris. Copyright: Lesha Kostromin. 
+## I. What is informality? What is it the case of?
 
-**I.    **** What is informality? What is it the case of?**
-
-Let us start with the problem of qualification: what is *informality*? What is it the case of? The literature on the subject is vast. Google Scholar alone returns 175,000 sources for the term 'informality' with over 10,000 from 2024 alone. The majority of sources explore informality that is visible or tangible: informal settlements, informal economy, [informal employment](https://www.weforum.org/agenda/2024/06/what-is-the-informal-economy/) tied with issues of development, poverty, inequality, urban planning, and gender. The multiplicity of discourses on informality is [overwhelming](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=468), and goes back to the [1960s](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=467). The unevenness in coverage of various aspects of informality -- some of which are more open for exploration, others remain locked in private spaces and tacit knowledge -- can be illustrated by a GenAI image. As depicted in Figure 2, one-legged, biased or [stigmatised views of informality](https://www.researchgate.net/publication/282857636_Informality_crusades_why_informal_practices_are_stigmatized_fought_and_allowed_in_different_contexts_according_to_an_apparently_unintelligible_logic) are also an issue. In line with the social sciences tradition, most of the sources on informality tend to be single-authored or have only a few co-authors. The perspective of the [Global Informality Project](http://www.in-formality.com/) (GIP, 2014-2024) is radically different.
+Let us start with the problem of qualification: what is *informality*? What is it the case of? The literature on the subject is vast. Google Scholar alone returns 175,000 sources for the term 'informality' with over 10,000 from 2024 alone. The majority of sources explore informality that is visible or tangible: informal settlements, informal economy, [informal employment](https://www.weforum.org/agenda/2024/06/what-is-the-informal-economy/) tied with issues of development, poverty, inequality, urban planning, and gender. The multiplicity of discourses on informality is [overwhelming](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=468), and goes back to the [1960s](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=467). The unevenness in coverage of various aspects of informality - some of which are more open for exploration, others remain locked in private spaces and tacit knowledge - can be illustrated by a GenAI image. As depicted in Figure 2, one-legged, biased or [stigmatised views of informality](https://www.researchgate.net/publication/282857636_Informality_crusades_why_informal_practices_are_stigmatized_fought_and_allowed_in_different_contexts_according_to_an_apparently_unintelligible_logic) are also an issue. In line with the social sciences tradition, most of the sources on informality tend to be single-authored or have only a few co-authors. The perspective of the [Global Informality Project](http://www.in-formality.com/) (GIP, 2014-2024) is radically different.
 
 First, it draws on collaboration, the "[network expertise](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=11)" of the global community of scholars (currently over 600) in order to demonstrate the diversity of informal behaviour in human societies, thus amounting to their infinite or contextual [social and cultural complexity](https://www.uclpress.co.uk/products/86227). Given the cross-disciplinary and cross-regional nature of the Global Informality Project, it would be impossible to agree on a [definition](https://www.in-formality.com/wiki/index.php?title=The_informal_view_of_the_world#Defining_informality) of informality acceptable to all. We have therefore used 'informality' as an umbrella term for the many phenomena that are too diverse to be captured in a single definition. In this broad, inclusive sense, *informality* refers to the ways of getting things done to meet human needs. The GIP findings point to the world's open secrets, unwritten rules and hidden practices that elude articulation in official discourse but reveal the 'know-how' of what works for problem-solving as it is known in the vernacular. Each contributor to the project brings an additional perspective to [the at least 50 year history](https://www.in-formality.com/wiki/index.php?title=The_informal_view_of_the_world#Defining_informality) of [definitions](https://www.tandfonline.com/doi/pdf/10.1080/15387216.2021.1992791), [typologies](https://discovery.ucl.ac.uk/id/eprint/10041172/1/The-Global-Encyclopaedia-of-Informality-Volume-2.pdf#page=343) (see also, for example, the typology of [street vendors](https://discovery.ucl.ac.uk/id/eprint/10041172/1/The-Global-Encyclopaedia-of-Informality-Volume-2.pdf#page=147)) and [efforts to measure](https://www.econstor.eu/bitstream/10419/243017/1/erf-wp-2114.pdf) informal behaviour. To paraphrase Nietzsche, informality is probably one of those terms that has a history rather than a definition.
 
-**Figure 2. Informality chest of drawers.**
+**Figure 2. Informality chest of drawers**
 
 Source: DeepL generated image. Copyright: Alena Ledeneva.
 
-Second, the project takes a [linguistic turn](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=10): capturing Wittgenstein's "language games" of participants of informal practices allows us to offer a bottom-up perspective that distinguishes *practices* from *concepts*, *behaviour* from its *categorisation* in the language of observers. They are as pervasive as the use of the vernacular terms, or language games, associated with gaining an advantage: [*pulling strings*](https://discovery.ucl.ac.uk/id/eprint/10041172/1/The-Global-Encyclopaedia-of-Informality-Volume-2.pdf#page=251) in the UK, [*red envelopes*](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=168) in China, [*pantouflage*](https://discovery.ucl.ac.uk/id/eprint/10041172/1/The-Global-Encyclopaedia-of-Informality-Volume-2.pdf#page=272) in France,[*l'argent du carburant*](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=171) given to customs officials in sub-Saharan Africa, [*duit kopi*](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=326), or coffee money, paid to traffic policemen in Malaysia. Located in grey areas, taken for granted yet questionable, acceptable among 'us' but reprehensible among 'them', difficult to measure, monitor and integrate into policy, these practices are deeply woven into the fabric of society. Historically, the earliest studies of [tricksters](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=309) or ways to gain competitive advantage can be found in the mythology and folklore of various cultures. While such practices are rather banal, they can also be uncomfortable to discuss and impossible to research. To establish patterns behind the multiplicity of practices we have collected the [euphemisms](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=157) for them in the language of the participants. We have created the first database of '[an informal view of the world](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=33)' -- [The Online Encyclopaedia](https://www.in-formality.com/wiki/index.php?title=Explore_the_Online_Encyclopaedia) -- where the entries appear in their local habitat and are identified in the language of origin. In the [published volumes](https://www.in-formality.com/wiki/index.php?title=Published_Volumes_and_Analysis) of the Encyclopaedia, however, entries are grouped into clusters to bring together similar practices from around the world, thus highlighting their contextual features while also pointing to the universal [patterns](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=37) of human problem solving. 
+Second, the project takes a [linguistic turn](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=10): capturing Wittgenstein's "language games" of participants of informal practices allows us to offer a bottom-up perspective that distinguishes *practices* from *concepts*, *behaviour* from its *categorisation* in the language of observers. They are as pervasive as the use of the vernacular terms, or language games, associated with gaining an advantage: *[pulling strings](https://discovery.ucl.ac.uk/id/eprint/10041172/1/The-Global-Encyclopaedia-of-Informality-Volume-2.pdf#page=251)* in the UK, *[red envelopes](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=168)* in China, *[pantouflage](https://discovery.ucl.ac.uk/id/eprint/10041172/1/The-Global-Encyclopaedia-of-Informality-Volume-2.pdf#page=272)* in France,*[l'argent du carburant](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=171)* given to customs officials in sub-Saharan Africa, *[duit kopi](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=326)*, or coffee money, paid to traffic policemen in Malaysia. Located in grey areas, taken for granted yet questionable, acceptable among 'us' but reprehensible among 'them', difficult to measure, monitor and integrate into policy, these practices are deeply woven into the fabric of society. Historically, the earliest studies of [tricksters](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=309) or ways to gain competitive advantage can be found in the mythology and folklore of various cultures. While such practices are rather banal, they can also be uncomfortable to discuss and impossible to research. To establish patterns behind the multiplicity of practices we have collected the [euphemisms](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=157) for them in the language of the participants. We have created the first database of '[an informal view of the world](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=33)' -- [The Online Encyclopaedia](https://www.in-formality.com/wiki/index.php?title=Explore_the_Online_Encyclopaedia) -- where the entries appear in their local habitat and are identified in the language of origin. In the [published volumes](https://www.in-formality.com/wiki/index.php?title=Published_Volumes_and_Analysis) of the Encyclopaedia, however, entries are grouped into clusters to bring together similar practices from around the world, thus highlighting their contextual features while also pointing to the universal [patterns](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=37) of human problem solving. 
 
 Third, we question the local nature of informality. Analysing the tensions between specific/universal and local/global features of informality goes much deeper than presuming the state-centric formal/informal dichotomy. The dual nature of informal behaviour - it is always local because it is contextual - is inscribed in specific circumstances, normative constraints and cultures - yet it is also global in the sense that it is a fundamental form of human cooperation, universal to human problem solving. For example, we found little country variation in oppressive contexts: patterns of human interaction within closed organisations such as boarding schools, prisons, armies and psychiatric hospitals tend to be fundamentally similar in democratic and autocratic societies. Informality is thus a shortcut from the local to the global, from the specific to the universal, from trust-based tactics to strategies for dealing with the complexity of the contemporary world, and vice versa, and in constant oscillation between the two. In other words, the project disentangles informality from the area studies. Rather than reaffirming regional divisions, we open doors for practices [from around the world](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=19) and [bring them together](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=11), regardless of their geographic origins. The [third volume](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf) gathers informal practices from fairly universal stages of human biography, while also highlighting the range of problems and the diversity of solutions that exist around the world.
 
 Fourth, we qualify the role of the state, which tends to be a key force in reducing informality. [Research](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=34) shows that the state can also be seen as complicit in causing informal problem solving. Furthermore, the centrality of the state and its formal institutions is typical of Western perspectives, while the focus on informality from the bottom-up perspective ([the art of not seeing like a state](https://www.researchgate.net/profile/Rune-Steenberg-2/publication/311823880_The_art_of_not_seeing_like_a_state_On_the_ideology_of_informality/links/5d82585f458515cbd198352c/The-art-of-not-seeing-like-a-state-On-the-ideology-of-informality.pdf)) restores a historical logic whereby informality precedes formality. Also Western is the assumption that informality is synonymous with poverty and underdevelopment, whereas our database suggests that it is also associated with various forms of wealth and power.
 
-Fifth, we investigate the patterns of informality. Informal practices as such are diffuse, amorphous and ubiquitous. They are often invisible, resist articulation and elude measurement. They are contextual and banal, but also complex and central to human cooperation. Yet the greatest challenge for working out 'what informality is the case of' is the [ambivalence](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=39) of informal practices: they are both a solution and a problem. Like with a quantum particle, we find two modalities at once: informal practices are one thing for participants and another for observers. For example, patron-client relationships can be seen as a means of levelling the playing field and giving an underdog a chance (see the practices of eating, or [*kula*](https://www.in-formality.com/wiki/index.php?title=Kula_(Tanzania) "Kula (Tanzania)")in Tanzania). On the other hand, the same practices can easily lead to chains of illicit exchanges involving votes and other resources (see the practices of[ *raccomandazione*](https://www.in-formality.com/wiki/index.php?title=Raccomandazione_(Italy) "Raccomandazione (Italy)") in Italy). The use of connections and recommendations involves a fundamentally human reliance on family, friendship, solidarity and reciprocity. At the same time, such ties can be associated with cunning, and disparaged as a way of poor man's making do (*l'arte dell'arrangiarsi *in Italian or [*la débrouille*](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=454)in French).
+Fifth, we investigate the patterns of informality. Informal practices as such are diffuse, amorphous and ubiquitous. They are often invisible, resist articulation and elude measurement. They are contextual and banal, but also complex and central to human cooperation. Yet the greatest challenge for working out 'what informality is the case of' is the [ambivalence](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=39) of informal practices: they are both a solution and a problem. Like with a quantum particle, we find two modalities at once: informal practices are one thing for participants and another for observers. For example, patron-client relationships can be seen as a means of levelling the playing field and giving an underdog a chance (see the practices of eating, or *[kula](https://www.in-formality.com/wiki/index.php?title=Kula_(Tanzania) "Kula (Tanzania)")*in Tanzania). On the other hand, the same practices can easily lead to chains of illicit exchanges involving votes and other resources (see the practices of[ *raccomandazione*](https://www.in-formality.com/wiki/index.php?title=Raccomandazione_(Italy) "Raccomandazione (Italy)") in Italy). The use of connections and recommendations involves a fundamentally human reliance on family, friendship, solidarity and reciprocity. At the same time, such ties can be associated with cunning, and disparaged as a way of poor man's making do (*l'arte dell'arrangiarsi* in Italian or *[la débrouille](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=454)*in French).
 
 Informality is thus rooted in the universal human capacity for creativity and for resolving ambivalence in specific contexts by mastering [doublethink](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=63), [double standards](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=245), [double deeds](https://discovery.ucl.ac.uk/id/eprint/10041172/1/The-Global-Encyclopaedia-of-Informality-Volume-2.pdf#page=35) and [double incentive](https://discovery.ucl.ac.uk/id/eprint/10041172/1/The-Global-Encyclopaedia-of-Informality-Volume-2.pdf#page=375)s. Double standards regarding family ties illustrate the problem of contextuality (and positionality) in measurement and interpretation. Western scholars praise family business in the West as a laudable institution, while criticising nepotism arising from family ties in the East. In both cases, the pattern is the use of family ties or personal networks as a shortcut to an outcome [parallel](https://doi.org/10.1080/14683857.2019.1692427) to, above or [beyond](https://www.tandfonline.com/doi/pdf/10.1080/15387216.2021.1992791) the state provision and control. In line with the ambivalence of the informal ways of getting things done, informality is best understood as a case of a *shortcut*, a way of navigating both formal and informal constraints on problem solving. It is an alternative route to the one prescribed by the formal rules and roles, but it also plays the informal rules and roles to one's advantage. Shortcuts are fundamentally [ambivalent](https://www.in-formality.com/wiki/index.php?title=The_informal_view_of_the_world#Finding_patterns_in_the_amorphous): they solve problems but also create new ones, they are inclusive but also exclusive, they subvert political and economic systems but also support them. 
 
-**II. **** So what? The implications of the Global Informality Project research findings.**
+**II. \*\*** So what? The implications of the Global Informality Project research findings.\*\*
 
 To answer the "so what" question, I offer some insights from the *Global Encyclopaedia of Informality* that could be integrated into policy-making and training for decision-makers. I start with the need to reassess existing assumptions about informality and skills development to address the challenges and potential of informality for problem-solving.
 
@@ -73,11 +73,11 @@ The [key findings](https://www.in-formality.com/wiki/index.php?title=Main_Findi
 
 The cross-disciplinary approach taken to identify similarities in differences and differences in similarities of informal practices around the world challenges assumptions about [the centrality of formal institutions](https://rochelleterman.com/ComparativeExam/sites/default/files/Bibliography%20and%20Summaries/Helmke%20and%20Levitsky%202004.pdf).Instead, we find that the persistence of informality correlates with the [nature of informal networks](https://discovery.ucl.ac.uk/id/eprint/10145878/3/Ledeneva_AMR_Informal_Institutions_Accepted.pdf). Specifically, informal institutions and practices embedded in networks that are "relatively affective" and "relatively closed," are much harder to transform than those enacted by "relatively open" and "relatively instrumental" networks.
 
-The context-sensitive comparisons made possible by the project challenge several reductionist assumptions about informality: its residual status vis-à-vis formality; the primacy of legal over social norms; its association with the periphery rather than the centre; and its equation with [underdevelopment](https://documents1.worldbank.org/curated/en/130391545228882358/pdf/Informality-Why-Is-It-So-Widespread-and-How-Can-It-Be-Reduced.pdf), poverty and inequality. As many entries in this encyclopaedia point out, informality is [central](https://www.in-formality.com/wiki/index.php?title=The_informal_view_of_the_world#Informality_is_fringy_but_central) to local culture and community life in the form of giving and sharing, not necessarily associated with poverty and inequality. The Italian practice [*caffè sospeso*](https://discovery.ucl.ac.uk/id/eprint/10041172/1/The-Global-Encyclopaedia-of-Informality-Volume-2.pdf#page=76) eliminates the identity of the donor of a free cup, left for a local recipient, thus creating a long reciprocity cycle, whereby coffee falls down 'from the clouds', not from the donor's hands. The suggestion is to [tackle complexity](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=47) by complicating models, rather than downplaying complexity to enable quantitative comparative analyses.
+The context-sensitive comparisons made possible by the project challenge several reductionist assumptions about informality: its residual status vis-à-vis formality; the primacy of legal over social norms; its association with the periphery rather than the centre; and its equation with [underdevelopment](https://documents1.worldbank.org/curated/en/130391545228882358/pdf/Informality-Why-Is-It-So-Widespread-and-How-Can-It-Be-Reduced.pdf), poverty and inequality. As many entries in this encyclopaedia point out, informality is [central](https://www.in-formality.com/wiki/index.php?title=The_informal_view_of_the_world#Informality_is_fringy_but_central) to local culture and community life in the form of giving and sharing, not necessarily associated with poverty and inequality. The Italian practice *[caffè sospeso](https://discovery.ucl.ac.uk/id/eprint/10041172/1/The-Global-Encyclopaedia-of-Informality-Volume-2.pdf#page=76)* eliminates the identity of the donor of a free cup, left for a local recipient, thus creating a long reciprocity cycle, whereby coffee falls down 'from the clouds', not from the donor's hands. The suggestion is to [tackle complexity](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=47) by complicating models, rather than downplaying complexity to enable quantitative comparative analyses.
 
 The project has confirmed that the assumption that informality is a measure of development or rather underdevelopment is questionable at best. From a local perspective, informal settlements and economies are common in the global South and are associated with underdevelopment and repressive regimes. It is therefore tempting to think that informal practices can, to some extent, serve as indicators of the effectiveness of formal institutions. However, from a broader perspective, informality is also rooted in universal patterns of behaviour associated with informal networks, informal exchanges, informal governance or informal power (see [WEF Informality maps](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=40)). 
 
-**Figure 3. Multi-dimensional modelling of informality. **
+**Figure 3. Multi-dimensional modelling of informality.** 
 
 Source: UCL-led strategic and contextual intelligence map, enabled by the WEF and Horizon2020-MSCA-ITN MARKETS project (GA 861034).
 
@@ -85,109 +85,109 @@ As can be seen from browsing the interactive AI-enabled strategic maps that link
 
 Perspectives on informality that focus on its subversive impact on the [development](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-082119-121914) of political or economic regimes, rather than its supportive functions, often lead to the so-called [informality crusades](https://www.researchgate.net/profile/Abel-Polese/publication/282857636_Informality_crusades_why_informal_practices_are_stigmatized_fought_and_allowed_in_different_contexts_according_to_an_apparently_unintelligible_logic/links/5661781f08ae4931cd59ee55/Informality-crusades-why-informal-practices-are-stigmatized-fought-and-allowed-in-different-contexts-according-to-an-apparently-unintelligible-logic.pdf) and predict [its disappearance](https://discovery.ucl.ac.uk/id/eprint/10100374/3/Ledeneva_00_Ledeneva%20and%20Efendic%202020_ED_OH%2023.03.2020%20FINAL%20VERSION_27.03.2020.pdf) in transition to more effective formal institutions. While it is tempting to think so, I argue that [stigmatisation of informality](https://discovery.ucl.ac.uk/id/eprint/10041167/1/The-Global-Encyclopaedia-of-Informality-Volume.1.pdf#page=56) is counterproductive in policy making and sums up the assumptions that need revision and re-framing (see Table 1).
 
-**Table 1. Assumptions about informality vs its **[**transformative potential**](https://www.researchgate.net/publication/341892496_Wrestling_with_Ambiguity_Koans_as_Agents_of_Change_and_their_Application_to_the_Helping_Professions)
+**Table 1. Assumptions about informality vs its [transformative potential](https://www.researchgate.net/publication/341892496_Wrestling_with_Ambiguity_Koans_as_Agents_of_Change_and_their_Application_to_the_Helping_Professions)**
 
-|
+\|
 
 **Assumptions**
 
- |
+\|
 
 **Counterintuitive implications for policy**
 
- |
+\|
 |
 
 Poverty and survival strategies
 
- |
+\|
 
 Informal collaboration results in entrepreneurship and innovation
 
- |
+\|
 |
 
 Underdevelopment of institutions
 
- |
+\|
 
 Informality dwells in grey zones and helps reproduce ambivalent patterns, but the underdevelopment of institutions is only part of the story. The strength of social networks for building trust (back-up), survival kits (redistribution), safety-nets (solidarity, cohesion) and connectivity should be factored in
 
- |
+\|
 |
 
 Socialism and post-socialism
 
- |
+\|
 
 Informality is present in all societies under certain constraints and in particular contexts, understanding the inner workings of contexts is the key to successful policy
 
- |
+\|
 |
 
 Oppressive states and 'weapons of the weak'
 
- |
+\|
 
 Gaming the system and 'weapons of the wealthy' are common in mature democracies; stigmatisation of informality as characteristic of the other is detrimental and can lead to polarisation and extremism
 
- |
+\|
 |
 
 Formal is good, informality is bad
 
- |
+\|
 
 Formal is an enabler of the informal, including the conniving state. Informal is an enabler for the formal and should be used for channelling policies
 
- |
+\|
 |
 
 There is good informality and there is bad informality (informal governance, informal networks, informal institutions can all be good and bad)
 
- |
+\|
 
 Informality is ambivalent, it can help produce measurable indicators for assessing models of governance but on the basis of sophisticated ways of measuring ambivalence 
 
- |
+\|
 |
 
 Social capital can be positive and negative
 
- |
+\|
 
 Social capital is ambivalent, using its positive end will/might have undesirable consequences
 
- |
+\|
 |
 
 Informality is about freedom
 
- |
+\|
 
 Informality is an enabler, but it also imposes limitations; informality is a form of resistance, but it is also the basis of capacity for resilience, which is essential for the future of the planet
 
- |
+\|
 |
 
 Policies tend to rely on laws, written rules and norms
 
- |
+\|
 
 Policies can also rely on oral commands, tacit agreements and in-group relationships. Informal networks can be put to use to channel policies through the transformation of social norms
 
- |
+\|
 |
 
 Informality is about conformity
 
- |
+\|
 
 Informality is also about non-conformity and creativity
 
- |
+\|
 
-Overall, to answer the "so what" question, I argue against the simplistic approaches to informality. Academically, there is a need for informality studies that prioritise problem solving and work across existing disciplinary and area studies divisions. To this end, I articulate the [*raison d'etre*](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=35) of informality studies in the third volume of the *Global Encyclopaedia of Informality*. [Drivers](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=46) for change that are undermining and/or transforming the previous paradigm of modernity include: [facing uncertainty](https://www.in-formality.com/wiki/index.php?title=The_raison_d%E2%80%99etre_of_informality_studies:_an_introduction#Facing_uncertainty) arising from the challenges that both nature and nurture have imposed on upon human societies, as well as the emerging intellectual challenges of transcending Western-centric transitional paradigms and balancing out a-historical, state-centric thinking. For example, the workings of patronal or hybrid systems require an entirely different [conceptual framework](https://library.oapen.org/handle/20.500.12657/46598), as opposed to normative approaches. Bringing together research networks focused on a problem-oriented approach is the best-known way of crossing institutional and national borderlines in the history of [informal scientific collaboration](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=36).
+Overall, to answer the "so what" question, I argue against the simplistic approaches to informality. Academically, there is a need for informality studies that prioritise problem solving and work across existing disciplinary and area studies divisions. To this end, I articulate the *[raison d'etre](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=35)* of informality studies in the third volume of the *Global Encyclopaedia of Informality*. [Drivers](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=46) for change that are undermining and/or transforming the previous paradigm of modernity include: [facing uncertainty](https://www.in-formality.com/wiki/index.php?title=The_raison_d%E2%80%99etre_of_informality_studies:_an_introduction#Facing_uncertainty) arising from the challenges that both nature and nurture have imposed on upon human societies, as well as the emerging intellectual challenges of transcending Western-centric transitional paradigms and balancing out a-historical, state-centric thinking. For example, the workings of patronal or hybrid systems require an entirely different [conceptual framework](https://library.oapen.org/handle/20.500.12657/46598), as opposed to normative approaches. Bringing together research networks focused on a problem-oriented approach is the best-known way of crossing institutional and national borderlines in the history of [informal scientific collaboration](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=36).
 
 Reflecting on the expertise, gathered in the three volumes of the *Global Encyclopaedia of Informality*, I summarise the [skills](https://www.in-formality.com/wiki/index.php?title=The_raison_d%E2%80%99etre_of_informality_studies:_an_introduction#Skills_to_study_informality) and offer innovative [tools](https://alenaledeneva.com/game) required to develop the field in the introduction to the third volume. Here I focus on the experience of their use in practice. 
 
@@ -239,7 +239,7 @@ Source: INFORM project, the European Union's Horizon 2020 research and innovatio
 
 How do you visualise something that tends to go unseen, unnoticed and undetected? Most of the practices in the [three volumes](https://www.in-formality.com/wiki/index.php?title=Published_Volumes_and_Analysis) of the Encyclopaedia are hidden from public view, shared as open secrets, and left unarticulated or unacknowledged in official discourse. Yet many contributors to the project have chosen to create visual shorthand to express the contexts in which informal practices take place. Visualisation is also an effective way of communicating insights into the workings of informality. The challenge of capturing and conveying the 'practical sense' or 'feel for the game' associated with [informal power](https://www.alenaledeneva.com/art) is captivating. 
 
-During my 2024 writing fellowship, I have experimented with conceptualising the informal power and its grip over people through [visualisation](https://www.paris-iea.fr/en/events/le-systeme-m-a-force-a-le-faire-2), doing so in an art form. My first solo exhibition -- "[*The System Made Me Do It*](https://www.artsy.net/artist/alena-ledeneva)" -- is a constellation of entry points that could help tackle uncertainty and inform policies (see Figure 5). The visualisation was a shortcut that captured the complexity of informality while leaving it open: there is no definitive interpretation, as the ambivalence of informality is only resolved in a particular context, itself open to interpretation. The artistic method itself is drawn upon the ambivalence of material objects. It is easy to see the dual utility of a knife: a lifesaver in the hands of a surgeon, or a murder weapon in the hands of a criminal. It is a little harder to take a side in a [hero/traitor dilemma](https://slate.com/technology/2013/06/ambivalence-conflicted-feelings-cause-discomfort-and-creativity.html), whereby the constituencies will be split or unable to categorise clearly. The logic of ambivalence, associated both with discomfort and creativity, has guided me in the search for materials for installations. I opted for those consistent with a shortcut/ what works/ actually-exists-in-practice approach to informality. 
+During my 2024 writing fellowship, I have experimented with conceptualising the informal power and its grip over people through [visualisation](https://www.paris-iea.fr/en/events/le-systeme-m-a-force-a-le-faire-2), doing so in an art form. My first solo exhibition -- "*[The System Made Me Do It](https://www.artsy.net/artist/alena-ledeneva)*" -- is a constellation of entry points that could help tackle uncertainty and inform policies (see Figure 5). The visualisation was a shortcut that captured the complexity of informality while leaving it open: there is no definitive interpretation, as the ambivalence of informality is only resolved in a particular context, itself open to interpretation. The artistic method itself is drawn upon the ambivalence of material objects. It is easy to see the dual utility of a knife: a lifesaver in the hands of a surgeon, or a murder weapon in the hands of a criminal. It is a little harder to take a side in a [hero/traitor dilemma](https://slate.com/technology/2013/06/ambivalence-conflicted-feelings-cause-discomfort-and-creativity.html), whereby the constituencies will be split or unable to categorise clearly. The logic of ambivalence, associated both with discomfort and creativity, has guided me in the search for materials for installations. I opted for those consistent with a shortcut/ what works/ actually-exists-in-practice approach to informality. 
 
 **Figure 5. The poster of the exhibition.**
 
@@ -247,7 +247,7 @@ Source: Alena Ledeneva for Galerie de Buci, Paris.
 
 Today I wonder if patterns of informal power that effectively serve as shortcuts in decision-making could be identified and [interpreted by the AI](https://knowledge.wharton.upenn.edu/article/ai-cant-replace-you-at-work-heres-why/). The ability of [Large Language Models](https://sloanreview.mit.edu/article/will-large-language-models-really-change-how-work-is-done/) (LLMs) to generate text and images continues to grow, and the algorithm is already confident with themes of informality. An experimental feed of an art image of my work, entitled '[Succession](https://www.alenaledeneva.com/gallery),' into the ChatGPT4 produced interpretations that were adequate, relevant, and in tune with the tacit knowledge of power transfer captured in the piece (see Figure 6). 
 
-**Figure 6. Succession. **
+**Figure 6. Succession.** 
 
 Source: AlenaLedeneva.com/art. Succession. Wood, trophies.34x30x3 cm
 
@@ -277,7 +277,7 @@ This paper was written during a one-month residency at the Paris Institute for A
 
 For the data, I am indebted to scholars from all around the world who have contributed to the project in the last decade and the students of the Informal Practices MA course at University College London since 2000. Working at UCL, a truly global university, I was privileged to teach classes where each participant came from a different country and had specific concerns. So, the range of topics could be anything from arranged marriages, name changing to avoid ethnic cleansing and practices of covert modern slavery to astroturfing, catfishing and informal practices in cyberspace. Some of this research has been included in the online Encyclopaedia of Informality (in-formality.com), signed by 'Alumni of the UCL SSEES', and some have made it into the published volumes of the *Global Encyclopaedia of Informality*.
 
-Of course, I owe everything to my teachers. My training in Siberia (Novosibirsk University, Institute of Economics and Institute of Nuclear Physics) to believe that science has no boundaries, to ask questions and to be independent has shaped my career. During my PhD study in Cambridge, my fortnightly supervisions began with a question: "Are you sure that[* blat*](https://www.in-formality.com/wiki/index.php?title=Blat_(Russia)) exists? No one here seems to have heard of it...' In response, I had to come up with seven pieces of evidence for the existence of [*blat*](https://discovery.ucl.ac.uk/id/eprint/10183616/), or the use of personal contacts to get things done in the Soviet Union.
+Of course, I owe everything to my teachers. My training in Siberia (Novosibirsk University, Institute of Economics and Institute of Nuclear Physics) to believe that science has no boundaries, to ask questions and to be independent has shaped my career. During my PhD study in Cambridge, my fortnightly supervisions began with a question: "Are you sure that*[ blat](https://www.in-formality.com/wiki/index.php?title=Blat_(Russia))* exists? No one here seems to have heard of it...' In response, I had to come up with seven pieces of evidence for the existence of *[blat](https://discovery.ucl.ac.uk/id/eprint/10183616/)*, or the use of personal contacts to get things done in the Soviet Union.
 
 I am indebted to my colleagues and my audiences. Along the way, I have been invited to give lectures, talks, seminars, and consultations. Each one has pushed me forward. Every unexpected question has changed the direction of future research. The editorial teams I had the pleasure to train and work with, their critical and creative input have made the project truly global. My project managers, [Anna Bailey](https://www.amazon.com/Politics-under-Influence-Public-Policy/dp/1501724371), [Sheelagh Barron](https://www.amazon.co.za/Books-Sheelagh-Barron/s?rh=n%3A27124358031%2Cp_27%3ASheelagh+Barron), [Costanza Curro](https://www.researchgate.net/scientific-contributions/Costanza-Curro-2122304622), [Petra Matijevic](https://www.linkedin.com/in/petra-matijevic/?originalSubdomain=uk), and [Gian Marco Moise](https://www.amazon.fr/House-Always-Wins-Strategies-Nazarbayev/dp/3838219171), have audited postgraduate courses on informal practices and developed their own excellent research. 
 
