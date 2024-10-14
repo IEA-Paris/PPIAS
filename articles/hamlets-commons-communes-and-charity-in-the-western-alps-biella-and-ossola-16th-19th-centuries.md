@@ -241,178 +241,9 @@ This spatial organisation (and representation) evokes fundamental examples of 19
 
 What characterises Alpe Cravairola, in any case, is the fact that this representation of space fades over time. Images after 1640 do not show the organisation attested in the mid-seventeenth century with such clarity. It is as if the meaning of the naming of the  "corti" lost its territorial and hamlet connotation. The Habsburg map of 1722, of great graphic effectiveness and precision, unfortunately does not show the names of the corti[^76]. A Savoy map of 1759 shows us partly changed, partly new names. In 1759, the corti of the main hamlets remain: Crodo "centre" (Groppo), Crego, Montecrestese, Pontemaglio. Maglioggio disappeared, but new ones appeared, including a significant "Corte Nuovo". Others have changed their names, but it should be noted that the new ones no longer have a territorial reference: Corte Brazzo has probably become Corte Stua. Crego disappeared from 19th century military maps[^77], and today none of the surviving Alps retains a name that can be traced back to the territorial arrangement we are describing[^78].
 
-**Table 1** 
+**Table 1** **Cravairoila Corti's names in the different maps**
 
-Cravairoila Corti's names in the different maps
-
-\|
-
-1642
-
-\|
-
-1722
-
-\|
-
-1759
-
-\|
-
-1820
-
-\|
-
-1970
-
-\|
-|
-
-Corte Rosso
-
-\|  |
-
-Corte Rosso
-
-\|
-
-Alpe Rosso
-
-\|
-
-Corte Rosso
-
-\|
-|
-
-Corte Collobiasca
-
-\|  |
-
-Corte Collobiasca
-
-\|
-
-Alpe Collobiasca
-
-\|
-
-Alpe Collobiasca
-
-\|
-|
-
-Corte Groppo
-
-\|  |
-
-Corte Groppo
-
-\|
-
-Alpe Groppo
-
-\|
-
-Alpe Groppo
-
-\|
-|
-
-Corte di Crego
-
-\|  |
-
-Corte di Crego
-
-\|  |  |
-|
-
-Corte di Maglioggio
-
-\|  |  |  |  |
-|
-
-Corte di Brazzo
-
-\|  |  |  |  |
-|
-
-Corte Cruppo
-
-\|  |  |  |  |
-|  |  |
-
-Corte Nuovo
-
-\|
-
-Alpe Nuovo
-
-\|
-
-Corte Nuova
-
-\|
-|  |  |
-
-Corte Larcione
-
-o Ariccio
-
-\|
-
-Alpe Larsone
-
-\|  |
-|  |  |
-
-Corte Meriggione
-
-\|  |  |
-|  |  |
-
-Corte Stufa
-
-\|
-
-Alpe Stufa
-
-\|
-
-Alpe Stufa
-
-\|
-|  |  |
-
-Corte Corona
-
-\|  |
-
-Alpe Corona
-
-\|
-|  |  |  |
-
-Alpe Bosca
-
-\|  |
-|  |  |  |  |
-
-Alpe Bosa
-
-\|
-|  |  |  |  |
-
-Alpe Venanzio
-
-\|
-|  |  |  |  |
-
-Corte Lama
-
-\|
-|  |  |  |  |  |
+![](/static/table1.png)
 
 The disappearance of the names of hamlets from the alpine toponymy is a sign of a significant change in the political structure of the Antigorio Valley between the end of the Middle Ages and the modern age: it describes the birth of the municipality of Crodo in the modern age.
 
@@ -606,7 +437,7 @@ Delille, G. (1984). C.r. Franco Ramella, Terra e telai. Sistemi di parentela e
 
 Delille, G. (1985). L'ordine dei villaggi e l'ordine dei campi. Per uno studio antropologico del paesaggio agrario nel Regno di Napoli (secoli XV---XVII)'. *Storia d'Italia, Annali*, *8*, 491-560.
 
-Delille, G. (1989). *Famiglia e comunità nel Regno di Napoli*. ~~Torino~~Turin, Einaudi, 93-111.
+Delille, G. (1989). *Famiglia e comunità nel Regno di Napoli*. Turin, Einaudi, 93-111.
 
 Demangeon, A. (1927). La géographie de l'habitat rural. *Annales de Géographie.* 199  pp. 1-23
 
@@ -670,7 +501,7 @@ Lascoumes P. & Zander, H. (1987). Marx : du „vol de bois" à la critique du 
 
 Lauwers, M. (2005). *Naissance du cimetière. Lieux sacrés et terre des morts dans l'Occident médiéval* (p.410). Paris, Aubier-Flammarion.
 
-Lebole, D.D. (1970). *Storia della chiesa biellese. **Le confraternite. La pieve di Cossato.** La pieve di Puliaco-Giflenga.* Biella (vol. 2). 
+Lebole, D.D. (1970). *Storia della chiesa biellese. Le confraternite. La pieve di Cossato. La pieve di Puliaco-Giflenga.* Biella (vol. 2). 
 
 Lemaître, N. (1981). Bruyères, communes et mas: les communaux en Bas-Limousin depuis le XVI \[e] siècle. Musée du Pays d'Ussel
 
@@ -742,7 +573,7 @@ Raggio, O. (1990). *Faide e parentele: lo stato genovese visto dalla Fontanabuo
 
 Raggio, O. (2018). *Feuds and State Formation, 1550--1700: The Backcountry of the Republic of Genoa*. Cham, Palgrave.
 
-Ramella, F. (1984 and 2022). *Terra e Telai: sistemi di parentela e manifattura nel Biellese dell'Ottocento.* Turin, Einaudi\~\~, \~\~and Rome, Donzelli. Turin.
+Ramella, F. (1984 and 2022). *Terra e Telai: sistemi di parentela e manifattura nel Biellese dell'Ottocento.* Turin, Einaudiand Rome, Donzelli. Turin.
 
 Rizzi, E. (2022). *I De Rodis e Premia*. Grossi, Domodossola.
 
@@ -782,7 +613,7 @@ Thomas, Y., & Chiffoleau, J. (2020). *L'istituzione della natura*. Macerata, Q
 
 Thompson, E. P. (2015). *Customs in common: Studies in traditional popular culture*. New Press/ORIM.
 
-Thompson, Stith. (2016). *Motif-Index of Folk-Literature: A Classification of Narrative Elements in Folktales,* *Ballads, Myths, Fables, Mediaeval Romances, Exempla, Fabliaux, Jest-Books and Local Legends.* Bloomington, Indiana. ~~<https://archive.org/details/Thompson2016MotifIndex>~~
+Thompson, Stith. (2016). *Motif-Index of Folk-Literature: A Classification of Narrative Elements in Folktales,* *Ballads, Myths, Fables, Mediaeval Romances, Exempla, Fabliaux, Jest-Books and Local Legends.* Bloomington, Indiana.
 
 Tigrino, V.S. (2013). Storia di un Seminario di Storia locale. Edoardo Grendi e il Seminario permanente di Genova (1989-1999). In *La natura della Montagna. Studi in ricordo di Giuseppina Poggi* (pp. 211-232). Sestri Levante, Oltre.
 
