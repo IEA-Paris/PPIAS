@@ -241,7 +241,7 @@ This spatial organisation (and representation) evokes fundamental examples of 19
 
 What characterises Alpe Cravairola, in any case, is the fact that this representation of space fades over time. Images after 1640 do not show the organisation attested in the mid-seventeenth century with such clarity. It is as if the meaning of the naming of the  "corti" lost its territorial and hamlet connotation. The Habsburg map of 1722, of great graphic effectiveness and precision, unfortunately does not show the names of the corti[^76]. A Savoy map of 1759 shows us partly changed, partly new names. In 1759, the corti of the main hamlets remain: Crodo "centre" (Groppo), Crego, Montecrestese, Pontemaglio. Maglioggio disappeared, but new ones appeared, including a significant "Corte Nuovo". Others have changed their names, but it should be noted that the new ones no longer have a territorial reference: Corte Brazzo has probably become Corte Stua. Crego disappeared from 19th century military maps[^77], and today none of the surviving Alps retains a name that can be traced back to the territorial arrangement we are describing[^78].
 
-**Tab. 1** 
+**Table 1** 
 
 Cravairoila Corti's names in the different maps
 
@@ -835,8 +835,6 @@ Zink, A. (1993). *L'héritier de la maison: géographie coutumière du Sud-Oues
 Zink, A. (1997). *Clochers et troupeaux: les communautés rurales des Landes et du Sud-Ouest avant la* *Révolution*. Bordeaux, Presses Univ. de Bordeaux.
 
 Zink, A. (2000). *Pays ou circonscriptions: les collectivités territoriales de la France du Sud-Ouest sous* *l'Ancien Régime* (Vol. 42). Paris, Publications de la Sorbonne.
-
-
 
 [^1] 
 
