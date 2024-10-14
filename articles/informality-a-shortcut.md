@@ -99,7 +99,9 @@ Reflecting on the expertise, gathered in the three volumes of the *Global Encyc
 
 The immersive training for policy makers, aimed at mastering complexity and context sensitivity, dealing with uncertainty and leadership development includes a simulation game --the [Informality game](https://www.alenaledeneva.com/game) - and a case study - the [Network leadership case](https://www.researchgate.net/publication/382888527_Network_Leadership_Global_Informality_Project_A). Training leaders to manage uncertainty is arguably the key survival skill in a post-pandemic world, characterised by individual vulnerability to societal crises. The use of board games has been taken up in educational contexts and training grounds for [transnational governance](https://www.linkedin.com/feed/update/urn:li:activity:7176253590682898432/). The Informality game, modelled on the structure of Monopoly, is much more complex, as it does not assume right or wrong answers, stimulates contextual awareness, and highlights the ambivalence of social capital (same networks can have both positive and negative outcomes). Adapted for the global corporate contexts, the Informality Game has been used for leadership development (see summary of the takeaway points in Box 1), while the Networks Leadership case has been used for regional leadership development programmes. 
 
-**Box 1. Five takeaway points of the Informality Game.**
+**Box 1. Five takeaway points of the Informality Game**
+
+![](/static/box1.png)
 
 1.     Leadership is always contextual; there are no one-size-fits-all leadership strategies. Effective leaders constantly develop their understanding of the contexts in which they work. 
 
