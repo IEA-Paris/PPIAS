@@ -34,7 +34,7 @@ authors:
       google_scholar: ""
       researchgate: ""
       mendeley: ""
-abstract: "For this article, there is not abstract available.  "
+abstract: "            "
 issue: content/issues/paris-ias-ideas.md
 highlight: false
 bibliography: /static/references-palmerolsen-larsen.bib
@@ -208,43 +208,7 @@ There is a nuance here, because artificial intelligence can support our study of
 
 There is still a long way to go before artificial intelligence can represent our legal system in its entirety. It may never happen. But AI is entering the legal workplace, and lawyers will increasingly have to interact with AI systems. Of course, this means not only learning how to use such systems, but also learning how to critically engage with them - both of which are only possible by understanding how they work. We hope to have contributed to this through this article.
 
-## References
-
-Ashley, K. D. (1991). Reasoning with cases and hypotheticals in HYPO. International Journal of Man-Machine Studies, 34(6), 753--796. https://doi.org/10.1016/0020-7373(91)90011-U
-
-Chen, L., Zaharia, M., & Zou, J. (2023). How is ChatGPT's behavior changing over time?
-
-Chesterman, S., Bennett Moses, L., & Pagallo, U. (2023). All Rise for the Honourable Robot Judge? Using Artificial Intelligence to Regulate AI: a debate. Technology and Regulation, 2023, 45--57. https://doi.org/https://doi.org/10.26116/techreg.2023.005
-
-Choi, J. H., Monahan, A., & Schwarcz, D. B. (2023). Lawyering in the Age of Artificial Intelligence. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4626276
-
-Engstrom, D. F., Ho, D. E., Sharkey, C. M., & Cuéllar, M.-F. (2020). Government by Algorithm: Artificial Intelligence in Federal Administrative Agencies.
-
-Landgrebe, J., & Smith, B. (2021). Making AI meaningful again. Synthese, 198(3), 2061--2081. https://doi.org/10.1007/s11229-019-02192-y
-
-Landgrebe, J., & Smith, B. (2023). Why machines do not understand: A response to S{\o}gaard.
-
-McCarty, L. T. (1977). Reflections on "Taxman": An Experiment in Artificial Intelligence and Legal Reasoning. Harvard Law Review, 90(5), 837. https://doi.org/10.2307/1340132
-
-Murray, M. D. (2023). Artificial Intelligence and the Practice of Law Part 1: Lawyers Must be Professional and Responsible Supervisors of AI. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4478588
-
-Palmer Olsen, H., Garneau, N., Panagis, Y., Lindholm, J., & Søgaard, A. (2023). Re-Framing Case Law Citation Prediction from a Paragraph Perspective. In G. Sileno, J. Spanakis, & G. van Dijck (Eds.), Legal Knowledge and Information Systems (Vol. 379, pp. 323--328). https://doi.org/10.3233/FAIA230982
-
-Palmer Olsen, H., Højmark-Bertelsen, M., & Schwemer, S. F. (2023). Applying NLP to Support Legal Decision-making in Administrative Appeal Boards in the EU. CEUR Workshop Proceedings, 103--110.
-
-Palmer Olsen, H., & Wiesener, C. (2021). Beyond data protection concerns -- the European passenger name record system. Law, Innovation and Technology, 13(2), 398--421. https://doi.org/10.1080/17579961.2021.1977221
-
-Savelka, J., Ashley, K. D., Gray, M. A., Westermann, H., & Xu, H. (2023). Can GPT-4 Support Analysis of Textual Data in Tasks Requiring Highly Specialized Domain Expertise? https://doi.org/10.1145/3587102.3588792
-
-Søgaard, A. (2022). Understanding models understanding language. Synthese, 200(6), 443. https://doi.org/10.1007/s11229-022-03931-4
-
-Stern, R. E., Liebman, B. L., Roberts, M. E., & Wang, A. (2021). Automating Fairness? Artificial Intelligence in the Chinese Courts. Columbia Journal of Transnational Law, 59. https://ssrn.com/abstract=4026798
-
-Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L., & Polosukhin, I. (2017). Attention Is All You Need.
-
-Wang, J. (2021). Is artificial intelligence capable of understanding? An analysis based on philosophical hermeneutics. Cultures of Science, 4(3), 135--146. https://doi.org/10.1177/20966083211056405
-
-
+## Footnotes
 
 [^1]
 
@@ -379,3 +343,39 @@ See also: Wang, J. (2021). Is artificial intelligence capable of understanding? 
 [^33]
 
 Holmes op. cit.
+
+## References
+
+Ashley, K. D. (1991). Reasoning with cases and hypotheticals in HYPO. International Journal of Man-Machine Studies, 34(6), 753--796. https://doi.org/10.1016/0020-7373(91)90011-U
+
+Chen, L., Zaharia, M., & Zou, J. (2023). How is ChatGPT's behavior changing over time?
+
+Chesterman, S., Bennett Moses, L., & Pagallo, U. (2023). All Rise for the Honourable Robot Judge? Using Artificial Intelligence to Regulate AI: a debate. Technology and Regulation, 2023, 45--57. https://doi.org/https://doi.org/10.26116/techreg.2023.005
+
+Choi, J. H., Monahan, A., & Schwarcz, D. B. (2023). Lawyering in the Age of Artificial Intelligence. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4626276
+
+Engstrom, D. F., Ho, D. E., Sharkey, C. M., & Cuéllar, M.-F. (2020). Government by Algorithm: Artificial Intelligence in Federal Administrative Agencies.
+
+Landgrebe, J., & Smith, B. (2021). Making AI meaningful again. Synthese, 198(3), 2061--2081. https://doi.org/10.1007/s11229-019-02192-y
+
+Landgrebe, J., & Smith, B. (2023). Why machines do not understand: A response to S{\o}gaard.
+
+McCarty, L. T. (1977). Reflections on "Taxman": An Experiment in Artificial Intelligence and Legal Reasoning. Harvard Law Review, 90(5), 837. https://doi.org/10.2307/1340132
+
+Murray, M. D. (2023). Artificial Intelligence and the Practice of Law Part 1: Lawyers Must be Professional and Responsible Supervisors of AI. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4478588
+
+Palmer Olsen, H., Garneau, N., Panagis, Y., Lindholm, J., & Søgaard, A. (2023). Re-Framing Case Law Citation Prediction from a Paragraph Perspective. In G. Sileno, J. Spanakis, & G. van Dijck (Eds.), Legal Knowledge and Information Systems (Vol. 379, pp. 323--328). https://doi.org/10.3233/FAIA230982
+
+Palmer Olsen, H., Højmark-Bertelsen, M., & Schwemer, S. F. (2023). Applying NLP to Support Legal Decision-making in Administrative Appeal Boards in the EU. CEUR Workshop Proceedings, 103--110.
+
+Palmer Olsen, H., & Wiesener, C. (2021). Beyond data protection concerns -- the European passenger name record system. Law, Innovation and Technology, 13(2), 398--421. https://doi.org/10.1080/17579961.2021.1977221
+
+Savelka, J., Ashley, K. D., Gray, M. A., Westermann, H., & Xu, H. (2023). Can GPT-4 Support Analysis of Textual Data in Tasks Requiring Highly Specialized Domain Expertise? https://doi.org/10.1145/3587102.3588792
+
+Søgaard, A. (2022). Understanding models understanding language. Synthese, 200(6), 443. https://doi.org/10.1007/s11229-022-03931-4
+
+Stern, R. E., Liebman, B. L., Roberts, M. E., & Wang, A. (2021). Automating Fairness? Artificial Intelligence in the Chinese Courts. Columbia Journal of Transnational Law, 59. https://ssrn.com/abstract=4026798
+
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L., & Polosukhin, I. (2017). Attention Is All You Need.
+
+Wang, J. (2021). Is artificial intelligence capable of understanding? An analysis based on philosophical hermeneutics. Cultures of Science, 4(3), 135--146. https://doi.org/10.1177/20966083211056405
