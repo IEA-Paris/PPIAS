@@ -34,7 +34,7 @@ authors:
       google_scholar: ""
       researchgate: ""
       mendeley: ""
-abstract: "            "
+abstract: "              "
 issue: content/issues/paris-ias-ideas.md
 highlight: false
 bibliography: /static/references-palmerolsen-larsen.bib
