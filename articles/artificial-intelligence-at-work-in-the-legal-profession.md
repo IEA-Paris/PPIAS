@@ -37,6 +37,7 @@ authors:
 abstract: "For this article, there is not abstract available.  "
 issue: content/issues/paris-ias-ideas.md
 highlight: false
+bibliography: /static/references-palmerolsen-larsen.bib
 language: English
 ---
 ## 1. Artificial intelligence in a legal context: an introduction
