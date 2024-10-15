@@ -34,7 +34,7 @@ authors:
       google_scholar: ""
       researchgate: ""
       mendeley: ""
-abstract: "For this article, there is not abstract available. "
+abstract: "For this article, there is not abstract available.  "
 issue: content/issues/paris-ias-ideas.md
 highlight: false
 language: English
