@@ -611,4 +611,4 @@ Wikipedia (2024). Ecstasy (philosophy). Wikipedia Organization. Retrieved at: 
 
 https://en.wikipedia.org/wiki/Ecstasy_(philosophy)
 
- Woodward, A.L. (2009). Infants' grasp of others' intentions. *Current\*\* Directions in Psychological Science, 18*(1), 53-57. Retrieved at: https://doi.org/10.1111%2Fj.1467-8721.2009.01605.x.
+Woodward, A.L. (2009). Infants' grasp of others' intentions. *Current\*\* Directions in Psychological Science, 18*(1), 53-57. Retrieved at: https://doi.org/10.1111%2Fj.1467-8721.2009.01605.x.
