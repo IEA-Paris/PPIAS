@@ -667,6 +667,8 @@ Zink, A. (1997). *Clochers et troupeaux: les communautés rurales des Landes et
 
 Zink, A. (2000). *Pays ou circonscriptions: les collectivités territoriales de la France du Sud-Ouest sous* *l'Ancien Régime* (Vol. 42). Paris, Publications de la Sorbonne.
 
+## Footnotes
+
 [^1] 
 
 See also K. Marx's articles on wood theft, published in the *Rheinische Zeitung* on 15^th^ and 18^th^ January and 25^th^ October 1842 in Bensaïd (2007).
