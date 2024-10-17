@@ -35,7 +35,7 @@ authors:
       researchgate: ""
       mendeley: ""
 abstract: "              "
-issue: content/issues/paris-ias-ideas.md
+issue: content/issues/guest_lectures.md
 highlight: false
 bibliography: /static/references-palmerolsen-larsen.bib
 language: English
