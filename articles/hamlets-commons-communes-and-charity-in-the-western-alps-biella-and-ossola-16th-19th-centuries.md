@@ -10,7 +10,9 @@ authors:
     firstname: Angelo
     lastname: Torre
     positions_and_institutions:
-      - institution: Paris Institute for Advanced Study and Quaderni storici
+      - institution: Paris Institute for Advanced Study
+        positions: []
+      - institution: Quaderni storici
         positions: []
     social_channels:
       website: ""
@@ -341,581 +343,579 @@ A survey of Alpine and pre-alpine villages between the Old Regime and the 19^th^
 
 The reassessment of singularity seems to me essential in the current crisis of forms of representation. If I am not mistaken, attention to local singularities does not constitute a major focus of attention in political science today. In Italian case it seems to me to be more inclined to adopt categories assimilable to the centre-periphery dichotomy (e.g. the Italian inland areas) or to constructive or organisational typologies[^143]. The voices of singularity and the forms in which the aspiration to self-determination is articulated remain to be inventoried. It is perhaps time to take it into consideration before the distance between local societies and centres of power becomes truly unbridgeable.
 
-
-
 ## Footnotes
 
-[^1] 
+[^1]: 
 
 See also K. Marx's articles on wood theft, published in the *Rheinische Zeitung* on 15^th^ and 18^th^ January and 25^th^ October 1842 in Bensaïd (2007).
 
-[^2]
+[^2]:
 
 For a rich reference see Wolf (1966). 
 
-[^3]
+[^3]:
 
 This aspect is at the centre of journals such as *International Journal of the Commons,* since 2007. 
 
-[^4]
+[^4]:
 
 Ostrom's perspective envisages a very specific set of characteristics for studying the commons: clear definition of the purpose of the community and its members; consistency between the rules relating to the common resource and the nature of the resource; participation of users in modifying the operational rules relating to the common resource; accountability of the supervisors of the exploitation of the common resource and the behaviour of its users to the supervisors; graduated penalties for non-compliance with the rules governing exploitation of the common resource; rapid access to local conflict resolution bodies; recognition of self-organisation by external government authorities; Multi-level organisation of appropriation, supply, monitoring, enforcement, conflict resolution and governance activities (Ostrom, *1990,* p. 90).
 
-[^5]
+[^5]:
 
 I am referring here to the work of Thomas (2005), Thomas, Hermitte & Napoli (2011), and Thomas & Chiffoleau (2020). 
 
-[^6]
+[^6]:
 
 Allen (1992) gave the definitive demonstration of the extraneousness of enclosures to increased agricultural productivity in the UK.
 
-[^7]
+[^7]:
 
 This point is not sufficiently underlined in the otherwise very interesting collection *The Commons in a Glocal World Global Connections and Local Responses* (Haller et al., 2019).
 
-[^8]
+[^8]:
 
 On the Perequazione see "Regio Editto per la perequazione generale dei tributi nelle provincie del Piemonte", 5 May 1731, published in C. Roggero Bardelli, and Marino (1996, p.46).  On the land market, see Chapter 3 in Levi & Cochrane (1988). For the definition of Perequazione, see p. 72 on Quazza (1957), Symcox (1983), Battistoni (2017).  Classical studies by Prato (1908) and Einaudi (1908). On the Perequazione in Savoy see Tacca (2021a; 2021b). 
 
-[^9]
+[^9]:
 
 Archivio di Stato di ~~Torino~~Turin (henceforth AST), Sezioni Riunite, I archiviazione, m.2, n. 19, 1767-68.~~!~~
 
-[^10]
+[^10]:
 
 AST, Sezioni Riunite, Intendenza d'Ivrea, Paesi, Azeglio, 2 October 1828, quoted in Torre, "Commons as Local Institutions", fn. 100.
 
-[^11]
+[^11]:
 
 n the last twenty-five years the Seminar developed in annual "Field Courses" with historical geographers of Nottingham University.Schedario storico-territoriale dei comuni piemontesi, 1994-2014, www.archiviocasalis.it
 
-[^12]
+[^12]:
 
 On the fragmentary or polycentric settlement in the subalpine region see Sturani (2021), Delile (1984), Merzario (1989) and Merzario (1989). Alessandria, 2021 and the materials in 'Schedario Storico-territoriale dei Comuni Piemontesi' (see footnote 32).\~\~ .\~\~ Levi & Cochrane speak of "kin fronts"in Chapter 2 and 3.
 
-[^13]
+[^13]:
 
 The research perspective has been resumed in the last decades by Trochet (1993) and by the geographers of Massif Central (Fel, 1983; Fel, 1962). 
 
-[^14]
+[^14]:
 
 For the Old World see the important work on the Commons in the Southern Mediterranean from Mahé (2001)..
 
-[^15]
+[^15]:
 
 As far as the Kingdom of Sardinia is concerned, www.archiviocasalis.it reports about 700 cases of territorial tension in the Piedmont region. See also Raggio (2018) and Tigrino (2017).
 
-[^16]
+[^16]:
 
 An anthropological analysis in Cancian (1996). For the old world see the important work on the commons in the Southern Mediterranean in Mahé (2001).~~.~~ For the USA see Larson & Garbin (1967).
 
-[^17]
+[^17]:
 
 *Tractatus de iure universitatum* (~~Torino~~Turin 1601): several editions, Venezia 1601; Spira 1611; Koeln, 1617; dubious edition Spira 1617, q~~Q~~uoted in Gierke, III, p. 882, n. 140; Milano 1617; Lione 1627; Koeln, 1693, 1727.
 
-[^18]
+[^18]:
 
 Ibidem, part II, c. 39.
 
-[^19]
+[^19]:
 
 *Confrarias* are to be found not only in European mountain areas (Erba, 2007; Torre, 1985). F. Quaccia, "La Chiesa dei laici", in Erba,, A., ed., 2007,  *Storia della Chiesa di Ivrea, Secoli XVI-XVIII*, Viella, Roma, 2007 (Chiese d'Italia, 4), 2007, cap. 3, "Le confrarie dello Spirito Santo"*.*
 
-[^20]
+[^20]:
 
 Duparc (1958) was the first to underline the *confraria's* importance.
 
-[^21]
+[^21]:
 
 G. Biandrata di Saluzzo, *Breuis enarratio disputationis Albanæ de Deo trino, et Christo duplici coram serenissimo principe, & tota Ecclesia decem diebus habita. Anno Domini 1568. 8. Martij*, Exusum Albæ Iuliæ : apud viduam Raphælis Hoffhalteri, 1568: Text: "It is clear that this random nonsensical invention \[Triandric Trinity], praised by excellent eulogies, shows co-eternity, co-equality and coessentiality of the three (persons). According to it, three (are) sitting in a throne at a table-couch".
 
-[^22]
+[^22]:
 
 Bériou, Caseau & Rigaux (2009) pointed to the possible eucharistic symbolism in the Triandric image when the chalice is represented (as against the sceptre).
 
-[^23]
+[^23]:
 
 AST, Corte, Gran Carta de Stati di terraferma di S.M., 1852, sheet n. 16 and Istituto Geografico Centrale, Macugnaga, Turin, 1973, n. 10.
 
-[^24]
+[^24]:
 
 Archivio Borromeo, Isola Bella, Chiese, n. 4765; Feudi, Vogogna, n. 2112-2120.
 
-[^25]
+[^25]:
 
 A long sequel of petitions and appeals in AST, Corte, Paesi per A e B, Lettera V, m. 38, nn. 21, 22, 1819-22 e nn. 26, 27, 28, 31,33, 34, 40, 41, 42, 43: 1825-1849.
 
-[^26]
+[^26]:
 
 Archivio Storico Comunale di Vogogna (henceforth ASCVo), b. 13, "Nota delle comuni e terre componenti la giurisdizione di Vogogna" requested by the vice-intendency of Pallanza on 29 January 1760. 
 
-[^27]
+[^27]:
 
 In a list in ACSVo, b. 3.6, "Nota delle comuni e terre componenti la giurisdizione di Vogogna", 1760: Borgo di Vogogna, Prata, Pallanzeno, Piedimulera, Cimamulera, Fomarco, Pieve, Loro, Rumianca, Megolo "constitute one territory"; Mergozzo, Brachio and Albo "are one territory"; Valle Anzasca is composed by Castiglione, Calasca, Aneino, Bannio, Ciola di San Carlo, Vanzone, Cepemorello, Macugnaga which "have a separated and distinct territory"; instead, Premosello, Cuciago, Migiandone, Anzola, Trontano, Masera, Beura e Cardezza "each has a separate and distinct territory". 
 
-[^28]
+[^28]:
 
 A. Torre, "Pieve Vergonte", "Schedario storico-territoriale dei comuni piemontesi", www.archiviocasalis.it.
 
-[^29]
+[^29]:
 
 AST, Corte, Carte Topografiche e Disegni, Mappa di Vogogna e uniti territori.
 
-[^30]
+[^30]:
 
 AST, Corte, Paesi di Nuovo Acquisto, Novarese, m. 6 d'addizione, Vogogna, n. 4: "Relazione informativa sopra il ricorso umiliato a Sua Maestà dalla giurisdizione di Vogogna in cui chiama di non essere sottoposta all'Intendenza generale di Novara », 1746.
 
-[^31] 
+[^31]: 
 
 AST, Sezioni Riunite, II Archiviazione, capo 13, vol. 24, Riparto tra le province di nuovo acquisto, 1773, "Bordreau delli stati e conguagli che dal R. Officio della Vice Intendenza della provincia dell'alto novarese in Pallanza si trasmettono al generale Officio del Censimento di Turin con lettera". In 1770 the deputies are: 1 for Vogogna, 2 Prata, Rumianca, Megolo and Fomarco, 1 each Piedimulera, Pieve, Loro, Piana.
 
-[^32]
+[^32]:
 
 AST, Sezioni Riunite, Camera dei Conti, Province d'Ultimo Acquisto, § 13, Boschi, "Rumianca", "Vogogna".
 
-[^33]
+[^33]:
 
 AST, Sezioni Riunite, Ufficio generale delle finanze, Seconda Archiviazione, Boschi e selve. Capo 14.
 
-[^34]
+[^34]:
 
 Ibidem
 
-[^35]
+[^35]:
 
 Ibidem.
 
-[^36]
+[^36]:
 
 AST, Corte, Paesi di Nuovo Acquisto, Novarese, m. 6 d'addizione, n. 4.
 
-[^37]
+[^37]:
 
 AST, Corte, Paesi per Province, Provincia di Pallanza mm. 78-80: many woodland usurpations are reported. 
 
-[^38]
+[^38]:
 
 AST, Corte, Paesi per A e B, Lettera V, m. 38, n. 14, 17, 18.
 
-[^39]
+[^39]:
 
 AST, Corte, Paesi di Nuovo Acquisto, Novarese, m. 6 d'addizione, Vogogna, n. 4, 1787.
 
-[^40]
+[^40]:
 
 AST, Corte, Paesi di Nuovo Acquisto, Novarese, m. 6 d'addizione, Vogogna, n. 4.
 
-[^41]
+[^41]:
 
 Ibidem. However, in the 19^th^ century land register, 37 individuals named Tabacco own around 10 hectares in 125 parcels (mode: 1 and 2 parcels per person; 3 people own 18, 15, 10 parcels). Crops are: pastures (arbored and not) 30, wood 24, meadow 14, corn 5, meadow and vine 2, houses 14, barn 1: AST Sezioni Riunite, Allegato F, Catasto Rabbini, Rumianca.
 
-[^42]
+[^42]:
 
 AST, Corte, Paesi di Nuovo Acquisto, Novarese, m. 6 d'addizione, Vogogna, n. 4.
 
-[^43]
+[^43]:
 
 Ibidem, Letter from Prefect Roggiero, 18 September 1786, c. 2.
 
-[^44]
+[^44]:
 
 AST, Corte, Paesi per A e B, Lettera V, m. 38, n. 20.
 
-[^45]
+[^45]:
 
 All the following quotations are from AST, Corte, Paesi di Nuovo Acquisto, Novarese, Vogogna, M. 6 d'addizione, n. 4.
 
-[^46]
+[^46]:
 
 AST, Sezioni Riunite, Camera dei Conti, Province d'Ultimo Acquisto, § 13, Boschi, entries "Rumianca", "Vogogna".
 
-[^47]
+[^47]:
 
 Ibidem
 
-[^48]
+[^48]:
 
 Ibidem, entry "Vogogna".
 
-[^49]
+[^49]:
 
 Ibidem, c. 481r.
 
-[^50]
+[^50]:
 
 Ibidem (my emphasis).
 
-[^51]
+[^51]:
 
 Ibidem(my emphasis).
 
-[^52]
+[^52]:
 
 Ibidem(my emphasis).
 
-[^53]
+[^53]:
 
 Ibidem (my emphasis).
 
-[^54]
+[^54]:
 
 Archivio del Commissariato alla Liquidazione degli Usi Civici, Turin, Vogogna. A. Torre, "Pieve Vergonte", Schedario Storico-territoriale dei Comuni Piemontesi, www.archiviocasalis.it.
 
-[^55]
+[^55]:
 
 There are 16 charitable institutions in Rumianca in 19^th^ century "Catasto Rabbini" (see fn. 89): 7 Lay Benefices, 2 parish institutions, 1 "Alm for the hamlet's poor".
 
-[^56]
+[^56]:
 
 The commune of Pistolesa chose in 1999 to merge with Mosso Santa Maria: this choice was presented as a response to the depopulation of the mountain area, but here it is shown that other factors (*confraria*) were at play.
 
-[^57]
+[^57]:
 
 Current census data obviously present a far lower estimate than the partial estimate of the first graphical representation of the valley in 1802 (I do not know the reasons behind it).
 
-[^58]
+[^58]:
 
 For the distinction between internal and external commons see Greer (2018). In fact, it would become known a century later that there is another type of pasture, the undivided pasture, which escaped Turin's notice. It is the fate of the undivided pastures that will give rise to a particular administrative configuration, forming communal territories, known as "administrative islands", that characterise the subalpine region in the Italian panorama V. *Ricerca sulle isole amministrative cit.* and Sturani (2001; 1995).
 
-[^59]
+[^59]:
 
 We are indebted to geom. Giovanni Torrero, inspector of the Commissariato alla Liquidazione degli Usi Civici per il Piemonte e la Valle d'Aosta, for the discovery of this, and other extraordinary documents. I express here my esteem for his work as a local historian. His heirs made available to scholars the papers in his archive.
 
-[^60]
+[^60]:
 
 The nature of the fascist administrative reforms really calls for a thorough re-reading, at least from this point of view.
 
-[^61]
+[^61]:
 
 Request for union with Mosso S. Maria (1998) filed with the Piedmont Region's Local Government Department (' Foglio informativo, p. 5); Soprintendenza Archivistica per il Piemonte e la Valle d'Aosta, s.v. Pistolesa, an anonymous person expressed the conviction of a forthcoming union of the two municipalities as early as 1958.
 
-[^62]
+[^62]:
 
 D. Lowenthal, "Marsh at Cravairola: Boundary-Making in the Italo-Swiss Alps", *Environment and History* , May 2004, Vol. 10, No. 2, (T*he Nature of G.P. Marsh: Tradition and Historical Judgement*), p. 205-235; G. Beltrametti, "Usi civici, gestione collettiva delle risorse e diritti locali. Analisi storica di morfologie di possesso in realtà giurisdizionali di confine (Val Formazza, XIX-XX sec.)", *Percorsi di ricerca*, 5, 2013, p. 7-25. The two names are characteristic of, one of the eighteenth-century Piedmontese and Lombard documentation, the other of local language from the nineteenth century to the present.
 
-[^63]
+[^63]:
 
 Some traces remain in AST, Corte, Confini con gli Svizzeri (see also Rizzi, 2022). 
 
-[^64]
+[^64]:
 
 E. Corniolo, "Nascita e gestione di una risorsa collettiva. L'Alpe di Cravairola tra la metà del XIV e la metà del XVII secolo', Final report of the master's course in economic history, Prof. S. Lombardini, 2011-2012, who kindly allowed me to consult it. 
 
-[^65]
+[^65]:
 
 The The 'commune' of Campo also has a similar polycentric structure. Campo is organised into 'quarters' (squadre), which are subsections of the commune's territory: Cimalmotto (or the 'upper' quarter), the highest, located in the direction of the mountain pasture; Campo, or the 'middle quarter’. There is also a quarter 'di sotto' (lower), but its contours are less defined. Depending on whether one considers the parishes or the municipality, one obtains different images: Niva, Piano and Seccada in fact constitute a 'quarter' from an, shall we say, administrative point of view, but are divided as to parish, depending on the time. In short, the jurisdictional documentation brings us back, even if not explicitly, to the panorama of organisation by hamlets, to which we are now accustomed.
 
-[^66]
+[^66]:
 
 Archivio di Stato di Verbania, Notai di Crodo, notai Antonio Minetti, 1594-159, Giovanni Antonio Marini, 1690-1745, Andrea Mottura, 1767-1774: all contractors only indicate the hamlet they belong to and never mention the municipality of Crodo. With 1774 the indication of place in notarial deeds seems to cease.
 
-[](#_ftnref68)[^67]
+[](#_ftnref68)[^67]:
 
 AST, Corte, Confini con gli Svizzeri, m. 3, n. 21: "Memoria del barone Foncet", c. 7v, 1534.
 
-[^68]
+[^68]:
 
 Archivio Storico Comunale di Vallemaggia (CH), not inventoried.
 
-[^69]
+[^69]:
 
 Archivio Storico del Comune di Crodo (henceforth ASCC), m. 77-80: disputes with Mozio, Cravegna, Viceno, Montecrestese, Premia and Crevola.
 
-[^70]
+[^70]:
 
 The documentation relating to the Cravairola conflict knows some characteristic thickenings that coincide with episodes of reprisal and punctual diplomatic or legal solutions
 
 A. Torre, forthcoming. Of the late medieval conflicts, we only know the end, namely the 'fixing' of the boundary terms in 1554: an ephemeral episode, because two years later the terms would already have been removed and would have to be replanted. Conflicts only resumed in the 1630s, with an attempt by Campo to prevent access to the Ossola people in 1630, a seizure of horses by the Crodesi a few years later (1636), a new seizure of Swiss horses in 1638, damage to the Swiss in the following year, more seizures in 1640, a first 'administrative' response from the government of Milan with a 'visit' by Judge Ayala, very important from a documentary point of view because it produced, to the best of my knowledge, the first image of Cravairola. This was followed by arson attacks in 1644, armed clashes in 1645 , the loss of Crodo animals in 1646, Milanese jurisdictional acts in 1647, further reprisals in 1648. This phase of worsening conflicts seemed to end in 1650, when two delegations - Milanese and cantonal - met on Isola Borromea thanks to the mediation intervention of the feudal lords of Crodo and led to the resettlement of the border terms (contested by the people of Campo). But it was an ephemeral peace: a murder rekindled hostilities in 1651, with judicial aftermath in the following years, attempts by Campo to prevent transit to the Alpe in 1662 Swiss retaliation denounced by the Crodo people in 1663, new \~\~kidnappings \~\~abigeate (by Crodo this time) in 1680. The new century rekindled hostilities that had seemed temporarily dormant, with seizures from the Campese in 1703, the delineation of the Teresian map in 1722, new retaliation in 1727, Campo's assaults in 1746 and judicial aftermath involving the new Savoy sovereigns of the Ossola, violations by the "Swiss" in 1754, and a particularly bloody episode in 1756-58, which ended with the judges of Campo and then Locarno sentencing the Crodesi to pay a heavy fine, Swiss protests over the drawing of a map in the field in 1759, which then turned into an act of jurisdictional prevarication. In 1764, the Turin government commissioned Baron Foncet to draw up a jurisdictional "memoria", and the conflict seemed to be heading towards the well-known slope of the "bellum diplomaticum" when events at the end of the 18th century radically changed the picture, at least in terms of international politics, until the resumption of hostilities in the 1870s.
 
-[^71]
+[^71]:
 
 Conesa (2024) shows the similar existence of the Andorran « cortàl ».
 
-[^72] 
+[^72]: 
 
 AST, Corte, Visita fatta dal podestà Ayala de termini dividenti i finaggi di Crodo Dominio di Milano da quelli di Campo Dominio Elvetico, e specialmente li dividenti l'Alpe Cravairola da quella di Matignale, 1642-44 (with the topographical map, Fig. 8).
 
-[^73]
+[^73]:
 
 Archivio Storico Comunale di Montecrestese: the first attestation of possession of Alpe Cravairola dates back to 1937, but it concerns the woods. Further research would be necessary on this point, but the ancient municipal archive seems to have been lost.
 
-[^74]
+[^74]:
 
 A 'high' village that corresponded to the 'low' village (a collection of hamlets), several hours' walk away. In fact, the cheesemakers, and farmhands, housed in the "corti", had the Swiss village as their immediate reference point: there they went to mass, to procure the necessities of life, the tools of the trade (the branches of the cheese boilers ). But this arrangement of the topographical space also explains who the protagonists of the episodes of violence and reprisal that punctuate and generate the documentation are. They are all men from the nearest hamlet, that of Casalmotto, which is the hamlet that in fact contends for the pastures with the Crodese hamlets: the Casarotti, Selmini, Fantino and some of the Pedrazzini who animate the episodes of violence come from Casalmotto\[77] . It may seem obvious to us, but in the logic of the culture of possession the title that can be claimed is essential, and proximity is among them: the proximity of the pasture is a title that any judge is able to understand and evaluate. 
 
-[^75]
+[^75]:
 
 In the Swiss abigeato trial of 1756, a prominent Crodo witness, Captain Antonio Marini, says that he believes that the cattle found in the meadows of Campo were moved there by the thieves and not - as the people of Campo claimed - moved there on their own. To support his assertion, he says that it is impossible for the cattle to have moved on their own "... as cattle are never used". To reinforce his reasoning, he adds that the cattle belonged to the herds of "two families that never used to go out to pasture together" (my emphasis) and, as a consequence, being found all together and in the same place (above and below a path) makes one think of things that happened "by fraud and malice". See below the 19th century data on the organization of pasture in Cravairola.
 
-[^76]
+[^76]:
 
 I thank Dr. Cereia and Dr. Benedetto for their generous assistance in consulting this material.
 
-[^77]
+[^77]:
 
 AST, [Corte, Gran Carta degli Stati Sardi in Terraferma](https://archiviodistatotorino.beniculturali.it/dettaglio_fondi/?id=505849), 1852, sheet n. IX.
 
-[^78]
+[^78]:
 
 Istituto Geografico Centrale, Macugnaga, n.10, Turin, 1973.
 
-[^79]
+[^79]:
 
 AST, Corte, Paesi per A e B, lettera A, m. 21, n. 1, 1685, Statuta et privilegia Vallis Antigorii.
 
-[^80]
+[^80]:
 
 This is a plea of the consuls and men of Cravegna presented in 1716 to the judge of Crodo, concerning an intimation of delivery of immovable property in Crodo already registered, which dates back to 1679 and is included in the appearance of the consuls and men before the praetor of Crodo in 1708. ASCC, Former commune of Cravegna, m. 81. Pro Communitate Craveniae contra Capitaneo L. Ludovicum Scacigam et Losetto (sic). The document appears to be addressed "To one of the Deputies of the Community of Crodo". AST, Corte, Paesi per A e B, lettera  A, m. 21, n. 1, 1685, Statuta et privilegia Vallis Antigorii. (See A15)
 
-[^81]
+[^81]:
 
 ASCC, Former municipality of Cravegna, m. 81. 
 
-[^82]
+[^82]:
 
 Archivio Parrocchiale di Crodo, Lower Wardrobe, Status Animarum. 
 
-[^83]
+[^83]:
 
 The importance of the hamlets is such that they form the basis of the survey of the Church Census (Status Animarum), which report their total number (it fluctuates between 22 and 23 over three centuries, depending on the criterion of nomination by the parish priest who drafted them).The hamlets are Crodo, Vegno, Molendini, Emo, Bovarenga, Bracchio, Ferrera, Crego, Roncone, Rencio Superiore, Rencio Inferiore, Giavina, Verampio, Salecchio, Cantoni, Plano, Viceno, Tigliodo Superiore, Tigliodo Inferiore, Quategno, Malioggio, Cruppo, Dugno.
 
-[^84]
+[^84]:
 
 The only hamlets having a growing population are Ferrera, between 1803 and 1830, where workers are recorded in the early 19th century, and Boarenga, where miners from the Tyrol are recorded in 1856.
 
-[^85]
+[^85]:
 
 ASCC, m. 79, not. Antonio Marini q Giovanni. Six hamlets are represented: Brazzo, Rentio, Crego, Verampio, Duno and Tigliodo.
 
-[^86]
+[^86]:
 
 AST, m.3, no. 21 'Memoria formata dal Sig. Barone e Presidente Foncet' c. 67. Two testimonies of 22 September 1747.
 
-[^87]
+[^87]:
 
 Otero, *op. cit.*, ch. 16 n 22 and 23. Otero's treaty did arise from the dispute between two Castilian communities over pastures. 
 
-[^88]
+[^88]:
 
 ASCC, Ex Comune di Cravegna, m. 81, "Pro Communitate Craveniae" cit.
 
-[^89]
+[^89]:
 
 ASCC, m. 22, f. 2 e m. 24, f. 1, « Atti relativi a pascoli ».
 
-[^90]
+[^90]:
 
 Ibidem.
 
-[^91]
+[^91]:
 
 ASCC, m. 24, f. 1, « Nota delle bestie della socetà (*sic*) nel Alpe di Cravariola », 1870.
 
-[^92]
+[^92]:
 
 ASCC, m. 84, "Lite dei sindaci di Crodo contro C. Baronio di Crego per consecutione di debito" is an example. Meaningfully,  today Crego is listed within the hamlets of the commune of Premia. Measures of territorial variation are in in R.D. n. 488 del 18/03/1929 e R.D. n. 1220 del 24/05/1937. Cfr. www.elesh.it/storiacomuni/ documentazione. asp. Piemonte.xls consulted on December 2023.
 
-[^93]
+[^93]:
 
 ASCC, m. 13, Elemosina del sale, documentation from the beginning of the 19th century. Notarial deed rog. Giovanni Antonio Marini, 21 February 1691, appointment of attorneys for the Brazzo/Brachio 'squadra' for the tithe. The 'squadre' are very clearly attested in the neighboring Bognanco valley and Valle Maggia. AST, Sezioni Riunite, II archiviazione, Capo 13: squadre 'di fuori' e 'di dentro'. The Italian term 'squadra' has a political and fiscal reminder to 'quarter'.
 
-[^94]
+[^94]:
 
 Archivio di Stato di Verbania, notaries Gerolamo De Magistris, 1674-1682; Giovanni Antonio Marini, 1690-1745; Baldassarre Marini, 1703-1744 record a significant increase in the number of wills and, within them, this massive trend .
 
-[^95]
+[^95]:
 
 AST, Paesi in genere per province, vol. 2, Provincia di Domodossola, fasc. 2 and Paesi di nuovo acquisto, Novara, m. 8, f. 2, Domodossola e Valli. ASCC, m. 13, Elemosina del sale, containing 19th century developments of the institution. 
 
-[^96]
+[^96]:
 
 On the religious places in Crodo's hamlets see T. Bertamini, "Fede ed arte a Crodo", *Oscellana*, 1976-1977.
 
-[^97]
+[^97]:
 
 Greer (2018) also insists on the importance of cadastre in defining communal territory and the commons, *Property and dispossession*, ch. 8 and 9.
 
-[^98]
+[^98]:
 
 In 1722, a few years after the formation of the new municipality of Piedicavallo, the 'Atti della misurazione e divisione de beni comuni tra Campiglia, San Paolo, Quittengo, Piedicavallo' were drawn (Archivio Storico del Comune di Piedicavallo -- henceforth ASCP - m. 15). No commons were formally attributed to the hamlet of Rosazza, nor to those of Beccara and Vittone. Instead, pastures and common property belonging to the hamlets of Rosazza and Beccara are mentioned in the conclusions of the 'Causa di San Paolo e Campiglia contro le comunità di Piedicavallo e Quittengo' (ASCP, m. 15, July 10, 1721).
 
-[^99]
+[^99]:
 
 ASCP, Mazzo 15, 23 ottobre 1722: "Atti della misurazione".
 
-[^100]
+[^100]:
 
 Ibidem, m. 15: Atto di divisione fra Campiglia, San Paolo, Quittengo e Piedicavallo, 1728-1731.
 
-[^101]
+[^101]:
 
 These judgements are based on maxim "L Insuper ff de servit. Rustic. Praed" on communal water and laws I, II, III cod. de pascuis publ. et priv lib 11.
 
-[^102]
+[^102]:
 
 All the following quotations are from ASCP, m. 43, Undated plea. (my emphasis)
 
-[^103]
+[^103]:
 
 Ibidem
 
-[^104]
+[^104]:
 
 ASCP, m. 33: "Appello di Rosazza per tenere consiglio in questa borgata", 1701; Ibidem, m. 43, "Ordine di Antonio Giovanni Vercellone, dottore in ambe le leggi, notaio della prefettura di Biella, nella lite di Giovanni Antonio Rosazza, Pietro Rosazza Battore, Antonio Rosazza Scianfino, Eusebio Mosca Ferraretta, Giovanni Gilardo Magnano, Eusebio Rosazza e Giovanni Prario consiglieri contro la comunità di Piedicavallo", 1702.
 
-[^105]
+[^105]:
 
 Amedeo Armano di Gros was descendant of a family of physicians from Cirié near Turin, and was landlord of Grosso (see Guasco, 1911): AST, Corte, Archivi di famiglie e persone, Armano di Grosso; AST, Sezioni Riunite, Camera dei Conti, Art. 603.
 
-[^106]
+[^106]:
 
 ASCP, m.33, Rosazza's plea for the renewal of the Piedicavallo Council on a basis proportional to the weight of the hamlets and rotation between them, 1734.
 
-[^107]
+[^107]:
 
 Ibidem, 1765. 
 
-[^108]
+[^108]:
 
 ASCP, m. 51 on undivided property, usurpations, logging licence, late 19^th^ century.
 
-[^109]
+[^109]:
 
 Lebole (1970) also provides a list of the parish priests and describes the considerable artistic riches contained in the building and due to the patronage of Senator Federico Rosazza, who had it rebuilt in neo-Romanesque style in 1876. Also worthy of note are the chapel of the Madonna del Carmine, dating from 1796, along the road to Piedicavallo, the chapel of the Madonna della Neve alla Sella di Rosazza dating from 1846, and the oratory of Saints Anthony and Rocco, built in 1847 by the mountain people in the hamlet of Desate, the site of sharp 18^th^-century conflicts between the then hamlet of Rosazza and that of Valmosca (Campiglia). In the municipality there is the Oratory of San Defendente, in the hamlet Beccara, reported from 1637, described in the pastoral visit of 1664 and partially rebuilt in 1786. In 1825, a confraternity named after St. George was created with the parish by detachment from the confraternity of St. Anthony of Padua of Campiglia Cervo, with the "maintenance of the seniority privileges of the individual confraternity members", which from 1842 paid a chaplain for its functions and for 'doing public school twice a day' (Lebole, 1970).
 
-[^110]
+[^110]:
 
 Archivio Storico del Comune di Rosazza, not inventoried, 'Congregazione di Carità ed Ente Comunale di Assistenza, 1908-1943' contains the list of bequests to the Congregazione di Carità from 1831.
 
-[^111]
+[^111]:
 
 Legacies donations and offerings to the 'Congregazione di Carità of San Pietro in Rosazza' show a very high concentration in the 1830s and 1840s (1831, offerings of fratelli Rosazza Mina Ciocca for intention of their brother Antonio l.10; 1839, offerings on several occasions from Mr Carlo Antonio Rosazza in favour of the poor 355.82 lire; 1842, from Carlo Valz Brenta legate 130 lire; 1843, from Don Tua Vicar 500 lire; 1848, legate from Vitale Rosazza Vitale 1000 lire; 1849, offering from Maria Rosazza Tottagranda paid by her brother Antonio 30 lire etc.). Among the "legacies and offerings of annuities to this congregation", the following stand out: the rye owed by the miller of Conerezio coming from an ancient level for 2 c 10, legacy of Mr Bartolomeo Piatti of Quittengo; the sum coming from the sale of the farmstead of Carisio, annuity 175 l. for Rosazza's share; the sale of cash and goods in the territory of Quittengo; the income of 2000 l of Simone Schiavone legacy of Mr Barnaba Tempia in two distinct annuities. The Congregation kept an Inventory from 1912 in which certificates of annuities for 1031.00 lire stand out. The inventory of the congregation's archives contains correspondence for the years 1839-1852; it documents the possession of movable property in the municipality of Piedicavallo, and contains the inventory of real estate and annuities (l. 612). In Archivio di Stato di Novara (henceforth ASN), Intendenza della Provincia di Biella, 1844, Piedicavallo, "donation of Carlo Antonio Rosazza to San Pietro", 1839. In 1870 Bettina Rosazza's payment to the Pio Istituto di Carità, for alms to the poor, is documented. In 1891, reimbursement for expenses related to Corpus Christi expositions is reported. Also in the "Congregation of Charity" folder mentioned above is material relating to public education prior to the First World War.
 
-[^112]
+[^112]:
 
 ASCP, s. II, m. 43 and 44,
 
-[^113]
+[^113]:
 
 Ibid, no. 2, Concentrazione di Opere Pie di Piedicavallo.
 
-[^114]
+[^114]:
 
 This paragraph is based on a number of files of the "Schedario storico-territoriale dei Comuni piemontesi": E. Colombo, "Germagno", "Loreglia" and "Massiola" and A. Torre, "Valstrona", found at: [www.archiviocasalis.it](http://www.archiviocasalis.it). I thank Emanuele Colombo for his helpful interpretative insights. Mistakes are my whole responsibility.
 
-[^115]
+[^115]:
 
 ASN, Department of Agogna, cart. 552, Fornero's reply to the prefect dated 7/11/1807.
 
-[^116]
+[^116]:
 
 Commissariato alla Liquidazione degli Usi Civici del Piemonte (henceforth CLUC), Loreglia, b. 38, fasc. Corrispondenza, sottofasc. Geom. Torrero, "Sentenza nella causa del comune di Casale Corte Cerro per i terrieri di Montebuglio ed il comune di Valstrona, per i terrieri di Chesio e Loreglia", 25/6/1931; see also Archivio Storico Comunale di Loreglia (henceforth ASCL, b. 21, fasc. 4, "Atto di convenzione per l'alpe Bagnone, trascrizione di atto mancante del 1572)". Archivio Storico del Comune di Valstrona (henceforth ASCV), Sezione Ex Comune di Fornero, cat. II, m. 9, Relazione constatante le differenze territoriali tra Quarna sotto e Fornero, con disegno, e indicazioni per rettificazione dei confini comunali, 1860.
 
-[^117]
+[^117]:
 
 E. Colombo, "Germagno", § "Liti territoriali". 
 
-[^118]
+[^118]:
 
 ASCG, busta 2, pergamena 18: lite fra Germagno e Crana Gattugno from 1534: Archivio Storico del Comune di Germagno (henceforth ASCG), pergamene, buste 1-21.
 
-[^119]
+[^119]:
 
 ASCG, b. 2, Pergamene 18-21, Convention and transaction between Germagno and Gattugno for territory boundaries, 17/4/1534; bp. 21, General compromise for the division of the "estimo" between Germagno and Gattugno, 8/2/1539; b. 3, fasc. 2, Deeds of litigation with those of Gattugno, 1462-1471; b. 14, fasc. 1, Litigation between Germagno and Cranna Gattugno, with copy of deed of 1699 made in 1733 and map; b.15, fasc. 2, Litigation between Germagno and Buglio over grazing rights, 1822-1867; b. 15, fasc. 5, Litigation between Germagno and Cranna Gattugno over the social forest, 1853-1860; b. 16, fasc. 2, Judgment in the case between Germagno and Cranna Gattugno, 1869; fasc. 5-7 Settlement with Cranna Gattugno, 1875-1879; ASN, Intendenza generale, affari speciali dei comuni, b. 604, fasc. 11, Germagno, fasc. 51, Assent to take legal action against the municipality of Buglio over territorial boundary issues.
 
-[^120]
+[^120]:
 
 For instance, the dispute between Germagno and Gattugno lasted from 1462 to 1879: ASCG, loc. cit.
 
-[^121]
+[^121]:
 
 CLUC, Loreglia, b. 69, related to the "compascuo" of Loreglia, Chesio and Montebuglio, 1928-1940 and later administrative acts, 1956-1958.
 
-[^122]
+[^122]:
 
 Oreste Guglieminetti asks commune Valstrona to verify private and communal property in "Alpe Sasso Faucino" against his neighbour Clemente Corini quondam Giovanni who has encroached on the latter. Expert's report by Giovanni Guglielminetti, who searches for the certificates of usurpation of the communal property of former commune of Sambughetto, finds the booklets, carries out an inspection and declares with the agreement of the parties: Alpe Sasso Faucino consisted of 2 huts and m^2^ 257, as per map no. 38, partly cultivated and partly reduced to grassland. It was considered convenient to divide it into two pieces to be put up for auction 'so that the two present owners could each purchase the part that was theirs'. In 1877 and 1882 the area was measured on behalf of the municipality of Sambughetto, the usurped property was estimated, and two plots were formed. In 1932 it was discovered that the value of the land had never been paid by Corini, and the total measurement is m^2 ^1713. Therefore, Guglielminetti asked for the properties to be verified: the municipality could put them up for auction, and the two current owners could buy. Auction was held on 24^th^ November 1933, was deserted and so Oreste Guglielminetti bought the two plots: ASCV, b. 90.
 
-[^123]
+[^123]:
 
 The separation of Piana from Massiola in ASN, Prefettura, Affari generali, II, cart. 553, *"*A sua Eccellenza il Ministro degli Interni, Supplica della Giunta municipale di Massiola in opposizione alla segregazione da Massiola della regione Piana per essere unita al comune di Fornero"*,* 8/6/1875 and in Regio Decreto N. 2607 del 21/07/1884. For ownership by Piana's residents in the commune of Fornero: ASN, Prefettura, Affari generali, II, cart. 553, 22/4/1885 and ASCV, Sez. Massiola, b. 22, n. 9: in 1870, during the territorial dispute, Massiola says that "some of Piana in the summer time go to dwell in hubs laying in part on the territory of Fornero".
 
-[^124]
+[^124]:
 
 By commissarial decree of 26/6/1941, a list of 77 parcels of land subject to civic uses (pasture, woodland, grassland and stramatico) was drawn up, covering an area of 99 hectares (CLUC, fasc. 32, Germagno, Sottofasc. Corrispondenza, comunicazione del Commissario ai comuni di Valstrona, Massiola, Germagno. Massiola e Germagno dell 1/4/1969). Still in 1975 the expert for the Commissario alla Liquidazione degli Usi Civici, geom. Giovanni Torrero, was writing "The last three municipalities, Germagno, Loreglia and Massiola, now form restored municipalities, and in the cadastre the land falling within their territory has been attributed to them, and this must be checked as there are municipalities that owned land in the territory of others," highlighting the historical problem of compascui.
 
-[^125]
+[^125]:
 
 Grendi (1993) first drew attention to this process as one of the driving forces of local politics.
 
-[^126]
+[^126]:
 
 Grendi (1973 was the first to point to this historical process (Lauwers, 2005).. Bascapé (1876) noted this process in Valsesia at the end of the 16th century. The 37 parishes of Valsesia in 1612 had numbered just seven a century before (see Torre, 2019, p.27). 
 
-[^127]
+[^127]:
 
 Colombo, "Loreglia", § Liti territoriali.
 
-[^128]
+[^128]:
 
 *Gazzetta Ufficiale del Regno D'Italia*, 6 luglio 1926, n. 154.
 
-[^129]
+[^129]:
 
 6 june 1775. For the study of this vast reform process, one must start with the contributions of Quazza (1957) and the collection Venturi (e.g., Venturi, 1998), or juridical aspects see Petracchi (1962), Vidari (1983), Astuti (1983; 1961).The problem is addressed by Sturani (2021).
 
-[^130]
+[^130]:
 
 ASN, Department of Agogna, cart. 552, Fornero's reply to the prefect dated 7/11/1807.
 
-[^131]
+[^131]:
 
 The reasons for the creation of the new municipality are not entirely artificial: metallurgic industries in the small hamlet of Strona (commune of Luzzogno before 1928) are reported in Cane (1907, p.220-221).
 
-[^132]
+[^132]:
 
 E.g. the "family tax" in 1932 is allocated by hamlets and the land survey (catasto) in 1936-1940 is made "by hamlets". A letter of August 1^st^, 1929, from the Ministry of Interior to the Novara Prefect warned of "dangers in the unions of communes in the relationships between centre and fractions (hamlets)": ASCV, B. 75, n. 12-18.
 
-[^133]
+[^133]:
 
 The cases of Piana, Chesio and Otra (Cane, 1907).
 
-[^134]
+[^134]:
 
 ASCV, the communes of Germagno, Forno, Campello Monti.
 
-[^135]
+[^135]:
 
 They do not appear in Dérouet (1995), although he studied settlement matrices in depth.
 
-[^136]
+[^136]:
 
 Let me refer once again to Torre (1995), part II and part III.
 
-[^137]
+[^137]:
 
 Salt legacies are widespread in the communities of the Strona Valley and still in the 20th century: ASCV, Comune di Valstrona, b. 3, f.7, Bequest of salt of Maddalena Maranca, 1929; Comune di Massiola, b. 23, f. 2.1.2, 1742. For the legacies in the Antigorio Valley, I refer to the work on Crodo and the Cravairola pasture, forthcoming in *Quaderni storici*.
 
-[^138]
+[^138]:
 
 ASCV, Massiola: *Confraria* di Santo Spirito, from 1618 to 1866, b. 23, n.1-3; Germagno, "Visita pastorale di mons. Bascapé", vol. 41, c. 378: families give alms to the *confraria* designed to a distribution in the day of St. Maiolo; Luzzogno, pergamena 1 B, "Nota di quelli che danno la mina al Santo Spirito", 16^th^ century. Bascapé, "Visita", Luzzogno, reports debtors to the *confraria.*
 
-[^139]
+[^139]:
 
 Very detailed examples in the archives of the municipalities of Massiola, Fornero, Forno in Valstrona. V. Torre, "Valstrona", and Colombo, "Germagno", "Loreglia", "Massiola" cit. It should be noted that this process has a relevant cultural and devotional consequence: see Colombo (1997).
 
-[^140]
+[^140]:
 
 ASCV, b.61, n. 4.
 
-[^141]
+[^141]:
 
 Ibidem, b. 46.
 
-[^142]
+[^142]:
 
 The new larger commune did not last, and witnessed the secession of Germagno, Loreglia and Massiola in 1955.
 
-[^143]
+[^143]:
 
 Lucatelli et al. (2022) to whom goes the credit for having posed the problem. More recently Borghi (2017).
 
