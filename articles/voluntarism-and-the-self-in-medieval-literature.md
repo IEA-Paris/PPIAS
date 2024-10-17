@@ -34,7 +34,7 @@ language: English
 ---
 > ## Acknowledgements
 >
-> This article was written during a 1-month writing residency in January 2024 at the Paris Institute for Advanced Study under the “Paris IAS Ideas” program*.
+> This article was written during a 1-month writing residency in January 2024 at the Paris Institute for Advanced Study under the “Paris IAS Ideas” program.
 
 ## Introduction
 
