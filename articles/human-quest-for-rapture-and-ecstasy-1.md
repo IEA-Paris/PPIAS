@@ -1,6 +1,6 @@
 ---
 published: false
-article_title: HUMAN QUEST FOR RAPTURE AND ECSTASY
+article_title: Human Quest for Rapture and Ecstasy
 date: 2024-10-12T17:27:00.000Z
 type: article
 needDOI: false
