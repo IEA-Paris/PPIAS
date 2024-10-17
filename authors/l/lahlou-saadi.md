@@ -21,6 +21,7 @@ articles:
   - >-
     collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
   - netboards
+  - socioscope
 categories:
   - content/categories/WPRN21.md
   - content/categories/Fellows.md

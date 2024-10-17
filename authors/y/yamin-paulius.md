@@ -3,6 +3,7 @@ active: true
 articles:
   - 8-0_WPRN21_Keynote 8
   - netboards
+  - socioscope
 exerpt: ''
 firstname: Paulius
 issue:

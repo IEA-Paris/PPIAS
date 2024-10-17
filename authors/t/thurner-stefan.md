@@ -1,29 +1,27 @@
 ---
 active: true
 articles:
-  - netboards
   - socioscope
 exerpt: ''
-firstname: Antoine
+firstname: Stefan
 issue:
-  - content/issues/Intercontinental Academia 4.md
   - content/issues/paris-ias-projects.md
 language:
   - English
-lastname: Cordelois
+lastname: Thurner
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: Paris Institute For Advanced Study
+  - institution: Complexity Science Hub
     positions:
-      - CTO
+      - Director
 reference: ''
 social_channels:
   google_scholar: ''
   instagram: ''
-  linkedin: https://www.linkedin.com/in/antoine-cordelois/
+  linkedin: ''
   mendeley: ''
-  orcid: 0000-0003-1715-2919
+  orcid: ''
   researchgate: ''
   twitter: ''
   website: ''

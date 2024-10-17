@@ -7,6 +7,7 @@ articles:
     collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
   - ai-and-the-illusion-of-control
   - netboards
+  - socioscope
 exerpt: ''
 firstname: Helga
 is_institution: false
