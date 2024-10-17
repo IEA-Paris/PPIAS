@@ -9,7 +9,9 @@ authors:
     firstname: Philippe
     lastname: Rochat
     positions_and_institutions:
-      - institution: Emory University & the Paris Institute of Advanced Studies
+      - institution: Emory University
+        positions: []
+      - institution: Paris Institute of Advanced Studies
         positions: []
     social_channels:
       website: ""
