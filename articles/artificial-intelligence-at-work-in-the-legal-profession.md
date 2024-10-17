@@ -8,7 +8,9 @@ authors:
   - is_institution: false
     firstname: "Henrik "
     lastname: Palmer Olsen
-    positions_and_institutions: []
+    positions_and_institutions:
+      - institution: University of Copenhagen
+        positions: []
     social_channels:
       website: ""
       wikipedia: ""
