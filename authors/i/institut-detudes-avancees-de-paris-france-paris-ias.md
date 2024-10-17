@@ -12,6 +12,14 @@ articles:
   - VIRT_2022_1_virtual-realities-real-experience-program
   - 0-0-1_ Programme colloque Hceres
   - 0-0_WPRN21_Program
+  - 2_Mondeme
+  - 3_Saura_1
+  - 4_Saura_2
+  - 6_Oberhauser
+  - 9_Winkin
+  - 5_Netter
+  - 8_Pereyra
+  - 7_Ogien
 exerpt: ''
 firstname: Paris IAS
 is_institution: true
