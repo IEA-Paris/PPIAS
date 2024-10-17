@@ -620,215 +620,215 @@ To put the focus on will in this way, as the locus of selfhood and moral agency,
 
 # Footnotes:
 
-[^1] : 
+[^1]: 
 
 On Marsilius, see Nederman (1995); for Ockham, see McGrade (1974).
 
-[^2] 
+[^2]:
 
 See Bradwardine (1618) in I.3, II.20, III.1-2, III.50.
 
-[^3] 
+[^3]: 
 
 I offer an intellectualist reading in Pasnau (2002, ch.7). For a sophisticated recent attempt to understand his view in a more voluntaristic light, see Hoffmann and Michon (2017).
 
-[^4] 
+[^4]: 
 
 Unless otherwise noted, the works of Ockham that I discuss are not currently available in English translation. For a more extensive discussion of his conception of will, see Adams (1999).
 
-[^5] 
+[^5]: 
 
 The most comprehensive inventory of the intellectualist (and voluntarist) movement through the thirteenth century is the first volume of Lottin (1942--60).
 
-[^6] 
+[^6]: 
 
 All references and quotations are from the Riverside Chaucer (1987), although I have often benefited from consulting Windeatt's edition of the text. For happiness as the poem's focal concept see Mann (2002, p.165): "the central subject of this poem is the loss of happiness."
 
-[^7] 
+[^7]: 
 
 Chaucer's Boethius uses 'welefulnesse' to translate felicitas (e.g., IIpr1 and IIIpr1) and 'blisfulnesse' to translate beatitudo (e.g., IIIpr1). But neither of these terms are is in Troilus or, indeed, anywhere in the corpus outside of his Consolation translation. In Troilus Chaucer prefers 'selynesse' and 'felicitee,' e.g. at III.813--14: "wordly selynesse, / Which clerkes callen fals felicitee."
 
-[^8]
+[^8]:
 
 Compare Troilus III.813--36 with Consolation IIpr4, lines 150--62 in Chaucer's translation. "Verray weele" (III.836) contrasts with "worldly selynesse, / Which clerkes callen fals felicitee" at the start of Criseyde's speech (III.813--14), but all three of these terms for happiness self-consciously pick out the technical philosophers' conception rather than the passing "joy" or "bliss" or "gladness" that the poem usually speaks of. Indeed, this is the only passage in Chaucer's entirely corpus where 'selynesse' appears.
 
-[^9] 
+[^9]: 
 
 See, e.g., Thomas Aquinas, Summa theol. 2a2ae 136.1c, who appeals to Augustine.
 
-[^10] 
+[^10]: 
 
 See Consol. Vpr1: "Now mai I thus diffinysshen hap: hap is an unwar betydinge of causes assembled in thingis that ben doon for som oothir thing" (lines 89--92). "Licet igitur definire casum esse inopinatum ex confluentibus causis in his quae ob aliquid geruntur eventum." The Latin equates casus and fortuitum, which Chaucer renders as "hap or elles aventure of fortune" (line 58). This conception of fortune (or chance or luck: τύχη, casus, hap) goes back to Aristotle (Physics II.6), as Boethius explicitly says.
 
-[^11] 
+[^11]: 
 
 The poem speaks of luck in terms of 'hap' (I.896); 'happy' (II.621, II.1382); 'unhap' (I.552, II.456); 'unhappyly' (I.666). The OED dates the first occurrence of 'happiness' to 1473. The narrator speaks of "sely Troius" (I.871, II.683) and also "sely womman" (V.1093), said of Criseyde, but also of "Troilus unsely aventure" (I.35). The range of meanings for 'sely' is so wide that it encompasses being lucky, blessed, worthy, happy, and simplemindedly good, and also being unhappy and unfortunate. The linguistic link between happiness and luck goes back to antiquity. Both the Greek εὐδαιμονία and the Latin felicitas bear the primary meaning of lucky or fortunate. Aristotle, reporting common sentiment, remarks that "good fortune (εὐτυχία) is thought to be the same, or nearly the same, as happiness (εὐδαιμονία)" (Phys. II.6, 197b4).
 
-[^12] 
+[^12]: 
 
 For the narrator see esp. V.1-2: "Aprochen gan the fatal destyne / That Joves hath in disposicioun." Calchas claims to foreknow the fall of Troy through the word of Apollo, the casting of lots, and the study of astrology (I.64--84; IV.113--19).
 
-[^13] 
+[^13]: 
 
 Chaucer's paraphrase runs from IV.974 through IV.1078, and corresponds with lines 8--99 of his translation of Consolation Vpr3 (Boethius 1973, p. 395 line 6 to p. 399 line 56). Where Boethius speaks of fatum, Chaucer, both here and in his translation, regularly speaks of "destinee," which makes for a usefully direct linguistic tie to the problem of God's "predestyne."
 
-[^14] 
+[^14]: 
 
 On the theologically unacceptable character of Troilus's position see Minnis (1982, pp. 95--96).
 
-[^15] 
+[^15]: 
 
 Here I am indebted to Windeatt (2023): "...an effect of openness which invites any reader to participate in the debate" (p. 229). See also Benson (1990,p. 149): "Chaucer is a poet not a philosopher, and he uses pieces of the Consolation in unexpected ways to ask questions rather than to provide answers."
 
-[^16] 
+[^16]: 
 
 Prominent examples of practical reasoning in the poem come at II.757, V.36, V.382, V.687, V.1065. For Boethius's account of freedom of choice see Consol. Vpr2.
 
-[^17] 
+[^17]: 
 
 Readers of the poem who find it committed to freewill include Patch (1961), Benson (1990) ch. 7, Minnis (1982, pp. 70--73), and Windeatt (2023, p. 283). For deterministic reading see, e.g., Curry (1961) and Berryman (1967). Critics on both sides tend to have internalized the voluntaristic position that freewill is possible only for agents who can somehow break free from the causal chains of nature and that agents whose actions are circumscribed by those chains are not really acting at all. Thus Berryman (1967, p.3) speaks of "the self-deception shared by all of the characters as well as the narrator in their vain attempts to avoid the inevitable outcome of the story"---as if the only rational behavior in a deterministic world is to stay in bed and wait for the inevitable to happen.
 
-[^18] 
+[^18]: 
 
 Troilus's is a textbook case of acedia, as characterized in the common biblical gloss as "a listlessness of mind that neglects to undertake good things" (as quoted in Aquinas, Summa theol. 2a2ae 35.1). Despair is one of the "children" of acedia: it is a lack of hope resulting from the belief that some good is impossible to achieve (Aquinas, Summa theol. 2a2ae 20.1, 35.4 obj. 2 & ad 2). Strictly, these are both theological vices, and in that case, they concern the ultimate good of God. An internal reading of the poem transposes these vices onto Troilus's attitude toward Criseyde.
 
-[^19] 
+[^19]: 
 
 We are told explicitly that Criseyde is deficient with regard to courage (II.450, V.825) and prudence (V.744--45). As for her injustice (toward Troilus) and her (sexual) intemperance, readers must judge for themselves. On the traditional understanding of the cardinal virtues they stand or fall together as a unity: one has either all of them or none of them (see Aristotle, Nic. Ethics VI.13). For the voluntaristic thesis that all the moral virtues are virtues of the will see Kent (1995).
 
-[^20] 
+[^20]: 
 
 See Nic. Ethics I.10, 1100a18--21: "both evil and good are thought to exist for someone who is dead, as much as for one who is alive but not aware of them; e.g. honors and dishonors and the good or bad fortunes of children and in general of descendants." Consol. Ipr4 shows the prisoner worrying about his reputation. That women in particular should be concerned for their reputation is an imperative within the medieval conventions of courtly love (see Dodd 1961, pp. 5--6).
 
-[^21] 
+[^21]: 
 
 For a prominent example of this sort of moralizing Christian reading see Robertson (1961). Donaldson (1975, p.1144) has this sort of perspective in mind when he nicely remarks: "Some readers are apt to feel, however, that the poet's final statement cancels all the human values which his own loving treatment has made real; that he is, in effect, saying either that he ought not to have written the poem or that the reader ought not to have read it."
 
-[^22] 
+[^22]: 
 
 Consol. IIpr2: "Haec nostra vis est, hunc continuum ludum ludimus; rotam volubili orbe versamus, infima summis summa infimis mutare gaudemus. Ascende si placet, sed ea lege ne utique cum ludicri mei ratio poscet, descendere iniuriam putes."
 
-[^23] 
+[^23]: 
 
 Dihle (1982) locates the origins of will in early Christianity; Frede (2011) points to late Stoic thought.
 
-[^24] 
+[^24]: 
 
 Romans 7:15-23. The Vulgate text reads as follows: "Quod enim operor non intelligo: non enim quod volo (θέλω) bonum hoc ago, sed quod odi malum illud facio. Si autem quod nolo illud facio, consentio legi, quoniam bona (καλός) est. Nunc autem iam non ego operor illud, sed quod habitat in me peccatum. Scio enim quia non habitat in me, hoc est in carne mea, bonum. Nam velle adiacet mihi: perficere autem bonum non invenio. Non enim quod volo bonum, hoc facio: sed quod nolo malum, hoc ago. Si autem quod nolo illud facio, iam non ego operor illud, sed quod habitat in me peccatum. Invenio igitur legem volenti mihi facere bonum quoniam mihi malum adiacet. Condelector enim legi Dei secundum interiorem hominem. Video autem aliam legem in membris meis, repugnantem legi mentis meae, et captivantem me in lege peccati, quae est in membris meis."
 
-[^25] 
+[^25]: 
 
 For a good example of the perplexity that has been generated, see Matthews (1984). For a response, see Kretzmann (1988). Kretzmann in turn draws on Thomas Aquinas's commentary on Romans 7 (Thomas Aquinas 1929).
 
-[^26] 
+[^26]: 
 
 See Aquinas, Summa Theol. (1a 83.1 ad 1), and, at greater length, his commentary on Romans. For Augustine, see Sermones ad populum (154.3).
 
-[^27] 
+[^27]: 
 
 It is a telling sign of Aquinas's prevailing intellectualist orientation that he takes Paul's 'I' in this passage to refer to his intellect: "'I' is understood as the human being's reason, which is principal within a human being, and thus it seems that each human being is his reason or his intellect" (Thomas Aquinas 1929, 7.3).
 
-[^28] 
+[^28]: 
 
 I follow the edition of The Riverside Chaucer, where the Clerk's Tale appears at the start of fragment IV. Petrarch's version is found in Epistolae Seniles XVII.3; I follow Thomas Ferrell's Latin--English edition as printed in Correale and Hamel (2002), I:108--29. That work also contains the text and translation of an anonymous French version that was also among Chaucer's sources. It is unclear whether he knew Boccaccio's original, but his connections with Italy make that not implausible.
 
-[^29] 
+[^29]: 
 
 It is a commonplace among recent critics to observe that the Clerk's Tale is problematic both as a parable and as a moral exemplum for wives. The most influential statement of that case remains Salter (1962), who concludes that the tale is a failure. Much of the critical literature in the sixty years since Salter's essay has attempted to find some strategy for rescuing the poem from that despairing verdict. For a good sense of the ongoing puzzlement over the tale as a moral exemplar see Mitchell (2005). For a vigorous attempt to defend Griselda as a moral exemplar see Morse (1985).
 
-[^30] 
+[^30]: 
 
 Petrarch's Walter describes himself as "the freest man I have known" (104), a line that Petrarch seems to accept uncritically, but that Chaucer simply omits.
 
-[^31] 
+[^31]: 
 
 Griselda's exceptional produce, or wisdom, is particularly attested at 428--34 and 1016--22. Even the sergeant who takes her babies recognizes it (528). As for Walter, the poem cautiously remarks that "the peple hym heelde / A prudent man" (426--27) because of his discovering Griselda's virtue amidst her poverty, but then offers a foreboding caution, not present in Chaucer's sources, that "that is seyn ful seelde" (very seldom seen).
 
-[^32] 
+[^32]: 
 
-Petrarch's version of this scene (150--61) is different in crucial ways: it ennobles Walter by having him frame his demand in terms of his will (voluntas); it suggests his concern for her inner mental life in his asking whether she is ready to swear with a willing spirit (volenti animo); and it diminishes Griselda's response by restricting it to a pledge not to act or think otherwise than what Walter wants, omitting the crucial idea of a union of wills. And since Petrarch's Griselda has given Walter exactly what he wanted, his response "satis est" comes off as a dry acknowledgment that she has met his expectations. The anonymous French translation adheres closely with Petrarch on all these details (109--124).
+Petrarch's version of this scene (150--61) is different in crucial ways: it ennobles Walter by having him frame his demand in terms of :his will (voluntas); it suggests his concern for her inner mental life in his asking whether she is ready to swear with a willing spirit (volenti animo); and it diminishes Griselda's response by restricting it to a pledge not to act or think otherwise than what Walter wants, omitting the crucial idea of a union of wills. And since Petrarch's Griselda has given Walter exactly what he wanted, his response "satis est" comes off as a dry acknowledgment that she has met his expectations. The anonymous French translation adheres closely with Petrarch on all these details (109--124).
 
-[^33] 
+[^33]: 
 
 The question of Griselda's underlying emotional state is explored in detail in Bugbee (2019, pp. 41--79). But the otherwise illuminating discussion suffers from a failure to distinguish between the conformity Griselda vows at the level of rational appetite (will) and the sorrow she permits herself subrationally.
 
-[^34] 
+[^34]:
 
 This inverted mirroring of Walter's lusts onto Griselda's will is completely missing from Petrarch and the anonymous French version, both of which speak throughout this speech of a conformity at the level of will (voluntas, voulenté). The pains that Chaucer takes to drive home the inversion is quite striking on close inspection. The word 'lust' in its various noun and verbal forms is associated 21 times with Walter, whereas a connection with Griselda comes only twice: once negatively, when she is said to have "no likerous lust" (214, as quoted earlier), and once when the clerk tells us that "as Walter leste, / The same lust was hire plesance also" (716--17), which does not quite ascribe these lusts to her. That passage, as it happens, is the only place that Griselda is characterized as having "plesance" a term that is associated seven times with Walter.
 
-[^35] 
+[^35]:
 
 Critics often take for granted that Griselda's initial vow is what motivate her ongoing obedience to Walter (see Mann 2002, p.114; and, Finnegan, 1994). For a brief account of the scholastic attitude toward oaths that clash with other moral commitments see Aquinas: Summa Theol. (2a2ae 89.7). Scotus's Ordinatio (III.39) offers a much more searching discussion of the issues. For further references see Finnegan (1994). The ecclesiastical Latin term for the sort of oath one swears before God in marriage is iuramentum, and periurium is the term for the breaking of such an oath.
 
-[^36] 
+[^36]:
 
 See lines 343, 1053, and 866, where she characterizes herself as having brought from her father's house "noght elles ... but feith, and nakednesse, and maydenhede." Petrarch invokes faith at the very start of his version, entitling it a tale of "remarkable wifely obedience and faith."
 
-[^37] 
+[^37]:
 
 Readers who might have lost sight of the transparent falseness of Walter's conduct get a reality check when Griselda is finally expelled from the palace and sent back to her father. Janicula, we then learn, "was evere in suspect of hir mariage" (905). Could Griselda have been so much more foolish than that?
 
-[^38] 
+[^38]:
 
 Once Griselda leaves home for the palace, her father drops out of the poem, until she is cast out and falls back into his arms. Then, once the final test has concluded and all has been revealed, we are told that Janicula is finally allowed to live in the palace (1133). Petrarch, characteristically, makes an excuse for Walter's having taken so long to allow this (391--93), an excuse that Chaucer omits. Neither offers any excuse for Griselda's having abandoned her father.
 
-[^39] 
+[^39]:
 
 Strikingly, both Petrarch (256) and the anonymous French version (241) render this line as "to our love," but Chaucer's poem hardly takes such mutuality for granted. I can find only one place where Walter expresses his love for her: "and though to me that ye be lief and deere" (479), and this comes as he prepares her to lose her daughter. Griselda herself invokes his love for her only so as to describe its waning (857) and then in celebration of its final renewal (1091). There are at least ten places where the poem speaks of his being loved, by Griselda and others. Characteristically, when Walter reassures himself that Griselda does love her children, he puts the thought to himself in the only way he can find tolerable: "But wel he knew that next hymnself, certayn, / She loved hir children best in every wyse" (694--95). Georgianna (1995, p.805) registers that love is Griselda's motive, remarking that "the only motive Griselda ever offers for her assent is love, which is less an explanation than a synonym for her assent". I hope that my account of the poem makes clear how her vow of love is, in the medieval context, a very rich explanation.
 
-[^40] 
+[^40]:
 
 A medieval Christian audience would immediately recognize that Griselda's speech is a distorted echo of what is arguably the most important line in the entire Bible, Mattthew 22:37, where Jesus explains, reciting Deuteronomy 6:5, that "the first and greatest commandment" of religious law is "Love the Lord your God with all your heart and with all your soul and with all your mind." For the connection to charity see, e.g., Scotus, Ordinatio III.27 (tr. 2017), which offers a systematic argument for why it is the supernaturally infused virtue of charity that inclines us to love God in this way.
 
-[^41] 
+[^41]:
 
 A wanton, in the sense made philosophically famous by Frankfurt (1971), is someone who has various first-order desires for things in the world but lacks the second-order ability to choose among those desires, and so drifts along in life from one desire to another. Such beings, Frankfurt argues, do not count as persons and lack freedom of will.
 
-[^42] 
+[^42]:
 
 Confessions XIII.9.10. I am not the first to stress Griselda's emergence in the poem as a rational agent characterized by the force of her will. My thinking about the poem has been particularly influenced throughout by work in progress of Elizabeth Robertson. A notable earlier example is Kirk (1990, p.117), who remarks that "what preserves Griselda's identity is nothing more or less than the intense, even excessive voluntariness of her promise". At the same time, the paradoxical character of voluntaristic obedience makes it easy to reach the seemingly contradictory conclusion that the Clerk's Tale, in John McCall's words, describes "the supernatural death of the will" (1966, p.264).
 
-[^43] 
+[^43]: 
 
 Sawles Warde par. 3, following a revised version of the edition and translation in Huber and Robertson (2016).
 
-[^44] 
+[^44]: 
 
 Sawles Warde par. 48. For a discussion of other examples of the conflict between Wit and Will, see Dickins (1937).
 
-[^45] 
+[^45]: 
 
 This is immediately apparent from the quotations offered in support of the first sense of 'wil (le' offered in the online Middle English Dictionary (2024). Of course, the noun 'will' has more than two senses in Middle English, just as it does today. The Oxford English Dictionary offers 23 distinct senses, and the Middle English Dictionary offers 12, and does not even separate out into different entries the senses I am distinguishing here, despite their fundamental difference.
 
-[^46] 
+[^46]: 
 
 References to Piers Plowman are to William Langland (2006). See also B.XI.45: "That witte shal torne to wrecchednesse, for wille to have his lyking!" Ralph Hanna remarks, of B.V.587/C.VII.234, that "Piers's language at this point deliberately excludes the dreamer" (Penn Commentary, II:200). But this ignores the clear equivocity of 'wille,' which here denotes a psychological feature set in essential opposition to wit, to be excluded from the castle as a matter of principle. This cannot be the sort of will with which the dreamer is identified.
 
-[^47] 
+[^47]: 
 
 Distinguished examples, with regard to Piers Plowman in particular, include Zeeman (2006), Coleman (1981), Simpson (1986a), and E. Robertson (2020). For a skeptical response, see Aers (2009).
 
-[^48] 
+[^48]: 
 
 See the nuanced discussion of Will as fool in Carruthers (1973, p.5) as well as the sweeping account in Aers (2015, p.126) of the significance of locating Will among the fools, arrayed against the institutions of power.
 
-[^49] 
+[^49]: 
 
 On the complexities of allegory in Langland, see Mann (2010). For the case of the soul's faculties in particular, see Raskolnikov (2009), ch. 5.
 
-[^50] 
+[^50]: 
 
 Here I am indebted to conversation with Kate Crassons and Beth Robertson.
 
-[^51] 
+[^51]: 
 
 That we acquire information from the senses, and from intellectual abstraction therefrom, is a commonplace within the Aristotelian tradition. The role of external authority is stressed in particular by Augustine, famously at De trinitate XV.12.21: "Let it be far from us to deny that we know what we have learned from the testimony of others".
 
-[^52] 
+[^52]: 
 
 My thoughts here have benefited substantially from remarks in Simpson (2007, p.163): "If Will has never seen charity ..., this is surely because he is himself, as the will, the locus of charity; to look for charity 'bifore' or 'bihynde' is simply to miss the obvious by looking in front of one's nose."
 
-[^53] 
+[^53]: 
 
 Here I agree with Aers (2009, p.56): "there is no warrant for those readings of Piers Plowman that assert a movement in the poem setting aside ratiocination and argument." At the same time, the poem's voluntarism creates a certain tension in this commitment to rational inquiry, as is beautifully captured in Simpson (2007), who speaks of "a deep uncertainty about the value of learning in the poem" (61).
 
