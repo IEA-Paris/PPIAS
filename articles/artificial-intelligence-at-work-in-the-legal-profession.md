@@ -212,137 +212,137 @@ There is still a long way to go before artificial intelligence can represent our
 
 ## Footnotes
 
-[^1]
+[^1]:
 
 There are now at least two established international conferences focused on artificial legal intelligence: Jurix: International Conference on Legal Knowledge and Information Systems, which has existed since 1988 and is held annually (<http://jurix.nl/>) and ICAIL: International Conference on Artificial Intelligence and Law (<https://dl.acm.org/conference/icail>), which is organized by the Association for Computing Machinery. In addition, there is an annual workshop with a special focus on Natural Legal Language Processing <https://nllpw.org/workshop/call/> which has been held at various NLP conferences.
 
-[^2] 
+[^2]: 
 
 See for example: [https://tracxn.com/d/sectors/legal-tech/__SjCGNk9sSTU9TDUjFH4IyX9Qo7HLyIkGfSZ2eXYvQkM](https://tracxn.com/d/sectors/legal-tech/__SjCGNk9sSTU9TDUjFH4IyX9Qo7HLyIkGfSZ2eXYvQkM) for an overview of the development in the US.  On the importance of artificial intelligence for the legal profession more generally, see for example: Richard Susskind (2017) - Tomorrow's Lawyers: An Introduction To Your Future. OUP.
 
-[^3]
+[^3]:
 
 See, for example, on a system designed to assess specific questions related to US tax law: L. T. McCarty, 'Reflections on "Taxman": An Experiment in Artificial Intelligence and Legal Reasoning', 90 *Harvard Law Review* 5, March 1977, pp. 837-893. In the 1990s, Kevin Ashley developed a system aimed at providing answers to legal questions about trade secret protection: Kevin D. Ashley, Reasoning with cases and hypotheticals in HYPO, International Journal of Man-Machine Studies, Volume 34, Issue 6, 1991, Pages 753-796.
 
-[^4]
+[^4]:
 
 The following information can be found on the website of the Danish Land Registration Court: "Today, all land registration is based on digital documents that are reported on the land registration portal www.tinglysning.dk, and which are signed with digital signatures. Today, approximately 87 percent of all notifications are processed automatically, i.e. in less than five seconds, while the remaining - typically more complicated - notifications are processed manually by the approximately 90 employees currently employed at the Land Registration Court in Hobro." (<https://domstol.dk/tinglysningsretten/om-tinglysningsretten/tinglysningsrettens-historie/>) (Translated from Danish by DeepL)
 
-[^5]
+[^5]:
 
 Thea Johanne Raugland Wisborg states in her PhD thesis "Fully automated decisions in Danish administration" that: "at least 75% of all applications received via the self-service system minSU were decided fully automatically in 2020." (s. 82). (translated from Danish by DeepL)
 
-[^6]
+[^6]:
 
 See: <https://sktst.dk/arsopgoerelsen/den-digitale-aarsopgoerelse>
 
-[^7] 
+[^7]: 
 
 See for example: <https://www.globallegalpost.com/news/more-than-half-of-in-house-lawyers-back-chatgpts-use-for-legal-work-study-shows-2042534205>
 
-[^8] 
+[^8]: 
 
 The regulation is available in a preliminary English language version here: <https://www.europarl.europa.eu/doceo/document/TA-9-2024-0138_EN.pdf> A final version of the text will be published after processing by the Directorate General for translation.
 
-[^9] 
+[^9]: 
 
 In a legal context, training data can consist of many different things, such as adjudication practice, prosecution practice, contract practice, or it can be aimed at factual matters, such as investigating transactional practices to identify e.g. tax fraud, illegal insider trading, bankruptcy law circumvention, social fraud, illegal accounting practices or similar.
 
-[^10]
+[^10]:
 
 As an example, see <https://www.artificiallawyer.com/2018/02/26/lawgeex-hits-94-accuracy-in-nda-review-vs-85-for-human-lawyers/> and [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4539836&dgcid=ejournal_htmlemail_university%3Aof%3Aminnesota%3Alaw%3Aschool%3Alegal%3Astudies%3Aresearch%3Apaper%3Aseries_abstractlink](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4539836&dgcid=ejournal_htmlemail_university:of:minnesota:law:school:legal:studies:research:paper:series_abstractlink) for an experiment on student use of ChatGPT. See also: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4626276>
 
-[^11] 
+[^11]: 
 
 But see the debate between Søgaard and Landgrebe and Smith in: Landgrebe, J., & Smith, B. (2021). Making ai meaningful again. Synthese, 198(March), 2061--2081; Søgaard, A. Understanding models understanding language. Synthese 200, 443 (2022); Landgrebe J., & Smith, B. (2023) - Why machines do not understand: A response to Søgaard. Unpublished, available at: <https://arxiv.org/abs/2307.04766>
 
-[^12]
+[^12]:
 
 See e.g.: Michael D. Murray  (2023) - Artificial Intelligence and the Practice of Law Part 1: Lawyers Must be Professional and Responsible Supervisors of AI, available at: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478588>  ibm.
 
-[^13] 
+[^13]: 
 
 For an introduction to GPT's, see: <https://en.wikipedia.org/wiki/Generative_pre-trained_transformer#Foundational_models>. The transformer technology was first launched by Google researchers in: <https://arxiv.org/abs/1706.03762>
 
-[^14] 
+[^14]: 
 
 As indicated above (footnote 7 (CHECK) AI is already being put to use in the legal service industry.
 
-[^15]
+[^15]:
 
 A simple Google search shows that there is already a market for due diligence AI and automated contract analysis. An example is the system Harvey: https://www.harvey.ai/
 
-[^16] 
+[^16]: 
 
 See for example: Olsen, Henrik Palmer et al (2023) - Re-Framing Case Law Citation Prediction
 
 from a Paragraph Perspective, in: G. Sileno et al (Eds) - Legal Knowledge and Information Systems. The article is available as open access here: <https://ebooks.iospress.nl/volumearticle/65604>
 
-[^17]
+[^17]:
 
 [https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))
 
-[^18] 
+[^18]: 
 
 There is research suggesting that language model performance can vary over time, see <https://arxiv.org/pdf/2307.09009.pdf> This study was conducted on ChatGPT, where it was not possible for the researchers to see behind the user interface. It is unknown if and how ChatGPT uses reinforcement learning, as OpenAI does not disclose this. The study also shows that ChatGPT in some scenarios performs worse over time, but the researchers have not managed to find explanations for this.
 
-[^19] 
+[^19]: 
 
 It is of course a legal question in its own right, what kind of internet authorities may scrape from the internet and how they may use that information in a court of law. As mentioned in the introduction, we do not address such regulatory questions in this article.
 
-[^20]
+[^20]:
 
 See further: Henrik Palmer Olsen & Cornelius Wiesener (2021) Beyond data protection concerns - the European passenger name record system, Law, Innovation and Technology, 13:2, 398-421, DOI: 10.1080/17579961.2021.1977221
 
-[^21] 
+[^21]: 
 
 Again, provided that this is lawful.
 
-[^22]
+[^22]:
 
 See: <https://law.stanford.edu/wp-content/uploads/2020/02/ACUS-AI-Report.pdf>
 
-[^23]
+[^23]:
 
 See: Olsen, Henrik Palmer, Højmark-Bertelsen, M. & Schwemer, Sebastian Felix, 'Applying NLP to Support Legal Decision-making in Administrative Appeal Boards in the EU' , In: CEUR Workshop Proceedings. 3441, p. 103-110.
 
-[^24]
+[^24]:
 
 This raises a number of interesting new questions about contract interpretation that we can't go into here.
 
-[^25]  
+[^25]:  
 
 <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4626276>
 
-[^26]
+[^26]:
 
 See in this direction Jaromir Savelka, Kevin D. Ashley, Morgan A. Gray, Hannes Westermann, Huihui Xu, 2023 op. cit.
 
-[^27]
+[^27]:
 
 See this in section 4 above.
 
-[^28]
+[^28]:
 
 See Stern, Rachel E.; Roberts, Margaret; Liebman, Benjamin L.; Wang, Alice (2021) - Automating Fairness? Artificial Intelligence in the Chinese Courts, in: 59 Columbia Journal of Transnational Law 515 (2021) and Chesterman, S., Bennett Moses, L., & Pagallo, U. (2023). All Rise for the Honorable Robot Judge? Using Artificial Intelligence to Regulate AI: a debate. Technology and Regulation, 2023, 45-57.
 
-[^29]
+[^29]:
 
 See: <https://law.stanford.edu/wp-content/uploads/2020/02/ACUS-AI-Report.pdf>, s. 40.
 
-[^30]  [](https://www.supremecourt.gov/publicinfo/year-end/2023year-endreport.pdf)
+[^30]:  [](https://www.supremecourt.gov/publicinfo/year-end/2023year-endreport.pdf)
 
 <https://www.supremecourt.gov/publicinfo/year-end/2023year-endreport.pdf> s. 6.
 
-[^31]
+[^31]:
 
 Quote taken from: <https://www.britannica.com/biography/Oliver-Wendell-Holmes-Jr/The-Common-Law>
 
-[^32] 
+[^32]: 
 
 See also: Wang, J. (2021). Is artificial intelligence capable of understanding? An analysis based on philosophical hermeneutics. Cultures of Science, 4(3), 135-146. <https://doi.org/10.1177/20966083211056405>
 
-[^33]
+[^33]:
 
 Holmes op. cit.
 
