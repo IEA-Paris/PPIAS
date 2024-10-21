@@ -43,8 +43,6 @@ bibliography: /anystyle-5-.bib
 date: 2024-07-04T10:47:00.000Z
 highlight: false
 issue: content/issues/paris-ias-ideas.md
-highlight: false
-bibliography: /anystyle-5-.bib
 language: English
 links:
   bucket: https://zenodo.org/api/files/39811f5e-bfb0-4bd1-9c34-b230ff0f3d2b

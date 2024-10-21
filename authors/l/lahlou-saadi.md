@@ -22,6 +22,8 @@ articles:
     collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
   - netboards
   - socioscope
+  - 10_lahlou
+  - 10_Lahlou
 categories:
   - content/categories/WPRN21.md
   - content/categories/Fellows.md
@@ -52,6 +54,7 @@ issue:
   - content/issues/hommage-serge-moscovici.md
   - content/issues/Intercontinental Academia 4.md
   - content/issues/paris-ias-projects.md
+  - content/issues/cicourel.md
 language:
   - English
   - ''
