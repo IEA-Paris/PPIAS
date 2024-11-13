@@ -79,9 +79,9 @@ Research show that newborns do manifest an implicit sense of their own embodied 
 
 **Figure 2: 36 month-old child passing the mirror mark test, reaching directly to the mark surreptiously placed on his forehead that he discovered looking at himself in the mirror** 
 
-![](/static/picture2.1.jpg)
+![](/static/enfant-1.png)
 
-![](/static/picture2.2.jpg)
+![](/static/enfant-2.png)
 
 *(Photo by the author)*
 
@@ -89,7 +89,7 @@ Children starting to recognize themselves in a mirror also demonstrate emerging 
 
 **Figure 3: 24 month-old child passing the mirror mark test, showing a first reaction of embarrassment as she discovers the mark that was surreptitiously place on her forehead** 
 
-![](/static/picture3.jpg)
+![](/static/enfant-3.png)
 
 *(Photo by the author).*
 
@@ -271,7 +271,7 @@ The point is that infants do not need to learn how to cry, nor to smile in *rap
 
 **Figure 4: Positive and negative valence captured in the facial expressions of 30 week-old fetus** 
 
-![](/static/picture4.png)
+![](/static/foetus-4.png)
 
 *(from Hata et al., 2010, reproduced with permission).*
 
@@ -281,7 +281,7 @@ During the first 6 weeks of life, the happy expression corresponding to rapture 
 
 **Figure 5: Hand-mouth coordination in a 3 minute-old newborn** 
 
-![](/static/picture5.png)
+![](/static/be-be-s-5-.png)
 
 *(Photos by the author of his daughter Cléo).*
 
@@ -291,7 +291,7 @@ By six weeks, the reflex expression of positive rapture associated with feeding 
 
 **Figure 6: Socially elicited smiling in a 2-month-old** 
 
-![](/static/picture6.png)
+![](/static/be-be-6.png)
 
 *(Photo by the author of his daughter Cléo).*
 
