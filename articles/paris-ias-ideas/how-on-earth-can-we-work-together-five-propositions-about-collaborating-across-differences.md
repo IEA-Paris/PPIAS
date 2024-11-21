@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: How on Earth Can We Work Together?  Five Propositions about
   Collaborating Across Differences
 date: 2024-11-07T10:16:00.000Z
@@ -24,21 +24,10 @@ authors:
 abstract: >
   This paper offers an updated general theory and practice for
   system-transforming collaborations among diverse persons and groups, with five
-  propositions:
-
-
-  1.     We face a dangerously widening gap between the collaborations we need to undertake and those we are willing and able to undertake.
-
-  2.     To bridge this gap, we must grow our individual and collective capacities to collaborate across differences.
-
-  3.     This bridging requires discerning when, on what, and with whom to collaborate.
-
-  4.     We can accomplish this bridging by employing three intrinsic human drives.
-
-  5.     We can put this bridging into practice with five stretches.
+  propositions: (1) We face a dangerously widening gap between the collaborations we need to undertake and those we are willing and able to undertake. (2) To bridge this gap, we must grow our individual and collective capacities to collaborate across differences. (3) This bridging requires discerning when, on what, and with whom to collaborate. (4) We can accomplish this bridging by employing three intrinsic human drives. (5) We can put this bridging into practice with five stretches.
 issue: content/issues/paris-ias-ideas.md
 highlight: false
-bibliography: /static/references_kahane.bib
+bibliography: /references_kahane.bib
 language: English
 ---
 ## Acknowledegments
@@ -135,33 +124,3 @@ Here are five such stretches. They are fractal in that they can be employed at a
 ## Conclusion
 
 This paper suggests a radical approach to collaborating that enables us to work together more broadly and deeply to address the daunting challenges of our time. Failing to do this will produce more authoritarianism, violence, and suffering.
-
-## References
-
-Dixson-Decleve, S. and J. Rockström (2024). "Comment: With climate change now at our doors, the U.N.'s Pact for the Future fails to protect future generations." *Ethical Corporation Magazine*. October 1.
-
-Fraser, N. (2012). On Justice: Lessons from Plato, Rawls and Ishiguro. *NLR.*
-
-Kahane, A. (2004). *Solving Tough Problems: An Open Way of Talking, Listening, and Creating New Realities*. Berrett-Koehler.
-
-Kahane, A. (2010). *Power and Love: A Theory and Practice of Social Change*. Berrett-Koehler.
-
-Kahane, A. (2012). *Transformative Scenario Planning: Working Together to Change the Future*. Berrett-Koehler.
-
-Kahane, A. (2017). *Collaborating with the Enemy: How to Work with People You Don't Agree with or Like or Trust*. Berrett-Koehler.
-
-Kahane, A. (2021). *Facilitating Breakthrough: How to Remove Obstacles, Bridge Differences, and Move Forward Together*. Berrett-Koehler.
-
-Kahane, A. (Ed.) (2022). *Radical Collaboration to Accelerate Climate Action: A Guidebook for Working Together with Speed, Scale, and Justice*. www.radicalclimatecollaboration.com.
-
-Kahane, A. (2023). Radical Collaboration to Transform Social Systems: Moving Forward Together with Love, Power, and Justice. *Journal of Awareness-Based Systems Change*, 3(2), 23-40. https://doi.org/10.47061/jasc.v3i2.6709 
-
-Kahane, A. (2025). *Everyday Habits for Transforming Systems: The Catalytic Power of Radical Engagement*. Berrett-Koehler.
-
-King, M.L. (2002). Where Do We Go from Here? In C. Carson & K. Shepherd (Eds.), *A Call to Conscience: The Landmark Speeches of Dr. Martin Luther King, Jr*. Grand Central Publishing. 
-
-Koestler, A. (1967). *The Ghost in the Machine*. Hutchinson & Co.
-
-Leicester, G. (2020). *Transformative Innovation: A Guide to Practice and Policy for System Transition*. Triarchy Press.
-
-Tillich, P. (1954). *Love, Power, and Justice: Ontological Analyses and Ethical Applications*. Oxford University Press.
