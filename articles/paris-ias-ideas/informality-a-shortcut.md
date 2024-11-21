@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "Informality: A shortcut"
 date: 2024-10-13T09:24:00.000Z
 type: article
@@ -57,7 +57,7 @@ language: English
 
 **Figure 1. Structure of the paper: key questions**
 
-![](/static/picture1.jpg)
+![](/picture1.jpg)
 
 *Source: Alena Ledeneva for Galerie de Buci, Paris. Copyright: Lesha Kostromin.* 
 
@@ -69,7 +69,7 @@ First, it draws on collaboration, the "[network expertise](https://discovery.ucl
 
 **Figure 2. Informality chest of drawers**
 
-![](/static/picture2.jpg)
+![](/picture2.jpg)
 
 *Source: DeepL generated image. Copyright: Alena Ledeneva.*
 
@@ -99,7 +99,7 @@ The project has confirmed that the assumption that informality is a measure of d
 
 **Figure 3. Multi-dimensional modelling of informality**
 
-![](/static/picture3.jpg)
+![](/picture3.jpg)
 
 *Source: UCL-led strategic and contextual intelligence map, enabled by the WEF and Horizon2020-MSCA-ITN MARKETS project (GA 861034).*
 
@@ -109,7 +109,7 @@ Perspectives on informality that focus on its subversive impact on the [develop
 
 **Table 1. Assumptions about informality vs its [transformative potential](https://www.researchgate.net/publication/341892496_Wrestling_with_Ambiguity_Koans_as_Agents_of_Change_and_their_Application_to_the_Helping_Professions)**
 
-![](/static/table1.png)
+![](/table1.png)
 
 Overall, to answer the "so what" question, I argue against the simplistic approaches to informality. Academically, there is a need for informality studies that prioritise problem solving and work across existing disciplinary and area studies divisions. To this end, I articulate the *[raison d'etre](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=35)* of informality studies in the third volume of the *Global Encyclopaedia of Informality*. [Drivers](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=46) for change that are undermining and/or transforming the previous paradigm of modernity include: [facing uncertainty](https://www.in-formality.com/wiki/index.php?title=The_raison_d%E2%80%99etre_of_informality_studies:_an_introduction#Facing_uncertainty) arising from the challenges that both nature and nurture have imposed on upon human societies, as well as the emerging intellectual challenges of transcending Western-centric transitional paradigms and balancing out a-historical, state-centric thinking. For example, the workings of patronal or hybrid systems require an entirely different [conceptual framework](https://library.oapen.org/handle/20.500.12657/46598), as opposed to normative approaches. Bringing together research networks focused on a problem-oriented approach is the best-known way of crossing institutional and national borderlines in the history of [informal scientific collaboration](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=36).
 
@@ -119,7 +119,7 @@ The immersive training for policy makers, aimed at mastering complexity and cont
 
 **Box 1. Five takeaway points of the Informality Game**
 
-![](/static/box1.png)
+![](/box1.png)
 
 ## III. How would you know if you were wrong?
 
@@ -142,7 +142,7 @@ To reiterate the value of collaboration, let me give just two examples. It is no
 
 **Figure 4. The INFORM model of formal/informal constraints determining human behaviour**
 
-![](/static/picture4.jpg)
+![](/picture4.jpg)
 
 *Source: INFORM project, the European Union's Horizon 2020 research and innovation programme, GA No 693537. Newsletter No. 3.* 
 
@@ -152,7 +152,7 @@ During my 2024 writing fellowship, I have experimented with conceptualising the 
 
 **Figure 5. The poster of the exhibition**
 
-![](/static/picture5.jpg)
+![](/picture5.jpg)
 
 *Source: Alena Ledeneva for Galerie de Buci, Paris.*
 
@@ -160,7 +160,7 @@ Today I wonder if patterns of informal power that effectively serve as shortcuts
 
 **Figure 6. Succession**
 
-![](/static/picture6.jpg)
+![](/picture6.jpg)
 
 *Source: AlenaLedeneva.com/art. Succession. Wood, trophies.34x30x3 cm*
 
