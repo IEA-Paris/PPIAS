@@ -1,6 +1,6 @@
 ---
-DOI: 10.5281/zenodo.13861285
-Zid: 13861285
+DOI: 10.5281/zenodo.14202782
+Zid: 14202782
 abstract: >-
   Reciprocity lies at the heart of the influential theory of gift exchange
   proposed by Marcel Mauss a century ago. Seventy years later, Annette Weiner’s

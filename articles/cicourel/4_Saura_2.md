@@ -18,9 +18,9 @@ abstract: >-
   sociology continues to influence contemporary research.
 article_title: 'The Contribution of Cognitive Sociology: An Integration Model'
 authors:
-  - firstname: Dafne Muntanyola
+  - firstname: Dafne
     is_institution: false
-    lastname: Saura
+    lastname: Muntanyola Saura
     picture: ''
     picture_copyright: ''
     positions_and_institutions:
