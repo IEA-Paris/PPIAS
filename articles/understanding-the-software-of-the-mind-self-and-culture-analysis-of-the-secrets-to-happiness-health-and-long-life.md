@@ -648,21 +648,29 @@ Although the objective "Me" changes throughout one's lifetime in terms of physic
 
 To understand the conception of the self, art can be used since art is a direct expression of a person's experience. Vincent van Gogh (1853-1890) is an excellent example since he drew 32 self-portraits. He did so not because he was vain, but because he was poor, and he could not afford to pay for models. Van Gogh is a Dutch impressionist painter who lived in Paris and drew impressions that are left in his mind rather than drawing what he sees or the ideals of the Classical paintings. (See Figure 42). His paintings are not exact replicas of himself, but the impressions of inner thoughts and feelings that are left in his mind. In June 1888, he drew a painting of a field in France (See Figure 43). 
 
-**Insert 42 and 43 here**
-
-**Figure 40: Understanding the self**
-
-**Figure 41: Maintenance of self-identity**
-
 **Figure 42: Vincent van Gogh**
+
+![](/static/figure42.jpg)
 
 **Figure 43: Van Gogh, June 1888**
 
+![](/static/figure43.jpg)
+
+One year later, June 1889, he drew his most famous painting, *The Starry Night*. It is a different style of painting known as expressionism. (See Figure 44). There is even a song written by Don McLean, entitled Starry, Starry Night. How can his style of painting change so dramatically within one year? In December 1888, he suffered from seizures, hallucinations, and nightmares, and cut of his earlobe. He admitted himself to the Arles Hospital and he was diagnosed with acute mania with generalized delirium.[^15] Figure 44 shows a self-portrait with his ear cut off in December, 1889. (See Figure 45). 
+
 **Figure 44: Starry Night, June 1889**
+
+![](/static/figure44.jpg)
 
 **Figure 45: Vincent van Gogh, December 1888**
 
+![](/static/figure45.jpg)
+
+In 1889, he drew a self-portrait that shows the "turbulent patterns signal a feeling of strain and pressure, symbolizing the artist's state of mind, which is under a mental, physical and emotional pressure" (Beckett, 1994, p. 274; See Figure 46). In the Starry Night, the trees are threatening, the wind is howling, the stars are blurry, and the moon is mystical. His physical "Me" did not change within a year, but how he views and evaluates himself or "I" changed dramatically. He passed away in 1890.
+
 **Figure 46: Vincent van Gogh, 1889**
+
+![](/static/figure46.jpg)
 
 **Figure 47: Self and other's perception**
 
@@ -693,14 +701,6 @@ To understand the conception of the self, art can be used since art is a direct 
 **Figure 60: Work values, leadership efficacy, and traditional leadership style**
 
 **Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
-
-One year later, June 1889, he drew his most famous painting, *T\*\*he Starry Night*. It is a different style of painting known as expressionism. (See Figure 44). There is even a song written by Don McLean, entitled Starry, Starry Night. How can his style of painting change so dramatically within one year? In December 1888, he suffered from seizures, hallucinations, and nightmares, and cut of his earlobe. He admitted himself to the Arles Hospital and he was diagnosed with acute mania with generalized delirium.[^15](https://en.wikipedia.org/wiki/Health_of_Vincent_van_Gogh) Figure 44 shows a self-portrait with his ear cut off in December, 1889. (See Figure 45). 
-
-**Insert Figure 44 and 45 here**
-
-In 1889, he drew a self-portrait that shows the "turbulent patterns signal a feeling of strain and pressure, symbolizing the artist's state of mind, which is under a mental, physical and emotional pressure" (Beckett, 1994, p. 274; See Figure 46). In the Starry Night, the trees are threatening, the wind is howling, the stars are blurry, and the moon is mystical. His physical "Me" did not change within a year, but how he views and evaluates himself or "I" changed dramatically. He passed away in 1890.
-
-**Insert Figure 46 here**
 
 ### **Socialization and self**
 
