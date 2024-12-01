@@ -582,7 +582,7 @@ Liberalism extols the virtues of individualism and Confucianism emphasizes rela
 
 **Figure 36: Contextualization of culture and philosophy**
 
-
+![](/static/figure36.png)
 
 **Figure 37: Culture and cultural change**
 
