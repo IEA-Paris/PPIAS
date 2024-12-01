@@ -130,7 +130,11 @@ Figure 5 is an example of the Stroop effect in which the *written* word is dif
 
 ![](/static/figure5.png)
 
-Figure 6: Example of the Stroop effect, Korean 
+Please go to Figure 6 and name the color of the letters from the top left corner and go down each row. (See Figure 6). You will not have any difficulties naming them as: Blue, Red, Brown, Pink, Yellow, Red. Figure 6 is not a problem if you do not know how to read Korean. However, if I ask native Koreans to name the color of the letters in Korean, they have difficulties. 
+
+**Figure 6: Example of the Stroop effect, Korean** 
+
+![](/static/figure6.png)
 
 Figure 7: Perception through senses and culture
 
@@ -241,10 +245,6 @@ Figure 59: Factors influencing happiness and work values: Self-efficacy as the m
 Figure 60: Work values, leadership efficacy, and traditional leadership style
 
 Figure 61: Work values, leadership efficacy, and future-oriented leadership style
-
-Please go to Figure 6 and name the color of the letters from the top left corner and go down each row. (See Figure 6). You will not have any difficulties naming them as: Blue, Red, Brown, Pink, Yellow, Red. Figure 6 is not a problem if you do not know how to read Korean. However, if I ask native Koreans to name the color of the letters in Korean, they have difficulties. 
-
-**Insert Figure 6 here**
 
 Naming the colors is an easy task any child aged three can readily master. However, reading the alphabet and understanding their meaning take many years to learn. Once it is learned, however, it becomes "natural," and we perceive meaning automatically and without awareness. This is the definition of culture. We perceive symbolic reality and meaning through culture. Learning how to read, sing, ride a bicycle, and use a smartphone or computer is a difficult task, but once it is learned, it feels "natural," and becomes an important part of one's mind and the self.
 
