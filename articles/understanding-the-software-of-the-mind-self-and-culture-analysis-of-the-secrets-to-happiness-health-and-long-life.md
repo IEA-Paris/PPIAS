@@ -716,7 +716,13 @@ For Koreans, how my mother views me and her expectations are the most important 
 
 ![](/static/figure47.png)
 
+In empirical studies of self and academic achievement, parents view their children with love, sacrifice, and hope, and pressure them to achieve (Kim & Park, 2013). However, not every parent is loving and takes care of their children. When children are neglected, rejected, or abused, adolescents do not feel a sense of responsibility for their life, and they morally disengage. In Korea, starting with parents, how other people view "Me" becomes an important aspect of self-identity of how "I" view "Me." 
+
+In empirical studies of the conception of the self, the importance of relationship and emotional connectedness have been documented and verified (Kim & Park, 2013). A total of 1,465 participants, consisting of 623 elementary, middle, high school, and university students and their parents (421 mothers and 421 father) completed an open-ended survey to freely write down their perception of their mother, father or children, sibling, teacher, and friend. Secondly, they were asked to write their conception of the self when they are with the target person. Figure 48 summarizes the results. (See Figure 48). The width of the bar indicates the degree of importance, and the length of the bar indicates social distance. The results indicate that the self is extended in various relationships and the shared relationship becomes a part of the self. For adolescents, the most important and closest person is the mother, followed by father and then friends. For parents, it is their children, followed by their spouse, and then friends. This is the basis of the extended relational self. Individuals are connected to their past through their parents and to the future through their children. The shared relationship becomes internalized as a part of their conception of the self. When the mother passes away, a part of the person's self is empty, and no one can fill that void. Every lunar New Year and Thanksgiving they go to their mother's grave to pay respect to her and to thank her for all the things she has done.
+
 **Figure 48: Relational self**
+
+![](/static/figure48.png)
 
 **Figure 49: Genetic tests of people around the world**
 
@@ -743,12 +749,6 @@ For Koreans, how my mother views me and her expectations are the most important 
 **Figure 60: Work values, leadership efficacy, and traditional leadership style**
 
 **Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
-
-In empirical studies of self and academic achievement, parents view their children with love, sacrifice, and hope, and pressure them to achieve (Kim & Park, 2013). However, not every parent is loving and takes care of their children. When children are neglected, rejected, or abused, adolescents do not feel a sense of responsibility for their life, and they morally disengage. In Korea, starting with parents, how other people view "Me" becomes an important aspect of self-identity of how "I" view "Me." 
-
-In empirical studies of the conception of the self, the importance of relationship and emotional connectedness have been documented and verified (Kim & Park, 2013). A total of 1,465 participants, consisting of 623 elementary, middle, high school, and university students and their parents (421 mothers and 421 father) completed an open-ended survey to freely write down their perception of their mother, father or children, sibling, teacher, and friend. Secondly, they were asked to write their conception of the self when they are with the target person. Figure 48 summarizes the results. (See Figure 48). The width of the bar indicates the degree of importance, and the length of the bar indicates social distance. The results indicate that the self is extended in various relationships and the shared relationship becomes a part of the self. For adolescents, the most important and closest person is the mother, followed by father and then friends. For parents, it is their children, followed by their spouse, and then friends. This is the basis of the extended relational self. Individuals are connected to their past through their parents and to the future through their children. The shared relationship becomes internalized as a part of their conception of the self. When the mother passes away, a part of the person's self is empty, and no one can fill that void. Every lunar New Year and Thanksgiving they go to their mother's grave to pay respect to her and to thank her for all the things she has done.
-
-**Insert Figure 48 here**
 
 ## **IX. Unified Theory of the Biological World**
 
