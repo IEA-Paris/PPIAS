@@ -300,9 +300,21 @@ The tenderized food reduced strong facial muscles, jaws, and teeth which are th
 
 ![](/static/figure15.png)
 
+With a larger brain, human capabilities became more sophisticated and advanced, and allowed humans to expand cognitive, emotional, and communications skills in planning and executing hunts for large animals (Berger & Hilton-Barber, 2000). Advanced hunting was made possible with the use of advanced tools, communication, and social coordination that enabled humans to hunt for larger animals and obtain larger quantities of food. This in turn supported a larger brain and provided leisure time to develop art, music, and social skills.
+
+Mithen (2007) notes that the brain size began to increase dramatically around 60,000 years ago, which is linked to the evolution of language and laid the foundation for the "creativity explosion" around 40,000 years ago. Language allowed communication and coordination of collective activities and furthered the development of symbolic ideas and conceptual knowledge that connected individual minds into an ever-increasing network. Ideas can be transferred to one another and sharing these ideas helped to create communal construction of complex and abstract ideas. The "language has on an individual is magnified a multitude of times by the manner in which language connects people's minds into a single network" and "ideas are then able to 'migrate' between minds" (Mithen, 2007, p. 1991). The sharing of these ideas "allow the communal construction of extremely delicate and difficult intellectual trajectories and progressions" (Clark, 1996, p. 206). Mithen (2007) notes "the evolution of the brain, language, body, and human culture are all intimately linked to each other and cannot be understood in isolation" (p.1965).
+
+The second major cognitive transformation is the anchoring of symbolic ideas in a material form with the development of ornaments, jewelry, art, and music. The earliest art forms excavated are: (1) the lion-man figurine dating back to 33,000 years ago, Hohlenstein-Stadel, Germany; (2) the Grotte Chauvet paintings of animals from dating back to 32,000 years ago, France; and (3) the Aurignacian flute made from mammoth ivory, dating back to 33,000 years ago (Conrad, 2007). (See Figure 16). This is the beginning of information technology. Ideas and spoken words are fleeting, and they can remain in the mind of the speaker/listener for a short time. Recording ideas into a material form makes them durable and allows these ideas to be accessed by many others and across time (Mithen, 2007). Possessing opposable thumbs allowed humans to draw, carve rocks, and create ornaments to translate the ideas in our mind into concrete forms and recorded in physical materials.
+
 **Figure 16: Lion-man, cave drawing and bone flute**
 
+![](/static/figure16.png)
+
+Ideas are transformed into symbols, recorded in material form, and became the basis of writing system. The writing system developed to record ideas in different parts of the world: Hieroglyphs in Egypt and Crete, pottery and bone writing, pictograms, and phonetic writing system in China, Indus script in India, and the cuneiform in Sumar, Mesopotamia that became the basis of modern Western alphabet. (See Figure 17). They were written in cave paintings and then in portable clay tablets and papyrus. Children were educated to learn the script to obtain knowledge about farming, social systems, and complex ideas. These information technologies were shared, refined, integrated, and passed onto subsequent generations to influence the collective software of the mind and become the basis of culture. 
+
 **Figure 17: Early writing systems**
+
+![](/static/figure17.png)
 
 **Figure 18: Making a cup**
 
@@ -391,18 +403,6 @@ The tenderized food reduced strong facial muscles, jaws, and teeth which are th
 **Figure 60: Work values, leadership efficacy, and traditional leadership style**
 
 **Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
-
-With a larger brain, human capabilities became more sophisticated and advanced, and allowed humans to expand cognitive, emotional, and communications skills in planning and executing hunts for large animals (Berger & Hilton-Barber, 2000). Advanced hunting was made possible with the use of advanced tools, communication, and social coordination that enabled humans to hunt for larger animals and obtain larger quantities of food. This in turn supported a larger brain and provided leisure time to develop art, music, and social skills.
-
-Mithen (2007) notes that the brain size began to increase dramatically around 60,000 years ago, which is linked to the evolution of language and laid the foundation for the "creativity explosion" around 40,000 years ago. Language allowed communication and coordination of collective activities and furthered the development of symbolic ideas and conceptual knowledge that connected individual minds into an ever-increasing network. Ideas can be transferred to one another and sharing these ideas helped to create communal construction of complex and abstract ideas. The "language has on an individual is magnified a multitude of times by the manner in which language connects people's minds into a single network" and "ideas are then able to 'migrate' between minds" (Mithen, 2007, p. 1991). The sharing of these ideas "allow the communal construction of extremely delicate and difficult intellectual trajectories and progressions" (Clark, 1996, p. 206). Mithen (2007) notes "the evolution of the brain, language, body, and human culture are all intimately linked to each other and cannot be understood in isolation" (p.1965).
-
-The second major cognitive transformation is the anchoring of symbolic ideas in a material form with the development of ornaments, jewelry, art, and music. The earliest art forms excavated are: (1) the lion-man figurine dating back to 33,000 years ago, Hohlenstein-Stadel, Germany; (2) the Grotte Chauvet paintings of animals from dating back to 32,000 years ago, France; and (3) the Aurignacian flute made from mammoth ivory, dating back to 33,000 years ago (Conrad, 2007). (See Figure 16). This is the beginning of information technology. Ideas and spoken words are fleeting, and they can remain in the mind of the speaker/listener for a short time. Recording ideas into a material form makes them durable and allows these ideas to be accessed by many others and across time (Mithen, 2007). Possessing opposable thumbs allowed humans to draw, carve rocks, and create ornaments to translate the ideas in our mind into concrete forms and recorded in physical materials.
-
-**Insert Figure 16 here**
-
-Ideas are transformed into symbols, recorded in material form, and became the basis of writing system. The writing system developed to record ideas in different parts of the world: Hieroglyphs in Egypt and Crete, pottery and bone writing, pictograms, and phonetic writing system in China, Indus script in India, and the cuneiform in Sumar, Mesopotamia that became the basis of modern Western alphabet. (See Figure 17). They were written in cave paintings and then in portable clay tablets and papyrus. Children were educated to learn the script to obtain knowledge about farming, social systems, and complex ideas. These information technologies were shared, refined, integrated, and passed onto subsequent generations to influence the collective software of the mind and become the basis of culture. 
-
-**Insert Figure 17 here**
 
 Cuneiform was developed in Mesopotamia 3,500 BC that became the basis of the modern Western alphabet, and the pictograms became the basis of Chinese script. With each succeeding generation, knowledge accumulated, and they were passed on orally, and then, in written form. Industrialization, commerce, science, and technology transformed subsistence economies into industrialized nations. Information technology, democracy and the rule of law protect the rights of individuals in which people enjoy freedom and quality of life that is unparalleled in human history (Kim et al., 2003). 
 
