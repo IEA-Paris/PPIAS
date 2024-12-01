@@ -136,7 +136,15 @@ Please go to Figure 6 and name the color of the letters from the top left corner
 
 ![](/static/figure6.png)
 
-Figure 7: Perception through senses and culture
+Naming the colors is an easy task any child aged three can readily master. However, reading the alphabet and understanding their meaning take many years to learn. Once it is learned, however, it becomes "natural," and we perceive meaning automatically and without awareness. This is the definition of culture. We perceive symbolic reality and meaning through culture. Learning how to read, sing, ride a bicycle, and use a smartphone or computer is a difficult task, but once it is learned, it feels "natural," and becomes an important part of one's mind and the self.
+
+Although we believe that we perceive reality directly and objectively, all perceptions are a reconstruction in our mind. All objects that we see, hear, smell, taste, or touch are not direct and objective representations, but they are electrical signals that are reconstructed in our brain. The way we see, hear, smell, or taste are constructed through our senses. Since we have similar physiological mechanisms, we can come to the same conclusion and consensus. Objectivity is based on the consensus that we reach about what our senses tell us, and they could be verified by others and across cultures.
+
+We also perceive reality through symbols, ideas, and meaning, such as understanding the meaning and ideas through the writing system; this is the basis of culture. (See Figure 7). We can perceive the four separate alphabets "V," "L," "E," "O." However, we can reconstruct them and order the four alphabets in differently to give  "L" "O" "V" "E," we perceive meaning or emotion that is absent from the four separate letters of the alphabet. We can construct reality through our senses, and we can come to a basic agreement; this is the power of the natural sciences. We also construct reality through meaning, and this is the basis of our mind, self, and culture. Stroop effect is an example of how we perceive reality through our senses and meaning. A person can understand the meaning of the symbolic reality only when the person is socialized to learn the language of a particular culture. Once a child learns a language and their meaning, the symbolic representations are automatically processed. Since we perceive our symbolic reality through culture, it feels "natural" for a person who grew up in a particular culture, but alien to those who are brought up in another culture.
+
+**Figure 7: Perception through senses and culture**
+
+![](/static/figure7.png)
 
 Figure 8: Our biological ancestry
 
@@ -245,14 +253,6 @@ Figure 59: Factors influencing happiness and work values: Self-efficacy as the m
 Figure 60: Work values, leadership efficacy, and traditional leadership style
 
 Figure 61: Work values, leadership efficacy, and future-oriented leadership style
-
-Naming the colors is an easy task any child aged three can readily master. However, reading the alphabet and understanding their meaning take many years to learn. Once it is learned, however, it becomes "natural," and we perceive meaning automatically and without awareness. This is the definition of culture. We perceive symbolic reality and meaning through culture. Learning how to read, sing, ride a bicycle, and use a smartphone or computer is a difficult task, but once it is learned, it feels "natural," and becomes an important part of one's mind and the self.
-
-Although we believe that we perceive reality directly and objectively, all perceptions are a reconstruction in our mind. All objects that we see, hear, smell, taste, or touch are not direct and objective representations, but they are electrical signals that are reconstructed in our brain. The way we see, hear, smell, or taste are constructed through our senses. Since we have similar physiological mechanisms, we can come to the same conclusion and consensus. Objectivity is based on the consensus that we reach about what our senses tell us, and they could be verified by others and across cultures.
-
-We also perceive reality through symbols, ideas, and meaning, such as understanding the meaning and ideas through the writing system; this is the basis of culture. (See Figure 7). We can perceive the four separate alphabets "V," "L," "E," "O." However, we can reconstruct them and order the four alphabets in differently to give  "L" "O" "V" "E," we perceive meaning or emotion that is absent from the four separate letters of the alphabet. We can construct reality through our senses, and we can come to a basic agreement; this is the power of the natural sciences. We also construct reality through meaning, and this is the basis of our mind, self, and culture. Stroop effect is an example of how we perceive reality through our senses and meaning. A person can understand the meaning of the symbolic reality only when the person is socialized to learn the language of a particular culture. Once a child learns a language and their meaning, the symbolic representations are automatically processed. Since we perceive our symbolic reality through culture, it feels "natural" for a person who grew up in a particular culture, but alien to those who are brought up in another culture.
-
-**Insert Figure 7 here**
 
 John Culkin points out that "fish did not discover water" since it is a part of their natural environment, and they cannot imagine living without the water. In the same way, a child is born into a particular culture and perceives reality through culture. As such, it is difficult to "discover" one's own culture. Culture is perceived in terms of artifacts or products, such as art, music, customs, beliefs, and values. However, culture is as fundamental as sensory perception in allowing us to perceive reality meaningfully, and provides us with the way to view, understand, communicate, and create reality -; this is the basis of the software of the mind.
 
