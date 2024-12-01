@@ -634,6 +634,22 @@ William James (1842-1910) is considered as the father of American psychology,�
 
 ![](/static/figure39.png)
 
+The more important aspect of the self is the subjective "I." The subjective "I" regulates thoughts, emotions, and behaviors. (See Figure 40). It is reflective and asks questions, such as: Who am I? What is the meaning of life? Am I happy? It is evaluative, such as: Am I a good person? Am I happy? It is directive, goal-directed, and future-oriented. It is integrative and provides a sense of coherence for oneself and creates a sense of identity. What is important is how "I" see "Me" and directs, evaluates, and projects "Me" in the future. For example, when I play piano, the objective "Me" is moving my fingers and feet to create the sounds. However, it is the subjective "I" that listens, evaluates, and strategizes to create beautiful music. The subjective "I" is the software of the mind that directs, evaluates and the objective "Me."
+
+**Figure 40: Understanding the self**
+
+![](/static/figure40.png)
+
+Although the objective "Me" changes throughout one's lifetime in terms of physical appearance, intelligence, personality, and social relationships, the subjective "I" maintains one's self-identity and coherence. (See Figure 41). It is known that adolescents experience an identity crisis during the transition period from childhood to adulthood and it can be experienced during acculturation, with migrants moving into another culture (Kim & Berry, 1986). With a traumatic experience, there can be a fracturing the coherence of "I" and the sense of identity can be disrupted to create mental illness, multiple personality, or schizophrenia. 
+
+**Figure 41: Maintenance of self-identity**
+
+![](/static/figure41.png)
+
+To understand the conception of the self, art can be used since art is a direct expression of a person's experience. Vincent van Gogh (1853-1890) is an excellent example since he drew 32 self-portraits. He did so not because he was vain, but because he was poor, and he could not afford to pay for models. Van Gogh is a Dutch impressionist painter who lived in Paris and drew impressions that are left in his mind rather than drawing what he sees or the ideals of the Classical paintings. (See Figure 42). His paintings are not exact replicas of himself, but the impressions of inner thoughts and feelings that are left in his mind. In June 1888, he drew a painting of a field in France (See Figure 43). 
+
+**Insert 42 and 43 here**
+
 **Figure 40: Understanding the self**
 
 **Figure 41: Maintenance of self-identity**
@@ -677,18 +693,6 @@ William James (1842-1910) is considered as the father of American psychology,�
 **Figure 60: Work values, leadership efficacy, and traditional leadership style**
 
 **Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
-
-The more important aspect of the self is the subjective "I." The subjective "I" regulates thoughts, emotions, and behaviors. (See Figure 40). It is reflective and asks questions, such as: Who am I? What is the meaning of life? Am I happy? It is evaluative, such as: Am I a good person? Am I happy? It is directive, goal-directed, and future-oriented. It is integrative and provides a sense of coherence for oneself and creates a sense of identity. What is important is how "I" see "Me" and directs, evaluates, and projects "Me" in the future. For example, when I play piano, the objective "Me" is moving my fingers and feet to create the sounds. However, it is the subjective "I" that listens, evaluates, and strategizes to create beautiful music. The subjective "I" is the software of the mind that directs, evaluates and the objective "Me."
-
-**Insert Figure 40 here**
-
-Although the objective "Me" changes throughout one's lifetime in terms of physical appearance, intelligence, personality, and social relationships, the subjective "I" maintains one's self-identity and coherence. (See Figure 41). It is known that adolescents experience an identity crisis during the transition period from childhood to adulthood and it can be experienced during acculturation, with migrants moving into another culture (Kim & Berry, 1986). With a traumatic experience, there can be a fracturing the coherence of "I" and the sense of identity can be disrupted to create mental illness, multiple personality, or schizophrenia. 
-
-**Insert Figure 41 here**
-
-To understand the conception of the self, art can be used since art is a direct expression of a person's experience. Vincent van Gogh (1853-1890) is an excellent example since he drew 32 self-portraits. He did so not because he was vain, but because he was poor, and he could not afford to pay for models. Van Gogh is a Dutch impressionist painter who lived in Paris and drew impressions that are left in his mind rather than drawing what he sees or the ideals of the Classical paintings. (See Figure 42). His paintings are not exact replicas of himself, but the impressions of inner thoughts and feelings that are left in his mind. In June 1888, he drew a painting of a field in France (See Figure 43). 
-
-**Insert 42 and 43 here**
 
 One year later, June 1889, he drew his most famous painting, *T\*\*he Starry Night*. It is a different style of painting known as expressionism. (See Figure 44). There is even a song written by Don McLean, entitled Starry, Starry Night. How can his style of painting change so dramatically within one year? In December 1888, he suffered from seizures, hallucinations, and nightmares, and cut of his earlobe. He admitted himself to the Arles Hospital and he was diagnosed with acute mania with generalized delirium.[^15](https://en.wikipedia.org/wiki/Health_of_Vincent_van_Gogh) Figure 44 shows a self-portrait with his ear cut off in December, 1889. (See Figure 45). 
 
