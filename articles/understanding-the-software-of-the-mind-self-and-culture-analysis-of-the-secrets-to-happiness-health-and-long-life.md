@@ -672,36 +672,6 @@ In 1889, he drew a self-portrait that shows the "turbulent patterns signal a fee
 
 ![](/static/figure46.jpg)
 
-**Figure 47: Self and other's perception**
-
-**Figure 48: Relational self**
-
-**Figure 49: Genetic tests of people around the world**
-
-**Figure 50: Human migration based on genetic analysis**
-
-**Figure 51: Korean Gross National Income and birth rate**
-
-**Figure 52: Easterlin Paradox**
-
-**Figure 53: Happiness and life-satisfaction**
-
-**Figure 54: Factor explaining happiness**
-
-**Figure 55: Factors influencing happiness, students**
-
-**Figure 56: Factors influencing happiness, adults**
-
-**Figure 57: Generation and incentive structure**
-
-**Figure 58: Factors influencing trust and happiness**
-
-**Figure 59: Factors influencing happiness and work values: Self-efficacy as the mediator variable**
-
-**Figure 60: Work values, leadership efficacy, and traditional leadership style**
-
-**Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
-
 ### **Socialization and self**
 
 In traditional Korea, socialization emphasizing relatedness starts at the prenatal stage and continues throughout one's life (Kim & Choi, 1994). *T'aekyo*(胎教 "prenatal care") contains rigorous guidelines for pregnant women outlining desirable and undesirable attitudes, emotions, and behaviors during pregnancy. These prescriptive guidelines are based upon a belief that a mother's experience during her pregnancy will affect the baby inside her womb and leave lasting impressions on the child. The goal of *t'aekyo* is to heighten a sense of awareness of the unique psychological and biological bond between the mother and the unborn child. 
@@ -742,7 +712,37 @@ For Koreans, how my mother views me and her expectations are the most important 
 
 > *Do you want and like to study*? No, not really. *Then why do you study*? It is because of my mother. She has high expectations and hopes for me. She sacrifices for me by getting up 5 am in the morning and staying up until 12 midnight to take care of me and so I end up studying 14-16 hours a day. I don't want to study, I don't want to eat kimchi, but she forces me to eat kimchi and study. Now, I love kimchi, I am a good student, and I am thankful. Then I interviewed juvenile delinquents who are on probation or in jail. *Why did you engage in delinquent behavior*? It is because my mother does not love me. She does not care about me. Thus, I am not responsible for my life, I do not care about my life and what I do. 
 
-**Insert Figure 47 here**
+**Figure 47: Self and other's perception**
+
+![](/static/figure47.png)
+
+**Figure 48: Relational self**
+
+**Figure 49: Genetic tests of people around the world**
+
+**Figure 50: Human migration based on genetic analysis**
+
+**Figure 51: Korean Gross National Income and birth rate**
+
+**Figure 52: Easterlin Paradox**
+
+**Figure 53: Happiness and life-satisfaction**
+
+**Figure 54: Factor explaining happiness**
+
+**Figure 55: Factors influencing happiness, students**
+
+**Figure 56: Factors influencing happiness, adults**
+
+**Figure 57: Generation and incentive structure**
+
+**Figure 58: Factors influencing trust and happiness**
+
+**Figure 59: Factors influencing happiness and work values: Self-efficacy as the mediator variable**
+
+**Figure 60: Work values, leadership efficacy, and traditional leadership style**
+
+**Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
 
 In empirical studies of self and academic achievement, parents view their children with love, sacrifice, and hope, and pressure them to achieve (Kim & Park, 2013). However, not every parent is loving and takes care of their children. When children are neglected, rejected, or abused, adolescents do not feel a sense of responsibility for their life, and they morally disengage. In Korea, starting with parents, how other people view "Me" becomes an important aspect of self-identity of how "I" view "Me." 
 
