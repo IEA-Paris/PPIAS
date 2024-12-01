@@ -910,7 +910,7 @@ For adults, resiliency of efficacy has a direct positive effect on happiness (Se
 
 **Figure 56: Factors influencing happiness, adults**
 
-
+![](/static/figure56.png)
 
 **Figure 57: Generation and incentive structure**
 
