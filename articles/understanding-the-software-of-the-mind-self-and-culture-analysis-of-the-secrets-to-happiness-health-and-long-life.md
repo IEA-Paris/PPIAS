@@ -1340,10 +1340,6 @@ Wirth, L. (1946). Preface to K. Manheim, *Ideology and Utopia: An Introduction 
 
 Yamaguchi, S., & Ariizumi, Y. (2006). Close personal relationships among Japanese: Amae as distinguished from attachment and dependence. In, U. Kim, K. S. Yang, & K. K. Hwang (Eds.), *Indigenous and cultural psychology: Understanding people in context* (pp. 163-174). Springer.
 
-## Annex 1
-
-Kim, U. & Kim, J. (2021). Unpublished survey questionnaire. College of Business Administration, Inha University, Korea.
-
 ## Footnotes:
 
 [^1]:
@@ -1381,3 +1377,7 @@ See for instance, Henke & Tattersall (2007), Siegal (2010), and Hüther (2016).
 [^24]:
 
 The European Union passed the Digital Services Act (DSA) that took effect on February 17, 2024. The goal is to protect "consumers and their fundamental rights online by setting clear and proportionate rules. It fosters innovation, growth and competitiveness, and facilitates the scaling up of smaller platforms, SMEs and start-ups. The roles of users, platforms, and public authorities are rebalanced according to European values, placing citizens at the centre." The DSA "regulates online intermediaries and platforms such as marketplaces, social networks, content-sharing platforms, app stores, and online travel and accommodation platforms. Its main goal is to prevent illegal and harmful activities online and the spread of disinformation. It ensures user safety, protects fundamental rights, and creates a fair and open online platform environment." It is the first attempt to systematically regulates online platform and we need to examine if the regulation is effective, whether it will stand the legal challenges, and whether the USA will apply sanctions against EU since the vast majority of the online platforms are dominated by the USA companies. https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act.
+
+## Annex 1
+
+Kim, U. & Kim, J. (2021). Unpublished survey questionnaire. College of Business Administration, Inha University, Korea.
