@@ -268,7 +268,11 @@ Bandura (1997, 2023) conceptualized and measured human agency through self, rela
 
 ![](/static/figure13.png)
 
+By integrating the triadic reciprocal causation and dual causal linkage model of Bandura (1997), Kim (1999) outlines the transactional model of science where human agency becomes a central and explicit part of the scientific model. (See Figure 14). Bandura (1997) has empirically documented the importance of examining the dual causal linkage (between input-agent and agent-output) in explaining behavior. In this model, human agency and self-efficacy can link Observable Input 1 with Observable Output 2. In this model, humans are agents who have access to their inner consciousness, and they can report their intentions, goals, and efficacy beliefs.
+
 **Figure 14: Transactional model of science**
+
+![](/static/figure14.png)
 
 **Figure 15: Cranial capacity of homo sapiens and ape family**
 
@@ -363,10 +367,6 @@ Bandura (1997, 2023) conceptualized and measured human agency through self, rela
 **Figure 60: Work values, leadership efficacy, and traditional leadership style**
 
 **Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
-
-By integrating the triadic reciprocal causation and dual causal linkage model of Bandura (1997), Kim (1999) outlines the transactional model of science where human agency becomes a central and explicit part of the scientific model. (See Figure 14). Bandura (1997) has empirically documented the importance of examining the dual causal linkage (between input-agent and agent-output) in explaining behavior. In this model, human agency and self-efficacy can link Observable Input 1 with Observable Output 2. In this model, humans are agents who have access to their inner consciousness, and they can report their intentions, goals, and efficacy beliefs.
-
-**Insert Figure 14 here**
 
 The dual causal linkage has been systematically analyzed and documented by Bandura (1997). First, it is important to examine how a person perceives and interprets an event (caused by an external factor or by one's own behavior) and their intention to take a course of action (causal linkage 1). This information can be obtained through self-report through self-efficacy. The second step involves assessing the person's performance (causal linkage 2). 
 
