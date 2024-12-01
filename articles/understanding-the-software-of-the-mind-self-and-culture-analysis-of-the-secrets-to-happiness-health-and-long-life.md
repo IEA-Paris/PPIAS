@@ -754,7 +754,7 @@ Genes are found on chromosomes and are made of Deoxyribonucleic acid (DNA), and 
 
 We are born with a particular set of genes, but they do not determine how the genes work and are expressed. Gene expression refers to *when* and *how frequently* the proteins are produced from the instructions of the genes, including when and how frequently they are made. Deans (2015) points out that a particular gene does not define a specific genetic expression, and two identical genes can work differently. They can be turned on or off, like the volume on a mobile phone where the volume can be turned on in different amounts, in different places, and at different times. One trait can be affected by several genes and one gene can affect several traits at the same time. They found that experiences and environmental factors can cause epigenetics, which is the change in how the genes work. Most genetic traits are influenced by the environmental factors and experience (e.g., diet, vitamin D, sea level, where one lives, and the experience of stress). While genetic changes can alter which protein is made, and epigenetics affect the gene expression to turn the genes on or off.
 
-Although the same genes are found in the same brain regions for humans and chimpanzees, they can be turned on or off, up or down, or in different amounts. Even though humans and chimpanzees share 98.8% of the genes, each human cell contains around 3 billion base pairs or bits of information and 1.2 % equals about 35 million differences.[^18](https://www.smithsonianmag.com/science-nature/bonobos-teach-humans-about-nature-language-180975191/) Some differences have a large impact, and others do not, since it can be turned on or off and in different amounts, in different places and at different times.
+Although the same genes are found in the same brain regions for humans and chimpanzees, they can be turned on or off, up or down, or in different amounts. Even though humans and chimpanzees share 98.8% of the genes, each human cell contains around 3 billion base pairs or bits of information and 1.2 % equals about 35 million differences.[^18] Some differences have a large impact, and others do not, since it can be turned on or off and in different amounts, in different places and at different times.
 
 A renowned geneticist Spencer Wells (2002) with the cooperation of National Geographics conducted genetic analysis of people around the world to discover the origins of our ancestry (Wells, 2002; See Figure 49). By examining the mutations in our recessive gene in the Y chromosome, known as the M168 (Haplogroup CT, Y-DNA), he could figure out the origins of human ancestry. He concludes that the ancestry of the Homo sapiens can be traced to a single tribe known as the San people or Bushmen in southern Africa around 60,000 years ago. 
 
@@ -767,28 +767,6 @@ With the effect of the Ice Age, they began to migrate to northern Africa. (See F
 **Figure 50: Human migration based on genetic analysis**
 
 ![](/static/figure50.png)
-
-**Figure 51: Korean Gross National Income and birth rate**
-
-**Figure 52: Easterlin Paradox**
-
-**Figure 53: Happiness and life-satisfaction**
-
-**Figure 54: Factor explaining happiness**
-
-**Figure 55: Factors influencing happiness, students**
-
-**Figure 56: Factors influencing happiness, adults**
-
-**Figure 57: Generation and incentive structure**
-
-**Figure 58: Factors influencing trust and happiness**
-
-**Figure 59: Factors influencing happiness and work values: Self-efficacy as the mediator variable**
-
-**Figure 60: Work values, leadership efficacy, and traditional leadership style**
-
-**Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
 
 Additional research confirm that humans evolved from a single tribe in the African savanna and populated the world, confirming the "Out of Africa" hypothesis (Bräuer, 2007). For this reason, humans share 99.9% of the genes. It makes the concepts of race, a sub-species category, unscientific. The concept of race as developed to justify colonialism and dehumanizing slavery by colonial masters in the 18^th ^century who claimed that Africans and Asian were genetically inferior, with innate intellectual deficits, and as such their subjugation is justified. For example, Francis Galton (1822- 1911) created the field of phrenology that analyzed the structure of the skull to show why Europeans were biologically superior to Africans and Asians, but scientific results refuted his claims. It is continued by proponents of sociobiology and IQ testing.
 
@@ -834,7 +812,29 @@ When Japan surrendered to the USA in 1945, Harry Truman of the USA and Joseph 
 
 On May 16, 1961, general Park Chung-hee led a *coup d'état* and declared martial law. He rejected the American economic and social model and ruled South Korea (abbreviated as Korea) with an iron-fist for the next 20 years (Kim & Kim, 2022). Park emphasized communist containment and economic development as its top priority. Figure 51 provides the economic growth and fertility rate from 1955 to 2021. (See Figure 51). The Korean economy grew to reach GNI of $35,168 in 2021. In 1996, Korea joined the Organization for Economic Cooperation and Development (OECD) and became the first major recipient of the UN Official Development Assistance to become a major donor of $1.7 billion. Korea currently is the 4^th^ largest economy in Asia and the 10^th^ largest in the world. If money can buy happiness, then the rapid economic growth and wealth during the past 70 years should make Koreans one of the happiest people in the world. 
 
-**Insert Figure 51 here**
+**Figure 51: Korean Gross National Income and birth rate**
+
+![](/static/figure51.png)
+
+**Figure 52: Easterlin Paradox**
+
+**Figure 53: Happiness and life-satisfaction**
+
+**Figure 54: Factor explaining happiness**
+
+**Figure 55: Factors influencing happiness, students**
+
+**Figure 56: Factors influencing happiness, adults**
+
+**Figure 57: Generation and incentive structure**
+
+**Figure 58: Factors influencing trust and happiness**
+
+**Figure 59: Factors influencing happiness and work values: Self-efficacy as the mediator variable**
+
+**Figure 60: Work values, leadership efficacy, and traditional leadership style**
+
+**Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
 
 In the preliminary review of the lottery winners in Korea and around the world, the producers have found that more than two-thirds of lottery winners became unhappy after they won a large sum of money. The producers have commented: Many people have won the lottery and fulfilled their lifelong dream. They should be very happy. In Korea, there are more than 100,000 people who became rich by winning the lottery or selling their land, or through investments, and they should be very happy. Farmers who gave up the back-breaking work and became rich by selling their land to the property developers should be happy. Did their lives improve, and did they become happier once they became rich?They interviewed many people for their TV documentary, and they found that money did not buy happiness but misery for the majority of the people:
 
