@@ -180,7 +180,11 @@ Stone tools allow humans to move from being hunted to become hunters. Making, re
 
 ![](/static/figure10.jpg)
 
+Making complex stone tools requires special cognitive skills, but hunting requires more complex cognitive, motor, and social skills. The goal of the hunter is to catch a deer to feed the tribe. (See Figure 11). As the hunter approaches the deer, it hears a sound and runs. The hunter must throw the spear, not where the deer is, but must anticipate where the deer will be, and throw the spear to hit the deer few seconds later. This requires agentic capabilities and self-efficacy to execute a complex set of actions (Bandura, 2023). 
+
 **Figure 11: Hunting**
+
+![](/static/figure11.png)
 
 **Figure 12: Self-efficacy**
 
@@ -281,10 +285,6 @@ Stone tools allow humans to move from being hunted to become hunters. Making, re
 **Figure 60: Work values, leadership efficacy, and traditional leadership style**
 
 **Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
-
-Making complex stone tools requires special cognitive skills, but hunting requires more complex cognitive, motor, and social skills. The goal of the hunter is to catch a deer to feed the tribe. (See Figure 11). As the hunter approaches the deer, it hears a sound and runs. The hunter must throw the spear, not where the deer is, but must anticipate where the deer will be, and throw the spear to hit the deer few seconds later. This requires agentic capabilities and self-efficacy to execute a complex set of actions (Bandura, 2023). 
-
-**Insert Figure 11 here**
 
 Second, *Homo* species developed fully obligate bipedalism or walking upright around 2 million years ago (Harcourt-Smith, 2007). *Homo* species lived in the open African savanna and walking upright provided them with reduced thermal stress. (See Figure 9). Since the body's surface area is less exposed to the sun when walking upright and allowing the breeze to cool the body, it can reduce the heat stress by 60%. It provided them the advantage of travelling longer distances to forage for food and consume less water (Harcourt-Smith, 2007). 
 
