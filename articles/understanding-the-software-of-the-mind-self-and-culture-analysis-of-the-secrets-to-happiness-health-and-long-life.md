@@ -1386,4 +1386,6 @@ The European Union passed the Digital Services Act (DSA) that took effect on Feb
 
 ![](/static/annex3.png)
 
+![](/static/annex4.png)
+
 Kim, U. & Kim, J. (2021). Unpublished survey questionnaire. College of Business Administration, Inha University, Korea.
