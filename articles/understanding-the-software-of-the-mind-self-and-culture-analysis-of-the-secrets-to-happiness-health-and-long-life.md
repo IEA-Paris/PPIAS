@@ -350,7 +350,7 @@ The rise of Western civilization can be traced to the development of Greek philo
 
 The first philosophers were called cosmologists. They believed that the totality of the universe is ordered and sought to explain the origin, structure, and process that govern the universe. The basic question that emerged is how can this be since humans can only be aware of their own experience and mental state? The question was no longer the nature of the universe, but what we know or can know.
 
-Thales [of Miletus](https://en.wikipedia.org/wiki/Thales_of_Miletus "Thales of Miletus") (626-548 BC) is considered the father of Greek philosophy and science. He argued for natural explanations rather than supernatural ones. He articulated that the universe consisted of natural substance, governed by natural principles, and did not reflect the whims of gods. The universe is therefore knowable and within the realm of human understanding. He searched for one basic element called *physis* from which all others are derived. He welcomed critical analysis by inviting his students and colleagues to criticize his ideas and improve them. This is a central difference from religion since religion emphasizes acceptance of religious authorities and belief without questioning. 
+Thales of Miletus (626-548 BC) is considered the father of Greek philosophy and science. He argued for natural explanations rather than supernatural ones. He articulated that the universe consisted of natural substance, governed by natural principles, and did not reflect the whims of gods. The universe is therefore knowable and within the realm of human understanding. He searched for one basic element called *physis* from which all others are derived. He welcomed critical analysis by inviting his students and colleagues to criticize his ideas and improve them. This is a central difference from religion since religion emphasizes acceptance of religious authorities and belief without questioning. 
 
 Heraclitus (around 500 BC) observed that everything in nature seems to be in constant state of change. He questioned how something can be known if it's changing all the time? If something is different at two points in time, are they really the same object? How do we know with certainty that they are the same object? Thus, human senses are questionable in the way we acquire knowledge because they could only provide information about a constantly changing world. Parmenides (around 500 BC) took the exact opposite view by stating that all change was an illusion. There is only one reality. It is final, uniform, motionless, and fixed, and it could be understood only through reason. Knowledge is obtained through rationality because our sensory experience only provides illusion.
 
@@ -444,7 +444,13 @@ René Descartes (1596-1650) was a devout Christian and the father of modern ph
 
 ![](/static/figure25.png)
 
+Descartes was living in a turbulent time with many conflicting ideas, doctrines, and discoveries. His religious beliefs conflicted with his ability to understand mathematics and the natural world outlined by Copernicus and Galileo. He decided to adopt methodological skepticism, or Cartesian doubt, in which he could reject his perception, ideas, beliefs, and religious doctrines. There is, however, one thing he could not doubt or deny with absolute certainty - his existence. This led him to conclude *"je pense, donc je suis"* (*cogito, ergo sums* in Latin, "I think, therefore I am"). 
+
+In the book *Discourse on the Method* (1637), he concluded that the fact that he doubted his existence (cognition), someone must be doing the doubting (the subject) and the ability to doubt provides evidence that he existed. His fundamental question was: "How do I know I exist?" He concluded that it is through rationality and reason that he could verify his existence with certainty. (See Figure 26). Through rationality and reason, he could understand his existence, the mathematical laws, and the scientific discoveries. Descartes concluded that rationality is a gift from God that allowed humans to know and worship God. It is the basis for understanding the self, scientific discoveries, and mathematical truths. 
+
 **Figure 26: Descartes' discovery of self, truth**
+
+![](/static/figure26.png)
 
 **Figure 27: Cartesian duality**
 
@@ -515,14 +521,6 @@ René Descartes (1596-1650) was a devout Christian and the father of modern ph
 **Figure 60: Work values, leadership efficacy, and traditional leadership style**
 
 **Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
-
-**Insert Figure 24 and 25 here**
-
-Descartes was living in a turbulent time with many conflicting ideas, doctrines, and discoveries. His religious beliefs conflicted with his ability to understand mathematics and the natural world outlined by Copernicus and Galileo. He decided to adopt methodological skepticism, or Cartesian doubt, in which he could reject his perception, ideas, beliefs, and religious doctrines. There is, however, one thing he could not doubt or deny with absolute certainty - his existence. This led him to conclude *"je pense, donc je suis"* (*cogito, ergo sums* in Latin, "I think, therefore I am"). 
-
-In the book *Discourse on the Method* (1637), he concluded that the fact that he doubted his existence (cognition), someone must be doing the doubting (the subject) and the ability to doubt provides evidence that he existed. His fundamental question was: "How do I know I exist?" He concluded that it is through rationality and reason that he could verify his existence with certainty. (See Figure 26). Through rationality and reason, he could understand his existence, the mathematical laws, and the scientific discoveries. Descartes concluded that rationality is a gift from God that allowed humans to know and worship God. It is the basis for understanding the self, scientific discoveries, and mathematical truths. 
-
-**Insert Figure 26 here**
 
 Rationality is what separates humans from animals. Our body is controlled by natural instincts, as evidenced by the reflex arc, which is beyond our conscious control. In contrast, rationality allows us to accept God, one's existence, and the mathematical and scientific laws. This became known as the Cartesian dualism, the separation and the duality of the mind and body: "We can clearly perceive a substance apart from the mode which we say differs from it, whereas we cannot, conversely, understand the mode apart from the substance" (Cunning, 2014, p. 278). For Descartes, the substance represents the hardware, or the body, and the mode refers to the software of the mind; they are separate but connected. 
 
