@@ -126,7 +126,121 @@ A famous poet Gertrude Stein stated poetically that "a rose is a rose, is a rose
 
 Figure 5 is an example of the Stroop effect in which the *written* word is different from the *color* of the written word. (See Figure 5). If you read the word in the top left corner it is written as **Red**, but the color of the letters is blue. The second word on the next row is written as **Blue**, but in red coloring. If you go down from the top left row and say out loud the ***color*** of the letters in each row, how well do you do? It is a simple exercise that any three-year-old child can do easily without any mistake: Blue, Red, Green, Black, Yellow, Brown, Green, Pink. When you try to name the color while ignoring the written words, it interferes and creates a problem in naming the color.
 
-**Insert Figure 5 here**
+**Figure 5: Example of the Stroop effect, English**
+
+![](/static/figure5.png)
+
+Figure 6: Example of the Stroop effect, Korean 
+
+Figure 7: Perception through senses and culture
+
+Figure 8: Our biological ancestry
+
+Figure 9: Ecological context
+
+Figure 10: Bonobo monkey Kanzi
+
+Figure 11: Hunting
+
+Figure 12: Self-efficacy
+
+Figure 13: Self-efficacy and social influence
+
+Figure 14: Transactional model of science
+
+Figure 15: Cranial capacity of homo sapiens and ape family
+
+Figure 16: Lion-man, cave drawing and bone flute
+
+Figure 17: Early writing systems
+
+Figure 18: Making a cup
+
+Figure 19: Regional and cultural variations
+
+Figure 20: Jacquard Loom and early IBM computer
+
+Figure 21: Aristotelian universe
+
+Figure 22: God at the center
+
+Figure 23: Mona Lisa at the center
+
+Figure 24: Cartesian coordinate system
+
+Figure 25: Knee jerk reflex
+
+Figure 26: Descartes' discovery of self, truth
+
+Figure 27: Cartesian duality
+
+Figure 28: Cartesian duality               
+
+Figure 29: Shades of grey
+
+Figure 30: Traditional Korean landscape painting
+
+Figure 31: Rice planting
+
+Figure 32: Confucian philosophy
+
+Figure 33: Paying respect to ancestors in front of the grave
+
+Figure 34:  Bowing to parents
+
+Figure 35: Grandparents represent the past, and children represent the future
+
+Figure 36: Contextualization of culture and philosophy
+
+Figure 37: Culture and cultural change
+
+Figure 38: Facets of culture
+
+Figure 39: Aspects of the self
+
+Figure 40: Understanding the self
+
+Figure 41: Maintenance of self-identity
+
+Figure 42: Vincent van Gogh
+
+Figure 43: Van Gogh, June 1888
+
+Figure 44: Starry Night, June 1889
+
+Figure 45: Vincent van Gogh, December 1888
+
+Figure 46: Vincent van Gogh, 1889
+
+Figure 47: Self and other's perception
+
+Figure 48: Relational self
+
+Figure 49: Genetic tests of people around the world
+
+Figure 50: Human migration based on genetic analysis
+
+Figure 51: Korean Gross National Income and birth rate
+
+Figure 52: Easterlin Paradox
+
+Figure 53: Happiness and life-satisfaction
+
+Figure 54: Factor explaining happiness
+
+Figure 55: Factors influencing happiness, students
+
+Figure 56: Factors influencing happiness, adults
+
+Figure 57: Generation and incentive structure
+
+Figure 58: Factors influencing trust and happiness
+
+Figure 59: Factors influencing happiness and work values: Self-efficacy as the mediator variable
+
+Figure 60: Work values, leadership efficacy, and traditional leadership style
+
+Figure 61: Work values, leadership efficacy, and future-oriented leadership style
 
 Please go to Figure 6 and name the color of the letters from the top left corner and go down each row. (See Figure 6). You will not have any difficulties naming them as: Blue, Red, Brown, Pink, Yellow, Red. Figure 6 is not a problem if you do not know how to read Korean. However, if I ask native Koreans to name the color of the letters in Korean, they have difficulties. 
 
