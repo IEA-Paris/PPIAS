@@ -1380,6 +1380,8 @@ The European Union passed the Digital Services Act (DSA) that took effect on Feb
 
 ## Annex 1
 
+**Scales used for empirical studies: Self-efficacy, leadership efficacy, social and online support, happiness, and work values** 
+
 ![](/static/annex1.png)
 
 ![](/static/annex2.png)
@@ -1387,5 +1389,7 @@ The European Union passed the Digital Services Act (DSA) that took effect on Feb
 ![](/static/annex3.png)
 
 ![](/static/annex4.png)
+
+![](/static/annex5.png)
 
 Kim, U. & Kim, J. (2021). Unpublished survey questionnaire. College of Business Administration, Inha University, Korea.
