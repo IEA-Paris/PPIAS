@@ -96,7 +96,129 @@ To illustrate the importance of assumptions and phenomenology in perceiving real
 
 In Figure 1, what do you see. (See Figure 1)? Do you see two men in white facing or one another, or do you see a black vase at the center? There can be only one objective reality, but we see two different things. What is the correct answer - a black vase in the center, or two people in white facing one another? The correct answer is that both perceptions are correct, but we have two different assumptions, and we are not aware of them. In Figure 1, if you tell yourself that white is the background and it is far away, then you will see a black vase in the center. Now, if you tell yourself that black is the background and it is far away, then you will see two men in white facing one another. Once we share the same assumption of what the background and figure is, then we see the same thing. Figure 1 is an example of the figure-ground relationship of perceiving the 2-dimensional figure in the 3-dimension space without our awareness. Although Figure 1 is considered to be an optical illusion, it is an example of the figure-ground relationship that we assume and perceive automatically and without awareness.
 
-**Insert Figure 1 here**
+**Figure 1: Black vase or two me in white?**
+
+
+
+Figure 2: Which orange circle is larger?
+
+Figure 3: Which orange circle is larger?
+
+Figure 4: Three ovals and a trapezoid
+
+Figure 5: Example of the Stroop effect, English
+
+Figure 6: Example of the Stroop effect, Korean 
+
+Figure 7: Perception through senses and culture
+
+Figure 8: Our biological ancestry
+
+Figure 9: Ecological context
+
+Figure 10: Bonobo monkey Kanzi
+
+Figure 11: Hunting
+
+Figure 12: Self-efficacy
+
+Figure 13: Self-efficacy and social influence
+
+Figure 14: Transactional model of science
+
+Figure 15: Cranial capacity of homo sapiens and ape family
+
+Figure 16: Lion-man, cave drawing and bone flute
+
+Figure 17: Early writing systems
+
+Figure 18: Making a cup
+
+Figure 19: Regional and cultural variations
+
+Figure 20: Jacquard Loom and early IBM computer
+
+Figure 21: Aristotelian universe
+
+Figure 22: God at the center
+
+Figure 23: Mona Lisa at the center
+
+Figure 24: Cartesian coordinate system
+
+Figure 25: Knee jerk reflex
+
+Figure 26: Descartes' discovery of self, truth
+
+Figure 27: Cartesian duality
+
+Figure 28: Cartesian duality               
+
+Figure 29: Shades of grey
+
+Figure 30: Traditional Korean landscape painting
+
+Figure 31: Rice planting
+
+Figure 32: Confucian philosophy
+
+Figure 33: Paying respect to ancestors in front of the grave
+
+Figure 34:  Bowing to parents
+
+Figure 35: Grandparents represent the past, and children represent the future
+
+Figure 36: Contextualization of culture and philosophy
+
+Figure 37: Culture and cultural change
+
+Figure 38: Facets of culture
+
+Figure 39: Aspects of the self
+
+Figure 40: Understanding the self
+
+Figure 41: Maintenance of self-identity
+
+Figure 42: Vincent van Gogh
+
+Figure 43: Van Gogh, June 1888
+
+Figure 44: Starry Night, June 1889
+
+Figure 45: Vincent van Gogh, December 1888
+
+Figure 46: Vincent van Gogh, 1889
+
+Figure 47: Self and other's perception
+
+Figure 48: Relational self
+
+Figure 49: Genetic tests of people around the world
+
+Figure 50: Human migration based on genetic analysis
+
+Figure 51: Korean Gross National Income and birth rate
+
+Figure 52: Easterlin Paradox
+
+Figure 53: Happiness and life-satisfaction
+
+Figure 54: Factor explaining happiness
+
+Figure 55: Factors influencing happiness, students
+
+Figure 56: Factors influencing happiness, adults
+
+Figure 57: Generation and incentive structure
+
+Figure 58: Factors influencing trust and happiness
+
+Figure 59: Factors influencing happiness and work values: Self-efficacy as the mediator variable
+
+Figure 60: Work values, leadership efficacy, and traditional leadership style
+
+Figure 61: Work values, leadership efficacy, and future-oriented leadership style
 
 The basic problem with our perception is that we perceive reality without being aware of our assumptions. We use our mind to perceive reality, and we are not aware how we do it - the same way that we are not aware of our eyes when we use them to see. 
 
@@ -710,9 +832,9 @@ Of those who were content and happy with their lives after winning the windfall 
 
 One middle-class family received a relatively small amount of $10,000. Since it was not enough to meet all the wishes of the family members, they had a family meeting and decided to donate the money to the less fortunate. They had a comfortable life and decided together that it is more meaningful to donate the money to the less fortunate. The act of winning and donating the money brought the family closer together and made them happy. This is a rare case, but it is important to point out that the most important aspect of money is how you make it and spend it.
 
-**World Happiness Survey**
+### **World Happiness Survey**
 
-The results from the World Happiness Survey found that Korea is ranked 57^th^ among the 150 participating countries with the mean score of 5.951 on a 11-point Cantril Self-Anchoring Scale (from 0-10), which is much lower than the OECD average of 6.7.[^^\[19]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftn19) This is down from the rank of 41^st^ with the mean score of 6.267 in 2013. For the past 10 years, the mean score has been below 6.0. It is much lower than their close cultural and economic counterpart Taiwan, which is ranked 27^th^ with the mean score of 6.535. The Korean score has not changed in the past 10 years even though the economy has been growing. If Korea is the 10^th^ largest economy in the world, why are Koreans not as happy as neighboring Taiwan and other economically developed countries?
+The results from the World Happiness Survey found that Korea is ranked 57^th^ among the 150 participating countries with the mean score of 5.951 on a 11-point Cantril Self-Anchoring Scale (from 0-10), which is much lower than the OECD average of 6.7.[^19] This is down from the rank of 41^st^ with the mean score of 6.267 in 2013. For the past 10 years, the mean score has been below 6.0. It is much lower than their close cultural and economic counterpart Taiwan, which is ranked 27^th^ with the mean score of 6.535. The Korean score has not changed in the past 10 years even though the economy has been growing. If Korea is the 10^th^ largest economy in the world, why are Koreans not as happy as neighboring Taiwan and other economically developed countries?
 
 We need to examine the basic assumptions about the relationship between economic development, income, and happiness. The Korean economic and political system that propelled rapid economic growth also created the social problems and the destruction of Korean families and relationships, the same way that winning a lottery can change people's mindset, lifestyle, and relationships. 
 
@@ -722,7 +844,7 @@ According to Statistics Korea (2022), they found that more than 800,000 or 38
 
 A survey of 34,147 adults in 2019 indicates that only 22% believe that they can move up the socio-economic ladder, down from 38% in 2009 (Statistics Korea, 2019, 2022). In 2009, 48% of Koreans believed that their children would have a better life, but declined to 29% in 2019. These results are consistent with the report by Chetty et al. (2008) who found that 92% of people born in the 1940s had higher incomes than their parents, but currently only 50% will have a higher income than their parents. They conclude that it is the first time in the history of industrialization, where young adults will have a lower income than their parents. In Korea, the unemployment rate has risen to 4.4% and three times higher at 12% for the Gen Z. Does this mean that the Gen Zs who face a bleak economic future will be miserable and much less happy than their parents? This would be the case if we focus on income, but if we focus on their experiences, relationships, and self-efficacy, then we obtain a different set of results.
 
-**Income, life-satisfaction, and happiness**
+### **Income, life-satisfaction, and happiness**
 
 Richard Easterlin is the first economist who linked and analyzed economic growth to happiness. Easterlin (2003) points out that economic theories have traditionally focused on income and national wealth as predictors of happiness and well-being. In 1974, he conducted a study linking economic development with happiness. Using the Cantril Self Anchoring Scale, rating from 0 to 11, he asked: "All things considered, how satisfied are you with your life as a whole these days?" He obtained data in 37 countries: Developed=17, Developing =9, Underdeveloped=11. In the cross-national comparisons, he found that as income increases, happiness both within and across nations increases, but the curve peaks and flattens. (See Figure 52). He found that happiness increases until the per capita GNP reaches $17,000, then it peaks, and income does not significantly increase happiness from that point (Easterlin et al., 2010). This became known as the Easterlin Paradox. He points out that happiness at the national level does not increase with wealth once the basic needs are met.
 
@@ -750,7 +872,7 @@ Life satisfaction and happiness are very different concepts since the memory of
 
 Will success lead to happiness and can money buy happiness? There is a difference between individual-centered cultures and relationship-centered cultures. Korean culture places more importance on relationships and social evaluations: What my mother thinks of me and how she evaluates my behavior, me as a person is often more important than how I evaluate myself (Kim & Park, 2013). Koreans are much more sensitive to social standards, comparison, and pressure that can make them feel inferior and less valued or they can feel superior to others based on how their mother or others view them. (See Figure 47). This may explain why Koreans score low on happiness.
 
-**Harvard Study of Adult Development**
+### **Harvard Study of Adult Development**
 
 Harvard Study of Adult Development tracked the health of 268 Harvard men starting from 1938 for 85 years. They supplemented the sample with data from their children and spouse and 456 Boston low-income residents. They recorded and analyzed life experiences, income, personality, IQ, health and medical records, DNA and MRI scans of the brain and found a very surprising pattern of results. Waldinger and Shulz (2023) note that existing assumptions and theories emphasize success, income, wealth, genetics, intelligence, and personality will be the most important predictors of happiness, health, and longevity. However, they found that maintaining good relationships is the best predictor of happiness, health, and longevity. Money can get rid of problems, financial stress, and unhappiness, but it cannot buy happiness. The secret to happiness, health and long life is maintaining good relationships throughout one's life. 
 
@@ -764,7 +886,7 @@ In the longitudinal study of 678 Catholic sisters, aged 75-104, from 1986 of 678
 
 This may explain why Nordic countries have had the highest scores on the World Happiness Report for the past 10 years. In 2023, Finland had the highest score, followed by Denmark, Sweden is ranked 6^th^ and Norway is ranked 7^th^. Helgesen and Kim (2002) have found, in a national survey in Nordic countries (i.e., Finland, Denmark, and Sweden) and East Asia (i.e., Japan, Korea and China), Nordic respondents support vibrant communities and close family relations, support for individual rights and freedom of expression, and generalized trust. They reject excessive individualism, competition, and inequality in income and wealth. They had a much higher life satisfaction than their East Asian counterpart which focused on economic development. These results point to the importance of questioning the basic assumption about the secrets to happiness, health, and long life.
 
-**Empirical study: Can money buy happiness?**
+### **Empirical study: Can money buy happiness?**
 
 To answer the question on whether money buys happiness, we convinced the SBS TV producers to collect data to find out what makes people happy in Korea. A total of 318 adolescents, adults and elderly living in low, middle, and high-income neighborhoods were recruited and interviewed by the staff of SBS. The mean age of adolescents is 17, 36 for adults, and 73 for the elderly. They completed a 15-item happiness scale developed by Kim and Park (2005) evaluating how happy they are in various aspects of their lives: personal achievement, family, social relationship, and health. Resiliency of efficacy developed by Bandura (1995), emotional support developed by the authors, and background and demographic information were obtained. See Appendix 1 for the list of self-efficacy, social support, and happiness scales.
 
@@ -784,7 +906,7 @@ These results indicate that resiliency of efficacy and emotional support are imp
 
 Results indicate that resiliency of efficacy is an important predictor of happiness across the three generations, especially for the elderly. Emotional support is an important predictor of happiness across the three generations, especially for adolescents and adults. Socio-economic status is important for the adults and elderly and income is important for the elderly. Money becomes important when the elderly are retired, and they need to rely on their life savings or their children for financial support. These results indicate that money can influence somewhat, but it cannot buy happiness. It explains only 1.5% of the variance for the elderly and has an indirect influence through socio-economic status for adults (1.5%) and the elderly (16.1%). Overall, emotional support and resiliency of efficacy are the most important predictors of happiness explaining nearly 50% of the variance for the three generations. 
 
-**Empirical studies of life-satisfaction**
+### **Empirical studies of life-satisfaction**
 
 Kim and Park (2006) and Park and Kim (2014) reviewed over 20 years of empirical research in Korea examining factors that influence the quality of life and subjective well-being and found several distinctive patterns. First, in the self-report qualitative survey, we found that people believe that income was important as the basic resource for improving the quality of life, followed by good interpersonal relationships, emotional support, self-efficacy and self-regulation, academic achievement, and physical health. In a qualitative study of factors that improve the quality of life, a total of 3,406 participants (1,331 adolescents and their mother and father=2,075) completed an open-ended questionnaire asking about the factors that can improve their quality of life. They similarly report financial factors (23%), followed by self-regulation (22%) as the most important factors, then by leisure activities (14.5%), harmonious family (13.6%), good interpersonal relationships (8.1%), health (7.0%) and academic achievement (6.6%). These results confirm the previous studies in which people believe that income is the most important factor that increase their quality of life and life-satisfaction. 
 
@@ -794,7 +916,7 @@ A similar pattern was obtained for elementary school students (Park & Kim, 2014)
 
 The series of empirical results reviewed by Kim and Park (2006) and Park and Kim (2014) point to the importance of understanding the mechanism and factors predicting life-satisfaction. People with high self-efficacy have higher life-satisfaction and subjective well-being. People who believe that they have control over their life through personal, proxy and collective control and receive social support from significant others are more likely to feel satisfied and happy.
 
-**XI. The New Generation: The Gen Z**
+## **XI. The New Generation: The Gen Z**
 
 The Gen Zs are the most educated, globally connected and environmentally conscious generation. They grew up during the digital revolution and the use of PC, smartphone and social media have become a central part of their lives. Beyond their immediate friends and family, they interact with the online community members to obtain information, receive feedback, develop new skills, and learn about hobbies and career opportunities. They learn and share information about stock investment and real estate market through the online community and social media. They spend more time online than consuming traditional media and obtain specialized information from various online channels and influencers, who provide detailed information about products, services and skills that fits their values and lifestyle.
 
@@ -806,13 +928,13 @@ Compared to their grandparents and parents, the Gen Zs are more willing to commi
 
 Deloitte (2021) concludes that digital platforms are fundamentally changing the highly educated, mobile, and socially connected Gen Zs. They are looking into the future to tackle climate change, social inequality and discrimination with optimism and high efficacy. They do not simply wait for changes, but actively participate and innovate. They want to work in organizations with "purpose beyond profit" and pursue values and ethics. This is a positive understanding of Gen Zs, which contrasts with negative reports in the traditional media. Deloitte (2021) concludes that Gen Zs want a healthier planet, a fairer, just system and a kinder humanity. They use online platforms and social media to share their views, influence global issues from a distance, and to question established authority.
 
-**Gen Zs in Korea**
+### **Gen Zs in Korea**
 
 The phenomenal economic growth in Korea has been spurred by educational achievements. The economic miracle in Korea is closely tied to the educational aspiration and investment made by adolescents and parents. By 1983, Korea had the highest percentage of adolescents wishing to obtain a university degree and the number of parents who wanted their children to at least graduate from university (Park & Kim, 2004). Currently, the literacy rate is 99%, high school graduation rate is 96% and university enrollment rate is 72%.
 
-In international studies of academic achievement, Korean students are ranked at the top in knowledge and performance. In international comparisons of math and science achievement, Koreans students are the top achievers (National Center for Educational Statistics, 2019).[^^\[20]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftn20) In the 39-nation study of Grade 4 and 8 students, Korean Grade 4 students are ranked 3^rd^ in mathematics and 2^nd^ in science.[^^\[21]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftn21) For Grade 8 students, they came in 3^rd^ in mathematics and 4^th^ in science. In the 31-nation OECD study of Grade 9 students in 2018, Korean students are ranked in the top tier: 2^nd^ to 7^th^ in reading, 1^st^ to 4^th^ in mathematics, and 3^rd^ to 5^th^ in science.
+In international studies of academic achievement, Korean students are ranked at the top in knowledge and performance. In international comparisons of math and science achievement, Koreans students are the top achievers (National Center for Educational Statistics, 2019).[^20] In the 39-nation study of Grade 4 and 8 students, Korean Grade 4 students are ranked 3^rd^ in mathematics and 2^nd^ in science.[^21]r Grade 8 students, they came in 3^rd^ in mathematics and 4^th^ in science. In the 31-nation OECD study of Grade 9 students in 2018, Korean students are ranked in the top tier: 2^nd^ to 7^th^ in reading, 1^st^ to 4^th^ in mathematics, and 3^rd^ to 5^th^ in science.
 
-According to the traditional Korean media, Gen Zs are individualistic, assertive, and viewed as selfish.[^^\[22]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftn22)They raise their voice to express their opinion and pursue personal happiness rather than sacrificing for the family or group. They are highly mobile and prefer to receive instant information and results. They are active in self-expression using social media, boasting in their personal blog or Facebook and focused on self-satisfaction. They have easy access to information, and they can actively explore their interests in various fields, prepare for employment, and share information and receive feedback.
+According to the traditional Korean media, Gen Zs are individualistic, assertive, and viewed as selfish.[^22] They raise their voice to express their opinion and pursue personal happiness rather than sacrificing for the family or group. They are highly mobile and prefer to receive instant information and results. They are active in self-expression using social media, boasting in their personal blog or Facebook and focused on self-satisfaction. They have easy access to information, and they can actively explore their interests in various fields, prepare for employment, and share information and receive feedback.
 
 By forming and activating an online community, they share information and build friendships by belonging to several online communities that fit their interests. They value experience over possession by participating in one-day classes and going on a weekend holiday. The virtual world has become as important as the physical world. Online friends have become an important source of social support in obtaining information about social trends, finding a job, and developing skills that are necessary to succeed. They have greater diversity of relationships and career choices that they pursue. The social support received from the online community is becoming important for Gen Zs. 
 
@@ -824,7 +946,7 @@ Korean economy, which is export-driven and manufacturing-based, faces fierce com
 
 Due to the high cost of living, housing, and low income, the Gen Zs are living with their parents beyond the age of 30 or alone, but they can expand their social network through online channels. Instead of working for a large company and making sacrifices for unattainable financial security, they focus on experiences that can make them happy by engaging in personally meaningful activities, developing their interests and skills, and finding a job that is aligned with their personal values. As the most educated generation, they reject the pre-determined lifestyles of their parents' generation, which lacks meaning and purpose for them.
 
-In Korea, morality and ethics change depending on situations and relationship (Kim, 1995). As such generalized trust is low and institutions do not function well compared to Scandinavian countries (Kim et al., 2002, 2006). Gen Zs have internalized ethical standards, and they are acting beyond the situations and relationships. One example is the boycotting of Uniqlo, a popular Japanese fast retailing company.[^^\[23]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftn23) Three years ago, Uniqlo's Chief Financial Officer mocked wartime forced laborers and stated that "the boycott will not last long in Korea." Uniqlo became the target of the boycott among Gen Zs which had immediate impact. Sales plummeted and 40 stores closed last year, and they have not recovered.
+In Korea, morality and ethics change depending on situations and relationship (Kim, 1995). As such generalized trust is low and institutions do not function well compared to Scandinavian countries (Kim et al., 2002, 2006). Gen Zs have internalized ethical standards, and they are acting beyond the situations and relationships. One example is the boycotting of Uniqlo, a popular Japanese fast retailing company.[^23] Three years ago, Uniqlo's Chief Financial Officer mocked wartime forced laborers and stated that "the boycott will not last long in Korea." Uniqlo became the target of the boycott among Gen Zs which had immediate impact. Sales plummeted and 40 stores closed last year, and they have not recovered.
 
 To empirically test the changing trends among Gen Zs, two studies have been conducted. (See Appendix 1). The first study collected survey questionnaires from 353 Gen Zs attending a Korean university (J. Kim, 2024). The results indicate that Gen Zs realize that the incentive structure has changed, and they can't live like their parents, and they do not want to sacrifice happiness for success. They are pursuing both success and happiness by learning new knowledge and skills obtained from online communities and influencers. They are breaking away from traditional ingroup mentality ("arms bend inward") by developing the necessary English and social skills. They are engaging in online communities and meeting people with similar interests, ethics, and life goals. For Gen Zs, it is not to reject the relationship that is important in Korean culture, but to expand the relationship through the online community ("stretch your arms outward"). The results provide a window to understanding mindset, perspective, and lifestyle that the older generations have difficulty accepting. 
 
@@ -866,9 +988,9 @@ Gen Zs have been depicted as selfish, materialistic, and with no plans for the 
 
 The established disciplines and the older generation have the power to define and thus they have the power to control. If they are correct by accepting the theories of Adam Smith and Milton Friedman, we should be living in a wonderful world of profit and high income where everyone is happy and live in a functional society. However, this is just a fairy tale for Gen Zs. Currently, data has been collected using the scales developed by Kim and Kim (2021) with different ethnic groups in Indonesia, Malaysia, and India to find out patterns that influence happiness, subjective well-being, stress, depression, work values, and leadership style. 
 
-**XII. Conclusion**
+## **XII. Conclusion**
 
-       When we enter the court of law, we are asked to swear to "tell the truth, the whole truth, and nothing but the truth." However, does anyone know "the truth, the whole truth, and nothing but the truth"? They can only tell what they know. Is what we know "the truth, the whole truth, and nothing but the truth?" Is rationality the best way to know the truth? How do we know that rationality can lead us to the truth, or we can rationalize our decisions to shape and distort knowledge to fit our belief, values, and bias?
+When we enter the court of law, we are asked to swear to "tell the truth, the whole truth, and nothing but the truth." However, does anyone know "the truth, the whole truth, and nothing but the truth"? They can only tell what they know. Is what we know "the truth, the whole truth, and nothing but the truth?" Is rationality the best way to know the truth? How do we know that rationality can lead us to the truth, or we can rationalize our decisions to shape and distort knowledge to fit our belief, values, and bias?
 
 Socrates teaches us to raise basic questions and to seek knowledge through critical analysis and open discussion. Confucius asks us to understand the nature of knowledge through self-cultivation and open dialogue. Since all knowledge is reconstructed through our senses or through cultures, it is important to examine the basic assumption behind the ideas that we have created through religion, philosophy and science and socital institutions that have been established based on the knowledge. 
 
@@ -888,9 +1010,9 @@ Around 10,00 years ago domestication, farming, pottery making, and the creation 
 
 With the surplus of food and commerce, trade became possible. Marco Polo traveled through the Silk Road, and Europeans were able to connect with the Middle East, Central Asia, India, and China. Material and technological knowledge from Asia and the Middle East transformed Europe, and the absolute power of the Catholic Church to define and control became challenged with the emergence of the Renaissance and the Age of Reason. With the separation of the Church and state, sciences flourished. The knowledge of the natural world through the development of physics, chemistry, and biology helped to fuel the First, Second, and Third Industrial Revolutions. From the latter part of the 20^th^ century, the advances in Information Technology allowed us to enter the Fourth Industrial Revolution through the developments in AI, Big Data, Blockchain, Internet of Things, robotics, autonomous driving, quantum computing, and biotechnology.
 
-      With the desire to know, understand, and explain our reality through the sciences, the separation of the knower from the known and objectivity were emphasized. However, unless there is the knower, how can reality be known and organize what we know as knowledge. Unless there is the "I," how can the "Me," and the physical world be known? Unless I step outside of my culture, how can I discover and understand my own culture? 
+With the desire to know, understand, and explain our reality through the sciences, the separation of the knower from the known and objectivity were emphasized. However, unless there is the knower, how can reality be known and organize what we know as knowledge. Unless there is the "I," how can the "Me," and the physical world be known? Unless I step outside of my culture, how can I discover and understand my own culture? 
 
-      First, we need to examine the assumptions that we can objectively understand and explain the natural and human world. By accepting objectivity in science, we are denying how science is conducted. Secondly, viewing human beings as an object of research is to deny the very essence of humanity. Without understanding the software of the mind that includes a theory of consciousness, agency, rationality, empathy, relationships, social responsibility, and culture, we are denying the very essence of what it means to be human. 
+First, we need to examine the assumptions that we can objectively understand and explain the natural and human world. By accepting objectivity in science, we are denying how science is conducted. Secondly, viewing human beings as an object of research is to deny the very essence of humanity. Without understanding the software of the mind that includes a theory of consciousness, agency, rationality, empathy, relationships, social responsibility, and culture, we are denying the very essence of what it means to be human. 
 
 Without the inclusion of human consciousness, agency, and purpose, how could Socrates ask to "know thyself"? To this question, how could Descartes answer *je pense, donc je suis* ("I think, therefore I am")? How could Newton discover the Law of Gravitational Attraction after seeing an apple fall to the ground? How could Einstein believe that "God shall not play dice with the world" and discover the Theory of Relativity? What would have been the biological instinct that drove Charles Darwin to travel around the world to discover his Theory of Evolution? If sex and violence are the basic unconscious motivation, how could Sigmund Freud explain his own behavior in searching for the basis of human existence? 
 
@@ -916,11 +1038,11 @@ Bandura (1977, 2016, 2023) has clearly shown that human beings are agents of 
 
 There is a quiet revolution brewing in the world that is transforming the way we think, feel, relate to others, and live. The digital revolution has created an augmented reality driven by the development of the online platform that supports smartphone, social media, e-commerce, and the GPS navigation system. The online platforms allow people to choose the information and news they want to consume, interact with a select few like-minded people, learn from influencers on social media, and create online communities to share their views and personal experiences. This trend accelerated during the COVID-19, where people were locked down, practiced social distancing, and avoided person-to-person interactions. It accelerated the consumption culture through shopping online, using e-commerce and delivery services, sharing information through instant messaging and social media, obtaining content through streaming, and meeting people through virtual meetings and web-conferences. 
 
-The digital revolution created a new platform where information can be created, shared, and consumed freely bypassing government regulations. People have access to a vast amount of information, news, and content from diverse sources. They are allowing information to flourish through these platforms that remain largely unregulated. Human life has always been regulated through nature and society through laws, regulations, and norms (Lahlou, 2017). For the first time in history, we are bypassing ecology and society to allow few large IT companies to create online platforms and allow many people and groups the power to define and the power to control without considering the ethical, moral, and social implications.[^^\[24]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftn24)  
+The digital revolution created a new platform where information can be created, shared, and consumed freely bypassing government regulations. People have access to a vast amount of information, news, and content from diverse sources. They are allowing information to flourish through these platforms that remain largely unregulated. Human life has always been regulated through nature and society through laws, regulations, and norms (Lahlou, 2017). For the first time in history, we are bypassing ecology and society to allow few large IT companies to create online platforms and allow many people and groups the power to define and the power to control without considering the ethical, moral, and social implications.[^24]  
 
 For the first time in history, people and especially Gen Zs, are obtaining information, news, and content from streaming services rather than the traditional community and linear media. Brown (1986) reviews research on social influence and found that people seek information and news that confirm and verify their current beliefs and prefer to associate with a group of liked-minded people. In such a community, a person who articulates a more extreme view has more influence on the group members. This creates a risky shift and extremism since people are attracted to views that are more extreme than their current view. They become more extreme when they discuss their views with their group members (Brown, 1986). With the access to unregulated online channels, there is growing extremism, popularism, and fragmentation that entrench and justify their existing views and have spurred the consumption of fake news, populism, and conspiracy theories. 
 
-With the digital revolution, individuals spend more time online and become absorbed in their micro-worlds, avoiding person-to-person contacts. People can choose to select the information that confirms their views, to interact with like-minded people, and to reject a balanced view and tolerance that are necessary for a functional society. Smartphones, internet, and cloud computing allow people to access information and connect to AI and augmented reality 24 hours a day and 7-days a week. The smartphone has now become an essential device where people are willing to give up food for a day rather than part with their smartphone. It has become a new baby-sitter where infants stare at the screen for hours and learn to use these devices before they can walk or talk. Generative AI can create reports, paintings, and photos using AI computer generated algorithms so that we do not have to think and use our brain. These phenomena concerned Einstein many years ago, who lamented in 1946 that "I believe that the abominable deterioration of ethical standards stems primarily from the mechanization and depersonalization of our lives - a disastrous byproduct of science and technology. *Nostra culpa*! (We are to blame!)."[^^\[25]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftn25)
+With the digital revolution, individuals spend more time online and become absorbed in their micro-worlds, avoiding person-to-person contacts. People can choose to select the information that confirms their views, to interact with like-minded people, and to reject a balanced view and tolerance that are necessary for a functional society. Smartphones, internet, and cloud computing allow people to access information and connect to AI and augmented reality 24 hours a day and 7-days a week. The smartphone has now become an essential device where people are willing to give up food for a day rather than part with their smartphone. It has become a new baby-sitter where infants stare at the screen for hours and learn to use these devices before they can walk or talk. Generative AI can create reports, paintings, and photos using AI computer generated algorithms so that we do not have to think and use our brain. These phenomena concerned Einstein many years ago, who lamented in 1946 that "I believe that the abominable deterioration of ethical standards stems primarily from the mechanization and depersonalization of our lives - a disastrous byproduct of science and technology. *Nostra culpa*! (We are to blame!)."[^25]
 
 Although the world is facing global climate crisis, wars, social inequality, and ethical problems, unregulated social media is fueling the breakdown of society. Politicians and government bureaucracy maintain conflicts, dissensions, and fragmentation without providing viable solutions. Gen Zs are disengaging from the local communities and institutions created by the Baby Boomer generation since they do not represent their values and aspirations. They are engaging in online communities and live on their own in micro-worlds that provide greater freedom, access, and convenience. This has led to fragmentation, disengagement, and the distrust of the government, media, social institutions, and companies. 
 
@@ -932,7 +1054,7 @@ Gen Zs are starting a quiet revolution in which they want to create the future f
 
 Drucker (2001) outlined human-centered management for business, government, and NGOs. Profit should not be the goal but the outcome of satisfying the needs of the customers, citizens, and community and supporting a functional society. Drucker (1974) points out that "free enterprise cannot be justified as being good for business. It can be justified only as being good for society" (p. 41). Bandura (2023) emphasizes human agency in promoting creativity and innovation through self, relational, social, and collective efficacy. We need to pursue common goals that are aligned with people's aspirations, engage with people rather than disengage, and provide support for individuals to contribute to their well-being and happiness as well as society since we are all inter-connected.
 
-**References**
+## **References**
 
 Aiello, L. C., & Wheeler, P. (1995). The expensive-tissue hypothesis. *Current Anthropology, 36*, 199-200.
 
@@ -1134,7 +1256,7 @@ Lynn, R., & Vanhanen, T. (2002) *IQ and the Wealth of Nations*. Westport, Conne
 
 Maday, B. C., & Szalay, L. B. (1976). Psychological correlates of family socialization in the United States and Korea. In T. Williams (Ed.), *Psychological Anthropology*. Hague: Mouton.
 
-[Mayr, E.](https://en.wikipedia.org/wiki/Ernst_Mayr "Ernst Mayr") (1982), *[The growth of biological thought](https://en.wikipedia.org/wiki/The_Growth_of_Biological_Thought "The Growth of Biological Thought")*. Cambridge, MA: Harvard University Press.
+Mayr, E. (1982), *[The growth of biological thought](https://en.wikipedia.org/wiki/The_Growth_of_Biological_Thought "The Growth of Biological Thought")*. Cambridge, MA: Harvard University Press.
 
 Mencius (2004). *Mencius, Revised Edition*. Translated by D. C. Lau. Penguin Books.
 
@@ -1194,186 +1316,116 @@ Waldinger, R., & Schulz, M. (2023). *The good life: Lessons from the longest sc
 
 Wells, S. (2002). *The journey of man: A genetic odyssey*. Princeton, NJ: Princeton University Press.
 
- Wirth, L. (1946). Preface to K. Manheim, *Ideology and Utopia: An Introduction to Sociology of Knowledge*. Harcourt, Brace and Company.
+Wirth, L. (1946). Preface to K. Manheim, *Ideology and Utopia: An Introduction to Sociology of Knowledge*. Harcourt, Brace and Company.
 
- Yamaguchi, S., & Ariizumi, Y. (2006). Close personal relationships among Japanese: Amae as distinguished from attachment and dependence. In, U. Kim, K. S. Yang, & K. K. Hwang (Eds.), *Indigenous and cultural psychology: Understanding people in context* (pp. 163-174). Springer.
+Yamaguchi, S., & Ariizumi, Y. (2006). Close personal relationships among Japanese: Amae as distinguished from attachment and dependence. In, U. Kim, K. S. Yang, & K. K. Hwang (Eds.), *Indigenous and cultural psychology: Understanding people in context* (pp. 163-174). Springer.
 
 ## Annex 1
 
 Kim, U. & Kim, J. (2021). Unpublished survey questionnaire. College of Business Administration, Inha University, Korea.
 
-Figure captions
 
-Figure 1: Black vase or two me in white?
 
-Figure 2: Which orange circle is larger?
 
-Figure 3: Which orange circle is larger?
 
-Figure 4: Three ovals and a trapezoid
+## Footnotes:
 
-Figure 5: Example of the Stroop effect, English
+[^1]:
 
-Figure 6: Example of the Stroop effect, Korean 
+To communicate to a transdisciplinary audience, I have used a conversation style reducing the technical terminology and excessive referencing. To aid in understanding of the phenomenology and context, I have used figures, diagrams, paintings, and photos. These photos, paintings, and diagrams have been accessed from the public domain (e.g., wikipedia.org) and old photos and paintings that are not copyrighted). Parts of this are based on Kim and Kim (1995, 1999, 2001; Kim & Kim; 2022, 2023) articles.
 
-Figure 7: Perception through senses and culture
+[^2]:
 
-Figure 8: Our biological ancestry
+ https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/
 
-Figure 9: Ecological context
+[^3]:
 
-Figure 10: Bonobo monkey Kanzi
+https://www.npr.org/sections/13.7/2018/03/14/593156411/the-universe-according-to-albert-einstein-relativity#:~:text=Einstein
 
-Figure 11: Hunting
+[^4]:
 
-Figure 12: Self-efficacy
+https://www.hawking.org.uk/in-words/lectures/does-god-play-dice
 
-Figure 13: Self-efficacy and social influence
+[^5]: 
 
-Figure 14: Transactional model of science
+https://en.wikipedia.org/wiki/Rose_is_a_rose_is_a_rose_is_a_rose
 
-Figure 15: Cranial capacity of homo sapiens and ape family
+[^6]:
 
-Figure 16: Lion-man, cave drawing and bone flute
+Https://www.amnh.org/exhibitions/permanent/human-origins/
 
-Figure 17: Early writing systems
+[^7]: 
 
-Figure 18: Making a cup
+https://www.nationalgeographic.com/animals/mammals/facts/bonobos
 
-Figure 19: Regional and cultural variations
+[^8]:
 
-Figure 20: Jacquard Loom and early IBM computer
+https://gwtoday.gwu.edu/bonobos-may-resemble-humans-more-you-think
 
-Figure 21: Aristotelian universe
+[^9]: 
 
-Figure 22: God at the center
+https://www.health.harvard.edu/mind-and-mood/oxytocin-the-love-hormone
 
-Figure 23: Mona Lisa at the center
+[^10]: 
 
-Figure 24: Cartesian coordinate system
+On a personal note, prior to my family's immigration to Canada at the age of 9, I was administered the Korean version of WISC IQ test, and I had a very high score. When I arrived in Canada, I was administered the English version, and my IQ went down by 50 points. I was assigned to a remedial class and learn English with children with mental and physical disabilities. It is hard to believe that my IQ could go down more than 40% by getting on a plane and arriving in Canada. It is fortunate that I did very well in mathematics or else I would be viewed as having an intellectual deficit.
 
-Figure 25: Knee jerk reflex
+[^11]: 
 
-Figure 26: Descartes' discovery of self, truth
+On a personal note, I was interviewed by Fred Rothbaum prior to their publication of their article on *amae* since he knew that I was teaching at University of Tokyo and collected data on *amae*. He also interviewed Susumu Yamaguchi, University of Tokyo. We were both shocked and appalled when we read the article. It is clear that he did not understand the indigenous concept of *amae* and Japanese culture but decided to draw the conclusion to fit the American individualistic bias.  
 
-Figure 27: Cartesian duality
+[^12]:
 
-Figure 28: Cartesian duality               
+See for instance, Henke & Tattersall (2007), Siegal (2010), and Hüther (2016).
 
-Figure 29: Shades of grey
+[^13]:
 
-Figure 30: Traditional Korean landscape painting
+https://www.nytimes.com/2003/11/30/magazine/the-guts-of-a-new-machine.html
 
-Figure 31: Rice planting
+[^14]:
 
-Figure 32: Confucian philosophy
+https://en.wikipedia.org/wiki/Isaac_Newton
 
-Figure 33: Paying respect to ancestors in front of the grave
+[^15]:
 
-Figure 34:  Bowing to parents
+https://en.wikipedia.org/wiki/Health_of_Vincent_van_Gogh
 
-Figure 35: Grandparents represent the past, and children represent the future
+[^16]:
 
-Figure 36: Contextualization of culture and philosophy
+<https://www.amnh.org/exhibitions/permanent/human-origins/>
 
-Figure 37: Culture and cultural change
+[^17]:
 
-Figure 38: Facets of culture
+https://www.genome.gov/human-genome-project
 
-Figure 39: Aspects of the self
+[^18]:
 
-Figure 40: Understanding the self
+https://www.smithsonianmag.com/science-nature/bonobos-teach-humans-about-nature-language-180975191/
 
-Figure 41: Maintenance of self-identity
+[^19]:
 
-Figure 42: Vincent van Gogh
+https://countryeconomy.com/demography/world-happiness-index/south-korea
 
-Figure 43: Van Gogh, June 1888
+[^20]:
 
-Figure 44: Starry Night, June 1889
+https://nces.ed.gov/timss/
 
-Figure 45: Vincent van Gogh, December 1888
+[^21]:
 
-Figure 46: Vincent van Gogh, 1889
+https://www.oecd.org/pisa/publications/pisa-2018-results.htm
 
-Figure 47: Self and other's perception
+[^22]:
 
-Figure 48: Relational self
+www.inews24.com/view/1407279
 
-Figure 49: Genetic tests of people around the world
+[^23]:
 
-Figure 50: Human migration based on genetic analysis
+<http://theviewers.co.kr/View.aspx?No=1627553>
 
-Figure 51: Korean Gross National Income and birth rate
+[^24]:
 
-Figure 52: Easterlin Paradox
+The European Union passed the Digital Services Act (DSA) that took effect on February 17, 2024. The goal is to protect "consumers and their fundamental rights online by setting clear and proportionate rules. It fosters innovation, growth and competitiveness, and facilitates the scaling up of smaller platforms, SMEs and start-ups. The roles of users, platforms, and public authorities are rebalanced according to European values, placing citizens at the centre." The DSA "regulates online intermediaries and platforms such as marketplaces, social networks, content-sharing platforms, app stores, and online travel and accommodation platforms. Its main goal is to prevent illegal and harmful activities online and the spread of disinformation. It ensures user safety, protects fundamental rights, and creates a fair and open online platform environment." It is the first attempt to systematically regulates online platform and we need to examine if the regulation is effective, whether it will stand the legal challenges, and whether the USA will apply sanctions against EU since the vast majority of the online platforms are dominated by the USA companies. https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act.
 
-Figure 53: Happiness and life-satisfaction
+[^25]:
 
-Figure 54: Factor explaining happiness
-
-Figure 55: Factors influencing happiness, students
-
-Figure 56: Factors influencing happiness, adults
-
-Figure 57: Generation and incentive structure
-
-Figure 58: Factors influencing trust and happiness
-
-Figure 59: Factors influencing happiness and work values: Self-efficacy as the mediator variable
-
-Figure 60: Work values, leadership efficacy, and traditional leadership style
-
-Figure 61: Work values, leadership efficacy, and future-oriented leadership style
-
-- - -
-
-[^^\[1]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref1)To communicate to a transdisciplinary audience, I have used a conversation style reducing the technical terminology and excessive referencing. To aid in understanding of the phenomenology and context, I have used figures, diagrams, paintings, and photos. These photos, paintings, and diagrams have been accessed from the public domain (e.g., wikipedia.org) and old photos and paintings that are not copyrighted). Parts of this are based on Kim and Kim (1995, 1999, 2001; Kim & Kim; 2022, 2023) articles.
-
-[^^\[2]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref2) https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/
-
-[^^\[3]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref3) https://www.npr.org/sections/13.7/2018/03/14/593156411/the-universe-according-to-albert-einstein-relativity#:~:text=Einstein
-
-[^^\[4]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref4)https://www.hawking.org.uk/in-words/lectures/does-god-play-dice
-
-[^^\[5]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref5) https://en.wikipedia.org/wiki/Rose_is_a_rose_is_a_rose_is_a_rose
-
-[^^\[6]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref6)Https://www.amnh.org/exhibitions/permanent/human-origins/
-
-[^^\[7]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref7) https://www.nationalgeographic.com/animals/mammals/facts/bonobos
-
-[^^\[8]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref8)https://gwtoday.gwu.edu/bonobos-may-resemble-humans-more-you-think
-
-[^^\[9]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref9) https://www.health.harvard.edu/mind-and-mood/oxytocin-the-love-hormone
-
-[^^\[10]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref10) On a personal note, prior to my family's immigration to Canada at the age of 9, I was administered the Korean version of WISC IQ test, and I had a very high score. When I arrived in Canada, I was administered the English version, and my IQ went down by 50 points. I was assigned to a remedial class and learn English with children with mental and physical disabilities. It is hard to believe that my IQ could go down more than 40% by getting on a plane and arriving in Canada. It is fortunate that I did very well in mathematics or else I would be viewed as having an intellectual deficit.
-
-[^^\[11]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref11) On a personal note, I was interviewed by Fred Rothbaum prior to their publication of their article on *amae* since he knew that I was teaching at University of Tokyo and collected data on *amae*. He also interviewed Susumu Yamaguchi, University of Tokyo. We were both shocked and appalled when we read the article. It is clear that he did not understand the indigenous concept of *amae* and Japanese culture but decided to draw the conclusion to fit the American individualistic bias.  
-
-[^^\[12]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref12)See for instance, Henke & Tattersall (2007), Siegal (2010), and Hüther (2016).
-
-[^^\[13]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref13)https://www.nytimes.com/2003/11/30/magazine/the-guts-of-a-new-machine.html
-
-[^^\[14]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref14) https://en.wikipedia.org/wiki/Isaac_Newton
-
-[^^\[15]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref15)https://en.wikipedia.org/wiki/Health_of_Vincent_van_Gogh
-
-\[[16]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref16) <https://www.amnh.org/exhibitions/permanent/human-origins/>
-
-[^^\[17]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref17) https://www.genome.gov/human-genome-project
-
-[^^\[18]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref18) https://www.smithsonianmag.com/science-nature/bonobos-teach-humans-about-nature-language-180975191/
-
-[^^\[19]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref19) https://countryeconomy.com/demography/world-happiness-index/south-korea
-
-[^^\[20]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref20)https://nces.ed.gov/timss/
-
-[^^\[21]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref21) https://www.oecd.org/pisa/publications/pisa-2018-results.htm
-
-[^^\[22]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref22) www.inews24.com/view/1407279
-
-[^^\[23]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref23)<http://theviewers.co.kr/View.aspx?No=1627553>
-
-[^^\[24]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref24)The European Union passed the Digital Services Act (DSA) that took effect on February 17, 2024. The goal is to protect "consumers and their fundamental rights online by setting clear and proportionate rules. It fosters innovation, growth and competitiveness, and facilitates the scaling up of smaller platforms, SMEs and start-ups. The roles of users, platforms, and public authorities are rebalanced according to European values, placing citizens at the centre." The DSA "regulates online intermediaries and platforms such as marketplaces, social networks, content-sharing platforms, app stores, and online travel and accommodation platforms. Its main goal is to prevent illegal and harmful activities online and the spread of disinformation. It ensures user safety, protects fundamental rights, and creates a fair and open online platform environment." It is the first attempt to systematically regulates online platform and we need to examine if the regulation is effective, whether it will stand the legal challenges, and whether the USA will apply sanctions against EU since the vast majority of the online platforms are dominated by the USA companies. https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act.
-
-[^^\[25]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Kim.html#_ftnref25)https://www.politifact.com/factchecks/2019/mar/22/facebook-posts/no-albert-einstein-did-not-say-technology-would-cr/
+https://www.politifact.com/factchecks/2019/mar/22/facebook-posts/no-albert-einstein-did-not-say-technology-would-cr/
