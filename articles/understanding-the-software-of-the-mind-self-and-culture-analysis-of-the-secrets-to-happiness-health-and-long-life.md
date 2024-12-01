@@ -100,131 +100,17 @@ In Figure 1, what do you see. (See Figure 1)? Do you see two men in white facing
 
 ![](/static/figure1.png)
 
-Figure 2: Which orange circle is larger?
-
-Figure 3: Which orange circle is larger?
-
-Figure 4: Three ovals and a trapezoid
-
-Figure 5: Example of the Stroop effect, English
-
-Figure 6: Example of the Stroop effect, Korean 
-
-Figure 7: Perception through senses and culture
-
-Figure 8: Our biological ancestry
-
-Figure 9: Ecological context
-
-Figure 10: Bonobo monkey Kanzi
-
-Figure 11: Hunting
-
-Figure 12: Self-efficacy
-
-Figure 13: Self-efficacy and social influence
-
-Figure 14: Transactional model of science
-
-Figure 15: Cranial capacity of homo sapiens and ape family
-
-Figure 16: Lion-man, cave drawing and bone flute
-
-Figure 17: Early writing systems
-
-Figure 18: Making a cup
-
-Figure 19: Regional and cultural variations
-
-Figure 20: Jacquard Loom and early IBM computer
-
-Figure 21: Aristotelian universe
-
-Figure 22: God at the center
-
-Figure 23: Mona Lisa at the center
-
-Figure 24: Cartesian coordinate system
-
-Figure 25: Knee jerk reflex
-
-Figure 26: Descartes' discovery of self, truth
-
-Figure 27: Cartesian duality
-
-Figure 28: Cartesian duality               
-
-Figure 29: Shades of grey
-
-Figure 30: Traditional Korean landscape painting
-
-Figure 31: Rice planting
-
-Figure 32: Confucian philosophy
-
-Figure 33: Paying respect to ancestors in front of the grave
-
-Figure 34:  Bowing to parents
-
-Figure 35: Grandparents represent the past, and children represent the future
-
-Figure 36: Contextualization of culture and philosophy
-
-Figure 37: Culture and cultural change
-
-Figure 38: Facets of culture
-
-Figure 39: Aspects of the self
-
-Figure 40: Understanding the self
-
-Figure 41: Maintenance of self-identity
-
-Figure 42: Vincent van Gogh
-
-Figure 43: Van Gogh, June 1888
-
-Figure 44: Starry Night, June 1889
-
-Figure 45: Vincent van Gogh, December 1888
-
-Figure 46: Vincent van Gogh, 1889
-
-Figure 47: Self and other's perception
-
-Figure 48: Relational self
-
-Figure 49: Genetic tests of people around the world
-
-Figure 50: Human migration based on genetic analysis
-
-Figure 51: Korean Gross National Income and birth rate
-
-Figure 52: Easterlin Paradox
-
-Figure 53: Happiness and life-satisfaction
-
-Figure 54: Factor explaining happiness
-
-Figure 55: Factors influencing happiness, students
-
-Figure 56: Factors influencing happiness, adults
-
-Figure 57: Generation and incentive structure
-
-Figure 58: Factors influencing trust and happiness
-
-Figure 59: Factors influencing happiness and work values: Self-efficacy as the mediator variable
-
-Figure 60: Work values, leadership efficacy, and traditional leadership style
-
-Figure 61: Work values, leadership efficacy, and future-oriented leadership style
-
 The basic problem with our perception is that we perceive reality without being aware of our assumptions. We use our mind to perceive reality, and we are not aware how we do it - the same way that we are not aware of our eyes when we use them to see. 
 
 In Figure 2, there is one orange circle in the center, surrounded by six larger grey circles on the left, and another orange circle on the right, surrounded by six smaller grey circles. (See Figure 2). Which orange circle looks bigger to you? The one on the left or the one on the right? People will say that one on the right looks bigger. Now in Figure 3, the six surrounding circles on the right and left are deleted, and you only see two orange circles. (See Figure 3). Which orange circle looks bigger to you? They look the same size, and if you measure them, they are identical. You now know the correct answer: They are the same size. 
 
-**Insert Figure 2 and 3 here**
+**Figure 2: Which orange circle is larger?**
+
+![](/static/figure2.png)
+
+**Figure 3: Which orange circle is larger?**
+
+![](/static/figure3.png)
 
 Now, go back to Figure 2 and decide which orange circle looks bigger to you: One on the right or the one on the left? People will still see that the right one looks bigger even though they know they are the same. You now have a dilemma since what you know to be correct is different from what you see. What will you trust? What you know, or what you see? Since the orange circle on the left is surrounded by six bigger circles, it appears smaller. The orange circle on the right, which is surrounded by six smaller circles, appears bigger. Our perception is influenced by context and when the context is removed, we see the same thing. 
 
