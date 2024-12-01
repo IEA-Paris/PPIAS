@@ -452,9 +452,19 @@ In the book *Discourse on the Method* (1637), he concluded that the fact that
 
 ![](/static/figure26.png)
 
+Rationality is what separates humans from animals. Our body is controlled by natural instincts, as evidenced by the reflex arc, which is beyond our conscious control. In contrast, rationality allows us to accept God, one's existence, and the mathematical and scientific laws. This became known as the Cartesian dualism, the separation and the duality of the mind and body: "We can clearly perceive a substance apart from the mode which we say differs from it, whereas we cannot, conversely, understand the mode apart from the substance" (Cunning, 2014, p. 278). For Descartes, the substance represents the hardware, or the body, and the mode refers to the software of the mind; they are separate but connected. 
+
+Descartes's discoveries influenced the Christian worldview. His ideas allowed the separation of science that investigates the natural world from the Church that focuses on morality, ethics, and God. His views created a duality of thought, a dichotomy of the world between mind and body, good and bad, light and darkness, and heaven and earth. Life came to be viewed as a struggle between truth and evil, light and darkness, life and death, and led Hamlet to question: "To be or not to be, that is the question." (See Figures 27 and 28).
+
 **Figure 27: Cartesian duality**
 
-**Figure 28: Cartesian duality**               
+![](/static/figure27.png)
+
+**Figure 28: Cartesian duality**           
+
+![](/static/figure28.png)
+
+    
 
 **Figure 29: Shades of grey**
 
@@ -521,10 +531,6 @@ In the book *Discourse on the Method* (1637), he concluded that the fact that
 **Figure 60: Work values, leadership efficacy, and traditional leadership style**
 
 **Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
-
-Rationality is what separates humans from animals. Our body is controlled by natural instincts, as evidenced by the reflex arc, which is beyond our conscious control. In contrast, rationality allows us to accept God, one's existence, and the mathematical and scientific laws. This became known as the Cartesian dualism, the separation and the duality of the mind and body: "We can clearly perceive a substance apart from the mode which we say differs from it, whereas we cannot, conversely, understand the mode apart from the substance" (Cunning, 2014, p. 278). For Descartes, the substance represents the hardware, or the body, and the mode refers to the software of the mind; they are separate but connected. 
-
-Descartes's discoveries influenced the Christian worldview. His ideas allowed the separation of science that investigates the natural world from the Church that focuses on morality, ethics, and God. His views created a duality of thought, a dichotomy of the world between mind and body, good and bad, light and darkness, and heaven and earth. Life came to be viewed as a struggle between truth and evil, light and darkness, life and death, and led Hamlet to question: "To be or not to be, that is the question." (See Figures 27 and 28).
 
 **Insert Figure 27 and 28 about here**
 
