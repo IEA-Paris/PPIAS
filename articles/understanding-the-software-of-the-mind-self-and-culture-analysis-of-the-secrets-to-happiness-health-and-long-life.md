@@ -912,16 +912,6 @@ For adults, resiliency of efficacy has a direct positive effect on happiness (Se
 
 ![](/static/figure56.png)
 
-**Figure 57: Generation and incentive structure**
-
-**Figure 58: Factors influencing trust and happiness**
-
-**Figure 59: Factors influencing happiness and work values: Self-efficacy as the mediator variable**
-
-**Figure 60: Work values, leadership efficacy, and traditional leadership style**
-
-**Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
-
 These results indicate that resiliency of efficacy and emotional support are important predictors of happiness for both adolescents and adults across different income groups and socio-economic status. For adolescents, academic achievement is an important predictor of happiness and for adults, occupational achievement and children's success are important predictors of happiness. For adults, income is a direct positive predictor of happiness and for adolescents, the socio-economic status is an indirect predictor of happiness mediated by academic achievement and emotional support.
 
 Results indicate that resiliency of efficacy is an important predictor of happiness across the three generations, especially for the elderly. Emotional support is an important predictor of happiness across the three generations, especially for adolescents and adults. Socio-economic status is important for the adults and elderly and income is important for the elderly. Money becomes important when the elderly are retired, and they need to rely on their life savings or their children for financial support. These results indicate that money can influence somewhat, but it cannot buy happiness. It explains only 1.5% of the variance for the elderly and has an indirect influence through socio-economic status for adults (1.5%) and the elderly (16.1%). Overall, emotional support and resiliency of efficacy are the most important predictors of happiness explaining nearly 50% of the variance for the three generations. 
@@ -952,13 +942,15 @@ Deloitte (2021) concludes that digital platforms are fundamentally changing the 
 
 The phenomenal economic growth in Korea has been spurred by educational achievements. The economic miracle in Korea is closely tied to the educational aspiration and investment made by adolescents and parents. By 1983, Korea had the highest percentage of adolescents wishing to obtain a university degree and the number of parents who wanted their children to at least graduate from university (Park & Kim, 2004). Currently, the literacy rate is 99%, high school graduation rate is 96% and university enrollment rate is 72%.
 
-In international studies of academic achievement, Korean students are ranked at the top in knowledge and performance. In international comparisons of math and science achievement, Koreans students are the top achievers (National Center for Educational Statistics, 2019).[^20](https://nces.ed.gov/timss/) In the 39-nation study of Grade 4 and 8 students, Korean Grade 4 students are ranked 3^rd^ in mathematics and 2^nd^ in science.[^21](https://www.oecd.org/pisa/publications/pisa-2018-results.htm)r Grade 8 students, they came in 3^rd^ in mathematics and 4^th^ in science. In the 31-nation OECD study of Grade 9 students in 2018, Korean students are ranked in the top tier: 2^nd^ to 7^th^ in reading, 1^st^ to 4^th^ in mathematics, and 3^rd^ to 5^th^ in science.
+In international studies of academic achievement, Korean students are ranked at the top in knowledge and performance. In international comparisons of math and science achievement, Koreans students are the top achievers (National Center for Educational Statistics, 2019).[^20] In the 39-nation study of Grade 4 and 8 students, Korean Grade 4 students are ranked 3^rd^ in mathematics and 2^nd^ in science.[^21] For]Grade 8 students, they came in 3^rd^ in mathematics and 4^th^ in science. In the 31-nation OECD study of Grade 9 students in 2018, Korean students are ranked in the top tier: 2^nd^ to 7^th^ in reading, 1^st^ to 4^th^ in mathematics, and 3^rd^ to 5^th^ in science.
 
-According to the traditional Korean media, Gen Zs are individualistic, assertive, and viewed as selfish.[^22](www.inews24.com/view/1407279) They raise their voice to express their opinion and pursue personal happiness rather than sacrificing for the family or group. They are highly mobile and prefer to receive instant information and results. They are active in self-expression using social media, boasting in their personal blog or Facebook and focused on self-satisfaction. They have easy access to information, and they can actively explore their interests in various fields, prepare for employment, and share information and receive feedback.
+According to the traditional Korean media, Gen Zs are individualistic, assertive, and viewed as selfish.[^22] They raise their voice to express their opinion and pursue personal happiness rather than sacrificing for the family or group. They are highly mobile and prefer to receive instant information and results. They are active in self-expression using social media, boasting in their personal blog or Facebook and focused on self-satisfaction. They have easy access to information, and they can actively explore their interests in various fields, prepare for employment, and share information and receive feedback.
 
 By forming and activating an online community, they share information and build friendships by belonging to several online communities that fit their interests. They value experience over possession by participating in one-day classes and going on a weekend holiday. The virtual world has become as important as the physical world. Online friends have become an important source of social support in obtaining information about social trends, finding a job, and developing skills that are necessary to succeed. They have greater diversity of relationships and career choices that they pursue. The social support received from the online community is becoming important for Gen Zs. 
 
-**Insert Figure 57 here**
+**Figure 57: Generation and incentive structure**
+
+![](/static/figure57.png)
 
 The incentive structure in Korea has changed. (See Figure 57). In Confucian culture, the basic unit for analysis is the relationship in the extended family, with grandparents symbolizing the past and children representing the future. Traditionally, the best way to move up the socioeconomic ladder was to pass the national exam and attain a government position, and they were given and from which they can obtain stable income for three generations. Industrialization required moving to cities, focusing on economic development, forming a nuclear family, and living in an apartment complex. The father worked long hours to earn a high income. The mother took care of the husband, children, and the household. Living in an urban apartment complex, the incentive structure has changed from conservatism to progressivism, from formalism to pragmatism, from past-oriented to future-oriented, from cooperation to competition, and from parental wisdom to specialized knowledge. The modern entrance exam system fostered fierce competition, so parents had to work hard and make sacrifices for their children, and their children had to study hard and achieve academic success to get a job in a leading company. 
 
@@ -966,7 +958,7 @@ Korean economy, which is export-driven and manufacturing-based, faces fierce com
 
 Due to the high cost of living, housing, and low income, the Gen Zs are living with their parents beyond the age of 30 or alone, but they can expand their social network through online channels. Instead of working for a large company and making sacrifices for unattainable financial security, they focus on experiences that can make them happy by engaging in personally meaningful activities, developing their interests and skills, and finding a job that is aligned with their personal values. As the most educated generation, they reject the pre-determined lifestyles of their parents' generation, which lacks meaning and purpose for them.
 
-In Korea, morality and ethics change depending on situations and relationship (Kim, 1995). As such generalized trust is low and institutions do not function well compared to Scandinavian countries (Kim et al., 2002, 2006). Gen Zs have internalized ethical standards, and they are acting beyond the situations and relationships. One example is the boycotting of Uniqlo, a popular Japanese fast retailing company.[^23](http://theviewers.co.kr/View.aspx?No=1627553) Three years ago, Uniqlo's Chief Financial Officer mocked wartime forced laborers and stated that "the boycott will not last long in Korea." Uniqlo became the target of the boycott among Gen Zs which had immediate impact. Sales plummeted and 40 stores closed last year, and they have not recovered.
+In Korea, morality and ethics change depending on situations and relationship (Kim, 1995). As such generalized trust is low and institutions do not function well compared to Scandinavian countries (Kim et al., 2002, 2006). Gen Zs have internalized ethical standards, and they are acting beyond the situations and relationships. One example is the boycotting of Uniqlo, a popular Japanese fast retailing company.[^23] Three years ago, Uniqlo's Chief Financial Officer mocked wartime forced laborers and stated that "the boycott will not last long in Korea." Uniqlo became the target of the boycott among Gen Zs which had immediate impact. Sales plummeted and 40 stores closed last year, and they have not recovered.
 
 To empirically test the changing trends among Gen Zs, two studies have been conducted. (See Appendix 1). The first study collected survey questionnaires from 353 Gen Zs attending a Korean university (J. Kim, 2024). The results indicate that Gen Zs realize that the incentive structure has changed, and they can't live like their parents, and they do not want to sacrifice happiness for success. They are pursuing both success and happiness by learning new knowledge and skills obtained from online communities and influencers. They are breaking away from traditional ingroup mentality ("arms bend inward") by developing the necessary English and social skills. They are engaging in online communities and meeting people with similar interests, ethics, and life goals. For Gen Zs, it is not to reject the relationship that is important in Korean culture, but to expand the relationship through the online community ("stretch your arms outward"). The results provide a window to understanding mindset, perspective, and lifestyle that the older generations have difficulty accepting. 
 
@@ -980,23 +972,31 @@ Even if they live in the same ecology, culture, and family, the three generation
 
 The results of the path analysis from the Gen Zs generation provide similar results as the previous studies. (See Figure 58). Relational efficacy has direct positive effect on happiness and trust. Trust has a direct positive effect on happiness. The social support received from friends has a direct positive effect on relational efficacy, trust, and happiness. Positivity has a direct positive effect on social support received from friends, academic grade, relational efficacy, and happiness. Academic grade has a direct positive effect on relational efficacy. The results point to the importance of relational efficacy, social support, trust, and positivity have on happiness.
 
-**Insert Figure 58 here**
+**Figure 58: Factors influencing trust and happiness**
+
+![](/static/figure58.png)
 
 Figure 59 provides the result with happiness and work values using structural equation modelling. (See Figure 59). Since students are not currently working, they are asked about the work values that will be important for them in the future. The results include three work values consisting of Achievement, Security and Work-Life Balance. The first two subscales are developed in previous studies and the last scale is developed through the interviews of over 1,000 employees and executives working for a Korean company (Kim & Kim, 2021). Happiness is measured by how happy they are in Self Development and for Job Prospect. Self-efficacy is measured by Self-Regulation, Assertiveness, Relational and Social efficacy. In addition to social support from parents and friends, online social support is measured by the information they receive from the online community related to internship, interviewing, and job opportunities has been included. The study also obtained students' participation in organizations and the number of leadership~~s~~ roles that they had in the organization. 
 
 The results show good Goodness-of-Fit for the overall model, the scales, and the sub-scales (Kim, 2024). The results indicate that efficacy beliefs predict work values and happiness. Social support and Experience in organizations have direct positive influence on self-efficacy. The important aspect of the result is that online social support has a similar positive effect of self-efficacy as the social support received from friends and family. 
 
-**Insert Figure 59 here**
+**Figure 59: Factors influencing happiness and work values: Self-efficacy as the mediator variable**
+
+![](/static/figure59.png)
 
 In the second study, a survey questionnaire was completed by 303 Gen Zs attending a Korean university (Kim, 2024). The Leadership efficacy scale was developed from the interviews of over 1,000 employees and executives working for a Korean company measuring the eight domains: Analytical, Initiative, Professionalism, Creativity, Empowerment, Ethical, Communication, and Teamwork. (See Appendix 1). For work values, in addition to Achievement and Security, Trust and Enjoy Life are added. Traditional leadership style of Directive, Bureaucratic, and Transactional leadership style have been developed by the present authors (Kim & Kim, 2021). Four-item scales for the future-oriented leadership style developed by DiFabio and Peiró (2018) have been included: Ethical, Empowerment, Servant, and Sustainable leadership. The present authors added 2 more items to the four leadership styles to improve reliability and stability. Since the students are not currently working, they are asked about their preferred working style when they work in an organization/team.
 
 Leadership efficacy (Communication, Teamwork, Professionalism and Analytical) has a direct and positive effect on the three traditional leadership styles (i.e., Directive, Bureaucratic, and Transactional Leadership), and the work values (Achievement, Security, Trust, and Enjoy Life). Social support received from family, friends, online and experiences in organizations and leadership positions have a direct and positive influence on leadership efficacy. (See Figure 60). 
 
-**Insert Figure 60 here**
+**Figure 60: Work values, leadership efficacy, and traditional leadership style**
+
+![](/static/figure60.png)
 
 Leadership efficacy (Communication, Teamwork, Ethical, and Empowerment) has a direct and positive impact on the four future-oriented leadership styles (Sustainable, Servant, Mindful, and Ethical leadership), and work values (Achievement, Security, Trust, and Enjoy Life). Similarly, the social support received from family, friends, online platforms, and the experience in organizations and leadership positions have a direct and positive influence on leadership efficacy. (See Figure 61). 
 
-**Insert Figure 61 here**
+**Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
+
+![](/static/figure61.png)
 
 These results indicate that online communities play an important role in increasing the self and leadership efficacy, similar to the role that their family and friends. Secondly, the work values of Achievement, Security, and the Work-Life Balance have emerged to be important values in the first study. In the second study, Trust in the workplace had the highest mean. They also want to experience and Enjoy Life, although it had the lowest mean.
 
