@@ -98,7 +98,7 @@ In Figure 1, what do you see. (See Figure 1)? Do you see two men in white facing
 
 **Figure 1: Black vase or two me in white?**
 
-
+![](/static/figure1.png)
 
 Figure 2: Which orange circle is larger?
 
