@@ -146,9 +146,27 @@ We also perceive reality through symbols, ideas, and meaning, such as understand
 
 ![](/static/figure7.png)
 
-Figure 8: Our biological ancestry
+John Culkin points out that "fish did not discover water" since it is a part of their natural environment, and they cannot imagine living without the water. In the same way, a child is born into a particular culture and perceives reality through culture. As such, it is difficult to "discover" one's own culture. Culture is perceived in terms of artifacts or products, such as art, music, customs, beliefs, and values. However, culture is as fundamental as sensory perception in allowing us to perceive reality meaningfully, and provides us with the way to view, understand, communicate, and create reality -; this is the basis of the software of the mind.
 
-Figure 9: Ecological context
+## **IV. Understanding our Biological Heritage**
+
+To understand the development of the software of the mind, self, and culture, we need to first examine our biological heritage. Biologically, human beings belong to the Great Ape family, and became a separate species known as the *homo sapiens* around six million years ago. *Homo sapiens* share 98.8% of the genes with bonobo monkeys and chimpanzees, and only 1.2% separates humans from them. Morphologically, there are six major differences between the *Homo species* and bonobo monkeys and chimpanzees: 1) Reduced masticatory system, 2) smaller canine teeth, 3) hidden ovulation, 4) the power of precision grip, 5) bipedalism, and 6) the descent of the larynx and hyoid bone (Henke & Tattersall, 2007).
+
+These morphological differences and the development of human agency allowed humans to develop the software of the mind, self, and culture that differentiate humans from the closest biologically relative bonobo monkeys and chimpanzees. Mithen (2007) points out, "the paradox we face is that *Homo sapiens* is genetically almost identical to the chimpanzees, our closed living relative with whom we share that 6 million old ancestor, but cognitively and behaviorally radically different" (p. 1966). Other species have morphological advantages, such as speed, strength, and agility, but *Homo sapiens* is the only species that can control their instincts, think outside the box, be creative, and innovate to populate all parts of the world.[^6]
+
+We need to examine how these morphological differences developed and gave rise to the human mind and agency, which in turn stimulated the creativity explosion and innovations that have transformed our biology, relationship, and society. 
+
+### **Biology and morphology**
+
+Biologically, humans belong to the Great Ape family, belonging to the *Hominini*taxonomic tribe with chimpanzees and bonobo monkeys. A separate *Homo* genus emerged around 6 million years ago. (See Figure 8). Our closest genetic relative comes from the *Pan* genus that is composed of the chimpanzees, *Pan troglodytes* and bonobo monkeys, *Pan paniscus*. Within the *Pan* genus, bonobo monkeys separated from chimpanzees around 2 million years ago.[^7] Both live in the West African jungle and Congo basin, protected by the forest canopy. (See Figure 9). Our next closest genetic relative is the Gorilla, followed by Orangutan, and Hylobates. 
+
+**Figure 8: Our biological ancestry**
+
+![](/static/figure8.png)
+
+**Figure 9: Ecological context**
+
+![](/static/figure9.png)
 
 Figure 10: Bonobo monkey Kanzi
 
@@ -253,22 +271,6 @@ Figure 59: Factors influencing happiness and work values: Self-efficacy as the m
 Figure 60: Work values, leadership efficacy, and traditional leadership style
 
 Figure 61: Work values, leadership efficacy, and future-oriented leadership style
-
-John Culkin points out that "fish did not discover water" since it is a part of their natural environment, and they cannot imagine living without the water. In the same way, a child is born into a particular culture and perceives reality through culture. As such, it is difficult to "discover" one's own culture. Culture is perceived in terms of artifacts or products, such as art, music, customs, beliefs, and values. However, culture is as fundamental as sensory perception in allowing us to perceive reality meaningfully, and provides us with the way to view, understand, communicate, and create reality -; this is the basis of the software of the mind.
-
-## **IV. Understanding our Biological Heritage**
-
-To understand the development of the software of the mind, self, and culture, we need to first examine our biological heritage. Biologically, human beings belong to the Great Ape family, and became a separate species known as the *homo sapiens* around six million years ago. *Homo sapiens* share 98.8% of the genes with bonobo monkeys and chimpanzees, and only 1.2% separates humans from them. Morphologically, there are six major differences between the *Homo species* and bonobo monkeys and chimpanzees: 1) Reduced masticatory system, 2) smaller canine teeth, 3) hidden ovulation, 4) the power of precision grip, 5) bipedalism, and 6) the descent of the larynx and hyoid bone (Henke & Tattersall, 2007).
-
-These morphological differences and the development of human agency allowed humans to develop the software of the mind, self, and culture that differentiate humans from the closest biologically relative bonobo monkeys and chimpanzees. Mithen (2007) points out, "the paradox we face is that *Homo sapiens* is genetically almost identical to the chimpanzees, our closed living relative with whom we share that 6 million old ancestor, but cognitively and behaviorally radically different" (p. 1966). Other species have morphological advantages, such as speed, strength, and agility, but *Homo sapiens* is the only species that can control their instincts, think outside the box, be creative, and innovate to populate all parts of the world.[^6]
-
-We need to examine how these morphological differences developed and gave rise to the human mind and agency, which in turn stimulated the creativity explosion and innovations that have transformed our biology, relationship, and society. 
-
-### **Biology and morphology**
-
-Biologically, humans belong to the Great Ape family, belonging to the *Hominini*taxonomic tribe with chimpanzees and bonobo monkeys. A separate *Homo* genus emerged around 6 million years ago. (See Figure 8). Our closest genetic relative comes from the *Pan* genus that is composed of the chimpanzees, *Pan troglodytes* and bonobo monkeys, *Pan paniscus*. Within the *Pan* genus, bonobo monkeys separated from chimpanzees around 2 million years ago.[^7] Both live in the West African jungle and Congo basin, protected by the forest canopy. (See Figure 9). Our next closest genetic relative is the Gorilla, followed by Orangutan, and Hylobates. 
-
-**Insert Figure 8 and 9 here**
 
 Both chimpanzees and bonobo monkeys are socially and hierarchically organized. The chimpanzee's social group is dominated by the *alpha* male, which uses violence, hoards food, has exclusive mating access to females, and abuses lower ranking males to maintain their dominant position. In contrast, bonobo monkeys are led by an *alpha* female. She is more egalitarian, nonviolent, uses sex to help prevent and resolve conflicts, often walks upright, and shares food amongits members and non-members. Bonobo males contribute to the group by providing food and protection to young mothers, and female members protect and assist pregnant members through their birthing process, the only species known to do so other than humans. Most people believe that humans evolved from chimpanzees, reifying their view that the dominant males are aggressive, violent, competitive, and selfish. However, humans have evolved from bonobo monkeys, based on genetic and morphological analysis.[^8]
 
