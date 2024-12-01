@@ -724,32 +724,6 @@ In empirical studies of the conception of the self, the importance of relationsh
 
 ![](/static/figure48.png)
 
-**Figure 49: Genetic tests of people around the world**
-
-**Figure 50: Human migration based on genetic analysis**
-
-**Figure 51: Korean Gross National Income and birth rate**
-
-**Figure 52: Easterlin Paradox**
-
-**Figure 53: Happiness and life-satisfaction**
-
-**Figure 54: Factor explaining happiness**
-
-**Figure 55: Factors influencing happiness, students**
-
-**Figure 56: Factors influencing happiness, adults**
-
-**Figure 57: Generation and incentive structure**
-
-**Figure 58: Factors influencing trust and happiness**
-
-**Figure 59: Factors influencing happiness and work values: Self-efficacy as the mediator variable**
-
-**Figure 60: Work values, leadership efficacy, and traditional leadership style**
-
-**Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
-
 ## **IX. Unified Theory of the Biological World**
 
 With the Cartesian duality, the control of the Catholic Church to define the natural world began to wane and allowed the separation of the church and the state to allow scientific research to flourish. Charles Darwin's Theory of Evolution brought a cataclysmic change in defining the mind, self, and culture. As a naturalist and biologist, he travelled around the world to document ecological variations, and the organisms' adaptation to their natural environment. He provided a detailed account of the ecological variations and morphological traits that helped a particular species to adapt and survive. He stated that there are innate biological traits and mechanisms that propel animals to behave in a particular manner and any advantages that help them to survive and are passed onto subsequent generations. 
@@ -776,7 +750,7 @@ In England, Karl Marx was excited to read about the struggle for existence and w
 
 ### **Genetics and neurobiology**
 
-Genes are found on chromosomes and are made of Deoxyribonucleic acid (DNA), and they influence and determine the characteristic traits of an organism (e.g., the color of a bird's feathers or the shape of its beak).[^16](https://www.amnh.org/exhibitions/permanent/human-origins/) The Human Genome Project, the world's largest collaborative biological project, was launched in October 1990 to map and sequence the euchromatic portion of the human genome.[^17](https://www.genome.gov/human-genome-project) It was completed in April 2003. The genome sequence analysis covers 99% of the euchromatic genome, and it is accurate to an error rate of 1/100,000 bases. International Human Genome Sequencing Consortium (2004) concluded that humans have around 20,000-25,000 protein-coding genes. 
+Genes are found on chromosomes and are made of Deoxyribonucleic acid (DNA), and they influence and determine the characteristic traits of an organism (e.g., the color of a bird's feathers or the shape of its beak).[^16] The Human Genome Project, the world's largest collaborative biological project, was launched in October 1990 to map and sequence the euchromatic portion of the human genome.[^17] It was completed in April 2003. The genome sequence analysis covers 99% of the euchromatic genome, and it is accurate to an error rate of 1/100,000 bases. International Human Genome Sequencing Consortium (2004) concluded that humans have around 20,000-25,000 protein-coding genes. 
 
 We are born with a particular set of genes, but they do not determine how the genes work and are expressed. Gene expression refers to *when* and *how frequently* the proteins are produced from the instructions of the genes, including when and how frequently they are made. Deans (2015) points out that a particular gene does not define a specific genetic expression, and two identical genes can work differently. They can be turned on or off, like the volume on a mobile phone where the volume can be turned on in different amounts, in different places, and at different times. One trait can be affected by several genes and one gene can affect several traits at the same time. They found that experiences and environmental factors can cause epigenetics, which is the change in how the genes work. Most genetic traits are influenced by the environmental factors and experience (e.g., diet, vitamin D, sea level, where one lives, and the experience of stress). While genetic changes can alter which protein is made, and epigenetics affect the gene expression to turn the genes on or off.
 
@@ -784,7 +758,33 @@ Although the same genes are found in the same brain regions for humans and chimp
 
 A renowned geneticist Spencer Wells (2002) with the cooperation of National Geographics conducted genetic analysis of people around the world to discover the origins of our ancestry (Wells, 2002; See Figure 49). By examining the mutations in our recessive gene in the Y chromosome, known as the M168 (Haplogroup CT, Y-DNA), he could figure out the origins of human ancestry. He concludes that the ancestry of the Homo sapiens can be traced to a single tribe known as the San people or Bushmen in southern Africa around 60,000 years ago. 
 
-**Insert Figure 49 here**
+**Figure 49: Genetic tests of people around the world**
+
+![](/static/figure49.png)
+
+**Figure 50: Human migration based on genetic analysis**
+
+**Figure 51: Korean Gross National Income and birth rate**
+
+**Figure 52: Easterlin Paradox**
+
+**Figure 53: Happiness and life-satisfaction**
+
+**Figure 54: Factor explaining happiness**
+
+**Figure 55: Factors influencing happiness, students**
+
+**Figure 56: Factors influencing happiness, adults**
+
+**Figure 57: Generation and incentive structure**
+
+**Figure 58: Factors influencing trust and happiness**
+
+**Figure 59: Factors influencing happiness and work values: Self-efficacy as the mediator variable**
+
+**Figure 60: Work values, leadership efficacy, and traditional leadership style**
+
+**Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
 
 With the effect of the Ice Age, they began to migrate to northern Africa. (See Figure 50). With the lower sea level due to the effects of the Ice Age, they could cross the Red Sea and populate the Middle East. Some moved north to Central Asia and moved further north to become the current Europeans. Others moved southeast to Southeast Asia and travelled down to Indonesia and Australia. Others went to Central Asia, and they migrated north to Mongolia, China, Korea, and Japan. With the hunting of reindeer and elks, they were able to cross the ice bridge that connected Siberia and Alaska. They then travelled down to North America, Central America, and South America. With each migration, they were able to innovate and adapt to a very different ecological context.
 
