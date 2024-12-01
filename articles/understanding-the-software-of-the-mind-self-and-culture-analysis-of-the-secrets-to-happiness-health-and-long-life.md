@@ -816,26 +816,6 @@ On May 16, 1961, general Park Chung-hee led a *coup d'état* and declared ma
 
 ![](/static/figure51.png)
 
-**Figure 52: Easterlin Paradox**
-
-**Figure 53: Happiness and life-satisfaction**
-
-**Figure 54: Factor explaining happiness**
-
-**Figure 55: Factors influencing happiness, students**
-
-**Figure 56: Factors influencing happiness, adults**
-
-**Figure 57: Generation and incentive structure**
-
-**Figure 58: Factors influencing trust and happiness**
-
-**Figure 59: Factors influencing happiness and work values: Self-efficacy as the mediator variable**
-
-**Figure 60: Work values, leadership efficacy, and traditional leadership style**
-
-**Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
-
 In the preliminary review of the lottery winners in Korea and around the world, the producers have found that more than two-thirds of lottery winners became unhappy after they won a large sum of money. The producers have commented: Many people have won the lottery and fulfilled their lifelong dream. They should be very happy. In Korea, there are more than 100,000 people who became rich by winning the lottery or selling their land, or through investments, and they should be very happy. Farmers who gave up the back-breaking work and became rich by selling their land to the property developers should be happy. Did their lives improve, and did they become happier once they became rich?They interviewed many people for their TV documentary, and they found that money did not buy happiness but misery for the majority of the people:
 
 **Case 1:** In a rural farming village, a family received $10 million for selling the land to property developers. It was their lifelong dream to become rich and they could retire in peace and have financial security for their children. However, their life was ruined. A family member passed away being shocked that the ancestral graves were moved. The villagers spread a vicious rumor about the corruption in selling the land and they became outcasts. As anxiety and stress increased, the father became depressed and committed suicide. 
@@ -854,7 +834,7 @@ One middle-class family received a relatively small amount of $10,000. Since it 
 
 ### **World Happiness Survey**
 
-The results from the World Happiness Survey found that Korea is ranked 57^th^ among the 150 participating countries with the mean score of 5.951 on a 11-point Cantril Self-Anchoring Scale (from 0-10), which is much lower than the OECD average of 6.7.[^19](https://countryeconomy.com/demography/world-happiness-index/south-korea) This is down from the rank of 41^st^ with the mean score of 6.267 in 2013. For the past 10 years, the mean score has been below 6.0. It is much lower than their close cultural and economic counterpart Taiwan, which is ranked 27^th^ with the mean score of 6.535. The Korean score has not changed in the past 10 years even though the economy has been growing. If Korea is the 10^th^ largest economy in the world, why are Koreans not as happy as neighboring Taiwan and other economically developed countries?
+The results from the World Happiness Survey found that Korea is ranked 57^th^ among the 150 participating countries with the mean score of 5.951 on a 11-point Cantril Self-Anchoring Scale (from 0-10), which is much lower than the OECD average of 6.7.[^19] This is down from the rank of 41^st^ with the mean score of 6.267 in 2013. For the past 10 years, the mean score has been below 6.0. It is much lower than their close cultural and economic counterpart Taiwan, which is ranked 27^th^ with the mean score of 6.535. The Korean score has not changed in the past 10 years even though the economy has been growing. If Korea is the 10^th^ largest economy in the world, why are Koreans not as happy as neighboring Taiwan and other economically developed countries?
 
 We need to examine the basic assumptions about the relationship between economic development, income, and happiness. The Korean economic and political system that propelled rapid economic growth also created the social problems and the destruction of Korean families and relationships, the same way that winning a lottery can change people's mindset, lifestyle, and relationships. 
 
@@ -868,7 +848,9 @@ A survey of 34,147 adults in 2019 indicates that only 22% believe that they can 
 
 Richard Easterlin is the first economist who linked and analyzed economic growth to happiness. Easterlin (2003) points out that economic theories have traditionally focused on income and national wealth as predictors of happiness and well-being. In 1974, he conducted a study linking economic development with happiness. Using the Cantril Self Anchoring Scale, rating from 0 to 11, he asked: "All things considered, how satisfied are you with your life as a whole these days?" He obtained data in 37 countries: Developed=17, Developing =9, Underdeveloped=11. In the cross-national comparisons, he found that as income increases, happiness both within and across nations increases, but the curve peaks and flattens. (See Figure 52). He found that happiness increases until the per capita GNP reaches $17,000, then it peaks, and income does not significantly increase happiness from that point (Easterlin et al., 2010). This became known as the Easterlin Paradox. He points out that happiness at the national level does not increase with wealth once the basic needs are met.
 
-**Insert Figure 52 here**
+**Figure 52: Easterlin Paradox**
+
+![](/static/figure52.png)
 
 Daniel Kahneman won the Nobel Prize in economics in 2002 showing that biases and context can influence our decision-making and challenged the assumptions of the rational theory in economics. He helped to launch the annual UN World Happiness Survey and OECD Better Life Survey. He conducted research on the experiences that made life pleasant or unpleasant, and extended his research to happiness and life-satisfaction. 
 
@@ -876,7 +858,9 @@ Kahneman and Deaton (2010) conducted a systematic investigation examining emotio
 
 Kahneman and Deaton (2010) found that emotional well-being, health, caregiving, loneliness, and smoking are strong predictors of daily emotions. Life evaluation, measured by the Cantril Self-anchoring Scale, is positively correlated to income and education. Life evaluation predicts income, but for emotion well-being the correlation to income peaks around $60,000 and do not go up very much thereafter, confirming the Easterlin Paradox. (See Figure 53). Based on the results, they conclude that low income predicts lower life evaluation and low emotional well-being. High income can get rid of problems in life and predicts life-satisfaction, but not emotional well-being. 
 
-**Insert Figure 53 here**
+**Figure 53: Happiness and life-satisfaction**
+
+![](/static/figure53.png)
 
 Kahneman and Deaton (2010) notes that if you ask people what they want most in life, the majority will say they want to be happy. However, most of us are working toward achieving goals, which are the basis of life satisfaction. They contend that happiness and satisfaction are distinct. They note that satisfaction is correlated around *r*=0.5 with happiness, explaining only 25% of the variance and leaving 75% unexplained. They note that life satisfaction is retrospective and evaluative. It is a feeling built over time and based on one's achievements, goals, and meeting one's expectations using a social yardstick (e.g., income, wealth, and possessions). Happiness, in contrast, arises from momentary experience, our day-to-day experiences that are spontaneous and is fleeting: "What I experience here and now."
 
@@ -912,15 +896,31 @@ To answer the question on whether money buys happiness, we convinced the SBS TV 
 
 Multiple regression analysis examined the predictors of happiness among adolescents, adults, and elderly. (Figure 54). For adolescents, emotional support from their family was the most important predictor of happiness explaining 53.2 % of the variance, followed by academic grade explaining 3.7%, and resilience of efficacy explaining 3.3%. For adults, emotional support received from their family was the most important predictor of happiness explaining 33.8 % of the variance, followed resilience of efficacy explaining 9.7%, education explaining 3.2%, and SES explaining 1.5%. For the elderly, resilience of efficacy was most important factor explaining 41.6% of the variance, followed by socio-economic status explaining 16.1 %, emotional support explaining 5.2%, and income explaining 1.5%.
 
-**Insert Figure 54 here**
+**Figure 54: Factor explaining happiness**
+
+![](/static/figure54.png)
 
 Figure 54 provides the results of the path analysis on happiness among adolescents. (See Figure 55). The lines and arrows show the path of the prediction, and the numbers show the strength of the prediction. For adolescents, emotional support, resiliency of efficacy and academic grades have direct positive effect on happiness. Grade level has a negative direct effect on resiliency of efficacy, meaning younger students have lower resiliency of efficacy. Socio-economic status has direct and positive effect on resiliency of efficacy and emotional support received. 
 
-**Insert Figure 55 here**
+**Figure 55: Factors influencing happiness, students**
+
+![](/static/figure55.png)
 
 For adults, resiliency of efficacy has a direct positive effect on happiness (See Figure 56). Alternatively, occupational achievement and children's success have direct positive effects on happiness. Emotional support, monthly income, and occupational success have direct positive effects on happiness and children's success. Education and emotional support have a direct positive effect on resiliency of efficacy. 
 
-**Insert Figure 56 here**
+**Figure 56: Factors influencing happiness, adults**
+
+
+
+**Figure 57: Generation and incentive structure**
+
+**Figure 58: Factors influencing trust and happiness**
+
+**Figure 59: Factors influencing happiness and work values: Self-efficacy as the mediator variable**
+
+**Figure 60: Work values, leadership efficacy, and traditional leadership style**
+
+**Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
 
 These results indicate that resiliency of efficacy and emotional support are important predictors of happiness for both adolescents and adults across different income groups and socio-economic status. For adolescents, academic achievement is an important predictor of happiness and for adults, occupational achievement and children's success are important predictors of happiness. For adults, income is a direct positive predictor of happiness and for adolescents, the socio-economic status is an indirect predictor of happiness mediated by academic achievement and emotional support.
 
