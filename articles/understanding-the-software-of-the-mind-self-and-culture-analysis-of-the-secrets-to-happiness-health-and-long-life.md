@@ -418,6 +418,8 @@ Mona Lisa was painted by Leonardo da Vinci (1452-1519), who represents the Rena
 
 **Figure 23: Mona Lisa at the center**
 
+![](/static/figure23.jpg)
+
 **Figure 24: Cartesian coordinate system**
 
 **Figure 25: Knee jerk reflex**
