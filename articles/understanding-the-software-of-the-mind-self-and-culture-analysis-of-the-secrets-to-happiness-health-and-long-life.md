@@ -266,6 +266,8 @@ Bandura (1997, 2023) conceptualized and measured human agency through self, rela
 
 **Figure 13: Self-efficacy and social influence**
 
+![](/static/figure13.png)
+
 **Figure 14: Transactional model of science**
 
 **Figure 15: Cranial capacity of homo sapiens and ape family**
