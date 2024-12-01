@@ -168,110 +168,6 @@ Biologically, humans belong to the Great Ape family, belonging to the *Hominini
 
 ![](/static/figure9.png)
 
-Figure 10: Bonobo monkey Kanzi
-
-Figure 11: Hunting
-
-Figure 12: Self-efficacy
-
-Figure 13: Self-efficacy and social influence
-
-Figure 14: Transactional model of science
-
-Figure 15: Cranial capacity of homo sapiens and ape family
-
-Figure 16: Lion-man, cave drawing and bone flute
-
-Figure 17: Early writing systems
-
-Figure 18: Making a cup
-
-Figure 19: Regional and cultural variations
-
-Figure 20: Jacquard Loom and early IBM computer
-
-Figure 21: Aristotelian universe
-
-Figure 22: God at the center
-
-Figure 23: Mona Lisa at the center
-
-Figure 24: Cartesian coordinate system
-
-Figure 25: Knee jerk reflex
-
-Figure 26: Descartes' discovery of self, truth
-
-Figure 27: Cartesian duality
-
-Figure 28: Cartesian duality               
-
-Figure 29: Shades of grey
-
-Figure 30: Traditional Korean landscape painting
-
-Figure 31: Rice planting
-
-Figure 32: Confucian philosophy
-
-Figure 33: Paying respect to ancestors in front of the grave
-
-Figure 34:  Bowing to parents
-
-Figure 35: Grandparents represent the past, and children represent the future
-
-Figure 36: Contextualization of culture and philosophy
-
-Figure 37: Culture and cultural change
-
-Figure 38: Facets of culture
-
-Figure 39: Aspects of the self
-
-Figure 40: Understanding the self
-
-Figure 41: Maintenance of self-identity
-
-Figure 42: Vincent van Gogh
-
-Figure 43: Van Gogh, June 1888
-
-Figure 44: Starry Night, June 1889
-
-Figure 45: Vincent van Gogh, December 1888
-
-Figure 46: Vincent van Gogh, 1889
-
-Figure 47: Self and other's perception
-
-Figure 48: Relational self
-
-Figure 49: Genetic tests of people around the world
-
-Figure 50: Human migration based on genetic analysis
-
-Figure 51: Korean Gross National Income and birth rate
-
-Figure 52: Easterlin Paradox
-
-Figure 53: Happiness and life-satisfaction
-
-Figure 54: Factor explaining happiness
-
-Figure 55: Factors influencing happiness, students
-
-Figure 56: Factors influencing happiness, adults
-
-Figure 57: Generation and incentive structure
-
-Figure 58: Factors influencing trust and happiness
-
-Figure 59: Factors influencing happiness and work values: Self-efficacy as the mediator variable
-
-Figure 60: Work values, leadership efficacy, and traditional leadership style
-
-Figure 61: Work values, leadership efficacy, and future-oriented leadership style
-
 Both chimpanzees and bonobo monkeys are socially and hierarchically organized. The chimpanzee's social group is dominated by the *alpha* male, which uses violence, hoards food, has exclusive mating access to females, and abuses lower ranking males to maintain their dominant position. In contrast, bonobo monkeys are led by an *alpha* female. She is more egalitarian, nonviolent, uses sex to help prevent and resolve conflicts, often walks upright, and shares food amongits members and non-members. Bonobo males contribute to the group by providing food and protection to young mothers, and female members protect and assist pregnant members through their birthing process, the only species known to do so other than humans. Most people believe that humans evolved from chimpanzees, reifying their view that the dominant males are aggressive, violent, competitive, and selfish. However, humans have evolved from bonobo monkeys, based on genetic and morphological analysis.[^8]
 
 Of the 21 *Homo* species in the genus, only one species, *Homo sapiens*, managed to survive to the modern day. *Homo sapiens* lived in the open southern African savanna from 300,00 years ago, which is a different ecology from the jungle canopy that provides protection and food for the bonobo monkeys and chimpanzees. (See Figure 9). *Homo sapiens* began to migrate around 80,00 years ago and accelerated by the Ice Age to populate the Earth (Henke & Tattersall, 2007). 
@@ -280,7 +176,111 @@ The first significant morphological difference is the opposable thumb, which a
 
 Stone tools allow humans to move from being hunted to become hunters. Making, refining, and teaching the tool use is a cultural achievement since "stone technology is based on learned behavior and is not directly transmitted biologically" (Conrad, 2007, p. 2005). Toth and Schlick (2007) point out that bonobo monkeys, such as Kanzi and his sister and offsprings, were able to use lexigram to communicate with humans. (See Figure 10). However, even after years of training in toolmaking, they could not be taught the "intentional percussive flaking of the stone" and did not develop "sharped edged tools for cutting" that are necessary to develop complex tools (Toth and Schlick, 2007). These results suggest that bonobo monkeys lack the agentic capabilities: *intentionality*, *forethought*, *self-reaction*, and *self-reflection* (Bandura, 2023)*.* These arethe four core aspects of human agency that allow humans to understand the self, relationships, the environment and to be creative and innovate to plan, execute, and realize the future that is the basis of the software of the mind (Bandura, 2023)*.*
 
-**Insert Figure 10 here**
+**Figure 10: Bonobo monkey Kanzi**
+
+![](/static/figure10.jpg)
+
+**Figure 11: Hunting**
+
+**Figure 12: Self-efficacy**
+
+**Figure 13: Self-efficacy and social influence**
+
+**Figure 14: Transactional model of science**
+
+**Figure 15: Cranial capacity of homo sapiens and ape family**
+
+**Figure 16: Lion-man, cave drawing and bone flute**
+
+**Figure 17: Early writing systems**
+
+**Figure 18: Making a cup**
+
+**Figure 19: Regional and cultural variations**
+
+**Figure 20: Jacquard Loom and early IBM computer**
+
+**Figure 21: Aristotelian universe**
+
+**Figure 22: God at the center**
+
+**Figure 23: Mona Lisa at the center**
+
+**Figure 24: Cartesian coordinate system**
+
+**Figure 25: Knee jerk reflex**
+
+**Figure 26: Descartes' discovery of self, truth**
+
+**Figure 27: Cartesian duality**
+
+**Figure 28: Cartesian duality**               
+
+**Figure 29: Shades of grey**
+
+**Figure 30: Traditional Korean landscape painting**
+
+**Figure 31: Rice planting**
+
+**Figure 32: Confucian philosophy**
+
+**Figure 33: Paying respect to ancestors in front of the grave**
+
+**Figure 34:  Bowing to parents**
+
+**Figure 35: Grandparents represent the past, and children represent the future**
+
+**Figure 36: Contextualization of culture and philosophy**
+
+**Figure 37: Culture and cultural change**
+
+**Figure 38: Facets of culture**
+
+**Figure 39: Aspects of the self**
+
+**Figure 40: Understanding the self**
+
+**Figure 41: Maintenance of self-identity**
+
+**Figure 42: Vincent van Gogh**
+
+**Figure 43: Van Gogh, June 1888**
+
+**Figure 44: Starry Night, June 1889**
+
+**Figure 45: Vincent van Gogh, December 1888**
+
+**Figure 46: Vincent van Gogh, 1889**
+
+**Figure 47: Self and other's perception**
+
+**Figure 48: Relational self**
+
+**Figure 49: Genetic tests of people around the world**
+
+**Figure 50: Human migration based on genetic analysis**
+
+**Figure 51: Korean Gross National Income and birth rate**
+
+**Figure 52: Easterlin Paradox**
+
+**Figure 53: Happiness and life-satisfaction**
+
+**Figure 54: Factor explaining happiness**
+
+**Figure 55: Factors influencing happiness, students**
+
+**Figure 56: Factors influencing happiness, adults**
+
+**Figure 57: Generation and incentive structure**
+
+**Figure 58: Factors influencing trust and happiness**
+
+**Figure 59: Factors influencing happiness and work values: Self-efficacy as the mediator variable**
+
+**Figure 60: Work values, leadership efficacy, and traditional leadership style**
+
+**Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
 
 Making complex stone tools requires special cognitive skills, but hunting requires more complex cognitive, motor, and social skills. The goal of the hunter is to catch a deer to feed the tribe. (See Figure 11). As the hunter approaches the deer, it hears a sound and runs. The hunter must throw the spear, not where the deer is, but must anticipate where the deer will be, and throw the spear to hit the deer few seconds later. This requires agentic capabilities and self-efficacy to execute a complex set of actions (Bandura, 2023). 
 
