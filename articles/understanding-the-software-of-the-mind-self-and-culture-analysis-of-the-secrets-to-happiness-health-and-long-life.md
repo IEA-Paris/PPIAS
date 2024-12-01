@@ -762,7 +762,11 @@ A renowned geneticist Spencer Wells (2002) with the cooperation of National Geog
 
 ![](/static/figure49.png)
 
+With the effect of the Ice Age, they began to migrate to northern Africa. (See Figure 50). With the lower sea level due to the effects of the Ice Age, they could cross the Red Sea and populate the Middle East. Some moved north to Central Asia and moved further north to become the current Europeans. Others moved southeast to Southeast Asia and travelled down to Indonesia and Australia. Others went to Central Asia, and they migrated north to Mongolia, China, Korea, and Japan. With the hunting of reindeer and elks, they were able to cross the ice bridge that connected Siberia and Alaska. They then travelled down to North America, Central America, and South America. With each migration, they were able to innovate and adapt to a very different ecological context.
+
 **Figure 50: Human migration based on genetic analysis**
+
+![](/static/figure50.png)
 
 **Figure 51: Korean Gross National Income and birth rate**
 
@@ -786,11 +790,7 @@ A renowned geneticist Spencer Wells (2002) with the cooperation of National Geog
 
 **Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
 
-With the effect of the Ice Age, they began to migrate to northern Africa. (See Figure 50). With the lower sea level due to the effects of the Ice Age, they could cross the Red Sea and populate the Middle East. Some moved north to Central Asia and moved further north to become the current Europeans. Others moved southeast to Southeast Asia and travelled down to Indonesia and Australia. Others went to Central Asia, and they migrated north to Mongolia, China, Korea, and Japan. With the hunting of reindeer and elks, they were able to cross the ice bridge that connected Siberia and Alaska. They then travelled down to North America, Central America, and South America. With each migration, they were able to innovate and adapt to a very different ecological context.
-
-**Insert Figure 50 here**
-
-Additional research confirm that humans evolved from a single tribe in the African savanna and populated the world, confirming the "Out of Africa" hypothesis (Bräuer, 2007). For this reason, humans share 99.9% of the genes. It makes the concepts of race, a sub-species category, unscientific. The concept of race as developed to justify colonialism and dehumanizing slavery by colonial masters in the 18^th ^century who claimed that Africans and Asian were genetically inferior, with innate intellectual deficits, and as such their subjugation is justified. For example, Francis Galton **(**1822- 1911) created the field of phrenology that analyzed the structure of the skull to show why Europeans were biologically superior to Africans and Asians, but scientific results refuted his claims. It is continued by proponents of sociobiology and IQ testing.
+Additional research confirm that humans evolved from a single tribe in the African savanna and populated the world, confirming the "Out of Africa" hypothesis (Bräuer, 2007). For this reason, humans share 99.9% of the genes. It makes the concepts of race, a sub-species category, unscientific. The concept of race as developed to justify colonialism and dehumanizing slavery by colonial masters in the 18^th ^century who claimed that Africans and Asian were genetically inferior, with innate intellectual deficits, and as such their subjugation is justified. For example, Francis Galton (1822- 1911) created the field of phrenology that analyzed the structure of the skull to show why Europeans were biologically superior to Africans and Asians, but scientific results refuted his claims. It is continued by proponents of sociobiology and IQ testing.
 
 Skin color is caused by the sustained exposure to ultraviolet radiation, and it does not influence the functioning of the brain or intellectual capacity. However, race is used as a social and political concept, and many people claim that it can be linked to genetic deficit causing intelligence, personality, and intellectual deficits. Treating people as an object through racism, sexism, homophobia, and social class is an example pseudo-science and moral disengagement that denies the person, group, or culture the basic human dignity to define themselves and limits their ability to realize their full human potential and exercise their agency (Bandura, 2023; Hüther, 2016).
 
