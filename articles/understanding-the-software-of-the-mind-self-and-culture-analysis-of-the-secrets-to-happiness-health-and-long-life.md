@@ -1389,6 +1389,10 @@ Https://www.amnh.org/exhibitions/permanent/human-origins/
 
 https://www.nationalgeographic.com/animals/mammals/facts/bonobos
 
+[^8]:
+
+
+
 [^9]: 
 
 https://www.health.harvard.edu/mind-and-mood/oxytocin-the-love-hormone
