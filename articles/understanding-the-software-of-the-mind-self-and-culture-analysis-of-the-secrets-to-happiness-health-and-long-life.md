@@ -1423,6 +1423,8 @@ https://en.wikipedia.org/wiki/Health_of_Vincent_van_Gogh
 
 [^16]:
 
+https://www.amnh.org/exhibitions/permanent/human-origins/
+
 [^17]:
 
 [^18]:
