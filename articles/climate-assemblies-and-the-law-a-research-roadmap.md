@@ -175,47 +175,41 @@ The article offered a research roadmap to study the legal dimensions of climate 
 
 The article explored six fundamental lines of inquiry to which law might be capable of offering relevant insights. Based on these six thematic dimensions, a concise legal research agenda made of high-level research questions can thus be proposed as follows:
 
-*i)               \*\*understanding the outcomes of climate assemblies*
+*i) understanding the outcomes of climate assemblies*
 
-\-      How do climate assemblies influence law and policy as well as the work of public institutions?
+* How do climate assemblies influence law and policy as well as the work of public institutions?
 
-*ii)             \*\*clarifying the role of climate assemblies in the public law relationship between individuals and government* 
+*ii) clarifying the role of climate assemblies in the public law relationship between individuals and government* 
 
-\-      What is the relationship between climate assemblies, the rule of law and populism?
+* What is the relationship between climate assemblies, the rule of law and populism?
+* What is the place of climate assemblies in the environmental democracy landscape?
+* What should be the role of climate assemblies vis-à-vis existing public institutions and processes?
 
-\-      What is the place of climate assemblies in the environmental democracy landscape?
+*iii) gaining insights into the making of climate legislation and other rules*
 
-\-      What should be the role of climate assemblies vis-à-vis existing public institutions and processes?
+* How is climate legislation made? How are legal outcomes shaped by experts, lobbies and public preferences?
+* How are considerations of justice and fairness reflected in climate legislation?
 
-*iii)           \*\*gaining insights into the making of climate legislation and other rules*
+*iv) exploring the societal understanding of norms* 
 
-\-      How is climate legislation made? How are legal outcomes shaped by experts, lobbies and public preferences?
+* How do lay citizens understand the role of law in climate governance?
+* How do assembly participants perceive their own decision-making role?
 
-\-      How are considerations of justice and fairness reflected in climate legislation?
+*v) illustrating the transnational governance of climate change* 
 
-*iv)            \*\*exploring the societal understanding of norms* 
+* Should citizens' assemblies on climate change be considered, and studied, differently from assemblies on other topics? 
+* How does the specificity of climate governance affect the operation of citizens' assemblies on climate change?
+* How has the practice of holding climate assemblies spread?
 
-\-      How do lay citizens understand the role of law in climate governance?
+*vi) offering a testing ground for the design of more ecologically and socially just legal frameworks*
 
-\-      How do assembly participants perceive their own decision-making role?
-
-*v)              \*\*illustrating the transnational governance of climate change* 
-
-\-      Should citizens' assemblies on climate change be considered, and studied, differently from assemblies on other topics? 
-
-\-      How does the specificity of climate governance affect the operation of citizens' assemblies on climate change?
-
-\-      How has the practice of holding climate assemblies spread?
-
-*vi)            \*\*offering a testing ground for the design of more ecologically and socially just legal frameworks*
-
-\-      How can legal experimentations like climate assemblies help reformulate environmental law to build more protective and fairer legal responses to environmental degradation?
+* How can legal experimentations like climate assemblies help reformulate environmental law to build more protective and fairer legal responses to environmental degradation?
 
 The objective of this research agenda is not to offer a comprehensive mapping of how law can find interest in the study of climate assemblies; it is, rather, to give a preview of the multiple and diverse contributions that law can make by proposing some high-level questions that might have the most impact for our understanding of climate assemblies. Legal scholars relying on different theories (doctrinal, socio-legal, critical...) and aiming to make different types of contributions (practical, empirical, theoretical...) should find engaging with the phenomenon of climate assemblies fruitful. 
 
 Now that the legal dimensions of climate assemblies have been set out, another question arises, namely how to connect with the production of knowledge by other disciplines. Indeed, such a research roadmap is to be integrated within a broader multi-disciplinary research agenda for the social sciences and humanities. Yet, 'it has in the past proved difficult for legal \[environmental] scholarship to make a distinctive impact on high-level interdisciplinary debate' (Little, 2016, p. 65). There are risks of duplicating the work of other disciplines, or of being purely reactive to the actions of others(Little, 2016 p. 69). Identifying the legal dimensions of climate assemblies is an essential first step. It now needs to be followed by further reflection and clarity on how to design and run productive multi-disciplinary projects on climate assemblies.
 
-**BIBLIOGRAPHY**
+## **BIBLIOGRAPHY**
 
 Affolder, N. (2019a). Transnational environmental law's missing people. *Transnational Environmental Law, 8*(3), 463-488. <https://doi.org/10.1017/S2047102519000190>
 
