@@ -1431,6 +1431,8 @@ https://www.genome.gov/human-genome-project
 
 [^18]:
 
+https://www.smithsonianmag.com/science-nature/bonobos-teach-humans-about-nature-language-180975191/
+
 [^19]:
 
 [^21]:
