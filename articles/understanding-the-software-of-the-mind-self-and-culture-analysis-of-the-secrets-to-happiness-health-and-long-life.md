@@ -675,7 +675,7 @@ To understand the conception of the self, art can be used since art is a direct 
 
 ![](/static/figure43.jpg)
 
-One year later, June 1889, he drew his most famous painting, *The Starry Night*. It is a different style of painting known as expressionism. (See Figure 44). There is even a song written by Don McLean, entitled Starry, Starry Night. How can his style of painting change so dramatically within one year? In December 1888, he suffered from seizures, hallucinations, and nightmares, and cut of his earlobe. He admitted himself to the Arles Hospital and he was diagnosed with acute mania with generalized delirium.[^15](https://en.wikipedia.org/wiki/Health_of_Vincent_van_Gogh) Figure 44 shows a self-portrait with his ear cut off in December, 1889. (See Figure 45). 
+One year later, June 1889, he drew his most famous painting, *The Starry Night*. It is a different style of painting known as expressionism. (See Figure 44). There is even a song written by Don McLean, entitled Starry, Starry Night. How can his style of painting change so dramatically within one year? In December 1888, he suffered from seizures, hallucinations, and nightmares, and cut of his earlobe. He admitted himself to the Arles Hospital and he was diagnosed with acute mania with generalized delirium.^15 Figure 44 shows a self-portrait with his ear cut off in December, 1889. (See Figure 45). 
 
 **Figure 44: Starry Night, June 1889**
 
