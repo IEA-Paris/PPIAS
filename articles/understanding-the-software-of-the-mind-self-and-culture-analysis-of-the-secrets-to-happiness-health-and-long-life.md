@@ -355,7 +355,7 @@ People in different parts of the world began to design and shape clay pottery. A
 
 ![](/static/figure19.png)
 
-These industries are made possible by Joseph Marie Jacquard (1752 - 1834), who patented the Jacquard Loom in 1804 to mass produce patterned silk fabrics and increase production efficiency. (See Figure 20). The loom is the hardware, and the proliferated papers used to run the loom is the software of the mind. It became the basis of the automated loom that fueled the First Industrial Revolution. The punch card is used to store digital information and software to run the IBM computers. The calculating or computing machine is the hardware and the punch card containing the digitized information is the software. The Jacquard Loom that was used to mass produce beautiful silk fabrics is an example of the software of the mind that paved the way for automation and the modern computer.  Steve Jobs points out that art and "design is not just what it looks and feels like. Design is how it works."[^13] He created the software iOS and designed the iPod, iPad, and iPhone to be elegant, efficient, and easy to use and revolutionized the smartphone industry.
+These industries are made possible by Joseph Marie Jacquard (1752 - 1834), who patented the Jacquard Loom in 1804 to mass produce patterned silk fabrics and increase production efficiency. (See Figure 20). The loom is the hardware, and the proliferated papers used to run the loom is the software of the mind. It became the basis of the automated loom that fueled the First Industrial Revolution. The punch card is used to store digital information and software to run the IBM computers. The calculating or computing machine is the hardware and the punch card containing the digitized information is the software. The Jacquard Loom that was used to mass produce beautiful silk fabrics is an example of the software of the mind that paved the way for automation and the modern computer.  Steve Jobs points out that art and "design is not just what it looks and feels like. Design is how it works."[^13](https://www.nytimes.com/2003/11/30/magazine/the-guts-of-a-new-machine.html) He created the software iOS and designed the iPod, iPad, and iPhone to be elegant, efficient, and easy to use and revolutionized the smartphone industry.
 
 **Figure 20: Jacquard Loom and early IBM computer**
 
@@ -421,7 +421,7 @@ Tycho Brahe (1546-1601), a Danish astronomer, received a grant from the King Fr
 
 It was his student, Johannes Kepler (1571-1630), a German astronomer and mathematicians, who had a breakthrough organizing Tycho Brahe's massive dataset. He adopted the Copernican Heliocentric model to formulate the Three Laws of Planetary Motion: 1) The orbit of a planet is an ellipse, with the Sun at one of the two foci, 2) a line segment joining a planet and the Sun sweeps out equal areas during equal intervals of time, and 3) the square of a planet's orbital period is proportional to the cube of the length of the semi-major axis of its orbit. Kepler's breakthrough challenged the views of the Catholic Church, but he could not explain the planetary motion. 
 
-Isaac Newton (1642-1727) provided a comprehensive explanation of planetary motion in the book entitled, *Mathematical Principles of Natural Philosophy* (1687). In 1675, he wrote to Robert Hook stating that "If I have seen further, it is by standing on the shoulders of Giants" referring to Nicolaus Copernicus, Galileo Galilei, Tycho Brahe, and Johannes Kepler. A multitude of scholars have seen apples fall to the ground, but they did not discover the law of gravity. Newton's rationale has been documented by William Stukeley: "We drank tea under the shade of some apple trees, and the notion of gravitation came into his mind: 'why should that apple always descend perpendicularly to the ground,' and 'why should it not go sideways, or upwards, but constantly to the earth's center'? The reason is that the earth draws it. There must be a drawing power in matter and the sum of the drawing power in the matter of the earth must be in the earth's center, not in any side of the earth. This apple falls perpendicularly, or toward the center. If matter thus draws matter; it must be in proportion of its quantity. Therefore, the apple draws the earth, as well as the earth draws the apple" (Hamblyn, 2011).[^14]
+Isaac Newton (1642-1727) provided a comprehensive explanation of planetary motion in the book entitled, *Mathematical Principles of Natural Philosophy* (1687). In 1675, he wrote to Robert Hook stating that "If I have seen further, it is by standing on the shoulders of Giants" referring to Nicolaus Copernicus, Galileo Galilei, Tycho Brahe, and Johannes Kepler. A multitude of scholars have seen apples fall to the ground, but they did not discover the law of gravity. Newton's rationale has been documented by William Stukeley: "We drank tea under the shade of some apple trees, and the notion of gravitation came into his mind: 'why should that apple always descend perpendicularly to the ground,' and 'why should it not go sideways, or upwards, but constantly to the earth's center'? The reason is that the earth draws it. There must be a drawing power in matter and the sum of the drawing power in the matter of the earth must be in the earth's center, not in any side of the earth. This apple falls perpendicularly, or toward the center. If matter thus draws matter; it must be in proportion of its quantity. Therefore, the apple draws the earth, as well as the earth draws the apple" (Hamblyn, 2011).[^14](https://en.wikipedia.org/wiki/Isaac_Newton)
 
 The Newtonian Law of Universal Gravitation can integrate, explain, and predict the motion of the planets, the tides, the trajectory of comets, and the precession of the equinoxes. He predicted the appearance, time and exact location of Haley's comet with a tail pointing away from the sun and went through the crystalline spheres of Aristotle's universe. He demonstrated that the principles of the motion of planets can be applied to objects on earth and introduced the Three Laws of Motion: 1) The law of inertia, 2) *F* = *ma*, and 3) The law action and reaction. 
 
@@ -675,7 +675,7 @@ To understand the conception of the self, art can be used since art is a direct 
 
 ![](/static/figure43.jpg)
 
-One year later, June 1889, he drew his most famous painting, *The Starry Night*. It is a different style of painting known as expressionism. (See Figure 44). There is even a song written by Don McLean, entitled Starry, Starry Night. How can his style of painting change so dramatically within one year? In December 1888, he suffered from seizures, hallucinations, and nightmares, and cut of his earlobe. He admitted himself to the Arles Hospital and he was diagnosed with acute mania with generalized delirium.[^15] Figure 44 shows a self-portrait with his ear cut off in December, 1889. (See Figure 45). 
+One year later, June 1889, he drew his most famous painting, *The Starry Night*. It is a different style of painting known as expressionism. (See Figure 44). There is even a song written by Don McLean, entitled Starry, Starry Night. How can his style of painting change so dramatically within one year? In December 1888, he suffered from seizures, hallucinations, and nightmares, and cut of his earlobe. He admitted himself to the Arles Hospital and he was diagnosed with acute mania with generalized delirium.[^15](https://en.wikipedia.org/wiki/Health_of_Vincent_van_Gogh) Figure 44 shows a self-portrait with his ear cut off in December, 1889. (See Figure 45). 
 
 **Figure 44: Starry Night, June 1889**
 
@@ -769,11 +769,11 @@ In England, Karl Marx was excited to read about the struggle for existence and w
 
 ### **Genetics and neurobiology**
 
-Genes are found on chromosomes and are made of Deoxyribonucleic acid (DNA), and they influence and determine the characteristic traits of an organism (e.g., the color of a bird's feathers or the shape of its beak).[^16] The Human Genome Project, the world's largest collaborative biological project, was launched in October 1990 to map and sequence the euchromatic portion of the human genome.[^17] It was completed in April 2003. The genome sequence analysis covers 99% of the euchromatic genome, and it is accurate to an error rate of 1/100,000 bases. International Human Genome Sequencing Consortium (2004) concluded that humans have around 20,000-25,000 protein-coding genes. 
+Genes are found on chromosomes and are made of Deoxyribonucleic acid (DNA), and they influence and determine the characteristic traits of an organism (e.g., the color of a bird's feathers or the shape of its beak).[^16](https://www.amnh.org/exhibitions/permanent/human-origins/) The Human Genome Project, the world's largest collaborative biological project, was launched in October 1990 to map and sequence the euchromatic portion of the human genome.[^17](https://www.genome.gov/human-genome-project) It was completed in April 2003. The genome sequence analysis covers 99% of the euchromatic genome, and it is accurate to an error rate of 1/100,000 bases. International Human Genome Sequencing Consortium (2004) concluded that humans have around 20,000-25,000 protein-coding genes. 
 
 We are born with a particular set of genes, but they do not determine how the genes work and are expressed. Gene expression refers to *when* and *how frequently* the proteins are produced from the instructions of the genes, including when and how frequently they are made. Deans (2015) points out that a particular gene does not define a specific genetic expression, and two identical genes can work differently. They can be turned on or off, like the volume on a mobile phone where the volume can be turned on in different amounts, in different places, and at different times. One trait can be affected by several genes and one gene can affect several traits at the same time. They found that experiences and environmental factors can cause epigenetics, which is the change in how the genes work. Most genetic traits are influenced by the environmental factors and experience (e.g., diet, vitamin D, sea level, where one lives, and the experience of stress). While genetic changes can alter which protein is made, and epigenetics affect the gene expression to turn the genes on or off.
 
-Although the same genes are found in the same brain regions for humans and chimpanzees, they can be turned on or off, up or down, or in different amounts. Even though humans and chimpanzees share 98.8% of the genes, each human cell contains around 3 billion base pairs or bits of information and 1.2 % equals about 35 million differences.[^18] Some differences have a large impact, and others do not, since it can be turned on or off and in different amounts, in different places and at different times.
+Although the same genes are found in the same brain regions for humans and chimpanzees, they can be turned on or off, up or down, or in different amounts. Even though humans and chimpanzees share 98.8% of the genes, each human cell contains around 3 billion base pairs or bits of information and 1.2 % equals about 35 million differences.[^18](https://www.smithsonianmag.com/science-nature/bonobos-teach-humans-about-nature-language-180975191/) Some differences have a large impact, and others do not, since it can be turned on or off and in different amounts, in different places and at different times.
 
 A renowned geneticist Spencer Wells (2002) with the cooperation of National Geographics conducted genetic analysis of people around the world to discover the origins of our ancestry (Wells, 2002; See Figure 49). By examining the mutations in our recessive gene in the Y chromosome, known as the M168 (Haplogroup CT, Y-DNA), he could figure out the origins of human ancestry. He concludes that the ancestry of the Homo sapiens can be traced to a single tribe known as the San people or Bushmen in southern Africa around 60,000 years ago. 
 
@@ -853,7 +853,7 @@ One middle-class family received a relatively small amount of $10,000. Since it 
 
 ### **World Happiness Survey**
 
-The results from the World Happiness Survey found that Korea is ranked 57th among the 150 participating countries with the mean score of 5.951 on a 11-point Cantril Self-Anchoring Scale (from 0-10), which is much lower than the OECD average of 6.7.[^19] This is down from the rank of 41st with the mean score of 6.267 in 2013. For the past 10 years, the mean score has been below 6.0. It is much lower than their close cultural and economic counterpart Taiwan, which is ranked 27th with the mean score of 6.535. The Korean score has not changed in the past 10 years even though the economy has been growing. If Korea is the 10th largest economy in the world, why are Koreans not as happy as neighboring Taiwan and other economically developed countries?
+The results from the World Happiness Survey found that Korea is ranked 57th among the 150 participating countries with the mean score of 5.951 on a 11-point Cantril Self-Anchoring Scale (from 0-10), which is much lower than the OECD average of 6.7.[^19](https://countryeconomy.com/demography/world-happiness-index/south-korea) This is down from the rank of 41st with the mean score of 6.267 in 2013. For the past 10 years, the mean score has been below 6.0. It is much lower than their close cultural and economic counterpart Taiwan, which is ranked 27th with the mean score of 6.535. The Korean score has not changed in the past 10 years even though the economy has been growing. If Korea is the 10th largest economy in the world, why are Koreans not as happy as neighboring Taiwan and other economically developed countries?
 
 We need to examine the basic assumptions about the relationship between economic development, income, and happiness. The Korean economic and political system that propelled rapid economic growth also created the social problems and the destruction of Korean families and relationships, the same way that winning a lottery can change people's mindset, lifestyle, and relationships. 
 
@@ -961,9 +961,9 @@ Deloitte (2021) concludes that digital platforms are fundamentally changing the 
 
 The phenomenal economic growth in Korea has been spurred by educational achievements. The economic miracle in Korea is closely tied to the educational aspiration and investment made by adolescents and parents. By 1983, Korea had the highest percentage of adolescents wishing to obtain a university degree and the number of parents who wanted their children to at least graduate from university (Park & Kim, 2004). Currently, the literacy rate is 99%, high school graduation rate is 96% and university enrollment rate is 72%.
 
-In international studies of academic achievement, Korean students are ranked at the top in knowledge and performance. In international comparisons of math and science achievement, Koreans students are the top achievers (National Center for Educational Statistics, 2019).[^20] In the 39-nation study of Grade 4 and 8 students, Korean Grade 4 students are ranked 3rd in mathematics and 2nd in science.[^21] For]Grade 8 students, they came in 3rd in mathematics and 4th in science. In the 31-nation OECD study of Grade 9 students in 2018, Korean students are ranked in the top tier: 2nd to 7th in reading, 1st to 4th in mathematics, and 3rd to 5th in science.
+In international studies of academic achievement, Korean students are ranked at the top in knowledge and performance. In international comparisons of math and science achievement, Koreans students are the top achievers (National Center for Educational Statistics, 2019).[^20](https://nces.ed.gov/timss/) In the 39-nation study of Grade 4 and 8 students, Korean Grade 4 students are ranked 3rd in mathematics and 2nd in science.[^21](https://www.oecd.org/pisa/publications/pisa-2018-results.htm) For]Grade 8 students, they came in 3rd in mathematics and 4th in science. In the 31-nation OECD study of Grade 9 students in 2018, Korean students are ranked in the top tier: 2nd to 7th in reading, 1st to 4th in mathematics, and 3rd to 5th in science.
 
-According to the traditional Korean media, Gen Zs are individualistic, assertive, and viewed as selfish.[^22] They raise their voice to express their opinion and pursue personal happiness rather than sacrificing for the family or group. They are highly mobile and prefer to receive instant information and results. They are active in self-expression using social media, boasting in their personal blog or Facebook and focused on self-satisfaction. They have easy access to information, and they can actively explore their interests in various fields, prepare for employment, and share information and receive feedback.
+According to the traditional Korean media, Gen Zs are individualistic, assertive, and viewed as selfish.[^22](www.inews24.com/view/1407279) They raise their voice to express their opinion and pursue personal happiness rather than sacrificing for the family or group. They are highly mobile and prefer to receive instant information and results. They are active in self-expression using social media, boasting in their personal blog or Facebook and focused on self-satisfaction. They have easy access to information, and they can actively explore their interests in various fields, prepare for employment, and share information and receive feedback.
 
 By forming and activating an online community, they share information and build friendships by belonging to several online communities that fit their interests. They value experience over possession by participating in one-day classes and going on a weekend holiday. The virtual world has become as important as the physical world. Online friends have become an important source of social support in obtaining information about social trends, finding a job, and developing skills that are necessary to succeed. They have greater diversity of relationships and career choices that they pursue. The social support received from the online community is becoming important for Gen Zs. 
 
@@ -977,7 +977,7 @@ Korean economy, which is export-driven and manufacturing-based, faces fierce com
 
 Due to the high cost of living, housing, and low income, the Gen Zs are living with their parents beyond the age of 30 or alone, but they can expand their social network through online channels. Instead of working for a large company and making sacrifices for unattainable financial security, they focus on experiences that can make them happy by engaging in personally meaningful activities, developing their interests and skills, and finding a job that is aligned with their personal values. As the most educated generation, they reject the pre-determined lifestyles of their parents' generation, which lacks meaning and purpose for them.
 
-In Korea, morality and ethics change depending on situations and relationship (Kim, 1995). As such generalized trust is low and institutions do not function well compared to Scandinavian countries (Kim et al., 2002, 2006). Gen Zs have internalized ethical standards, and they are acting beyond the situations and relationships. One example is the boycotting of Uniqlo, a popular Japanese fast retailing company.[^23] Three years ago, Uniqlo's Chief Financial Officer mocked wartime forced laborers and stated that "the boycott will not last long in Korea." Uniqlo became the target of the boycott among Gen Zs which had immediate impact. Sales plummeted and 40 stores closed last year, and they have not recovered.
+In Korea, morality and ethics change depending on situations and relationship (Kim, 1995). As such generalized trust is low and institutions do not function well compared to Scandinavian countries (Kim et al., 2002, 2006). Gen Zs have internalized ethical standards, and they are acting beyond the situations and relationships. One example is the boycotting of Uniqlo, a popular Japanese fast retailing company.[^23](http://theviewers.co.kr/View.aspx?No=1627553) Three years ago, Uniqlo's Chief Financial Officer mocked wartime forced laborers and stated that "the boycott will not last long in Korea." Uniqlo became the target of the boycott among Gen Zs which had immediate impact. Sales plummeted and 40 stores closed last year, and they have not recovered.
 
 To empirically test the changing trends among Gen Zs, two studies have been conducted. (See Appendix 1). The first study collected survey questionnaires from 353 Gen Zs attending a Korean university (J. Kim, 2024). The results indicate that Gen Zs realize that the incentive structure has changed, and they can't live like their parents, and they do not want to sacrifice happiness for success. They are pursuing both success and happiness by learning new knowledge and skills obtained from online communities and influencers. They are breaking away from traditional ingroup mentality ("arms bend inward") by developing the necessary English and social skills. They are engaging in online communities and meeting people with similar interests, ethics, and life goals. For Gen Zs, it is not to reject the relationship that is important in Korean culture, but to expand the relationship through the online community ("stretch your arms outward"). The results provide a window to understanding mindset, perspective, and lifestyle that the older generations have difficulty accepting. 
 
@@ -1081,7 +1081,7 @@ The digital revolution created a new platform where information can be created, 
 
 For the first time in history, people and especially Gen Zs, are obtaining information, news, and content from streaming services rather than the traditional community and linear media. Brown (1986) reviews research on social influence and found that people seek information and news that confirm and verify their current beliefs and prefer to associate with a group of liked-minded people. In such a community, a person who articulates a more extreme view has more influence on the group members. This creates a risky shift and extremism since people are attracted to views that are more extreme than their current view. They become more extreme when they discuss their views with their group members (Brown, 1986). With the access to unregulated online channels, there is growing extremism, popularism, and fragmentation that entrench and justify their existing views and have spurred the consumption of fake news, populism, and conspiracy theories. 
 
-With the digital revolution, individuals spend more time online and become absorbed in their micro-worlds, avoiding person-to-person contacts. People can choose to select the information that confirms their views, to interact with like-minded people, and to reject a balanced view and tolerance that are necessary for a functional society. Smartphones, internet, and cloud computing allow people to access information and connect to AI and augmented reality 24 hours a day and 7-days a week. The smartphone has now become an essential device where people are willing to give up food for a day rather than part with their smartphone. It has become a new baby-sitter where infants stare at the screen for hours and learn to use these devices before they can walk or talk. Generative AI can create reports, paintings, and photos using AI computer generated algorithms so that we do not have to think and use our brain. These phenomena concerned Einstein many years ago, who lamented in 1946 that "I believe that the abominable deterioration of ethical standards stems primarily from the mechanization and depersonalization of our lives - a disastrous byproduct of science and technology. *Nostra culpa*! (We are to blame!)."[^25]
+With the digital revolution, individuals spend more time online and become absorbed in their micro-worlds, avoiding person-to-person contacts. People can choose to select the information that confirms their views, to interact with like-minded people, and to reject a balanced view and tolerance that are necessary for a functional society. Smartphones, internet, and cloud computing allow people to access information and connect to AI and augmented reality 24 hours a day and 7-days a week. The smartphone has now become an essential device where people are willing to give up food for a day rather than part with their smartphone. It has become a new baby-sitter where infants stare at the screen for hours and learn to use these devices before they can walk or talk. Generative AI can create reports, paintings, and photos using AI computer generated algorithms so that we do not have to think and use our brain. These phenomena concerned Einstein many years ago, who lamented in 1946 that "I believe that the abominable deterioration of ethical standards stems primarily from the mechanization and depersonalization of our lives - a disastrous byproduct of science and technology. *Nostra culpa*! (We are to blame!)."[^25](https://www.politifact.com/factchecks/2019/mar/22/facebook-posts/no-albert-einstein-did-not-say-technology-would-cr/)
 
 Although the world is facing global climate crisis, wars, social inequality, and ethical problems, unregulated social media is fueling the breakdown of society. Politicians and government bureaucracy maintain conflicts, dissensions, and fragmentation without providing viable solutions. Gen Zs are disengaging from the local communities and institutions created by the Baby Boomer generation since they do not represent their values and aspirations. They are engaging in online communities and live on their own in micro-worlds that provide greater freedom, access, and convenience. This has led to fragmentation, disengagement, and the distrust of the government, media, social institutions, and companies. 
 
@@ -1365,10 +1365,6 @@ Yamaguchi, S., & Ariizumi, Y. (2006). Close personal relationships among Japane
 
 To communicate to a transdisciplinary audience, I have used a conversation style reducing the technical terminology and excessive referencing. To aid in understanding of the phenomenology and context, I have used figures, diagrams, paintings, and photos. These photos, paintings, and diagrams have been accessed from the public domain (e.g., wikipedia.org) and old photos and paintings that are not copyrighted). Parts of this are based on Kim and Kim (1995, 1999, 2001; Kim & Kim; 2022, 2023) articles.
 
-[^2]:
-
-https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/
-
 [^3]: 
 
 https://www.npr.org/sections/13.7/2018/03/14/593156411/the-universe-according-to-albert-einstein-relativity#:~:text=Einstein
@@ -1380,7 +1376,6 @@ https://www.hawking.org.uk/in-words/lectures/does-god-play-dice
 [^5]: 
 
 https://en.wikipedia.org/wiki/Rose_is_a_rose_is_a_rose_is_a_rose
-
 
 [^7]: 
 
@@ -1402,57 +1397,9 @@ On a personal note, I was interviewed by Fred Rothbaum prior to their publicatio
 
 See for instance, Henke & Tattersall (2007), Siegal (2010), and Hüther (2016).
 
-[^13]: 
-
-https://www.nytimes.com/2003/11/30/magazine/the-guts-of-a-new-machine.html
-
-[^14]:
-
-https://en.wikipedia.org/wiki/Isaac_Newton
-
-[^15]:
-
-https://en.wikipedia.org/wiki/Health_of_Vincent_van_Gogh
-
-[^16]:
-
-https://www.amnh.org/exhibitions/permanent/human-origins/
-
-[^17]:
-
-https://www.genome.gov/human-genome-project
-
-[^18]:
-
-https://www.smithsonianmag.com/science-nature/bonobos-teach-humans-about-nature-language-180975191/
-
-[^19]:
-
-https://countryeconomy.com/demography/world-happiness-index/south-korea
-
-[^20]:
-
-https://nces.ed.gov/timss/
-
-[^21]:
-
-https://www.oecd.org/pisa/publications/pisa-2018-results.htm
-
-[^22]:
-
-www.inews24.com/view/1407279
-
-[^23]:
-
-http://theviewers.co.kr/View.aspx?No=1627553 
-
 [^24]:
 
 The European Union passed the Digital Services Act (DSA) that took effect on February 17, 2024. The goal is to protect "consumers and their fundamental rights online by setting clear and proportionate rules. It fosters innovation, growth and competitiveness, and facilitates the scaling up of smaller platforms, SMEs and start-ups. The roles of users, platforms, and public authorities are rebalanced according to European values, placing citizens at the centre." The DSA "regulates online intermediaries and platforms such as marketplaces, social networks, content-sharing platforms, app stores, and online travel and accommodation platforms. Its main goal is to prevent illegal and harmful activities online and the spread of disinformation. It ensures user safety, protects fundamental rights, and creates a fair and open online platform environment." It is the first attempt to systematically regulates online platform and we need to examine if the regulation is effective, whether it will stand the legal challenges, and whether the USA will apply sanctions against EU since the vast majority of the online platforms are dominated by the USA companies. https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act.
-
-[^25]:
-
-https://www.politifact.com/factchecks/2019/mar/22/facebook-posts/no-albert-einstein-did-not-say-technology-would-cr/
 
 ## Annex 1
 
