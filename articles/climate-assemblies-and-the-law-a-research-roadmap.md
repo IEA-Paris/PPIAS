@@ -259,7 +259,7 @@ Courant, D. (2022). Institutionalizing deliberative mini-publics? Issues of leg
 
 Delooz, B. (2020). Challenges and political, institutional, and normative perspectives of the citizens' assemblies: An approach based on the example of the Citizen's Climate Convention. *Brazilian Journal of Public Policy, 10*, 636.
 
-Denmark's citizens' assembly on climate issues (2021). **The** Citizens' Assembly's recommendations, First gathering. Retrieved from <https://www.en.kefm.dk/Media/637647201779892262/Borgertingets%20anbefalinger_ENG.pdf>
+Denmark's citizens' assembly on climate issues (2021). TheCitizens' Assembly's recommendations, First gathering. Retrieved from <https://www.en.kefm.dk/Media/637647201779892262/Borgertingets%20anbefalinger_ENG.pdf>
 
 Denmark's citizens' assembly on climate issues (2022). The Citizens' Assembly's recommendations, Second gathering. Retrieved from <https://www.en.kefm.dk/Media/638100734644085274/Recommendations%20of%20the%20Citizens'%20Assembly%20Second%20Gathering.pdf>
 
@@ -334,11 +334,11 @@ Landemore, H. (2020). *Open democracy: Reinventing popular rule for the twenty-
 
 Landemore, H., & Fourniau, J.-M. (2022). Citizens' assemblies, a new form of democratic representation? *Participations, 34*(3), 5**\-**36.<https://doi.org/10.3917/parti.034.0005>
 
-**Levy, R., Kong, H., Orr, G., & King, J. (Eds.). (2018). *The Cambridge handbook of deliberative constitutionalism*. Cambridge University Press.** <https://doi.org/10.1017/9781108289474>
+Levy, R., Kong, H., Orr, G., & King, J. (Eds.). (2018). *The Cambridge handbook of deliberative constitutionalism*. Cambridge University Press. <https://doi.org/10.1017/9781108289474>
 
 Lewis, P., Ainscough, J., & Coxcoon, R. et al. (2023). The messy politics of local climate assemblies. *Climatic Change, 176*(76). <https://doi.org/10.1007/s10584-023-03555-8>
 
-**Little, G. (2016). Developing environmental law scholarship: going beyond the legal space. *Legal Studies*, 36(1), 48-74.** <https://doi.org/10.1111/lest.12093>
+Little, G. (2016). Developing environmental law scholarship: going beyond the legal space. *Legal Studies*, 36(1), 48-74. <https://doi.org/10.1111/lest.12093>
 
 Machin, A. (2023). Democracy, agony, and rupture: A critique of climate citizens' assemblies. *Politische Vierteljahresschrift, 64*, 845-864. <https://doi.org/10.1007/s11615-023-00455-5>
 
