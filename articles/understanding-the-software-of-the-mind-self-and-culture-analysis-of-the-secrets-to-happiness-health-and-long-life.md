@@ -1393,7 +1393,6 @@ https://www.nationalgeographic.com/animals/mammals/facts/bonobos
 
 https://gwtoday.gwu.edu/bonobos-may-resemble-humans-more-you-think
 
-
 [^9]: 
 
 https://www.health.harvard.edu/mind-and-mood/oxytocin-the-love-hormone
@@ -1409,6 +1408,23 @@ On a personal note, I was interviewed by Fred Rothbaum prior to their publicatio
 [^12]:
 
 See for instance, Henke & Tattersall (2007), Siegal (2010), and Hüther (2016).
+
+[^13]:
+
+https://www.nytimes.com/2003/11/30/magazine/the-guts-of-a-new-machine.html
+
+[^14]:
+
+
+https://en.wikipedia.org/wiki/Isaac_Newton
+
+
+
+
+
+[15}:
+
+[^16]
 
 [^24]:
 
