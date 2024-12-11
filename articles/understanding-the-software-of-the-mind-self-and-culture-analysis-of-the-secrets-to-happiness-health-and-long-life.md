@@ -1391,7 +1391,7 @@ https://www.nationalgeographic.com/animals/mammals/facts/bonobos
 
 [^8]:
 
-
+https://gwtoday.gwu.edu/bonobos-may-resemble-humans-more-you-think
 
 [^9]: 
 
