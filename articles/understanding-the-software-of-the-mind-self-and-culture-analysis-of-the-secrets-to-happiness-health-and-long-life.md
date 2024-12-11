@@ -1459,7 +1459,7 @@ The European Union passed the Digital Services Act (DSA) that took effect on Feb
 
 [^25]:
 
-
+https://www.politifact.com/factchecks/2019/mar/22/facebook-posts/no-albert-einstein-did-not-say-technology-would-cr/
 
 ## Annex 1
 
