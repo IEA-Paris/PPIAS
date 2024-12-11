@@ -30,7 +30,26 @@ authors:
       google_scholar: ""
       researchgate: ""
       mendeley: ""
-abstract: "                "
+abstract: "This article examines the software of the mind, self, and culture
+  that can explain the secrets to happiness, health, and long life.[^1]  First,
+  this article outlines the assumption of objectivity in science, and the
+  importance of understanding the subjective and creative aspects of science.
+  Second, Albert Bandura’s Social Cognitive Theory is introduced, providing the
+  basis of understanding human creativity and software of the mind. He
+  articulates the importance of understanding the precursors to human creativity
+  and action: Intention, forethought, self-reflection, and self-reaction. Third,
+  the understanding of the software of the human mind from the Western
+  perspective is provided. Fourth, the East Asian perspective and Confucianism
+  that emphasize the relatedness and connectedness of the self to others are
+  introduced. Fifth, an understanding of how culture is socialized in children
+  and the development of the self in East Asia are outlined. Sixth, the
+  limitations of the traditional biological models in explaining the software of
+  the mind, self, and culture are outlined by reviewing the scientific advances
+  in epigenetics and neurobiology. Seventh, the economic, social, relational,
+  and psychological factors explaining the secrets to happiness, health, and
+  long life are outlined. Finally, the phenomenology behind the knowledge
+  creation and the discovery process and the implications of the digital
+  revolution for the Gen Zs are reviewed."
 issue: content/issues/paris-ias-ideas.md
 highlight: false
 bibliography: /static/references_kim.bib
@@ -78,7 +97,7 @@ Einstein developed his view of the static eternal universe and rejected the pro
 
 With a series of experiments at the Large Hadron Collider at CERN, Switzerland, researchers discovered in 2012 a subatomic particle with the properties proposed by Peter Higgs - it was named as the Higgs-boson particle. Stephen Hawking comments that "not only does God play dice but... he sometimes throws them where they cannot be seen."[^4] Results from Quantum physics questions "the doctrine that the world is made up of objects whose existence is independent of human consciousness turns out to be in conflict with quantum mechanics and with facts established by experiment" (d'Espagnat, 1979). These results indicate the importance of raising questions, looking at the data with a fresh perspective, and questioning the basic assumption of established theories (Burke, 1985; Holten, 1988). Science progresses by giving us the best approximation of reality at the present but leaves the possibility that human creativity can provide a more accurate knowledge in the future. We cannot know with absolute certainty the nature of the object since it involves human perception and analysis to understand the object. We can only observe and infer causality between two correlated events in space and time.
 
-In the field of chemistry, Antoine Lavoisier (1743 --1794) transformed chemistry from a qualitative to a quantitative science. His first step was to dismiss the assumptions behind the phlogiston theory. He introduced oxygen and hydrogen as the basic elements in the combustion process. He developed measurement devices and used thermometric to measure temperature, barometric to measure pressure, and calorimeter for measuring heat changes in a reaction. He helped to construct the metric system and organized the list of chemical elements in the Periodic Table.
+In the field of chemistry, Antoine Lavoisier (1743 - 1794) transformed chemistry from a qualitative to a quantitative science. His first step was to dismiss the assumptions behind the phlogiston theory. He introduced oxygen and hydrogen as the basic elements in the combustion process. He developed measurement devices and used thermometric to measure temperature, barometric to measure pressure, and calorimeter for measuring heat changes in a reaction. He helped to construct the metric system and organized the list of chemical elements in the Periodic Table.
 
 ### **Power to define and control**
 
@@ -1348,11 +1367,11 @@ To communicate to a transdisciplinary audience, I have used a conversation style
 
 [^2]:
 
- https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/
+ [https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says](https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says)/
 
 [^5]: 
 
-https://en.wikipedia.org/wiki/Rose_is_a_rose_is_a_rose_is_a_rose
+<https://en.wikipedia.org/wiki/Rose_is_a_rose_is_a_rose_is_a_rose>
 
 [^7]: 
 
