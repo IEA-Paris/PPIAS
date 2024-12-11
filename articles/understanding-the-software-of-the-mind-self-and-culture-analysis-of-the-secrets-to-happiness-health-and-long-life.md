@@ -1415,6 +1415,8 @@ https://www.nytimes.com/2003/11/30/magazine/the-guts-of-a-new-machine.html
 
 [^14]:
 
+https://en.wikipedia.org/wiki/Isaac_Newton
+
 [^15]:
 
 [^16]:
