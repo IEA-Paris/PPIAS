@@ -1415,13 +1415,25 @@ https://www.amnh.org/exhibitions/permanent/human-origins/
 
 [^17]:
 
+https://www.genome.gov/human-genome-project
+
 [^18]:
+
+https://www.smithsonianmag.com/science-nature/bonobos-teach-humans-about-nature-language-180975191/
 
 [^19]:
 
+https://countryeconomy.com/demography/world-happiness-index/south-korea
+
 [^20]:
 
+https://nces.ed.gov/timss/
 
+[^21]:
+
+[^22]:
+
+[^23]:
 
 [^24]:
 
