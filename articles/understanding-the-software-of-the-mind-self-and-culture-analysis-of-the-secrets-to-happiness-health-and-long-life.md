@@ -1419,6 +1419,8 @@ https://en.wikipedia.org/wiki/Isaac_Newton
 
 [^15]:
 
+https://en.wikipedia.org/wiki/Health_of_Vincent_van_Gogh
+
 [^16]:
 
 [^17]:
