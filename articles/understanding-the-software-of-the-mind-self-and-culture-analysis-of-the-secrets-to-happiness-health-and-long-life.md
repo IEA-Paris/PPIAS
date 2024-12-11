@@ -1409,7 +1409,9 @@ On a personal note, I was interviewed by Fred Rothbaum prior to their publicatio
 
 See for instance, Henke & Tattersall (2007), Siegal (2010), and Hüther (2016).
 
-[^13}:
+[^13]:
+
+https://www.nytimes.com/2003/11/30/magazine/the-guts-of-a-new-machine.html
 
 [^14]:
 
