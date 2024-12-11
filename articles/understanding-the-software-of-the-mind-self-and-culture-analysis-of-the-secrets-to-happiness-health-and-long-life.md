@@ -83,7 +83,7 @@ Although science does not progress in a series of objective and mechanical fashi
 
 Burke (1985) documents the seminal discoveries in science that have been made in irrational and dream-like states. He notes that these discoveries do not proceed in a purely rational and mechanical fashion. He provides the following examples. Einstein revolutionized the fundamental understanding of matter when he saw himself "riding on a beam of light" in his dream and concluded that "if he were to do so, light would appear to be static" (p. 303) and proposed the convertibility of energy and mass as *E*=*mc*^2^. August Kekulé discovered the stable structure of the benzene ring when he was "gazing into the fire and seeing in the flames a ring of atoms like a serpent eating its own tail" (p. 303). Newton is said to have realized the Law of Gravitational Attraction seeing an apple fall to the ground. Archimedes leaped out of his bathtub yelling *eureka* when he realized the meaning of buoyancy and displacement. Johannes Gutenberg described the idea of the printing as "coming like a ray of light" (p. 303). Alfred Wallace realized the theory of evolution in a "delirium." He  notes that these "act of mystical significance in which a man uncovers yet another secret of nature is at the very heart of science" (p. 303). 
 
-It is important to understand the phenomenology behind the assumptions, concepts, and theory to obtain a full picture of how knowledge is created, shaped, and advanced in science, philosophy, and society. In the field of IT, Steve Jobs points out in 2005: "You can't connect the dots looking forward; you can only connect them looking backward. So, you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life"[^2]. This is the basis of creativity and the software of the mind, self, and culture.
+It is important to understand the phenomenology behind the assumptions, concepts, and theory to obtain a full picture of how knowledge is created, shaped, and advanced in science, philosophy, and society. In the field of IT, Steve Jobs points out in 2005: "You can't connect the dots looking forward; you can only connect them looking backward. So, you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life"[^2](https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/). This is the basis of creativity and the software of the mind, self, and culture.
 
 ### **Scientific method**
 
@@ -171,7 +171,7 @@ John Culkin points out that "fish did not discover water" since it is a part of 
 
 To understand the development of the software of the mind, self, and culture, we need to first examine our biological heritage. Biologically, human beings belong to the Great Ape family, and became a separate species known as the *homo sapiens* around six million years ago. *Homo sapiens* share 98.8% of the genes with bonobo monkeys and chimpanzees, and only 1.2% separates humans from them. Morphologically, there are six major differences between the *Homo species* and bonobo monkeys and chimpanzees: 1) Reduced masticatory system, 2) smaller canine teeth, 3) hidden ovulation, 4) the power of precision grip, 5) bipedalism, and 6) the descent of the larynx and hyoid bone (Henke & Tattersall, 2007).
 
-These morphological differences and the development of human agency allowed humans to develop the software of the mind, self, and culture that differentiate humans from the closest biologically relative bonobo monkeys and chimpanzees. Mithen (2007) points out, "the paradox we face is that *Homo sapiens* is genetically almost identical to the chimpanzees, our closed living relative with whom we share that 6 million old ancestor, but cognitively and behaviorally radically different" (p. 1966). Other species have morphological advantages, such as speed, strength, and agility, but *Homo sapiens* is the only species that can control their instincts, think outside the box, be creative, and innovate to populate all parts of the world.[^6]
+These morphological differences and the development of human agency allowed humans to develop the software of the mind, self, and culture that differentiate humans from the closest biologically relative bonobo monkeys and chimpanzees. Mithen (2007) points out, "the paradox we face is that *Homo sapiens* is genetically almost identical to the chimpanzees, our closed living relative with whom we share that 6 million old ancestor, but cognitively and behaviorally radically different" (p. 1966). Other species have morphological advantages, such as speed, strength, and agility, but *Homo sapiens* is the only species that can control their instincts, think outside the box, be creative, and innovate to populate all parts of the world.[^6](Https://www.amnh.org/exhibitions/permanent/human-origins/)
 
 We need to examine how these morphological differences developed and gave rise to the human mind and agency, which in turn stimulated the creativity explosion and innovations that have transformed our biology, relationship, and society. 
 
@@ -187,7 +187,7 @@ Biologically, humans belong to the Great Ape family, belonging to the *Hominini
 
 ![](/static/figure9.png)
 
-Both chimpanzees and bonobo monkeys are socially and hierarchically organized. The chimpanzee's social group is dominated by the *alpha* male, which uses violence, hoards food, has exclusive mating access to females, and abuses lower ranking males to maintain their dominant position. In contrast, bonobo monkeys are led by an *alpha* female. She is more egalitarian, nonviolent, uses sex to help prevent and resolve conflicts, often walks upright, and shares food amongits members and non-members. Bonobo males contribute to the group by providing food and protection to young mothers, and female members protect and assist pregnant members through their birthing process, the only species known to do so other than humans. Most people believe that humans evolved from chimpanzees, reifying their view that the dominant males are aggressive, violent, competitive, and selfish. However, humans have evolved from bonobo monkeys, based on genetic and morphological analysis.[^8]
+Both chimpanzees and bonobo monkeys are socially and hierarchically organized. The chimpanzee's social group is dominated by the *alpha* male, which uses violence, hoards food, has exclusive mating access to females, and abuses lower ranking males to maintain their dominant position. In contrast, bonobo monkeys are led by an *alpha* female. She is more egalitarian, nonviolent, uses sex to help prevent and resolve conflicts, often walks upright, and shares food amongits members and non-members. Bonobo males contribute to the group by providing food and protection to young mothers, and female members protect and assist pregnant members through their birthing process, the only species known to do so other than humans. Most people believe that humans evolved from chimpanzees, reifying their view that the dominant males are aggressive, violent, competitive, and selfish. However, humans have evolved from bonobo monkeys, based on genetic and morphological analysis.[^8](https://gwtoday.gwu.edu/bonobos-may-resemble-humans-more-you-think)
 
 Of the 21 *Homo* species in the genus, only one species, *Homo sapiens*, managed to survive to the modern day. *Homo sapiens* lived in the open southern African savanna from 300,00 years ago, which is a different ecology from the jungle canopy that provides protection and food for the bonobo monkeys and chimpanzees. (See Figure 9). *Homo sapiens* began to migrate around 80,00 years ago and accelerated by the Ice Age to populate the Earth (Henke & Tattersall, 2007). 
 
@@ -355,7 +355,7 @@ People in different parts of the world began to design and shape clay pottery. A
 
 ![](/static/figure19.png)
 
-These industries are made possible by Joseph Marie Jacquard (1752 - 1834), who patented the Jacquard Loom in 1804 to mass produce patterned silk fabrics and increase production efficiency. (See Figure 20). The loom is the hardware, and the proliferated papers used to run the loom is the software of the mind. It became the basis of the automated loom that fueled the First Industrial Revolution. The punch card is used to store digital information and software to run the IBM computers. The calculating or computing machine is the hardware and the punch card containing the digitized information is the software. The Jacquard Loom that was used to mass produce beautiful silk fabrics is an example of the software of the mind that paved the way for automation and the modern computer.  Steve Jobs points out that art and "design is not just what it looks and feels like. Design is how it works."[^13] He created the software iOS and designed the iPod, iPad, and iPhone to be elegant, efficient, and easy to use and revolutionized the smartphone industry.
+These industries are made possible by Joseph Marie Jacquard (1752 - 1834), who patented the Jacquard Loom in 1804 to mass produce patterned silk fabrics and increase production efficiency. (See Figure 20). The loom is the hardware, and the proliferated papers used to run the loom is the software of the mind. It became the basis of the automated loom that fueled the First Industrial Revolution. The punch card is used to store digital information and software to run the IBM computers. The calculating or computing machine is the hardware and the punch card containing the digitized information is the software. The Jacquard Loom that was used to mass produce beautiful silk fabrics is an example of the software of the mind that paved the way for automation and the modern computer.  Steve Jobs points out that art and "design is not just what it looks and feels like. Design is how it works."[^13](https://www.nytimes.com/2003/11/30/magazine/the-guts-of-a-new-machine.html) He created the software iOS and designed the iPod, iPad, and iPhone to be elegant, efficient, and easy to use and revolutionized the smartphone industry.
 
 **Figure 20: Jacquard Loom and early IBM computer**
 
@@ -421,7 +421,7 @@ Tycho Brahe (1546-1601), a Danish astronomer, received a grant from the King Fr
 
 It was his student, Johannes Kepler (1571-1630), a German astronomer and mathematicians, who had a breakthrough organizing Tycho Brahe's massive dataset. He adopted the Copernican Heliocentric model to formulate the Three Laws of Planetary Motion: 1) The orbit of a planet is an ellipse, with the Sun at one of the two foci, 2) a line segment joining a planet and the Sun sweeps out equal areas during equal intervals of time, and 3) the square of a planet's orbital period is proportional to the cube of the length of the semi-major axis of its orbit. Kepler's breakthrough challenged the views of the Catholic Church, but he could not explain the planetary motion. 
 
-Isaac Newton (1642-1727) provided a comprehensive explanation of planetary motion in the book entitled, *Mathematical Principles of Natural Philosophy* (1687). In 1675, he wrote to Robert Hook stating that "If I have seen further, it is by standing on the shoulders of Giants" referring to Nicolaus Copernicus, Galileo Galilei, Tycho Brahe, and Johannes Kepler. A multitude of scholars have seen apples fall to the ground, but they did not discover the law of gravity. Newton's rationale has been documented by William Stukeley: "We drank tea under the shade of some apple trees, and the notion of gravitation came into his mind: 'why should that apple always descend perpendicularly to the ground,' and 'why should it not go sideways, or upwards, but constantly to the earth's center'? The reason is that the earth draws it. There must be a drawing power in matter and the sum of the drawing power in the matter of the earth must be in the earth's center, not in any side of the earth. This apple falls perpendicularly, or toward the center. If matter thus draws matter; it must be in proportion of its quantity. Therefore, the apple draws the earth, as well as the earth draws the apple" (Hamblyn, 2011).[^14]
+Isaac Newton (1642-1727) provided a comprehensive explanation of planetary motion in the book entitled, *Mathematical Principles of Natural Philosophy* (1687). In 1675, he wrote to Robert Hook stating that "If I have seen further, it is by standing on the shoulders of Giants" referring to Nicolaus Copernicus, Galileo Galilei, Tycho Brahe, and Johannes Kepler. A multitude of scholars have seen apples fall to the ground, but they did not discover the law of gravity. Newton's rationale has been documented by William Stukeley: "We drank tea under the shade of some apple trees, and the notion of gravitation came into his mind: 'why should that apple always descend perpendicularly to the ground,' and 'why should it not go sideways, or upwards, but constantly to the earth's center'? The reason is that the earth draws it. There must be a drawing power in matter and the sum of the drawing power in the matter of the earth must be in the earth's center, not in any side of the earth. This apple falls perpendicularly, or toward the center. If matter thus draws matter; it must be in proportion of its quantity. Therefore, the apple draws the earth, as well as the earth draws the apple" (Hamblyn, 2011).[^14](https://en.wikipedia.org/wiki/Isaac_Newton)
 
 The Newtonian Law of Universal Gravitation can integrate, explain, and predict the motion of the planets, the tides, the trajectory of comets, and the precession of the equinoxes. He predicted the appearance, time and exact location of Haley's comet with a tail pointing away from the sun and went through the crystalline spheres of Aristotle's universe. He demonstrated that the principles of the motion of planets can be applied to objects on earth and introduced the Three Laws of Motion: 1) The law of inertia, 2) *F* = *ma*, and 3) The law action and reaction. 
 
@@ -1365,10 +1365,6 @@ Yamaguchi, S., & Ariizumi, Y. (2006). Close personal relationships among Japane
 
 To communicate to a transdisciplinary audience, I have used a conversation style reducing the technical terminology and excessive referencing. To aid in understanding of the phenomenology and context, I have used figures, diagrams, paintings, and photos. These photos, paintings, and diagrams have been accessed from the public domain (e.g., wikipedia.org) and old photos and paintings that are not copyrighted). Parts of this are based on Kim and Kim (1995, 1999, 2001; Kim & Kim; 2022, 2023) articles.
 
-[^2]:
-
-https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/
-
 [^3]: 
 
 https://www.npr.org/sections/13.7/2018/03/14/593156411/the-universe-according-to-albert-einstein-relativity#:~:text=Einstein
@@ -1381,17 +1377,9 @@ https://www.hawking.org.uk/in-words/lectures/does-god-play-dice
 
 https://en.wikipedia.org/wiki/Rose_is_a_rose_is_a_rose_is_a_rose
 
-[^6]:
-
-Https://www.amnh.org/exhibitions/permanent/human-origins/
-
 [^7]: 
 
 https://www.nationalgeographic.com/animals/mammals/facts/bonobos
-
-[^8]:
-
-https://gwtoday.gwu.edu/bonobos-may-resemble-humans-more-you-think
 
 [^9]: 
 
@@ -1409,22 +1397,31 @@ On a personal note, I was interviewed by Fred Rothbaum prior to their publicatio
 
 See for instance, Henke & Tattersall (2007), Siegal (2010), and Hüther (2016).
 
-[^13]:
+[^13]: 
 
 https://www.nytimes.com/2003/11/30/magazine/the-guts-of-a-new-machine.html
 
 [^14]:
 
-
 https://en.wikipedia.org/wiki/Isaac_Newton
 
+[^15]:
+
+https://en.wikipedia.org/wiki/Health_of_Vincent_van_Gogh
+
+[^16]:
+
+https://www.amnh.org/exhibitions/permanent/human-origins/
+
+[^17]:
+
+[^18]:
+
+[^19]:
+
+[^20]:
 
 
-
-
-[15}:
-
-[^16]
 
 [^24]:
 
