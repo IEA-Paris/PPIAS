@@ -1381,6 +1381,10 @@ https://www.hawking.org.uk/in-words/lectures/does-god-play-dice
 
 https://en.wikipedia.org/wiki/Rose_is_a_rose_is_a_rose_is_a_rose
 
+[^6]:
+
+
+
 [^7]: 
 
 https://www.nationalgeographic.com/animals/mammals/facts/bonobos
