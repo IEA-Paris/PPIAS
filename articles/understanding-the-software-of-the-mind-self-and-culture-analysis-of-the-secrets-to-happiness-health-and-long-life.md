@@ -1383,7 +1383,7 @@ https://en.wikipedia.org/wiki/Rose_is_a_rose_is_a_rose_is_a_rose
 
 [^6]:
 
-
+Https://www.amnh.org/exhibitions/permanent/human-origins/
 
 [^7]: 
 
