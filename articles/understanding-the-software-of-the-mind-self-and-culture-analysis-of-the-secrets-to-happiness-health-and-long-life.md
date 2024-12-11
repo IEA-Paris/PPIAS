@@ -1447,6 +1447,8 @@ https://www.oecd.org/pisa/publications/pisa-2018-results.htm
 
 [^22]:
 
+www.inews24.com/view/1407279
+
 [^23]:
 
 
