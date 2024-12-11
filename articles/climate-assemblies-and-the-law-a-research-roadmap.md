@@ -259,9 +259,9 @@ Courant, D. (2022). Institutionalizing deliberative mini-publics? Issues of leg
 
 Delooz, B. (2020). Challenges and political, institutional, and normative perspectives of the citizens' assemblies: An approach based on the example of the Citizen's Climate Convention. *Brazilian Journal of Public Policy, 10*, 636.
 
-Denmark's citizens' assembly on climate issues (2021). **The Citizens' Assembly's recommendations**, First gathering. Retrieved from <https://www.en.kefm.dk/Media/637647201779892262/Borgertingets%20anbefalinger_ENG.pdf>
+Denmark's citizens' assembly on climate issues (2021). **The** Citizens' Assembly's recommendations, First gathering. Retrieved from <https://www.en.kefm.dk/Media/637647201779892262/Borgertingets%20anbefalinger_ENG.pdf>
 
-**Denmark's citizens' assembly on climate issues** (2022). **The Citizens' Assembly's recommendations, Second gathering. Retrieved from** <https://www.en.kefm.dk/Media/638100734644085274/Recommendations%20of%20the%20Citizens'%20Assembly%20Second%20Gathering.pdf>
+Denmark's citizens' assembly on climate issues (2022). The Citizens' Assembly's recommendations, Second gathering. Retrieved from <https://www.en.kefm.dk/Media/638100734644085274/Recommendations%20of%20the%20Citizens'%20Assembly%20Second%20Gathering.pdf>
 
 Devaney, L., Torney, D., Brereton, P., & Coleman, M. (2020). Ireland's Citizens' Assembly on Climate Change: Lessons for deliberative public engagement and communication. *Environmental Communication, 14*(2), 141-146. <https://doi.org/10.1080/17524032.2019.1708429>
 
