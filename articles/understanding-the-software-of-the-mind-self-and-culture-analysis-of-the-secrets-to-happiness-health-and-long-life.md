@@ -1367,15 +1367,32 @@ To communicate to a transdisciplinary audience, I have used a conversation style
 
 [^2]:
 
- [https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says](https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says)/
+https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/
+
+[^3]: 
+
+https://www.npr.org/sections/13.7/2018/03/14/593156411/the-universe-according-to-albert-einstein-relativity#:~:text=Einstein
+
+[^4]: 
+
+https://www.hawking.org.uk/in-words/lectures/does-god-play-dice
 
 [^5]: 
 
-<https://en.wikipedia.org/wiki/Rose_is_a_rose_is_a_rose_is_a_rose>
+https://en.wikipedia.org/wiki/Rose_is_a_rose_is_a_rose_is_a_rose
+
+[^6]:
+
+Https://www.amnh.org/exhibitions/permanent/human-origins/
 
 [^7]: 
 
 https://www.nationalgeographic.com/animals/mammals/facts/bonobos
+
+[^8]:
+
+https://gwtoday.gwu.edu/bonobos-may-resemble-humans-more-you-think
+
 
 [^9]: 
 
