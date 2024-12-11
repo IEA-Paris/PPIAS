@@ -1365,6 +1365,10 @@ Yamaguchi, S., & Ariizumi, Y. (2006). Close personal relationships among Japane
 
 To communicate to a transdisciplinary audience, I have used a conversation style reducing the technical terminology and excessive referencing. To aid in understanding of the phenomenology and context, I have used figures, diagrams, paintings, and photos. These photos, paintings, and diagrams have been accessed from the public domain (e.g., wikipedia.org) and old photos and paintings that are not copyrighted). Parts of this are based on Kim and Kim (1995, 1999, 2001; Kim & Kim; 2022, 2023) articles.
 
+[^2]:
+
+https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/
+
 [^3]: 
 
 https://www.npr.org/sections/13.7/2018/03/14/593156411/the-universe-according-to-albert-einstein-relativity#:~:text=Einstein
