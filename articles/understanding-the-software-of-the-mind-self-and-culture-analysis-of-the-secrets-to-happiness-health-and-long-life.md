@@ -1451,7 +1451,7 @@ www.inews24.com/view/1407279
 
 [^23]:
 
-
+http://theviewers.co.kr/View.aspx?No=1627553
 
 [^24]:
 
