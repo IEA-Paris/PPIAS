@@ -1435,6 +1435,8 @@ https://www.smithsonianmag.com/science-nature/bonobos-teach-humans-about-nature-
 
 [^19]:
 
+https://countryeconomy.com/demography/world-happiness-index/south-korea
+
 [^21]:
 
 
