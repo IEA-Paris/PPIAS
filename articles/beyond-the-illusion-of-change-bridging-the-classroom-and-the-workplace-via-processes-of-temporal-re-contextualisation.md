@@ -1261,7 +1261,7 @@ The importance of visual impact became evident during this period. It was clear 
 
 **Figure 5.7: Pattern language characteristics during period 4**  
 
-![]()
+![](/static/figure5.7.png)
 
 **Figure 5.8: Transition to Pattern Language characteristics in Period 5** 
 
