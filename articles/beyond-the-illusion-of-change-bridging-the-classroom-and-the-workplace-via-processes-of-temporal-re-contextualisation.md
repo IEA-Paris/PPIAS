@@ -1219,9 +1219,15 @@ Over a period of seven months, I produced multiple hand-drawn visuals (and desig
 
 **Figure 4.3: Hand-drawn visual - nature of interruptions**  
 
+![]()
+
 **Figure 4.4: Hand drawn visual - temporal orientation**
 
+![]()
+
 **Figure 4.5: Hand drawn visual - temporal orientation (cont.)**
+
+![]()
 
 ### **Period 5 'Operational simplicity' (January 2018 -- August 2018)**
 
