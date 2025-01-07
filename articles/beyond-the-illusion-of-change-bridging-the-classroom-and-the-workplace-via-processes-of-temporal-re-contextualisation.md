@@ -1253,7 +1253,7 @@ The importance of visual impact became evident during this period. It was clear 
 
 **Figure 5.5: Start and end of the working day**
 
-![]()
+![](/static/figure5.5.png)
 
 **Figure 5.6: Combination of dimensions**   
 
