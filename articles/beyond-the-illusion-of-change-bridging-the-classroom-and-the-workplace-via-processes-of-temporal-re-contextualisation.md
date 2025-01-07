@@ -1229,7 +1229,7 @@ Over a period of seven months, I produced multiple hand-drawn visuals (and desig
 
 ![](/static/figure4.5.png)
 
-### **Period 5 'Operational simplicity' (January 2018 - August 2018)**
+### **Period 5: 'Operational simplicity' (January 2018 - August 2018)**
 
 An initial working model of the visualisation tool was completed in February 2018.  Four updated versions of the tool were refined over the next five months following feedback from potential users. Example of the working model 
 
@@ -1247,11 +1247,9 @@ Figure 5.5: Start and end of the working day
 
 Figure 5.6: Combination of dimensions   
 
-![](blob:https://euangoddard.github.io/3bca7dda-180d-427e-9164-1f2945f18930)
+Figure 5.7: Pattern language characteristics during period 4  
 
-Figure 5.7:           Pattern language characteristics during period 4  
-
-Figure 5.8:           Transition to Pattern Language characteristics in Period 5 
+Figure 5.8: Transition to Pattern Language characteristics in Period 5 
 
 ### **Period 6              '\*\***Use' (September 2018 -- March 2019)\*\*
 
