@@ -461,7 +461,7 @@ Something needed to take the place of the tool; the answer to this lay in what b
 
 **Figure 3: The Impact Programme as a rolling 'temporal' wave** 
 
-
+![](/static/picture3.png)
 
 The final version of the Impact programme (2024) is represented in the diagram above as a rolling wave (see Figure 3). This representation emphasises a break with the linear aspects of traditional programme design where a stark temporal distinction routinely exists between the face-to-face programme (the 'Mountain-top') and preceding/subsequent activity in the work setting (the 'Swamp'). The primary aim was now to put temporality at the intersection of learning and implementation by constantly connecting with the flow of work via ongoing processes of recontextualisation.  Building on the research findings, the design rationale stressed a sense of temporal congruence/connection between these settings. Most of all, the act of practising was now recognised as a liminal process of experimentation within the day-to-day realities of the swamp, something that unfolded both over and, crucially, in time. 
 
