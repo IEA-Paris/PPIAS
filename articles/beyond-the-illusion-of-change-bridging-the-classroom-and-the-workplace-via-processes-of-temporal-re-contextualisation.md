@@ -338,53 +338,40 @@ I am the first to highlight that there are clear limitations associated with the
 
 ![](/static/picture1.png)
 
-The mini-interviews appeared to confirm my long-held hunch that something happens to the *well-meaning* commitments of participants after a *successful* learning programme. They also suggested that the visceral experience of time(s) was in some way central to this phenomenon. The next stage of the study was crucial therefore -- could the tool make a meaningful difference to these experiences in a way that maintained the integrity of learning commitments when they encountered the ontological terrain of the *flow of work*. 
+The mini-interviews appeared to confirm my long-held hunch that something happens to the *well-meaning* commitments of participants after a *successful* learning programme. They also suggested that the visceral experience of time(s) was in some way central to this phenomenon. The next stage of the study was crucial therefore - could the tool make a meaningful difference to these experiences in a way that maintained the integrity of learning commitments when they encountered the ontological terrain of the *flow of work*. 
 
-**September 2018:**
-
-**So what?  The story of tool *success* and the sub-plot of interruptions** 
+## **September 2018: So what? The story of tool *success* and the sub-plot of interruptions** 
 
 By August 2018, the working tool was ready for use. At this point, the logic for data capture and data analysis changed. Previously, capture and analysis were concerned primarily with tool construction; now, the rationale shifted to achieving a greater understanding of what the post programme setting (the 'timescape') looked and felt like. The upcoming *Impact* programme (September 2018) was lined up to test and evaluate the tool. 
 
-The application of the tool was known as the 'PPP' -- the post-programme process. This involved three 1-2-1 interview sessions with each participant after the programme. 23 out of the 24 participants in the September programme chose to take part in the interviews lasting approximately 30-45 minutes. The group was split 78% male/22% female, with 22% of respondents based in Europe, 22% in Asia, 39% in North America, 9% in South America and 8% from the rest of the world. All respondents could be categorised as 'mid-career' professional knowledge workers engaged in a mix of front-line business and functional support roles. The age range was 35 to 45 with, on average, 10+ years of service at the company. This profile was broadly similar to previous interviews. 
+The application of the tool was known as the 'PPP' - the post-programme process. This involved three 1-2-1 interview sessions with each participant after the programme. 23 out of the 24 participants in the September programme chose to take part in the interviews lasting approximately 30-45 minutes. The group was split 78% male/22% female, with 22% of respondents based in Europe, 22% in Asia, 39% in North America, 9% in South America and 8% from the rest of the world. All respondents could be categorised as 'mid-career' professional knowledge workers engaged in a mix of front-line business and functional support roles. The age range was 35 to 45 with, on average, 10+ years of service at the company. This profile was broadly similar to previous interviews. 
 
-All 23 participants completed an online evaluation form at the end of the face-to-face programme (and before the commencing of the PPP).  The mean average score for *Overall Programme Satisfaction* and *Individual Commitment to Apply Learning* was 4.8/5 (for both), scoring in line with the levels achieved in previous phases. The logic for establishing these measures was to ensure that the programme had 'delivered' on participants' expectations and that participants were indicating a state of readiness for post-programme application (e.g. they could not say they did not apply their commitment because the programme had not been successful, or that they were not intending to apply their learning).  
+All 23 participants completed an online evaluation form at the end of the face-to-face programme (and before the commencing of the PPP). The mean average score for *Overall Programme Satisfaction* and *Individual Commitment to Apply Learning* was 4.8/5 (for both), scoring in line with the levels achieved in previous phases. The logic for establishing these measures was to ensure that the programme had 'delivered' on participants' expectations and that participants were indicating a state of readiness for post-programme application (e.g. they could not say they did not apply their commitment because the programme had not been successful, or that they were not intending to apply their learning).  
 
-The Post Programme Process (PPP) in action  
+### The Post Programme Process (PPP) in action  
 
 The tool was employed as the initial activity during the first interview of the PPP. This activity occurred 3-5 minutes into the session and lasted roughly 4 minutes. To set up the activity, I shared my computer screen with the respondent and then asked 8 questions to elicit their temporal profile. These questions included: 
 
-\-      When does your working day start and end? 
+* When does your working day start and end? 
+* What percentage of meetings do you have in a working day?
+* Can other people at work put a meeting in your diary? 
+* What is the first time (and last time) you check your mobile devices for work?
+* How many emails do you receive in a working day? 
+* How many do you send? 
+* Excluding emails, how many times might you be interrupted, physically or virtually, in an hour of the working day?  [e.g. you are *pinged* by someone, you check a device on an unsolicited basis, a tap on the shoulder, or someone pops by your desk)
+* Do you check emails/phones at night, or over the weekend?
 
-\-      What percentage of meetings do you have in a working day?
+As the respondent answered each question, I inputted the data along a sidebar of the screen - visible to the respondent - which would, in turn, produce a visual output on the screen (e.g. the response of '70% of a day in meetings' would block-out 70% of the diary with meetings). As each visual dimension appeared, the respondent could see their specific temporal profile build in front of their eyes. At the end of the 8 questions, I usually paused and asked the respondent to look at the profile. I then asked 3 questions.  
 
-\-      Can other people at work put a meeting in your diary? 
-
-\-      What is the first time (and last time) you check your mobile devices for work?
-
-\-      How many emails do you receive in a working day? 
-
-\-      How many do you send? 
-
-\-      Excluding emails, how many times might you be interrupted, physically or virtually, in an hour of the working day?  [e.g. you are *pinged* by someone, you check a device on an unsolicited basis, a tap on the shoulder, or someone pops by your desk)
-
-\-      Do you check emails/phones at night, or over the weekend?
-
-As the respondent answered each question, I inputted the data along a sidebar of the screen -- visible to the respondent - which would, in turn, produce a visual output on the screen (e.g. the response of '70% of a day in meetings' would block-out 70% of the diary with meetings). As each visual dimension appeared, the respondent could see their specific temporal profile build in front of their eyes. At the end of the 8 questions, I usually paused and asked the respondent to look at the profile. I then asked 3 questions.  
-
-\-      What does this profile say to you, if anything? 
-
-\-      Where does your change commitment fit into this type of temporal profile? 
-
-\-      What temporal strategies can you/we develop to create the conditions for disciplined practising?  What might these strategies look like? 
+* What does this profile say to you, if anything? 
+* Where does your change commitment fit into this type of temporal profile? 
+* What temporal strategies can you/we develop to create the conditions for disciplined practising?  What might these strategies look like? 
 
 The aim of the final question was to produce a tangible temporal activity that could then become the basis for practising in the period between PPP Sessions I and II - this activity became the starting point for the conversation in PPP Session II. A typical temporal profile at the end of the questioning is captured in the screenshot below (Figure 2). 
 
-![A graph with many squares
+**Figure 2: A typical temporal profile at the end of the questions** 
 
-Description automatically generated with medium confidence](blob:https://euangoddard.github.io/b609c56d-db13-40b7-bef9-3060ec6447a6)
 
-Figure 2                   A typical temporal profile at the end of the questions 
 
 In order to maintain momentum between sessions, the combined temporal profile was screenshot at the end of the first session and emailed to each respondent immediately after the call. It was also used as the backdrop for the start of Sessions II and III (e.g. "Just to remind you of the profile we generated in our first session...how does this look now?').
 
