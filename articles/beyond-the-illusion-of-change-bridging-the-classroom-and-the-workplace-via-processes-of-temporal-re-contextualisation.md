@@ -1021,11 +1021,7 @@ Rock, D., & Cassiday, L. (2024). *Leadership development is broken. This is how
 
 Roethlisberger, F. J., & Lombard, G. F. F. (1977). *The elusive phenomena: An autobiographical account of my work in the field of organizational behavior at the Harvard Business School*. Division of Research, Graduate School of Business Administration, Harvard University ; Distributed by Harvard University Press.
 
-Rogers, B. M. (2020). *The mountaintop and the swamp;* the role of time in the practising of 
-
-                change commitments after a customised executive education                  
-
-                programme. Unpublished EdD Thesis. University of Cambridge. 
+Rogers, B. M. (2020). *The mountaintop and the swamp;* the role of time in the practising of change commitments after a customised executive education programme. Unpublished EdD Thesis. University of Cambridge. 
 
 Rosengren, C. (2015). Performing work: The drama of everyday working life. *Time & Society*. https://doi.org/10.1177/0961463X15620983
 
