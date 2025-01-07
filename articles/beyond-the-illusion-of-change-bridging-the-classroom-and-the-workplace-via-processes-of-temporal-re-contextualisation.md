@@ -1257,7 +1257,7 @@ The importance of visual impact became evident during this period. It was clear 
 
 **Figure 5.6: Combination of dimensions**   
 
-![]()
+![](/static/figure5.6.png)
 
 **Figure 5.7: Pattern language characteristics during period 4**  
 
