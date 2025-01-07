@@ -1213,13 +1213,13 @@ The fourth period saw the first attempt at drawing up detailed plans for an inte
 
 Over a period of seven months, I produced multiple hand-drawn visuals (and design briefs) to guide the coding of the tool**.** A selection of these visuals is included below (Figures 4.2. - 4.5). 
 
-Figure 4.2:             Hand-drawn visual -- time use
+**Figure 4.2: Hand-drawn visual - time use**
 
-Figure 4.3:             Hand-drawn visual -- nature of interruptions  
+**Figure 4.3: Hand-drawn visual - nature of interruptions**  
 
-Figure 4.4:             Hand drawn visual -- temporal orientation
+**Figure 4.4: Hand drawn visual - temporal orientation**
 
-Figure 4.5:              Hand drawn visual -- temporal orientation (cont.)
+**Figure 4.5: Hand drawn visual - temporal orientation (cont.)**
 
 ### **Period 5 'Operational simplicity' (January 2018 -- August 2018)**
 
@@ -1235,7 +1235,7 @@ Figure 5.3:               Number of e-mails sent in a day
 
 Figure 5.4:             Number of interruptions in a day
 
-Figure Figure 5.5:        Start and end of the working day
+Figure 5.5:        Start and end of the working day
 
 Figure 5.6:               Combination of dimensions   
 
