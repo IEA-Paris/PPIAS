@@ -1209,6 +1209,8 @@ The fourth period saw the first attempt at drawing up detailed plans for an inte
 
 **Figure 4.1: Image of e-diary provided by a respondent at Forum (redacted)**
 
+![](/static/figure4.1.png)
+
 Over a period of seven months, I produced multiple hand-drawn visuals (and design briefs) to guide the coding of the tool**.** A selection of these visuals is included below (Figures 4.2. -- 4.5). 
 
 ![](blob:https://euangoddard.github.io/027d8d18-61fa-4774-83c6-77314103a29e)
