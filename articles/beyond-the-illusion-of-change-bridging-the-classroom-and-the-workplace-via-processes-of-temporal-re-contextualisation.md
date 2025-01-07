@@ -1152,3 +1152,113 @@ Winner, L., & Mumford, L. (2010). *Technics and Civilization* (Reprint edition
 Winograd, T., & Flores, C. F. (1986). *Understanding Computers and Cognition: A New Foundation for Design*. Intellect Books.
 
 Wright, K. (2002). Times of Our Lives. *Scientific American*, *287*(3), 58.
+
+## **Appendix** 
+
+### **Period 1: 'Exploration' (2013 - June 2016)**
+
+In the first period, my thoughts around the use of a tool focused mostly on mobile applications. Increasingly, however, I became convinced of the need to 'decentre' the individual user and explicitly address contextual blockages to practising. So-called 'objective' and 'subjective' time were a defining feature of this context. 
+
+**Figure 1.1: Early research plan showing the development stages of an App** 
+
+![](/static/figure1.1.png)
+
+One of the key sounding-boards at this time was Professor Alan Blackwell at the University of Cambridge Computer Lab; Alan has a speciality and expertise in visualisation. In our first meeting, I needed to introduce my topic to him in an understandable fashion; to do this, I used Dali's 'melting clocks' to capture the visual and conceptual potential of 'time'.
+
+### **Period 2: 'Sense-making' (July 2016)**
+
+Period 2 set the foundations for a visualisation approach to tool design, including the first attempts at representing linear and non-linear time in visual form.  This visualisation took the form of 6 physical storyboards, each presenting a different temporal dimension within a generic electronic calendar backdrop. An example of two of the boards appears in Figures 2.1 & 2.2 below -- these display the representation of 'interruptions' and 'control'. 
+
+![](blob:https://euangoddard.github.io/506ef2f4-7cac-46c1-8e6d-4758abbb9fa7)
+
+Figure 2.1:             Storyboard for temporal 'connections' and 'interruptions'
+
+![](blob:https://euangoddard.github.io/d6fb4835-b4d0-4c70-a349-953a0dd538dc)
+
+Figure 2.2:             Storyboard for temporal 'control' (e.g. blocked off time in the calendar)
+
+Figures 2.3 and 2.4 represent examples of the transition in the Pattern Language profile between Period 1 and Period 2. This displays the evolution of focus as the representation matures (e.g. towards increasing emphasis on the shared social activities of story-telling, persuasion and discussion).
+
+![](blob:https://euangoddard.github.io/da634dce-79e2-4a62-89bc-800d10d249b4)![](blob:https://euangoddard.github.io/f6af6c31-a90d-43d0-aebc-1558627d5125)
+
+Figure 2.3:             Classification of 'Pattern Language' in Period 1
+
+![](blob:https://euangoddard.github.io/7ca8550e-efc2-4204-8a86-e384e97e005d)
+
+Figure 2.4:                Transition to classification of pattern language in Period 2
+
+### **Period 3              'Credibility' (August 2016 -- March 2017)**
+
+Period 3 sought to reproduce the storyboards in a professional format. This was driven by the need to display what a 'temporal tool' might look like in practice. My repeated references to 'non-linear time' were confusing to many at Forum, and this confusion prompted diverse and multiple interpretations of the study. Over a series of meetings in 2016/17, I worked with a colleague at Cambridge University to produce an online presentation tool that displayed the key elements of the storyboards. This model was employed over the coming months at a range of meetings at Forum to illustrate the potential for a credible (working) tool. 
+
+![](blob:https://euangoddard.github.io/906295fd-8a0f-45be-b4f5-a9d440eede3f)
+
+Figure 3.1:             Tool presentation: linear time
+
+![](blob:https://euangoddard.github.io/dd9a8fdb-906b-411d-bd25-f4b042ad1ad6)
+
+Figure 3.2:             Tool presentation: linear time represented by the e-diary
+
+![](blob:https://euangoddard.github.io/f9d456a7-3886-4f5a-ba2c-86e63bc6f935)
+
+Figure 3.3:             Tool presentation: role of back-to-back meetings  
+
+![](blob:https://euangoddard.github.io/94ba678d-088e-4130-958c-59430c54a038)
+
+Figure 3.4:             Tool presentation: time as interruptions 
+
+### **Period 4 '\*\***Construction' (April 2017- December 2017)\*\*
+
+### The fourth period saw the first attempt at drawing up detailed plans for an interactive working tool. During this period, it was possible to triangulate the development of the tool with images of e-calendars provided by respondents at Forum. A redacted version of one of these images appears in Figure 4.1 below. 
+
+![](blob:https://euangoddard.github.io/076963fb-1e61-497e-80c4-16b50cb716b2)
+
+Figure 4.1:                Image of e-diary provided by a respondent at Forum (redacted)
+
+Over a period of seven months, I produced multiple hand-drawn visuals (and design briefs) to guide the coding of the tool**.** A selection of these visuals is included below (Figures 4.2. -- 4.5). 
+
+![](blob:https://euangoddard.github.io/027d8d18-61fa-4774-83c6-77314103a29e)
+
+Figure 4.2:             Hand-drawn visual -- time use
+
+![](blob:https://euangoddard.github.io/19ea3f65-93a4-43b9-b299-e00dea3a2dee)
+
+Figure 4.3:             Hand-drawn visual -- nature of interruptions  
+
+![](blob:https://euangoddard.github.io/62c40f10-5419-4639-8815-090dac161bad)
+
+Figure 4.4:             Hand drawn visual -- temporal orientation
+
+![](blob:https://euangoddard.github.io/0deea845-dca0-4402-9969-fd48fbfa1e9e)
+
+Figure 4.5:              Hand drawn visual -- temporal orientation (cont.)
+
+### **Period 5 'Operational simplicity' (January 2018 -- August 2018)**
+
+An initial working model of the visualisation tool was completed in February 2018.  Four updated versions of the tool were refined over the next five months following feedback from potential users. Example of the working model 
+
+The importance of visual impact became evident during this period. It was clear from early in the interview process that some temporal dimensions had more 'energy' than others, e.g. meetings and interruptions. This highlighted how certain diagrams seemed to attract the attention of users, drawing them in \[VE3], making them think differently about their relationship with time \[TE3], and most of all, starting the process of *play* with the dimensions \[TE5]. This sparked a realisation that the sense-making of users \[IA3] was tied to the *partial* use of the tool \[PE3] (e.g. the user did not need to experience the whole process of visualisations and would most likely disengage after a relatively short period).  
+
+Figure 5.1:             % of weekly meetings with contingent meetings (striped)
+
+Figure 5.2:                Number of e-mails received in a day
+
+Figure 5.3:               Number of e-mails sent in a day
+
+Figure 5.4:             Number of interruptions in a day
+
+Figure Figure 5.5:        Start and end of the working day
+
+Figure 5.6:               Combination of dimensions   
+
+![](blob:https://euangoddard.github.io/3bca7dda-180d-427e-9164-1f2945f18930)
+
+Figure 5.7:           Pattern language characteristics during period 4  
+
+Figure 5.8:           Transition to Pattern Language characteristics in Period 5 
+
+### **Period 6              '\*\***Use' (September 2018 -- March 2019)\*\*
+
+The evaluation phase of the tool (the PPP) took place after the September 2018 *Impact* programme. 
+
+During this period, I employed the version of the working tool seen in Period 5. I also used a range of materials (e.g. articles and visuals) that aimed to help respondents make sense of the visuals.
