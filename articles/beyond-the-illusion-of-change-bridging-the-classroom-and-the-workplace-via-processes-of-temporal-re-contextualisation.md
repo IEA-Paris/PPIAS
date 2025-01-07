@@ -1265,7 +1265,7 @@ The importance of visual impact became evident during this period. It was clear 
 
 **Figure 5.8: Transition to Pattern Language characteristics in Period 5** 
 
-![]()
+![](/static/figure5.8.png)
 
 ### **Period 6: '**Use' (September 2018 - March 2019)
 
