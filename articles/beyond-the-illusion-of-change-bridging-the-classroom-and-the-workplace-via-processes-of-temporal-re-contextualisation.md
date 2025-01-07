@@ -1249,7 +1249,7 @@ The importance of visual impact became evident during this period. It was clear 
 
 **Figure 5.4: Number of interruptions in a day**
 
-![]()
+![](/static/figure5.4.png)
 
 **Figure 5.5: Start and end of the working day**
 
