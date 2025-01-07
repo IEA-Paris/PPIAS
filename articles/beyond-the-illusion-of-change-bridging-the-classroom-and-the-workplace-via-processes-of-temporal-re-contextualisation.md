@@ -1197,7 +1197,11 @@ Period 3 sought to reproduce the storyboards in a professional format. This was 
 
 **Figure 3.3: Tool presentation: role of back-to-back meetings**  
 
+![](/static/figure3.3.png)
+
 **Figure 3.4:  Tool presentation: time as interruptions** 
+
+![](/static/figure3.4.png)
 
 ### **Period 4: '**Construction' (April 2017- December 2017)
 
