@@ -1211,21 +1211,13 @@ The fourth period saw the first attempt at drawing up detailed plans for an inte
 
 ![](/static/figure4.1.png)
 
-Over a period of seven months, I produced multiple hand-drawn visuals (and design briefs) to guide the coding of the tool**.** A selection of these visuals is included below (Figures 4.2. -- 4.5). 
-
-![](blob:https://euangoddard.github.io/027d8d18-61fa-4774-83c6-77314103a29e)
+Over a period of seven months, I produced multiple hand-drawn visuals (and design briefs) to guide the coding of the tool**.** A selection of these visuals is included below (Figures 4.2. - 4.5). 
 
 Figure 4.2:             Hand-drawn visual -- time use
 
-![](blob:https://euangoddard.github.io/19ea3f65-93a4-43b9-b299-e00dea3a2dee)
-
 Figure 4.3:             Hand-drawn visual -- nature of interruptions  
 
-![](blob:https://euangoddard.github.io/62c40f10-5419-4639-8815-090dac161bad)
-
 Figure 4.4:             Hand drawn visual -- temporal orientation
-
-![](blob:https://euangoddard.github.io/0deea845-dca0-4402-9969-fd48fbfa1e9e)
 
 Figure 4.5:              Hand drawn visual -- temporal orientation (cont.)
 
