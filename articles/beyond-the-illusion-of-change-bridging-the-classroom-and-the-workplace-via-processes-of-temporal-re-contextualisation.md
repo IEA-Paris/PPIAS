@@ -1227,7 +1227,7 @@ Over a period of seven months, I produced multiple hand-drawn visuals (and desig
 
 **Figure 4.5: Hand drawn visual - temporal orientation (cont.)**
 
-![]()
+![](/static/figure4.5.png)
 
 ### **Period 5 'Operational simplicity' (January 2018 -- August 2018)**
 
