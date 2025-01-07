@@ -1251,7 +1251,7 @@ Figure 5.7: Pattern language characteristics during period 4  
 
 Figure 5.8: Transition to Pattern Language characteristics in Period 5 
 
-### **Period 6              '\*\***Use' (September 2018 -- March 2019)\*\*
+### **Period 6: '**Use' (September 2018 - March 2019)
 
 The evaluation phase of the tool (the PPP) took place after the September 2018 *Impact* programme. 
 
