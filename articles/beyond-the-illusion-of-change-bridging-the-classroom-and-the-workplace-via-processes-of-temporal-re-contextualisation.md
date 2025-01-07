@@ -330,17 +330,13 @@ The mini-interviews suggested that previously motivated participants experienced
 
 > *This time was going to be different...I was so committed over the weekend but it (my commitment) did not survive beyond early afternoon (Monday)*
 
-But this was not all. Whilst most respondents (89%) could recall their commitment, this memory was usually coupled with detailed descriptions of the deluge of 'stuff' surrounding the commitment, eventually leading to inactivity. Far from the cool, rational individual imposing strict discipline on their practising behaviour, this supported an image of fuzzy determinism (Ragin, 2008), with context and agency being somehow intermingled in the appreciation and experience of time (Flaherty & Fine, 2001). It also suggested a distinction between the type of knowledge produced on a programme and the subsequent perception of the validity of that knowledge back in the workplace (Cascio, 2007).  This finding underpinned my belief that if knowledge was to be fit-for-purpose in the workplace, it not only needed to be actively recontextualised **on** the program but also needed to be recontextualised **within** the post-programme setting (Evans et al., 2010b). Central to this belief was a deliberate process of temporal embedding. 
+But this was not all. Whilst most respondents (89%) could recall their commitment, this memory was usually coupled with detailed descriptions of the deluge of 'stuff' surrounding the commitment, eventually leading to inactivity. Far from the cool, rational individual imposing strict discipline on their practising behaviour, this supported an image of fuzzy determinism (Ragin, 2008), with context and agency being somehow intermingled in the appreciation and experience of time (Flaherty & Fine, 2001). It also suggested a distinction between the type of knowledge produced on a programme and the subsequent perception of the validity of that knowledge back in the workplace (Cascio, 2007). This finding underpinned my belief that if knowledge was to be fit-for-purpose in the workplace, it not only needed to be actively recontextualised **on** the program but also needed to be recontextualised **within** the post-programme setting (Evans et al., 2010b). Central to this belief was a deliberate process of temporal embedding. 
 
 I am the first to highlight that there are clear limitations associated with the data points underpinning this 'practising' curve. Many of the scores were estimates, and the number of respondents, especially at the two later points, was relatively low. That said, all the estimates were based on in-depth interviews, each of which contained specific references to the activity as described by the respondent. At the same time, no scores were attributed to those who chose not to take place in the interviews. Arguably, the lack of responses from eight respondents at 91 days, and 15 at 164 days, might suggest avoidance behaviour due to misgivings with their practising satisfaction. If so, the inclusion of these would have led to significantly lower scores. It is also worth noting that all scores were based on self-reports and, therefore, open to upward bias. All in all, I believe a strong case can be made to suggest that the scores generated as part of the exercise overestimate the degree of satisfaction with actual practising behaviour. 
 
-\|
+**Figure 1: Satisfaction 'curve' after November Impact programme**
 
-![](blob:https://euangoddard.github.io/c8577d98-99b3-41a8-a19c-5dbdaa63fe23)
-
-\|
-
-Figure 1                   Satisfaction 'curve' after November Impact programme
+![](/static/picture1.png)
 
 The mini-interviews appeared to confirm my long-held hunch that something happens to the *well-meaning* commitments of participants after a *successful* learning programme. They also suggested that the visceral experience of time(s) was in some way central to this phenomenon. The next stage of the study was crucial therefore -- could the tool make a meaningful difference to these experiences in a way that maintained the integrity of learning commitments when they encountered the ontological terrain of the *flow of work*. 
 
