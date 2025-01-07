@@ -1187,17 +1187,17 @@ Figures 2.3 and 2.4 represent examples of the transition in the Pattern Language
 
 Period 3 sought to reproduce the storyboards in a professional format. This was driven by the need to display what a 'temporal tool' might look like in practice. My repeated references to 'non-linear time' were confusing to many at Forum, and this confusion prompted diverse and multiple interpretations of the study. Over a series of meetings in 2016/17, I worked with a colleague at Cambridge University to produce an online presentation tool that displayed the key elements of the storyboards. This model was employed over the coming months at a range of meetings at Forum to illustrate the potential for a credible (working) tool. 
 
-Figure 3.1:             Tool presentation: linear time
+**Figure 3.1: Tool presentation: linear time**
 
-Figure 3.2:             Tool presentation: linear time represented by the e-diary
+**Figure 3.2: Tool presentation: linear time represented by the e-diary**
 
-Figure 3.3:             Tool presentation: role of back-to-back meetings  
+**Figure 3.3: Tool presentation: role of back-to-back meetings**  
 
-Figure 3.4:             Tool presentation: time as interruptions 
+**Figure 3.4:  Tool presentation: time as interruptions** 
 
-### **Period 4 '\*\***Construction' (April 2017- December 2017)\*\*
+### **Period 4: '**Construction' (April 2017- December 2017)
 
-### The fourth period saw the first attempt at drawing up detailed plans for an interactive working tool. During this period, it was possible to triangulate the development of the tool with images of e-calendars provided by respondents at Forum. A redacted version of one of these images appears in Figure 4.1 below. 
+The fourth period saw the first attempt at drawing up detailed plans for an interactive working tool. During this period, it was possible to triangulate the development of the tool with images of e-calendars provided by respondents at Forum. A redacted version of one of these images appears in Figure 4.1 below. 
 
 ![](blob:https://euangoddard.github.io/076963fb-1e61-497e-80c4-16b50cb716b2)
 
