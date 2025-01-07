@@ -1241,7 +1241,7 @@ The importance of visual impact became evident during this period. It was clear 
 
 **Figure 5.2: Number of e-mails received in a day**
 
-![]()
+![](/static/figure5.2.png)
 
 **Figure 5.3: Number of e-mails sent in a day**
 
