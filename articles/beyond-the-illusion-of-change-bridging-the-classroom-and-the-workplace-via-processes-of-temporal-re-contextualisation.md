@@ -1179,13 +1179,13 @@ Period 2 set the foundations for a visualisation approach to tool design, includ
 
 Figures 2.3 and 2.4 represent examples of the transition in the Pattern Language profile between Period 1 and Period 2. This displays the evolution of focus as the representation matures (e.g. towards increasing emphasis on the shared social activities of story-telling, persuasion and discussion).
 
-![](blob:https://euangoddard.github.io/da634dce-79e2-4a62-89bc-800d10d249b4)![](blob:https://euangoddard.github.io/f6af6c31-a90d-43d0-aebc-1558627d5125)
+**Figure 2.3: Classification of 'Pattern Language' in Period 1**
 
-Figure 2.3:             Classification of 'Pattern Language' in Period 1
+![](/static/figure2.3.png)
 
-![](blob:https://euangoddard.github.io/7ca8550e-efc2-4204-8a86-e384e97e005d)
+**Figure 2.4: Transition to classification of pattern language in Period 2**
 
-Figure 2.4:                Transition to classification of pattern language in Period 2
+![](/static/figure2.4.png)
 
 ### **Period 3              'Credibility' (August 2016 -- March 2017)**
 
