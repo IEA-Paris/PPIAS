@@ -569,27 +569,27 @@ More immediately, this shift had significant implications for me and the study. 
 
 In May 2024, after 18 years and at the height of its 'success', I left my role on Impact and brought the study to an end. My work needed a more purposeful focus.   
 
-**Postscript** 
+### **Postscript** 
 
 Since finishing the first draft of this article... 
 
-On 6^th^ November 2024, Donald Trump was re-elected president of the United States with a commitment to 'Drill Baby Drill'. 
+On 6th November 2024, Donald Trump was re-elected president of the United States with a commitment to 'Drill Baby Drill'. 
 
-On 11^th^ November, COP 29 host President Ilham Aliyev branded oil and gas a 'gift from God'. 
+On 11th November, COP 29 host President Ilham Aliyev branded oil and gas a 'gift from God'. 
 
-On 12^th^ November 2024, Shell won an appeal in the Dutch courts against a landmark ruling to drastically cut its emissions. 
+On 12th November 2024, Shell won an appeal in the Dutch courts against a landmark ruling to drastically cut its emissions. 
 
-On 24^th^ December the UK Financial Times reported that the majority of top CEOs in America are 'bending their knee' to the policies of the President-elect. 
+On 24th December the UK Financial Times reported that the majority of top CEOs in America are 'bending their knee' to the policies of the President-elect. 
 
 Barry Rogers 01/01/2025 
 
-**Disclaimer:** 
+### **Disclaimer:** 
 
 This research occurred alongside a parallel commercial relationship with Forum (e.g. design and delivery of customised education). The study was conducted without any financial support from any commercial entity, institution, or individual who could benefit from its results. During this research, the author, Barry Rogers, covered all expenses and outgoings relating to the study (e.g. legal fees, travel, education) and received no financial contributions, in any form, from any source, towards the study. No influence was exerted on the study design, data collection, data interpretation, or publication decisions at any stage. Barry Rogers has no ongoing commercial relationship with Forum. 
 
 **Contact details:** Please feel free to contact Barry Rogers by email at either [b.m.rogers@lse.ac.uk](mailto:b.m.rogers@lse.ac.uk) or [barry@liberare.com](mailto:barry@liberare.com)    
 
-**Bibliography** 
+## **Bibliography** 
 
 Adam. (2004). *Time* (1 edition). Polity Press.
 
