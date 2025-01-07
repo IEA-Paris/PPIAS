@@ -1237,19 +1237,35 @@ The importance of visual impact became evident during this period. It was clear 
 
 **Figure 5.1: % of weekly meetings with contingent meetings (striped)**
 
+![](/static/figure5.1.png)
+
 **Figure 5.2: Number of e-mails received in a day**
+
+![]()
 
 **Figure 5.3: Number of e-mails sent in a day**
 
+![]()
+
 **Figure 5.4: Number of interruptions in a day**
+
+![]()
 
 **Figure 5.5: Start and end of the working day**
 
+![]()
+
 **Figure 5.6: Combination of dimensions**   
+
+![]()
 
 **Figure 5.7: Pattern language characteristics during period 4**  
 
+![]()
+
 **Figure 5.8: Transition to Pattern Language characteristics in Period 5** 
+
+![]()
 
 ### **Period 6: '**Use' (September 2018 - March 2019)
 
