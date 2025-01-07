@@ -1193,6 +1193,8 @@ Period 3 sought to reproduce the storyboards in a professional format. This was 
 
 **Figure 3.2: Tool presentation: linear time represented by the e-diary**
 
+![](/static/figure3.2.png)
+
 **Figure 3.3: Tool presentation: role of back-to-back meetings**  
 
 **Figure 3.4:  Tool presentation: time as interruptions** 
