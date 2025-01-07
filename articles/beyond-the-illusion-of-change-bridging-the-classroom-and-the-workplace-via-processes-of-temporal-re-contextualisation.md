@@ -1183,23 +1183,15 @@ Figures 2.3 and 2.4 represent examples of the transition in the Pattern Language
 
 ![](/static/figure2.4.png)
 
-### **Period 3              'Credibility' (August 2016 -- March 2017)**
+### **Period 3: 'Credibility' (August 2016 - March 2017)**
 
 Period 3 sought to reproduce the storyboards in a professional format. This was driven by the need to display what a 'temporal tool' might look like in practice. My repeated references to 'non-linear time' were confusing to many at Forum, and this confusion prompted diverse and multiple interpretations of the study. Over a series of meetings in 2016/17, I worked with a colleague at Cambridge University to produce an online presentation tool that displayed the key elements of the storyboards. This model was employed over the coming months at a range of meetings at Forum to illustrate the potential for a credible (working) tool. 
 
-![](blob:https://euangoddard.github.io/906295fd-8a0f-45be-b4f5-a9d440eede3f)
-
 Figure 3.1:             Tool presentation: linear time
-
-![](blob:https://euangoddard.github.io/dd9a8fdb-906b-411d-bd25-f4b042ad1ad6)
 
 Figure 3.2:             Tool presentation: linear time represented by the e-diary
 
-![](blob:https://euangoddard.github.io/f9d456a7-3886-4f5a-ba2c-86e63bc6f935)
-
 Figure 3.3:             Tool presentation: role of back-to-back meetings  
-
-![](blob:https://euangoddard.github.io/94ba678d-088e-4130-958c-59430c54a038)
 
 Figure 3.4:             Tool presentation: time as interruptions 
 
