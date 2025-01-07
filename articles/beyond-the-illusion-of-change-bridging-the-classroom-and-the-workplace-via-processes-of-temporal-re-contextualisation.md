@@ -1167,15 +1167,15 @@ One of the key sounding-boards at this time was Professor Alan Blackwell at the 
 
 ### **Period 2: 'Sense-making' (July 2016)**
 
-Period 2 set the foundations for a visualisation approach to tool design, including the first attempts at representing linear and non-linear time in visual form.  This visualisation took the form of 6 physical storyboards, each presenting a different temporal dimension within a generic electronic calendar backdrop. An example of two of the boards appears in Figures 2.1 & 2.2 below -- these display the representation of 'interruptions' and 'control'. 
+Period 2 set the foundations for a visualisation approach to tool design, including the first attempts at representing linear and non-linear time in visual form. This visualisation took the form of 6 physical storyboards, each presenting a different temporal dimension within a generic electronic calendar backdrop. An example of two of the boards appears in Figures 2.1 & 2.2 below - these display the representation of 'interruptions' and 'control'. 
 
-![](blob:https://euangoddard.github.io/506ef2f4-7cac-46c1-8e6d-4758abbb9fa7)
+**Figure 2.1: Storyboard for temporal 'connections' and 'interruptions'**
 
-Figure 2.1:             Storyboard for temporal 'connections' and 'interruptions'
+![](/static/figure2.1.png)
 
-![](blob:https://euangoddard.github.io/d6fb4835-b4d0-4c70-a349-953a0dd538dc)
+**Figure 2.2: Storyboard for temporal 'control' (e.g. blocked off time in the calendar)**
 
-Figure 2.2:             Storyboard for temporal 'control' (e.g. blocked off time in the calendar)
+![](/static/figure2.2.png)
 
 Figures 2.3 and 2.4 represent examples of the transition in the Pattern Language profile between Period 1 and Period 2. This displays the evolution of focus as the representation matures (e.g. towards increasing emphasis on the shared social activities of story-telling, persuasion and discussion).
 
