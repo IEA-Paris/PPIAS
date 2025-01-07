@@ -1229,23 +1229,23 @@ Over a period of seven months, I produced multiple hand-drawn visuals (and desig
 
 ![](/static/figure4.5.png)
 
-### **Period 5 'Operational simplicity' (January 2018 -- August 2018)**
+### **Period 5 'Operational simplicity' (January 2018 - August 2018)**
 
 An initial working model of the visualisation tool was completed in February 2018.  Four updated versions of the tool were refined over the next five months following feedback from potential users. Example of the working model 
 
 The importance of visual impact became evident during this period. It was clear from early in the interview process that some temporal dimensions had more 'energy' than others, e.g. meetings and interruptions. This highlighted how certain diagrams seemed to attract the attention of users, drawing them in \[VE3], making them think differently about their relationship with time \[TE3], and most of all, starting the process of *play* with the dimensions \[TE5]. This sparked a realisation that the sense-making of users \[IA3] was tied to the *partial* use of the tool \[PE3] (e.g. the user did not need to experience the whole process of visualisations and would most likely disengage after a relatively short period).  
 
-Figure 5.1:             % of weekly meetings with contingent meetings (striped)
+Figure 5.1: % of weekly meetings with contingent meetings (striped)
 
-Figure 5.2:                Number of e-mails received in a day
+Figure 5.2: Number of e-mails received in a day
 
-Figure 5.3:               Number of e-mails sent in a day
+Figure 5.3: Number of e-mails sent in a day
 
-Figure 5.4:             Number of interruptions in a day
+Figure 5.4: Number of interruptions in a day
 
-Figure 5.5:        Start and end of the working day
+Figure 5.5: Start and end of the working day
 
-Figure 5.6:               Combination of dimensions   
+Figure 5.6: Combination of dimensions   
 
 ![](blob:https://euangoddard.github.io/3bca7dda-180d-427e-9164-1f2945f18930)
 
