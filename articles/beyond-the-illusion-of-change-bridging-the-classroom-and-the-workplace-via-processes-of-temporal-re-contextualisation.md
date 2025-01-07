@@ -1215,6 +1215,8 @@ Over a period of seven months, I produced multiple hand-drawn visuals (and desig
 
 **Figure 4.2: Hand-drawn visual - time use**
 
+![](/static/figure4.2.png)
+
 **Figure 4.3: Hand-drawn visual - nature of interruptions**  
 
 **Figure 4.4: Hand drawn visual - temporal orientation**
