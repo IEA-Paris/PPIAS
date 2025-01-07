@@ -1223,7 +1223,7 @@ Over a period of seven months, I produced multiple hand-drawn visuals (and desig
 
 **Figure 4.4: Hand drawn visual - temporal orientation**
 
-![]()
+![](/static/figure4.4.png)
 
 **Figure 4.5: Hand drawn visual - temporal orientation (cont.)**
 
