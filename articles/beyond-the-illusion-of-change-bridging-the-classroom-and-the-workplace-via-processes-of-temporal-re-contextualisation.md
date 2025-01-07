@@ -1207,9 +1207,7 @@ Period 3 sought to reproduce the storyboards in a professional format. This was 
 
 The fourth period saw the first attempt at drawing up detailed plans for an interactive working tool. During this period, it was possible to triangulate the development of the tool with images of e-calendars provided by respondents at Forum. A redacted version of one of these images appears in Figure 4.1 below. 
 
-![](blob:https://euangoddard.github.io/076963fb-1e61-497e-80c4-16b50cb716b2)
-
-Figure 4.1:                Image of e-diary provided by a respondent at Forum (redacted)
+**Figure 4.1: Image of e-diary provided by a respondent at Forum (redacted)**
 
 Over a period of seven months, I produced multiple hand-drawn visuals (and design briefs) to guide the coding of the tool**.** A selection of these visuals is included below (Figures 4.2. -- 4.5). 
 
