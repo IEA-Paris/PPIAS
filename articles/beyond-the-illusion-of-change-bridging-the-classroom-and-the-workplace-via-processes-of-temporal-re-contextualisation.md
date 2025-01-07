@@ -1245,7 +1245,7 @@ The importance of visual impact became evident during this period. It was clear 
 
 **Figure 5.3: Number of e-mails sent in a day**
 
-![]()
+![](/static/figure5.3.png)
 
 **Figure 5.4: Number of interruptions in a day**
 
