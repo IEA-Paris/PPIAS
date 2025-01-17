@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: Human Quest for Rapture and Ecstasy
 date: 2024-10-12T17:27:00.000Z
 type: article
@@ -36,7 +36,7 @@ abstract: "A universal aspect of human psychology is the quest and cultivation
   death: our inescapable, known, yet inconceivable reality."
 issue: content/issues/paris-ias-ideas.md
 highlight: false
-bibliography: /static/rochat_references.bib
+bibliography: /rochat_references.bib
 language: English
 ---
 ## Acknowledgements
@@ -61,7 +61,7 @@ Traces of the human quest for displacement and distraction, go far back in mode
 
 **Figure 1: Indigenous Intoxicants Worldwide**
 
-![](/static/picture1.png)
+![](/picture1.png)
 
 *(from LAPHAM'S Quarterly, vol. 6, Number 1, Winter 2013" Intoxication", pp. 10-11)*
 
@@ -79,9 +79,9 @@ Research show that newborns do manifest an implicit sense of their own embodied 
 
 **Figure 2: 36 month-old child passing the mirror mark test, reaching directly to the mark surreptiously placed on his forehead that he discovered looking at himself in the mirror** 
 
-![](/static/enfant-1.png)
+![](/enfant-1.png)
 
-![](/static/enfant-2.png)
+![](/enfant-2.png)
 
 *(Photo by the author)*
 
@@ -89,7 +89,7 @@ Children starting to recognize themselves in a mirror also demonstrate emerging 
 
 **Figure 3: 24 month-old child passing the mirror mark test, showing a first reaction of embarrassment as she discovers the mark that was surreptitiously place on her forehead** 
 
-![](/static/enfant-3.png)
+![](/enfant-3.png)
 
 *(Photo by the author).*
 
@@ -271,7 +271,7 @@ The point is that infants do not need to learn how to cry, nor to smile in *rap
 
 **Figure 4: Positive and negative valence captured in the facial expressions of 30 week-old fetus** 
 
-![](/static/foetus-4.png)
+![](/foetus-4.png)
 
 *(from Hata et al., 2010, reproduced with permission).*
 
@@ -281,7 +281,7 @@ During the first 6 weeks of life, the happy expression corresponding to rapture 
 
 **Figure 5: Hand-mouth coordination in a 3 minute-old newborn** 
 
-![](/static/be-be-s-5-.png)
+![](/be-be-s-5-.png)
 
 *(Photos by the author of his daughter Cléo).*
 
@@ -291,7 +291,7 @@ By six weeks, the reflex expression of positive rapture associated with feeding 
 
 **Figure 6: Socially elicited smiling in a 2-month-old** 
 
-![](/static/be-be-6.png)
+![](/be-be-6.png)
 
 *(Photo by the author of his daughter Cléo).*
 
@@ -515,102 +515,3 @@ On the whole, this month-long reflection on trance, rapture and what may be behi
 
 I thus conclude, at this stage of my reflection, that being self-conscious and endowed with a symbolic mind, mortality aware to boot, we are destined by nature to play around the simulation of our own death. I tried to show that it is an important dimension of what lies behind the universal human quest and cultivation of rapture and ecstasy.
 
-## References
-
-Agnetta, B., & Rochat, P. (2004). Imitative games by 9‐, 14‐, and 18‐month‐old infants. *Infancy, 6*(1), 1-36. Retrieved at: [https://doi.org/10.1207/s15327078in0601_1.](https://doi.org/10.1207/s15327078in0601_1)
-
-Anand, K. J. S., & Hickey, P. R. (1987). Pain and its effects in the human neonate and fetus. *New England Journal of Medicine*, 317, 1321--1329. Retrieved at: [https://doi.org/10.1056/nejm198711193172105.](https://doi.org/10.1056/nejm198711193172105)
-
-Balboa, R.M., & Grzywacz, N.M. (2000). The role of early retinal lateral inhibition: more than maximizing luminance information. *Visual Neuroscience, 17*(1), 77-89.
-
-Becker, E. (1973). *The Denial of Death*. New York: The Free Press.
-
-Becker, E. (1975). *Escape from Evil*. New York: The Free Press.
-
-Blass, E.M. (1987). Opioids, sweets and a mechanism for positive affect: Broad motivational implications. In *Sweetness* (pp. 115-126). London: Springer London.
-
-Botto, S. V., & Rochat, P. (2018). Sensitivity to the evaluation of others emerges by 24 months. *Developmental Psychology, 54*(9), 1723. Retrieved at: [https://doi.org/10.1037/dev0000548. ](https://doi.org/10.1037/dev0000548)
-
-Caillois, R. (1958). *Les Jeux et les hommes* (Human Plays). Paris: Editions Gallimard.
-
-Chalmers, D. (2017). The hard problem of consciousness. *The Blackwell companion to consciousness*, 32-42.
-
-Darwin, C. \[1872] 1965. *The Expression of Emotion in Man and Animals*. University of Chicago Press. Chicago. <https://doi.org/10.1037/10001-000>
-
-DeCasper, A.J., Lecanuet, J.P., Busnel, M.C., Granier-Deferre, C., & Maugeais, R. (1994). Fetal reactions to recurrent maternal speech. *Infant behavior and development, 17*(2), 159-164. Retrieved at: [https://doi.org/10.1016/0163-6383(94)90051-5.](https://doi.org/10.1016/0163-6383(94)90051-5)
-
-Farroni, T., Csibra, G., Simion, F., & Johnson, M.H. (2002). Eye contact detection in humans from birth. *Proceedings of the National academy of sciences, 99*(14), 9602-9605. Retrieved at: [https://doi.org/10.1073/pnas.152159999.](https://doi.org/10.1073/pnas.152159999)
-
-Gibson, B., Robbins, E., & Rochat, P. (2015). White bias in 3--7-year-old children across cultures. *Journal of Cognition and Culture*, *15*(3-4), 344-373.
-
-Hamlin, J. K., Wynn, K., & Bloom, P. (2007). Social evaluation by preverbal infants. *Nature, 450*(7169), 557-559.
-
-Hata, T., Dai, S. Y., & Marumo, G. (2010). Ultrasound for evaluation of fetal neurobehavioural development: from 2‐D to 4‐D ultrasound. *Infant and Child Development: An International Journal of Research and Practice, 19*(1), 99-118. <https://doi.org/10.1002/icd.659>
-
-Hooker, D. (1952). *The prenatal origin of behavior*. Kansas: University of Kansas Press. Retrieved at: [https://doi.org/10.1002/cne.900980308.](https://doi.org/10.1002/cne.900980308)
-
-James, W. (1890). *The Principles of Psychology.* (New York: Henry Holt & Co.). Retrieved at: [https://doi.org/10.1192/bjp.37.158.428.](https://doi.org/10.1192/bjp.37.158.428)
-
-Jankélévitch, V. *La mort* (Death), Paris, Flammarion, 2008.
-
-Kaplan, R. (1999). *The Nothing That Is: A Natural History of Zero*. New York: Oxford University Press.
-
-Kent, M.M. & Haub, C. (2005, december). Global Demographic Divide.  *Population Bulletin*, (publication of the population reference bureau). Vol. 60, No 4.
-
-Kuhl, P. K., Williams, K. A., Lacerda, F., Stevens, K. N., & Lindblom, B. (1992). Linguistic experience alters phonetic perception in infants by 6 months of age. *Science, 255*(5044), 606--608. 
-
-Lapassade, G. (1987). *Les états modifiés de conscience* (the altered states of consciousness). Paris: Presses Universitaires de France.
-
-The Lab School. (2024). The Lab School. Retrieved at: <https://www.labschool.org/>.
-
-Mareschal, D., & Quinn, P. C. (2001). Categorization in infancy. *Trends in Cognitive Sciences, 5*(10), 443-450.
-
-Marlier, L., Schaal, B., and Soussignan, R. (1998). Neonatal Responsiveness to the Odor of Amniotic and Lacteal Fluids: A Test of Perinatal Chemosensory Continuity. *Child Development*, 69/3: 611--23. Retrieved at: [https://doi.org/10.1111/j.1467-8624.1998.tb06232.x.](https://doi.org/10.1111/j.1467-8624.1998.tb06232.x)
-
-Ozawa-De Silva, C. (2021). *The Anatomy of Loneliness. Suicide, Social Connection, and the Search for Relational Meaning in Contemporary Japan*. Oakland, CA: University of California Press.
-
-Perez, J., & Feigenson, L. (2022). Violations of expectation trigger infants to search for explanations. *Cognition\*\*, 218,* 104942.
-
-Proelss, S., Ishiyama, S., Maier, E., Schultze-Kraft, M., & Brecht, M. (2022). The human tickle response and mechanisms of self-tickle suppression. *Philosophical Transactions of the Royal Society B, 377*(1863), 20210185. Retrieved at: <https://doi.org/10.1098/rstb.2021.0185>.
-
-Reich, W. (1927). *The function of the orgasm*. London: Panther.
-
-Rochat, P. (2006). *The Infant's World*. Cambridge, Mass.: Harvard University Press.
-
-Rochat, P. (2009). *Others in Mind:---Social Origins of Self‐Consciousness*. New York and Cambridge: Cambridge University Press). Retrieved at: [https://doi.org/10.1017/cbo9780511812484.](https://doi.org/10.1017/cbo9780511812484)
-
-Rochat, P. (2018). The ontogeny of human self-consciousness. *Current Directions in Psychological Science, 27*(5), 345-350. Retrieved at: [https://doi.org/10.1177/0963721418760236.](https://doi.org/10.1177/0963721418760236)
-
-Rochat, P. (2021). *Moral Acrobatics: How We Avoid Moral Ambiguity by Thinking in Black or White*. New York: Oxford University Press.
-
-Rochat, P., Blass, E.M., & Hoffmeyer, L.B. (1988). Oropharyngeal control of hand-mouth coordination in newborn infants*. Developmental psychology, 24*(4), 459. Retrieved at: [https://doi.org/10.1037//0012-1649.24.4.459.](https://doi.org/10.1037/0012-1649.24.4.459)
-
-Rochat, P., Querido, J.G., & Striano, T. (1999). Emerging sensitivity to the timing and structure of protoconversation in early infancy. *Developmental Psychology, 35*(4), 950--957. Retrieved at: [https://doi.org/10.1037/0012-1649.35.4.950](https://psycnet.apa.org/doi/10.1037/0012-1649.35.4.950).
-
-Rochat, P., & Guo, C. (2021). Lying and Self-Consciousness in Human Development. In *Being Untruthful* (pp. 37-58). Ergon-Verlag. Retrieved at: [https://doi.org/10.5771/9783956508578-37.](https://doi.org/10.5771/9783956508578-37.%20)
-
-Schopenhauer, A. (1859/2008). *The World as Will and Presentation*, Vol. 1, New York: Pearson Longman.
-
-Shore, B. (2023). *The Hidden Powers of Ritual, a journey of a lifetime*. Cambridge, MA: M.I.T. Press.
-
-Shutts, K., Brey, E.L., Dornbusch, L. A., Slywotzky, N., & Olson, K.R. (2016). Children use wealth cues to evaluate others. *PloS\*\* one, 11*(3), e0149360.
-
-Spelke, E. S., Breinlinger, K., Macomber, J., & Jacobson, K. (1992). Origins of knowledge. *Psychological Review, 99*(4), 605.
-
-Spiegel, C., & Halberda, J. (2011). Rapid fast-mapping abilities in 2-year-olds. *Journal of Experimental Child Psychology, 109*(1), 132-140.
-
-Striano, T., & Rochat, P. (1999). Developmental link between dyadic and triadic social competence in infancy. *British Journal of Developmental Psychology, 17*(4), 551-562. Retrieved at: [https://doi.org/10.1348/026151099165474.](https://doi.org/10.1348/026151099165474)
-
-Suzuki, S. (1970). *Zen Mind, Beginner's Mind*. New York: Weatherhill.
-
-Tomasello, M. (2016). *What did we learn from the ape language studies?* Bonobos, 95.
-
-Tomasello, M., & Farrar, M.J. (1986). Joint attention and early language. *Child development*, 1454-1463. Retrieved at: [https://doi.org/10.2307/1130423.](https://doi.org/10.2307/1130423)
-
-Weiss, M.J., Zelazo, P.R., & Swain, I.U. (1988). Newborn response to auditory stimulus discrepancy. *Child Development*, 1530-1541. Retrieved at: https://doi[10.2307/1130668](http://dx.doi.org/10.2307/1130668).
-
-Wikipedia (2024). Ecstasy (philosophy). Wikipedia Organization. Retrieved at: 
-
-https://en.wikipedia.org/wiki/Ecstasy_(philosophy)
-
-Woodward, A.L. (2009). Infants' grasp of others' intentions. *Current\*\* Directions in Psychological Science, 18*(1), 53-57. Retrieved at: https://doi.org/10.1111%2Fj.1467-8721.2009.01605.x.
