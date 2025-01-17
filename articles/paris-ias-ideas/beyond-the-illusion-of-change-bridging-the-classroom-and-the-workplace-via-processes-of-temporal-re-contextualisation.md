@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "Beyond the illusion of change: bridging the ‘classroom’ and the
   workplace via processes of temporal re-contextualisation"
 date: 2025-01-07T09:42:00.000Z
@@ -45,7 +45,7 @@ abstract: "The application and use of formal knowledge in the ‘real-world’ i
   the capacity to act, ‘in’ and over time.  "
 issue: content/issues/paris-ias-ideas.md
 highlight: false
-bibliography: /static/rogers_references.bib
+bibliography: /rogers_references.bib
 language: English
 ---
 ## **Acknowledgements**:
@@ -336,7 +336,7 @@ I am the first to highlight that there are clear limitations associated with the
 
 **Figure 1: Satisfaction 'curve' after November Impact programme**
 
-![](/static/picture1.png)
+![](/picture1.png)
 
 The mini-interviews appeared to confirm my long-held hunch that something happens to the *well-meaning* commitments of participants after a *successful* learning programme. They also suggested that the visceral experience of time(s) was in some way central to this phenomenon. The next stage of the study was crucial therefore - could the tool make a meaningful difference to these experiences in a way that maintained the integrity of learning commitments when they encountered the ontological terrain of the *flow of work*. 
 
@@ -371,7 +371,7 @@ The aim of the final question was to produce a tangible temporal activity that c
 
 **Figure 2: A typical temporal profile at the end of the questions** 
 
-![](/static/picture2.png)
+![](/picture2.png)
 
 In order to maintain momentum between sessions, the combined temporal profile was screenshot at the end of the first session and emailed to each respondent immediately after the call. It was also used as the backdrop for the start of Sessions II and III (e.g. "Just to remind you of the profile we generated in our first session...how does this look now?').
 
@@ -461,7 +461,7 @@ Something needed to take the place of the tool; the answer to this lay in what b
 
 **Figure 3: The Impact Programme as a rolling 'temporal' wave** 
 
-![](/static/picture3.png)
+![](/picture3.png)
 
 The final version of the Impact programme (2024) is represented in the diagram above as a rolling wave (see Figure 3). This representation emphasises a break with the linear aspects of traditional programme design where a stark temporal distinction routinely exists between the face-to-face programme (the 'Mountain-top') and preceding/subsequent activity in the work setting (the 'Swamp'). The primary aim was now to put temporality at the intersection of learning and implementation by constantly connecting with the flow of work via ongoing processes of recontextualisation. Building on the research findings, the design rationale stressed a sense of temporal congruence/connection between these settings. Most of all, the act of practising was now recognised as a liminal process of experimentation within the day-to-day realities of the swamp, something that unfolded both over and, crucially, in time. 
 
@@ -589,565 +589,6 @@ This research occurred alongside a parallel commercial relationship with Forum (
 
 **Contact details:** Please feel free to contact Barry Rogers by email at either [b.m.rogers@lse.ac.uk](mailto:b.m.rogers@lse.ac.uk) or [barry@liberare.com](mailto:barry@liberare.com)    
 
-## **Bibliography** 
-
-Adam. (2004). *Time* (1 edition). Polity Press.
-
-Adam. (2008). The timescapes challenge: Engagement with the invisible temporal. In Adam, Hockey, 
-
-Thompson, & Edwards (Eds.), *Researching Lives Through Time: Time, Generation and Life Stories* (pp. 7--12). University of Leeds. http://orca.cf.ac.uk/30758/
-
-Agnew, H., Moore, M., & Wilson, T. (2024, May 6). BP shareholders expect oil group to scale back climate target. *Financial Times*. https://www.ft.com/content/88c8b435-7bed-4b75-ae0e-0d2673e08305
-
-Allan, Magnusson, Horton, Evans, Ball, Curtis, & Johnson. (2015a). People, liminal spaces and experience: Understanding recontextualisation of knowledge for newly qualified nurses. *Nurse Education Today*, *35*(2), e78--e83.
-
-Allan, Magnusson, Horton, Evans, Ball, Curtis, & Johnson. (2015b). People, liminal spaces and experience: Understanding recontextualisation of knowledge for newly qualified nurses. *Nurse Education Today*, *35*(2), e78--e83. https://doi.org/10.1016/j.nedt.2014.10.018
-
-Al-Saidi, M. (2023). White knight or partner of choice? The Ukraine war and the role of the Middle East in the energy security of Europe. *Energy Strategy Reviews*, *49*, 101116. https://doi.org/10.1016/j.esr.2023.101116
-
-Alvesson, M. (Ed.). (2011). *The Oxford Handbook of Critical Management Studies* (Reprint edition). Oxford University Press, USA.
-
-Anderson, & van Wijk. (2010). Customized executive learning: A business model for the twenty‐first century. *Journal of Management Development*, *29*(6), 545--555. https://doi.org/10.1108/02621711011046512
-
-Argyris, C. (1977, September 1). Double Loop Learning in Organizations. *Harvard Business Review*. https://hbr.org/1977/09/double-loop-learning-in-organizations
-
-Ascher, D. (2020, May 27). Mums 'do most childcare and chores in lockdown'. *BBC News*. https://www.bbc.com/news/business-52808930
-
-Ashcraft, K. L. (2017). 'Submission' to the rule of excellence: Ordinary affect and precarious resistance in the labor of organization and management studies. *Organization*, *24*(1), 36--58. https://doi.org/10.1177/1350508416668188
-
-Astley, W. G., & Zammuto, R. F. (1992). Organization Science, Managers, and Language Games. *Organization Science*, *3*(4), 443--460. https://doi.org/10.1287/orsc.3.4.443
-
-Baldwin, & Ford. (1988). Transfer of Training: A Review and Directions for Future Research. *Personnel Psychology*, *41*(1), 63--105.
-
-Baldwin, Ford, & Blume, B. D. (2017a). The State of Transfer of Training Research: Moving Toward More Consumer-Centric Inquiry. *Human Resource Development Quarterly*, *28*(1), 17--28. https://doi.org/10.1002/hrdq.21278
-
-Baldwin, T., Ford, J., & Blume, B. (2017b). The State of Transfer of Training Research: Moving Toward More Consumer-Centric Inquiry. *Human Resource Development Quarterly*, *28*. https://doi.org/10.1002/hrdq.21278
-
-Banks, G. C., Pollack, J. M., Bochantin, J. E., Kirkman, B. L., Whelpley, C. E., & O'Boyle, E. H. (2016). Management's Science--Practice Gap: A Grand Challenge for All Stakeholders. *Academy of Management Journal*,*59*(6), 2205--2231. https://doi.org/10.5465/amj.2015.0728
-
-Bansal, P. (Tima), Reinecke, J., Suddaby, R., & Langley, A. (2022). Temporal Work: The Strategic Organization of Time. *Strategic Organization*, *20*(1), 6--19. https://doi.org/10.1177/14761270221081332
-
-Barnett, S. M., & Ceci, S. J. (2002). When and where do we apply what we learn?: A taxonomy for far transfer. *Psychological Bulletin*, *128*(4), 612--637. https://doi.org/10.1037/0033-2909.128.4.612
-
-Basar, S., Coupland, D., & Obrist, H. U. (2015). *The Age of Earthquakes: A Guide to the Extreme Present*. Penguin.
-
-Bass, B. M. (1990). From transactional to transformational leadership: Learning to share the vision. *Organizational Dynamics*, *18*(3), 19--31. https://doi.org/10.1016/0090-2616(90)90061-S
-
-Bell, B., I. Tannenbaum, S., Ford, J., Noe, R., & Kraiger, K. (2017). 100 Years of Training and Development Research: What We Know and Where We Should Go. *Journal of Applied Psychology*, *102*. https://doi.org/10.1037/apl0000142
-
-Bell, B., & Kozlowski, S. (2008). Active Learning: Effects of Core Training Design Elements on  Self-Regulatory Processes, Learning, and Adaptability. *Articles and Chapters*. https://digitalcommons.ilr.cornell.edu/articles/410
-
-Berg Johansen, C., & De Cock, C. (2018). Ideologies of time: How elite corporate actors engage the future. *Organization*, *25*(2), 186--204. https://doi.org/10.1177/1350508417725592
-
-Berger, J. (2008). *Ways of Seeing* (01 edition). Penguin Classics.
-
-Berk, J., & DeMarzo, P. (2013). *Corporate Finance* (3 edition). Pearson.
-
-Bernstein. (2000). *Pedagogy, Symbolic Control, and Identity* (Revised Edition edition). Rowman & Littlefield Publishers, Inc.
-
-Bhattacharya, T. (2017). *Social Reproduction Theory: Remapping Class, Recentering Oppression*. For Work / Against Work; Pluto Press. https://onwork.edu.au/bibitem/2017-Bhattacharya,Tithi-Social+Reproduction+Theory+Remapping+Class,Recentering+Oppression/
-
-Blackman, R. (2020, May 28). How to Monitor Your Employees---While Respecting Their Privacy. *Harvard Business Review*. https://hbr.org/2020/05/how-to-monitor-your-employees-while-respecting-their-privacy
-
-Blackwell, A. F. (2008). *Design Research and Academic Disciplines*. 8.
-
-Blanchard, P. N., Thacker, J. W., & Way, S. A. (2000). Training evaluation: Perspectives and evidence from Canada. *International Journal of Training and Development*, *4*(4), 295--304. https://doi.org/10.1111/1468-2419.00115
-
-Blot, C., Creel, J., & Geerolf, F. (2023). *The direct and indirect impacts of the war on inflation*.
-
-Blume, Ford, Baldwin, & Huang. (2010). Transfer of Training: A Meta-Analytic Review. *Journal of Management*, *36*(4), 1065--1105. https://doi.org/10.1177/0149206309352880
-
-Blume, Ford, Surface, & Olenick. (2019). A dynamic model of training transfer. *Human Resource Management Review*, *29*(2), 270--283. https://doi.org/10.1016/j.hrmr.2017.11.004
-
-Boersma, M. K. (2016). Low incomes, fast lives? Exploring everyday temporalities of Filipina domestic workers in Hong Kong. *Time & Society*, *25*(1), 117--137. https://doi.org/10.1177/0961463X15609807
-
-Bruner. (1990). *Acts of Meaning*. Harvard University Press.
-
-Bruner. (1991). The Narrative Construction of Reality. *Critical Inquiry*, *18*(1), 1--21. JSTOR.
-
-Bugaric, M. K. (2019). *Ahead of Their Time: Temporal Orientation and Organizational Technological Invention*. 79.
-
-Bunnag, A. (2017). The concept of time in philosophy: A comparative study between Theravada Buddhist and Henri Bergson's concept of time from Thai philosophers' perspectives. *Kasetsart Journal of Social Sciences*. https://doi.org/10.1016/j.kjss.2017.07.007
-
-Burke, Joseph, Pasick, & Barker. (2009). Theorizing Social Context: Rethinking Behavioral Theory. *Health Education & Behavior\*\*: The Official Publication of the Society for Public Health Education*, *36*(5 0), 55S-70S. https://doi.org/10.1177/1090198109335338
-
-Burkeman, O. (2019, November 22). 'The attention economy is in hyperdrive': How tech shaped the 2010s. *The Guardian*. https://www.theguardian.com/culture/2019/nov/22/attention-economy-in-hyperdrive-how-tech-shaped-2010s-oliver-burkeman
-
-Caligiuri, P., & Tarique, I. (2012). Dynamic cross-cultural competencies and global leadership effectiveness. *Journal of World Business*, *47*(4), 612--622. https://doi.org/10.1016/j.jwb.2012.01.014
-
-Cambridge English Dictionary Online. (2019). *COMMITMENT | meaning in the Cambridge English Dictionary*. https://dictionary.cambridge.org/dictionary/english/commitment
-
-Campbell, J. P. (1971). Personnel Training and Development. *Annual Review of Psychology*, *22*(1), 565--602. https://doi.org/10.1146/annurev.ps.22.020171.003025
-
-Carton, G., & Ungureanu, P. (2018). Bridging the Research--Practice Divide: A Study of Scholar- Practitioners' Multiple Role Management Strategies and Knowledge Spillovers Across Roles. *Journal of Management Inquiry*, *27*(4), 436--453. https://doi.org/10.1177/1056492617696890
-
-Cascio, W. F. (2007). EVIDENCE-BASED MANAGEMENT AND THE MARKETPLACE FOR IDEAS. *Academy of Management Journal*, *50*(5), 1009--1012. https://doi.org/10.5465/AMJ.2007.27151942
-
-Castree, N. (2009). The Spatio-temporality of Capitalism. *Time & Society*, *18*(1), 26--61. https://doi.org/10.1177/0961463X08099942
-
-Chater, N., & Loewenstein, G. (2022). *The i-Frame and the s-Frame: How Focusing on Individual-Level Solutions Has Led Behavioral Public Policy Astray* (SSRN Scholarly Paper 4046264). Social Science Research Network. https://doi.org/10.2139/ssrn.4046264
-
-Chaturvedi, A. M. (2021, August 11). Single, Double, and Triple Loop Organizational Learning. *Viewpoints Which Matter*. https://chaturvedimayank.wordpress.com/2021/08/11/single-double-and-triple-loop-organizational-learning/
-
-Christianson, M. K., Farkas, M. T., Sutcliffe, K. M., & Weick, K. E. (2008). Learning Through Rare Events: Significant Interruptions at the Baltimore & Ohio Railroad Museum. *Organization Science*, *20*(5), 846--860. https://doi.org/10.1287/orsc.1080.0389
-
-Chu, A., & McCormick, M. (2024, May 29). Exxon prevails over dissident shareholders in board battle. *Financial Times*. https://www.ft.com/content/99d1b931-6b9b-4612-9566-1affe31f279d
-
-Cipriani, R. (2013). The many faces of social time: A sociological approach. *Time & Society*, *22*(1), 5--30. https://doi.org/10.1177/0961463X12473948
-
-Clear, J. (2018). *Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones*. Avery.
-
-Coffé, H. (2015). Time use among New Zealand Members of Parliament. *Time & Society*, 0961463X15579578. https://doi.org/10.1177/0961463X15579578
-
-Collier, D. (2011). Understanding Process Tracing. *PS: Political Science & Politics*, *44*(04), 823--830. https://doi.org/10.1017/S1049096511001429
-
-Cooke, J. (2005). A framework to evaluate research capacity building in health care. *BMC Family Practice*, *6*, 44. https://doi.org/10.1186/1471-2296-6-44
-
-Cooper, J. (2019). Cognitive Dissonance: Where We've Been and Where We're Going. *International Review of Social Psychology*, *32*(1), Article 1. https://doi.org/10.5334/irsp.277
-
-Crane, A., & Ruebottom, T. (2011). Stakeholder Theory and Social Identity: Rethinking Stakeholder Identification. *Journal of Business Ethics*, *102*(1), 77--87. https://doi.org/10.1007/s10551-011-1191-4
-
-Crang, M. (2010). The calculus of speed: Accelerated worlds, worlds of acceleration *Time & Society*, *19*(3), 404--410. https://doi.org/10.1177/0961463X10381577
-
-Crawford, M. (2016). *The World Beyond Your Head: How to Flourish in an Age of Distraction*. Penguin.
-
-Cross, R., Rebele, R., & Grant, A. (2016, January 1). Collaborative Overload. *Harvard Business Review*, *January--February 2016*. https://hbr.org/2016/01/collaborative-overload
-
-Crystal, J. D. (2001). Nonlinear time perception. *Behavioural Processes*, *55*(1), 35--49. https://doi.org/10.1016/s0376-6357(01)00167-x
-
-Cunliffe, A. L., & Alcadipani, R. (2016). The Politics of Access in Fieldwork: Immersion, Backstage Dramas, and Deception. *Organizational Research Methods*, *19*(4), 535--561. https://doi.org/10.1177/1094428116639134
-
-Daniels, H., Cole, M., & Wertsch, J. V. (Eds.). (2007). *The Cambridge Companion to Vygotsky* (1st ed.). Cambridge University Press.
-
-Davison, J., Mclean, C., & Warren, S. (2012). Exploring the visual in organizations and management. *Qualitative Research in Organizations and Management: An International Journal*, *7*(1), 5--15. https://doi.org/10.1108/17465641211223528
-
-Degama, Elias, & Peticca-Harris. (2019). The good academic: Re-imagining good research in organization and management studies. *Qualitative Research in Organizations and Management: An International Journal*, *14*, 2--9. https://doi.org/10.1108/QROM-03-2019-681
-
-Dewey, J. (1910). *How We Think*. D.C. Heath & Company.
-
-Dobson, S. (2012). The *Pedagogue as Translator* in the Classroom. *Journal of Philosophy of Education*, *46*(2), 271--286. https://doi.org/10.1111/j.1467-9752.2012.00852.x
-
-Donnelly, P. F., Gabriel, Y., & Ozkazanc-Pan, B. (2013). *Untold Stories of the Field and Beyond: Narrating the Chaos* (SSRN Scholarly Paper ID 2786661). Social Science Research Network. https://papers.ssrn.com/abstract=2786661
-
-Donovan, P. (2017). A Threshold Concept in Managing: What Students in Introductory Management Courses Must Know. *Journal of Management Education*, *41*(6), 835--851. https://doi.org/10.1177/1052562917704869
-
-Dubner, S. J., & Levitt, S. D. (2010). *Superfreakonomics: Global Cooling, Patriotic Prostitutes and Why Suicide Bombers Should Buy Life Insurance*. Penguin.
-
-Edgley, C. (2016). *The Drama of Social Life: A Dramaturgical Handbook*. Routledge. https://doi.org/10.4324/9781315615691
-
-Engestrom, Y. (2010). *From Teams to Knots: Activity-Theoretical Studies of Collaboration and Learning at Work*. Cambridge University Press.
-
-Ericsson, Krampe, & Tesch-Römer, C. (1993). The Role of Deliberate Practice in the Acquisition of Expert Performance. *Psychological Review*, *100*(3), 363--406.
-
-Ericsson, & Pool. (2016). *Peak: Secrets from the New Science of Expertise* (1st Edition edition). Bodley Head.
-
-Euchner, J. (2013). Navigating the VUCA World: An Interview with Bob Johansen. *Research-Technology Management*, *56*(1), 10.
-
-Evans, & Guile. (2012). Putting different forms of knowledge to work in practice. In *Practice-based education* (pp. 113--130). Brill Sense.
-
-Evans, Guile, & Harris. (2009a). *Putting knowledge to work: The exemplars*.
-
-Evans, Guile, & Harris. (2009b, February 1). *Putting Knowledge to Work: The Exemplars* \[Other]. WLE Centre for Excellence, Institute of Education, University of London, London. (2009); WLE Centre for Excellence, Institute of Education, University of London. https://discovery.ucl.ac.uk/id/eprint/1527268/
-
-Evans, Guile, & Harris. (2011). Rethinking work-based learning: For education professionals and professionals who educate. *The Sage Handbook of Workplace Learning*, 149--161.
-
-Evans, Guile, Harris, & Allan. (2010a). Putting knowledge to work: A new approach. *Nurse Education Today*, *30*(3), 245--251.
-
-Evans, Guile, Harris, & Allan. (2010b). Putting knowledge to work: A new approach. *Nurse Education Today*, *30*(3), 245--251. https://doi.org/10.1016/j.nedt.2009.10.014
-
-Faragher, J. (2016, September 14). *Face-to-face learning aims achieved by under a fifth of organisations*. Personnel Today. http://www.personneltoday.com/hr/face-face-learning-aims-achieved-one-fifth-organisations/
-
-Featherstone, L. (2020, May 7). The Pandemic Is a Family Emergency. *The New Republic*. https://newrepublic.com/article/157528/coronavirus-pandemic-family-care-work-crisis-social-reproduction-theory
-
-Feddern-Bekcan, T. (2008). Google Calendar. *Journal of the Medical Library Association\*\*: JMLA*, *96*(4), 394--395. https://doi.org/10.3163/1536-5050.96.4.023
-
-Ferguson, S. (2019). *Women and Work: Feminism, Labour, and Social Reproduction*. Pluto Press.
-
-Festinger, L. (1957). *A Theory of Cognitive Dissonance*. Stanford University Press.
-
-Fettes, Evans, & Kashefpakdel. (2020). Putting skills to work: It's not so much the what, or even the why, but how.... *Journal of Education and Work*, *33*(2), 184--196. https://doi.org/10.1080/13639080.2020.1737320
-
-Flaherty. (2000). *A Watched Pot: How We Experience Time* (New edition edition). NYU Press.
-
-Flaherty, & Fine. (2001). Present, Past, and Future: Conjugating George Herbert Mead's perspective on time. *Time & Society*, *10*(2--3), 147--161.
-
-Ford, J. K., Baldwin, T. T., & Prasad, J. (2018). Transfer of Training: The Known and the Unknown. *Annual Review of Organizational Psychology and Organizational Behavior*, *5*(1), 201--225. https://doi.org/10.1146/annurev-orgpsych-032117-104443
-
-Forscher, B. K. (1963). Chaos in the Brickyard. *Science (New York, N.Y.)*, *142*(3590), 339. https://doi.org/10.1126/science.142.3590.339
-
-Foucault, M. (1991). *The Foucault Reader: An Introduction to Foucault's Thought* (P. Rabinow, Ed.; New). Penguin.
-
-Fukami, C. V. (2007). The Third Road. *Journal of Management Education*, *31*(3), 358--364. https://doi.org/10.1177/1052562906298442
-
-Gabbatiss, J. (2024, March 14). *Shell abandons 2035 emissions target and weakens 2030 goal*. Carbon Brief. https://www.carbonbrief.org/shell-abandons-2035-emissions-target-and-weakens-2030-goal/
-
-Galton, F. (1869). *Hereditary Genius*. Macmillan.
-
-Gergen, K. J. (2011). *Relational Being: Beyond Self and Community* (Reprint edition). Oxford University Press, USA.
-
-Ghoshal, S. (2005). Bad Management Theories Are Destroying Good Management Practices. *Academy of Management Learning & Education*, *4*(1), 75--91. https://doi.org/10.5465/AMLE.2005.16132558
-
-Gibbs, P. (2010). Heidegger: Time, work and the challenges for higher education. *Time & Society*, *19*(3), 387--403. https://doi.org/10.1177/0961463X09354438
-
-Gladwell, M. (2009). *Outliers: The Story of Success*. Penguin.
-
-Glaveski, S. (2019, October 2). Where Companies Go Wrong with Learning and Development. *Harvard Business Review*. https://hbr.org/2019/10/where-companies-go-wrong-with-learning-and-development
-
-Goffman, E. (1974). *Frame Analysis: An Essay on the Organization of Experience*. Harper & Row.
-
-Goffman, E. (1990). *The Presentation of Self in Everyday Life* (New Ed edition). Penguin.
-
-Goffman, E., & Berger, B. (1986). *Frame Analysis: An Essay on the Organization of Experience* (New edition edition). Northeastern.
-
-Goldsmith, M. (2008). *What Got You Here Won't Get You There: How successful people become even more successful*. Profile Books.
-
-Goldstein, I. L., & Ford, K. (2001). *Training in Organizations* (4th edition). Thomson Press.
-
-Grady, G., & McCarthy, A. M. (2008). Work‐life integration: Experiences of mid‐career professional working mothers. *Journal of Managerial Psychology*, *23*(5), 599--622. https://doi.org/10.1108/02683940810884559
-
-Grant, A. M. (2014). The Efficacy of Executive Coaching in Times of Organisational Change. *Journal of Change Management*, *14*(2), 258--280. https://doi.org/10.1080/14697017.2013.805159
-
-Green, T. R. G. (1989). Cognitive Dimensions of Notations. *Proceedings of the Fifth Conference of the British Computer Society, Human-Computer Interaction Specialist Group on People and \*\*Computers V*, 443--460. http://dl.acm.org/citation.cfm?id=92968.93015
-
-Griffiths, K. (2020). *The Rank and File Strategy on New Terrain*. Spectre Journal. https://spectrejournal.com/the-rank-and-file-strategy-on-new-terrain-2/
-
-Grint, K. (2005). *The Sociology of Work: Introduction* (3rd Revised edition edition). Polity Press.
-
-Guerci, M., & Vinante, M. (2011). Training evaluation: An analysis of the stakeholders' evaluation needs. *Journal of European Industrial Training*, *35*(4), 385--410. https://doi.org/10.1108/03090591111128342
-
-Hager, P., & Hodkinson, P. (2009). Moving beyond the metaphor of transfer of learning. *British Educational Research Journal*, *35*(4), 619--638. https://doi.org/10.1080/01411920802642371
-
-Hall, P. A. (2013). Tracing the Progress of Process Tracing. *European Political Science*, *12*(1), 20--30. https://doi.org/10.1057/eps.2012.6
-
-Hassard, J. (1991). Aspects of Time in Organization. *Human Relations*, *44*(2), 105--125. https://doi.org/10.1177/001872679104400201
-
-Hatch, M. J., & Cunliffe, A. L. (2012). *Organization Theory: Modern, Symbolic, And Postmodern Perspectives* (3 edition). Oxford University Press, Usa.
-
-Heidegger, M. (1978). *Being and Time* (New Ed edition). Wiley-Blackwell.
-
-Hernes, T. (2012). Actor‐Network Theory, Callon's Scallops, and Process‐BasedOrganization Studies. In *Process, Sensemaking, and Organizing*. Oxford University Press. https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199594566.001.0001/acprof-9780199594566-chapter-9
-
-Hernes, T., & Maitlis, S. (2010). *Process, Sensemaking, and Organizing*. Oxford University Press.
-
-Hinojosa, A. S., Gardner, W. L., Walker, H. J., Cogliser, C., & Gullifor, D. (2016). A Review of  Cognitive Dissonance Theory in Management Research: Opportunities for Further Development. *Journal of Management*. https://doi.org/10.1177/0149206316668236
-
-Hogg, M. A. (2016). Social Identity Theory. In S. McKeown, R. Haji, & N. Ferguson (Eds.), *Understanding Peace and Conflict Through Social Identity Theory: Contemporary Global Perspectives* (pp. 3--17). Springer International Publishing. https://doi.org/10.1007/978-3-319-29869-6_1
-
-Hogg, M. A., & Terry, D. J. (2000). Social Identity and Self-Categorization Processes in Organizational Contexts. *Academy of Management Review*, *25*(1), 121--140. https://doi.org/10.5465/AMR.2000.2791606
-
-Horney, N., & O'Shea, T. (2015). *Focused, Fast and Flexible: Creating Agility Advantage in a VUCA World*. Indie Books International.
-
-Horney, N., Pasmore, B., & O'Shea, T. (2010). Leadership Agility: A Business Imperative for a VUCA World. *People & Strategy*, *33*(4), 32--38.
-
-Hosking, D.-M. (1991). *A social psychology of organizing: People, processes and contexts*. Harvester Wheatsheaf.
-
-Huang, J. L., Ford, J. K., & Ryan, A. M. (2017). Ignored no more: Within-Person variability enables a better understanding of training transfer. *Personnel Psychology*, *70*(3), 557--596. https://doi.org/10.1111/peps.12155
-
-Huggel, C., Bouwer, L. M., Juhola, S., Mechler, R., Muccione, V., Orlove, B., & Wallimann-Helmer, I. (2022). The existential risk space of climate change. *Climatic Change*, *174*(1--2), 8. https://doi.org/10.1007/s10584-022-03430-y
-
-Hughes, A. M., Zajac, S., Spencer, J. M., & Salas, E. (2018). A checklist for facilitating training transfer in organizations. *International Journal of Training and Development*, *22*(4), 334--345. https://doi.org/10.1111/ijtd.12141
-
-Hurd, F., Dyer, S., & Fitzpatrick, M. (2019). "Good" things take time: A living story of research as "life". *Qualitative Research in Organizations and Management: An International Journal*, *14*(1), 27--42. https://doi.org/10.1108/QROM-03-2017-1507
-
-Hussenot, A., & Missonier, S. (2016). Encompassing Stability and Novelty in Organization Studies: An Events-based Approach. *Organization Studies*, *37*(4), 523--546. https://doi.org/10.1177/0170840615604497
-
-Ibarra, H. (2004). *Working Identity: Unconventional Strategies for Reinventing Your Career*. Harvard Business Review Press.
-
-Ibarra, H. (2015a). *Act Like a Leader, Think Like a Leader* (01 edition). Harvard Business Review Press.
-
-Ibarra, H. (2015b). *Act Like a Leader, Think Like a Leader* (01 edition). Harvard Business Review Press.
-
-Janmaat, G., McCowan, T., & Rao, N. (2016). Different stakeholders in education. *Compare: A Journal of Comparative and International Education*, *46*(2), 169--171. https://doi.org/10.1080/03057925.2016.1134956
-
-Jarvis, P. (2010). *Adult Education and Lifelong Learning: Theory and Practice* (4th ed.). Routledge.
-
-Khandelwal, P. (2024). Leadership Development Program Market---Forecast to 2033 | Global Insight Services. *Market Research Reports and Consulting -- Global Insight Services*. https://www.globalinsightservices.com/reports/leadership-development-program-market/
-
-Kinsella, E. A. (2007). Technical rationality in Schön's reflective practice: Dichotomous or non-dualistic epistemological position. *Nursing Philosophy*, *8*(2), 102--113. https://doi.org/10.1111/j.1466-769X.2007.00304.x
-
-Kirkpatrick. (2019). *10 Ways to Get Commitment from Your Training Participants*. https://www.kirkpatrickpartners.com/Blog/ID/597/10-Ways-to-Get-Commitment-from-Your-Training-Participants#.XIzsl9Hgr-Y
-
-Kleinman, S. (Ed.). (2009). *The Culture of Efficiency: Technology in Everyday Life* (1st New edition ). Peter Lang Publishing Inc.
-
-Kolb, D., & Fry, R. (1974). Toward an Applied Theory of Experiential Learning. *Theories of Group Process*.
-
-Koning, J., & Ooi, C.-S. (2013). Awkward encounters and ethnography. *Qualitative Research in Organizations and Management: An International Journal*, *8*, 16--32. https://doi.org/10.1108/17465641311327496
-
-Kotter, J. P. (1990). *Force For Change: How Leadership Differs from Management*. The Free Press.
-
-Kotter, J. P., Kim, W. C., & Mauborgne, R. A. (2011). *HBR's 10 Must Reads on Change Management*. Harvard Business Review Press.
-
-Krugman, P. (2023, August 7). Opinion | Climate Is Now a Culture War Issue. *The New York Times*. https://www.nytimes.com/2023/08/07/opinion/climate-is-now-a-culture-war-issue.html
-
-Lahlou, S. (2024). *Why People Do What They Do: And How to Get Them to Change* (1st edition). Polity.
-
-Lakoff, G., & Johnson, M. (2003). *Metaphors We Live By* (New edition edition). University of Chicago Press.
-
-Landes, D. (1983). *Revolution in Time: Clocks and the Making of the Modern World*. Harvard 
-
-University Press.
-
-Langenberg, S., & Wesseling, H. (2016). Making Sense of Weick's Organising. A Philosophical 
-
-Exploration. *Philosophy of Management*, *15*(3), 221--240. https://doi.org/10.1007/s40926-016-0040z
-
-Langley, A. (2019). Special Issue of Strategic Organization "Temporal Work: The Strategic Organization of Time". *Strategic Organization*, *17*(1), 145--149. https://doi.org/10.1177/1476127018824166
-
-Langley, A., Smallman, C., Tsoukas, H., & Van de Ven, A. H. (2013). Process Studies of Change in Organization and Management: Unveiling Temporality, Activity, and Flow. *Academy of Management Journal*, *56*(1), 1--13. https://doi.org/10.5465/amj.2013.4001
-
-Lave, J., & Wenger, E. (1991). *Situated Learning: Legitimate Peripheral Participation*. Cambridge University Press.
-
-Lawrence, P., & Whyte, A. (2014). Return on investment in executive coaching: A practical model for measuring ROI in organisations. *Coaching: An International Journal of Theory, Research and Practice*, *7*(1), 4--17. https://doi.org/10.1080/17521882.2013.811694
-
-Leroy, S. (2009). Why is it so hard to do my work? The challenge of attention residue when switching between work tasks. *Organizational Behavior and Human Decision Processes*, *109*(2), 168--181. https://doi.org/10.1016/j.obhdp.2009.04.002
-
-Leroy, S., & Glomb, T. M. (2020, June 30). A Plan for Managing (Constant) Interruptions at Work. *Harvard Business Review*. https://hbr.org/2020/06/a-plan-for-managing-constant-interruptions-at-work
-
-Levine, R. V. (2006). *A Geography of Time: The Temporal Misadventures of a Social Psychologist, or How Every Culture Keeps Time Just a Little Bit Differently* (New Ed edition). Oneworld Publications.
-
-Lewin, K. (1946). Action Research and Minority Problems. *Journal of Social Issues*, *2*(4), 34--46. https://doi.org/10.1111/j.1540-4560.1946.tb02295.x
-
-Lewin, K. (2007). *\[(Principles Of Topological Psychology)]*. Read Books.*Lexico*. (2019). Lexico Dictionaries | English. https://www.lexico.com/en/definition/practice
-
-Lord, R. G., & Hall, R. J. (2005). Identity, deep structure and the development of leadership skill. *The Leadership Quarterly*, *16*(4), 591--615. https://doi.org/10.1016/j.leaqua.2005.06.003
-
-Luscher, L., Lewis, M., & Ingram, A. (2006). The social construction of managerial change paradoxes. *Journal of Organizational Change Management*, *19*, 491--502. https://doi.org/10.1108/09534810610676680
-
-Lüscher, L. S., & Lewis, M. W. (2008). Organizational change and managerial sensemaking: Working through paradox. *Academy of Management Journal*, *51*(2), 221--240. https://doi.org/10.5465/AMJ.2008.31767217
-
-Macnamara, B. N., Hambrick, D. Z., & Moreau, D. (2016). How Important Is Deliberate Practice? Reply to Ericsson (2016). *Perspectives on Psychological Science*, *11*(3), 355--358. https://doi.org/10.1177/1745691616635614
-
-Maharaj, N. (2016). Using field notes to facilitate critical reflection. *Reflective Practice*, *17*(2), 114--124. https://doi.org/10.1080/14623943.2015.1134472
-
-Malloch, M., Cairns, Evans, & O'Connor (Eds.). (2010). *The SAGE Handbook of Workplace Learning*. SAGE Publications Ltd.
-
-Markides, C. (2007). In Search of Ambidextrous Professors. *Academy of Management Journal*, *50*(4), 762--768. https://doi.org/10.5465/AMJ.2007.26279168
-
-McCormick, M. (2024, February 14). Permian Basin deal wave heralds new phase in shale oil revolution. *Financial Times*. https://www.ft.com/content/6ab6cdba-7f56-4803-a4f7-d30fc5b322cc
-
-McIntyre, D. (2005). Bridging the gap between research and practice. *Cambridge Journal of Education*, *35*(3), 357--382. https://doi.org/10.1080/03057640500319065
-
-McLaren, P. G., & Durepos, G. (2019). A Call to Practice Context in Management and Organization Studies. *Journal of Management Inquiry*, 1056492619837596. https://doi.org/10.1177/1056492619837596
-
-McMahon, M., & Watson, M. (2013). Story telling: Crafting identities. *British Journal of Guidance & Counselling*, *41*(3), 277--286. https://doi.org/10.1080/03069885.2013.789824
-
-McMullan, T. (2015, July 23). What does the panopticon mean in the age of digital surveillance? *The Guardian*. https://www.theguardian.com/technology/2015/jul/23/panopticon-digital-surveillance-jeremy-bentham
-
-Mendenhall, M. E., Reiche, B. S., Bird, A., & Osland, J. S. (2012). Defining the "global" in global leadership. *Journal of World Business*, *47*(4), 493--503.
-
-Meuse, K. P. D., Dai, G., & Lee, R. J. (2009). Evaluating the effectiveness of executive coaching: Beyond ROI? *Coaching: An International Journal of Theory, Research and Practice*, *2*(2), 117--134. https://doi.org/10.1080/17521880902882413
-
-Meyer, J., Land, R., & Baillie, C. (2010). *Threshold concepts and transformational learning*.
-
-Meyer, & Land. (2005). Threshold concepts and troublesome knowledge (2): Epistemological considerations and a conceptual framework for teaching and learning. *Higher Education*, *49*(3), 373--388. https://doi.org/10.1007/s10734-004-6779-5
-
-Mezirow, J. (2009). *Fostering Critical Reflection in Adulthood: A Guide to Transformative and Emancipatory Learning* (1 edition). Jossey-Bass.
-
-Miko, K. (2011). Review: Jürgen Raab (2008). Visuelle Wissenssoziologie. Theoretische Konzeption und materiale Analysen \[Visual Sociology of Knowledge: Theoretical Concepts and Analyses]. *Forum Qualitative Sozialforschung / Forum: Qualitative Social Research*, *12*(1). https://doi.org/10.17169/fqs-12.1.1591
-
-Millard, R. (2023, December 20). Ørsted to press ahead with world's largest offshore wind farm in North Sea. *Financial Times*. https://www.ft.com/content/4d3cc6d4-f479-4607-9574-63e320af80ff
-
-Milman, O. (2024, June 10). Trump vows to 'drill, baby, drill' despite rally attendees wilting in extreme heat. *The Guardian*. https://www.theguardian.com/us-news/article/2024/jun/10/trump-rallies-extreme-heat
-
-Mintzberg, H. (1980). *The Nature of Managerial Work* (New edition edition). Prentice Hall.
-
-Mintzberg, H. (2008). *Mintzberg on Management*. Simon and Schuster.
-
-Mohr, L. B. (1992). *Explaining Organizational Behavior*. University Microfilms.
-
-Moran, C. (2015). Time as a social practice. *Time & Society*, *24*(3), 283--303. https://doi.org/10.1177/0961463X13478051
-
-Morgan, G. (1997). *Images of Organization* (2nd Revised edition). Sage Publications, Inc.
-
-Morley, I. E., & Hosking, D. M. (2003). *Leadership, Learning and Negotiation in A Social Psychology of Organizing*. https://doi.org/10.4135/9781446216811.n4
-
-Murray, S. (2019, June 3). *How can we measure the impact of executive education?* Financial Times. https://www.ft.com/content/3c9b985a-76f6-11e9-b0ec-7dff87b9a4a2
-
-Murre, J. M. J., & Dros, J. (2015). Replication and Analysis of Ebbinghaus' Forgetting Curve. *PLOS ONE*, *10*(7), e0120644. https://doi.org/10.1371/journal.pone.0120644
-
-Myers, I. B., & Myers, P. B. (1995). *Gifts Differing: Understanding Personality Type* (New ed of 2 Revised ed edition). Davies-Black Publishing.
-
-Nafukho, F., Alfred, M., Chakraborty, M., Johnson, M., & Cherrstrom, C. (2017). Predicting workplace transfer of learning: A study of adult learners enrolled in a continuing professional education training program. *European Journal of Training and Development*, *41*, 00--00. https://doi.org/10.1108/EJTD-10-2016-0079
-
-Newell, S., Robertson, M., Scarbrough, H., & Swan, J. (2002). *Managing Knowledge Work*. Palgrave Macmillan.
-
-Newport, C. (2016). *Deep Work: Rules for Focused Success in a Distracted World*. Piatkus.
-
-Norwich, B. (2020). Thinking about the nature of educational research: Going beyond superficial theoretical scripts. *Review of Education*, *8*(1), 242--262. https://doi.org/10.1002/rev3.3182
-
-Ojala, S., & Pyöriä, P. (2018). Mobile knowledge workers and traditional mobile workers: Assessing the prevalence of multi-locational work in Europe. *Acta Sociologica*, *61*(4), 402--418. https://doi.org/10.1177/0001699317722593
-
-Ortiz de Guinea, & Webster. (2014). Overcoming Variance and Process Distinctions Information Systems Research. *ICIS 2014 Proceedings*. https://aisel.aisnet.org/icis2014/proceedings/ResearchMethods/4
-
-Oswick, C., Keenoy, T., & Grant, D. (2002). Metaphor and Analogical Reasoning in Organization Theory: Beyond Orthodoxy. *The Academy of Management Review*, *27*(2), 294. https://doi.org/10.2307/4134356
-
-Park, G., Schwartz, H. A., Sap, M., Kern, M. L., Weingarten, E., Eichstaedt, J. C., Berger, J., Stillwell, D. J., Kosinski, M., Ungar, L. H., & Seligman, M. E. P. (2016). Living in the Past, Present, and Future: Measuring Temporal Orientation With Language. *Journal of Personality*. https://doi.org/10.1111/jopy.12239
-
-Pauwels, L. (2005). *Visual Cultures of Science: Rethinking Representational Practices in Knowledge Building and Science Communication*. Dartmouth College Press.
-
-Perlow, L. A., Hadley, C. N., & Eun, E. (2017, July 1). Stop the Meeting Madness. *Harvard Business Review*, *July--August 2017*. https://hbr.org/2017/07/stop-the-meeting-madness
-
-Peticca-Harris, A., deGama, N., & Elias, S. R. S. T. A. (2016). A Dynamic Process Model for Finding Informants and Gaining Access in Qualitative Research: *Organizational Research Methods*. https://doi.org/10.1177/1094428116629218
-
-Pettigrew, A. M. (1990). Longitudinal Field Research on Change: Theory and Practice. *Organization Science*, *1*(3), 267--292. JSTOR.
-
-Phillips, J. J. (2012). *Handbook of Training Evaluation and Measurement Methods*. Routledge. https://doi.org/10.4324/9780080572659
-
-Ployhart, R. E., Holtz, B. C., & Bliese, P. D. (2002). Longitudinal data analysis applications of random coefficient modeling to leadership research. *The Leadership Quarterly*, *13*(4), 455--486. https://doi.org/10.1016/S1048-9843(02)00122-4
-
-Polkinghorne, D. E. (1988). *Narrative Knowing and the Human Sciences*. State University of New York Press.
-
-Porter, M. E., & Nohria, N. (2018). *How CEOs Manage Time*. https://www.hbs.edu/faculty/Pages/item.aspx?num=54691
-
-Posner, P. L. (2009). The Pracademic: An Agenda for Re-Engaging Practitioners and Academics. *Public Budgeting & Finance*, *29*(1), 12--26. https://doi.org/10.1111/j.1540-5850.2009.00921.x
-
-Puranik, H., Koopman, J., & Vough, H. C. (2020). Pardon the Interruption: An Integrative Review and Future Research Agenda for Research on Work Interruptions. *Journal of Management*, *46*(6), 806--842. https://doi.org/10.1177/0149206319887428
-
-Quiñones, M. A. (1995). Pretraining context effects: Training assignment as feedback. *Journal of Applied Psychology*, *80*(2), 226--238. https://doi.org/10.1037/0021-9010.80.2.226
-
-Ragin, C. C. (2008). *Redesigning Social Inquiry: Fuzzy Sets and Beyond*. University of Chicago Press.
-
-Ree, J. (1998). *Kierkegaard: A Critical Reader*. John Wiley & Sons.
-
-Rescher, N. (1996). *Process Metaphysics: An Introduction to Process Philosophy*. SUNY Press.
-
-Research and Markets. (2024). *Global Corporate Training Market by Product (Brand Training, Compliance Training, Safety Training), Type (Blended, Instructor Led, Online), End-User---Forecast 2024-2030*.
-
-Reynolds, C., & Erikson, E. (2017). Agency, Identity, and the Emergence of Ritual Experience: *Socius*. https://doi.org/10.1177/2378023117710881
-
-Ricks, J. I., & Liu, A. H. (2018). Process-Tracing Research Designs: A Practical Guide. *PS: Political Science & Politics*, *51*(4), 842--846. https://doi.org/10.1017/S1049096518000975
-
-Rock, D., & Cassiday, L. (2024). *Leadership development is broken. This is how to fix it*. https://www.fastcompany.com/91149719/leadership-development-is-broken-heres-how-to-fix-it?utm_source=newsletters&utm_medium=email&utm_campaign=FC%20-%20Compass%20Newsletter.Newsletter%20-%20FC%20-%20Compass%207-11-24&leadId=513527&mkt_tok=NjEwLUxFRS04NzIAAAGUQFLHG6DD9QqJg_qJ2PZ6fxbAPPwBSe9u-_t8snF9gEtRwrlBTz7hJJOqUHpWEbAD9KWUDT-oVDAsIVTZiveyk62UVGYKMygKW9NjTRoQuQ
-
-Roethlisberger, F. J., & Lombard, G. F. F. (1977). *The elusive phenomena: An autobiographical account of my work in the field of organizational behavior at the Harvard Business School*. Division of Research, Graduate School of Business Administration, Harvard University ; Distributed by Harvard University Press.
-
-Rogers, B. M. (2020). *The mountaintop and the swamp;* the role of time in the practising of change commitments after a customised executive education programme. Unpublished EdD Thesis. University of Cambridge. 
-
-Rosengren, C. (2015). Performing work: The drama of everyday working life. *Time & Society*. https://doi.org/10.1177/0961463X15620983
-
-Rynes, S. (2007). Editor's foreword: Tackling the 'great divide' between research production and dissemination in human resource management. *Academy of Management Journal*, *50*(5), 985--986. https://doi.org/10.5465/AMJ.2007.27151929
-
-Saks, A., & Burke-Smalley, L. (2012). An investigation into the relationship between training evaluation and the transfer of training. *International Journal of Training and Development*, *16*. https://doi.org/10.1111/j.1468-2419.2011.00397.x
-
-Sandberg, J., & Tsoukas, H. (2011). Grasping the Logic of Practice: Theorizing Through Practical Rationality. *Academy of Management Review*, *36*(2), 338--360.  https://doi.org/10.5465/amr.2009.0183
-
-Schon, D. (1984). *The Reflective Practitioner: How Professionals Think In Action* (1 edition). Basic Books.
-
-Schon, D. A. (1990). *Educating the Reflective Practitioner: Toward a New Design for Teaching and Learning in the Professions* (1 edition). Jossey-Bass.
-
-Scott, C. W., Shanock, L. R., & Rogelberg, S. G. (2012). Meetings at Work: Advancing the Theory and Practice of Meetings. *Small Group Research*, *43*(2), 127--129. https://doi.org/10.1177/1046496411429023
-
-Seibt, J. (2020). Process Philosophy. In E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy* (Summer 2020). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/sum2020/entries/process-philosophy/
-
-Shapiro, D. L., Kirkman, B. L., & Courtney, H. G. (2007). Perceived Causes and Solutions of the Translation Problem in Management Research. *Academy of Management Journal*, *50*(2), 249--266. https://doi.org/10.5465/AMJ.2007.24634433
-
-Sharma, S. (2014). *In the Meantime: Temporality and Cultural Politics*. Duke University Press.
-
-Shearn, A. (2016, March 22). *Traduttore, Traditore: Is Translation Ever Really Possible?* JSTOR Daily. https://daily.jstor.org/lost-in-translation-the-new-crop-of-translator-novels/
-
-Shellenberger, M. (2022, October 1). *Biden's 'woke' green energy makes us dependent on China*. https://nypost.com/2022/10/01/bidens-woke-green-energy-makes-us-dependent-on-china/
-
-Shinall, J. S. (2012). *The ADDIE Model: A First Look* (1 edition). Edgycation Media.
-
-Shipp, A. J., & Jansen, K. J. (2021). The "Other" Time: A Review of the Subjective Experience of Time in Organizations. *Academy of Management Annals*, *15*(1), 299--334. https://doi.org/10.5465/annals.2018.0142
-
-Shotter, J. (2012). Gergen, Confluence, and his Turbulent, Relational Ontology: The Constitution of Our Forms of Life within Ceaseless, Unrepeatable, Intermingling Movements. *Psychological Studies*, *57*(2), 134--141. https://doi.org/10.1007/s12646-011-0127-5
-
-Shotter, & Tsoukas. (2011). Complex Thought, Simple Talk: An Ecological Approach to Language-Based Change in Organizations. In *The Sage Handbook of Complexity and Management* (pp. 333--348). SAGE Publications Ltd. https://doi.org/10.4135/9781446201084.n20
-
-Sitzmann, T., Brown, K. G., Casper, W. J., Ely, K., & Zimmerman, R. D. (2008). A review and meta-analysis of the nomological network of trainee reactions. *The Journal of Applied Psychology*, *93*(2), 280--295. https://doi.org/10.1037/0021-9010.93.2.280
-
-Sitzmann, T., & Weinhardt, J. M. (2018). Training Engagement Theory: A Multilevel Perspective on the Effectiveness of Work-Related Training. *Journal of Management*, *44*(2), 732--756. https://doi.org/10.1177/0149206315574596
-
-Sleek, J. D. and S. (2018). The Fluidity of Time: Scientists Uncover How Emotions Alter Time Perception. *APS Observer*, *31*(8). https://www.psychologicalscience.org/observer/the-fluidity-of-time
-
-Smith, A., & Stewart, B. (2011). Organizational Rituals: Features, Functions and Mechanisms. *International Journal of Management Reviews*, *13*, 113--133. https://doi.org/10.1111/j.1468-2370.2010.00288.x
-
-Smith, G. (2024, November 6). Trump Sequel Poised to Shake Up Global Energy Markets. *Bloomberg.Com*. https://www.bloomberg.com/news/newsletters/2024-11-06/trump-s-white-house-sequel-set-to-shake-up-global-energy-markets
-
-Stieglitz, S., Lattemann, C., & Brockmann, T. (2015). *Mobile Applications for Knowledge Workers and Field Workers* \[Research article]. Mobile Information Systems. https://doi.org/10.1155/2015/372315
-
-Stix, G. (2002). REAL TIME. (cover story). *Scientific American*, *287*(3), 36.
-
-Stokes, D. E. (1997). *Pasteurs Quadrant: Basic Science and Technological Innovation*. Brookings Institution Press.
-
-Sullivan, S. E., & Al Ariss, A. (2019). Making sense of different perspectives on career transitions: A review and agenda for future research. *Human Resource Management Review*, 100727. https://doi.org/10.1016/j.hrmr.2019.100727
-
-Sutcliffe, K. M., & Wintermute, T. P. (2016). Gladwell as Sensegiver. *Journal of Management Inquiry*. https://doi.org/10.1177/1056492606294865
-
-Sweney, M. (2024, February 19). World's largest oil companies have made $281bn profit since invasion of Ukraine. *The Guardian*. https://www.theguardian.com/business/2024/feb/19/worlds-largest-oil-companies-have-made-281bn-profit-since-invasion-of-ukraine
-
-Syed, M. (2011). *Bounce: The Myth of Talent and the Power of Practice*. Fourth Estate.
-
-Teddlie, C. B., & Tashakkori, A. M. (2008). *Foundations of Mixed Methods Research: Integrating Quantitative and Qualitative Approaches in the Social and Behavioral Sciences*. SAGE Publications, Inc.
-
-Termeer, C. J. A. M., & Dewulf, A. (2019). A small wins framework to overcome the evaluation paradox of governing wicked problems. *Policy and Society*, *38*(2), 298--314. https://doi.org/10.1080/14494035.2018.1497933
-
-Thompson, J. A. (2014). ON WRITING NOTES IN THE FIELD: INTERROGATING POSITIONALITY, EMOTION, PARTICIPATION AND ETHICS. *McGill Journal of Education / \*\*Revue Des Sciences de l'éducation de McGill*, *49*(1), Article 1. https://mje.mcgill.ca/article/view/9119
-
-Thorndike, E. L. (1912). *Education, a First Book*. Macmillan.
-
-Tickle, E. L., Brownlee, J., & Nailon, D. (2013). Personal epistemological beliefs and transformational leadership behaviours. *Journal of Management Development*. https://doi.org/10.1108/02621710510613735
-
-Tsoukas, H., & Chia, R. (2002). On Organizational Becoming: Rethinking Organizational Change. *Organization Science*, *13*(5), 567--582. https://doi.org/10.1287/orsc.13.5.567.7810
-
-Tushman, M. L., & O'Reilly III, C. (2007). Research and Relevance: Implications of Pasteur's Quadrant for Doctoral Programs and Faculty Development. *Academy of Management Journal*, *50*(4), 769--774. https://doi.org/10.5465/AMJ.2007.26279169
-
-Udwadia, F. E. (1986). Management situations and the engineering mindset. *Technological Forecasting and Social Change*, *29*(4), 387--397. https://doi.org/10.1016/0040-1625(86)90024-7
-
-Vaill, P. B. (2007). F. J. Roethlisberger and the Elusive Phenomena of Organizational Behavior. *Journal of Management Education*, *31*(3), 321--338. https://doi.org/10.1177/1052562906298444
-
-Van De Ven, A. H., & Johnson, P. E. (2006). Knowledge for Theory and Practice. *Academy of Management Review*, *31*(4), 802--821. https://doi.org/10.5465/AMR.2006.22527385
-
-Vandergoot, S., Sarris, A., & Kirby, N. (2019). Factors that Influence the Transfer Generalization and Maintenance of Managerial-Leadership Skills: A Retrospective Study. *Performance Improvement Quarterly*, *32*(3), 237--263. https://doi.org/10.1002/piq.21297
-
-Ven, A. H. V. de. (2007). *Engaged Scholarship: A Guide for Organizational and Social Research* (First Edition edition). Oxford University Press, USA.
-
-Vermeulen, F. (2007). 'i Shall Not Remain Insignificant': Adding a Second Loop to Matter More. *Academy of Management Journal*, *50*(4), 754--761. https://doi.org/10.5465/AMJ.2007.26279167
-
-Vickers, D. A. (2019). At-home ethnography: A method for practitioners. *Qualitative Research in Organizations and Management: An International Journal*, *14*(1), 10--26. 
-
-https://doi.org/10.1108/QROM-02-2017-1492
-
-Vidal, N., Smith, R., & Spetic, W. (2015). Designing and Teaching Business & Society Courses From a Threshold Concept Approach. *Journal of Management Education; Thousand Oaks*, *39*(4), 497.
-
-Vroom, V. H. (2007). On the Synergy between Research and Teaching. *Journal of Management Education*, *31*(3), 365--375. https://doi.org/10.1177/1052562906299170
-
-Wajcman, J. (2015). *Pressed for Time: The Acceleration of Life in Digital Capitalism*. University of Chicago Press.
-
-Wajcman, J. (2018). Digital technology, work extension and the acceleration society. *German Journal of Human Resource Management: Zeitschrift Für Personalforschung*, *32*(3--4), 168--176. https://doi.org/10.1177/2397002218775930
-
-Wajcman, J., & Rose, E. (2011). Constant Connectivity: Rethinking Interruptions at Work. *Organization Studies*, *32*(7), 941--961. https://doi.org/10.1177/0170840611410829
-
-Wanka, A., & Prescher, J. (2022). "Everything But Ordinary"? Reflections on Extra-/Ordinariness in Life Course Transitions. In B. Stauber, A. Walther, & Jr. Settersten Richard A. (Eds.), *Doing Transitions in the Life Course: Processes and Practices* (pp. 155--168). Springer International Publishing. https://doi.org/10.1007/978-3-031-13512-5_10
-
-Watson, J. B. (1930). *Behaviorism*. University of Chicago Press.
-
-Watson, T. (1995). *Sociology, Work and Industry* (3rd ed.). Routledge.
-
-Wefald, A. J., & Downey, R. G. (2009). Job engagement in organizations: Fad, fashion, or folderol? *Journal of Organizational Behavior*, *30*(1), 141--145. https://doi.org/10.1002/job.560
-
-Weick, K. E. (2005). *Theory and Practice in the Real World*. http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199275250.001.0001/oxfordhb-9780199275250-e-17
-
-Weiss, H. M., & Rupp, D. E. (2011). Experiencing Work: An Essay on a Person-Centric Work Psychology. *Industrial and Organizational Psychology*, *4*(1), 83--97. https://doi.org/10.1111/j.1754-9434.2010.01302.x
-
-Wenger, E. (1999). *Communities of Practice: Learning, Meaning, and Identity* (New Ed). Cambridge University Press.
-
-West-Pavlov, R. (2012). *Temporalities*. Routledge.
-
-Whitehead, A. N. (1979). *Process and Reality* (2Rev Ed edition). Macmillan USA.
-
-Whitehouse, M. (2023). Intervention: Coaching, Training, and Organisational Development. In M. 
-
-Whitehouse (Ed.), *Transdisciplinarity in Financial Communication: Writing for Target Readers* (pp. 163--203). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-29115-9_9
-
-Whitepaper, A., & Macaux, W. (2010). *Making the Most of Stretch Assignments*. *64*.
-
-Winner, L., & Mumford, L. (2010). *Technics and Civilization* (Reprint edition). University of Chicago Press.
-
-Winograd, T., & Flores, C. F. (1986). *Understanding Computers and Cognition: A New Foundation for Design*. Intellect Books.
-
-Wright, K. (2002). Times of Our Lives. *Scientific American*, *287*(3), 58.
 
 ## **Appendix** 
 
@@ -1157,7 +598,7 @@ In the first period, my thoughts around the use of a tool focused mostly on mobi
 
 **Figure 1.1: Early research plan showing the development stages of an App** 
 
-![](/static/figure1.1.png)
+![](/figure1.1.png)
 
 One of the key sounding-boards at this time was Professor Alan Blackwell at the University of Cambridge Computer Lab; Alan has a speciality and expertise in visualisation. In our first meeting, I needed to introduce my topic to him in an understandable fashion; to do this, I used Dali's 'melting clocks' to capture the visual and conceptual potential of 'time'.
 
@@ -1167,21 +608,21 @@ Period 2 set the foundations for a visualisation approach to tool design, includ
 
 **Figure 2.1: Storyboard for temporal 'connections' and 'interruptions'**
 
-![](/static/figure2.1.png)
+![](/figure2.1.png)
 
 **Figure 2.2: Storyboard for temporal 'control' (e.g. blocked off time in the calendar)**
 
-![](/static/figure2.2.png)
+![](/figure2.2.png)
 
 Figures 2.3 and 2.4 represent examples of the transition in the Pattern Language profile between Period 1 and Period 2. This displays the evolution of focus as the representation matures (e.g. towards increasing emphasis on the shared social activities of story-telling, persuasion and discussion).
 
 **Figure 2.3: Classification of 'Pattern Language' in Period 1**
 
-![](/static/figure2.3.png)
+![](/figure2.3.png)
 
 **Figure 2.4: Transition to classification of pattern language in Period 2**
 
-![](/static/figure2.4.png)
+![](/figure2.4.png)
 
 ### **Period 3: 'Credibility' (August 2016 - March 2017)**
 
@@ -1189,19 +630,19 @@ Period 3 sought to reproduce the storyboards in a professional format. This was 
 
 **Figure 3.1: Tool presentation: linear time**
 
-![](/static/figure3.1.png)
+![](/figure3.1.png)
 
 **Figure 3.2: Tool presentation: linear time represented by the e-diary**
 
-![](/static/figure3.2.png)
+![](/figure3.2.png)
 
 **Figure 3.3: Tool presentation: role of back-to-back meetings**  
 
-![](/static/figure3.3.png)
+![](/figure3.3.png)
 
 **Figure 3.4:  Tool presentation: time as interruptions** 
 
-![](/static/figure3.4.png)
+![](/figure3.4.png)
 
 ### **Period 4: '**Construction' (April 2017- December 2017)
 
@@ -1209,25 +650,25 @@ The fourth period saw the first attempt at drawing up detailed plans for an inte
 
 **Figure 4.1: Image of e-diary provided by a respondent at Forum (redacted)**
 
-![](/static/figure4.1.png)
+![](/figure4.1.png)
 
 Over a period of seven months, I produced multiple hand-drawn visuals (and design briefs) to guide the coding of the tool**.** A selection of these visuals is included below (Figures 4.2. - 4.5). 
 
 **Figure 4.2: Hand-drawn visual - time use**
 
-![](/static/figure4.2.png)
+![](/figure4.2.png)
 
 **Figure 4.3: Hand-drawn visual - nature of interruptions**  
 
-![](/static/figure4.3.png)
+![](/figure4.3.png)
 
 **Figure 4.4: Hand drawn visual - temporal orientation**
 
-![](/static/figure4.4.png)
+![](/figure4.4.png)
 
 **Figure 4.5: Hand drawn visual - temporal orientation (cont.)**
 
-![](/static/figure4.5.png)
+![](/figure4.5.png)
 
 ### **Period 5: 'Operational simplicity' (January 2018 - August 2018)**
 
@@ -1237,35 +678,35 @@ The importance of visual impact became evident during this period. It was clear 
 
 **Figure 5.1: % of weekly meetings with contingent meetings (striped)**
 
-![](/static/figure5.1.png)
+![](/figure5.1.png)
 
 **Figure 5.2: Number of e-mails received in a day**
 
-![](/static/figure5.2.png)
+![](/figure5.2.png)
 
 **Figure 5.3: Number of e-mails sent in a day**
 
-![](/static/figure5.3.png)
+![](/figure5.3.png)
 
 **Figure 5.4: Number of interruptions in a day**
 
-![](/static/figure5.4.png)
+![](/figure5.4.png)
 
 **Figure 5.5: Start and end of the working day**
 
-![](/static/figure5.5.png)
+![](/figure5.5.png)
 
 **Figure 5.6: Combination of dimensions**   
 
-![](/static/figure5.6.png)
+![](/figure5.6.png)
 
 **Figure 5.7: Pattern language characteristics during period 4**  
 
-![](/static/figure5.7.png)
+![](/figure5.7.png)
 
 **Figure 5.8: Transition to Pattern Language characteristics in Period 5** 
 
-![](/static/figure5.8.png)
+![](/figure5.8.png)
 
 ### **Period 6: '**Use' (September 2018 - March 2019)
 
