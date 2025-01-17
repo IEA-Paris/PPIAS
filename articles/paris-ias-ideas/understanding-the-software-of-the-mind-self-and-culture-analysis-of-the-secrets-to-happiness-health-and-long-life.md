@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "Understanding the software of the mind, self, and culture:
   Analysis of the secrets to happiness, health, and long life"
 date: 2024-12-01T08:14:00.000Z
@@ -12,15 +12,6 @@ authors:
     positions_and_institutions:
       - institution: College of Business Administration, Inha University, Korea
         positions: []
-      - institution: To communicate to a transdisciplinary audience, I have used a
-          conversation style reducing the technical terminology and excessive
-          referencing. To aid in understanding of the phenomenology and context,
-          I have used figures, diagrams, paintings, and photos. These photos,
-          paintings, and diagrams have been accessed from the public domain
-          (e.g., wikipedia.org) and old photos and paintings that are not
-          copyrighted). Parts of this are based on Kim and Kim (1995, 1999,
-          2001; Kim & Kim; 2022, 2023) articles.
-        positions: []
     social_channels:
       website: ""
       wikipedia: ""
@@ -31,7 +22,7 @@ authors:
       researchgate: ""
       mendeley: ""
 abstract: "This article examines the software of the mind, self, and culture
-  that can explain the secrets to happiness, health, and long life.[^1]  First,
+  that can explain the secrets to happiness, health, and long life. First,
   this article outlines the assumption of objectivity in science, and the
   importance of understanding the subjective and creative aspects of science.
   Second, Albert Bandura’s Social Cognitive Theory is introduced, providing the
@@ -52,9 +43,12 @@ abstract: "This article examines the software of the mind, self, and culture
   revolution for the Gen Zs are reviewed."
 issue: content/issues/paris-ias-ideas.md
 highlight: false
-bibliography: /static/references_kim.bib
+bibliography: /references_kim.bib
 language: English
 ---
+
+>To communicate to a transdisciplinary audience, I have used a conversation style reducing the technical terminology and excessive referencing. To aid in understanding of the phenomenology and context, I have used figures, diagrams, paintings, and photos. These photos, paintings, and diagrams have been accessed from the public domain (e.g., wikipedia.org) and old photos and paintings that are not copyrighted). Parts of this are based on Kim and Kim (1995, 1999, 2001; Kim & Kim; 2022, 2023) articles.
+
 ## **Acknowledgements**
 
 This paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program. 
@@ -83,7 +77,7 @@ Although science does not progress in a series of objective and mechanical fashi
 
 Burke (1985) documents the seminal discoveries in science that have been made in irrational and dream-like states. He notes that these discoveries do not proceed in a purely rational and mechanical fashion. He provides the following examples. Einstein revolutionized the fundamental understanding of matter when he saw himself "riding on a beam of light" in his dream and concluded that "if he were to do so, light would appear to be static" (p. 303) and proposed the convertibility of energy and mass as *E*=*mc*^2. August Kekulé discovered the stable structure of the benzene ring when he was "gazing into the fire and seeing in the flames a ring of atoms like a serpent eating its own tail" (p. 303). Newton is said to have realized the Law of Gravitational Attraction seeing an apple fall to the ground. Archimedes leaped out of his bathtub yelling *eureka* when he realized the meaning of buoyancy and displacement. Johannes Gutenberg described the idea of the printing as "coming like a ray of light" (p. 303). Alfred Wallace realized the theory of evolution in a "delirium." He  notes that these "act of mystical significance in which a man uncovers yet another secret of nature is at the very heart of science" (p. 303). 
 
-It is important to understand the phenomenology behind the assumptions, concepts, and theory to obtain a full picture of how knowledge is created, shaped, and advanced in science, philosophy, and society. In the field of IT, Steve Jobs points out in 2005: "You can't connect the dots looking forward; you can only connect them looking backward. So, you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life"[^2]. This is the basis of creativity and the software of the mind, self, and culture.
+It is important to understand the phenomenology behind the assumptions, concepts, and theory to obtain a full picture of how knowledge is created, shaped, and advanced in science, philosophy, and society. In the field of IT, Steve Jobs points out in 2005: "You can't connect the dots looking forward; you can only connect them looking backward. So, you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life"[^1]. This is the basis of creativity and the software of the mind, self, and culture.
 
 ### **Scientific method**
 
@@ -93,9 +87,9 @@ Boulding (1980) points out that there is a popular conception of the existence 
 
 Scientific advancements are made when new ideas are entertained, and the basic assumption of an established theory is questioned. Newton proposed the Corpuscular Theory of Light in which the light is made of particles that travel in a straight line at a finite speed. However, his theory was refuted when light showed wave properties, and it is now accepted as a wavelength of electromagnetic radiation that allows human eyes to see. A longer wavelength of electromagnetic radiation allows human ears to hear. Albert Einstein was able to explain the property of light through the Theory of Relativity *E*=*mc*^2, showing that mass and energy are convertible. He provided a comprehensive mechanical understanding of the universe. Einstein was, however, skeptical of Heisenberg's Uncertainty Principle which states that we cannot measure the exact position and speed of an object simultaneously.
 
-Einstein developed his view of the static eternal universe and rejected the probabilistic assumptions and uncertainties of the Quantum Theory by stating that "God shall not play dice with the world." The second assumption is that no mass can travel faster than the speed of light. He stated that mass grows with speed and becomes infinitely large at the speed of light. Only light, or an entity with no mass, could travel at the speed of light. In 1917, he outlined the static eternal universe and updated it in 1919, viewing the universe as a static, spherical, perfectly symmetric cosmos, with matter homogeneously distributed everywhere[^3].
+Einstein developed his view of the static eternal universe and rejected the probabilistic assumptions and uncertainties of the Quantum Theory by stating that "God shall not play dice with the world." The second assumption is that no mass can travel faster than the speed of light. He stated that mass grows with speed and becomes infinitely large at the speed of light. Only light, or an entity with no mass, could travel at the speed of light. In 1917, he outlined the static eternal universe and updated it in 1919, viewing the universe as a static, spherical, perfectly symmetric cosmos, with matter homogeneously distributed everywhere[^2].
 
-With a series of experiments at the Large Hadron Collider at CERN, Switzerland, researchers discovered in 2012 a subatomic particle with the properties proposed by Peter Higgs - it was named as the Higgs-boson particle. Stephen Hawking comments that "not only does God play dice but... he sometimes throws them where they cannot be seen."[^4] Results from Quantum physics questions "the doctrine that the world is made up of objects whose existence is independent of human consciousness turns out to be in conflict with quantum mechanics and with facts established by experiment" (d'Espagnat, 1979). These results indicate the importance of raising questions, looking at the data with a fresh perspective, and questioning the basic assumption of established theories (Burke, 1985; Holten, 1988). Science progresses by giving us the best approximation of reality at the present but leaves the possibility that human creativity can provide a more accurate knowledge in the future. We cannot know with absolute certainty the nature of the object since it involves human perception and analysis to understand the object. We can only observe and infer causality between two correlated events in space and time.
+With a series of experiments at the Large Hadron Collider at CERN, Switzerland, researchers discovered in 2012 a subatomic particle with the properties proposed by Peter Higgs - it was named as the Higgs-boson particle. Stephen Hawking comments that "not only does God play dice but... he sometimes throws them where they cannot be seen."[^3] Results from Quantum physics questions "the doctrine that the world is made up of objects whose existence is independent of human consciousness turns out to be in conflict with quantum mechanics and with facts established by experiment" (d'Espagnat, 1979). These results indicate the importance of raising questions, looking at the data with a fresh perspective, and questioning the basic assumption of established theories (Burke, 1985; Holten, 1988). Science progresses by giving us the best approximation of reality at the present but leaves the possibility that human creativity can provide a more accurate knowledge in the future. We cannot know with absolute certainty the nature of the object since it involves human perception and analysis to understand the object. We can only observe and infer causality between two correlated events in space and time.
 
 In the field of chemistry, Antoine Lavoisier (1743 - 1794) transformed chemistry from a qualitative to a quantitative science. His first step was to dismiss the assumptions behind the phlogiston theory. He introduced oxygen and hydrogen as the basic elements in the combustion process. He developed measurement devices and used thermometric to measure temperature, barometric to measure pressure, and calorimeter for measuring heat changes in a reaction. He helped to construct the metric system and organized the list of chemical elements in the Periodic Table.
 
@@ -117,7 +111,7 @@ In Figure 1, what do you see. (See Figure 1)? Do you see two men in white facing
 
 **Figure 1: Black vase or two me in white?**
 
-![](/static/figure1.png)
+![](/figure1.png)
 
 The basic problem with our perception is that we perceive reality without being aware of our assumptions. We use our mind to perceive reality, and we are not aware how we do it - the same way that we are not aware of our eyes when we use them to see. 
 
@@ -125,11 +119,11 @@ In Figure 2, there is one orange circle in the center, surrounded by six larger 
 
 **Figure 2: Which orange circle is larger?**
 
-![](/static/figure2.png)
+![](/figure2.png)
 
 **Figure 3: Which orange circle is larger?**
 
-![](/static/figure3.png)
+![](/figure3.png)
 
 Now, go back to Figure 2 and decide which orange circle looks bigger to you: One on the right or the one on the left? People will still see that the right one looks bigger even though they know they are the same. You now have a dilemma since what you know to be correct is different from what you see. What will you trust? What you know, or what you see? Since the orange circle on the left is surrounded by six bigger circles, it appears smaller. The orange circle on the right, which is surrounded by six smaller circles, appears bigger. Our perception is influenced by context and when the context is removed, we see the same thing. 
 
@@ -139,21 +133,21 @@ In Figure 4, what do you see? (See Figure 4). Do you see three circles and a tra
 
 **Figure 4: Three ovals and a trapezoid**
 
-![](/static/figure4.png)
+![](/figure4.png)
 
-A famous poet Gertrude Stein stated poetically that "a rose is a rose, is a rose, is a rose.[^5] Is she correct? When we see a rose, does the image of the rose go to our eyes and then to our brain? The answer is no. When the image of the rose is projected in our retina, it is inverted. The 3-dimensional rose is projected onto a 2-dimensional retina. It is not an image of the rose that goes to the brain, but the sensory stimulations in the retina that are converted into electric signals, and they are reconstructed as a "rose" in our brain. When you hear the word "rose," the sound waves create vibrations in the stirrup bone and cochlea in the ear, electrical signals are sent to the brain, and it is perceived as the word "rose." When you smell a rose, the odor molecule travels through your nasal passage, the receptor cells in the olfactory membrane send the electrical signals to the brain, and it is perceived as a "rose." Thus, a rose is *not* a rose, is *not* a rose, is *not* a rose, since the sensation of a rose is converted to electrical signals, and they are reconstructed as an image, sound, or smell of a "rose" in our brain. The physical rose that exists in nature is qualitatively different from our perception and reconstruction of the rose. We cannot know the objective reality without our perception since perception involves reconstruction in our brain and mind. Through consensus, we agree that we are seeing, hearing, and smelling is a rose. Thus, objectivity rests on human, perception, consensus and agreement.
+A famous poet Gertrude Stein stated poetically that "a rose is a rose, is a rose, is a rose.[^4] Is she correct? When we see a rose, does the image of the rose go to our eyes and then to our brain? The answer is no. When the image of the rose is projected in our retina, it is inverted. The 3-dimensional rose is projected onto a 2-dimensional retina. It is not an image of the rose that goes to the brain, but the sensory stimulations in the retina that are converted into electric signals, and they are reconstructed as a "rose" in our brain. When you hear the word "rose," the sound waves create vibrations in the stirrup bone and cochlea in the ear, electrical signals are sent to the brain, and it is perceived as the word "rose." When you smell a rose, the odor molecule travels through your nasal passage, the receptor cells in the olfactory membrane send the electrical signals to the brain, and it is perceived as a "rose." Thus, a rose is *not* a rose, is *not* a rose, is *not* a rose, since the sensation of a rose is converted to electrical signals, and they are reconstructed as an image, sound, or smell of a "rose" in our brain. The physical rose that exists in nature is qualitatively different from our perception and reconstruction of the rose. We cannot know the objective reality without our perception since perception involves reconstruction in our brain and mind. Through consensus, we agree that we are seeing, hearing, and smelling is a rose. Thus, objectivity rests on human, perception, consensus and agreement.
 
 Figure 5 is an example of the Stroop effect in which the *written* word is different from the *color* of the written word. (See Figure 5). If you read the word in the top left corner it is written as **Red**, but the color of the letters is blue. The second word on the next row is written as **Blue**, but in red coloring. If you go down from the top left row and say out loud the ***color*** of the letters in each row, how well do you do? It is a simple exercise that any three-year-old child can do easily without any mistake: Blue, Red, Green, Black, Yellow, Brown, Green, Pink. When you try to name the color while ignoring the written words, it interferes and creates a problem in naming the color.
 
 **Figure 5: Example of the Stroop effect, English**
 
-![](/static/figure5.png)
+![](/figure5.png)
 
 Please go to Figure 6 and name the color of the letters from the top left corner and go down each row. (See Figure 6). You will not have any difficulties naming them as: Blue, Red, Brown, Pink, Yellow, Red. Figure 6 is not a problem if you do not know how to read Korean. However, if I ask native Koreans to name the color of the letters in Korean, they have difficulties. 
 
 **Figure 6: Example of the Stroop effect, Korean** 
 
-![](/static/figure6.png)
+![](/figure6.png)
 
 Naming the colors is an easy task any child aged three can readily master. However, reading the alphabet and understanding their meaning take many years to learn. Once it is learned, however, it becomes "natural," and we perceive meaning automatically and without awareness. This is the definition of culture. We perceive symbolic reality and meaning through culture. Learning how to read, sing, ride a bicycle, and use a smartphone or computer is a difficult task, but once it is learned, it feels "natural," and becomes an important part of one's mind and the self.
 
@@ -163,7 +157,7 @@ We also perceive reality through symbols, ideas, and meaning, such as understand
 
 **Figure 7: Perception through senses and culture**
 
-![](/static/figure7.png)
+![](/figure7.png)
 
 John Culkin points out that "fish did not discover water" since it is a part of their natural environment, and they cannot imagine living without the water. In the same way, a child is born into a particular culture and perceives reality through culture. As such, it is difficult to "discover" one's own culture. Culture is perceived in terms of artifacts or products, such as art, music, customs, beliefs, and values. However, culture is as fundamental as sensory perception in allowing us to perceive reality meaningfully, and provides us with the way to view, understand, communicate, and create reality -; this is the basis of the software of the mind.
 
@@ -171,23 +165,23 @@ John Culkin points out that "fish did not discover water" since it is a part of 
 
 To understand the development of the software of the mind, self, and culture, we need to first examine our biological heritage. Biologically, human beings belong to the Great Ape family, and became a separate species known as the *homo sapiens* around six million years ago. *Homo sapiens* share 98.8% of the genes with bonobo monkeys and chimpanzees, and only 1.2% separates humans from them. Morphologically, there are six major differences between the *Homo species* and bonobo monkeys and chimpanzees: 1) Reduced masticatory system, 2) smaller canine teeth, 3) hidden ovulation, 4) the power of precision grip, 5) bipedalism, and 6) the descent of the larynx and hyoid bone (Henke & Tattersall, 2007).
 
-These morphological differences and the development of human agency allowed humans to develop the software of the mind, self, and culture that differentiate humans from the closest biologically relative bonobo monkeys and chimpanzees. Mithen (2007) points out, "the paradox we face is that *Homo sapiens* is genetically almost identical to the chimpanzees, our closed living relative with whom we share that 6 million old ancestor, but cognitively and behaviorally radically different" (p. 1966). Other species have morphological advantages, such as speed, strength, and agility, but *Homo sapiens* is the only species that can control their instincts, think outside the box, be creative, and innovate to populate all parts of the world.[^6]
+These morphological differences and the development of human agency allowed humans to develop the software of the mind, self, and culture that differentiate humans from the closest biologically relative bonobo monkeys and chimpanzees. Mithen (2007) points out, "the paradox we face is that *Homo sapiens* is genetically almost identical to the chimpanzees, our closed living relative with whom we share that 6 million old ancestor, but cognitively and behaviorally radically different" (p. 1966). Other species have morphological advantages, such as speed, strength, and agility, but *Homo sapiens* is the only species that can control their instincts, think outside the box, be creative, and innovate to populate all parts of the world.[^5]
 
 We need to examine how these morphological differences developed and gave rise to the human mind and agency, which in turn stimulated the creativity explosion and innovations that have transformed our biology, relationship, and society. 
 
 ### **Biology and morphology**
 
-Biologically, humans belong to the Great Ape family, belonging to the *Hominini*taxonomic tribe with chimpanzees and bonobo monkeys. A separate *Homo* genus emerged around 6 million years ago. (See Figure 8). Our closest genetic relative comes from the *Pan* genus that is composed of the chimpanzees, *Pan troglodytes* and bonobo monkeys, *Pan paniscus*. Within the *Pan* genus, bonobo monkeys separated from chimpanzees around 2 million years ago.[^7] Both live in the West African jungle and Congo basin, protected by the forest canopy. (See Figure 9). Our next closest genetic relative is the Gorilla, followed by Orangutan, and Hylobates. 
+Biologically, humans belong to the Great Ape family, belonging to the *Hominini*taxonomic tribe with chimpanzees and bonobo monkeys. A separate *Homo* genus emerged around 6 million years ago. (See Figure 8). Our closest genetic relative comes from the *Pan* genus that is composed of the chimpanzees, *Pan troglodytes* and bonobo monkeys, *Pan paniscus*. Within the *Pan* genus, bonobo monkeys separated from chimpanzees around 2 million years ago.[^6] Both live in the West African jungle and Congo basin, protected by the forest canopy. (See Figure 9). Our next closest genetic relative is the Gorilla, followed by Orangutan, and Hylobates. 
 
 **Figure 8: Our biological ancestry**
 
-![](/static/figure8.png)
+![](/figure8.png)
 
 **Figure 9: Ecological context**
 
-![](/static/figure9.png)
+![](/figure9.png)
 
-Both chimpanzees and bonobo monkeys are socially and hierarchically organized. The chimpanzee's social group is dominated by the *alpha* male, which uses violence, hoards food, has exclusive mating access to females, and abuses lower ranking males to maintain their dominant position. In contrast, bonobo monkeys are led by an *alpha* female. She is more egalitarian, nonviolent, uses sex to help prevent and resolve conflicts, often walks upright, and shares food amongits members and non-members. Bonobo males contribute to the group by providing food and protection to young mothers, and female members protect and assist pregnant members through their birthing process, the only species known to do so other than humans. Most people believe that humans evolved from chimpanzees, reifying their view that the dominant males are aggressive, violent, competitive, and selfish. However, humans have evolved from bonobo monkeys, based on genetic and morphological analysis.[^8]
+Both chimpanzees and bonobo monkeys are socially and hierarchically organized. The chimpanzee's social group is dominated by the *alpha* male, which uses violence, hoards food, has exclusive mating access to females, and abuses lower ranking males to maintain their dominant position. In contrast, bonobo monkeys are led by an *alpha* female. She is more egalitarian, nonviolent, uses sex to help prevent and resolve conflicts, often walks upright, and shares food amongits members and non-members. Bonobo males contribute to the group by providing food and protection to young mothers, and female members protect and assist pregnant members through their birthing process, the only species known to do so other than humans. Most people believe that humans evolved from chimpanzees, reifying their view that the dominant males are aggressive, violent, competitive, and selfish. However, humans have evolved from bonobo monkeys, based on genetic and morphological analysis.[^7]
 
 Of the 21 *Homo* species in the genus, only one species, *Homo sapiens*, managed to survive to the modern day. *Homo sapiens* lived in the open southern African savanna from 300,00 years ago, which is a different ecology from the jungle canopy that provides protection and food for the bonobo monkeys and chimpanzees. (See Figure 9). *Homo sapiens* began to migrate around 80,00 years ago and accelerated by the Ice Age to populate the Earth (Henke & Tattersall, 2007). 
 
@@ -197,13 +191,13 @@ Stone tools allow humans to move from being hunted to become hunters. Making, re
 
 **Figure 10: Bonobo monkey Kanzi**
 
-![](/static/figure10.jpg)
+![](/figure10.jpg)
 
 Making complex stone tools requires special cognitive skills, but hunting requires more complex cognitive, motor, and social skills. The goal of the hunter is to catch a deer to feed the tribe. (See Figure 11). As the hunter approaches the deer, it hears a sound and runs. The hunter must throw the spear, not where the deer is, but must anticipate where the deer will be, and throw the spear to hit the deer few seconds later. This requires agentic capabilities and self-efficacy to execute a complex set of actions (Bandura, 2023). 
 
 **Figure 11: Hunting**
 
-![](/static/figure11.png)
+![](/figure11.png)
 
 Second, *Homo* species developed fully obligate bipedalism or walking upright around 2 million years ago (Harcourt-Smith, 2007). *Homo* species lived in the open African savanna and walking upright provided them with reduced thermal stress. (See Figure 9). Since the body's surface area is less exposed to the sun when walking upright and allowing the breeze to cool the body, it can reduce the heat stress by 60%. It provided them the advantage of travelling longer distances to forage for food and consume less water (Harcourt-Smith, 2007). 
 
@@ -213,7 +207,7 @@ Bipedalism has negative aspects, such as the reduced running speed and agility. 
 
 During the nine months of pregnancy and two years of nursing the helpless infant, it leaves the mother vulnerable and in need of a higher calorie intake (Mithen, 2007). She and the infant survived by receiving support from her female-kin network, especially from the grandmother (O'Connell, Hawkes & Blurton-Jones, 1999). Archaeological evidence shows that the male Neanderthal partners provided food for women and children, which increased the mother-father and father-infant bonding (Mithen, 2007). 
 
-With the prolonged infant care, the mother-child interaction, communication and bonding became significantly enhanced. This in turn helped the cognitive, emotional, and social development of the infant and the mother (Mithen, 2007). Dissanayake (2000) examined the infant directed speech known as "motherese," or baby talk: "By coevolution in the infants and mother of rhythmic, temporally patterned, jointly maintained communicative interactions produced and sustained positive affect psychological brains states of interest and joy by displaying and imitating emotion of affiliation, and thereby sharing, communicating, and reinforcing them" (p. 390). The rhythmic, high tone, and musical nature of the baby talk provided positive emotional bonding and satisfaction to the mother and the infant, and the mother-infant interaction and care produce the happiness or love hormone, *oxytocin.*[^9]
+With the prolonged infant care, the mother-child interaction, communication and bonding became significantly enhanced. This in turn helped the cognitive, emotional, and social development of the infant and the mother (Mithen, 2007). Dissanayake (2000) examined the infant directed speech known as "motherese," or baby talk: "By coevolution in the infants and mother of rhythmic, temporally patterned, jointly maintained communicative interactions produced and sustained positive affect psychological brains states of interest and joy by displaying and imitating emotion of affiliation, and thereby sharing, communicating, and reinforcing them" (p. 390). The rhythmic, high tone, and musical nature of the baby talk provided positive emotional bonding and satisfaction to the mother and the infant, and the mother-infant interaction and care produce the happiness or love hormone, *oxytocin.*[^8]
 
 This contributed to the development of empathy, compassion, and altruism among the *Homo* species. Early humans displayed compassion by taking care of the wounded, sick, and injured (Berger & Hilton-Barber, 2000). In an environment with limited food supply and in constant danger of predators, it would be advantageous to abandon the weak and sick. Fossils records of healed bones indicate that humans took care of the weak and the injured (Gore, 2000). In addition, the "deliberate burial of kin are linked to personal and emotional ties between the living and the dead" (Conrad, 2007, p. 2015). Inside the grave of the deceased, they found tools that they may need to survive in the afterlife, suggesting a belief in the afterlife and their spiritual connection to the dead. This may have become the basis of religion. 
 
@@ -255,7 +249,7 @@ When Southern and Eastern European immigrants arrived at the Elis Island, they w
 
 At the turn of the 20th century, Asian Americans were viewed as an "inferior species," even when the test scores showed that they did equally well as European Americans (Vernon, 1982). Asian Americans were regarded as a "kind of inferior species, who could be used for unskilled labor and menial jobs but could never be accepted as equals into the white community" (Vernon, 1982, p. 2). When the number of Chinese immigrants began to increase, the US Congress passed the Chinese Exclusion Act in 1882 and barred further immigration from China. In 1924, the National Origins Act was passed in 1924 that barred all immigrations from Asia, with the exception of Filipinos who were barred in 1934 (Hsia, 1988). These laws were passed due to fears that the "genetically inferior" Asian race would pollute the genetic pool of the USA and lead to nation degeneracy (Chorover, 1980).
 
-Currently, Lynn and Vanhanen (2002) are making the opposite claim based on a different set of results. In their study of 60 nations, they have found that East Asians had the highest IQ: 106 for Koreans, 105 for Japanese, 104 for Taiwanese, and 103 for Singaporeans. The European Americans had lower scores of 98. They conclude that the IQ scores reflect the racial superiority of the Mongolian race. East Asians have now become a superior race due to their genes, although they were labeled as genetically inferior 80 years ago. They are now viewed as a "model minority" having academic advantages over other races, including European and African Americans and they are restricted from entering the top universities in the USA to promote "diversity." It is ironic that 80 years ago East Asians were discriminated due to their genetic inferiority, but the discrimination continues since they are now labelled as the model minority (Kim & Chun, 1984). Even when scientific validity of the IQ tests have been refuted, they have become a multi-billion dollar business around the world and propagate the belief that intelligence is genetically inherited.[^10]
+Currently, Lynn and Vanhanen (2002) are making the opposite claim based on a different set of results. In their study of 60 nations, they have found that East Asians had the highest IQ: 106 for Koreans, 105 for Japanese, 104 for Taiwanese, and 103 for Singaporeans. The European Americans had lower scores of 98. They conclude that the IQ scores reflect the racial superiority of the Mongolian race. East Asians have now become a superior race due to their genes, although they were labeled as genetically inferior 80 years ago. They are now viewed as a "model minority" having academic advantages over other races, including European and African Americans and they are restricted from entering the top universities in the USA to promote "diversity." It is ironic that 80 years ago East Asians were discriminated due to their genetic inferiority, but the discrimination continues since they are now labelled as the model minority (Kim & Chun, 1984). Even when scientific validity of the IQ tests have been refuted, they have become a multi-billion dollar business around the world and propagate the belief that intelligence is genetically inherited.[^9]
 
 Traditional psychological and educational theories assume that the differences in academic performance can be explained by innate ability, personality, or environmental factors. Empirical studies clearly refute the assumption and show that the assumption is politically and ideologically driven (Chorover, 1980; Gould, 1981; Kamin, 1974; Kim & Chun, 1984; Vernon, 1982). Bandura (1999) points out that "it is ironic that a science of human functioning should strip people of the very capabilities that make them unique in their power to shape their environment and their own destiny" (p. 21). As such, "psychology has undergone wrenching paradigm shifts" and "in these transformations, the theorists and their followers think, argue and act agentically, but their theories about how other people function grant them little, if any, agentic capabilities" (p. 21).
 
@@ -267,7 +261,7 @@ Gibson (1985) emphasizes the importance of understanding the relationship betwee
 
 ### **Traditional psychology theory:** Attachment theory
 
-In the field of developmental psychology, Henry Harlow found that Rhesus monkeys cling to the cloth mother even when the steel mother is feeding it (Suomi, & Leroy, 1982). These results have been used to develop the attachment theory and extended to explain the development of children. Ainsworth et al. (1978) concludes that secure attachment is possible when children develop autonomy, individuation, and exploration - reflecting the American individualistic bias. Rothbaum et al. (2000) notes that the caregiver's sensitivity to the child can lead to secure attachment, which in turn leads to social competence, and a secure base for exploring the external world. They review the attachment research in the USA and Japan and conclude that the Japanese concept of *amae* (甘え, "the act of requesting and receive a special favor in close relationships" (Kim & Yamaguchi, 2005), is an example of insecure attachment.[^11] Although they do not understand Japanese culture and the indigenous concept of *amae*, they made the above conclusion without solid empirical evidence. Secondly, the generic term "caregiver" is misleading since the relationship that a child has with his/her mother is very different from relationship with the father, grandmother, or a daycare provider (Kim & Yamaguchi, 1995). 
+In the field of developmental psychology, Henry Harlow found that Rhesus monkeys cling to the cloth mother even when the steel mother is feeding it (Suomi, & Leroy, 1982). These results have been used to develop the attachment theory and extended to explain the development of children. Ainsworth et al. (1978) concludes that secure attachment is possible when children develop autonomy, individuation, and exploration - reflecting the American individualistic bias. Rothbaum et al. (2000) notes that the caregiver's sensitivity to the child can lead to secure attachment, which in turn leads to social competence, and a secure base for exploring the external world. They review the attachment research in the USA and Japan and conclude that the Japanese concept of *amae* (甘え, "the act of requesting and receive a special favor in close relationships" (Kim & Yamaguchi, 2005), is an example of insecure attachment.[^10] Although they do not understand Japanese culture and the indigenous concept of *amae*, they made the above conclusion without solid empirical evidence. Secondly, the generic term "caregiver" is misleading since the relationship that a child has with his/her mother is very different from relationship with the father, grandmother, or a daycare provider (Kim & Yamaguchi, 1995). 
 
 The definition of defining parent-child relationships as attachment is flawed and misleading. Human babies are not able to attach or cling to the mother physically, as chimpanzees and bonobo monkeys do, and thus it should not be labelled attachment. Since the people above are the influential psychologists in the USA, they have the power to define through their publication and the power to control what evidence is fundable, and publishable. Among the liked-minded psychologists in the USA, they serve as gatekeepers stifling scientific advances.
 
@@ -275,23 +269,23 @@ The traditional development theories lack a basic understanding of relationships
 
 ### **Human Agency and Self-efficacy**
 
-Bandura (2023) is critical of psychological theories of committing the fundamental error of commission by focusing on the biological and mechanical functioning and the error of omission by eliminating human agency. He translated the traditional concept of "will" into the psychological construct of human agency. He provides empirical review of research that parallel results obtained from paleoanthropological, neurobiological, and genetic research (Henke & Tattersall, 2007; Hüther, 2016; Siegal, 2010) and conclude: "neuroimaging can shed light on how agentic causal beliefs and activities develop functional neuronal structures and orchestrate neurodynamics" (p. 5).[^12]
+Bandura (2023) is critical of psychological theories of committing the fundamental error of commission by focusing on the biological and mechanical functioning and the error of omission by eliminating human agency. He translated the traditional concept of "will" into the psychological construct of human agency. He provides empirical review of research that parallel results obtained from paleoanthropological, neurobiological, and genetic research (Henke & Tattersall, 2007; Hüther, 2016; Siegal, 2010) and conclude: "neuroimaging can shed light on how agentic causal beliefs and activities develop functional neuronal structures and orchestrate neurodynamics" (p. 5).[^11]
 
 Bandura (1997, 2023) conceptualized and measured human agency through self, relational, social, and collective efficacy. Self-efficacy is defined as the "beliefs in one's capabilities to organize and execute the courses of action required to produce given attainments" (Bandura, 1977, p. 3). (See Figure 12). Bandura (1997) points out that "self-efficacy is a generative capability in which cognitive, emotional, and behavioral subskills must be organized and effectively orchestrated to serve innumerable purposes" (p. 37). Self-efficacy can be increased by providing feedback and social support from others. (See Figure 13). He provides evidence from 60 years of research documenting the importance and impact of human agency and self-efficacy across different areas of psychology (cognitive, developmental, social, sports, health, organizational, and clinical) and across cultures to create social transformation using the media (Bandura, 1997, 2023; Caprara et al., 2008; Kim & Kim, 2022; Kim & Park, 2008).
 
 **Figure 12: Self-efficacy**
 
-![](/static/figure12.png)
+![](/figure12.png)
 
 **Figure 13: Self-efficacy and social influence**
 
-![](/static/figure13.png)
+![](/figure13.png)
 
 By integrating the triadic reciprocal causation and dual causal linkage model of Bandura (1997), Kim (1999) outlines the transactional model of science where human agency becomes a central and explicit part of the scientific model. (See Figure 14). Bandura (1997) has empirically documented the importance of examining the dual causal linkage (between input-agent and agent-output) in explaining behavior. In this model, human agency and self-efficacy can link Observable Input 1 with Observable Output 2. In this model, humans are agents who have access to their inner consciousness, and they can report their intentions, goals, and efficacy beliefs.
 
 **Figure 14: Transactional model of science**
 
-![](/static/figure14.png)
+![](/figure14.png)
 
 The dual causal linkage has been systematically analyzed and documented by Bandura (1997). First, it is important to examine how a person perceives and interprets an event (caused by an external factor or by one's own behavior) and their intention to take a course of action (causal linkage 1). This information can be obtained through self-report through self-efficacy. The second step involves assessing the person's performance (causal linkage 2). 
 
@@ -317,7 +311,7 @@ The tenderized food reduced strong facial muscles, jaws, and teeth which are th
 
 **Figure 15: Cranial capacity of homo sapiens and ape family**
 
-![](/static/figure15.png)
+![](/figure15.png)
 
 With a larger brain, human capabilities became more sophisticated and advanced, and allowed humans to expand cognitive, emotional, and communications skills in planning and executing hunts for large animals (Berger & Hilton-Barber, 2000). Advanced hunting was made possible with the use of advanced tools, communication, and social coordination that enabled humans to hunt for larger animals and obtain larger quantities of food. This in turn supported a larger brain and provided leisure time to develop art, music, and social skills.
 
@@ -327,13 +321,13 @@ The second major cognitive transformation is the anchoring of symbolic ideas in 
 
 **Figure 16: Lion-man, cave drawing and bone flute**
 
-![](/static/figure16.png)
+![](/figure16.png)
 
 Ideas are transformed into symbols, recorded in material form, and became the basis of writing system. The writing system developed to record ideas in different parts of the world: Hieroglyphs in Egypt and Crete, pottery and bone writing, pictograms, and phonetic writing system in China, Indus script in India, and the cuneiform in Sumar, Mesopotamia that became the basis of modern Western alphabet. (See Figure 17). They were written in cave paintings and then in portable clay tablets and papyrus. Children were educated to learn the script to obtain knowledge about farming, social systems, and complex ideas. These information technologies were shared, refined, integrated, and passed onto subsequent generations to influence the collective software of the mind and become the basis of culture. 
 
 **Figure 17: Early writing systems**
 
-![](/static/figure17.png)
+![](/figure17.png)
 
 Cuneiform was developed in Mesopotamia 3,500 BC that became the basis of the modern Western alphabet, and the pictograms became the basis of Chinese script. With each succeeding generation, knowledge accumulated, and they were passed on orally, and then, in written form. Industrialization, commerce, science, and technology transformed subsistence economies into industrialized nations. Information technology, democracy and the rule of law protect the rights of individuals in which people enjoy freedom and quality of life that is unparalleled in human history (Kim et al., 2003). 
 
@@ -347,19 +341,19 @@ Using the power of fire, the formless clay can be shaped and transformed into po
 
 **Figure 18: Making a cup**
 
-![](/static/figure18.png)
+![](/figure18.png)
 
 People in different parts of the world began to design and shape clay pottery. Although the design on the outside of the pottery does not have any functional value except its appearance, it creates a sense of identity, a form of self-expression. It became the basis of cultural expression and variations. (See Figure 19). What started out as a self-expression of personal experiences recorded in material form, fueled the First Industrial Revolution, automation, and laid the foundation for the modern computer and the Fourth Industrial Revolution of the AI, Big Data, Blockchain, Drones and Robotics, Smart technologies, and Genetic Engineering.
 
 **Figure 19: Regional and cultural variations**
 
-![](/static/figure19.png)
+![](/figure19.png)
 
-These industries are made possible by Joseph Marie Jacquard (1752 - 1834), who patented the Jacquard Loom in 1804 to mass produce patterned silk fabrics and increase production efficiency. (See Figure 20). The loom is the hardware, and the proliferated papers used to run the loom is the software of the mind. It became the basis of the automated loom that fueled the First Industrial Revolution. The punch card is used to store digital information and software to run the IBM computers. The calculating or computing machine is the hardware and the punch card containing the digitized information is the software. The Jacquard Loom that was used to mass produce beautiful silk fabrics is an example of the software of the mind that paved the way for automation and the modern computer.  Steve Jobs points out that art and "design is not just what it looks and feels like. Design is how it works."[^13] He created the software iOS and designed the iPod, iPad, and iPhone to be elegant, efficient, and easy to use and revolutionized the smartphone industry.
+These industries are made possible by Joseph Marie Jacquard (1752 - 1834), who patented the Jacquard Loom in 1804 to mass produce patterned silk fabrics and increase production efficiency. (See Figure 20). The loom is the hardware, and the proliferated papers used to run the loom is the software of the mind. It became the basis of the automated loom that fueled the First Industrial Revolution. The punch card is used to store digital information and software to run the IBM computers. The calculating or computing machine is the hardware and the punch card containing the digitized information is the software. The Jacquard Loom that was used to mass produce beautiful silk fabrics is an example of the software of the mind that paved the way for automation and the modern computer.  Steve Jobs points out that art and "design is not just what it looks and feels like. Design is how it works."[^12] He created the software iOS and designed the iPod, iPad, and iPhone to be elegant, efficient, and easy to use and revolutionized the smartphone industry.
 
 **Figure 20: Jacquard Loom and early IBM computer**
 
-![](/static/figure20.png)
+![](/figure20.png)
 
 Humans have learned to melt rocks to produce bronze which introduced the Bronze Age. Bronze is an alloy of 88% cooper and 12% tin. Iron ores were melted to create iron, which was used to increase agricultural production and later transformed into steel to drive the Industrial Age. Coal, electricity, and uranium are used as a source of energy, and currently, wind, solar, biofuels, and solar panels are used to generate renewable energy. Crude oil became a source of energy, and it is used to create plastic, polyester, microplastic, and chemical components. Berger and Hilton-Barber (2000) point out that humans "are able, if we choose so, to alter our actions in any situation based upon the accumulated knowledge and wisdom of those hundreds of thousands of generation that have preceded us," and "our brain and our ability to communicate our thoughts through language allow us to analyze situations and pass on information at a level that no other animal can, not even our most closely related biological relatives, the chimpanzee" (p. 18). The critical feature that separates humans from other species is the capability of creative forethought, planning, conceptualization, and implementation of ideas into reality through human action (Bandura, 2023; Wells, 2002). 
 
@@ -409,7 +403,7 @@ Thomas Aquinas embraced Aristotelian cosmology. Aristotle used logic and observa
 
 **Figure 21: Aristotelian universe**
 
-![](/static/figure21.jpg)
+![](/figure21.jpg)
 
 The adoption of the Aristotelian cosmology created a confusion in setting the exact date for Easter, which followed the Jewish Passover, the first Sunday after the first full moon. The Roman solar calendar has 365 days in a year, but the Jewish lunar calendar has 354 days a year, 11 days less than the Roman calendar. In the Aristotelian universe, since both the sun and the moon revolve around the earth, this should not be the case. The difference caused the date of Easter to change every year, like the dates of Ramadhan or Chinese New Year which use the lunar calendar. This created confusion and weakened the authority of the Catholic Church. In 1514, the Pope's secretary asked Copernicus to reform the calendar to make it more consistent and reliable (Burke, 1985).
 
@@ -421,7 +415,7 @@ Tycho Brahe (1546-1601), a Danish astronomer, received a grant from the King Fr
 
 It was his student, Johannes Kepler (1571-1630), a German astronomer and mathematicians, who had a breakthrough organizing Tycho Brahe's massive dataset. He adopted the Copernican Heliocentric model to formulate the Three Laws of Planetary Motion: 1) The orbit of a planet is an ellipse, with the Sun at one of the two foci, 2) a line segment joining a planet and the Sun sweeps out equal areas during equal intervals of time, and 3) the square of a planet's orbital period is proportional to the cube of the length of the semi-major axis of its orbit. Kepler's breakthrough challenged the views of the Catholic Church, but he could not explain the planetary motion. 
 
-Isaac Newton (1642-1727) provided a comprehensive explanation of planetary motion in the book entitled, *Mathematical Principles of Natural Philosophy* (1687). In 1675, he wrote to Robert Hook stating that "If I have seen further, it is by standing on the shoulders of Giants" referring to Nicolaus Copernicus, Galileo Galilei, Tycho Brahe, and Johannes Kepler. A multitude of scholars have seen apples fall to the ground, but they did not discover the law of gravity. Newton's rationale has been documented by William Stukeley: "We drank tea under the shade of some apple trees, and the notion of gravitation came into his mind: 'why should that apple always descend perpendicularly to the ground,' and 'why should it not go sideways, or upwards, but constantly to the earth's center'? The reason is that the earth draws it. There must be a drawing power in matter and the sum of the drawing power in the matter of the earth must be in the earth's center, not in any side of the earth. This apple falls perpendicularly, or toward the center. If matter thus draws matter; it must be in proportion of its quantity. Therefore, the apple draws the earth, as well as the earth draws the apple" (Hamblyn, 2011).[^14]
+Isaac Newton (1642-1727) provided a comprehensive explanation of planetary motion in the book entitled, *Mathematical Principles of Natural Philosophy* (1687). In 1675, he wrote to Robert Hook stating that "If I have seen further, it is by standing on the shoulders of Giants" referring to Nicolaus Copernicus, Galileo Galilei, Tycho Brahe, and Johannes Kepler. A multitude of scholars have seen apples fall to the ground, but they did not discover the law of gravity. Newton's rationale has been documented by William Stukeley: "We drank tea under the shade of some apple trees, and the notion of gravitation came into his mind: 'why should that apple always descend perpendicularly to the ground,' and 'why should it not go sideways, or upwards, but constantly to the earth's center'? The reason is that the earth draws it. There must be a drawing power in matter and the sum of the drawing power in the matter of the earth must be in the earth's center, not in any side of the earth. This apple falls perpendicularly, or toward the center. If matter thus draws matter; it must be in proportion of its quantity. Therefore, the apple draws the earth, as well as the earth draws the apple" (Hamblyn, 2011).[^13]
 
 The Newtonian Law of Universal Gravitation can integrate, explain, and predict the motion of the planets, the tides, the trajectory of comets, and the precession of the equinoxes. He predicted the appearance, time and exact location of Haley's comet with a tail pointing away from the sun and went through the crystalline spheres of Aristotle's universe. He demonstrated that the principles of the motion of planets can be applied to objects on earth and introduced the Three Laws of Motion: 1) The law of inertia, 2) *F* = *ma*, and 3) The law action and reaction. 
 
@@ -431,13 +425,13 @@ A picture is worth a thousand words and in mediaeval European paintings, the foc
 
 **Figure 22: God at the center**
 
-![](/static/figure22.jpg)
+![](/figure22.jpg)
 
 Mona Lisa was painted by Leonardo da Vinci (1452-1519), who represents the Renaissance and Humanist ideals. Mona Lisa was not a saint nobility, and she did not possess extraordinary beauty. She is a plain-looking commoner and wife of a silk merchant. (See Figure 23). There is, however, a striking difference in the perspective between Mona Lisa and the mediaeval paintings. The figure and ground relationship is reversed, representing a shift in perception and assumption. She is at the center of the painting and the landscape is in the background. She has an expression, the Mona Lisa's smile, that expresses her inner thoughts and emotions. She is looking at the viewer: Her eyes appear to follow us around as we move across the room, suggesting that she is alive, a subject with agency. 
 
 **Figure 23: Mona Lisa at the center**
 
-![](/static/figure23.jpg)
+![](/figure23.jpg)
 
 Humanism emphasizes human agency to understand the world, moving away from the dogma of the Catholic Church. Rather than viewing humans as sinful and the world as a forsaken place, humans are considered to be beautiful during the Renaissance. In the mediaeval period, the human body was the symbol of lust and sin, and it was covered. In contrast, the sculpture of David by Michelangelo celebrates the beauty of the human body. 
 
@@ -457,11 +451,11 @@ René Descartes (1596-1650) was a devout Christian and the father of modern ph
 
 **Figure 24: Cartesian coordinate system**
 
-![](/static/figure24.png)
+![](/figure24.png)
 
 **Figure 25: Knee jerk reflex**
 
-![](/static/figure25.png)
+![](/figure25.png)
 
 Descartes was living in a turbulent time with many conflicting ideas, doctrines, and discoveries. His religious beliefs conflicted with his ability to understand mathematics and the natural world outlined by Copernicus and Galileo. He decided to adopt methodological skepticism, or Cartesian doubt, in which he could reject his perception, ideas, beliefs, and religious doctrines. There is, however, one thing he could not doubt or deny with absolute certainty - his existence. This led him to conclude *"je pense, donc je suis"* (*cogito, ergo sums* in Latin, "I think, therefore I am"). 
 
@@ -469,7 +463,7 @@ In the book *Discourse on the Method* (1637), he concluded that the fact that
 
 **Figure 26: Descartes' discovery of self, truth**
 
-![](/static/figure26.png)
+![](/figure26.png)
 
 Rationality is what separates humans from animals. Our body is controlled by natural instincts, as evidenced by the reflex arc, which is beyond our conscious control. In contrast, rationality allows us to accept God, one's existence, and the mathematical and scientific laws. This became known as the Cartesian dualism, the separation and the duality of the mind and body: "We can clearly perceive a substance apart from the mode which we say differs from it, whereas we cannot, conversely, understand the mode apart from the substance" (Cunning, 2014, p. 278). For Descartes, the substance represents the hardware, or the body, and the mode refers to the software of the mind; they are separate but connected. 
 
@@ -477,11 +471,11 @@ Descartes's discoveries influenced the Christian worldview. His ideas allowed th
 
 **Figure 27: Cartesian duality**
 
-![](/static/figure27.png)
+![](/figure27.png)
 
 **Figure 28: Cartesian duality**           
 
-![](/static/figure28.png)
+![](/figure28.png)
 
 Descartes' discovery of the self, using the method of radical doubt, is an individualistic endeavor. An arbitrary authority cannot proclaim what is right, true, or just, since only he alone can decide the absolute. Only individuals can know with certainty what is true. This became the foundation of liberalism. In the Western court of law, people are asked to swear "to tell the truth, the whole truth and nothing but the truth." However, is what a person knows the truth, the whole truth, and nothing but the truth? 
 
@@ -513,7 +507,7 @@ Rather than viewing the world in the dichotomous black and white, in Asia there 
 
 **Figure 29: Shades of grey**
 
-![](/static/figure29.png)
+![](/figure29.png)
 
 ### **Confucianism**
 
@@ -521,11 +515,11 @@ In order to understand East Asian cultures, we need to look at the epistemologic
 
 **Figure 30: Traditional Korean landscape painting**
 
-![](/static/figure30.jpg)
+![](/figure30.jpg)
 
 **Figure 31: Rice planting**
 
-![](/static/figure31.png)
+![](/figure31.png)
 
 Confucius (551-479 BC) saw the universe and all living things as a manifestation of a unifying force called the *Dao* (道, "Truth, Unity, or the Way"; Kim, 1995; Kim, et al., 2006). It is the essence and basis of life that perpetuates order, goodness, and virtue (Lew, 1977). It is qualitatively different from the conception of God, a Being who has created the universe and all living things, including human beings. *Dao* manifests itself in the harmonious balance between *yin* (陰, "earth, femaleness, absorption") and *yang* (陽, "heaven, maleness, activity") and in humans through *te* (德, "Virtue"). Virtue is a gift from the Heaven that connects the individual to heaven (Lew, 1977). It is through Virtuethat a person is able to know the Heavenly Truth and it is the "locus where Heaven and I meet" (Lew, 1977, p. 154). Virtue is the East Asian counterpart to rationalism that Descartes articulated. Virtue can be realized through self‑cultivation within oneself and feeling compassion for others. It provides the fundamental source of insight and the strength to rule peacefully within oneself, family, nation, and the world.
 
@@ -537,7 +531,7 @@ The first and the most important aspect of the self is *ren* (仁, "human-hear
 
 **Figure 32: Confucian philosophy**
 
-![](/static/figure32.png)
+![](/figure32.png)
 
 There is a need to translate philosophical ideas into psychological concepts so that empirical studies can be conducted. In psychology, the Korean indigenous concept of *jung* (情, "affection and attachment") represents the philosophical concept of *ren* (仁, "human-heartedness"). It starts with opening your heart and mind to others,  caring for them and doing for them without being told. It develops by spending a long time together in order to experience difficulties together, sacrifice for one another, and not to be calculating. Results from empirical studies indicate that *jung*arises from a close-knit family and friends who spend a long time together (Choi et al.,1997). *Jung* does not develop in a contractual, commercial, and rational relationship. Someone without *jung*is described as being conditional, selfish, hypocritical, apathetic, rational, self-reliant, independent, and autonomous. It does not develop with people who are individualistic, selfish, rational, and powerful. The unique feature of *jung*is that it does not develop intentionally, but it develops when you spend a long time together (e.g., companionship) and even with people you dislike. Once it develops, it lasts a long time, even after separation for many years. Results from empirical studies indicate that it serves as the central emotional bond in parent-child relationships and other close relationships in Korea (Kim, 1995; Choi et al., 1997). 
 
@@ -549,15 +543,15 @@ Parents are the vehicles through which the *Dao* is transmitted and manifested
 
 **Figure 33: Paying respect to ancestors in front of the grave**
 
-![](/static/figure33.jpg)
+![](/figure33.jpg)
 
 **Figure 34:  Bowing to parents**
 
-![](/static/figure34.jpg)
+![](/figure34.jpg)
 
 **Figure 35: Grandparents represent the past, and children represent the future**
 
-![](/static/figure35.jpg)
+![](/figure35.jpg)
 
 Confucius considered society to be hierarchically ordered and that each person has *fen* (分, "portion or place") in life. The Japanese word for "I" is *jibun (*自分, "my part or portion"). Each *fen* has attached roles, duties, and code of conduct and each person must fulfil these roles. Duties and obligations of each *fen* are prescribed by the third concept, *li* (禮**, "**Propriety"; See Figure 32). Propriety articulates expected behavior and duties of each person according to their status and role. The concept "face" *tǐ miàn* (體面, "face") in Japan, Korea and China arises from Propriety. By maintaining "face," social order and harmony are maintained with people behaving according to their role, obligations, and duties. The importance of maintaining "face" have been verified in a review of empirical studies in Korea (Choi, Kim & Kim, 1997).
 
@@ -601,7 +595,7 @@ Liberalism extols the virtues of individualism and Confucianism emphasizes rela
 
 **Figure 36: Contextualization of culture and philosophy**
 
-![](/static/figure36.png)
+![](/figure36.png)
 
 From a societal point of view, individuals are considered as abstract and universal entities. Their status and roles are not pre-determined, but defined by their achievements (i.e., educational, occupational, and economic status). They interact with others utilizing mutually agreed upon principles such as equality, equity, non-interference, and detachability. Individuals with similar goals are brought together into a group. Laws and regulations are institutionalized to protect individual rights with everyone able to assert his or her rights through the legal system. The state is governed by elected officials whose role is to uphold individual rights and the viability of public institutions. Individual rights are of prime importance, where social welfare and harmony are considered secondary.
 
@@ -623,13 +617,13 @@ Culture represents the collective consciousness and agency to use the natural an
 
 **Figure 37: Culture and cultural change**
 
-![](/static/figure37.png)
+![](/figure37.png)
 
 Cultures can embody different beliefs, values, customs, and ways of life, but the most important aspect of  culture is the assumption that people accept it as being given, fundamental, and natural. To understand culture, we need to examine the three aspects that are central to people's lives: Ecology, epistemology, and phenomenology. (See Figure 38). Cultures vary in terms of the ecology in which they live and the resources that they use to survive, adapt, and innovate. Even though two cultures may share similar ecological context, they may have developed different epistemology, which is composed of common sense, religion, philosophy, and ethnoscience, to understand their natural and human world. The epistemological traditions represented are Christianity in the West, Judaism and Islam in the Middle East, and Hinduism and Buddhism in Asia. In philosophy, liberalism focuses on the individual as the basic unit of analysis and rationality as the basis of the self. In Confucianism, relationships are the basic units of analysis and empathy, and the compassion that binds individuals together is emphasized. They differ in terms of the starting point, the assumptions and emphasis. 
 
 **Figure 38: Facets of culture**
 
-![](/static/figure38.png)
+![](/figure38.png)
 
 In Western cultures, individuals are accepted as the basic unit of analysis and rationalism as a way to relate and communicate with one another. In East Asia, relationships are the basic unit of analysis and empathy, and roles are the way to relate and communicate with others. Based on these assumptions, the family, socialization, and the conception of self develops and are propagated through education, social institutions, and the political system. People develop a sense of agency using their biological, relational, and environmental resources to formulate and pursue their goals. The biological endowments, relationships, and culture also provide limitations, barriers, opportunities, and resources to what they are able to learn and achieve in their lifetime.
 
@@ -651,45 +645,45 @@ William James (1842-1910) is considered as the father of American psychology,�
 
 **Figure 39: Aspects of the self**
 
-![](/static/figure39.png)
+![](/figure39.png)
 
 The more important aspect of the self is the subjective "I." The subjective "I" regulates thoughts, emotions, and behaviors. (See Figure 40). It is reflective and asks questions, such as: Who am I? What is the meaning of life? Am I happy? It is evaluative, such as: Am I a good person? Am I happy? It is directive, goal-directed, and future-oriented. It is integrative and provides a sense of coherence for oneself and creates a sense of identity. What is important is how "I" see "Me" and directs, evaluates, and projects "Me" in the future. For example, when I play piano, the objective "Me" is moving my fingers and feet to create the sounds. However, it is the subjective "I" that listens, evaluates, and strategizes to create beautiful music. The subjective "I" is the software of the mind that directs, evaluates and the objective "Me."
 
 **Figure 40: Understanding the self**
 
-![](/static/figure40.png)
+![](/figure40.png)
 
 Although the objective "Me" changes throughout one's lifetime in terms of physical appearance, intelligence, personality, and social relationships, the subjective "I" maintains one's self-identity and coherence. (See Figure 41). It is known that adolescents experience an identity crisis during the transition period from childhood to adulthood and it can be experienced during acculturation, with migrants moving into another culture (Kim & Berry, 1986). With a traumatic experience, there can be a fracturing the coherence of "I" and the sense of identity can be disrupted to create mental illness, multiple personality, or schizophrenia. 
 
 **Figure 41: Maintenance of self-identity**
 
-![](/static/figure41.png)
+![](/figure41.png)
 
 To understand the conception of the self, art can be used since art is a direct expression of a person's experience. Vincent van Gogh (1853-1890) is an excellent example since he drew 32 self-portraits. He did so not because he was vain, but because he was poor, and he could not afford to pay for models. Van Gogh is a Dutch impressionist painter who lived in Paris and drew impressions that are left in his mind rather than drawing what he sees or the ideals of the Classical paintings. (See Figure 42). His paintings are not exact replicas of himself, but the impressions of inner thoughts and feelings that are left in his mind. In June 1888, he drew a painting of a field in France (See Figure 43). 
 
 **Figure 42: Vincent van Gogh**
 
-![](/static/figure42.jpg)
+![](/figure42.jpg)
 
 **Figure 43: Van Gogh, June 1888**
 
-![](/static/figure43.jpg)
+![](/figure43.jpg)
 
-One year later, June 1889, he drew his most famous painting, *The Starry Night*. It is a different style of painting known as expressionism. (See Figure 44). There is even a song written by Don McLean, entitled Starry, Starry Night. How can his style of painting change so dramatically within one year? In December 1888, he suffered from seizures, hallucinations, and nightmares, and cut of his earlobe. He admitted himself to the Arles Hospital and he was diagnosed with acute mania with generalized delirium.[^15] Figure 44 shows a self-portrait with his ear cut off in December, 1889. (See Figure 45). 
+One year later, June 1889, he drew his most famous painting, *The Starry Night*. It is a different style of painting known as expressionism. (See Figure 44). There is even a song written by Don McLean, entitled Starry, Starry Night. How can his style of painting change so dramatically within one year? In December 1888, he suffered from seizures, hallucinations, and nightmares, and cut of his earlobe. He admitted himself to the Arles Hospital and he was diagnosed with acute mania with generalized delirium.[^14] Figure 44 shows a self-portrait with his ear cut off in December, 1889. (See Figure 45). 
 
 **Figure 44: Starry Night, June 1889**
 
-![](/static/figure44.jpg)
+![](/figure44.jpg)
 
 **Figure 45: Vincent van Gogh, December 1888**
 
-![](/static/figure45.jpg)
+![](/figure45.jpg)
 
 In 1889, he drew a self-portrait that shows the "turbulent patterns signal a feeling of strain and pressure, symbolizing the artist's state of mind, which is under a mental, physical and emotional pressure" (Beckett, 1994, p. 274; See Figure 46). In the Starry Night, the trees are threatening, the wind is howling, the stars are blurry, and the moon is mystical. His physical "Me" did not change within a year, but how he views and evaluates himself or "I" changed dramatically. He passed away in 1890.
 
 **Figure 46: Vincent van Gogh, 1889**
 
-![](/static/figure46.jpg)
+![](/figure46.jpg)
 
 ### **Socialization and self**
 
@@ -733,7 +727,7 @@ For Koreans, how my mother views me and her expectations are the most important 
 
 **Figure 47: Self and other's perception**
 
-![](/static/figure47.png)
+![](/figure47.png)
 
 In empirical studies of self and academic achievement, parents view their children with love, sacrifice, and hope, and pressure them to achieve (Kim & Park, 2013). However, not every parent is loving and takes care of their children. When children are neglected, rejected, or abused, adolescents do not feel a sense of responsibility for their life, and they morally disengage. In Korea, starting with parents, how other people view "Me" becomes an important aspect of self-identity of how "I" view "Me." 
 
@@ -741,7 +735,7 @@ In empirical studies of the conception of the self, the importance of relationsh
 
 **Figure 48: Relational self**
 
-![](/static/figure48.png)
+![](/figure48.png)
 
 ## **IX. Unified Theory of the Biological World**
 
@@ -769,23 +763,23 @@ In England, Karl Marx was excited to read about the struggle for existence and w
 
 ### **Genetics and neurobiology**
 
-Genes are found on chromosomes and are made of Deoxyribonucleic acid (DNA), and they influence and determine the characteristic traits of an organism (e.g., the color of a bird's feathers or the shape of its beak).[^16] The Human Genome Project, the world's largest collaborative biological project, was launched in October 1990 to map and sequence the euchromatic portion of the human genome.[^17] It was completed in April 2003. The genome sequence analysis covers 99% of the euchromatic genome, and it is accurate to an error rate of 1/100,000 bases. International Human Genome Sequencing Consortium (2004) concluded that humans have around 20,000-25,000 protein-coding genes. 
+Genes are found on chromosomes and are made of Deoxyribonucleic acid (DNA), and they influence and determine the characteristic traits of an organism (e.g., the color of a bird's feathers or the shape of its beak).[^15] The Human Genome Project, the world's largest collaborative biological project, was launched in October 1990 to map and sequence the euchromatic portion of the human genome.[^16] It was completed in April 2003. The genome sequence analysis covers 99% of the euchromatic genome, and it is accurate to an error rate of 1/100,000 bases. International Human Genome Sequencing Consortium (2004) concluded that humans have around 20,000-25,000 protein-coding genes. 
 
 We are born with a particular set of genes, but they do not determine how the genes work and are expressed. Gene expression refers to *when* and *how frequently* the proteins are produced from the instructions of the genes, including when and how frequently they are made. Deans (2015) points out that a particular gene does not define a specific genetic expression, and two identical genes can work differently. They can be turned on or off, like the volume on a mobile phone where the volume can be turned on in different amounts, in different places, and at different times. One trait can be affected by several genes and one gene can affect several traits at the same time. They found that experiences and environmental factors can cause epigenetics, which is the change in how the genes work. Most genetic traits are influenced by the environmental factors and experience (e.g., diet, vitamin D, sea level, where one lives, and the experience of stress). While genetic changes can alter which protein is made, and epigenetics affect the gene expression to turn the genes on or off.
 
-Although the same genes are found in the same brain regions for humans and chimpanzees, they can be turned on or off, up or down, or in different amounts. Even though humans and chimpanzees share 98.8% of the genes, each human cell contains around 3 billion base pairs or bits of information and 1.2 % equals about 35 million differences.[^18] Some differences have a large impact, and others do not, since it can be turned on or off and in different amounts, in different places and at different times.
+Although the same genes are found in the same brain regions for humans and chimpanzees, they can be turned on or off, up or down, or in different amounts. Even though humans and chimpanzees share 98.8% of the genes, each human cell contains around 3 billion base pairs or bits of information and 1.2 % equals about 35 million differences.[^17] Some differences have a large impact, and others do not, since it can be turned on or off and in different amounts, in different places and at different times.
 
 A renowned geneticist Spencer Wells (2002) with the cooperation of National Geographics conducted genetic analysis of people around the world to discover the origins of our ancestry (Wells, 2002; See Figure 49). By examining the mutations in our recessive gene in the Y chromosome, known as the M168 (Haplogroup CT, Y-DNA), he could figure out the origins of human ancestry. He concludes that the ancestry of the Homo sapiens can be traced to a single tribe known as the San people or Bushmen in southern Africa around 60,000 years ago. 
 
 **Figure 49: Genetic tests of people around the world**
 
-![](/static/figure49.png)
+![](/figure49.png)
 
 With the effect of the Ice Age, they began to migrate to northern Africa. (See Figure 50). With the lower sea level due to the effects of the Ice Age, they could cross the Red Sea and populate the Middle East. Some moved north to Central Asia and moved further north to become the current Europeans. Others moved southeast to Southeast Asia and travelled down to Indonesia and Australia. Others went to Central Asia, and they migrated north to Mongolia, China, Korea, and Japan. With the hunting of reindeer and elks, they were able to cross the ice bridge that connected Siberia and Alaska. They then travelled down to North America, Central America, and South America. With each migration, they were able to innovate and adapt to a very different ecological context.
 
 **Figure 50: Human migration based on genetic analysis**
 
-![](/static/figure50.png)
+![](/figure50.png)
 
 Additional research confirm that humans evolved from a single tribe in the African savanna and populated the world, confirming the "Out of Africa" hypothesis (Bräuer, 2007). For this reason, humans share 99.9% of the genes. It makes the concepts of race, a sub-species category, unscientific. The concept of race as developed to justify colonialism and dehumanizing slavery by colonial masters in the 18th century who claimed that Africans and Asian were genetically inferior, with innate intellectual deficits, and as such their subjugation is justified. For example, Francis Galton (1822-1911) created the field of phrenology that analyzed the structure of the skull to show why Europeans were biologically superior to Africans and Asians, but scientific results refuted his claims. It is continued by proponents of sociobiology and IQ testing.
 
@@ -833,7 +827,7 @@ On May 16, 1961, general Park Chung-hee led a *coup d'état* and declared ma
 
 **Figure 51: Korean Gross National Income and birth rate**
 
-![](/static/figure51.png)
+![](/figure51.png)
 
 In the preliminary review of the lottery winners in Korea and around the world, the producers have found that more than two-thirds of lottery winners became unhappy after they won a large sum of money. The producers have commented: Many people have won the lottery and fulfilled their lifelong dream. They should be very happy. In Korea, there are more than 100,000 people who became rich by winning the lottery or selling their land, or through investments, and they should be very happy. Farmers who gave up the back-breaking work and became rich by selling their land to the property developers should be happy. Did their lives improve, and did they become happier once they became rich?They interviewed many people for their TV documentary, and they found that money did not buy happiness but misery for the majority of the people:
 
@@ -853,7 +847,7 @@ One middle-class family received a relatively small amount of $10,000. Since it 
 
 ### **World Happiness Survey**
 
-The results from the World Happiness Survey found that Korea is ranked 57th among the 150 participating countries with the mean score of 5.951 on a 11-point Cantril Self-Anchoring Scale (from 0-10), which is much lower than the OECD average of 6.7.[^19] This is down from the rank of 41st with the mean score of 6.267 in 2013. For the past 10 years, the mean score has been below 6.0. It is much lower than their close cultural and economic counterpart Taiwan, which is ranked 27th with the mean score of 6.535. The Korean score has not changed in the past 10 years even though the economy has been growing. If Korea is the 10th largest economy in the world, why are Koreans not as happy as neighboring Taiwan and other economically developed countries?
+The results from the World Happiness Survey found that Korea is ranked 57th among the 150 participating countries with the mean score of 5.951 on a 11-point Cantril Self-Anchoring Scale (from 0-10), which is much lower than the OECD average of 6.7.[^18] This is down from the rank of 41st with the mean score of 6.267 in 2013. For the past 10 years, the mean score has been below 6.0. It is much lower than their close cultural and economic counterpart Taiwan, which is ranked 27th with the mean score of 6.535. The Korean score has not changed in the past 10 years even though the economy has been growing. If Korea is the 10th largest economy in the world, why are Koreans not as happy as neighboring Taiwan and other economically developed countries?
 
 We need to examine the basic assumptions about the relationship between economic development, income, and happiness. The Korean economic and political system that propelled rapid economic growth also created the social problems and the destruction of Korean families and relationships, the same way that winning a lottery can change people's mindset, lifestyle, and relationships. 
 
@@ -869,7 +863,7 @@ Richard Easterlin is the first economist who linked and analyzed economic growth
 
 **Figure 52: Easterlin Paradox**
 
-![](/static/figure52.png)
+![](/figure52.png)
 
 Daniel Kahneman won the Nobel Prize in economics in 2002 showing that biases and context can influence our decision-making and challenged the assumptions of the rational theory in economics. He helped to launch the annual UN World Happiness Survey and OECD Better Life Survey. He conducted research on the experiences that made life pleasant or unpleasant, and extended his research to happiness and life-satisfaction. 
 
@@ -879,7 +873,7 @@ Kahneman and Deaton (2010) found that emotional well-being, health, caregiving,
 
 **Figure 53: Happiness and life-satisfaction**
 
-![](/static/figure53.png)
+![](/figure53.png)
 
 Kahneman and Deaton (2010) notes that if you ask people what they want most in life, the majority will say they want to be happy. However, most of us are working toward achieving goals, which are the basis of life satisfaction. They contend that happiness and satisfaction are distinct. They note that satisfaction is correlated around *r*=0.5 with happiness, explaining only 25% of the variance and leaving 75% unexplained. They note that life satisfaction is retrospective and evaluative. It is a feeling built over time and based on one's achievements, goals, and meeting one's expectations using a social yardstick (e.g., income, wealth, and possessions). Happiness, in contrast, arises from momentary experience, our day-to-day experiences that are spontaneous and is fleeting: "What I experience here and now."
 
@@ -917,19 +911,19 @@ Multiple regression analysis examined the predictors of happiness among adolesce
 
 **Figure 54: Factor explaining happiness**
 
-![](/static/figure54.png)
+![](/figure54.png)
 
 Figure 54 provides the results of the path analysis on happiness among adolescents. (See Figure 55). The lines and arrows show the path of the prediction, and the numbers show the strength of the prediction. For adolescents, emotional support, resiliency of efficacy and academic grades have direct positive effect on happiness. Grade level has a negative direct effect on resiliency of efficacy, meaning younger students have lower resiliency of efficacy. Socio-economic status has direct and positive effect on resiliency of efficacy and emotional support received. 
 
 **Figure 55: Factors influencing happiness, students**
 
-![](/static/figure55.png)
+![](/figure55.png)
 
 For adults, resiliency of efficacy has a direct positive effect on happiness (See Figure 56). Alternatively, occupational achievement and children's success have direct positive effects on happiness. Emotional support, monthly income, and occupational success have direct positive effects on happiness and children's success. Education and emotional support have a direct positive effect on resiliency of efficacy. 
 
 **Figure 56: Factors influencing happiness, adults**
 
-![](/static/figure56.png)
+![](/figure56.png)
 
 These results indicate that resiliency of efficacy and emotional support are important predictors of happiness for both adolescents and adults across different income groups and socio-economic status. For adolescents, academic achievement is an important predictor of happiness and for adults, occupational achievement and children's success are important predictors of happiness. For adults, income is a direct positive predictor of happiness and for adolescents, the socio-economic status is an indirect predictor of happiness mediated by academic achievement and emotional support.
 
@@ -961,15 +955,15 @@ Deloitte (2021) concludes that digital platforms are fundamentally changing the 
 
 The phenomenal economic growth in Korea has been spurred by educational achievements. The economic miracle in Korea is closely tied to the educational aspiration and investment made by adolescents and parents. By 1983, Korea had the highest percentage of adolescents wishing to obtain a university degree and the number of parents who wanted their children to at least graduate from university (Park & Kim, 2004). Currently, the literacy rate is 99%, high school graduation rate is 96% and university enrollment rate is 72%.
 
-In international studies of academic achievement, Korean students are ranked at the top in knowledge and performance. In international comparisons of math and science achievement, Koreans students are the top achievers (National Center for Educational Statistics, 2019).[^20] In the 39-nation study of Grade 4 and 8 students, Korean Grade 4 students are ranked 3rd in mathematics and 2nd in science.[^21] For Grade 8 students, they came in 3rd in mathematics and 4th in science. In the 31-nation OECD study of Grade 9 students in 2018, Korean students are ranked in the top tier: 2nd to 7th in reading, 1st to 4th in mathematics, and 3rd to 5th in science.
+In international studies of academic achievement, Korean students are ranked at the top in knowledge and performance. In international comparisons of math and science achievement, Koreans students are the top achievers (National Center for Educational Statistics, 2019).[^19] In the 39-nation study of Grade 4 and 8 students, Korean Grade 4 students are ranked 3rd in mathematics and 2nd in science.[^20] For Grade 8 students, they came in 3rd in mathematics and 4th in science. In the 31-nation OECD study of Grade 9 students in 2018, Korean students are ranked in the top tier: 2nd to 7th in reading, 1st to 4th in mathematics, and 3rd to 5th in science.
 
-According to the traditional Korean media, Gen Zs are individualistic, assertive, and viewed as selfish.[^22] They raise their voice to express their opinion and pursue personal happiness rather than sacrificing for the family or group. They are highly mobile and prefer to receive instant information and results. They are active in self-expression using social media, boasting in their personal blog or Facebook and focused on self-satisfaction. They have easy access to information, and they can actively explore their interests in various fields, prepare for employment, and share information and receive feedback.
+According to the traditional Korean media, Gen Zs are individualistic, assertive, and viewed as selfish.[^21] They raise their voice to express their opinion and pursue personal happiness rather than sacrificing for the family or group. They are highly mobile and prefer to receive instant information and results. They are active in self-expression using social media, boasting in their personal blog or Facebook and focused on self-satisfaction. They have easy access to information, and they can actively explore their interests in various fields, prepare for employment, and share information and receive feedback.
 
 By forming and activating an online community, they share information and build friendships by belonging to several online communities that fit their interests. They value experience over possession by participating in one-day classes and going on a weekend holiday. The virtual world has become as important as the physical world. Online friends have become an important source of social support in obtaining information about social trends, finding a job, and developing skills that are necessary to succeed. They have greater diversity of relationships and career choices that they pursue. The social support received from the online community is becoming important for Gen Zs. 
 
 **Figure 57: Generation and incentive structure**
 
-![](/static/figure57.png)
+![](/figure57.png)
 
 The incentive structure in Korea has changed. (See Figure 57). In Confucian culture, the basic unit for analysis is the relationship in the extended family, with grandparents symbolizing the past and children representing the future. Traditionally, the best way to move up the socioeconomic ladder was to pass the national exam and attain a government position, and they were given and from which they can obtain stable income for three generations. Industrialization required moving to cities, focusing on economic development, forming a nuclear family, and living in an apartment complex. The father worked long hours to earn a high income. The mother took care of the husband, children, and the household. Living in an urban apartment complex, the incentive structure has changed from conservatism to progressivism, from formalism to pragmatism, from past-oriented to future-oriented, from cooperation to competition, and from parental wisdom to specialized knowledge. The modern entrance exam system fostered fierce competition, so parents had to work hard and make sacrifices for their children, and their children had to study hard and achieve academic success to get a job in a leading company. 
 
@@ -977,7 +971,7 @@ Korean economy, which is export-driven and manufacturing-based, faces fierce com
 
 Due to the high cost of living, housing, and low income, the Gen Zs are living with their parents beyond the age of 30 or alone, but they can expand their social network through online channels. Instead of working for a large company and making sacrifices for unattainable financial security, they focus on experiences that can make them happy by engaging in personally meaningful activities, developing their interests and skills, and finding a job that is aligned with their personal values. As the most educated generation, they reject the pre-determined lifestyles of their parents' generation, which lacks meaning and purpose for them.
 
-In Korea, morality and ethics change depending on situations and relationship (Kim, 1995). As such generalized trust is low and institutions do not function well compared to Scandinavian countries (Kim et al., 2002, 2006). Gen Zs have internalized ethical standards, and they are acting beyond the situations and relationships. One example is the boycotting of Uniqlo, a popular Japanese fast retailing company.[^23] Three years ago, Uniqlo's Chief Financial Officer mocked wartime forced laborers and stated that "the boycott will not last long in Korea." Uniqlo became the target of the boycott among Gen Zs which had immediate impact. Sales plummeted and 40 stores closed last year, and they have not recovered.
+In Korea, morality and ethics change depending on situations and relationship (Kim, 1995). As such generalized trust is low and institutions do not function well compared to Scandinavian countries (Kim et al., 2002, 2006). Gen Zs have internalized ethical standards, and they are acting beyond the situations and relationships. One example is the boycotting of Uniqlo, a popular Japanese fast retailing company.[^22] Three years ago, Uniqlo's Chief Financial Officer mocked wartime forced laborers and stated that "the boycott will not last long in Korea." Uniqlo became the target of the boycott among Gen Zs which had immediate impact. Sales plummeted and 40 stores closed last year, and they have not recovered.
 
 To empirically test the changing trends among Gen Zs, two studies have been conducted. (See Appendix 1). The first study collected survey questionnaires from 353 Gen Zs attending a Korean university (J. Kim, 2024). The results indicate that Gen Zs realize that the incentive structure has changed, and they can't live like their parents, and they do not want to sacrifice happiness for success. They are pursuing both success and happiness by learning new knowledge and skills obtained from online communities and influencers. They are breaking away from traditional ingroup mentality ("arms bend inward") by developing the necessary English and social skills. They are engaging in online communities and meeting people with similar interests, ethics, and life goals. For Gen Zs, it is not to reject the relationship that is important in Korean culture, but to expand the relationship through the online community ("stretch your arms outward"). The results provide a window to understanding mindset, perspective, and lifestyle that the older generations have difficulty accepting. 
 
@@ -993,7 +987,7 @@ The results of the path analysis from the Gen Zs generation provide similar resu
 
 **Figure 58: Factors influencing trust and happiness**
 
-![](/static/figure58.png)
+![](/figure58.png)
 
 Figure 59 provides the result with happiness and work values using structural equation modelling. (See Figure 59). Since students are not currently working, they are asked about the work values that will be important for them in the future. The results include three work values consisting of Achievement, Security and Work-Life Balance. The first two subscales are developed in previous studies and the last scale is developed through the interviews of over 1,000 employees and executives working for a Korean company (Kim & Kim, 2021). Happiness is measured by how happy they are in Self Development and for Job Prospect. Self-efficacy is measured by Self-Regulation, Assertiveness, Relational and Social efficacy. In addition to social support from parents and friends, online social support is measured by the information they receive from the online community related to internship, interviewing, and job opportunities has been included. The study also obtained students' participation in organizations and the number of leadership~~s~~ roles that they had in the organization. 
 
@@ -1001,7 +995,7 @@ The results show good Goodness-of-Fit for the overall model, the scales, and the
 
 **Figure 59: Factors influencing happiness and work values: Self-efficacy as the mediator variable**
 
-![](/static/figure59.png)
+![](/figure59.png)
 
 In the second study, a survey questionnaire was completed by 303 Gen Zs attending a Korean university (Kim, 2024). The Leadership efficacy scale was developed from the interviews of over 1,000 employees and executives working for a Korean company measuring the eight domains: Analytical, Initiative, Professionalism, Creativity, Empowerment, Ethical, Communication, and Teamwork. (See Appendix 1). For work values, in addition to Achievement and Security, Trust and Enjoy Life are added. Traditional leadership style of Directive, Bureaucratic, and Transactional leadership style have been developed by the present authors (Kim & Kim, 2021). Four-item scales for the future-oriented leadership style developed by DiFabio and Peiró (2018) have been included: Ethical, Empowerment, Servant, and Sustainable leadership. The present authors added 2 more items to the four leadership styles to improve reliability and stability. Since the students are not currently working, they are asked about their preferred working style when they work in an organization/team.
 
@@ -1009,13 +1003,13 @@ Leadership efficacy (Communication, Teamwork, Professionalism and Analytical) ha
 
 **Figure 60: Work values, leadership efficacy, and traditional leadership style**
 
-![](/static/figure60.png)
+![](/figure60.png)
 
 Leadership efficacy (Communication, Teamwork, Ethical, and Empowerment) has a direct and positive impact on the four future-oriented leadership styles (Sustainable, Servant, Mindful, and Ethical leadership), and work values (Achievement, Security, Trust, and Enjoy Life). Similarly, the social support received from family, friends, online platforms, and the experience in organizations and leadership positions have a direct and positive influence on leadership efficacy. (See Figure 61). 
 
 **Figure 61: Work values, leadership efficacy, and future-oriented leadership style**
 
-![](/static/figure61.png)
+![](/figure61.png)
 
 These results indicate that online communities play an important role in increasing the self and leadership efficacy, similar to the role that their family and friends. Secondly, the work values of Achievement, Security, and the Work-Life Balance have emerged to be important values in the first study. In the second study, Trust in the workplace had the highest mean. They also want to experience and Enjoy Life, although it had the lowest mean.
 
@@ -1077,11 +1071,11 @@ Bandura (1977, 2016, 2023) has clearly shown that human beings are agents of 
 
 There is a quiet revolution brewing in the world that is transforming the way we think, feel, relate to others, and live. The digital revolution has created an augmented reality driven by the development of the online platform that supports smartphone, social media, e-commerce, and the GPS navigation system. The online platforms allow people to choose the information and news they want to consume, interact with a select few like-minded people, learn from influencers on social media, and create online communities to share their views and personal experiences. This trend accelerated during the COVID-19, where people were locked down, practiced social distancing, and avoided person-to-person interactions. It accelerated the consumption culture through shopping online, using e-commerce and delivery services, sharing information through instant messaging and social media, obtaining content through streaming, and meeting people through virtual meetings and web-conferences. 
 
-The digital revolution created a new platform where information can be created, shared, and consumed freely bypassing government regulations. People have access to a vast amount of information, news, and content from diverse sources. They are allowing information to flourish through these platforms that remain largely unregulated. Human life has always been regulated through nature and society through laws, regulations, and norms (Lahlou, 2017). For the first time in history, we are bypassing ecology and society to allow few large IT companies to create online platforms and allow many people and groups the power to define and the power to control without considering the ethical, moral, and social implications.[^24]  
+The digital revolution created a new platform where information can be created, shared, and consumed freely bypassing government regulations. People have access to a vast amount of information, news, and content from diverse sources. They are allowing information to flourish through these platforms that remain largely unregulated. Human life has always been regulated through nature and society through laws, regulations, and norms (Lahlou, 2017). For the first time in history, we are bypassing ecology and society to allow few large IT companies to create online platforms and allow many people and groups the power to define and the power to control without considering the ethical, moral, and social implications.[^23]  
 
 For the first time in history, people and especially Gen Zs, are obtaining information, news, and content from streaming services rather than the traditional community and linear media. Brown (1986) reviews research on social influence and found that people seek information and news that confirm and verify their current beliefs and prefer to associate with a group of liked-minded people. In such a community, a person who articulates a more extreme view has more influence on the group members. This creates a risky shift and extremism since people are attracted to views that are more extreme than their current view. They become more extreme when they discuss their views with their group members (Brown, 1986). With the access to unregulated online channels, there is growing extremism, popularism, and fragmentation that entrench and justify their existing views and have spurred the consumption of fake news, populism, and conspiracy theories. 
 
-With the digital revolution, individuals spend more time online and become absorbed in their micro-worlds, avoiding person-to-person contacts. People can choose to select the information that confirms their views, to interact with like-minded people, and to reject a balanced view and tolerance that are necessary for a functional society. Smartphones, internet, and cloud computing allow people to access information and connect to AI and augmented reality 24 hours a day and 7-days a week. The smartphone has now become an essential device where people are willing to give up food for a day rather than part with their smartphone. It has become a new baby-sitter where infants stare at the screen for hours and learn to use these devices before they can walk or talk. Generative AI can create reports, paintings, and photos using AI computer generated algorithms so that we do not have to think and use our brain. These phenomena concerned Einstein many years ago, who lamented in 1946 that "I believe that the abominable deterioration of ethical standards stems primarily from the mechanization and depersonalization of our lives - a disastrous byproduct of science and technology. *Nostra culpa*! (We are to blame!)."[^25]
+With the digital revolution, individuals spend more time online and become absorbed in their micro-worlds, avoiding person-to-person contacts. People can choose to select the information that confirms their views, to interact with like-minded people, and to reject a balanced view and tolerance that are necessary for a functional society. Smartphones, internet, and cloud computing allow people to access information and connect to AI and augmented reality 24 hours a day and 7-days a week. The smartphone has now become an essential device where people are willing to give up food for a day rather than part with their smartphone. It has become a new baby-sitter where infants stare at the screen for hours and learn to use these devices before they can walk or talk. Generative AI can create reports, paintings, and photos using AI computer generated algorithms so that we do not have to think and use our brain. These phenomena concerned Einstein many years ago, who lamented in 1946 that "I believe that the abominable deterioration of ethical standards stems primarily from the mechanization and depersonalization of our lives - a disastrous byproduct of science and technology. *Nostra culpa*! (We are to blame!)."[^24]
 
 Although the world is facing global climate crisis, wars, social inequality, and ethical problems, unregulated social media is fueling the breakdown of society. Politicians and government bureaucracy maintain conflicts, dissensions, and fragmentation without providing viable solutions. Gen Zs are disengaging from the local communities and institutions created by the Baby Boomer generation since they do not represent their values and aspirations. They are engaging in online communities and live on their own in micro-worlds that provide greater freedom, access, and convenience. This has led to fragmentation, disengagement, and the distrust of the government, media, social institutions, and companies. 
 
@@ -1093,386 +1087,68 @@ Gen Zs are starting a quiet revolution in which they want to create the future f
 
 Drucker (2001) outlined human-centered management for business, government, and NGOs. Profit should not be the goal but the outcome of satisfying the needs of the customers, citizens, and community and supporting a functional society. Drucker (1974) points out that "free enterprise cannot be justified as being good for business. It can be justified only as being good for society" (p. 41). Bandura (2023) emphasizes human agency in promoting creativity and innovation through self, relational, social, and collective efficacy. We need to pursue common goals that are aligned with people's aspirations, engage with people rather than disengage, and provide support for individuals to contribute to their well-being and happiness as well as society since we are all inter-connected.
 
-## **References**
-
-Aiello, L. C., & Wheeler, P. (1995). The expensive-tissue hypothesis. *Current Anthropology, 36*, 199-200.
-
-Ainsworth, M.D., Blehar, M, Waters, E, & Wall, S. (1978) *Patterns of Attachment: A Psychological Study of the Strange Situation. L*awrence Erlbaum.
-
-Azuma, H. (1984). Psychology in a non‑Western country. *International Journal of Psychology*, *19*, 145‑155.
-
-Azuma, H. (1986). Why study child development in Japan? In H. Stevenson, H. Azuma, & K. Hakuta K (Eds.), *Child Development and Education in Japan* (pp. 3-12). W. H. Freeman. 
-
-Bandura, A. (1997). *Self-efficacy: The exercise of control*. Freeman. 
-
-Bandura, A., (2016). *Moral Disengagement: How People Do Harm and Live with Themselves*. McMillian
-
-Bandura, A. (2023). *Social cognitive theory: An agentic perspective on human nature*. In D. Cervone (Ed.). John Wiley & Sons.
-
-Bandura, A., Reese, L., & Adams, N. E. (1982). Microanalysis of action and fear arousal as a function of differential levels of perceived self-efficacy. *Journal of Personality and Social Psychology*, 43, 5--21. Retrieved at: https://psycnet.apa.org/doi/10.1037/0022-3514.43.1.5
-
-Beckett, W. (1994). *[The Story of Painting, The Essential Guide to the History of Western Art](https://archive.org/details/storyofpainting00beck)*. Dorling Kidersley,
-
-Befu, H. (1986). The social and cultural background of child development in Japan and the United States. In H. Stevenson, H. Azuma, & K. Hakuta (Eds.), *Child development and education in Japan* (pp. 13-27). Freeman.
-
-Beloff, J. (1973). *Psychological Sciences: A Review of modern psychology.* London: Crosby Lockwood Staples. 
-
-Berger, L. R., & Hilton-Barber, B. (2000). *Footsteps of Eve: The mystery of human origins*. National Geographic Books.
-
-Berlin, I. (1967). Two concepts of liberty. In A. Quinton (Ed.), *Political philosophy*. Oxford University Press.
-
-Berlin, I. (1976). *Vico and Herder: Two Studies in the History of Ideas*. Viking.
-
-Blumenthal, A. R. (1983). Wilhelm Wundt and early American psychology: A clash of cultures. In R. W. Rieber (Ed.), *Wilhelm Wundt and the Making of a Scientific Psychology*. Plenum.
-
-Boulding, K. (1980). Science: Our common heritage. *Science*, *207*, 831‑826.
-
-Bräuer, G. (2007). Origin of modern humans. In W. Henke & I. Tattesall (Eds.), *Handbook of Paleoanthropology, Volume 3* (pp. 1749-1780). Springer. Retrieved at: http://dx.doi.org/10.1007/978-3-540-33761-4_57
-
-Brecht, M. (1999), *Martin Luther.* Fortress Press. 
-
-Brown, R (1986) *Social Psychology: The Second Edition*. Free Press.
-
-Burke, J. (1985). *The day the universe changed*. Little, Brown & Co. 
-
-Caprara, G. V., Fida, R., Vecchione, M., Del Bove, G., Vecchio, G. M., Barbaranelli, C., & Bandura, A. (2008). Longitudinal analysis of the role of perceived self-efficacy for self-regulated learning in academic continuance and achievement. *Journal of Educational Psychology, 100*(3), 525--534. Retrieved at:  https://doi.org/10.1037/0022-0663.100.3.525
-
-Cervone, D. (2023). Theory and Application in Personality Science: The Case of Social-Cognitive Theory. *Psychology and Developing Societies, 35(2),* 220-250. DOI: 10.1177/09713336231178366
-
-Chetty, R., Grusky, D., Hell, M., Hendren, N., Manduca, R., & Narang, J. (2008). *The Fading American Dream: Trends in Absolute Income Mobility since 1940s*. Working Paper 22910, National Bureau of Economic Research, December.
-
-Choi, S. C., Kim, U., & Kim, D. I. (1997). Multifaceted analyses of *chemyon* ("social face"): An indigenous Korean perspective. In K. Leung, U. Kim, S. Yamaguchi, & Y. Kashima (Eds.), *Progress in Asian Social Psychologies*. John Wiley & Sons. 
-
-Chorover, S. L. (1980). *From genesis to genocide: The meaning of human nature and the power of behavior control*. MIT press.
-
-Clark, A. (1996). *Being there: Putting brain, body and the world together*. MIT Press.
-
-Confucius (1979). *The Analects*. Translated by D. C. Lau. Penguin Books.
-
-Confucius (2013), *The Great Learning*. Translated by James Legge. Start Publishing.
-
-Conrad, N. (2007). Cultural evolution in Africa an Eurasia during the Middle and Late Pleistocene. In W. Henke & I. Tattesall (Eds.), *Handbook of Paleoanthropology, Volume 3* (pp. 2001-2038). Springer. http://dx.doi.org/10.1007/978-3-540-33761-4_66
-
-Cunning, D. (2014). *The Cambridge Companion to Descartes' Meditations*. Cambridge University Press.
-
-Deans, C, M. (2015). What do you mean, "epigenetic"? *Genetics. 199 (4)*, 887--896. Retrieved at: http://dx.doi.org/10.1534/genetics.114.173492
-
-d'Espagnat, B. (1979). The Quantum Theory and Reality. *Scientific American, 241(5),* 158-181. Retrieved at: https://doi.org/10.1038/scientificamerican1179-158
-
-Di Fabio, A., & Peiró, J.M. (2018). Human Capital Sustainability Leadership to promote sustainable development and healthy organizations: A new scale. *Sustainability, 10*(7), Article 2413. http://dx.doi.org/10.3390/su10072413
-
-Doi, T. (1981). *The Anatomy of dependence*. Tokyo: Kodansha International.
-
-Doi, T. (1985). *The Anatomy of self*. Tokyo: Kodansha International.
-
-Drucker, P. F. (1974). *Management: Tasks, Responsibilities, Practices*. Harper & Row. 
-
-Drucker, P. F. (2001). *Essential Drucker*. Harper Collins.
-
-Durant, W. (2005). *[Story of Philosophy](https://books.google.com/books?id=suLI7RoaBEEC&pg=PA34)*. Simon & Schuster. 
-
-Dworkin, R. (1977). *Taking rights seriously*. Harvard University Press.
-
-Easterlin (1974). [Does Economic Growth Improve the Human Lot? Some Empirical Evidence](http://graphics8.nytimes.com/images/2008/04/16/business/Easterlin1974.pdf). In Paul A. David; Melvin W. Reder (eds.). *Nations and Households in Economic Growth: Essays in Honor of Moses Abramovitz*. Academic Press. https://doi.org/10.1016/B978-0-12-205050-3.50008-7
-
-Easterlin, R. A. et al. (2010) The happiness--income paradox revisited. *Economic Sciences, 107*, 22463-22468. Retrieved at: http://dx.doi.org/10.1073/pnas.1015962107
-
-Feinberg, J. (1973). *Social philosophy*. Prentice-Hall. 
-
-Fox, K. C. *et al.* (2014). Is meditation associated with altered brain structure? A systematic review and meta-analysis of morphometric neuroimaging in meditation practitioners. *Neuroscience and Behavioral Reviews.* 43, 48--73 (2014). Retrieved at: http://dx.doi.org/10.1016/j.neubiorev.2014.03.016
-
-Galilei, G. (1954/1638). In H. Crew, & A. de Salvio. (eds.). *Dialogues Concerning Two New Sciences*. Dover Publications Inc. 
-
-Gewirth, A. (1982). *Human rights*. Chicago: University of Chicago Press.
-
-Gibson, J. J. (1979). *'The Theory of Affordances'. The Ecological Approach to Visual Perception*. Houghton Mifflin Harcourt.
-
-Gibson, J. J. (1985). Conclusions from a century of research on sense perception. In S. Koch, & D. E. Leary (Eds.), *A century of psychology as science*, (pp. 224-230). McGraw Hill.
-
-Gore, R. (2000). The dawn of humans: People like us*. National Geographic*, July, 90-117.
-
-Gould, S. J. (1981). *The mismeasure of man*. New York: W. W. Norton. 
-
-Hagen, M. A. (1985). James J. Gibson`s ecological approach to visual perception. In S. Koch, & D. E. Leary (Eds.), *A century of psychology as science (pp. 231-249)*. McGraw Hill.
-
-Hamblyn, R. (2011). *The art of science: A natural history of science*. Pan Macmillan. 
-
-Harcourt-Smith, W. E. H. (2007). The origins of bipedal locomotion. In Henke, W., & Tattersall (2007). *Handbook of paleoanthropology*, *Volume 3*. (p. 1483-1518). Springer. 
-
-Retrieved at: http://dx.doi.org/10.1007/978-3-540-33761-4_48
-
-Helgesen, G. & Kim, U. (2002). *Good government: Nordic and East Asian perspectives*. Copenhagen: Danish Institute of International Affairs.
-
-Henke, W., & Tattersall, I. (2007). *Handbook of paleoanthropology, Vol. 1, 2, 3*. Springer.
-
-Ho, D. Y. F. (1976). On the concept of face. *American Journal of Sociology, 81,* 867-884. Retrieved at: https://doi.org/10.1086/226145
-
-Ho, D. Y. F. (1986). Chinese patterns of socialization: A critical review. In M. H. Bond (Ed.), *The psychology of the Chinese people* (pp 1-37). H. K.: Oxford University Press.
-
-Hofstede, G. (1991). *Cultures and organizations: Software of the mind*. McGraw-Hill Book.
-
-Hogan, R. (1975). Theoretical egocentrism and the problem of compliance. *American Psychologist,* 533-540. https://psycnet.apa.org/doi/10.1037/h0076638
-
-Hohfeld, W. (1917). Fundamental legal conceptions as applied in judicial reasoning. *[The Yale Law Journal](https://www.jstor.org/journal/yalelawj)*, *26(8),* 710-770. https://doi.org/10.2307/786270
-
-Holten, G. (1973). *Thematic origins of scientific thought: From Kepler to Einstein*. Cambridge, MA: Harvard University 
-
-Holten, G. (1988). *Thematic origins of scientific thought: From Kepler to Einstein, Revised edition*. Cambridge, MA: Harvard University.
-
-Hsia, J. (1988). *Asian Americans in higher education and work*. Hillsdale, NJ: Lawrence Erlbaum Associates.
-
-Hüther, G. (2016). *Co-creativity and community*. Göttingen: Vandenhoeck & Ruprecht.
-
-International Human Genome Sequencing Consortium (2004). Finishing the euchromatic sequence of the human genome. *Nature, 431*, 931--945. Retrieved at: http://dx.doi.org/10.1038/nature03001
-
-James, W. (1890). *Principles of psychology, Vol.1, 2*. Henry Holt and Company.
-
-Kahneman, D. & Deaton, A. (2010). High income improves evaluation of life but not emotional well-being. *PNAS*, *107(38)*, 16489-16493. Retrieved at: https://doi.org/10.1073/pnas.1011492107
-
-Kamin, L. (1974). *The Science and Politics of I.Q*. Mahwah, J: Lawrence Erlbaum Associates.
-
-Kandel, E. (2007). *In Search of Memory: The Emergence of a New Science of Mind*. W. W. Norton & Company.
-
-Kant, I. (1959). *The metaphysical principles of virtue* (L. W. Beck, Trans.). Liberal Arts Press.
-
-Kardiner, A. (1939) *Individual and his society*. Columbia University.                  
-
-Kim, J. (2024). *The Influence of Organizational Experience and Social Support on Work Values, Leadership and Happiness: With a Specific Focus on the Mediating Role of Self-efficacy and Leadership Efficacy.*  Unpublished Doctoral Dissertation, College of Business Administration, Inha University, Korea.
-
-Kim, U. M. (1994). Significance of paternalism and communalism in the occupational welfare system of Korean firms: A national survey. In U. Kim, H. C. Triandis, Ç. Kâğitçibaşi, & S. C Choi (Eds.) *Individualism and collectivism: Theory, method, and applications.* Sage Publications. 
-
-Kim, U. (1995). *Individualism and collectivism: Psychological, cultural and ecological analysis*. Nordic Institute of Asian Studies.
-
-Kim, U. (1999). After the "crisis" in social psychology: Development of the transactional model of science. *Asian Journal of Social Psychology, 2*, 1-19.
-
-Kim, U. (2001). Culture, science and indigenous psychologies: An integrated analysis. In D. Matsumoto (Ed.), *Handbook of culture and psychology*. (pp. 51-76). Oxford: Oxford University Press.
-
-Kim, U. (2006b). *Can money buy happiness? No--psychological, relational and social factors are much more important*. University of Tokyo presentation.
-
-Kim, U., & Berry, J. W. (1986). Predictors of acculturative stress: Korean immigrants in Toronto, Canada: In L. H. Ekstrand (Ed.), *Ethnic Minorities and Immigrants in Cross‑Cultural Perspective* (pp. 159-170). Lisse: Swets and Zeitlinger.
-
-Kim, U., & Choi, S. C. (1994). Individualism, collectivism, and child development: A Korean perspective. In P. M. Greenfield, & R. Cocking (Eds.), *Cognitive socialization of minority children: Continuities and discontinuities*. Lawrence Erlbaum.
-
-Kim, U., & Chun, M. (1994). Education "success" of Asian Americans: An indigenous perspective. *Applied Behavioral Development*, *15*, 329-341. 
-
-Kim, U. & Kim, J. (2021). Unpublished survey questionnaire. College of Business Administration, Inha University, Korea.
-
-Kim, U., Helgesen, & Ahn, B. M. (2002). Democracy, trust, and political efficacy: Comparative analysis of Danish and Korean political culture. *Applied Psychology: An International Review, 51(2), 317-352.* 
-
-Kim, U., & Park, Y. S. (1999). Psychological and behavioral pattern of Korean adolescents: With specific focus on the influence of friends, family, and school. *Korean Journal of Educational Psychology, 13*, 99-142. 
-
-Kim, U., & Park, Y. S. (2004). The basis of trust in relationships: Indigenous psychological analysis of adolescents and their parents. *Korean Journal of Psychological and Social Issues, 10(2)*, 103-137.
-
-Kim, U., & Park, Y. S. (2006). Factors influencing academic achievement in relational cultures: The role of self, relational and collective efficacy. In F. Pajares & T. Urdan (Eds.), *Self-efficacy beliefs of adolescents* (pp. 267-286). Information Age Publishing. 
-
-Kim, U., & Park, Y. S. (2008). Cognitive, relational and social basis of academic achievement in Confucian cultures: Psychological, indigenous and cultural perspectives. In R. Sorrentino and S. Yamaguchi (Eds.), *Handbook of Motivation and Cognition across Cultures* (pp. 491-515). Elviser.
-
-Kim, U., & Park, Y. S. (2013). The conception of self in Korea: Indigenous, cultural and psychological analysis. *Korean Social Sciences Review, 3(1)*, 289-334. 
-
-Kim, U., & Kim, J. (2022). Economic development, sociocultural change and quality of life in Korea: Analysis of three generations growing up in Colonial, industrial and Digital age. *Psychology and Developing Societies*, *34*(2), 200--239. Retrieved at: https://doi.org/10.1177/09713336221115550
-
-Kim, U., & Kim, J. (2023). Understanding the software of the mind, self and culture: The scientific foundation of indigenous and cultural psychology. *Psychology and Developing Societie*s, *35(2),* 347-391. Retrieved at: http://dx.doi.org/10.1177/09713336231185203
-
-Kim, U., & Triandis, H. C., Choi, S. C., Kagitcibasi, C., & Yoon, G. (1994). *Individualism and Collectivism: Theory, Method, and Applications*. Newbury Park, CA: Sage.
-
-Kim, U., & Yamaguchi, S. (1995). Conceptual and empirical analysis of *amae*: Exploration into Japanese psycho-social space. Proceedings of the Japanese Group Dynamics 1995 Conference. Tokyo: Japanese Group Dynamics Association
-
-Kim, U., Yang, K. S., & Hwang, K. K. (2006). *Indigenous and cultural psychology: Understanding people in context*. Springer.
-
-King, A. Y. C. (1985). The individual and group in Confucianism: A relational perspective. In D. Munro (Ed.), *Individualism and holism*. Ann Arbor: The University of Michigan Press.
-
-King, A. Y. C., & Bond, M. H. (1985). The Confucian paradigm of man; A sociological view. In W.        T. Tseng, & D. Wu (Eds.), *Chinese Culture and Mental Health*. Academic. 
-
-Leahey, T. H. (1987). *A history of psychology: Main currents in psychological thoughts*. Englewood Cliffs, NJ: Prentice-Hall
-
-Lee, S. H. (1991). *Virtues and rights: Reconstruction of Confucianism as a rational communitarianism.* Unpublished doctoral dissertation, University of Hawaii, Honolulu, Hawaii.
-
-Lew, S. K. (1977). Confucianism and Korean social structure. In C. S. Yu (Ed.), *Korean and Asian religious tradition* (pp.151-172). Toronto: University of Toronto Press.
-
-Lo, C. S. (1949). *Human rights in the Chinese tradition*. Unesco. 
-
-Lynn, R., & Vanhanen, T. (2002) *IQ and the Wealth of Nations*. Westport, Connecticut: Praeger.
-
-Maday, B. C., & Szalay, L. B. (1976). Psychological correlates of family socialization in the United States and Korea. In T. Williams (Ed.), *Psychological Anthropology*. Hague: Mouton.
-
-Mayr, E. (1982), *[The growth of biological thought](https://en.wikipedia.org/wiki/The_Growth_of_Biological_Thought "The Growth of Biological Thought")*. Cambridge, MA: Harvard University Press.
-
-Mencius (2004). *Mencius, Revised Edition*. Translated by D. C. Lau. Penguin Books.
-
-Miller, J. G. (1984). Culture and the development of everyday social explanation. *Journal of Personality and Social Psychology, 46,* 961-978. Retrieved at: http://dx.doi.org/10.1037/0022-3514.46.5.961
-
-Mithen, S. (2007). The network of brain, body, language, and culture. In W. Henke & I. Tattesall (Eds.), *Handbook of Paleoanthropology, Volume 3* (pp. 1965-2000). Springer.
-
-Munro, D. (1985). *Individualism and holism: Studies in Confucian and Taoist values*. Michigan University Press.
-
-O'Connell, J. F., Hawkes, K., & Blurton-Jones, N. G. (1999). Grandmothering and the evolution of the Homo erectus. *Journal of Human Evolution*, *36*, 461-485. https://doi.org/10.1006/jhev.1998.0285
-
-Park, Y. S., Kim, U., & Chung, K. (2004). Longitudinal analysis of the influence of parent-child relationship on adolescents' academic achievement: With specific focus on the mediating role of self-efficacy and achievement motivation. *Korean Psychological Journal of Culture and Social Issues, 10 (3)*, 37-59.
-
-Park, Y. S., Kim, U., & Shin, Y. Y. (2011). Indigenous psychological analysis of perception of filial piety and its influence on life-satisfaction: With specific focus on parents of elementary school, middle school, high school and university students. *Korean Journal of Educational Research, 49*, 87-120. 
-
-Polanyi, M. (1968). Logic and psychology*. American Psychologist, 23*, 27‑43. https://psycnet.apa.org/doi/10.1037/h0037692
-
-Popper, K. R. (1976). The poverty of historicism. In J. O'Neill (Ed.), *Modes of individualism and collectivism*. Heinemann.
-
-Rosen, E. (2004/1939). *Three Copernican Treatises* (Second Edition, revised ed.). Dover Publications. 
-
-Rothbaum, F., Weisz, J., Pott, M., Miyake, K., & Morelli, G. (2000). Attachment and culture: Security in the United States and Japan. *American Psychologist, 55(10)*, 1093--1104. Retrieved at: https://psycnet.apa.org/doi/10.1037/0003-066X.55.10.1093
-
-Sampson, E. E. (1978). Scientific paradigms and social values: Wanted‑ A scientific revolution. *Journal of Personality and Social Psychology, 36*, 1332‑1343. Retrieved at: https://psycnet.apa.org/doi/10.1037/0022-3514.36.11.1332
-
-Sandel, M. (1982). *Liberalism and the limits of justice*. Cambridge: Cambridge University Press. 
-
-Scanlon, T. (1978). Rights, goals, and fairness. In S. Hampshire (Ed.), *Public and private morality*. Cambridge: Cambridge University Press.
-
-Schwartz, S. H. (1994). Cultural Dimensions of Values: Toward an Understanding of National Differences. In U. Kim, H. C. Triandis, C. Kagitcibasi, S. C. Choi, & G. Yoon (Eds.), *Individualism and collectivism: Theory, Method, and Application*. Thousand Oaks, CA: Sage Publication.
-
-Shweder, R. A. & Bourne, E. J. (1984). Does the concept of the person vary cross-culturally? In R. A. Shweder, & R. A LeVine (Eds.). *Culture theory: Essays on mind, self and emotion* (pp. 158-199). Cambridge: Cambridge University Press.
-
-Siegel, D. (2010). *Mindsight: The New Science of Personal Transformations*. Bantum Books.
-
-Sinha, D., & Tripathi, R. (1994). Individualism in a collectivist culture: A case of coexistence of dichotomies. To appear in U. Kim, H. C. Triandis, C. Kagitcibasi, S. C. Choi, & G. Yoon (Eds.), *Individualism and collectivism: Theory, Method, and Application* (p.123-134)*.* Sage. 
-
-Smith, A. (1776). *An Inquiry into the Nature and Causes of the Wealth of Nations*. W. Strahan and T. Cadell
-
-Snowdon, D. (2012). *Aging with grace: The Nun Study and the science of old age. How we can all live longer, healthier and more vital lives*. Penguin Random House.
-
-Statistics Korea (2019, 2022, 2023). Government of Korea. <https://kostat.go.kr/anse/>
-
-Suomi, S. J. & Leroy, H. A. (1982). "In memoriam: Harry F. Harlow (1905--1981)". *American Journal of Primatology. 2 (4),* 319--342. Retrieved at: https://doi.org/10.1002/ajp.1350020402
-
-Taylor, C. (1985). *Philosophy and the human sciences: Philosophical papers, Volume II*. Cambridge: Cambridge University Press. 
-
-The European Convention of human rights. (1987). In J. W. Nickel (Ed.), *Making sense of human rights*. Berkeley: University of California Press. 
-
-Toth, N., & Schick, K. (2007). Overview of Paleolithic archeology. In W. Henke & I. Tattesall (Eds.), *Handbook of Paleoanthropology, Volume 3* (pp. 1943-1964). Springer. Retrieved at: http://dx.doi.org/10.1007/978-3-540-33761-4_64
-
-Valliant, G. (2015). *Triumphs of experience: The men of the Harvard Grant Study*. Harvard University Press.
-
-Vernon, P. E. (1982). *The abilities and achievements of Orientals in North America*. New York: Academic.
-
-Waldinger, R., & Schulz, M. (2023). *The good life: Lessons from the longest scientific study of happiness*. Simon and Schuster. 
-
-Wells, S. (2002). *The journey of man: A genetic odyssey*. Princeton, NJ: Princeton University Press.
-
-Wirth, L. (1946). Preface to K. Manheim, *Ideology and Utopia: An Introduction to Sociology of Knowledge*. Harcourt, Brace and Company.
-
-Yamaguchi, S., & Ariizumi, Y. (2006). Close personal relationships among Japanese: Amae as distinguished from attachment and dependence. In, U. Kim, K. S. Yang, & K. K. Hwang (Eds.), *Indigenous and cultural psychology: Understanding people in context* (pp. 163-174). Springer.
-
-## Footnotes:
-
-[^1]:
-
-To communicate to a transdisciplinary audience, I have used a conversation style reducing the technical terminology and excessive referencing. To aid in understanding of the phenomenology and context, I have used figures, diagrams, paintings, and photos. These photos, paintings, and diagrams have been accessed from the public domain (e.g., wikipedia.org) and old photos and paintings that are not copyrighted). Parts of this are based on Kim and Kim (1995, 1999, 2001; Kim & Kim; 2022, 2023) articles.
-
-[^2]:
-
-https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/
-
-[^3]: 
-
-https://www.npr.org/sections/13.7/2018/03/14/593156411/the-universe-according-to-albert-einstein-relativity#:~:text=Einstein
-
-[^4]: 
-
-https://www.hawking.org.uk/in-words/lectures/does-god-play-dice
-
-[^5]: 
-
-https://en.wikipedia.org/wiki/Rose_is_a_rose_is_a_rose_is_a_rose
-
-[^6]:
-
-Https://www.amnh.org/exhibitions/permanent/human-origins/
-
-[^7]: 
-
-https://www.nationalgeographic.com/animals/mammals/facts/bonobos
-
-[^8]:
-
-https://gwtoday.gwu.edu/bonobos-may-resemble-humans-more-you-think
-
-[^9]: 
-
-https://www.health.harvard.edu/mind-and-mood/oxytocin-the-love-hormone
-
-[^10]: 
-
-On a personal note, prior to my family's immigration to Canada at the age of 9, I was administered the Korean version of WISC IQ test, and I had a very high score. When I arrived in Canada, I was administered the English version, and my IQ went down by 50 points. I was assigned to a remedial class and learn English with children with mental and physical disabilities. It is hard to believe that my IQ could go down more than 40% by getting on a plane and arriving in Canada. It is fortunate that I did very well in mathematics or else I would be viewed as having an intellectual deficit.
-
-[^11]: 
-
-On a personal note, I was interviewed by Fred Rothbaum prior to their publication of their article on *amae* since he knew that I was teaching at University of Tokyo and collected data on *amae*. He also interviewed Susumu Yamaguchi, University of Tokyo. We were both shocked and appalled when we read the article. It is clear that he did not understand the indigenous concept of *amae* and Japanese culture but decided to draw the conclusion to fit the American individualistic bias.  
-
-[^12]:
-
-See for instance, Henke & Tattersall (2007), Siegal (2010), and Hüther (2016).
-
-[^13]:
-
-https://www.nytimes.com/2003/11/30/magazine/the-guts-of-a-new-machine.html
-
-[^14]:
-
-https://en.wikipedia.org/wiki/Isaac_Newton
-
-[^15]:
-
-https://en.wikipedia.org/wiki/Health_of_Vincent_van_Gogh
-
-[^16]:
-
-https://www.amnh.org/exhibitions/permanent/human-origins/
-
-[^17]:
-
-https://www.genome.gov/human-genome-project
-
-[^18]:
-
-https://www.smithsonianmag.com/science-nature/bonobos-teach-humans-about-nature-language-180975191/
-
-[^19]:
-
-https://countryeconomy.com/demography/world-happiness-index/south-korea
-
-[^20]:
-
-https://nces.ed.gov/timss/
-
-[^21]:
-
-https://www.oecd.org/pisa/publications/pisa-2018-results.htm
-
-[^22]:
-
-www.inews24.com/view/1407279
-
-[^23]:
-
-http://theviewers.co.kr/View.aspx?No=1627553
-
-[^24]:
-
-The European Union passed the Digital Services Act (DSA) that took effect on February 17, 2024. The goal is to protect "consumers and their fundamental rights online by setting clear and proportionate rules. It fosters innovation, growth and competitiveness, and facilitates the scaling up of smaller platforms, SMEs and start-ups. The roles of users, platforms, and public authorities are rebalanced according to European values, placing citizens at the centre." The DSA "regulates online intermediaries and platforms such as marketplaces, social networks, content-sharing platforms, app stores, and online travel and accommodation platforms. Its main goal is to prevent illegal and harmful activities online and the spread of disinformation. It ensures user safety, protects fundamental rights, and creates a fair and open online platform environment." It is the first attempt to systematically regulates online platform and we need to examine if the regulation is effective, whether it will stand the legal challenges, and whether the USA will apply sanctions against EU since the vast majority of the online platforms are dominated by the USA companies. https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act.
-
-[^25]:
-
-https://www.politifact.com/factchecks/2019/mar/22/facebook-posts/no-albert-einstein-did-not-say-technology-would-cr/
 
 ## Annex 1
 
 **Scales used for empirical studies: Self-efficacy, leadership efficacy, social and online support, happiness, and work values** 
 
-![](/static/annex1.png)
+![](/annex1.png)
 
-![](/static/annex2.png)
+![](/annex2.png)
 
-![](/static/annex3.png)
+![](/annex3.png)
 
-![](/static/annex4.png)
+![](/annex4.png)
 
-![](/static/annex5.png)
+![](/annex5.png)
 
 Kim, U. & Kim, J. (2021). Unpublished survey questionnaire. College of Business Administration, Inha University, Korea.
+
+
+[^1]:https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/
+
+[^2]:https://www.npr.org/sections/13.7/2018/03/14/593156411/the-universe-according-to-albert-einstein-relativity#:~:text=Einstein
+
+[^3]:https://www.hawking.org.uk/in-words/lectures/does-god-play-dice
+
+[^4]:https://en.wikipedia.org/wiki/Rose_is_a_rose_is_a_rose_is_a_rose
+
+[^5]:https://www.amnh.org/exhibitions/permanent/human-origins/
+
+[^6]:https://www.nationalgeographic.com/animals/mammals/facts/bonobos
+
+[^7]:https://gwtoday.gwu.edu/bonobos-may-resemble-humans-more-you-think
+
+[^8]:https://www.health.harvard.edu/mind-and-mood/oxytocin-the-love-hormone
+
+[^9]:On a personal note, prior to my family's immigration to Canada at the age of 9, I was administered the Korean version of WISC IQ test, and I had a very high score. When I arrived in Canada, I was administered the English version, and my IQ went down by 50 points. I was assigned to a remedial class and learn English with children with mental and physical disabilities. It is hard to believe that my IQ could go down more than 40% by getting on a plane and arriving in Canada. It is fortunate that I did very well in mathematics or else I would be viewed as having an intellectual deficit.
+
+[^10]:On a personal note, I was interviewed by Fred Rothbaum prior to their publication of their article on *amae* since he knew that I was teaching at University of Tokyo and collected data on *amae*. He also interviewed Susumu Yamaguchi, University of Tokyo. We were both shocked and appalled when we read the article. It is clear that he did not understand the indigenous concept of *amae* and Japanese culture but decided to draw the conclusion to fit the American individualistic bias.  
+
+[^11]:See for instance, Henke & Tattersall (2007), Siegal (2010), and Hüther (2016).
+
+[^12]:https://www.nytimes.com/2003/11/30/magazine/the-guts-of-a-new-machine.html
+
+[^13]:https://en.wikipedia.org/wiki/Isaac_Newton
+
+[^14]:https://en.wikipedia.org/wiki/Health_of_Vincent_van_Gogh
+
+[^15]:https://www.amnh.org/exhibitions/permanent/human-origins/
+
+[^16]:https://www.genome.gov/human-genome-project
+
+[^17]:https://www.smithsonianmag.com/science-nature/bonobos-teach-humans-about-nature-language-180975191/
+
+[^18]:https://countryeconomy.com/demography/world-happiness-index/south-korea
+
+[^19]:https://nces.ed.gov/timss/
+
+[^20]:https://www.oecd.org/pisa/publications/pisa-2018-results.htm
+
+[^21]:www.inews24.com/view/1407279
+
+[^22]:http://theviewers.co.kr/View.aspx?No=1627553
+
+[^23]:The European Union passed the Digital Services Act (DSA) that took effect on February 17, 2024. The goal is to protect "consumers and their fundamental rights online by setting clear and proportionate rules. It fosters innovation, growth and competitiveness, and facilitates the scaling up of smaller platforms, SMEs and start-ups. The roles of users, platforms, and public authorities are rebalanced according to European values, placing citizens at the centre." The DSA "regulates online intermediaries and platforms such as marketplaces, social networks, content-sharing platforms, app stores, and online travel and accommodation platforms. Its main goal is to prevent illegal and harmful activities online and the spread of disinformation. It ensures user safety, protects fundamental rights, and creates a fair and open online platform environment." It is the first attempt to systematically regulates online platform and we need to examine if the regulation is effective, whether it will stand the legal challenges, and whether the USA will apply sanctions against EU since the vast majority of the online platforms are dominated by the USA companies. https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act.
+
+[^24]:https://www.politifact.com/factchecks/2019/mar/22/facebook-posts/no-albert-einstein-did-not-say-technology-would-cr/
