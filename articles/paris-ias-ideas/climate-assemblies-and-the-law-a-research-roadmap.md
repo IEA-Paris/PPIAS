@@ -1,6 +1,6 @@
 ---
-published: false
-article_title: "CLIMATE ASSEMBLIES AND THE LAW: A RESEARCH ROADMAP"
+published: true
+article_title: "Climate assemblies and the law: a research roadmap"
 date: 2024-12-11T17:12:00.000Z
 type: proceedings
 needDOI: false
@@ -9,7 +9,7 @@ authors:
     firstname: "Leslie-Anne "
     lastname: Duvic-Paoli
     positions_and_institutions:
-      - institution: The Dickson Poon School of Law, King’s College London
+      - institution: "The Dickson Poon School of Law, King’s College London"
         positions: []
     social_channels:
       website: ""
@@ -38,7 +38,7 @@ abstract: "The article is interested in the relationship between citizens’
   better understanding their object of study."
 issue: content/issues/paris-ias-ideas.md
 highlight: false
-bibliography: /static/duvic-paoli_references.bib
+bibliography: /duvic-paoli_references.bib
 language: English
 ---
 ## **Acknowledgements**
@@ -209,201 +209,3 @@ The objective of this research agenda is not to offer a comprehensive mapping of
 
 Now that the legal dimensions of climate assemblies have been set out, another question arises, namely how to connect with the production of knowledge by other disciplines. Indeed, such a research roadmap is to be integrated within a broader multi-disciplinary research agenda for the social sciences and humanities. Yet, 'it has in the past proved difficult for legal \[environmental] scholarship to make a distinctive impact on high-level interdisciplinary debate' (Little, 2016, p. 65). There are risks of duplicating the work of other disciplines, or of being purely reactive to the actions of others(Little, 2016 p. 69). Identifying the legal dimensions of climate assemblies is an essential first step. It now needs to be followed by further reflection and clarity on how to design and run productive multi-disciplinary projects on climate assemblies.
 
-## **BIBLIOGRAPHY**
-
-Affolder, N. (2019a). Transnational environmental law's missing people. *Transnational Environmental Law, 8*(3), 463-488. <https://doi.org/10.1017/S2047102519000190>
-
-Affolder, N. (2019b). Contagious environmental lawmaking. *Journal of Environmental Law, 31*(2), 187-212. <https://doi.org/10.1093/jel/eqz011>
-
-Andrew, N. (2022). The emotional experience of members of Scotland's Citizens' Assembly on climate change. *Frontiers in Climate, 4*, Article 817166. <https://doi.org/10.3389/fclim.2022.817166>
-
-Andrews, N., et al. (2022). *Scotland's Climate Assembly Research Report - Process, Impact and Assembly Member Experience*. Edinburgh: Scottish Government Research.
-
-Apouey, B., Fourniau, J.-M., & Tournus, S. (2022). Des citoyennes délibératives et des citoyens délibératifs : La Convention citoyenne pour le climat face à la délibération. *Participations, 2022*(3), 37-79.<https://doi.org/10.3917/parti.034.0037>
-
-Armeni, C., & Lee, M. (2021). Participation in a time of climate crisis. *Journal of Law and Society, 48*(4), 549-572. <https://doi.org/10.1111/jols.12320>
-
-Armeni, C. (2023). Can we build public acceptance of socio-ecological transitions through citizens' deliberation? *Confrontations Europe*. Retrieved from https://confrontations.org/can-we-build-public-acceptance-of-socio-ecological-transitions-through-citizens-deliberation/
-
-Austrian Climate Citizens' Assembly (2022). *Klimarat der Bürgerinnen und Bürger Gemeinsam fürs Klima. Das Ziel: Klimaneutralität bis 2040. Die Empfehlungen*. Retrieved from <https://klimarat.org/>
-
-Baïetto, T. (2020, December 9). "C'est à la limite du sabotage" : au sein de la Convention citoyenne pour le climat, les travaux sur le projet de loi ont jeté un froid. *France Info*. Retrived from <https://www.francetvinfo.fr/monde/environnement/convention-citoyenne-sur-le-climat/c-est-a-la-limite-du-sabotage-au-sein-de-la-convention-citoyenne-pour-le-climat-les-travaux-sur-le-projet-de-loi-ont-jete-un-froid_4212005.html>
-
-Blanc, N., & Granchamp, L. (2022). Engagements et processus de politisations au sein de la Convention citoyenne pour le climat. *Participations, 2022*(3), 81-106. <https://doi.org/10.3917/parti.034.0081>
-
-Boswell, J., Dean, R., & Smith, G. (2023). Integrating citizen deliberation into climate governance: Lessons on robust design from six climate assemblies. *Public Administration, 101\*\*(1)*, 182-200. <https://doi.org/10.1111/padm.12883>
-
-Brown, D. A., & Taylor, P. (Eds.). (2015). *Ethics and climate change: A study of national commitments* (IUCN Environmental Policy and Law Paper No. 86). IUCN. <https://doi.org/10.2305/IUCN.CH.2015.EPLP.86.en>
-
-Buge, É. (2020). À la recherche du diamant de Micromégas: Quelques réflexions à propos du Grand débat national et de la Convention citoyenne pour le climat. *Archives de philosophie du droit*, 62, 463-483. <https://doi.org/10.3917/apd.621.0478>
-
-Buge, É. (2022). La Convention citoyenne pour le climat a-t-elle travaillé comme une assemblée parlementaire? *Participations, 2022*(3), 205-235. <https://doi.org/10.3917/parti.034.0205>
-
-Bürgerrat Klima (2021). *Citizens' climate report. Recommendations for German climate policy*. Retrieved from <https://buergerrat-klima.de/content/pdfs/BK_211213_Gutachten_Digital_English.pdf>
-
-Cahillane, L. (2020). Ireland as a learning experience for the Scottish Citizens' Assembly. *Edinburgh Law Review, 24(1),* 95-103. <https://doi.org/10.3366/elr.2020.0604>
-
-Cherry, C. E., Capstick, S., Demski, C., Mellier, C., Stone, L., & Verfuerth, C. (2021). Citizens' climate assemblies: Understanding public deliberation for climate policy. Cardiff: The Centre for Climate Change and Social Transformations.
-
-Clarenne, J. & Jadot, C. (2021). Les outils délibératifs auprès des parlements sous l'angle du droit constitutionnel belge. *Courrier hebdomadaire du CRISP*, 2517-2518, 5-60. <https://doi.org/10.3917/cris.2517.0005>
-
-Climate Assembly UK (2021). *The path to net zero.* Full report. Retrieved from <https://www.climateassembly.uk/report/#:~:text=Climate%20Assembly%20UK's%20report%2C%20The,energy%20use%20in%20the%20home%3B>
-
-Convention Citoyenne pour le Climat. (2020). *Les propositions de la Convention Citoyenne pour le Climat*. Retrieved from <https://propositions.conventioncitoyennepourleclimat.fr/le-rapport-final>. 
-
-Convention Citoyenne pour le Climat. (2021, 4 Nov.). Le message de 51 membres de la Convention citoyenne pour le climat à la COP26 : "Nous savons et vous savez ; et si nous osions ensemble ?", France Info, Retrieved from <https://www.francetvinfo.fr/monde/environnement/cop26/tribune-le-message-de-51-membres-de-la-convention-citoyenne-pour-le-climat-a-la-cop26-nous-savons-et-vous-savez-et-si-nous-osions-ensemble_4831249.html#xtor=CS2-765-%5Bshare%5D->
-
-Courant, D. (2020). Des mini-publics délibératifs pour sauver le climat : Analyses empiriques de l'Assemblée citoyenne irlandaise et de la Convention citoyenne française. *Archives de philosophie du droit*, 62, 485-507. <https://doi.org/10.3917/apd.621.0500>
-
-Courant, D. (2022). Institutionalizing deliberative mini-publics? Issues of legitimacy and power for randomly selected assemblies in political systems. *Critical Policy Studies, 16*(2), 162-180.<https://doi.org/10.1080/19460171.2021.2000453>
-
-Delooz, B. (2020). Challenges and political, institutional, and normative perspectives of the citizens' assemblies: An approach based on the example of the Citizen's Climate Convention. *Brazilian Journal of Public Policy, 10*, 636.
-
-Denmark's citizens' assembly on climate issues (2021). TheCitizens' Assembly's recommendations, First gathering. Retrieved from <https://www.en.kefm.dk/Media/637647201779892262/Borgertingets%20anbefalinger_ENG.pdf>
-
-Denmark's citizens' assembly on climate issues (2022). The Citizens' Assembly's recommendations, Second gathering. Retrieved from <https://www.en.kefm.dk/Media/638100734644085274/Recommendations%20of%20the%20Citizens'%20Assembly%20Second%20Gathering.pdf>
-
-Devaney, L., Torney, D., Brereton, P., & Coleman, M. (2020). Ireland's Citizens' Assembly on Climate Change: Lessons for deliberative public engagement and communication. *Environmental Communication, 14*(2), 141-146. <https://doi.org/10.1080/17524032.2019.1708429>
-
-Duffy-Meunier, A., & Paris, M.-L. (2022). Quelles règles de fonctionnement pour les assemblées citoyennes ?. In M. Fatin-Rouge Stefanini & X. Magnon (éds.), *Les assemblées citoyennes*. DICE Éditions. https://doi.org/10.4000/books.dice.10555
-
-Duvic-Paoli, L.-A. (2022). Re-imagining the making of climate law and policy in citizens' assemblies. *Transnational Environmental Law, 11*(2), 235--261. <https://doi.org/10.1017/S2047102521000339>
-
-Duvic-Paoli, L.-A. (forthcoming). Climate assemblies: Situating a legal experiment. In C. Hilson & J. van Zeben (Eds.), *A Research Agenda for Environmental Law*. Edward Elgar.
-
-Dryzek, J. S. (1990). *Discursive democracy: Politics, policy and political science*. Cambridge: Cambridge University Press. https://doi.org/10.1017/9781139173810
-
-Dryzek, J. S., & Niemeyer, S. (2019). Deliberative democracy and climate governance. *Nature Human Behaviour, 3*(5), 411-413. https://doi.org/10.1038/s41562-019-0591-9
-
-Dryzek, J. S., & Tanasoca, A. (2021). *Democratizing global justice: Deliberating global goals*. Cambridge University Press. https://doi.org/10.1017/9781108954167
-
-Ejsing, M., Veng, A., & Papazu, I. (2023). Green politics beyond the state: Radicalizing the democratic potentials of climate citizens' assemblies. *Climatic Change, 176*(73). <https://doi.org/10.1007/s10584-023-03550-z>
-
-Ehs, Tamara and Katrin Praprotnik. 2023. The Climate Assembly as a 'Mini-Austria'. SocioDemographics, Political Interest, and Attitudes Towards Climate Change". *ConstDelib Working Paper Series, no. 23,* 1-23.
-
-Elstub, S., Carrick, J., Farrell, D. M., & Mockler, P. (2021). The Scope of Climate Assemblies: Lessons from the Climate Assembly UK. *Sustainability, 13*(20), 11272. <https://doi.org/10.3390/su132011272>
-
-Ercan, S. A., Dryzek, J. S., Mansbridge, J., & Warren, M. E. (Eds.). (2022). *Research Methods in Deliberative Democracy*. Oxford University Press. <https://doi.org/10.1093/oso/9780198865691.001.0001>
-
-European Climate Foundation. (2021). *A tale of two citizens' assemblies*. \[Deleted webpage]. On file with the author.
-
-Fatin-Rouge Stefanini, M & Geynet-Dussauze, C. (2022). Droit des assemblées citoyennes. In G. Petit, L. Blondiaux, I. Casillo, J.-M. Fourniau, G. Gourgues, S. Hayat, R. Lefebvre, S. Rui, S. Wojcik, & J. Zetlaoui-Léger (Éds.), *Dictionnaire critique et interdisciplinaire de la Participation*, DicoPart (2ème édition). GIS Démocratie et Participation. Retrieved from https://www.dicopart.fr/droit-des-assemblees-citoyennes-2022
-
-Fleury, M. (2020). La Convention citoyenne pour le climat: renouvellement du mode de gouvernement de la politique climatique. In C. Cournil (Ed.), *La fabrique d'un droit climatique au service de la trajectoire "1.5'"*. Pedone
-
-Fleury, M. (2022). Des citoyens pour relever le défi du changement climatique, est-ce vraiment sérieux? *Cahiers Droit, Sciences & Technologies, 14*. <https://doi.org/10.4000/cdst.6104>
-
-France. (2021). *Loi n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets*, NOR:TREX2100379L. Retrieved from <https://www.legifrance.gouv.fr/texte> 
-
-Fraty G. (2021). *Moi, citoyen. L'aventure de la Convention citoyenne pour le Climat vue de l'intérieur*. First.
-
-Fourniau, J.-M. (2022). Gouverner une assemblée citoyenne: Le rôle du Comité de gouvernance de la Convention citoyenne pour le climat. *Participations, 34\*\*(3)*, 139-171. [\
-https://doi.org/10.3917/parti.034.0139](https://doi.org/10.3917/parti.034.0139)
-
-Galván Labrador, A., & Zografos, C. (2023). Empowerment and disempowerment in climate assemblies: The French citizens' convention on climate. *Environmental Policy and Governance*. Advance online publication. <https://doi.org/10.1002/eet.2093>
-
-Giraudet, L. G., et al. (2022). Co-construction in deliberative democracy: Lessons from the French Citizens' Convention for Climate. *Humanities and Social Sciences Communications, 9*, 207. <https://doi.org/10.1057/s41599-022-01212-6>
-
-Girard, C. (2021). *Lessons from the French Citizens' Climate Convention: On the role and legitimacy of citizens' assemblies. \*\*Retrieved from* https://verfassungsblog.de/lessons-from-the-french-citizens-climate-convention/, https://doi.org/[10.17176/20210729-020225-0](https://dx.doi.org/10.17176/20210729-020225-0).
-
-Goodin, R. E. (1996). Enfranchising the earth and its alternatives. *Political Studies, 44*(5), 835-849. <https://doi.org/10.1111/j.1467-9248.1996.tb00337.x>
-
-Gouvernement du Grand-Duché de Luxembourg, Klima-Biergerrot. (2022). *Rapport final*. Retrieved from <https://gouvernement.lu/fr/publications/rapport-etude-analyse/klima-biergerrot.html>
-
-Green, F. (2017). The normative foundations of climate legislation. In A. Averchenkova, S. Fankhauser, & M. Nachmany (Eds.), *Trends in Climate Change Legislation* (pp. 85--107). Edward Elgar Publishing.
-
-Harris, C. (2021). Looking to the future? Including children, young people and future generations in deliberations on climate action: Ireland's Citizens' Assembly 2016--2018. *Innovation: The European Journal of Social Science Research*. Advance online publication. https://doi.org/10.1080/13511610.2021.1968356
-
-Hedary, D. (2023). The Citizens' Climate Convention: A new approach to participatory democracy, and its effectiveness on changing public policy. *French Yearbook of Public Law\*\*, 1*, 271.
-
-Hennig, B., Gill, N., & Lord, T. (2024). Can we do inclusive politics in urgent times? Innovation: The European Journal of Social Science Research, 1--12. <https://doi.org/10.1080/13511610.2024.2332229>
-
-Hughes, L., & Urpelainen, J. (2015). Interests, institutions, and climate policy: Explaining the choice of policy instruments for the energy sector. *Environmental Science & Policy, 54*, 52-63. <https://doi.org/10.1016/j.envsci.2015.06.014>
-
-IASS Potsdam. (2021, April 29). Interview: IASS expert to advise citizens' assembly on climate. Retrieved May 25, 2022, from <https://www.iass-potsdam.de/en/news/iass-expert-advise-citizens-assembly-climate>
-
-Kainuma, M., Mori, H., Mikami, N., et al. (2024). Establishing the use of climate citizens' assemblies in Japan: Their significance and challenges. *Sustainability Science, 19*(1), 89-97. <https://doi.org/10.1007/s11625-023-01389-y>
-
-King, M., & Wilson, R. (2022). Local government and democratic innovations: Reflections on the case of citizen assemblies on climate change. *Public Money & Management*, *43*(1), 73-76. <https://doi.org/10.1080/09540962.2022.2033462>
-
-Knops, L., & Vrydagh, J. (2023). Between hopes and systemic unsustainability: An analysis of citizens' assemblies' potential on climate change. In M. Reuchamps, J. Vrydagh, & Y. Welp (Eds.), *De Gruyter handbook of citizens' assemblies* (pp. 211-226). De Gruyter. <https://doi.org/10.1515/9783110758269>
-
-Kulha, K., Leino, M., Setälä, M., Jäske, M., & Himmelroos, S. (2021). For the sake of the future: Can democratic deliberation help thinking and caring about future generations? *Sustainability, 13*(5487). <https://doi.org/10.3390/su13105487>
-
-Landemore, H. (2020). *Open democracy: Reinventing popular rule for the twenty-first century*. Princeton University Press.
-
-Landemore, H., & Fourniau, J.-M. (2022). Citizens' assemblies, a new form of democratic representation? *Participations, 34*(3), 5**\-**36.<https://doi.org/10.3917/parti.034.0005>
-
-Levy, R., Kong, H., Orr, G., & King, J. (Eds.). (2018). *The Cambridge handbook of deliberative constitutionalism*. Cambridge University Press. <https://doi.org/10.1017/9781108289474>
-
-Lewis, P., Ainscough, J., & Coxcoon, R. et al. (2023). The messy politics of local climate assemblies. *Climatic Change, 176*(76). <https://doi.org/10.1007/s10584-023-03555-8>
-
-Little, G. (2016). Developing environmental law scholarship: going beyond the legal space. *Legal Studies*, 36(1), 48-74. <https://doi.org/10.1111/lest.12093>
-
-Machin, A. (2023). Democracy, agony, and rupture: A critique of climate citizens' assemblies. *Politische Vierteljahresschrift, 64*, 845-864. <https://doi.org/10.1007/s11615-023-00455-5>
-
-Maia, R. C. M. (2023). Citizens' assemblies and communication studies. In M. Reuchamps, J. Vrydagh, & Y. Welp (Eds.), *De Gruyter handbook of citizens' assemblies* (pp. 365-378). De Gruyter. 
-
-Morio, C. (2020). Quel modèle de participation dans les projets de réforme institutionnelle ?. *Archives de philosophie du droit*, *62*, 439-462. <https://doi.org/10.3917/apd.621.0454>
-
-Niemeyer, S. (2019). Deliberation and ecological democracy: from citizen to global system. *Journal of Environmental Policy & Planning*, *22*(1), 16-29. <https://doi.org/10.1080/1523908X.2019.1661232>
-
-Nikolaidis-Lefrançois, C.-E. (2022). La Convention citoyenne pour le climat. In M. Fatin-Rouge Stefanini & X. Magnon (Eds.), *Les assemblées citoyennes* (pp. 271-287). DICE Éditions. <https://doi.org/10.4000/books.dice.10615>
-
-OECD (2020). *Innovative citizen participation and new democratic institutions: Catching the deliberative wave*, OECD Publishing, Paris, <https://doi.org/10.1787/339306da-en>
-
-OECD (2021). *Evaluation guidelines for representative deliberative processes*, OECD Publishing, Paris, <https://doi.org/10.1787/10ccbfcb-en>.
-
-Oross, D., Mátyás, E., & Gherghina, S. (2021). Sustainability and politics: Explaining the emergence of the 2020 Budapest Climate Assembly. *Sustainability, 13,* 6100. <https://doi.org/10.3390/su13116100>
-
-Pal, M. (2012). The promise and limits of citizens' assemblies: Deliberation, institutions and the law of democracy. *Queen's Law Journal, 38*(1), 1**\-**36.
-
-Paulis, E., Kies, R., & Verhasselt, L. (2024). *Evaluation report of the 2022 Luxembourg Climate Citizens' Assembly (Klima Biergerrot - KBR)*. University of Luxembourg/PLDP. <https://doi.org/10.5281/zenodo.10720487>
-
-Pech, T. (2021). *Le Parlement des citoyens*. *La convention citoyenne pour le climat*. Seuil.
-
-Plaza, C. (2022). La emergencia de asambleas ciudadanas de cambio climático en la Unión Europea: El caso de España. *Revista Brasileira de Estudos Políticos, 124*, 45**\-**76. https://doi.org/10.9732/2022.V124.979
-
-Radiguet, R. (2020). La parole citoyenne pour le climat: Quand la fabrique des normes climatiques se veut citoyenne. In O. Desaulnay (Ed.), *La parole en droit public* (pp. 81-98). L'épitoges-Lextenso.
-
-Reber, B. (2020). Précautions et innovations démocratiques. *Archives de philosophie du droit*, 62, 399**\-**425. <https://doi.org/10.3917/apd.621.0414>
-
-Reuchamps, M., Vrydagh, J., & Welp, Y. (2023). *De Gruyter Handbook of Citizens' Assemblies*. De Gruyter. <https://doi.org/10.1515/9783110758269>
-
-Richards, K., & van Zeben, J. (2020). Introduction: Instruments for environmental policy. In K. Richards & J. van Zeben (Ed.), *Policy Instruments in Environmental Law\*\* (*pp. 1-13). Edward Elgar. 
-
-Robbennolt, J. K. (2005). Evaluating juries by comparison to judges: A benchmark for judging? *Florida State University Law Review, 32*, 469.
-
-Ross, A., Van Alstine, J., Cotton, M., & Middlemiss, L. (2021). Deliberative democracy and environmental justice: Evaluating the role of citizens' juries in urban climate governance. *Local Environment, 26*(12), 1512**\-**1531. <https://doi.org/10.1080/13549839.2021.1990235>
-
-Rousseau, D. (2020). Conceptualiser la compétence normative des citoyens. *Archives de philosophie du droit*, 62, 427**\-**438. <https://doi.org/10.3917/apd.621.0442>
-
-Sales, E. (2017). La transformation de l'écriture de la Constitution, l'exemple islandais. *Les Nouveaux Cahiers du Conseil constitutionnel, 57*, 45**\-**58.
-
-Sandover, R., Moseley, A., & Devine-Wright, P. (2021). Contrasting Views of Citizens' Assemblies: Stakeholder Perceptions of Public Deliberation on Climate Change. *Politics and Governance, 9*(2), 76**\-**86. <https://doi.org/10.17645/pag.v9i2.4019>
-
-Schlütermann, T. (2024). *Ergänzungsimpulse zur repräsentativen Demokratie. Ein deutsch-französischer Verfassungsvergleich*. Mohr Siebeck.
-
-Scotford, E. (2021). Legislation and the stress of environmental problems. *Current Legal Problems, 74*(1), 299**\-**334. <https://doi.org/10.1093/clp/cuab010>
-
-Scotland's Climate Assembly (2021). *Recommendations for Action*. Retrieved from [https://webarchive.nrscotland.gov.uk/20220405135322/https://www.climateassembly.scot/full-report](https://webarchive.nrscotland.gov.uk/20220405135322/https:/www.climateassembly.scot/full-report)
-
-Smith, G. (2022). La Convention citoyenne pour le climat : un dispositif hors norme parmi les assemblées citoyennes sur le climat ?. *Participations, 34*, 261**\-**281. <https://doi.org/10.3917/parti.034.0261>
-
-Smith, G. (2023). Climate assemblies: emerging trends, challenges and opportunities. A report of the Knowledge Network on Climate Assemblies. Retrieved from <https://www.knoca.eu/current-trends/climate-assemblies-emerging-trends-challenges-and-opportunities>
-
-Stack, S., & Griessler, E. (2022). From a "half full or half empty glass" to "definitely a success": Explorative comparison of impacts of climate assemblies in Ireland, France, Germany and Scotland. *IHS Working Paper* (39).
-
-Stirn, N. (2021). Le nouvel élan participatif de la Convention citoyenne pour le climat et ses répercussions sur la procédure de révision de la Constitution. *Revue française de droit constitutionnel, 127*(3), 147-173. <https://doi.org/10.3917/rfdc.127.0147>
-
-Tilikete, S. (2022). Une participation entre technique et politique: Typologie des mesures de la Convention citoyenne pour le climat. *Participations, 34*(3), 107**\-**137. <https://doi.org/10.3917/parti.034.0107>
-
-Torney, D. (2021). Deliberative mini‐publics and the European Green Deal in turbulent times: The Irish and French climate assemblies. *Politics and Governance, 9*(3), 380**\-**390. <https://doi.org/10.17645/pag.v9i3.4398>
-
-Vrydagh, J. (2023). Citizens' assemblies: An introduction. In M. Reuchamps, J. Vrydagh, & Y. Welp (Eds.), *Handbook of citizens' assemblies*. De Gruyter.
-
-Wells, R. (2022). Citizens' assemblies and juries on climate change: Lessons from their use in practice. In C. Howarth et al. (Eds.), *Addressing the Climate Crisis* (pp. 119-128). <https://doi.org/10.1007/978-3-030-79739-3_11>
-
-Wells, R., Howarth, C., & Brand-Correa, L. I. (2022). Are citizen juries and assemblies on climate change driving democratic climate policymaking? An exploration of two case studies in the United Kingdom. *Climatic Change, 168*, 5. <https://doi.org/10.1007/s10584-021-03218-6>
-
-Willis, R., Curato, N., & Smith, G. (2022). Deliberative democracy and the climate crisis. *WIREs Climate Change, 13*(2), 759. <https://doi.org/10.1002/wcc.759>
