@@ -18,9 +18,9 @@ abstract: >-
 article_title: >-
   Cicourel’s sociological style "dans les marges": When the personal meets the professional
 authors:
-  - firstname: Dafne Muntanyola
+  - firstname: Dafne
     is_institution: false
-    lastname: Saura
+    lastname: Muntanyola Saura
     picture: ''
     picture_copyright: ''
     positions_and_institutions:

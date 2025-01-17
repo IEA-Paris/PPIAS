@@ -61,7 +61,7 @@ Traces of the human quest for displacement and distraction, go far back in mode
 
 **Figure 1: Indigenous Intoxicants Worldwide**
 
-![](/picture1.png)
+![](/rochatpicture1.png)
 
 *(from LAPHAM'S Quarterly, vol. 6, Number 1, Winter 2013" Intoxication", pp. 10-11)*
 

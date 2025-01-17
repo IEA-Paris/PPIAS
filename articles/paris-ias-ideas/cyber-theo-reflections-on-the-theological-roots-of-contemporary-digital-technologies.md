@@ -20,9 +20,7 @@ abstract: >-
   haptic icons, representation and presence, bilocation, resurrection, divine
   vision, free will, creation out of nothing, will be examined in the mirror of
   exemplary case studies selected from the contemporary technoscape.
-article_title: >-
-  Cyber-Theo: Reflections on the theological roots of contemporary digital
-  technologies
+article_title: "Cyber-Theo: Reflections on the theological roots of contemporary digital technologies"
 authors:
   - firstname: Andrea
     is_institution: false
@@ -39,10 +37,9 @@ authors:
       website: ''
       webstwitterite: ''
       wikipedia: ''
-bibliography: /anystyle-5-.bib
 date: 2024-07-04T10:47:00.000Z
-highlight: false
 issue: content/issues/paris-ias-ideas.md
+bibliography: /anystyle-5-.bib
 language: English
 links:
   bucket: https://zenodo.org/api/files/39811f5e-bfb0-4bd1-9c34-b230ff0f3d2b
