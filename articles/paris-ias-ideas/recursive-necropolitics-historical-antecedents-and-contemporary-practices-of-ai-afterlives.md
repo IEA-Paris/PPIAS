@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "Recursive Necropolitics: Historical antecedents and contemporary
   practices of AI afterlives"
 date: 2024-12-07T11:33:00.000Z
@@ -39,7 +39,7 @@ abstract: This article examines the concept of recursive necropolitics in the
   posed by AI's role in shaping our relationship with mortality.
 issue: content/issues/paris-ias-ideas.md
 highlight: false
-bibliography: /static/references_hagerty.bib
+bibliography: /references_hagerty.bib
 language: English
 ---
 ## **Acknowledgements**
@@ -308,128 +308,4 @@ These enchantments reveal how AI technologies perpetuate historical patterns of 
 
 As AI continues to reshape our relationship with mortality, it is crucial to remain mindful of these enchantments and the historical continuities that have shaped current practices. The lessons of the past reveal that death technologies have always been intertwined with societal power structures, and addressing the ethical challenges posed by AI death technologies will require grappling with these enduring dynamics. Simultaneously, we must remain attentive to the novel aspects of these technologies, particularly their adaptive nature and environmental impacts, which introduce new and pressing ethical considerations. By situating AI death technologies within this broader historical and contemporary context, we can develop more nuanced, ethically grounded approaches to their development and use, ensuring that our engagement with mortality in the digital age respects human dignity, promotes equity, and considers long-term sustainability.
 
-## Bibliography
-
-Alvarez, A. (1985). *The savage god: A study of suicide*. Norton. (Original work published 1971)
-
-Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2022). Machine bias. In *Ethics of data and analytics* (pp. 254-264). Auerbach Publications.
-
-Ballestriero, R. (2010). Anatomical models and wax Venuses: Art masterpieces or scientific craft works? *Journal of Anatomy, 216*(2), 223--234.
-
-Bao, A., & Zeng, Y. (2024). Embracing grief in the age of deathbots: a temporary tool, not a permanent solution. *Ethics and Information Technology*, *26*(1), 7.
-
-Bates, A. W. (2006). Dr Kahn's Museum: Obscene anatomy in Victorian London. *Journal of the Royal Society of Medicine, 99*(12), 618--624.
-
-Bates, A. W. (2008). 'Indecent and demoralising representations': Public anatomy museums in mid-Victorian England. *Medical History, 52*(1), 1--22.
-
-Bates, W. H. (2016). Anatomy on trial: Itinerant anatomy museums in mid nineteenth-century England. *Museum History Journal, 9*(2), 188-204.
-
-Benjamin, W. (2008). *The work of art in the age of its technological reproducibility, and other writings on media* (M. W. Jennings, Ed.; H. Eiland, & E. Jephcott, Trans.). Harvard University Press. (Original work published 1936)
-
-Benjamin, R. (2019). *Race after technology: Abolitionist tools for the new Jim code*. Polity Press.
-
-Berger, J. (2008). *Ways of seeing*. Penguin UK.
-
-Bertherat, B. (2005). La mort en vitrine à la Morgue à Paris au XIXe siècle (1804--1907). In *Les Narrations de la mort* (pp. 181--196).
-
-Birhane, A. (2021). Algorithmic injustice: A relational ethics approach. *Patterns, 2*(2).
-
-Boswell, M., & Rowland, A. (2023). *Virtual Holocaust Memory*. Oxford University Press.
-
-Bronfen, E. (1992). *Over her dead body: Death, femininity, and the aesthetic*. Manchester University Press.
-
-Chesney, R., & Citron, D. (2019). Deep fakes: A looming challenge for privacy, democracy, and national security. *California Law Review, 107*, 1753--1819.
-
-Crawford, K. (2021). *The Atlas of AI: Power, politics, and the planetary costs of artificial intelligence*. Yale University Press.
-
-Debord, G. (1994). *The society of the spectacle*. Zone Books. (Original work published 1967)
-
-Eubanks, V. (2018). *Automating inequality: How high-tech tools profile, police, and punish the poor*. St. Martin's Press.
-
-Fabry, R. E., & Alfano, M. (2024). The affective scaffolding of grief in the digital age: The case of deathbots. *Topoi, 43*(3), 757--769.
-
-Farid, H. (2022). Creating, using, misusing, and detecting deep fakes. *Journal of Online Trust and Safety*, *1*(4).
-
-Foucault, M. (2004). *The birth of the clinic: An archaeology of medical perception* (A. M. Sheridan, Trans.). Routledge. (Original work published 1973)
-
-Foucault, M. (2003). *Society must be defended: Lectures at the Collège de France, 1975--1976* (D. Macey, Trans.). Picador.
-
-Gray, M. L., & Suri, S. (2019). *Ghost work: How to stop Silicon Valley from building a new global underclass*. Eamon Dolan Books.
-
-Hamraie, A., & Fritsch, K. (2019). Crip technoscience manifesto. *Catalyst: Feminism, Theory, Technoscience, 5*(1), 1-33.
-
-Harbinja, E. (2017). Post-mortem privacy 2.0: Theory, law, and technology. *International Review of Law, Computers & Technology, 31*(1), 26--42.
-
-HereAfter AI. (n.d.). Interactive memory app --- Try free. Retrieved July 30, 2023, from <https://hereafter.ai/>
-
-Hollanek, T., & Nowaczyk-Basińska, K. (2024). Griefbots, deadbots, postmortem avatars: On responsible applications of generative AI in the digital afterlife industry. *Philosophy & Technology, 37*
-
-Hopwood, N. (2007). Artist versus anatomist, models against dissection: Paul Zeiller of Munich and the revolution of 1848. *Medical History, 51*(3), 279--308. 
-
-Jiménez-Alonso, B., & Brescó de Luna, I. (2023). Griefbots. A new way of communicating with the dead? *Integrative Psychological and Behavioral Science, 57*(2), 466--481.
-
-Kneese, T. (2023). *Death glitch: How techno-solutionism fails us in this life and beyond*. Yale University Press.
-
-Kotek, H., Dockum, R., & Sun, D. (2023, November). Gender bias and stereotypes in large language models. In *Proceedings of the ACM collective intelligence conference* (pp. 12-24).
-
-Krueger, J., & Osler, L. (2022). Communing with the dead online: Chatbots, grief, and continuing bonds. *Journal of Consciousness Studies, 29*(9--10), 222--252.
-
-Laffier, J., & Rehman, A. (2023). Deepfakes and Harm to Women. *Journal of Digital Life and Learning*, *3*(1), 1-21.
-
-Latour, B. (2005). *Reassembling the social: An introduction to actor-network theory*. Oxford University Press.
-
-Latour, B., & Lowe, A. (2011). The migration of the aura: Exploring the original through its facsimiles. In T. R. Guest (Ed.), *The exhibitionist* (pp. 32-48). MIT Press.
-
-Mbembe, A. (2003). Necropolitics. *Public Culture, 15*(1), 11--40. 
-
-McQuillan, D. (2022). *Resisting AI: An anti-fascist approach to artificial intelligence*. Policy Press.
-
-Meyer, L., & Berthélémy, C. (2024, April 8). The colonial biometric legacy at heart of new EU asylum system. *European Digital Rights (EDRi) Report*.
-
-Noble, S. U. (2018). *Algorithms of oppression: How search engines reinforce racism*. NYU Press.
-
-O'Connor, M., & Kasket, E. (2022). What grief isn't: Dead grief concepts and their digital-age revival. In T. Machin, C. Brownlow, S. Abel, & J. Gilmour (Eds.), *Social media\*\* and technology across the lifespan* (pp. 115--130). Springer International Publishing.
-
-Öhman, C., & Floridi, L. (2018). An ethical framework for the digital afterlife industry. *Nature Human Behaviour, 2*(5), 318--320.
-
-Ozkul, D. (2023). *Automating immigration and asylum: The uses of new technologies in migration and asylum governance in Europe*. Refugee Studies Centre, University of Oxford.
-
-Pawelec, M. (2022). Deepfakes and democracy (theory): How synthetic audio-visual media for disinformation and hate speech threaten core democratic functions. *Digital Society, 1*(2), 19.
-
-Pele, A., & Mulholland, C. (2023). On facial recognition, regulation, and "data necropolitics." *Indiana Journal of Global Legal Studies, 30*, 173.
-
-Pinet, H. (2002). *Le dernier portrait*. Réunion des Musées Nationaux. 
-
-Ricaurte, P. (2022). Ethics for the majority world: AI and the question of violence at scale. *Media, Culture & Society, 44*(4), 726-745.
-
-Rilke, R. M. (1982). *The notebooks of Malte Laurids Brigge*. Oxford University Press. (Original work published 1910)
-
-Rilke, R. M. (2011). *The notebooks of Malte Laurids Brigge: A novel*. Knopf Doubleday Publishing Group.
-
-Risdonne, V., Hubbard, C., López Borges, V. H., & Theodorakopoulos, C. (2022). Materials and techniques for the coating of nineteenth-century plaster casts: A review of historical sources. *Studies in Conservation, 67*(4), 186-208.
-
-Roose, K. (2023, February 16). A conversation with Bing's chatbot left me deeply unsettled. *The New York Times*.
-
-Saliot, A. G. (2015). *The drowned muse: Casting the unknown woman of the Seine across the tides of modernity*. OUP Oxford.
-
-Sappol, M. (2004). *A traffic of dead bodies: Anatomy and embodied social identity in nineteenth-century America*. Princeton University Press.
-
-Shifman, L. (2013). *Memes in digital culture*. MIT Press.
-
-Stein, L., Jenkins, H., Ford, S., Green, J., Booth, P., Busse, K., Click, M., Li, X., & Ross, S. (2014). Spreadable media: Creating value and meaning in a networked culture. *Cinema Journal, 53*(3), 152-177.
-
-Tran, V., & Davies, J. (2023). Revisiting Benjamin's aura in the age of mediatisation: The digital aura of megachurches. *Journal of Media Studies, 37*(4), 112-129.
-
-Verdery, K. (1999). *The political life of dead bodies: Reburial and postsocialist change*. Columbia University Press.
-
-Vita, P. (2003). Returning the look: Victorian writers and the Paris Morgue. *Nineteenth-Century Contexts, 25*(3), 241-255.
-
-Wagner, K., & Blewer, A. (2019). Deepfake porn and the digital divide. *Journal of Gender and Technology, 12*(2), 30-48.
-
-Wall, O. (2022). A privacy torts solution to postmortem deepfakes. *Washington University Law Review, 100*(2), 885--928.
-
-## Footnotes:
-
-[^1]:
-
- I'm grateful to Livia Garofalo for this insight.
+[^1]:I'm grateful to Livia Garofalo for this insight.
