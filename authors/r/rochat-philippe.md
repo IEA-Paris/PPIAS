@@ -1,7 +1,7 @@
 ---
 active: true
 articles:
-  - human-quest-for-rapture-and-ecstasy-1
+  - human-quest-for-rapture-and-ecstasy
 exerpt: ''
 firstname: Philippe
 is_institution: false
