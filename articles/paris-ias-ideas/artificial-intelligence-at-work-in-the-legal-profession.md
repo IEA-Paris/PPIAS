@@ -36,7 +36,7 @@ authors:
       google_scholar: ""
       researchgate: ""
       mendeley: ""
-abstract: "              "
+abstract: "This article investigates the growing application of artificial intelligence (AI) technology in the context of legal practice. After an introduction of three basic approaches to machine learning: 1) supervised learning and classification techniques, 2), unsupervised learning and pattern recognition and 3) reinforcement learning and automated text generation, the article analyses the potential growing use of this technology by legal professionals in various contexts. The article identifies the many different potential uses of AI and discusses these in the context of the classic tripartite scheme used in much legal reasoning: determination of facts, determination of the law, subsumption of fact under the law. The article concludes with a broader reflection on the limitations of AI’s ability to penetrate legal intelligence, and the need for a better understanding of how to harness the technology while harvesting its benefits."
 issue: content/issues/guest_lectures.md
 highlight: false
 bibliography: /references-palmerolsen-larsen.bib
