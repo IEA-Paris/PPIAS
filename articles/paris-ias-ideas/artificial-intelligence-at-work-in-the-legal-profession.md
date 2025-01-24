@@ -3,7 +3,7 @@ published: true
 article_title: Artificial intelligence at work in the legal profession
 date: 2024-10-15T09:14:00.000Z
 type: article
-needDOI: false
+needDOI: true
 authors:
   - is_institution: false
     firstname: Henrik

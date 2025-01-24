@@ -3,7 +3,7 @@ published: true
 article_title: Human Quest for Rapture and Ecstasy
 date: 2024-10-12T17:27:00.000Z
 type: article
-needDOI: false
+needDOI: true
 authors:
   - is_institution: false
     firstname: Philippe

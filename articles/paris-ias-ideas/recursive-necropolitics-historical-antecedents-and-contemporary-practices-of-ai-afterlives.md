@@ -4,7 +4,7 @@ article_title: "Recursive Necropolitics: Historical antecedents and contemporary
   practices of AI afterlives"
 date: 2024-12-07T11:33:00.000Z
 type: proceedings
-needDOI: false
+needDOI: true
 authors:
   - is_institution: false
     firstname: Alexa

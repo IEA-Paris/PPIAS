@@ -3,7 +3,7 @@ published: true
 article_title: "Climate assemblies and the law: a research roadmap"
 date: 2024-12-11T17:12:00.000Z
 type: proceedings
-needDOI: false
+needDOI: true
 authors:
   - is_institution: false
     firstname: "Leslie-Anne "

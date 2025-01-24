@@ -3,7 +3,7 @@ published: true
 article_title: Voluntarism and the Self in Medieval Literature
 date: 2024-10-11T16:40:00.000Z
 type: article
-needDOI: false
+needDOI: true
 authors:
   - is_institution: false
     firstname: Robert

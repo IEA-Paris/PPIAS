@@ -3,7 +3,7 @@ published: true
 article_title: "Informality: A shortcut"
 date: 2024-10-13T09:24:00.000Z
 type: article
-needDOI: false
+needDOI: true
 authors:
   - is_institution: false
     firstname: Alena
@@ -95,7 +95,7 @@ Perspectives on informality that focus on its subversive impact on the [develop
 
 **Table 1. Assumptions about informality vs its [transformative potential](https://www.researchgate.net/publication/341892496_Wrestling_with_Ambiguity_Koans_as_Agents_of_Change_and_their_Application_to_the_Helping_Professions)**
 
-![](/table1.png)
+![](/thumbnail_image001.png)
 
 Overall, to answer the "so what" question, I argue against the simplistic approaches to informality. Academically, there is a need for informality studies that prioritise problem solving and work across existing disciplinary and area studies divisions. To this end, I articulate the *[raison d'etre](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=35)* of informality studies in the third volume of the *Global Encyclopaedia of Informality*. [Drivers](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=46) for change that are undermining and/or transforming the previous paradigm of modernity include: [facing uncertainty](https://www.in-formality.com/wiki/index.php?title=The_raison_d%E2%80%99etre_of_informality_studies:_an_introduction#Facing_uncertainty) arising from the challenges that both nature and nurture have imposed on upon human societies, as well as the emerging intellectual challenges of transcending Western-centric transitional paradigms and balancing out a-historical, state-centric thinking. For example, the workings of patronal or hybrid systems require an entirely different [conceptual framework](https://library.oapen.org/handle/20.500.12657/46598), as opposed to normative approaches. Bringing together research networks focused on a problem-oriented approach is the best-known way of crossing institutional and national borderlines in the history of [informal scientific collaboration](https://discovery.ucl.ac.uk/id/eprint/10187134/1/The-Encyclopaedia-of-Informality-Volume-3.pdf#page=36).
 

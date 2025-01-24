@@ -4,7 +4,7 @@ article_title: How on Earth Can We Work Together?  Five Propositions about
   Collaborating Across Differences
 date: 2024-11-07T10:16:00.000Z
 type: article
-needDOI: false
+needDOI: true
 authors:
   - is_institution: false
     firstname: Adam

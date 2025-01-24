@@ -3,7 +3,7 @@ published: true
 article_title: "Hamlets: commons, communes, and charity in the Western Alps (Biella and Ossola, 16th-19th centuries)"
 date: 2024-10-12T18:35:00.000Z
 type: article
-needDOI: false
+needDOI: true
 authors:
   - is_institution: false
     firstname: Angelo

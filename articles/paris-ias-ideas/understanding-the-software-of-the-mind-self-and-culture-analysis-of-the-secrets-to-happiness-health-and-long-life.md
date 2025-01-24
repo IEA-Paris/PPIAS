@@ -4,7 +4,7 @@ article_title: "Understanding the software of the mind, self, and culture:
   Analysis of the secrets to happiness, health, and long life"
 date: 2024-12-01T08:14:00.000Z
 type: proceedings
-needDOI: false
+needDOI: true
 authors:
   - is_institution: false
     firstname: Uichol
