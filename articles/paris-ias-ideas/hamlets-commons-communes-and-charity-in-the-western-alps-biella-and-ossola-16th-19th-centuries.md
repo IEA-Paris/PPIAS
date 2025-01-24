@@ -1,12 +1,22 @@
 ---
-published: true
-article_title: "Hamlets: commons, communes, and charity in the Western Alps (Biella and Ossola, 16th-19th centuries)"
-date: 2024-10-12T18:35:00.000Z
-type: article
-needDOI: true
+DOI: 10.5281/zenodo.14729757
+Zid: 14729757
+abstract: >-
+  Based on jurisdictional and administrative documentation, the article attempts
+  to define the social, legal and cultural aspects of village hamlets in an area
+  of the Italian Western Alps between the 16th and 19th centuries. The author
+  reads in a morphological key the management of commons, the formation of
+  administrative communes and redistributive activities and identifies some
+  matrices of the singularity of the different local configurations. The history
+  of the peripheries thus reveals a complexity and richness of situations that
+  is extremely useful for resuming the analysis of local government in the
+  current European political crisis.
+article_title: >-
+  Hamlets: commons, communes, and charity in the Western Alps (Biella and
+  Ossola, 16th-19th centuries)
 authors:
-  - is_institution: false
-    firstname: Angelo
+  - firstname: Angelo
+    is_institution: false
     lastname: Torre
     positions_and_institutions:
       - institution: Paris Institute for Advanced Study
@@ -14,28 +24,27 @@ authors:
       - institution: Quaderni storici
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: Based on jurisdictional and administrative documentation, the article
-  attempts to define the social, legal and cultural aspects of village hamlets
-  in an area of the Italian Western Alps between the 16th and 19th centuries.
-  The author reads in a morphological key the management of commons, the
-  formation of administrative communes and redistributive activities and
-  identifies some matrices of the singularity of the different local
-  configurations. The history of the peripheries thus reveals a complexity and
-  richness of situations that is extremely useful for resuming the analysis of
-  local government in the current European political crisis.
-issue: content/issues/paris-ias-ideas.md
-highlight: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /torres_references.bib
+date: 2024-10-12T18:35:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/ec0c6411-2e3b-45ca-996f-edaa9490d5f9
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## Acknowledgements
 
 > This paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program.

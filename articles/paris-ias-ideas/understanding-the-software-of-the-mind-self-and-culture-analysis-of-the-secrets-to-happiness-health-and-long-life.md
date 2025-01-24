@@ -1,37 +1,18 @@
 ---
-published: true
-article_title: "Understanding the software of the mind, self, and culture:
-  Analysis of the secrets to happiness, health, and long life"
-date: 2024-12-01T08:14:00.000Z
-type: proceedings
-needDOI: true
-authors:
-  - is_institution: false
-    firstname: Uichol
-    lastname: Kim
-    positions_and_institutions:
-      - institution: College of Business Administration, Inha University, Korea
-        positions: []
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: "This article examines the software of the mind, self, and culture
-  that can explain the secrets to happiness, health, and long life. First,
-  this article outlines the assumption of objectivity in science, and the
-  importance of understanding the subjective and creative aspects of science.
-  Second, Albert Bandura’s Social Cognitive Theory is introduced, providing the
-  basis of understanding human creativity and software of the mind. He
-  articulates the importance of understanding the precursors to human creativity
-  and action: Intention, forethought, self-reflection, and self-reaction. Third,
-  the understanding of the software of the human mind from the Western
-  perspective is provided. Fourth, the East Asian perspective and Confucianism
-  that emphasize the relatedness and connectedness of the self to others are
+DOI: 10.5281/zenodo.14729763
+Zid: 14729763
+abstract: >-
+  This article examines the software of the mind, self, and culture that can
+  explain the secrets to happiness, health, and long life. First, this article
+  outlines the assumption of objectivity in science, and the importance of
+  understanding the subjective and creative aspects of science. Second, Albert
+  Bandura’s Social Cognitive Theory is introduced, providing the basis of
+  understanding human creativity and software of the mind. He articulates the
+  importance of understanding the precursors to human creativity and action:
+  Intention, forethought, self-reflection, and self-reaction. Third, the
+  understanding of the software of the human mind from the Western perspective
+  is provided. Fourth, the East Asian perspective and Confucianism that
+  emphasize the relatedness and connectedness of the self to others are
   introduced. Fifth, an understanding of how culture is socialized in children
   and the development of the self in East Asia are outlined. Sixth, the
   limitations of the traditional biological models in explaining the software of
@@ -40,12 +21,39 @@ abstract: "This article examines the software of the mind, self, and culture
   and psychological factors explaining the secrets to happiness, health, and
   long life are outlined. Finally, the phenomenology behind the knowledge
   creation and the discovery process and the implications of the digital
-  revolution for the Gen Zs are reviewed."
-issue: content/issues/paris-ias-ideas.md
-highlight: false
+  revolution for the Gen Zs are reviewed.
+article_title: >-
+  Understanding the software of the mind, self, and culture: Analysis of the
+  secrets to happiness, health, and long life
+authors:
+  - firstname: Uichol
+    is_institution: false
+    lastname: Kim
+    positions_and_institutions:
+      - institution: College of Business Administration, Inha University, Korea
+        positions: []
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /references_kim.bib
+date: 2024-12-01T08:14:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/980f0f42-c8ca-43a6-9a41-300a5f5c9bf5
+needDOI: true
+published: true
+type: proceedings
+
 ---
+
 
 >To communicate to a transdisciplinary audience, I have used a conversation style reducing the technical terminology and excessive referencing. To aid in understanding of the phenomenology and context, I have used figures, diagrams, paintings, and photos. These photos, paintings, and diagrams have been accessed from the public domain (e.g., wikipedia.org) and old photos and paintings that are not copyrighted). Parts of this are based on Kim and Kim (1995, 1999, 2001; Kim & Kim; 2022, 2023) articles.
 

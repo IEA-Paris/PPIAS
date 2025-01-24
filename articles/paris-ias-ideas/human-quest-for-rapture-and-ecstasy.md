@@ -1,12 +1,23 @@
 ---
-published: true
+DOI: 10.5281/zenodo.14729753
+Zid: 14729753
+abstract: >-
+  A universal aspect of human psychology is the quest and cultivation of rapture
+  states, the need to stand outside oneself (ecstasy). The question is what may
+  drive the human need to abandon and transcend a default mode of survival to
+  cultivate altered states of consciousness? The idea is to approach this basic
+  question in light of what arguably sets us apart in nature: human
+  self-consciousness and the fact that like no other animals we know that we are
+  going to die. Empirical facts on the nature and developmental origins of human
+  self-consciousness are used to shed a new light on the universal human
+  proclivity toward trance and transcendence, with or without drugs, in practice
+  or in recreation. Such proclivity would rest on the same ultimate drive to
+  escape the default state of rational self-consciousness and the scandal of
+  death: our inescapable, known, yet inconceivable reality.
 article_title: Human Quest for Rapture and Ecstasy
-date: 2024-10-12T17:27:00.000Z
-type: article
-needDOI: true
 authors:
-  - is_institution: false
-    firstname: Philippe
+  - firstname: Philippe
+    is_institution: false
     lastname: Rochat
     positions_and_institutions:
       - institution: Emory University
@@ -14,31 +25,27 @@ authors:
       - institution: Paris Institute of Advanced Studies
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: "A universal aspect of human psychology is the quest and cultivation
-  of rapture states, the need to stand outside oneself (ecstasy). The question
-  is what may drive the human need to abandon and transcend a default mode of
-  survival to cultivate altered states of consciousness? The idea is to approach
-  this basic question in light of what arguably sets us apart in nature: human
-  self-consciousness and the fact that like no other animals we know that we are
-  going to die. Empirical facts on the nature and developmental origins of human
-  self-consciousness are used to shed a new light on the universal human
-  proclivity toward trance and transcendence, with or without drugs, in practice
-  or in recreation. Such proclivity would rest on the same ultimate drive to
-  escape the default state of rational self-consciousness and the scandal of
-  death: our inescapable, known, yet inconceivable reality."
-issue: content/issues/paris-ias-ideas.md
-highlight: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /rochat_references.bib
+date: 2024-10-12T17:27:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/167dd060-afd8-40f9-b0cd-4ad4fdef406e
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## Acknowledgements
 
 > This paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program A warm appreciation to the IEA of Paris for its generous invitation, Hannah Kreuzinger, Emory Infant and Child Lab coordinator for her careful editing of this article and my good friend François Bertrand for his continuing encouragement and for many stimulating as well as inspiring discussions on the topic.

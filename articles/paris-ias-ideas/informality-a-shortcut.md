@@ -1,25 +1,6 @@
 ---
-published: true
-article_title: "Informality: A shortcut"
-date: 2024-10-13T09:24:00.000Z
-type: article
-needDOI: true
-authors:
-  - is_institution: false
-    firstname: Alena
-    lastname: Ledeneva
-    positions_and_institutions:
-      - institution: University College London, UK
-        positions: []
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
+DOI: 10.5281/zenodo.14729755
+Zid: 14729755
 abstract: >-
   This paper summarises my reflections on a decade of practice: since 2014, I
   have been collecting data for the Global Informality Project
@@ -32,11 +13,50 @@ abstract: >-
   So what are the implications of the project findings? How would you know if
   you were wrong? (see Figure 1).
 
-  In this paper, I make extensive use of hyperlinks as shortcuts to avoid excessive references, long passages and self-plagiarism, while allowing the reader to expand on key points with a single click. It makes the text easier to follow, but also to unfold and perform, enacting what it describes. I experiment with this format of referring to the project outcomes, made possible by the digitisation of the data and the open access publication of the three volumes of the Encyclopaedia. This paper follows the 'shortcut' pattern that it explores, allowing the reader to open some hyperlinks and skip over others, thus contextualising each reading and allowing a deeper dive into the contributors' entries, as well as accessing the wider literature on informality. I use illustrations and maps as shortcuts to grasp and convey the complexity of informality and to offer perspectives that make connections between disciplines, fields and policymaking. The inclusion of the artwork illustrates both the limitations of visualising the tacit knowledge embedded in informality and the limitless contexts in which it can emerge.
-issue: content/issues/paris-ias-ideas.md
+  In this paper, I make extensive use of hyperlinks as shortcuts to avoid
+  excessive references, long passages and self-plagiarism, while allowing the
+  reader to expand on key points with a single click. It makes the text easier
+  to follow, but also to unfold and perform, enacting what it describes. I
+  experiment with this format of referring to the project outcomes, made
+  possible by the digitisation of the data and the open access publication of
+  the three volumes of the Encyclopaedia. This paper follows the 'shortcut'
+  pattern that it explores, allowing the reader to open some hyperlinks and skip
+  over others, thus contextualising each reading and allowing a deeper dive into
+  the contributors' entries, as well as accessing the wider literature on
+  informality. I use illustrations and maps as shortcuts to grasp and convey the
+  complexity of informality and to offer perspectives that make connections
+  between disciplines, fields and policymaking. The inclusion of the artwork
+  illustrates both the limitations of visualising the tacit knowledge embedded
+  in informality and the limitless contexts in which it can emerge.
+article_title: 'Informality: A shortcut'
+authors:
+  - firstname: Alena
+    is_institution: false
+    lastname: Ledeneva
+    positions_and_institutions:
+      - institution: University College London, UK
+        positions: []
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+date: 2024-10-13T09:24:00.000Z
 highlight: false
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/1c1cdb56-67f4-4599-8738-c88a8e19c54f
+needDOI: true
+published: true
+type: article
+
 ---
+
 
 
 

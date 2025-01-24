@@ -1,35 +1,48 @@
 ---
-published: true
-article_title: How on Earth Can We Work Together?  Five Propositions about
-  Collaborating Across Differences
-date: 2024-11-07T10:16:00.000Z
-type: article
-needDOI: true
+DOI: 10.5281/zenodo.14729751
+Zid: 14729751
+abstract: >
+  This paper offers an updated general theory and practice for
+  system-transforming collaborations among diverse persons and groups, with five
+  propositions: (1) We face a dangerously widening gap between the
+  collaborations we need to undertake and those we are willing and able to
+  undertake. (2) To bridge this gap, we must grow our individual and collective
+  capacities to collaborate across differences. (3) This bridging requires
+  discerning when, on what, and with whom to collaborate. (4) We can accomplish
+  this bridging by employing three intrinsic human drives. (5) We can put this
+  bridging into practice with five stretches.
+article_title: >-
+  How on Earth Can We Work Together?  Five Propositions about Collaborating
+  Across Differences
 authors:
-  - is_institution: false
-    firstname: Adam
+  - firstname: Adam
+    is_institution: false
     lastname: Kahane
     positions_and_institutions:
       - institution: Reos Partners
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: >
-  This paper offers an updated general theory and practice for
-  system-transforming collaborations among diverse persons and groups, with five
-  propositions: (1) We face a dangerously widening gap between the collaborations we need to undertake and those we are willing and able to undertake. (2) To bridge this gap, we must grow our individual and collective capacities to collaborate across differences. (3) This bridging requires discerning when, on what, and with whom to collaborate. (4) We can accomplish this bridging by employing three intrinsic human drives. (5) We can put this bridging into practice with five stretches.
-issue: content/issues/paris-ias-ideas.md
-highlight: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /references_kahane.bib
+date: 2024-11-07T10:16:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/7af559e2-5f62-4287-bf3f-5b82b6321494
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## Acknowledegments
 
 This paper was written during a one-month residency at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program. I am grateful to the staff and fellows I met there, and other colleagues, for their generous input and support.

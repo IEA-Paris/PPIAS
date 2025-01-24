@@ -1,47 +1,66 @@
 ---
-published: true
+DOI: 10.5281/zenodo.14729745
+Zid: 14729745
+abstract: >-
+  This article investigates the growing application of artificial intelligence
+  (AI) technology in the context of legal practice. After an introduction of
+  three basic approaches to machine learning: 1) supervised learning and
+  classification techniques, 2), unsupervised learning and pattern recognition
+  and 3) reinforcement learning and automated text generation, the article
+  analyses the potential growing use of this technology by legal professionals
+  in various contexts. The article identifies the many different potential uses
+  of AI and discusses these in the context of the classic tripartite scheme used
+  in much legal reasoning: determination of facts, determination of the law,
+  subsumption of fact under the law. The article concludes with a broader
+  reflection on the limitations of AI’s ability to penetrate legal intelligence,
+  and the need for a better understanding of how to harness the technology while
+  harvesting its benefits.
 article_title: Artificial intelligence at work in the legal profession
-date: 2024-10-15T09:14:00.000Z
-type: article
-needDOI: true
 authors:
-  - is_institution: false
-    firstname: Henrik
+  - firstname: Henrik
+    is_institution: false
     lastname: Palmer Olsen
     positions_and_institutions:
       - institution: University of Copenhagen
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-  - is_institution: false
-    firstname: Casper
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+  - firstname: Casper
+    is_institution: false
     lastname: Laursen
     positions_and_institutions:
       - institution: Pandektes
         positions:
           - Global Media and Communications
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: "This article investigates the growing application of artificial intelligence (AI) technology in the context of legal practice. After an introduction of three basic approaches to machine learning: 1) supervised learning and classification techniques, 2), unsupervised learning and pattern recognition and 3) reinforcement learning and automated text generation, the article analyses the potential growing use of this technology by legal professionals in various contexts. The article identifies the many different potential uses of AI and discusses these in the context of the classic tripartite scheme used in much legal reasoning: determination of facts, determination of the law, subsumption of fact under the law. The article concludes with a broader reflection on the limitations of AI’s ability to penetrate legal intelligence, and the need for a better understanding of how to harness the technology while harvesting its benefits."
-issue: content/issues/guest_lectures.md
-highlight: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /references-palmerolsen-larsen.bib
+date: 2024-10-15T09:14:00.000Z
+highlight: false
+issue: content/issues/guest_lectures.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/334b34bb-d1bd-406f-b934-78e702872701
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## 1. Artificial intelligence in a legal context: an introduction
 
 It is not a new observation that artificial intelligence technology has developed significantly in recent years, nor that this technology has the potential to support legal work. International research into artificial intelligence applied in the context of tasks performed by the legal profession has also been on the rise[^1], and so has the number of so-called legal tech companies providing artificial intelligence technology to the legal profession[^2]. In this article, we briefly describe how the more recent developments in artificial technology (Machine Learning and Large Language Models) function and how this technology can be used in various ways to support the work of legal professionals. We do not discuss the regulatory framework around this usage (GDPR, AI Act, administrative law, etc.), but concentrate on explaining the possible usages that the technology offers.

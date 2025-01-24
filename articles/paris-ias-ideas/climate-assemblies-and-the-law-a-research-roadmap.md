@@ -1,29 +1,11 @@
 ---
-published: true
-article_title: "Climate assemblies and the law: a research roadmap"
-date: 2024-12-11T17:12:00.000Z
-type: proceedings
-needDOI: true
-authors:
-  - is_institution: false
-    firstname: "Leslie-Anne "
-    lastname: Duvic-Paoli
-    positions_and_institutions:
-      - institution: "The Dickson Poon School of Law, King’s College London"
-        positions: []
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: "The article is interested in the relationship between citizens’
-  assemblies on climate change (‘climate assemblies’) and the law. It offers a
-  research roadmap on the legal dimensions of climate assemblies with the view
-  to advancing our knowledge of deliberative climate governance. The article
+DOI: 10.5281/zenodo.14729749
+Zid: 14729749
+abstract: >-
+  The article is interested in the relationship between citizens’ assemblies on
+  climate change (‘climate assemblies’) and the law. It offers a research
+  roadmap on the legal dimensions of climate assemblies with the view to
+  advancing our knowledge of deliberative climate governance. The article
   explores six fundamental areas of inquiry on which legal scholarship can offer
   relevant insights. They relate to: i) understanding the outcomes of climate
   assemblies; ii) clarifying their role in the public law relationship between
@@ -35,12 +17,37 @@ abstract: "The article is interested in the relationship between citizens’
   nudge legal scholars into exploring the richness of the questions raised by
   the emergence of climate assemblies and, in turn, to encourage other social
   science scholars to reflect on how the legal perspective might contribute to
-  better understanding their object of study."
-issue: content/issues/paris-ias-ideas.md
-highlight: false
+  better understanding their object of study.
+article_title: 'Climate assemblies and the law: a research roadmap'
+authors:
+  - firstname: 'Leslie-Anne '
+    is_institution: false
+    lastname: Duvic-Paoli
+    positions_and_institutions:
+      - institution: The Dickson Poon School of Law, King’s College London
+        positions: []
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /duvic-paoli_references.bib
+date: 2024-12-11T17:12:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/2d48847f-eb90-4f6f-9ff6-8015ce952e4a
+needDOI: true
+published: true
+type: proceedings
+
 ---
+
 ## **Acknowledgements**
 
 This article is the result of a one-month writing residency at the Paris Institute for Advanced Study. I would like to express my sincere gratitude to Professor Saadi Lahlou and Dr Paulius Yamin for their kind invitation to come back to the Institute and to the staff and fellows for their warm welcome. Many thanks also go to Dr Emily Barritt for her comments on an earlier version of this paper.

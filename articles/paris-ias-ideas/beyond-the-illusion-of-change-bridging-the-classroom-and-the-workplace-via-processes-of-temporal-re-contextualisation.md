@@ -1,36 +1,15 @@
 ---
-published: true
-article_title: "Beyond the illusion of change: bridging the ‘classroom’ and the
-  workplace via processes of temporal re-contextualisation"
-date: 2025-01-07T09:42:00.000Z
-type: article
-needDOI: true
-authors:
-  - is_institution: false
-    firstname: Barry M.
-    lastname: Rogers
-    positions_and_institutions:
-      - institution: Department of Psychological and Behavioural Science, London School
-          of Economics and Political Science (LSE)
-        positions:
-          - Visiting Professor in Practice
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: "The application and use of formal knowledge in the ‘real-world’ is
-  highly problematic. This problem is neither new nor straightforward. In
-  practice, it is deeply embedded in issues surrounding how we value knowledge,
-  experience reality and see time. Building on the concept of visibility this
-  essay explores how participants on a highly ‘successful’ learning programme
-  sought to implement their change commitments in the workplace. The process of
-  seeing change was constantly challenging. Living ‘in’ and ‘over’ time produced
-  a sense of temporal shock that significantly undermined well-intentioned
+DOI: 10.5281/zenodo.14729747
+Zid: 14729747
+abstract: >-
+  The application and use of formal knowledge in the ‘real-world’ is highly
+  problematic. This problem is neither new nor straightforward. In practice, it
+  is deeply embedded in issues surrounding how we value knowledge, experience
+  reality and see time. Building on the concept of visibility this essay
+  explores how participants on a highly ‘successful’ learning programme sought
+  to implement their change commitments in the workplace. The process of seeing
+  change was constantly challenging. Living ‘in’ and ‘over’ time produced a
+  sense of temporal shock that significantly undermined well-intentioned
   commitments to practice within days of returning to the office. Programme
   success created the illusion of chance as commitments fell victim to the
   action, traction and distraction of post-programme chrononormality. This
@@ -42,12 +21,42 @@ abstract: "The application and use of formal knowledge in the ‘real-world’ i
   a study believed to be the largest, longest and most comprehensive of its kind
   this pracademic perspective aims to be close to practice, practices and
   practitioners. It also outlines a temporal methodology of change that enables
-  the capacity to act, ‘in’ and over time.  "
-issue: content/issues/paris-ias-ideas.md
-highlight: false
+  the capacity to act, ‘in’ and over time.  
+article_title: >-
+  Beyond the illusion of change: bridging the ‘classroom’ and the workplace via
+  processes of temporal re-contextualisation
+authors:
+  - firstname: Barry M.
+    is_institution: false
+    lastname: Rogers
+    positions_and_institutions:
+      - institution: >-
+          Department of Psychological and Behavioural Science, London School of
+          Economics and Political Science (LSE)
+        positions:
+          - Visiting Professor in Practice
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /rogers_references.bib
+date: 2025-01-07T09:42:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/6495ddeb-24e3-4f34-89a4-5232b005fb0e
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## **Acknowledgements**:
 
 I owe a deep well of gratitude to many people. To my wife, family and friends for their loving support and belief. To all the team at the IEA Paris for nurturing a very special atmosphere where creative thought flourishes, develops and evolves. Finally, to my *Impact* colleagues and the 1,800 plus participants associated with this study. Many of us tried, through this work, to make a positive difference to the future of the planet. Only *time* will tell if it mattered. This is for all of you.
