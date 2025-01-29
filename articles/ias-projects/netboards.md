@@ -210,7 +210,8 @@ yt: ''
 ---
 
 
-
+> **Acknowledgements**
+> This research project and related results were made possible with the support of the NOMIS Foundation.
 
 ## 1.  Communities of Knowledge and Practice 
 
@@ -491,7 +492,6 @@ Experience shows that while good design and a good IT infrastructure are essenti
 Another service we identified as what an ideal CKP could provide is data interoperability. Acting as a data source, it enables participants to leverage their effort of participating in the CKP by seamlessly disseminating their input. As such we plan to make netboards harvestable [^4] in addition to the already open and available graphQL API endpoint. Another way we plan to achieve data interoperability is to produce outputs structured after goal-oriented tasks, thus offering more traction to the participants in their daily tasks based on the already available data. Finally, we will also import data from existing standard third-party data sources (ORCID, ISNI, ROR...) to assist even more the item creation process. 
 
 Therefore, netboards shouldn't be taken as mere repositories of information, but rather as a support for community interactions and for the building of relevant networks. In this sense, actively designing, promoting, and planning for affordances but also for competences and regulation is essential.
-
 
 
 [^1]: A social contract between parties is one where parties gain status in exchange for playing their role. A role is the set of behaviours others can legitimately expect from that party; a status is the set of behaviours one can legitimately expect from others. ​(Lahlou, 2024: 104-6)​

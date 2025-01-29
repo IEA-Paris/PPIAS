@@ -117,6 +117,11 @@ published: true
 yt: ''
 
 ---
+
+> **Acknowledgements**
+>
+> This research project and related results were made possible with the support of the NOMIS Foundation.
+> 
 ## 1.  Understanding transitions 
 
 Initially, the study of transitions towards more sustainability in a food system ​(Kneen, 1993; Lebel & Lorek, 2010; Marion, 1986)​ was focused on production ​(Duru et al., 2015; Horlings & Marsden, 2011)​. Later publications attempted to understand the logic of sustainable agriculture by comparing different economic models: ​Hill (1998)​distinguishes between 'weak' and 'deep' sustainability; ​Wilson (2008)​ contrasts 'weak versus strong multifunctionality'; ​Levidow et al. (2013)​ speak of an opposition between 'life sciences' and 'agroecological sciences' (2012). More generally, the literature contrasts 'natural' growth with 'industrialized' production ​(Plumecocq et al., 2018), i.e.​ between systems based on intensive means of agricultural production, also known as 'the incumbent system' and new initiatives, which possibly are the prefiguration of future systems that aim to preserve and restore 'natural capital' ​(Schumacher, 1991)​. However, such typologies have often been constructed in a monodisciplinary way, focusing on the technical and scientific dimensions while neglecting social values and practices. 
