@@ -36,7 +36,7 @@ language: English
 ---
 ## **Acknowledgments:**
 
-The author would like to thank the Institut d'ëtudes Avancés de Paris (IEA) for the one month fellowship that aloud him to write this study in perfect conditions of working.
+The author would like to thank the Institut d'ëtudes Avancés de Paris (IEA) for the one month fellowship that allowed him to write this study in perfect conditions of working.
 
 > *...a natural phenomenon such as, for example,*
 >
@@ -172,7 +172,7 @@ In this sense, Bartok is a privileged example of someone who seeks modernity thr
 
 > In the 19th century, the rise or rise of nationalism, within the smallest and most solvent politically oppressed nations (such as the Poles, the Czechs, and the Hungarians), was accompanied by the ever stronger demand for art in national colors; but, in the intellectual circles of these countries, we don't know any more about the country than the popular-style classical music which, thanks to its touches of exoticism here or there, is certainly not devoid of any attraction. (Bartók, 2020, p. 124)
 
-            It's clear that Bartok starts from an impossibility of listening. According to him, musical romanticism, when it turned to listening to a national people to be formed, only listened to the musical projections of its local bourgeoisie, what he calls "popular-style classical music". In this sense, the people are missing in a more dramatic sense: they simply aren't there where they're summoned, this musical material isn't theirs. And it couldn't be otherwise, because popular music is a peasant music averse to writing:
+It's clear that Bartok starts from an impossibility of listening. According to him, musical romanticism, when it turned to listening to a national people to be formed, only listened to the musical projections of its local bourgeoisie, what he calls "popular-style classical music". In this sense, the people are missing in a more dramatic sense: they simply aren't there where they're summoned, this musical material isn't theirs. And it couldn't be otherwise, because popular music is a peasant music averse to writing:
 
 > When put into writing, folk melodies lose precisely what they had to offer the musician, namely, lived experience. The fixed notation is capable of restoring the finer nuances of rhythm or intonation, glissés, in short, all the vital pulse of country music. Once it has been written down, a peasant melody is nothing more than the theoretical sign of itself: anyone who has never understood this melody, or any others that may have appeared to them in a living form, such as the bouche of the paysans, will never obtain a correct image of it. (Bartók, 2020, p. 126)
 
