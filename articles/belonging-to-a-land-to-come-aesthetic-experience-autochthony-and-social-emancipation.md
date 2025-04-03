@@ -192,11 +192,13 @@ The result is impure music, marked by continuous "crossings and recrossings" (
 
 But let's start with a paradigmatic example of his compositional processes, in this case, the 6 dances in Bulgarian rhythm, which make up the last volume of the MIkrokosmos. The piece is one of the last in this series of 6 volumes called Mikrokosmos. These are a set of didactic exercises that have had a great influence on the piano repertoire. The function of these pieces is, however, more ambitious. It aims to follow the pianist from childhood to maturity, from the most elementary pieces to his most consolidated mastery of pianistic technique and expression. And, not by chance, the final moment of this long process is provided by six Bulgarian dances. As if the pinnacle of the pianist's training consisted of being able to appropriate the modernity inherent in the expressions of people who have been placed in conditions of minority. 
 
-            For example, an important point of Bartok's research lies in recognizing the productive power of the asymmetry of the rhythms discovered in his research. Normally, each of these pieces has a basic rhythmic pattern that develops. In the case of the piece mentioned here, we have a 4+2+3/8 rhythm. This means that in each bar there will be 9 semiquavers in an irregular pulse of 4,2,3. Something much more elaborate and complex than our rhythmic structure, usually based on 2/4, ¾, or 4/4. 
+For example, an important point of Bartok's research lies in recognizing the productive power of the asymmetry of the rhythms discovered in his research. Normally, each of these pieces has a basic rhythmic pattern that develops. In the case of the piece mentioned here, we have a 4+2+3/8 rhythm. This means that in each bar, there will be 9 semiquavers in an irregular pulse of 4,2,3. Something much more elaborate and complex than our rhythmic structure, usually based on 2/4, ¾, or 4/4. 
+
+![](/static/picture1.png)
 
 In pieces like the first of the *Two Romanian Dances*, from 1909, the rhythm often changes from measure to measure, starting with 4/4 and moving on to 2/4, ¾, 6/4, and 7/4. This rhythmic malleability allows the musical form to approach the free organicity of peasant singing. This piece also has the additional interest of showing how extensively Bartok unfolds a musical idea. The musical idea that generates the piece is a rhythmic dance marking made up of 6 eighth notes, 2 semi-eighth notes, and an eighth note that appears in the very first bars of the right hand. 
 
-![](blob:https://euangoddard.github.io/b24ebf43-c23b-431d-9f6e-993b1f9e81ce)
+
 
 This motive element will unfold throughout the piece, transposed, and divided into smaller fragments, creating a cohesion that will permeate various dance forms, from those that make the piano an eminently percussive instrument, as we see in these first four bars, to those that recover ballroom dance accompaniment modes. The unity is formed by the continuously unfolding motive cell. 
 
