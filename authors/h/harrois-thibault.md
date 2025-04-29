@@ -2,6 +2,7 @@
 active: true
 articles:
   - gordon-cumming
+  - franco-british-cooperation-in-africa-and-europe-cumming
 exerpt: ''
 firstname: Thibault
 is_institution: false
