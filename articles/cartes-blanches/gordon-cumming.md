@@ -11,9 +11,14 @@ authors:
       - institution: School of Modern Languages, Cardiff University
         positions: 
         - Professor of language-based area studies
+  - firstname: Thibault
+    is_institution: false
+    lastname: Harrois
+    positions_and_institutions:
+      - institution: Université Sorbonne Nouvelle
 date: 2025-04-04T07:00:00.000Z
 highlight: false
-issue: content/issues/cartes-banches.md
+issue: content/issues/cartes-blanches.md
 language: English
 needDOI: true
 published: true

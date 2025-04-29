@@ -7,6 +7,7 @@ firstname: Gordon
 is_institution: false
 issue:
   - content/issues/cartes-banches.md
+  - content/issues/cartes-blanches.md
 language:
   - English
 lastname: Cumming
