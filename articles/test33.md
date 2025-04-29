@@ -7,8 +7,9 @@ needDOI: false
 authors: []
 abstract: htdrbfdsbvsrgrdbdgbdgbdgrbdrgb dfgf
 issue: content/issues/Fellows.md
+picture: /thesocioscope2.svg
 highlight: false
-bibliography: documents-exportes_mosco_20.bib
+bibliography: /bibliography/documents-exportes_prop14.bib
 language: English
 ---
-![test](/static/2-1-2_1.png "test")
+![test](static/thesocioscope2.svg "test")
