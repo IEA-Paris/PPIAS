@@ -3,7 +3,7 @@ published: true
 article_title: Ordinary Ethics in the Age of AI
 date: 2025-02-04T21:38:00.000Z
 type: article
-needDOI: false
+needDOI: true
 authors:
   - is_institution: false
     firstname: Margarita

@@ -4,7 +4,7 @@ article_title: "Belonging to a land to come: Aesthetic experience, autochthony
   and social emancipation"
 date: 2025-04-03T10:23:00.000Z
 type: proceedings
-needDOI: false
+needDOI: true
 authors:
   - is_institution: false
     firstname: Vladimir
