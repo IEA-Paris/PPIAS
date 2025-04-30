@@ -147,7 +147,7 @@
       fill: transparent;
       stroke: white;
     }
-  </style> <line x1="4.4903715968736284e-15" y1="-73.33333333333333" x2="5.988520518855538e-15" y2="-97.79996196495152" stroke="#FFFFF0"></line> <circle cx="4.4903715968736284e-15" cy="-73.33333333333333" r="1" class="origin"></circle> <!----> <!----> <circle cx="5.988520518855538e-15" cy="-97.79996196495152" r="2.4466628631618197"></circle></g><g idx="1" class="type-element" data-v-430fb1c8=""><style>
+  </style> <line x1="4.4903715968736284e-15" y1="-73.33333333333333" x2="5.990877959540556e-15" y2="-97.83846189303951" stroke="#FFFFF0"></line> <circle cx="4.4903715968736284e-15" cy="-73.33333333333333" r="1" class="origin"></circle> <!----> <!----> <circle cx="5.990877959540556e-15" cy="-97.83846189303951" r="2.4505128559706177"></circle></g><g idx="1" class="type-element" data-v-430fb1c8=""><style>
     .origin {
       /*   fill: black; */
     }
