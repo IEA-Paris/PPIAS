@@ -25,7 +25,7 @@ authors:
       website: ''
       webstwitterite: ''
       wikipedia: ''
-bibliography: /anystyle.bib
+bibliography: ''
 date: 2024-07-03T15:14:00.000Z
 highlight: false
 issue: content/issues/paris-ias-ideas.md
