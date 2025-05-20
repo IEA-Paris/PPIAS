@@ -1,39 +1,47 @@
 ---
-published: true
-article_title: "Belonging to a land to come: Aesthetic experience, autochthony
-  and social emancipation"
-date: 2025-04-03T10:23:00.000Z
-type: proceedings
-needDOI: true
+DOI: 10.5281/zenodo.15469926
+Zid: 15469926
+abstract: >-
+  This article aims to discuss the relations between aesthetic experience and
+  social emancipation from the point of view of the problems concerning the
+  production of autochthony. The main question is: how aesthetic experience can
+  produce a land, a space and a people? The article focuses specially in some
+  peripheral modernists strategies as we can find in the music of Bela Bartok.
+  These strategies are object of comparative considerations with another
+  peripheral modernism as we can see in Brazilian modernism.
+article_title: >-
+  Belonging to a land to come: Aesthetic experience, autochthony and social
+  emancipation
 authors:
-  - is_institution: false
-    firstname: Vladimir
+  - firstname: Vladimir
+    is_institution: false
     lastname: Safatle
     positions_and_institutions:
       - institution: Universidade de São Paulo
         positions:
           - Full Professor of Philosophy and Psychology
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: "This article aims to discuss the relations between aesthetic
-  experience and social emancipation from the point of view of the problems
-  concerning the production of autochthony. The main question is: how aesthetic
-  experience can produce a land, a space and a people? The article focuses
-  specially in some peripheral modernists strategies as we can find in the music
-  of Bela Bartok. These strategies are object of comparative considerations with
-  another peripheral modernism as we can see in Brazilian modernism."
-issue: content/issues/paris-ias-ideas.md
-highlight: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /references_safatle.bib
+date: 2025-04-03T10:23:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/ac8f3fed-255b-4627-bdbc-75080405f72c
+needDOI: true
+published: true
+type: proceedings
+
 ---
+
 ## Acknowledgments
 
 The author would like to thank the Institut d'études Avancés de Paris (IEA) for the one month fellowship that allowed him to write this study in perfect conditions of working.

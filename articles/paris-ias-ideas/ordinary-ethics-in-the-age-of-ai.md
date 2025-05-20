@@ -1,29 +1,9 @@
 ---
-published: true
-article_title: Ordinary Ethics in the Age of AI
-date: 2025-02-04T21:38:00.000Z
-type: article
-needDOI: true
-authors:
-  - is_institution: false
-    firstname: Margarita
-    lastname: Boenig-Liptsin
-    positions_and_institutions:
-      - institution: Department of Humanities, Social and Political Sciences ETH Zürich
-        positions:
-          - Assistant Professor for Ethics
-          - Technology and Society
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: Trust. Transparency. Fairness. Ethical principles and the experts who
-  speak for them drive the work of AI ethics, preparing the ground for national
+DOI: 10.5281/zenodo.15469928
+Zid: 15469928
+abstract: >-
+  Trust. Transparency. Fairness. Ethical principles and the experts who speak
+  for them drive the work of AI ethics, preparing the ground for national
   policy, corporate decisions, and technology design. In this essay I propose
   “ordinary ethics” as a distinct and complementary approach to principle- and
   expert-led ethics. Drawing on scholarship from Science Technology and Society
@@ -45,11 +25,38 @@ abstract: Trust. Transparency. Fairness. Ethical principles and the experts who
   such that questions of what we value as societies and how to creatively keep
   and grow these values in contexts of daily life with powerful new technologies
   become a key element of the collective response.
-issue: content/issues/paris-ias-ideas.md
-highlight: false
+article_title: Ordinary Ethics in the Age of AI
+authors:
+  - firstname: Margarita
+    is_institution: false
+    lastname: Boenig-Liptsin
+    positions_and_institutions:
+      - institution: Department of Humanities, Social and Political Sciences ETH Zürich
+        positions:
+          - Assistant Professor for Ethics
+          - Technology and Society
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /references_boenig-liptsin.bib
+date: 2025-02-04T21:38:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/d667a111-cff0-4983-874c-9f8521d3a579
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## *Acknowledgments:*
 
 *This paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program*

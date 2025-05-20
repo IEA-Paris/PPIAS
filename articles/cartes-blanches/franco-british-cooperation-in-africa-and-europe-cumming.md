@@ -1,7 +1,18 @@
 ---
-
-abstract: The United Kingdom and France have a long history of rivalry in Africa, which marked both the colonial and the early post colonial periods. In 1998, British Prime Minister, Tony Blair, and French President, Jacques Chirac, launched the Saint Malo initiative II, pledging closer franco-British collaboration in Africa. While this agreement enjoyed some positive results, particularly in the security domain, it was largely undone by Brexit, which saw the UK and France eschewing cooperation and ploughing their own furrows in Africa. The re-election of American President Donald Trump has called into question many of the certainties of the multilateral rules based order, opening up new opportunities for Anglo-French cooperation in Africa and Europe, most notably in Ukraine. 
-bibliography: /cumming.bib
+DOI: 10.5281/zenodo.15469924
+Zid: 15469924
+abstract: >-
+  The United Kingdom and France have a long history of rivalry in Africa, which
+  marked both the colonial and the early post colonial periods. In 1998, British
+  Prime Minister, Tony Blair, and French President, Jacques Chirac, launched the
+  Saint Malo initiative II, pledging closer franco-British collaboration in
+  Africa. While this agreement enjoyed some positive results, particularly in
+  the security domain, it was largely undone by Brexit, which saw the UK and
+  France eschewing cooperation and ploughing their own furrows in Africa. The
+  re-election of American President Donald Trump has called into question many
+  of the certainties of the multilateral rules based order, opening up new
+  opportunities for Anglo-French cooperation in Africa and Europe, most notably
+  in Ukraine.
 article_title: Franco-British Cooperation in Africa and Europe
 authors:
   - firstname: Gordon
@@ -9,23 +20,27 @@ authors:
     lastname: Cumming
     positions_and_institutions:
       - institution: School of Modern Languages, Cardiff University
-        positions: 
-        - Professor of language-based area studies
+        positions:
+          - Professor of language-based area studies
   - firstname: Thibault
     is_institution: false
     lastname: Harrois
     positions_and_institutions:
       - institution: Université Sorbonne Nouvelle
+bibliography: /cumming.bib
 date: 2025-04-04T07:00:00.000Z
 highlight: false
 issue: content/issues/cartes-blanches.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/64ea8681-c1ec-4f14-bac2-99f489053295
 needDOI: true
 published: true
 subissue: false
 yt: FEIvPsLaCu8
 
 ---
+
 **Discussant: Dr Thibaud Harrois, Université Sorbonne Nouvelle**
 
 <Youtube yt="FEIvPsLaCu8" caption="Franco-British Cooperation in Africa and Europe"></Youtube>
