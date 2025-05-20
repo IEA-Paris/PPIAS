@@ -624,9 +624,12 @@ The core sections are *Philosophical Investigations, 139--242*.
 
 There is a thoroughly sceptical interpretation, the *locus classicus* of which is Kripke (1982), which has been criticised, e.g., (Baker & Hacker, 1984) and defended, e.g., (Kusch, 2006). See Boghossian (1989) for an overview of early discussions. Our own take is akin to the naturalistic interpretation proposed in Williams (2010).
 
-[^51.   *Philosophical**Investigations,**150* :
+[^51]:
 
-The grammar of the word "know" is evidently closely related to the grammar of the words "can", "is able to". But also closely related to that of the word "understand". (To have 'mastered' a technique.)
+
+*Philosophical Investigations, 150* :
+
+"The grammar of the word "know" is evidently closely related to the grammar of the words "can", "is able to". But also closely related to that of the word "understand". (To have 'mastered' a technique.)"
 
 [^52.   This point is further supported by the observation that the connection between understand and an ability to do/to act is built right into our tools for checking for understanding: identifying a city on a map, solving equations, . . . That this type of checking also comprises what looks like
 
