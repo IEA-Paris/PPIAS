@@ -414,113 +414,169 @@ As Williamson claims in the passage quoted in footnote [^6]
 
 [^8]:
 
-Another way of conceiving of philosophy as akin with the sciences is exemplified by experimental philosophy. The field is varied, with some using empirical data about the intuitions and judgments of non-philosophers as a testbed for philosophical analyses, and others shifting the focus entirely to these intuitions and judgements. The latter view resembles that of Williamson in certain ways. Key issue in the discussions is the role of intuition in philosophy, with some denying there is such a role (e.g., Deutsch, 2010; Williamson, 2011; Cappelen, 2012), while others maintain its centrality (e.g., Chalmers, 2014; Climenhaga, 2017). See [Nado](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark144) (2016); [Irikefe](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark134) [(2022)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark134) for overviews and critical evaluation.
+Another way of conceiving of philosophy as akin with the sciences is exemplified by experimental philosophy. The field is varied, with some using empirical data about the intuitions and judgments of non-philosophers as a testbed for philosophical analyses, and others shifting the focus entirely to these intuitions and judgements. The latter view resembles that of Williamson in certain ways. Key issue in the discussions is the role of intuition in philosophy, with some denying there is such a role (e.g., Deutsch, 2010; Williamson, 2011; Cappelen, 2012), while others maintain its centrality (e.g., Chalmers, 2014; Climenhaga, 2017). See Nado (2016) and Irikefe (2022) for overviews and critical evaluation.
 
-[^9.   Witness the fact that Williamson often appeals to there being close links between, e.g., philo- sophy of language and linguistics, or between philosophy of biology and biology. Note that this limits philosophy in a strong way: if there is no science of *X*, there cannot be a corresponding 'philosophy of *X*'.
+[^9]:
 
-[^10.   But it is interesting to note that philosophers working along the lines of Hacker or Williamson tend to spend little time on such issues.
+Witness the fact that Williamson often appeals to there being close links between, e.g., philosophy of language and linguistics, or between philosophy of biology and biology. Note that this limits philosophy in a strong way: if there is no science of *X*, there cannot be a corresponding 'philosophy of *X*'.
 
-[^11.   Of course, there is a wide range of people and activities (books, podcasts, seminars, trainings, therapy sessions, and so on) that do connect philosophy with everyday concerns. But that takes place outside the realm of academic philosophy and therefore is left out of consideration here.
+[^10]:
 
-[^12.   See, for example, Haslanger's collected papers in [Haslanger](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark133) [(2012)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark133) and the papers in [Burgess](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark103) [et al.](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark103) [(2020).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark103) For a recent overview, see [Eklund](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark123) [(2021).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark123)
+But it is interesting to note that philosophers working along the lines of Hacker or Williamson tend to spend little time on such issues.
 
-[^13.   For truth see [Scharp](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark150) [(2007,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark150) [2013);](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark151) see also [Eklund](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark122) [(2014).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark122) According to Cappelen [(Cappelen,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark108) [2018b)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark108) [Clark & Chalmers](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark112) [(1998)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark112) is an example of conceptual engineering of belief, but see [Chalmers](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark110) [(2020)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark110) for some nuances.
+[^11]:
 
-[^14.   One of the most prominent philosophers engaged in the enterprise, Sally Haslanger, formulates it as follows [(Haslanger,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark132) [2005,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark132) p. 20):
+Of course, there is a wide range of people and activities (books, podcasts, seminars, trainings, therapy sessions, and so on) that do connect philosophy with everyday concerns. But that takes place outside the realm of academic philosophy and therefore is left out of consideration here.
 
-Ameliorative analyses elucidate 'our' legitimate purposes and what concept of *F*-ness (if any) would serve them best (the target concept). Normative input is needed.
+[^12]: 
 
-Or, as Jennifer Nado puts it [(Nado,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark145) [2021):](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark145)
+See, for example, Haslanger's collected papers in Haslanger (2012) and the papers in Burgess et al. (2020). For a recent overview, see Eklund (2021).
 
-Conceptual engineers aim to improve or to replace rather than to analyse; to create rather than to discover. While conceptual analysts are interested in the
+[^13]:
 
-concepts we *do* have, conceptual engineers are interested in the concepts we
+For truth see Scharp (2007, 2013); see also Eklund (2014). According to Cappelen  (2018b), Clark & Chalmers (1998) is an example of conceptual engineering of belief, but see Chalmers (2020) for some nuances.
 
-*ought* to have. Their project is prescriptive rather than descriptive.
+[^14]: 
 
-[^15.   As to whether conceptual engineering is exclusively philosophical views differ. Sally Haslanger, for one, explicitly embeds her approach in a wider context of cooperation with social scientists [(Haslanger,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark133) [2012,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark133) p. 15):
+One of the most prominent philosophers engaged in the enterprise, Sally Haslanger, formulates it as follows (Haslanger, 2005, p. 20):
 
-I argue that in the social domain we should rely on social theorists, including feminist and antiracist theorists, to help explicate the meanings of our terms. Much can be gained, I believe, by including both social science and moral theory --broadly construed -- in the web ofbelief that has a bearing on our inquiry.
+"Ameliorative analyses elucidate 'our' legitimate purposes and what concept of *F*-ness (if any) would serve them best (the target concept). Normative input is needed."
 
-Others appear to downplay the connections with non-philosophical fields. A prominent ex- ample is that of Herman Cappelen, who argues extensively in [Cappelen](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark106) [(2017)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark106) that philosophy of language and natural language semantics have no intrinsic connection: 'Philosophy of lan- guage isnot (and arguably doesn't even include) natural language semantics.' As someone who has worked in both fields I would like to disagree and point to two examples of semantic work that has philosophical implications: questions semantics and dynamic semantics. The first is ananswer to a philosophical challenge: can one provide a systematic theory of questions using a referential framework, that was developed for the analysis of assertive language use? Not a trivial question and one that has obvious philosophical importance. The answer is yes, see partitionsemantics. Dynamic semantics is an answer to a question about compositionality and mental representation: does semantics beyond the sentence boundary require mental rep- resentations? Again, not a trivial question and again one that has substantial philosophical importance. The answer is no,see dynamic semantics. These two examples show that Cappelen is definitely wrong in claiming as he does that philosophers should not be doing semantics. He does have a point that in some (most? too many anyway) cases the philosophical impact of the semantic work that a philosopher does is not made sufficiently explicit. And yes, there are cases where that impact actually is minimal to non-existing. But that's not the point. And the conclusion that Cappelen draws, viz., 'Note that doing just what semanticists do -- i.e., proposing semantics for particular fragments of a naturallanguage -- is not included in this list \[of what Cappelen considers to be acceptable engagements of philosophers with linguistics, ms]' [(Cappelen,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark106) [2017,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark106) p. 754), means that the Cappelen philosopher foregoes testing whether what they think they have to say about the foundations of linguisticsis actually relevant for linguistics. But foregoing that reality check is a sure route to irrelevance.
+Or, as Jennifer Nado puts it (Nado, 2021): 
 
-[^16.   Some claim that conceptual engineering works primarily through changing language [(Koch &](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark138) [Lupyan,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark138) [2025);](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark138) others emphasise that it is primarily a normative issue [(Ko¨hler & Veluwen-](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark139) [kamp,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark139) [2024);](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark139) and yet others focus on specific cases such as countering biases in large language models[(Rudolph et al.,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark149) [2025).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark149) It should be noted that Cappelen [(Cappelen,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark107) [2018a,b)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark108) ex- presses doubts about the possibility of effective implementation, but among those who do not share these doubts, there is little to no discussion as to how to go about concretely to get an actual engineered concept in circulation, nor do there seem to be any studies about success and failure conditions. Which given the practical goals is odd.
+"Conceptual engineers aim to improve or to replace rather than to analyse; to create rather than to discover. While conceptual analysts are interested in the concepts we *do* have, conceptual engineers are interested in the concepts we *ought* to have. Their project is prescriptive rather than descriptive.
+
+[^15]: 
+
+As to whether conceptual engineering is exclusively philosophical views differ. Sally Haslanger, for one, explicitly embeds her approach in a wider context of cooperation with social scientists (Haslanger, 2012, p. 15):
+
+"I argue that in the social domain we should rely on social theorists, including feminist and antiracist theorists, to help explicate the meanings of our terms. Much can be gained, I believe, by including both social science and moral theory --broadly construed -- in the web of belief that has a bearing on our inquiry."
+
+Others appear to downplay the connections with non-philosophical fields. A prominent example is that of Herman Cappelen, who argues extensively in Cappelen (2017) that philosophy of language and natural language semantics have no intrinsic connection: 'Philosophy of language isnot (and arguably doesn't even include) natural language semantics.' As someone who has worked in both fields I would like to disagree and point to two examples of semantic work that has philosophical implications: questions semantics and dynamic semantics. The first is ananswer to a philosophical challenge: can one provide a systematic theory of questions using a referential framework, that was developed for the analysis of assertive language use? Not a trivial question and one that has obvious philosophical importance. The answer is yes, see partitionsemantics. Dynamic semantics is an answer to a question about compositionality and mental representation: does semantics beyond the sentence boundary require mental representations? Again, not a trivial question and again one that has substantial philosophical importance. The answer is no, see dynamic semantics. These two examples show that Cappelen is definitely wrong in claiming as he does that philosophers should not be doing semantics. He does have a point that in some (most? too many anyway) cases the philosophical impact of the semantic work that a philosopher does is not made sufficiently explicit. And yes, there are cases where that impact actually is minimal to non-existing. But that's not the point. And the conclusion that Cappelen draws, viz., 'Note that doing just what semanticists do -- i.e., proposing semantics for particular fragments of a natural language -- is not included in this list \[of what Cappelen considers to be acceptable engagements of philosophers with linguistics, ms]' (Cappelen, 2017, p. 754), means that the Cappelen philosopher foregoes testing whether what they think they have to say about the foundations of linguisticsis actually relevant for linguistics. But foregoing that reality check is a sure route to irrelevance.
+
+[^16]:
+
+Some claim that conceptual engineering works primarily through changing language (Koch & Lupyan, 2025); others emphasise that it is primarily a normative issue (Köhler & Veluwenkamp, 2024); and yet others focus on specific cases such as countering biases in large language models (Rudolph et al., 2025). It should be noted that Cappelen (Cappelen, 2018a, b) ex- presses doubts about the possibility of effective implementation, but among those who do not share these doubts, there is little to no discussion as to how to go about concretely to get an actual engineered concept in circulation, nor do there seem to be any studies about success and failure conditions. Which given the practical goals is odd.
 
 One additional question that is raised by the effectiveness concern is whether philosophers engaged in conceptual engineering are perhaps too optimistic? Are discriminatory practices for example always only a matter of people not having the right concepts (tools) to phrase and discuss theproblems? Should we not also acknowledge that no matter what, some people simply have the ideas that they have, not because they can't 'see better', but because they are bad people?
 
-[^17.   Of course, as is well-known from studies on the history of science the relation between science and technology is not a one-way street but consists of complex interactions that play out at various levels and different scales.
+[^17]: 
 
-[^18.   Prominent example of someone to whom we would ascribe the thick view is Sally Haslanger. As we have seen above in footnote [6,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark6) Haslanger explicitly acknowledges continuity between philosophical and empirical work.
+Of course, as is well-known from studies on the history of science the relation between science and technology is not a one-way street but consists of complex interactions that play out at various levels and different scales.
 
-[^19.   Prominent example of someone to whom we would ascribe the thin view would be Herman Cappelen. Cappelen calls his approach 'the austere view', but so as not to give the impression that we are strictly following his example when describing the thin view, we refrain from using his terminology.
+[^18]:
 
-Cappelen's thin conception leads him to (re-)interpret almost the entire history of analytical philosophy as engaged in conceptual engineering (C[appelen,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark107) [2018a,b](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark108)). That's a sweeping claim that calls for more comments that we have room for here. A more nuanced picture is painted in [DutilhNovaes](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark121) [(2020).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark121)
+Prominent example of someone to whom we would ascribe the thick view is Sally Haslanger. As we have seen above in footnote [^6]. Haslanger explicitly acknowledges continuity between philosophical and empirical work.
 
-What is interesting to note in view of the Wittgensteinian roots of the alternative that is developed in this paper is that Wittgenstein's work is entirely overlooked (neglected?) by Cappelen. It definitely does *not*fit into the picture that he sketches, anyway.
+[^19]:
 
-[^20.   Perhaps we should dub this 'the John Lennon conception'. See [Dobler](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark120) [(2025)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark120) for a similar take.
+Prominent example of someone to whom we would ascribe the thin view would be Herman Cappelen. Cappelen calls his approach 'the austere view', but so as not to give the impression that we are strictly following his example when describing the thin view, we refrain from using his terminology.
 
-[^21.   Haslanger has argued at length against the objection that her form of constructivism lands her in a relativist position [(Haslanger,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark131) [2003).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark131) She argues that we need to acknowledge the forces of social construction while at the same remaining true to a form of ontological realism [(Haslanger,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark133) [2012,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark133) p.112):
+Cappelen's thin conception leads him to (re-)interpret almost the entire history of analytical philosophy as engaged in conceptual engineering (Cappelen, 2018a, b). That's a sweeping claim that calls for more comments that we have room for here. A more nuanced picture is painted in Dutilh Novaes (2020).
 
-We must distance ourselves from the objectivist tendencies to limit our vision of what's real, but we must be careful at the same time not simply to accept perspectivist limitations in their place. I would propose that the task before us is to construct alternative, modestly realist, ontologies that enable us to come to more adequate and just visions of what is, what might be, and what should be.
+What is interesting to note in view of the Wittgensteinian roots of the alternative that is developed in this paper is that Wittgenstein's work is entirely overlooked (neglected?) by Cappelen. It definitely does *not* fit into the picture that he sketches, anyway.
 
-[^22.   This would echo Cappelen's references to Nietzsche.
+[^20]:
 
-[^23.   As Cappelen [(Cappelen](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark107), [2018a,b)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark108) argues.
+Perhaps we should dub this 'the John Lennon conception'. See Dobler (2025) for a similar take.
 
-[^24.   A similar objection can be raised against the pluralist views of, e.g., Chalmers [(Chalmers,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark110) [2020)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark110) and Nado [(Nado,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark145) [2021).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark145) The problem is that their analyses focus too much on what meanings are and what meanings terms have, and neglect what it is that meanings *do*. Chalmers does connect his conceptual pluralism with different contexts of use for concepts. But without an independent grounding it is not obvious how that kind of pluralism can escape relativism.
+[^21]:
 
-[^25.   This metaphysically grounded form of moral realism is to be distinguished from the view that acknowledges the objectivity of certain moral principles, but do not ground that ontologically (in either a material world or a social world), but view it in terms of their regulative nature. See[Stokhof](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark155) [(2018)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark155) for a defence of such a form of moral realism.
+Haslanger has argued at length against the objection that her form of constructivism lands her in a relativist position (Haslanger, 2003). She argues that we need to acknowledge the forces of social construction while at the same remaining true to a form of ontological realism (Haslanger, 2012, p.112):
 
-[^26.   So, Hacker is right in thinking that philosophical analysis is relevant, but wrong in thinking that it is *a priori* to science. (Just look at the facts . . . ) And Williamson is right in *not* assigning a special status to philosophy, but wrong in thinking that it is 'just like science'. (Just look at the facts .. . ). So yes, there is something special about philosophical analysis. But it is not a special method, nor a special domain. It is a different way of looking, a different concern.
+"We must distance ourselves from the objectivist tendencies to limit our vision of what's real, but we must be careful at the same time not simply to accept perspectivist limitations in their place. I would propose that the task before us is to construct alternative, modestly realist, ontologies that enable us to come to more adequate and just visions of what is, what might be, and what should be."
 
-[^27.   For more on this take on philosophy, see [Stokhof](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark154) [(2017,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark154) [2020,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark156) [2022a).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark157) It wasn't always called 'philosophie pauvre', that name was concocted only later. The association with 'arte povera' is intentional, as there are some interesting, albeit fairly general, similarities. They share a return to the everyday, they make room for interactions between nature and human activities, and for the role of embodiment and behaviour in the creation of meaning.
+[^22]:
 
-The Wittgensteinian roots of philosophie pauvre are elaborated in what follows. Re- flections on contemporary philosophy that are similar in spirit, but that are rooted in Dewey-an pragmatism can be found in [Kitcher](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark137) [(2011).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark137) (Thanks to Johan van Benthem for drawing my attention toKitcher's work.) There are also affinities with Rorty's views.
+This would echo Cappelen's references to Nietzsche.
 
-[^28.   See [Stokhof](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark158) [(2022b)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark158) for more elaboration, including a discussion of earlier work on the rela- tionship between aspect seeing and Wittgenstein's philosophy of Aidun, Mulhall, Genova and Baker.
+[^23.]:
 
-[^29.   There is also 'aspect dawning' and 'aspect change', and such a thing as 'aspect blindness'. We do not go into the commonalities and differences between these notions here, and use 'aspect seeing' as a broad cover-all term.
+As Cappelen (Cappelen 2018a, b) argues.
 
-[^30.   There is a passage in *Philosophical**Investigations,**144*where Wittgenstein reflects on the argument that he is developing, --which involves a teacher learning a pupil to write out a number series--, where he says the following:
+[^24]:
 
-What do I mean when I say 'the pupil's ability to learn may come to an end here'? Do I report this from my own experience? Of course not. (Even if I have had such experience.) Then what am I doing with that remark? After all, I'd like you to say: 'Yes, it's true, one could imagine that too, that might happen too!' But was I trying to draw someone's attention to the fact that he is able to imagine that? -- I wanted to put that picture before him, and his acceptance of the picture consists in his now being inclined to regard a given case differently: that is, to compare itwith this sequence of pictures. I have changed his way of looking at things. (Indian mathematicians: 'Look at this!')
+A similar objection can be raised against the pluralist views of, e.g., Chalmers (2020) and Nado (2021). The problem is that their analyses focus too much on what meanings are and what meanings terms have, and neglect what it is that meanings *do*. Chalmers does connect his conceptual pluralism with different contexts of use for concepts. But without an independent grounding it is not obvious how that kind of pluralism can escape relativism.
 
-So, a philosophical observation is *not*an empirical observation, even though what is being observed *is*(in many cases) an empirical fact ('(Even if I have had such experience.)'). And it is also *not*an observation about our imaginative abilities: that we can imagine cases is a precondition. Aphilosophical observation is change-inducing: '\[. . . ] his acceptance of the picture consists in his now being inclined to regard a given case differently.'
+[^25]:
 
-Wittgenstein's work provides ample examples. To mention one: the beetle-in-the-box dis- cussion in *Philosophical Investigations, 293 ff.*, as part of his considerations regarding the impossibility of a private language. Where we might be inclined to think that psychological terms, such as 'pain', 'fear',and so on, must be either referring to a mental state or process or to a particular form of behaviour, Wittgenstein suggests dropping the idea of reference as applicable to such terms. The nagging question who is right, the mentalist or the behaviourist, then loses its hold.
+This metaphysically grounded form of moral realism is to be distinguished from the view that acknowledges the objectivity of certain moral principles, but do not ground that ontologically (in either a material world or a social world), but view it in terms of their regulative nature. See Stokhof (2018) for a defence of such a form of moral realism.
 
-[^31.   This is what is 'therapeutic' about it. But it is not the kind of radical therapy that aims to show that there are not philosophical problems or philosophical answers to begin with. Philosophy liberates, but it does so by creating new ways of seeing things, new meanings, not by showing that allof philosophy is nonsensical.
+[^26]:
 
-[^32.   To what Wittgenstein calls 'our craving for generality' [(Wittgenstein,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark165) [1958,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark165) p. 17).
+So, Hacker is right in thinking that philosophical analysis is relevant, but wrong in thinking that it is *a priori* to science. (Just look at the facts ... ) And Williamson is right in *not* assigning a special status to philosophy, but wrong in thinking that it is 'just like science'. (Just look at the facts ... ). So yes, there is something special about philosophical analysis. But it is not a special method, nor a special domain. It is a different way of looking, a different concern.
 
-[^33.   Which is where the analogy with visual aspect seeing breaks down, of course.
+[^27]:
 
-[^34.   As Wittgenstein formulates it in *Philosophical**Investigations,**142*[(Wittgenstein,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark167) [20](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark167)09a):
+For more on this take on philosophy, see Stokhof (2017, 2020, 2022a). It wasn't always called 'philosophie pauvre', that name was concocted only later. The association with 'arte povera' is intentional, as there are some interesting, albeit fairly general, similarities. They share a return to the everyday, they make room for interactions between nature and human activities, and for the role of embodiment and behaviour in the creation of meaning.
 
-It is only in normal cases that the use of a word is clearly laid out in advance for us; we know, are in no doubt, what we have to say in this or that case. The more abnormal the case, the more doubtful it becomes what we are to say. And if things were quite different from what theyactually are \[. . . ] our normal language-games would thereby lose their point.
+The Wittgensteinian roots of philosophie pauvre are elaborated in what follows. Reflections on contemporary philosophy that are similar in spirit, but that are rooted in Dewey-an pragmatism can be found in Kitcher (2011). (Thanks to Johan van Benthem for drawing my attention to Kitcher's work.) There are also affinities with Rorty's views.
 
-The procedure of putting a lump of cheese on a balance and fixing the price
+[^28]:
 
-by the turn of the scale would lose its point if it frequently happened that such lumps suddenly grew or shrank with no obvious cause.
+See Stokhof (2022b) for more elaboration, including a discussion of earlier work on the relationship between aspect seeing and Wittgenstein's philosophy of Aidun, Mulhall, Genova and Baker.
 
-To which Wittgenstein adds the following a remark: 'What we have to mention in order to explain the significance, I mean the importance, of a concept are often extremely general facts of nature: such facts as are hardly ever mentioned because of their great generality.' He makes a similar remark when discussing the role of imagination: see below footnote [6.](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark6) For more on the dynamics of commonalities and differences see section [5.](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark4)
+[^29]:
 
-[^35.   The constitutive nature of certainties and the distinction between certainties and beliefs and knowledge claims is one of the key contributions of Wittgenstein's *On Certainty*[(Wittgenstein,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark166) [1969).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark166) It has given rise to a particular approach in epistemology called 'hinge epistemology'. See [Coliva](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark114) [(2015);](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark114) [Coliva & Moyal-Sharrock](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark115) [(2018)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark115) for introductions and overviews. For the role of certainty in philosophie pauvre see [Stokhof](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark154) [(2017,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark154) [2020).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark156)
+There is also 'aspect dawning' and 'aspect change', and such a thing as 'aspect blindness'. We do not go into the commonalities and differences between these notions here, and use 'aspect seeing' as a broad cover-all term.
 
-[^36.   This needs to be read in a comprehensive manner. The point of a practice need not be 'prac- tical' in the more common sense of the word. Daydreaming has a point just as much as cook- ing. Having a point combines intentionality and valuing, which is reflected in what Schatzki [(Schatzki,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark152)[1996)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark152) calls the 'teleo-affective structure of a practice.
+[^30]:
 
-[^37.   As Wittgenstein puts it in [(Wittgenstein,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark168) [2009b,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark168) section xii, 365):
+There is a passage in *Philosophical Investigations, 144* where Wittgenstein reflects on the argument that he is developing, --which involves a teacher learning a pupil to write out a number series--, where he says the following:
 
-If concept formation can be explained by facts of nature, shouldn't we be interested, not in grammar, but rather in what is its basis in nature? -- We are, indeed, also interested in the correspondence between concepts and very general facts of nature. (Such facts as mostly donot strike us because of their generality.) But our interest is not thereby thrown back on to these possible causes of concept formation; we are not doing natural science; nor yet natural history -- since we can also invent fictitious natural history for our purposes.
+What do I mean when I say 'the pupil's ability to learn may come to an end here'? Do I report this from my own experience? Of course not. (Even if I have had such experience.) Then what am I doing with that remark? After all, I'd like you to say: 'Yes, it's true, one could imagine that too, that might happen too!' But was I trying to draw someone's attention to the fact that he is able to imagine that? -- I wanted to put that picture before him, and his acceptance of the picture consists in his now being inclined to regard a given case differently: that is, to compare it with this sequence of pictures. I have changed his way of looking at things. (Indian mathematicians: 'Look at this!')
 
-[^38.   Thus, we heartily disagree with Jerry Fodor when he wrote (F[odor,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark126) [1979,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark126) p. 57):
+So, a philosophical observation is *not* an empirical observation, even though what is being observed *is* (in many cases) an empirical fact ('(Even if I have had such experience.)'). And it is also *not* an observation about our imaginative abilities: that we can imagine cases is a precondition. A philosophical observation is change-inducing: '\[... ] his acceptance of the picture consists in his now being inclined to regard a given case differently.'
 
-I was once told by a very young philosopher that it is a matter for decision whether animals can (can be said to) hear. 'After all,' he said, 'it's our word'. But this sort of conventionalism won't do; the issue isn't whether we ought to be polite to animals.
+Wittgenstein's work provides ample examples. To mention one: the beetle-in-the-box discussion in *Philosophical Investigations, 293 ff.*, as part of his considerations regarding the impossibility of a private language. Where we might be inclined to think that psychological terms, such as 'pain', 'fear', and so on, must be either referring to a mental state or process or to a particular form of behaviour, Wittgenstein suggests dropping the idea of reference as applicable to such terms. The nagging question who is right, the mentalist or the behaviourist, then loses its hold.
+
+[^31]:
+
+This is what is 'therapeutic' about it. But it is not the kind of radical therapy that aims to show that there are not philosophical problems or philosophical answers to begin with. Philosophy liberates, but it does so by creating new ways of seeing things, new meanings, not by showing that all of philosophy is nonsensical.
+
+[^32]:
+
+To what Wittgenstein calls 'our craving for generality' (Wittgenstein, 1958, p. 17).
+
+[^33]:
+
+Which is where the analogy with visual aspect seeing breaks down, of course.
+
+[^34]:
+
+As Wittgenstein formulates it in *Philosophical Investigations, 142* (Wittgenstein, 2009a):
+
+"It is only in normal cases that the use of a word is clearly laid out in advance for us; we know, are in no doubt, what we have to say in this or that case. The more abnormal the case, the more doubtful it becomes what we are to say. And if things were quite different from what theyactually are \[... ] our normal language-games would thereby lose their point."
+
+The procedure of putting a lump of cheese on a balance and fixing the price by the turn of the scale would lose its point if it frequently happened that such lumps suddenly grew or shrank with no obvious cause.
+
+To which Wittgenstein adds the following a remark: 'What we have to mention in order to explain the significance, I mean the importance, of a concept are often extremely general facts of nature: such facts as are hardly ever mentioned because of their great generality.' He makes a similar remark when discussing the role of imagination: see below footnote [^6]. For more on the dynamics of commonalities and differences see section 5.
+
+[^35]:
+
+The constitutive nature of certainties and the distinction between certainties and beliefs and knowledge claims is one of the key contributions of Wittgenstein's *On Certainty* (Wittgenstein, 1969). It has given rise to a particular approach in epistemology called 'hinge epistemology'. See Coliva (2015); Coliva & Moyal-Sharrock] (2018) for introductions and overviews. For the role of certainty in philosophie pauvre see Stokhof (2017, 2020).
+
+[^36]: 
+
+This needs to be read in a comprehensive manner. The point of a practice need not be 'practical' in the more common sense of the word. Daydreaming has a point just as much as cooking. Having a point combines intentionality and valuing, which is reflected in what Schatzki (Schatzki, 1996) calls the 'teleo-affective structure of a practice.
+
+[^37]:
+
+As Wittgenstein puts it in (Wittgenstein, 2009b, section xii, 365):
+
+"If concept formation can be explained by facts of nature, shouldn't we be interested, not in grammar, but rather in what is its basis in nature? -- We are, indeed, also interested in the correspondence between concepts and very general facts of nature. (Such facts as mostly do not strike us because of their generality.) But our interest is not thereby thrown back on to these possible causes of concept formation; we are not doing natural science; nor yet natural history -- since we can also invent fictitious natural history for our purposes."
+
+[^38]:  
+
+Thus, we heartily disagree with Jerry Fodor when he wrote (F[odor, 1979, p. 57):
+
+"I was once told by a very young philosopher that it is a matter for decision whether animals can (can be said to) hear. 'After all,' he said, 'it's our word'. But this sort of conventionalism won't do; the issue isn't whether we ought to be polite to animals."
 
 But it does, precisely because it isn't conventionalism and because there also isn't an 'essence' that prevents us from doing so. Whether it is a good decision is, of course, an entirely different matter.
 
-[^39.   The term is borrowed from Mieke Bal's work on the methodology of cultural analysis [(Bal,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark98) [2002).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark98) There are some resemblances with our use of the term, but also a lot of differences. To mention one important one, Bal's use of the term is to indicate conceptual changes across humanistic disciplines, ours covers a much wider range of dependencies.
+[^39]:
+
+The term is borrowed from Mieke Bal's work on the methodology of cultural analysis [(Bal,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark98) [2002).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark98) There are some resemblances with our use of the term, but also a lot of differences. To mention one important one, Bal's use of the term is to indicate conceptual changes across humanistic disciplines, ours covers a much wider range of dependencies.
 
 [^40.   We use 'concept' and 'expression' intermingled, without supposing, first, that the connection is 'fixed' (let alone 1-1), or, second, that all concepts can be expressed in language. These are complicated issues that are best left for another occasion. For present purposes the details do not matter. What does matter is that we do not identify a concept with an expression. First of all, because it is not expressions as such, but the ways in we use them that carry meaning. And second, because those meanings themselves are not fixed, but flexible and 'open'. This means that it will not be possible to provide a general answer to the question what exactly it is that can change and what needs to stay put. We can provide descriptions, and these descriptions will display certain patterns. But that is not tantamount to giving a general definition. See also the observations on the verbal and non-verbal dimensions of understanding in section [4,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark3) in particular footnote [6.](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark6)
 
