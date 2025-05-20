@@ -576,33 +576,53 @@ But it does, precisely because it isn't conventionalism and because th
 
 [^39]:
 
-The term is borrowed from Mieke Bal's work on the methodology of cultural analysis [(Bal,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark98) [2002).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark98) There are some resemblances with our use of the term, but also a lot of differences. To mention one important one, Bal's use of the term is to indicate conceptual changes across humanistic disciplines, ours covers a much wider range of dependencies.
+The term is borrowed from Mieke Bal's work on the methodology of cultural analysis (Bal, 2002). There are some resemblances with our use of the term, but also a lot of differences. To mention one important one, Bal's use of the term is to indicate conceptual changes across humanistic disciplines, ours covers a much wider range of dependencies.
 
-[^40.   We use 'concept' and 'expression' intermingled, without supposing, first, that the connection is 'fixed' (let alone 1-1), or, second, that all concepts can be expressed in language. These are complicated issues that are best left for another occasion. For present purposes the details do not matter. What does matter is that we do not identify a concept with an expression. First of all, because it is not expressions as such, but the ways in we use them that carry meaning. And second, because those meanings themselves are not fixed, but flexible and 'open'. This means that it will not be possible to provide a general answer to the question what exactly it is that can change and what needs to stay put. We can provide descriptions, and these descriptions will display certain patterns. But that is not tantamount to giving a general definition. See also the observations on the verbal and non-verbal dimensions of understanding in section [4,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark3) in particular footnote [6.](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark6)
+[^40]:
 
-[^41.   As developed in *Philosophical**Investigations,**65\*\*ff.*and widely applied in various analyses.
+We use 'concept' and 'expression' intermingled, without supposing, first, that the connection is 'fixed' (let alone 1-1), or, second, that all concepts can be expressed in language. These are complicated issues that are best left for another occasion. For present purposes the details do not matter. What does matter is that we do not identify a concept with an expression. First of all, because it is not expressions as such, but the ways in we use them that carry meaning. And second, because those meanings themselves are not fixed, but flexible and 'open'. This means that it will not be possible to provide a general answer to the question what exactly it is that can change and what needs to stay put. We can provide descriptions, and these descriptions will display certain patterns. But that is not tantamount to giving a general definition. See also the observations on the verbal and non-verbal dimensions of understanding in section 4, in particular footnote [^6].
 
-[^42.   For another Wittgenstein-inspired pluralistic take on conceptual engineering see [Dobler](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark119) [(2024,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark119) [2025),](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark120) which is based on the pluralist semantics Dobler developed in [Dobler](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark118) [(2019).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark118) There are a number of affinities between Dobler's approach and the travelling concepts approach, but alsosome differences. In [Dobler](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark119) [(2024)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark119) Dobler argues that we need to differentiate between 'folk concepts' and 'scientific concepts' as separate targets for conceptual engineering in view of their different origins. Although we do not claim that all concepts are equally susceptible to travelling effects, we do think that no category of concepts is exempt from them. Of course, as was mentioned above, we can, and often do, 'fix' a concept for a particular application, say, in the context of a theory, or for its use in a legally binding contract. But there is no principled distinction between concepts can be so fixed and those that cannot. Fixing, or not, is decision we make, for better or worse. It is not determined by the nature of a concept as such.
+[^41]:
 
-[^43.   Hacking [(Hacking,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark130) [199](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark130)9) gives a principled critique of social constructionism and the relativism to which he claims it leads. Haslanger discusses Hacking's objections in detail in [Haslanger](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark131) [(2003),](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark131) claiming that the kind of conceptual engineering she advocates is not affected by Hacking's criticism.
+As developed in *Philosophical Investigations, 65\*\*ff.* and widely applied in various analyses.
 
-[^44.   This is where science fiction excels.
+[^42]:
 
-[^45.   This resembles what Ian Hacking [(Hacking,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark129) [1995)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark129) calls a 'looping concept': the application of the concepts leads to results that change the concept so that it leads to different results . . .
+For another Wittgenstein-inspired pluralistic take on conceptual engineering see Dobler (2024, 2025), which is based on the pluralist semantics Dobler developed in Dobler (2019). There are a number of affinities between Dobler's approach and the travelling concepts approach, but alsosome differences. In Dobler (2024), he argues that we need to differentiate between 'folk concepts' and 'scientific concepts' as separate targets for conceptual engineering in view of their different origins. Although we do not claim that all concepts are equally susceptible to travelling effects, we do think that no category of concepts is exempt from them. Of course, as was mentioned above, we can, and often do, 'fix' a concept for a particular application, say, in the context of a theory, or for its use in a legally binding contract. But there is no principled distinction between concepts can be so fixed and those that cannot. Fixing, or not, is decision we make, for better or worse. It is not determined by the nature of a concept as such.
 
-[^46.   Jacques Bouveresse [(Bouveresse,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark102) [1973)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark102) expresses it as follows:
+[^43]:
 
-In a sense, there is no servitude more intolerable than that which constrains a man professionally to have an opinion in cases in which he may not necessarily have the least qualification. What is at issue here, from Wittgenstein's point of view, is not by any means thephilosopher's 'wisdom' -- that is, the stock of theoretical knowledge he has at his disposition -- but the personal price he has had to pay for what he believes he is able to think and say. \[. . . ] In the last analysis, a philosophy can be nothing other than the expression of an exemplaryhuman experience.
+Hacking (1999) gives a principled critique of social constructionism and the relativism to which he claims it leads. Haslanger discusses Hacking's objections in detail in Haslanger (2003), claiming that the kind of conceptual engineering she advocates is not affected by Hacking's criticism.
 
-There *is* a moral dimension to philosophie pauvre, but it is rather the opposite of what conceptual engineering claims. The moral dimension of 'philosophie pauvre' is objective, but personal. See [Stokhof](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark155) [(2018)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark155) for further discussion.
+[^44]:
 
-[^47.   In what follows we use 'genAI' and 'genAI system(s)' as abbreviations.
+This is where science fiction excels.
 
-[^48.   The notion of understanding has received quite some attention in recent years, especially in the context of virtue epistemology. See [Pritchard](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark146) [(2014)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark146) for some relevant analyses, that argue for a distinction between understanding and knowledge; for a dissenting voice see [(Khalifa,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark136) [2017,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark136)chapter 3).
+[^45]:
 
-[^49.   The core sections are *Philosophical**Investigations,**139--242*.
+This resembles what Ian Hacking (Hacking 1995) calls a 'looping concept': the application of the concepts leads to results that change the concept so that it leads to different results ...
 
-[^50.   There is a thoroughly sceptical interpretation, the *locus classicus*of which is [Kripke](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark140) [(1982),](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark140) which has been criticised, e.g., [(Baker & Hacker,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark97) [1984)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark97) and defended, e.g., [(Kusch,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark141) [2006)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark141). See [Boghossian](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark101) [(1989)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark101) for an overview of early discussions. Our own take is akin to the naturalisticinterpretation proposed in [Williams](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark162) [(2010).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark162)
+[^46.   Jacques Bouveresse (Bouveresse, 1973) expresses it as follows:
+
+"In a sense, there is no servitude more intolerable than that which constrains a man professionally to have an opinion in cases in which he may not necessarily have the least qualification. What is at issue here, from Wittgenstein's point of view, is not by any means thephilosopher's 'wisdom' -- that is, the stock of theoretical knowledge he has at his disposition -- but the personal price he has had to pay for what he believes he is able to think and say. \[ ... ] In the last analysis, a philosophy can be nothing other than the expression of an exemplaryhuman experience."
+
+There *is* a moral dimension to philosophie pauvre, but it is rather the opposite of what conceptual engineering claims. The moral dimension of 'philosophie pauvre' is objective, but personal. See Stokhof (2018) for further discussion.
+
+[^47]:
+
+In what follows we use 'genAI' and 'genAI system(s)' as abbreviations.
+
+[^48]:
+
+The notion of understanding has received quite some attention in recent years, especially in the context of virtue epistemology. See Pritchard (2014) for some relevant analyses, that argue for a distinction between understanding and knowledge; for a dissenting voice see (Khalifa, 2017, chapter 3).
+
+[^49]:
+
+The core sections are *Philosophical Investigations, 139--242*.
+
+[^50]:
+
+There is a thoroughly sceptical interpretation, the *locus classicus* of which is Kripke (1982), which has been criticised, e.g., (Baker & Hacker, 1984) and defended, e.g., (Kusch, 2006). See Boghossian (1989) for an overview of early discussions. Our own take is akin to the naturalistic interpretation proposed in Williams (2010).
 
 [^51.   *Philosophical**Investigations,**150* :
 
