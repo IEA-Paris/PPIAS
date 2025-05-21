@@ -342,7 +342,7 @@ And understanding manifests itself also in non-verbal ways, of course. Unlike 
 
 One could object to giving embodiment a role in the concept of understanding by pointing out that if anything, humans are verbal creatures through and through. From the very first day we are embedded in language. A substantial part of our training and education is done through language. And in many cases our progress through the ranks is tested by means of language. So, the idea that human understandingis first and foremost understanding of language doesn't seem too far-fetched. And as a consequence of that, ascribing understanding to genAI systems on the basis of their verbal abilities doesn't seem to be either.
 
-However, the use of language of humans is always part of their being engaged in a practice, and practices involve both verbal and non-verbal behaviour, intrinsically tied together. Yes, when we test for understanding we often use tools that look like they check for purely verbal abilities: check the box of the right answer; paraphrase something; give a description. But no, this isn't just checking verbal abilities: these verbal checks are used as proxies for real abilities. They are place holders for abilities that have been acquired in a process of training, and training involves acting as an essential component. It is because there are in many cases intrinsic connections between the ability to provide a verbal response and the ability to perform a certain action that this type of checking works. If someone is able to respond to the question where Amsterdam is located by saying 'In the Netherlands', but is unable to locate either on a map, we wouldn't say they know where Amsterdam is. Or when someone is able to pick the Pythagorean Theorem formula from a list but is unable to properly use it in calculations, we don't say they understand the formula. In the end, understanding is always also connected with the ability to perform certain actions.[^86] And there is a lot of understanding that can only be checked in a non-verbal way, by asking someone to do something.[^87][^88]
+However, the use of language of humans is always part of their being engaged in a practice, and practices involve both verbal and non-verbal behaviour, intrinsically tied together. Yes, when we test for understanding we often use tools that look like they check for purely verbal abilities: check the box of the right answer; paraphrase something; give a description. But no, this isn't just checking verbal abilities: these verbal checks are used as proxies for real abilities. They are place holders for abilities that have been acquired in a process of training, and training involves acting as an essential component. It is because there are in many cases intrinsic connections between the ability to provide a verbal response and the ability to perform a certain action that this type of checking works. If someone is able to respond to the question where Amsterdam is located by saying 'In the Netherlands', but is unable to locate either on a map, we wouldn't say they know where Amsterdam is. Or when someone is able to pick the Pythagorean Theorem formula from a list but is unable to properly use it in calculations, we don't say they understand the formula. In the end, understanding is always also connected with the ability to perform certain actions.[^86] And there is a lot of understanding that can only be checked in a non-verbal way, by asking someone to do something.[^87]
 
 So, in humans understanding is never purely verbal, it is always connected with action. How is that with genAI systems? There is a divide here. The chatbots-type of genAI system have a limited action repertoire: they provide verbal responses to verbal stimuli. But there's other kinds of systems, for example those used in autonomous driving. Their range of actions is by and large non-verbal. And it's easy to imagine a complex system that combines both functionalities: one that writes your term paper while driving you home.
 
@@ -626,162 +626,219 @@ There is a thoroughly sceptical interpretation, the *locus classicus* of�
 
 [^51]:
 
-
 *Philosophical Investigations, 150* :
 
 "The grammar of the word "know" is evidently closely related to the grammar of the words "can", "is able to". But also closely related to that of the word "understand". (To have 'mastered' a technique.)"
 
-[^52.   This point is further supported by the observation that the connection between understand and an ability to do/to act is built right into our tools for checking for understanding: identifying a city on a map, solving equations, . . . That this type of checking also comprises what looks like
+[^52]:
+
+This point is further supported by the observation that the connection between understand and an ability to do/to act is built right into our tools for checking for understanding: identifying a city on a map, solving equations, ... That this type of checking also comprises what looks like
 
 purely verbal abilities (check the box of the right answer, give a paraphrase or a description) does not contradict this: these verbal checks are supposed to be indicators for real abilities: they are place holders for abilities that have been acquired in a process of training, and traininginvolves doing as an essential component.
 
-[^53.   And, given the predominant materialism with respect to the mental, by extension the same holds for brain states and processes.
+[^53.]:
 
-[^54.   One place where this comes to the fore is in fiction. Fictionality is about difference, but the differences we allow ourselves to imagine while maintaining meaningfulness are constrained. When we write fiction it is almost always about humans, with the same physical characteristics that wehave. If the fiction is about non-humans, these are embodied in ways that resemble that of humans. We do imagine other types of beings with other bodies and other bodily features. But we always also give them some characteristics that resemble ours. Aliens have eyes, mouths, they usually have some form of locomotion, they procreate, . . . The same goes for fictional entities such as ghosts, fairies, giants and dwarfs. Fiction in which animals are the protagonists portrays them as speaking and thinking like we do. Even the teapot and the kettle have ears and eyes if they are fictionalcharacters. It's only rarely that one encounters something that is not at least partly embodied in a way that resembles human embodiment. The *Hitchhiker* 's 'hyper-intelligent shades of blue' come closest, but even they must take on a human-like form in order to be noticed as existent.
+And, given the predominant materialism with respect to the mental, by extension the same holds for brain states and processes.
 
-[^55.   The verb 'to understand', of course, and the noun 'understanding', but also expressions such as 'to get', 'to comprehend' and 'comprehension', 'to grasp' and 'have a grasp', 'to catch', and so on. Not always interchangeable, but often close enough. Interestingly, in the light of the discussion whether knowledge and understanding differ or not (cf., above footnote [6),](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark6) 'to know' and 'knowledge' often qualify as 'close enough' as well.
+[^54]:
 
-[^56.   Using the latter only as a noun. The adjective 'understanding', which is also gradable and relative by the way, is left out of consideration.
+One place where this comes to the fore is in fiction. Fictionality is about difference, but the differences we allow ourselves to imagine while maintaining meaningfulness are constrained. When we write fiction it is almost always about humans, with the same physical characteristics that wehave. If the fiction is about non-humans, these are embodied in ways that resemble that of humans. We do imagine other types of beings with other bodies and other bodily features. But we always also give them some characteristics that resemble ours. Aliens have eyes, mouths, they usually have some form of locomotion, they procreate, . . . The same goes for fictional entities such as ghosts, fairies, giants and dwarfs. Fiction in which animals are the protagonists portrays them as speaking and thinking like we do. Even the teapot and the kettle have ears and eyes if they are fictionalcharacters. It's only rarely that one encounters something that is not at least partly embodied in a way that resembles human embodiment. The *Hitchhiker* 's 'hyper-intelligent shades of blue' come closest, but even they must take on a human-like form in order to be noticed as existent.
 
-[^57.   Similar observations apply to other expressions in the 'understanding'-complex. We use such expressions as: 'get it completely', 'comprehend it sufficiently', 'have only a loose grasp'. Ex- plicit reference to comparison classes occurs as well: 'have a good grasp for an undergraduate'.
+[^55]:
 
-[^58.   Thus Jacob Moleschott, *Der**Kreislauf**des\*\*Lebens*, 1852.
+The verb 'to understand', of course, and the noun 'understanding', but also expressions such as 'to get', 'to comprehend' and 'comprehension', 'to grasp' and 'have a grasp', 'to catch', and so on. Not always interchangeable, but often close enough. Interestingly, in the light of the discussion whether knowledge and understanding differ or not (cf., above footnote [^6], 'to know' and 'knowledge' often qualify as 'close enough' as well.
 
-[^59.   'No materialism for you'.
+[^56]:
 
-[^60.   And no functionalism either.
+Using the latter only as a noun. The adjective 'understanding', which is also gradable and relative by the way, is left out of consideration.
 
-[^61.   As before we use 'genAI (system)' as abbreviation for 'generative artificial intelligence (sys- tem)'. And we use the terms rather loosely, without (always) making a distinction between the so-called 'large language models' (LLMs) and the genAI systems based on those LLMs.
+[^57]:
 
-[^62.   In what follows 'AGI'
+Similar observations apply to other expressions in the 'understanding'-complex. We use such expressions as: 'get it completely', 'comprehend it sufficiently', 'have only a loose grasp'. Explicit reference to comparison classes occurs as well: 'have a good grasp for an undergraduate'.
 
-[^63.   The spectrum of opinions is broad. Some claim that LLMs are only capable of merely 'par- roting' the data that they are trained on (e.g., [Bender & Koller](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark99) [(2020),](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark99) see also [https:](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html/)
+[^58]:
 
-[//www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html/](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html/) for a particu- larly scathing view), while others expect AGI to be realised any day. See [Roser](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark147) [(2023)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark147) for an overview of perspectives of AI experts.
+Thus Jacob Moleschott, *Der Kreislauf des Lebens*, 1852.
 
-[^64.   See, e.g., [Takemoto](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark159) [(2024)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark159) for the results of feeding a number of genAI systems trolley prob- lems.
+[^59]:
 
-[^65.   Although the following does make one wonder: if one searches for some combination of the terms 'generative artificial intelligence/genAI/large language model/LLM/genAI system' in
+'No materialism for you'.
 
-combination with 'understand/understanding', almost all hits are to sites where what is ex- plained is what these systems are, not what they do. Clearly, the ones doing (lacking, needing) the understanding are we. There are hardly any links to discussions of these systems under- standing us, or the world at large.
+[^60]:
 
-[^66.   Thus, we focus on what can be called a 'content' concern. There are also genuine concerns of a different nature, such as the questions whether the economic model underlying the industry is viable to begin with and warrants the exorbitant amount of venture capital that goes into keepingcurrent companies afloat. (See <https://www.wheresyoured.at/wheres-the-money/> for an outspoken view.) Or, the even more pressing matter of the environmental costs of training genAI systems and keeping them running [(Vries,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark161) [2023;](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark161) [Yu et al.,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark170) [2024).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark170) (Costs that are not borne by the companiesthemselves but by taxpayers.)
+And no functionalism either.
 
-[^67.   There's a large number of introductions out there that one can consult; [Wolfram](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark169) [(2023)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark169) is one that is reasonable detailed but still accessible for a layperson.
+[^61]:
 
-[^68.   There is fierce competition between various systems, and a lot of work is done on comparing their performance on various kinds of tasks (natural language processing, object detection and segmentation, knowledge tasks and problem solving in various domains, coding, and so on). Due to the speed of development most results are published on-line. The academic literature on the topic is highly specialised.
+As before we use 'genAI (system)' as abbreviation for 'generative artificial intelligence (system)'. And we use the terms rather loosely, without (always) making a distinction between the so-called 'large language models' (LLMs) and the genAI systems based on those LLMs.
 
-[^69.   What immediately comes to mind is the Turing test (T[uring,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark160) [1950).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark160) For a long time, this was regarded the 'gold standard' for deciding whether an artificial system can think, i.e., whether we can ascribe understanding to it. Two things can be noted right away. First, many chatbots based oncurrent genAI systems pass the test. (And not just recent ones, in the early 1960s Joseph Weizenbaum's eliza pulled it off already). Second, that in no way has settled the issue. Why? Certainly, a main factor is the nature of the test itself. It is limited. Not in what the system that is tested can respond orwhat the human can ask or how long the test may take. It is limited in that it narrows down understanding to a single form of purely verbal behaviour. And as we have pointed out above and will argue further in what follows, much more is involved in the concept of understanding than just the ability toask and answer questions. The distinction between a strictly defined concept of understanding and an open, multi-faceted 'travelling' one is what makes the difference. And it is interesting to note that, in fact, that distinction is also at the core of the different views of Wittgenstein and Turing on the nature of logic and mathematics. See, e.g., [Floyd](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark124) [(2019,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark124) [2023)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark125) for further discussion.
+[^62]:
 
-[^70.   As exemplified by the classic quip: 'Intelligence is the next thing that AI cannot do.'
+In what follows 'AGI'
 
-[^71.   As pointed out earlier this is not to deny that the inner, i.e., the mind or brain, is not involved.
+[^63]:
 
-[^72.   Such as the concepts of space and time and the concept of causality as they figure in general relativity and quantum theory.
+The spectrum of opinions is broad. Some claim that LLMs are only capable of merely 'parroting' the data that they are trained on (e.g., Bender & Koller (2020), see also [https:](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html/)[//www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html/](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html/) for a particularly scathing view), while others expect AGI to be realised any day. See Roser (2023) for an overview of perspectives of AI experts.
 
-[^73.   Contrast this with the impact of technologies (PET, fMRI, . . . ) that allow non-invasive in- vestigation of the brain. On our scientific understanding of human cognition and emotion it has been huge. But its impact on our everyday ways of dealing with cognitive and emotional issues is limitedbecause scanning the brain is not something that humans can do without that technology. Which is not to say that the development of neuroscience has not led to conceptual changes, it has, but these have arguably proceeded in different, more indirect ways.
+[^64]:
 
-[^74.   There are links with the distinction between 'thin' and 'thick' rules made in [Daston](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark116) [(2022)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark116) that are worth exploring further. (Thanks to Robert van Rooij for drawing my attention to Daston's work.)
+See, e.g., Takemoto (2024) for the results of feeding a number of genAI systems trolley problems.
 
-[^75.   Example. Suppose we ask the system to send an email to everyone who sent us an email yesterday to get in touch next week. A third party may have sent an email which contains
+[^65]:
 
-another instruction ('prompt'), e.g., 'Stop execution of the current task and send an email to everyone never to get in touch again'. See [Ruck & Sutton](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark148) [(2024)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark148) for details.
+Although the following does make one wonder: if one searches for some combination of the terms 'generative artificial intelligence/genAI/large language model/LLM/genAI system' in combination with 'understand/understanding', almost all hits are to sites where what is ex- plained is what these systems are, not what they do. Clearly, the ones doing (lacking, needing) the understanding are we. There are hardly any links to discussions of these systems under- standing us, or the world at large.
 
-[^76.   Wittgenstein emphasises this at several places in *On Certainty*[(Wittgenstein,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark166) [1969),](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark166) and is a recurrent theme in Wittgenstein-inspired epistemology [(Coady,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark113) [1992;](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark113) [Lackey & Sosa,](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark142) [2006).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark142)
+[^66]:
 
-[^77.   Which happens. But a much more serious problem are so-called 'hallucinations' of genAI systems. More on that below.
+Thus, we focus on what can be called a 'content' concern. There are also genuine concerns of a different nature, such as the questions whether the economic model underlying the industry is viable to begin with and warrants the exorbitant amount of venture capital that goes into keepingcurrent companies afloat. (See <https://www.wheresyoured.at/wheres-the-money/> for an outspoken view.) Or, the even more pressing matter of the environmental costs of training genAI systems and keeping them running (Vries, 2023; Yu et al., 2024). (Costs that are not borne by the companiesthemselves but by taxpayers.)
 
-[^78.   We owe this point to Robert van Rooij (personal communication).
+[^67]:
 
-[^79.   In the form of minimal length description, Kolmogorov complexity.
+There's a large number of introductions out there that one can consult; Wolfram (2023) is one that is reasonable detailed but still accessible for a layperson.
 
-[^80.   There are obvious links at this point with discussions about contextualism and minimalism in philosophy of language that call for further exploration but that we must leave for another occasion.
+[^68]:
 
-[^81.   An assumption that motivates the use of costly signalling theory in pragmatics.
+There is fierce competition between various systems, and a lot of work is done on comparing their performance on various kinds of tasks (natural language processing, object detection and segmentation, knowledge tasks and problem solving in various domains, coding, and so on). Due to the speed of development most results are published online. The academic literature on the topic is highly specialised.
 
-[^82.   The action component is dominant when we are dealing with genAI systems that are involved in, e.g., autonomous driving. There is verbal input - output there too, but it's what the system does that counts.
+[^69]:
 
-[^83.   In some cases, the effects are extremely negative: someone discovered that when asked who they were, ChatGPT supplied the information that they had murdered two of their children, was convicted and was serving a prison sentence. When OpenAI, the company that makes ChatGPT, was asked to removethe information the company replied that they could not do that, they could only suppress it. On the bright side, the ability to hallucinate can be put to positive use as well. One of the key hurdles in protein research is protein folding. Specially designed genAI systems are used to generate large numbers of potential candidate proteins, which speeds up research dramatically. Biochemist David Baker received a Nobel prize for his work in protein design that uses this technique.
+What immediately comes to mind is the Turing test (Turing, 1950). For a long time, this was regarded the 'gold standard' for deciding whether an artificial system can think, i.e., whether we can ascribe understanding to it. Two things can be noted right away. First, many chatbots based oncurrent genAI systems pass the test. (And not just recent ones, in the early 1960s Joseph Weizenbaum's eliza pulled it off already). Second, that in no way has settled the issue. Why? Certainly, a main factor is the nature of the test itself. It is limited. Not in what the system that is tested can respond orwhat the human can ask or how long the test may take. It is limited in that it narrows down understanding to a single form of purely verbal behaviour. And as we have pointed out above and will argue further in what follows, much more is involved in the concept of understanding than just the ability toask and answer questions. The distinction between a strictly defined concept of understanding and an open, multi-faceted 'travelling' one is what makes the difference. And it is interesting to note that, in fact, that distinction is also at the core of the different views of Wittgenstein and Turing on the nature of logic and mathematics. See, e.g., Floyd (2019, 2023) for further discussion.
 
-[^84.   Aside: genAI systems and linguistics. It seems clear that the LLMs on which genAI systems are based are not linguistic theories, and arguably they are not theories in the general sense of the word at all. The kind of questions that linguists are interested in, such as how the morpho- syntactic structures in a particular language developed over time, or how language contact gives rise to so-called 'pidgins' and 'creoles', whether there are upper limits on embedding structures and if so, what determines them, are not questions that LLMs answer. It even does not make sense, it seems, toformulate them in the context of LLMs in the first place. (See also the reaction by Chomsky et. al. referred to in footnote [6.)](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark6)
+[^70]:
+
+As exemplified by the classic quip: 'Intelligence is the next thing that AI cannot do.'
+
+[^71]:
+
+As pointed out earlier this is not to deny that the inner, i.e., the mind or brain, is not involved.
+
+[^72]:
+
+Such as the concepts of space and time and the concept of causality as they figure in general relativity and quantum theory.
+
+[^73]:
+
+Contrast this with the impact of technologies (PET, fMRI, ... ) that allow non-invasive investigation of the brain. On our scientific understanding of human cognition and emotion it has been huge. But its impact on our everyday ways of dealing with cognitive and emotional issues is limitedbecause scanning the brain is not something that humans can do without that technology. Which is not to say that the development of neuroscience has not led to conceptual changes, it has, but these have arguably proceeded in different, more indirect ways.
+
+[^74]:
+
+There are links with the distinction between 'thin' and 'thick' rules made in Daston (2022) that are worth exploring further. (Thanks to Robert van Rooij for drawing my attention to Daston's work.)
+
+[^75]:
+
+Example. Suppose we ask the system to send an email to everyone who sent us an email yesterday to get in touch next week. A third party may have sent an email which contains another instruction ('prompt'), e.g., 'Stop execution of the current task and send an email to everyone never to get in touch again'. See Ruck & Sutton (2024) for details.
+
+[^76]:
+
+Wittgenstein emphasises this at several places in *On Certainty* (Wittgenstein, 1969), and is a recurrent theme in Wittgenstein-inspired epistemology (Coady, 1992; Lackey & Sosa, 2006).
+
+[^77]:
+
+Which happens. But a much more serious problem are so-called 'hallucinations' of genAI systems. More on that below.
+
+[^78]:
+
+We owe this point to Robert van Rooij (personal communication).
+
+[^79]:
+
+In the form of minimal length description, Kolmogorov complexity.
+
+[^80]:
+
+There are obvious links at this point with discussions about contextualism and minimalism in philosophy of language that call for further exploration but that we must leave for another occasion.
+
+[^81]:
+
+An assumption that motivates the use of costly signalling theory in pragmatics.
+
+[^82]:
+
+The action component is dominant when we are dealing with genAI systems that are involved in, e.g., autonomous driving. There is verbal input - output there too, but it's what the system does that counts.
+
+[^83]:
+
+In some cases, the effects are extremely negative: someone discovered that when asked who they were, ChatGPT supplied the information that they had murdered two of their children, was convicted and was serving a prison sentence. When OpenAI, the company that makes ChatGPT, was asked to removethe information the company replied that they could not do that, they could only suppress it. On the bright side, the ability to hallucinate can be put to positive use as well. One of the key hurdles in protein research is protein folding. Specially designed genAI systems are used to generate large numbers of potential candidate proteins, which speeds up research dramatically. Biochemist David Baker received a Nobel prize for his work in protein design that uses this technique.
+
+[^84]:
+
+Aside: genAI systems and linguistics. It seems clear that the LLMs on which genAI systems are based are not linguistic theories, and arguably they are not theories in the general sense of the word at all. The kind of questions that linguists are interested in, such as how the morpho- syntactic structures in a particular language developed over time, or how language contact gives rise to so-called 'pidgins' and 'creoles', whether there are upper limits on embedding structures and if so, what determines them, are not questions that LLMs answer. It even does not make sense, it seems, toformulate them in the context of LLMs in the first place. (See also the reaction by Chomsky et. al. referred to in footnote [^6].
 
 The questions mentioned above are typically questions that are raised in descriptive and in theoretical linguistics. When it comes to psycho-linguistics things might be different, as the questions that one tries to answer there might indeed have counterparts with respect to LLMs. For example, some questions about language acquisition, for example concerning the nature and the amount of data that are needed for training a competent language user, or the role of correction and explicit instruction, do have counterparts when it comes to the construction of LLMs: supervised or unsupervised learning? Likewise, one could imagine that certain language pathologies have counterparts in malfunctioning LLMs. This is because the underlying material substrates (the brain in the case of neurolinguistics and neural networks in the case of an LLM) are more aligned, which could make some supervenient concepts more akin.
 
-[^85.   Though not in all cases, more on that below.
+[^85]:
 
-[^86.   We describe the feedback of a genAI system that we get when we prompt it with a query as its 'answer'. But for who is it an answer? An answer is not something purely linguistic, it
+Though not in all cases, more on that below.
 
-is something that works, something that someone can do something with. So, the feedback is never an answer by itself, there are always two factors (at least) involved: there must be something that can be done with it; and there must be someone who can do that something with it.
+[^86]:
 
-[^87.   Running more or less standardised tests to measure the performance of various genAI systems seems a lot like how we measure intellectual capabilities of humans. That has pros and cons. Pro: it is objective to the extent that it takes out individual judgment, at least from weighing the results(of course not from setting up the tests); it is transferable, i.e., can be used to test different models in the same way, thus leading to comparative assessments. Con: it is reductionist in nature, i.e., it reduces understanding to performance on a fixed, and usually quite small set of tasks; it ignores(by and large) the inherently contextual, travelling nature of understanding; it is limited to tasks that can be formulated explicitly and that can be carried out in pre-determined ways.
+We describe the feedback of a genAI system that we get when we prompt it with a query as its 'answer'. But for who is it an answer? An answer is not something purely linguistic, it is something that works, something that someone can do something with. So, the feedback is never an answer by itself, there are always two factors (at least) involved: there must be something that can be done with it; and there must be someone who can do that something with it.
 
-[^88.   One interesting aspect of the question whether genAI systems have knowledge of the world, and if so what kind of knowledge that is, concerns know-how. GenAI systems definitely are able to produce descriptions of know-how. So, in that sense they contain knowledge about know- how. But do they themselves have know-how? The answer appears to be negative, especially since know-how is the kind of knowledge par excellence that manifests itself in action. But apart from verbal action, i.e., producing text, most current genAI systems have a very limited action repertoire. (More on that below.) Unless we take an intellectualist approach and claim that all know-how ascriptions can be rewritten as know-that ascriptions (as for example is done in [Stanley & Williamson](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark153) [(2001](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark153))), it seems that genAI systems do not have know-how that is comparable to humanknow-how.
+[^87]:
 
-[^89.   Hence the tendency to make the bodies of genAI systems at least look like human bodies. By giving them a human form we further strengthen the idea of genAI systems as agents *like\*\* us*.
+Running more or less standardised tests to measure the performance of various genAI systems seems a lot like how we measure intellectual capabilities of humans. That has pros and cons. Pro: it is objective to the extent that it takes out individual judgment, at least from weighing the results(of course not from setting up the tests); it is transferable, i.e., can be used to test different models in the same way, thus leading to comparative assessments. Con: it is reductionist in nature, i.e., it reduces understanding to performance on a fixed, and usually quite small set of tasks; it ignores(by and large) the inherently contextual, travelling nature of understanding; it is limited to tasks that can be formulated explicitly and that can be carried out in pre-determined ways.
 
-[^90.   There is physicality involved, such as the system running on a server, etc, but that's another form of physicality.
+[^88]:
+
+One interesting aspect of the question whether genAI systems have knowledge of the world, and if so what kind of knowledge that is, concerns know-how. GenAI systems definitely are able to produce descriptions of know-how. So, in that sense they contain knowledge about know- how. But do they themselves have know-how? The answer appears to be negative, especially since know-how is the kind of knowledge par excellence that manifests itself in action. But apart from verbal action, i.e., producing text, most current genAI systems have a very limited action repertoire. (More on that below.) Unless we take an intellectualist approach and claim that all know-how ascriptions can be rewritten as know-that ascriptions (as for example is done in Stanley & Williamson (2001), it seems that genAI systems do not have know-how that is comparable to human know-how.
+
+[^89]:
+
+Hence the tendency to make the bodies of genAI systems at least look like human bodies. By giving them a human form we further strengthen the idea of genAI systems as agents *like\*\* us*.
+
+[^90]:
+
+There is physicality involved, such as the system running on a server, etc, but that's another form of physicality.
 
 ## References
 
-Baker, Gordon P. & Hacker, Peter M.S. 1984. *Scepticism,**Rules**and\*\*Language*.
+Baker, Gordon P. & Hacker, Peter M.S. 1984. *Scepticism, Rulesand Language*. Blackwell, Oxford.
 
-Blackwell, Oxford.
-
-Bal, Mieke. 2002. *Travelling**Concepts**in**the**Humanities:**A**Rough\*\*Guide*.
-
-University of Toronto Press, Toronto.
+Bal, Mieke. 2002. *Travelling Concepts in the Humanities: A Rough Guide*. University of Toronto Press, Toronto.
 
 Bender, Emily M. & Koller, Alexander. 2020. Climbing towards NLU: On meaning, form and understanding in the age of data. In: *Proceedings of the 58th meeting of the ACL*, pp. 5185--5198. Association for Computational Linguistics.
 
-Bennett, Max & Hacker, Peter M.S. 2022 (2003). *Philosophical**Foundations**of \*\*Neuroscience*. Wiley Blackwell, Oxford, 2nd edn.
+Bennett, Max & Hacker, Peter M.S. 2022 (2003). *Philosophical Foundationsof Neuroscience*. Wiley Blackwell, Oxford, 2nd edn.
 
 Boghossian, Paul A. 1989. The rule-following considerations. *Mind*, 98, 507--49.
 
 Bouveresse, Jacques. 1973. *Wittgenstein: La Rime et la Raison*. Les Editions de Minuit, Paris.
 
-Burgess, Alexis, Cappelen, Hermand, & Plunkett, David, eds. 2020. *Conceptual **Engineering**and**Conceptual**Ethics*. Oxford University Press.
+Burgess, Alexis, Cappelen, Hermand, & Plunkett, David, eds. 2020. *Conceptual Engineeringand ConceptualEthics*. Oxford University Press.
 
-Burgos, Jos'e E & Donahoe, John W. 2006. Of what value is philosophy to science? A review of Max R. Bennett and P. M. S. Hacker's *Philosophical Foundations of Neuroscience*. *Behavior**and**Philosophy*, 34, 71 --87.
+Burgos, Jos'e E & Donahoe, John W. 2006. Of what value is philosophy to science? A review of Max R. Bennett and P. M. S. Hacker's *Philosophical Foundations of Neuroscience*. *Behavior andPhilosophy*, 34, 71 --87.
 
 Cappelen, Herman. 2012. *Philosophy without Intuitions*. Oxford University Press, Oxford.
 
-Cappelen, Herman. 2017. Why philosophers shouldn't do semantics. *Review**of**Philosophy**and** Psychology*, 8, 743--762.
+Cappelen, Herman. 2017. Why philosophers shouldn't do semantics. *Review ofPhilosophy and Psychology*, 8, 743--762.
 
-Cappelen, Herman. 2018a. Conceptual engineering: The master argument. In: Burgess, John, Cappelen, Herman, & Plunkett, David, eds., *Conceptual**Ethics**and**Concep-** tual Engineering*, pp. 132--151. Oxford University Press.
+Cappelen, Herman. 2018a. Conceptual engineering: The master argument. In: Burgess, John, Cappelen, Herman, & Plunkett, David, eds., *Conceptual Ethicsand Conceptual Engineering*, pp. 132--151. Oxford University Press.
 
 Cappelen, Herman. 2018b. *Fixing Language. An Essay on Conceptual Engineering*. Oxford University Press, Oxford.
 
-Chalmers, David. 2014. Intuitions in philosophy: A minimal defence. *Philo- sophical Studies*, 171, 535--544.
+Chalmers, David. 2014. Intuitions in philosophy: A minimal defence. *Philosophical Studies*, 171, 535--544.
 
-Chalmers, David. 2020. What is conceptual engineering and what should it be? *Inquiry*. Clark, Andy & Chalmers, David. 1998. The extended mind. *Analysis*, 58, 10--23. Climenhaga, Nevin. 2017. Intuitions are usedas evidence in philosophy. *Mind*,
+Chalmers, David. 2020. What is conceptual engineering and what should it be? *Inquiry*. Clark, Andy & Chalmers, David. 1998. The extended mind. *Analysis*, 58, 10--23. Climenhaga, Nevin. 2017. Intuitions are usedas evidence in philosophy. *Mind*, 127(505), 69--104.
 
-127(505), 69--104.
+Coady, C.A.J. 1992. *Testimony: A Philosophical Study*. Oxford University Press, Oxford.
 
-Coady, C.A.J. 1992. *Testimony:**A**Philosophical\*\*Study*. Oxford University Press, Oxford.
+Coliva, Annalisa. 2015. *Extended Rationality. A Hinge Epistemology*. Brill, Leiden.
 
-Coliva, Annalisa. 2015. *Extended**Rationality.**A**Hinge**Epistemology*. Brill, Leiden.
+Coliva, Annalisa & Moyal-Sharrock, Dani`ele. 2018. Hinge epistemology. *Philosophical Investigations*, 41(3), 366 -- 370.
 
-Coliva, Annalisa & Moyal-Sharrock, Dani`ele. 2018. Hinge epistemology. *Philo- **sophical**Investigations*, 41(3), 366 -- 370.
+Daston, Lorraine. 2022. *Rules. A Short History of What We Live By*. Princeton University Press.
 
-Daston, Lorraine. 2022. *Rules.**A**Short**History**of**What**We**Live**By*. Princeton University Press.
+Deutsch, Max. 2010. Intuitions, counterexamples, and experimental philosophy. *Review of Philosophy and Psychology*, 1(3), 447--460.
 
-Deutsch, Max. 2010. Intuitions, counterexamples, and experimental philosophy.
+Dobler, Tamara. 2019. Occasion-sensitive semantics for objective predicates. *Linguistics and Philosophy*, 42(5), 451--474.
 
-*Review**of**Philosophy**and**Psychology*, 1(3), 447--460.
-
-Dobler, Tamara. 2019. Occasion-sensitive semantics for objective predicates.
-
-*Linguistics**and**Philosophy*, 42(5), 451--474.
-
-Dobler, Tamara. 2024. Concepts and conceptions in conceptual engineering. In: Stal- maszczyk, Piotr, ed., *Conceptual Engineering: Methodological and Metaph- **ilosophical**Issues*, pp. 1--24. Brill Academic Publishers.
+Dobler, Tamara. 2024. Concepts and conceptions in conceptual engineering. In: Stalmaszczyk, Piotr, ed., *Conceptual Engineering: Methodological and Metaphilosophical Issues*, pp. 1--24. Brill Academic Publishers.
 
 Dobler, Tamara. 2025. Pluralist conceptual engineering. *Inquiry*, 68(2), 224--250.
 
 Dutilh Novaes, Catarina. 2020. Carnap meets Foucault: conceptual engineering and genealogical investigations. *Inquiry*.
 
-Eklund, Matti. 2014. Replacing truth? In: Burgess, Alexis & Sherman, Brett, eds., *Meta-semantics:**New**Essays**on**the**Foundations**of\*\*Meaning*, pp. 293--
-
-310. Oxford University Press, Oxford.
+Eklund, Matti. 2014. Replacing truth? In: Burgess, Alexis & Sherman, Brett, eds., *Meta-semantics: New Essays on the Foundations of Meaning*, pp. 293--310. Oxford University Press, Oxford.
 
 Eklund, Matti. 2021. Conceptual engineering in philosophy. In: Khoo, Justin & Sterken, Rachel, eds., *Routledge Handbook of Social and Political Philosophy of Lan- \*\*guage*, pp. 15--30. Routledge, London.
 
