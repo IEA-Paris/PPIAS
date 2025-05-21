@@ -842,112 +842,92 @@ Eklund, Matti. 2014. Replacing truth? In: Burgess, Alexis & Sherman, Brett, eds
 
 Eklund, Matti. 2021. Conceptual engineering in philosophy. In: Khoo, Justin & Sterken, Rachel, eds., *Routledge Handbook of Social and Political Philosophy of Lan- \*\*guage*, pp. 15--30. Routledge, London.
 
-Floyd, Juliet. 2019. Wittgenstein and Turing. In: Mras, G.M., Weingartner, P., & Ritter, B., eds., *Philosophy**of**Logic**and**Mathematics.**Proceedings**of*
-
-\*\
-
-* *the**41st**International**Wittgenstein**Symposium*, pp. 263--296. De Gruyter, Berlin.
+Floyd, Juliet. 2019. Wittgenstein and Turing. In: Mras, G.M., Weingartner, P., & Ritter, B., eds., *Philosophy of Logic and Mathematics. Proceedings of the 41st International Wittgenstein Symposium*, pp. 263--296. De Gruyter, Berlin.
 
 Floyd, Juliet. 2023. Revisiting the Turing test: Humans, machines and phraseology. In: Katz, James, Schiepers, Katie, & Floyd, Juliet, eds., *Nudging Choices Through Media. Ethical and Philosophical Implications forHumanity*, pp. 75--113. Palgrave MacMillan.
 
 Fodor, Jerry A. 1979. *The Language of Thought*. Harvard University Press, Cambridge, Mass.
 
-Hacker, Peter M.S. 2004a. The conceptual framework for the investigation of emotions. *International**Review**of\*\*Psychiatry*, 16(3), 199--208.
+Hacker, Peter M.S. 2004a. The conceptual framework for the investigation of emotions. *International Review of Psychiatry*, 16(3), 199--208.
 
 Hacker, Peter M.S.2004b. Talk for neuroscientists. Unpublished manuscript.
 
-Hacking, Ian. 1995. The looping effects of human kinds. In: Sperber, Dan, Premack, David, & Premack, Ann James, eds., *Causal Cognition: A Mul- tidisciplinary Debate*, pp. 351--82. Oxford University Press, Oxford.
+Hacking, Ian. 1995. The looping effects of human kinds. In: Sperber, Dan, Premack, David, & Premack, Ann James, eds., *Causal Cognition: A Multidisciplinary Debate*, pp. 351--82. Oxford University Press, Oxford.
 
-Hacking, Ian. 1999. *The Social Construction of What?* Harvard University Press, Cam- bridge, Mass.
+Hacking, Ian. 1999. *The Social Construction of What?* Harvard University Press, Cambridge, Mass.
 
-Haslanger, Sally. 2003. Social construction: The 'debunking' project. In: Schmitt, Frederick, ed., *Socializing\*\*Metaphysics*, pp. 301--325. Rowman and Littlefield, Lanham, MD. Also in [Haslanger](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark133) [(2012).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark133)
+Haslanger, Sally. 2003. Social construction: The 'debunking' project. In: Schmitt, Frederick, ed., *Socializing Metaphysics*, pp. 301--325. Rowman and Littlefield, Lanham, MD. Also in Haslanger (2012).
 
-Haslanger, Sally. 2005. What are we talking about? The semantics and politics of social kinds.
+Haslanger, Sally. 2005. What are we talking about? The semantics and politics of social kinds. *Hypatia*, 20(4), 10--26. Also in Haslanger (2012).
 
-*Hypatia*, 20(4), 10--26. Also in [Haslanger](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark133) [(2012).](file:///Users/alexcano86/Desktop/Stokhof.html#_bookmark133)
+Haslanger, Sally. 2012. *Resisting Reality. Social Construction and Social Critique*. Oxford University Press, Oxford.
 
-Haslanger, Sally. 2012. *Resisting**Reality.**Social Construction**and**Social Critique*. Oxford University Press, Oxford.
+Irikefe, Paul O. 2022. The epistemology of thought experiments without exceptionalist ingredients. *Synthese*, 191.
 
-Irikefe, Paul O. 2022. The epistemology of thought experiments without excep- tionalist ingredients. *Synthese*, 191.
+Keestra, Machiel & Cowley, Stephen J. 2007. Foundationalism and neuroscience; silence and language. *Language Sciences*, 31, 531--52.
 
-Keestra, Machiel & Cowley, Stephen J. 2007. Foundationalism and neuros- cience; silence and language. *Language\*\*Sciences*, 31, 531--52.
-
-Khalifa, Kareem. 2017. *Understanding,**Explanation,**and**Scientific**Knowledge*.
-
-Cambridge University Press, Cambridge.
+Khalifa, Kareem. 2017. *Understanding, Explanation, and Scientific Knowledge*. Cambridge University Press, Cambridge.
 
 Kitcher, Philip. 2011. Philosophy inside out. *Metaphilosophy*, 42(3), 248--260. Koch, Steffen & Lupyan, Gary. 2025. What is conceptual engineering good for?
 
 The argument from nameability. *Philosophy and Phenomenological Research*, 110(2), 403--420.
 
-K¨ohler, Sebastian & Veluwenkamp, Herman. 2024. Conceptual engineering: For what matters. *Mind*, 133(530), 400--427.
+Köhler, Sebastian & Veluwenkamp, Herman. 2024. Conceptual engineering: For what matters. *Mind*, 133(530), 400--427.
 
-Kripke, Saul A. 1982. *Wittgenstein**on**Rules**and**Private\*\*Language*. Blackwell, Oxford.
+Kripke, Saul A. 1982. *Wittgenstein on Rules and Private Language*. Blackwell, Oxford.
 
-Kusch, Martin. 2006.  *A**Sceptical**Guide**to**Meaning**and**Rules:**Defending** Kripke's Wittgenstein*. Acumen Publishing, Stocksfield.
+Kusch, Martin. 2006.  *A Sceptical Guide to Meaning and Rules: Defending Kripke's Wittgenstein*. Acumen Publishing, Stocksfield.
 
 Lackey, J. & Sosa, E., eds. 2006. *The Epistemology of Testimony*. Oxford University Press, Oxford.
 
-Margolis, Eric & Laurence, Stephen. 2023. Concepts. In: Zalta, Edward N. & Nodelman, Uri, eds., *The**Stanford**Encyclopedia**of**Philosophy*. Metaphysics Research Lab, Stanford University, Fall 2023 edn.
+Margolis, Eric & Laurence, Stephen. 2023. Concepts. In: Zalta, Edward N. & Nodelman, Uri, eds., *The Stanford Encyclopedia of Philosophy*. Metaphysics Research Lab, Stanford University, Fall 2023 edn.
 
-Nado, Jennifer. 2016. The intuition deniers. *Philosophical\*\*Studies*, 173, 781--800.
+Nado, Jennifer. 2016. The intuition deniers. *Philosophical Studies*, 173, 781--800.
 
-Nado, Jennifer. 2021. Conceptual engineering, truth, and efficacy. *Synthese*, 198, 1507--1527. Pritchard, Duncan. 2014. Knowledge and understanding. In: Fairweather, Ab- rol, ed., *Virtue**Epistemology**Naturalized.**Bridges**between**Virtue**Epistemo-*
+Nado, Jennifer. 2021. Conceptual engineering, truth, and efficacy. *Synthese*, 198, 1507--1527. Pritchard, Duncan. 2014. Knowledge and understanding. In: Fairweather, Ab- rol, ed., *Virtue Epistemology Naturalized. Bridges between Virtue Epistemology and Philosophy of Science*, chap. 315--328. Springer, Dordrecht.
 
-*logy**and**Philosophy**of**Science*, chap. 315--328. Springer, Dordrecht.
+Roser, Max. 2023. AI timelines: What do experts in artificial intelligence expect for the future? *Our World in Data*. Https://ourworldindata.org/ai-timelines. Ruck, Damian & Sutton, Matthew. 2024. Indirect promptinjection: Generative AI's greatest security flaw. *CETaS Expert Analysis*.
 
-Roser, Max. 2023. AI timelines: What do experts in artificial intelligence expect for the future? *Our World in Data*. Https://ourworldindata.org/ai-timelines. Ruck, Damian & Sutton, Matthew. 2024. Indirect promptinjection: Generative
-
-AI's greatest security flaw. *CETaS**Expert**Analysis*.
-
-Rudolph, Rachel Etta, Shech, Elay, & Tamir, Michael. 2025. Bias, machine learning, anc conceptual engineering. *Philosophical\*\*Studies*.
+Rudolph, Rachel Etta, Shech, Elay, & Tamir, Michael. 2025. Bias, machine learning, and conceptual engineering. *Philosophical Studies*.
 
 Scharp, Kevin. 2007. Replacing truth. *Inquiry*, 50(6), 606--621.
 
-Scharp, Kevin. 2013. *Replacing\*\*Truth*. Oxford University Press, Oxford.
+Scharp, Kevin. 2013. *Replacing Truth*. Oxford University Press, Oxford.
 
-Schatzki, Theodore R. 1996. *Social**Practices.**A**Wittgensteinian**Approach**to** Human**Activity**and**the**Social*. Cambridge University Press, Cambridge.
+Schatzki, Theodore R. 1996. *Social Practices. A Wittgensteinian Approach to  Human Activity and the Social*. Cambridge University Press, Cambridge.
 
-Stanley, Jason & Williamson, Timothy. 2001. Knowing how. *Journal of Philo- sophy*, 98(2), 411--444.
+Stanley, Jason & Williamson, Timothy. 2001. Knowing how. *Journal of Philosophy*, 98(2), 411--444.
 
-Stokhof, Martin. 2017. Het einde van de filosofie? De uitdaging van het natur- alisme vanuit een Wittgensteiniaans perspectief. *Algemeen**Nederlands**Tijd- **schrift**voor\*\*Wijsbegeerte*, 109(2), 171--198.
+Stokhof, Martin. 2017. Het einde van de filosofie? De uitdaging van het naturalisme vanuit een Wittgensteiniaans perspectief. *Algemeen Nederlands Tijdschrift voor Wijsbegeerte*, 109(2), 171--198.
 
-Stokhof, Martin. 2018. Ethics and morality, principles and practice. *Zeitschrift **f**u**¨**r**Ethik und** Moralphilosophie*, 1(2), 291--304.
+Stokhof, Martin. 2018. Ethics and morality, principles and practice. *Zeitschrift für Ethik und Moralphilosophie*, 1(2), 291--304.
 
 Stokhof, Martin. 2020. 'A people thing': Philosophical experiences. In: Ying, X., ed., *Xue bu fen dong xi*, pp. 365--389. Qing hua da xue chu ban she, Beijing.
 
 Stokhof, Martin. 2022a. Episodic problems. In: Stenning, Keith & Stokhof, Martin, eds., *Rules, Regularities, Randomness. Festschrift for Michiel van Lambalgen*, pp. 129--135. ILLC/University of Amsterdam, Amsterdam.
 
-Stokhof, Martin. 2022b. Philosophy as change. In: Melzer, Tine, ed., *Atlas**of**Aspect\*\*Change*,
-
-pp. 61--79. Rollo Press, Zu¨rich.
+Stokhof, Martin. 2022b. Philosophy as change. In: Melzer, Tine, ed., *Atlas of Aspect Change*, pp. 61--79. Rollo Press, Zu¨rich.
 
 Takemoto, Kazuhiro. 2024. The moral machine experiment on large language models. *Royal Society Open Science*, 11.
 
 Turing, Alan M. 1950. Computing machinery and intelligence. *Mind*, 59(236), 433--460.
 
-Vries, Alex de. 2023. The growing energy footprint of artificial intelligence.
+Vries, Alex de. 2023. The growing energy footprint of artificial intelligence. *Joule*.
 
-*Joule*.
+Williams, Meredith. 2010. Normative naturalism. *International Journal of Philosophical Studies*, 18(3), 355--75.
 
-Williams, Meredith. 2010. Normative naturalism. *International**Journal**of Philosophical\*\*Studies*, 18(3), 355--75.
-
-Williamson, Timothy. 2007. *The**Philosophy** of Philosophy*. Blackwell, Oxford.
+Williamson, Timothy. 2007. *The Philosophy of Philosophy*. Blackwell, Oxford.
 
 Williamson, Timothy. 2011. Philosophical expertise and the burden of proof. *Metaphilosophy*, 42(3), 215--229.
 
-Wittgenstein, Ludwig. 1958. *The**Blue**and**Brown**Books*. Blackwell, Oxford.
+Wittgenstein, Ludwig. 1958. *The Blue and Brown Books*. Blackwell, Oxford.
 
-Wittgenstein, Ludwig. 1969. *U**¨**b**er**Gewiftheit. On Certainty*. Blackwell, Oxford.
+Wittgenstein, Ludwig. 1969. *Über Gewiftheit. On Certainty*. Blackwell, Oxford.
 
-Wittgenstein, Ludwig. 2009a. *Philosophical\*\*Investigations*. Wiley-Blackwell, Oxford. Translated by
-
-G. E. M. Anscombe, P. M. S. Hacker and J. Schulte. Revised fourth edition by P. M. S. Hacker and J. Schulte.
+Wittgenstein, Ludwig. 2009a. *Philosophical Investigations*. Wiley-Blackwell, Oxford. Translated by G. E. M. Anscombe, P. M. S. Hacker and J. Schulte. Revised fourth edition by P. M. S. Hacker and J. Schulte.
 
 Wittgenstein, Ludwig. 2009b. *Philosophical Investigations -- Philosophy of Psychology: A Fragment*. Wiley-Blackwell. Translated by G. E. M. Anscombe, P. M. S. Hacker and J. Schulte. Revised fourth edition by P. M. S. Hacker and J. Schulte.
 
-Wolfram, Stephen. 2023. *What**Is**ChatGPT**Doing**.**.**.**And**Why**Does**It\*\*Work*.
+Wolfram, Stephen. 2023. *What Is ChatGPT Doing... And Why Does It Work*. Wolfram Media.
 
-Wolfram Media.
-
-Yu, Yang, et al. 2024. Revisit the environmental impact of artificial intelligence: The overlooked carbon emission source? *Frontiers**of**Environmental**Science** & Engineering*, 18(12), 158.
+Yu, Yang, et al. 2024. Revisit the environmental impact of artificial intelligence: The overlooked carbon emission source? *Frontiers of Environmental Science & Engineering*, 18(12), 158.
