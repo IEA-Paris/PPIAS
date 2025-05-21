@@ -32,6 +32,7 @@ abstract: >
   intelligence systems.
 issue: content/issues/paris-ias-ideas.md
 highlight: false
+bibliography: /static/stokhofreferences.bib
 language: English
 ---
 # On Travelling Concepts
@@ -74,9 +75,9 @@ So, all's well with the world and with philosophy? Not quite. For one thing, for
 
 For the more liberal ordinary language philosopher scientism does not impose a limitation on what they analyse, but it does limit the relevance of the results. Thus, we end up with a conception of philosophy asconceptual analysis that is limited.
 
-Now that may be an acceptable consequence if one accepts the idea that science is indeed the only source of reliable knowledge. However, there is a second concern that is even more serious. It is this:concepts play a key role in science itself. There are two sides to this second concern. One is that reflecting on the central concepts that are used in a scientific field, or in a particular scientific theory, is not the privilege of the philosopher. Scientists themselves engage in reflection on and analysis of the concepts that they use as well. One could accept this and simply say: 'the more the merrier'. But where the con- ceptsare closely tied to the way in which they are employed in actual scientific investigations, the results of the philosopher and those that are produced by the scientist may well differ. Should we then claim that those obtained by the philosopher are better, more relevant, than those of the scientist? This is not to doubt that philosophers are not good at conceptual analysis. They are (of- ten). But it does raise the question what*special* expertise the philosopher has that makes their analyses of concepts better or more relevant than those of the scientists that work with these concepts.
+Now that may be an acceptable consequence if one accepts the idea that science is indeed the only source of reliable knowledge. However, there is a second concern that is even more serious. It is this:concepts play a key role in science itself. There are two sides to this second concern. One is that reflecting on the central concepts that are used in a scientific field, or in a particular scientific theory, is not the privilege of the philosopher. Scientists themselves engage in reflection on and analysis of the concepts that they use as well. One could accept this and simply say: 'the more the merrier'. But where the conceptsare closely tied to the way in which they are employed in actual scientific investigations, the results of the philosopher and those that are produced by the scientist may well differ. Should we then claim that those obtained by the philosopher are better, more relevant, than those of the scientist? This is not to doubt that philosophers are not good at conceptual analysis. They are (of- ten). But it does raise the question what*special* expertise the philosopher has that makes their analyses of concepts better or more relevant than those of the scientists that work with these concepts.
 
-And the second side is that concepts as such are of course a perfectly le- gitimate topic of empirical research. In fact, concepts and conceptual structures are heavily researched in cognitive psychology andcognitive neuroscience,[^3] and there is research in social sciences and anthropology that is relevant as well. Again, we run into a demarcation issue. If the philosopher analyses concepts, then aren't the results of theinvestigations of, say, the cognitive neuroscientist relevant for that of the philosopher? If they are, isn't the philosopher then not engaged in empirical research after all? And if they are not, does that mean that philosophy has a domain of its own after all?
+And the second side is that concepts as such are of course a perfectly legitimate topic of empirical research. In fact, concepts and conceptual structures are heavily researched in cognitive psychology andcognitive neuroscience,[^3] and there is research in social sciences and anthropology that is relevant as well. Again, we run into a demarcation issue. If the philosopher analyses concepts, then aren't the results of theinvestigations of, say, the cognitive neuroscientist relevant for that of the philosopher? If they are, isn't the philosopher then not engaged in empirical research after all? And if they are not, does that mean that philosophy has a domain of its own after all?
 
 One answer to this demarcation question is provided by the view that the relationship between philosophical conceptual analysis and empirical investigation of the same concepts is asymmetric. This view bites the bullet and claims that philosophical analysis does not accompany scientific investigation, it precedes it: conceptual analysis is a prolegomenon to science.[^4]
 
@@ -96,9 +97,9 @@ If we want to maintain that there is a continuity between science and philosophy
 
 Of course, there is a lot more to be said about this. But for our present concerns there is one conclusion and one question that are of central importance.
 
-The conclusion is that in the view that science and philosophy are con- tinuous one can discern traces of scientism.[^9] It acknowledges that there are different ways in which scientific investigations areconducted, some more advanced than others, some more abstract than others. And some of these ways of doing science are called 'philosophy', presumably for traditional reasons. But in the end what delivers knowledge is science, and science only.
+The conclusion is that in the view that science and philosophy are continuous one can discern traces of scientism.[^9] It acknowledges that there are different ways in which scientific investigations areconducted, some more advanced than others, some more abstract than others. And some of these ways of doing science are called 'philosophy', presumably for traditional reasons. But in the end what delivers knowledge is science, and science only.
 
-And a question remains: what about areas in philosophy that are not associated with questions of theory and explanation, but with practical and normative issues? The former are in the domain of science, at least as far as the empirical investigation of the relevant phenomena is concerned. But what about the latter? Obviously, modern philosophy has not completely abandoned their analysis. The traditionalpositivistic argument that what look like norm- ative issues are either empirical ones in disguise, or nonsensical to begin with, has failed.[^10] Conceptual analysis is a key part of the way in which philosophy addresses question about value, norms, aesthetics, and so on. This has manifested itself in a distinct shift towards 'meta-level' analysis. Ethics has given way to 'meta-ethics', in political and social philosophyemphasis has shifted to analysis and clarification of relative conceptual complexes, and in aesthetics the meta-theoretical perspective also dominates. 
+And a question remains: what about areas in philosophy that are not associated with questions of theory and explanation, but with practical and normative issues? The former are in the domain of science, at least as far as the empirical investigation of the relevant phenomena is concerned. But what about the latter? Obviously, modern philosophy has not completely abandoned their analysis. The traditionalpositivistic argument that what look like normative issues are either empirical ones in disguise, or nonsensical to begin with, has failed.[^10] Conceptual analysis is a key part of the way in which philosophy addresses question about value, norms, aesthetics, and so on. This has manifested itself in a distinct shift towards 'meta-level' analysis. Ethics has given way to 'meta-ethics', in political and social philosophyemphasis has shifted to analysis and clarification of relative conceptual complexes, and in aesthetics the meta-theoretical perspective also dominates. 
 
 Quite generally, philosophy has withdrawn from hands-on engagement with subject matters (the good life, justice, art) and has focusses on the analysis of conceptual structures, adequacy criteria, notions of explanation and justifications that shape the scientific theories that do deal with these subject matters directly. As a consequence, it has conceded authority to science and severed a good number of the many links it had with problems and questions that really matter to us. It has turned philosophy into a highly specialised discipline, one which is, perhaps, valued for its adherence to high standards of intellectualrigour, but which also has lost much of its relevance for some of the key issues.[^11]
 
@@ -132,7 +133,7 @@ Note that this characterisation assumes that the preferred construction�
 
 But we can construct 'grounding in the world', of course, also in a metaphysical way, by claiming that our engineered concept corresponds better (or, ideally, completely) with 'the way things objectively are'.[^21] If we do that, then, given that we are dealing with concepts that have a substantial normative dimension, it seems we are committing ourselves to some form of moral realism. It is not quite clear why such a commitment to moral realism constitutes a collapse into an objectionable kind of descriptivism. But the commitment itself is something that one may want to avoid.
 
-As for the thin form of conceptual engineering, that seems to lack suffi- cient constraints to prevent it from collapsing, not in some form of descriptivism, but rather into a form of relativism.[^22] And the question then becomes whether such a thin, relativistic conception of conceptual engineering makes sense to begin with. Can there be conceptual engineering without a proper basis of normativejudgements? One defence against this objection could be that we normally have, and, if we do not, should have, normative judgements about concepts.[^23] However, unless there is an *independent* grounding of these judgements, i.e., one that is not induced by our conceptual engineering efforts, there seems to be no way to prevent the thin form from collapsing into relativism.[^24] Now, we do not need to take up a position in the debate between thin and thick conceptions of conceptual engineering. The only relevant takeaway for our purposes is that the very existence of the debate shows that the role of normativity is key. Ideally,one would want a view on how concepts function and change, and in some cases can be made to change, that allows us to do two things. First, to avoid the relativism that threatens the thin view on conceptual engineering, and, second, to avoid the commitment to some form of metaphysical grounding that the thick view seems to require.[^25] As we hope to show in the next section, the 'philosophie pauvre' conception ofphilosophy and the notion of travelling concepts that it harbours provide a framework that steers clear of these two problems.
+As for the thin form of conceptual engineering, that seems to lack sufficient constraints to prevent it from collapsing, not in some form of descriptivism, but rather into a form of relativism.[^22] And the question then becomes whether such a thin, relativistic conception of conceptual engineering makes sense to begin with. Can there be conceptual engineering without a proper basis of normativejudgements? One defence against this objection could be that we normally have, and, if we do not, should have, normative judgements about concepts.[^23] However, unless there is an *independent* grounding of these judgements, i.e., one that is not induced by our conceptual engineering efforts, there seems to be no way to prevent the thin form from collapsing into relativism.[^24] Now, we do not need to take up a position in the debate between thin and thick conceptions of conceptual engineering. The only relevant takeaway for our purposes is that the very existence of the debate shows that the role of normativity is key. Ideally,one would want a view on how concepts function and change, and in some cases can be made to change, that allows us to do two things. First, to avoid the relativism that threatens the thin view on conceptual engineering, and, second, to avoid the commitment to some form of metaphysical grounding that the thick view seems to require.[^25] As we hope to show in the next section, the 'philosophie pauvre' conception ofphilosophy and the notion of travelling concepts that it harbours provide a framework that steers clear of these two problems.
 
 ## 3 'Philosophie pauvre' and travelling concepts
 
@@ -150,13 +151,13 @@ One way to frame this conception of philosophy is in terms of Wittge
 
 Philosophie pauvre is about bringing about the same kind of change, it is an aspect seeing, aspect switching endeavour. What it aims to do is to bring about a change in the way we see things, in the way we think about them, and therewith in the meaning they have for us. The natureof that change is crucial. As we already noted, it is emphatically not about replacing a 'wrong' way of seeing by a 'better', let alone the 'right', way.[^30]
 
-What philosophy does is create an openness, a space of possibilities for us to explore. And thereby it can free us from an obstinate, 'compulsive', one- sided way of thinking about a certain issue.[^31] That space is not determined by reality, so changing our ways of seeing is not guided by ontology. If anything, the change is 'epistemological': it affects how we look at the world. But that, too, is not fixed: the space of possibilities itself can changeover time, according to changes in our needs, changes in our means of interacting with the world.
+What philosophy does is create an openness, a space of possibilities for us to explore. And thereby it can free us from an obstinate, 'compulsive', one-sided way of thinking about a certain issue.[^31] That space is not determined by reality, so changing our ways of seeing is not guided by ontology. If anything, the change is 'epistemological': it affects how we look at the world. But that, too, is not fixed: the space of possibilities itself can changeover time, according to changes in our needs, changes in our means of interacting with the world.
 
 Our abilities of aspect seeing and aspect change reflect our awareness of the intrinsic plurality of our engagement with the world (including ourselves). That ability and that plurality is not intrinsically philosophical. It occurs, and is needed, across the board: in everyday life, in the arts, in science, ... But it *is* the perfect antidote to philosophy's chasing necessary, universal truths. [^32] Creating this freedom is not restricted to a particular kind of issues,[^33] nor is it determined by pre-defined goals and methods. In that sense neither domain nor method is what defines 'philosophie pauvre'.
 
 So, philosophy creates freedom, but that freedom is not without limits. Freedom is an effect of philosophical observation, but it is productive only because it is subject to limitations. Unlimited freedom ismeaningless since meaningfulness requires change *and* stability. And as a matter of fact, the stability of the world is a source of limitations of our conceptual freedom. These are a productive kind of limitations, they create the space within which different ways of seeing and imagining things can be identified and explored. One could say that without the limitations the differences would not make sense. Meanings exist because they range over different situations that are nevertheless comparable in certain regards. I.e., meanings allow us to identify what is the same (stability) across different situations (change).[^34]
 
-But change and stability are not enough, there also needs to be relevance. Philosophy creates meaningful freedom only when tied to practical, everyday concerns, to what makes sense for us to do, to what isrequired by the concerns of everyday life, including moral concerns. This is reflected in the fact that meanings reside in *practices*, ways of acting and interacting, verbally and non- verbally, that 'have a point'.
+But change and stability are not enough, there also needs to be relevance. Philosophy creates meaningful freedom only when tied to practical, everyday concerns, to what makes sense for us to do, to what isrequired by the concerns of everyday life, including moral concerns. This is reflected in the fact that meanings reside in *practices*, ways of acting and interacting, verbally and non-verbally, that 'have a point'.
 
 Practices are constituted by certainties, i.e., by convictions and ways of doing things that are beyond our usual procedures of justification.[^35] Certainties, and hence also the practices that they make possible,are not forced upon us by reality. Different communities have different ways of doing things, our practices change over time, we can actively change them, and even if we cannot, we can imagine them to bedifferent. So, there is freedom here as well, but again, it is limited. A practice has a point: it is a conglomerate of actions and interactions that serves a purpose. Educational practices, building practices,farming practices, artistic practices, ... they form a manifold of great diversity, but they all have one thing in common: they are there for a reason, people engage in them in order to get something done.[^36] That can usually be realised in a variety of ways, the pluralism of ways in which practices play out testifies to that. But this pluralism is not a relativism, not anything goes: nature imposes limitations.
 
@@ -374,6 +375,148 @@ Much of the discussion in the literature about these issues is characterised by 
 
 If this conclusion is in the right direction, it also indicates more productive ways of dealing with the many problems that the rapid developments in this area present. Technical developments are difficult to predict, and even more difficult to control. But our way of thinking and speaking about what genAI is and, perhaps even more important, what it should be, are under our control. It is indeed our words, our concepts, that we use in thinking and arguing about these issues. And in the end, it is up to us to decide how we are going to use them. That will not change what genAI is and what genAI systems can do, of course. But it will be a decisive element in determining what they can do for us, what they are for us.
 
+## References
+
+Baker, Gordon P. & Hacker, Peter M.S. 1984. *Scepticism, Rulesand Language*. Blackwell, Oxford.
+
+Bal, Mieke. 2002. *Travelling Concepts in the Humanities: A Rough Guide*. University of Toronto Press, Toronto.
+
+Bender, Emily M. & Koller, Alexander. 2020. Climbing towards NLU: On meaning, form and understanding in the age of data. In: *Proceedings of the 58th meeting of the ACL*, pp. 5185--5198. Association for Computational Linguistics.
+
+Bennett, Max & Hacker, Peter M.S. 2022 (2003). *Philosophical Foundationsof Neuroscience*. Wiley Blackwell, Oxford, 2nd edn.
+
+Boghossian, Paul A. 1989. The rule-following considerations. *Mind*, 98, 507--49.
+
+Bouveresse, Jacques. 1973. *Wittgenstein: La Rime et la Raison*. Les Editions de Minuit, Paris.
+
+Burgess, Alexis, Cappelen, Hermand, & Plunkett, David, eds. 2020. *Conceptual Engineeringand ConceptualEthics*. Oxford University Press.
+
+Burgos, Jos'e E & Donahoe, John W. 2006. Of what value is philosophy to science? A review of Max R. Bennett and P. M. S. Hacker's *Philosophical Foundations of Neuroscience*. *Behavior andPhilosophy*, 34, 71 --87.
+
+Cappelen, Herman. 2012. *Philosophy without Intuitions*. Oxford University Press, Oxford.
+
+Cappelen, Herman. 2017. Why philosophers shouldn't do semantics. *Review ofPhilosophy and Psychology*, 8, 743--762.
+
+Cappelen, Herman. 2018a. Conceptual engineering: The master argument. In: Burgess, John, Cappelen, Herman, & Plunkett, David, eds., *Conceptual Ethicsand Conceptual Engineering*, pp. 132--151. Oxford University Press.
+
+Cappelen, Herman. 2018b. *Fixing Language. An Essay on Conceptual Engineering*. Oxford University Press, Oxford.
+
+Chalmers, David. 2014. Intuitions in philosophy: A minimal defence. *Philosophical Studies*, 171, 535--544.
+
+Chalmers, David. 2020. What is conceptual engineering and what should it be? *Inquiry*. Clark, Andy & Chalmers, David. 1998. The extended mind. *Analysis*, 58, 10--23. Climenhaga, Nevin. 2017. Intuitions are usedas evidence in philosophy. *Mind*, 127(505), 69--104.
+
+Coady, C.A.J. 1992. *Testimony: A Philosophical Study*. Oxford University Press, Oxford.
+
+Coliva, Annalisa. 2015. *Extended Rationality. A Hinge Epistemology*. Brill, Leiden.
+
+Coliva, Annalisa & Moyal-Sharrock, Dani`ele. 2018. Hinge epistemology. *Philosophical Investigations*, 41(3), 366 -- 370.
+
+Daston, Lorraine. 2022. *Rules. A Short History of What We Live By*. Princeton University Press.
+
+Deutsch, Max. 2010. Intuitions, counterexamples, and experimental philosophy. *Review of Philosophy and Psychology*, 1(3), 447--460.
+
+Dobler, Tamara. 2019. Occasion-sensitive semantics for objective predicates. *Linguistics and Philosophy*, 42(5), 451--474.
+
+Dobler, Tamara. 2024. Concepts and conceptions in conceptual engineering. In: Stalmaszczyk, Piotr, ed., *Conceptual Engineering: Methodological and Metaphilosophical Issues*, pp. 1--24. Brill Academic Publishers.
+
+Dobler, Tamara. 2025. Pluralist conceptual engineering. *Inquiry*, 68(2), 224--250.
+
+Dutilh Novaes, Catarina. 2020. Carnap meets Foucault: conceptual engineering and genealogical investigations. *Inquiry*.
+
+Eklund, Matti. 2014. Replacing truth? In: Burgess, Alexis & Sherman, Brett, eds., *Meta-semantics: New Essays on the Foundations of Meaning*, pp. 293--310. Oxford University Press, Oxford.
+
+Eklund, Matti. 2021. Conceptual engineering in philosophy. In: Khoo, Justin & Sterken, Rachel, eds., *Routledge Handbook of Social and Political Philosophy of Language*, pp. 15--30. Routledge, London.
+
+Floyd, Juliet. 2019. Wittgenstein and Turing. In: Mras, G.M., Weingartner, P., & Ritter, B., eds., *Philosophy of Logic and Mathematics. Proceedings of the 41st International Wittgenstein Symposium*, pp. 263--296. De Gruyter, Berlin.
+
+Floyd, Juliet. 2023. Revisiting the Turing test: Humans, machines and phraseology. In: Katz, James, Schiepers, Katie, & Floyd, Juliet, eds., *Nudging Choices Through Media. Ethical and Philosophical Implications forHumanity*, pp. 75--113. Palgrave MacMillan.
+
+Fodor, Jerry A. 1979. *The Language of Thought*. Harvard University Press, Cambridge, Mass.
+
+Hacker, Peter M.S. 2004a. The conceptual framework for the investigation of emotions. *International Review of Psychiatry*, 16(3), 199--208.
+
+Hacker, Peter M.S.2004b. Talk for neuroscientists. Unpublished manuscript.
+
+Hacking, Ian. 1995. The looping effects of human kinds. In: Sperber, Dan, Premack, David, & Premack, Ann James, eds., *Causal Cognition: A Multidisciplinary Debate*, pp. 351--82. Oxford University Press, Oxford.
+
+Hacking, Ian. 1999. *The Social Construction of What?* Harvard University Press, Cambridge, Mass.
+
+Haslanger, Sally. 2003. Social construction: The 'debunking' project. In: Schmitt, Frederick, ed., *Socializing Metaphysics*, pp. 301--325. Rowman and Littlefield, Lanham, MD. Also in Haslanger (2012).
+
+Haslanger, Sally. 2005. What are we talking about? The semantics and politics of social kinds. *Hypatia*, 20(4), 10--26. Also in Haslanger (2012).
+
+Haslanger, Sally. 2012. *Resisting Reality. Social Construction and Social Critique*. Oxford University Press, Oxford.
+
+Irikefe, Paul O. 2022. The epistemology of thought experiments without exceptionalist ingredients. *Synthese*, 191.
+
+Keestra, Machiel & Cowley, Stephen J. 2007. Foundationalism and neuroscience; silence and language. *Language Sciences*, 31, 531--52.
+
+Khalifa, Kareem. 2017. *Understanding, Explanation, and Scientific Knowledge*. Cambridge University Press, Cambridge.
+
+Kitcher, Philip. 2011. Philosophy inside out. *Metaphilosophy*, 42(3), 248--260. Koch, Steffen & Lupyan, Gary. 2025. What is conceptual engineering good for?
+
+The argument from nameability. *Philosophy and Phenomenological Research*, 110(2), 403--420.
+
+Köhler, Sebastian & Veluwenkamp, Herman. 2024. Conceptual engineering: For what matters. *Mind*, 133(530), 400--427.
+
+Kripke, Saul A. 1982. *Wittgenstein on Rules and Private Language*. Blackwell, Oxford.
+
+Kusch, Martin. 2006.  *A Sceptical Guide to Meaning and Rules: Defending Kripke's Wittgenstein*. Acumen Publishing, Stocksfield.
+
+Lackey, J. & Sosa, E., eds. 2006. *The Epistemology of Testimony*. Oxford University Press, Oxford.
+
+Margolis, Eric & Laurence, Stephen. 2023. Concepts. In: Zalta, Edward N. & Nodelman, Uri, eds., *The Stanford Encyclopedia of Philosophy*. Metaphysics Research Lab, Stanford University, Fall 2023 edn.
+
+Nado, Jennifer. 2016. The intuition deniers. *Philosophical Studies*, 173, 781--800.
+
+Nado, Jennifer. 2021. Conceptual engineering, truth, and efficacy. *Synthese*, 198, 1507--1527. Pritchard, Duncan. 2014. Knowledge and understanding. In: Fairweather, Abrol, ed., *Virtue Epistemology Naturalized. Bridges between Virtue Epistemology and Philosophy of Science*, chap. 315--328. Springer, Dordrecht.
+
+Roser, Max. 2023. AI timelines: What do experts in artificial intelligence expect for the future? *Our World in Data*. Https://ourworldindata.org/ai-timelines. Ruck, Damian & Sutton, Matthew. 2024. Indirect prompt injection: Generative AI's greatest security flaw. *CETaS Expert Analysis*.
+
+Rudolph, Rachel Etta, Shech, Elay, & Tamir, Michael. 2025. Bias, machine learning, and conceptual engineering. *Philosophical Studies*.
+
+Scharp, Kevin. 2007. Replacing truth. *Inquiry*, 50(6), 606--621.
+
+Scharp, Kevin. 2013. *Replacing Truth*. Oxford University Press, Oxford.
+
+Schatzki, Theodore R. 1996. *Social Practices. A Wittgensteinian Approach to  Human Activity and the Social*. Cambridge University Press, Cambridge.
+
+Stanley, Jason & Williamson, Timothy. 2001. Knowing how. *Journal of Philosophy*, 98(2), 411--444.
+
+Stokhof, Martin. 2017. Het einde van de filosofie? De uitdaging van het naturalisme vanuit een Wittgensteiniaans perspectief. *Algemeen Nederlands Tijdschrift voor Wijsbegeerte*, 109(2), 171--198.
+
+Stokhof, Martin. 2018. Ethics and morality, principles and practice. *Zeitschrift für Ethik und Moralphilosophie*, 1(2), 291--304.
+
+Stokhof, Martin. 2020. 'A people thing': Philosophical experiences. In: Ying, X., ed., *Xue bu fen dong xi*, pp. 365--389. Qing hua da xue chu ban she, Beijing.
+
+Stokhof, Martin. 2022a. Episodic problems. In: Stenning, Keith & Stokhof, Martin, eds., *Rules, Regularities, Randomness. Festschrift for Michiel van Lambalgen*, pp. 129--135. ILLC/University of Amsterdam, Amsterdam.
+
+Stokhof, Martin. 2022b. Philosophy as change. In: Melzer, Tine, ed., *Atlas of Aspect Change*, pp. 61--79. Rollo Press, Zu¨rich.
+
+Takemoto, Kazuhiro. 2024. The moral machine experiment on large language models. *Royal Society Open Science*, 11.
+
+Turing, Alan M. 1950. Computing machinery and intelligence. *Mind*, 59(236), 433--460.
+
+Vries, Alex de. 2023. The growing energy footprint of artificial intelligence. *Joule*.
+
+Williams, Meredith. 2010. Normative naturalism. *International Journal of Philosophical Studies*, 18(3), 355--75.
+
+Williamson, Timothy. 2007. *The Philosophy of Philosophy*. Blackwell, Oxford.
+
+Williamson, Timothy. 2011. Philosophical expertise and the burden of proof. *Metaphilosophy*, 42(3), 215--229.
+
+Wittgenstein, Ludwig. 1958. *The Blue and Brown Books*. Blackwell, Oxford.
+
+Wittgenstein, Ludwig. 1969. *Über Gewiftheit. On Certainty*. Blackwell, Oxford.
+
+Wittgenstein, Ludwig. 2009a. *Philosophical Investigations*. Wiley-Blackwell, Oxford. Translated by G. E. M. Anscombe, P. M. S. Hacker and J. Schulte. Revised fourth edition by P. M. S. Hacker and J. Schulte.
+
+Wittgenstein, Ludwig. 2009b. *Philosophical Investigations -- Philosophy of Psychology: A Fragment*. Wiley-Blackwell. Translated by G. E. M. Anscombe, P. M. S. Hacker and J. Schulte. Revised fourth edition by P. M. S. Hacker and J. Schulte.
+
+Wolfram, Stephen. 2023. *What Is ChatGPT Doing... And Why Does It Work*. Wolfram Media.
+
+Yu, Yang, et al. 2024. Revisit the environmental impact of artificial intelligence: The overlooked carbon emission source? *Frontiers of Environmental Science & Engineering*, 18(12), 158.
+
 ## Endnotes
 
 [^1]:
@@ -394,7 +537,7 @@ Notable proponents of this view are Peter Hacker and Michael Bennett,�
 
 "So, what philosophy can contribute to neuroscience is conceptual clarification. Philosophy can point out when the bounds of sense are transgressed. It can make clear when the conceptual framework which informs a neuroscientist's research has been twisted ordistorted. So, it can clarify what is awry with the thought that perception involves seeing or having images or that perception is the hypothesis formation of the brain. \[...] It can explain why mental images are not ethereal pictures and cannot be rotated in mental space. And so on. Far from being irrelevant to the goals of neuroscience, the conceptual clarifications of philosophical analysis are indispensable for their achievement."
 
-The first, 2003 edition of the Bennett and Hacker book has led to some outspoken opposi- tion, see, e.g., Burgos & Donahoe (2006); Keestra & Cowley (2007); for Bennet and Hacker's reactions to their critics see the second edition.
+The first, 2003 edition of the Bennett and Hacker book has led to some outspoken opposition, see, e.g., Burgos & Donahoe (2006); Keestra & Cowley (2007); for Bennet and Hacker's reactions to their critics see the second edition.
 
 [^5]:
 
@@ -456,7 +599,7 @@ Others appear to downplay the connections with non-philosophical fields. A promi
 
 [^16]:
 
-Some claim that conceptual engineering works primarily through changing language (Koch & Lupyan, 2025); others emphasise that it is primarily a normative issue (Köhler & Veluwenkamp, 2024); and yet others focus on specific cases such as countering biases in large language models (Rudolph et al., 2025). It should be noted that Cappelen (Cappelen, 2018a, b) ex- presses doubts about the possibility of effective implementation, but among those who do not share these doubts, there is little to no discussion as to how to go about concretely to get an actual engineered concept in circulation, nor do there seem to be any studies about success and failure conditions. Which given the practical goals is odd.
+Some claim that conceptual engineering works primarily through changing language (Koch & Lupyan, 2025); others emphasise that it is primarily a normative issue (Köhler & Veluwenkamp, 2024); and yet others focus on specific cases such as countering biases in large language models (Rudolph et al., 2025). It should be noted that Cappelen (Cappelen, 2018a, b) expresses doubts about the possibility of effective implementation, but among those who do not share these doubts, there is little to no discussion as to how to go about concretely to get an actual engineered concept in circulation, nor do there seem to be any studies about success and failure conditions. Which given the practical goals is odd.
 
 One additional question that is raised by the effectiveness concern is whether philosophers engaged in conceptual engineering are perhaps too optimistic? Are discriminatory practices for example always only a matter of people not having the right concepts (tools) to phrase and discuss theproblems? Should we not also acknowledge that no matter what, some people simply have the ideas that they have, not because they can't 'see better', but because they are bad people?
 
@@ -686,7 +829,7 @@ See, e.g., Takemoto (2024) for the results of feeding a number of genA
 
 [^65]:
 
-Although the following does make one wonder: if one searches for some combination of the terms 'generative artificial intelligence/genAI/large language model/LLM/genAI system' in combination with 'understand/understanding', almost all hits are to sites where what is ex- plained is what these systems are, not what they do. Clearly, the ones doing (lacking, needing) the understanding are we. There are hardly any links to discussions of these systems under- standing us, or the world at large.
+Although the following does make one wonder: if one searches for some combination of the terms 'generative artificial intelligence/genAI/large language model/LLM/genAI system' in combination with 'understand/understanding', almost all hits are to sites where what is eplained is what these systems are, not what they do. Clearly, the ones doing (lacking, needing) the understanding are we. There are hardly any links to discussions of these systems understanding us, or the world at large.
 
 [^66]:
 
@@ -754,7 +897,7 @@ An assumption that motivates the use of costly signalling theory in p
 
 [^82]:
 
-The action component is dominant when we are dealing with genAI systems that are involved in, e.g., autonomous driving. There is verbal input - output there too, but it's what the system does that counts.
+The action component is dominant when we are dealing with genAI systems that are involved in, e.g., autonomous driving. There is verbal input-output there too, but it's what the system does that counts.
 
 [^83]:
 
@@ -762,7 +905,7 @@ In some cases, the effects are extremely negative: someone discovered 
 
 [^84]:
 
-Aside: genAI systems and linguistics. It seems clear that the LLMs on which genAI systems are based are not linguistic theories, and arguably they are not theories in the general sense of the word at all. The kind of questions that linguists are interested in, such as how the morpho- syntactic structures in a particular language developed over time, or how language contact gives rise to so-called 'pidgins' and 'creoles', whether there are upper limits on embedding structures and if so, what determines them, are not questions that LLMs answer. It even does not make sense, it seems, toformulate them in the context of LLMs in the first place. (See also the reaction by Chomsky et. al. referred to in footnote [^6].
+Aside: genAI systems and linguistics. It seems clear that the LLMs on which genAI systems are based are not linguistic theories, and arguably they are not theories in the general sense of the word at all. The kind of questions that linguists are interested in, such as how the morphosyntactic structures in a particular language developed over time, or how language contact gives rise to so-called 'pidgins' and 'creoles', whether there are upper limits on embedding structures and if so, what determines them, are not questions that LLMs answer. It even does not make sense, it seems, toformulate them in the context of LLMs in the first place. (See also the reaction by Chomsky et. al. referred to in footnote [^6].
 
 The questions mentioned above are typically questions that are raised in descriptive and in theoretical linguistics. When it comes to psycho-linguistics things might be different, as the questions that one tries to answer there might indeed have counterparts with respect to LLMs. For example, some questions about language acquisition, for example concerning the nature and the amount of data that are needed for training a competent language user, or the role of correction and explicit instruction, do have counterparts when it comes to the construction of LLMs: supervised or unsupervised learning? Likewise, one could imagine that certain language pathologies have counterparts in malfunctioning LLMs. This is because the underlying material substrates (the brain in the case of neurolinguistics and neural networks in the case of an LLM) are more aligned, which could make some supervenient concepts more akin.
 
@@ -780,7 +923,7 @@ Running more or less standardised tests to measure the performance of�
 
 [^88]:
 
-One interesting aspect of the question whether genAI systems have knowledge of the world, and if so what kind of knowledge that is, concerns know-how. GenAI systems definitely are able to produce descriptions of know-how. So, in that sense they contain knowledge about know- how. But do they themselves have know-how? The answer appears to be negative, especially since know-how is the kind of knowledge par excellence that manifests itself in action. But apart from verbal action, i.e., producing text, most current genAI systems have a very limited action repertoire. (More on that below.) Unless we take an intellectualist approach and claim that all know-how ascriptions can be rewritten as know-that ascriptions (as for example is done in Stanley & Williamson (2001), it seems that genAI systems do not have know-how that is comparable to human know-how.
+One interesting aspect of the question whether genAI systems have knowledge of the world, and if so what kind of knowledge that is, concerns know-how. GenAI systems definitely are able to produce descriptions of know-how. So, in that sense they contain knowledge about know-how. But do they themselves have know-how? The answer appears to be negative, especially since know-how is the kind of knowledge par excellence that manifests itself in action. But apart from verbal action, i.e., producing text, most current genAI systems have a very limited action repertoire. (More on that below.) Unless we take an intellectualist approach and claim that all know-how ascriptions can be rewritten as know-that ascriptions (as for example is done in Stanley & Williamson (2001), it seems that genAI systems do not have know-how that is comparable to human know-how.
 
 [^89]:
 
@@ -789,145 +932,3 @@ Hence the tendency to make the bodies of genAI systems at least look like human 
 [^90]:
 
 There is physicality involved, such as the system running on a server, etc, but that's another form of physicality.
-
-## References
-
-Baker, Gordon P. & Hacker, Peter M.S. 1984. *Scepticism, Rulesand Language*. Blackwell, Oxford.
-
-Bal, Mieke. 2002. *Travelling Concepts in the Humanities: A Rough Guide*. University of Toronto Press, Toronto.
-
-Bender, Emily M. & Koller, Alexander. 2020. Climbing towards NLU: On meaning, form and understanding in the age of data. In: *Proceedings of the 58th meeting of the ACL*, pp. 5185--5198. Association for Computational Linguistics.
-
-Bennett, Max & Hacker, Peter M.S. 2022 (2003). *Philosophical Foundationsof Neuroscience*. Wiley Blackwell, Oxford, 2nd edn.
-
-Boghossian, Paul A. 1989. The rule-following considerations. *Mind*, 98, 507--49.
-
-Bouveresse, Jacques. 1973. *Wittgenstein: La Rime et la Raison*. Les Editions de Minuit, Paris.
-
-Burgess, Alexis, Cappelen, Hermand, & Plunkett, David, eds. 2020. *Conceptual Engineeringand ConceptualEthics*. Oxford University Press.
-
-Burgos, Jos'e E & Donahoe, John W. 2006. Of what value is philosophy to science? A review of Max R. Bennett and P. M. S. Hacker's *Philosophical Foundations of Neuroscience*. *Behavior andPhilosophy*, 34, 71 --87.
-
-Cappelen, Herman. 2012. *Philosophy without Intuitions*. Oxford University Press, Oxford.
-
-Cappelen, Herman. 2017. Why philosophers shouldn't do semantics. *Review ofPhilosophy and Psychology*, 8, 743--762.
-
-Cappelen, Herman. 2018a. Conceptual engineering: The master argument. In: Burgess, John, Cappelen, Herman, & Plunkett, David, eds., *Conceptual Ethicsand Conceptual Engineering*, pp. 132--151. Oxford University Press.
-
-Cappelen, Herman. 2018b. *Fixing Language. An Essay on Conceptual Engineering*. Oxford University Press, Oxford.
-
-Chalmers, David. 2014. Intuitions in philosophy: A minimal defence. *Philosophical Studies*, 171, 535--544.
-
-Chalmers, David. 2020. What is conceptual engineering and what should it be? *Inquiry*. Clark, Andy & Chalmers, David. 1998. The extended mind. *Analysis*, 58, 10--23. Climenhaga, Nevin. 2017. Intuitions are usedas evidence in philosophy. *Mind*, 127(505), 69--104.
-
-Coady, C.A.J. 1992. *Testimony: A Philosophical Study*. Oxford University Press, Oxford.
-
-Coliva, Annalisa. 2015. *Extended Rationality. A Hinge Epistemology*. Brill, Leiden.
-
-Coliva, Annalisa & Moyal-Sharrock, Dani`ele. 2018. Hinge epistemology. *Philosophical Investigations*, 41(3), 366 -- 370.
-
-Daston, Lorraine. 2022. *Rules. A Short History of What We Live By*. Princeton University Press.
-
-Deutsch, Max. 2010. Intuitions, counterexamples, and experimental philosophy. *Review of Philosophy and Psychology*, 1(3), 447--460.
-
-Dobler, Tamara. 2019. Occasion-sensitive semantics for objective predicates. *Linguistics and Philosophy*, 42(5), 451--474.
-
-Dobler, Tamara. 2024. Concepts and conceptions in conceptual engineering. In: Stalmaszczyk, Piotr, ed., *Conceptual Engineering: Methodological and Metaphilosophical Issues*, pp. 1--24. Brill Academic Publishers.
-
-Dobler, Tamara. 2025. Pluralist conceptual engineering. *Inquiry*, 68(2), 224--250.
-
-Dutilh Novaes, Catarina. 2020. Carnap meets Foucault: conceptual engineering and genealogical investigations. *Inquiry*.
-
-Eklund, Matti. 2014. Replacing truth? In: Burgess, Alexis & Sherman, Brett, eds., *Meta-semantics: New Essays on the Foundations of Meaning*, pp. 293--310. Oxford University Press, Oxford.
-
-Eklund, Matti. 2021. Conceptual engineering in philosophy. In: Khoo, Justin & Sterken, Rachel, eds., *Routledge Handbook of Social and Political Philosophy of Lan- \*\*guage*, pp. 15--30. Routledge, London.
-
-Floyd, Juliet. 2019. Wittgenstein and Turing. In: Mras, G.M., Weingartner, P., & Ritter, B., eds., *Philosophy of Logic and Mathematics. Proceedings of the 41st International Wittgenstein Symposium*, pp. 263--296. De Gruyter, Berlin.
-
-Floyd, Juliet. 2023. Revisiting the Turing test: Humans, machines and phraseology. In: Katz, James, Schiepers, Katie, & Floyd, Juliet, eds., *Nudging Choices Through Media. Ethical and Philosophical Implications forHumanity*, pp. 75--113. Palgrave MacMillan.
-
-Fodor, Jerry A. 1979. *The Language of Thought*. Harvard University Press, Cambridge, Mass.
-
-Hacker, Peter M.S. 2004a. The conceptual framework for the investigation of emotions. *International Review of Psychiatry*, 16(3), 199--208.
-
-Hacker, Peter M.S.2004b. Talk for neuroscientists. Unpublished manuscript.
-
-Hacking, Ian. 1995. The looping effects of human kinds. In: Sperber, Dan, Premack, David, & Premack, Ann James, eds., *Causal Cognition: A Multidisciplinary Debate*, pp. 351--82. Oxford University Press, Oxford.
-
-Hacking, Ian. 1999. *The Social Construction of What?* Harvard University Press, Cambridge, Mass.
-
-Haslanger, Sally. 2003. Social construction: The 'debunking' project. In: Schmitt, Frederick, ed., *Socializing Metaphysics*, pp. 301--325. Rowman and Littlefield, Lanham, MD. Also in Haslanger (2012).
-
-Haslanger, Sally. 2005. What are we talking about? The semantics and politics of social kinds. *Hypatia*, 20(4), 10--26. Also in Haslanger (2012).
-
-Haslanger, Sally. 2012. *Resisting Reality. Social Construction and Social Critique*. Oxford University Press, Oxford.
-
-Irikefe, Paul O. 2022. The epistemology of thought experiments without exceptionalist ingredients. *Synthese*, 191.
-
-Keestra, Machiel & Cowley, Stephen J. 2007. Foundationalism and neuroscience; silence and language. *Language Sciences*, 31, 531--52.
-
-Khalifa, Kareem. 2017. *Understanding, Explanation, and Scientific Knowledge*. Cambridge University Press, Cambridge.
-
-Kitcher, Philip. 2011. Philosophy inside out. *Metaphilosophy*, 42(3), 248--260. Koch, Steffen & Lupyan, Gary. 2025. What is conceptual engineering good for?
-
-The argument from nameability. *Philosophy and Phenomenological Research*, 110(2), 403--420.
-
-Köhler, Sebastian & Veluwenkamp, Herman. 2024. Conceptual engineering: For what matters. *Mind*, 133(530), 400--427.
-
-Kripke, Saul A. 1982. *Wittgenstein on Rules and Private Language*. Blackwell, Oxford.
-
-Kusch, Martin. 2006.  *A Sceptical Guide to Meaning and Rules: Defending Kripke's Wittgenstein*. Acumen Publishing, Stocksfield.
-
-Lackey, J. & Sosa, E., eds. 2006. *The Epistemology of Testimony*. Oxford University Press, Oxford.
-
-Margolis, Eric & Laurence, Stephen. 2023. Concepts. In: Zalta, Edward N. & Nodelman, Uri, eds., *The Stanford Encyclopedia of Philosophy*. Metaphysics Research Lab, Stanford University, Fall 2023 edn.
-
-Nado, Jennifer. 2016. The intuition deniers. *Philosophical Studies*, 173, 781--800.
-
-Nado, Jennifer. 2021. Conceptual engineering, truth, and efficacy. *Synthese*, 198, 1507--1527. Pritchard, Duncan. 2014. Knowledge and understanding. In: Fairweather, Ab- rol, ed., *Virtue Epistemology Naturalized. Bridges between Virtue Epistemology and Philosophy of Science*, chap. 315--328. Springer, Dordrecht.
-
-Roser, Max. 2023. AI timelines: What do experts in artificial intelligence expect for the future? *Our World in Data*. Https://ourworldindata.org/ai-timelines. Ruck, Damian & Sutton, Matthew. 2024. Indirect promptinjection: Generative AI's greatest security flaw. *CETaS Expert Analysis*.
-
-Rudolph, Rachel Etta, Shech, Elay, & Tamir, Michael. 2025. Bias, machine learning, and conceptual engineering. *Philosophical Studies*.
-
-Scharp, Kevin. 2007. Replacing truth. *Inquiry*, 50(6), 606--621.
-
-Scharp, Kevin. 2013. *Replacing Truth*. Oxford University Press, Oxford.
-
-Schatzki, Theodore R. 1996. *Social Practices. A Wittgensteinian Approach to  Human Activity and the Social*. Cambridge University Press, Cambridge.
-
-Stanley, Jason & Williamson, Timothy. 2001. Knowing how. *Journal of Philosophy*, 98(2), 411--444.
-
-Stokhof, Martin. 2017. Het einde van de filosofie? De uitdaging van het naturalisme vanuit een Wittgensteiniaans perspectief. *Algemeen Nederlands Tijdschrift voor Wijsbegeerte*, 109(2), 171--198.
-
-Stokhof, Martin. 2018. Ethics and morality, principles and practice. *Zeitschrift für Ethik und Moralphilosophie*, 1(2), 291--304.
-
-Stokhof, Martin. 2020. 'A people thing': Philosophical experiences. In: Ying, X., ed., *Xue bu fen dong xi*, pp. 365--389. Qing hua da xue chu ban she, Beijing.
-
-Stokhof, Martin. 2022a. Episodic problems. In: Stenning, Keith & Stokhof, Martin, eds., *Rules, Regularities, Randomness. Festschrift for Michiel van Lambalgen*, pp. 129--135. ILLC/University of Amsterdam, Amsterdam.
-
-Stokhof, Martin. 2022b. Philosophy as change. In: Melzer, Tine, ed., *Atlas of Aspect Change*, pp. 61--79. Rollo Press, Zu¨rich.
-
-Takemoto, Kazuhiro. 2024. The moral machine experiment on large language models. *Royal Society Open Science*, 11.
-
-Turing, Alan M. 1950. Computing machinery and intelligence. *Mind*, 59(236), 433--460.
-
-Vries, Alex de. 2023. The growing energy footprint of artificial intelligence. *Joule*.
-
-Williams, Meredith. 2010. Normative naturalism. *International Journal of Philosophical Studies*, 18(3), 355--75.
-
-Williamson, Timothy. 2007. *The Philosophy of Philosophy*. Blackwell, Oxford.
-
-Williamson, Timothy. 2011. Philosophical expertise and the burden of proof. *Metaphilosophy*, 42(3), 215--229.
-
-Wittgenstein, Ludwig. 1958. *The Blue and Brown Books*. Blackwell, Oxford.
-
-Wittgenstein, Ludwig. 1969. *Über Gewiftheit. On Certainty*. Blackwell, Oxford.
-
-Wittgenstein, Ludwig. 2009a. *Philosophical Investigations*. Wiley-Blackwell, Oxford. Translated by G. E. M. Anscombe, P. M. S. Hacker and J. Schulte. Revised fourth edition by P. M. S. Hacker and J. Schulte.
-
-Wittgenstein, Ludwig. 2009b. *Philosophical Investigations -- Philosophy of Psychology: A Fragment*. Wiley-Blackwell. Translated by G. E. M. Anscombe, P. M. S. Hacker and J. Schulte. Revised fourth edition by P. M. S. Hacker and J. Schulte.
-
-Wolfram, Stephen. 2023. *What Is ChatGPT Doing... And Why Does It Work*. Wolfram Media.
-
-Yu, Yang, et al. 2024. Revisit the environmental impact of artificial intelligence: The overlooked carbon emission source? *Frontiers of Environmental Science & Engineering*, 18(12), 158.
