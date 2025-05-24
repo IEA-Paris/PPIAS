@@ -32,6 +32,7 @@ abstract: This essay draws on a recent agenda on compositional inequality to
   classic reflections on the political limits of sustained full employment.
 issue: content/issues/paris-ias-ideas.md
 highlight: false
+bibliography: /static/ranaldireferences.bib
 language: English
 ---
 ## Acknowledgements
