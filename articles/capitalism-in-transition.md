@@ -34,12 +34,11 @@ issue: content/issues/paris-ias-ideas.md
 highlight: false
 language: English
 ---
-**Acknowledgements**
+## Acknowledgements
 
 This paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program. I wish to thank my colleagues at the IEA for the enriching, cross-disciplinary discussions, which have influenced my thinking on the topic of this essay both directly and indirectly. I also wish to thank Elena Butti, Giacomo Gabbuti, Ulysse Lojkine, Marc Morgan, Nazzareno Ranaldi and Michele Rosenberg for the helpful discussions. The usual disclaimer applies.*
 
-1. Introduction
-===============
+## 1. Introduction
 
 To use the words of economist Branko Milanovic, capitalism is alone now. In other words, it is the only economic system currently governing the world we live in. Milanovic builds on the work of major economists of the past---including Max Weber, Karl Marx, and Joseph Schumpeter---to describe capitalism as a system defined by three main features. *First*, most production is driven by private ownership. *Second*, economic activities are organized without a central authority directing them, relying instead on market mechanisms---in other words, coordination is decentralized. *Third*, the system is driven by the profit motive: that internal drive that makes the non-satiation axiom in consumer theory---where more is considered better---central to describing economic behavior, both for firms and individuals.
 
@@ -53,10 +52,9 @@ What I want to argue in this essay, drawing on past work on the *distributional
 
 This essay is structured as follows. The *second* section briefly introduces the reader to the concept of compositional inequality, used to map different varieties of capitalist systems, as well as its relevance for macroeconomic and political economy considerations. The *third* section describes two key stylized facts on the distributional varieties of capitalism, which will allow us to appreciate what can be understood about the world through the lens of compositional inequality. The *fourth* section briefly discusses some normative aspects of a compositionally equal economy. The *fifth* section explores how the achievement of a compositionally equal society would interact with four major economic transitions of our time. The *sixth* section offers a discussion of the relationship between bottom-up capitalization and employment creation, drawing on insights from the broader compositional inequality framework and Michal Kalecki's reflections on the conditions for achieving full employment. The *seventh* section concludes the paper.
 
-2. Compositional Inequality
-===========================
+## 2. Compositional Inequality
 
-Compositional inequality describes differences between the rich and the poor in terms of their income typology. Two sources of income are considered in this essay: labor and capital incomes.[[1]](file:///Users/alexcano86/Desktop/Ranaldi.html#_ftn1) When compositional inequality is high, the rich and the poor are earning their income from different sources: the rich mainly from pre-existing wealth, the poor from labor. When, by contrast, compositional inequality is minimal, the rich and poor are earning income from capital and labor in the same proportion: for example, twenty percent from wealth and the remaining eighty percent from labor. To put it simply, under high compositional inequality, the rich are *capitalists* and the poor are *workers*, while under low compositional inequality, rich and poor individuals are both simultaneously capitalists *and* workers.
+Compositional inequality describes differences between the rich and the poor in terms of their income typology. Two sources of income are considered in this essay: labor and capital incomes.[\[1]](file:///Users/alexcano86/Desktop/Ranaldi.html#_ftn1) When compositional inequality is high, the rich and the poor are earning their income from different sources: the rich mainly from pre-existing wealth, the poor from labor. When, by contrast, compositional inequality is minimal, the rich and poor are earning income from capital and labor in the same proportion: for example, twenty percent from wealth and the remaining eighty percent from labor. To put it simply, under high compositional inequality, the rich are *capitalists* and the poor are *workers*, while under low compositional inequality, rich and poor individuals are both simultaneously capitalists *and* workers.
 
 Different compositional inequality scenarios -- high and low compositional inequality -- can occur even at identical levels of income inequality. These different scenarios can thus both describe societies with rich and poor individuals, with haves and have-nots. What makes them different lies in the income composition of these two groups of individuals. Studying compositional inequality thus allows us to go beyond the unidimensional nature of income inequality (which tells us whether and to what extent there are wealthy and poor individuals in society) and explore who these individuals are, based on their income composition. I consider compositional inequality to be the missing dimension for distributional analysis, as the channel through which the debate about social classes can be refreshed from an economic perspective.   
 
@@ -64,35 +62,29 @@ Compositional inequality is relevant for at least two main reasons. First, it li
 
 The next section presents two key findings on the level and dynamics of compositional inequality across countries. Although a detailed discussion of the technical aspects of measuring compositional inequality lies beyond the scope of this essay, it is important to note that these findings are made possible by the development of a dedicated measurement framework and statistical indicator (Ranaldi, 2022). This framework has enabled the comparative analysis of countries along this specific economic dimension.
 
-3. Stylized facts
-=================
+## 3. Stylized facts
 
 While several studies have examined the dynamics of compositional inequality across various countries, I wish to highlight two key facts. The first adopts a comparative perspective, focusing on the levels of compositional inequality across countries worldwide and their relationship with income inequality. The second considers the world as a single nation, in the spirit of global inequality studies, aiming to identify the dynamics of compositional inequality among global citizens at the beginning of the 21st century. These two facts are illustrated in the two main graphs presented below.
 
-*Figure 1*
+**Figure 1**
 
-![A graph with different colored dots and numbers
-
-AI-generated content may be incorrect.](blob:https://euangoddard.github.io/27c61f4d-1622-4a6d-bcfc-9c1d8a1828b5)
+![](/static/figure-1.jpg)
 
 Source: Ranaldi and Milanovic (2022)
 
 The first graph plots the level of income inequality against compositional inequality for more than forty countries, covering almost 80% of global GDP and two-thirds of the world population (see Figure 2). Three main results emerge from this graph. First, the higher the compositional inequality, the higher the income inequality. In other words, classical capitalism displays higher interpersonal income inequality than new capitalism. Second, three world clusters emerge from this analysis. The first cluster includes Latin American countries, which are, on average, characterized by high levels of both compositional and income inequality. These countries can, therefore, be considered classical capitalist economies with extremely high interpersonal inequality. The second cluster is composed of western countries, including the US, Canada, and the UK. This cluster is characterized by mild levels of both inequality dimensions. Finally, the third cluster is the Nordic countries, which surprisingly combine high levels of compositional inequality with low levels of income inequality. The third result emerging from this graph -- and in my view, the most compelling of the three -- is actually a non-result: we do not find evidence of any countries with both low compositional inequality and extremely high income inequality. In other words, we do not find evidence of new capitalism characterized by very high interpersonal inequality. As we will see in the next sections of the book, this result will shed light on the normative aspect of compositional inequality.
 
-*Figure 2*
+**Figure 2**
 
-![A graph with a red line and blue line
-
-AI-generated content may be incorrect.](blob:https://euangoddard.github.io/1a220cb7-f66d-4080-8ee8-70981bbb0109)
+![](/static/figure-2.png)
 
 Source: Ranaldi (2025)
 
-The second graph plots the growth incidence curves for capital and labor income, separately, for the period 2000-2016. The main message from this graph is that global compositional inequality has decreased in the 21^st^ century, and at a non-negligible pace: the world overall has transitioned from compositional inequality levels like those seen in Latin America to levels seen in western countries. This reduction can be explained by two major factors. First, the world has experienced an important individual-level capitalization process: the percentage of individuals in the world with positive capital income has risen from 20% to 32%. Second, the global middle class has benefited the most from this capitalization process, and particularly so in China.
+The second graph plots the growth incidence curves for capital and labor income, separately, for the period 2000-2016. The main message from this graph is that global compositional inequality has decreased in the 21st century, and at a non-negligible pace: the world overall has transitioned from compositional inequality levels like those seen in Latin America to levels seen in western countries. This reduction can be explained by two major factors. First, the world has experienced an important individual-level capitalization process: the percentage of individuals in the world with positive capital income has risen from 20% to 32%. Second, the global middle class has benefited the most from this capitalization process, and particularly so in China.
 
 Taken together, these two graphs reveal two important insights about the nature of today's capitalism. *First*, they show that economies are far from the stylized vision of a system defined by a stark opposition between capital income earners and labor income earners. We observe significant variation in the extent to which individuals earn income from multiple sources---a pattern likely shaped by different stages of development, institutional arrangements, fiscal regimes, and other contextual factors. *Second*, from a dynamic perspective, the world appears to be moving towards lower levels of compositional inequality---especially when considering recent transformations in major economic actors such as China, which has progressively integrated market-oriented reforms. While such openness has, in fact, contributed to rising wealth inequality among individuals, it has also made financial systems more accessible to the broader population and enabled wider ownership of private property, including housing and small businesses.
 
-4. Normative Considerations
-===========================
+# 4. Normative Considerations
 
 In discussions about income inequality, it is generally accepted that extremely high inequality is worse than extremely low inequality. Although there is no consensus on the ideal level of income inequality in society---whether it should be zero or slightly more---we can agree that a society where a single individual owns all available resources is undesirable. However, with compositional inequality, the implications are less clear. Is a high level of compositional inequality detrimental or beneficial for society? Is compositional equality inherently desirable for growth, fairness, and prosperity?
 
@@ -108,7 +100,7 @@ From a fairness perspective, given the extremely high concentration of capital i
 
 Scenarios (ii) and (iii), by contrast, tend to result from structural changes in the labor market. Scenario (ii) may reflect rising CEO compensation, often categorized as labor income---though this classification remains debated. Scenario (iii) could stem from an economic downturn or recession. While both scenarios might lead to a temporary reduction in compositional inequality, they would also increase overall income inequality, which could be an undesirable policy outcome from a welfare perspective. Lastly, Scenario (iv) would imply a process of capitalization occurring at the bottom of the distribution. 
 
-While Scenario (i) has already benefited from extensive discussions on capital income and wealth taxation,[[2]](file:///Users/alexcano86/Desktop/Ranaldi.html#_ftn2) which aim to reduce inequality in capital income or wealth by directly modifying the composition of income among individuals, relatively less attention has been given so far to policies aimed at increasing wealth or capital income at the bottom of the distribution. While this undoubtedly requires further research, I would like to highlight two relevant policy tools that already move in that direction.
+While Scenario (i) has already benefited from extensive discussions on capital income and wealth taxation,[\[2]](file:///Users/alexcano86/Desktop/Ranaldi.html#_ftn2) which aim to reduce inequality in capital income or wealth by directly modifying the composition of income among individuals, relatively less attention has been given so far to policies aimed at increasing wealth or capital income at the bottom of the distribution. While this undoubtedly requires further research, I would like to highlight two relevant policy tools that already move in that direction.
 
 The first tool relates to the idea of a capital endowment --- also called a minimum inheritance --- granted to all individuals upon reaching adulthood, as proposed by Atkinson (2015). Similarly, Piketty (2014) advanced a proposal of a comparable nature, although the two authors differ on the desirable overall amount to be distributed. While Atkinson proposed a modest capital endowment framed as a feasible, redistributive measure within the welfare state, Piketty advocated for a much larger universal inheritance funded by a progressive wealth tax, aiming to radically transform the distribution of wealth.
 
@@ -122,13 +114,11 @@ The Alaska Permanent Fund is another prominent example of a sovereign wealth fun
 
 To sum up, while considerable attention has been devoted to the development of policy tools aimed at deconcentrating the distributions of income and wealth, more research is needed to better understand how state interventions could contribute to wealth creation at the lower end of the distribution. Such efforts would support the reduction of both income inequality and compositional inequality.
 
-5. Economic Transitions in a New Capitalism
-===========================================
+## 5. Economic Transitions in a New Capitalism
 
 In this section, I briefly explore how a new form of capitalism---an economic system in which all individuals contribute both through work and through the ownership and management of assets---might relate to four major economic transitions of our time: socio-economic, environmental, technological, and political. To this end, I consider four guiding questions intended to lay the groundwork for future research on this topic. *First*, can compositional equality serve as a mechanism to mitigate economic inequality? *Second*, how does compositional equality relate to environmental inequality? *Third*, could a fairer distribution of assets make workers more receptive to AI-driven transformations and enable reduced working hours without lowering wages? And *fourth*, how might compositional equality influence political preferences toward right- and left-wing parties?
 
-The Rise of Income Concentration  
-----------------------------------
+### The Rise of Income Concentration  
 
 As introduced earlier, compositional inequality serves as a critical link between the functional and personal distributions of income. Put simply, the greater the concentration of capital income at the top and labor income at the bottom of the distribution, the stronger the relationship between changes in the capital--labor split (the functional distribution) and changes in interpersonal income inequality. In this sense, compositional inequality acts as an amplifier: the more unequally income sources are distributed across individuals, the more macroeconomic shifts---such as a rising capital share---translate into greater inequality between people.
 
@@ -140,8 +130,7 @@ In short, understanding the degree of compositional inequality in each economy a
 
 Different types of capital share increases may, however, differently affect economic inequality, depending on the distribution of these related sources across individuals. A promising step forward in this line of thinking is precisely to adopt a more comprehensive view of capital income---one that considers not only its different forms (such as rents or dividends from stocks), but also its underlying structure in terms of rates of return and wealth stocks. In this perspective, it becomes crucial to disentangle the specific roles played by the rate of return, the aggregate stock of wealth, and its distribution across the population. Distinguishing between different types of assets and their holders can shed light on the distinct influence of financial markets---particularly the stock market, as opposed to, say, the housing market---on patterns of income distribution. This is particularly relevant given that heterogeneous results often vary across the wealth distribution and are generally positively associated with levels of wealth (Iacono and Palagi, 2023).
 
-Environmental and Compositional Inequality
-------------------------------------------
+### Environmental and Compositional Inequality
 
 Emissions, exposure to ecological risks, and the capacity for adaptation are unevenly distributed---often reflecting disparities in wealth, consumption patterns, and historical responsibility. At the global level, for instance, China and the United States together account for nearly half of total greenhouse gas (GHG) emissions, underscoring the unequal geography of environmental harm.
 
@@ -151,8 +140,7 @@ A more equal distribution of capital and labor income thus has implications not 
 
 When access to capital---and thereby to investment decisions---is broadened, the environmental externalities associated with high-emission industries are also redistributed. Moreover, if such redistribution is accompanied by greater worker participation in the production process, emission patterns are more likely to reflect society-wide preferences rather than the consumption and investment priorities of the wealthy alone. In this sense, environmental outcomes become more democratically aligned with the values of the broader population, potentially leading to more sustainable and equitable climate policies.
 
-Compositional Inequality and Technological Change
--------------------------------------------------
+### Compositional Inequality and Technological Change
 
 Technological change---currently driven by artificial intelligence and digital automation---is fundamentally reshaping both income and wealth distribution. It increasingly blurs traditional economic boundaries: between labor and capital, producer and consumer, owner and algorithm. As AI becomes both a productive input and a generator of income, it redefines not only economic roles but also the very structure of property rights in the digital age.
 
@@ -162,8 +150,7 @@ Diversifying income sources may, therefore, serve as a buffer against short-term
 
 If AI proves to be productivity-enhancing, the primary economic effects may manifest in wage adjustments and the reallocation of labor. However, if AI is largely job-replacing, then redistributing the wealth it generates becomes essential to maintaining social cohesion and economic stability. In this scenario, AI must be understood not only as a tool of production but also as a source of both income and wealth---and raises fundamental questions about the ownership and governance of AI-related assets. Ultimately, this brings the debate to the forefront of property rights: who owns the productive capacities of AI, and who is entitled to the flows of income and wealth it produces?
 
-Political Preferences and Compositional Inequality
---------------------------------------------------
+### Political Preferences and Compositional Inequality
 
 In a society marked by compositional equality, preferences for redistribution are altered. Capital income taxation, for instance, may prove less effective in such contexts than in compositionally unequal systems. In the latter, capital income taxation tends to generate clear political divides: it is typically opposed by capital earners (often concentrated at the top) and supported by those who rely solely on labor income (often situated at the bottom). Yet public attitudes toward such policies are not fixed---they are shaped by perceptions and information about how income is earned at the top. New survey evidence shows that most individuals hold inaccurate or incomplete views about the capital-labor composition of top incomes, and that providing accurate information can significantly shift their attitudes (Barrera-Rodríguez and Chávez, 2025). This suggests that political conflict over capital taxation may be intensified or mitigated depending on how income sources are understood and framed in public debate.
 
@@ -175,14 +162,13 @@ This does not signal an abandonment of redistribution, but rather its transforma
 
 These insights can be reconciled by viewing compositional equality as a political achievement with dual-edged outcomes. On one hand, progressive political coalitions---especially in contexts where traditional redistributive levers are constrained---may foster compositional equality as a strategy for broadening economic inclusion. On the other hand, once this structural transformation takes hold, it may paradoxically erode the very basis for class-conscious politics, displacing traditional redistribution-oriented populism with market-friendly narratives that emphasize meritocracy, deregulation, and individual access. In this way, the left's success in reducing compositional inequality may contribute to a political terrain more favorable to market populism---an outcome that does not necessarily reverse inequality but instead reframes its interpretation and political expression.
 
-6. Bottom-Up Capitalization
-===========================
+## 6. Bottom-Up Capitalization
 
 Building on the previous sections, one may ask whether, in a society where individuals derive income from multiple sources -- thereby straddling the roles of both workers and capitalists, an alternative path toward improving the condition of lower-income groups might lie in fostering their capitalization rather than prioritizing employment alone. Specifically, if employment gains at the bottom of the distribution can be substituted with increased asset ownership, would it be meaningful to conceptualize a potential trade-off between employment and capitalization for the poor, assuming a constant level of income at the bottom? In such a scenario, increasing asset ownership could help align the income mix of the poor with that of the rich, shifting from reliance on wages toward capital income as a source of security---even if overall income remains the same.
 
 This line of inquiry invites a conceptual shift. In a society with diverse income sources, does the traditional policy emphasis on full employment retain its primacy when the capital share of income is rising? Might it instead be more effective, from a distributive standpoint and with the objective of reducing income inequality, to aim for a state of negative compositional inequality---where the poor receive proportionally more capital income---than for full employment per se? To formalize this intuition, two directions suggest themselves. One involves translating employment levels at the bottom of the distribution into their income-equivalent form. The other reverses this logic, expressing bottom-tier capitalization gains in terms of employment equivalents. With these dimensions rendered comparable, one could explore a potential trade-off between them, assuming a fixed level of income. This would allow us to map out the substitutability or complementarity between employment and capitalization at the lower end of the income distribution.
 
-From a political economy perspective, it may be valuable to revisit the classic debates of political economists such as Michał Kalecki, particularly regarding the relationship between achieving full employment through government spending and the political economy tensions among competing interest groups, notably socio-economic classes. In his influential 1943 essay Political Aspects of Full Employment (Kalecki, 1943),Kalecki explores the feasibility of attaining full employment via government intervention. He begins by outlining two main methods of financing such spending: borrowing---through the issuance of government bonds to the public---or taxation. The funds raised can then be directed either toward public investment or toward subsidizing mass consumption. Kalecki's analysis subsequently turns to the mechanics and political implications of debt-financed government spending.[[3]](file:///Users/alexcano86/Desktop/Ranaldi.html#_ftn3)
+From a political economy perspective, it may be valuable to revisit the classic debates of political economists such as Michał Kalecki, particularly regarding the relationship between achieving full employment through government spending and the political economy tensions among competing interest groups, notably socio-economic classes. In his influential 1943 essay Political Aspects of Full Employment (Kalecki, 1943),Kalecki explores the feasibility of attaining full employment via government intervention. He begins by outlining two main methods of financing such spending: borrowing---through the issuance of government bonds to the public---or taxation. The funds raised can then be directed either toward public investment or toward subsidizing mass consumption. Kalecki's analysis subsequently turns to the mechanics and political implications of debt-financed government spending.[\[3]](file:///Users/alexcano86/Desktop/Ranaldi.html#_ftn3)
 
 Crucially, Kalecki argues that full employment is not merely an economic objective but a politically contested one. Capitalists---or the "captains of industry"--- oppose its sustained achievement for several reasons, including concerns over the increased bargaining power of workers and the erosion of labor market discipline. Specifically, Kalecki contends that government intervention in employment undermines capitalist control by making employment less dependent on business confidence, public spending threatens the dominance of the private sector, and full employment weakens the disciplinary function of unemployment. In this light, the business cycle acts as a political mechanism to block the maintenance of full employment through government spending: once recovery begins, opposition from capitalists and rentiers---who fear rising wages, reduced discipline, and inflation---forces a return to orthodox budget policy, ending the intervention and triggering a new slump. This cyclical pattern ensures that full employment, if reached, remains temporary and politically unsustainable under capitalism. To connect Kalecki's insights with the novel stylized facts presented in this essay, we might ask whether, and to what extent, a similar class-based opposition to the achievement of full employment through government intervention would emerge in a society characterized by multiple sources of income.
 
@@ -190,13 +176,11 @@ To conclude this section on the potential relationship between employment creati
 
 While it goes beyond the scope of this work to explore this intuition in greater conceptual or technical detail, I believe it is still valuable to sketch this idea, with the aim of laying a foundation for future discussions and, potentially, sound empirical and theoretical research on the topic.
 
-7. Conclusion
-=============
+## 7. Conclusion
 
 To conclude, the study of distributional varieties of capitalism, conceptualized and measured through the compositional inequality framework outlined in this essay, offers a novel perspective on the role that the distribution of capital and labor incomes plays in shaping the nature and trajectory of modern capitalism. Recent research shows that the world is far from characterized by societies in which rich capital income earners oppose poor workers, as individuals increasingly earn income from multiple sources simultaneously. This new reality prompts us to reconsider the normative implications of an economy where both rich and poor are simultaneously capitalists and workers. I have argued in this essay that, in a context of rising capital share, achieving compositional equality is desirable to prevent this increase from exacerbating income inequality. This argument implicitly assumes that further exacerbation of income inequality is undesirable. Moreover, this essay highlighted the interaction between a compositionally equal society and the rapid transitions of modern capitalism--- namely environmental, technological, political, and income inequality transitions. The essay discussed how the distribution of capital and labor is intimately tied to these different forms of transition, and that addressing them without a proper understanding of the role played by the capital-labor dichotomy would lead to an incomplete understanding of the overall picture. Finally, I speculated on a potential trade-off between bottom-up capitalization and the pursuit of full employment. The objective of this discussion was simply to revive the ideas of past scholars and link them to novel stylized facts, such as the increase in the capital share, and new conceptual frameworks, like that of distributional varieties of capitalism.
 
-References
-==========
+## References
 
 Atkinson, A. B. (2015). *Inequality: What can be done?* Harvard University Press.
 
@@ -204,7 +188,7 @@ Barrera-Rodríguez, Ó., & Chávez, E. (2025). Capital vs. labour: The effect 
 
 Bastani, S., & Waldenström, D. (2023). Taxing the wealthy: The choice between wealth and capital income taxation. *Oxford Review of Economic Policy*, 39, 604-616.
 
-Chancel, L., & Rehm, Y. (2023). The carbon footprint of capital: Evidence from France, Germany and the US based on distributional environmental accounts. *WID.world** Working Paper Series*.
+Chancel, L., & Rehm, Y. (2023). The carbon footprint of capital: Evidence from France, Germany and the US based on distributional environmental accounts. *WID.world\*\* Working Paper Series*.
 
 Frank, T. (2000). *One market under God: Extreme capitalism, market populism, and the end of economic democracy*. Doubleday.
 
@@ -228,8 +212,8 @@ Ranaldi, M. (2025). Compositional inequality: Measurement, stylized facts, and t
 
 ## Endnotes
 
-[[1]](file:///Users/alexcano86/Desktop/Ranaldi.html#_ftnref1) The concept and framework of compositional inequality can, for example, be applied to assess the composition of real and financial wealth---or, alternatively, of consumption and savings---across the wealth and income distribution, respectively.
+[\[1]](file:///Users/alexcano86/Desktop/Ranaldi.html#_ftnref1) The concept and framework of compositional inequality can, for example, be applied to assess the composition of real and financial wealth---or, alternatively, of consumption and savings---across the wealth and income distribution, respectively.
 
-[[2]](file:///Users/alexcano86/Desktop/Ranaldi.html#_ftnref2) See, for example, Bastani and Waldenström (2023) for a recent review. 
+[\[2]](file:///Users/alexcano86/Desktop/Ranaldi.html#_ftnref2) See, for example, Bastani and Waldenström (2023) for a recent review. 
 
-[[3]](file:///Users/alexcano86/Desktop/Ranaldi.html#_ftnref3) When the state issues bonds, it essentially acquires goods and services from the public --- primarily in the form of labor and jobs created through public employment --- in return for future interest payments, the value of which is contingent on the interest rate applied to those bonds. Individuals and firms who receive bonds may either retain them or liquidate them---often by selling them to banks in exchange for cash. Should banks decline to purchase these bonds, their price falls, causing interest rates to rise due to the fixed nature of interest payments now being offered at a lower bond price. A key question posed by Kalecki is whether such government borrowing necessarily results in inflation. His answer is conditional, as inflationary pressure depends on whether the economy is operating at full productive capacity. When idle resources exist, public spending can mobilize them without driving up prices; when the economy is already running at capacity, inflation becomes more likely.
+[\[3]](file:///Users/alexcano86/Desktop/Ranaldi.html#_ftnref3) When the state issues bonds, it essentially acquires goods and services from the public --- primarily in the form of labor and jobs created through public employment --- in return for future interest payments, the value of which is contingent on the interest rate applied to those bonds. Individuals and firms who receive bonds may either retain them or liquidate them---often by selling them to banks in exchange for cash. Should banks decline to purchase these bonds, their price falls, causing interest rates to rise due to the fixed nature of interest payments now being offered at a lower bond price. A key question posed by Kalecki is whether such government borrowing necessarily results in inflation. His answer is conditional, as inflationary pressure depends on whether the economy is operating at full productive capacity. When idle resources exist, public spending can mobilize them without driving up prices; when the economy is already running at capacity, inflation becomes more likely.
