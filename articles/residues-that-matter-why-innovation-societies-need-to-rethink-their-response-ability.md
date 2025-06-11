@@ -50,31 +50,27 @@ language: English
 ---
 ## **Acknowledgments**
 
-This essay emerges from the research and reflections developed within my ERC-funded project *Innovation Residues. Modes and Infrastructures of Caring for our Long-durée Environmental Futures [grant number: 101054580]*. The project explores the often-overlooked left-behinds of innovations---innovation residues---across three major fields of innovation that have shaped our world since the second half of the 20^th^ century: nuclear, plastic, and digital. The following reflections and conceptualizations are a first effort to outline why we need to reconsider responsible innovation to acknowledge the complexities and messiness of the futures residues bring about, and how we should do so. I am deeply grateful to each of the inspiring project collaborators who are walking alongside me on this journey---one that is marked by a shared commitment to reading innovation differently; to posing the difficult, sometimes uncomfortable, questions it demands. For more on the project, see: [https://innovation-residues.eu](https://innovation-residues.eu/).
+This essay emerges from the research and reflections developed within my ERC-funded project *Innovation Residues. Modes and Infrastructures of Caring for our Long-durée Environmental Futures \[grant number: 101054580]*. The project explores the often-overlooked left-behinds of innovations---innovation residues---across three major fields of innovation that have shaped our world since the second half of the 20^th^ century: nuclear, plastic, and digital. The following reflections and conceptualizations are a first effort to outline why we need to reconsider responsible innovation to acknowledge the complexities and messiness of the futures residues bring about, and how we should do so. I am deeply grateful to each of the inspiring project collaborators who are walking alongside me on this journey---one that is marked by a shared commitment to reading innovation differently; to posing the difficult, sometimes uncomfortable, questions it demands. For more on the project, see: [https://innovation-residues.eu](https://innovation-residues.eu/).
 
 This paper was written during a 1-month residency at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program, to which I am thankful for the stimulating intellectual and social environment.
 
-***\
-***
+> *History teaches, but has no* *pupils*.
+>
+> *\---*   Antonio *Gramsci*
+>
+> *It does not seem to me that we have been as quick, in academia, to prepare ourselves for new threats, new dangers, new tasks, new targets.*
+>
+> *\--- Bruno Latour, 2004*
+>
+> *... learning to inherit without denial and stay with the trouble of damaged worlds.*
+>
+> *\--- Donna J. Haraway, 2016*
 
-*History teaches, but has no* *pupils*.
-
-*---   *Antonio *Gramsci*
-
-*It does not seem to me that we have been as quick, in academia, to prepare ourselves for new threats, new dangers, new tasks, new targets.*
-
-*--- Bruno Latour, 2004*
-
-*... learning to inherit without denial and stay with the trouble of damaged worlds.*
-
-*--- Donna J. Haraway, 2016*
-
-A diagnosis to start with
-=========================
+## A diagnosis to start with
 
 We live in what I would describe as *innovation societies*---social formations in which the imperative to innovate has become a dominant norm and organizing principle in nearly every domain of life. Not only in Europe but across all other industrialized regions, the drive to technologically innovate has become a central concern, no longer framed as desirable but as existentially necessary. The prevailing narrative is that failing to innovate risks stagnation, decline, or even obsolescence. Indeed, today's underlying assumption of the societal necessity for a constant flow of innovations echoes the underlying belief identified by Barbara Adam and Chris Groves (2007, p. 1): "standing still means falling behind."
 
-From policy strategies that aim to "future-proof" our economies and our societies to new corporate agendas and research in academia and beyond, innovation has gradually become both a means and an end---a self-reinforcing imperative that shapes institutional priorities, funding mechanisms, and everyday decisions. Innovation is celebrated as the key to solving global challenges, ensuring competitiveness, supporting sovereignty, and shaping desirable futures (Godin, 2015; Irwin & Pfotenhauer, 2024). This is particularly visible in Mario Draghi's (2025) recent report on *The** future of European competitiveness,* in which the urgency to "close the innovation gap," and "accelerate the rate of innovation" was omnipresent, and "fast innovation" was perceived as the pathway toward "productivity growth." If this gap is not closed, Draghi warns, "Europe would face 'slow agony'."[[i]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_edn1)
+From policy strategies that aim to "future-proof" our economies and our societies to new corporate agendas and research in academia and beyond, innovation has gradually become both a means and an end---a self-reinforcing imperative that shapes institutional priorities, funding mechanisms, and everyday decisions. Innovation is celebrated as the key to solving global challenges, ensuring competitiveness, supporting sovereignty, and shaping desirable futures (Godin, 2015; Irwin & Pfotenhauer, 2024). This is particularly visible in Mario Draghi's (2025) recent report on *The\*\* future of European competitiveness,* in which the urgency to "close the innovation gap," and "accelerate the rate of innovation" was omnipresent, and "fast innovation" was perceived as the pathway toward "productivity growth." If this gap is not closed, Draghi warns, "Europe would face 'slow agony'."[^i]
 
 This insatiable hunger for innovation comes with a clear push for scaling up (and not only starting up) whatever we develop as novel technological possibilities---the success of innovations is often assessed by their capacity not only to spread globally but also to bring business into as many corners of life as possible. As anthropologist Anna Tsing (2012) reminds us, scalability has long been central to the modernist imagination. Those projects that could be expanded, replicated globally, and rolled out across diverse geographies were hailed as icons of progress and development. Scalability, in this sense, is more than a practical goal---it is a cultural ideal that shapes which innovations become seen as valuable and which ones are pushed to the background.
 
@@ -88,7 +84,7 @@ There is a growing sense that research must not only be excellent but also usefu
 
 When one analyzes the discourses surrounding innovation, there is another striking pattern that will quickly become apparent: a specialized and energetic vocabulary pointing to the need to invest in maintaining a high degree of momentum for progress. Terms like "foster," "accelerate," "incubate," or "disrupt" have become the lingua franca of innovation societies. These words do not merely describe, they compel: they create a vision of tempo, a forward-driving movement that urges us toward a perpetually reinvented future shaped by novelty and frame innovation as an inherently desirable and urgently necessary process (Felt, 2015). Within the technopolitical regimes designed to support innovation, the imperative to innovate is rarely questioned; instead, it is assumed to be the foundational condition of contemporary life and societal survival.
 
-Certainly, there are numerous critics of these trends. Hallonsten (2023, p. 1), for instance, has argued that the "signs abound that real innovation [... is] less valued in society and the economy, that the real or deeper contributions of innovation to our societies are seen as less important than the appearance of innovation, and that both innovation and entrepreneurship are treated as ends in themselves, or only means to achieve economic growth." Indeed, this societal commitment to relentless technological renewal comes with its own tensions, asymmetries, and blind spots. Many contemporary societies---for sure also in Europe---seem to follow what I would call "extended innovationism"[[ii]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_edn2) (Valaskivi, 2020), under which the key values of competitiveness, technological progress, and economic growth have not only become unquestionable but have become an essential part of a standard master narrative of our societal development. In recent years, the European discourse has, however, complemented these values with an increasing emphasis on the importance of sovereignty, both as a form of strategic autonomy and as a means of resilience, i.e., the ability to anticipate, prepare for, respond to, and recover from crises. These extensions of innovationism have sought to articulate concerns about the security of populations, infrastructures, and values, as well as about dependencies, vulnerabilities, and systemic fragilities. However, what is most essential to reflect on from a responsible innovation perspective is that innovation is never seen as part of the problem, but always as a key component, if not *the* central component, in developing capacities to absorb shocks.
+Certainly, there are numerous critics of these trends. Hallonsten (2023, p. 1), for instance, has argued that the "signs abound that real innovation \[... is] less valued in society and the economy, that the real or deeper contributions of innovation to our societies are seen as less important than the appearance of innovation, and that both innovation and entrepreneurship are treated as ends in themselves, or only means to achieve economic growth." Indeed, this societal commitment to relentless technological renewal comes with its own tensions, asymmetries, and blind spots. Many contemporary societies---for sure also in Europe---seem to follow what I would call "extended innovationism"[^ii] (Valaskivi, 2020), under which the key values of competitiveness, technological progress, and economic growth have not only become unquestionable but have become an essential part of a standard master narrative of our societal development. In recent years, the European discourse has, however, complemented these values with an increasing emphasis on the importance of sovereignty, both as a form of strategic autonomy and as a means of resilience, i.e., the ability to anticipate, prepare for, respond to, and recover from crises. These extensions of innovationism have sought to articulate concerns about the security of populations, infrastructures, and values, as well as about dependencies, vulnerabilities, and systemic fragilities. However, what is most essential to reflect on from a responsible innovation perspective is that innovation is never seen as part of the problem, but always as a key component, if not *the* central component, in developing capacities to absorb shocks.
 
 The push for novelty often eclipses wider and more fine-grained reflections, risks shifting the roles and self-understandings of researchers (Hallonsten, 2024), and steers pursuits of innovation as a normative obligation rather than as sites of open-ended inquiry. It also raises and complicates the question of what we regard as failures or negative disruptions, where, when, and by whom these assessments are made, and who might be ready to learn from them. In using the notion of "failure," I follow Appadurai and Neta, who define it not as a "self-evident property" but as "a product of judgments that reflect various arrangements of power, competence, and equity in different places and times" (Appadurai & Neta, 2019, p. 1). Innovation failures must therefore always be seen in "relation to memory, storytelling, and capital" (ibid., p. 2), something which will be essential when we examine how innovation residues are framed in relation to the innovation they emerge from. This investigation demands close attention to "which failures are being forgotten, and which failures enter the collective memory and reshape our understanding of the world" (ibid., p. 2) and how we can and should live in it.
 
@@ -96,9 +92,11 @@ If innovation is to take the frontstage of contemporary societal development, sh
 
 What, then, are the questions at the heart of this essay that invite a critical reexamination of how we reflect upon, conceptualize, practice, and assign responsibility in an era shaped by shifting innovation logics and landscapes?
 
-**In an era of rapidly evolving innovation cultures, we must ask** **whether the earlier concepts of *responsible innovation* and its related practices remain adequate, or whether they, too, require renewal. **
+![](/static/screenshot-2025-06-11-at-12.33.25-pm.png)
 
-To address these questions, I draw on empirical work developed within my ERC-funded project *Innovation Residues*. *Modes and Infrastructures of Caring for our long-durée environmental futures[**[iii]**](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_edn3)*, which explores the left-behinds of innovations---produced along its journey through society and often lingering long after the innovation has served its purpose. Rather than treating innovation as a singular and neatly bounded "object"---a discrete technology or clearly defined set of interventions---I propose a shift in perspective. I argue that we must understand innovation as deeply entangled within a dense meshwork of residues that emerge throughout the innovation's life course and beyond. Innovation residues accumulate, transform, and persist. Yet these residues often go unacknowledged, remaining invisible within dominant innovation narratives that are driven by a politics of futurity---projecting idealized, forward-looking visions of progress and utility. *Reading innovation in reverse*---through its residues---offers a radical shift in perspective. It brings to light alternative dimensions through which the value of innovation can be critically reassessed. This shift, in turn, invites us to reconsider how we understand and practice responsible innovation.
+**In an era of rapidly evolving innovation cultures, we must ask** **whether the earlier concepts of *responsible innovation* and its related practices remain adequate, or whether they, too, require renewal.** 
+
+To address these questions, I draw on empirical work developed within my ERC-funded project *Innovation Residues*. *Modes and Infrastructures of Caring for our long-durée environmental futures\*\*[^iii], which explores the left-behinds of innovations---produced along its journey through society and often lingering long after the innovation has served its purpose. Rather than treating innovation as a singular and neatly bounded "object"---a discrete technology or clearly defined set of interventions---I propose a shift in perspective. I argue that we must understand innovation as deeply entangled within a dense meshwork of residues that emerge throughout the innovation's life course and beyond. Innovation residues accumulate, transform, and persist. Yet these residues often go unacknowledged, remaining invisible within dominant innovation narratives that are driven by a politics of futurity---projecting idealized, forward-looking visions of progress and utility.* Reading innovation in reverse*---through its residues---offers a radical shift in perspective. It brings to light alternative dimensions through which the value of innovation can be critically reassessed. This shift, in turn, invites us to reconsider how we understand and practice responsible innovation.
 
 The remainder of this essay is structured as follows: it begins with a brief reflection on the rich field of ***responsible research and innovation (RRI)***that has developed over the past two decades. I interrogate both how responsibility has been conceptualized and enacted, including the contexts in which questions of responsibility have been raised and by whom, when such questions are regarded as timely, and which actors are expected to respond. This lays the groundwork for a broader examination of what remains underexplored within our so-called innovation societies. A central concern driving my argument is the persistent tendency of research to focus considerations about responsibility at the front end of innovation---the moment of promise and projection (Horn & Felt, 2025b; Muench et al., 2022)---while providing little space to follow how innovations traverse time and geography, leaving behind diverse forms of residues: overflows, fallouts, waste, and other traces of sociotechnical transformation. It is precisely this spatial and temporal dispersion of innovation's effects that demands renewed critical engagement. Despite their crucial role in shaping environmental futures, these residues remain largely underexamined. Attending to these residues is not only a methodological imperative but also an ethical one, as it requires us to broaden our analytic gaze beyond innovation's promised benefits to the life worlds it alters, the ecologies it unsettles, and the responsibilities it generates but rarely confronts.
 
@@ -110,18 +108,17 @@ The essay's final two sections turn toward a rethinking of responsibility. In do
 
 Together, these propositions invite a more situated, reflexive, and relational approach to responsible innovation---one capable of engaging not only with what innovation promises and enables, but also with what it leaves behind, including any new form of long-term injustice that the innovation and its residues may create.
 
-Responsible Research and Innovation: Origins, Critiques, and Structural Tensions
-================================================================================
+# Responsible Research and Innovation: Origins, Critiques, and Structural Tensions
 
 Over the past two decades, the concept of Responsible Research and Innovation (RRI) has become increasingly institutionalized, particularly within European science and technology policy discourse. As formulated in a European Commission document, "Responsible Research and Innovation: Europe's Ability to Respond to Societal Challenges" (EC, 2012), a responsible research and innovation approach promises "a smarter, greener economy", in which "our prosperity will come from research and innovation." The latter should then "respond to the needs and ambitions of society, reflect its values and be responsible". The concept's formal adoption by the European Commission in 2014---and its integration into the Horizon 2020 funding program---marked a significant turning point in the institutionalization of RRI. As Stilgoe and Guston (2017) point out, while the "(re-)emergence of the term responsibility" is, on the one hand, linked to the rising prominence of innovation in policy discourse, on the other hand, it could also be seen as "response to perceived governance crises." Ultimately, RRI has become to be perceived as a means to regain public trust and thereby to assure an "innovation-friendly climate."
 
-This approach, however, was not entirely new. It emerged from critiques of earlier approaches to scientific and technological developments that had been referred to as *Ethical, Legal, and Social Implications/Aspects* (ELSI in the US and ELSA in Europe). This approach, which was initially mainly linked to the life sciences, prompted a deeper reflection on potential societal impacts through complementary research and public deliberation on the uses of new knowledge and technologies. (Hilgartner et al., 2017) Yet, while initially greeted as needed first steps, the approach was soon criticized for, as Jasanoff (2003) concludes, "not cover[ing] the whole range of social and economic realignments that accompany major technological changes, nor their distributive consequences, particularly as technology unfolds across global societies and markets" (Jasanoff, 2003, pp. 241--242). 
+This approach, however, was not entirely new. It emerged from critiques of earlier approaches to scientific and technological developments that had been referred to as *Ethical, Legal, and Social Implications/Aspects* (ELSI in the US and ELSA in Europe). This approach, which was initially mainly linked to the life sciences, prompted a deeper reflection on potential societal impacts through complementary research and public deliberation on the uses of new knowledge and technologies. (Hilgartner et al., 2017) Yet, while initially greeted as needed first steps, the approach was soon criticized for, as Jasanoff (2003) concludes, "not cover\[ing] the whole range of social and economic realignments that accompany major technological changes, nor their distributive consequences, particularly as technology unfolds across global societies and markets" (Jasanoff, 2003, pp. 241--242). 
 
 Responding to some of these limitations, more integrative approaches emerged, emphasizing interdisciplinarity, early-stage engagement (upstream engagement), and reflexivity---both at the level of individual researchers and institutions. Influenced by traditions such as anticipatory governance (Barben et al., 2008), real-time technology assessment (Guston & Sarewitz, 2002), midstream modulation (Fisher et al., 2006), or value-sensitive design, these efforts aimed to embed societal concerns within the innovation process itself. RRI was then explicitly conceptualized as a mode of mutual responsiveness between science and society (von Schomberg, 2011), which would assure ethically acceptable, sustainable, and desirable innovation outcomes. "Collective care for the future through stewardship of innovation in the present" would be realized through supporting anticipation, reflexivity, inclusion, and responsiveness as guiding principles for both researchers and policymakers(Stilgoe et al., 2013). The increased popularity of RRI has also triggered the emergence of ever-new ways of engaging with societal actors, such as, for example, scenario planning and the exploration of socio-technical futures (Lösch et al., 2019), various co-creation approaches (Felt et al., 2023), as well as test beds and living labs (Engels et al., 2019). These approaches continued to develop, diversify, and expand into many realms with the aim of making innovation more socially responsive. 
 
-Yet, critiques persisted. Critics warned that such "programmed reflections" risked becoming ritualized, creating a "division of moral labor" (Rip, 2018) where researchers develop innovations and RRI researchers handle ethical and social concerns *ex post *(Felt, 2018). Some scholars have cautioned that such economic and political pressures for a continuous flow of innovations, risk reducing responsible practices to mere symbolic or procedural exercises---offering legitimacy without disrupting dominant trajectories (Fisher, 2005; Stirling, 2008). Both Jasanoff (2016) and Blok and Lemmens (2015) have also argued how such institutional applications of responsible research and innovation are at risk of becoming simple box-ticking exercises---formal compliance steps that only serve to establish new "bureaucracies of virtue" (Felt, 2017) instead of a genuinely responsible practice. Such an institutionalization of RRI, quite simply, would only reinforce the existing power structures that continue to assume that innovations alone will be the primary solution to our societal problems. What has also been particularly problematic when it comes to RRI principles has been its nearly exclusive focus on public-sector and academic research, leaving private-sector innovation---where much of today's technological development occurs---largely untouched (de Saille, 2015). Indeed, as de Saille(2015) notes, grand visions of a "new social contract" have materialized most often as limited policy checklists. Indeed, by the time Horizon Europe (2021) launched, RRI had basically already become invisible in EU policy discourse. These developments raise critical questions about who holds responsibility for our technological futures and to what extent RRI is actually capable of reconfiguring power relations when it comes to innovations.
+Yet, critiques persisted. Critics warned that such "programmed reflections" risked becoming ritualized, creating a "division of moral labor" (Rip, 2018) where researchers develop innovations and RRI researchers handle ethical and social concerns *ex post* (Felt, 2018). Some scholars have cautioned that such economic and political pressures for a continuous flow of innovations, risk reducing responsible practices to mere symbolic or procedural exercises---offering legitimacy without disrupting dominant trajectories (Fisher, 2005; Stirling, 2008). Both Jasanoff (2016) and Blok and Lemmens (2015) have also argued how such institutional applications of responsible research and innovation are at risk of becoming simple box-ticking exercises---formal compliance steps that only serve to establish new "bureaucracies of virtue" (Felt, 2017) instead of a genuinely responsible practice. Such an institutionalization of RRI, quite simply, would only reinforce the existing power structures that continue to assume that innovations alone will be the primary solution to our societal problems. What has also been particularly problematic when it comes to RRI principles has been its nearly exclusive focus on public-sector and academic research, leaving private-sector innovation---where much of today's technological development occurs---largely untouched (de Saille, 2015). Indeed, as de Saille(2015) notes, grand visions of a "new social contract" have materialized most often as limited policy checklists. Indeed, by the time Horizon Europe (2021) launched, RRI had basically already become invisible in EU policy discourse. These developments raise critical questions about who holds responsibility for our technological futures and to what extent RRI is actually capable of reconfiguring power relations when it comes to innovations.
 
-The disconnect between promise and reality is amplified by the ways in which innovations are communicated---or better say, advertised and 'sold'---to members of society. This reminds of Baudrillard's (1998 [1970]) observation around advertisement and consumerism. We observe that innovations are cast in a "prophetic language, in so far as it promotes not learning or understanding, but hope" (ibid., 127), hope that is grounded in a strong tech-solutionist master narrative related to contemporary grand challenges. The innovation is turned into a pseudo-event, which is expected to become real when members of society endorse its discourse and allow innovations to become real-world events. Visions of technological futures---smart, sustainable, efficient---are frequently promoted without any critical examination of their origins, beneficiaries, or exclusions. Questions about who imagines these futures, in whose name, and with what consequences are rarely posed. When adverse effects emerge or potential harms arise, they are often only framed as "unintended consequences," which diffuses responsibility and obscures the structural conditions that make such outcomes possible in the first place.
+The disconnect between promise and reality is amplified by the ways in which innovations are communicated---or better say, advertised and 'sold'---to members of society. This reminds of Baudrillard's (1998 \[1970]) observation around advertisement and consumerism. We observe that innovations are cast in a "prophetic language, in so far as it promotes not learning or understanding, but hope" (ibid., 127), hope that is grounded in a strong tech-solutionist master narrative related to contemporary grand challenges. The innovation is turned into a pseudo-event, which is expected to become real when members of society endorse its discourse and allow innovations to become real-world events. Visions of technological futures---smart, sustainable, efficient---are frequently promoted without any critical examination of their origins, beneficiaries, or exclusions. Questions about who imagines these futures, in whose name, and with what consequences are rarely posed. When adverse effects emerge or potential harms arise, they are often only framed as "unintended consequences," which diffuses responsibility and obscures the structural conditions that make such outcomes possible in the first place.
 
 These tensions raise fundamental questions about the limits of responsibility in today's innovation systems, most directly: who is responsible and towards whom? Jasanoff (2016) captures the essence of these questions by asking whether anticipatory governance or RRI could have, for example, averted the negative legacy of the automobile. Her conclusion is sobering: the power to shape technological futures lies not in public institutions or democratic processes; instead, it remains concentrated in capital and industry.
 
@@ -133,12 +130,11 @@ The reflections above closely align with Latour's (2004) critique that assessm
 
 My project, therefore, proposes that we move beyond the technical management of long-term residues, once they have become too visible to ignore, toward establishing modes and infrastructures of care (Felt, 2021a)---frameworks capable of responding to shifting values, contested (collateral) futures, and enduring entanglements.
 
-Rethinking innovation through its residues
-==========================================
+# Rethinking innovation through its residues
 
 When we move beyond its grand narratives and attend to its more mundane, everyday realities, innovation reveals itself as a fuzzy, contingent, non-linear process that branches off in several different directions---unfolding across space and time, simultaneously shaping and being shaped by society's many spheres (see Figure 1). 
 
-Fields of Innovation generally branch into multiple socio-technical environments of use---contexts in which innovations are adopted and adapted. Along their journeys through society, innovations leave behind innovation residues: the often overlooked yet most enduring traces of an innovation's societal passage. These residues are highly diverse, ranging from chemical pollutants[***[iv]***](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_edn4) that have risen to prominence, to the growing piles of waste we consistently strive to manage through new regulatory, administrative, and physical infrastructures designed to address them, or to wastelands and deteriorating infrastructures, as well as the indirect residues produced at the point of extraction for the material components needed for specific innovations (e.g., rare earth or uranium mines). Despite their differences, what these residues share is that they are not merely accidental byproducts but rather integral elements of the innovation processes and our lives with these innovations. To examine innovations through their residues thus requires us to consider more holistically how we conceptualize and model our environment, or how we imagine a good life in innovation societies.
+Fields of Innovation generally branch into multiple socio-technical environments of use---contexts in which innovations are adopted and adapted. Along their journeys through society, innovations leave behind innovation residues: the often overlooked yet most enduring traces of an innovation's societal passage. These residues are highly diverse, ranging from chemical pollutants***\[[iv]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_edn4)*** that have risen to prominence, to the growing piles of waste we consistently strive to manage through new regulatory, administrative, and physical infrastructures designed to address them, or to wastelands and deteriorating infrastructures, as well as the indirect residues produced at the point of extraction for the material components needed for specific innovations (e.g., rare earth or uranium mines). Despite their differences, what these residues share is that they are not merely accidental byproducts but rather integral elements of the innovation processes and our lives with these innovations. To examine innovations through their residues thus requires us to consider more holistically how we conceptualize and model our environment, or how we imagine a good life in innovation societies.
 
 Innovation residues provide a compelling perspective for interpreting innovation in a new way, redirecting our focus from celebrated breakthroughs and promissory futures to the various overlooked and less appealing "collateral futures" (Felt, 2013, 2021b) that innovations and their residues inevitably also produce (see Figure 1). As stated, these residues are pretty diverse. Engaging with innovation through them immerses us in a different environment that is infinitely more complex and chaotic---one populated not by the shiny versions of innovation, but by new phenomena, actor constellations, value regimes, and collateral futures, and, above all else, by the new entities, the innovation residues, that now become our focus. This concept aims to sensitize us to the facets of contemporary innovation societies that, while highly important, have been left underexplored. It places the troubles innovations create at the center and invites us to stay with them (Haraway, 2016). It also encourages us to confront our past innovation choices rather than assuming that we can always start anew; in other words, we have to "learn to inherit without denial and stay with the trouble of damaged worlds" (ibid., 150). It is for these reasons that we have to develop our arts of noticing innovation residues. To name residues explicitly and to be attentive to the multiple gatherings of human and these non-human actors that surround innovations is thus essential. By naming residues, we engage in a performative act that brings them into the realm of public discourse and ethical consideration. This is what Judith Butler (1997) (in reference to Austin) calls speech acts---uses of language that do not merely describe reality but intervene in it, reorienting our attention and responsibilities. Naming thus becomes an act of temporal and political resistance: it insists on remembering what progress narratives would prefer to forget, and it opens space for alternative futures grounded in care, recognition, and justice.
 
@@ -150,13 +146,11 @@ KI-generierte Inhalte können fehlerhaft sein.](blob:https://euangoddard.github.
 
 Figure 1: Innovation journeys, residues, and collateral futures
 
-In what follows, I elaborate on the different kinds of residues innovation activities leave behind with examples from three fields of innovation at the core of the empirical work in the *Innovation Residues*project: nuclear technologies, plastic, and digital transformations.[[v]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_edn5) Taking the example of nuclear technologies as a significant field of innovation, the extent to which this innovation has moved into several areas of application---from energy production to medical diagnosis, various industrial processes, and food sector applications---is quite well known. (The divergent *socio-technical environments of use* are represented by the big arrows in Figure 1.) Yet, along this journey, many left-behinds have also been produced. They take the form of regulated nuclear waste, the toxic remnants of uranium mining, the lingering spatial residues of decommissioned nuclear power plants that resist repurposing, and the dispersed traces of contamination released by nuclear accidents. Indeed, the trajectories of innovation can be seen as wrapped in a meshwork of residues, each of which requires specific forms of attention as well as modes and infrastructures of care.
+In what follows, I elaborate on the different kinds of residues innovation activities leave behind with examples from three fields of innovation at the core of the empirical work in the *Innovation Residues*project: nuclear technologies, plastic, and digital transformations.\[[v]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_edn5) Taking the example of nuclear technologies as a significant field of innovation, the extent to which this innovation has moved into several areas of application---from energy production to medical diagnosis, various industrial processes, and food sector applications---is quite well known. (The divergent *socio-technical environments of use* are represented by the big arrows in Figure 1.) Yet, along this journey, many left-behinds have also been produced. They take the form of regulated nuclear waste, the toxic remnants of uranium mining, the lingering spatial residues of decommissioned nuclear power plants that resist repurposing, and the dispersed traces of contamination released by nuclear accidents. Indeed, the trajectories of innovation can be seen as wrapped in a meshwork of residues, each of which requires specific forms of attention as well as modes and infrastructures of care.
 
-Taking such an approach will enable us to notice the diverse types of residues innovations produce, reflect on how they develop their own trajectories, leave multiple traces, and create collateral futures that were not at all part of the promise captured by the sociotechnical imaginaries developed and distributed during the implementation of the innovation. In doing so, this focus will make the reasons for the limitations and challenges surrounding our most dominant understandings of responsible innovation abundantly clear. 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Taking such an approach will enable us to notice the diverse types of residues innovations produce, reflect on how they develop their own trajectories, leave multiple traces, and create collateral futures that were not at all part of the promise captured by the sociotechnical imaginaries developed and distributed during the implementation of the innovation. In doing so, this focus will make the reasons for the limitations and challenges surrounding our most dominant understandings of responsible innovation abundantly clear. 
 
-Residues to think about/with
-----------------------------
+## Residues to think about/with
 
 I classify the complex and layered kinds of residues that innovations leave behind into three groups: **material, infrastructural, and epistemic residues**. Whether intentional or unintended, visible or latent, enduring or ephemeral, these residues invariably impact the worlds we inhabit. Each one of them shapes the social worlds we live in and---when it comes to who ultimately carries their burden---each creates its own issues of intergenerational justice and uneven health impacts, which should make us aware of the persistence of coloniality, i.e. the "intersectional stratification and violence directed against 'other worlds'" (Arora & Stirling, 2023). In addition, each of the residue types I discuss creates very different environmental impacts, which follow fundamentally different temporalities and hardly match with those that are considered in contemporary governance. 
 
@@ -166,79 +160,79 @@ Second, residues' social impacts must also be considered. Residues can entrench 
 
 Finally, the third dimension requiring our attention is the temporal component. Consequences are not always immediate; some unfold slowly, others emerge only after long periods of latency, and others persist for generations to come. Both the durability and the deferred nature of specific harms complicate the issue of ethical and political responsibility. We must therefore not only ask what or who is affected but also when and for how long.
 
-|
+\|
 
 **IMPACTS**
 
- |
+\|
 
 **RESIDUAL CATEGORIES**
 
- |
+\|
 |
 
 **Regimes of (in)visibility**
 
- |
+\|
 |
 
 **ENVIRONMENTAL**
 
 pollution, toxic accumulation, resource depletion, ecosystem disruption, climate change,  ...
 
- |
+\|
 
 **SOCIAL**
 
 in/exclusions, environmental justice, uneven harm, ...
 
- |
+\|
 
 **TEMPORAL**
 
 immediate, slow, delayed residual impacts, lasting, ...
 
- |
+\|
 
 **Material residues**
 
--       Physical byproducts
+\-       Physical byproducts
 
--       chemical residues
+\-       chemical residues
 
--       waste (e.g. nuclear waste, plastic waste, e-waste/data waste) 
+\-       waste (e.g. nuclear waste, plastic waste, e-waste/data waste) 
 
--       fallout (e.g. nuclear fallout, micro- and nano-plastics, mining residues)
+\-       fallout (e.g. nuclear fallout, micro- and nano-plastics, mining residues)
 
- |
+\|
 |
 
 **Infrastructural residues**
 
--       land use (e.g. wastelands, exclusion zones, landfills)
+\-       land use (e.g. wastelands, exclusion zones, landfills)
 
--       innovation ruins (e.g. infrastructures after decommissioning)
+\-       innovation ruins (e.g. infrastructures after decommissioning)
 
--       floating garbage patches
+\-       floating garbage patches
 
- |
+\|
 |
 
 **Epistemic residues**
 
--       residual sociotechnical imaginaries: the enduring techno-utopian visions fed by technological solutionism
+\-       residual sociotechnical imaginaries: the enduring techno-utopian visions fed by technological solutionism
 
--       residual paradigms: frames shaped by a specific innovation that persist despite visible deficiencies
+\-       residual paradigms: frames shaped by a specific innovation that persist despite visible deficiencies
 
--       non-knowledge (or silenced knowledge): traditional, local, or critical knowledges marginalized in the push for innovation
+\-       non-knowledge (or silenced knowledge): traditional, local, or critical knowledges marginalized in the push for innovation
 
- |
+\|
 
 Figure 2: Different residual categories and their potential impacts
 
 Across each of these three residue types and their impacts, we must carefully consider the different regimes of (in)visibility that have been established to support a form of innovation governance that purposely refrains from asking certain questions (see Figure 2). 
 
-**Material residues **
+**Material residues** 
 
 Material residues, in my definition, are a category that brings together enduring physical and chemical residues generated throughout the life cycles of innovation---often dispersed or transformed, they are the remainders of processes that once held economic or technological promise. This category comprises a wide variety of substances and fragments that persist in the environment. Circulating through soil, water, and air, they range from microplastics and heavy metals to chemical effluents from the extraction and production of the raw materials needed for innovations, e-waste that is often burned, crushed, or informally dismantled, leaving behind various toxic residues (e.g. Perczel, 2023) and residual compounds that become embedded in our infrastructure (e.g. the radioactive rocks and debris of uranium mines that are used in construction, including roads and housing). 
 
@@ -246,7 +240,7 @@ Focusing on chemical residues, Soraya Boudia and co-authors (2018; 2022) have 
 
 Material residues, however, also importantly include the technical components and other elements that were once integral to an innovation but have since become obsolete or invisible through normalization. These can be embedded within products, infrastructures, or systems, persisting silently as part of the material fabric of everyday life---microplastics in food chains, legacy nuclear isotopes in soil, or unusable data buried in digital infrastructures. Although they may no longer serve an active function, early-generation materials and the way they were chosen and processed may still reside within older constellations. PVC wiring in older buildings, depleted uranium shells in conflict zones, or unused background services in operating systems all exemplify how these residues endure. Their obsolescence does not erase their presence; instead, they continue to shape reusability and recyclability even if they often complicate such efforts. In this way, the very technological architecture of innovation accrues residues with components that---while reflecting a logic of design that belongs to the past---have a legacy that must nonetheless be managed in the present. Often, these residues are non-degradable or slow to degrade; they are dispersed across ecosystems and borders, difficult to trace to specific points of origin, and are frequently rendered invisible. Obsolete reactor parts, ghost data in cloud systems, and endocrine-disrupting plasticizers leaching from consumer goods are not usually seen as waste, yet they are part of the ongoing material legacy of innovation, continuing to shape ecologies, health outcomes, and futures long after their moment of invention has passed. 
 
-Of course, material residues also contain classical **waste, a much-regulated category, **that accumulates across cycles of innovation. In the 2008 *Waste Framework Directive of the European Union,* it is described very broadly as "any substance or object which the holder discards or intends or is required to discard." Waste is then classified along different dimensions based on the source: who or what processes generated it, what is it made of, does it have hazardous properties, and if so, how dangerous are they, and finally, how can it be managed, handled, and cared for. Despite the broad understanding, many of the problematic things we discard are not classified as waste under the EU's directive; for example, both wastewater and contaminated earth are not considered waste while still being residues of our innovation activities. 
+Of course, material residues also contain classical **waste, a much-regulated category,** that accumulates across cycles of innovation. In the 2008 *Waste Framework Directive of the European Union,* it is described very broadly as "any substance or object which the holder discards or intends or is required to discard." Waste is then classified along different dimensions based on the source: who or what processes generated it, what is it made of, does it have hazardous properties, and if so, how dangerous are they, and finally, how can it be managed, handled, and cared for. Despite the broad understanding, many of the problematic things we discard are not classified as waste under the EU's directive; for example, both wastewater and contaminated earth are not considered waste while still being residues of our innovation activities. 
 
 A critical counterpoint to mainstream waste governance is currently offered by research in the field of waste and, more recently, discard studies (e.g., Alexander & Sanchez, 2018; Hawkins, 2006; Hawkins & Muecke, 2005; Liboiron & Lepawsky, 2022). It invites us to go beyond bureaucratic boundary drawing and critically examines how materials, practices, and people are rendered disposable. While waste studies focus more on the social, political, and economic framing of waste, challenging the dominant technocratic approach that treats waste as a resource managed through scientific expertise, discard studies adopt a broader lens, analyzing how processes of devaluation operate---how materials and related regions or populations become seen as expendable. Both fields, despite their different emphasis, interrogate the value systems and power structures that shape what is discarded and why. This, in turn, is essential for understanding the lives of innovation residues. 
 
@@ -254,7 +248,7 @@ Across each of the material residues mentioned above, we must remain attentive t
 
 **Infrastructural residues**
 
-Infrastructural residues, while also material entities in and of themselves, are the built and spatial legacies that endure even after an innovation has moved on or been abandoned. As innovation reshapes space through long-lasting infrastructures, they become witnesses to the past. Indeed, as Larking convincingly argues, infrastructures also teach us about the "forms of desire and fantasy" that "emerge[d] out of and [remain] store[d] within them" (Larkin, 2013). These residues can include, for example, technological infrastructure like data centers, closed-down nuclear power plants awaiting their decommissioning, abandoned factory complexes, or supply chain remnants like logistics systems, extraction sites, and transport corridors that persist long after the innovation cycle. 
+Infrastructural residues, while also material entities in and of themselves, are the built and spatial legacies that endure even after an innovation has moved on or been abandoned. As innovation reshapes space through long-lasting infrastructures, they become witnesses to the past. Indeed, as Larking convincingly argues, infrastructures also teach us about the "forms of desire and fantasy" that "emerge\[d] out of and \[remain] store\[d] within them" (Larkin, 2013). These residues can include, for example, technological infrastructure like data centers, closed-down nuclear power plants awaiting their decommissioning, abandoned factory complexes, or supply chain remnants like logistics systems, extraction sites, and transport corridors that persist long after the innovation cycle. 
 
 Here, we should also consider zoned landscapes. Nuclear power plants and nuclear fuel processing plants are, of course, quite clear examples; however, waste repositories, which are purposely surrounded by extensive buffer zones and security perimeters, mandate exclusive and restricted land use, often lasting or planned to last for decades or even centuries to come. For example, even after a nuclear power plant is decommissioned, the land it occupies will remain under surveillance and cannot be repurposed for quite some time due to contamination risks and related regulatory frameworks. These spatial residues---empty zones, restricted access areas, and the environments mining activities have destroyed---constitute a hidden residual geography of innovation that continues to shape regional development patterns and land value. 
 
@@ -268,8 +262,7 @@ Such residues emerge not only from what is known but also from what is actively 
 
 In short, thinking about responsibility in innovation also requires us to reckon with residual sociotechnical imaginaries---those enduring techno-utopian visions rooted in a deep faith in technological solutions. Equally important are the residual paradigms shaped by past innovations, which continue to frame how we think and act, even when their flaws---especially the neglect of traditional, local, or critical perspectives---have become evident. 
 
-Regimes of (in)visibilities: Between strategic ignorance and hidden in plain sight
-==================================================================================
+# Regimes of (in)visibilities: Between strategic ignorance and hidden in plain sight
 
 To understand why the environmental residues of innovation so often remain unattended, we must move beyond simplistic accounts of ignorance as a mere absence of knowledge. Instead, a range of mechanisms, structures, ideologies, or practices actively render the environmental harms of innovation---and their often-profound social impacts---invisible. These are not accidental oversights but rather systematic, strategic, and embedded: they constitute ***regimes of (in)visibility***.
 
@@ -301,18 +294,17 @@ Ultimately, to bring innovation residues into public consciousness and governanc
 
 Responding to this call requires us to develop and cultivate new arts of noticing, new infrastructures of care, and a steadfast commitment to resist the seductions of ignorance---strategic or otherwise.
 
-Reframing Responsibility: Entangled Scapes of Innovation 
-=========================================================
+# Reframing Responsibility: Entangled Scapes of Innovation 
 
 To engage with the question of responsibility in the context of contemporary innovation in a meaningful way we must resist the temptation to define it narrowly. This means that we must see responsibility as more than a discrete ethical choice, regulatory checkpoint, or retrospective evaluation. Instead, we must reconceptualize it as an entangled, multi-scalar, and processual phenomenon that is embedded into the very infrastructures, timelines, and social relations that constitute our innovation systems. To do so, we must first consider how responsibility is shaped, enacted, deferred, or denied across shifting terrains of knowledge production, technological development, and societal transformation. A productive way to approach this, I propose, is through the lens of *entangled scapes of responsibility*---interweaving timescapes (Adam, 1998), landscapes, and socioscapes, which each offer a different but interconnected dimension of ethical engagement in innovation societies. 
 
-This is inspired by Arjun Appadurai's (2002) concept of "scapes," a framework that draws attention to how people, ideas, technologies, and capital move across the globe in **non-linear, fragmented, and context-dependent ways. **Through these "scapes"--- he considers ethnoscapes, technoscapes, financescapes, mediascapes, and ideoscapes, each of which focuses on different kinds of flows---Appadurai aims to capture the disjunctive, uneven circulation that produces structural inequalities and complex spatiotemporal dislocations. This is an essential sensitivity when one begins to think about responsible innovation in the ways I have advocated for.
+This is inspired by Arjun Appadurai's (2002) concept of "scapes," a framework that draws attention to how people, ideas, technologies, and capital move across the globe in **non-linear, fragmented, and context-dependent ways.** Through these "scapes"--- he considers ethnoscapes, technoscapes, financescapes, mediascapes, and ideoscapes, each of which focuses on different kinds of flows---Appadurai aims to capture the disjunctive, uneven circulation that produces structural inequalities and complex spatiotemporal dislocations. This is an essential sensitivity when one begins to think about responsible innovation in the ways I have advocated for.
 
-Thinking through the *timescapes** of responsibility* allows us to move beyond the event-based or momentary logics that often govern ethical discourse. Innovations are rarely singular acts or bounded decisions; they unfold across time, entangled with both historical legacies and collateral futures. Each act of technological development carries the weight of sedimented histories: extractivism, colonial science, racialized labor, and prior environmental harm, all of which continue to shape the conditions under which innovation is conceived and executed. At the same time, innovations are deeply future-oriented: they project speculative horizons, promise progress, and postpone harm. From radioactive waste to persistent plastics and material legacies of digitalization, many of innovation's consequences emerge only decades after they have been introduced (e.g., Müller & Nielsen, 2023). These deferred effects challenge ethical frameworks that are based on immediacy or linear causality (e.g., the straightforward polluter pays logic) and instead invite a practice of responsibility that is longitudinal, anticipatory, and enduring.
+Thinking through the *timescapes\*\* of responsibility* allows us to move beyond the event-based or momentary logics that often govern ethical discourse. Innovations are rarely singular acts or bounded decisions; they unfold across time, entangled with both historical legacies and collateral futures. Each act of technological development carries the weight of sedimented histories: extractivism, colonial science, racialized labor, and prior environmental harm, all of which continue to shape the conditions under which innovation is conceived and executed. At the same time, innovations are deeply future-oriented: they project speculative horizons, promise progress, and postpone harm. From radioactive waste to persistent plastics and material legacies of digitalization, many of innovation's consequences emerge only decades after they have been introduced (e.g., Müller & Nielsen, 2023). These deferred effects challenge ethical frameworks that are based on immediacy or linear causality (e.g., the straightforward polluter pays logic) and instead invite a practice of responsibility that is longitudinal, anticipatory, and enduring.
 
 In parallel, the material and symbolic geographies in which innovation takes place demand attention to what might be called the *landscapes of responsibility*. Innovations are not placeless abstractions; they are deeply embedded in and transformative of specific ecological, infrastructural, and political terrains. Whether through lithium extraction in the Andes, rare earth mining in the Congo, data centers in Ireland, or the afterlives of plastic packaging in the Global South, innovations alter environments in spatially uneven ways. These landscapes are not neutral: they are historically saturated spaces shaped by colonial legacies, global inequalities, and infrastructural marginalization. Responsibility, then, is never simply a matter of technical deployment or market reach; instead, it is always situated. As such, it must be attentive to the politics of land use, the ecologies disrupted, and the communities made vulnerable or invisible. Thinking of these conditions as landscapes helps remind us that ethical engagement is something that must be grounded, not only in terms of physical location but also in terms of a particular sensitivity toward how innovation intervenes in the spatial textures of heterogeneous lived experiences.
 
-Overlaying these spatial and temporal dynamics are the *socioscapes** of responsibility*: the social terrain through which responsibility is imagined, distributed, and contested. These include not only the institutional actors conventionally associated with innovation---scientists, engineers, funders, regulators---but also the communities, activists, and publics whose knowledge and concerns are often marginalized or ignored. Socioscapes encompass both formal structures and informal practices, shaping how responsibility is felt, claimed, or disavowed across diverse social positions. They also highlight the affective and emotional registers of responsibility: the fear, fatigue, or moral injury borne by those who live amid the consequences of innovation. Responsibility is not just about rules or roles; it is also about relationality, about how ethical obligations are mediated through power, recognition, and the distribution of voice.
+Overlaying these spatial and temporal dynamics are the *socioscapes\*\* of responsibility*: the social terrain through which responsibility is imagined, distributed, and contested. These include not only the institutional actors conventionally associated with innovation---scientists, engineers, funders, regulators---but also the communities, activists, and publics whose knowledge and concerns are often marginalized or ignored. Socioscapes encompass both formal structures and informal practices, shaping how responsibility is felt, claimed, or disavowed across diverse social positions. They also highlight the affective and emotional registers of responsibility: the fear, fatigue, or moral injury borne by those who live amid the consequences of innovation. Responsibility is not just about rules or roles; it is also about relationality, about how ethical obligations are mediated through power, recognition, and the distribution of voice.
 
 Together, these entangled scapes offer a dynamic and situated framework for reimagining what responsible innovation could mean. They prompt us to move beyond static checklists or compliance protocols and instead ask more profound, more challenging questions: When is responsibility enacted, and for how long? Where are the effects of innovation residues registered, and who bears them? Who is deemed responsible---and who is excluded from that reflection? Toward whom is responsibility owed, and how is that obligation enacted? These questions shift responsibility from being an individual attribute to a practice that is embedded in systems, infrastructures, and relations stretching across time and space.
 
@@ -322,12 +314,11 @@ Approaching responsibility through these scapes does not lead to a static mode
 
 Responsibility, in this view, is not a singular act or a finished state. It is an ongoing negotiation---one that must travel through the ruptures and residues of innovation, trace its hidden geographies, and listen for the voices that fall outside the dominant frames. Reframing responsibility through entangled scapes offers not only a richer conceptual vocabulary but also a more just and attentive practice for living with and through the technologies that shape our collective futures.
 
-Towards Spatiotemporal Geographies of Response-ability
-======================================================
+# Towards Spatiotemporal Geographies of Response-ability
 
 In the backdrop of these observations, I propose an expanded conceptualization of responsibility---**spatiotemporal geographies of response-ability**. This formulation aims to transcend conventional ethical frameworks that confine responsibility to discrete acts, proximate relationships, or immediate contexts. In an era of accelerated globalization and systemic complexity, these frameworks have increasingly revealed themselves to be limited in their scope of responsibility. Today, innovation unfolds within vast, interdependent systems marked by asymmetrical flows of power, material, knowledge, and consequence. As such, responsibility must also be understood as an emergent and distributed process---unfolding across both space and time, and traversing national borders, social domains, ecological zones, and generational boundaries. This aligns closely with Haraway's (2016) understanding of response-ability, which is not merely the capacity to respond, but instead a relational and ethical practice of attentiveness, care, and situated engagement. It is about staying with the trouble---being accountable to the complex, entangled relationships we inhabit with other beings, technologies, and worlds.
 
-Take the example of microplastics: while the production and consumption of plastics are highly concentrated in certain regions---along with the economic benefits they generate---, their residues are dispersed globally. Microplastics now permeate nearly every environment: from the Arctic to agricultural soils, from marine ecosystems to drinking water; indiscriminately, they have even made their way into human bodies. In the European context, the *Treaty on the Functioning of the EU* enshrines the principle that environmental harm should be addressed at its source and that the polluter should bear the cost. Yet, as the case of microplastics makes clear---with residues that are so ubiquitous, origins so dispersed and diffuse, and risk so latent and difficult to quantify---responsibility, on a practical level, can be deeply ambiguous. The case of microplastics shows the extent to which relational boundaries of accountability can be blurred. Indeed, while there was undoubtedly a clear awareness of microplastics, at least since the 1970s (Carpenter & Smith, 1972), "the microplastic problem" has only begun to be addressed on the policy level---and that, very reluctantly---in the 21^st^ century. The EU, following many years of discussion and consultation, for example, only made a first step in *restricting specific groups of microplastics intentionally added to products *in September 2023[[vi]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_edn6).
+Take the example of microplastics: while the production and consumption of plastics are highly concentrated in certain regions---along with the economic benefits they generate---, their residues are dispersed globally. Microplastics now permeate nearly every environment: from the Arctic to agricultural soils, from marine ecosystems to drinking water; indiscriminately, they have even made their way into human bodies. In the European context, the *Treaty on the Functioning of the EU* enshrines the principle that environmental harm should be addressed at its source and that the polluter should bear the cost. Yet, as the case of microplastics makes clear---with residues that are so ubiquitous, origins so dispersed and diffuse, and risk so latent and difficult to quantify---responsibility, on a practical level, can be deeply ambiguous. The case of microplastics shows the extent to which relational boundaries of accountability can be blurred. Indeed, while there was undoubtedly a clear awareness of microplastics, at least since the 1970s (Carpenter & Smith, 1972), "the microplastic problem" has only begun to be addressed on the policy level---and that, very reluctantly---in the 21^st^ century. The EU, following many years of discussion and consultation, for example, only made a first step in *restricting specific groups of microplastics intentionally added to products* in September 2023\[[vi]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_edn6).
 
 Returning to the concept of **spatiotemporal geographies of response-ability**, there are two key thinkers (from distinct yet complementary intellectual traditions) who further help complement my thinking in this regard. First is the STS scholar Madeleine Akrich, who generally follows in the field's actor-network theory (ANT) tradition. The second, Arjun Appadurai, who comes from a cultural anthropologist tradition and has done extensive work theorizing the disjunctive landscapes of global modernity, was already introduced in the section above.
 
@@ -349,8 +340,7 @@ The need for this shift is particularly urgent in the context of innovation resi
 
 Ultimately, the concept of ***spatiotemporal geographies of responsibility*** invites us to think and move beyond bounded, linear, and proximity-based ethics. It challenges us to reckon with responsibility as something that is distributed, delayed, and deeply infrastructural; not simply a matter of who acts, but of how systems are designed, how consequences unfold, and how accountability is---or is not---sustained across the many phases of innovation. Explicitly tasking us to rethink what it means to act responsibly---not only here and now but elsewhere and later---it urges us to follow innovations along their trajectories and regularly revisit whether the balance between their promised benefits and accumulating harms remains ethically tenable. As I have argued, we cannot continue to reduce responsibility into a one-time approval or singular phase of clearance (which is often the case in European policymaking). Instead, this concept demands that we create sustained modes and infrastructures of care (Felt, 2021): mechanisms that can regularly revisit the uneasy questions innovation so often ignores. Is the promise that once justified an innovation still in proportion to the residues it leaves behind, the disruptions it causes, and the futures it forecloses?
 
-Concluding reflections: Rethinking Responsibility through the Lens of Innovation Residues
-=========================================================================================
+# Concluding reflections: Rethinking Responsibility through the Lens of Innovation Residues
 
 This essay has argued for the urgent need to rethink the frameworks through which responsibility is imagined, enacted, and institutionalized in contemporary innovation societies. Rather than offering a prescriptive model or set of clear-cut recommendations, what follows is an invitation to engage differently---with greater attentiveness to situatedness and nuance---with the conditions under which innovation unfolds and leaves its mark. Taking responsibility seriously means recognizing that innovations may not always simplify or improve life, as their proponents often claim, but may, in fact, render life more complex, particularly if we are to attend to their residual effects. This complexity is not necessarily a failure of innovation, but rather a call to reconsider what it means to live well with its consequences and to better weigh its residues against its promises. I close with four propositions that I see as essential to this rethinking.
 
@@ -378,8 +368,7 @@ In formulating this essay, I have embraced a rather Foucauldian notion of critiq
 
 The governance of innovation must shift from a narrow focus on discrete outcomes to a deeper engagement with the enduring and entangled relationalities that innovation activates---in short: to acknowledge the tension between short-term political choices and long-term environmental impacts. By embedding responsibility throughout the whole arc of innovation---following its emergence, deployment, breakdowns, repairs, and residues---we may begin to shape more accountable, responsive, and just technopolitical futures. In the end, this might lead us toward more collective work, including the imagination and enactment of alternative innovation futures---ones that are not grounded in heroic breakthroughs or abstract (often economic) value, but in care, accountability, and a deepened sense of interdependence.
 
-References
-==========
+# References
 
 Adam, B. (1998). *Timescapes of Modernity. The Environment & Invisible Hazards*. Routledge. 
 
@@ -395,27 +384,27 @@ Appadurai, A. (2002). Disjuncture and Difference in the Global Cultural Economy.
 
 Appadurai, A., & Neta, A. (2019). *Failure*. Polity Press. 
 
-Arora, S., & Stirling, A. (2023). Colonial modernity and sustainability transitions: A conceptualisation in six dimensions. *Environmental Innovation and Societal Transitions*,* 48*. https://doi.org/10.1016/j.eist.2023.100733 
+Arora, S., & Stirling, A. (2023). Colonial modernity and sustainability transitions: A conceptualisation in six dimensions. *Environmental Innovation and Societal Transitions*, *48*. https://doi.org/10.1016/j.eist.2023.100733 
 
 Barben, D., Fisher, E., Selin, C., & Guston, D. H. (2008). Anticipatory Governance and Nanotechnology: Foresight, Engagement, and Integration. In E. J. Hackett, O. Amsterdamska, M. Lynch, & J. Wajcman (Eds.), *The Handbook of Science and Technology Studies* (pp. 979--1000). The MIT Press. 
 
 Barry, A. (2017). Manifesto for a Chemical Geography. In U. C. London (Ed.).
 
-Baudrillard, J. (1998 [1970]). *The Consumer Society. Myths and Structures*. SAGE. 
+Baudrillard, J. (1998 \[1970]). *The Consumer Society. Myths and Structures*. SAGE. 
 
 Becker, P. (2007). Le charme discrete du formulaire. In M. Werner (Ed.), *Politiques et usages de la langue en Europe* (pp. 217--241). Editions de la maison des sciences de l'homme. 
 
-Bickerstaff, K. (2022). Living on with Sellafield: Nuclear infrastructure, slow violence, and the politics of quiescence. *Transactions of the Institute of British Geographers*,* 47*(4), 955--970. https://doi.org/10.1111/tran.12540 
+Bickerstaff, K. (2022). Living on with Sellafield: Nuclear infrastructure, slow violence, and the politics of quiescence. *Transactions of the Institute of British Geographers*, *47*(4), 955--970. https://doi.org/10.1111/tran.12540 
 
 Blok, V., & Lemmens, P. (2015). The Emerging Concept of Responsible Innovation. Three Reasons Why It Is Questionable and Calls for a Radical Transformation of the Concept of Innovation. In B. J. Koops, I. Oosterlaken, H. Romijn, T. Swierstra, & J. van den Hoven (Eds.), *Responsible Innovation 2* (pp. 19--35). Springer. https://doi.org/10.1007/978-3-319-17308-5_2
 
 Boltanski, L., & Thevenot, L. (2006). *On Justification: Economies of Worth*. Princeton University Press. 
 
-Boudia, S., Creager, A. N. H., Frickel, S., Henry, E., Jas, N., Reinhardt, C., & Roberts, J. A. (2018). Residues: Rethinking Chemical Environments. *Engaging Science, Technology, and Society*,* 4*. https://doi.org/10.17351/ests2018.245
+Boudia, S., Creager, A. N. H., Frickel, S., Henry, E., Jas, N., Reinhardt, C., & Roberts, J. A. (2018). Residues: Rethinking Chemical Environments. *Engaging Science, Technology, and Society*, *4*. https://doi.org/10.17351/ests2018.245
 
 Boudia, S., Creager, A. N. H., Frickel, S., Henry, E., Jas, N., Reinhardt, C., & Roberts, J. A. (2022). *Residues. Thinking Through Chemical Environments*. Rutgers University Press. 
 
-Brighenti, A. (2007). Visibility: A Category for the Social Sciences. *Current Sociology*,* 55*(3), 323--342. https://doi.org/10.1177/0011392107076079 
+Brighenti, A. (2007). Visibility: A Category for the Social Sciences. *Current Sociology*, *55*(3), 323--342. https://doi.org/10.1177/0011392107076079 
 
 Brighenti, A. M. (2010). *Visibility in Social Theory and Social Research*. Palgrave Macmillan. 
 
@@ -423,31 +412,31 @@ Brighenti, A. M. (Ed.). (2022). *The New Politics of Visibility. Spaces, Actors
 
 Butler, J. (1997). *Excitable Speech. A Politics of the Performative*. Routledge. 
 
-Carpenter, E. J., & Smith, K. L. (1972). Plastics on the Sargasso Sea Surface. *Science*,* 175*(4027), 1240--1241. https://doi.org/https://doi.org/10.1126/SCIENCE.175.4027.1240
+Carpenter, E. J., & Smith, K. L. (1972). Plastics on the Sargasso Sea Surface. *Science*, *175*(4027), 1240--1241. https://doi.org/https://doi.org/10.1126/SCIENCE.175.4027.1240
 
-Carr, J., & Milstein, T. (2021). "See nothing but beauty": The shared work of making anthropogenic destruction invisible to the human eye. *Geoforum*,* 122*, 183--192. https://doi.org/10.1016/j.geoforum.2021.04.013
+Carr, J., & Milstein, T. (2021). "See nothing but beauty": The shared work of making anthropogenic destruction invisible to the human eye. *Geoforum*, *122*, 183--192. https://doi.org/10.1016/j.geoforum.2021.04.013
 
 Chilvers, J., & Kearnes, M. (Eds.). (2016). *Remaking Participation: Science, Environment and Emergent Publics*. Routledge. 
 
-Davies, T. (2019). Slow violence and toxic geographies: 'Out of sight' to whom? *Environment and Planning C: Politics and Space*,* 40*(2), 409--427. https://doi.org/10.1177/2399654419841063
+Davies, T. (2019). Slow violence and toxic geographies: 'Out of sight' to whom? *Environment and Planning C: Politics and Space*, *40*(2), 409--427. https://doi.org/10.1177/2399654419841063
 
-de la Bellacasa, M. P. (2011). Matters of care in technoscience: Assembling neglected things. *Social Studies of Science*,* 41*(1), 85--106. https://doi.org/10.1177/0306312710380301
+de la Bellacasa, M. P. (2011). Matters of care in technoscience: Assembling neglected things. *Social Studies of Science*, *41*(1), 85--106. https://doi.org/10.1177/0306312710380301
 
-de la Bellacasa, M. P. (2012). 'Nothing Comes Without Its World': Thinking with Care. *The Sociological Review*,* 60*(2), 197--216. https://doi.org/10.1111/j.1467-954X.2012.02070.x
+de la Bellacasa, M. P. (2012). 'Nothing Comes Without Its World': Thinking with Care. *The Sociological Review*, *60*(2), 197--216. https://doi.org/10.1111/j.1467-954X.2012.02070.x
 
 de la Bellacasa, M. P. (2017). *Matters of Care. Speculative Ethics in More Than Human Worlds*. University of Minnesota Press. 
 
-de Saille, S. (2015). Innovating innovation policy: the emergence of 'Responsible Research and Innovation'. *Journal of Responsible Innovation*,* 2*(2), 152--168. https://doi.org/10.1080/23299460.2015.1045280
+de Saille, S. (2015). Innovating innovation policy: the emergence of 'Responsible Research and Innovation'. *Journal of Responsible Innovation*, *2*(2), 152--168. https://doi.org/10.1080/23299460.2015.1045280
 
-de Saille, S., & Medvecky, F. (2016). Innovation for a steady state: a case for responsible stagnation. *Economy and Society*,* 45*(1), 1--23. https://doi.org/10.1080/03085147.2016.1143727
+de Saille, S., & Medvecky, F. (2016). Innovation for a steady state: a case for responsible stagnation. *Economy and Society*, *45*(1), 1--23. https://doi.org/10.1080/03085147.2016.1143727
 
-Denis, J., Mongili, A., & Pontille, D. (2015). Maintenance & Repair in Science and Technology Studies. *Tecnoscienza -- Italian Journal of Science & Technology Studies*,* 6*(2), 5--15. https://doi.org/10.6092/issn.2038-3460/17251 
+Denis, J., Mongili, A., & Pontille, D. (2015). Maintenance & Repair in Science and Technology Studies. *Tecnoscienza -- Italian Journal of Science & Technology Studies*, *6*(2), 5--15. https://doi.org/10.6092/issn.2038-3460/17251 
 
 Draghi, M. (2025). *The future of European competitiveness. A competitiveness strategy for Europe*. European Commission. 
 
 EC. (2012). *Responsible Research and Innovation: Europe's ability to respond to societal challenges*. European Commission. https://doi.org/10.2777/11739
 
-Engels, F., Wentland, A., & Pfotenhauer, S. M. (2019). Testing future societies? Developing a framework for test beds and living labs as instruments of innovation governance. *Research Policy*,* 48*(9). https://doi.org/10.1016/j.respol.2019.103826
+Engels, F., Wentland, A., & Pfotenhauer, S. M. (2019). Testing future societies? Developing a framework for test beds and living labs as instruments of innovation governance. *Research Policy*, *48*(9). https://doi.org/10.1016/j.respol.2019.103826
 
 Felt, U. (2013). *Kollaterale Zukünfte: Zu den (An)Ordnungen von Morgen* Zukunftsexpertise. Zur Generierung, Legitimierung, Verwendung und Anerkennung von Zukunftswissen, Bielefeld. 
 
@@ -465,13 +454,13 @@ Felt, U. (2025). *Academic Times: Contesting the Chronopolitics of Research*. P
 
 Felt, U., & Davies, S. R. (Eds.). (2020). *Exploring Science Communication. A Science and Technology Studies Approach*. SAGE. 
 
-Felt, U., Öchsner, S., Rae, R., & Osipova, E. (2023). Doing co-creation: power and critique in the development of a European health data infrastructure. *Journal of Responsible Innovation*,* 10*(1). https://doi.org/10.1080/23299460.2023.2235931 
+Felt, U., Öchsner, S., Rae, R., & Osipova, E. (2023). Doing co-creation: power and critique in the development of a European health data infrastructure. *Journal of Responsible Innovation*, *10*(1). https://doi.org/10.1080/23299460.2023.2235931 
 
 Felt, U., Wynne, B., Callon, M., Gonçalves, M. E., Jasanoff, S., Jepsen, M., Joly, P.-B., Konopasek, Z., May, S., Neubauer, C., Rip, A., Siune, K., Stirling, A., & Tallacchini, M. (2007). *Taking European Knowledge Society Seriously*. Office for Official Publications of the European Communities. 
 
-Fisher, E. (2005). Lessons Learned from the Ethical, Legal and Social Implications Program (ELSI): Planning Societal Implications Research for the National Nanotechnology Program. *Technology in Society*,* 27*(3), 321--328. 
+Fisher, E. (2005). Lessons Learned from the Ethical, Legal and Social Implications Program (ELSI): Planning Societal Implications Research for the National Nanotechnology Program. *Technology in Society*, *27*(3), 321--328. 
 
-Fisher, E., Mahajan, R. L., & Mitcham, C. (2006). Midstream Modulation of Technology: Governance From Within. *Bulletin of Science, Technology & Society*,* 26*(6), 485--496. https://doi.org/10.1177/0270467606295402 
+Fisher, E., Mahajan, R. L., & Mitcham, C. (2006). Midstream Modulation of Technology: Governance From Within. *Bulletin of Science, Technology & Society*, *26*(6), 485--496. https://doi.org/10.1177/0270467606295402 
 
 Foucault, M. (1988). *Politics, Philosophy, Culture. Interviews and Other Writings, 1977-1984*. Routledge. 
 
@@ -483,7 +472,7 @@ Frickel, S. (2004). *Chemical consequences. Environmental Mutagens, Scientist A
 
 Godin, B. (2015). *Innovation contested. The idea of innovation over the centuries*. Routledge. 
 
-Guston, D. H., & Sarewitz, D. (2002). Real-time technology assessment. *Technology in Society*,* 24*, 93--109. 
+Guston, D. H., & Sarewitz, D. (2002). Real-time technology assessment. *Technology in Society*, *24*, 93--109. 
 
 Hallonsten, O. (2023). *Empty Innovation: Causes and Consequences of Society's Obsession with Entrepreneurship and Growth*. Palgrave Macmillan. 
 
@@ -503,13 +492,13 @@ Henrekson, M., Sandström, C., & Stenkula, M. (Eds.). (2024). *Moonshots and th
 
 Hilgartner, S., Prainsack, B., & Hurlbut, J. B. (2017). Ethics as Governance in Genomics and Beyond. In U. Felt, R. Fouché, C. A. Miller, & L. Smith-Doerr (Eds.), *The Handbook of Science and Technology Studies* (pp. 823--851). MIT Press. 
 
-Horn, C., & Felt, U. (2025a). Collateral transitions. Reassembling societies, data centres and the twin transition. *Environmental Science & Policy*,* 170*, 104122. https://doi.org/10.1016/j.envsci.2025.104122 
+Horn, C., & Felt, U. (2025a). Collateral transitions. Reassembling societies, data centres and the twin transition. *Environmental Science & Policy*, *170*, 104122. https://doi.org/10.1016/j.envsci.2025.104122 
 
 Horn, C., & Felt, U. (2025b). On the Environmental Fragilities of Digital Solutionism. Articulating "Digital" and "Green" in the EU's "Twin Transition". *Journal of Environmental Policy & Planning*. https://doi.org/10.1080/1523908X.2025.2515225 
 
 Irwin, A., & Pfotenhauer, S. (2024). Innovation. In U. Felt & A. Irwin (Eds.), *Elgar Encyclopedia of Science and Technology Studies* (pp. 340--348). Edward Elgar. 
 
-Jasanoff, S. (2003). Technologies of Humility: Citizen Participation in Governing Science. *Minerva*,* 41*(3), 223--244. 
+Jasanoff, S. (2003). Technologies of Humility: Citizen Participation in Governing Science. *Minerva*, *41*(3), 223--244. 
 
 Jasanoff, S. (2016). *Ethics of Invention. Technology and the Human Future*. W.W. Norton & Company. 
 
@@ -517,11 +506,11 @@ Kenney, M. (2024). Care in technoscience. In U. Felt & A. Irwin (Eds.), *Elgar 
 
 Kimura, A. H. (2016). *Radiation Brain Moms and Citizen Scientists. The Gender Politics of Food Contamination after Fukushima*. 
 
-Larkin, B. (2013). The Politics and Poetics of Infrastructure. *Annual Review of Anthropology*,* 42*(1), 327--343. https://doi.org/10.1146/annurev-anthro-092412-155522 
+Larkin, B. (2013). The Politics and Poetics of Infrastructure. *Annual Review of Anthropology*, *42*(1), 327--343. https://doi.org/10.1146/annurev-anthro-092412-155522 
 
 Latour, B. (1988). Drawing things together. In M. Lynch & S. Woolgar (Eds.), *Representation in Scientific Practice* (pp. 19--68). The MIT Press. 
 
-Latour, B. (2004). Why Has Critique Run out of Steam? From Matters of Fact to Matters of Concern. *Critical Inquiry*,* 30*(Winter), 225--248. 
+Latour, B. (2004). Why Has Critique Run out of Steam? From Matters of Fact to Matters of Concern. *Critical Inquiry*, *30*(Winter), 225--248. 
 
 Lau, J. C.-H. (2022). Towards a care perspective on waste: A new direction in discard studies. *Environment and Planning C: Politics and Space*. https://doi.org/10.1177/23996544211063383 
 
@@ -529,23 +518,23 @@ Law, J. (2004). *After Method. Mess in Social Science Research*. Routledge. 
 
 Law, J. (2011). Collateral realities. In F. Dominguez Rubio & P. Baert (Eds.), *The Politics of Knowledge* (pp. 156--178). Routledge. 
 
-Liboiron, M. (2016). Redefining pollution and action: The matter of plastics. *Journal of Material Culture*,* 21*(1), 87--110. https://doi.org/10.1177/1359183515622966
+Liboiron, M. (2016). Redefining pollution and action: The matter of plastics. *Journal of Material Culture*, *21*(1), 87--110. https://doi.org/10.1177/1359183515622966
 
 Liboiron, M. (2021). *Pollution Is Colonialism*. Duke University Press. 
 
 Liboiron, M., & Lepawsky, J. (2022). *Discard Studies. Wasting, Systems, and Power*. MIT Press. 
 
-Liboiron, M., Tironi, M., & Calvillo, N. (2018). Toxic politics: Acting in a permanently polluted world. *Social Studies of Science*,* 48*(3), 331--349. https://doi.org/10.1177/0306312718783087
+Liboiron, M., Tironi, M., & Calvillo, N. (2018). Toxic politics: Acting in a permanently polluted world. *Social Studies of Science*, *48*(3), 331--349. https://doi.org/10.1177/0306312718783087
 
-Lindén, L., & Lydahl, D. (2021). Editorial: Care in STS. *Nordic Journal of Science and Technology Studies*,* 9*(1), 1--12. 
+Lindén, L., & Lydahl, D. (2021). Editorial: Care in STS. *Nordic Journal of Science and Technology Studies*, *9*(1), 1--12. 
 
-Liotard, I., & Revest, V. (2024). Grand Challenges, Innovation Policy, and Contests. Illustrative Cases in the United States and Europe. *Journal of Innovation Economics & Management*,* 43*(1), 187--214. https://doi.org/10.3917/jie.043.0187
+Liotard, I., & Revest, V. (2024). Grand Challenges, Innovation Policy, and Contests. Illustrative Cases in the United States and Europe. *Journal of Innovation Economics & Management*, *43*(1), 187--214. https://doi.org/10.3917/jie.043.0187
 
 Lösch, A., Grunwald, A., Meister, M., & Schulz-Schaeffer, I. (Eds.). (2019). *Socio-Technical Futures Shaping the Present. Empirical Examples and Analytical Challenges*. Springer. 
 
-Lubberink, R., Blok, V., Van Ophem, J., & Omta, O. (2017). Lessons for Responsible Innovation in the Business Context: A Systematic Literature Review of Responsible, Social and Sustainable Innovation Practices. *Sustainability*,* 9*(5). https://doi.org/10.3390/su9050721
+Lubberink, R., Blok, V., Van Ophem, J., & Omta, O. (2017). Lessons for Responsible Innovation in the Business Context: A Systematic Literature Review of Responsible, Social and Sustainable Innovation Practices. *Sustainability*, *9*(5). https://doi.org/10.3390/su9050721
 
-Masco, J. (2015). The Age of Fallout. *History of the Present: A Journal of Critical History*,* 5*(2), 137--168. 
+Masco, J. (2015). The Age of Fallout. *History of the Present: A Journal of Critical History*, *5*(2), 137--168. 
 
 Mazzucato, M. (2018). *Mission-Oriented Research & Innovation in the European Union. A problem-solving approach to fuel innovation-led growth*. European Commission. https://doi.org/10.2777/36546 
 
@@ -559,9 +548,9 @@ Müller, S. M., & Nielsen, M.-B. O. (Eds.). (2023). *Toxic timescapes. Examinin
 
 Nixon, R. (2011). *Slow Violence and the Environmentalism of the Poor*. Harvard University Press. 
 
-Perczel, J. (2023). E-waste is toxic, but for whom? The body politics of knowing toxic flows in Delhi. *Environment and Planning C: Politics and Space*,* 42*(1), 64--79. https://doi.org/10.1177/23996544231188653 
+Perczel, J. (2023). E-waste is toxic, but for whom? The body politics of knowing toxic flows in Delhi. *Environment and Planning C: Politics and Space*, *42*(1), 64--79. https://doi.org/10.1177/23996544231188653 
 
-Pfotenhauer, S., Laurent, B., Papageorgiou, K., & Stilgoe, J. (2022). The politics of scaling. *Social Studies of Science*,* 52*(1), 3--34. 
+Pfotenhauer, S., Laurent, B., Papageorgiou, K., & Stilgoe, J. (2022). The politics of scaling. *Social Studies of Science*, *52*(1), 3--34. 
 
 Rip, A. (2018). *Futures of Science and Technology in Society*. Springer. 
 
@@ -571,11 +560,11 @@ Scott, J. C. (1999). *Seeing Like a State. How Certain Schemes to Improve the H
 
 Stilgoe, J., & Guston, D. H. (2017). Responsible Research and Innovation. In U. Felt, R. Fouché, C. A. Miller, & L. Smith-Doerr (Eds.), *Handbook of Science and Technology Studies, Fourth Edition* (pp. 853--880). MIT Press. 
 
-Stilgoe, J., Owen, R., & Macnaghten, P. (2013). Developing a framework for responsible innovation. *Research Policy*,* 42*(9), 1568--1580. https://doi.org/10.1016/j.respol.2013.05.008
+Stilgoe, J., Owen, R., & Macnaghten, P. (2013). Developing a framework for responsible innovation. *Research Policy*, *42*(9), 1568--1580. https://doi.org/10.1016/j.respol.2013.05.008
 
-Stirling, A. (2008). "Opening Up" and "Closing Down". Power, Participation, and Pluralism in the Social Appraisal of Technology. *Science, Technology & Human Values*,* 33*(2), 262--294. 
+Stirling, A. (2008). "Opening Up" and "Closing Down". Power, Participation, and Pluralism in the Social Appraisal of Technology. *Science, Technology & Human Values*, *33*(2), 262--294. 
 
-Tsing, A. L. (2012). On Nonscalability: The Living World Is Not Amenable to Precision-Nested Scales. *Common Knowledge*,* 18*(3), 505--524. 
+Tsing, A. L. (2012). On Nonscalability: The Living World Is Not Amenable to Precision-Nested Scales. *Common Knowledge*, *18*(3), 505--524. 
 
 Tsing, A. L. (2015). *The Mushroom at the End of the World. On the Possibility of Life in Capitalist Ruins*. Princeton University Press. 
 
@@ -583,7 +572,7 @@ Valaskivi, K. (2020). The contemporary faith of innovationism. In E. Bell, S. Go
 
 von Schomberg, R. (Ed.). (2011). *Towards Responsible Research and Innovationin the Information and Communication Technologies and Security Technologies Fields.* European Commission. https://doi.org/10.2777/58723.
 
-Winner, L. (1986). Do Artifacts Have Politics? *Daedalus*,* 109*(1), 121--136. 
+Winner, L. (1986). Do Artifacts Have Politics? *Daedalus*, *109*(1), 121--136. 
 
 Wynne, B. (1996). May the Sheep safely graze? A reflexive view of the expert - lay knowledge divide. In S. Lash, B. Szerszynski, & B. Wynne (Eds.), *Risk, Environment and Modernity. Towards a new Ecology* (pp. 44--83). SAGE Publications. 
 
@@ -593,16 +582,16 @@ Zerubavel, E. (2002). The Elephant in the Room. Notes on the Social Organization
 
 Zerubavel, E. (2015). *Hidden in Plain Sight. The Social Structure of Irrelevance*. Oxford University Press.
 
-* * * * *
+- - -
 
-[[i]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_ednref1) https://erc.europa.eu/news-events/news/europe-must-prioritize-research-and-innovation-be-competitive
+\[[i]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_ednref1) https://erc.europa.eu/news-events/news/europe-must-prioritize-research-and-innovation-be-competitive
 
-[[ii]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_ednref2) Innovationism is defined by Valaskivi (2020) in the following way: "The values of innovationism---competitiveness, progress, growth and success---direct and guide human action and societies around the world". She interprets innovationism as a "globally circulating religion that permeates all levels of societies and ties organisations, nations, individuals and ultimately humankind as a whole, into its value system." 
+\[[ii]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_ednref2) Innovationism is defined by Valaskivi (2020) in the following way: "The values of innovationism---competitiveness, progress, growth and success---direct and guide human action and societies around the world". She interprets innovationism as a "globally circulating religion that permeates all levels of societies and ties organisations, nations, individuals and ultimately humankind as a whole, into its value system." 
 
-[[iii]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_ednref3) https://www.innovation-residues.eu
+\[[iii]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_ednref3) https://www.innovation-residues.eu
 
-[[iv]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_ednref4) Here I should mention the important work by Soraya Boudia and co-authors (2022) on chemical residues, but also research by Scott Frickel (2004) or the Manifesto for a Chemical Geography by Andrew Barry (2017). 
+\[[iv]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_ednref4) Here I should mention the important work by Soraya Boudia and co-authors (2022) on chemical residues, but also research by Scott Frickel (2004) or the Manifesto for a Chemical Geography by Andrew Barry (2017). 
 
-[[v]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_ednref5) For details see http://www.innovation-residues.eu 
+\[[v]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_ednref5) For details see http://www.innovation-residues.eu 
 
-[[vi]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_ednref6) https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R2055
+\[[vi]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_ednref6) https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R2055
