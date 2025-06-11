@@ -138,13 +138,13 @@ Innovation residues provide a compelling perspective for interpreting innovation
 
 Taking three very different fields of innovation as examples, we will see how innovation residues come to matter in the world. Ultimately, to fully grapple with the implications of innovation, we must invert our gaze: rather than evaluating innovations based on novelty or promise, we must read them in reverse through what they leave behind. This shift not only allows us to bring residues into the frame of responsibility, it also makes visible the hidden costs of progress and the futures we habitually cast aside. Here, I follow Soraya Boudia and co-authors (2022), stressing that residues are far more than technoscientific entities, brought into the world through the processes of innovation; they are also "markers of political, economic, and cultural choices," which occur not only during the early phases of the innovation processes but above all on the journeys of these innovations into every corner of contemporary life and even once they do no longer fulfill their role (e.g. nuclear power plants that do no longer produce electricity but need to be dismantled, creating all kinds of residues).
 
-Figure 1: Innovation journeys, residues, and collateral futures
+**Figure 1: Innovation journeys, residues, and collateral futures**
 
 ![](/static/figure1.png)
 
-In what follows, I elaborate on the different kinds of residues innovation activities leave behind with examples from three fields of innovation at the core of the empirical work in the *Innovation Residues*project: nuclear technologies, plastic, and digital transformations.\[[v]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_edn5) Taking the example of nuclear technologies as a significant field of innovation, the extent to which this innovation has moved into several areas of application---from energy production to medical diagnosis, various industrial processes, and food sector applications---is quite well known. (The divergent *socio-technical environments of use* are represented by the big arrows in Figure 1.) Yet, along this journey, many left-behinds have also been produced. They take the form of regulated nuclear waste, the toxic remnants of uranium mining, the lingering spatial residues of decommissioned nuclear power plants that resist repurposing, and the dispersed traces of contamination released by nuclear accidents. Indeed, the trajectories of innovation can be seen as wrapped in a meshwork of residues, each of which requires specific forms of attention as well as modes and infrastructures of care.
+In what follows, I elaborate on the different kinds of residues innovation activities leave behind with examples from three fields of innovation at the core of the empirical work in the *Innovation Residues*project: nuclear technologies, plastic, and digital transformations.[^v] Taking the example of nuclear technologies as a significant field of innovation, the extent to which this innovation has moved into several areas of application---from energy production to medical diagnosis, various industrial processes, and food sector applications---is quite well known. (The divergent *socio-technical environments of use* are represented by the big arrows in Figure 1.) Yet, along this journey, many left-behinds have also been produced. They take the form of regulated nuclear waste, the toxic remnants of uranium mining, the lingering spatial residues of decommissioned nuclear power plants that resist repurposing, and the dispersed traces of contamination released by nuclear accidents. Indeed, the trajectories of innovation can be seen as wrapped in a meshwork of residues, each of which requires specific forms of attention as well as modes and infrastructures of care.
 
-## Taking such an approach will enable us to notice the diverse types of residues innovations produce, reflect on how they develop their own trajectories, leave multiple traces, and create collateral futures that were not at all part of the promise captured by the sociotechnical imaginaries developed and distributed during the implementation of the innovation. In doing so, this focus will make the reasons for the limitations and challenges surrounding our most dominant understandings of responsible innovation abundantly clear. 
+Taking such an approach will enable us to notice the diverse types of residues innovations produce, reflect on how they develop their own trajectories, leave multiple traces, and create collateral futures that were not at all part of the promise captured by the sociotechnical imaginaries developed and distributed during the implementation of the innovation. In doing so, this focus will make the reasons for the limitations and challenges surrounding our most dominant understandings of responsible innovation abundantly clear.
 
 ## Residues to think about/with
 
@@ -156,75 +156,9 @@ Second, residues' social impacts must also be considered. Residues can entrench 
 
 Finally, the third dimension requiring our attention is the temporal component. Consequences are not always immediate; some unfold slowly, others emerge only after long periods of latency, and others persist for generations to come. Both the durability and the deferred nature of specific harms complicate the issue of ethical and political responsibility. We must therefore not only ask what or who is affected but also when and for how long.
 
-\|
+**Figure 2: Different residual categories and their potential impacts**
 
-**IMPACTS**
-
-\|
-
-**RESIDUAL CATEGORIES**
-
-\|
-|
-
-**Regimes of (in)visibility**
-
-\|
-|
-
-**ENVIRONMENTAL**
-
-pollution, toxic accumulation, resource depletion, ecosystem disruption, climate change,  ...
-
-\|
-
-**SOCIAL**
-
-in/exclusions, environmental justice, uneven harm, ...
-
-\|
-
-**TEMPORAL**
-
-immediate, slow, delayed residual impacts, lasting, ...
-
-\|
-
-**Material residues**
-
-\-       Physical byproducts
-
-\-       chemical residues
-
-\-       waste (e.g. nuclear waste, plastic waste, e-waste/data waste) 
-
-\-       fallout (e.g. nuclear fallout, micro- and nano-plastics, mining residues)
-
-\|
-|
-
-**Infrastructural residues**
-
-\-       land use (e.g. wastelands, exclusion zones, landfills)
-
-\-       innovation ruins (e.g. infrastructures after decommissioning)
-
-\-       floating garbage patches
-
-\|
-|
-
-**Epistemic residues**
-
-\-       residual sociotechnical imaginaries: the enduring techno-utopian visions fed by technological solutionism
-
-\-       residual paradigms: frames shaped by a specific innovation that persist despite visible deficiencies
-
-\-       non-knowledge (or silenced knowledge): traditional, local, or critical knowledges marginalized in the push for innovation
-
-\|
-
-Figure 2: Different residual categories and their potential impacts
+![](/static/figure2.png)
 
 Across each of these three residue types and their impacts, we must carefully consider the different regimes of (in)visibility that have been established to support a form of innovation governance that purposely refrains from asking certain questions (see Figure 2). 
 
