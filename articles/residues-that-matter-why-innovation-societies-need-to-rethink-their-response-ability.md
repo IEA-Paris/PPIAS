@@ -514,7 +514,7 @@ Zerubavel, E. (2015). *Hidden in Plain Sight. The Social Structure of Irrelevan
 
 ## Endnotes
 
-[^1]:
+[^i]:
 
 https://erc.europa.eu/news-events/news/europe-must-prioritize-research-and-innovation-be-competitive
 
