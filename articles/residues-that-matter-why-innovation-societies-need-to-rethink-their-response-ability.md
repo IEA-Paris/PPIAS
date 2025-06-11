@@ -230,11 +230,11 @@ To engage with the question of responsibility in the context of contemporary inn
 
 This is inspired by Arjun Appadurai's (2002) concept of "scapes," a framework that draws attention to how people, ideas, technologies, and capital move across the globe in **non-linear, fragmented, and context-dependent ways.** Through these "scapes"--- he considers ethnoscapes, technoscapes, financescapes, mediascapes, and ideoscapes, each of which focuses on different kinds of flows---Appadurai aims to capture the disjunctive, uneven circulation that produces structural inequalities and complex spatiotemporal dislocations. This is an essential sensitivity when one begins to think about responsible innovation in the ways I have advocated for.
 
-Thinking through the *timescapes\*\* of responsibility* allows us to move beyond the event-based or momentary logics that often govern ethical discourse. Innovations are rarely singular acts or bounded decisions; they unfold across time, entangled with both historical legacies and collateral futures. Each act of technological development carries the weight of sedimented histories: extractivism, colonial science, racialized labor, and prior environmental harm, all of which continue to shape the conditions under which innovation is conceived and executed. At the same time, innovations are deeply future-oriented: they project speculative horizons, promise progress, and postpone harm. From radioactive waste to persistent plastics and material legacies of digitalization, many of innovation's consequences emerge only decades after they have been introduced (e.g., Müller & Nielsen, 2023). These deferred effects challenge ethical frameworks that are based on immediacy or linear causality (e.g., the straightforward polluter pays logic) and instead invite a practice of responsibility that is longitudinal, anticipatory, and enduring.
+Thinking through the *timescapes of responsibility* allows us to move beyond the event-based or momentary logics that often govern ethical discourse. Innovations are rarely singular acts or bounded decisions; they unfold across time, entangled with both historical legacies and collateral futures. Each act of technological development carries the weight of sedimented histories: extractivism, colonial science, racialized labor, and prior environmental harm, all of which continue to shape the conditions under which innovation is conceived and executed. At the same time, innovations are deeply future-oriented: they project speculative horizons, promise progress, and postpone harm. From radioactive waste to persistent plastics and material legacies of digitalization, many of innovation's consequences emerge only decades after they have been introduced (e.g., Müller & Nielsen, 2023). These deferred effects challenge ethical frameworks that are based on immediacy or linear causality (e.g., the straightforward polluter pays logic) and instead invite a practice of responsibility that is longitudinal, anticipatory, and enduring.
 
 In parallel, the material and symbolic geographies in which innovation takes place demand attention to what might be called the *landscapes of responsibility*. Innovations are not placeless abstractions; they are deeply embedded in and transformative of specific ecological, infrastructural, and political terrains. Whether through lithium extraction in the Andes, rare earth mining in the Congo, data centers in Ireland, or the afterlives of plastic packaging in the Global South, innovations alter environments in spatially uneven ways. These landscapes are not neutral: they are historically saturated spaces shaped by colonial legacies, global inequalities, and infrastructural marginalization. Responsibility, then, is never simply a matter of technical deployment or market reach; instead, it is always situated. As such, it must be attentive to the politics of land use, the ecologies disrupted, and the communities made vulnerable or invisible. Thinking of these conditions as landscapes helps remind us that ethical engagement is something that must be grounded, not only in terms of physical location but also in terms of a particular sensitivity toward how innovation intervenes in the spatial textures of heterogeneous lived experiences.
 
-Overlaying these spatial and temporal dynamics are the *socioscapes\*\* of responsibility*: the social terrain through which responsibility is imagined, distributed, and contested. These include not only the institutional actors conventionally associated with innovation---scientists, engineers, funders, regulators---but also the communities, activists, and publics whose knowledge and concerns are often marginalized or ignored. Socioscapes encompass both formal structures and informal practices, shaping how responsibility is felt, claimed, or disavowed across diverse social positions. They also highlight the affective and emotional registers of responsibility: the fear, fatigue, or moral injury borne by those who live amid the consequences of innovation. Responsibility is not just about rules or roles; it is also about relationality, about how ethical obligations are mediated through power, recognition, and the distribution of voice.
+Overlaying these spatial and temporal dynamics are the *socioscapes of responsibility*: the social terrain through which responsibility is imagined, distributed, and contested. These include not only the institutional actors conventionally associated with innovation---scientists, engineers, funders, regulators---but also the communities, activists, and publics whose knowledge and concerns are often marginalized or ignored. Socioscapes encompass both formal structures and informal practices, shaping how responsibility is felt, claimed, or disavowed across diverse social positions. They also highlight the affective and emotional registers of responsibility: the fear, fatigue, or moral injury borne by those who live amid the consequences of innovation. Responsibility is not just about rules or roles; it is also about relationality, about how ethical obligations are mediated through power, recognition, and the distribution of voice.
 
 Together, these entangled scapes offer a dynamic and situated framework for reimagining what responsible innovation could mean. They prompt us to move beyond static checklists or compliance protocols and instead ask more profound, more challenging questions: When is responsibility enacted, and for how long? Where are the effects of innovation residues registered, and who bears them? Who is deemed responsible---and who is excluded from that reflection? Toward whom is responsibility owed, and how is that obligation enacted? These questions shift responsibility from being an individual attribute to a practice that is embedded in systems, infrastructures, and relations stretching across time and space.
 
@@ -514,9 +514,17 @@ Zerubavel, E. (2015). *Hidden in Plain Sight. The Social Structure of Irrelevan
 
 ## Endnotes
 
+[^i]:
+
+https://erc.europa.eu/news-events/news/europe-must-prioritize-research-and-innovation-be-competitive
+
 [^ii]:
 
 Innovationism is defined by Valaskivi (2020) in the following way: "The values of innovationism---competitiveness, progress, growth and success---direct and guide human action and societies around the world". She interprets innovationism as a "globally circulating religion that permeates all levels of societies and ties organisations, nations, individuals and ultimately humankind as a whole, into its value system." 
+
+[^iii]:
+
+https://www.innovation-residues.eu
 
 [^iv]:
 
@@ -524,4 +532,8 @@ Here I should mention the important work by Soraya Boudia and co-authors (2022)
 
 [^v]:
 
-For details see http://www.innovation-residues.eu
+For details see http://www.innovation-residues.eu 
+
+\[vi]:
+
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R2055
