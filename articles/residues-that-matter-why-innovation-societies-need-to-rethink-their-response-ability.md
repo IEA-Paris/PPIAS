@@ -522,10 +522,6 @@ https://erc.europa.eu/news-events/news/europe-must-prioritize-research-and-innov
 
 Innovationism is defined by Valaskivi (2020) in the following way: "The values of innovationism---competitiveness, progress, growth and success---direct and guide human action and societies around the world". She interprets innovationism as a "globally circulating religion that permeates all levels of societies and ties organisations, nations, individuals and ultimately humankind as a whole, into its value system." 
 
-[^iii]:
-
-https://www.innovation-residues.eu
-
 [^iv]:
 
 Here I should mention the important work by Soraya Boudia and co-authors (2022) on chemical residues, but also research by Scott Frickel (2004) or the Manifesto for a Chemical Geography by Andrew Barry (2017). 
