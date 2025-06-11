@@ -514,6 +514,10 @@ Zerubavel, E. (2015). *Hidden in Plain Sight. The Social Structure of Irrelevan
 
 ## Endnotes
 
+[^1]:
+
+https://erc.europa.eu/news-events/news/europe-must-prioritize-research-and-innovation-be-competitive
+
 [^ii]:
 
 Innovationism is defined by Valaskivi (2020) in the following way: "The values of innovationism---competitiveness, progress, growth and success---direct and guide human action and societies around the world". She interprets innovationism as a "globally circulating religion that permeates all levels of societies and ties organisations, nations, individuals and ultimately humankind as a whole, into its value system." 
