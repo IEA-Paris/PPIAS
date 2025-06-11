@@ -162,7 +162,7 @@ Finally, the third dimension requiring our attention is the temporal component. 
 
 Across each of these three residue types and their impacts, we must carefully consider the different regimes of (in)visibility that have been established to support a form of innovation governance that purposely refrains from asking certain questions (see Figure 2). 
 
-**Material residues** 
+### **Material residues** 
 
 Material residues, in my definition, are a category that brings together enduring physical and chemical residues generated throughout the life cycles of innovation---often dispersed or transformed, they are the remainders of processes that once held economic or technological promise. This category comprises a wide variety of substances and fragments that persist in the environment. Circulating through soil, water, and air, they range from microplastics and heavy metals to chemical effluents from the extraction and production of the raw materials needed for innovations, e-waste that is often burned, crushed, or informally dismantled, leaving behind various toxic residues (e.g. Perczel, 2023) and residual compounds that become embedded in our infrastructure (e.g. the radioactive rocks and debris of uranium mines that are used in construction, including roads and housing). 
 
@@ -176,7 +176,7 @@ A critical counterpoint to mainstream waste governance is currently offered by r
 
 Across each of the material residues mentioned above, we must remain attentive to the important differences in how different residues move through societies. To remain attentive to these nuances, I draw on Joseph Masco's (2015) concept of "fallout," which helps capture the slow, dispersed, and often imperceptible material consequences of innovations. Here, fallout stands not for immediate rupture but for long-term processes and forms of slow violence (Davies, 2019; Nixon, 2011). Fallout spreads across ecosystems, bodies, and time, creating injuries that are challenging to trace and even more difficult to regulate. This concept aids us in understanding how innovation residues can be both hyper-present and under-acknowledged; how they can manifest in landscapes and health threats while being denied or overlooked in both policy and public discourse. The notion of fallout connects the material and the atmospheric, the technical and the affective, and emphasizes the urgency of developing the "arts of noticing" that Anna Tsing (2015) has advocated for---practices that can reveal the slow violence, subtle transformations, and unintended accumulations that shape the worlds we inhabit.
 
-**Infrastructural residues**
+### Infrastructural residues
 
 Infrastructural residues, while also material entities in and of themselves, are the built and spatial legacies that endure even after an innovation has moved on or been abandoned. As innovation reshapes space through long-lasting infrastructures, they become witnesses to the past. Indeed, as Larking convincingly argues, infrastructures also teach us about the "forms of desire and fantasy" that "emerge\[d] out of and \[remain] store\[d] within them" (Larkin, 2013). These residues can include, for example, technological infrastructure like data centers, closed-down nuclear power plants awaiting their decommissioning, abandoned factory complexes, or supply chain remnants like logistics systems, extraction sites, and transport corridors that persist long after the innovation cycle. 
 
@@ -184,7 +184,7 @@ Here, we should also consider zoned landscapes. Nuclear power plants and nuclear
 
 Yet, there are additional infrastructural residues left behind by innovations that are even more difficult to reconcile with, since they are comprised of not just one residue but an assemblage of them. I will refer to these assemblages as *emerging infrastructures*. Nowhere is this more evident than in the Great Pacific Garbage Patch, a sprawling gyre of buoyant polymers, ghost nets, microbeads, and fragmented consumer goods drifting between Hawaii and California. Although it was never planned, the patch functions like an infrastructure in several ways. First, it organizes and channels material flows by capturing debris from trans-Pacific trade routes. Second, it scaffolds new ecologies by providing substrate for microbes, barnacles, and pelagic insects. Finally, it even shapes scientific, regulatory, and entrepreneurial imaginaries, from ocean clean-up start-ups to climate migration narratives. The Garbage Patch is therefore both a residual product of global petro-industrial logistics and a platform that generates social, economic, and biological interactions. Recognizing it as such forces us to reappraise how we think about responsibility. We can no longer treat plastic residues as mere diffuse pollution to be removed; instead, we must see them as part of a quasi-durable, evolving infrastructure that binds distant producers, consumers, ocean currents, and non-human life into a single, uneasy assemblage. This reframing highlights the urgent need to develop governance approaches that grapple with residues not as waste to be managed but infrastructure to be reckoned with---material systems that will continue to mediate life and politics long after their initial moment of discard.
 
-**Epistemic residues**
+### Epistemic residues
 
 Finally, epistemic residues refer to the often-overlooked traces of knowledge, imaginaries, unacknowledged futures, and structured absences that persist in the wake of innovation and linger in the shadow of dominant innovation narratives. These are not simply fragments of past visions and (often unkept) promises; rather, they are the byproducts of selective knowledge-making, systemic ignorance, and the discursive filtering of what is deemed worth knowing, imagining, or acting upon. Epistemic residues include suppressed or inconvenient knowledge, discredited theories, unexplored alternatives, and abandoned futures, all of which have been concocted or put forward in the name of a specific innovation and all of which remain embedded in the very fabric of our innovation societies even though they have been rendered invisible or irrelevant by the narratives that have become dominant. 
 
@@ -192,7 +192,7 @@ Such residues emerge not only from what is known but also from what is actively 
 
 In short, thinking about responsibility in innovation also requires us to reckon with residual sociotechnical imaginaries---those enduring techno-utopian visions rooted in a deep faith in technological solutions. Equally important are the residual paradigms shaped by past innovations, which continue to frame how we think and act, even when their flaws---especially the neglect of traditional, local, or critical perspectives---have become evident. 
 
-# Regimes of (in)visibilities: Between strategic ignorance and hidden in plain sight
+## Regimes of (in)visibilities: Between strategic ignorance and hidden in plain sight
 
 To understand why the environmental residues of innovation so often remain unattended, we must move beyond simplistic accounts of ignorance as a mere absence of knowledge. Instead, a range of mechanisms, structures, ideologies, or practices actively render the environmental harms of innovation---and their often-profound social impacts---invisible. These are not accidental oversights but rather systematic, strategic, and embedded: they constitute ***regimes of (in)visibility***.
 
@@ -224,7 +224,7 @@ Ultimately, to bring innovation residues into public consciousness and governanc
 
 Responding to this call requires us to develop and cultivate new arts of noticing, new infrastructures of care, and a steadfast commitment to resist the seductions of ignorance---strategic or otherwise.
 
-# Reframing Responsibility: Entangled Scapes of Innovation 
+## Reframing Responsibility: Entangled Scapes of Innovation 
 
 To engage with the question of responsibility in the context of contemporary innovation in a meaningful way we must resist the temptation to define it narrowly. This means that we must see responsibility as more than a discrete ethical choice, regulatory checkpoint, or retrospective evaluation. Instead, we must reconceptualize it as an entangled, multi-scalar, and processual phenomenon that is embedded into the very infrastructures, timelines, and social relations that constitute our innovation systems. To do so, we must first consider how responsibility is shaped, enacted, deferred, or denied across shifting terrains of knowledge production, technological development, and societal transformation. A productive way to approach this, I propose, is through the lens of *entangled scapes of responsibility*---interweaving timescapes (Adam, 1998), landscapes, and socioscapes, which each offer a different but interconnected dimension of ethical engagement in innovation societies. 
 
@@ -244,11 +244,11 @@ Approaching responsibility through these scapes does not lead to a static mode
 
 Responsibility, in this view, is not a singular act or a finished state. It is an ongoing negotiation---one that must travel through the ruptures and residues of innovation, trace its hidden geographies, and listen for the voices that fall outside the dominant frames. Reframing responsibility through entangled scapes offers not only a richer conceptual vocabulary but also a more just and attentive practice for living with and through the technologies that shape our collective futures.
 
-# Towards Spatiotemporal Geographies of Response-ability
+## Towards Spatiotemporal Geographies of Response-ability
 
 In the backdrop of these observations, I propose an expanded conceptualization of responsibility---**spatiotemporal geographies of response-ability**. This formulation aims to transcend conventional ethical frameworks that confine responsibility to discrete acts, proximate relationships, or immediate contexts. In an era of accelerated globalization and systemic complexity, these frameworks have increasingly revealed themselves to be limited in their scope of responsibility. Today, innovation unfolds within vast, interdependent systems marked by asymmetrical flows of power, material, knowledge, and consequence. As such, responsibility must also be understood as an emergent and distributed process---unfolding across both space and time, and traversing national borders, social domains, ecological zones, and generational boundaries. This aligns closely with Haraway's (2016) understanding of response-ability, which is not merely the capacity to respond, but instead a relational and ethical practice of attentiveness, care, and situated engagement. It is about staying with the trouble---being accountable to the complex, entangled relationships we inhabit with other beings, technologies, and worlds.
 
-Take the example of microplastics: while the production and consumption of plastics are highly concentrated in certain regions---along with the economic benefits they generate---, their residues are dispersed globally. Microplastics now permeate nearly every environment: from the Arctic to agricultural soils, from marine ecosystems to drinking water; indiscriminately, they have even made their way into human bodies. In the European context, the *Treaty on the Functioning of the EU* enshrines the principle that environmental harm should be addressed at its source and that the polluter should bear the cost. Yet, as the case of microplastics makes clear---with residues that are so ubiquitous, origins so dispersed and diffuse, and risk so latent and difficult to quantify---responsibility, on a practical level, can be deeply ambiguous. The case of microplastics shows the extent to which relational boundaries of accountability can be blurred. Indeed, while there was undoubtedly a clear awareness of microplastics, at least since the 1970s (Carpenter & Smith, 1972), "the microplastic problem" has only begun to be addressed on the policy level---and that, very reluctantly---in the 21^st^ century. The EU, following many years of discussion and consultation, for example, only made a first step in *restricting specific groups of microplastics intentionally added to products* in September 2023\[[vi]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_edn6).
+Take the example of microplastics: while the production and consumption of plastics are highly concentrated in certain regions---along with the economic benefits they generate---, their residues are dispersed globally. Microplastics now permeate nearly every environment: from the Arctic to agricultural soils, from marine ecosystems to drinking water; indiscriminately, they have even made their way into human bodies. In the European context, the *Treaty on the Functioning of the EU* enshrines the principle that environmental harm should be addressed at its source and that the polluter should bear the cost. Yet, as the case of microplastics makes clear---with residues that are so ubiquitous, origins so dispersed and diffuse, and risk so latent and difficult to quantify---responsibility, on a practical level, can be deeply ambiguous. The case of microplastics shows the extent to which relational boundaries of accountability can be blurred. Indeed, while there was undoubtedly a clear awareness of microplastics, at least since the 1970s (Carpenter & Smith, 1972), "the microplastic problem" has only begun to be addressed on the policy level---and that, very reluctantly---in the 21^st^ century. The EU, following many years of discussion and consultation, for example, only made a first step in *restricting specific groups of microplastics intentionally added to products* in September 2023\[^vi].
 
 Returning to the concept of **spatiotemporal geographies of response-ability**, there are two key thinkers (from distinct yet complementary intellectual traditions) who further help complement my thinking in this regard. First is the STS scholar Madeleine Akrich, who generally follows in the field's actor-network theory (ANT) tradition. The second, Arjun Appadurai, who comes from a cultural anthropologist tradition and has done extensive work theorizing the disjunctive landscapes of global modernity, was already introduced in the section above.
 
@@ -270,7 +270,7 @@ The need for this shift is particularly urgent in the context of innovation resi
 
 Ultimately, the concept of ***spatiotemporal geographies of responsibility*** invites us to think and move beyond bounded, linear, and proximity-based ethics. It challenges us to reckon with responsibility as something that is distributed, delayed, and deeply infrastructural; not simply a matter of who acts, but of how systems are designed, how consequences unfold, and how accountability is---or is not---sustained across the many phases of innovation. Explicitly tasking us to rethink what it means to act responsibly---not only here and now but elsewhere and later---it urges us to follow innovations along their trajectories and regularly revisit whether the balance between their promised benefits and accumulating harms remains ethically tenable. As I have argued, we cannot continue to reduce responsibility into a one-time approval or singular phase of clearance (which is often the case in European policymaking). Instead, this concept demands that we create sustained modes and infrastructures of care (Felt, 2021): mechanisms that can regularly revisit the uneasy questions innovation so often ignores. Is the promise that once justified an innovation still in proportion to the residues it leaves behind, the disruptions it causes, and the futures it forecloses?
 
-# Concluding reflections: Rethinking Responsibility through the Lens of Innovation Residues
+## Concluding reflections: Rethinking Responsibility through the Lens of Innovation Residues
 
 This essay has argued for the urgent need to rethink the frameworks through which responsibility is imagined, enacted, and institutionalized in contemporary innovation societies. Rather than offering a prescriptive model or set of clear-cut recommendations, what follows is an invitation to engage differently---with greater attentiveness to situatedness and nuance---with the conditions under which innovation unfolds and leaves its mark. Taking responsibility seriously means recognizing that innovations may not always simplify or improve life, as their proponents often claim, but may, in fact, render life more complex, particularly if we are to attend to their residual effects. This complexity is not necessarily a failure of innovation, but rather a call to reconsider what it means to live well with its consequences and to better weigh its residues against its promises. I close with four propositions that I see as essential to this rethinking.
 
@@ -298,7 +298,7 @@ In formulating this essay, I have embraced a rather Foucauldian notion of critiq
 
 The governance of innovation must shift from a narrow focus on discrete outcomes to a deeper engagement with the enduring and entangled relationalities that innovation activates---in short: to acknowledge the tension between short-term political choices and long-term environmental impacts. By embedding responsibility throughout the whole arc of innovation---following its emergence, deployment, breakdowns, repairs, and residues---we may begin to shape more accountable, responsive, and just technopolitical futures. In the end, this might lead us toward more collective work, including the imagination and enactment of alternative innovation futures---ones that are not grounded in heroic breakthroughs or abstract (often economic) value, but in care, accountability, and a deepened sense of interdependence.
 
-# References
+## References
 
 Adam, B. (1998). *Timescapes of Modernity. The Environment & Invisible Hazards*. Routledge. 
 
@@ -512,16 +512,28 @@ Zerubavel, E. (2002). The Elephant in the Room. Notes on the Social Organization
 
 Zerubavel, E. (2015). *Hidden in Plain Sight. The Social Structure of Irrelevance*. Oxford University Press.
 
-- - -
+## Endnotes
 
-\[[i]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_ednref1) https://erc.europa.eu/news-events/news/europe-must-prioritize-research-and-innovation-be-competitive
+[^i]:
 
-\[[ii]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_ednref2) Innovationism is defined by Valaskivi (2020) in the following way: "The values of innovationism---competitiveness, progress, growth and success---direct and guide human action and societies around the world". She interprets innovationism as a "globally circulating religion that permeates all levels of societies and ties organisations, nations, individuals and ultimately humankind as a whole, into its value system." 
+https://erc.europa.eu/news-events/news/europe-must-prioritize-research-and-innovation-be-competitive
 
-\[[iii]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_ednref3) https://www.innovation-residues.eu
+[^ii]:
 
-\[[iv]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_ednref4) Here I should mention the important work by Soraya Boudia and co-authors (2022) on chemical residues, but also research by Scott Frickel (2004) or the Manifesto for a Chemical Geography by Andrew Barry (2017). 
+Innovationism is defined by Valaskivi (2020) in the following way: "The values of innovationism---competitiveness, progress, growth and success---direct and guide human action and societies around the world". She interprets innovationism as a "globally circulating religion that permeates all levels of societies and ties organisations, nations, individuals and ultimately humankind as a whole, into its value system." 
 
-\[[v]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_ednref5) For details see http://www.innovation-residues.eu 
+[^iii]:
 
-\[[vi]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/Articles/Felt.html#_ednref6) https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R2055
+https://www.innovation-residues.eu
+
+[^iv]:
+
+Here I should mention the important work by Soraya Boudia and co-authors (2022) on chemical residues, but also research by Scott Frickel (2004) or the Manifesto for a Chemical Geography by Andrew Barry (2017). 
+
+[^v]:
+
+For details see http://www.innovation-residues.eu 
+
+[^vi]:
+
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R2055
