@@ -727,8 +727,7 @@ The emerging picture of the brain as an organ of environmentally situated contro
 
 Combining the basic embodiment premise that low-level action and perception are inextricably linked, with the idea from Havelange et al. (2003) that technologically mediated interaction is part of the process of forming enacted representations, opens a new space of possibilities for understanding how high-level cognitive processes can arise in enactment.
 
-5.3               An Aha! Insight[[viii]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_edn8)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 5.3 An Aha! Insight[^viii]
 
 As described above, when plotting a position fix, two intersecting lines of position determine, or "fix," the position of the ship. Navigators usually try to plot three lines of position because the intersection of three LOPs forms a triangle. A small fix triangle indicates that the position fixing information is good. A large triangle indicates problems somewhere in the chain of constraints from which the fix triangle is constructed. In general, the navigator's confidence in a fix is inversely proportional to the size of the fix triangle. 
 
@@ -941,8 +940,7 @@ Putting things together this way reveals new analytic possibilities for understa
 
 Every mundane act of perception shares something fundamental with creative insight: the fact that what is available to the senses and what is experienced can be quite different. Reading the same scale for distance or speed in the use of the three-minute rule is a simple example. Similarly, a navigator can read the 120-degree mark on the protractor scale as a stable target on which one can position the hoey arm. Or the same navigator might read the same mark as a referent with respect to which a small clockwise rotation produces a new target, a slightly larger number on the scale, that fits better the anticipated course of action. In reading the mark this way, he suddenly sees what had been hidden. "Aha! Add three to everything." What makes ordinary acts of perception ordinary is only that the cultural practices of enacting them are over-learned, and the outcomes follow as anticipated. Creative acts of perception can occur when emergent relations arise in the enactment of integrated, multimodal, temporally extended, embodied representations.
 
-5.4               Choosing Landmarks[[ix]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_edn9)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 5.4 Choosing Landmarks[^ix]
 
 Having plotted the ship's position and computed its speed, P projected an estimated position (EP) - the anticipated location of the ship at the time of the next fix (shown as a half circle on the anticipated track line in Figure 5.4.1). P and BR now consider landmarks to use for plotting the next fix. 
 
@@ -1048,8 +1046,7 @@ The meaning of a complex emerges from the interactions among the modalities that
 
 Typical interactions among humans are composed of many elements, the meanings of which emerge from the network of relations among the elements. For example, the representations of the provisional imagined LOPs are emergent properties of the complex activity system. Like components of a position fix, the parts of a meaningful human interaction only mean what they mean by virtue of the roles they play in the entire culturally constituted activity.
 
-5.5.           Navigation Discussion
-------------------------------------
+### 5.5. Navigation Discussion
 
 In the few seconds of activity spanned by the navigation vignettes, the following phenomena appear:
 
@@ -1081,7 +1078,7 @@ In the few seconds of activity spanned by the navigation vignettes, the followi
 
 The chart is a great example of dimensionality reduction. 3-D world reduced to 2-D. At large scale the spherical earth is rendered as a planar surface. This dimensionality reduction requires map projections. Every projection simplifies some computations and makes others impossible. On the Mercator projection in use on the bridge of the ship straight line is a line of constant bearing. This property of the chart fits with the practice of taking visual bearings and plotting them with a straight edge. The historical depth of the cultural legacy is apparent here. At small scale, the dimensionality reduction appears as the 2-D rendering of the 3-D world of water surface with depth below and objects rising above sea level.
 
-### 5.5.1.          Imagining sequences: queuing and scales
+#### 5.5.1. Imagining sequences: queuing and scales
 
 The navigation examples made extensive use of numeric scales. As I pointed out in the analyses, the scale is a product of the projection of an imagined trajectory onto a real or imagined linear (or circular) array of spatial landmarks. It turns out there are many conceptual devices that rely on this same cognitive trick. One of the most familiar is the practice of queuing for service. In the following section, I begin with that practice and then try to radiate out to explore other members of the family of practices that are produced by projecting a trajector onto a spatial array. 
 
@@ -1121,7 +1118,7 @@ The practice of superimposing a trajector on a real or imagined array of objects
 
 The variety of practices that are members of this family reminds us that cultural-cognitive ecosystems are heterogeneous and complex. As an object of study, these cognitive ecosystems fall into the cracks among the academic disciplines as they are currently organized. How many such families are there? There are certainly others based on conceptual primitives such as alignment and containment. Do such families have a place in the metaphysics of cognitive science?
 
-### 5.5.2.          Domesticated spaces and representation
+#### 5.5.2. Domesticated spaces and representation
 
 At different moments in their work, navigators take two different interpretative stances with respect to the chart. Consider the navigator moving the hoey on the chart surface while seeking a coherent relation between a landmark depiction and the estimated position of the next fix. To what extent is the location of the hoey on the chart experienced as a location in the represented space (having meaning about locations in the world around the ship) and to what extent is it simply experienced as a location on the surface of the chart (in chart-table space) near where the plotting action will happen? The chart is sometimes a representation of something, it is not - the space around the ship. At other times, the chart is engaged as a thing-in-itself. 
 
@@ -1149,7 +1146,7 @@ While performing actions over and in contact with the meaningfully interpreted c
 
 The notion of a "meaningfully interpreted chart surface ..." needs to be unpacked. This noun phrase implies a continuous dynamic coupling of the visual modality to the chart surface (outward orientation) and (inward orientation) to a complex generative predictive processing (MGC) network. This network includes non-representational knowledge and a spotty memory of the chart. Memory can be spotty because the chart is present. The MGC network produces predictions of tuned sensorimotor contingencies. These networks change subtly as the chart is viewed, eventually predicting how the appearance of this particular chart will change with the movement of the eyes. This implies continuous dynamic coupling of proprioceptive modalities to the chart surface [outward orientation] and to additional MGC network structure. The developing representation of the specific contents of any particular chart is constructed on a foundation of knowledge of charting conventions, for example, the fact that north is away from the body (knowledge of the relationship of body-space to chart space to ship space). The spotty representation of the chart's contents may fill-in gradually as a consequence of implicit learning through interaction with the chart.
 
-### 5.5.3.          The Role of Friction in Action
+#### 5.5.3. The Role of Friction in Action
 
 There are three degrees of freedom to control in the plotting of an LOP: 1) The rotational location of the hoey arm with respect to the scale on the hoey base. Conceptually, this is the angular expression of the bearing of the landmark to be plotted with respect to true north. 2) The location of the chart depiction of the landmark. Conceptually, this is the location of the landmark in ship space. 3) The alignment of the hoey base with the directional frame of the chart. Conceptually, this links the bearing of the landmark as an angle with respect to true north to the cardinal directional frame of the chart.
 
@@ -1165,7 +1162,7 @@ The control of these subtle frictional dynamics requires skilled, delicate, bala
 
 Clever use of friction simultaneously constrains these three variables. When thinking happens in the physical world, the properties of the world, including friction, are relevant resources for thought.
 
-### 5.5.4.          The Dynamics of Motion and Thought
+#### 5.5.4. The Dynamics of Motion and Thought
 
 In some activities, navigators allow their train of thought to be constrained by physical characteristics of the body and the motor system in particular. Movement is halted when in reflection, slow when searching, and fast when moving to an identified new search location. 
 
@@ -1173,17 +1170,15 @@ Thought can also be shaped by the constraints of gestural production. Pre- and p
 
 The activity of plotting position is thinking in embodied action. The activity has properties that emerge in the continuous**,** embodied, multimodal engagement of the plotter with the chart via the plotting tools. The plotter, plus hoey, plus chart is a system. Continuously enacting (generating/predicting/anticipating) meaningful experience in multiple sensory modalities.
 
-### 5.5.5.          Can an Obsolete Form of Navigation be Representative of Other Activity?
+#### 5.5.5. Can an Obsolete Form of Navigation be Representative of Other Activity?
 
 Navigation is a special domain of activity, and this sometimes gives rise to concerns about the generalization of the findings made here. Navigation is unusual, and the kind of navigation described here is obsolete. Fortunately, navigation does not involve cognitive processes that are alien to everyday life. Rather, what is special about this setting is how well it supports enacted reasoning. The generalization of results must be tied to the distributions of the modes of thinking in the cognitive ecosystem, not to the specific characteristics of the setting.
 
-6.           Aviation vignettes
-===============================
+## 6. Aviation vignettes
 
 While the ship navigation vignettes focus on relationships among modalities in a single person and illustrate principles of embodied cognition, the aviation vignettes move the focus to relationships among modalities that span two or more actors. These vignettes illustrate principles of embodied interaction. 
 
-6.1.           Fuel Leak[[x]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_edn10)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 6.1. Fuel Leak[^x]
 
 A leak in the fuel system of an airplane is a very serious problem. In the best case, the amount of fuel available to run the engines could be reduced, calling for a diversion to an alternate airport short of the planned destination. In the worst case, a leak could lead to the destruction of the airplane in flight. 
 
@@ -1195,7 +1190,7 @@ The event analyzed below highlights the fluid transition between seeing the fuel
 
 The physical layout of the fuel panel and its relations to previously encountered representations of the fuel system permit the crew to see the panel as an object in itself and as the fuel system it represents. This allows the gestures performed over the panel to be interpreted as actions taken on the panel, or as events in the fuel system, or both. The speech is used in part to manage relations that are not easily expressed in gesture and also to move from one interpretive mode to another. 
 
-### 6.1.1.          Detecting a Fuel Leak
+#### 6.1.1. Detecting a Fuel Leak
 
 The 727 has three engines and three fuel tanks. Normally, fuel is fed from each tank to its corresponding engine. About a minute before the segment analyzed below, SO noticed an unusually low reading on the fuel tank number three quantity gauge. Scanning the panel, he paused at the tank three gauge, momentarily continued the scan, and then snapped his head (and we presume eyes) back to the tank three gauge. 
 
@@ -1207,7 +1202,7 @@ The goal of turning off the boost pumps for tank three cannot be accomplished di
 
 SO configured the cross-feed valves to establish fuel flow from tank one to both engines one and three. He then turned off the boost pumps that drive fuel from tank three to engine three. Even with the pumps turned off, the rate of decline of fuel quantity in tank three was noticeably greater than from the other tanks. This meant that the leak was in the tank, which was bad, rather than in the fuel lines inside the fuselage, which could have been catastrophic. 
 
-### 6.1.2.          Reporting the Fuel Leak Diagnosis
+#### 6.1.2. Reporting the Fuel Leak Diagnosis
 
 After completing his diagnosis of the fuel leak situation, SO turned in his seat to face the front of the airplane while addressing the captain and FO. No gestures other than body orientation accompanied this announcement.
 
@@ -1532,7 +1527,7 @@ Moved hand away from the panel and into lap
 
 Finally, SO returned his hands to his lap, indicating that his turn was completed.
 
-### 6.1.3.          Summary
+#### 6.1.3. Summary
 
 The diagnosis of a fuel leak is a conceptual project with many parts. In some utterances, the talk and gesture modalities have congruent contents. In others, the contents are complementary, as when SO's talk refers to "the pumps" and the gesture indicates which pumps. Some utterances treat the fuel panel as a representation of the fuel system, while others treat the same panel as a thing-in-itself. 
 
@@ -1540,8 +1535,7 @@ The shifts from the interpretation of the fuel panel as a representation of the 
 
 In the analysis of this vignette, I suggested that the members of the crew might share an embodied experience of the operation of the fuel system. In the next vignettes, we will see strong evidence about the richness of the shared imagined workplace.
 
-6.2.           Approach to Stall Recovery[[xi]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_edn11)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 6.2. Approach to Stall Recovery[^xi]
 
 This section examines the interaction among a Boeing flight instructor and two Japanese pilots who are transitioning from other Boeing airplanes to a particular model of the B737. We are especially interested in cases where a gesture or other non-verbal element produced by one participant stands in a relation of mutual elaboration with a spoken element produced by another participant. We focus on this because such instances could not occur if the participants did not share a sense of the conceptual project being developed. These are moments in which parts of an otherwise invisible shared conceptual network become visible. The participants use a variety of semiotic resources to bring to the fore selected aspects (but rarely the whole) of a conceptual structure. 
 
@@ -1571,7 +1565,7 @@ Because coherent meaning structures are created by multiple utterances, we organ
 
 Excerpts from the transcript are provided with each case. In the transcripts, the two pilots are referred to as PF (Pilot Flying) and PM (Pilot Monitoring) to reflect contemporary usage. The instructor is designated by the letter I. Punctuation is used to represent intonation: A period indicates falling pitch, a question mark rising pitch, and a comma falling contour, as would be found, for example, after a non-terminal item in a list. A colon indicates lengthening of the current sound. Numbers within single parentheses mark silences in seconds and tenths of a second. Words within parentheses indicate uncertain transcription. Underlining denotes words that are spoken in synchrony with gestures.
 
-### 6.2.1.          Flaps 5 Speed
+#### 6.2.1. Flaps 5 Speed
 
 Conceptual object: Airplane dynamics; accelerate an airplane from stall speed to flaps 5 speed, constructed from the point of view of the crew.
 
@@ -1585,7 +1579,7 @@ In the MGC framework, the fact that the pilots share a conceptual model means th
 
 The cognitive ecosystem of the pre-simulator briefing suggests another cognitive function for PF's gesture. Considering that PF was representing a component of the procedure that he expects to execute in the simulator, it might also be a sort of pre-enactment that could facilitate memory for the procedure later. 
 
-### 6.2.2.          Back Pressure Only
+#### 6.2.2. Back Pressure Only
 
 Conceptual object: To decelerate an airplane in level flight, reduce power, and hold back-pressure on the yoke, constructed from the PF's character viewpoint. 
 
@@ -1599,7 +1593,7 @@ Every pilot knows that if you do not trim, in order to decelerate, you must pull
 
 The conceptual projects developed by the pilots and instructor are richer and more complex than any turn of talk or gesture can depict. Talk and gesture highlight components of the underlying project but never approach an exhaustive account. Sharing the underlying model, the pilots experience a flow of expectations shaped by their own trains of thought around the network of concepts in the model and the cues provided by the actions and words of the others.
 
-### 6.2.3.          It's Realistic the Boeing Way
+#### 6.2.3. It's Realistic the Boeing Way
 
 Conceptual object: A comparison of techniques, from two implied character viewpoints. Both assume a pilot seated in the flight deck. PM takes a viewpoint of looking down on the stabilizer trim indicator, while the instructor assumes a pilot flying from the right seat holding the right horn of the control yoke.![](blob:https://euangoddard.github.io/c630dfa6-fd38-4637-83fd-bfd2972ed9b6)
 
@@ -1617,7 +1611,7 @@ This gestural mismatch may have happened for one of two reasons. First, PM's pro
 
 Notice that when talking to the PM, who would occupy the right seat in the simulator, the instructor modeled the trim action using his right thumb. The yoke-mounted trim switch is on the outboard horn of each control yoke. Thus, for a pilot in the right-hand seat (co-pilot's seat), the trim switch will be under the right thumb. Later in the same discussion, the instructor modeled pushing the thrust levers up with his right hand. This gave his gesture an implicit body location in the left seat (PF's seat), and his subsequent gestural reference to trim was made with the left thumb. This coherence of the handedness of gesture with the seat occupied in the imagined flight deck indicates that the imagination of component actions, such as thrust changes and trim adjustments, involves the whole situation of the body in the flight deck, not just imagining the control that is to be manipulated. 
 
-### 6.2.4.          You Have to Push
+#### 6.2.4. You Have to Push
 
 Conceptual object: To recover from stall attitude, push the yoke forward to cause nose-down pitch attitude. This was constructed from the PF character viewpoint. 
 
@@ -1633,7 +1627,7 @@ Let's look first at the three push gestures produced by PM. While saying "It is 
 
 At the beginning of this case, while the instructor was producing an iconic gesture as a follow-up to his previous narrative, PM changed the subject. The instructor stopped his trimming gesture after PM said "difficult" and modeled pushing the yoke. At this point, the instructor seemed to recognize the topic shift. The unexpected topic change created a relation of incongruence between the trimming gesture and the concurrent speech. This incongruity was not without meaning, however. Because the alignment of conceptual projects is an indication of membership in a shared community of practice, the divergence of co-imagined worlds produces a sense of exclusion. This was the second time that the instructor had anticipated a projection of PM's utterances that was not consummated (the first happened in case 6.2.3). The conceptual projects of the instructor and PM seemed less well aligned than those of the instructor and PF. This sort of interaction pattern could lead the instructor to feel that PM is not fully cooperative, even though he might be hard pressed to articulate an explanation for that feeling. 
 
-### 6.2.5.          Underslung Engines
+#### 6.2.5. Underslung Engines
 
 Conceptual object: Airplane dynamics; airplanes with engines mounted under the wings tend to pitch up when thrust increases. The instructor's gestures were constructed from a character viewpoint, taking the speaker's body to be the airplane. PF's gestures were constructed from an observer viewpoint above and behind the wings, facing forward. 
 
@@ -1659,7 +1653,7 @@ In the context of the earlier discussion of the need to apply maximum thrust, th
 
 PF's utterance fragment "tend to, yeah" has a temporally concurrent and semantically complementary (metonymic: cause and effect) relation to the instructor's first full-body gesture. The instructor's second sweeping full-body gesture was produced concurrently with his own, now eagerly anticipated, verbal description of the pitch-up event, "sling this airplane up." 
 
-### 6.2.6 Discussion
+#### 6.2.6 Discussion
 
 When multiple authors speak and gesture together, the relationships of mutual elaboration proliferate. The extent to which participants become conscious of this wealth of meaning is currently unknown. We suspect, however, that the impression of complexity created by examining the relations among semiotic resources, one relation at a time, is somewhat misleading. From the participants' point of view, a single conceptual object emerges, and the many relations among the elements from which the object emerges fit naturally into the familiar structure of the conceptual object. 
 
@@ -1691,8 +1685,7 @@ The occurrence of collaboratively constructed multimodal utterances demonstrates
 
 The pilots' bodies are a key resource in the process of conceptualizing their world and the actions they take in it. Conceptualization is not only multimodal but may also be a collaborative project; the modalities that are in coordination may be located in more than one participant. The range of possible relations of mutual elaboration among semiotic resources is extremely rich in collaboratively constructed multimodal utterances produced by experts engaged in consequential activity in a culturally constructed setting.
 
-6.3.           The Flight Crew Cognitive System[[xii]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_edn12)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 6.3. The Flight Crew Cognitive System[^xii]
 
 As I noted in the background section, developments in the technologies of data collection and analysis change the phenomena we see, and that in turn provokes modifications to our theories. Over several years, the lab I shared with Jim Hollan at UCSD explored the creation of a digital ethnographer's workbench. To support the study of activity as an integrated system, our lab created a tool called ChronoViz. ChronoViz was the doctoral dissertation project of Adam Fouse, supervised by Jim Hollan and developed under a grant from NSF and a research contract with Boeing. For more details on ChronViz and its use in studying ongoing activity, see Fouse et al. (2011).
 
@@ -1760,15 +1753,13 @@ The eye gaze cross-recurrence plot is generated by a computer program. It does r
 
 The challenges of measuring, quantifying, and visualizing the performance of the flight crew *system*is at the heart of our program. The gaze cross-recurrence plot is an example of the measurement, quantification, and visualization of the properties of this system. This plot displays properties of the system of interaction rather than properties of either of the pilots in isolation. This is also a nice example of how advances in methodology raise new questions and challenges for the theory.
 
-7.          The Cultural Cognitive Ecosystem
-============================================
+## 7. The Cultural Cognitive Ecosystem
 
 In this paper, I developed a sketch of a theoretical cognitive system that is multimodal, generative, and is continuously coupled to an environment. This MGC framework incorporates lessons learned in my five-decade history of cognitive ethnographic research as well as ideas from a number of related fields on which I have drawn over the years. I used the draft MGC framework as a lens to scrutinize the fine-scale details of real-world activity. The framework was my license to reimagine the cognition taking place in those settings. I noted what could be seen through this lens and used what was seen to refine the MGC framework. 
 
 This entire enterprise was an experiment of sorts. It was an exploration of a familiar world seen from a novel perspective. I did not know in advance what would appear. Some things seen through the MGC lens appeared just as they were expected. Others were expected but seem to have better explanations under the MGC interpretation than they did previously. Still other phenomena appeared as surprises. I will not attempt an exhaustive recapitulation of the findings of the examination of activity. In the paragraphs below I describe a few selected phenomena that stand out in the MGC view.
 
-7.1.           A few findings that were enriched by the analysis 
------------------------------------------------------------------
+### 7.1. A few findings that were enriched by the analysis 
 
 Let's begin with some phenomena that were expected, but not previously fully understood (by me, anyway) or explained well by classical views of cognition. These are things that look different through the lens of MGC. They are neither high-level nor low-level cognitive processes in the traditional sense. I consider the distinctions among levels to be a vestige of an earlier way of thinking about the mind. In the MGC view, this scale of levels of cognition is collapsed. It runs orthogonally to the Shallow/Deep and Concrete/Abstract dimensions of the MGC. For example, perception, being what happens when sensation meets expectation, involves the activation of neural circuits that are shallow and deep, concrete and abstract. 
 
@@ -1796,8 +1787,7 @@ Sometimes the trajectors that are projected onto material structures are enacted
 
 Well-structured expectations can segment the flow of sensation. The problem of segmentation of the gesture stream was central in the discussion of navigators choosing landmarks to use for the next position fix. The choice criteria are constraints that generate predictions of gestural elements that may be depictions of lines of position. The sensory traces of meaningful landmark-like gestural strokes resonate deeply and are predicted. The sensory traces of motions without meaning (in the context of highlighting possible lines of position) dissipate. Prediction/expectation is a sort of filter that can isolate events in a continuous flow of experience and can distinguish relevant events from noise. There is some research on this topic, but more is needed (Benetti et al., 2023).
 
-7.2.           Some findings that came as surprises 
-----------------------------------------------------
+### 7.2. Some findings that came as surprises 
 
 Several of the plotting tools used on the navigation bridge have adjustable friction locks. These tools are used to record and hold temporary constraints. The degree of friction determines the robustness of the temporary memory, and since friction is adjustable, the navigator can control the duration of a memory through physical manipulation of the tool. Friction is thus a relevant resource for the control of thought. Managing friction requires fine motor control that is acquired through experience with the tools. The skills of the navigator go well beyond knowing the procedures of navigation. It is likely that wherever a friction lock is present, embodied knowledge is at work. This insight came as a complete surprise.
 
@@ -1813,8 +1803,7 @@ There is one more surprise to mention. This is not a finding about the nature o
 
 With respect to external representations, for some time I have argued that rather than asking "What is a representation?" we should be asking "When is a representation?" There is no list of necessary and sufficient features for the status of external representation. Some external pattern or process is only a representation when it is in a certain relationship to a person who is seeing that pattern or process as a representation of something that it is not. MGC gives me a better sense of the nature of the relationship between internal and external processes that make representation work. I now think of both internal and external representations as events rather than as entities with customary thing-i-ness. I could be wrong about representation, of course, but now that I have done the MGC analysis of many real-world activities, I'm surprised to find myself comfortable writing about representation. 
 
-7.3.           Communities of minds in cultural worlds
-------------------------------------------------------
+### 7.3. Communities of minds in cultural worlds
 
 Now, let's move our attention to a higher level of system integration, the cultural-cognitive ecosystem. It is a community of MGC systems engaged in culturally constituted activities and coupled to one another by virtue of the fact that, as they act in this world, they impose sensation on one another's sensory surfaces. This community is coupled, via action (including gesture and speech), to a material substrate that contains objects, artifacts, tools, machines, architecture, and inscriptions of all sorts: books, documents, and now digital devices.
 
@@ -1828,7 +1817,7 @@ Participation in cultural practices induces dynamic cognitive processes that coo
 
 In this perspective, there is just one basic process, the generative predictive processing network operating continuously and simultaneously in every modality. This process participates in all instances of what have traditionally been known as high-level cognitive capacities. As I said in (Hutchins, 1980), decision making, memory, problem solving, reasoning, etc., are not different underlying processes; they are descriptions of task demands.
 
-### 7.3.1. Dynamic Properties of the Cultural Cognitive Ecosystem
+#### 7.3.1. Dynamic Properties of the Cultural Cognitive Ecosystem
 
 The cultural cognitive ecosystem is a dynamical system in which certain configurations of elements (what we know as stable cultural practices) emerge (self-assemble) preferentially. In this perspective, constraints on the assembly of these configurations exist in many places and interact with one another through a variety of mechanisms of constraint satisfaction. Some of these constraints arise from the complex interactions of neural systems as they encode beliefs, knowledge, categories, concepts, and so on. Other constraints reside in material stuff; documents, tools, furniture, towns, architecture, etc. as well as ephemeral patterns as those in sounds in music, warnings, and spoken language. Still other elements are emergent in social processes of collective intelligence, the formation of a stadium wave, or residence patterns, or other patterns that emerge unintended from the individual decisions of many people.
 
@@ -1844,14 +1833,13 @@ The dynamics of practice formation and maintenance may include positive feedback
 
 Culture is learnable because the ecosystem of practices has structure. Possibilities for individual learning depend on the structure of the ecosystem, both because the local ecosystem determines the inventory of available things to be learned and because family resemblances among practices reduce the complexity of learning processes. Interlocking relations among practices may produce conditions of multiple determination or even over-determination of particular features. Learning in the ecosystem includes changes that are outside of individual persons, in the historical development of concepts and artifacts, for example. The richness of the ecosystem creates conditions of multiple determination that promote the reliable induction of internal elements in individuals. Generative systems, like other neural networks, learn more robustly when the outcomes or predictions are multiply determined.
 
-### 7.3.2    Evolution in the cultural cognitive ecosystem
+#### 7.3.2. Evolution in the cultural cognitive ecosystem
 
 As is the case in all evolutionary systems, the development of new practices is constrained by the existing networks in the ecosystem. There are large-scale examples of this in the history of virtually every tool. For example, the practice of plotting positions using visual bearings depends on a circular degree scale, a direction frame of reference, a suite of tools, and the Mercator projection chart. A small-scale example is the three-minute rule. The three-minute rule is based on a regularity that is so robust it is virtually impossible to NOT discover it. Once the convention of measuring small distances in yards arose (for reasons unrelated to this rule), whenever fixes are taken on three-minute intervals (also, originally, for reasons unrelated to this rule), the speed of the ship will equal the number of hundreds of yards travelled between fixes. An easily measured distance can be read as an otherwise difficult to compute speed. 
 
 A model of the evolution of cultural practices in a cultural cognitive ecosystem will be a much more complex model than the cultural evolution of traits or memes. Models of the evolution of traits or memes are computationally tractable. What would be entailed by taking cultural practices to be the central concept in a model of cultural evolution? We would have to consider the evolution of entire ecosystems rather than the evolution of individual cognitive species. 
 
-8.                    The other 90% of the human cognitive system
-=================================================================
+## 8. The other 90% of the human cognitive system
 
 In the first decade of the 21st century, medical researchers recognized that many non-human organisms colonize the human body. Most of these colonists are bacteria. After a century of trying to promote health by killing germs, it is now recognized that many bodily functions rely on symbiotic relationships among human and non-human cells. In fact, a census of cells in and on the human body shows that about one cell in 10 is human. The other 90%, the so-called "microbiome," are non-human cells. Some researchers claim that a study of human health that ignores the microbiome is fundamentally incomplete. They predict that in the coming decades, the study of the interactions between the human body and its microbiome, the "other 90% of the human physiological system," will transform medicine (Gilbert et al., 2018; Turnbaugh et al., 2007).
 
@@ -1863,8 +1851,7 @@ The analyses of the vignettes provide ample evidence that the MGC perspective pr
 
 Much work remains to be done. In a paper examining how neuroscientists learn to interpret maps of brain activity, Morana Alač and I noted that studying action as cognition in real world settings should be "the natural province of cognitive anthropology" (Alač & Hutchins, 2004, p. 659). I hope this paper provides cognitive anthropologists and cognitive scientists in general with a starting point for a new cognitive ethnography.
 
-Bibliography
-============
+## Bibliography
 
 Agha, A. (2007). *Language and Social Relations.* Cambridge: Cambridge University Press.
 
@@ -2130,28 +2117,52 @@ Wertsch, J. (1985). *Vygotsky and the Social Formation of Mind.* Cambridge, MA
 
 Wilson, S., Saygin, A., Sereno, M., & Iacoboni, M. (2004). Listening to speech activates motor areas involved in speech production. *Nature Neuroscience*, 701-702.
 
-* * * * *
+## Endnotes 
 
-[[i]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_ednref1) Funding for this project was provided by the Social Science Research Council. My wife and I lived in Tukwaukwa Village on the island of Boyowa from June of 1975 until October of 1976. 
+[^i]:
 
-[[ii]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_ednref2) My access to ships in the US Navy fleet was made possible by my position as a Personnel Research Psychologist at the Navy Personnel Research and Development Center in San Diego, California from 1980 through 1986. I worked in the Future Technologies Group under the direction of James Hollan.
+Funding for this project was provided by the Social Science Research Council. My wife and I lived in Tukwaukwa Village on the island of Boyowa from June of 1975 until October of 1976. 
 
-[[iii]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_ednref3) In 1988 Don Norman and I began a research project titled, "Distributed Cognition in Aviation." The project was funded by the Aerospace Human Factors Research Division of NASA under the Aviation Automation Safety program. I continued with NASA funding until 2001. Over the years I had research agreements including flight deck access on United Airlines, Delta Airlines, America West Airlines, US Airways, American Airlines, Aeroméxico, GOL (Brazil), All Nippon Airlines, Japan Airlines, KLM Royal Dutch Airlines, and Air New Zealand. I have had consulting agreements and research funding from both Boeing and Airbus. In corporate aviation I have had consulting arrangements with LOFT flight training in Carlsbad, California.
+[^ii]:
 
-[[iv]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_ednref4) This section draws on material developed for the article (Hutchins, 2010a).
+My access to ships in the US Navy fleet was made possible by my position as a Personnel Research Psychologist at the Navy Personnel Research and Development Center in San Diego, California from 1980 through 1986. I worked in the Future Technologies Group under the direction of James Hollan.
 
-[[v]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_ednref5) This is the same pseudonym I used for this ship in (Hutchins, 1995). 
+[^iii]:
 
-[[vi]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_ednref6) This is an original analysis done with the MGC framework in mind. It is more detailed and perhaps reveals more insights from the MGC framework than the other analyses in this paper.
+In 1988 Don Norman and I began a research project titled, "Distributed Cognition in Aviation." The project was funded by the Aerospace Human Factors Research Division of NASA under the Aviation Automation Safety program. I continued with NASA funding until 2001. Over the years I had research agreements including flight deck access on United Airlines, Delta Airlines, America West Airlines, US Airways, American Airlines, Aeroméxico, GOL (Brazil), All Nippon Airlines, Japan Airlines, KLM Royal Dutch Airlines, and Air New Zealand. I have had consulting agreements and research funding from both Boeing and Airbus. In corporate aviation I have had consulting arrangements with LOFT flight training in Carlsbad, California.
 
-[[vii]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_ednref7) The analysis in this section is based on an analysis that appears in the early pages of (Hutchins, 2010b). The Santa Fe Institute's program on Robustness in Social Systems provided funding for the work reported here. Erica Jen served as grant monitor.
+[^iv]:
 
-[[viii]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_ednref8) The analysis in this section is based on (Hutchins, 2010b). The Santa Fe Institute's program on Robustness in Social Systems provided funding for the work reported here. Erica Jen served as grant monitor. Alisa Durán transcribed the data and helped me focus the analysis on the problem of insight. Figure 5.3.2 was drawn from a video frame by Whitney Friedman. I am grateful to Andy Clark, Kensy Cooperrider, Deborah Forster, Charles Goodwin, Rafael Núñez, and John Stewart for valuable comments on an earlier version of this analysis.
+This section draws on material developed for the article (Hutchins, 2010a).
 
-[[ix]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_ednref9) The analysis in this section is based on an analysis that appeared in (Hutchins, 2006). This work was funded by a grant from the Santa Fe Institute's program on Robustness in Natural and Social Systems. Alisa Durán transcribed the data and suggested many elements of the analysis presented here.
+[^v]:
 
-[[x]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_ednref10) The analysis in this section is based on (Hutchins & Palen, 1997).
+This is the same pseudonym I used for this ship in (Hutchins, 1995). 
 
-[[xi]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_ednref11) Saeko Nomura-Baird collected the data reported in this section. She and I performed the analysis, which originally appeared in (Hutchins & Nomura, 2011). Access to the field site was arranged through, and data collection was supported by a contract with, the Boeing Flight Deck Concepts Center. Barbara Holder served as contract monitor. Whitney Friedman created the cartoon representations of the video frames. We are grateful to Charles Goodwin and Susan Goldin-Meadow for reading early drafts of the paper and providing expert advice. Any errors that remain are my own. Funding for the data analysis was provided by NSF award #0729013, "A multi-scale framework for analyzing activity dynamics," James Hollan, Edwin Hutchins, and Javier Movellan, principal investigators. Finally, we are especially grateful to the many pilots and instructors who have participated in our research.
+[^vi]:
 
-[[xii]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_ednref12) The analysis in this section is based on (Hutchins et al., 2013)**.**Access to the field site was arranged through, and data collection was supported by, a contract with the Boeing Flight Deck Concepts Center. Barbara Holder served as contract monitor. We thank Ram Dixit, Sara Kimmich, and Alex Fung for help with preparation of figures and copyediting. Support for this research was provided by National Science Foundation Award #0729013 and UCSD-Boeing Agreement 2011-012.
+This is an original analysis done with the MGC framework in mind. It is more detailed and perhaps reveals more insights from the MGC framework than the other analyses in this paper.
+
+[^vii]:
+
+The analysis in this section is based on an analysis that appears in the early pages of (Hutchins, 2010b). The Santa Fe Institute's program on Robustness in Social Systems provided funding for the work reported here. Erica Jen served as grant monitor.
+
+[^viii]:
+
+The analysis in this section is based on (Hutchins, 2010b). The Santa Fe Institute's program on Robustness in Social Systems provided funding for the work reported here. Erica Jen served as grant monitor. Alisa Durán transcribed the data and helped me focus the analysis on the problem of insight. Figure 5.3.2 was drawn from a video frame by Whitney Friedman. I am grateful to Andy Clark, Kensy Cooperrider, Deborah Forster, Charles Goodwin, Rafael Núñez, and John Stewart for valuable comments on an earlier version of this analysis.
+
+[^ix]:
+
+The analysis in this section is based on an analysis that appeared in (Hutchins, 2006). This work was funded by a grant from the Santa Fe Institute's program on Robustness in Natural and Social Systems. Alisa Durán transcribed the data and suggested many elements of the analysis presented here.
+
+[^x]:
+
+The analysis in this section is based on (Hutchins & Palen, 1997).
+
+[^xi]:
+
+Saeko Nomura-Baird collected the data reported in this section. She and I performed the analysis, which originally appeared in (Hutchins & Nomura, 2011). Access to the field site was arranged through, and data collection was supported by a contract with, the Boeing Flight Deck Concepts Center. Barbara Holder served as contract monitor. Whitney Friedman created the cartoon representations of the video frames. We are grateful to Charles Goodwin and Susan Goldin-Meadow for reading early drafts of the paper and providing expert advice. Any errors that remain are my own. Funding for the data analysis was provided by NSF award #0729013, "A multi-scale framework for analyzing activity dynamics," James Hollan, Edwin Hutchins, and Javier Movellan, principal investigators. Finally, we are especially grateful to the many pilots and instructors who have participated in our research.
+
+[^xii]: 
+
+The analysis in this section is based on (Hutchins et al., 2013)**.**Access to the field site was arranged through, and data collection was supported by, a contract with the Boeing Flight Deck Concepts Center. Barbara Holder served as contract monitor. We thank Ram Dixit, Sara Kimmich, and Alex Fung for help with preparation of figures and copyediting. Support for this research was provided by National Science Foundation Award #0729013 and UCSD-Boeing Agreement 2011-012.
