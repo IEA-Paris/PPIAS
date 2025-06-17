@@ -403,7 +403,7 @@ So, how is it possible for navigators to perform complex computations without do
 
 The MGC framework implies that cognitive processes should be visible in the fine details of the engagement of a whole person with a whole culturally organized world. In the following sections, I will attempt to perform such an analysis. 
 
-The first four activities analyzed in this section are drawn from observations of the navigation team on the bridge of a large US Navy ship as it enters the narrow channel at the mouth of its home port. The USS Palau[[v]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_edn5) is an amphibious assault carrier. It is about 200 meters long and looks like an aircraft carrier, having a flat flight deck and an "island" tower protruding five levels above the flight deck. 
+The first four activities analyzed in this section are drawn from observations of the navigation team on the bridge of a large US Navy ship as it enters the narrow channel at the mouth of its home port. The USS Palau[^v] is an amphibious assault carrier. It is about 200 meters long and looks like an aircraft carrier, having a flat flight deck and an "island" tower protruding five levels above the flight deck. 
 
 The navigation bridge is on the second level above the flight deck. There, the captain, the officer of the deck, the navigator (officer), the keeper of the deck log, helmsman, engine order telegraph operator, and bosun's mate stand watch during the entry to harbor. Also on the navigation bridge are two members of the navigation team, a plotter and a bearing recorder. 
 
