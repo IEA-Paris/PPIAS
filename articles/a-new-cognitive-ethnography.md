@@ -235,8 +235,7 @@ The rise of connectionism not only transformed theories of internal mental proce
 
 The field of collective intelligence focuses on the organizational principles that determine the cognitive properties of groups (Malone & Bernstein, 2015; Sunstein, 2007; Surowiecki, 2004). Barbasi(2002) describes powerful regularities that explain how patterns of connectivity can change the cognitive properties of a network. The subtitle of Barbasi's book is ''How everything is connected to everything else and what it means for science, business, and everyday life." While everything is connected to everything else, the patterns in the density of interconnectivity determine cognitive properties of the system, whether the system is an area of a brain or a group of governmental agencies responding to a crisis.
 
-4.   Framework
-==============
+## 4. Framework
 
 Guided by the findings of the related fields described in the previous section, I assume that every moment of human experience is multimodal, generative, and continuous (MGC). The theoretical instantiation of PP supports the generative aspect of this formulation. 
 
@@ -282,8 +281,7 @@ There is no way to know in detail how any particular prediction was created by e
 
 In this scheme, there is no separate downward and upward pass. The separation of passes is a feature of digital computational implementations. Instead, I imagine this theoretical system to operate through a single settling process in which constraints propagate continuously in all directions. The system simultaneously recognizes (downward) and generates (upward) the patterns of sensory activation. The entire network is in continuous resonance with the patterns of activity on the sensorimotor layers. The patterns of activation on the sensory surfaces are constrained simultaneously by the world, via the body, and by the dynamics of the entire deep network. I will have more to say about this continuous operation in the sections below.
 
-4.1.           Multimodal
--------------------------
+### 4.1. Multimodal
 
 The two perspectives on embodiment described in the related fields discussion produce two distinct kinds of multimodality. Each implies ways of speaking about modalities and the relationships among modalities as well as a typology of modalities. What counts as a mode in a multimodal system depends on whether one focuses on intra-individual function or on interactions among individuals. 
 
@@ -303,8 +301,7 @@ When two semiotic resources mutually elaborate each other, the elaboration happe
 
 Both the embodied cognition perspective and the embodied interaction perspective emphasize the fact that, while it is possible to separate modalities for the purposes of analysis, in fact, multiple modalities are almost always integrated in action. As we will see in the vignettes below, the relations among the contents of modalities, whether within or between persons, can be functionally important. Multiple modalities with congruent contents may mutually reinforce one another, providing stable representations. When the contents of the modalities are complementary rather than congruent, relations among modalities can be sources of variation in adaptive processes.
 
-4.2.           Generative
--------------------------
+### 4.2. Generative
 
 When it is read as a metaphor for processing in the brain, the generative system is coupled to a flow of sensory evidence, which it recognizes and predicts. There are many generative formalisms. I am not committed to anyone. All of the instantiations of predictive processing are composed of a deep hierarchy of layers of units with sensory and motor processes at the surface levels. Sensation projects downward through the layers of units while prediction projects upward toward the surface. Learning processes tune the connections among layers to bring the upward projecting predictions of each layer into agreement with the patterns of activation on the layer above. 
 
@@ -336,8 +333,7 @@ The three instantiations of predictive processing networks share an important p
 
 Somehow, such homogeneous collectives, in brains and generative AI systems, learn to model the heterogeneous constellation of objects and events "out there" in the world on the other side of their sensory surfaces. These systems **model a heterogeneous world**** through a h****eterogeneity of dynamics on a homogen****e****ous substrate**.
 
-4.3.           Continuous
--------------------------
+### 4.3. Continuous
 
 I first caught a clear glimpse of truly continuous organism-environment coupling in the writings of Maturana and Varela on autopoiesis and cognition (Maturana & Varela, 1987). This property also features prominently in the work of the intellectual descendants of Maturana and Varela, in the enaction approach, and in dynamical systems models of agent environment interactions. By **continuous**, I mean that the mind is always on. Sensory systems continuously conform to and track sensory evidence. The MGC system is always operating, shifting, and learning. It is always acting to shape, change, and control bodily sensation. Many of these processes are unconscious. Prediction and recognition are continuous and simultaneous. 
 
@@ -355,8 +351,7 @@ It is difficult to conceptualize the entire system of coupled internal and exter
 
 It is unfortunate that the word prediction has a temporal sequence built into its morphology, 'pre - diction'. The fact that this approach does not have a more appropriate name is an indication of the lack of fit between the phenomena and the current inventory of conceptual tools in the behavioral sciences. As analysts, we must take care to avoid mistaking features of our own clunky stepwise thinking for properties of the system we seek to understand.
 
-4.4.           Setting the stage for MGC and language
------------------------------------------------------
+### 4.4. Setting the stage for MGC and language
 
 In the discussion of the role of the PSSH in the socio-technical system of ship navigation, I argued that some sort of connectionist system was a better fit to individual cognitive processing than the PSS is. However, since humans are clearly avid symbol processors, this stance raises the question, where ARE the symbols that humans and genAI systems so avidly process? Symbols are clearly processed in the socio-technical system, but in what ways are symbols processed in individual cognitive function? 
 
@@ -382,13 +377,11 @@ Cultural models provide additional evidence for the existence of models of hidde
 
 There is a two-way relationship between this hypothetical MGC model and the observations of ongoing real-world activity described below. I pull from the model conceptual structures that help me understand observed activity. These elements of the model underwrite my interpretations and analyses of what is happening when people act in their everyday lives. The MGC framework helps me judge the plausibility of phenomena that appear in the data. I push back into the model those phenomena I encounter that meet two criteria. First, they are observed but are not yet part of the functioning of the model. Second, while they are not yet part of the model, they fit with the other terms of the model. I use the MGC model as a framework for the interpretation of activity on the one hand, and as a receptacle for phenomena that are newly observed on the other. One of my long-term goals is to push descriptions of some phenomena right through the enriched MGC model and onto the research agendas of those who investigate all three instantiations of PP networks, theoretical, biological, and artificial. 
 
-4.5.           The control of entropy
--------------------------------------
+### 4.5. The control of entropy
 
 Brains control the uncertainty of experience in one of two ways: by changing (tuning/learning) a model that produces predictions that match the flow of sensation or by acting to change the world (or the organism's relationship to the world) to bring the sensed world into alignment with that which is expected or predicted. Both changing the model and changing the world can improve the match between predictions and sensation. The brain is in the business of making experience more predictable. Learning from experience reduces the uncertainty of experience. This is true of all animal nervous systems (autopoiesis). The big advantage for humans over other animals is culture. Most of human experience is culturally organized, and culture makes the world to be experienced more predictable. One could say that the brain and culture are in the same business; the business of controlling the uncertainty of experience. Culture controls uncertainty through processes operating via different mechanisms and on different time scales from those in the brain. 
 
-4.6.           Imagine a world
-------------------------------
+### 4.6. Imagine a world
 
 This sketch of the MGC framework leaves many questions about human cognition unanswered. Applying it to observations of real-world activity raises additional questions. The knowledge or skills required to answer many of these questions are beyond my abilities. I'm hopeful that those who do have those skills will take up some of the questions raised here. 
 
@@ -396,8 +389,7 @@ This lens for viewing cognition does not replace or deny other descriptive frame
 
 Now, please join me in imagining communities of people, each understood to be an MGC system, inhabiting historically contingent cultural cognitive ecosystems. I will attempt to take the MGC framework into the wild to interpret the cognitive aspects of everyday activities.
 
-5.   Ship Navigation Vignettes
-==============================
+## 5. Ship Navigation Vignettes
 
 In the early 1980s, while I was working on ship navigation, I received an invitation to a conference on mathematical reasoning. The conference organizers assumed that my work with navigators would give me insight into the nature of mathematical reasoning. They asked me to answer the question: What sort of mathematical reasoning do navigators do? I declined the invitation because the answer to their question is: Essentially none. 
 
@@ -451,8 +443,7 @@ We will look at just three elements of the fix cycle: Plotting a single LOP, com
 
 On a cool spring afternoon in 1984, the USS Palau returned to its home port, San Diego Harbor, following several days of exercises in the waters off Southern California. Standing at the chart table on the navigation bridge, the plotter P and the bearing recorder BR were using visual bearings on familiar landmarks to plot the ship's position every three minutes. As the ship approached the harbor entrance, the navigation team plotted a position. P measured the speed of the ship and projected an estimated position where he expected the ship to be at the time of the next position fix. P and BR then chose three landmarks to use in plotting the ship's next position. 
 
-5.1.           Plotting a Line of Position[[vi]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_edn6)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 5.1. Plotting a Line of Position[^vi]
 
 Once commenced, the cycle of activity for plotting a fix is a true cycle with no beginning point. For this analysis, I take as the starting configuration P and BR standing side-by-side at the chart table. BR hears the report of the bearing to the first landmark and reads it back to the bearing taker on the wings. This read-back also makes the bearing available to P, who has the hoey in his hands on the surface of the chart in front of his body. 
 
@@ -460,7 +451,7 @@ Each vignette consists of three parts. 1) A description of observed activity. Th
 
 This vignette begins with a moment of distraction. The keeper of the deck log DL, asks P if the ship has passed a particular channel marker buoy. Just as DL finishes his *question, BR reports the first bearing, "057 Hotel del." P replies quickly to DL, "Wasn't* watching." Then P turns to BR and says, "Huh?" to prompt BR to repeat the bearing, which he does, saying, "Zero five seven." But without specifying the landmark. P says, "'kay" and proceeds to plot the LOP. 
 
-### 5.1.1.          Locating the bearing on the Hoey
+#### 5.1.1. Locating the bearing on the Hoey
 
 Here (in *italic* font) is a description of the fine detail of P's multimodal engagement with the plotting task. 
 
@@ -506,7 +497,7 @@ Simultaneously, though, the hoey has physical properties that are not direct exp
 
 Beyond the domain of navigation, the protractor scale is a domesticated space that is linked to thousands of others in our everyday experience. The culturally conventional clockwise direction of the wrapping of the number line suggests an obvious connection. With a different range of values interpreted as times rather than as angles, this same culturally conventional composite abstraction composes the analog clock face. This same abstraction also underwrites a wide range of gauges and dials. We will return later to the cognitive significance of the existence of entire families of tools and practices that share an underlying composite abstraction. 
 
-### 5.1.2.          Setting the hoey arm to the location of the bearing on the scale
+#### 5.1.2. Setting the hoey arm to the location of the bearing on the scale
 
 *P loosens the hoey lock with his left hand. His right hand moves toward the hoey base while the left hand rotates counterclockwise to further loosen the hoey lock. Here is smooth simultaneous motion with the two hands engaged in two different aspects of the task. *
 
@@ -524,7 +515,7 @@ The bearing 057 is not on a labeled tic mark. Interpolation allows a navigator t
 
 The continuous interaction of the MGC system with culturally organized material structure permits conceptual work to be done by perceptual and motor processes. In this case, the conceptual work of assessing the difference between the presently set value of the hoey arm on the protractor scale to the value of the bearing to the landmark can be accomplished by visual inspection of the hoey protractor and plotting arm. That difference is reduced by acting on the world, moving the hoey arm across the scale in the direction of the tic mark that denotes the desired bearing. This very simple example points to an absolutely crucial phenomenon in human cognition. Important conceptual distinctions are embodied in salient perceptual distinctions. One can observe, multi-modally, the gradual elimination of the difference between these two quantities. 
 
-### 5.1.3   Locking in the Bearing
+#### 5.1.3 Locking in the Bearing
 
 *Once the arm is positioned on the correct value, P uses his left hand to rotate the locking ring clockwise to tighten the screw and lock in the position of the arm. While tightening the lock, he holds the hoey arm with his right hand to prevent the rotation of the lock ring from moving the hoey arm off the selected bearing.*
 
@@ -540,7 +531,7 @@ The locking ring "locks-in" the value of the angle. Holding the value of a varia
 
 When used to plot an LOP, the hoey is a digital-to-analog converter, and when locked, the angle is saved for future use in analog form. The importance of converting the concepts to analog form is that the operations on the concepts can be analog rather than digital. Rule-based formal operations on digital representations are a historically recent innovation and are not among the natural strengths of humans, as discussed in the MGC framework section. I will return to this theme later in a discussion of the role of symbols in human cognition. 
 
-### 5.1.4   Aligning the Hoey with the Chart's Direction Frame
+#### 5.1.4 Aligning the Hoey with the Chart's Direction Frame
 
 *P's torso and head begin to move back from the table and up, widening his visual perspective. His left hand opens over the hoey lock and begins to push the hoey base north (away from the body). His left thumb remains resting on the edge of the hoey lock ring, and the fingers of his left hand extend over and rest on the left quadrant of the protractor scale. Simultaneously, P's right-hand fingers spread and anchor the hoey arm, preventing the arm from being pushed away from the body. This results in the rotation of the entire hoey-plus arm assembly around the pivot point formed by P's right-hand fingers. All of this is performed as a single rapid, fluid coordinated motion of both hands and head.*
 
@@ -572,7 +563,7 @@ This bears on the two aspects of the chart as a representation: The chart as a t
 
 Once the bearing is locked into the hoey, the plotting task can be undertaken entirely as mechanical procedures on the chart space. The chart will be a representation in some moments and a thing in itself in other moments. And perhaps it is both in some moments. While seeking a landmark that produces a LOP that crosses the track in about the right place, the chart is likely seen as a thing in itself. It is most clearly a representation of space around the ship in the process of choosing landmarks. 
 
-### 5.1.5   Evaluating the Relation of the Landmark to the Estimated Position as Implied by the Hoey
+#### 5.1.5 Evaluating the Relation of the Landmark to the Estimated Position as Implied by the Hoey
 
 *The heel of P's right hand contacts the chart surface at the end of the hoey arm, which is over the depiction of the Dive Tower landmark. P brings the pencil point down to the surface of the chart under close gaze. Body, torso, and left-hand motion have ceased. Impaling the landmark depiction with the pencil point requires fine motor control. Other motion is stopped. *
 
@@ -586,7 +577,7 @@ One of the red reference lines in the hoey base must be superimposed exactly on 
 
 While adjusting the alignment of the base with the chart, the hoey arm must be kept in contact with the pencil point. This is accomplished by keeping gentle counterclockwise rotational torque on the hoey base as it is moved around. Downward pressure on the hoey base must be relaxed in order to allow the hoey base to slide easily and smoothly over the surface of the chart. The skills of an expert navigator are not just a matter of knowledge; they include very finely tuned motor routines. 
 
-### 5.1.6   Detecting an Error
+#### 5.1.6. Detecting an Error
 
 *There is a moment of virtually no body motion while P looks at the hoey base. P's eyes are not visible, but I presume that they move from the reference lines in the hoey base to the edge of the hoey arm where it crosses the projected ship's track. This is where the LOP should be plotted. It happens to be very close to the edge of the hoey base, so no change in head orientation is needed to see it.*
 
@@ -614,7 +605,7 @@ It includes: 
 
 The thought is this entire continuous dynamic experience of the body and the world. There is intimate contact of the body and nervous system with a thoroughly culturally organized world, adapting, resonating, and entraining. Coupling prediction to sensation to perception, and modality to modality. Parts of this thought are in the world, and some of those parts are even visible to us as observers. 
 
-### 5.1.7    Correcting the Error
+#### 5.1.7. Correcting the Error
 
 *P's head begins to come up. His right hand lifts the pencil off the chart surface.*
 
@@ -650,7 +641,7 @@ Bringing his head closer to his right hand facilitates the scrutiny of the penci
 
 The depiction of the Hotel del Coronado complex has some detail, and the labeled tower must be located among other buildings. 
 
-### 5.1.8    Verifying the Landmark Identity
+#### 5.1.8. Verifying the Landmark Identity
 
 *P's head begins to turn to the right, initiating a glance at the bearing record log. His right arm begins to straighten and stiffen as his gaze arrives at the bearing record log. He keeps the pencil point in contact with the chart at the Hotel del Coronado landmark. *
 
@@ -660,7 +651,7 @@ Consulting the bearing record log allows the plotter to find the bearing 057 and
 
 The row and column format of the bearing record log is a cultural device that controls the relationship between two variables. This cultural invention first appeared about 4,000 years ago (Marchese, 2011). Its physical organization affords embodied interaction. The procedure could be described in three steps. Step 1: Scan down the time column to the desired time (again, that projected trajector). The current time is easy to find because it is the last one written in the time column. The cell below it is empty. The conceptual work of finding the most recent time is a simple embodied action. This action could treat the time column as a representation of the passage of time, or not. The remaining actions treat the table as a thing in itself, not as a representation. Step 2: Scan across the columns to find the bearing 057. Step 3: Scan up to the top of the column (backward in time, but time is not relevant to this action) to find the landmark name. 
 
-### 5.1.9    Drawing the LOP Segment on the Predicted Track
+#### 5.1.9 Drawing the LOP Segment on the Predicted Track
 
 *P turns his head to the left and his gaze returns to the hoey base. There is little other motion except subtle adjustment of his torso. He holds the hoey in place with the fingers of his left hand on the surface of the protractor and the heel of his hand firmly on the chart. P moves the hoey base slightly toward his body, aligning it with the chart. The hoey arm remains in contact with the pencil at the Hotel Del Coronado landmark. *
 
@@ -684,8 +675,7 @@ P stops all other motion in the body when he focuses on fine work with the penci
 
 A moment without motion marks the discovery of the error. When courses of action are trains of thought, interruptions in the train of thought may appear as interruptions in the course of action. If we take embodiment seriously, then the space of possible thoughts must be constrained by the physical characteristics of the body.
 
-5.2               Using the Three-Minute Rule to Compute Ship's Speed[[vii]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_edn7)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 5.2.  Using the Three-Minute Rule to Compute Ship's Speed[^vii]
 
 As we have seen, what have traditionally been called high-level cognitive processes can be produced by the engagement of a culturally orchestrated MGC system with cultural materials, that is, elements of language, sign systems, and inscriptions of all sorts.
 
