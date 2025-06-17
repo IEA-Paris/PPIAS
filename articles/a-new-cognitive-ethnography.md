@@ -39,8 +39,7 @@ highlight: false
 bibliography: /static/anystyle.bib
 language: English
 ---
-1.   Introduction
-=================
+## 1.   Introduction
 
 A paradigm shift is underway in the behavioral sciences. 
 
@@ -54,13 +53,11 @@ Generative AI has recently become the future of technology. Will Predictive Proc
 
 There is a potential conceptual trap in these developments. Much of cognitive science has subscribed to the view that "the mind is in the brain", or "the mind is what the brain does". These ideas are pervasive in today's discussions about genAI and its relationship to human intelligence. In the public imagination, genAI is a model of the brain, and the individual brain is the seat of human cognition and cognitive accomplishment. We are warned that some genAI systems will soon be more intelligent than any person, and that this presents a perhaps existential threat to human civilization. GenAI may well present an existential threat to humanity, but it is not because of its relationship to individual cognitive function. As is well known, and as I will show again in the pages below, what makes humans smart is not simply the properties of individual brains. Because neural nets are inspired by the organization of neurons in a brain, the temptation is strong to repeat the mistakes of the past and reduce intelligence to the function of a brain. However, this moment in time presents us with an opportunity to avoid the trap of the conceptual collapse of mind to brain. Perhaps it seems paradoxical that a better model of brain function can help us avoid attributing too much to the brain. I hope that by the end of this paper, you will agree that this is the case. 
 
-1.1.                             My Goal
-----------------------------------------
+### 1.1. My Goal
 
 I intend this paper as an attempt to seize this opportunity; to show how the predictive processing approach implies that the mind transcends the boundaries of the individual brain. I will describe a new framework that incorporates predictive processing to inform and transform our ways of looking at real-world activity. Because I'm a cognitive ethnographer trying to detect, highlight, illuminate, and perhaps explain the cognitive aspects of everyday human behavior, I need a slightly different framework from the usual predictive processing model of brain function. In addition to the generative aspects of PP, my observations of real-world activity make clear that people's engagement with the world is multimodal and continuous. I combine these features to create what I call the Multimodal, Generative, Continuous (MGC) approach. I propose to explore human activity seen through the lens of this generative model of perception, action, and thought. This MGC model is made possible in part by the rise of PP as a demonstration of a plausible model of the generative aspect of individual cognitive processing, but it goes beyond other approaches by insisting on multimodality and the continuity of coupling between an organism and its environment.
 
-1.2.           The Role of Theory and Researcher Imagination
-------------------------------------------------------------
+### 1.2. The Role of Theory and Researcher Imagination
 
 When we as researchers confront phenomena, we always do so using a network of assumptions. If we are paying attention, we may ask ourselves, "What do our assumptions permit us to imagine?" If our theoretical assumptions indicate that a phenomenon seems unlikely or not supported by theory, then we are unlikely to pursue it. If I believe I am seeing phenomenon x in real-world activity, but x is implausible in the theoretical framework that I assume to describe human cognitive function, a tension is created. I might ask myself, "Am I wrong about the phenomenon, or do my assumptions not serve my needs?" For decades, I have been struggling to find plausible theoretical descriptions for several phenomena that appear in my observations in the field. My excitement and enthusiasm for the MGC framework stems from the fact that many observable phenomena that formerly seemed implausible follow naturally from the MGC framework. 
 
@@ -70,20 +67,17 @@ These tensions are among the forces driving the paradigm shift in the behavioral
 
 In this paper, I want to sketch a new edifice of assumptions to guide our thinking about cognition in human activity. I will illustrate the utility of these assumptions by using them to analyze vignettes from everyday life. The analyses presented here are exploratory in the sense that I'm trying to see what is highlighted in human activity when we assume that people are, among other things, MGC systems. This has not been done before. We do not know in advance that such analyses will yield valuable results.
 
-1.3.           Researcher Attention
------------------------------------
+### 1.3. Researcher Attention
 
 Theoretical frameworks always shape what we see. PP systems learn the flow of experience in the sensory and motor systems, so that's where our attention is directed. Generative AI models develop internal processes that can produce, predict, and imagine the course of their experience, but when there are 10^12^ parameters in a computational network model, speculation about the details of internal processes is intractable and, for our purposes, unnecessary. At present, we can describe the general principles of how the PP system (and supposedly the brain) does its work, but the details of how any particular task is accomplished remain beyond our reach. The opaqueness of the depths of deep learning systems channels our attention toward the interaction of an organism with its environment. In earlier approaches, attention was focused on internal processes, and the stuff outside the brain was left blurry - literally out of focus. I now propose to invert that situation. The observable actions in, and interactions with, the cultural world are brought into sharp focus, and internal processes may be present in peripheral vision but remain out of focus. PP is useful for me partly because of this effect. Incorporating PP in my theoretical base directs attention from unknowable internal processes to the observable behavior of people in real world activity.
 
-1.4.           Constraints on the Stories We Tell
--------------------------------------------------
+### 1.4. Constraints on the Stories We Tell
 
 It can be liberating to feel no obligation to imagine in detail the internal machinery of thought. But if that is no longer our story, what stories shall we tell? And where does one find the constraints to which these stories must be responsible? I will try to show how constraints on models of cognitive function can be derived from observations of behavior contextualized by deep cognitive ethnography. 
 
 In some cases, examinations of ongoing activity in terms of MGC will lead to speculations that cannot be fully evaluated on the basis of observations in the field. In those cases, I hope to raise questions that can be investigated by other cognitive scientists using other methods.
 
-2.   Background: Inventing Cognitive Ethnography
-================================================
+## 2. Background: Inventing Cognitive Ethnography
 
 Let me provide some autobiographical background to my project. 
 
@@ -91,8 +85,7 @@ I am a cognitive scientist, but I was originally trained as an anthropologist. I
 
 Every proper study requires a theory, a method, and an object of scrutiny. As a naturalist of human activity, I put these pieces together as follows: The theory directs our attention. It says what to look for and how to look. The method captures events in the object of scrutiny and identifies them as instances of concepts in the theory. 
 
-2.1.           Reasoning in Trobriand Island Discourse[[i]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_edn1)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 2.1. Reasoning in Trobriand Island Discourse[^i]
 
 When I started out in the 1970s, it was widely believed that primitive technology implies primitive thought. The fact that illiterate third-world adults performed on IQ tests about like 10-year-old children in Europe or North America was a robust finding in cross-cultural psychology (Dasen, 1972). In the summer of 1973, I was one of three graduate student researchers under the direction of UCSD anthropology professor Theodore Schwartz, who went to Manus Island in Papua New Guinea to conduct such a study. We administered a battery of intelligence tests to adult non-literate farmers and fishermen in several villages. We replicated the expected finding. Many people concluded from studies like these that non-literate unschooled adults in the third world think like children. But something seemed wrong to me. In everyday interaction, these people did not seem in any way mentally impaired. Furthermore, when the children from these same villages went away to school, they scored about like their age contemporaries in the Western world. There was clearly nothing wrong with the brains of the people. What was going on? 
 
@@ -130,8 +123,7 @@ Of course, there is so much more to the performance of public litigation than th
 
 This illustrates how a theoretical framework, together with data collection apparatus, forms a filter and a spotlight that selectively highlight certain aspects of the phenomena while disregarding or completely failing to see others. 
 
-2.2.           Ship Navigation[[ii]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_edn2)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 2.2. Ship Navigation[^ii]
 
 In the early 1980s, I had a position with the US Navy as a personnel research psychologist (the Navy didn't seem to know how to hire an anthropologist). 
 
@@ -169,8 +161,7 @@ At that time, many pieces of that puzzle were still missing. As far as I knew, t
 
 From the modern perspective, I can look back and see what was lacking in the model I imagined 30 years ago. It did not exploit a generative computational framework, nor did it maintain continuous coupling to its environment. Those are elements that have only become available in computational systems of the last two decades. It is only now, in the mid-2020s, that I think I am able to sketch an answer to the question of what a model of individual cognitive function should look like. And that is one aim of this paper.
 
-2.3.           Airline Operations[[iii]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_edn3)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 2.3. Airline Operations[^iii]
 
 From the late 1980s until 2016, my research village was the worldwide community of airline pilots. The cockpit of an airliner is a distributed cognition system, much like the bridge of a ship - except it is moving a lot faster. The papers titled "Distributed cognition in airline cockpit" (Hutchins & Klausen, 1986) and "How a cockpit remembers its speeds" (Hutchins, 1995b) are examples of the application of the distributed cognition approach to this domain. 
 
@@ -192,13 +183,11 @@ Culturally elaborated real-world activity typically involves multiple operators 
 
 One of Jim Hollan's students, Adam Fouse, created an application called ChronoViz that provides solutions to many of the problems of measuring, analyzing, and visualizing the behavior of people in interaction, including airline flight crews (Hutchins et al., 2013). I will describe ChronoViz in more detail below in connection with the analysis of a few seconds of activity in a simulated Boeing 787 flight deck. At this point, let me just mention that ChronoViz supports the temporal alignment of multiple data streams. Timelines of key events can be generated and displayed within minutes of the conclusion of a simulator session. The entire data set can be navigated via any of the representations of any of the data streams. A great deal remains to be done, but we believe we have taken some important first steps toward using computational methods and good interface design to break through the analysis bottleneck created by the need to hand-code complex multimodal data sets.
 
-2.4.           Contributions of Cognitive Ethnography to Cognitive Science
---------------------------------------------------------------------------
+### 2.4. Contributions of Cognitive Ethnography to Cognitive Science
 
 In the new century, frameworks for understanding cognition changed too, with the rise of the fields I mentioned in the introduction that focus on the interaction of a person with their settings. Because no field or discipline has yet taken ownership of cultural-cognitive ecosystems, little is known about their function. Truly understanding how such systems work will require a large and sustained cognitive ethnographic endeavor.
 
-3.   Related Fields[[iv]](file:///Users/alexcano86/Desktop/Instituto%20de%20Estudios%20Avanzados%20de%20Paris/Revisio%CC%81n%20de%20Arti%CC%81culos/HutchinsEditJun13.html#_edn4)
-=================================================================================================================================================================================
+## 3.   Related Fields[^iv]
 
 Over the past three decades, cognitive science has been shifting from a concept of cognition as a logical process to one of cognition as a biological phenomenon. As more is learned about the biology of human cognition, the language of classical cognitive science, which described the cognition of socio-technical systems so well, appears increasingly irrelevant to internal cognitive processes. As Clark put it, 
 
