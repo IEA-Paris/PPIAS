@@ -487,11 +487,9 @@ Beyond the domain of navigation, the protractor scale is a domesticated space th
 
 *In the last few cm of motion as the right hand arrives at the edge of the protractor, P pushes the hoey arm away from his body (toward lower scale values), while pressing the base into the chart to inhibit its rotation, to align roughly with the scale value 057. There follows a fine adjustment of the position of the hoey arm on the scale value. P overshoots the target by perhaps a few degrees (scale tics are about 2 mm per degree apart), then pulls the hoey arm back to the correct position.* 
 
-![A person working on a table
+**Figure 5.1.2. Setting the hoey arm to the bearing on the scale. Frame from a video by the author**
 
-Description automatically generated](blob:https://euangoddard.github.io/785ad540-dabf-421a-8f0e-c627e2341842)
-
-*Figure 5.1.2. P setting the hoey arm to the bearing on the scale. Frame from a video by the author*
+![](/static/figure5.1.2.png)
 
 This is interpolation in action. 
 
