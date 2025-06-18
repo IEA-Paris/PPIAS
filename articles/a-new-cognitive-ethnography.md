@@ -351,7 +351,7 @@ Forty years ago, Rumelhart et al. (1986) noted that people are good at three t
 
 Humans inhabit a world of symbols. Clark (1998) described surrogate worlds, systems of symbols with which people interact. Rumelhart et al. (1986) addressed this situation in an account of doing place-value multiplication with paper and pencil.
 
-"Each cycle of this operation involves first creating a representation through manipulation of the environment, then a processing of the (actual physical) representation by means of our well-tuned perceptual apparatus leading to further modification of this representation. By doing this we reduce a very abstract conceptual problem to a series of operations that are very concrete and at which we can become very good. ... This is real symbol processing and, we are beginning to think, the primary symbol processing that we are able to do." (Rumelhart et al., 1986, pp. 45-46)
+> "Each cycle of this operation involves first creating a representation through manipulation of the environment, then a processing of the (actual physical) representation by means of our well-tuned perceptual apparatus leading to further modification of this representation. By doing this we reduce a very abstract conceptual problem to a series of operations that are very concrete and at which we can become very good. ... This is real symbol processing and, we are beginning to think, the primary symbol processing that we are able to do." (Rumelhart et al., 1986, pp. 45-46)
 
 As the MGC framework implies, with experience, people may learn to imagine the dynamics of these external symbolic worlds. Rumelhart et al. go on to say, "Not only can we manipulate the physical environment and then process it, we can also learn to internalize the representations we create, 'imagine' them, and then process these representations -- just as if they were external." At the time they were writing, Rumelhart and his colleagues did not have a computational account that could do the things they describe. They had no coherent mechanism to internalize, represent, and imagine external states of affairs. The generative component of MGC provides exactly the capabilities called for here. However, the meanings of the key terms 'internalize', 'represent', 'processing', and 'imagine' are all transformed by the shift to MGC. Under MGC, representation is without resemblance between the thing represented and the patterns of activation that represent that thing. Internalization is no longer conceived as a transport of a pattern across a boundary. It is, rather, a process of coordination and coupling between external and internal events. Processing is the dynamic interaction of patterns of activation in the generative system. Imagination is the generation of expectation. 
 
@@ -409,11 +409,9 @@ The navigation chart is a key tool in the position fixing activity. Weeks before
 
 Other tools appear in the activity: a pencil, the hoey, and dividers. 
 
-![A close-up of a protractor
+**Figure 5.1. Plotting tools: Hoey (left) and dividers (right)**
 
-Description automatically generated](blob:https://euangoddard.github.io/469e007f-c2e8-41f2-a2b8-91057337fd0d)
-
-*Figure 5.1. Plotting tools: Hoey (left) and dividers (right)*
+![](/static/figure5.1.png)
 
 The hoey is a plotting protractor. The hoey base is a semi-circle marked with degree scales. There are 360 degrees in a full circle. A plotting arm rotates around the center of the degree circle. The arm is attached to the base with a lock ring screw that can be tightened and loosened to adjust the amount of friction between the arm and the base. The rectangular grid of red lines on the transparent hoey base provides for alignment of the hoey base with the chart. Laying one of the vertical red lines on a charted line of longitude or laying one of the horizontal red lines on a charted line of latitude brings the hoey base into alignment with the directional frame (relative to true north) of the chart. The dividers (confusingly also known as a compass) are a two-legged tool with adjustable friction to hold the angle between the legs and thus the span between leg tips.
 
