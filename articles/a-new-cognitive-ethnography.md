@@ -109,7 +109,7 @@ Propositional logic and schema theory produce re-descriptions of observable beha
 
 While I did not know what sorts of internal processes produced the observed behavior, I did suspect that the processes, whatever they were, must be quite general. At the time, I called the processes the cultural code. After a discussion of the many kinds of work the code seemed to do, I said, 
 
-"Terms such as problem solving, planning, understanding, decision making, and explanation are often taken as descriptions of cognitive processes. In light of the uses of the cultural code observed in the previous chapter, I take them not to be descriptors of various distinct processes so much as descriptors of the conditions under which, or the task environments in response to which, the cultural code (as a process) is applied." (Hutchins, 1980, p. 110)
+> "Terms such as problem solving, planning, understanding, decision making, and explanation are often taken as descriptions of cognitive processes. In light of the uses of the cultural code observed in the previous chapter, I take them not to be descriptors of various distinct processes so much as descriptors of the conditions under which, or the task environments in response to which, the cultural code (as a process) is applied." (Hutchins, 1980, p. 110)
 
 This speculation, made in the late 1970s, appears prescient in the light of claims made in the past decade concerning the operation of the brains conceived as predictive processing systems. 
 
@@ -133,11 +133,9 @@ My theoretical framework was the symbolic computational model of mind. This theo
 
 Thus, armed with the dominant theoretical frameworks in cognitive science at the time and a good start on the ethnography of Western navigation, I set out to learn about the cognition of individual navigators on Navy ships. I began making field observations on the bridge of several ships. 
 
-![A group of men in a boat
+**Figure 2.2. The navigation team at the chart table on the bridge of the USS Palau. Photo by the author** 
 
-AI-generated content may be incorrect.](blob:https://euangoddard.github.io/0571e1ce-c9ef-4832-9282-c55218b496ef)
-
-*Figure 2.2. The navigation team at the chart table on the bridge of the USS Palau. Photo by the author* 
+![](/static/figure2.2.png)
 
 I experienced an epiphany one afternoon while standing on the bridge of a ship watching the navigation team work as the ship entered San Diego harbor. It suddenly became clear to me that the outcomes that matter to the ship, such as whether it went aground or not, were determined by the team rather than by any individual navigator. Writing up my field notes later that night, I speculated that the navigation system, comprised of four quartermasters plus their tools, might have cognitive properties of its own. 
 
