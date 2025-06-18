@@ -161,11 +161,9 @@ From the modern perspective, I can look back and see what was lacking in the mod
 
 From the late 1980s until 2016, my research village was the worldwide community of airline pilots. The cockpit of an airliner is a distributed cognition system, much like the bridge of a ship - except it is moving a lot faster. The papers titled "Distributed cognition in airline cockpit" (Hutchins & Klausen, 1986) and "How a cockpit remembers its speeds" (Hutchins, 1995b) are examples of the application of the distributed cognition approach to this domain. 
 
-![A pilot in the cockpit of an airplane
+**Figure 2.3. Briefing the approach to Christchurch, New Zealand in a Boeing 737. Photo by the author**
 
-AI-generated content may be incorrect.](blob:https://euangoddard.github.io/c47604b6-0447-4392-a3b0-09ca2a72f163)
-
-*Figure 2.3. Briefing the approach to Christchurch, New Zealand in a Boeing 737. Photo by the author*
+![](/static/figure2.3.jpg)
 
 Through arrangements with NASA, Boeing, Airbus, and many airlines around the world, I made observations in the flight decks of airliners on hundreds of revenue flights. My research team and I interviewed pilots and took still photos of them at work in the cockpit. We made video recordings of activities in flight simulators. We investigated and contributed to the design of flight deck instrumentation, operating procedures, and training programs. Employing (and enjoying) the participant observation aspect of traditional ethnography, I earned a commercial pilot license with qualifications in the first commercially successful airliner, the Douglas DC-3, and in two modern business jets. I also completed the training in the Boeing 747-400 (at Boeing in 1991) and the Airbus A320 (at America West Airlines in 1995). 
 
