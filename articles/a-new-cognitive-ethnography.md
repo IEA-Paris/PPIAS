@@ -93,11 +93,9 @@ With an intelligence test of the sort our team used in Manus, the theory conce
 
 Funded by the Social Science Research Council, I went back to Papua New Guinea in 1975. Following in the footsteps of the great ethnographer, Bronislaw Malinowski, I went to the Trobriand Islands to do my PhD dissertation research. The Trobriand Islands was an apt choice because some authors, working from Malinowski's transcriptions of magic spells, had concluded that the Trobriand Islanders did not think logically (Lee, 1949). Once installed in a village, I searched for a naturally occurring activity that would allow me to assess reasoning abilities. I settled on land litigation. Because land litigation is conducted in public, I could record performances in the task. Land litigation is clearly cognitive because litigants must construct a narrative history of a piece of land that results with them holding rights, while simultaneously heading off anticipated counter arguments of their opponents. And because, on a small coral island, nothing is more important that rights in land, the motivation to take the task seriously is built into the activity. 
 
-![A group of people sitting outside a house
+**Figure 2.1. The author recording land litigation in a Trobriand Island village in 1976. Photo by Dona Hutchins**
 
-Description automatically generated](blob:https://euangoddard.github.io/9056cdc2-c9d4-413c-9df2-c9316f45218b)
-
-*Figure 2.1. The author recording land litigation in a Trobriand Island village in 1976. Photo by Dona Hutchins*
+![](/static/figure2.1.png)
 
 My theory was a combination of propositional logic and schema theory, as it was then developed in cognitive science (Rumelhart, 1975). Schema theory posits underlying conceptual structures that bring organization to knowledge and belief. A schema for buying, for example, includes roles for a buyer, a seller, an item to be bought, and a price paid. The schema describes relations among these roles. The buyer pays the price to seller in exchange for the item. The schema also specifies logical relations. The payment of a price is a necessary condition for the transfer of an item. This can be expressed as a premise: The transfer of the item implies that a price was paid. Binding actual events and things in the world to the roles in the schema produces propositions that may be assigned a truth value. "John paid Jane $2" is a proposition, which might be true or false. If the proposition "John paid something to Jane" can be shown to be false, it can be inferred that no item was bought by John from Jane. T implies P. P is observed to be false. Therefore, T is false. This is an example of *modus tollens* inference. 
 
@@ -139,13 +137,13 @@ Thus, armed with the dominant theoretical frameworks in cognitive science at the
 
 AI-generated content may be incorrect.](blob:https://euangoddard.github.io/0571e1ce-c9ef-4832-9282-c55218b496ef)
 
-*Figure 2.2. The navigation team at the chart table on the bridge of the USS Palau. Photo by the author *
+*Figure 2.2. The navigation team at the chart table on the bridge of the USS Palau. Photo by the author* 
 
 I experienced an epiphany one afternoon while standing on the bridge of a ship watching the navigation team work as the ship entered San Diego harbor. It suddenly became clear to me that the outcomes that matter to the ship, such as whether it went aground or not, were determined by the team rather than by any individual navigator. Writing up my field notes later that night, I speculated that the navigation system, comprised of four quartermasters plus their tools, might have cognitive properties of its own. 
 
 It came as a surprise to discover that the PSSH provided an excellent metaphorical account of what was happening among the members of the team. They were creating both symbolic and non-symbolic representations of the situation of the ship and propagating and transforming those representations. There was a flow of information through the system. There were long-term memory stores in the form of charts and short-term memory stores in the form of logbooks and pencil marks on the charts. There were analog-to-digital transformations implemented in the telescopes used for observing bearings of landmarks and digital-to-analog transformations implemented in the plotting tools. 
 
-By the time I wrote *Cognition in the Wild, *eight years after my epiphany on the bridge, I understood that the fact that the activities on the navigation team fit perfectly with the Physical Symbol System Hypothesis was no accident. Contrary to the belief in cognitive science at the time that the computer was made in the image of the human (Simon & Kaplan, 1989), it was clear that the computer, which implemented a PSS, was made in the image of a socio-technical system like the navigation team. I made this argument in the last chapter of *Cognition in the Wild* (Hutchins, 1995a).
+By the time I wrote *Cognition in the Wild,* eight years after my epiphany on the bridge, I understood that the fact that the activities on the navigation team fit perfectly with the Physical Symbol System Hypothesis was no accident. Contrary to the belief in cognitive science at the time that the computer was made in the image of the human (Simon & Kaplan, 1989), it was clear that the computer, which implemented a PSS, was made in the image of a socio-technical system like the navigation team. I made this argument in the last chapter of *Cognition in the Wild* (Hutchins, 1995a).
 
 The sort of symbolic cognition implemented by the navigation team and its tools captures something important about humans. It is the secret of our success as a species. We represent the world in external symbolic expressions such as equations. We transform the symbols using rules that respond only to the form of the symbols, not to their meaning. And then we re-interpret the new symbolic expressions as descriptors of states of the world. This process of symbolic representation and manipulation is the foundation of logic and mathematics, science, and engineering. It allows us to predict the future and describe that which cannot be directly observed. It gives us access to and control over the absent and the abstract. 
 
@@ -331,7 +329,7 @@ The larger generative system that subsumes mirror neurons will enter the discuss
 
 The three instantiations of predictive processing networks share an important property. Each is composed of a large number of similar units. The internal world of a generative AI system, the artificial instantiation, is composed of a large number of computational units of just a few types. The internal world of a brain, the biological instantiation, is composed of very large numbers of neurons. There aremore types of neurons in a brain than there are types of units in an AI system, but even a brain is a relatively homogeneous system. The theoretical instantiation of PP systems relies on thehomogeneity of the component parts to make possible the formal mathematical models of its operation.
 
-Somehow, such homogeneous collectives, in brains and generative AI systems, learn to model the heterogeneous constellation of objects and events "out there" in the world on the other side of their sensory surfaces. These systems **model a heterogeneous world**** through a h****eterogeneity of dynamics on a homogen****e****ous substrate**.
+Somehow, such homogeneous collectives, in brains and generative AI systems, learn to model the heterogeneous constellation of objects and events "out there" in the world on the other side of their sensory surfaces. These systems **model a heterogeneous world\*\*** through a h***\*eterogeneity of dynamics on a homogen\****e***\*ous substrate**.
 
 ### 4.3. Continuous
 
@@ -455,9 +453,9 @@ This vignette begins with a moment of distraction. The keeper of the deck log D
 
 Here (in *italic* font) is a description of the fine detail of P's multimodal engagement with the plotting task. 
 
-*BR reports the bearing to the landmark called Hotel Del (Coronado) as zero five seven degrees. *
+*BR reports the bearing to the landmark called Hotel Del (Coronado) as zero five seven degrees.* 
 
-*P leans over the chart and hoey. The hoey base is not aligned with the chart but rotated about 30 degrees counterclockwise. This orientation of the hoey puts the scale value 057 above the plotting arm between the plotter's hands and in clear view. *
+*P leans over the chart and hoey. The hoey base is not aligned with the chart but rotated about 30 degrees counterclockwise. This orientation of the hoey puts the scale value 057 above the plotting arm between the plotter's hands and in clear view.* 
 
 *P's left hand rests on the hoey base, pinching the hoey lock ring between the side of his index finger and the pad of his thumb. The other fingers on P's left hand are folded under his hand, and he holds a pen between his thumb and the edge of his palm. The heel of his left hand rests on the surface of the chart. The fingertips of his right hand rest on the hoey arm.*
 
@@ -499,9 +497,9 @@ Beyond the domain of navigation, the protractor scale is a domesticated space th
 
 #### 5.1.2. Setting the hoey arm to the location of the bearing on the scale
 
-*P loosens the hoey lock with his left hand. His right hand moves toward the hoey base while the left hand rotates counterclockwise to further loosen the hoey lock. Here is smooth simultaneous motion with the two hands engaged in two different aspects of the task. *
+*P loosens the hoey lock with his left hand. His right hand moves toward the hoey base while the left hand rotates counterclockwise to further loosen the hoey lock. Here is smooth simultaneous motion with the two hands engaged in two different aspects of the task.* 
 
-*In the last few cm of motion as the right hand arrives at the edge of the protractor, P pushes the hoey arm away from his body (toward lower scale values), while pressing the base into the chart to inhibit its rotation, to align roughly with the scale value 057. There follows a fine adjustment of the position of the hoey arm on the scale value. P overshoots the target by perhaps a few degrees (scale tics are about 2 mm per degree apart), then pulls the hoey arm back to the correct position. *
+*In the last few cm of motion as the right hand arrives at the edge of the protractor, P pushes the hoey arm away from his body (toward lower scale values), while pressing the base into the chart to inhibit its rotation, to align roughly with the scale value 057. There follows a fine adjustment of the position of the hoey arm on the scale value. P overshoots the target by perhaps a few degrees (scale tics are about 2 mm per degree apart), then pulls the hoey arm back to the correct position.* 
 
 ![A person working on a table
 
@@ -543,7 +541,7 @@ Description automatically generated](blob:https://euangoddard.github.io/8fddb7e0
 
 This is the transition from setting the bearing angle on the hoey to aligning the hoey protractor with the chart direction frame. This rotation produces approximate alignment of the hoey base with the directional frame of the chart. In this and the following panels, we can see the partial decomposition of the task of getting the hoey aligned simultaneously with the direction frame of the chart and the depiction of the landmark. 
 
-*As the hoey base reaches approximate alignment with the chart, P's right hand begins to move out along the hoey arm away from the hoey base. Three actions are happening simultaneously here. 1) Moving the hoey base northward toward the ship's track and the previously marked expected position. 2) Moving the right hand and the hoey arm toward the chart depiction of the landmark. 3) Changing the grip on the pencil from a standby (over thumb, under index, over middle finger) to a conventional writing grip. *
+*As the hoey base reaches approximate alignment with the chart, P's right hand begins to move out along the hoey arm away from the hoey base. Three actions are happening simultaneously here. 1) Moving the hoey base northward toward the ship's track and the previously marked expected position. 2) Moving the right hand and the hoey arm toward the chart depiction of the landmark. 3) Changing the grip on the pencil from a standby (over thumb, under index, over middle finger) to a conventional writing grip.* 
 
 The chart, like the hoey scale, is another domesticated space. With a north-up chart, north is away from the body, south is toward the body, west is to the left, and east is to the right. Meaning in space is experienced by proprioception as well as vision. North-up is another cultural convention (Just ask an Australian), as is the conventional grip for holding a pencil when writing. 
 
@@ -565,13 +563,13 @@ Once the bearing is locked into the hoey, the plotting task can be undertaken en
 
 #### 5.1.5 Evaluating the Relation of the Landmark to the Estimated Position as Implied by the Hoey
 
-*The heel of P's right hand contacts the chart surface at the end of the hoey arm, which is over the depiction of the Dive Tower landmark. P brings the pencil point down to the surface of the chart under close gaze. Body, torso, and left-hand motion have ceased. Impaling the landmark depiction with the pencil point requires fine motor control. Other motion is stopped. *
+*The heel of P's right hand contacts the chart surface at the end of the hoey arm, which is over the depiction of the Dive Tower landmark. P brings the pencil point down to the surface of the chart under close gaze. Body, torso, and left-hand motion have ceased. Impaling the landmark depiction with the pencil point requires fine motor control. Other motion is stopped.* 
 
 The heel of the hand provides a steady platform for fine aiming of the pencil point by finger movements. Stopping motion provides a stable frame of reference for visual, motor, and proprioceptive experience. Visual, motor, and proprioceptive expectations can settle into stable states. This cessation of motion **is** concentration. 
 
 *P stabs the chart with the pencil point, then lifts the point and moves it north, then comes back near the original point and contacts the chart again, all the while keeping the heel of his hand anchored on the chart. Minor movements of the head and torso shadow these movements of the hand.*
 
-*P's shifts his gaze back to the hoey base in anticipation of the precision motion of the base into alignment with the chart. P then makes small adjustments to the hoey's alignment with the chart directional frame. *
+*P's shifts his gaze back to the hoey base in anticipation of the precision motion of the base into alignment with the chart. P then makes small adjustments to the hoey's alignment with the chart directional frame.* 
 
 One of the red reference lines in the hoey base must be superimposed exactly on a line of latitude or longitude on the chart while the edge of the hoey arm passes over the depiction of the landmark. There is a choice to be made from a large number of alternatives. There are 13 vertical red lines and 8 horizontal red lines on the hoey base. One of the vertical lines on the hoey base must be superimposed to align with a line of longitude on the chart, **or** one of the horizontal lines must align with a line of latitude. In either case, the alignment must be accomplished in such a way that an unobstructed section of the plotting arm passes over the projected ship's track in the vicinity of the estimated position. How is this choice made? P must get the base into approximate alignment with the chart. He must move the base toward and away from the LM while maintaining contact of the plotting arm with the LM. As this is done, one of the lines will come into alignment with a line of longitude or latitude. This search for alignment is visible on the video. It is subtle because the squares on the hoey base are 13mm on a side. The maximum distance required to align one of the lines is sqrt(2.0)*6.5 = 9.192 mm. Less than a centimeter of displacement is needed to get an alignment. The MGC theory applied to the details of the task requirements and the physical properties of the tools predicts this subtle movement. Once one knows to look for it, it is visible in the video. Without this prediction, the tiny motions would probably be disregarded as noise, and the insights would elude the analyst. 
 
@@ -589,19 +587,19 @@ The hoey arm crosses the track line south of several previously plotted position
 
 This type of error could be the result of plotting the wrong bearing or projecting the correct bearing from the wrong landmark. The plotter does not seem to explore the possibility that the bearing is wrong. We cannot know for sure why this is. The correct landmark for the 057 bearing is Hotel Del Coronado. This is how it was originally reported by the BTR. Recall, however, that when the bearing was reported with the landmark name, P was distracted by a question from the keeper of the deck log. When he asked for the bearing again, BR told him the bearing, but did not repeat the name of the landmark. Possibly because of the distraction caused by the question from the keeper of the deck log, the plotter first tried to fit the LOP to a landmark called Dive Tower. The LOP from this landmark did not work. Patterns of information flow among the watch-standers on the ship's bridge affect both the cognitive processes of individuals (in this case, vulnerability to error) as well as the cognitive properties of the bridge team as a cognitive system. 
 
-*A moment without motion marks the discovery of the error. *
+*A moment without motion marks the discovery of the error.* 
 
 The words we use to describe the event, "discovering the error," are not the thought. The thought that the LOP must be plotted with respect to a different landmark north of Dive Tower is not a mental proposition. The thought that there is something wrong with the LOP is the entire dynamic multimodal experience. 
 
 It includes: 
 
--       The visual process is a continuous engagement with the chart and the hands, and the hoey. 
+\-       The visual process is a continuous engagement with the chart and the hands, and the hoey. 
 
--       The tactile experience of the roughness of the knurled knob, the smoothness of the chart and the hoey surface. 
+\-       The tactile experience of the roughness of the knurled knob, the smoothness of the chart and the hoey surface. 
 
--       The proprioceptive sense of the location of the hands in body-space, in chart-space, and perhaps in ship-space. 
+\-       The proprioceptive sense of the location of the hands in body-space, in chart-space, and perhaps in ship-space. 
 
--       The sense prediction that pushing the hoey away (north) will bring the hoey arm to the EP. 
+\-       The sense prediction that pushing the hoey away (north) will bring the hoey arm to the EP. 
 
 The thought is this entire continuous dynamic experience of the body and the world. There is intimate contact of the body and nervous system with a thoroughly culturally organized world, adapting, resonating, and entraining. Coupling prediction to sensation to perception, and modality to modality. Parts of this thought are in the world, and some of those parts are even visible to us as observers. 
 
@@ -609,11 +607,11 @@ The thought is this entire continuous dynamic experience of the body and the wor
 
 *P's head begins to come up. His right hand lifts the pencil off the chart surface.*
 
-*This is the beginning of the abandonment of the previous (mistaken) solution. It does not appear that the plotter's gaze goes up-track toward the EP for the current fix. Rather, it goes toward the plotter's right hand, which is already in motion up the chart away from his body (northward). Searching for a workable landmark. *
+*This is the beginning of the abandonment of the previous (mistaken) solution. It does not appear that the plotter's gaze goes up-track toward the EP for the current fix. Rather, it goes toward the plotter's right hand, which is already in motion up the chart away from his body (northward). Searching for a workable landmark.* 
 
 It is not possible to know if the plotter noticed the approximate distance on the chart from the incorrect LOP location (implied by Dive Tower) to the previously plotted EP. It seems likely that he did, because he certainly evaluated the incorrect LOP location and noticed its directional relation to the previously plotted expected position. If he did notice that distance, he could be looking for a landmark that is north of Dive Tower by about the same distance. He does seem to move quickly to Hotel Del, which satisfies that constraint.
 
-*P's head** snaps toward his right hand, and his left hand begins to push the hoey (base and arm with almost no rotation) north, away from his body. *
+*P's head\*\* snaps toward his right hand, and his left hand begins to push the hoey (base and arm with almost no rotation) north, away from his body.* 
 
 ![A person holding a remote
 
@@ -637,13 +635,13 @@ In any case, elements of this thought are visible and measurable actions in the 
 
 Bringing his head closer to his right hand facilitates the scrutiny of the pencil point and the landmark depiction. The pencil is held upright - bodily state anticipates the next action (bringing the pencil point to the chart surface), which will be the next concept (location of the landmark depiction).
 
-*For a beat, P holds still, presumably studying the chart. *
+*For a beat, P holds still, presumably studying the chart.* 
 
 The depiction of the Hotel del Coronado complex has some detail, and the labeled tower must be located among other buildings. 
 
 #### 5.1.8. Verifying the Landmark Identity
 
-*P's head begins to turn to the right, initiating a glance at the bearing record log. His right arm begins to straighten and stiffen as his gaze arrives at the bearing record log. He keeps the pencil point in contact with the chart at the Hotel del Coronado landmark. *
+*P's head begins to turn to the right, initiating a glance at the bearing record log. His right arm begins to straighten and stiffen as his gaze arrives at the bearing record log. He keeps the pencil point in contact with the chart at the Hotel del Coronado landmark.* 
 
 Before locating the Hotel Del tower with precision, the plotter checks the identity of the landmark. It is clear that he did not suspect that the bearing was incorrect. His first corrective action was to move the hoey to a different landmark, and the second was to check the identity of the landmark in the bearing record log. There is no indication that he looks toward the Estimated Position to see if this LOP will make sense with respect to the EP. Straightening the right arm as he twists his torso rightward, following the motion of his head, allows P to keep his right hand in place near the Hotel Del landmark depiction. At the system level, the current position of the hoey on the chart is a memory for the current state of the attempt to solve the problem. Some rearrangement of the body is required to maintain that state while twisting to read the relevant entry in the bearing record log. This embodied memory for the current state of the problem solution across an interruption. 
 
@@ -653,9 +651,9 @@ The row and column format of the bearing record log is a cultural device that co
 
 #### 5.1.9 Drawing the LOP Segment on the Predicted Track
 
-*P turns his head to the left and his gaze returns to the hoey base. There is little other motion except subtle adjustment of his torso. He holds the hoey in place with the fingers of his left hand on the surface of the protractor and the heel of his hand firmly on the chart. P moves the hoey base slightly toward his body, aligning it with the chart. The hoey arm remains in contact with the pencil at the Hotel Del Coronado landmark. *
+*P turns his head to the left and his gaze returns to the hoey base. There is little other motion except subtle adjustment of his torso. He holds the hoey in place with the fingers of his left hand on the surface of the protractor and the heel of his hand firmly on the chart. P moves the hoey base slightly toward his body, aligning it with the chart. The hoey arm remains in contact with the pencil at the Hotel Del Coronado landmark.* 
 
-*P slightly relaxes and contracts his left hand on the surface of the hoey. Then he is almost motionless for two seconds. He wiggles the pencil on the landmark and makes very subtle motions of the hoey base aligning with the chart. P moves his right hand to the intersection of the hoey arm with the previously plotted anticipated ship's track. His head rises slightly, but his gaze never leaves the target area for drawing the LOP. P brings the pencil into contact with the chart to the left of the ship's track. P draws the LOP as a short, sharp stroke across the ship's projected track. *
+*P slightly relaxes and contracts his left hand on the surface of the hoey. Then he is almost motionless for two seconds. He wiggles the pencil on the landmark and makes very subtle motions of the hoey base aligning with the chart. P moves his right hand to the intersection of the hoey arm with the previously plotted anticipated ship's track. His head rises slightly, but his gaze never leaves the target area for drawing the LOP. P brings the pencil into contact with the chart to the left of the ship's track. P draws the LOP as a short, sharp stroke across the ship's projected track.* 
 
 ![A person in a white shirt
 
@@ -707,7 +705,7 @@ Description automatically generated](blob:https://euangoddard.github.io/f106669b
 
 Once the divider is placed on the distance scale, the navigator uses the point of the divider arm to direct his attention to the region of the scale under the point. Through this perceptual practice, the divider point is used to highlight (Goodwin, 1994) a position on a distance scale. If the highlighted position is not precisely on a labeled point on the scale, the navigator will have to establish the value through interpolation (as described in the discussion of reading the degree scale on the perimeter of the hoey in the previous section). The complex cultural skills of scale reading and interpolation produce a number that expresses the value of the location indicated on the distance scale. The scale is perceived in a particular way by embedding that perception in action. In this case, by generating a predicted visual sensation that plays the role of distance in the underlying conceptual network of the predictive processing system. What is then seen on the scale is a complex mix of perception, action, and imagination. The cultural practice of speaking or subvocalizing the number expresses the value of the location indicated on the distance scale and, in coordination with the visual and motor experience of the pointer on the scale, forms a stable representation of the distance. The congruence of the contents of the many modalities of experience lends stability to the enactment of the measured distance. 
 
-What is seen is not simply what is visible. What is seen is something that is there only by virtue of the activity of seeing being conducted in a particular way. Even more fundamentally, seeing a line, a set of crossing marks, and the numbers aligned with the marks as a scale of any sort is itself already an instance of enacted seeing. Ingold's (2000) claim that perception is properly understood as a cultural skill fits well with the MGC perspective. The role of enactment of meaning becomes even more evident in the moment when the "distance" scale is *seen *as a "speed" scale, and the distance spanned by the dividers is read as a speed. It is the same scale, and similar practices of interpolation are applied to it. But the practice of reading the span on the scale as a speed rather than as a distance is a different practice; a practice that *sees *something different in the very same visual array. 
+What is seen is not simply what is visible. What is seen is something that is there only by virtue of the activity of seeing being conducted in a particular way. Even more fundamentally, seeing a line, a set of crossing marks, and the numbers aligned with the marks as a scale of any sort is itself already an instance of enacted seeing. Ingold's (2000) claim that perception is properly understood as a cultural skill fits well with the MGC perspective. The role of enactment of meaning becomes even more evident in the moment when the "distance" scale is *seen* as a "speed" scale, and the distance spanned by the dividers is read as a speed. It is the same scale, and similar practices of interpolation are applied to it. But the practice of reading the span on the scale as a speed rather than as a distance is a different practice; a practice that *sees* something different in the very same visual array. 
 
 In the opening moments of this activity, the span of the dividers is a distance, but the property of being a distance is created by nothing other than the cultural practices of the navigator. As the navigator moves the span toward the yard scale, the span becomes a speed, but again, only because that is how the navigator enacts it in that moment. Distance is the meaning the navigator expects when the dividers are in contact with the chart; speed is the meaning the navigator expects when the dividers are placed in contact with the scale. If perception were a passive process, then this same visual array should give rise to the same experience in both moments of perception. But the fact is that reading the span of the dividers on the scale as a speed is a different experience from reading the span of the dividers on the scale as a distance. In this way, cultural practices orchestrate the coordination of an entire MGC system with cultural materials to produce particular higher-level cognitive processes. Which higher-level process is produced depends on learned cultural practices as much as it does on the properties of the culturally organized material setting. Under just the right conditions, an enculturated person can place an extent of space on a scale and can read the span there as either a distance or a speed. 
 
@@ -735,7 +733,7 @@ I happened to be on the bridge of the Palau, video-recording navigation activiti
 
 ![](blob:https://euangoddard.github.io/f676e608-9019-4cf4-b866-67b19737382a)
 
-*Figure 5.3.1. Reconstruction of the position fixes created by the navigation team for the entry on which the gyrocompass failed. The column at left indicates the computational sequence used to compute each line of position. The colored horizontal bars across the bottom of the figure indicate the quality of the resulting fix. The green vertical bars indicate key adaptive events in the sequence. The gyrocompass failed at the first green vertical bar. The missing deviation term was discovered at the third green bar. *
+*Figure 5.3.1. Reconstruction of the position fixes created by the navigation team for the entry on which the gyrocompass failed. The column at left indicates the computational sequence used to compute each line of position. The colored horizontal bars across the bottom of the figure indicate the quality of the resulting fix. The green vertical bars indicate key adaptive events in the sequence. The gyrocompass failed at the first green vertical bar. The missing deviation term was discovered at the third green bar.* 
 
 How can the discovery that this term was missing be explained? The discovery appeared as an "Aha!" insight. In some sense, the "Aha!" insight that this analysis seeks to explain happened just when we would expect it to appear. It happened when the increasing size of the fix triangles led the plotter to explore explanations for the decreasing quality of the fixes. However, neither the navigator's obvious frustration nor the fact that he was looking for something that would improve the fixes can explain the insight. The analysis presented here seeks to reveal the nature of the process by which the plotter examined the fixes and how that process led to the insight that the deviation term was missing. Taken in the context of the computations that the crew was doing, this discovery was, like most creative insights, mysterious. There was nothing in the pattern of computational efforts leading up to the discovery that indicated that the navigators were nearing this development. The processes that underlie the "Aha!" insight remain invisible to a computational perspective in part because that perspective represents everything in a single mono-modal (or even a-modal) language. In Hutchins (1995), I provide a disembodied analysis of this event that fails to explain how the discovery of the missing term was made. In fact, I struggled for many years to develop a satisfactory account of how this insight came about. Things became clearer when I added embodiment to my theoretical toolbox. A careful examination of the way a navigator used his body to engage the tools in the setting helps to demystify the discovery process and to explain why and how it happened when it did. The insight was achieved in and emerged out of the navigator's bodily engagement with the setting. 
 
@@ -747,150 +745,150 @@ Such a large triangle was clear evidence of the presence of an error somewhere i
 
 Table 5.3.1 has two columns. In the left column are descriptions of the observed actions. In the right column are descriptions of the enactment of the phenomenal objects of interest that can be expected to accompany the observed behavior, given the understanding that enactment is a dynamic, multimodal, continuous, temporally extended, and affectively colored activity that integrates perception, action, and imagination. I recommend that the reader first read down the left column, consulting the accompanying figures to get a sense of P's course of action. Once the course of action is clear, the reader will be able to judge the aptness of the descriptions of the enactment. I take the descriptions of the observed activities to be unproblematic. They are based on good quality video with multiple audio streams and informed by an extensive body of background ethnographic information (see Hutchins, 1995a). Some of the descriptions of enactment are also straightforward. Some follow directly from the observed activity, and others can be inferred and justified by the background ethnography. There are, however, some aspects of the enactment that are clearly speculative. I have marked these in the table with the phrase, "Let us *speculate*." 
 
-|
+\|
 
 Observed activity
 
- |
+\|
 
 Enactment of phenomenal objects
 
- |
+\|
 |
 
 P aligned the hoey arm approximately for one landmark and placed his right index finger on the location of the landmark forming a pivot. He then moved the base of the hoey left, rotating the arm slightly clockwise with respect to the previously plotted LOP for that landmark. This rotation brought the provisional LOP into the interior of the previously plotted triangle, thus reducing the size of the triangle formed with the other two LOPs. 
 
- |
+\|
 
 This manipulation of the hoey on the surface of the chart integrates motor, visual, proprioceptive, and tactile experience in an enacted representation of a provisional LOP. Performed in the culturally meaningful space of the chart, this enacts complex conceptual content. Not just a tentative new LOP, but a clockwise rotation, a shift of the LOP to the west-southwest, a smaller triangle, and an improved fix. Examining the placement of the tool on the chart adds stable visual elements to the enacted representation. And these are only the aspects that are demonstrably relevant to the current activity.
 
- |
+\|
 |  |
 
 P must have also experienced the friction of the hoey on the chart surface, the mass distribution of the hoey, and the transparency of the plastic in the hoey arm. These are present in the sensorimotor contingencies of tool manipulation. 
 
- |
+\|
 
-|
+\|
 
 Observed activity
 
- |
+\|
 
 Enactment of phenomenal objects
 
- |
+\|
 |
 
 P then quickly shifted the hoey on the surface of the chart and aligned it approximately with the second landmark, placing his left thumb on the hoey arm near the landmark to serve as a pivot. He also adjusted this LOP slightly clockwise by pulling his right hand and the hoey arm slightly toward his body (figure 5.3.2, left). 
 
- |
+\|
 
 In these first two moves, P used his body and the tools (chart and hoey) to imagine LOPs that, if they could somehow be created in the future, would make the fix triangle smaller. 
 
- |
+\|
 
-|
+\|
 
 Observed activity
 
- |
+\|
 
 Enactment of phenomenal objects
 
- |
+\|
 |
 
 P spoke (self-regulatory speech) the remembered bearing to the third landmark, "one two zero" degrees, while the hoey was still lying on the chart. 
 
- |
+\|
 
 Self-regulatory speech enacts the bearing in the verbal modality to form a more stable guide to action. Skilled navigators experience bearing numbers as bodily sensations with respect to a cardinal direction frame. The enactment of the spoken bearing is also embodied in these sensations, and this would have been part of the active context for the next action. 
 
- |
+\|
 |
 
 P then picked up the hoey in his left hand and used his right thumb to move the arm counterclockwise in the direction of the 120-degree scale position. 
 
- |
+\|
 
-Let us *speculate *that P attends visually to the scale values on the protractor in the context of "felt" directions, and the still active enactment of a seen fix triangle and the multimodal anticipation of the small clockwise rotations of the first two LOPs. 
+Let us *speculate* that P attends visually to the scale values on the protractor in the context of "felt" directions, and the still active enactment of a seen fix triangle and the multimodal anticipation of the small clockwise rotations of the first two LOPs. 
 
- |
+\|
 |
 
 Observed activity
 
- |
+\|
 
 Enactment of phenomenal objects
 
- |
+\|
 |
 
 P made a sharp intake of breath, stopped pushing the hoey arm with his thumb, quickly lowered the hoey held in the left hand to the chart surface, lowered the right hand, which was holding a pencil, to the chart surface beside the hoey, and looked up away from the hoey and chart. All of this happened in less than a second. 
 
- |
+\|
 
-This is a clear abandonment of the activity of setting the hoey arm to a scale position, which would have been the first step in plotting the third LOP. Let us *speculate *that the elements of the enacted representations have now combined such that the anticipated multimodal experience of small clockwise rotation is superimposed on the visual experience of the protractor scale (figure 5.3.3). This combination would produce, as an emergent property, the concept that adding a small number (small clockwise rotation on the scale) to the bearing for LOP3 will reduce the size of the fix triangle. 
+This is a clear abandonment of the activity of setting the hoey arm to a scale position, which would have been the first step in plotting the third LOP. Let us *speculate* that the elements of the enacted representations have now combined such that the anticipated multimodal experience of small clockwise rotation is superimposed on the visual experience of the protractor scale (figure 5.3.3). This combination would produce, as an emergent property, the concept that adding a small number (small clockwise rotation on the scale) to the bearing for LOP3 will reduce the size of the fix triangle. 
 
- |
+\|
 |
 
 Observed activity
 
- |
+\|
 
 Enactment of phenomenal objects
 
- |
+\|
 |
 
 P said to himself, "I know what he's doing!" He tapped the eraser end of his pencil on the chart three times. He then took three actions in quick succession:
 
- |
+\|
 
 This action sequence contains more self-regulatory speech. Fidgeting is not noise. Three new concepts have been integrated in this moment. They correspond, in order to the three observed action elements. They are as follows: 
 
- |
+\|
 |
 
 P turned away from the chart and moved toward the helm station saying, "Let me try . . . Let me try . . . Let me try with my new ones . . ." He consulted the deviation table posted near the magnetic compass at the helm station.
 
- |
+\|
 
 One: that the small number that would improve the LOP is deviation. The deviation table is posted at the helm station. 
 
- |
+\|
 |
 
 P then came back to the chart table, saying, "say three, say three (accompanied these words with beat gestures), add three to everything." 
 
- |
+\|
 
 Two: that all three LOPs will be improved by adding to them a small number. He says, "add three to everything." 
 
- |
+\|
 |
 
 Upon hearing P say this, BR asked, "Add three? Because we're shooting relative?" 
 
 P responded, "Um, no. On a southwest heading add three." 
 
- |
+\|
 
 Three: that deviation, 3 degrees, is the small number that has been missing from the calculations up to this point. This is clear from the plotter's statement linking the ship's present heading to the need to add 3 degrees to the LOPs. 
 
- |
+\|
 |
 
 P then re-plotted the three LOPs, adding 3 degrees to each. This produced the desired small fix triangle. 
 
- |
+\|
 
 These three concepts form a synergistic cognitive ecosystem in which each of them makes the others stronger. (figure 5.3.2, right)
 
- |
+\|
 
 *Table 5.3.1. P's activity and the enactment of phenomenal objects*
 
@@ -900,7 +898,7 @@ Description automatically generated](blob:https://euangoddard.github.io/08f0c355
 
 *Figure 5.3.2. P manipulating the hoey (left). Mutual elaboration of concepts on (right). Follow black arrows through a sequence of insights. Red arrows are mutual support.*
 
-The tentative nature of these actions marks this exploratory manipulation as an example of the class of actions that Murphy (2004) has called "action in the subjunctive mood." These are "as-if" actions or "may it be thus" actions. These actions produce an ephemeral experience of potential, but not yet realized, states of affairs or processes. The fact that these activities are enacted in the subjunctive mood, marked as projecting or anticipating a possible future, is very important. Let us *speculate *that this projection keeps the enacted, embodied anticipation of clockwise rotation active during the following seconds of activity. 
+The tentative nature of these actions marks this exploratory manipulation as an example of the class of actions that Murphy (2004) has called "action in the subjunctive mood." These are "as-if" actions or "may it be thus" actions. These actions produce an ephemeral experience of potential, but not yet realized, states of affairs or processes. The fact that these activities are enacted in the subjunctive mood, marked as projecting or anticipating a possible future, is very important. Let us *speculate* that this projection keeps the enacted, embodied anticipation of clockwise rotation active during the following seconds of activity. 
 
 ![A close-up of a protractor
 
@@ -914,7 +912,7 @@ First, prediction and anticipation are core functions of animal perception/ acti
 
 Second, not only do the contents of various perceptual modes interact with one another, but these interactions have also been linked to success in insight tasks. Spivey (2007, pp. 266-268) describes Glucksberg's (1964) replication of Duncker's (1945) famous candle problem. The problem is to mount a candle on a wall using only the candle, a book of matches, and a cardboard box full of thumb tacks. The solution is to use the tacks to affix the box to the wall and use the box as a shelf for the candle. Glucksberg recorded what the participants did with the actual objects as they attempted to solve the problem. Those who successfully solved the problem tended to touch the box more than those who did not. For those that did solve it, Spivey observes, 
 
-"Moreover, right before that 'Aha!' moment, the object that these participants had most recently touched was always the box---*and in most cases that touch had been adventitious and nonpurposeful. *It is almost as if the participant's hands suspected that the box would be useful, in and of itself, before the participant himself knew!" (Spivey, 2007, p. 268). 
+"Moreover, right before that 'Aha!' moment, the object that these participants had most recently touched was always the box---*and in most cases that touch had been adventitious and nonpurposeful.* It is almost as if the participant's hands suspected that the box would be useful, in and of itself, before the participant himself knew!" (Spivey, 2007, p. 268). 
 
 This suggests that the embodied processes of interacting with the material objects may have included the imagination of manipulations of the box that could be useful in solving the problem. More recently, Goldin-Meadow (2006) has shown that children explaining their incorrect answers to arithmetic problems sometimes produce gestures that do not entirely match the contents of their spoken words. In particular, the "gesture-speech mismatches" sometimes highlight with gesture aspects of the correct solution that the student is not yet capable of describing in words. This condition is shown to be an indicator of readiness to learn the correct solution procedure. Again, reasoning processes playing out in the actions of the hands may hold content that can lead to insights. 
 
@@ -934,7 +932,7 @@ From the perspective of a formal representation of the task, the means by which 
 
 Multimodality is a fundamental property of lived experience, and the relations among the contents of various modalities appear to have cognitive consequences. Congruence among the contents of modalities appears to lend stability to the enacted representations of which they are a part. Complementarity among the contents of modes may give rise to emergent phenomena, as was the case with the "Aha!" insight described above. Contradictory contents are sometimes produced deliberately in sarcasm. Truly incongruent contents probably occur, but it will be difficult to know how frequently this happens. Incongruent contents will most likely go unnoticed, or, if noticed, will be dismissed as noise. 
 
-The MGC perspective reminds us once again that perception is something we do, not something that happens to us. And this is never truer than when a person perceives some aspect of the physical world to be a symbol or a representation of any kind. Everyone agrees that perceiving patterns as meaningful is a human ability. But as long as perception was conceived as something that happened to us, it was possible to ignore the activity in the world that makes the construction of meaning possible. And although the enactment of cultural meanings is something that our bodies and brains *do *in the world, it is not something that our bodies or brains do by themselves. The skills that enact the apprehension of patterns as representations are learned cultural skills. 
+The MGC perspective reminds us once again that perception is something we do, not something that happens to us. And this is never truer than when a person perceives some aspect of the physical world to be a symbol or a representation of any kind. Everyone agrees that perceiving patterns as meaningful is a human ability. But as long as perception was conceived as something that happened to us, it was possible to ignore the activity in the world that makes the construction of meaning possible. And although the enactment of cultural meanings is something that our bodies and brains *do* in the world, it is not something that our bodies or brains do by themselves. The skills that enact the apprehension of patterns as representations are learned cultural skills. 
 
 Putting things together this way reveals new analytic possibilities for understanding interactions of whole persons with the material and social worlds in which they are embedded. Learned cultural practices of perception and action applied to relevant domains of scrutiny enact the phenomenal objects of interest that define activity systems. High-level cognitive processes can result when culturally orchestrated MGC processes are applied to culturally organized worlds of action. 
 
@@ -956,7 +954,7 @@ The trick here is that the three landmarks must be chosen such that the LOPs int
 
 Description automatically generated with medium confidence](blob:https://euangoddard.github.io/08fcb58b-c7f2-43f8-ae95-375f2ef7a4c1)
 
-*Figure 5.4.2. LOP angles *
+*Figure 5.4.2. LOP angles* 
 
 Thus, although a position fix consists of three elements (LOPs), none of the individual elements can be said to be good or bad with respect to the choice criteria. The criteria refer to the relations among elements, not the elements themselves. 
 
@@ -986,13 +984,13 @@ Description automatically generated](blob:https://euangoddard.github.io/18358ad8
 
 *Figure 5.4.3 Choosing LMs. Frame from a video by the author*
 
-*P interrupts BR's activity by moving his right hand, middle finger extended, into the area over the chart where the estimated position has been plotted. BR withdraws his left hand from the area as P's right hand comes in. Quickly tracing the imagined LOPs from each landmark as each is named, P revisits the same landmarks just mentioned by BR, "Ballast Point, Bravo." *
+*P interrupts BR's activity by moving his right hand, middle finger extended, into the area over the chart where the estimated position has been plotted. BR withdraws his left hand from the area as P's right hand comes in. Quickly tracing the imagined LOPs from each landmark as each is named, P revisits the same landmarks just mentioned by BR, "Ballast Point, Bravo."* 
 
 *BR tries to retake the floor, leaning over the chart and reaching toward the plotting area with his left hand, saying, "u:h,"*
 
-*P rebuffs BR, making another gestured LOP from the vicinity of the depiction of Light Victor to the EP and saying, "that's good." *
+*P rebuffs BR, making another gestured LOP from the vicinity of the depiction of Light Victor to the EP and saying, "that's good."* 
 
-*Because Light Victor is located to the east (right) of the EP, this gesture both indicates a third LOP and effectively blocks the entry of BR's hand to the plotting area. BR pulls his left hand back, rests it on the chart table in front of him, and says, "Okay." *
+*Because Light Victor is located to the east (right) of the EP, this gesture both indicates a third LOP and effectively blocks the entry of BR's hand to the plotting area. BR pulls his left hand back, rests it on the chart table in front of him, and says, "Okay."* 
 
 As the navigators work, they use their fingers to trace lines from various landmarks to the vicinity of the EP. The ephemeral gestures together with the generative apparatus that produces them ARE the provisional LOPs. The provisional LOP is both produced and perceived in a unitary system that includes the chart, the gesturing body, and the internal MGC system. 
 
@@ -1052,23 +1050,23 @@ In the few seconds of activity spanned by the navigation vignettes, the followi
 
 **Locating bearing on hoey scale:** Multimodal engagement and sensorimotor contingencies; Continuous presence of and coupling to the world; Cultural conventions including number lines, numeric scales, and the 360-degree circle.
 
-**Setting the location of the hoey arm****:** Interpolation in action; Conceptual work in perceptual and motor processes deployed in the culturally constructed world; Alignment as a building block of many practices.
+**Setting the location of the hoey arm\*\***:\*\* Interpolation in action; Conceptual work in perceptual and motor processes deployed in the culturally constructed world; Alignment as a building block of many practices.
 
-**Locking the ****hoey ****arm****:** Thinking through tactile and motor modalities; Look ahead planning evident in the details of the grip on the hoey locking knob which affords rotation.
+**Locking the \*\***hoey ***\*arm\****:\*\* Thinking through tactile and motor modalities; Look ahead planning evident in the details of the grip on the hoey locking knob which affords rotation.
 
-**Aligning hoey base with chart direction frame****:** Combined chart space and body space (visual and proprioceptive modalities); Structure on the hoey base and on chart that afford alignment of the two direction frames using simple perceptual and motor processes; Another member of the family of practices based on alignment.
+**Aligning hoey base with chart direction frame\*\***:\*\* Combined chart space and body space (visual and proprioceptive modalities); Structure on the hoey base and on chart that afford alignment of the two direction frames using simple perceptual and motor processes; Another member of the family of practices based on alignment.
 
-**Bringing the hoey arm to the LM depiction****:** The articulation of chart space and body space gives meaning to body-based translational movement; The experience of meaning in perceptual and motor processes highlights the generative contribution of the MGC system; Meaning is made in the activation of the non-representational models of the hidden causes of sensation; Action is driven by the hidden causes of imagined sensation; Constraint satisfaction in action, constraints are supplied by depictions on chart (LM, direction frame) and the hoey (direction frame, angle of arm on the scale).
+**Bringing the hoey arm to the LM depiction\*\***:\*\* The articulation of chart space and body space gives meaning to body-based translational movement; The experience of meaning in perceptual and motor processes highlights the generative contribution of the MGC system; Meaning is made in the activation of the non-representational models of the hidden causes of sensation; Action is driven by the hidden causes of imagined sensation; Constraint satisfaction in action, constraints are supplied by depictions on chart (LM, direction frame) and the hoey (direction frame, angle of arm on the scale).
 
-**Evaluating the relation of LM to EP****:** Courses of action are trains of thought; Pausing motion provides a stable frame of reference for mutual adaptation or settling of constraining processes, prediction, sensation; The freezing of some modalities allows focus on those that continue to change. This is concentration; The dynamics of action, both real action and imagined action, are the dynamics of thought. The motor system has its own dynamic properties which may become constraints on thought in action.
+**Evaluating the relation of LM to EP\*\***:\*\* Courses of action are trains of thought; Pausing motion provides a stable frame of reference for mutual adaptation or settling of constraining processes, prediction, sensation; The freezing of some modalities allows focus on those that continue to change. This is concentration; The dynamics of action, both real action and imagined action, are the dynamics of thought. The motor system has its own dynamic properties which may become constraints on thought in action.
 
-**Detecting an error****:** This is a spatial inference on a composite image that includes sensed and imagined structure; The anticipated track is "seen as" a sequence of positions; Translation without rotation has a clear meaning and a simple proprioceptive signature; Embodied concepts; The thought IS the continuous dynamic experience of the body and the world.
+**Detecting an error\*\***:\*\* This is a spatial inference on a composite image that includes sensed and imagined structure; The anticipated track is "seen as" a sequence of positions; Translation without rotation has a clear meaning and a simple proprioceptive signature; Embodied concepts; The thought IS the continuous dynamic experience of the body and the world.
 
-**Correcting the error****:** The proprioceptive signal of translation without rotation appears again; The dynamics of a movement stroke from beginning to end is characterized by smooth acceleration and deceleration indicating that the approximate target was already located; Thinking in action in meaningful space; Holding the pencil upright during translation shows that body state anticipates the next action which is also the next concept; Simultaneous control of multiple variables through the intrapersonal coordination of modalities. 
+**Correcting the error\*\***:\*\* The proprioceptive signal of translation without rotation appears again; The dynamics of a movement stroke from beginning to end is characterized by smooth acceleration and deceleration indicating that the approximate target was already located; Thinking in action in meaningful space; Holding the pencil upright during translation shows that body state anticipates the next action which is also the next concept; Simultaneous control of multiple variables through the intrapersonal coordination of modalities. 
 
-**Checking the landmark identity****:** The row and column table is an ancient cultural device for controlling the relationship between two variables; The bearing log is a long-term memory at the system level. 
+**Checking the landmark identity\*\***:\*\* The row and column table is an ancient cultural device for controlling the relationship between two variables; The bearing log is a long-term memory at the system level. 
 
-**Drawing the LOP segment across the projected track****:** The LOP is drawn with a flourish as a sharp stroke (indicating finality of the process?); Are the dynamics of motion the dynamics of thought? 
+**Drawing the LOP segment across the projected track\*\***:\*\* The LOP is drawn with a flourish as a sharp stroke (indicating finality of the process?); Are the dynamics of motion the dynamics of thought? 
 
 **The Three-Minute Rule:** Cultural processes collect partial solutions to frequently encountered problems. A serendipitous interaction between structures that developed for unrelated reasons produced a statistical regularity in the cognitive ecosystem that has been opportunistically captured by a cultural practice. 
 
@@ -1144,7 +1142,7 @@ Features on the chart serve as each of these kinds of memory only in those momen
 
 While performing actions over and in contact with the meaningfully interpreted chart surface, a navigator activates predictions of motion to the visual system, and predictions of the trajectories of motion of the hand and fingers to the somatosensory system.
 
-The notion of a "meaningfully interpreted chart surface ..." needs to be unpacked. This noun phrase implies a continuous dynamic coupling of the visual modality to the chart surface (outward orientation) and (inward orientation) to a complex generative predictive processing (MGC) network. This network includes non-representational knowledge and a spotty memory of the chart. Memory can be spotty because the chart is present. The MGC network produces predictions of tuned sensorimotor contingencies. These networks change subtly as the chart is viewed, eventually predicting how the appearance of this particular chart will change with the movement of the eyes. This implies continuous dynamic coupling of proprioceptive modalities to the chart surface [outward orientation] and to additional MGC network structure. The developing representation of the specific contents of any particular chart is constructed on a foundation of knowledge of charting conventions, for example, the fact that north is away from the body (knowledge of the relationship of body-space to chart space to ship space). The spotty representation of the chart's contents may fill-in gradually as a consequence of implicit learning through interaction with the chart.
+The notion of a "meaningfully interpreted chart surface ..." needs to be unpacked. This noun phrase implies a continuous dynamic coupling of the visual modality to the chart surface (outward orientation) and (inward orientation) to a complex generative predictive processing (MGC) network. This network includes non-representational knowledge and a spotty memory of the chart. Memory can be spotty because the chart is present. The MGC network produces predictions of tuned sensorimotor contingencies. These networks change subtly as the chart is viewed, eventually predicting how the appearance of this particular chart will change with the movement of the eyes. This implies continuous dynamic coupling of proprioceptive modalities to the chart surface \[outward orientation] and to additional MGC network structure. The developing representation of the specific contents of any particular chart is constructed on a foundation of knowledge of charting conventions, for example, the fact that north is away from the body (knowledge of the relationship of body-space to chart space to ship space). The spotty representation of the chart's contents may fill-in gradually as a consequence of implicit learning through interaction with the chart.
 
 #### 5.5.3. The Role of Friction in Action
 
@@ -1206,7 +1204,7 @@ SO configured the cross-feed valves to establish fuel flow from tank one to both
 
 After completing his diagnosis of the fuel leak situation, SO turned in his seat to face the front of the airplane while addressing the captain and FO. No gestures other than body orientation accompanied this announcement.
 
-12.00.43 SO: *well it looks huh like a funny situation. we have a fuel leak or something \2\ in number three tank *
+12.00.43 SO: *well it looks huh like a funny situation. we have a fuel leak or something \2\ in number three tank* 
 
 A salient part of a pilot's understanding of a fuel leak is that it is a situation that must be dealt with quickly. In response to the SO's announcement, the captain and FO turned in their seats to face the SO and the engineer's panel (Figure 6.1.1). 
 
@@ -1214,7 +1212,7 @@ A salient part of a pilot's understanding of a fuel leak is that it is a situati
 
 Description automatically generated](blob:https://euangoddard.github.io/6ef2db79-b183-4ec9-a6cf-d590234cd2b7)
 
-*Figure 6.1.1. Attending to the fuel panel. Frame from a video courtesy of NASA Ames Research Center. *
+*Figure 6.1.1. Attending to the fuel panel. Frame from a video courtesy of NASA Ames Research Center.* 
 
 After SO's announcement, the crew members collectively knew what SO suspected (a fuel leak) and where he thought the problem was located (in fuel tank three). With that information, the crew members prepared to attend to the problem.
 
@@ -1230,69 +1228,69 @@ The spatial layout of the panel (Figure 6.1.2. provides a diagram taken from a 7
 
 The topology of the painted lines and switch positions enables the crew to make conceptual inferences with simple and robust perceptual skills. For example, figuring out where fuel will flow can be accomplished by moving visual attention along lines on the panel. 
 
-|
+\|
 
 In the system 
 
- |
+\|
 
 On the panel
 
- |
+\|
 |
 
 Fuel tank
 
- |
+\|
 
 Quantity gauge
 
- |
+\|
 |
 
 Fuel line
 
- |
+\|
 
 Painted line
 
- |
+\|
 |
 
 Boost Pump
 
- |
+\|
 
 Pump control switch
 
- |
+\|
 |
 
 Pressure sensor
 
- |
+\|
 
 Pressure indicator
 
- |
+\|
 |
 
 Valve
 
- |
+\|
 
 Valve control switch
 
- |
+\|
 |
 
 Fuel flow established by valve position
 
- |
+\|
 
 Position of valve control with respect to painted lines
 
- |
+\|
 
 *Table 6.1. Correspondences between components on the fuel panel and components in the fuel system.*
 
@@ -1304,24 +1302,24 @@ With C and FO oriented to him and his panel, SO continued his account of the pro
 
 *SO: I don't know we must be losing it very quickly you see right now I-\2\I turned the pumps off ok I tried to feed from number one to both engine one and three but we're still losing in number three quite a bit*
 
-|
+\|
 
 SPEECH
 
- |
+\|
 
 GESTURE IN SPACE
 
- |
+\|
 |
 
 right now
 
- |
+\|
 
 Placed index finger on, but did not depress the fuel quantity test switch
 
- |
+\|
 
 SO began his account by gesturing to (placing his finger on but not depressing) the fuel quantity test switch while saying "right now." There was nothing in SO's words about the fuel quantity test button. He had pressed it earlier, of course, as part of the diagnosis procedure. But during his explanation of the problem to the other crew members, SO neither mentioned nor pressed this button. He only touched it. We believe that the other crew members interpreted this as an indication that SO had already tested the gauges (in fact, he had).
 
@@ -1335,149 +1333,149 @@ Thus, touching the fuel quantity test button must be experienced as being about 
 
 The words "right now" indicate that the actions being reported took place recently. SO did not delay in notifying C and FO about the problem. These words also gave a sense of immediacy to the situation. They place something in the present time, but what is not yet clear. The speech and the gesture are working independently of each other here, each conveying information about different aspects of the same conceptual project: speech about when the actions took place, gesture about the initial action taken.
 
-|
+\|
 
 SPEECH
 
- |
+\|
 
 GESTURE IN SPACE
 
- |
+\|
 |
 
 I -\2\ I turned the pumps off OK
 
- |
+\|
 
 Brought index and middle fingers down onto the tank three boost pump switches
 
- |
+\|
 
 SO next made a motion over the number three tank boost pump switches that mimicked the motion used to turn the pumps off. The switches were already in the off position. The combination of the gesture and the state of the panel, and the knowledge that boost pumps are normally on in flight, made this action unambiguous. The past-tense word "turned" provides temporal information that cannot easily be conveyed with gesture. Gestures are always in the present tense. Simultaneously, the gesture specifies which pumps have been turned off, a specification that is lacking from the speech. Speech marked the gestures as a reenactment of what SO had already done. The verbal statement did not indicate which pumps had been turned off, but the fingers did. The location of the gesture in the space of the fuel panel thus resolved an ambiguous reference in the verbal stream. The verbal component provided temporal markings that were lacking from the gesture, and the gesture provided aspects of indexical reference that were ambiguous in SO's words.
 
 The boost pumps being off raises the question of where the fuel for engine three was coming from. The topology of the panel facilitates certain inferences about the functional behavior of the fuel system, and SO next moved to demonstrate these inferences to the other crew members.
 
-|
+\|
 
 SPEECH
 
- |
+\|
 
 GESTURE IN SPACE
 
- |
+\|
 |
 
 I tried
 
- |
+\|
 
 Moved fingers from the tank three boost pump switches to the area of the tank one boost pump switches
 
- |
+\|
 
 SO changed topics (introduced a new conceptual object) at this point, and his gesture directed attention to the other side of the fuel panel, where subsequent events would be described. He was now beginning to explain how he established an alternative fuel source for engine number three. The use of the past tense "tried" placed the action referred to in the past with respect to the present course of action.
 
-|
+\|
 
 SPEECH
 
- |
+\|
 
 GESTURE IN SPACE
 
- |
+\|
 |
 
 to feed from number one
 
- |
+\|
 
 Moved index and middle fingers up and down between the tank one quantity gauge and the boost pump low pressure indicator lights
 
- |
+\|
 
 Here, the gesture and the speech were almost completely congruent. The gestures draw visual and motor attention to the lines painted on the panel that depict the pipes in the system that move fuel from the number one tank, through the boost pumps, and to the engine's one fuel feed valve. The gestures highlight specific elements of the panel, but the speech "feed" refers to an event in the fuel system. In this moment, the panel is "seen as" the fuel system. The up and down motion of the fingers is seen as the movement of fuel through the pipes. The panel is, at this moment, a representation of the fuel system. 
 
-|
+\|
 
 SPEECH
 
- |
+\|
 
 GESTURE IN SPACE
 
- |
+\|
 |
 
 to both
 
- |
+\|
 
 Hand raised away from the surface of the panel
 
- |
+\|
 |
 
 engine one
 
- |
+\|
 
 Moved hand across panel to the area of the controls for tank and engine three, pointing to engine three cross-feed valve control
 
- |
+\|
 |
 
 and three
 
- |
+\|
 
 Moved hand back across the panel to the area on the controls for tank and engine number one
 
- |
+\|
 
 In the brief statement, "I tried to feed from number one to both engine one and three," SO explained that he had remembered to feed fuel to engine three before he turned the tank three boost pumps off. The gesture accompanying this section was complex and quickly executed. SO pointed to the tank one gauge, to the tank one pump switches (which were in the ON position), then to the engine three cross-feed valve controller, and to the engine one cross-feed controller. These gestures drew attention to the controllers that indicate that the valves were open and supplying fuel to engines one and three from tank one. Some of the motions of the hand also followed the flow of fuel through the system. The panel continues as a representation of the fuel system. 
 
-|
+\|
 
 SPEECH
 
- |
+\|
 
 GESTURE IN SPACE
 
- |
+\|
 |
 
 but
 
- |
+\|
 
 Pointed with index finger to the engine three fuel gauge
 
- |
+\|
 
 Having established the alternate source of fuel for engine three, SO pointed to the engine three fuel gauge. This was the locus of the problem. SO marked with a gesture a return to the topic of the fuel level in tank three. The logical disjunction, "but," marks a violation of a possible conceptual continuation of the situation described before. The elements that stand in disjunction are not yet clear but will be made clear by what follows.
 
-|
+\|
 
 SPEECH
 
- |
+\|
 
 GESTURE IN SPACE
 
- |
+\|
 |
 
 we're
 
- |
+\|
 
 Flicked the face of the engine three fuel gauge with middle finger
 
- |
+\|
 
 SO flicked the gauge with his finger. This is a common technique among pilots to free a gauge needle that is believed to be stuck. From a strictly functional point of view, this is a useless action. SO detected the fuel leak by observing the rapid movement of this fuel gauge needle. The fact that it was possible to detect the fuel leak this way is evidence that the needle is not stuck. Furthermore, he had tested the freedom of the needle movement with the fuel quantity test button. Thus, the flick cannot be an attempt to free a stuck needle.
 
@@ -1485,45 +1483,45 @@ This flick was not performed in SO's original diagnosis and was not a report of 
 
 Because this action cannot be functional, we might ask what other kind of role it might be playing here. For one thing, it returns the narrative to the present. It is a way of emphasizing that the fuel level shown by the number three tank gauge is the salient problem. At a more abstract level of description, flicking a gauge is a way to produce an expected reading when an unexpected reading has been encountered. In that sense, this action could also be read as an assertion by SO that he would have liked the behavior of the gauge to be other than it was.
 
-|
+\|
 
 SPEECH
 
- |
+\|
 
 GESTURE IN SPACE
 
- |
+\|
 |
 
 still losing
 
- |
+\|
 
 Repeated jabbing motions at the face of the tank three gauge with the index finger
 
- |
+\|
 
 SO then emphatically gestured to the tank number three gauge, while he said, "still losing." This last gesture drew attention away from the function of the needle (that which the prior gesture, the flick, demanded) to the actual fuel quantity level that the needle was indicating. In this moment, the gauge is again a representation of a feature of the fuel system. 
 
-|
+\|
 
 SPEECH
 
- |
+\|
 
 GESTURE IN SPACE
 
- |
+\|
 |
 
 in number three quite a bit
 
- |
+\|
 
 Moved hand away from the panel and into lap
 
- |
+\|
 
 Finally, SO returned his hands to his lap, indicating that his turn was completed.
 
@@ -1583,7 +1581,7 @@ The cognitive ecosystem of the pre-simulator briefing suggests another cognitive
 
 Conceptual object: To decelerate an airplane in level flight, reduce power, and hold back-pressure on the yoke, constructed from the PF's character viewpoint. 
 
-PM begins this project by saying, "Yes, I know difference between Boeing and [company X]'s procedure. Our procedure just trim out at flap five speed." The instructor provides a verbal continuation, saying "and then." This, by itself, is a collaboratively constructed verbal utterance. But there's more. The instructor also simultaneously gestured to model pulling back on the yoke (Figure 6.2.4). The added gesture here fills in content for the projection into the future of his own words, "and then," and projects a syntactic structure for PM to complete verbally. 
+PM begins this project by saying, "Yes, I know difference between Boeing and \[company X]'s procedure. Our procedure just trim out at flap five speed." The instructor provides a verbal continuation, saying "and then." This, by itself, is a collaboratively constructed verbal utterance. But there's more. The instructor also simultaneously gestured to model pulling back on the yoke (Figure 6.2.4). The added gesture here fills in content for the projection into the future of his own words, "and then," and projects a syntactic structure for PM to complete verbally. 
 
 Every pilot knows that if you do not trim, in order to decelerate, you must pull back on the yoke. The instructor used that knowledge to anticipate the projection of PM's words with his gesture. This projection was especially well marked as PM had stated that his company's procedure is different from Boeing's procedure, which they had discussed, and which involves trimming to the stall speed. Thus, the instructor's gesture is semantically congruent with and temporally precedes PM's spoken words, "back pressure." The gesture also has a relation of mutual elaboration to the concurrently produced words "and then." The semantic relation here is complementary (synecdoche), because the talk represents a sequence in which the back pressure enacted in gesture is a component action. The initiation of the instructor's gesture was anticipatory, but he held it while PM continued speaking, saying, "keep back pressure only." By the end of this statement, the instructor's gesture and PM's speech were semantically congruent and temporally concurrent. This feels a bit like a jazz improvisation where the musicians anticipate one another and explore complementary musical elements, finally returning together to the tonic. 
 
@@ -1665,7 +1663,7 @@ Gesture, talk, printed words, and material objects all have different representa
 
 In addition to modeling specific actions, many of the observed gestures presupposed specific flight deck roles, the seat occupied while performing the imagined action, and the fine details of the bodily motions of the pilot. Such details are rarely represented linguistically in our data. The coherence of gestural enactments indicates that the imagination of component actions involves the whole situation of the body in the flight deck, not simply the imagination of the control that is to be manipulated. The richness and specificity of the pilot's shared knowledge of the flight deck environment are evident in the rapid shifts in viewpoint implied by the gesture sequences. Pilots transition seamlessly from character viewpoint to observer viewpoint, and among multiple vantage points as observers. 
 
-One way to bring relations of mutual elaboration into focus is to notice what does *not *appear in talk. For example, the control yoke, the trim switch, and the thrust levers play central roles in the interaction, yet these controls were never mentioned in the verbal utterances produced by the instructor and students. The controls are brought forth as implied elements in an imagined world of culturally meaningful action. The words "you have to push" could apply to many controls in the flight deck. That these words describe an action taken on the control yoke is established by their relation of mutual elaboration with particular gestures. And also, importantly, by the role the yoke plays in the conceptual project. Even without gestures, pilots know that the yoke is the thing that must be pushed in order to recover from an approach to a stall. 
+One way to bring relations of mutual elaboration into focus is to notice what does *not* appear in talk. For example, the control yoke, the trim switch, and the thrust levers play central roles in the interaction, yet these controls were never mentioned in the verbal utterances produced by the instructor and students. The controls are brought forth as implied elements in an imagined world of culturally meaningful action. The words "you have to push" could apply to many controls in the flight deck. That these words describe an action taken on the control yoke is established by their relation of mutual elaboration with particular gestures. And also, importantly, by the role the yoke plays in the conceptual project. Even without gestures, pilots know that the yoke is the thing that must be pushed in order to recover from an approach to a stall. 
 
 Gestures may enter into relations of mutual elaboration with many other semiotic resources in the activity system: written materials, objects, bodies, talk, and even other gestures. Gestures are complex movements. Just as we saw in the navigation team's choice of landmarks, which aspects of movement are taken to be relevant in the current moment of discourse depends on how the gesture is imagined as an element of the underlying model. For example, early in the lesson, the instructor read the words "retract speedbrake." The words say nothing about how the retraction of the speedbrake is accomplished. The speedbrakes are panels on the wings. Where is the activating control? How is the control operated? The instructor held his right fist upright in front of his body at elbow level. As he moved his hand forward, he rotated his wrist and tipped his fist down slightly. If this gesture were to occur alone, its meaning would probably be misunderstood. Viewed without sound, the gesture could easily be seen as modeling a pilot in the right seat pushing the right horn of the control yoke forward. But the gesture produced concurrently with the words "retract speedbrake" in this context brings forth an unambiguous whole. A pilot seated in the left seat of the flight deck uses his right hand to grasp the raised speedbrake handle and push it a few inches forward and down. Details of the motion that did not seem important when viewed without sound now jump out. The speedbrake handle pivots around a hinge at its base, and this detail is shown in the gesture as the slight rotation of the wrist. Furthermore, details of the gesture that should be ignored fade away. In the airplane, the speedbrake handle is adjacent to the right thigh of the pilot in the left seat. A gesture that perfectly modeled speedbrake retraction would be performed below the pilot's waist. In the classroom, however, the surface of the table intervenes in the instructor's local space, preventing him from lowering his hand further. In mutual elaboration with the talk, the height of the gesture is disregarded. This is a reminder that even seemingly simple gestures may be extremely complex. What is meaningful and what is not, what should be attended to and what should be disregarded as noise, depends on how the gesture is construed. And the level of detail that can be achieved in the construal depends on the depth of knowledge that the participants have about the domain of discourse. It is not just the words and gesture that mutually elaborate each other. The words and the gesture are generated and imagined as elements in a dynamic constellation of activation in an MGC system that spans brain, body, and world. They are the visible parts of a complex imagining of a meaningful action in a known world. Talk and gesture are the tip of an MGC iceberg. 
 
@@ -1673,7 +1671,7 @@ In the domain of professional pilot training, the participants use gesture to re
 
 Talk, gesture, and other semiotic resources are elements of an ongoing dynamic process of imagining activity in the workplace that is distributed across the pilots. Phenomena in the world are highlighted by, and acquire meaning from, gestures enacted in coordination with them. Simultaneously, gestures acquire meaning from the elements of the physical world with which they are coordinated (Goodwin, 1994, 2007). Of course, environmentally coupled gesture is pervasive when pilots work together on a flight deck, as we saw in the analysis of the diagnosis of the fuel leak. (See also Hutchins et al., 2009). Many of the gestures we observe in the pre-simulator briefing mutually elaborate physical elements of the briefing setting. But what of the gestures that refer to the absent flight deck? The fact that pilots have so much experience in this setting changes the dynamics of these processes. Once it has been invoked in speech or gesture, the entire flight deck becomes available (in imagination) as an environment to which subsequent gestures can be coupled. The same processes that are at work in meaning making with environmentally coupled gestures are at work here, except that these gestures both bring forth the imagined environment and are coupled to elements of that imagined environment. As we saw in the case of retracting the speedbrake, a gesture can selectively highlight elements of an imagined environment, while the imagined environment simultaneously draws attention to and gives meaning to subtle details of the gesture. 
 
-Gesture provides evidence that imagination can run ahead of talk (Schegloff, 1984). In case 6.2.4 "You have to push", PM made three yoke-pushing gestures but did not verbally describe the push action until the third gesture, seven seconds after the first push gesture was produced. The first two push gestures anticipated the semantically congruent spoken words. They were produced concurrently with semantically complementary elements of a verbal preamble that contextualized the pilot's stance with respect to the recovery maneuver (it's difficult) and with respect to the effect of the push (nose-down attitude). The third push gesture was produced concurrently with the words "to push." One consequence of repeating the gesture is that it kept the main point active while the verbal preamble was delivered. That is, the pilot was imagining the push action seven seconds before he got around to describing it verbally. The syntactic constraints of spoken language impose sequential order on the articulation of conceptual elements. Gesture that anticipates one's own talk is a constituent of this pre-articulatory imagination. Before doing this analysis, we would have guessed that the most likely timing relation for collaboratively constructed multimodal utterances would be the production of words followed by semantically congruent gestures. Gestural follow-on assumes that the listener inhabits a conceptual world that is constructed *in response to *what the speaker has already said. Sometimes, however, gestures in collaboratively constructed multimodal utterances occur concurrently with the words they elaborate. In case 6.2.5 "Underslung engines," PF and the instructor executed perfectly synchronized, but morphologically distinct, enactments of a sudden pitch-up attitude. PF's gestures were performed in anticipation of the instructor's subsequent metaphorical description of the pitch-up event. The cross-speaker production of such multimodal elements in precise temporal and conceptual alignment requires joint participation in the embodied experience of this key conceptual element. It is further evidence that the participants jointly inhabit the world they imagine in interaction. 
+Gesture provides evidence that imagination can run ahead of talk (Schegloff, 1984). In case 6.2.4 "You have to push", PM made three yoke-pushing gestures but did not verbally describe the push action until the third gesture, seven seconds after the first push gesture was produced. The first two push gestures anticipated the semantically congruent spoken words. They were produced concurrently with semantically complementary elements of a verbal preamble that contextualized the pilot's stance with respect to the recovery maneuver (it's difficult) and with respect to the effect of the push (nose-down attitude). The third push gesture was produced concurrently with the words "to push." One consequence of repeating the gesture is that it kept the main point active while the verbal preamble was delivered. That is, the pilot was imagining the push action seven seconds before he got around to describing it verbally. The syntactic constraints of spoken language impose sequential order on the articulation of conceptual elements. Gesture that anticipates one's own talk is a constituent of this pre-articulatory imagination. Before doing this analysis, we would have guessed that the most likely timing relation for collaboratively constructed multimodal utterances would be the production of words followed by semantically congruent gestures. Gestural follow-on assumes that the listener inhabits a conceptual world that is constructed *in response to* what the speaker has already said. Sometimes, however, gestures in collaboratively constructed multimodal utterances occur concurrently with the words they elaborate. In case 6.2.5 "Underslung engines," PF and the instructor executed perfectly synchronized, but morphologically distinct, enactments of a sudden pitch-up attitude. PF's gestures were performed in anticipation of the instructor's subsequent metaphorical description of the pitch-up event. The cross-speaker production of such multimodal elements in precise temporal and conceptual alignment requires joint participation in the embodied experience of this key conceptual element. It is further evidence that the participants jointly inhabit the world they imagine in interaction. 
 
 Simultaneity of cross-speaker gesture and talk in collaboratively constructed utterances is evidence of a shared activity and aligned expectations. This relation indicates that the speakers inhabit a shared conceptual world that is elaborated in parallel. As in single-speaker utterances, gestures in collaboratively constructed multimodal utterances often precede the spoken elements to which they bear semantic relations. The production of utterances in which a one speaker's gestures anticipate the conceptual projections of another speaker's words provides strong evidence that the participants inhabit a shared imagined world.
 
@@ -1711,7 +1709,7 @@ Figure 6.3.2 shows this interaction. At this moment, the flight route has been r
 
 Description automatically generated](blob:https://euangoddard.github.io/0fe1fbaf-c916-4480-9f29-f3e0d20f7b40)
 
-*Figure 6.3.2. Three parallel representations of flight route. Arrival Procedure Chart (upper left); PM's eye gaze (upper right); PM's verbal description (lower). *
+*Figure 6.3.2. Three parallel representations of flight route. Arrival Procedure Chart (upper left); PM's eye gaze (upper right); PM's verbal description (lower).* 
 
 Collecting eye-tracking data on both pilots simultaneously allows us to observe the allocation of visual attention by the flight crew system. While the PM was reading the chart as described above, the PF looked at the blank space on the computer interface where the name of the next waypoint after HELNS should be entered. The PM's spoken utterance thus coordinated the allocation of visual attention by the two pilots, each using a different cultural practice of reading, to two different representations of the flight route, one on the chart and the other in the waypoint list on the computer interface. This coordinating effect is only possible because the language of sequential relations applies to both kinds of reading practices.
 
@@ -1983,7 +1981,7 @@ Hutchins, E. (2010b). Enaction, imagination, and insight. In J. Stewart, O. Gapp
 
 Hutchins, E. (2012). Concepts in practice as sources of order. *Mind, Culture and Activity, 19*(3), 314-323.
 
-Hutchins, E., & Hazlehurst, B. (1995). How to invent a lexicon: The development of shared symbols in interaction. In N. Gilbert, & R. Conte, *Artificial societies: The computer simulation of social life *(pp. 157-189). London: UCL Press.
+Hutchins, E., & Hazlehurst, B. (1995). How to invent a lexicon: The development of shared symbols in interaction. In N. Gilbert, & R. Conte, *Artificial societies: The computer simulation of social life* (pp. 157-189). London: UCL Press.
 
 Hutchins, E., & Hazlehurst, B. (2002). Auto-organization and emergence of shared language structure. In A. Cangelosi, & D. Parisi, *Simulating the evolution of language* (pp. 279-305). London: Springer-Verlag.
 
@@ -2117,7 +2115,7 @@ Wertsch, J. (1985). *Vygotsky and the Social Formation of Mind.* Cambridge, MA
 
 Wilson, S., Saygin, A., Sereno, M., & Iacoboni, M. (2004). Listening to speech activates motor areas involved in speech production. *Nature Neuroscience*, 701-702.
 
-## Endnotes 
+## Endnotes
 
 [^i]:
 
