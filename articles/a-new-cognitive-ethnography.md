@@ -517,11 +517,9 @@ When used to plot an LOP, the hoey is a digital-to-analog converter, and when lo
 
 *P's torso and head begin to move back from the table and up, widening his visual perspective. His left hand opens over the hoey lock and begins to push the hoey base north (away from the body). His left thumb remains resting on the edge of the hoey lock ring, and the fingers of his left hand extend over and rest on the left quadrant of the protractor scale. Simultaneously, P's right-hand fingers spread and anchor the hoey arm, preventing the arm from being pushed away from the body. This results in the rotation of the entire hoey-plus arm assembly around the pivot point formed by P's right-hand fingers. All of this is performed as a single rapid, fluid coordinated motion of both hands and head.*
 
-![A person holding a sword
+**Figure 5.1.3. Aligning the hoey with the chart's direction frame. Frame from a video by the author**
 
-Description automatically generated](blob:https://euangoddard.github.io/8fddb7e0-6330-41e8-8562-bd32d717700a)
-
-*Figure 5.1.3. Aligning the hoey with the chart's direction frame. Frame from a video by the author*
+![](/static/figure5.1.3.png)
 
 This is the transition from setting the bearing angle on the hoey to aligning the hoey protractor with the chart direction frame. This rotation produces approximate alignment of the hoey base with the directional frame of the chart. In this and the following panels, we can see the partial decomposition of the task of getting the hoey aligned simultaneously with the direction frame of the chart and the depiction of the landmark. 
 
