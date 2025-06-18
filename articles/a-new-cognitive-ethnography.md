@@ -267,7 +267,7 @@ The Internal structure of the Imagined system is a complex, partially reconfi
 
 There are limits on what we can know about the internal functioning of such networks beyond the fact that they learn to predict the statistical regularities of their environment.  Suleyman and Bhaskar, describing contemporary generative AI systems said, 
 
-> "In AI, the neural networks moving toward autonomy are, at present, not explainable. You can't walk someone through the decision-making process to explain precisely why an algorithm produced a specific prediction. Engineers can't peer beneath the hood and easily explain in granular detail what caused something to happen. GPT‑4, AlphaGo and the rest are black boxes, their outputs and decisions based on opaque and impossibly intricate chains of minute signals." (Suleyman & Bhaskar, 2023, p. 149)
+"In AI, the neural networks moving toward autonomy are, at present, not explainable. You can't walk someone through the decision-making process to explain precisely why an algorithm produced a specific prediction. Engineers can't peer beneath the hood and easily explain in granular detail what caused something to happen. GPT‑4, AlphaGo and the rest are black boxes, their outputs and decisions based on opaque and impossibly intricate chains of minute signals." (Suleyman & Bhaskar, 2023, p. 149)
 
 There is no way to know in detail how any particular prediction was created by either a brain or a generative AI system. When studying either the biological or artificial instantiation of the predictive processing system, it is possible to observe and document the regularities in the flow of experience that these systems must predict. It is even possible to determine where activation is highest under certain task demands, as is done in brain imaging studies. But it is not possible to know in detail how any particular prediction or action arose. In any case, I am developing a theoretical model and am not making a commitment to any particular artificial or biological instantiation of a network system. Even without committing to details, it is possible to sketch a generic description that applies to most instantiations of generative networks but commits to none. 
 
@@ -323,7 +323,7 @@ The larger generative system that subsumes mirror neurons will enter the discuss
 
 The three instantiations of predictive processing networks share an important property. Each is composed of a large number of similar units. The internal world of a generative AI system, the artificial instantiation, is composed of a large number of computational units of just a few types. The internal world of a brain, the biological instantiation, is composed of very large numbers of neurons. There aremore types of neurons in a brain than there are types of units in an AI system, but even a brain is a relatively homogeneous system. The theoretical instantiation of PP systems relies on thehomogeneity of the component parts to make possible the formal mathematical models of its operation.
 
-Somehow, such homogeneous collectives, in brains and generative AI systems, learn to model the heterogeneous constellation of objects and events "out there" in the world on the other side of their sensory surfaces. These systems **model a heterogeneous world** **through a heterogeneity of dynamics on a homogeneous substrate**.
+Somehow, such homogeneous collectives, in brains and generative AI systems, learn to model the heterogeneous constellation of objects and events "out there" in the world on the other side of their sensory surfaces. These systems **model a heterogeneous world through a heterogeneity of dynamics on a homogeneous substrate**.
 
 ### 4.3. Continuous
 
@@ -351,7 +351,7 @@ Forty years ago, Rumelhart et al. (1986) noted that people are good at three t
 
 Humans inhabit a world of symbols. Clark (1998) described surrogate worlds, systems of symbols with which people interact. Rumelhart et al. (1986) addressed this situation in an account of doing place-value multiplication with paper and pencil.
 
-> "Each cycle of this operation involves first creating a representation through manipulation of the environment, then a processing of the (actual physical) representation by means of our well-tuned perceptual apparatus leading to further modification of this representation. By doing this we reduce a very abstract conceptual problem to a series of operations that are very concrete and at which we can become very good. ... This is real symbol processing and, we are beginning to think, the primary symbol processing that we are able to do." (Rumelhart et al., 1986, pp. 45-46)
+"Each cycle of this operation involves first creating a representation through manipulation of the environment, then a processing of the (actual physical) representation by means of our well-tuned perceptual apparatus leading to further modification of this representation. By doing this we reduce a very abstract conceptual problem to a series of operations that are very concrete and at which we can become very good. ... This is real symbol processing and, we are beginning to think, the primary symbol processing that we are able to do." (Rumelhart et al., 1986, pp. 45-46)
 
 As the MGC framework implies, with experience, people may learn to imagine the dynamics of these external symbolic worlds. Rumelhart et al. go on to say, "Not only can we manipulate the physical environment and then process it, we can also learn to internalize the representations we create, 'imagine' them, and then process these representations -- just as if they were external." At the time they were writing, Rumelhart and his colleagues did not have a computational account that could do the things they describe. They had no coherent mechanism to internalize, represent, and imagine external states of affairs. The generative component of MGC provides exactly the capabilities called for here. However, the meanings of the key terms 'internalize', 'represent', 'processing', and 'imagine' are all transformed by the shift to MGC. Under MGC, representation is without resemblance between the thing represented and the patterns of activation that represent that thing. Internalization is no longer conceived as a transport of a pattern across a boundary. It is, rather, a process of coordination and coupling between external and internal events. Processing is the dynamic interaction of patterns of activation in the generative system. Imagination is the generation of expectation. 
 
@@ -409,9 +409,11 @@ The navigation chart is a key tool in the position fixing activity. Weeks before
 
 Other tools appear in the activity: a pencil, the hoey, and dividers. 
 
-**Figure 5.1. Plotting tools: Hoey (left) and dividers (right)**
+![A close-up of a protractor
 
-![](/static/figure5.1.png)
+Description automatically generated](blob:https://euangoddard.github.io/469e007f-c2e8-41f2-a2b8-91057337fd0d)
+
+*Figure 5.1. Plotting tools: Hoey (left) and dividers (right)*
 
 The hoey is a plotting protractor. The hoey base is a semi-circle marked with degree scales. There are 360 degrees in a full circle. A plotting arm rotates around the center of the degree circle. The arm is attached to the base with a lock ring screw that can be tightened and loosened to adjust the amount of friction between the arm and the base. The rectangular grid of red lines on the transparent hoey base provides for alignment of the hoey base with the chart. Laying one of the vertical red lines on a charted line of longitude or laying one of the horizontal red lines on a charted line of latitude brings the hoey base into alignment with the directional frame (relative to true north) of the chart. The dividers (confusingly also known as a compass) are a two-legged tool with adjustable friction to hold the angle between the legs and thus the span between leg tips.
 
