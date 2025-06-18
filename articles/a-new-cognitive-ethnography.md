@@ -662,11 +662,9 @@ This convenient fact is put into practice in navigation in the following way. Tw
 
 In the terms I was using in *Cognition in the Wild*, this high-level cognitive function is realized in the transformation and propagation of representational states. The span between the fix positions on the chart is a representational state that is propagated into a span on the dividers. This analog representational state is then propagated into a span on the yard scale. Finally, the span on the yard scale is transformed into a digital answer by reading the label on the designated tick mark in a particular way. Notice that, even though they are obviously involved, in this account, little is said about the use of the eyes, and nothing at all is said about the use of the hands or other parts of the body. In the next section, I will try to show what can be gained by examining the activity through the lens of MGC. This will show that an MGC analysis of the three-minute rule creates explanatory possibilities that simply have no place in a disembodied analysis.
 
-![Hands holding a compass and pencil on a map
+**Figure 5.2.1. Spanning the distance on the chart. Photo by the author**
 
-Description automatically generated](blob:https://euangoddard.github.io/a9daea56-4675-4725-a185-f0dd2cdabc70)
-
-*Figure 5.2.1. Spanning the distance on the chart. Photo by the author*
+![](/static/figure5.2.1.png)
 
 The navigator's first step is to see and apply the dividers to the span of space between the position fixes (figure 5.2.1). This is a visual activity, but also a motor activity. Techniques for the manual manipulation of the dividers require precise hand-eye coordination. As a consequence of decades of experience, skilled navigators acquire a finely tuned habitus of action and perception. This includes sticking the point of one arm of the divider into the previous fix triangle on the chart, adjusting the spread of the dividers while keeping the point planted, locating the next fix triangle visually, and then sticking the second fix triangle with the other point of the dividers. 
 
