@@ -419,15 +419,11 @@ The position of the ship is determined or "fixed" in an activity called the "fix
 
 The steps in the fix cycle are: 
 
-1.    Plot the ship's position as the intersection of three lines of position. Each LOP is defined by a bearing from the ship to a landmark - a visually prominent feature along the sides of the navigation channel. 
-
-2.    Compute the ship's speed (optional, if there is reason to believe it is changing). 
-
-3.    Estimate where the ship will be at the time of the next position fix. Draw this on the chart as the estimated position EP. 
-
-4.    Choose three landmarks to use for plotting the ship's position at the next scheduled fix time. 
-
-5.    At the scheduled fix time, observe and record the bearings to the chosen landmarks.
+1. Plot the ship's position as the intersection of three lines of position. Each LOP is defined by a bearing from the ship to a landmark - a visually prominent feature along the sides of the navigation channel. 
+2. Compute the ship's speed (optional, if there is reason to believe it is changing). 
+3. Estimate where the ship will be at the time of the next position fix. Draw this on the chart as the estimated position EP. 
+4. Choose three landmarks to use for plotting the ship's position at the next scheduled fix time. 
+5. At the scheduled fix time, observe and record the bearings to the chosen landmarks.
 
 We will look at just three elements of the fix cycle: Plotting a single LOP, computing the ship's speed from distance traveled and time elapsed between fixes, and choosing the three landmarks to use to construct a future position fix.
 
@@ -453,11 +449,9 @@ Here (in *italic* font) is a description of the fine detail of P's multimodal 
 
 *Presently, the plotting arm lies across a scale value that is greater than the bearing of the current landmark.*
 
-![A person using a sander
+**Figure 5.1.1. P locating bearing on hoey. Frame from a video by the author**
 
-Description automatically generated](blob:https://euangoddard.github.io/efe719af-3c54-4300-ae07-10f779160713)
-
-*Figure 5.1.1. P locating bearing on hoey. Frame from a video by the author*
+![](/static/figure5.1.1.png)
 
 Let's examine P's experience of this moment, considering only the proprioceptive, visual, and tactile modalities. 
 
