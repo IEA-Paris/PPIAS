@@ -628,15 +628,13 @@ The row and column format of the bearing record log is a cultural device that co
 
 #### 5.1.9 Drawing the LOP Segment on the Predicted Track
 
-*P turns his head to the left and his gaze returns to the hoey base. There is little other motion except subtle adjustment of his torso. He holds the hoey in place with the fingers of his left hand on the surface of the protractor and the heel of his hand firmly on the chart. P moves the hoey base slightly toward his body, aligning it with the chart. The hoey arm remains in contact with the pencil at the Hotel Del Coronado landmark.* 
+*P turns his head to the left and his gaze returns to the hoey base. There is little other motion except subtle adjustment of his torso. He holds the hoey in place with the fingers of his left hand on the surface of the protractor and the heel of his hand firmly on the chart. P moves the hoey base slightly toward his body, aligning it with the chart. The hoey arm remains in contact with the pencil at the Hotel Del Coronado landmark.*
 
 *P slightly relaxes and contracts his left hand on the surface of the hoey. Then he is almost motionless for two seconds. He wiggles the pencil on the landmark and makes very subtle motions of the hoey base aligning with the chart. P moves his right hand to the intersection of the hoey arm with the previously plotted anticipated ship's track. His head rises slightly, but his gaze never leaves the target area for drawing the LOP. P brings the pencil into contact with the chart to the left of the ship's track. P draws the LOP as a short, sharp stroke across the ship's projected track.* 
 
-![A person in a white shirt
+**Figure 5.1.6. Drawing the LOP. Frame from a video by the author**
 
-Description automatically generated](blob:https://euangoddard.github.io/200c7709-9a2e-4029-b560-3fd1b2de17ef)
-
-*Figure 5.1.6. Drawing the LOP. Frame from a video by the author*
+![](/static/figure5.1.6.png)
 
 Without eye-tracking recordings, it's impossible to know exactly what P is focusing his vision on. The estimated position is in his field of view just to the right of the hoey base. The wiggling of the pencil and the subtle translations of the hoey base are fine-tuning the position of the hoey. Conceptually, this amounts to refining the constraints that will be embodied in the plotted line of position. 
 
