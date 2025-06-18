@@ -706,8 +706,6 @@ I happened to be on the bridge of the Palau, video-recording navigation activiti
 
 ![](/static/figure5.3.1.png)
 
-
-
 How can the discovery that this term was missing be explained? The discovery appeared as an "Aha!" insight. In some sense, the "Aha!" insight that this analysis seeks to explain happened just when we would expect it to appear. It happened when the increasing size of the fix triangles led the plotter to explore explanations for the decreasing quality of the fixes. However, neither the navigator's obvious frustration nor the fact that he was looking for something that would improve the fixes can explain the insight. The analysis presented here seeks to reveal the nature of the process by which the plotter examined the fixes and how that process led to the insight that the deviation term was missing. Taken in the context of the computations that the crew was doing, this discovery was, like most creative insights, mysterious. There was nothing in the pattern of computational efforts leading up to the discovery that indicated that the navigators were nearing this development. The processes that underlie the "Aha!" insight remain invisible to a computational perspective in part because that perspective represents everything in a single mono-modal (or even a-modal) language. In Hutchins (1995), I provide a disembodied analysis of this event that fails to explain how the discovery of the missing term was made. In fact, I struggled for many years to develop a satisfactory account of how this insight came about. Things became clearer when I added embodiment to my theoretical toolbox. A careful examination of the way a navigator used his body to engage the tools in the setting helps to demystify the discovery process and to explain why and how it happened when it did. The insight was achieved in and emerged out of the navigator's bodily engagement with the setting. 
 
 Here is a very brief account of the course of events. 
@@ -753,104 +751,7 @@ Enactment of phenomenal objects
 \|
 |
 
-P then quickly shifted the hoey on the surface of the chart and aligned it approximately with the second landmark, placing his left thumb on the hoey arm near the landmark to serve as a pivot. He also adjusted this LOP slightly clockwise by pulling his right hand and the hoey arm slightly toward his body (figure 5.3.2, left). 
 
-\|
-
-In these first two moves, P used his body and the tools (chart and hoey) to imagine LOPs that, if they could somehow be created in the future, would make the fix triangle smaller. 
-
-\|
-
-\|
-
-Observed activity
-
-\|
-
-Enactment of phenomenal objects
-
-\|
-|
-
-P spoke (self-regulatory speech) the remembered bearing to the third landmark, "one two zero" degrees, while the hoey was still lying on the chart. 
-
-\|
-
-Self-regulatory speech enacts the bearing in the verbal modality to form a more stable guide to action. Skilled navigators experience bearing numbers as bodily sensations with respect to a cardinal direction frame. The enactment of the spoken bearing is also embodied in these sensations, and this would have been part of the active context for the next action. 
-
-\|
-|
-
-P then picked up the hoey in his left hand and used his right thumb to move the arm counterclockwise in the direction of the 120-degree scale position. 
-
-\|
-
-Let us *speculate* that P attends visually to the scale values on the protractor in the context of "felt" directions, and the still active enactment of a seen fix triangle and the multimodal anticipation of the small clockwise rotations of the first two LOPs. 
-
-\|
-|
-
-Observed activity
-
-\|
-
-Enactment of phenomenal objects
-
-\|
-|
-
-P made a sharp intake of breath, stopped pushing the hoey arm with his thumb, quickly lowered the hoey held in the left hand to the chart surface, lowered the right hand, which was holding a pencil, to the chart surface beside the hoey, and looked up away from the hoey and chart. All of this happened in less than a second. 
-
-\|
-
-This is a clear abandonment of the activity of setting the hoey arm to a scale position, which would have been the first step in plotting the third LOP. Let us *speculate* that the elements of the enacted representations have now combined such that the anticipated multimodal experience of small clockwise rotation is superimposed on the visual experience of the protractor scale (figure 5.3.3). This combination would produce, as an emergent property, the concept that adding a small number (small clockwise rotation on the scale) to the bearing for LOP3 will reduce the size of the fix triangle. 
-
-\|
-|
-
-Observed activity
-
-\|
-
-Enactment of phenomenal objects
-
-\|
-|
-
-P said to himself, "I know what he's doing!" He tapped the eraser end of his pencil on the chart three times. He then took three actions in quick succession:
-
-\|
-
-This action sequence contains more self-regulatory speech. Fidgeting is not noise. Three new concepts have been integrated in this moment. They correspond, in order to the three observed action elements. They are as follows: 
-
-\|
-|
-
-P turned away from the chart and moved toward the helm station saying, "Let me try . . . Let me try . . . Let me try with my new ones . . ." He consulted the deviation table posted near the magnetic compass at the helm station.
-
-\|
-
-One: that the small number that would improve the LOP is deviation. The deviation table is posted at the helm station. 
-
-\|
-|
-
-P then came back to the chart table, saying, "say three, say three (accompanied these words with beat gestures), add three to everything." 
-
-\|
-
-Two: that all three LOPs will be improved by adding to them a small number. He says, "add three to everything." 
-
-\|
-|
-
-Upon hearing P say this, BR asked, "Add three? Because we're shooting relative?" 
-
-P responded, "Um, no. On a southwest heading add three." 
-
-\|
-
-Three: that deviation, 3 degrees, is the small number that has been missing from the calculations up to this point. This is clear from the plotter's statement linking the ship's present heading to the need to add 3 degrees to the LOPs. 
 
 \|
 |
