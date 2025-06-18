@@ -561,7 +561,7 @@ While adjusting the alignment of the base with the chart, the hoey arm must be k
 
 *There is a moment of virtually no body motion while P looks at the hoey base. P's eyes are not visible, but I presume that they move from the reference lines in the hoey base to the edge of the hoey arm where it crosses the projected ship's track. This is where the LOP should be plotted. It happens to be very close to the edge of the hoey base, so no change in head orientation is needed to see it.*
 
-![](blob:https://euangoddard.github.io/a2c24904-0a47-487f-8872-22e7805db7a4)
+![](/static/figure5.1.4.png)
 
 *Figure 5.1.4. Detecting the error. Frame from a video by the author*
 
