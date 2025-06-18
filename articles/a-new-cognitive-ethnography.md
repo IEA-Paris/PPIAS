@@ -561,9 +561,9 @@ While adjusting the alignment of the base with the chart, the hoey arm must be k
 
 *There is a moment of virtually no body motion while P looks at the hoey base. P's eyes are not visible, but I presume that they move from the reference lines in the hoey base to the edge of the hoey arm where it crosses the projected ship's track. This is where the LOP should be plotted. It happens to be very close to the edge of the hoey base, so no change in head orientation is needed to see it.*
 
-![](/static/figure5.1.4.png)
+**Figure 5.1.4. Detecting the error. Frame from a video by the author**
 
-*Figure 5.1.4. Detecting the error. Frame from a video by the author*
+![](/static/figure5.1.4.png)
 
 The hoey arm crosses the track line south of several previously plotted positions. By spatial inference, this cannot be the correct position for the LOP. The navigator can imagine the simple dynamics of the ship moving forward along its track northward from the last position fix. The correct position must therefore be much further north, up the track line (which bears about 10 degrees W of N). What is the nature of this spatial inference? It must include imagination of the progress of the ship along its track. It requires the superposition of a generated trajectory on a perceived spatial array. This happens at the meeting of generated structure with sensed structure. Neither the generated trajector of attention alone nor the perceived ship's track alone is sufficient to make this inference. The terms of the inference are emergent from the ongoing projection of the trajector onto the array as it is being perceived. This is the same cognitive routine that produces number lines and the sense (root meaning) of the direction of increasing values on the protractor. 
 
@@ -575,13 +575,10 @@ The words we use to describe the event, "discovering the error," are not the tho
 
 It includes: 
 
-\-       The visual process is a continuous engagement with the chart and the hands, and the hoey. 
-
-\-       The tactile experience of the roughness of the knurled knob, the smoothness of the chart and the hoey surface. 
-
-\-       The proprioceptive sense of the location of the hands in body-space, in chart-space, and perhaps in ship-space. 
-
-\-       The sense prediction that pushing the hoey away (north) will bring the hoey arm to the EP. 
+* The visual process is a continuous engagement with the chart and the hands, and the hoey. 
+* The tactile experience of the roughness of the knurled knob, the smoothness of the chart and the hoey surface. 
+* The proprioceptive sense of the location of the hands in body-space, in chart-space, and perhaps in ship-space. 
+* The sense prediction that pushing the hoey away (north) will bring the hoey arm to the EP. 
 
 The thought is this entire continuous dynamic experience of the body and the world. There is intimate contact of the body and nervous system with a thoroughly culturally organized world, adapting, resonating, and entraining. Coupling prediction to sensation to perception, and modality to modality. Parts of this thought are in the world, and some of those parts are even visible to us as observers. 
 
@@ -593,13 +590,11 @@ The thought is this entire continuous dynamic experience of the body and the wor
 
 It is not possible to know if the plotter noticed the approximate distance on the chart from the incorrect LOP location (implied by Dive Tower) to the previously plotted EP. It seems likely that he did, because he certainly evaluated the incorrect LOP location and noticed its directional relation to the previously plotted expected position. If he did notice that distance, he could be looking for a landmark that is north of Dive Tower by about the same distance. He does seem to move quickly to Hotel Del, which satisfies that constraint.
 
-*P's head\*\* snaps toward his right hand, and his left hand begins to push the hoey (base and arm with almost no rotation) north, away from his body.* 
+*P's head snaps toward his right hand, and his left hand begins to push the hoey (base and arm with almost no rotation) north, away from his body.* 
 
-![A person holding a remote
+**Figure 5.1.5. Correcting the error. Frame from a video by the author**
 
-Description automatically generated with medium confidence](blob:https://euangoddard.github.io/d8f669f2-eb25-4ca1-b77a-a530db740cfc)
-
-*Figure 5.1.5. Correcting the error. Frame from a video by the author*
+![](/static/figure5.1.5.png)
 
 This is the initiation of the corrective action, searching for a workable landmark. P's head began to rise just two video frames (1/15^th^ of a second) before his hands began to slide the hoey base away from his body. He appears not to have questioned the bearing or the setting of the hoey arm locked into the hoey base. 
 
