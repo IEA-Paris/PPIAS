@@ -185,7 +185,7 @@ In the new century, frameworks for understanding cognition changed too, with the
 
 Over the past three decades, cognitive science has been shifting from a concept of cognition as a logical process to one of cognition as a biological phenomenon. As more is learned about the biology of human cognition, the language of classical cognitive science, which described the cognition of socio-technical systems so well, appears increasingly irrelevant to internal cognitive processes. As Clark put it, 
 
-Perception itself is often tangled up with the possibilities for action and is continuously influenced by cognitive, contextual, and motor factors. It need not yield a rich, detailed, and action-neutral inner model awaiting the services of "central cognition" so as to deduce appropriate actions. In fact, these old distinctions (between perception, cognition, and action) may sometimes obscure, rather than illuminate, the true flow of events. In a certain sense, the brain is revealed not as (primarily) an engine of reason or quiet deliberation, but as an organ of *environmentally situated control*. (Clark, 1998, p. 95)
+> Perception itself is often tangled up with the possibilities for action and is continuously influenced by cognitive, contextual, and motor factors. It need not yield a rich, detailed, and action-neutral inner model awaiting the services of "central cognition" so as to deduce appropriate actions. In fact, these old distinctions (between perception, cognition, and action) may sometimes obscure, rather than illuminate, the true flow of events. In a certain sense, the brain is revealed not as (primarily) an engine of reason or quiet deliberation, but as an organ of *environmentally situated control*. (Clark, 1998, p. 95)
 
 Several approaches strive for an understanding of the nature of human cognition by taking seriously the fact that humans are biological creatures. All of these provide some useful conceptual tools for understanding real-world cognition. 
 
@@ -207,7 +207,7 @@ Embodied cognition has its roots in psychology and is investigated mostly using 
 
 The notion of semiotic resource is a core concept of the embodied interaction approach. This is nicely broader than the idea of external representation, although the so-called external representations can be seen as a subset of semiotic resources. A semiotic resource is an object, pattern, or event in the world that comes to have meaning for the participants in an activity/interaction. Words can be semiotic resources, of course, but so can gestures, facial expressions, and features of the material world. Researchers in this area speak of the mutual elaboration of semiotic resources. The phenomenon of environmentally coupled gesture is a prototypic case of this mutual elaboration. Goodwin analyzes an interaction between an archaeologist and a student who are examining discolorations in the dirt of an excavation. 
 
-"... by itself, the talk is incomplete both grammatically and, more crucially, with respect to the specification of what the addressee of the action is to attend to in order to accomplish a relevant next action. Similarly, the embodied pointing movements require the co-occurring talk to explicate the nature and relevance of what is being indicated. .... By itself each individual set of semiotic resources is partial and incomplete (Agha, 2007; Goodwin, 2007). However, when joined together in local contextures of action, diverse semiotic resources mutually elaborate each other to create a whole that is both greater than, and different from, any of its constituent parts (Goodwin, 2000)." (Streeck et al., 2011). 
+> "... by itself, the talk is incomplete both grammatically and, more crucially, with respect to the specification of what the addressee of the action is to attend to in order to accomplish a relevant next action. Similarly, the embodied pointing movements require the co-occurring talk to explicate the nature and relevance of what is being indicated. .... By itself each individual set of semiotic resources is partial and incomplete (Agha, 2007; Goodwin, 2007). However, when joined together in local contextures of action, diverse semiotic resources mutually elaborate each other to create a whole that is both greater than, and different from, any of its constituent parts (Goodwin, 2000)." (Streeck et al., 2011). 
 
 As more complex interactions are considered, the universe of semiotic resources grows so that, beyond mutual elaboration of two or three resources, we encounter the inter-elaboration of many semiotic resources, including those found in speech, body, activity, and setting. 
 
@@ -241,11 +241,9 @@ The very name Artificial Intelligence implies a claim to a particular relationsh
 
 My interest is in theoretically hypothesized PP networks. It would be nice if theoretical PP networks were an accurate description of brain function, although, of course, now in the mid-2020s, they are still lacking many important aspects of nervous system operation. It is certain that no currently implemented computational version of PP is fully faithful to human cognitive function. Therefore, it is important to keep in mind that the PP component of the framework I describe below is neither the brain nor is it any currently implemented version of generative AI.
 
-![A diagram of a body
+**Figure 4.1. A sketch of the MGC system**
 
-AI-generated content may be incorrect.](blob:https://euangoddard.github.io/2be43561-c8f1-48b7-bf16-822c56baa361)
-
-*Figure 4.1**.** A sketch of the MGC system*
+![](/static/figure4.1.png)
 
 This is my sketch of a theoretical instantiation of the MGC system. It is not intended as a biological instantiation, although it borrows some concepts from neuroscience. It is not intended as a computational instantiation, although it borrows some concepts from generative AI. It is not strictly a predictive processing instantiation, although it borrows from that line of research as well, especially as it is presented by Andy Clark (2023). The diagram is grossly oversimplified, of course. The human brain is estimated to have around 90 billion neurons and has a complex architecture of regions.With this sketch, I only intend to suggest a few key functional relationships between the world, sensory-motor surfaces, and a very large neural network. It is these imagined relationships that guide our examination of real-world activity. 
 
@@ -325,7 +323,7 @@ The larger generative system that subsumes mirror neurons will enter the discuss
 
 The three instantiations of predictive processing networks share an important property. Each is composed of a large number of similar units. The internal world of a generative AI system, the artificial instantiation, is composed of a large number of computational units of just a few types. The internal world of a brain, the biological instantiation, is composed of very large numbers of neurons. There aremore types of neurons in a brain than there are types of units in an AI system, but even a brain is a relatively homogeneous system. The theoretical instantiation of PP systems relies on thehomogeneity of the component parts to make possible the formal mathematical models of its operation.
 
-Somehow, such homogeneous collectives, in brains and generative AI systems, learn to model the heterogeneous constellation of objects and events "out there" in the world on the other side of their sensory surfaces. These systems **model a heterogeneous world\*\*** through a h***\*eterogeneity of dynamics on a homogen\****e***\*ous substrate**.
+Somehow, such homogeneous collectives, in brains and generative AI systems, learn to model the heterogeneous constellation of objects and events "out there" in the world on the other side of their sensory surfaces. These systems **model a heterogeneous world\*\*** through a h**\*\*eterogeneity of dynamics on a homogen\*\***e**\*\*ous substrate**.
 
 ### 4.3. Continuous
 
@@ -1048,7 +1046,7 @@ In the few seconds of activity spanned by the navigation vignettes, the followi
 
 **Setting the location of the hoey arm\*\***:\*\* Interpolation in action; Conceptual work in perceptual and motor processes deployed in the culturally constructed world; Alignment as a building block of many practices.
 
-**Locking the \*\***hoey ***\*arm\****:\*\* Thinking through tactile and motor modalities; Look ahead planning evident in the details of the grip on the hoey locking knob which affords rotation.
+**Locking the \*\***hoey **\*\*arm\*\***:\*\* Thinking through tactile and motor modalities; Look ahead planning evident in the details of the grip on the hoey locking knob which affords rotation.
 
 **Aligning hoey base with chart direction frame\*\***:\*\* Combined chart space and body space (visual and proprioceptive modalities); Structure on the hoey base and on chart that afford alignment of the two direction frames using simple perceptual and motor processes; Another member of the family of practices based on alignment.
 
