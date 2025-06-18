@@ -670,11 +670,9 @@ The navigator's first step is to see and apply the dividers to the span of space
 
 Once the distance traveled has been spanned with the dividers, a different set of manual skills is required to move the span to the scale (figure 5.2.2). The navigator must now raise the dividers off the chart and move them without changing the span. He must then stick one arm into zero point of the scale, bringing the other arm down to the scale without changing the span. Notice that the two tasks, adjusting the span followed by maintaining the span while moving it, put conflicting demands on the tool. The span must be mutable one moment, and immutable the next. This problem is solved for dividers by an adjustable friction lock. In fact, friction locks are common, and it is likely that wherever a friction lock is present, embodied knowledge is at work. We saw a friction lock on the hoey in the example of plotting a line of position.
 
-![A hand holding a pair of compasses
+**Figure 5.2.2. Spanning the scale. Photo by the author**
 
-Description automatically generated](blob:https://euangoddard.github.io/f106669b-349f-4251-82cf-38907814f397)
-
-*Figure 5.2.2. Spanning the scale. Photo by the author*
+![](/static/figure5.2.2.png)
 
 Once the divider is placed on the distance scale, the navigator uses the point of the divider arm to direct his attention to the region of the scale under the point. Through this perceptual practice, the divider point is used to highlight (Goodwin, 1994) a position on a distance scale. If the highlighted position is not precisely on a labeled point on the scale, the navigator will have to establish the value through interpolation (as described in the discussion of reading the degree scale on the perimeter of the hoey in the previous section). The complex cultural skills of scale reading and interpolation produce a number that expresses the value of the location indicated on the distance scale. The scale is perceived in a particular way by embedding that perception in action. In this case, by generating a predicted visual sensation that plays the role of distance in the underlying conceptual network of the predictive processing system. What is then seen on the scale is a complex mix of perception, action, and imagination. The cultural practice of speaking or subvocalizing the number expresses the value of the location indicated on the distance scale and, in coordination with the visual and motor experience of the pointer on the scale, forms a stable representation of the distance. The congruence of the contents of the many modalities of experience lends stability to the enactment of the measured distance. 
 
