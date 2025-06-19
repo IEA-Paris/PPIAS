@@ -778,11 +778,9 @@ Every mundane act of perception shares something fundamental with creative insig
 
 Having plotted the ship's position and computed its speed, P projected an estimated position (EP) - the anticipated location of the ship at the time of the next fix (shown as a half circle on the anticipated track line in Figure 5.4.1). P and BR now consider landmarks to use for plotting the next fix. 
 
-![A map of land with lines and dots
+**Figure 5.4.1 Estimated position is the dot in the half circle on the planned entry line**
 
-Description automatically generated with medium confidence](blob:https://euangoddard.github.io/89a422cb-c6b5-4848-b3d0-3467a530cf5e)
-
-*Figure 5.4.1 Estimated position is the dot in the half circle on the planned entry line*
+![](/static/figure5.4.1.png)
 
 The trick here is that the three landmarks must be chosen such that the LOPs intersect at useful angles (Figure 5.4.2). The choice criteria are as follows: Shallow angles between LOPs are to be avoided because with a shallow angle of intersection, a small error in either LOP will cause a large displacement of the point of intersection between the lines (See the two dashed lines in Figure 5.4.2). Ninety-degree angles are least vulnerable to displacement of the point of intersection with errors in the bearings, but of course, it is not possible to place three lines with ninety-degree intersections in a two-dimensional space. Experienced navigators judge the shape of the triangle, rather than evaluating each of the three intersections separately. A 90° intersection with two 45° intersections is a good solution, as is an equiangular triangle with three 60° vertices.
 
