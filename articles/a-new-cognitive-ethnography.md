@@ -573,9 +573,11 @@ While adjusting the alignment of the base with the chart, the hoey arm must be k
 
 *There is a moment of virtually no body motion while P looks at the hoey base. P's eyes are not visible, but I presume that they move from the reference lines in the hoey base to the edge of the hoey arm where it crosses the projected ship's track. This is where the LOP should be plotted. It happens to be very close to the edge of the hoey base, so no change in head orientation is needed to see it.*
 
-**Figure 5.1.4. Detecting the error. Frame from a video by the author**
+**Figure 5.1.4. Detecting the error**
 
 ![](/static/figure5.1.4.png)
+
+*Frame from a video by the author*
 
 The hoey arm crosses the track line south of several previously plotted positions. By spatial inference, this cannot be the correct position for the LOP. The navigator can imagine the simple dynamics of the ship moving forward along its track northward from the last position fix. The correct position must therefore be much further north, up the track line (which bears about 10 degrees W of N). What is the nature of this spatial inference? It must include imagination of the progress of the ship along its track. It requires the superposition of a generated trajectory on a perceived spatial array. This happens at the meeting of generated structure with sensed structure. Neither the generated trajector of attention alone nor the perceived ship's track alone is sufficient to make this inference. The terms of the inference are emergent from the ongoing projection of the trajector onto the array as it is being perceived. This is the same cognitive routine that produces number lines and the sense (root meaning) of the direction of increasing values on the protractor. 
 
@@ -604,9 +606,11 @@ It is not possible to know if the plotter noticed the approximate distance on th
 
 *P's head snaps toward his right hand, and his left hand begins to push the hoey (base and arm with almost no rotation) north, away from his body.* 
 
-**Figure 5.1.5. Correcting the error. Frame from a video by the author**
+**Figure 5.1.5. Correcting the error**
 
 ![](/static/figure5.1.5.png)
+
+*Frame from a video by the author*
 
 This is the initiation of the corrective action, searching for a workable landmark. P's head began to rise just two video frames (1/15^th^ of a second) before his hands began to slide the hoey base away from his body. He appears not to have questioned the bearing or the setting of the hoey arm locked into the hoey base. 
 
@@ -644,9 +648,11 @@ The row and column format of the bearing record log is a cultural device that co
 
 *P slightly relaxes and contracts his left hand on the surface of the hoey. Then he is almost motionless for two seconds. He wiggles the pencil on the landmark and makes very subtle motions of the hoey base aligning with the chart. P moves his right hand to the intersection of the hoey arm with the previously plotted anticipated ship's track. His head rises slightly, but his gaze never leaves the target area for drawing the LOP. P brings the pencil into contact with the chart to the left of the ship's track. P draws the LOP as a short, sharp stroke across the ship's projected track.* 
 
-**Figure 5.1.6. Drawing the LOP. Frame from a video by the author**
+**Figure 5.1.6. Drawing the LOP** 
 
 ![](/static/figure5.1.6.png)
+
+*Frame from a video by the author*
 
 Without eye-tracking recordings, it's impossible to know exactly what P is focusing his vision on. The estimated position is in his field of view just to the right of the hoey base. The wiggling of the pencil and the subtle translations of the hoey base are fine-tuning the position of the hoey. Conceptually, this amounts to refining the constraints that will be embodied in the plotted line of position. 
 
@@ -674,17 +680,21 @@ This convenient fact is put into practice in navigation in the following way. Tw
 
 In the terms I was using in *Cognition in the Wild*, this high-level cognitive function is realized in the transformation and propagation of representational states. The span between the fix positions on the chart is a representational state that is propagated into a span on the dividers. This analog representational state is then propagated into a span on the yard scale. Finally, the span on the yard scale is transformed into a digital answer by reading the label on the designated tick mark in a particular way. Notice that, even though they are obviously involved, in this account, little is said about the use of the eyes, and nothing at all is said about the use of the hands or other parts of the body. In the next section, I will try to show what can be gained by examining the activity through the lens of MGC. This will show that an MGC analysis of the three-minute rule creates explanatory possibilities that simply have no place in a disembodied analysis.
 
-**Figure 5.2.1. Spanning the distance on the chart. Photo by the author**
+**Figure 5.2.1. Spanning the distance on the chart** 
 
 ![](/static/figure5.2.1.png)
+
+*Photo by the author*
 
 The navigator's first step is to see and apply the dividers to the span of space between the position fixes (figure 5.2.1). This is a visual activity, but also a motor activity. Techniques for the manual manipulation of the dividers require precise hand-eye coordination. As a consequence of decades of experience, skilled navigators acquire a finely tuned habitus of action and perception. This includes sticking the point of one arm of the divider into the previous fix triangle on the chart, adjusting the spread of the dividers while keeping the point planted, locating the next fix triangle visually, and then sticking the second fix triangle with the other point of the dividers. 
 
 Once the distance traveled has been spanned with the dividers, a different set of manual skills is required to move the span to the scale (figure 5.2.2). The navigator must now raise the dividers off the chart and move them without changing the span. He must then stick one arm into zero point of the scale, bringing the other arm down to the scale without changing the span. Notice that the two tasks, adjusting the span followed by maintaining the span while moving it, put conflicting demands on the tool. The span must be mutable one moment, and immutable the next. This problem is solved for dividers by an adjustable friction lock. In fact, friction locks are common, and it is likely that wherever a friction lock is present, embodied knowledge is at work. We saw a friction lock on the hoey in the example of plotting a line of position.
 
-**Figure 5.2.2. Spanning the scale. Photo by the author**
+**Figure 5.2.2. Spanning the scale**
 
 ![](/static/figure5.2.2.png)
+
+*Photo by the author*
 
 Once the divider is placed on the distance scale, the navigator uses the point of the divider arm to direct his attention to the region of the scale under the point. Through this perceptual practice, the divider point is used to highlight (Goodwin, 1994) a position on a distance scale. If the highlighted position is not precisely on a labeled point on the scale, the navigator will have to establish the value through interpolation (as described in the discussion of reading the degree scale on the perimeter of the hoey in the previous section). The complex cultural skills of scale reading and interpolation produce a number that expresses the value of the location indicated on the distance scale. The scale is perceived in a particular way by embedding that perception in action. In this case, by generating a predicted visual sensation that plays the role of distance in the underlying conceptual network of the predictive processing system. What is then seen on the scale is a complex mix of perception, action, and imagination. The cultural practice of speaking or subvocalizing the number expresses the value of the location indicated on the distance scale and, in coordination with the visual and motor experience of the pointer on the scale, forms a stable representation of the distance. The congruence of the contents of the many modalities of experience lends stability to the enactment of the measured distance. 
 
@@ -822,9 +832,11 @@ The verbal exchange is just one element of the interaction. The interaction is c
 
 *The bearing recorder first proposes two landmarks. He leans over the chart (saying, "It'll be ...") and uses his left index finger to quickly trace a line from a landmark called Ballast Point to the approximate location of the EP (saying "that"). His finger wavers for a moment, making a loose clockwise loop over the chart, then he traces a line from the landmark called Bravo Wharf (saying " 'n that"). BR's left hand remains in the vicinity of the*
 
-**Figure 5.4.3 Choosing LMs. Frame from a video by the author**
+**Figure 5.4.3 Choosing LMs** 
 
 ![](/static/figure5.4.3.png)
+
+*Frame from a video by the author*
 
 *P interrupts BR's activity by moving his right hand, middle finger extended, into the area over the chart where the estimated position has been plotted. BR withdraws his left hand from the area as P's right hand comes in. Quickly tracing the imagined LOPs from each landmark as each is named, P revisits the same landmarks just mentioned by BR, "Ballast Point, Bravo."* 
 
@@ -1044,9 +1056,11 @@ After completing his diagnosis of the fuel leak situation, SO turned in his seat
 
 A salient part of a pilot's understanding of a fuel leak is that it is a situation that must be dealt with quickly. In response to the SO's announcement, the captain and FO turned in their seats to face the SO and the engineer's panel (Figure 6.1.1). 
 
-**Figure 6.1.1. Attending to the fuel panel. Frame from a video courtesy of NASA Ames Research Center**
+**Figure 6.1.1. Attending to the fuel panel** 
 
 ![](/static/figure6.1.1.png)
+
+*Frame from a video courtesy of NASA Ames Research Center*
 
 After SO's announcement, the crew members collectively knew what SO suspected (a fuel leak) and where he thought the problem was located (in fuel tank three). With that information, the crew members prepared to attend to the problem.
 
