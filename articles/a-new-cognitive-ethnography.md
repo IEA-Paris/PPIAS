@@ -784,11 +784,9 @@ Having plotted the ship's position and computed its speed, P projected an estima
 
 The trick here is that the three landmarks must be chosen such that the LOPs intersect at useful angles (Figure 5.4.2). The choice criteria are as follows: Shallow angles between LOPs are to be avoided because with a shallow angle of intersection, a small error in either LOP will cause a large displacement of the point of intersection between the lines (See the two dashed lines in Figure 5.4.2). Ninety-degree angles are least vulnerable to displacement of the point of intersection with errors in the bearings, but of course, it is not possible to place three lines with ninety-degree intersections in a two-dimensional space. Experienced navigators judge the shape of the triangle, rather than evaluating each of the three intersections separately. A 90° intersection with two 45° intersections is a good solution, as is an equiangular triangle with three 60° vertices.
 
-![A map of land with lines and points
+**Figure 5.4.2. LOP angles** 
 
-Description automatically generated with medium confidence](blob:https://euangoddard.github.io/08fcb58b-c7f2-43f8-ae95-375f2ef7a4c1)
-
-*Figure 5.4.2. LOP angles* 
+![](/static/figure5.4.2.png)
 
 Thus, although a position fix consists of three elements (LOPs), none of the individual elements can be said to be good or bad with respect to the choice criteria. The criteria refer to the relations among elements, not the elements themselves. 
 
