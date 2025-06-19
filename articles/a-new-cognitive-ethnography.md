@@ -1194,8 +1194,6 @@ This gestural mismatch may have happened for one of two reasons. First, PM's pro
 
 ![](/static/figure6.2.6.png)
 
-
-
 Notice that when talking to the PM, who would occupy the right seat in the simulator, the instructor modeled the trim action using his right thumb. The yoke-mounted trim switch is on the outboard horn of each control yoke. Thus, for a pilot in the right-hand seat (co-pilot's seat), the trim switch will be under the right thumb. Later in the same discussion, the instructor modeled pushing the thrust levers up with his right hand. This gave his gesture an implicit body location in the left seat (PF's seat), and his subsequent gestural reference to trim was made with the left thumb. This coherence of the handedness of gesture with the seat occupied in the imagined flight deck indicates that the imagination of component actions, such as thrust changes and trim adjustments, involves the whole situation of the body in the flight deck, not just imagining the control that is to be manipulated. 
 
 #### 6.2.4. You Have to Push
@@ -1204,9 +1202,11 @@ Conceptual object: To recover from stall attitude, push the yoke forward to caus
 
 The instructor created a role-playing narrative in which he modeled an inattentive pilot trimming into a stall. As the instructor finished his narrative, he continued to model the application of nose-up trim. PM began the following utterance speaking over the end of the instructor's narrative.
 
-![](blob:https://euangoddard.github.io/b049bcee-0971-4820-8b3f-dbe037f9e240)
+**Figure 6.2.7. It's really difficult**
 
-*Figure 6.2.7. It's really difficult*
+![](/static/figure6.2.7.png)
+
+
 
 This complex example integrates seven gestures and five spoken utterances. All of the spoken elements and three of the gestures refer to the core conceptual object being constructed. Of the other four gestures, one refers to a previously developed conceptual object, one solicits agreement from another speaker, and two provide assessments of another speaker's conceptual project. All three pilots participated in the construction of this conceptual object. 
 
