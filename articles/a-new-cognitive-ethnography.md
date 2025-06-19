@@ -135,9 +135,11 @@ My theoretical framework was the symbolic computational model of mind. This theo
 
 Thus, armed with the dominant theoretical frameworks in cognitive science at the time and a good start on the ethnography of Western navigation, I set out to learn about the cognition of individual navigators on Navy ships. I began making field observations on the bridge of several ships. 
 
-**Figure 2.2. The navigation team at the chart table on the bridge of the USS Palau. Photo by the author** 
+**Figure 2.2. The navigation team at the chart table on the bridge of the USS Pala**  
 
 ![](/static/figure2.2.png)
+
+*Photo by the author*
 
 I experienced an epiphany one afternoon while standing on the bridge of a ship watching the navigation team work as the ship entered San Diego harbor. It suddenly became clear to me that the outcomes that matter to the ship, such as whether it went aground or not, were determined by the team rather than by any individual navigator. Writing up my field notes later that night, I speculated that the navigation system, comprised of four quartermasters plus their tools, might have cognitive properties of its own. 
 
@@ -163,9 +165,11 @@ From the modern perspective, I can look back and see what was lacking in the mod
 
 From the late 1980s until 2016, my research village was the worldwide community of airline pilots. The cockpit of an airliner is a distributed cognition system, much like the bridge of a ship - except it is moving a lot faster. The papers titled "Distributed cognition in airline cockpit" (Hutchins & Klausen, 1986) and "How a cockpit remembers its speeds" (Hutchins, 1995b) are examples of the application of the distributed cognition approach to this domain. 
 
-**Figure 2.3. Briefing the approach to Christchurch, New Zealand in a Boeing 737. Photo by the author**
+**Figure 2.3. Briefing the approach to Christchurch, New Zealand in a Boeing 737** 
 
 ![](/static/figure2.3.jpg)
+
+*Photo by the author*
 
 Through arrangements with NASA, Boeing, Airbus, and many airlines around the world, I made observations in the flight decks of airliners on hundreds of revenue flights. My research team and I interviewed pilots and took still photos of them at work in the cockpit. We made video recordings of activities in flight simulators. We investigated and contributed to the design of flight deck instrumentation, operating procedures, and training programs. Employing (and enjoying) the participant observation aspect of traditional ethnography, I earned a commercial pilot license with qualifications in the first commercially successful airliner, the Douglas DC-3, and in two modern business jets. I also completed the training in the Boeing 747-400 (at Boeing in 1991) and the Airbus A320 (at America West Airlines in 1995). 
 
@@ -451,9 +455,11 @@ Here (in *italic* font) is a description of the fine detail of P's multimodal 
 
 *Presently, the plotting arm lies across a scale value that is greater than the bearing of the current landmark.*
 
-**Figure 5.1.1. P locating bearing on hoey. Frame from a video by the author**
+**Figure 5.1.1. P locating bearing on hoey**
 
 ![](/static/figure5.1.1.png)
+
+*Frame from a video by the author*
 
 Let's examine P's experience of this moment, considering only the proprioceptive, visual, and tactile modalities. 
 
@@ -489,9 +495,11 @@ Beyond the domain of navigation, the protractor scale is a domesticated space th
 
 *In the last few cm of motion as the right hand arrives at the edge of the protractor, P pushes the hoey arm away from his body (toward lower scale values), while pressing the base into the chart to inhibit its rotation, to align roughly with the scale value 057. There follows a fine adjustment of the position of the hoey arm on the scale value. P overshoots the target by perhaps a few degrees (scale tics are about 2 mm per degree apart), then pulls the hoey arm back to the correct position.* 
 
-**Figure 5.1.2. Setting the hoey arm to the bearing on the scale. Frame from a video by the author**
+**Figure 5.1.2. Setting the hoey arm to the bearing on the scale**
 
 ![](/static/figure5.1.2.png)
+
+*Frame from a video by the author*
 
 This is interpolation in action. 
 
@@ -519,9 +527,11 @@ When used to plot an LOP, the hoey is a digital-to-analog converter, and when lo
 
 *P's torso and head begin to move back from the table and up, widening his visual perspective. His left hand opens over the hoey lock and begins to push the hoey base north (away from the body). His left thumb remains resting on the edge of the hoey lock ring, and the fingers of his left hand extend over and rest on the left quadrant of the protractor scale. Simultaneously, P's right-hand fingers spread and anchor the hoey arm, preventing the arm from being pushed away from the body. This results in the rotation of the entire hoey-plus arm assembly around the pivot point formed by P's right-hand fingers. All of this is performed as a single rapid, fluid coordinated motion of both hands and head.*
 
-**Figure 5.1.3. Aligning the hoey with the chart's direction frame. Frame from a video by the author**
+**Figure 5.1.3. Aligning the hoey with the chart's direction frame**
 
 ![](/static/figure5.1.3.png)
+
+*Frame from a video by the author*
 
 This is the transition from setting the bearing angle on the hoey to aligning the hoey protractor with the chart direction frame. This rotation produces approximate alignment of the hoey base with the directional frame of the chart. In this and the following panels, we can see the partial decomposition of the task of getting the hoey aligned simultaneously with the direction frame of the chart and the depiction of the landmark. 
 
