@@ -716,54 +716,6 @@ Such a large triangle was clear evidence of the presence of an error somewhere i
 
 Table 5.3.1 has two columns. In the left column are descriptions of the observed actions. In the right column are descriptions of the enactment of the phenomenal objects of interest that can be expected to accompany the observed behavior, given the understanding that enactment is a dynamic, multimodal, continuous, temporally extended, and affectively colored activity that integrates perception, action, and imagination. I recommend that the reader first read down the left column, consulting the accompanying figures to get a sense of P's course of action. Once the course of action is clear, the reader will be able to judge the aptness of the descriptions of the enactment. I take the descriptions of the observed activities to be unproblematic. They are based on good quality video with multiple audio streams and informed by an extensive body of background ethnographic information (see Hutchins, 1995a). Some of the descriptions of enactment are also straightforward. Some follow directly from the observed activity, and others can be inferred and justified by the background ethnography. There are, however, some aspects of the enactment that are clearly speculative. I have marked these in the table with the phrase, "Let us *speculate*." 
 
-\|
-
-Observed activity
-
-\|
-
-Enactment of phenomenal objects
-
-\|
-|
-
-P aligned the hoey arm approximately for one landmark and placed his right index finger on the location of the landmark forming a pivot. He then moved the base of the hoey left, rotating the arm slightly clockwise with respect to the previously plotted LOP for that landmark. This rotation brought the provisional LOP into the interior of the previously plotted triangle, thus reducing the size of the triangle formed with the other two LOPs. 
-
-\|
-
-This manipulation of the hoey on the surface of the chart integrates motor, visual, proprioceptive, and tactile experience in an enacted representation of a provisional LOP. Performed in the culturally meaningful space of the chart, this enacts complex conceptual content. Not just a tentative new LOP, but a clockwise rotation, a shift of the LOP to the west-southwest, a smaller triangle, and an improved fix. Examining the placement of the tool on the chart adds stable visual elements to the enacted representation. And these are only the aspects that are demonstrably relevant to the current activity.
-
-\|
-|  |
-
-P must have also experienced the friction of the hoey on the chart surface, the mass distribution of the hoey, and the transparency of the plastic in the hoey arm. These are present in the sensorimotor contingencies of tool manipulation. 
-
-\|
-
-\|
-
-Observed activity
-
-\|
-
-Enactment of phenomenal objects
-
-\|
-|
-
-
-
-\|
-|
-
-P then re-plotted the three LOPs, adding 3 degrees to each. This produced the desired small fix triangle. 
-
-\|
-
-These three concepts form a synergistic cognitive ecosystem in which each of them makes the others stronger. (figure 5.3.2, right)
-
-\|
-
 *Table 5.3.1. P's activity and the enactment of phenomenal objects*
 
 ![A drawing of a person working on a project
