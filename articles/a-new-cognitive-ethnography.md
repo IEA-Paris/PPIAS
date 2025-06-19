@@ -1108,24 +1108,7 @@ Because this action cannot be functional, we might ask what other kind of role i
 
 SO then emphatically gestured to the tank number three gauge, while he said, "still losing." This last gesture drew attention away from the function of the needle (that which the prior gesture, the flick, demanded) to the actual fuel quantity level that the needle was indicating. In this moment, the gauge is again a representation of a feature of the fuel system. 
 
-\|
-
-SPEECH
-
-\|
-
-GESTURE IN SPACE
-
-\|
-|
-
-in number three quite a bit
-
-\|
-
-Moved hand away from the panel and into lap
-
-\|
+![](/static/table1.5.png)
 
 Finally, SO returned his hands to his lap, indicating that his turn was completed.
 
