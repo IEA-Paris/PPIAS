@@ -1172,9 +1172,7 @@ Every pilot knows that if you do not trim, in order to decelerate, you must pull
 
 **Figure 6.2.4. Back pressure only**
 
-![](blob:https://euangoddard.github.io/49dcad09-6f56-4e06-a057-6ee98fd50f93)
-
-
+![](/static/figure6.2.4.png)
 
 The conceptual projects developed by the pilots and instructor are richer and more complex than any turn of talk or gesture can depict. Talk and gesture highlight components of the underlying project but never approach an exhaustive account. Sharing the underlying model, the pilots experience a flow of expectations shaped by their own trains of thought around the network of concepts in the model and the cues provided by the actions and words of the others.
 
