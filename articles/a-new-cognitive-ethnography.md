@@ -718,6 +718,12 @@ Table 5.3.1 has two columns. In the left column are descriptions of the observed
 
 **Table 5.3.1. P's activity and the enactment of phenomenal objects**
 
+![](/static/table1.png)
+
+![](/static/table2.png)
+
+![](/static/table3.png)
+
 
 
 **Figure 5.3.2. P manipulating the hoey (left). Mutual elaboration of concepts on (right). Follow black arrows through a sequence of insights. Red arrows are mutual support**
