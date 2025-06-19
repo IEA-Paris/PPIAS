@@ -1050,71 +1050,9 @@ The spatial layout of the panel (Figure 6.1.2. provides a diagram taken from a 7
 
 The topology of the painted lines and switch positions enables the crew to make conceptual inferences with simple and robust perceptual skills. For example, figuring out where fuel will flow can be accomplished by moving visual attention along lines on the panel. 
 
-\|
+**Table 6.1. Correspondences between components on the fuel panel and components in the fuel system**
 
-In the system 
-
-\|
-
-On the panel
-
-\|
-|
-
-Fuel tank
-
-\|
-
-Quantity gauge
-
-\|
-|
-
-Fuel line
-
-\|
-
-Painted line
-
-\|
-|
-
-Boost Pump
-
-\|
-
-Pump control switch
-
-\|
-|
-
-Pressure sensor
-
-\|
-
-Pressure indicator
-
-\|
-|
-
-Valve
-
-\|
-
-Valve control switch
-
-\|
-|
-
-Fuel flow established by valve position
-
-\|
-
-Position of valve control with respect to painted lines
-
-\|
-
-*Table 6.1. Correspondences between components on the fuel panel and components in the fuel system.*
+![](/static/table6.1..png)
 
 The simplified topology of the panel permits the pilots to reason about the state and behavior of the fuel system by "seeing" the panel in a particular way. For example, the valve controller has a line painted on its top surface. When the controller is in the cross-feed position, this line appears to connect the painted lines that depict the fuel line arriving at and departing from the valve. The rotational action of the cross-feed valve controllers, combined with the shape of the controller knob, facilitates seeing the open and closed positions of the valve as flow through or blocked flow. These may seem to be trivial design features, but they have important cognitive consequences.
 
