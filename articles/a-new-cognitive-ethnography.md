@@ -1138,15 +1138,11 @@ There is a difference between the way Boeing teaches this maneuver and the way i
 
 ![](/static/figure6.2.1.png)
 
-
-
 Boeing teaches the maneuver using this second, more difficult, approach to stall recovery technique. The pilots in these vignettes refer to this as the "Boeing way." The procedure shown in the Flight Crew Operating Manual (FCOM) (Figure 6.2.1) is a generic procedure that can be used to recover from an approach to a stall in any configuration (setting of flaps and landing gear). The pilots are preparing to practice an approach to a particular kind of stall event known as a departure stall. This is flown with the landing gear retracted, the flaps extended at 5 degrees, and with a 20-degree bank attitude (Figure 6.2.2). The flap setting is a key element because it determines the speed at which the maneuver is begun as well as the target speed for its completion. 
 
-![A screenshot of a white background
+**Figure 6.2.2. The practice procedure for the recovery from an approach to the "departure stall" as it appears on the computer monitor in the pre-simulator briefing**
 
-Description automatically generated](blob:https://euangoddard.github.io/b77412fe-3c6a-4caf-b3a9-c489eef3d184)
-
-*Figure 6.2.2. The practice procedure for the recovery from an approach to the "departure stall" as it appears on the computer monitor in the pre-simulator briefing*
+![](/static/figure6.2.2.png)
 
 Because coherent meaning structures are created by multiple utterances, we organize the presentation by cases rather than by utterances. A single conceptual object is created in each case. Each case is given a brief descriptive title and begins with a concise description of the conceptual object that is constructed in the case. 
 
