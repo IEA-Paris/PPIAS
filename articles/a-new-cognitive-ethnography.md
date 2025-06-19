@@ -1310,8 +1310,6 @@ In this section, I will present an analysis of just one event recorded in a Boei
 
 **Photo by the author**
 
-
-
 Ensuring that an airplane follows its planned flight path is the formal responsibility of the PF. In an automated airplane, this is accomplished primarily via visual attention. However, though this is not one of PM's official duties, the eye gaze data show that the PM also monitored the flight path by directing his gaze to the altitude, vertical speed, and airspeed indicators on his primary flight display (PFD). Similarly, modifying the flight route while in flight is the formal responsibility of the PM. However, we observed that the PF also contributed visual and verbal attention to this task. Thus, each pilot went beyond his formal responsibilities by monitoring the actions of the other pilot. 
 
 While still more than 30 minutes from their destination, the crew programmed the flight management computer for the arrival procedure. This requires the crew to retrieve information from a navigation chart and enter the information into the airplane's flight management computer system. PM held the printed arrival chart in his hands and said, "okay, so after Helens, then we're gonna go to Battle Ground." This is a spoken representation of one leg of the arrival from a waypoint called HELNS to a waypoint called Battle Ground. While producing this utterance, PM's eyes first jumped around the chart, making several brief fixations before fixating on the depiction of the HELNS waypoint. He then fixated just below the depiction of the HELNS waypoint (along the path of flight) for about half a second, then further down the route of flight for another half second. This was followed by a saccade to the information box for the Battle Ground waypoint, where he fixated for almost a full second.
@@ -1320,11 +1318,11 @@ This short vignette allows us to see how PM goes about seeing the static marks o
 
 Figure 6.3.2 shows this interaction. At this moment, the flight route has been represented in the flight deck system in three ways: (a) as graphics and text on the arrival chart, (b) in the pattern of the PM's eye gaze over the chart, and (c) in the words of the PM. PM's eye gaze and speech reveal an intrapersonal dynamic configuration of visual and verbal attention in the inspection of the chart and the construction of the utterance. The representation of the route in speech lags the enactment of the representation of the route in eye gaze. This lag is expected because the pilot must know the identities of the waypoints before he can verbalize them. What is not so obvious is the way the depiction of the route on the chart, in concert with the cultural practices of chart reading in the professional pilot community, provides the resources for the pilot to enact the route in motor activity (eye gaze) by reading the chart in a particular way. 
 
-![A screenshot of a map
+**Figure 6.3.2. Three parallel representations of flight route** 
 
-Description automatically generated](blob:https://euangoddard.github.io/0fe1fbaf-c916-4480-9f29-f3e0d20f7b40)
+![](/static/figure6.3.2.png)
 
-*Figure 6.3.2. Three parallel representations of flight route. Arrival Procedure Chart (upper left); PM's eye gaze (upper right); PM's verbal description (lower).* 
+*Arrival Procedure Chart (upper left); PM's eye gaze (upper right); PM's verbal description (lower).* 
 
 Collecting eye-tracking data on both pilots simultaneously allows us to observe the allocation of visual attention by the flight crew system. While the PM was reading the chart as described above, the PF looked at the blank space on the computer interface where the name of the next waypoint after HELNS should be entered. The PM's spoken utterance thus coordinated the allocation of visual attention by the two pilots, each using a different cultural practice of reading, to two different representations of the flight route, one on the chart and the other in the waypoint list on the computer interface. This coordinating effect is only possible because the language of sequential relations applies to both kinds of reading practices.
 
