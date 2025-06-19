@@ -1134,9 +1134,11 @@ One of the maneuvers practiced by the pilots is called an Approach to Stall Reco
 
 There is a difference between the way Boeing teaches this maneuver and the way it is taught and practiced at the airline for which the pilots work. A pilot can approach a stall by holding back pressure on the yoke as the airplane decelerates. To recover from a stall approached this way, a pilot increases engine power and simply relaxes the back pressure on the yoke. This is how the maneuver is taught by the airline for which the pilots work. This is a way to produce an approach to a stall, and it allows pilots to experience and understand the cues that indicate that a stall is imminent. However, stalls in real-world operations are seldom approached by pilots holding back pressure on the yoke. A more realistic way to approach a stall is to use stabilizer trim to neutralize control yoke pressures while decelerating. To recover from a stall approached this way, the pilot adds power and must push the yoke forward to prevent the nose of the airplane from rising. If the nose is allowed to rise, it can cause the airplane to stall again. Quite a lot of force is required to push the yoke forward in this situation. While pushing, the pilot applies nose-down stabilizer trim so that a flying attitude can eventually be maintained without continuing to push the yoke forward. 
 
-![](blob:https://euangoddard.github.io/d07f8b7e-c50c-42d0-bbb3-a758c1f5c990)
+**Figure 6.2.1 FCOM The "Approach to Stall Recovery" procedure as it appears in the Flight Crew Operations Manual**
 
-*Figure 6.2.1 FCOM The "Approach to Stall Recovery" procedure as it appears in the Flight Crew Operations Manual*
+![](/static/figure6.2.1.png)
+
+
 
 Boeing teaches the maneuver using this second, more difficult, approach to stall recovery technique. The pilots in these vignettes refer to this as the "Boeing way." The procedure shown in the Flight Crew Operating Manual (FCOM) (Figure 6.2.1) is a generic procedure that can be used to recover from an approach to a stall in any configuration (setting of flaps and landing gear). The pilots are preparing to practice an approach to a particular kind of stall event known as a departure stall. This is flown with the landing gear retracted, the flaps extended at 5 degrees, and with a 20-degree bank attitude (Figure 6.2.2). The flap setting is a key element because it determines the speed at which the maneuver is begun as well as the target speed for its completion. 
 
