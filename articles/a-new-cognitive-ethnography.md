@@ -810,7 +810,9 @@ The verbal exchange is just one element of the interaction. The interaction is c
 
 *The bearing recorder first proposes two landmarks. He leans over the chart (saying, "It'll be ...") and uses his left index finger to quickly trace a line from a landmark called Ballast Point to the approximate location of the EP (saying "that"). His finger wavers for a moment, making a loose clockwise loop over the chart, then he traces a line from the landmark called Bravo Wharf (saying " 'n that"). BR's left hand remains in the vicinity of the*
 
-*Figure 5.4.3 Choosing LMs. Frame from a video by the au*
+**Figure 5.4.3 Choosing LMs. Frame from a video by the author**
+
+![](/static/figure5.4.3.png)
 
 *P interrupts BR's activity by moving his right hand, middle finger extended, into the area over the chart where the estimated position has been plotted. BR withdraws his left hand from the area as P's right hand comes in. Quickly tracing the imagined LOPs from each landmark as each is named, P revisits the same landmarks just mentioned by BR, "Ballast Point, Bravo."* 
 
