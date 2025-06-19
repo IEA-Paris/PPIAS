@@ -1088,42 +1088,7 @@ SO changed topics (introduced a new conceptual object) at this point, and his ge
 
 Here, the gesture and the speech were almost completely congruent. The gestures draw visual and motor attention to the lines painted on the panel that depict the pipes in the system that move fuel from the number one tank, through the boost pumps, and to the engine's one fuel feed valve. The gestures highlight specific elements of the panel, but the speech "feed" refers to an event in the fuel system. In this moment, the panel is "seen as" the fuel system. The up and down motion of the fingers is seen as the movement of fuel through the pipes. The panel is, at this moment, a representation of the fuel system. 
 
-\|
-
-SPEECH
-
-\|
-
-GESTURE IN SPACE
-
-\|
-|
-
-to both
-
-\|
-
-Hand raised away from the surface of the panel
-
-\|
-|
-
-engine one
-
-\|
-
-Moved hand across panel to the area of the controls for tank and engine three, pointing to engine three cross-feed valve control
-
-\|
-|
-
-and three
-
-\|
-
-Moved hand back across the panel to the area on the controls for tank and engine number one
-
-\|
+![](/static/screenshot-2025-06-18-at-8.06.35-pm.png)
 
 In the brief statement, "I tried to feed from number one to both engine one and three," SO explained that he had remembered to feed fuel to engine three before he turned the tank three boost pumps off. The gesture accompanying this section was complex and quickly executed. SO pointed to the tank one gauge, to the tank one pump switches (which were in the ON position), then to the engine three cross-feed valve controller, and to the engine one cross-feed controller. These gestures drew attention to the controllers that indicate that the valves were open and supplying fuel to engines one and three from tank one. Some of the motions of the hand also followed the flow of fuel through the system. The panel continues as a representation of the fuel system. 
 
