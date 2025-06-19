@@ -1206,8 +1206,6 @@ The instructor created a role-playing narrative in which he modeled an inattenti
 
 ![](/static/figure6.2.7.png)
 
-
-
 This complex example integrates seven gestures and five spoken utterances. All of the spoken elements and three of the gestures refer to the core conceptual object being constructed. Of the other four gestures, one refers to a previously developed conceptual object, one solicits agreement from another speaker, and two provide assessments of another speaker's conceptual project. All three pilots participated in the construction of this conceptual object. 
 
 Let's look first at the three push gestures produced by PM. While saying "It is very really difficult," PM modeled pushing the yoke forward. PM repeated the yoke-pushing gesture while saying "nose down." Finally, he said, "because you have to push," accompanied by a third pushing gesture. Each of the pushing gestures modeled pushing the yoke forward, and all are semantically congruent with the spoken words "to push" that occur at the end of the utterance. PM thus produced two anticipatory gestures followed by a third one that was produced simultaneously with the talk it elaborated. There are three content nodes represented in the speech stream. Each bears a different semantic relation to the conceptual content of the push gestures. The pilot action required to accomplish the recovery is represented by the spoken fragment, "you have to push." This spoken element bears a congruent relation to the push gestures. Pushing the yoke forward causes a nose-down pitch attitude represented in the spoken fragment "nose down." This spoken element bears a complementary (metonymic) relation to the push gestures. The recovery itself is represented by three spoken fragments, the first two produced by PM and the third produced by PF: "It's very really difficult," "back to normal," "To ah::: to recover from." These spoken elements bear a semantically complementary (synecdoche) relation to the push gestures. 
@@ -1220,9 +1218,11 @@ Conceptual object: Airplane dynamics; airplanes with engines mounted under the w
 
 As with the previous case, this one is so complex that a full analysis is not possible here. In this case, all but one of the spoken elements and all of the gestures participate in the construction of the conceptual object. We can simplify the discussion somewhat by noting that the conceptual object has two principal parts: the location of the engines under the wing, and the pitch-up moment created by increasing thrust on engines that are so located. The instructor constructs the engine location by himself. The resulting pitch-up moment is collaboratively constructed by PF and the instructor. 
 
-![](blob:https://euangoddard.github.io/9d887abd-1d07-4136-a8ae-6f6f564d7406)
+**Figure. 6.2.8. These engines**
 
-*Figure. 6.2.8. These engines*
+![](/static/figure6.2.8.png)
+
+
 
 "Underslung" describes a relationship between the engine and the wing. To create the relationship, the instructor used his body to enact the key parts of the airplane. He began by cupping his hands and holding them below his armpits while saying, "Once those engines." 
 
