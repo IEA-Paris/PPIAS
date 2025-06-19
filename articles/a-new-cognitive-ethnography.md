@@ -1154,7 +1154,7 @@ Conceptual object: Airplane dynamics; accelerate an airplane from stall speed to
 
 **Figure 6.2.3. Flaps 5 speed**
 
-![]()
+![](/static/figure6.2.3.png)
 
 
 
