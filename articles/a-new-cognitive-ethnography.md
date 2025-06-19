@@ -1182,7 +1182,7 @@ Conceptual object: A comparison of techniques, from two implied character viewpo
 
 **Figure 6.2.5. Realistic the Boeing way**
 
-
+![](/static/figure6.2.5.png)
 
 By using the words "the Boeing way," PM refers to the earlier discussion that established the contrast between his company's technique of entering a stall recovery maneuver using back pressure on the yoke only (no stabilizer trim) and the "Boeing way" that involves trimming as the airplane slows on the stall entry. Framing the topic as "It's realistic the Boeing way" constructs an implicit comparison between the techniques. The instructor knew this, and the movement of his right thumb models the action that PM would take as a pilot flying (from the right seat) when he trims the airplane. The conceptual schema was clear at the pause before the word "Because." Possible projections included elaborating on either the realistic or the not realistic method. The instructor's gesture is an iconic representation of an anticipated spoken description of trimming in accordance with the realistic method. But PM does not follow that projection of the schema. Instead, he elaborates on the not-realistic method that his company uses. 
 
