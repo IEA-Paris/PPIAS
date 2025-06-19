@@ -1190,9 +1190,11 @@ This case is interesting because the instructor's gesture is semantically congru
 
 This gestural mismatch may have happened for one of two reasons. First, PM's projection of a reason for Boeing realism could have been illustrated with either a feature of the Boeing technique or by a feature of PM's company's technique. In choosing to model a feature of the Boeing technique, the instructor may have simply mistaken which continuation PM was projecting. However, the situation could be even more interactive. A second reason for the mismatch is that PM may have also been projecting a feature of the Boeing technique, but once this had been created by the instructor in the collaborative construction process, PM was free to provide the other meaningful completion. This interpretation also might rely on something like the Grice's (1975) maxim of quantity. Because the instructor had already illustrated the distinctive feature of the Boeing way, PM could increase the informativeness of his contribution by describing the distinctive feature of his company's procedure: "We always manage to keep our trim forward, you know, out of habit." PM can refer to this as keeping the trim "forward" because the stabilizer trim indicator is mounted on a horizontal surface at both sides of the center console. On that indicator, airplane nose-down trim is forward and nose-up trim is aft (Figure 6.2.6). 
 
-![](blob:https://euangoddard.github.io/6367c352-55ba-4d0e-a3b6-d8dcf2d6ddc3)
+**Figure 6.2.6. Stabilizer Trim Indicator**
 
-*Figure 6.2.6. Stabilizer Trim Indicator*
+![](/static/figure6.2.6.png)
+
+
 
 Notice that when talking to the PM, who would occupy the right seat in the simulator, the instructor modeled the trim action using his right thumb. The yoke-mounted trim switch is on the outboard horn of each control yoke. Thus, for a pilot in the right-hand seat (co-pilot's seat), the trim switch will be under the right thumb. Later in the same discussion, the instructor modeled pushing the thrust levers up with his right hand. This gave his gesture an implicit body location in the left seat (PF's seat), and his subsequent gestural reference to trim was made with the left thumb. This coherence of the handedness of gesture with the seat occupied in the imagined flight deck indicates that the imagination of component actions, such as thrust changes and trim adjustments, involves the whole situation of the body in the flight deck, not just imagining the control that is to be manipulated. 
 
