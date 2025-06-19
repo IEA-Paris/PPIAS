@@ -1062,24 +1062,7 @@ With C and FO oriented to him and his panel, SO continued his account of the pro
 
 *SO: I don't know we must be losing it very quickly you see right now I-\2\I turned the pumps off ok I tried to feed from number one to both engine one and three but we're still losing in number three quite a bit*
 
-\|
-
-SPEECH
-
-\|
-
-GESTURE IN SPACE
-
-\|
-|
-
-right now
-
-\|
-
-Placed index finger on, but did not depress the fuel quantity test switch
-
-\|
+![](/static/screenshot-2025-06-18-at-7.45.29-pm.png)
 
 SO began his account by gesturing to (placing his finger on but not depressing) the fuel quantity test switch while saying "right now." There was nothing in SO's words about the fuel quantity test button. He had pressed it earlier, of course, as part of the diagnosis procedure. But during his explanation of the problem to the other crew members, SO neither mentioned nor pressed this button. He only touched it. We believe that the other crew members interpreted this as an indication that SO had already tested the gauges (in fact, he had).
 
