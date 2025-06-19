@@ -1104,7 +1104,7 @@ This flick was not performed in SO's original diagnosis and was not a report of 
 
 Because this action cannot be functional, we might ask what other kind of role it might be playing here. For one thing, it returns the narrative to the present. It is a way of emphasizing that the fuel level shown by the number three tank gauge is the salient problem. At a more abstract level of description, flicking a gauge is a way to produce an expected reading when an unexpected reading has been encountered. In that sense, this action could also be read as an assertion by SO that he would have liked the behavior of the gauge to be other than it was.
 
-
+![](/static/table1.4.png)
 
 SO then emphatically gestured to the tank number three gauge, while he said, "still losing." This last gesture drew attention away from the function of the needle (that which the prior gesture, the flick, demanded) to the actual fuel quantity level that the needle was indicating. In this moment, the gauge is again a representation of a feature of the fuel system. 
 
