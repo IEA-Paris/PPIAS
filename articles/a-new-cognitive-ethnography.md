@@ -1080,24 +1080,7 @@ SO next made a motion over the number three tank boost pump switches that mimick
 
 The boost pumps being off raises the question of where the fuel for engine three was coming from. The topology of the panel facilitates certain inferences about the functional behavior of the fuel system, and SO next moved to demonstrate these inferences to the other crew members.
 
-\|
-
-SPEECH
-
-\|
-
-GESTURE IN SPACE
-
-\|
-|
-
-I tried
-
-\|
-
-Moved fingers from the tank three boost pump switches to the area of the tank one boost pump switches
-
-\|
+![](/static/screenshot-2025-06-18-at-7.58.03-pm.png)
 
 SO changed topics (introduced a new conceptual object) at this point, and his gesture directed attention to the other side of the fuel panel, where subsequent events would be described. He was now beginning to explain how he established an alternative fuel source for engine number three. The use of the past tense "tried" placed the action referred to in the past with respect to the present course of action.
 
