@@ -734,11 +734,11 @@ Table 5.3.1 has two columns. In the left column are descriptions of the observed
 
 The tentative nature of these actions marks this exploratory manipulation as an example of the class of actions that Murphy (2004) has called "action in the subjunctive mood." These are "as-if" actions or "may it be thus" actions. These actions produce an ephemeral experience of potential, but not yet realized, states of affairs or processes. The fact that these activities are enacted in the subjunctive mood, marked as projecting or anticipating a possible future, is very important. Let us *speculate* that this projection keeps the enacted, embodied anticipation of clockwise rotation active during the following seconds of activity. 
 
-![A close-up of a protractor
+**Figure 5.3.3. The superimposition of imagined clockwise rotation (motor anticipation) onto the visual experience of the hoey degree scale**
 
-Description automatically generated](blob:https://euangoddard.github.io/695abe2b-a479-4707-8019-beba0aa3c3d6)
+![](/static/figure5.3.3.png)
 
-*Figure 5.3.3. The superimposition of imagined clockwise rotation (motor anticipation) onto the visual experience of the hoey degree scale. Light-gray solid lines represent the position of the hoey arm when aligned with the 120-degree mark. Dashed lines represent the imagined location of the hoey arm if it were rotated slightly clockwise. The image of a number slightly larger than 120 is an emergent property of this interaction between the contents of visual experience and motor anticipation.*
+*Light-gray solid lines represent the position of the hoey arm when aligned with the 120-degree mark. Dashed lines represent the imagined location of the hoey arm if it were rotated slightly clockwise. The image of a number slightly larger than 120 is an emergent property of this interaction between the contents of visual experience and motor anticipation.*
 
 There are two speculations here, both of which concern the process of sensorimotor integration. The first is that the enactments of the LOPs produced by P are temporally extended such that anticipatory elements formed early in the process can affect elements that are formed later in the process. The second speculation is that the representations enacted by P are multimodal, generative, and that the contents of the various modalities may interact with one another. There is ample evidence for the presence of processes that support both of these speculations. 
 
