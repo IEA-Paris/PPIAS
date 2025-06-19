@@ -838,11 +838,9 @@ The trajectory of BR's gesture suggests some lines that pass near landmarks and 
 
 BR's gesture has a velocity profile. BR's hands move fast in some parts of the trajectory, and they move slowly in other parts. In others, the hands come nearly to a stop. Meaningful gestures often come in the form of strokes that are demarcated by pauses before and after the meaningful stroke. These are called pre- and post-stroke holds (McNeill, 1992; Streeck, 1993). Figure 5.4.5 shows a tic mark at the location of BR's fingertip in each frame of the video. Sparse tic marks indicate rapid motion, whereas dense areas of tic marks indicate slow motion. This velocity profile suggests pre- and post-stroke holds for two gestural strokes: one on the east-southeast-ward stroke from Ballast Point through the EP, and the other on the south-southwest-ward stroke from Bravo Wharf through the EP. 
 
- ![A map of land with lines and directions
+**Figure 5.4.5. Velocity profile of the gesturing finger**
 
-Description automatically generated with medium confidence](blob:https://euangoddard.github.io/76e923e1-810e-4169-bd2c-a4636364af3d)
-
-*Figure 5.4.5. Velocity profile of the gesturing finger*
+![](/static/figure5.4.5.png)
 
 Another useful cue is the shape of the gestural trajectory. Because LOPs are, by definition, straight lines, gesture segments that are curved are unlikely to be meaningful depictions of virtual lines of position. This cue is not, by itself, sufficient to pick out the proposed LOP's. In fact, the straightest segment of the gesture trajectory does not correspond to any possible LOP. 
 
