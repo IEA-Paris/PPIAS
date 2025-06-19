@@ -93,9 +93,11 @@ With an intelligence test of the sort our team used in Manus, the theory conce
 
 Funded by the Social Science Research Council, I went back to Papua New Guinea in 1975. Following in the footsteps of the great ethnographer, Bronislaw Malinowski, I went to the Trobriand Islands to do my PhD dissertation research. The Trobriand Islands was an apt choice because some authors, working from Malinowski's transcriptions of magic spells, had concluded that the Trobriand Islanders did not think logically (Lee, 1949). Once installed in a village, I searched for a naturally occurring activity that would allow me to assess reasoning abilities. I settled on land litigation. Because land litigation is conducted in public, I could record performances in the task. Land litigation is clearly cognitive because litigants must construct a narrative history of a piece of land that results with them holding rights, while simultaneously heading off anticipated counter arguments of their opponents. And because, on a small coral island, nothing is more important that rights in land, the motivation to take the task seriously is built into the activity. 
 
-**Figure 2.1. The author recording land litigation in a Trobriand Island village in 1976. Photo by Dona Hutchins**
+**Figure 2.1. The author recording land litigation in a Trobriand Island village in 1976** 
 
 ![](/static/figure2.1.png)
+
+*Photo by Dona Hutchins*
 
 My theory was a combination of propositional logic and schema theory, as it was then developed in cognitive science (Rumelhart, 1975). Schema theory posits underlying conceptual structures that bring organization to knowledge and belief. A schema for buying, for example, includes roles for a buyer, a seller, an item to be bought, and a price paid. The schema describes relations among these roles. The buyer pays the price to seller in exchange for the item. The schema also specifies logical relations. The payment of a price is a necessary condition for the transfer of an item. This can be expressed as a premise: The transfer of the item implies that a price was paid. Binding actual events and things in the world to the roles in the schema produces propositions that may be assigned a truth value. "John paid Jane $2" is a proposition, which might be true or false. If the proposition "John paid something to Jane" can be shown to be false, it can be inferred that no item was bought by John from Jane. T implies P. P is observed to be false. Therefore, T is false. This is an example of *modus tollens* inference. 
 
