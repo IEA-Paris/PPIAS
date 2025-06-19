@@ -1152,9 +1152,11 @@ Excerpts from the transcript are provided with each case. In the transcripts, th
 
 Conceptual object: Airplane dynamics; accelerate an airplane from stall speed to flaps 5 speed, constructed from the point of view of the crew.
 
-![](blob:https://euangoddard.github.io/2198a46c-7edf-4075-8a50-2182a6b1867c)
+**Figure 6.2.3. Flaps 5 speed**
 
-*Figure 6.2.3. Flaps 5 speed*
+![]()
+
+
 
 The instructor read the procedure from the FCOM, tracing the text with his left index finger as he read, "Return to speed appropriate for the configuration." He then looked at the computer monitor and pointed to highlight the portion of the procedure described by the words "Finish: FLAPS 5 speed." The instructor elaborated this part of the maneuver, and as he withdrew his right hand from a full-hand point to the procedure shown on the computer monitor, he said, "flaps five speed." Simultaneously, PF positioned his hands as if holding the control yoke and pushed them forward (see Figure 6.2.3). This gesture enacted the control input needed to return to flaps 5 speed. Notice that the instructor's utterance does not specify the sort of control input that will be needed to return to flaps 5 speed. PF knows that in order to accelerate, he will have to push the yoke forward. Thus, the gesture provides the cause that is not present in the verbal description of the effect "go to flaps five, flaps five speed." The words provide the effect that is not present in the gesture. The two elements mutually elaborate each other as a metonymic cause-and-effect relationship. The idea of returning to flaps 5 speed gives meaning to the push gesture, and the push gesture specifies an element of the process of returning to flaps 5 speed. This is a collaboratively constructed multimodal utterance in which the instructor's speech and the pilot's gesture are temporally concurrent. This means that the pilot's and the instructor's imaginations are running through time in parallel. The instructor's words and the pilot's gesture are semantically complementary; each highlights or brings into imagination a different but related aspect of a single conceptual object. Semantic complementarity across participant constructions is strong evidence of the existence of the shared conceptual object. 
 
