@@ -716,13 +716,11 @@ Such a large triangle was clear evidence of the presence of an error somewhere i
 
 Table 5.3.1 has two columns. In the left column are descriptions of the observed actions. In the right column are descriptions of the enactment of the phenomenal objects of interest that can be expected to accompany the observed behavior, given the understanding that enactment is a dynamic, multimodal, continuous, temporally extended, and affectively colored activity that integrates perception, action, and imagination. I recommend that the reader first read down the left column, consulting the accompanying figures to get a sense of P's course of action. Once the course of action is clear, the reader will be able to judge the aptness of the descriptions of the enactment. I take the descriptions of the observed activities to be unproblematic. They are based on good quality video with multiple audio streams and informed by an extensive body of background ethnographic information (see Hutchins, 1995a). Some of the descriptions of enactment are also straightforward. Some follow directly from the observed activity, and others can be inferred and justified by the background ethnography. There are, however, some aspects of the enactment that are clearly speculative. I have marked these in the table with the phrase, "Let us *speculate*." 
 
-*Table 5.3.1. P's activity and the enactment of phenomenal objects*
+**Table 5.3.1. P's activity and the enactment of phenomenal objects**
 
-![A drawing of a person working on a project
 
-Description automatically generated](blob:https://euangoddard.github.io/08f0c355-99b2-437d-a94d-62daa37aa0ed)
 
-*Figure 5.3.2. P manipulating the hoey (left). Mutual elaboration of concepts on (right). Follow black arrows through a sequence of insights. Red arrows are mutual support.*
+**Figure 5.3.2. P manipulating the hoey (left). Mutual elaboration of concepts on (right). Follow black arrows through a sequence of insights. Red arrows are mutual support**
 
 The tentative nature of these actions marks this exploratory manipulation as an example of the class of actions that Murphy (2004) has called "action in the subjunctive mood." These are "as-if" actions or "may it be thus" actions. These actions produce an ephemeral experience of potential, but not yet realized, states of affairs or processes. The fact that these activities are enacted in the subjunctive mood, marked as projecting or anticipating a possible future, is very important. Let us *speculate* that this projection keeps the enacted, embodied anticipation of clockwise rotation active during the following seconds of activity. 
 
