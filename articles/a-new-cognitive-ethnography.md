@@ -1278,11 +1278,13 @@ ChronoViz supports visualization and analysis of multiple sources of time-coded 
 
 In this section, I will present an analysis of just one event recorded in a Boeing 787 Dreamliner flight simulator. Both pilots wore eye-tracking glasses. Integrating dual eye-tracking data with the audio and video recordings of both pilots in ChronoViz permits us to describe the allocation of visual attention by the flight crew as a system.
 
-![A person in a cockpit
+**Figure 6.3.1. Pilot wearing eye-tracking glasses in Boeing 787 Flight Deck.** 
 
-Description automatically generated](blob:https://euangoddard.github.io/741aedf5-5892-4d94-9993-346181ca1539)
+![](/static/figure6.3.1.png)
 
-*Figure 6.3.1. Pilot wearing eye-tracking glasses in Boeing 787 Flight Deck. Photo by the author*
+**Photo by the author**
+
+
 
 Ensuring that an airplane follows its planned flight path is the formal responsibility of the PF. In an automated airplane, this is accomplished primarily via visual attention. However, though this is not one of PM's official duties, the eye gaze data show that the PM also monitored the flight path by directing his gaze to the altitude, vertical speed, and airspeed indicators on his primary flight display (PFD). Similarly, modifying the flight route while in flight is the formal responsibility of the PM. However, we observed that the PF also contributed visual and verbal attention to this task. Thus, each pilot went beyond his formal responsibilities by monitoring the actions of the other pilot. 
 
