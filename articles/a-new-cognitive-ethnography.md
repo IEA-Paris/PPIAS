@@ -1340,11 +1340,9 @@ The foregoing description provides details of the coordination of eye gaze for a
 
 To construct a cross-recurrence plot, we first define a set of Areas of Interest (AOI) in the region of the visual field where we have eye gaze data. The regions we chose are highlighted in colored boxes on the image of the B787 instrument panel, as shown in Figure 6.3.3. 
 
-![A close-up of a computer
+**Figure 6.3.3. The seven areas of interest (AOIs) defined on the Boeing 787 Dreamliner instrument panel**
 
-Description automatically generated](blob:https://euangoddard.github.io/d072b5bb-136a-4cba-a69f-525703f03e84)
-
-*Figure 6.3.3. The seven areas of interest (AOIs) defined on the Boeing 787 Dreamliner instrument panel.*
+![](/static/figure6.3.3.png)
 
 The eye gaze data for the two pilots is first mapped into the shared coordinate space of the instrument panel. To create the recurrence plot, we consider each fixation on an AOI made by the PF. We then find all instances when the PM fixated on the same AOI. For each such match, we plot a region in the recurrence plot located at the intersection of the temporal bounds of the PF fixation and the PM fixation and colored with the plotting color associated with the AOI, as shown in Figure 6.3.4. All colored regions indicate AOIs attended by both pilots. Colored regions on the diagonal indicate AOIs attended simultaneously by the two pilots. Regions to the upper right of the diagonal indicate AOIs attended by the PM before the PF. Regions to the lower left of the diagonal indicate AOIs attended by the PF before the PM. 
 
