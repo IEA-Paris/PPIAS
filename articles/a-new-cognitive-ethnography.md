@@ -752,9 +752,11 @@ Table 5.3.1 has two columns. In the left column are descriptions of the observed
 
 ![](/static/table5.png)
 
-**Figure 5.3.2. P manipulating the hoey (left). Mutual elaboration of concepts on (right). Follow black arrows through a sequence of insights. Red arrows are mutual support**
+**Figure 5.3.2. P manipulating the hoey (left)** 
 
 ![](/static/figure5.3.2.png)
+
+*Mutual elaboration of concepts on (right). Follow black arrows through a sequence of insights. Red arrows are mutual support*
 
 The tentative nature of these actions marks this exploratory manipulation as an example of the class of actions that Murphy (2004) has called "action in the subjunctive mood." These are "as-if" actions or "may it be thus" actions. These actions produce an ephemeral experience of potential, but not yet realized, states of affairs or processes. The fact that these activities are enacted in the subjunctive mood, marked as projecting or anticipating a possible future, is very important. Let us *speculate* that this projection keeps the enacted, embodied anticipation of clockwise rotation active during the following seconds of activity. 
 
@@ -1066,9 +1068,11 @@ After SO's announcement, the crew members collectively knew what SO suspected (a
 
 Once the captain and FO were situated, SO began his explanation of the problem without further prompting. As SO spoke, he turned his seat to face the fuel control panel. Because the SO uses the panel to explain his actions, it is useful to get familiar with the relevant properties of the panel. 
 
-**Figure 6.1.2. Fuel Panel Diagram. Fuel Quantity Test Switch (upper left) and Tank Three Boost Pump Switches (lower right)**
+**Figure 6.1.2. Fuel Panel Diagram** 
 
 ![](/static/figure6.1.2.png)
+
+*Fuel Quantity Test Switch (upper left) and Tank Three Boost Pump Switches (lower right)*
 
 The spatial layout of the panel (Figure 6.1.2. provides a diagram taken from a 727-training manual) is topologically, but not metrically, identical to the spatial layout of the fuel system that it depicts. The topological relations among panel components (e.g., the quantity gauges, painted lines, and pump control switches) are the same as the topological relations among the system components (e.g., fuel tanks, fuel lines, and pumps). Components that are higher on the panel generally correspond to fuel system components that are forward in the airplane. Components that are to the right on the panel generally correspond to fuel system components that are on the right side of the airplane. The panel is simplified by omitting depictions of check valves and other components that cannot be controlled from the panel.
 
