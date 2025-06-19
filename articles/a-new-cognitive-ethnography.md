@@ -1308,7 +1308,7 @@ ChronoViz supports visualization and analysis of multiple sources of time-coded 
 
 In this section, I will present an analysis of just one event recorded in a Boeing 787 Dreamliner flight simulator. Both pilots wore eye-tracking glasses. Integrating dual eye-tracking data with the audio and video recordings of both pilots in ChronoViz permits us to describe the allocation of visual attention by the flight crew as a system.
 
-**Figure 6.3.1. Pilot wearing eye-tracking glasses in Boeing 787 Flight Deck.** 
+**Figure 6.3.1. Pilot wearing eye-tracking glasses in Boeing 787 Flight Deck** 
 
 ![](/static/figure6.3.1.png)
 
