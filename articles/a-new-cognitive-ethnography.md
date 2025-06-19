@@ -1084,24 +1084,7 @@ The boost pumps being off raises the question of where the fuel for engine three
 
 SO changed topics (introduced a new conceptual object) at this point, and his gesture directed attention to the other side of the fuel panel, where subsequent events would be described. He was now beginning to explain how he established an alternative fuel source for engine number three. The use of the past tense "tried" placed the action referred to in the past with respect to the present course of action.
 
-\|
 
-SPEECH
-
-\|
-
-GESTURE IN SPACE
-
-\|
-|
-
-to feed from number one
-
-\|
-
-Moved index and middle fingers up and down between the tank one quantity gauge and the boost pump low pressure indicator lights
-
-\|
 
 Here, the gesture and the speech were almost completely congruent. The gestures draw visual and motor attention to the lines painted on the panel that depict the pipes in the system that move fuel from the number one tank, through the boost pumps, and to the engine's one fuel feed valve. The gestures highlight specific elements of the panel, but the speech "feed" refers to an event in the fuel system. In this moment, the panel is "seen as" the fuel system. The up and down motion of the fingers is seen as the movement of fuel through the pipes. The panel is, at this moment, a representation of the fuel system. 
 
