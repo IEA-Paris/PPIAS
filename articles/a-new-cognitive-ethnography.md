@@ -876,13 +876,13 @@ In the few seconds of activity spanned by the navigation vignettes, the followi
 
 **Locating bearing on hoey scale:** Multimodal engagement and sensorimotor contingencies; Continuous presence of and coupling to the world; Cultural conventions including number lines, numeric scales, and the 360-degree circle.
 
-**Setting the location of the hoey arm\*\***:\*\* Interpolation in action; Conceptual work in perceptual and motor processes deployed in the culturally constructed world; Alignment as a building block of many practices.
+**Setting the location of the hoey arm**: Interpolation in action; Conceptual work in perceptual and motor processes deployed in the culturally constructed world; Alignment as a building block of many practices.
 
-**Locking the \*\***hoey **\*\*arm\*\***:\*\* Thinking through tactile and motor modalities; Look ahead planning evident in the details of the grip on the hoey locking knob which affords rotation.
+**Locking the hoey arm**: Thinking through tactile and motor modalities; Look ahead planning evident in the details of the grip on the hoey locking knob which affords rotation.
 
-**Aligning hoey base with chart direction frame\*\***:\*\* Combined chart space and body space (visual and proprioceptive modalities); Structure on the hoey base and on chart that afford alignment of the two direction frames using simple perceptual and motor processes; Another member of the family of practices based on alignment.
+**Aligning hoey base with chart direction frame:** Combined chart space and body space (visual and proprioceptive modalities); Structure on the hoey base and on chart that afford alignment of the two direction frames using simple perceptual and motor processes; Another member of the family of practices based on alignment.
 
-**Bringing the hoey arm to the LM depiction\*\***:\*\* The articulation of chart space and body space gives meaning to body-based translational movement; The experience of meaning in perceptual and motor processes highlights the generative contribution of the MGC system; Meaning is made in the activation of the non-representational models of the hidden causes of sensation; Action is driven by the hidden causes of imagined sensation; Constraint satisfaction in action, constraints are supplied by depictions on chart (LM, direction frame) and the hoey (direction frame, angle of arm on the scale).
+**Bringing the hoey arm to the LM depiction:** The articulation of chart space and body space gives meaning to body-based translational movement; The experience of meaning in perceptual and motor processes highlights the generative contribution of the MGC system; Meaning is made in the activation of the non-representational models of the hidden causes of sensation; Action is driven by the hidden causes of imagined sensation; Constraint satisfaction in action, constraints are supplied by depictions on chart (LM, direction frame) and the hoey (direction frame, angle of arm on the scale).
 
 **Evaluating the relation of LM to EP\*\***:\*\* Courses of action are trains of thought; Pausing motion provides a stable frame of reference for mutual adaptation or settling of constraining processes, prediction, sensation; The freezing of some modalities allows focus on those that continue to change. This is concentration; The dynamics of action, both real action and imagined action, are the dynamics of thought. The motor system has its own dynamic properties which may become constraints on thought in action.
 
