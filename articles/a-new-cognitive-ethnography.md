@@ -1036,8 +1036,6 @@ A salient part of a pilot's understanding of a fuel leak is that it is a situati
 
 ![](/static/figure6.1.1.png)
 
-
-
 After SO's announcement, the crew members collectively knew what SO suspected (a fuel leak) and where he thought the problem was located (in fuel tank three). With that information, the crew members prepared to attend to the problem.
 
 Once the captain and FO were situated, SO began his explanation of the problem without further prompting. As SO spoke, he turned his seat to face the fuel control panel. Because the SO uses the panel to explain his actions, it is useful to get familiar with the relevant properties of the panel. 
@@ -1076,24 +1074,7 @@ Thus, touching the fuel quantity test button must be experienced as being about 
 
 The words "right now" indicate that the actions being reported took place recently. SO did not delay in notifying C and FO about the problem. These words also gave a sense of immediacy to the situation. They place something in the present time, but what is not yet clear. The speech and the gesture are working independently of each other here, each conveying information about different aspects of the same conceptual project: speech about when the actions took place, gesture about the initial action taken.
 
-\|
-
-SPEECH
-
-\|
-
-GESTURE IN SPACE
-
-\|
-|
-
-I -\2\ I turned the pumps off OK
-
-\|
-
-Brought index and middle fingers down onto the tank three boost pump switches
-
-\|
+![](/static/screenshot-2025-06-18-at-7.50.05-pm.png)
 
 SO next made a motion over the number three tank boost pump switches that mimicked the motion used to turn the pumps off. The switches were already in the off position. The combination of the gesture and the state of the panel, and the knowledge that boost pumps are normally on in flight, made this action unambiguous. The past-tense word "turned" provides temporal information that cannot easily be conveyed with gesture. Gestures are always in the present tense. Simultaneously, the gesture specifies which pumps have been turned off, a specification that is lacking from the speech. Speech marked the gestures as a reenactment of what SO had already done. The verbal statement did not indicate which pumps had been turned off, but the fingers did. The location of the gesture in the space of the fuel panel thus resolved an ambiguous reference in the verbal stream. The verbal component provided temporal markings that were lacking from the gesture, and the gesture provided aspects of indexical reference that were ambiguous in SO's words.
 
