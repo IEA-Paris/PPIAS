@@ -1042,11 +1042,9 @@ After SO's announcement, the crew members collectively knew what SO suspected (a
 
 Once the captain and FO were situated, SO began his explanation of the problem without further prompting. As SO spoke, he turned his seat to face the fuel control panel. Because the SO uses the panel to explain his actions, it is useful to get familiar with the relevant properties of the panel. 
 
-![A diagram of a control panel
+**Figure 6.1.2. Fuel Panel Diagram. Fuel Quantity Test Switch (upper left) and Tank Three Boost Pump Switches (lower right)**
 
-Description automatically generated](blob:https://euangoddard.github.io/fd1d2e2c-0f63-4438-96c7-cb1fe0c33265)
-
-*Figure 6.1.2. Fuel Panel Diagram. Fuel Quantity Test Switch (upper left) and Tank Three Boost Pump Switches (lower right)*
+![](/static/figure6.1.2.png)
 
 The spatial layout of the panel (Figure 6.1.2. provides a diagram taken from a 727-training manual) is topologically, but not metrically, identical to the spatial layout of the fuel system that it depicts. The topological relations among panel components (e.g., the quantity gauges, painted lines, and pump control switches) are the same as the topological relations among the system components (e.g., fuel tanks, fuel lines, and pumps). Components that are higher on the panel generally correspond to fuel system components that are forward in the airplane. Components that are to the right on the panel generally correspond to fuel system components that are on the right side of the airplane. The panel is simplified by omitting depictions of check valves and other components that cannot be controlled from the panel.
 
