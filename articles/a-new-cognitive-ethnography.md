@@ -1092,7 +1092,7 @@ Here, the gesture and the speech were almost completely congruent. The gestures 
 
 In the brief statement, "I tried to feed from number one to both engine one and three," SO explained that he had remembered to feed fuel to engine three before he turned the tank three boost pumps off. The gesture accompanying this section was complex and quickly executed. SO pointed to the tank one gauge, to the tank one pump switches (which were in the ON position), then to the engine three cross-feed valve controller, and to the engine one cross-feed controller. These gestures drew attention to the controllers that indicate that the valves were open and supplying fuel to engines one and three from tank one. Some of the motions of the hand also followed the flow of fuel through the system. The panel continues as a representation of the fuel system. 
 
-
+![](/static/table1.png)
 
 Having established the alternate source of fuel for engine three, SO pointed to the engine three fuel gauge. This was the locus of the problem. SO marked with a gesture a return to the topic of the fuel level in tank three. The logical disjunction, "but," marks a violation of a possible conceptual continuation of the situation described before. The elements that stand in disjunction are not yet clear but will be made clear by what follows.
 
