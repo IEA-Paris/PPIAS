@@ -828,11 +828,9 @@ The ephemeral gestures enact imaginary or provisional LOPs. These ephemeral stru
 
 The gesture is complex. The hands of the participants move around a lot over the chart (Figure 5.4.4). Some parts of the gesture stream are meaningful. Some are not. Some gestural strokes represent lines of position, whereas other strokes reposition the hand to begin a meaningful stroke. How do the participants distinguish the meaningful parts of the gesture from the parts they should disregard? 
 
-![A black line drawing of a triangle
+**Figure 5.4.4 Gestural trajectory**
 
-Description automatically generated](blob:https://euangoddard.github.io/7a1171e7-dedc-4187-bf6a-77a94fe32a41)
-
-*Figure 5.4.4 Gestural trajectory*
+![](/static/figure5.4.4.png)
 
 Multiple cues contribute to the identification of parts of the gesture that delineate LOPs. The participants know that the objects of interest are virtual lines of position. These lines should link landmarks with the ship's estimated position. BR says, "It'll be that 'n that." The seemingly unbound anaphora of "It" refers to the object of the understood current project that is the creation of a triplet of landmarks to be used in plotting the next position. 
 
