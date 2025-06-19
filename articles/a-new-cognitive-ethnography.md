@@ -1032,11 +1032,11 @@ After completing his diagnosis of the fuel leak situation, SO turned in his seat
 
 A salient part of a pilot's understanding of a fuel leak is that it is a situation that must be dealt with quickly. In response to the SO's announcement, the captain and FO turned in their seats to face the SO and the engineer's panel (Figure 6.1.1). 
 
-![A close-up of people in an airplane cockpit
+**Figure 6.1.1. Attending to the fuel panel. Frame from a video courtesy of NASA Ames Research Center**
 
-Description automatically generated](blob:https://euangoddard.github.io/6ef2db79-b183-4ec9-a6cf-d590234cd2b7)
+![](/static/figure6.1.1.png)
 
-*Figure 6.1.1. Attending to the fuel panel. Frame from a video courtesy of NASA Ames Research Center.* 
+
 
 After SO's announcement, the crew members collectively knew what SO suspected (a fuel leak) and where he thought the problem was located (in fuel tank three). With that information, the crew members prepared to attend to the problem.
 
