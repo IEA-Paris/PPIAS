@@ -1096,7 +1096,7 @@ In the brief statement, "I tried to feed from number one to both engine one and 
 
 Having established the alternate source of fuel for engine three, SO pointed to the engine three fuel gauge. This was the locus of the problem. SO marked with a gesture a return to the topic of the fuel level in tank three. The logical disjunction, "but," marks a violation of a possible conceptual continuation of the situation described before. The elements that stand in disjunction are not yet clear but will be made clear by what follows.
 
-
+![](/static/table1.1.png)
 
 SO flicked the gauge with his finger. This is a common technique among pilots to free a gauge needle that is believed to be stuck. From a strictly functional point of view, this is a useless action. SO detected the fuel leak by observing the rapid movement of this fuel gauge needle. The fact that it was possible to detect the fuel leak this way is evidence that the needle is not stuck. Furthermore, he had tested the freedom of the needle movement with the fuel quantity test button. Thus, the flick cannot be an attempt to free a stuck needle.
 
