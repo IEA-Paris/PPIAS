@@ -730,6 +730,8 @@ Table 5.3.1 has two columns. In the left column are descriptions of the observed
 
 **Figure 5.3.2. P manipulating the hoey (left). Mutual elaboration of concepts on (right). Follow black arrows through a sequence of insights. Red arrows are mutual support**
 
+![](/static/figure5.3.2.png)
+
 The tentative nature of these actions marks this exploratory manipulation as an example of the class of actions that Murphy (2004) has called "action in the subjunctive mood." These are "as-if" actions or "may it be thus" actions. These actions produce an ephemeral experience of potential, but not yet realized, states of affairs or processes. The fact that these activities are enacted in the subjunctive mood, marked as projecting or anticipating a possible future, is very important. Let us *speculate* that this projection keeps the enacted, embodied anticipation of clockwise rotation active during the following seconds of activity. 
 
 ![A close-up of a protractor
