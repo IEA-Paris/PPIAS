@@ -87,8 +87,8 @@ We propose a complementary strategy that inverts this logic: we begin by isolati
 
 In essence, our method proceeds as follows (see Figure 1 for visual reference):
 
-1. **We obtain *G^e^* and *O^e^* which are the subjects' implicit beliefs** about an ingroup and an outgroup partner's behavior, respectively.  Geometrically, these are the intersection points between the subject's unconditional cooperation (UC) level and their conditional cooperation (CC) strategy. From a behavioral perspective, *G^e^* and O^e^ reflect the contributions that participants implicitly anticipate from each group, absent direct information.
-2. Next, we compute the conditional cooperation that would be displayed towards an ingroup partner if that partner were expected to behave like an outgroup member. Formally, we calculate, **CG^(O^e^)^**, which is the contribution on the subject's ingroup CC curve evaluated at *O^e^*. Geometrically, this corresponds to projecting the outgroup belief *O^e^* onto the ingroup CC function (represented by the dashed purple line in Figure 1). Behaviorally, this captures how much a participant would be willing to cooperate with an ingroup partner who they expect to act like an outgroup partner.
+1. **We obtain *G^e^* and *O^e^* which are the subjects' implicit beliefs** about an ingroup and an outgroup partner's behavior, respectively.  Geometrically, these are the intersection points between the subject's unconditional cooperation (UC) level and their conditional cooperation (CC) strategy. From a behavioral perspective, *G^e^* and *O^e^* reflect the contributions that participants implicitly anticipate from each group, absent direct information.
+2. Next, we compute the conditional cooperation that would be displayed towards an ingroup partner if that partner were expected to behave like an outgroup member. Formally, we calculate, ***CG^(O^e^)^***, which is the contribution on the subject's ingroup CC curve evaluated at *O^e^*. Geometrically, this corresponds to projecting the outgroup belief *O^e^* onto the ingroup CC function (represented by the dashed purple line in Figure 1). Behaviorally, this captures how much a participant would be willing to cooperate with an ingroup partner who they expect to act like an outgroup partner.
 3. We define statistical discrimination (SD) as the difference between the conditional cooperation with an ingroup partner expected to behave as an outgroup member ***CG^(O^e^)^***, and the unconditional cooperation actually shown towards an outgroup member. In behavioral terms, this comparison controls for expectations (both equal to *O^e^*) and isolates the impact of group identity on behavior: it is a within-subject measure of how differently individuals act toward identical behaviors depending on the partner's group membership.
 4. **We compute the PbD as the difference between total discrimination (TD), and SD.**
 
@@ -118,7 +118,11 @@ Equalizing (1) and (3) we obtain:
 
 Assuming ***O_k*** = ***O^e^*,**
 
+![](/static/equation5-.png)
+
 Likewise, 
+
+![](/static/equation6-.png)
 
 ![](blob:https://euangoddard.github.io/de636b93-529f-42b0-ae79-a4e8f23ea756)                                                        **(6')**
 
