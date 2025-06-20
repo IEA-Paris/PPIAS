@@ -114,7 +114,7 @@ Implicit beliefs are derived by determining the partner contribution at the inte
 
 Equalizing (1) and (3) we obtain:
 
-![](blob:https://euangoddard.github.io/2bed4ba9-0c62-4fe5-a0c2-8fb51202b792)
+![](/static/equation5.png)
 
 ![](blob:https://euangoddard.github.io/90f7a178-87ad-44d4-8212-35f5e9b34812)                                                         **(5)**
 
