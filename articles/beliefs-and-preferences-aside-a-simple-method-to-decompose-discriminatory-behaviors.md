@@ -235,8 +235,7 @@ Third, and perhaps most strikingly, while SD toward ex-combatants is comparable 
 
 ![](/static/table1.png)
 
-\
-Note: table 1 displays the averages of the total discrimination (TD), preference-based discrimination (Pbd), and statistical discrimination (SD) from victims and non-victims against the other ingroup (panel A) and the outgroup (panel B) from. We use the t-test for comparisons between victims' and non-victims' behavior, and the Wilcoxon paired test to compare SD and PbD values within the same group.
+*Note: table 1 displays the averages of the total discrimination (TD), preference-based discrimination (Pbd), and statistical discrimination (SD) from victims and non-victims against the other ingroup (panel A) and the outgroup (panel B) from. We use the t-test for comparisons between victims' and non-victims' behavior, and the Wilcoxon paired test to compare SD and PbD values within the same group.*
 
 5.  Conclusions
 
