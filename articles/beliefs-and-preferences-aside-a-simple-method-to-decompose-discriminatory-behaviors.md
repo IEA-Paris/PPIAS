@@ -203,23 +203,23 @@ Taken together, these patterns suggest contrasting psychological foundations acr
 
 ![](/static/figure3.png)
 
-Note: Figure 3 illustrates the averages and standard deviations of the estimated implicit beliefs regarding the behavior of victims, ex-combatants, and non-victims. The light gray bars represent victims, while the dark gray bars represent non-victims.
+*Note: Figure 3 illustrates the averages and standard deviations of the estimated implicit beliefs regarding the behavior of victims, ex-combatants, and non-victims. The light gray bars represent victims, while the dark gray bars represent non-victims.*
 
-4.2.     Total, Preference-based and Statistical Discrimination
+### 4.2.     Total, Preference-based and Statistical Discrimination
 
 To produce the results presented in Figure 4, we applied the four-step procedure outlined in Sections 2 and 3 to estimate total discrimination (TD), statistical discrimination (SD), and preference-based discrimination (PbD). Following Restrepo-Plaza and Fatas (2022), TD was calculated as the difference between a participant's unconditional contribution toward an ingroup member and their contribution toward an outgroup or other ingroup member.
 
 To estimate implicit beliefs, we first obtained the parameters of equations (1) and (2) by fitting a censored Tobit model to participants' conditional cooperation decisions as a function of the partner's contribution level to the public good. These models account for the lower and upper bounds of the contribution scale and capture individual responsiveness to partner behavior.
 
-Next, we inferred each participant's implicit belief about the partner's expected contribution by solving the estimated conditional cooperation equation for the value at which it equals the observed unconditional contribution. That is, we identified the partner contribution level that would rationalize the subject's unconditional behavior under the estimated conditional strategy---our measure of ![](blob:https://euangoddard.github.io/9f8b19b2-7002-464b-b0c9-ee0bbf4cf0ce)  or ![](blob:https://euangoddard.github.io/121190d2-7fb9-4ecc-8712-1cf5df35eb13), depending on the group.
+Next, we inferred each participant's implicit belief about the partner's expected contribution by solving the estimated conditional cooperation equation for the value at which it equals the observed unconditional contribution. That is, we identified the partner contribution level that would rationalize the subject's unconditional behavior under the estimated conditional strategy---our measure of *G^e^* or *O^e^*![](blob:https://euangoddard.github.io/121190d2-7fb9-4ecc-8712-1cf5df35eb13), depending on the group.
 
 To compute SD, we re-inserted the implicit belief about the outgroup's expected behavior (![](blob:https://euangoddard.github.io/121190d2-7fb9-4ecc-8712-1cf5df35eb13)) into the conditional cooperation function estimated for the ingroup. This gave us the participant's predicted contribution toward an ingroup partner behaving like an outgroup member. We then subtracted the observed unconditional contribution toward the outgroup. The resulting difference isolates statistical discrimination: the extent to which behavior diverges when expectations are held constant but group identity differs.
 
 Finally, we computed PbD as the difference between TD and SD.
 
-Figure 4 Total, Preference-based and Statistical Discrimination from Victims and Non-Victims against the other ingroup and the outgroup
+**Figure 4 Total, Preference-based and Statistical Discrimination from Victims and Non-Victims against the other ingroup and the outgroup**
 
-![](blob:https://euangoddard.github.io/403cbe2f-d030-412a-a27c-088c74ffcd33)
+![](/static/figure4.png)
 
 Note: from left to right, Figure 4 illustrates the averages and standard deviations of the total discrimination (TD), preference-based discrimination (Pbd), and statistical discrimination (SD) against the other ingroup and the outgroup. The light gray bars represent victims, while the dark gray bars represent non-victims.
 
