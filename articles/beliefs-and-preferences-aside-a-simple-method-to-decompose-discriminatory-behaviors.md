@@ -350,3 +350,5 @@ If ***β_CG = β_UG***
 ![](/static/equation10.2.png)
 
 (3) in (10')
+
+![](/static/equation10.3.png)
