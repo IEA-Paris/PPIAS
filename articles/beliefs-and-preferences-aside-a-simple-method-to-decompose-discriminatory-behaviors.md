@@ -116,11 +116,7 @@ Equalizing (1) and (3) we obtain:
 
 ![](/static/equation5.png)
 
-![](blob:https://euangoddard.github.io/90f7a178-87ad-44d4-8212-35f5e9b34812)                                                         **(5)**
-
-Assuming ![](blob:https://euangoddard.github.io/4fcf0502-6ece-4755-88cc-20a9493c0441)**,**
-
-![](blob:https://euangoddard.github.io/67f39366-75fc-44f6-9cd7-b6c3df669b3d)                                                        **(5')**
+Assuming **,**
 
 Likewise, 
 
