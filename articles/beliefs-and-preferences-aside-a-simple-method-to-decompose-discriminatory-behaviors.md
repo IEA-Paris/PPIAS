@@ -323,32 +323,28 @@ Bohern et al. (2023) also suggest that decision-makers' responses depend on the 
 
 ## Annex 1
 
-![](blob:https://euangoddard.github.io/ee097472-39ba-4c9b-9674-4f5b2f94e441)         **                                     (9)**
+![](/static/equation9.png)
 
 (3) in (9)
 
-![](blob:https://euangoddard.github.io/f5b72264-efb4-4b38-ad84-72298aed1bf8)         **                                    (9')**
 
 (7) in (9')
 
-![](blob:https://euangoddard.github.io/c6f944e8-9b32-4fba-94f1-7930f6550a80)         **                        (9')**
+
 
 Let's assume that the subject*'s* unconditional contribution is the same than their conditional contribution if the partner contributes zero, i.e.,![](blob:https://euangoddard.github.io/c9759c53-c83b-4bd2-825d-ffc943cd7934)**.** Then, equation (9') will look like:
 
- ![](blob:https://euangoddard.github.io/3d01f75d-3c7d-4bd7-92c1-5791124fd611)         **                                                   (9')**
+
 
 If individuals are to behave better with the ingroup than with the outgroup, keeping the contributions fixed in the outgroup's expected behavior, that should be equivalent to behave worse with an outgroup that contributes what they expect from the ingroup.  Formally, that is:
 
-![](blob:https://euangoddard.github.io/1fea33d3-8462-47bc-a937-8856432dc642)**(10)**
+
 
 (8) in (10)
 
-![](blob:https://euangoddard.github.io/5d2e9942-cebf-46fb-a168-af8e338585e9)
 
-If ![](blob:https://euangoddard.github.io/87d74914-2b55-4e1e-a6d3-61bd77de1481)
 
-![](blob:https://euangoddard.github.io/73648346-88f4-485a-ac79-d4e415140344)         **         (10')**
+If 
 
 (3) in (10')
 
-![](blob:https://euangoddard.github.io/52f61b63-f36d-4997-a442-a310377cc666)         **                                    (10')**
