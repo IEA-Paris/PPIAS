@@ -146,9 +146,11 @@ Intuitively, equation (9) allows us to assess whether participants are more coop
 
 ![](/static/equation10.png)
 
-**Fourth step:**
+### **Fourth step:**
 
 In this final step, we compute preference-based discrimination (PbD) as the residual difference between total discrimination (TD) and statistical discrimination (SD). As illustrated in Figure 1 and formalized in equation (11), TD is defined as the difference between the subject's unconditional cooperation toward an ingroup versus an outgroup partner. Because unconditional cooperation reflects a combination of elements---including beliefs about the partner's behavior, intergroup attitudes, and the individual's baseline prosociality---the resulting intergroup gap encapsulates both belief-driven and preference-driven components. By subtracting SD from TD, we isolate the portion of discriminatory behavior that cannot be explained by differences in expectations and is thus attributable to group-based preference biases. This residual, formalized in equation (12), constitutes our measure of PbD.
+
+![](/static/equations11-12.png)
 
 3. The Behavioral Task
 
