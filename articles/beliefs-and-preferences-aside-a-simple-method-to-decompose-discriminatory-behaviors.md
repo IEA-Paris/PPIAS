@@ -96,7 +96,9 @@ This allows us to decompose overall discrimination into a belief-driven and a pr
 
 This decomposition has both methodological and substantive implications. Methodologically, it avoids reliance on exogenous information treatments and instead uses participants' revealed expectations to operationalize beliefs. Substantively, it offers a framework to detect asymmetric sensitivity to group identities even when expectations are held constant, consistent with growing evidence on affective and moral foundations of discrimination (Coffman et al., 2021; Restrepo-Plaza & Fatas, 2022).
 
-Figure 1. Theoretical Representation of Statistical and Preference-Based Discrimination
+**Figure 1. Theoretical Representation of Statistical and Preference-Based Discrimination**
+
+![](/static/screenshot-2025-06-20-at-5.45.09-am.png)
 
 Formally, the procedure looks like the following:
 
