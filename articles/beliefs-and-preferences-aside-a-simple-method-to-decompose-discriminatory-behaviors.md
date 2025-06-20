@@ -189,7 +189,7 @@ Moreover, both groups exhibit lower cooperation toward ex-combatants relative to
 
 ![](/static/figure2.png)
 
-Note: the linear graphs represent the average response at each partner contribution. Dashed and solid lines represent the unconditional and conditional cooperation decisions, respectively, when matched with an ex-combatant (black), a victim (dark gray) or a non-victim (light gray).
+*Note: the linear graphs represent the average response at each partner contribution. Dashed and solid lines represent the unconditional and conditional cooperation decisions, respectively, when matched with an ex-combatant (black), a victim (dark gray) or a non-victim (light gray).*
 
 Figure 3 presents the average implicit beliefs inferred from participants' unconditional cooperation decisions, as estimated through individual-level model parameters. These beliefs occasionally take negative values, indicating pessimistic expectations regarding the partner's contribution.
 
@@ -199,9 +199,9 @@ In contrast, non-victims exhibit more optimistic expectations overall. Their imp
 
 Taken together, these patterns suggest contrasting psychological foundations across groups. If behavior is primarily belief-driven, we would expect victims---who hold uniformly pessimistic expectations---to exhibit stronger discriminatory patterns in subsequent decisions. Conversely, if preferences (rather than beliefs) are the main driver of discriminatory behavior, the more salient differentiation observed among non-victims may lead them to exhibit greater discrimination in the next stage of analysis.
 
-Figure 3 Estimated Implicit Beliefs by Type
+**Figure 3 Estimated Implicit Beliefs by Type**
 
-![](blob:https://euangoddard.github.io/84442cda-d0d6-4536-8d9f-2802f5b3b5de)
+![](/static/figure3.png)
 
 Note: Figure 3 illustrates the averages and standard deviations of the estimated implicit beliefs regarding the behavior of victims, ex-combatants, and non-victims. The light gray bars represent victims, while the dark gray bars represent non-victims.
 
