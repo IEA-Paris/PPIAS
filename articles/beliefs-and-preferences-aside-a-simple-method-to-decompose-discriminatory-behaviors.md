@@ -327,24 +327,18 @@ Bohern et al. (2023) also suggest that decision-makers' responses depend on the 
 
 (3) in (9)
 
+![](/static/equation9-.png)
 
 (7) in (9')
 
-
+![](/static/equation9-.png)
 
 Let's assume that the subject*'s* unconditional contribution is the same than their conditional contribution if the partner contributes zero, i.e.,![](blob:https://euangoddard.github.io/c9759c53-c83b-4bd2-825d-ffc943cd7934)**.** Then, equation (9') will look like:
 
-
-
 If individuals are to behave better with the ingroup than with the outgroup, keeping the contributions fixed in the outgroup's expected behavior, that should be equivalent to behave worse with an outgroup that contributes what they expect from the ingroup.  Formally, that is:
 
-
-
 (8) in (10)
-
-
 
 If 
 
 (3) in (10')
-
