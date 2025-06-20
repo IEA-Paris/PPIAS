@@ -49,7 +49,7 @@ language: English
 
 ## **Acknowledgements**
 
-This working paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program *
+This working paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program
 
 ## 1. Motivation 
 
@@ -106,11 +106,11 @@ Let the unconditional and conditional cooperation behaviors toward ingroup and o
 
 ![](/static/equations1-4.png)
 
-Let ***CG*** and ***CO*** represent the conditional cooperation functions towards the ingroup and the outgroup, respectively, and in the same line, ***UG*** and ***UO*** the unconditional cooperation functions. ***UO*** and ***UG*** are constant parameters that represent the part of the contribution that is not contingent on the partner allocation to the group account, but it is inheritably determined by their willingness to cooperate. In contrast, ***ß_1^G^ GK*** and ***ß_1^O^ OK*** represent the slope parameters of the conditional cooperation functions i.e. the best response to any of the partner contributions. Notice that, due to their unconditionality, ***UG*** and ***UO*** are flat in our Cartesian representation, meaning that they remain constant to all possible partner allocations.
+Let ***CG*** and ***CO*** represent the conditional cooperation functions towards the ingroup and the outgroup, respectively, and in the same line, ***UG*** and ***UO*** the unconditional cooperation functions. ***UO*** and ***UG*** are constant parameters that represent the part of the contribution that is not contingent on the partner allocation to the group account, but it is inheritably determined by their willingness to cooperate. In contrast, ***β_1^G^ GK*** and ***β_1^O^ OK*** represent the slope parameters of the conditional cooperation functions i.e. the best response to any of the partner contributions. Notice that, due to their unconditionality, ***UG*** and ***UO*** are flat in our Cartesian representation, meaning that they remain constant to all possible partner allocations.
 
 ### **First step:**
 
-Implicit beliefs are derived by determining the partner contribution at the intersection of the conditional and unconditional cooperation functions, specifically equations (1) and (3) for the outgroup, and equations (2) and (4) for the ingroup. At these points, which we call ![](blob:https://euangoddard.github.io/d4d6118c-418b-483d-8587-ebd0965225d0)*G^e^* and *O^e*![](blob:https://euangoddard.github.io/04e84b3a-3848-4d1d-b7e0-32dbbd2018a4)**^,** participants are allocating to the group account some amount that might be consistent with what they expect the partner will contribute.  This decision is unconditional in nature, as they cannot make a strategy plan in advance. However, it does possess a certain degree of conditionality, as it is influenced by the participant's beliefs about their partner's behavior.  
+Implicit beliefs are derived by determining the partner contribution at the intersection of the conditional and unconditional cooperation functions, specifically equations (1) and (3) for the outgroup, and equations (2) and (4) for the ingroup. At these points, which we call ***G^e^*** and ***O^e*)^**, participants are allocating to the group account some amount that might be consistent with what they expect the partner will contribute.  This decision is unconditional in nature, as they cannot make a strategy plan in advance. However, it does possess a certain degree of conditionality, as it is influenced by the participant's beliefs about their partner's behavior.  
 
 Equalizing (1) and (3) we obtain:
 
@@ -142,7 +142,7 @@ This step yields the measure of statistical discrimination (SD) exhibited by an 
 
 ![](/static/equation9.png)
 
-Intuitively, equation (9) allows us to assess whether participants are more cooperative toward an ingroup member whose contribution matches what they expect from an outgroup. In essence, it isolates whether group identity alone affects behavior when expectations are held constant. Additionally, a complementary and mathematically equivalent approach (see Annex 1 for formal proof) is to evaluate whether participants behave less cooperatively with an outgroup member whose contribution aligns with their expectations for the ingroup. Both formulations capture the same behavioral asymmetry---namely, the differential treatment of identical contributions depending solely on the social identity of the partner---which lies at the core of statistical discrimination. ![](blob:https://euangoddard.github.io/c3f458a0-90bd-4b86-ba77-d97293dea13e) in equation (10) assesses whether expectations towards the ingroup affect individuals' behavior. 
+Intuitively, equation (9) allows us to assess whether participants are more cooperative toward an ingroup member whose contribution matches what they expect from an outgroup. In essence, it isolates whether group identity alone affects behavior when expectations are held constant. Additionally, a complementary and mathematically equivalent approach (see Annex 1 for formal proof) is to evaluate whether participants behave less cooperatively with an outgroup member whose contribution aligns with their expectations for the ingroup. Both formulations capture the same behavioral asymmetry---namely, the differential treatment of identical contributions depending solely on the social identity of the partner---which lies at the core of statistical discrimination. ***SD_G*** ![](blob:https://euangoddard.github.io/c3f458a0-90bd-4b86-ba77-d97293dea13e) in equation (10) assesses whether expectations towards the ingroup affect individuals' behavior. 
 
 ![](/static/equation10.png)
 
@@ -333,9 +333,13 @@ Bohern et al. (2023) also suggest that decision-makers' responses depend on the 
 
 ![](/static/equation9-.png)
 
-Let's assume that the subject*'s* unconditional contribution is the same than their conditional contribution if the partner contributes zero, i.e.,![](blob:https://euangoddard.github.io/c9759c53-c83b-4bd2-825d-ffc943cd7934)**.** Then, equation (9') will look like:
+Let's assume that the subject*'s* unconditional contribution is the same than their conditional contribution if the partner contributes zero, i.e., **β_CO = β_UO**. Then, equation (9') will look like:
+
+![](/static/equation9.1.png)
 
 If individuals are to behave better with the ingroup than with the outgroup, keeping the contributions fixed in the outgroup's expected behavior, that should be equivalent to behave worse with an outgroup that contributes what they expect from the ingroup.  Formally, that is:
+
+![](/static/equation10.png)
 
 (8) in (10)
 
