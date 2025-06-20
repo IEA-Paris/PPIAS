@@ -158,17 +158,14 @@ We implemented a linear public goods game (PGG) to elicit participants' willingn
 
 This natural group structure enabled us to examine intergroup decision-making patterns grounded in lived social identities. The behavioral task consisted of two main components:
 
-(i) Unconditional cooperation: Each participant made three independent contribution decisions to a joint account, without knowing their partner's identity or behavior. Each decision was framed as a potential match with a randomly assigned partner from one of the three groups (V, Non-V, ExC), allowing us to observe baseline cooperative tendencies toward each group in the absence of strategic feedback.
-
-(ii) Conditional cooperation: Participants were then asked to complete a strategy method table, indicating how much they would contribute to the group account for every possible contribution level (ranging from 0 to 15,000 COP in 5,000 COP increments) by their partner. This was done separately for potential partners from each group. These responses allowed us to trace the conditional cooperation function and infer implicit expectations about partner behavior.
+1. Unconditional cooperation: Each participant made three independent contribution decisions to a joint account, without knowing their partner's identity or behavior. Each decision was framed as a potential match with a randomly assigned partner from one of the three groups (V, Non-V, ExC), allowing us to observe baseline cooperative tendencies toward each group in the absence of strategic feedback.
+2. Conditional cooperation: Participants were then asked to complete a strategy method table, indicating how much they would contribute to the group account for every possible contribution level (ranging from 0 to 15,000 COP in 5,000 COP increments) by their partner. This was done separately for potential partners from each group. These responses allowed us to trace the conditional cooperation function and infer implicit expectations about partner behavior.
 
 Because our sample included partners with varying degrees of social distance, we classified group pairings as follows:
 
-\-       Ingroup interactions: V/V and Non-V/Non-V matches.
-
-\-       Other ingroup interactions: V matched with Non-V and vice versa.
-
-\-       Outgroup interactions: Any match involving an ExC partner (i.e., V/ExC and Non-V/ExC).
+* Ingroup interactions: V/V and Non-V/Non-V matches.
+* Other ingroup interactions: V matched with Non-V and vice versa.
+* Outgroup interactions: Any match involving an ExC partner (i.e., V/ExC and Non-V/ExC).
 
 We interpret discriminatory behavior as any systematic deviation in cooperation levels toward other ingroup or outgroup partners relative to one's own ingroup.
 
@@ -176,9 +173,9 @@ All contribution decisions ranged from 0 to 15,000 COP (approximately USD $4 at 
 
 The sessions were conducted in 2018 using paper-and-pencil protocols at SENA facilities. We collected a total of 193 observations: 71 from victims, 115 from non-victims, and 7 from ex-combatants. Although the number of participating ex-combatants was relatively small, their inclusion was sufficient to maintain the credibility of the matching process and ensure that participants perceived a non-negligible probability of being paired with a member of any group type.
 
-4. Results
+## 4. Results
 
-4.1.     Contributions to the Group Account and Implicit Beliefs
+### 4.1. Contributions to the Group Account and Implicit Beliefs
 
 Given that we only have seven observations from ex-combatants, the results section focuses on the cooperative behavior of victims and non-victims. Figure 2 replicates the structure of Figure 1 but displays average contribution decisions by group type, rather than individual-level data. As such, the intersection points in Figure 2 do not correspond precisely to participants' implicit beliefs, but rather illustrate aggregate trends.
 
@@ -188,9 +185,9 @@ The vertical distances between the solid (conditional) and dashed (unconditional
 
 Moreover, both groups exhibit lower cooperation toward ex-combatants relative to their ingroup, consistent with outgroup discrimination. However, this discrimination is significantly more pronounced among non-victims than among victims (p-value < 0.05). These findings replicate and extend previous evidence reported by Restrepo-Plaza and Fatas (2022) and underscore the asymmetry in intergroup cooperation depending on the participant's social identity.
 
-Figure 2 Individual Contributions to the Group Account
+**Figure 2 Individual Contributions to the Group Account**
 
-![](blob:https://euangoddard.github.io/ab011d37-e557-425b-b3f0-8b901c09288e)
+![](/static/figure2.png)
 
 Note: the linear graphs represent the average response at each partner contribution. Dashed and solid lines represent the unconditional and conditional cooperation decisions, respectively, when matched with an ex-combatant (black), a victim (dark gray) or a non-victim (light gray).
 
