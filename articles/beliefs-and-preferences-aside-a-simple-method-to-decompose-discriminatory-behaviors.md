@@ -152,7 +152,7 @@ In this final step, we compute preference-based discrimination (PbD) as the resi
 
 ![](/static/equations11-12.png)
 
-3. The Behavioral Task
+## 3. The Behavioral Task
 
 We implemented a linear public goods game (PGG) to elicit participants' willingness to cooperate with partners from different social groups. The experimental sessions were conducted in partnership with the National Learning Service of Colombia (SENA), a large public vocational education and training institution with a national mandate to serve vulnerable populations, including individuals affected by armed conflict. Because SENA's enrollment procedures require applicants to self-report their vulnerability status---including whether they are registered victims of the conflict or demobilized ex-combatants---our sampling frame allowed for an ecologically valid categorization of participants into three groups: victims (V), vulnerable non-victims (Non-V), and ex-combatants (ExC).
 
