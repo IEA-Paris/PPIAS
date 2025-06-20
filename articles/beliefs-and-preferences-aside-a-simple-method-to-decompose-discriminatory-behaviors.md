@@ -43,7 +43,7 @@ highlight: false
 bibliography: /static/restreporeferences.bib
 language: English
 ---
-## **TO CITE**
+## **To Cite**
 
 **Restrepo-Plaza, L.** (2025). *Beliefs and preferences aside: A simple method to decompose discriminatory behaviors*. Paris Institute for Advanced Study Ideas Invitation Program.
 
@@ -51,7 +51,7 @@ language: English
 
 This working paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program *
 
-1. Motivation 
+## 1. Motivation 
 
 We often use mental shortcuts to process others' behaviors and appearances, which can inadvertently privilege certain social profiles while disadvantaging others. This systematic deviation---where individuals or groups are treated unequally based on perceived group traits rather than individual merit---is at the core of what we define as discrimination. Discriminatory behavior can stem from multiple sources, including sociocultural norms, individual experiences, and heuristic processing (Aigner & Cain, 1977; Arrow, 1973; Phelps, 1972; Schwab, 1986).
 
@@ -77,7 +77,7 @@ When we examine preference-based discrimination (PbD), a contrasting and more pr
 
 These results indicate that victims, though disadvantaged and holding cautious expectations, are less likely to act on those beliefs in exclusionary ways. PbD thus emerges as the dominant mechanism of intergroup discrimination across the three groups, and victims as the group with the most inclusive behavioral profile. This distinction is important for policy and reconciliation interventions: changing beliefs alone may be insufficient if underlying preferences---rooted in identity, norms, or past grievances---are the main drivers of exclusion (Restrepo-Plaza & Fatas, 2022; Patty & Penn, 2022). The structure of the paper is as follows: Section 2 outlines our experimental methodology and the decomposition strategy used to isolate SD and PbD. Section 3 presents the experimental design and details of the sample. Section 4 reports the main results, including group-level comparisons and regression analyses. Section 5 concludes with a discussion of the policy implications and avenues for future research.
 
-2. The Decomposition Method
+## 2. The Decomposition Method
 
 Behavioral studies isolating the role of beliefs in discriminatory behavior are common and have largely relied on curriculum vitae (CV) and rental application experiments, where researchers manipulate applicant characteristics such as gender, race, or cultural background, while holding qualifications constant (see Lippens et al., 2023; Schaerer et al., 2023, for two recent meta-analyses). These designs aim to attenuate information asymmetries and thereby isolate statistical discrimination (SD): if discrimination decreases as information increases, the residual is assumed to stem from inaccurate or incomplete beliefs.
 
@@ -87,13 +87,10 @@ We propose a complementary strategy that inverts this logic: we begin by isolati
 
 In essence, our method proceeds as follows (see Figure 1 for visual reference):
 
-i.        **We obtain** ![](blob:https://euangoddard.github.io/4bd6f12c-4cb9-4953-9134-984cf095fb45) **and** ![](blob:https://euangoddard.github.io/aa7657d2-6673-499e-a123-d374dc599d28) **which are \*\***the subjects' implicit beliefs \*\*about an ingroup and an outgroup partner's behavior, respectively.  Geometrically, these are the intersection points between the subject's unconditional cooperation (UC) level and their conditional cooperation (CC) strategy. From a behavioral perspective, ![](blob:https://euangoddard.github.io/681953aa-43a8-4f52-8ac3-39aa0303d79e) and ![](blob:https://euangoddard.github.io/0e06fb02-21c8-4706-a229-1aa295689d3b)reflect the contributions that participants implicitly anticipate from each group, absent direct information.
-
-ii.       Next, we compute the conditional cooperation that would be displayed towards an ingroup partner if that partner were expected to behave like an outgroup member. Formally, we calculate**,** ![](blob:https://euangoddard.github.io/9fe1b1d8-11b6-4b1f-a80b-57a11c899fe0)which is the contribution on the subject's ingroup CC curve evaluated at ![](blob:https://euangoddard.github.io/b79775d8-40db-41b3-b0e2-8a9ee099df94). Geometrically, this corresponds to projecting the outgroup belief ![](blob:https://euangoddard.github.io/0e06fb02-21c8-4706-a229-1aa295689d3b)onto the ingroup CC function (represented by the dashed purple line in Figure 1). Behaviorally, this captures how much a participant would be willing to cooperate with an ingroup partner who they expect to act like an outgroup partner.
-
-iii.     We define statistical discrimination (SD) as the difference between the conditional cooperation with an ingroup partner expected to behave as an outgroup member ![](blob:https://euangoddard.github.io/9fe1b1d8-11b6-4b1f-a80b-57a11c899fe0)and the unconditional cooperation actually shown towards an outgroup member. In behavioral terms, this comparison controls for expectations (both equal to ![](blob:https://euangoddard.github.io/b79775d8-40db-41b3-b0e2-8a9ee099df94)) and isolates the impact of group identity on behavior: it is a within-subject measure of how differently individuals act toward identical behaviors depending on the partner's group membership.
-
-iv.     **We compute the PbD as the difference between total discrimination (TD), and SD.**
+1. **We obtain** ![](blob:https://euangoddard.github.io/4bd6f12c-4cb9-4953-9134-984cf095fb45)**G^e^ and** ![](blob:https://euangoddard.github.io/aa7657d2-6673-499e-a123-d374dc599d28)**O^e^ which are the subjects' implicit beliefs** about an ingroup and an outgroup partner's behavior, respectively.  Geometrically, these are the intersection points between the subject's unconditional cooperation (UC) level and their conditional cooperation (CC) strategy. From a behavioral perspective, ![](blob:https://euangoddard.github.io/681953aa-43a8-4f52-8ac3-39aa0303d79e) G^e^ and O^e^ ![](blob:https://euangoddard.github.io/0e06fb02-21c8-4706-a229-1aa295689d3b)reflect the contributions that participants implicitly anticipate from each group, absent direct information.
+2. Next, we compute the conditional cooperation that would be displayed towards an ingroup partner if that partner were expected to behave like an outgroup member. Formally, we calculate**,** ![](blob:https://euangoddard.github.io/9fe1b1d8-11b6-4b1f-a80b-57a11c899fe0)**CG^O^e^^**, which is the contribution on the subject's ingroup CC curve evaluated at O^e^![](blob:https://euangoddard.github.io/b79775d8-40db-41b3-b0e2-8a9ee099df94). Geometrically, this corresponds to projecting the outgroup belief ![](blob:https://euangoddard.github.io/0e06fb02-21c8-4706-a229-1aa295689d3b)O^e^ onto the ingroup CC function (represented by the dashed purple line in Figure 1). Behaviorally, this captures how much a participant would be willing to cooperate with an ingroup partner who they expect to act like an outgroup partner.
+3. We define statistical discrimination (SD) as the difference between the conditional cooperation with an ingroup partner expected to behave as an outgroup member **CG^O^e^^**, ![](blob:https://euangoddard.github.io/9fe1b1d8-11b6-4b1f-a80b-57a11c899fe0)and the unconditional cooperation actually shown towards an outgroup member. In behavioral terms, this comparison controls for expectations (both equal to ![](blob:https://euangoddard.github.io/b79775d8-40db-41b3-b0e2-8a9ee099df94)O^e^) and isolates the impact of group identity on behavior: it is a within-subject measure of how differently individuals act toward identical behaviors depending on the partner's group membership.
+4. **We compute the PbD as the difference between total discrimination (TD), and SD.**
 
 This allows us to decompose overall discrimination into a belief-driven and a preference-driven component, with PbD emerging as a direct behavioral deviation not attributable to differences in expected partner behavior.
 
@@ -105,13 +102,13 @@ Formally, the procedure looks like the following:
 
 Let the unconditional and conditional cooperation behaviors toward ingroup and outgroup partners follow a linear relationship with respect to the partner's contribution. This assumption, while simplifying the analysis, does not entail a loss of generality: the same logic and estimation procedure can be extended to higher-order (e.g., polynomial) functional forms. However, the linear specification allows for more intuitive geometric interpretations and underscores the conceptual clarity and tractability of the decomposition exercise.
 
-![](blob:https://euangoddard.github.io/04231358-2d54-479d-94d3-2b80e2afeb85)  **                                                                           (1)**
+![](blob:https://euangoddard.github.io/04231358-2d54-479d-94d3-2b80e2afeb85)   **                                                                          (1)**
 
-![](blob:https://euangoddard.github.io/5d02de23-096c-4623-8fa2-4e6c99bb082d)  **                                                                         (2)**
+![](blob:https://euangoddard.github.io/5d02de23-096c-4623-8fa2-4e6c99bb082d)   **                                                                        (2)**
 
-![](blob:https://euangoddard.github.io/3be319d1-f1bb-4556-b991-cdb95c27f064)  **                                                                                                                     (3)**
+![](blob:https://euangoddard.github.io/3be319d1-f1bb-4556-b991-cdb95c27f064)   **                                                                                                                    (3)**
 
-![](blob:https://euangoddard.github.io/a4f2b7d5-f3d1-45cb-9506-42e30971b17a)  **                                                                                                                     (4)**
+![](blob:https://euangoddard.github.io/a4f2b7d5-f3d1-45cb-9506-42e30971b17a)   **                                                                                                                    (4)**
 
 Let ![](blob:https://euangoddard.github.io/abfa4398-0fcd-45d2-ad3e-026d9ec23722)and ![](blob:https://euangoddard.github.io/d951801f-e1a5-4084-875a-6ab8f6a2df74)represent the conditional cooperation functions towards the ingroup and the outgroup, respectively, and in the same line, ![](blob:https://euangoddard.github.io/ae2a1df2-b91b-43d4-a2c1-b2797777163d)and ![](blob:https://euangoddard.github.io/3a58cc9b-6990-40e8-a650-5caf51c0bf49)the unconditional cooperation functions. ![](blob:https://euangoddard.github.io/3a58cc9b-6990-40e8-a650-5caf51c0bf49) and ![](blob:https://euangoddard.github.io/ae2a1df2-b91b-43d4-a2c1-b2797777163d) are constant parameters that represent the part of the contribution that is not contingent on the partner allocation to the group account, but it is inheritably determined by their willingness to cooperate. In contrast, ![](blob:https://euangoddard.github.io/7b503c94-353d-4455-9a46-bf7c3f09766d) and ![](blob:https://euangoddard.github.io/4eeddd42-1c5d-47aa-bcd8-86ad88e643ea)represent the slope parameters of the conditional cooperation functions i.e. the best response to any of the partner contributions. Notice that, due to their unconditionality,  ![](blob:https://euangoddard.github.io/ae2a1df2-b91b-43d4-a2c1-b2797777163d)and ![](blob:https://euangoddard.github.io/3a58cc9b-6990-40e8-a650-5caf51c0bf49)are flat in our Cartesian representation, meaning that they remain constant to all possible partner allocations.
 
@@ -149,17 +146,17 @@ Intergroup discrimination is determined by differences in behavior when interact
 
 This step yields the measure of statistical discrimination (SD) exhibited by an individual when interacting with an outgroup member. Since SD is driven by the subject's beliefs about the expected behavior of the partner, the first term in equation (9) captures the participant's conditional cooperation response to an ingroup member whose behavior is known to match the expected behavior of the outgroup (i.e., a "belief-controlled" benchmark). In contrast, the second term reflects the unconditional cooperation extended to an outgroup member, whose behavior is uncertain and inferred through prior expectations. The difference between these two responses---ingroup with known behavior versus outgroup with expected behavior---encapsulates the essence of statistical discrimination: the behavioral gap that emerges solely from differences in how beliefs are formed and applied depending on group identity.
 
-![](blob:https://euangoddard.github.io/f3070e38-d8e5-4286-b75a-ec986a2e2b9e)  **                                                       (9)**
+![](blob:https://euangoddard.github.io/f3070e38-d8e5-4286-b75a-ec986a2e2b9e)   **                                                      (9)**
 
 Intuitively, equation (9) allows us to assess whether participants are more cooperative toward an ingroup member whose contribution matches what they expect from an outgroup. In essence, it isolates whether group identity alone affects behavior when expectations are held constant. Additionally, a complementary and mathematically equivalent approach (see Annex 1 for formal proof) is to evaluate whether participants behave less cooperatively with an outgroup member whose contribution aligns with their expectations for the ingroup. Both formulations capture the same behavioral asymmetry---namely, the differential treatment of identical contributions depending solely on the social identity of the partner---which lies at the core of statistical discrimination. ![](blob:https://euangoddard.github.io/c3f458a0-90bd-4b86-ba77-d97293dea13e) in equation (10) assesses whether expectations towards the ingroup affect individuals' behavior. 
 
-![](blob:https://euangoddard.github.io/2c1ba446-d945-4e6d-ad17-a6d09239acd1)  **                                         (10)**
+![](blob:https://euangoddard.github.io/2c1ba446-d945-4e6d-ad17-a6d09239acd1)   **                                        (10)**
 
 **Fourth step:**
 
 In this final step, we compute preference-based discrimination (PbD) as the residual difference between total discrimination (TD) and statistical discrimination (SD). As illustrated in Figure 1 and formalized in equation (11), TD is defined as the difference between the subject's unconditional cooperation toward an ingroup versus an outgroup partner. Because unconditional cooperation reflects a combination of elements---including beliefs about the partner's behavior, intergroup attitudes, and the individual's baseline prosociality---the resulting intergroup gap encapsulates both belief-driven and preference-driven components. By subtracting SD from TD, we isolate the portion of discriminatory behavior that cannot be explained by differences in expectations and is thus attributable to group-based preference biases. This residual, formalized in equation (12), constitutes our measure of PbD.
 
-![](blob:https://euangoddard.github.io/91e88c36-460c-403a-88e0-b39979e90314)  **                                                          (11)**
+![](blob:https://euangoddard.github.io/91e88c36-460c-403a-88e0-b39979e90314)   **                                                         (11)**
 
 ![](blob:https://euangoddard.github.io/4be54d8b-296e-4855-82f4-2a0e98de039c)
 
@@ -167,7 +164,7 @@ In this final step, we compute preference-based discrimination (PbD) as the resi
 
 ![](blob:https://euangoddard.github.io/d9351355-835f-4fbb-9343-9c0df03c40f7)
 
-![](blob:https://euangoddard.github.io/2cc8f5e0-dc0a-40b9-9613-6d383a654124)  **                                                          (12)**
+![](blob:https://euangoddard.github.io/2cc8f5e0-dc0a-40b9-9613-6d383a654124)   **                                                         (12)**
 
 3. The Behavioral Task
 
@@ -598,19 +595,19 @@ Voors, M. J., Nillesen, E. E., Verwimp, P., Bulte, E. H., Lensink, R., & Van Soe
 
 ## Annex 1
 
-![](blob:https://euangoddard.github.io/ee097472-39ba-4c9b-9674-4f5b2f94e441)  **                                            (9)**
+![](blob:https://euangoddard.github.io/ee097472-39ba-4c9b-9674-4f5b2f94e441)   **                                           (9)**
 
 (3) in (9)
 
-![](blob:https://euangoddard.github.io/f5b72264-efb4-4b38-ad84-72298aed1bf8)  **                                           (9')**
+![](blob:https://euangoddard.github.io/f5b72264-efb4-4b38-ad84-72298aed1bf8)   **                                          (9')**
 
 (7) in (9')
 
-![](blob:https://euangoddard.github.io/c6f944e8-9b32-4fba-94f1-7930f6550a80)  **                               (9')**
+![](blob:https://euangoddard.github.io/c6f944e8-9b32-4fba-94f1-7930f6550a80)   **                              (9')**
 
 Let's assume that the subject*'s* unconditional contribution is the same than their conditional contribution if the partner contributes zero, i.e.,![](blob:https://euangoddard.github.io/c9759c53-c83b-4bd2-825d-ffc943cd7934)**.** Then, equation (9') will look like:
 
- ![](blob:https://euangoddard.github.io/3d01f75d-3c7d-4bd7-92c1-5791124fd611)  **                                                          (9')**
+ ![](blob:https://euangoddard.github.io/3d01f75d-3c7d-4bd7-92c1-5791124fd611)   **                                                         (9')**
 
 If individuals are to behave better with the ingroup than with the outgroup, keeping the contributions fixed in the outgroup's expected behavior, that should be equivalent to behave worse with an outgroup that contributes what they expect from the ingroup.  Formally, that is:
 
@@ -622,8 +619,8 @@ If individuals are to behave better with the ingroup than with the outgroup, kee
 
 If ![](blob:https://euangoddard.github.io/87d74914-2b55-4e1e-a6d3-61bd77de1481)
 
-![](blob:https://euangoddard.github.io/73648346-88f4-485a-ac79-d4e415140344)  **                (10')**
+![](blob:https://euangoddard.github.io/73648346-88f4-485a-ac79-d4e415140344)   **               (10')**
 
 (3) in (10')
 
-![](blob:https://euangoddard.github.io/52f61b63-f36d-4997-a442-a310377cc666)  **                                           (10')**
+![](blob:https://euangoddard.github.io/52f61b63-f36d-4997-a442-a310377cc666)   **                                          (10')**
