@@ -333,7 +333,7 @@ Bohern et al. (2023) also suggest that decision-makers' responses depend on the 
 
 ![](/static/equation9-.png)
 
-Let's assume that the subject*'s* unconditional contribution is the same than their conditional contribution if the partner contributes zero, i.e., **β_CO = β_UO**. Then, equation (9') will look like:
+Let's assume that the subject*'s* unconditional contribution is the same than their conditional contribution if the partner contributes zero, i.e., ***β_CO = β_UO***. Then, equation (9') will look like:
 
 ![](/static/equation9.1.png)
 
@@ -343,6 +343,10 @@ If individuals are to behave better with the ingroup than with the outgroup, kee
 
 (8) in (10)
 
-If 
+![](/static/equation10.1.png)
+
+If ***β_CG = β_UG***
+
+![](/static/equation10.2.png)
 
 (3) in (10')
