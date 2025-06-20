@@ -140,25 +140,15 @@ Intergroup discrimination is determined by differences in behavior when interact
 
 This step yields the measure of statistical discrimination (SD) exhibited by an individual when interacting with an outgroup member. Since SD is driven by the subject's beliefs about the expected behavior of the partner, the first term in equation (9) captures the participant's conditional cooperation response to an ingroup member whose behavior is known to match the expected behavior of the outgroup (i.e., a "belief-controlled" benchmark). In contrast, the second term reflects the unconditional cooperation extended to an outgroup member, whose behavior is uncertain and inferred through prior expectations. The difference between these two responses---ingroup with known behavior versus outgroup with expected behavior---encapsulates the essence of statistical discrimination: the behavioral gap that emerges solely from differences in how beliefs are formed and applied depending on group identity.
 
-![](blob:https://euangoddard.github.io/f3070e38-d8e5-4286-b75a-ec986a2e2b9e)       **                                                  (9)**
+![](/static/equation9.png)
 
 Intuitively, equation (9) allows us to assess whether participants are more cooperative toward an ingroup member whose contribution matches what they expect from an outgroup. In essence, it isolates whether group identity alone affects behavior when expectations are held constant. Additionally, a complementary and mathematically equivalent approach (see Annex 1 for formal proof) is to evaluate whether participants behave less cooperatively with an outgroup member whose contribution aligns with their expectations for the ingroup. Both formulations capture the same behavioral asymmetry---namely, the differential treatment of identical contributions depending solely on the social identity of the partner---which lies at the core of statistical discrimination. ![](blob:https://euangoddard.github.io/c3f458a0-90bd-4b86-ba77-d97293dea13e) in equation (10) assesses whether expectations towards the ingroup affect individuals' behavior. 
 
-![](blob:https://euangoddard.github.io/2c1ba446-d945-4e6d-ad17-a6d09239acd1)       **                                    (10)**
+![](/static/equation10.png)
 
 **Fourth step:**
 
 In this final step, we compute preference-based discrimination (PbD) as the residual difference between total discrimination (TD) and statistical discrimination (SD). As illustrated in Figure 1 and formalized in equation (11), TD is defined as the difference between the subject's unconditional cooperation toward an ingroup versus an outgroup partner. Because unconditional cooperation reflects a combination of elements---including beliefs about the partner's behavior, intergroup attitudes, and the individual's baseline prosociality---the resulting intergroup gap encapsulates both belief-driven and preference-driven components. By subtracting SD from TD, we isolate the portion of discriminatory behavior that cannot be explained by differences in expectations and is thus attributable to group-based preference biases. This residual, formalized in equation (12), constitutes our measure of PbD.
-
-![](blob:https://euangoddard.github.io/91e88c36-460c-403a-88e0-b39979e90314)       **                                                     (11)**
-
-![](blob:https://euangoddard.github.io/4be54d8b-296e-4855-82f4-2a0e98de039c)
-
-![](blob:https://euangoddard.github.io/82758a61-e66a-4ddd-a9bc-62f9435db56d)
-
-![](blob:https://euangoddard.github.io/d9351355-835f-4fbb-9343-9c0df03c40f7)
-
-![](blob:https://euangoddard.github.io/2cc8f5e0-dc0a-40b9-9613-6d383a654124)       **                                                     (12)**
 
 3. The Behavioral Task
 
@@ -589,19 +579,19 @@ Voors, M. J., Nillesen, E. E., Verwimp, P., Bulte, E. H., Lensink, R., & Van Soe
 
 ## Annex 1
 
-![](blob:https://euangoddard.github.io/ee097472-39ba-4c9b-9674-4f5b2f94e441)       **                                       (9)**
+![](blob:https://euangoddard.github.io/ee097472-39ba-4c9b-9674-4f5b2f94e441)        **                                      (9)**
 
 (3) in (9)
 
-![](blob:https://euangoddard.github.io/f5b72264-efb4-4b38-ad84-72298aed1bf8)       **                                      (9')**
+![](blob:https://euangoddard.github.io/f5b72264-efb4-4b38-ad84-72298aed1bf8)        **                                     (9')**
 
 (7) in (9')
 
-![](blob:https://euangoddard.github.io/c6f944e8-9b32-4fba-94f1-7930f6550a80)       **                          (9')**
+![](blob:https://euangoddard.github.io/c6f944e8-9b32-4fba-94f1-7930f6550a80)        **                         (9')**
 
 Let's assume that the subject*'s* unconditional contribution is the same than their conditional contribution if the partner contributes zero, i.e.,![](blob:https://euangoddard.github.io/c9759c53-c83b-4bd2-825d-ffc943cd7934)**.** Then, equation (9') will look like:
 
- ![](blob:https://euangoddard.github.io/3d01f75d-3c7d-4bd7-92c1-5791124fd611)       **                                                     (9')**
+ ![](blob:https://euangoddard.github.io/3d01f75d-3c7d-4bd7-92c1-5791124fd611)        **                                                    (9')**
 
 If individuals are to behave better with the ingroup than with the outgroup, keeping the contributions fixed in the outgroup's expected behavior, that should be equivalent to behave worse with an outgroup that contributes what they expect from the ingroup.  Formally, that is:
 
@@ -613,8 +603,8 @@ If individuals are to behave better with the ingroup than with the outgroup, kee
 
 If ![](blob:https://euangoddard.github.io/87d74914-2b55-4e1e-a6d3-61bd77de1481)
 
-![](blob:https://euangoddard.github.io/73648346-88f4-485a-ac79-d4e415140344)       **           (10')**
+![](blob:https://euangoddard.github.io/73648346-88f4-485a-ac79-d4e415140344)        **          (10')**
 
 (3) in (10')
 
-![](blob:https://euangoddard.github.io/52f61b63-f36d-4997-a442-a310377cc666)       **                                      (10')**
+![](blob:https://euangoddard.github.io/52f61b63-f36d-4997-a442-a310377cc666)        **                                     (10')**
