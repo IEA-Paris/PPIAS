@@ -61,7 +61,7 @@ A growing body of experimental literature has demonstrated how these forms of di
 
 To illustrate, consider a hiring process where a manager excludes Black candidates based on historically observed trends in educational attainment, ignoring individual qualifications. This is a clear example of statistical discrimination---where a probabilistic belief substitutes for individual assessment (Bohren et al., 2023; Barron et al., 2024). In contrast, if the same manager rejects candidates simply due to personal discomfort with a racial group, irrespective of their merits, this reflects preference-based discrimination (Becker, 1971). Both forms can co-exist and produce inequitable outcomes (Fang & Moro, 2011; Wozniak & MacNeill, 2015).
 
-Our study builds on Bohren et al.'s (2023) theoretical model, which distinguishes SD from PbD by exploiting the distinction between observed outcomes and evaluative criteria. In their framework, SD arises when decisions are shaped by expectations about group-level behavior, while PbD reflects a divergence in how similar behavior is evaluated depending on group identity. This distinction is empirically tractable in experimental settings that manipulate uncertainty and information^1^.
+Our study builds on Bohren et al.'s (2023) theoretical model, which distinguishes SD from PbD by exploiting the distinction between observed outcomes and evaluative criteria. In their framework, SD arises when decisions are shaped by expectations about group-level behavior, while PbD reflects a divergence in how similar behavior is evaluated depending on group identity. This distinction is empirically tractable in experimental settings that manipulate uncertainty and information[^1].
 
 We examine these mechanisms in post-conflict Colombia, where social cleavages between victims, non-victims, and ex-combatants persist despite formal peace processes. While past research has shown that exposure to violence can foster prosocial behaviors and forgiveness (Blattman, 2009; Bauer et al., 2016; Gilligan et al., 2014; Voors et al., 2012), it remains unclear how group identity shapes cooperative behavior in such polarized settings. Previous studies suggest that non-victims may harbor stronger discriminatory attitudes towards ex-combatants than victims do, yet the psychological mechanisms remain underexplored (Fatas & Restrepo-Plaza, 2024; Restrepo-Plaza & Fatas, 2022; Murillo Orejuela & Restrepo-Plaza, 2021; Unfried et al., 2022; Restrepo Plaza, 2019).
 
@@ -237,7 +237,7 @@ Third, and perhaps most strikingly, while SD toward ex-combatants is comparable 
 
 *Note: table 1 displays the averages of the total discrimination (TD), preference-based discrimination (Pbd), and statistical discrimination (SD) from victims and non-victims against the other ingroup (panel A) and the outgroup (panel B) from. We use the t-test for comparisons between victims' and non-victims' behavior, and the Wilcoxon paired test to compare SD and PbD values within the same group.*
 
-5.  Conclusions
+## 5.  Conclusions
 
 This study advances the understanding of discriminatory behavior by proposing a novel methodology to disentangle the effects of statistical discrimination (SD) and preference-based discrimination (PbD) across socially salient groups. We apply this framework to a real-world post-conflict setting---Colombia---focusing on the interactions between victims, non-victims, and ex-combatants. While grounded in a specific context, the approach and insights generated are broadly applicable to other settings where beliefs and preferences jointly shape intergroup discrimination.
 
@@ -253,11 +253,7 @@ Fourth, from a policy standpoint, these findings suggest that reducing discrimin
 
 In sum, this study contributes to the broader literature on discrimination and post-conflict reconciliation by empirically demonstrating the importance of distinguishing between beliefs and preferences in shaping intergroup behavior. Future research should explore how conflict exposure interacts with psychological dispositions over time, and whether targeted interventions can sustainably shift both expectations and preferences in divided societies.
 
-# Notes:
-
-1 Bohern et al. (2023) also suggest that decision-makers' responses depend on the partner's signal precision and the belief accuracy. However, we do not account for these elements in our study, as the task we use to compute implicit beliefs involves no uncertainty regarding the signal and does not allow for signal imprecisions. Furthermore, we depart from the authors in their differentiation between accurate and inaccurate beliefs regarding partner behavior. This distinction is not relevant to our paper, as our focus is on the effect of people's beliefs on intergroup preferences, regardless of their accuracy.
-
-# References
+## References
 
 Aigner, D. J., & Cain, G. G. (1977). Statistical theories of discrimination in labor markets. *Industrial and Labor Relations Review*, *30*(2), 175. https://doi.org/10.2307/2522871
 
@@ -317,23 +313,29 @@ Vollhardt, J. R. (2015). Inclusive Victim Consciousness in Advocacy, Social Move
 
 Voors, M. J., Nillesen, E. E., Verwimp, P., Bulte, E. H., Lensink, R., & Van Soest, D. P. (2012). Violent conflict and behavior: A field experiment in Burundi. *American Economic Review*, *102*(2), 941--964. https://doi.org/10.1257/aer.102.2.941
 
+## Footnotes:
+
+[^1]:
+
+Bohern et al. (2023) also suggest that decision-makers' responses depend on the partner's signal precision and the belief accuracy. However, we do not account for these elements in our study, as the task we use to compute implicit beliefs involves no uncertainty regarding the signal and does not allow for signal imprecisions. Furthermore, we depart from the authors in their differentiation between accurate and inaccurate beliefs regarding partner behavior. This distinction is not relevant to our paper, as our focus is on the effect of people's beliefs on intergroup preferences, regardless of their accuracy.Annexes
+
 # Annexes
 
 ## Annex 1
 
-![](blob:https://euangoddard.github.io/ee097472-39ba-4c9b-9674-4f5b2f94e441)        **                                      (9)**
+![](blob:https://euangoddard.github.io/ee097472-39ba-4c9b-9674-4f5b2f94e441)         **                                     (9)**
 
 (3) in (9)
 
-![](blob:https://euangoddard.github.io/f5b72264-efb4-4b38-ad84-72298aed1bf8)        **                                     (9')**
+![](blob:https://euangoddard.github.io/f5b72264-efb4-4b38-ad84-72298aed1bf8)         **                                    (9')**
 
 (7) in (9')
 
-![](blob:https://euangoddard.github.io/c6f944e8-9b32-4fba-94f1-7930f6550a80)        **                         (9')**
+![](blob:https://euangoddard.github.io/c6f944e8-9b32-4fba-94f1-7930f6550a80)         **                        (9')**
 
 Let's assume that the subject*'s* unconditional contribution is the same than their conditional contribution if the partner contributes zero, i.e.,![](blob:https://euangoddard.github.io/c9759c53-c83b-4bd2-825d-ffc943cd7934)**.** Then, equation (9') will look like:
 
- ![](blob:https://euangoddard.github.io/3d01f75d-3c7d-4bd7-92c1-5791124fd611)        **                                                    (9')**
+ ![](blob:https://euangoddard.github.io/3d01f75d-3c7d-4bd7-92c1-5791124fd611)         **                                                   (9')**
 
 If individuals are to behave better with the ingroup than with the outgroup, keeping the contributions fixed in the outgroup's expected behavior, that should be equivalent to behave worse with an outgroup that contributes what they expect from the ingroup.  Formally, that is:
 
@@ -345,8 +347,8 @@ If individuals are to behave better with the ingroup than with the outgroup, kee
 
 If ![](blob:https://euangoddard.github.io/87d74914-2b55-4e1e-a6d3-61bd77de1481)
 
-![](blob:https://euangoddard.github.io/73648346-88f4-485a-ac79-d4e415140344)        **          (10')**
+![](blob:https://euangoddard.github.io/73648346-88f4-485a-ac79-d4e415140344)         **         (10')**
 
 (3) in (10')
 
-![](blob:https://euangoddard.github.io/52f61b63-f36d-4997-a442-a310377cc666)        **                                     (10')**
+![](blob:https://euangoddard.github.io/52f61b63-f36d-4997-a442-a310377cc666)         **                                    (10')**
