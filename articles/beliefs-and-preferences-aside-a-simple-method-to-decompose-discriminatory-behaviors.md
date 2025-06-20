@@ -87,9 +87,9 @@ We propose a complementary strategy that inverts this logic: we begin by isolati
 
 In essence, our method proceeds as follows (see Figure 1 for visual reference):
 
-1. **We obtain G^e^ and O^e^ which are the subjects' implicit beliefs** about an ingroup and an outgroup partner's behavior, respectively.  Geometrically, these are the intersection points between the subject's unconditional cooperation (UC) level and their conditional cooperation (CC) strategy. From a behavioral perspective, G^e^ and O^e^ reflect the contributions that participants implicitly anticipate from each group, absent direct information.
-2. Next, we compute the conditional cooperation that would be displayed towards an ingroup partner if that partner were expected to behave like an outgroup member. Formally, we calculate, **CG^O^e^^**, which is the contribution on the subject's ingroup CC curve evaluated at O^e^. Geometrically, this corresponds to projecting the outgroup belief O^e^ onto the ingroup CC function (represented by the dashed purple line in Figure 1). Behaviorally, this captures how much a participant would be willing to cooperate with an ingroup partner who they expect to act like an outgroup partner.
-3. We define statistical discrimination (SD) as the difference between the conditional cooperation with an ingroup partner expected to behave as an outgroup member **CG^O^e^^**, and the unconditional cooperation actually shown towards an outgroup member. In behavioral terms, this comparison controls for expectations (both equal to O^e^) and isolates the impact of group identity on behavior: it is a within-subject measure of how differently individuals act toward identical behaviors depending on the partner's group membership.
+1. **We obtain *G^e^* and *O^e^* which are the subjects' implicit beliefs** about an ingroup and an outgroup partner's behavior, respectively.  Geometrically, these are the intersection points between the subject's unconditional cooperation (UC) level and their conditional cooperation (CC) strategy. From a behavioral perspective, *G^e^* and O^e^ reflect the contributions that participants implicitly anticipate from each group, absent direct information.
+2. Next, we compute the conditional cooperation that would be displayed towards an ingroup partner if that partner were expected to behave like an outgroup member. Formally, we calculate, **CG^(O^e^)^**, which is the contribution on the subject's ingroup CC curve evaluated at *O^e^*. Geometrically, this corresponds to projecting the outgroup belief *O^e^* onto the ingroup CC function (represented by the dashed purple line in Figure 1). Behaviorally, this captures how much a participant would be willing to cooperate with an ingroup partner who they expect to act like an outgroup partner.
+3. We define statistical discrimination (SD) as the difference between the conditional cooperation with an ingroup partner expected to behave as an outgroup member ***CG^(O^e^)^***, and the unconditional cooperation actually shown towards an outgroup member. In behavioral terms, this comparison controls for expectations (both equal to *O^e^*) and isolates the impact of group identity on behavior: it is a within-subject measure of how differently individuals act toward identical behaviors depending on the partner's group membership.
 4. **We compute the PbD as the difference between total discrimination (TD), and SD.**
 
 This allows us to decompose overall discrimination into a belief-driven and a preference-driven component, with PbD emerging as a direct behavioral deviation not attributable to differences in expected partner behavior.
@@ -110,13 +110,13 @@ Let ***CG*** and ***CO*** represent the conditional cooperation functions towa
 
 ### **First step:**
 
-Implicit beliefs are derived by determining the partner contribution at the intersection of the conditional and unconditional cooperation functions, specifically equations (1) and (3) for the outgroup, and equations (2) and (4) for the ingroup. At these points, which we call ![](blob:https://euangoddard.github.io/d4d6118c-418b-483d-8587-ebd0965225d0)G^e and O^e![](blob:https://euangoddard.github.io/04e84b3a-3848-4d1d-b7e0-32dbbd2018a4)**,** participants are allocating to the group account some amount that might be consistent with what they expect the partner will contribute.  This decision is unconditional in nature, as they cannot make a strategy plan in advance. However, it does possess a certain degree of conditionality, as it is influenced by the participant's beliefs about their partner's behavior.  
+Implicit beliefs are derived by determining the partner contribution at the intersection of the conditional and unconditional cooperation functions, specifically equations (1) and (3) for the outgroup, and equations (2) and (4) for the ingroup. At these points, which we call ![](blob:https://euangoddard.github.io/d4d6118c-418b-483d-8587-ebd0965225d0)*G^e^* and *O^e*![](blob:https://euangoddard.github.io/04e84b3a-3848-4d1d-b7e0-32dbbd2018a4)**^,** participants are allocating to the group account some amount that might be consistent with what they expect the partner will contribute.  This decision is unconditional in nature, as they cannot make a strategy plan in advance. However, it does possess a certain degree of conditionality, as it is influenced by the participant's beliefs about their partner's behavior.  
 
 Equalizing (1) and (3) we obtain:
 
 ![](/static/equation5.png)
 
-Assuming **,**
+Assuming ***O_k*** = ***O^e^*,**
 
 Likewise, 
 
@@ -138,17 +138,17 @@ Intergroup discrimination is determined by differences in behavior when interact
 
 This step yields the measure of statistical discrimination (SD) exhibited by an individual when interacting with an outgroup member. Since SD is driven by the subject's beliefs about the expected behavior of the partner, the first term in equation (9) captures the participant's conditional cooperation response to an ingroup member whose behavior is known to match the expected behavior of the outgroup (i.e., a "belief-controlled" benchmark). In contrast, the second term reflects the unconditional cooperation extended to an outgroup member, whose behavior is uncertain and inferred through prior expectations. The difference between these two responses---ingroup with known behavior versus outgroup with expected behavior---encapsulates the essence of statistical discrimination: the behavioral gap that emerges solely from differences in how beliefs are formed and applied depending on group identity.
 
-![](blob:https://euangoddard.github.io/f3070e38-d8e5-4286-b75a-ec986a2e2b9e)     **                                                    (9)**
+![](blob:https://euangoddard.github.io/f3070e38-d8e5-4286-b75a-ec986a2e2b9e)      **                                                   (9)**
 
 Intuitively, equation (9) allows us to assess whether participants are more cooperative toward an ingroup member whose contribution matches what they expect from an outgroup. In essence, it isolates whether group identity alone affects behavior when expectations are held constant. Additionally, a complementary and mathematically equivalent approach (see Annex 1 for formal proof) is to evaluate whether participants behave less cooperatively with an outgroup member whose contribution aligns with their expectations for the ingroup. Both formulations capture the same behavioral asymmetry---namely, the differential treatment of identical contributions depending solely on the social identity of the partner---which lies at the core of statistical discrimination. ![](blob:https://euangoddard.github.io/c3f458a0-90bd-4b86-ba77-d97293dea13e) in equation (10) assesses whether expectations towards the ingroup affect individuals' behavior. 
 
-![](blob:https://euangoddard.github.io/2c1ba446-d945-4e6d-ad17-a6d09239acd1)     **                                      (10)**
+![](blob:https://euangoddard.github.io/2c1ba446-d945-4e6d-ad17-a6d09239acd1)      **                                     (10)**
 
 **Fourth step:**
 
 In this final step, we compute preference-based discrimination (PbD) as the residual difference between total discrimination (TD) and statistical discrimination (SD). As illustrated in Figure 1 and formalized in equation (11), TD is defined as the difference between the subject's unconditional cooperation toward an ingroup versus an outgroup partner. Because unconditional cooperation reflects a combination of elements---including beliefs about the partner's behavior, intergroup attitudes, and the individual's baseline prosociality---the resulting intergroup gap encapsulates both belief-driven and preference-driven components. By subtracting SD from TD, we isolate the portion of discriminatory behavior that cannot be explained by differences in expectations and is thus attributable to group-based preference biases. This residual, formalized in equation (12), constitutes our measure of PbD.
 
-![](blob:https://euangoddard.github.io/91e88c36-460c-403a-88e0-b39979e90314)     **                                                       (11)**
+![](blob:https://euangoddard.github.io/91e88c36-460c-403a-88e0-b39979e90314)      **                                                      (11)**
 
 ![](blob:https://euangoddard.github.io/4be54d8b-296e-4855-82f4-2a0e98de039c)
 
@@ -156,7 +156,7 @@ In this final step, we compute preference-based discrimination (PbD) as the resi
 
 ![](blob:https://euangoddard.github.io/d9351355-835f-4fbb-9343-9c0df03c40f7)
 
-![](blob:https://euangoddard.github.io/2cc8f5e0-dc0a-40b9-9613-6d383a654124)     **                                                       (12)**
+![](blob:https://euangoddard.github.io/2cc8f5e0-dc0a-40b9-9613-6d383a654124)      **                                                      (12)**
 
 3. The Behavioral Task
 
@@ -587,19 +587,19 @@ Voors, M. J., Nillesen, E. E., Verwimp, P., Bulte, E. H., Lensink, R., & Van Soe
 
 ## Annex 1
 
-![](blob:https://euangoddard.github.io/ee097472-39ba-4c9b-9674-4f5b2f94e441)     **                                         (9)**
+![](blob:https://euangoddard.github.io/ee097472-39ba-4c9b-9674-4f5b2f94e441)      **                                        (9)**
 
 (3) in (9)
 
-![](blob:https://euangoddard.github.io/f5b72264-efb4-4b38-ad84-72298aed1bf8)     **                                        (9')**
+![](blob:https://euangoddard.github.io/f5b72264-efb4-4b38-ad84-72298aed1bf8)      **                                       (9')**
 
 (7) in (9')
 
-![](blob:https://euangoddard.github.io/c6f944e8-9b32-4fba-94f1-7930f6550a80)     **                            (9')**
+![](blob:https://euangoddard.github.io/c6f944e8-9b32-4fba-94f1-7930f6550a80)      **                           (9')**
 
 Let's assume that the subject*'s* unconditional contribution is the same than their conditional contribution if the partner contributes zero, i.e.,![](blob:https://euangoddard.github.io/c9759c53-c83b-4bd2-825d-ffc943cd7934)**.** Then, equation (9') will look like:
 
- ![](blob:https://euangoddard.github.io/3d01f75d-3c7d-4bd7-92c1-5791124fd611)     **                                                       (9')**
+ ![](blob:https://euangoddard.github.io/3d01f75d-3c7d-4bd7-92c1-5791124fd611)      **                                                      (9')**
 
 If individuals are to behave better with the ingroup than with the outgroup, keeping the contributions fixed in the outgroup's expected behavior, that should be equivalent to behave worse with an outgroup that contributes what they expect from the ingroup.  Formally, that is:
 
@@ -611,8 +611,8 @@ If individuals are to behave better with the ingroup than with the outgroup, kee
 
 If ![](blob:https://euangoddard.github.io/87d74914-2b55-4e1e-a6d3-61bd77de1481)
 
-![](blob:https://euangoddard.github.io/73648346-88f4-485a-ac79-d4e415140344)     **             (10')**
+![](blob:https://euangoddard.github.io/73648346-88f4-485a-ac79-d4e415140344)      **            (10')**
 
 (3) in (10')
 
-![](blob:https://euangoddard.github.io/52f61b63-f36d-4997-a442-a310377cc666)     **                                        (10')**
+![](blob:https://euangoddard.github.io/52f61b63-f36d-4997-a442-a310377cc666)      **                                       (10')**
