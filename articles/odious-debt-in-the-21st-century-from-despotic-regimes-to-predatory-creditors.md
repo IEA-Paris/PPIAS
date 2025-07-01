@@ -133,22 +133,9 @@ The preventive diplomacy framework outlined by Hausmann, Gulati, and Panizza oug
 
 The final two sections of this article explore an alternative trajectory that envisions the application of preventive diplomacy in accordance with the Costa Rican formula, which places the main emphasis on the use of funds and the responsibility of creditors (see table below). In a global context where most sovereign debt is issued by democratically elected regimes, the relevance of the odious debt doctrine would be significantly enhanced by integrating the problem of abusive lending. Reframed in this way, the doctrine could serve as a safeguard against predatory lending practices, redirecting the analytical focus away from the political legitimacy of borrowing governments toward contractual dynamics, informational asymmetries, and the active or tacit complicity of creditors.
 
-**Table 2: Restating odious debt, a schematic overview**
+**Table 1: Restating odious debt, a schematic overview**
 
 ![](/static/table1.png)
-
-Odious borrower
-(Cuban formula)
-Odious lender
-(Costa Rican formula)
-Ex-post litigation
-Cuba (1898)
-Iraq (2003)
-Costa Rica (1923)
-Ecuador (2008)
-Ex-ante market norm
-Venezuela (2017)
-??
 
 This shift in analytical focus resonates with contemporary debates on the dynamics of financial predation within democratic regimes. In 2023, of the roughly $97 trillion in global public debt, the vast majority was issued by democratic states (UNCTAD, 2024). In these contexts, over-indebtedness stems not only from excessive borrowing by governments but also from a surplus supply of credit pushed by lenders. This challenges the conventional narrative of the creditor–debtor relationship, which casts lenders as passive responders to sovereign borrowing needs. In reality, creditors frequently engage in aggressive solicitation strategies, at times manufacturing artificial demand for financing to support projects for which recipients had expressed no prior need. Since the major waves of liberalization in the 1970s and 1980s, abusive lending practices have emerged as a key driver of international financial instability. As early as 1976, Johannes Witteveen, then Managing Director of the IMF, cautioned against the growing activism of creditors in pushing states to take on excessive debt: “Commercial banks should not be so easily accessible that \[...] this leads authorities to accumulate debts greater than what is desirable (cited in James, 2002).” His warning anticipated the debt trajectories later witnessed in Latin America and Southeast Asia during the 1980s and 1990s, and in Southern Europe during the 2000s.
 
@@ -156,7 +143,7 @@ The Greek case offers a paradigmatic illustration of the cycle of predatory lend
 
 The second phase of the predatory lending cycle involves the concealment of debt through opaque and complex financial engineering. In 2001, Goldman Sachs offered the Greek government a €2.8 billion currency swap designed to mask part of its debt and thereby allow the country to meet the criteria for entry into the eurozone. The arrangement involved exchanging Greek debt denominated in U.S. dollars and Japanese yen for euros, using a historical exchange rate that artificially reduced the true size of the debt. As a result, €2.37 billion—roughly 2 percent of Greece’s public debt—was erased from national accounts (Armitage & Chu, 2015). The bank received €600 million in fees for its services. Greek officials, lacking full comprehension of the financial and legal intricacies, only later grasped the long-term risks of the transaction, which ultimately cost the state more than €5 billion due to the interest rate formula embedded in the contract. Creative accounting played a significant role in the causal chain that led to Greece’s insolvency a decade later. By offloading debt from the national balance sheet, the currency swap created the illusion of fiscal soundness, misleading investors and enabling a decade of unchecked borrowing in a country touted as the financial “locomotive” of Southern Europe. When the accounting fraud was exposed in 2009, just as Greece plunged into a full-scale debt crisis, some observers called for a debt restructuring, arguing that the responsibility for the unsustainable liabilities should be shared between reckless lenders and imprudent borrowers (el-Erian, 2012). Yet the opposite occurred. Once it became clear that Greece had overborrowed, public institutions were summoned to the rescue. Large-scale lending resumed with little interruption, the only difference being the shift in creditor identity, from private financial actors to official public lenders (Mallard & Pénet, 2013).
 
-Finally, in May 2010, the Troika (the IMF, European Commission, and ECB) granted a €110 billion loan to Greece in exchange for the adoption of drastic austerity measures. The bailout, which violated the IMF’s own internal rules prohibiting loans to insolvent countries, can be interpreted as a continuation of predatory lending by other means (Pénet & Mallard, 2014). The Troika simply added debt to existing debt, despite clear IMF guidelines against lending to countries unable to meet their obligations. IMF economists had explicitly recognized that Greece’s debt was unsustainable and that the country would not recover without restructuring (Pénet, 2018). “They bear criminal responsibility,” declared Joseph Stiglitz in reference to the Troika, which lent massively to Greece primarily to ensure the repayment of French and German banks, then holding over 40 percent of Greek sovereign debt.\[4]
+Finally, in May 2010, the Troika (the IMF, European Commission, and ECB) granted a €110 billion loan to Greece in exchange for the adoption of drastic austerity measures. The bailout, which violated the IMF’s own internal rules prohibiting loans to insolvent countries, can be interpreted as a continuation of predatory lending by other means (Pénet & Mallard, 2014). The Troika simply added debt to existing debt, despite clear IMF guidelines against lending to countries unable to meet their obligations. IMF economists had explicitly recognized that Greece’s debt was unsustainable and that the country would not recover without restructuring (Pénet, 2018). “They bear criminal responsibility,” declared Joseph Stiglitz in reference to the Troika, which lent massively to Greece primarily to ensure the repayment of French and German banks, then holding over 40 percent of Greek sovereign debt.[^4]
 
 The cycle of predatory lending is by no means confined to Greece. Many democratic states have faced similar strategies. Creditor activism in the sovereign debt sector (stage one of the odious lending cycle) recalls the aggressive marketing tactics prevalent in consumer credit markets. These manipulative practices are not merely the result of commercial exuberance; they are embedded within a broader debt regime structurally organized around the suppression of default. When the prospect of sovereign default is effectively neutralized or severely constrained, creditors no longer internalize credit risk. Instead, they operate under the assumption that any losses will ultimately be absorbed through public sector bailouts, reinforcing a cycle of irresponsible lending.
 
@@ -286,7 +273,20 @@ UNCTAD. (2012). Principles on promoting responsible sovereign lending and borrow
 
 UNCTAD. (2024). A world of debt 2024: A growing burden to global prosperity.
 
-\[1] For perspective on the Algerian case, see Mallard (2021).
-\[2] Jean-Luc Mélenchon, “Dimanche, ma gauche peut gagner en Grèce”, January 20, 2015. http://www.jean-luc-melenchon.fr/2015/01/20/dimanche-ma-gauche-peut-gagner-en-grece/
-\[3] “Paris et Washington s’affrontent sur l’annulation de la dette,” Le Monde, September 9, 2004.
-\[4] “Stiglitz on Greek Tragedy,” BBC, 30 June 2015.
+## Endnotes
+
+[^1]:
+
+ For perspective on the Algerian case, see Mallard (2021).
+
+[^2]:
+
+ Jean-Luc Mélenchon, “Dimanche, ma gauche peut gagner en Grèce”, January 20, 2015. http://www.jean-luc-melenchon.fr/2015/01/20/dimanche-ma-gauche-peut-gagner-en-grece/
+
+[^3]:
+
+ “Paris et Washington s’affrontent sur l’annulation de la dette,” Le Monde, September 9, 2004.
+
+[^4]: 
+
+“Stiglitz on Greek Tragedy,” BBC, 30 June 2015.
