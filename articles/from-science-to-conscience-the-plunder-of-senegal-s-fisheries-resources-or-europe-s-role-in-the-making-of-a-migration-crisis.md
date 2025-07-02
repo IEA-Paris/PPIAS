@@ -277,6 +277,8 @@ The declining trend preceding the rapid increase from the mid-2000s is attribute
 
 Table 2 summarizes the ‘scoring’ of newspaper and magazine articles on the Senegalese out-migration in the ‘Western’ press since 2000.  
 
+![](/static/table2.png)
+
 Table 2. Evaluation of 105 articles published since 2000 on the migration crisis in ‘Western’ newspapers and magazines by the 7 criteria defined in Table 1.
 
 As can be seen, the majority of accounts (59%) met criteria 3-5, i.e., they reported on the EU’s DWF operating in Senegal and considered this operation to have contributed to out-migration from Senegal.
