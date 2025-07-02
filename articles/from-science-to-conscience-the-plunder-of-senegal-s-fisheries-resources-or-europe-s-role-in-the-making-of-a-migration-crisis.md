@@ -247,13 +247,15 @@ Figure 2 presents a reconstruction of the catch of marine fisheries in Senegal b
 
 ![](/static/figure2.png)
 
-Figure 2: Catches of various countries in the Senegalese EEZ, smoothed by a running average (over three years) to make trends more visible. The ‘Other countries’ category includes France, Italy, and other E.U. countries, but all with catches much smaller than Spain’s.
+**Figure 2:** Catches of various countries in the Senegalese EEZ, smoothed by a running average (over three years) to make trends more visible. The ‘Other countries’ category includes France, Italy, and other E.U. countries, but all with catches much smaller than Spain’s.
 
 As can be seen, the DWF catch accounts for roughly half of the catch in the Senegalese EEZ, which is higher than the 40% average for Africa as a whole. Moreover, a large fraction of the industrial catch attributed to Senegal is only nominally owed by Senegalese enterprises. However, this topic is not pursued here. The black line shows the catch that Senegal reports to the FAO.
 
 Figure 3 presents the same catch as Figure 2 for the 10 most important fish species (+ others) without smoothing. There is much inter-annual variability, which adds to the uncertainty in stock assessments.
 
-Figure 3: Taxonomic composition of catches in the Senegalese EEZ.
+![](/static/figure3.png)
+
+**Figure 3:** Taxonomic composition of catches in the Senegalese EEZ.
 
 Figure 4 presents two Kobe plots: the one on the left presents the trajectory of the Madeiran sardinella (Sardinella maderensis) from underfished (in the 1950s) to overfished (from the 2010s), with the dots representing the years from 1950 to 2022; and on the right the 10 species from Figure 2, of which most have low to very low biomass, in line with results obtained for NW Africa as a whole (Christensen et al., 2004). However, there is much uncertainty about their precise position on the Kobe plots due in part to inter-annual variability. Details on the methods and priors used for these assessments can be found in Appendix Tables A1 and A2.
 
