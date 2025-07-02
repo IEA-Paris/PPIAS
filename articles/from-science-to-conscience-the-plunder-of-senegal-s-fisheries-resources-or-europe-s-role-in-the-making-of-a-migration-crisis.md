@@ -259,6 +259,8 @@ Figure 3 presents the same catch as Figure 2 for the 10 most important fish spec
 
 Figure 4 presents two Kobe plots: the one on the left presents the trajectory of the Madeiran sardinella (Sardinella maderensis) from underfished (in the 1950s) to overfished (from the 2010s), with the dots representing the years from 1950 to 2022; and on the right the 10 species from Figure 2, of which most have low to very low biomass, in line with results obtained for NW Africa as a whole (Christensen et al., 2004). However, there is much uncertainty about their precise position on the Kobe plots due in part to inter-annual variability. Details on the methods and priors used for these assessments can be found in Appendix Tables A1 and A2.
 
+![](/static/figure4.png)
+
 Figure 4. Kobe plots summarizing the status of fish populations exploited by unmanaged fisheries, which usually devolve from the green (abundant biomass, low fishing mortality) to the red quadrant (low biomass, excessive fishing mortality). A: Trajectory of the Madeiran sardinella, from 1950 (lower right corner) to 2022 (upper left corner) with each intermediate dot representing a year. Sardinella maderensis accounts for 8% of the total catch in Senegal, with 4.5 million metric tons caught between 1950 and 2022. B: Low biomass position (in 2022) of the top 10 species representing 45% of the total catch of Senegal for the period 1950-2022.
 
 ### The Effect of Ocean Warming
