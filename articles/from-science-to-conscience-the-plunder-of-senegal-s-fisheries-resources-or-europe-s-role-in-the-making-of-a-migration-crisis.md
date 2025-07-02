@@ -564,3 +564,5 @@ Zeller, D., Cashion, T., Palomares, M.L.D. & Pauly, D. (2018). Global marine fis
 ## Appendices
 
 ![](/static/tablea.1.png)
+
+![](/static/tablea.2.png)
