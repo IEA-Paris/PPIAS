@@ -269,7 +269,9 @@ Figure 5 compares the Mean Temperature of the Catch (MTC) from the Senegalese EE
 
 The declining trend preceding the rapid increase from the mid-2000s is attributed to industrial fishing’s tendency to fish deeper with time, as shallow-water species are gradually depleted. Morato et al. (2006) documented this, and Dimarchopoulou et al. (2022) discussed its effect on MTC.
 
-Figure 5: Mean Temperature of the Catch from 1950-2022 in Senegal and NW Spain.
+![](/static/figure5.png)
+
+**Figure 5:** Mean Temperature of the Catch from 1950-2022 in Senegal and NW Spain.
 
 ### Assessing media coverage
 
