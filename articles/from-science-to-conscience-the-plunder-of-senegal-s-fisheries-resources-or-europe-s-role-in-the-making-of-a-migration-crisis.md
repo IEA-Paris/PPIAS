@@ -245,6 +245,8 @@ To assess the degree to which the public in the EU and allied countries is infor
 
 Figure 2 presents a reconstruction of the catch of marine fisheries in Senegal by country, smoothed by a 3-year running average to allow trends to become visible by suppressing some inter-annual variability.
 
+![](/static/figure2.png)
+
 Figure 2: Catches of various countries in the Senegalese EEZ, smoothed by a running average (over three years) to make trends more visible. The ‘Other countries’ category includes France, Italy, and other E.U. countries, but all with catches much smaller than Spain’s.
 
 As can be seen, the DWF catch accounts for roughly half of the catch in the Senegalese EEZ, which is higher than the 40% average for Africa as a whole. Moreover, a large fraction of the industrial catch attributed to Senegal is only nominally owed by Senegalese enterprises. However, this topic is not pursued here. The black line shows the catch that Senegal reports to the FAO.
