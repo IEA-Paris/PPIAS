@@ -331,7 +331,7 @@ This contribution differs from those usually penned by most of its authors. In t
 
 ## Acknowledgments
 
-The first author thanks the Paris Institute for Advanced Studies (PIAS) for a fellowship in May 2025, during which most of the elements considered in this contribution were assembled. The author also thanks Sandra Wade Pauly for her support in Paris and with the writing of this contribution.
+The first author thanks the Paris Institute for Advanced Studies (PIAS) for a fellowship in May 2025, during which most of the elements considered in this contribution were assembled and, as well, thanks Sandra Wade Pauly for her support in Paris and with the writing of this contribution. We also thank Ms. Valentina Ruiz-Leotaud, who identified most of the newspaper and magazine articles ‘scored’ in this study.
 
 ### References
 
