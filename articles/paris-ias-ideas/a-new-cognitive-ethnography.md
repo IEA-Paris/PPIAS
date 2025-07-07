@@ -1,44 +1,68 @@
 ---
-published: false
+DOI: 10.5281/zenodo.15828214
+Zid: 15828214
+abstract: >-
+  A paradigm shift is underway in the behavioral sciences.
+
+
+  Recent advances in computational theories of mind are reshaping the
+  theoretical foundations of cognitive science. Deep learning and predictive
+  processing are driving incredible advances in the capabilities of artificial
+  intelligence as well as providing a theoretical basis for the unification of
+  many previously dispersed sub-fields.
+
+
+  Over the past five decades, I have developed a method for the study of
+  cognition in the wild. This method identifies empirical observations of the
+  fine-scale details of naturally occurring ongoing activity as instances of
+  theoretical concepts. As theories of cognition evolved and as the sites of my
+  ethnographic fieldwork changed, the cognitive ethnography method continued to
+  bring cognitive theory to the interpretation of real-world activity.
+
+
+  Theorizing and speculation about how real-world cognitive processes might
+  appear if the mind were assumed to be a predictive processing system have
+  already begun. Where previous work has theorized the applicability of
+  predictive processing to real-world cognition, the analyses presented here
+  offer a first empirical glimpse of what cognition viewed through this
+  framework actually entails in the fine structure of naturally occurring
+  activity.
+
+
+  In this paper, I propose a novel theoretical framework that combines
+  predictive processing with multimodality and the continuous coupling of
+  organism to environment. I use this framework as the underlying theory in the
+  cognitive ethnographic analysis of two dozen vignettes of real-world activity.
 article_title: A New Cognitive Ethnography
-date: 2025-06-17T06:27:00.000Z
-type: proceedings
-needDOI: false
 authors:
-  - is_institution: false
-    firstname: Edwin
+  - firstname: Edwin
+    is_institution: false
     lastname: Hutchins
     positions_and_institutions:
       - institution: Department of Cognitive Science, University of California San Diego
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: >-
-  A paradigm shift is underway in the behavioral sciences.
-
-
-  Recent advances in computational theories of mind are reshaping the theoretical foundations of cognitive science. Deep learning and predictive processing are driving incredible advances in the capabilities of artificial intelligence as well as providing a theoretical basis for the unification of many previously dispersed sub-fields.
-
-
-  Over the past five decades, I have developed a method for the study of cognition in the wild. This method identifies empirical observations of the fine-scale details of naturally occurring ongoing activity as instances of theoretical concepts. As theories of cognition evolved and as the sites of my ethnographic fieldwork changed, the cognitive ethnography method continued to bring cognitive theory to the interpretation of real-world activity.
-
-
-  Theorizing and speculation about how real-world cognitive processes might appear if the mind were assumed to be a predictive processing system have already begun. Where previous work has theorized the applicability of predictive processing to real-world cognition, the analyses presented here offer a first empirical glimpse of what cognition viewed through this framework actually entails in the fine structure of naturally occurring activity.
-
-
-  In this paper, I propose a novel theoretical framework that combines predictive processing with multimodality and the continuous coupling of organism to environment. I use this framework as the underlying theory in the cognitive ethnographic analysis of two dozen vignettes of real-world activity.
-issue: content/issues/paris-ias-ideas.md
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: /Hutchins2025.bib
+date: 2025-06-17T06:27:00.000Z
 highlight: false
-bibliography: /static/anystyle.bib
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/2976d9f6-d464-47c9-9949-a23c548cb71b
+needDOI: true
+published: true
+type: proceedings
+
 ---
+
 ## 1.   Introduction
 
 A paradigm shift is underway in the behavioral sciences. 
@@ -85,7 +109,8 @@ I am a cognitive scientist, but I was originally trained as an anthropologist. I
 
 Every proper study requires a theory, a method, and an object of scrutiny. As a naturalist of human activity, I put these pieces together as follows: The theory directs our attention. It says what to look for and how to look. The method captures events in the object of scrutiny and identifies them as instances of concepts in the theory. 
 
-### 2.1. Reasoning in Trobriand Island Discourse[^i]
+### 2.1. Reasoning in Trobriand Island Discourse
+[^1]
 
 When I started out in the 1970s, it was widely believed that primitive technology implies primitive thought. The fact that illiterate third-world adults performed on IQ tests about like 10-year-old children in Europe or North America was a robust finding in cross-cultural psychology (Dasen, 1972). In the summer of 1973, I was one of three graduate student researchers under the direction of UCSD anthropology professor Theodore Schwartz, who went to Manus Island in Papua New Guinea to conduct such a study. We administered a battery of intelligence tests to adult non-literate farmers and fishermen in several villages. We replicated the expected finding. Many people concluded from studies like these that non-literate unschooled adults in the third world think like children. But something seemed wrong to me. In everyday interaction, these people did not seem in any way mentally impaired. Furthermore, when the children from these same villages went away to school, they scored about like their age contemporaries in the Western world. There was clearly nothing wrong with the brains of the people. What was going on? 
 
@@ -95,7 +120,7 @@ Funded by the Social Science Research Council, I went back to Papua New Guinea i
 
 **Figure 2.1. The author recording land litigation in a Trobriand Island village in 1976** 
 
-![](/static/figure2.1.png)
+![](/Hutchins-figure2.1.png)
 
 *Photo by Dona Hutchins*
 
@@ -123,7 +148,8 @@ Of course, there is so much more to the performance of public litigation than th
 
 This illustrates how a theoretical framework, together with data collection apparatus, forms a filter and a spotlight that selectively highlight certain aspects of the phenomena while disregarding or completely failing to see others. 
 
-### 2.2. Ship Navigation[^ii]
+### 2.2. Ship Navigation
+[^2]
 
 In the early 1980s, I had a position with the US Navy as a personnel research psychologist (the Navy didn't seem to know how to hire an anthropologist). 
 
@@ -137,7 +163,7 @@ Thus, armed with the dominant theoretical frameworks in cognitive science at the
 
 **Figure 2.2. The navigation team at the chart table on the bridge of the USS Pala**  
 
-![](/static/figure2.2.png)
+![](/Hutchins-figure2.2.png)
 
 *Photo by the author*
 
@@ -161,13 +187,13 @@ At that time, many pieces of that puzzle were still missing. As far as I knew, t
 
 From the modern perspective, I can look back and see what was lacking in the model I imagined 30 years ago. It did not exploit a generative computational framework, nor did it maintain continuous coupling to its environment. Those are elements that have only become available in computational systems of the last two decades. It is only now, in the mid-2020s, that I think I am able to sketch an answer to the question of what a model of individual cognitive function should look like. And that is one aim of this paper.
 
-### 2.3. Airline Operations[^iii]
-
+### 2.3. Airline Operations
+[^3]
 From the late 1980s until 2016, my research village was the worldwide community of airline pilots. The cockpit of an airliner is a distributed cognition system, much like the bridge of a ship - except it is moving a lot faster. The papers titled "Distributed cognition in airline cockpit" (Hutchins & Klausen, 1986) and "How a cockpit remembers its speeds" (Hutchins, 1995b) are examples of the application of the distributed cognition approach to this domain. 
 
 **Figure 2.3. Briefing the approach to Christchurch, New Zealand in a Boeing 737** 
 
-![](/static/figure2.3.jpg)
+![](/Hutchins-figure2.3.jpg)
 
 *Photo by the author*
 
@@ -187,8 +213,8 @@ One of Jim Hollan's students, Adam Fouse, created an application called ChronoVi
 
 In the new century, frameworks for understanding cognition changed too, with the rise of the fields I mentioned in the introduction that focus on the interaction of a person with their settings. Because no field or discipline has yet taken ownership of cultural-cognitive ecosystems, little is known about their function. Truly understanding how such systems work will require a large and sustained cognitive ethnographic endeavor.
 
-## 3.   Related Fields[^iv]
-
+## 3.   Related Fields
+[^4]
 Over the past three decades, cognitive science has been shifting from a concept of cognition as a logical process to one of cognition as a biological phenomenon. As more is learned about the biology of human cognition, the language of classical cognitive science, which described the cognition of socio-technical systems so well, appears increasingly irrelevant to internal cognitive processes. As Clark put it, 
 
 > Perception itself is often tangled up with the possibilities for action and is continuously influenced by cognitive, contextual, and motor factors. It need not yield a rich, detailed, and action-neutral inner model awaiting the services of "central cognition" so as to deduce appropriate actions. In fact, these old distinctions (between perception, cognition, and action) may sometimes obscure, rather than illuminate, the true flow of events. In a certain sense, the brain is revealed not as (primarily) an engine of reason or quiet deliberation, but as an organ of *environmentally situated control*. (Clark, 1998, p. 95)
@@ -227,7 +253,7 @@ I lack the space needed to sort out the many strands of this literature. Let us 
 
 Both embodiment and enaction stress the tight relation between thought and action (Alač & Hutchins, 2004; Hutchins, 2010b). Enaction shares with the dynamical systems approaches a commitment to circular rather than linear causality, self-organization, and the structural coupling of organism and environment. 
 
-Cognitive grammar (Langacker, 1987) and conceptual blending (Fauconnier & Turner, How We Think, 2002) are cognitive linguistic theories that describe phenomena that fit poorly with the theory underpinning mainstream cognitive science at the end of the 20^th^ century. The predictive processing approach is much more congenial to these approaches.
+Cognitive grammar (Langacker, 1987) and conceptual blending (Fauconnier & Turner, How We Think, 2002) are cognitive linguistic theories that describe phenomena that fit poorly with the theory underpinning mainstream cognitive science at the end of the 20th century. The predictive processing approach is much more congenial to these approaches.
 
 Cultural Historical Activity Theory, with its emphasis on the social construction of thought, inspired other approaches that consider the cognitive consequences of social and cultural configurations (Daniels et al, 2007). Activity theory is the direct ancestor of the situated action perspective (Greeno & Moore, 1993; Lave, 1988; Lave & Wenger, 1991; Rogoff, 2003; Suchman, 1987). With its emphasis on the interconnections of developmental processes on all timescales (phylogenetic, cultural, ontogenetic, and micro-genetic), activity theory has been put to work by educational researchers as well (Greeno, 1998; Pea, 1996). 
 
@@ -249,7 +275,7 @@ My interest is in theoretically hypothesized PP networks. It would be nice if t
 
 **Figure 4.1. A sketch of the MGC system**
 
-![](/static/figure4.1.png)
+![](/Hutchins-figure4.1.png)
 
 This is my sketch of a theoretical instantiation of the MGC system. It is not intended as a biological instantiation, although it borrows some concepts from neuroscience. It is not intended as a computational instantiation, although it borrows some concepts from generative AI. It is not strictly a predictive processing instantiation, although it borrows from that line of research as well, especially as it is presented by Andy Clark (2023). The diagram is grossly oversimplified, of course. The human brain is estimated to have around 90 billion neurons and has a complex architecture of regions.With this sketch, I only intend to suggest a few key functional relationships between the world, sensory-motor surfaces, and a very large neural network. It is these imagined relationships that guide our examination of real-world activity. 
 
@@ -401,7 +427,7 @@ So, how is it possible for navigators to perform complex computations without do
 
 The MGC framework implies that cognitive processes should be visible in the fine details of the engagement of a whole person with a whole culturally organized world. In the following sections, I will attempt to perform such an analysis. 
 
-The first four activities analyzed in this section are drawn from observations of the navigation team on the bridge of a large US Navy ship as it enters the narrow channel at the mouth of its home port. The USS Palau[^v] is an amphibious assault carrier. It is about 200 meters long and looks like an aircraft carrier, having a flat flight deck and an "island" tower protruding five levels above the flight deck. 
+The first four activities analyzed in this section are drawn from observations of the navigation team on the bridge of a large US Navy ship as it enters the narrow channel at the mouth of its home port. The USS Palau[^5] is an amphibious assault carrier. It is about 200 meters long and looks like an aircraft carrier, having a flat flight deck and an "island" tower protruding five levels above the flight deck. 
 
 The navigation bridge is on the second level above the flight deck. There, the captain, the officer of the deck, the navigator (officer), the keeper of the deck log, helmsman, engine order telegraph operator, and bosun's mate stand watch during the entry to harbor. Also on the navigation bridge are two members of the navigation team, a plotter and a bearing recorder. 
 
@@ -417,7 +443,7 @@ Other tools appear in the activity: a pencil, the hoey, and dividers. 
 
 **Figure 5.1. Plotting tools: Hoey (left) and dividers (right)**
 
-![](/static/figure5.1.png)
+![](/Hutchins-figure5.1.png)
 
 The hoey is a plotting protractor. The hoey base is a semi-circle marked with degree scales. There are 360 degrees in a full circle. A plotting arm rotates around the center of the degree circle. The arm is attached to the base with a lock ring screw that can be tightened and loosened to adjust the amount of friction between the arm and the base. The rectangular grid of red lines on the transparent hoey base provides for alignment of the hoey base with the chart. Laying one of the vertical red lines on a charted line of longitude or laying one of the horizontal red lines on a charted line of latitude brings the hoey base into alignment with the directional frame (relative to true north) of the chart. The dividers (confusingly also known as a compass) are a two-legged tool with adjustable friction to hold the angle between the legs and thus the span between leg tips.
 
@@ -435,8 +461,8 @@ We will look at just three elements of the fix cycle: Plotting a single LOP, com
 
 On a cool spring afternoon in 1984, the USS Palau returned to its home port, San Diego Harbor, following several days of exercises in the waters off Southern California. Standing at the chart table on the navigation bridge, the plotter P and the bearing recorder BR were using visual bearings on familiar landmarks to plot the ship's position every three minutes. As the ship approached the harbor entrance, the navigation team plotted a position. P measured the speed of the ship and projected an estimated position where he expected the ship to be at the time of the next position fix. P and BR then chose three landmarks to use in plotting the ship's next position. 
 
-### 5.1. Plotting a Line of Position[^vi]
-
+### 5.1. Plotting a Line of Position
+[^6]
 Once commenced, the cycle of activity for plotting a fix is a true cycle with no beginning point. For this analysis, I take as the starting configuration P and BR standing side-by-side at the chart table. BR hears the report of the bearing to the first landmark and reads it back to the bearing taker on the wings. This read-back also makes the bearing available to P, who has the hoey in his hands on the surface of the chart in front of his body. 
 
 Each vignette consists of three parts. 1) A description of observed activity. This description appears in *italic* font. 2) A richer re-description of the observations, including background processes and the history of the activity. 3) A discussion of the cognitive import of the observed activity as revealed by the MGC analysis. Let's put on our MGC goggles and take a closer look at the fifteen seconds of activity involved in plotting a single line of position. 
@@ -457,7 +483,7 @@ Here (in *italic* font) is a description of the fine detail of P's multimodal 
 
 **Figure 5.1.1. P locating bearing on hoey**
 
-![](/static/figure5.1.1.png)
+![](/Hutchins-figure5.1.1.png)
 
 *Frame from a video by the author*
 
@@ -497,7 +523,7 @@ Beyond the domain of navigation, the protractor scale is a domesticated space th
 
 **Figure 5.1.2. Setting the hoey arm to the bearing on the scale**
 
-![](/static/figure5.1.2.png)
+![](/Hutchins-figure5.1.2.png)
 
 *Frame from a video by the author*
 
@@ -529,7 +555,7 @@ When used to plot an LOP, the hoey is a digital-to-analog converter, and when lo
 
 **Figure 5.1.3. Aligning the hoey with the chart's direction frame**
 
-![](/static/figure5.1.3.png)
+![](/Hutchins-figure5.1.3.png)
 
 *Frame from a video by the author*
 
@@ -575,7 +601,7 @@ While adjusting the alignment of the base with the chart, the hoey arm must be k
 
 **Figure 5.1.4. Detecting the error**
 
-![](/static/figure5.1.4.png)
+![](/Hutchins-figure5.1.4.png)
 
 *Frame from a video by the author*
 
@@ -608,11 +634,11 @@ It is not possible to know if the plotter noticed the approximate distance on th
 
 **Figure 5.1.5. Correcting the error**
 
-![](/static/figure5.1.5.png)
+![](/Hutchins-figure5.1.5.png)
 
 *Frame from a video by the author*
 
-This is the initiation of the corrective action, searching for a workable landmark. P's head began to rise just two video frames (1/15^th^ of a second) before his hands began to slide the hoey base away from his body. He appears not to have questioned the bearing or the setting of the hoey arm locked into the hoey base. 
+This is the initiation of the corrective action, searching for a workable landmark. P's head began to rise just two video frames (1/15th of a second) before his hands began to slide the hoey base away from his body. He appears not to have questioned the bearing or the setting of the hoey arm locked into the hoey base. 
 
 *The pushing motion accelerates. P's head reorientation ends. His right hand rides along on the end of the hoey arm, keeping pace with the left hand, which is sliding the hoey base. Thus, the hoey maintains its approximate rotational orientation with the chart. The pencil remains upright in P's right hand during this translation, ready to impale the new landmark. The motion of the hands decelerates as the hoey arm and right hand arrive in the vicinity of the depiction of Hotel del Coronado. P's gaze is now fixed on the chart under the pencil point. His torso continues to advance over the chart, catching up with his hands and bringing his head closer to his right hand.*
 
@@ -650,7 +676,7 @@ The row and column format of the bearing record log is a cultural device that co
 
 **Figure 5.1.6. Drawing the LOP** 
 
-![](/static/figure5.1.6.png)
+![](/Hutchins-figure5.1.6.png)
 
 *Frame from a video by the author*
 
@@ -666,8 +692,8 @@ P stops all other motion in the body when he focuses on fine work with the penci
 
 A moment without motion marks the discovery of the error. When courses of action are trains of thought, interruptions in the train of thought may appear as interruptions in the course of action. If we take embodiment seriously, then the space of possible thoughts must be constrained by the physical characteristics of the body.
 
-### 5.2.  Using the Three-Minute Rule to Compute Ship's Speed[^vii]
-
+### 5.2.  Using the Three-Minute Rule to Compute Ship's Speed
+[^7]
 As we have seen, what have traditionally been called high-level cognitive processes can be produced by the engagement of a culturally orchestrated MGC system with cultural materials, that is, elements of language, sign systems, and inscriptions of all sorts.
 
 A rich example of this idea, taken from the world of ship navigation, is provided by the so-called three-minute rule, which navigators use to compute a ship's speed from elapsed time and distance traveled. This instance of high-level cognition computes the value of an abstraction, speed, which is a relationship between distance and time that can be sensed but cannot be measured directly or expressed with precision by the organic human body. The general procedure for computing speed is to measure the distance traveled by the ship over a given span of time and divide the distance by the time. There are many unit systems for the expression of distance, time, and speed. There are also many ways to perform this computation, each one making use of a different configuration of internal and external cognitive resources. When the distance is expressed in nautical miles and the time in hours, the result is nautical miles per hour, also known as knots. 
@@ -682,7 +708,7 @@ In the terms I was using in *Cognition in the Wild*, this high-level cognitive 
 
 **Figure 5.2.1. Spanning the distance on the chart** 
 
-![](/static/figure5.2.1.png)
+![](/Hutchins-figure5.2.1.png)
 
 *Photo by the author*
 
@@ -692,7 +718,7 @@ Once the distance traveled has been spanned with the dividers, a different set o
 
 **Figure 5.2.2. Spanning the scale**
 
-![](/static/figure5.2.2.png)
+![](/Hutchins-figure5.2.2.png)
 
 *Photo by the author*
 
@@ -718,15 +744,15 @@ The emerging picture of the brain as an organ of environmentally situated contro
 
 Combining the basic embodiment premise that low-level action and perception are inextricably linked, with the idea from Havelange et al. (2003) that technologically mediated interaction is part of the process of forming enacted representations, opens a new space of possibilities for understanding how high-level cognitive processes can arise in enactment.
 
-### 5.3 An Aha! Insight[^viii]
-
+### 5.3 An Aha! Insight
+[^8]
 As described above, when plotting a position fix, two intersecting lines of position determine, or "fix," the position of the ship. Navigators usually try to plot three lines of position because the intersection of three LOPs forms a triangle. A small fix triangle indicates that the position fixing information is good. A large triangle indicates problems somewhere in the chain of constraints from which the fix triangle is constructed. In general, the navigator's confidence in a fix is inversely proportional to the size of the fix triangle. 
 
 I happened to be on the bridge of the Palau, video-recording navigation activities, when, while entering the narrow navigation channel at the entrance to San Diego Bay, the ship suffered the failure of its main gyrocompass. Upon losing the gyrocompass, the navigation crew could no longer simply read the true bearing of a given landmark and plot that bearing. Rather, they were then required to compute the true bearing of the landmark by adding the corrected magnetic ship's heading to the relative bearing of the landmark (bearing of the landmark with respect to the ship's heading). The magnetic compass is subject to two kinds of errors: deviation and variation. The local magnetic environment of the compass can induce small errors, called deviation, that are a function of the interaction between the compass, the ship, and the Earth's magnetic field. Deviation errors vary with magnetic heading, are empirically determined by the navigation team before sailing, and are posted on a card near the magnetic compass. Magnetic variation is the extent to which the direction of the Earth's magnetic field diverges from true north in the local area. Variation is indicated in the compass roses printed on the navigation chart. The correct equation is as follows: true bearing of the landmark equals compass heading plus deviation plus magnetic variation plus the relative bearing of the landmark (TB = C + D + V + RB). The loss of the gyrocompass disrupted the ability of the crew to plot accurate positions for the ship. The crew explored various computational variations of TB = C + V + RB while plotting thirty-eight lines of position. Then they discovered that a key term, deviation (D), was missing from their computations. After reconfiguring their work to include the deviation term, the team gradually regained the functional ability to plot accurate positions. Figure 5.3.1 shows our reconstruction of the position fixes created by the navigation team before and after the failure of the gyrocompass. 
 
 **Figure 5.3.1. Reconstruction of the position fixes created by the navigation team for the entry on which the gyrocompass failed**  
 
-![](/static/figure5.3.1.png)
+![](/Hutchins-figure5.3.1.png)
 
 *The column at left indicates the computational sequence used to compute each line of position. The colored horizontal bars across the bottom of the figure indicate the quality of the resulting fix. The green vertical bars indicate key adaptive events in the sequence. The gyrocompass failed at the first green vertical bar. The missing deviation term was discovered at the third green bar.*
 
@@ -742,19 +768,19 @@ Table 5.3.1 has two columns. In the left column are descriptions of the observed
 
 **Table 5.3.1. P's activity and the enactment of phenomenal objects**
 
-![](/static/table1.png)
+![](/Hutchins-table1.png)
 
-![](/static/table2.png)
+![](/Hutchins-table2.png)
 
-![](/static/table3.png)
+![](/Hutchins-table3.png)
 
-![](/static/table4.png)
+![](/Hutchins-table4.png)
 
-![](/static/table5.png)
+![](/Hutchins-table5.png)
 
 **Figure 5.3.2. P manipulating the hoey (left)** 
 
-![](/static/figure5.3.2.png)
+![](/Hutchins-figure5.3.2.png)
 
 *Mutual elaboration of concepts on (right). Follow black arrows through a sequence of insights. Red arrows are mutual support*
 
@@ -762,7 +788,7 @@ The tentative nature of these actions marks this exploratory manipulation as an 
 
 **Figure 5.3.3. The superimposition of imagined clockwise rotation (motor anticipation) onto the visual experience of the hoey degree scale**
 
-![](/static/figure5.3.3.png)
+![](/Hutchins-figure5.3.3.png)
 
 *Light-gray solid lines represent the position of the hoey arm when aligned with the 120-degree mark. Dashed lines represent the imagined location of the hoey arm if it were rotated slightly clockwise. The image of a number slightly larger than 120 is an emergent property of this interaction between the contents of visual experience and motor anticipation.*
 
@@ -772,7 +798,7 @@ First, prediction and anticipation are core functions of animal perception/ acti
 
 Second, not only do the contents of various perceptual modes interact with one another, but these interactions have also been linked to success in insight tasks. Spivey (2007, pp. 266-268) describes Glucksberg's (1964) replication of Duncker's (1945) famous candle problem. The problem is to mount a candle on a wall using only the candle, a book of matches, and a cardboard box full of thumb tacks. The solution is to use the tacks to affix the box to the wall and use the box as a shelf for the candle. Glucksberg recorded what the participants did with the actual objects as they attempted to solve the problem. Those who successfully solved the problem tended to touch the box more than those who did not. For those that did solve it, Spivey observes, 
 
-> "Moreover, right before that 'Aha!' moment, the object that these participants had most recently touched was always the box---and in most cases that touch had been adventitious and nonpurposeful. It is almost as if the participant's hands suspected that the box would be useful, in and of itself, before the participant himself knew!" (Spivey, 2007, p. 268). 
+> "Moreover, right before that 'Aha!' moment, the object that these participants had most recently touched was always the box — and in most cases that touch had been adventitious and nonpurposeful. It is almost as if the participant's hands suspected that the box would be useful, in and of itself, before the participant himself knew!" (Spivey, 2007, p. 268). 
 
 This suggests that the embodied processes of interacting with the material objects may have included the imagination of manipulations of the box that could be useful in solving the problem. More recently, Goldin-Meadow (2006) has shown that children explaining their incorrect answers to arithmetic problems sometimes produce gestures that do not entirely match the contents of their spoken words. In particular, the "gesture-speech mismatches" sometimes highlight with gesture aspects of the correct solution that the student is not yet capable of describing in words. This condition is shown to be an indicator of readiness to learn the correct solution procedure. Again, reasoning processes playing out in the actions of the hands may hold content that can lead to insights. 
 
@@ -784,7 +810,7 @@ In a traditional cognitive explanation of creative insight, one would postulate 
 
 The processes described thus far can be characterized in terms of some general implications of the MGC view of cognition. 
 
-In certain culturally constructed settings, bodily motion acquires meaning by virtue of its relation to the spatial structure of things. Goodwin (1994) calls this phenomenon "environmentally coupled gesture." In some circumstances, the body itself becomes a cognitive artifact, upon which meaningful, environmentally coupled gestures can be performed (Enfield, 2006; Hutchins, 2006). In such settings, motion in space acquires conceptual meaning, and reasoning can be performed by moving the body. Material patterns can be enacted as representations in the interaction of a person and culturally organized settings. Courses of action then become trains of thought. For example, when working on the chart, movement away from the body is conceptually northward, toward the body is south, and clockwise rotation is an increasing measure of degrees. When actions are performed by experts in these domains, the integration of bodily sensations with directional frames produces embodied reasoning. Navigators sometimes speak of these reasoning skills as "thinking like a compass." I believe they could be better described as "enacting compass directions in bodily sensations." The enactments of external representations habitually performed by practitioners who live and work in complex culturally constituted settings are multimodal. It must be assumed that these enacted multimodal representations are involved in the construction of memories for past events, the experience of the present, and the anticipation of the future. Complex enacted multimodal representations are likely to be more stable than single-mode representations (Gibbs, 2006, p. 150). One way to accomplish this multimodal integration is to embed the representations in durable material media---what I have elsewhere called "material anchors for conceptual blends" (Hutchins, 2005). Another way to add stability is to enact the representations in bodily processes. These bodily processes become "somatic anchors for conceptual blends." Stabilization of complex conceptual representations by either means facilitates their manipulation. 
+In certain culturally constructed settings, bodily motion acquires meaning by virtue of its relation to the spatial structure of things. Goodwin (1994) calls this phenomenon "environmentally coupled gesture." In some circumstances, the body itself becomes a cognitive artifact, upon which meaningful, environmentally coupled gestures can be performed (Enfield, 2006; Hutchins, 2006). In such settings, motion in space acquires conceptual meaning, and reasoning can be performed by moving the body. Material patterns can be enacted as representations in the interaction of a person and culturally organized settings. Courses of action then become trains of thought. For example, when working on the chart, movement away from the body is conceptually northward, toward the body is south, and clockwise rotation is an increasing measure of degrees. When actions are performed by experts in these domains, the integration of bodily sensations with directional frames produces embodied reasoning. Navigators sometimes speak of these reasoning skills as "thinking like a compass." I believe they could be better described as "enacting compass directions in bodily sensations." The enactments of external representations habitually performed by practitioners who live and work in complex culturally constituted settings are multimodal. It must be assumed that these enacted multimodal representations are involved in the construction of memories for past events, the experience of the present, and the anticipation of the future. Complex enacted multimodal representations are likely to be more stable than single-mode representations (Gibbs, 2006, p. 150). One way to accomplish this multimodal integration is to embed the representations in durable material media — what I have elsewhere called "material anchors for conceptual blends" (Hutchins, 2005). Another way to add stability is to enact the representations in bodily processes. These bodily processes become "somatic anchors for conceptual blends." Stabilization of complex conceptual representations by either means facilitates their manipulation. 
 
 Finally, culturally embedded embodied thinking and acting benefit from adaptive possibilities created by both the variability in interactions with material representations and the variability inherent in social interaction. This variability in performance is often considered to be noise that is formally irrelevant to the accomplishment of the task. However, this variability in "task irrelevant" dimensions may be a resource for adaptive processes when routine activity is disrupted. Variability is important for the dynamics of cultural evolution and for the control of entropy or uncertainty. Little is known about this aspect of cultural systems. 
 
@@ -798,19 +824,19 @@ Putting things together this way reveals new analytic possibilities for understa
 
 Every mundane act of perception shares something fundamental with creative insight: the fact that what is available to the senses and what is experienced can be quite different. Reading the same scale for distance or speed in the use of the three-minute rule is a simple example. Similarly, a navigator can read the 120-degree mark on the protractor scale as a stable target on which one can position the hoey arm. Or the same navigator might read the same mark as a referent with respect to which a small clockwise rotation produces a new target, a slightly larger number on the scale, that fits better the anticipated course of action. In reading the mark this way, he suddenly sees what had been hidden. "Aha! Add three to everything." What makes ordinary acts of perception ordinary is only that the cultural practices of enacting them are over-learned, and the outcomes follow as anticipated. Creative acts of perception can occur when emergent relations arise in the enactment of integrated, multimodal, temporally extended, embodied representations.
 
-### 5.4 Choosing Landmarks[^ix]
-
+### 5.4 Choosing Landmarks
+[^9]
 Having plotted the ship's position and computed its speed, P projected an estimated position (EP) - the anticipated location of the ship at the time of the next fix (shown as a half circle on the anticipated track line in Figure 5.4.1). P and BR now consider landmarks to use for plotting the next fix. 
 
 **Figure 5.4.1 Estimated position is the dot in the half circle on the planned entry line**
 
-![](/static/figure5.4.1.png)
+![](/Hutchins-figure5.4.1.png)
 
 The trick here is that the three landmarks must be chosen such that the LOPs intersect at useful angles (Figure 5.4.2). The choice criteria are as follows: Shallow angles between LOPs are to be avoided because with a shallow angle of intersection, a small error in either LOP will cause a large displacement of the point of intersection between the lines (See the two dashed lines in Figure 5.4.2). Ninety-degree angles are least vulnerable to displacement of the point of intersection with errors in the bearings, but of course, it is not possible to place three lines with ninety-degree intersections in a two-dimensional space. Experienced navigators judge the shape of the triangle, rather than evaluating each of the three intersections separately. A 90° intersection with two 45° intersections is a good solution, as is an equiangular triangle with three 60° vertices.
 
 **Figure 5.4.2. LOP angles** 
 
-![](/static/figure5.4.2.png)
+![](/Hutchins-figure5.4.2.png)
 
 Thus, although a position fix consists of three elements (LOPs), none of the individual elements can be said to be good or bad with respect to the choice criteria. The criteria refer to the relations among elements, not the elements themselves. 
 
@@ -836,7 +862,7 @@ The verbal exchange is just one element of the interaction. The interaction is c
 
 **Figure 5.4.3 Choosing LMs** 
 
-![](/static/figure5.4.3.png)
+![](/Hutchins-figure5.4.3.png)
 
 *Frame from a video by the author*
 
@@ -856,7 +882,7 @@ The gesture is complex. The hands of the participants move around a lot over the
 
 **Figure 5.4.4 Gestural trajectory**
 
-![](/static/figure5.4.4.png)
+![](/Hutchins-figure5.4.4.png)
 
 Multiple cues contribute to the identification of parts of the gesture that delineate LOPs. The participants know that the objects of interest are virtual lines of position. These lines should link landmarks with the ship's estimated position. BR says, "It'll be that 'n that." The seemingly unbound anaphora of "It" refers to the object of the understood current project that is the creation of a triplet of landmarks to be used in plotting the next position. 
 
@@ -866,7 +892,7 @@ BR's gesture has a velocity profile. BR's hands move fast in some parts of the t
 
 **Figure 5.4.5. Velocity profile of the gesturing finger**
 
-![](/static/figure5.4.5.png)
+![](/Hutchins-figure5.4.5.png)
 
 Another useful cue is the shape of the gestural trajectory. Because LOPs are, by definition, straight lines, gesture segments that are curved are unlikely to be meaningful depictions of virtual lines of position. This cue is not, by itself, sufficient to pick out the proposed LOP's. In fact, the straightest segment of the gesture trajectory does not correspond to any possible LOP. 
 
@@ -1026,8 +1052,8 @@ Navigation is a special domain of activity, and this sometimes gives rise to co
 
 While the ship navigation vignettes focus on relationships among modalities in a single person and illustrate principles of embodied cognition, the aviation vignettes move the focus to relationships among modalities that span two or more actors. These vignettes illustrate principles of embodied interaction. 
 
-### 6.1. Fuel Leak[^x]
-
+### 6.1. Fuel Leak
+[^10]
 A leak in the fuel system of an airplane is a very serious problem. In the best case, the amount of fuel available to run the engines could be reduced, calling for a diversion to an alternate airport short of the planned destination. In the worst case, a leak could lead to the destruction of the airplane in flight. 
 
 In the late 1980s, my team was given access to video recordings made in high-fidelity flight simulators at NASA Ames Research Center. In one of the simulated flights, a three-pilot crew confronted a fuel leak in a Boeing 727. The crew members were recruited from a major airline and were, in those days, flying the 727 in revenue service. 
@@ -1060,7 +1086,7 @@ A salient part of a pilot's understanding of a fuel leak is that it is a situati
 
 **Figure 6.1.1. Attending to the fuel panel** 
 
-![](/static/figure6.1.1.png)
+![](/Hutchins-figure6.1.1.png)
 
 *Frame from a video courtesy of NASA Ames Research Center*
 
@@ -1070,7 +1096,7 @@ Once the captain and FO were situated, SO began his explanation of the problem w
 
 **Figure 6.1.2. Fuel Panel Diagram** 
 
-![](/static/figure6.1.2.png)
+![](/Hutchins-figure6.1.2.png)
 
 *Fuel Quantity Test Switch (upper left) and Tank Three Boost Pump Switches (lower right)*
 
@@ -1080,7 +1106,7 @@ The topology of the painted lines and switch positions enables the crew to make 
 
 **Table 6.1. Correspondences between components on the fuel panel and components in the fuel system**
 
-![](/static/table6.1..png)
+![](/Hutchins-table6.1..png)
 
 The simplified topology of the panel permits the pilots to reason about the state and behavior of the fuel system by "seeing" the panel in a particular way. For example, the valve controller has a line painted on its top surface. When the controller is in the cross-feed position, this line appears to connect the painted lines that depict the fuel line arriving at and departing from the valve. The rotational action of the cross-feed valve controllers, combined with the shape of the controller knob, facilitates seeing the open and closed positions of the valve as flow through or blocked flow. These may seem to be trivial design features, but they have important cognitive consequences.
 
@@ -1090,7 +1116,7 @@ With C and FO oriented to him and his panel, SO continued his account of the pro
 
 *SO: I don't know we must be losing it very quickly you see right now I-\2\I turned the pumps off ok I tried to feed from number one to both engine one and three but we're still losing in number three quite a bit*
 
-![](/static/screenshot-2025-06-18-at-7.45.29-pm.png)
+![](/Hutchins-screenshot-2025-06-18-at-7.45.29-pm.png)
 
 SO began his account by gesturing to (placing his finger on but not depressing) the fuel quantity test switch while saying "right now." There was nothing in SO's words about the fuel quantity test button. He had pressed it earlier, of course, as part of the diagnosis procedure. But during his explanation of the problem to the other crew members, SO neither mentioned nor pressed this button. He only touched it. We believe that the other crew members interpreted this as an indication that SO had already tested the gauges (in fact, he had).
 
@@ -1104,29 +1130,29 @@ Thus, touching the fuel quantity test button must be experienced as being about 
 
 The words "right now" indicate that the actions being reported took place recently. SO did not delay in notifying C and FO about the problem. These words also gave a sense of immediacy to the situation. They place something in the present time, but what is not yet clear. The speech and the gesture are working independently of each other here, each conveying information about different aspects of the same conceptual project: speech about when the actions took place, gesture about the initial action taken.
 
-![](/static/screenshot-2025-06-18-at-7.50.05-pm.png)
+![](/Hutchins-screenshot-2025-06-18-at-7.50.05-pm.png)
 
 SO next made a motion over the number three tank boost pump switches that mimicked the motion used to turn the pumps off. The switches were already in the off position. The combination of the gesture and the state of the panel, and the knowledge that boost pumps are normally on in flight, made this action unambiguous. The past-tense word "turned" provides temporal information that cannot easily be conveyed with gesture. Gestures are always in the present tense. Simultaneously, the gesture specifies which pumps have been turned off, a specification that is lacking from the speech. Speech marked the gestures as a reenactment of what SO had already done. The verbal statement did not indicate which pumps had been turned off, but the fingers did. The location of the gesture in the space of the fuel panel thus resolved an ambiguous reference in the verbal stream. The verbal component provided temporal markings that were lacking from the gesture, and the gesture provided aspects of indexical reference that were ambiguous in SO's words.
 
 The boost pumps being off raises the question of where the fuel for engine three was coming from. The topology of the panel facilitates certain inferences about the functional behavior of the fuel system, and SO next moved to demonstrate these inferences to the other crew members.
 
-![](/static/screenshot-2025-06-18-at-7.58.03-pm.png)
+![](/Hutchins-screenshot-2025-06-18-at-7.58.03-pm.png)
 
 SO changed topics (introduced a new conceptual object) at this point, and his gesture directed attention to the other side of the fuel panel, where subsequent events would be described. He was now beginning to explain how he established an alternative fuel source for engine number three. The use of the past tense "tried" placed the action referred to in the past with respect to the present course of action.
 
-![](/static/screenshot-2025-06-18-at-8.02.35-pm.png)
+![](/Hutchins-screenshot-2025-06-18-at-8.02.35-pm.png)
 
 Here, the gesture and the speech were almost completely congruent. The gestures draw visual and motor attention to the lines painted on the panel that depict the pipes in the system that move fuel from the number one tank, through the boost pumps, and to the engine's one fuel feed valve. The gestures highlight specific elements of the panel, but the speech "feed" refers to an event in the fuel system. In this moment, the panel is "seen as" the fuel system. The up and down motion of the fingers is seen as the movement of fuel through the pipes. The panel is, at this moment, a representation of the fuel system. 
 
-![](/static/screenshot-2025-06-18-at-8.06.35-pm.png)
+![](/Hutchins-screenshot-2025-06-18-at-8.06.35-pm.png)
 
 In the brief statement, "I tried to feed from number one to both engine one and three," SO explained that he had remembered to feed fuel to engine three before he turned the tank three boost pumps off. The gesture accompanying this section was complex and quickly executed. SO pointed to the tank one gauge, to the tank one pump switches (which were in the ON position), then to the engine three cross-feed valve controller, and to the engine one cross-feed controller. These gestures drew attention to the controllers that indicate that the valves were open and supplying fuel to engines one and three from tank one. Some of the motions of the hand also followed the flow of fuel through the system. The panel continues as a representation of the fuel system. 
 
-![](/static/table1.png)
+![](/Hutchins-table1.png)
 
 Having established the alternate source of fuel for engine three, SO pointed to the engine three fuel gauge. This was the locus of the problem. SO marked with a gesture a return to the topic of the fuel level in tank three. The logical disjunction, "but," marks a violation of a possible conceptual continuation of the situation described before. The elements that stand in disjunction are not yet clear but will be made clear by what follows.
 
-![](/static/table1.1.png)
+![](/Hutchins-table1.1.png)
 
 SO flicked the gauge with his finger. This is a common technique among pilots to free a gauge needle that is believed to be stuck. From a strictly functional point of view, this is a useless action. SO detected the fuel leak by observing the rapid movement of this fuel gauge needle. The fact that it was possible to detect the fuel leak this way is evidence that the needle is not stuck. Furthermore, he had tested the freedom of the needle movement with the fuel quantity test button. Thus, the flick cannot be an attempt to free a stuck needle.
 
@@ -1134,11 +1160,11 @@ This flick was not performed in SO's original diagnosis and was not a report of 
 
 Because this action cannot be functional, we might ask what other kind of role it might be playing here. For one thing, it returns the narrative to the present. It is a way of emphasizing that the fuel level shown by the number three tank gauge is the salient problem. At a more abstract level of description, flicking a gauge is a way to produce an expected reading when an unexpected reading has been encountered. In that sense, this action could also be read as an assertion by SO that he would have liked the behavior of the gauge to be other than it was.
 
-![](/static/table1.4.png)
+![](/Hutchins-table1.4.png)
 
 SO then emphatically gestured to the tank number three gauge, while he said, "still losing." This last gesture drew attention away from the function of the needle (that which the prior gesture, the flick, demanded) to the actual fuel quantity level that the needle was indicating. In this moment, the gauge is again a representation of a feature of the fuel system. 
 
-![](/static/table1.5.png)
+![](/Hutchins-table1.5.png)
 
 Finally, SO returned his hands to his lap, indicating that his turn was completed.
 
@@ -1150,8 +1176,8 @@ The shifts from the interpretation of the fuel panel as a representation of the 
 
 In the analysis of this vignette, I suggested that the members of the crew might share an embodied experience of the operation of the fuel system. In the next vignettes, we will see strong evidence about the richness of the shared imagined workplace.
 
-### 6.2. Approach to Stall Recovery[^xi]
-
+### 6.2. Approach to Stall Recovery
+[^11]
 This section examines the interaction among a Boeing flight instructor and two Japanese pilots who are transitioning from other Boeing airplanes to a particular model of the B737. We are especially interested in cases where a gesture or other non-verbal element produced by one participant stands in a relation of mutual elaboration with a spoken element produced by another participant. We focus on this because such instances could not occur if the participants did not share a sense of the conceptual project being developed. These are moments in which parts of an otherwise invisible shared conceptual network become visible. The participants use a variety of semiotic resources to bring to the fore selected aspects (but rarely the whole) of a conceptual structure. 
 
 In earlier vignettes, I introduced the idea of the semantic relations among the contents of modalities in a multimodal system. Such contents may be congruent (gesture and talk refer to the same aspect of a complex concept) or complementary (gesture and talk refer to different aspects of a single complex concept). When the modalities of interest occur in different individuals in interaction with one another, the contents may be produced at different times. Potential temporal relations among the appearance of modality contents are concurrent (occurring at the same time) and offset (occurring at a remove in time). 
@@ -1166,13 +1192,13 @@ There is a difference between the way Boeing teaches this maneuver and the way i
 
 **Figure 6.2.1 FCOM The "Approach to Stall Recovery" procedure as it appears in the Flight Crew Operations Manual**
 
-![](/static/figure6.2.1.png)
+![](/Hutchins-figure6.2.1.png)
 
 Boeing teaches the maneuver using this second, more difficult, approach to stall recovery technique. The pilots in these vignettes refer to this as the "Boeing way." The procedure shown in the Flight Crew Operating Manual (FCOM) (Figure 6.2.1) is a generic procedure that can be used to recover from an approach to a stall in any configuration (setting of flaps and landing gear). The pilots are preparing to practice an approach to a particular kind of stall event known as a departure stall. This is flown with the landing gear retracted, the flaps extended at 5 degrees, and with a 20-degree bank attitude (Figure 6.2.2). The flap setting is a key element because it determines the speed at which the maneuver is begun as well as the target speed for its completion. 
 
 **Figure 6.2.2. The practice procedure for the recovery from an approach to the "departure stall" as it appears on the computer monitor in the pre-simulator briefing**
 
-![](/static/figure6.2.2.png)
+![](/Hutchins-figure6.2.2.png)
 
 Because coherent meaning structures are created by multiple utterances, we organize the presentation by cases rather than by utterances. A single conceptual object is created in each case. Each case is given a brief descriptive title and begins with a concise description of the conceptual object that is constructed in the case. 
 
@@ -1184,7 +1210,7 @@ Conceptual object: Airplane dynamics; accelerate an airplane from stall speed to
 
 **Figure 6.2.3. Flaps 5 speed**
 
-![](/static/figure6.2.3.png)
+![](/Hutchins-figure6.2.3.png)
 
 The instructor read the procedure from the FCOM, tracing the text with his left index finger as he read, "Return to speed appropriate for the configuration." He then looked at the computer monitor and pointed to highlight the portion of the procedure described by the words "Finish: FLAPS 5 speed." The instructor elaborated this part of the maneuver, and as he withdrew his right hand from a full-hand point to the procedure shown on the computer monitor, he said, "flaps five speed." Simultaneously, PF positioned his hands as if holding the control yoke and pushed them forward (see Figure 6.2.3). This gesture enacted the control input needed to return to flaps 5 speed. Notice that the instructor's utterance does not specify the sort of control input that will be needed to return to flaps 5 speed. PF knows that in order to accelerate, he will have to push the yoke forward. Thus, the gesture provides the cause that is not present in the verbal description of the effect "go to flaps five, flaps five speed." The words provide the effect that is not present in the gesture. The two elements mutually elaborate each other as a metonymic cause-and-effect relationship. The idea of returning to flaps 5 speed gives meaning to the push gesture, and the push gesture specifies an element of the process of returning to flaps 5 speed. This is a collaboratively constructed multimodal utterance in which the instructor's speech and the pilot's gesture are temporally concurrent. This means that the pilot's and the instructor's imaginations are running through time in parallel. The instructor's words and the pilot's gesture are semantically complementary; each highlights or brings into imagination a different but related aspect of a single conceptual object. Semantic complementarity across participant constructions is strong evidence of the existence of the shared conceptual object. 
 
@@ -1202,7 +1228,7 @@ Every pilot knows that if you do not trim, in order to decelerate, you must pull
 
 **Figure 6.2.4. Back pressure only**
 
-![](/static/figure6.2.4.png)
+![](/Hutchins-figure6.2.4.png)
 
 The conceptual projects developed by the pilots and instructor are richer and more complex than any turn of talk or gesture can depict. Talk and gesture highlight components of the underlying project but never approach an exhaustive account. Sharing the underlying model, the pilots experience a flow of expectations shaped by their own trains of thought around the network of concepts in the model and the cues provided by the actions and words of the others.
 
@@ -1212,7 +1238,7 @@ Conceptual object: A comparison of techniques, from two implied character viewpo
 
 **Figure 6.2.5. Realistic the Boeing way**
 
-![](/static/figure6.2.5.png)
+![](/Hutchins-figure6.2.5.png)
 
 By using the words "the Boeing way," PM refers to the earlier discussion that established the contrast between his company's technique of entering a stall recovery maneuver using back pressure on the yoke only (no stabilizer trim) and the "Boeing way" that involves trimming as the airplane slows on the stall entry. Framing the topic as "It's realistic the Boeing way" constructs an implicit comparison between the techniques. The instructor knew this, and the movement of his right thumb models the action that PM would take as a pilot flying (from the right seat) when he trims the airplane. The conceptual schema was clear at the pause before the word "Because." Possible projections included elaborating on either the realistic or the not realistic method. The instructor's gesture is an iconic representation of an anticipated spoken description of trimming in accordance with the realistic method. But PM does not follow that projection of the schema. Instead, he elaborates on the not-realistic method that his company uses. 
 
@@ -1222,7 +1248,7 @@ This gestural mismatch may have happened for one of two reasons. First, PM's pro
 
 **Figure 6.2.6. Stabilizer Trim Indicator**
 
-![](/static/figure6.2.6.png)
+![](/Hutchins-figure6.2.6.png)
 
 Notice that when talking to the PM, who would occupy the right seat in the simulator, the instructor modeled the trim action using his right thumb. The yoke-mounted trim switch is on the outboard horn of each control yoke. Thus, for a pilot in the right-hand seat (co-pilot's seat), the trim switch will be under the right thumb. Later in the same discussion, the instructor modeled pushing the thrust levers up with his right hand. This gave his gesture an implicit body location in the left seat (PF's seat), and his subsequent gestural reference to trim was made with the left thumb. This coherence of the handedness of gesture with the seat occupied in the imagined flight deck indicates that the imagination of component actions, such as thrust changes and trim adjustments, involves the whole situation of the body in the flight deck, not just imagining the control that is to be manipulated. 
 
@@ -1234,7 +1260,7 @@ The instructor created a role-playing narrative in which he modeled an inattenti
 
 **Figure 6.2.7. It's really difficult**
 
-![](/static/figure6.2.7.png)
+![](/Hutchins-figure6.2.7.png)
 
 This complex example integrates seven gestures and five spoken utterances. All of the spoken elements and three of the gestures refer to the core conceptual object being constructed. Of the other four gestures, one refers to a previously developed conceptual object, one solicits agreement from another speaker, and two provide assessments of another speaker's conceptual project. All three pilots participated in the construction of this conceptual object. 
 
@@ -1250,7 +1276,7 @@ As with the previous case, this one is so complex that a full analysis is not po
 
 **Figure. 6.2.8. These engines**
 
-![](/static/figure6.2.8.png)
+![](/Hutchins-figure6.2.8.png)
 
 "Underslung" describes a relationship between the engine and the wing. To create the relationship, the instructor used his body to enact the key parts of the airplane. He began by cupping his hands and holding them below his armpits while saying, "Once those engines." 
 
@@ -1262,7 +1288,7 @@ The fact that the space that was constructed by earlier actions could later give
 
 **Figure. 6.2.9. Tend to sling this airplane up**
 
-![](/static/figure6.2.9.png)
+![](/Hutchins-figure6.2.9.png)
 
 In the context of the earlier discussion of the need to apply maximum thrust, the instructor's multimodal construction of the location of the under-wing location of the engines projected the airplane pitching nose-up in response to a rapid increase in thrust. PF used his two hands to model the rotation in the pitch axis caused by the increasing thrust on the two engines. His enactment was quite specific, showing the two engines and the torque that they would apply to the wings of the airplane when thrust was increased. Simultaneously, he said something that we have not been able to reconstruct. PF's gesture may have had congruent semantic relations with two spoken elements, one produced concurrently by PF himself and the other anticipated in the speech of the instructor. The instructor continued to develop his narrative, saying "So, it's gonna" while bending at the waist with his arms still extended to his sides. PF seemed to recognize this as preparation for a full-body stroke. A moment later, as the instructor swept his body and arms upward, PF flicked his fingers up again and said, "tend to, yeah." This gesture by PF is semantically congruent with an anticipated, but not yet produced, description by the instructor of the airplane pitching up. This gesture is temporally concurrent and semantically complementary (metonym) with PF's own words "tend to." PF performed this gesture in synchrony with the instructor's first full-body upward stroke. Thus, in addition to relations with spoken elements that were produced before, concurrently with, and after the gesture, PF's gesture also has a temporally concurrent and semantically congruent relation to the gesture produced by the instructor. Both gestures provided an iconic representation of the pitch-up event, but they were rendered from slightly different viewpoints. The instructor's viewpoint is as his body is the airplane itself, while PF imagines the pitch-up event from a viewpoint above and behind the airplane. It could be argued that gestures that have the same referent but are rendered from different actor viewpoints should be regarded as semantically complementary rather than congruent. At this time, we do not have a strong view on the matter. Simply posing the question highlights the possibility that semantic congruence is a continuous rather than a discrete function.
 
@@ -1300,8 +1326,8 @@ The occurrence of collaboratively constructed multimodal utterances demonstrates
 
 The pilots' bodies are a key resource in the process of conceptualizing their world and the actions they take in it. Conceptualization is not only multimodal but may also be a collaborative project; the modalities that are in coordination may be located in more than one participant. The range of possible relations of mutual elaboration among semiotic resources is extremely rich in collaboratively constructed multimodal utterances produced by experts engaged in consequential activity in a culturally constructed setting.
 
-### 6.3. The Flight Crew Cognitive System[^xii]
-
+### 6.3. The Flight Crew Cognitive System
+[^12]
 As I noted in the background section, developments in the technologies of data collection and analysis change the phenomena we see, and that in turn provokes modifications to our theories. Over several years, the lab I shared with Jim Hollan at UCSD explored the creation of a digital ethnographer's workbench. To support the study of activity as an integrated system, our lab created a tool called ChronoViz. ChronoViz was the doctoral dissertation project of Adam Fouse, supervised by Jim Hollan and developed under a grant from NSF and a research contract with Boeing. For more details on ChronViz and its use in studying ongoing activity, see Fouse et al. (2011).
 
 ChronoViz supports visualization and analysis of multiple sources of time-coded data, including multiple sources of high-definition video, simulation data, transcript data, paper notes, and eye gaze data. Each data source can be independently aligned with the rest of the data and then used for navigation of the data set as a whole. Researchers using ChronoViz have rich interactive capabilities for exploring data sets, making annotations about observed activity, filtering and arranging annotations, and performing computational analysis of the recorded data.
@@ -1310,7 +1336,7 @@ In this section, I will present an analysis of just one event recorded in a Boei
 
 **Figure 6.3.1. Pilot wearing eye-tracking glasses in Boeing 787 Flight Deck** 
 
-![](/static/figure6.3.1.png)
+![](/Hutchins-figure6.3.1.png)
 
 **Photo by the author**
 
@@ -1324,7 +1350,7 @@ Figure 6.3.2 shows this interaction. At this moment, the flight route has been r
 
 **Figure 6.3.2. Three parallel representations of flight route** 
 
-![](/static/figure6.3.2.png)
+![](/Hutchins-figure6.3.2.png)
 
 *Arrival Procedure Chart (upper left); PM's eye gaze (upper right); PM's verbal description (lower).* 
 
@@ -1342,13 +1368,13 @@ To construct a cross-recurrence plot, we first define a set of Areas of Interest
 
 **Figure 6.3.3. The seven areas of interest (AOIs) defined on the Boeing 787 Dreamliner instrument panel**
 
-![](/static/figure6.3.3.png)
+![](/Hutchins-figure6.3.3.png)
 
 The eye gaze data for the two pilots is first mapped into the shared coordinate space of the instrument panel. To create the recurrence plot, we consider each fixation on an AOI made by the PF. We then find all instances when the PM fixated on the same AOI. For each such match, we plot a region in the recurrence plot located at the intersection of the temporal bounds of the PF fixation and the PM fixation and colored with the plotting color associated with the AOI, as shown in Figure 6.3.4. All colored regions indicate AOIs attended by both pilots. Colored regions on the diagonal indicate AOIs attended simultaneously by the two pilots. Regions to the upper right of the diagonal indicate AOIs attended by the PM before the PF. Regions to the lower left of the diagonal indicate AOIs attended by the PF before the PM. 
 
 **Figure 6.3.4. Cross-recurrence plot for 12 min of eye gaze in the Boeing 787 Dreamliner** 
 
-![](/static/figure6.3.4.png)
+![](/Hutchins-figure6.3.4.png)
 
 *The areas of interest (AOIs) attended by the pilot flying (PF) are shown in temporal sequence across the top of the plot from left to right, and the ones attended by the pilot monitoring (PM) are shown down the left side of the plot from top to bottom. AOI blocks on the diagonal were viewed simultaneously by PF and PM. Time increases from left to right, from top to bottom, and down the diagonal. Gaze fixations on AOIs are color-coded according to the scheme shown in Figure 6.3.3.*
 
@@ -1464,318 +1490,27 @@ The analyses of the vignettes provide ample evidence that the MGC perspective pr
 
 Much work remains to be done. In a paper examining how neuroscientists learn to interpret maps of brain activity, Morana Alač and I noted that studying action as cognition in real world settings should be "the natural province of cognitive anthropology" (Alač & Hutchins, 2004, p. 659). I hope this paper provides cognitive anthropologists and cognitive scientists in general with a starting point for a new cognitive ethnography.
 
-## Bibliography
 
-Agha, A. (2007). *Language and Social Relations.* Cambridge: Cambridge University Press.
+[^1]:Funding for this project was provided by the Social Science Research Council. My wife and I lived in Tukwaukwa Village on the island of Boyowa from June of 1975 until October of 1976. 
 
-Alač, M., & Hutchins, E. (2004). I see what you are saying: Action as cognition in fMRI brain mapping practice. *Journal of Cognition and Culture, 4*(3), 629--661.
+[^2]:My access to ships in the US Navy fleet was made possible by my position as a Personnel Research Psychologist at the Navy Personnel Research and Development Center in San Diego, California from 1980 through 1986. I worked in the Future Technologies Group under the direction of James Hollan.
 
-Barbasi, A. (2002). *Linked: the new science of networks.* Cambridge, MA: Perseus Publishing.
+[^3]:In 1988 Don Norman and I began a research project titled, "Distributed Cognition in Aviation." The project was funded by the Aerospace Human Factors Research Division of NASA under the Aviation Automation Safety program. I continued with NASA funding until 2001. Over the years I had research agreements including flight deck access on United Airlines, Delta Airlines, America West Airlines, US Airways, American Airlines, Aeroméxico, GOL (Brazil), All Nippon Airlines, Japan Airlines, KLM Royal Dutch Airlines, and Air New Zealand. I have had consulting agreements and research funding from both Boeing and Airbus. In corporate aviation I have had consulting arrangements with LOFT flight training in Carlsbad, California.
 
-Barsalou, L. (2010). Grounded Cognition: Past, Present, and Future. *Topics in Cognitive Science*, 716-724.
+[^4]:This section draws on material developed for the article (Hutchins, 2010a).
 
-Bateson, G. (1972). *Steps to an Ecology of Mind.* Chicago: University of Chicago Press.
+[^5]:This is the same pseudonym I used for this ship in (Hutchins, 1995). 
 
-Beer, R. (2008). The Dynamics of Brain-Body-World systems: a status report. In P. Calvo, & A. Gomila, *Handbook of Cognitive Science: An embodied approach* (pp. 99-120). San Diego: Elsevier.
+[^6]:This is an original analysis done with the MGC framework in mind. It is more detailed and perhaps reveals more insights from the MGC framework than the other analyses in this paper.
 
-Benetti, S., Ferrari, A., & Pavani, F. (2023, February). Multimodal processing in face-to-face interactions: A bridging link between psycholinguistics and sensory neuroscience. *Front. Hum. Neurosci, 17*.
+[^7]:The analysis in this section is based on an analysis that appears in the early pages of (Hutchins, 2010b). The Santa Fe Institute's program on Robustness in Social Systems provided funding for the work reported here. Erica Jen served as grant monitor.
 
-Bourdieu, P. (1977). *Outline of a Theory of Practice.* Cambridge: Cambridge University Press.
+[^8]:The analysis in this section is based on (Hutchins, 2010b). The Santa Fe Institute's program on Robustness in Social Systems provided funding for the work reported here. Erica Jen served as grant monitor. Alisa Durán transcribed the data and helped me focus the analysis on the problem of insight. Figure 5.3.2 was drawn from a video frame by Whitney Friedman. I am grateful to Andy Clark, Kensy Cooperrider, Deborah Forster, Charles Goodwin, Rafael Núñez, and John Stewart for valuable comments on an earlier version of this analysis.
 
-Brooks, R. (1991). Intelligence without representation. *Artificial Intelligence, 47*, 139-159.
+[^9]:The analysis in this section is based on an analysis that appeared in (Hutchins, 2006). This work was funded by a grant from the Santa Fe Institute's program on Robustness in Natural and Social Systems. Alisa Durán transcribed the data and suggested many elements of the analysis presented here.
 
-Calvo, P., & Gomila, T. (2008). *Handbook of cognitive science: An embodied approach.* San Diego: Elsevier.
+[^10]:The analysis in this section is based on (Hutchins & Palen, 1997).
 
-Campbell, M., & Cunnington, R. (2017). More than an Imitation Game: Top-down modulation of the Human Mirror System. *Neuroscience and Behavioral Reviews*(75), 195-202.
+[^11]:Saeko Nomura-Baird collected the data reported in this section. She and I performed the analysis, which originally appeared in (Hutchins & Nomura, 2011). Access to the field site was arranged through, and data collection was supported by a contract with, the Boeing Flight Deck Concepts Center. Barbara Holder served as contract monitor. Whitney Friedman created the cartoon representations of the video frames. We are grateful to Charles Goodwin and Susan Goldin-Meadow for reading early drafts of the paper and providing expert advice. Any errors that remain are my own. Funding for the data analysis was provided by NSF award #0729013, "A multi-scale framework for analyzing activity dynamics," James Hollan, Edwin Hutchins, and Javier Movellan, principal investigators. Finally, we are especially grateful to the many pilots and instructors who have participated in our research.
 
-Cangelosi, A., & Parisi, D. (2002). *Simulating the evolution of language.* London: Springer-Verlag.
-
-Churchland, P., Ramachandran, V., & Sejnowski, T. (1994). A Critique of Pure Vision. In C. Koch, & J. Davis, *Large-scale neuronal theories of the brain* (pp. 23-60). Cambridge, MA: MIT Press.
-
-Clark, A. (1998). *Being There: Putting brain, body, and world together again.* Cambridge, MA: MIT Press.
-
-Clark, A. (2001). *Mindware: An Introduction to the Philosophy of Cognitive Science.* Oxford: Oxford University Press.
-
-Clark, A. (2016). *Surfing Uncertainty: Prediction, action, and the embodied mind.* Oxford, UK: Oxford University Press.
-
-Clark, A. (2023). *The Experience Machine: How our minds predict and shape reality.* New York: Pantheon Books.
-
-Clark, A., & Chalmers, D. (1998). The Extended Mind. *Analysis*, 7-19.
-
-Coco, M., & Dale, R. (2014, June 27). Cross-recurrence quantification analysis of categorical and continuous time series: an R package. *Frontiers in Psychology, 5*(510).
-
-Cole, M. (1996). *Cultural Psychology: A once and future discipline.* New York: Basic Books.
-
-Daniels, H., Cole, M., & Wertsch, J. (2007). *The Cambridge companion to Vygotsky.* Cambridge: Cambridge University Press.
-
-Dasen, P. (1972). Cross-Cultural Piagetian Research: A Summary. *Journal of Cross-Cultural Psychology, 3*(1), 23-39.
-
-Dreyfus, H. (1982). *Husserl: Intentionality and cognitive science.* Cambridge, MA: MIT Press.
-
-Duncker, K. (1945). On problem solving. *Psychological Monographs, 58*, 1-270.
-
-Dupuy, J. (2000). *The mechanization of the mind: On the origins of cognitive science.* Princeton, NJ: Princeton University Press.
-
-Enfield, N. (2006). Social consequences of common ground. In N. Enfield, & S. Levinson, *Roots of human sociality: Culture, cognition and interaction* (pp. 399-430). Oxford: Berg Publishers.
-
-Engel, A. (2010). Directive Minds: How dynamics shapes cognition. In J. Stewart, O. Gapenne, & E. Di Paulo, *Enaction: Toward a new paradigm for Cognitive Science* (pp. 219-244). Cambridge, MA: MIT Press.
-
-Fauconnier, G. (1997). *Mappings in Thought and Language.* Cambridge: Cambridge University Press.
-
-Fauconnier, G., & Turner, M. (2002). *How We Think.* New York: Basic Books.
-
-Flash, T., & Berthoz, A. (2021). Space-time geometries for motion and perception in the brain and the arts. *Nature*.
-
-Fouse, A., Weibel, N., Hutchins, E., & Hollan, J. (2011). ChronoViz: A system for supporting navigation of time-coded data. *Extended Abstracts of CHI 2011, SIGCHI Conference on Human Factors in Computing Systems.* Vancouver, Canada: ACM.
-
-Friston, K. (2008). Heirarchical Models in the Brain. *PLOS Computational Biology*.
-
-Gallese, V., & Lakoff, G. (2005). The Brain's Concepts: The role of the sensori-motor system in conceptual knowledge. *Cognitive Neuropsychology, 22*(3), 455-479.
-
-Gentner, D., & Stevens, A. (1983). *Mental Models.* Hillsdale, NJ: Lawrence Erlbaum Assoc.
-
-Gibbs, R. (2006). *Embodiment and Cognitive Science.* New York: Cambridge University Press.
-
-Gibson, J. (1986). *The Ecological Approach to Visual Perception.* Hillsdale, NJ: Lawrence Erlbaum Associates.
-
-Gilbert, J., Blaser, M., Caporaso, J., Jansson, J., Lynch, S., & Knight, R. (2018). Current Understanding of the Human Microbiome. *Nat Med, 24*(4), 392-400.
-
-Glucksberg, S. (1964). Functional fixedness: Problem solution as a function of observing responses. *Psychonomic Science, 1*, 117-118.
-
-Goldin-Meadow, S. (2003). *Hearing gesture: How our hands help us think.* Cambridge, MA: Harvard University Press.
-
-Goldin-Meadow, S. (2006). Meeting other minds through gesture: How children use their hands to reinvent language and distribute cognition. In N. Enfield, & S. Levinson, *Roots of human sociality: Culture, cognition and interaction* (pp. 353-373). Oxford: Berg Publishers.
-
-Goodwin, C. (1994). Professional Vision. *American Anthropologist, 96*(3), 606-633.
-
-Goodwin, C. (2000). Action and Embodiment within Situated Human Interaction. *Journal of Pragmatics*, 1489-1522.
-
-Goodwin, C. (2007). Environmentally Coupled Gestures. In S. Duncan, J. Cassell, & E. Levy, *Gesture and the Dynamic Dimension of Language* (pp. 195-212). Amsterdam: John Benjamins.
-
-Goody, J. (1977). *The Domestication of the Savage Mind.* Cambridge: Cambridge University Press.
-
-Greeno, J. (1998). The situativity of knowing, learning, and research. *American Psychologist, 53*(1), 5-26.
-
-Greeno, J., & Moore, J. (1993). Situativity and symbols: Response to Vera and Simon. *Cognitive Science, 17*, 49-59.
-
-Grice, H. (1975). Logic and Conversation. In P. Cole, & J. Morgan, *Syntax and Semantics* (pp. 43-58). New York: Academic Press.
-
-Havelange, V., Lenay, C., & Stewart, J. (2003). Les représentations: mémoire externe et objets techniques. *Intellectica*, 115-131.
-
-Havelange, V., Lenay, C., & Stewart, J. (2003). Les représentations: Mémoire externe et objets techniques. *Intellectica, 35*, 115-131.
-
-Hazlehurst, B., & Hutchins, E. (1998). The emergence of propositions from the coordination of talk and action in a shared world. *Language and Cognitive Process (Special issue on Connectionist Approaches to Language Development), 13*(2), 373--424.
-
-Heidegger, M. (1962). *Being and time.* New York: Harper and Row.
-
-Holder, B., & Hutchins, E. (2001). What Pilots learn about autoflight while flying on the line. *Proceedings of the 11th International Symposium on Aviation Psychology.* Columbus, Ohio.
-
-Hollan, J., Hutchins, E., & Weitzman, L. (1984). STEAMER: An interactive inspectable simulation-based training system. *AI Magazine, 5*(2), 15-27.
-
-Holland, D., & Quinn, N. (1987). *Cultural Models in Language and Thought.* Cambridge: Cambridge University Press.
-
-Hurford, J., Studdert-Kennedy, M., & Knight, C. (1998). *Approaches to the evolution of language: Social and cognitive bases.* New York: Cambridge University Press.
-
-Hurley, S. (1998). *Consciousness in action.* Cambridge, MA: Harvard University Press.
-
-Hutchins, E. (1980). *Culture and Inference: A Trobriand Case Study.* Cambridge, Massachusetts: Harvard University Press.
-
-Hutchins, E. (1995a). *Cognition in the Wild.* Cambridge, Massachusetts: MIT Press.
-
-Hutchins, E. (1995b). How a cockpit remembers its speeds. *Cognitive Science, 19*, 265-288.
-
-Hutchins, E. (2005). Material Anchors for Conceptual Blends. *Journal of Pragmatics, 37*, 1555-1577.
-
-Hutchins, E. (2006). The distributed cognition perspective on human interaction. In N. Enfield, & S. Levinson, *Roots of human sociality: Culture, cognition and interaction* (pp. 375-398). Oxford: Berg Publishers.
-
-Hutchins, E. (2007). Measuring change in pilots' conceptual understanding of autoflight. *Proc. of the 14th International Symposium on Aviation Psychology*, (pp. 281-286). Dayton, Ohio.
-
-Hutchins, E. (2010a). Cognitive Ecology. *Topics in Cognitive Science*, 705-715.
-
-Hutchins, E. (2010b). Enaction, imagination, and insight. In J. Stewart, O. Gappene, & E. di Paolo, *Enaction: Towards a New Paradigm in Cognitive Science* (pp. 425-450). Cambridge, MA: MIT Press.
-
-Hutchins, E. (2012). Concepts in practice as sources of order. *Mind, Culture and Activity, 19*(3), 314-323.
-
-Hutchins, E., & Hazlehurst, B. (1995). How to invent a lexicon: The development of shared symbols in interaction. In N. Gilbert, & R. Conte, *Artificial societies: The computer simulation of social life* (pp. 157-189). London: UCL Press.
-
-Hutchins, E., & Hazlehurst, B. (2002). Auto-organization and emergence of shared language structure. In A. Cangelosi, & D. Parisi, *Simulating the evolution of language* (pp. 279-305). London: Springer-Verlag.
-
-Hutchins, E., & Holder, B. (2000). Conceptual models for understanding an encounter with a mountain wave. *Proceedings of HCI-Aero 2000.* Toulouse, France.
-
-Hutchins, E., & Johnson, C. (2009). Modeling the emergence of language as an embodied collective cognitive activity. *Topics in Cognitive Science, 1*, 523--546.
-
-Hutchins, E., & Klausen, T. (1986). Distributed cognition in an airline cockpit. In Y. E. Middleton, *Cognition and communication at work* (pp. 15-34). New York: Cambridge University Press.
-
-Hutchins, E., & McCandless, T. (1982). *Manboard: A graphic display program for training relative motion concepts.* Technical Report TN 82-10, Navy Personnel Research and Development Center, San Diego.
-
-Hutchins, E., & Nomura, S. (2011). Collaborative Construction of Multimodal Utterances. In J. Streeck, C. Goodwin, & C. LeBaron, *Embodied Interaction: Language and body in the material world* (pp. 29-43). Cambridge, UK: Cambridge University Press.
-
-Hutchins, E., & Palen, L. (1997). Constructing Meaning from Space, Gesture, and Speech. In L. Resnick, R. Saljo, C. Pontecorvo, & B. Burge, *Discourse, tools, and reasoning: Essays on situated cognition* (pp. 23-40). Heidelberg, Germany: Springer-Verlag.
-
-Hutchins, E., Middleton, C., & Newsome, W. (2009). Conceptualizing spatial relations in flight training. *Proceedings of the 15th International symposium on aviation psychology.* Dayton, Ohio.
-
-Hutchins, E., Nomura, S., & Holder, B. (2006). The ecology of language practices in worldwide airline flight deck operations. *Proceedings of the 28th Annual Conference of the Cognitive Science Society*, (pp. 363-368). Vancouver, BC, Canada.
-
-Hutchins, E., Weibel, N., Emmenegger, C., Fouse, A., & Holder, B. (2013). An integrative approach to understanding flight crew activity. *Journal of Cognitive Engineering and Decision Making*, 353-376.
-
-Ingold, T. (2000). *The perception of the environment: Essays in livelihood, dwelling, and skill.* Oxon, UK: Routledge.
-
-Johnson, M. (1987). *The Body in the Mind: the bodily basis of meaning, imagination, and reason.* Chicago: University of Chicago Press.
-
-Kelso, S. (1995). *Dynamical Patterns.* Cambridge, MA: MIT Press.
-
-Kugler, P., & Turvey, M. (1987). *Information, Natural Law, and the Self-assembly of Rhythmic Movement.* Hillsdale, NJ: Earlbaum.
-
-Kutas, M., & Federmeier, K. (1998). Minding the body. *Psychophysiology, 35*, 135-150.
-
-Lakoff, G., & Nuñez, R. (2000). *Where Mathematics Comes From: How the embodied mind brings mathematics into being.* New York: Basic Books.
-
-Langacker, R. (1987). *Foundations of Cognitive Grammar* (Vol. 1). Stanford, CA: Stanford University Press.
-
-Latour, B. (2005). *Reassembling the Social: An introduction to Actor-Network-Theory.* Oxford: Oxford University Press.
-
-Lave, J. (1988). *Cognition in practice: Mind, mathematics and culture in everyday life.* Cambridge: Cambridge University Press.
-
-Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation.* Cambridge: Cambridge University Press.
-
-Lee, D. D. (1949). Being and value in a primitive culture. *Journal of Philosophy, 48*, 401-415.
-
-Malinowski, B. (1965). *Coral Gardens and their Magic: The language of magic and gardening* (Vol. 2). Bloomington: Indiana University Press.
-
-Malone, T., & Bernstein, M. (2015). *Handbook of Collective Intelligence.* Cambridge, MA: MIT Press.
-
-Marchese, F. (2011). Exploring the Origins of Tables for Information Visualization. *15th International Conference on Information Visualisation* (pp. 395-402). IEEE Computer Society.
-
-Maturana, H., & Varela, F. (1987). *The Tree of Knowledge: Biological roots of human understanding.* Boston: New Science Library.
-
-McNeill, D. (1992). *Hand and Mind: What Gestures Reveal about Thought.* Chicago: University of Chicago Press.
-
-McNeill, D. (2005). *Gesture and thought.* Chicago: University of Chicago Press.
-
-Minsky, M., & Papert, S. (1988). *Perceptrons.* Cambridge, Massachusetts: MIT Press.
-
-Murphy, K. (2004). Imagination as Joint Activity: The case of architectural interaction. *Mind, Culture, and Activity, 11*(4), 267-278.
-
-Núñez, R., & Sweetser, E. (2010). With the Future Behind Them: Convergent Evidence From Aymara Language and Gesture in the Crosslinguistic Comparison of Spatial Construals of Time. *Cognitive Science, 30*(3), 401-450.
-
-Newell, A., & Simon, H. (1972). *Human Problem Solving.* Prentice Hall.
-
-Noë, A. (2004). *Action in perception.* Cambridge, MA: MIT Press.
-
-Nomura, S., Hutchins, E., & Holder, B. (2006). The Uses of Paper in Commercial Airline Flight Operations. *Proceedings of the 2006 ACM Conference on Computer Supported Cooperative Work, CSCW 2006*, (pp. 249-258). Banff, Alberta, Canada.
-
-O'Regan, J., & Noë, A. (2002). A sensorimotor account of vision and visual consciousness. *Behavioral and Brain Sciences, 24*(5).
-
-Palmer, E., Hutchins, E., Ritter, R., & van Cleemput, I. (1993). *Altitude deviations: breakdowns of an error tolerant system.* NASA Technical Memorandum 108788, National Aeronautics and Space Administration, Ames Research Center, Moffett Field, CA.
-
-Pea, R. (1996). Practices of distributed intelligence and designs for education. In G. Salomon, *Distributed cognitions: Psychological and educational considerations* (pp. 47-87). New York: Cambridge University Press.
-
-Pfeifer, R., & Bongard, J. (2007). *How the body shapes the way we think: A new view of intelligence.* Cambridge, MA: MIT Press.
-
-Port, R., & van Gelder, T. (1995). *Mind as Motion: Explorations in the dynamics of cognition.* Cambridge, MA: MIT Press.
-
-Rogoff, B. (2003). *The cultural nature of human development.* New York: Oxford University Press.
-
-Rowlands, M. (2006). *Body language: Representation in action.* Cambridge, MA: MIT Press.
-
-Rumelhart, D. (1975). Notes on a schema for stories. In D. G. Collins, *Representation and Understanding.* New York: Academic Press.
-
-Rumelhart, D., & McClelland, J. (1986). *Parallel Distributed Processing.* Cambridge, Massachusetts: MIT Press.
-
-Rumelhart, D., Smolenski, P., McClelland, J., & Hinton, G. (1986). Schemata and sequential thought processes in PDP models. In J. McClelland, & D. Rumelhart, *Parallel Distributed Processing: Explorations in the Microstructure of Cognition* (Vol. 2). Cambridge, MA: MIT Press.
-
-Schegloff, E. (1984). On some gestures' relation to talk. In M. Atkinson, & J. Heritage, *Structures of Social Action* (pp. 266-296). Cambridge: Cambridge University Press.
-
-Senft, G. (1986). *Kilivila: The Language of the Trobriand Islanders.* Berlin: Mouton de Gruyter.
-
-Simon, H., & Kaplan, C. (1989). Foundations of Cognitive Science. In M. Posner, *Foundations of Cognitive Science.* Cambridge, MA: MIT Press.
-
-Smith, L. (2005). Action alters shape perception. *Cognitive Science*.
-
-Spivey, M. (2007). *The Continuity of Mind.* New York: Oxford University Press.
-
-Sporns, O., & Zwi, D. (2004). The small world of the cerebral cortex. *Neuroinformatics, 2*, 145-162.
-
-Stewart, J., Gapenne, O., & Di Paolo, E. (2010). *Enaction: Toward a new Paradigm for Cognitive Science.* Cambridge, MA: MIT Press.
-
-Streeck, J. (1993). Gesture as Communication I: Its Coordination with Gaze and Speech. *Communication Monographs, 60*(4), 275-299.
-
-Streeck, J., Goodwin, C., & LeBaron, C. (2011). *Embodied Interaction: Language and body in the material world.* Cambridge: Cambridge University Press.
-
-Suchman, L. (1987). *Plans and Situated Actions: The problem of human-machine communication.* New York: Cambridge University Press.
-
-Suleyman, M., & Bhaskar, M. (2023). *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma.* New York: Crown Books.
-
-Sunstein, C. (2007). *Infotopia: How many minds produce knowledge.* New York: Oxford University Press.
-
-Surowiecki, J. (2004). *The wisdom of crowds: Why the many are smarter than the few and how collective wisdom shapes business, economies, societies, and nations.* New York: Doubleday.
-
-Talmy, L. (1995). Fictive motion in language and perception. In P. Bloom, M. Peterson, L. Nadel, & M. Garrett, *Language and Space* (pp. 307-384). Cambridge, MA: MIT Press.
-
-Thelen, E., & Smith, L. (1994). *A Dynamical Systems Approach to the Development of Cognition and Action.* Cambridge, MA: MIT Press.
-
-Theureau, J. (2015). *Le Cours D'Action: L'Enaction & L'Expérience.* Toulouse, France: Octares Editions.
-
-Thompson, E. (2007). *Mind in life: Biology, phenomenology, and the sciences of mind.* Cambridge, MA: Harvard University Press.
-
-Turnbaugh, P., Ley, R., Hamady, M., Fraser-Liggett, C., Knight, R., & Gordon, J. (2007). The Human Microbiome Project. *Nature, 449*(18), 804-810.
-
-Varela, F., Thompson, E., & Rosch, E. (1991). *The embodied mind: Cognitive science and human experience.* Cambridge, MA: MIT Press.
-
-Vygotsky, L. (1978). *Mind in Society.* Cambridge, MA: Harvard University Press.
-
-Weibel, N., Fouse, A., Emmenegger, C., Kimmich, S., & Hutchins, E. (2012). Let's look at the cockpit: Exploring mobile eye-tracking for observational research on the flight deck. *Proc. ETRA 2012, ACM Symposium on Eye Tracking Research and Applications.* Santa Barbara, California.
-
-Wertsch, J. (1985). *Vygotsky and the Social Formation of Mind.* Cambridge, MA: Harvard University Press.
-
-Wilson, S., Saygin, A., Sereno, M., & Iacoboni, M. (2004). Listening to speech activates motor areas involved in speech production. *Nature Neuroscience*, 701-702.
-
-## Endnotes
-
-[^i]:
-
-Funding for this project was provided by the Social Science Research Council. My wife and I lived in Tukwaukwa Village on the island of Boyowa from June of 1975 until October of 1976. 
-
-[^ii]:
-
-My access to ships in the US Navy fleet was made possible by my position as a Personnel Research Psychologist at the Navy Personnel Research and Development Center in San Diego, California from 1980 through 1986. I worked in the Future Technologies Group under the direction of James Hollan.
-
-[^iii]:
-
-In 1988 Don Norman and I began a research project titled, "Distributed Cognition in Aviation." The project was funded by the Aerospace Human Factors Research Division of NASA under the Aviation Automation Safety program. I continued with NASA funding until 2001. Over the years I had research agreements including flight deck access on United Airlines, Delta Airlines, America West Airlines, US Airways, American Airlines, Aeroméxico, GOL (Brazil), All Nippon Airlines, Japan Airlines, KLM Royal Dutch Airlines, and Air New Zealand. I have had consulting agreements and research funding from both Boeing and Airbus. In corporate aviation I have had consulting arrangements with LOFT flight training in Carlsbad, California.
-
-[^iv]:
-
-This section draws on material developed for the article (Hutchins, 2010a).
-
-[^v]:
-
-This is the same pseudonym I used for this ship in (Hutchins, 1995). 
-
-[^vi]:
-
-This is an original analysis done with the MGC framework in mind. It is more detailed and perhaps reveals more insights from the MGC framework than the other analyses in this paper.
-
-[^vii]:
-
-The analysis in this section is based on an analysis that appears in the early pages of (Hutchins, 2010b). The Santa Fe Institute's program on Robustness in Social Systems provided funding for the work reported here. Erica Jen served as grant monitor.
-
-[^viii]:
-
-The analysis in this section is based on (Hutchins, 2010b). The Santa Fe Institute's program on Robustness in Social Systems provided funding for the work reported here. Erica Jen served as grant monitor. Alisa Durán transcribed the data and helped me focus the analysis on the problem of insight. Figure 5.3.2 was drawn from a video frame by Whitney Friedman. I am grateful to Andy Clark, Kensy Cooperrider, Deborah Forster, Charles Goodwin, Rafael Núñez, and John Stewart for valuable comments on an earlier version of this analysis.
-
-[^ix]:
-
-The analysis in this section is based on an analysis that appeared in (Hutchins, 2006). This work was funded by a grant from the Santa Fe Institute's program on Robustness in Natural and Social Systems. Alisa Durán transcribed the data and suggested many elements of the analysis presented here.
-
-[^x]:
-
-The analysis in this section is based on (Hutchins & Palen, 1997).
-
-[^xi]:
-
-Saeko Nomura-Baird collected the data reported in this section. She and I performed the analysis, which originally appeared in (Hutchins & Nomura, 2011). Access to the field site was arranged through, and data collection was supported by a contract with, the Boeing Flight Deck Concepts Center. Barbara Holder served as contract monitor. Whitney Friedman created the cartoon representations of the video frames. We are grateful to Charles Goodwin and Susan Goldin-Meadow for reading early drafts of the paper and providing expert advice. Any errors that remain are my own. Funding for the data analysis was provided by NSF award #0729013, "A multi-scale framework for analyzing activity dynamics," James Hollan, Edwin Hutchins, and Javier Movellan, principal investigators. Finally, we are especially grateful to the many pilots and instructors who have participated in our research.
-
-[^xii]: 
-
-The analysis in this section is based on (Hutchins et al., 2013)**.**Access to the field site was arranged through, and data collection was supported by, a contract with the Boeing Flight Deck Concepts Center. Barbara Holder served as contract monitor. We thank Ram Dixit, Sara Kimmich, and Alex Fung for help with preparation of figures and copyediting. Support for this research was provided by National Science Foundation Award #0729013 and UCSD-Boeing Agreement 2011-012.
+[^12]:The analysis in this section is based on (Hutchins et al., 2013).Access to the field site was arranged through, and data collection was supported by, a contract with the Boeing Flight Deck Concepts Center. Barbara Holder served as contract monitor. We thank Ram Dixit, Sara Kimmich, and Alex Fung for help with preparation of figures and copyediting. Support for this research was provided by National Science Foundation Award #0729013 and UCSD-Boeing Agreement 2011-012.
