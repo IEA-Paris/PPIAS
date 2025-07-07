@@ -1,30 +1,10 @@
 ---
-published: false
-article_title: "Secular Advocacy, Religious Women and a New Framework for Ideas
-  and Action: Challenges and Possibilities from Bangladesh"
-date: 2025-05-30T07:15:00.000Z
-type: proceedings
-needDOI: false
-authors:
-  - is_institution: false
-    firstname: Samia
-    lastname: Huq
-    positions_and_institutions:
-      - institution: School of General Education Brac University, Dhaka
-        positions:
-          - Professor of Anthropology and Dean
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: Gender has long been a contentious issue across the religious-secular
-  divide for debates on women’s voice, progress and autonomy it brings to public
-  policy and action and private/domestic life. Bangladesh has experienced this
+DOI: 10.5281/zenodo.15827793
+Zid: 15827793
+abstract: >-
+  Gender has long been a contentious issue across the religious-secular divide
+  for debates on women’s voice, progress and autonomy it brings to public policy
+  and action and private/domestic life. Bangladesh has experienced this
   persistent clash for decades, albeit amidst many changes in laws as well as
   social conditions that affect women’s lives. Many positive changes
   notwithstanding, the religious-secular divide remains one replete on the one
@@ -39,11 +19,39 @@ abstract: Gender has long been a contentious issue across the religious-secular
   whether a concomitant debate on Bangladesh’s contested secularism might shed
   light on a new and accommodative framework for liberal politics and positive
   change in women’s lives.
-issue: content/issues/paris-ias-ideas.md
+article_title: >-
+  Secular Advocacy, Religious Women and a New Framework for Ideas and Action:
+  Challenges and Possibilities from Bangladesh
+authors:
+  - firstname: Samia
+    is_institution: false
+    lastname: Huq
+    positions_and_institutions:
+      - institution: School of General Education Brac University, Dhaka
+        positions:
+          - Professor of Anthropology and Dean
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: /huqreferences.bib
+date: 2025-05-30T07:15:00.000Z
 highlight: false
-bibliography: /static/huqreferences.bib
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/6285fdaa-a7a7-40c8-ba7e-b6d4eb04b6e9
+needDOI: true
+published: true
+type: proceedings
+
 ---
+
 ## Acknowledgement:
 
 I would like to express my gratitude to the Institute of Advanced Studies (IEA), Paris for extending to me a writing fellowship in October 2024 that allowed me the time and space away from other responsibilities to gather my thoughts on existing research and write. IEA, Paris provided the perfect grounds for thinking, exchanges and writing. I remain, always, indebted to my interlocutors who share their life stories with me with confidence, and remain inspired by the bravery of women's rights activists and other activists who fight for a variety of just causes.  
@@ -70,11 +78,11 @@ In independent Bangladesh, women remained active in asking for their rights in a
 
 As a secular force, women's groups consist of feminist and women's rights organizations that have footprints in social movements, development activities, protests against fundamentalism, violence against women, state repression, and authoritarian rule (Nazneen, 2020). These groups have worked within the context of "classic patriarchy" that allows men control over women's labor, sociality, and mobility, where religious personal laws go against the constitutional guarantee of equality by having different laws for women with regard to marriage, divorce, and inheritance. The centrality of marriage to grant women economic and social security, along with other circumscriptions around women's mobility, work, and bodies, created an environment where women's voices and agency required the work, often coordinated by the state and NGOs-both of which women's organizations have worked with. The result has been commendable. In spite of many barriers, women fare better now in social development indicators, with a sharp decline in fertility rates, maternal mortality, and gender parity in primary and secondary education (Nazneen et al. 2011). However, challenges remain. For example, even as women's participation in the formal labor force has grown, the numbers are lower than in other countries in South Asia. Similarly, while women's formal political participation has grown, women representatives state that they face many attitudinal, structural, and cultural barriers (Akter and Nazneen 2014). In other words, progress on women's issues and rights is uneven, hinting at the need for continued work on the public space so that it becomes more hospitable for women. 
 
-Women's groups and their secular stance have not, however, been without (self)surveillance. Feminists have always had to align their interests with nationalist ones. S.M. Shamsul Alam argues that both trajectories of nationalism---the secularized Bengali nationalism as well as the Islamized Bangladeshi one "do not view women outside the domain of nationalism, and women as agents are subsumed under the discourse of a modernizing nation state" (Alam 1998:444). Taslima Nasrin is a Bangladeshi writer whose writings advocating that women claim their sexuality against religious proscriptions, where religious men can be perpetrators, earned her huge fundamentalist backlash, leading her to eventually seek political asylum in the West. In her article, "Feminist Struggles in Bangladesh," Firdous Azim points out that the Taslima Nasrin case was celebrated by the West as representing a lone female voice who had the courage to stand up to their stereotypical notion of a backward and oppressive Muslim society. This view is contrasted with Nasrin's image at home, where many felt that she had betrayed her own religion and people. Within such contradictory ideas, feminists held a precarious position of simultaneously upholding women's rights to self-expression and promoting nationalism. As Azim writes, "The feminist task in indeed very difficult---to constantly hold the critical mirror up to social inequities which keep gender discrimination in place, but not to fall into the global vilification that Muslim cultures and so-called backward cultures are subject to" (Azim 2005:195).  Azim's statement illuminates the reality that a conversation around sexuality is a difficult one. It is a progressive cause that feminists and women's groups would ideally like to hold up.  However, it is also a cause that also hinges on an external western gaze that has long seen Muslim people as backwards and silenced by religious and cultural pressures. The local feminist agenda is to support local women without falling prey to such a western gaze that has long homogenized and "orientalized" Muslim people, notably through a passive framing of the lives of the women. Validating the hue and cry over Taslima Nasrin as a violation of individual autonomy was tantamount to supporting the view that hers was a  "lone cause", especially at the erasure of the many struggles women are faced with and that women's groups have long contended with locally.  Thus, tensions around sexuality often become about the West versus East, progress versus constraints, vertical solidarity versus horizontal ones, with one of the underlying currents being the dichotomy between the secular and the religious. 
+Women's groups and their secular stance have not, however, been without (self)surveillance. Feminists have always had to align their interests with nationalist ones. S.M. Shamsul Alam argues that both trajectories of nationalism — the secularized Bengali nationalism as well as the Islamized Bangladeshi one "do not view women outside the domain of nationalism, and women as agents are subsumed under the discourse of a modernizing nation state" (Alam 1998:444). Taslima Nasrin is a Bangladeshi writer whose writings advocating that women claim their sexuality against religious proscriptions, where religious men can be perpetrators, earned her huge fundamentalist backlash, leading her to eventually seek political asylum in the West. In her article, "Feminist Struggles in Bangladesh," Firdous Azim points out that the Taslima Nasrin case was celebrated by the West as representing a lone female voice who had the courage to stand up to their stereotypical notion of a backward and oppressive Muslim society. This view is contrasted with Nasrin's image at home, where many felt that she had betrayed her own religion and people. Within such contradictory ideas, feminists held a precarious position of simultaneously upholding women's rights to self-expression and promoting nationalism. As Azim writes, "The feminist task in indeed very difficult — to constantly hold the critical mirror up to social inequities which keep gender discrimination in place, but not to fall into the global vilification that Muslim cultures and so-called backward cultures are subject to" (Azim 2005:195).  Azim's statement illuminates the reality that a conversation around sexuality is a difficult one. It is a progressive cause that feminists and women's groups would ideally like to hold up.  However, it is also a cause that also hinges on an external western gaze that has long seen Muslim people as backwards and silenced by religious and cultural pressures. The local feminist agenda is to support local women without falling prey to such a western gaze that has long homogenized and "orientalized" Muslim people, notably through a passive framing of the lives of the women. Validating the hue and cry over Taslima Nasrin as a violation of individual autonomy was tantamount to supporting the view that hers was a  "lone cause", especially at the erasure of the many struggles women are faced with and that women's groups have long contended with locally.  Thus, tensions around sexuality often become about the West versus East, progress versus constraints, vertical solidarity versus horizontal ones, with one of the underlying currents being the dichotomy between the secular and the religious. 
 
 ## Advocacy, Secularity and the Body: 
 
-The discussion on women's activism and challenges leads one to understand several contours of the women's movement revealed through its aims, passions, political positioning, notion of self, and its flourishing that are assumed and consequently the labels both assumed and ascribed.  The contested label of "secular" is one that brings home to women's issues all of the battles that are waged outside of women's lives and homes, in the public and political space, validating the age-old feminist claim that the personal is and must be political.  Jose Casanova writes, "The secular has become a central modern category---theologico-philosophical, legal-political, and cultural-anthropological---to construct, codify, grasp, and experience a realm or reality differentiated from "the religious" (2009:1049). This is a realm that aspires to assert a certain autonomy, all the while being codified and institutionalized by the state and society. The creation of the secular is thus intertwined with the simultaneous (co) creation of the religious, constantly in imbrication with the sphere of religion (Asad 2003). As such, when we consider the women's groups' self-proclaimed secular status, we must remember the roots and relationality of their secularity. For the women, the roots lay in struggles for cultural sovereignty as well as national progress. While indeed the women who constituted the movement since its early calls were educated and middle to upper class women, the movement has recognized its class position and built relations with women of different kinds of socio-economic backgrounds, aiming to achieve horizontal solidarity. That solidarity is one that sought to bring women greater freedoms out of conditions that left them deprived, denigrated, and unable to access and negotiate with structures of power at the familial, social, political/national levels. Seeking material, social, and emotional improvement of women's lives, the women's movement has preferred a refrain from calls from religious platforms that have attempted to impede work that progresses a pro-woman's agenda. It is in this refrain, within the contextual realities in Bangladesh, that women's groups have located their secularity.  
+The discussion on women's activism and challenges leads one to understand several contours of the women's movement revealed through its aims, passions, political positioning, notion of self, and its flourishing that are assumed and consequently the labels both assumed and ascribed.  The contested label of "secular" is one that brings home to women's issues all of the battles that are waged outside of women's lives and homes, in the public and political space, validating the age-old feminist claim that the personal is and must be political.  Jose Casanova writes, "The secular has become a central modern category — theologico-philosophical, legal-political, and cultural-anthropological — to construct, codify, grasp, and experience a realm or reality differentiated from "the religious" (2009:1049). This is a realm that aspires to assert a certain autonomy, all the while being codified and institutionalized by the state and society. The creation of the secular is thus intertwined with the simultaneous (co) creation of the religious, constantly in imbrication with the sphere of religion (Asad 2003). As such, when we consider the women's groups' self-proclaimed secular status, we must remember the roots and relationality of their secularity. For the women, the roots lay in struggles for cultural sovereignty as well as national progress. While indeed the women who constituted the movement since its early calls were educated and middle to upper class women, the movement has recognized its class position and built relations with women of different kinds of socio-economic backgrounds, aiming to achieve horizontal solidarity. That solidarity is one that sought to bring women greater freedoms out of conditions that left them deprived, denigrated, and unable to access and negotiate with structures of power at the familial, social, political/national levels. Seeking material, social, and emotional improvement of women's lives, the women's movement has preferred a refrain from calls from religious platforms that have attempted to impede work that progresses a pro-woman's agenda. It is in this refrain, within the contextual realities in Bangladesh, that women's groups have located their secularity.  
 
 Women's rights groups and a progressive woman's agenda, notably those that espouse feminism, have had a rather antagonistic relationship with religion globally. Their professed secular standing has fallen back on secular logic from the enlightenment that has since framed religion as backward and irrelevant to progress in general and progressive women's change in particular. Lin Nyhagen outlines three ways in which feminists in the west have approached secularism for progress in their work. The first is a hard position on secularism that is hostile to all forms of religion in public and private. The second is a mixed stance on secularism that accommodates religion in the private sphere but not in the public, and finally, a soft stance on secularism that sees no problem with religion in the private or public spheres (Nyhagen 2017). Bangladeshi women's groups have mostly taken a mixed stance on secularism, believing that faith is a private matter, not to be used or mobilized for deliberation on public matters. They were part of the protests against the 8th Amendment to the Constitution of Bangladesh, which accorded Islam the position of state religion. The call to retain secularism was deemed beneficial for the women's movement for a number of reasons. First, the roots of the movement, planted through figures such as Begum Rokeya, whose call to change entailed a critique of custom that used religious approval to hold women back, were held up as worthy of remembrance and celebration. Next, the protest placed the struggle for women's rights at par with the struggles of discriminated groups, thereby creating a space for alliance-building against discrimination and towards equality in citizenship (Azim 2022). Part of the secular quest has, thus, also been the demand for a uniform family code, i.e., laws away from religion for women to secure rights in both private and public arenas. Their distance and refrain from all religious laws and customs, as well as platforms, have also been reactive as their mobilizations have hardly been free from genuine backlash, religious platforms-mostly voiced largely by "men of religion". The women's movement is thus embedded in history, politics, and culture, where a non-discriminatory approach and alliance-building without yielding to a (western) gaze that ignores and homogenizes the complex lives, realities, and struggles of women and the women's movement locally were constitutive of its secularity. 
 
@@ -114,124 +122,21 @@ It is in this absence where secularism, which in Bangladesh alludes to state neu
 
 Bangladesh is by no means unique, as a Muslim majority country, to have a checkered post-colonial path where progress accommodates women only tentatively or at best instrumentally. It is also not unique in its treatment of religion, where, whether secularism is an official proclamation or not, the conservative and rigid world of "tradition bearers" such as the alems (clergy) is brought into the public and political space for the political gains of the ruling elite. Indonesia, Malaysia, and Pakistan are all examples of where similar political maneuvering happens. The consequent existing political field within which positions are hardened leaves very little space for genuine conversations, especially around women- their bodies and selves- a conversation that is always appropriated for political gains rather than the genuine advancement of women's lives.  It is this political field that is the work site for women's rights groups who wish to place women very much at the forefront of a conversation on progress and positive change. It is also this site that forces the women's groups to also acquire a hardened stance, perhaps out of strategy or for genuine philosophical and epistemic convictions, building walls for the protection of the constituency they wish to speak for. The various political and social impasses that recommendations and actual work to change women's lives encounter require various kinds of interventions at the levels of thinking and outreach. The burden of relaxing a hardened stance rests on everybody concerned. At an epistemic level, it requires an openness to the sociology of ground realities and the needs of women based on a wrestling with critical subjectivities.  At the level of political economy, the powers that be must allow for an opening up of and continued access to social and economic opportunities that meet a variety of women's needs. At the level of (civil) society, many kinds of alliance building initiatives are required so that not only a multiplicity of women's needs can flourish, but also a multiplicity of Islamic traditions can flourish as part of a scheme to deliver pluralism and safeguard the right to religious freedom. Last but not least, and perhaps *the* most important element of them all- there must be genuine political will to ensure intersectional representations and inter-group conversations towards a continuous thinking through women's desires, needs, and their solutions.     
 
-## References
 
-'Abolish Women's Affairs Reform Commission'. (2025, May 1). *The Daily Star*. https://www.thedailystar.net/news/bangladesh/news/abolish-womens-affairs-reform-commission-3884486
+[^1]: Women's empowerment has long been considered through the lens of increased economic opportunities and the freedoms of mobility, decision-making, that are corollaries of economic upliftment. However, whether women's empowerment rests solely in these domains is a contested question, urging for a more holistic conceptualization of empowerment. For a discussion on debates around women's empowerment, see Nazneen, Sohela & Sultan, Maheen & Hossain, Naomi. (2010). National Discourses on Women's Empowerment in Bangladesh: Enabling or constraining women's choices? Development. 53. 239-246. 10.1057/dev.2010.11.   
 
-Agarwal, B. (2010). *Gender and Green Governance: The Political Economy of Women's Presence Within and Beyond Community Forestry*. Oxford University Press, USA. https://doi.org/10.1093/acprof:oso/9780199569687.001.0001
+[^2]: Secularism in Bangladesh has been debated and contested for decades. Islamists have argued that an absence of religion, which secularism normatively presupposes, does not represent the ethos of the people. The founding position of the first government of Bangladesh, led by the Awami League, is that Bangladeshi secularism does not advocate an absence of or irreverence towards religion. Political parties have shown affinity towards different kinds of Islamist parties and Islamic platforms at different times to enunciate and change the place of secularism in the constitution and polity. For more on Bangladeshi secularism, see Mostofa, Shafi Md. 2024. "Faith, politics, and power: The evolution of secularism and authoritarianism in Bangladesh." World Affairs. 1--11. https://doi.org/10.1002/waf2.12015
 
-Amin, S. (1996). *The World of Muslim Women in Colonial Bengal, 1876-1939*. E.J. Brill.
+[^3]: Find the full report here: https://www3.weforum.org/docs/WEF_GGGR_2023.pdf
 
-Anwar, Z. (2009). Introduction. In Z. Anwar (Ed.), *Wanted: Equality and Justice in the Muslim Family*. Musawah.
+[^5]: For a full report, see: https://www.unwomen.org/sites/default/files/2024-09/progress-on-the-sustainable-development-goals-the-gender-snapshot-2024-en.pdf
 
-Asad, T. (2003). 2003. *Formations of the Secular: Christianity, Islam, modernity.* Stanford, CA.  Stanford University Press. 
+[^6]: The former Prime Minister clamped down heavily on the Jamaat-e-Islami for war crimes and for any opposition raised against her rule. For more, see <https://theprint.in/world/banned-by-mujib-hasina-accused-of-1971-atrocities-contentious-history-of-bangladesh-jamaat-e-islami/2245347/>.  While she did this, she propped up the Hefazat-e-Islam, another cluster of Islamists as her allies, allowing them to have a say in textbook contents and recognizing the dawra-e-hadith- a madrasa degree as equivalent to a Master's in Islamic Studies. For more, see  https://www.thedailystar.net/city/news/dawrae-hadith-gets-masters-degree-status-1636399  
 
-Azim, F. (2016). Secularism and Women's Movement in Bangladesh. In M. Mukhopadhyay (Ed.), *Feminist Subversion and Complicity: Governmentalities and Gender Knowledge in South Asia*. Zubaan.
+[^7]: To read about the Islamist mobilization against the women's commission, see https://www.thedailystar.net/news/bangladesh/news/abolish-womens-affairs-reform-commission-3884486
 
-Azim, F., & Hasan, P. (2014). Language, literature, education and community: The Bengali Muslim woman in the early twentieth century. *Women's Studies International Forum*, *45*, 105-111. https://doi.org/10.1016/j.wsif.2013.10.013
+[^8]: After the July uprising that toppled Sheikh Hasina's sixteen year-long dictatorial regime, we have seen that while Rokeya had been claimed by secularists and non-secularists alike, there are quarters that also wish to malign and reduce her life's work to un-Islamic. Post -July, on social media and on real sites, the image of Begum Rokeya appeared with her face blackened and profanities written across. At the University of Dhaka, this was protested, and the original graffiti was reinstated.  https://www.dhakatribune.com/bangladesh/dhaka/365750/du-students-restore-defaced-graffiti-of-begum
 
-Brandiotti, R. (2008). In Spite of the Times: The Postsecular Turn in Feminism. *Theory, Culture & Society*, *25*(6), 1-24. https://doi.org/10.1177/0263276408095542
+[^9]: In the 1990s and early 2000s, fatwas -- or rulings given in name of Islam/shariah to (corporeally) punish women for societal "breaches" were a commonplace and a source of harassment and violence against women.  In 2011, the government ruled that while a fatwa may be pronounced, it cannot be enforced and that any extrajudicial punishment would be illegal. However, fatwas and extrajudicial punishment remain in practice. https://www.thedailystar.net/opinion/human-rights/zero-tolerance-fatwas-violate-human-rights-1509055
 
-Casanova, J. (2009). The Secular and Secularisms. *Social Research*, *76*(4), 1049-1066. https://www.jstor.org/stable/40972201
-
-Dawrae Hadith gets master's degree status. (2018, September 20). *The Daily Star*. https://www.thedailystar.net/city/news/dawrae-hadith-gets-masters-degree-status-1636399
-
-Fraser, N. (2009). *Scales of Justice: Reimagining Political Space in a Globalizing World*. Columbia University Press.
-
-Goetz, A. M., & Nyamu, C. (2008). Voice and Women's Empowerment: Mapping a Research Agenda. In *Pathways Working Paper 2*. Brighton: Pathways of Women's Empowerment, Institute of Development Studies.
-
-Hirschkind, C. (2011). In there a secular body? *Cultural Anthropology*, *26*(4). https://doi.org/10.1111/j.1548-1360.2011.01116.x
-
-Huda, T. (2017, December 23). Zero tolerance for fatwas that violate human rights. *The Daily Star*. https://www.thedailystar.net/opinion/human-rights/zero-tolerance-fatwas-violate-human-rights-1509055
-
-Huq, M. (2008). Reading the Qur'an in Bangladesh: The Politics of 'Belief' Among Islamist Women. *Modern Asian Studies*, *42*(2/3), 457-488. 10.1017/S0026749X07003149
-
-Huq, S. (2011). Discussing the Bangladesh Rifles (BDR) rebellion: non-Islamist women and religious revival in urban Bangladesh. *Contemporary Islam*, *5*, 267-283. https://doi.org/10.1007/S11562-011-0165-8
-
-Huq, S. (2013). Defining Self and Other Bangladesh's Secular Aspirations and Its Writing of Islam. *Economic and Political Weekly*, *48*(50).
-
-Huq, S. (2021). Seeking certainty, security and spirituality: religious conditioning and everyday aspirations amongst female university students in Bangladesh. *Contemporary South Asia*, *29*(2), 257-270. https://doi.org/10.1080/09584935.2021.1915247
-
-Jahan, R. (2018). Men in Seclusion, Women in Public: Rokeya's Dream and Women's Struggles in Bangladesh. In A. Basu (Ed.), *The Challenge of Local Feminisms: Women's Movements in Global Perspective*. Taylor & Francis Group.
-
-Kabeer, N. (2016). Gender Equality, Economic Growth, and Women's Agency: The "Endless Variety" and "Monotonous Similarity" of Patriarchal Constraints. *Feminist Economics*, *22*(1), 295-321.
-
-Mahmood, S. (2012). *Politics of Piety: The Islamic Revival and the Feminist Subject*. Princeton University Press.
-
-Majumdar, R. (2025, May 3). Bangladeshi Islamists protest women's rights proposal -- DW -- 05/03/2025. *DW*. https://www.dw.com/en/bangladeshi-islamists-protest-womens-rights-proposal/a-72425960
-
-Mohammad, M. (2024, November 20). DU students restore defaced graffiti of Begum Rokeya. *Dhaka Tribune*. https://www.dhakatribune.com/bangladesh/dhaka/365750/du-students-restore-defaced-graffiti-of-begum
-
-Mostofa, S. M. (2024). Faith, politics, and power: The evolution of secularism and authoritarianism in Bangladesh. *World Affairs*, *187*(2), 161-171. https://doi.org/10.1002/waf2.12015
-
-Nahr, M. S. S. (2025, May 06). Human dev index: Bangladesh up a notch but still stuck in 'medium' category. *The Business Standard*. https://www.tbsnews.net/bangladesh/human-dev-index-bangladesh-notch-still-stuck-medium-category-1135586
-
-Nazneen, S. (2023). Women's Political Agency in Difficult Settings: Analysis of Evidence from Egypt, Nigeria, Mozambique, and Pakistan. *Development Policy Review*, *41*(Suppl. 1), e12685. https://doi.org/10.1111/dpr.12685
-
-Nazneen, S. (2024). Voice: A Useful Concept for Researching Backlash and Feminist Counter-Actions? *Understanding Gender Backlash: Southern Perspectives, IDS Bulletin*, *55*(1). 10.19088/1968-2024.103
-
-Nazneen, S., & Akter, M. (2013). Inclusive Democracy: Engendering Political Parties. In *State of Governance Bangladesh 2013: Democracy Party Politics* (pp. 79-90). BRAC Institute of Governance and Development (BIGD), BRAC University.
-
-Nazneen, S., & Sultan, M. (Eds.). (2014). *Voicing Demands: Feminist Activism in Transitional Contexts*. Bloomsbury Academic.
-
-Nazneen, S., Sultan, M., & Hossain, N. (2010). National Discourses on Women's Empowerment in Bangladesh: Enabling or constraining women's choices? *Development*, *53*, 239-246. https://doi.org/10.1057/dev.2010.11
-
-Nyhagen, L. (2017). The Lived Religion Approach in the Sociology of Religion and its Implications for Secular Feminist Analyses of Religion. *Social Compass*, *64*(4), 495-511. https://doi.org/10.1177/0037768617727482
-
-Padmanabhan, K. (2024, August 30). Banned by Mujib & Hasina, accused of 1971 atrocities, contentious history of Bangladesh Jamaat-e-Islami. *The Print*. https://theprint.in/world/banned-by-mujib-hasina-accused-of-1971-atrocities-contentious-history-of-bangladesh-jamaat-e-islami/2245347/
-
-Rahman, F. (1979). Towards Reformulating the Methodology of Islamic Law: Sheikh Yamani on 'Public Interest in Islamic Law'. *New York University Journal of International Law and Politics*, *12*, 219-224.
-
-Roy, A. (2010). Women's movement in India. In N. G. Jayal & P. B. Mehta (Eds.), *The Oxford Companion to Politics in India*. Oxford University Press.
-
-Rozario, S. (2006). The new burqa in Bangladesh: Empowerment or violation of women's rights? *Women's Studies International Forum*, *29*(4), 368-380. https://doi.org/10.1016/j.wsif.2006.05.006
-
-Sabur, M. A. (2022). Gender, Veiling, and Class: Symbolic Boundaries and Veiling in Bengali Muslim Families. *Gender and Society*, *36*(3). https://doi.org/10.1177/0891243222108963
-
-Schuler, S. R., Lenzi, R., Badal, S. H., & Nazneen, S. (2017). Men's Perspective on Women's empowerment and intimate partner violence. *Culture, Health and Sexuality*, *20*(1), 113-127. https://doi.org/10.1080/13691058.2017.1332391
-
-Schuler, S. R., Lenzi, R., Nazneen, S., & Bates, L. (2013). A perceived decline in intimate partner violence in Bangladesh: Qualitative evidence. *Studies in Family Planning*, *44*(2), 243-257. https://doi.org/10.1111/j.1728-4465.2013.00356.x
-
-Scott, J. W. (2007). *The Politics of the Veil*. Princeton University Press.
-
-Shehabuddin, E. (2008). *Reshaping the Holy: Democracy, Development, and Muslim Women in Bangladesh*. Columbia University Press.
-
-UN Women & UN Department of Economic and Social Affairs. (2024). *Progress on the Sustainable Development Goals: The Gender Snapshot 2024*. https://www.unwomen.org/sites/default/files/2024-09/progress-on-the-sustainable-development-goals-the-gender-snapshot-2024-en.pdf
-
-## Endnotes
-
-[^1]:
-
-Women's empowerment has long been considered through the lens of increased economic opportunities and the freedoms of mobility, decision-making, that are corollaries of economic upliftment. However, whether women's empowerment rests solely in these domains is a contested question, urging for a more holistic conceptualization of empowerment. For a discussion on debates around women's empowerment, see Nazneen, Sohela & Sultan, Maheen & Hossain, Naomi. (2010). National Discourses on Women's Empowerment in Bangladesh: Enabling or constraining women's choices? Development. 53. 239-246. 10.1057/dev.2010.11.   
-
-[^2]:
-
-Secularism in Bangladesh has been debated and contested for decades. Islamists have argued that an absence of religion, which secularism normatively presupposes, does not represent the ethos of the people. The founding position of the first government of Bangladesh, led by the Awami League, is that Bangladeshi secularism does not advocate an absence of or irreverence towards religion. Political parties have shown affinity towards different kinds of Islamist parties and Islamic platforms at different times to enunciate and change the place of secularism in the constitution and polity. For more on Bangladeshi secularism, see Mostofa, Shafi Md. 2024. "Faith, politics, and power: The evolution of secularism and authoritarianism in Bangladesh." World Affairs. 1--11. https://doi.org/10.1002/waf2.12015
-
-[^3]:
-
-Find the full report here: https://www3.weforum.org/docs/WEF_GGGR_2023.pdf
-
-[^5]:
-
-For a full report, see: https://www.unwomen.org/sites/default/files/2024-09/progress-on-the-sustainable-development-goals-the-gender-snapshot-2024-en.pdf
-
-[^6]:
-
-The former Prime Minister clamped down heavily on the Jamaat-e-Islami for war crimes and for any opposition raised against her rule. For more, see <https://theprint.in/world/banned-by-mujib-hasina-accused-of-1971-atrocities-contentious-history-of-bangladesh-jamaat-e-islami/2245347/>.  While she did this, she propped up the Hefazat-e-Islam, another cluster of Islamists as her allies, allowing them to have a say in textbook contents and recognizing the dawra-e-hadith- a madrasa degree as equivalent to a Master's in Islamic Studies. For more, see  https://www.thedailystar.net/city/news/dawrae-hadith-gets-masters-degree-status-1636399  
-
-[^7]:
-
-To read about the Islamist mobilization against the women's commission, see https://www.thedailystar.net/news/bangladesh/news/abolish-womens-affairs-reform-commission-3884486
-
-[^8]:
-
-After the July uprising that toppled Sheikh Hasina's sixteen year-long dictatorial regime, we have seen that while Rokeya had been claimed by secularists and non-secularists alike, there are quarters that also wish to malign and reduce her life's work to un-Islamic. Post -July, on social media and on real sites, the image of Begum Rokeya appeared with her face blackened and profanities written across. At the University of Dhaka, this was protested, and the original graffiti was reinstated.  https://www.dhakatribune.com/bangladesh/dhaka/365750/du-students-restore-defaced-graffiti-of-begum
-
-[^9]:
-
-In the 1990s and early 2000s, fatwas -- or rulings given in name of Islam/shariah to (corporeally) punish women for societal "breaches" were a commonplace and a source of harassment and violence against women.  In 2011, the government ruled that while a fatwa may be pronounced, it cannot be enforced and that any extrajudicial punishment would be illegal. However, fatwas and extrajudicial punishment remain in practice. https://www.thedailystar.net/opinion/human-rights/zero-tolerance-fatwas-violate-human-rights-1509055
-
-[^10]:
-
-For more on the Islamist backlash against the recommendations made by the women's commission, see, https://www.dw.com/en/bangladeshi-islamists-protest-womens-rights-proposal/a-72425960
+[^10]: For more on the Islamist backlash against the recommendations made by the women's commission, see, https://www.dw.com/en/bangladeshi-islamists-protest-womens-rights-proposal/a-72425960
