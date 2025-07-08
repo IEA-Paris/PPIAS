@@ -1,30 +1,12 @@
 ---
-published: true
-article_title: How can Virtual Reality be used to study the personal and collective future?
-date: 2025-06-09T09:01:00.000Z
-type: proceedings
-needDOI: true
-authors:
-  - is_institution: false
-    firstname: Scott N.
-    lastname: Cole
-    positions_and_institutions:
-      - institution: York St John University, UK
-        positions: []
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: This paper explores the potential of Virtual Reality (VR) as a novel
-  tool for investigating personal and collective future thinking. Building on
-  recent psychological research, particularly in the context of the COVID-19
-  pandemic, the author highlights how collective future thinking has emerged as
-  a significant area of study. Traditional survey methods, while informative,
+DOI: 10.5281/zenodo.15833948
+Zid: 15833948
+abstract: >-
+  This paper explores the potential of Virtual Reality (VR) as a novel tool for
+  investigating personal and collective future thinking. Building on recent
+  psychological research, particularly in the context of the COVID-19 pandemic,
+  the author highlights how collective future thinking has emerged as a
+  significant area of study. Traditional survey methods, while informative,
   limit causal inference and ecological validity. VR offers a promising
   alternative by enabling immersive, manipulable environments that simulate
   diverse future scenarios. The author outlines new directions in research using
@@ -33,12 +15,37 @@ abstract: This paper explores the potential of Virtual Reality (VR) as a novel
   understanding of the cognitive mechanisms underlying future thinking and its
   societal implications, including how immersive VR experiences might influence
   beliefs, intentions, and behaviors.
-issue: content/issues/paris-ias-ideas.md
-highlight: false
+article_title: How can Virtual Reality be used to study the personal and collective future?
+authors:
+  - firstname: Scott N.
+    is_institution: false
+    lastname: Cole
+    positions_and_institutions:
+      - institution: York St John University, UK
+        positions: []
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /colereferences.bib
+date: 2025-06-09T09:01:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/6da085de-437c-411d-94c2-53ab21a9c6a7
+needDOI: true
+published: true
+type: proceedings
+
 ---
-## **Acknowledgements**
+
+## Acknowledgements
 
 This paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program. The residency was supported by, and the research was performed in collaboration with, the Cerveau & Cognition (LMC^2^ UR 7536), Institut de Psychologie, Université Paris Cité led by Prof. Pascale Piolino.
 

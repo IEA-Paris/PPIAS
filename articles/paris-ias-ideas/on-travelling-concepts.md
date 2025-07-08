@@ -41,12 +41,6 @@ type: article
 
 ---
 
-# On Travelling Concepts
-
-## **Keywords**
-
-travelling concepts; 'philosophie pauvre'; conceptual analysis; conceptual engineering; understanding; generative artificial intelligence; Wittgenstein
-
 ## Preliminary
 
 This paper deals with a rather wide range of topics, each one of which probably deserves (at least) a monograph-length study of its own, and for each one of which there is an extensive literature. There is no way that one can do justice to all of that in the span of a single paper.

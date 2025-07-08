@@ -51,9 +51,9 @@ type: proceedings
 
 ---
 
-## **Acknowledgements**
+## Acknowledgements
 
-This working paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program
+This working paper was written during a 1-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program.
 
 ## 1. Motivation 
 
