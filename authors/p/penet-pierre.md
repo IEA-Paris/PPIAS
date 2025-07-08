@@ -22,6 +22,7 @@ positions_and_institutions:
   - institution: Professeur attaché
     positions:
       - ENS Paris-Saclay
+      - Professeur attaché
 social_channels:
   google_scholar: ''
   linkedin: ''
