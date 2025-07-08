@@ -1,44 +1,51 @@
 ---
-published: false
-article_title: "Odious Debt in the 21st Century: From Despotic Regimes to Predatory Creditors"
-date: 2025-07-01T07:09:00.000Z
-type: proceedings
-needDOI: false
+DOI: 10.5281/zenodo.15828934
+Zid: 15828934
+abstract: >-
+  This article investigates the renewed significance of the odious debt doctrine
+  in contemporary sovereign finance. Initially formulated to challenge debts
+  contracted by illegitimate regimes, the doctrine now engages broader debates
+  around creditor accountability and abusive lending practices. Drawing on case
+  studies including Cuba, Costa Rica, Iraq, Ecuador, Venezuela, and Greece, the
+  article traces the doctrine’s shift from a legal basis for debt repudiation to
+  a versatile tool of political contestation and market signaling. Despite its
+  legal ambiguity, the odious debt doctrine remains a powerful vehicle for
+  challenging illegitimate debt and redefining sovereign borrowing in an era of
+  intensified scrutiny of creditor behavior.
+article_title: 'Odious Debt in the 21st Century: From Despotic Regimes to Predatory Creditors'
 authors:
-  - is_institution: false
-    firstname: Pierre
+  - firstname: Pierre
+    is_institution: false
     lastname: Pénet
     positions_and_institutions:
       - institution: CNRS
         positions:
           - Research Fellow
-      - institution: "Professeur attaché "
+      - institution: 'ENS Paris-Saclay '
         positions:
-          - ENS Paris-Saclay
+          - Professeur attaché
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: This article investigates the renewed significance of the odious debt
-  doctrine in contemporary sovereign finance. Initially formulated to challenge
-  debts contracted by illegitimate regimes, the doctrine now engages broader
-  debates around creditor accountability and abusive lending practices. Drawing
-  on case studies including Cuba, Costa Rica, Iraq, Ecuador, Venezuela, and
-  Greece, the article traces the doctrine’s shift from a legal basis for debt
-  repudiation to a versatile tool of political contestation and market
-  signaling. Despite its legal ambiguity, the odious debt doctrine remains a
-  powerful vehicle for challenging illegitimate debt and redefining sovereign
-  borrowing in an era of intensified scrutiny of creditor behavior.
-issue: content/issues/paris-ias-ideas.md
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: /pe-netreferences.bib
+date: 2025-07-01T07:09:00.000Z
 highlight: false
-bibliography: /static/pe-netreferences.bib
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/d1555f38-dec7-42d4-ad73-2b3e6a64014c
+needDOI: true
+published: true
+type: proceedings
+
 ---
+
 Recent debt crises have seen the rise or resurgence of various legal counter-cultures. This article examines one of their most structured expressions: the doctrine of odious debt. Situated within a broader set of efforts aimed at limiting the unchecked assertion of creditors’ rights, the doctrine contributes to an ongoing redefinition of the normative architecture governing sovereign credit relations. Although diverse in design and scope, these approaches share a core idea: debtors have rights and creditors cannot be absolved from responsibilities. In a marked departure from the orthodox conception of sovereign lending, they reject the premise that the mere extension of credit establishes an absolute right to repayment. On the contrary, creditors, too, may be held to standards of accountability, particularly when debt contracts are compromised by elements of illegitimacy.
 
 The odious debt doctrine rests on a fundamental contestation of the legal validity of debts contracted under tainted conditions, especially when the borrowing regime lacks legitimacy or when the funds are used for purposes contrary to the public interest. Originally articulated in the early 20th century in relation to issues of state succession, the doctrine has undergone successive evolutions in both its criteria and scope, progressively extending to encompass cases of opaque and predatory lending. This adaptability underscores its doctrinal plasticity.
@@ -47,7 +54,7 @@ For over a century, the doctrine has fueled sustained and often contentious deba
 
 **Figure 1: Occurrences of the term “Odious debt(s)” in global news sources, 1983–2024**
 
-![](/static/figure1.png)
+![](/penet-figure1.png)
 
 Source: Factiva
 
@@ -135,7 +142,7 @@ The final two sections of this article explore an alternative trajectory that en
 
 **Table 1: Restating odious debt, a schematic overview**
 
-![](/static/table1.png)
+![](/penet-table1.png)
 
 This shift in analytical focus resonates with contemporary debates on the dynamics of financial predation within democratic regimes. In 2023, of the roughly $97 trillion in global public debt, the vast majority was issued by democratic states (UNCTAD, 2024). In these contexts, over-indebtedness stems not only from excessive borrowing by governments but also from a surplus supply of credit pushed by lenders. This challenges the conventional narrative of the creditor–debtor relationship, which casts lenders as passive responders to sovereign borrowing needs. In reality, creditors frequently engage in aggressive solicitation strategies, at times manufacturing artificial demand for financing to support projects for which recipients had expressed no prior need. Since the major waves of liberalization in the 1970s and 1980s, abusive lending practices have emerged as a key driver of international financial instability. As early as 1976, Johannes Witteveen, then Managing Director of the IMF, cautioned against the growing activism of creditors in pushing states to take on excessive debt: “Commercial banks should not be so easily accessible that \[...] this leads authorities to accumulate debts greater than what is desirable (cited in James, 2002).” His warning anticipated the debt trajectories later witnessed in Latin America and Southeast Asia during the 1980s and 1990s, and in Southern Europe during the 2000s.
 
@@ -171,122 +178,15 @@ One question persists: if private law mechanisms and multilateral institutions a
 
 And yet, closer analysis suggests that the doctrine’s significance lies elsewhere: in its ability to offer a political language through which to contest and delegitimize debts perceived as illegitimate. The label of odious debt remains a powerful rhetorical device, one that delineates limits to the enforceability of debt contracts. A century after its formulation, the doctrine of odious debt finds itself at a critical juncture. To retain its relevance, it must evolve beyond its initial emphasis on the character of borrowing regimes and take into account the role of creditors, particularly those who act recklessly, or with predatory intent. The convergence of odious debt and abusive lending has now become a key axis around which future legal and political disputes are likely to revolve.
 
-## Acknowledgment
+## Acknowledgments
 
 I would like to thank the Institut d’Études Avancées de Paris (IEA), and especially Saadi Lahlou, for inviting me back for a one-month fellowship. The Institute’s supportive and interdisciplinary environment was instrumental in enabling this research. I’m also thankful to David Armando, Gordon Cumming, Pierre Gaussens, Michèle Lamont, and Vivian Loftness for their thoughtful comments and insights as this work developed.
 
-## Bibliography
 
-Adams, P. (2004). Iraq’s odious debts. Policy Analysis, 526, 12–14.
+[^1]:For perspective on the Algerian case, see Mallard (2021).
 
-Armitage, J., & Chu, B. (2015). Greek debt crisis: Goldman Sachs could be sued for helping hide debts when it joined euro. The Independent, July 11.
+[^2]:Jean-Luc Mélenchon, “Dimanche, ma gauche peut gagner en Grèce”, January 20, 2015. http://www.jean-luc-melenchon.fr/2015/01/20/dimanche-ma-gauche-peut-gagner-en-grece/
 
-Balachandran, G., Mallard, G., Arewa, O., Baccaro, L., Büthe, T., Nightingale, A., Pénet, P., Pestre, D., & Roberts, A. (2018). Governing capital, labor and nature in a changing world. In O. Bouin, M.-L. Djelic, M. Fleurbaey, R. Kanbur, & E. Reis (Eds.) Rethinking Society for the 21st Century: Report of the International Panel on Social Progress, Vol. 2: Political Regulation, Governance, and Societal Transformations (pp. 491-522). Cambridge University Press.
+[^3]:“Paris et Washington s’affrontent sur l’annulation de la dette,” Le Monde, September 9, 2004.
 
-Bouchat, B., de Romanet, V., Jacquemont, S., Lamarque, C., & Toussaint, É. (2007). Pour un audit intégral de la dette. L’Équateur à la croisée des chemins, (Chapter 1). CADTM, August 18.
-
-Boudet, J.-F. (2015). Essai sur le défaut souverain. Revue internationale de droit économique, 3, 373–395.
-
-Buchheit, L., Gulati, M., & Thompson, R. (2007). The dilemma of odious debts. Duke Law Journal, 56(5), 1201–1262.
-
-Centro de Derechos Económicos y Sociales. (2002). Upheaval in the back yard: Illegitimate debts and human rights. The case of Ecuador–Norway, November 1.
-
-Choi, A. H., & Posner, E. A. (2007). A critique of the odious debt doctrine. Law and Contemporary Problems, 70(3), 33–51.
-
-Daley, S. (2014). So many bribes, a Greek official can’t recall them all. The New York Times, February 7.
-
-El-Erian, M. (2012). Who is to blame for Greece’s crisis? The Guardian, May 18.
-
-Gelpern, A. (2005). What Iraq and Argentina might learn from each other. Chicago Journal of International Law, 6, 391–414.
-
-Gulati, M., & Panizza, U. (2021). Maduro bonds. In P. Pénet & J. F. Zendejas (Eds.), Sovereign debt diplomacies: Rethinking sovereign debt from colonial empires to hegemony (pp. 282–303). Oxford University Press.
-
-Harding, J. (2003). Top adviser backs debt forgiveness. The Financial Times UK, June 12.
-
-Hausmann, R. (2017). The Hunger Bonds. Project Syndicate, May 26.
-
-Hausmann, R., & Panizza, U. (2017). Odiousness ratings for public debt. Project Syndicate, August 30.
-
-Hounshell, B. (2008). Ecuador defaults, calls lenders ‘monsters.’ Foreign Policy, December 13
-
-Hurley, G. (2007). Tiny Ecuador in the spotlight as government seeks to renegotiate debt on its terms. CADTM, May 24
-
-James, H. (2002). Central banks and the process of financial internationalization: A secular view. In Y. Cassis & S. Battilossi (Eds.), European banks and the American challenge (pp. 200–217). Oxford University Press.
-
-Jayachandran, S. & Kremer, M. (2006). Odious Debt. American Economic Review, 96(1), 82–92.
-
-King, J. (2016). The doctrine of odious debt in international law: A restatement. Cambridge University Press.
-
-Lazghab, S. (2004). Irak: la dette de Saddam Hussein. CADTM, September 15.
-
-Ludington, S., Gulati, M., & Brophy, A. (2010). Applied legal history: Demystifying the doctrine of odious debts. Theoretical Inquiries in Law, 11(1), 247–281.
-
-Mallard, G. (2021). We owe you nothing: Decolonization and sovereign debt obligations in international public law. In P. Pénet & J. F. Zendejas (Eds.), Sovereign debt diplomacies: Rethinking sovereign debt from colonial empires to hegemony (pp. 189–212). Oxford University Press.
-
-Mallard, G., & Pénet, P. (2013). Seeing like a credit rating agency: The constitution of financial uncertainties during the Greek sovereign debt crisis. In C. Hawthorne (Ed.), Financial crises: Identification, forecasting and effects on transition economies (pp. 164–174). Nova Publishers.
-
-Mallard, G., & Sun, J. (2022). Viral governance: How unilateral US sanctions changed the rules of financial capitalism. American Journal of Sociology, 128(1), 144–188.
-
-Mansell, W., & Openshaw, K. (2009). Suturing the open veins of Ecuador: Debt, default and democracy. The Law and Development Review, 2(1), 151–191.
-
-Merckaert, J. (2006). Rendre illégales les dettes odieuses, un impératif moral et politique. In J. Merckaer (Ed.), Rapport 2005/2006 de la Plateforme Dette & Développement: La loi des créanciers contre les droits des citoyens (pp. 75–95).
-
-Nehru, V., & Thomas, M. (2008). The concept of odious debt: Some considerations. World Bank Policy Research Working Paper, 4676, July 1.
-
-Norwegian Ministry of Foreign Affairs. (2006). Cancellation of debts incurred as a result of the Norwegian Ship Export Campaign (1976–80), October 2.
-
-Pénet, P. & Mallard, G. (2014). From risk models to loan contracts: Austerity as the continuation of calculation by other means. Journal of Critical Globalization Studies, 7, 4–50.
-
-Pénet, P. (2016). Credit ratings. In C. E. Carroll (Ed.), The SAGE Encyclopedia of Corporate Reputation (pp. 236–239). SAGE Publications.
-
-Pénet, P. (2017). Créer une agence européenne de notation financière à but non lucratif. Le Monde, 18 octobre.
-
-Pénet, P. (2018). The IMF failure that wasn’t: Risk ignorance during the European debt crisis. The British Journal of Sociology, 69(4), 1031–1055.
-
-Pénet, P. (2018). Rethinking Odious Debt. Books & Ideas, March 19.
-
-Pénet, P. & Flores Zendejas, J. (Eds.) (2021), Sovereign debt diplomacies: Rethinking sovereign debt from colonial empires to hegemony. Oxford University Press.
-
-Porzecanski, A. C. (2010). When bad things happen to good sovereign debt contracts: The case of Ecuador. Law and Contemporary Problems, 73(4), 269–270.
-
-Roos, J. (2019). Why not default? The political economy of sovereign debt. Princeton University Press.
-
-Sack, A. N. (1927). Les effets des transformations des États sur leurs dettes publiques et autres obligations financières: Traité juridique et financier. Recueil Sirey.
-
-Salmon, F. (2004). Iraq’s finance minister, Adil Abdul Mahdi: Restructuring debt is top priority. Euromoney, September 1.
-
-Siegle, J. (2004). A boost for emerging democracies: After Iraq, let’s forgive some other debts. International Herald Tribune, February 19.
-
-Sgard, J. (2023). The Debt Crisis of the 1980s. Law and Political Economy, Elgar.
-
-Stiglitz, J. (2003). Odious rulers, odious debts. The Atlantic, November 1.
-
-Toussaint, É. (2003). La dette odieuse de l’Irak. CADTM, 8 septembre.
-
-Toussaint, É. (2017). Le système dette: Histoire des dettes souveraines et de leur répudiation. Les Liens qui Libèrent.
-
-Toussaint, É., Palacios, H. A., & Chatzistefanou, A. (2016). L’audit de la dette en Équateur résumé en 7 minutes. CADTM, March 2.
-
-Tripp, C. (2007). A history of Iraq. Cambridge University Press.
-
-UNCTAD. (2012). Principles on promoting responsible sovereign lending and borrowing, January 10.
-
-UNCTAD. (2024). A world of debt 2024: A growing burden to global prosperity.
-
-## Endnotes
-
-[^1]:
-
- For perspective on the Algerian case, see Mallard (2021).
-
-[^2]:
-
- Jean-Luc Mélenchon, “Dimanche, ma gauche peut gagner en Grèce”, January 20, 2015. http://www.jean-luc-melenchon.fr/2015/01/20/dimanche-ma-gauche-peut-gagner-en-grece/
-
-[^3]:
-
- “Paris et Washington s’affrontent sur l’annulation de la dette,” Le Monde, September 9, 2004.
-
-[^4]: 
-
-“Stiglitz on Greek Tragedy,” BBC, 30 June 2015.
+[^4]:“Stiglitz on Greek Tragedy,” BBC, 30 June 2015.
