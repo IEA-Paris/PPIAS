@@ -91,9 +91,9 @@ We propose a complementary strategy that inverts this logic: we begin by isolati
 
 In essence, our method proceeds as follows (see Figure 1 for visual reference):
 
-1. **We obtain *G^e^* and *O^e^* which are the subjects' implicit beliefs** about an ingroup and an outgroup partner's behavior, respectively.  Geometrically, these are the intersection points between the subject's unconditional cooperation (UC) level and their conditional cooperation (CC) strategy. From a behavioral perspective, *G^e^* and *O^e^* reflect the contributions that participants implicitly anticipate from each group, absent direct information.
-2. Next, we compute the conditional cooperation that would be displayed towards an ingroup partner if that partner were expected to behave like an outgroup member. Formally, we calculate, ***CG^(O^e^)^***, which is the contribution on the subject's ingroup CC curve evaluated at *O^e^*. Geometrically, this corresponds to projecting the outgroup belief *O^e^* onto the ingroup CC function (represented by the dashed purple line in Figure 1). Behaviorally, this captures how much a participant would be willing to cooperate with an ingroup partner who they expect to act like an outgroup partner.
-3. We define statistical discrimination (SD) as the difference between the conditional cooperation with an ingroup partner expected to behave as an outgroup member ***CG^(O^e^)^***, and the unconditional cooperation actually shown towards an outgroup member. In behavioral terms, this comparison controls for expectations (both equal to *O^e^*) and isolates the impact of group identity on behavior: it is a within-subject measure of how differently individuals act toward identical behaviors depending on the partner's group membership.
+1. **We obtain *G<sup>e</sup>* and *O<sup>e</sup>* which are the subjects' implicit beliefs** about an ingroup and an outgroup partner's behavior, respectively.  Geometrically, these are the intersection points between the subject's unconditional cooperation (UC) level and their conditional cooperation (CC) strategy. From a behavioral perspective, *G<sup>e</sup>* and *O<sup>e</sup>* reflect the contributions that participants implicitly anticipate from each group, absent direct information.
+2. Next, we compute the conditional cooperation that would be displayed towards an ingroup partner if that partner were expected to behave like an outgroup member. Formally, we calculate, ***CG^(O<sup>e</sup>)^***, which is the contribution on the subject's ingroup CC curve evaluated at *O<sup>e</sup>*. Geometrically, this corresponds to projecting the outgroup belief *O<sup>e</sup>* onto the ingroup CC function (represented by the dashed purple line in Figure 1). Behaviorally, this captures how much a participant would be willing to cooperate with an ingroup partner who they expect to act like an outgroup partner.
+3. We define statistical discrimination (SD) as the difference between the conditional cooperation with an ingroup partner expected to behave as an outgroup member ***CG^(O<sup>e</sup>)^***, and the unconditional cooperation actually shown towards an outgroup member. In behavioral terms, this comparison controls for expectations (both equal to *O<sup>e</sup>*) and isolates the impact of group identity on behavior: it is a within-subject measure of how differently individuals act toward identical behaviors depending on the partner's group membership.
 4. **We compute the PbD as the difference between total discrimination (TD), and SD.**
 
 This allows us to decompose overall discrimination into a belief-driven and a preference-driven component, with PbD emerging as a direct behavioral deviation not attributable to differences in expected partner behavior.
@@ -114,13 +114,13 @@ Let ***CG*** and ***CO*** represent the conditional cooperation functions towa
 
 ### **First step:**
 
-Implicit beliefs are derived by determining the partner contribution at the intersection of the conditional and unconditional cooperation functions, specifically equations (1) and (3) for the outgroup, and equations (2) and (4) for the ingroup. At these points, which we call ***G^e^*** and ***O^e*)^**, participants are allocating to the group account some amount that might be consistent with what they expect the partner will contribute.  This decision is unconditional in nature, as they cannot make a strategy plan in advance. However, it does possess a certain degree of conditionality, as it is influenced by the participant's beliefs about their partner's behavior.  
+Implicit beliefs are derived by determining the partner contribution at the intersection of the conditional and unconditional cooperation functions, specifically equations (1) and (3) for the outgroup, and equations (2) and (4) for the ingroup. At these points, which we call ***G<sup>e</sup>*** and ***O^e*)^**, participants are allocating to the group account some amount that might be consistent with what they expect the partner will contribute.  This decision is unconditional in nature, as they cannot make a strategy plan in advance. However, it does possess a certain degree of conditionality, as it is influenced by the participant's beliefs about their partner's behavior.  
 
 Equalizing (1) and (3) we obtain:
 
 ![](/Restrepo-equation5.png)
 
-Assuming ***O_k*** = ***O^e^*,**
+Assuming ***O<sub>k</sub>*** = ***O<sup>e</sup>*,**
 
 ![](/Restrepo-equation5-.png)
 
@@ -215,9 +215,9 @@ To produce the results presented in Figure 4, we applied the four-step procedure
 
 To estimate implicit beliefs, we first obtained the parameters of equations (1) and (2) by fitting a censored Tobit model to participants' conditional cooperation decisions as a function of the partner's contribution level to the public good. These models account for the lower and upper bounds of the contribution scale and capture individual responsiveness to partner behavior.
 
-Next, we inferred each participant's implicit belief about the partner's expected contribution by solving the estimated conditional cooperation equation for the value at which it equals the observed unconditional contribution. That is, we identified the partner contribution level that would rationalize the subject's unconditional behavior under the estimated conditional strategy—our measure of *G^e^* or *O^e^*, depending on the group.
+Next, we inferred each participant's implicit belief about the partner's expected contribution by solving the estimated conditional cooperation equation for the value at which it equals the observed unconditional contribution. That is, we identified the partner contribution level that would rationalize the subject's unconditional behavior under the estimated conditional strategy—our measure of *G<sup>e</sup>* or *O<sup>e</sup>*, depending on the group.
 
-To compute SD, we re-inserted the implicit belief about the outgroup's expected behavior (*O^e^*) into the conditional cooperation function estimated for the ingroup. This gave us the participant's predicted contribution toward an ingroup partner behaving like an outgroup member. We then subtracted the observed unconditional contribution toward the outgroup. The resulting difference isolates statistical discrimination: the extent to which behavior diverges when expectations are held constant but group identity differs.
+To compute SD, we re-inserted the implicit belief about the outgroup's expected behavior (*O<sup>e</sup>*) into the conditional cooperation function estimated for the ingroup. This gave us the participant's predicted contribution toward an ingroup partner behaving like an outgroup member. We then subtracted the observed unconditional contribution toward the outgroup. The resulting difference isolates statistical discrimination: the extent to which behavior diverges when expectations are held constant but group identity differs.
 
 Finally, we computed PbD as the difference between TD and SD.
 

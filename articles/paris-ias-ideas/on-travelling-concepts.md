@@ -17,7 +17,7 @@ authors:
     positions_and_institutions:
       - institution: Department of Philosophy, Tsinghua University
         positions: []
-      - institution: LLC/Department of Philosophy, University of Amsterdam
+      - institution: ILLC/Department of Philosophy, University of Amsterdam
         positions: []
     social_channels:
       google_scholar: ''
@@ -46,10 +46,6 @@ type: article
 This paper deals with a rather wide range of topics, each one of which probably deserves (at least) a monograph-length study of its own, and for each one of which there is an extensive literature. There is no way that one can do justice to all of that in the span of a single paper.
 
 Now that may be a good reason not to try to do so, but rather to stick with one issue, one view. However, sometimes it can be useful to take a broad perspective, treat a variety of questions and observationsas making up a single subject matter, one that can be approached from various angles. Sure, that does result in a lack of detail, but one may hope that one makes good for that by showing connections that otherwisewould go unnoticed. This paper is written in that spirit.[](http://stokhof.org/)
-
-This paper is the result of spending a month as writer-in-residence at the Institut d'études avancées in Paris. I would like to thank directors Saadi Lahlou and Paulius Yamin and the wonderful staff of the institute for their hospitality and support. Together with the stimulating environment created by the fellows of the institute, they made my stay not only productive but also extremely interesting and pleasant. I owe a special thanks to Saadi Lahlou for his support at a critical juncture.
-
-I thank Michiel van Lambalgen for discussions on 'philosophie pauvre' and Tamara Dobler for introducing me to conceptual engineering and sharing her ideas with me. And thanks to Johan van Benthem, Tamara Dobler, Michiel van Lambalgen, Fenrong Liu, and Robert van Rooij for their helpfulcomments on an earlier version.
 
 So, many details will be skipped, many interesting arguments will go unexamined and even go unmentioned. For a proper academic paper this is questionable. But we see no other way to present our takeon the issues within the limitations that are set. So, we invite the reader to read this rather as an essay: a set of fairly general observations, questions and, yes, also arguments, that trace broad aspects of this problem complex that we hope are of some interest. The paper is structured accordingly. The main text is devoted to a general and, we hope, accessible development of the main lines of thought, while referencesto and discussions of the literature are relegated to footnotes. [^1]
 
@@ -376,7 +372,7 @@ Much of the discussion in the literature about these issues is characterised by 
 If this conclusion is in the right direction, it also indicates more productive ways of dealing with the many problems that the rapid developments in this area present. Technical developments are difficult to predict, and even more difficult to control. But our way of thinking and speaking about what genAI is and, perhaps even more important, what it should be, are under our control. It is indeed our words, our concepts, that we use in thinking and arguing about these issues. And in the end, it is up to us to decide how we are going to use them. That will not change what genAI is and what genAI systems can do, of course. But it will be a decisive element in determining what they can do for us, what they are for us.
 
 
-[^1]:So, ideally, the non-philosopher can read just the main text and the philosopher just the footnotes.
+[^1]:So, ideally, the non-philosopher can read just the main text and the philosopher just the footnotes.This paper is the result of spending a month as writer-in-residence at the Institut d'études avancées in Paris. I would like to thank directors Saadi Lahlou and Paulius Yamin and the wonderful staff of the institute for their hospitality and support. Together with the stimulating environment created by the fellows of the institute, they made my stay not only productive but also extremely interesting and pleasant. I owe a special thanks to Saadi Lahlou for his support at a critical juncture.I thank Michiel van Lambalgen for discussions on 'philosophie pauvre' and Tamara Dobler for introducing me to conceptual engineering and sharing her ideas with me. And thanks to Johan van Benthem, Tamara Dobler, Michiel van Lambalgen, Fenrong Liu, and Robert van Rooij for their helpfulcomments on an earlier version.
 
 [^2]:Well, everybody in, broadly speaking, contemporary analytical philosophy anyway. Although it would be illuminating to look at the current centrality of concepts in analytic philosophy from the perspective of other philosophical approaches, this is not the place to do it. We will focus on analytic philosophy, and for the sake of brevity drop the adjective 'analytic' throughout, without any prejudice that what is said applies beyond the confines of the analytic perspective.
 
