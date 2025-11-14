@@ -8,5 +8,4 @@ issue: content/issues/brains-that-pull-the-triggers.md
 language: English
 type: youtube
 years: 2015
-
 ---
