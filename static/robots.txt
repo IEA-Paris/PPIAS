@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /print/
+
+User-agent: Googlebot-Scholar
+Allow: /
+Disallow: /admin/
+Disallow: /print/
+
+Sitemap: https://paris.pias.science/sitemap.xml
