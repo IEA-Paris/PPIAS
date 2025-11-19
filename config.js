@@ -12,7 +12,8 @@ export default {
   phone: '+33(0)1 56 81 00 52',
   email: 'publications@paris-iea.fr',
   subtitle: 'Open source publishing platform for open science.',
-  description: 'Open source publishing platform for open science.',
+  description:
+    'The Paris Institute for Advanced Study (Paris IAS) is a transdisciplinary research center that welcomes researchers from all over the world in the fields of humanities and social sciences. These proceedings present the conferences, lecture series and other scientific productions in the form of indexed and quotable publications, often accompanied by videos or podcasts.',
   splash_title: 'Open source publishing platform for open science.',
   recaptcha: '6Lc_xuUUAAAAALwowUq0cC0wFtFnZ2NCi3UH4i1j',
   logo: 'icon.png',
@@ -120,5 +121,73 @@ export default {
       defaultStyle: 'APA',
       styles: [],
     },
+    robots: [
+      {
+        UserAgent: '*',
+        Allow: '/',
+        Disallow: ['/admin/', '/print/'],
+        CrawlDelay: 1,
+      },
+      {
+        UserAgent: 'Googlebot-Scholar',
+        Allow: ['/', '/article/', '/articles/', '/pdfs/'],
+        Disallow: ['/admin/', '/print/'],
+      },
+      {
+        UserAgent: 'bingbot',
+        Allow: ['/', '/article/', '/articles/', '/pdfs/'],
+        Disallow: ['/admin/', '/print/'],
+      },
+      {
+        UserAgent: 'SemanticScholar',
+        Allow: ['/', '/article/', '/articles/', '/pdfs/'],
+        Disallow: ['/admin/', '/print/'],
+      },
+      {
+        UserAgent: 'WebofScienceBot',
+        Allow: ['/', '/article/', '/articles/', '/pdfs/'],
+        Disallow: ['/admin/', '/print/'],
+      },
+      {
+        UserAgent: 'ElsevierBot',
+        Allow: ['/', '/article/', '/articles/', '/pdfs/'],
+        Disallow: ['/admin/', '/print/'],
+      },
+      {
+        UserAgent: 'OpenAlexBot',
+        Allow: ['/', '/article/', '/articles/', '/pdfs/'],
+        Disallow: ['/admin/', '/print/'],
+      },
+      {
+        UserAgent: 'DimensionsBot',
+        Allow: ['/', '/article/', '/articles/', '/pdfs/'],
+        Disallow: ['/admin/', '/print/'],
+      },
+      {
+        UserAgent: 'ResearchGate',
+        Allow: ['/', '/article/', '/articles/', '/pdfs/'],
+        Disallow: ['/admin/', '/print/'],
+      },
+      {
+        UserAgent: 'Academia.edu',
+        Allow: ['/', '/article/', '/articles/', '/pdfs/'],
+        Disallow: ['/admin/', '/print/'],
+      },
+      {
+        UserAgent: 'CrossrefBot',
+        Allow: ['/', '/article/', '/articles/', '/pdfs/'],
+        Disallow: ['/admin/', '/print/'],
+      },
+      {
+        UserAgent: 'CORE-bot',
+        Allow: ['/', '/article/', '/articles/', '/pdfs/'],
+        Disallow: ['/admin/', '/print/'],
+      },
+      {
+        UserAgent: 'BASEBot',
+        Allow: ['/', '/article/', '/articles/', '/pdfs/'],
+        Disallow: ['/admin/', '/print/'],
+      },
+    ],
   },
 }
