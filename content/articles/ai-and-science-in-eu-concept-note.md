@@ -123,9 +123,9 @@ As mentioned earlier, developing AI tools is a scientific endeavour that require
 
 **Foresight is required to guide this process, foster cooperation, and enable research and proofs of concept, all of which require scientific research and innovation. RAISE should be useful in this endeavour.**
 
-# Appendix:
+## Appendix:
 
-## A few useful sources
+### A few useful sources
 
 Group of Chief Scientific Advisors Recommendations Scientific Opinion No. 15 on "[Successful and timely uptake of Artificial Intelligence in science in the EU](https://scientificadvice.eu/advice/artificial-intelligence-in-science/)" provides independent policy recommendations on facilitating AI uptake in research and innovation, including the establishment of a European institute for AI in science and development of specialized AI tools for scientific work.
 
@@ -143,7 +143,7 @@ ERC Foresight Survey on AI in Science: The [European Research Council's compreh
 
 Mapping ERC Frontier Research in AI: The [European Research Council's comprehensive analysis](https://erc.europa.eu/projects-statistics/mapping-erc-frontier-research/frontier-research-artificial-intelligence) of ERC-funded projects involved in AI development, application, or study from 2007 to 2022, providing an in-depth portfolio analysis of frontier AI research across European institutions.
 
-## Relevant references to the EU AI Continent Action Plan
+### Relevant references to the EU AI Continent Action Plan
 
 **AI Gigafactories**: The EU AI Continent Action Plan commits to establishing 5 AI gigafactories as "large-scale facilities with massive computing power and data centres" to enable training of complex AI models at unprecedented scale, requiring both public and private investment to secure EU leadership in frontier AI. The Plan defines gigafactories as facilities housing around 100k advanced AI processors each, designed specifically for training and deploying the most advanced AI models, with the InvestAI facility mobilizing €20 billion for their establishment.
 
