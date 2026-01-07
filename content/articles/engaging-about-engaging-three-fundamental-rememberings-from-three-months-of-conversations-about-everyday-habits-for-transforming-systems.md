@@ -41,7 +41,7 @@ language: English
 
 I spent the better part of two years, from June 2023 through March 2025, holed up, writing a book entitled *Everyday Habits for Transforming Systems: The Catalytic Power of Radical Engagement*, and immediately thereafter, going deeper into the habits, a second edition of *Collaborating with the Enemy: How to Work with People You Don't Agree with or Like or Trust*. Then both of these projects were finished and *Everyday* Habits was published and this period of reclusion suddenly ended. 
 
-I then spent three months, during April through July 2025, travelling and engaging with hundreds of people about *Everyday Habits* in in-person speeches and workshops (in South Africa and across Europe and Canada) and online webinars and podcasts (with participants from every continent). My reflective and slowly-gestated text was thrust into the cacophonous and quickly-changing context of the world of 2025.
+I then spent three months, during April through July 2025, travelling and engaging with hundreds of people about *Everyday Habits* in in-person speeches and workshops (in South Africa and across Europe and Canada) and online webinars and podcasts (with participants from every continent). My reflective and slowly–gestated text was thrust into the cacophonous and quickly–changing context of the world of 2025.
 
 This paper reports what I learned through these encounters between text and context. Some of these learnings underline points I and others had published before, and I cite them below as such. But most emerged during direct conversations–that's always where I learn the most–and I paraphrase these from my quick contemporaneous notes, below in italics. I experienced this as a process less of inventing that of remembering: of seeing connections between phenomena that I was aware of but had not put together. This exploration has enabled me to understand differently, in three fundamental areas, what my book is saying that seems to matter now.
 
@@ -75,7 +75,7 @@ The book's implicit assumption of systemic stability, therefore, no longer seeme
 
 I now think that it is more useful foundational assumption is that systems are always in flux and changing as a result of a stream of breakdowns and breakthroughs. Even systems that appear stable are often kept that way by people who support the status quo taking actions to adapt to or cover over emerging cracks; as Giuseppe Tomasi di Lampedusa wrote, "If we want things to stay as they are, things will have to change."[^2] A more general framing, then, is that we can contribute to either effecting or blocking system transformation in the same way: through paying attention to and working with what is changing.
 
-During the time I was writing, secluded, reading the news, and interacting mostly within my bubble of like-minded colleagues, friends, and family, I fell into thinking that there was (with the wrenching exception of the Israel-Palestine war) a largely-shared understanding of what was changing in the world and what it meant. But when I ventured out and engaged with a broader range of people, I re-discovered that different people have radically different understandings that depend above all on their locations in, experiences of, and powers to influence those systems. These differences produce conflict about what needs to be done: some people benefit from current systems and want them to be defended and improved, while others have been, are being, or expect to be hurt by current systems and want them to be transformed fundamentally. 
+During the time I was writing, secluded, reading the news, and interacting mostly within my bubble of like-minded colleagues, friends, and family, I fell into thinking that there was (with the wrenching exception of the Israel–Palestine war) a largely–shared understanding of what was changing in the world and what it meant. But when I ventured out and engaged with a broader range of people, I re-discovered that different people have radically different understandings that depend above all on their locations in, experiences of, and powers to influence those systems. These differences produce conflict about what needs to be done: some people benefit from current systems and want them to be defended and improved, while others have been, are being, or expect to be hurt by current systems and want them to be transformed fundamentally. 
 
 During one event, a long angry argument arose from such differences: 
 
@@ -135,7 +135,7 @@ Alternatively, we can try to *collaborate* with others to do what we all want 
 >
 > *"The 1994 transition in South Africa was the result of a negotiated settlement, and so of course nobody got everything they wanted. I don't think the revolutionary transition would've been possible given the balance of forces at that time, and I'm not confident that it would have produced better results."* 
 >
-> *"These days my students don't have as much experience as we used to with compromising: they think it means eating pizza when you wanted pasta. Of course compromising can be a virtue or a vice---as was the case with Neville Chamberlain."*
+> *"These days my students don't have as much experience as we used to with compromising: they think it means eating pizza when you wanted pasta. Of course compromising can be a virtue or a vice–as was the case with Neville Chamberlain."*
 
 It's impossible to collaborate with everyone on everything, and so in practice we collaborate with some people to do some things sometimes, and otherwise we force: we work around or against others. Sometimes we force because our attempts at collaborating have failed, and sometimes we collaborate with some people in order to be able to force others. The key point is that most efforts to change systems involve both forcing and collaborating.
 
@@ -192,8 +192,6 @@ That said, however, these conversations have enabled me to see that choosing wis
 ## Acknowledgments 
 
 This paper was written during a one-month residence at the Paris Institute for Advanced Study under the "Paris IAS Ideas" program. It extends the explorations reported in *Everyday Habits for Transforming Systems* and *Collaborating with the Enemy*, in which I acknowledge some 500 collaborators, to include my conversations over the past months with hundreds more. I would like to thank in particular my primary interlocutors in the live events: Marcia Anderson, Gruia Badescu, Mille Bøjer, Tim Brodhead, Cedric Jamet, Indy Johar, Tejaswinee Jhunjhunwala, Sara Krüger Falk, Saadi Lahlou, Tanya De Mello, Morris Mthombeni, Claude Schryer, and Yannick Wassmer.
-
-
 
 [^1]: Adam Kahane, *Everyday Habits for Transforming Systems: The Catalytic Power of Radical Engagement* (Oakland, CA: Berrett-Koehler, 2025), x.
 
