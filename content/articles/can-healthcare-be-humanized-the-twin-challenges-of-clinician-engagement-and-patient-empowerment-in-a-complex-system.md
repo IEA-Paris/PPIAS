@@ -109,7 +109,7 @@ Long ago, I was directed by psychiatrist and mentor Dr. Jimmie Holland to focus 
 
 **Figure 1 Conceptual Model for Health-related Quality of Life**
 
-![](/static/picture1_cella.png)
+![](/static/piture1_cella.png)
 
 Adapted from Wilson and Cleary (1995)
 
