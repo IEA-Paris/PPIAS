@@ -1,7 +1,7 @@
 ---
 published: false
 article_title: "Engaging about Engaging: Three Fundamental Rememberings from
-  Three Months of Conversations about *Everyday Habits for Transforming Systems"
+  Three Months of Conversations about Everyday Habits for Transforming Systems"
 date: 2025-08-22T10:59:00.000-05:00
 type: article
 needDOI: false
