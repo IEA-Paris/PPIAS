@@ -1,0 +1,353 @@
+---
+published: false
+article_title: Can Healthcare be Humanized? The twin challenges of clinician
+  engagement and patient empowerment in a complex system
+date: 2025-10-06T09:26:00.000-05:00
+type: article
+needDOI: false
+authors:
+  - is_institution: false
+    firstname: David
+    lastname: Cella
+    positions_and_institutions:
+      - institution: Northwestern University
+        positions: []
+    social_channels:
+      website: ""
+      wikipedia: ""
+      orcid: ""
+      linkedin: ""
+      webstwitterite: ""
+      google_scholar: ""
+      researchgate: ""
+      mendeley: ""
+abstract: One approach toward humanizing healthcare is through the meaningful
+  use of patient-reported outcome measures (PROMs) woven into clinical practice.
+  For this to be successful, clinicians must regard them as useful, informative,
+  and actionable. Patients must find them to be relevant to the care they are
+  receiving, and reasonably easy to complete. The health system responsible for
+  delivering care must support the smooth integration of PROMs into an
+  already-complex clinical workflow. All parties must value and support how the
+  information obtained improves communication, care planning, and/or outcomes.
+  It has proven extremely challenging across health systems around the world to
+  achieve this success. In part, this is because proper planning and assessment
+  of institutional readiness has not been conducted. Another barrier has been
+  the vast array of PROMs available from which to choose, and a measurement
+  field that has not yet evolved into something resembling a universal standard.
+  The Patient Reported Outcomes Measurement Information System (PROMIS) provides
+  the potential for such a standard. Its careful implementation can help
+  engineer a more humanized healthcare system by providing a common metric for
+  interpretation that drives discussion and clinical action, whereby patients
+  and clinicians together are co-producing optimal health as defined by the
+  patient’s values. Key steps toward realizing this vision require assessment of
+  institutional readiness, education and training of clinicians and patients,
+  commitment of technical support, role clarification to ensure workflow
+  integration, piloting to monitor local success, and ongoing monitoring of
+  organizational culture to manage change where necessary.
+issue: content/issues/paris-ias-ideas.md
+highlight: false
+bibliography: /static/references_cella.bib
+language: English
+---
+
+
+ |
+
+What is humanized healthcare?
+=============================
+
+In this essay, "healthcare" is defined as the structure and function of people and systems that aim to prevent and treat human disease. Ideally, these structures, and the people working within them, are designed to maximize the length and quality of the lives they serve. In this context, "humanized healthcare" refers to a person-centered approach in which clinicians recognize the individual nature of disease expression and therefore deploy a process of continuous monitoring of factors relevant to delivery of optimal treatment. One could just as easily call this individualized healthcare, owing to the emphasis on the unique physical, mental, social, and cultural influences on any individual's health status. 
+
+The prevailing view of illness and care has historically been organized under a medical model. Although there are competing models (e.g., nursing model, social model, holistic model), a medical model still dominates the way much of healthcare is organized (Emanuel & Emanuel, 1992). In its most traditional (paternalistic) form, doctors, nurses, and other skilled professionals deliver healthcare by making decisions based on the evaluation of signs and symptoms. They recommend treatments and ideally assess outcomes. In contrast, the role of the patient is to comply with the professional's recommendations. In a medical model, the patient's presentation is understood in terms of reason for visit (chief complaint), history, physical examination, ancillary tests as needed, relevant diagnosis, treatment plan, and prognosis. Little room is made for individual variation or input. 
+
+A major shift toward humanizing healthcare occurred in 2001, after the Institute of Medicine (now National Academy of Medicine) released its landmark work: "Crossing the Quality Chasm: A New Health System for the 21st Century" (Institute of Medicine, 2001). By making a case for a more patient-responsive approach to care, this report laid the foundation. This was followed by patient-centered "sister" movements and institutions devoted to re-humanizing healthcare. Some of these include the 2015 United States Congress 21st Century Cures Act, which mandated a patient-focused drug development process. This stimulated the United States Food and Drug Administration to partner with the pharmaceutical industry and various public-private partnerships to more formally and explicitly include patient input across the translational drug development pipeline. Sometime earlier, under the Patient Protection and Affordable Care Act of 2010, the U.S. Congress created the Patient-Centered Outcomes Research Institute (PCORI), which requires that all research include substantial patient input from inception through implementation and publication. The Centers for Medicare and Medicaid Services (CMS), with support from organizations such as the National Quality Forum (NQF) and the National Committee for Quality Assurance (NCQA), has increased their commitment to inclusion of patient-centered outcomes as the basis for measuring the quality of healthcare services. Through this time and into the present day, hundreds of patient advocacy groups have elevated their voices in drug development and have participated in reviews of drug value with payers and professional societies. Even people with rare diseases, often neglected in pharmaceutical drug development, have gathered under the National Organization of Rare Disorders (NORD) to amplify their concerns and participate in scientific advancement.
+
+Healthcare systems aim to provide a more humanized, patient-centered approach by seeking input directly from patients to plan and implement treatments. This approach directly encourages active participation of the individual patient in clarifying the problem (whole person diagnosis) and planning care. In so doing, health is "co-produced" by clinician and patient through education, counseling, and shared decision making (Elwin et al., 2020; Perry et al., 2025). This is particularly important at inflection points in one's health, such as a new diagnosis, disease progression, or remission/cure. Embedded within this approach is careful consideration of economic and cultural factors that influence people's values vis-à-vis their health. A health system that accomplishes mutual health co-production can thereby provide equitable, individualized care. More broadly, health systems that incorporate patient preferences into their operational and data systems will produce services that are better aligned with patient needs. This, in turn, can improve individual and public health and reduce wasteful or inefficient care. 
+
+This essay focuses on humanizing the United States healthcare system, although the issues raised likely apply to places where Western medicine is practiced around the world. Most illustrations are drawn from the management of chronic diseases, because this activity consumes approximately 75% of healthcare cost/activity, with cost estimates reaching nearly 50 trillion U.S. dollars by 2030 (Hacker, 2024). The context for the observations, suggestions, and conclusions drawn herein is the broader "science of patient input" (Anderson & McCleary, 2016), a term used to reflect rigorous methods used to integrate patient perspectives, needs, and priorities into biomedical research, therapeutic development, and healthcare delivery. These methods are qualitative, quantitative, and a mixture of the two, often fueled by a passionate community of stakeholders, including patients, family members, researchers, regulators, and payers. My focus will be on the meaningful use of patient-reported outcome measures - or PROMs - in the healthcare setting, recognizing that the science and strategies driving this area lie within the larger context of patient-centered science.
+
+Why is it important to humanize healthcare? (the evidence)
+==========================================================
+
+Healthcare has shifted dramatically in the past 20 years. Technology, massive information availability, and increasing administrative demands have changed the way we deliver care. Advances in diagnosis and treatment have been impressive. This is not so much the case in disease prevention, apart from public health and vaccine advances. When it comes to chronic diseases, preventive strategies rely on behaviors that are challenging to modify: diet, physical activity, tobacco use, and alcohol consumption. Chronic diseases are on a steady rise, accounting for most mortality worldwide and consuming healthcare resources (OECD, 2025). The impressive advances in treatments and technologies have come with a cost. That cost is manifested in clinician alienation, overwhelm, and burnout. Treatment decisions can often be made by guidelines, payment incentives, and critical pathways aimed at increasing efficiency; these are not always based on the needs or preferences of patients. Clinicians are easily distracted and time-challenged, stealing the person-to-person connection that had once been so vital to effective care. On their side, patients often find themselves confused by information overload and uncertain about how to evaluate the quality of the care they are seeking or receiving. With increasing knowledge, technology, and treatment options, patient-centeredness has diminished. Can this be reversed by re-humanizing healthcare?[[1]](file:///Users/alexcano86/Desktop/Cella.html#_ftn1)  If so, how can that be done?
+
+One very basic way to re-humanize healthcare is to engage patients to provide direct, individualized information about their health status, including any symptoms or functional challenges they are facing, particularly as they relate to things that can reasonably be helped by the healthcare system. PROMs are the vehicle for doing this. Routine use of PROMs in individual patient care can have both individual and societal benefits (Black, 2013; Gibbons et al., 2021). Abundant research evidence in chronic disease settings shows that routine monitoring of patient symptoms and function improves communication, enhances the care experience, and improves quality of life (Basch et al., 2015; 2017; 2025; Cella et al., 2024; 2025; Cracchiolo et al., 2024; Davis et al., 2007; Gibbons et al., 2021; Vandyk et al., 2012; Velikova et al., 2004; Wagner et al., 2015). Patient reports of symptoms and function predict service utilization, including high-cost avoidable utilization such as emergency department visits, unscheduled office visits, and hospitalization. Their use has been shown to reduce overall healthcare cost, improve adherence to medication recommendations, and in some cases, lengthen life (Barbera et al., 2020a; 2020b; Basch et al., 2015; 2017; 2025; Chan et al., 2009; Denis et al., 2019; Gotay et al., 2008; Harrison et al., 2012; Pearman et al., 2015; Wagner et al., 2011). The very process of patient self‐reporting can improve clinician-patient communication, symptom management, patient self-efficacy, quality of life, and satisfaction with care (Absolom et al., 2021; Detmar et al., 2002; Velikova et al., 2004). 
+
+PROMs can not only inform the clinician with a deeper understanding of the individual patient; they also have the potential to inform patients about their health status in relation to others with their condition. Furthermore, when enough PROM data are gathered on previously-treated patients, the information can inform decisions about proceeding with treatment in cases where there are options. Similarly, providers can be compared to one another in terms of their PROM results, giving new patients valuable information when choosing a clinician. Use of PROMs can improve patient self-awareness and communication about symptoms and concerns, promote better treatment adherence, and increase the overall care experience, including satisfaction with care (Carfora et al., 2022; Detmar et al., 2002; Wagner et al., 2011). It can also help identify otherwise occult symptoms or concerns that would benefit from clinical consultation (Campbell et al., 2022; Schougaard et al., 2023). If the PROM used has population reference values, then clinicians and patients can compare their health status to that of other people with their condition, or with the general population (Dai et al., 2021; Gibbons et al., 2021). When a health system aggregates its PROM data across patients and service lines, administrators can then make strategic decisions on where to obtain maximum benefit from targeted service line intervention. This has been the practice, for example, of a Harvard University-affiliated healthcare system (Liu et al., 2024; Sisodia et al., 2020), at the University of Rochester health system (Baumhauer, 2017), at the Cleveland Clinic across diseases (https://consultqd.clevelandclinic.org/tag/patient-reported-outcomes-measurement-information-system-promis), at Amsterdam University Medical Centers (Groenewegen et al., 2024), using the "MyChart" patient portal in an Epic electronic health record (EHR) environment, and across Denmark using PROMs to reduce the need for in-person visits when people with chronic illnesses are doing well (Hjollund et al., 2023).
+
+Yet, these research findings are rarely implemented in clinical practice outside of the research setting. Very few clinics use any kind of standard patient assessment of symptoms or concerns. Use by specialty area varies from 10-15% in general medical practice and some specialties, although there are exceptions, with as many as 80-85% of selected surgical subspecialties using PROMs (Cherrez-Ojeda et al., 2024; Joeris et al., 2021). Among those practices that attempt to routinely query patients, typically fewer than half of the invited patients complete the assessment (Hjolland et al., 2023; Terwee et al., 2023; van Engen et al., 2024), unless the assessment is done in the waiting room prior to visit, where patient adherence can be checked and confirmed. For those patients who do complete pre-visit questionnaires, again, fewer than half find that the information obtained is reviewed and used to inform the visit (Lyleroehr et al., 2024). Over time, this degrades any incentive that patients might have to continue to adhere to assessment requests. Thus, individualized patient input can easily be lost over time. 
+
+In essence, we have a situation in which healthcare professionals are not successfully transitioning care to be truly patient-centered, despite their best intentions. One reason for this relates to deep, ingrained medical traditions that render patients as passive recipients of care provided by experts, despite the recent increase in evidence that active patient participation improves outcomes in several chronic diseases. Another reason may be the magnitude of benefit relative to the cost of implementation. In their systematic review of 116 randomized clinical trials, Gibbons and colleagues (2021) concluded that PROM feedback produces moderate improvements in communication between clinicians and patients as well as in problem identification (diagnosis), disease control, and small improvements to quality of life. The same review turned up several areas (pain, social function, health perception) where little to no benefit was seen, and data quality that indicates a need for more rigorous study. Perhaps routine adoption would be more vigorous if prior research results were more consistently compelling.
+
+What are the barriers to humanizing healthcare?
+===============================================
+
+Barriers to implementation of more humanistic care come from institutional structures and demands, clinicians providing care, and even patients themselves. Resource limitations, a general resistance to change, and systemic bias can conspire to maintain the status quo (Berkman et al, 2018). Care providers around the world face extraordinary time pressures that push them to continue that status quo approach. Adding a routine collection of patient-reported information is then likely to be regarded as a threat to efficiency. Also, many clinicians believe they already obtain the information they need from patients, apparently unaware of the published evidence that this is not necessarily the case when it comes to pain and other symptoms (Arenare et al., 2024; Basch, 2010; Cella & Fallowfield, 2008; Laugsand et al., 2010). Patients themselves also pose barriers to successful implementation of patient-centered care. Many, but certainly not all, prefer the historic passive patient role. Most will not engage in pre-visit assessments unless called on explicitly to do so. Absent explanation, patients tend not to appreciate the value of answering questions, especially if they do not see their responses get used. Operating within the clinician-patient relationship are also systemic and unconscious biases that can affect communication and decision-making. Unless they are structured to include a formalized PROM assessment from inception, most care settings are functionally resistant to implementation, often citing competing demands and limited evidence of its added value.
+
+Institutional Barriers
+----------------------
+
+Institutional barriers, sometimes referred to as structural barriers, refer to the built and practice-driving environment within which healthcare is provided. This includes administrative policies, performance demands/expectations, available technology, human resources (staffing), and prevailing professional and practice guidelines. If these various components are not aligned, or at least managed, practitioners will experience resistance to the use of formal assessments of patient self-reported health status via PROMs. Clinical settings that provide care for people with chronic diseases are typically staffed by people with a variety of training and experience, including physicians, nurses, advanced practice providers, technologists and technicians, and ancillary patient service representatives who check patients in, prepare the examination room and escort the patient, and close the encounter upon completion of the visit. Usually, none of these individuals is clearly identified as having responsibility to collect PROM data, often leading to low collection rates. The electronic health record (EHR) with its patient portal has the potential to address this role diffusion. Patients are therefore often sent an email request to log into their individual portal and complete a questionnaire prior to the visit. However, this approach carries several barriers of its own. First, a patient must have an active email address that is monitored routinely. Second, the patient must be signed up for secure portal access. Third, the patient must remember password access and sometimes additional multifactor authorization procedures. By this time, in the typical health system, half or more patients are excluded. The excluded group is inevitably over-represented by already-marginalized patients with lower educational levels, compounding systemic biases already present in healthcare delivery (Cella et al., 2025; Perry et al., 2025). Among those patients who do manage to complete the requested PROM, most do not observe that it gets reviewed or used in any way. This may be because it is being collected to fulfill a requirement rather than to guide care planning.
+
+Another type of institutional barrier, outside of the treating institution itself, includes treatment guidelines from professional societies and healthcare quality organizations. These guidelines often include patient-centered recommendations that include the collection of specific PROMs. Although well-intentioned, the accumulation of guidelines across general medical and specialty/subspecialty care can overwhelm a parent institution with multiple different PROMs recommended across a range of chronic disorders. The information technology (IT) burden of loading multiple measures, often measuring the same or very similar things (e.g., pain, fatigue, depression), can be overwhelming and confusing to IT staff who historically have not prioritized this activity.  
+
+Clinician Barriers
+------------------
+
+Perhaps it goes without saying, but the value proposition for routine collection of PROMs in clinical practice rests on an assumption of clinician engagement in the effort. Without clinician engagement, the use of PROMs in healthcare will remain restricted to research. There are several factors that threaten clinician engagement. The first is time. When a clinician is presented with the evidence that routine patient monitoring with a PROM produces better health and well-being in patients, the typical response, no matter how interested, is tinged with fear...fear that adding this to their routine will take time. More time spent per patient will extend work hours beyond an already-stressful number. Indeed, more complex patients who report multiple concerns will require longer visits (Katzan, Thompson, & Lapin, 2024). Also, the initial set-up and training required for success will take some time. However, the idea that implementation after initiation will consume more time per patient overall is unfounded, especially when done electronically (Absolom et al., 2021; Detmar et al., 2002; Khakzad et al., 2024). In fact, it is sometimes found that having the structured patient symptom and function information in advance of the encounter reduces the amount of time needed for a meaningful visit, because it helps the clinician get right to the presenting issues, including issues that might not have otherwise come up in discussion.
+
+Like all of us, clinicians are subject to bias, both conscious and unconscious. One common perception is that the use of a PROM will not add to what the clinician already knows about the patient. Some clinicians are even offended by the suggestion that they do not know their patients well enough to assess relevant clinical manifestations through the usual exchanges and laboratory tests. Others are simply not interested in adding a new approach to what has become a familiar routine. Early adopters of any innovation are rare. These and other clinician perspectives can serve to undermine the willingness and readiness of a clinic to transform its approach to center around a formal assessment of how patients are feeling and functioning in their world. 
+
+Let's assume that we have willing and interested clinical staff across the spectrum of the service line, and that we have administrative support and an IT commitment to program whatever is needed to enable use. Even here, there is a barrier to successful launch, and it resides within clinicians. That barrier is understanding. Standard education and training of medical, nursing, and technical staff do not include the use and interpretation of PROMs. Added to this is the fact that there is an absolutely dizzying array of PROM options available for use. As a result, the clinician approaches decisions about what PROM to use with limited awareness of its reliability, validity, or utility, ill-equipped to evaluate it critically for relevance in their clinical setting. Absent this information, clinicians often rely upon PROMs that have been used and published in research projects done in their specialty area, or upon what a trusted colleague might recommend. This approach lacks two critical elements required to sustain PROM use in practice: Interpretability and Actionability! Clinicians must understand what the PROM score means, and if the PROM report does not come with clear direction on specific clinical action needed (even if that action is merely to query the patient for more information), then the PROM will fade from use over time. 
+
+Patient Barriers
+----------------
+
+As with clinicians, patient engagement is also essential for successful PROM use in practice. Yet, without proper motivation, patients will fall short of the time and effort required to answer a targeted set of questions in preparation for clinical encounters. When patients are queried at home (either through email or "snail mail"), typical response rates fall below 30%, hardly sufficient for delivery of patient-centered care at the clinic population level. Efforts to increase that number to over 50% have met with success at our institution and others, but it remains challenging to drive those numbers up to the preferred 80-90% level. Like their clinician counterparts, patients are inundated with requests for form completion, including insurance information, care experience ratings, and required regulatory forms in addition to PROMs. The length of the PROM can also be a deterrent, especially if it includes questions perceived by patients to be irrelevant to their condition. There are also cognitive and sensory barriers that some patients face. Low literacy, language comprehension, visual challenges, and cognitive processing deficits can all contribute to reduced participation in a PROM program. Finally, patients need to see how the PROM is used in practice to ensure their continued participation. 
+
+Clearly, the solution here is to provide brief, relevant, easy-to-read PROMs, with reminders and assistance as needed, and to show patients how they are used in practice, as a combined strategy to remove patient barriers to meaningful PROM use. More on this in the next section.
+
+How can this be changed?
+========================
+
+I recently completed a large system-wide patient-centered implementation project in cancer symptom management (Cella et al., 2023; 2025). Drawing from that project, from lived experience working with three US-based health systems, and informed by the published literature of the past three decades, I will summarize what I believe to be the necessary tools, conditions, and actions needed to achieve a humanistic approach to healthcare. 
+
+Let's start with Measurement
+----------------------------
+
+"If you can not measure it, you can not improve it." This famous quote from physicist Lord Kelvin applies to health just as it applies to temperature. We cannot improve what we cannot measure, or at least, we won't know if we improved something unless we measure it. This is what inspired me to focus my career as a psychologist on measurement. If we are to improve any subjective aspect of the human experience, we must first be able to measure it. The best (if not only) way to know how a person is feeling is to ask directly. It is critical to know the right questions to ask at the right time. Thus, my focused way to support patient-centered care has been the development, validation, and application of patient self-report of health status and quality of life, turning the subjective into objective numbers that allow for comparison to others and tracking of individuals over time. To achieve this, we develop and deploy carefully constructed and validated measures.
+
+Long ago, I was directed by psychiatrist and mentor Dr. Jimmie Holland to focus my measurement interest on quality of life as it relates to cancer and other life-threatening illnesses. Quickly, the term "quality of life" was qualified as Health-related quality of life (HRQoL) to narrow the scope away from issues that are not related to one's health and healthcare. HRQoL is a fundamentally subjective experience that is meant to reflect the summation of one's symptoms from disease and treatment, physical, mental, and social function, general perceptions of health, and global perspectives on life satisfaction and quality.[[2]](file:///Users/alexcano86/Desktop/Cella.html#_ftn2) It reflects one's appraisal of life quality given the context of one's health and illness. This is illustrated in Figure 1, adapted from Wilson and Cleary (1995). I chose this figure from a host of others because it centers on a medical model-driven causal pathway and then expands on it with psychosocial influences. Approaching today's healthcare delivery systems with such a model has the best possible chance to effect the change needed because its familiar perspective resonates with clinicians and administrators.
+
+**Figure ****1**** Conceptual Model for Health-related Quality of Life**
+
+Adapted from Wilson and Cleary (1995)
+
+When HRQoL is measured in patients in healthcare, the questionnaires are often referred to as Patient Reported Outcome Measures (PROMs). There are literally thousands of PROM options available, perhaps too many (more on this later). PROMs have the potential to guide patient-centered care when incorporated into practice, because they can elicit troubling symptoms, patient needs, and preferences in support of communication and shared decision-making. If a health system commits to this at the enterprise level, aggregated PROM data can identify structural targets for system-wide quality improvement. PROMs can also improve communication between clinicians and patients, improving disease outcomes and health-related quality of life (Detmar et al., 2002; Gibbons et al., 2021; Velikova et al., 2004; Wagner et al., 2015).
+
+We now have a common, universal, and global patient assessment platform, the "Patient Reported Outcomes Measurement Information System" (PROMIS), that can unify the measurement field and provide common ground for measuring patient-centered outcomes and tracking change (Cella & Hays, 2022; Cella et al., 2010). A unified PROM approach has the potential to transform healthcare delivery, particularly for people with complex or multiple chronic conditions. 
+
+Engineering humanized healthcare with PROMs
+-------------------------------------------
+
+Perhaps the most important requirement for achieving success with PROMIS and similar PROMs is integrating them seamlessly and meaningfully into clinical practice. Clinicians must therefore have the tools, knowledge, and resources to administer and interpret PROMs in real time. The information gathered in PROMs should flow with other clinical data from laboratories, interview, and clinical exam, and be embedded into the patient's care plan (Brouwer et al., 2016; Cella et al., 2010). Tracking systems that evaluate meaningful change (improvement or worsening) should be instituted to monitor treatment response and progress, and make treatment changes triggered by discussion with the patient on the review of clinical data, including PROM data. In fact, a healthcare system that views and handles PROM data as clinical data has achieved the goal!
+
+**Assess and set-up for readiness**
+
+Prior to implementation, organizations should assess their readiness, with support from implementation specialists and healthcare quality professionals, especially for units that are interested but not experienced or prepared. Establishing clear, evidence-based pathways aligned with best practices can help ensure the delivery of sustained, individualized, and patient-centered care. The long-term success of these initiatives depends on systemic alignment across all levels of the organization, from frontline staff to executive leadership. Engaging relevant external stakeholders -- including regulators, payers, and policymakers -- can enhance the implementation process or provide valuable context, ensuring that efforts are aligned with broader healthcare policies and standards.
+
+Most healthcare delivery systems are not prepared to support the routine collection of clinic-relevant PROMs. This has become evident in their struggle to capture "pay for performance" metrics mandated by payers when they include a PROM. Typically, this then becomes the responsibility of the healthcare quality professionals rather than the clinicians who actually see the patients! The result is typically low response rates and failure to use the information gathered to improve care. Addressing this will require restructuring the responsibility to reside with clinical staff who see the patient in such a way that does not add to their already overloaded set of responsibilities. This, in turn, will require that the PROM be a vehicle for efficient gathering of clinically-relevant patient status, much like we observe with laboratory data.  Successful organizations have identified the importance of assessing the readiness of a given clinic to proceed in this way, noting that without assurances, the process may best not even be started (Liu et al., 2024; Sisodia et al., 2020). Another component of institutional readiness relates to technology integration in the electronic health record. Once structural readiness is established, only then can the education and training of clinicians and patients be meaningfully instituted, including the mapping of PROM information into existing care pathways and building in time for dyadic communication regarding treatment options and progress tracking.  
+
+In their seminal contribution to implementing PROMs in practice, Sisodia and colleagues (2020) evaluated factors they had expected might be associated with collection rates and with successful (>50% of patients) collection of PROMs in clinical practice. They found the following factors to be significant contributors to collection rates and clinic success: Engaged clinicians, engaged administrators, prior experience with PRO collection, Clinic commitment to collection as evidenced by early rates above the baseline 10%, and a clinical champion who took responsibility for meaningful use. Payer incentives had a significant effect on collection rate, but not the proportion of successful collection. There were no differences in rate or success between academic and community practices, between early adopters and later adopters in the program, or among those clinics working under a leadership mandate.
+
+**Standardize the PROM(s)**
+
+Over the years, researchers have developed a seemingly endless supply of PROMs that have traditionally been categorized as either "generic" (able to be applied across various diseases and even in healthy populations), or "disease-specific" (applicable to specific health conditions or settings). Much has been written about this dichotomy; most of it is misleading. Disease-specific measures have historically been promoted as superior to generic ones because they ask questions more specifically targeted to the condition. Indeed, I was among those who made this claim.[[3]](file:///Users/alexcano86/Desktop/Cella.html#_ftn3) And yet, this is true only in a very limited sense, when long disease-specific measures were compared to short generic ones, giving the longer measures an advantage in terms of coverage and precision. However, when generic measures of the same length are compared to disease-specific measures of the same symptoms or functional ability, they perform as well or better. Also, examination of actual item content reveals that many so-called "disease-specific" measures are not very different from generic ones. Given one half of people in primary care practice have 2 or more conditions, and one fourth have 3 or more conditions (OECD, 2025), it is not a viable option to administer two or more lengthy disease-specific measures to the same patient at one time. This causes burden to the patient and confusion for the clinician. 
+
+Advances in generic (as in "universal") PRO measurement using item response theory (IRT) to improve efficiency and precision allow for meaningful measurement of the common symptoms and concerns of people with one or more chronic diseases. The most extensive IRT-based HRQoL measurement system is The Patient Reported Outcomes Measurement Information System (PROMIS). PROMIS is a collection of over 4,000 questions ("items") measuring over 100 health outcome concepts in adults and children (Cella et al., 2010; www.promis.org; www.healthmeasures.net). Most of the items are calibrated with other items measuring the same concept after certain assumptions, such as unidimensionality and local independence are satisfied (Cella et al., 2010; Nguyen et al., 2014; Revicki & Cella, 1997). As a result, we now have a standardized and efficient way to measure symptoms and functional status across physical, mental, and social health. A sample of the health concepts (domains) assessed with PROMIS item banks is illustrated in Figure 2. Culturally-appropriate and equivalent translations are available in an ever-increasing number of items, producing what promises to provide an international standard for self-reported health. All the calibrated item banks, covering pain, fatigue, sleep, depression, anxiety, physical function, cognitive function, sexual function, and more, are scored on a T-score metric, where 50 is the average score in a general population, and the standard deviation around that average is 10 units. This provides a starting point for interpretation and guidelines for care.  Once clinicians gain experience working with the relevant assessments and the scores generated, appropriate use can transition to expert use. Some good example of this is the application of PROMIS in the specific setting of foot and ankle surgery (Neville, Baumhauer, & Houck, 2020), in rehabilitation settings (Amtmann et al., 2011; Lai et al., 2011), and in chronic illnesses such as cancer (Cella et al., 2023; 2024; 2025), inflammatory arthritis (Bartlet et al., 2020; Bingham et al., 2021; Teuwen et al., 2023; Witter, 2016), and multiple sclerosis (Cook et al., 2012; Lapin et al., 2025; Senders et al., 2014).
+
+**Figure ****2**** Partial List of Domains from the Patient Reported Outcomes Measurement Information System Adult Health (Reproduced from Healthmeasures.net with permission, PROMIS Health Organization and Northwestern University)**
+
+Several national and international organizations have acknowledged the unique advantages of the PROMIS approach and implemented it in their quality measurement or survey plan. Some include The World Health Organization (WHO) Global Health Observatory (WHO, 2025), The Organization for Economic Cooperation and Development (OECD) Patient-Reported Indicators Survey (PaRIS; OECD, 2025), The International Consortium for Health Outcomes Measurement (ICHOM) Outcome Sets (ICHOM, 2025), and clinical registries such as the American Joint Replacement Registry (AJRR), American Spine Registry (ASR), Fracture and Trauma Registry (FTR), Musculoskeletal Tumor Registry (MsTR), and Shoulder and Elbow Registry (SER).
+
+**Check Technology**
+
+The integration of PROMIS and other PROM data into the technology that undergirds clinical workflow remains a challenge. While PROMs deliver important information, it is not easily available or presented to the clinician at times when it can optimally be used to inform care. If PROM data are not integrated with other clinical information, their potential is not realized (Weinstein et al., 2018). The effective integration of PROMs into EHRs or other clinical systems, essential for real-time decision-making, requires robust technical infrastructure and collaboration between healthcare providers, IT professionals, and system developers (Schneider et al., 2020). When the data collected from PROMs is accessible, easily interpreted, and actionable, then a successful transition to patient-centered care can follow. This requires a comprehensive approach that involves securing institutional commitment and implementing targeted interventions to support both healthcare providers and patients. The deployment of clinical informatics plays a crucial role in designing intuitive, user-friendly tools that facilitate the timely completion of PROMs and promote their meaningful integration into clinical practice.
+
+**Educate and Train Clinicians**
+
+Although there are some clinicians who passionately and meaningfully deploy PROMs in their practices, they are a distinct minority. The vast majority of clinicians do not use PROMs in practice, nor are they trained to do so. As a result, PROMs in the clinical setting are most often viewed as research tools meant to summarize outcomes for groups, not to assess individual patients for clinically relevant information. Many clinicians will allow PROM assessment of their patients, but have no idea how the information collected can inform the care they are providing. Suggesting to a clinician that this can change is often met with an assumption that the use of PROMs to inform care will consume more time spent per patient. However, discussing PROMs does not have to take extra time, can improve communication with patients, and increase job satisfaction (Detmar et al., 2002; Engelen et al., 2012). Because the use of PROMs is not a standard part of clinical education, special training of clinicians is essential for success. This is best managed at the individual clinic level, so that training can be integrated with clinical routine. Components of that training should include basic information regarding the reliability (precision) of the PROM(s) to be implemented, their validity at the level of individual assessment, score thresholds that point to the need for discussion or clinical action, and the steps from review to clinical action and closure. Over time, clinicians who take a serious interest will become increasingly comfortable and confident in using the information wisely.
+
+**Educate and Train Patients**
+
+An unfortunate barrier to the widespread adoption of PROMs comes from patients themselves. Not all patients want the level of participation that patient-centered care requires, and even those who do often struggle to understand the purpose and value of completing PROMs. Helping patients recognize that their input is central to the healthcare process requires clear communication and education. Through illustration and example, clinicians can illustrate how PROMs provide a more complete view of health, expanding beyond clinical and laboratory data (Hibbard et al., 2004; Miller et al., 2015). Once it becomes clear that the information reported by patients is taken seriously (i.e., used to inform care), almost all patients will engage and comply. Engagement strategies should be tailored to different patient populations to overcome cultural or linguistic differences, limited digital sophistication, or low literacy. Patients should be guided on how to complete assessments meaningfully, with support systems in place to address challenges related to technology or comprehension. Indeed, the selected PROM should be available to all eligible patients, regardless of socioeconomic status, language, or technical sophistication. Assistance for patients with language or cognitive difficulty is critical. Different modes of data collection (paper, phone, online) will be necessary to support. The special efforts made to ensure that underrepresented or marginalized populations are not excluded will be noticed and appreciated by patients who will reward the health system with adherence (Bennett et al., 2020; Brinkman et al., 2019). 
+
+**Clarify Roles**
+
+Each clinic must determine who is responsible for making sure that the patient completes the assigned PROM, and that the information is made available to the relevant clinician. Often, it is not clear who has responsibility for ensuring that patients in each clinic setting have completed the assigned PROM. When this is the case, failure is almost certain. I know of no examples where more than half of patients complete their assigned assessments before coming to the clinic. Therefore, it is imperative that someone be clearly designated as the "owner" responsible to ensure the PROM has been completed and made available for viewing. This can be the person checking the patient in, or the person who "rooms" the patient and takes vital signs, or even a "roamer" such as a nurse or administrator who is responsible for a range of healthcare quality requirements. Everyone working in the clinic should know who this person is and who is responsible for back-up when the designated person is ill or otherwise out of the office.
+
+**Pilot and follow-up**
+
+Once all the plans are laid, PROM is selected, technology is tested and secured, clinicians and patients are educated, and roles are clarified, a local clinic is ready to pilot the procedures. The pilot should be regarded as an opportunity to identify threats to success so that they can be addressed with modifications in real time.  After about a month of operation, an all-hands meeting (even including some willing patients for feedback) will help identify any changes necessary to stabilize and sustain the commitment to meaningful PROM integration. 
+
+The pilot project need not include all patients who present to a clinic or hospital.  In fact, it often makes more sense to identify a defined cohort where there is a reasonably good probability that patient-reported issues might emerge and start there. A surgical group may choose to start with patients who are being scheduled for elective surgery rather than all of its consultation and follow-up visits. Similarly, a medical oncology group may choose to track new patients receiving first line (or second line) chemotherapy rather than their maintenance therapy or second opinion patients. Starting with a defined sample that is likely to have enough 'events' to make the effort worthwhile will help prevent a reaction from staff (and patients) that the assessment is not adding positively to the care experience. 
+
+**Mind the Culture**
+
+Management consultant Peter Drucker once stated: "culture eats strategy for breakfast," meant as a reminder to always be aware of the current and changing culture of an organization you are working to improve. Changing healthcare delivery to be more patient-centered involves more than just incorporating tools like PROMIS. It requires fostering a culture where patient voices are heard and their needs are prioritized, and minding a culture that may push against change (Kleinman, 2012; Rathert et al., 2013). This means training clinicians to value subjective reports from patients alongside objective clinical findings. It also involves developing systems where patients feel that their input actually leads to meaningful changes in their care. For healthcare to be truly patient-centered, providers must not only collect patient feedback but also demonstrate that it has tangible effects, whether through treatment adjustments, improved communication, or changes in care plans.
+
+**Consider Artificial Intelligence**
+
+Since around 2020, discussion of and interest around the use of artificial intelligence (AI) and machine learning (ML) in healthcare delivery has accelerated. Real world implementation of best practices is becoming saturated with examples where healthcare service lines are incorporating AI into their workflows. AI and ML models are improving rapidly and hold tremendous promise for transforming nearly all aspects of healthcare, including, of course, the use of PROMs. However, there remain barriers to scaling from promising pilots to sustainable adoption. These barriers include insufficient evidence generation, workflow complexity, EHR limitations, mis-alignment with payment and incentive models, and resourcing for operational adoption. There remain technical challenges, such as data quality, inadequate model training, bias, and ethical concerns around transparency, privacy, and equity that might emerge. Nevertheless, with these cautions in mind, there is reason to believe that intelligent use of AI in tandem with the within- and across-patient data generated by a healthcare system, including individual patient report of current health status, will continue to inform and improve care.
+
+Conclusion
+==========
+
+Healthcare delivery systems, and the people working within them, can move closer to truly humanizing the patient experience by introducing formal assessment of patient reported outcome measures (PROMs) into care. Doing so can promote shared decision-making, enhanced patient experience, and improved outcomes. There are many threats to the successful implementation of a PROM-informed practice, coming from the healthcare institutions, clinicians, and even patients themselves. A multi-focal approach to integrating PROMs into clinical workflow should include securing commitments from administrators and information technology colleagues, establishing a data integration approach, standardizing assessment, educating clinicians, clarifying local roles, empowering patients with engagement strategies, piloting and refining local approaches, addressing equity concerns, and fostering a culture of patient-centered care. While it is challenging to bring all this together, the fact that some have managed to do so is encouraging.
+
+References
+==========
+
+Absolom, K., Warrington, L., Hudson, E., Hewison, J., Morris, C., Holch, P., & Velikova, G. (2021). Phase III randomized controlled trial of eRAPID: eHealth intervention during chemotherapy. Journal of Clinical Oncology, 39(7), 734-747.
+
+Amtmann, D., Cook, K., Johnson, K., & Cella, D. (2011). The PROMIS initiative: Involvement of rehabilitation stakeholders in development and examples of applications in rehabilitation research. Archives of Physical Medicine and Rehabilitation, 92(10), S12-S19. <https://doi.org/10.1016/j.apmr.2011.05.017>
+
+Anderson, M., & McCleary, K. K. (2016). On the path to a science of patient input. Science Translational Medicine, 8(336), 336ps11. <https://doi.org/10.1126/scitranslmed.aag2469>
+
+Arenare, L., Di Liello, R., De Placido, P., et al. (2024). Under-reporting of subjective symptoms and its prognostic value: A pooled analysis of 12 cancer clinical trials. ESMO Open, 9(3), 102941. <https://doi.org/10.1016/j.esmoop.2024.102941>
+
+Baldassari, L. E., Nakamura, K., Moss, B. P., Macaron, G., Li, H., Weber, M., Jones, S. E., Rao, S. M., Miller, D., Conway, D. S., Bermel, R. A., Cohen, J. A., Ontaneda, D., & McGinley, M. P. (2020). Technology-enabled comprehensive characterization of multiple sclerosis in clinical practice. Multiple Sclerosis and Related Disorders, 38, 101525. <https://doi.org/10.1016/j.msard.2019.101525>
+
+Barbera, L., Sutradhar, R., Seow, H., Mittmann, N., Howell, D., Earle, C. C., Li, Q., & Thiruchelvam, D. (2020). The impact of routine Edmonton Symptom Assessment System (ESAS) use on overall survival in cancer patients: Results of a population-based retrospective matched cohort analysis. Cancer Medicine, 9(19), 7107-7115. <https://doi.org/10.1002/cam4.3374>
+
+Bartlett, S., De Leon, E., Orbai, A., Haque, U., Manno, R., Ruffing, V., Butanis, A., Duncan, T., Jones, M., Leong, A., Perin, J., Smith, K., & Bingham, C., III. (2020). Patient-reported outcomes in RA care improve patient communication, decision-making, satisfaction, and confidence: Qualitative results. Rheumatology (Oxford), 59(7), 1662--1670. <https://doi.org/10.1093/rheumatology/kez506>
+
+Basch, E. (2010). The missing voice of patients in drug-safety reporting. New England Journal of Medicine, 362(10), 865-869. <https://doi.org/10.1056/NEJMp0911494>
+
+Basch, E., Deal, A. M., Dueck, A. C., et al. (2017). Overall survival results of a trial assessing patient-reported outcomes for symptom monitoring during routine cancer treatment. JAMA, 318(2), 197-198. <https://doi.org/10.1001/jama.2017.7156>
+
+Basch, E., Deal, A. M., Kris, M. G., et al. (2015). Symptom monitoring with patient-reported outcomes during routine cancer treatment: A randomized controlled trial. Journal of Clinical Oncology, 34(6), 557-565.
+
+Basch, E., Schrag, D., Jansen, J., et al. (2025). Symptom monitoring with electronic patient-reported outcomes during cancer treatment: Final results of the PRO-TECT cluster-randomized trial. Nature Medicine. <https://doi.org/10.1038/s41591-025-03507-y>
+
+Baumhauer, J. F. (2017). Patient-Reported Outcomes --- Are They Living Up to Their Potential? New England Journal of Medicine, 377(1), 6-9. <https://doi.org/10.1056/NEJMp1702978>
+
+Bennett, A. L., et al. (2020). Health equity and the future of PROMs: Addressing disparities through better data collection. Journal of Health Equity, 1(2), 123-134.
+
+Berkman, L. F., et al. (2018). Social determinants of health and the role of patient-reported outcomes. The Lancet Public Health, 3(1), e2-e6.
+
+Bingham, C., III., Butanis, A., Orbai, A., Jones, M., Ruffing, V., Lyddiatt, A., Schrandt, M., Bykerk, V., Cook, K., & Bartlett, S. (2021). Patients and clinicians define symptom levels and meaningful change for PROMIS pain interference and fatigue in RA using bookmarking. Rheumatology (Oxford), 60(9), 4306-4314. <https://doi.org/10.1093/rheumatology/keab014>
+
+Black, N. (2013). PROMs could help transform healthcare. British Medical Journal, 346, f167.
+
+Brinkman, M., et al. (2019). Current use of PROMs and factors associated with their use in patients with nonspecific low back pain. Learning Health Systems, 3(4). <https://doi.org/10.1002/lrh2.10194>
+
+Brouwer, W. B., et al. (2016). Improving patient-reported outcomes in clinical practice: The role of PROMs in clinical decision-making. Quality of Life Research, 25(9), 2325-2335. 
+
+Campbell, R., et al. (2022). Benefits and limitations of using PROMs in clinical practice: A systematic review. Quality of Life Research, 31, 1597-1620.
+
+Carfora, L., Foley, C. M., Hagi-Diakou, P., Lesty, P. J., Sandstrom, M. L., Ramsey, I., & Kumar, S. (2022). Patients' experiences and perspectives of patient-reported outcome measures in clinical care: A systematic review and qualitative meta-synthesis. PLoS One, 17(4), e0267030. <https://doi.org/10.1371/journal.pone.0267030>
+
+Cella, D., & Fallowfield, L. (2008). Recognition and management of treatment-related side effects for breast cancer patients receiving adjuvant endocrine therapy. Breast Cancer Research and Treatment, 107(2), 167-180.
+
+Cella, D., Garcia, S. F., Cahue, S., et al. (2023). Implementation and evaluation of an expanded electronic health record-integrated bilingual electronic symptom management program across a multi-site comprehensive cancer center: The NU IMPACT Protocol. Contemporary Clinical Trials, 128, 107171. <https://doi.org/10.1016/j.cct.2023.107171>
+
+Cella, D., & Hays, R. D. (2022). A patient reported outcome ontology: Conceptual issues and challenges addressed by the Patient-Reported Outcomes Measurement Information System® (PROMIS®). Patient Related Outcome Measures, 13, 189-197. <https://doi.org/10.2147/PROM.S371882>
+
+Cella, D., Kuharic, J., Peipert, J. D., et al. (2024). Shared decision-making and disease management in advanced cancer and chronic kidney disease using patient-reported outcome dashboards. Journal of the American Medical Informatics Association, 31(10), 2190--2201. <https://doi.org/10.1093/jamia/ocae180>
+
+Cella, D., Lancki, N., Kuharic, M., et al. (2025). Effectiveness of a Web-based Cancer Symptom Self-Management System: The NU IMPACT Study. JAMA Network Open, 8(5), e258353. <https://doi.org/10.1001/jamanetworkopen.2025.8353>
+
+Cella, D., Riley, W., Stone, A., et al. (2010). The Patient-Reported Outcomes Measurement Information System (PROMIS) developed and tested its first wave of adult self-reported health outcome item banks: 2005-2008. Journal of Clinical Epidemiology, 63(11), 1179-1194. <https://doi.org/10.1016/j.jclinepi.2010.08.009>
+
+Chan, P. S., Soto, G., Jones, P. G., Nallamothu, B. K., Zhang, Z., Weintraub, W. S., & Spertus, J. A. (2009). Patient health status and costs in heart failure: Insights from the eplerenone post-acute myocardial infarction heart failure efficacy and survival study (ephesus). Circulation, 119, 398-407.
+
+Cherrez-Ojeda, I., Bousquet, J., Giménez-Arnau, A., et al. (2024). Patient-Reported Outcome Measures in Atopic Dermatitis and Chronic Urticaria Are Underused in Clinical Practice. The Journal of Allergy and Clinical Immunology: In Practice, 12(6), 1575-1583.e1. <https://doi.org/10.1016/j.jaip.2024.03.050>
+
+Cook, K. F., Bamer, A. M., Roddey, T. S., Kraft, G. H., Kim, J., & Amtmann, D. (2012). A PROMIS fatigue short form for use by individuals who have multiple sclerosis. Quality of Life Research, 21(6), 1021-1030. <https://doi.org/10.1007/s11136-011-0011-8>
+
+Cracchiolo, J. R., Tin, A. L., Assel, M., et al. (2024). Electronic Patient-Reported Symptoms After Ambulatory Cancer Surgery. JAMA Surgery, 159(5), 554--561. <https://doi.org/10.1001/jamasurg.2024.0133>
+
+Dai, W., Wang, Y., Liao, J., et al. (2024). Electronic Patient-Reported Outcome--Based Symptom Management Versus Usual Care After Lung Cancer Surgery: Long-Term Results of a Multicenter, Randomized, Controlled Trial. Journal of Clinical Oncology, 42(18), 2126-2131.
+
+Davis, K., Yount, S., Del Ciello, K., et al. (2007). An innovative symptom monitoring tool for people with advanced lung cancer: A pilot demonstration. Journal of Supportive Oncology, 5(8), 381-387.
+
+Denis, F., Basch, E., Septans, A., et al. (2019). Two-year survival comparing web-based symptom monitoring vs routine surveillance following treatment for lung cancer. JAMA, 321(3), 306-307. <https://doi.org/10.1001/jama.2018.18085>
+
+Detmar, S. B., Muller, M. J., Schornagel, J. H., Wever, L. D., & Aaronson, N. K. (2002). Health-related quality-of-life assessments and patient-physician communication: A randomized controlled trial. JAMA, 288(23), 3027-3034.
+
+Elwyn, G., Nelson, E., Hager, A., & Price, A. (2020). Coproduction: when users define quality. BMJ Quality and Safety, 29(9), 711-716. <https://doi.org/10.1136/bmjqs-2019-009830>
+
+Emanuel, E. J., & Emanuel, L. L. (1992). Four models of the physician-patient relationship. JAMA, 267(16), 2221-2226. <https://doi.org/10.1001/jama.1992.03480160079038>
+
+Engelen, V., Detmar, S., Koopman, H., Maurice-Stam, H., Caron, H., Hoogerbrugge, P., Egeler, R. M., Kaspers, G., & Grootenhuis, M. (2012). Reporting health-related quality of life scores to physicians during routine follow-up visits of pediatric oncology patients: Is it effective? Pediatric Blood & Cancer, 58(5), 766-774. <https://doi.org/10.1002/pbc.23158>
+
+Gibbons, C., Porter, I., Gonçalves-Bradley, D. C., Stoilov, S., Ricci-Cabello, I., Tsangaris, E., & Valderas, J. M. (2021). Routine provision of feedback from patient-reported outcome measurements to healthcare providers and patients in clinical practice. Cochrane Database of Systematic Reviews, 10(10), CD011589. <https://doi.org/10.1002/14651858.CD011589.pub2>
+
+Groenewegen, A., van Muilekom, M., Sieben, C., Luijten, M., Janssen, S., Venema-Taat, N., Korte, M., Terwee, C., Wee, P., Van Oers, H., & Haverman, L. (2024). The Amsterdam PROM implementation strategy: Policy and pathway. NEJM Catalyst. <https://doi.org/10.1056/CAT.23.0414>
+
+Gotay, C. C., Kawamoto, C. T., Bottomley, A., & Efficace, F. (2008). The prognostic significance of patient-reported outcomes in cancer clinical trials. Journal of Clinical Oncology, 26(8), 1355-1363.
+
+Hacker, K. (2024). The burden of chronic disease. Mayo Clinic Proceedings: Innovations, Quality & Outcomes, 8(1), 112-119. <https://doi.org/10.1016/j.mayocpiqo.2023.08.005>
+
+Harrison, P. L., Pope, J. E., Coberley, C. R., & Rula, E. Y. (2012). Evaluation of the relationship between individual well-being and future healthcare utilization and cost. Population Health Management, 2012, Feb 22. [Epub ahead of print].
+
+Hibbard, J. H., et al. (2004). Do measures of patient activation work? A review of the literature. Journal of Health Affairs, 23(3), 65-73.
+
+Hjollund, N. H. I., Larsen, L. P., & de Thurah, A. L. (2023). Patient-reported outcome (PRO) measurements in chronic and malignant diseases: Ten years' experience with PRO-algorithm-based patient-clinician interaction (telePRO) in AmbuFlex. Quality of Life Research, 32, 1053--1067. <https://doi.org/10.1007/s11136-022-03322-9>
+
+Institute of Medicine (US) Committee on Quality of Health Care in America. (2001). Crossing the quality chasm: A new health system for the 21st century. Washington, DC: National Academies Press.
+
+International Consortium for Health Outcomes Measurement (ICHOM). (2025). Outcome Standard Sets. https://www.ichom.org/patient-centered-outcome-measures
+
+Joeris, A., et al. (2018). BMJ Open, 8, e020629. Hicks, C. M., et al. (2021). Journal of Vascular Surgery, 74, 1693. Zwiers, M. P., et al. (2018). Foot & Ankle Surgery, 24, 246.
+
+Katzan, I. L., Thompson, N. R., & Lapin, B. R. (2024). Patient-Reported Outcome Measures Inform Clinic Visit Duration in Patients with Cerebrovascular Disease. Journal of the American Heart Association, 13(11), e034849. <https://doi.org/10.1161/JAHA.124.034849>
+
+Khakzad, T., Putzier, M., Bartschke, A., Poyraz, R. A., & Taheri, N. (2024). Standardized Usage of Electronic Patient-Reported Outcome Measurements is Time-Efficient and Feasible. Journal of Personalized Medicine, 14(9), 986. <https://doi.org/10.3390/jpm14090986>
+
+Kleinman, A. (2012). The Illness Narratives: Suffering, Healing, and the Human Condition. Basic Books.
+
+Lai, J. S., Cella, D., Choi, S., Junghänel, D. U., Christodoulou, C., Gershon, R., & Stone, A. (2011). How item banks and its application can influence measurement practice in rehabilitation medicine: A PROMIS fatigue item bank example. Archives of Physical Medicine and Rehabilitation, 92(10), S20-S27. <https://doi.org/10.1016/j.apmr.2011.05.017>
+
+Lapin, B., Li, Y., Miller, D., & Katzan, I. (2025). Measuring PROMIS Global Health across neurological populations. Advances in Patient Reported Outcomes, 1, Abstract 100086.
+
+Laugsand, E. A., Sprangers, M. A., Bjordal, K., et al. (2010). Health Qual Life Outcomes, 8, 104. <https://doi.org/10.1186/1477-7525-8-104>
+
+Liu, J. B., Kaplan, R. S., Bates, D. W., Edelen, M. O., Sisodia, R. C., & Pusic, A. L. (2024). Mass General Brigham's Patient-Reported Outcomes Measurement System: A decade of learnings. NEJM Catalyst Innovations in Care Delivery, 5(7). <https://doi.org/10.1056/CAT.23.0397>
+
+Lyleroehr, M. J., Webster, K. A., Perry, L. M., et al. (2024). A mixed methods evaluation of patient perspectives on the implementation of an electronic health record-integrated patient-reported symptom and needs monitoring program in cancer care. Journal of Patient Reported Outcomes, 8, 66. <https://doi.org/10.1186/s41687-024-00742-8>
+
+Miller, D. P., et al. (2015). Engagement in healthcare decision-making and its effect on patient-reported outcomes. Patient Education and Counseling, 98(4), 500-506.
+
+Neville, C. G., Baumhauer, J. F., & Houck, J. (2020). What is the Responsiveness and Quality of Life "Utility" for PROMIS Outcomes in Foot and Ankle Patients Following Physical Therapy? Faculty Publications - College of Physical Therapy, 128. <https://digitalcommons.georgefox.edu/pt_fac/128>
+
+Nguyen, T. H., Han, H. R., Kim, M. T., & Chan, K. S. (2014). An introduction to item response theory for patient-reported outcome measurement. The Patient, 7(1), 23-35. <https://doi.org/10.1007/s40271-013-0041-0>
+
+OECD. (2025). Does Healthcare Deliver?: Results from the Patient-Reported Indicator Surveys (PaRIS). OECD Publishing. <https://doi.org/10.1787/c8af05a5-en>
+
+Pearman, T. P., Garcia, S. F., Penedo, F., Yanez, B., Wagner, L. I., & Cella, D. (2015). Implementation of distress screening in an oncology setting. Journal of Community and Supportive Oncology, 13(12), 423-428.
+
+Perry, L. M., Mohindra, N. A., Coughlin, A. T., Bedjeti, K., Barnard, C., Garcia, S. F., Peipert, J. D., Kircher, S. M., Aggarwal, V., Linder, J. A., Weitzel, M., Patten, E., Torres, J., O'Connor, M. L., Metzger, S., O'Daniel, A., Chmiel, R., Modi, R., Munroe, M., Xinos, S., Elwyn, G., Jacobs, C. R., Nelson, E. C., Van Citters, A., Cella, D., & Hirschhorn, L. R. (2025). Implementation of patient-reported outcome dashboards within the electronic health record to support shared decision-making in serious chronic illness. BMJ Open Quality, 14, e002837. <https://doi.org/10.1136/bmjoq-2024-002837>
+
+Rathert, C., et al. (2013). Patient-centered care and outcomes: A systematic review of the literature. Medical Care Research and Review, 70(4), 351-388.
+
+Revicki, D., & Cella, D. (1997). Health status assessment for the twenty-first century: Item response theory, item banking, and computer adaptive testing. Quality of Life Research, 6(6), 595-600.
+
+Schneider, E. C., et al. (2020). Achieving high-value care through the integration of PROMs in electronic health records: The role of data interoperability. JAMA Health Forum, 1(7), e200129. <https://doi.org/10.1001/jamahealthforum.2020.0129>
+
+Schougaard, L., et al. (2023). Exploring nurses' perspective on using remote symptom monitoring in clinical decision-making. Seminars in Oncology Nursing, 151517.
+
+Senders, A., Hanes, D., Bourdette, D., Whitham, R., & Shinto, L. (2014). Reducing survey burden: Feasibility and validity of PROMIS measures in multiple sclerosis. Multiple Sclerosis, 20(8), 1102-1111. <https://doi.org/10.1177/1352458513517279>
+
+Sisodia, R. C., Dankers, C., Orav, J., Joseph, B., Meyers, P., Wright, P., & St. Amand, D. del Carmen M. (2020). Factors associated with increased collection of patient-reported outcomes within a large health care system. JAMA Network Open, 3(4), e202764. <https://doi.org/10.1001/jamanetworkopen.2020.2764>
+
+Terwee, C. B., et al. (2023). Development of a standard set of PROMs for medical specialist care. Quality of Life Research, 32, 1595-1605.
+
+Teuwen, M. M. H., Knaapen, I. R. E., Vliet Vlieland, T. P. M., et al. (2023). The use of PROMIS measures in clinical studies in patients with inflammatory arthritis: A systematic review. Quality of Life Research, 32, 2731--2749. <https://doi.org/10.1007/s11136-023-03422-0>
+
+van Engen, V., van Lint, C. L., Peters, I. A., Ahaus, K., Buljac-Samardzic, M., & Bonfrer, I. (2024). Enhancing patient response to patient-reported outcome measures: Insights from a leading Dutch university hospital. Value in Health, 27(12), 1753-1761. <https://doi.org/10.1016/j.jval.2024.09.016>
+
+Vandyk, A. D., Harrison, M. B., Macartney, G., Ross-White, A., & Stacey, D. (2012). Emergency department visits for symptoms experienced by oncology patients: A systematic review. Supportive Care in Cancer, 20(8), 1589-1599.
+
+Velikova, G., Booth, L., Smith, A. B., Brown, P. M., Lynch, P., Brown, J. M., & Selby, P. J. (2004). Measuring quality of life in routine oncology practice improves communication and patient well-being: A randomized controlled trial. Journal of Clinical Oncology, 22(4), 714-724.
+
+Wagner, L. I., Schink, J., Bass, M., et al. (2015). Bringing PROMIS to practice: Brief and precise symptom screening in ambulatory cancer care. Cancer, 121(6), 927-934. <https://doi.org/10.1002/cncr.29294>
+
+Wagner, L. I., Zhao, F., Chapman, J.-A. W., Cella, D., Shepherd, L. E., Sledge, G. W., & Goss, P. E. (2011). Patient-reported predictors of early treatment discontinuation: NCIC JMA.27/E1Z03. Cancer Research, 71(24 Suppl.), 662.
+
+Weinstein, A., et al. (2018). Patient-reported outcomes and their integration into electronic health records: Opportunities and challenges. American Journal of Managed Care, 24(10), 460-467.
+
+Wilson, I. B., & Cleary, P. D. (1995). Linking clinical variables with health-related quality of life. A conceptual model of patient outcomes. JAMA, 273(1), 59-65. <https://doi.org/10.1001/jama.1995.03520250059033>
+
+Witter J.P. (2016). The Promise of Patient-Reported Outcomes Measurement Information System-Turning Theory into Reality: A Uniform Approach to Patient-Reported Outcomes Across Rheumatic Diseases. Rheumatic Diseases Clinics of North America, 42(2):377-94. doi: 10.1016/j.rdc.2016.01.007. PMID: 27133496. 
+
+World Health Organization. (2025). The Global Health Observatory. https://www.who.int/data/gho
+
+* * * * *
+
+[[1]](file:///Users/alexcano86/Desktop/Cella.html#_ftnref1) I say "re-humanizing" because healthcare centuries ago was characterized far more by the doctor-patient relationship, admittedly in large part due to the lack of effective treatments for most maladies.
+
+[[2]](file:///Users/alexcano86/Desktop/Cella.html#_ftnref2) Although the term "health-related quality of life" remains accepted and widely used, it was replaced by the U.S. Food and Drug Administration with the more general, neutral term "Patient Reported Outcomes (PROs)" for use in the context of drug evaluation. This term has become more dominant in healthcare settings. I therefore use the PRO and PRO Measure (PROM) to refer to HRQoL and other self-report measures of health status.
+
+[[3]](file:///Users/alexcano86/Desktop/Cella.html#_ftnref3) Prior to my involvement with PROMIS, I led the development of a disease-specific measurement system, beginning with cancer, and then extending to HIV illness, multiple sclerosis, anemia, and a range of chronic diseases, including the effects of various treatments. This measurement system, The Functional Assessment of Chronic Illness Therapy (FACIT), is in wide use today and offers complementary information to more generic systems such as PROMIS.
