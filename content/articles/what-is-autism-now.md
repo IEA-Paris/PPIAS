@@ -96,11 +96,9 @@ The neurodiversity paradigm has important implications for supporting autistic p
 
 The fourth change relates to understandings of how common autism is. Throughout his career, Kanner insisted that autism was a rare condition, and when the first autism epidemiological prevalence study was conducted in the 1960s, its findings supported his view. This research screened a whole population of eight to 10-year-olds in the county of Middlesex in England, identifying just 35 autistic children, which suggested that around 1 in 2,500 were autistic (Lotter, 1966). Up until the end of the 1990s, prevalence studies of autism tended to confirm the view that autism was rare. But from then onwards began a phenomenon that has continued to this day: the growth of autism's estimated prevalence. A striking example is provided by research from the US Centres for Disease Control (Figure 2). Their estimates of autism's prevalence have gone up nearly five-fold since 2000, with the most recent figures suggesting that one in 31 American children is autistic (Shaw et al., 2025). A similar pattern can be observed in the UK, where one study of health records up to 2018 found that 1 in 35 14 to 19-year-olds have an autism diagnosis (O'Nions et al., 2023b). Compared to Lotter's original prevalence estimates in the mid 1960s, that represents an approximate 70-fold increase.
 
-**Figure \*\***2**\*\* Estimated autism prevalence in the USA from successive studies by the Centres for Disease Control (CDC)**
+**Figure 2 Estimated autism prevalence in the USA from successive studies by the Centres for Disease Control (CDC)**
 
-![A graph with a line going up
-
-AI-generated content may be incorrect.](blob:https://euangoddard.github.io/c5452a98-209a-4cdd-9af9-81148d2fd834)
+![](/static/picture2_mandy.png)
 
 High and increasing rates of autism diagnosis since the late 1990s are not universal. The phenomenon is most pronounced in high-income countries, and there is substantial variability in diagnostic rates within these nations (Global Burden of Disease Study 2021 Autism Spectrum Collaborators, 2025). Whilst anglophone nations, such as the USA, UK, Canada and Australia are especially likely to have high diagnostic rates, there are also high levels of autism diagnosis in other high-income countries, for example, Japan, the Netherlands, and South Korea. 
 
