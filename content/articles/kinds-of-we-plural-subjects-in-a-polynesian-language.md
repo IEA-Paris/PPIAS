@@ -235,7 +235,7 @@ Example (7)-(9) from April 7, 1979, fono in Falefā, \`Upolu. Speaker: the orato
 
                          'so,  look at the Lord' (i.e., remember the Lord's ways)
 
-## 4.      Inclusive (*kākou*) and exclusive "we" (*mākou*) in conversation
+## 4. Inclusive (*kākou*) and exclusive "we" (*mākou*) in conversation
 
 The distribution of *kākou* vs. *mākou* in conversations differs from their distribution in formal speeches, whether in ceremonial occasions like the after-church Sunday gathering (*to\`ona\`i*) or in the meeting of the village council. 
 
@@ -309,26 +309,28 @@ But once the prayer – in this case a particularly long one – starts, we find
 
 On behalf of the family or the congregation, the speaker is addressing a God that is separate from them. God is recognized as generously giving, and humans as happy to receive, but they do not form a collective subject with the deity. The pattern repeats in a second long prayer[^6] and in two very short prayers (see Appendix). 
 
-# Concluding
+## Concluding
 
 I have here briefly investigated the use of first-person plural pronouns in Samoan interactions, with the hypothesis that they play a role in the constitution of something that resembles what Carr and Gilbert independently, and with subtle differences, called "plural subject." I have done it by examining verbal interactions in a language that distinguishes between inclusion and exclusion in a more explicit way than modern European languages do. The spontaneous speech that I recorded across a variety of genres and speech events minimally shows that the use of the inclusive and exclusive pronouns in Samoan vary across contexts in patterned ways. We can hypothesize that such variation is likely to play a role in the constitution of different kinds of "we," some involving positional identities, others more informal or intimate relationships. 
 
 The observations offered in this paper are offered to draw more attention to linguistic diversity and its relevance to philosophical argumentation, and, more centrally, to argue that "experience" as an object of inquiry must include language phenomena as they emerge in social encounters. 
 
-# Appendix
+## Appendix
 
 **Table 3 Percentage of Samoan inclusive vs. exclusive first-person plural pronouns in a variety of speech genres across different speech events**
 
-- - -
+![](/static/table3_duranti.png)
 
-\[[1]](file:///Users/alexcano86/Desktop/Duranti.html#_ednref1) The original idea of rethinking the concept of the "we" by examining transcripts of interactions I recorded in Samoa was developed in September 2025 while I was a Fellow at the *Institut d'Etudes Avancées de Paris*. I want to thank the Director, Saadi Lahlou, for the invitation and for our stimulating conversations, Irina Nosulenko and the other members of the staff for making me feel welcome, and the other Fellows at the Institute for providing an inspiring intellectual environment for thinking and writing. The focus on the "we" was inspired by Dan Zahavi's *Being We. Phenomenological Contributions to Social Ontology*, Oxford University Press, 2025. An earlier and shorter draft of this article was sent to Zahavi for a Book Symposium held on November 14, 2025 at the Center for Subjectivity Research, at the University of Copenhagen. I am thankful for his response to my comments, which helped me clarify several of my points. I am also thankful to Nicco La Mattina for his insightful comments on two earlier drafts. 
 
-\[[2]](file:///Users/alexcano86/Desktop/Duranti.html#_ednref2)) The recording of spontaneous Samoan speech used for this article was part of research projects supported by the National Science Foundation in 1978-79 and in 1988, and the Australian National University in 1981 (more video recordings were made in 1999 and 2000, but they are not analyzed in this study). Some key information on the contexts of some of the recorded interactions, including the highly stratified quality of Samoan ritual and political events, are described in several previous publications, including Duranti (1994). A more in-depth ethnographic account of Samoan social life and ethos around the time of my fieldwork can be found in Bradd Shore (1982). See also Tcherkézoff (2003) for additional insights into Samoan ways of life. 
 
-\[[3]](file:///Users/alexcano86/Desktop/Duranti.html#_ednref3)) As shown by the transcripts in Saft (2017) and in other sources, differently from Samoan, Hawaiian has fully replaced the Proto-Polynesian *t with /k/. 
+[^1]: The original idea of rethinking the concept of the "we" by examining transcripts of interactions I recorded in Samoa was developed in September 2025 while I was a Fellow at the *Institut d'Etudes Avancées de Paris*. I want to thank the Director, Saadi Lahlou, for the invitation and for our stimulating conversations, Irina Nosulenko and the other members of the staff for making me feel welcome, and the other Fellows at the Institute for providing an inspiring intellectual environment for thinking and writing. The focus on the "we" was inspired by Dan Zahavi's *Being We. Phenomenological Contributions to Social Ontology*, Oxford University Press, 2025. An earlier and shorter draft of this article was sent to Zahavi for a Book Symposium held on November 14, 2025 at the Center for Subjectivity Research, at the University of Copenhagen. I am thankful for his response to my comments, which helped me clarify several of my points. I am also thankful to Nicco La Mattina for his insightful comments on two earlier drafts. 
 
-[](file:///Users/alexcano86/Desktop/Duranti.html#_ednref4)2) I have found some cases in spoken Samoan where **mā`ua** is conjoined with an additional third party, not included in the dual form, for example, *ma`ua ma Luku ma Salagoa* lit. Luku and I and Salanoa. The general point remains that there is no separate singular "I" or "me" in these constructions.
+[^2]: The recording of spontaneous Samoan speech used for this article was part of research projects supported by the National Science Foundation in 1978-79 and in 1988, and the Australian National University in 1981 (more video recordings were made in 1999 and 2000, but they are not analyzed in this study). Some key information on the contexts of some of the recorded interactions, including the highly stratified quality of Samoan ritual and political events, are described in several previous publications, including Duranti (1994). A more in-depth ethnographic account of Samoan social life and ethos around the time of my fieldwork can be found in Bradd Shore (1982). See also Tcherkézoff (2003) for additional insights into Samoan ways of life. 
 
-\[[5]](file:///Users/alexcano86/Desktop/Duranti.html#_ednref5)) Examples of this inclusive *kākou* are found when Sela says to her two children *`aumai le kākou lekiō* 'bring our-all-inclusive radio' and *e le`i fufulua kākou`ipu* 'our-all-inclusive dishes have not been washed,' an indirect way of reproaching them. 
+[^3]: As shown by the transcripts in Saft (2017) and in other sources, differently from Samoan, Hawaiian has fully replaced the Proto-Polynesian *t with /k/. 
 
-\[[6]](file:///Users/alexcano86/Desktop/Duranti.html#_ednref6)) I have not considered God included in the *tātou* used in the phrase *tātou fa`atasi ma`oe* 'we-all-inclusive together with you' uttered by Sala in his prayer (Long prayer 2 in the Appendix).
+[](file:///Users/alexcano86/Desktop/Duranti.html#_ednref4)[^4]: I have found some cases in spoken Samoan where **mā`ua** is conjoined with an additional third party, not included in the dual form, for example, *ma`ua ma Luku ma Salagoa* lit. Luku and I and Salanoa. The general point remains that there is no separate singular "I" or "me" in these constructions.
+
+[^5]: Examples of this inclusive *kākou* are found when Sela says to her two children *`aumai le kākou lekiō* 'bring our-all-inclusive radio' and *e le `i fufulua kākou* `*ipu* 'our-all-inclusive dishes have not been washed,' an indirect way of reproaching them. 
+
+[^6]: I have not considered God included in the *tātou* used in the phrase *tātou fa\`atasi ma \`oe* 'we-all-inclusive together with you' uttered by Sala in his prayer (Long prayer 2 in the Appendix).
