@@ -139,7 +139,11 @@ From the interview data, we inductively identified four pathways through which y
 
 **Table 4 Pathways by Race, Gender, and Voting Intentions**
 
-**Table 5 Declared Voting Preferences by Inclusive and Exclusive Attitudes about Redistribution and Symbolic Membership***
+![](/static/table4_lamont.png)
+
+**Table 5 Declared Voting Preferences by Inclusive and Exclusive Attitudes about Redistribution and Symbolic Membership**
+
+![](/static/table5_lamont.png)
 
 ## 1. Recognition through Exclusion 
 
