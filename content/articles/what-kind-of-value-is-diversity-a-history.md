@@ -115,30 +115,30 @@ Warm thanks to the Institut des études avancées and its staff for their gracio
 
 [^3]: \[Alexandre Deleyre], "Épingle," *Encyclopédie, ou Dictionnaire raisonné des arts, des sciences et des métiers*, 17 vols. (Paris: Briasson, 1751-65), 5 : 804-807; see also \[Jean-Rodolphe Perronet], « Épinglier, » Supplément : Planches (1765), 4: 1-8. 
 
-[^4] Adam Smith, *The Wealth of Nations* (1776), ed. Edward Cannan (Chicago: University of Chicago Press, 1976), 11-14.
+[^4]: Adam Smith, *The Wealth of Nations* (1776), ed. Edward Cannan (Chicago: University of Chicago Press, 1976), 11-14.
 
-[[](file:///Users/alexcano86/Desktop/Daston.html#_ednref5)^[5]](file:///Users/alexcano86/Desktop/Daston.html#_ednref5) Gunnar Broberg, *The Man Who Organized Nature: The Life of Linnaeus*, trans. Anna Paterson (Princeton: Princeton University Press, 2023), 279.
+[^5]: Gunnar Broberg, *The Man Who Organized Nature: The Life of Linnaeus*, trans. Anna Paterson (Princeton: Princeton University Press, 2023), 279.
 
-[[](file:///Users/alexcano86/Desktop/Daston.html#_ednref6)^[6]](file:///Users/alexcano86/Desktop/Daston.html#_ednref6) Henri Milne-Edwards, *Introduction à la zoologie générale, ou Considérations sur les tendances de la nature* (Paris : Chez Victor Masson, 1851), 7, 35, 9. « ... on voit que dans les créations de la nature, de même que dans l'industrie des hommes, c'est surtout par la *division du travail* que le perfectionnement s'obtient. » (p. 35)
+[^6]: Henri Milne-Edwards, *Introduction à la zoologie générale, ou Considérations sur les tendances de la nature* (Paris : Chez Victor Masson, 1851), 7, 35, 9. « ... on voit que dans les créations de la nature, de même que dans l'industrie des hommes, c'est surtout par la *division du travail* que le perfectionnement s'obtient. » (p. 35)
 
-[[](file:///Users/alexcano86/Desktop/Daston.html#_ednref7)^[7]](file:///Users/alexcano86/Desktop/Daston.html#_ednref7) Charles Darwin, *On the Origin of Species* \[1859], A facsimile of the first edition with an introduction by Ernst Mayr (Cambridge, Mass.: Harvard University Press, 1964), 115-116.
+[^7]: Charles Darwin, *On the Origin of Species* \[1859], A facsimile of the first edition with an introduction by Ernst Mayr (Cambridge, Mass.: Harvard University Press, 1964), 115-116.
 
-[[](file:///Users/alexcano86/Desktop/Daston.html#_ednref8)^[8]](file:///Users/alexcano86/Desktop/Daston.html#_ednref8) This account of U.S. and European Union developments draws heavily on the cogent account by Steven Vertovec, "'Diversity' and the Social Imaginary," *European Journal of Sociology* 53(2012): 287-312.
+[^8]: This account of U.S. and European Union developments draws heavily on the cogent account by Steven Vertovec, "'Diversity' and the Social Imaginary," *European Journal of Sociology* 53(2012): 287-312.
 
-[[](file:///Users/alexcano86/Desktop/Daston.html#_ednref9)^[9]](file:///Users/alexcano86/Desktop/Daston.html#_ednref9) Quoted in David B. Oppenheimer, "Archibald Cox and the Diversity Justification for Affirmative Action," *Virginia Journal of Social Policy and Law* 25(2018): 158-203. Oppenheimer has traced the arguments and examples used by Justice Powell to an amicus curiae brief written by Harvard legal scholar Archibald Cox for the earlier DeFunis case, dismissed as moot.
+[^9]: Quoted in David B. Oppenheimer, "Archibald Cox and the Diversity Justification for Affirmative Action," *Virginia Journal of Social Policy and Law* 25(2018): 158-203. Oppenheimer has traced the arguments and examples used by Justice Powell to an amicus curiae brief written by Harvard legal scholar Archibald Cox for the earlier DeFunis case, dismissed as moot.
 
-[[](file:///Users/alexcano86/Desktop/Daston.html#_ednref10)^[10]](file:///Users/alexcano86/Desktop/Daston.html#_ednref10) *Students for Fair Admissions, Inc. v. President and Fellows of Harvard College*, 600 U.S. Supreme Court (2023). Decided 29 June 2023.
+[^10]: *Students for Fair Admissions, Inc. v. President and Fellows of Harvard College*, 600 U.S. Supreme Court (2023). Decided 29 June 2023.
 
-[[](file:///Users/alexcano86/Desktop/Daston.html#_ednref11)^[11]](file:///Users/alexcano86/Desktop/Daston.html#_ednref11) The fissures within this consensus emerged when it came to defining what kind of diversity counted: race? Gender? Political affiliation? Neurological constitution? See Nicolas Langlitz, "The Moral Economy of Diversity: How the Epistemic Value of Diversity Transforms Late Modern Knowledge Cultures," *History of the Human Sciences* 37 (2023): 1-25.
+[^11]: The fissures within this consensus emerged when it came to defining what kind of diversity counted: race? Gender? Political affiliation? Neurological constitution? See Nicolas Langlitz, "The Moral Economy of Diversity: How the Epistemic Value of Diversity Transforms Late Modern Knowledge Cultures," *History of the Human Sciences* 37 (2023): 1-25.
 
-[\[12]](file:///Users/alexcano86/Desktop/Daston.html#_ednref12) Quoted in Valerie Møller, Helga Dickow, amd Mari Harris, "South Africa's 'Rainbow People." National Pride and Happiness," *Social Indicators Research* 47 (1999): 245-280, on 252.
+[^12]: Quoted in Valerie Møller, Helga Dickow, and Mari Harris, "South Africa's 'Rainbow People." National Pride and Happiness," *Social Indicators Research* 47 (1999): 245-280, on 252.
 
-[\[13]](file:///Users/alexcano86/Desktop/Daston.html#_ednref13) Nelson Mandela, "Let Freedom Reign: Pretoria, 10 May 1994," in *Let Freedom Reign: The Words of Nelson Mandela*, ed. Henry Russell (Northampton, Mass.: Interlink Books, 2010), 96.
+[^13]: Nelson Mandela, "Let Freedom Reign: Pretoria, 10 May 1994," in *Let Freedom Reign: The Words of Nelson Mandela*, ed. Henry Russell (Northampton, Mass.: Interlink Books, 2010), 96.
 
-[\[14]](file:///Users/alexcano86/Desktop/Daston.html#_ednref14) Nicholas Lemann, "[Can Affirmative Action Survive](https://www.newyorker.com/magazine/2021/08/02/can-affirmative-action-survive)?" *The New Yorker* (26 July 2021). 
+[^14]: Nicholas Lemann, "[Can Affirmative Action Survive](https://www.newyorker.com/magazine/2021/08/02/can-affirmative-action-survive)?" *The New Yorker* (26 July 2021). 
 
-[\[15]](file:///Users/alexcano86/Desktop/Daston.html#_ednref15) Helen Longino, *Science as Knowledge. Values and Objectivity in Scientific Inquiry* (Princeton: Princeton University Press, 1990); Sandra Harding, *Objectivity and Diversity: Another Logic of Scientific Research* (Chicago: University of Chicago Press, 2015).
+[^15]: Helen Longino, *Science as Knowledge. Values and Objectivity in Scientific Inquiry* (Princeton: Princeton University Press, 1990); Sandra Harding, *Objectivity and Diversity: Another Logic of Scientific Research* (Chicago: University of Chicago Press, 2015).
 
-[\[16]](file:///Users/alexcano86/Desktop/Daston.html#_ednref16) Fernando Vidal and Nélia Dias, "The Endangerment Sensibility," in *Endangerment, Biodiversity and Culture*, ed. Fernando Vidal and Nélia Dias (London: Routledge, 2016).
+[^16]: Fernando Vidal and Nélia Dias, "The Endangerment Sensibility," in *Endangerment, Biodiversity and Culture*, ed. Fernando Vidal and Nélia Dias (London: Routledge, 2016).
 
-[\[17]](file:///Users/alexcano86/Desktop/Daston.html#_ednref17) Mandela, "Let Freedom Reign", 95.
+[^17]: Mandela, "Let Freedom Reign", 95.
