@@ -79,18 +79,17 @@ The distinctions listed in (b) and (c) above are built in Samoan on the oppositi
 
 Example (1) From "The watch" – a conversation during which an orator arrives and enters the conversation with a joke. 
 
-Orator;             māgaia sē  le**   kā **ka`avale
+Orator;             māgaia sē  le **  kā** ka`avale
 
                         Nice      hey the **our-two-incl** car
 
-                "our (dual) car (is) really nice"
+\    "our (dual) car (is) really nice"
 
-                **kā** ke koe ō ai i Apia Kāvō!
+ **\    kā** ke koe ō ai i Apia Kāvō!
 
-                "**we-two-incl** go with it to Apia, Tāvō!"
+\    "**we-two-inc**l go with it to Apia, Tāvō!"
 
-                 "What a nice car for the two of us to go to Apia!" (Apia is the capital)
-
+                    "What a nice car for the two of us to go to Apia!" (Apia is the capital)
 
 Full independent pronouns meaning 'the two of us' and 'all of us' (inclusive and exclusive) are formed respectively with the addition of the morpheme -*`ua*, most likely derived from the number *lua* 'two,' or with the addition of the morpheme *\-tou,* most likely derived from *tolu* 'three' – there are other languages in the Pacific that have separate pronouns for the trial form, e.g., Fijian (Milner, 1972, pp. 15-16, 65-66). 
 
@@ -110,49 +109,49 @@ The corpus from which I will draw examples includes spontaneous conversations, f
 
 An earlier study by Scott Saft (2017) focuses on the use of the Hawaiian first-person plural inclusive *kākou* in interviews conducted in 1970 by a bilingual Hawaiian speaker, Clinton Kanahele, with older Hawaiian speakers and concludes that *kākou* evokes a larger community to which speaker and hearer belong, and as such can be used to make a claim on behalf of a community of "Native Hawaiian" (2017, p. 104). The evocation of a larger community is also one of the uses of first-person plural inclusive pronouns and adjectives found in the Samoan interactions to be discussed here, together with other features that, as I will show, emerge from looking at a variety of speech genres across social events.
 
-## 2.2.  Dual pronouns
+### 2.2.  Dual pronouns
 
 There is an aspect of the use of the dual forms in Samoan that distinguishes them semantically from the periphrastic use of dual in English and other modern Indo-European languages, suggesting a different emphasis or priority in thinking about groups of two or more people.
 
-When an English speaker is explicitly referring to a dual combination of him- or herself and one other person, they may use expressions like *my friend and I* or *me and my friend*, in which the two parties are identified as distinct individuals temporarily united into a collective, as signified by the conjunction *and*. In Samoan, it is the collective that is foregrounded. An expression like "Elinor and I" or "me and Elinor" is expressed as *mā`ua ma Elenoa* (*ma* can mean 'and' or 'with'), which does not mean 'the two of us and Elinor,' but 'the two us including Elinor.' Elinor in this case, is *not* *added* to an independently existing duo but is *included* in the semantic scope of the preceding dual *mā`ua*. In a way, the NP that follows *mā`ua* *ma* 'two-of-us-exclusive and' or 'two-of-us-exclusive with' clarifies the identity of the second person, besides the speaker, that is implied by the preceding pronoun\[[4]](file:///Users/alexcano86/Desktop/Duranti.html#_edn4). The same principle works for conjunctions involving plural, i.e., more than two, parties. This is illustrated in example (2) where the deacon uses the expression *mākou ma Sā* 'we \[plural exclusive] and Sā \[a person's name],' which does not mean all-of-us and/with Sā,' but 'all of us, including Sā.. ' 
+When an English speaker is explicitly referring to a dual combination of him- or herself and one other person, they may use expressions like *my friend and I* or *me and my friend*, in which the two parties are identified as distinct individuals temporarily united into a collective, as signified by the conjunction *and*. In Samoan, it is the collective that is foregrounded. An expression like "Elinor and I" or "me and Elinor" is expressed as *mā`ua ma Elenoa* (*ma* can mean 'and' or 'with'), which does not mean 'the two of us and Elinor,' but 'the two us including Elinor.' Elinor in this case, is *not* *added* to an independently existing duo but is *included* in the semantic scope of the preceding dual *mā`ua*. In a way, the NP that follows *mā`ua* *ma* 'two-of-us-exclusive and' or 'two-of-us-exclusive with' clarifies the identity of the second person, besides the speaker, that is implied by the preceding pronoun[^4]. The same principle works for conjunctions involving plural, i.e., more than two, parties. This is illustrated in example (2) where the deacon uses the expression *mākou ma Sā* 'we \[plural exclusive] and Sā \[a person's name],' which does not mean all-of-us and/with Sā,' but 'all of us, including Sā.. ' 
 
 Example 2. "Pastor and deacon"
 
 Deacon;           ga`o **mākou**      ma   Sā.
 
-            only we-all-exc with Sā
+\    only we-all-exc with Sā
 
-"only **we-all-exclusive** and Sā" or "all of us including Sā (but not you)"
+\    "only **we-all-exclusive** and Sā" or "all of us including Sā (but not you)"
 
-# 3.      Patterns of use of Samoan first-person inclusive and exclusive pronouns
+## 3. Patterns of use of Samoan first-person inclusive and exclusive pronouns
 
 The use of Samoan first-person plural inclusive and first person-plural exclusive pronouns in my corpus of transcripts varies qualitatively (i.e., in their pragmatic function) and quantitatively (i.e., how often they occur) depending on the speech genre and the type of event in which it is used. 
 
-## 2.3.  The inclusive tatou/kākou in ceremonial speeches
+### 2.3. The inclusive tatou/kākou in ceremonial speeches
 
 The inclusive first-person plural pronoun (*kākou*) abounds in a ceremonial speech (*lāuga*) delivered by a deacon of the Congregational Church of Samoa to the invited preacher (*tofi*) on behalf of the local congregation (*`Ēkalēsia*)to thank him for the sermon he delivered earlier in the day. In a four and a half minutes speech by a deacon who also held an orator title, Taofiuailoa, we find eighteen cases of inclusive *tātou* and only three cases of exclusive *mākou*, which the speaker uses to refer to his own speech (mākou `upu, lit. 'our-all-exc words') (see Table 3 in the Appendix). The abundance of the inclusive *kākou* in this context seems to work as a repeated affirmation and celebration of a shared experience that involves the speaker, who is acting on behalf of the congregation, the invited preacher, who is the primary addressee, and the stratified secondary audience constituted by (firstly) the local pastor and his wife, and (secondly) by other deacons and their wives who will soon participate in the sharing of the food they brought. The deictic *kākou* seems here indexical in the *creative* or *performative* sense defined by Michael Silverstein for those contexts that are made to "exist" by means of linguistic signals. 
 
-Certainly, the English indexical pronouns *I/we* and *you* (vs. *he/she/it/they*) perform this creative function in bounding of the personae of the speech event itself; in those languages, such as Chinook (Columbia River, North America) with 'inclusive' and 'exclusive' pronominal indexes, the boundary function becomes even more finely drawn (Silverstein, 1976, p. 34). 
+> Certainly, the English indexical pronouns *I/we* and *you* (vs. *he/she/it/they*) perform this creative function in bounding of the personae of the speech event itself; in those languages, such as Chinook (Columbia River, North America) with 'inclusive' and 'exclusive' pronominal indexes, the boundary function becomes even more finely drawn (Silverstein, 1976, p. 34). 
 
-What this suggests is that the profuse use of the *kākou* by Taofiuailoa in his speech, not only presupposes the existence of multiple parties who can come together as a "plural subject," expressed as a "we-all," but it also helps constitute a collectivity of people who share goals, values, and lived experiences -- a similar point was made by Saft (2017) about Hawaiian. As shown in the five "we-all-inclusive" (*kākou*) examples below, everyone present is collectively identified as participating in the praising of God (line 25) and sharing the hope in His love towards them (line 42-43), while being physically co-present, facing one another in an space open to public view -- the "front" and not the back "of the village" -- (line 29). The conclusion of the speech includes the wish for a shared healthy day for everyone (*lo kākou aso* 'a day that belongs to all-of-us') and a wish for a bright future ('clear skies') for our-shared by all preacher (line 85). 
+What this suggests is that the profuse use of the *kākou* by Taofiuailoa in his speech, not only presupposes the existence of multiple parties who can come together as a "plural subject," expressed as a "we-all," but it also helps constitute a collectivity of people who share goals, values, and lived experiences – a similar point was made by Saft (2017) about Hawaiian. As shown in the five "we-all-inclusive" (*kākou*) examples below, everyone present is collectively identified as participating in the praising of God (line 25) and sharing the hope in His love towards them (line 42-43), while being physically co-present, facing one another in an space open to public view – the "front" and not the back "of the village" – (line 29). The conclusion of the speech includes the wish for a shared healthy day for everyone (*lo kākou aso* 'a day that belongs to all-of-us') and a wish for a bright future ('clear skies') for our-shared by all preacher (line 85). 
 
-Examples (3)-(6) are all from deacon/orator Taofiuailoa's ceremonial speech (*lāuga*) in the after-service shared meal (*to`ona`i*). The line numbers between parentheses refer to the location of the utterance in the complete transcript. 
+Examples (3)-(6) are all from deacon/orator Taofiuailoa's ceremonial speech (*lāuga*) in the after-service shared meal (*to\`ona\`i*). The line numbers between parentheses refer to the location of the utterance in the complete transcript. 
 
 The speaker remains the same throughout these lines. 
 
-(3) (line 25)     **\*kākou    \**** vi`ia    pea   le Akua.*
+(3) (line 25)     **kākou**     vi`ia    pea   le Akua.
 
                         we-all-Inc praise Cont Art Lord
 
                         "let **us-all-Inclusive** keep praising the Lord."
 
-(4) (line 29)*     **kâkou**       fesilafa`I.    i luma   o  le gu`u*
+(4) (line 29)*     **kâkou**       fesilafa\`I.        i luma      o  le gu\`u* 
 
-we-all-Inc meet-Rec   in front of the village
+\    we-all-Inc meet-Rec   in front of the village
 
-"let **us-all-inclusive** meet each other in front of the village"
+\    "let **us-all-inclusive** meet each other in front of the village"
 
-(5) (line 42)     **\*kākou\****      fa`amoemoe pea i le Akua*
+(5) (line 42)     **kākou**      fa`amoemoe pea i le Akua
 
                         we-all-Inc hope            Cont in Art Lord
 
@@ -188,17 +187,17 @@ In lines 83 and 85 above, *kākou* is used as a possessive adjective (noun mod
 
 There are only three *mātou* (pronounced /mākou/) in the speech, all of them referring to the speaker, who talks about his words/speech in the plural, as customary in ceremonial speeches or in the formal speeches given in other arenas like the meetings of the village council (see below). There is ambiguity in this use of the plural. It can be interpreted as indexing that he is speaking on behalf of a group, but it can also be a way of downplaying his own actions or decisions as an individual. The first-person singular pronoun (*a`u*) only shows up in the last line of Taofiuailoa's speech, the conventional closing expression *ia a`u ola!* 'may I live!' where the speaker foregrounds his mortality and therefore cannot be seen as showing off. 
 
-## 2.4.  First-person plural pronouns in the *fono*: tension between inclusive and exclusive
+### 2.4.  First-person plural pronouns in the *fono*: tension between inclusive and exclusive
 
-The speeches in the political-judiciary arena called *fono*, the meetings of the *matai* or titled individuals representing extended families in a Samoan community (Duranti, 1994), share some similarities with the Sunday speech described above -- as indicated by the fact that the speeches in the fono are also sometimes called "lāuga" and use some of the same expressions. But the lāuga in the fono are, in fact, different because the fono is usually called when there is a problem to solve. For this reason, it is not a celebratory occasion, but an argumentative one, aimed at solving crises, finding solutions, reaching an agreement between opposing opinions (Duranti, 1981, 1994, chapter 4). While there is an effort to solidify or, in some cases, reestablish a common ground -- in local terms, to reestablish the *fealofani* 'mutual love' among family heads -- there is also an expectation that some disagreement will be aired, with the goal of reaching a resolution that won't please everyone but might be acceptable to most or all. 
+The speeches in the political-judiciary arena called *fono*, the meetings of the *matai* or titled individuals representing extended families in a Samoan community (Duranti, 1994), share some similarities with the Sunday speech described above – as indicated by the fact that the speeches in the fono are also sometimes called "lāuga" and use some of the same expressions. But the lāuga in the fono are, in fact, different because the fono is usually called when there is a problem to solve. For this reason, it is not a celebratory occasion, but an argumentative one, aimed at solving crises, finding solutions, reaching an agreement between opposing opinions (Duranti, 1981, 1994, chapter 4). While there is an effort to solidify or, in some cases, reestablish a common ground – in local terms, to reestablish the *fealofani* 'mutual love' among family heads – there is also an expectation that some disagreement will be aired, with the goal of reaching a resolution that won't please everyone but might be acceptable to most or all. 
 
 In these contexts, we find many all-inclusive "we" (*kākou*), as speakers put an effort to list and often repeat shared beliefs and commitments, but we also find a smaller but sizable number of first-person exclusive "we" (*mākou*). These seem a way for the speakers to distance themselves from previously shared opinions and offer advice either as individuals or as representatives of a village section or lineage. 
 
 As shown in Table 3 (see Appendix), in a fono recorded on April 7, 1979, which covered three issues and lasted almost three hours, I found a total of 340 inclusive *kākou* and 93 exclusive *mākou*. Like in the ceremonial speech mentioned above, the *kākou* express a recognition and reaffirmation of speakers' common belonging to the same community, as shown by the fact that a high portion (142 /340) of cases of *kākou* are modifiers of *nu`u* 'village,' meaning **our-all-inclusive** village (pronounced /kākou gu`u/ with *g* standing for a velar nasal). It's as if people keep reminding each other that they are from the same community. The use of the inclusive *kākou* seems to foreground the collective, contributing to the establishment or reinforcement of a plural subject and pragmatically working as a potential buffer to soften the impact of a forthcoming disagreement.
 
-Even though the inclusive "we" outnumbers the exclusive "we" almost four times, the number of exclusive "we" in the April 7, 1979 meeting is still notable, especially because they start to appear when members of the council offer an opinion -- framed as an advice -- that might not go along with what proposed by other powerful members of the council, like the Senior Orator Moe`ono, the de facto chairman of the council of title holders. In examples (7)-(9) below, Fa`aonu`u, an orator who is lower ranking than Moe`ono and yet he is not supporting the latter's proposed punishment of two subvillages for not showing up for a meeting, keeps using thewe-all-exclusive *mākou*, indexing that what he is saying is not an opinion shared by all (as *kākou*would indicate) but a thought coming just from him or from one of the groups he could be representing.  
+Even though the inclusive "we" outnumbers the exclusive "we" almost four times, the number of exclusive "we" in the April 7, 1979 meeting is still notable, especially because they start to appear when members of the council offer an opinion – framed as an advice – that might not go along with what proposed by other powerful members of the council, like the Senior Orator Moe\`ono, the de facto chairman of the council of title holders. In examples (7)-(9) below, Fa\`aonu\`nu, an orator who is lower ranking than Moe\`ono and yet he is not supporting the latter's proposed punishment of two subvillages for not showing up for a meeting, keeps using thewe-all-exclusive *mākou*, indexing that what he is saying is not an opinion shared by all (as *kākou*would indicate) but a thought coming just from him or from one of the groups he could be representing.  
 
-Example (7)-(9) from April 7, 1979, fono in Falefā, `Upolu. Speaker: the orator Fa`aonu`u. 
+Example (7)-(9) from April 7, 1979, fono in Falefā, \`Upolu. Speaker: the orator Fa\`aonu`u. 
 
 (7)       480      *`o gai o **mākou** māfaufauga ia*
 
