@@ -282,222 +282,215 @@ One promising example of AI supporting dialogic reflection through awareness-rai
 
 ### Consciousness, Self-Modeling, and Digital Reflection
 
-At this point, I'd like to take a slight side-step and consider the work of one of the previous residents of the Paris Institute for Advanced Study. I became particularly interested in the work of Daniel Yon, whose research on consciousness and self-perception intersects provocatively with questions of dialogic reflection, after checking out previous academic fellows. Yon's book explores how the brain actively constructs our perceptions, judgments about others, and beliefs about ourselves---a recursive, self-referential process that illuminates the deeply reflective nature of consciousness itself.
+At this point, I'd like to take a slight side-step and consider the work of one of the previous residents of the Paris Institute for Advanced Study. I became particularly interested in the work of Daniel Yon, whose research on consciousness and self-perception intersects provocatively with questions of dialogic reflection, after checking out previous academic fellows. Yon's book explores how the brain actively constructs our perceptions, judgments about others, and beliefs about ourselves–a recursive, self-referential process that illuminates the deeply reflective nature of consciousness itself.
 
-Yon's research reveals three interconnected levels of reflection that demonstrate how profoundly our minds turn inward on themselves. First, metacognitive self-modelling: the mind doesn't just receive or perceive; it monitors its own perceptual processes, continuously evaluates the reliability of its own judgments, and forms theories about itself while simultaneously modelling the inner mental states of others. This self-modelling isn't static---we articulate and build models of ourselves and the world around us that shape our perceptions, actions, and decisions, but these models remain perpetually open to revision.
+Yon's research reveals three interconnected levels of reflection that demonstrate how profoundly our minds turn inward on themselves. First, metacognitive self-modelling: the mind doesn't just receive or perceive; it monitors its own perceptual processes, continuously evaluates the reliability of its own judgments, and forms theories about itself while simultaneously modelling the inner mental states of others. This self-modelling isn't static–we articulate and build models of ourselves and the world around us that shape our perceptions, actions, and decisions, but these models remain perpetually open to revision.
 
-Secondly, self-perception is an active construction: Yon reveals that our sense of self isn't passively received but actively constructed. The beliefs we form about ourselves are not direct observations but theoretical constructions by our predictive brain. Self-reflection, then, isn't just thinking about a fixed self---it's participating in the ongoing construction of that self. This ties explicitly back to the notions of reflexivity and self that we explored in an earlier section. In other words, Yon's work connects powerfully to dialogic reflection's emphasis on meaning-making through interaction: just as understanding emerges through dialogue with others, self-understanding emerges through internal dialogue, where different aspects of consciousness engage each other.
+Secondly, self-perception is an active construction: Yon reveals that our sense of self isn't passively received but actively constructed. The beliefs we form about ourselves are not direct observations but theoretical constructions by our predictive brain. Self-reflection, then, isn't just thinking about a fixed self–it's participating in the ongoing construction of that self. This ties explicitly back to the notions of reflexivity and self that we explored in an earlier section. In other words, Yon's work connects powerfully to dialogic reflection's emphasis on meaning-making through interaction: just as understanding emerges through dialogue with others, self-understanding emerges through internal dialogue, where different aspects of consciousness engage each other.
 
-Thirdly, the uncertainty of self-knowledge: Yon's work explores how uncertainty is a fundamental part of the human experience. This suggests that genuine self-reflection must grapple with the fundamental uncertainty of self-knowledge---we can never be entirely sure our self-models are accurate. We are always in a process of becoming and emerging (Edge, 2002). The deeply reflective nature of consciousness, according to Yon, lies not in achieving perfect self-knowledge, but in the ongoing, uncertain, predictive process by which the brain constructs both world and self simultaneously.
+Thirdly, the uncertainty of self-knowledge: Yon's work explores how uncertainty is a fundamental part of the human experience. This suggests that genuine self-reflection must grapple with the fundamental uncertainty of self-knowledge–we can never be entirely sure our self-models are accurate. We are always in a process of becoming and emerging (Edge, 2002). The deeply reflective nature of consciousness, according to Yon, lies not in achieving perfect self-knowledge, but in the ongoing, uncertain, predictive process by which the brain constructs both world and self simultaneously.
 
 Yon's position that it is very difficult for us to take into account what others are saying (because we're always filtering through our predictive models) has profound implications for dialogic reflection and probably reinforces the need to find spaces which are 'safe' and relatively non-face-threatening. It probably means that we need to slow things down. I think technology and digital tools have an important role to play here.
 
-Crucially, Yon considers that the same applies to how we "listen" to ourselves---our internal dialogue is similarly filtered through predictive models that can distort what we actually think we're thinking. This suggests that the value of external dialogue partners---whether human interlocutors, recorded conversations we can revisit, or even AI systems---may lie partly in disrupting our predictive models, creating what we might call "cognitive distance" from our own thinking (Yon, 2025). It may also point to the value of recording in some form (e.g., journals, podcasting) so that we can reflect on different versions or articulations in diachronic ways. This is precisely the kind of process that the Noticing platform seeks to promote (see Oncevska Ager, 2024).
+Crucially, Yon considers that the same applies to how we "listen" to ourselves–our internal dialogue is similarly filtered through predictive models that can distort what we actually think we're thinking. This suggests that the value of external dialogue partners–whether human interlocutors, recorded conversations we can revisit, or even AI systems–may lie partly in disrupting our predictive models, creating what we might call "cognitive distance" from our own thinking (Yon, 2025). It may also point to the value of recording in some form (e.g., journals, podcasting) so that we can reflect on different versions or articulations in diachronic ways. This is precisely the kind of process that the Noticing platform seeks to promote (see Oncevska Ager, 2024).
 
 Writing this article at the end of 2025, Yon's recent ideas seem particularly resonant:
 
-And the solution that psychologists and neuroscientists have kind of landed on is that we should change our minds when the world around us seems to be changing. That there's a sense in which if the world seems stable and predictable, we should stick with what we know because the world's stable and say the past is gonna be a good predictor of the present and the future. But if we think that the world is changing, if we find ourselves living through volatile or unstable times, that should make our points of view and our perspectives and our models and our predictions more flexible (Yon, 2023).
+> And the solution that psychologists and neuroscientists have kind of landed on is that we should change our minds when the world around us seems to be changing. That there's a sense in which if the world seems stable and predictable, we should stick with what we know because the world's stable and say the past is gonna be a good predictor of the present and the future. But if we think that the world is changing, if we find ourselves living through volatile or unstable times, that should make our points of view and our perspectives and our models and our predictions more flexible (Yon, 2023).
 
-This insight resonates powerfully with our current moment. Living in uncertain and changeable times requires finding ways to innovate and explore flexibly---precisely what dialogic reflection enables. Digital environments, despite their limitations, offer affordances for this flexible exploration: the capacity to revisit and revise, to maintain multiple perspectives simultaneously, to trace threads across time, and to disrupt our own predictive models through engagement with diverse voices. The question isn't whether digital tools can replicate face-to-face dialogue, but how they can support distinctively valuable forms of reflective engagement that complement and extend our dialogic capacities.
+This insight resonates powerfully with our current moment. Living in uncertain and changeable times requires finding ways to innovate and explore flexibly–precisely what dialogic reflection enables. Digital environments, despite their limitations, offer affordances for this flexible exploration: the capacity to revisit and revise, to maintain multiple perspectives simultaneously, to trace threads across time, and to disrupt our own predictive models through engagement with diverse voices. The question isn't whether digital tools can replicate face-to-face dialogue, but how they can support distinctively valuable forms of reflective engagement that complement and extend our dialogic capacities.
 
-## Conclusion: Digital Dialogic Possibilities
+### Conclusion: Digital Dialogic Possibilities
 
 Returning to our current question: How might digital environments support dialogic reflection? The evidence suggests that digital tools create qualitatively different dialogic possibilities rather than simply replicating or replacing face-to-face interaction. These possibilities include: temporal threading that maintains conversational continuity across episodes (especially in podcasts); multimodal representation enabling expression through varied semiotic resources; asynchronous engagement allowing deliberative reflection alongside immediate response; preservation enabling return and revision; and collaborative archiving where shared conversational history becomes a resource for ongoing meaning-making.
 
-Yet these affordances only materialize dialogically when implementation attends to the fundamental principles we've explored throughout: structures that invite rather than prescribe, interactions that privilege process over product, environments that create psychological safety, and frameworks that maintain openness to multiple perspectives. Technology, like teaching methodology, offers architecture for dialogue but can not compel authentic engagement. The digital environment becomes dialogic not through its features but through how we inhabit it---approaching screens and devices with the same curiosity, generosity, and genuine uncertainty we would bring to face-to-face conversation. In Yon's terms, we must recognize that our engagement with digital tools is filtered through our predictive models, and part of dialogic reflection involves questioning those very models, including our assumptions about what technology can and can not do for our thinking.
+Yet these affordances only materialize dialogically when implementation attends to the fundamental principles we've explored throughout: structures that invite rather than prescribe, interactions that privilege process over product, environments that create psychological safety, and frameworks that maintain openness to multiple perspectives. Technology, like teaching methodology, offers architecture for dialogue but can not compel authentic engagement. The digital environment becomes dialogic not through its features but through how we inhabit it–approaching screens and devices with the same curiosity, generosity, and genuine uncertainty we would bring to face-to-face conversation. In Yon's terms, we must recognize that our engagement with digital tools is filtered through our predictive models, and part of dialogic reflection involves questioning those very models, including our assumptions about what technology can and can not do for our thinking.
 
-# Dialogue Four: What is the relationship between intrapersonal and interpersonal dimensions of reflection?
+## Dialogue Four: What is the relationship between intrapersonal and interpersonal dimensions of reflection?
 
 The most intriguing aspect of dialogic reflection may be how intrapersonal and interpersonal dimensions interpenetrate rather than exist as separate domains. In many ways, this is the central question and central contribution of this article. Consequently, I devote more attention to this question and include several types of data in considering its manifestation and importance. Perhaps a starting point is to say that inner dialogue prepares us for outer dialogue, while outer dialogue enriches and complicates our inner conversations. The voices we internalize from external dialogues become part of our internal dialogic repertoire, while our internal processing shapes how we engage in external conversation. We saw this in Matt's data above, where the ideas and comments from Holliday and Yoshira are heard, internally processed and then recycled for collaborative and interpersonal reflection at a later date. This reciprocal relationship suggests that the boundary between "self" and "other" in reflective practice is more permeable than traditional models acknowledge.
 
-The distinction between monologic and dialogic reflection extends to understanding how dialogic processes operate both as inner conversations and as interactive exchanges with others. While I have articulated this intrapersonal-interpersonal relationship in conventional academic discourse throughout this article, the distinction itself resists purely analytical treatment. The following paired poems attempt to capture what theoretical prose sometimes struggles to convey: the lived experience of dialogue as simultaneously an internal process of conversing with earlier selves and an external process of meaning-making with others. These verses represent an experiment in whether poetic form might offer insights that complement---or perhaps exceed---what traditional academic representation can accomplish. I return to questions of representation and alternative forms of scholarly expression in the article's final section, where I explore the relative freedom that postmodern and autoethnographic approaches might provide. Ok -- on a for what it's worth basis:
+The distinction between monologic and dialogic reflection extends to understanding how dialogic processes operate both as inner conversations and as interactive exchanges with others. While I have articulated this intrapersonal-interpersonal relationship in conventional academic discourse throughout this article, the distinction itself resists purely analytical treatment. The following paired poems attempt to capture what theoretical prose sometimes struggles to convey: the lived experience of dialogue as simultaneously an internal process of conversing with earlier selves and an external process of meaning-making with others. These verses represent an experiment in whether poetic form might offer insights that complement–or perhaps exceed–what traditional academic representation can accomplish. I return to questions of representation and alternative forms of scholarly expression in the article's final section, where I explore the relative freedom that postmodern and autoethnographic approaches might provide. Ok – on a for what it's worth basis:
 
-**Inner Dialogue**
+> **Inner Dialogue**
+>
+> With my earlier selves, in the here and now, I ponder and 'speak',\
+> In cycles, turning positions and statements round and round,\
+> Where meanings shift and new perspectives creep\
+> Through conversations but with no outward sound.
+>
+> I question why, then question why I question,\
+> Chiselling edges, I thought were solid as Rodin's stone
+> Each response births another small shoot or seed,\
+> Echoes of others' voices, I'm never really alone.
+>
+> **Outer Dialogue**
+>
+> Between your thoughts and mine, we meet and speak, 
+> In spaces where our different voices resonate as sound 
+> Where meanings merge, as new insights spin
+> Together, our conversations weaving all around.
+>
+> You offer new threads, I weave them with my own, 
+> Co-creating fresh collages from words we've sown
+> Each exchange shapes the composite of our emerging canvas, 
+> In dialogue, together we've grown.
 
-With my earlier selves, in the here and now, I ponder and 'speak',\
-In cycles, turning positions and statements round and round,\
-Where meanings shift and new perspectives creep\
-Through conversations but with no outward sound.
+These poems attempt to articulate through metaphor and rhythm what the intrapersonal-interpersonal distinction means in practice to me. The first poem emphasizes temporal dialogue–the ongoing conversation with "my earlier selves, in the here and now"–where past positions become resources for present reflection. The second foregrounds spatial dialogue–meeting in "spaces where our different voices resonate as sound"–where meaning emerges through interaction with others. Yet both poems resist clean separation: inner dialogue is never "really alone," while outer dialogue involves "weaving" threads with "my own" perspectives.
 
-I question why, then question why I question,\
-Chiselling edges, I thought were solid as Rodin's stone
+I recognize this poetic representation introduces methodological tensions. Does the shift to verse help readers grasp the simultaneity of inner and outer dialogue in ways that analytical prose can not? Or does the dramatic, almost mystical quality of poetic language obscure rather than illuminate? I confess ambivalence about this form of representation–what Oakley (1981) might call "resistance" to departing from conventional academic discourse. Yet this very resistance raises important questions: If dialogic reflection genuinely values multiple voices and ways of knowing, must our representations of research embrace corresponding multiplicity? Can scholarly writing maintain intellectual rigour while incorporating forms traditionally excluded from academic discourse? These questions return us to the article's final exploration of how we represent dialogic reflection itself.
 
-Each response births another small shoot or seed,\
-Echoes of others' voices, I'm never really alone.
-
-**Outer Dialogue**
-
-Between your thoughts and mine, we meet and speak, 
-
-In spaces where our different voices resonate as sound 
-
-Where meanings merge, as new insights spin
-
-Together, our conversations weaving all around.
-
-You offer new threads, I weave them with my own, 
-
-Co-creating fresh collages from words we've sown
-
-Each exchange shapes the composite of our emerging canvas, 
-
-In dialogue, together we've grown.
-
-These poems attempt to articulate through metaphor and rhythm what the intrapersonal-interpersonal distinction means in practice to me. The first poem emphasizes temporal dialogue---the ongoing conversation with "my earlier selves, in the here and now"---where past positions become resources for present reflection. The second foregrounds spatial dialogue---meeting in "spaces where our different voices resonate as sound"---where meaning emerges through interaction with others. Yet both poems resist clean separation: inner dialogue is never "really alone," while outer dialogue involves "weaving" threads with "my own" perspectives.
-
-I recognize this poetic representation introduces methodological tensions. Does the shift to verse help readers grasp the simultaneity of inner and outer dialogue in ways that analytical prose can not? Or does the dramatic, almost mystical quality of poetic language obscure rather than illuminate? I confess ambivalence about this form of representation---what Oakley (1981) might call "resistance" to departing from conventional academic discourse. Yet this very resistance raises important questions: If dialogic reflection genuinely values multiple voices and ways of knowing, must our representations of research embrace corresponding multiplicity? Can scholarly writing maintain intellectual rigour while incorporating forms traditionally excluded from academic discourse? These questions return us to the article's final exploration of how we represent dialogic reflection itself.
-
-Perhaps it is worth making one additional point; the text or artefact (whether poem, video, metaphor, framework, visualisation) becomes an externalised version of our emerging and target meanings. It gets revised and worked on. In applied linguistics, we might distinguish between intended meaning (the writer's mental representation of what they wish to communicate) and realized meaning (what the current text actually inscribes). While Flower and Hayes' (1981) writer-based/reader-based distinction concerns adapting text for audience comprehension, Bereiter and Scardamalia's (1987) knowledge-transforming model better captures the writer-text dialogue: writing becomes a dialectic between content space (what I want to say) and rhetorical space (what the text currently says). From a dialogic perspective, this relationship is not linear but recursive---the emerging text talks back to the writer, revealing meanings not originally intended while simultaneously falling short of target meanings. Externalizing thought makes it available for interrogation. Each revision represents a 'turn' in this writer-text dialogue, with meaning neither fully present in intention nor in inscription but emerging through their ongoing negotiation. The gap between intended and realized meaning is thus generative rather than problematic---each draft is a dialogic turn through which meaning progressively emerges and transforms.
+Perhaps it is worth making one additional point; the text or artefact (whether poem, video, metaphor, framework, visualisation) becomes an externalised version of our emerging and target meanings. It gets revised and worked on. In applied linguistics, we might distinguish between intended meaning (the writer's mental representation of what they wish to communicate) and realized meaning (what the current text actually inscribes). While Flower and Hayes' (1981) writer-based/reader-based distinction concerns adapting text for audience comprehension, Bereiter and Scardamalia's (1987) knowledge-transforming model better captures the writer-text dialogue: writing becomes a dialectic between content space (what I want to say) and rhetorical space (what the text currently says). From a dialogic perspective, this relationship is not linear but recursive–the emerging text talks back to the writer, revealing meanings not originally intended while simultaneously falling short of target meanings. Externalizing thought makes it available for interrogation. Each revision represents a 'turn' in this writer-text dialogue, with meaning neither fully present in intention nor in inscription but emerging through their ongoing negotiation. The gap between intended and realized meaning is thus generative rather than problematic–each draft is a dialogic turn through which meaning progressively emerges and transforms.
 
 Beyond poetry, there is always this relationship between the self and other, between thought and expression of thought, between impetus and articulated versions. In professional development, therapy, and educational settings, this interplay allows for nuanced, flexible thinking. Rather than seeking simple solutions, dialogic reflection embraces complexity and ambiguity, recognizing that understanding develops through ongoing questioning and exploration. This section explores how dialogic reflection operates across temporal boundaries and through conversations with other researchers, using an extended example from qualitative interview research to illuminate these processes.
 
-## A story and group development
+### A story and group development
 
 The temporal and interpersonal dimensions of dialogic reflection become visible when we examine how stories, metaphors, and frameworks operate as shared resources that persist and resonate across conversations. The following transcript excerpt from a group discussion captures this dynamic in action, revealing not one but multiple layers of dialogic engagement. The exchange demonstrates what Bakhtin meant by heteroglossia: participants think with and through voices, stories, and metaphors that originated externally or from shared experiences but have become part of their internal dialogic repertoire.
 
-1                Harry    a story got- I mean more on stories cos it's- it's sort
-
-2                            of tied in but I remember it quite distinctly it's in
-
-3                            Disney it in Epcot I think in in ° America° but the only
-
-4                            thing I took back from there, *with any memory of great*
-
-5                            *affection I have to say* and it's dead simple you
-
-6            Nicholas    =from what
-
-7                Harry    with any affection (.) the memory of this is the only
-
-8                            thing I thought I saw in the whole of Disney that
-
-9                            left any thing apart from God it's plastic=
-
-10                                   \[     ]
-
-11          Nicholas             I'm sorry
-
-12             Robert    =*ha ha ha HA ha*
-
-13          Nicholas    [*ha ha ha ha ha::::*
-
-14              Harry    sorry to say it but this really got to me (.) and
-
-15                          it's simple (.) there are two- (.) there are some bars (.) one's
-
-16                          warm and one's cool (.) and you put your hands
-
-17                          on °on° these two things (.) and err okay there's no 
-
-18                          problem at all and now he says NOW transfer 
-
-19                          your hands to this thing in the middle where
-
-20                          you've got a selection of the bars, (.) thinner bars. (.) and
-
-21                          you put your hands out (.) and the first response is
-
-22                          it's BURNing (.) you think your hands- and
-
-23                          you've >just put it on a red hot je-< awff - va
-
-24                          and he say NO (.) all that's in the middle are
-
-25                          these two bars (.) the cold ones and the warm
-
-26                          ones (.) but when you put them together the 
-
-27                          body can't distinguish (.) the senses CAN not 
-
-28                          distinguish between- it confuses the senses and
-
-29                          the message it gives is it's burning (.) and the
-
-30                          interesting thing there is (.) and this >turning<
-
-31                          to knowledge >w- just talking about< (.) you can
-
-32                          know that (.) but the effort it takes when you KNOW
-
-33                          that to say okay THIS time I'm going to put my hands
-
-34                          on there and leave- you can do it (.) or at least I find
-
-35                          that I can do it and then I gave up with Ethel who was (.)
-
-36          Nicholas      [ *ha ha* (             )
-
-37              Harry    determined it- didn't care what she KNEW he hands
-
-38                          knew something different and they would come off
-
-39             Robert    *ha ha ha*
-
-40              Harry    and the wonderful thing ab- sometimes KNOWing
-
-41                          it isn't quite enough (.) that the visceral thing
-
-42                          is just sort of (          ) even more powerful
-
-43          Nicholas      [ mmm mmm
-
-44              Harry             [so there's an interesting (.) in terms
-
-45                          of all that you were saying about connections there's
-
-46                          an interesting ((claps his hands three times in short
-
-47                          succession)) (0.8) touching point there
-
-48             Robert    that's very strong yeah=
-
-49              Harry    =yeah I remember that distinctly (.) wffff
-
-50             Robert    I must say when I was listening to Elizabeth (.) I
-
-51                          was trying to pay attention to what she was
-
-52                          saying but at so- all the time it was- er- triggering
-
-53                          similar little stories in passing and so forth
-
-54              Harry           [ *ha ha ha*
-
-55             Robert    in m- in my mind yeah? (.) and under gossipy 
-
-56                          circumstances you'd say '"OH" yes I'll tell you 
-
-57                          about °mine°'
-
-58          Nicholas    [*ha ha*
-
-59              Harry      [yeah yeah yeah
-
-60         Elizabeth    but then earlier you were saying about we ARE the stories
-
-61                          (2.2)
-
-62             Robert    yes
-
-63         Elizabeth    [ermmm
-
-64             Robert    but     
-
-65         Elizabeth    [this struck loads of Resonances with me as well
-
-66                          (.) we are the stories we tell (.) Halliday says we are
-
-67                          what we mean
-
-68             Robert    that's (        ) way
-
-69         Elizabeth    is it- is that the quote? (.) I- a person is what he means
-
-70                          (.) from Halliday
-
-71                          (1.2)
-
-72          Nicholas    it fits (.) it makes sense I don't recognise
+> 1                Harry    a story got- I mean more on stories cos it's- it's sort
+>
+> 2                            of tied in but I remember it quite distinctly it's in
+>
+> 3                            Disney it in Epcot I think in in ° America° but the only
+>
+> 4                            thing I took back from there, *with any memory of great*
+>
+> 5                            *affection I have to say* and it's dead simple you
+>
+> 6            Nicholas    =from what
+>
+> 7                Harry    with any affection (.) the memory of this is the only
+>
+> 8                            thing I thought I saw in the whole of Disney that
+>
+> 9                            left any thing apart from God it's plastic=
+>
+> 10                                   \[     ]
+>
+> 11          Nicholas             I'm sorry
+>
+> 12             Robert    =*ha ha ha HA ha*
+>
+> 13          Nicholas    [*ha ha ha ha ha::::*
+>
+> 14              Harry    sorry to say it but this really got to me (.) and
+>
+> 15                          it's simple (.) there are two- (.) there are some bars (.) one's
+>
+> 16                          warm and one's cool (.) and you put your hands
+>
+> 17                          on °on° these two things (.) and err okay there's no 
+>
+> 18                          problem at all and now he says NOW transfer 
+>
+> 19                          your hands to this thing in the middle where
+>
+> 20                          you've got a selection of the bars, (.) thinner bars. (.) and
+>
+> 21                          you put your hands out (.) and the first response is
+>
+> 22                          it's BURNing (.) you think your hands- and
+>
+> 23                          you've >just put it on a red hot je-< awff - va
+>
+> 24                          and he say NO (.) all that's in the middle are
+>
+> 25                          these two bars (.) the cold ones and the warm
+>
+> 26                          ones (.) but when you put them together the 
+>
+> 27                          body can't distinguish (.) the senses CAN not 
+>
+> 28                          distinguish between- it confuses the senses and
+>
+> 29                          the message it gives is it's burning (.) and the
+>
+> 30                          interesting thing there is (.) and this >turning<
+>
+> 31                          to knowledge >w- just talking about< (.) you can
+>
+> 32                          know that (.) but the effort it takes when you KNOW
+>
+> 33                          that to say okay THIS time I'm going to put my hands
+>
+> 34                          on there and leave- you can do it (.) or at least I find
+>
+> 35                          that I can do it and then I gave up with Ethel who was (.)
+>
+> 36          Nicholas      [ *ha ha* (             )
+>
+> 37              Harry    determined it- didn't care what she KNEW he hands
+>
+> 38                          knew something different and they would come off
+>
+> 39             Robert    *ha ha ha*
+>
+> 40              Harry    and the wonderful thing ab- sometimes KNOWing
+>
+> 41                          it isn't quite enough (.) that the visceral thing
+>
+> 42                          is just sort of (          ) even more powerful
+>
+> 43          Nicholas      [ mmm mmm
+>
+> 44              Harry             [so there's an interesting (.) in terms
+>
+> 45                          of all that you were saying about connections there's
+>
+> 46                          an interesting ((claps his hands three times in short
+>
+> 47                          succession)) (0.8) touching point there
+>
+> 48             Robert    that's very strong yeah=
+>
+> 49              Harry    =yeah I remember that distinctly (.) wffff
+>
+> 50             Robert    I must say when I was listening to Elizabeth (.) I
+>
+> 51                          was trying to pay attention to what she was
+>
+> 52                          saying but at so- all the time it was- er- triggering
+>
+> 53                          similar little stories in passing and so forth
+>
+> 54              Harry           [ *ha ha ha*
+>
+> 55             Robert    in m- in my mind yeah? (.) and under gossipy 
+>
+> 56                          circumstances you'd say '"OH" yes I'll tell you 
+>
+> 57                          about °mine°'
+>
+> 58          Nicholas    [*ha ha*
+>
+> 59              Harry      [yeah yeah yeah
+>
+> 60         Elizabeth    but then earlier you were saying about we ARE the stories
+>
+> 61                          (2.2)
+>
+> 62             Robert    yes
+>
+> 63         Elizabeth    [ermmm
+>
+> 64             Robert    but     
+>
+> 65         Elizabeth    [this struck loads of Resonances with me as well
+>
+> 66                          (.) we are the stories we tell (.) Halliday says we are
+>
+> 67                          what we mean
+>
+> 68             Robert    that's (        ) way
+>
+> 69         Elizabeth    is it- is that the quote? (.) I- a person is what he means
+>
+> 70                          (.) from Halliday
+>
+> 71                          (1.2)
+>
+> 72          Nicholas    it fits (.) it makes sense I don't recognise
 
 Several features of this exchange illuminate the intrapersonal-interpersonal relationship. First, the temporal complexity: Harry recalls a specific story ('I remember the only thing I took back from there was the only memory of great conversations we had'), and he signals that he has a story in line 1. This is a story that I have heard Harry tell a number of times over the years. It's probably a story has been told many times before. Each time it is shaped to a slightly different context or intended meaning. Apart, from some trouble sources and repair (lines 6-13), it is clear how this is story is, while Nicholas references past discussions that have become present resources to be evaluated (e.g. on line 48) and reacted to (e.g., on line 65). The story also gets connected to a theory (e.g., Halliday on line 69). Stories and frameworks, etc., don't simply pass through conversation but stick, resonate, and become available for future dialogic engagement. Robert's comment---'that's very strong yeah'---marks recognition that certain stories achieve particular resonance, becoming especially productive resources for ongoing reflection.
 
