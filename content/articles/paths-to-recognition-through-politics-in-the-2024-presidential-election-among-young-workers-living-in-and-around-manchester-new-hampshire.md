@@ -245,112 +245,15 @@ This position of "independent" could very well be particularly popular in the st
 
 ## DECLARED VOTING PREFERENCES AND ATTITUDES TOWARD EXCLUSION AND INCLUSION
 
-To add nuance to our analysis, we compared the distribution of exclusive (particularistic) and inclusive (universalist) common-sense orientations among our respondents based on their declared voting intention in the 2024 elections (as Democrats, Republicans, and those who self-described as undecided, independents, or who said they abstained). More specifically, we consider both their views about the redistribution of resources and about symbolic membership, while acknowledging that supporting the former often entails supporting the latter.[^^\[10]^^](file:///Users/alexcano86/Desktop/Lamont%20et%20al..html#_edn10) We find that the perspectives of Democrats and Republicans are less polarized than the standard literature suggests, which is in line with recent analysis of the emotional polarization in the American political landscape (Richardson, 2025; Gidron et al., 2020): surprisingly fewer self-identified Republican interviewees than expected upheld openly exclusionary attitudes when it comes to the symbolic membership of immigrants, LBGTQ+, and ethnoracial minorities.  
+To add nuance to our analysis, we compared the distribution of exclusive (particularistic) and inclusive (universalist) common-sense orientations among our respondents based on their declared voting intention in the 2024 elections (as Democrats, Republicans, and those who self-described as undecided, independents, or who said they abstained). More specifically, we consider both their views about the redistribution of resources and about symbolic membership, while acknowledging that supporting the former often entails supporting the latter.[^10] We find that the perspectives of Democrats and Republicans are less polarized than the standard literature suggests, which is in line with recent analysis of the emotional polarization in the American political landscape (Richardson, 2025; Gidron et al., 2020): surprisingly fewer self-identified Republican interviewees than expected upheld openly exclusionary attitudes when it comes to the symbolic membership of immigrants, LBGTQ+, and ethnoracial minorities.  
 
 Participants were coded as in favor of exclusion (particularism) when they supported limiting the distribution of resources to "people like us," as opposed to fostering solidarity with/inclusion of outgroups. These individuals regard differences in race/ethnicity, gender, sexuality, etc., as something to overcome or erase, rather than to embrace. Participants were also coded as favoring exclusion in symbolic membership if they promoted giving full cultural citizenship to a small circle of people who share their own characteristics, as citizens, nationality, long-time residents of the United States, members of their own ethno-racial or sexual identity group (e.g., cisgender people), etc. They favor drawing boundaries based on birth and other ascribed characteristics (phenotypes) rather than on criteria available to all.
 
-Respondents were coded as in favor of inclusion (universalism) in the redistribution of resources if they voiced positive opinions concerning the desirability of redistributing resources to outgroup members/minoritized groups, including lower income groups; facilitating greater access to jobs/healthcare; broadening access to legal citizenship; and broadening other rights such as voting rights. Examples include expressing support for affirmative action policies; facilitating access to social safety net to more people; the right to abortion, and other inclusive policies. These orientations aim to make resources (jobs, housing, and others) available to everyone, regardless of race/ethnicity, gender, sexuality, income/class, etc. Participants were also coded as in favor of inclusion when they expressed their support for symbolic recognition of different racial/ethnic, gender, sexual, immigrant, identities -- i.e., whether people of different identities can be recognized as "proper Americans," or as "good people" more broadly. These individuals downplay moral/cultural boundaries in describing what groups share *in[ common](http://common.in/)*[.](http://common.in/)  
+Respondents were coded as in favor of inclusion (universalism) in the redistribution of resources if they voiced positive opinions concerning the desirability of redistributing resources to outgroup members/minoritized groups, including lower income groups; facilitating greater access to jobs/healthcare; broadening access to legal citizenship; and broadening other rights such as voting rights. Examples include expressing support for affirmative action policies; facilitating access to social safety net to more people; the right to abortion, and other inclusive policies. These orientations aim to make resources (jobs, housing, and others) available to everyone, regardless of race/ethnicity, gender, sexuality, income/class, etc. Participants were also coded as in favor of inclusion when they expressed their support for symbolic recognition of different racial/ethnic, gender, sexual, immigrant, identities -- i.e., whether people of different identities can be recognized as "proper Americans," or as "good people" more broadly. These individuals downplay moral/cultural boundaries in describing what groups share *in common*.  
 
-**Table \*\***6* ***Declared Voting Preferences by Inclusive and Exclusive Attitudes about Redistribution and Symbolic Membership***
+**Table 6 Declared Voting Preferences by Inclusive and Exclusive Attitudes about Redistribution and Symbolic Membership***
 
-\|  |
-
-**Attitudes toward Redistribution**
-
-\|
-
-**Attitudes toward Symbolic Membership**
-
-\|
-|
-
-**Voting in 2024***
-
-\|
-
-**Exclusive**
-
-\|
-
-**Inclusive**
-
-\|
-
-**Exclusive**
-
-\|
-
-**Inclusive**
-
-\|
-|
-
-Democratic Party  
-
-\|
-
-0/8 **(0%)**
-
-\|
-
-5/8 **(63%)**
-
-\|
-
-1/8 **(13%)**
-
-\|
-
-5/8 **(63%)**
-
-\|
-|
-
-Republican Party  
-
-\|
-
-12/15 **(80%)**
-
-\|
-
-0/15 **(0%)**
-
-\|
-
-4/15 **(27%)**
-
-\|
-
-7/15 **(47%)**
-
-\|
-|
-
-Undecided, independent or  abstained 
-
-\|
-
-9/20 **(45%)**
-
-\|
-
-10/20 **(50%)**
-
-\|
-
-3/20 **(15%)**
-
-\|
-
-14/20 **(70%)**
-
-\|
-|
-
-* Percentages reported in this table only capture the respondents who actively used inclusive and exclusive language, which is why percentages do not add up to 100 percent. Inclusive and exclusive orientations about redistribution and issues of symbolic membership were largely derived from participants' responses to interview questions concerning views of American society, satisfaction/ dissatisfactions with the US political system, whether respondents are engaged in politics, whether they experienced discrimination, and their attitudes toward groups of immigrants, gender identities, racial/ethnic identities, and class groups. This table excludes the two respondents who would not reveal who they voted for.
-
-\|
+![](/static/table6_lamont.png)
 
 As shown in Table 5, many Republican respondents (12 out of 15 or 80 percent) expressed exclusive attitudes about redistribution, and most of their concerns were about access to jobs and government benefits. For example, when asked if it is the government's role to support the homeless, a 28-year-old general manager said, "I don't think that's the actual government's job, no." Also condemning welfare dependency, a 28-year-old childcare worker, said:
 
