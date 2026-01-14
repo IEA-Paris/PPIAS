@@ -103,15 +103,15 @@ Early 20^th^ century Manchester was also the center for important working-class
 
 Despite plans for urban renewal and job development, workers in the region have largely been left behind. While Manchester's manufacturing sector decreased in significance to 15 percent of its economic output since 2000 (NHES 2024), it is still the city's second-largest employment sector. In 2019, the city's largest employers were concentrated in hospitals and universities, in the health, social assistance, and education industries (Manchester Economic Development Office, 2024). The service sector is its fourth largest industry after manufacturing, and service workers are the lowest paid in the city, at an average of about $750 per week as of 2023 (NHES, 2024). Its poverty rate has fluctuated between a low of about nine percent in 2021 and a high of roughly 17 percent in 2016 (US Census, 2024).
 
-In the 2000s, Manchester engaged in a large urban renewal plan to bring in more tech jobs and entertainment to attract educated workers. Little of this plan attends to the needs of the New Hampshire working class, many of whom do not have bachelor's degrees, and work in retail, service, or blue collar industries. This plan drove up rent prices, burdening low-income residents [(Hayward, 2018b)](https://www.zotero.org/google-docs/?UlAO5j). Some of our interviewees discussed how gentrification exacerbates tensions between professionals, perceived as outsiders, and local workers. The combined high cost of energy, housing, childcare, and low wages is the reason why many working-class residents need to work multiple jobs to try to make ends meet [(Wilhelm & Simpson, 2023)](https://www.zotero.org/google-docs/?XdtuvH).
+In the 2000s, Manchester engaged in a large urban renewal plan to bring in more tech jobs and entertainment to attract educated workers. Little of this plan attends to the needs of the New Hampshire working class, many of whom do not have bachelor's degrees, and work in retail, service, or blue collar industries. This plan drove up rent prices, burdening low-income residents (Hayward, 2018b). Some of our interviewees discussed how gentrification exacerbates tensions between professionals, perceived as outsiders, and local workers. The combined high cost of energy, housing, childcare, and low wages is the reason why many working-class residents need to work multiple jobs to try to make ends meet (Wilhelm & Simpson, 2023).
 
-The local paper, the *New Hampshire Union Leader*, includes coverage of Manchester's working population on the challenges of making ends meet on low service-sector wages [(Hayward, 2016b)](https://www.zotero.org/google-docs/?eySIMj). A review of the "City Matters" section of the *Union Leader* going back to 2012 reveals several articles written about Manchester's opioid and homelessness crisis facing the city. The focus on this crisis is contextualized by the fact that, in the mid-2010s, the state had the highest fentanyl and opioid related deaths per capita in the nation [(Meier et al., 2020)](https://www.zotero.org/google-docs/?RnmWEx).
+The local paper, the *New Hampshire Union Leader*, includes coverage of Manchester's working population on the challenges of making ends meet on low service-sector wages (Hayward, 2016b). A review of the "City Matters" section of the *Union Leader* going back to 2012 reveals several articles written about Manchester's opioid and homelessness crisis facing the city. The focus on this crisis is contextualized by the fact that, in the mid-2010s, the state had the highest fentanyl and opioid related deaths per capita in the nation (Meier et al., 2020).
 
-# Methodology and Data
+## Methodology and Data
 
 We are concerned with how participants' perceptions about the recognition they receive from politicians and the broader society inform their views on politics. We draw on interviews to capture how they make sense of their situation. The inductive analysis of their narratives informs us about how they understand their experiences and project themselves into the future (Ayala Hurtado, 2025; Lamont & Swidler, 2014; Pugh, 2013). 
 
-We privilege level of education over income in defining membership in the working class because a college degree increasingly operates *de facto* as the basis for a socioeconomic caste system in American society (Williams, 2025). Those who don't have a college degree are excluded from most occupations that are associated with high income and high status. Members of this group have experienced a significant decline in their relative position and life chances over the last decades, at the same time as their productivity has increased.[^^\[4]^^](file:///Users/alexcano86/Desktop/Lamont%20et%20al..html#_edn4) Also, the life expectancy of non-college-graduates has declined by more than three years as compared to the college graduates between 1992 and 2021, amounting to a difference of 8 years between the two groups [(Case & Deaton, 2023)](https://www.zotero.org/google-docs/?ySfSyJ). Accordingly, using Gallup survey data from 2017 to 2021, Andersson and Hitlin (2023) show that "non-college graduates perceive a lack of dignity within their lives," which is associated with not having a college degree, and that this "dignity gap" is also associated with finance, work, and perceived control and "mattering to others." 
+We privilege level of education over income in defining membership in the working class because a college degree increasingly operates *de facto* as the basis for a socioeconomic caste system in American society (Williams, 2025). Those who don't have a college degree are excluded from most occupations that are associated with high income and high status. Members of this group have experienced a significant decline in their relative position and life chances over the last decades, at the same time as their productivity has increased.[^4] Also, the life expectancy of non-college-graduates has declined by more than three years as compared to the college graduates between 1992 and 2021, amounting to a difference of 8 years between the two groups (Case & Deaton, 2023). Accordingly, using Gallup survey data from 2017 to 2021, Andersson and Hitlin (2023) show that "non-college graduates perceive a lack of dignity within their lives," which is associated with not having a college degree, and that this "dignity gap" is also associated with finance, work, and perceived control and "mattering to others." 
 
 As shown in Table 1, about half of our interviewees (22 of the 45 participants) had a high school degree or GED as their highest level of education. Two participants had less than a high school degree. About a quarter (11 participants) had some college education, and about a quarter of the sample (10 participants) had earned an associate's degree or trade certificate.
 
@@ -119,399 +119,19 @@ Our interviews are roughly evenly split between men and women. Also, 32 out of 4
 
 Table 2 captures the interviewees' candidate preferences for the 2024 Presidential election. Those expressing support for Republican presidential candidate Donald Trump constitute the largest group (15), while about half as many expressed support for Democratic presidential candidates Joe Biden or Kamala Harris (8). Thirteen individuals said that they are undecided but planned to vote, and six said that they planned to abstain or had abstained. One respondent shared that they planned to vote for a third-party candidate. Two other respondents would not share for whom they had voted.
 
-**Table \*\***1***\* Level of Education of Respondents by their Types of Occupation**
+**Table 1 Level of Education of Respondents by their Types of Occupation**
 
-\|  |
+![](/static/table1_lamont.png)
 
-**Blue collar occupations**
+**Table 2 Candidate Preference of Participants by Gender and Race in the 2024 Presidential Election**
 
-\|
-
-**White collar occupations**
-
-\|  |
-|  |
-
-M
-
-\|
-
-F
-
-\|
-
-Total
-
-\|
-
-M
-
-\|
-
-F
-
-\|
-
-Total
-
-\|
-
-**Total**
-
-\|
-|
-
-**High school or less**
-
-\|
-
-9
-
-\|
-
-0
-
-\|
-
-**9**
-
-\|
-
-10
-
-\|
-
-5
-
-\|
-
-**15**
-
-\|
-
-**24 (53%)**
-
-\|
-|
-
-**Associate's or certificate** 
-
-\|
-
-3
-
-\|
-
-1
-
-\|
-
-**4**
-
-\|
-
-0
-
-\|
-
-6
-
-\|
-
-**6**
-
-\|
-
-**10 (22%)**
-
-\|
-|
-
-**Some college** 
-
-\|
-
-3
-
-\|
-
-0
-
-\|
-
-**3**
-
-\|
-
-2
-
-\|
-
-6
-
-\|
-
-**8**
-
-\|
-
-**11 (24%)**
-
-\|
-|
-
-**Total**
-
-\|
-
-15
-
-\|
-
-1
-
-\|
-
-**16 (36%)**
-
-\|
-
-12
-
-\|
-
-17
-
-\|
-
-**29 (64%)**
-
-\|
-
-**45**
-
-\|
-
-**Table \*\***2***\* Candidate Preference of Participants by Gender and Race in the 2024 Presidential Election**
-
-\|  |
-
-**Gender**
-
-\|
-
-**Race**
-
-\|  |
-|  |
-
-**Male**
-
-\|
-
-**Female**
-
-\|
-
-**White**
-
-\|
-
-**POC**
-
-\|
-
-**Total**
-
-\|
-|
-
-**Trump**
-
-\|
-
-11
-
-\|
-
-4
-
-\|
-
-13
-
-\|
-
-2
-
-\|
-
-**15**
-
-\|
-|
-
-**Harris/Biden**
-
-\|
-
-4
-
-\|
-
-4
-
-\|
-
-6
-
-\|
-
-2
-
-\|
-
-**8**
-
-\|
-|
-
-**Undecided***
-
-\|
-
-5
-
-\|
-
-8
-
-\|
-
-7
-
-\|
-
-6
-
-\|
-
-**13**
-
-\|
-|
-
-**Abstained, or may abstain**
-
-\|
-
-0
-
-\|
-
-6
-
-\|
-
-4
-
-\|
-
-2
-
-\|
-
-**6**
-
-\|
-|
-
-**Voted third party**
-
-\|
-
-1
-
-\|
-
-0
-
-\|
-
-1
-
-\|
-
-0
-
-\|
-
-**1**
-
-\|
-|
-
-**Undeclared**
-
-\|
-
-1
-
-\|
-
-1
-
-\|
-
-1
-
-\|
-
-1
-
-\|
-
-**2**
-
-\|
-|
-
-**Total**
-
-\|
-
-**22**
-
-\|
-
-**23**
-
-\|
-
-**32**
-
-\|
-
-**13**
-
-\|
-
-**45**
-
-\|
-|
-
-* This category includes both people who said they have not decided whether to vote (4) and said they plan to vote but don't know which candidate they plan to support (10). However, these categories are interrelated and difficult to fully distinguish.
-
-\|
-
-Interviewees were recruited randomly from in and around Manchester, New Hampshire. Details about recruitment, data collection, and interviewing can be found in Appendix 1 (online). To qualify for the study, individuals had to live or work in Greater Manchester;[^^\[5]^^](file:///Users/alexcano86/Desktop/Lamont%20et%20al..html#_edn5) be eligible to vote; be between 18 and 30 of age at the time of the interview; have no more than an associate vocational degree; not be currently pursuing a bachelor's degree; and work for at least for 20 hours a week in a blue collar job or a low-status white collar job in retail, services and office work. This includes feminized "pink collar" jobs (especially care work). Thus, participants work in a large variety of job types (across sectors) that include grocery stockers, nursing assistants, construction workers, childcare providers, retail clerks, and quality inspectors. Appendix 2 (online) provides the full list of respondents by occupation, age, race, and other characteristics.
+Interviewees were recruited randomly from in and around Manchester, New Hampshire. Details about recruitment, data collection, and interviewing can be found in Appendix 1 (online). To qualify for the study, individuals had to live or work in Greater Manchester;[^5] be eligible to vote; be between 18 and 30 of age at the time of the interview; have no more than an associate vocational degree; not be currently pursuing a bachelor's degree; and work for at least for 20 hours a week in a blue collar job or a low-status white collar job in retail, services and office work. This includes feminized "pink collar" jobs (especially care work). Thus, participants work in a large variety of job types (across sectors) that include grocery stockers, nursing assistants, construction workers, childcare providers, retail clerks, and quality inspectors. Appendix 2 (online) provides the full list of respondents by occupation, age, race, and other characteristics.
 
 # FOUR PATHWAYS TO RECOGNITION
 
 From the interview data, we inductively identified four pathways through which young working-class people relate to politics. These paths are described in Table 3, while Table 4 describes the distribution of respondents across these four paths by gender, race, and voting intentions. We locate respondents within the pathways based on a) their political participation and declared political leanings; b) their expressed "common sense political reasoning," with a focus on universalist "inclusive" perspectives and particularist "exclusive" perspectives -- i.e., how workers draw moral boundaries around politics, especially concerning whom they do and do not deem worthy of support (Lamont, 2000). This is informed by "people's sense of who they are, what they value in their lives, and how they believe they should relate to others." (Damhuis & Westheuser, 2024; Zollinger, 2022); c) how participants respond to stigmatization through politics; and d) whether they believe recognition can be affirmed through politics. Respondents often embraced more than one pathway during the interviews. They were coded taking a pathway if they made a statement invoking one of the four specified positions, independently of the frequency or emphasis with which they refer to the latter. This means that respondents can be simultaneously exclusive and inclusive (on different dimensions) and can take more than one pathway, and that pathways are not mutually exclusive. This is discussed in the last empirical section, where we consider how respondents hold both exclusive and inclusive positions concerning material redistribution and symbolic membership.
 
-**Table \*\***3***\* Four Pathways to Recognition**
+**Table \*\***3**\*\* Four Pathways to Recognition**
 
 \|  |
 
@@ -665,7 +285,7 @@ Put themselves above the fray and reserve their own judgment 
 
 \|
 
-**Table \*\***4***\* Pathways by Race, Gender, and Voting Intentions**
+**Table \*\***4**\*\* Pathways by Race, Gender, and Voting Intentions**
 
 \|  |
 
@@ -1318,7 +938,7 @@ In addition, a large group says that they avoid politics because they want to 
 
 To explore reactions to politics in depth, we asked participants about the words they associate with politics. The vast majority of participants provided words that were emotionally charged *and* general evaluative terms that were negative, often having to do with polarization or corruption.[^^\[8]^^](file:///Users/alexcano86/Desktop/Lamont%20et%20al..html#_edn8) As shown in Figure 1, answers to this question include only *five* positive terms ("freedom," "liberty," "patriotism," "equality," and "funny," each mentioned only once. In contrast, the long list of negative words include "pissing context," "ratchet", "old assholes", "stress (x3)," as well as ten words related to polarization (e.g. "power struggle," and "two-sided,") and sixteen words referring to corruption ("lies" (x2), "deceit" (x2), "corrupt" (x2), etc.).
 
-**Figure \*\***1***\*"What Words do you Associate with Politics?":  General and Specific Evaluation Terms**
+**Figure \*\***1**\*\*"What Words do you Associate with Politics?":  General and Specific Evaluation Terms**
 
 \|
 
@@ -3175,8 +2795,6 @@ High school
 Trump
 
 \|
-
-
 
 # Appendix 2: 
 
