@@ -203,7 +203,7 @@ Example (7)-(9) from April 7, 1979, fono in Falefā, \`Upolu. Speaker: the orato
 
                         'a few little thoughts of **ours-all-exclusive'**                            
 
-(8)       503      *fa`apea ai lea`o so **mākou** leo,*  ...
+(8)       503      *fa\`apea ai lea\`o so **mākou** leo,*  ...
 
                         'this is what **our-all-exclusive** voice'    
 
@@ -211,15 +211,15 @@ Example (7)-(9) from April 7, 1979, fono in Falefā, \`Upolu. Speaker: the orato
 
                         'Moe`ono, ... do look at (consider) the Lord and His work'       
 
-            505      *`a e pesi fo`i  lou lēmālie, ...*
+            505     *\`a e pesi fo\`i lou lēmālie, ...*
 
                         'if your disagreement rages,'                       
 
-            506      *`ua kakau (o)ga`ē lē malie*
+            506     *\`ua kakau (o)ga \`ē lē malie*
 
                         'we-all don't have to agree (i.e., you don't have to agree with me/us]'                           
 
-            507      *(a)uā `o`oe `o le kamā o le gu`u.*
+            507      *(a)uā \`o \`oe `o le kamā o le gu`u.*
 
                         'because you (sing.) are the father of the village'                                  
 
@@ -227,7 +227,7 @@ Example (7)-(9) from April 7, 1979, fono in Falefā, \`Upolu. Speaker: the orato
 
                         'well said!'        
 
-(9)       509      *`ae ...`avaku ai gi o **mākou** faukuaga, Moe`ogo,*
+(9)       509     *`ae ...*`*avaku ai gi o **mākou** faukuaga, Moe`ogo,*
 
                         but ... I'm giving some of **ours-all-exclusive** advice, Moe`ono,                                                
 
@@ -235,29 +235,29 @@ Example (7)-(9) from April 7, 1979, fono in Falefā, \`Upolu. Speaker: the orato
 
                          'so,  look at the Lord' (i.e., remember the Lord's ways)
 
-# 4.      Inclusive (*kākou*) and exclusive "we" (*mākou*) in conversation
+## 4.      Inclusive (*kākou*) and exclusive "we" (*mākou*) in conversation
 
-The distribution of *kākou* vs. *mākou* in conversations differs from their distribution in formal speeches, whether in ceremonial occasions like the after-church Sunday gathering (*to`ona`i*) or in the meeting of the village council. 
+The distribution of *kākou* vs. *mākou* in conversations differs from their distribution in formal speeches, whether in ceremonial occasions like the after-church Sunday gathering (*to\`ona\`i*) or in the meeting of the village council. 
 
-## 2.5.  Inclusive (*kākou*) in conversation
+### 4.1.  Inclusive (*kākou*) in conversation
 
 We have seen that in formal speeches *kākou* is used to emphasize or bring the attention to togetherness in or through shared values (e.g., belief in God), past or ongoing shared activities (e.g., eating together), and shared life-experiences (e.g., being from the same village). In conversation, the inclusive *kākou* is used more broadly to refer to associations, activities, and events or mundane objects that are shared by the speaker, the addressee, and one or more others. For example, in the conversation mentioned above between a pastor and a deacon (Conversation 1 in the Appendix), *kākou* is used when talking about actions, opinions, and events that involve the two of them and others, as in *kākou ke iloa* 'we all-inclusive know,' *kākou faikau* 'our-all-inclusive interpretation,' *kākou* `*Ēkalesia* 'our-all-inclusive congregation.' In reported speech alone, *kākou* may be used to refer to a group that includes the speaker but not the current addressee. 
 
-In another conversation, recorded while an untitled man, Sala, his wife Sela (I have used pseudonyms for commoners), and their two children are having dinner and a few friends happen to stop by, the relative percentage of inclusive and exclusive is similar, with a slight increase in the all-inclusive pronoun *kākou* (see Conversation 2 in the Appendix), which is used for objects belonging to the family\[[5]](file:///Users/alexcano86/Desktop/Duranti.html#_edn5) and invitations. In the latter use, *tātou* or *kākou* refers to a proposed or wished-for future togetherness, similar to the 'shall we dance?' mentioned by Gilbert (1989) and cited by Zahavi as an example of "an invitation to the formation of a we, one that awaits the response from the addressee" (Zahavi, 2025, p. 9). This future-oriented use of *kākou* is shown below in an exchange where Sela invites the friends who had stopped by to stay by asking them to be members of a group that shares the evening (*afiafi*), understood as 'evening meal' ("//" indicates the point of overlap by subsequent speaker).
+In another conversation, recorded while an untitled man, Sala, his wife Sela (I have used pseudonyms for commoners), and their two children are having dinner and a few friends happen to stop by, the relative percentage of inclusive and exclusive is similar, with a slight increase in the all-inclusive pronoun *kākou* (see Conversation 2 in the Appendix), which is used for objects belonging to the family[^5] and invitations. In the latter use, *tātou* or *kākou* refers to a proposed or wished-for future togetherness, similar to the 'shall we dance?' mentioned by Gilbert (1989) and cited by Zahavi as an example of "an invitation to the formation of a we, one that awaits the response from the addressee" (Zahavi, 2025, p. 9). This future-oriented use of *kākou* is shown below in an exchange where Sela invites the friends who had stopped by to stay by asking them to be members of a group that shares the evening (*afiafi*), understood as 'evening meal' ("//" indicates the point of overlap by subsequent speaker).
 
-(10)     Sela;    *faku **ali`i kou ke ōmai ali`i //`i`ī** kākou\*\* afiafi*
+(10)     Sela;    *faku ali`i kou ke ōmai ali\`i //\`i`ī  **kākou** afiafi*
 
-"I told you, guys, to come, guys, here (to have) **our-all-inclusive** evening'
+\    "I told you, guys, to come, guys, here (to have) **our-all-inclusive** evening'
 
-            friend; *laga\*\* lea e palapalā e::-*
+            friend; *laga lea e palapalā e::-*
 
                         "but/because we are dirty to::-"
 
-            Sela;    *ia\*\*` e ā lā pe //ā palapalā?*
+            Sela;    *ia` e ā lā pe //ā palapalā?*
 
                         "so what if you're dirty?"
 
-(11)     friend; *koe **ōmai fo`i** kākou\*\* kāfafao*
+(11)     friend; *koe ōmai fo`i **kākou** kāfafao*
 
                         "(we)'ll come back (for) **our-all-inclusive** hanging out"
 
