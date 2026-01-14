@@ -79,12 +79,18 @@ The distinctions listed in (b) and (c) above are built in Samoan on the oppositi
 
 Example (1) From "The watch" – a conversation during which an orator arrives and enters the conversation with a joke. 
 
-Orator;        māgaia sē  le   **kā** ka`avale
-                    Nice      hey the **our-two-incl** car
-                    "our (dual) car (is) really nice"
-                    **kā** ke koe ō ai i Apia Kāvō!
-                    "**we-two-incl** go with it to Apia, Tāvō!"
-                    "What a nice car for the two of us to go to Apia!" (Apia is the capital)
+Orator;             māgaia sē  le**   kā **ka`avale
+
+                        Nice      hey the **our-two-incl** car
+
+"our (dual) car (is) really nice"
+
+**kā** ke koe ō ai i Apia Kāvō!
+
+"**we-two-incl** go with it to Apia, Tāvō!"
+
+                 "What a nice car for the two of us to go to Apia!" (Apia is the capital)
+
 
 Full independent pronouns meaning 'the two of us' and 'all of us' (inclusive and exclusive) are formed respectively with the addition of the morpheme -*`ua*, most likely derived from the number *lua* 'two,' or with the addition of the morpheme *\-tou,* most likely derived from *tolu* 'three' – there are other languages in the Pacific that have separate pronouns for the trial form, e.g., Fijian (Milner, 1972, pp. 15-16, 65-66). 
 
