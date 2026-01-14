@@ -239,7 +239,7 @@ Example (7)-(9) from April 7, 1979, fono in Falefā, \`Upolu. Speaker: the orato
 
 The distribution of *kākou* vs. *mākou* in conversations differs from their distribution in formal speeches, whether in ceremonial occasions like the after-church Sunday gathering (*to\`ona\`i*) or in the meeting of the village council. 
 
-### 4.1.  Inclusive (*kākou*) in conversation
+### 2.5.  Inclusive (*kākou*) in conversation
 
 We have seen that in formal speeches *kākou* is used to emphasize or bring the attention to togetherness in or through shared values (e.g., belief in God), past or ongoing shared activities (e.g., eating together), and shared life-experiences (e.g., being from the same village). In conversation, the inclusive *kākou* is used more broadly to refer to associations, activities, and events or mundane objects that are shared by the speaker, the addressee, and one or more others. For example, in the conversation mentioned above between a pastor and a deacon (Conversation 1 in the Appendix), *kākou* is used when talking about actions, opinions, and events that involve the two of them and others, as in *kākou ke iloa* 'we all-inclusive know,' *kākou faikau* 'our-all-inclusive interpretation,' *kākou* `*Ēkalesia* 'our-all-inclusive congregation.' In reported speech alone, *kākou* may be used to refer to a group that includes the speaker but not the current addressee. 
 
@@ -263,25 +263,25 @@ In another conversation, recorded while an untitled man, Sala, his wife Sela (I 
 
 This use of *kākou* above is an example of a common polite invitation formulated as a command, like *fai se kākou mea`ai* literally 'let's have our-all-inclusive food.' This is in place of a question like "would you like to eat with us?" which is not used. Writing about the Toraja, Aurora Donzelli (2019, pp. 71-74) called this type of hospitality "giving without offering." In the Samoan case, I would call it a benign imposition, a concept that is consistent with the local understanding of respect (*fa`aaloalo*) as constituting an obligation to accept (Duranti, 1992). 
 
-A Samoan example of this use of *kākou* is found in (12) below, from a conversation among women who had been cleaning a house belonging to their congregation. Speaker Vita, who is the wife of the deacon-orator in the conversation mentioned above, invites younger, unmarried, and thus lower status Masa, who had been serving Vita and the other two more senior women, to eat with her and the others. *Kākou `a`ai* 'let's all eat' is understood as "come eat with us," a generous invitation for a stratified society like Samoa, where status differences are always on everyone's mind. 
+A Samoan example of this use of *kākou* is found in (12) below, from a conversation among women who had been cleaning a house belonging to their congregation. Speaker Vita, who is the wife of the deacon-orator in the conversation mentioned above, invites younger, unmarried, and thus lower status Masa, who had been serving Vita and the other two more senior women, to eat with her and the others. *Kākou \`a\`ai* 'let's all eat' is understood as "come eat with us," a generous invitation for a stratified society like Samoa, where status differences are always on everyone's mind. 
 
 (12)     From "Women of the `Ēkalesia"
 
-            Vita;    *sau loa `oe Masa`i`ī **kākou**`a`ai*
+            Vita;    *sau loa \`oe Masa \`i`ī **kākau** \`a\`ai*
 
-"you come now Masa over here let us-all-inclusive eat," that is, "come to eat with us-all'
+\    "you come now Masa over here let us-all-inclusive eat," that is, "come to eat with us-all'
 
-## 2.6.  Exclusive (*mākou*) in conversation
+### 2.6. Exclusive (*mākou*) in conversation
 
 In conversation, the all-exclusive *mākou* is not used to talk about oneself, as done in formal speeches, but, more literally, to talk about some event that simply does not include the addressee or an object that does not belong to the addressee. In some cases, the use of the exclusive first-person pronoun can establish a contrast between the actions of one speaker's group or family vs. another's. This is what happened in the "Pastor and deacon" conversation mentioned above, which I recorded after a few weeks I had arrived in their village where Elinor Ochs, Martha Platt, and I carried out our research project in 1978-79. Given my still limited competence in Samoan, I was a peripheral participant during most of the conversation. In that context, the *mākou* was used literally and abundantly, as deacon and pastor reported and compared what each of them did the night before with their family. Their narratives included what they had done in their respective interaction with our research group. It turned out that without realizing that we had been invited by the deacon for dinner, the three of us went to visit him and his family after having eaten with the pastor's family. This fact is made known by the pastor towards the beginning of the conversation. After the deacon proudly lists the special drink they made the night before just for us (*mākou kofe* 'our-all-exclusive coffee'), and all the food that they had cooked (*mākou māmoe* 'our-all-exclusive matton, *umu kalo* 'baked taro,' and *fa`i Sāmoa* 'Samoan bananas' chopped and boiled), the pastor asks the deacon whether we, referred to as *le vāega* 'the party (of people),' had actually eaten anything. 
 
 Example 13. "Pastor and Deacon"
 
-35        Pastor;             *ga `a`ai lā le vaega?=*
+35        Pastor;             *ga \`a\`ai lā le vaega?=*
 
                                     "Did the group eat?"
 
-36        Deacon;           *\=ioe. **mākou**   `a`ai.*
+36        Deacon;           *\=ioe. **mākou**   \`a\`ai.*
 
                                     "Yes. We-all-exclusive ate."
 
@@ -289,25 +289,25 @@ It is after the deacon responds that we did eat, but not much, that the pastor r
 
 In another conversation, among several titled men constituting an inspection committee charged with checking whether everyone's lawn in the village had been properly cleaned and cut before Christmas, the percentage of inclusive first-person plural *kākou* increases as they politely address one another in the course of an activity that foregrounds their positional roles as community leaders (Irvine, 1979) (see Conversation 3 in the Appendix). 
 
-### **The "we" in prayers**
+### The "we" in prayers
 
 God is talked about in the third person as everyone's Lord or the Lord that everyone shares (*lo tātou Matai* 'our-all-inclusive Lord), and when a prayer is announced, it is something done by one person on behalf of everyone else, and the all-inclusive *tātou* is used, as shown below.
 
 La;       `*o le ā **tātou** ifo ma tatalo i le Atua*
 
-"**we-all-inclusive** will now bow our heads and pray to God"
+\    "**we-all-inclusive** will now bow our heads and pray to God"
 
             *vala`au atu i le tamā o Nonu*
 
             "we call upon the father (of the family) Nonu"
 
-\*na te faia se ***tātou***  fa`afetai*
+\    na te faia se ***tātou***  fa`afetai
 
             "(so that) he says **our-all-inclusive** thanksgiving (to God)"
 
-But once the prayer -- in this case a particularly long one -- starts, we find a 100% of *mātou* and no *tātou* (see Appendix). 
+But once the prayer – in this case a particularly long one – starts, we find a 100% of *mātou* and no *tātou* (see Appendix). 
 
-On behalf of the family or the congregation, the speaker is addressing a God that is separate from them. God is recognized as generously giving, and humans as happy to receive, but they do not form a collective subject with the deity. The pattern repeats in a second long prayer\[[6]](file:///Users/alexcano86/Desktop/Duranti.html#_edn6) and in two very short prayers (see Appendix). 
+On behalf of the family or the congregation, the speaker is addressing a God that is separate from them. God is recognized as generously giving, and humans as happy to receive, but they do not form a collective subject with the deity. The pattern repeats in a second long prayer[^6] and in two very short prayers (see Appendix). 
 
 # Concluding
 
