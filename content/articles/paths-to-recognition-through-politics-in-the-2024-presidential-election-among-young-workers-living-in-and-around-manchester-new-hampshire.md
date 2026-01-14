@@ -125,6 +125,8 @@ Table 2 captures the interviewees' candidate preferences for the 2024 Presidenti
 
 **Table 2 Candidate Preference of Participants by Gender and Race in the 2024 Presidential Election**
 
+![](/static/table2_lamont.png)
+
 Interviewees were recruited randomly from in and around Manchester, New Hampshire. Details about recruitment, data collection, and interviewing can be found in Appendix 1 (online). To qualify for the study, individuals had to live or work in Greater Manchester;[^5] be eligible to vote; be between 18 and 30 of age at the time of the interview; have no more than an associate vocational degree; not be currently pursuing a bachelor's degree; and work for at least for 20 hours a week in a blue collar job or a low-status white collar job in retail, services and office work. This includes feminized "pink collar" jobs (especially care work). Thus, participants work in a large variety of job types (across sectors) that include grocery stockers, nursing assistants, construction workers, childcare providers, retail clerks, and quality inspectors. Appendix 2 (online) provides the full list of respondents by occupation, age, race, and other characteristics.
 
 # FOUR PATHWAYS TO RECOGNITION
