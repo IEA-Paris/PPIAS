@@ -354,13 +354,18 @@ The temporal and interpersonal dimensions of dialogic reflection become visible 
 > 4                            thing I took back from there, *with any memory of great*
 > 5                            *affection I have to say* and it's dead simple you
 > 6           Nicholas  =from what
-> 7                Harry  with any affection (.) the memory of this is the only
+
+> 7              Harry  with any affection (.) the memory of this is the only
 > 8                            thing I thought I saw in the whole of Disney that
 > 9                            left any thing apart from God it's plastic=
-> 10                                   \[     ]
-> 11         Nicholas             I'm sorry
+> 10                          \[     ]
+
+> 11         Nicholas     I'm sorry
+
 > 12            Robert    =*ha ha ha HA ha*
+
 > 13         Nicholas    [*ha ha ha ha ha::::*
+
 > 14              Harry  sorry to say it but this really got to me (.) and
 > 15                          it's simple (.) there are two- (.) there are some bars (.) one's
 > 16                          warm and one's cool (.) and you put your hands
@@ -383,42 +388,64 @@ The temporal and interpersonal dimensions of dialogic reflection become visible 
 > 33                          that to say okay THIS time I'm going to put my hands
 > 34                          on there and leave- you can do it (.) or at least I find
 > 35                          that I can do it and then I gave up with Ethel who was (.)
-> 36         Nicholas      [ *ha ha* (             )
+> 36         Nicholas   [ *ha ha* (             )
+
 > 37              Harry  determined it- didn't care what she KNEW he hands
 > 38                          knew something different and they would come off
+
 > 39            Robert    *ha ha ha*
+
 > 40             Harry  and the wonderful thing ab- sometimes KNOWing
 > 41                          it isn't quite enough (.) that the visceral thing
 > 42                          is just sort of (          ) even more powerful
-> 43        Nicholas      [ mmm mmm
-> 44             Harry             [so there's an interesting (.) in terms
-> 45                          of all that you were saying about connections there's
+
+> 43        Nicholas   [ mmm mmm
+
+> 44             Harry  [so there's an interesting (.) in terms
+
+> 45                              of all that you were saying about connections there's
 > 46                          an interesting ((claps his hands three times in short
 > 47                          succession)) (0.8) touching point there
+
 > 48            Robert  that's very strong yeah=
+
 > 49             Harry    =yeah I remember that distinctly (.) wffff
+
 > 50            Robert  I must say when I was listening to Elizabeth (.) I
 > 51                          was trying to pay attention to what she was
 > 52                          saying but at so- all the time it was- er- triggering
 > 53                          similar little stories in passing and so forth
+
 > 54             Harry           [ *ha ha ha*
+
 > 55           Robert   in m- in my mind yeah? (.) and under gossipy 
 > 56                          circumstances you'd say '"OH" yes I'll tell you 
 > 57                          about °mine°'
+
 > 58        Nicholas    [*ha ha*
+
 > 59             Harry      [yeah yeah yeah
+
 > 60       Elizabeth   but then earlier you were saying about we ARE the stories
 > 61                          (2.2)
+
 > 62           Robert    yes
+
 > 63       Elizabeth    [ermmm
+
 > 64           Robert    but     
+
 > 65       Elizabeth    [this struck loads of Resonances with me as well
 > 66                          (.) we are the stories we tell (.) Halliday says we are
 > 67                          what we mean
+
 > 68           Robert    that's (        ) way
+
 > 69       Elizabeth    is it- is that the quote? (.) I- a person is what he means
 > 70                          (.) from Halliday
+
 > 71                          (1.2)
+
 > 72        Nicholas    it fits (.) it makes sense I don't recognise
 
 Several features of this exchange illuminate the intrapersonal-interpersonal relationship. First, the temporal complexity: Harry recalls a specific story ('I remember the only thing I took back from there was the only memory of great conversations we had'), and he signals that he has a story in line 1. This is a story that I have heard Harry tell a number of times over the years. It's probably a story has been told many times before. Each time it is shaped to a slightly different context or intended meaning. Apart, from some trouble sources and repair (lines 6-13), it is clear how this is story is, while Nicholas references past discussions that have become present resources to be evaluated (e.g. on line 48) and reacted to (e.g., on line 65). The story also gets connected to a theory (e.g., Halliday on line 69). Stories and frameworks, etc., don't simply pass through conversation but stick, resonate, and become available for future dialogic engagement. Robert's comment–'that's very strong yeah'–marks recognition that certain stories achieve particular resonance, becoming especially productive resources for ongoing reflection.
@@ -436,7 +463,7 @@ Yet the dialogic process doesn't end with this initial exchange. In a subsequent
 > 9                            like Harry's (.) then there's the- the metaphors (.)
 > 10                          I mean I remember that one about Harry's hot pip
 > 11                          (.) do you remember that one where he talked about
-> 12                          holding onto a hot pipe in --in Disneyland (.) it was 
+> 12                          holding onto a hot pipe in –in Disneyland (.) it was 
 > 13                          about how- how the discourse sometimes allows you
 > 14                          because you give more space (.) this kind of co-operative
 > 15                          development (.) that you've got this idea and this idea
@@ -504,7 +531,7 @@ The transcript excerpt below reveals how dialogue operates across these multiple
 > 20         to try to acclimatise as much as possible and
 > 21         make the most of the opportunities of being
 > 22         here whilst still keeping an identity in terms
-> 23         of say food or music or language -- this pidgin
+> 23         of say food or music or language – this pidgin
 > 24         English that was spoken in the house.
 > 25         So yeah, it was sort of having a balancing act,
 > 26         certainly not trying to blend in too too much
@@ -529,8 +556,8 @@ The transcript excerpt below reveals how dialogue operates across these multiple
 > 45         brother. That was quite specific. My mother can 
 > 46         speak German, English, both dialects in the 
 > 47         Philippines and Spanish and my dad speaks 
-> 48         English, Tagalog -- the main dialect in the 
-> 49         Philippines -- and Japanese and my brother and I, 
+> 48         English, Tagalog – the main dialect in the 
+> 49         Philippines – and Japanese and my brother and I, 
 > 50         we just speak English! I mean this linguistic 
 > 51         heritage here! And part of that was that they 
 > 52         wanted us to be Canadian and be really part of 
@@ -540,7 +567,7 @@ The transcript excerpt below reveals how dialogue operates across these multiple
 > 56         they still insisted, even up to high school, that 
 > 57         the values - for example the emphasis on family, 
 > 58         and the whole taking care of your elders, the 
-> 59         honorific system of how you address people -- in 
+> 59         honorific system of how you address people – in 
 > 60         my family but certainly different things like
 > 61         using English and getting an education in Canada.
 > 62         That was kind of a path to try to negotiate
