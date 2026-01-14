@@ -113,9 +113,9 @@ Without bias, humans would perceive little but chaotic sensory input; with bias,
 
 It is important to recall that the brain cannot perceive the world with certainty; it can only make intelligent inferences. Here, it faces a daunting task: to generate a three-dimensional object from a two-dimensional retinal image. In doing so, the brain draws on three assumptions: the world is three-dimensional, light comes from above, and there is only one source of light.
 
-These assumptions are biases. They are not necessarily true. We do not know whether the real world -- if it exists -- is truly three-dimensional; there could be more dimensions. But the bias reflects human experience: We move in space from south to north, west to east, and up to down. Similarly, through most of mammalian history, light came from above, and there was only one source of light -- the sun or the moon. Even in the contemporary world, light generally comes from above in homes, offices, and other buildings, and light coming at us horizontally, such as by the headlights of another vehicle while driving, can cause confusion. At issue is not objective precision but rather that, by means of these biases, brains can make intelligent inferences. Our brains use a heuristic to infer the third dimension from the position of shading:  
+These assumptions are biases. They are not necessarily true. We do not know whether the real world – if it exists – is truly three-dimensional; there could be more dimensions. But the bias reflects human experience: We move in space from south to north, west to east, and up to down. Similarly, through most of mammalian history, light came from above, and there was only one source of light – the sun or the moon. Even in the contemporary world, light generally comes from above in homes, offices, and other buildings, and light coming at us horizontally, such as by the headlights of another vehicle while driving, can cause confusion. At issue is not objective precision but rather that, by means of these biases, brains can make intelligent inferences. Our brains use a heuristic to infer the third dimension from the position of shading:  
 
-## Shade Heuristic:
+### Shade Heuristic:
 
 If the shade is in the upper part, then infer that the dots are concave;
 
@@ -125,7 +125,7 @@ In Figure 1 (left), the upper parts of the dots are darker and less distinct. Th
 
 Without these three biases, along with the shade heuristic, the brain would not see a third dimension. We would live in Flatland. In fact, sight-recovery patients with brain damage do not see the third dimension in similar visual illusions (e.g., Fine et al., 2003). All they perceive is the two-dimensional picture, nothing more. 
 
-## Mistaking functional bias for irrationality
+### Mistaking functional bias for irrationality
 
 Visual illusions have been misinterpreted as biases that should be eliminated. For instance, bestsellers featuring cognitive biases regularly compare these to visual illusions (e.g., Ariely, 2008; Thaler & Sunstein, 2008). The message is that humans would fare better by seeing exactly what is on the paper rather than by making intelligent inferences. As mentioned above, however, doing so would put us in the situation of patients with brain damage. 
 
@@ -133,27 +133,26 @@ The heuristics-and-biases program is best known for the bias-as-error view. Howe
 
 In the final part, I provide a general perspective on the apparent contradiction between bias as error and functional bias, based on the distinction between small and large worlds by Savage (1954).  
 
-# Small and Large Worlds
+## Small and Large Worlds
 
 My hypothesis is that this apparent contradiction can be resolved by using the distinction made by Savage between small (closed) worlds and large (uncertain) worlds. Specifically, the hypothesis is that bias is detrimental and without function in small worlds. In all other situations that involve a substantial degree of uncertainty, bias might be necessary and functional, or even rational. 
 
 Savage became famous for laying the foundations of *subjective* expected utility theory, which he restricted to small worlds. He defined a small world by two features:
 
-1.     *Perfect Foresight of Future States*: The agent knows the exhaustive and mutually exclusive set *S* of future states of the world. 
-
-2.     *Perfect Foresight of Consequences*: The agent knows the exhaustive and mutually exclusive set *C* of consequences (outcomes) of each of their actions, given a state. 
+1. *Perfect Foresight of Future States*: The agent knows the exhaustive and mutually exclusive set *S* of future states of the world. 
+2. *Perfect Foresight of Consequences*: The agent knows the exhaustive and mutually exclusive set *C* of consequences (outcomes) of each of their actions, given a state. 
 
 In plain words, a small world is a situation where one knows for certain *all* possible future states of the world and *all* possible consequences of one's actions. The game of roulette is an example of a small world. Here, every possible outcome is known: the next ball will land on a number between 0 and 36, as will all those that follow. 
 
-## Biases in Small Worlds
+### Biases in Small Worlds
 
 In a small world such as roulette, a bias is the deviation between a judgment and a known true state. For instance, believing that after the first two rounds showed red, the next roll will result in a black number, is known as the gambler's fallacy. It is a bias in the sense of an error because we know the probabilities for sure (assuming the table is not rigged). It is hard to see how this bias could be functional. In general, in small worlds, biases amount to errors. 
 
-## Biases in Large Worlds
+### Biases in Large Worlds
 
-In a large world, there is no perfect foresight of all possible future states and their consequences. That characterizes the real world we live in, with exceptions such as well-defined games. In a large world, the brain needs biases for learning and perception; without them, it could not function. Thus, in large worlds, biases are needed in order to be prepared for learning rapidly what objects pose potentially life-threatening dangers or to perceive more than sensory chaos. Note that while biases are necessary, they can nevertheless mislead us. When individuals learn to fear spiders in a country where poisonous spiders no longer exist, there is no benefit. But without any bias at all, survival would be next to impossible. Even artificial neural networks, such as convolutional neural networks (CNN), implement systematic biases to learn faster and more efficiently. In general, models that are biased -- from fast-and-frugal heuristics to CNNs -- can enable better predictions (Gigerenzer & Brighton, 2009). 
+In a large world, there is no perfect foresight of all possible future states and their consequences. That characterizes the real world we live in, with exceptions such as well-defined games. In a large world, the brain needs biases for learning and perception; without them, it could not function. Thus, in large worlds, biases are needed in order to be prepared for learning rapidly what objects pose potentially life-threatening dangers or to perceive more than sensory chaos. Note that while biases are necessary, they can nevertheless mislead us. When individuals learn to fear spiders in a country where poisonous spiders no longer exist, there is no benefit. But without any bias at all, survival would be next to impossible. Even artificial neural networks, such as convolutional neural networks (CNN), implement systematic biases to learn faster and more efficiently. In general, models that are biased – from fast-and-frugal heuristics to CNNs – can enable better predictions (Gigerenzer & Brighton, 2009). 
 
-# Why are we biased?
+## Why are we biased?
 
 In this essay, I distinguished between two kinds of biases: bias as error and functional bias. Most frequently, biases are associated with errors such as prejudices or cognitive biases. I introduced Savage's distinction between small worlds and large worlds to argue that both interpretations have their place. In small worlds where all potential events and consequences, including their probabilities, are known, biases can be defined as a discrepancy from the true value. Here, biases are errors and have no function. In large worlds, where the future or even the present state of the world is unknowable, biases can be functional. They help humans to reach goals. 
 
