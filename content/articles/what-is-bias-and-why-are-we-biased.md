@@ -85,29 +85,29 @@ Deviations of judgments from social norms are a third class of biases in the sen
 
 The bias bias is the tendency to see biases even when there are none. That can happen because researchers locate the cause of societal problems solely in individual minds while ignoring strategic and systematic deception, or they overlook the ambiguities of language, which require people to make intelligent inferences. For instance, doctors tend to use positive frames to recommend surgery and negative frames to warn against it; intelligent patients understand these implicit messages conveyed by framing and read between the lines (McKenzie & Nelson, 2003). Making intelligent inferences is not an error; in this case, it could benefit one's health. Thus, much framing bias may be little more than researchers' bias bias. Or take the planning fallacy. As Flyvbjerg (2025) argued, underestimating costs and/or the duration of megaprojects is a strategic misrepresentation by powerful managers and planners. Thus, the cause is likely not managers' unconscious overconfidence, but deliberate strategy: to acquire and justify projects to keep funds flowing.
 
-# Bias is functional
+## Bias is functional
 
 The error view of bias assumes a correct state of the world, or a correct value, against which a deviating judgment is identified as error. In contrast, the functional interpretation of bias does not need to know the truth. There is no need to assume that consistency, coherence, or a given social norm is a general norm. Rather, the functional view is focused on getting things done even without being sure of the best path. Biases, in this view, help decision-makers in a world of uncertainty, where the true state is not known or not knowable, yet where actions are nevertheless imperative. The functional interpretation aligns with a pragmatic view of the world, best known from the philosophical pragmatism of William James, John Dewey, and Charles Sanders Peirce. 
 
 Here are two examples.
 
-## Biological preparedness
+### Biological preparedness
 
-The idea that the laws of learning are domain-general flourished in Skinner's theories. Reinforcement learning, so the assumption, uniformly applies to all stimuli and all behavior. This assumption was challenged and rejected following experimental research by John Garcia and others. For instance, when the taste of flavored water is repeatedly paired with an electric shock immediately after the tasting, rats have great difficulty in learning to avoid the flavored water. In contrast, rats can learn to avoid flavored water after just one trial when it is followed by experimentally induced nausea, even if the nausea occurs two hours later. "From an evolutionary view, the rat is a biased learning machine designed by natural selection to form certain CS--US \[conditional stimulus -- unconditional stimulus] associations rapidly but not others." (Garcia y Robertson & Garcia, 1985). In contrast, from the point of traditional learning theory, the rat was seen as an unbiased learner. 
+The idea that the laws of learning are domain-general flourished in Skinner's theories. Reinforcement learning, so the assumption, uniformly applies to all stimuli and all behavior. This assumption was challenged and rejected following experimental research by John Garcia and others. For instance, when the taste of flavored water is repeatedly paired with an electric shock immediately after the tasting, rats have great difficulty in learning to avoid the flavored water. In contrast, rats can learn to avoid flavored water after just one trial when it is followed by experimentally induced nausea, even if the nausea occurs two hours later. "From an evolutionary view, the rat is a biased learning machine designed by natural selection to form certain CS–US \[conditional stimulus – unconditional stimulus] associations rapidly but not others." (Garcia y Robertson & Garcia, 1985). In contrast, from the point of traditional learning theory, the rat was seen as an unbiased learner. 
 
 Rhesus monkeys reared in the laboratory show no fear toward poisonous snakes. If, however, the monkey observes another monkey exhibiting fear of snakes, it can acquire the fear reaction in a single trial. Note that this fast learning does not happen with all stimuli. If the monkey observes the same fear reaction toward a flower, it will not acquire fear of flowers. The general conclusion from these experiments is that fear of *certain*objects, such as snakes and spiders, is genetically prepared to be acquired immediately if a conspecific shows fear of them. These prepared objects were dangerous in the evolutionary past. 
 
 Thus, biological preparedness enables certain relations or objects to be learned in a single trial. This can be through individual experience, as in the cause of nausea, or even less dangerously, through social imitation of a conspecific (Mineka & Cook, 1988). 
 
-*Biological preparedness* also applies to humans. Humans learn fear and avoidance behavior faster for prepared objects, such as snakes and spiders, than for other objects -- a learning mechanism that explains the sudden emergence of phobias. Preparedness relates to objects that were dangerous in the past, not to dangerous objects per se. If a parent shows fear of an electric outlet or a knife, the child does not learn to fear these objects as rapidly. But for the prepared objects, social learning can avoid individual learning from bitter experience, a bias that protects the organism. 
+*Biological preparedness* also applies to humans. Humans learn fear and avoidance behavior faster for prepared objects, such as snakes and spiders, than for other objects – a learning mechanism that explains the sudden emergence of phobias. Preparedness relates to objects that were dangerous in the past, not to dangerous objects per se. If a parent shows fear of an electric outlet or a knife, the child does not learn to fear these objects as rapidly. But for the prepared objects, social learning can avoid individual learning from bitter experience, a bias that protects the organism. 
 
-## Unconscious inferences 
+### Unconscious inferences 
 
 Without bias, humans would perceive little but chaotic sensory input; with bias, we see what the it allows us to see. Consider Figure 1. In the left-hand image in Figure 1, we see six large dots that appear to be concave; on the right, the six dots appear to be convex (Kleffner & Ramachandran, 1992). After rotating both images 180 degrees, the concave dots suddenly appear to be convex, and the convex dots concave. The illusion remains stable, independent of how often one repeats the action. 
 
-**Figure \*\***1***\* Perception is inference**
+**Figure 1 Perception is inference**
 
-![](blob:https://euangoddard.github.io/eb020f2a-fb94-4d18-aa62-e7919004e76e)
+![](/static/picture1_gerd.png)
 
 **Note:** On the left-hand side, we see large dots that are curved inward (concave); on the right-hand side, they pop out like bubbles (convex). If the images are turned upside down, the brain will make the opposite inferences (based on Kleffner & Ramachandran, 1992).
 
