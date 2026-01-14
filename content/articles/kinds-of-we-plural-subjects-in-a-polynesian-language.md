@@ -79,19 +79,14 @@ The distinctions listed in (b) and (c) above are built in Samoan on the oppositi
 
 Example (1) From "The watch" – a conversation during which an orator arrives and enters the conversation with a joke. 
 
-> Orator;             māgaia sē  le   **kā** ka`avale
->
->                         Nice      hey the **our-two-incl** car
->
-> \    "our (dual) car (is) really nice"
->
-> \    **kā** ke koe ō ai i Apia Kāvō!
->
-> \    "**we-two-incl** go with it to Apia, Tāvō!"
->
-> \       "What a nice car for the two of us to go to Apia!" (Apia is the capital)
+Orator;        māgaia sē  le   **kā** ka`avale
+                    Nice      hey the **our-two-incl** car
+                    "our (dual) car (is) really nice"
+                    **kā** ke koe ō ai i Apia Kāvō!
+                    "**we-two-incl** go with it to Apia, Tāvō!"
+                    "What a nice car for the two of us to go to Apia!" (Apia is the capital)
 
-Full independent pronouns meaning 'the two of us' and 'all of us' (inclusive and exclusive) are formed respectively with the addition of the morpheme -*`ua*, most likely derived from the number *lua* 'two,' or with the addition of the morpheme *\-tou,* most likely derived from *tolu* 'three' -- there are other languages in the Pacific that have separate pronouns for the trial form, e.g., Fijian (Milner, 1972, pp. 15-16, 65-66). 
+Full independent pronouns meaning 'the two of us' and 'all of us' (inclusive and exclusive) are formed respectively with the addition of the morpheme -*`ua*, most likely derived from the number *lua* 'two,' or with the addition of the morpheme *\-tou,* most likely derived from *tolu* 'three' – there are other languages in the Pacific that have separate pronouns for the trial form, e.g., Fijian (Milner, 1972, pp. 15-16, 65-66). 
 
 Table 1 and Table 2 below show the full forms of the first-person plural pronouns in Samoan. 
 
@@ -99,9 +94,11 @@ Table 1 and Table 2 below show the full forms of the first-person plural pronoun
 
 ![](/static/table1_duranti.png)
 
-The pronunciation in Table 1, locally called "good speech" (*tautala lelei*), represents the written form and is used in praying, singing, and sometimes talking to foreigners. The pronunciation in Table 2 is called "bad speech" (*tautala leaga*) and is prevalent in the examples I will use from spontaneous interactions, whether informal or formal (Duranti & Ochs, 1986, pp. 218-219)\[[3]](file:///Users/alexcano86/Desktop/Duranti.html#_edn3).
+The pronunciation in Table 1, locally called "good speech" (*tautala lelei*), represents the written form and is used in praying, singing, and sometimes talking to foreigners. The pronunciation in Table 2 is called "bad speech" (*tautala leaga*) and is prevalent in the examples I will use from spontaneous interactions, whether informal or formal (Duranti & Ochs, 1986, pp. 218-219)[^3].
 
 **Table 2 Samoan first-person pronouns as pronounced in most spoken interactions**
+
+![](/static/table2_duranti.png)
 
 The corpus from which I will draw examples includes spontaneous conversations, formal speeches in two different kinds of speech events, and prayers. 
 
