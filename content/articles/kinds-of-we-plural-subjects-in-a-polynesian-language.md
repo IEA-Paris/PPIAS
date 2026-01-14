@@ -95,83 +95,13 @@ Full independent pronouns meaning 'the two of us' and 'all of us' (inclusive and
 
 Table 1 and Table 2 below show the full forms of the first-person plural pronouns in Samoan. 
 
-**Table \*\***1**\*\* Samoan first-person pronouns in written Samoan**
+**Table 1 Samoan first-person pronouns in written Samoan**
 
-\|  |
-
-**Inclusive**
-
-\|
-
-**Exclusive**
-
-\|
-|
-
-**Dual**
-
-\|
-
-tā`ua 'two of us' (you included)
-
-\|
-
-mā`ua 'two of us' (but not you)
-
-\|
-|
-
-**Plural**
-
-\|
-
-tātou 'we all' (you included)
-
-\|
-
-mātou 'we all' (but not you)
-
-\|
+![](/static/table1_duranti.png)
 
 The pronunciation in Table 1, locally called "good speech" (*tautala lelei*), represents the written form and is used in praying, singing, and sometimes talking to foreigners. The pronunciation in Table 2 is called "bad speech" (*tautala leaga*) and is prevalent in the examples I will use from spontaneous interactions, whether informal or formal (Duranti & Ochs, 1986, pp. 218-219)\[[3]](file:///Users/alexcano86/Desktop/Duranti.html#_edn3).
 
-**Table \*\***2**\*\* Samoan first-person pronouns as pronounced in most spoken interactions**
-
-\|  |
-
-**Inclusive**
-
-\|
-
-**Exclusive**
-
-\|
-|
-
-**Dual**
-
-\|
-
-*kā`ua* 'two of us' (you included)
-
-\|
-
-*mā`ua* 'two of us' (but not you)
-
-\|
-|
-
-**Plural**
-
-\|
-
-*kākou* 'we all' (you included)
-
-\|
-
-*mākou* 'we all' (but not you)
-
-\|
+**Table 2 Samoan first-person pronouns as pronounced in most spoken interactions**
 
 The corpus from which I will draw examples includes spontaneous conversations, formal speeches in two different kinds of speech events, and prayers. 
 
