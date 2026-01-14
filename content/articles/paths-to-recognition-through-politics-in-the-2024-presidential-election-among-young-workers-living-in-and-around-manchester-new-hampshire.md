@@ -135,15 +135,11 @@ From the interview data, we inductively identified four pathways through which y
 
 **Table 3 Four Pathways to Recognition**
 
-
+![](/static/table3_lamont.png)
 
 **Table 4 Pathways by Race, Gender, and Voting Intentions**
 
-
-
 **Table 5 Declared Voting Preferences by Inclusive and Exclusive Attitudes about Redistribution and Symbolic Membership***
-
-
 
 ## 1. Recognition through Exclusion 
 
