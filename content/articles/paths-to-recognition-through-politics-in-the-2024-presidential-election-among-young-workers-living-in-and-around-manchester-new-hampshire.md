@@ -209,7 +209,7 @@ To explore reactions to politics in depth, we asked participants about the words
 
 **Figure 1 "What Words do you Associate with Politics?":  General and Specific Evaluation Terms**
 
-
+![](/static/figure1_lamont.png)
 
 This is in line with previous research showing that workers perceive politics through a corruption frame (e.g., Hillhorst, 2024). At the same time, in line with research on right- and left-wing populism (Gidron et al., 2019), these workers express their desire to draw distance against the educated upper-middle class, whom they perceive as benefiting from and leading politics (the elite, the rich, the educated upper-middle class). In so doing, they often draw implicitly or explicitly strong moral boundaries toward the "people above" (Lamont, 2000). In this context, staying away from politics allows them to assert their autonomy in relation to the "powers that be." A 21-year-old electronics quality inspector illustrates this agentic stance as she expresses her lack of confidence and skepticism toward a political system she perceives to be "a gimmick." She wants to stay away from it and does not vote. She explains:
 
