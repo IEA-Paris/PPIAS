@@ -193,165 +193,23 @@ These respondents have in common that they fear Trump's policies toward their an
 
 Among those who support the Democratic Party, many participants are critical of the latter for not dealing effectively with inflation, the housing crisis, the opioid epidemics, and other social problems workers face post-pandemic. They are disappointed voters who are hoping that the Democrats would offer a more fully articulated alternative to the MAGA program. This leads a number of them to abstain and/or define themselves as distant from or "above" party politics. 
 
-## 3. Recognition through Distance from Politics 
+### 3. Recognition through Distance from Politics 
 
-Six of our respondents were non-voters or did not plan to vote in the 2024 Presidential election. Thirteen can also be described as "low-information" respondents, having little-to-no engagement with gathering information about politics [(Koch et al., 2023)](https://www.zotero.org/google-docs/?broken=QNC4eM). The reasons these individuals offered for not voting and/or not following politics often pertain to recognition, which is why we look closely at this group.
+Six of our respondents were non-voters or did not plan to vote in the 2024 Presidential election. Thirteen can also be described as "low-information" respondents, having little-to-no engagement with gathering information about politics (Koch et al., 2023). The reasons these individuals offered for not voting and/or not following politics often pertain to recognition, which is why we look closely at this group.
 
-These participants often explain staying away from politics because politicians don't pay attention to "people like us" --as one of them puts it, "maybe Obama did...but not many politicians do." Along these lines, a behavioral therapist explains that politicians do not care about ordinary people, because "I don't think \[politics] directly affects them." She wishes politicians would have a better understanding of having to live the everyday lifestyle... of what \[we] are going through rather than like possibilities or made up scenarios. . . The majority of anyone in power... a lot of them are of older age groups and have followed in the footsteps of, you know, their elders," which makes it hard for them to understand the realities experienced by young people. Similarly, a 19-year-old fast food worker argues that politicians focus on minority groups but ignore the struggles of "average ordinary people," perhaps referring to the white majority of workers. She goes on: "I don't think they care about ordinary people at all.... \[the] average ordinary person does not really matter. They wanna appeal to maybe . . .if you're a person of color or like if you're whatever else, \[they] pinpointing like one factor that you identify with \[but] like how we have to work every day to survive and stuff, no one talks about that." For their part, a group home manager and a financial administrative assistant say that they are disillusioned by the existing political structure, because "politics is not working for working people. In fact, when we asked participants whether they agreed that "politicians don't pay enough attention to people like them," only two did not, and five were not sure, while 26 out of 45 responded affirmatively, with 79 percent of those elaborating on this theme, thus indicating their engagement with this issue.
+These participants often explain staying away from politics because politicians don't pay attention to "people like us" –as one of them puts it, "maybe Obama did...but not many politicians do." Along these lines, a behavioral therapist explains that politicians do not care about ordinary people, because "I don't think \[politics] directly affects them." She wishes politicians would have a better understanding of having to live the everyday lifestyle... of what \[we] are going through rather than like possibilities or made up scenarios. . . The majority of anyone in power... a lot of them are of older age groups and have followed in the footsteps of, you know, their elders," which makes it hard for them to understand the realities experienced by young people. Similarly, a 19-year-old fast food worker argues that politicians focus on minority groups but ignore the struggles of "average ordinary people," perhaps referring to the white majority of workers. She goes on: "I don't think they care about ordinary people at all.... \[the] average ordinary person does not really matter. They wanna appeal to maybe . . .if you're a person of color or like if you're whatever else, \[they] pinpointing like one factor that you identify with \[but] like how we have to work every day to survive and stuff, no one talks about that." For their part, a group home manager and a financial administrative assistant say that they are disillusioned by the existing political structure, because "politics is not working for working people. In fact, when we asked participants whether they agreed that "politicians don't pay enough attention to people like them," only two did not, and five were not sure, while 26 out of 45 responded affirmatively, with 79 percent of those elaborating on this theme, thus indicating their engagement with this issue.
 
-There is a large literature on "low-information voters" who also maintain distance from politics.[^6] 13 of our 45 interviewees can be characterized as "low-information:" it is the case for 11 out of 22 who declared voting intentions, of whom 6 supported Trump and only 1 supported Harris (the other 4 were undecided), and 2 out of 10 interviewees who did not plan to vote. This is based on the standard definition of this group found in the literature: (1) they have little information about issues or the candidates they vote for; (2) they justify their choice using heuristics unrelated to politics; and (3) cannot articulate policies the candidate is for/against ([Bartels, 1996](https://www-jstor-org.ezp-prod1.hul.harvard.edu/stable/2111700?seq=4); [Schaffner & Streb, 2002](https://academic-oup-com.ezp-prod1.hul.harvard.edu/poq/article/66/4/559/1935537); [Toka, 2010](https://www-taylorfrancis-com.ezp-prod1.hul.harvard.edu/chapters/edit/10.4324/9780203850695-18/impact-everyday-political-talk-involvement-knowledge-informed-voting-gabor-toka); [Strayhorn, 2025](https://onlinelibrary-wiley-com.ezp-prod1.hul.harvard.edu/doi/full/10.1111/ajps.12948)).
+There is a large literature on "low-information voters" who also maintain distance from politics.[^6] 13 of our 45 interviewees can be characterized as "low-information:" it is the case for 11 out of 22 who declared voting intentions, of whom 6 supported Trump and only 1 supported Harris (the other 4 were undecided), and 2 out of 10 interviewees who did not plan to vote. This is based on the standard definition of this group found in the literature: (1) they have little information about issues or the candidates they vote for; (2) they justify their choice using heuristics unrelated to politics; and (3) cannot articulate policies the candidate is for/against (Bartels, 1996; Schaffner & Streb, 2002; Toka, 2010; Strayhorn, 2025).
 
 Many participants who fit these criteria also reported that they do not "read the news," by which they refer mostly to news in traditional media outlets like newspapers, magazines, and television programs, differentiating these outlets from "everyday talk" on politics on social media outlets. Some of those who consume social media may not consider these alternative sources as news. As one respondent puts it, "I don't read the news... I just look at Facebook." [^7]
 
 In addition, a large group says that they avoid politics because they want to stay away from additional stress, negative emotions, and conflict (15), or because politics is "broken." (quality inspector female 21; female behavioral therapist 27). These responses reflect the overwhelming negative emotions workers tend to associate with politics, but they are also connected to their search for recognition as they speak to workers' desire to be valued or heard by politicians or co-citizens. 
 
-To explore reactions to politics in depth, we asked participants about the words they associate with politics. The vast majority of participants provided words that were emotionally charged *and* general evaluative terms that were negative, often having to do with polarization or corruption.[^^\[8]^^](file:///Users/alexcano86/Desktop/Lamont%20et%20al..html#_edn8) As shown in Figure 1, answers to this question include only *five* positive terms ("freedom," "liberty," "patriotism," "equality," and "funny," each mentioned only once. In contrast, the long list of negative words include "pissing context," "ratchet", "old assholes", "stress (x3)," as well as ten words related to polarization (e.g. "power struggle," and "two-sided,") and sixteen words referring to corruption ("lies" (x2), "deceit" (x2), "corrupt" (x2), etc.).
+To explore reactions to politics in depth, we asked participants about the words they associate with politics. The vast majority of participants provided words that were emotionally charged *and* general evaluative terms that were negative, often having to do with polarization or corruption.[^8] As shown in Figure 1, answers to this question include only *five* positive terms ("freedom," "liberty," "patriotism," "equality," and "funny," each mentioned only once. In contrast, the long list of negative words include "pissing context," "ratchet", "old assholes", "stress (x3)," as well as ten words related to polarization (e.g. "power struggle," and "two-sided,") and sixteen words referring to corruption ("lies" (x2), "deceit" (x2), "corrupt" (x2), etc.).
 
-**Figure \*\***1**\*\*"What Words do you Associate with Politics?":  General and Specific Evaluation Terms**
+**Figure 1 "What Words do you Associate with Politics?":  General and Specific Evaluation Terms**
 
-\|
 
-**General evaluative terms**
-
-\|
-
-**Specific categories of negative terms**
-
-\|
-|
-
-Positive terms
-
-\|
-
-Negative terms
-
-\|
-
-Polarization
-
-\|
-
-Corruption
-
-\|
-|
-
-freedom
-
-liberty
-
-patriotism
-
-equality
-
-funny
-
-\|
-
-two sides
-
-divide (x2)
-
-division
-
-divisive
-
-arguments
-
-judgement
-
-drama
-
-opposition
-
-power struggle
-
-\|
-
-sensitive
-
-irritating
-
-intense
-
-stress (x3)
-
-messy
-
-disappointing
-
-angry
-
-anger
-
-hate
-
-animosity
-
-shouting
-
-volatile
-
-misunderstood
-
-touchy
-
-confusing
-
-not amusing
-
-hectic
-
-aggravating
-
-abusive
-
-pissing contest
-
-anxiety
-
-touchy
-
-old assholes
-
-shit show
-
-ratchet
-
-ghoulish
-
-can of worms
-
-\|
-
-lies (x2)
-
-deceit (x2)
-
-fraudulent
-
-fraud
-
-corrupt (x2)
-
-dirty
-
-crooked
-
-fake
-
-whatever it takes to win
-
-unfair
-
-gimmicks
-
-puppet
-
-manmade
-
-\|
 
 This is in line with previous research showing that workers perceive politics through a corruption frame (e.g., Hillhorst, 2024). At the same time, in line with research on right- and left-wing populism (Gidron et al., 2019), these workers express their desire to draw distance against the educated upper-middle class, whom they perceive as benefiting from and leading politics (the elite, the rich, the educated upper-middle class). In so doing, they often draw implicitly or explicitly strong moral boundaries toward the "people above" (Lamont, 2000). In this context, staying away from politics allows them to assert their autonomy in relation to the "powers that be." A 21-year-old electronics quality inspector illustrates this agentic stance as she expresses her lack of confidence and skepticism toward a political system she perceives to be "a gimmick." She wants to stay away from it and does not vote. She explains:
 
