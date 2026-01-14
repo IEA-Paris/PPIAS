@@ -348,463 +348,260 @@ Beyond poetry, there is always this relationship between the self and other, bet
 
 The temporal and interpersonal dimensions of dialogic reflection become visible when we examine how stories, metaphors, and frameworks operate as shared resources that persist and resonate across conversations. The following transcript excerpt from a group discussion captures this dynamic in action, revealing not one but multiple layers of dialogic engagement. The exchange demonstrates what Bakhtin meant by heteroglossia: participants think with and through voices, stories, and metaphors that originated externally or from shared experiences but have become part of their internal dialogic repertoire.
 
-> 1                Harry    a story got- I mean more on stories cos it's- it's sort
->
+> 1                Harry   a story got- I mean more on stories cos it's- it's sort
 > 2                            of tied in but I remember it quite distinctly it's in
->
 > 3                            Disney it in Epcot I think in in ° America° but the only
->
 > 4                            thing I took back from there, *with any memory of great*
->
 > 5                            *affection I have to say* and it's dead simple you
->
-> 6            Nicholas    =from what
->
-> 7                Harry    with any affection (.) the memory of this is the only
->
+> 6           Nicholas  =from what
+> 7                Harry  with any affection (.) the memory of this is the only
 > 8                            thing I thought I saw in the whole of Disney that
->
 > 9                            left any thing apart from God it's plastic=
->
 > 10                                   \[     ]
->
-> 11          Nicholas             I'm sorry
->
-> 12             Robert    =*ha ha ha HA ha*
->
-> 13          Nicholas    [*ha ha ha ha ha::::*
->
-> 14              Harry    sorry to say it but this really got to me (.) and
->
+> 11         Nicholas             I'm sorry
+> 12            Robert    =*ha ha ha HA ha*
+> 13         Nicholas    [*ha ha ha ha ha::::*
+> 14              Harry  sorry to say it but this really got to me (.) and
 > 15                          it's simple (.) there are two- (.) there are some bars (.) one's
->
 > 16                          warm and one's cool (.) and you put your hands
->
 > 17                          on °on° these two things (.) and err okay there's no 
->
 > 18                          problem at all and now he says NOW transfer 
->
 > 19                          your hands to this thing in the middle where
->
 > 20                          you've got a selection of the bars, (.) thinner bars. (.) and
->
 > 21                          you put your hands out (.) and the first response is
->
 > 22                          it's BURNing (.) you think your hands- and
->
 > 23                          you've >just put it on a red hot je-< awff - va
->
 > 24                          and he say NO (.) all that's in the middle are
->
 > 25                          these two bars (.) the cold ones and the warm
->
 > 26                          ones (.) but when you put them together the 
->
 > 27                          body can't distinguish (.) the senses CAN not 
->
 > 28                          distinguish between- it confuses the senses and
->
 > 29                          the message it gives is it's burning (.) and the
->
 > 30                          interesting thing there is (.) and this >turning<
->
 > 31                          to knowledge >w- just talking about< (.) you can
->
 > 32                          know that (.) but the effort it takes when you KNOW
->
 > 33                          that to say okay THIS time I'm going to put my hands
->
 > 34                          on there and leave- you can do it (.) or at least I find
->
 > 35                          that I can do it and then I gave up with Ethel who was (.)
->
-> 36          Nicholas      [ *ha ha* (             )
->
-> 37              Harry    determined it- didn't care what she KNEW he hands
->
+> 36         Nicholas      [ *ha ha* (             )
+> 37              Harry  determined it- didn't care what she KNEW he hands
 > 38                          knew something different and they would come off
->
-> 39             Robert    *ha ha ha*
->
-> 40              Harry    and the wonderful thing ab- sometimes KNOWing
->
+> 39            Robert    *ha ha ha*
+> 40             Harry  and the wonderful thing ab- sometimes KNOWing
 > 41                          it isn't quite enough (.) that the visceral thing
->
 > 42                          is just sort of (          ) even more powerful
->
-> 43          Nicholas      [ mmm mmm
->
-> 44              Harry             [so there's an interesting (.) in terms
->
+> 43        Nicholas      [ mmm mmm
+> 44             Harry             [so there's an interesting (.) in terms
 > 45                          of all that you were saying about connections there's
->
 > 46                          an interesting ((claps his hands three times in short
->
 > 47                          succession)) (0.8) touching point there
->
-> 48             Robert    that's very strong yeah=
->
-> 49              Harry    =yeah I remember that distinctly (.) wffff
->
-> 50             Robert    I must say when I was listening to Elizabeth (.) I
->
+> 48            Robert  that's very strong yeah=
+> 49             Harry    =yeah I remember that distinctly (.) wffff
+> 50            Robert  I must say when I was listening to Elizabeth (.) I
 > 51                          was trying to pay attention to what she was
->
 > 52                          saying but at so- all the time it was- er- triggering
->
 > 53                          similar little stories in passing and so forth
->
-> 54              Harry           [ *ha ha ha*
->
-> 55             Robert    in m- in my mind yeah? (.) and under gossipy 
->
+> 54             Harry           [ *ha ha ha*
+> 55           Robert   in m- in my mind yeah? (.) and under gossipy 
 > 56                          circumstances you'd say '"OH" yes I'll tell you 
->
 > 57                          about °mine°'
->
-> 58          Nicholas    [*ha ha*
->
-> 59              Harry      [yeah yeah yeah
->
-> 60         Elizabeth    but then earlier you were saying about we ARE the stories
->
+> 58        Nicholas    [*ha ha*
+> 59             Harry      [yeah yeah yeah
+> 60       Elizabeth   but then earlier you were saying about we ARE the stories
 > 61                          (2.2)
->
-> 62             Robert    yes
->
-> 63         Elizabeth    [ermmm
->
-> 64             Robert    but     
->
-> 65         Elizabeth    [this struck loads of Resonances with me as well
->
+> 62           Robert    yes
+> 63       Elizabeth    [ermmm
+> 64           Robert    but     
+> 65       Elizabeth    [this struck loads of Resonances with me as well
 > 66                          (.) we are the stories we tell (.) Halliday says we are
->
 > 67                          what we mean
->
-> 68             Robert    that's (        ) way
->
-> 69         Elizabeth    is it- is that the quote? (.) I- a person is what he means
->
+> 68           Robert    that's (        ) way
+> 69       Elizabeth    is it- is that the quote? (.) I- a person is what he means
 > 70                          (.) from Halliday
->
 > 71                          (1.2)
->
-> 72          Nicholas    it fits (.) it makes sense I don't recognise
+> 72        Nicholas    it fits (.) it makes sense I don't recognise
 
-Several features of this exchange illuminate the intrapersonal-interpersonal relationship. First, the temporal complexity: Harry recalls a specific story ('I remember the only thing I took back from there was the only memory of great conversations we had'), and he signals that he has a story in line 1. This is a story that I have heard Harry tell a number of times over the years. It's probably a story has been told many times before. Each time it is shaped to a slightly different context or intended meaning. Apart, from some trouble sources and repair (lines 6-13), it is clear how this is story is, while Nicholas references past discussions that have become present resources to be evaluated (e.g. on line 48) and reacted to (e.g., on line 65). The story also gets connected to a theory (e.g., Halliday on line 69). Stories and frameworks, etc., don't simply pass through conversation but stick, resonate, and become available for future dialogic engagement. Robert's comment---'that's very strong yeah'---marks recognition that certain stories achieve particular resonance, becoming especially productive resources for ongoing reflection.
+Several features of this exchange illuminate the intrapersonal-interpersonal relationship. First, the temporal complexity: Harry recalls a specific story ('I remember the only thing I took back from there was the only memory of great conversations we had'), and he signals that he has a story in line 1. This is a story that I have heard Harry tell a number of times over the years. It's probably a story has been told many times before. Each time it is shaped to a slightly different context or intended meaning. Apart, from some trouble sources and repair (lines 6-13), it is clear how this is story is, while Nicholas references past discussions that have become present resources to be evaluated (e.g. on line 48) and reacted to (e.g., on line 65). The story also gets connected to a theory (e.g., Halliday on line 69). Stories and frameworks, etc., don't simply pass through conversation but stick, resonate, and become available for future dialogic engagement. Robert's comment–'that's very strong yeah'–marks recognition that certain stories achieve particular resonance, becoming especially productive resources for ongoing reflection.
 
 Yet the dialogic process doesn't end with this initial exchange. In a subsequent episode, Elizabeth and I return to this very conversation a few weeks later, engaging in meta-level reflection on what had transpired*:*
 
-1           Elizabeth    and see how m- often they are to do with a metaphor
+> 1           Elizabeth    and see how m- often they are to do with a metaphor
+> 2                            (.) I don't know (.) I can remember quite a few that are 
+> 3                            to do with metaphors (.) maybe the metaphors just
+> 4                            help you remember them (.) although the planning
+> 5                            and preparation one wasn't a metaphor one was it?
+> 6              Steve    no (.) I mean it seems like (.) there are:: you mentioned
+> 7                            some there (.) there's- there's those sort of more general
+> 8                            representations of an experience or an aspect of our lives
+> 9                            like Harry's (.) then there's the- the metaphors (.)
+> 10                          I mean I remember that one about Harry's hot pip
+> 11                          (.) do you remember that one where he talked about
+> 12                          holding onto a hot pipe in --in Disneyland (.) it was 
+> 13                          about how- how the discourse sometimes allows you
+> 14                          because you give more space (.) this kind of co-operative
+> 15                          development (.) that you've got this idea and this idea
+> 16                          and you've got this idea and this idea (.) and your
+> 17                          initial reaction (.) like there's these pipes in Disneyland
+> 18                          where (0.8) when you put your hand on them (.) you
+> 19                          think they're burning you (.) because one's slightly warm
+> 20                          and one's slightly cold (.) and if you touch them individually
+> 21                          they don't feel anything at all but it's just some trick of
+> 22                          human senses that when you hold (.) a slightly warm and 
+> 23                          slightly cold bar simultaneously (.) the body's confused and
+> 24                          thinks it is being burned (.) so your natural reaction is
+> 25                          arrahhhh (.) and he was s- he was just explaining that
+> 26                          sometimes >you know that< , someone will represent an 
+> 27                          idea (.) and another idea and you're first reaction would be
+> 28                          urgh they don't go together at all (.) but when you give the 
+> 20                          extra space that we give=
+> 30              Jane   \[ yes  yeah yeah
+> 31             Steve    =to actually say Reflect >well< you say that idea and that
+> 32                          idea [Elizabeth: mmm] can you (.) can you tell us again why 
+> 33                          you think there's a connection there (.) and when you
+> 34                          give the space for the Speaker to come back (.) you can
+> 35                          can sometimes (.) that extra of holding on to= 
 
-2                            (.) I don't know (.) I can remember quite a few that are 
-
-3                            to do with metaphors (.) maybe the metaphors just
-
-4                            help you remember them (.) although the planning
-
-5                            and preparation one wasn't a metaphor one was it?
-
-6                Steve    no (.) I mean it seems like (.) there are:: you mentioned
-
-7                            some there (.) there's- there's those sort of more general
-
-8                            representations of an experience or an aspect of our lives
-
-9                            like Harry's (.) then there's the- the metaphors (.)
-
-10                          I mean I remember that one about Harry's hot pipe
-
-11                          (.) do you remember that one where he talked about
-
-12                          holding onto a hot pipe in --in Disneyland (.) it was 
-
-13                          about how- how the discourse sometimes allows you
-
-14                          because you give more space (.) this kind of co-operative
-
-15                          development (.) that you've got this idea and this idea
-
-16                          and you've got this idea and this idea (.) and your
-
-17                          initial reaction (.) like there's these pipes in Disneyland
-
-18                          where (0.8) when you put your hand on them (.) you
-
-19                          think they're burning you (.) because one's slightly warm
-
-20                          and one's slightly cold (.) and if you touch them individually
-
-21                          they don't feel anything at all but it's just some trick of
-
-22                          human senses that when you hold (.) a slightly warm and 
-
-23                          slightly cold bar simultaneously (.) the body's confused and
-
-24                          thinks it is being burned (.) so your natural reaction is
-
-25                          arrahhhh (.) and he was s- he was just explaining that
-
-26                          sometimes >you know that< , someone will represent an 
-
-27                          idea (.) and another idea and you're first reaction would be
-
-28                          urgh they don't go together at all (.) but when you give the 
-
-20                          extra space that we give=
-
-30                Jane       [ yes  yeah yeah
-
-31              Steve    =to actually say Reflect >well< you say that idea and that
-
-32                          idea \[Elizabeth: mmm] can you (.) can you tell us again why 
-
-33                          you think there's a connection there (.) and when you
-
-34                          give the space for the Speaker to come back (.) you can
-
-35                          can sometimes (.) that extra of holding on to= 
-
-This meta-layer reveals dialogic reflection as fundamentally recursive and temporally extended. The original conversation about stories-as-resources itself becomes a resource for further reflection for the individuals in the group. Elizabeth and I, reflecting back on the earlier session, find ourselves in dialogue not only with each other but with our earlier selves and with the voices of Harry, Nicholas, and Robert. This creates what we might call "temporal polyphony"---multiple voices from different moments speaking simultaneously within the ongoing group development process. My current analysis here adds yet another temporal layer, as I reflect on both the original exchange and the subsequent meta-discussion, creating a kind of palimpsest where earlier group conversations remain visible beneath later reflections.
+This meta-layer reveals dialogic reflection as fundamentally recursive and temporally extended. The original conversation about stories-as-resources itself becomes a resource for further reflection for the individuals in the group. Elizabeth and I, reflecting back on the earlier session, find ourselves in dialogue not only with each other but with our earlier selves and with the voices of Harry, Nicholas, and Robert. This creates what we might call "temporal polyphony"–multiple voices from different moments speaking simultaneously within the ongoing group development process. My current analysis here adds yet another temporal layer, as I reflect on both the original exchange and the subsequent meta-discussion, creating a kind of palimpsest where earlier group conversations remain visible beneath later reflections.
 
 This layered structure demonstrates several crucial aspects of dialogic reflection within group development contexts:
 
-\-     *Dialogue as resource*: Group conversations generate artifacts (stories, metaphors, frameworks) that persist beyond the immediate exchange. These don't merely record what happened but create shared resources for future collaborative thinking.
+* *Dialogue as resource*: Group conversations generate artifacts (stories, metaphors, frameworks) that persist beyond the immediate exchange. These don't merely record what happened but create shared resources for future collaborative thinking.
+* *Recursiveness*: Dialogic reflection doesn't move linearly from experience to analysis to closure. Instead, group conversations loop back on themselves–what we say in one session becomes available for collective reflection in subsequent sessions, which generates new insights, which themselves become available for future group work.
+* *Interpersonal-intrapersonal dance*: Between the original conversation and the meta-reflection, substantial internal processing occurred. Group members likely rehearsed possible interpretations privately, perhaps returned to the ideas in their own thinking between sessions. These internal dialogues prepared participants for the interpersonal exchange, which in turn seeds new internal processing. The transcript captures only the external manifestation of a process that involves constant movement between private reflection and collaborative exploration.
+* *Productive uncertainty*: Notice how both layers involve tentative, exploratory language ('I think', 'kind of', 'sort of'). This aligns with cooperative development's commitment to exploration over prescription. The recursive structure allows meanings to remain open, to be revisited and reconsidered rather than fixed–essential to genuine collaborative development.
 
-\-     *Recursiveness*: Dialogic reflection doesn't move linearly from experience to analysis to closure. Instead, group conversations loop back on themselves---what we say in one session becomes available for collective reflection in subsequent sessions, which generates new insights, which themselves become available for future group work.
+This is dialogic reflection operating precisely where inner and outer meet, where past and present interpenetrate, where speaking and listening become inseparable within a sustained community of practice. The transcript reveals dialogue not as discrete exchanges but as temporal threading where past group conversations seed present thinking, current exchanges generate resources for future sessions, and later meta-reflections circle back to illuminate what earlier moments meant. Each layer–the original conversation, the meta-discussion, and this analytical commentary–represents not closure but invitation for continued dialogue within and beyond the group development process.
 
-\-     *Interpersonal-intrapersonal dance*: Between the original conversation and the meta-reflection, substantial internal processing occurred. Group members likely rehearsed possible interpretations privately, perhaps returned to the ideas in their own thinking between sessions. These internal dialogues prepared participants for the interpersonal exchange, which in turn seeds new internal processing. The transcript captures only the external manifestation of a process that involves constant movement between private reflection and collaborative exploration.
+### The Dialogic Interview: A Case Study
 
-\-     *Productive uncertainty*: Notice how both layers involve tentative, exploratory language ('I think', 'kind of', 'sort of'). This aligns with cooperative development's commitment to exploration over prescription. The recursive structure allows meanings to remain open, to be revisited and reconsidered rather than fixed---essential to genuine collaborative development.
+The following vignette captures a qualitative interviewer engaged in dialogic reflection–a process that extends far beyond the immediate interview encounter. The context involves research by Eljee Javier on visible ethnic minority native English-speaking teachers (VEM-NESTs), a category that problematizes the native speaker/non-native speaker binary in English language teaching. As a VEM-NEST researcher exploring the experiences of VEM-NESTs, Eljee occupies a complex position where personal and professional identities intersect, creating distinctive possibilities for dialogic engagement. In simple terms, she is a VEM-NEST, and she is recruiting and interviewing other VEM-NESTs.
 
-This is dialogic reflection operating precisely where inner and outer meet, where past and present interpenetrate, where speaking and listening become inseparable within a sustained community of practice. The transcript reveals dialogue not as discrete exchanges but as temporal threading where past group conversations seed present thinking, current exchanges generate resources for future sessions, and later meta-reflections circle back to illuminate what earlier moments meant. Each layer---the original conversation, the meta-discussion, and this analytical commentary---represents not closure but invitation for continued dialogue within and beyond the group development process.
-
-## The Dialogic Interview: A Case Study
-
-The following vignette captures a qualitative interviewer engaged in dialogic reflection---a process that extends far beyond the immediate interview encounter. The context involves research by Eljee Javier on visible ethnic minority native English-speaking teachers (VEM-NESTs), a category that problematizes the native speaker/non-native speaker binary in English language teaching. As a VEM-NEST researcher exploring the experiences of VEM-NESTs, Eljee occupies a complex position where personal and professional identities intersect, creating distinctive possibilities for dialogic engagement. In simple terms, she is a VEM-NEST, and she is recruiting and interviewing other VEM-NESTs.
-
-The research employed a narrative-based methodology occurring in two stages. During the first stage, the researcher sent participants a written story of her own experiences as a VEM-NEST with an invitation to respond by writing their own stories. The second stage consisted of one-to-one interviews in which questions were based on participants' original written narratives. This methodological structure deliberately created multiple temporal moments for dialogue: the researcher's initial narrative, participants' written responses, and the face-to-face interview---each moment creating conditions for both internal and interpersonal reflection.
+The research employed a narrative-based methodology occurring in two stages. During the first stage, the researcher sent participants a written story of her own experiences as a VEM-NEST with an invitation to respond by writing their own stories. The second stage consisted of one-to-one interviews in which questions were based on participants' original written narratives. This methodological structure deliberately created multiple temporal moments for dialogue: the researcher's initial narrative, participants' written responses, and the face-to-face interview–each moment creating conditions for both internal and interpersonal reflection.
 
 The transcript excerpt below reveals how dialogue operates across these multiple temporal and spatial boundaries. The turns are notably long and conversational, moving away from traditional question-answer formats toward genuinely dialogic exchange. For this reason, it is worth sharing here an extended extract.
 
 *Eljee's Transcript*
 
-1   I: You grew up in- (.) with a large extended family
-
-2       (.) can you tell me a little more about how your
-
-3       cultural heritage was instilled in you (.) what
-
-4       what did that actually involve?
-
-5   P:  Well (.) I might of "mis-written" the situation. 
-
-6       I mean I grew up with my nuclear family but I had 
-
-7       a lot of contact with extended family so with
-
-8       visits rather than living in the same area <so to
-
-9       speak> I mean, it really involved getting 
-
-10        together for birthdays, celebrations and eating 
-
-11        certain foods listening to certain music I
-
-12        suppose and I dunno, having a shared 
-
-13        consciousness as being different but open
-
-14        conversations of overcoming those differences
-
-15        or I don't know, acclimatising.
-
-16        When I say open conversation I mean nothing 
-
-17        explicit but it was just, it wasn't a case
-
-18        of "We're different and we're going to actively
-
-19        try to stay different" it was kind of we want
-
-20        to try to acclimatise as much as possible and
-
-21        make the most of the opportunities of being
-
-22        here whilst still keeping an identity in terms
-
-23        of say food or music or language -- this pidgin
-
-24        English that was spoken in the house.
-
-25        So yeah, it was sort of having a balancing act,
-
-26        certainly not trying to blend in too too much
-
-27        and lose a sense of identity.
-
-28    I:  What do mean by "blending in too much", like
-
-29        what was too much?
-
-30    P:  That's a really interesting question.
-
-31    I:  The reason why I ask that is because I wonder
-
-32        that myself in a Canadian sort of culture so
-
-33        I wondered what your take is on that?
-
-34    P:  Yeah, it's interesting generally that your story
-
-35        and then me reflecting on my story sort made me
-
-36        think, "Oh I haven't really tackled these 
-
-37        questions very much growing up" (.) but I'm 
-
-38        trying even to think why that would be. (.) I'm
-
-39        I'm sorry I'm not sure-
-
-40    I:  Don't worry, I mean it makes me think (.) like 
-
-41        yeah finding that balance between being- growing 
-
-42        up in a Filipino household. It was interesting 
-
-43        when you mentioned Patois in your house, where 
-
-44        with my parents they spoke English to me and my 
-
-45        brother. That was quite specific. My mother can 
-
-46        speak German, English, both dialects in the 
-
-47        Philippines and Spanish and my dad speaks 
-
-48        English, Tagalog -- the main dialect in the 
-
-49        Philippines -- and Japanese and my brother and I, 
-
-50        we just speak English! I mean this linguistic 
-
-51        heritage here! And part of that was that they 
-
-52        wanted us to be Canadian and be really part of 
-
-53        so Canadian society English was the best way 
-
-54        forward and that was a choice growing up so I 
-
-55        guess I didn't notice it until I got older that 
-
-56        they still insisted, even up to high school, that 
-
-57        the values - for example the emphasis on family, 
-
-58        and the whole taking care of your elders, the 
-
-59        honorific system of how you address people -- in 
-
-60        my family but certainly different things like
-
-61        using English and getting an education in Canada.
-
-62        That was kind of a path to try to negotiate
-
-63        so I don't know if it's something similar
-
-64        with you?
-
-65    P:  It was very similar, I mean things like the 
-
-66        language thing for a start, I mean it was 
-
-67        expected, up there they'd speak Patois to us
-
-68        all the time y'know to varying degrees. I think
-
-68        my dad is much more a user of the dialect
-
-70        whereas my mum you could probably say she's
-
-71        got an accent until she swings into it full on
-
-72        but it was never expected that we'd speak like
-
-73        that and between either that or even having
-
-74        a very strong black country accent as I mentioned
-
-75        in my story it just wasn't expected. Again I
-
-76        think that was a sense of they thought, they
-
-77        really wanted us to be very well educated -
-
-78        - my sister and I - they wanted us to get
-
-79        a good education, it was always expected that we
-
-80        would go to university and maybe me more so
-
-81        than my sister as I was always more academic than 
-
-82        my sister. Anyway so it was definitely an 
-
-83        expectation that I would go. I think then 
-
-84        attached to that was a sense of well people
-
-85        that do that, that speak a certain way, y'know 
-
-86        what I mean in order to get ahead in this society
-
-87        that you're in (.) you need to speak a certain 
-
-88        way and y'know my parents...they were aware that 
-
-89        they were both working class, my mom dad worked 
-
-90        in a supermarket and a factory and I think they 
-
-91        felt that their background limited them really in 
-
-92        terms of achieving that...
+> 1   I:    You grew up in- (.) with a large extended family
+> 2         (.) can you tell me a little more about how your
+> 3         cultural heritage was instilled in you (.) what
+> 4         what did that actually involve?
+> 5   P:   Well (.) I might of "mis-written" the situation. 
+> 6          I mean I grew up with my nuclear family but I had 
+> 7          a lot of contact with extended family so with
+> 8          visits rather than living in the same area <so to
+> 9          speak> I mean, it really involved getting 
+> 10         together for birthdays, celebrations and eating 
+> 11         certain foods listening to certain music I
+> 12         suppose and I dunno, having a shared 
+> 13         consciousness as being different but open
+> 14         conversations of overcoming those differences
+> 15         or I don't know, acclimatising.
+> 16         When I say open conversation I mean nothing 
+> 17         explicit but it was just, it wasn't a case
+> 18         of "We're different and we're going to actively
+> 19         try to stay different" it was kind of we want
+> 20         to try to acclimatise as much as possible and
+> 21         make the most of the opportunities of being
+> 22         here whilst still keeping an identity in terms
+> 23         of say food or music or language -- this pidgin
+> 24         English that was spoken in the house.
+> 25         So yeah, it was sort of having a balancing act,
+> 26         certainly not trying to blend in too too much
+> 27         and lose a sense of identity.
+> 28  I:   What do mean by "blending in too much", like
+> 29         what was too much?
+> 30  P:   That's a really interesting question.
+> 31  I:   The reason why I ask that is because I wonder
+> 32         that myself in a Canadian sort of culture so
+> 33         I wondered what your take is on that?
+> 34  P:   Yeah, it's interesting generally that your story
+> 35         and then me reflecting on my story sort made me
+> 36         think, "Oh I haven't really tackled these 
+> 37         questions very much growing up" (.) but I'm 
+> 38         trying even to think why that would be. (.) I'm
+> 39         I'm sorry I'm not sure-
+> 40  I:   Don't worry, I mean it makes me think (.) like 
+> 41         yeah finding that balance between being- growing 
+> 42         up in a Filipino household. It was interesting 
+> 43         when you mentioned Patois in your house, where 
+> 44         with my parents they spoke English to me and my 
+> 45         brother. That was quite specific. My mother can 
+> 46         speak German, English, both dialects in the 
+> 47         Philippines and Spanish and my dad speaks 
+> 48         English, Tagalog -- the main dialect in the 
+> 49         Philippines -- and Japanese and my brother and I, 
+> 50         we just speak English! I mean this linguistic 
+> 51         heritage here! And part of that was that they 
+> 52         wanted us to be Canadian and be really part of 
+> 53         so Canadian society English was the best way 
+> 54         forward and that was a choice growing up so I 
+> 55         guess I didn't notice it until I got older that 
+> 56         they still insisted, even up to high school, that 
+> 57         the values - for example the emphasis on family, 
+> 58         and the whole taking care of your elders, the 
+> 59         honorific system of how you address people -- in 
+> 60         my family but certainly different things like
+> 61         using English and getting an education in Canada.
+> 62         That was kind of a path to try to negotiate
+> 63         so I don't know if it's something similar
+> 64         with you?
+> 65  P:   It was very similar, I mean things like the 
+> 66         language thing for a start, I mean it was 
+> 67         expected, up there they'd speak Patois to us
+> 68         all the time y'know to varying degrees. I think
+> 68         my dad is much more a user of the dialect
+> 70         whereas my mum you could probably say she's
+> 71         got an accent until she swings into it full on
+> 72         but it was never expected that we'd speak like
+> 73         that and between either that or even having
+> 74         a very strong black country accent as I mentioned
+> 75         in my story it just wasn't expected. Again I
+> 76         think that was a sense of they thought, they
+> 77         really wanted us to be very well educated -
+> 78         - my sister and I - they wanted us to get
+> 79         a good education, it was always expected that we
+> 80         would go to university and maybe me more so
+> 81         than my sister as I was always more academic than 
+> 82         my sister. Anyway so it was definitely an 
+> 83         expectation that I would go. I think then 
+> 84         attached to that was a sense of well people
+> 85         that do that, that speak a certain way, y'know 
+> 86         what I mean in order to get ahead in this society   
+> 87         that you're in (.) you need to speak a certain 
+> 88         way and y'know my parents...they were aware that 
+> 89         they were both working class, my mom dad worked 
+> 90         in a supermarket and a factory and I think they 
+> 91         felt that their background limited them really in 
+> 92         terms of achieving that...
 
 This exchange illuminates several crucial dimensions of how intrapersonal and interpersonal reflection interweave in dialogic practice. I expand on them in the following sections.
 
-## Temporal Layering: Multiple Dialogues Across Time
+### Temporal Layering: Multiple Dialogues Across Time
 
 The transcript reveals how dialogic reflection operates across multiple temporal moments, creating what we might call "temporal layering" of reflection. The participant's reference to "your story and then me reflecting on my story sort made me think, 'Oh I haven't really tackled these questions very much growing up" (lines 34-36) demonstrates how the initial exchange of written narratives created an ongoing internal dialogue that continued to unfold during the face-to-face encounter.
 
 This temporal structure enabled several layers of reflection to develop:
 
-\-     *Pre-interview internal dialogue*: The researcher's process of writing her own narrative required intrapersonal reflection---examining her experiences, selecting which aspects to share, and anticipating how they might resonate with potential participants.
+* *Pre-interview internal dialogue*: The researcher's process of writing her own narrative required intrapersonal reflection–examining her experiences, selecting which aspects to share, and anticipating how they might resonate with potential participants.
+* *Participant's written response*: Upon receiving the researcher's narrative, the participant engaged in internal dialogue while composing her own story, creating an initial interpersonal connection through the written exchange.
+* *Ongoing internal processing*: Between receiving the written narratives and the face-to-face interview, both researcher and participant continued internal reflection, as evidenced by the participant's comment about "reflecting on my story."
+* *Real-time dialogic co-construction*: During the interview itself, these accumulated reflections became resources for collaborative meaning-making, with each speaker's contributions prompting further internal processing even as external dialogue continued.
+* *Post-interview reflection*: The researcher's subsequent analysis and reflexive commentary (discussed below) represents yet another temporal moment where the dialogue continues internally, now informed by multiple previous iterations.
 
-\-     *Participant's written response*: Upon receiving the researcher's narrative, the participant engaged in internal dialogue while composing her own story, creating an initial interpersonal connection through the written exchange.
+This temporal architecture demonstrates that dialogic reflection doesn't occur in discrete moments but unfolds continuously across time, with interpersonal exchanges generating intrapersonal reflection that in turn shapes subsequent interpersonal engagement. As Vygotsky (1978) theorized, thought develops through its expression in speech–but we can extend this insight to recognize that both internal and external dialogue develop through their recursive interaction with each other.
 
-\-     *Ongoing internal processing*: Between receiving the written narratives and the face-to-face interview, both researcher and participant continued internal reflection, as evidenced by the participant's comment about "reflecting on my story."
+### Shared Positionality and the Blurring of Boundaries
 
-\-     *Real-time dialogic co-construction*: During the interview itself, these accumulated reflections became resources for collaborative meaning-making, with each speaker's contributions prompting further internal processing even as external dialogue continued.
-
-\-     *Post-interview reflection*: The researcher's subsequent analysis and reflexive commentary (discussed below) represents yet another temporal moment where the dialogue continues internally, now informed by multiple previous iterations.
-
-This temporal architecture demonstrates that dialogic reflection doesn't occur in discrete moments but unfolds continuously across time, with interpersonal exchanges generating intrapersonal reflection that in turn shapes subsequent interpersonal engagement. As Vygotsky (1978) theorized, thought develops through its expression in speech---but we can extend this insight to recognize that both internal and external dialogue develop through their recursive interaction with each other.
-
-## Shared Positionality and the Blurring of Boundaries
-
-What emerges powerfully from this interaction is how the interviewer and participant's shared identity as VEM-NESTs creates a dialogic space where conventional interview boundaries become productively blurred. The researcher's extended sharing (lines 40-64) represents not simply self-disclosure but a dialogic response to the participant's emerging reflections and her temporary difficult in pinning down what she wants to say---a co-construction of understanding that challenges binary distinctions between interviewer objectivity and subjective engagement.
+What emerges powerfully from this interaction is how the interviewer and participant's shared identity as VEM-NESTs creates a dialogic space where conventional interview boundaries become productively blurred. The researcher's extended sharing (lines 40-64) represents not simply self-disclosure but a dialogic response to the participant's emerging reflections and her temporary difficult in pinning down what she wants to say–a co-construction of understanding that challenges binary distinctions between interviewer objectivity and subjective engagement.
 
 The interviewer's turn beginning "Don't worry, I mean it make me think" (line 40) shifts the discourse from conventional question-answer format into reciprocal narrative exchange. This shift matters because it signals that both participants are engaged in genuine exploration rather than enacting fixed roles of knowledge-seeker and knowledge-holder. The interviewer's detailed account of her Filipino household, her parents' multilingualism, and their strategies for negotiating Canadian society offers a parallel experience that invites comparison, contrast, and deeper articulation from the participant.
 
-Crucially, this sharing doesn't impose the interviewer's interpretation but creates what Edge (2002) called "external internal dialogue"---the interviewer's narrative becomes material for the participant's internal reflection, as evidenced by her response: "It was very similar" (line 65), followed by elaborated thinking about language expectations and educational aspirations. The interpersonal exchange has enriched both participants' intrapersonal understanding.
+Crucially, this sharing doesn't impose the interviewer's interpretation but creates what Edge (2002) called "external internal dialogue"–the interviewer's narrative becomes material for the participant's internal reflection, as evidenced by her response: "It was very similar" (line 65), followed by elaborated thinking about language expectations and educational aspirations. The interpersonal exchange has enriched both participants' intrapersonal understanding.
 
 The concept of co-construction has been helpful for me in demonstrating how "interview talk is inevitably a co-construction between the interviewer and interviewee" (Holstein & Gubrium, 1995). This inevitably creates opportunities for dialogic reflection as researchers recognize their active role in shaping interview interactions. This aligns with the author's statement about how engaging with Eljee's research prompted internal reflection on interviewing practices.
 
-## My own dialogic reflection
+### My own dialogic reflection
 
 At this point, I would like to share with you (the reader) that reading this text and talking to Eljee shifted my own thinking in a significant way. In short, this extract raised important questions about the relationship between empathy and disclosure in research relationships for me. Traditional methodological training often presents these as tensions to be managed: how much should researchers disclose without biasing participants? How can empathy be expressed while maintaining analytic distance? Yet from a dialogic perspective, these apparent dilemmas can become productive opportunities. The researcher's disclosure doesn't contaminate the data but enables deeper dialogue; empathy doesn't compromise objectivity but enriches understanding through genuine engagement with multiple perspectives.
 
@@ -812,15 +609,11 @@ In other words, engagement with Eljee opened up further dialogic processes for m
 
 Returning to Eljee's vignette. In Eljee's move below (line 40), her decision to disclose at that point in the interview is clearly motivated out of her empathetic understanding and her appreciation that 'P' is perhaps struggling and potentially feeling uncomfortable:
 
-38  P:  ... I'm trying even to think why that would be. (.) 
-
-39      I'm sorry I'm not sure-
-
-40  I:  Don't worry, I mean it make me think (.) like 
-
-41      yeah finding that balance between being- growing
-
-42      up in a Filipino household...
+> 38  P:  ... I'm trying even to think why that would be. (.) 
+> 39       I'm sorry I'm not sure-
+> 40  I:   Don't worry, I mean it make me think (.) like 
+> 41       yeah finding that balance between being- growing
+> 42       up in a Filipino household...
 
 Therefore, this moment led me to appreciate that an empathetic appreciation of the difficulty that an interviewer is experiencing might well prompt disclosure (almost certainly unplanned but constructed in the moment). I think in the original formulation (in 'parameters of sensitivity'), I had been focused on something like the contrast between focus on the interviewee (empathy and understanding) and focus on the interviewer (disclosure of experiences and beliefs), but I do not now think it is necessarily helpful to see them as straightforward ends of a cline at all. As Eljee's example shows, their relationship is more subtle and nuanced than that. Disclosure could, in one interview, be simply a lack of concentration on the role of being an interviewer and getting carried away with a desire to share your own narratives and experiences. However, in another (as in Eljee's data above), it might be motivated by a desire to support the interviewee and give them space and support.
 
