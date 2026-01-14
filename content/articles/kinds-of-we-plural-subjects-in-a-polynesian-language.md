@@ -83,11 +83,11 @@ Orator;             māgaia sē  le**   kā **ka`avale
 
                         Nice      hey the **our-two-incl** car
 
-"our (dual) car (is) really nice"
+                "our (dual) car (is) really nice"
 
-**kā** ke koe ō ai i Apia Kāvō!
+                **kā** ke koe ō ai i Apia Kāvō!
 
-"**we-two-incl** go with it to Apia, Tāvō!"
+                "**we-two-incl** go with it to Apia, Tāvō!"
 
                  "What a nice car for the two of us to go to Apia!" (Apia is the capital)
 
