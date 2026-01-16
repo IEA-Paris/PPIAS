@@ -39,7 +39,7 @@ highlight: false
 bibliography: /static/references_duranti.bib
 language: English
 ---
-## 1. Introduction[^1]
+## 1. Introduction
 
 Over the last four decades, cooperation and the conditions under which it can be achieved have received considerable attention across numerous fields. A popular proposal by analytic philosophers and cognitive scientists has been to posit the existence of a special kind of intentionality, which they called "collective," "we-," or "shared intentionality," as a mental state that is ontologically distinct from individual intentionality (e.g., Bratman, 1993; Gilbert, 1990; Searle, 1990; Tuomela & Miller, 1988;). Considering the family resemblance between collective intentionality and the notion of intersubjectivity as originally discussed by Edmund Husserl and other phenomenologists, it is surprising that there has been little dialogue between contemporary analytic philosophers and phenomenologists. Dan Zahavi's latest book, *Being We. Phenomenological Contributions to Social Ontology* (2025) is a welcome exception, where he systematically reviews and assesses many of the arguments in the literature on the "collective" or "shared we" in light of phenomenological analyses of similar phenomena. Zahavi's overall goal is to oppose "the prevalent compartmentalization of research on selfhood, social cognition, and collective intentionality" and promote the clarification of "the complex interaction between the first-person singular, the second-person singular, and the first-person plural perspective" (Zahavi, 2025, p. 4). 
 
@@ -55,7 +55,7 @@ While interested in some recurrent differences between the singular "I" and the 
 
 > Even if much can be learned from a study of the use of the first- person plural pronoun, my main concern, however, is not with the pronoun or its use, but with the social experiences (Zahavi, 2025, p. 9). 
 
-In contrast, in what follows I would like to explore the path-not-taken by providing a brief account of the use of first-person plural pronouns (distinguishing different types of 'we') and adjectives (distinguishing different types of 'our') in a Polynesian language, Samoan, which, like many other languages in the Pacific region and in some other areas (Filimonova, 2005), displays in its vocabulary a taxonomy of persons that makes the inclusive/exclusive meaning obligatorily marked.[^2]
+In contrast, in what follows I would like to explore the path-not-taken by providing a brief account of the use of first-person plural pronouns (distinguishing different types of 'we') and adjectives (distinguishing different types of 'our') in a Polynesian language, Samoan, which, like many other languages in the Pacific region and in some other areas (Filimonova, 2005), displays in its vocabulary a taxonomy of persons that makes the inclusive/exclusive meaning obligatorily marked.[^1]
 
 All the examples I chose for this article are from recordings made between 1978 and 1988. Only a minimum background will be provided on the nature of their social occasion, the identity of the speakers, and, in some cases, the sequence of events that preceded the moment of speaking captured in the transcript. More information on the Samoan community where the recordings were made can be found in other publications (Duranti, 1981, 1994; Ochs, 1988). The Samoan society that I experienced and recorded in those years was a highly stratified social system where everyone was very self-conscious of their own social standing in the community and paid much attention to the language appropriate for the occasion, the addressees, and the bystanders, always with some room left for negotiation. As we shall see, first-person plural pronouns were involved in the recognition and reconstitution of cohesive groups and of competitive relations. The main message in what follows is that *language matters*. The additional message is that communication of inclusion and exclusion as encoded in first-person plural pronouns seems to provide a cognitive map of people's efforts at constituting collective selves of different kinds. What those kinds are is crucially, albeit not exclusively, indexed by the choice of personal pronouns. 
 
@@ -79,7 +79,7 @@ The distinctions listed in (b) and (c) above are built in Samoan on the oppositi
 
 Example (1) From "The watch" – a conversation during which an orator arrives and enters the conversation with a joke. 
 
-Orator;             māgaia sē  le **  kā** ka`avale
+Orator;             māgaia sē  le  ** kā** ka`avale
 
                         Nice      hey the **our-two-incl** car
 
@@ -99,7 +99,7 @@ Table 1 and Table 2 below show the full forms of the first-person plural pronoun
 
 ![](/static/table1_duranti.png)
 
-The pronunciation in Table 1, locally called "good speech" (*tautala lelei*), represents the written form and is used in praying, singing, and sometimes talking to foreigners. The pronunciation in Table 2 is called "bad speech" (*tautala leaga*) and is prevalent in the examples I will use from spontaneous interactions, whether informal or formal (Duranti & Ochs, 1986, pp. 218-219)[^3].
+The pronunciation in Table 1, locally called "good speech" (*tautala lelei*), represents the written form and is used in praying, singing, and sometimes talking to foreigners. The pronunciation in Table 2 is called "bad speech" (*tautala leaga*) and is prevalent in the examples I will use from spontaneous interactions, whether informal or formal (Duranti & Ochs, 1986, pp. 218-219)[^2].
 
 **Table 2 Samoan first-person pronouns as pronounced in most spoken interactions**
 
@@ -113,7 +113,7 @@ An earlier study by Scott Saft (2017) focuses on the use of the Hawaiian first-p
 
 There is an aspect of the use of the dual forms in Samoan that distinguishes them semantically from the periphrastic use of dual in English and other modern Indo-European languages, suggesting a different emphasis or priority in thinking about groups of two or more people.
 
-When an English speaker is explicitly referring to a dual combination of him- or herself and one other person, they may use expressions like *my friend and I* or *me and my friend*, in which the two parties are identified as distinct individuals temporarily united into a collective, as signified by the conjunction *and*. In Samoan, it is the collective that is foregrounded. An expression like "Elinor and I" or "me and Elinor" is expressed as *mā`ua ma Elenoa* (*ma* can mean 'and' or 'with'), which does not mean 'the two of us and Elinor,' but 'the two us including Elinor.' Elinor in this case, is *not* *added* to an independently existing duo but is *included* in the semantic scope of the preceding dual *mā`ua*. In a way, the NP that follows *mā`ua* *ma* 'two-of-us-exclusive and' or 'two-of-us-exclusive with' clarifies the identity of the second person, besides the speaker, that is implied by the preceding pronoun[^4]. The same principle works for conjunctions involving plural, i.e., more than two, parties. This is illustrated in example (2) where the deacon uses the expression *mākou ma Sā* 'we \[plural exclusive] and Sā \[a person's name],' which does not mean all-of-us and/with Sā,' but 'all of us, including Sā.. ' 
+When an English speaker is explicitly referring to a dual combination of him- or herself and one other person, they may use expressions like *my friend and I* or *me and my friend*, in which the two parties are identified as distinct individuals temporarily united into a collective, as signified by the conjunction *and*. In Samoan, it is the collective that is foregrounded. An expression like "Elinor and I" or "me and Elinor" is expressed as *mā`ua ma Elenoa* (*ma* can mean 'and' or 'with'), which does not mean 'the two of us and Elinor,' but 'the two us including Elinor.' Elinor in this case, is *not* *added* to an independently existing duo but is *included* in the semantic scope of the preceding dual *mā`ua*. In a way, the NP that follows *mā`ua* *ma* 'two-of-us-exclusive and' or 'two-of-us-exclusive with' clarifies the identity of the second person, besides the speaker, that is implied by the preceding pronoun[^3]. The same principle works for conjunctions involving plural, i.e., more than two, parties. This is illustrated in example (2) where the deacon uses the expression *mākou ma Sā* 'we \[plural exclusive] and Sā \[a person's name],' which does not mean all-of-us and/with Sā,' but 'all of us, including Sā.. ' 
 
 Example 2. "Pastor and deacon"
 
@@ -243,9 +243,9 @@ The distribution of *kākou* vs. *mākou* in conversations differs from thei
 
 We have seen that in formal speeches *kākou* is used to emphasize or bring the attention to togetherness in or through shared values (e.g., belief in God), past or ongoing shared activities (e.g., eating together), and shared life-experiences (e.g., being from the same village). In conversation, the inclusive *kākou* is used more broadly to refer to associations, activities, and events or mundane objects that are shared by the speaker, the addressee, and one or more others. For example, in the conversation mentioned above between a pastor and a deacon (Conversation 1 in the Appendix), *kākou* is used when talking about actions, opinions, and events that involve the two of them and others, as in *kākou ke iloa* 'we all-inclusive know,' *kākou faikau* 'our-all-inclusive interpretation,' *kākou* `*Ēkalesia* 'our-all-inclusive congregation.' In reported speech alone, *kākou* may be used to refer to a group that includes the speaker but not the current addressee. 
 
-In another conversation, recorded while an untitled man, Sala, his wife Sela (I have used pseudonyms for commoners), and their two children are having dinner and a few friends happen to stop by, the relative percentage of inclusive and exclusive is similar, with a slight increase in the all-inclusive pronoun *kākou* (see Conversation 2 in the Appendix), which is used for objects belonging to the family[^5] and invitations. In the latter use, *tātou* or *kākou* refers to a proposed or wished-for future togetherness, similar to the 'shall we dance?' mentioned by Gilbert (1989) and cited by Zahavi as an example of "an invitation to the formation of a we, one that awaits the response from the addressee" (Zahavi, 2025, p. 9). This future-oriented use of *kākou* is shown below in an exchange where Sela invites the friends who had stopped by to stay by asking them to be members of a group that shares the evening (*afiafi*), understood as 'evening meal' ("//" indicates the point of overlap by subsequent speaker).
+In another conversation, recorded while an untitled man, Sala, his wife Sela (I have used pseudonyms for commoners), and their two children are having dinner and a few friends happen to stop by, the relative percentage of inclusive and exclusive is similar, with a slight increase in the all-inclusive pronoun *kākou* (see Conversation 2 in the Appendix), which is used for objects belonging to the family[^4] and invitations. In the latter use, *tātou* or *kākou* refers to a proposed or wished-for future togetherness, similar to the 'shall we dance?' mentioned by Gilbert (1989) and cited by Zahavi as an example of "an invitation to the formation of a we, one that awaits the response from the addressee" (Zahavi, 2025, p. 9). This future-oriented use of *kākou* is shown below in an exchange where Sela invites the friends who had stopped by to stay by asking them to be members of a group that shares the evening (*afiafi*), understood as 'evening meal' ("//" indicates the point of overlap by subsequent speaker).
 
-(10)     Sela;    *faku ali`i kou ke ōmai ali\`i //\`i`ī  **kākou** afiafi*
+(10)     Sela;    *faku ali`i kou ke ōmai ali\`i //\`i\`ī  **kākou** afiafi*
 
 \    "I told you, guys, to come, guys, here (to have) **our-all-inclusive** evening'
 
@@ -267,7 +267,7 @@ A Samoan example of this use of *kākou* is found in (12) below, from a conver
 
 (12)     From "Women of the `Ēkalesia"
 
-            Vita;    *sau loa \`oe Masa \`i`ī **kākau** \`a\`ai*
+            Vita;    *sau loa \`oe Masa \`i`ī **kākau** \`a`ai*
 
 \    "you come now Masa over here let us-all-inclusive eat," that is, "come to eat with us-all'
 
@@ -307,7 +307,7 @@ La;       `*o le ā **tātou** ifo ma tatalo i le Atua*
 
 But once the prayer – in this case a particularly long one – starts, we find a 100% of *mātou* and no *tātou* (see Appendix). 
 
-On behalf of the family or the congregation, the speaker is addressing a God that is separate from them. God is recognized as generously giving, and humans as happy to receive, but they do not form a collective subject with the deity. The pattern repeats in a second long prayer[^6] and in two very short prayers (see Appendix). 
+On behalf of the family or the congregation, the speaker is addressing a God that is separate from them. God is recognized as generously giving, and humans as happy to receive, but they do not form a collective subject with the deity. The pattern repeats in a second long prayer[^5] and in two very short prayers (see Appendix). 
 
 ## Concluding
 
@@ -323,14 +323,12 @@ The observations offered in this paper are offered to draw more attention to lin
 
 
 
-[^1]: The original idea of rethinking the concept of the "we" by examining transcripts of interactions I recorded in Samoa was developed in September 2025 while I was a Fellow at the *Institut d'Etudes Avancées de Paris*. I want to thank the Director, Saadi Lahlou, for the invitation and for our stimulating conversations, Irina Nosulenko and the other members of the staff for making me feel welcome, and the other Fellows at the Institute for providing an inspiring intellectual environment for thinking and writing. The focus on the "we" was inspired by Dan Zahavi's *Being We. Phenomenological Contributions to Social Ontology*, Oxford University Press, 2025. An earlier and shorter draft of this article was sent to Zahavi for a Book Symposium held on November 14, 2025 at the Center for Subjectivity Research, at the University of Copenhagen. I am thankful for his response to my comments, which helped me clarify several of my points. I am also thankful to Nicco La Mattina for his insightful comments on two earlier drafts. 
+[^1]: The recording of spontaneous Samoan speech used for this article was part of research projects supported by the National Science Foundation in 1978-79 and in 1988, and the Australian National University in 1981 (more video recordings were made in 1999 and 2000, but they are not analyzed in this study). Some key information on the contexts of some of the recorded interactions, including the highly stratified quality of Samoan ritual and political events, are described in several previous publications, including Duranti (1994). A more in-depth ethnographic account of Samoan social life and ethos around the time of my fieldwork can be found in Bradd Shore (1982). See also Tcherkézoff (2003) for additional insights into Samoan ways of life. 
 
-[^2]: The recording of spontaneous Samoan speech used for this article was part of research projects supported by the National Science Foundation in 1978-79 and in 1988, and the Australian National University in 1981 (more video recordings were made in 1999 and 2000, but they are not analyzed in this study). Some key information on the contexts of some of the recorded interactions, including the highly stratified quality of Samoan ritual and political events, are described in several previous publications, including Duranti (1994). A more in-depth ethnographic account of Samoan social life and ethos around the time of my fieldwork can be found in Bradd Shore (1982). See also Tcherkézoff (2003) for additional insights into Samoan ways of life. 
+[^2]: As shown by the transcripts in Saft (2017) and in other sources, differently from Samoan, Hawaiian has fully replaced the Proto-Polynesian *t with /k/. 
 
-[^3]: As shown by the transcripts in Saft (2017) and in other sources, differently from Samoan, Hawaiian has fully replaced the Proto-Polynesian *t with /k/. 
+[](file:///Users/alexcano86/Desktop/Duranti.html#_ednref4)[^3]: I have found some cases in spoken Samoan where **mā`ua** is conjoined with an additional third party, not included in the dual form, for example, *ma`ua ma Luku ma Salagoa* lit. Luku and I and Salanoa. The general point remains that there is no separate singular "I" or "me" in these constructions.
 
-[](file:///Users/alexcano86/Desktop/Duranti.html#_ednref4)[^4]: I have found some cases in spoken Samoan where **mā`ua** is conjoined with an additional third party, not included in the dual form, for example, *ma`ua ma Luku ma Salagoa* lit. Luku and I and Salanoa. The general point remains that there is no separate singular "I" or "me" in these constructions.
+[^4]: Examples of this inclusive *kākou* are found when Sela says to her two children *`aumai le kākou lekiō* 'bring our-all-inclusive radio' and *e le `i fufulua kākou* `*ipu* 'our-all-inclusive dishes have not been washed,' an indirect way of reproaching them. 
 
-[^5]: Examples of this inclusive *kākou* are found when Sela says to her two children *`aumai le kākou lekiō* 'bring our-all-inclusive radio' and *e le `i fufulua kākou* `*ipu* 'our-all-inclusive dishes have not been washed,' an indirect way of reproaching them. 
-
-[^6]: I have not considered God included in the *tātou* used in the phrase *tātou fa\`atasi ma \`oe* 'we-all-inclusive together with you' uttered by Sala in his prayer (Long prayer 2 in the Appendix).
+[^5]: I have not considered God included in the *tātou* used in the phrase *tātou fa\`atasi ma \`oe* 'we-all-inclusive together with you' uttered by Sala in his prayer (Long prayer 2 in the Appendix).
