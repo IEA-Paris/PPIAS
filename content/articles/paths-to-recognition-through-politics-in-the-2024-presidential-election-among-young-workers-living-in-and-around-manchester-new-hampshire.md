@@ -51,7 +51,33 @@ authors:
       google_scholar: ""
       researchgate: ""
       mendeley: ""
-abstract: "                        "
+abstract: "How do young adult workers (18-30 years old) living in and around
+  Manchester, New Hampshire, seek recognition through politics? We interviewed
+  45 randomly sampled low-status white collar workers and blue collar workers
+  during the 2024 US presidential election to capture how they understand their
+  political orientation and involvement in politics, and whether they connect
+  these perceptions with a need for recognition and respect. Based on
+  qualitative inductive content analysis, we identify four recognition paths
+  through which these workers engage in politics: (1) Recognition through
+  exclusion is the path that attracts mostly men who planned to vote or voted
+  for the Republican Party, and those who define themselves as conservative.
+  They favor channeling resources toward “people like us” and use
+  particularistic criteria in doing so (nationality and others). They believe
+  that President Trump prioritizes their grievances and needs, which gives them
+  recognition; (2) Recognition through inclusion is the path favored by a
+  smaller number of participants who declared voting or intending to vote for
+  the Democratic ticket, or who define themselves as liberal or progressive.
+  They promote inclusion and solidarity and associate their political leaning
+  with a need for recognition, which they connect to their personal identity as
+  person of color, immigrant, woman, or LGBTQ+; (3) Recognition through distance
+  from politics is the path favored by individuals who did not vote or did not
+  plan to vote in the 2024 Presidential election. These participants maintain
+  distance toward politics because they believe politicians don’t pay attention
+  to “people like them,” associate politics with conflict and corruption, or
+  feel politically uninformed, disinterested, or disempowered; Finally, (4)
+  Recognition through elevation is the path favored by voters who self-define as
+  “independent” because they feel that the main parties are corrupt, or that
+  they do not represent their views. "
 issue: content/issues/paris-ias-ideas.md
 highlight: false
 bibliography: /static/references_lamont.bib
