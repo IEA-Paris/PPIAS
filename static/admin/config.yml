@@ -7,12 +7,12 @@ backend:
   repo: IEA-Paris/PPIAS
   branch: main
   base_url: https://85o05b11ri.execute-api.eu-west-2.amazonaws.com/
-  auth_endpoint: "/dev/auth"
-  cms_label_prefix: "IEA-Paris/"
+  auth_endpoint: '/dev/auth'
+  cms_label_prefix: 'IEA-Paris/'
 publish_mode: editorial_workflow
-media_folder: "static"
-public_folder: "/"
-locale: fr
+media_folder: 'static/'
+public_folder: '/'
+locale: en
 site_url: https://paris.pias.science
 logo_url: https://paris.pias.science/icon.png
 show_preview_links: false
@@ -21,79 +21,79 @@ i18n:
   locales: [en, fr]
   default_locale: en
 collections:
-  - name: "authors"
+  - name: 'authors'
     identifier_field: lastname
-    label: "Authors"
-    label_singular: "Author"
+    label: 'Authors'
+    label_singular: 'Author'
     nested:
       depth: 2
-      summary: "{{lastname}} {{firstname}}"
-    folder: "authors" # The path to the folder where the documents are stored
+      summary: '{{lastname}} {{firstname}}'
+    folder: 'content/authors' # The path to the folder where the documents are stored
     create: true
-    slug: "{{lastname}}-{{firstname}}"
-    summary: "{{lastname}} {{firstname}}"
+    slug: '{{lastname}}-{{firstname}}'
+    summary: '{{lastname}} {{firstname}}'
     fields:
       [
         {
-          label: "Is institution",
-          name: "is_institution",
-          widget: "boolean",
+          label: 'Is institution',
+          name: 'is_institution',
+          widget: 'boolean',
           default: false,
         },
         {
           label: Firstname,
           name: firstname,
           widget: string,
-          default: "",
+          default: '',
           hint: leave empty if is_institution is true,
         },
         {
           label: Lastname,
           name: lastname,
           widget: string,
-          default: "",
+          default: '',
           required: true,
-          hint: "used as the institution name if is_institution is toggled on",
+          hint: 'used as the institution name if is_institution is toggled on',
         },
-        { label: "Picture", name: "picture", widget: "image", required: false },
+        { label: 'Picture', name: 'picture', widget: 'image', required: false },
         {
-          label: "Picture Copyright",
-          name: "picture_copyright",
-          widget: "string",
+          label: 'Picture Copyright',
+          name: 'picture_copyright',
+          widget: 'string',
           required: false,
         },
-        { label: "Body", name: "body", widget: "markdown", required: false },
+        { label: 'Body', name: 'body', widget: 'markdown', required: false },
 
         {
-          widget: "list",
+          widget: 'list',
           default: [],
-          label: "Positions and Institutions",
-          name: "positions_and_institutions",
-          summary: "{{fields.position}} {{fields.institution}}",
-          hint: "E.g. Scientific Director (position <em>facultative</em>), PARIS IAS, FRANCE (Institution mandatory)",
+          label: 'Positions and Institutions',
+          name: 'positions_and_institutions',
+          summary: '{{fields.position}} {{fields.institution}}',
+          hint: 'E.g. Scientific Director (position <em>facultative</em>), PARIS IAS, FRANCE (Institution mandatory)',
           required: false,
           fields:
             [
               {
-                label: "Institution",
-                name: "institution",
-                widget: "string",
-                default: "",
+                label: 'Institution',
+                name: 'institution',
+                widget: 'string',
+                default: '',
               },
               {
-                widget: "list",
+                widget: 'list',
                 default: [],
                 label: Positions,
-                name: "positions",
-                summary: "{{fields.institution}}",
+                name: 'positions',
+                summary: '{{fields.institution}}',
                 required: false,
                 fields:
                   [
                     {
-                      label: "Position",
-                      name: "position",
-                      widget: "string",
-                      default: "",
+                      label: 'Position',
+                      name: 'position',
+                      widget: 'string',
+                      default: '',
                       required: false,
                     },
                   ],
@@ -101,241 +101,241 @@ collections:
             ],
         },
         {
-          widget: "object",
+          widget: 'object',
           default: [],
           collapsed: true,
-          label: "Social channels",
-          name: "social_channels",
+          label: 'Social channels',
+          name: 'social_channels',
           required: false,
           fields:
             [
               {
-                label: "Website",
-                name: "website",
-                widget: "string",
-                default: "",
+                label: 'Website',
+                name: 'website',
+                widget: 'string',
+                default: '',
                 required: false,
               },
               {
-                label: "Wikipedia",
-                name: "wikipedia",
-                widget: "string",
-                default: "",
+                label: 'Wikipedia',
+                name: 'wikipedia',
+                widget: 'string',
+                default: '',
                 required: false,
               },
               {
-                label: "Orcid ID",
-                name: "orcid",
-                hint: "Add only the ORCID ID, not the URL: e.g. <strong>0000-0003-1715-2919</strong>",
-                widget: "string",
-                default: "",
+                label: 'Orcid ID',
+                name: 'orcid',
+                hint: 'Add only the ORCID ID, not the URL: e.g. <strong>0000-0003-1715-2919</strong>',
+                widget: 'string',
+                default: '',
                 required: false,
               },
               {
-                label: "Linkedin",
-                name: "linkedin",
-                widget: "string",
-                default: "",
+                label: 'Linkedin',
+                name: 'linkedin',
+                widget: 'string',
+                default: '',
                 required: false,
               },
               {
-                label: "Twitter",
-                name: "webstwitterite",
-                widget: "string",
-                default: "",
+                label: 'Twitter',
+                name: 'webstwitterite',
+                widget: 'string',
+                default: '',
                 required: false,
               },
               {
-                label: "Google scholar",
-                name: "google_scholar",
-                widget: "string",
-                default: "",
+                label: 'Google scholar',
+                name: 'google_scholar',
+                widget: 'string',
+                default: '',
                 required: false,
               },
               {
-                label: "ResearchGate",
-                name: "researchgate",
-                widget: "string",
-                default: "",
+                label: 'ResearchGate',
+                name: 'researchgate',
+                widget: 'string',
+                default: '',
                 required: false,
               },
               {
-                label: "Mendeley",
-                name: "mendeley",
-                widget: "string",
-                default: "",
+                label: 'Mendeley',
+                name: 'mendeley',
+                widget: 'string',
+                default: '',
                 required: false,
               },
             ],
         },
       ]
-  - name: "articles" # Used in routes, e.g., /admin/collections/blog
+  - name: 'articles' # Used in routes, e.g., /admin/collections/blog
     identifier_field: article_title
     nested:
       depth: 5
-      summary: "{{title}}"
-    label: "Articles" # Used in the UI
-    folder: "articles" # The path to the folder where the documents are stored
+      summary: '{{title}}'
+    label: 'Articles' # Used in the UI
+    folder: 'content/articles' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    sortable_fields: ["date", "article_title", "issue"] # The fields on which it should be sortable
+    slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    sortable_fields: ['date', 'article_title', 'issue'] # The fields on which it should be sortable
     fields: # The fields for each document, usually in front matter
       - {
-          label: "Published",
-          name: "published",
-          widget: "boolean",
+          label: 'Published',
+          name: 'published',
+          widget: 'boolean',
           default: false,
         }
       - {
-          label: "Title",
+          label: 'Title',
           required: true,
-          name: "article_title",
-          widget: "string",
+          name: 'article_title',
+          widget: 'string',
           pattern:
-            ["^[^]{5,200}$", "Minimum 5 characters, maximum 200 characters"],
+            ['^[^]{5,200}$', 'Minimum 5 characters, maximum 200 characters'],
         }
       - {
-          label: "Publication Date",
+          label: 'Publication Date',
           required: true,
-          name: "date",
-          widget: "datetime",
+          name: 'date',
+          widget: 'datetime',
         }
       - {
-          label: "Does it need a DOI?",
-          name: "needDOI",
-          widget: "boolean",
+          label: 'Does it need a DOI?',
+          name: 'needDOI',
+          widget: 'boolean',
           default: false,
         }
       - {
-          label: "Authors",
-          name: "authors",
-          widget: "list",
+          label: 'Authors',
+          name: 'authors',
+          widget: 'list',
           default: [],
-          summary: "{{fields.lastname}} {{fields.firstname}}",
+          summary: '{{fields.lastname}} {{fields.firstname}}',
           fields:
             [
               {
-                label: "Is institution",
-                name: "is_institution",
-                widget: "boolean",
+                label: 'Is institution',
+                name: 'is_institution',
+                widget: 'boolean',
               },
               {
                 label: Firstname,
                 name: firstname,
                 widget: string,
-                default: "",
+                default: '',
               },
-              { label: Lastname, name: lastname, widget: string, default: "" },
+              { label: Lastname, name: lastname, widget: string, default: '' },
               {
-                label: "Picture",
-                name: "picture",
-                widget: "image",
+                label: 'Picture',
+                name: 'picture',
+                widget: 'image',
                 required: false,
               },
               {
-                label: "Picture Copyright",
-                name: "picture_copyright",
-                widget: "image",
+                label: 'Picture Copyright',
+                name: 'picture_copyright',
+                widget: 'image',
                 required: false,
               },
               {
-                widget: "list",
+                widget: 'list',
                 default: [],
-                label: "Positions and Institutions",
-                name: "positions_and_institutions",
-                summary: "{{fields.position}} {{fields.institution}}",
-                hint: "E.g. Scientific Director (position <em>facultative</em>), PARIS IAS, FRANCE (Institution mandatory)",
+                label: 'Positions and Institutions',
+                name: 'positions_and_institutions',
+                summary: '{{fields.position}} {{fields.institution}}',
+                hint: 'E.g. Scientific Director (position <em>facultative</em>), PARIS IAS, FRANCE (Institution mandatory)',
                 fields:
                   [
                     {
-                      label: "Institution",
-                      name: "institution",
-                      widget: "string",
-                      default: "",
+                      label: 'Institution',
+                      name: 'institution',
+                      widget: 'string',
+                      default: '',
                     },
                     {
-                      widget: "list",
+                      widget: 'list',
                       default: [],
                       label: Positions,
-                      name: "positions",
-                      summary: "{{fields.institution}}",
+                      name: 'positions',
+                      summary: '{{fields.institution}}',
                       fields:
                         [
                           {
-                            label: "Position",
-                            name: "position",
-                            widget: "string",
-                            default: "",
+                            label: 'Position',
+                            name: 'position',
+                            widget: 'string',
+                            default: '',
                           },
                         ],
                     },
                   ],
               },
               {
-                widget: "object",
+                widget: 'object',
                 default: [],
                 collapsed: true,
-                label: "Social channels",
-                name: "social_channels",
-                summary: "{{fields.label}}: {{fields.value}}",
+                label: 'Social channels',
+                name: 'social_channels',
+                summary: '{{fields.label}}: {{fields.value}}',
                 required: false,
                 fields:
                   [
                     {
-                      label: "Website",
-                      name: "website",
-                      widget: "string",
-                      default: "",
+                      label: 'Website',
+                      name: 'website',
+                      widget: 'string',
+                      default: '',
                       required: false,
                     },
                     {
-                      label: "Wikipedia",
-                      name: "wikipedia",
-                      widget: "string",
-                      default: "",
+                      label: 'Wikipedia',
+                      name: 'wikipedia',
+                      widget: 'string',
+                      default: '',
                       required: false,
                     },
                     {
-                      label: "Orcid ID",
-                      name: "orcid",
-                      hint: "Add only the ORCID ID, not the URL: e.g. <strong>0000-0003-1715-2919</strong>",
-                      widget: "string",
-                      default: "",
+                      label: 'Orcid ID',
+                      name: 'orcid',
+                      hint: 'Add only the ORCID ID, not the URL: e.g. <strong>0000-0003-1715-2919</strong>',
+                      widget: 'string',
+                      default: '',
                       required: false,
                     },
                     {
-                      label: "Linkedin",
-                      name: "linkedin",
-                      widget: "string",
-                      default: "",
+                      label: 'Linkedin',
+                      name: 'linkedin',
+                      widget: 'string',
+                      default: '',
                       required: false,
                     },
                     {
-                      label: "Twitter",
-                      name: "webstwitterite",
-                      widget: "string",
-                      default: "",
+                      label: 'Twitter',
+                      name: 'webstwitterite',
+                      widget: 'string',
+                      default: '',
                       required: false,
                     },
                     {
-                      label: "Google scholar",
-                      name: "google_scholar",
-                      widget: "string",
-                      default: "",
+                      label: 'Google scholar',
+                      name: 'google_scholar',
+                      widget: 'string',
+                      default: '',
                       required: false,
                     },
                     {
-                      label: "ResearchGate",
-                      name: "researchgate",
-                      widget: "string",
-                      default: "",
+                      label: 'ResearchGate',
+                      name: 'researchgate',
+                      widget: 'string',
+                      default: '',
                       required: false,
                     },
                     {
-                      label: "Mendeley",
-                      name: "mendeley",
-                      widget: "string",
-                      default: "",
+                      label: 'Mendeley',
+                      name: 'mendeley',
+                      widget: 'string',
+                      default: '',
                       required: false,
                     },
                   ],
@@ -343,78 +343,81 @@ collections:
             ],
         }
       - {
-          label: "Custom PDF",
-          name: "custom_pdf",
-          widget: "file",
+          label: 'Custom PDF',
+          name: 'custom_pdf',
+          widget: 'file',
           required: false,
           allow_multiple: false,
-          media_library: { allow_multiple: false, media_folder: "pdfs" },
-          hint: "If used, the usual PDF will not be generated (and the
-            file provided will be used instead)",
+          media_library: { allow_multiple: false, media_folder: 'pdfs' },
+          hint: 'If used, the usual PDF will not be generated (and the
+            file provided will be used instead)',
         }
       - {
-          label: "Abstract",
-          name: "abstract",
-          widget: "text",
+          label: 'Abstract',
+          name: 'abstract',
+          widget: 'text',
           required: true,
           pattern:
             [
-              "^[^]{12,1500}$",
-              "Minimum 12 characters and maximum 1500 characters",
+              '^[^]{12,1500}$',
+              'Minimum 12 characters and maximum 1500 characters',
             ],
         }
       - {
-          label: "Issue",
-          name: "issue",
-          widget: "file",
-          media_folder: "/issues",
-          public_folder: "content/issues",
+          label: 'Issue',
+          name: 'issue',
+          widget: 'relation',
+          collection: 'issues',
+          search_fields: ['title', 'name_of_the_issue'],
+          value_field: '{{slug}}',
+          display_fields: ['title'],
+          required: false,
         }
       - {
-          label: "Picture",
-          name: "picture",
-          widget: "image",
+          label: 'Picture',
+          name: 'picture',
+          widget: 'image',
           required: false,
           hint:
-            "Picture used as thumbnail and article splash. Not used if a youtube
-            ID is provided as thumbnail below.",
+            'Picture used as thumbnail and article splash. Not used if a youtube
+            ID is provided as thumbnail below.',
         }
       - {
-          label: "Picture Copyright",
-          name: "picture_copyright",
-          widget: "string",
+          label: 'Picture Copyright',
+          name: 'picture_copyright',
+          widget: 'string',
           required: false,
         }
       - {
-          label: "Youtube video",
-          name: "yt",
-          widget: "string",
+          label: 'Youtube video',
+          name: 'yt',
+          widget: 'string',
           required: false,
           hint:
-            "Add the ID of the youtube video you want it as a thumbnail &amp; article
-            splash. Leave empty if you want a regular thumbnail",
+            'Add the ID of the youtube video you want it as a thumbnail &amp; article
+            splash. Leave empty if you want a regular thumbnail',
         }
       - {
-          label: "Highlight",
-          name: "highlight",
-          widget: "boolean",
-          hint: "Will try to use the best slots to display highlighted articles",
+          label: 'Highlight',
+          name: 'highlight',
+          widget: 'boolean',
+          hint: 'Will try to use the best slots to display highlighted articles',
           default: false,
         }
       - {
-          label: "Bibliography",
-          name: "bibliography",
+          label: 'Bibliography',
+          name: 'bibliography',
           media_library:
-            { allow_multiple: false, media_folder: "/bibliographies" },
-          widget: "file",
+            { allow_multiple: false, media_folder: '/bibliographies' },
+          widget: 'file',
           required: false,
         }
       - {
-          label: "Language",
-          name: "language",
-          widget: "select",
-          default: "English",
-          hint: "The language of the article content (be it media or text).Fallback on english",
+          label: 'Language',
+          name: 'language',
+          widget: 'select',
+          default: 'English',
+          hint: 'The language of the article content (be it media or text).Fallback on english',
           options:
             [
               English,
@@ -431,58 +434,58 @@ collections:
               Other,
             ],
         }
-      - { label: "Article", name: "body", widget: "markdown" }
-  - name: "issues" # Used in routes, e.g., /admin/collections/blog
-    label: "Issues" # Used in the UI
+      - { label: 'Article', name: 'body', widget: 'markdown' }
+  - name: 'issues' # Used in routes, e.g., /admin/collections/blog
+    label: 'Issues' # Used in the UI
     identifier_field: title
-    folder: "issues" # The path to the folder where the documents are stored
+    folder: 'content/issues' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{name_of_the_issue}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: '{{name_of_the_issue}}' # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {
-          label: "Name of the issue",
-          name: "name_of_the_issue",
-          widget: "string",
+          label: 'Name of the issue',
+          name: 'name_of_the_issue',
+          widget: 'string',
           required: true,
         }
       - {
-          label: "Short name of the issue",
-          name: "title",
-          widget: "string",
+          label: 'Short name of the issue',
+          name: 'title',
+          widget: 'string',
           hint: Used in the issues filter and in the article component,
           required: true,
           pattern:
-            ["[^]{2,32}$", "Minimum 2 characters, maximum 32 characters"],
+            ['[^]{2,32}$', 'Minimum 2 characters, maximum 32 characters'],
         }
-      - { label: "Subtitle", name: "subtitle", widget: "string" }
+      - { label: 'Subtitle', name: 'subtitle', widget: 'string' }
       - {
-          label: "Publication Date",
-          name: "date",
-          widget: "date",
+          label: 'Publication Date',
+          name: 'date',
+          widget: 'date',
           format: MM/YY,
           required: true,
         }
-      - { label: "Cover", name: "cover", widget: "image", required: false }
+      - { label: 'Cover', name: 'cover', widget: 'image', required: false }
       - {
-          label: "Cover Copyright",
-          name: "cover_copyright",
-          widget: "string",
+          label: 'Cover Copyright',
+          name: 'cover_copyright',
+          widget: 'string',
           required: false,
         }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "pages" # Used in routes, e.g., /admin/collections/blog
-    label: "Pages" # Used in the UI
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'pages' # Used in routes, e.g., /admin/collections/blog
+    label: 'Pages' # Used in the UI
     i18n: true
-    folder: "pages" # The path to the folder where the documents are stored
+    folder: 'content/pages' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       - {
-          label: "Page title",
+          label: 'Page title',
           i18n: true,
-          name: "page_title",
-          widget: "string",
+          name: 'page_title',
+          widget: 'string',
           required: true,
           pattern:
-            ["^[^]{2,150}$", "Minimum 2 characters, maximum 150 characters"],
+            ['^[^]{2,150}$', 'Minimum 2 characters, maximum 150 characters'],
         }
-      - { label: "Body", i18n: true, name: "body", widget: "markdown" }
+      - { label: 'Body', i18n: true, name: 'body', widget: 'markdown' }

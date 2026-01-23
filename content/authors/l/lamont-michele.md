@@ -1,19 +1,18 @@
 ---
 active: true
 articles:
-  - AVA_2018_12_from-superman-to-pj-masks
-  - the-re-doing-of-the-i-face-bond-bodies-prostheses-and-affordances
+  - >-
+    paths-to-recognition-through-politics-in-the-2024-presidential-election-among-young-workers-living-in-and-around-manchester-new-hampshire
 exerpt: ''
-firstname: Chiara
+firstname: Michèle
 is_institution: false
 issue:
-  - content/issues/identity-from-double-to-avatar.md
   - content/issues/paris-ias-ideas.md
 language:
   - English
-lastname: Cappelletto
+lastname: Lamont
 positions_and_institutions:
-  - institution: Università Statale di Milano, Italy
+  - institution: Dept. of Sociology, Harvard University
     positions: []
 social_channels:
   google_scholar: ''
@@ -21,12 +20,10 @@ social_channels:
   mendeley: ''
   orcid: ''
   researchgate: ''
-  twitter: '@ChiCappelletto'
   website: ''
   webstwitterite: ''
   wikipedia: ''
 years:
-  - 2018
   - 2025
 
 ---

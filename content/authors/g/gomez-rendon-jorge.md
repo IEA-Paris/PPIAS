@@ -1,19 +1,17 @@
 ---
 active: true
 articles:
-  - AVA_2018_12_from-superman-to-pj-masks
-  - the-re-doing-of-the-i-face-bond-bodies-prostheses-and-affordances
+  - indigenous-languages-as-commons-for-environmental-governance
 exerpt: ''
-firstname: Chiara
+firstname: Jorge
 is_institution: false
 issue:
-  - content/issues/identity-from-double-to-avatar.md
   - content/issues/paris-ias-ideas.md
 language:
   - English
-lastname: Cappelletto
+lastname: Gómez Rendón
 positions_and_institutions:
-  - institution: Università Statale di Milano, Italy
+  - institution: Pontificia Universidad Católica del Ecuador
     positions: []
 social_channels:
   google_scholar: ''
@@ -21,12 +19,10 @@ social_channels:
   mendeley: ''
   orcid: ''
   researchgate: ''
-  twitter: '@ChiCappelletto'
   website: ''
   webstwitterite: ''
   wikipedia: ''
 years:
-  - 2018
   - 2025
 
 ---

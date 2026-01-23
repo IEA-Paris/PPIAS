@@ -1,19 +1,17 @@
 ---
 active: true
 articles:
-  - AVA_2018_12_from-superman-to-pj-masks
-  - the-re-doing-of-the-i-face-bond-bodies-prostheses-and-affordances
+  - democracy-1776-1926-2026
 exerpt: ''
-firstname: Chiara
+firstname: Sophia
 is_institution: false
 issue:
-  - content/issues/identity-from-double-to-avatar.md
   - content/issues/paris-ias-ideas.md
 language:
   - English
-lastname: Cappelletto
+lastname: Rosenfeld
 positions_and_institutions:
-  - institution: Università Statale di Milano, Italy
+  - institution: University of Pennsylvania
     positions: []
 social_channels:
   google_scholar: ''
@@ -21,12 +19,10 @@ social_channels:
   mendeley: ''
   orcid: ''
   researchgate: ''
-  twitter: '@ChiCappelletto'
   website: ''
   webstwitterite: ''
   wikipedia: ''
 years:
-  - 2018
   - 2025
 
 ---

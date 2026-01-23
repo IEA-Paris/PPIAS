@@ -3,6 +3,8 @@ active: true
 articles:
   - >-
     how-on-earth-can-we-work-together-five-propositions-about-collaborating-across-differences
+  - >-
+    engaging-about-engaging-three-fundamental-rememberings-from-three-months-of-conversations-about-everyday-habits-for-transforming-systems
 exerpt: ''
 firstname: Adam
 is_institution: false
@@ -25,5 +27,6 @@ social_channels:
   wikipedia: ''
 years:
   - 2024
+  - 2025
 
 ---

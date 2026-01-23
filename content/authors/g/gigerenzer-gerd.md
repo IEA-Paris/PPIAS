@@ -1,19 +1,17 @@
 ---
 active: true
 articles:
-  - AVA_2018_12_from-superman-to-pj-masks
-  - the-re-doing-of-the-i-face-bond-bodies-prostheses-and-affordances
+  - what-is-bias-and-why-are-we-biased
 exerpt: ''
-firstname: Chiara
+firstname: Gerd
 is_institution: false
 issue:
-  - content/issues/identity-from-double-to-avatar.md
   - content/issues/paris-ias-ideas.md
 language:
   - English
-lastname: Cappelletto
+lastname: Gigerenzer
 positions_and_institutions:
-  - institution: Università Statale di Milano, Italy
+  - institution: Max Planck Institute for Human Development, Berlin, Germany
     positions: []
 social_channels:
   google_scholar: ''
@@ -21,12 +19,10 @@ social_channels:
   mendeley: ''
   orcid: ''
   researchgate: ''
-  twitter: '@ChiCappelletto'
   website: ''
   webstwitterite: ''
   wikipedia: ''
 years:
-  - 2018
   - 2025
 
 ---

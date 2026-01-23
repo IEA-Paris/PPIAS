@@ -1,19 +1,19 @@
 ---
 active: true
 articles:
-  - AVA_2018_12_from-superman-to-pj-masks
-  - the-re-doing-of-the-i-face-bond-bodies-prostheses-and-affordances
+  - what-kind-of-value-is-diversity-a-history
 exerpt: ''
-firstname: Chiara
+firstname: Lorraine
 is_institution: false
 issue:
-  - content/issues/identity-from-double-to-avatar.md
   - content/issues/paris-ias-ideas.md
 language:
   - English
-lastname: Cappelletto
+lastname: Daston
 positions_and_institutions:
-  - institution: Università Statale di Milano, Italy
+  - institution: >-
+      Max Planck Institute for the History of Science, Berlin/ University of
+      Chicago
     positions: []
 social_channels:
   google_scholar: ''
@@ -21,12 +21,10 @@ social_channels:
   mendeley: ''
   orcid: ''
   researchgate: ''
-  twitter: '@ChiCappelletto'
   website: ''
   webstwitterite: ''
   wikipedia: ''
 years:
-  - 2018
   - 2025
 
 ---
