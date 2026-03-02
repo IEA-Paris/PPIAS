@@ -1,0 +1,332 @@
+---
+published: false
+article_title: "Digital Agrarian Regimes in Latin America: How Data, Finance,
+  and Platforms Reorder Smallholder Food Systems"
+date: 2026-03-02T09:18:00.000-05:00
+type: article
+needDOI: true
+authors:
+  - is_institution: false
+    firstname: Javier
+    lastname: Perez-Burgos
+    positions_and_institutions:
+      - institution: WËIA (Agri-Fintech)
+        positions:
+          - Co-founder & COO
+    social_channels:
+      website: ""
+      wikipedia: ""
+      orcid: ""
+      linkedin: ""
+      webstwitterite: ""
+      google_scholar: ""
+      researchgate: ""
+      mendeley: ""
+abstract: >-
+  Across Latin America, digital tools are reshaping how smallholder agriculture
+  is governed, financed, and integrated into food supply chains. Yet much of the
+  policy and practitioner debate still frames change through the narrow lens of
+  “technology adoption”, as if the main challenge were convincing farmers to use
+  apps. This paper proposes a different concept: digital agrarian regimes,
+  defined as the emerging configurations of power, rules, data infrastructures,
+  and financial incentives through which platforms, agribusiness, lenders, and
+  the state coordinate smallholder production and exchange. Building on critical
+  scholarship that urges us to rethink “adoption” as a social and political
+  process rather than a technical diffusion problem (Gugganig et al., 2023), and
+  on evidence from digital agriculture and digital finance practice (FAO, 2025;
+  GSMA, 2022; GSMA, 2025; Carboni, 2026), the paper outlines how data
+  extraction, scoring, and interoperability standards increasingly shape who
+  gets credit, inputs, and market access, and at what terms.
+
+
+  The paper then operationalizes the concept through a Colombia-focused roadmap. It identifies feasible categories of data sources (public microdata and administrative records, price and supply systems, open data portals, connectivity maps, and credit microdata) to empirically track how digital agrarian regimes form in practice. Finally, it proposes policy design principles and “rules of the game” for fairness, accountability, and competition in digital food systems, so that digitalization increases productivity and resilience without deepening dependency, exclusion, or data-driven rent extraction.
+issue: content/issues/Agir en temps de crise.md
+highlight: false
+bibliography: /digital-agrarian-regimes-in-latin-america-how-data-finance-and-platforms-reorder-smallholder-food-systems/references_perezburgos.bib
+language: English
+---
+**Keywords**
+
+Digital agriculture; agrarian regimes; platforms; data governance; fintech; digital credit; smallholders; Latin America; Colombia; AKIS; interoperability; value chains.
+
+ |
+
+Executive summary
+=================
+
+What this paper does
+
+1.  Reframes the problem: from "Why won't farmers adopt technology?" to "Who controls the data, standards, and finance that now govern farming decisions?"
+2.  Proposes a concept: digital agrarian regimes, the institutionalized ways data and digital infrastructures reorder smallholder agriculture through market access, credit, advisory, compliance, and traceability.
+3.  Focuses on Latin America and Colombia: where value-chain modernization, financial inclusion agendas, and uneven connectivity create fertile ground for platform-led coordination.
+4.  Provides an empirical pathway: a practical menu of data sources to measure these regime shifts in Colombia and comparable Latin American contexts.
+5.  Delivers policy directions: governance principles and "guardrails" for digital agriculture and digital credit to prevent exclusion, predatory practices, and data monopolies.
+
+*Why it matters now*
+
+Digital agriculture and AI roadmaps increasingly emphasize interoperable infrastructures, open-access knowledge bases, and multi-stakeholder "neutral brokers" (FAO, 2025). In parallel, digital credit expands rapidly, often faster than regulation, creating both inclusion opportunities and consumer harm risks (Carboni, 2026). If Latin America imports these models without tailoring governance, it risks locking smallholders into regimes where data becomes collateral, platforms set de facto rules, and market access is conditional on opaque scoring.
+
+*Core claim*
+
+Digitalization is not merely a toolkit; it is a governance shift. The central question is not whether smallholders adopt apps, but whether the resulting digital agrarian regime improves bargaining power, resilience, and income, or consolidates control via data assetization and platform dependency.
+
+What policymakers and funders should do
+
+-   Treat agricultural data infrastructures as public-interest critical infrastructure, not just private product layers.
+-   Require minimum transparency on credit scoring, data usage, and contractual terms in digitally intermediated value chains.
+-   Build interoperability standards (IDs, registries, traceability schemas) that prevent vendor lock-in and enable competition.
+-   Measure distributional impacts: women, youth, remote producers, and informal producers should be tracked explicitly.
+
+1.     Introduction
+===================
+
+Digital technology is often heralded as a transformative force for smallholder agriculture in Latin America, promising higher productivity, better market access, and greater inclusion. Governments and development agencies have deployed dozens of farming apps, digital platforms, and fintech solutions across the region. Yet a clear gap persists between the deployment of these tools and their impact on the ground. Only about one in ten smallholder farmers globally (roughly 50 million) is actively using digital agriculture services, and women farmers remain underrepresented among users (Beanstalk AgTech, 2023; GSMA, 2022). Despite the proliferation of digital solutions, many smallholders in Latin America still see little improvement in their livelihoods or bargaining power.
+
+A key reason is that the dominant narrative remains technology adoption-centric. The prevailing assumption is that if farmers simply adopt digital tools, be it a climate-smart advisory app or an e-wallet for credit, benefits will follow. This "adoption-first" narrative fails to explain persistent real-world outcomes: the continued exclusion of many marginalized farmers, their high exposure to risk, and the uneven capture of value in digitally mediated supply chains (Melo-Velasco et al., 2025). For example, analyses of food system reforms warn that sweeping innovations often neglect rural poverty, effectively transforming agriculture "on the backs of the rural poor" (IFAD, 2024). Similarly, studies of digital agriculture document social divides in who can access and benefit from new technologies (Melo-Velasco et al., 2025). Clearly, deeper structural factors, power imbalances in value chains, data ownership, market volatility, and policy context, shape these outcomes. Innovation scholars now emphasize that scaling digital pilots without institutional change is insufficient: productivity gains remain uneven unless accompanied by integrated policies, stakeholder capacity, and governance reforms (Ragasa et al., 2025). In short, simply diffusing more apps will not resolve fundamental inequities in agrifood systems.
+
+This paper responds by reframing digitalization as a shift in agrarian governance, not just a toolbox of gadgets. We introduce the concept of Digital Agrarian Regimes as an analytical lens to understand how data, platforms, and finance are reordering smallholder agriculture. A digital agrarian regime refers to the emerging configuration of actors, data infrastructures, rules, and incentives through which digital systems govern agrarian production and exchange. Instead of asking whether a farmer "adopts" a given technology, this lens asks who controls the data flows, algorithms, and platform standards, and how those control points determine who gets credit, inputs, or market access, on what terms. In other words, digital tools are not neutral; they come with new "rules of the game" that can empower or constrain small farmers. This perspective builds on critiques that adoption is a social--political process rather than a simple diffusion of innovation (Melo-Velasco et al., 2025). It shifts our focus from counting apps to examining power, governance, and institutions in the digital transformation of agriculture.
+
+Adopting a regime lens is especially urgent in the current moment. On one hand, the digital agriculture ecosystem is expanding rapidly. Governments and companies across Latin America are rolling out digital farmer registries and traceability systems to integrate smallholders into value chains and comply with standards (GSMA, 2025). At the same time, fintech and AI-driven services are growing in rural areas. Digital lenders and insurance providers now use farm data, mobile money, and machine learning to extend credit and coverage to farmers, often faster than regulators can keep up (Carboni, 2026; CGAP, 2025). The expansion of digital credit is a prime example: smartphone-based loans and scoring algorithms are reaching farmers with no formal credit history, offering new opportunities for financial inclusion, but also raising concerns about over-indebtedness and algorithmic bias against atypical farmer profiles (Carboni, 2026). Meanwhile, global institutions are calling for data governance frameworks to manage these trends. The Food and Agriculture Organization's digital agriculture roadmap emphasizes interoperable data standards, open knowledge platforms, and "neutral broker" data services to ensure that AI and digital tools serve the public good (FAO, 2025). In sum, the foundations of a digital agrarian regime, from farmer data infrastructure to fintech products, are being laid now, and their design will influence whether smallholders gain resilience and empowerment or face new forms of dependency.
+
+Latin America, and Colombia in particular, provides a telling context for examining these issues. The region's agriculture is increasingly integrated into global value chains, which has yielded affordable food for consumers but also heightened price volatility and uncertainty for producers (Dalheimer & Bellemare, 2025). When a coffee or corn farmer in Colombia is connected via digital platforms to world markets, price shocks can transmit instantly, and whoever controls the platform can decide how risk and rewards are distributed. Colombia also exemplifies the mix of forces shaping digital regimes: it has persistent smallholder constraints (land fragmentation, rural poverty, unequal access to services) alongside a strong push for value-chain modernization and financial inclusion in agriculture. 
+
+The government and private sector are actively experimenting with digital tools, from e-extension and mobile credit to blockchain traceability in export crops, in hopes of boosting productivity and transparency. This juxtaposition of vibrant agrifood value chains and ongoing inequities makes Colombia an ideal case to ask: Who really benefits from the digitalization of agriculture under the current rules? Without proactive governance, there is a risk that digital platforms could simply reproduce or even deepen existing power imbalances. Conversely, with the right institutional "guardrails" in place, digital integration could improve smallholders' bargaining position, reduce their exposure to climatic and market risks, and increase their share of value.
+
+In conclusion, there is a pressing need to move beyond simplistic adoption narratives and address the institutional context of digital agriculture. By conceptualizing the rise of Digital Agrarian Regimes, this paper aims to shine a light on the new governance architectures taking shape -- who sets the standards, who controls the data, who profits, and how these affect smallholder farmers in Latin America. The goal is to provide policymakers, researchers, and innovators with a clearer understanding of why digital tools have so far delivered mixed results for small farmers, and how we might redesign the "rules of the game" so that digitalization truly empowers the rural poor rather than leaving them further behind. The remainder of the paper will elaborate on this framework and examine, through the Colombian context, strategies to ensure that the digital transformation of agriculture leads to more equitable, resilient, and inclusive food systems.
+
+2.     From Technology Adoption to Digital Agrarian Regimes: A Conceptual Shift
+===============================================================================
+
+Traditional approaches to digital agriculture have focused on technology adoption, measuring success by how readily farmers take up new tools or platforms. However, this lens is increasingly seen as insufficient for capturing the broader social, economic, and power dynamics at play. Recent scholarship highlights that centering analysis on whether individual farmers "adopt" a technology can obscure deeper structural issues. For example, Gugganig et al. (2023) argue that farmers' apparent indifference to certain digital tools is often a strategic stance reflecting misalignment between those tools and the farmers' contexts. They propose the notion of farmers' "in-difference" as a critique of the prevailing adoption paradigm -- one that privileges tech-centric, industrial models and assumes technology must be at the center of analysis. This critique reveals how an adoption-only view can overlook what matters to smallholders (such as sustainable farm practices and equitable market conditions), reinforcing power imbalances in the food system (Gugganig et al., 2023). In short, the adoption lens tends to treat technology as inherently beneficial and neutral, rather than asking who governs it, who benefits, and who may be left out.
+
+Studies of digital agriculture in Latin America and beyond underscore these concerns. Melo-Velasco et al. (2025) caution that simply introducing digital tools without reframing governance can intensify rural inequalities and create new risks. Digital platforms often favor those with better connectivity or skills, leading to a "digital elite" capturing most benefits while marginal farmers lag behind. Moreover, the expansion of data-driven farming raises serious questions about data privacy and security for rural communities (Melo-Velasco et al., 2025). These social implications cannot be addressed by adoption efforts alone; they require rethinking the institutional arrangements around technology. In other words, the conversation is shifting from "How do we get farmers to adopt tech?" to "What kind of agrarian system are we building with digital tech, and under whose rules?"
+
+3.     Defining Digital Agrarian Regimes (DAR)
+==============================================
+
+Digital Agrarian Regimes (DAR) are emerging as a framework to answer this question. DAR moves beyond viewing digital agriculture as isolated innovations to be adopted, and instead conceptualizes it as an integrated regime, a configuration of infrastructure, governance rules, and institutional arrangements that collectively shape agricultural production and markets in the digital era. From a DAR perspective, technology is not at the core by itself; rather, the core is how technology is embedded in systems of coordination, control, and incentives across the agrifood sector. This draws on an innovation-systems view: much like the Agricultural Innovation Systems (AIS) frame that emphasized coordination among diverse actors, or newer transformative innovation policies focusing on systemic change, DAR centers on the networks of actors (farmers, agritech firms, governments, lenders) and the rules and resources that link them. Ragasa et al. (2025) describe how policy thinking has evolved from linear "science-and-technology transfer" models toward frameworks that address systemic issues and multi-actor coordination. In line with that evolution, DAR highlights governance and institutional context -- seeing digital agriculture as part of a socio-technical regime that can either reinforce or reform existing agrarian structures.
+
+Crucially, a DAR approach asks who sets the rules of the game in digital agriculture and how those rules reorganize power and benefits. It examines governance mechanisms, from public policies to platform terms of service, that determine who can participate and on what terms. It also looks at institutional configurations: for instance, are digital farming services controlled by a few large platforms or designed as open infrastructures? Are farmer organizations and public agencies coordinating the digital transition, or is it driven mainly by private tech providers? By focusing on these questions, DAR reframes digital innovation as a matter of institutional choice and collective action, not just farmer uptake. This perspective is more suited to addressing long-term development goals and equity considerations, which the adoption lens often sidelines. As Ragasa et al. (2025) note, truly leveraging innovation requires an enabling environment and policy support, not just the presence of new tech. In sum, DAR is about who governs and who coordinates in digital agriculture, emphasizing that technology's impact depends on the regime in which it operates.
+
+4.     Operationalizing Digital Agrarian Regimes: Infrastructure, Rules, and Incentives
+=======================================================================================
+
+Adopting a DAR framework means analyzing the concrete elements through which digital agriculture is implemented and scaled. Three interlocking components illustrate how DAR is put into practice: digital infrastructure, rule systems, and incentive architectures. These components show how digital tools become embedded in agrarian governance and market processes:
+
+-   Digital Infrastructure (Registries and Platforms): Digital agrarian regimes are built on new infrastructural systems such as farmer registries, e-marketplaces, and data platforms. These infrastructures serve as foundational coordination tools that enable large-scale organization of farmers and resources. For example, many countries are developing Digital Farmer Registries (DFRs) to compile profiles of millions of farmers. These registries act as platforms for service delivery, linking farmers to input subsidies, credit, insurance, and advisory services. Early evidence shows that when such registries are scaled, they can dramatically improve coordination and efficiency. In Kenya, a national registry now connects 6.8 million farmers, enabling a fivefold increase in fertilizer distribution while cutting costs by over 50%. Rwanda's farmer registry has reached 80% of farmers, helping to reduce fraud in subsidy programs and speed up payments. These successes demonstrate the power of digital infrastructure to bundle services and enforce standards at scale. Importantly, digital infrastructure is not just about databases; it's about creating an ecosystem. FAO (2025) emphasizes moving beyond fragmented pilot projects toward interoperable ecosystems where data, platforms, and partners are connected. Such ecosystems pool knowledge and infrastructure across stakeholders, enabling solutions to be tailored to local contexts while sharing data and tools globally. A key example is FAO's development of an AI governance toolkit within a global digital agriculture roadmap, establishing common criteria (accountability, equity, data stewardship, etc.) to guide how these infrastructures are built and governed. In sum, digital infrastructure like registries and platforms form the backbone of DAR, providing the channels through which farmers, governments, and agribusinesses interact under new terms.
+-   Rule Systems (Eligibility, Scoring, Traceability): Along with infrastructure come new rule systems encoded in software and institutional protocols. Digital agrarian regimes operationalize governance through rules such as eligibility criteria, scoring algorithms, and traceability requirements. For instance, once farmers are in a digital registry, that system can set eligibility rules for who qualifies for certain subsidies or programs, often enforcing government policies more strictly than analog systems could. India's use of a digital registry linked to its national ID (Aadhaar) allowed recovery of $47 million in misallocated subsidies by verifying claims against a centralized database. Similarly, digital platforms introduce scoring systems, like credit scores or risk ratings, that determine a farmer's access to loans and insurance. These algorithmic rules can expedite decisions, e.g., automated credit approvals, but they also effectively institutionalize certain criteria (such as farm size, crop type, repayment history) into the heart of the agrarian system. Traceability systems are another rule-based component: from blockchain ledgers to QR codes, digital traceability imposes requirements on producers to record inputs and practices, often as a pre-condition for market access or certifications. While such rules can improve transparency and quality control, they also raise the bar for participation, sometimes excluding smaller farmers who struggle to comply. The DAR perspective insists that these rules be scrutinized and governed transparently. Who designs the scoring algorithms, and do farmers have any say? Is there recourse if digital eligibility criteria unfairly exclude certain communities? These questions highlight why institutional governance of rule systems is central. Notably, GSMA (2025) finds that robust data governance and interoperability are critical for rule systems to succeed and be trusted. If data is siloed or biased, or if farmers don't see the rules as legitimate, the digital regime can exacerbate distrust. Therefore, building accountable rule systems -- with clear data protection, fairness checks, and stakeholder input -- is a key task under the DAR approach.
+-   Incentive Architectures (Bundling, Market Access, Algorithmic Pricing): The third component of DAR is the design of incentive structures that align stakeholders' behavior with the regime's goals. Digital agrarian regimes often create new incentive architectures by bundling services, expanding market access, and even enabling algorithmic pricing. Service bundling is a hallmark of many digital agriculture platforms: a single app or program may offer agronomic advice alongside input discounts, insurance, and a purchase agreement for the harvest. This creates a powerful incentive for farmers to join and remain within a platform's ecosystem, as they stand to gain multiple benefits (and often preferential terms) by participating. For example, data-driven advisory services that integrate weather forecasts with personalized crop recommendations can be linked to insurance payouts or credit offers, rewarding farmers for adopting climate-smart practices (GSMA, 2022). Such bundling not only encourages uptake of sustainable practices but also binds farmers into digital networks, effectively reshaping how they make decisions. Market access is another lever: digital marketplaces and e-commerce portals promise farmers access to broader buyer networks and better prices for their products. In Colombia and other Latin American countries, for instance, startups are connecting smallholders to urban consumers or exporters via online platforms, in theory bypassing middlemen. The DAR view examines whether these platforms truly level the playing field or if they impose new dependencies (fees, data requirements, platform algorithms that favor certain producers). Finally, algorithmic pricing, where prices for inputs or outputs are set by algorithms (as seen in some contract farming apps or dynamic pricing models), represents an emerging incentive mechanism. Algorithmic systems might, for example, adjust produce prices based on real-time market data or quality metrics, which can incentivize farmers to improve quality or timing. However, they also demand trust in how the algorithm works. Without transparent governance, algorithmic pricing could disadvantage those who cannot meet its hidden criteria or who lack bargaining power. In a well-governed digital regime, incentive architectures are designed to align benefits with desired outcomes (e.g., sustainability, inclusion) and are accompanied by checks to prevent abuse. This means building in farmer-centric incentives, such as loyalty rewards, data-sharing dividends, or community ownership stakes in platforms, rather than just nudges that serve agribusiness interests. As GSMA's analysis of digital farmer registries notes, farmer incentives must be woven in from the start, ensuring that farmers see value (e.g., faster credit, guaranteed buyers) in exchange for their data and compliance.
+
+In summary, Digital Agrarian Regimes offer a comprehensive lens to understand and steer the digital transformation of agriculture. Instead of asking how to push technology adoption, the DAR framework asks how to configure the digital ecosystem's infrastructure, rules, and incentives to achieve equitable and sustainable outcomes. This conceptual shift foregrounds issues of governance and coordination: Who controls the digital infrastructure? What rules are baked into algorithms and platforms? How are incentives structured, and do they empower or undermine smallholders? By addressing these questions, policymakers, researchers, and entrepreneurs can better ensure that digital agriculture serves the broader goals of rural development and food system resilience, rather than just promoting gadgets or apps. As evidence from recent literature shows, when digital initiatives are approached as part of a governed regime, with attention to power dynamics and institutional design, they are more likely to deliver transformative benefits for farmers and rural communities (FAO, 2025; Ragasa et al., 2025). The shift from technology adoption to digital agrarian regimes is thus a shift from seeing technology as a silver bullet to seeing technology as embedded in social systems, systems that we could reimagine and restructure for the public good.
+
+5.     Latin America's Digital Agriculture Context: Why a New Approach Matters Now
+==================================================================================
+
+Latin America's agrifood landscape remains marked by persistent dualism and inequality. Rural regions are home to the vast majority of the poor; for example, 80 % of the world's poor live in rural areas, and within countries, rural poverty far exceeds urban. In Colombia, for instance, roughly 37 % of rural households live in multidimensional poverty versus only 12.5 % in cities. This enduring rural--urban gap reflects segmented agrarian structures: a modernized agribusiness sector coexists with a large informal, low-productivity smallholder sector. Decades of growth have not erased this split: Latin American economies have expanded (Colombia's GDP nearly doubled in 20 years), but uneven development left rural areas behind. These structural conditions, dualistic production systems, and concentrated poverty set the stage for why Digital Agrarian Regimes (DAR) analysis is now urgent. DAR must reckon with persistent dualism and exclusion: smallholder farmers produce much of the region's food (e.g., 70 % of calories globally come from smallholders), yet remain underserved by current models.
+
+Global market integration further complicates the picture. The region's agrifood chains are highly integrated into international markets, exposing farmers to volatile prices and competition. Recent research shows this integration has a "mean--variance trade-off": greater participation in global value chains tends to lower average consumer food prices but raises price volatility. Dalheimer and Bellemare (2025) find that Latin American countries moving downstream in global chains face higher food price swings. In practice, volatile markets hit small producers hard, aggravating rural precarity and inequity. Price spikes and swings contribute to food insecurity and unrest (especially among poor producers), underscoring that DAR analysis cannot ignore market-driven volatility (Dalheimer & Bellemare, 2025).
+
+Innovation policies in Latin America are also highly fragmented, leading to "pilotitis" and slow diffusion of new technologies. Governments and donors have launched countless pilot projects and digital initiatives, but these often remain siloed. Ragasa et al. (2025) note that attempts to build integrated innovation systems are "impeded by fragmentation, a lack of coordination, and legacy policies". In other words, regulatory fragmentation and weak inter-agency coordination splinter efforts into isolated pilots. An IDB Invest analysis likewise observes "a highly fragmented ecosystem for innovation" in Latin American agribusiness, worsened by low rural connectivity. The result is many discrete trials (for example, individual precision-ag apps or fintech pilots) but no cohesive regime enabling scale-up. As Ragasa et al. (2025) emphasize, overcoming this requires shifting from sectoral projects toward integrated policy frameworks that harmonize rural development goals.
+
+These structural and institutional legacies create a stark digital divide. In the rush to promote "digital agriculture," policymakers must recognize that many farmers are still largely excluded from connectivity and data. Infrastructure gaps mean farmers struggle to access even basic internet or mobile services in remote areas. GSMA reports that smallholders, despite their importance, remain "underserved" by conventional advisory and financial services. Melo-Velasco et al. (2025) warn that digital solutions often end up marginalizing the poorest farmers if access and governance issues are ignored. In effect, technology risks reinforcing old inequities: better-off producers (with land, capital, or literacy) are quick to adopt e-advisory platforms or blockchain-enabled supply-chain tools, while poorer farmers, women, ethnic minorities, and those with small plots -- are left on the wrong side of the digital divide. Without explicit measures to include them, DARs could accentuate rural inequality rather than alleviate it.
+
+The urgency for a new approach is underscored by entrenched rural poverty. Across the region, rural living standards lag behind urban ones. IFAD (2024) highlights that poverty is overwhelmingly a rural phenomenon. In practice, this means any digital transition must be accompanied by social "guardrails" to protect vulnerable communities. IFAD's own strategy language emphasizes setting guardrails for rural development initiatives, ensuring that rapid transformation does not leave subsistence farmers stranded. Likewise, Latin American countries have seen that without such protections, market reforms can widen inequality. Agricultural policy scholars warn that electrification, credit, and data programs must be designed with inclusion in mind, or poor producers will be excluded.
+
+Colombia illustrates these dynamics. Its government has launched ambitious modernization programs, for example, creating a multipurpose land cadastre, accelerating land restitution, creating a national farmer ID, and planning a national multimodal transport network, all aimed at integrating rural producers into modern markets. Yet Colombia still grapples with rural informality and weak infrastructure. An OECD review notes "high rates of informal land tenure" and "low access to quality broadband" in Colombia's countryside. In other words, many farmers lack a secure title to land or internet connectivity. Informal labor and credit markets dominate rural life, and many rural enterprises operate outside formal value chains. As a result, despite formal modernization goals, digitalization is uneven. Tech pilots often reach only the most organized regions (coffee cooperatives or agroexport chains), while vast areas remain disconnected. Colombia thus embodies the paradox: strong policy commitment to agriculture coexists with enduring dualism.
+
+In summary, Latin America's digital agriculture revolution unfolds against a backdrop of enduring dualisms, volatile global markets, and fragmented institutions. These conditions make a DAR analysis timely: new frameworks must account for rural inequities and inclusion. As analysts stress, any "smart farming" agenda in Latin America must be embedded within broader rural transformation policies that bridge divides -- social, economic, and digital. Only by doing so can DAR approaches deliver on their promise of productivity and sustainability without reproducing historic imbalances.
+
+6.     The Institutional Anatomy of Digital Agrarian Regimes
+============================================================
+
+The digital transformation of agriculture is not simply a matter of tool deployment; it is a reconfiguration of institutions, rules, and coordination mechanisms. Digital Agrarian Regimes (DARs) materialize through specific infrastructures and governance arrangements that embed new patterns of inclusion, control, and value distribution. These regimes function through three core pillars: (1) foundational infrastructure, (2) rule-based coordination systems, and (3) incentive and value architectures. This section dissects each layer, using empirical evidence from Latin America, especially Colombia, and drawing directly from the literature and field-level insights.
+
+Foundational Infrastructure: Registries, Identity, and Traceability
+-------------------------------------------------------------------
+
+At the core of DARs lies a digital infrastructure layer composed of registries, e-identities, geospatial data, and traceability systems. Farmer registries, in particular, are rapidly becoming the "first mile" of digital agriculture (GSMA, 2025). These databases collect structured data on farmer identity, land use, crop types, production activities, and geolocation. When linked to national IDs, mobile accounts, and land cadastres, they create the foundational logic that enables targeting, service delivery, and policy enforcement.
+
+Across Latin America, registry initiatives are gaining traction. Colombia, for example, has invested in an interoperable multipurpose cadastre and efforts to integrate agricultural registries through institutions like UPRA and FINAGRO (OECD, 2022). GSMA (2022) highlights that these systems reduce administrative friction, lower costs for financial institutions, and enable bundled service delivery, such as combining subsidies, e-vouchers, and insurance via a single farmer record.
+
+However, registry deployment raises governance and exclusion risks. Melo-Velasco et al. (2025) warn that registry-driven services can encode existing land tenure inequalities or reproduce exclusion if design and validation processes lack farmer involvement. In Latin America, where informal landholdings are widespread, such systems can inadvertently disqualify marginalized producers. Moreover, without clear policies on data ownership, consent, and portability, registries may become instruments of surveillance or value extraction.
+
+Rule Systems and Scoring Architectures
+
+Digital regimes govern through algorithms, eligibility protocols, and scoring systems. These invisible layers decide who qualifies for loans, input subsidies, or contracts. Fintech scoring, for instance, is now a cornerstone of smallholder lending. Firms like WËIA in Colombia leverage alternative data, e.g., traceability histories and transaction records, to generate creditworthiness scores in real time (Carboni, 2026).
+
+These models can include "thin file" farmers who previously lacked access to credit, but they also shift risk and discretion to code. As CGAP (2025) notes, algorithmic decisions are often opaque, unregulated, and embedded in commercial platforms. If a farmer is denied credit based on machine learning logic that they cannot see or challenge, the DAR becomes not just a coordination regime but a coercive one.
+
+Scoring systems are increasingly tied to compliance: traceability apps track whether farmers use approved inputs or meet sustainability protocols. These digital trails often become conditions for access to value chains or premium buyers. The FAO (2025) warns that when algorithmic logic is treated as neutral, systems can amplify bias, penalize variation, and reduce farmer agency.
+
+This record helps unlock post-harvest financing and contract formalization. It can strengthen accountability across the chain by making inputs, deliveries, and quality claims verifiable. This is the dual edge of DARs: systems that make farmers legible to buyers can also introduce new forms of discipline and dependency.
+
+Incentive Design and Value Capture
+----------------------------------
+
+DARs structure incentives through bundling, access control, and pricing mechanisms. Digital platforms often integrate agronomic advisory, inputs, insurance, and market contracts. McKinsey (2024) describes this logic as "platform orchestration": firms that own the farmer interface can lock in loyalty while capturing data externalities.
+
+These bundles are seductive for both efficiency and market reach. Beanstalk AgTech (2023) identifies bundling as the most common scaling model among agtech startups in LMICs. Yet this integration often comes at the cost of flexibility. Farmers cannot switch lenders without losing transaction histories; they cannot decouple advisory from input packages.
+
+In Colombia, this logic plays out in WËIA's "Farm Now, Pay Later" model. Input suppliers are pre-contracted, and repayment is deducted upon harvest sale through a pre-set platform channel. This reduces default risk and accelerates disbursement, but it may also tie farmers to a specific market route. The regime governs not just who gets finance, but how produce moves through the chain and who sets key terms. This can reduce uncertainty and support better agronomic practices (for example, discouraging excessive synthetic fertilizer use), but it can also constrain farmer choice over what to plant, where to sell, and under what conditions.
+
+Carboni (2026) and CGAP (2025) note that this kind of embedded finance model, where credit is conditional on digital behavior, can be empowering or extractive, depending on how terms are set and who controls arbitration. In many cases, smallholders lack recourse or negotiating leverage. Without consumer protection, redress channels, and interoperability mandates, DARs can create platform lock-in and financial dependency.
+
+7.     Case Example -- Navigating the New Ecosystem: WËIA and the "Farm Now, Pay Later" Model in Colombia
+========================================================================================================
+
+While Digital Agrarian Regimes (DARs) are often analyzed through theory or public policy frameworks, they are also actively shaped by the entrepreneurial decisions of firms attempting to build value in constrained rural markets. WËIA, a Colombian agri-fintech startup, offers a concrete case of how a company both responds to and co-constructs an emerging DAR. Its trajectory reflects both the promise of digitally integrated agriculture and the institutional barriers that small-scale innovators must navigate.
+
+**7.1.** **Origins: A Response to Credit Exclusion**
+
+WËIA emerged in response to a well-documented structural gap: most smallholder farmers in Colombia are effectively excluded from the formal financial system. Despite producing significant volumes for the domestic food system, over 70% of small-scale producers operate informally, without access to credit, insurance, or structured value chains (IFAD, 2024). Traditional financial institutions lack the data, cost models, or risk appetite to serve them, and government agricultural finance is often captured by medium and large producers (OECD, 2022).
+
+WËIA identified the lack of transactional identity and verifiable crop performance data as a central bottleneck. Its hypothesis was that if farmers could "make their performance legible" to the market, through traceable practices, delivery histories, and digital contracts, they could unlock working capital and better prices. This insight placed WËIA in the middle of what the FAO (2025) calls the shift from analog extension to "data-enabled production systems," where digital footprints determine access to support services.
+
+**7.2.****The FNPL Model: Embedding Data, Finance, and Traceability**
+
+WËIA's flagship innovation, the "Farm Now, Pay Later" (FNPL) model, is a bundled offer: input financing at planting time, digital crop monitoring through advisory and traceability systems, and repayment upon harvest through structured contracts. The system uses digital QR-linked field identities, supported by blockchain technology, to create verifiable records of activity without requiring high connectivity or advanced literacy (WËIA, 2026, pilot brief).
+
+This model operationalizes a DAR by:
+
+-   Using digital traceability as a reputation layer;
+-   Structuring finance via contract-based recovery;
+-   Reducing intermediation by linking input suppliers, farmers, and buyers through a shared protocol.
+
+Rather than providing generic loans, WËIA acts as a system orchestrator, curating counterparties and standardizing transaction flows. This mirrors the "platform orchestration" logic described in  Beanstalk AgTech (2023) and McKinsey (2024), in which agtech firms move from service providers to governance brokers within a digitally mediated ecosystem.
+
+**7.3.**** Institutional Frictions and the DAR Landscape**
+
+Yet WËIA's growth has also been shaped, often constrained, by the realities of Colombia's institutional landscape. Several DAR elements have proven either incomplete or underdeveloped:
+
+1.  Registries and Identity Systems: There is no unified digital farmer identity layer in Colombia, and land cadastres remain fragmented. This forced WËIA to develop its own digital identity stack for producers, creating onboarding frictions and duplicative infrastructure (GSMA, 2022).
+2.  Data Portability and Interoperability: There are no enforceable standards for interoperability across fintechs or ag platforms. Farmers who use WËIA's system cannot easily port their production records or credit scores elsewhere. This risks platform lock-in and undermines competition, a problem highlighted by CGAP (2025) and FAO (2025) as a key governance blind spot.
+3.  Financial Architecture Misalignment: Colombia's regulatory and credit architecture was not designed for harvest-linked repayment or traceability-based underwriting. WËIA must therefore act as both data collector and risk aggregator, a role that blurs the line between fintech, input dealer, and trader, which makes risk distribution along the value chain to be unbalanced.
+4.  Contract Enforcement and Dispute Resolution: While smart contracts enable precision finance, local enforcement mechanisms remain analog. WËIA must often rely on informal trust and community accountability rather than judicial enforcement, highlighting the need to align digital regimes with real-world legal infrastructure (IFC, 2021).
+
+**7.4.** **Building Amid Incompleteness**
+
+These frictions are not incidental; they are diagnostic. They reveal the partial nature of the digital agrarian regime in Colombia, and how entrepreneurs must often compensate for public infrastructure gaps. WËIA's experience thus reinforces the DAR framework in two ways:
+
+-   It shows how new firms construct infrastructure from the edge, filling roles vacated by state or legacy actors.
+-   It illustrates the importance of governance scaffolding: without rules for data access, identity, dispute resolution, and public--private coordination, DARs become fragmented and brittle.
+
+Still, WËIA's growth also signals potential. Its pilots have shown that traceability, combined with digital credit and advisory, can lower input cost barriers, increase repayment predictability, and attract climate-aligned buyers seeking verifiable sourcing. In this way, WËIA is not just navigating a regime; it is co-authoring one.
+
+The lesson for policymakers and researchers is clear: DARs are not abstract frameworks. They are lived ecosystems, shaped by firm decisions, infrastructure constraints, and the institutional climate. WËIA's journey offers a grounded lens into what inclusive digital agriculture requires, not just code or capital, but rules, trust, and coordination at scale.
+
+8.     Architectures of Power: How Digital Agrarian Regimes Govern Through Infrastructure, Standards, and Platforms
+===================================================================================================================
+
+Digital Agrarian Regimes (DARs) are not neutral assemblages of technology and services. They are architectures of power. The institutions, platforms, scoring algorithms, and interoperability standards that make up DARs encode political and economic decisions about who can access markets, financial services, and knowledge, and on what terms. This section re-centers DAR as a governance framework, emphasizing how power is exercised through technical design, infrastructural choices, and control over coordination logic. In this way, DARs are not merely socio-technical systems; they are institutional regimes that distribute opportunity, risk, and value across the agrifood system.
+
+**8.1.****Digital Infrastructure as Public or Proprietary Space**
+
+At the heart of every DAR is a foundational question: Is digital infrastructure treated as a public good or a proprietary asset? Registries, APIs, traceability ledgers, and farmer identity systems form the "rails" on which all other services run. Control over this infrastructure determines who sets the pace and shape of digital agriculture.
+
+The FAO (2025) emphasizes the importance of treating key digital systems as "digital public infrastructure" (DPI), meaning they should be governed in ways that ensure openness, equity, and accountability. For example, if a farmer registry is built as an open-access, interoperable layer with privacy protections and transparent governance, it can enable competition among service providers and empower farmers with portability and choice (FAO, 2025). Conversely, if such a registry is captured by a dominant platform or developed through a donor-led pilot without sustainability, it risks becoming fragmented or extractive (GSMA, 2025).
+
+Latin American countries are at a critical juncture: they are investing in digital infrastructure (e.g., Colombia's multipurpose cadastre), but institutional choices about governance, who owns the data, who funds the infrastructure, and how interoperability is enforced, are still fluid (OECD, 2022). Incomplete or poorly governed systems risk hardcoding exclusion, reinforcing what Melo-Velasco et al. (2025) call the "digital enclosure" of rural populations. DARs must be understood, then, as disputes over digital territory, not just digital services.
+
+8.2. Standards and Interoperability as Political Instruments
+============================================================
+
+DARs are governed not only by infrastructure but by the technical standards and protocols that define data formats, scoring criteria, and service eligibility. Standards determine whether systems can interoperate, whether farmers can switch providers, and whether innovation is modular or captive.
+
+GSMA (2022; 2025) consistently highlights that the lack of interoperability is one of the biggest constraints in digital agriculture. In Colombia, for example, the absence of shared standards for farmer ID, georeferencing, and transaction data means that digital tools cannot speak to each other, and farmers' credit or advisory histories remain trapped in platform silos. This restricts farmer agency, reduces competition, and raises barriers to entry for smaller firms.
+
+From a governance perspective, control over standards is tantamount to control over access. If a platform requires proprietary APIs or uses opaque scoring criteria, it can effectively decide who joins a supply chain or gets access to finance, without public oversight. As Carboni (2026) warns in the context of digital credit, when eligibility rules are coded into opaque algorithms and remain undisclosed, scoring becomes a "black box" that automates exclusion and risk displacement.
+
+DARs, therefore, distribute institutional power through technical governance. Just as central banks govern monetary regimes through interest rate rules, digital agriculture is increasingly governed by entities that define standards for scoring, data sharing, and platform participation. These are political acts masked as technical optimization.
+
+**8.3.** **Platform Design as Rulemaking**
+
+Digital platforms are not just service intermediaries; they are regulatory environments. They set terms of use, pricing mechanisms, identity verification processes, and contractual obligations. By designing these rules, who gets visibility, who gets paid when, how ratings and rankings operate, platforms act as quasi-public institutions within DARs.
+
+Beanstalk AgTech (2023) finds that the dominant business model for digital agriculture startups in LMICs is vertically integrated bundling: firms offer advisory, input sales, credit, and market access through a single platform. While this bundling offers convenience, it also concentrates power. Farmers become dependent on a single gatekeeper for everything from weather advice to working capital, raising the risk of lock-in and dependency.
+
+McKinsey (2024) argues that the most successful agritech platforms are those that "orchestrate ecosystems." But from a DAR perspective, orchestration without accountability is governance without legitimacy. Platforms effectively set the rules of the game, deciding who qualifies for discounts, who can repay through harvest contracts, and what information is shared with buyers or financiers.
+
+Worse, many platforms enforce these rules without meaningful farmer participation. Melo-Velasco et al. (2025) highlight how these one-way governance structures reproduce historical asymmetries between rural producers and capital or market centers. In DARs, the absence of checks and balances can lead to platforms becoming de facto regulators, extracting rents through data monopolies, and undermining farmer autonomy.
+
+DARs are often framed as emergent results of digital transformation. This is misleading. They are better understood as configurations of institutions, infrastructure, standards, and incentives, deliberately or incidentally arranged through public-private interaction. Some DARs are designed proactively, with guardrails and shared governance (FAO, 2025). Others are forming by default, through market capture or donor-driven architecture.
+
+This is why DARs must be theorized as regimes: like political regimes or economic regimes, they have winners and losers, feedback loops, and institutional inertia. Once platforms gain critical mass, they set defaults. Once standards are adopted, they become hard to reverse. And once data flows are monetized, actors resist opening them up.
+
+For policymakers, the lesson is clear: DARs are not just technical stacks to be installed, but institutional systems to be governed. For researchers and entrepreneurs, the implication is that DARs are not neutral backdrops; they are fields of contestation, design, and legitimacy. Understanding how power is embedded in infrastructure and protocols is essential for building inclusive, farmer-centered digital food systems.
+
+9.     Policy Guardrails and Roadmap: Designing Inclusive Digital Agrarian Regimes
+==================================================================================
+
+If digital agrarian regimes (DARs) shape who farms, how they access capital, and under what terms they interact with markets, then designing inclusive regimes is a matter of public interest. Policy must move beyond promoting innovation or infrastructure deployment to defining and enforcing guardrails, rules, norms, and institutions that ensure DARs serve equity, resilience, and accountability goals. This section outlines five core policy principles, drawing from multilateral guidance, regional experience, and grounded entrepreneurial lessons.
+
+9.1.Treat Foundational Digital Systems as Public Infrastructure
+---------------------------------------------------------------
+
+The first guardrail is to designate key digital layers, registries, IDs, payment rails, and scoring protocols as digital public infrastructure (DPI). FAO (2025) warns that when foundational layers like farmer registries or geospatial datasets are developed as proprietary assets or under fragmented donor models, they entrench exclusion and inefficiency. Instead, governments should treat these systems like irrigation or roads: essential services with public utility characteristics.
+
+In Colombia, for example, while efforts like the multipurpose cadastre are underway, many farmer-facing systems remain siloed across agencies (OECD, 2022). A DPI approach would require shared governance structures, API standards, and protocols for secure, farmer-consented data sharing. Without this, interoperability will remain elusive, and DARs will be defined by market power, not public design.
+
+9.2.Enforce Interoperability and Data Portability by Design
+-----------------------------------------------------------
+
+DARs become exclusionary when services are bundled but non-transferable. A farmer who builds credit history or traceability records with Platform A should be able to port that reputation to Platform B. GSMA (2025) emphasizes interoperability and portability as pillars of inclusive digital agriculture: they enable choice, competition, and farmer agency. Yet in practice, Latin America's agri-fintech landscape remains fragmented and closed. Standards for data exchange (e.g., between input providers, banks, and off-takers) are ad hoc or proprietary. As CGAP (2025) notes, without public guidance, platforms often build defensively, seeking lock-in rather than open integration.
+
+Policy responses should include national-level interoperability frameworks, neutral data hubs, and digital ID integration across services. Drawing inspiration from financial inclusion infrastructure (like open banking APIs or India's Aadhaar stack), Latin American governments could define shared rails that support competition while preserving farmer control.
+
+9.3.Build Algorithmic Accountability and Credit Governance
+----------------------------------------------------------
+
+As credit scoring, eligibility algorithms, and pricing mechanisms proliferate, DARs increasingly govern via code. This raises risks of opaque exclusion, discrimination, and unchallengeable decisions. Carboni (2026) shows how digital credit systems in agriculture often score farmers based on proxies, like phone usage or location, that may not reflect productive capacity or the capacity to adapt sustainable practices. Farmers denied access cannot easily appeal or understand why.
+
+Governments must require algorithmic transparency and redress mechanisms. This means disclosing core scoring logic, publishing fairness audits, and establishing recourse pathways. CGAP (2025) recommends developing regulatory sandboxes for agri-fintech, where new models can be tested under supervised conditions. Colombia, for instance, could extend its financial consumer protection framework to include agri-data scoring tools. Public agricultural development banks (like FINAGRO) might also develop "open scoring" algorithms co-designed with producer organizations to ensure legitimacy. Without such steps, DARs risk replicating the very credit exclusion they claim to solve.
+
+9.4. Incentivize Inclusive Use Cases and Social Returns
+-------------------------------------------------------
+
+Much of the agri-digital ecosystem is driven by market-based logic: increase productivity, reduce transaction costs, expand margins. While valuable, this frame often underinvests in equity. As IFAD (2024) argues, food systems must not be transformed "on the backs of the rural poor." Governments and multilaterals should therefore incentivize DAR use cases with clear public returns.
+
+This includes:
+
+-   Subsidizing connectivity and device access in marginalized rural areas.
+-   Providing co-investment or challenge funds for platforms that integrate excluded populations (e.g., women, youth, conflict-affected zones).
+-   Supporting cooperative-led digital platforms that build countervailing power and retain value in rural areas.
+
+DARs don't have to be extractive or top-down. WËIA, for example, illustrates how blockchain infrastructure can be used not for speculative finance but for verifiable inclusion, ensuring farmers can prove compliance or delivery and unlock deferred payments. While nascent, such models show how tech can be reoriented toward redistribution rather than enclosure.
+
+9.5. Embed Monitoring and Adaptive Governance
+---------------------------------------------
+
+Finally, DARs require ongoing governance, not one-off policy announcements. Institutional arrangements should be built to monitor regime dynamics, including:
+
+-   Market concentration and pricing behavior of dominant platforms.
+-   Regional disparities in service uptake and outcomes.
+-   Algorithmic bias or exclusion patterns.
+
+This requires investment in rural data systems, collaboration with academia and farmer associations, and the creation of DAR "scorecards" or dashboards. As FAO (2025) notes, governance must be adaptive, responding to new risks (e.g., data leakage, monopolistic bundling) as they arise. Latin America has the institutional depth to pioneer such models. Colombia's robust statistical system (e.g., DANE), rural observatories, and decentralized extension networks could serve as the basis for ongoing DAR oversight.
+
+These sources do not, on their own, measure 'digital agrarian regimes'. But they make it feasible to operationalize core regime dimensions (market volatility, credit inclusion, and digital access) and to triangulate how rules and platforms reshape outcomes. In the Colombian case, agrifood prices and supply conditions: SIPSA mayoristas and related series published by DANE provide high-frequency signals on price formation and market volatility (DANE, 2025). Agricultural credit depth and distribution: FINAGRO publishes credit microdata (e.g., disbursements and loan balances) that can be used to examine inclusion patterns by producer type and geography (FINAGRO, 2025). Connectivity and digital access: MinTIC's telecom statistics and the Colombia TIC portal support tracking the infrastructure constraints that shape who can participate in digital services (MinTIC, 2025). Even in a primarily conceptual paper, a practical measurement agenda matters: it helps governments, funders, and researchers track whether a DAR is becoming more inclusive, competitive, and accountable over time. For Colombia, several high-value data sources already exist and can be combined to monitor the evolution of digital coordination, credit, and market access.
+
+10.  Conclusion: Governing the Digital Transition in Agriculture
+================================================================
+
+Digitalization is reshaping agriculture not merely by introducing new tools, but by reconfiguring the rules, infrastructures, and power relations that define how value is created and distributed. As this paper has argued, the concept of Digital Agrarian Regimes (DARs) provides a critical framework for understanding, and ultimately shaping, this transformation. DARs are not just clusters of innovation; they are institutional systems formed through registries, scoring algorithms, traceability protocols, and platform-mediated coordination. Who builds and governs these systems will determine whether digital agriculture leads to resilience and inclusion, or deepens exclusion and dependency.
+
+The dominant policy narrative still tends to frame digital transformation in terms of adoption: increasing the number of smallholders using mobile services, climate apps, or e-wallets. Yet this lens obscures the deeper questions of governance, access, and institutional configuration. As researchers have shown (Gugganig et al., 2023; Melo-Velasco et al., 2025), adoption is not a purely technical problem; it is shaped by farmer strategies, infrastructural gaps, and power asymmetries embedded in design choices. The DAR lens reframes the problem: from "How do we get farmers to adopt tech?" to "Who controls the rails of digital agriculture, and how do those rails structure participation, risk, and value capture?"
+
+This reorientation is especially critical for Latin America. The region's agriculture is simultaneously modernizing and fragmenting. It is deeply embedded in global value chains (Dalheimer & Bellemare, 2025), yet marked by persistent informality, dualism, and rural inequality (IFAD, 2024; OECD, 2022). The rise of fintech, traceability systems, and e-marketplaces creates new channels for value generation, but also raises concerns about algorithmic exclusion, platform lock-in, and data capture (Carboni, 2026; CGAP, 2025). As this paper has shown, firms like WËIA operate in this ambiguous terrain: they fill public infrastructure gaps, offer innovative bundling models like Farm Now, Pay Later, but are also constrained by missing standards, legal ambiguity, and coordination failures.
+
+Colombia exemplifies both the risks and the opportunities of this moment. It has made strong investments in cadastre modernization, rural development, and fintech innovation, and could lead the region in designing interoperable, farmer-centered digital infrastructure. Yet it also faces critical decisions about data governance, financial regulation, and platform accountability. Without clear guardrails and adaptive oversight, DARs could become instruments of market capture or surveillance. With thoughtful design, however, they could underpin a new generation of inclusive, resilient food systems.
+
+To achieve this, policymakers must:
+
+-   Treat core digital systems as public goods, not proprietary silos.
+-   Enforce interoperability, algorithmic transparency, and redress mechanisms.
+-   Incentivize use cases that deliver social returns, particularly for historically excluded populations.
+-   Embed monitoring and feedback loops to track distributional effects and course-correct.
+
+Researchers and practitioners, in turn, must move beyond pilot evaluations and adoption studies toward regime-level analysis, mapping how standards, incentives, and institutional choices shape the distribution of risks and rewards across the agrifood system. Entrepreneurs should see themselves not just as builders of tech, but as co-architects of new regimes. The digital transition in agriculture is not inevitable, nor is it apolitical. The choices made today, about how farmer identities are recorded, how credit is scored, how contracts are enforced, and how platforms are governed, will determine whether smallholders in Latin America are empowered participants in future food systems or subordinated data points in extractive supply chains.
+
+The window to shape DARs is open now. Latin America, and Colombia in particular, has a rare opportunity to design digital regimes that align innovation with equity, market access with dignity, and efficiency with democratic governance. That opportunity should not be wasted.
+
+**\
+**
