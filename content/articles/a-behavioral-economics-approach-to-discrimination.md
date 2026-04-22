@@ -47,7 +47,7 @@ language: English
 ---
 **Keywords:** discrimination, behavioral economics, field experiments, survey experiments, beliefs-based, taste-based, social exclusion
 
-## **Acknowledgments**: 
+## Acknowledgments: 
 
 I am grateful to the Paris Institute for Advanced Study for its generous fellowship and intellectual hospitality. I thank my co-authors on the various projects discussed here (Lina Restrepo-Plaza, Paulius Yamin, Luis Artavia-Mora, Héctor Solaz, Cristina Escamilla, Thomas Kruiper, Julian Pinazo, Ana M. Rojas, and Lorena Levano) for their contributions to the empirical work reviewed in this paper. Any mistake remains my own responsibility. Special gratitude goes to international organizations (International Finance Corporation, World Bank and the International Labour Organization), governments (in Spain and Ecuador) and corporations (in all five countries). Without their support, the work described here would have never been possible.
 
