@@ -2,8 +2,6 @@
 title: Politique éditoriale
 ---
 
-## Politique éditoriale
-
 Les _Actes de l’Institut d’études avancées de Paris_ publient une sélection des résultats issus des conférences, des cycles de conférences et des résidences d’écriture organisés par l’Institut, dans le but de diffuser des recherches interdisciplinaires et transdisciplinaires présentant un grand intérêt scientifique et sociétal.
 
 ### 1. Champ d’application de la politique éditoriale

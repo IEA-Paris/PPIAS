@@ -2,8 +2,6 @@
 title: Editorial Policy
 ---
 
-## Editorial Policy
-
 The _Proceedings of the Paris Institute for Advanced Study_ publish selected outputs from conferences, lecture series, and writing residencies hosted by the Institute, with the aim of disseminating interdisciplinary and transdisciplinary research of high scientific and societal relevance.
 
 ### 1. Scope of the Editorial Policy
