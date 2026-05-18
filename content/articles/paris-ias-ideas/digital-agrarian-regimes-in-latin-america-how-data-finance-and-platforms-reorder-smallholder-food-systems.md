@@ -1,27 +1,6 @@
 ---
-published: true
-article_title: 'Digital Agrarian Regimes in Latin America: How Data, Finance,
-  and Platforms Reorder Smallholder Food Systems'
-date: 2026-03-02T09:18:00.000-05:00
-type: article
-needDOI: true
-authors:
-  - is_institution: false
-    firstname: Javier
-    lastname: Perez-Burgos
-    positions_and_institutions:
-      - institution: WËIA (Agri-Fintech)
-        positions:
-          - Co-founder & COO
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      webstwitterite: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
+DOI: 10.5281/zenodo.20269036
+Zid: 20269036
 abstract: >-
   Across Latin America, digital tools are reshaping how smallholder agriculture
   is governed, financed, and integrated into food supply chains. Yet much of the
@@ -39,12 +18,49 @@ abstract: >-
   gets credit, inputs, and market access, and at what terms.
 
 
-  The paper then operationalizes the concept through a Colombia-focused roadmap. It identifies feasible categories of data sources (public microdata and administrative records, price and supply systems, open data portals, connectivity maps, and credit microdata) to empirically track how digital agrarian regimes form in practice. Finally, it proposes policy design principles and “rules of the game” for fairness, accountability, and competition in digital food systems, so that digitalization increases productivity and resilience without deepening dependency, exclusion, or data-driven rent extraction.
-issue: content/issues/paris-ias-ideas.md
+  The paper then operationalizes the concept through a Colombia-focused roadmap.
+  It identifies feasible categories of data sources (public microdata and
+  administrative records, price and supply systems, open data portals,
+  connectivity maps, and credit microdata) to empirically track how digital
+  agrarian regimes form in practice. Finally, it proposes policy design
+  principles and “rules of the game” for fairness, accountability, and
+  competition in digital food systems, so that digitalization increases
+  productivity and resilience without deepening dependency, exclusion, or
+  data-driven rent extraction.
+article_title: >-
+  Digital Agrarian Regimes in Latin America: How Data, Finance, and Platforms
+  Reorder Smallholder Food Systems
+authors:
+  - firstname: Javier
+    is_institution: false
+    lastname: Perez-Burgos
+    positions_and_institutions:
+      - institution: WËIA (Agri-Fintech)
+        positions:
+          - Co-founder & COO
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: >-
+  /digital-agrarian-regimes-in-latin-america-how-data-finance-and-platforms-reorder-smallholder-food-systems/references_perezburgos.bib
+date: 2026-03-02T14:18:00.000Z
 highlight: false
-bibliography: /digital-agrarian-regimes-in-latin-america-how-data-finance-and-platforms-reorder-smallholder-food-systems/references_perezburgos.bib
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/cfc5dbe0-5cbc-48d8-a935-5ed3eaa2e04a
+needDOI: true
+published: true
+type: article
+
 ---
+
 
 ### Keywords
 

@@ -1,38 +1,45 @@
 ---
-published: true
-article_title: "A Place to Think in the New Information Age "
-date: 2024-08-16T11:28:00.000Z
-type: article
-needDOI: true
+DOI: 10.5281/zenodo.20269034
+Zid: 20269034
+abstract: >-
+  This short note summarizes a National Science Foundation proposal  completed
+  during a research residency at the Paris Institute for Advanced Study. The
+  goal is to communicate to a wider audience the need for a human-centered
+  information space as a place to think in the new information age. A
+  human-centered information space is both an idea, and a computational
+  environment. It is the idea of a spatial cognitive workspace—a desktop for
+  intellectual activity—reified as a computational environment that actively
+  supports information-based work.
+article_title: 'A Place to Think in the New Information Age '
 authors:
-  - is_institution: false
-    firstname: James D.
+  - firstname: James D.
+    is_institution: false
     lastname: Hollan
     positions_and_institutions:
       - institution: University of California, San Diego
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: This short note summarizes a National Science Foundation
-  proposal  completed during a research residency at the Paris Institute for
-  Advanced Study. The goal is to communicate to a wider audience the need for a
-  human-centered information space as a place to think in the new information
-  age. A human-centered information space is both an idea, and a computational
-  environment. It is the idea of a spatial cognitive workspace—a desktop for
-  intellectual activity—reified as a computational environment that actively
-  supports information-based work.
-issue: content/issues/paris-ias-ideas.md
-highlight: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /hollan-2024.bib
+date: 2024-08-16T11:28:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/8a8f5f3c-0aaf-4282-8cdc-4f82380bda50
+needDOI: true
+published: true
+type: article
+
 ---
+
 > ## Acknowledgements
 >
 > This brief note is a summary of a proposal submitted to the National Science Foundation. I first acknowledge this support and my co-PIs: Haijun Xia and Philip Guo at UC San Diego, Arvind Satyanayaran at MIT, and Maneesh Agrawala at Stanford. I also would like to acknowledge the members of the project advisory panel: Saadi Lahlou (LSE and Paris-IEA), Wendy Mackay (Inria), Tom Malone (MIT), Gary Olson (UCI), Roy Pea (Stanford), Justin Solomon (MIT), and Jaime Teevan (Microsoft). In addition, the proposal is strengthened by the involvement of the Human-Computer Interaction Consortium (hcic.org), the Paris Institute for Advanced Study (paris-iea.fr), organizations with extensive experience with both interdisciplinary research and interactions across multiple institutions, the French eNSEMBLE network, and Microsoft Future of Work network. Michel Beaudouin-Lafon (Universit'e Paris-Saclay) will serve as the representative from the eNSEMBLE network and Abigale Sellen from the Microsoft Future of Work network.

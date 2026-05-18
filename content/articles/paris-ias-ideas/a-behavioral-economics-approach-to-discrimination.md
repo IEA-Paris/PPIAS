@@ -1,35 +1,15 @@
 ---
-published: true
-article_title: A Behavioral Economics Approach to Discrimination
-date: 2026-04-22T09:27:00.000-05:00
-type: article
-needDOI: true
-authors:
-  - is_institution: false
-    firstname: Enrique
-    lastname: Fatas
-    positions_and_institutions:
-      - institution: Behavioral Economics Institute
-        positions: []
-      - institution: Universidad Europea de Valencia
-        positions: []
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      webstwitterite: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
-abstract: 'How should we measure discrimination? Economics has long relied on
-  the analysis of taste-based discrimination and statistical discrimination,
-  using a well-established empirical toolkit centered on audit studies,
-  correspondence experiments, and regression-based decompositions. These methods
-  have produced landmark findings, yet they face persistent challenges:
-  identifying the precise mechanisms behind differential treatment, capturing
-  the multidimensional nature of real-world discrimination, and accounting for
-  the behavioral complexities that shape both discriminators and those who are
+DOI: 10.5281/zenodo.20269032
+Zid: 20269032
+abstract: >-
+  How should we measure discrimination? Economics has long relied on the
+  analysis of taste-based discrimination and statistical discrimination, using a
+  well-established empirical toolkit centered on audit studies, correspondence
+  experiments, and regression-based decompositions. These methods have produced
+  landmark findings, yet they face persistent challenges: identifying the
+  precise mechanisms behind differential treatment, capturing the
+  multidimensional nature of real-world discrimination, and accounting for the
+  behavioral complexities that shape both discriminators and those who are
   discriminated against. This paper reviews the traditional methods used to
   measure discrimination in economics and the social sciences, and argues that
   behavioral economics offers a powerful complementary toolkit. Drawing on
@@ -39,12 +19,39 @@ abstract: 'How should we measure discrimination? Economics has long relied on
   illustrates these arguments with examples from my own recent fieldwork, five
   policy-oriented behavioral studies conducted in Ecuador, Spain, Colombia,
   Pakistan, and Peru, to explain how intersectional discrimination can be
-  studied in the field.'
-issue: content/issues/paris-ias-ideas.md
-highlight: false
+  studied in the field.
+article_title: A Behavioral Economics Approach to Discrimination
+authors:
+  - firstname: Enrique
+    is_institution: false
+    lastname: Fatas
+    positions_and_institutions:
+      - institution: Behavioral Economics Institute
+        positions: []
+      - institution: Universidad Europea de Valencia
+        positions: []
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /a-behavioral-economics-approach-to-discrimination/references_fatas.bib
+date: 2026-04-22T14:27:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/251aa990-d819-4967-8a0e-70e79b4bab90
+needDOI: true
+published: true
+type: article
+
 ---
+
 
 **Keywords:** discrimination, behavioral economics, field experiments, survey experiments, beliefs-based, taste-based, social exclusion
 
