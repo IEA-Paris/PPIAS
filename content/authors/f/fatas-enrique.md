@@ -2,11 +2,14 @@
 active: true
 articles:
   - 8-0_WPRN21_Keynote 8
+  - a-behavioral-economics-approach-to-discrimination
 exerpt: ''
 firstname: Enrique
+is_institution: false
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
+  - content/issues/paris-ias-ideas.md
 language:
   - English
 lastname: Fatas
@@ -14,6 +17,8 @@ picture: ''
 picture_copyright: ''
 positions_and_institutions:
   - institution: University of Pennsylvania, USA
+    positions: []
+  - institution: Universidad Europea de Valencia
     positions: []
 reference: ''
 social_channels:
@@ -25,6 +30,7 @@ social_channels:
   researchgate: ''
   twitter: https://twitter.com/enriquefatas?lang=fr
   website: ''
+  webstwitterite: ''
   wikipedia: ''
 tags:
   - 'Public Discourse, Rhetorics, Communication '
@@ -37,5 +43,6 @@ tags:
   - globalization
 years:
   - 2021
+  - 2026
 
 ---
