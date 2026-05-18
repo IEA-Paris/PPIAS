@@ -4,6 +4,7 @@ title: WPRN21 Videos
 name_of_the_issue: WPRN21 Videos
 date: 2021-12-10T17:00:16.000+00:00
 cover: "/extrait-vectors4.png"
+sub-issues: []
 
 ---
 With over 1,000 registered research projects and initiatives, the online platform of the World Pandemic Research Network is the first tool enabling the community working on the on the human, economic, and societal impacts of Covid-19 to showcase, access and discuss projects.
