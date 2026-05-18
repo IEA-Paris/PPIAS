@@ -99,7 +99,10 @@ export default {
       token: process.env.ZENODO_TOKEN,
       sandboxToken: process.env.ZENODO_SANDBOX_TOKEN,
       sandbox: false,
-      community: 'Proceedings of the Institutes for Advanced Studies',
+      // Must be the community slug (path segment from the Zenodo URL),
+      // not the display title — Zenodo accepts the request either way
+      // but only the slug resolves the community association.
+      community: 'proceedings-of-the-institutes-for-advanced-studies',
     },
     image: {
       domains: [

@@ -1,37 +1,68 @@
 ---
-published: true
-article_title: 'Artificial Consciousness: Science Fiction, Utopia, or Pandora’s Box?'
-date: 2026-05-11T11:01:00.000-05:00
-type: article
-needDOI: true
-authors:
-  - is_institution: false
-    firstname: Kathinka
-    lastname: Evers
-    positions_and_institutions:
-      - institution:
-          Centre for Research Ethics & Bioethics (CRB), Uppsala University,
-          Sweden
-        positions: []
-    social_channels:
-      website: ''
-      wikipedia: ''
-      orcid: ''
-      linkedin: ''
-      webstwitterite: ''
-      google_scholar: ''
-      researchgate: ''
-      mendeley: ''
+DOI: 10.5281/zenodo.20267984
+Zid: 20267984
 abstract: >-
   Why is the question of whether a machine could be conscious (have subjective
   experience) or sentient (have valenced experience) raised in science?
 
-  This paper addresses three closely related questions: (a) Why strive to develop conscious artificial systems? (b) Is artificial consciousness possible? (c) Could artificial consciousness be recognised? Starting with a brief historical overview of the construction of mental hierarchies within Western cultures, psychological and social driving forces for developing conscious machines are then considered. Arguing that, against this historical background, the development of conscious machines seems both dangerously naïve and morally irresponsible, the question of precaution arises. The need for precaution hinges partly on possibility. Conscious AI is assumed to be theoretically possible within certain theoretical frameworks, yet no independent empirical evidence is presently available. In that situation, we can neither logically exclude nor affirm the possible existence, or future existence, of artificial consciousness in the real world. Even assuming possibility, another question is whether or how we could recognise machine consciousness. Artificial systems use human-generated training data to mimic human behaviours, which, if successful, may persuade human users of their sentience. This is a psychological fact with no evidential value whatsoever. Moreover, to the extent that animals and artificial systems are very different in substance, structure, and functions, their putative sentience might also be very different and therefore incommensurable, which would pose a formidable obstacle for detecting, let alone understanding, a sentient machine. The paper concludes that, because of how human nature has been expressed throughout our history and continues to express itself today, developing conscious machines (possibly with for humans undetectable and incomprehensible minds) is a monumentally dangerous idea.
-issue: content/issues/paris-ias-ideas.md
+  This paper addresses three closely related questions: (a) Why strive to
+  develop conscious artificial systems? (b) Is artificial consciousness
+  possible? (c) Could artificial consciousness be recognised? Starting with a
+  brief historical overview of the construction of mental hierarchies within
+  Western cultures, psychological and social driving forces for developing
+  conscious machines are then considered. Arguing that, against this historical
+  background, the development of conscious machines seems both dangerously naïve
+  and morally irresponsible, the question of precaution arises. The need for
+  precaution hinges partly on possibility. Conscious AI is assumed to be
+  theoretically possible within certain theoretical frameworks, yet no
+  independent empirical evidence is presently available. In that situation, we
+  can neither logically exclude nor affirm the possible existence, or future
+  existence, of artificial consciousness in the real world. Even assuming
+  possibility, another question is whether or how we could recognise machine
+  consciousness. Artificial systems use human-generated training data to mimic
+  human behaviours, which, if successful, may persuade human users of their
+  sentience. This is a psychological fact with no evidential value whatsoever.
+  Moreover, to the extent that animals and artificial systems are very different
+  in substance, structure, and functions, their putative sentience might also be
+  very different and therefore incommensurable, which would pose a formidable
+  obstacle for detecting, let alone understanding, a sentient machine. The paper
+  concludes that, because of how human nature has been expressed throughout our
+  history and continues to express itself today, developing conscious machines
+  (possibly with for humans undetectable and incomprehensible minds) is a
+  monumentally dangerous idea.
+article_title: 'Artificial Consciousness: Science Fiction, Utopia, or Pandora’s Box?'
+authors:
+  - firstname: Kathinka
+    is_institution: false
+    lastname: Evers
+    positions_and_institutions:
+      - institution: >-
+          Centre for Research Ethics & Bioethics (CRB), Uppsala University,
+          Sweden
+        positions: []
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: >-
+  /artificial-consciousness-science-fiction-utopia-or-pandora-s-box/reference_evers.bib
+date: 2026-05-11T16:01:00.000Z
 highlight: false
-bibliography: /artificial-consciousness-science-fiction-utopia-or-pandora-s-box/reference_evers.bib
+issue: content/issues/paris-ias-ideas.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/30a6ccb8-df4f-4c3b-911f-4469d8e8aae2
+needDOI: true
+published: true
+type: article
+
 ---
+
 
 ## Introduction
 
