@@ -10,6 +10,7 @@ issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
   - content/issues/paris-ias-ideas.md
+  - content/issues/paris-ias-ideas-2026.md
 language:
   - English
 lastname: Fatas

@@ -5,7 +5,7 @@ date: 2023-10-06T00:00:00.000Z
 highlight: false
 id: B06l72MXiWo
 index: 0
-issue: content/issues/paris-ias-ideas.md
+issue: content/issues/paris-ias-ideas-2023.md
 language: English
 type: youtube
 years: 2023

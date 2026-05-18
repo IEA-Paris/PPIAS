@@ -10,6 +10,8 @@ firstname: Adam
 is_institution: false
 issue:
   - content/issues/paris-ias-ideas.md
+  - content/issues/paris-ias-ideas-2024.md
+  - content/issues/paris-ias-ideas-2025.md
 language:
   - English
 lastname: Kahane

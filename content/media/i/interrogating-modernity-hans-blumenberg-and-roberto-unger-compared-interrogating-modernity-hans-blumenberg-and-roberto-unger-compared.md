@@ -5,7 +5,7 @@ date: 2023-11-10T06:00:00.000Z
 highlight: false
 id: AemnVyaaCBI
 index: 0
-issue: content/issues/paris-ias-ideas.md
+issue: content/issues/paris-ias-ideas-2023.md
 language: English
 type: youtube
 years: 2023

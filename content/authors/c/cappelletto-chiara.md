@@ -9,6 +9,7 @@ is_institution: false
 issue:
   - content/issues/identity-from-double-to-avatar.md
   - content/issues/paris-ias-ideas.md
+  - content/issues/paris-ias-ideas-2025.md
 language:
   - English
 lastname: Cappelletto

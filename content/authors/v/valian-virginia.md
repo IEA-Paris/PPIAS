@@ -7,6 +7,7 @@ firstname: Virginia
 is_institution: false
 issue:
   - content/issues/paris-ias-ideas.md
+  - content/issues/paris-ias-ideas-2023.md
 language:
   - English
 lastname: Valian

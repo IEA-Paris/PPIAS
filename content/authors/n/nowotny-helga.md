@@ -19,6 +19,7 @@ issue:
   - content/issues/Intercontinental Academia 4.md
   - content/issues/paris-ias-ideas.md
   - content/issues/paris-ias-projects.md
+  - content/issues/paris-ias-ideas-2024.md
 language:
   - English
 lastname: Nowotny

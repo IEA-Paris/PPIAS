@@ -11,6 +11,7 @@ is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
   - content/issues/paris-ias-ideas.md
+  - content/issues/paris-ias-ideas-2025.md
 language:
   - French
   - English

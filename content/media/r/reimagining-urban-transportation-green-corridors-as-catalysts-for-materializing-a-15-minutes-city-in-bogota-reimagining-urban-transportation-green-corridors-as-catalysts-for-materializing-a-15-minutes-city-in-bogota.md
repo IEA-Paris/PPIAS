@@ -8,7 +8,7 @@ date: 2023-09-07T23:00:00.000Z
 highlight: false
 id: snaHY-vnB-M
 index: 0
-issue: content/issues/paris-ias-ideas.md
+issue: content/issues/paris-ias-ideas-2023.md
 language: English
 type: youtube
 years: 2023
