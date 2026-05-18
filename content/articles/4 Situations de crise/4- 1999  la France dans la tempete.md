@@ -53,24 +53,14 @@ issue: content/issues/Agir en temps de crise.md
 keywords: []
 language: French
 links:
-  bucket: https://zenodo.org/api/files/afe14b2d-23f3-47a3-8121-308e609f2d07
+  bucket: https://zenodo.org/api/files/9ccc2249-3608-42ca-a1d7-0a7b34cffaa7
 needDOI: true
 picture: ''
 picture_copyright: ''
 published: true
 sub-issue: 4 Situations de Crise
 yt: GujeicU68Pw
-
 ---
-
-
-
-
-
-
-
-
-
 
 Les deux tempêtes extrêmement puissantes qui ont touché sur plusieurs jours consécutifs la France fin décembre 1999, ont causé la mort d’une centaine de personnes et plusieurs milliards de dollars de dommages matériels. Ce sont 1,4 millions de foyers qui furent coupés d’électricité et de chauffage. Des mesures d’urgence inédites ont dû être adoptées : coordination des services publics, mobilisation de personnel retraités, organisation des populations sinistrées. Au-delà, l’expérience de cette crise a permis au réseau électrique français, en concertation avec les décideurs politiques, de mettre en place de bonnes pratiques et de gagner en réactivité, avec la création de brigades d’intervention rapide, mais aussi de nouveaux efforts de prévision ou l’enfouissement des lignes. Aujourd’hui, face à la recrudescence d’épisodes extrêmes que laisse craindre le dérèglement climatique, sommes-nous prêts à affronter des situations similaires ?
 
