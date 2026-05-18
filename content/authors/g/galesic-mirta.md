@@ -1,18 +1,19 @@
 ---
 active: true
-articles:
-  - artificial-intelligence-at-work-in-the-legal-profession
+articles: []
 editorial_fellow: true
 exerpt: ''
-firstname: Henrik
+firstname: Mirta
 is_institution: false
 issue:
-  - content/issues/guest_lectures.md
+  - content/issues/paris-ias-ideas.md
 language:
   - English
-lastname: Palmer Olsen
+lastname: Galesic
 positions_and_institutions:
-  - institution: University of Copenhagen
+  - institution: Complexity Science Hub Vienna
+    positions: []
+  - institution: Santa Fe Institute
     positions: []
 social_channels:
   google_scholar: ''
@@ -23,7 +24,6 @@ social_channels:
   website: ''
   webstwitterite: ''
   wikipedia: ''
-years:
-  - 2024
+years: []
 
 ---

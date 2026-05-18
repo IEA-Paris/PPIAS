@@ -1,18 +1,17 @@
 ---
 active: true
-articles:
-  - artificial-intelligence-at-work-in-the-legal-profession
+articles: []
 editorial_fellow: true
 exerpt: ''
-firstname: Henrik
+firstname: Leor
 is_institution: false
 issue:
-  - content/issues/guest_lectures.md
+  - content/issues/paris-ias-ideas.md
 language:
   - English
-lastname: Palmer Olsen
+lastname: Zmigrod
 positions_and_institutions:
-  - institution: University of Copenhagen
+  - institution: University of Cambridge
     positions: []
 social_channels:
   google_scholar: ''
@@ -23,7 +22,6 @@ social_channels:
   website: ''
   webstwitterite: ''
   wikipedia: ''
-years:
-  - 2024
+years: []
 
 ---

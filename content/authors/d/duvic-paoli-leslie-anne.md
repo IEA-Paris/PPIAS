@@ -2,6 +2,7 @@
 active: true
 articles:
   - climate-assemblies-and-the-law-a-research-roadmap
+editorial_fellow: true
 exerpt: ''
 firstname: Leslie-Anne
 is_institution: false

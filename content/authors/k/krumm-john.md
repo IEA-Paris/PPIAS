@@ -2,6 +2,7 @@
 active: true
 articles:
   - personal-data-privacy
+editorial_fellow: true
 exerpt: ''
 firstname: John
 is_institution: false

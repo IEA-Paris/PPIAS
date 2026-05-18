@@ -36,6 +36,8 @@ category:
   - content/categories/Fellows.md
   - content/categories/WPRN.md
   - content/categories/OML.md
+editorial_committee: true
+editorial_fellow: true
 exerpt: ''
 firstname: Saadi
 is_institution: false

@@ -2,6 +2,7 @@
 active: true
 articles:
   - socioscope
+editorial_fellow: true
 exerpt: ''
 firstname: Stefan
 issue:

@@ -6,6 +6,8 @@ articles:
   - >-
     collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
   - netboards
+editorial_committee: true
+editorial_fellow: true
 exerpt: ''
 firstname: Olivier
 is_institution: false

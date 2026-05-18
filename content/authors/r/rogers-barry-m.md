@@ -3,6 +3,7 @@ active: true
 articles:
   - >-
     beyond-the-illusion-of-change-bridging-the-classroom-and-the-workplace-via-processes-of-temporal-re-contextualisation
+editorial_fellow: true
 exerpt: ''
 firstname: Barry M.
 is_institution: false

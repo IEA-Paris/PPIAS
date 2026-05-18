@@ -3,6 +3,7 @@ active: true
 articles:
   - >-
     collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
+editorial_fellow: true
 exerpt: ''
 firstname: Deshen
 is_institution: false

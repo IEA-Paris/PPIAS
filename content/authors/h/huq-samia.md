@@ -3,6 +3,7 @@ active: true
 articles:
   - >-
     secular-advocacy-religious-women-and-a-new-framework-for-ideas-and-action-challenges-and-possibilities-from-bangladesh
+editorial_fellow: true
 exerpt: ''
 firstname: Samia
 is_institution: false

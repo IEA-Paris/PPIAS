@@ -3,6 +3,7 @@ active: true
 articles:
   - >-
     residues-that-matter-why-innovation-societies-need-to-rethink-their-response-ability
+editorial_fellow: true
 exerpt: ''
 firstname: Ulrike
 is_institution: false

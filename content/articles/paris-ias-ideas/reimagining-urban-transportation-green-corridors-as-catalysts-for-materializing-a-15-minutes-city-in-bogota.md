@@ -10,9 +10,9 @@ article_title: >-
 authors:
   - firstname: Juan-Pablo
     is_institution: false
-    lastname: Caceido
+    lastname: Caicedo
     positions_and_institutions:
-      - institution: Universidad Javeriana, Colombie
+      - institution: Universidad Javeriana, Colombia
         positions:
           - ''
 bibliography: /caicedo.bib
@@ -28,7 +28,6 @@ start: false
 stop: false
 subissue: false
 yt: snaHY-vnB-M
-
 ---
 
 In 2020 Claudia López's administration presented an unprecedented approach to urban infrastructure planning in Colombia. The Green Corridor on Carrera Séptima redefines urban transportation by prioritizing sustainable mobility over conventional public transport. By designating more than half of the road space to pedestrian-friendly areas, cycling lanes, and efficient public (electric) transportation, we are reclaiming the streets for the most vulnerable citizens, such as pedestrians, seniors, and children. This initiative not only incorporates social dialogue but also tackles the pressing challenge of climate change, shaping public decision-making from a different priority scale.

@@ -3,6 +3,7 @@ active: true
 articles:
   - patrimony-as-inalienability
   - inalienability-as-reciprocity-an-essay-on-kinship
+editorial_fellow: true
 exerpt: ''
 firstname: Jonathan
 is_institution: false

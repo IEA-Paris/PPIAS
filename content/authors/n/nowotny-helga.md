@@ -8,6 +8,7 @@ articles:
   - ai-and-the-illusion-of-control
   - netboards
   - socioscope
+editorial_fellow: true
 exerpt: ''
 firstname: Helga
 is_institution: false

@@ -10,9 +10,9 @@ issue:
   - content/issues/paris-ias-ideas.md
 language:
   - English
-lastname: Caceido
+lastname: Caicedo
 positions_and_institutions:
-  - institution: Universidad Javeriana, Colombie
+  - institution: Universidad Javeriana, Colombia
     positions: []
 years:
   - 2023

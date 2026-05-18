@@ -20,6 +20,7 @@ articles:
   - SynE2_2016_02_an-ordinary-guy-with-a-kalashnikov
   - >-
     collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
+editorial_fellow: true
 exerpt: ''
 firstname: Itzhak
 is_institution: false

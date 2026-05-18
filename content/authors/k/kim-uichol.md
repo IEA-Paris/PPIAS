@@ -3,6 +3,7 @@ active: true
 articles:
   - >-
     understanding-the-software-of-the-mind-self-and-culture-analysis-of-the-secrets-to-happiness-health-and-long-life
+editorial_fellow: true
 exerpt: ''
 firstname: Uichol
 is_institution: false

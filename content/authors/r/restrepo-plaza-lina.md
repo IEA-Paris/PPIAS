@@ -3,6 +3,7 @@ active: true
 articles:
   - >-
     beliefs-and-preferences-aside-a-simple-method-to-decompose-discriminatory-behaviors
+editorial_fellow: true
 exerpt: ''
 firstname: Lina
 is_institution: false
