@@ -30,7 +30,7 @@ abstract: This paper reconceptualises reconciliation in response to growing
   institutional settings, the paper demonstrates how reconciliation emerges
   through concrete acts, offering a new lens for a systematic understanding of
   transformation through agency in conflict-affected societies.
-issue: content/issues/Agir en temps de crise.md
+issue: content/issues/paris-ias-ideas-2026.md
 highlight: false
 bibliography: /reconciliation-acts-towards-a-new-theory-of-reconciliation-in-the-wake-of-violence/references_mannergren.bib
 language: English
