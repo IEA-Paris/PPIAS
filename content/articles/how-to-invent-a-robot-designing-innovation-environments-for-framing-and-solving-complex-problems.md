@@ -45,8 +45,7 @@ highlight: false
 bibliography: /how-to-invent-a-robot-designing-innovation-environments-for-framing-and-solving-complex-problems/references_lammar.bib
 language: English
 ---
-1\. Introduction
-================
+## 1. Introduction
 
 Contemporary debates on artificial intelligence and technological innovation are shaped by uncertainty. Public and professional discussions move between expectations of greater efficiency and concerns about loss of control, social disruption, and unintended consequences. At the same time, AI systems are becoming embedded in everyday work processes, influencing how information is generated, filtered, and acted upon. They increasingly shape perception, judgment, and decision-making within organizations and institutions.
 
@@ -70,15 +69,15 @@ The insights developed in this article are relevant across multiple domains of i
 
 The article first outlines the perspective and context from which the observations are derived, including the interdisciplinary learning and innovation environments in which they emerged. It then identifies recurring patterns in how problem framing and problem solving unfold in practice and examines moments of intervention and their effects. Finally, it discusses how to better design innovation environments to support deep tech development in contexts where artificial intelligence and robotic systems increasingly interact with human decision-making and organizational structures.
 
-**2\. How to Invent a Robot: an Experience-Based Practice Framework**
+## 2. How to Invent a Robot: an Experience-Based Practice Framework
 
-**2.1 Author's Background**
+### 2.1. Author's Background
 
 The perspective developed in this article is grounded in more than two decades of work across research, education, and applied technology development in artificial intelligence, robotics, and interdisciplinary innovation. This includes experience in industrial engineering, product and project management, AI- and robotics-based system development, interdisciplinary research, higher education, and European and national innovation projects, including acquisition, coordination, and proposal evaluation. Work with startups, corporate units, and public funding bodies has further provided insight into how early-stage ideas are translated into concrete projects under conditions of uncertainty, time pressure, and resource constraints.
 
 Across these contexts, a central focus has been the design and facilitation of environments in which collaboration, technological development, and learning unfold productively. This has involved aligning diverse perspectives, enabling cooperation across disciplinary boundaries, and building shared understanding between technical and non-technical actors. Because this work spans industry, research, higher education, startup ecosystems, and funding environments, it enables a comparative view of how innovation processes develop under different institutional logics, constraints, and expectations.
 
-**2.2 Method**
+### 2.2. Method
 
 The methodological approach of this article is reflective, practice-based, and comparative. It generates knowledge through active involvement in real innovation processes across multiple settings. These are treated as sites of inquiry in which innovation unfolds under practical constraints such as uncertainty, time pressure, or competing interests.
 
@@ -86,9 +85,9 @@ The analysis focuses on recurring dynamics: how problems are framed, how decisio
 
 A central element of the approach is comparative interpretation across contexts combined with theory from multiple disciplines. Concepts from engineering, management, and organization studies, design, education, the social sciences, and the humanities help explain patterns that recur across otherwise different environments. At the same time, theoretical knowledge is translated back into methods, tools, and interventions for practice. The process is iterative: practice generates observations, theory supports interpretation, interpretation informs action, and action generates further learning.
 
-**2.3 How to Invent a Robot as a Practice Framework**
+### 2.3. How to Invent a Robot as a Practice Framework
 
-*How to Invent a Robot *is the experience-based practice framework through which innovation environments are designed for framing and solving complex problems under conditions of uncertainty and complexity. It emerged through repeated work across research, industry, education, and technology development, where interdisciplinary teams had to move from ambiguous challenges toward actionable outcomes. The framework combines elements of constructionist learning, human-centered design, and reflective facilitation, while also drawing on routines from industrial practice such as project management, agile coaching, and human resource development.
+*How to Invent a Robot* is the experience-based practice framework through which innovation environments are designed for framing and solving complex problems under conditions of uncertainty and complexity. It emerged through repeated work across research, industry, education, and technology development, where interdisciplinary teams had to move from ambiguous challenges toward actionable outcomes. The framework combines elements of constructionist learning, human-centered design, and reflective facilitation, while also drawing on routines from industrial practice such as project management, agile coaching, and human resource development.
 
 One application of the framework is a university learning environment in which students from engineering, architecture, and science work in interdisciplinary teams on real-world challenges linked to the Sustainable Development Goals (Jäggle & Lammer, 2026). In this setting, the broader framework is translated into higher education through collaborative problem framing, user-oriented research, concept development, prototyping, iterative pitching, and guided reflection.
 
@@ -96,11 +95,11 @@ The learning environment integrates technical competence, creativity, teamwork, 
 
 Across multiple iterations, the course also serves as a structured experimentation space in which the framework is enacted, observed, and refined. Student reflections, discussions, and project artefacts provide additional insight into how participants experience collaboration, uncertainty, agency, and responsible technology development.
 
-**3\. Recurring Patterns and Moments of Intervention**
+## 3. Recurring Patterns and Moments of Intervention
 
 Building on the observations and comparative methodology outlined in Chapter 2, this chapter identifies recurring patterns in how problems are framed and addressed across engineering-driven innovation contexts. Despite differences in setting, similar dynamics appear repeatedly: early convergence around solvable problems, the influence of tools, the challenges of interdisciplinary collaboration, the structuring effects of organizations, and the limited role of reflection during ongoing work. Each section combines observations from practice with moments of intervention that revealed these dynamics or opened alternative pathways for action.
 
-**3.1 Early Convergence on Solvable Problems **
+### 3.1. Early Convergence on Solvable Problems 
 
 A recurring pattern in engineering-driven innovation is early convergence around solvable problems before uncertainty has been adequately explored. When challenges are still open, unclear, or difficult to define, teams are often drawn toward formulations that are easier to understand and to solve. Complex situations are narrowed into manageable tasks, ambiguous questions become technical requirements, and broad societal issues are reframed to fit familiar tools and routines. This creates momentum: work can be assigned, prototypes developed, and progress demonstrated. At the same time, important parts of the original challenge may disappear before they have been properly examined.
 
@@ -120,7 +119,7 @@ This change in sequence proved consequential. The resulting work highlighted a g
 
 Across these cases, early convergence is rarely the result of poor thinking or lack of motivation. It reflects environments that reward visible progress and rapid answers more consistently than exploration. Different outcomes emerge when uncertainty is treated as part of the work, when teams investigate lived realities, and when reframing remains possible. Under these conditions, more relevant challenges become visible, creating the basis for more meaningful and effective solutions.
 
-**3.2 Tools and Systems Shape What Is Thinkable**
+### 3.2. Tools and Systems Shape What Is Thinkable
 
 A second recurring pattern is that technical tools and systems shape what becomes relevant and plausible during innovation processes. Every platform, interface, or model carries assumptions about which inputs matter and what kinds of outputs are expected. Because tools are often treated as neutral support, these assumptions often stay invisible while still influencing both perception and thinking.
 
@@ -140,7 +139,7 @@ The challenge in this context is increasingly that students must learn to frame 
 
 Across these observations, tools and systems emerge as active components of innovation environments. They shape what is noticed, how situations are interpreted, which options gain legitimacy, and how quickly certain directions become established. Their influence often remains implicit because it is embedded in ordinary workflows and routines. The recurring interventions are therefore often small but important: making hidden assumptions visible, questioning outputs that appear authoritative, comparing alternatives, returning attention to user realities, or asking whether the tool is shaping the problem itself.
 
-**3.3 Interdisciplinary Friction Without Translation **
+### 3.3. Interdisciplinary Friction Without Translation 
 
 A third recurring pattern is that diversity expands the range of available knowledge, perspectives, and methods, but only if integrated well. Teams consist of highly capable people and still struggle to create shared progress. Different disciplines often approach the same challenge with different languages, assumptions, time horizons, and standards of what counts as a good solution. Without translation, these differences turn into friction, parallel work, or a hidden hierarchy.
 
@@ -162,7 +161,7 @@ Student reflections across multiple iterations in the learning environment descr
 
 These reflections show that friction in interdisciplinary teams often marks the effort of different knowledge systems trying to connect. With dialogue, feedback, and shared tasks, initial tension frequently develops into mutual respect and stronger collaboration. Without such support, differences more easily harden into misunderstanding or parallel work. The recurring interventions are therefore often practical and relational: structuring collaboration deliberately, creating shared tasks, clarifying expectations, surfacing hidden criteria, and facilitating dialogue when tensions emerge. 
 
-**3.4 Organizational and Social Dynamics Shape Direction**
+### 3.4. Organizational and Social Dynamics Shape Direction
 
 A fourth recurring pattern is that innovation trajectories are shaped early and decisively by the social and organizational environments in which they unfold. Hierarchies, routines, incentive structures, professional identities, funding logics, and informal power relations influence which questions are taken seriously, which concerns are ignored, and which forms of progress are rewarded. These dynamics often remain less visible than the technology itself, while strongly directing outcomes.
 
@@ -176,7 +175,7 @@ Across these cases, organizational and social dynamics shape innovation far earl
 
 The recurring interventions in such settings are both structural and interpersonal. They include redesigning coordination across boundaries, strengthening integrative leadership and project management capacity, creating shared ownership, surfacing cross-cutting issues early, and establishing dialogue between specialized expertise and broader system perspectives. They also involve distributing participation more deliberately and examining the hidden assumptions built into everyday routines and decision processes.
 
-**3.5 Reflection Is Structurally Absent **
+### 3.5. Reflection Is Structurally Absent 
 
 A fifth recurring pattern is that reflection is widely valued in principle but rarely protected in practice. Most innovation environments reward visible movement: execution, delivery, milestones, prototypes, reporting, and measurable progress. Time spent questioning assumptions, reconsidering direction, or pausing to examine whether the right problem is being solved is harder to justify. Reflection, therefore, becomes something postponed to the end of a project, delegated to formal review or lessons learned sessions, or omitted entirely.
 
@@ -194,7 +193,7 @@ These accounts show that the value of reflection is often clearest in retrospect
 
 Taken together, the five recurring patterns show that innovation outcomes are shaped by the environments in which people define problems, use tools, collaborate across differences, navigate organizational structures, and make space for reflection. The central question is therefore how to design better conditions for thinking, deciding, and creating together, so that technologies serve economic and societal expectations.
 
-**4\. Discussion **
+## 4. Discussion 
 
 The observations across different innovation contexts show that many limitations of engineering innovation emerge long before any final technology is built. Many difficulties that later appear as technical failure, weak adoption, public resistance, or limited societal relevance arise earlier: when problems are framed too narrowly, when relevant forms of knowledge are excluded, when disciplines compete for dominance instead of contributing complementary insight, or when organizational routines reward execution over understanding.
 
@@ -204,7 +203,7 @@ Three guiding principles form the foundation of the framework. First, interdisci
 
 This becomes especially consequential with the growing integration of artificial intelligence into organizational and institutional workflows. Suchman (2007) emphasizes that technological systems acquire their practical meaning and effects through situated use. Applied to AI, this suggests that outcomes are not determined by technical capability alone, but by the organizational environments in which systems are implemented and governed. As AI becomes part of the infrastructure, organizational routines, incentives, and governance arrangements increasingly shape whether it contributes to cooperation and learning or reproduces existing dysfunctions.
 
-**4.1 Facilitating and Negotiating Interdisciplinary Collaboration **
+### 4.1. Facilitating and Negotiating Interdisciplinary Collaboration 
 
 Interdisciplinary collaboration is widely associated with innovation because complex challenges rarely fit within a single field of expertise. Technical specialists, designers, scientists, managers, and other actors often recognize different aspects of the same situation, apply different standards of evidence, and define success in different ways. This diversity expands the range of available interpretations and enlarges the space of possible solutions.
 
@@ -226,7 +225,7 @@ Artificial intelligence has the potential to strengthen these conditions when us
 
 Taken together, these conditions suggest that effective interdisciplinary collaboration depends on environments that combine psychological safety, shared artefacts, openness with structure and mindset, orientation beyond internal assumptions, and continuous reflection with learning. Under these conditions, diversity becomes a productive resource rather than a source of fragmentation. Once collaboration is in place, the next question is whether the innovation addresses meaningful problems and remains relevant in technical, economic, and societal terms.
 
-**4.2 Aligning Innovation with Technical, Economic, and Societal Relevance**
+### 4.2. Aligning Innovation with Technical, Economic, and Societal Relevance
 
 Engineering innovation creates value when technical capability, economic viability, and societal responsibility are held together throughout development. Strong engineering performance remains essential, yet projects often lose relevance when optimization focuses on laboratory performance while everyday use conditions remain unexplored or when gains in one area create hidden costs elsewhere in the wider system.
 
@@ -252,7 +251,7 @@ Artificial intelligence has the potential to strengthen these five conditions wh
 
 Under these conditions, innovation remains connected to technical quality, economic viability, human needs, and long-term societal responsibility throughout development. The next question concerns the design of innovation environments: whether relevant knowledge informs decisions and whether people experience real agency in shaping outcomes.
 
-**4.3 Strengthening Participation and Agency**
+### 4.3. Strengthening Participation and Agency
 
 Innovation processes depend on knowledge distributed across organizations and society. Participation, therefore, gains meaning when contributions influence decisions and shape outcomes. Agency develops when people experience that their input changes direction and creates visible value. Such influence strengthens ownership, responsibility, and motivation. Where institutions fail to create these conditions, willingness to contribute declines and engagement contracts to formal requirements.
 
@@ -274,7 +273,7 @@ Artificial intelligence tools are most valuable when intentionally designed to s
 
 When these conditions are present, participation moves beyond symbolic involvement and has the potential to become a productive force in innovation. This, in turn, raises a further question: how such conditions are sustained over time, connected across levels, and embedded in everyday organizational and institutional practice through leadership and governance.
 
-**4.4 Leadership and Governance as Enabling Conditions **
+### 4.4. Leadership and Governance as Enabling Conditions 
 
 The three principles discussed above require structures that keep them active in everyday practice. Interdisciplinary collaboration, multidimensional relevance, participation, agency, and learning are easily weakened by time pressure, short-term targets, risk avoidance, and routine execution. Leadership and governance shape whether these qualities disappear under such conditions or remain part of how work is organized across teams, organizations, and institutions.
 
@@ -298,7 +297,7 @@ The observations in this article, therefore, point beyond the question of how ar
 
 This creates an additional responsibility on leadership and governance: designing productive relationships between technical systems and human development. Institutional choices influence whether automation narrows human roles to forms of supervision or strengthens conditions for learning, agency, and collective progress. Artificial intelligence becomes one possible instrument within this broader task when it is aligned with these aims. The central question, therefore, concerns how environments are designed so that technological progress, human capability, and societal responsibility develop together.
 
-**5\. Conclusion and Outlook**
+## 5. Conclusion and Outlook
 
 This article developed the argument that innovation depends on the quality of the environments in which people think, decide, and create together. Many limitations associated with engineering-driven innovation emerge before any final technology is built, when problems are framed too narrowly, when differences between disciplines remain untranslated, when organizational routines reward execution more than understanding, and when reflection lacks protection within everyday work.
 
