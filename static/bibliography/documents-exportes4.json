@@ -1,0 +1,80 @@
+[
+	{
+		"id": "http://zotero.org/groups/4044370/items/JQ8Y2NVX",
+		"type": "article-journal",
+		"abstract": "The magnitude and nature of the COVID-19 pandemic prevents public health policies from relying on coercive enforcement. Practicing social distancing, wearing masks and staying at home becomes voluntary and conditional on the behavior of others. We present the results of a large-scale survey experiment in nine countries with representative samples of the population. We find that both empirical expectations (what others do) and normative expectations (what others approve of) play a significant role in compliance, beyond the effect of any other individual or group characteristic. In our vignette experiment, respondents evaluate the likelihood of compliance with social distancing and staying at home of someone similar to them in a hypothetical scenario. When empirical and normative expectations of individuals are high, respondents’ evaluation of the vignette’s character’s compliance likelihood goes up by 55% (relative to the low expectations condition). Similar results are obtained when looking at self-reported compliance among those with high expectations. Our results are moderated by individuals’ trust in government and trust in science. Holding expectations high, the effect of trusting science is substantial and significant in our vignette experiment (22% increase in compliance likelihood), and even larger in self-reported compliance (76% and 127% increase before and after the lockdown). By contrast, trusting the government only generates modest effects. At the aggregate level, the country-level trust in science, and not in government, becomes a strong predictor of compliance.",
+		"container-title": "PLOS ONE",
+		"DOI": "10.1371/journal.pone.0252892",
+		"ISSN": "1932-6203",
+		"issue": "6",
+		"journalAbbreviation": "PLOS ONE",
+		"language": "en",
+		"note": "publisher: Public Library of Science",
+		"page": "e0252892",
+		"source": "PLoS Journals",
+		"title": "In science we (should) trust: Expectations and compliance across nine countries during the COVID-19 pandemic",
+		"title-short": "In science we (should) trust",
+		"URL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252892",
+		"volume": "16",
+		"author": [
+			{
+				"family": "Bicchieri",
+				"given": "Cristina"
+			},
+			{
+				"family": "Fatas",
+				"given": "Enrique"
+			},
+			{
+				"family": "Aldama",
+				"given": "Abraham"
+			},
+			{
+				"family": "Casas",
+				"given": "Andrés"
+			},
+			{
+				"family": "Deshpande",
+				"given": "Ishwari"
+			},
+			{
+				"family": "Lauro",
+				"given": "Mariagiulia"
+			},
+			{
+				"family": "Parilli",
+				"given": "Cristina"
+			},
+			{
+				"family": "Spohn",
+				"given": "Max"
+			},
+			{
+				"family": "Pereira",
+				"given": "Paula"
+			},
+			{
+				"family": "Wen",
+				"given": "Ruiling"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					6,
+					4
+				]
+			]
+		}
+	}
+]

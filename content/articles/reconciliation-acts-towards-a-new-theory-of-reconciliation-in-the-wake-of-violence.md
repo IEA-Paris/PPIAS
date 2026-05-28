@@ -1,40 +1,49 @@
 ---
-published: true
-article_title: Reconciliation Acts - Towards a new theory of reconciliation in
-  the wake of violence
-date: 2026-05-19T09:52:00.000-05:00
-type: article
-needDOI: true
+DOI: 10.5281/zenodo.20428645
+Zid: 20428645
+abstract: >-
+  This paper reconceptualises reconciliation in response to growing critiques
+  that portray reconciliation as vague, overly discursive, and politically
+  problematic. The paper introduces the concept of “reconciliation acts” (RAs),
+  shifting focus from discourse to embodied practice. RAs are defined as
+  embodied, performative, relational, and generative acts that create new social
+  realities. Applying this framework across everyday, mid, and institutional
+  settings, the paper demonstrates how reconciliation emerges through concrete
+  acts, offering a new lens for a systematic understanding of transformation
+  through agency in conflict-affected societies.
+article_title: >-
+  Reconciliation Acts - Towards a new theory of reconciliation in the wake of
+  violence
 authors:
-  - is_institution: false
-    firstname: "Johanna "
+  - firstname: 'Johanna '
+    is_institution: false
     lastname: Mannergren
     positions_and_institutions:
       - institution: Södertörn University, Sweden
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: This paper reconceptualises reconciliation in response to growing
-  critiques that portray reconciliation as vague, overly discursive, and
-  politically problematic. The paper introduces the concept of “reconciliation
-  acts” (RAs), shifting focus from discourse to embodied practice. RAs are
-  defined as embodied, performative, relational, and generative acts that create
-  new social realities. Applying this framework across everyday, mid, and
-  institutional settings, the paper demonstrates how reconciliation emerges
-  through concrete acts, offering a new lens for a systematic understanding of
-  transformation through agency in conflict-affected societies.
-issue: content/issues/paris-ias-ideas-2026.md
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: >-
+  /reconciliation-acts-towards-a-new-theory-of-reconciliation-in-the-wake-of-violence/references_mannergren.bib
+date: 2026-05-19T14:52:00.000Z
 highlight: false
-bibliography: /reconciliation-acts-towards-a-new-theory-of-reconciliation-in-the-wake-of-violence/references_mannergren.bib
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/289b82e1-8a79-4b3e-bbb1-f8bd4fa4955e
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## Acknowledgements
 
 This paper was written during a one-month residency at the Paris Institute for Advanced Study. I am very grateful to the staff and the other visiting fellows for creating such a generous and creative academic environment.

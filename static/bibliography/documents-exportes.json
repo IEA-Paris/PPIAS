@@ -1,0 +1,42 @@
+[
+	{
+		"id": "http://zotero.org/groups/4044370/items/4XP6T83F",
+		"type": "article-journal",
+		"abstract": "The purpose of this study is to examine how content about the global coronavirus (COVID-19) outbreak changed in the Japanese information environment through a comparison of the topics that were prevalent in traditional media and social media. The paper investigated how the topics of information regarding the novel coronavirus (COVID-19) in newspapers and Twitter differed, how the topics in relation to COVID-19 of newspapers and Twitter users changed before and after the WHO pandemic declaration, with the assumptions that topics that are relevant to the central government of Japan are more often found in newspapers, rather than Twitter and topics that are relevant to Japanese families and individuals are more often found in Twitter, rather than newspapers. A total of 10953 newspaper articles and 171,996 tweets before and after the pandemic declaration by the WHO. Instead of employing traditional content analysis methods, this paper analyzed media content through the topicmodels package for R, for classifying the various topics that were prominent before and after the pandemic declaration due to the size of the data accumulated. The analysis of this paper found that Twitter tweets focused more on topics that affect individual or household needs such as medical issues and financial well-being of individuals and families. In contrast newspapers focused more on international topics such as China, U.S. and Europe and topics that involved the government such as the suspension of primary and secondary schools, the economy and the Tokyo Olympic games. Before the pandemic declaration by the WHO, medical topics were found to be prevalent on Twitter whereas newspaper topics were focusing on the Diamond Princess cruise ship quarantine and the current situation in other countries. After the pandemic declaration, Twitter tweets were about medical topics, but were more focused on the lack of medical supplies and future concerns of hospitals being overwhelmed leading to a collapse of the medical system in Japan. Twitter tweets also centered around hopes of support by the government, such as temporary cash payments. Newspapers on the other hand centered around topics of cancelled sports events and government announcements. The findings of this paper suggest during pandemics, mass media may be insufficient in resolving the discontent towards lack of information and suspicion arises towards the government. Twitter might be used for searching information that is not found in mass media such as newspapers as doubt towards the government rises as illustrated in the findings of this analysis.",
+		"container-title": "Social Sciences and Humanities Open",
+		"DOI": "10.2139/ssrn.3599755",
+		"language": "en",
+		"note": "DOI: 10.2139/ssrn.3599755",
+		"source": "papers.ssrn.com",
+		"title": "Suspicion Begets Idle Fears– an Analysis of COVID-19 Related Topics in Japanese Media and Twitter",
+		"URL": "https://papers.ssrn.com/abstract=3599755",
+		"author": [
+			{
+				"family": "Omoya",
+				"given": "Yuka"
+			},
+			{
+				"family": "Kaigo",
+				"given": "Muneo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		}
+	}
+]
