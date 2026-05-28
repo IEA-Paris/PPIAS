@@ -1,27 +1,48 @@
 ---
-published: true
+DOI: 10.5281/zenodo.20424639
+Zid: 20424639
+abstract: >-
+  Drawing on qualitative fieldwork including approximately 700 local food
+  sustainability initiatives across 35 countries on all continents, this paper
+  examines the role of meso-structures in transitions towards more sustainable
+  food systems. We argue that the interaction spaces between micro-level
+  initiatives and meso-level entities (such as municipalities, cooperatives,
+  firms, banks, NGOs, and administrative bodies) constitutes the primary space
+  where transition mechanisms are activated, shaped, or blocked. Rather than
+  adopting a multi-level perspective with fixed hierarchical boundaries, we
+  employ a relational and systemic approach anchored in the transaction grid
+  method, which maps the reciprocal and asymmetrical exchanges between entities
+  across levels. Our analysis shows that meso-entities perform several critical
+  functions: organizing and connecting local actors, bridging formal and
+  informal economies, channeling value-driven competition among different
+  sustainability visions, and acting as gatekeepers to regulatory systems that
+  determine who can participate in food system transitions. We find that
+  innovation in the food system is distributed and gradual rather than radical,
+  and that the capacity of micro-initiatives to endure and evolve depends
+  substantially on the quality, timing, and terms of their engagement with
+  meso-structures. Transformation of the food system is an emergent and
+  inherently unpredictable process shaped by the cumulative effects of
+  meso-level selection, coordination, and organizational capacity-building at
+  scale.
 article_title: The function of meso-structures in food transition processes
-date: 2026-05-22T10:10:00.000-05:00
-type: article
-needDOI: true
 authors:
-  - is_institution: false
-    firstname: Helga
+  - firstname: Helga
+    is_institution: false
     lastname: Nowotny
     positions_and_institutions:
       - institution: Complexity Science Hub
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-  - is_institution: false
-    firstname: Saadi
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+  - firstname: Saadi
+    is_institution: false
     lastname: Lahlou
     positions_and_institutions:
       - institution: Paris Institute for Advanced Study
@@ -29,16 +50,16 @@ authors:
       - institution: London School of Economics
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-  - is_institution: false
-    firstname: Paulius
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+  - firstname: Paulius
+    is_institution: false
     lastname: Yamin
     positions_and_institutions:
       - institution: Paris Institute for Advanced Study
@@ -46,41 +67,28 @@ authors:
       - institution: Harvard Kennedy School of Government
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: "Drawing on qualitative fieldwork including approximately 700 local
-  food sustainability initiatives across 35 countries on all continents, this
-  paper examines the role of meso-structures in transitions towards more
-  sustainable food systems. We argue that the interaction spaces between
-  micro-level initiatives and meso-level entities (such as municipalities,
-  cooperatives, firms, banks, NGOs, and administrative bodies) constitutes the
-  primary space where transition mechanisms are activated, shaped, or blocked.
-  Rather than adopting a multi-level perspective with fixed hierarchical
-  boundaries, we employ a relational and systemic approach anchored in the
-  transaction grid method, which maps the reciprocal and asymmetrical exchanges
-  between entities across levels. Our analysis shows that meso-entities perform
-  several critical functions: organizing and connecting local actors, bridging
-  formal and informal economies, channeling value-driven competition among
-  different sustainability visions, and acting as gatekeepers to regulatory
-  systems that determine who can participate in food system transitions. We find
-  that innovation in the food system is distributed and gradual rather than
-  radical, and that the capacity of micro-initiatives to endure and evolve
-  depends substantially on the quality, timing, and terms of their engagement
-  with meso-structures. Transformation of the food system is an emergent and
-  inherently unpredictable process shaped by the cumulative effects of
-  meso-level selection, coordination, and organizational capacity-building at
-  scale."
-issue: content/issues/paris-ias-ideas-2026.md
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: >-
+  /the-function-of-meso-structures-in-food-transition-processes/references_-nowotny.bib
+date: 2026-05-22T15:10:00.000Z
 highlight: false
-bibliography: /the-function-of-meso-structures-in-food-transition-processes/references_-nowotny.bib
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/254ebbcd-771d-4f8c-b68c-194b862c6748
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## Introductory remarks
 
 This paper represents 'work in progress' as part of the collective effort of the Food Socioscope Project, funded by the NOMIS Foundation. Over the past two years, we have organized, with the help of partner organizations, an international team of interviewers to carry out qualitative fieldwork with some 700 local initiatives in 35 countries on all continents. One of the aims of the Socioscope Project is to build a new method for qualitative social science research at an unprecedented scale (Lahlou et al., 2024). It relies on AI-based data collection and analysis and includes the full documentation of every step in the process. We have now entered the second phase of the project, primarily devoted to the analysis, which is carried out on an experimental basis, probing the potential and the limitations of LLMs. The main research question addressed is how processes of transition towards greater sustainability happen. We have decided to tackle this overarching question by a deliberate focus on 'what happens on the ground', starting from the micro-level where local initiatives operate.

@@ -8,6 +8,7 @@ articles:
   - ai-and-the-illusion-of-control
   - netboards
   - socioscope
+  - the-function-of-meso-structures-in-food-transition-processes
 editorial_fellow: true
 exerpt: ''
 firstname: Helga
@@ -20,6 +21,7 @@ issue:
   - content/issues/paris-ias-ideas.md
   - content/issues/paris-ias-projects.md
   - content/issues/paris-ias-ideas-2024.md
+  - content/issues/paris-ias-ideas-2026.md
 language:
   - English
 lastname: Nowotny
@@ -50,5 +52,6 @@ years:
   - 2022
   - 2023
   - 2024
+  - 2026
 
 ---
