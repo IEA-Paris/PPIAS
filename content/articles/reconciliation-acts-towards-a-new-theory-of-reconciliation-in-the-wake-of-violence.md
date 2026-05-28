@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: Reconciliation Acts - Towards a new theory of reconciliation in
   the wake of violence
 date: 2026-05-19T09:52:00.000-05:00
