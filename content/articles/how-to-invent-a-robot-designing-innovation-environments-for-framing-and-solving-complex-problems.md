@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "How to Invent a Robot: Designing Innovation Environments for
   Framing and Solving Complex Problems"
 date: 2026-05-25T12:22:00.000-05:00
