@@ -1,32 +1,13 @@
 ---
-published: true
-article_title: "How to Invent a Robot: Designing Innovation Environments for
-  Framing and Solving Complex Problems"
-date: 2026-05-25T12:22:00.000-05:00
-type: article
-needDOI: true
-authors:
-  - is_institution: false
-    firstname: Lara
-    lastname: Lammer
-    positions_and_institutions:
-      - institution: TU Wien
-        positions: []
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: Many limitations of engineering-driven innovation emerge before any
-  final technology is built, often in the early conditions that shape how
-  problems are understood, decisions are made, and collaboration unfolds.
-  Drawing on a reflective, practice-based, and comparative methodology across
-  research, education, industry, startups, and public innovation contexts, this
-  article identifies recurring patterns in how innovation settings shape problem
+DOI: 10.5281/zenodo.20432256
+Zid: 20432256
+abstract: >-
+  Many limitations of engineering-driven innovation emerge before any final
+  technology is built, often in the early conditions that shape how problems are
+  understood, decisions are made, and collaboration unfolds. Drawing on a
+  reflective, practice-based, and comparative methodology across research,
+  education, industry, startups, and public innovation contexts, this article
+  identifies recurring patterns in how innovation settings shape problem
   framing, collaboration, and decision-making. It then introduces How to Invent
   a Robot as a practice framework grounded in these observations and in
   sustained professional experience leading interdisciplinary teams and
@@ -40,11 +21,39 @@ abstract: Many limitations of engineering-driven innovation emerge before any
   concludes that innovation outcomes are shaped by technological capability and
   by the quality of the conditions in which people think, decide, and create
   together.
-issue: content/issues/paris-ias-ideas-2026.md
+article_title: >-
+  How to Invent a Robot: Designing Innovation Environments for Framing and
+  Solving Complex Problems
+authors:
+  - firstname: Lara
+    is_institution: false
+    lastname: Lammer
+    positions_and_institutions:
+      - institution: TU Wien
+        positions: []
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: >-
+  /how-to-invent-a-robot-designing-innovation-environments-for-framing-and-solving-complex-problems/references_lammar.bib
+date: 2026-05-25T17:22:00.000Z
 highlight: false
-bibliography: /how-to-invent-a-robot-designing-innovation-environments-for-framing-and-solving-complex-problems/references_lammar.bib
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/7d8c2fa4-7a0d-46f7-86eb-d5b8655827af
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## 1. Introduction
 
 Contemporary debates on artificial intelligence and technological innovation are shaped by uncertainty. Public and professional discussions move between expectations of greater efficiency and concerns about loss of control, social disruption, and unintended consequences. At the same time, AI systems are becoming embedded in everyday work processes, influencing how information is generated, filtered, and acted upon. They increasingly shape perception, judgment, and decision-making within organizations and institutions.
