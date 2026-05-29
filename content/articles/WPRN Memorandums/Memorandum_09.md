@@ -62,6 +62,7 @@ tag:
   - personal development
   - ' outdoor recreation'
 yt: ''
+needDOI: false
 
 ---
 

@@ -27,7 +27,6 @@ authors:
       wikipedia: ''
 bibliography: /bibliography/documents-exportes_keynote7.bib
 date: 2021-12-10T10:30:19.000Z
-doi: '169059797'
 highlight: false
 issue: content/issues/WPRN21 Videos.md
 keywords:

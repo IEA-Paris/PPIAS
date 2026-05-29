@@ -23,7 +23,7 @@ authors:
       - institution: Paris Institute for Advanced Study
 bibliography: /bibliography/documents-exportes_memo1.bib
 date: 2020-04-30T22:00:00.000Z
-doi: '169059797'
+needDOI: false
 highlight: false
 issue: content/issues/WPRN Memorandums.md
 language: English

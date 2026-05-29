@@ -79,7 +79,6 @@ bibliography: /bibliography/documents-exportes_rn4.bib
 custom_pdf: ''
 date: 2022-04-12T22:00:34.000Z
 disciplines: ''
-doi: '169059797'
 highlight: false
 issue: content/issues/WPRN21 Papers.md
 keywords:
