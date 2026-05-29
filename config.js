@@ -18,6 +18,16 @@ export default {
   recaptcha: '6Lc_xuUUAAAAALwowUq0cC0wFtFnZ2NCi3UH4i1j',
   logo: 'icon.png',
   logo_alt: 'icon_dark.png',
+  publisher: 'Paris Institute for Advanced Study',
+  contributors: [
+    {
+      type: 'Organization',
+      name: 'Paris Institute for Advanced Study',
+      url: 'https://paris-iea.fr/en',
+      ror: 'https://ror.org/02rvv6x76',
+      role: 'Hosting institution',
+    },
+  ],
   location: {
     origin:
       'https://www.openstreetmap.org/export/embed.html?bbox=2.356580793857575%2C48.850586483414915%2C2.361644804477692%2C48.85278204589751&amp;layer=mapnik&amp;marker=48.851684276691216%2C2.359112799167633',

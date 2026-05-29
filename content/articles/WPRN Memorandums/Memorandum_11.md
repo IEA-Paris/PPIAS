@@ -19,7 +19,6 @@ authors:
     lastname: Galonnier
 bibliography: /bibliography/my-collection_memo11.bib
 date: 2021-01-31T23:00:00.000Z
-doi: '169059797'
 highlight: false
 issue: content/issues/WPRN Memorandums.md
 keywords:
@@ -50,6 +49,7 @@ tag:
   - 'Big Data, Artificial Intelligence '
   - 'Education '
 yt: ''
+needDOI: false
 
 ---
 

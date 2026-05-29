@@ -44,7 +44,6 @@ bibliography: ''
 custom_pdf: ''
 date: 2021-01-03T09:15:10.000Z
 disciplines: ''
-doi: '169059797'
 highlight: false
 issue: content/issues/WPRN Memorandums.md
 keywords:
@@ -68,6 +67,7 @@ picture: /covid19-food.jpeg
 picture_copyright: ''
 published: true
 yt: ''
+needDOI: false
 
 ---
 

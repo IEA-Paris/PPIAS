@@ -61,6 +61,7 @@ issue:
   - content/issues/cicourel.md
   - content/issues/paris-ias-ideas.md
   - content/issues/paris-ias-ideas-2026.md
+  - content/issues/paris-ias-ideas-2025.md
 language:
   - English
   - ''

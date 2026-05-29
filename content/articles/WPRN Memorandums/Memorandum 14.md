@@ -45,7 +45,6 @@ bibliography: /bibliography/documents-exportes_memo14.bib
 custom_pdf: ''
 date: 2021-12-31T23:00:31.000Z
 disciplines: ''
-doi: '169059797'
 highlight: false
 issue: content/issues/WPRN Memorandums.md
 keywords:
