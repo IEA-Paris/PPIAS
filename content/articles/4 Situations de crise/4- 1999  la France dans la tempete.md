@@ -64,7 +64,7 @@ yt: GujeicU68Pw
 
 Les deux tempêtes extrêmement puissantes qui ont touché sur plusieurs jours consécutifs la France fin décembre 1999, ont causé la mort d’une centaine de personnes et plusieurs milliards de dollars de dommages matériels. Ce sont 1,4 millions de foyers qui furent coupés d’électricité et de chauffage. Des mesures d’urgence inédites ont dû être adoptées : coordination des services publics, mobilisation de personnel retraités, organisation des populations sinistrées. Au-delà, l’expérience de cette crise a permis au réseau électrique français, en concertation avec les décideurs politiques, de mettre en place de bonnes pratiques et de gagner en réactivité, avec la création de brigades d’intervention rapide, mais aussi de nouveaux efforts de prévision ou l’enfouissement des lignes. Aujourd’hui, face à la recrudescence d’épisodes extrêmes que laisse craindre le dérèglement climatique, sommes-nous prêts à affronter des situations similaires ?
 
-<Youtube yt="GujeicU68Pw" caption ="1999 : la France dans la tempête.Gérer la crise et reconstruire"></Youtube>
+<Youtube yt="GujeicU68Pw" caption ="1999 : la France dans la tempête. Gérer la crise et reconstruire"></Youtube>
 
 ## Synthèse de la rencontre
 
