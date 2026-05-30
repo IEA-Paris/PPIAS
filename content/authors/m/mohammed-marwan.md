@@ -2,11 +2,13 @@
 active: true
 articles:
   - 3- 2005 La crise des banlieues
+  - 3-2005-la-crise-des-banlieues
 exerpt: ''
 firstname: Marwan
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise.md
+  - content/issues/agir-en-temps-de-crise.md
 language:
   - French
 lastname: Mohammed

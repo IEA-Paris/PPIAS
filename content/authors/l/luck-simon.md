@@ -10,6 +10,7 @@ is_institution: false
 issue:
   - content/issues/WPRN Memorandums.md
   - content/issues/identity-from-double-to-avatar.md
+  - content/issues/wprn-memorandums.md
 language:
   - English
 lastname: Luck

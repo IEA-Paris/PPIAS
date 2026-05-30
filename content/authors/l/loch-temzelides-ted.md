@@ -2,11 +2,13 @@
 active: true
 articles:
   - 3-0_WPRN21_Keynote 3
+  - 3-0-wprn21-keynote-3
 exerpt: ''
 firstname: Ted
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
+  - content/issues/wprn21-videos.md
 language:
   - English
 lastname: Loch-Temzelides

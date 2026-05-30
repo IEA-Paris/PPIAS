@@ -2,12 +2,14 @@
 active: true
 articles:
   - 3- Crise migratoire - Du global au local
+  - 3-crise-migratoire-du-global-au-local
 exerpt: ''
 firstname: Fabienne
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise - 2021.md
   - content/issues/Agir en temps de crise.md
+  - content/issues/agir-en-temps-de-crise.md
 language:
   - French
 lastname: Lassalle

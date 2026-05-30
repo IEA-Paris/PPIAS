@@ -2,11 +2,13 @@
 active: true
 articles:
   - 1- 2013-2016  Lutter contre Ebola
+  - 1-2013-2016-lutter-contre-ebola
 exerpt: ''
 firstname: Alice
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise.md
+  - content/issues/agir-en-temps-de-crise.md
 language:
   - French
 lastname: Desclaux

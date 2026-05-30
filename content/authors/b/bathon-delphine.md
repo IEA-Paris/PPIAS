@@ -2,11 +2,13 @@
 active: true
 articles:
   - 6- Crise environnementale
+  - 6-crise-environnementale
 exerpt: ''
 firstname: Delphine
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise.md
+  - content/issues/agir-en-temps-de-crise.md
 language:
   - French
 lastname: Bathon

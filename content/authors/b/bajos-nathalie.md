@@ -2,12 +2,14 @@
 active: true
 articles:
   - 1- Crise sanitaire - Covid19
+  - 1-crise-sanitaire-covid19
 exerpt: ''
 firstname: Nathalie
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise - 2021.md
   - content/issues/Agir en temps de crise.md
+  - content/issues/agir-en-temps-de-crise.md
 language:
   - French
 lastname: Bajos

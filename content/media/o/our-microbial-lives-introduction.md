@@ -3,8 +3,8 @@ article_slug: Our_Microbial_Lives
 caption: Introduction
 date: 2021-05-27T07:30:26.000Z
 highlight: false
-index: 28
-issue: content/issues/Our Microbial Lives.md
+index: 112
+issue: content/issues/our-microbial-lives.md
 language: English
 picture: /1-cell_to_cell.jpg
 type: youtube

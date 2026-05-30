@@ -2,12 +2,14 @@
 active: true
 articles:
   - 4- Histoire des pandemies
+  - 4-histoire-des-pandemies
 exerpt: ''
 firstname: Thierry
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise - 2021.md
   - content/issues/Agir en temps de crise.md
+  - content/issues/agir-en-temps-de-crise.md
 language:
   - French
 lastname: Wirth

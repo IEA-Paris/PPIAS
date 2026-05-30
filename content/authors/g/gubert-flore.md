@@ -2,11 +2,13 @@
 active: true
 articles:
   - 0-1_WPRN21_Welcome Conference
+  - 0-1-wprn21-welcome-conference
 exerpt: ''
 firstname: Flore
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
+  - content/issues/wprn21-videos.md
 language:
   - English
 lastname: Gubert

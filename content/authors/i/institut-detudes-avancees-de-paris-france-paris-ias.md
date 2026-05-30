@@ -20,6 +20,9 @@ articles:
   - 5_Netter
   - 8_Pereyra
   - 7_Ogien
+  - 0-0-1-programme-colloque-hceres
+  - intel-2022-01-intellectuals-against-liberal-democracy-program
+  - sleep-2019-01-sleep-and-memory-program
 exerpt: ''
 firstname: Paris IAS
 is_institution: true
@@ -35,6 +38,8 @@ issue:
   - content/issues/justice-climate-transitions.md
   - content/issues/sleep-and-memory.md
   - content/issues/virtual-realities.md
+  - content/issues/hceres-pfue-2022.md
+  - content/issues/wprn21-videos.md
 language:
   - French
   - English

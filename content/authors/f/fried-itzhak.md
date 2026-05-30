@@ -28,6 +28,7 @@ issue:
   - content/issues/brains-that-pull-the-triggers.md
   - content/issues/sleep-and-memory.md
   - content/issues/Intercontinental Academia 4.md
+  - content/issues/intercontinental-academia-4.md
 language:
   - English
 lastname: Fried

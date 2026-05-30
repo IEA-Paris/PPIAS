@@ -3,11 +3,14 @@ active: true
 articles:
   - 0-1_WPRN21_Welcome Conference
   - 9-0_WPRN21_Closing Panel
+  - 0-1-wprn21-welcome-conference
+  - 9-0-wprn21-closing-panel
 exerpt: ''
 firstname: Maxi
 issue:
   - content/issues/WPRN21 Videos.md
   - content/issues/WPRN21 Conference.md
+  - content/issues/wprn21-videos.md
 language:
   - English
 lastname: Heitmayer

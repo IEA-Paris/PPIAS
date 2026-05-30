@@ -2,11 +2,13 @@
 active: true
 articles:
   - 2- Crise economique - Inegalites
+  - 2-crise-economique-inegalites
 exerpt: ''
 firstname: Esther
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise.md
+  - content/issues/agir-en-temps-de-crise.md
 language:
   - French
 lastname: Duflo

@@ -8,6 +8,7 @@ firstname: Stéphanie
 is_institution: false
 issue:
   - content/issues/Agir en temps de crise.md
+  - content/issues/agir-en-temps-de-crise.md
 language:
   - French
 lastname: Vermeersch

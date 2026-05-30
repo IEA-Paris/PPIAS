@@ -26,6 +26,14 @@ articles:
   - 10_Lahlou
   - ai-and-science-in-eu-concept-note
   - the-function-of-meso-structures-in-food-transition-processes
+  - 4-1999-la-france-dans-la-tempete
+  - 1-crise-sanitaire-covid19
+  - 2-crise-economique-inegalites
+  - 4-histoire-des-pandemies
+  - 3-crise-migratoire-du-global-au-local
+  - 1-0-0-lahlou-intro-session-livres
+  - 0-1-wprn21-welcome-conference
+  - 9-0-wprn21-closing-panel
 categories:
   - content/categories/WPRN21.md
   - content/categories/Fellows.md
@@ -62,6 +70,12 @@ issue:
   - content/issues/paris-ias-ideas.md
   - content/issues/paris-ias-ideas-2026.md
   - content/issues/paris-ias-ideas-2025.md
+  - content/issues/agir-en-temps-de-crise.md
+  - content/issues/hceres-pfue-2022.md
+  - content/issues/intercontinental-academia-4.md
+  - content/issues/our-microbial-lives.md
+  - content/issues/wprn-memorandums.md
+  - content/issues/wprn21-videos.md
 language:
   - English
   - ''

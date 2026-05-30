@@ -3,6 +3,7 @@ active: true
 articles:
   - Biens communs_2_clé juridique
   - Biens communs_2_cle juridique
+  - biens-communs-2-cle-juridique
 exerpt: ''
 firstname: Armand
 is_institution: false

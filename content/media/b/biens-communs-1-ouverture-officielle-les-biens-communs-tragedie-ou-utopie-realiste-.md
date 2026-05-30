@@ -1,5 +1,5 @@
 ---
-article_slug: Biens communs_1_ouverture officielle
+article_slug: biens-communs-1-ouverture-officielle
 caption: Les Bien(s) commun(s), tragédie ou utopie réaliste ?
 date: 2023-03-15T17:00:52.000Z
 highlight: true

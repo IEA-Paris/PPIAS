@@ -2,10 +2,12 @@
 active: true
 articles:
   - Our Microbial Lives - cloture
+  - our-microbial-lives-cloture
 exerpt: ''
 firstname: Michel
 issue:
   - content/issues/Our Microbial Lives.md
+  - content/issues/our-microbial-lives.md
 language:
   - French
 lastname: Morange

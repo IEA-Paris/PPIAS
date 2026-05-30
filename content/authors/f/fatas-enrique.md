@@ -3,6 +3,7 @@ active: true
 articles:
   - 8-0_WPRN21_Keynote 8
   - a-behavioral-economics-approach-to-discrimination
+  - 8-0-wprn21-keynote-8
 exerpt: ''
 firstname: Enrique
 is_institution: false
@@ -11,6 +12,7 @@ issue:
   - content/issues/WPRN21 Conference.md
   - content/issues/paris-ias-ideas.md
   - content/issues/paris-ias-ideas-2026.md
+  - content/issues/wprn21-videos.md
 language:
   - English
 lastname: Fatas

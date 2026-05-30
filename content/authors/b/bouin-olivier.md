@@ -6,6 +6,7 @@ articles:
   - >-
     collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
   - netboards
+  - 9-0-wprn21-closing-panel
 editorial_committee: true
 editorial_fellow: true
 exerpt: ''
@@ -17,6 +18,9 @@ issue:
   - content/issues/WPRN21 Conference.md
   - content/issues/Intercontinental Academia 4.md
   - content/issues/paris-ias-projects.md
+  - content/issues/hceres-pfue-2022.md
+  - content/issues/intercontinental-academia-4.md
+  - content/issues/wprn21-videos.md
 language:
   - English
 lastname: Bouin

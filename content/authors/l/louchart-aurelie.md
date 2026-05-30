@@ -5,10 +5,14 @@ articles:
   - Memorandum 14
   - Memorandum 13
   - Memorandum_10
+  - memorandum-12
+  - memorandum-13
+  - memorandum-14
 exerpt: ''
 firstname: Aurélie
 issue:
   - content/issues/WPRN Memorandums.md
+  - content/issues/wprn-memorandums.md
 language:
   - English
 lastname: Louchart

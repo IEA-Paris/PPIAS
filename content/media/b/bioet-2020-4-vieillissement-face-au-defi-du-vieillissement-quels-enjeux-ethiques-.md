@@ -5,7 +5,7 @@ date: 2020-01-16T17:00:10.000Z
 highlight: false
 id: QQCMhrgliag
 index: 0
-issue: content/issues/Agir en temps de crise.md
+issue: content/issues/agir-en-temps-de-crise.md
 language: French
 picture: ''
 type: youtube

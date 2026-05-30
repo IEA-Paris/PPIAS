@@ -8,6 +8,7 @@ firstname: Oron
 is_institution: false
 issue:
   - content/issues/Intercontinental Academia 4.md
+  - content/issues/intercontinental-academia-4.md
 language:
   - English
 lastname: Shagrir

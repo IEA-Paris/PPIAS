@@ -5,6 +5,7 @@ articles:
   - netboards
   - socioscope
   - the-function-of-meso-structures-in-food-transition-processes
+  - 8-0-wprn21-keynote-8
 exerpt: ''
 firstname: Paulius
 is_institution: false
@@ -14,6 +15,7 @@ issue:
   - content/issues/Intercontinental Academia 4.md
   - content/issues/paris-ias-projects.md
   - content/issues/paris-ias-ideas-2026.md
+  - content/issues/wprn21-videos.md
 language:
   - English
 lastname: Yamin

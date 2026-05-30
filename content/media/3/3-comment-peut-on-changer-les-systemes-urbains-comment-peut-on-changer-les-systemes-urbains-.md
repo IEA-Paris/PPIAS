@@ -5,7 +5,7 @@ date: 2023-04-06T14:23:27.513Z
 highlight: false
 id: DiHdzfq_GQw
 index: 0
-issue: content/issues/Agir en temps de crise.md
+issue: content/issues/agir-en-temps-de-crise.md
 language: French
 type: youtube
 years: 2023

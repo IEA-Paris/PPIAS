@@ -3,6 +3,7 @@ active: true
 articles:
   - Bien communs_1_ouverture officielle
   - Biens communs_1_ouverture officielle
+  - biens-communs-1-ouverture-officielle
 exerpt: ''
 firstname: Olivier
 is_institution: false
