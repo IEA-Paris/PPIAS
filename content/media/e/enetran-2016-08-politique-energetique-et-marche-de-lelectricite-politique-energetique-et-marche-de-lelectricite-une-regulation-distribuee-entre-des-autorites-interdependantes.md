@@ -1,7 +1,7 @@
 ---
 article_slug: EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
 caption: >-
-  Politique énergétique et marché de l’électricité, une régulation distribuée
+  Politique énergétique et marché de l'électricité, une régulation distribuée
   entre des autorités interdépendantes
 date: 2016-05-23T06:00:00.000Z
 highlight: false

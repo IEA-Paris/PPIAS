@@ -92,6 +92,15 @@ conflicts:
       - Senior Economist
     prev: World Bank, Switzerland
   - id:
+      firstname: 'Marc  '
+      lastname: Vuillet
+    institution: EIVP, Lab'Urba, France
+    key: institution
+    next: EIVP, Lab'Urba, France
+    positions:
+      - ''
+    prev: EIVP, Lab’Urba, France
+  - id:
       firstname: Saadi
       lastname: Lahlou
     institution: >-
@@ -131,15 +140,6 @@ conflicts:
       - Professor
     prev: Paris Institute of advanced study
   - id:
-      firstname: Atrina
-      lastname: Oraee
-    institution: IAS PARIS
-    key: institution
-    next: IAS PARIS
-    positions:
-      - writer
-    prev: McGill University
-  - id:
       firstname: 'Saadi '
       lastname: Lahlou
     institution: IEA de Paris, France
@@ -149,6 +149,42 @@ conflicts:
       - ''
     prev: London School Of Economics, United Kingdom
   - id:
+      firstname: 'Pierre '
+      lastname: Pénet
+    institution: Université de Genève, Suisse / Institut d'études avancées de Paris, France
+    key: institution
+    next: Université de Genève, Suisse / Institut d'études avancées de Paris, France
+    positions:
+      - ''
+    prev: Université de Genève, Suisse / Institut d’études avancées de Paris, France
+  - id:
+      firstname: 'Pierre '
+      lastname: Pénet
+    institution: Université de Genève, Suisse / Institut d'études avancées de Paris, France
+    key: institution
+    next: Université de Genève, Suisse / Institut d'études avancées de Paris, France
+    positions:
+      - ''
+    prev: Université de Genève, Suisse / Institut d’études avancées de Paris, France
+  - id:
+      firstname: Alan
+      lastname: James
+    institution: King's College London
+    key: institution
+    next: King's College London
+    positions:
+      - Reader in International History in the Department of War Studies
+    prev: King’s College London
+  - id:
+      firstname: Atrina
+      lastname: Oraee
+    institution: IAS PARIS
+    key: institution
+    next: IAS PARIS
+    positions:
+      - writer
+    prev: McGill University
+  - id:
       firstname: Helga
       lastname: Nowotny
     institution: 'ERC Scientific Council '
@@ -156,6 +192,20 @@ conflicts:
     next: 'ERC Scientific Council '
     positions: []
     prev: ETH Zurich, Switzerland
+  - id:
+      firstname: Marc
+      lastname: Vanholsbeeck
+    institution: >-
+      Service général de l'enseignement supérieur et de la recherche
+      scientifique, Ministère de la Fédération Wallonie- Bruxelles , Belgique
+    key: institution
+    next: >-
+      Service général de l'enseignement supérieur et de la recherche
+      scientifique, Ministère de la Fédération Wallonie- Bruxelles , Belgique
+    positions: []
+    prev: >-
+      Service général de l’enseignement supérieur et de la recherche
+      scientifique, Ministère de la Fédération Wallonie- Bruxelles , Belgique
   - id:
       firstname: Emanuel
       lastname: Kulczycki
@@ -236,6 +286,33 @@ conflicts:
       - Director
     prev: London School Of Economics, United Kingdom
   - id:
+      firstname: Helga
+      lastname: Nowotny
+    institution: Complexity Science Hub
+    key: institution
+    next: Complexity Science Hub
+    positions:
+      - Chair of the Science Advisory Board & Strategic Advisory Board
+    prev: ETH Zurich, Switzerland
+  - id:
+      firstname: Paulius
+      lastname: Yamin
+    institution: Paris Institute For Advanced Study
+    key: institution
+    next: Paris Institute For Advanced Study
+    positions:
+      - Scientific Director
+    prev: University of Pennsylvania, USA
+  - id:
+      firstname: Saadi
+      lastname: Lahlou
+    institution: Paris Institute For Advanced Study
+    key: institution
+    next: Paris Institute For Advanced Study
+    positions:
+      - Director
+    prev: London School Of Economics, United Kingdom
+  - id:
       firstname: Olivier
       lastname: Bouin
     institution: Réseau Français des Instituts d'Études Avancées
@@ -288,33 +365,6 @@ conflicts:
       - ''
     prev: Paris Institute of advanced study
   - id:
-      firstname: Saadi
-      lastname: Lahlou
-    institution: Paris Institute For Advanced Study
-    key: institution
-    next: Paris Institute For Advanced Study
-    positions:
-      - Director
-    prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: Helga
-      lastname: Nowotny
-    institution: Complexity Science Hub
-    key: institution
-    next: Complexity Science Hub
-    positions:
-      - Chair of the Science Advisory Board & Strategic Advisory Board
-    prev: ETH Zurich, Switzerland
-  - id:
-      firstname: Paulius
-      lastname: Yamin
-    institution: Paris Institute For Advanced Study
-    key: institution
-    next: Paris Institute For Advanced Study
-    positions:
-      - Scientific Director
-    prev: University of Pennsylvania, USA
-  - id:
       firstname: 'Saadi '
       lastname: Lahlou
     institution: London School of Economics, United Kingdom
@@ -334,10 +384,19 @@ conflicts:
     prev: Paris Institute for Advanced Study
   - id:
       firstname: 'Sara '
-      lastname: 'Guindani '
-    institution: FMSH-Collège d’études mondiales, France
+      lastname: Guindani
+    institution: FMSH - Collège d'études mondiales, France
     key: institution
-    next: FMSH-Collège d’études mondiales, France
+    next: FMSH - Collège d'études mondiales, France
+    positions:
+      - ''
+    prev: FMSH - Collège d’études mondiales, France
+  - id:
+      firstname: 'Sara '
+      lastname: 'Guindani '
+    institution: FMSH-Collège d'études mondiales, France
+    key: institution
+    next: FMSH-Collège d'études mondiales, France
     positions: []
     prev: FMSH - Collège d’études mondiales, France
   - id:
@@ -418,9 +477,9 @@ conflicts:
   - id:
       firstname: 'Fabian '
       lastname: 'Schuppert '
-    institution: Queen’s University Belfast, Northern Ireland.
+    institution: Queen's University Belfast, Northern Ireland.
     key: institution
-    next: Queen’s University Belfast, Northern Ireland.
+    next: Queen's University Belfast, Northern Ireland.
     prev: Queen’s University Belfast, Northern Ireland
   - id:
       firstname: 'Gordon '
@@ -429,6 +488,13 @@ conflicts:
     key: institution
     next: Lancaster University, United Kingdom
     prev: University of Lancaster, United Kingdom
+  - id:
+      firstname: 'Fabian '
+      lastname: Schuppert
+    institution: 'Queen''s University Belfast, Northern Ireland '
+    key: institution
+    next: 'Queen''s University Belfast, Northern Ireland '
+    prev: Queen’s University Belfast, Northern Ireland
   - id:
       firstname: 'Larry '
       lastname: Reynolds
@@ -491,6 +557,14 @@ conflicts:
     positions: []
     prev: Université de São Paulo, Brésil
   - id:
+      firstname: 'Leslie-Anne '
+      lastname: Duvic-Paoli
+    institution: The Dickson Poon School of Law, King's College London
+    key: institution
+    next: The Dickson Poon School of Law, King's College London
+    positions: []
+    prev: The Dickson Poon School of Law, King’s College London
+  - id:
       firstname: Andrea
       lastname: Pinotti
     institution: Università degli Studi di Milano
@@ -499,14 +573,6 @@ conflicts:
     positions: []
     prev: Università Statale di Milano, Italy
   - id:
-      firstname: Jonathan
-      lastname: Glasser
-    institution: Department of Anthropology, William & Mary
-    key: institution
-    next: Department of Anthropology, William & Mary
-    positions: []
-    prev: Université William & Mary, US
-  - id:
       firstname: Angelo
       lastname: Torre
     institution: Paris Institute for Advanced Study
@@ -514,6 +580,14 @@ conflicts:
     next: Paris Institute for Advanced Study
     positions: []
     prev: Université du Piémont Oriental
+  - id:
+      firstname: Jonathan
+      lastname: Glasser
+    institution: Department of Anthropology, William & Mary
+    key: institution
+    next: Department of Anthropology, William & Mary
+    positions: []
+    prev: Université William & Mary, US
   - id:
       firstname: Jean
       lastname: Decety
@@ -578,15 +652,6 @@ conflicts:
     positions: []
     prev: Università Statale di Milano, Italy
   - id:
-      firstname: Itzhak
-      lastname: Fried
-    institution: UCLA, USA / University of Tel-Aviv, Israël
-    key: institution
-    next: UCLA, USA / University of Tel-Aviv, Israël
-    positions:
-      - ''
-    prev: UCLA, USA / Université de Tel-Aviv, Israël
-  - id:
       firstname: Gretty
       lastname: Mirdal
     institution: Paris Institute for Advanced Study, France
@@ -595,6 +660,15 @@ conflicts:
     positions:
       - ''
     prev: Paris Institute for Advanced Study
+  - id:
+      firstname: Itzhak
+      lastname: Fried
+    institution: UCLA, USA / University of Tel-Aviv, Israël
+    key: institution
+    next: UCLA, USA / University of Tel-Aviv, Israël
+    positions:
+      - ''
+    prev: UCLA, USA / Université de Tel-Aviv, Israël
   - id:
       firstname: Michael
       lastname: Zugaro
@@ -605,15 +679,6 @@ conflicts:
       - ''
     prev: CNRS - Collège de France
   - id:
-      firstname: Marie
-      lastname: Lacroix
-    institution: CNRS - ESPCI Paris Tech - Cog'X, France
-    key: institution
-    next: CNRS - ESPCI Paris Tech - Cog'X, France
-    positions:
-      - ''
-    prev: CNRS - ESPCI Paris Tech - Cog'X
-  - id:
       firstname: Itzhak
       lastname: Fried
     institution: UCLA, USA / University of Tel-Aviv, Israël
@@ -623,6 +688,15 @@ conflicts:
       - ''
     prev: UCLA, USA / Université de Tel-Aviv, Israël
   - id:
+      firstname: Marie
+      lastname: Lacroix
+    institution: CNRS - ESPCI Paris Tech - Cog'X, France
+    key: institution
+    next: CNRS - ESPCI Paris Tech - Cog'X, France
+    positions:
+      - ''
+    prev: CNRS - ESPCI Paris Tech - Cog'X
+  - id:
       firstname: Mark
       lastname: Blagrove
     institution: Swansea University, United Kingdom
@@ -631,6 +705,15 @@ conflicts:
     positions:
       - ''
     prev: Swansea University
+  - id:
+      firstname: Francesca
+      lastname: Siclari
+    institution: University of lausanne - CHUV, Switzerland
+    key: institution
+    next: University of lausanne - CHUV, Switzerland
+    positions:
+      - ''
+    prev: University of lausanne - CHUV
   - id:
       firstname: Mark
       lastname: Blagrove
@@ -649,15 +732,6 @@ conflicts:
     positions:
       - ''
     prev: Swansea University
-  - id:
-      firstname: Francesca
-      lastname: Siclari
-    institution: University of lausanne - CHUV, Switzerland
-    key: institution
-    next: University of lausanne - CHUV, Switzerland
-    positions:
-      - ''
-    prev: University of lausanne - CHUV
   - id:
       firstname: Antonio
       lastname: Perciaccante
@@ -802,6 +876,13 @@ conflicts:
     key: institution
     next: Université de Bordeaux, France
     prev: Université Bordeaux, France
+  - id:
+      firstname: 'Mathias '
+      lastname: Pessiglione
+    institution: Institut du Cerveau et de la Moelle épinière (ICM), France
+    key: institution
+    next: Institut du Cerveau et de la Moelle épinière (ICM), France
+    prev: "Institut du Cerveau\_et de la Moelle épinière (ICM), France"
   - google_scholar: >-
       https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
     id:
@@ -955,15 +1036,23 @@ conflicts:
     key: institution
     next: Max Planck Institute for Human cognitive and Brain Sciences, Germany
     prev: Max Planck Institute for Human cognitive and Brain Sciences
-createdAt: '2026-5-30 15:21:40'
+  - id:
+      firstname: Concetta
+      lastname: Papapicco
+    institution: University of Bari "Aldo Moro", Italy
+    key: institution
+    next: University of Bari "Aldo Moro", Italy
+    positions: []
+    prev: University of Bari “Aldo Moro”, Italy
+createdAt: '2026-5-30 15:52:57'
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
-    - "(cf. bibliographie\_de Goasdoué, 2012\_et Le Grignou, 2003)"
+    - (cf. bibliographie de Goasdoué, 2012 et Le Grignou, 2003)
     - (Bourdieu, 1980)
     - (Muntanyola Saura, 2014)
   2_Mondeme:
-    - (“convince others”, 2007
+    - ("convince others", 2007
   3-2-1_Engels:
     - (cf. Klein, 2008)
   3-2-2_Ochsner:
@@ -1063,7 +1152,15 @@ missingReferences:
     - (Kleinman, 2009)
     - (Meyer et al., 2013)
     - (Ivankova, 2014)
-    - "The study was submitted under the elite category of \"Best Results from a Learning Program'. Here, all proposals are evaluated by\_a panel of senior learning experts, analysts and executives. The evaluation is based on five criteria: fit-for-need, design, functionality, innovation, and overall measurable benefits.\_Each proposal also required an executive-level sponsor at the submitting organisation - this was provided by the Global Director of Strategy at Forum. The results were announced on August 23rd, 2019"
+    - >-
+      The study was submitted under the elite category of "Best Results from a
+      Learning Program'. Here, all proposals are evaluated by a panel of senior
+      learning experts, analysts and executives. The evaluation is based on five
+      criteria: fit-for-need, design, functionality, innovation, and overall
+      measurable benefits. Each proposal also required an executive-level
+      sponsor at the submitting organisation - this was provided by the Global
+      Director of Strategy at Forum. The results were announced on August 23rd,
+      2019
     - '@allan2015ab'
     - (e.g. post formal research, 2020
     - '@lse'
@@ -1123,11 +1220,11 @@ missingReferences:
     - '@sumaila2019aa'
     - '@greer2019aa'
   hamlets-commons-communes-and-charity-in-the-western-alps-biella-and-ossola-16th-19th-centuries:
-    - "Lascoumes & Zander,\_\_1987"
+    - Lascoumes & Zander,  1987
     - (Demélas & Vivier, 2003
     - (Hudson, Rosenbloom & Cole, 2019
-    - "Archivio di Stato di\_Turin, 1828)"
-    - "(Archivio di Stato di\_Turin, Map of Mosso, 1809)"
+    - Archivio di Stato di Turin, 1828)
+    - (Archivio di Stato di Turin, Map of Mosso, 1809)
     - (Puzenc & Charley D.L.M., 2020
     - Couturier & Vanuzem, 2020
     - Cursente , 1999
@@ -1143,7 +1240,15 @@ missingReferences:
       the parishes of Luzzogno first, in 1455, and Germagno later, in 1554, but
       later on became a movement whereby each settlement aspired to create an
       institutional religious centre: thus the parishes of Forno, 1547
-    - "But parochialism has a further significance, at least in the area under consideration here: the conquest of the parish constitutes the premise for the conquest of administrative autonomy. This premise was not always successful, but the trend is clear and unequivocal. Almost perfectly coincidental but out of phase in time is in fact the conquest of administrative autonomy by all the hamlets in the Strona valley: Germagno from the beginning of the 15^th^\_century and Luzzogno from 1453, all the remaining municipalities in the Strona valley from 1770, 1784"
+    - >-
+      But parochialism has a further significance, at least in the area under
+      consideration here: the conquest of the parish constitutes the premise for
+      the conquest of administrative autonomy. This premise was not always
+      successful, but the trend is clear and unequivocal. Almost perfectly
+      coincidental but out of phase in time is in fact the conquest of
+      administrative autonomy by all the hamlets in the Strona valley: Germagno
+      from the beginning of the 15^th^ century and Luzzogno from 1453, all the
+      remaining municipalities in the Strona valley from 1770, 1784
     - >-
       n the last twenty-five years the Seminar developed in annual "Field
       Courses" with historical geographers of Nottingham University.Schedario
@@ -1156,7 +1261,11 @@ missingReferences:
     - >-
       In a list in ACSVo, b. 3.6, "Nota delle comuni e terre componenti la
       giurisdizione di Vogogna", 1760
-    - "AST, Corte, Paesi di Nuovo Acquisto, Novarese, m. 6 d'addizione, Vogogna, n. 4: \"Relazione informativa sopra il ricorso umiliato a Sua Maestà dalla giurisdizione di Vogogna in cui chiama di non essere sottoposta all'Intendenza generale di Novara\_», 1746"
+    - >-
+      AST, Corte, Paesi di Nuovo Acquisto, Novarese, m. 6 d'addizione, Vogogna,
+      n. 4: "Relazione informativa sopra il ricorso umiliato a Sua Maestà dalla
+      giurisdizione di Vogogna in cui chiama di non essere sottoposta
+      all'Intendenza generale di Novara », 1746
     - >-
       AST, Sezioni Riunite, II Archiviazione, capo 13, vol. 24, Riparto tra le
       province di nuovo acquisto, 1773
@@ -1168,8 +1277,11 @@ missingReferences:
       Cravairola tra la metà del XIV e la metà del XVII secolo', Final report of
       the master's course in economic history, Prof. S. Lombardini, 2011
     - Archivio di Stato di Verbania, Notai di Crodo, notai Antonio Minetti, 1594
-    - "AST, Corte,\_Visita fatta dal podestà Ayala de termini dividenti i finaggi di Crodo Dominio di Milano da quelli di Campo Dominio Elvetico, e specialmente li dividenti l'Alpe Cravairola da quella di Matignale, 1642"
-    - "Istituto Geografico Centrale, Macugnaga, n.10,\_Turin, 1973"
+    - >-
+      AST, Corte, Visita fatta dal podestà Ayala de termini dividenti i finaggi
+      di Crodo Dominio di Milano da quelli di Campo Dominio Elvetico, e
+      specialmente li dividenti l'Alpe Cravairola da quella di Matignale, 1642
+    - Istituto Geografico Centrale, Macugnaga, n.10, Turin, 1973
     - AST, Corte, Paesi per A e B, lettera A, m. 21, n. 1, 1685
     - Archivio di Stato di Verbania, notaries Gerolamo De Magistris, 1674
     - (ASCP, m. 15, July 10, 1721)
@@ -1202,12 +1314,16 @@ missingReferences:
     - (prospective memory, Lecouvey et al., 2017)
   human-quest-for-rapture-and-ecstasy:
     - UNDP, 2006)
-    - "(see below the successive images of hand-mouth coordination by a freshly born infant whose umbilical cord was just clipped,\_Rochat\_et al., 1988)"
-    - "or scaring the child with \"I am going to get you...\" often ending with a tickling, (see\_Rochat,\_Querido\_&\_Striano, 1999)"
+    - >-
+      (see below the successive images of hand-mouth coordination by a freshly
+      born infant whose umbilical cord was just clipped, Rochat et al., 1988)
+    - >-
+      or scaring the child with "I am going to get you..." often ending with a
+      tickling, (see Rochat, Querido & Striano, 1999)
   inalienability-as-reciprocity-an-essay-on-kinship:
     - >-
-      For a related point about primordial debt theory as “the ultimate
-      nationalist myth,” see Graeber, 2011
+      For a related point about primordial debt theory as "the ultimate
+      nationalist myth," see Graeber, 2011
     - For a reading that combines aggression and sacrifice, see Anspach, 2017
     - >-
       For a clarification of the textual chain from Ranapiri to his later
@@ -1242,10 +1358,10 @@ missingReferences:
   odious-debt-in-the-21st-century-from-despotic-regimes-to-predatory-creditors:
     - (Porzecanksi, 2010
     - >-
-      Jean-Luc Mélenchon, “Dimanche, ma gauche peut gagner en Grèce”, January
+      Jean-Luc Mélenchon, "Dimanche, ma gauche peut gagner en Grèce", January
       20, 2015
     - >-
-      “Paris et Washington s’affrontent sur l’annulation de la dette,” Le Monde,
+      "Paris et Washington s'affrontent sur l'annulation de la dette," Le Monde,
       September 9, 2004
   on-travelling-concepts:
     - Climenhaga, 2017)
@@ -1393,13 +1509,13 @@ missingReferences:
     - (Waldinger & Schultz, 2023)
     - (Park & Kim, 2014)
     - (National Center for Educational Statistics, 2019)
-    - (Park & ​​Kim, 2014
+    - (Park & Kim, 2014
     - (Lahlou, 2017)
   voluntarism-and-the-self-in-medieval-literature:
     - '@aquinas1950a-53'
     - (Scotus, 1967
     - '@duns1950a-2013'
-    - "(see\_Correale & Hamel, 2002)"
+    - (see Correale & Hamel, 2002)
   what-is-autism-now:
     - World Health Organisation, 2019)
     - Skuse et al., 2004)
