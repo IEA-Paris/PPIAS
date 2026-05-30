@@ -1,42 +1,49 @@
 ---
-abstract: >-
-    What interests me in this brief intervention is to locate the various bridges that Aaron Cicourel was able to set up between different worlds, different disciplines, different actors in the social sciences and beyond.  I'll focus on the connections I've personally benefited from: Aaron Cicourel was one of my main informants on Erving Goffman, whom he knew very well; personally close to Pierre Bourdieu, he enabled me to strengthen a collaboration with the latter as part of the preparation of the book Le raisonnement médical. Une approche socio-cognitive (Le Seuil, 2002).
-article_title: "Aaron Cicourel le ponteur, avec une focale sur Erving Goffman et Pierre Bourdieu "
+published: true
+article_title: Aaron Cicourel le ponteur, avec une focale sur Erving Goffman et
+  Pierre Bourdieu 
+date: 2024-10-10T00:00:00.000Z
+needDOI: true
 authors:
   - firstname: Yves
     is_institution: false
     lastname: Winkin
-    picture: ''
-    picture_copyright: ''
+    picture: ""
+    picture_copyright: ""
     positions_and_institutions:
       - institution: Université de Liège
         positions: []
     social_channels:
-      google_scholar: ''
-      instagram: ''
-      linkedin: ''
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      twitter: ''
-      website: ''
-      wikipedia: ''
-bibliography: /winkin.bib
-custom_pdf: ''
-date: 2024-10-10T00:00:00.000Z
+      google_scholar: ""
+      researchgate: ""
+      mendeley: ""
+      instagram: ""
+      twitter: ""
+      wikipedia: ""
+      website: ""
+      orcid: ""
+      linkedin: ""
+custom_pdf: ""
+abstract: "What interests me in this brief intervention is to locate the various
+  bridges that Aaron Cicourel was able to set up between different worlds,
+  different disciplines, different actors in the social sciences and
+  beyond.  I'll focus on the connections I've personally benefited from: Aaron
+  Cicourel was one of my main informants on Erving Goffman, whom he knew very
+  well; personally close to Pierre Bourdieu, he enabled me to strengthen a
+  collaboration with the latter as part of the preparation of the book Le
+  raisonnement médical. Une approche socio-cognitive (Le Seuil, 2002)."
 highlight: false
+bibliography: /winkin.bib
+Zid: 13938351
 issue: content/issues/cicourel.md
 language: French
-needDOI: true
-published: true
 subissue: false
-yt: false
-DOI: 10.5281/zenodo.13938351
-Zid: 13938351
 links:
   bucket: https://zenodo.org/api/files/197c47bb-f3cb-4abf-8d6e-ea4eac68d824
+type: article
+yt: false
+DOI: 10.5281/zenodo.13938351
 ---
-
 ## Membre de la Commission de distribution des cadavres
 
 Dans son CV du début des années 90, Aaron Cicourel se présentait comme « professeur de science cognitive, de pédiatrie et de sociologie ». Dans cet ordre-là. La sociologie en troisième position. D'ailleurs, son adresse institutionnelle était « Département de science cognitive, Université de Californie, San Diego ». Après sa retraite, en 1998 ( ?), il restera membre du « Distribution of Cadavers Committee » de la Faculté de médecine ; il y tenait beaucoup[^1].
@@ -46,6 +53,8 @@ Dans cette triple affiliation et son rôle post-retraite, on voit se dessiner de
 Le plaisir du pontage chez Cicourel, ce n'était pas seulement entre les disciplines, c'est aussi entre divers univers linguistiques et culturels, entre diverses universités, équipes et personnes.
 
 Pontage entre les disciplines : Cicourel obtient tout d'abord un *Bachelor of Arts* en Psychologie en 1951 à UCLA, puis un *Master of Arts* en anthropologie et sociologie, toujours à UCLA, puis un doctorat en sociologie/anthropologie à Cornell en 1957 avec William Foote Whyte. Il fait beaucoup de mathématiques, mais suit aussi des cours de philosophie avec John Rawls et des cours de linguistique avec Charles Hockett. Il a même l'occasion en 1955 de suivre les cours qu'Alfred Schütz donnait à son domicile à New York. Il retourne à UCLA pour un post-doc en psychiatrie en 1957. Il devient ainsi l'assistant de recherche de Harold Garfinkel. Ils en viennent à écrire un livre ensemble (qui ne sera jamais publié).
+
+[^2]
 
 Une formation aussi multidisciplinaire n'était pas rare à cette époque. Ainsi, au département de « Social Relations » de Harvard, les étudiants de troisième cycle recevaient des cours de sociologie, d'anthropologie et de psychiatrie, au nom d'une unité fondamentale des sciences sociales. Il en était de même à l'Université de Chicago : Goffman a suivi des cours de sociologie, de psychologie sociale, d'anthropologie et de psychiatrie clinique ; il savait administrer et interpréter un TAT, un Rorschach et autres tests projectifs. Le TAT était à la base de son mémoire de master et il a fait passer des tests à ses informatrices sur l'ile de Unst dans le cadre de son terrain doctoral. Mais le plus souvent, les étudiants se spécialisaient dans l'une ou l'autre de leurs disciplines de formation à la sortie des études. Pas Cicourel, qui va les exploiter toutes dans divers livres : les mathématiques dans *Methods and Measurement in Sociology* (1964), la linguistique et la philosophie dans *Cognitive Sociology* (1974), la démographie dans *Theory and Method in a Study of Argentine Fertility* (1974). Il va même poursuivre sa formation tout au long de sa vie, puisqu'on va le retrouver plus tard dans des revues et des associations professionnelles de sémiotique et de pragmatique, et bien sûr de science cognitive, poussant parfois loin la spécialisation : il sera ainsi « associate editor » d'une revue comme *l'American Journal of Mental Deficiency* et publiera dans *Sign Language Studies* (en 1974).
 
@@ -63,9 +72,9 @@ Pierre Bourdieu m'avait encouragé à rencontrer Erving Goffman de sa part en 19
 
 Cicourel avait rencontré Goffman en décembre 1957 au domicile de Garfinkel ; ils ne vont plus cesser de se croiser dans différents lieux aux États-Unis et à l'étranger. C'est ainsi que Cicourel rendra même visite à Goffman à Las Vegas dans les années 60 ou qu'ils participeront ensemble au séminaire organisé en juin 1975 à Constance par Thomas Luckmann et Richard Grathoff. Cicourel avait ainsi développé une connaissance fine du modus operandi de Goffman, loin des clichés souvent véhiculé sur celui-ci. Ainsi dans l'entretien que nous avons eu le 18 avril 1985, il m'a dit deux choses que je n'avais jamais entendues chez d'autres informateurs :
 
-« C'était un professionnel des conférences très théâtrales, très préparées \[...\] Il donnait toujours un puissant spectacle (*big performance*), même pour ses étudiants de deuxième cycle à Berkeley. Je suis allé à tant de colloques avec lui. Toujours un puissant spectacle. Et il était très soigneux pour sa préparation, très soigneux ».
+« C'était un professionnel des conférences très théâtrales, très préparées \[...] Il donnait toujours un puissant spectacle (*big performance*), même pour ses étudiants de deuxième cycle à Berkeley. Je suis allé à tant de colloques avec lui. Toujours un puissant spectacle. Et il était très soigneux pour sa préparation, très soigneux ».
 
-« Il pouvait parler à des gens qui n'étaient pas dans le monde académique­ --- ou même à des académiques qui n'étaient pas trop intellectuels. Il utilisait beaucoup d'argot américain. Il était très bon pour cela \[silence\]. Il y a un immense public académique qui n'est pas très actif intellectuellement. Cela comprend aussi bien des étudiants que des enseignants. Je ne sais pas s'il s'est adressé aux publics académiques. Mais au sein du monde universitaire \[...\], si vous voulez gagnez un prix, vous devez populariser. Sinon, c'est très difficile, très difficile. Garfinkel aurait voulu y aller, mais il ne savait pas comment faire ».
+« Il pouvait parler à des gens qui n'étaient pas dans le monde académique­ --- ou même à des académiques qui n'étaient pas trop intellectuels. Il utilisait beaucoup d'argot américain. Il était très bon pour cela \[silence]. Il y a un immense public académique qui n'est pas très actif intellectuellement. Cela comprend aussi bien des étudiants que des enseignants. Je ne sais pas s'il s'est adressé aux publics académiques. Mais au sein du monde universitaire \[...], si vous voulez gagnez un prix, vous devez populariser. Sinon, c'est très difficile, très difficile. Garfinkel aurait voulu y aller, mais il ne savait pas comment faire ».
 
 Ces deux éléments me seront extrêmement utiles bien des années plus tard lorsque je tenterai d'analyser la démarche de Goffman comme celle d'un performeur dans *D'Erving à Goffman : une œuvre performée ?* Au moment où j'ai enregistré les propos de Cicourel en 1985, je n'en ai pas à vrai dire saisi toute la portée. Je me suis juste étonné qu'il me fasse autant confiance. Après tout, je n'étais qu' un « gamin » de 32 ans et il était un « cador » de 57 ans. C'est là sans doute où se situe cette capacité relationnelle de Cicourel : il acceptait de s'engager dans un entretien sans se retourner constamment, sans constamment demander à son interlocuteur de ne pas enregistrer ou de garder ceci, cela pour lui, « off record ». Cette confiance a priori, je l'ai retrouvée dans le second projet, qui était au départ une sorte de « portable Cicourel ».
 
@@ -84,3 +93,4 @@ Plus sérieusement, j'avais voulu engager Bourdieu dans une contestation de l'ap
 L'ouvrage, finalement titré « Le raisonnement médical : une approche socio-cognitive », n'aura guère, il faut le reconnaître, de succès, malgré le nom de Bourdieu sur la couverture. Cicourel ne m'en tiendra certainement pas rigueur. En fait, il était déjà reparti sur d'autres projets, notamment l'analyse des relations de service chez EDF. Nous nous reverrons une fois encore à Liège lors d'une réunion du réseau ESSE (Espace des Sciences Sociales Européennes) en 2005. L'image ultime qu'il me laissera est celle d'un coureur le long de la Meuse. Il avait 77 ans.
 
 [^1]: Entretien avec Aaron Cicourel, 20 août 2000.
+[^2]: test footnote
