@@ -1,16 +1,14 @@
 ---
 active: true
 articles:
-  - Memorandum_01 - AVA_2018_02_welcoming-speech-and-introductory-remarks
   - Memorandum_01
   - AVA_2018_02_welcoming-speech-and-introductory-remarks
 exerpt: ''
 firstname: Simon
 is_institution: false
 issue:
-  - content/issues/WPRN Memorandums.md
-  - content/issues/identity-from-double-to-avatar.md
   - content/issues/wprn-memorandums.md
+  - content/issues/identity-from-double-to-avatar.md
 language:
   - English
 lastname: Luck

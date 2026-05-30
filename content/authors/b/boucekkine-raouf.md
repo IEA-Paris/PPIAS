@@ -1,7 +1,6 @@
 ---
 active: true
 articles:
-  - 1-0_WPRN21_Keynote 1
   - >-
     collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
   - 1-0-wprn21-keynote-1
@@ -9,9 +8,6 @@ exerpt: ''
 firstname: Raouf
 is_institution: false
 issue:
-  - content/issues/WPRN21 Videos.md
-  - content/issues/WPRN21 Conference.md
-  - content/issues/Intercontinental Academia 4.md
   - content/issues/intercontinental-academia-4.md
   - content/issues/wprn21-videos.md
 language:

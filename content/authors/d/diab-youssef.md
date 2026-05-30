@@ -1,7 +1,6 @@
 ---
 active: true
 articles:
-  - null - RES_2020_02_Opening - RES_2020_12_conclusion-et-cloture
   - RES_2020_02_Opening
   - RES_2020_12_conclusion-et-cloture
 exerpt: ''

@@ -2,7 +2,6 @@
 active: true
 articles:
   - 2-1-0_intro_Bouin
-  - 9-0_WPRN21_Closing Panel
   - >-
     collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
   - netboards
@@ -13,13 +12,9 @@ exerpt: ''
 firstname: Olivier
 is_institution: false
 issue:
-  - content/issues/HCERES - PFUE 2022.md
-  - content/issues/WPRN21 Videos.md
-  - content/issues/WPRN21 Conference.md
-  - content/issues/Intercontinental Academia 4.md
-  - content/issues/paris-ias-projects.md
   - content/issues/hceres-pfue-2022.md
   - content/issues/intercontinental-academia-4.md
+  - content/issues/paris-ias-projects.md
   - content/issues/wprn21-videos.md
 language:
   - English

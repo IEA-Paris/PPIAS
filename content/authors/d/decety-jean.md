@@ -9,7 +9,6 @@ firstname: Jean
 is_institution: false
 issue:
   - content/issues/guest_lectures.md
-  - content/issues/paris-ias-ideas.md
   - content/issues/paris-ias-ideas-2024.md
 language:
   - French

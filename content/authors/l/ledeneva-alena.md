@@ -6,7 +6,6 @@ exerpt: ''
 firstname: Alena
 is_institution: false
 issue:
-  - content/issues/paris-ias-ideas.md
   - content/issues/paris-ias-ideas-2024.md
 language:
   - English

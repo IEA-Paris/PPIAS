@@ -1,9 +1,6 @@
 ---
 active: true
 articles:
-  - >-
-    justice-and-climate-transitions_5_table-ronde -
-    justice-and-climate-transitions_7_risk-avoidance
   - justice-and-climate-transitions_7_risk-avoidance
   - justice-and-climate-transitions_5_table-ronde
 exerpt: ''

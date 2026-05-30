@@ -6,11 +6,8 @@ articles:
   - MOSCO_2016_01_tribute-to-serge-moscovici-program
   - RES_2020_01_program
   - AVA_2018_01_program
-  - INTEL_2022_01_Intellectuals against liberal democracy - Program
   - justice-and-climate-transitions_1_program
-  - SLEEP_2019_01_Sleep and memory - Program
   - VIRT_2022_1_virtual-realities-real-experience-program
-  - 0-0-1_ Programme colloque Hceres
   - 0-0_WPRN21_Program
   - 2_Mondeme
   - 3_Saura_1
@@ -28,18 +25,17 @@ firstname: Paris IAS
 is_institution: true
 issue:
   - content/issues/paysages-alimentaires.md
-  - content/issues/HCERES - PFUE 2022.md
-  - content/issues/WPRN21 Videos.md
-  - content/issues/assessing-resilience.md
   - content/issues/crises-et-prophetes.md
-  - content/issues/identity-from-double-to-avatar.md
   - content/issues/hommage-serge-moscovici.md
-  - content/issues/intellectuals-against-democracy.md
+  - content/issues/assessing-resilience.md
+  - content/issues/identity-from-double-to-avatar.md
   - content/issues/justice-climate-transitions.md
-  - content/issues/sleep-and-memory.md
   - content/issues/virtual-realities.md
-  - content/issues/hceres-pfue-2022.md
   - content/issues/wprn21-videos.md
+  - content/issues/cicourel.md
+  - content/issues/hceres-pfue-2022.md
+  - content/issues/intellectuals-against-democracy.md
+  - content/issues/sleep-and-memory.md
 language:
   - French
   - English

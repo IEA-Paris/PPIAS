@@ -1,12 +1,10 @@
 ---
 active: true
 articles:
-  - Our Microbial Lives - table-ronde 3
   - our-microbial-lives-table-ronde-3
 exerpt: ''
 firstname: Thierry
 issue:
-  - content/issues/Our Microbial Lives.md
   - content/issues/our-microbial-lives.md
 language:
   - French

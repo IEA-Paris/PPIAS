@@ -1,9 +1,6 @@
 ---
 active: true
 articles:
-  - >-
-    SLEEP_2019_08_dream-appreciation-and-revisiting-dreams-by-artwork - >-
-    SLEEP_2019_07_the-relation-of-dreaming-to-memory-consolidation-during-sleep
   - SLEEP_2019_07_the-relation-of-dreaming-to-memory-consolidation-during-sleep
   - SLEEP_2019_08_dream-appreciation-and-revisiting-dreams-by-artwork
 exerpt: ''

@@ -6,7 +6,6 @@ articles:
 exerpt: ''
 firstname: Antoine
 issue:
-  - content/issues/Intercontinental Academia 4.md
   - content/issues/paris-ias-projects.md
 language:
   - English

@@ -3,29 +3,17 @@ active: true
 articles:
   - Our_Microbial_Lives
   - Memorandum_01
-  - 0.1_WPRN21_Welcome Conference
-  - 9.0_WPRN21_Closing Panel
   - RES_2020_02_Opening
   - RES_2020_12_conclusion-et-cloture
   - PROP_2020_02_introduction
   - MOSCO_2016_02_welcome
   - MOSCO_2016_23_future-issues-the-analysis-of-behaviour
-  - 4- 1999  la France dans la tempete
-  - 1- Crise sanitaire - Covid19
-  - 2- Crise economique - Inegalites
-  - 3- Crise migratoire - Du global au local
-  - 4- Histoire des pandemies
-  - 1-0-0 Lahlou Intro session Livres
-  - 0-1_WPRN21_Welcome Conference
-  - 9-0_WPRN21_Closing Panel
   - >-
     collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
   - netboards
   - socioscope
-  - 10_lahlou
   - 10_Lahlou
   - ai-and-science-in-eu-concept-note
-  - the-function-of-meso-structures-in-food-transition-processes
   - 4-1999-la-france-dans-la-tempete
   - 1-crise-sanitaire-covid19
   - 2-crise-economique-inegalites
@@ -51,30 +39,17 @@ exerpt: ''
 firstname: Saadi
 is_institution: false
 issue:
-  - content/issues/10-12-2021.md
-  - content/issues/WPRN21.md
-  - content/issues/OML.md
-  - content/issues/HCERES - PFUE 2022.md
-  - content/issues/WPRN21 Conference.md
-  - content/issues/Our Microbial Lives.md
-  - content/issues/WPRN Memorandums.md
-  - content/issues/Agir en temps de crise - 2021.md
-  - content/issues/Agir en temps de crise.md
-  - content/issues/WPRN21 Videos.md
+  - content/issues/our-microbial-lives.md
+  - content/issues/wprn-memorandums.md
   - content/issues/assessing-resilience.md
   - content/issues/crises-et-prophetes.md
   - content/issues/hommage-serge-moscovici.md
-  - content/issues/Intercontinental Academia 4.md
+  - content/issues/intercontinental-academia-4.md
   - content/issues/paris-ias-projects.md
   - content/issues/cicourel.md
-  - content/issues/paris-ias-ideas.md
-  - content/issues/paris-ias-ideas-2026.md
   - content/issues/paris-ias-ideas-2025.md
   - content/issues/agir-en-temps-de-crise.md
   - content/issues/hceres-pfue-2022.md
-  - content/issues/intercontinental-academia-4.md
-  - content/issues/our-microbial-lives.md
-  - content/issues/wprn-memorandums.md
   - content/issues/wprn21-videos.md
 language:
   - English

@@ -5,7 +5,6 @@ articles:
 exerpt: ''
 firstname: Eliot
 issue:
-  - content/issues/Intercontinental Academia 4.md
   - content/issues/paris-ias-projects.md
 language:
   - English

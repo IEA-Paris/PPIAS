@@ -1,9 +1,6 @@
 ---
 active: true
 articles:
-  - >-
-    SynE3_2017_12_brains-on-drugs -
-    SynE3_2017_16_roundtable-1-past-and-present-perpetrators
   - SynE3_2017_12_brains-on-drugs
   - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
 exerpt: ''

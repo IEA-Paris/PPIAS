@@ -1,13 +1,11 @@
 ---
 active: true
 articles:
-  - 2_2008-2020 Qu a-t-on appris des crises economiques et financieres
   - 2-2008-2020-qu-a-t-on-appris-des-crises-economiques-et-financieres
 exerpt: ''
 firstname: Éric
 is_institution: false
 issue:
-  - content/issues/Agir en temps de crise.md
   - content/issues/agir-en-temps-de-crise.md
 language:
   - French

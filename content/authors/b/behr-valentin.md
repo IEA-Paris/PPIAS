@@ -1,9 +1,6 @@
 ---
 active: true
 articles:
-  - >-
-    INTEL_2022_09_uniting-the-right-through-ideas -
-    INTEL_2022_11_une-droitisation-des-espaces-politiques_table-ronde
   - INTEL_2022_11_une-droitisation-des-espaces-politiques_table-ronde
   - INTEL_2022_09_uniting-the-right-through-ideas
 exerpt: ''

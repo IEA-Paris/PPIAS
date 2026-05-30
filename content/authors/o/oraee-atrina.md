@@ -5,7 +5,6 @@ articles:
 exerpt: ''
 firstname: Atrina
 issue:
-  - content/issues/Intercontinental Academia 4.md
   - content/issues/intercontinental-academia-4.md
 language:
   - English

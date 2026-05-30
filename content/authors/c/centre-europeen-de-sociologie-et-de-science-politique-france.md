@@ -1,7 +1,6 @@
 ---
 active: true
 articles:
-  - INTEL_2022_01_Intellectuals against liberal democracy - Program
   - intel-2022-01-intellectuals-against-liberal-democracy-program
 exerpt: ''
 firstname: ''

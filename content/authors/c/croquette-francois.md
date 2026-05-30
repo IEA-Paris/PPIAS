@@ -1,13 +1,11 @@
 ---
 active: true
 articles:
-  - 3_comment-peut-on-changer-les-systèmes-urbains
   - 3_comment-peut-on-changer-les-systemes-urbains
 exerpt: ''
 firstname: François
 is_institution: false
 issue:
-  - content/issues/Agir en temps de crise.md
   - content/issues/agir-en-temps-de-crise.md
 language:
   - French

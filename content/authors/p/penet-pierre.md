@@ -1,7 +1,6 @@
 ---
 active: true
 articles:
-  - PROP_2020_02_introduction - PROP_2020_06_discussion
   - PROP_2020_02_introduction
   - PROP_2020_06_discussion
   - odious-debt-in-the-21st-century-from-despotic-regimes-to-predatory-creditors
@@ -10,7 +9,6 @@ firstname: Pierre
 is_institution: false
 issue:
   - content/issues/crises-et-prophetes.md
-  - content/issues/paris-ias-ideas.md
   - content/issues/paris-ias-ideas-2025.md
 language:
   - French

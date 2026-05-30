@@ -1,13 +1,11 @@
 ---
 active: true
 articles:
-  - 4- 1999  la France dans la tempete
   - 4-1999-la-france-dans-la-tempete
 exerpt: ''
 firstname: Claude
 is_institution: false
 issue:
-  - content/issues/Agir en temps de crise.md
   - content/issues/agir-en-temps-de-crise.md
 language:
   - French

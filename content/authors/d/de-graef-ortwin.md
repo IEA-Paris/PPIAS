@@ -1,13 +1,11 @@
 ---
 active: true
 articles:
-  - 2-2-1_de Graef
   - 2-2-1-de-graef
 exerpt: ''
 firstname: Ortwin
 is_institution: false
 issue:
-  - content/issues/HCERES - PFUE 2022.md
   - content/issues/hceres-pfue-2022.md
 language:
   - English

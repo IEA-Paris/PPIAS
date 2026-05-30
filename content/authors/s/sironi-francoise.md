@@ -1,9 +1,6 @@
 ---
 active: true
 articles:
-  - >-
-    SynE3_2017_05_how-does-one-become-a-torturer -
-    SynE3_2017_16_roundtable-1-past-and-present-perpetrators
   - SynE3_2017_05_how-does-one-become-a-torturer
   - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
 exerpt: ''

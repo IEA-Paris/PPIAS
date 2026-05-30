@@ -5,8 +5,7 @@ editorial_fellow: true
 exerpt: ''
 firstname: Pritty
 is_institution: false
-issue:
-  - content/issues/paris-ias-ideas.md
+issue: []
 language:
   - English
 lastname: Patel-Grosz

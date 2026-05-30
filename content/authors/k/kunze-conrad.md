@@ -1,9 +1,6 @@
 ---
 active: true
 articles:
-  - >-
-    justice-and-climate-transitions_5_table-ronde -
-    justice-and-climate-transitions_9_renewable-energy
   - justice-and-climate-transitions_5_table-ronde
   - justice-and-climate-transitions_9_renewable-energy
 exerpt: ''

@@ -1,12 +1,10 @@
 ---
 active: true
 articles:
-  - Our Microbial Lives - table-ronde 1
   - our-microbial-lives-table-ronde-1
 exerpt: ''
 firstname: Marc-André
 issue:
-  - content/issues/Our Microbial Lives.md
   - content/issues/our-microbial-lives.md
 language:
   - French

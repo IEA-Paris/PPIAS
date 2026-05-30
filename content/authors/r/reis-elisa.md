@@ -1,13 +1,10 @@
 ---
 active: true
 articles:
-  - 5-0_WPRN21_Keynote 5
   - 5-0-wprn21-keynote-5
 exerpt: ''
 firstname: Elisa
 issue:
-  - content/issues/WPRN21 Videos.md
-  - content/issues/WPRN21 Conference.md
   - content/issues/wprn21-videos.md
 language:
   - English

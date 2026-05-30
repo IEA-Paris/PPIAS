@@ -7,7 +7,6 @@ exerpt: ''
 firstname: Patricia
 is_institution: false
 issue:
-  - content/issues/Intercontinental Academia 4.md
   - content/issues/intercontinental-academia-4.md
 language:
   - English

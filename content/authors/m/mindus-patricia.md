@@ -5,8 +5,7 @@ editorial_fellow: true
 exerpt: ''
 firstname: Patricia
 is_institution: false
-issue:
-  - content/issues/paris-ias-ideas.md
+issue: []
 language:
   - English
 lastname: Mindus

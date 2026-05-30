@@ -1,13 +1,10 @@
 ---
 active: true
 articles:
-  - 6-0_WPRN21_Keynote 6
   - 6-0-wprn21-keynote-6
 exerpt: ''
 firstname: Marc
 issue:
-  - content/issues/WPRN21 Videos.md
-  - content/issues/WPRN21 Conference.md
   - content/issues/wprn21-videos.md
 language:
   - English

@@ -1,9 +1,6 @@
 ---
 active: true
 articles:
-  - >-
-    SynE3_2017_11_plasticity-of-empathy-and-prosocial-motivation - >-
-    SynE3_2017_17_roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
   - SynE3_2017_11_plasticity-of-empathy-and-prosocial-motivation
   - >-
     SynE3_2017_17_roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence

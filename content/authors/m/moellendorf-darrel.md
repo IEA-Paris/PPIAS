@@ -1,9 +1,6 @@
 ---
 active: true
 articles:
-  - >-
-    justice-and-climate-transitions_4_can-dangerous-climate-change-be-avoided- -
-    justice-and-climate-transitions_5_table-ronde
   - justice-and-climate-transitions_4_can-dangerous-climate-change-be-avoided-
   - justice-and-climate-transitions_5_table-ronde
 exerpt: ''

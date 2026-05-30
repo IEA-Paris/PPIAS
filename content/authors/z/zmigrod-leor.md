@@ -5,8 +5,7 @@ editorial_fellow: true
 exerpt: ''
 firstname: Leor
 is_institution: false
-issue:
-  - content/issues/paris-ias-ideas.md
+issue: []
 language:
   - English
 lastname: Zmigrod

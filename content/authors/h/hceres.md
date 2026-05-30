@@ -1,13 +1,11 @@
 ---
 active: true
 articles:
-  - 0-0-1_ Programme colloque Hceres
   - 0-0-1-programme-colloque-hceres
 exerpt: ''
 firstname: ''
 is_institution: true
 issue:
-  - content/issues/HCERES - PFUE 2022.md
   - content/issues/hceres-pfue-2022.md
 language:
   - French

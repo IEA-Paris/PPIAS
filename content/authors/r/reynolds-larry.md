@@ -1,10 +1,6 @@
 ---
 active: true
 articles:
-  - >-
-    justice-and-climate-transitions_5_table-ronde -
-    justice-and-climate-transitions_8_cities-citizens -
-    EneTran_2016_05_municipal-energy-transition-in-the-uk
   - justice-and-climate-transitions_5_table-ronde
   - justice-and-climate-transitions_8_cities-citizens
   - EneTran_2016_05_municipal-energy-transition-in-the-uk
@@ -12,8 +8,8 @@ exerpt: ''
 firstname: Larry
 is_institution: false
 issue:
-  - content/issues/territories-of-energy-transition.md
   - content/issues/justice-climate-transitions.md
+  - content/issues/territories-of-energy-transition.md
 language:
   - English
 lastname: Reynolds

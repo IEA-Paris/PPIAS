@@ -5,8 +5,6 @@ articles:
 exerpt: ''
 firstname: Phil
 issue:
-  - content/issues/WPRN21 Papers.md
-  - content/issues/WPRN21 Proceedings.md
   - content/issues/wprn21-papers.md
 language:
   - English

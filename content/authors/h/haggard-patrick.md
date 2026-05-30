@@ -1,7 +1,6 @@
 ---
 active: true
 articles:
-  - SynE1_2015_08_volition-and-affect - SynE2_2016_14_why-i-didnt-do-it
   - SynE1_2015_08_volition-and-affect
   - SynE2_2016_14_why-i-didnt-do-it
   - >-
@@ -11,7 +10,6 @@ firstname: Patrick
 is_institution: false
 issue:
   - content/issues/brains-that-pull-the-triggers.md
-  - content/issues/paris-ias-ideas.md
   - content/issues/paris-ias-ideas-2024.md
 language:
   - English

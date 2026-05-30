@@ -7,7 +7,6 @@ exerpt: ''
 firstname: Javier
 is_institution: false
 issue:
-  - content/issues/paris-ias-ideas.md
   - content/issues/paris-ias-ideas-2026.md
 language:
   - English

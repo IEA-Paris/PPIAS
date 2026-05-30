@@ -1,13 +1,10 @@
 ---
 active: true
 articles:
-  - 7-0_WPRN21_Keynote 7
   - 7-0-wprn21-keynote-7
 exerpt: ''
 firstname: Bennett
 issue:
-  - content/issues/WPRN21 Videos.md
-  - content/issues/WPRN21 Conference.md
   - content/issues/wprn21-videos.md
 language:
   - English

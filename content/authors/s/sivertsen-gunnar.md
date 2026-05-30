@@ -1,12 +1,10 @@
 ---
 active: true
 articles:
-  - 1-1-3 G- Sivertsen
   - 1-1-3-g-sivertsen
 exerpt: ''
 firstname: Gunnar
 issue:
-  - content/issues/HCERES - PFUE 2022.md
   - content/issues/hceres-pfue-2022.md
 language:
   - English

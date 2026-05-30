@@ -15,6 +15,7 @@ firstname: ''
 is_institution: true
 issue:
   - content/issues/identity-from-double-to-avatar.md
+  - content/issues/cicourel.md
 language:
   - English
 lastname: Istituto Italiano di Cultura di Parigi, France

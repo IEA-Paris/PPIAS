@@ -1,10 +1,6 @@
 ---
 active: true
 articles:
-  - >-
-    AVA_2018_08_being-someone-else-the-power-of-avatar-self-representation -
-    AVA_2018_10-round-table-discussion2 -
-    VIRT_2022_2_presence-body-ownership-and-vicarious-agency
   - AVA_2018_08_being-someone-else-the-power-of-avatar-self-representation
   - AVA_2018_10-round-table-discussion2
   - VIRT_2022_2_presence-body-ownership-and-vicarious-agency
