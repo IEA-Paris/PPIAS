@@ -43,7 +43,7 @@ authors:
 bibliography: /documents-exportes_cri-2023_2.bib
 date: 2023-03-06T13:21:40.681Z
 highlight: true
-issue: content/issues/Agir en temps de crise.md
+issue: content/issues/agir-en-temps-de-crise.md
 language: French
 links:
   bucket: https://zenodo.org/api/files/17fa6378-0864-4277-88f4-b681608992ef

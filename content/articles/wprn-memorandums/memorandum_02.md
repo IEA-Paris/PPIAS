@@ -19,7 +19,7 @@ authors:
 bibliography: /bibliography/documents-exportes_memo2.bib
 date: 2020-05-31T22:00:00.000Z
 highlight: false
-issue: content/issues/WPRN Memorandums.md
+issue: content/issues/wprn-memorandums.md
 keywords:
   - 'Big Data, Artificial Intelligence '
   - 'Democracy, Civil Society, Governance '

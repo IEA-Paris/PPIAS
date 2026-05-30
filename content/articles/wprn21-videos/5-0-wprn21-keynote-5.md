@@ -26,7 +26,7 @@ authors:
 bibliography: /bibliography/documents-exportes_keynote5.bib
 date: 2021-12-09T16:00:04.000Z
 highlight: false
-issue: content/issues/WPRN21 Videos.md
+issue: content/issues/wprn21-videos.md
 keywords:
   - 'Public Health '
   - Human Behaviours, Social Relations

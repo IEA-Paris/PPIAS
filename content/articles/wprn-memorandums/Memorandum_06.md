@@ -24,7 +24,7 @@ category1:
     text: Article
 date: 2020-09-01T13:00:00.000Z
 highlight: false
-issue: content/issues/WPRN Memorandums.md
+issue: content/issues/wprn-memorandums.md
 keywords:
   - 'Equality & Diversity Studies '
   - Human Behaviours, Social Relations

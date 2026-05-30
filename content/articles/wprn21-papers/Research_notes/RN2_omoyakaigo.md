@@ -62,7 +62,7 @@ custom_pdf: ''
 date: 2022-04-11T13:53:04.000Z
 disciplines: ''
 highlight: false
-issue: content/issues/WPRN21 Papers.md
+issue: content/issues/wprn21-papers.md
 keywords:
   - Newspapers
   - Twitter

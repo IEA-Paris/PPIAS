@@ -1,6 +1,6 @@
 ---
 needDOI: true
-issue: content/issues/Agir en temps de crise.md
+issue: content/issues/agir-en-temps-de-crise.md
 keywords: []
 date: 2020-06-11T16:00:52Z
 language: French

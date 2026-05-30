@@ -32,7 +32,7 @@ category1:
     text: Article
 date: 2021-05-27T07:30:26.000Z
 highlight: false
-issue: content/issues/Our Microbial Lives.md
+issue: content/issues/our-microbial-lives.md
 keywords:
   - Microbes
   - Health

@@ -43,7 +43,7 @@ custom_pdf: ''
 date: 2021-05-01T22:00:12.000Z
 disciplines: ''
 highlight: false
-issue: content/issues/WPRN Memorandums.md
+issue: content/issues/wprn-memorandums.md
 keywords:
   - 'Simulation / Modeling '
   - Democracy, Civil Society, Governance

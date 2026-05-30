@@ -91,7 +91,7 @@ custom_pdf: ''
 date: 2022-05-29T21:49:20.000Z
 disciplines: ''
 highlight: false
-issue: content/issues/WPRN21 Papers.md
+issue: content/issues/wprn21-papers.md
 keywords:
   - COVID-19
   - research method

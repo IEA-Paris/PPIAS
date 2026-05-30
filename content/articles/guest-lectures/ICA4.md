@@ -44,7 +44,7 @@ date: 2021-12-07T12:54:42.000Z
 discipline:
   - {}
 highlight: false
-issue: content/issues/Intercontinental Academia 4.md
+issue: content/issues/intercontinental-academia-4.md
 keywords:
   - Artificial Intelligence
   - Data science

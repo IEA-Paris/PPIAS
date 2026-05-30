@@ -115,7 +115,7 @@ custom_pdf: ''
 date: 2022-05-01T21:18:35.000Z
 disciplines: ''
 highlight: false
-issue: content/issues/WPRN21 Papers.md
+issue: content/issues/wprn21-papers.md
 keywords:
   - efficacy e-health
   - isolation

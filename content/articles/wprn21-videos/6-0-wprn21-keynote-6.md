@@ -26,7 +26,7 @@ authors:
 bibliography: /bibliography/documents-exportes_keynote6.bib
 date: 2021-12-10T10:00:40.000Z
 highlight: false
-issue: content/issues/WPRN21 Videos.md
+issue: content/issues/wprn21-videos.md
 keywords:
   - 'Equality & Diversity Studies '
   - Public Health

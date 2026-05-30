@@ -42,7 +42,7 @@ custom_pdf: ''
 date: 2021-08-31T22:00:35.000Z
 disciplines: ''
 highlight: false
-issue: content/issues/WPRN Memorandums.md
+issue: content/issues/wprn-memorandums.md
 keywords:
   - 'Consumption and Production Patterns '
   - 'Democracy, Civil Society, Governance '

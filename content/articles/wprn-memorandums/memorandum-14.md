@@ -46,7 +46,7 @@ custom_pdf: ''
 date: 2021-12-31T23:00:31.000Z
 disciplines: ''
 highlight: false
-issue: content/issues/WPRN Memorandums.md
+issue: content/issues/wprn-memorandums.md
 keywords:
   - 'Agriculture, Alimentation '
   - Aging, Demography

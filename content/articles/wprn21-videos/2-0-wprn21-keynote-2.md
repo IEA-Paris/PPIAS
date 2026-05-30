@@ -26,7 +26,7 @@ authors:
 bibliography: /bibliography/documents-exportes_keynote2.bib
 date: 2021-12-09T14:30:47.000Z
 highlight: false
-issue: content/issues/WPRN21 Videos.md
+issue: content/issues/wprn21-videos.md
 keywords:
   - ' Macroeconomics'
   - Small business

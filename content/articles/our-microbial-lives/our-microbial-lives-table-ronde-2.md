@@ -82,7 +82,7 @@ authors:
 bibliography: /bibliography/documents-exportes_tb2_lee.bib
 date: 2021-05-27T11:00:08.000Z
 highlight: false
-issue: content/issues/Our Microbial Lives.md
+issue: content/issues/our-microbial-lives.md
 keywords:
   - History of Science
   - Medicine

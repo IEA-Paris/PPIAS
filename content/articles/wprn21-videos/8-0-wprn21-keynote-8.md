@@ -44,7 +44,7 @@ authors:
 bibliography: /bibliography/documents-exportes_keynote8.bib
 date: 2021-12-10T14:00:13.000Z
 highlight: false
-issue: content/issues/WPRN21 Videos.md
+issue: content/issues/wprn21-videos.md
 keywords:
   - 'Public Discourse, Rhetorics, Communication '
   - Public Health

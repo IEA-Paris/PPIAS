@@ -20,7 +20,7 @@ authors:
 bibliography: /bibliography/my-collection_memo11.bib
 date: 2021-01-31T23:00:00.000Z
 highlight: false
-issue: content/issues/WPRN Memorandums.md
+issue: content/issues/wprn-memorandums.md
 keywords:
   - Human Behaviours, Social Relations
   - 'Inequalities, Poverty, Development '

@@ -25,7 +25,7 @@ bibliography: /bibliography/documents-exportes_memo1.bib
 date: 2020-04-30T22:00:00.000Z
 needDOI: false
 highlight: false
-issue: content/issues/WPRN Memorandums.md
+issue: content/issues/wprn-memorandums.md
 language: English
 picture: /atm-social-distancing-1600x800-1.jpg
 picture_copyright: ''

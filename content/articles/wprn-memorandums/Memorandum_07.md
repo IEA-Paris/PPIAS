@@ -35,7 +35,7 @@ authors:
 bibliography: /bibliography/documents-exportes_memo7.bib
 date: 2020-11-01T22:00:00.000Z
 highlight: false
-issue: content/issues/WPRN Memorandums.md
+issue: content/issues/wprn-memorandums.md
 keywords:
   - Big Data, Artificial Intelligence
   - 'Equality & Diversity Studies '

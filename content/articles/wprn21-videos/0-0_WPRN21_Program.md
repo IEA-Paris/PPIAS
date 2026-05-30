@@ -40,7 +40,7 @@ custom_pdf: ''
 date: 2021-12-09T08:00:48.000Z
 disciplines: ''
 highlight: false
-issue: content/issues/WPRN21 Videos.md
+issue: content/issues/wprn21-videos.md
 keywords: []
 language: English
 needDOI: false

@@ -26,7 +26,7 @@ authors:
 custom_pdf: ''
 date: 2022-05-16T07:40:12.000Z
 disciplines: ''
-issue: content/issues/HCERES - PFUE 2022.md
+issue: content/issues/hceres-pfue-2022.md
 keywords: []
 language: French
 links:

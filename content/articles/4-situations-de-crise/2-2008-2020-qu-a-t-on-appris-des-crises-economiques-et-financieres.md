@@ -66,7 +66,7 @@ bibliography: ''
 custom_pdf: ''
 date: 2022-04-14T16:00:42.000Z
 highlight: false
-issue: content/issues/Agir en temps de crise.md
+issue: content/issues/agir-en-temps-de-crise.md
 language: French
 links:
   bucket: https://zenodo.org/api/files/afcecba9-21e3-4a8b-8903-0be99a775c4f

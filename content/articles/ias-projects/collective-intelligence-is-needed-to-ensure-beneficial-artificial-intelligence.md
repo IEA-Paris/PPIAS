@@ -557,7 +557,7 @@ authors:
       wikipedia: ''
 date: 2023-06-14T13:31:55.740Z
 highlight: false
-issue: content/issues/Intercontinental Academia 4.md
+issue: content/issues/intercontinental-academia-4.md
 language: English
 links:
   bucket: https://zenodo.org/api/files/500b9d20-d37f-4868-a446-38a56b03954e

@@ -80,7 +80,7 @@ custom_pdf: ''
 date: 2022-04-12T22:00:34.000Z
 disciplines: ''
 highlight: false
-issue: content/issues/WPRN21 Papers.md
+issue: content/issues/wprn21-papers.md
 keywords:
   - metaphor
   - vaccination

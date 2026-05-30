@@ -28,7 +28,7 @@ authors:
 bibliography: /bibliography/documents-exportes_keynote7.bib
 date: 2021-12-10T10:30:19.000Z
 highlight: false
-issue: content/issues/WPRN21 Videos.md
+issue: content/issues/wprn21-videos.md
 keywords:
   - 'Big Data, Artificial Intelligence '
   - 'Human Behaviours, Social Relations '

@@ -30,7 +30,7 @@ authors:
 bibliography: /bibliography/documents-exportes_keynote1.bib
 date: 2021-12-09T09:00:24.000Z
 highlight: false
-issue: content/issues/WPRN21 Videos.md
+issue: content/issues/wprn21-videos.md
 keywords:
   - Infectious Diseases
   - public policies

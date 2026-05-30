@@ -50,7 +50,7 @@ date: 2022-05-16T05:35:09.000Z
 disciplines: ''
 
 highlight: false
-issue: content/issues/HCERES - PFUE 2022.md
+issue: content/issues/hceres-pfue-2022.md
 keywords: []
 language: French
 needDOI: false

@@ -17,7 +17,7 @@ authors:
 bibliography: /bibliography/documents-exportes_memo3.bib
 date: 2020-06-30T22:00:00.000Z
 highlight: false
-issue: content/issues/WPRN Memorandums.md
+issue: content/issues/wprn-memorandums.md
 keywords:
   - 'Human Behaviours, Social Relations '
   - Education

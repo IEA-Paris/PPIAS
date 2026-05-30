@@ -1,5 +1,5 @@
 ---
-issue: content/issues/WPRN21 Videos.md
+issue: content/issues/wprn21-videos.md
 keywords:
 - Human Behaviours, Social Relations
 - 'Public Health '

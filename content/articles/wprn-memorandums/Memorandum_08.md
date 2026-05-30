@@ -38,7 +38,7 @@ category1:
 custom_pdf: ''
 date: 2020-11-01T14:00:00.000Z
 highlight: false
-issue: content/issues/WPRN Memorandums.md
+issue: content/issues/wprn-memorandums.md
 keywords:
   - 'Democracy, Civil Society, Governance '
   - 'Public Discourse, Rhetorics, Communication '

@@ -61,7 +61,7 @@ custom_pdf: ''
 date: 2022-04-13T13:00:47.000Z
 disciplines: ''
 highlight: false
-issue: content/issues/WPRN21 Papers.md
+issue: content/issues/wprn21-papers.md
 keywords:
   - Single-parent families
   - Shared residence

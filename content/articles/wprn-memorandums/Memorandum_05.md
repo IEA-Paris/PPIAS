@@ -18,7 +18,7 @@ authors:
 bibliography: /bibliography/documents-exportes_memo5.bib
 date: 2020-08-31T22:00:00.000Z
 highlight: false
-issue: content/issues/WPRN Memorandums.md
+issue: content/issues/wprn-memorandums.md
 keywords:
   - 'Public Health '
   - ' Work, Welfare, Social protection '

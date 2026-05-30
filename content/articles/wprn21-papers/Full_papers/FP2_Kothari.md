@@ -96,7 +96,7 @@ custom_pdf: ''
 date: 2022-05-01T16:10:47.000Z
 disciplines: ''
 highlight: false
-issue: content/issues/WPRN21 Papers.md
+issue: content/issues/wprn21-papers.md
 keywords:
   - COVID-19
   - vaccine hesitancy
