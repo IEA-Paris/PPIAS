@@ -1,119 +1,107 @@
 ---
-DOI: 10.5281/zenodo.8314454
-Zid: 8314454
-abstract: >-
-  Crise des Identités de Genre - Controverses sur le Genre : Mobilisations et
-  Luttes en Temps de Crise : rencontre du cycle "Agir en temps de crise - Les
-  grandes crises contemporaines" organisée par Séverine Mathieu, directrice
-  d’études à l’EPHE-PSL et Saadi Lahlou, directeur de l’IEA de Paris, et animée
-  par Frédérique Matonti, professeure de Science Politique à l’Université Paris
-  I - Panthéon-Sorbonne.
-article_title: >-
-  Crise des Identités de Genre - Controverses sur le Genre : Mobilisations et
-  Luttes en Temps de Crise
+needDOI: true
 authors:
   - firstname: Judith
     is_institution: false
     lastname: Butler
-    picture: ''
-    picture_copyright: ''
+    picture: ""
+    picture_copyright: ""
     positions_and_institutions:
       - institution: University of California Berkeley, USA
         positions: []
     social_channels:
-      google_scholar: ''
-      instagram: ''
-      linkedin: https://www.linkedin.com/in/judy-butler-54193311
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      twitter: ''
-      website: ''
+      google_scholar: ""
+      researchgate: ""
+      mendeley: ""
+      instagram: ""
+      twitter: ""
       wikipedia: https://en.wikipedia.org/wiki/Judith_Butler
+      website: ""
+      orcid: ""
+      linkedin: https://www.linkedin.com/in/judy-butler-54193311
   - firstname: Delphine
     is_institution: false
     lastname: Horvilleur
-    picture: ''
-    picture_copyright: ''
+    picture: ""
+    picture_copyright: ""
     positions_and_institutions:
       - institution: Judaïsme en mouvement
         positions: []
       - institution: Kerem - Conseil des Rabbins Libéraux Francophones, France
         positions: []
     social_channels:
-      google_scholar: ''
-      instagram: '@delphinehorvilleur'
-      linkedin: ''
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      twitter: '@rabbidelphineH'
-      website: ''
+      google_scholar: ""
+      researchgate: ""
+      mendeley: ""
+      instagram: "@delphinehorvilleur"
+      twitter: "@rabbidelphineH"
       wikipedia: https://fr.wikipedia.org/wiki/Delphine_Horvilleur
+      website: ""
+      orcid: ""
+      linkedin: ""
   - firstname: Najat
     is_institution: false
     lastname: Vallaud-Belkacem
-    picture: ''
-    picture_copyright: ''
+    picture: ""
+    picture_copyright: ""
     positions_and_institutions:
       - institution: ONG ONE, France
         positions: []
     social_channels:
-      google_scholar: ''
-      instagram: '@najatvb'
-      linkedin: https://fr.linkedin.com/in/najat-vallaud-belkacem
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      twitter: '@najatvb'
-      website: https://www.najat-vallaud-belkacem.com/
+      google_scholar: ""
+      researchgate: ""
+      mendeley: ""
+      instagram: "@najatvb"
+      twitter: "@najatvb"
       wikipedia: https://fr.wikipedia.org/wiki/Najat_Vallaud-Belkacem
+      website: https://www.najat-vallaud-belkacem.com/
+      orcid: ""
+      linkedin: https://fr.linkedin.com/in/najat-vallaud-belkacem
   - firstname: Frédérique
     is_institution: false
     lastname: Matonti
-    picture: ''
-    picture_copyright: ''
+    picture: ""
+    picture_copyright: ""
     positions_and_institutions:
       - institution: Université Paris 1 Panthéon-Sorbonne, France
         positions: []
     social_channels:
-      google_scholar: ''
-      instagram: ''
-      linkedin: ''
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      twitter: '@FMatonti'
-      website: ''
+      google_scholar: ""
+      researchgate: ""
+      mendeley: ""
+      instagram: ""
+      twitter: "@FMatonti"
       wikipedia: https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9rique_Matonti
-bibliography: ''
-custom_pdf: ''
-date: 2021-05-26T16:00:21.000Z
-disciplines: ''
-highlight: false
-issue: content/issues/Agir en temps de crise.md
+      website: ""
+      orcid: ""
+      linkedin: ""
+abstract: 'Crise des Identités de Genre - Controverses sur le Genre :
+  Mobilisations et Luttes en Temps de Crise : rencontre du cycle "Agir en temps
+  de crise - Les grandes crises contemporaines" organisée par Séverine Mathieu,
+  directrice d’études à l’EPHE-PSL et Saadi Lahlou, directeur de l’IEA de Paris,
+  et animée par Frédérique Matonti, professeure de Science Politique à
+  l’Université Paris I - Panthéon-Sorbonne.'
+picture_copyright: ""
+bibliography: ""
+disciplines: ""
+custom_pdf: ""
 keywords: []
+sub-issue: Les Grandes Crises Contemporaines
+published: true
+article_title: "Crise des Identités de Genre - Controverses sur le Genre :
+  Mobilisations et Luttes en Temps de Crise"
+date: 2021-05-26T16:00:21.000Z
+highlight: false
+Zid: 8314454
+issue: content/issues/Agir en temps de crise.md
 language: French
 links:
   bucket: https://zenodo.org/api/files/d9099320-e3b3-4eac-b619-b294fa047496
-needDOI: true
-picture: ''
-picture_copyright: ''
-published: true
-sub-issue: Les Grandes Crises Contemporaines
+type: article
+picture: ""
 yt: hEaiJjepWvA
-
+DOI: 10.5281/zenodo.8314454
 ---
-
-
-
-
-
-
-
-
-
-
 Le genre est une composante tellement importante, pratiquement ontologique, des rôles et des statuts, qu’il structure non seulement la société mais même la langue. Changer les rapports entre genres, et la composition des rôles est donc une révolution profonde ; et les révolutions passent inévitablement par des phases de crise. S’il y a une crise de l’ordre genré, quelles leçons politiques en tirer ?
 
 <Youtube yt="hEaiJjepWvA" caption ="Agir en temps de crise - Controverses sur le genre : mobilisations et luttes"></Youtube>
@@ -133,7 +121,11 @@ Le genre est une composante tellement importante, pratiquement ontologique, des 
 
 #### Les deux faces de la pandémie
 
-La crise n’est pas seulement une rupture dans le cours normal des choses, elle permet de voir de manière plus vive les problèmes de fond. Les femmes sont les premières à avoir perdu leurs emplois (deux fois plus de risque que les hommes) et en France, les violences domestiques ont augmenté durant le premier confinement. D’ici l’an prochain, 47 millions de femmes supplémentaires vont sombrer dans l’extrême pauvreté (ONU). 135,6 années seront désormais nécessaires pour parvenir à la l’égalité femmes-hommes au niveau mondial, contre 100 avant la pandémie. Cette crise a néanmoins révélé l’importance et le pouvoir potentiel du peuple du « care », majoritairement féminin. En effet, plus rien n’aurait fonctionné sans leur activité. Pour Najat Vallaud-Belkacem, la société tient grâce aux femmes : cela devrait être un facteur de pouvoir.
+La crise n’est pas seulement une rupture dans le cours normal des choses, elle permet de voir de manière plus vive les problèmes de fond. Les femmes sont les premières à avoir perdu leurs emplois (deux fois plus de risque que les hommes) et en France, les violences domestiques ont augmenté durant le premier confinement. D’ici l’an prochain, 47 millions de femmes
+
+[^1]
+
+ supplémentaires vont sombrer dans l’extrême pauvreté (ONU). 135,6 années seront désormais nécessaires pour parvenir à la l’égalité femmes-hommes au niveau mondial, contre 100 avant la pandémie. Cette crise a néanmoins révélé l’importance et le pouvoir potentiel du peuple du « care », majoritairement féminin. En effet, plus rien n’aurait fonctionné sans leur activité. Pour Najat Vallaud-Belkacem, la société tient grâce aux femmes : cela devrait être un facteur de pouvoir.
 
 #### Les discours de pureté ne sont jamais bons pour les femmes
 
@@ -166,3 +158,5 @@ Durant une crise sanitaire, il y a des raisons de consolider le pouvoir de l’�
 #### La femme, figure de « l’autre » révélatrice du statut des altérités
 
 Dans les traditions religieuses, le féminin raconte l’autre, celui qui ne dispose pas du pouvoir politique classique, mais qui va devoir s’imposer par d’autres moyens (ruse, langage, séduction, manipulation, etc.). Cette « autre » est le grain de sable qui dérange, qui subvertit Dans tout système, la place qu’on fait ou non aux femmes raconte celle qu’on attribue à tout « autre » (étranger, non-croyant, homosexuel, etc.) La question du genre permet donc de penser à des questions politiques plus larges. Nos sociétés sont-elles prêtes à faire de la place à un autre en acceptant qu’il ou elle puisse être à la fois un autre et le même que nous ? Pour Delphine Horvilleur, si on voit seulement en la femme une autre, les minorités resteront enfermées dans une identité qui n’est que celle de l’altérité.
+
+[^1]: btrtbsrdfbsdrfbesdfdbesrb
