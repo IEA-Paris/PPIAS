@@ -63,7 +63,7 @@ abstract: "How do young adult workers (18-30 years old) living in and around
   through which these workers engage in politics: (1) Recognition through
   exclusion is the path that attracts mostly men who planned to vote or voted
   for the Republican Party, and those who define themselves as conservative.
-  They favor channeling resources toward “people like us” and use
+  They favor channeling resources toward \"people like us\" and use
   particularistic criteria in doing so (nationality and others). They believe
   that President Trump prioritizes their grievances and needs, which gives them
   recognition; (2) Recognition through inclusion is the path favored by a
@@ -75,16 +75,17 @@ abstract: "How do young adult workers (18-30 years old) living in and around
   from politics is the path favored by individuals who did not vote or did not
   plan to vote in the 2024 Presidential election. These participants maintain
   distance toward politics because they believe politicians don’t pay attention
-  to “people like them,” associate politics with conflict and corruption, or
+  to \"people like them,\" associate politics with conflict and corruption, or
   feel politically uninformed, disinterested, or disempowered; Finally, (4)
   Recognition through elevation is the path favored by voters who self-define as
-  “independent” because they feel that the main parties are corrupt, or that
+  \"independent\" because they feel that the main parties are corrupt, or that
   they do not represent their views. "
 issue: content/issues/paris-ias-ideas-2025.md
 highlight: false
 bibliography: /references_lamont.bib
 language: English
 ---
+
 ## Introduction
 
 We analyze whether and how young low-status white collar and blue collar workers (aged 18-30) living in and around Manchester, New Hampshire, seek recognition through politics and how concerns for recognition may shape their political preferences.[^1] We draw on forty-five 90-minute in-depth interviews conducted between May and December 2024 with randomly sampled men and women. We identify four recognition paths through which these workers engage in politics: Analyzing these paths broadens our understanding of working-class politics by shedding light on the place of morality and dignity in shaping political positioning, and how politics can act as a space for self-definition, agency, and empowerment for workers. 
@@ -95,7 +96,7 @@ In the first path, participants seek *recognition through exclusion* by typicall
 
 The electoral participation of young American voters (18-30 years old) has always been relatively low, hovering between 20 and 30 percent between 1966 and 2020, and at 50 percent in 2020 and 42 percent in 2024(Medina et al., 2025). It is even lower among young workers without a college degree (Maksura, 2024). This is typically explained by life stage, high spatial mobility, low party identification, a low sense of political efficacy, and low outreach (Kulachai et al., 2023; Laurinson, 2016). They are also less courted by political parties than their middle class counterparts; for instance, in one study, 48 percent of youth without college experience surveyed said they were never contacted about the 2024 presidential election, compared to 29 percent of youth with college experience. Moreover, the non-college educated voters are far more likely than their college-educated counterparts to believe they are not qualified to vote - 29 percent to 13 percent (Medina et al., 2025). Thus, explanations for their low political participation often involve a deficit model, much in line with the broader literature on culture and poverty (Lamont et al., 2010). 
 
-Considering the place of recognition in politics helps us understand why young Americans without a college degree often stay away from politics and where they stand politically. According to the Tufts CIRCLE 2024 Youth Survey, Americans aged 18-29 supported presidential candidate Kamala Harris over Donald Trump by only 4 percent in the recent presidential election, compared to a 25 percent difference in favor of Biden over Trump in the presidential election (Parker & Igelink, 2020[)](https://www.zotero.org/google-docs/?G1ATJC). Why this abrupt shift? After decades of growing inequality, when the "college divide" has become more salient (Williams, 2025), many non-college educated young workers feel that they are on the sidelines of American society, as they face difficulties making a living wage. In the case of our New Hampshire respondents, experiences of economic insecurity were common when we met with them in the summer and fall of 2024. With a minimum wage of $7.25 in New Hampshire in 2024 – a standard that has not changed since 2015 – 30 percent of our interviewees worked two jobs to make ends meet. A 22-year-old group home manager describes her situation as follows:
+Considering the place of recognition in politics helps us understand why young Americans without a college degree often stay away from politics and where they stand politically. According to the Tufts CIRCLE 2024 Youth Survey, Americans aged 18-29 supported presidential candidate Kamala Harris over Donald Trump by only 4 percent in the recent presidential election, compared to a 25 percent difference in favor of Biden over Trump in the presidential election [(Parker & Igelink, 2020)](https://www.zotero.org/google-docs/?G1ATJC). Why this abrupt shift? After decades of growing inequality, when the "college divide" has become more salient (Williams, 2025), many non-college educated young workers feel that they are on the sidelines of American society, as they face difficulties making a living wage. In the case of our New Hampshire respondents, experiences of economic insecurity were common when we met with them in the summer and fall of 2024. With a minimum wage of $7.25 in New Hampshire in 2024 – a standard that has not changed since 2015 – 30 percent of our interviewees worked two jobs to make ends meet. A 22-year-old group home manager describes her situation as follows:
 
 > From when I was 18, all the way to 21, I literally was working two jobs just so I could live a normal life, I guess you could say. I couldn't go to college 'cause I didn't have money for it. ... I don't wanna work two jobs for the rest of my life. That is so miserable... There's a lot of people that are working three to four jobs and have kids, which is so fucked up in itself.
 

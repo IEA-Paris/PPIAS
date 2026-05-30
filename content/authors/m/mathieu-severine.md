@@ -7,8 +7,8 @@ articles:
   - 4- Histoire des pandemies
   - 1-crise-sanitaire-covid19
   - 2-crise-economique-inegalites
-  - 4-histoire-des-pandemies
   - 3-crise-migratoire-du-global-au-local
+  - 4-histoire-des-pandemies
 exerpt: ''
 firstname: Séverine
 is_institution: false

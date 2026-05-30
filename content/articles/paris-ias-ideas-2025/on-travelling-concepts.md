@@ -2,8 +2,8 @@
 DOI: 10.5281/zenodo.15826893
 Zid: 15826893
 abstract: >
-  The paper discusses the idea of ‘travelling concepts’ in the context of
-  ‘philosophie pauvre’, resulting in a Wittgenstein-inspired, pluralist but
+  The paper discusses the idea of 'travelling concepts' in the context of
+  'philosophie pauvre', resulting in a Wittgenstein-inspired, pluralist but
   non-relativist view on conceptual structures. It is contrasted with that of
   various approaches in conceptual analysis and conceptual engineering. By way
   of illustration, the paper explores how a travelling concept view might help
