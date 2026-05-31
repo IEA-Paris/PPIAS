@@ -11,7 +11,7 @@ language:
   - French
 lastname: Hallegatte
 positions_and_institutions:
-  - institution: World Bank
+  - institution: World Bank,  USA
     positions:
       - Economist
 social_channels:

@@ -14,9 +14,11 @@ language:
   - English
 lastname: Torre
 positions_and_institutions:
-  - institution: Université du Piémont Oriental
+  - institution: Paris Institute for Advanced Study
     positions: []
   - institution: Quaderni storici
+    positions: []
+  - institution: Université du Piémont Oriental
     positions: []
 social_channels:
   google_scholar: ''

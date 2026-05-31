@@ -11,7 +11,7 @@ language:
   - French
 lastname: Rozenberg
 positions_and_institutions:
-  - institution: World Bank, Switzerland
+  - institution: World Bank, USA
     positions:
       - Senior Economist
 social_channels:

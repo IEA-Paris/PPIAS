@@ -12,6 +12,8 @@ language:
   - English
 lastname: Moellendorf
 positions_and_institutions:
+  - institution: Goethe Universität, Francfort, Germany
+    positions: []
   - institution: Goethe University, Frankfurt, Germany
     positions: []
 social_channels:

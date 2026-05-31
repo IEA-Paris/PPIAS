@@ -15,13 +15,14 @@ language:
   - English
 lastname: Pénet
 positions_and_institutions:
-  - institution: Université de Genève, Suisse / Institut d’études avancées de Paris, France
+  - institution: CNRS
     positions:
       - Research Fellow
-  - institution: Professeur attaché
+  - institution: ENS Paris-Saclay
     positions:
-      - ENS Paris-Saclay
       - Professeur attaché
+  - institution: Université de Genève, Suisse / Institut d'études avancées de Paris, France
+    positions: []
 social_channels:
   google_scholar: ''
   linkedin: ''

@@ -13,7 +13,7 @@ language:
   - English
 lastname: SINGER
 positions_and_institutions:
-  - institution: Max Planck Institute for Human cognitive and Brain Sciences
+  - institution: Max Planck Institute for Human cognitive and Brain Sciences, Germany
     positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=9m42c2cAAAAJ&hl=en

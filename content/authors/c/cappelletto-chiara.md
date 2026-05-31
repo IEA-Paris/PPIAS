@@ -15,6 +15,8 @@ lastname: Cappelletto
 positions_and_institutions:
   - institution: Università Statale di Milano, Italy
     positions: []
+  - institution: University of Milan
+    positions: []
 social_channels:
   google_scholar: ''
   linkedin: ''

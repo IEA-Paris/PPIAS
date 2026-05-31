@@ -11,7 +11,7 @@ language:
   - English
 lastname: Buzogany
 positions_and_institutions:
-  - institution: BOKU Vienna
+  - institution: BOKU Vienna, Austria
     positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=K1ACGKAAAAAJ&hl=en

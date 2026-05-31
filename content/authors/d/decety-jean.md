@@ -17,9 +17,13 @@ lastname: Decety
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: The University of Chicago, USA
+  - institution: >-
+      Department of Psychology and the Department of Psychiatry and Behavioral
+      Neuroscience, The University of Chicago
     positions: []
   - institution: Paris Institute for Advanced Study
+    positions: []
+  - institution: The University of Chicago, USA
     positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=fbNxH6UAAAAJ&hl=en

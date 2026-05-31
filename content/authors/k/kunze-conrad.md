@@ -12,6 +12,8 @@ language:
   - English
 lastname: Kunze
 positions_and_institutions:
+  - institution: Helmholtz Centre for Environmental Research – UFZ, Germany
+    positions: []
   - institution: Helmholtz Centre for Environmental Research – UFZ, Leipzig, Germany
     positions: []
 social_channels:

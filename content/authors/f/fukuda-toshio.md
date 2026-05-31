@@ -12,12 +12,12 @@ language:
   - English
 lastname: Fukuda
 positions_and_institutions:
-  - institution: Nagoya University
-    positions:
-      - Emeritus professor
   - institution: Institute of Electrical and Electronics Engineers
     positions:
       - President (2020)
+  - institution: Nagoya University
+    positions:
+      - Emeritus professor
 social_channels:
   google_scholar: ''
   linkedin: ''

@@ -18,6 +18,8 @@ positions_and_institutions:
     positions: []
   - institution: Institut d'études avancées de Paris, France
     positions: []
+  - institution: Institut d'études de Paris, France
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''

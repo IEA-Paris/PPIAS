@@ -11,7 +11,7 @@ language:
   - English
 lastname: Boraud
 positions_and_institutions:
-  - institution: Université Bordeaux, France
+  - institution: Université de Bordeaux, France
     positions: []
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=hvsLiSoAAAAJ&hl=fr

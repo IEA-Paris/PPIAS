@@ -11,11 +11,11 @@ language:
   - English
 lastname: Frisanco
 positions_and_institutions:
+  - institution: Fondazione Santa Lucia, IRCCS, Rome
+    positions: []
   - institution: >-
       Sapienza University of Rome & CLN2S@Sapienza, Italian Institute of
       Technology
-    positions: []
-  - institution: Fondazione Santa Lucia, IRCCS, Rome
     positions: []
 social_channels:
   google_scholar: ''

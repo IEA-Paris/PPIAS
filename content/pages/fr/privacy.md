@@ -28,10 +28,4 @@ The Paris Institute for Advanced Study (IAS) processes your personal data in the
 
 ## Cookies
 
-Like most organisations,  uses Cookies, and similar technologies such as tracking pixels (referred to in this policy together as "Cookies"), to capture information about our website users (referred to as "you").
-
-Our websites may link to other websites owned and operated by third parties for which we are not responsible. These other third party websites may also use Cookies, but will do so in accordance with their own policies, which are separate from ours. Please consult these separate policies as appropriate.
-
-When you choose to accept or reject Cookies on one of our websites, your choices are valid for that website only. If you click through to another website, whether operated by us or a third party you will need to make separate choices in relation to the Cookies that you would like to accept or reject on that other website.
-
-If you consent to the use of analytics Cookies on one of our websites, we will use these, in general terms, to recognise you, to count your visits to that website, and to see how you move around that website. This helps us to provide you with a good experience while you browse, for example by helping to make sure you can find what you need. It also allows us to improve the way the website works.
+We don't use cookies on our website. We don't use any third-party services or analytics tools that use cookies either. We don't use any advertising tools whether they use cookies or not.

@@ -12,7 +12,7 @@ language:
   - English
 lastname: Duvic-Paoli
 positions_and_institutions:
-  - institution: The Dickson Poon School of Law, King’s College London
+  - institution: The Dickson Poon School of Law, King's College London
     positions: []
 social_channels:
   google_scholar: ''

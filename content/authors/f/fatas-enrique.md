@@ -15,9 +15,11 @@ lastname: Fatas
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: University of Pennsylvania, USA
+  - institution: Behavioral Economics Institute
     positions: []
   - institution: Universidad Europea de Valencia
+    positions: []
+  - institution: University of Pennsylvania, USA
     positions: []
 reference: ''
 social_channels:

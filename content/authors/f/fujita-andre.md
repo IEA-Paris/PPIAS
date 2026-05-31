@@ -14,7 +14,6 @@ lastname: Fujita
 positions_and_institutions:
   - institution: University of São Paulo
     positions:
-      - Associate Professor, Department of Computer Science
       - Associate Professor, Department of Computer Science;
 social_channels:
   google_scholar: ''

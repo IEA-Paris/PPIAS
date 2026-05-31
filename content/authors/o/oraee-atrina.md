@@ -12,15 +12,12 @@ lastname: Oraee
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: international laboratory for Brain, Music, and Sound research (BRAMS)
-    positions:
-      - co-founder
-  - institution: McGill University
-    positions:
-      - writer
   - institution: IAS PARIS
     positions:
       - writer
+  - institution: international laboratory for Brain, Music, and Sound research (BRAMS)
+    positions:
+      - co-founder
 reference: ''
 social_channels:
   google_scholar: ''

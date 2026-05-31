@@ -16,6 +16,8 @@ positions_and_institutions:
   - institution: Ville de Paris, France
     positions:
       - Chargée de la prospective Paris 2030
+  - institution: Ville de Paris, France
+    positions:
       - Deputy Mayor of Paris in charge of environmental questions
 social_channels:
   linkedin: https://fr.linkedin.com/in/celia-blauel

@@ -15,7 +15,9 @@ language:
   - English
 lastname: Mirdal
 positions_and_institutions:
-  - institution: Paris Institute for Advanced Study
+  - institution: Paris IAS, France
+    positions: []
+  - institution: Paris Institute for Advanced Study, France
     positions: []
 years:
   - 2019

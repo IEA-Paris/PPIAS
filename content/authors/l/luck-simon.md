@@ -13,7 +13,7 @@ language:
   - English
 lastname: Luck
 positions_and_institutions:
-  - institution: Paris Institute for Advanced Study
+  - institution: Paris Institute for Advanced Study, France
     positions: []
 social_channels:
   linkedin: >-

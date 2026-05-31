@@ -13,6 +13,8 @@ lastname: Tancoigne
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
+  - institution: Université de Lausanne, Suisse
+    positions: []
   - institution: Université de Lausanne, Switzerland
     positions: []
 reference: ''

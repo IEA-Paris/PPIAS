@@ -11,7 +11,7 @@ language:
   - English
 lastname: Van Someren
 positions_and_institutions:
-  - institution: Netherlands Institute for Neuroscience
+  - institution: Netherlands Institute for Neuroscience, Netherlands
     positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=qY9usQUAAAAJ&hl=en

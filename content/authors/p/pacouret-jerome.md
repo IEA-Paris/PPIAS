@@ -12,7 +12,7 @@ language:
   - English
 lastname: Pacouret
 positions_and_institutions:
-  - institution: CESSP
+  - institution: CESSP-CNRS, France
     positions: []
 social_channels:
   linkedin: >-

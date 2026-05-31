@@ -11,7 +11,7 @@ language:
   - English
 lastname: Pessiglione
 positions_and_institutions:
-  - institution: "Institut du Cerveau\_et de la Moelle épinière (ICM), France"
+  - institution: Institut du Cerveau et de la Moelle épinière (ICM), France
     positions: []
 social_channels:
   google_scholar: https://scholar.google.fr/citations?user=SKyTxCwAAAAJ&hl=en

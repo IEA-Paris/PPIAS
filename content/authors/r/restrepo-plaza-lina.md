@@ -13,9 +13,9 @@ language:
   - English
 lastname: Restrepo-Plaza
 positions_and_institutions:
-  - institution: Universidad Europea de Valencia (Spain)
-    positions: []
   - institution: Universidad del Valle (Colombia)
+    positions: []
+  - institution: Universidad Europea de Valencia (Spain)
     positions: []
 social_channels:
   google_scholar: ''

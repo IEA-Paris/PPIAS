@@ -22,15 +22,24 @@ lastname: Bouin
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: RFIEA-NETIAS, France
-    positions:
-      - Director
-  - institution: RFIEA Foundation, France
+  - institution: EASSH (European Alliance for Social Sciences and Humanities)
     positions:
       - President-elect of the Governing Board
+  - institution: European Alliance for Social Sciences and Humanities, France
+    positions: []
+  - institution: Foundation-Excellence Laboratory RFIEA
+    positions:
+      - Director
   - institution: NetIAS
     positions:
       - Secretary-General
+  - institution: Réseau Français des Instituts d'Études Avancées
+    positions:
+      - Director
+  - institution: RFIEA Foundation, France
+    positions: []
+  - institution: RFIEA-NETIAS, France
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

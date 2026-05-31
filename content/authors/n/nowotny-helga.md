@@ -24,10 +24,16 @@ lastname: Nowotny
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
+  - institution: Complexity Science Hub
+    positions:
+      - Chair of the Science Advisory Board & Strategic Advisory Board
+  - institution: ERC Scientific Council
+    positions: []
   - institution: ETH Zurich, Switzerland
+    positions: []
+  - institution: European Research Council
     positions:
       - Former President
-      - Chair of the Science Advisory Board & Strategic Advisory Board
   - institution: Swiss Federal Institute of Technology in Zürich (ETH Zurich), Switzerland
     positions: []
 reference: ''

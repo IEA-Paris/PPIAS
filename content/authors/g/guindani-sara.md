@@ -15,7 +15,7 @@ lastname: Guindani
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: FMSH - Collège d’études mondiales, France
+  - institution: FMSH - Collège d'études mondiales, France
     positions: []
 social_channels:
   google_scholar: ''

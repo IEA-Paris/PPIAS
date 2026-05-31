@@ -13,9 +13,9 @@ lastname: Leschi
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: Office français de l'immigration et de l'intégration, France
-    positions: []
   - institution: Institut européen en sciences des religions, France
+    positions: []
+  - institution: Office français de l'immigration et de l'intégration, France
     positions: []
 social_channels:
   google_scholar: ''

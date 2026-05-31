@@ -11,7 +11,7 @@ language:
   - French
 lastname: Vuillet
 positions_and_institutions:
-  - institution: EIVP, Lab’Urba, France
+  - institution: EIVP, Lab'Urba, France
     positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=3EJuqXQAAAAJ&hl=fr

@@ -12,7 +12,7 @@ language:
   - English
 lastname: Schuppert
 positions_and_institutions:
-  - institution: Queen’s University Belfast, Northern Ireland
+  - institution: Queen's University Belfast, Northern Ireland.
     positions: []
 social_channels:
   google_scholar: https://scholar.google.co.uk/citations?user=wvtkZzoAAAAJ&hl=en

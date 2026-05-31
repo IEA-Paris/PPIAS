@@ -12,7 +12,9 @@ language:
   - English
 lastname: Walker
 positions_and_institutions:
-  - institution: University of Lancaster, United Kingdom
+  - institution: Lancaster Environment Centre, Lancaster University, United Kingdom
+    positions: []
+  - institution: Lancaster University, United Kingdom
     positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=BMrPd3wAAAAJ&hl=en

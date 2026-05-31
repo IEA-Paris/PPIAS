@@ -13,7 +13,7 @@ lastname: Stokhof
 positions_and_institutions:
   - institution: Department of Philosophy, Tsinghua University
     positions: []
-  - institution: LLC/Department of Philosophy, University of Amsterdam
+  - institution: ILLC/Department of Philosophy, University of Amsterdam
     positions: []
 social_channels:
   google_scholar: ''

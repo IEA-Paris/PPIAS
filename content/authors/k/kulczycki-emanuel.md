@@ -18,6 +18,8 @@ positions_and_institutions:
     positions: []
   - institution: Adam Mickiewicz University, Poland
     positions: []
+  - institution: Ministry of Education and Science, Poland
+    positions: []
 reference: ''
 social_channels:
   google_scholar: ''

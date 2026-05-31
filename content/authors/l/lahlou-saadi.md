@@ -59,14 +59,18 @@ lastname: Lahlou
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: London School Of Economics, United Kingdom
+  - institution: IEA de Paris, France
+    positions: []
+  - institution: >-
+      Institut d'études avancées de Paris, France / London School of Economics,
+      United Kingdom
+    positions: []
+  - institution: London School of Economics
     positions:
-      - Chair in Social Psychology
-      - Director
-  - institution: Paris Institute of advanced study
-    positions:
-      - Director
       - Professor
+  - institution: Paris Institute for Advanced Study, France
+    positions:
+      - Director
 reference: ''
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=awGy3asAAAAJ&hl=fr&oi=ao

@@ -15,9 +15,9 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: CNRS
     positions: []
-  - institution: Triangle
-    positions: []
   - institution: Ens de Lyon
+    positions: []
+  - institution: Triangle
     positions: []
 social_channels:
   google_scholar: ''

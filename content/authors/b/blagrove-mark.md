@@ -12,7 +12,7 @@ language:
   - English
 lastname: Blagrove
 positions_and_institutions:
-  - institution: Swansea University
+  - institution: Swansea University, United Kingdom
     positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=yOfl4KoAAAAJ&hl=fr

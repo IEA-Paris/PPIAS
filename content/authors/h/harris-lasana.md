@@ -11,7 +11,7 @@ language:
   - English
 lastname: Harris
 positions_and_institutions:
-  - institution: University of Leiden, Netherlands
+  - institution: University of Leiden,  Netherlands
     positions: []
 social_channels:
   google_scholar: https://scholar.google.com/citations?user=TYpVIgUAAAAJ&hl=en

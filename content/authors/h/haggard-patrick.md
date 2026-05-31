@@ -15,9 +15,13 @@ language:
   - English
 lastname: Haggard
 positions_and_institutions:
-  - institution: University College London, United Kingdom
+  - institution: Institute of Cognitive Neuroscience, University College London
     positions: []
   - institution: Paris Institute for Advanced Study, France
+    positions: []
+  - institution: University College London, United Kingdom
+    positions: []
+  - institution: University College of London (UCL), United Kingdom
     positions: []
 social_channels:
   google_scholar: https://scholar.google.co.uk/citations?user=NqmgC9gAAAAJ&hl=en

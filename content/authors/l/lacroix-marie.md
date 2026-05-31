@@ -11,7 +11,7 @@ language:
   - English
 lastname: Lacroix
 positions_and_institutions:
-  - institution: CNRS - ESPCI Paris Tech - Cog'X
+  - institution: CNRS - ESPCI Paris Tech - Cog'X, France
     positions: []
 social_channels:
   linkedin: >-

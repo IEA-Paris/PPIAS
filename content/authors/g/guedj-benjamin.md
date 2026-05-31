@@ -12,12 +12,12 @@ language:
   - English
 lastname: Guedj
 positions_and_institutions:
-  - institution: Inria (France)
-    positions:
-      - Research Scientist
   - institution: Centre for AI at University College London
     positions:
       - Principal Research Fellow
+  - institution: Inria (France)
+    positions:
+      - Research Scientist
 social_channels:
   google_scholar: ''
   linkedin: ''

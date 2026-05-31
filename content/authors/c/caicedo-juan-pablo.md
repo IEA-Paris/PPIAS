@@ -18,8 +18,6 @@ positions_and_institutions:
   - institution: PARIS IAS
     positions:
       - Fellow
-  - institution: Universidad Javeriana, Colombia
-    positions: []
 social_channels:
   google_scholar: ''
   linkedin: ''

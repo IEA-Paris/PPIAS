@@ -13,9 +13,9 @@ lastname: Matta
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: University of Göttingen, Germany
-    positions: []
   - institution: IEA de Paris, France
+    positions: []
+  - institution: University of Göttingen, Germany
     positions: []
 social_channels:
   google_scholar: https://scholar.google.de/citations?user=oq899MwAAAAJ&hl=en

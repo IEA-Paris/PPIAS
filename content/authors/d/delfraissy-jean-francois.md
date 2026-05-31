@@ -13,9 +13,9 @@ lastname: Delfraissy
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: Conseil scientifique Covid-19, France
-    positions: []
   - institution: Comité consultatif national d'éthique, France
+    positions: []
+  - institution: Conseil scientifique Covid-19, France
     positions: []
 social_channels:
   google_scholar: ''

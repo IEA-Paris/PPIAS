@@ -15,9 +15,11 @@ language:
   - English
 lastname: Pinotti
 positions_and_institutions:
-  - institution: Università Statale di Milano, Italy
-    positions: []
   - institution: Paris Institute for Advanced Study, France
+    positions: []
+  - institution: Università degli Studi di Milano
+    positions: []
+  - institution: Università Statale di Milano, Italy
     positions: []
 social_channels:
   google_scholar: https://scholar.google.it/citations?user=fa43KcgAAAAJ&hl=it

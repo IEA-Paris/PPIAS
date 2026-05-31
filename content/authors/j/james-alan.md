@@ -13,7 +13,7 @@ lastname: James
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: King’s College London
+  - institution: King's College London
     positions:
       - Reader in International History in the Department of War Studies
 social_channels:

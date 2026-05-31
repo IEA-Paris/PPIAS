@@ -12,7 +12,7 @@ lastname: Papapicco
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: University of Bari “Aldo Moro”, Italy
+  - institution: University of Bari "Aldo Moro", Italy
     positions: []
 reference: ''
 social_channels:

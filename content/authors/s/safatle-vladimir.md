@@ -18,9 +18,13 @@ language:
   - English
 lastname: Safatle
 positions_and_institutions:
-  - institution: Université de São Paulo, Brésil
+  - institution: Universidade de São Paulo
     positions:
       - Full Professor of Philosophy and Psychology
+  - institution: Université de São Paulo, Brésil
+    positions: []
+  - institution: University of São Paulo
+    positions: []
 social_channels:
   google_scholar: ''
   linkedin: ''

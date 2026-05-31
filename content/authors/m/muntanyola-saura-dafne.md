@@ -18,9 +18,6 @@ positions_and_institutions:
     positions:
       - >-
         Tenured Professor Centre d'Estudis Sociològics sobre la Vida Quotidiana
-        i el Treball- Institut d’Estudis del Treball
-      - >-
-        Tenured Professor Centre d'Estudis Sociològics sobre la Vida Quotidiana
         i el Treball- Institut d'Estudis del Treball
 social_channels:
   google_scholar: ''

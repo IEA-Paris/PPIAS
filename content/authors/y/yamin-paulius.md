@@ -16,10 +16,10 @@ lastname: Yamin
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: University of Pennsylvania, USA
+  - institution: Paris Institute For Advanced Study
     positions:
       - Scientific Director
-  - institution: Harvard Kennedy School of Government
+  - institution: University of Pennsylvania, USA
     positions: []
 reference: ''
 social_channels:

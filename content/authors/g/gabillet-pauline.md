@@ -12,7 +12,9 @@ language:
   - French
 lastname: Gabillet
 positions_and_institutions:
-  - institution: LATTS / Université Gustave Eiffel, France
+  - institution: >-
+      Laboratoire Techniques Territoires et Societes (LATTS) / Université
+      Gustave Eiffel, France
     positions: []
 social_channels:
   linkedin: https://fr.linkedin.com/in/pauline-gabillet-957b8197

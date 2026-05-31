@@ -14,6 +14,8 @@ language:
   - English
 lastname: Koechlin
 positions_and_institutions:
+  - institution: Ecole Normale Supérieure Paris, France
+    positions: []
   - institution: ENS Paris, France
     positions: []
 social_channels:

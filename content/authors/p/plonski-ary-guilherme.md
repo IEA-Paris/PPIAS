@@ -12,12 +12,12 @@ language:
   - English
 lastname: Plonski
 positions_and_institutions:
-  - institution: University of São Paulo
-    positions:
-      - Professor
   - institution: UBIAS
     positions:
       - Chief coordinator
+  - institution: University of São Paulo
+    positions:
+      - Professor
 social_channels:
   google_scholar: ''
   linkedin: ''

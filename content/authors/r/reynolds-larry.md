@@ -14,9 +14,11 @@ language:
   - English
 lastname: Reynolds
 positions_and_institutions:
-  - institution: IEA de Paris, France
+  - institution: John-F.-Kennedy Institut, Freie Universität Berlin, Germany
     positions: []
   - institution: Paris Institute for Advanced Studies, France
+    positions: []
+  - institution: Paris Institute for Advanced Study, France
     positions: []
 years:
   - 2016

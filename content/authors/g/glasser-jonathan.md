@@ -14,6 +14,8 @@ language:
   - English
 lastname: Glasser
 positions_and_institutions:
+  - institution: Department of Anthropology, William & Mary
+    positions: []
   - institution: Université William & Mary, US
     positions: []
 social_channels:

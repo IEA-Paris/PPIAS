@@ -253,7 +253,7 @@ But observing that current discussions are messy is one thing, it does not neces
 
 Some caveats are in order. What follows is *not* concerned in any detail with how genAI systems actually work, i.e., with their architecture, specific algorithms, training models, and so on.[^67] It also does not take up a position in discussions about the relative abilities of various genAI systems among themselves.[^68] And it is also *not* an attempt to *answer* the question whether genAI systems 'understand', at least not if we take this as if it were a yes/no question. (With answers such as 'Not yet, but they will soon' and 'Not in my life time anyway' thrown in for good measure.) Rather we will explore what light the travelling nature of the concept of understanding throws on the discussion. That is not providing an answer but rather carving out a space of possible reactions.
 
-## Some general observations to start with
+### Some general observations to start with
 
 One fairly intuitive response to the question 'Do genAI systems understand?' might be that in a sense the question as such calls for a (re)definition of the concept of understanding.[^69] But one thing to notice right away is that it is not the existence of these systems as such, but the interactions that humans have with them that is responsible for that. That might seem a mere detail, but it is not. In many of the discussions around genAI systems one can discern echoes of arguments and observations that have surrounded AI ever since its origins in the early sixties of the last century. Those debates largely centred around the relation between human intelligence and classical AI systems. And many of the arguments were of a largely conceptual (or, if you will, terminological) nature.[^70]
 
@@ -271,7 +271,7 @@ So understanding is a travelling concept: it differs from individual to individu
 
 Let us flesh out some of the consequences of that.
 
-## Technology-induced change
+### Technology-induced change
 
 That new technologies may bring about changes in the concepts we employ is clear. But it is not always the case and does not always work in the same way. It is useful to distinguish between 'changing a concept' and 'changing our knowledge of what the concept applies to', and to contextualise conceptual changes. Obviously, new technologies can change the ways in which we can investigate phenomena and through that have considerable impact on our knowledge of those phenomena. In some cases that also induces changes in the concepts we employ in the context of investigating and explaining these phenomena. Sometimes the concepts employed by science and those employed in everyday contexts are really distinct.[^72] In some cases a new technology may also change the way we conceptualise things in an everyday context.
 
@@ -283,11 +283,11 @@ First thing to note is that by itself the mere fact that external agents and hum
 
 Why that is the case is probably a matter of contingencies, at least to some extent. But we can leave that aside for the moment. What matters is that having the same abilities and having them in a reasonably comparable way and to a reasonably comparable extent, by itself is not sufficient for non-human agents to count as participants in a human practice that centres around such abilities. So, what is at stake then? Under what circumstances do we consider non-human agents as full-blown participants in our practices? It seems that in addition to the ability to display behaviour arising from shared abilities, minimally the following additional requirements need to be met.
 
-## Human concerns
+### Human concerns
 
 First, the practice needs to have a point that is sufficiently close to our core human concerns. There is definitely some leeway in determining whether this is the case. Take the example of chess. For many chess aficionados the defeat of world champion Kasparov by Deep Blue in 1997 was a tremendous chock (as witnessed for example by the title of the documentary that was made about these events: Game Over). But for most people (after all, most people do not play chess) it was just a curious news fact, without any real impact. Playing chess, intellectually prestigious as it may be, is for most people not a core concern. Contrast this with the current excitement created by genAI systems such as ChatGPT and image generating programs such as Stable Diffusion. What these programs do, --answer questions, conduct a conversation, write essays, create images of various topics and in various styles--, touches on the everyday activities of a much larger group of people. That is what explains the difference in impact between DeepBlue and ChatGPT, and not a difference (if such there is) in the underlying technologies. In short, it is not the technical and/or scientific ingenuity that goes into creating a non-human agent that is the key to itsimpact, it is its closeness to core human concerns, to what humans do in their everyday lives.
 
-## Autonomy
+### Autonomy
 
 Second, to be able to be regarded as a competitor, it is not enough to be better and to be relevant, there also needs to be 'a human touch'. To see this take the example of calculators. The use of tools in performingcalculations that are too complex to do in the head, is age-old. But no-one would regard an abacus as intelligent, and neither would we regard a slide rule as such. Obviously, these tools depend heavily on human users, they are complex, require instruction and training, and as such are applied by relatively few people. Modern electronic pocket calculators have increased calculating powers immensely, are much easier to operate, and that has put calculating tools in the hands of the masses. Where a slide rule is complicated to use, requires detailed instruction, and is less powerful, a simple pocket calculator is much easier to use, requires little instruction, and is way more powerful, certainly when extended with sufficient memory. But despite its wide range and advanced capacities, calling a Texas Instruments TI-59 'intelligent' will not do. Something is lacking.
 
@@ -303,7 +303,7 @@ That current genAI systems may not be up to that is illustrated by a particular 
 
 This suggests that 'prompt insertion' might work with young infants who do not yet have a sufficiently developed theory of mind. One factor that might mitigate this, however, is that young children relyon trust, so a prompt insertion that comes from an unknown source would probably not work. (It would simply be ignored.)
 
-## Training and trust
+### Training and trust
 
 This raises the interesting question what role trust (and testimony, its next of kin) plays in how humans grow up and in how genAI systems are trained. In human socialisation and education trust plays a keyrole. Trusting a caregiver, trusting a teacher, is like trusting our senses. At first our trust in them is absolute. Later on, we come to realise that none of them are infallible and that under certain circumstances we can, and in fact should, question them. But that is not, and cannot be, the starting point. We need to start with trust in order to be able to come to a position where we can doubt, even that which we started out trusting.[^76]
 
@@ -317,7 +317,7 @@ Now there is no denying that in many cases genAI systems deliver reliable inform
 
 As a matter of fact, we know that a lot of information that is available is not reliable: people make mistakes, they lie, they speculate, they fantasise, and all that also ends up in the data that genAI systems can be and are trained on. (And even what is carefully investigated and justified by the highest standards can turn out to be wrong.) GenAI systems do not miraculously overcome the problem of the fallibility and unreliability of humans. That is a problem that is independent of genAI systems. The key point here is that humans have all kinds of checks and balances to distinguish between 'bad' and 'good' creativity. We know human nature, we can uncover the intentions that give rise to certain behaviour and thus are equipped to tell 'right' from 'wrong', although not infallibly so, of course. The point is that these checks and balances are thoroughly attuned to humans, and do not apply to genAI systems.
 
-## Stability and change
+### Stability and change
 
 The autonomy that we associate with human action and human understanding is closely related to creativity: the ability to step away from 'how things are done' and do them differently or do something different. How does that apply to genAI systems? Does it apply to them?
 
@@ -325,7 +325,7 @@ As argued above, the answer is closely tied to their behaviour. But in this case
 
 Note also that we exploit the complexity that goes beyond the complexity of the compression in various ways. We display complexity, we express it, we embellish our descriptions, we manifest it in many different ways. We do so as a way of signalling our awareness of them, but also as a way to signal that we are able to use more resources than required if we would stick to compression.[^81]
 
-## Language and body
+### Language and body
 
 Another thing that tends to complicate the discussion about humans, genAI systems and understanding has to do with language and embodiment. Most people's encounters with genAI systems are via chatbots, such as ChatGPT, Gemini, Deepseek, and others. That means that their interactions with genAI systems are almost exclusively language-based. The user's input is mostly asking questions, along with some action prompts. The system's output is answer formulated in natural language, along with code, or simple actions.[^82]
 

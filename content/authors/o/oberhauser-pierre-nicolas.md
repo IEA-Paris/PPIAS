@@ -13,13 +13,13 @@ lastname: Oberhauser
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
+  - institution: Cermes3 (CNRS/EHESS/INSERM/Université Paris-Cité)
+    positions:
+      - Associate researcher
   - institution: Haute École de Santé du canton de Vaud (HESAV, Lausanne)
     positions:
       - Research fellow
   - institution: Institut des sciences sociales (Université de Lausanne)
-    positions:
-      - Associate researcher
-  - institution: Cermes3 (CNRS/EHESS/INSERM/Université Paris-Cité)
     positions:
       - Associate researcher
 social_channels:

@@ -13,9 +13,9 @@ lastname: Bajos
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
-  - institution: INSERM, France
-    positions: []
   - institution: EHESS, France
+    positions: []
+  - institution: INSERM, France
     positions: []
 social_channels:
   google_scholar: ''
