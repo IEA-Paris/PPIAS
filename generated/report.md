@@ -1,1050 +1,242 @@
 ---
+combinedInstitutions:
+  - author: Saadi Lahlou
+    authorDoc: content/authors/l/lahlou-saadi.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
+    institutions:
+      - articles:
+          - RES_2020_12_conclusion-et-cloture
+          - Our_Microbial_Lives
+          - Memorandum_01
+          - RES_2020_02_Opening
+          - PROP_2020_02_introduction
+          - MOSCO_2016_02_welcome
+          - MOSCO_2016_23_future-issues-the-analysis-of-behaviour
+          - >-
+            collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
+          - netboards
+          - socioscope
+          - 10_Lahlou
+          - ai-and-science-in-eu-concept-note
+          - 4-1999-la-france-dans-la-tempete
+          - 1-crise-sanitaire-covid19
+          - 2-crise-economique-inegalites
+          - 4-histoire-des-pandemies
+          - 3-crise-migratoire-du-global-au-local
+          - 1-0-0-lahlou-intro-session-livres
+          - 0-1-wprn21-welcome-conference
+          - 9-0-wprn21-closing-panel
+        value: >-
+          Institut d'études avancées de Paris, France / London School of
+          Economics, United Kingdom
+  - author: Simone Bateman-Novaes
+    authorDoc: content/authors/b/bateman-novaes-simone.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/b/bateman-novaes-simone
+    institutions:
+      - articles:
+          - BIOET_2020_5_Gametes
+        value: CNRS / Université Paris Descartes / EHESS / INSERM, France
+  - author: Pierre Pénet
+    authorDoc: content/authors/p/penet-pierre.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/p/penet-pierre
+    institutions:
+      - articles:
+          - PROP_2020_02_introduction
+          - PROP_2020_06_discussion
+          - >-
+            odious-debt-in-the-21st-century-from-despotic-regimes-to-predatory-creditors
+        value: >-
+          Université de Genève, Suisse / Institut d'études avancées de Paris,
+          France
+  - author: Maria Teresa Zanola
+    authorDoc: content/authors/z/zanola-maria-teresa.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/z/zanola-maria-teresa
+    institutions:
+      - articles:
+          - 2-2-4_Zanola
+        value: >-
+          Conseil Européen pour les Langues / European Language Council
+          (CEL/ELC), Austria
+  - author: Marie Personnaz
+    authorDoc: content/authors/p/personnaz-marie.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/p/personnaz-marie
+    institutions:
+      - articles:
+          - MOSCO_2016_13_de-la-polarisation-a-la-radicalisation
+        value: >-
+          Paris Ouest Nanterre-la Défense University / Centre Edgar Morin IIAC
+          EHESS-CNRS, France
+  - author: Babette Gekeler
+    authorDoc: content/authors/g/gekeler-babette.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/g/gekeler-babette
+    institutions:
+      - articles:
+          - >-
+            MOSCO_2016_14_understanding-complexity-in-social-engagement-with-multiculturalism
+        value: >-
+          Institute for Medical Psychology / Charité University Hospitals,
+          Germany
+  - author: Béatrice Hibou
+    authorDoc: content/authors/h/hibou-beatrice.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/h/hibou-beatrice
+    institutions:
+      - articles:
+          - INTEL_2022_11_une-droitisation-des-espaces-politiques_table-ronde
+        value: CNRS / Sciences Po, CERI, France
+  - author: Marie Degremont
+    authorDoc: content/authors/d/degremont-marie.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/d/degremont-marie
+    institutions:
+      - articles:
+          - >-
+            EneTran_2016_06_comment-les-collectivites-territoriales-francaises-se-saisissent-elles-du-theme-de-la-transition-energetique
+        value: Sciences Po / CSO, France
+  - author: Pauline Gabillet
+    authorDoc: content/authors/g/gabillet-pauline.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/g/gabillet-pauline
+    institutions:
+      - articles:
+          - >-
+            EneTran_2016_07_les-entreprises-locales-de-distribution-bras-armes-des-politiques-energetiques-territoriales
+        value: >-
+          Laboratoire Techniques Territoires et Societes (LATTS) / Université
+          Gustave Eiffel, France
+  - author: Thomas Reverdy
+    authorDoc: content/authors/r/reverdy-thomas.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
+    institutions:
+      - articles:
+          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
+        value: PACTE / Université de Grenoble, France
+  - author: Olivier Coutard
+    authorDoc: content/authors/c/coutard-olivier.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/c/coutard-olivier
+    institutions:
+      - articles:
+          - EneTran_2016_09_politiques-urbaines-de-transition-energetique
+        value: CNRS, LATTS / Université Gustave Eiffel, France
+  - author: Itzhak Fried
+    authorDoc: content/authors/f/fried-itzhak.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/f/fried-itzhak
+    institutions:
+      - articles:
+          - SLEEP_2019_03_introduction
+          - >-
+            SLEEP_2019_06_enhancing-human-memory-from-single-neurons-to-neuromodulation
+          - SynE1_2015_02_what-is-syndrome-e
+          - the-brains-that-pull-the-triggers_2_what-is-syndrome-e
+          - SynE3_2017_02_Introduction
+          - >-
+            SynE3_2017_17_roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
+          - SynE2_2016_01_program-2nd-conference
+          - SynE2_2016_02_an-ordinary-guy-with-a-kalashnikov
+          - >-
+            collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
+        value: UCLA, USA / University of Tel-Aviv, Israël
+      - articles:
+          - SynE1_2015_02_what-is-syndrome-e
+          - SLEEP_2019_03_introduction
+          - >-
+            SLEEP_2019_06_enhancing-human-memory-from-single-neurons-to-neuromodulation
+          - the-brains-that-pull-the-triggers_2_what-is-syndrome-e
+          - SynE3_2017_02_Introduction
+          - >-
+            SynE3_2017_17_roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
+          - SynE2_2016_01_program-2nd-conference
+          - SynE2_2016_02_an-ordinary-guy-with-a-kalashnikov
+          - >-
+            collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
+        value: UCLA, USA / Université de Tel-Aviv, Israël
+  - author: Jacques Semelin
+    authorDoc: content/authors/s/semelin-jacques.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/s/semelin-jacques
+    institutions:
+      - articles:
+          - SynE1_2015_05_analysing-massacre
+        value: CNRS  / Sciences Po, France
 conflicts:
-  - id:
-      firstname: Saadi
-      lastname: Lahlou
-    institution: Paris Institute for Advanced Study, France
-    key: institution
-    next: Paris Institute for Advanced Study, France
-    positions: []
-    prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: Saadi
-      lastname: Lahlou
-    institution: Institut d'études avancées de Paris, France
-    key: institution
-    next: Institut d'études avancées de Paris, France
-    positions: []
-    prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: Saadi
-      lastname: Lahlou
-    institution: Institut d'études avancées de Paris, France
-    key: institution
-    next: Institut d'études avancées de Paris, France
-    positions: []
-    prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: Saadi
-      lastname: Lahlou
-    institution: Institut d'études avancées de Paris, France
-    key: institution
-    next: Institut d'études avancées de Paris, France
-    positions: []
-    prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: Saadi
-      lastname: Lahlou
-    institution: Institut d'études avancées de Paris, France
-    key: institution
-    next: Institut d'études avancées de Paris, France
-    positions: []
-    prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: Najat
-      lastname: Vallaud-Belkacem
-    institution: ONG ONE, France
-    key: institution
-    next: ONG ONE, France
-    positions: []
-    prev: Ministère des Droits des femmes, France
-  - id:
-      firstname: Saadi
-      lastname: Lahlou
-    institution: Institut d'études avancées de Paris
-    key: institution
-    next: Institut d'études avancées de Paris
-    positions:
-      - ''
-    prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: Saadi
-      lastname: Lahlou
-    institution: London School of Economics
-    key: institution
-    next: London School of Economics
-    prev: Paris Institute of advanced study
-  - id:
-      firstname: Mark
-      lastname: Pelling
-    institution: King's College London, United Kingdom
-    key: institution
-    next: King's College London, United Kingdom
-    positions:
-      - ''
-    prev: King's College London
-  - id:
-      firstname: Stéphane
-      lastname: Hallegatte
-    institution: World Bank,  USA
-    key: institution
-    next: World Bank,  USA
-    positions:
-      - Economist
-    prev: World Bank
-  - id:
-      firstname: Julie
-      lastname: Rozenberg
-    institution: World Bank, USA
-    key: institution
-    next: World Bank, USA
-    positions:
-      - Senior Economist
-    prev: World Bank, Switzerland
-  - id:
-      firstname: 'Marc  '
-      lastname: Vuillet
-    institution: EIVP, Lab'Urba, France
-    key: institution
-    next: EIVP, Lab'Urba, France
-    positions:
-      - ''
-    prev: EIVP, Lab’Urba, France
-  - id:
-      firstname: Saadi
-      lastname: Lahlou
-    institution: >-
-      Institut d'études avancées de Paris, France / London School of Economics,
-      United Kingdom
-    key: institution
-    next: >-
-      Institut d'études avancées de Paris, France / London School of Economics,
-      United Kingdom
-    positions:
-      - ''
-    prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: 'Bettina '
-      lastname: Laville
-    institution: Institut d'études de Paris, France
-    key: institution
-    next: Institut d'études de Paris, France
-    positions: []
-    prev: Comité 21, France
-  - id:
-      firstname: Saadi
-      lastname: Lahlou
-    institution: Paris Institute for Advanced Study
-    key: institution
-    next: Paris Institute for Advanced Study
-    positions:
-      - Director
-    prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: Saadi
-      lastname: Lahlou
-    institution: London School of Economics
-    key: institution
-    next: London School of Economics
-    positions:
-      - Professor
-    prev: Paris Institute of advanced study
-  - id:
-      firstname: 'Saadi '
-      lastname: Lahlou
-    institution: IEA de Paris, France
-    key: institution
-    next: IEA de Paris, France
-    positions:
-      - ''
-    prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: 'Pierre '
-      lastname: Pénet
-    institution: Université de Genève, Suisse / Institut d'études avancées de Paris, France
-    key: institution
-    next: Université de Genève, Suisse / Institut d'études avancées de Paris, France
-    positions:
-      - ''
-    prev: Université de Genève, Suisse / Institut d’études avancées de Paris, France
-  - id:
-      firstname: 'Pierre '
-      lastname: Pénet
-    institution: Université de Genève, Suisse / Institut d'études avancées de Paris, France
-    key: institution
-    next: Université de Genève, Suisse / Institut d'études avancées de Paris, France
-    positions:
-      - ''
-    prev: Université de Genève, Suisse / Institut d’études avancées de Paris, France
-  - id:
-      firstname: Alan
-      lastname: James
-    institution: King's College London
-    key: institution
-    next: King's College London
-    positions:
-      - Reader in International History in the Department of War Studies
-    prev: King’s College London
-  - id:
-      firstname: Atrina
-      lastname: Oraee
-    institution: IAS PARIS
-    key: institution
-    next: IAS PARIS
-    positions:
-      - writer
-    prev: McGill University
-  - id:
-      firstname: Helga
-      lastname: Nowotny
-    institution: 'ERC Scientific Council '
-    key: institution
-    next: 'ERC Scientific Council '
-    positions: []
-    prev: ETH Zurich, Switzerland
-  - id:
-      firstname: Marc
-      lastname: Vanholsbeeck
-    institution: >-
-      Service général de l'enseignement supérieur et de la recherche
-      scientifique, Ministère de la Fédération Wallonie- Bruxelles , Belgique
-    key: institution
-    next: >-
-      Service général de l'enseignement supérieur et de la recherche
-      scientifique, Ministère de la Fédération Wallonie- Bruxelles , Belgique
-    positions: []
-    prev: >-
-      Service général de l’enseignement supérieur et de la recherche
-      scientifique, Ministère de la Fédération Wallonie- Bruxelles , Belgique
-  - id:
-      firstname: Emanuel
-      lastname: Kulczycki
-    institution: Ministry of Education and Science, Poland
-    key: institution
-    next: Ministry of Education and Science, Poland
-    positions: []
-    prev: Adam Mickiewicz University in Poznan, Poland
-  - id:
-      firstname: Saadi
-      lastname: Lahlou
-    institution: Paris Institute for Advanced Study
-    key: institution
-    next: Paris Institute for Advanced Study
-    positions:
-      - Director
-    prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: Saadi
-      lastname: Lahlou
-    institution: London School of Economics
-    key: institution
-    next: London School of Economics
-    positions:
-      - Professor
-    prev: Paris Institute of advanced study
-  - id:
-      firstname: Olivier
-      lastname: Bouin
-    institution: Foundation-Excellence Laboratory RFIEA
-    key: institution
-    next: Foundation-Excellence Laboratory RFIEA
-    positions:
-      - Director
-    prev: RFIEA-NETIAS, France
-  - id:
-      firstname: Olivier
-      lastname: Bouin
-    institution: ' EASSH (European Alliance for Social Sciences and Humanities)'
-    key: institution
-    next: ' EASSH (European Alliance for Social Sciences and Humanities)'
-    positions:
-      - President-elect of the Governing Board
-    prev: RFIEA Foundation, France
-  - id:
-      firstname: Raouf
-      lastname: Boucekkine
-    institution: Rennes School of Business
-    key: institution
-    next: Rennes School of Business
-    positions:
-      - Professor of economics and finance
-    prev: Aix-Marseille School of Economics, France
-  - id:
-      firstname: Itzhak
-      lastname: Fried
-    institution: University of California, Los Angeles (UCLA)
-    key: institution
-    next: University of California, Los Angeles (UCLA)
-    positions:
-      - Department of Neurosurgery
-    prev: UCLA, USA / Université de Tel-Aviv, Israël
-  - id:
-      firstname: Helga
-      lastname: Nowotny
-    institution: ETH Zurich
-    key: institution
-    next: ETH Zurich
-    positions: []
-    prev: ETH Zurich, Switzerland
-  - id:
-      firstname: Saadi
-      lastname: Lahlou
-    institution: Paris Institute For Advanced Study
-    key: institution
-    next: Paris Institute For Advanced Study
-    positions:
-      - Director
-    prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: Helga
-      lastname: Nowotny
-    institution: Complexity Science Hub
-    key: institution
-    next: Complexity Science Hub
-    positions:
-      - Chair of the Science Advisory Board & Strategic Advisory Board
-    prev: ETH Zurich, Switzerland
-  - id:
-      firstname: Paulius
-      lastname: Yamin
-    institution: Paris Institute For Advanced Study
-    key: institution
-    next: Paris Institute For Advanced Study
-    positions:
-      - Scientific Director
-    prev: University of Pennsylvania, USA
-  - id:
-      firstname: Saadi
-      lastname: Lahlou
-    institution: Paris Institute For Advanced Study
-    key: institution
-    next: Paris Institute For Advanced Study
-    positions:
-      - Director
-    prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: Olivier
-      lastname: Bouin
-    institution: Réseau Français des Instituts d'Études Avancées
-    key: institution
-    next: Réseau Français des Instituts d'Études Avancées
-    positions:
-      - Director
-    prev: RFIEA-NETIAS, France
-  - id:
-      firstname: Paulius
-      lastname: Yamin
-    institution: Paris Institute For Advanced Study
-    key: institution
-    next: Paris Institute For Advanced Study
-    positions:
-      - Scientific Director
-    prev: University of Pennsylvania, USA
-  - id:
-      firstname: Helga
-      lastname: Nowotny
-    institution: Complexity Science Hub
-    key: institution
-    next: Complexity Science Hub
-    positions:
-      - Chair of the Science Advisory Board & Strategic Advisory Board
-    prev: ETH Zurich, Switzerland
-  - id:
-      firstname: 'Gretty '
-      lastname: 'Mirdal '
-    institution: Paris IAS, France
-    key: institution
-    next: Paris IAS, France
-    positions:
-      - ''
-    prev: Paris Institute for Advanced Study
-  - id:
-      firstname: ' Saadi'
-      lastname: Lahlou
-    institution: Paris Institute for Advanced Study, France
-    key: institution
-    next: Paris Institute for Advanced Study, France
-    prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: ' Saadi'
-      lastname: Lahlou
-    institution: London School of Economics, United Kingdom
-    key: institution
-    next: London School of Economics, United Kingdom
-    positions:
-      - ''
-    prev: Paris Institute of advanced study
-  - id:
-      firstname: 'Saadi '
-      lastname: Lahlou
-    institution: London School of Economics, United Kingdom
-    key: institution
-    next: London School of Economics, United Kingdom
-    positions:
-      - ''
-    prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: Simon
-      lastname: Luck
-    institution: Paris Institute for Advanced Study, France
-    key: institution
-    next: Paris Institute for Advanced Study, France
-    positions:
-      - ''
-    prev: Paris Institute for Advanced Study
-  - id:
-      firstname: 'Sara '
-      lastname: Guindani
-    institution: FMSH - Collège d'études mondiales, France
-    key: institution
-    next: FMSH - Collège d'études mondiales, France
-    positions:
-      - ''
-    prev: FMSH - Collège d’études mondiales, France
-  - id:
-      firstname: 'Sara '
-      lastname: 'Guindani '
-    institution: FMSH-Collège d'études mondiales, France
-    key: institution
-    next: FMSH-Collège d'études mondiales, France
-    positions: []
-    prev: FMSH - Collège d’études mondiales, France
-  - id:
-      firstname: 'Olaf '
-      lastname: 'Blanke '
-    institution: École polytechnique fédérale de Lausanne, Switzerland
-    key: institution
-    next: École polytechnique fédérale de Lausanne, Switzerland
-    positions:
-      - ''
-    prev: École polytechnique Lausanne, Switzerland
-  - id:
-      firstname: Aron
-      lastname: Buzogany
-    institution: BOKU Vienna, Austria
-    key: institution
-    next: BOKU Vienna, Austria
-    positions:
-      - ''
-    prev: BOKU Vienna
-  - id:
-      firstname: Chloé
-      lastname: Kattar
-    institution: EUME - Berlin, Germany
-    key: institution
-    next: EUME - Berlin, Germany
-    positions:
-      - ''
-    prev: EUME - Berlin
-  - id:
-      firstname: Valentin
-      lastname: Behr
-    institution: Paris Institute for Advanced Study, France
-    key: institution
-    next: Paris Institute for Advanced Study, France
-    prev: Institut d'études avancées de Paris, France
-  - id:
-      firstname: Jérôme
-      lastname: Pacouret
-    institution: CESSP-CNRS, France
-    key: institution
-    next: CESSP-CNRS, France
-    positions:
-      - ''
-    prev: CESSP
-  - id:
-      firstname: Bruno
-      lastname: Ronchi
-    institution: Université Rennes 1, France
-    key: institution
-    next: Université Rennes 1, France
-    positions:
-      - ''
-    prev: Université Rennes 1
-  - id:
-      firstname: 'Jeremy '
-      lastname: Moss
-    institution: University of New South Wales, Australia
-    key: institution
-    next: University of New South Wales, Australia
-    positions:
-      - ''
-    prev: University of New South Wales, Sydney, Australia
-  - id:
-      firstname: 'Darrel '
-      lastname: 'Moellendorf '
-    institution: Goethe Universität, Francfort, Germany
-    key: institution
-    next: Goethe Universität, Francfort, Germany
-    prev: Goethe University, Frankfurt, Germany
-  - id:
-      firstname: 'Larry '
-      lastname: 'Reynolds '
-    institution: John-F.-Kennedy Institut, Freie Universität Berlin, Germany
-    key: institution
-    next: John-F.-Kennedy Institut, Freie Universität Berlin, Germany
-    prev: IEA de Paris, France
-  - id:
-      firstname: 'Fabian '
-      lastname: 'Schuppert '
-    institution: Queen's University Belfast, Northern Ireland.
-    key: institution
-    next: Queen's University Belfast, Northern Ireland.
-    prev: Queen’s University Belfast, Northern Ireland
-  - id:
-      firstname: 'Gordon '
-      lastname: Walker
-    institution: Lancaster University, United Kingdom
-    key: institution
-    next: Lancaster University, United Kingdom
-    prev: University of Lancaster, United Kingdom
-  - id:
-      firstname: 'Fabian '
-      lastname: Schuppert
-    institution: 'Queen''s University Belfast, Northern Ireland '
-    key: institution
-    next: 'Queen''s University Belfast, Northern Ireland '
-    prev: Queen’s University Belfast, Northern Ireland
-  - id:
-      firstname: 'Larry '
-      lastname: Reynolds
-    institution: Paris Institute for Advanced Studies, France
-    key: institution
-    next: Paris Institute for Advanced Studies, France
-    prev: IEA de Paris, France
-  - id:
-      firstname: 'Larry '
-      lastname: Reynolds
-    institution: 'John-F.-Kennedy Institut, Freie Universität Berlin, Germany '
-    key: institution
-    next: 'John-F.-Kennedy Institut, Freie Universität Berlin, Germany '
-    prev: Paris Institute for Advanced Studies, France
-  - id:
-      firstname: 'Gordon '
-      lastname: Walker
-    institution: Lancaster Environment Centre, Lancaster University, United Kingdom
-    key: institution
-    next: Lancaster Environment Centre, Lancaster University, United Kingdom
-    prev: University of Lancaster, United Kingdom
-  - id:
-      firstname: 'Conrad '
-      lastname: Kunze
-    institution: Helmholtz Centre for Environmental Research – UFZ, Germany
-    key: institution
-    next: Helmholtz Centre for Environmental Research – UFZ, Germany
-    prev: Helmholtz Centre for Environmental Research – UFZ, Leipzig, Germany
-  - id:
-      firstname: Élise
-      lastname: Tancoigne
-    institution: Université de Lausanne, Suisse
-    key: institution
-    next: Université de Lausanne, Suisse
-    positions: []
-    prev: Université de Lausanne, Switzerland
-  - id:
-      firstname: Helga
-      lastname: Nowotny
-    institution: European Research Council
-    key: institution
-    next: European Research Council
-    positions:
-      - Former President
-    prev: ETH Zurich, Switzerland
-  - id:
-      firstname: Patrick
-      lastname: Haggard
-    institution: 'Institute of Cognitive Neuroscience, University College London '
-    key: institution
-    next: 'Institute of Cognitive Neuroscience, University College London '
-    positions: []
-    prev: University College London, United Kingdom
-  - id:
-      firstname: Vladimir
-      lastname: Safatle
-    institution: University of São Paulo
-    key: institution
-    next: University of São Paulo
-    positions: []
-    prev: Université de São Paulo, Brésil
-  - id:
-      firstname: 'Leslie-Anne '
-      lastname: Duvic-Paoli
-    institution: The Dickson Poon School of Law, King's College London
-    key: institution
-    next: The Dickson Poon School of Law, King's College London
-    positions: []
-    prev: The Dickson Poon School of Law, King’s College London
-  - id:
-      firstname: Andrea
-      lastname: Pinotti
-    institution: Università degli Studi di Milano
-    key: institution
-    next: Università degli Studi di Milano
-    positions: []
-    prev: Università Statale di Milano, Italy
-  - id:
-      firstname: Angelo
-      lastname: Torre
-    institution: Paris Institute for Advanced Study
-    key: institution
-    next: Paris Institute for Advanced Study
-    positions: []
-    prev: Université du Piémont Oriental
-  - id:
-      firstname: Jonathan
-      lastname: Glasser
-    institution: Department of Anthropology, William & Mary
-    key: institution
-    next: Department of Anthropology, William & Mary
-    positions: []
-    prev: Université William & Mary, US
-  - id:
-      firstname: Jean
-      lastname: Decety
-    institution: >-
-      Department of Psychology and the Department of Psychiatry and Behavioral
-      Neuroscience, The University of Chicago
-    key: institution
-    next: >-
-      Department of Psychology and the Department of Psychiatry and Behavioral
-      Neuroscience, The University of Chicago
-    positions: []
-    prev: The University of Chicago, USA
-  - id:
-      firstname: Enrique
-      lastname: Fatas
-    institution: Behavioral Economics Institute
-    key: institution
-    next: Behavioral Economics Institute
-    positions: []
-    prev: University of Pennsylvania, USA
-  - id:
-      firstname: Vladimir
-      lastname: Safatle
-    institution: Universidade de São Paulo
-    key: institution
-    next: Universidade de São Paulo
-    positions:
-      - Full Professor of Philosophy and Psychology
-    prev: Université de São Paulo, Brésil
-  - id:
-      firstname: Pierre
-      lastname: Pénet
-    institution: CNRS
-    key: institution
-    next: CNRS
-    positions:
-      - Research Fellow
-    prev: Université de Genève, Suisse / Institut d’études avancées de Paris, France
-  - id:
-      firstname: Pierre
-      lastname: Pénet
-    institution: 'ENS Paris-Saclay '
-    key: institution
-    next: 'ENS Paris-Saclay '
-    positions:
-      - Professeur attaché
-    prev: Professeur attaché
-  - id:
-      firstname: Martin
-      lastname: Stokhof
-    institution: ILLC/Department of Philosophy, University of Amsterdam
-    key: institution
-    next: ILLC/Department of Philosophy, University of Amsterdam
-    positions: []
-    prev: LLC/Department of Philosophy, University of Amsterdam
-  - id:
-      firstname: Chiara
-      lastname: Cappelletto
-    institution: University of Milan
-    key: institution
-    next: University of Milan
-    positions: []
-    prev: Università Statale di Milano, Italy
-  - id:
-      firstname: Gretty
-      lastname: Mirdal
-    institution: Paris Institute for Advanced Study, France
-    key: institution
-    next: Paris Institute for Advanced Study, France
-    positions:
-      - ''
-    prev: Paris Institute for Advanced Study
-  - id:
-      firstname: Itzhak
-      lastname: Fried
-    institution: UCLA, USA / University of Tel-Aviv, Israël
-    key: institution
-    next: UCLA, USA / University of Tel-Aviv, Israël
-    positions:
-      - ''
-    prev: UCLA, USA / Université de Tel-Aviv, Israël
-  - id:
-      firstname: Michael
-      lastname: Zugaro
-    institution: CNRS - Collège de France, France
-    key: institution
-    next: CNRS - Collège de France, France
-    positions:
-      - ''
-    prev: CNRS - Collège de France
-  - id:
-      firstname: Itzhak
-      lastname: Fried
-    institution: UCLA, USA / University of Tel-Aviv, Israël
-    key: institution
-    next: UCLA, USA / University of Tel-Aviv, Israël
-    positions:
-      - ''
-    prev: UCLA, USA / Université de Tel-Aviv, Israël
-  - id:
-      firstname: Marie
-      lastname: Lacroix
-    institution: CNRS - ESPCI Paris Tech - Cog'X, France
-    key: institution
-    next: CNRS - ESPCI Paris Tech - Cog'X, France
-    positions:
-      - ''
-    prev: CNRS - ESPCI Paris Tech - Cog'X
-  - id:
-      firstname: Mark
-      lastname: Blagrove
-    institution: Swansea University, United Kingdom
-    key: institution
-    next: Swansea University, United Kingdom
-    positions:
-      - ''
-    prev: Swansea University
-  - id:
-      firstname: Francesca
-      lastname: Siclari
-    institution: University of lausanne - CHUV, Switzerland
-    key: institution
-    next: University of lausanne - CHUV, Switzerland
-    positions:
-      - ''
-    prev: University of lausanne - CHUV
-  - id:
-      firstname: Mark
-      lastname: Blagrove
-    institution: Swansea University, United Kingdom
-    key: institution
-    next: Swansea University, United Kingdom
-    positions:
-      - ''
-    prev: Swansea University
-  - id:
-      firstname: Julia
-      lastname: Lockheart
-    institution: Swansea University, United Kingdom
-    key: institution
-    next: Swansea University, United Kingdom
-    positions:
-      - ''
-    prev: Swansea University
-  - id:
-      firstname: Antonio
-      lastname: Perciaccante
-    institution: Goriza Hospital, Italy
-    key: institution
-    next: Goriza Hospital, Italy
-    positions:
-      - ''
-    prev: Goriza Hospital
-  - id:
-      firstname: Eus
-      lastname: Van Someren
-    institution: Netherlands Institute for Neuroscience, Netherlands
-    key: institution
-    next: Netherlands Institute for Neuroscience, Netherlands
-    positions:
-      - ''
-    prev: Netherlands Institute for Neuroscience
-  - id:
-      firstname: Géraldine
-      lastname: Rauchs
-    institution: Inserm - Université de Caen, France
-    key: institution
-    next: Inserm - Université de Caen, France
-    positions:
-      - ''
-    prev: Inserm - Université de Caen
-  - id:
-      firstname: 'Larry '
-      lastname: Reynolds
-    institution: Paris Institute for Advanced Study, France
-    key: institution
-    next: Paris Institute for Advanced Study, France
-    positions:
-      - ''
-    prev: IEA de Paris, France
-  - id:
-      firstname: 'Pauline '
-      lastname: Gabillet
-    institution: >-
-      Laboratoire Techniques Territoires et Societes (LATTS) / Université
-      Gustave Eiffel, France
-    key: institution
-    next: >-
-      Laboratoire Techniques Territoires et Societes (LATTS) / Université
-      Gustave Eiffel, France
-    positions:
-      - ''
-    prev: LATTS / Université Gustave Eiffel, France
-  - id:
-      firstname: 'Mel '
-      lastname: Slater
-    institution: Universtity of Barcelona, Spain
-    key: institution
-    next: Universtity of Barcelona, Spain
-    positions:
-      - ''
-    prev: University of Barcelona, Spain
-  - google_scholar: https://scholar.google.com/citations?user=5gGSgcUAAAAJ&hl=fr
-    id:
-      firstname: 'Mel '
-      lastname: Slater
-    key: linkedin
-    linkedin: >-
-      https://es.linkedin.com/in/mel-slater-491a07108?original_referer=https%3A%2F%2Fwww.google.com%2F
-    next: >-
-      https://es.linkedin.com/in/mel-slater-491a07108?original_referer=https%3A%2F%2Fwww.google.com%2F
-    prev: https://es.linkedin.com/in/mel-slater-491a07108
-    researchgate: https://www.researchgate.net/profile/Mel-Slater
-    twitter: '@melslater'
-    website: http://www.melslater.me/
-  - id:
-      firstname: Saadi
-      lastname: Lahlou
-    institution: Paris Institute for Advanced Study
-    key: institution
-    next: Paris Institute for Advanced Study
-    prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: Saadi
-      lastname: Lahlou
-    institution: London School of Economics and Political Science , United Kingdom
-    key: institution
-    next: London School of Economics and Political Science , United Kingdom
-    prev: London School Of Economics, United Kingdom
-  - id:
-      firstname: Saadi
-      lastname: Lahlou
-    institution: Paris Institute for Advanced Study, France
-    key: institution
-    next: Paris Institute for Advanced Study, France
-    positions:
-      - Director
-    prev: Paris Institute of advanced study
-  - id:
-      firstname: Saadi
-      lastname: Lahlou
-    key: orcid
-    next: '0000-0001-8114-7271 '
-    orcid: '0000-0001-8114-7271 '
-    prev: 0000-0002-9070-5009
-  - id:
-      firstname: Olivier
-      lastname: Bouin
-    institution: European Alliance for Social Sciences and Humanities, France
-    key: institution
-    next: European Alliance for Social Sciences and Humanities, France
-    positions: []
-    prev: RFIEA-NETIAS, France
-  - id:
-      firstname: Lasana
-      lastname: Harris
-    institution: University of Leiden,  Netherlands
-    key: institution
-    next: University of Leiden,  Netherlands
-    prev: University of Leiden, Netherlands
-  - id:
-      firstname: Itzhak
-      lastname: Fried
-    institution: Paris Institute for Advanced Study, France
-    key: institution
-    next: Paris Institute for Advanced Study, France
-    prev: UCLA, USA / Université de Tel-Aviv, Israël
-  - id:
-      firstname: Itzhak
-      lastname: Fried
-    institution: University of California Los Angeles, USA
-    key: institution
-    next: University of California Los Angeles, USA
-    prev: Paris Institute for Advanced Study, France
-  - id:
-      firstname: 'Itzhak '
-      lastname: Fried
-    institution: University of California Los Angeles, USA
-    key: institution
-    next: University of California Los Angeles, USA
-    prev: UCLA, USA / Université de Tel-Aviv, Israël
-  - id:
-      firstname: 'Thomas '
-      lastname: Boraud
-    institution: Université de Bordeaux, France
-    key: institution
-    next: Université de Bordeaux, France
-    prev: Université Bordeaux, France
-  - id:
-      firstname: 'Mathias '
-      lastname: Pessiglione
-    institution: Institut du Cerveau et de la Moelle épinière (ICM), France
-    key: institution
-    next: Institut du Cerveau et de la Moelle épinière (ICM), France
-    prev: "Institut du Cerveau\_et de la Moelle épinière (ICM), France"
-  - google_scholar: >-
-      https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
-    id:
-      firstname: 'Etienne '
-      lastname: Koechlin
-    key: google_scholar
-    linkedin: https://fr.linkedin.com/in/etienne-koechlin-76476439
-    next: >-
-      https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
-    prev: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
-    researchgate: https://www.researchgate.net/profile/Etienne-Koechlin
-    twitter: '@KoechlinE'
-  - id:
-      firstname: 'Patrick '
-      lastname: Haggard
-    institution: University College of London (UCL), United Kingdom
-    key: institution
-    next: University College of London (UCL), United Kingdom
-    positions:
-      - ''
-    prev: University College London, United Kingdom
-  - articles:
-      - SynE3_2017_11_plasticity-of-empathy-and-prosocial-motivation
-    firstname: 'Tania '
-    id:
-      firstname: 'Tania '
-      lastname: Singer
-    is_institution: false
-    issue:
-      - content/issues/brains-that-pull-the-triggers.md
-    key: lastname
-    language:
-      - English
-    lastname: Singer
-    next: Singer
-    positions_and_institutions:
-      - institution: Max Planck Institute for Human cognitive and Brain Sciences
-        positions:
-          - ''
-    prev: SINGER
-    social_channels:
-      google_scholar: https://scholar.google.com/citations?user=9m42c2cAAAAJ&hl=en
-      linkedin: https://de.linkedin.com/in/prof-dr-tania-singer-a3b3b5190
-      orcid: 0000-0002-4438-5374
-      researchgate: https://www.researchgate.net/profile/Tania-Singer
-      website: https://taniasinger.de/
-      wikipedia: https://en.wikipedia.org/wiki/Tania_Singer
-    years:
-      - 2017
-  - articles:
-      - SynE3_2017_12_brains-on-drugs
-    firstname: 'Norman '
-    id:
-      firstname: 'Norman '
-      lastname: Ohler
-    is_institution: false
-    issue:
-      - content/issues/brains-that-pull-the-triggers.md
-    key: lastname
-    language:
-      - English
-    lastname: Ohler
-    next: Ohler
-    positions_and_institutions:
-      - institution: Germany
-        positions:
-          - ''
-    prev: OHLER
-    social_channels:
-      linkedin: https://de.linkedin.com/in/norman-ohler-63377b82
-      twitter: '@normanohler'
-      wikipedia: https://en.wikipedia.org/wiki/Norman_Ohler
-    years:
-      - 2017
-  - id:
-      firstname: 'Gretty '
-      lastname: Mirdal
-    institution: Paris IAS, France
-    key: institution
-    next: Paris IAS, France
-    prev: Paris Institute for Advanced Study
-  - articles:
-      - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
-    firstname: Norman
-    id:
-      firstname: Norman
-      lastname: ' Ohler'
-    is_institution: false
-    issue:
-      - content/issues/brains-that-pull-the-triggers.md
-    key: lastname
-    language:
-      - English
-    lastname: ' Ohler'
-    next: ' Ohler'
-    positions_and_institutions:
-      - institution: Germany
-    prev: OHLER
-    years:
-      - 2017
-  - articles:
-      - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
-    firstname: 'Abram '
-    id:
-      firstname: 'Abram '
-      lastname: de Swaan
-    issue:
-      - content/issues/brains-that-pull-the-triggers.md
-    key: lastname
-    language:
-      - English
-    lastname: de Swaan
-    next: de Swaan
-    positions_and_institutions:
-      - institution: University of Amsterdam, Netherlands
-    prev: De Swaan
-    years:
-      - 2017
-  - id:
-      firstname: ' Etienne '
-      lastname: Koechlin
-    institution: Ecole Normale Supérieure Paris, France
-    key: institution
-    next: Ecole Normale Supérieure Paris, France
-    positions:
-      - ''
-    prev: ENS Paris, France
-  - articles:
-      - >-
-        SynE3_2017_17_roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
-    firstname: 'Tania '
-    id:
-      firstname: 'Tania '
-      lastname: Singer
-    issue:
-      - content/issues/brains-that-pull-the-triggers.md
-    key: lastname
-    language:
-      - English
-    lastname: Singer
-    next: Singer
-    positions_and_institutions:
-      - institution: Max Planck Institute for Human cognitive and Brain Sciences, Germany
-    prev: SINGER
-    years:
-      - 2017
-  - id:
-      firstname: 'Tania '
-      lastname: Singer
-    institution: Max Planck Institute for Human cognitive and Brain Sciences, Germany
-    key: institution
-    next: Max Planck Institute for Human cognitive and Brain Sciences, Germany
-    prev: Max Planck Institute for Human cognitive and Brain Sciences
-  - id:
-      firstname: Concetta
-      lastname: Papapicco
-    institution: University of Bari "Aldo Moro", Italy
-    key: institution
-    next: University of Bari "Aldo Moro", Italy
-    positions: []
-    prev: University of Bari “Aldo Moro”, Italy
-createdAt: '2026-5-30 15:52:57'
+  - author: Mel Slater
+    authorDoc: content/authors/s/slater-mel.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/s/slater-mel
+    field: linkedin
+    values:
+      - articles: []
+        value: https://es.linkedin.com/in/mel-slater-491a07108
+      - articles: []
+        value: >-
+          https://es.linkedin.com/in/mel-slater-491a07108?original_referer=https%3A%2F%2Fwww.google.com%2F
+  - author: Saadi Lahlou
+    authorDoc: content/authors/l/lahlou-saadi.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
+    field: orcid
+    values:
+      - articles: []
+        value: 0000-0002-9070-5009
+      - articles: []
+        value: 0000-0001-8114-7271
+  - author: Etienne Koechlin
+    authorDoc: content/authors/k/koechlin-etienne.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/k/koechlin-etienne
+    field: google_scholar
+    values:
+      - articles: []
+        value: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
+      - articles: []
+        value: >-
+          https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
+  - author: Tania Singer
+    authorDoc: content/authors/s/singer-tania.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/s/singer-tania
+    field: lastname
+    values:
+      - articles: []
+        value: SINGER
+      - articles:
+          - SynE3_2017_11_plasticity-of-empathy-and-prosocial-motivation
+          - >-
+            SynE3_2017_17_roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
+        value: Singer
+  - author: Norman Ohler
+    authorDoc: content/authors/o/ohler-norman.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/o/ohler-norman
+    field: lastname
+    values:
+      - articles: []
+        value: OHLER
+      - articles:
+          - SynE3_2017_12_brains-on-drugs
+          - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
+        value: Ohler
+  - author: Abram de Swaan
+    authorDoc: content/authors/d/de-swaan-abram.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/d/de-swaan-abram
+    field: lastname
+    values:
+      - articles: []
+        value: De Swaan
+      - articles:
+          - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
+        value: de Swaan
+createdAt: 2026-5-31 16:47:5
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
@@ -1539,5 +731,87 @@ missingReferences:
     - (Miller & Sanjuro, 2018)
     - (Briggs & Briggs, 2024)
     - (for an overview, see Gigerenzer, 2008)
+spellingVariants:
+  - author: Saadi Lahlou
+    authorDoc: content/authors/l/lahlou-saadi.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
+    kept: Institut d'études avancées de Paris, France
+    variants:
+      - Institut d'études avancées de Paris
+  - author: Saadi Lahlou
+    authorDoc: content/authors/l/lahlou-saadi.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
+    kept: >-
+      Institut d'études avancées de Paris, France / London School of Economics,
+      United Kingdom
+    variants:
+      - Institut d'études avancées de Paris, France
+  - author: Saadi Lahlou
+    authorDoc: content/authors/l/lahlou-saadi.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
+    kept: Paris Institute for Advanced Study
+    variants:
+      - Paris Institute for Advanced Study, France
+      - Paris Institute For Advanced Study
+  - author: Saadi Lahlou
+    authorDoc: content/authors/l/lahlou-saadi.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
+    kept: London School of Economics
+    variants:
+      - London School of Economics, United Kingdom
+      - London School of Economics and Political Science , United Kingdom
+  - author: Sara Guindani
+    authorDoc: content/authors/g/guindani-sara.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/g/guindani-sara
+    kept: FMSH - Collège d'études mondiales, France
+    variants:
+      - FMSH-Collège d'études mondiales, France
+  - author: Fabian Schuppert
+    authorDoc: content/authors/s/schuppert-fabian.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/s/schuppert-fabian
+    kept: Queen's University Belfast, Northern Ireland.
+    variants:
+      - Queen's University Belfast, Northern Ireland
+  - author: Simon Luck
+    authorDoc: content/authors/l/luck-simon.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/l/luck-simon
+    kept: Paris Institute for Advanced Study, France
+    variants:
+      - Paris Institute for Advanced Study
+  - author: Saadi Lahlou
+    authorDoc: content/authors/l/lahlou-saadi.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
+    kept: Paris Institute for Advanced Study, France
+    variants:
+      - Paris Institute for Advanced Study
+  - author: Raouf Boucekkine
+    authorDoc: content/authors/b/boucekkine-raouf.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/b/boucekkine-raouf
+    kept: Rennes School of Business
+    variants:
+      - Rennes School of Business, France
+  - author: Helga Nowotny
+    authorDoc: content/authors/n/nowotny-helga.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/n/nowotny-helga
+    kept: ETH Zurich, Switzerland
+    variants:
+      - ETH Zurich
+  - author: Tania Singer
+    authorDoc: content/authors/s/singer-tania.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/s/singer-tania
+    kept: Max Planck Institute for Human cognitive and Brain Sciences, Germany
+    variants:
+      - Max Planck Institute for Human cognitive and Brain Sciences
 
 ---
