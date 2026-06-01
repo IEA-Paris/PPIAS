@@ -51,6 +51,16 @@ combinedInstitutions:
         value: >-
           Université de Genève, Suisse / Institut d'études avancées de Paris,
           France
+  - author: Maria Teresa Zanola
+    authorDoc: content/authors/z/zanola-maria-teresa.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/z/zanola-maria-teresa
+    institutions:
+      - articles:
+          - 2-2-4_Zanola
+        value: >-
+          Conseil Européen pour les Langues / European Language Council
+          (CEL/ELC), Austria
   - author: Marie Personnaz
     authorDoc: content/authors/p/personnaz-marie.md
     cmsLink: >-
@@ -72,16 +82,6 @@ combinedInstitutions:
         value: >-
           Institute for Medical Psychology / Charité University Hospitals,
           Germany
-  - author: Maria Teresa Zanola
-    authorDoc: content/authors/z/zanola-maria-teresa.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/z/zanola-maria-teresa
-    institutions:
-      - articles:
-          - 2-2-4_Zanola
-        value: >-
-          Conseil Européen pour les Langues / European Language Council
-          (CEL/ELC), Austria
   - author: Béatrice Hibou
     authorDoc: content/authors/h/hibou-beatrice.md
     cmsLink: >-
@@ -123,17 +123,6 @@ combinedInstitutions:
           - >-
             collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
         value: UCLA, USA / Université de Tel-Aviv, Israël
-  - author: Pauline Gabillet
-    authorDoc: content/authors/g/gabillet-pauline.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/g/gabillet-pauline
-    institutions:
-      - articles:
-          - >-
-            EneTran_2016_07_les-entreprises-locales-de-distribution-bras-armes-des-politiques-energetiques-territoriales
-        value: >-
-          Laboratoire Techniques Territoires et Societes (LATTS) / Université
-          Gustave Eiffel, France
   - author: Thomas Reverdy
     authorDoc: content/authors/r/reverdy-thomas.md
     cmsLink: >-
@@ -151,6 +140,17 @@ combinedInstitutions:
           - >-
             EneTran_2016_06_comment-les-collectivites-territoriales-francaises-se-saisissent-elles-du-theme-de-la-transition-energetique
         value: Sciences Po / CSO, France
+  - author: Pauline Gabillet
+    authorDoc: content/authors/g/gabillet-pauline.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/g/gabillet-pauline
+    institutions:
+      - articles:
+          - >-
+            EneTran_2016_07_les-entreprises-locales-de-distribution-bras-armes-des-politiques-energetiques-territoriales
+        value: >-
+          Laboratoire Techniques Territoires et Societes (LATTS) / Université
+          Gustave Eiffel, France
   - author: Olivier Coutard
     authorDoc: content/authors/c/coutard-olivier.md
     cmsLink: >-
@@ -236,7 +236,7 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-createdAt: '2026-6-1 8:52:23'
+createdAt: 2026-6-1 9:8:1
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
