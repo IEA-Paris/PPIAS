@@ -51,16 +51,6 @@ combinedInstitutions:
         value: >-
           Université de Genève, Suisse / Institut d'études avancées de Paris,
           France
-  - author: Maria Teresa Zanola
-    authorDoc: content/authors/z/zanola-maria-teresa.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/z/zanola-maria-teresa
-    institutions:
-      - articles:
-          - 2-2-4_Zanola
-        value: >-
-          Conseil Européen pour les Langues / European Language Council
-          (CEL/ELC), Austria
   - author: Marie Personnaz
     authorDoc: content/authors/p/personnaz-marie.md
     cmsLink: >-
@@ -82,6 +72,16 @@ combinedInstitutions:
         value: >-
           Institute for Medical Psychology / Charité University Hospitals,
           Germany
+  - author: Maria Teresa Zanola
+    authorDoc: content/authors/z/zanola-maria-teresa.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/z/zanola-maria-teresa
+    institutions:
+      - articles:
+          - 2-2-4_Zanola
+        value: >-
+          Conseil Européen pour les Langues / European Language Council
+          (CEL/ELC), Austria
   - author: Béatrice Hibou
     authorDoc: content/authors/h/hibou-beatrice.md
     cmsLink: >-
@@ -90,42 +90,6 @@ combinedInstitutions:
       - articles:
           - INTEL_2022_11_une-droitisation-des-espaces-politiques_table-ronde
         value: CNRS / Sciences Po, CERI, France
-  - author: Marie Degremont
-    authorDoc: content/authors/d/degremont-marie.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/d/degremont-marie
-    institutions:
-      - articles:
-          - >-
-            EneTran_2016_06_comment-les-collectivites-territoriales-francaises-se-saisissent-elles-du-theme-de-la-transition-energetique
-        value: Sciences Po / CSO, France
-  - author: Pauline Gabillet
-    authorDoc: content/authors/g/gabillet-pauline.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/g/gabillet-pauline
-    institutions:
-      - articles:
-          - >-
-            EneTran_2016_07_les-entreprises-locales-de-distribution-bras-armes-des-politiques-energetiques-territoriales
-        value: >-
-          Laboratoire Techniques Territoires et Societes (LATTS) / Université
-          Gustave Eiffel, France
-  - author: Thomas Reverdy
-    authorDoc: content/authors/r/reverdy-thomas.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
-    institutions:
-      - articles:
-          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
-        value: PACTE / Université de Grenoble, France
-  - author: Olivier Coutard
-    authorDoc: content/authors/c/coutard-olivier.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/c/coutard-olivier
-    institutions:
-      - articles:
-          - EneTran_2016_09_politiques-urbaines-de-transition-energetique
-        value: CNRS, LATTS / Université Gustave Eiffel, France
   - author: Itzhak Fried
     authorDoc: content/authors/f/fried-itzhak.md
     cmsLink: >-
@@ -159,6 +123,42 @@ combinedInstitutions:
           - >-
             collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
         value: UCLA, USA / Université de Tel-Aviv, Israël
+  - author: Pauline Gabillet
+    authorDoc: content/authors/g/gabillet-pauline.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/g/gabillet-pauline
+    institutions:
+      - articles:
+          - >-
+            EneTran_2016_07_les-entreprises-locales-de-distribution-bras-armes-des-politiques-energetiques-territoriales
+        value: >-
+          Laboratoire Techniques Territoires et Societes (LATTS) / Université
+          Gustave Eiffel, France
+  - author: Thomas Reverdy
+    authorDoc: content/authors/r/reverdy-thomas.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
+    institutions:
+      - articles:
+          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
+        value: PACTE / Université de Grenoble, France
+  - author: Marie Degremont
+    authorDoc: content/authors/d/degremont-marie.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/d/degremont-marie
+    institutions:
+      - articles:
+          - >-
+            EneTran_2016_06_comment-les-collectivites-territoriales-francaises-se-saisissent-elles-du-theme-de-la-transition-energetique
+        value: Sciences Po / CSO, France
+  - author: Olivier Coutard
+    authorDoc: content/authors/c/coutard-olivier.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/c/coutard-olivier
+    institutions:
+      - articles:
+          - EneTran_2016_09_politiques-urbaines-de-transition-energetique
+        value: CNRS, LATTS / Université Gustave Eiffel, France
   - author: Jacques Semelin
     authorDoc: content/authors/s/semelin-jacques.md
     cmsLink: >-
@@ -236,7 +236,7 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-createdAt: 2026-5-31 16:47:5
+createdAt: '2026-6-1 8:52:23'
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
@@ -253,7 +253,6 @@ missingReferences:
     - '@latour'
   3_Saura_1:
     - (Interview to Aaron Cicourel, 2014)
-    - (Interview to Cicourel, Muntanyola-Saura, 2015)
   4_Saura_2:
     - (in interview, 2015
     - (distributed attention, Muntanyola-Saura, 2015
@@ -306,9 +305,6 @@ missingReferences:
     - (The Economist, 2023
     - '@nowotny2021ab'
   an-intellectual-history-of-the-libet-experiment-embedding-the-neuroscience-of-free-will:
-    - >-
-      Many people have helped with this research.  The idea for the paper is a
-      direct result of a series of lunch meetings with Michael Pauen, 2022
     - (Ward, 1886)
     - '@titchener1908aM'
     - (Ach, 1905)
@@ -379,10 +375,7 @@ missingReferences:
     - (Richards & van Zeben, 2023)
   cyber-theo-reflections-on-the-theological-roots-of-contemporary-digital-technologies:
     - (Braudel, 1958)
-    - (Weber, 1919
-    - (Schmitt, 1922
     - (Gauchet, 1985
-    - (Benjamin, 1999
     - (Belting, 1990
     - Belting, 2001)
     - (Oettermann, 1980)
@@ -591,8 +584,8 @@ missingReferences:
     - (HereAfter AI, 2023)
     - Milan & Treré, 2019)
     - (Schwartz, 1998)
-    - (in Schwartz, 1998
     - (Schwartz, 1998
+    - (in Schwartz, 1998
     - (Chambers, 1971
     - (Romanska, 2005
     - (Lehman, 1996
@@ -670,7 +663,6 @@ missingReferences:
     - (Costello et al., 2021)
     - (Chritcher et al., 2013)
   the-re-doing-of-the-i-face-bond-bodies-prostheses-and-affordances:
-    - Stanley Kubrick, 2001
     - (Gallagher et al., 2018)
     - (Gallese & Cuccio, 2015)
     - (Bréedart et al., 2006
