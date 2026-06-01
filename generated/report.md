@@ -61,27 +61,6 @@ combinedInstitutions:
         value: >-
           Conseil Européen pour les Langues / European Language Council
           (CEL/ELC), Austria
-  - author: Marie Personnaz
-    authorDoc: content/authors/p/personnaz-marie.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/p/personnaz-marie
-    institutions:
-      - articles:
-          - MOSCO_2016_13_de-la-polarisation-a-la-radicalisation
-        value: >-
-          Paris Ouest Nanterre-la Défense University / Centre Edgar Morin IIAC
-          EHESS-CNRS, France
-  - author: Babette Gekeler
-    authorDoc: content/authors/g/gekeler-babette.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/g/gekeler-babette
-    institutions:
-      - articles:
-          - >-
-            MOSCO_2016_14_understanding-complexity-in-social-engagement-with-multiculturalism
-        value: >-
-          Institute for Medical Psychology / Charité University Hospitals,
-          Germany
   - author: Béatrice Hibou
     authorDoc: content/authors/h/hibou-beatrice.md
     cmsLink: >-
@@ -159,6 +138,27 @@ combinedInstitutions:
       - articles:
           - EneTran_2016_09_politiques-urbaines-de-transition-energetique
         value: CNRS, LATTS / Université Gustave Eiffel, France
+  - author: Marie Personnaz
+    authorDoc: content/authors/p/personnaz-marie.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/p/personnaz-marie
+    institutions:
+      - articles:
+          - MOSCO_2016_13_de-la-polarisation-a-la-radicalisation
+        value: >-
+          Paris Ouest Nanterre-la Défense University / Centre Edgar Morin IIAC
+          EHESS-CNRS, France
+  - author: Babette Gekeler
+    authorDoc: content/authors/g/gekeler-babette.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/g/gekeler-babette
+    institutions:
+      - articles:
+          - >-
+            MOSCO_2016_14_understanding-complexity-in-social-engagement-with-multiculturalism
+        value: >-
+          Institute for Medical Psychology / Charité University Hospitals,
+          Germany
   - author: Jacques Semelin
     authorDoc: content/authors/s/semelin-jacques.md
     cmsLink: >-
@@ -189,6 +189,29 @@ conflicts:
         value: 0000-0002-9070-5009
       - articles: []
         value: 0000-0001-8114-7271
+  - author: Etienne Koechlin
+    authorDoc: content/authors/k/koechlin-etienne.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/k/koechlin-etienne
+    field: google_scholar
+    values:
+      - articles: []
+        value: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
+      - articles: []
+        value: >-
+          https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
+  - author: Norman Ohler
+    authorDoc: content/authors/o/ohler-norman.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/o/ohler-norman
+    field: lastname
+    values:
+      - articles: []
+        value: OHLER
+      - articles:
+          - SynE3_2017_12_brains-on-drugs
+          - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
+        value: Ohler
   - author: Tania Singer
     authorDoc: content/authors/s/singer-tania.md
     cmsLink: >-
@@ -202,18 +225,6 @@ conflicts:
           - >-
             SynE3_2017_17_roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
         value: Singer
-  - author: Norman Ohler
-    authorDoc: content/authors/o/ohler-norman.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/o/ohler-norman
-    field: lastname
-    values:
-      - articles: []
-        value: OHLER
-      - articles:
-          - SynE3_2017_12_brains-on-drugs
-          - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
-        value: Ohler
   - author: Abram de Swaan
     authorDoc: content/authors/d/de-swaan-abram.md
     cmsLink: >-
@@ -225,18 +236,7 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-  - author: Etienne Koechlin
-    authorDoc: content/authors/k/koechlin-etienne.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/k/koechlin-etienne
-    field: google_scholar
-    values:
-      - articles: []
-        value: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
-      - articles: []
-        value: >-
-          https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
-createdAt: 2026-6-1 10:1:24
+createdAt: '2026-6-1 10:30:29'
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
@@ -748,14 +748,6 @@ spellingVariants:
     variants:
       - Paris Institute for Advanced Study, France
       - Paris Institute For Advanced Study
-  - author: Saadi Lahlou
-    authorDoc: content/authors/l/lahlou-saadi.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
-    kept: London School of Economics
-    variants:
-      - London School of Economics, United Kingdom
-      - London School of Economics and Political Science , United Kingdom
   - author: Sara Guindani
     authorDoc: content/authors/g/guindani-sara.md
     cmsLink: >-
@@ -784,6 +776,14 @@ spellingVariants:
     kept: Paris Institute for Advanced Study, France
     variants:
       - Paris Institute for Advanced Study
+  - author: Saadi Lahlou
+    authorDoc: content/authors/l/lahlou-saadi.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
+    kept: London School of Economics
+    variants:
+      - London School of Economics and Political Science , United Kingdom
+      - London School of Economics, United Kingdom
   - author: Raouf Boucekkine
     authorDoc: content/authors/b/boucekkine-raouf.md
     cmsLink: >-
