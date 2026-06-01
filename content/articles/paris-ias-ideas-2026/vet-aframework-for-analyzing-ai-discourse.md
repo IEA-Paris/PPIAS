@@ -1,18 +1,8 @@
 ---
-DOI: 10.5281/zenodo.20441584
-Zid: 20441584
-abstract: >-
-  Public discourse on AI has become polarized; exaggerated positions on AI in
-  traditional and social media threaten the development of AI Literacy among the
-  general public. In this article, I introduce the VET Framework, a method for
-  categorizing AI discourse along the dimensions of valence, effectiveness, and
-  trajectory. I show how this framework can be used to identify, compare, and
-  critique prevalent narratives of AI Hype, AI Doom, AI Denial, and AI Normalcy.
-  Using VET, I analyze how each of these four stances exaggerates some aspects
-  of the current state and/or likely evolution of modern AI, and illustrate how
-  the VET framework can serve as an AI Literacy tool by supporting the “vetting”
-  of polarized AI discourse.
-article_title: 'VET: A Framework for Analyzing AI Discourse'
+published: true
+article_title: "VET: A Framework for Analyzing AI Discourse"
+date: 2026-05-28T14:40:00.000Z
+needDOI: true
 authors:
   - firstname: Meredith Ringel
     is_institution: false
@@ -23,25 +13,34 @@ authors:
       - institution: The Information School University of Washington
         positions: []
     social_channels:
-      google_scholar: ''
-      linkedin: ''
-      mendeley: ''
-      orcid: ''
-      researchgate: ''
-      website: ''
-      webstwitterite: ''
-      wikipedia: ''
-bibliography: /vet-aframework-for-analyzing-ai-discourse/example_paper.bib
-custom_pdf: fzefr
-date: 2026-05-28T14:40:00.000Z
+      google_scholar: ""
+      linkedin: ""
+      mendeley: ""
+      orcid: ""
+      researchgate: ""
+      website: ""
+      webstwitterite: ""
+      wikipedia: ""
+custom_pdf: /vet-a-framework-for-analyzing-ai-discourse/paris_ias_morris_vet_framework.pdf
+abstract: Public discourse on AI has become polarized; exaggerated positions on
+  AI in traditional and social media threaten the development of AI Literacy
+  among the general public. In this article, I introduce the VET Framework, a
+  method for categorizing AI discourse along the dimensions of valence,
+  effectiveness, and trajectory. I show how this framework can be used to
+  identify, compare, and critique prevalent narratives of AI Hype, AI Doom, AI
+  Denial, and AI Normalcy. Using VET, I analyze how each of these four stances
+  exaggerates some aspects of the current state and/or likely evolution of
+  modern AI, and illustrate how the VET framework can serve as an AI Literacy
+  tool by supporting the “vetting” of polarized AI discourse.
 highlight: false
+bibliography: /vet-aframework-for-analyzing-ai-discourse/example_paper.bib
+Zid: 20441584
 issue: content/issues/paris-ias-ideas-2026.md
 language: English
 links:
   bucket: https://zenodo.org/api/files/7bacb3a3-1cd9-4b91-87db-5c8de484ea83
-needDOI: true
-published: false
 type: article
+DOI: 10.5281/zenodo.20441584
 ---
 
 ## 1. Introduction
