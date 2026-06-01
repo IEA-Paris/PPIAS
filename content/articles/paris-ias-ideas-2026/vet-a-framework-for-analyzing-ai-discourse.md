@@ -21,7 +21,7 @@ authors:
       website: ""
       webstwitterite: ""
       wikipedia: ""
-custom_pdf: /vet-a-framework-for-analyzing-ai-discourse/Paris_IAS_Morris_VET_Framework.pdf
+custom_pdf: /vet-a-framework-for-analyzing-ai-discourse/paris_ias_morris_vet_framework.pdf
 abstract: Public discourse on AI has become polarized; exaggerated positions on
   AI in traditional and social media threaten the development of AI Literacy
   among the general public. In this article, I introduce the VET Framework, a
