@@ -28,4 +28,4 @@ The Paris Institute for Advanced Study (IAS) processes your personal data in the
 
 ## Cookies
 
-We don't use cookies on our website. We don't use any third-party services or analytics tools that use cookies either. We don't use any advertising tools whether they use cookies or not.
+We don't use cookies on our website except for one to remember your preferred user interface language in your current browser. We don't use any third-party services or analytics tools that use cookies either, except for the OpenStreetMap widget present in our website footer. We don't use any advertising tools whether they use cookies or not.
