@@ -132,14 +132,6 @@ combinedInstitutions:
           - >-
             EneTran_2016_06_comment-les-collectivites-territoriales-francaises-se-saisissent-elles-du-theme-de-la-transition-energetique
         value: Sciences Po / CSO, France
-  - author: Thomas Reverdy
-    authorDoc: content/authors/r/reverdy-thomas.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
-    institutions:
-      - articles:
-          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
-        value: PACTE / Université de Grenoble, France
   - author: Pauline Gabillet
     authorDoc: content/authors/g/gabillet-pauline.md
     cmsLink: >-
@@ -151,6 +143,14 @@ combinedInstitutions:
         value: >-
           Laboratoire Techniques Territoires et Societes (LATTS) / Université
           Gustave Eiffel, France
+  - author: Thomas Reverdy
+    authorDoc: content/authors/r/reverdy-thomas.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
+    institutions:
+      - articles:
+          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
+        value: PACTE / Université de Grenoble, France
   - author: Olivier Coutard
     authorDoc: content/authors/c/coutard-olivier.md
     cmsLink: >-
@@ -236,7 +236,7 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-createdAt: 2026-6-2 13:2:43
+createdAt: '2026-6-2 13:52:11'
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
@@ -577,6 +577,66 @@ missingReferences:
     - (Popkin, 1994)
     - Torkal et al., 2025)
     - Hamidi, 2010 )
+  people-who-aren-t-really-there-as-a-field-of-enquiry:
+    - (Lankenau, 1998)
+    - (Honneth, 1995)
+    - (Herzog, 2020
+    - '@goffman1963ab'
+    - Ambrosini, 2013
+    - Jinnah, 2017
+    - Pugh, 2021
+    - Pugliese, 2009
+    - Villegas, 2010)
+    - (Brekhus, 2003
+    - Caballero, 2023
+    - Camminga, 2020
+    - Gormally, 2009
+    - Muhammed, 2023
+    - Siqueira, 2004
+    - (Breeden, 2021
+    - (Hendricks & Hunter, 2019
+    - (Constable, 2007
+    - Ehrenreich & Hochschild, 2002)
+    - Medeiros, 2021
+    - (Gardner, 2016
+    - also Borges, 1988
+    - Thurlow, 2020)
+    - also Angelelli, 2004
+    - Torikai, 2009)
+    - (Bosch, 2022
+    - May, 1953
+    - Scully & van Schendelen, 2023)
+    - (Biagioli, 2002
+    - Borghi, 2022
+    - Csiszar, 2016
+    - (Abagnale, 1980
+    - Baden-Powell, 2005
+    - de Seta, 2018
+    - Herzog, 2020, p. 126
+    - Li, 2020
+    - McKinley & Rojas, 2016
+    - Rimes, 2022
+    - Vigne, 1982)
+    - Magnet & Rodgers, 2012
+    - Zuboff, 2019)
+    - (e.g., Dotson, 2011
+    - MacKinnon, 1996
+    - Maitra, 2004
+    - Spivak, 1988)
+    - (Robinson, 2012)
+    - (Charlton, 2019)
+    - (Herzog, 2020)
+    - (Spivak, 1988)
+    - (Jones, 2012)
+    - (Pugh, 2021)
+    - (Sözer, 2014
+    - (Gavra, 2024)
+    - (Lewis, 2019)
+    - '@goffman1963aa'
+    - also Citton, 2017
+    - (Manning & Massumi, 2104
+    - (l, 2017
+    - (Papadoupolous & Tsianos, 2007
   reconciliation-acts-towards-a-new-theory-of-reconciliation-in-the-wake-of-violence:
     - Bloomfield et al., 2003)
     - (e.g., Mannergren Selimovic, 2019

@@ -9,7 +9,7 @@ issue:
   - content/issues/biens-communus.md
 language:
   - French
-lastname: Poivre d’Arvor
+lastname: Poivre d'Arvor
 picture: ''
 picture_copyright: ''
 positions_and_institutions:

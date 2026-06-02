@@ -1,40 +1,47 @@
 ---
-published: true
+DOI: 10.5281/zenodo.20510991
+Zid: 20510991
+abstract: >-
+  This paper argues that sociologist Erving Goffman’s concept “non-person”
+  should be expanded to denote a broad field of inquiry. It proposes that
+  “non-person” be re-considered as “people who aren’t really there”, and it
+  suggests that looking carefully at people who aren’t really there draws
+  together insights about invisibility, silence, and ignorance that otherwise
+  tend to be discussed separately or in piecemeal fashion. In this sense, people
+  who aren’t really there offer a coherent field of study. Bringing together
+  examples of people who both want to be imperceptible and who do not want to be
+  imperceptible reveals crucial dynamics involving power, vulnerability, agency,
+  desire, and subjectivity.
 article_title: People Who Aren’t Really There as a Field of Enquiry
-date: 2026-05-29T09:10:00.000-05:00
-type: article
-needDOI: true
 authors:
-  - is_institution: false
-    firstname: Don
+  - firstname: Don
+    is_institution: false
     lastname: Kulick
     positions_and_institutions:
       - institution: Uppsala University
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: This paper argues that sociologist Erving Goffman’s concept
-  “non-person” should be expanded to denote a broad field of inquiry. It
-  proposes that “non-person” be re-considered as “people who aren’t really
-  there”, and it suggests that looking carefully at people who aren’t really
-  there draws together insights about invisibility, silence, and ignorance that
-  otherwise tend to be discussed separately or in piecemeal fashion. In this
-  sense, people who aren’t really there offer a coherent field of study.
-  Bringing together examples of people who both want to be imperceptible and who
-  do not want to be imperceptible reveals crucial dynamics involving power,
-  vulnerability, agency, desire, and subjectivity.
-issue: content/issues/paris-ias-ideas-2026.md
-highlight: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /people-who-aren-t-really-there-as-a-field-of-enquiry/references_kulick.bib
+date: 2026-05-29T14:10:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/797a160d-dd35-4147-b202-8ce116fffdee
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## Acknowledgements
 
 I acknowledge with thanks the European Research Council (ERC) for funding the research project "Out of Sight" with an Advanced Grant (﻿project nr. 101141787). This article was begun during a visiting professorship at Divine Word University (DWU) in Madang, Papua New Guinea, and completed during my one-month writing fellowship at the Institut d'Études Avancées de Paris (IAS). I thank DWU for hosting me, I thank my colleague Simo Vehmas for nominating me for the IAS fellowship, and I am very grateful to the IAS for hosting me and feeding me so well. I am also grateful to the fellows I met at IAS for invigorating conversations, with special thanks to two of my fellow fellows, Nada Moumtaz and Lisa Richaud, who gave me helpful literature tips. I gratefully acknowledge my ERC research team – Ana Chiritoiu, Catie Gressier, Mats Hyvönen, Maria Karlsson, Mahmoud Keshavarz, Janny Leung, Sharon Rider, and Måns Wrange – for discussion, literature suggestions, and helpful criticisms of earlier versions of this text. The opening two paragraphs were written by Anyssa Neumann, a concert pianist with vast personal experience of page-turners, as part of an earlier iteration of the ERC grant I currently am leading. The description is so perfect that I only changed a few words, and I use it here with permission. The rest of this text is mine, with all the attendant caveats about oversights and errors.
