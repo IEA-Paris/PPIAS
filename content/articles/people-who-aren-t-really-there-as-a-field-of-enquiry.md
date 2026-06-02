@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: People Who Aren’t Really There as a Field of Enquiry
 date: 2026-05-29T09:10:00.000-05:00
 type: article
@@ -360,5 +360,4 @@ The *materiality* of page-turners' presence: their dark clothing, their short 
 These are all questions raised implicitly or explicitly whenever people who aren't really there are discussed in academic literature and popular and fictional representations. My suggestion is to see those questions as constituting a coherent field of study, and using a focus on people who aren't really there to articulate them, refine them, and answer them in ways that can mobilize complexities and comparisons. And in doing so, to reveal something fundamental about social life.
 
 [^1]: Actors might be thought to illustrate this, but because everyone is aware that actors are pretending, they are very much the focus of attention *as actors* ("What I do", actor Ian McKellan deadpans in an episode of the television series *Extras*, in which he explains the art of acting, "is I pretend to be the person I am portraying in the film or the play", Hunt 2017:184) .The tension between an actor's real-life persona and the role they portray (Ian McKellan as an actor playing Gandalf the wizard, for example) is a highly salient feature of the craft. The entertainment value of acting depends on the fact that actors don't hide themselves when they work; on the contrary, they offer themselves on display, as spectacle, and invite evaluation and criticism of their impersonation, which also is influenced by other roles they have performed and are known to viewers.
-
-[^2]: https://www.youtube.com/watch?v=LWqFaGwNCMU
+[^2]:  https://www.youtube.com/watch?v=LWqFaGwNCMU
