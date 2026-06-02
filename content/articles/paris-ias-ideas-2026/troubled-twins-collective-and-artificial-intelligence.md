@@ -1,47 +1,54 @@
 ---
-published: true
-article_title: "Troubled Twins: Collective and Artificial Intelligence"
-date: 2026-06-01T15:57:00.000+02:00
-type: article
-needDOI: true
+DOI: 10.5281/zenodo.20510276
+Zid: 20510276
+abstract: >-
+  Troubled Twins explores the fragile codependency between user-generated
+  content platforms, notably Reddit, and contemporary AI models that is creating
+  epistemic feedback loops. AI providers rely heavily on Reddit's human-created
+  datasets to train foundational models and enable autonomous agentic
+  capabilities. The resulting influx of low friction AI content back into these
+  ecosystems threatens the stability of content-creating and curating human
+  online communities. The current AI architectures suffer from a solitary brain
+  fallacy, mistakenly modeling higher-order intelligence on isolated neural
+  systems while ignoring neuroscientific evidence demonstrating irreducible,
+  distinct patterns caused by human dialogue and multi-scale social structures.
+  The epistemic loop risks triggering systemic data degradation and platform
+  collapse. To mitigate these challenges and unlock more complex problem-solving
+  capabilities, shifting toward AI architectures that approximate
+  dialogue-specific neural patterns or adopting decentralized, distributed
+  approaches inspired by group-centric cephalopods, the larger pacific striped
+  octopus, are explored.
+article_title: 'Troubled Twins: Collective and Artificial Intelligence'
 authors:
-  - is_institution: false
-    firstname: Jan
+  - firstname: Jan
+    is_institution: false
     lastname: Eissfeldt
     positions_and_institutions:
       - institution: Santa Fe Institute, Santa Fe, New Mexico, USA
         positions:
           - External Applied Complexity Fellow
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: Troubled Twins explores the fragile codependency between
-  user-generated content platforms, notably Reddit, and contemporary AI models
-  that is creating epistemic feedback loops. AI providers rely heavily on
-  Reddit's human-created datasets to train foundational models and enable
-  autonomous agentic capabilities. The resulting influx of low friction AI
-  content back into these ecosystems threatens the stability of content-creating
-  and curating human online communities. The current AI architectures suffer
-  from a solitary brain fallacy, mistakenly modeling higher-order intelligence
-  on isolated neural systems while ignoring neuroscientific evidence
-  demonstrating irreducible, distinct patterns caused by human dialogue and
-  multi-scale social structures. The epistemic loop risks triggering systemic
-  data degradation and platform collapse. To mitigate these challenges and
-  unlock more complex problem-solving capabilities, shifting toward AI
-  architectures that approximate dialogue-specific neural patterns or adopting
-  decentralized, distributed approaches inspired by group-centric cephalopods,
-  the larger pacific striped octopus, are explored.
-issue: content/issues/paris-ias-ideas-2026.md
-highlight: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /troubled-twins-collective-and-artificial-intelligence/eissfeldt.bib
+date: 2026-06-01T13:57:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/216ae5f4-3c90-4d60-a3c6-4ebb82bebf8e
+needDOI: true
+published: true
+type: article
+
 ---
+
 Being both the cornerstone data set for building AI models from Boston to Beijing and a complex collective intelligence project, Reddit plays an outsized role in shaping the development possibilities of AI models and services and, in turn, is heavily impacted by them. The collaborative platform, mostly curated by self-governing volunteer communities in many languages that partner with the platform provider, Reddit Inc., is using adaptive coordination strategies to navigate the impact of AI model outputs now flooding digital content ecosystems.
 
 In the digital economy, model outputs are competing with academia and journalism for monetizable attention, bringing down the market value of traditional high-quality content. Historically relying on such content Reddit's epistemic ontology of voting on sources is guiding the project's collective peer production of its content. This collective intelligence (CI)-produced content is itself the most widely used high-quality data set to train AI models. The interdependent dynamic has created an epistemic feedback loop between CI and AI, with distinct enabling conditions and impacts across languages.
