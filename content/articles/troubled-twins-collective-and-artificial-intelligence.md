@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "Troubled Twins: Collective and Artificial Intelligence"
 date: 2026-06-01T15:57:00.000+02:00
 type: article
@@ -21,7 +21,22 @@ authors:
       google_scholar: ""
       researchgate: ""
       mendeley: ""
-abstract: "             "
+abstract: Troubled Twins explores the fragile codependency between
+  user-generated content platforms, notably Reddit, and contemporary AI models
+  that is creating epistemic feedback loops. AI providers rely heavily on
+  Reddit's human-created datasets to train foundational models and enable
+  autonomous agentic capabilities. The resulting influx of low friction AI
+  content back into these ecosystems threatens the stability of content-creating
+  and curating human online communities. The current AI architectures suffer
+  from a solitary brain fallacy, mistakenly modeling higher-order intelligence
+  on isolated neural systems while ignoring neuroscientific evidence
+  demonstrating irreducible, distinct patterns caused by human dialogue and
+  multi-scale social structures. The epistemic loop risks triggering systemic
+  data degradation and platform collapse. To mitigate these challenges and
+  unlock more complex problem-solving capabilities, shifting toward AI
+  architectures that approximate dialogue-specific neural patterns or adopting
+  decentralized, distributed approaches inspired by group-centric cephalopods,
+  the larger pacific striped octopus, are explored.
 issue: content/issues/paris-ias-ideas-2026.md
 highlight: false
 bibliography: /troubled-twins-collective-and-artificial-intelligence/eissfeldt.bib
