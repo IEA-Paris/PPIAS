@@ -23,7 +23,25 @@ authors:
       google_scholar: ""
       researchgate: ""
       mendeley: ""
-abstract: "###############"
+abstract: We hear a great deal today about the need to transform global food
+  systems to make them more sustainable and equitable. What we hear less about
+  are the early critiques that emerged in the previous transformation to
+  industrial agriculture in the late 19th and early 20th centuries. The advent
+  of farm mechanization, the synthesis of nitrogen fertilizer, the hybridization
+  of seeds, and the development of chemical pesticides all faced harsh criticism
+  as they were first introduced. This paper explores the early critiques of
+  industrial agriculture, showing that concern about its social and ecological
+  consequences has deep roots. The paper makes the case that the current debate
+  over the future of agriculture can benefit from a deeper appreciation of this
+  earlier history, which demonstrates a continuity regarding some of today’s
+  ideas about what is required for more sustainable and equitable food
+  production. The paper also shows, however, that some of the points raised in
+  earlier critiques have not had the same long-term resonance, in part due to
+  major world events as well as massive changes in landholding patterns, which
+  have changed narratives about industrial agriculture. Moreover, the early
+  critics did not yet fully grasp the power of technological lock-ins, which may
+  help to explain industrial agriculture’s advance over the past century and a
+  half, even in the face of important and popular critiques.
 issue: content/issues/paris-ias-ideas-2026.md
 highlight: false
 bibliography: /early-warnings-on-industrial-agriculture-what-lessons-for-the-next-food-systems-transformation/references_clapp.bib
