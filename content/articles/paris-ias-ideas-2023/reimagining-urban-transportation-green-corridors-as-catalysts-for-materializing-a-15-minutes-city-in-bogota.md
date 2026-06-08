@@ -8,7 +8,7 @@ article_title: >-
   Reimagining Urban Transportation: Green Corridors as Catalysts for
   Materializing a 15-minutes City in Bogota
 authors:
-  - firstname: Juan-Pablo
+  - firstname: Juan Pablo
     is_institution: false
     lastname: Caicedo
     positions_and_institutions:

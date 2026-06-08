@@ -6,7 +6,7 @@ abstract: >-
   par par Bettina Laville, présidente de l'IEA de Paris.
 article_title: Les Bien(s) commun(s), tragédie ou utopie réaliste ?
 authors:
-  - firstname: 'Olivier '
+  - firstname: Olivier
     is_institution: false
     lastname: Poivre d’Arvor
     picture: ''
