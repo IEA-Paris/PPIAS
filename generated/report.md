@@ -123,6 +123,15 @@ combinedInstitutions:
           - >-
             collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
         value: UCLA, USA / Université de Tel-Aviv, Israël
+  - author: Marie Degremont
+    authorDoc: content/authors/d/degremont-marie.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/d/degremont-marie
+    institutions:
+      - articles:
+          - >-
+            EneTran_2016_06_comment-les-collectivites-territoriales-francaises-se-saisissent-elles-du-theme-de-la-transition-energetique
+        value: Sciences Po / CSO, France
   - author: Pauline Gabillet
     authorDoc: content/authors/g/gabillet-pauline.md
     cmsLink: >-
@@ -134,23 +143,6 @@ combinedInstitutions:
         value: >-
           Laboratoire Techniques Territoires et Societes (LATTS) / Université
           Gustave Eiffel, France
-  - author: Marie Degremont
-    authorDoc: content/authors/d/degremont-marie.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/d/degremont-marie
-    institutions:
-      - articles:
-          - >-
-            EneTran_2016_06_comment-les-collectivites-territoriales-francaises-se-saisissent-elles-du-theme-de-la-transition-energetique
-        value: Sciences Po / CSO, France
-  - author: Thomas Reverdy
-    authorDoc: content/authors/r/reverdy-thomas.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
-    institutions:
-      - articles:
-          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
-        value: PACTE / Université de Grenoble, France
   - author: Olivier Coutard
     authorDoc: content/authors/c/coutard-olivier.md
     cmsLink: >-
@@ -159,6 +151,14 @@ combinedInstitutions:
       - articles:
           - EneTran_2016_09_politiques-urbaines-de-transition-energetique
         value: CNRS, LATTS / Université Gustave Eiffel, France
+  - author: Thomas Reverdy
+    authorDoc: content/authors/r/reverdy-thomas.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
+    institutions:
+      - articles:
+          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
+        value: PACTE / Université de Grenoble, France
   - author: Jacques Semelin
     authorDoc: content/authors/s/semelin-jacques.md
     cmsLink: >-
@@ -236,7 +236,7 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-createdAt: 2026-6-2 14:17:4
+createdAt: '2026-6-8 8:14:36'
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
@@ -254,8 +254,8 @@ missingReferences:
   3_Saura_1:
     - (Interview to Aaron Cicourel, 2014)
   4_Saura_2:
-    - (in interview, 2015
-    - (distributed attention, Muntanyola-Saura, 2015
+    - (in interview, 2015a)
+    - (distributed attention, Muntanyola-Saura, 2015b)
   7_Ogien:
     - >-
       (l'anecdote veut que, nouveaux collègues, ils se soient associés pour
@@ -280,19 +280,11 @@ missingReferences:
     - (Everett, Colombatto, Chituc, Brady, & Crockett, 2020)
   Memorandum_04:
     - '@Home'
+    - '@home'
   Our_Microbial_Lives:
     - '"Our Microbial Lives: A Forum Against Eradication", May 27, 2021'
   RN2_omoyakaigo:
     - '@benoit_quanteda'
-  a-behavioral-economics-approach-to-discrimination:
-    - '@aguilar-salamanca2026ab'
-    - '@aguilar-salamanca2026ac'
-    - '@aguilar-salamanca2026aa'
-  a-new-cognitive-ethnography:
-    - '@hutchins1995aa'
-    - '@hutchins1995ab'
-    - '@hutchins2010aa'
-    - '@hutchins2010ab'
   a-place-to-think-in-the-new-information-age:
     - >-
       The proposal, AccelNet Implementation Phase 1: A Network of Networks to
@@ -300,13 +292,10 @@ missingReferences:
       Information Work at the Human-Technology Frontier was submitted to the
       National Science Foundation on December 11, 2023
   ai-and-the-illusion-of-control:
-    - '@nowotny2021aa'
     - (Shanahan, 2022)
     - (The Economist, 2023
-    - '@nowotny2021ab'
   an-intellectual-history-of-the-libet-experiment-embedding-the-neuroscience-of-free-will:
     - (Ward, 1886)
-    - '@titchener1908aM'
     - (Ach, 1905)
     - (Libet et al., 1979)
     - (Beck & Eccles, 1992)
@@ -327,16 +316,11 @@ missingReferences:
     - (Wozniak & MacNeill, 2015
   beyond-the-illusion-of-change-bridging-the-classroom-and-the-workplace-via-processes-of-temporal-re-contextualisation:
     - (Tushman & O'Reilly III, 2007)
-    - '@baldwin2017ab'
     - Tushman & O'Reilly III, 2007)
-    - '@evans2010aa'
-    - '@baldwin2017aa'
     - (Daniels et al., 2007)
     - (Alvesson, 2011)
-    - '@evans2010ab'
     - (Syrek, Weigelt, Peifer, & Antoni, 2016)
     - Malloch et al., 2010)
-    - '@evans2009ab'
     - (Kleinman, 2009)
     - (Meyer et al., 2013)
     - (Ivankova, 2014)
@@ -349,7 +333,6 @@ missingReferences:
       sponsor at the submitting organisation - this was provided by the Global
       Director of Strategy at Forum. The results were announced on August 23rd,
       2019
-    - '@allan2015ab'
     - (e.g. post formal research, 2020
     - '@lse'
     - '@liberare'
@@ -395,15 +378,7 @@ missingReferences:
     - (see contributions in Cury & Roy, 1991
     - Cury and Roy, 1991)
     - Samba & Chaveau, 1990
-    - '@belhabib2014aa'
     - see also contributions in Williams et al., 2005)
-    - '@maris2018ab'
-    - '@coulter2019ac'
-    - '@pauly2016aa'
-    - '@pauly2016ab'
-    - '@coulter2019aa'
-    - '@sumaila2019aa'
-    - '@greer2019aa'
   hamlets-commons-communes-and-charity-in-the-western-alps-biella-and-ossola-16th-19th-centuries:
     - Lascoumes & Zander,  1987
     - (Demélas & Vivier, 2003
@@ -416,7 +391,6 @@ missingReferences:
     - (Morsel, 2018
     - Losaeus, 1601
     - Archives Municipales de Toulouse, 1447
-    - '@torre1985aa'
     - (IGC, 1973
     - AST, 1852)
     - Lorenzetii & Merzario, 2005)
@@ -491,11 +465,10 @@ missingReferences:
       CLUC, Loreglia, b. 69, related to the "compascuo" of Loreglia, Chesio and
       Montebuglio, 1928
   how-can-virtual-reality-be-used-to-study-the-personal-and-collective-future:
-    - '@cole2016aa'
     - (McClure et al., 2025)
     - >-
       (e.g., sounds of voices and cars, 3D-visuals of close and distant objects,
-      see Lenormand et al., 2024
+      see Lenormand et al., 2024b)
     - (prospective memory, Lecouvey et al., 2017)
   human-quest-for-rapture-and-ecstasy:
     - UNDP, 2006)
@@ -535,10 +508,8 @@ missingReferences:
       Socioscope, GovernU and IPSP, which have been operating respectively since
       2020, 2022
   normality-in-the-light-of-madness-applications-of-accompanied-auto-analysis-self-rehabilitation-in-novel-scenarios:
-    - '@fergusson2015aa'
     - (Strauss, 1989
     - Jenkins, 1997)
-    - '@fergusson2015ab'
     - Personal communication, 1997
   odious-debt-in-the-21st-century-from-despotic-regimes-to-predatory-creditors:
     - (Porzecanksi, 2010
@@ -553,9 +524,6 @@ missingReferences:
     - (Rudolph et al., 2025)
     - (Koch & Lupyan, 2025)
     - Lackey & Sosa, 2006)
-    - '@cappelen2018aa'
-    - '@wittgenstein2009aa'
-    - '@wittgenstein2009ab'
   paths-to-recognition-through-politics-in-the-2024-presidential-election-among-young-workers-living-in-and-around-manchester-new-hampshire:
     - Laurinson, 2016)
     - (Maksura, 2024)
@@ -563,8 +531,7 @@ missingReferences:
     - (Dionne & Keeney, 2025)
     - (US Census, 2024)
     - (NHES, 2024)
-    - '@hayward2018ab'
-    - (Hayward, 2016
+    - (Hayward, 2016b)
     - (Asbury-Kimmel, 2025)
     - (e.g., Hillhorst, 2024)
     - (Hillhorst, 2024
@@ -581,7 +548,6 @@ missingReferences:
     - (Lankenau, 1998)
     - (Honneth, 1995)
     - (Herzog, 2020
-    - '@goffman1963ab'
     - Ambrosini, 2013
     - Jinnah, 2017
     - Pugh, 2021
@@ -632,7 +598,6 @@ missingReferences:
     - (Sözer, 2014
     - (Gavra, 2024)
     - (Lewis, 2019)
-    - '@goffman1963aa'
     - also Citton, 2017
     - (Manning & Massumi, 2104
     - (l, 2017
@@ -667,14 +632,11 @@ missingReferences:
       2024)
     - (Chilvers & Kearnes, 2016
     - (von Schomberg, 2011)
-    - '@felt2021aa'
     - (e.g., Alexander & Sanchez, 2018
     - Hawkins & Muecke, 2005
     - (Felt & Davies, 2020)
     - Rubio et al., 2025)
-    - '@horn2025aa'
     - (Tsing, 2025
-    - '@horn2025ab'
   secular-advocacy-religious-women-and-a-new-framework-for-ideas-and-action-challenges-and-possibilities-from-bangladesh:
     - (Jahan, 1995)
     - (Nazneen, 2020)
@@ -688,14 +650,12 @@ missingReferences:
     - (Becker, 1981)
     - (Smith, 1759)
   the-body-in-the-brain-in-the-age-of-the-metaverse:
-    - '@kocur2020aa'
     - >-
       reflection as a divine entity, exemplifying the Proteus Effect–the
       phenomenon whereby individuals' behaviors, attitudes, and self-concept are
       influenced by the characteristics of their embodied virtual
       representation. Inspired by Frisanco et al., 2022
     - Massari et al., 2024
-    - '@mello2022aa'
   the-end-of-normal-times-or-a-new-normal-my-experience-as-the-minister-of-economy-and-innovation-of-the-republic-of-lithuania:
     - >-
       "Liminality", Performascope: Interdisciplinary Lexicon of Performance and
@@ -766,7 +726,6 @@ missingReferences:
     - (Eisenberger & Kanner, 1956)
     - (Pellicano & den Houting, 2021)
     - (Cicchetti & Cohen, 1995)
-    - '@onions2023ab'
     - (APA, 1980)
     - (APA, 1987)
     - (APA, 1994)
