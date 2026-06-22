@@ -123,15 +123,6 @@ combinedInstitutions:
           - >-
             collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
         value: UCLA, USA / Université de Tel-Aviv, Israël
-  - author: Marie Degremont
-    authorDoc: content/authors/d/degremont-marie.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/d/degremont-marie
-    institutions:
-      - articles:
-          - >-
-            EneTran_2016_06_comment-les-collectivites-territoriales-francaises-se-saisissent-elles-du-theme-de-la-transition-energetique
-        value: Sciences Po / CSO, France
   - author: Pauline Gabillet
     authorDoc: content/authors/g/gabillet-pauline.md
     cmsLink: >-
@@ -143,14 +134,15 @@ combinedInstitutions:
         value: >-
           Laboratoire Techniques Territoires et Societes (LATTS) / Université
           Gustave Eiffel, France
-  - author: Olivier Coutard
-    authorDoc: content/authors/c/coutard-olivier.md
+  - author: Marie Degremont
+    authorDoc: content/authors/d/degremont-marie.md
     cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/c/coutard-olivier
+      https://paris.pias.science/admin/#/collections/authors/entries/d/degremont-marie
     institutions:
       - articles:
-          - EneTran_2016_09_politiques-urbaines-de-transition-energetique
-        value: CNRS, LATTS / Université Gustave Eiffel, France
+          - >-
+            EneTran_2016_06_comment-les-collectivites-territoriales-francaises-se-saisissent-elles-du-theme-de-la-transition-energetique
+        value: Sciences Po / CSO, France
   - author: Thomas Reverdy
     authorDoc: content/authors/r/reverdy-thomas.md
     cmsLink: >-
@@ -159,6 +151,14 @@ combinedInstitutions:
       - articles:
           - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
         value: PACTE / Université de Grenoble, France
+  - author: Olivier Coutard
+    authorDoc: content/authors/c/coutard-olivier.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/c/coutard-olivier
+    institutions:
+      - articles:
+          - EneTran_2016_09_politiques-urbaines-de-transition-energetique
+        value: CNRS, LATTS / Université Gustave Eiffel, France
   - author: Jacques Semelin
     authorDoc: content/authors/s/semelin-jacques.md
     cmsLink: >-
@@ -189,17 +189,6 @@ conflicts:
         value: 0000-0002-9070-5009
       - articles: []
         value: 0000-0001-8114-7271
-  - author: Etienne Koechlin
-    authorDoc: content/authors/k/koechlin-etienne.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/k/koechlin-etienne
-    field: google_scholar
-    values:
-      - articles: []
-        value: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
-      - articles: []
-        value: >-
-          https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
   - author: Tania Singer
     authorDoc: content/authors/s/singer-tania.md
     cmsLink: >-
@@ -236,7 +225,18 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-createdAt: '2026-6-8 8:14:36'
+  - author: Etienne Koechlin
+    authorDoc: content/authors/k/koechlin-etienne.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/k/koechlin-etienne
+    field: google_scholar
+    values:
+      - articles: []
+        value: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
+      - articles: []
+        value: >-
+          https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
+createdAt: '2026-6-22 11:29:46'
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
@@ -789,13 +789,6 @@ spellingVariants:
     kept: Queen's University Belfast, Northern Ireland.
     variants:
       - Queen's University Belfast, Northern Ireland
-  - author: Simon Luck
-    authorDoc: content/authors/l/luck-simon.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/l/luck-simon
-    kept: Paris Institute for Advanced Study, France
-    variants:
-      - Paris Institute for Advanced Study
   - author: Saadi Lahlou
     authorDoc: content/authors/l/lahlou-saadi.md
     cmsLink: >-
@@ -817,6 +810,13 @@ spellingVariants:
     kept: ETH Zurich, Switzerland
     variants:
       - ETH Zurich
+  - author: Simon Luck
+    authorDoc: content/authors/l/luck-simon.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/l/luck-simon
+    kept: Paris Institute for Advanced Study, France
+    variants:
+      - Paris Institute for Advanced Study
   - author: Tania Singer
     authorDoc: content/authors/s/singer-tania.md
     cmsLink: >-
