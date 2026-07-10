@@ -169,7 +169,7 @@ The impetus for the experiment mirrors the situation described at the BnF: on th
 
 The MCP experiment, initiated in February 2026, was motivated by the need to respond to the growing demand from agentic chatbots. The objective was to build an MCP server capable of feeding a RAG and GraphRAG platform for both internal and external use (Figure 6), providing researchers with a tool to RAG over their own content, with pre-configured prompts. 
 
-**Figure 6: Demonstration interface of an MCP server application built on Huma-Num resources. \*\*Source: Stéphane Pouyllau.**
+**Figure 6: Demonstration interface of an MCP server application built on Huma-Num resources. Source: Stéphane Pouyllau.**
 
 ![](/agentic-ai-in-data-commons-and-glam-what-role-for-the-model-context-protocol/casemajor_fig6.png)
 
