@@ -175,10 +175,9 @@ The MCP experiment, initiated in February 2026, was motivated by the need to res
 
 The MCP server builds on an existing web portal, an API, and a SPARQL endpoint. Pouyllau describes its organization around three core components (Figure 7): the first is a SPARQL service access tool, exposing the SPARQL endpoint via QLever (input: SPARQL query; output: SPARQL result in JSON or XML format). The second is a knowledge graph structure tool, exposing the SHACL specification of the knowledge graph (input: none; output: a JSON representation of the SHACL specification). The third is a named entity resolution tool, enabling agents to resolve named entities from their labels (input: label to search + entity type). The entire system runs on a lightweight virtual platform with modest resource requirements.
 
-#### Figure 7: Conceptual schema of an MCP server for Isidore resources (Huma-Num LAB). Source: Stéphane Pouyllau.
+**Figure 7: Conceptual schema of an MCP server for Isidore resources (Huma-Num LAB). Source: Stéphane Pouyllau.**
 
-\|  |
-|  | ![](blob:https://euangoddard.github.io/f3e86fc0-7655-4655-aa0a-5f8d988990a7) |
+![](/agentic-ai-in-data-commons-and-glam-what-role-for-the-model-context-protocol/casemajor_fig7.png)
 
 Within a few weeks of implementation, over 7 million documents (through their enriched metadata) were made accessible. Significant effort was invested in mastering the exposition of the knowledge graph structure, including the possibility of exposing rules governing how the model should interpret and use the data. A named entity resolution tool completes the architecture. 
 
