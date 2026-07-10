@@ -143,15 +143,13 @@ Saadé highlighted a key design principle: rather than exposing a large number o
 
 ### French National Library (BnF)
 
-Jean-Philippe Moreux (Head of the AI Mission, BnF) presented the BnF's preliminary experiment connecting Gallica resources to an MCP server. Gallica is the digital library of the BnF, providing free online access to over 10 million digitized documents from the BnF's collections and those of its partners (books, manuscripts, maps, photographs, newspapers, and audiovisual materials), most of which are digital reproductions of works in the public domain. The platform currently serves approximately 50,000 human users per day. For roughly two years, however, Gallica has been subjected to waves of scraping bots -- and outright attacks -- that threaten server stability and periodically block human access to resources. As of June 2026, bots account for 20-25% of the BnF's total bandwidth consumption.
+Jean-Philippe Moreux (Head of the AI Mission, BnF) presented the BnF's preliminary experiment connecting Gallica resources to an MCP server. Gallica is the digital library of the BnF, providing free online access to over 10 million digitized documents from the BnF's collections and those of its partners (books, manuscripts, maps, photographs, newspapers, and audiovisual materials), most of which are digital reproductions of works in the public domain. The platform currently serves approximately 50,000 human users per day. For roughly two years, however, Gallica has been subjected to waves of scraping bots – and outright attacks – that threaten server stability and periodically block human access to resources. As of June 2026, bots account for 20-25% of the BnF's total bandwidth consumption.
 
 A prototype MCP server has been connected to documentary databases (PDF documents, images) as well as descriptive metadata through Gallica's API (REST), providing access to both the resources themselves and the Gallica search engine (Figure 5). 
 
-\*\
+**Figure 5: Conceptual schema of an MCP server for Gallica resources (Bibliothèque nationale de France). Source: Jean-Philippe Moreux.**
 
-* *Figure 5: Conceptual schema of an MCP server for Gallica resources (Bibliothèque nationale de France). Source: Jean-Philippe Moreux.*
-
-![](blob:https://euangoddard.github.io/84a157c4-5475-4700-9a46-8d9b29a39d1a)
+![](/agentic-ai-in-data-commons-and-glam-what-role-for-the-model-context-protocol/casemajor_fig5.png)
 
 Moreux identified four potential benefits of MCP deployment in this context. The first is internal service improvement: an MCP server could serve as an interoperability layer across the BnF's dozens of databases, enabling the creation of new internal services. The planned overhaul of the Gallica search engine represents a timely opportunity to implement such an approach. Given the age and heterogeneity of the BnF's documentary infrastructure -- Gallica is 25 years old, and the general catalogue spans several centuries -- MCP offers a potential tool for making this legacy stack more interoperable.
 
