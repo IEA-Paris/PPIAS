@@ -57,22 +57,19 @@ highlight: false
 bibliography: /agentic-ai-in-data-commons-and-glam-what-role-for-the-model-context-protocol/references_casemajor.bib
 language: English
 ---
-Acknowledgements
+## Acknowledgements
 
 This paper reports on a workshop organized by the authors as part of a research residency held by Nathalie Casemajor at the Paris Institute for Advanced Study, under the Distinguished Fellowship programme developed in partnership with the PostGenAI@Paris initiative (Sorbonne Université). The authors would like to thank all workshop participants for their valuable contributions to the discussions. 
 
 The workshop is part of a broader Franco-Québécois research project, *Digital Commons and AI*, conducted in collaboration with: (*Québec, Canada*) INRS Research Chair on Digital Commons, Centre de recherche interuniversitaire sur les humanités numériques (CRIHN / Interuniversity Research Centre on Digital Humanities), Bibliothèque et Archives nationales du Québec (BAnQ), Wikimedia Canada, University of Ottawa; (*France*): Laboratoire DICEN-IDF (Université Paris Nanterre), Wikimedia France, Laboratoire Théâtres & Médiations Numériques (TMNLab), Délégation générale à la langue française et aux langues de France (DGLFLF, General Delegation for the French Language and Languages of France), Ministry of Culture. With the support of the Consulate General of France in Québec and the Ministère des Relations internationales et de la Francophonie du Québec, through the Commission permanente de coopération franco-québécoise (CPCFQ / Permanent Commission for French-Québec Cooperation).
 
- |
-
-Introduction 
-=============
+## Introduction 
 
 What might the agentic web mean for digital commons and GLAMs (Galleries, Libraries, Archives and Museums)? The agentic web designates an emerging environment in which AI agents autonomously navigate the Web, interact with online services, and collect and synthesize information in order to accomplish complex tasks.
 
 Against this backdrop of a broader paradigm shift in the Web, examining the implications for digital commons and heritage institutions becomes urgent. What infrastructures, interfaces, and regulatory frameworks will be required to absorb the anticipated surge in agent-generated traffic? How might open knowledge projects and heritage institutions contribute to shaping the standards structuring these new forms of interaction? And what synergies could be developed between public institutions and digital commons to collectively address these challenges? To explore these questions, we convened a cross-sectoral and transdisciplinary workshop centered on the MCP protocol as a data representation interface, a data-mining tool, and a lever for regulating access to open resources.
 
-Method: Knowledge Mobilization Workshop
+## Method: Knowledge Mobilization Workshop
 
 The workshop was organized by the authors on June 12, 2026, at the Bibliothèque nationale de France (BnF), as part of a research residency at the Institut d'études avancées de Paris, with support from the PostGenAI@Paris Cluster (Sorbonne Université). It forms part of a broader Franco-Québécois collaborative project, led by the authors, examining digital commons and Web transformations driven by the expansion of AI systems.
 
@@ -80,14 +77,13 @@ Grounded in a partnership-based model of knowledge mobilization and transfer, th
 
 The workshop was organized around three successive moments: a framing session introducing the MCP protocol and its broader implications; case presentations illustrating concrete experimentation with MCP servers; and sector-based roundtables focused on prospective scenario-building and the identification of collective action strategies. The remainder of this paper documents the workshop presentations and key outcomes of the collective discussions, closing with a prospective reflection on research and action priorities for the next phase of the project.
 
-The Agentic Web and Its Consequences for Knowledge Sharing: a Backend Turn
+## The Agentic Web and Its Consequences for Knowledge Sharing: a Backend Turn
 
-The opening presentation, by Raphaël Cousin (Research Engineer, SCAI -- Sorbonne Université), established that LLMs are already exerting a profound impact on the web. Usage is migrating from websites to conversational assistants, a shift exemplified by the decline of Stack Overflow: monthly question volume plummeted following the launch of ChatGPT, accelerating the platform's decline (Orosz, 2025), while ChatGPT reached 900 million weekly active users by February 2026 (Figure 1). This structural shift in web usage patterns points to a critical juncture for data commons and open knowledge infrastructures: adapt to the agentic web or risk the gradual obsolescence that has befallen Stack Overflow.
+The opening presentation, by Raphaël Cousin (Research Engineer, SCAI – Sorbonne Université), established that LLMs are already exerting a profound impact on the web. Usage is migrating from websites to conversational assistants, a shift exemplified by the decline of Stack Overflow: monthly question volume plummeted following the launch of ChatGPT, accelerating the platform's decline (Orosz, 2025), while ChatGPT reached 900 million weekly active users by February 2026 (Figure 1). This structural shift in web usage patterns points to a critical juncture for data commons and open knowledge infrastructures: adapt to the agentic web or risk the gradual obsolescence that has befallen Stack Overflow.
 
-*Figure 1. Evolution of ChatGPT Weekly Active Users. Source: esourcera*
+**Figure 1. Evolution of ChatGPT Weekly Active Users. Source: esourcera**
 
-|  |
-|  | ![](blob:https://euangoddard.github.io/126c78f1-47ad-4190-91bf-dc9bd1115208) |
+![](/agentic-ai-in-data-commons-and-glam-what-role-for-the-model-context-protocol/casemajor_fig1.png)
 
 In practice, Cousin explains, the classic web journey involves querying a search engine and completing an action (e.g., looking up an artist and purchasing a museum ticket) through successive interfaces. In the agentic web, it gives way to a single request sent to an agentic chatbot (an LLM capable of calling and executing tools via an orchestrator), which handles all downstream actions through a unified interface.
 
@@ -95,32 +91,28 @@ This shift reorients attention from the frontend to the backend of the web (Figu
 
 *Figure 2. The Model Context Protocol (MCP) as a backend access layer for agents. Source: Raphaël Cousin.*
 
-|  |
+\|  |
 |  | ![](blob:https://euangoddard.github.io/cdcc0f0a-4fb4-45d2-aa79-9832ab36b5ae) |
 
 Designing tools -- a catalogue, for instance -- suited to agentic chatbots thus means thinking in terms of function-call orchestration for accessing knowledge bases. Within this logic, what becomes critical is the quality of tool descriptions that LLMs can call upon. According to Cousin, it is this description, and this alone, that determines whether a model uses a tool effectively: "what the tool does, when to use it, what it returns". This reorientation carries significant governance implications: for GLAM institutions and data commons, regulating access to knowledge resources in the agentic web requires deliberate attention to backend infrastructure design: automated access architectures, computational rules, tool curation, and the crafting of tool descriptions -- all dimensions that must be explicitly governed, rather than left to crystallize through market-driven defaults if public interest mandates are to be upheld.
 
 The Model Context Protocol (MCP): A New Infrastructure Layer for Agent Access
 
-A key architectural component of agentic systems is Retrieval-Augmented Generation (RAG), which at its core simply relies on a semantic database, as explained by Cousin. Rather than relying solely on knowledge encoded during training, a RAG system dynamically retrieves relevant information at inference[^^[i]^^](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_edn1) time. Documents are segmented into chunks, each transformed into a vector representation (an embedding)[^^[ii]^^](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_edn2) that captures its semantic content. When a query is submitted, it is vectorized in turn, and the passages whose embeddings are closest in semantic space are retrieved -- meaning that a query about a "castle" may surface passages referring to a "medieval fortress," without any exact keyword match. These retrieved chunks are then injected into the LLM's context window, grounding the generated response in specific, retrievable knowledge.
+A key architectural component of agentic systems is Retrieval-Augmented Generation (RAG), which at its core simply relies on a semantic database, as explained by Cousin. Rather than relying solely on knowledge encoded during training, a RAG system dynamically retrieves relevant information at inference[^^\[i]^^](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_edn1) time. Documents are segmented into chunks, each transformed into a vector representation (an embedding)[^^\[ii]^^](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_edn2) that captures its semantic content. When a query is submitted, it is vectorized in turn, and the passages whose embeddings are closest in semantic space are retrieved -- meaning that a query about a "castle" may surface passages referring to a "medieval fortress," without any exact keyword match. These retrieved chunks are then injected into the LLM's context window, grounding the generated response in specific, retrievable knowledge.
 
 Where RAG defines the internal logic of semantic retrieval at inference time, the Model Context Protocol (MCP) governs the standardized interface through which external tools and knowledge bases are exposed to and called by agents. MCP is an open standard introduced by Anthropic in late 2024. It has since been adopted by OpenAI, Google, and others, addressing a key limitation of standalone RAG systems: the absence of a common protocol enabling agents to dynamically discover and call heterogeneous tools and data sources at runtime.
 
 As shown by Cousin in Figure 3, an MCP operates through two interconnected components. On one side, the *host* -- the AI application (e.g., Claude Desktop, a specialized application, or an internal chatbot) -- runs an LLM paired with an MCP client, one per connected server, responsible for discovering available tools and transmitting the model's calls via the JSON-RPC 2.0 protocol. On the other side, the MCP *server* exposes three types of resources to the agent: *tools* (executable actions), *resources* (readable data), and *prompts* (reusable query templates). An MCP server sits atop existing infrastructure, without requiring any modification to the underlying systems -- APIs (REST, SRU, IIIF, or SPARQL), databases, or file systems. 
 
-*\
-*
+\*\
 
-*Figure 3: MCP Components. Source: Raphaël Cousin.*
+* *Figure 3: MCP Components. Source: Raphaël Cousin.*
 
 ![](blob:https://euangoddard.github.io/6c8715fb-fab8-43c6-9b67-02baca61f39b)
 
 An MCP server functions not as a replacement for existing infrastructure, but as an orchestration layer unifying agent access across heterogeneous sources. As Cousin notes, MCP presents a clear scalability advantage: without it, every new agent connecting to every new data source requires a custom-built integration; with MCP, each data source exposes a single server, and every agent connects through a shared protocol. A single server can serve any agent -- whether Claude, ChatGPT, or a custom in-house solution. For example, he explains, a natural language request such as "Find eighteenth-century maps of Paris and retrieve them in high resolution" can be handled by an MCP server exposing three functions: *search_documents* (SRU catalogue query), *retrieve_image* (IIIF high-resolution download), and *read_metadata* (OAI-PMH record retrieval). Crucially, the agent chains these calls autonomously -- querying the catalogue, then retrieving the images, then fetching the metadata -- without any further human instruction. This autonomous sequencing is part of the agent loop.
 
-For GLAM institutions and data commons, this architecture makes it possible to wrap existing resources (collections, metadata, and APIs) into MCP servers, making their knowledge bases directly accessible to many agentic systems[^^[iii]^^](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_edn3). In this context, well-described collections and robust APIs matter more than ever: they are a condition for remaining visible and accessible in the agentic web.
-
-**\
-**
+For GLAM institutions and data commons, this architecture makes it possible to wrap existing resources (collections, metadata, and APIs) into MCP servers, making their knowledge bases directly accessible to many agentic systems[^^\[iii]^^](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_edn3). In this context, well-described collections and robust APIs matter more than ever: they are a condition for remaining visible and accessible in the agentic web.
 
 Uses and Challenges for GLAMS and Data Commons
 
@@ -142,7 +134,7 @@ At the workshop, three further pioneering experiments were presented, covering l
 
 Philippe Saadé (AI/ML Project Manager, Wikimedia Deutschland) presented a case of MCP implementation on Wikidata, initiated in October 2025. Wikidata is a free, collaborative knowledge base maintained by Wikimedia Deutschland. Serving as a centralized data infrastructure for Wikipedia and other Wikimedia projects, it provides structured, multilingual data readable by both humans and machines, and currently contains over 122 million items released under a CC0 license (public domain).
 
-Wikidata is structured around RDF triplets[^^[iv]^^](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_edn4), linking items to one another, to Wikipedia articles, and to external resources across the web. The MCP server exposes three complementary tools through the Wikidata API (Figure 4): graph traversal for navigating the network of linked items, SPARQL for precise structured queries, and a vector database for open-ended semantic search in natural language.
+Wikidata is structured around RDF triplets[^^\[iv]^^](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_edn4), linking items to one another, to Wikipedia articles, and to external resources across the web. The MCP server exposes three complementary tools through the Wikidata API (Figure 4): graph traversal for navigating the network of linked items, SPARQL for precise structured queries, and a vector database for open-ended semantic search in natural language.
 
 *Figure 4: Conceptual schema of an MCP server for Wikidata. Source: Philippe Saadé.*
 
@@ -158,10 +150,9 @@ Jean-Philippe Moreux (Head of the AI Mission, BnF) presented the BnF's prelimina
 
 A prototype MCP server has been connected to documentary databases (PDF documents, images) as well as descriptive metadata through Gallica's API (REST), providing access to both the resources themselves and the Gallica search engine (Figure 5). 
 
-*\
-*
+\*\
 
-*Figure 5: Conceptual schema of an MCP server for Gallica resources (Bibliothèque nationale de France). Source: Jean-Philippe Moreux.*
+* *Figure 5: Conceptual schema of an MCP server for Gallica resources (Bibliothèque nationale de France). Source: Jean-Philippe Moreux.*
 
 ![](blob:https://euangoddard.github.io/84a157c4-5475-4700-9a46-8d9b29a39d1a)
 
@@ -183,7 +174,7 @@ The impetus for the experiment mirrors the situation described at the BnF: on th
 
 The MCP experiment, initiated in February 2026, was motivated by the need to respond to the growing demand from agentic chatbots. The objective was to build an MCP server capable of feeding a RAG and GraphRAG platform for both internal and external use (Figure 6), providing researchers with a tool to RAG over their own content, with pre-configured prompts. 
 
-*Figure 6: Demonstration interface of an MCP server application built on Huma-Num resources. **Source: Stéphane Pouyllau.*
+*Figure 6: Demonstration interface of an MCP server application built on Huma-Num resources. \*\*Source: Stéphane Pouyllau.*
 
 ![](blob:https://euangoddard.github.io/e35dd3a3-ca24-4e50-a30b-b2d4dd1f78b8)
 
@@ -191,7 +182,7 @@ The MCP server builds on an existing web portal, an API, and a SPARQL endpoint. 
 
 #### Figure 7: Conceptual schema of an MCP server for Isidore resources (Huma-Num LAB). Source: Stéphane Pouyllau.
 
-|  |
+\|  |
 |  | ![](blob:https://euangoddard.github.io/f3e86fc0-7655-4655-aa0a-5f8d988990a7) |
 
 Within a few weeks of implementation, over 7 million documents (through their enriched metadata) were made accessible. Significant effort was invested in mastering the exposition of the knowledge graph structure, including the possibility of exposing rules governing how the model should interpret and use the data. A named entity resolution tool completes the architecture. 
@@ -202,12 +193,11 @@ However, the MCP server does not yet address the challenge of traffic surges: wh
 
 These projects demonstrate that MCP adoption is underway among some GLAM institutions and open knowledge organizations, though all remain at an early stage. Two recommendations emerge from these experiments. 
 
-The first is strategic: for organizations with existing API infrastructure, establishing an official MCP presence is a means of ensuring visibility in a rapidly expanding ecosystem. Anyone can develop an MCP server in a matter of hours and connect it to an organization's publicly available API, with no need for authorization from the organization. In the BnF's case, several MCP servers providing access to the Gallica API already exist, developed not by the BnF itself but by external actors[^^[v]^^](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_edn5). This underscores the importance of developing official MCP servers and registering them in recognized MCP directories[^^[vi]^^](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_edn6). This allows both to ensure the quality and accuracy of the tool descriptions that will shape how agents access institutional resources, and to maintain institutional visibility and authority as the space is increasingly populated by third-party actors.
+The first is strategic: for organizations with existing API infrastructure, establishing an official MCP presence is a means of ensuring visibility in a rapidly expanding ecosystem. Anyone can develop an MCP server in a matter of hours and connect it to an organization's publicly available API, with no need for authorization from the organization. In the BnF's case, several MCP servers providing access to the Gallica API already exist, developed not by the BnF itself but by external actors[^^\[v]^^](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_edn5). This underscores the importance of developing official MCP servers and registering them in recognized MCP directories[^^\[vi]^^](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_edn6). This allows both to ensure the quality and accuracy of the tool descriptions that will shape how agents access institutional resources, and to maintain institutional visibility and authority as the space is increasingly populated by third-party actors.
 
-The second is methodological and concerns metrics: tools for evaluating the usage and effectiveness of MCP servers in documentary mediation contexts have yet to be developed. One avenue mentioned in the workshop discussion would be to design user-question benchmarks to assess how MCP servers respond to realistic queries. This would allow organizations to measure the quality of agent-mediated access to their resources. Peyre (2026) suggests that MCP experiments could be evaluated not only in terms of response quality, but also in terms of "the robustness of tool calls, resource selection, execution cost, and the capacity of different models to operate within a bounded documentary scope"[[vii]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_edn7) (2026: 15). A further advantage of MCP, he argues, is its built-in traceability: the query chain preserves a record of every step, making errors visible in the response and correctable through editorial improvements to the catalogue.
+The second is methodological and concerns metrics: tools for evaluating the usage and effectiveness of MCP servers in documentary mediation contexts have yet to be developed. One avenue mentioned in the workshop discussion would be to design user-question benchmarks to assess how MCP servers respond to realistic queries. This would allow organizations to measure the quality of agent-mediated access to their resources. Peyre (2026) suggests that MCP experiments could be evaluated not only in terms of response quality, but also in terms of "the robustness of tool calls, resource selection, execution cost, and the capacity of different models to operate within a bounded documentary scope"[\[vii]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_edn7) (2026: 15). A further advantage of MCP, he argues, is its built-in traceability: the query chain preserves a record of every step, making errors visible in the response and correctable through editorial improvements to the catalogue.
 
-Prospective Scenario-Building: Projections Across Sectors
----------------------------------------------------------
+## Prospective Scenario-Building: Projections Across Sectors
 
 The final part of the workshop took the form of a collective prospective scenario-building exercise. Participants were invited to imagine the impacts of the agentic web and the possible courses of action around MCP across the different culture and knowledge sectors represented at the workshop.
 
@@ -215,7 +205,7 @@ The exercise asked participants to project themselves five years into the future
 
 #### Figure 8: Prospective Scenario Framework: MCP Impact and Institutional Uptake (2031 Horizon). Source: Nathalie Casemajor.
 
-|  |
+\|  |
 |  | ![](blob:https://euangoddard.github.io/47e8c868-d7bb-47bb-b78c-f64cf814003a) |
 
 Participants worked in sector-based tables (museums, libraries, archives, performing arts, free knowledge, open science) identifying potential points of tension and opportunities for development within each scenario configuration.
@@ -272,8 +262,7 @@ The second part of the discussion took a more projective turn. Participants arti
 
 The scenario converged on a political horizon: MCP development governed by ambitious open knowledge policies, protecting open epistemic infrastructures against commercial and ecocidal forms of predation.
 
-Discussion
-==========
+# Discussion
 
 The presentations and exchanges held during the workshop brought out a number of transversal issues regarding MCP's role as a regulatory layer for agentic access, as a mechanism for data representation and contextualization, and as a vector of documentary mediation for non-expert users.
 
@@ -303,14 +292,13 @@ A shared concern across tables was that MCP remains largely unknown among profes
 
 Governance emerged as a structuring question across all tables: who develops, publishes, and maintains MCP servers, and under what authority. A shared concern was that, by default, this role will fall to private actors. Beyond institutional governance, participants raised the governance of the protocol itself. MCP has already evolved through several iterations and will continue to develop. How could it evolve to be adapted to GLAM and data commons uses? RAG and MCP systems were designed for corporate environments, with proprietary, normalized, and homogeneous databases, whereas heritage repositories present fundamentally different conditions. Participants underlined the importance of communicating these stakes to GLAM communities, and of contributing to the design of the protocol itself as a form of governance by design, oriented toward open governance of the agentic web. This is the thrust of Alek Tarkowski's (Open Future Foundation) call for Wikimedia to be granted "a seat at the table" within the Agentic AI Foundation -- whose mission is to govern the open protocols and frameworks underpinning AI development -- in order to represent the interests of the broad knowledge commons (Tarkowski, 2025). This argument could be extended to GLAM networks such as Europeana, suggesting a strategic alliance between knowledge commons and cultural public goods in defending their shared vision and developmental needs for the future of the agentic web.
 
-Conclusion
-==========
+# Conclusion
 
 As a new site of value creation and regulation, the MCP protocol offers institutions an easy-to-deploy and concrete lever for responding to the growth of agentic access. Discussions pointed to the importance of GLAM institutions and open knowledge organizations positioning themselves rapidly. However, MCP deployment may reinforce existing institutional capacity gaps, as it relies on existing API infrastructures and requires the development of new professional competencies. Another risk lies in focusing primarily on agentic users, whereas the development of machine interfaces should not come at the expense of non-equipped human access interfaces. Finally, the governance of the MCP protocol may serve as a broader site of advocacy for greater representation of the commons and public goods within the governance of the agentic web.
 
 Bibliography
 
-Orosz, G. (2025). The Pulse #134: Stack Overflow Is Almost Dead." *The Pragmatic Engineer, *May 15, 2025. https://newsletter.pragmaticengineer.com/p/the-pulse-134.
+Orosz, G. (2025). The Pulse #134: Stack Overflow Is Almost Dead." *The Pragmatic Engineer,* May 15, 2025. https://newsletter.pragmaticengineer.com/p/the-pulse-134.
 
 Peyre, E. (2026). Gouvernance et outils conversationnels génératifs: Expérimentation d'un espace de confiance de la donnée. *HAL*. <https://hal.science/hal-05655006>.
 
@@ -320,21 +308,22 @@ AI Assistance Disclosure
 
 The authors acknowledge the use of Claude Sonnet 4.6 (Anthropic) as a writing assistance tool for translating portions of this text from French to English and for rephrasing select passages. The author retains full responsibility for the final content, analysis, and interpretations presented in this article.
 
-*\
+\*\
+
 *
 
-* * * * *
+- - -
 
-[[i]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref1) Inference time refers to the moment when a trained model generates a response to a given input, as opposed to training time, when the model's parameters are learned from data.
+[\[i]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref1) Inference time refers to the moment when a trained model generates a response to a given input, as opposed to training time, when the model's parameters are learned from data.
 
-[[ii]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref2) An embedding is a numerical vector representation of a document chunk in a high-dimensional space, where semantic similarity is captured as geometric proximity: chunks with related meanings are positioned closer together, enabling similarity-based retrieval.
+[\[ii]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref2) An embedding is a numerical vector representation of a document chunk in a high-dimensional space, where semantic similarity is captured as geometric proximity: chunks with related meanings are positioned closer together, enabling similarity-based retrieval.
 
-[[iii]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref3) At the time of writing, Mistral had not yet implemented support for the MCP protocol.
+[\[iii]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref3) At the time of writing, Mistral had not yet implemented support for the MCP protocol.
 
-[[iv]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref4) RDF (Resource Description Framework) is a standard model for data interchange on the web; data is represented as triplets of the form subject-predicate-object ("Paris -- is the capital of -- France"), enabling machines to read and connect information across distributed sources.
+[\[iv]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref4) RDF (Resource Description Framework) is a standard model for data interchange on the web; data is represented as triplets of the form subject-predicate-object ("Paris -- is the capital of -- France"), enabling machines to read and connect information across distributed sources.
 
-[[v]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref5) See, for example, Kryzo/mcp-bibliotheque_nationale_de_France.
+[\[v]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref5) See, for example, Kryzo/mcp-bibliotheque_nationale_de_France.
 
-[[vi]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref6) See this official MCP registry: <https://registry.modelcontextprotocol.io/>
+[\[vi]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref6) See this official MCP registry: <https://registry.modelcontextprotocol.io/>
 
-[[vii]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref7) Translation by the authors.
+[\[vii]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref7) Translation by the authors.
