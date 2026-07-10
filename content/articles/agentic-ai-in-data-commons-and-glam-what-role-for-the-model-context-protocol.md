@@ -187,9 +187,9 @@ However, the MCP server does not yet address the challenge of traffic surges: wh
 
 These projects demonstrate that MCP adoption is underway among some GLAM institutions and open knowledge organizations, though all remain at an early stage. Two recommendations emerge from these experiments. 
 
-The first is strategic: for organizations with existing API infrastructure, establishing an official MCP presence is a means of ensuring visibility in a rapidly expanding ecosystem. Anyone can develop an MCP server in a matter of hours and connect it to an organization's publicly available API, with no need for authorization from the organization. In the BnF's case, several MCP servers providing access to the Gallica API already exist, developed not by the BnF itself but by external actors[^^\[v]^^](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_edn5). This underscores the importance of developing official MCP servers and registering them in recognized MCP directories[^^\[vi]^^](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_edn6). This allows both to ensure the quality and accuracy of the tool descriptions that will shape how agents access institutional resources, and to maintain institutional visibility and authority as the space is increasingly populated by third-party actors.
+The first is strategic: for organizations with existing API infrastructure, establishing an official MCP presence is a means of ensuring visibility in a rapidly expanding ecosystem. Anyone can develop an MCP server in a matter of hours and connect it to an organization's publicly available API, with no need for authorization from the organization. In the BnF's case, several MCP servers providing access to the Gallica API already exist, developed not by the BnF itself but by external actors[^5]. This underscores the importance of developing official MCP servers and registering them in recognized MCP directories[^6]. This allows both to ensure the quality and accuracy of the tool descriptions that will shape how agents access institutional resources, and to maintain institutional visibility and authority as the space is increasingly populated by third-party actors.
 
-The second is methodological and concerns metrics: tools for evaluating the usage and effectiveness of MCP servers in documentary mediation contexts have yet to be developed. One avenue mentioned in the workshop discussion would be to design user-question benchmarks to assess how MCP servers respond to realistic queries. This would allow organizations to measure the quality of agent-mediated access to their resources. Peyre (2026) suggests that MCP experiments could be evaluated not only in terms of response quality, but also in terms of "the robustness of tool calls, resource selection, execution cost, and the capacity of different models to operate within a bounded documentary scope"[\[vii]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_edn7) (2026: 15). A further advantage of MCP, he argues, is its built-in traceability: the query chain preserves a record of every step, making errors visible in the response and correctable through editorial improvements to the catalogue.
+The second is methodological and concerns metrics: tools for evaluating the usage and effectiveness of MCP servers in documentary mediation contexts have yet to be developed. One avenue mentioned in the workshop discussion would be to design user-question benchmarks to assess how MCP servers respond to realistic queries. This would allow organizations to measure the quality of agent-mediated access to their resources. Peyre (2026) suggests that MCP experiments could be evaluated not only in terms of response quality, but also in terms of "the robustness of tool calls, resource selection, execution cost, and the capacity of different models to operate within a bounded documentary scope"[^7] (2026, p. 15). A further advantage of MCP, he argues, is its built-in traceability: the query chain preserves a record of every step, making errors visible in the response and correctable through editorial improvements to the catalogue.
 
 ## Prospective Scenario-Building: Projections Across Sectors
 
@@ -199,8 +199,7 @@ The exercise asked participants to project themselves five years into the future
 
 #### Figure 8: Prospective Scenario Framework: MCP Impact and Institutional Uptake (2031 Horizon). Source: Nathalie Casemajor.
 
-\|  |
-|  | ![](blob:https://euangoddard.github.io/47e8c868-d7bb-47bb-b78c-f64cf814003a) |
+![](/agentic-ai-in-data-commons-and-glam-what-role-for-the-model-context-protocol/casemajor_fig8.png)
 
 Participants worked in sector-based tables (museums, libraries, archives, performing arts, free knowledge, open science) identifying potential points of tension and opportunities for development within each scenario configuration.
 
@@ -326,3 +325,6 @@ The authors acknowledge the use of Claude Sonnet 4.6 (Anthropic) as a writing as
 [^2]: 
 [^3]: 
 [^4]: 
+[^5]: 
+[^6]: 
+[^7]: 
