@@ -57,340 +57,81 @@ I am grateful to the Institut d'études avancées de Paris for the opportunity 
 
 Three cages hang from the steeple of St. Lambert's church in Münster, Germany. They once held the tortured, mutilated bodies of leaders of an apocalyptic movement who proclaimed a new millennium, printing pamphlets on the newly invented printing press to spread their message to other true believers. Their promises of a "New Jerusalem" attracted adherents even while these cultists imposed a horrific authoritarian regime over the city (Cohn, 1970). Thousands died from their brutality and from the violent siege as the local ruler reclaimed control of the city. The now-empty cages still hang, initially as a deterrent to other potential rebels, and then as a chilling reminder of their eventual torture and execution in 1535. 
 
-Almost five centuries later, and a half a world away, a rumor started to spread that schools were installing litter boxes to accommodate furries – a fandom subculture that dresses as anthropomorphized animal characters – who supposedly want restrooms aligned with their self-identities. Versions of the rumor went viral across new media, shared by the influential "Libs of TikTok" account, the world's most prominent podcaster, and an emerging alternative news channel, One America News Network (OAN). Fox News and the New York Post repeated the rumor, and as the claim spread to Canada, the U.K., Australia, and New Zealand, advocacy organizations such as the Safe Schools Alliance, Moms for Liberty, and Gays Against Groomers warned their followers about this latest proof that public schools are devolving into woke-inspired chaos\[[1]](file:///Users/alexcano86/Desktop/Lubienski.html#_ftn1) (O'Rourke, 2026; Solomon, 2022). 
+Almost five centuries later, and a half a world away, a rumor started to spread that schools were installing litter boxes to accommodate furries – a fandom subculture that dresses as anthropomorphized animal characters – who supposedly want restrooms aligned with their self-identities. Versions of the rumor went viral across new media, shared by the influential "Libs of TikTok" account, the world's most prominent podcaster, and an emerging alternative news channel, One America News Network (OAN). Fox News and the New York Post repeated the rumor, and as the claim spread to Canada, the U.K., Australia, and New Zealand, advocacy organizations such as the Safe Schools Alliance, Moms for Liberty, and Gays Against Groomers warned their followers about this latest proof that public schools are devolving into woke-inspired chaos[^1] (O'Rourke, 2026; Solomon, 2022). 
 
 Of course, there is no evidence that any school did such a thing, and the claim has been repeatedly debunked by school officials, journalists, and professional fact-checkers (Charlotte Observer, 2022; Mendoza, 2022; Paz, 2022). But the charge has advanced, particularly through digital media, playing on fears about public schools accommodating trans and "neogender" students, and sparking numerous efforts by lawmakers to outlaw such imaginary practices (Austad, 2025; Bollinger, 2022; Brown, 2023).
 
-Information Technology and Institutional Disruption
+## Information Technology and Institutional Disruption
 
-One might wonder what religious zealots of the 16^th^ century have to do with students in animal suits supposedly seeking to relieve themselves in the 2020s. Both bizarre cases were manifestations of the new media of their respective historical moments. Replacing hand-copied reproductions laboriously with cheap and easily distributed printed information, the printing press --- invented several decades before the Münster rebellion --- has been cleverly called the "Twitter" of its time (Jaeger, 2019). And the millennialist cult in Münster possessed a printing press that it used to produce pamphlets aimed at attracting other apocalyptic-minded souls to the cause. Indeed, as the new medium of the day, leaflets were even loaded into cannons and fired at opponents --- an early form of spam (Cohn, 1970).\[[2]](file:///Users/alexcano86/Desktop/Lubienski.html#_ftn2) Later innovations in information technology --- including the rise of radio and the dawn of the digital era --- would likewise not only increase access to information, but also unleash "alternative" facts and worldviews, hoaxes and misinformation, existential and epistemic challenges to established institutions and expertise, and violent social instability and upheaval. 
+One might wonder what religious zealots of the 16^th^ century have to do with students in animal suits supposedly seeking to relieve themselves in the 2020s. Both bizarre cases were manifestations of the new media of their respective historical moments. Replacing hand-copied reproductions laboriously with cheap and easily distributed printed information, the printing press – invented several decades before the Münster rebellion – has been cleverly called the "Twitter" of its time (Jaeger, 2019). And the millennialist cult in Münster possessed a printing press that it used to produce pamphlets aimed at attracting other apocalyptic-minded souls to the cause. Indeed, as the new medium of the day, leaflets were even loaded into cannons and fired at opponents – an early form of spam (Cohn, 1970).[^2] Later innovations in information technology – including the rise of radio and the dawn of the digital era – would likewise not only increase access to information, but also unleash "alternative" facts and worldviews, hoaxes and misinformation, existential and epistemic challenges to established institutions and expertise, and violent social instability and upheaval. 
 
-"Disruptive innovations" in information technology --- from the printing press to the internet --- are typically thought of as essential steps forward: democratizing access to information, lowering costs for information dissemination, and empowering marginalized voices. And they are.\[[3]](file:///Users/alexcano86/Desktop/Lubienski.html#_ftn3) However, in enabling new challengers (both the clearly and questionably qualified) to existing institutions, they also disrupt established ideas of expertise, the relationship between knowledge production and use, and the role of existing and new institutions in organizing and disseminating that knowledge. *The issue, then, is not isolated false beliefs in furries or self-proclaimed prophets, but breakdowns in the institutional mechanisms for adjudicating knowledge and expertise.*
+"Disruptive innovations" in information technology – from the printing press to the internet – are typically thought of as essential steps forward: democratizing access to information, lowering costs for information dissemination, and empowering marginalized voices. And they are.[^3] However, in enabling new challengers (both the clearly and questionably qualified) to existing institutions, they also disrupt established ideas of expertise, the relationship between knowledge production and use, and the role of existing and new institutions in organizing and disseminating that knowledge. *The issue, then, is not isolated false beliefs in furries or self-proclaimed prophets, but breakdowns in the institutional mechanisms for adjudicating knowledge and expertise.*
 
-This issue has recently taken on increased relevance in our own era, especially as we see the rapid rise of digitally-driven misinformation. We have now --- by far --- more access to information than ever before. But we also have more misinformed citizens (Adeosun, 2025). We are inundated with data, research syntheses, expert reports, and policy briefs (Lubienski, 2019; Steiner-Khamsi, 2024). Yet belief in hoaxes, delusions, and disinformation is widespread. Just as with the millenarian promises of the Münster cultists propagated by new technology, misinformation is proliferating through the internet now at a rate unimaginable to them, and even perhaps unimaginable to many of us just a few years ago. Coinciding with this glut of both verifiable and misleading data --- what has been called an "infodemic" (Stephens et al., 2023) --- expertise in particular is under siege, largely due to the very information architecture experts themselves have created in order to offer more democratic access to knowledge. 
+This issue has recently taken on increased relevance in our own era, especially as we see the rapid rise of digitally-driven misinformation. We have now – by far – more access to information than ever before. But we also have more misinformed citizens (Adeosun, 2025). We are inundated with data, research syntheses, expert reports, and policy briefs (Lubienski, 2019; Steiner-Khamsi, 2024). Yet belief in hoaxes, delusions, and disinformation is widespread. Just as with the millenarian promises of the Münster cultists propagated by new technology, misinformation is proliferating through the internet now at a rate unimaginable to them, and even perhaps unimaginable to many of us just a few years ago. Coinciding with this glut of both verifiable and misleading data – what has been called an "infodemic" (Stephens et al., 2023) – expertise in particular is under siege, largely due to the very information architecture experts themselves have created in order to offer more democratic access to knowledge. 
 
 Ironically, much of this onslaught of misinformation comes during a period when policymakers, philanthropists, and others are calling for "evidence-based policy" and "data-informed decision-making" (although many of them fail to follow their own guidance in that regard). One might think that such exhortations would mean that policymakers would be more interested now in what evidence and analysis can tell us about the problems and potential solutions we face. But policymakers themselves seem as susceptible as anyone else to disinformation: addressing problems that are not real (like furries and voter fraud), while actively undercutting evidence on crises (like climate change) that are. In fact, politicians have been some of the most prominent purveyors of false narratives such as denying human-caused climate change, attacking the evidence on the effectiveness of vaccines, and advancing the furry hoax (Benen, 2022; Cole, 2022).
 
 If it were only litter boxes in schools, perhaps the issue would be insignificant, albeit strange. But misinformation often guides policy. For example, misinformation on voting machines has provided the grounds for policies to restrict voting, and has even caused policymakers to turn their backs on coordinated efforts they themselves created to limit the very voter fraud they claim to abhor (Parks et al., 2025). Indeed, misinformation campaigns are often orchestrated by intermediaries in concerted efforts to undermine established expertise in asserting their own authority and agendas over policy, as has famously been the case with think tanks funded by the fossil fuel industry attacking climate scientists (Oreskes & Conway, 2010). In fact, many policymakers themselves actively denigrate evidence and expertise. They disparage experts and institutions, such as universities or professions, as "elitist" and "out of touch" at best, or captured by special interests and agendas, at worst, while giving free rein to policy agendas created by actual elites and special interests that run counter to evidence-based empirical findings. 
 
-For instance, the U.S. Vice President, himself a beneficiary of an elite education at an Ivy League university, proclaimed that "professors" and "universities are the enemy" --- "\[w]e have to honestly and aggressively attack the universities" (quoted in Shepherd, 2025). While he had previously acknowledged the need to "create stories" in promoting the misinformation that immigrants were eating pets (Halpert, 2024), theVice President denigrated experts: "They have Ph.D.s, but they don't have common sense and they don't have wisdom," arguing that policymakers are not going to solve problems "by listening to experts" (Roll Call Factbase, 2024). 
+For instance, the U.S. Vice President, himself a beneficiary of an elite education at an Ivy League university, proclaimed that "professors" and "universities are the enemy" – "\[w]e have to honestly and aggressively attack the universities" (quoted in Shepherd, 2025). While he had previously acknowledged the need to "create stories" in promoting the misinformation that immigrants were eating pets (Halpert, 2024), theVice President denigrated experts: "They have Ph.D.s, but they don't have common sense and they don't have wisdom," arguing that policymakers are not going to solve problems "by listening to experts" (Roll Call Factbase, 2024). 
 
 So, the primary problem is not simply that policymakers and other individuals say or believe false and often ridiculous things like the litter-boxes-for-furries hoax or claims of pet-eating immigrants. Instead, the essential issue is that the institutional machinery for differentiating fact from fiction, for determining what counts as "truth," is increasingly failing, under attack from new claimants to the title of "expert" while also under stress from new technological forces ill-suited for the new digital information ecosystem. We see this in many areas where misinformation stymies the evidence-driven insights of experts: in organized assaults on climate science, in efforts to undermine the data on the effectiveness of vaccines, and in how we educate future generations of students to be prepared for this new digital world. 
 
-This analysis focuses on the institutional antecedents and responses to misinformation, weighing how past lessons from the disruptions sparked by new information technologies offer insights on our current predicament of mass misinformation, rapidly eroding trust in institutions, political polarization, and social upheaval. In particular, drawing on neoinstitutional perspectives, I consider how both established and emerging institutions respond to the crisis of legitimacy as expertise and authority within knowledge-based fields are disrupted by new technologies, and what strategies --- some effective, some not --- incumbent and emergent claimants to the mantle of "authority" adopt. To do this, the paper synthesizes different literatures --- including from sociology, psychology, and media studies --- and examines these issues from secondary sources on distinct historical cases of innovations in information technology linked to disruption and misinformation. The analysis considers how the crisis of legitimacy over claims of authority can be addressed, focusing on education policy, which is often positioned both as a target of and potential response to misinformation. Indeed, education is of central concern because it is both a target of misinformation and a potential remedy to it.
+This analysis focuses on the institutional antecedents and responses to misinformation, weighing how past lessons from the disruptions sparked by new information technologies offer insights on our current predicament of mass misinformation, rapidly eroding trust in institutions, political polarization, and social upheaval. In particular, drawing on neoinstitutional perspectives, I consider how both established and emerging institutions respond to the crisis of legitimacy as expertise and authority within knowledge-based fields are disrupted by new technologies, and what strategies – some effective, some not – incumbent and emergent claimants to the mantle of "authority" adopt. To do this, the paper synthesizes different literatures – including from sociology, psychology, and media studies – and examines these issues from secondary sources on distinct historical cases of innovations in information technology linked to disruption and misinformation. The analysis considers how the crisis of legitimacy over claims of authority can be addressed, focusing on education policy, which is often positioned both as a target of and potential response to misinformation. Indeed, education is of central concern because it is both a target of misinformation and a potential remedy to it.
 
-Misinformation and Its Variants
+## Misinformation and Its Variants
 
-Of course, the term "misinformation" can be rather broad and somewhat nebulous. So it is useful to clarify how it is used in this paper. As in most descriptions of the topic, *misinformation* refers to claims that are incorrect, regardless of whether there is an intent to deceive (Kendeou et al., 2019). A subcategory, *disinformation*, involves claims that are promoted with the awareness that they are false. Thus, a single claim may be disinformation when it is first asserted for the purpose of misleading someone who is unaware that it is false, and then misinformation if it is subsequently shared by that second person who is oblivious to the claim's veracity. Still another variant, *malinformation*, refers to information that is in itself not inaccurate, but is twisted or manipulated --- perhaps, say, asserted out of context --- in ways designed to deceive (Facciani, 2025). There are a number of other related ideas such as propaganda, conspiracy theory, information pollution, bullshit, etc. (DiResta, 2024; Frankfurt, 2025; Lubienski & Malin, in press; Malin & Lubienski, 2022, in press). But for the sake of brevity, I leave those to another discussion. For the sake of simplicity, the term "misinformation" is used in this paper broadly to include the general idea of disseminating inaccurate information.
+Of course, the term "misinformation" can be rather broad and somewhat nebulous. So it is useful to clarify how it is used in this paper. As in most descriptions of the topic, *misinformation* refers to claims that are incorrect, regardless of whether there is an intent to deceive (Kendeou et al., 2019). A subcategory, *disinformation*, involves claims that are promoted with the awareness that they are false. Thus, a single claim may be disinformation when it is first asserted for the purpose of misleading someone who is unaware that it is false, and then misinformation if it is subsequently shared by that second person who is oblivious to the claim's veracity. Still another variant, *malinformation*, refers to information that is in itself not inaccurate, but is twisted or manipulated – perhaps, say, asserted out of context – in ways designed to deceive (Facciani, 2025). There are a number of other related ideas such as propaganda, conspiracy theory, information pollution, bullshit, etc. (DiResta, 2024; Frankfurt, 2025; Lubienski & Malin, in press; Malin & Lubienski, 2022, in press). But for the sake of brevity, I leave those to another discussion. For the sake of simplicity, the term "misinformation" is used in this paper broadly to include the general idea of disseminating inaccurate information.
 
-Misinformation in Education Policy: Creating Crises and Imagined Offenses
+## Misinformation in Education Policy: Creating Crises and Imagined Offenses
 
-Misinformation is hardly a new idea. In mythologizing and likely embellishing his accomplishments, some five centuries before the common era Darius the Great demonstrated the use of propaganda in ancient Persia,wielding it both toward his own subjects and toward his potential external enemies; and around the 2^nd^ or 3^rd^ century BCE *Kautilya's Arthashastra* advised rulers in the Mauryan Empire on how to use disinformation to sow discord among their opponents (Kanefield & Dorian, 2023). In ancient Rome, when Antony was with Cleopatra, his rival Octavian sought to besmirch his reputation through "an unprecedented disinformation war...using short, sharp slogans written upon coins in the style of archaic tweets" (Kaminska, 2017). 
+Misinformation is hardly a new idea. In mythologizing and likely embellishing his accomplishments, some five centuries before the common era Darius the Great demonstrated the use of propaganda in ancient Persia, wielding it both toward his own subjects and toward his potential external enemies; and around the 2^nd^ or 3^rd^ century BCE *Kautilya's Arthashastra* advised rulers in the Mauryan Empire on how to use disinformation to sow discord among their opponents (Kanefield & Dorian, 2023). In ancient Rome, when Antony was with Cleopatra, his rival Octavian sought to besmirch his reputation through "an unprecedented disinformation war...using short, sharp slogans written upon coins in the style of archaic tweets" (Kaminska, 2017). 
 
-Antony was \[portrayed as] a philanderer, a womaniser and a drunk not fit to lead, let alone hold office. Most importantly, he asserted Antony had been corrupted by his love affair with Cleopatra, the leader of a foreign land. As Cleopatra's puppet, no one could be sure if Antony was truly loyal to Rome or if his allegiance was to Egypt.... Fake news had allowed Octavian to hack the republican system once and for all. (Kaminska, 2017)
+> Antony was \[portrayed as] a philanderer, a womaniser and a drunk not fit to lead, let alone hold office. Most importantly, he asserted Antony had been corrupted by his love affair with Cleopatra, the leader of a foreign land. As Cleopatra's puppet, no one could be sure if Antony was truly loyal to Rome or if his allegiance was to Egypt.... Fake news had allowed Octavian to hack the republican system once and for all. (Kaminska, 2017)
 
-Myriad instances have appeared since ancient times. Diplomatic and espionage efforts have often leveraged misinformation. Religious leaders often used or curated (mis)information in ways that could control or persuade. And propaganda has been evident in the mass education efforts of many countries --- especially those with authoritarian tendencies. The effectiveness and reach of disinformation campaigns often reflected the new technologies that were becoming available: newspapers, broadcasting, and schooling, for instance.
+Myriad instances have appeared since ancient times. Diplomatic and espionage efforts have often leveraged misinformation. Religious leaders often used or curated (mis)information in ways that could control or persuade. And propaganda has been evident in the mass education efforts of many countries – especially those with authoritarian tendencies. The effectiveness and reach of disinformation campaigns often reflected the new technologies that were becoming available: newspapers, broadcasting, and schooling, for instance.
 
 Misinformation can often be a familiar feature of politicized policy landscapes, especially education, because schools are contested terrain fought over by competing interests and constituencies with conflicting agendas and worldviews (Aristotle, 1946). In a classic work, David Berliner (1993) analyzed education reform campaigns "in an era of disinformation," noting how information that put the performance of public schools in a favorable light was being suppressed in order to perpetuate a "manufactured crisis" narrative so politicians and reformers could justify a draconian reconfiguration of schooling in America (Berliner & Biddle, 1995). 
 
-Another illustrative example of such mis- or disinformation was documented by political scientist Barry O'Neill (1994). Prominent leaders (the former president of Harvard, U.S. Secretary of Education, a presidential candidate, a U.S. Senator, the Governor of California, the Chancellor of New York City Schools) and influential commentators, including a Pulitzer Prize-winning columnist, had been promoting a ranking that determined the "top offenses" in schools --- substance abuse, pregnancy, bombings, rape, robbery, assault --- were qualitatively worse than in the 1940s (talking, chewing gum, running in the halls, "not putting paper in wastebaskets," and so forth), thus demonstrating that public schools had rapidly devolved into chaos. 
+Another illustrative example of such mis- or disinformation was documented by political scientist Barry O'Neill (1994). Prominent leaders (the former president of Harvard, U.S. Secretary of Education, a presidential candidate, a U.S. Senator, the Governor of California, the Chancellor of New York City Schools) and influential commentators, including a Pulitzer Prize-winning columnist, had been promoting a ranking that determined the "top offenses" in schools – substance abuse, pregnancy, bombings, rape, robbery, assault – were qualitatively worse than in the 1940s (talking, chewing gum, running in the halls, "not putting paper in wastebaskets," and so forth), thus demonstrating that public schools had rapidly devolved into chaos. 
 
-What we might now call "influencers" repeatedly referred to that list --- purportedly "from an 'ongoing' survey" of teachers --- as empirical proof of educational decline. The rankings of offenses were subsequently cited in respectable outlets such as the *Congressional Quarterly Researcher*, the *Wall Street Journal*, and at least five times in the *New York Times*. As O'Neill writes, "They have become the most quoted 'results' of educational research, and possibly the most influential" (O'Neill, 1994).
+What we might now call "influencers" repeatedly referred to that list – purportedly "from an 'ongoing' survey" of teachers – as empirical proof of educational decline. The rankings of offenses were subsequently cited in respectable outlets such as the *Congressional Quarterly Researcher*, the *Wall Street Journal*, and at least five times in the *New York Times*. As O'Neill writes, "They have become the most quoted 'results' of educational research, and possibly the most influential" (O'Neill, 1994).
 
 In the pre-internet age, those rankings were variously attributed to CBS News, the California Department of Education, and the Heritage Foundation. Yet no one seemed to know exactly what study they were based on until O'Neill traced their origins to the personal recollections of a Texas oil tycoon who was twice tried for, and acquitted of, murder before becoming a prominent opponent of public schools. The lists simply drew from his memories of his own school days compared to what he felt he was seeing in current headlines; as the lists' author noted: "How did I know what the offenses in the schools were in 1940? I was there. How do I know what they are now? I read the newspapers" (O'Neill, 1994). Despite the egregious lack of empirical grounding, his lists were then taken up and published by culture warriors before being embraced uncritically by political elites as proof of cultural decay in public education. Like much misinformation, the rankings were widely shared and accepted likely because, even if it were disproven, the *general idea "could" be true in the particular political worldview that had been constructed for the recipients of those claims.*
 
-In fact, such "crisis" narratives --- often exaggerating or manufacturing crisis conditions --- are known to be useful in advancing often drastic policy change. As Naomi Klein (2007) noted in her classic work, *The Shock Doctrine*, the intellectual author of the modern school voucher movement, Milton Friedman, contended that "only a crisis actual or perceived produces real change" (Friedman, 1962, p. ix). Such a playbook is taken up by policymakers, such as a Canadian provincial minister of education who said substantive reforms are impossible "if you don't create a great \[or "useful"] crisis" in education (Ontario Secondary School Teachers' Federation/Des Enseignantes-Enseignants des Ecoles Secondaires de l'Ontario, 1996).\[[4]](file:///Users/alexcano86/Desktop/Lubienski.html#_ftn4)
+In fact, such "crisis" narratives – often exaggerating or manufacturing crisis conditions – are known to be useful in advancing often drastic policy change. As Naomi Klein (2007) noted in her classic work, *The Shock Doctrine*, the intellectual author of the modern school voucher movement, Milton Friedman, contended that "only a crisis actual or perceived produces real change" (Friedman, 1962, p. ix). Such a playbook is taken up by policymakers, such as a Canadian provincial minister of education who said substantive reforms are impossible "if you don't create a great \[or "useful"] crisis" in education (Ontario Secondary School Teachers' Federation/Des Enseignantes-Enseignants des Ecoles Secondaires de l'Ontario, 1996).[^4]
 
-Yet even as it is targeted by policy actors, education is typically seen as a potential corrective remedy to factual inaccuracies and false claims, a form of inoculation against misinformation --- which it often is (Facciani, 2025). But periods of crisis, upheaval and disruption --- particularly when schools and other institutions are vulnerable or under attack --- change the underlying equation. In a crisis, information can be scarce (or nonexistent), incomplete, obsolete, erroneous, or manipulated (highlighting the myriad ways that facts can be related to misinformation). As Klein reminds us, in such conditions people are more susceptible to --- and less able to vet --- messaging that they would normally research or reject. Such conditions of social instability create fertile ground for the spread of both innovative ideas and dangerous misinformation.
+Yet even as it is targeted by policy actors, education is typically seen as a potential corrective remedy to factual inaccuracies and false claims, a form of inoculation against misinformation – which it often is (Facciani, 2025). But periods of crisis, upheaval and disruption – particularly when schools and other institutions are vulnerable or under attack – change the underlying equation. In a crisis, information can be scarce (or nonexistent), incomplete, obsolete, erroneous, or manipulated (highlighting the myriad ways that facts can be related to misinformation). As Klein reminds us, in such conditions people are more susceptible to – and less able to vet –messaging that they would normally research or reject. Such conditions of social instability create fertile ground for the spread of both innovative ideas and dangerous misinformation.
 
-Innovations in Information Technology
+## Innovations in Information Technology
 
-Such conditions were present around the time Johannes Gutenberg invented the movable-type printing press in the 1450s.\[[5]](file:///Users/alexcano86/Desktop/Lubienski.html#_ftn5) Certainly, multiple factors were at play at the time that contributed to social instability: demographic changes in the wake of the Black Death, subsequent pressures on the labor market, related grievances from peasants articulated in a series of regional rebellions, growing religious discontent and political schisms, just to name a few such factors. But the printing press changed the dynamic --- relatively quickly --- in ways that would never have been possible without it. Suddenly, information could be copied and distributed widely, and at a fraction of the cost. Instead of laboriously hand-copying manuscripts over years, printers could produce multiple copies in a relatively short time. Now, instead of relying on word-of-mouth or handwritten messages, ideas could spread rapidly, making it more difficult for established forms of authority --- namely the Church and state --- to control information. Instead of monks and scholars copying works in a monastery, for instance, printers could (and did) set up shop and then move to a new jurisdiction relatively easily if they met official disapproval (Eisenstein, 1980).
+Such conditions were present around the time Johannes Gutenberg invented the movable-type printing press in the 1450s.[^5] Certainly, multiple factors were at play at the time that contributed to social instability: demographic changes in the wake of the Black Death, subsequent pressures on the labor market, related grievances from peasants articulated in a series of regional rebellions, growing religious discontent and political schisms, just to name a few such factors. But the printing press changed the dynamic – relatively quickly – in ways that would never have been possible without it. Suddenly, information could be copied and distributed widely, and at a fraction of the cost. Instead of laboriously hand-copying manuscripts over years, printers could produce multiple copies in a relatively short time. Now, instead of relying on word-of-mouth or handwritten messages, ideas could spread rapidly, making it more difficult for established forms of authority – namely the Church and state – to control information. Instead of monks and scholars copying works in a monastery, for instance, printers could (and did) set up shop and then move to a new jurisdiction relatively easily if they met official disapproval (Eisenstein, 1980).
 
-So printing became the new medium of the era in Europe. Peasant upheavals continued, but were now fueled by printed pamphlets, theses, and declarations. For instance, the *Twelve Articles of the German Peasants*did not offer a substantially new program of reform compared to previous insurrections, but some 25,000 copies could be quickly printed and distributed for potential insurrectionists (Bainton, 1950). Pamphleteering, mastered by new thinkers such as Martin Luther and Thomas Müntzer, promoted ideas well outside of the approval of established authorities and, in both cases, provoked violence and violent reaction. Indeed, Luther called printing a divine "gift" --- "God's highest and extremest act of grace, whereby the business of the Gospel is driven forward" (Black, 1963, pp. 431--432).
+So printing became the new medium of the era in Europe. Peasant upheavals continued, but were now fueled by printed pamphlets, theses, and declarations. For instance, the *Twelve Articles of the German Peasants* did not offer a substantially new program of reform compared to previous insurrections, but some 25,000 copies could be quickly printed and distributed for potential insurrectionists (Bainton, 1950). Pamphleteering, mastered by new thinkers such as Martin Luther and Thomas Müntzer, promoted ideas well outside of the approval of established authorities and, in both cases, provoked violence and violent reaction. Indeed, Luther called printing a divine "gift" – "God's highest and extremest act of grace, whereby the business of the Gospel is driven forward" (Black, 1963, pp. 431-432).
 
 With the mass printing of Bibles, often in the vernacular, the press quickly undermined the Catholic Church's monopoly on interpreting scripture as new "experts" offered and printed their own understanding of scriptures and prophecies, typically without the institutional scaffolding that had previously been provided by the Church and established scholars. While in earlier times, alternative interpretations of scripture that ran counter to the Church's monopoly could be geographically isolated and then eliminated as heresies, the printing press undercut that monopoly by allowing alternative interpretations written for lay audiences to take hold and spread. The Pope threatened damnation for anyone using unapproved printing presses, and the Catholic Church started its *Index of Prohibited Books*. Islamic authorities also suppressed printing as a threat to oral traditions around the Quran (Robinson, 1993).
 
 But this innovation in information technology did not simply threaten to overturn established authority. Indeed, incumbent institutions and elites soon began also to leverage printing to counter the emerging threats to their authority; for instance, by printing standardized catechisms and developing new institutions of education to propagate the faith (Cumby et al., 2021). But they had to adapt to the new information landscape, where production and dissemination of heretofore costly information was now cheap and easy, and access to information greatly expanded and became more difficult to control. Thus, printing changed the conditions of how knowledge could be governed. The press was not merely a communication device; it was an agent of disruption, change, and power for both existing and insurgent actors and institutions (Eisenstein, 1980). But while this innovation was a valued development in the long-term democratization of information, it is also important to remember that it came with a cost, as Lamartine (1854) illustrated in an apocryphal tale of Gutenberg's dream on realizing his invention:
 
-*I heard two voices.... One said to me, "Rejoice, Johannes; thou art immortal! Henceforth, by thy means, shall all knowledge be spread over the world. Nations which dwell thousands of miles from thee, strangers to the ideas of thy country, shall read and understand thoughts yet silent, but hereafter to be spread, and multiplied like the reflection of fire, by thee, and by the hand!*
-
-*Rejoice, Johannes; ... for thy discovery will give everlasting life to genius which would have been still born without thee, and whose gratitude will in return proclaimed the immortality of him who has made it immortal!"*
-
-*...I heard another voice, which said, "Yes, Johannes, thou art immortal! But at what a cost! Are then the thoughts of thy fellow-men always so holy and so pure as to merit being given to the eyes and ears of the human race? Are not many of them, and perhaps the greater part, such as would a thousand times rather deserve to be stifled and annihilated, than repeated and multiplied over the world?*
-
-*...Men will arise of powerful and attractive minds, but of proud and corrupt hearts. Without thee, they would have remained in darkness, and confined to a narrow circle, doing evil only to their neighbors and in their own time. By thy means they will bring madness, misfortune, and crime upon all men and all ages!!*
-
-*See the thousands of souls polluted by the corruption of one! Youth, perverted by books from whose page is distilled the venom of the spirit! Young girls become immodest, unbelieving, and harsh to the poor, owing to the pages which poison their hearts!* 
-
-*Believe me, Johannes, live as though thy discovery had not been. Look upon that invention as an attractive but fatal dream, of which the realization would be useful and holy only if men were good. But man is evil, and, lending arms to the wicked, is it not sharing in their guilt?"* (Lamartine, 1854, pp. 283--285)
+> *I heard two voices.... One said to me, "Rejoice, Johannes; thou art immortal! Henceforth, by thy means, shall all knowledge be spread over the world. Nations which dwell thousands of miles from thee, strangers to the ideas of thy country, shall read and understand thoughts yet silent, but hereafter to be spread, and multiplied like the reflection of fire, by thee, and by the hand!*
+>
+> *Rejoice, Johannes; ... for thy discovery will give everlasting life to genius which would have been still born without thee, and whose gratitude will in return proclaimed the immortality of him who has made it immortal!"*
+>
+> *...I heard another voice, which said, "Yes, Johannes, thou art immortal! But at what a cost! Are then the thoughts of thy fellow-men always so holy and so pure as to merit being given to the eyes and ears of the human race? Are not many of them, and perhaps the greater part, such as would a thousand times rather deserve to be stifled and annihilated, than repeated and multiplied over the world?*
+>
+> *...Men will arise of powerful and attractive minds, but of proud and corrupt hearts. Without thee, they would have remained in darkness, and confined to a narrow circle, doing evil only to their neighbors and in their own time. By thy means they will bring madness, misfortune, and crime upon all men and all ages!!*
+>
+> *See the thousands of souls polluted by the corruption of one! Youth, perverted by books from whose page is distilled the venom of the spirit! Young girls become immodest, unbelieving, and harsh to the poor, owing to the pages which poison their hearts!* 
+>
+> *Believe me, Johannes, live as though thy discovery had not been. Look upon that invention as an attractive but fatal dream, of which the realization would be useful and holy only if men were good. But man is evil, and, lending arms to the wicked, is it not sharing in their guilt?"* (Lamartine, 1854, pp. 283–285)
 
 Indeed, while established institutions of the time guarded knowledge (and thereby propped up the elite), with manuscripts being rare and often in Latin or Greek, self-proclaimed prophets and "experts" suddenly had unprecedented access to channels to amplify their voices. But while previously they had been able to rely on scholars and clerics to tell them what was true, newly literate populations were for the first time faced with a deluge of printed material often presenting them with competing and often incendiary claims and calls to action. As faith in established institutions and expertise became fragmented, people had to vet conflicting claims, even as new "experts" claimed the powers of insight and interpretation traditionally reserved for the Church and universities. Without the scaffolding of established expertise, many claims drew adherents. These included apocalyptists such as the young Jan of Leyden, who proclaimed himself the successor to the biblical David as "King of the New Jerusalem" in Münster, and the secretive, violent followers of another "new David," Jan van Batenburg, who were convinced that scripture justified them in taking the lives and property of "unbelievers" (Jansma, 1977). Millions perished in the subsequent rebellions, repressions, and religious wars fueled to various extents by easy access to information that spawned alternative claims to spiritual and worldly authority. 
 
-Such innovations in information technology often --- but not always --- coincide with, catalyze, or exacerbate periods of upheaval, as new forms of access to knowledge and new claims of expertise disrupt existing institutions, and may be followed by periods of social instability. This is at least partly a function of the innate accessibility and potential pervasiveness of the innovation. As represented in Table 1, different types of such innovations can enable either easier or more difficult entry to new information providers into the field based only on material costs (difficulty of acquiring and using the technology; note: *not* including costs of overcoming institutional barriers). Here, I offer a heuristic categorization of their costs, capacities, and related features relative to their respective historical periods.
+Such innovations in information technology often – but not always – coincide with, catalyze, or exacerbate periods of upheaval, as new forms of access to knowledge and new claims of expertise disrupt existing institutions, and may be followed by periods of social instability. This is at least partly a function of the innate accessibility and potential pervasiveness of the innovation. As represented in Table 1, different types of such innovations can enable either easier or more difficult entry to new information providers into the field based only on material costs (difficulty of acquiring and using the technology; note: *not* including costs of overcoming institutional barriers). Here, I offer a heuristic categorization of their costs, capacities, and related features relative to their respective historical periods.
 
-*T\*\*able 1: Innovations in Information Technology and Relative Costs and Capacities*
+**Table 1: Innovations in Information Technology and Relative Costs and Capacities**
 
-\|
-
-*Information\
-Technology\
-Innovation*
-
-\|
-
-*Entry\
-cost*
-
-\|
-
-*Dissemination\
-capacity*
-
-\|
-
-*Cost per unit\
-of propagation*
-
-\|
-
-*Susceptibility\
-to external\
-control*
-
-\|
-
-*Verification\
-effort*
-
-|     |
-| --- |
-
-\|
-
-**Writing**
-
-\|
-
-Low
-
-\|
-
-Low
-
-\|
-
-Low
-
-\|
-
-Med
-
-\|
-
-Low
-
-\|
-|
-
-**Schooling**
-
-\|
-
-Low to High
-
-\|
-
-High
-
-\|
-
-High
-
-\|
-
-High
-
-\|
-
-Low to High
-
-\|
-|
-
-**Printing Press**
-
-\|
-
-Med-High
-
-\|
-
-High
-
-\|
-
-Low
-
-\|
-
-High
-
-\|
-
-Low?
-
-\|
-|
-
-**Telegraph**
-
-\|
-
-High
-
-\|
-
-Medium
-
-\|
-
-Medium
-
-\|
-
-High
-
-\|
-
-Low
-
-\|
-|
-
-**Telephone**
-
-\|
-
-Low
-
-\|
-
-Medium
-
-\|
-
-High
-
-\|
-
-High
-
-\|
-
-Low
-
-\|
-|
-
-**Radio**
-
-\|
-
-Low-Med
-
-\|
-
-High
-
-\|
-
-Low
-
-\|
-
-Medium
-
-\|
-
-Med-Low
-
-\|
-|
-
-**Television**
-
-\|
-
-Med-High
-
-\|
-
-High
-
-\|
-
-Low
-
-\|
-
-High
-
-\|
-
-Med-Low
-
-\|
-|
-
-**(Direct) Mail**
-
-\|
-
-Med
-
-\|
-
-High
-
-\|
-
-Low
-
-\|
-
-Med
-
-\|
-
-High
-
-\|
-|
-
-**Internet**
-
-\|
-
-Low
-
-\|
-
-High
-
-\|
-
-Low
-
-\|
-
-Low
-
-\|
-
-High
-
-\|
+![](/disruptive-innovations-in-information-and-the-crisis-of-expertise-historical-patterns-and-contemporary-challenges-in-education-policy/lubienski_table1.png)
 
 In this representation, we can compare different innovations based on their costs for potential producers, the ability of external forces (governments, institutions) to control that technology, and research costs for consumers to determine the veracity of the claims through that technology (at least with the technology available around the time of that innovation). For instance, written language --- whether on cave walls, parchment, or hand-copied manuscripts --- was a technology that was relatively easy to adopt (especially if one knew the characters). But it was largely a "one-to-few" medium (Dewar, 1998), especially before widespread literacy. Due to this ease and accessibility, it was difficult for authorities to control in itself, although the rise of manuscript and scholarship culture, limited literacy, and the use of scholarly language (Latin) allowed institutions like universities and the Church to limit access and govern information in that medium. Absent those institutions, the consumers (readers) faced challenges determining the veracity of written claims. In another case, mail, entry, and production costs were low (assuming postage was low), but with mass printing and more recent address aggregation techniques, dissemination potential is high, a "one-to-many" element later exploited by "direct mail" due to low production and postal costs. But mail *can* be externally controlled, as subjects of any authoritarian regime can attest. Claims can be made through mail that are difficult for readers to verify --- a factor that helped in the rise of the direct mail industry (Moriyama, 2022). Notably, we can also consider institutionalized schooling in this representation as an innovation for the distribution of information.
 
@@ -503,3 +244,9 @@ For intermediaries like think tanks, greater disclosure of funding sources and i
 For new, insurgent institutions, the VCAL model offers guidance for successfully entering a field plagued by misinformation. Visibility can be achieved through strategic use of digital platforms to amplify evidence-based research and expertise. Community-building efforts should focus on creating spaces for productive dialogue that respect professional expertise while acknowledging legitimate stakeholder concerns, including concerns that "elites" are "out of touch" with everyday issues. Adaptability requires the agility to respond to emerging narratives while maintaining consistency with core values across platforms and audiences. Legitimacy can be established --- perhaps too easily --- by adopting the trappings of traditional expertise while also building alternative authority arrangements that resonate with and build credibility among target audiences; but this may also mean challenging the credibility of other insurgents (or even established institutions) whose claims to expertise are largely based on symbolism rather than substance.
 
 The concept of knowledge commons may provide a framework for reimagining how we govern educational knowledge in an era of abundant (mis-)information and contested authority (Sanfilippo & Ocepek, 2025). Moreover, the rise of artificial intelligence introduces new challenges for professions, as synthetic media and algorithmically generated disinformation can spread misinformation at unprecedented speed and scale, requiring institutions to develop new verification mechanisms and adaptive governance frameworks that can keep pace with rapidly evolving technological capabilities. For professions, this means not only defending their authority but actively demonstrating their value relative to unqualified insurgents in navigating complex information landscapes. Such a knowledge-commons approach would recognize that addressing misinformation requires not just better information, but better institutions and more adaptive professions --- ones capable of navigating the enduring tension between democratic access and expression, on the one hand, and expertise-based epistemic reliability, on the other. Education, positioned as both a target of and potential remedy to misinformation, offers a particularly rich site for institutional and professional innovation that can serve as a model for other policy domains. The historical record is clear: those who govern *through* new media, rather than merely *against* it, are most likely to have a hand in reshaping authority and sustain their integrity in the face of disruptive information technologies.
+
+[^1]: 
+[^2]: 
+[^3]: 
+[^4]: 
+[^5]: 
