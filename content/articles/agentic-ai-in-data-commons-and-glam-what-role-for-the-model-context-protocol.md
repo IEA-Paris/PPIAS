@@ -197,7 +197,7 @@ The final part of the workshop took the form of a collective prospective scenari
 
 The exercise asked participants to project themselves five years into the future, to 2031, along two axes of projection (Figure 8): one representing the degree to which MCP becomes a structuring protocol for the agentic web (from highly structuring to rapidly obsolete), the other representing the degree of institutional uptake of MCP tools by GLAM and open knowledge organizations (from high uptake to low uptake). This framework generated four scenario configurations (Figure 8), defined by the intersection of MCP impact and institutional uptake: significant benefits, adverse consequences, marginal benefits, or limited consequences.
 
-#### Figure 8: Prospective Scenario Framework: MCP Impact and Institutional Uptake (2031 Horizon). Source: Nathalie Casemajor.
+**Figure 8: Prospective Scenario Framework: MCP Impact and Institutional Uptake (2031 Horizon). Source: Nathalie Casemajor.**
 
 ![](/agentic-ai-in-data-commons-and-glam-what-role-for-the-model-context-protocol/casemajor_fig8.png)
 
@@ -205,7 +205,7 @@ Participants worked in sector-based tables (museums, libraries, archives, perfor
 
 ### Libraries and Scientific Publishing
 
-The library sector table, documented by Julien Schuh, identified five areas of tension. The first one is existential: as machine-mediated consultation grows, the purpose of human-facing portals is called into question. Libraries observe stable on-site visits alongside a decline in physical document consultation, while their infrastructures face mounting bot traffic. The core challenge is preserving what lies at the heart of the library's mission -- its documentary expertise and curatorial authority -- as AI progressively displaces traditional access points to collections.
+The library sector table, documented by Julien Schuh, identified five areas of tension. The first one is existential: as machine-mediated consultation grows, the purpose of human-facing portals is called into question. Libraries observe stable on-site visits alongside a decline in physical document consultation, while their infrastructures face mounting bot traffic. The core challenge is preserving what lies at the heart of the library's mission – its documentary expertise and curatorial authority – as AI progressively displaces traditional access points to collections.
 
 The second tension concerns data and metadata: digitization covers only a fraction of collections, and what remains undigitized risks becoming invisible to AI systems. Metadata quality remains a fundamentally human investment (AI can assist but not replace it), and the risk of AI-generated content feeding on its own hollow outputs compounds the problem. The third is legal: public data faces appropriation by large digital actors and the scientific publishing oligopoly. The position defended was that open licenses (CC-BY including commercial reuse) are the tool for keeping the field open to new entrants rather than consolidating dominant positions. 
 
@@ -255,7 +255,7 @@ The second part of the discussion took a more projective turn. Participants arti
 
 The scenario converged on a political horizon: MCP development governed by ambitious open knowledge policies, protecting open epistemic infrastructures against commercial and ecocidal forms of predation.
 
-# Discussion
+## Discussion
 
 The presentations and exchanges held during the workshop brought out a number of transversal issues regarding MCP's role as a regulatory layer for agentic access, as a mechanism for data representation and contextualization, and as a vector of documentary mediation for non-expert users.
 
@@ -283,31 +283,17 @@ A shared concern across tables was that MCP remains largely unknown among profes
 
 ### Governance of the Agentic Web
 
-Governance emerged as a structuring question across all tables: who develops, publishes, and maintains MCP servers, and under what authority. A shared concern was that, by default, this role will fall to private actors. Beyond institutional governance, participants raised the governance of the protocol itself. MCP has already evolved through several iterations and will continue to develop. How could it evolve to be adapted to GLAM and data commons uses? RAG and MCP systems were designed for corporate environments, with proprietary, normalized, and homogeneous databases, whereas heritage repositories present fundamentally different conditions. Participants underlined the importance of communicating these stakes to GLAM communities, and of contributing to the design of the protocol itself as a form of governance by design, oriented toward open governance of the agentic web. This is the thrust of Alek Tarkowski's (Open Future Foundation) call for Wikimedia to be granted "a seat at the table" within the Agentic AI Foundation -- whose mission is to govern the open protocols and frameworks underpinning AI development -- in order to represent the interests of the broad knowledge commons (Tarkowski, 2025). This argument could be extended to GLAM networks such as Europeana, suggesting a strategic alliance between knowledge commons and cultural public goods in defending their shared vision and developmental needs for the future of the agentic web.
+Governance emerged as a structuring question across all tables: who develops, publishes, and maintains MCP servers, and under what authority. A shared concern was that, by default, this role will fall to private actors. Beyond institutional governance, participants raised the governance of the protocol itself. MCP has already evolved through several iterations and will continue to develop. How could it evolve to be adapted to GLAM and data commons uses? RAG and MCP systems were designed for corporate environments, with proprietary, normalized, and homogeneous databases, whereas heritage repositories present fundamentally different conditions. Participants underlined the importance of communicating these stakes to GLAM communities, and of contributing to the design of the protocol itself as a form of governance by design, oriented toward open governance of the agentic web. This is the thrust of Alek Tarkowski's (Open Future Foundation) call for Wikimedia to be granted "a seat at the table" within the Agentic AI Foundation – whose mission is to govern the open protocols and frameworks underpinning AI development – in order to represent the interests of the broad knowledge commons (Tarkowski, 2025). This argument could be extended to GLAM networks such as Europeana, suggesting a strategic alliance between knowledge commons and cultural public goods in defending their shared vision and developmental needs for the future of the agentic web.
 
-# Conclusion
+## Conclusion
 
 As a new site of value creation and regulation, the MCP protocol offers institutions an easy-to-deploy and concrete lever for responding to the growth of agentic access. Discussions pointed to the importance of GLAM institutions and open knowledge organizations positioning themselves rapidly. However, MCP deployment may reinforce existing institutional capacity gaps, as it relies on existing API infrastructures and requires the development of new professional competencies. Another risk lies in focusing primarily on agentic users, whereas the development of machine interfaces should not come at the expense of non-equipped human access interfaces. Finally, the governance of the MCP protocol may serve as a broader site of advocacy for greater representation of the commons and public goods within the governance of the agentic web.
 
-Bibliography
-
-Orosz, G. (2025). The Pulse #134: Stack Overflow Is Almost Dead." *The Pragmatic Engineer,* May 15, 2025. https://newsletter.pragmaticengineer.com/p/the-pulse-134.
-
-Peyre, E. (2026). Gouvernance et outils conversationnels génératifs: Expérimentation d'un espace de confiance de la donnée. *HAL*. <https://hal.science/hal-05655006>.
-
-Tarkowski, A. (2025, December 11). Why Wikimedia needs a seat at the Agentic AI Foundation. *Open Future*. <https://openfuture.eu/blog/why-wikimedia-needs-a-seat-at-the-agentic-ai-foundation/>.
-
-AI Assistance Disclosure
+## AI Assistance Disclosure
 
 The authors acknowledge the use of Claude Sonnet 4.6 (Anthropic) as a writing assistance tool for translating portions of this text from French to English and for rephrasing select passages. The author retains full responsibility for the final content, analysis, and interpretations presented in this article.
 
-\*\
-
-*
-
-- - -
-
-[\[i]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref1) Inference time refers to the moment when a trained model generates a response to a given input, as opposed to training time, when the model's parameters are learned from data.
+\[i] Inference time refers to the moment when a trained model generates a response to a given input, as opposed to training time, when the model's parameters are learned from data.
 
 [\[ii]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref2) An embedding is a numerical vector representation of a document chunk in a high-dimensional space, where semantic similarity is captured as geometric proximity: chunks with related meanings are positioned closer together, enabling similarity-based retrieval.
 
