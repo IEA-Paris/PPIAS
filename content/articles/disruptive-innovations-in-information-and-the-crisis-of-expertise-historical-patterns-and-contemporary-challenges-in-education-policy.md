@@ -241,11 +241,11 @@ For new, insurgent institutions, the VCAL model offers guidance for successfully
 
 The concept of knowledge commons may provide a framework for reimagining how we govern educational knowledge in an era of abundant (mis-)information and contested authority (Sanfilippo & Ocepek, 2025). Moreover, the rise of artificial intelligence introduces new challenges for professions, as synthetic media and algorithmically generated disinformation can spread misinformation at unprecedented speed and scale, requiring institutions to develop new verification mechanisms and adaptive governance frameworks that can keep pace with rapidly evolving technological capabilities. For professions, this means not only defending their authority but actively demonstrating their value relative to unqualified insurgents in navigating complex information landscapes. Such a knowledge-commons approach would recognize that addressing misinformation requires not just better information, but better institutions and more adaptive professions – ones capable of navigating the enduring tension between democratic access and expression, on the one hand, and expertise-based epistemic reliability, on the other. Education, positioned as both a target of and potential remedy to misinformation, offers a particularly rich site for institutional and professional innovation that can serve as a model for other policy domains. The historical record is clear: those who govern *through* new media, rather than merely *against* it, are most likely to have a hand in reshaping authority and sustain their integrity in the face of disruptive information technologies.
 
-[^1]: 
-[^2]: 
-[^3]: 
-[^4]: 
-[^5]: 
-[^6]: 
-[^7]: 
-[^8]: 
+[^1]: See, for example, <https://x.com/Moms4Liberty/status/1917412735664762914> <https://www.facebook.com/Moms4Liberty/posts/texaswhat-is-the-furries-act%EF%B8%8F-the-furries-act-aims-at-what-it-calls-non-human-be/991192746548068/>
+[^2]: This tactic predated the "Pamphlet Wars" of the 16^th^ and 17^th^ centuries, where pamphlets --- called "paper bullets" in the English Civil War --- were more often used for persuasion, not as literal projectiles (Eisenstein, 1980).
+[^3]: On disruptive innovation, including in education, see Christensen (1997) and Christensen et al. (2008).
+[^4]: The author of the quote has disputed the exact wording, but not the meaning.
+[^5]: Earlier instances, likely unknown to Europeans, had already been invented in East Asia, but had failed to gain traction in the same way, perhaps because of the sheer numbers of characters in written languages in those areas (Mancioti, 1989).
+[^6]: Goebbels was so successful in his multiple efforts that Nazi official Albert Speer approvingly noted that the Nazi Party "made the complete use of all technical means for domination of its own country. Through technical devices like the radio and loudspeaker, eighty million people were deprived of independent thought. It was thereby possible to subject them to the will of one man..." (Bullock, 1959, p. 7).
+[^7]: See in particular Long's famous 1934 national radio address unveiling his "Share Our Wealth" plan: https://www.hueylong.com/programs/share-our-wealth/huey-longs-share-our-wealth-speech
+[^8]: Networks manufactured by special interests with the appearance of organic, "grassroots" dynamics.
