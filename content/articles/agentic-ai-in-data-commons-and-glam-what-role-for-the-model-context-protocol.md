@@ -293,21 +293,19 @@ As a new site of value creation and regulation, the MCP protocol offers institut
 
 The authors acknowledge the use of Claude Sonnet 4.6 (Anthropic) as a writing assistance tool for translating portions of this text from French to English and for rephrasing select passages. The author retains full responsibility for the final content, analysis, and interpretations presented in this article.
 
-\[i] Inference time refers to the moment when a trained model generates a response to a given input, as opposed to training time, when the model's parameters are learned from data.
+[\[ii]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref2): An embedding is a numerical vector representation of a document chunk in a high-dimensional space, where semantic similarity is captured as geometric proximity: chunks with related meanings are positioned closer together, enabling similarity-based retrieval.
 
-[\[ii]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref2) An embedding is a numerical vector representation of a document chunk in a high-dimensional space, where semantic similarity is captured as geometric proximity: chunks with related meanings are positioned closer together, enabling similarity-based retrieval.
+[\[iii]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref3): At the time of writing, Mistral had not yet implemented support for the MCP protocol.
 
-[\[iii]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref3) At the time of writing, Mistral had not yet implemented support for the MCP protocol.
+[\[iv]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref4): RDF (Resource Description Framework) is a standard model for data interchange on the web; data is represented as triplets of the form subject-predicate-object ("Paris -- is the capital of -- France"), enabling machines to read and connect information across distributed sources.
 
-[\[iv]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref4) RDF (Resource Description Framework) is a standard model for data interchange on the web; data is represented as triplets of the form subject-predicate-object ("Paris -- is the capital of -- France"), enabling machines to read and connect information across distributed sources.
+[\[v]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref5): See, for example, Kryzo/mcp-bibliotheque_nationale_de_France.
 
-[\[v]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref5) See, for example, Kryzo/mcp-bibliotheque_nationale_de_France.
+[\[vi]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref6): See this official MCP registry: <https://registry.modelcontextprotocol.io/>
 
-[\[vi]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref6) See this official MCP registry: <https://registry.modelcontextprotocol.io/>
+[\[vii]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref7): Translation by the authors.
 
-[\[vii]](file:///Users/alexcano86/Desktop/Casemajor%20&%20Moreux.html#_ednref7) Translation by the authors.
-
-[^1]: 
+[^1]:  Inference time refers to the moment when a trained model generates a response to a given input, as opposed to training time, when the model's parameters are learned from data.
 [^2]: 
 [^3]: 
 [^4]: 
