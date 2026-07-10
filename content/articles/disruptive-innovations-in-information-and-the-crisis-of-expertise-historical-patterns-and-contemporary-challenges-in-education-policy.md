@@ -1,0 +1,505 @@
+---
+published: false
+article_title: "Disruptive Innovations in Information and the Crisis of
+  Expertise:  Historical Patterns and Contemporary Challenges in Education
+  Policy"
+date: 2026-07-10T09:05:00.000-05:00
+type: article
+needDOI: true
+authors:
+  - is_institution: false
+    firstname: Christopher
+    lastname: "Lubienski "
+    positions_and_institutions:
+      - institution: Indiana University, USA
+        positions: []
+    social_channels:
+      website: ""
+      wikipedia: ""
+      orcid: ""
+      linkedin: ""
+      webstwitterite: ""
+      google_scholar: ""
+      researchgate: ""
+      mendeley: ""
+abstract: This analysis examines how disruptive information technologies — from
+  the printing press to radio to the digital age — have repeatedly democratized
+  access to knowledge while also destabilizing established authority and
+  expertise. Through a comparative-historical approach, it examines
+  institutional responses to misinformation, focusing on education policy as
+  both a target and potential remedy. Drawing on neoinstitutionalist
+  perspectives, the paper introduces a model demonstrating how effective
+  challengers to institutionalized expertise leverage visibility, community,
+  adaptability, and legitimacy (VCAL) to successfully enter disrupted fields.
+  Historical cases — from 16th-century pamphleteering and related religious
+  violence to fascists’ use of radio — illustrate how reactive strategies
+  typically fail while adaptive engagement more sustainably reshapes fields. The
+  paper also explores examples and implications for current think tanks,
+  advocacy groups, and social media platforms serving as intermediaries that
+  both spread and combat misinformation. The concluding discussion considers how
+  effective responses require institutions to govern through new media rather
+  than merely against it, developing verification mechanisms and professional
+  standards that can maintain epistemic integrity in an era of synthetic media
+  and algorithmic amplification of misinformation. Ultimately, the paper
+  concludes that addressing the crisis of legitimacy requires institutional
+  innovation capable of navigating the enduring tension between democratic
+  access and expert authority.
+issue: content/issues/paris-ias-ideas-2026.md
+highlight: false
+bibliography: /disruptive-innovations-in-information-and-the-crisis-of-expertise-historical-patterns-and-contemporary-challenges-in-education-policy/references_lubienski.bib
+language: English
+---
+## Acknowledgements
+
+I am grateful to the Institut d'études avancées de Paris for the opportunity to focus on the ideas in this paper. Furthermore, discussions with Joe Malin, Anna Lubienski, and Kristin Schumacher have been helpful in shaping my thinking on these issues, although I alone am responsible for any errors.
+
+## Introduction
+
+Three cages hang from the steeple of St. Lambert's church in Münster, Germany. They once held the tortured, mutilated bodies of leaders of an apocalyptic movement who proclaimed a new millennium, printing pamphlets on the newly invented printing press to spread their message to other true believers. Their promises of a "New Jerusalem" attracted adherents even while these cultists imposed a horrific authoritarian regime over the city (Cohn, 1970). Thousands died from their brutality and from the violent siege as the local ruler reclaimed control of the city. The now-empty cages still hang, initially as a deterrent to other potential rebels, and then as a chilling reminder of their eventual torture and execution in 1535. 
+
+Almost five centuries later, and a half a world away, a rumor started to spread that schools were installing litter boxes to accommodate furries – a fandom subculture that dresses as anthropomorphized animal characters – who supposedly want restrooms aligned with their self-identities. Versions of the rumor went viral across new media, shared by the influential "Libs of TikTok" account, the world's most prominent podcaster, and an emerging alternative news channel, One America News Network (OAN). Fox News and the New York Post repeated the rumor, and as the claim spread to Canada, the U.K., Australia, and New Zealand, advocacy organizations such as the Safe Schools Alliance, Moms for Liberty, and Gays Against Groomers warned their followers about this latest proof that public schools are devolving into woke-inspired chaos\[[1]](file:///Users/alexcano86/Desktop/Lubienski.html#_ftn1) (O'Rourke, 2026; Solomon, 2022). 
+
+Of course, there is no evidence that any school did such a thing, and the claim has been repeatedly debunked by school officials, journalists, and professional fact-checkers (Charlotte Observer, 2022; Mendoza, 2022; Paz, 2022). But the charge has advanced, particularly through digital media, playing on fears about public schools accommodating trans and "neogender" students, and sparking numerous efforts by lawmakers to outlaw such imaginary practices (Austad, 2025; Bollinger, 2022; Brown, 2023).
+
+Information Technology and Institutional Disruption
+
+One might wonder what religious zealots of the 16^th^ century have to do with students in animal suits supposedly seeking to relieve themselves in the 2020s. Both bizarre cases were manifestations of the new media of their respective historical moments. Replacing hand-copied reproductions laboriously with cheap and easily distributed printed information, the printing press --- invented several decades before the Münster rebellion --- has been cleverly called the "Twitter" of its time (Jaeger, 2019). And the millennialist cult in Münster possessed a printing press that it used to produce pamphlets aimed at attracting other apocalyptic-minded souls to the cause. Indeed, as the new medium of the day, leaflets were even loaded into cannons and fired at opponents --- an early form of spam (Cohn, 1970).\[[2]](file:///Users/alexcano86/Desktop/Lubienski.html#_ftn2) Later innovations in information technology --- including the rise of radio and the dawn of the digital era --- would likewise not only increase access to information, but also unleash "alternative" facts and worldviews, hoaxes and misinformation, existential and epistemic challenges to established institutions and expertise, and violent social instability and upheaval. 
+
+"Disruptive innovations" in information technology --- from the printing press to the internet --- are typically thought of as essential steps forward: democratizing access to information, lowering costs for information dissemination, and empowering marginalized voices. And they are.\[[3]](file:///Users/alexcano86/Desktop/Lubienski.html#_ftn3) However, in enabling new challengers (both the clearly and questionably qualified) to existing institutions, they also disrupt established ideas of expertise, the relationship between knowledge production and use, and the role of existing and new institutions in organizing and disseminating that knowledge. *The issue, then, is not isolated false beliefs in furries or self-proclaimed prophets, but breakdowns in the institutional mechanisms for adjudicating knowledge and expertise.*
+
+This issue has recently taken on increased relevance in our own era, especially as we see the rapid rise of digitally-driven misinformation. We have now --- by far --- more access to information than ever before. But we also have more misinformed citizens (Adeosun, 2025). We are inundated with data, research syntheses, expert reports, and policy briefs (Lubienski, 2019; Steiner-Khamsi, 2024). Yet belief in hoaxes, delusions, and disinformation is widespread. Just as with the millenarian promises of the Münster cultists propagated by new technology, misinformation is proliferating through the internet now at a rate unimaginable to them, and even perhaps unimaginable to many of us just a few years ago. Coinciding with this glut of both verifiable and misleading data --- what has been called an "infodemic" (Stephens et al., 2023) --- expertise in particular is under siege, largely due to the very information architecture experts themselves have created in order to offer more democratic access to knowledge. 
+
+Ironically, much of this onslaught of misinformation comes during a period when policymakers, philanthropists, and others are calling for "evidence-based policy" and "data-informed decision-making" (although many of them fail to follow their own guidance in that regard). One might think that such exhortations would mean that policymakers would be more interested now in what evidence and analysis can tell us about the problems and potential solutions we face. But policymakers themselves seem as susceptible as anyone else to disinformation: addressing problems that are not real (like furries and voter fraud), while actively undercutting evidence on crises (like climate change) that are. In fact, politicians have been some of the most prominent purveyors of false narratives such as denying human-caused climate change, attacking the evidence on the effectiveness of vaccines, and advancing the furry hoax (Benen, 2022; Cole, 2022).
+
+If it were only litter boxes in schools, perhaps the issue would be insignificant, albeit strange. But misinformation often guides policy. For example, misinformation on voting machines has provided the grounds for policies to restrict voting, and has even caused policymakers to turn their backs on coordinated efforts they themselves created to limit the very voter fraud they claim to abhor (Parks et al., 2025). Indeed, misinformation campaigns are often orchestrated by intermediaries in concerted efforts to undermine established expertise in asserting their own authority and agendas over policy, as has famously been the case with think tanks funded by the fossil fuel industry attacking climate scientists (Oreskes & Conway, 2010). In fact, many policymakers themselves actively denigrate evidence and expertise. They disparage experts and institutions, such as universities or professions, as "elitist" and "out of touch" at best, or captured by special interests and agendas, at worst, while giving free rein to policy agendas created by actual elites and special interests that run counter to evidence-based empirical findings. 
+
+For instance, the U.S. Vice President, himself a beneficiary of an elite education at an Ivy League university, proclaimed that "professors" and "universities are the enemy" --- "\[w]e have to honestly and aggressively attack the universities" (quoted in Shepherd, 2025). While he had previously acknowledged the need to "create stories" in promoting the misinformation that immigrants were eating pets (Halpert, 2024), theVice President denigrated experts: "They have Ph.D.s, but they don't have common sense and they don't have wisdom," arguing that policymakers are not going to solve problems "by listening to experts" (Roll Call Factbase, 2024). 
+
+So, the primary problem is not simply that policymakers and other individuals say or believe false and often ridiculous things like the litter-boxes-for-furries hoax or claims of pet-eating immigrants. Instead, the essential issue is that the institutional machinery for differentiating fact from fiction, for determining what counts as "truth," is increasingly failing, under attack from new claimants to the title of "expert" while also under stress from new technological forces ill-suited for the new digital information ecosystem. We see this in many areas where misinformation stymies the evidence-driven insights of experts: in organized assaults on climate science, in efforts to undermine the data on the effectiveness of vaccines, and in how we educate future generations of students to be prepared for this new digital world. 
+
+This analysis focuses on the institutional antecedents and responses to misinformation, weighing how past lessons from the disruptions sparked by new information technologies offer insights on our current predicament of mass misinformation, rapidly eroding trust in institutions, political polarization, and social upheaval. In particular, drawing on neoinstitutional perspectives, I consider how both established and emerging institutions respond to the crisis of legitimacy as expertise and authority within knowledge-based fields are disrupted by new technologies, and what strategies --- some effective, some not --- incumbent and emergent claimants to the mantle of "authority" adopt. To do this, the paper synthesizes different literatures --- including from sociology, psychology, and media studies --- and examines these issues from secondary sources on distinct historical cases of innovations in information technology linked to disruption and misinformation. The analysis considers how the crisis of legitimacy over claims of authority can be addressed, focusing on education policy, which is often positioned both as a target of and potential response to misinformation. Indeed, education is of central concern because it is both a target of misinformation and a potential remedy to it.
+
+Misinformation and Its Variants
+
+Of course, the term "misinformation" can be rather broad and somewhat nebulous. So it is useful to clarify how it is used in this paper. As in most descriptions of the topic, *misinformation* refers to claims that are incorrect, regardless of whether there is an intent to deceive (Kendeou et al., 2019). A subcategory, *disinformation*, involves claims that are promoted with the awareness that they are false. Thus, a single claim may be disinformation when it is first asserted for the purpose of misleading someone who is unaware that it is false, and then misinformation if it is subsequently shared by that second person who is oblivious to the claim's veracity. Still another variant, *malinformation*, refers to information that is in itself not inaccurate, but is twisted or manipulated --- perhaps, say, asserted out of context --- in ways designed to deceive (Facciani, 2025). There are a number of other related ideas such as propaganda, conspiracy theory, information pollution, bullshit, etc. (DiResta, 2024; Frankfurt, 2025; Lubienski & Malin, in press; Malin & Lubienski, 2022, in press). But for the sake of brevity, I leave those to another discussion. For the sake of simplicity, the term "misinformation" is used in this paper broadly to include the general idea of disseminating inaccurate information.
+
+Misinformation in Education Policy: Creating Crises and Imagined Offenses
+
+Misinformation is hardly a new idea. In mythologizing and likely embellishing his accomplishments, some five centuries before the common era Darius the Great demonstrated the use of propaganda in ancient Persia,wielding it both toward his own subjects and toward his potential external enemies; and around the 2^nd^ or 3^rd^ century BCE *Kautilya's Arthashastra* advised rulers in the Mauryan Empire on how to use disinformation to sow discord among their opponents (Kanefield & Dorian, 2023). In ancient Rome, when Antony was with Cleopatra, his rival Octavian sought to besmirch his reputation through "an unprecedented disinformation war...using short, sharp slogans written upon coins in the style of archaic tweets" (Kaminska, 2017). 
+
+Antony was \[portrayed as] a philanderer, a womaniser and a drunk not fit to lead, let alone hold office. Most importantly, he asserted Antony had been corrupted by his love affair with Cleopatra, the leader of a foreign land. As Cleopatra's puppet, no one could be sure if Antony was truly loyal to Rome or if his allegiance was to Egypt.... Fake news had allowed Octavian to hack the republican system once and for all. (Kaminska, 2017)
+
+Myriad instances have appeared since ancient times. Diplomatic and espionage efforts have often leveraged misinformation. Religious leaders often used or curated (mis)information in ways that could control or persuade. And propaganda has been evident in the mass education efforts of many countries --- especially those with authoritarian tendencies. The effectiveness and reach of disinformation campaigns often reflected the new technologies that were becoming available: newspapers, broadcasting, and schooling, for instance.
+
+Misinformation can often be a familiar feature of politicized policy landscapes, especially education, because schools are contested terrain fought over by competing interests and constituencies with conflicting agendas and worldviews (Aristotle, 1946). In a classic work, David Berliner (1993) analyzed education reform campaigns "in an era of disinformation," noting how information that put the performance of public schools in a favorable light was being suppressed in order to perpetuate a "manufactured crisis" narrative so politicians and reformers could justify a draconian reconfiguration of schooling in America (Berliner & Biddle, 1995). 
+
+Another illustrative example of such mis- or disinformation was documented by political scientist Barry O'Neill (1994). Prominent leaders (the former president of Harvard, U.S. Secretary of Education, a presidential candidate, a U.S. Senator, the Governor of California, the Chancellor of New York City Schools) and influential commentators, including a Pulitzer Prize-winning columnist, had been promoting a ranking that determined the "top offenses" in schools --- substance abuse, pregnancy, bombings, rape, robbery, assault --- were qualitatively worse than in the 1940s (talking, chewing gum, running in the halls, "not putting paper in wastebaskets," and so forth), thus demonstrating that public schools had rapidly devolved into chaos. 
+
+What we might now call "influencers" repeatedly referred to that list --- purportedly "from an 'ongoing' survey" of teachers --- as empirical proof of educational decline. The rankings of offenses were subsequently cited in respectable outlets such as the *Congressional Quarterly Researcher*, the *Wall Street Journal*, and at least five times in the *New York Times*. As O'Neill writes, "They have become the most quoted 'results' of educational research, and possibly the most influential" (O'Neill, 1994).
+
+In the pre-internet age, those rankings were variously attributed to CBS News, the California Department of Education, and the Heritage Foundation. Yet no one seemed to know exactly what study they were based on until O'Neill traced their origins to the personal recollections of a Texas oil tycoon who was twice tried for, and acquitted of, murder before becoming a prominent opponent of public schools. The lists simply drew from his memories of his own school days compared to what he felt he was seeing in current headlines; as the lists' author noted: "How did I know what the offenses in the schools were in 1940? I was there. How do I know what they are now? I read the newspapers" (O'Neill, 1994). Despite the egregious lack of empirical grounding, his lists were then taken up and published by culture warriors before being embraced uncritically by political elites as proof of cultural decay in public education. Like much misinformation, the rankings were widely shared and accepted likely because, even if it were disproven, the *general idea "could" be true in the particular political worldview that had been constructed for the recipients of those claims.*
+
+In fact, such "crisis" narratives --- often exaggerating or manufacturing crisis conditions --- are known to be useful in advancing often drastic policy change. As Naomi Klein (2007) noted in her classic work, *The Shock Doctrine*, the intellectual author of the modern school voucher movement, Milton Friedman, contended that "only a crisis actual or perceived produces real change" (Friedman, 1962, p. ix). Such a playbook is taken up by policymakers, such as a Canadian provincial minister of education who said substantive reforms are impossible "if you don't create a great \[or "useful"] crisis" in education (Ontario Secondary School Teachers' Federation/Des Enseignantes-Enseignants des Ecoles Secondaires de l'Ontario, 1996).\[[4]](file:///Users/alexcano86/Desktop/Lubienski.html#_ftn4)
+
+Yet even as it is targeted by policy actors, education is typically seen as a potential corrective remedy to factual inaccuracies and false claims, a form of inoculation against misinformation --- which it often is (Facciani, 2025). But periods of crisis, upheaval and disruption --- particularly when schools and other institutions are vulnerable or under attack --- change the underlying equation. In a crisis, information can be scarce (or nonexistent), incomplete, obsolete, erroneous, or manipulated (highlighting the myriad ways that facts can be related to misinformation). As Klein reminds us, in such conditions people are more susceptible to --- and less able to vet --- messaging that they would normally research or reject. Such conditions of social instability create fertile ground for the spread of both innovative ideas and dangerous misinformation.
+
+Innovations in Information Technology
+
+Such conditions were present around the time Johannes Gutenberg invented the movable-type printing press in the 1450s.\[[5]](file:///Users/alexcano86/Desktop/Lubienski.html#_ftn5) Certainly, multiple factors were at play at the time that contributed to social instability: demographic changes in the wake of the Black Death, subsequent pressures on the labor market, related grievances from peasants articulated in a series of regional rebellions, growing religious discontent and political schisms, just to name a few such factors. But the printing press changed the dynamic --- relatively quickly --- in ways that would never have been possible without it. Suddenly, information could be copied and distributed widely, and at a fraction of the cost. Instead of laboriously hand-copying manuscripts over years, printers could produce multiple copies in a relatively short time. Now, instead of relying on word-of-mouth or handwritten messages, ideas could spread rapidly, making it more difficult for established forms of authority --- namely the Church and state --- to control information. Instead of monks and scholars copying works in a monastery, for instance, printers could (and did) set up shop and then move to a new jurisdiction relatively easily if they met official disapproval (Eisenstein, 1980).
+
+So printing became the new medium of the era in Europe. Peasant upheavals continued, but were now fueled by printed pamphlets, theses, and declarations. For instance, the *Twelve Articles of the German Peasants*did not offer a substantially new program of reform compared to previous insurrections, but some 25,000 copies could be quickly printed and distributed for potential insurrectionists (Bainton, 1950). Pamphleteering, mastered by new thinkers such as Martin Luther and Thomas Müntzer, promoted ideas well outside of the approval of established authorities and, in both cases, provoked violence and violent reaction. Indeed, Luther called printing a divine "gift" --- "God's highest and extremest act of grace, whereby the business of the Gospel is driven forward" (Black, 1963, pp. 431--432).
+
+With the mass printing of Bibles, often in the vernacular, the press quickly undermined the Catholic Church's monopoly on interpreting scripture as new "experts" offered and printed their own understanding of scriptures and prophecies, typically without the institutional scaffolding that had previously been provided by the Church and established scholars. While in earlier times, alternative interpretations of scripture that ran counter to the Church's monopoly could be geographically isolated and then eliminated as heresies, the printing press undercut that monopoly by allowing alternative interpretations written for lay audiences to take hold and spread. The Pope threatened damnation for anyone using unapproved printing presses, and the Catholic Church started its *Index of Prohibited Books*. Islamic authorities also suppressed printing as a threat to oral traditions around the Quran (Robinson, 1993).
+
+But this innovation in information technology did not simply threaten to overturn established authority. Indeed, incumbent institutions and elites soon began also to leverage printing to counter the emerging threats to their authority; for instance, by printing standardized catechisms and developing new institutions of education to propagate the faith (Cumby et al., 2021). But they had to adapt to the new information landscape, where production and dissemination of heretofore costly information was now cheap and easy, and access to information greatly expanded and became more difficult to control. Thus, printing changed the conditions of how knowledge could be governed. The press was not merely a communication device; it was an agent of disruption, change, and power for both existing and insurgent actors and institutions (Eisenstein, 1980). But while this innovation was a valued development in the long-term democratization of information, it is also important to remember that it came with a cost, as Lamartine (1854) illustrated in an apocryphal tale of Gutenberg's dream on realizing his invention:
+
+*I heard two voices.... One said to me, "Rejoice, Johannes; thou art immortal! Henceforth, by thy means, shall all knowledge be spread over the world. Nations which dwell thousands of miles from thee, strangers to the ideas of thy country, shall read and understand thoughts yet silent, but hereafter to be spread, and multiplied like the reflection of fire, by thee, and by the hand!*
+
+*Rejoice, Johannes; ... for thy discovery will give everlasting life to genius which would have been still born without thee, and whose gratitude will in return proclaimed the immortality of him who has made it immortal!"*
+
+*...I heard another voice, which said, "Yes, Johannes, thou art immortal! But at what a cost! Are then the thoughts of thy fellow-men always so holy and so pure as to merit being given to the eyes and ears of the human race? Are not many of them, and perhaps the greater part, such as would a thousand times rather deserve to be stifled and annihilated, than repeated and multiplied over the world?*
+
+*...Men will arise of powerful and attractive minds, but of proud and corrupt hearts. Without thee, they would have remained in darkness, and confined to a narrow circle, doing evil only to their neighbors and in their own time. By thy means they will bring madness, misfortune, and crime upon all men and all ages!!*
+
+*See the thousands of souls polluted by the corruption of one! Youth, perverted by books from whose page is distilled the venom of the spirit! Young girls become immodest, unbelieving, and harsh to the poor, owing to the pages which poison their hearts!* 
+
+*Believe me, Johannes, live as though thy discovery had not been. Look upon that invention as an attractive but fatal dream, of which the realization would be useful and holy only if men were good. But man is evil, and, lending arms to the wicked, is it not sharing in their guilt?"* (Lamartine, 1854, pp. 283--285)
+
+Indeed, while established institutions of the time guarded knowledge (and thereby propped up the elite), with manuscripts being rare and often in Latin or Greek, self-proclaimed prophets and "experts" suddenly had unprecedented access to channels to amplify their voices. But while previously they had been able to rely on scholars and clerics to tell them what was true, newly literate populations were for the first time faced with a deluge of printed material often presenting them with competing and often incendiary claims and calls to action. As faith in established institutions and expertise became fragmented, people had to vet conflicting claims, even as new "experts" claimed the powers of insight and interpretation traditionally reserved for the Church and universities. Without the scaffolding of established expertise, many claims drew adherents. These included apocalyptists such as the young Jan of Leyden, who proclaimed himself the successor to the biblical David as "King of the New Jerusalem" in Münster, and the secretive, violent followers of another "new David," Jan van Batenburg, who were convinced that scripture justified them in taking the lives and property of "unbelievers" (Jansma, 1977). Millions perished in the subsequent rebellions, repressions, and religious wars fueled to various extents by easy access to information that spawned alternative claims to spiritual and worldly authority. 
+
+Such innovations in information technology often --- but not always --- coincide with, catalyze, or exacerbate periods of upheaval, as new forms of access to knowledge and new claims of expertise disrupt existing institutions, and may be followed by periods of social instability. This is at least partly a function of the innate accessibility and potential pervasiveness of the innovation. As represented in Table 1, different types of such innovations can enable either easier or more difficult entry to new information providers into the field based only on material costs (difficulty of acquiring and using the technology; note: *not* including costs of overcoming institutional barriers). Here, I offer a heuristic categorization of their costs, capacities, and related features relative to their respective historical periods.
+
+*T\*\*able 1: Innovations in Information Technology and Relative Costs and Capacities*
+
+\|
+
+*Information\
+Technology\
+Innovation*
+
+\|
+
+*Entry\
+cost*
+
+\|
+
+*Dissemination\
+capacity*
+
+\|
+
+*Cost per unit\
+of propagation*
+
+\|
+
+*Susceptibility\
+to external\
+control*
+
+\|
+
+*Verification\
+effort*
+
+|     |
+| --- |
+
+\|
+
+**Writing**
+
+\|
+
+Low
+
+\|
+
+Low
+
+\|
+
+Low
+
+\|
+
+Med
+
+\|
+
+Low
+
+\|
+|
+
+**Schooling**
+
+\|
+
+Low to High
+
+\|
+
+High
+
+\|
+
+High
+
+\|
+
+High
+
+\|
+
+Low to High
+
+\|
+|
+
+**Printing Press**
+
+\|
+
+Med-High
+
+\|
+
+High
+
+\|
+
+Low
+
+\|
+
+High
+
+\|
+
+Low?
+
+\|
+|
+
+**Telegraph**
+
+\|
+
+High
+
+\|
+
+Medium
+
+\|
+
+Medium
+
+\|
+
+High
+
+\|
+
+Low
+
+\|
+|
+
+**Telephone**
+
+\|
+
+Low
+
+\|
+
+Medium
+
+\|
+
+High
+
+\|
+
+High
+
+\|
+
+Low
+
+\|
+|
+
+**Radio**
+
+\|
+
+Low-Med
+
+\|
+
+High
+
+\|
+
+Low
+
+\|
+
+Medium
+
+\|
+
+Med-Low
+
+\|
+|
+
+**Television**
+
+\|
+
+Med-High
+
+\|
+
+High
+
+\|
+
+Low
+
+\|
+
+High
+
+\|
+
+Med-Low
+
+\|
+|
+
+**(Direct) Mail**
+
+\|
+
+Med
+
+\|
+
+High
+
+\|
+
+Low
+
+\|
+
+Med
+
+\|
+
+High
+
+\|
+|
+
+**Internet**
+
+\|
+
+Low
+
+\|
+
+High
+
+\|
+
+Low
+
+\|
+
+Low
+
+\|
+
+High
+
+\|
+
+In this representation, we can compare different innovations based on their costs for potential producers, the ability of external forces (governments, institutions) to control that technology, and research costs for consumers to determine the veracity of the claims through that technology (at least with the technology available around the time of that innovation). For instance, written language --- whether on cave walls, parchment, or hand-copied manuscripts --- was a technology that was relatively easy to adopt (especially if one knew the characters). But it was largely a "one-to-few" medium (Dewar, 1998), especially before widespread literacy. Due to this ease and accessibility, it was difficult for authorities to control in itself, although the rise of manuscript and scholarship culture, limited literacy, and the use of scholarly language (Latin) allowed institutions like universities and the Church to limit access and govern information in that medium. Absent those institutions, the consumers (readers) faced challenges determining the veracity of written claims. In another case, mail, entry, and production costs were low (assuming postage was low), but with mass printing and more recent address aggregation techniques, dissemination potential is high, a "one-to-many" element later exploited by "direct mail" due to low production and postal costs. But mail *can* be externally controlled, as subjects of any authoritarian regime can attest. Claims can be made through mail that are difficult for readers to verify --- a factor that helped in the rise of the direct mail industry (Moriyama, 2022). Notably, we can also consider institutionalized schooling in this representation as an innovation for the distribution of information.
+
+            Another instructive case is radio, which lowered costs to new entrants seeking to broadcast a message. As opposed to, say, telephones, a one-to-one device that could reach one listener at a time, radio allowed broadcasters to reach thousands or more at a negligible cost per message --- a one-to-many mechanism. Radio had an advantage over newspapers for consumers in that it could be accessed for free after an initial expense (the cost of a radio), and consumers could listen while doing other tasks. But whereas newspapers had started to professionalize journalism, implementing editorial standards and providing for corrections, for instance, outside of government regulation, broadcasting on radio had few natural barriers to unregulated voices --- available to anyone who could set up a transmitter, or pay for broadcast time from existing broadcasters. Many new entrants mastered the medium, including entertainers and broadcast journalists. But so did other voices. Joseph Goebbels provides a textbook example of how the Nazis effectively leveraged radio to incite and control populations, putting all radio stations under the control of the Reichs-Rundfunk-Gesellschaft (German National Broadcasting Corporation), encouraging manufacturers to produce inexpensive Volksempfänger (people's receiver-radios), and setting up loudspeakers to air broadcasts in public spaces.\[[6]](file:///Users/alexcano86/Desktop/Lubienski.html#_ftn6) In the U.S., figures like Father Coughlin and Aimee Semple McPherson showed how radio could motivate multitudes, create celebrity and scandal while still making listeners feel like they had a personal connection to the speaker. 
+
+As with printing, radio offered opportunities for the voiceless, but also disrupted existing modes of authority. A farmer might for the first time be able to hear the voice of the nation's leader or a forecast from an expert meteorologist, but might also be persuaded by any self-appointed prophet with a microphone. Over time, governments became more involved in regulating access to radio broadcasting, seeking ways of protecting the public interest, in some cases, or in excluding and targeting political opponents, in others (Gladstone, 2026). Radio has continued to be an effective way to reach and mobilize movements, as in the Rwandan genocide (Kellow & Steeves, 1998). A university dropout like Rush Limbaugh could reach millions with his political "analysis" through his effective use of "talk radio" to re-energize and reconfigure the conservative agenda as a working-class movement in the U.S. As with print, people experiencing this new medium were often confronted with conflicting claims, juxtaposing established expertise with new voices in areas such as religious authority, but also conspiracy theories and antisemitism. New self-appointed experts emerged in areas beyond just politics, such as healthcare, sports fandom, and even travel and relationship advice, presenting challenges to existing sources of expertise.
+
+Three Disruptions: Access, Interpretive Authority, and Institutional Form
+
+While such innovations can be disruptive (constructively, destructively, or both), the types of disruptions are important to consider, as they shape the types of responses and strategies available to extant and insurgent challengers in the changing information landscape. Here, I focus on three primary disruptions:
+
+**1. Technical innovations** such as these certainly lowered costs to information dissemination, but they often **altered the conditions under which institutions could govern knowledge**. The printing press and radio were not simply technical innovations, but also social innovations that reshaped how people engage with information and with each other. On the supply side, this allowed for new voices that were previously excluded to enter the cultural conversations of the times, be they in print or over the airwaves. Religious dissenters, pamphleteers, printers, translators, and vernacular writers could challenge clerical and scholarly monopolies over information through the printing press. Likewise, radio saw not just broadcast networks, but entertainers, advertisers, community voices, "experts," and what we might now call "influencers" enter into the popular discourse. These new participants gained entry regardless of the established institutional gatekeeping of their respective times. The fact that a press could be built anywhere with local expertise meant that monastic centers of learning and universities did not necessarily get to approve new pamphleteers or printers, just as no one checked Father Coughlin or Rush Limbaugh's foreign policy credentials, or Laura Schlessinger's professional training, before they began to shape the views of millions of their listeners on these topics. In fact, the new media made it much more difficult for extant institutions to impose their standards or otherwise exclude these new entrants to the field.
+
+**2.** **Innovations destabilized interpretive authority**. In the case of the printing press in particular, established experts did not simply face a growing body of texts. The proliferation of texts was also accompanied by the proliferation of self-appointed "experts," such as the leaders in Münster, who claimed the authority to understand and interpret texts such as the Bible as well as other pseudo-scriptures such as the Sibylline Oracles (Cohn, 1970). These new claimants to the mantle of expertise sparked rival communities and alternative audiences, as well as new claims of insight, wisdom, and prophecy, which further fragmented the information ecosystem. While both the press and radio certainly democratized both access to, and the production of, information, in doing so, their rapid adoption is also clearly linked to social instability and often violent movements. Popular and millennialist movements, as in the German Peasant Wars, the ephemeral "kingdom" of Münster, and the Ranters of England, as well as the rise of Nazism in Germany and the re-configuration of the conservative movement in the U.S. in the 1980s and 1990s, show how innovations in information technology can transform symbolic claims, grievances, and prophecies into mobilized communities (DiResta, 2024). 
+
+**3. Disruptions produced new institutional practices and forms**. In light of the new claimants to authority, we see the emergence of new fields and professions as responses to changing information ecosystems. For instance, with the advent of printing, new professions emerged, including not just printers, but also publishers, editors, and later journalists. Likewise, the impact can be seen in institutions such as licensing regimes, learned societies, copyrights, peer-reviewed journals, citation practices, and the restructuring of bureaucracies (from inherited office toward procedural credibility), and eventually professionalized journalism --- all linked to the new "print culture" (Eisenstein, 1980). Likewise, with radio, new professions and institutional practices included broadcast journalists and editors, regulators, communications lawyers, audience researchers, network specialists, "ad-men," public-relations professionals, radio preachers, and propagandists. As with the professions and institutional practices resulting from the printing press, all of these institutional innovations following the rise of radio helped construct new epistemic regimes.
+
+While radio can be seen as an incremental innovation --- another step in the evolution of information technology from print to analog to digital to artificial intelligence, the stage between telephones and television --- the printing press was relatively more revolutionary, and the closest historical approximation to the capacity for impact we are seeing in the digital information age (Dewar, 1998). Particularly given the social context at Gutenberg's time, print shattered both technical and institutional limitations on access to and production of information in the decades that followed. As McLuhan (1962) contended, print did not only transmit ideas; it helped reorganize perception, the human mind, culture, and the social order. But both print and radio sparked changes that were similar in nature, if not in relative impact and social and technological contexts, as they challenged established authority, provoked backlash and retrenchment, and reconstituted institutions, practices, and fields. The lasting contribution from the print revolution in particular is not that the old order was overturned. It is that authority migrated in institutions from an established or inherited basis toward procedural credibility.
+
+Institutional Responses: Suppression, Adaptation, and New Authority
+
+With such potentially monumental impacts in mind, we turn now to the question of which institutional responses to these disruptive innovations had lasting effects, and which did not. Without necessarily comparing the scale or depth of the effects of the printing press, much less radio, to the (still largely unknown) impacts of the current digital era and the AI revolution, this discussion proceeds from the idea that previous eras of disruptive innovation in information technology may offer some general lessons for our current age of easy access to (mis)information, particularly in how institutions are challenged, how they may respond, and how new settlements can then emerge. 
+
+In thinking about how different institutions and organizations responded to social and institutional disruptions related to innovations in information technology, it is useful to consider two main institutional types: 
+
+1) *Established authorities*: extant or incumbent institutions in existence when the innovation in question emerged. Examples include:
+
+\-      From the print era: Church, universities
+
+\-      From the radio era: popular and specialized publications, mainline denominations, or government specialists
+
+\-      In the digital era: professions, bureaucracies, researchers, "legacy" or "mainstream" media
+
+2) *Emerging claimants*: insurgent organizations and individuals seeking entry to the field, claiming some form of expertise to legitimize their bid for authority. Examples include:
+
+\-      From the print era: Protestant sects (such as the rebels in Münster), radical printers
+
+\-      From the radio era: advertising and public relations gurus, radio preachers, and (eventually) talk show hosts
+
+\-      In the digital era: advocacy organizations and some new think tanks, online communities, influencers, etc.
+
+With these broad institutional types in mind, we can consider what types of responses "worked," or did not, for incumbent and emerging institutions. 
+
+Incumbent Failure: The Limits of Suppression 
+
+With regard to established institutions, responses can generally be classified as either *reactive* or *adaptive* with respect to new technologies, with the latter having greater impact and longevity. Reactive strategies were more evident with the printing press, whose more revolutionary impact meant that its introduction elicited more efforts at suppression of the technology itself than did radio. Two artifacts epitomized such strategies. First, after the Church initially welcomed the innovation (Eisenstein, 1980), Pope Alexander VI's edict in 1501 threatening excommunication to any printers operating without approval of the Catholic Church exemplifies reactive responses --- a tactic followed by many secular governments as well. The Church also attempted to wield its increasingly ineffective systems of censorship, such as creating the *Index Librorum Prohibitorum* (Index of Prohibited Books), and started to vet and censor other works before publication --- an antecedent of peer review (Angulo & Hadley, 2025; Lipscombe, 2016). But reactive efforts such as banning and burning books were not particularly effective; for example, in a world of politically fragmented jurisdictions, a printer could (and did) simply pack up and move a press to a more favorable territory, and publishing a prohibited book could be a mark of honor as well as a nifty marketing device for some Protestant printers (Eisenstein, 1980). 
+
+In short, trying to stamp out instances of "objectionable" or "heretical" publications before or as they appeared neglected to account for the increasing accessibility and low costs of this new medium, and the growing demand from an increasingly literate population that often wanted access to new, unapproved ideas. Particularly in a context where elements of the ruling elite in some parts of Europe were keen to encourage alternatives to (some) dominant institutions, and the unfeasibility of preventing unauthorized use of the technology itself meant that reactive efforts to recover a monopoly over information and its interpretation were destined to fail. With radio, states began to regulate broadcasters through restrictive licensing on the grounds that the airwaves were a public good, and the public interest in information dissemination had to be guaranteed(Gladstone, 2026). Some governments asserted a monopoly on radio in order to limit access to information over this medium. But clandestine operators, pirate radio stations, and transmitters outside the boundaries of regulated jurisdictions highlight challenges to such state-mandated strategies. Indeed, rebels in some cases would often strive to take over radio stations as one of the first orders of business. Pre-censorship by governments could also be a challenge when broadcasts were live, just as the Church struggled to effectively censor books across multiple jurisdictions. 
+
+What Works for Incumbents: Adaptation and Procedural Credibility
+
+In contrast, adaptive responses appeared to be more effective in the long run --- an insight apparent in the historiography of the printing press. Earlier work, such as Eisenstein's (1980) classic analysis of the impact of printing, highlighted the importance of the press as an "agent of change." She showed how the press was crucial for the rise of the Protestant Reformation, the spread of the Renaissance, the development of scientific publishing, the fixing of knowledge into more permanent media, and the marginalization of Latin-based scholarly elites (see also Anderson, 1991). Eisenstein highlighted how (after a brief flirtation with the new technology) the Church leveraged its (limited) ability for systematic censorship of unauthorized use of the press.
+
+Eisenstein acknowledged that the Church eventually came to appreciate potential benefits from the press. New Catholic groups like the Jesuits embraced the press for things such as standardized catechisms and devotionals in response to the changing information (and political) landscape. Universities had to adapt to the new medium, which they did through their participation in the development of professionalized scientific publishing, peer review, citation practices, and so forth. 
+
+Indeed, more recent scholarship emphasizes how the printing press was also often an agent of power, as established institutions also learned to leverage the unprecedented potential of the press to solidify their positions. For instance, the Church used the press to print its list of prohibited books, and Catholic authorities used print for propaganda purposes during the French Wars of Religion (Helmers et al., 2021). Printers recognized the usefulness of allying with powerful elites or securing monopolies on particular works (Kiliańczyk-Zięba, 2021). Such moves had lasting institutional effects, like standardizing and strengthening bureaucracies, developing new educational institutions and strengthening professional training, creating new institutional practices in scholarship such as conventions for citations, challenging findings, correction, replication, and review, and eventually the rise of new professions such as editing, journalism, and scientific publishing. 
+
+With radio, advertising and entertainment industries pivoted from old platforms, such as print or stage, respectively, to reach wider audiences through radio. Government authorities shaped the new medium by creating regulatory bodies like the U.S. Federal Radio Commission (later the Federal Communications Commission, or FCC) to allocate spectrum and enforce public interest standards. Public broadcasters such as the BBC also developed professional journalism practices and editorial oversight, helping institutionalize radio as a credible medium while establishing new norms for responsible broadcasting. In short, in both cases, effective institutional responses went beyond opposing the new media; they governed through them.
+
+Challenger Failure: Adapting Innovations without Organizing Institutions
+
+Much of what could be considered ineffective strategies used by challengers is lost to history. For instance, we know less about the pamphlets or broadcasts blasted out by insurgents who ultimately failed to mobilize an audience. One partial exception is that the Münster rebels used their printing press to disseminate their apocalyptic appeals to potential followers, but their radical ideas failed to convince a critical mass of people --- much less the extant worldly powers --- necessary for building broad legitimacy or sustainable institutions. Likewise, radical sects like the Ranters in England produced pamphlets, but failed on the organizational strategy: to create structures or procedural credibility to sustain influence beyond their immediate circles. And with radio, early fringe or isolated broadcasters who relied solely on sensationalist claims without building credible institutions or coalitions often failed to maintain audiences or legitimacy. Radio preachers making extreme or strange claims without connecting to accepted narratives, broader community ties, or lasting organizational frameworks typically saw their influence fade. In short, adopting new technological innovations by itself to earn immediate attention is not sufficient without building institutional structures that enable durability.
+
+Challenger Success: The VCAL Model of Effective Epistemic Insurgencies
+
+But we do have evidence on effective strategies from institutional challengers that can give us some insights into what "works." Indeed, patterns suggest a model for understanding how effective epistemic insurgents leverage strategies to successfully destabilize incumbent institutions and enter expertise-based fields --- gaining traction, even if not necessarily due to greater veracity, popularity, or desirability (see Figure 1). In the VCAL model, four factors appear to be particularly crucial for new entrants into fields dominated by incumbent institutions prior to these innovations in information technology: Visibility, Community, Adaptability, Legitimacy (VCAL).
+
+*Figure 1: VCAL model of how insurgents gain traction*
+
+![](blob:https://euangoddard.github.io/22407d29-2019-4714-80b9-ea4a1bd9c956)
+
+*Visibility\*\*:* Successful insurgents master the emerging information infrastructure. Particularly in an attention economy beset by a glut of claims aimed at a beleaguered public inundated with information, successful challengers are adept at being heard above the cacophony (Hayes, 2025). Martin Luther and (to a lesser extent) Thomas Müntzer offer illustrative examples of this with regard to the printing press, with publications such as the former's *Letter to the Princes of Saxony about the Rebellious Spirit* (1524, targeting Müntzer), *Admonition to Peace: A Reply to the Twelve Articles of the Peasants in Swabia (1525), Against the Murderous, Thieving Hordes of Peasants* (1525), and the latter's *A Manifest Exposé of False Faith* and *A Highly Provoked Vindication and Refutation of the unspiritual soft-living flesh in Wittenberg* (both in 1524, attacking Luther). Such figures quickly saw the potential of reaching new and wider audiences rapidly, and mastered the art of pamphleteering effectively at a time when there was what we might now call an "infodemic" of conflicting claims to authority and interpretation (Stephens et al., 2023). Similarly, politicians such as Huey Long (1934) and preachers like Father Coughlin capitalized on radio to garner national visibility for their views. Authoritarians and their propagandists, including Mussolini and Goebbels, quickly recognized the potential of radio in promoting grievance-based politics, scapegoating, and cults of personality to an extent that they also recognized that the imperative of visibility meant eliminating their own rivals' access to the medium. More recently, Rush Limbaugh offered a model of visibility, revitalizing both "talk radio" and, through it, the conservative movement by connecting with working-class listeners (who were able to listen at work), attacking perceived elites in ways not used by established or "legacy" radio outlets, and applying consistent messaging to political and cultural events.
+
+*Community\*\*:* As the above examples suggest, successful insurgents are typically able to offer audiences a sense of identity through the new medium (DiResta, 2024; Facciani, 2025). For instance, while previous insurrections certainly exhibited a collective sense of grievance from rebellious peasants, the printing press offered key individuals the means to mobilize that discontent in more coherent and far-reaching ways unavailable before Gutenberg. In contrast to the rebels of Münster who used print and violent purges to create an apocalyptic sense of community before being mercilessly crushed, other Anabaptists with more pacifist beliefs used print to create images, confessionals, prayerbooks, hymnals, and martyrologies, and their own institutions (schools, universities, seminaries, etc.), thereby surviving to this day as the self-described "quiet in the land" (Ruth, 1990). Likewise, catechisms and similar publications helped form identity for the emerging Lutheran, Calvinist, and English churches. In the radio era, Huey Long (1934) used the airwaves to make emotional, populist connections to listeners' economic plights,\[[7]](file:///Users/alexcano86/Desktop/Lubienski.html#_ftn7) forming "Share Our Wealth Clubs" that enrolled some 7.5 million followers (Snyder, 1975). Radio preachers like Aimee Semple McPherson forged a sense of intimate connection with listeners in building new organizations that challenged and supplanted existing church and state services. Italian Fascists, German Nazis, and their emulators in other countries created a sense of belonging among their followers using symbols, spectacles, and imagery, but also through radio, emphasizing a beleaguered but proud (and often imagined) "nation" and the vilification of perceived "others." Limbaugh also used community strategies, creating a us-versus-them mentality for working-class listeners against perceived liberal elites, and building branded affinity grouping in his audience who proudly referred to themselves as "Dittoheads" when calling in to his nationally syndicated radio show.
+
+*Adaptability\*\*:* Successful insurgents are able to move quickly across media, moments, claims, and controversies. For example, Martin Luther was able to respond rapidly to emerging events such as the German Peasants' War as well as developments in more princely politics through pamphlets --- such as his 1520 pamphlet, *To the Christian Nobility of the German Nation*. He would apply his theological positions to current events, all while translating the Latin Bible to be printed in German, often adding his own commentary. Thomas Müntzer, meanwhile, adapted his radical theological arguments to secular peasant grievances, with works like his *Prague Manifesto* connecting apocalyptic religious visions with concrete demands for social justice. His associates printed the *Twelve Articles of the German Peasants* to transform local grievances into a coordinated movement(although its adherents, including Müntzer, met violent ends). Father Coughlin successfully pivoted his radio program from a religious platform to more of a political one, both responding to and shaping the views and sensibilities of his listeners by shifting from spiritual guidance to antisemitic conspiracy theories and pro-fascist rhetoric. Huey Long advanced his "Share Our Wealth" campaign across radio, booklets, and then mass political organizing. Goebbels dominated radio in Germany, but also took control over publishing, working with film and staging mass events. Limbaugh likewise adapted his radio program on the fly, explaining his interpretation of current events through his political perspective as they happened, thereby maintaining his brand while responding to his audience's interests --- most notably through his "Open Line Fridays" where listeners set the agenda. He was one of the first to capitalize on the repeal of the FCC's "Fairness Doctrine," allowing him to reconfigure how radio programming could be used as a political weapon (Gladstone, 2026). Brushing off his own scandals with humor, he could move from being an apologist for Republican administrations to an attack dog targeting Democratic politicians, satirizing his opponents. Connecting with his anti-elite audience, he moved into print, television (less successfully), satellite radio, and even digital platforms. 
+
+Indeed, in the digital era, influencers often exhibit greater adaptability even in the face of (or because of) scandals, moving across digital platforms, dabbling in other media such as music, acting, sales, and sports (Hill & Toler, 2026). Consider the ubiquitous conservative influencer Ben Shapiro, who has often created his own scandals through provocative statements and claims on new and legacy media (PopularTimeLines, 2019). He co-founded a new media company that aggregates and adds a conservative perspective to news reports from established media outlets, publishes on Facebook, and produces podcasts, films, and videos. Epitomizing the modern multimedia influencer, Shapiro hosts his own eponymous podcast and radio show, has authored numerous books, and has previously served as editor for insurgent, "alternative" news outlets like Breitbart News. Returning to our original case, the furry litter box hoax began as an obscure online rumor before being amplified by mainstream outlets like Fox News and the *New York Post*, then adapted into legislative proposals; Moms for Liberty evolved from local school board activism to a national media presence by repurposing content across Facebook, Twitter, and traditional media; and influencers like Libs of TikTok demonstrate platform agility by cross-posting content from TikTok to Twitter to shape broader cultural narratives (including the furry hoax).
+
+*Legitimacy*: Drawing on neoinstitutionalist theory, the concept of legitimacy suggests that new entrants to a field have to act in ways --- either substantively or symbolically --- that are widely perceived as appropriate to that field (Meyer & Rowan, 1977; Scott, 1994). The imperative allows insurgents to borrow, emulate, or construct signals associated with expertise in order to build alternative authority arrangements, or at least perceptions of such. In the print era, Martin Luther drew legitimacy from his established status as a cleric and doctor of theology, framing his insights as a return to scriptural truth rather than heresy, while Thomas Müntzer, another highly educated cleric, similarly claimed divine inspiration and biblical justification for his radical egalitarianism. Leaders of the radical Anabaptists in Münster took on the trappings of royalty --- regalia, rituals, titles --- to give credence to their efforts to establish a heavenly kingdom in the city; while pacifist Anabaptists elsewhere established their own institutions --- schools, universities, seminaries --- and created confessionals, prayerbooks, and hymnals to legitimize their alternative interpretation of Christianity as real and legitimate. 
+
+In the radio era, new companies like CBS Radio pioneered and formalized the medium as a space for real news similar to established print outlets, taking on signals of legitimacy such as professional editors and journalists. An independent insurgent, Father Coughlin initially enjoyed legitimacy as a Catholic priest, using his religious authority and title to add credence to his increasingly political messages. Rush Limbaugh positioned himself as the authentic voice of working-class conservatives, contrasting his perspective with established "elite" media and academic institutions, which he satirized by cheekily proclaiming his own "Limbaugh Institute for Conservative Studies." In politics, Huey Long leveraged his elected offices to frame his "Share Our Wealth" plan as a practical economic solution rather than radical ideology. Fascists and Nazis provided myriad models of establishing legitimacy through invented offices, broadcasts, symbols, and quasi-religious spectacles designed to create the perception of longevity by harking back to an imagined past. In the platform era, Moms for Liberty borrows legitimacy from the culturally powerful role of parents advocating for their children, framing their activism as an apolitical concern for parents' rights and students' safety, while Libs of TikTok adopts the pose of a concerned citizen "exposing" alleged wrongdoing, borrowing the language of investigative journalism. Mainstream outlets such as Fox News were initially insurgents, exaggerating their return to "real" --- "fair and balanced" and "we report, you decide" --- journalism even while undercutting many of the norms that had come to define professionalized journalism in the 20^th^ century.
+
+Concluding Discussion: From Historical Patterns to Policing Misinformation in Education Policy
+
+This comparative-historical analysis demonstrates a recurring pattern: disruptive innovations in information technology --- from the printing press to radio to the digital age --- can democratize access to information production and consumption while also destabilizing established authority structures. In each era, incumbent institutions are faced with a choice of strategies: reactive suppression or adaptive engagement, with the latter generally proving more effective in the long run. Meanwhile, the VCAL model of effective epistemic insurgencies highlights how successful challengers employ a consistent set of strategies --- visibility, community-building, adaptability, and legitimacy --- to challenge, join, or sometimes supplant traditional expertise. The digital era, while not merely a repetition of past disruptions, exhibits these same dynamics --- in a pattern of stability, disruption, new entrants, and adaptation. But these dynamics are now amplified by new technical affordances: personalized feeds, immediate metrics, influencer economies, algorithmic visibility, low-cost content generation, and the emerging capacity of artificial intelligence to produce and propagate misinformation and deepfake content at scale.
+
+What distinguishes contemporary misinformation is not only its persuasive power or ability to bypass institutional indicators of expertise, but also its adaptation to the attention economy. As Hayes (2025) notes, fringe claims gain traction not through logical superiority but through their capacity to be visible, affectively compelling, and identity-forming. DiResta's (2024) work demonstrates how this (mis-)information landscape enables influencers, algorithms, and online crowds to transform marginal narratives into socially consequential realities by leveraging these mechanisms. This insight underscores a critical limitation of current responses: reactive approaches such as fact-checking and proactive approaches focused solely on education or media literacy miss the cognitive, emotional, and social dimensions through which misinformation takes root (Facciani, 2025; Gopalan et al., 2026).
+
+Professions and the Fragility of Expertise
+
+The disruption of information ecosystems poses particular challenges for professions, whose authority has traditionally rested on specialized knowledge, training, and credentialing systems situated in institutions. As noted, the printing press era saw the rise of new professions --- editors, publishers, scientific journalists --- while simultaneously eroding the monopoly that clerics and scholars had on interpretation. Radio similarly created new professional roles --- broadcast journalists, regulators, communications lawyers --- while challenging the authority of traditional experts. Today, digital platforms and artificial intelligence threaten to further destabilize professional authority by enabling non-experts to adopt the trappings of expertise and by generating content that blurs the line between professional and amateur knowledge production. The very information architectures that professionals helped create to democratize access to knowledge have now created conditions where expertise itself is under siege, as policymakers and the public increasingly question the legitimacy of practices of procedural credibility and professional judgment.
+
+This challenge is particularly acute in education, where the profession faces competing models of authority --- scientific, political, and market-based --- that often conflict with professional norms (Lubienski & Lubienski, 2014). Teachers and education researchers are now facing a landscape where their expertise is frequently dismissed as "elitist" or "out of touch," even as policy decisions increasingly rely on evidence-based approaches. The tension between democratic access to information and the need for professional gatekeeping creates a paradox: the same technologies that could enhance professional practice also empower challengers who seek to undermine professional authority.
+
+In particular, much of this threat to expertise comes from new institutions and intermediaries. As noted, education as a field is particularly pertinent because it can serve as an antidote to misinformation by inoculating individuals to what Frankfurt (2025) famously termed "bullshit" and offering them the tools to critically examine claims. But education is also both an institution that is the target of and potential channel for misinformation. 
+
+As intermediaries have increasingly shaped policy discussions by connecting policymakers to evidence, questions have emerged as to the quality and veracity of evidence and the underlying agendas being brokered by different intermediaries (DeBray et al., 2019; J. Scott et al., 2015). Nowhere is the role of intermediaries more evident than in education policy, a key institution for addressing misinformation, where misinformation often travels *through* established and emerging institutions rather than around them. Think tanks especially have become powerful epistemic intermediaries, particularly in the American context --- increasingly ideological and agenda-driven, with significant transparency concerns around funding sources. Indeed, analyses indicate that, in think tanks and other intermediaries active in education policy, influence often eclipses expertise, with networks of "astroturf" parent networks,\[[8]](file:///Users/alexcano86/Desktop/Lubienski.html#_ftn8) advocacy groups, partisan media, and pseudo-research institutes amplifying claims that serve particular agendas (Lubienski et al., 2025). The governance problem in education is especially complex because it combines empirical claims with professional judgment, democratic control, parental authority, and moral conflict --- all while operating as a battleground of competing worldviews.
+
+Historical Lessons: Adaptive Governance Through New Media
+
+Historical antecedents may offer valuable lessons. During the printing press era, the Catholic Church responded reactively with censorship and suppression, only to find such measures ineffective as printers simply relocated to more permissive jurisdictions. The adaptive turn came when the Church and other established authorities leveraged print itself --- standardizing catechisms, developing new educational institutions, and using the medium to propagate faith, loyalty, and submission. Incumbents also recognized the need for new institutional forms, creating licensing regimes and peer-review practices that persist today. For professions, this era demonstrates that maintaining authority requires not just asserting expertise or resisting new media, but actively shaping how knowledge is produced and disseminated through the new information landscape. Similarly, with radio, the effective response was the creation of regulatory bodies like the U.S. Federal Radio Commission (later the FCC) to allocate spectrum and enforce public interest standards, while public broadcasters like the BBC developed professional journalism practices and editorial oversight to maintain credibility. These adaptations show how professions can establish new standards and institutional practices that preserve their authority while embracing new technologies.
+
+Education Policy and Professional Practice: Adaptive Strategies
+
+These historical examples suggest concrete strategies for addressing misinformation in education policy and professional practice. Established institutions --- universities, professional associations, state agencies --- should look beyond reactive approaches and adopt adaptive strategies. This suggests leveraging digital platforms to disseminate accurate information while establishing new norms for transparency, credibility, and accountability. For professions, this includes not just developing new verification mechanisms that can authenticate expertise in an age of (often unqualified) epistemic insurgents and artificial intelligence, but creating public-facing, understandable credentialing systems that communicate both professional standards and their value in accessible ways.
+
+For intermediaries like think tanks, greater disclosure of funding sources and ideological commitments would be a first step to distinguish genuine expertise from pseudo-expertise driven by special-interest agendas. Much as peer review emerged in the print era, modern professional networks could develop certification systems that signal adherence to clear evidence-based standards. In the digital age, professions might also adopt blockchain-based verification or other technological solutions to certify authentic professional content and distinguish it from AI-generated or amateur productions. Moreover, both professions and information consumers need to police the fields, disciplining low-quality or deceptive information providers through mechanisms like sanctions, shame, or boycotts.
+
+For new, insurgent institutions, the VCAL model offers guidance for successfully entering a field plagued by misinformation. Visibility can be achieved through strategic use of digital platforms to amplify evidence-based research and expertise. Community-building efforts should focus on creating spaces for productive dialogue that respect professional expertise while acknowledging legitimate stakeholder concerns, including concerns that "elites" are "out of touch" with everyday issues. Adaptability requires the agility to respond to emerging narratives while maintaining consistency with core values across platforms and audiences. Legitimacy can be established --- perhaps too easily --- by adopting the trappings of traditional expertise while also building alternative authority arrangements that resonate with and build credibility among target audiences; but this may also mean challenging the credibility of other insurgents (or even established institutions) whose claims to expertise are largely based on symbolism rather than substance.
+
+The concept of knowledge commons may provide a framework for reimagining how we govern educational knowledge in an era of abundant (mis-)information and contested authority (Sanfilippo & Ocepek, 2025). Moreover, the rise of artificial intelligence introduces new challenges for professions, as synthetic media and algorithmically generated disinformation can spread misinformation at unprecedented speed and scale, requiring institutions to develop new verification mechanisms and adaptive governance frameworks that can keep pace with rapidly evolving technological capabilities. For professions, this means not only defending their authority but actively demonstrating their value relative to unqualified insurgents in navigating complex information landscapes. Such a knowledge-commons approach would recognize that addressing misinformation requires not just better information, but better institutions and more adaptive professions --- ones capable of navigating the enduring tension between democratic access and expression, on the one hand, and expertise-based epistemic reliability, on the other. Education, positioned as both a target of and potential remedy to misinformation, offers a particularly rich site for institutional and professional innovation that can serve as a model for other policy domains. The historical record is clear: those who govern *through* new media, rather than merely *against* it, are most likely to have a hand in reshaping authority and sustain their integrity in the face of disruptive information technologies.
