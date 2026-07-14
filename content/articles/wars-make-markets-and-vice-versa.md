@@ -89,7 +89,7 @@ This essay was written during a 1-month residence at the Paris Institute for Ad
 [^8]:  Elias, Norbert. 1994 \[1939]. *The Civilizing Process*, p. xiii. Oxford, UK: Blackwell. Emphasis added.
 [^9]:  Tilly, *Coercion,* 54.
 [^10]:  Tilly, *Coercion,* 54.
-[^11]:  van der Linden, Marcel. 2009. "Charles Tilly's Historical Sociology" IRSH 54, pp. 237--274, doi:10.1017/S0020859009000662
+[^11]:  van der Linden, Marcel. 2009. "Charles Tilly's Historical Sociology" IRSH 54, pp. 237–274, doi:10.1017/S0020859009000662
 [^12]:  See Tilly, *Coercion,* Figure 1.8.
 [^13]:  Wallerstein, Immanuel. 1974. *The Modern World-System I: Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century*. New York: Academic Press.
 [^14]:  Man, Simeon, A. Naomi Paik, and Melina Pappademos. 2019. "Violent entanglements: Militarism and Capitalism." *Radical History Review*, 133: 1-10.
