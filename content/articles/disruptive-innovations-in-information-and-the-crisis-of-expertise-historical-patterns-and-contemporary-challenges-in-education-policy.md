@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "Disruptive Innovations in Information and the Crisis of
   Expertise:  Historical Patterns and Contemporary Challenges in Education
   Policy"
