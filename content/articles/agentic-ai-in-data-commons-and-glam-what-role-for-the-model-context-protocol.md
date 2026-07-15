@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "Agentic AI in Data Commons and GLAM: What Role for the Model
   Context Protocol?"
 date: 2026-07-10T12:33:00.000-05:00
