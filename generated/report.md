@@ -236,7 +236,7 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-createdAt: '2026-7-15 16:40:46'
+createdAt: 2026-7-15 17:1:31
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
@@ -374,6 +374,11 @@ missingReferences:
     - Pillow, 2003)
     - (Berger, 2015
     - Guillemin & Gillam, 2004)
+  disruptive-innovations-in-information-and-the-crisis-of-expertise-historical-patterns-and-contemporary-challenges-in-education-policy:
+    - >-
+      (Ontario Secondary School Teachers' Federation/Des
+      Enseignantes-Enseignants des Ecoles Secondaires de l'Ontario, 1996)
+    - (Sanfilippo & Ocepek, 2025)
   early-warnings-on-industrial-agriculture-what-lessons-for-the-next-food-systems-transformation:
     - (Faulkner, 1945
     - Dunlap, 1978)
@@ -801,13 +806,6 @@ spellingVariants:
     kept: Paris Institute for Advanced Study, France
     variants:
       - Paris Institute for Advanced Study
-  - author: Raouf Boucekkine
-    authorDoc: content/authors/b/boucekkine-raouf.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/b/boucekkine-raouf
-    kept: Rennes School of Business
-    variants:
-      - Rennes School of Business, France
   - author: Saadi Lahlou
     authorDoc: content/authors/l/lahlou-saadi.md
     cmsLink: >-
@@ -815,6 +813,13 @@ spellingVariants:
     kept: Paris Institute for Advanced Study, France
     variants:
       - Paris Institute for Advanced Study
+  - author: Raouf Boucekkine
+    authorDoc: content/authors/b/boucekkine-raouf.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/b/boucekkine-raouf
+    kept: Rennes School of Business
+    variants:
+      - Rennes School of Business, France
   - author: Helga Nowotny
     authorDoc: content/authors/n/nowotny-helga.md
     cmsLink: >-

@@ -1,29 +1,9 @@
 ---
-published: true
-article_title: "Disruptive Innovations in Information and the Crisis of
-  Expertise:  Historical Patterns and Contemporary Challenges in Education
-  Policy"
-date: 2026-07-10T09:05:00.000-05:00
-type: article
-needDOI: true
-authors:
-  - is_institution: false
-    firstname: Christopher
-    lastname: "Lubienski "
-    positions_and_institutions:
-      - institution: Indiana University, USA
-        positions: []
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: This analysis examines how disruptive information technologies — from
-  the printing press to radio to the digital age — have repeatedly democratized
+DOI: 10.5281/zenodo.21382348
+Zid: 21382348
+abstract: >-
+  This analysis examines how disruptive information technologies — from the
+  printing press to radio to the digital age — have repeatedly democratized
   access to knowledge while also destabilizing established authority and
   expertise. Through a comparative-historical approach, it examines
   institutional responses to misinformation, focusing on education policy as
@@ -44,11 +24,39 @@ abstract: This analysis examines how disruptive information technologies — fro
   concludes that addressing the crisis of legitimacy requires institutional
   innovation capable of navigating the enduring tension between democratic
   access and expert authority.
-issue: content/issues/paris-ias-ideas-2026.md
+article_title: >-
+  Disruptive Innovations in Information and the Crisis of Expertise:  Historical
+  Patterns and Contemporary Challenges in Education Policy
+authors:
+  - firstname: Christopher
+    is_institution: false
+    lastname: 'Lubienski '
+    positions_and_institutions:
+      - institution: Indiana University, USA
+        positions: []
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: >-
+  /disruptive-innovations-in-information-and-the-crisis-of-expertise-historical-patterns-and-contemporary-challenges-in-education-policy/references_lubienski.bib
+date: 2026-07-10T14:05:00.000Z
 highlight: false
-bibliography: /disruptive-innovations-in-information-and-the-crisis-of-expertise-historical-patterns-and-contemporary-challenges-in-education-policy/references_lubienski.bib
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/f26a091b-7553-46de-b792-4bbc34ed8534
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## Acknowledgements
 
 I am grateful to the Institut d'études avancées de Paris for the opportunity to focus on the ideas in this paper. Furthermore, discussions with Joe Malin, Anna Lubienski, and Kristin Schumacher have been helpful in shaping my thinking on these issues, although I alone am responsible for any errors.
