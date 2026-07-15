@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "Primates with devices: Understanding the origins of modern
   stressors through lessons drawn from human evolution"
 date: 2026-06-10T11:11:00.000-05:00
