@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "Puzzles: a method of discovery for the social sciences"
 date: 2026-06-30T08:41:00.000-04:00
 type: article
