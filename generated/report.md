@@ -110,12 +110,12 @@ combinedInstitutions:
             collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
         value: UCLA, USA / University of Tel-Aviv, Israël
       - articles:
-          - SynE1_2015_02_what-is-syndrome-e
+          - SynE3_2017_02_Introduction
           - SLEEP_2019_03_introduction
           - >-
             SLEEP_2019_06_enhancing-human-memory-from-single-neurons-to-neuromodulation
+          - SynE1_2015_02_what-is-syndrome-e
           - the-brains-that-pull-the-triggers_2_what-is-syndrome-e
-          - SynE3_2017_02_Introduction
           - >-
             SynE3_2017_17_roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
           - SynE2_2016_01_program-2nd-conference
@@ -236,7 +236,7 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-createdAt: 2026-7-15 17:1:31
+createdAt: '2026-7-15 17:21:18'
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
@@ -291,6 +291,8 @@ missingReferences:
       Address the Grand Challenges of the Future of Collaboration and
       Information Work at the Human-Technology Frontier was submitted to the
       National Science Foundation on December 11, 2023
+  agentic-ai-in-data-commons-and-glam-what-role-for-the-model-context-protocol:
+    - '@Paris'
   ai-and-the-illusion-of-control:
     - (Shanahan, 2022)
     - (The Economist, 2023
