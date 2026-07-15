@@ -1,34 +1,15 @@
 ---
-published: true
-article_title: "Primates with devices: Understanding the origins of modern
-  stressors through lessons drawn from human evolution"
-date: 2026-06-10T11:11:00.000-05:00
-type: article
-needDOI: true
-authors:
-  - is_institution: false
-    firstname: Nina G.
-    lastname: Jablonski
-    positions_and_institutions:
-      - institution: The Pennsylvania State University
-        positions: []
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: Modern humans are long-lived, large-brained, visually oriented
-  primates who evolved in small, tightly knit social groups similar to those of
-  our primate relatives. Visual signals, physical contact including social
-  touch, and language provided rich social feedback and reinforced cooperative
-  and prosocial behaviors. In these contexts humans came to understand their
-  place within social groups and the operation of cause and effect. The rise of
-  remote communication over the last 5,000 years has profoundly affected these
-  systems of social awareness, cooperation, and reciprocity. The smartphone, and
+DOI: 10.5281/zenodo.21381761
+Zid: 21381761
+abstract: >-
+  Modern humans are long-lived, large-brained, visually oriented primates who
+  evolved in small, tightly knit social groups similar to those of our primate
+  relatives. Visual signals, physical contact including social touch, and
+  language provided rich social feedback and reinforced cooperative and
+  prosocial behaviors. In these contexts humans came to understand their place
+  within social groups and the operation of cause and effect. The rise of remote
+  communication over the last 5,000 years has profoundly affected these systems
+  of social awareness, cooperation, and reciprocity. The smartphone, and
   opportunities to connect virtually to others through the internet and social
   media, afforded new types of social interconnections, mostly without the
   feedback and benefits of physical presence. The disruption of established
@@ -48,11 +29,39 @@ abstract: Modern humans are long-lived, large-brained, visually oriented
   brains will then be able to take advantage of the affordances of modern
   devices to enhance their capacities for creative ideation and problem-solving
   through enhanced cooperation.
-issue: content/issues/paris-ias-ideas-2026.md
+article_title: >-
+  Primates with devices: Understanding the origins of modern stressors through
+  lessons drawn from human evolution
+authors:
+  - firstname: Nina G.
+    is_institution: false
+    lastname: Jablonski
+    positions_and_institutions:
+      - institution: The Pennsylvania State University
+        positions: []
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: >-
+  /primates-with-devices-understanding-the-origins-of-modern-stressors-through-lessons-drawn-from-human-evolution/references_jablonsky.bib
+date: 2026-06-10T16:11:00.000Z
 highlight: false
-bibliography: /primates-with-devices-understanding-the-origins-of-modern-stressors-through-lessons-drawn-from-human-evolution/references_jablonsky.bib
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/fdcaa5ec-03f5-409a-8304-daea31a18f9d
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## Acknowledgements
 
 I wrote this paper while I was on a one-month Writing Fellowship at the Paris Institute for Advanced Study. I thank the staff of the Institute for affording me a generous and remarkable opportunity to pursue my scholarship, and for making the logistical arrangements which made my stay effortless. The Institute provided an excellent environment for thinking, writing, and meaningful discussions. I am grateful to the intellectually generous Fellows in residence from whom I learned many new things and, especially, to Jan Eißfeldt for his insights on social media and cognition. During this paper's 30-year incubation, my husband, George Chaplin, listened, asked key questions, provided excellent feedback, and helped me clarify my arguments. The title of this paper was inspired by a long discussion with Patricia Wright in her office over 20 years ago, when we mused over the future of humans as "primates with devices."
