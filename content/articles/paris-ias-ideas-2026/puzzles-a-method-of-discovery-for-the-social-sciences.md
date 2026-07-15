@@ -1,38 +1,45 @@
 ---
-published: true
-article_title: "Puzzles: a method of discovery for the social sciences"
-date: 2026-06-30T08:41:00.000-04:00
-type: article
-needDOI: true
-authors:
-  - is_institution: false
-    firstname: Diego
-    lastname: Gambetta
-    positions_and_institutions:
-      - institution: Collegio Carlo Alberto, Turin Italy
-        positions: []
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: While social sciences zealously pursue answers, this paper argues that
-  we should make a greater effort to discover challenging questions; and that
+DOI: 10.5281/zenodo.21381983
+Zid: 21381983
+abstract: >-
+  While social sciences zealously pursue answers, this paper argues that we
+  should make a greater effort to discover challenging questions; and that
   surprising observations that violate preconceptions – puzzles that is – can
   contribute to this effort. Drawing on classic social science theories, I show
   how much foundational knowledge was initially inspired by puzzles. I then
   illustrate practical pathways for identifying new puzzles and transforming
   generic inquiries into specific, fruitful questions. I conclude by suggesting
   institutional and individual practices that can foster puzzle-driven research.
-issue: content/issues/paris-ias-ideas-2026.md
-highlight: false
+article_title: 'Puzzles: a method of discovery for the social sciences'
+authors:
+  - firstname: Diego
+    is_institution: false
+    lastname: Gambetta
+    positions_and_institutions:
+      - institution: Collegio Carlo Alberto, Turin Italy
+        positions: []
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /puzzles-a-method-of-discovery-for-the-social-sciences/references-gambetta.bib
+date: 2026-06-30T12:41:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/d4db1454-fc92-4124-96c4-a98232510fac
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## ACKNOWLEDGEMENTS
 
 I am indebted for comments and suggestions to Filippo Barbera, Mark Freeman, Krzysztof Krakowski, Valeria Pizzini, Andrea Ruggeri, and Dan Sperber. I am particularly grateful to Gianluca Manzo and Aron Szekely for encouraging me to write this essay. This article benefited from a month-long fellowship at the Paris Institute for Advanced Study (France), with the financial support of the French State, programme “Investissements d’avenir” managed by the Agence Nationale de la Recherche (ANR-11-LABX-0027-01 Labex RFIEA+).

@@ -51,6 +51,16 @@ combinedInstitutions:
         value: >-
           Université de Genève, Suisse / Institut d'études avancées de Paris,
           France
+  - author: Maria Teresa Zanola
+    authorDoc: content/authors/z/zanola-maria-teresa.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/z/zanola-maria-teresa
+    institutions:
+      - articles:
+          - 2-2-4_Zanola
+        value: >-
+          Conseil Européen pour les Langues / European Language Council
+          (CEL/ELC), Austria
   - author: Marie Personnaz
     authorDoc: content/authors/p/personnaz-marie.md
     cmsLink: >-
@@ -72,16 +82,6 @@ combinedInstitutions:
         value: >-
           Institute for Medical Psychology / Charité University Hospitals,
           Germany
-  - author: Maria Teresa Zanola
-    authorDoc: content/authors/z/zanola-maria-teresa.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/z/zanola-maria-teresa
-    institutions:
-      - articles:
-          - 2-2-4_Zanola
-        value: >-
-          Conseil Européen pour les Langues / European Language Council
-          (CEL/ELC), Austria
   - author: Béatrice Hibou
     authorDoc: content/authors/h/hibou-beatrice.md
     cmsLink: >-
@@ -236,7 +236,7 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-createdAt: '2026-7-15 15:56:52'
+createdAt: '2026-7-15 16:40:46'
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
@@ -801,13 +801,6 @@ spellingVariants:
     kept: Paris Institute for Advanced Study, France
     variants:
       - Paris Institute for Advanced Study
-  - author: Saadi Lahlou
-    authorDoc: content/authors/l/lahlou-saadi.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
-    kept: Paris Institute for Advanced Study, France
-    variants:
-      - Paris Institute for Advanced Study
   - author: Raouf Boucekkine
     authorDoc: content/authors/b/boucekkine-raouf.md
     cmsLink: >-
@@ -815,6 +808,13 @@ spellingVariants:
     kept: Rennes School of Business
     variants:
       - Rennes School of Business, France
+  - author: Saadi Lahlou
+    authorDoc: content/authors/l/lahlou-saadi.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
+    kept: Paris Institute for Advanced Study, France
+    variants:
+      - Paris Institute for Advanced Study
   - author: Helga Nowotny
     authorDoc: content/authors/n/nowotny-helga.md
     cmsLink: >-
