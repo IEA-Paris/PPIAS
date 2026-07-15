@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "Early Warnings on Industrial Agriculture: What Lessons for the
   Next Food Systems Transformation?"
 date: 2026-06-03T10:15:00.000-05:00
