@@ -1,35 +1,14 @@
 ---
-published: true
-article_title: "Early Warnings on Industrial Agriculture: What Lessons for the
-  Next Food Systems Transformation?"
-date: 2026-06-03T10:15:00.000-05:00
-type: article
-needDOI: true
-authors:
-  - is_institution: false
-    firstname: Jennifer
-    lastname: Clapp
-    positions_and_institutions:
-      - institution: School of Environment, Resources and Sustainability University of
-          Waterloo
-        positions:
-          - Professor and Canada Research Chair
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: We hear a great deal today about the need to transform global food
-  systems to make them more sustainable and equitable. What we hear less about
-  are the early critiques that emerged in the previous transformation to
-  industrial agriculture in the late 19th and early 20th centuries. The advent
-  of farm mechanization, the synthesis of nitrogen fertilizer, the hybridization
-  of seeds, and the development of chemical pesticides all faced harsh criticism
-  as they were first introduced. This paper explores the early critiques of
+DOI: 10.5281/zenodo.21381518
+Zid: 21381518
+abstract: >-
+  We hear a great deal today about the need to transform global food systems to
+  make them more sustainable and equitable. What we hear less about are the
+  early critiques that emerged in the previous transformation to industrial
+  agriculture in the late 19th and early 20th centuries. The advent of farm
+  mechanization, the synthesis of nitrogen fertilizer, the hybridization of
+  seeds, and the development of chemical pesticides all faced harsh criticism as
+  they were first introduced. This paper explores the early critiques of
   industrial agriculture, showing that concern about its social and ecological
   consequences has deep roots. The paper makes the case that the current debate
   over the future of agriculture can benefit from a deeper appreciation of this
@@ -42,11 +21,42 @@ abstract: We hear a great deal today about the need to transform global food
   critics did not yet fully grasp the power of technological lock-ins, which may
   help to explain industrial agriculture’s advance over the past century and a
   half, even in the face of important and popular critiques.
-issue: content/issues/paris-ias-ideas-2026.md
+article_title: >-
+  Early Warnings on Industrial Agriculture: What Lessons for the Next Food
+  Systems Transformation?
+authors:
+  - firstname: Jennifer
+    is_institution: false
+    lastname: Clapp
+    positions_and_institutions:
+      - institution: >-
+          School of Environment, Resources and Sustainability University of
+          Waterloo
+        positions:
+          - Professor and Canada Research Chair
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: >-
+  /early-warnings-on-industrial-agriculture-what-lessons-for-the-next-food-systems-transformation/references_clapp.bib
+date: 2026-06-03T15:15:00.000Z
 highlight: false
-bibliography: /early-warnings-on-industrial-agriculture-what-lessons-for-the-next-food-systems-transformation/references_clapp.bib
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/b7fe7e70-1ea9-4e3a-aa40-4b57e441ac12
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## Introduction
 
 There is a growing consensus on the need to transform food systems to make them more sustainable and equitable. These calls are largely a reaction to the consequences of a previous food systems transformation – the industrialization of agriculture that took place from the mid-19^th^ to the mid-20^th^ century. The process of agricultural industrialization led to enormous changes in both the social and ecological aspects of farming, contributing to environmental harm and inequalities within food systems (Clapp, 2025). Since that time, the industrialization of farming systems has continued to evolve to the highly mechanized, digitalized, chemical-dependent, and biologically engineered version that is typical on most large-scale farms today (Bronson, 2022). 

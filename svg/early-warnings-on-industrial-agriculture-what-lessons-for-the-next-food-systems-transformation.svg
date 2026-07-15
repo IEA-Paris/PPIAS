@@ -1,0 +1,1323 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-200 -200 400 400" class="article-fingerprint d-flex" data-v-174c71a0=""><style data-v-174c71a0="">
+          .article-fingerprint {
+            transform-box: fill-box;
+            transform-origin: center;
+            background-color: black;
+          }
+          .article-fingerprint.item {
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 150%;
+            height: 200%;
+            -webkit-animation-name: spin;
+            -webkit-animation-duration: 180s;
+            -webkit-animation-iteration-count: infinite;
+            -webkit-animation-timing-function: linear;
+            -moz-animation-name: spin;
+            -moz-animation-duration: 180s;
+            -moz-animation-iteration-count: infinite;
+            -moz-animation-timing-function: linear;
+            -ms-animation-name: spin;
+            -ms-animation-duration: 180s;
+            -ms-animation-iteration-count: infinite;
+            -ms-animation-timing-function: linear;
+            animation-name: spin;
+            animation-duration: 180s;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+            -webkit-transition: all 1s ease;
+            transition: all 1s ease;
+          }
+
+          /* .overlay:not(:hover) + .article-fingerprint.item {
+  filter: blur(4px);
+}
+.overlay:hover + .article-fingerprint.item + svg {
+  filter: blur(0px);
+} */
+          .overlay:not(:hover) + .article-fingerprint.item {
+            -webkit-animation-play-state: paused;
+            -moz-animation-play-state: paused;
+            -o-animation-play-state: paused;
+            animation-play-state: paused;
+          }
+
+          .overlay:hover + .article-fingerprint.item {
+            -webkit-animation-play-state: running;
+            -moz-animation-play-state: running;
+            -o-animation-play-state: running;
+            animation-play-state: running;
+          }
+          /* 
+@-webkit-keyframes breathing {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+
+  40% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+  55% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+@keyframes breathing {
+  0% {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+
+  40% {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+  55% {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1); * 2
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+} */
+          @-ms-keyframes spin {
+            from {
+              -ms-transform: rotate(0deg);
+            }
+            to {
+              -ms-transform: rotate(360deg);
+            }
+          }
+
+          @-moz-keyframes spin {
+            from {
+              -moz-transform: rotate(0deg);
+            }
+            to {
+              -moz-transform: rotate(360deg);
+            }
+          }
+
+          @-webkit-keyframes spin {
+            from {
+              -webkit-transform: rotate(0deg);
+            }
+            to {
+              -webkit-transform: rotate(360deg);
+            }
+          }
+
+          @keyframes spin {
+            from {
+              transform: rotate(0deg);
+            }
+            to {
+              transform: rotate(360deg);
+            }
+          }
+        </style> <rect id="overlay" width="100%" height="100%" fill="#000000" data-v-174c71a0=""></rect> <g data-v-174c71a0=""><circle fill="#FFF" cx="0" cy="0" r="73.33333333333333" data-v-174c71a0=""></circle> <g idx="0" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="4.4903715968736284e-15" y1="-73.33333333333333" x2="4.529152202193508e-15" y2="-73.96666868107408" stroke="#FFFFF0"></line> <circle cx="4.4903715968736284e-15" cy="-73.33333333333333" r="1" class="origin"></circle> <!----> <circle cx="4.4713679900809634e-15" cy="-73.02298088222831" r="-5.943687798845774" class="refs"></circle> <circle cx="4.529152202193508e-15" cy="-73.96666868107408" r="0.0633335347740758"></circle></g><g idx="1" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="6.481207670471783" y1="-73.04636695216261" x2="8.829477215595317" y2="-99.51250839015103" stroke="#FFFFF0"></line> <circle cx="6.481207670471783" cy="-73.04636695216261" r="1" class="origin"></circle> <!----> <!----> <circle cx="8.829477215595317" cy="-99.51250839015103" r="2.657011502557266"></circle></g><g idx="2" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="12.911691103375986" y1="-72.18771370966654" x2="18.846472439926607" y2="-105.36836313988493" stroke="#FFFFF0"></line> <circle cx="12.911691103375986" cy="-72.18771370966654" r="1" class="origin"></circle> <!----> <!----> <circle cx="18.846472439926607" cy="-105.36836313988493" r="3.370722661572325"></circle></g><g idx="3" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="19.24112304707848" y1="-70.76409373167272" x2="26.48771277539252" y2="-97.41525923353531" stroke="#FFFFF0"></line> <circle cx="19.24112304707848" cy="-70.76409373167272" r="1" class="origin"></circle> <!----> <!----> <circle cx="26.48771277539252" cy="-97.41525923353531" r="2.761879224908608"></circle></g><g idx="4" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="25.41996711485875" y1="-68.78664877472427" x2="35.824538281440006" y2="-96.9415074829758" stroke="#FFFFF0"></line> <circle cx="25.41996711485875" cy="-68.78664877472427" r="1" class="origin"></circle> <!----> <!----> <circle cx="35.824538281440006" cy="-96.9415074829758" r="3.00158486477071"></circle></g><g idx="5" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="31.399865474300057" y1="-66.27085502672827" x2="44.61070604988208" y2="-94.15293946693659" stroke="#FFFFF0"></line> <circle cx="31.399865474300057" cy="-66.27085502672827" r="1" class="origin"></circle> <!----> <!----> <circle cx="44.61070604988208" cy="-94.15293946693659" r="3.0853475354396487"></circle></g><g idx="6" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="37.13401731289389" y1="-63.23640198480203" x2="40.042732935375106" y2="-68.18972305461337" stroke="#FFFFF0"></line> <circle cx="37.13401731289389" cy="-63.23640198480203" r="1" class="origin"></circle> <!----> <circle cx="39.56487494818912" cy="-67.3759673137593" r="-5.943687798845774" class="refs"></circle> <circle cx="40.042732935375106" cy="-68.18972305461337" r="0.5744215890189294"></circle></g><g idx="7" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="42.57754511785286" y1="-59.7070383582621" x2="55.69124511600322" y2="-78.09654828987158" stroke="#FFFFF0"></line> <circle cx="42.57754511785286" cy="-59.7070383582621" r="1" class="origin"></circle> <!----> <!----> <circle cx="55.69124511600322" cy="-78.09654828987158" r="2.258634993012931"></circle></g><g idx="8" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="47.68784590349537" y1="-55.710386202774224" x2="70.06751732571097" y2="-81.8549963104712" stroke="#FFFFF0"></line> <circle cx="47.68784590349537" cy="-55.710386202774224" r="1" class="origin"></circle> <!----> <!----> <circle cx="70.06751732571097" cy="-81.8549963104712" r="3.4414972477830394"></circle></g><g idx="9" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="52.42492463737191" y1="-51.27772474031636" x2="74.71465143244292" y2="-73.0796917062302" stroke="#FFFFF0"></line> <circle cx="52.42492463737191" cy="-51.27772474031636" r="1" class="origin"></circle> <!----> <!----> <circle cx="74.71465143244292" cy="-73.0796917062302" r="3.117944329492918"></circle></g><g idx="10" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="56.75170725562116" y1="-46.443745556856776" x2="82.0265546247689" y2="-67.12785599099391" stroke="#FFFFF0"></line> <circle cx="56.75170725562116" cy="-46.443745556856776" r="1" class="origin"></circle> <!----> <!----> <circle cx="82.0265546247689" cy="-67.12785599099391" r="3.2659613194055055"></circle></g><g idx="11" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="60.63433081778664" y1="-41.246281093657245" x2="85.98361032932826" y2="-58.49003548416539" stroke="#FFFFF0"></line> <circle cx="60.63433081778664" cy="-41.246281093657245" r="1" class="origin"></circle> <!----> <!----> <circle cx="85.98361032932826" cy="-58.49003548416539" r="3.0658327371766916"></circle></g><g idx="12" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="64.0424085302388" y1="-35.72600855712507" x2="89.35457491145988" y2="-49.84638118970485" stroke="#FFFFF0"></line> <circle cx="64.0424085302388" cy="-35.72600855712507" r="1" class="origin"></circle> <!----> <!----> <circle cx="89.35457491145988" cy="-49.84638118970485" r="2.898431800463013"></circle></g><g idx="13" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="66.94926756403517" y1="-29.92613156452075" x2="71.3867220825635" y2="-31.90966107223404" stroke="#FFFFF0"></line> <circle cx="66.94926756403517" cy="-29.92613156452075" r="1" class="origin"></circle> <!----> <circle cx="70.52518744244749" cy="-31.524557546450975" r="-5.943687798845774" class="refs"></circle> <circle cx="71.3867220825635" cy="-31.90966107223404" r="0.4860595839192635"></circle></g><g idx="14" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="69.33215780597115" y1="-23.892042017075276" x2="95.72832289451412" y2="-32.9882292026818" stroke="#FFFFF0"></line> <circle cx="69.33215780597115" cy="-23.892042017075276" r="1" class="origin"></circle> <!----> <!----> <circle cx="95.72832289451412" cy="-32.9882292026818" r="2.791949413397755"></circle></g><g idx="15" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="71.17242990906159" y1="-17.670964846818386" x2="98.58872880836877" y2="-24.47798906530499" stroke="#FFFFF0"></line> <circle cx="71.17242990906159" cy="-17.670964846818386" r="1" class="origin"></circle> <!----> <!----> <circle cx="98.58872880836877" cy="-24.47798906530499" r="2.824869951072464"></circle></g><g idx="16" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="72.45568124896668" y1="-11.311588417455502" x2="94.7539443592953" y2="-14.792734000249476" stroke="#FFFFF0"></line> <circle cx="72.45568124896668" cy="-11.311588417455502" r="1" class="origin"></circle> <!----> <!----> <circle cx="94.7539443592953" cy="-14.792734000249476" r="2.2568360868836894"></circle></g><g idx="17" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="73.17186864405521" y1="-4.863683471907625" x2="85.83282309094155" y2="-5.705248352277799" stroke="#FFFFF0"></line> <circle cx="73.17186864405521" cy="-4.863683471907625" r="1" class="origin"></circle> <!----> <!----> <circle cx="85.83282309094155" cy="-5.705248352277799" r="1.268889273947901"></circle></g><g idx="18" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="73.31538695691782" y1="1.622286391233701" x2="97.10970124982569" y2="2.148795134736687" stroke="#FFFFF0"></line> <circle cx="73.31538695691782" cy="1.622286391233701" r="1" class="origin"></circle> <!----> <!----> <circle cx="97.10970124982569" cy="2.148795134736687" r="2.380013874175243"></circle></g><g idx="19" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="72.88511296216706" y1="8.09555966378644" x2="93.81001510707961" y2="10.419748882796961" stroke="#FFFFF0"></line> <circle cx="72.88511296216706" cy="8.09555966378644" r="1" class="origin"></circle> <!----> <!----> <circle cx="93.81001510707961" cy="10.419748882796961" r="2.1053583668818265"></circle></g><g idx="20" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="71.88441413719887" y1="14.505474205604589" x2="93.4651700422622" y2="18.86023040520131" stroke="#FFFFF0"></line> <circle cx="71.88441413719887" cy="14.505474205604589" r="1" class="origin"></circle> <!----> <!----> <circle cx="93.4651700422622" cy="18.86023040520131" r="2.2015742708158896"></circle></g><g idx="21" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="70.32112230711627" y1="20.801863744515092" x2="87.67411027926511" y2="25.935093697534768" stroke="#FFFFF0"></line> <circle cx="70.32112230711627" cy="20.801863744515092" r="1" class="origin"></circle> <!----> <!----> <circle cx="87.67411027926511" cy="25.935093697534768" r="1.8096304631391475"></circle></g><g idx="22" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="68.20747235007904" y1="26.9354504954155" x2="78.78619676550012" y2="31.11303834581599" stroke="#FFFFF0"></line> <circle cx="68.20747235007904" cy="26.9354504954155" r="1" class="origin"></circle> <!----> <!----> <circle cx="78.78619676550012" cy="31.11303834581599" r="1.1373726324527058"></circle></g><g idx="23" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="65.56000644279355" y1="32.858230825755754" x2="92.8450423604561" y2="46.533305874045986" stroke="#FFFFF0"></line> <circle cx="65.56000644279355" cy="32.858230825755754" r="1" class="origin"></circle> <!----> <!----> <circle cx="92.8450423604561" cy="46.533305874045986" r="3.052017140522815"></circle></g><g idx="24" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="62.39944459555121" y1="38.52385094904859" x2="82.24142671960361" y2="50.773792704702906" stroke="#FFFFF0"></line> <circle cx="62.39944459555121" cy="38.52385094904859" r="1" class="origin"></circle> <!----> <!----> <circle cx="82.24142671960361" cy="50.773792704702906" r="2.3318776289251075"></circle></g><g idx="25" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="58.750522490054855" y1="43.887969706097536" x2="83.1138585462507" y2="62.08793303331387" stroke="#FFFFF0"></line> <circle cx="58.750522490054855" cy="43.887969706097536" r="1" class="origin"></circle> <!----> <!----> <circle cx="83.1138585462507" cy="62.08793303331387" r="3.041070220989892"></circle></g><g idx="26" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="54.641797889171414" y1="48.90860559468773" x2="78.27656450952061" y2="70.06353686729557" stroke="#FFFFF0"></line> <circle cx="54.641797889171414" cy="48.90860559468773" r="1" class="origin"></circle> <!----> <!----> <circle cx="78.27656450952061" cy="70.06353686729557" r="3.171960451120306"></circle></g><g idx="27" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="50.10542713371753" y1="53.54646533176117" x2="63.150010332887234" y2="67.48689777588613" stroke="#FFFFF0"></line> <circle cx="50.10542713371753" cy="53.54646533176117" r="1" class="origin"></circle> <!----> <!----> <circle cx="63.150010332887234" cy="67.48689777588613" r="1.9091799484838323"></circle></g><g idx="28" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="45.176913475493365" y1="57.765251376632676" x2="54.888543841888044" y2="70.18298260778562" stroke="#FFFFF0"></line> <circle cx="45.176913475493365" cy="57.765251376632676" r="1" class="origin"></circle> <!----> <!----> <circle cx="54.888543841888044" cy="70.18298260778562" r="1.5764384329958165"></circle></g><g idx="29" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="39.89482921620038" y1="61.531946008459556" x2="43.01979983329246" y2="66.35175667231496" stroke="#FFFFF0"></line> <circle cx="39.89482921620038" cy="61.531946008459556" r="1" class="origin"></circle> <!----> <circle cx="42.506414420996585" cy="65.55993467203196" r="-5.943687798845774" class="refs"></circle> <circle cx="43.01979983329246" cy="66.35175667231496" r="0.5744215890189294"></circle></g><g idx="30" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="34.300513826881996" y1="64.81706973467448" x2="43.74032000094265" y2="82.65530324202133" stroke="#FFFFF0"></line> <circle cx="34.300513826881996" cy="64.81706973467448" r="1" class="origin"></circle> <!----> <!----> <circle cx="43.74032000094265" cy="82.65530324202133" r="2.018198491889401"></circle></g><g idx="31" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="28.437750410512837" y1="67.5949120079844" x2="36.31518316061054" y2="86.31912070611068" stroke="#FFFFF0"></line> <circle cx="28.437750410512837" cy="67.5949120079844" r="1" class="origin"></circle> <!----> <!----> <circle cx="36.31518316061054" cy="86.31912070611068" r="2.031378689716174"></circle></g><g idx="32" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="22.35242303985435" y1="69.84373244626296" x2="28.53084323202593" y2="89.14919772281098" stroke="#FFFFF0"></line> <circle cx="22.35242303985435" cy="69.84373244626296" r="1" class="origin"></circle> <!----> <!----> <circle cx="28.53084323202593" cy="89.14919772281098" r="2.027002381880779"></circle></g><g idx="33" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="16.092157652373764" y1="71.54593098051717" x2="22.181995550427352" y2="98.62142522739394" stroke="#FFFFF0"></line> <circle cx="16.092157652373764" cy="71.54593098051717" r="1" class="origin"></circle> <!----> <!----> <circle cx="22.181995550427352" cy="98.62142522739394" r="2.7751910102499737"></circle></g><g idx="34" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="9.705949312709654" y1="72.68818559929039" x2="14.09024885077122" y2="105.52235444542185" stroke="#FFFFF0"></line> <circle cx="9.705949312709654" cy="72.68818559929039" r="1" class="origin"></circle> <!----> <!----> <circle cx="14.09024885077122" cy="105.52235444542185" r="3.3125590202375506"></circle></g><g idx="35" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="3.2437787598611107" y1="73.26155661146473" x2="4.1831338757345975" y2="94.47712743010499" stroke="#FFFFF0"></line> <circle cx="3.2437787598611107" cy="73.26155661146473" r="1" class="origin"></circle> <!----> <!----> <circle cx="4.1831338757345975" cy="94.47712743010499" r="2.123635640109805"></circle></g><g idx="36" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-3.243778759861102" y1="73.26155661146473" x2="-3.964278489832336" y2="89.53422366539563" stroke="#FFFFF0"></line> <circle cx="-3.243778759861102" cy="73.26155661146473" r="1" class="origin"></circle> <!----> <!----> <circle cx="-3.964278489832336" cy="89.53422366539563" r="1.6288609913340586"></circle></g><g idx="37" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-9.705949312709645" y1="72.68818559929039" x2="-13.160670187554375" y2="98.56070811654959" stroke="#FFFFF0"></line> <circle cx="-9.705949312709645" cy="72.68818559929039" r="1" class="origin"></circle> <!----> <!----> <circle cx="-13.160670187554375" cy="98.56070811654959" r="2.610215542305217"></circle></g><g idx="38" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-16.092157652373757" y1="71.54593098051717" x2="-17.245215159081056" y2="76.67243884686775" stroke="#FFFFF0"></line> <circle cx="-16.092157652373757" cy="71.54593098051717" r="1" class="origin"></circle> <!----> <circle cx="-17.038133711349495" cy="75.751752181549" r="-5.943687798845774" class="refs"></circle> <circle cx="-17.245215159081056" cy="76.67243884686775" r="0.5254581288507056"></circle></g><g idx="39" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-22.352423039854344" y1="69.84373244626296" x2="-31.335686981963292" y2="97.91338208326746" stroke="#FFFFF0"></line> <circle cx="-22.352423039854344" cy="69.84373244626296" r="1" class="origin"></circle> <!----> <!----> <circle cx="-31.335686981963292" cy="97.91338208326746" r="2.947209293209056"></circle></g><g idx="40" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-28.4377504105128" y1="67.59491200798442" x2="-38.95101912878521" y2="92.58435258149792" stroke="#FFFFF0"></line> <circle cx="-28.4377504105128" cy="67.59491200798442" r="1" class="origin"></circle> <!----> <!----> <circle cx="-38.95101912878521" cy="92.58435258149792" r="2.7110901115967505"></circle></g><g idx="41" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-34.30051382688199" y1="64.81706973467448" x2="-45.95688971566973" y2="86.84391553209831" stroke="#FFFFF0"></line> <circle cx="-34.30051382688199" cy="64.81706973467448" r="1" class="origin"></circle> <!----> <!----> <circle cx="-45.95688971566973" cy="86.84391553209831" r="2.4920935669516906"></circle></g><g idx="42" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-39.894829216200364" y1="61.53194600845956" x2="-54.14657229366207" y2="83.51317773191074" stroke="#FFFFF0"></line> <circle cx="-39.894829216200364" cy="61.53194600845956" r="1" class="origin"></circle> <!----> <!----> <circle cx="-54.14657229366207" cy="83.51317773191074" r="2.619707481430006"></circle></g><g idx="43" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-45.17691347549336" y1="57.765251376632676" x2="-57.51405426526221" y2="73.54007936209243" stroke="#FFFFF0"></line> <circle cx="-45.17691347549336" cy="57.765251376632676" r="1" class="origin"></circle> <!----> <!----> <circle cx="-57.51405426526221" cy="73.54007936209243" r="2.002623880905804"></circle></g><g idx="44" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-50.10542713371752" y1="53.546465331761176" x2="-68.02317586145968" y2="72.69473261452069" stroke="#FFFFF0"></line> <circle cx="-50.10542713371752" cy="53.546465331761176" r="1" class="origin"></circle> <!----> <!----> <circle cx="-68.02317586145968" cy="72.69473261452069" r="2.622407022951441"></circle></g><g idx="45" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-54.64179788917141" y1="48.90860559468773" x2="-72.02958122103071" y2="64.47200705648923" stroke="#FFFFF0"></line> <circle cx="-54.64179788917141" cy="48.90860559468773" r="1" class="origin"></circle> <!----> <!----> <circle cx="-72.02958122103071" cy="64.47200705648923" r="2.3335690995916307"></circle></g><g idx="46" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-58.750522490054855" y1="43.88796970609754" x2="-63.06113628413229" y2="47.10809575078389" stroke="#FFFFF0"></line> <circle cx="-58.750522490054855" cy="43.88796970609754" r="1" class="origin"></circle> <!----> <circle cx="-62.3051069489094" cy="46.54332472995083" r="-5.943687798845774" class="refs"></circle> <circle cx="-63.06113628413229" cy="47.10809575078389" r="0.5380576458462231"></circle></g><g idx="47" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-62.39944459555121" y1="38.523850949048594" x2="-90.74138903558388" y2="56.02145610067968" stroke="#FFFFF0"></line> <circle cx="-62.39944459555121" cy="38.523850949048594" r="1" class="origin"></circle> <!----> <!----> <circle cx="-90.74138903558388" cy="56.02145610067968" r="3.3308137154219333"></circle></g><g idx="48" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-65.56000644279355" y1="32.85823082575573" x2="-92.33901093685964" y2="46.27968635471098" stroke="#FFFFF0"></line> <circle cx="-65.56000644279355" cy="32.85823082575573" r="1" class="origin"></circle> <!----> <!----> <circle cx="-92.33901093685964" cy="46.27968635471098" r="2.995414078568996"></circle></g><g idx="49" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-68.20747235007906" y1="26.93545049541549" x2="-96.58511678930567" y2="38.14191528047808" stroke="#FFFFF0"></line> <circle cx="-68.20747235007906" cy="26.93545049541549" r="1" class="origin"></circle> <!----> <!----> <circle cx="-96.58511678930567" cy="38.14191528047808" r="3.0510253307667203"></circle></g><g idx="50" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-70.32112230711627" y1="20.8018637445151" x2="-98.75526648783537" y2="29.21303770667127" stroke="#FFFFF0"></line> <circle cx="-70.32112230711627" cy="20.8018637445151" r="1" class="origin"></circle> <!----> <!----> <circle cx="-98.75526648783537" cy="29.21303770667127" r="2.9652123072582444"></circle></g><g idx="51" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-71.88441413719886" y1="14.50547420560463" x2="-97.2556277350727" y2="19.62510255378087" stroke="#FFFFF0"></line> <circle cx="-71.88441413719886" cy="14.50547420560463" r="1" class="origin"></circle> <!----> <!----> <circle cx="-97.2556277350727" cy="19.62510255378087" r="2.5882601759722457"></circle></g><g idx="52" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-72.88511296216706" y1="8.095559663786434" x2="-79.96325189003034" y2="8.881748964595097" stroke="#FFFFF0"></line> <circle cx="-72.88511296216706" cy="8.095559663786434" r="1" class="origin"></circle> <!----> <circle cx="-79.02533200157725" cy="8.77757149805587" r="-5.943687798845774" class="refs"></circle> <circle cx="-79.96325189003034" cy="8.881748964595097" r="0.7121667241513029"></circle></g><g idx="53" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-73.31538695691782" y1="1.6222863912337102" x2="-103.55798460980621" y2="2.29147953941511" stroke="#FFFFF0"></line> <circle cx="-73.31538695691782" cy="1.6222863912337102" r="1" class="origin"></circle> <!----> <!----> <circle cx="-103.55798460980621" cy="2.29147953941511" r="3.02500005332903"></circle></g><g idx="54" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-73.17186864405521" y1="-4.8636834719076" x2="-100.60797288166808" y2="-6.6873423340740645" stroke="#FFFFF0"></line> <circle cx="-73.17186864405521" cy="-4.8636834719076" r="1" class="origin"></circle> <!----> <!----> <circle cx="-100.60797288166808" cy="-6.6873423340740645" r="2.749664611152998"></circle></g><g idx="55" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-72.4556812489667" y1="-11.31158841745546" x2="-105.41401312973554" y2="-16.456955609299712" stroke="#FFFFF0"></line> <circle cx="-72.4556812489667" cy="-11.31158841745546" r="1" class="origin"></circle> <!----> <!----> <circle cx="-105.41401312973554" cy="-16.456955609299712" r="3.3357554525201785"></circle></g><g idx="56" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-71.17242990906159" y1="-17.670964846818393" x2="-93.80407496831356" y2="-23.290036793339002" stroke="#FFFFF0"></line> <circle cx="-71.17242990906159" cy="-17.670964846818393" r="1" class="origin"></circle> <!----> <!----> <circle cx="-93.80407496831356" cy="-23.290036793339002" r="2.3318776289251075"></circle></g><g idx="57" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-69.33215780597115" y1="-23.89204201707527" x2="-99.29512375181794" y2="-34.21735806071805" stroke="#FFFFF0"></line> <circle cx="-69.33215780597115" cy="-23.89204201707527" r="1" class="origin"></circle> <!----> <!----> <circle cx="-99.29512375181794" cy="-34.21735806071805" r="3.169213592790931"></circle></g><g idx="58" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-66.94926756403518" y1="-29.92613156452073" x2="-95.7732313695651" y2="-42.81036113776031" stroke="#FFFFF0"></line> <circle cx="-66.94926756403518" cy="-29.92613156452073" r="1" class="origin"></circle> <!----> <!----> <circle cx="-95.7732313695651" cy="-42.81036113776031" r="3.1572523832573784"></circle></g><g idx="59" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-64.04240853023879" y1="-35.72600855712509" x2="-92.51908596886321" y2="-51.61170125980386" stroke="#FFFFF0"></line> <circle cx="-64.04240853023879" cy="-35.72600855712509" r="1" class="origin"></circle> <!----> <!----> <circle cx="-92.51908596886321" cy="-51.61170125980386" r="3.2607919139181547"></circle></g><g idx="60" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-60.63433081778664" y1="-41.246281093657245" x2="-86.15297699743918" y2="-58.6052465388036" stroke="#FFFFF0"></line> <circle cx="-60.63433081778664" cy="-41.246281093657245" r="1" class="origin"></circle> <!----> <!----> <circle cx="-86.15297699743918" cy="-58.6052465388036" r="3.0863165491700304"></circle></g><g idx="61" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-56.75170725562118" y1="-46.443745556856754" x2="-77.80063039656395" y2="-63.66949748358758" stroke="#FFFFF0"></line> <circle cx="-56.75170725562118" cy="-46.443745556856754" r="1" class="origin"></circle> <!----> <!----> <circle cx="-77.80063039656395" cy="-63.66949748358758" r="2.719896495888377"></circle></g><g idx="62" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-52.424924637371944" y1="-51.27772474031634" x2="-70.0358808956623" y2="-68.50330539060516" stroke="#FFFFF0"></line> <circle cx="-52.424924637371944" cy="-51.27772474031634" r="1" class="origin"></circle> <!----> <!----> <circle cx="-70.0358808956623" cy="-68.50330539060516" r="2.4634658696053036"></circle></g><g idx="63" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-47.687845903495365" y1="-55.71038620277423" x2="-69.2777769677808" y2="-80.93239770056037" stroke="#FFFFF0"></line> <circle cx="-47.687845903495365" cy="-55.71038620277423" r="1" class="origin"></circle> <!----> <!----> <circle cx="-69.2777769677808" cy="-80.93239770056037" r="3.3200526913816484"></circle></g><g idx="64" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-42.57754511785286" y1="-59.707038358262096" x2="-60.94610671533333" y2="-85.4655082007849" stroke="#FFFFF0"></line> <circle cx="-42.57754511785286" cy="-59.707038358262096" r="1" class="origin"></circle> <!----> <!----> <circle cx="-60.94610671533333" cy="-85.4655082007849" r="3.1637048278696787"></circle></g><g idx="65" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-37.13401731289391" y1="-63.236401984802015" x2="-51.15014755748369" y2="-87.10480380488906" stroke="#FFFFF0"></line> <circle cx="-37.13401731289391" cy="-63.236401984802015" r="1" class="origin"></circle> <!----> <!----> <circle cx="-51.15014755748369" cy="-87.10480380488906" r="2.7679460118984234"></circle></g><g idx="66" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-31.399865474300036" y1="-66.27085502672828" x2="-43.843332121193335" y2="-92.53336162444413" stroke="#FFFFF0"></line> <circle cx="-31.399865474300036" cy="-66.27085502672828" r="1" class="origin"></circle> <!----> <!----> <circle cx="-43.843332121193335" cy="-92.53336162444413" r="2.9061299265301503"></circle></g><g idx="67" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-25.419967114858757" y1="-68.78664877472427" x2="-35.24009263947116" y2="-95.35999256911383" stroke="#FFFFF0"></line> <circle cx="-25.419967114858757" cy="-68.78664877472427" r="1" class="origin"></circle> <!----> <!----> <circle cx="-35.24009263947116" cy="-95.35999256911383" r="2.832979819437417"></circle></g><g idx="68" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-19.24112304707849" y1="-70.76409373167272" x2="-19.24112304707849" y2="-70.76409373167272" stroke="#FFFFF0"></line> <circle cx="-19.24112304707849" cy="-70.76409373167272" r="1" class="origin"></circle> <!----> <circle cx="-18.993519232683695" cy="-69.85346811552328" r="-5.943687798845774" class="refs"></circle> <circle cx="-19.24112304707849" cy="-70.76409373167272" r="0"></circle></g><g idx="69" class="type-element" data-v-174c71a0=""><style>
+    .origin {
+      /*   fill: black; */
+    }
+    .is-hl {
+      fill: white;
+      stroke: white;
+    }
+
+    .heading-placeholder {
+      fill: transparent;
+      stroke: white;
+    }
+    circle {
+      fill: transparent;
+      stroke: white;
+    }
+  </style> <line x1="-12.911691103376027" y1="-72.18771370966653" x2="-19.36753665506404" y2="-108.2815705644998" stroke="#FFFFF0"></line> <circle cx="-12.911691103376027" cy="-72.18771370966653" r="1" class="origin"></circle> <!----> <!----> <circle cx="-19.36753665506404" cy="-108.2815705644998" r="3.6666666666666665"></circle></g></g></svg>

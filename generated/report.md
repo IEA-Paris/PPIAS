@@ -51,16 +51,6 @@ combinedInstitutions:
         value: >-
           Université de Genève, Suisse / Institut d'études avancées de Paris,
           France
-  - author: Maria Teresa Zanola
-    authorDoc: content/authors/z/zanola-maria-teresa.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/z/zanola-maria-teresa
-    institutions:
-      - articles:
-          - 2-2-4_Zanola
-        value: >-
-          Conseil Européen pour les Langues / European Language Council
-          (CEL/ELC), Austria
   - author: Marie Personnaz
     authorDoc: content/authors/p/personnaz-marie.md
     cmsLink: >-
@@ -82,6 +72,16 @@ combinedInstitutions:
         value: >-
           Institute for Medical Psychology / Charité University Hospitals,
           Germany
+  - author: Maria Teresa Zanola
+    authorDoc: content/authors/z/zanola-maria-teresa.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/z/zanola-maria-teresa
+    institutions:
+      - articles:
+          - 2-2-4_Zanola
+        value: >-
+          Conseil Européen pour les Langues / European Language Council
+          (CEL/ELC), Austria
   - author: Béatrice Hibou
     authorDoc: content/authors/h/hibou-beatrice.md
     cmsLink: >-
@@ -132,14 +132,6 @@ combinedInstitutions:
           - >-
             EneTran_2016_06_comment-les-collectivites-territoriales-francaises-se-saisissent-elles-du-theme-de-la-transition-energetique
         value: Sciences Po / CSO, France
-  - author: Thomas Reverdy
-    authorDoc: content/authors/r/reverdy-thomas.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
-    institutions:
-      - articles:
-          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
-        value: PACTE / Université de Grenoble, France
   - author: Pauline Gabillet
     authorDoc: content/authors/g/gabillet-pauline.md
     cmsLink: >-
@@ -151,6 +143,14 @@ combinedInstitutions:
         value: >-
           Laboratoire Techniques Territoires et Societes (LATTS) / Université
           Gustave Eiffel, France
+  - author: Thomas Reverdy
+    authorDoc: content/authors/r/reverdy-thomas.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
+    institutions:
+      - articles:
+          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
+        value: PACTE / Université de Grenoble, France
   - author: Olivier Coutard
     authorDoc: content/authors/c/coutard-olivier.md
     cmsLink: >-
@@ -236,7 +236,7 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-createdAt: '2026-6-23 7:37:53'
+createdAt: '2026-7-15 15:56:52'
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
@@ -374,6 +374,11 @@ missingReferences:
     - Pillow, 2003)
     - (Berger, 2015
     - Guillemin & Gillam, 2004)
+  early-warnings-on-industrial-agriculture-what-lessons-for-the-next-food-systems-transformation:
+    - (Faulkner, 1945
+    - Dunlap, 1978)
+    - (Shattuck, 2021)
+    - (GAFF, 2023)
   from-science-to-conscience-the-plunder-of-senegal-s-fisheries-resources-or-europe-s-role-in-the-making-of-a-migration-crisis:
     - (see contributions in Cury & Roy, 1991
     - Cury and Roy, 1991)
