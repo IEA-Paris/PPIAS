@@ -1,36 +1,43 @@
 ---
-published: true
+DOI: 10.5281/zenodo.21397779
+Zid: 21397779
+abstract: >-
+  Drawing on but moving beyond Charles Tilly’s “war made the state, and the
+  state made war,” in this brief essay, I outline the logic that explains how
+  and when wars make markets, and how and when markets make wars. The essay
+  contributes to our understanding of state formation by indicating not only the
+  indirect, but also the direct, relations between wars and markets. In that,
+  the essay also contributes to our general understandings of economic
+  developments on the one hand and militarism on the other. 
 article_title: Wars Make Markets, and Vice Versa
-date: 2026-07-14T10:23:00.000-05:00
-type: article
-needDOI: true
 authors:
-  - is_institution: false
-    firstname: Nitsan
+  - firstname: Nitsan
+    is_institution: false
     lastname: Chorev
     positions_and_institutions:
       - institution: Brown University
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: "Drawing on but moving beyond Charles Tilly’s “war made the state, and
-  the state made war,” in this brief essay, I outline the logic that explains
-  how and when wars make markets, and how and when markets make wars. The essay
-  contributes to our understanding of state formation by indicating not only the
-  indirect, but also the direct, relations between wars and markets. In that,
-  the essay also contributes to our general understandings of economic
-  developments on the one hand and militarism on the other. "
-issue: content/issues/paris-ias-ideas-2026.md
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+date: 2026-07-14T15:23:00.000Z
 highlight: false
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/b8003673-52fc-4fbf-90f9-947a6789e0fd
+needDOI: true
+published: true
+type: article
+
 ---
+
 In his 1975 book, *The Formation of National States in Western Europe*, Charles Tilly famously asserted that, "War made the state, and the state made war."[^1] Chapter 3 in Tilly's later book, *Coercion, Capital and European States, AD 990-1992*, is entitled, "How War Made States, and *Vice Versa*."[^2] The logic is convincing: as states in Europe got immersed in violent conflicts, in order to extract resources that would allow rulers to win those conflicts, they had to develop certain capacities and attributes, creating modern states but also conditions for more wars. Michael Mann in *The Sources of Social Power* made a similar argument, stating that successful military competition required infrastructural power – the ability to establish transportation and communication networks, develop standardized currencies and measurements, build educational systems to train officers and bureaucrats, and establish legal systems. This infrastructure was built for military needs, but became the basis for economic modernization and market development.[^3]
 
 One of the state's attributes that Tilly identifies was the concentration of "coercive means" – namely, violence. Tilly argues that almost all European states concentrated coercive means because coercion was the way states regulated their affairs. Violence enabled not only warfare but also managing other political matters as well: 

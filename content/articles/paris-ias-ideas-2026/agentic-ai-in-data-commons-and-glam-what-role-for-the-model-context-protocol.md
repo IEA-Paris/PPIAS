@@ -1,44 +1,10 @@
 ---
-published: true
-article_title: "Agentic AI in Data Commons and GLAM: What Role for the Model
-  Context Protocol?"
-date: 2026-07-10T12:33:00.000-05:00
-type: article
-needDOI: true
-authors:
-  - is_institution: false
-    firstname: Nathalie
-    lastname: "Casemajor "
-    positions_and_institutions:
-      - institution: Institut national de la recherche scientifique, Canada
-        positions: []
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-  - is_institution: false
-    firstname: "Jean-Philippe "
-    lastname: Moreux
-    positions_and_institutions:
-      - institution: Bibliothèque nationale de France
-        positions: []
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: "The emergence of the agentic web, in which AI agents autonomously
-  navigate online services to accomplish complex tasks, poses urgent questions
-  for digital commons and GLAM institutions (Galleries, Libraries, Archives, and
+DOI: 10.5281/zenodo.21397777
+Zid: 21397777
+abstract: >-
+  The emergence of the agentic web, in which AI agents autonomously navigate
+  online services to accomplish complex tasks, poses urgent questions for
+  digital commons and GLAM institutions (Galleries, Libraries, Archives, and
   Museums). This paper reports on a cross-sectoral workshop held at the
   Bibliothèque nationale de France, which examined the Model Context Protocol
   (MCP) as a new infrastructure layer for regulating agentic access to open
@@ -51,12 +17,53 @@ abstract: "The emergence of the agentic web, in which AI agents autonomously
   implications for data representation and institutional authority; the
   identification of critical capacity gaps between API-ready and non-API-ready
   organizations; and the recognition of MCP governance as a site of broader
-  advocacy for the commons and public goods within the agentic web."
-issue: content/issues/paris-ias-ideas-2026.md
+  advocacy for the commons and public goods within the agentic web.
+article_title: 'Agentic AI in Data Commons and GLAM: What Role for the Model Context Protocol?'
+authors:
+  - firstname: Nathalie
+    is_institution: false
+    lastname: 'Casemajor '
+    positions_and_institutions:
+      - institution: Institut national de la recherche scientifique, Canada
+        positions: []
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+  - firstname: 'Jean-Philippe '
+    is_institution: false
+    lastname: Moreux
+    positions_and_institutions:
+      - institution: Bibliothèque nationale de France
+        positions: []
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: >-
+  /agentic-ai-in-data-commons-and-glam-what-role-for-the-model-context-protocol/references_casemajor.bib
+date: 2026-07-10T17:33:00.000Z
 highlight: false
-bibliography: /agentic-ai-in-data-commons-and-glam-what-role-for-the-model-context-protocol/references_casemajor.bib
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/5703e7e9-8a55-4e22-a637-b5edceacaed8
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## Acknowledgements
 
 This paper reports on a workshop organized by the authors as part of a research residency held by Nathalie Casemajor at the Paris Institute for Advanced Study, under the Distinguished Fellowship programme developed in partnership with the PostGenAI@Paris initiative (Sorbonne Université). The authors would like to thank all workshop participants for their valuable contributions to the discussions. 

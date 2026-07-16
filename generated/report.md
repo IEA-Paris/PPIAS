@@ -110,12 +110,12 @@ combinedInstitutions:
             collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
         value: UCLA, USA / University of Tel-Aviv, Israël
       - articles:
-          - SynE3_2017_02_Introduction
+          - SynE1_2015_02_what-is-syndrome-e
           - SLEEP_2019_03_introduction
           - >-
             SLEEP_2019_06_enhancing-human-memory-from-single-neurons-to-neuromodulation
-          - SynE1_2015_02_what-is-syndrome-e
           - the-brains-that-pull-the-triggers_2_what-is-syndrome-e
+          - SynE3_2017_02_Introduction
           - >-
             SynE3_2017_17_roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
           - SynE2_2016_01_program-2nd-conference
@@ -132,6 +132,14 @@ combinedInstitutions:
           - >-
             EneTran_2016_06_comment-les-collectivites-territoriales-francaises-se-saisissent-elles-du-theme-de-la-transition-energetique
         value: Sciences Po / CSO, France
+  - author: Thomas Reverdy
+    authorDoc: content/authors/r/reverdy-thomas.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
+    institutions:
+      - articles:
+          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
+        value: PACTE / Université de Grenoble, France
   - author: Pauline Gabillet
     authorDoc: content/authors/g/gabillet-pauline.md
     cmsLink: >-
@@ -143,14 +151,6 @@ combinedInstitutions:
         value: >-
           Laboratoire Techniques Territoires et Societes (LATTS) / Université
           Gustave Eiffel, France
-  - author: Thomas Reverdy
-    authorDoc: content/authors/r/reverdy-thomas.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
-    institutions:
-      - articles:
-          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
-        value: PACTE / Université de Grenoble, France
   - author: Olivier Coutard
     authorDoc: content/authors/c/coutard-olivier.md
     cmsLink: >-
@@ -189,17 +189,18 @@ conflicts:
         value: 0000-0002-9070-5009
       - articles: []
         value: 0000-0001-8114-7271
-  - author: Etienne Koechlin
-    authorDoc: content/authors/k/koechlin-etienne.md
+  - author: Norman Ohler
+    authorDoc: content/authors/o/ohler-norman.md
     cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/k/koechlin-etienne
-    field: google_scholar
+      https://paris.pias.science/admin/#/collections/authors/entries/o/ohler-norman
+    field: lastname
     values:
       - articles: []
-        value: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
-      - articles: []
-        value: >-
-          https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
+        value: OHLER
+      - articles:
+          - SynE3_2017_12_brains-on-drugs
+          - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
+        value: Ohler
   - author: Tania Singer
     authorDoc: content/authors/s/singer-tania.md
     cmsLink: >-
@@ -213,18 +214,6 @@ conflicts:
           - >-
             SynE3_2017_17_roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
         value: Singer
-  - author: Norman Ohler
-    authorDoc: content/authors/o/ohler-norman.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/o/ohler-norman
-    field: lastname
-    values:
-      - articles: []
-        value: OHLER
-      - articles:
-          - SynE3_2017_12_brains-on-drugs
-          - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
-        value: Ohler
   - author: Abram de Swaan
     authorDoc: content/authors/d/de-swaan-abram.md
     cmsLink: >-
@@ -236,7 +225,18 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-createdAt: '2026-7-15 17:21:18'
+  - author: Etienne Koechlin
+    authorDoc: content/authors/k/koechlin-etienne.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/k/koechlin-etienne
+    field: google_scholar
+    values:
+      - articles: []
+        value: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
+      - articles: []
+        value: >-
+          https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
+createdAt: '2026-7-16 14:41:55'
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
