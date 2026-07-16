@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: Russian Political Warfare Against Ukraine and its Allies in the West
 date: 2026-07-16T09:16:00.000-05:00
 type: article
