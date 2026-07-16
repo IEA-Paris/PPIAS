@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: Wars Make Markets, and Vice Versa
 date: 2026-07-14T10:23:00.000-05:00
 type: article
