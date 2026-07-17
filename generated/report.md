@@ -123,6 +123,17 @@ combinedInstitutions:
           - >-
             collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
         value: UCLA, USA / Université de Tel-Aviv, Israël
+  - author: Pauline Gabillet
+    authorDoc: content/authors/g/gabillet-pauline.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/g/gabillet-pauline
+    institutions:
+      - articles:
+          - >-
+            EneTran_2016_07_les-entreprises-locales-de-distribution-bras-armes-des-politiques-energetiques-territoriales
+        value: >-
+          Laboratoire Techniques Territoires et Societes (LATTS) / Université
+          Gustave Eiffel, France
   - author: Marie Degremont
     authorDoc: content/authors/d/degremont-marie.md
     cmsLink: >-
@@ -140,17 +151,6 @@ combinedInstitutions:
       - articles:
           - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
         value: PACTE / Université de Grenoble, France
-  - author: Pauline Gabillet
-    authorDoc: content/authors/g/gabillet-pauline.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/g/gabillet-pauline
-    institutions:
-      - articles:
-          - >-
-            EneTran_2016_07_les-entreprises-locales-de-distribution-bras-armes-des-politiques-energetiques-territoriales
-        value: >-
-          Laboratoire Techniques Territoires et Societes (LATTS) / Université
-          Gustave Eiffel, France
   - author: Olivier Coutard
     authorDoc: content/authors/c/coutard-olivier.md
     cmsLink: >-
@@ -189,18 +189,17 @@ conflicts:
         value: 0000-0002-9070-5009
       - articles: []
         value: 0000-0001-8114-7271
-  - author: Norman Ohler
-    authorDoc: content/authors/o/ohler-norman.md
+  - author: Etienne Koechlin
+    authorDoc: content/authors/k/koechlin-etienne.md
     cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/o/ohler-norman
-    field: lastname
+      https://paris.pias.science/admin/#/collections/authors/entries/k/koechlin-etienne
+    field: google_scholar
     values:
       - articles: []
-        value: OHLER
-      - articles:
-          - SynE3_2017_12_brains-on-drugs
-          - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
-        value: Ohler
+        value: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
+      - articles: []
+        value: >-
+          https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
   - author: Tania Singer
     authorDoc: content/authors/s/singer-tania.md
     cmsLink: >-
@@ -214,6 +213,18 @@ conflicts:
           - >-
             SynE3_2017_17_roundtable-2-the-place-of-neuroscience-in-future-research-on-perpetrators-of-extreme-violence
         value: Singer
+  - author: Norman Ohler
+    authorDoc: content/authors/o/ohler-norman.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/o/ohler-norman
+    field: lastname
+    values:
+      - articles: []
+        value: OHLER
+      - articles:
+          - SynE3_2017_12_brains-on-drugs
+          - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
+        value: Ohler
   - author: Abram de Swaan
     authorDoc: content/authors/d/de-swaan-abram.md
     cmsLink: >-
@@ -225,18 +236,7 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-  - author: Etienne Koechlin
-    authorDoc: content/authors/k/koechlin-etienne.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/k/koechlin-etienne
-    field: google_scholar
-    values:
-      - articles: []
-        value: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
-      - articles: []
-        value: >-
-          https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
-createdAt: '2026-7-16 14:41:55'
+createdAt: '2026-7-17 9:27:25'
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
@@ -649,6 +649,25 @@ missingReferences:
     - (Felt & Davies, 2020)
     - Rubio et al., 2025)
     - (Tsing, 2025
+  russian-political-warfare-against-ukraine-and-its-allies-in-the-west:
+    - (Interview, 2025a)
+    - (Interview, 2026)
+    - (Interview, 2024)
+    - (His War, 2023)
+    - (Ostrovsky, 2006)
+    - (Interview, 2025b)
+    - (Wilson, 2024)
+    - ('Treasury Sanctions Actors', 2024)
+    - (Blau, 2026)
+    - (Reiter et al., 2023)
+    - (Dimitriadis & Labbe, 2024)
+    - (Robinson et al., 2023)
+    - (Schemes, 2024)
+    - (Warren et al., 2024)
+    - (DFRLab, 2025)
+    - (OpenAI, 2020)
+    - (Nimmo, 2024)
+    - (Rakov, 2024)
   secular-advocacy-religious-women-and-a-new-framework-for-ideas-and-action-challenges-and-possibilities-from-bangladesh:
     - (Jahan, 1995)
     - (Nazneen, 2020)
@@ -808,13 +827,6 @@ spellingVariants:
     kept: Paris Institute for Advanced Study, France
     variants:
       - Paris Institute for Advanced Study
-  - author: Saadi Lahlou
-    authorDoc: content/authors/l/lahlou-saadi.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
-    kept: Paris Institute for Advanced Study, France
-    variants:
-      - Paris Institute for Advanced Study
   - author: Raouf Boucekkine
     authorDoc: content/authors/b/boucekkine-raouf.md
     cmsLink: >-
@@ -822,6 +834,13 @@ spellingVariants:
     kept: Rennes School of Business
     variants:
       - Rennes School of Business, France
+  - author: Saadi Lahlou
+    authorDoc: content/authors/l/lahlou-saadi.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
+    kept: Paris Institute for Advanced Study, France
+    variants:
+      - Paris Institute for Advanced Study
   - author: Helga Nowotny
     authorDoc: content/authors/n/nowotny-helga.md
     cmsLink: >-
