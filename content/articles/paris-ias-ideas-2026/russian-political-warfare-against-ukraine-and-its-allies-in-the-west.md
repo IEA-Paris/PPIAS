@@ -1,38 +1,46 @@
 ---
-published: true
-article_title: Russian Political Warfare Against Ukraine and its Allies in the West
-date: 2026-07-16T09:16:00.000-05:00
-type: article
-needDOI: true
-authors:
-  - is_institution: false
-    firstname: Andrew
-    lastname: Wilson
-    positions_and_institutions:
-      - institution: University College London
-        positions: []
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: Studies of Russian propaganda and information war have mainly looked
-  at methods. This paper looks at the pseudo-sciences behind Russian political
+DOI: 10.5281/zenodo.21414876
+Zid: 21414876
+abstract: >-
+  Studies of Russian propaganda and information war have mainly looked at
+  methods. This paper looks at the pseudo-sciences behind Russian political
   warfare - at what Russians think or claim (in part in private) they are doing.
   The paper compares the cases of Moldova, Ukraine and the U.S.A., and argues
   that Russian methodology is based on domestic political technology and its
   desire for subjectivity control. Kinetic political warfare is possible in
   Moldova. While Russia is confined to secondary infection in Ukraine and the
   U.S.A., it is constantly seeking proxy control there too.
-issue: content/issues/paris-ias-ideas-2026.md
+article_title: Russian Political Warfare Against Ukraine and its Allies in the West
+authors:
+  - firstname: Andrew
+    is_institution: false
+    lastname: Wilson
+    positions_and_institutions:
+      - institution: University College London
+        positions: []
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: >-
+  /russian-political-warfare-against-ukraine-and-its-allies-in-the-west/references_wilson.bib
+date: 2026-07-16T14:16:00.000Z
 highlight: false
-bibliography: /russian-political-warfare-against-ukraine-and-its-allies-in-the-west/references_wilson.bib
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/dd16143d-f9c0-41b9-82f0-493669201a4c
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## Acknowledgements
 
 This paper was written during a one-month residency at the Paris Institute for Advanced Studies. My warmest thanks go to the staff and the other visiting fellows for creating such a friendly, supportive and creative academic environment.

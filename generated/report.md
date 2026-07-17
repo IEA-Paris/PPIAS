@@ -134,6 +134,14 @@ combinedInstitutions:
         value: >-
           Laboratoire Techniques Territoires et Societes (LATTS) / Université
           Gustave Eiffel, France
+  - author: Thomas Reverdy
+    authorDoc: content/authors/r/reverdy-thomas.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
+    institutions:
+      - articles:
+          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
+        value: PACTE / Université de Grenoble, France
   - author: Marie Degremont
     authorDoc: content/authors/d/degremont-marie.md
     cmsLink: >-
@@ -143,14 +151,6 @@ combinedInstitutions:
           - >-
             EneTran_2016_06_comment-les-collectivites-territoriales-francaises-se-saisissent-elles-du-theme-de-la-transition-energetique
         value: Sciences Po / CSO, France
-  - author: Thomas Reverdy
-    authorDoc: content/authors/r/reverdy-thomas.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
-    institutions:
-      - articles:
-          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
-        value: PACTE / Université de Grenoble, France
   - author: Olivier Coutard
     authorDoc: content/authors/c/coutard-olivier.md
     cmsLink: >-
@@ -189,17 +189,6 @@ conflicts:
         value: 0000-0002-9070-5009
       - articles: []
         value: 0000-0001-8114-7271
-  - author: Etienne Koechlin
-    authorDoc: content/authors/k/koechlin-etienne.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/k/koechlin-etienne
-    field: google_scholar
-    values:
-      - articles: []
-        value: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
-      - articles: []
-        value: >-
-          https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
   - author: Tania Singer
     authorDoc: content/authors/s/singer-tania.md
     cmsLink: >-
@@ -236,7 +225,18 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-createdAt: '2026-7-17 9:27:25'
+  - author: Etienne Koechlin
+    authorDoc: content/authors/k/koechlin-etienne.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/k/koechlin-etienne
+    field: google_scholar
+    values:
+      - articles: []
+        value: https://scholar.google.com/citations?user=HC_y10gAAAAJ&hl=fr
+      - articles: []
+        value: >-
+          https://scholar.google.com/citations?hl=fr&user=HC_y10gAAAAJ&view_op=list_works&sortby=pubdate
+createdAt: '2026-7-17 13:35:31'
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
@@ -827,13 +827,6 @@ spellingVariants:
     kept: Paris Institute for Advanced Study, France
     variants:
       - Paris Institute for Advanced Study
-  - author: Raouf Boucekkine
-    authorDoc: content/authors/b/boucekkine-raouf.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/b/boucekkine-raouf
-    kept: Rennes School of Business
-    variants:
-      - Rennes School of Business, France
   - author: Saadi Lahlou
     authorDoc: content/authors/l/lahlou-saadi.md
     cmsLink: >-
@@ -841,6 +834,13 @@ spellingVariants:
     kept: Paris Institute for Advanced Study, France
     variants:
       - Paris Institute for Advanced Study
+  - author: Raouf Boucekkine
+    authorDoc: content/authors/b/boucekkine-raouf.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/b/boucekkine-raouf
+    kept: Rennes School of Business
+    variants:
+      - Rennes School of Business, France
   - author: Helga Nowotny
     authorDoc: content/authors/n/nowotny-helga.md
     cmsLink: >-
