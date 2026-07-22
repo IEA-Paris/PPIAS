@@ -1,7 +1,7 @@
 ---
 published: false
 article_title: The function of meso-structures in food transition processes
-date: 2026-07-22T09:05:00.000-05:00
+date: 2026-06-29T09:05:00.000-05:00
 type: article
 needDOI: true
 authors:
