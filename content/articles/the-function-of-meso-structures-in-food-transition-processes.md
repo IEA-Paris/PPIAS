@@ -89,13 +89,13 @@ Inevitably, by following the interactions and transactions of local initiatives,
 
 In the following sections, the space between these levels and the evolving dynamics will be given their due, based on reflections that arise from a dialogue with the voices of those whom we interviewed. We have data based on the literal transcripts of what our interviewees told us, filled with their perception and perspectives, their experience, aspirations and disappointments, their values, and the sense of belonging to a community. As the interviews were accompanied by video, we also see the faces and the physical as well as social environment in which the interviewees live and work. This direct contact with agents of change in the field creates a lively sense of understanding them and their situation, a phenomenon well-known to anthropologists. But 'understanding' in this context is an illusion, and social science research requires a careful balance between engagement and distance. All we can do is to follow what they tell us, while grasping what motivates them, and to carefully listen to their experience and aspirations. As we are only at the beginning of the analysis of the data we have collected, it would be premature to expect more than glimpses of what has emerged from the fieldwork. Thus, we cannot yet provide the kind of empirically validated research results that we are still working on. If we give an example, it is just that, an event or a story told at one point in time. 
 
-We are fortunate that our research coincided with the greater public availability of the latest developments in Artificial Intelligence, especially the most recent LLMs. In the ongoing analysis, we are using them to help us extract patterns across 700 initiatives distributed over different geographies and operating in very diverse economic, political, and cultural contexts. Depending on what we find and after having carefully validated the results, we will work intensely to put together the different strands, hoping that a coherent picture will emerge. For the following pages, we must ask the reader for indulgence as wecan only present our personal reflections, based on incomplete and preliminary findings. 
+We are fortunate that our research coincided with the greater public availability of the latest developments in Artificial Intelligence, especially the most recent LLMs. In the ongoing analysis, we are using them to help us extract patterns across 700 initiatives distributed over different geographies and operating in very diverse economic, political, and cultural contexts. Depending on what we find and after having carefully validated the results, we will work intensely to put together the different strands, hoping that a coherent picture will emerge. For the following pages, we must ask the reader for indulgence as we can only present our personal reflections, based on incomplete and preliminary findings. 
 
-**1.        \*\***Pathways towards the Next Major Transformation \*\*
+## 1. Pathways towards the Next Major Transformation
 
-Agriculture, or farmed food, undoubtedly is an indispensable part of human 'worldmaking' -- the ways in which humanity over thousands of years has not only kept going and growing enormously but has also shaped, and depleted, the natural environment on which our food and the material substance of our scientific-technological civilization depend. Across the globe, with its multiple and repeated division of scarcity and abundance, of novelty and traditions, we find similar organizing principles, bundled in 'foundational packages' that are recognizable across the human past. This is the claim made by Walter Scheidel, a historian of ancient history who traces the coalescence of these foundational innovations, which arose independently and repeatedly with great variation in timing across the globe (Scheidel, 2025). Beginning with targeted intervention in the reproduction of plants and animals by altering their genetic traits to make them more useful to humans, a whole bundle of innovations converged, the 'foundational packages'. Apart from innovative practices in cultivation and domestication, material infrastructures, like solid housing, walls, roads, and canals, appeared as corollaries of food production. The domestication of animals and plants extended to humans, imposing timed work-regimes on them. Finally, improved energy capture and innovation in the material culture enabled demographic expansion and larger social organizations.
+Agriculture, or farmed food, undoubtedly is an indispensable part of human 'worldmaking' – the ways in which humanity over thousands of years has not only kept going and growing enormously but has also shaped, and depleted, the natural environment on which our food and the material substance of our scientific-technological civilization depend. Across the globe, with its multiple and repeated division of scarcity and abundance, of novelty and traditions, we find similar organizing principles, bundled in 'foundational packages' that are recognizable across the human past. This is the claim made by Walter Scheidel, a historian of ancient history who traces the coalescence of these foundational innovations, which arose independently and repeatedly with great variation in timing across the globe (Scheidel, 2025). Beginning with targeted intervention in the reproduction of plants and animals by altering their genetic traits to make them more useful to humans, a whole bundle of innovations converged, the 'foundational packages'. Apart from innovative practices in cultivation and domestication, material infrastructures, like solid housing, walls, roads, and canals, appeared as corollaries of food production. The domestication of animals and plants extended to humans, imposing timed work-regimes on them. Finally, improved energy capture and innovation in the material culture enabled demographic expansion and larger social organizations.
 
-Dependent on environmental constraints, location, interconnections, and factors tied to the evolution of social organizational capabilities, our species inherited - or became locked into - a particular mode of existence and development which became virtually unassailable. The arrival of agriculture was the first big transformation, which brought changes in material culture but also between people: novel inequalities, from labor to religious belief systems, crept into everything, and patriarchy became entrenched. Social differentiation paved the way for the rise of more complex social organizations, from early city-states to territorial federations to astonishingly long-lived and large empires. 
+Dependent on environmental constraints, location, interconnections, and factors tied to the evolution of social organizational capabilities, our species inherited – or became locked into – a particular mode of existence and development which became virtually unassailable. The arrival of agriculture was the first big transformation, which brought changes in material culture but also between people: novel inequalities, from labor to religious belief systems, crept into everything, and patriarchy became entrenched. Social differentiation paved the way for the rise of more complex social organizations, from early city-states to territorial federations to astonishingly long-lived and large empires. 
 
 When the industrial revolution began to radically transform also agriculture, its largely path-dependent and long-term development became engulfed in the accelerated mechanization of modernity. Industrialization of agriculture brought with it an increased use of land coupled with a radical decrease in the workforce in agriculture. This translated into more yields per land due to greater efficiency in production by using fertilizers, pesticides, and fossil fuels. The distance between producers and consumers increased with the entry of cooling technology, canned food, and other technologies for preservation, processing, and storage, leading to changes in consumer habits. In short, the mechanization of agriculture took over. This 'full package' became dominant and ever since, we have been living in a turbo-charged mode of how food is produced and consumed, stored, processed, transported, and disposed of. 
 
@@ -115,376 +115,27 @@ The members of the EAT-Lancet Commission come from an impressive array of well-k
 
 A transformation entails the change of an entire system, its structures, functions, and relations to other systems. Transforming food systems, as the international consensus states, must be approached by transforming them into healthy, sustainable, and just food systems. This is a huge undertaking. Looking back at the foundational innovations bequeathed by our ancestors thousands of years ago and following the industrialization of agriculture as the second major transformation, we are faced with nothing more and nothing less than instigating and shaping the Next Major Transformation - this time, prepared to meet the challenges that our scientific-technological civilization encounters in the 21^st^ century.
 
-**2.        \*\*** 'Finding a formula to feed the world'\*: the Socioscope Project\**
+## 2. 'Finding a formula to feed the world': the Socioscope Project
 
-Sustainability has become a ubiquitous goal for every activity and sector in society. It is a label, a promise, and a signal of hope for humanity to survive and build a better future. Many laudable efforts continue to be undertaken to strengthen international conventions, and binding regulations are decreed at the national and regional levels, in the hope that they will percolate down and lead to alignments. But a huge gap exists between the efforts to increase awareness and to do things differently as described above, while realizing that change does not happen at the desired pace, breadth, and depth. This is where the Food Socioscope project enters and why it is relevant - by putting the spotlight on local stakeholders. What is happening on the ground? What can we learn from the arduous efforts of people who are highly motivated by their vision of what a sustainable future should look like -- be it for themselves, their community, for like-minded others, for the nation, or for the planet. Seen from the macro-perspective, their efforts appear negligeable, either to be ignored or paid lip-service. If we want to understand the mechanisms leading to change in the desired direction, we need to include the micro-level and bring it back into the 'big picture'. We need to bridge the gap between the micro- and the meso-level, which will eventually help to connect with the macro-level. 
+Sustainability has become a ubiquitous goal for every activity and sector in society. It is a label, a promise, and a signal of hope for humanity to survive and build a better future. Many laudable efforts continue to be undertaken to strengthen international conventions, and binding regulations are decreed at the national and regional levels, in the hope that they will percolate down and lead to alignments. But a huge gap exists between the efforts to increase awareness and to do things differently as described above, while realizing that change does not happen at the desired pace, breadth, and depth. This is where the Food Socioscope project enters and why it is relevant – by putting the spotlight on local stakeholders. What is happening on the ground? What can we learn from the arduous efforts of people who are highly motivated by their vision of what a sustainable future should look like – be it for themselves, their community, for like-minded others, for the nation, or for the planet. Seen from the macro-perspective, their efforts appear negligeable, either to be ignored or paid lip-service. If we want to understand the mechanisms leading to change in the desired direction, we need to include the micro-level and bring it back into the 'big picture'. We need to bridge the gap between the micro- and the meso-level, which will eventually help to connect with the macro-level. 
 
 Thus, the Socioscope project aims to explore the local initiatives in the domain of food sustainability. Who started them and why? What are the underlying values that keep them going, and which relationships with other stakeholders, especially with meso-entities, embed them in the larger context? The Socioscope has been designed to reveal, among other, the nitty gritty of transition processes, consisting of the many mundane efforts undertaken on a daily basis by ordinary people. They work on a farm, set up a soup kitchen to empower women, and launch a small business to produce and sell their product, which aligns with their vision and guiding values directly to consumers. The Socioscope method offers what can only be partial views, as seen and perceived from the perspective of micro-level agents, but it enables a glimpse of the local eco-systems that emerge through their activities and interactions. This perspective is complemented by interviews with organizations and institutions like municipalities, consultancies, larger firms and businesses, banks, and administrative-political units, in short, the meso-entities. Partly, they shape the regulatory framework that grants access, controls, or implements policy measures and provides the indispensable financial support. Together, these micro- and meso-entities are engaged in the transition processes, the mechanisms of which the Socioscope project seeks to identify and better understand (Science Custom Publishing/AAAS, 2026). 
 
 Transition is a non-linear journey, and our interviewees move in the direction indicated by their values. They follow a guiding vision, although there is no clear and guaranteed pathway ahead. Starting from a more traditional agricultural background and/or business model, they transition to sustainable practices, either gradually or more often, triggered by a crisis or another event. They continue to learn by trial and error, facing many challenges such as market fluctuations and a lack of access to the resources they need. They connect with various stakeholders with whom they regularly exchange in a give and take -- but of what exactly? Far from being restricted to monetary transactions and the exchange of tangible material like seeds or tools, the exchange involves intangibles: one party offers visibility and receives legitimacy, another gives a product and gets information in return. 
 
-*"We have partnerships with two Catalan firms with whom we co-brand: we put our brand on their products and they put theirs on ours. They give us visibility in Europe, we give them legitimacy from a regenerative producer in Patagonia. Beyond the commercial side, it's an exchange of credibility --- what one of us cannot offer alone, together we can."* (Case AR-006)
+> *"We have partnerships with two Catalan firms with whom we co-brand: we put our brand on their products and they put theirs on ours. They give us visibility in Europe, we give them legitimacy from a regenerative producer in Patagonia. Beyond the commercial side, it's an exchange of credibility – what one of us cannot offer alone, together we can."* (Case AR-006)
 
 Extending the lens to include as many of these transactions as possible has led us to identify a variety of stakeholders who, together with the local initiative, constitute the micro eco-system. It consists of reciprocal as well as of a-symmetrical relationships and ties that bind. (Lahlou et al., 2024). They range from transactions with other producers to those that directly connect with consumers, be it single households or high-end restaurants. Stakeholders can be those who supply seeds and cooling machines, but also those who give precious advice and information. Relations with schools and technical experts play an important role, as training and exchange of knowledge and information are crucial. Every local initiative is embedded in a specific local and national policy context with its regulatory framework. They depend on receiving some kind of financial support in the form of subsidies, loans, and other monetary and financial assets, without which no local initiative would be able to survive, forming an essential link with the meso-level, but not the only one. 
 
-*"Our productive capacity is already exhausted, and at the same time the subsidies are in decline. Without that support we simply wouldn't be here. The bank loan we are now negotiating is the only way to keep growing --- and even that requires that someone at the meso-level vouches for what we do."* (Case AR-040)
+> *"Our productive capacity is already exhausted, and at the same time the subsidies are in decline. Without that support we simply wouldn't be here. The bank loan we are now negotiating is the only way to keep growing* – *and even that requires that someone at the meso-level vouches for what we do."* (Case AR-040)
 
 We systematize the collection of these interactive relationships of the ecosystem in what we call the 'transaction grid'. It is a matrix of all stakeholders with whom the initiative regularly interacts. It tells us who the stakeholders are, with whom they interact on a regular basis, what they give, and what they get in these exchanges. By asking the interviewees, in addition, how they think the other party perceives what it gets and how it perceives what it gives, we add another layer of reflection that reveals the asymmetries inherent in the transaction. 
 
 Example of an extract from a transaction grid of a small company producing with an insect farm fertilizer and insect protein from agricultural waste. 
 
-Figure 1: Example of an extract from a transaction grid of a small company producing with an insect farm fertilizer and insect protein from agricultural waste (Case KE-015). 
+**Figure 1: Example of an extract from a transaction grid of a small company producing with an insect farm fertilizer and insect protein from agricultural waste (Case KE-015).** 
 
-\|
-
-**Entity/Stakeholder**
-
-\|
-
-**What the Initiative Gets**
-
-\|
-
-**What the Initiative Gives**
-
-\|
-
-**What the Other Party Gets**
-
-\|
-
-**What the Other Party Gives**
-
-\|
-
-**Verbatims**
-
-\|
-|
-
-**Local Farmers**
-
-\|
-
-Knowledge and local market access
-
-\|
-
-Training and support for insect farming
-
-\|
-
-Access to training and knowledge for better farming
-
-\|
-
-Organic fertilizer and insect protein
-
-\|
-
-*We do have an association, it's called Organic Fertilizer Input Manufacturers association of Kenya, that is OFIMAK. We have grouped ourselves as Organic Fertilizer Manufacturers of Kenya so that we can be able to at least rally this information to the government.*
-
-\|
-|
-
-**Waste Collectors**
-
-\|
-
-Raw materials (waste)
-
-\|
-
-Partnership and business opportunities
-
-\|
-
-Income from selling waste
-
-\|
-
-Waste management support
-
-\|
-
-*So as Dudu Masters, what we are currently doing is providing the fully integrated insect farm either for small scale farmers and also for large scale farmers. We also collect waste from the market, that is Kutus market, that is about 7km from here.*
-
-\|
-|
-
-**Government Agencies**
-
-\|
-
-Support for collaboration and regulatory guidance
-
-\|
-
-Advocacy for organic farming
-
-\|
-
-Support for organic agricultural practices
-
-\|
-
-Certifications and permits
-
-\|
-
-*We are also keen as black soldier fly farmers to work with the government because again of the regulations that come in place. So since it's an industry that is still in its nascent stages, collaborating with the government to help streamline that process is also very key.*
-
-\|
-|
-
-**Educational Institutions**
-
-\|
-
-Research support and knowledge enhancement
-
-\|
-
-Collaboration on projects and studies
-
-\|
-
-Access to information and research outcomes
-
-\|
-
-Practical training and real-world applications
-
-\|
-
-*Another very great achievement that happened recently was me being recommended to join a master's program at the University of Utah.*
-
-\|
-|
-
-**Feed Millers**
-
-\|
-
-Clients for selling insect protein
-
-\|
-
-High-quality insect protein for animal feeds
-
-\|
-
-Reliable protein source for animal nutrition
-
-\|
-
-Insect protein to enhance feed quality
-
-\|
-
-*If you're producing that in huge capacities, they can be able to come and off-take your insect protein.*
-
-\|
-|
-
-**Local Communities**
-
-\|
-
-Community engagement and trust
-
-\|
-
-Training sessions and educational workshops
-
-\|
-
-Improved farming practices
-
-\|
-
-Knowledge transfer and upskilling
-
-\|
-
-*It's been a journey, slow steps, but yeah, very, very, very, interesting. We have trained a team of 739 farmers, that is individual farmers.*
-
-\|
-|
-
-**Funders/Investors**
-
-\|
-
-Financial support for growth
-
-\|
-
-Potential returns on investment
-
-\|
-
-Return on investment
-
-\|
-
-Seed capital for business ventures
-
-\|
-
-*When I was starting, the main source of capital was from friends and family. So I was given 30,000 Kenya shillings by my mom to get started and that's how I began.*
-
-\|
-|
-
-**Technology Providers**
-
-\|
-
-Automation technology and efficiency tools
-
-\|
-
-Insights on technological advancements
-
-\|
-
-Access to new farming technologies
-
-\|
-
-Collaboration on tech solutions
-
-\|
-
-*Another aspect that we are introducing is the technology, the insect technology. That is a whole farm technology that will enable climate control.*
-
-\|
-|
-
-**NGOs and Nonprofits**
-
-\|
-
-Partnerships and community outreach
-
-\|
-
-Expertise in sustainable farming practices
-
-\|
-
-Access to resources and grants
-
-\|
-
-Advocacy and support for farmers
-
-\|
-
-*We saw a need for alternative sources of protein and black soldier fly is one of the most promising solutions for that.*
-
-\|
-|
-
-**Agro-processors**
-
-\|
-
-Collaboration on waste management
-
-\|
-
-Solutions for handling agricultural waste
-
-\|
-
-Sustainable waste management practices
-
-\|
-
-Organic fertilizer and insect protein
-
-\|
-
-*We normally work with them. So whom we work with is farmers, large scale and small-scale farmers so far, and also the agro processing companies.*
-
-\|
-|
-
-**Large Scale Farmers**
-
-\|
-
-Access to training and proper practices
-
-\|
-
-Design and setup of integrated insect farms
-
-\|
-
-Efficient ways to manage waste, reduced costs
-
-\|
-
-Support in implementing new farming technologies
-
-\|
-
-*In case you're a farmer who's struggling with waste in your farm and you'd like to find a solution on how to manage it using the insect.*
-
-\|
-|
-
-**Influencers**
-
-\|
-
-Awareness and broader reach
-
-\|
-
-Promotion of insect farming practices
-
-\|
-
-Increased visibility and market reach
-
-\|
-
-Credibility and engagement with audiences
-
-\|
-
-*We are managing that is working with micro influencers like Farm with Fred who can be able to push the message out there.*
-
-\|
-|
-
-**Training Institutions**
-
-\|
-
-Partnerships for knowledge transfer
-
-\|
-
-Training programs for farmers
-
-\|
-
-Skilled farmers with knowledge in insect farming
-
-\|
-
-Expertise in designing training programs
-
-\|
-
-*Get somebody who can be able to train you and take you through each and every stage of insect farming.*
-
-\|
+![](/the-function-of-meso-structures-in-food-transition-processes/nowotnyetal_fig1.png)
 
 We soon realized the necessity of following the links that connect the micro- and the meso-level and began to include some of the meso-entities as well: municipalities and governmental offices; firms and businesses, some international corporations; banks; local, national, or international donors; larger cooperatives and associations; NGOs of various kinds and sizes; philanthropic trusts and other organizations. What do these stakeholder entities receive in return? What are their motivations to support local initiatives, and what are their expectations? Obviously, they too must have a stake in the pursuit of a transition towards more sustainability, guided by values and motivations. Often, they provide money and indispensable financial support, but what exactly do they hope to achieve? How do these stakeholders channel the activities of local activities in the direction they define? If so, how do they decide whom to support and based on what criteria? In the case of public money, how is accountability practiced, both in political terms by spending the famous "taxpayers' money" as well as in the actual administrative practice of who is eligible, selected, and favored as a worthy recipient? 
 
