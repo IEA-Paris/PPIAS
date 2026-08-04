@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: “However, Praise Be to God:” Contentedness, Submission, and Care in Hardship
 date: 2026-08-04T11:20:00.000-05:00
 type: article
