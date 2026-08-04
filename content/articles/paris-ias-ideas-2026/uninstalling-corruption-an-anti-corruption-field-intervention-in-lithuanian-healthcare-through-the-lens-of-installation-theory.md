@@ -1,47 +1,56 @@
 ---
-published: true
-article_title: "Uninstalling Corruption: An Anti-Corruption Field Intervention
-  in Lithuanian Healthcare through the Lens of Installation Theory"
-date: 2026-08-04T09:30:00.000-05:00
-type: article
-needDOI: true
+DOI: 10.5281/zenodo.21796387
+Zid: 21796387
+abstract: >-
+  This paper analyzes an anti-corruption field intervention in the Lazdynai
+  outpatient clinic in Vilnius, Lithuania, through the lens of the Installation
+  Theory. Implemented on the premises of the clinic for a period of two months,
+  the intervention presents an approach to tackling bribery on an institutional
+  level. It offers mixed results. In comparison to the baseline assessment, the
+  patients who were exposed to the intervention believed bribes were less needed
+  to receive proper medical treatment in the clinic and reported giving fewer
+  in-kind bribes to the medical personnel. Such patients also rated the
+  transparency of medical services higher and evaluated the clinic’s services
+  better than the respondents of the baseline survey. However, there was no
+  significant change in terms of patients’ readiness to bribe and the practice
+  of offering cash bribes. Building on the framework developed by Yamin et al.
+  (2023), this paper forensically assesses the domains and layers of the
+  determinants of the intervention. By doing so, it seeks to better understand
+  the reasons for the intervention’s results and draw lessons for future
+  behavioral interventions by academics and practitioners alike.
+article_title: >-
+  Uninstalling Corruption: An Anti-Corruption Field Intervention in Lithuanian
+  Healthcare through the Lens of Installation Theory
 authors:
-  - is_institution: false
-    firstname: Sergejus
+  - firstname: Sergejus
+    is_institution: false
     lastname: Muravjovas
     positions_and_institutions:
       - institution: ISM University of Management and Economic
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: This paper analyzes an anti-corruption field intervention in the
-  Lazdynai outpatient clinic in Vilnius, Lithuania, through the lens of the
-  Installation Theory. Implemented on the premises of the clinic for a period of
-  two months, the intervention presents an approach to tackling bribery on an
-  institutional level. It offers mixed results. In comparison to the baseline
-  assessment, the patients who were exposed to the intervention believed bribes
-  were less needed to receive proper medical treatment in the clinic and
-  reported giving fewer in-kind bribes to the medical personnel. Such patients
-  also rated the transparency of medical services higher and evaluated the
-  clinic’s services better than the respondents of the baseline survey. However,
-  there was no significant change in terms of patients’ readiness to bribe and
-  the practice of offering cash bribes. Building on the framework developed by
-  Yamin et al. (2023), this paper forensically assesses the domains and layers
-  of the determinants of the intervention. By doing so, it seeks to better
-  understand the reasons for the intervention’s results and draw lessons for
-  future behavioral interventions by academics and practitioners alike.
-issue: content/issues/paris-ias-ideas-2026.md
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: >-
+  /uninstalling-corruption-an-anti-corruption-field-intervention-in-lithuanian-healthcare-through-the-lens-of-installation-theory/muravjovas_references.bib
+date: 2026-08-04T14:30:00.000Z
 highlight: false
-bibliography: /uninstalling-corruption-an-anti-corruption-field-intervention-in-lithuanian-healthcare-through-the-lens-of-installation-theory/muravjovas_references.bib
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/e96a004a-13b5-417f-bd20-3d1892eac4ac
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## Introduction 
 
 Corruption is "the abuse of entrusted power for private gain" (Transparency International, 2023). It takes many shapes (Vian, 2020), annually leads to the misappropriation of hundreds of billions of Euros (Gee & Button, 2015), and affects hundreds of millions of people worldwide (Transparency International, 2020, 2021). Many countries now boast anti-corruption strategies (Pyman et al., 2017), have set up institutions tasked with the investigation and prevention of corruption, and have dedicated resources to anti-corruption education. Still, corruption continues to resist the efforts of national governments and international organizations (Paul M. Heywood, 2017). In the European Union, corruption continues to be seen as a major problem (European Commission, 2024), while people continue to view bribery as a rather effective instrument to address their everyday challenges and regularly give bribes to ensure better service quality or speed up procedures (Special Investigation Service of the Republic of Lithuania, 2024). Bribery particularly affects those in less privileged positions (Baez Camargo, 2017; Tambor et al., 2014). In healthcare, a bribe is an unofficial in-kind or cash payment to a medical professional to obtain services or medicine that should have been provided to a patient without such payment, which is often also given in the hope of receiving better or preferential treatment (Transparency International Global Health, 2016).

@@ -61,6 +61,16 @@ combinedInstitutions:
         value: >-
           Conseil Européen pour les Langues / European Language Council
           (CEL/ELC), Austria
+  - author: Marie Personnaz
+    authorDoc: content/authors/p/personnaz-marie.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/p/personnaz-marie
+    institutions:
+      - articles:
+          - MOSCO_2016_13_de-la-polarisation-a-la-radicalisation
+        value: >-
+          Paris Ouest Nanterre-la Défense University / Centre Edgar Morin IIAC
+          EHESS-CNRS, France
   - author: Babette Gekeler
     authorDoc: content/authors/g/gekeler-babette.md
     cmsLink: >-
@@ -72,16 +82,6 @@ combinedInstitutions:
         value: >-
           Institute for Medical Psychology / Charité University Hospitals,
           Germany
-  - author: Marie Personnaz
-    authorDoc: content/authors/p/personnaz-marie.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/p/personnaz-marie
-    institutions:
-      - articles:
-          - MOSCO_2016_13_de-la-polarisation-a-la-radicalisation
-        value: >-
-          Paris Ouest Nanterre-la Défense University / Centre Edgar Morin IIAC
-          EHESS-CNRS, France
   - author: Béatrice Hibou
     authorDoc: content/authors/h/hibou-beatrice.md
     cmsLink: >-
@@ -236,7 +236,7 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-createdAt: '2026-8-4 17:18:25'
+createdAt: '2026-8-4 19:30:25'
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
@@ -746,6 +746,14 @@ missingReferences:
     - (National Center for Educational Statistics, 2019)
     - (Park & Kim, 2014
     - (Lahlou, 2017)
+  uninstalling-corruption-an-anti-corruption-field-intervention-in-lithuanian-healthcare-through-the-lens-of-installation-theory:
+    - (Transparency International, 2023)
+    - (Transparency International Lithuania, 2005
+    - (Ministry of Healthcare of the Republic of Lithuania, 2012)
+    - (Lahlou, 2017)
+    - (Cislaghi & Heise, 2018
+    - (Gutierrez & Jurow, 2016)
+    - (Chen et al., 2015)
   voluntarism-and-the-self-in-medieval-literature:
     - '@aquinas1950a-53'
     - (Scotus, 1967
@@ -820,6 +828,13 @@ spellingVariants:
     kept: Queen's University Belfast, Northern Ireland.
     variants:
       - Queen's University Belfast, Northern Ireland
+  - author: Simon Luck
+    authorDoc: content/authors/l/luck-simon.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/l/luck-simon
+    kept: Paris Institute for Advanced Study, France
+    variants:
+      - Paris Institute for Advanced Study
   - author: Saadi Lahlou
     authorDoc: content/authors/l/lahlou-saadi.md
     cmsLink: >-
@@ -841,13 +856,6 @@ spellingVariants:
     kept: ETH Zurich, Switzerland
     variants:
       - ETH Zurich
-  - author: Simon Luck
-    authorDoc: content/authors/l/luck-simon.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/l/luck-simon
-    kept: Paris Institute for Advanced Study, France
-    variants:
-      - Paris Institute for Advanced Study
   - author: Tania Singer
     authorDoc: content/authors/s/singer-tania.md
     cmsLink: >-
