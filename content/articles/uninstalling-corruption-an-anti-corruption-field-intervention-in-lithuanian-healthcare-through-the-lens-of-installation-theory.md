@@ -128,8 +128,7 @@ Due to the forensic (and exploratory) nature of the paper, we will diligently fo
 
 ![](/uninstalling-corruption-an-anti-corruption-field-intervention-in-lithuanian-healthcare-through-the-lens-of-installation-theory/muravjovas_fig1.png)
 
-**Figure 1 text: (provided separately from the Figure 1 for editing purposes)**\
-Triangle: The use of bribes
+**Figure 1 Note:**
 
 Material level:\
 Bribery\
@@ -153,168 +152,13 @@ Let us now outline the determinants, modalities, and behavioral change technique
 
 **Table 1: Domains and layers of determinants of the intervention**
 
-\|
-
-**Domains and layers of Determinants (Lahlou (2018); Cislaghi & Heise (2018)).**
-
-\|
-|
-
-**Delivery Method**
-
-\|
-
-**Physical/**
-
-**Material**
-
-\|
-
-**Psychological/**
-
-**Individual**
-
-\|
-
-**Social/**
-
-**Institutional**
-
-\|
-
-**Intersections** 
-
-\|
-|
-
-**The Lazdynai Clinic Intervention:**\
-Policy goal: Decrease corruption in healthcare institutions to ensure better treatment of patients\
-Target behavior: Decrease the use of bribes for services in the Lazdynai outpatient clinic 
-
-\|
-|
-
-The Vitamin Lab (VL)
-
-The Attributes of a Good Visit (AGV)
-
-\|
-
-A visually augmented space of the Lazdynai clinic;
-
-The Vitamin Lab: stands, tubes, balls, a feedback box in the in the main hallway; posters; TV visuals throughout the clinic;\
-Vitamin Lab volunteers;
-
-The Attributes of a Good Visit:\
-Poster in the adjacent hallway;\
-Calendars\
-Visit slips\
-Family doctors (distributing calendars and using visit slips).
-
-\|
-
-VL and AGV installations reframing the relationship between the clinic's personnel and patients and the experience of a visit to the clinic; 
-
-VL reframing the representations around the provision of feedback about one's visit and gratitude for the service received;
-
-AGV workshop prompting family doctors to discuss and agree on the main attributes of quality service;
-
-\|
-
-The messages by the administration of the clinic featured in VL and AGV, stressing the importance of good service provision;\
-Proactive request for feedback from the patients;\
-Further implicit support for VL and AGV by granting space and other institutional means (e.g. TV screens; visit slips) to transmit the messages of VL and AGV. 
-
-\|
-
-Power: The intervention proposed, designed and implemented by a third-party (Transparency International Lithuania) with the approval and buy-in from the administration, with the doctors introduced to and engaged into the initiative in a top-down manner.\
-Gender: the element of gender did not play any significant role in the intervention. 
-
-\|
-
 **Table 2: Behavioral change techniques and modalities of the intervention**
 
-\|
-
-**Domains and layers of Determinants (Lahlou (2017); Cislaghi & Heise (2018)).**
-
-\|
-|
-
-**Delivery Method**
-
-\|
-
-**Main Behavior Change Techniques (Michie et al, 2013)**
-
-\|
-
-**Modality (Yamin et al, 2019)**
-
-\|
-|
-
-**The Lazdynai Clinic Intervention:**Policy goal: Decrease corruption in healthcare institutions to ensure better treatment of patients\
-Target behavior: Decrease the use of bribes paid for services in the Lazdynai outpatient clinic 
-
-\|
-|
-
-The Vitamin Lab (VL)
-
-The Attributes of a Good Visit (AGV)
-
-\|
-
-1.1.  Goal setting (behavior) -- the behavioural change sought by the intervention discussed and agreed on during the meetings with the administration of the clinic and ensuing workshops with the Lazdynai outpatient clinic community
-
-1.2.  Problem solving -- the dynamics of the clinic's community and the attitudes and behavior of its users analysed via quantitative and qualitative means
-
-1.3.  Goal setting (outcome) -- the goals of the intervention were discussed and agreed on during the meetings with the administration of the clinic; 
-
-1.4.  Action planning -- meetings with the administration and the workshops with the Lazdynai outpatient clinic community were used to generate pathways for action and agree on e.g. the content of AGV messages
-
-2.7.  Feedback on outcome(s) of behavior -- the administration of the clinic was regularly updated on the implementation of the initiative 
-
-4.1.  Instruction on how to perform a behavior -- family doctors were asked to consider and distribute AGV calendars and visit slips to their patients; the patients of the clinic were informed by the volunteers how to provide feedback via the Vitamin Lab installation
-
-7.1.  Prompts/cues -- VL and AGV were designed to convey the clinic's commitment to provide its patients with good quality service; VL was designed and positioned in such a way as to prompt the patients to evaluate their visit and provide feedback
-
-7.3.  Reduce prompts/cues -- the Vitamin Lab tubes were re-arranged and reduced in numbers (and then returned to the original arrangement) on several occasions during the span of the intervention
-
-8.2.  Behavior substitution -- the "vitamin" balls provided to the users of the clinic via the Vitamin Lab installation offered a substitution for other forms of gratitude (such as informal payments) to the medical personnel of the clinic. 
-
-8.3.  Habit formation -- the Vitamin Lab was featured in the clinic for two months, with the patients being repeatedly exposed to the opportunity to evaluate their visit to the clinic; VL volunteers reported that some patients became regular "users" of the VL
-
-9.1.  Credible source -- VL and AGV messages introducing the installations to the patients were done in the format of the clinic's medical community speaking to the clinic's patients; the installations were clearly associated with the clinic; Transparency International Lithuania was a known public policy organization  
-
-12.1.        Restructuring the physical environment -- the physical environment if the clinic was changed both with the Vitamin Lab installation in the entrance hall and other visuals throughout the clinic
-
-12.2.        Restructuring the social environment -- family doctors were invited to agree on the attributes of good quality service; patients received an opportunity to evaluate their visit to the clinic; clinic's personnel communicated their commitment to good quality service and openness to feedback
-
-12.5.        Adding objects to the environment -- the VL installation was featured at the entrance hallway 
-
-13.1.        Identification of self as role model -- family doctors engaged in AGV were encouraged to lead by example and adhere to the attributes they chose during their communication with the patients
-
-13.2.        Framing / reframing -- during the workshops and throughout the intervention, bribery as an attribute of poor-quality service was discussed with the clinic's community on numerous occasions
-
-13.4.        Valued self-identity -- the family doctors were prompted to address the questions of what kind of service they would like to provide to the patients and what attributes of that they would like to be associated with while preparing AGV
-
-\|
-
-Situated (taking place inside of the Clinic)
-
-AGV: the installation was positioned in the immediate proximity to the offices of family doctors. With the doctors previously having opposed the use of their office doors, this may have been the closest to the actual doctor-patient interaction the installation could be positioned. AGV calendars and visit slips could be distributed by doctors in their offices, thus reminding them of the installation and AGV.
-
-VL: the installation was featured in the entrance hallway and throughout the clinic. The entrance hallway was the last space the patients would be in before leaving the clinic. This was deemed a logical choice for the installation designed to obtain feedback. At the same time, the messages reiterating the importance of good quality service were seen at the time of arrival and departure from the clinic. So, while they could be associated with one's visit to the clinic, they were presented at a physical (and procedural) distance to the actual doctor-patient interaction. The same applies to other VL visuals, with VL visuals on TV screens situated next to offices of doctors positioned the closest to the actual doctor-patient encounter. 
-
-\|
-
-*Behavioral and change model: The Social Design Approach* 
+### *Behavioral and change model: The Social Design Approach* 
 
 The Lazdynai intervention was designed following the social design approach, defined above. It approaches the transformation of institutions as an applied learning process aimed at redesigning systems and processes by enabling the members of those institutions to lead the process (Gutierrez & Jurow, 2016). While the approach was already tested in service provision and communal work (Chen et al., 2015), it was the first time it was used in the Lithuanian healthcare sector. It was also a first-of-its-kind engagement for Transparency International Lithuania. 
 
-*Physical/Material Determinants* 
+### *Physical/Material Determinants* 
 
 The Lazdynai Clinic intervention prominently featured various physical determinants in both VL and AGV installations. The Lazdynai clinic was turned into a social design laboratory, with the entrance, hallways, and other spaces inside the clinic physically altered with "The Vitamin Lab" installation, paper and TV screen visuals inviting to provide feedback; and posters, calendars, and visit slips acquainting the patients with "The Ingredients of a Good Visit" to a family doctor. These props shared one design meant to be easily identified as the same intervention by the visitors to the clinic. In addition to inanimate determinants, VL volunteers were present at the entrance next to the main VL installation, engaging with the patients, explaining the feedback process, and ensuring the running of the installation. The changes the installation brought to the interior of the clinic were unorthodox and had not been seen before in Vilnius and Lithuania. 
 
@@ -322,7 +166,7 @@ The design, form, and style of VL had some elements of gamification. While this 
 
 The development of the installation on the floor with family doctors showed the boundaries within the clinic's medical community, with the doors to doctors' offices indicated as off-limits for any kind of activities. The family doctors initially spurned a proposal to use the doors as message boards to personalize their relationship with patients. Interestingly, as the intervention went on and the doctors became more accustomed to and engaged in the process, they appeared to become more open to the idea of using their office doors for the purposes of the intervention, and with some of them actively proposing to do so. This, however, was not possible, with the AGV installation already in full development mode.  
 
-*Psychological / Individual Determinants* 
+### *Psychological / Individual Determinants* 
 
 The VL installation reinterpreted how users' feedback can be provided, particularly in sensitive contexts. The playful nature and interactive (and gamified) design of VL offered an instant evaluation process, easy to engage with and conduct. VL turned a previously by-and-large absent feedback loop into a major theme of the visit to the clinic via the central positioning of the VL voting tubes, the "vitamin" balls used for voting being visible in the tubes to the visitors of the clinic, and VL volunteers proactively offering to evaluate one's visit and patients reminded of the opportunity to express their opinion via VL visuals throughout the clinic. 
 
@@ -334,14 +178,13 @@ The AGV installation was directed at both the medical personnel and patients of 
 
 The name "Attributes of a Good Visit", if translated verbatim from the original Lithuanian title "Gero vizito sudėtis", means "the contents of a good visit". This connects it to the Vitamin Lab and alludes to the ingredients of what good service provision should be. The fact that this information was offered in the immediate vicinity of family doctor offices was meant to remind the patients of what they should expect and ask of their family doctors, with the feedback loop present to express their opinion about the visit afterwards.
 
-*\
-Social / Institutional Determinants* 
+### *Social / Institutional Determinants* 
 
-Social and institutional determinants -- in terms of both formal and informal rules -- were featured prominently in the intervention. VL and AGV installations sought to reinforce the application of existing laws (prohibiting to bribe) through the introduction of new guidelines for patients and the establishment of informal agreements regarding medical personnel's behavior and treatment of patients. While focusing on facilitation of feedback and communication, their stance on service quality, the administration of the clinic, in partnership with Transparency International Lithuania, sought to assess and lower the levels of bribery in the clinic. The VL installation appears to have offered may have offered (at least, partially) a substitute for bribes, with four out of five VL feedback options featuring positive messages. By participating in VL or simply seeing featured feedback results, the patients may well have interpreted this as a signal that such expression of gratitude would suffice.
+Social and institutional determinants – in terms of both formal and informal rules – were featured prominently in the intervention. VL and AGV installations sought to reinforce the application of existing laws (prohibiting to bribe) through the introduction of new guidelines for patients and the establishment of informal agreements regarding medical personnel's behavior and treatment of patients. While focusing on facilitation of feedback and communication, their stance on service quality, the administration of the clinic, in partnership with Transparency International Lithuania, sought to assess and lower the levels of bribery in the clinic. The VL installation appears to have offered may have offered (at least, partially) a substitute for bribes, with four out of five VL feedback options featuring positive messages. By participating in VL or simply seeing featured feedback results, the patients may well have interpreted this as a signal that such expression of gratitude would suffice.
 
 The clinic's administration was aware and supportive of the intervention but treated it with caution. The anti-corruption goals of the intervention were communicated and agreed on from the onset of the initiative. This was clearly a sensitive issue that could have been easily boycotted or pushed back on by the medical staff, if not the patients. The presence of Transparency International Lithuania, an anti-corruption public policy organization, alone suggested (at least to the medical personnel) that the intervention was somehow related to corruption prevention and anti-corruption education. The intervention offered a novel pathway to curb bribery by addressing the issue indirectly, by emphasizing professionalism and openness of the medical staff, on the one hand, and readiness to engage and receive feedback and gratitude through other institutionalized means, on the other.
 
-*Intersections: Power and Gender* 
+### *Intersections: Power and Gender* 
 
 The collaboration between the clinic's staff and TI Lithuania-led intervention team may have created odd dynamics and stirred everyday routines in the clinic. It was clearly unusual for the clinic's personnel to have a third party, which was neither staff nor patients, present on the premises of the healthcare institution. Just as mentioned above, for example, the staff at the registration desk needed some time to adjust to the neighboring presence of the Vitamin Lab and its volunteers. The presence of the intervention team on the grounds of the clinic and the two installations may well have been seen as a threat to the status quo by at least some other clinic's staff. For instance, the medical personnel were also rather cautious while engaging with the intervention team and participating in the activities of the intervention. It may well have been the case that many of the clinic's representatives took part in the workshops following the orders of the administration and tolerated the social design changes made to the clinic as a necessary "evil" or discomfort they had to tolerate for some time. 
 
@@ -353,14 +196,13 @@ Both installations were aimed at improving patient-doctor power dynamics by empo
 
 Gender-related issues did not play any significant role during the implementation of the initiative. 
 
-**\
-***Overview of the Determinants *
+### *Overview of the Determinants*
 
 Let us now map out the layers of the determinants of the Lazdynai Clinic intervention, with the Installation Theory framework offering a systemic approach to analyze separate layers and mechanisms at play.
 
 **Figure 2: Overview of Determinants**
 
-![](blob:https://euangoddard.github.io/925228bc-ebbd-455f-b662-51d2c2322567)
+![](/uninstalling-corruption-an-anti-corruption-field-intervention-in-lithuanian-healthcare-through-the-lens-of-installation-theory/muravjovas_fig2.png)
 
 **Figure 2 text: Overview of Determinants (to go into the Figure, here for editing purposes)**
 
