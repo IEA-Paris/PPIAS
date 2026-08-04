@@ -96,7 +96,7 @@ The pool of words offered to discuss and choose from was pre-selected by the int
 
 ![](/uninstalling-corruption-an-anti-corruption-field-intervention-in-lithuanian-healthcare-through-the-lens-of-installation-theory/muravjovas_pic3.png)
 
-*The Vitamin Lab* (*Vitaminų\*\* laboratorija*)
+*The Vitamin Lab* (*Vitaminų laboratorija*)
 
 *The Vitamin Lab* introduced a feedback-like mechanism in the Lazdynai outpatient clinic. The installation was designed to serve as a reminder, or a reference, to the clinic's openness and resolve to provide good-quality service and improve its treatment of the patients. In this way, it was meant to affect both the attitudes towards bribery and the bribing behavior of the patients. The idea of the Vitamin Lab came from the discussions held at the very first workshop with the personnel and patients. The workshop participants pointed to the lack of a meaningful feedback loop for patients to evaluate the services of the clinic. To address this issue, the intervention team decided to develop an installation in the entrance hall next to the patients' registry and further amplify the message (and presence) of this installation by strategically placing Vitamin Lab visuals in various locations throughout the clinic (e.g., the elevator, doors, TV monitors, etc.). 
 
