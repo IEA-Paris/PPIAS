@@ -72,11 +72,11 @@ The workshop discussion produced several proposals as to what can be implemented
 
 Subsequently, the intervention took place on the premises of the clinic and lasted for two months from 13 January to 15 March 2016. Its impact was measured through surveys of users (*N* = 796) of the clinic conducted before and after the intervention. The impact of the intervention was assessed via two surveys of the patients, conducted prior to and after the intervention in the Lazdynai outpatient clinic took place. The baseline survey was carried out on January 6-12, 20216; the post-intervention survey was performed after the intervention on March 16-23, 2016. 
 
-*The summary of the results*
+### *The summary of the results*
 
 Since the primary goal of this paper is to analyze the intervention through the prism of the Installation Theory, only a summary of its results, which are discussed in depth by Muravjovas et al. (in preparation), is presented here. The results are mixed: the patients who noticed the Attributes of a Good Visit believed that in-kind bribes were less needed to receive better medical service, and also reported giving fewer gifts compared to the baseline assessment. Meanwhile, the patients who participated in the Vitamin Lab believed that both in-kind and cash bribes were less needed to receive better medical service. Finally, the patients exposed to the Attributes of a Good Visit rated the transparency of medical services higher, and the Vitamin Lab users evaluated the clinic's services better than the respondents of the baseline survey. However, there was no change in the patients' readiness to offer in-kind and cash bribes for medical services, and no change in their behavior of offering cash bribes to the medical personnel.
 
-*The Attributes of a Good Visit* (*Gero vizito sudėtis*)
+### *The Attributes of a Good Visit* (*Gero vizito sudėtis*)
 
 The primary objective of *The Attributes of a Good Visit* installation was to provide more in-clinic information about family doctors for the patients, since the patients suggested they did not know their family doctors well enough and lacked understanding of their role. The goal of the installation was to address that and present that information in an easy-to-understand and noticeable manner, so the patients would feel more at ease during visits to the doctors in question. By shifting the dynamics of the initial stages of the patient's visit, the team sought to contribute to the development of a more open and more ethical culture within the clinic. In particular, it aimed (1) to diminish the need for the patients to revert to bribery while seeking to obtain information and proper treatment from medical personnel; (2) to have family doctors agree on and publicly acknowledge the standard for patient treatment, to be reminded of and comply with daily. 
 
@@ -96,7 +96,7 @@ The pool of words offered to discuss and choose from was pre-selected by the int
 
 ![](/uninstalling-corruption-an-anti-corruption-field-intervention-in-lithuanian-healthcare-through-the-lens-of-installation-theory/muravjovas_pic3.png)
 
-*The Vitamin Lab* (*Vitaminų laboratorija*)
+### *The Vitamin Lab* (*Vitaminų laboratorija*)
 
 *The Vitamin Lab* introduced a feedback-like mechanism in the Lazdynai outpatient clinic. The installation was designed to serve as a reminder, or a reference, to the clinic's openness and resolve to provide good-quality service and improve its treatment of the patients. In this way, it was meant to affect both the attitudes towards bribery and the bribing behavior of the patients. The idea of the Vitamin Lab came from the discussions held at the very first workshop with the personnel and patients. The workshop participants pointed to the lack of a meaningful feedback loop for patients to evaluate the services of the clinic. To address this issue, the intervention team decided to develop an installation in the entrance hall next to the patients' registry and further amplify the message (and presence) of this installation by strategically placing Vitamin Lab visuals in various locations throughout the clinic (e.g., the elevator, doors, TV monitors, etc.). 
 
@@ -116,17 +116,17 @@ The patients participating in the Vitamin Lab were aided by some twenty Transpar
 
 ![](/uninstalling-corruption-an-anti-corruption-field-intervention-in-lithuanian-healthcare-through-the-lens-of-installation-theory/muravjovas_pic5.png)
 
-\*\*The Intervention through the Lens of the Installation Theory
+## The Intervention through the Lens of the Installation Theory
 
-\*\*
-
-*Deconstructing the Intervention* 
+### *Deconstructing the Intervention* 
 
 With the Lazdynai clinic intervention only partially achieving its goals, it may be beneficial to analyze the reasons behind this and explore what could have been done differently or improved when planning a similar intervention in the future. It can now be done with the benefit of new insights (Cislaghi & Heise, 2019; Lahlou, 2018; Yamin et al., 2019, 2023), complementing other established research (Lahlou, 2015; Michie et al., 2013). The Installation Theory (Lahlou, 2018) offers a framework to evaluate such interventions across the three physical, social, and psychological layers in a structured manner. The theory posits that behavior is shaped in a three-layered manner by "affordances of the environment; representations and practice embodied in actors; rules enforced by institutions" -- with an installation being "a socially constructed system with such three layers which guides a specific activity, by suggesting, scaffolding and constraining what society members can/should do in a specific situation (Lahlou, 2011). The theory posits that sustainable behavior change is more likely to occur if an intervention seeks to strategically address and reshape determinants and affordances on all three levels simultaneously, with the behavior in focus tackled at the location where and at the time when it occurs (Lahlou, 2015, 2018). Determinants of human behavior can be found in the subject (for instance, in one's habits, beliefs, motives, etc.) and the context of behavior (for example, laws, institutions, colleagues, etc.), while affordances describe what can be conducted in or supported by a particular context (Ibid). To assemble data required to do so, the subjective evidence-based (SEBE) technique featuring research subjects wearing miniature cameras is used to evaluate the environment in which the intervention would take place and to map out key activities and determinants of behavior in question (Lahlou, 2017). 
 
 Due to the forensic (and exploratory) nature of the paper, we will diligently follow the analytical blueprint developed by Yamin et al. (2023) and offer a retrospective overview of the key determinants that were addressed by the Lazdynai Clinic intervention. We will first map out key determinants present in the Clinic in accordance with the three layers outlined above (Lahlou, 2018). We will then apply the framework of Yamin et al. (2023) and break down the key determinants (Cislaghi & Heise, 2018; Lahlou, 2018), modalities (Yamin et al., 2019), and behavioral change techniques (Michie et al., 2013) of the intervention. The figure below presents key determinants featured in the Lazdynai intervention. 
 
 **Figure 1: Layers of the Lazdynai Clinic intervention** ![](blob:https://euangoddard.github.io/9c17c716-49da-44a6-86de-1053796aeead) 
+
+![](/uninstalling-corruption-an-anti-corruption-field-intervention-in-lithuanian-healthcare-through-the-lens-of-installation-theory/muravjovas_fig1.png)
 
 **Figure 1 text: (provided separately from the Figure 1 for editing purposes)**\
 Triangle: The use of bribes
