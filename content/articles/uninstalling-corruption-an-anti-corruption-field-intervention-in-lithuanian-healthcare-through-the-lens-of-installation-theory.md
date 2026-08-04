@@ -120,7 +120,7 @@ The patients participating in the Vitamin Lab were aided by some twenty Transpar
 
 ### *Deconstructing the Intervention* 
 
-With the Lazdynai clinic intervention only partially achieving its goals, it may be beneficial to analyze the reasons behind this and explore what could have been done differently or improved when planning a similar intervention in the future. It can now be done with the benefit of new insights (Cislaghi & Heise, 2019; Lahlou, 2018; Yamin et al., 2019, 2023), complementing other established research (Lahlou, 2015; Michie et al., 2013). The Installation Theory (Lahlou, 2018) offers a framework to evaluate such interventions across the three physical, social, and psychological layers in a structured manner. The theory posits that behavior is shaped in a three-layered manner by "affordances of the environment; representations and practice embodied in actors; rules enforced by institutions" -- with an installation being "a socially constructed system with such three layers which guides a specific activity, by suggesting, scaffolding and constraining what society members can/should do in a specific situation (Lahlou, 2011). The theory posits that sustainable behavior change is more likely to occur if an intervention seeks to strategically address and reshape determinants and affordances on all three levels simultaneously, with the behavior in focus tackled at the location where and at the time when it occurs (Lahlou, 2015, 2018). Determinants of human behavior can be found in the subject (for instance, in one's habits, beliefs, motives, etc.) and the context of behavior (for example, laws, institutions, colleagues, etc.), while affordances describe what can be conducted in or supported by a particular context (Ibid). To assemble data required to do so, the subjective evidence-based (SEBE) technique featuring research subjects wearing miniature cameras is used to evaluate the environment in which the intervention would take place and to map out key activities and determinants of behavior in question (Lahlou, 2017). 
+With the Lazdynai clinic intervention only partially achieving its goals, it may be beneficial to analyze the reasons behind this and explore what could have been done differently or improved when planning a similar intervention in the future. It can now be done with the benefit of new insights (Cislaghi & Heise, 2019; Lahlou, 2018; Yamin et al., 2019, 2023), complementing other established research (Lahlou, 2015; Michie et al., 2013). The Installation Theory (Lahlou, 2018) offers a framework to evaluate such interventions across the three physical, social, and psychological layers in a structured manner. The theory posits that behavior is shaped in a three-layered manner by "affordances of the environment; representations and practice embodied in actors; rules enforced by institutions" – with an installation being "a socially constructed system with such three layers which guides a specific activity, by suggesting, scaffolding and constraining what society members can/should do in a specific situation (Lahlou, 2011). The theory posits that sustainable behavior change is more likely to occur if an intervention seeks to strategically address and reshape determinants and affordances on all three levels simultaneously, with the behavior in focus tackled at the location where and at the time when it occurs (Lahlou, 2015, 2018). Determinants of human behavior can be found in the subject (for instance, in one's habits, beliefs, motives, etc.) and the context of behavior (for example, laws, institutions, colleagues, etc.), while affordances describe what can be conducted in or supported by a particular context (Ibid). To assemble data required to do so, the subjective evidence-based (SEBE) technique featuring research subjects wearing miniature cameras is used to evaluate the environment in which the intervention would take place and to map out key activities and determinants of behavior in question (Lahlou, 2017). 
 
 Due to the forensic (and exploratory) nature of the paper, we will diligently follow the analytical blueprint developed by Yamin et al. (2023) and offer a retrospective overview of the key determinants that were addressed by the Lazdynai Clinic intervention. We will first map out key determinants present in the Clinic in accordance with the three layers outlined above (Lahlou, 2018). We will then apply the framework of Yamin et al. (2023) and break down the key determinants (Cislaghi & Heise, 2018; Lahlou, 2018), modalities (Yamin et al., 2019), and behavioral change techniques (Michie et al., 2013) of the intervention. The figure below presents key determinants featured in the Lazdynai intervention. 
 
@@ -128,25 +128,25 @@ Due to the forensic (and exploratory) nature of the paper, we will diligently fo
 
 ![](/uninstalling-corruption-an-anti-corruption-field-intervention-in-lithuanian-healthcare-through-the-lens-of-installation-theory/muravjovas_fig1.png)
 
-**Figure 1 Note:**
+**Note:**
 
-Material level:\
-Bribery\
-Insufficient information on how to prepare for a visit
+*Material level:*\
+*Bribery*\
+*Insufficient information on how to prepare for a visit*
 
-Institutional level:\
-Unclear anti-corruption stance\
-A high level of perceived corruption\
-Lack of a feedback loop to evaluate services
+*Institutional level:*\
+*Unclear anti-corruption stance*\
+*A high level of perceived corruption*\
+*Lack of a feedback loop to evaluate services*
 
-Community/social level:\
-A high level of tolerance towards bribery by patients and doctors\
-Lack of communication between doctors and patients
+*Community/social level:*\
+*A high level of tolerance towards bribery by patients and doctors*\
+*Lack of communication between doctors and patients*
 
-Individual level:\
-Lack of empathy and transparency by some medical personnel\
-Patients feeling stressed during their visit to the clinic\
-High level of readiness to bribe
+*Individual level:*\
+*Lack of empathy and transparency by some medical personnel*\
+*Patients feeling stressed during their visit to the clinic*\
+*High level of readiness to bribe*
 
 Let us now outline the determinants, modalities, and behavioral change techniques of the intervention in a more comprehensive manner, in Table 1.
 
@@ -204,33 +204,31 @@ Let us now map out the layers of the determinants of the Lazdynai Clinic interve
 
 ![](/uninstalling-corruption-an-anti-corruption-field-intervention-in-lithuanian-healthcare-through-the-lens-of-installation-theory/muravjovas_fig2.png)
 
-**Figure 2 text: Overview of Determinants (to go into the Figure, here for editing purposes)**
+**Note:**
 
-Triangle: The use of bribes 
+*Triangle: The use of bribes* 
 
-Material level:\
-The Vitamin Lab (the installation, visuals, the feedback box, volunteers)\
-The Attributes of a Good Visit (a poster, calendars, and visit slips)
+*Material level:*\
+*The Vitamin Lab (the installation, visuals, the feedback box, volunteers)*\
+*The Attributes of a Good Visit (a poster, calendars, and visit slips)*
 
-Institutional level:\
-Clearer administration's stance on bribes\
-The clinic presenting the patients with an opportunity to evaluate the service\
-The clinic's public commitment to quality service\
-The public definition of good quality service by family doctors
+*Institutional level:*\
+*Clearer administration's stance on bribes*\
+*The clinic presenting the patients with an opportunity to evaluate the service*\
+*The clinic's public commitment to quality service*\
+*The public definition of good quality service by family doctors*
 
-Community/social level:\
-Greater engagement of doctors in discussions on service quality
+*Community/social level:*\
+*Greater engagement of doctors in discussions on service quality*
 
-Individual level:\
-Greater attention to professional treatment by doctors\
-Increased empowerment of patients
+*Individual level:*\
+*Greater attention to professional treatment by doctors*\
+*Increased empowerment of patients*
 
-Power: clinic's administration as enabler and intermediary; public policy organization as enactor; doctors and patients as participants and subjects of the intervention 
+*Power: clinic's administration as enabler and intermediary; public policy organization as enactor; doctors and patients as participants and subjects of the intervention* 
 
-\*\*
+## Discussion
 
-Discussion\
-\*\*\
 The Installation Theory offers a useful framework to analyze what was done across various layers of the intervention. It also provides us with the means to evaluate what may have been considered and done additionally or differently, while planning and implementing it. The intervention produces some promising, yet mixed, results. In hindsight, it could have benefited from a sound, more detailed, and behaviorally based theory of change, complementing the deployed social design approach. This, in turn, may have allowed for a more cohesive planning and its successful implementation and prompted a more realistic set of expectations related to it. Indeed, while the focus on service provision may have offered a constructive pathway for action, considering the difficult environment in which the intervention took place, it may have been too optimistic to expect a step change in bribery practices in the clinic. Similarly, the limited exposure of patients to VL and AGV while visiting the clinic and its clear association with the Lazdynai clinic was likely insufficient to change patients' readiness to bribe. At the time of the intervention, bribery was widespread in other institutions, such as the police, too (Special Investigation Service of the Republic of Lithuania, 2016). The patients were also exposed to other social influences. 
 
 A key feature of the Lazdynai clinic intervention is that, unlike, for instance, the civic culture initiatives of Antanas Mockus (Yamin et al., 2013, 2021, 2023), it took place inside of one concrete institution, within a well-defined space, and targeted members of a particular community. The Installation Theory encourages the introduction of changes aimed at influencing the behavior where and when it usually takes place (Lahlou, 2017), yet one could question how to establish optimal proximity of the intervention's determinants to their target audience and behavior and what is close enough, especially in sensitive contexts, when the issue addressed is either censored by or are a taboo for the target group, i.e. medical personnel.
@@ -251,21 +249,18 @@ When it comes to the interventions' goals, it may also have been unrealistic to 
 
 On a more positive note, the intervention may have contributed to the improvement of the medical personnel's morale. Reportedly, during the initiative, the doctors started to dress better for work (e.g., male staff members started wearing suits more often). The clinic's community also organized its first joint trip together. 
 
-The duration and continuity of the intervention also require further discussion. While there was a shift in the patients' perception of a need to give bribes and a shift in reported bribing in-kind by AGV users upon the completion of the intervention, the reported practice of bribing with cash and readiness to engage in bribery remained the same. This prompts several questions. Would a longer-lasting intervention have produced different results and after what time? Should the change in behavior have been measured in a different, more sensitive manner?\[[3]](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Muravjovas.html#_ftn3) How could the issue of readiness to make a bribe have been addressed -- and can this personal norm be influenced through an installation in a healthcare establishment alone? Finally, how to ensure sustainability and help develop a sense of community ownership of interventions initially designed and driven by third parties? In hindsight, one of the main shortcomings of the intervention was that it did not necessarily seek to develop installations that could be sustainably integrated into the clinic's environment and maintained without external support.  
+The duration and continuity of the intervention also require further discussion. While there was a shift in the patients' perception of a need to give bribes and a shift in reported bribing in-kind by AGV users upon the completion of the intervention, the reported practice of bribing with cash and readiness to engage in bribery remained the same. This prompts several questions. Would a longer-lasting intervention have produced different results and after what time? Should the change in behavior have been measured in a different, more sensitive manner?[^3] How could the issue of readiness to make a bribe have been addressed -- and can this personal norm be influenced through an installation in a healthcare establishment alone? Finally, how to ensure sustainability and help develop a sense of community ownership of interventions initially designed and driven by third parties? In hindsight, one of the main shortcomings of the intervention was that it did not necessarily seek to develop installations that could be sustainably integrated into the clinic's environment and maintained without external support.  
 
-Indeed, a more well-thought-out strategic approach could have also ensured greater sustainability of the clinic's good service agenda upon the completion of the intervention. The clinic did not continue with the Vitamin Lab installation on the grounds that it was too difficult to maintain, but kept the AGV poster on display. It was not clear whether the clinic's administration was prepared to invest anything but minimal resources in developing or maintaining such installations, either. The lesson here could be that it is important to be conscious of (1) the level of commitment and (human and financial) resources available and needed to maintain such installations, (2) the level of their acceptance by the clinic's community and, possibly, (3) other simpler kinds of related activities or elements of the intervention an organization can commit to and maintain by itself. For instance, it could have been suggested to the Lazdynai clinic to continue with the practice of asking for feedback with the help of only a see-through feedback box featured in the Vitamin Lab or collect feedback in another manner, for instance, via thank-you cards, in a designated place. Such trimmed-down approach would also offer a tangible way for the clinic to move forward, one step at a time.\
-**Conclusion** 
+Indeed, a more well-thought-out strategic approach could have also ensured greater sustainability of the clinic's good service agenda upon the completion of the intervention. The clinic did not continue with the Vitamin Lab installation on the grounds that it was too difficult to maintain, but kept the AGV poster on display. It was not clear whether the clinic's administration was prepared to invest anything but minimal resources in developing or maintaining such installations, either. The lesson here could be that it is important to be conscious of (1) the level of commitment and (human and financial) resources available and needed to maintain such installations, (2) the level of their acceptance by the clinic's community and, possibly, (3) other simpler kinds of related activities or elements of the intervention an organization can commit to and maintain by itself. For instance, it could have been suggested to the Lazdynai clinic to continue with the practice of asking for feedback with the help of only a see-through feedback box featured in the Vitamin Lab or collect feedback in another manner, for instance, via thank-you cards, in a designated place. Such trimmed-down approach would also offer a tangible way for the clinic to move forward, one step at a time.
 
-The Lazdynai clinic field intervention offers mixed results and a case study to draw from when designing similar interventions in the future. It also invites a discussion on how to create sustainable anti-corruption change in the future and the effectiveness of current methods used to do so. When seeking tangible and sustainable change, it may be beneficial to consider the complex interplay of interests, determinants, and affordances usually featured in institutions exposed or prone to corruption risks. The Installation Theory offers a useful analytical framework to do so.\
-**Acknowledgements** 
+## Conclusion 
+
+The Lazdynai clinic field intervention offers mixed results and a case study to draw from when designing similar interventions in the future. It also invites a discussion on how to create sustainable anti-corruption change in the future and the effectiveness of current methods used to do so. When seeking tangible and sustainable change, it may be beneficial to consider the complex interplay of interests, determinants, and affordances usually featured in institutions exposed or prone to corruption risks. The Installation Theory offers a useful analytical framework to do so.
+
+## Acknowledgements 
 
 The author would like to express his sincere gratitude to Paulius Yamin, PhD, for his continuous support and valuable advice while preparing this manuscript, and to Ingrida Kalinauskienė and Rūta Žiliukaitė, PhD, for their insightful comments.
 
-\[[1]](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Muravjovas.html#_ftnref1) The Transparency International Lithuania team consisted of several TI Lithuania employees and volunteers, Rūta Žiliukaitė of Vilnius University and social designers Dovilė Gaižauskienė and Jurga Želvytė of Vilnius College of Design.
-
-\[[2]](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Muravjovas.html#_ftnref2) The Lazdynai outpatient clinic intervention discussed in this study was conducted  as a part of the European Union-funded ANTICORRP project (Anticorruption Policies Revisited: Global Trends and European Responses to the Challenges of Corruption; Grant agreement ID: 290529), by  Transparency International Lithuania, a public policy organization in the field of anti-corruption and transparency.
-
-\[[3]](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Muravjovas.html#_ftnref3) Prior and after the intervention, the patients were asked whether they had made an informal payment over the span of twelve months. With the intervention running for two months, it could be argued that the patients should have then been asked about their experience of making informal payments in that period time, with the same kind of question asked before the intervention took place.
-
-[^1]: 
-[^2]: 
+[^1]:  The Transparency International Lithuania team consisted of several TI Lithuania employees and volunteers, Rūta Žiliukaitė of Vilnius University and social designers Dovilė Gaižauskienė and Jurga Želvytė of Vilnius College of Design.
+[^2]:  The Lazdynai outpatient clinic intervention discussed in this study was conducted as a part of the European Union-funded ANTICORRP project (Anticorruption Policies Revisited: Global Trends and European Responses to the Challenges of Corruption; Grant agreement ID: 290529), by  Transparency International Lithuania, a public policy organization in the field of anti-corruption and transparency.
+[^3]:  Prior and after the intervention, the patients were asked whether they had made an informal payment over the span of twelve months. With the intervention running for two months, it could be argued that the patients should have then been asked about their experience of making informal payments in that period time, with the same kind of question asked before the intervention took place.
