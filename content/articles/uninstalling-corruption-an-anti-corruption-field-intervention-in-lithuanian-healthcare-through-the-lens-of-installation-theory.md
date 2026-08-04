@@ -156,6 +156,8 @@ Let us now outline the determinants, modalities, and behavioral change technique
 
 **Table 2: Behavioral change techniques and modalities of the intervention**
 
+![](/uninstalling-corruption-an-anti-corruption-field-intervention-in-lithuanian-healthcare-through-the-lens-of-installation-theory/muravjovas_table2.png)
+
 ### *Behavioral and change model: The Social Design Approach* 
 
 The Lazdynai intervention was designed following the social design approach, defined above. It approaches the transformation of institutions as an applied learning process aimed at redesigning systems and processes by enabling the members of those institutions to lead the process (Gutierrez & Jurow, 2016). While the approach was already tested in service provision and communal work (Chen et al., 2015), it was the first time it was used in the Lithuanian healthcare sector. It was also a first-of-its-kind engagement for Transparency International Lithuania. 
