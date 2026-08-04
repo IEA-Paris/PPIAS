@@ -112,15 +112,9 @@ To better understand the voting dynamics, the intervention team every one or two
 
 The patients participating in the Vitamin Lab were aided by some twenty Transparency International Lithuania volunteers, dressed in similarly styled Vitamin Lab hoodies. The volunteers were continuously present at the location and oversaw the distribution of the paper bags containing five "vitamins" to those willing to take part in the evaluation exercise. 
 
-![Several white rectangular containers with yellow and purple beads
+**Picture 5.** Transparency International Lithuania, 2016. The Vitamin Lab with the evaluation tubes. A volunteer with a bag of "vitamins". 
 
-AI-generated content may be incorrect.](blob:https://euangoddard.github.io/61668196-006a-42f8-a739-2439db519f97)
-
- ![A person in a green sweatshirt
-
-AI-generated content may be incorrect.](blob:https://euangoddard.github.io/afcfab44-d052-465e-b02f-0b428fbddd6e)
-
-Picture 5. Transparency International Lithuania, 2016. The Vitamin Lab with the evaluation tubes. A volunteer with a bag of "vitamins". 
+![](/uninstalling-corruption-an-anti-corruption-field-intervention-in-lithuanian-healthcare-through-the-lens-of-installation-theory/muravjovas_pic5.png)
 
 \*\*The Intervention through the Lens of the Installation Theory
 
