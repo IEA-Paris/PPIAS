@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "Uninstalling Corruption: An Anti-Corruption Field Intervention
   in Lithuanian Healthcare through the Lens of Installation Theory"
 date: 2026-08-04T09:30:00.000-05:00
