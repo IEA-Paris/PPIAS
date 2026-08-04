@@ -92,13 +92,9 @@ The pool of words offered to discuss and choose from was pre-selected by the int
 
 ![](/uninstalling-corruption-an-anti-corruption-field-intervention-in-lithuanian-healthcare-through-the-lens-of-installation-theory/muravjovas_pic2.png)
 
-![](blob:https://euangoddard.github.io/c7179c8b-d867-45dd-acbe-4e6636d3e911)
+**Picture 3.** Transparency International Lithuania, 2016. The design of calendars and visit slips, distributed to the patients by family doctors.
 
- ![A calendar with numbers and yellow circles
-
-AI-generated content may be incorrect.](blob:https://euangoddard.github.io/019e1556-2b13-4335-81e7-665a65aaaabd)
-
-Picture 3. Transparency International Lithuania, 2016. The design of calendars and visit slips, distributed to the patients by family doctors.
+![](/uninstalling-corruption-an-anti-corruption-field-intervention-in-lithuanian-healthcare-through-the-lens-of-installation-theory/muravjovas_pic3.png)
 
 *The Vitamin Lab* (*Vitaminų\*\* laboratorija*)
 
