@@ -152,6 +152,8 @@ Let us now outline the determinants, modalities, and behavioral change technique
 
 **Table 1: Domains and layers of determinants of the intervention**
 
+![](/uninstalling-corruption-an-anti-corruption-field-intervention-in-lithuanian-healthcare-through-the-lens-of-installation-theory/muravjovas_table1.png)
+
 **Table 2: Behavioral change techniques and modalities of the intervention**
 
 ### *Behavioral and change model: The Social Design Approach* 
