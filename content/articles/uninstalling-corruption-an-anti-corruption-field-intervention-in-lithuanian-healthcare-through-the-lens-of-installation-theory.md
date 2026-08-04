@@ -100,19 +100,16 @@ The pool of words offered to discuss and choose from was pre-selected by the int
 
 *The Vitamin Lab* introduced a feedback-like mechanism in the Lazdynai outpatient clinic. The installation was designed to serve as a reminder, or a reference, to the clinic's openness and resolve to provide good-quality service and improve its treatment of the patients. In this way, it was meant to affect both the attitudes towards bribery and the bribing behavior of the patients. The idea of the Vitamin Lab came from the discussions held at the very first workshop with the personnel and patients. The workshop participants pointed to the lack of a meaningful feedback loop for patients to evaluate the services of the clinic. To address this issue, the intervention team decided to develop an installation in the entrance hall next to the patients' registry and further amplify the message (and presence) of this installation by strategically placing Vitamin Lab visuals in various locations throughout the clinic (e.g., the elevator, doors, TV monitors, etc.). 
 
-The entrance hall installation consisted of (1) the main stand named The Vitamin Lab, with the normative announcement by the clinic's administration; (2) a small stand next to it, with the instruction to the users how to take part in the installation; (3) another smaller stand with the instruction how to vote and offer feedback; (4) paper bags with five ping-pong-sized balls used for voting; (5) five see-through pillars with different labels (i.e. *thank you, I would recommend this clinic to others, procedures were clear and service was pleasant;* and *I did not like it*); and (6) a transparent plastic box for more personalized written feedback by the patients.\
-The installation stayed in the main hall for the entire two-month period of the entire intervention. It was used by the patients to offer feedback at least 3400 times, with at least 17054 "vitamins" distributed in the evaluation pillars. There were 199 comments left in the see-through feedback box. It is worthwhile to note that two-thirds of them (N = 122) were positive comments, and some 100 were thank-you letters to the medical personnel. All comments were depersonalized and submitted to the administration of the clinic.\
+The entrance hall installation consisted of (1) the main stand named The Vitamin Lab, with the normative announcement by the clinic's administration; (2) a small stand next to it, with the instruction to the users how to take part in the installation; (3) another smaller stand with the instruction how to vote and offer feedback; (4) paper bags with five ping-pong-sized balls used for voting; (5) five see-through pillars with different labels (i.e. *thank you, I would recommend this clinic to others, procedures were clear and service was pleasant;* and *I did not like it*); and (6) a transparent plastic box for more personalized written feedback by the patients.
+
+The installation stayed in the main hall for the entire two-month period of the entire intervention. It was used by the patients to offer feedback at least 3400 times, with at least 17054 "vitamins" distributed in the evaluation pillars. There were 199 comments left in the see-through feedback box. It is worthwhile to note that two-thirds of them (N = 122) were positive comments, and some 100 were thank-you letters to the medical personnel. All comments were depersonalized and submitted to the administration of the clinic.
+
 To better understand the voting dynamics, the intervention team every one or two weeks experimented with the number and placement of categories, while offering the users the same five "vitamins" to evaluate their visit with. While the changes related to the categories did not significantly affect "vitamin" distribution patterns, they did lead to an increase in the number of written responses. 
 
-![A room with benches and a potted plant
+**Picture 4**. Transparency International Lithuania, 2016. The main entrance hall before and with the Vitamin Lab installation.
 
-AI-generated content may be incorrect.](blob:https://euangoddard.github.io/6a572f3c-fd97-4940-ba51-17851f30d1e7)
+![](/uninstalling-corruption-an-anti-corruption-field-intervention-in-lithuanian-healthcare-through-the-lens-of-installation-theory/muravjovas_pic4.png)
 
- ![A group of people looking at a poster
-
-AI-generated content may be incorrect.](blob:https://euangoddard.github.io/3089eff1-e628-4f63-87da-9addadbd5a39)
-
-Picture 4. Transparency International Lithuania, 2016. The main entrance hall before and with the Vitamin Lab installation.\
 The patients participating in the Vitamin Lab were aided by some twenty Transparency International Lithuania volunteers, dressed in similarly styled Vitamin Lab hoodies. The volunteers were continuously present at the location and oversaw the distribution of the paper bags containing five "vitamins" to those willing to take part in the evaluation exercise. 
 
 ![Several white rectangular containers with yellow and purple beads
