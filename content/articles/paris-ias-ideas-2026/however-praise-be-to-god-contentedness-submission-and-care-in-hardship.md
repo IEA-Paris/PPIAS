@@ -1,27 +1,9 @@
 ---
-published: true
-article_title: “However, Praise Be to God:” Contentedness, Submission, and Care in Hardship
-date: 2026-08-04T11:20:00.000-05:00
-type: article
-needDOI: true
-authors:
-  - is_institution: false
-    firstname: Moumtaz
-    lastname: Nada
-    positions_and_institutions:
-      - institution: University of Toronto, Canada
-        positions: []
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: This paper thinks through some of my preliminary observations in a new
-  project on elderly care among Muslims in Beirut. It examines the work that the
+DOI: 10.5281/zenodo.21795034
+Zid: 21795034
+abstract: >-
+  This paper thinks through some of my preliminary observations in a new project
+  on elderly care among Muslims in Beirut. It examines the work that the
   expression “bass, al-hamdulillah” (however, praise be to God) does in the
   lives of elders when uttered after a narration of hardship, and not, for
   example, as an automatic answer to “how are you?” —that is, when God is an
@@ -30,11 +12,37 @@ abstract: This paper thinks through some of my preliminary observations in a new
   and now, rather than the future or the afterlife, it directs focus to God’s
   gentle care in hardship. It also indexes the way certain hardships, like the
   economic collapse in Lebanon since 2019, have come to be perceived and lived.
-issue: content/issues/paris-ias-ideas-2026.md
+article_title: “However, Praise Be to God:” Contentedness, Submission, and Care in Hardship
+authors:
+  - firstname: Moumtaz
+    is_institution: false
+    lastname: Nada
+    positions_and_institutions:
+      - institution: University of Toronto, Canada
+        positions: []
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: >-
+  /however-praise-be-to-god-contentedness-submission-and-care-in-hardship/moumtaz_references.bib
+date: 2026-08-04T16:20:00.000Z
 highlight: false
-bibliography: /however-praise-be-to-god-contentedness-submission-and-care-in-hardship/moumtaz_references.bib
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/20c42c99-376f-4fca-93ef-48b5604a77ed
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## Acknowledgements
 
 This paper was written during a one-month residency at the Paris Institute for Advanced Study. Time is our most precious commodity as academics, and I am extremely grateful to the Paris IAS and its whole staff for creating conditions that take care of most reproductive labor for us to focus on our writing and for the fellow's collegiality and generosity at talks, internal seminars, and lunches. Jennifer Clapp, Pierre Dillebourg, Nina Jablonski, Don Kulik, Lise Richaud, Willibald Sonnleitner, and Jeremy Stolow have asked me probing questions that I hope to answer as this project develops.
