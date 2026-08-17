@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: Adaptive self-organization in swidden agriculture
 date: 2026-08-17T17:19:00.000-05:00
 type: article
