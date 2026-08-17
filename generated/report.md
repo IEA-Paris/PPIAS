@@ -236,7 +236,7 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-createdAt: '2026-8-4 19:30:25'
+createdAt: 2026-8-17 23:24:9
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
@@ -291,6 +291,17 @@ missingReferences:
       Address the Grand Challenges of the Future of Collaboration and
       Information Work at the Human-Technology Frontier was submitted to the
       National Science Foundation on December 11, 2023
+  adaptive-self-organization-in-swidden-agriculture:
+    - (Linnaeus, 1775, cited in Dove, 2015)
+    - (e.g., New York Times, 1990)
+    - (Barker & Fraser, 2023)
+    - (Vellend et al., 2007
+    - Vellend, 2019)
+    - (Vellend, 2007)
+    - (see Barker & Fraser, 2023
+    - (e.g., Schwartz & Corzo, 2015)
+    - (Lansing, 1994)
+    - (Suchikova et al., 2025)
   agentic-ai-in-data-commons-and-glam-what-role-for-the-model-context-protocol:
     - '@Paris'
   ai-and-the-illusion-of-control:
