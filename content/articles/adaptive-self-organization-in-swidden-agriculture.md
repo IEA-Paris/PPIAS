@@ -250,28 +250,12 @@ This critical review does not claim to resolve the normative swidden-is-bad bias
 
 ## Disclosure of Delegation to Generative AI
 
-The author declares the use of generative AI in the research and writing process. According to the GAIDeT taxonomy (Suchikova et al., 2025), the following tasks were delegated to GAI tools under full human supervision: literature search and systematization, development of experimental or research protocols, data analysis, drafting text proposals, proofreading, and editing. The GAI tool used was: Perplexity Pro Version 26.22.0 (25) with Claude Opus 4.8 Thinking. Responsibility for the final manuscript lies entirely with the author. GAI tools are not listed as authors and do not bear responsibility for the final outcomes. Declaration submitted by: Sean S. Downey
+The author declares the use of generative AI in the research and writing process. According to the GAIDeT taxonomy (Suchikova et al., 2025), the following tasks were delegated to GAI tools under full human supervision: literature search and systematization, development of experimental or research protocols, data analysis, drafting text proposals, proofreading, and editing. The GAI tool used was: Perplexity Pro Version 26.22.0 (25) with Claude Opus 4.8 Thinking. Responsibility for the final manuscript lies entirely with the author. GAI tools are not listed as authors and do not bear responsibility for the final outcomes. Declaration submitted by: Sean S. Downey.
 
-- - -
-
-\[[1]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref1) Page 536.
-
-\[[2]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref2) See (Hames, 2007) for a comprehensive review of the "ecologically noble savage" debate.
-
-\[[3]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref3) Page 540.
-
-\[[4]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref4) Page 542.
-
-\[[5]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref5) Page 549.
-
-\[[6]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref6) This top-down / bottom-up framework is similar to one used for a review of ecosystem food pyramid research that identified theoretical trends in community ecology between a bottom-up resource-based hypothesis, and a top-down consumer-based hypothesis for determining the biomass patterns across food pyramids (Leroux and Loreau 2015). Here, I develop a novel top-down/bottom-up framework for epistemology in swidden, a prototypical coupled human and natural system. Accordingly, the mechanisms and patterns in coupled systems are different and more varied because they incorporate human demography, energetics, and cultural factors, in addition to forest community ecology. Whereas Leroux and Loreau's (2015) framework is ontological, describing the direction of causal force in ecosystems, mine is epistemological, describing the direction of explanatory inference in swidden scholarship.
-
-\[[7]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref7) Methodologically, my goal in Table 2 is to select seminal works and to characterize them by overall epistemological approach and research tradition. Often, articles and monographs (which are less constrained for space) contain discussions of both top-down factors such as demographic growth, globalization, state power, and the broad sweep of history, and bottom-up details from case studies, local dataset, and ethnographic and ethnohistorical context. Thus, the epistemological classification reflects the most general epistemological category that reflects the research tradition of the work.
-
-[^1]: 
-[^2]: 
-[^3]: 
-[^4]: 
-[^5]: 
-[^6]: 
-[^7]: 
+[^1]: Page 536.
+[^2]: See (Hames, 2007) for a comprehensive review of the "ecologically noble savage" debate.
+[^3]: Page 540.
+[^4]: Page 542.
+[^5]: Page 549.
+[^6]: This top-down / bottom-up framework is similar to one used for a review of ecosystem food pyramid research that identified theoretical trends in community ecology between a bottom-up resource-based hypothesis, and a top-down consumer-based hypothesis for determining the biomass patterns across food pyramids (Leroux and Loreau 2015). Here, I develop a novel top-down/bottom-up framework for epistemology in swidden, a prototypical coupled human and natural system. Accordingly, the mechanisms and patterns in coupled systems are different and more varied because they incorporate human demography, energetics, and cultural factors, in addition to forest community ecology. Whereas Leroux and Loreau's (2015) framework is ontological, describing the direction of causal force in ecosystems, mine is epistemological, describing the direction of explanatory inference in swidden scholarship.
+[^7]: Methodologically, my goal in Table 2 is to select seminal works and to characterize them by overall epistemological approach and research tradition. Often, articles and monographs (which are less constrained for space) contain discussions of both top-down factors such as demographic growth, globalization, state power, and the broad sweep of history, and bottom-up details from case studies, local dataset, and ethnographic and ethnohistorical context. Thus, the epistemological classification reflects the most general epistemological category that reflects the research tradition of the work.
