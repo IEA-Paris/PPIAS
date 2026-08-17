@@ -49,79 +49,11 @@ highlight: false
 bibliography: /adaptive-self-organization-in-swidden-agriculture/downey_references.bib
 language: English
 ---
-Adaptive self-organization in swidden agriculture
-
-Sean S. Downey^1^
-
-^1 The Ohio State University, Columbus, U.S.A.^
-
-|
-
-TO CITE
-
-Downey, S.S. (2026). Adaptive self-organization in swidden agriculture. *In Proceedings of the Paris Institute for Advanced Study* (Vol. XX). https://doi.org/
-
- |
-
-|
-
-PUBLICATION DATE
-
-XX June 2026
-
- |
-
-|
-
-ABSTRACT
-
-More than forty years ago, Michael Dove (1983) traced persistent myths about swidden agriculture to a "political economy of ignorance." A polarization of "good" and "bad" perceptions of swidden was sustained, he argued, because it served the interests of the powerful, and it remains entrenched today even as theory, methods, and data have improved markedly. This essay argues that a second, epistemological problem may contribute to the persistence of these myths: the dominant epistemological approaches to swidden research talk past one another. First, drawing on Barker and Fraser's (2023) concept of the "unraveled rope," I examine the argument structure of three swidden case studies spanning distinct disciplines and opposing normative poles. In each, the empirical work is sound, but argument defects exist: the conclusion misrelates the evidence to undefended value premises, overstating what the data can support about whether swidden is good or bad for the forest. Second, I conduct a targeted review of the swidden scholarship that shows how this polarization may reflect a deeper disjuncture between top-down and bottom-up research traditions, neither of which fully explains how small-scale societies shape large-scale forests. Third, I propose adaptive self-organization as an integrative framework connecting community-level decisions to emergent, landscape-scale dynamics. Synthesizing two decades of my own research, I show how adaptive self-organization connects farmers' local decisions to the landscape-scale forest patterns. In doing so, the essay reframes swidden as an adaptive self-organizing coupled human-nature system and offers an epistemological counterpart to the political economy of ignorance Dove diagnosed a generation ago.
-
-Acknowledgements
+## Acknowledgements
 
 This paper was written during a one-month residency at the Paris Institute for Advanced Study in June 2026. I am grateful for many lively and engaging discussion with the other Fellows and staff. My research program was made possible with generous support from the U.S. National Science Foundation, and I acknowledge the financial support provided by DDRIG grant #0647832 and CAREER grant #1818597. I remain fully responsible for any errors or omissions in this paper.
 
- |
-
-1\. Table of Contents
----------------------
-
-[1\. Table of Contents](file:///Users/alexcano86/Desktop/Downey.html#_Toc233616205)
-
-[2\. Introduction](file:///Users/alexcano86/Desktop/Downey.html#_Toc233616206)
-
-[3\. Identifying normative bias in swidden scholarship](file:///Users/alexcano86/Desktop/Downey.html#_Toc233616207)
-
-[3.1 Case study #1: Henley (2011)](file:///Users/alexcano86/Desktop/Downey.html#_Toc233616208)
-
-[3.2 Case study #2: Molinario et al. (2015)](file:///Users/alexcano86/Desktop/Downey.html#_Toc233616209)
-
-[3.3 Case study #3: Ross (2011)](file:///Users/alexcano86/Desktop/Downey.html#_Toc233616210)
-
-[3.4 Synthesis: the unraveled rope in three examples of swidden literature](file:///Users/alexcano86/Desktop/Downey.html#_Toc233616211)
-
-[4\. A top-down / bottom-up review of swidden scholarship](file:///Users/alexcano86/Desktop/Downey.html#_Toc233616212)
-
-[5\. Adaptive self-organization in swidden agriculture](file:///Users/alexcano86/Desktop/Downey.html#_Toc233616213)
-
-[5.1 Evidence and progress](file:///Users/alexcano86/Desktop/Downey.html#_Toc233616214)
-
-[6\. Conclusion](file:///Users/alexcano86/Desktop/Downey.html#_Toc233616215)
-
-[7\. References cited](file:///Users/alexcano86/Desktop/Downey.html#_Toc233616216)
-
-[8\. Disclosure of Delegation to Generative AI](file:///Users/alexcano86/Desktop/Downey.html#_Toc233616217)
-
-**Tables**
-
-[Table 1. Summaries of argument analysis of three swidden case studies from history, remote sensing, and anthropology](file:///Users/alexcano86/Desktop/Downey.html#_Toc233620868)
-
-[Table 2. Chronological summary of classic and influential studies in swidden scholarship](file:///Users/alexcano86/Desktop/Downey.html#_Toc233620869)
-
-[Table 3. Core adaptive self-organization concepts and relevance to swidden systems](file:///Users/alexcano86/Desktop/Downey.html#_Toc233620870)
-
-2\. Introduction
-----------------
+## Introduction
 
 Swidden agriculture involves an annual pattern of forest clearing, burning, cultivation, harvesting, and planting, followed by longer fallow periods when natural ecosystem processes restore above-ground biomass, species diversity, and soil fertility. It is best understood as a socioecological prototype that takes many forms in different parts of the world and throughout the entirety of the last 10,000 years of human history.  Many renowned anthropologists have studied swidden, including Harold Conklin (1957), Clifford Geertz (1963), Michael Dove (1983, 2015), William Balée (2013), and James Scott (2009). Even Carl Linnaeus, the inventor of the modern system of scientific taxonomy, studied swidden in subarctic Sweden (Linnaeus, 1775, cited in Dove, 2015). A common thread in this scientific literature is that "swidden-is-good" for the forest -- that is, it can be practiced sustainably, and, under some circumstances, it can sustain human populations without degrading the environment. In recent years, appreciation for swidden's resilience and adaptive capacity has grown, and there is growing appreciation for its importance in conservation (e.g., Ziegler, 2011a). But when it comes to swidden, the elephant in the room is *slash-and-burn* -- a dysphemism (negative epithet) reflecting the widely-held perception that "swidden-is-bad" for the forest. This bias persists both in society-at-large (e.g., New York Times, 1990), and applied fields like environmental conservation, rural development, and climate change policy (REDD+). 
 
@@ -135,8 +67,7 @@ Building on this observation, Section 4 proposes that the concept of *adaptive 
 
 In the conclusion, I return to the questions raised here in the introduction and briefly discuss whether adaptive self-organization is just a different model of swidden, or whether it can help overcome the epistemological limitations that may have characterized previous swidden research. 
 
-3\. Identifying normative bias in swidden scholarship
------------------------------------------------------
+## Identifying normative bias in swidden scholarship
 
 Recently, philosopher Matthew Barker and biologist Dylan Fraser (2023) identified a previously unrecognized problem in conservation research regarding faulty argumentation. In this section, I explore whether this problem extends to the literature on swidden agriculture. They defined the *unraveled rope problem* as a class of scientific arguments about conservation that are structurally flawed because they define fallacious relationships between empirical results and the normative values and premises that underlie their conclusions. They write, 
 
@@ -152,198 +83,198 @@ Detailed argument analyses for each of the case studies are presented in turn an
 
 Table 1. Summaries of argument analysis of three swidden case studies from history, remote sensing, and anthropology. Empirical and value premises are labeled A1, A2, B1, etc.. Evaluation criteria: "Present" means the defect is clearly identifiable in the argument structure and materially weakens support for the conclusion. "Risk" means that the defect is not fully realized but the argument structure creates conditions under which it is likely to be read as committing it; "Absent" means that the argument handles this dimension adequately (not observed).
 
-|
+\|
 
 **Analytic summary and defect families (Barker and Fraser 2023)**
 
- |
+\|
 
 **"Swidden Farming as an Agent of Environmental Change: Ecological Myth and Historical Reality in Indonesia" (Henley 2011)**
 
- |
+\|
 
 **"Forest cover dynamics of shifting cultivation in the Democratic Republic of Congo: a remote sensing-based assessment for 2000--2010" (Molinario, Hansen, and Potapov 2015)**
 
- |
+\|
 
-** "Modern tree species composition reflects ancient Maya 'forest gardens'" (Ross 2011)**
+ **"Modern tree species composition reflects ancient Maya 'forest gardens'" (Ross 2011)**
 
- |
+\|
 |
 
 **Analytic Summary --**
 
-an overview of the main argument in the study, including how the value and empirical premises relate to and support the conclusion. Presented in *modus ponens *form where variables P and Q represent value and empirical premise:
+an overview of the main argument in the study, including how the value and empirical premises relate to and support the conclusion. Presented in *modus ponens* form where variables P and Q represent value and empirical premise:
 
 A. If P then Q
 
 B. P.
 
---- ("therefore")
+\--- ("therefore")
 
 C. Q.
 
- |
+\|
 
 Swidden conservation incompatibility argument
 
-----------------------------------------------------------------
+- - -
 
 A. If traditional swidden farming (1) relied on short fallow cycles under conditions of low population density and abundant land, and (2) it permanently replaced natural tropical forest with lower-diversity anthropogenic vegetation, then traditional swidden farming is fundamentally incompatible with nature conservation.
 
 B. Traditional swidden farming in northern Sulawesi (1820--1950) relied on short fallow cycles (avg. 5--6 years) for this entire period; population pressure started low during this period and increased without causing a change in fallow cycle duration; and Dutch officers observed that natural tropical forest was replaced with lower-diversity anthropogenic vegetation.
 
----------------------------------------------------------------
+- - -
 
 C. Traditional swidden farming is fundamentally incompatible with nature conservation.
 
- |
+\|
 
 Swidden forest-perforation argument
 
--------------------------------------------------------------------
+- - -
 
 A. If (1) primary forest core areas have special ecological value, (2) agricultural clearing expands beyond established agricultural complexes, and (3) "Wall-to-wall" remote sensing observations can substitute for local qualitative knowledge in assessing the dynamics of shifting agriculture at national scale, then this constitutes a conservation concern requiring management intervention.
 
 B. Between 2000--2010, remote sensing documents forest cover loss expansion in the DRC beyond established agricultural areas: rural complexes grew 10.2%, perforated forests grew 74.4%, and core forest declined 3.8%.
 
-------------------------------------------------------------------
+- - -
 
 C. Forest perforation growth in the DRC constitutes a conservation concern requiring management intervention.
 
- |
+\|
 
   Forest-garden conservation argument
 
-----------------------------------------------------------------
+- - -
 
 A. If (1) ancient agricultural practices increase the abundance of economically useful species, (2) modern forest composition bears a detectable signature of these practices, then conservation programs should incorporate social-ecological history. 
 
 B. At El Pilar, economically useful species are more abundant in areas with high density archaeological settlement, and less abundant in areas will low density archaeological settlement.
 
----------------------------------------------------------------
+- - -
 
 C. Mesoamerican conservation programs should incorporate social-ecological history including areas with evidence of ancient agricultural practices.
 
- |
+\|
 |
 
 **Is--ought fallacy** ---when an argument extends an inference from only descriptive content to value-laden normative content.
 
- |
+\|
 
 ***Present*** --- The conclusion that swidden must be treated as a deforestation agent incompatible with conservation (C) is presented as following from the empirical findings (B) in the study, but this logical jump is not supported without first accepting the non-equivalence of sustainability and conservation, and the greater importance of conservation over agriculture, neither of which are adequately defended.
 
- |
+\|
 
-***Present ***--- The paper moves from empirical remote sensing analysis (A3) to normative concerns about conservation (A1) without explicit bridge premises; the analysis cannot distinguish between proximate drivers of land cover change (clearing for household demand) and ultimate drivers (conflict forcing households to migrate), inserting a layer of normative inference between observing forest loss in satellite images and concluding the need for policy regulating shifting agriculture.
+***Present*** --- The paper moves from empirical remote sensing analysis (A3) to normative concerns about conservation (A1) without explicit bridge premises; the analysis cannot distinguish between proximate drivers of land cover change (clearing for household demand) and ultimate drivers (conflict forcing households to migrate), inserting a layer of normative inference between observing forest loss in satellite images and concluding the need for policy regulating shifting agriculture.
 
- |
+\|
 
 ***Risk*** --- The conclusion moves from observing a forest composition difference between ancient settlement zones to a conservation mandate without an explicit bridging premise; not fully present because the argument is built on the normative premise (A) that human well-being is dependent on biodiversity preservation, but the supporting argument for this claim is thin relative to the empirical case (B).
 
- |
+\|
 |
 
 **Derelict normative premises** --- when normative premises that are required for argument to be deductively valid are in fact absent.
 
- |
+\|
 
 ***Present*** --- Premise A1 is stated in one sentence without sub-argument or engagement with competing frameworks; Premise A2 is never acknowledged despite doing essential work to support conclusion C.
 
- |
+\|
 
 ***Present*** --- At least three normative premises related to "swidden is bad" are implicit and insufficiently defended: that all core forest fragmentation is destructive (A1); that national-scale remote sensing is sufficient for forest management (A3); and forest carbon accounting (REDD+) is a locally-appropriate policy objective. 
 
- |
+\|
 
 ***Present*** --- The value-laden premise (A1) is asserted, not argued. The load-bearing premise that a shift toward human-useful species *at equal overall diversity* counts as a conservation benefit is never defended, even though it is the most contestable step linking the data to the policy conclusion.
 
- |
+\|
 |
 
 **Ironic community bias**--- when bias manifests at the level of the research community, rather than at the level of an individual study; also, when results from an individual study do not support or in some cases even support a conclusion opposite to a community's views.
 
- |
+\|
 
 ***Present*** --- Author diagnoses idealist bias in the "swidden is good" literature, then reproduces a mirror-image "swidden is bad" normative prior without seriously considering alternatives; Map 3 may constitute a Vellend-style patch/landscape scale inference mismatch, and description of water buffalo-pastoralism references integral logic and both could support alternative swidden-is-good interpretations. Additionally, uncritical use of colonial-period observations may amplify observer bias into community bias.
 
- |
+\|
 
 ***Present*** --- Author cites evidence on conflict-driven displacement in DRC affecting shifting cultivators, yet the results of the analysis are not considered under this alternative causal driver, which could provide a different, and potentially the opposite, conclusion. The paper cites "swidden-is-good" literature but then does not consider it seriously and instead filters the classification results through a "swidden-is-bad" normative prior.
 
- |
+\|
 
 ***Present*** --- Literature review is heavily weighted toward swidden-is-good normative prior, without even treatment of swidden-is-bad. A swidden-is-good variant of the Vellend-style patch/landscape scale inference mismatch exists: While the "humans are good for the forest" prior may have made a landscape-scale analysis seem unnecessary, a combined-mosaic (gamma-scale) analysis *could*have lent the conservation claim additional support for higher biodiversity rather than equal diversity but it was never undertaken; or alternatively, it could have shown that the abundance increases in high-density areas were statistically insignificant at larger scales of analysis.
 
- |
+\|
 |
 
 **Action argument conflation** --- when an argument improperly conflates the roles played by probabilities of possible outcomes with the magnitudes of value those outcomes would have.
 
- |
+\|
 
 ***Risk*** --- The evidence for forest-grassland conversion in the Poso region is assigned disproportionate weight relative to its geographic extent, and the scope of the conclusions.
 
- |
+\|
 
 ***Present*** --- The paper conflates two distinct probability-magnitude questions: the probability that observed clearings represent permanent conversion versus cyclical swidden disturbance, and the probability that shifting cultivators, rather than conflict, mining, or logging, are the agent responsible for the observed spatial pattern. Both are unresolved by the data and methodology analysis, yet the policy recommendation treats both as settled.
 
- |
+\|
 
 ***Risk*** --- Regional policy is recommended without assessing the probability that the El Pilar pattern generalizes across Mesoamerica, or the value magnitude of forest-garden knowledge relative to alternative conservation strategies; the probability--magnitude structure of the action claim is unexamined.
 
- |
+\|
 |
 
 **Value unclarity due to language** --- when key terms blend empirical and normative meanings without acknowledgement, allowing normative content to enter and guide the argument.
 
- |
+\|
 
 ***Present*** --- The paper uses the terms "monotonous", "scholarly amnesia," "permanent deforestation," "traditional," "fundamentally incompatible," "itinerant" and "destruction" which carry hidden normative meanings that obscure the argument's inferential structure.
 
- |
+\|
 
-***Present*** --- Terms used encode a "swidden-is-bad" normative prior: "shifting agriculture" (which implies *itinerant*), "carving fields out of forest," "impacts," "wall-to-wall coverage" (used to dismiss the importance of localized qualitative data), "abandonment," and "forest cover loss" (versus the terms '*change' *or* 'dynamics' *that areused in the title). The choice to label forest clearings and as "forest cover loss" in Figures 1, 5 and 7 and the phrase "of particular concern" in the abstract all indicate the language unclarity and the potential for blending values and empiricism.
+***Present*** --- Terms used encode a "swidden-is-bad" normative prior: "shifting agriculture" (which implies *itinerant*), "carving fields out of forest," "impacts," "wall-to-wall coverage" (used to dismiss the importance of localized qualitative data), "abandonment," and "forest cover loss" (versus the terms '*change'* or *'dynamics'* that areused in the title). The choice to label forest clearings and as "forest cover loss" in Figures 1, 5 and 7 and the phrase "of particular concern" in the abstract all indicate the language unclarity and the potential for blending values and empiricism.
 
- |
+\|
 
 ***Present*** --- Key terms carry undeclared normative loading: "forest garden" (the swidden-is-good normative inverse of "slash-and-burn"), the terms "mature forest" and "functional equivalent of old-growth" are applied despite acknowledging selective logging; and, forest existing in "intimate association with humans" conveying an emotional relationship.
 
- |
+\|
 |
 
 **Value unclarity due to logic** --- when unaddressed logical implications of the argument logically imply value-laden conclusions that are never stated, clarified, or related back to the empirical premises that are supposed to support them.
 
- |
+\|
 
 ***Present*** --- The non-equivalence of sustainable swidden and conservation (P1) does not logically entail the conclusion of fundamental incompatibility (C) (e.g., due to ironic community bias), but the argument treats it as if it does.
 
- |
+\|
 
 ***Present*** --- Research questions embed both the normative conclusion about policy implications and the undefended causal attribution to shifting cultivators (ignoring proximate/ultimate distinctions). Also, research results are presented in Introduction section ("However, we show...)" signaling circular logic (results motivating research questions that generated those results...), also indicating that values may be driving argument form.
 
- |
+\|
 
 ***Present*** --- The argument carries a value-laden conclusion that it never states or connects to its premises. By treating the compositional difference between settlement zones as conservation-relevant, the paper implies that a forest reshaped toward human-useful species is as much or more worth conserving than one that is not. This is a judgment about the purpose of conservation, and it follows from the argument even though it is never made explicit or related back to the empirical findings that are supposed to support it.
 
- |
+\|
 
 ### 3.1 Case study #1: Henley (2011)
 
-*Swidden Farming as an Agent of Environmental Change* by David Henley (2011) is described as a direct challenge to the proposition that swidden farming is ecologically benign. The study analyzes an original dataset of Dutch colonial records from northern Sulawesi (1820--1950), and it tests the hypothesis that swidden fallow periods should be long (and therefore sustainable) when demographic pressure is low, and land is abundant. First, the author uses a dataset of 41 archival observations of fallow cycle durations to calculate an average interval of 5--6 years. He assesses this as inadequate for complete forest recovery, especially under the low demographic pressure that characterized Sulawesi during this period. Second, he reports historical accounts of vegetation and forest cover from colonial sources (e.g., "monotonous"[[1]](file:///Users/alexcano86/Desktop/Downey.html#_ftn1)) to support the claim that swidden permanently replaced natural tropical forest with lower-diversity anthropogenic vegetation. Third, he argues that the combination of swidden and semi-domesticated water buffalo pastoralism produced irreversible fire-climax grasslands due to intensive land use. Ultimately, based on the evidence and analyses, the author concludes that swidden farming is fundamentally incompatible with nature conservation, and that conservation policy must abandon the "ecologically noble savage" narrative.[^^[2]^^](file:///Users/alexcano86/Desktop/Downey.html#_ftn2) The article is rich with unique historical data from the Dutch colonial period, clearly written, and an important contribution to swidden scholarship. However, an argument analysis suggests several shortcomings related in particular to derelict normative premises and ironic community bias.
+*Swidden Farming as an Agent of Environmental Change* by David Henley (2011) is described as a direct challenge to the proposition that swidden farming is ecologically benign. The study analyzes an original dataset of Dutch colonial records from northern Sulawesi (1820--1950), and it tests the hypothesis that swidden fallow periods should be long (and therefore sustainable) when demographic pressure is low, and land is abundant. First, the author uses a dataset of 41 archival observations of fallow cycle durations to calculate an average interval of 5--6 years. He assesses this as inadequate for complete forest recovery, especially under the low demographic pressure that characterized Sulawesi during this period. Second, he reports historical accounts of vegetation and forest cover from colonial sources (e.g., "monotonous"[\[1]](file:///Users/alexcano86/Desktop/Downey.html#_ftn1)) to support the claim that swidden permanently replaced natural tropical forest with lower-diversity anthropogenic vegetation. Third, he argues that the combination of swidden and semi-domesticated water buffalo pastoralism produced irreversible fire-climax grasslands due to intensive land use. Ultimately, based on the evidence and analyses, the author concludes that swidden farming is fundamentally incompatible with nature conservation, and that conservation policy must abandon the "ecologically noble savage" narrative.[^^\[2]^^](file:///Users/alexcano86/Desktop/Downey.html#_ftn2) The article is rich with unique historical data from the Dutch colonial period, clearly written, and an important contribution to swidden scholarship. However, an argument analysis suggests several shortcomings related in particular to derelict normative premises and ironic community bias.
 
 Critically, the paper's conclusion rests on an undefended definitional claim that conservation *requires* the preservation of intact natural forest: agriculture, no matter the level, intensity, or manner it is conducted, cannot coexist with conservation. This is an instantiation of the *swidden-is-bad* normative premise, and it is derelict because it is stated but is never defended or supported, and alternatives to itare never considered. For example, after presenting the primary archival evidence of short fallow cycles and forest degradation, the author writes,
 
-"During the pre-colonial and colonial periods, the fact that the population was still small by modern standards meant that the proportion of the total natural forest cover lost to swidden cultivation (and other human land uses) was still limited: just over a quarter in 1941. Map 3 shows the approximate distribu­tion of the deforested areas around that date. It is also true that even within the populated enclaves, small areas of permanent semi-natural forest were sometimes preserved for ritual purposes or as timber reserves. Nevertheless, traditional swidden farming practices in northern Sulawesi clearly did not involve any kind of symbiosis with the natural forest. On the contrary, they involved the destruction of that forest and its replacement by completely different, man-made ecosystems that were much less rich and diverse."[**[3]**](file:///Users/alexcano86/Desktop/Downey.html#_ftn3)
+"During the pre-colonial and colonial periods, the fact that the population was still small by modern standards meant that the proportion of the total natural forest cover lost to swidden cultivation (and other human land uses) was still limited: just over a quarter in 1941. Map 3 shows the approximate distribu­tion of the deforested areas around that date. It is also true that even within the populated enclaves, small areas of permanent semi-natural forest were sometimes preserved for ritual purposes or as timber reserves. Nevertheless, traditional swidden farming practices in northern Sulawesi clearly did not involve any kind of symbiosis with the natural forest. On the contrary, they involved the destruction of that forest and its replacement by completely different, man-made ecosystems that were much less rich and diverse."**[\[3]](file:///Users/alexcano86/Desktop/Downey.html#_ftn3)**
 
 This conclusion that *swidden was not symbiotic* is derelict because the data premises provided by Dutch historical records, although novel and unique, are sparse and potentially subject to observer bias. The author's observation that the population was small compared to the total amount of land available is presented as inconsequential to the larger argument, and there is no mention at all of successional dynamics, community ecology, or the role of disturbance, which are all reasonable considerations for a more even-handed assessment of symbiosis. Therefore, the conclusions rest more heavily on an unstated and undefended premise, *swidden-is-bad*.
 
 The omission of evaluating his own data under alternative normative premises reveals additional argument defects. While evidence of short fallow cycles under conditions of low population density and ample land may appear dispositive under the *swidden-is-bad* premise, interpreting the same evidence under *swidden-is-good* exposes a case for ironic community bias.It operates at two levels: First, a Vellend-style scale mismatch is evident. Henley's archival observations are recorded at the ecological patch level (specific villages and sub-districts) while the paper's own regional maps (Maps 2 and 3) show that large portions of northern Sulawesi remained uninhabited or forested throughout the study period, and these data are not integrated into the argument. Second, the coexistence of spatially concentrated, short-cycle intensive cultivation with low regional population pressure permits a land-sparing interpretation that the paper does not acknowledge and which could support the interpretation that the full Sulawesi landscape, comprising both anthropogenic and primary forest patches, was higher in diversity than either considered alone. In other words, if spatial considerations were integrated into the argument under a neutral reading, it could support a landscape-scale interpretation compatible with forest conservation that is the opposite of Henley's conclusion, and therefore it is an example of ironic community bias.
 
-The author applies careful source criticism to the availability and coverage of the records he obtained from Dutch colonial archives; however, the same care is not given to the ecological content of the observations it contains. Qualitative vegetation descriptions of fallow land of "monotonous appearance" containing "just four or five species of large tree" are treated as ecological evidence for permanent biodiversity loss, despite being produced by administrators and a government botanist operating within a colonial framework that routinely characterized indigenous land use as unproductive. The only place in the text where the author acknowledges observer positionality is in noting that "even sceptical Dutch colonial observers"[[4]](file:///Users/alexcano86/Desktop/Downey.html#_ftn4) conceded that non-expanding swidden area could be farmed sustainably. Yet, this observation is deployed to strengthen his empirical argument that non-expanding areas were limited, rather than to flag the possibility of colonial bias, leaving unexamined the possibility that the same skeptical disposition inflated negative assessments of fallow vegetation quality. This may represent a deeper form of ironic community bias: Henley's authorial normative prior that *swidden-is-bad* may have led him to accept colonial ecological judgments uncritically, without evaluating them for potential bias in their own right, or considering whether those same observations, read under an alternative premise, might support different conclusions.
+The author applies careful source criticism to the availability and coverage of the records he obtained from Dutch colonial archives; however, the same care is not given to the ecological content of the observations it contains. Qualitative vegetation descriptions of fallow land of "monotonous appearance" containing "just four or five species of large tree" are treated as ecological evidence for permanent biodiversity loss, despite being produced by administrators and a government botanist operating within a colonial framework that routinely characterized indigenous land use as unproductive. The only place in the text where the author acknowledges observer positionality is in noting that "even sceptical Dutch colonial observers"[\[4]](file:///Users/alexcano86/Desktop/Downey.html#_ftn4) conceded that non-expanding swidden area could be farmed sustainably. Yet, this observation is deployed to strengthen his empirical argument that non-expanding areas were limited, rather than to flag the possibility of colonial bias, leaving unexamined the possibility that the same skeptical disposition inflated negative assessments of fallow vegetation quality. This may represent a deeper form of ironic community bias: Henley's authorial normative prior that *swidden-is-bad* may have led him to accept colonial ecological judgments uncritically, without evaluating them for potential bias in their own right, or considering whether those same observations, read under an alternative premise, might support different conclusions.
 
-A derelict normative premise also appears in another, subtle way: the author appears aware that arguments require normative premise because he frames the paper almost entirely in opposition to the *swidden-is-good*community's own premise that swidden is ecological sustainable and therefore compatible with nature conservation: He writes that "*...its premise -- that ecological sus­tainability is equivalent to, or at least compatible with, nature conservation -- is flawed*"[[5]](file:///Users/alexcano86/Desktop/Downey.html#_ftn5). However, this self-awareness does not remove the derelict normative premise: This clear statement of the author's replacement premise that conservation is fundamentally incompatible with agriculture is stated only after twenty-five pages of empirical elaboration, without examining the definition of conservation that it encodes, and without considering whether the data are consistent with alternative explanations.
+A derelict normative premise also appears in another, subtle way: the author appears aware that arguments require normative premise because he frames the paper almost entirely in opposition to the *swidden-is-good*community's own premise that swidden is ecological sustainable and therefore compatible with nature conservation: He writes that "*...its premise -- that ecological sus­tainability is equivalent to, or at least compatible with, nature conservation -- is flawed*"[\[5]](file:///Users/alexcano86/Desktop/Downey.html#_ftn5). However, this self-awareness does not remove the derelict normative premise: This clear statement of the author's replacement premise that conservation is fundamentally incompatible with agriculture is stated only after twenty-five pages of empirical elaboration, without examining the definition of conservation that it encodes, and without considering whether the data are consistent with alternative explanations.
 
 Overall, the article contains archival data that is original, relevant to swidden, and important; however, argument analysis suggests that its structure does not support the broad conservation policy conclusion it advances. The paper's most consequential contribution is a historically bounded, geographically specific patch-level dataset; however, these data are limited in scope and unexamined normative biases regarding agriculture-nature incompatibility, patch/landscape scaling problems, lack of critical assessment of colonial observer bias, and failure to seriously consider alternative interpretations of the data suggest that the paper contains inferential jumps that indicate the untangled rope problem.
 
@@ -353,7 +284,7 @@ Molinario et al.'s (2015) article is titled *Forest cover dynamics of shifting 
 
 The most pervasive are derelict normative premises. The paper's central premise is that primary forest clearings that are outside established agricultural zones and inside core primary forest areas are more damaging than clearings within existing rural complexes. This is consistent with swidden-is-bad and it functions as the load-bearing normative premise of the entire argument. The term "rural complex" is grounded in published literature and defined as "a characteristic mosaic of active and fallow fields and secondary forest regrowth, found along the network of roads and rivers" (pp. 2). However, there is little discussion or literature review of alternatives such as sustainable or enhancement effects of forest clearing within rural complexes or in primary forest areas from the *swidden-is-good* normative perspective, and without an alternative hypothesis, it is impossible to evenly evaluate the argument and evidence. So, the premise is derelict because the negative environmental effects of swidden damage is implicit and not sufficiently defended, and therefore normative priors are required to support downstream conclusions.  
 
-The second defect is ironic community bias, which manifests in at least two different ways. First, the paper cites the swidden-is-good literature and depicts the full regenerative swidden cycle in Figure 2, yet it never engages with these hypotheses sufficiently to evaluate them. Likely, this occurs because of the limitations of the remote sensing dataset; however, this is not acknowledged directly in the paper, suggesting that a swidden-is-bad normative bias supports inferences drawn from remote sensing data. Second, the paper fails to distinguish between proximate and ultimate drivers of deforestation. The paper's own Introduction acknowledges that remote sensing data cannot distinguish shifting cultivation from charcoal production, logging, mining, or conflict-driven displacement, and it cites evidence that armed conflict drove internally displaced populations into the interior forests of the eastern provinces where perforation growth was highest. Attributing forest perforation growth in that area to shifting cultivators in the Discussion then substitutes a proximate land-cover actor for the ultimate political and socioeconomic drivers the authors themselves identify, leaving the policy conclusion resting on an undefended and potentially misattributed causal premise. In this case, the possibility for conclusion reversal is plausible because the data are potentially as consistent with a conflict-displacement explanation as with voluntary swidden expansion. Finally, the 10-year, 3-time-point dataset cannot capture the full fallow cycle (typically 8--20 years), meaning the paper quantifies clearing events, not forest trajectories*. *Thisdefect is in essence a temporal version of the Vellend-style patch/landscape scale mismatch defect, but where the mismatch relates to short-term annual remote sensing observations and the long-term decadal/centennial scale observation times that would be needed for proper inference about swidden recovery dynamics.
+The second defect is ironic community bias, which manifests in at least two different ways. First, the paper cites the swidden-is-good literature and depicts the full regenerative swidden cycle in Figure 2, yet it never engages with these hypotheses sufficiently to evaluate them. Likely, this occurs because of the limitations of the remote sensing dataset; however, this is not acknowledged directly in the paper, suggesting that a swidden-is-bad normative bias supports inferences drawn from remote sensing data. Second, the paper fails to distinguish between proximate and ultimate drivers of deforestation. The paper's own Introduction acknowledges that remote sensing data cannot distinguish shifting cultivation from charcoal production, logging, mining, or conflict-driven displacement, and it cites evidence that armed conflict drove internally displaced populations into the interior forests of the eastern provinces where perforation growth was highest. Attributing forest perforation growth in that area to shifting cultivators in the Discussion then substitutes a proximate land-cover actor for the ultimate political and socioeconomic drivers the authors themselves identify, leaving the policy conclusion resting on an undefended and potentially misattributed causal premise. In this case, the possibility for conclusion reversal is plausible because the data are potentially as consistent with a conflict-displacement explanation as with voluntary swidden expansion. Finally, the 10-year, 3-time-point dataset cannot capture the full fallow cycle (typically 8--20 years), meaning the paper quantifies clearing events, not forest trajectories*.* Thisdefect is in essence a temporal version of the Vellend-style patch/landscape scale mismatch defect, but where the mismatch relates to short-term annual remote sensing observations and the long-term decadal/centennial scale observation times that would be needed for proper inference about swidden recovery dynamics.
 
 Lastly, value unclarity via language occurs throughout the paper, which indexes a swidden-is-bad normative prior. The term "shifting cultivation" itself implies an itinerant, migratory character; "forest cover loss" is used rather than a more even-handed "forest cover change"; the viscerally worded phrase "carving agricultural fields out of primary and secondary forest" is used in the very first sentence of the abstract, rather than more straightforward phrases such as "clearing" or "impacts". Nearly all these terms encode a one-directional, human-negative framing, when other more value-neutral terms could have been used. Tellingly, the paper described a methodological trade-off that substitutes remote sensing observations for local qualitative knowledge of swidden in DRC using the phrase "wall-to-wall remote sensing observations". This peculiar word-choice appears to connote that satellite data is omniscient and empirical, and implicitly dismisses qualitative data as the opposite, even though it is exactly this type of nuanced, fine-grained grounded information that would be needed to more accurately resolve the question of proximate and ultimate causality of forest cover patterns. These phrases and others throughout the paper encode a swidden-is-bad normative prior and obscure logical gaps about causal effects which are ultimately used to logically support policy recommendations. 
 
@@ -381,10 +312,9 @@ The second shared pattern is ironic community bias, and here the comparison acro
 
 Taken together, the three cases support a tentative general conclusion: swidden studies at both normative poles show signs of the unraveled rope problem, with evidence for most of the defects families identified by Barker, and particularly derelict normative premises, value unclarity due to language, and ironic community bias. A Vellend-style scale mismatch problem appears to be a particularly common concern in swidden studies, likely due to the importance of cross-scale spatial and temporal dynamics in swidden agriculture and the methodological difficulties for linking them. This does not mean the science in these studies is unsound. In every case, the empirical contribution survives the analysis intact; what unravels is the inference from empirical findings to statements about normative conclusions, theoretical implications, and policy recommendations.
 
-4\. A top-down / bottom-up review of swidden scholarship
---------------------------------------------------------
+## 4. A top-down / bottom-up review of swidden scholarship
 
-Despite its overt simplicity, swidden agriculture remains an enduring topic of research because of its ubiquity across continents, cultures, ecosystems, and time. Explaining the social and ecological determinants of swidden's persistence and the scale and extent of its environmental signature is a classic socioenvironmental problem. The fact that swidden continues to inspire researchers and instigate debate is an indication of the true complexity of its coupled human and environment dynamics. The literature on swidden is voluminous, and a recent review summarized its history and development (Li and Nath 2024). Instead of conducting a comprehensive review, the goal here is to use epistemology to frame a targeted review of the swidden literature that highlights two main perspectives for explaining its general processes and patterns. As far as I am aware, a top-down / bottom-up framework has never been applied systematically to swidden research[^^[6]^^](file:///Users/alexcano86/Desktop/Downey.html#_ftn6). I introduce it here because it highlights a previously unidentified epistemological disjuncture that may contribute to the persistence of normative polarization in swidden studies that was identified in the previous section, and because this organization provides a bridge to the discussion of adaptive self-organization that follows in Section 4.
+Despite its overt simplicity, swidden agriculture remains an enduring topic of research because of its ubiquity across continents, cultures, ecosystems, and time. Explaining the social and ecological determinants of swidden's persistence and the scale and extent of its environmental signature is a classic socioenvironmental problem. The fact that swidden continues to inspire researchers and instigate debate is an indication of the true complexity of its coupled human and environment dynamics. The literature on swidden is voluminous, and a recent review summarized its history and development (Li and Nath 2024). Instead of conducting a comprehensive review, the goal here is to use epistemology to frame a targeted review of the swidden literature that highlights two main perspectives for explaining its general processes and patterns. As far as I am aware, a top-down / bottom-up framework has never been applied systematically to swidden research[^^\[6]^^](file:///Users/alexcano86/Desktop/Downey.html#_ftn6). I introduce it here because it highlights a previously unidentified epistemological disjuncture that may contribute to the persistence of normative polarization in swidden studies that was identified in the previous section, and because this organization provides a bridge to the discussion of adaptive self-organization that follows in Section 4.
 
 A top-down approach to swidden research emphasizes general laws or principles related to demographic growth, environmental capacity, agricultural technology, large-scale spatial models and theoretical frameworks, and a more deductive approach to analyze empirical patterns using generalizable laws or principles. For example, Meggers (1954) built on Malthusian ideas about the limits of food production to argue that societies using swidden agriculture in nutrient-limited tropical environments would not develop sociocultural complexity, an idea that ignited a lively debate (Coe, 1957; Hirshberg & Hirshberg,1957; Meggers, 1957). In more recent iterations, demographic models have been used to calculate the carrying capacity of specific swidden systems; for example, by deriving regional population limits from yield data and land availability (e.g., Schwartz & Corzo, 2015); or by using global remote sensing analysis to map swidden extent and decline across entire continents (e.g., Heinimann et al., 2017). In this approach, the explanatory movement is always from the general to the particular: landscape- and population-scale parameters set the terms within which swidden societies operate, and local variation is interpreted as an expression of those larger constraints.
 
@@ -392,7 +322,7 @@ In contrast, bottom-up swidden studies are rooted in ethnographic and environmen
 
 Swidden scholarship spans numerous disciplines including, to cite just a few examples, anthropology (Conklin, 1957; Dove, 1985; Rappaport, 1968;), archaeology (Bogaard, 2004; Iversen 1941; Rösch et al., 2002), history (Henley, 2011; Otto & Anderson, 1982; Sivaramakrishnan, 1995), demography (Boserup, 1965; Fearnside, 1986; Turner et al., 1977), ecology and environmental science (Bruun et al., 2009; Lawrence et al., 2010; Nye & Greenland, 1960), forestry (Lanly, 1982; Ruthenberg, 1971, Sovu et al., 2009), geography (Fox & Vogler, 2005; Padoch et al., 2007), remote sensing (Heinimann et al., 2017; Li et al., 2014)), conservation (Ziegler et al., 2011; Chazdon, 2014; Padoch & Pinedo-Vasquez, 2010), rural livelihood and development (Thrupp et al., 1997, Cramb et al., 2009; Dressler et al., 2017; van Vliet et al., 2012), and global climate change policy (Mertz, 2009; Ziegler et al., 2012). This disciplinary diversity itself suggests that the overt simplicity of swidden techniques belies its variability and complexity in culture, geography, history, and its modern significance. 
 
-Table 2 provides a chronological summary of the development of classic and influential studies in swidden scholarship, including a qualitative assessment of whether each study represents a top-down or bottom-up approach.[[7]](file:///Users/alexcano86/Desktop/Downey.html#_ftn7) Notably, there are strong currents of research in both top-down and bottom-up epistemological traditions from very early on through the present. This ongoing dialectic itself suggests that the practice of swidden may be more complicated than captured by either approach alone. I suggest that this may occur because neither approach in isolation can adequately explain how any identified patterns or processes relate to patterns and processes from the other approach. 
+Table 2 provides a chronological summary of the development of classic and influential studies in swidden scholarship, including a qualitative assessment of whether each study represents a top-down or bottom-up approach.[\[7]](file:///Users/alexcano86/Desktop/Downey.html#_ftn7) Notably, there are strong currents of research in both top-down and bottom-up epistemological traditions from very early on through the present. This ongoing dialectic itself suggests that the practice of swidden may be more complicated than captured by either approach alone. I suggest that this may occur because neither approach in isolation can adequately explain how any identified patterns or processes relate to patterns and processes from the other approach. 
 
 For example, many top-down swidden studies report swidden fallow length to diagnose sustainability. Foundational research established a threshold where cycles less than around 7-8 years indicated environmental overuse (Carneiro, 1960; Nye & Greenland, 1960), and this is often used to determine whether a particular community, or regional case study, is sustainable or unsustainable (e.g., Henley, 2011). With respect to human factors, a top-down approach usually provides insight into broad-scale drivers such as population growth or decline, and outcomes like ecosystem-scale sustainability or collapse. However, the framework is less effective in predicting how individuals, households, or communities act at local scales, including farming and land use decisions, related social norms, or belief systems. In other words, in top-down models, understanding agency is usually secondary to understanding large-scale patterns and processes.
 
@@ -400,381 +330,381 @@ Orthogonally, bottom-up studies provide detailed qualitative and quantitative da
 
 Table 2. Chronological summary of classic and influential studies in swidden scholarship; the table provides the citation, a brief summary of its place in the theoretical trajectory, a prediction or key inference, the study system, methods or data, and assessment of top-down / bottom-up epistemological orientation.
 
-|
+\|
 
 Citation
 
- |
+\|
 
 History
 
- |
+\|
 
 Prediction / Inference
 
- |
+\|
 
 System
 
- |
+\|
 
 Methods / Data
 
- |
+\|
 
 Orientation
 
- |
+\|
 |
 
 Linnaeus (1775) 
 
- |
+\|
 
 Earliest systematic field documentation of swidden that establishes a bottom-up observational tradition (Dove 2011)
 
- |
+\|
 
 Local swidden practices are rational, place-specific adaptations to particular environmental conditions that must be understood on their own terms
 
- |
+\|
 
 Sámi territory, subarctic Sweden
 
- |
+\|
 
 Direct field observation; ethnographic reconstruction
 
- |
+\|
 
 Bottom-up
 
- |
+\|
 |
 
 Malthus (1803)
 
- |
+\|
 
 Founding demographic premise of the top-down tradition
 
- |
+\|
 
 Population growth will outpace food production, generating resource scarcity and social instability
 
- |
+\|
 
 General / theoretical
 
- |
+\|
 
 Demographic reasoning; comparative historical argument
 
- |
+\|
 
 Top-down
 
- |
+\|
 |
 
 Meggers (1954)
 
- |
+\|
 
 First application of environmental determinism to tropical swidden; defines a top-down theoretical human population carrying capacity
 
- |
+\|
 
 Nutrient-limited tropical environments determine maximum sociocultural complexity achievable by swidden societies
 
- |
+\|
 
 Amazonia; tropical forests globally
 
- |
+\|
 
 Comparative ethnological argument
 
- |
+\|
 
 Top-down
 
- |
+\|
 |
 
 Conklin (1957)
 
- |
+\|
 
 Founding empirical study of the bottom-up tradition; establishes local social and ecological knowledge as the primary objects of analysis
 
- |
+\|
 
 Swidden agriculturalists develop intimate, co-evolved relationships with local environments expressed in fine-grained classification systems invisible to outside observers
 
- |
+\|
 
 Hanunóo, Philippines
 
- |
+\|
 
 12 months ethnographic fieldwork; ethnoscientific plant classification
 
- |
+\|
 
 Bottom-up
 
- |
+\|
 |
 
 Boserup (1965)
 
- |
+\|
 
 Dynamic variant of the Malthusian premise; reframes population pressure as driver of innovation rather than collapse
 
- |
+\|
 
 Increasing population pressure shortens swidden fallow cycles and triggers agricultural intensification
 
- |
+\|
 
 General / theoretical
 
- |
+\|
 
 Comparative historical and agronomic argument
 
- |
+\|
 
 Top-down
 
- |
+\|
 |
 
 Rappaport (1968)
 
- |
+\|
 
 Key mechanistic elaboration of the bottom-up tradition; introduces social regulation as an explicit causal mechanism
 
- |
+\|
 
 Local ritual cycles actively regulate land use, herd size, and forest recovery, functioning as homeostatic mechanisms
 
- |
+\|
 
 Tsembaga Maring, Papua New Guinea
 
- |
+\|
 
 Long-term fieldwork; quantitative ecosystem analysis
 
- |
+\|
 
 Bottom-up
 
- |
+\|
 |
 
 Cowgill (1962)
 
- |
+\|
 
 Early empirical carrying capacity calculation applied to a specific swidden system
 
- |
+\|
 
 Traditional Maya milpa agriculture in the southern lowlands was insufficient to sustain Classic period population densities
 
- |
+\|
 
 Southern Maya lowlands, Yucatán
 
- |
+\|
 
 Agricultural surveys; land-use and yield calculations
 
- |
+\|
 
 Top-down
 
- |
+\|
 |
 
 Brush (1975)
 
- |
+\|
 
 Synthesis of use of carrying capacity concept in anthropology and critique of underlying equilibrium and homeostasis assumptions. 
 
- |
+\|
 
 Carrying capacity calculations oversimplify human-environment interactions
 
- |
+\|
 
 Synthesis
 
- |
+\|
 
 Comparative review
 
- |
+\|
 
 Top-down
 
- |
+\|
 |
 
 Dove (1983)
 
- |
+\|
 
 Political economy turn; introduces state power and colonial legacies as structuring variables invisible to both top-down and bottom-up approaches
 
- |
+\|
 
 Negative characterizations of swidden reflect state interests in legibility and resource control rather than objective assessments of environmental impact
 
- |
+\|
 
 Borneo; Southeast Asia broadly
 
- |
+\|
 
 Ethnography; historical political economy
 
- |
+\|
 
 Bottom-up / political economy
 
- |
+\|
 |
 
 Balée (1994)
 
- |
+\|
 
 Founding statement of the historical-ecology approach to swidden; argues that large portions of Amazonian forest are anthropogenic artifacts of long-term indigenous management
 
- |
+\|
 
 Cumulative swidden-fallow cycles increase forest diversity and abundance of economically valuable species over centuries, making apparent "wilderness" forest a cultural product rather than a pristine baseline
 
- |
+\|
 
 Amazonia (Ka'apor, eastern Amazonia) 
 
- |
+\|
 
 Ethnobotany; forest inventory; historical reconstruction
 
- |
+\|
 
 Bottom-up / historical ecology
 
- |
+\|
 |
 
 Scott (2009)
 
- |
+\|
 
 Extends Dove's political ecology to a pan-regional comparative scale; introduces swidden as a technology of non-legibility
 
- |
+\|
 
 Swidden is a deliberate political strategy by upland peoples to resist state incorporation, not a primitive or transitional agricultural form
 
- |
+\|
 
 Southeast Asia 
 
- |
+\|
 
 Comparative historical analysis; political geography
 
- |
+\|
 
 Bottom-up / political ecology
 
- |
+\|
 |
 
 Atran et al. (2002)
 
- |
+\|
 
 Flagship empirical study linking local traditional ecological knowledge to measurable community-level resource management outcomes
 
- |
+\|
 
 Shared folk-ecological knowledge structures collective swidden practices, producing conservation outcomes at community scale
 
- |
+\|
 
 Itzá Maya, Petén, Guatemala and Belize
 
- |
+\|
 
 Garden experiments; ethnobiological surveys; cross-cultural comparison
 
- |
+\|
 
 Bottom-up
 
- |
+\|
 |
 
 Schwartz & Corzo (2015)
 
- |
+\|
 
 Modern carrying capacity study; applies top-down demographic framework to bottom-up field data; challenges neo-Malthusian collapse narratives
 
- |
+\|
 
 Traditional milpa agriculture in Petén could sustainably provision 3--4 million people using 60% of available land, contradicting post-1960s Mayanist consensus
 
- |
+\|
 
 Petén, Guatemala
 
- |
+\|
 
 Field counts; yield surveys; demographic calculation
 
- |
+\|
 
 Hybrid (top-down dominant)
 
- |
+\|
 |
 
 Mertz et al., eds. (2009) 
 
- |
+\|
 
 Special issue in Human ecology that marks a policy-driven inflection point (Li & Nath 2024) away from the slash-and-burn deforestation narrative toward re-examination of swidden's rationality and sustainability, catalyzed by UN-REDD and free Landsat data
 
- |
+\|
 
 The dominant slash-and-burn narrative is a historically contingent product of policy pressure and technological limitation, not an objective assessment of swidden's environmental impact
 
- |
+\|
 
 Southeast Asia; global review
 
- |
+\|
 
 Multi-disciplinary special issue; comparative synthesis
 
- |
+\|
 
 Hybrid 
 
- |
+\|
 
 The top-down / bottom-up framework is only intended as a loose classification, as many studies, and most recent ones, address -- or at least cite -- both types of causal factor. However, it is epistemologically difficult to connect top-down and bottom-up dynamics to infer patterns and processes at the other level because the causal relationships that connect sociocultural, behavioral, and trophic levels in swidden systems are also what complexity scientists call non-linear: small changes at one level produce disproportionate change at other levels. Crucially, these non-linear relationships are also located not within either level but in the couplings between them. This is true both of systems involving human languages, culture, and coupled human-and-natural systems (Lansing, 2003), as well as environmental systems where landscape-scale spatial dynamics, community ecology, trophic networks, and nutrient cycling dynamics which are all essential elements of complex forest ecosystems (Arroyo‐Rodríguez et al., 2017; Messier et al., 2015). 
 
@@ -784,73 +714,72 @@ Not only do top-down and bottom-up approaches appear to look past each other, bu
 
 As a corrective to this historical disjuncture in swidden studies, I propose that the concept of adaptive self-organization may reconcile top-down and bottom-up approaches and explain how small-scale swidden societies navigate complex multi-scale dynamics in community forests and swidden landscapes. In emergence, low-level interactions among agents -- guided by social norms, labor reciprocity, and local ecological knowledge identified in bottom-up swidden studies -- can produce and regulate large-scale forest dynamics without any top-down institution coordinating them. The spatial and temporal signatures of these emergent socioecological patterns are only legible at landscape scale and across full swidden disturbance-recovery cycles. These low-level interactions generate patterns that most top-down swidden do not look for, and the large-scale patterns are invisible in bottom-up studies. If swidden research has been structurally biased along epistemological approaches and by the unraveled rope problem, then perhaps a new framework grounded in adaptive self-organization offers not just a better description of swidden, but a corrective to any accumulated normative biases in the scientific record. 
 
-5\. Adaptive self-organization in swidden agriculture
------------------------------------------------------
+## 5. Adaptive self-organization in swidden agriculture
 
 J. Stephen Lansing introduced the concept of adaptive self-organization to anthropology (Lansing, 2003), and he developed a comprehensive research program using it to analyze the coupled social and ecological dynamics of irrigated rice agriculture, one of the major agricultural systems. His long-term research program investigates irrigated rice cultivation in Bali to explain how the independent scheduling decisions of farmers in local rice temples (subaks) support reliable harvests and landscape-scale pest management through social and ecological feedback rather than top-down planning (Lansing & Kremer, 1993; Lansing, 2012; Lansing et al., 2017). Importantly, much of this body of research integrates both top-down and bottom-up approaches: Balinese archaeology demonstrates nearly 1,000-year history of subak coordination; research in Dutch archives indicates how community management of irrigation schedules was invisible to colonial administrators; analysis of social norms, linguistic grammar, syntax, and register reflect egalitarian management of subaks; analysis of the lontar palm shows how the traditional Balinese calendar and religion provides a symbolic framework for ecosystem management; analysis of the effects of the Green revolution during the modern period shows how the subaks recover from external shocks; agent-based models of subak system and irrigation management practices show how small-scale farming communities can manage complex, engineered irrigation landscapes; and remote sensing analysis of irrigation cycle synchronization provides an empirical link between household crop choices to watershed-scale spatial patterns. Taken together, Lansing's research program provides a culturally relevant and historically contextualized explanation of sustainable terrace rice agriculture in Bali using principles from adaptive self-organization. 
 
 However, the coupled dynamics of swidden agriculture are different. Balinese irrigated rice terraces are intricately engineered but spatially bounded. In contrast, swidden mosaics are human-natural landscape gradients that are spatially extensive. But the same fundamental questions apply: can this coupled human and natural system self-organize from the bottom up to support good harvests and sustainability, and under what conditions can this occur? Perhaps adaptive self-organization can address this and help answer other outstanding questions about the persistence, resilience, and dynamics of swidden agriculture.
 
-The adaptive self-organization swidden framework introduced here benefits from concepts about forest complexity, history, and scale from historical ecology developed by William Balée (2006), and anthropogenic disturbance and ecosystem enhancement from Rebecca Bliege-Bird (2015). It rests on two central premises: First, swidden can be conceived as a *coupled human and natural* *system* (e.g., Liu et al., 2007) consisting of biological elements (people, plants, animals, communities, and forests) and social elements (knowledge, social practices, norms, and history) that interact across multiple scales in space and time. Second, the dynamics of these components can be explained using the concepts of *adaptive self-organization, *originally developed in physics (Bak, 1987) and computer science (Holland, 1995; Holland, 2014), subsequently applied to anthropology (Lansing, 2003), and interpreted for general scientific audiences (Fisher, 2009; Mitchell, 2009). The central concept is *emergence*, which formalizes the colloquialism, "the whole is more than the sum of its parts" (Fisher, 2009). This suggests that systems, when viewed from the top-down, will exhibit macroscopic properties, patterns, and behaviors that are invisible when the system is viewed from the bottom-up; conversely, when the system is viewed from the bottom-up, the only properties, patterns, and behaviors that can be seen relate to the interactions among individuals (agents), which affect higher-order system properties in aggregate. How then can swidden farmers steer the system when they have incomplete environmental information of the forest and limited ability to affect its trajectory?
+The adaptive self-organization swidden framework introduced here benefits from concepts about forest complexity, history, and scale from historical ecology developed by William Balée (2006), and anthropogenic disturbance and ecosystem enhancement from Rebecca Bliege-Bird (2015). It rests on two central premises: First, swidden can be conceived as a *coupled human and natural* *system* (e.g., Liu et al., 2007) consisting of biological elements (people, plants, animals, communities, and forests) and social elements (knowledge, social practices, norms, and history) that interact across multiple scales in space and time. Second, the dynamics of these components can be explained using the concepts of *adaptive self-organization,* originally developed in physics (Bak, 1987) and computer science (Holland, 1995; Holland, 2014), subsequently applied to anthropology (Lansing, 2003), and interpreted for general scientific audiences (Fisher, 2009; Mitchell, 2009). The central concept is *emergence*, which formalizes the colloquialism, "the whole is more than the sum of its parts" (Fisher, 2009). This suggests that systems, when viewed from the top-down, will exhibit macroscopic properties, patterns, and behaviors that are invisible when the system is viewed from the bottom-up; conversely, when the system is viewed from the bottom-up, the only properties, patterns, and behaviors that can be seen relate to the interactions among individuals (agents), which affect higher-order system properties in aggregate. How then can swidden farmers steer the system when they have incomplete environmental information of the forest and limited ability to affect its trajectory?
 
 Donnella Meadows defines *leverage points* as "places within a complex system (a corporation, an economy, a living body, a city, an ecosystem) where a small shift in one thing can produce big changes in everything" (Meadows, 1999). Structure, agency, rules, and norms can all create system-level changes. Most swidden communities are small, rely on common property resources, have few or weak governance institutions, and interact with large-scale forest ecosystems that are themselves complex adaptive systems (Arroyo‐Rodríguez et al., 2017; Messier et al., 2015). As shown in Section 3, both top-down and bottom-up approaches have yielded significant insights into swidden agriculture across disciplines, yet an epistemological gap remains between the two most common approaches. What has been missing is a framework for understanding the social and ecological dynamics of interactions between these approaches, across scales of analysis, and among them. Identifying leverage points may be one way to understand how swidden farmers may use them to maintain the system in favorable configurations. Thus, critical questions for adaptive self-organization in swidden agriculture are (1) how the agency of swidden farmers affects the macroscale patterns that are observed in swidden forests, and (2) identifying leverage points that can guide and maintain the coupled system in a favorable state where harvests are good and sustainable, despite the size, complexity, and inherent unpredictability of swidden forests. To address this, Table 3 relates concepts from adaptive self-organization to some key research questions regarding swidden agriculture. Here, the historical distinction between top-down and bottom-up approaches is discarded because adaptive self-organization offers an integrative approach.
 
 Table 3. Core adaptive self-organization concepts and relevance to swidden systems
 
-|
+\|
 
 **Concept**
 
- |
+\|
 
 **Relevance in Swidden Systems**
 
- |
+\|
 |
 
 **Agent behavior & decision rules**
 
- |
+\|
 
 Swidden households are the primary agents, making decisions about field size, site selection, fallow length, and labor allocation based on ethnoecological knowledge, social norms, and local environmental conditions. Understanding what behavioral rules agents follow and how those rules vary across cultural, demographic, and ecological contexts is foundational to any adaptive self-organization model of swidden agriculture.
 
- |
+\|
 |
 
 **Social, ecological & coupled networks**
 
- |
+\|
 
 Labor reciprocity networks, kinship ties, knowledge-sharing relationships, and connections beyond the local community (e.g., tax and forestry officers, non-governmental actors) are structural features of swidden societies that modulate system-level outcomes. Ecologically, the spatial network of swidden patches (connectivity, fragmentation, and synchronization) shapes seed dispersal, forest recovery, and biodiversity. In coupled systems, the interaction between social network structure and ecological network dynamics are critical interactions.
 
- |
+\|
 |
 
 **Emergent properties**
 
- |
+\|
 
 Landscape-scale patterns including forest mosaics, patch-size distributions, and fallow cycling regimes are not designed or centrally coordinated but emerge from the aggregated decisions of swidden households. Swidden tenure systems, labor institutions, and land classification norms may similarly emerge from decentralized interactions among individuals and households rather than explicit collective design.
 
- |
+\|
 |
 
 **Spatial, temporal, and cross-scale dynamics**
 
- |
+\|
 
 Swidden operates simultaneously at the scale of individual household fields, the community forest, villages, regions, and the regional landscape, with processes at each scale feeding back on the others. Closely related cross-scale questions regarding alpha, beta, and gamma diversity exist in landscape ecology, but often require adaptation to socioecological systems. Understanding how local fallow decisions produce detectable regional and global land cover signatures, and how external pressures at regional or state scales propagate downward to constrain household behavior are core cross-scale questions.
 
- |
+\|
 |
 
 **Non-linearity, path dependence & leverage points**
 
- |
+\|
 
 The relationship between key swidden variables including fallow length and forest recovery, population density and sustainability, disturbance intensity and biodiversity are frequently nonlinear, with critical thresholds beyond which trajectories diverge. Sociocultural, institutional and political histories are inherently non-linear and non-time reversible and they shape which pathways are available to a swidden system at any given point in time, making social history path dependence central to understanding both resilience and collapse. Leverage points include social norms, local institutions, customary ecological knowledge, land tenure systems, economically valuable and ecologically important plant and animal species, and ecosystem disturbance and modification.
 
- |
+\|
 
 ### 5.1 Evidence and progress  
 
@@ -884,8 +813,7 @@ A power law alone, however, cannot identify its cause, because many different pr
 
 Taken together, this body of research spans top-down and bottom-up approaches and blends research questions and methods to identify plausible social and ecological leverage points that may relate to emergent properties of the coupled human-nature swidden system. Notably, this was achieved not by inventing new methods but by remixing established techniques of data collection and analysis from anthropology, remote sensing, ecology, history, economics, physics, and applied mathematics. The ways they were connected were specific to swidden agriculture and guided by the core concepts of adaptive self-organization outlined in Table 3. The evidence presented here is, of course, incomplete; however, it is suggestive that adaptive self-organization can help dissolve the top-down/bottom-up disjuncture in swidden research and provide a productive pathway forward for swidden studies.
 
-6\. Conclusion
---------------
+## 6. Conclusion
 
 The concepts underlying adaptive self-organization were developed only in the closing decades of the twentieth century (Bak, 1987; May, 1976), and it was not until early in the 21st century that Lansing adapted them to explain the persistence and resilience of irrigated rice agriculture in Bali (Lansing & Kremer, 1993; Lansing, 2012). This was long after the study of swidden had already divided into the top-down and bottom-up traditions described in Section 3, so for most of the history of swidden research, the dominant approaches were unsuited for connecting the low-level social and ecological interactions documented by bottom-up studies to the landscape-scale patterns measured by top-down studies. The absence of a generalizable and integrated framework for analyzing cross-scale dynamics among social and environmental elements during the 20th century may have contributed to the conflation of normative and empirical premises (an unraveled rope) that has limited our ability to adequately explain swidden's ubiquity and persistence in human history. Researchers surely understood better than most where their methodologies supported rigorous and well-defended conclusions and where they did not. However, they may have been less aware of filling epistemic gaps with accumulated normative claims from their disciplinary research traditions and society-at-large, as well as powerful political actors and funding agencies. If the unraveled rope problem does characterize swidden studies, it means that the absence of a principled way to explain how smallholder swidden activity connected to landscape-scale outcomes may have opened a pathway for unsupported normative premises to fill in. This would be an epistemological counterpart to "the political economy of ignorance" that Dove documented in 1983.
 
@@ -893,8 +821,7 @@ My goal in developing an adaptive self-organization framework for swidden agricu
 
 This critical review does not claim to resolve the normative swidden-is-bad bias Dove attributed to politics; that lies beyond an epistemic framework for research into swidden. What it does offer is more modest. For most of swidden's research history, no model could explain how small-scale societies affect large-scale environments, and without such a model, polarized "good" and "bad" normative claims have gone unchallenged. Adaptive self-organization is a possible way forward. A single coupled-systems framework cannot resolve every tension in a literature as vast and varied as swidden studies. And much of the evidence supporting the adaptive self-organized swidden framework is drawn from my own research and therefore remains preliminary. Nevertheless, I suggest that adaptive self-organization offers swidden studies a way to integrate its long-divided traditions within a coherent explanatory framework, and in doing so provides new ways of understanding the resilience and variability that draw so many scholars to study it in the first place.
 
-7\. References cited
---------------------
+## 7. References cited
 
 "The Politics of Slash and Burn." (20 September 1990). New York Times.
 
@@ -924,11 +851,11 @@ Carneiro, R. L. (1960). Slash-and-burn agriculture: A closer look at its implic
 
 Chazdon, Robin L. (2014). *Second Growth: The Promise of Tropical Forest Regeneration in an Age of Deforestation.* University of Chicago Press.
 
-Chazdon, Robin L., and Juan Pablo Arroyo. (2013). "Tropical forests as complex adaptive systems." In Messier, Christian, Klaus J. Puettmann, and K. David Coates (Eds.),* Managing forests as complex adaptive systems*. Routledge, 35-59.
+Chazdon, Robin L., and Juan Pablo Arroyo. (2013). "Tropical forests as complex adaptive systems." In Messier, Christian, Klaus J. Puettmann, and K. David Coates (Eds.), *Managing forests as complex adaptive systems*. Routledge, 35-59.
 
 Clauset, Aaron, Cosma Rohilla Shalizi, and Mark EJ Newman. (2009). Power-law distributions in empirical data. *SIAM review,* 51(4), 661-703.
 
-Coe, William R. (1957). Environmental limitation on Maya culture: A re-examination. *American Anthropologist, *59(2), 328-335.
+Coe, William R. (1957). Environmental limitation on Maya culture: A re-examination. *American Anthropologist,* 59(2), 328-335.
 
 Conklin, Harold C. (1957). Hanunóo Agriculture: A Report on an Integral System of Shifting Cultivation in the Philippines. Food and Agriculture Organization of the United Nations.
 
@@ -940,7 +867,7 @@ Downey, S. S. (2010). Can properties of labor exchange networks explain the resi
 
 Downey, S.S. (2015). Q'eqchi' Maya swidden agriculture, settlement history, and colonial enterprise in Modern Belize. *Ethnohistory,* 62(4), 751-779.
 
-Downey, Sean S., Drew Gerkey, and Shane A. Scaggs. (2020). The Milpa Game: A field experiment investigating the social and ecological dynamics of Q'eqchi' Maya swidden agriculture. *Human Ecology, *48(4), 423-438.
+Downey, Sean S., Drew Gerkey, and Shane A. Scaggs. (2020). The Milpa Game: A field experiment investigating the social and ecological dynamics of Q'eqchi' Maya swidden agriculture. *Human Ecology,* 48(4), 423-438.
 
 Downey, Sean S., M. Walker, J. Moschler, F. Penados, J. Pop, R. Qin, W. Peterman, S. Scaggs, S. Song. (2023). Intermediate swidden disturbance increases spectral diversity in Maya community forests. *Communications Earth and Environment,* 4:428.
 
@@ -996,13 +923,13 @@ Lansing, J. Stephen, et al. (2017). Adaptive self-organization of Bali's ancient
 
 Lawrence, Deborah, et al. (2010). Untangling a Decline in Tropical Forest Resilience: Constraints on the Sustainability of Shifting Cultivation Across the Globe. *Biotropica*, 42(1), 21--30.
 
-Leroux S.J., Loreau M. (2015). Theoretical perspectives on bottom-up and top-down interactions across ecosystems. In Hanley TC, La Pierre KJ, eds. *Trophic Ecology: Bottom-Up and Top-Down Interactions across Aquatic and Terrestrial Systems.* *Ecological Reviews (pps. *3-28). Cambridge University Press.
+Leroux S.J., Loreau M. (2015). Theoretical perspectives on bottom-up and top-down interactions across ecosystems. In Hanley TC, La Pierre KJ, eds. *Trophic Ecology: Bottom-Up and Top-Down Interactions across Aquatic and Terrestrial Systems.* *Ecological Reviews (pps.* 3-28). Cambridge University Press.
 
 Li, P., Feng, Z., Jiang, L., Liao, C., & Zhang, J.. (2014). A review of swidden agriculture in Southeast Asia. *Remote Sensing*, *6*(2), 1654-1683.
 
 Li, Peng, and Arun Jyoti Nath. (2024). The history and revival of swidden agriculture research in the tropics. *CABI Agriculture and Bioscience,* 5(1), 84.
 
-Liu, Jianguo, et al. (2007). Coupled human and natural systems. *Ambio, *36(8), 639-649.
+Liu, Jianguo, et al. (2007). Coupled human and natural systems. *Ambio,* 36(8), 639-649.
 
 Malthus, Thomas Robert. (1803). An Essay on the Principle of Population. 2nd ed., J. Johnson.
 
@@ -1020,7 +947,7 @@ Messier, Christian, et al. (2015). From management to stewardship: viewing fores
 
 Mitchell, M. (2009). *Complexity: A Guided Tour.* Oxford University Press. 
 
-Molinario, Giuseppe, Matthew C. Hansen, and Peter V. Potapov. (2015). Forest cover dynamics of shifting cultivation in the Democratic Republic of Congo: a remote sensing-based assessment for 2000--2010. *Environmental Research Letters, *10(9), 094009.
+Molinario, Giuseppe, Matthew C. Hansen, and Peter V. Potapov. (2015). Forest cover dynamics of shifting cultivation in the Democratic Republic of Congo: a remote sensing-based assessment for 2000--2010. *Environmental Research Letters,* 10(9), 094009.
 
 Nye, P. H., and D. J. Greenland. (1960). *The Soil Under Shifting Cultivation.* Commonwealth Agricultural Bureaux, Berks, England: Farnham Royal.
 
@@ -1040,7 +967,7 @@ Ross, Nanci J. (2011). Modern tree species composition reflects ancient Maya "fo
 
 Ruthenberg, Hans. (1971). *Farming Systems in the Tropics.* Clarendon Press.
 
-Schackt, Jon. (1986). One god, two temples. *Occasional Papers in Social Anthropology *13\. Blindern, Norway.
+Schackt, Jon. (1986). One god, two temples. *Occasional Papers in Social Anthropology* 13. Blindern, Norway.
 
 Scaggs, S.A., X. Wu., Z. Syed, J. Allred, D. Tverskoi, R. Qin, Downey, S.S. (Accepted, August 2026). Anthropogenic disturbance and spatial heterogeneity shape vegetation diversity in tropical swidden mosaics globally. Proceedings of the Royal Society B. Preprint available:  <https://doi.org/10.1101/2025.03.05.641554>
 
@@ -1058,7 +985,7 @@ Thrupp, Lori Ann, et al. (1997). *The Diversity and Dynamics of Shifting Cultiv
 
 Turner, B. L., II, et al. (1977). Population Pressure and Agricultural Intensity. *Annals of the Association of American Geographers*, 67(3), 384--96.
 
-Tverskoi, Denis., Shane A. Scaggs, and S. S. Downey. (2025). A complex adaptive systems model of labour reciprocity and normative reasoning in swidden agriculture. *Royal Society Open Science, *12, 242197.
+Tverskoi, Denis., Shane A. Scaggs, and S. S. Downey. (2025). A complex adaptive systems model of labour reciprocity and normative reasoning in swidden agriculture. *Royal Society Open Science,* 12, 242197.
 
 Van Vliet, Nathalie, et al. (2012). Trends, drivers and impacts of changes in swidden cultivation in tropical forest-agriculture frontiers: a global assessment. *Global Environmental Change,* 22(2), 418-429.
 
@@ -1066,23 +993,22 @@ Ziegler, Alan D., et al. (2011) Recognizing Contemporary Roles of Swidden Agricu
 
 Ziegler, Alan D., et al. (2012). Carbon Outcomes of Major Land-Cover Transitions in SE Asia: Great Uncertainties and REDD+ Policy Implications. *Global Change Biology*, 18(10), 3087--3099.
 
-8\. Disclosure of Delegation to Generative AI
----------------------------------------------
+## 8. Disclosure of Delegation to Generative AI
 
 The author declares the use of generative AI in the research and writing process. According to the GAIDeT taxonomy (Suchikova et al., 2025), the following tasks were delegated to GAI tools under full human supervision: literature search and systematization, development of experimental or research protocols, data analysis, drafting text proposals, proofreading, and editing. The GAI tool used was: Perplexity Pro Version 26.22.0 (25) with Claude Opus 4.8 Thinking. Responsibility for the final manuscript lies entirely with the author. GAI tools are not listed as authors and do not bear responsibility for the final outcomes. Declaration submitted by: Sean S. Downey
 
-* * * * *
+- - -
 
-[[1]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref1) Page 536.
+[\[1]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref1) Page 536.
 
-[[2]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref2) See (Hames, 2007) for a comprehensive review of the "ecologically noble savage" debate.
+[\[2]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref2) See (Hames, 2007) for a comprehensive review of the "ecologically noble savage" debate.
 
-[[3]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref3) Page 540.
+[\[3]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref3) Page 540.
 
-[[4]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref4) Page 542.
+[\[4]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref4) Page 542.
 
-[[5]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref5) Page 549.
+[\[5]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref5) Page 549.
 
-[[6]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref6) This top-down / bottom-up framework is similar to one used for a review of ecosystem food pyramid research that identified theoretical trends in community ecology between a bottom-up resource-based hypothesis, and a top-down consumer-based hypothesis for determining the biomass patterns across food pyramids (Leroux and Loreau 2015). Here, I develop a novel top-down/bottom-up framework for epistemology in swidden, a prototypical coupled human and natural system. Accordingly, the mechanisms and patterns in coupled systems are different and more varied because they incorporate human demography, energetics, and cultural factors, in addition to forest community ecology. Whereas Leroux and Loreau's (2015) framework is ontological, describing the direction of causal force in ecosystems, mine is epistemological, describing the direction of explanatory inference in swidden scholarship.
+[\[6]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref6) This top-down / bottom-up framework is similar to one used for a review of ecosystem food pyramid research that identified theoretical trends in community ecology between a bottom-up resource-based hypothesis, and a top-down consumer-based hypothesis for determining the biomass patterns across food pyramids (Leroux and Loreau 2015). Here, I develop a novel top-down/bottom-up framework for epistemology in swidden, a prototypical coupled human and natural system. Accordingly, the mechanisms and patterns in coupled systems are different and more varied because they incorporate human demography, energetics, and cultural factors, in addition to forest community ecology. Whereas Leroux and Loreau's (2015) framework is ontological, describing the direction of causal force in ecosystems, mine is epistemological, describing the direction of explanatory inference in swidden scholarship.
 
-[[7]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref7) Methodologically, my goal in Table 2 is to select seminal works and to characterize them by overall epistemological approach and research tradition. Often, articles and monographs (which are less constrained for space) contain discussions of both top-down factors such as demographic growth, globalization, state power, and the broad sweep of history, and bottom-up details from case studies, local dataset, and ethnographic and ethnohistorical context. Thus, the epistemological classification reflects the most general epistemological category that reflects the research tradition of the work.
+[\[7]](file:///Users/alexcano86/Desktop/Downey.html#_ftnref7) Methodologically, my goal in Table 2 is to select seminal works and to characterize them by overall epistemological approach and research tradition. Often, articles and monographs (which are less constrained for space) contain discussions of both top-down factors such as demographic growth, globalization, state power, and the broad sweep of history, and bottom-up details from case studies, local dataset, and ethnographic and ethnohistorical context. Thus, the epistemological classification reflects the most general epistemological category that reflects the research tradition of the work.
