@@ -61,9 +61,9 @@ The key research question is when such failures remain local, or spread linearly
 
 An agent is given a goal, senses its environment or context, plans or decides what to do next, acts by calling a tool or taking an action, observes the result, updates its state, and then either stops or iterates over the loop again (Figure 1). The key aspect of this loop, which is defined in (Franklin & Graesser, 1997; Russell & Norvig, 2021; Wooldridge & Jennings, 1995), is that the agent acts over time, in pursuit of its goals with some degree of autonomy.
 
-![](blob:https://euangoddard.github.io/ba68fc33-b7ea-4c70-b389-b3a5171ceaca)
-
 *Figure 1: The agent senses its context, plans, acts, observes the result, and updates its state, iterating until it stops and returns a final artifact or action.*
+
+![](/a-science-of-llm-agent-ecosystems/suri_fig1.png)
 
 A bare LLM is not an agent. It becomes part of an LLM agent when it is placed inside the loop, so that calls to the model perform one or more of the loop's functions or supply one or more of its control decisions. These calls may interpret context, form plans, choose tools, summarize observations, update memory, generate outputs, or decide when to stop (Huang et al., 2024; Li, 2025; Park et al., 2023; Schick et al., 2023; Yao et al., 2022). Even when the model performs several of these functions, it does not replace the rest of the system. The agent still needs non-model scaffolding such as goals, state, tools, memory, environment access, permissions, and stopping logic. In this paper, we focus on LLM agents that operate in digital environments, rather than on robotics or embodied agents.
 
