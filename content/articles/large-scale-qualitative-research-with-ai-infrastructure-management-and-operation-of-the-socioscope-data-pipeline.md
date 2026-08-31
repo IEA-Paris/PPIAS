@@ -246,7 +246,7 @@ Each transaction can appear twice in the grid: as the initiative sees it, and as
 
 AI models extract the transactions from the verbatim transcripts at scale. Not all elements of the grid come from the moment when the interviewer fills it in with the interviewee; many are collated from other parts of the case. Table 1 gives a raw example of a grid reconstructed by AI analysis of the two interview recordings of a Spanish case; names of persons, places and organisations have been removed. 
 
-***Table 1*.** *Transaction grid of a Spanish case (ES-005), coded by AI from the two interview recordings. Names of persons, places, organisations and programmes have been removed or replaced by descriptors in square brackets.*
+**Table 1.** Transaction grid of a Spanish case (ES-005), coded by AI from the two interview recordings. Names of persons, places, organisations and programmes have been removed or replaced by descriptors in square brackets.
 
 | **Entity / Stakeholder**                                                                                                               | **What the initiative gives**                                                                                                                                      | **What the initiative gets**                                                                                                              | **What the Other gives**                                                                                                                          | **What the Other gets**                                                                                       | **Quotes**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -349,13 +349,13 @@ Field equipment. Each interviewer operates a standardised audiovisual kit. In ph
 
 **Premises**. The core Socioscope team members are based at the Paris Institute for Advanced Study, which hosts the project administratively, and the Vienna Complexity Science Hub. The central team that oversees data collection has an open space and neighbouring offices in the premises of the Paris IAS. This proximity matters for handling the technical and logistical problems of data collection.
 
-***Figure 1.** Workstations of the central data-collection team in Paris.*
+**Figure 1.** Workstations of the central data-collection team in Paris.
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig1.jpg)
 
 **Software.** The Gate (described in The Corpus and the Gate above) is, in equipment terms, the project's central software infrastructure. Its modules: selective access control, the data processing pipeline, web scrapers to enrich cases, and the provenance/logging system.
 
-***Figure 2.** Gate upload landing interface.*
+**Figure 2.** Gate upload landing interface.
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig2.png)
 
@@ -375,7 +375,7 @@ Most important, it has a search engine and filters to find initiatives. Users ca
 
 It was a shared workbook with one sheet per geography (54 country sheets, 3,247 dated lead rows since 2023), one row per lead, tracking each case from scouting through validation, fieldwork and closure: status, dates, actors, payment validation. Aggregate KPI sheets summarise progress per country; the pipeline metrics in Appendix 4 are extracted from this instrument.
 
-***Figure 3.** Extract of the central dashboard.*
+**Figure 3.** Extract of the central dashboard.
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig3.png)
 
@@ -385,7 +385,7 @@ It was a shared workbook with one sheet per geography (54 country sheets, 3,247 
 
 The Socioscope needed many people in the data collection phase: some 80 interviewers in the field, regional managers and gatekeepers, a core coordination group across Paris and Vienna, three central field managers constantly in touch with regional coordinators and field interviewers, audiovisual staff, computer scientists, subcontractors, with 2 full-time data-collection members (including 1 with legal training) and a quality-control officer. 
 
-***Figure 4.** Structure of the Socioscope project team for data collection*.
+**Figure 4.** Structure of the Socioscope project team for data collection.
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig4.png)
 
@@ -433,7 +433,7 @@ The sections above describe the foundations of the pipeline; this section follow
 
 The following figure summarises the main path of the data through the pipeline. As described above, quality control runs at every step, with loops when correction is needed.
 
-***Figure 5.** The main path of data through the Socioscope pipeline.*
+**Figure 5.** The main path of data through the Socioscope pipeline.
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig5.png)
 
@@ -501,7 +501,7 @@ A thank-you and a small goodies package close the visit, and a final message inv
 
 Note that the Socioscope's social contract is project-specific. Other teams, and we ourselves later, may have to design another one. The video clip as a gift worked well in 2024-2026; it may not be enough in the coming years, when making videos becomes a widespread skill. 
 
-***Figure 6.** Example of an initiative page on the Socioscope website.*
+**Figure 6.** Example of an initiative page on the Socioscope website.
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig1.jpg)
 
@@ -549,7 +549,7 @@ We therefore ran a systematic, independent review of each case on some 39 points
 
 As of July 2026, the latest analysable Corpus (version 0.1.0) covers 686 cases in 31 countries. Collection concentrated on ten primary countries - Colombia (162 cases), France (80), Argentina (59), Kenya (50), Denmark (45), Peru (41), Spain (36), Costa Rica (34), Mexico (30) and Ecuador (28) - with a further 121 cases spread across 21 other countries, from Armenia to New Zealand. Some 40 cases are in the incoming pipeline waiting for completion (e.g., missing consent form, video under revision...).
 
-***Table 2.** Distribution of closed cases by country in the Corpus, July 2026.*
+**Table 2.** Distribution of closed cases by country in the Corpus, July 2026.
 
 | Country            | Cases   |
 | ------------------ | ------- |
@@ -578,7 +578,7 @@ In July 2026, the project's working documents (95 GB accumulated over three year
 
 The library is distributed as follows:
 
-***Table 3.** The Socioscope documentation library, July 2026.*
+**Table 3.** The Socioscope documentation library, July 2026.
 
 | Category                         | Documents                                       |
 | -------------------------------- | ----------------------------------------------- |
@@ -597,8 +597,6 @@ The library is distributed as follows:
 | 13 Publications & presentations  | 29                                              |
 | 14 Meetings & project management | 149 (+62 transcribed meeting recordings)        |
 | **Total**                        | **1,432 documents + 93 transcribed recordings** |
-
-
 
 The distribution shows what running large-scale qualitative research entails. Nearly half of the library is administration proper (678 documents consisting of invoices, budgets and payment records kept at item level), and training and field support account for another quarter (324). The operational weight of the infrastructure sits in managing people and money.
 
@@ -822,9 +820,31 @@ Immutable originals; every transformation logged with the model and version that
 
 Log every lead and keep the rejected ones: the sampling frame is itself data, and it is the only evidence of what the corpus is representative of. Monitor conversion throughout - ours ran at 45% from scouted to chosen, and 50% from chosen to closed case.
 
+| **Rule**                                                                             | **When it must be decided**       | **What it costs to get it wrong**                                                                                                                           | **Our evidence**                                                                                                                       |
+| ------------------------------------------------------------------------------------ | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Size and shape are design parameters, not dials**                               |                                   |                                                                                                                                                             |                                                                                                                                        |
+| 1.1 Determine the size of the endeavour before costing it                            | Before starting                   | Unit cost and total project cost move in opposite directions; a sizing decision taken implicitly is a management model adopted by accident                  | 600 cases across 37 countries and several languages - a different management regime from 50 cases in one country, though both are LSQR |
+| 1.2 Derive the technology/human split from size and research objective               | Before starting                   | Propagates down the whole pipeline: transcription capacity, quality control, skills recruited, and investigator involvement in management and key decisions | We did 200 cases of human quality control which was more expensive and clogged the central team sporadically.                          |
+| 1.3 Prove the whole chain at tens before committing to hundreds                      | Before the field opens            | A minor problem takes serious dimensions at scale; a question that was not asked cannot be re-asked                                                         | Tens of cases tested end to end; our first months slowed by unfixed extraction targets                                                 |
+| **2. Contract the future, not the fieldwork**                                        |                                   |                                                                                                                                                             |                                                                                                                                        |
+| 2.1 Negotiate data retention before collecting                                       | Before the first piece of data    | Silently caps the useful life of the corpus; not renegotiable once data exists                                                                              | Default 3–5 years; we obtained 15                                                                                                      |
+| 2.2 Build the legal and ethical infrastructure ahead of the field, at project scale  | Before the first piece of data    | Ethics approval, per-geography privacy regimes, controllers and processors, NDAs and breach procedures cannot be improvised across jurisdictions            | Ethics approval, legal bases and processor clauses covering every jurisdiction in the plan, not only the coordinating institution's    |
+| 2.3 Design the social contract, and its logistics                                    | Before the field opens            | Undelivered returns cost field trust; the currency changes over a multi-year project                                                                        | Videos, case web pages, certificates - run as a supply chain                                                                           |
+| 2.4 Write the follow-up into the contract                                            | At contracting                    | Incomplete cases become unrecoverable once the interviewer has been paid and released                                                                       | Interviewer clause, plus a warning to the initiative at the visit                                                                      |
+| 2.5 Gate payment on quality, not on delivery                                         | At contracting                    | Payment on upload removes the only leverage that exists over data quality                                                                                   | Invoice triggers a QC report; payment follows confirmed quality                                                                        |
+| **3. Keep the core central, and partner for the rest**                               |                                   |                                                                                                                                                             |                                                                                                                                        |
+| 3.1 Make the central team the principal                                              | At organisational design          | The relationship with the initiative leaves with the interviewer                                                                                            | The central institution confirms appointments and owns the relationship                                                                |
+| 3.2 Find partners to operate at scale                                                | Before country launch             | Terms negotiated after the data exists are a different and much weaker conversation                                                                         | Shared ownership, granted usage, or paid collection - matched to size and objective                                                    |
+| 3.3 Test interviewers, and train for teamwork                                        | At recruitment, then continuously | Credentials do not predict protocol compliance; non-compliance is otherwise discovered downstream, case by case                                             | Of 30 tested in the proof of concept, few retained                                                                                     |
+| **4. Manage throughput, not speed**                                                  |                                   |                                                                                                                                                             |                                                                                                                                        |
+| 4.1 Put the automation line where the configuration requires                         | At pipeline build; revisable      | Automating judgement destroys quality; leaving the mechanical manual destroys the budget                                                                    | Savings up to some 96% per automated step                                                                                              |
+| 4.2 Sort transcription and translation before scaling, especially on small languages | Before scaling up                 | Transcription is the throat of the pipeline; a slow chain clogs everything upstream, including interviewers awaiting clearance and payment                  | Small languages need engine shopping and native-speaker review; mixed-language speech is common                                        |
+| 4.3 Plan for over-acceleration, not only for delay                                   | Weekly, once running              | A field surge produces a backlog that degrades quality control and delays payment, damaging the relationships that produced it                              | Monthly closures capped to what the central team can absorb                                                                            |
+| **5. The corpus is the product**                                                     |                                   |                                                                                                                                                             |                                                                                                                                        |
+| 5.1 Fix file naming and provenance on day one                                        | Day one; not retrofittable        | Approximation is survivable at tens of files and a guarantee of problems at hundreds                                                                        | Immutable originals; every transformation logged with model and version                                                                |
+| 5.2 Track the funnel from the start                                                  | Day one; not retrofittable        | Without the rejected leads there is no evidence of what the corpus is representative of                                                                     | 45% scouted → chosen; 50% chosen → closed case                                                                                         |
 
-
-# Appendix 2. The Socioscope data pipeline, step by step
+### Appendix 2. The Socioscope data pipeline, step by step
 
 This is a preliminary rendition of our pipeline, which rests on a variety of assumptions specific to the Socioscope, such as an interest in global systemic change (some researchers may have a regional focus, etc.), videos and web pages being the main social contract with participants, and a hybrid human-AI implementation.
 
