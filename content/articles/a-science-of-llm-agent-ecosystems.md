@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: A Science of LLM-Agent Ecosystems
 date: 2026-08-31T14:09:00.000-05:00
 type: article
