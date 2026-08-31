@@ -192,15 +192,15 @@ As in any research, purpose and research questions are defined first, and they d
 
 This paper describes how the Socioscope methodology was built and how it operates. After a brief description of the research strategy, we present the data pipeline in full, then analysis and enrichment in less detail, then the infrastructure the processes require. The appendices give more detail.
 
-# 2       The Socioscope Data Pipeline
+## 2. The Socioscope Data Pipeline
 
 Every research project must choose its data sources and the process of extraction. The data must contain the information needed to answer the research question.
 
 A first question (where?) is how to define the unit of analysis and which data sources to sample (what type of entities are good sources of information for our problem, and which ones in particular should we select). A second question (what?) is which data we need to collect on these units to address our research question. A third question (how?) concerns the conditions under which the desired data can actually be collected from the sample of sources. The sections below say how we handled each.
 
-## 2.1      Choosing the data sources
+### 2.1. Choosing the data sources
 
-### 2.1.1     Nature of data sources
+#### 2.1.1. Nature of data sources
 
 The sampling unit, which we call an "entity", is the individual source of data. The Socioscope is interested in organisations relevant to how the food domain works and evolves: a farm, a fast-food chain, a frozen-food company, and so on.
 
@@ -214,7 +214,7 @@ To sum up: the initiative is the sampling unit, the real-world entity that acts 
 
 The case must help us understand how the system works and evolves. We are interested in entities as parts of a system, so the material collected must document the connections of the initiative to the system and how it is embedded in it.
 
-### 2.1.2     Sample selection
+#### 2.1.2. Sample selection
 
 Once the type of entity is chosen, we must decide which units to sample. Sampling a complete subsystem, say all actors of the dairy sector, is impossible: they are too many, from primary producers to retail shops, makers of milking machines and refrigerators, veterinarians and so on. Nor can a food system be sampled representatively, because the relations between agents are part of the system.
 
@@ -224,7 +224,7 @@ The criteria for 'interesting' initiatives - well-inserted in the system (*embed
 
 Initiatives are first scouted by our local partners who know the sector, by browsing the web with keywords and snowballing, and through relevant lists and databases of organizations (such as local business associations and sustainability prizes). The spotted initiatives are then described with a brief due diligence web search with the description produced by hand or AI, and submitted to the project's research leaders, the PIs, for selection and approval. Because many of the initiatives studied were small food producers and retailers, they often had little online presence. Local contact, and in many cases an informal first visit, was needed to complete the assessment. The process of identifying and selecting is outlined in the Scouting and selection step of the Data Collection Pipeline section below. Not all selected initiatives finally led to cases, subject to availability of access, availability of local interviewers, and consent. The selection ratios were as follows: scouted to chosen, 45% (1,451 of the 3,247 leads logged in the master case log passed validation); chosen to completed case, 50% (731 closed at the 4 July 2026 snapshot); an overall conversion of 22%. The second figure is low because we overshot our target and stopped converting validated initiatives into cases (see Lessons learned): we had validated more initiatives than we could process. The monthly conversion rate from validated to completed rose with experience and was close to 90% when we stopped. Leads still in process make these ratios floors (see Appendix 4).
 
-## 2.2      Data collection
+### 2.2. Data collection
 
 Data collection on site follows the Data Collection Protocol (available from the authors on request). The protocol gives the field investigator all the instructions for collecting the data that build the case, including the topic guide for the interview. Its table of contents is reproduced in Appendix 7, to show what a field-ready LSQR protocol has to cover. The protocol is not used alone. It comes with four training videos, some fifty minutes in all, which walk the interviewer through the same procedures: the project, the logs and the contact phase; preparing the interview; executing the interview; finalising the mission. Interviewers watch them before their first case, and the protocol points to them stage by stage. 
 
@@ -234,9 +234,9 @@ The transaction grid lists the stakeholders with whom the initiative interacts. 
 
 An exchange from one of our cases in the United States (US-070) shows how a line of the grid is elicited and filled in the participants' own words:
 
-Interviewer: "From your perspective, what do you give them? And then from their perspective, what do they get from you if there is a distinction between those things?"
-
-Interviewee: "I think that answer has changed a lot \[...] there's the logistics side of things of, like, providing the food, providing and helping with refrigeration, helping with, you know, storage and all of that. \[...] We're providing that to them. And then \[...] they in turn are giving us \[...] They're opening their space for us \[...] to have that food and to be a partner of ours and to help us. Like, we can't do the work without them. And so they help accelerate that mission for us."
+> Interviewer: "From your perspective, what do you give them? And then from their perspective, what do they get from you if there is a distinction between those things?"
+>
+> Interviewee: "I think that answer has changed a lot \[...] there's the logistics side of things of, like, providing the food, providing and helping with refrigeration, helping with, you know, storage and all of that. \[...] We're providing that to them. And then \[...] they in turn are giving us \[...] They're opening their space for us \[...] to have that food and to be a partner of ours and to help us. Like, we can't do the work without them. And so they help accelerate that mission for us."
 
 The transaction grid rests on the notion of social contract: a structural, multi-transaction agreement of the form "if you give this, you get that" (Lahlou, 2024), sustained over time by reciprocal expectations. The logic is that of gift and counter-gift (Mauss, 1990), not of the spot market. Social contracts use many currencies besides goods and money: information, reputation, access, safety, trust. They are partly informal and open-ended, since social exchange creates "unspecified obligations"  (Blau, 1964: chapter 4) that bind the participants and let the contract change over time.
 
@@ -246,338 +246,14 @@ Each transaction can appear twice in the grid: as the initiative sees it, and as
 
 AI models extract the transactions from the verbatim transcripts at scale. Not all elements of the grid come from the moment when the interviewer fills it in with the interviewee; many are collated from other parts of the case. Table 1 gives a raw example of a grid reconstructed by AI analysis of the two interview recordings of a Spanish case; names of persons, places and organisations have been removed. 
 
-\|
+
 
 *Table 1. Transaction grid of a Spanish case (ES-005), coded by AI from the two interview recordings. Names of persons, places, organisations and programmes have been removed or replaced by descriptors in square brackets.* 
 
 |     |
 | --- |
 
-\|
 
-**Entity / Stakeholder**
-
-\|
-
-**What the initiative gives**
-
-\|
-
-**What the initiative gets**
-
-\|
-
-**What the Other gives**
-
-\|
-
-**What the Other gets**
-
-\|
-
-**Quotes**
-
-|     |
-| --- |
-
-\|
-
-**Small-scale fishermen (local fishermen's brotherhood; co-founder of the initiative)**
-
-\|
-
-Hope and a sense of doing right by the sea; visibility for a fishery nobody knew existed; scientific knowledge, materials and method (cuttlefish beds, incubators)
-
-\|
-
-The fishermen's voluntary daily labour at sea, and the insider legitimacy without which the project could not exist at all
-
-\|
-
-Deployment of the cuttlefish beds, recovery of eggs from their fishing gear and adherence to sustainable fishing rules, done unpaid for years
-
-\|
-
-Pride and well-being, growing demand for their cuttlefish, and the prospect of a fairer price for their catch
-
-\|
-
-* "It gives them hope, it gives them a sense of well-being that they are doing things right, that they are doing something for the environment. It gives them visibility, because since the cuttlefish project people didn't even know that cuttlefish were fished here, the demand for cuttlefish has increased."\
-* "Without them there is no project, without them there would be no branches. Without them, they are the reason. Yes, they are the raw material."\
-* "They are not obliged to do anything. And they get nothing in return. Well, now I hope it will change, but they don't get anything. They do it completely voluntarily."\
-* "As a biologist, I would never have entered if it wasn't for the fact that I was going hand in hand with a fisherman, with \[the co-founder].\
-  "\
-* "What we have to achieve is that their cuttlefish, their squid, are sold more expensively or at a fair price."
-
-\|
-|
-
-**Other fishermen's associations (two neighbouring ports)**
-
-\|
-
-A tested method and materials, and a shared framework that brought three previously distant brotherhoods to work together
-
-\|
-
-Scale for the pilot in its first years, and a test of whether the model transfers beyond the home port
-
-\|
-
-Participation in the 2016 multi-port pilot; both have since withdrawn, one to run its own version and the other through disengagement
-
-\|
-
-Access to the technique and, for one of them, an approach it now runs independently
-
-\|
-
-* "That year we managed to do it in \[the three ports], a large-scale pilot test, well, medium-scale, in which we were testing different techniques, different methods, in different ports to see what was happening."\
-* "I was very proud when we were able to unite the three brotherhoods.\
-   At that moment I felt very good, very proud. I was able to bring together three brotherhoods that at first didn't get along very well."\
-* "\[One port] dropped out\
-   because they decided that they were doing it their own way. \[The other port] also left\
-   because, as we said before, they are fishermen who don't really want to change things"\
-* "If \[that port] is no longer motivated\
-  , it is because we have not known how to do it well. So we have to motivate them again."
-
-\|
-|
-
-**Town council (local municipality)**
-
-\|
-
-Visibility for the council's environmental and sustainability policy, and visible support for small-scale fishing as a local sector
-
-\|
-
-Money and contracted activities that fund outreach to schools and tourists; a hoped-for subsidy for monitoring the cuttlefish beds
-
-\|
-
-Funding and paid commissions for activities, including activities offered free to the public
-
-\|
-
-Policy visibility on sustainability and a way of giving back to a sector it considers important
-
-\|
-
-* "To the city council, well, we bring visibility, we bring visibility in terms of their policies of what do you call this? Of this very fashionable word that is now environmental and durability, of all this that is now fashionable."\
-* "Money that allows us to do activities, impact schools and tourists."\
-* "It is in their interest to promote small-scale fishing, because it is an important sector."\
-* "We are supporting small-scale fishing and by supporting the cuttlefish project, they are giving back to the fishermen."\
-* "Sometimes they are free activities that are paid for by the municipality."\
-* "And in this way what we also want, apart from that, is that the town \[councils] help us to subsidise the monitoring of the sepieras."
-
-\|
-|
-
-**Natural Park (adjacent marine and coastal park)**
-
-\|
-
-The marine component of the park's school programme, filling an age bracket its own offer does not cover
-
-\|
-
-Paid school activities that provide reliable income and access to schoolchildren it could not otherwise reach
-
-\|
-
-Payment for the school sessions, a designated space and permit for the cuttlefish beds, and early research collaboration on egg-laying substrates
-
-\|
-
-A ready-made solution for its conservation and dissemination training programme, \[park-in-schools]
-
-\|
-
-* "The schools in the municipalities in the park pass through here and the park pays us for these activities which are free for the schools. So it benefits us a lot because, well, because it's an income that's very good, it's a way of accessing these schoolchildren that otherwise we wouldn't be able to reach them."\
-* "It's part of their training programme for the conservation and dissemination of the park. Well, we fit them in very well, we solve a problem for them at certain ages."\
-* "They have a project called \[park-in-schools].\
-   So \[the project]\
-   provides a solution to this issue for children"\
-* "I was working with the natural park, I am a biologist, I was working with the natural park doing some experiments with cuttlefish branches, pine branches, intiscla branches."
-
-\|
-|
-
-**Fisheries administration (regional fisheries department, species co-management body, local fisheries action group)**
-
-\|
-
-Pressure and a working example that forced the administration to engage; the co-management body itself grew out of the project
-
-\|
-
-A permit and a designated marine space for the cuttlefish beds, and a route to public fisheries funding
-
-\|
-
-Authorisation and allocated marine space; a funding channel through the local fisheries action group
-
-\|
-
-A demonstrable, locally-ownedsustainable fishing initiative it can point to, and continued prompting to act
-
-\|
-
-* "This is where the co-management body came out of, and the administration got involved, which is very important."\
-* "It's very good to have made the administration have to put their feet in the water and get wet and get involved, that's very good."\
-* "You are there as we are the stone in shoes that we are motivating, this is very good."\
-* "What they have done, they have given us a space and we can put the epieras there. That is now in place. So, at that level, we are very happy, obviously, that we can put the epieraswithout having to ask for permission"\
-* "The fishermen are more affected by the fisheries department. But we have very little to do with it. Very little relationship."\
-* "From \[the local fisheries action group].\
-  "
-
-\|
-|
-
-**Tourists and visitors**
-
-\|
-
-A tourist product available nowhere else: beach talks, snorkelling to a visitable replica cuttlefish bed, and boat trips explaining the project
-
-\|
-
-Emotional feedback and gratitude, paid income where the activity is bundled with a boat trip, and an opening to change consumption habits
-
-\|
-
-Attention and money spent locally, and willingness to pay when the activity is packaged with a boat trip
-
-\|
-
-A differentiated experience and a first encounter with the state of the sea and the world of cephalopods
-
-\|
-
-* "We are giving them a different activity, that is, a differentiated tourist product, a different activity that cannot be found anywhere else."\
-* "We put a replica of the cuttlefish at a depth of 2 m on the beach, always within the marked area, so that the boats don't run over people. And then what we do is that we give a talk on the beach, we show them the eggs, then we go swimming, snorkelling and we go to visit the visitable cuttlefish"\
-* "Basically we get the emotional feedback of gratitude after doing this activity. We have tried to do the activities for a fee, but it's difficult"\
-* "A traditional boat that takes tourists, we do a trip and we explain \[the project]\
-  , we explain the environment, the fishermen, that works well. People are willing to pay for that."\
-* "They have brought up things that we had no idea about, for example, that the sea is very bad, that people don't even think about it"
-
-\|
-|
-
-**Consumers (through a direct-sale channel, currently paused)**
-
-\|
-
-Traceable, top-quality local cuttlefish, and the knowledge of who caught it and what that fisherman does for the sea
-
-\|
-
-Money that flows back to fishermen taking direct environmental action - the mechanism that closes the circle
-
-\|
-
-Willingness to pay a fair price for a local, traceable product instead of an anonymous industrial one
-
-\|
-
-A product of the highest quality and the well-being of knowing their money is funding marine improvement
-
-\|
-
-* "My intention is that through \[the project], you can eat a cuttlefish and know that \[the fisherman] has caught it. And that you know that \[the fisherman] is taking direct action to improve the cuttlefish, the environment where the cuttlefish live. And that your money is paying \[the fisherman] to carry out these actions. That is the objective."\
-* "They are receiving a product of the highest quality, they know that they are also subsidising a project to improve the environment, so they feel good. Knowing that your money is going towards something positive is a feeling of well-being."\
-* "As the \[direct-sale] link has been broken\
-  , because now there is no consumer"\
-* "We link it to the fact that if we consume local products we are paying, our money goes to local fishermen who can take direct action to improve the situation."
-
-\|
-|
-
-**Schools and schoolchildren (school programme)**
-
-\|
-
-Environmental education sessions and hands-on activities, including releasing a named baby cuttlefish
-
-\|
-
-Impact on future consumers and possible future fishermen, and paid access via the park and the council
-
-\|
-
-Access to their pupils and classroom time, mediated by the park and the town council
-
-\|
-
-A marine education offer that changes how children see the sea
-
-\|
-
-* "We have created a project called \[name], we are very original, just to have an impact on the school population and this year we want to promote it to reach future consumers or who knows, future fishermen, who knows."\
-* "One of the activities we do with the children is that we have a baby cuttlefish and then a glass and they release it. The emotional moment of releasing a cuttlefish and they give it a name and they are releasing it, that's very nice."\
-* "There are many children that come to me and no, no, the beach is for bathing and that's it. And they come with this mentality. When the talk is over they look at it in a different way."\
-* "This year we have joined forces with a foundation and a company to promote this product and reach the schools."
-
-\|
-|
-
-**Local businesses and private sponsors (mechanics, flats, campsites, yacht clubs; a foundation and an educational services company)**
-
-\|
-
-A local project they can believe in and be part of, rooting environmental action in the local economy rather than in a vertical grant
-
-\|
-
-Private money that makes the funding hybrid, and specialised educational delivery capacity
-
-\|
-
-Cash contributions raised door to door, and now professional educational services for the schools programme
-
-\|
-
-Participation and ownership in a visible local initiative
-
-\|
-
-* "One thing I like to explain a lot is that the resources we have had have been very hybrid. What does that mean? A mixture of public money and private money. This seems to me to be very important"\
-* "We could have gone to Europe to ask for a project, they would have given it to us, they would have given us the money vertically, we would have opened the project and it would have ended. And that would have been a failure for our taste. What we wanted was for this to enter society and the best way to enter society is to involve local companies to participate in the project."\
-* "We are playing salesmen, a fisherman and a biologist playing door to door salesmen and we got mechanics, flats, campsites, yacht clubs, all those who believed in this project and put money aside"\
-* "In that year, there was no tourism here. The companies said no, I'm sorry, but I can't give you any more money. Many participants dropped out."
-
-\|
-|
-
-**Divers and diving centres (local divers' association; the area is a diving hotspot)**
-
-\|
-
-A purpose and a hook for their dives - seahorses, cephalopods and an explanation of the project - plus training through underwater photography
-
-\|
-
-Citizen-science data, a photographic record of marine biodiversity, and a replicable pilot for the wider Mediterranean
-
-\|
-
-Photos and images of the species they observe, and monitoring effort on the cuttlefish beds
-
-\|
-
-A differentiated diving experience and knowledge of the marine environment they dive in
-
-\|
-
-* "We also want to reach out to \[divers] here in \[the town] where we are a hotspot for diving. So this year we are trying to reach out to \[divers] to educate them through photography, to take them to see the seahorses, to take them to take pictures with the hook"\
-* "I want \[divers] to help us through their photos and images, to make a compilation of the biodiversity that exists, the invasive or non-invasive species that exist, looking for the hook of seahorses"\
-* "Through citizen science I want to collect data and be able to see what is going on."\
-* "With the \[divers'] association.\
-   Here we want to mix that, the fishermen, the divers and the park, to make a trinomial that I think can give very interesting results."\
-* "If we manage to replicate it through the divers, this will make it much easier to disperse it throughout the Mediterranean."
-
-\|
 
 We are still exploring techniques to fill in transaction grids in the most detailed and stable way. Extraction is sensitive to the models and prompts, but also to the extraction strategy and to its granularity (components of a transaction, or full descriptions). Named-entity recognition is still perfectible. Nevertheless it is already clear that the data collected yield substantial transaction grids, although they will always remain incomplete. 
 
