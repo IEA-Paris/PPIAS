@@ -501,7 +501,7 @@ A thank-you and a small goodies package close the visit, and a final message inv
 
 Note that the Socioscope's social contract is project-specific. Other teams, and we ourselves later, may have to design another one. The video clip as a gift worked well in 2024-2026; it may not be enough in the coming years, when making videos becomes a widespread skill. 
 
-**\*Figure 6.** Example of an initiative page on the Socioscope website.*
+***Figure 6.** Example of an initiative page on the Socioscope website.*
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig1.jpg)
 
@@ -549,7 +549,7 @@ We therefore ran a systematic, independent review of each case on some 39 points
 
 As of July 2026, the latest analysable Corpus (version 0.1.0) covers 686 cases in 31 countries. Collection concentrated on ten primary countries - Colombia (162 cases), France (80), Argentina (59), Kenya (50), Denmark (45), Peru (41), Spain (36), Costa Rica (34), Mexico (30) and Ecuador (28) - with a further 121 cases spread across 21 other countries, from Armenia to New Zealand. Some 40 cases are in the incoming pipeline waiting for completion (e.g., missing consent form, video under revision...).
 
-**\*Table 2.** Distribution of closed cases by country in the Corpus, July 2026*.
+***Table 2.** Distribution of closed cases by country in the Corpus, July 2026.*
 
 | Country            | Cases   |
 | ------------------ | ------- |
