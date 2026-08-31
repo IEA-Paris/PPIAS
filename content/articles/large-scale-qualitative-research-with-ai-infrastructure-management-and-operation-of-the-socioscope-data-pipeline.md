@@ -367,7 +367,7 @@ Field equipment. Each interviewer operates a standardised audiovisual kit. In ph
 
 ***The Internal Website.*** This manages all internal documents, processes, tasks, and resources. The documents and procedures needed to manage the project are so many that an internal website had to be set up to curate and retrieve them. Because field personnel turn over, these documents are used and shared constantly, especially during contracting and training. As of July 2026, this amounted to 1,432 unique documents in fourteen categories, from contracts and invoices to protocols and training materials, plus 93 transcribed recordings of meetings and training sessions; the documentation library is described among the pipeline's outputs below. 
 
-***The Public Website.*** This shares updates about the Socioscope project, and connects all initiatives within a mutually beneficial online community: [www.thesocioscope.org](http://www.thesocioscope.org/)
+***The Public Website.*** This shares updates about the Socioscope project, and connects all initiatives within a mutually beneficial online community: [www.thesocioscope.org](http://www.thesocioscope.org/).
 
  The site presents the project's aims and its three strands (data, technology, analysis), headline figures (documented initiatives, countries, interviewers, languages), a world map of the case studies, supporting institutions and the Socioscope team. It also serves the social contract: participating initiatives gain public visibility and can follow the Socioscope project's progress. 
 
@@ -377,7 +377,9 @@ Most important, it has a search engine and filters to find initiatives. Users ca
 
 It was a shared workbook with one sheet per geography (54 country sheets, 3,247 dated lead rows since 2023), one row per lead, tracking each case from scouting through validation, fieldwork and closure: status, dates, actors, payment validation. Aggregate KPI sheets summarise progress per country; the pipeline metrics in Appendix 4 are extracted from this instrument.
 
-Figure 3. Extract of the central dashboard.
+***Figure 3. Extract of the central dashboard.***
+
+![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig3.png)
 
 ## 4.2      Personnel
 
