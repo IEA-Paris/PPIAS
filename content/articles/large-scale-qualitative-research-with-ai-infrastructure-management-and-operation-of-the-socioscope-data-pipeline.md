@@ -351,13 +351,15 @@ Field equipment. Each interviewer operates a standardised audiovisual kit. In ph
 
 **Premises**. The core Socioscope team members are based at the Paris Institute for Advanced Study, which hosts the project administratively, and the Vienna Complexity Science Hub. The central team that oversees data collection has an open space and neighbouring offices in the premises of the Paris IAS. This proximity matters for handling the technical and logistical problems of data collection.
 
-Figure 1. Workstations of the central data-collection team in Paris.
+***Figure 1. Workstations of the central data-collection team in Paris.***
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig1.jpg)
 
 **Software.** The Gate (described in The Corpus and the Gate above) is, in equipment terms, the project's central software infrastructure. Its modules: selective access control, the data processing pipeline, web scrapers to enrich cases, and the provenance/logging system.
 
-Figure 2. Gate upload landing interface.
+***Figure 2. Gate upload landing interface.***
+
+![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig2.png)
 
 ***Upload, storage and Gate infrastructure.*** Collected material is uploaded from the field through the Gate, which authorises the upload, renames and provenance-stamps the files, and writes the audit log. Behind the Gate, the Corpus resides on redundant cloud object storage, with a database serving as index. 
 
