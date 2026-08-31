@@ -174,7 +174,7 @@ AI brings several benefits to LSQR: it can process large volumes of data, transc
 
 Despite these limitations, AI supports qualitative research: it saves effort and widens access. As Anis and French (2023) argue, AI should complement human expertise, not replace it. If these limitations are managed, as in the Socioscope's LSQR methodology, researchers can keep the depth, reliability and ethical integrity of their work.
 
-## 1.3      Collecting data with a systemic approach
+### 1.3. Collecting data with a systemic approach
 
 The Socioscope rests on the conviction that the quality of the data is essential to good research, that value is in the data (Lahlou, 2025). If properly collected and documented in a data Corpus, the data lend themselves to be later used to answer different research questions. This matters because the research question usually evolves as more material is collected and the problem is better understood. As the research proceeds and questions transform, researchers often discover that the data needed were not collected in the first place. It is therefore advisable to collect the data with a more generic understanding of the system in view, leaving room for research questions other than those posed initially. 
 
@@ -184,11 +184,9 @@ The Socioscope collects multilingual qualitative field data, as transcripts of s
 
 The Socioscope methodology therefore has three components:
 
-1.    **Data collection and processing pipeline:** the journey of the data from the scouting and selection of cases to their incorporation in the Corpus, in the right format, with labels and metadata. It includes the management of access, the extraction of data for analysis, and the maintenance of metadata.
-
-2.    **Analysis and enrichment:** the extraction of information and analyses from the Corpus. Some outputs are fed back into the Corpus, together with the documentation of the analysis. 
-
-3.    **Infrastructure:** the installation that supports collection and analysis: physical equipment (computers, recorders, storage, means of communication...), competent personnel (for data collection, analysis, including support personnel, HR...), and procedures (contracts, protocols, role definitions, quality control, management...).
+1. **Data collection and processing pipeline:** the journey of the data from the scouting and selection of cases to their incorporation in the Corpus, in the right format, with labels and metadata. It includes the management of access, the extraction of data for analysis, and the maintenance of metadata.
+2. **Analysis and enrichment:** the extraction of information and analyses from the Corpus. Some outputs are fed back into the Corpus, together with the documentation of the analysis. 
+3. **Infrastructure:** the installation that supports collection and analysis: physical equipment (computers, recorders, storage, means of communication...), competent personnel (for data collection, analysis, including support personnel, HR...), and procedures (contracts, protocols, role definitions, quality control, management...).
 
 As in any research, purpose and research questions are defined first, and they determine the kind of data and the data sources. The collection process is then designed. The research strategy may change later, but it must always be stated explicitly.
 
@@ -733,7 +731,7 @@ All research activities must comply with ethical principles and legal obligation
 
 This phase should not be underestimated in time or cost: compliance took nine months and about €15,000 to be validated by the law firm. Its most consequential output was the retention period. The standard for research data is three to five years, after which the data must be destroyed. That is incompatible with large-scale qualitative research, where the corpus is the durable asset and the point of the pipeline is that data paid for once remain analysable as tools change. We obtained an initial retention period of fifteen years, appropriate for longitudinal research. Anyone attempting a comparable project should plan this negotiation from the outset: a default retention period would silently cap the useful life of the corpus.
 
-[](https://www.uwc.ac.za/study/all-areas-of-study/centres/centre-of-excellence-in-food-security/overview)Partner research institutions also need their own ethical clearance, and the retention period granted to the project must be reconciled with their local regulations. We partnered with the University of the Western Cape (UWC) and its Centre of Excellence in Food Security, the Tecnológico de Monterrey (TEC) and Aarhus Business School; each had to obtain its own clearance and comply with local rules, which took additional time and resources.
+Partner research institutions also need their own ethical clearance, and the retention period granted to the project must be reconciled with their local regulations. We partnered with the University of the Western Cape (UWC) and its Centre of Excellence in Food Security, the Tecnológico de Monterrey (TEC) and Aarhus Business School; each had to obtain its own clearance and comply with local rules, which took additional time and resources.
 
 After the initial set-up, an LSQR project should monitor emerging legal and technical issues and keep up with GDPR practice: periodic reviews of consent procedures, retention policies and repository security, and staff training in data protection.
 
@@ -1266,11 +1264,11 @@ Braun, V., & Clarke, V. (2021). *Thematic analysis: A practical guide.* SAGE P
 
 Brower, R. L., Bertrand Jones, T., Osborne-Lampkin, L., Hu, S., & Park-Gaghan, T. J. (2019). Big Qual: Defining and debating qualitative inquiry for large data sets. *International Journal of Qualitative Methods, 18,*1--10. <https://doi.org/10.1177/1609406919880692>
 
-Chowdhary, K. R. (2020). Natural language processing. In *Fundamentals of artificial intelligence* (pp. 603--649). Springer. https://doi.org/10.1007/978-81-322-3972-7_19[](https://doi.org/10.1007/978-81-322-3972-7_19)
+Chowdhary, K. R. (2020). Natural language processing. In *Fundamentals of artificial intelligence* (pp. 603--649). Springer. https://doi.org/10.1007/978-81-322-3972-7_19
 
 Christou, P. A. (2023). The use of artificial intelligence (AI) in qualitative research for theory development. *The Qualitative Report, 28*(9), 2739--2755. <https://doi.org/10.46743/2160-3715/2023.6536>
 
-Clark, T. (2008). "We're over-researched here!": Exploring accounts of research fatigue within qualitative research engagements. *Sociology, 42*(5), 953--970. https://doi.org/10.1177/0038038508094573[](https://doi.org/10.1177/0038038508094573)
+Clark, T. (2008). "We're over-researched here!": Exploring accounts of research fatigue within qualitative research engagements. *Sociology, 42*(5), 953--970. https://doi.org/10.1177/0038038508094573
 
 Corti, L., Van den Eynden, V., Bishop, L., & Woollard, M. (2019). *Managing and sharing research data: A guide to good practice* (2nd ed.). SAGE.
 
@@ -1348,7 +1346,7 @@ Singer, E., & Ye, C. (2013). The use and effects of incentives in surveys. *The
 
 Small, M. L. (2009). "How many cases do I need?" On science and the logic of case selection in field-based research. *Ethnography, 10*(1), 5--38. https://doi.org/10.1177/1466138108099586
 
-Star, S. L., & Griesemer, J. R. (1989). Institutional ecology, "translations" and boundary objects: Amateurs and professionals in Berkeley's Museum of Vertebrate Zoology, 1907--39. *Social Studies of Science, 19*(3), 387--420. https://doi.org/10.1177/030631289019003001[](https://doi.org/10.1177/030631289019003001)
+Star, S. L., & Griesemer, J. R. (1989). Institutional ecology, "translations" and boundary objects: Amateurs and professionals in Berkeley's Museum of Vertebrate Zoology, 1907--39. *Social Studies of Science, 19*(3), 387--420. https://doi.org/10.1177/030631289019003001
 
 Tashakkori, A., & Teddlie, C. (Eds.). (2010). *SAGE handbook of mixed methods in social & behavioral research* (2nd ed.). SAGE Publications.
 
