@@ -439,7 +439,7 @@ The following figure summarises the main path of the data through the pipeline. 
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig5.png)
 
-## 5.2      Scouting and selection
+### 5.2. Scouting and selection
 
 A case begins as a candidate initiative identified by the Socioscope team and its local contacts (most of them potential interviewers), on the selection criteria given above. The initiative is entered as a prospective case in the Gate, with basic information such as initiative name, website, and source of identification. The process described below is what we have now, but in the beginning it was less well organized because we did not have the Gate and relied a lot on the dashboard and manual work, with messaging, telephone, and videoconference exchanges. 
 
