@@ -794,351 +794,35 @@ A central team cannot itself be present in every geography, and should not try
 
 Experienced academics often do not follow protocols: of thirty tested in our proof of concept, very few were retained. Selection must be empirical rather than by credential, training must target teamwork and protocol compliance rather than interviewing skill alone, and compliance must be controlled continuously rather than assumed.
 
-●**4. Manage throughput, not speed**
+● **4. Manage throughput, not speed**
 
 Once the pipeline is running, the binding constraint is not how fast the field can work but how much the central team can absorb. These rules are tunable week by week - but only if the pipeline was instrumented from the first day.
 
-●**4.1. Put the automation line where the configuration requires**
+● **4.1. Put the automation line where the configuration requires**
 
 Prioritize automating the mechanical steps - transcription, naming, tracking, with savings up to some 96% per step - and keep humans where judgement, rapport or accountability matter: outreach, interviews, go/no-go decisions, final sign-off. This is the operational expression of the split derived in 1.2.
 
-●**4.2. Sort transcription and translation before scaling, especially on small languages**
+● **4.2. Sort transcription and translation before scaling, especially on small languages**
 
 Small languages need engine shopping and native-speaker review, and mixed-language speech is common in the field. Transcription is the throat of the pipeline: a slow chain there clogs everything upstream of it, including the interviewers waiting for quality clearance and payment.
 
-●**4.3. Plan for over-acceleration, not only for delay**
+● **4.3. Plan for over-acceleration, not only for delay**
 
 Field enthusiasm can outrun central processing capacity. Cap monthly case closures at what the central team can absorb; an uncontrolled surge produces a backlog that degrades quality control and delays payment, which in turn damages the field relationships that produced the surge.
 
-**5. The corpus is the product**
+● **5. The corpus is the product**
 
 The deliverable of a data collection phase is not a set of completed cases but a dataset that someone who was not there can use years later. The rules that make that possible cost almost nothing on day one and cannot be retrofitted.
 
-●**5.1. Fix file naming and provenance on day one**
+● **5.1. Fix file naming and provenance on day one**
 
 Immutable originals; every transformation logged with the model and version that produced it; explicit, predictable file names. Approximation is survivable at tens of files but is a guarantee of problems at hundreds.
 
-●**5.2. Track the funnel from the start**
+● **5.2. Track the funnel from the start**
 
 Log every lead and keep the rejected ones: the sampling frame is itself data, and it is the only evidence of what the corpus is representative of. Monitor conversion throughout - ours ran at 45% from scouted to chosen, and 50% from chosen to closed case.
 
-\|
 
-**Rule**
-
-\|
-
-**When it must be decided**
-
-\|
-
-**What it costs to get it wrong**
-
-\|
-
-**Our evidence**
-
-|     |
-| --- |
-
-\|
-
-**1. Size and shape are design parameters, not dials**
-
-\|  |
-|
-
-1.1 Determine the size of the endeavour before costing it
-
-\|
-
-Before starting
-
-\|
-
-Unit cost and total project cost move in opposite directions; a sizing decision taken implicitly is a management model adopted by accident
-
-\|
-
-600 cases across 37 countries and several languages - a different management regime from 50 cases in one country, though both are LSQR
-
-\|
-|
-
-1.2 Derive the technology/human split from size and research objective
-
-\|
-
-Before starting
-
-\|
-
-Propagates down the whole pipeline: transcription capacity, quality control, skills recruited, and investigator involvement in management and key decisions
-
-\|
-
-We did 200 cases of human quality control which was more expensive and  clogged the central team sporadically.
-
-\|
-|
-
-1.3 Prove the whole chain at tens before committing to hundreds
-
-\|
-
-Before the field opens
-
-\|
-
-A minor problem takes serious dimensions at scale; a question that was not asked cannot be re-asked
-
-\|
-
-Tens of cases tested end to end; our first months slowed by unfixed extraction targets
-
-\|
-|
-
-**2. Contract the future, not the fieldwork**
-
-\|  |
-|
-
-2.1 Negotiate data retention before collecting
-
-\|
-
-Before the first piece of data
-
-\|
-
-Silently caps the useful life of the corpus; not renegotiable once data exists
-
-\|
-
-Default 3--5 years; we obtained 15
-
-\|
-|
-
-2.2 Build the legal and ethical infrastructure ahead of the field, at project scale
-
-\|
-
-Before the first piece of data
-
-\|
-
-Ethics approval, per-geography privacy regimes, controllers and processors, NDAs and breach procedures cannot be improvised across jurisdictions
-
-\|
-
-Ethics approval, legal bases and processor clauses covering every jurisdiction in the plan, not only the coordinating institution's
-
-\|
-|
-
-2.3 Design the social contract, and its logistics
-
-\|
-
-Before the field opens
-
-\|
-
-Undelivered returns cost field trust; the currency changes over a multi-year project
-
-\|
-
-Videos, case web pages, certificates - run as a supply chain
-
-\|
-|
-
-2.4 Write the follow-up into the contract
-
-\|
-
-At contracting
-
-\|
-
-Incomplete cases become unrecoverable once the interviewer has been paid and released
-
-\|
-
-Interviewer clause, plus a warning to the initiative at the visit
-
-\|
-|
-
-2.5 Gate payment on quality, not on delivery
-
-\|
-
-At contracting
-
-\|
-
-Payment on upload removes the only leverage that exists over data quality
-
-\|
-
-Invoice triggers a QC report; payment follows confirmed quality
-
-\|
-|
-
-**3. Keep the core central, and partner for the rest**
-
-\|  |
-|
-
-3.1 Make the central team the principal
-
-\|
-
-At organisational design
-
-\|
-
-The relationship with the initiative leaves with the interviewer
-
-\|
-
-The central institution confirms appointments and owns the relationship
-
-\|
-|
-
-3.2 Find partners to operate at scale
-
-\|
-
-Before country launch
-
-\|
-
-Terms negotiated after the data exists are a different and much weaker conversation
-
-\|
-
-Shared ownership, granted usage, or paid collection - matched to size and objective
-
-\|
-|
-
-3.3 Test interviewers, and train for teamwork
-
-\|
-
-At recruitment, then continuously
-
-\|
-
-Credentials do not predict protocol compliance; non-compliance is otherwise discovered downstream, case by case
-
-\|
-
-Of 30 tested in the proof of concept, few retained
-
-\|
-|
-
-**4. Manage throughput, not speed**
-
-\|  |
-|
-
-4.1 Put the automation line where the configuration requires
-
-\|
-
-At pipeline build; revisable
-
-\|
-
-Automating judgement destroys quality; leaving the mechanical manual destroys the budget
-
-\|
-
-Savings up to some 96% per automated step
-
-\|
-|
-
-4.2 Sort transcription and translation before scaling, especially on small languages
-
-\|
-
-Before scaling up
-
-\|
-
-Transcription is the throat of the pipeline; a slow chain clogs everything upstream, including interviewers awaiting clearance and payment
-
-\|
-
-Small languages need engine shopping and native-speaker review; mixed-language speech is common
-
-\|
-|
-
-4.3 Plan for over-acceleration, not only for delay
-
-\|
-
-Weekly, once running
-
-\|
-
-A field surge produces a backlog that degrades quality control and delays payment, damaging the relationships that produced it
-
-\|
-
-Monthly closures capped to what the central team can absorb
-
-\|
-|
-
-**5. The corpus is the product**
-
-\|  |
-|
-
-5.1 Fix file naming and provenance on day one
-
-\|
-
-Day one; not retrofittable
-
-\|
-
-Approximation is survivable at tens of files and a guarantee of problems at hundreds
-
-\|
-
-Immutable originals; every transformation logged with model and version
-
-\|
-|
-
-5.2 Track the funnel from the start
-
-\|
-
-Day one; not retrofittable
-
-\|
-
-Without the rejected leads there is no evidence of what the corpus is representative of
-
-\|
-
-45% scouted → chosen; 50% chosen → closed case
-
-\|
-|  |  |  |  |  |
 
 # Appendix 2. The Socioscope data pipeline, step by step
 
