@@ -8,6 +8,7 @@ articles:
   - netboards
   - socioscope
   - 9-0-wprn21-closing-panel
+  - the-function-of-meso-structures-in-food-transition-processes
 editorial_fellow: true
 exerpt: ''
 firstname: Helga
@@ -18,6 +19,7 @@ issue:
   - content/issues/paris-ias-ideas-2024.md
   - content/issues/paris-ias-projects.md
   - content/issues/wprn21-videos.md
+  - content/issues/paris-ias-ideas-2026.md
 language:
   - English
 lastname: Nowotny

@@ -22,6 +22,7 @@ articles:
   - 1-0-0-lahlou-intro-session-livres
   - 0-1-wprn21-welcome-conference
   - 9-0-wprn21-closing-panel
+  - the-function-of-meso-structures-in-food-transition-processes
 categories:
   - content/categories/WPRN21.md
   - content/categories/Fellows.md
@@ -51,6 +52,7 @@ issue:
   - content/issues/agir-en-temps-de-crise.md
   - content/issues/hceres-pfue-2022.md
   - content/issues/wprn21-videos.md
+  - content/issues/paris-ias-ideas-2026.md
 language:
   - English
   - ''

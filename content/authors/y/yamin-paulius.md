@@ -4,18 +4,22 @@ articles:
   - netboards
   - socioscope
   - 8-0-wprn21-keynote-8
+  - the-function-of-meso-structures-in-food-transition-processes
 exerpt: ''
 firstname: Paulius
 is_institution: false
 issue:
   - content/issues/paris-ias-projects.md
   - content/issues/wprn21-videos.md
+  - content/issues/paris-ias-ideas-2026.md
 language:
   - English
 lastname: Yamin
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
+  - institution: Harvard Kennedy School of Government
+    positions: []
   - institution: Paris Institute For Advanced Study
     positions:
       - Scientific Director

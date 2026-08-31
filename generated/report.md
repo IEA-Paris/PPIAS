@@ -27,6 +27,7 @@ combinedInstitutions:
           - 1-0-0-lahlou-intro-session-livres
           - 0-1-wprn21-welcome-conference
           - 9-0-wprn21-closing-panel
+          - the-function-of-meso-structures-in-food-transition-processes
         value: >-
           Institut d'études avancées de Paris, France / London School of
           Economics, United Kingdom
@@ -61,16 +62,6 @@ combinedInstitutions:
         value: >-
           Conseil Européen pour les Langues / European Language Council
           (CEL/ELC), Austria
-  - author: Marie Personnaz
-    authorDoc: content/authors/p/personnaz-marie.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/p/personnaz-marie
-    institutions:
-      - articles:
-          - MOSCO_2016_13_de-la-polarisation-a-la-radicalisation
-        value: >-
-          Paris Ouest Nanterre-la Défense University / Centre Edgar Morin IIAC
-          EHESS-CNRS, France
   - author: Babette Gekeler
     authorDoc: content/authors/g/gekeler-babette.md
     cmsLink: >-
@@ -82,6 +73,16 @@ combinedInstitutions:
         value: >-
           Institute for Medical Psychology / Charité University Hospitals,
           Germany
+  - author: Marie Personnaz
+    authorDoc: content/authors/p/personnaz-marie.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/p/personnaz-marie
+    institutions:
+      - articles:
+          - MOSCO_2016_13_de-la-polarisation-a-la-radicalisation
+        value: >-
+          Paris Ouest Nanterre-la Défense University / Centre Edgar Morin IIAC
+          EHESS-CNRS, France
   - author: Béatrice Hibou
     authorDoc: content/authors/h/hibou-beatrice.md
     cmsLink: >-
@@ -132,6 +133,14 @@ combinedInstitutions:
           - >-
             EneTran_2016_06_comment-les-collectivites-territoriales-francaises-se-saisissent-elles-du-theme-de-la-transition-energetique
         value: Sciences Po / CSO, France
+  - author: Thomas Reverdy
+    authorDoc: content/authors/r/reverdy-thomas.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
+    institutions:
+      - articles:
+          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
+        value: PACTE / Université de Grenoble, France
   - author: Pauline Gabillet
     authorDoc: content/authors/g/gabillet-pauline.md
     cmsLink: >-
@@ -143,14 +152,6 @@ combinedInstitutions:
         value: >-
           Laboratoire Techniques Territoires et Societes (LATTS) / Université
           Gustave Eiffel, France
-  - author: Thomas Reverdy
-    authorDoc: content/authors/r/reverdy-thomas.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
-    institutions:
-      - articles:
-          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
-        value: PACTE / Université de Grenoble, France
   - author: Olivier Coutard
     authorDoc: content/authors/c/coutard-olivier.md
     cmsLink: >-
@@ -236,7 +237,7 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-createdAt: 2026-8-17 23:24:9
+createdAt: '2026-8-31 12:47:41'
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
@@ -299,9 +300,6 @@ missingReferences:
     - Vellend, 2019)
     - (Vellend, 2007)
     - (see Barker & Fraser, 2023
-    - (e.g., Schwartz & Corzo, 2015)
-    - (Lansing, 1994)
-    - (Suchikova et al., 2025)
   agentic-ai-in-data-commons-and-glam-what-role-for-the-model-context-protocol:
     - '@Paris'
   ai-and-the-illusion-of-control:
@@ -702,6 +700,10 @@ missingReferences:
     - >-
       "Liminality", Performascope: Interdisciplinary Lexicon of Performance and
       Research-Creation, Grenoble: Université Grenoble Alpes, 2021
+  the-function-of-meso-structures-in-food-transition-processes:
+    - (Science Custom Publishing/AAAS, 2026)
+    - (Fuenfschilling & Truffer, 2014)
+    - (Montbiot, 2022)
   the-power-of-moral-conviction-how-it-catalyzes-dogmatism-intolerance-and-violence:
     - (Jackson et al., 2024)
     - (Curry et al., 2009)
@@ -824,6 +826,7 @@ spellingVariants:
     kept: London School of Economics
     variants:
       - London School of Economics, United Kingdom
+      - London School of Economics and Political Science
       - London School of Economics and Political Science , United Kingdom
   - author: Sara Guindani
     authorDoc: content/authors/g/guindani-sara.md
@@ -839,6 +842,20 @@ spellingVariants:
     kept: Queen's University Belfast, Northern Ireland.
     variants:
       - Queen's University Belfast, Northern Ireland
+  - author: Helga Nowotny
+    authorDoc: content/authors/n/nowotny-helga.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/n/nowotny-helga
+    kept: Complexity Science Hub
+    variants:
+      - Complexity Science Hub, Vienna
+  - author: Paulius Yamin
+    authorDoc: content/authors/y/yamin-paulius.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/y/yamin-paulius
+    kept: Paris Institute For Advanced Study
+    variants:
+      - Paris Institute for Advanced Study
   - author: Simon Luck
     authorDoc: content/authors/l/luck-simon.md
     cmsLink: >-
