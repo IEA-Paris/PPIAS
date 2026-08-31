@@ -289,11 +289,11 @@ In Phase 1, in exchange for their time and access, participating interviewees re
 
 In return, the research team obtained the in-depth interview, a filmed tour of the facility, access to confidential business information, sustainability reports and supplementary materials, and the signed informed consent form and image-rights authorisations. Rewarding data providers for their participation has always been a concern for social scientists (e.g., Mauss, 1990; Clark, 2008; Maiter et al., 2008; Singer & Ye, 2013) and some practitioners form local communities of knowledge and practice (Lave & Wenger, 1991). The Socioscope website is an attempt to build an online community that gives initiatives the visibility they look for, and to maintain a relationship that may make it easier to collect more data from them later.
 
-# 3       Data enrichment and release for analysis
+## 3. Data enrichment and release for analysis
 
 Collection and curation do not end when analysis begins. Analysis often reveals that the Corpus needs further treatment, and additional data. The pipeline is therefore a cycle: collect, curate, analyse, find what is missing, enrich, analyse again. This section describes the layer that supports this abductive movement between data and interpretation (Timmermans & Tavory, 2012).
 
-## 3.1      Corpus design
+### 3.1. Corpus design
 
 Data remain usable only as long as the institutions and practices that curate them. The cost of keeping data usable is chronically underestimated (Borgman, 2015), and the maintenance budget often non-existent. The e-science literature treats provenance (the derivation history of a data product from its original sources) as what makes computational results trustworthy, auditable and reproducible (Simmhan, Plale, & Gannon, 2005). This literature has largely ignored qualitative research, not because it does not apply, but because hand-made corpora were small enough to live in one researcher's memory and filing cabinet. At the Socioscope's scale this is no longer possible: interviews need versioned releases, audit trails and provenance tracking, as does the process itself. 
 
@@ -303,15 +303,15 @@ Once we have uploaded a file, the Gate curates it into the Corpus. It pseudonymi
 
 The composition of the case folder (collected material, metadata and logs, and analysis products) is detailed in Appendix 3 (supplementary material).
 
-## 3.2      Preserving provenance
+### 3.2. Preserving provenance
 
 One of the coming problems of research in the era of AI is fake data. The provenance of the data will become a key component of research quality, and data control an essential part of scientific work and its validation. That is why we keep evidence of what we call, by analogy with museums, "data provenance": where, when, and how the data were harvested and curated, so that any extract can carry a label. Here is an example of a labelled speech turn (this one is short; some run much longer):
 
 CH003_0000149, CH-003-2024-01-01-INTERVIEW_AUDIO-AUDIO-1-0.1.0-EU-FR-EN_deepl.csv, 12, SPEAKER_01, Olivia B., interviewee, CH-003-2024-01-01-INTERVIEW_AUDIO-AUDIO-1-0.0.1-EU-FR-EN.m4a | Olivia B., 71.405, 84.1, 00:01:11.405, 00:01:24.100, fr,
 
-*"On entretient l'ensemble du quartier des vergers, donc c'est un gros quartier de à peu près 3000 habitants sur à peu près 16 hectares, on a 16 hectares en entretien."*
-
-*"We maintain the entire Vergers neighbourhood, which is a large neighbourhood with about 3,000 residents spread over roughly 16 hectares."*
+> *"On entretient l'ensemble du quartier des vergers, donc c'est un gros quartier de à peu près 3000 habitants sur à peu près 16 hectares, on a 16 hectares en entretien."*
+>
+> *"We maintain the entire Vergers neighbourhood, which is a large neighbourhood with about 3,000 residents spread over roughly 16 hectares."*
 
 (The capitalised "Vergers" was recognised as a proper name during transcription.)
 
@@ -321,21 +321,21 @@ The links back to the source (see Corpus design) are used more than expected: be
 
 Tracing matters for two reasons. First, integrity. Tools change much faster than the data (we change LLMs and their versions regularly), so the project must be able to re-run any step on the untouched originals with better tools. This is only safe if originals are never overwritten and every transformation is recorded. Second, traceability. Each enrichment carries its own provenance, so the Corpus accumulates value, not just files. Having the data is not enough; we must know when and how each piece was acquired and modified. Organisations change, and a consent form may turn out to have been signed by someone who has since left. Comparability and data quality must therefore be actively maintained; every point of access or treatment can introduce error. The same discipline applies to the project's own records; the resulting documentation library is described with the pipeline's outputs below.
 
-## 3.3      Correcting upstream and releasing for analysis
+### 3.3. Correcting upstream and releasing for analysis
 
 The chain is not purely linear. Quality control sometimes finds something that requires going back upstream to complete or correct: a misspelled proper name, or a data point never properly recorded. The pipeline is better described as a linear stream with quality control at each step, several correction loops, and an overall layer of access control and data management. The detailed pipeline (the numbered events with, for each, the actor, the action performed and the file output) is provided as Appendix 2 (supplementary material).
 
 For analysis, the Gate delivers a scoped, filtered retrieval on request rather than raw files. It can freeze an immutable, citable snapshot of the Corpus, so that an analysis rests on a fixed, reproducible state. It controls access and exports, and every extraction is logged against a whitelist. This is where the pipeline connects to analysis and where the loop begins: analysis routinely sends cases back up the chain for enrichment that becomes necessary only once interpretation is under way.
 
-## 3.4      The Socioscope Gate, Software Development Kit, SDK: tracing research inputs and prompts
+### 3.4. The Socioscope Gate, Software Development Kit, SDK: tracing research inputs and prompts
 
 Provenance discipline (see Preserving provenance) is only as strong as its weakest link, and once a snapshot is handed over for analysis the link is easy to lose. Left to themselves, researchers running an LLM over the data save the result wherever they happen to, with no durable record of which prompt, which model version or which subset of cases produced it. Provenance then lives in the researcher's head, notebook or chat thread: recoverable today, gone when someone asks six months later what produced a finding.
 
-We first dealt with this through the dashboard, now we do it with the Gate which logs everything. We are exploring developing a specific SDK
+We first dealt with this through the dashboard, now we do it with the Gate which logs everything. We are exploring developing a specific SDK.
 
-# 4       The Socioscope installation: equipment, personnel and processes
+## 4. The Socioscope installation: equipment, personnel and processes
 
-## 4.1      Equipment
+### 4.1. Equipment
 
 The equipment layer covers three needs: what the field and the central team need to collect the data; what the data need to be stored, processed and curated; and what the social contract needs to be fulfilled.
 
@@ -352,6 +352,8 @@ Field equipment. Each interviewer operates a standardised audiovisual kit. In ph
 **Premises**. The core Socioscope team members are based at the Paris Institute for Advanced Study, which hosts the project administratively, and the Vienna Complexity Science Hub. The central team that oversees data collection has an open space and neighbouring offices in the premises of the Paris IAS. This proximity matters for handling the technical and logistical problems of data collection.
 
 Figure 1. Workstations of the central data-collection team in Paris.
+
+![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig1.jpg)
 
 **Software.** The Gate (described in The Corpus and the Gate above) is, in equipment terms, the project's central software infrastructure. Its modules: selective access control, the data processing pipeline, web scrapers to enrich cases, and the provenance/logging system.
 
