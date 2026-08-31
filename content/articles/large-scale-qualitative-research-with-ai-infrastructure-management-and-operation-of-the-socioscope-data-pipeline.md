@@ -754,43 +754,43 @@ The share of the pipeline that is automated is not a matter of taste, nor of whi
 
 Test the full chain - interviewers, equipment, transcription, upload, quality control - on tens of cases before scaling to hundreds. A minor problem takes serious dimensions at scale. The proof of concept produces two things nothing else can. First, a measured unit cost and cycle time, which converts the sizing assumption into a defensible budget. Second, clarity about what the analysis will actually need: our own first months were slowed by exploring which data were required, because at scale a question that was not asked cannot be re-asked. Extraction targets must be fixed before the field opens, and the proof of concept is where they get fixed.
 
-●**2. Contract the future, not the fieldwork**
+● **2. Contract the future, not the fieldwork**
 
 At scale, contracts are infrastructure. Procedures can be corrected mid-flight; contracts cannot be renegotiated once the data exists. This family covers everything that has to be written down before the first piece of data is collected.
 
-●**2.1. Negotiate data retention before collecting**
+● **2.1. Negotiate data retention before collecting**
 
 The default three-to-five-year period silently caps the useful life of the corpus; we obtained fifteen. The decision is taken once, before collection, and it fixes how long the dataset can be exploited - including by researchers who are not yet on the project.
 
-●**2.2. Build the legal and ethical infrastructure ahead of the field, at the scale of the project**
+● **2.2. Build the legal and ethical infrastructure ahead of the field, at the scale of the project**
 
 You are working with people, and the obligations that creates do not scale by improvisation. Ethics committee approval, privacy regimes that differ by geography, named data controllers and processors, non-disclosure and confidentiality clauses for staff, interviewers and partners, and a breach procedure must all be drafted, approved and in place before collection opens - and sized for every jurisdiction in the plan, not only for the country of the coordinating institution. This is the direct counterpart of 2.1: the longer the data is meant to live, and the more territories it comes from, the more of this has to be right the first time.
 
-●**2.3. Design the social contract, and its logistics**
+● **2.3. Design the social contract, and its logistics**
 
 Decide what participants get in return, and treat delivery - videos, web pages, certificates, shipping - as a supply chain rather than a courtesy. Expect its currency to change over the years: what was attractive to an initiative at the start of a multi-year project is rarely what is attractive at the end.
 
-●**2.4. Write the follow-up into the contract**
+● **2.4. Write the follow-up into the contract**
 
 Interviewers agree from the outset that incomplete data means contacting the case again, and the initiative is warned at the visit that a short follow-up may be needed. Retrofitting this obligation once fieldwork is under way is expensive and frequently impossible.
 
-●**2.5. Gate payment on quality, not on delivery**
+● **2.5. Gate payment on quality, not on delivery**
 
 An interviewer's invoice triggers a quality-control report; payment follows confirmed quality, not completion of upload. This single clause does more for data quality at scale than any amount of downstream correction.
 
-●**3. Keep the core central, and partner for the rest**
+● **3. Keep the core central, and partner for the rest**
 
 Scaling is an organisational problem before it is a logistical one. The question is not how many interviewers can be hired, but what must remain in the hands of the central team and what can be delegated to institutions or people that are already present where the data is.
 
-●**3.1. Make the central team the principal**
+● **3.1. Make the central team the principal**
 
 The central institution, not the interviewer, confirms appointments and owns the relationship with the initiative. Interviewers leave; the relationship must survive them, because the initiative will be contacted again - for follow-up, for validation, and in later phases of the research.
 
-●**3.2. Find partners to operate at scale**
+● **3.2. Find partners to operate at scale**
 
 A central team cannot itself be present in every geography, and should not try. Decide what is genuinely central - the protocol, quality control, the relationship with the initiative, and ownership of the corpus - and find the right partner for everything else. The form of the partnership follows the size and objective of the project: shared ownership of the data, granted rights of usage, or straightforward paid collection. Settle the terms before collection begins; renegotiating them once the data exists is a different and much weaker conversation.
 
-●**3.3. Test interviewers, and train for teamwork**
+● **3.3. Test interviewers, and train for teamwork**
 
 Experienced academics often do not follow protocols: of thirty tested in our proof of concept, very few were retained. Selection must be empirical rather than by credential, training must target teamwork and protocol compliance rather than interviewing skill alone, and compliance must be controlled continuously rather than assumed.
 
