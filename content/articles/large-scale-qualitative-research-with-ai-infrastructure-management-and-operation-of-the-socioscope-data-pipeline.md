@@ -507,7 +507,7 @@ Note that the Socioscope's social contract is project-specific. Other teams, 
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig1.jpg)
 
-
+![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig6.2.png)
 
 # 6       Variations and costs of the pipeline
 
