@@ -375,7 +375,7 @@ Most important, it has a search engine and filters to find initiatives. Users ca
 
 It was a shared workbook with one sheet per geography (54 country sheets, 3,247 dated lead rows since 2023), one row per lead, tracking each case from scouting through validation, fieldwork and closure: status, dates, actors, payment validation. Aggregate KPI sheets summarise progress per country; the pipeline metrics in Appendix 4 are extracted from this instrument.
 
-**\*Figure 3.** Extract of the central dashboard.*
+***Figure 3.** Extract of the central dashboard.*
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig3.png)
 
@@ -385,7 +385,7 @@ It was a shared workbook with one sheet per geography (54 country sheets, 3,247 
 
 The Socioscope needed many people in the data collection phase: some 80 interviewers in the field, regional managers and gatekeepers, a core coordination group across Paris and Vienna, three central field managers constantly in touch with regional coordinators and field interviewers, audiovisual staff, computer scientists, subcontractors, with 2 full-time data-collection members (including 1 with legal training) and a quality-control officer. 
 
-**\*Figure 4.** Structure of the Socioscope project team for data collection.*
+***Figure 4.** Structure of the Socioscope project team for data collection*.
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig4.png)
 
@@ -433,7 +433,7 @@ The sections above describe the foundations of the pipeline; this section follow
 
 The following figure summarises the main path of the data through the pipeline. As described above, quality control runs at every step, with loops when correction is needed.
 
-**\*Figure 5.** The main path of data through the Socioscope pipeline.*
+***Figure 5.** The main path of data through the Socioscope pipeline.*
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig5.png)
 
