@@ -445,7 +445,7 @@ A case begins as a candidate initiative identified by the Socioscope team and it
 
 The Gate scrapes the public web for a first description, and an LLM condenses it into a short abstract, enough for the team to judge whether the initiative is worth studying. The team validates or not, and the Gate opens an initiative file and logs the status change ("Proposed" to "Validated" or "Non-validated"). Initiatives not selected, or that decline, are kept in the Corpus, not deleted, so that conversion rates can be calculated. The sampling frame is itself data: keeping the rejected and the unreachable is what allows reasoning later about coverage and bias.
 
-## 5.3      Enrolling and preparing
+### 5.3. Enrolling and preparing
 
 Once an initiative is validated, the team assembles the people and permissions needed to visit it. It looks for a suitable interviewer nearby, makes contact, collects availability and chooses one; no contract is signed until the case is confirmed. In parallel it contacts the initiative to gauge interest and obtain dates and an address. When both sides are willing, the case is assigned and the interviewer contracted. The contract includes the Gate-generated case description and objectives, so that the interviewer can prepare. The more the interviewer knows about the case, the better the interview and the richer the data: the interviewee adapts to the level of the interviewer. An ignorant interviewer gets superficial answers; an informed one asks better questions, and the interviewee, more interested, volunteers expert detail. 
 
@@ -453,7 +453,7 @@ A micro-level case is normally done by a local interviewer engaged and trained b
 
 The Socioscope central team (not the interviewer) coordinates and confirms the appointment. Two consent forms were generally offered - one for research use, one for communication and the platform, with the second one applying only when participants opted in to the communication and platform components. Equipment (e.g. video camera) is dispatched and readiness checked. The case moves through the stages of Interviewer Assigned, Interview Confirmed and Interview Guide Generated. The central team confirms the appointment so that it, not the interviewer, is identified as the principal for later exchanges (e.g. video clearance). Otherwise the initiative knows only the interviewer, who may have left the Socioscope by the time of analysis. We had not anticipated this at the start, and it made it difficult to reconnect with some initiatives later. 
 
-## 5.4      Interviews: initial contact, interview and debrief
+### 5.4. Interviews: initial contact, interview and debrief
 
 The interviewer travels to the site and conducts a long, open interview recorded in audio and video, inviting the interviewee to speak freely in their own terms. They also record a short video for the social contract, film the setting, and gather supplementary material: documents provided by the initiative and a scrape of its website. The short video follows a standard series of questions, to make editing easier, and is offered to the interviewee as a gift. All the collected material is uploaded to the Gate, which authorises the upload, provenance-stamps, renames the files, and writes an audit log (status Interview Materials Uploaded). During the proof of concept we recorded everything on video. Now only the facility tour and the short interview are filmed; the long interview is audio only. This spares interviewers the upload of massive video files, a problem where internet is slow, and spares us processing files that, in hindsight, added little. 
 
@@ -463,7 +463,7 @@ After the visit, the central team in Paris held a debriefing session with the in
 
 Transcription and quality control of the audio must be fast, otherwise the debrief is delayed. This happened at the start, when the IT team was solving technical issues on the fly and the pipeline clogged. We advise teams attempting comparable projects to sort out that part of the chain before scaling up collection. 
 
-## 5.5      Upload, formatting and processing
+### 5.5. Upload, formatting and processing
 
 As soon as interviewers collect data, they log into the Gate and upload them into the case folder assigned to them. Uploaded material first passes a basic file check (correct format, plausible size), then is renamed according to the file-name convention: 
 
@@ -479,7 +479,7 @@ File naming must be thought through: with hundreds of files, approximation is a 
 
 In hindsight, it is essential to be exacting in collecting and storing all metadata at this stage (who downloaded which files when, whether the consent forms are fully readable, and so on). Each mistake, missing value or oversight triggers a long inquiry later to fill the gap.
 
-## 5.6      Quality control and payment clearance
+### 5.6. Quality control and payment clearance
 
 Quality control is not a final gate but runs the length of the pipeline, because errors cascade if they are not caught early. A misspelled proper name, for instance, appears under several spellings at anonymisation, which then tags several entities where there is one. 
 
@@ -489,7 +489,7 @@ For the first batch of 300 cases, the project ran on the order of fifty control 
 
 Quality control gates the payment of interviewers, video editors and others. An invoice does not release payment by itself. It triggers an AI-generated quality-control report on the interview, produced from the debrief and the uploaded material, which goes to the PIs (or their delegate) for clearance. Payment follows confirmed quality, not completion of upload. Interviewers can see the quality assessment of their uploads in the Gate, so they know when to expect payment; formal scoring rules and cut-offs are still being refined. Receipt of the debrief material is acknowledged to the interviewer, with what happens next and when. International payments can be slow, and an acknowledgement of reception helps. 
 
-## 5.7      Fulfilling the social contract
+### 5.7. Fulfilling the social contract
 
 Alongside the curation chain runs the return promised to the initiative and other contributors: payment of the interviewer, a short video, and a web page for the initiative. The video strand caused a disproportionate share of problems in Phase 1, so its steps are set out here in more detail.
 
@@ -503,9 +503,11 @@ A thank-you and a small goodies package close the visit, and a final message inv
 
 Note that the Socioscope's social contract is project-specific. Other teams, and we ourselves later, may have to design another one. The video clip as a gift worked well in 2024-2026; it may not be enough in the coming years, when making videos becomes a widespread skill. 
 
-*Figure 6. Example of an initiative page on the Socioscope website.*
+***Figure 6.** Example of an initiative page on the Socioscope website.*
 
-Figure 6. Example of an initiative page on the Socioscope website (continued)
+![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig1.jpg)
+
+
 
 # 6       Variations and costs of the pipeline
 
