@@ -566,8 +566,6 @@ As of July 2026, the latest analysable Corpus (version 0.1.0) covers 686 cases i
 | 21 other countries | 121     |
 | **Total**          | **686** |
 
-
-
 The language distribution reflects the sampling: Spanish accounts for about half of the speech turns (51%), English for a third (32%), French for 12% and Danish for 3%, with a dozen further languages - Swahili, Russian, Polish, Dutch, Georgian, Cantonese, Japanese, Tagalog among them - making up the remainder.
 
 **What is inside each case. The material is substantial:** a filmed setting and facility tour, a long audio interview, a short video interview based on identical questions, supplementary material scraped from the initiative's website and supplied by the interviewees, and a recorded debrief with the interviewer. And then the data documenting provenance of the raw empirical material and its subsequent transformations. The amount of raw data collected (in this snapshot of July 2026) is about 140 hours of video and some 1,290 hours of audio, plus supplementary material. The transcripts currently amount to about 450,000 speech turns and 12.6 million words in the original languages (12.1 million words in the machine-translated English layer). The debrief, an innovation of this pipeline, may in future be done partly by LLMs; we will test this in the future.
@@ -929,1010 +927,167 @@ For each of the steps in the pipeline, this table shows how the step would be do
 
 Source: "Procedure 3.1 – Appendix 1 – Case Log" (Master dashboard, 54 country sheets; snapshot exported 4 July 2026, last modified 25 June 2026. Extraction script: entry date = the case row's Year/Month columns; closure = "Year/Month of Closing the Case"; status filter = "OK - Closed". Dates are recorded at month granularity. 54 cases carried over from the 2023 proof of concept lack a closing month and are excluded from duration statistics.
 
-## A4.1 Volume and funnel
+#### A4.1 Volume and funnel
 
 The dashboard lists 3,247 dated lead/case rows across all country sheets. 3,247 entered the master log as leads; 45% of leads passed validation; 731 cases were closed at snapshot (50% of validated), with conversion up to 67% in mature territories (Colombia).
 
-## A4.2 Cycle time from log entry to closure
+#### A4.2 Cycle time from log entry to closure
 
 Median 2 months; mean 2.97; 70% of cases close within three months of entering the log. Distribution (months → cases):
 
-\|
-
-**Months**
-
-\|
-
-**0**
-
-\|
-
-**1**
-
-\|
-
-**2**
-
-\|
-
-**3**
-
-\|
-
-**4**
-
-\|
-
-**5**
-
-\|
-
-**6**
-
-\|
-
-**7**
-
-\|
-
-**8**
-
-\|
-
-**9**
-
-\|
-
-**10**
-
-\|
-
-**11**
-
-\|
-
-**12**
-
-\|
-
-**13**
-
-\|
-
-**15**
-
-\|
-|
-
-**Cases**
-
-\|
-
-33
-
-\|
-
-149
-
-\|
-
-180
-
-\|
-
-113
-
-\|
-
-70
-
-\|
-
-42
-
-\|
-
-36
-
-\|
-
-18
-
-\|
-
-17
-
-\|
-
-9
-
-\|
-
-2
-
-\|
-
-4
-
-\|
-
-2
-
-\|
-
-1
-
-\|
-
-1
-
-\|
-
-## A4.3 Cycle time by country (n ≥ 10 closed cases)
-
-\|
-
-**Country**
-
-\|
-
-**Closed cases (dated)**
-
-\|
-
-**Median months**
-
-|     |
-| --- |
-
-\|
-
-**Colombia**
-
-\|
-
-161
-
-\|
-
-3
-
-\|
-|
-
-**France**
-
-\|
-
-79
-
-\|
-
-3
-
-\|
-|
-
-**Argentina**
-
-\|
-
-59
-
-\|
-
-3
-
-\|
-|
-
-**Kenya**
-
-\|
-
-50
-
-\|
-
-2.0
-
-\|
-|
-
-**Denmark**
-
-\|
-
-45
-
-\|
-
-4
-
-\|
-|
-
-**Peru**
-
-\|
-
-41
-
-\|
-
-2
-
-\|
-|
-
-**Spain**
-
-\|
-
-36
-
-\|
-
-2.0
-
-\|
-|
-
-**Costa Rica**
-
-\|
-
-34
-
-\|
-
-3.0
-
-\|
-|
-
-**Mexico**
-
-\|
-
-29
-
-\|
-
-1
-
-\|
-|
-
-**Ecuador**
-
-\|
-
-28
-
-\|
-
-2.5
-
-\|
-|
-
-**South Africa**
-
-\|
-
-21
-
-\|
-
-1
-
-\|
-|
-
-**Great Britain**
-
-\|
-
-16
-
-\|
-
-2.0
-
-\|
-|
-
-**India**
-
-\|
-
-14
-
-\|
-
-1.5
-
-\|
-|
-
-**Morocco**
-
-\|
-
-14
-
-\|
-
-3.0
-
-\|
-|
-
-**17 other countries**
-
-\|
-
-50
-
-\|
-
-N/A
-
-\|
-
-## A4.4 Monthly closures
-
-\|
-
-**Month**
-
-\|
-
-**Cases closed**
-
-\|
-
-**Note**
-
-|     |
-| --- |
-
-\|
-
-**2024-03**
-
-\|
-
-2
-
-\|  |
-|
-
-**2024-04**
-
-\|
-
-4
-
-\|  |
-|
-
-**2024-05**
-
-\|
-
-10
-
-\|  |
-|
-
-**2024-06**
-
-\|
-
-9
-
-\|  |
-|
-
-**2024-07**
-
-\|
-
-4
-
-\|  |
-|
-
-**2024-08**
-
-\|
-
-4
-
-\|  |
-|
-
-**2024-09**
-
-\|
-
-20
-
-\|  |
-|
-
-**2024-10**
-
-\|
-
-10
-
-\|  |
-|
-
-**2024-11**
-
-\|
-
-20
-
-\|  |
-|
-
-**2024-12**
-
-\|
-
-16
-
-\|  |
-|
-
-**2025-01**
-
-\|
-
-15
-
-\|  |
-|
-
-**2025-02**
-
-\|
-
-43
-
-\|  |
-|
-
-**2025-03**
-
-\|
-
-39
-
-\|  |
-|
-
-**2025-04**
-
-\|
-
-65
-
-\|  |
-|
-
-**2025-05**
-
-\|
-
-101
-
-\|  |
-|
-
-**2025-06**
-
-\|
-
-110
-
-\|
-
-peak
-
-\|
-|
-
-**2025-07**
-
-\|
-
-58
-
-\|  |
-|
-
-**2025-08**
-
-\|
-
-31
-
-\|  |
-|
-
-**2025-09**
-
-\|
-
-29
-
-\|  |
-|
-
-**2025-10**
-
-\|
-
-27
-
-\|  |
-|
-
-**2025-11**
-
-\|
-
-24
-
-\|  |
-|
-
-**2025-12**
-
-\|
-
-28
-
-\|  |
-|
-
-**2026-01**
-
-\|
-
-7
-
-\|  |
-|
-
-**2026-02**
-
-\|
-
-1
-
-\|  |
+| Months | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 15  |
+| ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cases  | 33  | 149 | 180 | 113 | 70  | 42  | 36  | 18  | 17  | 9   | 2   | 4   | 2   | 1   | 1   |
+
+#### A4.3 Cycle time by country (n ≥ 10 closed cases)
+
+| Country            | Closed cases (dated) | Median months |
+| ------------------ | -------------------- | ------------- |
+| Colombia           | 161                  | 3             |
+| France             | 79                   | 3             |
+| Argentina          | 59                   | 3             |
+| Kenya              | 50                   | 2.0           |
+| Denmark            | 45                   | 4             |
+| Peru               | 41                   | 2             |
+| Spain              | 36                   | 2.0           |
+| Costa Rica         | 34                   | 3.0           |
+| Mexico             | 29                   | 1             |
+| Ecuador            | 28                   | 2.5           |
+| South Africa       | 21                   | 1             |
+| Great Britain      | 16                   | 2.0           |
+| India              | 14                   | 1.5           |
+| Morocco            | 14                   | 3.0           |
+| 17 other countries | 50                   | N/A           |
+
+#### A4.4 Monthly closures
+
+| Month   | Cases closed | Note |
+| ------- | ------------ | ---- |
+| 2024-03 | 2            |      |
+| 2024-04 | 4            |      |
+| 2024-05 | 10           |      |
+| 2024-06 | 9            |      |
+| 2024-07 | 4            |      |
+| 2024-08 | 4            |      |
+| 2024-09 | 20           |      |
+| 2024-10 | 10           |      |
+| 2024-11 | 20           |      |
+| 2024-12 | 16           |      |
+| 2025-01 | 15           |      |
+| 2025-02 | 43           |      |
+| 2025-03 | 39           |      |
+| 2025-04 | 65           |      |
+| 2025-05 | 101          |      |
+| 2025-06 | 110          | peak |
+| 2025-07 | 58           |      |
+| 2025-08 | 31           |      |
+| 2025-09 | 29           |      |
+| 2025-10 | 27           |      |
+| 2025-11 | 24           |      |
+| 2025-12 | 28           |      |
+| 2026-01 | 7            |      |
+| 2026-02 | 1            |      |
 
 Annual totals: 99 (2024), 570 (2025), 8 (Jan--Feb 2026). 
 
-## A4.5 Person-days estimate (order of magnitude)
+#### A4.5 Person-days estimate (order of magnitude)
 
 Fieldwork: the budgeting instrument allocates four and a half person-days per completed case, all-inclusive. The 686 corpus cases measured here therefore represent ≈ 3,100 contracted field person-days (≈ 14 person-years at 220 working days/year). This is a lower bound: it excludes scouting effort sunk into the majority of the ~4,000 leads that never became completed cases.
 
-Central coordination: the central data-collection team (data-collection manager, secretariat and panel manager, three fieldwork managers) ≈ 5 FTE over the 24 months of active collection (March 2024 -- February 2026) ≈ 2,200 person-days. Video editing: at the proof-of-concept rate of 5--7 hours per case, ≈ 700 edited videos ≈ 500--700 person-days.
+Central coordination: the central data-collection team (data-collection manager, secretariat and panel manager, three fieldwork managers) ≈ 5 FTE over the 24 months of active collection (March 2024 -- February 2026) ≈ 2,200 person-days. Video editing: at the proof-of-concept rate of 5–7 hours per case, ≈ 700 edited videos ≈ 500–700 person-days.
 
-Order of magnitude for the data-collection operation as a whole: ≈ 5,800--6,000 person-days (≈ 26--27 person-years), excluding the technical/AI team, the PIs, and Paris IAS administrative support. These estimates use designed loads (budgeted days, contract rates), not time sheets.
+Order of magnitude for the data-collection operation as a whole: ≈ 5,800–6,000 person-days (≈ 26–27 person-years), excluding the technical/AI team, the PIs, and Paris IAS administrative support. These estimates use designed loads (budgeted days, contract rates), not time sheets.
 
 Finally, note this evaluation does not include quality control, tech work, support personnel and the time of the PIs and Co-PIs.
 
-# Appendix 5. The project workforce, by category
+### Appendix 5. The project workforce, by category
 
 Compiled 4 July 2026, headcounts updated 29 August 2026, from the project's operational instruments: the Interviewers Tracker (snapshot 29 June 2026), the team organigram (Figure 4), and the 2024/2025 annual reports. Individual names are withheld; the full roster is held internally.
 
-\|
-
-**Category**
-
-\|
-
-**Headcount**
-
-\|
-
-**Contract / affiliation**
-
-\|
-
-**Geography**
-
-|     |
-| --- |
-
-\|
-
-**Principal investigators**
-
-\|
-
-2
-
-\|
-
-Academic appointments
-
-\|
-
-France/UK; Austria
-
-\|
-|
-
-**Co-investigators**
-
-\|
-
-3
-
-\|
-
-Academic appointments
-
-\|
-
-Austria, USA, UK/France
-
-\|
-|
-
-**Investigation support (PA, direction assistant)**
-
-\|
-
-2
-
-\|
-
-Institutional staff
-
-\|
-
-Austria, France
-
-\|
-|
-
-**Data collection manager**
-
-\|
-
-1
-
-\|
-
-Core-team contract
-
-\|
-
-France (global remit)
-
-\|
-|
-
-**CTO**
-
-\|
-
-1
-
-\|
-
-Core-team contract
-
-\|
-
-France
-
-\|
-|
-
-**AI expert**
-
-\|
-
-1
-
-\|
-
-Core team
-
-\|
-
-France
-
-\|
-|
-
-**Secretariat**
-
-\|
-
-1
-
-\|
-
-Institutional staff (Paris IAS)
-
-\|
-
-France
-
-\|
-|
-
-**Technical / validation collaborators (incl. interns)**
-
-\|
-
-8
-
-\|
-
-Service contracts, collaborations
-
-\|
-
-various
-
-\|
-|
-
-**Fieldwork managers**
-
-\|
-
-3
-
-\|
-
-Core-team contracts
-
-\|
-
-regional portfolios (Europe/Africa/Asia/USA; Latin America; Latin America/Asia)
-
-\|
-|
-
-**Interviewers - phase 1-2 tracker (incl. regional coordinators)**
-
-\|
-
-62
-
-\|
-
-Service contracts, via local subcontractors or direct
-
-\|
-
-~30 countries
-
-\|
-|
-
-**Interviewers - earlier phases (additional)**
-
-\|
-
-19
-
-\|
-
-PoC and phase-1 service contracts
-
-\|
-
-~12 countries
-
-\|
-|
-
-**Video editors / video-asset contractors**
-
-\|
-
-6
-
-\|
-
-Service contracts
-
-\|
-
-France, Colombia, Hong Kong
-
-\|
-|
-
-**Scientific Advisory Board**
-
-\|
-
-7
-
-\|
-
-Advisory; two meetings per year
-
-\|
-
-international
-
-\|
-|
-
-**Friends of the Socioscope (network)**
-
-\|
-
-14
-
-\|
-
-Informal network
-
-\|
-
-international
-
-\|
-|
-
-**Regional data-collection partner organisations**
-
-\|
-
-8
-
-\|
-
-Service contracts under local labour law
-
-\|
-
-Colombia/Peru/Argentina; UK/Africa; Costa Rica; Mexico; Kenya/Uganda; USA; Paraguay; South Africa
-
-\|
-|
-
-**Host / research institutions**
-
-\|
-
-3
-
-\|
-
-Paris IAS (host, admin, ethics); CSH Vienna; LSE
-
-\|
-
-France, Austria, UK
-
-\|
-|
-
-**Funder**
-
-\|
-
-1
-
-\|
-
-Grant (NOMIS Foundation)
-
-\|
-
-Switzerland
-
-\|
+| Category                                                       | Headcount | Contract / affiliation                                | Geography                                                                                         |
+| -------------------------------------------------------------- | --------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Principal investigators                                        | 2         | Academic appointments                                 | France/UK; Austria                                                                                |
+| Co-investigators                                               | 3         | Academic appointments                                 | Austria, USA, UK/France                                                                           |
+| Investigation support (PA, direction assistant)                | 2         | Institutional staff                                   | Austria, France                                                                                   |
+| Data collection manager                                        | 1         | Core-team contract                                    | France (global remit)                                                                             |
+| CTO                                                            | 1         | Core-team contract                                    | France                                                                                            |
+| AI expert                                                      | 1         | Core team                                             | France                                                                                            |
+| Secretariat                                                    | 1         | Institutional staff (Paris IAS)                       | France                                                                                            |
+| Technical / validation collaborators (incl. interns)           | 8         | Service contracts, collaborations                     | various                                                                                           |
+| Fieldwork managers                                             | 3         | Core-team contracts                                   | regional portfolios (Europe/Africa/Asia/USA; Latin America; Latin America/Asia)                   |
+| Interviewers - phase 1-2 tracker (incl. regional coordinators) | 62        | Service contracts, via local subcontractors or direct | ~30 countries                                                                                     |
+| Interviewers - earlier phases (additional)                     | 19        | PoC and phase-1 service contracts                     | ~12 countries                                                                                     |
+| Video editors / video-asset contractors                        | 6         | Service contracts                                     | France, Colombia, Hong Kong                                                                       |
+| Scientific Advisory Board                                      | 7         | Advisory; two meetings per year                       | international                                                                                     |
+| Friends of the Socioscope (network)                            | 14        | Informal network                                      | international                                                                                     |
+| Regional data-collection partner organisations                 | 8         | Service contracts under local labour law              | Colombia/Peru/Argentina; UK/Africa; Costa Rica; Mexico; Kenya/Uganda; USA; Paraguay; South Africa |
+| Host / research institutions                                   | 3         | Paris IAS (host, admin, ethics); CSH Vienna; LSE      | France, Austria, UK                                                                               |
+| Funder                                                         | 1         | Grant (NOMIS Foundation)                              | Switzerland                                                                                       |
 
 Reading note: the operational centre of gravity is small - a dozen core roles - while the field layer is wide (81 interviewers across two phases) and contractually mediated by eight regional partner organisations, consistent with the cost structure described in Variations and costs of the pipeline.
 
-# Appendix 6. Project personnel
+### Appendix 6. Project personnel
 
-Credit to persons engaged on the project side across the proof-of-concept (2022--23) and phase 1--2 collection (2024--26): investigators, management, field, technical, editorial and advisory roles. Interviewees and case participants are not listed.
+Credit to persons engaged on the project side across the proof-of-concept (2022–23) and phase 1–2 collection (2024–26): investigators, management, field, technical, editorial and advisory roles. Interviewees and case participants are not listed.
 
-## Principal investigators and co-investigators
+#### Principal investigators and co-investigators
 
-\-      Saadi Lahlou - Principal Investigator, Global
+* Saadi Lahlou - Principal Investigator, Global
+* Helga Nowotny - Principal Investigator, Global
+* Stefan Thurner - Co-investigator
+* Mirta Galesic - Co-investigator
+* Paulius Yamin - Co-investigator
+* Shriya Sekhsaria - Research & AI
+* Johannes Oster - Research & AI 
 
-\-      Helga Nowotny - Principal Investigator, Global
+#### Investigation support
 
-\-      Stefan Thurner - Co-investigator
+* Barbara Grassauer - PA to H. Nowotny
+* Irina Nosulenko - Direction assistant
 
-\-      Mirta Galesic - Co-investigator
+#### Central data collection team
 
-\-      Paulius Yamin - Co-investigator
+* Juan Pablo Caicedo - Data Collection Manager, Global
+* Valentine Fournand - Secretariat & Panel Manager
 
-\-      Shriya Sekhsaria - Research & AI
+#### Fieldwork managers
 
-\-      Johannes Oster - Research & AI 
+* Julia Movshovich - Fieldwork Manager, Europe, Africa, Asia, USA
+* Sofía de Vega - Fieldwork Manager, Latin America, Spain
+* María Mejía - Fieldwork Manager, Latin America, Asia
 
-## Investigation support
+#### Quality control
 
-\-      Barbara Grassauer - PA to H. Nowotny
+* Alex Cano - Quality controller (39-point completeness review)
 
-\-      Irina Nosulenko - Direction assistant
+#### Technical team
 
-## Central data collection team
+* Antoine Cordelois - CTO
+* Do Huynh - AI expert
+* Yohann Gablowski - AI expert
+* Eliot Boutherin - Developer
+* Solène De Bonis - UX/UI design
+* Annabelle Gouttebroze - Research intern; literature review study
+* Julian Madera - Research intern; literature review study
+* Kayode Adeniyi - Research intern, Developer
+* Jinyu Cong - intern, NLP evaluation; LLM validation study (2024)
+* Jeevya Aroun - intern, NLP evaluation; LLM validation study (2024)
 
-\-      Juan Pablo Caicedo - Data Collection Manager, Global
+#### Proof-of-concept team (2022--23)
 
-\-      Valentine Fournand - Secretariat & Panel Manager
+* Loïc Bonin - Fieldwork manager assistant (to Emmanuelle Honoré), proof-of-concept phase; process documentation
+* Emmanuelle Honoré - Fieldwork Manager and Interviewer, France (proof-of-concept phase); Interviewer, USA (2025)
 
-### Fieldwork managers
+#### Contractors (video, field services)
 
-\-      Julia Movshovich - Fieldwork Manager, Europe, Africa, Asia, USA
+* Hugo Saugier - Video editor (PoC and after)
+* Angélica María Pico Pedraza - Video assets (thumbnails, YouTube uploads), Colombia (Bucaramanga)
+* Karen Garcia -- Video editing
+* Celine Gurteen -- Video editing
+* Juliette Capus -- Video editing
+* Ricardo Talens - Video editing (case videos)
 
-\-      Sofía de Vega - Fieldwork Manager, Latin America, Spain
-
-\-      María Mejía - Fieldwork Manager, Latin America, Asia
-
-### Quality control
-
-\-      Alex Cano - Quality controller (39-point completeness review)
-
-## Technical team
-
-\-      Antoine Cordelois - CTO
-
-\-      Do Huynh - AI expert
-
-\-      Yohann Gablowski - AI expert
-
-\-      Eliot Boutherin - Developer
-
-\-      Solène De Bonis - UX/UI design
-
-\-      Annabelle Gouttebroze - Research intern; literature review study
-
-\-      Julian Madera - Research intern; literature review study
-
-\-      Kayode Adeniyi - Research intern, Developer
-
-\-      Jinyu Cong - intern, NLP evaluation; LLM validation study (2024)
-
-\-      Jeevya Aroun - intern, NLP evaluation; LLM validation study (2024)
-
-## Proof-of-concept team (2022--23)
-
-\-      Loïc Bonin - Fieldwork manager assistant (to Emmanuelle Honoré), proof-of-concept phase; process documentation
-
-\-      Emmanuelle Honoré - Fieldwork Manager and Interviewer, France (proof-of-concept phase); Interviewer, USA (2025)
-
-## Contractors (video, field services)
-
-\-      Hugo Saugier - Video editor (PoC and after)
-
-\-      Angélica María Pico Pedraza - Video assets (thumbnails, YouTube uploads), Colombia (Bucaramanga)
-
-\-      Karen Garcia -- Video editing
-
-\-      Celine Gurteen -- Video editing
-
-\-      Juliette Capus -- Video editing
-
-\-      Ricardo Talens - Video editing (case videos)
-
-## Interviewers and regional coordinators (phase 2 tracker)
+#### Interviewers and regional coordinators (phase 2 tracker)
 
 \-      Julian May - Regional Coordinator & interviewer, South Africa
 
