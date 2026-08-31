@@ -97,11 +97,9 @@ A failure in one trajectory leaves an error in shared state, and when a later ag
 
 Erroneous data, whether in prose or in a structured format, is difficult for an agent to detect. Its wrongness resides in its meaning, not its shape, so you cannot catch it by inspecting the message itself. An agent would have to compare it against something outside the message. That external validation can come from three places:
 
-\-       Reason: derive the claim from axioms by truth-preserving steps, or check it against a precise criterion. This is a formal specification.
-
-\-       The world: observe or measure the claim, or consult a source that did. This is an external oracle.
-
-\-       Other minds: pool independent judgments and trust the consensus. This is aggregation.
+* Reason: derive the claim from axioms by truth-preserving steps, or check it against a precise criterion. This is a formal specification.
+* The world: observe or measure the claim, or consult a source that did. This is an external oracle.
+* Other minds: pool independent judgments and trust the consensus. This is aggregation.
 
 Unfortunately, in an open ecosystem each of these three methods is usually out of reach. A formal specification rarely exists for open-ended language, and the types or schemas that do exist pin down form, not meaning. An external oracle, a test, a tool, or ground-truth data, is missing for most open tasks, and the domains that have one, like code with its tests, are just where agents are already most reliable. Aggregation fails when the judgments are not independent, which is the rule once agents share models, prompts, and training, or when one model checks its own work (Huang et al., 2023). So a wrong premise travels as an ordinary-looking claim.
 
