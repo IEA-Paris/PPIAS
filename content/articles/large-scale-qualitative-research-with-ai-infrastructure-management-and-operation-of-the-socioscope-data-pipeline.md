@@ -246,9 +246,7 @@ Each transaction can appear twice in the grid: as the initiative sees it, and as
 
 AI models extract the transactions from the verbatim transcripts at scale. Not all elements of the grid come from the moment when the interviewer fills it in with the interviewee; many are collated from other parts of the case. Table 1 gives a raw example of a grid reconstructed by AI analysis of the two interview recordings of a Spanish case; names of persons, places and organisations have been removed. 
 
-
-
-*Table 1. Transaction grid of a Spanish case (ES-005), coded by AI from the two interview recordings. Names of persons, places, organisations and programmes have been removed or replaced by descriptors in square brackets.* 
+***Table 1.** Transaction grid of a Spanish case (ES-005), coded by AI from the two interview recordings. Names of persons, places, organisations and programmes have been removed or replaced by descriptors in square brackets.* 
 
 |     |
 | --- |
