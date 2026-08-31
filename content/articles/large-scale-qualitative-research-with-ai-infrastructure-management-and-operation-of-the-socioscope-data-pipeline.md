@@ -1102,162 +1102,121 @@ Credit to persons engaged on the project side across the proof-of-concept (2022�
 * Nathaly Jiménez - Interviewer, Colombia, Latam
 * Stephany Navas - Interviewer, Colombia, Latam
 * Santiago Borda - Interviewer, Colombia, Latam
-* \-      Paola Abril Campos Rivera - Interviewer, Mexico, Latam
-* \-      Beatriz Michelle Ramírez Pérez - Interviewer, Mexico, Latam
-* \-      Alejandra González Moreno - Interviewer, Mexico, Latam
-* \-      Alejandra Maldonado Esquer - Interviewer, Mexico, Latam
-* \-      Finn Richardson - Interviewer, Costa Rica, Latam
-* \-      Pablo Hellmund - Interviewer, Costa Rica, Latam
-* \-      Bérénice Perroud - Interviewer, France, Switzerland, Denmark
-* \-      Saadi Lahlou - Interviewer, France, Colombia, Denmark
-* \-      Helga Nowotny - Interviewer, France
-* \-      Juan Pablo Caicedo - Interviewer, Colombia, Peru, Lithuania
-* \-      Valentine Fournand - Interviewer, USA
-* \-      Paulius Yamin - Interviewer, Colombia, Lithuania
-* \-      Oleg Dremov - Interviewer, Georgia, Armenia, Israel
-* \-      Ganesh Radha-Udayakumar - Interviewer, India
-* \-      Cathy Kamanu - Regional / Field Coordinator + Interviewer, Kenya
-* \-      Brahim Lebbar - Interviewer, Morocco
-* \-      Lamia Afrasse - Interviewer, Morocco
-* \-      Lucie Friedrich - Interviewer, France, Europe
-* \-      Matej Vohryzek - Interviewer, New Zealand, Tahiti, Japan
-* \-      Samara Zuckerbrod - Interviewer, Wales
-* \-      Boris Pun - Interviewer, Hong Kong
-* \-      Anthony Chun Fung Cheung - Interviewer, Hong Kong
-* \-      Leonardo Herrera - Regional / Field Coordinator + Interviewer, Peru, Latam
-* \-      Alvaro Elorrieta - Interviewer, Peru, Latam
-* \-      Andrea Rivera - Interviewer, Peru, Latam
-* \-      Eizo Muñoz - Interviewer, Peru, Latam
-* \-      Judith Huamani - Interviewer, Peru, Latam
-* \-      Fabian Rojas - Interviewer, Peru, Latam
-* \-      Karla Diaz - Interviewer, Peru, Latam
-* \-      Gianina Chávarry Minaya - Interviewer, Peru, Latam
-* \-      Gabriela Salazar - Interviewer, Peru, Latam
-* \-      Lucía Rucoba - Interviewer, Peru, Latam
-* \-      Malgorzata Patok - Interviewer, Poland, France
-* \-      Annya Crane - Interviewer, Spain, Netherlands
-* \-      Andrea Padilla - Interviewer, UK, Nigeria, Senegal, Sri Lanka
-* \-      Eoghan McDonaugh - Interviewer, UK, Africa
-* \-      Emmanuelle Hopkins - Interviewer, USA
-* \-      Ravenn Tripplet - Regional / Field Coordinator + Interviewer, USA
-* \-      Betania Ayala Valdez - Interviewer, Paraguay, Latam
-* \-      Gustavo Grajeda - Interviewer, Paraguay, Latam
-* \-      Keshia Lauren Anne Hoaeane - Regional / Field Coordinator + Interviewer, South Africa, Africa
-* \-      Lance Scheepers - Interviewer, South Africa, Africa
-* \-      Taiye Orija - Interviewer, South Africa, Africa
-* \-      Siliziwe Zote - Interviewer, South Africa, Africa
-* \-      Asemahle Mali - Interviewer, South Africa, Africa
-* \-      Jen Horn - Interviewer, Philippines, Asia
-* \-      Joshua Kurniawan - Interviewer, Indonesia, Asia
-* \-      L.A. Bretous - Interviewer, USA
-* \-      Jeremy Barajas - Interviewer, USA
-* \-      Mariela Dyer - Interviewer, USA
-* \-      Fred Munene - Interviewer, Kenya
-* \-      Sharon Amali - Interviewer, Uganda
-* \-      Denis Woniala - Interviewer, Uganda
-* \-      Anne Koigi - Interviewer, Kenya
+* Paola Abril Campos Rivera - Interviewer, Mexico, Latam
+* Beatriz Michelle Ramírez Pérez - Interviewer, Mexico, Latam
+* Alejandra González Moreno - Interviewer, Mexico, Latam
+* Alejandra Maldonado Esquer - Interviewer, Mexico, Latam
+* Finn Richardson - Interviewer, Costa Rica, Latam
+* Pablo Hellmund - Interviewer, Costa Rica, Latam
+* Bérénice Perroud - Interviewer, France, Switzerland, Denmark
+* Saadi Lahlou - Interviewer, France, Colombia, Denmark
+* Helga Nowotny - Interviewer, France
+* Juan Pablo Caicedo - Interviewer, Colombia, Peru, Lithuania
+* Valentine Fournand - Interviewer, USA
+* Paulius Yamin - Interviewer, Colombia, Lithuania
+* Oleg Dremov - Interviewer, Georgia, Armenia, Israel
+* Ganesh Radha-Udayakumar - Interviewer, India
+* Cathy Kamanu - Regional / Field Coordinator + Interviewer, Kenya
+* Brahim Lebbar - Interviewer, Morocco
+* Lamia Afrasse - Interviewer, Morocco
+* Lucie Friedrich - Interviewer, France, Europe
+* Matej Vohryzek - Interviewer, New Zealand, Tahiti, Japan
+* Samara Zuckerbrod - Interviewer, Wales
+* Boris Pun - Interviewer, Hong Kong
+* Anthony Chun Fung Cheung - Interviewer, Hong Kong
+* Leonardo Herrera - Regional / Field Coordinator + Interviewer, Peru, Latam
+* Alvaro Elorrieta - Interviewer, Peru, Latam
+* Andrea Rivera - Interviewer, Peru, Latam
+* Eizo Muñoz - Interviewer, Peru, Latam
+* Judith Huamani - Interviewer, Peru, Latam
+* Fabian Rojas - Interviewer, Peru, Latam
+* Karla Diaz - Interviewer, Peru, Latam
+* Gianina Chávarry Minaya - Interviewer, Peru, Latam
+* Gabriela Salazar - Interviewer, Peru, Latam
+* Lucía Rucoba - Interviewer, Peru, Latam
+* Malgorzata Patok - Interviewer, Poland, France
+* Annya Crane - Interviewer, Spain, Netherlands
+* Andrea Padilla - Interviewer, UK, Nigeria, Senegal, Sri Lanka
+* Eoghan McDonaugh - Interviewer, UK, Africa
+* Emmanuelle Hopkins - Interviewer, USA
+* Ravenn Tripplet - Regional / Field Coordinator + Interviewer, USA
+* Betania Ayala Valdez - Interviewer, Paraguay, Latam
+* Gustavo Grajeda - Interviewer, Paraguay, Latam
+* Keshia Lauren Anne Hoaeane - Regional / Field Coordinator + Interviewer, South Africa, Africa
+* Lance Scheepers - Interviewer, South Africa, Africa
+* Taiye Orija - Interviewer, South Africa, Africa
+* Siliziwe Zote - Interviewer, South Africa, Africa
+* Asemahle Mali - Interviewer, South Africa, Africa
+* Jen Horn - Interviewer, Philippines, Asia
+* Joshua Kurniawan - Interviewer, Indonesia, Asia
+* L.A. Bretous - Interviewer, USA
+* Jeremy Barajas - Interviewer, USA
+* Mariela Dyer - Interviewer, USA
+* Fred Munene - Interviewer, Kenya
+* Sharon Amali - Interviewer, Uganda
+* Denis Woniala - Interviewer, Uganda
+* Anne Koigi - Interviewer, Kenya
 
-## Interviewers (proof-of-concept phase)
+#### Interviewers (proof-of-concept phase)
 
-\-      Adéla Vašků - Interviewer, Czechia
+* Adéla Vašků - Interviewer, Czechia
+* Albena Shkodrova - Interviewer, Bulgaria
+* Alvaro Elorrieta - Interviewer, Peru
+* Amélie Peuteuil - Interviewer, France
+* Asemahle Mali - Interviewer, South Africa
+* Camille Senepin - Interviewer, France
+* Camilo Ordóñez - Interviewer, Colombia
+* Christine Adongo - Interviewer, Kenya
+* Clémentine Decroix - Interviewer, France
+* Davide Gnoato - Interviewer, Italy
+* Denis Woniala - Interviewer, Uganda
+* Fred Munene - Interviewer, Kenya
+* Hélène Peters Zwingelstein - Interviewer, France
+* Ho Jack Yong - Interviewer, Singapore
+* Jérémie Szlamowicz - Interviewer, France
+* Lauriane Dos Santos - Interviewer, Cook Islands, French Polynesia
+* Loic Bonin - Interviewer, Denmark
+* Mei Anne Hills - Interviewer, UK
+* Nicole Alexander - Interviewer, Denmark, UK; co-author of the Danish-cases study (with A. Frank-Bojsen)
+* Sarah Baudry - Interviewer, France
+* Sifa Florence Sangwa - Interviewer, Rwanda
+* Tony Alfred - Interviewer, Tanzania
+* Umberto Cao - Interviewer, France
 
-\-      Albena Shkodrova - Interviewer, Bulgaria
+#### Scientific Advisory Board (membership during Phase 1)
 
-\-      Alvaro Elorrieta - Interviewer, Peru
+* Catherine Bassani - SAB member
+* Arnold Tukker - SAB member
+* Reinhilde Veugelers - SAB member
+* Joachim von Braun - SAB member
+* Patrick Caron - SAB member
+* Deshen Moodley - SAB member
+* Olivier Bouin - SAB member
 
-\-      Amélie Peuteuil - Interviewer, France
+#### Friends of the Socioscope
 
-\-      Asemahle Mali - Interviewer, South Africa
+* Erik Arnold - Network member
+* Linda Bell - Network member
+* Nicolas Bricas - Network member
+* Wolfgang Burtscher - Network member
+* Mathias Dewatripont - Network member
+* Jakob Edler - Network member
+* Bruno Herault - Network member
+* François Jegou - Network member
+* David Kanter - Network member
+* Bettina Laville - Network member
+* Daniel Nairaud - Network member
+* Sophie Nicklaus - Network member
+* David Siaussat - Network member
+* David Stark - Network member
 
-\-      Camille Senepin - Interviewer, France
-
-\-      Camilo Ordóñez - Interviewer, Colombia
-
-\-      Christine Adongo - Interviewer, Kenya
-
-\-      Clémentine Decroix - Interviewer, France
-
-\-      Davide Gnoato - Interviewer, Italy
-
-\-      Denis Woniala - Interviewer, Uganda
-
-\-      Fred Munene - Interviewer, Kenya
-
-\-      Hélène Peters Zwingelstein - Interviewer, France
-
-\-      Ho Jack Yong - Interviewer, Singapore
-
-\-      Jérémie Szlamowicz - Interviewer, France
-
-\-      Lauriane Dos Santos - Interviewer, Cook Islands, French Polynesia
-
-\-      Loic Bonin - Interviewer, Denmark
-
-\-      Mei Anne Hills - Interviewer, UK
-
-\-      Nicole Alexander - Interviewer, Denmark, UK; co-author of the Danish-cases study (with A. Frank-Bojsen)
-
-\-      Sarah Baudry - Interviewer, France
-
-\-      Sifa Florence Sangwa - Interviewer, Rwanda
-
-\-      Tony Alfred - Interviewer, Tanzania
-
-\-      Umberto Cao - Interviewer, France
-
-## Scientific Advisory Board (membership during Phase 1)
-
-\-      Catherine Bassani - SAB member
-
-\-      Arnold Tukker - SAB member
-
-\-      Reinhilde Veugelers - SAB member
-
-\-      Joachim von Braun - SAB member
-
-\-      Patrick Caron - SAB member
-
-\-      Deshen Moodley - SAB member
-
-\-      Olivier Bouin - SAB member
-
-## Friends of the Socioscope
-
-\-      Erik Arnold - Network member
-
-\-      Linda Bell - Network member
-
-\-      Nicolas Bricas - Network member
-
-\-      Wolfgang Burtscher - Network member
-
-\-      Mathias Dewatripont - Network member
-
-\-      Jakob Edler - Network member
-
-\-      Bruno Herault - Network member
-
-\-      François Jegou - Network member
-
-\-      David Kanter - Network member
-
-\-      Bettina Laville - Network member
-
-\-      Daniel Nairaud - Network member
-
-\-      Sophie Nicklaus - Network member
-
-\-      David Siaussat - Network member
-
-\-      David Stark - Network member
-
-# Appendix 7. Contents of the Data Collection Protocol
+### Appendix 7. Contents of the Data Collection Protocol
 
 The protocol is the single instrument that makes cases comparable across countries, and it is the piece other teams most often ask to see. It is not reproduced here: it runs to fifty-five pages and is available from the authors on reasonable request.
 
 Its table of contents is given below (V8, January 2025, 55 pages), to show what a field-ready LSQR protocol has to cover.
 
-Presentation (pp. 3--8)
+**Presentation (pp. 3–8)**
 
 The Socioscope Project (p. 3)
 
@@ -1267,7 +1226,7 @@ The data collection process (p. 4)
 
 Your role as field interviewer (p. 8)
 
-Stage 1. Preparing and booking the visit (pp. 9--14)
+**Stage 1. Preparing and booking the visit (pp. 9–14)**
 
 Step 1.1. Filling the case log, the online dashboard that lists all cases (p. 10)
 
@@ -1277,7 +1236,7 @@ Step 1.3. Make initial contact with the case to schedule a visit (p. 12)
 
 Step 1.4. Preparing the visit (p. 13)
 
-Stage 2. Conducting the visit (pp. 15--30)
+**Stage 2. Conducting the visit (pp. 15–30)**
 
 Step 2.0. Understanding the visit (p. 16)
 
@@ -1289,7 +1248,7 @@ Step 2.3. Collect additional footage of the operations and additional materials 
 
 Step 2.4. Close the visit (p. 30)
 
-Stage 3. Upload the materials and debrief (pp. 31--37)
+**Stage 3. Upload the materials and debrief (pp. 31–37)**
 
 Step 3.1. Upload the data (p. 31)
 
@@ -1297,10 +1256,10 @@ Step 3.2. Debrief (p. 36)
 
 Step 3.3. Close the case (p. 37)
 
-Annexes (pp. 38--55)
+**Annexes (pp. 38–55)**
 
-Annex 1. Technical guidelines and requirements (pp. 38--50)
+**Annex 1. Technical guidelines and requirements (pp. 38–50)**
 
-Annex 2. Glossary (pp. 51--55)
+**Annex 2. Glossary (pp. 51–55)**
 
 The protocol is used with four training videos, produced in 2024 and watched by every interviewer before the first case: Training 1, project description, logs and contact phase (8 min 47 s); Training 2, preparing your interview (8 min 37 s); Training 3, executing the interview (26 min 55 s); Training 4, finalising your mission (6 min 58 s). Together they run to 51 minutes and cover the same three stages as the protocol, showing the procedures being performed rather than described.
