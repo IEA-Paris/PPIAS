@@ -465,7 +465,7 @@ Transcription and quality control of the audio must be fast, otherwise the debri
 
 As soon as interviewers collect data, they log into the Gate and upload them into the case folder assigned to them. Uploaded material first passes a basic file check (correct format, plausible size), then is renamed according to the file-name convention: 
 
-COUNTRY ID -- CASE ID -- DATE -- FILE TYPE -- FILE FORMAT -- FILE NUMBER-- VERSION ID-- CONTINENT ID -- LANGUAGE ID -- EXTENSION
+COUNTRY ID – CASE ID – DATE – FILE TYPE – FILE FORMAT – FILE NUMBER – VERSION ID – CONTINENT ID – LANGUAGE ID – EXTENSION
 
 An example file name based on this convention is: FR-002-2025-12-17-SUPPLEMENTARY_MATERIAL-CSV-1-0.0.3-EU-FR.mp4.
 
