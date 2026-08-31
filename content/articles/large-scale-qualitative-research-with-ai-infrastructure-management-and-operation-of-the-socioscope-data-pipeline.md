@@ -566,6 +566,8 @@ As of July 2026, the latest analysable Corpus (version 0.1.0) covers 686 cases i
 | 21 other countries | 121     |
 | **Total**          | **686** |
 
+
+
 The language distribution reflects the sampling: Spanish accounts for about half of the speech turns (51%), English for a third (32%), French for 12% and Danish for 3%, with a dozen further languages - Swahili, Russian, Polish, Dutch, Georgian, Cantonese, Japanese, Tagalog among them - making up the remainder.
 
 **What is inside each case. The material is substantial:** a filmed setting and facility tour, a long audio interview, a short video interview based on identical questions, supplementary material scraped from the initiative's website and supplied by the interviewees, and a recorded debrief with the interviewer. And then the data documenting provenance of the raw empirical material and its subsequent transformations. The amount of raw data collected (in this snapshot of July 2026) is about 140 hours of video and some 1,290 hours of audio, plus supplementary material. The transcripts currently amount to about 450,000 speech turns and 12.6 million words in the original languages (12.1 million words in the machine-translated English layer). The debrief, an innovation of this pipeline, may in future be done partly by LLMs; we will test this in the future.
@@ -576,7 +578,7 @@ In July 2026, the project's working documents (95 GB accumulated over three year
 
 The library is distributed as follows:
 
-**\*Table 3.** The Socioscope documentation library, July 2026.*
+***Table 3.** The Socioscope documentation library, July 2026.*
 
 | Category                         | Documents                                       |
 | -------------------------------- | ----------------------------------------------- |
