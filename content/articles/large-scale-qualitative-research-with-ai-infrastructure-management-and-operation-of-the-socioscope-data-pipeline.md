@@ -598,6 +598,8 @@ The library is distributed as follows:
 | 14 Meetings & project management | 149 (+62 transcribed meeting recordings)        |
 | **Total**                        | **1,432 documents + 93 transcribed recordings** |
 
+
+
 The distribution shows what running large-scale qualitative research entails. Nearly half of the library is administration proper (678 documents consisting of invoices, budgets and payment records kept at item level), and training and field support account for another quarter (324). The operational weight of the infrastructure sits in managing people and money.
 
 The scientific tools, by contrast, are compact: 36 data-collection documents and 12 consent and legal templates, because a small set of standardised protocols serves hundreds of cases.
@@ -608,9 +610,9 @@ The audit logic of the Corpus (see Preserving provenance) thus extends to the or
 
 Even so, some uncertainties remain on provenance and data loss, and we still find missing or uncertain dates, hardly readable names on consent forms, a few duplicates in the supplementary material, speech turns wrongly attributed, though these get rarer as quality control cleans the data. The procedure was developed gradually, was less efficient at the start, and the documentation is not perfect.
 
-# 8       Lessons learned and limitations
+## 8. Lessons learned and limitations
 
-## 8.1      Lessons learned
+### 8.1. Lessons learned
 
 The data collection phase succeeded, but it raised operational, methodological, institutional and logistical problems. Collecting 600+ cases across 37 countries in less than two years required continuous adaptation, close coordination and fast problem-solving.
 
