@@ -630,7 +630,7 @@ The main problems were:
 
 Together, these incidents show the need for redundancy in field protocols (immediate backups, systematic quality checks, ways to re-engage a case) to protect data integrity in multi-site qualitative research. They were few relative to the number of cases, but they show why quality assurance and close communication between the central team and interviewers matter. The design implications of these lessons are consolidated in Appendix 1 (Before attempting LSQR: sixteen rules in five families). 
 
-## 8.2      Limitations
+### 8.2. Limitations
 
 The pipeline's quality claims have limits, which should be stated. The first is that quality control is Gate-based: the released Corpus carries no unresolved flags, but we cannot yet publish rate-based metrics, such as how many errors each stage produced and caught, inter-rater agreement between quality controllers, or word-error rates of the transcription engines against human reference transcripts. Our procedures were built progressively and were not applied the same way to the whole Corpus. We made homogenising passes in May, June and July 2026, with many errors or missing data having already been corrected beforehand.
 
@@ -646,7 +646,7 @@ The fourth limitation is inherent in the design: the Corpus is not a probability
 
 Finally, the pipeline described here is a snapshot of a fast-moving chain (see Conclusion). The durable claims of this paper are its principles (provenance, gates, immutability), not the tools, which will soon be replaced.
 
-# 9       Conclusion
+## 9. Conclusion
 
 This paper has described, at the level of procedures, what it takes to collect and curate qualitative data at scale: a systemic sampling frame operationalised by the transaction grid; a social contract that rewards interviewees and grants access; a pipeline that moves every case through scouting, enrolment, collection, formatting, quality control and curation, with a status and a log at each step; and a provenance discipline that keeps originals immutable and every transformation traceable, applied alike to each case, to the Corpus, and to the project's own documentation.
 
@@ -660,7 +660,7 @@ The analysis under way is building typologies and ontologies of actors and trans
 
 Three lessons stand out. First, scale in qualitative research is an organisational achievement before it is a technical one: the binding constraints are not storage or compute; they are to access and keep good data sources, to train and coordinate people, to secure consent, quality control and payment at every step. Second, the pipeline is what makes the corpus scientific rather than merely large. Every file carries its provenance; any analysis can be traced back to an immutable original, re-run and audited. That is the condition for cumulative and reproducible qualitative research, and the condition on which social science can take up what AI offers at scale without giving up its evidentiary standards. Third, in an age of synthetic and fabricated data, where material is cheap to generate and hard to authenticate, the provenance, depth and curation of real data are what separate evidence from plausible text. LSQR must be built on that ground. It is costly. It is also feasible, and on three years of evidence, worth doing.
 
-# Glossary
+## Glossary
 
 [some entries are copied or adapted from (Lahlou, 2017, 2024).
 
@@ -704,135 +704,13 @@ Three lessons stand out. First, scale in qualitative research is an organisation
 
 *zone of interest:* A territory where sampling was deliberately densified, to get a more complete view of the local system.
 
-# References
-
-Anis, S., & French, J. A. (2023). Efficient, explicatory, and equitable: Why qualitative researchers should embrace AI, but cautiously. *Business & Society, 62*(6), 1139--1144. <https://doi.org/10.1177/00076503231163286>
-
-Bail, C. A. (2024). Can generative AI improve social science? *Proceedings of the National Academy of Sciences, 121*(21), e2314021121. https://doi.org/10.1073/pnas.2314021121
-
-Bazeley, P. (2013). *Qualitative data analysis: Practical strategies*. SAGE Publications.
-
-Blau, P. M. (1964). *Exchange and power in social life*. Wiley.
-
-Borgman, C. L. (2015*). Big data, little data, no data: Scholarship in the networked world.* MIT Press.
-
-Boyd, D., & Crawford, K. (2012). Critical questions for big data: Provocations for a cultural, technological, and scholarly phenomenon. *Information, Communication & Society, 15*(5), 662--679. https://doi.org/10.1080/1369118X.2012.678878
-
-Braun, V., & Clarke, V. (2021). *Thematic analysis: A practical guide.* SAGE Publications.
-
-Brower, R. L., Bertrand Jones, T., Osborne-Lampkin, L., Hu, S., & Park-Gaghan, T. J. (2019). Big Qual: Defining and debating qualitative inquiry for large data sets. *International Journal of Qualitative Methods, 18,*1--10. <https://doi.org/10.1177/1609406919880692>
-
-Chowdhary, K. R. (2020). Natural language processing. In *Fundamentals of artificial intelligence* (pp. 603--649). Springer. https://doi.org/10.1007/978-81-322-3972-7_19
-
-Christou, P. A. (2023). The use of artificial intelligence (AI) in qualitative research for theory development. *The Qualitative Report, 28*(9), 2739--2755. <https://doi.org/10.46743/2160-3715/2023.6536>
-
-Clark, T. (2008). "We're over-researched here!": Exploring accounts of research fatigue within qualitative research engagements. *Sociology, 42*(5), 953--970. https://doi.org/10.1177/0038038508094573
-
-Corti, L., Van den Eynden, V., Bishop, L., & Woollard, M. (2019). *Managing and sharing research data: A guide to good practice* (2nd ed.). SAGE.
-
-Davidson, E., Edwards, R., Jamieson, L., & Weller, S. (2019). Big data, qualitative style: A breadth-and-depth method for working with large amounts of secondary qualitative data. *Quality & Quantity, 53*(1), 363--376. <https://doi.org/10.1007/s11135-018-0757-y>
-
-European Parliament & Council of the European Union. (2016). Regulation (EU) 2016/679 of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation). *Official Journal of the European Union, L119,* 1--88.
-
-Flyvbjerg, B. (2006). Five misunderstandings about case-study research. *Qualitative Inquiry, 12*(2), 219--245. https://doi.org/10.1177/1077800405284363
-
-Friese, S. (2016). Qualitative data analysis software: The state of the art. *KWALON, 21*(1), 13--18. https://doi.org/10.5117/2016.021.001.005
-
-Geertz, C. (1973). *The interpretation of cultures: Selected essays*. Basic Books.
-
-Gilardi, F., Alizadeh, M., & Kubli, M. (2023). ChatGPT outperforms crowd workers for text-annotation tasks. *Proceedings of the National Academy of Sciences, 120*(30), e2305016120. https://doi.org/10.1073/pnas.2305016120
-
-Glaser, B. G., & Strauss, A. L. (1967). *The discovery of grounded theory: Strategies for qualitative research*. Aldine.
-
-Granovetter, M. (1985). Economic action and social structure: The problem of embeddedness. *American Journal of Sociology, 91*(3), 481--510. <https://doi.org/10.1086/228311>
-
-Grimmer, J., Roberts, M. E., & Stewart, B. M. (2022). *Text as data: A new framework for machine learning and the social sciences*. Princeton University Press.
-
-Heckathorn, D. D. (1997). Respondent-driven sampling: A new approach to the study of hidden populations. *Social Problems, 44*(2), 174--199. <https://doi.org/10.2307/3096941>
-
-Johnston, L. (2006). Software and method: Reflections on teaching and using qualitative data analysis software. *International Journal of Social Research Methodology, 9*(3), 205--219. <https://doi.org/10.1080/13645570600659493>
-
-Karjus, A. (2025). Machine-assisted quantitizing designs: Augmenting humanities and social sciences with artificial intelligence. *Humanities and Social Sciences Communications, 12*(1), Article 277. https://doi.org/10.1057/s41599-025-04503-w
-
-King, G., Keohane, R. O., & Verba, S. (1994). *Designing social inquiry: Scientific inference in qualitative research*. Princeton University Press.
-
-Lahlou, S. (1995). Vers une théorie de l'interprétation en analyse des données textuelles. In S. Bolasco, L. Lebart, & A. Salem (Eds.), *JADT 1995. 3rd International Conference on Statistical Analysis of Textual Data. Vol. 1: I* (pp. 221--228). CISU.
-
-Lahlou, S. (1996). La modélisation de représentations sociales à partir de l'analyse d'un corpus de définitions. In E. Martin (Ed.), *Informatique textuelle* (Études de sémantique lexicale, pp. 55--98). Didier Érudition.
-
-Lahlou, S. (2017). *Installation theory: The societal construction and regulation of behaviour*. Cambridge University Press. https://doi.org/10.1017/9781316480922
-
-Lahlou, S. (2024). *Why people do what they do: And how to get them to change*. Polity Press.
-
-Lahlou, S. (2025). AI and science in the EU: Concept note. *Proceedings of the Paris Institute for Advanced Study, 21*. https://doi.org/10.5281/zenodo.16929737
-
-Lahlou, S., Nowotny, H., Yamin, P., Thurner, S., & Cordelois, A. (2024). The Food Socioscope: a new instrument to better understand transitions towards greater sustainability. *Proceedings of the Paris Institute for Advanced Study, 22*. https://doi.org/10.5281/zenodo.13935390
-
-Lave, J., & Wenger, E. (1991). *Situated learning: Legitimate peripheral participation.* Cambridge University Press.
-
-Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabási, A.-L., Brewer, D., Christakis, N., Contractor, N., Fowler, J., Gutmann, M., Jebara, T., King, G., Macy, M., Roy, D., & Van Alstyne, M. (2009). Computational social science. *Science, 323*(5915), 721--723. <https://doi.org/10.1126/science.1167742>
-
-Lazer, D. M. J., Pentland, A., Watts, D. J., Aral, S., Athey, S., Contractor, N., Freelon, D., González-Bailón, S., King, G., Margetts, H., Nelson, A., Salganik, M. J., Strohmaier, M., Vespignani, A., & Wagner, C. (2020). Computational social science: Obstacles and opportunities. *Science, 369*(6507), 1060--1062. <https://doi.org/10.1126/science.aaz8170>
-
-Lieberman, E. S. (2005). Nested analysis as a mixed-method strategy for comparative research. *American Political Science Review, 99*(3), 435--452. https://doi.org/10.1017/S0003055405051762
-
-Maiter, S., Simich, L., Jacobson, N., & Wise, J. (2008). Reciprocity: An ethic for community-based participatory action research. *Action Research, 6*(3), 305--325. <https://doi.org/10.1177/1476750307083720>
-
-Manning, C. D., & Schütze, H. (1999). *Foundations of statistical natural language processing*. MIT Press.
-
-Markard, J., Raven, R., & Truffer, B. (2012). Sustainability transitions: An emerging field of research and its prospects. *Research Policy, 41*(6), 955--967. <https://doi.org/10.1016/j.respol.2012.02.013>
-
-Mauss, M. (1990). *The gift: The form and reason for exchange in archaic societies* (W. D. Halls, Trans.). Routledge. (Original work published 1925)
-
-Miles, M. B., Huberman, A. M., & Saldaña, J. (2020). *Qualitative data analysis: A methods sourcebook* (4th ed.). SAGE Publications.
-
-Nelson, L. K. (2020). Computational grounded theory: A methodological framework. *Sociological Methods & Research, 49*(1), 3--42. <https://doi.org/10.1177/0049124117729703>
-
-Nowotny, H., Lahlou, S., & Yamin, P. (2026). *The function of meso-structures in food transition processes* \[Manuscript submitted for publication].
-
-Radford, A., Kim, J. W., Xu, T., Brockman, G., McLeavey, C., & Sutskever, I. (2023). Robust speech recognition via large-scale weak supervision. In *Proceedings of the 40th International Conference on Machine Learning* (PMLR Vol. 202, pp. 28492--28518). PMLR. https://proceedings.mlr.press/v202/radford23a.html
-
-Ragin, C. C. (1987). *The comparative method: Moving beyond qualitative and quantitative strategies*. University of California Press.
-
-Rathje, S., Mirea, D.-M., Sucholutsky, I., Marjieh, R., Robertson, C. E., & Van Bavel, J. J. (2024). GPT is an effective tool for multilingual psychological text analysis. *Proceedings of the National Academy of Sciences, 121*(34), e2308950121. https://doi.org/10.1073/pnas.2308950121
-
-Richards, L. (2015). *Handling qualitative data: A practical guide* (3rd ed.). SAGE Publications.
-
-Simmhan, Y. L., Plale, B., & Gannon, D. (2005). A survey of data provenance in e-science. *ACM SIGMOD Record, 34*(3), 31--36. <https://doi.org/10.1145/1084805.1084812>
-
-Singer, E., & Ye, C. (2013). The use and effects of incentives in surveys. *The ANNALS of the American Academy of Political and Social Science, 645*(1), 112--141. <https://doi.org/10.1177/0002716212458082>
-
-Small, M. L. (2009). "How many cases do I need?" On science and the logic of case selection in field-based research. *Ethnography, 10*(1), 5--38. https://doi.org/10.1177/1466138108099586
-
-Star, S. L., & Griesemer, J. R. (1989). Institutional ecology, "translations" and boundary objects: Amateurs and professionals in Berkeley's Museum of Vertebrate Zoology, 1907--39. *Social Studies of Science, 19*(3), 387--420. https://doi.org/10.1177/030631289019003001
-
-Tashakkori, A., & Teddlie, C. (Eds.). (2010). *SAGE handbook of mixed methods in social & behavioral research* (2nd ed.). SAGE Publications.
-
-Thévenot, L. (1984). Rules and implements: Investment in forms. *Social Science Information, 23*(1), 1--45. <https://doi.org/10.1177/053901884023001001>
-
-Timmermans, S., & Tavory, I. (2012). Theory construction in qualitative research: From grounded theory to abductive analysis. *Sociological Theory, 30*(3), 167--186. <https://doi.org/10.1177/0735275112457914>
-
-Törnberg, P. (2024). Best practices for text annotation with large language models. *Sociologica\*\*, 18*(2), 67--85. https://doi.org/10.6092/issn.1971-8853/19461
-
-Törnberg, P. (2025). Large language models outperform expert coders and supervised classifiers at annotating political social media messages. *Social Science Computer Review, 43*(6). https://doi.org/10.1177/08944393241286471
-
-Verma, S., Sharma, R., Deb, S., & Maitra, D. (2021). Artificial intelligence in marketing: Systematic review and future research direction. *International Journal of Information Management Data Insights, 1*(1), 100002. https://doi.org/10.1016/j.jjimei.2020.100002
-
-Whorf, B. L. (1956). *Language, thought, and reality: Selected writings of Benjamin Lee Whorf* (J. B. Carroll, Ed.). MIT Press.
-
-Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., ... Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. *Scientific Data, 3,* 160018. <https://doi.org/10.1038/sdata.2016.18>
-
-Yin, R. K. (2018). *Case study research and applications: Design and methods* (6th ed.). SAGE Publications.
-
-Ziems, C., Held, W., Shaikh, O., Chen, J., Zhang, Z., & Yang, D. (2024). Can large language models transform computational social science? *Computational Linguistics, 50*(1), 237--291. https://doi.org/10.1162/coli_a_00502
-
-# Acknowledgements
+## Acknowledgements
 
 **This research project and related results were made possible with the support of the NOMIS Foundation.**
 
 We thank the fieldwork managers - Sofía de Vega, Julia Movshovich and María Mejía - who ran the pipeline's daily operations; Antoine Cordelois (CTO) and Do Huynh (AI engineering), who built and operated the processing and data infrastructure; Johannes Oster for his contributions to the tech infrastructure; Alex Cano, the project's dedicated quality controller; Emmanuelle Honoré (fieldwork manager) and Loïc Bonin (assistant fieldwork manager), who ran the proof-of-concept phase; the regional coordinators - Romina Sarmiento, Leonardo Herrera, Cathy Kamanu, Ravenn Tripplet, Abril Campos, and Keshia Hoaeane - and the partner organisations behind them; the more than eighty interviewers who collected the cases; Hugo Saugier, Karen Garcia, Ricardo Talens, Celine Gurteen, Juliette Capus and the video-editing team; Barbara Grassauer, Nadège Bourgeois and Irina Nosulenko for administrative support; Mathieu Jacomy and Anders Kristian Munch for their advice on AI and data analysis; Atrina Oraee, Jinyu Cong and Jeevya Aroun, who ran the 2024 LLM validation study; the Scientific Advisory Board; and the Ethics and Deontology Board of the Paris IAS. The project-side personnel are listed in Appendix 6.
 
-# Author contributions (CRediT)
+## Author contributions (CRediT)
 
 Roles follow the CRediT taxonomy, in its own order; the parentheses give the specifics.
 
@@ -848,31 +726,31 @@ Paulius Yamin: conceptualization; investigation (fieldwork); methodology (field 
 
 Helga Nowotny: conceptualization; formal analysis; funding acquisition (funding and partnerships); investigation (fieldwork); methodology (research design); supervision; writing - review and editing. Principal investigator.
 
-**Declaration of generative AI use in manuscript preparation**
+## Declaration of generative AI use in manuscript preparation
 
 Beyond the AI processing that is itself the object of this paper (transcription, translation and extraction within the pipeline, documented in the text), the authors used Claude (Anthropic) as an editorial assistant in preparing the manuscript: verifying reported figures against the project's master case log and documentation library, checking internal consistency of numbers, cross-references and terminology, suggesting copy-edits and candidate references, and drafting some figures. All AI-suggested changes were introduced as tracked revisions and individually reviewed, accepted, rejected or rewritten by the authors; all suggested references were verified against the original sources. The research design, analyses, interpretations and final wording are the authors' own, and the authors take full responsibility for the content of the publication.
 
-# Appendices
+## Appendices
 
 The Data Collection Protocol (V8, 55 pages) is available from the authors on reasonable request, together with the four training videos that go with it. Its table of contents is reproduced as Appendix 7. Appendices 1--7 follow.
 
-# Appendix 1. Before attempting LSQR: sixteen rules in five families
+### Appendix 1. Before attempting LSQR: sixteen rules in five families
 
 Each rule below is developed in the body of the paper. The rules should ideally be settled before attempting a comparable project; the table at the end of this appendix summarises, for each rule, when it must be decided, what it costs to get it wrong, and our evidence.
 
-●**1. Size and shape are design parameters, not dials**
+● **1. Size and shape are design parameters, not dials**
 
 Scale is not something a project acquires gradually. It is chosen at the outset, and the choice determines what kind of organisation is required to deliver it. Everything downstream - budget, team, technology, contracts - is a consequence of this first decision.
 
-●**1.1. Determine the size of the endeavour before costing it**
+● **1.1. Determine the size of the endeavour before costing it**
 
 More cases are cheaper per case and more expensive in total: unit cost and total project cost move in opposite directions, and both must be on the table before starting. Size also changes the management regime discontinuously. Fifty cases in a single country and a hundred or more across several countries and languages are both LSQR. A sizing decision taken implicitly is a management model adopted by accident.
 
-●**1.2. Derive the technology/human split from size and research objective**
+● **1.2. Derive the technology/human split from size and research objective**
 
 The share of the pipeline that is automated is not a matter of taste, nor of which tools happen to be available. It follows from how many cases will be collected and what the research must ultimately extract from them. The split decided here propagates down the whole pipeline: it sets transcription capacity, shapes quality control, determines the skills profile of the people recruited, and investigator involvement in management and key decisions.
 
-●**1.3. Prove the whole chain at tens before committing to hundreds**
+● **1.3. Prove the whole chain at tens before committing to hundreds**
 
 Test the full chain - interviewers, equipment, transcription, upload, quality control - on tens of cases before scaling to hundreds. A minor problem takes serious dimensions at scale. The proof of concept produces two things nothing else can. First, a measured unit cost and cycle time, which converts the sizing assumption into a defensible budget. Second, clarity about what the analysis will actually need: our own first months were slowed by exploring which data were required, because at scale a question that was not asked cannot be re-asked. Extraction targets must be fixed before the field opens, and the proof of concept is where they get fixed.
 
