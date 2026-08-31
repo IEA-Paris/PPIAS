@@ -114,7 +114,7 @@ abstract: "The Socioscope project is a pioneering effort in Large-Scale
   transcription, translation, quality control and curation; the provenance rules
   (originals are immutable, every transformation is logged); and the
   installation of equipment, personnel and processes, including ethics and GDPR
-  compliance. In its first phase (2023--2026) the pipeline produced 686
+  compliance. In its first phase (2023–2026) the pipeline produced 686
   documented cases from 31 countries: some 1,430 hours of recordings, about
   450,000 speech turns, and 12.6 million words of transcript. We report costs,
   metrics, lessons learned and limitations, so that other teams can reuse,
@@ -525,7 +525,7 @@ The same costing shows the limit. First contact with a candidate initiative (a c
 
 The dominant marginal cost of deep data is human fieldwork, which is also what makes the quality of the data. Interviewers work under service contracts paying an all-inclusive fee per completed case, covering, with few exceptions, scouting, travel and field expenses. The fee is set by a budgeting instrument: a baseline of €20 per hour, adjusted by a regional multiplier (from 0.55 in South America and Africa to 1.65 in North America) derived from local living costs and local interviewer labour markets, applied to the four and a half person-days budgeted per case, plus a 25% overhead. Per-case fees range from about €400–600 in South Asia, Africa and Latin America, to €1,000–1,300 in East Asia and North America, €1,500 in Western Europe and €2,000 in Switzerland. Payment is released in tranches (typically 70/30) at the validation points described in Quality control and payment clearance, and reconciled case by case in per-country payment trackers. Local subcontractors hold the local contracts, keeping the scheme compatible with labour law in each geography. In effort, four and a half person-days per case put the 686 Corpus cases of Phase 1 at about 3,100 contracted field person-days, some fourteen person-years, before central coordination (four full-time roles over two collection years, about 2,000 person-days) and video editing. Appendix 4 details the estimate and its assumptions. These figures come after a steep learning curve during the proof of concept, which yielded 60 cases not included in the 686. 
 
-These rates are the third iteration of a costing that began with the proof of concept, where a case cost about €1,000 per interview (€800 per interview plus €1,600 for a synthesis note on a package of eight) and each recorded debrief about €200. Downstream of fieldwork, costs drop sharply. Machine transcription of the Corpus's 1,430 hours is cheap and fast (the 137.75 hours of recordings in the project's documentation library were transcribed in one working session); the remaining human costs are quality-control review and video editing (€400--600 per case in the proof of concept). The economics of deep data are front-loaded: the money goes into people travelling to places and talking to people. That is why the pipeline is built to make this expenditure permanent: data paid for once must remain analysable as tools change. Of the four and a half person-days budgeted per case on the interviewer's side, the recorded material itself (about an hour and a quarter of interview and just under an hour of debrief) is barely two hours; the rest is scouting, negotiation, planning, travel, filming, data management, upload and exchanges with the central team.
+These rates are the third iteration of a costing that began with the proof of concept, where a case cost about €1,000 per interview (€800 per interview plus €1,600 for a synthesis note on a package of eight) and each recorded debrief about €200. Downstream of fieldwork, costs drop sharply. Machine transcription of the Corpus's 1,430 hours is cheap and fast (the 137.75 hours of recordings in the project's documentation library were transcribed in one working session); the remaining human costs are quality-control review and video editing (€400–600 per case in the proof of concept). The economics of deep data are front-loaded: the money goes into people travelling to places and talking to people. That is why the pipeline is built to make this expenditure permanent: data paid for once must remain analysable as tools change. Of the four and a half person-days budgeted per case on the interviewer's side, the recorded material itself (about an hour and a quarter of interview and just under an hour of debrief) is barely two hours; the rest is scouting, negotiation, planning, travel, filming, data management, upload and exchanges with the central team.
 
 The costs above are marginal costs of data collection, not the cost of the project. They do not take into account a series of specific cases where we had to solve issues and repair errors or missing data, which is typical of a frontier research discovering unexpected problems; nor the fixed and shared costs that make the marginal cost possible: PI and co-PI time, the technical team that built and runs the Gate, the SDK and the AI processing chain, IT and storage, quality control and supervision, legal, financial and administrative support, recruitment and training, and the design of the instruments themselves. Etc. These should not be underestimated. Appendix 4 gives the order of magnitude: some 3,100 contracted field person-days for 686 cases, against 5,800-6,000 person-days for the data-collection operation as a whole, and that larger figure still excludes the technical and AI team, the PIs and institutional support. Fieldwork cost per se is therefore barely half of the effort counted in person-days, and less than half of it in money, because the rest of the installation is staffed at Paris rates. Anyone budgeting an LSQR project should read the per-case fee as one half of what a case really costs. 
 
@@ -728,7 +728,7 @@ Beyond the AI processing that is itself the object of this paper (transcription,
 
 ## Appendices
 
-The Data Collection Protocol (V8, 55 pages) is available from the authors on reasonable request, together with the four training videos that go with it. Its table of contents is reproduced as Appendix 7. Appendices 1--7 follow.
+The Data Collection Protocol (V8, 55 pages) is available from the authors on reasonable request, together with the four training videos that go with it. Its table of contents is reproduced as Appendix 7. Appendices 1–7 follow.
 
 ### Appendix 1. Before attempting LSQR: sixteen rules in five families
 
@@ -988,13 +988,13 @@ Median 2 months; mean 2.97; 70% of cases close within three months of entering t
 | 2026-01 | 7            |      |
 | 2026-02 | 1            |      |
 
-Annual totals: 99 (2024), 570 (2025), 8 (Jan--Feb 2026). 
+Annual totals: 99 (2024), 570 (2025), 8 (Jan–Feb 2026). 
 
 #### A4.5 Person-days estimate (order of magnitude)
 
 Fieldwork: the budgeting instrument allocates four and a half person-days per completed case, all-inclusive. The 686 corpus cases measured here therefore represent ≈ 3,100 contracted field person-days (≈ 14 person-years at 220 working days/year). This is a lower bound: it excludes scouting effort sunk into the majority of the ~4,000 leads that never became completed cases.
 
-Central coordination: the central data-collection team (data-collection manager, secretariat and panel manager, three fieldwork managers) ≈ 5 FTE over the 24 months of active collection (March 2024 -- February 2026) ≈ 2,200 person-days. Video editing: at the proof-of-concept rate of 5–7 hours per case, ≈ 700 edited videos ≈ 500–700 person-days.
+Central coordination: the central data-collection team (data-collection manager, secretariat and panel manager, three fieldwork managers) ≈ 5 FTE over the 24 months of active collection (March 2024 – February 2026) ≈ 2,200 person-days. Video editing: at the proof-of-concept rate of 5–7 hours per case, ≈ 700 edited videos ≈ 500–700 person-days.
 
 Order of magnitude for the data-collection operation as a whole: ≈ 5,800–6,000 person-days (≈ 26–27 person-years), excluding the technical/AI team, the PIs, and Paris IAS administrative support. These estimates use designed loads (budgeted days, contract rates), not time sheets.
 
@@ -1073,19 +1073,19 @@ Credit to persons engaged on the project side across the proof-of-concept (2022�
 * Jinyu Cong - intern, NLP evaluation; LLM validation study (2024)
 * Jeevya Aroun - intern, NLP evaluation; LLM validation study (2024)
 
-#### Proof-of-concept team (2022--23)
+#### Proof-of-concept team (2022–23)
 
 * Loïc Bonin - Fieldwork manager assistant (to Emmanuelle Honoré), proof-of-concept phase; process documentation
 * Emmanuelle Honoré - Fieldwork Manager and Interviewer, France (proof-of-concept phase); Interviewer, USA (2025)
 
 #### Contractors (video, field services)
 
-* Hugo Saugier - Video editor (PoC and after)
-* Angélica María Pico Pedraza - Video assets (thumbnails, YouTube uploads), Colombia (Bucaramanga)
-* Karen Garcia -- Video editing
-* Celine Gurteen -- Video editing
-* Juliette Capus -- Video editing
-* Ricardo Talens - Video editing (case videos)
+* Hugo Saugier – Video editor (PoC and after)
+* Angélica María Pico Pedraza – Video assets (thumbnails, YouTube uploads), Colombia (Bucaramanga)
+* Karen Garcia – Video editing
+* Celine Gurteen – Video editing
+* Juliette Capus – Video editing
+* Ricardo Talens – Video editing (case videos)
 
 #### Interviewers and regional coordinators (phase 2 tracker)
 
