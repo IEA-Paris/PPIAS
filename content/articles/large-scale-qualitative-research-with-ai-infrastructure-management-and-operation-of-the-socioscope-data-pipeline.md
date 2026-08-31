@@ -351,13 +351,13 @@ Field equipment. Each interviewer operates a standardised audiovisual kit. In ph
 
 **Premises**. The core Socioscope team members are based at the Paris Institute for Advanced Study, which hosts the project administratively, and the Vienna Complexity Science Hub. The central team that oversees data collection has an open space and neighbouring offices in the premises of the Paris IAS. This proximity matters for handling the technical and logistical problems of data collection.
 
-***Figure 1. Workstations of the central data-collection team in Paris.***
+***Figure 1.** Workstations of the central data-collection team in Paris.*
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig1.jpg)
 
 **Software.** The Gate (described in The Corpus and the Gate above) is, in equipment terms, the project's central software infrastructure. Its modules: selective access control, the data processing pipeline, web scrapers to enrich cases, and the provenance/logging system.
 
-***Figure 2. Gate upload landing interface.***
+***Figure 2.** Gate upload landing interface.*
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig2.png)
 
@@ -377,7 +377,7 @@ Most important, it has a search engine and filters to find initiatives. Users ca
 
 It was a shared workbook with one sheet per geography (54 country sheets, 3,247 dated lead rows since 2023), one row per lead, tracking each case from scouting through validation, fieldwork and closure: status, dates, actors, payment validation. Aggregate KPI sheets summarise progress per country; the pipeline metrics in Appendix 4 are extracted from this instrument.
 
-***Figure 3. Extract of the central dashboard.***
+***Figure 3.** Extract of the central dashboard.*
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig3.png)
 
@@ -387,7 +387,7 @@ It was a shared workbook with one sheet per geography (54 country sheets, 3,247 
 
 The Socioscope needed many people in the data collection phase: some 80 interviewers in the field, regional managers and gatekeepers, a core coordination group across Paris and Vienna, three central field managers constantly in touch with regional coordinators and field interviewers, audiovisual staff, computer scientists, subcontractors, with 2 full-time data-collection members (including 1 with legal training) and a quality-control officer. 
 
-***Figure 4. Structure of the Socioscope project team for data collection.***
+***Figure 4.** Structure of the Socioscope project team for data collection.*
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig4.png)
 
@@ -411,15 +411,11 @@ Processes are the third layer of the installation, after equipment and people: t
 
 All research activities must comply with ethical principles and legal obligations, in particular the EU General Data Protection Regulation (Regulation (EU) 2016/679) on privacy and participant rights. Alongside the operational management, an ethics committee supervises ethical standards. For the Socioscope project, the Data Management Plan and compliance documentation were submitted to the Ethics and Deontology Board of the Paris Institute for Advanced Study (Comité d'Éthique et de Déontologie, CED) first on 29 March 2024, and approved at second examination on 22 January 2025. In parallel, we engaged a law firm specialising in data protection, to conduct a comprehensive GDPR compliance assessment. This engagement included:
 
-\-       Diagnosis and evaluation of current data processing activities;
-
-\-       Definition of a compliance action plan;
-
-\-       Implementation of corrective measures where necessary;
-
-\-       Production of accountability documentation;
-
-\-       Recommendations for ongoing risk management and data protection practices.
+* Diagnosis and evaluation of current data processing activities;
+* Definition of a compliance action plan;
+* Implementation of corrective measures where necessary;
+* Production of accountability documentation;
+* Recommendations for ongoing risk management and data protection practices.
 
 This phase should not be underestimated in time or cost: compliance took nine months and about €15,000 to be validated by the law firm. Its most consequential output was the retention period. The standard for research data is three to five years, after which the data must be destroyed. That is incompatible with large-scale qualitative research, where the corpus is the durable asset and the point of the pipeline is that data paid for once remain analysable as tools change. We obtained an initial retention period of fifteen years, appropriate for longitudinal research. Anyone attempting a comparable project should plan this negotiation from the outset: a default retention period would silently cap the useful life of the corpus.
 
@@ -427,19 +423,21 @@ Partner research institutions also need their own ethical clearance, and the ret
 
 After the initial set-up, an LSQR project should monitor emerging legal and technical issues and keep up with GDPR practice: periodic reviews of consent procedures, retention policies and repository security, and staff training in data protection.
 
-### 4.3.2     Supporting operations: legal and financial requirements
+#### 4.3.2. Supporting operations: legal and financial requirements
 
 The Socioscope also required operations support: legal compliance, human resources, and finance. This includes compliance with regional laws, region-specific insurance coverage, appropriate anonymisation of data, drafting and maintaining employment contracts, and ensuring that data-collection payments are correctly processed around the world. We chose to rely on local proxies and subcontracting, so as not to overload the central team with local labour law, insurance and hiring. Local contacts also know the context better, and working with them builds local expertise and networks for future collaboration. Supporting functions are an integral part of the process, but their detailed description is beyond the scope of this paper.
 
-# 5       Data journey step by step
+## 5. Data journey step by step
 
 The sections above describe the foundations of the pipeline; this section follows it as a sequence of operations. Appendix 2 gives more detail. 
 
-## 5.1      Overview
+### 5.1. Overview
 
 The following figure summarises the main path of the data through the pipeline. As described above, quality control runs at every step, with loops when correction is needed.
 
-Figure 5. The main path of data through the Socioscope pipeline.
+***Figure 5.** The main path of data through the Socioscope pipeline.*
+
+![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig5.png)
 
 ## 5.2      Scouting and selection
 
