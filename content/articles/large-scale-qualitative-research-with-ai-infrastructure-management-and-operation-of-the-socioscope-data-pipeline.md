@@ -246,7 +246,7 @@ Each transaction can appear twice in the grid: as the initiative sees it, and as
 
 AI models extract the transactions from the verbatim transcripts at scale. Not all elements of the grid come from the moment when the interviewer fills it in with the interviewee; many are collated from other parts of the case. Table 1 gives a raw example of a grid reconstructed by AI analysis of the two interview recordings of a Spanish case; names of persons, places and organisations have been removed. 
 
-***Table 1*.** Transaction grid of a Spanish case (ES-005), coded by AI from the two interview recordings. Names of persons, places, organisations and programmes have been removed or replaced by descriptors in square brackets.
+***Table 1*.** *Transaction grid of a Spanish case (ES-005), coded by AI from the two interview recordings. Names of persons, places, organisations and programmes have been removed or replaced by descriptors in square brackets.*
 
 | **Entity / Stakeholder**                                                                                                               | **What the initiative gives**                                                                                                                                      | **What the initiative gets**                                                                                                              | **What the Other gives**                                                                                                                          | **What the Other gets**                                                                                       | **Quotes**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -260,8 +260,6 @@ AI models extract the transactions from the verbatim transcripts at scale. Not a
 | **Schools and schoolchildren** (school programme)                                                                                      | Environmental education sessions and hands-on activities, including releasing a named baby cuttlefish                                                              | Impact on future consumers and possible future fishermen, and paid access via the park and the council                                    | Access to their pupils and classroom time, mediated by the park and the town council                                                              | A marine education offer that changes how children see the sea                                                | \- "We have created a project called \[name], we are very original, just to have an impact on the school population and this year we want to promote it to reach future consumers or who knows, future fishermen, who knows."<br>- "One of the activities we do with the children is that we have a baby cuttlefish and then a glass and they release it. The emotional moment of releasing a cuttlefish and they give it a name and they are releasing it, that's very nice."<br>- "There are many children that come to me and no, no, the beach is for bathing and that's it. And they come with this mentality. When the talk is over they look at it in a different way."<br>- "This year we have joined forces with a foundation and a company to promote this product and reach the schools."                                                                                                                                                                     |
 | **Local businesses and private sponsors** (mechanics, flats, campsites, yacht clubs; a foundation and an educational services company) | A local project they can believe in and be part of, rooting environmental action in the local economy rather than in a vertical grant                              | Private money that makes the funding hybrid, and specialised educational delivery capacity                                                | Cash contributions raised door to door, and now professional educational services for the schools programme                                       | Participation and ownership in a visible local initiative                                                     | \- "One thing I like to explain a lot is that the resources we have had have been very hybrid. What does that mean? A mixture of public money and private money. This seems to me to be very important"<br>- "We could have gone to Europe to ask for a project, they would have given it to us, they would have given us the money vertically, we would have opened the project and it would have ended. And that would have been a failure for our taste. What we wanted was for this to enter society and the best way to enter society is to involve local companies to participate in the project."<br>- "We are playing salesmen, a fisherman and a biologist playing door to door salesmen and we got mechanics, flats, campsites, yacht clubs, all those who believed in this project and put money aside"<br>- "In that year, there was no tourism here. The companies said no, I'm sorry, but I can't give you any more money. Many participants dropped out." |
 | **Divers and diving centres** (local divers' association; the area is a diving hotspot)                                                | A purpose and a hook for their dives - seahorses, cephalopods and an explanation of the project - plus training through underwater photography                     | Citizen-science data, a photographic record of marine biodiversity, and a replicable pilot for the wider Mediterranean                    | Photos and images of the species they observe, and monitoring effort on the cuttlefish beds                                                       | A differentiated diving experience and knowledge of the marine environment they dive in                       | \- "We also want to reach out to \[divers] here in \[the town] where we are a hotspot for diving. So this year we are trying to reach out to \[divers] to educate them through photography, to take them to see the seahorses, to take them to take pictures with the hook"<br>- "I want \[divers] to help us through their photos and images, to make a compilation of the biodiversity that exists, the invasive or non-invasive species that exist, looking for the hook of seahorses"<br>- "Through citizen science I want to collect data and be able to see what is going on."<br>- "With the \[divers'] association. Here we want to mix that, the fishermen, the divers and the park, to make a trinomial that I think can give very interesting results."<br>- "If we manage to replicate it through the divers, this will make it much easier to disperse it throughout the Mediterranean."                                                                    |
-
-
 
 We are still exploring techniques to fill in transaction grids in the most detailed and stable way. Extraction is sensitive to the models and prompts, but also to the extraction strategy and to its granularity (components of a transaction, or full descriptions). Named-entity recognition is still perfectible. Nevertheless it is already clear that the data collected yield substantial transaction grids, although they will always remain incomplete. 
 
@@ -351,13 +349,13 @@ Field equipment. Each interviewer operates a standardised audiovisual kit. In ph
 
 **Premises**. The core Socioscope team members are based at the Paris Institute for Advanced Study, which hosts the project administratively, and the Vienna Complexity Science Hub. The central team that oversees data collection has an open space and neighbouring offices in the premises of the Paris IAS. This proximity matters for handling the technical and logistical problems of data collection.
 
-***Figure 1.** Workstations of the central data-collection team in Paris.*
+**\*Figure 1.** Workstations of the central data-collection team in Paris.*
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig1.jpg)
 
 **Software.** The Gate (described in The Corpus and the Gate above) is, in equipment terms, the project's central software infrastructure. Its modules: selective access control, the data processing pipeline, web scrapers to enrich cases, and the provenance/logging system.
 
-***Figure 2.** Gate upload landing interface.*
+**\*Figure 2.** Gate upload landing interface.*
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig2.png)
 
@@ -377,7 +375,7 @@ Most important, it has a search engine and filters to find initiatives. Users ca
 
 It was a shared workbook with one sheet per geography (54 country sheets, 3,247 dated lead rows since 2023), one row per lead, tracking each case from scouting through validation, fieldwork and closure: status, dates, actors, payment validation. Aggregate KPI sheets summarise progress per country; the pipeline metrics in Appendix 4 are extracted from this instrument.
 
-***Figure 3.** Extract of the central dashboard.*
+**\*Figure 3.** Extract of the central dashboard.*
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig3.png)
 
@@ -387,7 +385,7 @@ It was a shared workbook with one sheet per geography (54 country sheets, 3,247 
 
 The Socioscope needed many people in the data collection phase: some 80 interviewers in the field, regional managers and gatekeepers, a core coordination group across Paris and Vienna, three central field managers constantly in touch with regional coordinators and field interviewers, audiovisual staff, computer scientists, subcontractors, with 2 full-time data-collection members (including 1 with legal training) and a quality-control officer. 
 
-***Figure 4.** Structure of the Socioscope project team for data collection.*
+**\*Figure 4.** Structure of the Socioscope project team for data collection.*
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig4.png)
 
@@ -435,7 +433,7 @@ The sections above describe the foundations of the pipeline; this section follow
 
 The following figure summarises the main path of the data through the pipeline. As described above, quality control runs at every step, with loops when correction is needed.
 
-***Figure 5.** The main path of data through the Socioscope pipeline.*
+**\*Figure 5.** The main path of data through the Socioscope pipeline.*
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig5.png)
 
@@ -503,41 +501,39 @@ A thank-you and a small goodies package close the visit, and a final message inv
 
 Note that the Socioscope's social contract is project-specific. Other teams, and we ourselves later, may have to design another one. The video clip as a gift worked well in 2024-2026; it may not be enough in the coming years, when making videos becomes a widespread skill. 
 
-***Figure 6.** Example of an initiative page on the Socioscope website.*
+**\*Figure 6.** Example of an initiative page on the Socioscope website.*
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig1.jpg)
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig6.2.png)
 
-# 6       Variations and costs of the pipeline
+## 6. Variations and costs of the pipeline
 
 What is described above is our recommended configuration: a hybrid pipeline in which humans and AI each take the steps they do better. The pipeline can be run in three configurations (see Appendix 2), and the trade-offs deserve to be made explicit, because the choice is not simply "AI is cheaper": 
 
-1.    A **human-only** version, in which every step is done manually 
-
-2.    A **tech-maximal** version, in which every step that *can* be automated, is
-
-3.    A **hybrid** version which we run in practice, in which each task is assigned to whichever approach the task itself favours. 
+1. A **human-only** version, in which every step is done manually 
+2. A **tech-maximal** version, in which every step that *can* be automated, is
+3. A **hybrid** version which we run in practice, in which each task is assigned to whichever approach the task itself favours. 
 
 One caveat applies to every figure that follows. What we cost here are marginal costs of data collection: what one more case adds, once the installation exists. They are the right numbers for deciding how to run a pipeline, and the wrong ones for budgeting a project. The fixed and shared costs are taken up at the end of this section.
 
-At the usual operating scale (100--500 cases), and with current tools, the hybrid costs about a third less than the human-only version, while keeping human the steps where automation would cost data quality, consent quality or the relationship with the initiative. 
+At the usual operating scale (100–500 cases), and with current tools, the hybrid costs about a third less than the human-only version, while keeping human the steps where automation would cost data quality, consent quality or the relationship with the initiative. 
 
 We would not run the tech-maximal version. The per-case savings from AI come almost entirely from administrative or mechanical steps (transcription, translation, file naming, tracker updates, scheduling), where AI produces the same or better output for a fraction of the cost, with no loss that quality control can detect. Automating the transcription and diarisation of interview and debrief, for example, cuts the cost of those two tasks by about 96%; the hybrid takes that saving in full, since nothing in the interview's content or consent depends on who transcribes it.
 
 The same costing shows the limit. First contact with a candidate initiative (a coordinator makes personal contact, explains the project and secures the initiative's interest) costs €28 of coordinator time in the human version and formally €0 in the tech-maximal one. We do not take that saving, because misunderstood information costs far more than €28 downstream. More generally, where the output depends on judgement, rapport or accountability that AI cannot yet provide (first contact, the interviews, sampling and go/no-go decisions, final quality sign-off before payment), we recommend humans.
 
-The dominant marginal cost of deep data is human fieldwork, which is also what makes the quality of the data. Interviewers work under service contracts paying an all-inclusive fee per completed case, covering, with few exceptions, scouting, travel and field expenses. The fee is set by a budgeting instrument: a baseline of €20 per hour, adjusted by a regional multiplier (from 0.55 in South America and Africa to 1.65 in North America) derived from local living costs and local interviewer labour markets, applied to the four and a half person-days budgeted per case, plus a 25% overhead. Per-case fees range from about €400--600 in South Asia, Africa and Latin America, to €1,000--1,300 in East Asia and North America, €1,500 in Western Europe and €2,000 in Switzerland. Payment is released in tranches (typically 70/30) at the validation points described in Quality control and payment clearance, and reconciled case by case in per-country payment trackers. Local subcontractors hold the local contracts, keeping the scheme compatible with labour law in each geography. In effort, four and a half person-days per case put the 686 Corpus cases of Phase 1 at about 3,100 contracted field person-days, some fourteen person-years, before central coordination (four full-time roles over two collection years, about 2,000 person-days) and video editing. Appendix 4 details the estimate and its assumptions. These figures come after a steep learning curve during the proof of concept, which yielded 60 cases not included in the 686. 
+The dominant marginal cost of deep data is human fieldwork, which is also what makes the quality of the data. Interviewers work under service contracts paying an all-inclusive fee per completed case, covering, with few exceptions, scouting, travel and field expenses. The fee is set by a budgeting instrument: a baseline of €20 per hour, adjusted by a regional multiplier (from 0.55 in South America and Africa to 1.65 in North America) derived from local living costs and local interviewer labour markets, applied to the four and a half person-days budgeted per case, plus a 25% overhead. Per-case fees range from about €400–600 in South Asia, Africa and Latin America, to €1,000–1,300 in East Asia and North America, €1,500 in Western Europe and €2,000 in Switzerland. Payment is released in tranches (typically 70/30) at the validation points described in Quality control and payment clearance, and reconciled case by case in per-country payment trackers. Local subcontractors hold the local contracts, keeping the scheme compatible with labour law in each geography. In effort, four and a half person-days per case put the 686 Corpus cases of Phase 1 at about 3,100 contracted field person-days, some fourteen person-years, before central coordination (four full-time roles over two collection years, about 2,000 person-days) and video editing. Appendix 4 details the estimate and its assumptions. These figures come after a steep learning curve during the proof of concept, which yielded 60 cases not included in the 686. 
 
 These rates are the third iteration of a costing that began with the proof of concept, where a case cost about €1,000 per interview (€800 per interview plus €1,600 for a synthesis note on a package of eight) and each recorded debrief about €200. Downstream of fieldwork, costs drop sharply. Machine transcription of the Corpus's 1,430 hours is cheap and fast (the 137.75 hours of recordings in the project's documentation library were transcribed in one working session); the remaining human costs are quality-control review and video editing (€400--600 per case in the proof of concept). The economics of deep data are front-loaded: the money goes into people travelling to places and talking to people. That is why the pipeline is built to make this expenditure permanent: data paid for once must remain analysable as tools change. Of the four and a half person-days budgeted per case on the interviewer's side, the recorded material itself (about an hour and a quarter of interview and just under an hour of debrief) is barely two hours; the rest is scouting, negotiation, planning, travel, filming, data management, upload and exchanges with the central team.
 
 The costs above are marginal costs of data collection, not the cost of the project. They do not take into account a series of specific cases where we had to solve issues and repair errors or missing data, which is typical of a frontier research discovering unexpected problems; nor the fixed and shared costs that make the marginal cost possible: PI and co-PI time, the technical team that built and runs the Gate, the SDK and the AI processing chain, IT and storage, quality control and supervision, legal, financial and administrative support, recruitment and training, and the design of the instruments themselves. Etc. These should not be underestimated. Appendix 4 gives the order of magnitude: some 3,100 contracted field person-days for 686 cases, against 5,800-6,000 person-days for the data-collection operation as a whole, and that larger figure still excludes the technical and AI team, the PIs and institutional support. Fieldwork cost per se is therefore barely half of the effort counted in person-days, and less than half of it in money, because the rest of the installation is staffed at Paris rates. Anyone budgeting an LSQR project should read the per-case fee as one half of what a case really costs. 
 
-# 7       The Socioscope pipeline implementation: primary data and documentation
+## 7. The Socioscope pipeline implementation: primary data and documentation
 
 This section describes what the pipeline produced in two and a half years: the data collected (the Corpus) and the documentation needed for maintenance, provenance, quality control and exploitation, from consent forms to technical documentation and administrative records. 
 
-## 7.1      The Corpus
+### 7.1. The Corpus
 
 The pipeline is best read as a funnel. Nearly 4,000 initiatives were scouted; 3,247 entered the master log as leads; 45% of leads passed validation, and about 50% of validated cases reached completion, yielding the documented set of over 600 (686 in Corpus 0.1.0; see below).
 
@@ -553,286 +549,55 @@ We therefore ran a systematic, independent review of each case on some 39 points
 
 As of July 2026, the latest analysable Corpus (version 0.1.0) covers 686 cases in 31 countries. Collection concentrated on ten primary countries - Colombia (162 cases), France (80), Argentina (59), Kenya (50), Denmark (45), Peru (41), Spain (36), Costa Rica (34), Mexico (30) and Ecuador (28) - with a further 121 cases spread across 21 other countries, from Armenia to New Zealand. Some 40 cases are in the incoming pipeline waiting for completion (e.g., missing consent form, video under revision...).
 
-\|
+***Table 2.** Distribution of closed cases by country in the Corpus, July 2026*.
 
-Country
+| Country            | Cases   |
+| ------------------ | ------- |
+| Colombia           | 162     |
+| France             | 80      |
+| Argentina          | 59      |
+| Kenya              | 50      |
+| Denmark            | 45      |
+| Peru               | 41      |
+| Spain              | 36      |
+| Costa Rica         | 34      |
+| Mexico             | 30      |
+| Ecuador            | 28      |
+| 21 other countries | 121     |
+| **Total**          | **686** |
 
-\|
 
-Cases
-
-|     |
-| --- |
-
-\|
-
-Colombia
-
-\|
-
-162
-
-\|
-|
-
-France
-
-\|
-
-80
-
-\|
-|
-
-Argentina
-
-\|
-
-59
-
-\|
-|
-
-Kenya
-
-\|
-
-50
-
-\|
-|
-
-Denmark
-
-\|
-
-45
-
-\|
-|
-
-Peru
-
-\|
-
-41
-
-\|
-|
-
-Spain
-
-\|
-
-36
-
-\|
-|
-
-Costa Rica
-
-\|
-
-34
-
-\|
-|
-
-Mexico
-
-\|
-
-30
-
-\|
-|
-
-Ecuador
-
-\|
-
-28
-
-\|
-|
-
-21 other countries
-
-\|
-
-121
-
-\|
-|
-
-Total
-
-\|
-
-686
-
-\|
-
-Table 2. Distribution of closed cases by country in the Corpus, July 2026.
 
 The language distribution reflects the sampling: Spanish accounts for about half of the speech turns (51%), English for a third (32%), French for 12% and Danish for 3%, with a dozen further languages - Swahili, Russian, Polish, Dutch, Georgian, Cantonese, Japanese, Tagalog among them - making up the remainder.
 
 **What is inside each case. The material is substantial:** a filmed setting and facility tour, a long audio interview, a short video interview based on identical questions, supplementary material scraped from the initiative's website and supplied by the interviewees, and a recorded debrief with the interviewer. And then the data documenting provenance of the raw empirical material and its subsequent transformations. The amount of raw data collected (in this snapshot of July 2026) is about 140 hours of video and some 1,290 hours of audio, plus supplementary material. The transcripts currently amount to about 450,000 speech turns and 12.6 million words in the original languages (12.1 million words in the machine-translated English layer). The debrief, an innovation of this pipeline, may in future be done partly by LLMs; we will test this in the future.
 
-## 7.2      Internal documentation
+### 7.2. Internal documentation
 
 In July 2026, the project's working documents (95 GB accumulated over three years on shared drives) were consolidated into a curated documentation library of 1,432 unique documents. Alongside the documents, 93 audio and video recordings of team meetings, training sessions and Scientific Advisory Board sessions (137.75 hours) were machine-transcribed with speaker diarisationand filed in the same fourteen categories, which follow the life of the project from governance to publication. The project's oral memory is thus searchable alongside its written one.
 
 The library is distributed as follows:
 
-\|
+***Table 3.** The Socioscope documentation library, July 2026.*
+
+| Category | Documents |
+|---|---|
+| 01 Project overview & governance | 59 |
+| 02 Roles & team | 11 |
+| 03 Administration | 678 |
+| 04 Contracts & agreements | 81 |
+| 05 Selection of initiatives | 3 |
+| 06 Data collection | 36 |
+| 07 Consent, GDPR & legal | 12 |
+| 08 Training & field support | 324 (+31 transcribed meeting recordings) |
+| 09 Processing & transcription | 15 |
+| 10 Quality control | 10 |
+| 11 Corpus curation & provenance | 1 |
+| 12 Analysis & reporting | 24 |
+| 13 Publications & presentations | 29 |
+| 14 Meetings & project management | 149 (+62 transcribed meeting recordings) |
+| **Total** | **1,432 documents + 93 transcribed recordings** |
 
-Category
-
-\|
-
-Documents
-
-|     |
-| --- |
-
-\|
-
-01 Project overview & governance
-
-\|
-
-59
-
-\|
-|
-
-02 Roles & team
-
-\|
-
-11
-
-\|
-|
-
-03 Administration
-
-\|
-
-678
-
-\|
-|
-
-04 Contracts & agreements
-
-\|
-
-81
-
-\|
-|
-
-05 Selection of initiatives
-
-\|
-
-3
-
-\|
-|
-
-06 Data collection
-
-\|
-
-36
-
-\|
-|
-
-07 Consent, GDPR & legal
-
-\|
-
-12
-
-\|
-|
-
-08 Training & field support
-
-\|
-
-324 (+31 transcribed meeting recordings)
-
-\|
-|
-
-09 Processing & transcription
-
-\|
-
-15
-
-\|
-|
-
-10 Quality control
-
-\|
-
-10
-
-\|
-|
-
-11 Corpus curation & provenance
-
-\|
-
-1
-
-\|
-|
-
-12 Analysis & reporting
-
-\|
-
-24
-
-\|
-|
-
-13 Publications & presentations
-
-\|
-
-29
-
-\|
-|
-
-14 Meetings & project management
-
-\|
-
-149 (+62 transcribed meeting recordings)
-
-\|
-|
-
-Total
-
-\|
-
-1,432 documents + 93 transcribed recordings
-
-\|
-
-Table 3. The Socioscope documentation library, July 2026.
 
 The distribution shows what running large-scale qualitative research entails. Nearly half of the library is administration proper (678 documents consisting of invoices, budgets and payment records kept at item level), and training and field support account for another quarter (324). The operational weight of the infrastructure sits in managing people and money.
 
