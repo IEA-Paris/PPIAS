@@ -391,7 +391,7 @@ The Socioscope needed many people in the data collection phase: some 80 intervie
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig4.png)
 
-### 4.2.2     Training for scale and diversity
+#### 4.2.2. Training for scale and diversity
 
 Training material is standardised: the Data Collection Protocol and its four videos are the same everywhere. Local interviewers are recruited and trained by qualified staff and work following the same protocol everywhere. This may require flying co-PIs or the data collection manager on site for training sessions, so that depth is achieved locally within a common framework. Regional coordinators in each area (for example Latin America and West Africa) anchor the work in local realities and follow closely the local administration of the project (labour law, insurance, tax). They were also responsible for the equipment issued to their interviewers. 
 
@@ -401,13 +401,13 @@ During the proof of concept we found, to our surprise, that even doctoral studen
 
 Multimedia capture requires good equipment, skills and organisation. This led us to be explicit down to the detail, and to set up serious training and quality control, with the running costs, time, delays and investments in form that come with them. LSQR is no cottage industry. If the social sciences want to exploit the opportunities offered by AI, they must consider what this implies for the organisation of labs and departments, training, careers and funding. We are moving closer to the way research operates in the natural sciences, typically with larger teams, technicians, sizeable infrastructure, and longer-term projects. 
 
-## 4.3      Processes
+### 4.3. Processes
 
 Collecting comparable deep data across 37 countries, several languages and different kinds of initiatives means that comparability cannot be improvised. It must be engineered through an exacting, controlled and traceable process, and above all through heavy "investments in form" (Thévenot, 1984): rules, protocols, templates, contracts and standard formats. Such standardised formats act as boundary objects that hold their meaning across very different local sites while still allowing each to work in its own way (Star & Griesemer, 1989). These investments slowed the first year of collection, but they made the data combinable. We used a previously tested data-collection protocol for interviewers (a manual of fifty-plus pages, available from the authors on request), designed four training videos (available online at the Socioscope website) and established additional support through a permanent help desk and hotline.
 
 Processes are the third layer of the installation, after equipment and people: the rules, protocols and workflows that turn them into a reproducible pipeline. Processes fall into five families: data-collection processes (the Data Collection Protocol, the topic guide, the pre-visit checklists and the debrief procedure); contractual processes (interviewer service contracts, the two consent forms, image-rights authorisations, and subcontracts with the regional partner organisations); data-management processes (file naming, upload, transcription and translation, quality control and corpus curation, all run through the Gate); management processes (case tracking on the central dashboard, payment clearance conditioned on quality control, budgeting and reporting); and compliance processes (ethics and data protection, described below). Each process exists as a written instrument, kept and versioned in the documentation library on the internal website, so that it can be audited, taught to newcomers and revised with experience.
 
-### 4.3.1     Ethical oversight
+#### 4.3.1. Ethical oversight
 
 All research activities must comply with ethical principles and legal obligations, in particular the EU General Data Protection Regulation (Regulation (EU) 2016/679) on privacy and participant rights. Alongside the operational management, an ethics committee supervises ethical standards. For the Socioscope project, the Data Management Plan and compliance documentation were submitted to the Ethics and Deontology Board of the Paris Institute for Advanced Study (Comité d'Éthique et de Déontologie, CED) first on 29 March 2024, and approved at second examination on 22 January 2025. In parallel, we engaged a law firm specialising in data protection, to conduct a comprehensive GDPR compliance assessment. This engagement included:
 
