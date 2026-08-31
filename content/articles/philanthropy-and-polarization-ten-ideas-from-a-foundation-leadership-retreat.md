@@ -105,7 +105,7 @@ In none of these places did the dangers of polarization vanish. Rather, they rea
 
 > "Many of the best solutions to polarization will be found 'on the ground' and we want to empower future partners to find and develop them."
 
-For any depolarization effort to succeed, a baseline assessment of the context -- including who is polarized and why -- is the necessary first step. Without it, a realistic path for prevention or mitigation isn't possible.
+For any depolarization effort to succeed, a baseline assessment of the context – including who is polarized and why – is the necessary first step. Without it, a realistic path for prevention or mitigation isn't possible.
 
 At the same time, there are rules of thumb that should inform any strategy. For example, when polarization is already present in a society or political system, there will be less room for out-group dialogue (because there isn't a receptive 'other side'); less likelihood that factual clarification can overcome mis/disinformation (because the radicalization and simplification of beliefs has already closed people's minds); and less scope for institutional reforms (because building cross-group coalitions will be much harder). Being aware of these and other rules is as important as understanding the nuances of the specific case.
 
@@ -125,7 +125,7 @@ Across the world, lives are lived physically *and* digitally. But as the digit
 
 This dynamic is especially strong in the case of social media and its outrage-incentivizing algorithms, which make societies or political systems appear more polarized than they really are. The advent of ubiquitous AI has the potential to complicate things further.
 
-But there is a mounting pushback to regulate and redirect social media and AI toward human flourishing and a growing effort by philanthropy to invest in human connection initiatives -- including through new national service programs and the restructuring of living environments and civic education.
+But there is a mounting pushback to regulate and redirect social media and AI toward human flourishing and a growing effort by philanthropy to invest in human connection initiatives – including through new national service programs and the restructuring of living environments and civic education.
 
 ## 7. Invest in the short *and* long term
 
@@ -153,7 +153,7 @@ This self-awareness was strongly present at the retreat. Foundation leaders reco
 
 ## 10. Work separately *and* together
 
-> "The more we can have each other's back and be thinking about each other -- not to do the same thing but to understand that we're part of a shared enterprise -- the better it will be for all."
+> "The more we can have each other's back and be thinking about each other – not to do the same thing but to understand that we're part of a shared enterprise – the better it will be for all."
 
 There is much that philanthropic foundations can do individually to stem polarization, but there is even more when efforts are coordinated.
 
@@ -166,8 +166,6 @@ Three overarching principles emerged that could potentially guide collective act
 With the collapse of international aid and the steady erosion of the twentieth century liberal international order, global expectations of philanthropy are rising in *parallel* with growing polarization.
 
 Through a combination of local testing of solutions, global research and practice convenings, there is scope for philanthropy to play an outsized role in fostering and investing in the new ideas, models, hubs and relationships to prevent and mitigate the worst perils of polarization.
-
-- - -
 
 ## About the Authors
 
