@@ -381,13 +381,15 @@ It was a shared workbook with one sheet per geography (54 country sheets, 3,247 
 
 ![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig3.png)
 
-## 4.2      Personnel
+### 4.2. Personnel
 
-### 4.2.1     Hiring: data management and interviewers
+#### 4.2.1. Hiring: data management and interviewers
 
 The Socioscope needed many people in the data collection phase: some 80 interviewers in the field, regional managers and gatekeepers, a core coordination group across Paris and Vienna, three central field managers constantly in touch with regional coordinators and field interviewers, audiovisual staff, computer scientists, subcontractors, with 2 full-time data-collection members (including 1 with legal training) and a quality-control officer. 
 
-Figure 4. Structure of the Socioscope project team for data collection.
+***Figure 4. Structure of the Socioscope project team for data collection.***
+
+![](/large-scale-qualitative-research-with-ai-infrastructure-management-and-operation-of-the-socioscope-data-pipeline/lahlou_et_al_fig4.png)
 
 ### 4.2.2     Training for scale and diversity
 
