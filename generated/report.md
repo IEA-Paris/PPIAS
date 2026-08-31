@@ -52,16 +52,16 @@ combinedInstitutions:
         value: >-
           Université de Genève, Suisse / Institut d'études avancées de Paris,
           France
-  - author: Maria Teresa Zanola
-    authorDoc: content/authors/z/zanola-maria-teresa.md
+  - author: Marie Personnaz
+    authorDoc: content/authors/p/personnaz-marie.md
     cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/z/zanola-maria-teresa
+      https://paris.pias.science/admin/#/collections/authors/entries/p/personnaz-marie
     institutions:
       - articles:
-          - 2-2-4_Zanola
+          - MOSCO_2016_13_de-la-polarisation-a-la-radicalisation
         value: >-
-          Conseil Européen pour les Langues / European Language Council
-          (CEL/ELC), Austria
+          Paris Ouest Nanterre-la Défense University / Centre Edgar Morin IIAC
+          EHESS-CNRS, France
   - author: Babette Gekeler
     authorDoc: content/authors/g/gekeler-babette.md
     cmsLink: >-
@@ -73,16 +73,16 @@ combinedInstitutions:
         value: >-
           Institute for Medical Psychology / Charité University Hospitals,
           Germany
-  - author: Marie Personnaz
-    authorDoc: content/authors/p/personnaz-marie.md
+  - author: Maria Teresa Zanola
+    authorDoc: content/authors/z/zanola-maria-teresa.md
     cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/p/personnaz-marie
+      https://paris.pias.science/admin/#/collections/authors/entries/z/zanola-maria-teresa
     institutions:
       - articles:
-          - MOSCO_2016_13_de-la-polarisation-a-la-radicalisation
+          - 2-2-4_Zanola
         value: >-
-          Paris Ouest Nanterre-la Défense University / Centre Edgar Morin IIAC
-          EHESS-CNRS, France
+          Conseil Européen pour les Langues / European Language Council
+          (CEL/ELC), Austria
   - author: Béatrice Hibou
     authorDoc: content/authors/h/hibou-beatrice.md
     cmsLink: >-
@@ -133,14 +133,6 @@ combinedInstitutions:
           - >-
             EneTran_2016_06_comment-les-collectivites-territoriales-francaises-se-saisissent-elles-du-theme-de-la-transition-energetique
         value: Sciences Po / CSO, France
-  - author: Thomas Reverdy
-    authorDoc: content/authors/r/reverdy-thomas.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
-    institutions:
-      - articles:
-          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
-        value: PACTE / Université de Grenoble, France
   - author: Pauline Gabillet
     authorDoc: content/authors/g/gabillet-pauline.md
     cmsLink: >-
@@ -152,6 +144,14 @@ combinedInstitutions:
         value: >-
           Laboratoire Techniques Territoires et Societes (LATTS) / Université
           Gustave Eiffel, France
+  - author: Thomas Reverdy
+    authorDoc: content/authors/r/reverdy-thomas.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
+    institutions:
+      - articles:
+          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
+        value: PACTE / Université de Grenoble, France
   - author: Olivier Coutard
     authorDoc: content/authors/c/coutard-olivier.md
     cmsLink: >-
@@ -237,7 +237,7 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-createdAt: '2026-8-31 12:47:41'
+createdAt: '2026-8-31 19:43:19'
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
@@ -292,6 +292,10 @@ missingReferences:
       Address the Grand Challenges of the Future of Collaboration and
       Information Work at the Human-Technology Frontier was submitted to the
       National Science Foundation on December 11, 2023
+  a-science-of-llm-agent-ecosystems:
+    - Yao et al., 2022)
+    - (Huang et al., 2023)
+    - (Ulrich, 2016)
   adaptive-self-organization-in-swidden-agriculture:
     - (Linnaeus, 1775, cited in Dove, 2015)
     - (e.g., New York Times, 1990)
@@ -799,17 +803,11 @@ spellingVariants:
     authorDoc: content/authors/l/lahlou-saadi.md
     cmsLink: >-
       https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
-    kept: Institut d'études avancées de Paris, France
-    variants:
-      - Institut d'études avancées de Paris
-  - author: Saadi Lahlou
-    authorDoc: content/authors/l/lahlou-saadi.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
     kept: >-
       Institut d'études avancées de Paris, France / London School of Economics,
       United Kingdom
     variants:
+      - Institut d'études avancées de Paris
       - Institut d'études avancées de Paris, France
   - author: Saadi Lahlou
     authorDoc: content/authors/l/lahlou-saadi.md
@@ -863,13 +861,6 @@ spellingVariants:
     kept: Paris Institute for Advanced Study, France
     variants:
       - Paris Institute for Advanced Study
-  - author: Saadi Lahlou
-    authorDoc: content/authors/l/lahlou-saadi.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
-    kept: Paris Institute for Advanced Study, France
-    variants:
-      - Paris Institute for Advanced Study
   - author: Raouf Boucekkine
     authorDoc: content/authors/b/boucekkine-raouf.md
     cmsLink: >-
@@ -877,6 +868,13 @@ spellingVariants:
     kept: Rennes School of Business
     variants:
       - Rennes School of Business, France
+  - author: Saadi Lahlou
+    authorDoc: content/authors/l/lahlou-saadi.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
+    kept: Paris Institute for Advanced Study, France
+    variants:
+      - Paris Institute for Advanced Study
   - author: Helga Nowotny
     authorDoc: content/authors/n/nowotny-helga.md
     cmsLink: >-
