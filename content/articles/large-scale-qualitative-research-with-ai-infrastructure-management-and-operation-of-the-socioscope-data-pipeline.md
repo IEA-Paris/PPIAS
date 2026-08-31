@@ -1089,139 +1089,73 @@ Credit to persons engaged on the project side across the proof-of-concept (2022�
 
 #### Interviewers and regional coordinators (phase 2 tracker)
 
-\-      Julian May - Regional Coordinator & interviewer, South Africa
-
-\-      Romina Sarmiento - Regional / Field Coordinator + Interviewer, Argentina, Latam
-
-\-      Astrid Frank-Bojsen - Meso-structure casework + interviews, Denmark, UK
-
-\-      Mercedes Ejarque - Interviewer, Argentina, Latam
-
-\-      Milena Duran - Interviewer, Argentina, Latam
-
-\-      Marina Baima - Interviewer, Argentina, Latam
-
-\-      Lucia Sosa - Interviewer, Argentina, Latam
-
-\-      Ignacio Bordoli - Interviewer, Argentina, Latam
-
-\-      Ana María Mendoza - Interviewer, Colombia, Latam
-
-\-      Daniela Pedroza - Interviewer, Colombia, Latam
-
-\-      Nathaly Jiménez - Interviewer, Colombia, Latam
-
-\-      Stephany Navas - Interviewer, Colombia, Latam
-
-\-      Santiago Borda - Interviewer, Colombia, Latam
-
-\-      Paola Abril Campos Rivera - Interviewer, Mexico, Latam
-
-\-      Beatriz Michelle Ramírez Pérez - Interviewer, Mexico, Latam
-
-\-      Alejandra González Moreno - Interviewer, Mexico, Latam
-
-\-      Alejandra Maldonado Esquer - Interviewer, Mexico, Latam
-
-\-      Finn Richardson - Interviewer, Costa Rica, Latam
-
-\-      Pablo Hellmund - Interviewer, Costa Rica, Latam
-
-\-      Bérénice Perroud - Interviewer, France, Switzerland, Denmark
-
-\-      Saadi Lahlou - Interviewer, France, Colombia, Denmark
-
-\-      Helga Nowotny - Interviewer, France
-
-\-      Juan Pablo Caicedo - Interviewer, Colombia, Peru, Lithuania
-
-\-      Valentine Fournand - Interviewer, USA
-
-\-      Paulius Yamin - Interviewer, Colombia, Lithuania
-
-\-      Oleg Dremov - Interviewer, Georgia, Armenia, Israel
-
-\-      Ganesh Radha-Udayakumar - Interviewer, India
-
-\-      Cathy Kamanu - Regional / Field Coordinator + Interviewer, Kenya
-
-\-      Brahim Lebbar - Interviewer, Morocco
-
-\-      Lamia Afrasse - Interviewer, Morocco
-
-\-      Lucie Friedrich - Interviewer, France, Europe
-
-\-      Matej Vohryzek - Interviewer, New Zealand, Tahiti, Japan
-
-\-      Samara Zuckerbrod - Interviewer, Wales
-
-\-      Boris Pun - Interviewer, Hong Kong
-
-\-      Anthony Chun Fung Cheung - Interviewer, Hong Kong
-
-\-      Leonardo Herrera - Regional / Field Coordinator + Interviewer, Peru, Latam
-
-\-      Alvaro Elorrieta - Interviewer, Peru, Latam
-
-\-      Andrea Rivera - Interviewer, Peru, Latam
-
-\-      Eizo Muñoz - Interviewer, Peru, Latam
-
-\-      Judith Huamani - Interviewer, Peru, Latam
-
-\-      Fabian Rojas - Interviewer, Peru, Latam
-
-\-      Karla Diaz - Interviewer, Peru, Latam
-
-\-      Gianina Chávarry Minaya - Interviewer, Peru, Latam
-
-\-      Gabriela Salazar - Interviewer, Peru, Latam
-
-\-      Lucía Rucoba - Interviewer, Peru, Latam
-
-\-      Malgorzata Patok - Interviewer, Poland, France
-
-\-      Annya Crane - Interviewer, Spain, Netherlands
-
-\-      Andrea Padilla - Interviewer, UK, Nigeria, Senegal, Sri Lanka
-
-\-      Eoghan McDonaugh - Interviewer, UK, Africa
-
-\-      Emmanuelle Hopkins - Interviewer, USA
-
-\-      Ravenn Tripplet - Regional / Field Coordinator + Interviewer, USA
-
-\-      Betania Ayala Valdez - Interviewer, Paraguay, Latam
-
-\-      Gustavo Grajeda - Interviewer, Paraguay, Latam
-
-\-      Keshia Lauren Anne Hoaeane - Regional / Field Coordinator + Interviewer, South Africa, Africa
-
-\-      Lance Scheepers - Interviewer, South Africa, Africa
-
-\-      Taiye Orija - Interviewer, South Africa, Africa
-
-\-      Siliziwe Zote - Interviewer, South Africa, Africa
-
-\-      Asemahle Mali - Interviewer, South Africa, Africa
-
-\-      Jen Horn - Interviewer, Philippines, Asia
-
-\-      Joshua Kurniawan - Interviewer, Indonesia, Asia
-
-\-      L.A. Bretous - Interviewer, USA
-
-\-      Jeremy Barajas - Interviewer, USA
-
-\-      Mariela Dyer - Interviewer, USA
-
-\-      Fred Munene - Interviewer, Kenya
-
-\-      Sharon Amali - Interviewer, Uganda
-
-\-      Denis Woniala - Interviewer, Uganda
-
-\-      Anne Koigi - Interviewer, Kenya
+* Julian May - Regional Coordinator & interviewer, South Africa
+* Romina Sarmiento - Regional / Field Coordinator + Interviewer, Argentina, Latam
+* Astrid Frank-Bojsen - Meso-structure casework + interviews, Denmark, UK
+* Mercedes Ejarque - Interviewer, Argentina, Latam
+* Milena Duran - Interviewer, Argentina, Latam
+* Marina Baima - Interviewer, Argentina, Latam
+* Lucia Sosa - Interviewer, Argentina, Latam
+* Ignacio Bordoli - Interviewer, Argentina, Latam
+* Ana María Mendoza - Interviewer, Colombia, Latam
+* Daniela Pedroza - Interviewer, Colombia, Latam
+* Nathaly Jiménez - Interviewer, Colombia, Latam
+* Stephany Navas - Interviewer, Colombia, Latam
+* Santiago Borda - Interviewer, Colombia, Latam
+* \-      Paola Abril Campos Rivera - Interviewer, Mexico, Latam
+* \-      Beatriz Michelle Ramírez Pérez - Interviewer, Mexico, Latam
+* \-      Alejandra González Moreno - Interviewer, Mexico, Latam
+* \-      Alejandra Maldonado Esquer - Interviewer, Mexico, Latam
+* \-      Finn Richardson - Interviewer, Costa Rica, Latam
+* \-      Pablo Hellmund - Interviewer, Costa Rica, Latam
+* \-      Bérénice Perroud - Interviewer, France, Switzerland, Denmark
+* \-      Saadi Lahlou - Interviewer, France, Colombia, Denmark
+* \-      Helga Nowotny - Interviewer, France
+* \-      Juan Pablo Caicedo - Interviewer, Colombia, Peru, Lithuania
+* \-      Valentine Fournand - Interviewer, USA
+* \-      Paulius Yamin - Interviewer, Colombia, Lithuania
+* \-      Oleg Dremov - Interviewer, Georgia, Armenia, Israel
+* \-      Ganesh Radha-Udayakumar - Interviewer, India
+* \-      Cathy Kamanu - Regional / Field Coordinator + Interviewer, Kenya
+* \-      Brahim Lebbar - Interviewer, Morocco
+* \-      Lamia Afrasse - Interviewer, Morocco
+* \-      Lucie Friedrich - Interviewer, France, Europe
+* \-      Matej Vohryzek - Interviewer, New Zealand, Tahiti, Japan
+* \-      Samara Zuckerbrod - Interviewer, Wales
+* \-      Boris Pun - Interviewer, Hong Kong
+* \-      Anthony Chun Fung Cheung - Interviewer, Hong Kong
+* \-      Leonardo Herrera - Regional / Field Coordinator + Interviewer, Peru, Latam
+* \-      Alvaro Elorrieta - Interviewer, Peru, Latam
+* \-      Andrea Rivera - Interviewer, Peru, Latam
+* \-      Eizo Muñoz - Interviewer, Peru, Latam
+* \-      Judith Huamani - Interviewer, Peru, Latam
+* \-      Fabian Rojas - Interviewer, Peru, Latam
+* \-      Karla Diaz - Interviewer, Peru, Latam
+* \-      Gianina Chávarry Minaya - Interviewer, Peru, Latam
+* \-      Gabriela Salazar - Interviewer, Peru, Latam
+* \-      Lucía Rucoba - Interviewer, Peru, Latam
+* \-      Malgorzata Patok - Interviewer, Poland, France
+* \-      Annya Crane - Interviewer, Spain, Netherlands
+* \-      Andrea Padilla - Interviewer, UK, Nigeria, Senegal, Sri Lanka
+* \-      Eoghan McDonaugh - Interviewer, UK, Africa
+* \-      Emmanuelle Hopkins - Interviewer, USA
+* \-      Ravenn Tripplet - Regional / Field Coordinator + Interviewer, USA
+* \-      Betania Ayala Valdez - Interviewer, Paraguay, Latam
+* \-      Gustavo Grajeda - Interviewer, Paraguay, Latam
+* \-      Keshia Lauren Anne Hoaeane - Regional / Field Coordinator + Interviewer, South Africa, Africa
+* \-      Lance Scheepers - Interviewer, South Africa, Africa
+* \-      Taiye Orija - Interviewer, South Africa, Africa
+* \-      Siliziwe Zote - Interviewer, South Africa, Africa
+* \-      Asemahle Mali - Interviewer, South Africa, Africa
+* \-      Jen Horn - Interviewer, Philippines, Asia
+* \-      Joshua Kurniawan - Interviewer, Indonesia, Asia
+* \-      L.A. Bretous - Interviewer, USA
+* \-      Jeremy Barajas - Interviewer, USA
+* \-      Mariela Dyer - Interviewer, USA
+* \-      Fred Munene - Interviewer, Kenya
+* \-      Sharon Amali - Interviewer, Uganda
+* \-      Denis Woniala - Interviewer, Uganda
+* \-      Anne Koigi - Interviewer, Kenya
 
 ## Interviewers (proof-of-concept phase)
 
