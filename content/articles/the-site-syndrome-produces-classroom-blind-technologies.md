@@ -135,31 +135,20 @@ Figure 7: The Lantern (left) and the Reflect Table (right)
 
 Of course, capturing classroom signals raises data protection issues. Are the risks taken by those who accept (or are forced to) have their signals collected counterbalanced by the benefits this information is supposed to bring to them? The hypothetical benefits occur if the system output influences learners' or teachers' behavior in a way that improves learning. As mentioned, evidence supporting this hypothesis is scarce, except for the Holstein study and the logistics study. The risks scale with the level of output. Within the classroom, everyone likely perceives the same signals as the system. Nonetheless, making individual weaknesses more explicit or pointing out a shy participant (Reflect Table) is not harmless. In the attention measures described above, we could design cameras that do not store images but compute the head co-rotation index in real time, but we stopped this line of research because the work could be misappropriated.
 
-# 8.          Orchestrable technologies
+## 8. Orchestrable technologies
 
 Tchounikine (2013) distinguished between orchestration technologies, which assist teachers in their orchestration tasks, and orchestrability, which refers to technologies that are easy to orchestrate. '**Orchestrable' somehow means the opposite of 'classroom-blind'**. Orchestrability features (Dillenbourg & Jermann, 2010) pertain to the classroom **micro-constraints**. Here are some examples:
 
-\-       *Flexibility*: Can teachers adjust technology-based activities on the fly? Technical limitations often hinder modifications to the lesson plan, such as shortening, skipping, or reordering activities 
-
-\-       *Empowering*: Does the technology enable teachers to drive activities? For example, the appeal of logistics AR made it challenging for teachers to capture learners' attention when needed. Empowering does not mean lecturing, but constructivism does not mean "teacherless". The teacher must guide learners, challenge them, and lead debriefing activities.
-
-\-       *Visibility*: Does the technology hinder teachers from observing what learners are doing? Responsible teachers must monitor learners' behavior. Tangible interfaces provide this visibility, but some devices hide students, such as the black AR device shown on the right in Figure 8, compared with the white one on the left.   
-
-\-       *Minimalism*: Are technological features overwhelming? For teachers busy with orchestration, simpler interfaces are better. We described them as '**modest computing'** (Dillenbourg et al., 2011), emphasizing the intentional reduction of resolution in peripheral awareness tools like the Lantern or the REFLECT.
+* *Flexibility*: Can teachers adjust technology-based activities on the fly? Technical limitations often hinder modifications to the lesson plan, such as shortening, skipping, or reordering activities.
+* *Empowering*: Does the technology enable teachers to drive activities? For example, the appeal of logistics AR made it challenging for teachers to capture learners' attention when needed. Empowering does not mean lecturing, but constructivism does not mean "teacherless". The teacher must guide learners, challenge them, and lead debriefing activities.
+* *Visibility*: Does the technology hinder teachers from observing what learners are doing? Responsible teachers must monitor learners' behavior. Tangible interfaces provide this visibility, but some devices hide students, such as the black AR device shown on the right in Figure 8, compared with the white one on the left.
+* *Minimalism*: Are technological features overwhelming? For teachers busy with orchestration, simpler interfaces are better. We described them as '**modest computing'** (Dillenbourg et al., 2011), emphasizing the intentional reduction of resolution in peripheral awareness tools like the Lantern or the REFLECT.
 
 Within the 'classroom as a system' metaphor, **orchestrability can be reformulated as** **classroom usability**. In HCI, usability usually refers to how easily users interact with a digital environment. The logistics tangible interface, for instance, affords faster shelf manipulation than a multi-touch table (Lucchi et al., 2010). Individual usability constitutes the first circle of usability (Dillenbourg et al., 2011). In the second circle, the user is a team. Does the interface, for instance, afford deictic references in collaborative tasks (Pinelle et al., 2003), which are critical for disambiguating conversations and building a shared understanding (Roschelle, 1992)? The 'user' of the third circle is the classroom: how easily can the classroom process be orchestrated? In Figure 8 (left), each device has a different color. This neither modifies individual (level 1) nor team usability (level 2) but facilitates orchestration (level 3) by enabling the teacher to refer to each team by the color of its device. These three usability circles correspond to the social planes of orchestration graphs. High usability in one circle does not compensate for poor usability in the others; all three must be satisfactory for a teacher to say, *"it works well in my class".*
 
-\|
-
-![](blob:https://euangoddard.github.io/0c8d0adb-f5e9-4beb-ba35-acdc696d0e10)
-
-\|
-
-![](blob:https://euangoddard.github.io/1eb02b93-7826-4d99-a7d2-3b8a25eb9694)
-
-\|
-
 Figure 8. The color of devices as classroom usability (left), the device design changes visibility of learners (right)
+
+![](/the-site-syndrome-produces-classroom-blind-technologies/dillenbourg_fig8.png)
 
 # 9.          Orchestration technologies
 
