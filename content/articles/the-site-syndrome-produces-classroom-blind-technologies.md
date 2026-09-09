@@ -150,7 +150,7 @@ Figure 8. The color of devices as classroom usability (left), the device design 
 
 ![](/the-site-syndrome-produces-classroom-blind-technologies/dillenbourg_fig8.png)
 
-# 9.          Orchestration technologies
+## 9. Orchestration technologies
 
 Orchestration technologies aim to facilitate classroom orchestration, including monitoring, intervention, time management, managing transitions, team formation, and debriefing.
 
@@ -160,19 +160,11 @@ Orchestration technologies aim to facilitate classroom orchestration, including 
 
 *Team Formation.* Learners often form teams by choosing their own groups, but teams should sometimes be structured to minimize or maximize differences among members based on skills, backgrounds, genre, language, nationality, or other criteria (Borges et al., 2018).In the ArgueGraph workflow (Figure 5), an orchestration tool forms pairs of learners with contrasting opinions. As the teacher, I could manually handle this process for a class of 20 to 30 learners. However, for larger classes of 100 or more students, a computer algorithm was necessary to maximize the average opinion difference between peers.
 
-*Debriefing* is the craft of articulating what learners have done during a problem-solving activity and the knowledge expected to be inferred. Reflection and abstraction are required for turning experience into learning, but they are not spontaneous. The teachers' role is to trigger them. Typically, they ask learners to report their attempts, to explain and compare their solutions, and relate them to the concepts or principles to be learned. Schwartz and Bransford (1998) captured this with the slogan 'a time for telling': 'telling' before problem solving is less effective than the other way around (Sinha & Kapur, 2021), but problem solving without 'telling' is not enough. Debriefing is demanding for teachers because building on what learners produce, which is hard to anticipate, involves a degree of improvisation. The dashboard used for logistics activities (Figure 9, right) supported real-time monitoring and debriefing. The upper part shows the warehouse layouts built over time. The yellow-to-red bar indicates how much the team was 'tinkering': red indicates too many shelf manipulations, prompting the teacher to push reflection. In the lower part, the teacher could compare two layouts on logistics variables such as row and net surface or performance. These comparisons articulated layout features and performance, revealing logistics principles. 
-
-\|
-
-![](blob:https://euangoddard.github.io/66b3751c-40a3-499a-b049-dc4ef6529821)
-
-\|
-
-![](blob:https://euangoddard.github.io/5dcc01d8-8d13-4dbb-ad14-a1ef90e0f25c)
-
-\|
+*Debriefing* is the craft of articulating what learners have done during a problem-solving activity and the knowledge expected to be inferred. Reflection and abstraction are required for turning experience into learning, but they are not spontaneous. The teachers' role is to trigger them. Typically, they ask learners to report their attempts, to explain and compare their solutions, and relate them to the concepts or principles to be learned. Schwartz and Bransford (1998) captured this with the slogan 'a time for telling': 'telling' before problem solving is less effective than the other way around (Sinha & Kapur, 2021), but problem solving without 'telling' is not enough. Debriefing is demanding for teachers because building on what learners produce, which is hard to anticipate, involves a degree of improvisation. The dashboard used for logistics activities (Figure 9, right) supported real-time monitoring and debriefing. The upper part shows the warehouse layouts built over time. The yellow-to-red bar indicates how much the team was 'tinkering': red indicates too many shelf manipulations, prompting the teacher to push reflection. In the lower part, the teacher could compare two layouts on logistics variables such as row and net surface or performance. These comparisons articulated layout features and performance, revealing logistics principles.
 
 Figure 9. Visualization for timing a plane transition (left) and dashboard for monitoring and debriefing (right).
+
+![](/the-site-syndrome-produces-classroom-blind-technologies/dillenbourg_fig9.png)
 
 # 10.       Spinach in the conclusions
 
