@@ -1,41 +1,48 @@
 ---
-published: true
+DOI: 10.5281/zenodo.22677521
+Zid: 22677521
+abstract: >-
+  Many experiments have shown the effectiveness of learning technologies, yet
+  few results have been replicated at scale. This contribution questions the
+  causal relationship between technology and learning outcomes and the myths of
+  intrinsic technology effects. Rather than blaming teachers for low acceptance
+  of technology (TAM model) or low ability to appropriate technology (TPACK
+  model), we argue that CSCL tools have been classroom-blind, i.e., neglecting
+  the constraints and affordances of the classroom context. Researchers and
+  designers often overlook subtle differences between ‘authentic’ classroom
+  experiments and everyday practices. This paper examines these methodological
+  and design pitfalls through the concepts of orchestration and orchestrability.
 article_title: The SITE syndrome produces classroom-blind technologies
-date: 2026-09-09T09:10:00.000-05:00
-type: article
-needDOI: true
 authors:
-  - is_institution: false
-    firstname: Pierre
+  - firstname: Pierre
+    is_institution: false
     lastname: Dillenbourg
     positions_and_institutions:
       - institution: Swiss Federal Institute of Technology Lausanne, EPFL
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: Many experiments have shown the effectiveness of learning
-  technologies, yet few results have been replicated at scale. This contribution
-  questions the causal relationship between technology and learning outcomes and
-  the myths of intrinsic technology effects. Rather than blaming teachers for
-  low acceptance of technology (TAM model) or low ability to appropriate
-  technology (TPACK model), we argue that CSCL tools have been classroom-blind,
-  i.e., neglecting the constraints and affordances of the classroom context.
-  Researchers and designers often overlook subtle differences between
-  ‘authentic’ classroom experiments and everyday practices. This paper examines
-  these methodological and design pitfalls through the concepts of orchestration
-  and orchestrability.
-issue: content/issues/paris-ias-ideas-2026.md
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: >-
+  /the-site-syndrome-produces-classroom-blind-technologies/dillenbourg_references.bib
+date: 2026-09-09T14:10:00.000Z
 highlight: false
-bibliography: /the-site-syndrome-produces-classroom-blind-technologies/dillenbourg_references.bib
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/2d8e5ed7-8aac-418c-a41b-40326287f65d
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## 1. The problem at stake
 
 Why do learning technologies remain underexploited despite more than 100 meta-analyses (Borokhovski et al., 2022) showing positive effects on learning? In their second-order meta-analysis, Tamim et al. (2011) report a mean effect size of 0.35 favoring technologies. We come back later to this overgeneralization: talking about the effects of technology in general. However, even when researchers restrict generalization to a specific tool, findings often fail to replicate at scale, with exceptions such as CMU's tutors (Aleven et al., 2009). Replicability is bound to generalizability, i.e., whether empirical results collected in some contexts generalize to 'similar' contexts (Stephens, 1982). Maybe because digital technologies are concrete objects, often a movable box, our community mistakenly believed that implementing technology across contexts would be easier than implementing complex policies such as inclusive education (Fitz et al., 1994).

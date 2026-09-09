@@ -1,48 +1,55 @@
 ---
-published: true
+DOI: 10.5281/zenodo.22677517
+Zid: 22677517
+abstract: >-
+  LLM agents make a new form of software delegation possible. Where conventional
+  software follows fixed steps written out in advance, an LLM agent hands some
+  of those steps to a language model that interprets context, forms plans,
+  chooses tools, updates memory, generates outputs, and decides when to stop.
+  Because such systems take consequential actions on behalf of users, their
+  trajectories matter. Correct agent behavior depends on what agents inspect,
+  which tools they call, what state they update, how they recover from failure,
+  and when they stop. As agentic workflows become easier to build and deploy,
+  many such agents will run at once, and their trajectories will increasingly
+  intersect through shared tools, documents, memories, workflows, and the same
+  underlying AI models. This creates an ecosystem-level problem in which local
+  trajectory failures can become shared state, propagate across agents, and
+  sometimes amplify through feedback loops, provenance erosion, resource
+  contention, dense handoffs, and correlated model failures. Meeting this
+  challenge calls for a science of agentic coordination, one that makes
+  trajectories observable, controls how errors propagate, and stress-tests how
+  agents interact, so it can predict when a local failure stays local and when
+  it tips into a systemic cascade.
 article_title: A Science of LLM-Agent Ecosystems
-date: 2026-08-31T14:09:00.000-05:00
-type: article
-needDOI: true
 authors:
-  - is_institution: false
-    firstname: Suri
+  - firstname: Suri
+    is_institution: false
     lastname: Siddharth
     positions_and_institutions:
       - institution: Microsoft Research
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: LLM agents make a new form of software delegation possible. Where
-  conventional software follows fixed steps written out in advance, an LLM agent
-  hands some of those steps to a language model that interprets context, forms
-  plans, chooses tools, updates memory, generates outputs, and decides when to
-  stop. Because such systems take consequential actions on behalf of users,
-  their trajectories matter. Correct agent behavior depends on what agents
-  inspect, which tools they call, what state they update, how they recover from
-  failure, and when they stop. As agentic workflows become easier to build and
-  deploy, many such agents will run at once, and their trajectories will
-  increasingly intersect through shared tools, documents, memories, workflows,
-  and the same underlying AI models. This creates an ecosystem-level problem in
-  which local trajectory failures can become shared state, propagate across
-  agents, and sometimes amplify through feedback loops, provenance erosion,
-  resource contention, dense handoffs, and correlated model failures. Meeting
-  this challenge calls for a science of agentic coordination, one that makes
-  trajectories observable, controls how errors propagate, and stress-tests how
-  agents interact, so it can predict when a local failure stays local and when
-  it tips into a systemic cascade.
-issue: content/issues/paris-ias-ideas-2026.md
-highlight: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /a-science-of-llm-agent-ecosystems/suri_references.bib
+date: 2026-08-31T19:09:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/4e9f8b0c-31ab-4f8a-9740-4e5839b1c73a
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## Introduction
 
 LLM agents are becoming salient now for two reasons. The first is technical. They make a new form of software delegation possible. Conventional software follows fixed, predictable steps written out in advance; an LLM agent hands some of those steps to a language model that interprets the situation and decides what to do. One call to the model might interpret context, form a plan, choose a tool, update the agent's memory, produce output, or decide when to stop (Park et al., 2023; Schick et al., 2023; Yao et al., 2022). As a result, instead of specifying every step of a workflow, users can operate at a higher level of abstraction by specifying goals. The tradeoff is that users gain speed, adaptability, and the ability to delegate a wider range of work across tools and systems. In exchange, they give up some deterministic control, transparency, predictability, and ease of debugging. The second reason is socio-technical. Agentic systems are becoming easier to build through natural-language, graphical, low-code, and no-code platforms \[Microsoft Copilot Studio]. LLMs also help build the agents themselves by scaffolding code, writing prompts, connecting APIs, and debugging workflows. Building agents is getting easier. Getting an ecosystem of them to work together robustly is not.
