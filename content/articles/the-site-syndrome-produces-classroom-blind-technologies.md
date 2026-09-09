@@ -66,7 +66,7 @@ Figure 3. The teacher's role in the causal chain
 
 This study challenges the myth of intrinsic technological effects. While the technology remained unchanged for learners, empowering teachers to force predictions shifted learning outcomes from non-significant to significant. **How can a technology be deemed effective if its impact depends on the teacher's role?** Most colleagues would agree that the teacher's role is crucial. However, using technology as the only independent variable implicitly betrays our belief that the system will have effects independent of the teacher's role. 
 
-# 3.          One blames teachers; who blames developers?
+## 3. One blames teachers; who blames developers?
 
 "Do teachers matter?" is the provocative title of studies that measure the influence of teachers on students' school achievement (Slater et al., 2011). The results tend to indicate that teachers' impact depends largely on how learner achievement is measured (Guarino et al., 2015). While the experiment in logistics showed the importance of the teacher role, many policymakers would appreciate assurance that a tool produces similar effects with any teacher, excellent or weaker. I even heard a CSCL colleague proudly stating, "I have no teacher effect": research methods treat these effects as methodological biases because they weaken the causal link between technology and outcomes. Assigning the same teachers to both the control and experimental groups neutralizes the teacher's effect, but introduces another bias: teachers' (lack of) enthusiasm for the tool. **No double-blind study exists in education**. 
 
@@ -76,23 +76,17 @@ The second teacher feature is Technical Pedagogical Content Knowledge (TPACK) (M
 
 Comparing these two logistic experiments confirms that the disappointing results of the first study were not due to teachers having low TAM or TPACK, as the same teachers participated in the second study. Instead, the AR tool was so playful that teachers struggled to attract students' attention. The orchestration card helped them to require deeper cognitive engagement from their apprentices. **Rather than blaming insufficient TPACK, we provided cards that lowered TPACK requirements for classroom orchestration**. 
 
-# 4.          Classroom micro-constraints reduce generalizability
+## 4. Classroom micro-constraints reduce generalizability
 
 Despite the positive outcomes of the logistics experiment, this AR tool did not achieve large-scale adoption or become part of long-term practice. Few schools in Switzerland teach logistics, and other countries rejected the AR device as too expensive. However, even the schools that had acquired the tool stopped using it a few years later. The technology required teachers to come earlier to install these bulky devices, set up electrical extension cords, and sometimes recalibrate the camera-projector alignment. In the reported experiments, the teacher often arrived 10-15 minutes before the lesson because an experiment with a research team is not an ordinary event, but in daily routines, they might have another lesson before or simply deserve a coffee break. The room preparation time is also an issue in CSCL when classroom furniture needs to be moved to facilitate teamwork. Even when research is conducted in 'authentic' contexts, short-term interventions inadvertently waive some of the micro-constraints that shape classroom routines, such as:
 
-\-       *Time budget.* Teachers often agree, for instance, to spend 90 minutes on the content taught in the experiment, while they usually devote only 60 minutes. 
-
-\-       *Latecomers*: If a learner arrives 15 minutes late or misses the previous lesson, can they catch up? In experimental settings, they are typically excluded from the dataset. In real life, these learners should receive the same instruction as the rest of the class.
-
-\-       *Time fragmentation*: If some learners haven't finished the activities when the bell rings, can they save their work and resume later? 
-
-\-       *Traces*: Do technology-based activities generate digital or physical traces? Traces support student rehearsal before tests and enable parents to stay informed about their children's actions at school.
-
-\-       *Login*: In elementary schools, entering correct passwords can take several minutes. If this burns 5 minutes in a 50-minute lesson, do the security benefits justify a 10% decrease in learning time?
-
-\-       *Discipline*: Maintaining some control of the class is a legitimate concern for teachers, especially novices. Control does not mean keeping the class silent but fostering a favorable learning climate: a reasonable level of noise, avoiding off-task drift and social misconduct, etc.
-
-\-       *Assessment:* Measuring learning and offering feedback are crucial for effective teaching. Most school systems translate this process into grades and define rules such as assigning five grades per student each semester. In experimental settings, we often avoid grading, namely for ethical reasons.
+* *Time budget.* Teachers often agree, for instance, to spend 90 minutes on the content taught in the experiment, while they usually devote only 60 minutes. 
+* *Latecomers*: If a learner arrives 15 minutes late or misses the previous lesson, can they catch up? In experimental settings, they are typically excluded from the dataset. In real life, these learners should receive the same instruction as the rest of the class.
+* *Time fragmentation*: If some learners haven't finished the activities when the bell rings, can they save their work and resume later? 
+* *Traces*: Do technology-based activities generate digital or physical traces? Traces support student rehearsal before tests and enable parents to stay informed about their children's actions at school.
+* *Login*: In elementary schools, entering correct passwords can take several minutes. If this burns 5 minutes in a 50-minute lesson, do the security benefits justify a 10% decrease in learning time?
+* *Discipline*: Maintaining some control of the class is a legitimate concern for teachers, especially novices. Control does not mean keeping the class silent but fostering a favorable learning climate: a reasonable level of noise, avoiding off-task drift and social misconduct, etc.
+* *Assessment:* Measuring learning and offering feedback are crucial for effective teaching. Most school systems translate this process into grades and define rules such as assigning five grades per student each semester. In experimental settings, we often avoid grading, namely for ethical reasons.
 
 These details do not appear in methodological handbooks, yet they spoil upscaling. I call them micro-constraints in contrast to 'true' pedagogical constraints in instructional design, such as content structure, prerequisites, diversity, etc. Micro-constraints are not about 'how people learn' but what Nussbaum and Diaz (2013) named the '**logistics of education'**. Both researchers and technology developers overlook them.
 
