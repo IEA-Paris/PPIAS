@@ -90,15 +90,13 @@ Despite the positive outcomes of the logistics experiment, this AR tool did not 
 
 These details do not appear in methodological handbooks, yet they spoil upscaling. I call them micro-constraints in contrast to 'true' pedagogical constraints in instructional design, such as content structure, prerequisites, diversity, etc. Micro-constraints are not about 'how people learn' but what Nussbaum and Diaz (2013) named the '**logistics of education'**. Both researchers and technology developers overlook them.
 
-# 5.          Tackling the myth: experiment 2
+## 5. Tackling the myth: experiment 2
 
 The second experiment tackles the myth of intrinsic effects. Like the logistics simulation, we designed an augmented reality environment, which technically refers to overlaying digital elements over real objects or their images.  The term 'reality' is indeed misleading. The logistics simulation offers no perceptual fidelity with a real warehouse, only cognitive fidelity. In the real world, reshuffling 30 shelves in 2 minutes with fingers is impossible. The 'augmentation' partly escapes reality, making the impossible possible. This principle inspired an AR for apprentice gardeners (Kim et al., 2020). When facing an empty garden, an experienced gardener visualizes how plants will look in the future. Apprentices lack this experience, but AR can simulate it. After capturing a garden landscape with a drone, apprentices explore it through a virtual reality headset. They place flowers, trees, benches, and more. They then explore and modify the garden as often as needed. In real life, moving a planted tree is more than difficult. Another impossible act becomes possible: time travel, viewing the garden at different times of day, seasons, or in the future (Figure 4, left). 
 
-![](blob:https://euangoddard.github.io/108cf44b-511b-4a7d-ae48-97f72c3b9dc8)
-
- ![](blob:https://euangoddard.github.io/c02d5d8e-96db-49e1-ba05-0d7d494cdef0)
-
 Figure 4. An AR environment for gardener apprentices (left). One of their garden sketches (right)
+
+![](/the-site-syndrome-produces-classroom-blind-technologies/dillenbourg_fig4.png)
 
 This new experiment did not compare AR to paper activities, but examined their complementarity. In one condition, apprentices sketched a garden on paper (Figure 4, right) before constructing it in 3D. In the other condition, they built it in AR and then sketched it. The results showed significantly better garden designs in proportion and composition when apprentices sketched on paper first (Kim et al., 2020). Sketching encouraged more careful planning and idea development than tinkering with AR features. 
 
