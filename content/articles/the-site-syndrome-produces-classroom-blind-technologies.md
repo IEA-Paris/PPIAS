@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: The SITE syndrome produces classroom-blind technologies
 date: 2026-09-09T09:10:00.000-05:00
 type: article
