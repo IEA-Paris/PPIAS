@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: Rethinking Compositionality
 date: 2026-09-13T11:54:00.000-05:00
 type: article
