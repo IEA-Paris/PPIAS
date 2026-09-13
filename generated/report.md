@@ -91,42 +91,6 @@ combinedInstitutions:
       - articles:
           - INTEL_2022_11_une-droitisation-des-espaces-politiques_table-ronde
         value: CNRS / Sciences Po, CERI, France
-  - author: Marie Degremont
-    authorDoc: content/authors/d/degremont-marie.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/d/degremont-marie
-    institutions:
-      - articles:
-          - >-
-            EneTran_2016_06_comment-les-collectivites-territoriales-francaises-se-saisissent-elles-du-theme-de-la-transition-energetique
-        value: Sciences Po / CSO, France
-  - author: Thomas Reverdy
-    authorDoc: content/authors/r/reverdy-thomas.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
-    institutions:
-      - articles:
-          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
-        value: PACTE / Université de Grenoble, France
-  - author: Pauline Gabillet
-    authorDoc: content/authors/g/gabillet-pauline.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/g/gabillet-pauline
-    institutions:
-      - articles:
-          - >-
-            EneTran_2016_07_les-entreprises-locales-de-distribution-bras-armes-des-politiques-energetiques-territoriales
-        value: >-
-          Laboratoire Techniques Territoires et Societes (LATTS) / Université
-          Gustave Eiffel, France
-  - author: Olivier Coutard
-    authorDoc: content/authors/c/coutard-olivier.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/c/coutard-olivier
-    institutions:
-      - articles:
-          - EneTran_2016_09_politiques-urbaines-de-transition-energetique
-        value: CNRS, LATTS / Université Gustave Eiffel, France
   - author: Itzhak Fried
     authorDoc: content/authors/f/fried-itzhak.md
     cmsLink: >-
@@ -160,6 +124,42 @@ combinedInstitutions:
           - >-
             collective-intelligence-is-needed-to-ensure-beneficial-artificial-intelligence
         value: UCLA, USA / Université de Tel-Aviv, Israël
+  - author: Marie Degremont
+    authorDoc: content/authors/d/degremont-marie.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/d/degremont-marie
+    institutions:
+      - articles:
+          - >-
+            EneTran_2016_06_comment-les-collectivites-territoriales-francaises-se-saisissent-elles-du-theme-de-la-transition-energetique
+        value: Sciences Po / CSO, France
+  - author: Pauline Gabillet
+    authorDoc: content/authors/g/gabillet-pauline.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/g/gabillet-pauline
+    institutions:
+      - articles:
+          - >-
+            EneTran_2016_07_les-entreprises-locales-de-distribution-bras-armes-des-politiques-energetiques-territoriales
+        value: >-
+          Laboratoire Techniques Territoires et Societes (LATTS) / Université
+          Gustave Eiffel, France
+  - author: Thomas Reverdy
+    authorDoc: content/authors/r/reverdy-thomas.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/r/reverdy-thomas
+    institutions:
+      - articles:
+          - EneTran_2016_08_politique-energetique-et-marche-de-lelectricite
+        value: PACTE / Université de Grenoble, France
+  - author: Olivier Coutard
+    authorDoc: content/authors/c/coutard-olivier.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/c/coutard-olivier
+    institutions:
+      - articles:
+          - EneTran_2016_09_politiques-urbaines-de-transition-energetique
+        value: CNRS, LATTS / Université Gustave Eiffel, France
   - author: Jacques Semelin
     authorDoc: content/authors/s/semelin-jacques.md
     cmsLink: >-
@@ -237,7 +237,7 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-createdAt: '2026-9-9 14:50:42'
+createdAt: '2026-9-13 17:35:36'
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
