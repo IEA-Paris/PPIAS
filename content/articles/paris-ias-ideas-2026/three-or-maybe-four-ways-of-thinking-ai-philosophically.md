@@ -1,32 +1,14 @@
 ---
-published: true
-article_title: "Three (or Maybe Four) Ways of Thinking AI Philosophically "
-date: 2026-10-06T21:03:00.000-05:00
-type: article
-needDOI: true
-authors:
-  - is_institution: false
-    firstname: Joseph
-    lastname: Tanke
-    positions_and_institutions:
-      - institution: University of Hawaiʻi, Mānoa, USA
-        positions: []
-    social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: "This essay develops a critical, non-reductive account of large
-  language model (LLM) AI by examining how this technology reshapes language,
-  labor, and life. It considers four philosophically distinct approaches to AI,
-  including: the classical cognitivist debate running from Turing to Searle; the
-  discourse of existential risk, developed by Nick Bostrom and others; Marxist
-  theories of technology; and Michel Foucault’s account of the relations between
-  power, knowledge, and subjectivity. It questions whether agentic misalignment
+DOI: 10.5281/zenodo.23201703
+Zid: 23201703
+abstract: >-
+  This essay develops a critical, non-reductive account of large language model
+  (LLM) AI by examining how this technology reshapes language, labor, and life.
+  It considers four philosophically distinct approaches to AI, including: the
+  classical cognitivist debate running from Turing to Searle; the discourse of
+  existential risk, developed by Nick Bostrom and others; Marxist theories of
+  technology; and Michel Foucault’s account of the relations between power,
+  knowledge, and subjectivity. It questions whether agentic misalignment
   warrants conceptualization in terms of existential risk, suggesting that the
   problem needs to be interpreted from the standpoint of what we know about the
   alignment of human reason under late capitalism. It proposes a definition of
@@ -34,11 +16,36 @@ abstract: "This essay develops a critical, non-reductive account of large
   uses this definition to sketch a synthesis of the Marxist and Foucaultian
   approaches. In general, this essay argues that AI should be understood not
   merely through debates about the meaning of intelligence or questions of
-  applied ethics, but as a problem for a critically engaged social philosophy. "
-issue: content/issues/paris-ias-ideas-2026.md
+  applied ethics, but as a problem for a critically engaged social philosophy. 
+article_title: 'Three (or Maybe Four) Ways of Thinking AI Philosophically '
+authors:
+  - firstname: Joseph
+    is_institution: false
+    lastname: Tanke
+    positions_and_institutions:
+      - institution: University of Hawaiʻi, Mānoa, USA
+        positions: []
+    social_channels:
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+date: 2026-10-07T02:03:00.000Z
 highlight: false
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/cef4ac33-966e-46e9-929c-69526452a443
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## Acknowledgments 
 
 This paper was prepared during my residency in the Paris Ideas Program at the *Institut d'études avancées de Paris*. I am grateful to the staff for creating such a welcoming environment, and to my fellow residents for their intellectual generosity and lively conversations.     

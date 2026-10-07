@@ -1,44 +1,51 @@
 ---
-published: true
+DOI: 10.5281/zenodo.23201701
+Zid: 23201701
+abstract: >-
+  Compositionality is the property of a communication system that the meaning of
+  complex signals can be composed of the meanings of its parts. This paper first
+  presents the distinction between trivial and non-trivial compositionality and
+  how the latter is aligned with the concept of sentence in human language. For
+  the account of non-trivial compositionality, the classical proposal in the
+  field is based on the notion of function and its generalization in lambda
+  calculus. But this approach would replace trivial compositionality and makes
+  few, if any, predictions of how human compositionality is restricted. I
+  present an alternative proposal for non-trivial compositionality analyzing it
+  as the application of trivial composition followed by minimization. One
+  advantage of the new, more restrictive, proposal is that it predicts that
+  transitive verbs must be decomposed into different meaningful pieces, which
+  had been observed before empirically, but not ever been predicted from a
+  general theory.
 article_title: Rethinking Compositionality
-date: 2026-09-13T11:54:00.000-05:00
-type: article
-needDOI: true
 authors:
-  - is_institution: false
-    firstname: Uli
+  - firstname: Uli
+    is_institution: false
     lastname: Sauerland
     positions_and_institutions:
       - institution: Leibniz-Centre General Linguistics, Berlin, Germany
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: Compositionality is the property of a communication system that the
-  meaning of complex signals can be composed of the meanings of its parts. This
-  paper first presents the distinction between trivial and non-trivial
-  compositionality and how the latter is aligned with the concept of sentence in
-  human language. For the account of non-trivial compositionality, the classical
-  proposal in the field is based on the notion of function and its
-  generalization in lambda calculus. But this approach would replace trivial
-  compositionality and makes few, if any, predictions of how human
-  compositionality is restricted. I present an alternative proposal for
-  non-trivial compositionality analyzing it as the application of trivial
-  composition followed by minimization. One advantage of the new, more
-  restrictive, proposal is that it predicts that transitive verbs must be
-  decomposed into different meaningful pieces, which had been observed before
-  empirically, but not ever been predicted from a general theory.
-issue: content/issues/paris-ias-ideas-2026.md
-highlight: false
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
 bibliography: /rethinking-compositionality/references_sauerland.bib
+date: 2026-09-13T16:54:00.000Z
+highlight: false
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/952ea34a-749d-403b-a028-1f6efe632a23
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## Acknowledgement
 
 I am grateful to Henry Davis, Benjamin Spector, Philippe Schlenker, my colleagues within the LeibnizDream project, the other fellows at the Paris Institute for Advanced Study during my writing residency in November 2025, and audiences in Prague and Paris for discussions of this work. This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No 856421). This article benefited from a fellowship at the Paris Institute for Advanced Study (France), with the financial support of the French State, programme "Investissements d'avenir" managed by the Agence Nationale de la Recherche (ANR-11-LABX-0027-01 Labex RFIEA+).

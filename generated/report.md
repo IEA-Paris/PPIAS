@@ -237,7 +237,7 @@ conflicts:
       - articles:
           - SynE3_2017_16_roundtable-1-past-and-present-perpetrators
         value: de Swaan
-createdAt: '2026-9-13 17:35:36'
+createdAt: '2026-10-7 3:14:55'
 missingReferences:
   1_Goasdoue:
     - (Lahire, 2012
@@ -870,13 +870,6 @@ spellingVariants:
     kept: Paris Institute for Advanced Study, France
     variants:
       - Paris Institute for Advanced Study
-  - author: Saadi Lahlou
-    authorDoc: content/authors/l/lahlou-saadi.md
-    cmsLink: >-
-      https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
-    kept: Paris Institute for Advanced Study, France
-    variants:
-      - Paris Institute for Advanced Study
   - author: Raouf Boucekkine
     authorDoc: content/authors/b/boucekkine-raouf.md
     cmsLink: >-
@@ -884,6 +877,13 @@ spellingVariants:
     kept: Rennes School of Business
     variants:
       - Rennes School of Business, France
+  - author: Saadi Lahlou
+    authorDoc: content/authors/l/lahlou-saadi.md
+    cmsLink: >-
+      https://paris.pias.science/admin/#/collections/authors/entries/l/lahlou-saadi
+    kept: Paris Institute for Advanced Study, France
+    variants:
+      - Paris Institute for Advanced Study
   - author: Helga Nowotny
     authorDoc: content/authors/n/nowotny-helga.md
     cmsLink: >-
