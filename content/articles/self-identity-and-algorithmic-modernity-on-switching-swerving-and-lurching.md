@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "Self-Identity and Algorithmic Modernity: On Switching, Swerving and Lurching"
 date: 2026-10-07T11:13:00.000-05:00
 type: article
