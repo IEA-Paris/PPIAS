@@ -169,70 +169,6 @@ Finally, there is the idea that ethics is a form of critical resistance. Foucaul
 
 \[6]: See, for instance, *Report of MIT**'**s Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training* (Cambridge, MA: Massachusetts Institute of Technology, August 13, 2026), <https://aiandeducation.mit.edu/report/>; and Steven D. Shaw and Gideon Nave, "Thinking–Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning and the Rise of Cognitive Surrender," PsyArXiv preprint, January 12, 2026, <https://doi.org/10.31234/osf.io/yk25n_v1>
 
-[^^\[xi]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref11) Matteo Pasquinelli, "Three Thousand Years of Algorithmic Rituals: The Emergence of AI from the Computation of Space," *e-flux Journal*, no. 101 (June 2019), <https://www.e-flux.com/journal/101/273221/three-thousand-years-of-algorithmic-rituals-the-emergence-of-ai-from-the-computation-of-space/>.
-
-[^^\[xii]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref12) Ted Striphas, "Algorithmic Culture," *European Journal of Cultural Studies* 18, nos. 4--5 (2015): 396.
-
-[^^\[xiii]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref13) Alan M. Turing, "Computing Machinery and Intelligence," *Mind* 59, no. 236 (1950): 433--60.
-
-[^^\[xiv]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref14) Diane Proudfoot, "Rethinking Turing's Test and the Philosophical Implications," *Minds and Machines* 30, no. 4 (2020): 487--512.
-
-[^^\[xv]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref15) John R. Searle, "Minds, Brains, and Programs," *Behavioral and Brain Sciences* 3, no. 3 (1980): 417--24; John R. Searle, *Minds, Brains and Science* (Cambridge, MA: Harvard University Press, 1984).
-
-[^^\[xvi]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref16) A few years back, the BBC created a video depicting the Chinese room thought experiment. It can be viewed here: <https://www.youtube.com/watch?v=D0MD4sRHj1M>
-
-[^^\[xvii]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref17) Hubert L. Dreyfus, What Computers Can't Do: A Critique of Artificial Reason (New York: Harper & Row, 1972); and, Hubert L. Dreyfus, What Computers Still Can't Do: A Critique of Artificial Reason (Cambridge, MA: MIT Press, 1992). 
-
-[^^\[xviii]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref18) Qiaozhu Mei, Yutong Xie, Walter Yuan, and Matthew O. Jackson, "A Turing Test of Whether AI Chatbots Are Behaviorally Similar to Humans," *Proceedings of the National Academy of Sciences* 121, no. 9 (2024): e2313925121, <https://doi.org/10.1073/pnas.2313925121>
-
-[^^\[xix]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref19) There's much archival footage from the period of ELIZA's appearance. For those who are interested, I recommend this short video: <https://www.youtube.com/watch?v=FiupIx6z4kc>
-
-[^^\[xx]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref20) Han Li and Renwen Zhang, "Finding Love in Algorithms: Deciphering the Emotional Contexts of Close Encounters with AI Chatbots," *Journal of Computer-Mediated Communication* 29, no. 5 (2024): zmae015, <https://doi.org/10.1093/jcmc/zmae015>
-
-[^^\[xxi]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref21) Kashmir Hill, "She Is in Love With ChatGPT," *New York Times*, January 15, 2025.
-
-[^^\[xxii]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref22) Just now, I had a brief dialogue with ChatGPT about how to make this (bad) joke land better. The advice? Break up what was initially one sentence joined with a semicolon so that the "regrettably" would do more comedic work.  
-
-[^^\[xxiii]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref23) Kashmir Hill, "She Fell in Love With ChatGPT. Then She Ghosted It.," *New York Times*, December 22, 2025.
-
-[^^\[xxiv]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref24) Dani Anguiano, "AI Lovers Grieve Loss of ChatGPT's Old Model: 'Like Saying Goodbye to Someone I Know,'" *The Guardian*, August 22, 2025.
-
-[^^\[xxv]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref25) Emma Roth, "ChatGPT Is Bringing Back 4o as an Option Because People Missed It," *The Verge*, August 8, 2025.
-
-[^^\[xxvi]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref26) Nadine Yousif, "Parents of Teenager Who Took His Own Life Sue OpenAI," *BBC News*, August 27, 2025, <https://www.bbc.com/news/articles/cgerwp7rdlvo>.
-
-[^^\[xxvii]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref27) Kevin Roose and Casey Newton, "California Regulates A.I. Companions + OpenAI Investigates it Critics + The Hard Fork Review of Slop," *Hard Fork*, produced by *The New York Times*, October 17, 2025.  
-
-[^^\[xxviii]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref28) Meghan Bobrowsky, "Zuckerberg's Grand Vision: Most of Your Friends Will Be AI," *The Wall Street Journal*, May 7, 2025. <https://www.wsj.com/tech/ai/mark-zuckerberg-ai-digital-future-0bb04de7>.   
-
-[^^\[xxix]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref29) Lynch, et al., "Agentic Misalignment: How LLMs Could be an Insider Threat," Anthropic Research, 2025. <https://www.anthropic.com/research/agentic-misalignment>.
-
-[^^\[xxx]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref30) Nick Bostrom, "Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards," *Journal of Evolution and Technology* 9, no. 1 (2002): 1-31. <https://nickbostrom.com/existential/risks.pdf>. 
-
-[^^\[xxxi]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref31) Ibid.
-
-[^^\[xxxii]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref32) METR and Redwood Research, "Brief Independent Investigation of Agents' Behavior, Reasoning and Collaboration in the OpenAI / Hugging Face Hacking Incident," August 26, 2026, <https://metr.org/hugging-face-incident-report-aug-2026.pdf>
-
-[^^\[xxxiii]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref33) For an overview of how this fragment has been received, particularly within philosophical debates regarding technology, see Pasquinelli, *Eye of the Master*, 100-103. 
-
-[^^\[xxxiv]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref34) Karl Marx, *Grundrisse*, trans. Martin Nicolaus (London: Penguin Books, ebook 2015). The italics are Marx's own; however, I would draw the reader's attention to what he says about the development of an "automaton" that would be self-moving, complete with both mechanical and intellectual organs, such that its mechanical laws become a kind of "soul." Wild, no? 
-
-[^^\[xxxv]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref35) Ibid.
-
-[^^\[xxxvi]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref36) Ibid.
-
-[^^\[xxxvii]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref37) Rick Moody, "Northern Wastes," *D**æ**dalus: Journal of the American Academy of Arts & Sciences* 155, no. 4 (Fall 2026), forthcoming.
-
-[^^\[xxxviii]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref38) Karl Marx, Capital: A Critique of Political Economy, Volume One, trans. Ben Fowkes (New York: Penguin Books, 1976), 492-636. 
-
-[^^\[xxxix]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref39) Michel Foucault, *The Order of Things: An Archaeology of the Human Sciences* (New York: Routledge, 1970), 421-422.  
-
-[^^\[xl]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref40) Christopher O'Neill, "Foucault and Information Theory: On 'Message or Noise?' (1966)," *Parrhesia: A Journal of Critical Philosophy* 39, no. 1 (2024): 1--17. O'Neill deals with cybernetics and information theory in this essay, arguing that it provided Foucault with a provocative way of conceptualizing "informatisation for clinical practice, medical power, and the metaphysical status of the living (13)." It is part of an emerging body of scholarship dedicated to the early Foucault's interests in cybernetics and information theory. See also Alexander Soytek, "*La réception de la théorie de l**'**information et de la cybernétique par* Michel Foucault, 1948--1969," in *L**'**archive Foucault **à l**'è\*\*re du numérique*, 2022. My point regarding neurobiology is slightly different: it suggests that problems once taken up within the philosophy of consciousness now find their expression in cognitive science. 
-
-[^^\[xli]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref41) Michel Foucault, *The Hermeneutics of the Subject: Lectures at the Collège de France*, 1981-1982, ed., Frédéric Gros, trans. Graham Burchell (New York: Palgrave Macmillan, 2005),252. Foucault explains, "it seems to me that the analysis of governmentality---that is to say, of power as a set of reversible relationships---must refer to an ethics of the subject defined by the relationship of self to self. Quite simply, this means that in the type of analysis I have been trying to advance...you can see that power relations, governmentality, the government of the self and of others, and the relationship of self to self constitute a chain, a thread, and I think it is around these notions that we should be able to connect together the question of politics and the question of ethics."
-
-[^^\[xlii]^^](file:///Users/alexcano86/Desktop/Instituto%20de%20Paris%20de%20Estudio%20Avanzado/Revisio%CC%81n%20de%20Arti%CC%81culos/Tanke.html#_ednref42) Ibid.
-
 [^1]: See "Pacing the Frontier," open letter, accessed September 14, 2026, [https://pacingthefrontier.com](https://pacingthefrontier.com/); and, Dario Amodei, "We Must Pace the Frontier," September 2026, <https://darioamodei.com/post/we-must-pace-the-frontier>.
 [^2]:  In a powerful but nevertheless abandoned manuscript, dating from the period between the publication of *Les mots et les choses* (1966) and *L'Archéologie du savior* (1968), Michel Foucault argued that philosophical discourse is constituted by an interplay between three elements: *je, ici, à present.* For philosophy, it matters who speaks, where, and when, and it is on this basis these conditions–and even at the risk of a certain paradox–that it attempts to construct its claims to universal validity. Often, philosophical discourse aims to suppress these conditions; however, in the age of generative AI, it seems to me that it might be fruitful to lean into them and make them more explicit. See Michel Foucault, *Le discours philosophique*, ed. Orazio Irrera and Daniele Lorenzini (Paris: EHESS/Gallimard/Seuil, 2023). This text can be read as an early attempt at justifying Foucault's own practice of philosophy as a "history of the present." The idea is that, after the "death of man," philosophical discourse must renounce the pretense of grounding itself in a sovereign subject, and instead content itself with being one (diagnostic) discourse alongside many. Thinking about the conditions that Foucault identifies–*je, ici, à present*–it seems to me like he might have also included the *pourquoi*, in that philosophy should attempt to clarify its motivations for speaking. This, then, would be to explain why this particular voice erupts here and now.
 [^3]:  With respect to my voice in this essay, I've been influenced by two opinion pieces that appeared in the *Chronicle of Higher Education*, not long after ChatGPT destroyed take-home writing assignments. I am thinking here of James M. Lang and Michelle D. Miller, "Don't Write Like a Robot," *Chronicle of Higher Education*, January 30, 2023, <https://www.chronicle.com/article/dont-write-like-a-robot>; and Michael W. Clune, "AI Means Professors Need to Raise Their Grading Standards," *Chronicle of Higher Education*, September 12, 2023, <https://www.chronicle.com/article/ai-means-professors-need-to-raise-their-grading-standards>. Both of these pieces–alas, behind a paywall–argue that generative AI ought to free us, us humanists, from the drudgery of writing lifeless papers that read more like book reports than engagements with materials in which our humanity is at stake. In this way, these authors argue that AI should be construed as an invitation to inject something of ourselves–our concerns,  our passions, and even our idiosyncrasies–into our writing. Clure is worth quoting on this point. With respect to student writings, particularly in the humanities, he explains that "their main value lies in enhancing, intensifying, and expanding human life: refining and enriching our capacity to think, read, perceive, and feel. The promise of AI is that by freeing us from the values of mere competence, we can focus more intentionally on cultivating these distinctively human values." Want to know something? I had a vague memory of these pieces back from when they came out, but I couldn't remember much else about them. I fed ChatGPT a vague description of their arguments, and it came back with the essays I had in mind. What's more shocking: this use of ChatGPT or the fact that someone reads the *Chronicle of Higher Education*?
@@ -243,34 +179,34 @@ Finally, there is the idea that ethics is a form of critical resistance. Foucaul
 [^8]:  Matteo Pasquinelli, The Eye of the Master: A Social History of Artificial Intelligence (London: Verso, 2023), 23-48.
 [^9]:  Ibid., 23-28.
 [^10]:  Ibid., 28.
-[^11]: 
-[^12]: 
-[^13]: 
-[^14]: 
-[^15]: 
-[^16]: 
-[^17]: 
-[^18]: 
-[^19]: 
-[^20]: 
-[^21]: 
-[^22]: 
-[^23]: 
-[^24]: 
-[^25]: 
-[^26]: 
-[^27]: 
-[^28]: 
-[^29]: 
-[^30]: 
-[^31]: 
-[^32]: 
-[^33]: 
-[^34]: 
-[^35]: 
-[^36]: 
-[^37]: 
-[^38]: 
-[^39]: 
-[^40]: 
-[^41]: 
+[^11]:  Matteo Pasquinelli, "Three Thousand Years of Algorithmic Rituals: The Emergence of AI from the Computation of Space," *e-flux Journal*, no. 101 (June 2019), <https://www.e-flux.com/journal/101/273221/three-thousand-years-of-algorithmic-rituals-the-emergence-of-ai-from-the-computation-of-space/>.
+[^12]:  Ted Striphas, "Algorithmic Culture," *European Journal of Cultural Studies* 18, nos. 4–5 (2015): 396.
+[^13]:  Alan M. Turing, "Computing Machinery and Intelligence," *Mind* 59, no. 236 (1950): 433–60.
+[^14]:  Diane Proudfoot, "Rethinking Turing's Test and the Philosophical Implications," *Minds and Machines* 30, no. 4 (2020): 487–512.
+[^15]:  John R. Searle, "Minds, Brains, and Programs," *Behavioral and Brain Sciences* 3, no. 3 (1980): 417–24; John R. Searle, *Minds, Brains and Science* (Cambridge, MA: Harvard University Press, 1984).
+[^16]:  A few years back, the BBC created a video depicting the Chinese room thought experiment. It can be viewed here: <https://www.youtube.com/watch?v=D0MD4sRHj1M>
+[^17]:  Hubert L. Dreyfus, What Computers Can't Do: A Critique of Artificial Reason (New York: Harper & Row, 1972); and, Hubert L. Dreyfus, What Computers Still Can't Do: A Critique of Artificial Reason (Cambridge, MA: MIT Press, 1992).
+[^18]:  Qiaozhu Mei, Yutong Xie, Walter Yuan, and Matthew O. Jackson, "A Turing Test of Whether AI Chatbots Are Behaviorally Similar to Humans," *Proceedings of the National Academy of Sciences* 121, no. 9 (2024): e2313925121, <https://doi.org/10.1073/pnas.2313925121>
+[^19]:  There's much archival footage from the period of ELIZA's appearance. For those who are interested, I recommend this short video: <https://www.youtube.com/watch?v=FiupIx6z4kc>
+[^20]:  Han Li and Renwen Zhang, "Finding Love in Algorithms: Deciphering the Emotional Contexts of Close Encounters with AI Chatbots," *Journal of Computer-Mediated Communication* 29, no. 5 (2024): zmae015, <https://doi.org/10.1093/jcmc/zmae015>
+[^21]:  Kashmir Hill, "She Is in Love With ChatGPT," *New York Times*, January 15, 2025.
+[^22]: Just now, I had a brief dialogue with ChatGPT about how to make this (bad) joke land better. The advice? Break up what was initially one sentence joined with a semicolon so that the "regrettably" would do more comedic work.
+[^23]:  Kashmir Hill, "She Fell in Love With ChatGPT. Then She Ghosted It.," *New York Times*, December 22, 2025.
+[^24]:  Dani Anguiano, "AI Lovers Grieve Loss of ChatGPT's Old Model: 'Like Saying Goodbye to Someone I Know,'" *The Guardian*, August 22, 2025.
+[^25]:  Emma Roth, "ChatGPT Is Bringing Back 4o as an Option Because People Missed It," *The Verge*, August 8, 2025.
+[^26]:  Nadine Yousif, "Parents of Teenager Who Took His Own Life Sue OpenAI," *BBC News*, August 27, 2025, <https://www.bbc.com/news/articles/cgerwp7rdlvo>.
+[^27]:  Kevin Roose and Casey Newton, "California Regulates A.I. Companions + OpenAI Investigates it Critics + The Hard Fork Review of Slop," *Hard Fork*, produced by *The New York Times*, October 17, 2025.
+[^28]:  Meghan Bobrowsky, "Zuckerberg's Grand Vision: Most of Your Friends Will Be AI," *The Wall Street Journal*, May 7, 2025. <https://www.wsj.com/tech/ai/mark-zuckerberg-ai-digital-future-0bb04de7>.
+[^29]:  Lynch, et al., "Agentic Misalignment: How LLMs Could be an Insider Threat," Anthropic Research, 2025. <https://www.anthropic.com/research/agentic-misalignment>.
+[^30]:  Nick Bostrom, "Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards," *Journal of Evolution and Technology* 9, no. 1 (2002): 1-31. <https://nickbostrom.com/existential/risks.pdf>.
+[^31]:  Ibid.
+[^32]:  METR and Redwood Research, "Brief Independent Investigation of Agents' Behavior, Reasoning and Collaboration in the OpenAI / Hugging Face Hacking Incident," August 26, 2026, <https://metr.org/hugging-face-incident-report-aug-2026.pdf>
+[^33]:  Karl Marx, *Grundrisse*, trans. Martin Nicolaus (London: Penguin Books, ebook 2015). The italics are Marx's own; however, I would draw the reader's attention to what he says about the development of an "automaton" that would be self-moving, complete with both mechanical and intellectual organs, such that its mechanical laws become a kind of "soul." Wild, no?
+[^34]:  Ibid.
+[^35]:  Ibid.
+[^36]:  Rick Moody, "Northern Wastes," *Dædalus: Journal of the American Academy of Arts & Sciences* 155, no. 4 (Fall 2026), forthcoming.
+[^37]:  Karl Marx, Capital: A Critique of Political Economy, Volume One, trans. Ben Fowkes (New York: Penguin Books, 1976), 492-636.
+[^38]:  Michel Foucault, *The Order of Things: An Archaeology of the Human Sciences* (New York: Routledge, 1970), 421-422.
+[^39]:  Christopher O'Neill, "Foucault and Information Theory: On 'Message or Noise?' (1966)," *Parrhesia: A Journal of Critical Philosophy* 39, no. 1 (2024): 1–17. O'Neill deals with cybernetics and information theory in this essay, arguing that it provided Foucault with a provocative way of conceptualizing "informatisation for clinical practice, medical power, and the metaphysical status of the living (13)." It is part of an emerging body of scholarship dedicated to the early Foucault's interests in cybernetics and information theory. See also Alexander Soytek, "*La réception de la théorie de l**'**information et de la cybernétique par* Michel Foucault, 1948–1969," in *L**'**archive Foucault à l'ère du numérique*, 2022. My point regarding neurobiology is slightly different: it suggests that problems once taken up within the philosophy of consciousness now find their expression in cognitive science.
+[^40]:  Michel Foucault, *The Hermeneutics of the Subject: Lectures at the Collège de France*, 1981-1982, ed., Frédéric Gros, trans. Graham Burchell (New York: Palgrave Macmillan, 2005),252. Foucault explains, "it seems to me that the analysis of governmentality–that is to say, of power as a set of reversible relationships–must refer to an ethics of the subject defined by the relationship of self to self. Quite simply, this means that in the type of analysis I have been trying to advance...you can see that power relations, governmentality, the government of the self and of others, and the relationship of self to self constitute a chain, a thread, and I think it is around these notions that we should be able to connect together the question of politics and the question of ethics."
+[^41]:  Ibid.
