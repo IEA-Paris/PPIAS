@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: "Three (or Maybe Four) Ways of Thinking AI Philosophically "
 date: 2026-10-06T21:03:00.000-05:00
 type: article
