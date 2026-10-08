@@ -1,54 +1,36 @@
 ---
-published: true
-article_title: "Self-Identity and Algorithmic Modernity: On Switching, Swerving and Lurching"
-date: 2026-10-07T11:13:00.000-05:00
-type: article
-needDOI: true
+DOI: 10.5281/zenodo.23233578
+Zid: 23233578
+abstract: "Can we detect changes in the way that the individual subject reacts to, and copes with, institutional and cultural transformations arising from the digital revolution? Can we discern changes in the deep affective structures of the subject as the world turns into pervasive predictive technologies? This paper addresses these questions. The first part of the paper argues that a metamorphosis is occurring in the economy and society, based on revisiting the debate over artificial intelligence.\_In the second part of the paper, I go on to argue that this new world requires a different theorization of modernity, one that specifically addresses digitalization, automation, and predictive technologies in its orientation. Here I outline the theory of \"algorithmic modernity\" which I have developed over recent years. These lines of inquiry open the way towards another interrogation: what, then, is the transformation of the human subject in conditions of algorithmic modernity? I broach this question in the final section of the paper by introducing new conceptual terminology. Not so very long ago, the terms \"human-in-the-loop\" and \"human-AI collaboration\" were widely discussed in computer science, human-machine interaction studies, and other scientific discourses (Crootof\_et al., 2023; Kyriakou & Otterbacher, 2023).\_All of\_this talk of the posthuman and the post-machine subject, however, has served as a pseudo-theoretical cover story, an evasion of the central task of rethinking the relation between self and technology in the current age (Braidotti, 2013; de Freitas & Curinga, 2015). I broach the question of transformations of the subject by using various social-theoretical topographies, and I go on to argue that it is in\_experimental life-projects of switching, swerving and lurching\_that we can detect fundamental shifts in the state of the subject today.\_"
+article_title: 'Self-Identity and Algorithmic Modernity: On Switching, Swerving and Lurching'
 authors:
-  - is_institution: false
-    firstname: Anthony
+  - firstname: Anthony
+    is_institution: false
     lastname: Elliott
     positions_and_institutions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: 'Can we detect changes in the way that the individual subject reacts
-  to, and copes with, institutional and cultural transformations arising from
-  the digital revolution? Can we discern changes in the deep affective
-  structures of the subject as the world turns into pervasive predictive
-  technologies? This paper addresses these questions. The first part of the
-  paper argues that a metamorphosis is occurring in the economy and society,
-  based on revisiting the debate over artificial intelligence. In the second
-  part of the paper, I go on to argue that this new world requires a different
-  theorization of modernity, one that specifically addresses digitalization,
-  automation, and predictive technologies in its orientation. Here I outline the
-  theory of "algorithmic modernity" which I have developed over recent years.
-  These lines of inquiry open the way towards another interrogation: what, then,
-  is the transformation of the human subject in conditions of algorithmic
-  modernity? I broach this question in the final section of the paper by
-  introducing new conceptual terminology. Not so very long ago, the terms
-  "human-in-the-loop" and "human-AI collaboration" were widely discussed in
-  computer science, human-machine interaction studies, and other scientific
-  discourses (Crootof et al., 2023; Kyriakou & Otterbacher, 2023). All of this
-  talk of the posthuman and the post-machine subject, however, has served as a
-  pseudo-theoretical cover story, an evasion of the central task of rethinking
-  the relation between self and technology in the current age (Braidotti, 2013;
-  de Freitas & Curinga, 2015). I broach the question of transformations of the
-  subject by using various social-theoretical topographies, and I go on to argue
-  that it is in experimental life-projects of switching, swerving and
-  lurching that we can detect fundamental shifts in the state of the subject
-  today. '
-issue: content/issues/paris-ias-ideas-2026.md
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: >-
+  /self-identity-and-algorithmic-modernity-on-switching-swerving-and-lurching/elliot_references.bib
+date: 2026-10-07T16:13:00.000Z
 highlight: false
-bibliography: /self-identity-and-algorithmic-modernity-on-switching-swerving-and-lurching/elliot_references.bib
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/911b64a6-d59f-4a26-a03b-8bfe95c3cbc3
+needDOI: true
+published: true
+type: article
+
 ---
+
 ## The Great AI Debate
 
 As the great wave of AI has transformed the world, emerging automated technology has entered more and more into the fabric of our lives. From personal virtual assistants and chatbots to self-driving vehicles and telerobotics, AI has become threaded into large tracts of everyday life, and increasingly reshaped the economy and society. Klaus Schwab (2016), founder of the World Economic Forum, has contended that AI ushers into existence a "fourth industrial revolution". The first profound industrial revolution was steam-powered, the second electrical, the third the arrival of the computer age, and Schwab argues that today's AI revolution is "unlike anything humankind has experienced before". AI is not so much an advancement of technology, but rather the *metamorphosis* of all technology.
