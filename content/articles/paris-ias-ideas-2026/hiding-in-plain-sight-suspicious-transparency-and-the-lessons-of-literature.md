@@ -1,49 +1,38 @@
 ---
-published: true
+DOI: 10.5281/zenodo.23479672
+Zid: 23479672
+abstract: "Transparency is widely hailed as a cure for distrust, yet it frequently breeds the very suspicion it promises to dispel. Starting from the Epstein files and \"Trumparency,\" this paper shows how the rhetoric of full disclosure fuels conspiratorial doubt. Building on critical transparency studies, it explains why transparency and secrecy are intertwined, and why transparency discourse shares with conspiracy theory the premise of a hidden \"backstage.\" Yet concealment does not necessarily imply withholding access: evidence can be fully displayed and still go unseen, more effectively than behind a locked door. Literature–and detective fiction in particular–knows this all too well. The paper turns to literary strategies for hiding \"in plain sight,\" and, from Poe and Conan Doyle to Christie, Chesterton and Borges, proposes a typology of five:\_attention redirection, informational drowning, mimetic camouflage, inferential misleading,\_and\_contractual exploitation. Transposed to political communication, these strategies help identify how timing, document dumps, procedural routine, paltering, and performative claims of openness steer the public's attention away from what is truly consequential. The paper concludes with the White House's AI chatbot America.gov, where opacity arises from excessive disclosure, not from withholding."
 article_title: Hiding in Plain Sight - Suspicious Transparency and the Lessons of Literature
-date: 2026-10-19T11:07:00.000-05:00
-type: article
-needDOI: true
 authors:
-  - is_institution: false
-    firstname: "Emmanuel "
+  - firstname: 'Emmanuel '
+    is_institution: false
     lastname: Alloa
     positions_and_institutions:
       - institution: University of Fribourg
         positions: []
     social_channels:
-      website: ""
-      wikipedia: ""
-      orcid: ""
-      linkedin: ""
-      webstwitterite: ""
-      google_scholar: ""
-      researchgate: ""
-      mendeley: ""
-abstract: "Transparency is widely hailed as a cure for distrust, yet it
-  frequently breeds the very suspicion it promises to dispel. Starting from the
-  Epstein files and \"Trumparency,\" this paper shows how the rhetoric of full
-  disclosure fuels conspiratorial doubt. Building on critical transparency
-  studies, it explains why transparency and secrecy are intertwined, and why
-  transparency discourse shares with conspiracy theory the premise of a hidden
-  \"backstage.\" Yet concealment does not necessarily imply withholding access:
-  evidence can be fully displayed and still go unseen, more effectively than
-  behind a locked door. Literature–and detective fiction in particular–knows
-  this all too well. The paper turns to literary strategies for hiding \"in
-  plain sight,\" and, from Poe and Conan Doyle to Christie, Chesterton and
-  Borges, proposes a typology of five: attention redirection, informational
-  drowning, mimetic camouflage, inferential misleading, and contractual
-  exploitation. Transposed to political communication, these strategies help
-  identify how timing, document dumps, procedural routine, paltering, and
-  performative claims of openness steer the public's attention away from what is
-  truly consequential. The paper concludes with the White House's AI chatbot
-  America.gov, where opacity arises from excessive disclosure, not from
-  withholding."
-issue: content/issues/paris-ias-ideas-2026.md
+      google_scholar: ''
+      linkedin: ''
+      mendeley: ''
+      orcid: ''
+      researchgate: ''
+      website: ''
+      webstwitterite: ''
+      wikipedia: ''
+bibliography: >-
+  /hiding-in-plain-sight-suspicious-transparency-and-the-lessons-of-literature/alloa_references.bib
+date: 2026-10-19T16:07:00.000Z
 highlight: false
-bibliography: /hiding-in-plain-sight-suspicious-transparency-and-the-lessons-of-literature/alloa_references.bib
+issue: content/issues/paris-ias-ideas-2026.md
 language: English
+links:
+  bucket: https://zenodo.org/api/files/2333348d-bcf9-4e6b-8730-f19bc9441b83
+needDOI: true
+published: true
+type: article
+
 ---
+
 **Keywords:** critical transparency studies, transparency paradox, weaponized openness, Trumparency, literature, detective novel, conspiracy theory, political communication
 
 ## 1. From Transparency to Trumparency
@@ -129,25 +118,4 @@ Two differences between the detective novel and political communication stand ou
 The following matrix is an attempt to provisionally summarize the "lessons" that could be drawn from literature for an analysis of the contemporary political discourse. 
 
 |     | STRATEGY                        | DIMENSION          | DETECTIVE STORY (LITERATURE)                                                 | POLITICAL COMMUNICATION                                                              |
-| --- | ------------------------------- | ------------------ | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| i   | attention redirection           | salience           | clue is shown, but eye is drawn elsewhere                                    | facts are released, but timed and placed where no one looks                          |
-| ii  | informational drowning          | quantity           | clue is shown among so many others that it cannot be singled out             | disclosure comes with a cognitive overload no one can process                        |
-| iii | mimetic camouflage              | resemblance        | clue is shown, but looks like part of the scenery                            | the consequential act is made to look like routine or compliance                     |
-| iv  | inferential misleading          | expectation        | clue is shown, but the inquirer's own premise misreads it                    | statements are tailored to invite the audience to make a false inference             |
-| v   | contractual exploitation (meta) | trust in the frame | reader's faith in the genre's rules prevents scrutiny of the narrative frame | performative display of "hyper-transparency" creates a frame that conceals deception |
-
-On this last type, some research suggests that a rhetoric of hyper-transparency, with plainness, "nothing-to-hide"-claims and unfiltered speech as its ultimate embodiment, might matter more today than any actual disclosure (Fenster, 2022; Pillow et al., 2018); other studies in turn indicate that displays of transparency can fuel suspicion rather than dispel it (Fenster, 2017; Grimmelikhuijsen & Meijer, 2014). Campaign-finance disclosure is a telling case. Designed to foster accountability by identifying who funds political actors, public disclosure can have the opposite effect: exposing thousands of transactions, intermediaries, and corporate networks may raise doubts about what remains hidden and whether legal mechanisms mask actual political leverage. Transparency International's 2026 analysis of eight European countries documents the underlying problem, finding fragmented disclosure systems and persistent loopholes in all of them (Transparency International, 2026). In sum, the more complete a disclosure regime appears, the more conspicuous its blind spots become. The same dynamic can be observed in visual and textual production. In video, the label "AI-generated" ostensibly resolves the epistemic problem by making provenance visible, but it can also generalize doubt: once viewers know that some images are artificial, they may begin to suspect all images that lack provenance (Altay & Gilardi, 2024). Similarly, in the wake of successful literary works suspected of substantial AI use, a "100% Human Authored" label has been proposed as reassurance, only to raise the question of how such a claim could be verified, short of requiring all authors to write under the constant supervision of a bailiff.  
-
-As different as they may be, all these phenomena concur in highlighting that the dialectics of ignorance and insight might not be exactly distributed along the lines of secrecy and transparency, but that sometimes, to go transparent might be the best way to hide something you don't want others to know. In contemporary regimes of visibility, opacity no longer necessarily results from withholding information, but is born out of excessive disclosure: what is hidden in plain sight is not the absence of information but the relation that would allow the information to become intelligible.
-
-## 8. Post-Scriptum on Conversational Bureaucracy
-
-Let's return to where we started off: the issue of government transparency with the case of the current US government. Over the last months, the Trump administration hasn't stopped presenting itself as the most transparent administration in the History of the United States. Already in spring 2026, the White House had launched an official mobile app and described it as providing an "unfiltered, real-time updates straight from the source". The government boasts of offering the best ever transparency on pricing and technology, while on July 30, 2026, the White House "Transparency Task Force" announced it had disclosed a large number of hitherto classified documents. We see the same logic at play: the more emphatically an administration declares itself transparent, the more transparency becomes a claim that itself requires verification. In other words, transparency ceases to reveal anything new and instead becomes a self-referential performance of trustworthiness– and in doing so generates a new object of suspicion.
-
-The latest example to this day is the following. In September 2026, the White House launched anew service called America.gov, meant to act as the ultimate "digital front door" for citizens. Boasting a "secure, intelligent, and service-oriented single point of entry through which an individual can sign in \[and] communicate in plain language", its chatbot interface continues to exemplify the paradox of transparency. As it were, the platform America.gov promises to resolve the problem of governmental opacity by turning bureaucracy into conversation, yet the conversational chatbot introduces a new opacity of its own: citizens no longer confront the government through documents, institutions, and procedures, but through an AI intermediary whose selection, synthesis, and refusal mechanisms remain partly invisible. The chatbot itself admits that it has hidden instructions: when *The Washington Post* journalists asked about them, it reportedly acknowledged their existence but refused to reveal their contents ('We Tested America.Gov, Trump's New AI "concierge." Here's What It Can Do', 2026).
-
-Transparency thus shifts from the visibility of information to the presumed transparency of the interface–itself infinitely fueling further suspicion. Transparency has become conversational, while bureaucracy has learned to smile. "Just ask": the desk hours of the bureaucrat have been replaced by an always available and forthcoming chatbot, ready to respond to any prompt, while keeping the machinery of its speech once more out of sight. The irony is hard to miss. Once converted into conversation, the rhetoric of transparency becomes strangely recursive. The transparent state has not disappeared behind the chatbot; it has simply learned to hide in plain sight–and to answer back.
-
-## Acknowledgement
-
-This paper was written in connection with my writing residency at the Institut d'études avancées de Paris (IEA) in 2026. I would like to express my gratitude to the institute and its teams for their warm welcome, as well as to my fellow residents, for their valuable feedback.
+| 
