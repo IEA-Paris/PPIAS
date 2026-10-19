@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 article_title: Hiding in Plain Sight - Suspicious Transparency and the Lessons of Literature
 date: 2026-10-19T11:07:00.000-05:00
 type: article
